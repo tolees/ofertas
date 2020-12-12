@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'ASTER-01 Masajeador de Mano para aliviar el Dolor Muscular'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RL7HSLC/?tag=tolees-21'
+descuento: '69.72'
+titulo: 'ASTER-01 Masajeador de Mano para aliviar'
 ---
 
 Ahora mismo tienes [ASTER-01 Masajeador de Mano para aliviar el Dolor Muscular](https://www.amazon.es/dp/B07RL7HSLC/?tag=tolees-21) a 9.99 EUR (original: 32.99 EUR) (69.72 %  de descuento) en el siguiente enlace!

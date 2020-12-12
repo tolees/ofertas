@@ -17,6 +17,9 @@ comparePrice: 155 EUR
 inStock: true
 prodname: 'Panama Jack Panama 03 Wool  Náuticos para Hombre  Amarillo  Vintage C1   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002LE7EZC/?tag=tolees-21'
+descuento: '41.82'
+titulo: 'Panama Jack Panama 03 Wool  Náuticos par'
 ---
 
 Tienes [Panama Jack Panama 03 Wool  Náuticos para Hombre  Amarillo  Vintage C1   46 EU](https://www.amazon.es/dp/B002LE7EZC/?tag=tolees-21) con un 41.82 % de descuento con precio de oferta de 90.18 EUR (original: 155 EUR) en el siguiente enlace!

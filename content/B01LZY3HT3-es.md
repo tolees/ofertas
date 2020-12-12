@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'edc by ESPRIT 126CC1K074  Camisa Manga Larga Mujer  Gris  Anthracite 5   34   X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZY3HT3/?tag=tolees-21'
+descuento: '59.41'
+titulo: 'edc by ESPRIT 126CC1K074  Camisa Manga L'
 ---
 
 Está [edc by ESPRIT 126CC1K074  Camisa Manga Larga Mujer  Gris  Anthracite 5   34   X-Small ](https://www.amazon.es/dp/B01LZY3HT3/?tag=tolees-21) con 59.41 de descuento por 10.55 EUR (original: 25.99 EUR) en el siguiente enlace!

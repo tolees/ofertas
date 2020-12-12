@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Black Crevice Máscara de Esquí Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZWQUGF6/?tag=tolees-21'
+descuento: '60.02'
+titulo: 'Black Crevice Máscara de Esquí Blanco'
 ---
 
 Tienes [Black Crevice Máscara de Esquí Blanco](https://www.amazon.es/dp/B00ZWQUGF6/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 15.99 EUR (original: 39.99 EUR) en el siguiente enlace!

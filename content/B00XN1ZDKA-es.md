@@ -17,6 +17,9 @@ comparePrice: 21.54 EUR
 inStock: true
 prodname: 'Tatay Cubo de Basura con Tapa abatible Optimist  Plástico  Blanco  Weiss   30 x 23.5 x 42 cm  20 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XN1ZDKA/?tag=tolees-21'
+descuento: '69.13'
+titulo: 'Tatay Cubo de Basura con Tapa abatible O'
 ---
 
 Está [Tatay Cubo de Basura con Tapa abatible Optimist  Plástico  Blanco  Weiss   30 x 23.5 x 42 cm  20 L](https://www.amazon.es/dp/B00XN1ZDKA/?tag=tolees-21) con 69.13 de descuento por 6.65 EUR (original: 21.54 EUR) en el siguiente enlace!

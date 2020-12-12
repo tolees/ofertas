@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Nike Jr Bravata II IC  Zapatillas de Fútbol Unisex niños  Negro White-Black 001  36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005K7OKVS/?tag=tolees-21'
+descuento: '51.63'
+titulo: 'Nike Jr Bravata II IC  Zapatillas de Fút'
 ---
 
 Tienes [Nike Jr Bravata II IC  Zapatillas de Fútbol Unisex niños  Negro White-Black 001  36.5 EU](https://www.amazon.es/dp/B005K7OKVS/?tag=tolees-21) con un 51.63 % de descuento con precio de oferta de 14.51 EUR (original: 30 EUR) en el siguiente enlace!

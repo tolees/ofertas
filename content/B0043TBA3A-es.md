@@ -17,6 +17,9 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'Nalgene Everyday OTF - Cantimplora  0 7 L   Color Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0043TBA3A/?tag=tolees-21'
+descuento: '28.67'
+titulo: 'Nalgene Everyday OTF - Cantimplora  0 7 '
 ---
 
 Está [Nalgene Everyday OTF - Cantimplora  0 7 L   Color Azul](https://www.amazon.es/dp/B0043TBA3A/?tag=tolees-21) con 28.67 de descuento por 9.95 EUR (original: 13.95 EUR) en el siguiente enlace!

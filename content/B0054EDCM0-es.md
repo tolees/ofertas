@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Premier Housewares - Perchero para Puerta  10 Ganchos '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0054EDCM0/?tag=tolees-21'
+descuento: '32.93'
+titulo: 'Premier Housewares - Perchero para Puert'
 ---
 
 Tienes [Premier Housewares - Perchero para Puerta  10 Ganchos ](https://www.amazon.es/dp/B0054EDCM0/?tag=tolees-21) con un 32.93 % de descuento con precio de oferta de 13.38 EUR (original: 19.95 EUR) en el siguiente enlace!

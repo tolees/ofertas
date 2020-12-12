@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Springfield 490 Fotographic Camara 90 Camiseta  Hombre  Blanco  Blanco 99   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1DT1F/?tag=tolees-21'
+descuento: '31.95'
+titulo: 'Springfield 490 Fotographic Camara 90 Ca'
 ---
 
 Tienes [Springfield 490 Fotographic Camara 90 Camiseta  Hombre  Blanco  Blanco 99   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KZ1DT1F/?tag=tolees-21) con un 31.95 % de descuento con precio de oferta de 8.84 EUR (original: 12.99 EUR) en el siguiente enlace!

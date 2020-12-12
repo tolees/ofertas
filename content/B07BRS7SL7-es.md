@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Luces Solares para Jardín  AGM Lámpara Solar de Pared 12LED Coloridas RGB IP65 Impermeable  180 ° Granangular Luz de Exterior Sensor de Movimiento para Camino Piscina  1 pieza '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BRS7SL7/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Luces Solares para Jardín  AGM Lámpara S'
 ---
 
 Tienes [Luces Solares para Jardín  AGM Lámpara Solar de Pared 12LED Coloridas RGB IP65 Impermeable  180 ° Granangular Luz de Exterior Sensor de Movimiento para Camino Piscina  1 pieza ](https://www.amazon.es/dp/B07BRS7SL7/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

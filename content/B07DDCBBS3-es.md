@@ -17,6 +17,9 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'Young & Ming Xiaomi Redmi Note 5 Funda  [3 Pack] Carcasa Transparente Slilicona Suave TPU Gel Enjaca Perfecta para Xiaomi Redmi Note 5  Color 1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DDCBBS3/?tag=tolees-21'
+descuento: '59.08'
+titulo: 'Young & Ming Xiaomi Redmi Note 5 Funda  '
 ---
 
 Está [Young & Ming Xiaomi Redmi Note 5 Funda  [3 Pack] Carcasa Transparente Slilicona Suave TPU Gel Enjaca Perfecta para Xiaomi Redmi Note 5  Color 1](https://www.amazon.es/dp/B07DDCBBS3/?tag=tolees-21) con 59.08 de descuento por 8.59 EUR (original: 20.99 EUR) en el siguiente enlace!

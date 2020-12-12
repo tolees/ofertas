@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Only Onlnew Skylar Fur Parka CC Otw  Chaqueta para Mujer  Rosa Misty Rose  42  Talla del Fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJWGCFG/?tag=tolees-21'
+descuento: '50.09'
+titulo: 'Only Onlnew Skylar Fur Parka CC Otw  Cha'
 ---
 
 Está [Only Onlnew Skylar Fur Parka CC Otw  Chaqueta para Mujer  Rosa Misty Rose  42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07DJWGCFG/?tag=tolees-21) con 50.09 de descuento por 24.95 EUR (original: 49.99 EUR) en el siguiente enlace!

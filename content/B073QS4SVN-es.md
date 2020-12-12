@@ -17,6 +17,9 @@ comparePrice: 111.71 EUR
 inStock: true
 prodname: 'Orbegozo VT 610 Vinoteca 6 botellas  17 litros  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QS4SVN/?tag=tolees-21'
+descuento: '33.77'
+titulo: 'Orbegozo VT 610 Vinoteca 6 botellas  17 '
 ---
 
 Ahora mismo tienes [Orbegozo VT 610 Vinoteca 6 botellas  17 litros  Negro](https://www.amazon.es/dp/B073QS4SVN/?tag=tolees-21) a 73.99 EUR (original: 111.71 EUR) (33.77 %  de descuento) en el siguiente enlace!

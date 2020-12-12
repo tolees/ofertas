@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Dainese Action Short EVO Protecciones de Esquí  Hombre  Negro/Blanco  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007QSANJW/?tag=tolees-21'
+descuento: '27.06'
+titulo: 'Dainese Action Short EVO Protecciones de'
 ---
 
 Está [Dainese Action Short EVO Protecciones de Esquí  Hombre  Negro/Blanco  L](https://www.amazon.es/dp/B007QSANJW/?tag=tolees-21) con 27.06 de descuento por 72.21 EUR (original: 99 EUR) en el siguiente enlace!

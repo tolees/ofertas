@@ -17,6 +17,9 @@ comparePrice: 61.03 EUR
 inStock: true
 prodname: 'BSN True Mass Ganador en Polvo  Vainilla - 2640 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CKIOI3U/?tag=tolees-21'
+descuento: '49.88'
+titulo: 'BSN True Mass Ganador en Polvo  Vainilla'
 ---
 
 Tienes [BSN True Mass Ganador en Polvo  Vainilla - 2640 g](https://www.amazon.es/dp/B00CKIOI3U/?tag=tolees-21) con un 49.88 % de descuento con precio de oferta de 30.59 EUR (original: 61.03 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Medisana HP 625 61140  Almohadilla Térmica  cojín de calor con 4 configuraciones de temperatura  tamaño: 46 x 35 cm  tecnología APS  funda lavable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0188XP6LS/?tag=tolees-21'
+descuento: '57.13'
+titulo: 'Medisana HP 625 61140  Almohadilla Térmi'
 ---
 
 Ahora mismo tienes [Medisana HP 625 61140  Almohadilla Térmica  cojín de calor con 4 configuraciones de temperatura  tamaño: 46 x 35 cm  tecnología APS  funda lavable](https://www.amazon.es/dp/B0188XP6LS/?tag=tolees-21) a 29.99 EUR (original: 69.95 EUR) (57.13 %  de descuento) en el siguiente enlace!

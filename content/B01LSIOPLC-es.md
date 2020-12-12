@@ -17,6 +17,9 @@ comparePrice: 3.99 EUR
 inStock: true
 prodname: 'Garnier Color Sensation coloración permanente e intensa reutilizable con bol y pincel - Tono: C1 Toffee'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LSIOPLC/?tag=tolees-21'
+descuento: '25.81'
+titulo: 'Garnier Color Sensation coloración perma'
 ---
 
 Está [Garnier Color Sensation coloración permanente e intensa reutilizable con bol y pincel - Tono: C1 Toffee](https://www.amazon.es/dp/B01LSIOPLC/?tag=tolees-21) con 25.81 de descuento por 2.96 EUR (original: 3.99 EUR) en el siguiente enlace!

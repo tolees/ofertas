@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'FIND Pantalones de Vestir para Hombre Gris  Charcoal  W30/L31'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072QN4D8N/?tag=tolees-21'
+descuento: '48.80'
+titulo: 'FIND Pantalones de Vestir para Hombre Gr'
 ---
 
 Tienes [FIND Pantalones de Vestir para Hombre Gris  Charcoal  W30/L31](https://www.amazon.es/dp/B072QN4D8N/?tag=tolees-21) con un 48.80 % de descuento con precio de oferta de 20.48 EUR (original: 40 EUR) en el siguiente enlace!

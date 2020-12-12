@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Wilson Raqueta de Tenis Junior Burn - WRT508000  Anaranjado/Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011RLXX90/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Wilson Raqueta de Tenis Junior Burn - WR'
 ---
 
 Ahora mismo tienes [Wilson Raqueta de Tenis Junior Burn - WRT508000  Anaranjado/Negro](https://www.amazon.es/dp/B011RLXX90/?tag=tolees-21) a 34.99 EUR (original: 50 EUR) (30.02 %  de descuento) en el siguiente enlace!

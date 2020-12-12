@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Joma Bali II Polo  Hombre  Gris  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XNZ3VJJ/?tag=tolees-21'
+descuento: '45.26'
+titulo: 'Joma Bali II Polo  Hombre  Gris  XL'
 ---
 
 Tienes [Joma Bali II Polo  Hombre  Gris  XL](https://www.amazon.es/dp/B06XNZ3VJJ/?tag=tolees-21) con un 45.26 % de descuento con precio de oferta de 10.92 EUR (original: 19.95 EUR) en el siguiente enlace!

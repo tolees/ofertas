@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Muse Satin EP Wn s  Zapatillas para Mujer  Rosa Peach Bud  38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1P3YV/?tag=tolees-21'
+descuento: '46.09'
+titulo: 'Puma Muse Satin EP Wn s  Zapatillas para'
 ---
 
 Ahora mismo tienes [Puma Muse Satin EP Wn s  Zapatillas para Mujer  Rosa Peach Bud  38.5 EU](https://www.amazon.es/dp/B07DC1P3YV/?tag=tolees-21) a 48.49 EUR (original: 89.95 EUR) (46.09 %  de descuento) en el siguiente enlace!

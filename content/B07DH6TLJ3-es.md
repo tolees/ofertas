@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Cressi Reef Calzado para Mar y Deportes Acuáticos  Unisex Adultos y Niños  Negro/Rojo  41'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DH6TLJ3/?tag=tolees-21'
+descuento: '46.96'
+titulo: 'Cressi Reef Calzado para Mar y Deportes '
 ---
 
 Está [Cressi Reef Calzado para Mar y Deportes Acuáticos  Unisex Adultos y Niños  Negro/Rojo  41](https://www.amazon.es/dp/B07DH6TLJ3/?tag=tolees-21) con 46.96 de descuento por 7.95 EUR (original: 14.99 EUR) en el siguiente enlace!

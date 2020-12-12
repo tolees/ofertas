@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 028eo1k003  Camisa Manga Larga Mujer  Rosa  Nude 685   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077ZLW8MM/?tag=tolees-21'
+descuento: '74.02'
+titulo: 'ESPRIT Collection 028eo1k003  Camisa Man'
 ---
 
 Está [ESPRIT Collection 028eo1k003  Camisa Manga Larga Mujer  Rosa  Nude 685   Large](https://www.amazon.es/dp/B077ZLW8MM/?tag=tolees-21) con 74.02 de descuento por 9.35 EUR (original: 35.99 EUR) en el siguiente enlace!

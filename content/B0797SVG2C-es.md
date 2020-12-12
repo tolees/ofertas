@@ -17,6 +17,9 @@ comparePrice: 159.99 EUR
 inStock: true
 prodname: 'MURENKING MK36C Batidoras Amasadoras 1000W Capacidad de 5 L 6 Velocidades con 4 Accesorios  Gris '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0797SVG2C/?tag=tolees-21'
+descuento: '43.75'
+titulo: 'MURENKING MK36C Batidoras Amasadoras 100'
 ---
 
 Está [MURENKING MK36C Batidoras Amasadoras 1000W Capacidad de 5 L 6 Velocidades con 4 Accesorios  Gris ](https://www.amazon.es/dp/B0797SVG2C/?tag=tolees-21) con 43.75 de descuento por 89.99 EUR (original: 159.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 108.8 EUR
 inStock: true
 prodname: 'Deuter XV 1 SL  Mochila Unisex Adulto  Rojo  Cranberry/Aubergine   24x36x45 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078N9WZQ1/?tag=tolees-21'
+descuento: '32.76'
+titulo: 'Deuter XV 1 SL  Mochila Unisex Adulto  R'
 ---
 
 Está [Deuter XV 1 SL  Mochila Unisex Adulto  Rojo  Cranberry/Aubergine   24x36x45 cm  W x H x L ](https://www.amazon.es/dp/B078N9WZQ1/?tag=tolees-21) con 32.76 de descuento por 73.16 EUR (original: 108.8 EUR) en el siguiente enlace!

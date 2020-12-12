@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'SENSILIS Pure Perfection Crema Antiedad Equilibrante 50ML'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008XOXVLU/?tag=tolees-21'
+descuento: '39.87'
+titulo: 'SENSILIS Pure Perfection Crema Antiedad '
 ---
 
 Ahora mismo tienes [SENSILIS Pure Perfection Crema Antiedad Equilibrante 50ML](https://www.amazon.es/dp/B008XOXVLU/?tag=tolees-21) a 24.05 EUR (original: 40 EUR) (39.87 %  de descuento) en el siguiente enlace!

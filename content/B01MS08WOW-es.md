@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Reebok Royal Complete 2Lt  Zapatillas de Tenis para Hombre   Khaki/Hunter Green/Classic White   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MS08WOW/?tag=tolees-21'
+descuento: '48.67'
+titulo: 'Reebok Royal Complete 2Lt  Zapatillas de'
 ---
 
 Tienes [Reebok Royal Complete 2Lt  Zapatillas de Tenis para Hombre   Khaki/Hunter Green/Classic White   44 EU](https://www.amazon.es/dp/B01MS08WOW/?tag=tolees-21) con un 48.67 % de descuento con precio de oferta de 25.64 EUR (original: 49.95 EUR) en el siguiente enlace!

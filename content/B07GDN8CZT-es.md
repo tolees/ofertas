@@ -17,6 +17,9 @@ comparePrice: 72.54 EUR
 inStock: true
 prodname: 'Mochila de la cámara，Mochila Fotografía Mochila Impermeable para Cámara Réflex Canon Nikon Sony Lente Trípode Flash Portátil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDN8CZT/?tag=tolees-21'
+descuento: '31.09'
+titulo: 'Mochila de la cámara，Mochila Fotografía '
 ---
 
 Tienes [Mochila de la cámara，Mochila Fotografía Mochila Impermeable para Cámara Réflex Canon Nikon Sony Lente Trípode Flash Portátil](https://www.amazon.es/dp/B07GDN8CZT/?tag=tolees-21) con un 31.09 % de descuento con precio de oferta de 49.99 EUR (original: 72.54 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'HUGO Elisha01 Camisa  Azul  Navy 413   XX-Large  Talla del Fabricante: 46  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKT289X/?tag=tolees-21'
+descuento: '63.50'
+titulo: 'HUGO Elisha01 Camisa  Azul  Navy 413   X'
 ---
 
 Ahora mismo tienes [HUGO Elisha01 Camisa  Azul  Navy 413   XX-Large  Talla del Fabricante: 46  para Hombre](https://www.amazon.es/dp/B07KKT289X/?tag=tolees-21) a 32.83 EUR (original: 89.95 EUR) (63.50 %  de descuento) en el siguiente enlace!

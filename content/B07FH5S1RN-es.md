@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Mustang Schnür-Booty  Zapatillas Altas para Niñas  Azul  Navy 820   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FH5S1RN/?tag=tolees-21'
+descuento: '72.19'
+titulo: 'Mustang Schnür-Booty  Zapatillas Altas p'
 ---
 
 Está [Mustang Schnür-Booty  Zapatillas Altas para Niñas  Azul  Navy 820   40 EU](https://www.amazon.es/dp/B07FH5S1RN/?tag=tolees-21) con 72.19 de descuento por 18.06 EUR (original: 64.95 EUR) en el siguiente enlace!

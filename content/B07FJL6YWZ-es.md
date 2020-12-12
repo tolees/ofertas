@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'adidas Predator 18.3 FG J  Zapatillas de Fútbol Unisex Niños  Negro Cblack/Ftwwht  34 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJL6YWZ/?tag=tolees-21'
+descuento: '50.73'
+titulo: 'adidas Predator 18.3 FG J  Zapatillas de'
 ---
 
 Está [adidas Predator 18.3 FG J  Zapatillas de Fútbol Unisex Niños  Negro Cblack/Ftwwht  34 EU](https://www.amazon.es/dp/B07FJL6YWZ/?tag=tolees-21) con 50.73 de descuento por 32 EUR (original: 64.95 EUR) en el siguiente enlace!

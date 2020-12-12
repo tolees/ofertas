@@ -17,6 +17,9 @@ comparePrice: 14.62 EUR
 inStock: true
 prodname: 'EZARC 3D-MAX Multi herramientas Oscilantes 3 in 1 Multifuncional Hoja para Cortar  Rascar y Moler'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C9XZKTH/?tag=tolees-21'
+descuento: '56.43'
+titulo: 'EZARC 3D-MAX Multi herramientas Oscilant'
 ---
 
 Está [EZARC 3D-MAX Multi herramientas Oscilantes 3 in 1 Multifuncional Hoja para Cortar  Rascar y Moler](https://www.amazon.es/dp/B07C9XZKTH/?tag=tolees-21) con 56.43 de descuento por 6.37 EUR (original: 14.62 EUR) en el siguiente enlace!

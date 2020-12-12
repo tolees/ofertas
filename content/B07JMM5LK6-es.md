@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'XTI 49073  Sandalias con Plataforma para Mujer  Beige  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMM5LK6/?tag=tolees-21'
+descuento: '54.19'
+titulo: 'XTI 49073  Sandalias con Plataforma para'
 ---
 
 Tienes [XTI 49073  Sandalias con Plataforma para Mujer  Beige  39 EU](https://www.amazon.es/dp/B07JMM5LK6/?tag=tolees-21) con un 54.19 % de descuento con precio de oferta de 22.88 EUR (original: 49.95 EUR) en el siguiente enlace!

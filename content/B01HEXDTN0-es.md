@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'DC Shoes Tonik LE  Zapatillas para Hombre  Negro  Black/Stone   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HEXDTN0/?tag=tolees-21'
+descuento: '56.45'
+titulo: 'DC Shoes Tonik LE  Zapatillas para Hombr'
 ---
 
 Está [DC Shoes Tonik LE  Zapatillas para Hombre  Negro  Black/Stone   41 EU](https://www.amazon.es/dp/B01HEXDTN0/?tag=tolees-21) con 56.45 de descuento por 37.02 EUR (original: 85 EUR) en el siguiente enlace!

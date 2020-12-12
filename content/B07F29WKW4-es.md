@@ -17,6 +17,9 @@ comparePrice: 115.74 EUR
 inStock: true
 prodname: 'WELQUIC Detector de Metales con Pinpoint Tecnología VLF y Modo de Discriminación Impermeable para Gold Nugget Prospección Reliquias Monedas Joyería  Negro y Amarillo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F29WKW4/?tag=tolees-21'
+descuento: '55.08'
+titulo: 'WELQUIC Detector de Metales con Pinpoint'
 ---
 
 Está [WELQUIC Detector de Metales con Pinpoint Tecnología VLF y Modo de Discriminación Impermeable para Gold Nugget Prospección Reliquias Monedas Joyería  Negro y Amarillo ](https://www.amazon.es/dp/B07F29WKW4/?tag=tolees-21) con 55.08 de descuento por 51.99 EUR (original: 115.74 EUR) en el siguiente enlace!

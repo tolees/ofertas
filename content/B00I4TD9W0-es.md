@@ -17,6 +17,9 @@ comparePrice: 37.11 EUR
 inStock: true
 prodname: 'ROYAL CANIN Comida para Gatos Babycat Instinctive 12 * 195gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I4TD9W0/?tag=tolees-21'
+descuento: '68.80'
+titulo: 'ROYAL CANIN Comida para Gatos Babycat In'
 ---
 
 Está [ROYAL CANIN Comida para Gatos Babycat Instinctive 12 * 195gr](https://www.amazon.es/dp/B00I4TD9W0/?tag=tolees-21) con 68.80 de descuento por 11.58 EUR (original: 37.11 EUR) en el siguiente enlace!

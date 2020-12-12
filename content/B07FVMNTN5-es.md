@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'BOLF Hombre Sudadera con Impresión con Capucha Estilo Deportivo J.Style DD263 Gris Grafito M [1A1]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FVMNTN5/?tag=tolees-21'
+descuento: '67.58'
+titulo: 'BOLF Hombre Sudadera con Impresión con C'
 ---
 
 Tienes [BOLF Hombre Sudadera con Impresión con Capucha Estilo Deportivo J.Style DD263 Gris Grafito M [1A1]](https://www.amazon.es/dp/B07FVMNTN5/?tag=tolees-21) con un 67.58 % de descuento con precio de oferta de 12.95 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'YONE Hebilla de cinturón Rock Punk Skull Belt Buckle'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074N3HGW1/?tag=tolees-21'
+descuento: '37.52'
+titulo: 'YONE Hebilla de cinturón Rock Punk Skull'
 ---
 
 Tienes [YONE Hebilla de cinturón Rock Punk Skull Belt Buckle](https://www.amazon.es/dp/B074N3HGW1/?tag=tolees-21) con un 37.52 % de descuento con precio de oferta de 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 7.96 EUR
 inStock: true
 prodname: 'Head Hydrosorb Grip  Unisex  Negro/Rojo  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001O4EQ4M/?tag=tolees-21'
+descuento: '25.25'
+titulo: 'Head Hydrosorb Grip  Unisex  Negro/Rojo '
 ---
 
 Tienes [Head Hydrosorb Grip  Unisex  Negro/Rojo  Talla Única](https://www.amazon.es/dp/B001O4EQ4M/?tag=tolees-21) con un 25.25 % de descuento con precio de oferta de 5.95 EUR (original: 7.96 EUR) en el siguiente enlace!

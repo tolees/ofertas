@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jconewlinn Sweat Hood Capucha  Negro Black  Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C5BCN1H/?tag=tolees-21'
+descuento: '48.82'
+titulo: 'JACK & JONES Jconewlinn Sweat Hood Capuc'
 ---
 
 Está [JACK & JONES Jconewlinn Sweat Hood Capucha  Negro Black  Large para Hombre](https://www.amazon.es/dp/B07C5BCN1H/?tag=tolees-21) con 48.82 de descuento por 15.35 EUR (original: 29.99 EUR) en el siguiente enlace!

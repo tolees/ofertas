@@ -17,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'Guess - Jade  Shoppers y bolsos de hombro Mujer  Negro  Black/Bla   26x20x12 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CPRXGH6/?tag=tolees-21'
+descuento: '40.40'
+titulo: 'Guess - Jade  Shoppers y bolsos de hombr'
 ---
 
 Está [Guess - Jade  Shoppers y bolsos de hombro Mujer  Negro  Black/Bla   26x20x12 cm  W x H L ](https://www.amazon.es/dp/B07CPRXGH6/?tag=tolees-21) con 40.40 de descuento por 80.46 EUR (original: 135 EUR) en el siguiente enlace!

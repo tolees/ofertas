@@ -17,6 +17,9 @@ comparePrice: 15.5 EUR
 inStock: true
 prodname: 'Enchantimals Carrito de Frutas  accesorios muñecas  Mattel FCG93 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5HJLB6/?tag=tolees-21'
+descuento: '25.87'
+titulo: 'Enchantimals Carrito de Frutas  accesori'
 ---
 
 Tienes [Enchantimals Carrito de Frutas  accesorios muñecas  Mattel FCG93 ](https://www.amazon.es/dp/B01N5HJLB6/?tag=tolees-21) con un 25.87 % de descuento con precio de oferta de 11.49 EUR (original: 15.5 EUR) en el siguiente enlace!

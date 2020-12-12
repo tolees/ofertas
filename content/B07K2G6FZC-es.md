@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Blend Shorts  Pantalones cortos para Hombre  Marrón  Sand Brown 75107    Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2G6FZC/?tag=tolees-21'
+descuento: '48.74'
+titulo: 'Blend Shorts  Pantalones cortos para Hom'
 ---
 
 Tienes [Blend Shorts  Pantalones cortos para Hombre  Marrón  Sand Brown 75107    Small](https://www.amazon.es/dp/B07K2G6FZC/?tag=tolees-21) con un 48.74 % de descuento con precio de oferta de 20.48 EUR (original: 39.95 EUR) en el siguiente enlace!

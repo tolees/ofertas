@@ -17,6 +17,9 @@ comparePrice: 20.33 EUR
 inStock: true
 prodname: 'PROSTEEL - Collar de Hombre de Acero Inoxidable Cadena Veneciana Cadena de Eslabones Cuadrados 3mm Ancho Box Chain'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073VDMCRJ/?tag=tolees-21'
+descuento: '60.70'
+titulo: 'PROSTEEL - Collar de Hombre de Acero Ino'
 ---
 
 Está [PROSTEEL - Collar de Hombre de Acero Inoxidable Cadena Veneciana Cadena de Eslabones Cuadrados 3mm Ancho Box Chain](https://www.amazon.es/dp/B073VDMCRJ/?tag=tolees-21) con 60.70 de descuento por 7.99 EUR (original: 20.33 EUR) en el siguiente enlace!

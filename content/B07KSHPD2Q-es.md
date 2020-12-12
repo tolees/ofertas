@@ -17,6 +17,9 @@ comparePrice: 6.4 EUR
 inStock: true
 prodname: 'Formulaone Tridimensional Juego de ajedrez de Cuatro años Educación temprana Interacción Entre Padres e Hijos 1 Juego Conectar 4 en un Tablero de línea Juego clásico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSHPD2Q/?tag=tolees-21'
+descuento: '32.03'
+titulo: 'Formulaone Tridimensional Juego de ajedr'
 ---
 
 Tienes [Formulaone Tridimensional Juego de ajedrez de Cuatro años Educación temprana Interacción Entre Padres e Hijos 1 Juego Conectar 4 en un Tablero de línea Juego clásico](https://www.amazon.es/dp/B07KSHPD2Q/?tag=tolees-21) con un 32.03 % de descuento con precio de oferta de 4.35 EUR (original: 6.4 EUR) en el siguiente enlace!

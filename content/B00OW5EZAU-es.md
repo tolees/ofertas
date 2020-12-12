@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Safety 1st Soft Dreams Cuna de viaje compacta  fácil de transportar  ligera  azul  Navy Blue '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OW5EZAU/?tag=tolees-21'
+descuento: '32.47'
+titulo: 'Safety 1st Soft Dreams Cuna de viaje com'
 ---
 
 Ahora mismo tienes [Safety 1st Soft Dreams Cuna de viaje compacta  fácil de transportar  ligera  azul  Navy Blue ](https://www.amazon.es/dp/B00OW5EZAU/?tag=tolees-21) a 33.73 EUR (original: 49.95 EUR) (32.47 %  de descuento) en el siguiente enlace!

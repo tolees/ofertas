@@ -17,6 +17,9 @@ comparePrice: 34.71 EUR
 inStock: true
 prodname: 'Pandora Abalorios Mujer plata - 792053CZ'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074WWLLWZ/?tag=tolees-21'
+descuento: '43.82'
+titulo: 'Pandora Abalorios Mujer plata - 792053CZ'
 ---
 
 Ahora mismo tienes [Pandora Abalorios Mujer plata - 792053CZ](https://www.amazon.es/dp/B074WWLLWZ/?tag=tolees-21) a 19.5 EUR (original: 34.71 EUR) (43.82 %  de descuento) en el siguiente enlace!

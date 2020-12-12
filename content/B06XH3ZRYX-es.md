@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Real Madrid Perfume Consumo para Hombre - 100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XH3ZRYX/?tag=tolees-21'
+descuento: '48.10'
+titulo: 'Real Madrid Perfume Consumo para Hombre '
 ---
 
 Tienes [Real Madrid Perfume Consumo para Hombre - 100 ml](https://www.amazon.es/dp/B06XH3ZRYX/?tag=tolees-21) con un 48.10 % de descuento con precio de oferta de 12.95 EUR (original: 24.95 EUR) en el siguiente enlace!

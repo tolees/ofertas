@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Columbia Boubioz Hooded Full Zip Chaqueta Polar con Cremallera Completa  Poliéster  Marrón  Peatmoss   Talla: XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DZ8DV72/?tag=tolees-21'
+descuento: '64.62'
+titulo: 'Columbia Boubioz Hooded Full Zip Chaquet'
 ---
 
 Tienes [Columbia Boubioz Hooded Full Zip Chaqueta Polar con Cremallera Completa  Poliéster  Marrón  Peatmoss   Talla: XXL](https://www.amazon.es/dp/B07DZ8DV72/?tag=tolees-21) con un 64.62 % de descuento con precio de oferta de 35.38 EUR (original: 99.99 EUR) en el siguiente enlace!

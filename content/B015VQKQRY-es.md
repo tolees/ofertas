@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Einhell TE-MX 1600-2 CE - Batidor de pintura y mortero  1600 W  caja de cambios de 2 velocidades  electrónica constante  arranque suave  incluyendo agitador de mortero  ref. 4258555 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015VQKQRY/?tag=tolees-21'
+descuento: '29.17'
+titulo: 'Einhell TE-MX 1600-2 CE - Batidor de pin'
 ---
 
 Tienes [Einhell TE-MX 1600-2 CE - Batidor de pintura y mortero  1600 W  caja de cambios de 2 velocidades  electrónica constante  arranque suave  incluyendo agitador de mortero  ref. 4258555 ](https://www.amazon.es/dp/B015VQKQRY/?tag=tolees-21) con un 29.17 % de descuento con precio de oferta de 84.96 EUR (original: 119.95 EUR) en el siguiente enlace!

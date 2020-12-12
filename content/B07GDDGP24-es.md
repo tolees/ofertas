@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'DECMAY Cortinas de Baño Resistente al Agua Y al Moho PoliéSter DiseñO Resistente E Impermeables  Cortinas de Baño Incluye 12 Ganchos 180 X 200cm Raya '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDDGP24/?tag=tolees-21'
+descuento: '66.71'
+titulo: 'DECMAY Cortinas de Baño Resistente al Ag'
 ---
 
 Está [DECMAY Cortinas de Baño Resistente al Agua Y al Moho PoliéSter DiseñO Resistente E Impermeables  Cortinas de Baño Incluye 12 Ganchos 180 X 200cm Raya ](https://www.amazon.es/dp/B07GDDGP24/?tag=tolees-21) con 66.71 de descuento por 4.99 EUR (original: 14.99 EUR) en el siguiente enlace!

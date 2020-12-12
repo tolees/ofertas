@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Hummel Court Trophy Poly S/S Jersey  Mujer  Blanco  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DW6ZX22/?tag=tolees-21'
+descuento: '61.26'
+titulo: 'Hummel Court Trophy Poly S/S Jersey  Muj'
 ---
 
 Ahora mismo tienes [Hummel Court Trophy Poly S/S Jersey  Mujer  Blanco  XL](https://www.amazon.es/dp/B07DW6ZX22/?tag=tolees-21) a 13.54 EUR (original: 34.95 EUR) (61.26 %  de descuento) en el siguiente enlace!

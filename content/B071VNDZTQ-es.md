@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'FIND Camiseta Estampada para Hombre  Blanco  White   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VNDZTQ/?tag=tolees-21'
+descuento: '57.33'
+titulo: 'FIND Camiseta Estampada para Hombre  Bla'
 ---
 
 Ahora mismo tienes [FIND Camiseta Estampada para Hombre  Blanco  White   Medium](https://www.amazon.es/dp/B071VNDZTQ/?tag=tolees-21) a 6.4 EUR (original: 15 EUR) (57.33 %  de descuento) en el siguiente enlace!

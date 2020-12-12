@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Black Crevice Chaqueta Azul Marino ES 58'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GED8R42/?tag=tolees-21'
+descuento: '85.86'
+titulo: 'Black Crevice Chaqueta Azul Marino ES 58'
 ---
 
 Tienes [Black Crevice Chaqueta Azul Marino ES 58](https://www.amazon.es/dp/B01GED8R42/?tag=tolees-21) con un 85.86 % de descuento con precio de oferta de 11.31 EUR (original: 79.99 EUR) en el siguiente enlace!

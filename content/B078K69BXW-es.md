@@ -17,6 +17,9 @@ comparePrice: 27.16 EUR
 inStock: true
 prodname: 'Adidas Solid Crew  Calcetines Unisex Adulto  azul  azucen / maruni   43/46  paquete de 3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078K69BXW/?tag=tolees-21'
+descuento: '39.95'
+titulo: 'Adidas Solid Crew  Calcetines Unisex Adu'
 ---
 
 Tienes [Adidas Solid Crew  Calcetines Unisex Adulto  azul  azucen / maruni   43/46  paquete de 3](https://www.amazon.es/dp/B078K69BXW/?tag=tolees-21) con un 39.95 % de descuento con precio de oferta de 16.31 EUR (original: 27.16 EUR) en el siguiente enlace!

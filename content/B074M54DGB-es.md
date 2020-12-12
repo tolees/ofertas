@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Anillo pene vibrador Cockring Silicona  James Love 2-en-1 Pene Vibrador Estimulador del Clítoris 7 frecuencia Vibración  100% impermeable y Recargable Juguete sexual Para Hombre Mujer Pareja  Morado '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074M54DGB/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Anillo pene vibrador Cockring Silicona  '
 ---
 
 Ahora mismo tienes [Anillo pene vibrador Cockring Silicona  James Love 2-en-1 Pene Vibrador Estimulador del Clítoris 7 frecuencia Vibración  100% impermeable y Recargable Juguete sexual Para Hombre Mujer Pareja  Morado ](https://www.amazon.es/dp/B074M54DGB/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

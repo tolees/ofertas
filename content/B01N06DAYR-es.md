@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma Evotouch 3 TT  Botas de fútbol para Hombre  Blanco White-True Blue Danube 02  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N06DAYR/?tag=tolees-21'
+descuento: '45.67'
+titulo: 'Puma Evotouch 3 TT  Botas de fútbol para'
 ---
 
 Está [Puma Evotouch 3 TT  Botas de fútbol para Hombre  Blanco White-True Blue Danube 02  42 EU](https://www.amazon.es/dp/B01N06DAYR/?tag=tolees-21) con 45.67 de descuento por 35.29 EUR (original: 64.95 EUR) en el siguiente enlace!

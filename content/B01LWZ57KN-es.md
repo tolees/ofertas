@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Polaroid PLD 6017/S Q2 TIZ 60  Gafas de sol Unisex Adulto  Rosa Bluesf Fuchsia'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LWZ57KN/?tag=tolees-21'
+descuento: '68.04'
+titulo: 'Polaroid PLD 6017/S Q2 TIZ 60  Gafas de '
 ---
 
 Está [Polaroid PLD 6017/S Q2 TIZ 60  Gafas de sol Unisex Adulto  Rosa Bluesf Fuchsia](https://www.amazon.es/dp/B01LWZ57KN/?tag=tolees-21) con 68.04 de descuento por 17.58 EUR (original: 55 EUR) en el siguiente enlace!

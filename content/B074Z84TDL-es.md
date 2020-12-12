@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Yihua estacion de soldadura digital SMD Kit del Soldador Eléctrico 937D'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074Z84TDL/?tag=tolees-21'
+descuento: '45.01'
+titulo: 'Yihua estacion de soldadura digital SMD '
 ---
 
 Ahora mismo tienes [Yihua estacion de soldadura digital SMD Kit del Soldador Eléctrico 937D](https://www.amazon.es/dp/B074Z84TDL/?tag=tolees-21) a 32.99 EUR (original: 59.99 EUR) (45.01 %  de descuento) en el siguiente enlace!

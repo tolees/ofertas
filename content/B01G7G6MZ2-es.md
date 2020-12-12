@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Ultima Pienso para Perros Medium Maxi Junior con Pollo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01G7G6MZ2/?tag=tolees-21'
+descuento: '47.98'
+titulo: 'Ultima Pienso para Perros Medium Maxi Ju'
 ---
 
 Está [Ultima Pienso para Perros Medium Maxi Junior con Pollo](https://www.amazon.es/dp/B01G7G6MZ2/?tag=tolees-21) con 47.98 de descuento por 12.98 EUR (original: 24.95 EUR) en el siguiente enlace!

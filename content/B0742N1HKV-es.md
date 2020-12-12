@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Salomon Mochila ligera para running 3L  agile 2  set  rojo y gris  Graphite '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0742N1HKV/?tag=tolees-21'
+descuento: '41.42'
+titulo: 'Salomon Mochila ligera para running 3L  '
 ---
 
 Ahora mismo tienes [Salomon Mochila ligera para running 3L  agile 2  set  rojo y gris  Graphite ](https://www.amazon.es/dp/B0742N1HKV/?tag=tolees-21) a 46.86 EUR (original: 80 EUR) (41.42 %  de descuento) en el siguiente enlace!

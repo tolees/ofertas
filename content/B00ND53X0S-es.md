@@ -17,6 +17,9 @@ comparePrice: 13 EUR
 inStock: true
 prodname: 'Chocolate Amatller Flors - Bombones de chocolate 50% cacao al Marc de Cava en caja metal - 72 gr.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ND53X0S/?tag=tolees-21'
+descuento: '50.69'
+titulo: 'Chocolate Amatller Flors - Bombones de c'
 ---
 
 Ahora mismo tienes [Chocolate Amatller Flors - Bombones de chocolate 50% cacao al Marc de Cava en caja metal - 72 gr.](https://www.amazon.es/dp/B00ND53X0S/?tag=tolees-21) a 6.41 EUR (original: 13 EUR) (50.69 %  de descuento) en el siguiente enlace!

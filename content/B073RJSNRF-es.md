@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'adidas Cosmic 2  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Grey/Carbon 0   44 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RJSNRF/?tag=tolees-21'
+descuento: '40.11'
+titulo: 'adidas Cosmic 2  Zapatillas de Entrenami'
 ---
 
 Está [adidas Cosmic 2  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Grey/Carbon 0   44 2/3 EU](https://www.amazon.es/dp/B073RJSNRF/?tag=tolees-21) con 40.11 de descuento por 38.9 EUR (original: 64.95 EUR) en el siguiente enlace!

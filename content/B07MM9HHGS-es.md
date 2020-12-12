@@ -17,6 +17,9 @@ comparePrice: 52.43 EUR
 inStock: true
 prodname: '6pc Masturbador Masculino Para Huevos Realistas con Juguetes Lubricantes'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MM9HHGS/?tag=tolees-21'
+descuento: '72.94'
+titulo: '6pc Masturbador Masculino Para Huevos Re'
 ---
 
 Está [6pc Masturbador Masculino Para Huevos Realistas con Juguetes Lubricantes](https://www.amazon.es/dp/B07MM9HHGS/?tag=tolees-21) con 72.94 de descuento por 14.19 EUR (original: 52.43 EUR) en el siguiente enlace!

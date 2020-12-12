@@ -17,6 +17,9 @@ comparePrice: 112.4 EUR
 inStock: true
 prodname: 'New Balance Wl697tra  Zapatillas de Running para Mujer  Negro  Black/Castlerock Tra   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R7N3SL/?tag=tolees-21'
+descuento: '55.52'
+titulo: 'New Balance Wl697tra  Zapatillas de Runn'
 ---
 
 Está [New Balance Wl697tra  Zapatillas de Running para Mujer  Negro  Black/Castlerock Tra   39 EU](https://www.amazon.es/dp/B075R7N3SL/?tag=tolees-21) con 55.52 de descuento por 50 EUR (original: 112.4 EUR) en el siguiente enlace!

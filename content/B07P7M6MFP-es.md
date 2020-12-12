@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JASHKE Juguetes Montessori Color del Juguete Juguete de Madera Socket Bebé Juguetes educativos tempranos para Regalos de cumpleaños para bebés'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P7M6MFP/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'JASHKE Juguetes Montessori Color del Jug'
 ---
 
 Ahora mismo tienes [JASHKE Juguetes Montessori Color del Juguete Juguete de Madera Socket Bebé Juguetes educativos tempranos para Regalos de cumpleaños para bebés](https://www.amazon.es/dp/B07P7M6MFP/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

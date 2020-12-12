@@ -17,6 +17,9 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'HUION H610Pro 8192 Niveles Presión del Lápiz Tavoletta Grafica con 8+16 Tasti Scorciatoia  Tavoletta Digitale da Disegno e Pittura a Penna'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072KDKP72/?tag=tolees-21'
+descuento: '44.01'
+titulo: 'HUION H610Pro 8192 Niveles Presión del L'
 ---
 
 Tienes [HUION H610Pro 8192 Niveles Presión del Lápiz Tavoletta Grafica con 8+16 Tasti Scorciatoia  Tavoletta Digitale da Disegno e Pittura a Penna](https://www.amazon.es/dp/B072KDKP72/?tag=tolees-21) con un 44.01 % de descuento con precio de oferta de 41.99 EUR (original: 74.99 EUR) en el siguiente enlace!

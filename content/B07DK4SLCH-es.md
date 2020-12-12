@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Geox J New Savage Boy C  Zapatillas para Niños  Navy/Red C0735  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK4SLCH/?tag=tolees-21'
+descuento: '57.69'
+titulo: 'Geox J New Savage Boy C  Zapatillas para'
 ---
 
 Ahora mismo tienes [Geox J New Savage Boy C  Zapatillas para Niños  Navy/Red C0735  36 EU](https://www.amazon.es/dp/B07DK4SLCH/?tag=tolees-21) a 27.5 EUR (original: 65 EUR) (57.69 %  de descuento) en el siguiente enlace!

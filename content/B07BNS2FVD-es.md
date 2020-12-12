@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'edc by Esprit 098cc1g004  Abrigo para Mujer  Azul  Navy 400  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BNS2FVD/?tag=tolees-21'
+descuento: '71.43'
+titulo: 'edc by Esprit 098cc1g004  Abrigo para Mu'
 ---
 
 Tienes [edc by Esprit 098cc1g004  Abrigo para Mujer  Azul  Navy 400  Small](https://www.amazon.es/dp/B07BNS2FVD/?tag=tolees-21) con un 71.43 % de descuento con precio de oferta de 39.99 EUR (original: 139.99 EUR) en el siguiente enlace!

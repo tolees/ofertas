@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'adidas CF QT Racer  Zapatillas para Mujer  Negro Core Black 0  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9ZGB3N/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas CF QT Racer  Zapatillas para Muje'
 ---
 
 Está [adidas CF QT Racer  Zapatillas para Mujer  Negro Core Black 0  40 EU](https://www.amazon.es/dp/B07D9ZGB3N/?tag=tolees-21) con 49.99 de descuento por 29.98 EUR (original: 59.95 EUR) en el siguiente enlace!

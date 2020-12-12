@@ -17,6 +17,9 @@ comparePrice: 22.31 EUR
 inStock: true
 prodname: 'Urban Classic Ladies Short Spaghetti Jumpsuit Mono Largo  Blau  Horizonblue 01301   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078KHLYSP/?tag=tolees-21'
+descuento: '57.06'
+titulo: 'Urban Classic Ladies Short Spaghetti Jum'
 ---
 
 Tienes [Urban Classic Ladies Short Spaghetti Jumpsuit Mono Largo  Blau  Horizonblue 01301   Large para Mujer](https://www.amazon.es/dp/B078KHLYSP/?tag=tolees-21) con un 57.06 % de descuento con precio de oferta de 9.58 EUR (original: 22.31 EUR) en el siguiente enlace!

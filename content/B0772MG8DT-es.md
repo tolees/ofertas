@@ -17,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Pokemon JCC Mini Colección Mewtwo De Leyendas Luminosas - Español Color  The Pokémon Company International POKC1703'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0772MG8DT/?tag=tolees-21'
+descuento: '29.19'
+titulo: 'Pokemon JCC Mini Colección Mewtwo De Ley'
 ---
 
 Tienes [Pokemon JCC Mini Colección Mewtwo De Leyendas Luminosas - Español Color  The Pokémon Company International POKC1703](https://www.amazon.es/dp/B0772MG8DT/?tag=tolees-21) con un 29.19 % de descuento con precio de oferta de 8.49 EUR (original: 11.99 EUR) en el siguiente enlace!

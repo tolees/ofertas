@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'Desigual TS_Joana Camiseta    Rojo Sangre 3005   140  Talla del Fabricante: 9/10  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079SH9MBV/?tag=tolees-21'
+descuento: '46.29'
+titulo: 'Desigual TS_Joana Camiseta    Rojo Sangr'
 ---
 
 Está [Desigual TS_Joana Camiseta    Rojo Sangre 3005   140  Talla del Fabricante: 9/10  para Niños](https://www.amazon.es/dp/B079SH9MBV/?tag=tolees-21) con 46.29 de descuento por 19.31 EUR (original: 35.95 EUR) en el siguiente enlace!

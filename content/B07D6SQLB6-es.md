@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'FM London Fashion Fit Zipped Hoodie  Capucha Hombre  Gris  Grey   XXX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D6SQLB6/?tag=tolees-21'
+descuento: '63.57'
+titulo: 'FM London Fashion Fit Zipped Hoodie  Cap'
 ---
 
 Está [FM London Fashion Fit Zipped Hoodie  Capucha Hombre  Gris  Grey   XXX-Large](https://www.amazon.es/dp/B07D6SQLB6/?tag=tolees-21) con 63.57 de descuento por 10.93 EUR (original: 30 EUR) en el siguiente enlace!

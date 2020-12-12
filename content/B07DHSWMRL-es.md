@@ -17,6 +17,9 @@ comparePrice: 95.99 EUR
 inStock: true
 prodname: 'Roxy Anderson  Botines para Mujer  Marrón  Brown Brn   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHSWMRL/?tag=tolees-21'
+descuento: '75.79'
+titulo: 'Roxy Anderson  Botines para Mujer  Marró'
 ---
 
 Está [Roxy Anderson  Botines para Mujer  Marrón  Brown Brn   37 EU](https://www.amazon.es/dp/B07DHSWMRL/?tag=tolees-21) con 75.79 de descuento por 23.24 EUR (original: 95.99 EUR) en el siguiente enlace!

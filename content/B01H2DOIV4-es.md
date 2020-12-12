@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Desires Chaqueta Verde L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H2DOIV4/?tag=tolees-21'
+descuento: '71.98'
+titulo: 'Desires Chaqueta Verde L'
 ---
 
 Está [Desires Chaqueta Verde L](https://www.amazon.es/dp/B01H2DOIV4/?tag=tolees-21) con 71.98 de descuento por 39.22 EUR (original: 139.95 EUR) en el siguiente enlace!

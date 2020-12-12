@@ -17,6 +17,9 @@ comparePrice: 36 EUR
 inStock: true
 prodname: 'Mayoral Reservado D.O Jumilla. Vino Tinto - 6 Botellas x 750 ml - Total: 4500 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079XFDH85/?tag=tolees-21'
+descuento: '47.25'
+titulo: 'Mayoral Reservado D.O Jumilla. Vino Tint'
 ---
 
 Ahora mismo tienes [Mayoral Reservado D.O Jumilla. Vino Tinto - 6 Botellas x 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B079XFDH85/?tag=tolees-21) a 18.99 EUR (original: 36 EUR) (47.25 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Vans Ward Slip-on  Zapatillas Unisex Niños  Rojo   Canvas  Port Royale/White 8j7  26.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BN4KZQ2/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Vans Ward Slip-on  Zapatillas Unisex Niñ'
 ---
 
 Está [Vans Ward Slip-on  Zapatillas Unisex Niños  Rojo   Canvas  Port Royale/White 8j7  26.5 EU](https://www.amazon.es/dp/B07BN4KZQ2/?tag=tolees-21) con 50.00 de descuento por 17.5 EUR (original: 35 EUR) en el siguiente enlace!

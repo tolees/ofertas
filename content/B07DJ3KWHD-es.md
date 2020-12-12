@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Geox U Damian a  Zapatillas para Hombre  Gris  Anthracite C9004   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ3KWHD/?tag=tolees-21'
+descuento: '59.32'
+titulo: 'Geox U Damian a  Zapatillas para Hombre '
 ---
 
 Está [Geox U Damian a  Zapatillas para Hombre  Gris  Anthracite C9004   45 EU](https://www.amazon.es/dp/B07DJ3KWHD/?tag=tolees-21) con 59.32 de descuento por 36.57 EUR (original: 89.9 EUR) en el siguiente enlace!

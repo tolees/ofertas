@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Under Armour Pantalónes cortos para Hombre  Negro Talla LG/G'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00891HSSE/?tag=tolees-21'
+descuento: '38.40'
+titulo: 'Under Armour Pantalónes cortos para Homb'
 ---
 
 Tienes [Under Armour Pantalónes cortos para Hombre  Negro Talla LG/G](https://www.amazon.es/dp/B00891HSSE/?tag=tolees-21) con un 38.40 % de descuento con precio de oferta de 18.48 EUR (original: 30 EUR) en el siguiente enlace!

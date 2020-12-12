@@ -17,6 +17,9 @@ comparePrice: 174.95 EUR
 inStock: true
 prodname: 'Lucide 77468/01/36 - Lámpara de techo  metal y cristal   diseño de avioneta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CG562RC/?tag=tolees-21'
+descuento: '26.22'
+titulo: 'Lucide 77468/01/36 - Lámpara de techo  m'
 ---
 
 Está [Lucide 77468/01/36 - Lámpara de techo  metal y cristal   diseño de avioneta](https://www.amazon.es/dp/B00CG562RC/?tag=tolees-21) con 26.22 de descuento por 129.08 EUR (original: 174.95 EUR) en el siguiente enlace!

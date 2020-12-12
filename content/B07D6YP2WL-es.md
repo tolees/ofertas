@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Gazelle W  Zapatillas para Mujer  Negro Core Black/Footwear White 0  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D6YP2WL/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'adidas Gazelle W  Zapatillas para Mujer '
 ---
 
 Tienes [adidas Gazelle W  Zapatillas para Mujer  Negro Core Black/Footwear White 0  40 EU](https://www.amazon.es/dp/B07D6YP2WL/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 59.95 EUR (original: 99.95 EUR) en el siguiente enlace!

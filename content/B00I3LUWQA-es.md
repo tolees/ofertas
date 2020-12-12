@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Sony MDR-ZX310B - Auriculares de diadema cerrados  sin micrófono   negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I3LUWQA/?tag=tolees-21'
+descuento: '43.37'
+titulo: 'Sony MDR-ZX310B - Auriculares de diadema'
 ---
 
 Tienes [Sony MDR-ZX310B - Auriculares de diadema cerrados  sin micrófono   negro](https://www.amazon.es/dp/B00I3LUWQA/?tag=tolees-21) con un 43.37 % de descuento con precio de oferta de 16.99 EUR (original: 30 EUR) en el siguiente enlace!

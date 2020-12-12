@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Puma Sport Cush Crew 6P  Calcetines Unisex  Paquete de 6  Blanco  White   EU 35-38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018AAVTDI/?tag=tolees-21'
+descuento: '28.88'
+titulo: 'Puma Sport Cush Crew 6P  Calcetines Unis'
 ---
 
 Tienes [Puma Sport Cush Crew 6P  Calcetines Unisex  Paquete de 6  Blanco  White   EU 35-38](https://www.amazon.es/dp/B018AAVTDI/?tag=tolees-21) con un 28.88 % de descuento con precio de oferta de 9.95 EUR (original: 13.99 EUR) en el siguiente enlace!

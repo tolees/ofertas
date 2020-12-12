@@ -17,6 +17,9 @@ comparePrice: 53.17 EUR
 inStock: true
 prodname: 'James & Nicholson Ladies Running Tights Pantalones premamá  Mujer  Negro/Azul  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KK07DVO/?tag=tolees-21'
+descuento: '85.24'
+titulo: 'James & Nicholson Ladies Running Tights '
 ---
 
 Está [James & Nicholson Ladies Running Tights Pantalones premamá  Mujer  Negro/Azul  L](https://www.amazon.es/dp/B00KK07DVO/?tag=tolees-21) con 85.24 de descuento por 7.85 EUR (original: 53.17 EUR) en el siguiente enlace!

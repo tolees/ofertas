@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'adidas Fit 1Pc Lin Bañador  Mujer  Azul  azuosc/naalre   40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFCNF47/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'adidas Fit 1Pc Lin Bañador  Mujer  Azul '
 ---
 
 Tienes [adidas Fit 1Pc Lin Bañador  Mujer  Azul  azuosc/naalre   40](https://www.amazon.es/dp/B07DFCNF47/?tag=tolees-21) con un 50.04 % de descuento con precio de oferta de 17.48 EUR (original: 34.99 EUR) en el siguiente enlace!

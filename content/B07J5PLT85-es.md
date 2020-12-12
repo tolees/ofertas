@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Harmont & Blaine Pantaloni  Pantalones para Hombre  Azul  831 Italia  48  Talla del Fabricante: 52 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J5PLT85/?tag=tolees-21'
+descuento: '58.53'
+titulo: 'Harmont & Blaine Pantaloni  Pantalones p'
 ---
 
 Está [Harmont & Blaine Pantaloni  Pantalones para Hombre  Azul  831 Italia  48  Talla del Fabricante: 52 ](https://www.amazon.es/dp/B07J5PLT85/?tag=tolees-21) con 58.53 de descuento por 53.49 EUR (original: 129 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Under Armour Spectrum Po - Sudadera con capucha para hombre  Verde  Artillery/Moss Green   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XQMWWN/?tag=tolees-21'
+descuento: '55.00'
+titulo: 'Under Armour Spectrum Po - Sudadera con '
 ---
 
 Ahora mismo tienes [Under Armour Spectrum Po - Sudadera con capucha para hombre  Verde  Artillery/Moss Green   L](https://www.amazon.es/dp/B077XQMWWN/?tag=tolees-21) a 27 EUR (original: 60 EUR) (55.00 %  de descuento) en el siguiente enlace!

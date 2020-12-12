@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'FIND Jersey de Crochet con Hombros al Aire para Mujer   Azul  Chambrey   42  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXYINLD/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND Jersey de Crochet con Hombros al Ai'
 ---
 
 Está [FIND Jersey de Crochet con Hombros al Aire para Mujer   Azul  Chambrey   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01MXYINLD/?tag=tolees-21) con 70.00 de descuento por 7.5 EUR (original: 25 EUR) en el siguiente enlace!

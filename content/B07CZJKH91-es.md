@@ -17,6 +17,9 @@ comparePrice: 30.14 EUR
 inStock: true
 prodname: 'Under Armour Armour Heatgear Bra Sujetador Deportivo  Niñas  Negro  Black/Penta Pink 001   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZJKH91/?tag=tolees-21'
+descuento: '47.01'
+titulo: 'Under Armour Armour Heatgear Bra Sujetad'
 ---
 
 Ahora mismo tienes [Under Armour Armour Heatgear Bra Sujetador Deportivo  Niñas  Negro  Black/Penta Pink 001   XL](https://www.amazon.es/dp/B07CZJKH91/?tag=tolees-21) a 15.97 EUR (original: 30.14 EUR) (47.01 %  de descuento) en el siguiente enlace!

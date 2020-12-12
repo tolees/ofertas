@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Reebok Cl Nylon  Zapatillas de Deporte para Mujer  Morado  Cozy/Washed Plum/Smoky Orchid/White/Blac   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JFHM8W/?tag=tolees-21'
+descuento: '57.16'
+titulo: 'Reebok Cl Nylon  Zapatillas de Deporte p'
 ---
 
 Está [Reebok Cl Nylon  Zapatillas de Deporte para Mujer  Morado  Cozy/Washed Plum/Smoky Orchid/White/Blac   36 EU](https://www.amazon.es/dp/B071JFHM8W/?tag=tolees-21) con 57.16 de descuento por 29.97 EUR (original: 69.95 EUR) en el siguiente enlace!

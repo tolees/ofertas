@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'The North Face 66 Classic Hat Gorra  Hombre  Storm Blue/TNF  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKKQY2B/?tag=tolees-21'
+descuento: '49.18'
+titulo: 'The North Face 66 Classic Hat Gorra  Hom'
 ---
 
 Tienes [The North Face 66 Classic Hat Gorra  Hombre  Storm Blue/TNF  Talla única](https://www.amazon.es/dp/B07FKKQY2B/?tag=tolees-21) con un 49.18 % de descuento con precio de oferta de 11.18 EUR (original: 22 EUR) en el siguiente enlace!

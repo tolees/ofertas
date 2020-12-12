@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Superga 2750 Jcot Classic  Zapatillas Infantil  Negro  Full Black   24 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0049SQC4M/?tag=tolees-21'
+descuento: '73.24'
+titulo: 'Superga 2750 Jcot Classic  Zapatillas In'
 ---
 
 Ahora mismo tienes [Superga 2750 Jcot Classic  Zapatillas Infantil  Negro  Full Black   24 EU](https://www.amazon.es/dp/B0049SQC4M/?tag=tolees-21) a 13.11 EUR (original: 49 EUR) (73.24 %  de descuento) en el siguiente enlace!

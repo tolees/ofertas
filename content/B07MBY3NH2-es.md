@@ -17,6 +17,9 @@ comparePrice: 14.09 EUR
 inStock: true
 prodname: 'Ritapreaty - Tapón para botellas de vino  especias  aceite  botella sellada  a prueba de leak  tapón de botella de corcho para herramientas de cocina doméstica 2.76 1.18 1.18in'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MBY3NH2/?tag=tolees-21'
+descuento: '79.13'
+titulo: 'Ritapreaty - Tapón para botellas de vino'
 ---
 
 Tienes [Ritapreaty - Tapón para botellas de vino  especias  aceite  botella sellada  a prueba de leak  tapón de botella de corcho para herramientas de cocina doméstica 2.76 1.18 1.18in](https://www.amazon.es/dp/B07MBY3NH2/?tag=tolees-21) con un 79.13 % de descuento con precio de oferta de 2.94 EUR (original: 14.09 EUR) en el siguiente enlace!

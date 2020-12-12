@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Burton Day Hiker Mochila  Unisex Adulto  Negro  Shade Heather   28 l'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0722K8VRK/?tag=tolees-21'
+descuento: '41.57'
+titulo: 'Burton Day Hiker Mochila  Unisex Adulto '
 ---
 
 Está [Burton Day Hiker Mochila  Unisex Adulto  Negro  Shade Heather   28 l](https://www.amazon.es/dp/B0722K8VRK/?tag=tolees-21) con 41.57 de descuento por 64.27 EUR (original: 110 EUR) en el siguiente enlace!

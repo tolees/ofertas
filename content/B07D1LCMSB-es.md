@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Asics Gel-fujirado  Zapatillas de Running para Mujer  Azul  Azure/Glacier Grey 400   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1LCMSB/?tag=tolees-21'
+descuento: '69.89'
+titulo: 'Asics Gel-fujirado  Zapatillas de Runnin'
 ---
 
 Ahora mismo tienes [Asics Gel-fujirado  Zapatillas de Running para Mujer  Azul  Azure/Glacier Grey 400   36 EU](https://www.amazon.es/dp/B07D1LCMSB/?tag=tolees-21) a 42.16 EUR (original: 140 EUR) (69.89 %  de descuento) en el siguiente enlace!

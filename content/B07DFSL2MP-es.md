@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'adidas Real  Polo para Hombre  Hombre  CW8669  Core White/Tech Onix  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFSL2MP/?tag=tolees-21'
+descuento: '48.88'
+titulo: 'adidas Real  Polo para Hombre  Hombre  C'
 ---
 
 Tienes [adidas Real  Polo para Hombre  Hombre  CW8669  Core White/Tech Onix  Small](https://www.amazon.es/dp/B07DFSL2MP/?tag=tolees-21) con un 48.88 % de descuento con precio de oferta de 23 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 21 EUR
 inStock: true
 prodname: 'Joma Champion II - Sudadera con Cremallera para niños de 8 años  Color Azul Marino/Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JRDT3E0/?tag=tolees-21'
+descuento: '55.00'
+titulo: 'Joma Champion II - Sudadera con Cremalle'
 ---
 
 Tienes [Joma Champion II - Sudadera con Cremallera para niños de 8 años  Color Azul Marino/Rojo](https://www.amazon.es/dp/B00JRDT3E0/?tag=tolees-21) con un 55.00 % de descuento con precio de oferta de 9.45 EUR (original: 21 EUR) en el siguiente enlace!

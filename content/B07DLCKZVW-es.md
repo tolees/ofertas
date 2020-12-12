@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Springfield 9In Cardigan Estructura  Jersey para Hombre   Gama Grises 43   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLCKZVW/?tag=tolees-21'
+descuento: '59.61'
+titulo: 'Springfield 9In Cardigan Estructura  Jer'
 ---
 
 Está [Springfield 9In Cardigan Estructura  Jersey para Hombre   Gama Grises 43   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLCKZVW/?tag=tolees-21) con 59.61 de descuento por 16.15 EUR (original: 39.99 EUR) en el siguiente enlace!

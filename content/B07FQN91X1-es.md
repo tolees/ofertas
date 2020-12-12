@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Hurley M One & Only Volley 17  BAÑADORES  Hombre  Black  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQN91X1/?tag=tolees-21'
+descuento: '50.30'
+titulo: 'Hurley M One & Only Volley 17  BAÑADORES'
 ---
 
 Tienes [Hurley M One & Only Volley 17  BAÑADORES  Hombre  Black  XL](https://www.amazon.es/dp/B07FQN91X1/?tag=tolees-21) con un 50.30 % de descuento con precio de oferta de 19.88 EUR (original: 40 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Gioteck - HC-X1 Stereo Gaming Headset  Xbox One '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDNX4M2/?tag=tolees-21'
+descuento: '53.29'
+titulo: 'Gioteck - HC-X1 Stereo Gaming Headset  X'
 ---
 
 Está [Gioteck - HC-X1 Stereo Gaming Headset  Xbox One ](https://www.amazon.es/dp/B07GDNX4M2/?tag=tolees-21) con 53.29 de descuento por 13.99 EUR (original: 29.95 EUR) en el siguiente enlace!

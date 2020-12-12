@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Arishi  Zapatillas de Running para Hombre  Negro  Black/Magnet/NB Burgundy Pa1   47.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B6XQQWH/?tag=tolees-21'
+descuento: '34.82'
+titulo: 'New Balance Fresh Foam Arishi  Zapatilla'
 ---
 
 Está [New Balance Fresh Foam Arishi  Zapatillas de Running para Hombre  Negro  Black/Magnet/NB Burgundy Pa1   47.5 EU](https://www.amazon.es/dp/B07B6XQQWH/?tag=tolees-21) con 34.82 de descuento por 55.4 EUR (original: 85 EUR) en el siguiente enlace!

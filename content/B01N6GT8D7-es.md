@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'find. Falda Vaquera Suave con Cordón para Mujer   Azul  Dark Indigo   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6GT8D7/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'find. Falda Vaquera Suave con Cordón par'
 ---
 
 Está [find. Falda Vaquera Suave con Cordón para Mujer   Azul  Dark Indigo   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01N6GT8D7/?tag=tolees-21) con 60.00 de descuento por 10.4 EUR (original: 26 EUR) en el siguiente enlace!

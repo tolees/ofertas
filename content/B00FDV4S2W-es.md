@@ -17,6 +17,9 @@ comparePrice: 12.6 EUR
 inStock: true
 prodname: 'Bestway 58036 - Cobertor Protector de PVC para piscinas Steel Pro de 305 cm de diámetro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FDV4S2W/?tag=tolees-21'
+descuento: '33.97'
+titulo: 'Bestway 58036 - Cobertor Protector de PV'
 ---
 
 Tienes [Bestway 58036 - Cobertor Protector de PVC para piscinas Steel Pro de 305 cm de diámetro](https://www.amazon.es/dp/B00FDV4S2W/?tag=tolees-21) con un 33.97 % de descuento con precio de oferta de 8.32 EUR (original: 12.6 EUR) en el siguiente enlace!

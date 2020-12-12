@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Nike Wmns Air Zoom Vapor X HC  Zapatillas de Deporte para Mujer  White/Vast Grey 101  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005IHKUZU/?tag=tolees-21'
+descuento: '78.34'
+titulo: 'Nike Wmns Air Zoom Vapor X HC  Zapatilla'
 ---
 
 Ahora mismo tienes [Nike Wmns Air Zoom Vapor X HC  Zapatillas de Deporte para Mujer  White/Vast Grey 101  36 EU](https://www.amazon.es/dp/B005IHKUZU/?tag=tolees-21) a 30.33 EUR (original: 140 EUR) (78.34 %  de descuento) en el siguiente enlace!

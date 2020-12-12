@@ -17,6 +17,9 @@ comparePrice: 52.99 EUR
 inStock: true
 prodname: 'Leogreen - Aspiradora 2 en 1 Vertical y De Mano  Aspiradora Sin Bolsa  Negro  Capacidad del recipiente de polvo: 1 3 L  Sistema de filtrado: Filtro HEPA Sistema de filtración eficiente y lavable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071X9FF5X/?tag=tolees-21'
+descuento: '35.86'
+titulo: 'Leogreen - Aspiradora 2 en 1 Vertical y '
 ---
 
 Está [Leogreen - Aspiradora 2 en 1 Vertical y De Mano  Aspiradora Sin Bolsa  Negro  Capacidad del recipiente de polvo: 1 3 L  Sistema de filtrado: Filtro HEPA Sistema de filtración eficiente y lavable](https://www.amazon.es/dp/B071X9FF5X/?tag=tolees-21) con 35.86 de descuento por 33.99 EUR (original: 52.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 66.99 EUR
 inStock: true
 prodname: 'gracosy Sandalias Planas Verano Mujer Estilo Bohemia Zapatos para Mujer de Dedo Sandalias Talla Grande 37-43 Cinta Elástica Casuales de Playa Chanclas Romanas de Mujer Negro Beige 2019'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MLZSDVS/?tag=tolees-21'
+descuento: '59.71'
+titulo: 'gracosy Sandalias Planas Verano Mujer Es'
 ---
 
 Está [gracosy Sandalias Planas Verano Mujer Estilo Bohemia Zapatos para Mujer de Dedo Sandalias Talla Grande 37-43 Cinta Elástica Casuales de Playa Chanclas Romanas de Mujer Negro Beige 2019](https://www.amazon.es/dp/B07MLZSDVS/?tag=tolees-21) con 59.71 de descuento por 26.99 EUR (original: 66.99 EUR) en el siguiente enlace!

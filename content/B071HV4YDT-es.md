@@ -17,6 +17,9 @@ comparePrice: 55.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 25032  Botas Chelsea para Mujer  Rojo  Bordeaux   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HV4YDT/?tag=tolees-21'
+descuento: '77.00'
+titulo: 'Marco Tozzi 25032  Botas Chelsea para Mu'
 ---
 
 Tienes [Marco Tozzi 25032  Botas Chelsea para Mujer  Rojo  Bordeaux   41 EU](https://www.amazon.es/dp/B071HV4YDT/?tag=tolees-21) con un 77.00 % de descuento con precio de oferta de 12.87 EUR (original: 55.95 EUR) en el siguiente enlace!

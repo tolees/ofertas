@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'FIND Tassle Casual Mocasines  Beige  Taupe   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J2GB7TW/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'FIND Tassle Casual Mocasines  Beige  Tau'
 ---
 
 Está [FIND Tassle Casual Mocasines  Beige  Taupe   43 EU](https://www.amazon.es/dp/B07J2GB7TW/?tag=tolees-21) con 30.00 de descuento por 28 EUR (original: 40 EUR) en el siguiente enlace!

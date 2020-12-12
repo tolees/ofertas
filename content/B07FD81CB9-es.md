@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Cocoda Cortapelos Nariz  Recortador de Vello Nariz / Orejas / Ceja / Barba  4 en 1 USB Recargable Set de Depiladora con 4 Cabezas de Reemplazo de Acero Inoxidable  Negro/Plata '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FD81CB9/?tag=tolees-21'
+descuento: '49.30'
+titulo: 'Cocoda Cortapelos Nariz  Recortador de V'
 ---
 
 Está [Cocoda Cortapelos Nariz  Recortador de Vello Nariz / Orejas / Ceja / Barba  4 en 1 USB Recargable Set de Depiladora con 4 Cabezas de Reemplazo de Acero Inoxidable  Negro/Plata ](https://www.amazon.es/dp/B07FD81CB9/?tag=tolees-21) con 49.30 de descuento por 11.15 EUR (original: 21.99 EUR) en el siguiente enlace!

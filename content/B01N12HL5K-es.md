@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'edc by ESPRIT 027CC1B020  Pantalones Para Mujer  Blanco  Lilac 560   W32/L32  Talla del fabricante: 32/REG '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N12HL5K/?tag=tolees-21'
+descuento: '69.35'
+titulo: 'edc by ESPRIT 027CC1B020  Pantalones Par'
 ---
 
 Tienes [edc by ESPRIT 027CC1B020  Pantalones Para Mujer  Blanco  Lilac 560   W32/L32  Talla del fabricante: 32/REG ](https://www.amazon.es/dp/B01N12HL5K/?tag=tolees-21) con un 69.35 % de descuento con precio de oferta de 15.32 EUR (original: 49.99 EUR) en el siguiente enlace!

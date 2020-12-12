@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Roxy Costas  Zapatos de Playa y Piscina para Mujer  Blanco  White Wht   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DY7LN88/?tag=tolees-21'
+descuento: '44.97'
+titulo: 'Roxy Costas  Zapatos de Playa y Piscina '
 ---
 
 Tienes [Roxy Costas  Zapatos de Playa y Piscina para Mujer  Blanco  White Wht   38 EU](https://www.amazon.es/dp/B07DY7LN88/?tag=tolees-21) con un 44.97 % de descuento con precio de oferta de 11 EUR (original: 19.99 EUR) en el siguiente enlace!

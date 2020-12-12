@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'ENKEEO Corrector de Postura para Espalda Hombro Ajustable y Respirable  XL  105-120cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P2CHVQY/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'ENKEEO Corrector de Postura para Espalda'
 ---
 
 Tienes [ENKEEO Corrector de Postura para Espalda Hombro Ajustable y Respirable  XL  105-120cm ](https://www.amazon.es/dp/B07P2CHVQY/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

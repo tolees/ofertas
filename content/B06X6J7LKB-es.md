@@ -17,6 +17,9 @@ comparePrice: 21.09 EUR
 inStock: true
 prodname: 'Smirnoff Vodka Blueberry Twist - 1000 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X6J7LKB/?tag=tolees-21'
+descuento: '43.05'
+titulo: 'Smirnoff Vodka Blueberry Twist - 1000 ml'
 ---
 
 Está [Smirnoff Vodka Blueberry Twist - 1000 ml](https://www.amazon.es/dp/B06X6J7LKB/?tag=tolees-21) con 43.05 de descuento por 12.01 EUR (original: 21.09 EUR) en el siguiente enlace!

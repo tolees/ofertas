@@ -17,6 +17,9 @@ comparePrice: 42.99 EUR
 inStock: true
 prodname: 'Charmast®Batería Externa 10000mAh Cargador Portatil Power Bank con Cable Tipo C & Micro USB Incorporado Doble Puertos de Entrada 5V/2A para iPhone Samsung Huawei Android Celulares  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3LNXGY/?tag=tolees-21'
+descuento: '46.52'
+titulo: 'Charmast®Batería Externa 10000mAh Cargad'
 ---
 
 Está [Charmast®Batería Externa 10000mAh Cargador Portatil Power Bank con Cable Tipo C & Micro USB Incorporado Doble Puertos de Entrada 5V/2A para iPhone Samsung Huawei Android Celulares  Negro ](https://www.amazon.es/dp/B07L3LNXGY/?tag=tolees-21) con 46.52 de descuento por 22.99 EUR (original: 42.99 EUR) en el siguiente enlace!

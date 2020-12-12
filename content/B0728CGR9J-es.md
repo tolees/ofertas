@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'BECK Fantasy  Botas de Agua para Niñas  50  34 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0728CGR9J/?tag=tolees-21'
+descuento: '38.47'
+titulo: 'BECK Fantasy  Botas de Agua para Niñas  '
 ---
 
 Ahora mismo tienes [BECK Fantasy  Botas de Agua para Niñas  50  34 EU](https://www.amazon.es/dp/B0728CGR9J/?tag=tolees-21) a 12.3 EUR (original: 19.99 EUR) (38.47 %  de descuento) en el siguiente enlace!

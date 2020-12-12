@@ -17,6 +17,9 @@ comparePrice: 599.9 EUR
 inStock: true
 prodname: 'Huawei P9 - Smartphone de 5.2"  WiFi  Bluetooth  HiSilicon Kirin 955  Octa-Core  32 GB de Memoria Interna  3 GB de RAM  cámara de 12 MP  Android 6.0 Marshmallow   versión Italiana  Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DZOAWMI/?tag=tolees-21'
+descuento: '57.26'
+titulo: 'Huawei P9 - Smartphone de 5.2"  WiFi  Bl'
 ---
 
 Está [Huawei P9 - Smartphone de 5.2"  WiFi  Bluetooth  HiSilicon Kirin 955  Octa-Core  32 GB de Memoria Interna  3 GB de RAM  cámara de 12 MP  Android 6.0 Marshmallow   versión Italiana  Gris](https://www.amazon.es/dp/B01DZOAWMI/?tag=tolees-21) con 57.26 de descuento por 256.39 EUR (original: 599.9 EUR) en el siguiente enlace!

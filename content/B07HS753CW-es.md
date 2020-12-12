@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Sharp DR-450 BK  - Radio Digital Dab/Dab+/FM  Bluetooth 4.2  Alarma  3 W RMS  LCD  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HS753CW/?tag=tolees-21'
+descuento: '52.89'
+titulo: 'Sharp DR-450 BK  - Radio Digital Dab/Dab'
 ---
 
 Está [Sharp DR-450 BK  - Radio Digital Dab/Dab+/FM  Bluetooth 4.2  Alarma  3 W RMS  LCD  Negro](https://www.amazon.es/dp/B07HS753CW/?tag=tolees-21) con 52.89 de descuento por 56.53 EUR (original: 119.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.97 EUR
 inStock: true
 prodname: 'Botanic Ultra Premium Ginebra - 700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009T4BPIE/?tag=tolees-21'
+descuento: '33.14'
+titulo: 'Botanic Ultra Premium Ginebra - 700 ml'
 ---
 
 Está [Botanic Ultra Premium Ginebra - 700 ml](https://www.amazon.es/dp/B009T4BPIE/?tag=tolees-21) con 33.14 de descuento por 24.05 EUR (original: 35.97 EUR) en el siguiente enlace!

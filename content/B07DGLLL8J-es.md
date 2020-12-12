@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'DC Shoes Manteca  Zapatillas de Skateboard para Hombre  Rojo White/Red-Combo Xrwr  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGLLL8J/?tag=tolees-21'
+descuento: '65.16'
+titulo: 'DC Shoes Manteca  Zapatillas de Skateboa'
 ---
 
 Tienes [DC Shoes Manteca  Zapatillas de Skateboard para Hombre  Rojo White/Red-Combo Xrwr  40 EU](https://www.amazon.es/dp/B07DGLLL8J/?tag=tolees-21) con un 65.16 % de descuento con precio de oferta de 34.49 EUR (original: 99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Asics Gel-Contend 5  Zapatillas de Running para Hombre  Azul  Indigo Blue/Silver 401   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K74K6PG/?tag=tolees-21'
+descuento: '30.08'
+titulo: 'Asics Gel-Contend 5  Zapatillas de Runni'
 ---
 
 Tienes [Asics Gel-Contend 5  Zapatillas de Running para Hombre  Azul  Indigo Blue/Silver 401   44.5 EU](https://www.amazon.es/dp/B07K74K6PG/?tag=tolees-21) con un 30.08 % de descuento con precio de oferta de 45.45 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Napapijri Nore  Pantalones Cortos para Hombre  Beige  Mineral Beige Nb4   29'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBMFRGL/?tag=tolees-21'
+descuento: '59.97'
+titulo: 'Napapijri Nore  Pantalones Cortos para H'
 ---
 
 Está [Napapijri Nore  Pantalones Cortos para Hombre  Beige  Mineral Beige Nb4   29](https://www.amazon.es/dp/B07LBMFRGL/?tag=tolees-21) con 59.97 de descuento por 35.63 EUR (original: 89 EUR) en el siguiente enlace!

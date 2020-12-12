@@ -17,6 +17,9 @@ comparePrice: 64.5 EUR
 inStock: true
 prodname: 'Reloj Pulsera de Cuarzo Deportivo Analógico con Malla de Cuero Bovino Color Naranja y Acabado Negro Mate  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y2ZD2CD/?tag=tolees-21'
+descuento: '69.01'
+titulo: 'Reloj Pulsera de Cuarzo Deportivo Analóg'
 ---
 
 Está [Reloj Pulsera de Cuarzo Deportivo Analógico con Malla de Cuero Bovino Color Naranja y Acabado Negro Mate  para Hombre](https://www.amazon.es/dp/B06Y2ZD2CD/?tag=tolees-21) con 69.01 de descuento por 19.99 EUR (original: 64.5 EUR) en el siguiente enlace!

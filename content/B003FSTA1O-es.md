@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Ultrasport 331100000029 - Pesas gimnásticas de goma  2 x 1.5 kg'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003FSTA1O/?tag=tolees-21'
+descuento: '47.39'
+titulo: 'Ultrasport 331100000029 - Pesas gimnásti'
 ---
 
 Está [Ultrasport 331100000029 - Pesas gimnásticas de goma  2 x 1.5 kg](https://www.amazon.es/dp/B003FSTA1O/?tag=tolees-21) con 47.39 de descuento por 9.99 EUR (original: 18.99 EUR) en el siguiente enlace!

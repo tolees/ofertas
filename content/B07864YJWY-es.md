@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'PUMA 655646 01 Camiseta de Equipación  Niños  Rojo  Rojo/Blanco   140'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07864YJWY/?tag=tolees-21'
+descuento: '58.70'
+titulo: 'PUMA 655646 01 Camiseta de Equipación  N'
 ---
 
 Está [PUMA 655646 01 Camiseta de Equipación  Niños  Rojo  Rojo/Blanco   140](https://www.amazon.es/dp/B07864YJWY/?tag=tolees-21) con 58.70 de descuento por 16.5 EUR (original: 39.95 EUR) en el siguiente enlace!

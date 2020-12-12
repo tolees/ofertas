@@ -17,6 +17,9 @@ comparePrice: 219.99 EUR
 inStock: true
 prodname: 'Klarstein VariCook Slim • Cocina • Placa de inducción doble • 3500 W • 240° C • 10 Niveles • Temporizador • Panel táctil • Visor LED • Protección antisobrecalentamiento • Apagado automático • Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTQBAF0/?tag=tolees-21'
+descuento: '45.46'
+titulo: 'Klarstein VariCook Slim • Cocina • Placa'
 ---
 
 Está [Klarstein VariCook Slim • Cocina • Placa de inducción doble • 3500 W • 240° C • 10 Niveles • Temporizador • Panel táctil • Visor LED • Protección antisobrecalentamiento • Apagado automático • Negro](https://www.amazon.es/dp/B01MTQBAF0/?tag=tolees-21) con 45.46 de descuento por 119.99 EUR (original: 219.99 EUR) en el siguiente enlace!

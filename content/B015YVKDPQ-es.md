@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'ECCO Jared  Mocasines para Hombre  Negro  BLACK1001   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015YVKDPQ/?tag=tolees-21'
+descuento: '68.08'
+titulo: 'ECCO Jared  Mocasines para Hombre  Negro'
 ---
 
 Tienes [ECCO Jared  Mocasines para Hombre  Negro  BLACK1001   47 EU](https://www.amazon.es/dp/B015YVKDPQ/?tag=tolees-21) con un 68.08 % de descuento con precio de oferta de 51.08 EUR (original: 160 EUR) en el siguiente enlace!

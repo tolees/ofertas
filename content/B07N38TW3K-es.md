@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'THE NORTH FACE M Litewave Fastpack II GTX  Zapatillas de Senderismo para Hombre  Marrón  Ebony Grey/Scarlet Ibis C49   48 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N38TW3K/?tag=tolees-21'
+descuento: '42.57'
+titulo: 'THE NORTH FACE M Litewave Fastpack II GT'
 ---
 
 Tienes [THE NORTH FACE M Litewave Fastpack II GTX  Zapatillas de Senderismo para Hombre  Marrón  Ebony Grey/Scarlet Ibis C49   48 EU](https://www.amazon.es/dp/B07N38TW3K/?tag=tolees-21) con un 42.57 % de descuento con precio de oferta de 57.43 EUR (original: 100 EUR) en el siguiente enlace!

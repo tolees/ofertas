@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'San Ignacio Pixel Pro Cooper Set de 3 sartenes + 4 Cuchillos 3 Utensilios de Cocina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NYT5NNP/?tag=tolees-21'
+descuento: '60.91'
+titulo: 'San Ignacio Pixel Pro Cooper Set de 3 sa'
 ---
 
 Tienes [San Ignacio Pixel Pro Cooper Set de 3 sartenes + 4 Cuchillos 3 Utensilios de Cocina](https://www.amazon.es/dp/B07NYT5NNP/?tag=tolees-21) con un 60.91 % de descuento con precio de oferta de 42.99 EUR (original: 109.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Hummel Hmlliams Pantalones  Unisex niños  Gris  Medium Melange   104'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVTM9Z6/?tag=tolees-21'
+descuento: '56.87'
+titulo: 'Hummel Hmlliams Pantalones  Unisex niños'
 ---
 
 Está [Hummel Hmlliams Pantalones  Unisex niños  Gris  Medium Melange   104](https://www.amazon.es/dp/B07DVTM9Z6/?tag=tolees-21) con 56.87 de descuento por 17.23 EUR (original: 39.95 EUR) en el siguiente enlace!

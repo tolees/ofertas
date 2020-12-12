@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'HEAD Basic Boxer 2P  Calzoncillos/Boxer para Hombre  Multicolor  Azul/Negro   L  Pack de 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00H2T0FMA/?tag=tolees-21'
+descuento: '30.43'
+titulo: 'HEAD Basic Boxer 2P  Calzoncillos/Boxer '
 ---
 
 Ahora mismo tienes [HEAD Basic Boxer 2P  Calzoncillos/Boxer para Hombre  Multicolor  Azul/Negro   L  Pack de 2](https://www.amazon.es/dp/B00H2T0FMA/?tag=tolees-21) a 6.95 EUR (original: 9.99 EUR) (30.43 %  de descuento) en el siguiente enlace!

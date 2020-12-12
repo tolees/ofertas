@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'KitSound Altavoz Bluetooth portátil Boogie Buddy - Ballena'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C7Q3DSD/?tag=tolees-21'
+descuento: '41.91'
+titulo: 'KitSound Altavoz Bluetooth portátil Boog'
 ---
 
 Ahora mismo tienes [KitSound Altavoz Bluetooth portátil Boogie Buddy - Ballena](https://www.amazon.es/dp/B07C7Q3DSD/?tag=tolees-21) a 10.45 EUR (original: 17.99 EUR) (41.91 %  de descuento) en el siguiente enlace!

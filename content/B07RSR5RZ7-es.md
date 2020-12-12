@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'DANISH ENDURANCE Calcetines de Ciclismo 3 Pares  1 x Rayas  1 x Negro  1 x Azul   EU 39-42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RSR5RZ7/?tag=tolees-21'
+descuento: '63.98'
+titulo: 'DANISH ENDURANCE Calcetines de Ciclismo '
 ---
 
 Está [DANISH ENDURANCE Calcetines de Ciclismo 3 Pares  1 x Rayas  1 x Negro  1 x Azul   EU 39-42](https://www.amazon.es/dp/B07RSR5RZ7/?tag=tolees-21) con 63.98 de descuento por 12.95 EUR (original: 35.95 EUR) en el siguiente enlace!

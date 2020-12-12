@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Clarks Witcombe Rock  Botas para Mujer  Marrón  Dark Tan Lea   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XC243FV/?tag=tolees-21'
+descuento: '77.15'
+titulo: 'Clarks Witcombe Rock  Botas para Mujer  '
 ---
 
 Tienes [Clarks Witcombe Rock  Botas para Mujer  Marrón  Dark Tan Lea   39 EU](https://www.amazon.es/dp/B06XC243FV/?tag=tolees-21) con un 77.15 % de descuento con precio de oferta de 31.99 EUR (original: 140 EUR) en el siguiente enlace!

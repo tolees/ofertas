@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY BLIC002 sujetadores  Negro  Black1   100E  Talla del Fabricante: 38DD '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0753JNMT9/?tag=tolees-21'
+descuento: '48.43'
+titulo: 'IRIS & LILLY BLIC002 sujetadores  Negro '
 ---
 
 Tienes [IRIS & LILLY BLIC002 sujetadores  Negro  Black1   100E  Talla del Fabricante: 38DD ](https://www.amazon.es/dp/B0753JNMT9/?tag=tolees-21) con un 48.43 % de descuento con precio de oferta de 7.73 EUR (original: 14.99 EUR) en el siguiente enlace!

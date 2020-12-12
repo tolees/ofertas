@@ -17,6 +17,9 @@ comparePrice: 110.99 EUR
 inStock: true
 prodname: '3 Millones Píxeles/1536P HD IP WiFi Cámara de Seguridad FREDI  Cámara de Vigilancia Panorámica de 360 Grados  Deteccion de Movimiento con Visión Nocturna de Infrarrojos /2 Way Audio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLBXHVT/?tag=tolees-21'
+descuento: '59.46'
+titulo: '3 Millones Píxeles/1536P HD IP WiFi Cáma'
 ---
 
 Está [3 Millones Píxeles/1536P HD IP WiFi Cámara de Seguridad FREDI  Cámara de Vigilancia Panorámica de 360 Grados  Deteccion de Movimiento con Visión Nocturna de Infrarrojos /2 Way Audio](https://www.amazon.es/dp/B07DLBXHVT/?tag=tolees-21) con 59.46 de descuento por 44.99 EUR (original: 110.99 EUR) en el siguiente enlace!

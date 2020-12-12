@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Adidas Match 1.8'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078XDBS3L/?tag=tolees-21'
+descuento: '36.45'
+titulo: 'Adidas Match 1.8'
 ---
 
 Tienes [Adidas Match 1.8](https://www.amazon.es/dp/B078XDBS3L/?tag=tolees-21) con un 36.45 % de descuento con precio de oferta de 34.95 EUR (original: 55 EUR) en el siguiente enlace!

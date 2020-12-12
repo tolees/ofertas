@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Tadeo Jones Kit 5 en 1 set de exploracion  Cefa Toys 04612 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071YYRSLP/?tag=tolees-21'
+descuento: '48.42'
+titulo: 'Tadeo Jones Kit 5 en 1 set de exploracio'
 ---
 
 Ahora mismo tienes [Tadeo Jones Kit 5 en 1 set de exploracion  Cefa Toys 04612 ](https://www.amazon.es/dp/B071YYRSLP/?tag=tolees-21) a 12.89 EUR (original: 24.99 EUR) (48.42 %  de descuento) en el siguiente enlace!

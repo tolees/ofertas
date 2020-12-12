@@ -17,6 +17,9 @@ comparePrice: 56.99 EUR
 inStock: true
 prodname: 'INTEY Rodillos de Yoga de la Aptitud del Rodillo de la Espuma para el Ejercicio  el Masaje del Músculo  los Pilates  la Terapia en Hogar y el Gimnasio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R3V5LR5/?tag=tolees-21'
+descuento: '64.92'
+titulo: 'INTEY Rodillos de Yoga de la Aptitud del'
 ---
 
 Ahora mismo tienes [INTEY Rodillos de Yoga de la Aptitud del Rodillo de la Espuma para el Ejercicio  el Masaje del Músculo  los Pilates  la Terapia en Hogar y el Gimnasio](https://www.amazon.es/dp/B07R3V5LR5/?tag=tolees-21) a 19.99 EUR (original: 56.99 EUR) (64.92 %  de descuento) en el siguiente enlace!

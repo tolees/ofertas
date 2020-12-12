@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Chicco Ohlala Silla de Paseo Ultraligera y Compacta  3 8 kg  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JS9GCIM/?tag=tolees-21'
+descuento: '42.96'
+titulo: 'Chicco Ohlala Silla de Paseo Ultraligera'
 ---
 
 Está [Chicco Ohlala Silla de Paseo Ultraligera y Compacta  3 8 kg  Negro](https://www.amazon.es/dp/B01JS9GCIM/?tag=tolees-21) con 42.96 de descuento por 84.99 EUR (original: 149 EUR) en el siguiente enlace!

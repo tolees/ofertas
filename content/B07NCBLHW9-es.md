@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans Saturn Vaqueros Straight  Azul  Medium Used Wiser Wash Denim Wz3   W31/L34 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NCBLHW9/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'Pepe Jeans Saturn Vaqueros Straight  Azu'
 ---
 
 Está [Pepe Jeans Saturn Vaqueros Straight  Azul  Medium Used Wiser Wash Denim Wz3   W31/L34 para Mujer](https://www.amazon.es/dp/B07NCBLHW9/?tag=tolees-21) con 50.05 de descuento por 47.45 EUR (original: 95 EUR) en el siguiente enlace!

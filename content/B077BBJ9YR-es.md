@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Under Armour MK1 Terry Graphic Hoodie Sudadera  Hombre  Azul  487   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077BBJ9YR/?tag=tolees-21'
+descuento: '58.38'
+titulo: 'Under Armour MK1 Terry Graphic Hoodie Su'
 ---
 
 Ahora mismo tienes [Under Armour MK1 Terry Graphic Hoodie Sudadera  Hombre  Azul  487   S](https://www.amazon.es/dp/B077BBJ9YR/?tag=tolees-21) a 22.89 EUR (original: 55 EUR) (58.38 %  de descuento) en el siguiente enlace!

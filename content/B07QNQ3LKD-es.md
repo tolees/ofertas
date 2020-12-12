@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Zapatillas de Trail Running Minimalistas Barefoot Hombre Mujer Zapatillas de Deporte Exterior'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QNQ3LKD/?tag=tolees-21'
+descuento: '55.19'
+titulo: 'Zapatillas de Trail Running Minimalistas'
 ---
 
 Está [Zapatillas de Trail Running Minimalistas Barefoot Hombre Mujer Zapatillas de Deporte Exterior](https://www.amazon.es/dp/B07QNQ3LKD/?tag=tolees-21) con 55.19 de descuento por 26.88 EUR (original: 59.99 EUR) en el siguiente enlace!

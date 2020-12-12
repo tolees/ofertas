@@ -17,6 +17,9 @@ comparePrice: 1599 EUR
 inStock: true
 prodname: 'Gigabyte  Sabre15Wv8 GP-C106F516-ES-002 - Ordenador portátil 15.6"  i7-8750H  1 TB de Disco Duro  16 GB de RAM  Windows 10  Negro gtx1060'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CT34PLP/?tag=tolees-21'
+descuento: '43.04'
+titulo: 'Gigabyte  Sabre15Wv8 GP-C106F516-ES-002 '
 ---
 
 Ahora mismo tienes [Gigabyte  Sabre15Wv8 GP-C106F516-ES-002 - Ordenador portátil 15.6"  i7-8750H  1 TB de Disco Duro  16 GB de RAM  Windows 10  Negro gtx1060](https://www.amazon.es/dp/B07CT34PLP/?tag=tolees-21) a 910.85 EUR (original: 1599 EUR) (43.04 %  de descuento) en el siguiente enlace!

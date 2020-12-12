@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Ultimate 365 Solid  Polo para Hombre   Gris CY5397   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G9S9BFZ/?tag=tolees-21'
+descuento: '68.01'
+titulo: 'adidas Ultimate 365 Solid  Polo para Hom'
 ---
 
 Está [adidas Ultimate 365 Solid  Polo para Hombre   Gris CY5397   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07G9S9BFZ/?tag=tolees-21) con 68.01 de descuento por 15.98 EUR (original: 49.95 EUR) en el siguiente enlace!

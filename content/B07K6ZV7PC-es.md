@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Levi s 314 Shaping Straight  Vaqueros Straight para Mujer  Azul  Bright Sky 0071   W28/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K6ZV7PC/?tag=tolees-21'
+descuento: '30.20'
+titulo: 'Levi s 314 Shaping Straight  Vaqueros St'
 ---
 
 Ahora mismo tienes [Levi s 314 Shaping Straight  Vaqueros Straight para Mujer  Azul  Bright Sky 0071   W28/L32](https://www.amazon.es/dp/B07K6ZV7PC/?tag=tolees-21) a 62.82 EUR (original: 90 EUR) (30.20 %  de descuento) en el siguiente enlace!

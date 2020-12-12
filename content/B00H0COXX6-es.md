@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Nike Tournament Knit Falda  Mujer  Blanco  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00H0COXX6/?tag=tolees-21'
+descuento: '78.25'
+titulo: 'Nike Tournament Knit Falda  Mujer  Blanc'
 ---
 
 Tienes [Nike Tournament Knit Falda  Mujer  Blanco  M](https://www.amazon.es/dp/B00H0COXX6/?tag=tolees-21) con un 78.25 % de descuento con precio de oferta de 18.49 EUR (original: 85 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Termostato con WiFi  FLOUREON Termostato Eléctrico con Calefacción de Piso con WiFi  Digital y Programable  con Pantalla Táctil LCD  Control ON-LINE  230 V  Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LB47M1C/?tag=tolees-21'
+descuento: '45.72'
+titulo: 'Termostato con WiFi  FLOUREON Termostato'
 ---
 
 Está [Termostato con WiFi  FLOUREON Termostato Eléctrico con Calefacción de Piso con WiFi  Digital y Programable  con Pantalla Táctil LCD  Control ON-LINE  230 V  Color Blanco](https://www.amazon.es/dp/B07LB47M1C/?tag=tolees-21) con 45.72 de descuento por 37.99 EUR (original: 69.99 EUR) en el siguiente enlace!

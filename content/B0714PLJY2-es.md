@@ -17,6 +17,9 @@ comparePrice: 51.74 EUR
 inStock: true
 prodname: 'Under Armour Forro Polar con Cremallera para Mujer  Mujer  Color Negro  tamaño Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0714PLJY2/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Under Armour Forro Polar con Cremallera '
 ---
 
 Ahora mismo tienes [Under Armour Forro Polar con Cremallera para Mujer  Mujer  Color Negro  tamaño Medium](https://www.amazon.es/dp/B0714PLJY2/?tag=tolees-21) a 25.86 EUR (original: 51.74 EUR) (50.02 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 43 EUR
 inStock: true
 prodname: 'BEPER Mosquitera Interior  12 W  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CMAD3UU/?tag=tolees-21'
+descuento: '52.60'
+titulo: 'BEPER Mosquitera Interior  12 W  Blanco'
 ---
 
 Tienes [BEPER Mosquitera Interior  12 W  Blanco](https://www.amazon.es/dp/B00CMAD3UU/?tag=tolees-21) con un 52.60 % de descuento con precio de oferta de 20.38 EUR (original: 43 EUR) en el siguiente enlace!

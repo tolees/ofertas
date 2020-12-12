@@ -17,6 +17,9 @@ comparePrice: 32.77 EUR
 inStock: true
 prodname: 'Bebe Confort - Bañera de bebé hinchable  convertible en cambiador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002PF0NPK/?tag=tolees-21'
+descuento: '39.61'
+titulo: 'Bebe Confort - Bañera de bebé hinchable '
 ---
 
 Ahora mismo tienes [Bebe Confort - Bañera de bebé hinchable  convertible en cambiador](https://www.amazon.es/dp/B002PF0NPK/?tag=tolees-21) a 19.79 EUR (original: 32.77 EUR) (39.61 %  de descuento) en el siguiente enlace!

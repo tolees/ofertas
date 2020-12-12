@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Nike - Pantheos  Zapatillas de Gimnasia Hombre  Gris  Wolf Grey/Black/White 002   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005NFYZJ4/?tag=tolees-21'
+descuento: '49.26'
+titulo: 'Nike - Pantheos  Zapatillas de Gimnasia '
 ---
 
 Tienes [Nike - Pantheos  Zapatillas de Gimnasia Hombre  Gris  Wolf Grey/Black/White 002   39 EU](https://www.amazon.es/dp/B005NFYZJ4/?tag=tolees-21) con un 49.26 % de descuento con precio de oferta de 40.59 EUR (original: 80 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko Pop!- TMNT Figura de Vinilo  22981 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076KXCJRS/?tag=tolees-21'
+descuento: '44.96'
+titulo: 'Funko Pop!- TMNT Figura de Vinilo  22981'
 ---
 
 Está [Funko Pop!- TMNT Figura de Vinilo  22981 ](https://www.amazon.es/dp/B076KXCJRS/?tag=tolees-21) con 44.96 de descuento por 8.25 EUR (original: 14.99 EUR) en el siguiente enlace!

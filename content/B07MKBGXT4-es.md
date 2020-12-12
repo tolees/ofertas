@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'BOSS Rumba_Tenn_sd2  Zapatillas para Hombre  Gris  Light/Pastel Grey 050   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MKBGXT4/?tag=tolees-21'
+descuento: '68.34'
+titulo: 'BOSS Rumba_Tenn_sd2  Zapatillas para Hom'
 ---
 
 Ahora mismo tienes [BOSS Rumba_Tenn_sd2  Zapatillas para Hombre  Gris  Light/Pastel Grey 050   44 EU](https://www.amazon.es/dp/B07MKBGXT4/?tag=tolees-21) a 53.83 EUR (original: 170 EUR) (68.34 %  de descuento) en el siguiente enlace!

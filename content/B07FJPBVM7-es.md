@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'COMLIFE Lámpara Antimosquitos UV 360° Mata Insectos No Posee Químicos para Hogar  Oficina  Patio  Jardín y Camping al Aire Libre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJPBVM7/?tag=tolees-21'
+descuento: '46.68'
+titulo: 'COMLIFE Lámpara Antimosquitos UV 360° Ma'
 ---
 
 Ahora mismo tienes [COMLIFE Lámpara Antimosquitos UV 360° Mata Insectos No Posee Químicos para Hogar  Oficina  Patio  Jardín y Camping al Aire Libre](https://www.amazon.es/dp/B07FJPBVM7/?tag=tolees-21) a 15.99 EUR (original: 29.99 EUR) (46.68 %  de descuento) en el siguiente enlace!

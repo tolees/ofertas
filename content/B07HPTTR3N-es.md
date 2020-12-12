@@ -17,6 +17,9 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'Cressi Silicone Kids Cap Shark Gorro de Baño  Unisex niños  Rosa  Uni'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HPTTR3N/?tag=tolees-21'
+descuento: '32.42'
+titulo: 'Cressi Silicone Kids Cap Shark Gorro de '
 ---
 
 Está [Cressi Silicone Kids Cap Shark Gorro de Baño  Unisex niños  Rosa  Uni](https://www.amazon.es/dp/B07HPTTR3N/?tag=tolees-21) con 32.42 de descuento por 5.4 EUR (original: 7.99 EUR) en el siguiente enlace!

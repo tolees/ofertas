@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Detector de Metales  TACKLIFE-MMD03-Detector Básico  2 Modos de Metal y Disco  Alta Precisión  Indicador de Batería Baja  Pantalla retroiluminada  Ajuste de Altitud  Impermeable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H4L75GT/?tag=tolees-21'
+descuento: '31.67'
+titulo: 'Detector de Metales  TACKLIFE-MMD03-Dete'
 ---
 
 Ahora mismo tienes [Detector de Metales  TACKLIFE-MMD03-Detector Básico  2 Modos de Metal y Disco  Alta Precisión  Indicador de Batería Baja  Pantalla retroiluminada  Ajuste de Altitud  Impermeable](https://www.amazon.es/dp/B07H4L75GT/?tag=tolees-21) a 40.99 EUR (original: 59.99 EUR) (31.67 %  de descuento) en el siguiente enlace!

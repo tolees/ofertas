@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Berg Outdoor Estrela Hooded Sweatshirt  Hombre  Grey Melange  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GT5ZNJ1/?tag=tolees-21'
+descuento: '74.43'
+titulo: 'Berg Outdoor Estrela Hooded Sweatshirt  '
 ---
 
 Está [Berg Outdoor Estrela Hooded Sweatshirt  Hombre  Grey Melange  L](https://www.amazon.es/dp/B07GT5ZNJ1/?tag=tolees-21) con 74.43 de descuento por 12.77 EUR (original: 49.95 EUR) en el siguiente enlace!

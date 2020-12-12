@@ -17,6 +17,9 @@ comparePrice: 51.64 EUR
 inStock: true
 prodname: 'Fantasyworld Taza de los Aviones de los Hombres Productos Sanitarios eléctrico Tirando de Productos del Sexo masturbación del varón Adulto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L74H7DQ/?tag=tolees-21'
+descuento: '59.99'
+titulo: 'Fantasyworld Taza de los Aviones de los '
 ---
 
 Está [Fantasyworld Taza de los Aviones de los Hombres Productos Sanitarios eléctrico Tirando de Productos del Sexo masturbación del varón Adulto](https://www.amazon.es/dp/B07L74H7DQ/?tag=tolees-21) con 59.99 de descuento por 20.66 EUR (original: 51.64 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'OurLeeme Multifunciã³n Prensa de ajo del Acero Inoxidable Jengibre Amoladora Cocina Que Cocina ajo Cortador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HKVSZ2N/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'OurLeeme Multifunciã³n Prensa de ajo del'
 ---
 
 Tienes [OurLeeme Multifunciã³n Prensa de ajo del Acero Inoxidable Jengibre Amoladora Cocina Que Cocina ajo Cortador](https://www.amazon.es/dp/B07HKVSZ2N/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!

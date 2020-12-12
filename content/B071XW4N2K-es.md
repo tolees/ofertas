@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Esprit 997ee2i801  suéter Hombre  Azul  Dark Blue 405   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071XW4N2K/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Esprit 997ee2i801  suéter Hombre  Azul  '
 ---
 
 Ahora mismo tienes [Esprit 997ee2i801  suéter Hombre  Azul  Dark Blue 405   XX-Large](https://www.amazon.es/dp/B071XW4N2K/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

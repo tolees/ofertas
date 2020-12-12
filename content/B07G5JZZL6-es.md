@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Nike 932316 Camiseta  Negro 010  Medium  Tamaño del Fabricante:M  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G5JZZL6/?tag=tolees-21'
+descuento: '73.79'
+titulo: 'Nike 932316 Camiseta  Negro 010  Medium '
 ---
 
 Tienes [Nike 932316 Camiseta  Negro 010  Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07G5JZZL6/?tag=tolees-21) con un 73.79 % de descuento con precio de oferta de 26.21 EUR (original: 100 EUR) en el siguiente enlace!

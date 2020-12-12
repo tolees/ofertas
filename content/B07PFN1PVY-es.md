@@ -17,6 +17,9 @@ comparePrice: 29.98 EUR
 inStock: true
 prodname: 'Pandahug Grifo de Cocina Baño Automático del Retraso de Lavabo Pública Cierre Automático Delay Faucet de Presión Botón de Cobre con Dos Manijas con Agua Caliente Frio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PFN1PVY/?tag=tolees-21'
+descuento: '33.32'
+titulo: 'Pandahug Grifo de Cocina Baño Automático'
 ---
 
 Ahora mismo tienes [Pandahug Grifo de Cocina Baño Automático del Retraso de Lavabo Pública Cierre Automático Delay Faucet de Presión Botón de Cobre con Dos Manijas con Agua Caliente Frio](https://www.amazon.es/dp/B07PFN1PVY/?tag=tolees-21) a 19.99 EUR (original: 29.98 EUR) (33.32 %  de descuento) en el siguiente enlace!

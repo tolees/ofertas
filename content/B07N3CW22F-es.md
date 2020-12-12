@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Munich One Indoor  Zapatillas de Deporte Unisex Adulto   Negro 18   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3CW22F/?tag=tolees-21'
+descuento: '45.23'
+titulo: 'Munich One Indoor  Zapatillas de Deporte'
 ---
 
 Ahora mismo tienes [Munich One Indoor  Zapatillas de Deporte Unisex Adulto   Negro 18   40 EU](https://www.amazon.es/dp/B07N3CW22F/?tag=tolees-21) a 27.36 EUR (original: 49.95 EUR) (45.23 %  de descuento) en el siguiente enlace!

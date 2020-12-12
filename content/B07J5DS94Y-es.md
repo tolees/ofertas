@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Triumph Amourette Charm W Sujetador con Aros  Rosa  Pink 00bc   95B  Talla del Fabricante: 80  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J5DS94Y/?tag=tolees-21'
+descuento: '35.60'
+titulo: 'Triumph Amourette Charm W Sujetador con '
 ---
 
 Está [Triumph Amourette Charm W Sujetador con Aros  Rosa  Pink 00bc   95B  Talla del Fabricante: 80  para Mujer](https://www.amazon.es/dp/B07J5DS94Y/?tag=tolees-21) con 35.60 de descuento por 28.95 EUR (original: 44.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Springfield 6BA C S Diagonal Jersey   Gama Azules 11   Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ19RZ4/?tag=tolees-21'
+descuento: '60.29'
+titulo: 'Springfield 6BA C S Diagonal Jersey   Ga'
 ---
 
 Tienes [Springfield 6BA C S Diagonal Jersey   Gama Azules 11   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07KZ19RZ4/?tag=tolees-21) con un 60.29 % de descuento con precio de oferta de 9.13 EUR (original: 22.99 EUR) en el siguiente enlace!

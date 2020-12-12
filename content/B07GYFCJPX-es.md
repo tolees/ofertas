@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Corazón Mamá Hijos Regalo Madre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GYFCJPX/?tag=tolees-21'
+descuento: '80.02'
+titulo: 'LOVORDS Collar Mujer Grabado Plata de Le'
 ---
 
 Está [LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Corazón Mamá Hijos Regalo Madre](https://www.amazon.es/dp/B07GYFCJPX/?tag=tolees-21) con 80.02 de descuento por 9.99 EUR (original: 49.99 EUR) en el siguiente enlace!

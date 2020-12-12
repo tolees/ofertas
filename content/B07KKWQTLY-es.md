@@ -17,6 +17,9 @@ comparePrice: 22.5 EUR
 inStock: true
 prodname: 'Nike U NSW Pro Cap Air Classic Hat  Unisex Adulto  Black/White  MISC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKWQTLY/?tag=tolees-21'
+descuento: '42.44'
+titulo: 'Nike U NSW Pro Cap Air Classic Hat  Unis'
 ---
 
 Está [Nike U NSW Pro Cap Air Classic Hat  Unisex Adulto  Black/White  MISC](https://www.amazon.es/dp/B07KKWQTLY/?tag=tolees-21) con 42.44 de descuento por 12.95 EUR (original: 22.5 EUR) en el siguiente enlace!

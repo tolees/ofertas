@@ -17,6 +17,9 @@ comparePrice: 31.99 EUR
 inStock: true
 prodname: 'Cars 3 Rayo Mcqueen Superpiruetas  Lanzador y Coche de Juguete  Norme Mattel FRV84'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079KCHXCD/?tag=tolees-21'
+descuento: '30.26'
+titulo: 'Cars 3 Rayo Mcqueen Superpiruetas  Lanza'
 ---
 
 Está [Cars 3 Rayo Mcqueen Superpiruetas  Lanzador y Coche de Juguete  Norme Mattel FRV84](https://www.amazon.es/dp/B079KCHXCD/?tag=tolees-21) con 30.26 de descuento por 22.31 EUR (original: 31.99 EUR) en el siguiente enlace!

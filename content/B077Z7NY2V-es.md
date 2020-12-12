@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'HIKARO Camiseta con Botones Hombre  Rojo  Burgundy   52  Talla del fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Z7NY2V/?tag=tolees-21'
+descuento: '56.66'
+titulo: 'HIKARO Camiseta con Botones Hombre  Rojo'
 ---
 
 Ahora mismo tienes [HIKARO Camiseta con Botones Hombre  Rojo  Burgundy   52  Talla del fabricante: Large ](https://www.amazon.es/dp/B077Z7NY2V/?tag=tolees-21) a 7.78 EUR (original: 17.95 EUR) (56.66 %  de descuento) en el siguiente enlace!

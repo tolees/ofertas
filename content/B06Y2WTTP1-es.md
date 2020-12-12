@@ -17,6 +17,9 @@ comparePrice: 124 EUR
 inStock: true
 prodname: 'MSC Bikes Aero Road Zapatillas Ciclismo  Amarillo  T-41'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y2WTTP1/?tag=tolees-21'
+descuento: '45.53'
+titulo: 'MSC Bikes Aero Road Zapatillas Ciclismo '
 ---
 
 Tienes [MSC Bikes Aero Road Zapatillas Ciclismo  Amarillo  T-41](https://www.amazon.es/dp/B06Y2WTTP1/?tag=tolees-21) con un 45.53 % de descuento con precio de oferta de 67.54 EUR (original: 124 EUR) en el siguiente enlace!

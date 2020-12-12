@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Nike Ebernon Low Prem Zapatos de Baloncesto Hombre  Gris  Dark Grey/Black/White 001   45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MCJ2MZS/?tag=tolees-21'
+descuento: '56.01'
+titulo: 'Nike Ebernon Low Prem Zapatos de Balonce'
 ---
 
 Ahora mismo tienes [Nike Ebernon Low Prem Zapatos de Baloncesto Hombre  Gris  Dark Grey/Black/White 001   45.5 EU](https://www.amazon.es/dp/B00MCJ2MZS/?tag=tolees-21) a 30.79 EUR (original: 70 EUR) (56.01 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 67.55 EUR
 inStock: true
 prodname: 'Guess Pendientes Statement Mujer latón - UBS84004'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075LXNSCG/?tag=tolees-21'
+descuento: '46.57'
+titulo: 'Guess Pendientes Statement Mujer latón -'
 ---
 
 Tienes [Guess Pendientes Statement Mujer latón - UBS84004](https://www.amazon.es/dp/B075LXNSCG/?tag=tolees-21) con un 46.57 % de descuento con precio de oferta de 36.09 EUR (original: 67.55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'SALOVES Ropa para Mascotas Perros Impermeables Chubasqueros Invierno Otoño Chaleco Caliente Abrigo Chaqueta Reflectante Resistente al Viento para Perros Pequeños  Medianos y Grandes Talla M-3XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GRPNWHT/?tag=tolees-21'
+descuento: '36.68'
+titulo: 'SALOVES Ropa para Mascotas Perros Imperm'
 ---
 
 Está [SALOVES Ropa para Mascotas Perros Impermeables Chubasqueros Invierno Otoño Chaleco Caliente Abrigo Chaqueta Reflectante Resistente al Viento para Perros Pequeños  Medianos y Grandes Talla M-3XL](https://www.amazon.es/dp/B07GRPNWHT/?tag=tolees-21) con 36.68 de descuento por 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Hilfiger Denim Funny Faux Fur Sneaker  Zapatillas para Mujer  Negro  Black 990   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HH6L3MK/?tag=tolees-21'
+descuento: '44.49'
+titulo: 'Hilfiger Denim Funny Faux Fur Sneaker  Z'
 ---
 
 Está [Hilfiger Denim Funny Faux Fur Sneaker  Zapatillas para Mujer  Negro  Black 990   41 EU](https://www.amazon.es/dp/B07HH6L3MK/?tag=tolees-21) con 44.49 de descuento por 49.9 EUR (original: 89.9 EUR) en el siguiente enlace!

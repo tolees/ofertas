@@ -17,6 +17,9 @@ comparePrice: 42.18 EUR
 inStock: true
 prodname: 'Luminarc Vajilla 19 Piezas Harena  Blanco  17.52 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CEYDGEG/?tag=tolees-21'
+descuento: '29.23'
+titulo: 'Luminarc Vajilla 19 Piezas Harena  Blanc'
 ---
 
 Está [Luminarc Vajilla 19 Piezas Harena  Blanco  17.52 cm](https://www.amazon.es/dp/B01CEYDGEG/?tag=tolees-21) con 29.23 de descuento por 29.85 EUR (original: 42.18 EUR) en el siguiente enlace!

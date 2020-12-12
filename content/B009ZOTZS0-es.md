@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'VAUDE Tobago 65 – Trolley grande para viaje – color orange  talla 65 Litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009ZOTZS0/?tag=tolees-21'
+descuento: '63.55'
+titulo: 'VAUDE Tobago 65 – Trolley grande para vi'
 ---
 
 Tienes [VAUDE Tobago 65 – Trolley grande para viaje – color orange  talla 65 Litros](https://www.amazon.es/dp/B009ZOTZS0/?tag=tolees-21) con un 63.55 % de descuento con precio de oferta de 65.61 EUR (original: 180 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcojames Sweat Hood Camp  Capucha Hombre  Azul  Skydiver Detail: Melange   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZHZ393/?tag=tolees-21'
+descuento: '63.02'
+titulo: 'JACK & JONES Jcojames Sweat Hood Camp  C'
 ---
 
 Está [JACK & JONES Jcojames Sweat Hood Camp  Capucha Hombre  Azul  Skydiver Detail: Melange   Medium](https://www.amazon.es/dp/B07JZHZ393/?tag=tolees-21) con 63.02 de descuento por 11.09 EUR (original: 29.99 EUR) en el siguiente enlace!

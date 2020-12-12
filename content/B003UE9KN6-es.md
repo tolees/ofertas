@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike Court Royale Suede  Zapatillas de Gimnasia para Hombre  Gris Vapste Grey/Black 014  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003UE9KN6/?tag=tolees-21'
+descuento: '46.47'
+titulo: 'Nike Court Royale Suede  Zapatillas de G'
 ---
 
 Tienes [Nike Court Royale Suede  Zapatillas de Gimnasia para Hombre  Gris Vapste Grey/Black 014  45 EU](https://www.amazon.es/dp/B003UE9KN6/?tag=tolees-21) con un 46.47 % de descuento con precio de oferta de 32.12 EUR (original: 60 EUR) en el siguiente enlace!

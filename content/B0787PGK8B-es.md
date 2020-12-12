@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Pepe Jeans London Aberlady Daisy  Zapatillas para Mujer  Dorado  Gold   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0787PGK8B/?tag=tolees-21'
+descuento: '52.60'
+titulo: 'Pepe Jeans London Aberlady Daisy  Zapati'
 ---
 
 Tienes [Pepe Jeans London Aberlady Daisy  Zapatillas para Mujer  Dorado  Gold   38 EU](https://www.amazon.es/dp/B0787PGK8B/?tag=tolees-21) con un 52.60 % de descuento con precio de oferta de 26.07 EUR (original: 55 EUR) en el siguiente enlace!

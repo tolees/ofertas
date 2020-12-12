@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Vega SL  Zapatillas para Mujer  Negro Black  40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071F8G3DT/?tag=tolees-21'
+descuento: '63.92'
+titulo: 'Puma Vega SL  Zapatillas para Mujer  Neg'
 ---
 
 Está [Puma Vega SL  Zapatillas para Mujer  Negro Black  40.5 EU](https://www.amazon.es/dp/B071F8G3DT/?tag=tolees-21) con 63.92 de descuento por 21.63 EUR (original: 59.95 EUR) en el siguiente enlace!

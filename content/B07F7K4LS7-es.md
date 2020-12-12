@@ -17,6 +17,9 @@ comparePrice: 169.9 EUR
 inStock: true
 prodname: 'Béaba 915020 - Hamaca bebe regulable en altura  unisex  color gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7K4LS7/?tag=tolees-21'
+descuento: '35.29'
+titulo: 'Béaba 915020 - Hamaca bebe regulable en '
 ---
 
 Está [Béaba 915020 - Hamaca bebe regulable en altura  unisex  color gris](https://www.amazon.es/dp/B07F7K4LS7/?tag=tolees-21) con 35.29 de descuento por 109.95 EUR (original: 169.9 EUR) en el siguiente enlace!

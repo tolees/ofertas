@@ -17,6 +17,9 @@ comparePrice: 15.25 EUR
 inStock: true
 prodname: 'Nanocable 10.15.4402 - Cable conversor DisplayPort a VGA  DisplayPort/M - VGA/M  negro  2.0 m'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MP16ZS7/?tag=tolees-21'
+descuento: '29.51'
+titulo: 'Nanocable 10.15.4402 - Cable conversor D'
 ---
 
 Tienes [Nanocable 10.15.4402 - Cable conversor DisplayPort a VGA  DisplayPort/M - VGA/M  negro  2.0 m](https://www.amazon.es/dp/B07MP16ZS7/?tag=tolees-21) con un 29.51 % de descuento con precio de oferta de 10.75 EUR (original: 15.25 EUR) en el siguiente enlace!

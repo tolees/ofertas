@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'FAMIROSA Compresor de Aire Digital  Inflador Eléctrico Portátil Automático para Neumáticos  Bomba de Aire del Coche de Pantalla Digital  12V DC 40PSI  para Autos  Scooters  Accesorios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BXSVRCV/?tag=tolees-21'
+descuento: '34.79'
+titulo: 'FAMIROSA Compresor de Aire Digital  Infl'
 ---
 
 Está [FAMIROSA Compresor de Aire Digital  Inflador Eléctrico Portátil Automático para Neumáticos  Bomba de Aire del Coche de Pantalla Digital  12V DC 40PSI  para Autos  Scooters  Accesorios](https://www.amazon.es/dp/B07BXSVRCV/?tag=tolees-21) con 34.79 de descuento por 29.99 EUR (original: 45.99 EUR) en el siguiente enlace!

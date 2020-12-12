@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Desigual Vest_Nadia Vestido  Azul  Blue Depths 5149   X-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XQ47RN1/?tag=tolees-21'
+descuento: '54.23'
+titulo: 'Desigual Vest_Nadia Vestido  Azul  Blue '
 ---
 
 Tienes [Desigual Vest_Nadia Vestido  Azul  Blue Depths 5149   X-Small para Mujer](https://www.amazon.es/dp/B06XQ47RN1/?tag=tolees-21) con un 54.23 % de descuento con precio de oferta de 27.44 EUR (original: 59.95 EUR) en el siguiente enlace!

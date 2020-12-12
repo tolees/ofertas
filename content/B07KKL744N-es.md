@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Naf Naf Kenr55d  Vestido para Mujer  Rosa  Framboise 391  40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKL744N/?tag=tolees-21'
+descuento: '61.34'
+titulo: 'Naf Naf Kenr55d  Vestido para Mujer  Ros'
 ---
 
 Está [Naf Naf Kenr55d  Vestido para Mujer  Rosa  Framboise 391  40](https://www.amazon.es/dp/B07KKL744N/?tag=tolees-21) con 61.34 de descuento por 27.06 EUR (original: 70 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Gazelle W  Zapatillas de Gimnasia para Mujer  Negro Core Black/FTWR White  35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D72SBWB/?tag=tolees-21'
+descuento: '69.68'
+titulo: 'adidas Gazelle W  Zapatillas de Gimnasia'
 ---
 
 Está [adidas Gazelle W  Zapatillas de Gimnasia para Mujer  Negro Core Black/FTWR White  35.5 EU](https://www.amazon.es/dp/B07D72SBWB/?tag=tolees-21) con 69.68 de descuento por 30.3 EUR (original: 99.95 EUR) en el siguiente enlace!

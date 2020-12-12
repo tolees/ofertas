@@ -17,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'Bañador Reductor de Mujer Traje de Baño de Una Pieza de Rayas Floral 2XL CL0984-1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PTYNH7M/?tag=tolees-21'
+descuento: '48.66'
+titulo: 'Bañador Reductor de Mujer Traje de Baño '
 ---
 
 Ahora mismo tienes [Bañador Reductor de Mujer Traje de Baño de Una Pieza de Rayas Floral 2XL CL0984-1](https://www.amazon.es/dp/B07PTYNH7M/?tag=tolees-21) a 18.99 EUR (original: 36.99 EUR) (48.66 %  de descuento) en el siguiente enlace!

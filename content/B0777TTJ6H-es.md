@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre  Scanton Cobco Vaqueros slim  Ajustada Azul  Cobble Black Comfort 911  W31/L36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0777TTJ6H/?tag=tolees-21'
+descuento: '66.05'
+titulo: 'Tommy Jeans Hombre  Scanton Cobco Vaquer'
 ---
 
 Tienes [Tommy Jeans Hombre  Scanton Cobco Vaqueros slim  Ajustada Azul  Cobble Black Comfort 911  W31/L36](https://www.amazon.es/dp/B0777TTJ6H/?tag=tolees-21) con un 66.05 % de descuento con precio de oferta de 32.25 EUR (original: 95 EUR) en el siguiente enlace!

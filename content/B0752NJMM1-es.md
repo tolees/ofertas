@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'G-STAR RAW D-STAQ 5-pkt Straight Tapered  Vaqueros Tapered Hombre  Azul  Medium Aged   W38/L38  Talla del Fabricante: 38/38 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0752NJMM1/?tag=tolees-21'
+descuento: '45.44'
+titulo: 'G-STAR RAW D-STAQ 5-pkt Straight Tapered'
 ---
 
 Tienes [G-STAR RAW D-STAQ 5-pkt Straight Tapered  Vaqueros Tapered Hombre  Azul  Medium Aged   W38/L38  Talla del Fabricante: 38/38 ](https://www.amazon.es/dp/B0752NJMM1/?tag=tolees-21) con un 45.44 % de descuento con precio de oferta de 70.9 EUR (original: 129.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'RAVPower Cargador Panel Solar 16W  Dual USB Puertos  Inteligente IC  A Prueba De Agua  En Acero Inoxidable  Placa Batería Plegable para Móviles  Tablets y Otros Dispositivos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PVQ5DXM/?tag=tolees-21'
+descuento: '42.86'
+titulo: 'RAVPower Cargador Panel Solar 16W  Dual '
 ---
 
 Ahora mismo tienes [RAVPower Cargador Panel Solar 16W  Dual USB Puertos  Inteligente IC  A Prueba De Agua  En Acero Inoxidable  Placa Batería Plegable para Móviles  Tablets y Otros Dispositivos](https://www.amazon.es/dp/B00PVQ5DXM/?tag=tolees-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

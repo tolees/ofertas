@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'b.young Elis Jacket  Abrigo para Mujer  Elfenbein  Whisper Pink 80654  36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014KH1PPM/?tag=tolees-21'
+descuento: '82.86'
+titulo: 'b.young Elis Jacket  Abrigo para Mujer  '
 ---
 
 Tienes [b.young Elis Jacket  Abrigo para Mujer  Elfenbein  Whisper Pink 80654  36](https://www.amazon.es/dp/B014KH1PPM/?tag=tolees-21) con un 82.86 % de descuento con precio de oferta de 13.7 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Gocco Pantalon Basico Pana  Niños  Marrón  Cuero MC  9-10 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D83FDDK/?tag=tolees-21'
+descuento: '68.66'
+titulo: 'Gocco Pantalon Basico Pana  Niños  Marró'
 ---
 
 Tienes [Gocco Pantalon Basico Pana  Niños  Marrón  Cuero MC  9-10 años](https://www.amazon.es/dp/B07D83FDDK/?tag=tolees-21) con un 68.66 % de descuento con precio de oferta de 9.4 EUR (original: 29.99 EUR) en el siguiente enlace!

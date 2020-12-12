@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield Sudadera Camionero Pique Sudadera  Hombre  Azul  Marine Blue   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0757PRHFX/?tag=tolees-21'
+descuento: '66.14'
+titulo: 'Springfield Sudadera Camionero Pique Sud'
 ---
 
 Está [Springfield Sudadera Camionero Pique Sudadera  Hombre  Azul  Marine Blue   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B0757PRHFX/?tag=tolees-21) con 66.14 de descuento por 8.8 EUR (original: 25.99 EUR) en el siguiente enlace!

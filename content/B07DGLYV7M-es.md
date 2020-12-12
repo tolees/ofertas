@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'DC Shoes Crisis High  Zapatillas de Skateboard para Hombre  Negro Brown/Black-Combo Xkck  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGLYV7M/?tag=tolees-21'
+descuento: '60.05'
+titulo: 'DC Shoes Crisis High  Zapatillas de Skat'
 ---
 
 Ahora mismo tienes [DC Shoes Crisis High  Zapatillas de Skateboard para Hombre  Negro Brown/Black-Combo Xkck  39 EU](https://www.amazon.es/dp/B07DGLYV7M/?tag=tolees-21) a 37.95 EUR (original: 95 EUR) (60.05 %  de descuento) en el siguiente enlace!

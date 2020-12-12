@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Hombre L/s Polo Shirt Polo Not Applicable  Blanco  Bianco 101   Talla única  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTPW57X/?tag=tolees-21'
+descuento: '50.08'
+titulo: 'United Colors of Benetton Hombre L/s Pol'
 ---
 
 Está [United Colors of Benetton Hombre L/s Polo Shirt Polo Not Applicable  Blanco  Bianco 101   Talla única  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07KTPW57X/?tag=tolees-21) con 50.08 de descuento por 14.95 EUR (original: 29.95 EUR) en el siguiente enlace!

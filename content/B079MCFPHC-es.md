@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Oak Canyon  Zapatillas para Hombre  Azul  Navy Lime Nvlm   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079MCFPHC/?tag=tolees-21'
+descuento: '35.86'
+titulo: 'Skechers Oak Canyon  Zapatillas para Hom'
 ---
 
 Está [Skechers Oak Canyon  Zapatillas para Hombre  Azul  Navy Lime Nvlm   43 EU](https://www.amazon.es/dp/B079MCFPHC/?tag=tolees-21) con 35.86 de descuento por 38.45 EUR (original: 59.95 EUR) en el siguiente enlace!

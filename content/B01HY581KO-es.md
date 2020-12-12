@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 420  Zapatillas de Running para Mujer   Blue/Green 458   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HY581KO/?tag=tolees-21'
+descuento: '72.66'
+titulo: 'New Balance 420  Zapatillas de Running p'
 ---
 
 Tienes [New Balance 420  Zapatillas de Running para Mujer   Blue/Green 458   36.5 EU](https://www.amazon.es/dp/B01HY581KO/?tag=tolees-21) con un 72.66 % de descuento con precio de oferta de 24.61 EUR (original: 90 EUR) en el siguiente enlace!

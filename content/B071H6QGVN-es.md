@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Fundas para sillas Pack de 4 Fundas sillas Comedor Fundas elásticas  Cubiertas para sillas bielástico Extraíble Funda  Muy fácil de Limpiar  Duradera  Paquete de 4  Marrón '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071H6QGVN/?tag=tolees-21'
+descuento: '52.51'
+titulo: 'Fundas para sillas Pack de 4 Fundas sill'
 ---
 
 Ahora mismo tienes [Fundas para sillas Pack de 4 Fundas sillas Comedor Fundas elásticas  Cubiertas para sillas bielástico Extraíble Funda  Muy fácil de Limpiar  Duradera  Paquete de 4  Marrón ](https://www.amazon.es/dp/B071H6QGVN/?tag=tolees-21) a 18.99 EUR (original: 39.99 EUR) (52.51 %  de descuento) en el siguiente enlace!

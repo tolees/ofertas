@@ -17,6 +17,9 @@ comparePrice: 195 EUR
 inStock: true
 prodname: 'BOSS Athleisure Titanium_Runn_act2  Zapatillas para Hombre  Azul  Dark Blue 401   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G746TCP/?tag=tolees-21'
+descuento: '60.03'
+titulo: 'BOSS Athleisure Titanium_Runn_act2  Zapa'
 ---
 
 Tienes [BOSS Athleisure Titanium_Runn_act2  Zapatillas para Hombre  Azul  Dark Blue 401   42 EU](https://www.amazon.es/dp/B07G746TCP/?tag=tolees-21) con un 60.03 % de descuento con precio de oferta de 77.95 EUR (original: 195 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'edc by Esprit 038cc1i002  suéter Mujer  Azul  Navy 400   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HTPK2S/?tag=tolees-21'
+descuento: '75.09'
+titulo: 'edc by Esprit 038cc1i002  suéter Mujer  '
 ---
 
 Ahora mismo tienes [edc by Esprit 038cc1i002  suéter Mujer  Azul  Navy 400   X-Large](https://www.amazon.es/dp/B078HTPK2S/?tag=tolees-21) a 9.96 EUR (original: 39.99 EUR) (75.09 %  de descuento) en el siguiente enlace!

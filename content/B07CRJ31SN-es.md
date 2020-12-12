@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Evia Blusa   Multi Bleu 0aa   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRJ31SN/?tag=tolees-21'
+descuento: '66.71'
+titulo: 'Pepe Jeans Evia Blusa   Multi Bleu 0aa  '
 ---
 
 Ahora mismo tienes [Pepe Jeans Evia Blusa   Multi Bleu 0aa   Large para Mujer](https://www.amazon.es/dp/B07CRJ31SN/?tag=tolees-21) a 23.27 EUR (original: 69.9 EUR) (66.71 %  de descuento) en el siguiente enlace!

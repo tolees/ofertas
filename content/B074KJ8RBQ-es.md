@@ -17,6 +17,9 @@ comparePrice: 63.38 EUR
 inStock: true
 prodname: 'Supra Hammer Run Zapatillas para Hombre  Rojo  Andorra-White  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074KJ8RBQ/?tag=tolees-21'
+descuento: '36.37'
+titulo: 'Supra Hammer Run Zapatillas para Hombre '
 ---
 
 Está [Supra Hammer Run Zapatillas para Hombre  Rojo  Andorra-White  42 EU](https://www.amazon.es/dp/B074KJ8RBQ/?tag=tolees-21) con 36.37 de descuento por 40.33 EUR (original: 63.38 EUR) en el siguiente enlace!

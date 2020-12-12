@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Under Armour Sujetador Deportivo con Espalda Cruzada  Mujer  1307213-489  Techno Teal/Green Typhoon  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFYY7DG/?tag=tolees-21'
+descuento: '47.55'
+titulo: 'Under Armour Sujetador Deportivo con Esp'
 ---
 
 Ahora mismo tienes [Under Armour Sujetador Deportivo con Espalda Cruzada  Mujer  1307213-489  Techno Teal/Green Typhoon  Medium](https://www.amazon.es/dp/B07DFYY7DG/?tag=tolees-21) a 20.98 EUR (original: 40 EUR) (47.55 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Hacienda Abascal Premium D.O Ribera Del Duero Vino tinto - 750 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EARW894/?tag=tolees-21'
+descuento: '71.43'
+titulo: 'Hacienda Abascal Premium D.O Ribera Del '
 ---
 
 Está [Hacienda Abascal Premium D.O Ribera Del Duero Vino tinto - 750 ml](https://www.amazon.es/dp/B01EARW894/?tag=tolees-21) con 71.43 de descuento por 10 EUR (original: 35 EUR) en el siguiente enlace!

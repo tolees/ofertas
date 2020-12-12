@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Real Madrid 5382362 RM GOL Mochila Tipo Casual  44 cm  20.46 litros  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HTRD52/?tag=tolees-21'
+descuento: '25.17'
+titulo: 'Real Madrid 5382362 RM GOL Mochila Tipo '
 ---
 
 Tienes [Real Madrid 5382362 RM GOL Mochila Tipo Casual  44 cm  20.46 litros  Blanco](https://www.amazon.es/dp/B077HTRD52/?tag=tolees-21) con un 25.17 % de descuento con precio de oferta de 44.89 EUR (original: 59.99 EUR) en el siguiente enlace!

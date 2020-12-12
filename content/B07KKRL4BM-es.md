@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Naf Naf Kenu42 Camiseta de Manga Larga  Azul  Bleu Marine Chiné C672   X-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKRL4BM/?tag=tolees-21'
+descuento: '68.77'
+titulo: 'Naf Naf Kenu42 Camiseta de Manga Larga  '
 ---
 
 Ahora mismo tienes [Naf Naf Kenu42 Camiseta de Manga Larga  Azul  Bleu Marine Chiné C672   X-Small para Mujer](https://www.amazon.es/dp/B07KKRL4BM/?tag=tolees-21) a 10.93 EUR (original: 35 EUR) (68.77 %  de descuento) en el siguiente enlace!

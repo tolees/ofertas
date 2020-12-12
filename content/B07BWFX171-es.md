@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Amzdeal Picadora de Carne Eléctrica - Máquina de Carne y Embutidora de Salchichas con Kubbe Función Inversa  3 Cuchillas de Corte de Acero Inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BWFX171/?tag=tolees-21'
+descuento: '56.67'
+titulo: 'Amzdeal Picadora de Carne Eléctrica - Má'
 ---
 
 Está [Amzdeal Picadora de Carne Eléctrica - Máquina de Carne y Embutidora de Salchichas con Kubbe Función Inversa  3 Cuchillas de Corte de Acero Inoxidable](https://www.amazon.es/dp/B07BWFX171/?tag=tolees-21) con 56.67 de descuento por 51.99 EUR (original: 119.99 EUR) en el siguiente enlace!

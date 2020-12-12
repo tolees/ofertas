@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Bugatti V6936PR3 - Botas para mujer  color marrón  160   talla 38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019XFEUX0/?tag=tolees-21'
+descuento: '73.40'
+titulo: 'Bugatti V6936PR3 - Botas para mujer  col'
 ---
 
 Está [Bugatti V6936PR3 - Botas para mujer  color marrón  160   talla 38 EU](https://www.amazon.es/dp/B019XFEUX0/?tag=tolees-21) con 73.40 de descuento por 21.27 EUR (original: 79.95 EUR) en el siguiente enlace!

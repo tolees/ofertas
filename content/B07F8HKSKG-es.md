@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Thustar Guirnalda de Luces  Cadena de Luces 10 m 80LEDs Blanco Cálido con Control Remoto para Jardines Fiesta de Navidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8HKSKG/?tag=tolees-21'
+descuento: '70.02'
+titulo: 'Thustar Guirnalda de Luces  Cadena de Lu'
 ---
 
 Tienes [Thustar Guirnalda de Luces  Cadena de Luces 10 m 80LEDs Blanco Cálido con Control Remoto para Jardines Fiesta de Navidad](https://www.amazon.es/dp/B07F8HKSKG/?tag=tolees-21) con un 70.02 % de descuento con precio de oferta de 8.99 EUR (original: 29.99 EUR) en el siguiente enlace!

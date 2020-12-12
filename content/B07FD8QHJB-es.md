@@ -17,6 +17,9 @@ comparePrice: 23.97 EUR
 inStock: true
 prodname: 'Skip Ultimate Triple Poder Cuidado del Color Detergente Cápsulas para Lavadora - Paquete de 3 x 24 lavados - Total: 72 lavados'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FD8QHJB/?tag=tolees-21'
+descuento: '30.12'
+titulo: 'Skip Ultimate Triple Poder Cuidado del C'
 ---
 
 Tienes [Skip Ultimate Triple Poder Cuidado del Color Detergente Cápsulas para Lavadora - Paquete de 3 x 24 lavados - Total: 72 lavados](https://www.amazon.es/dp/B07FD8QHJB/?tag=tolees-21) con un 30.12 % de descuento con precio de oferta de 16.75 EUR (original: 23.97 EUR) en el siguiente enlace!

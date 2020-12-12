@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Case Logic Lodo - Funda para portátil de 11.6"  Color Azul Marino'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013LDV4HA/?tag=tolees-21'
+descuento: '76.89'
+titulo: 'Case Logic Lodo - Funda para portátil de'
 ---
 
 Ahora mismo tienes [Case Logic Lodo - Funda para portátil de 11.6"  Color Azul Marino](https://www.amazon.es/dp/B013LDV4HA/?tag=tolees-21) a 9.24 EUR (original: 39.99 EUR) (76.89 %  de descuento) en el siguiente enlace!

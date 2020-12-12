@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Reebok Royal Glide Ripple  Zapatillas de Trail Running para Mujer  Azul  CP/Collegiate Navy/Acid Pink/White 000   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TVZZLD/?tag=tolees-21'
+descuento: '50.45'
+titulo: 'Reebok Royal Glide Ripple  Zapatillas de'
 ---
 
 Ahora mismo tienes [Reebok Royal Glide Ripple  Zapatillas de Trail Running para Mujer  Azul  CP/Collegiate Navy/Acid Pink/White 000   37.5 EU](https://www.amazon.es/dp/B077TVZZLD/?tag=tolees-21) a 32.18 EUR (original: 64.95 EUR) (50.45 %  de descuento) en el siguiente enlace!

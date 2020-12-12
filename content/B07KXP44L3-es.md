@@ -17,6 +17,9 @@ comparePrice: 280 EUR
 inStock: true
 prodname: 'KAITT Pala DE PÁDEL K Plus Control'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KXP44L3/?tag=tolees-21'
+descuento: '71.45'
+titulo: 'KAITT Pala DE PÁDEL K Plus Control'
 ---
 
 Tienes [KAITT Pala DE PÁDEL K Plus Control](https://www.amazon.es/dp/B07KXP44L3/?tag=tolees-21) con un 71.45 % de descuento con precio de oferta de 79.95 EUR (original: 280 EUR) en el siguiente enlace!

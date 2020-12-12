@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Core Denton  Vaqueros Rectos para Hombre  Azul  New Dark Stone 919   W29/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B8WVMTH/?tag=tolees-21'
+descuento: '55.29'
+titulo: 'Tommy Hilfiger Core Denton  Vaqueros Rec'
 ---
 
 Tienes [Tommy Hilfiger Core Denton  Vaqueros Rectos para Hombre  Azul  New Dark Stone 919   W29/L34](https://www.amazon.es/dp/B07B8WVMTH/?tag=tolees-21) con un 55.29 % de descuento con precio de oferta de 48.73 EUR (original: 109 EUR) en el siguiente enlace!

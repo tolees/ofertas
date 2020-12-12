@@ -17,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'Iris & Lilly Strappy Rib Camisole Pijama Turquesa Surf Spray  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B8KZK46/?tag=tolees-21'
+descuento: '40.77'
+titulo: 'Iris & Lilly Strappy Rib Camisole Pijama'
 ---
 
 Está [Iris & Lilly Strappy Rib Camisole Pijama Turquesa Surf Spray  Medium](https://www.amazon.es/dp/B07B8KZK46/?tag=tolees-21) con 40.77 de descuento por 14.21 EUR (original: 23.99 EUR) en el siguiente enlace!

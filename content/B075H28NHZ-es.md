@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'LEGO Elves - Aira y la canción del dragón del Viento  41193 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075H28NHZ/?tag=tolees-21'
+descuento: '26.69'
+titulo: 'LEGO Elves - Aira y la canción del dragó'
 ---
 
 Está [LEGO Elves - Aira y la canción del dragón del Viento  41193 ](https://www.amazon.es/dp/B075H28NHZ/?tag=tolees-21) con 26.69 de descuento por 32.98 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'adidas 6pcap Ltwgt Emb Gorra  Unisex niños  Escarl/Blanco  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPJFPG9/?tag=tolees-21'
+descuento: '36.79'
+titulo: 'adidas 6pcap Ltwgt Emb Gorra  Unisex niñ'
 ---
 
 Está [adidas 6pcap Ltwgt Emb Gorra  Unisex niños  Escarl/Blanco  Talla Única](https://www.amazon.es/dp/B07KPJFPG9/?tag=tolees-21) con 36.79 de descuento por 9.45 EUR (original: 14.95 EUR) en el siguiente enlace!

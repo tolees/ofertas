@@ -17,6 +17,9 @@ comparePrice: 66 EUR
 inStock: true
 prodname: 'LANGRIA Base Ordenador Portátil 10" a 17" con Plataforma Giratoria 360 Grados  Soporte Ajustable para Ordenadores Tablets Compatible con MacBook  iPad  Notebook  Samsung  Lenovo y más  Plateado '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G7W6QQH/?tag=tolees-21'
+descuento: '74.26'
+titulo: 'LANGRIA Base Ordenador Portátil 10" a 17'
 ---
 
 Ahora mismo tienes [LANGRIA Base Ordenador Portátil 10" a 17" con Plataforma Giratoria 360 Grados  Soporte Ajustable para Ordenadores Tablets Compatible con MacBook  iPad  Notebook  Samsung  Lenovo y más  Plateado ](https://www.amazon.es/dp/B07G7W6QQH/?tag=tolees-21) a 16.99 EUR (original: 66 EUR) (74.26 %  de descuento) en el siguiente enlace!

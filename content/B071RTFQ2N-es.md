@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 41hl301  Botas Militar para Mujer  Gris  Grau 200   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071RTFQ2N/?tag=tolees-21'
+descuento: '62.77'
+titulo: 'Dockers by Gerli 41hl301  Botas Militar '
 ---
 
 Está [Dockers by Gerli 41hl301  Botas Militar para Mujer  Gris  Grau 200   40 EU](https://www.amazon.es/dp/B071RTFQ2N/?tag=tolees-21) con 62.77 de descuento por 26.04 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 134 EUR
 inStock: true
 prodname: 'WMF Olla rápida  Acero Inoxidable Pulido  18 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000UAGX5Q/?tag=tolees-21'
+descuento: '47.77'
+titulo: 'WMF Olla rápida  Acero Inoxidable Pulido'
 ---
 
 Ahora mismo tienes [WMF Olla rápida  Acero Inoxidable Pulido  18 cm](https://www.amazon.es/dp/B000UAGX5Q/?tag=tolees-21) a 69.99 EUR (original: 134 EUR) (47.77 %  de descuento) en el siguiente enlace!

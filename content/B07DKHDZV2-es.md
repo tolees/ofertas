@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Kipling - New Shopper S  Bolsos totes Mujer  Blanco  Dazz White '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKHDZV2/?tag=tolees-21'
+descuento: '51.13'
+titulo: 'Kipling - New Shopper S  Bolsos totes Mu'
 ---
 
 Tienes [Kipling - New Shopper S  Bolsos totes Mujer  Blanco  Dazz White ](https://www.amazon.es/dp/B07DKHDZV2/?tag=tolees-21) con un 51.13 % de descuento con precio de oferta de 38.61 EUR (original: 79 EUR) en el siguiente enlace!

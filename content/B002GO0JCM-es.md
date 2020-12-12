@@ -17,6 +17,9 @@ comparePrice: 14.31 EUR
 inStock: true
 prodname: 'Nike 3Ppk Value Pack 3 Calcetines para hombre  Multicolor  Negro/blanco/gris   42-46'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002GO0JCM/?tag=tolees-21'
+descuento: '44.10'
+titulo: 'Nike 3Ppk Value Pack 3 Calcetines para h'
 ---
 
 Ahora mismo tienes [Nike 3Ppk Value Pack 3 Calcetines para hombre  Multicolor  Negro/blanco/gris   42-46](https://www.amazon.es/dp/B002GO0JCM/?tag=tolees-21) a 8 EUR (original: 14.31 EUR) (44.10 %  de descuento) en el siguiente enlace!

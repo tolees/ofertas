@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Levi s Skinner  Zapatillas para Hombre  Gris  Dull Grey 58   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CF8X7DS/?tag=tolees-21'
+descuento: '45.38'
+titulo: 'Levi s Skinner  Zapatillas para Hombre  '
 ---
 
 Está [Levi s Skinner  Zapatillas para Hombre  Gris  Dull Grey 58   44 EU](https://www.amazon.es/dp/B07CF8X7DS/?tag=tolees-21) con 45.38 de descuento por 30.04 EUR (original: 55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Iris & Lilly Tanga de Tira con Encaje Mujer  Pack de 3  Azul  Cashmere Blue    Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJFL587/?tag=tolees-21'
+descuento: '63.24'
+titulo: 'Iris & Lilly Tanga de Tira con Encaje Mu'
 ---
 
 Tienes [Iris & Lilly Tanga de Tira con Encaje Mujer  Pack de 3  Azul  Cashmere Blue    Talla del fabricante: Medium ](https://www.amazon.es/dp/B07BJFL587/?tag=tolees-21) con un 63.24 % de descuento con precio de oferta de 5.51 EUR (original: 14.99 EUR) en el siguiente enlace!

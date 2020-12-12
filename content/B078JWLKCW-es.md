@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Nike Legend React  Zapatillas de Running para Mujer  Negro  Black/White 001   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078JWLKCW/?tag=tolees-21'
+descuento: '54.69'
+titulo: 'Nike Legend React  Zapatillas de Running'
 ---
 
 Tienes [Nike Legend React  Zapatillas de Running para Mujer  Negro  Black/White 001   36.5 EU](https://www.amazon.es/dp/B078JWLKCW/?tag=tolees-21) con un 54.69 % de descuento con precio de oferta de 45.31 EUR (original: 100 EUR) en el siguiente enlace!

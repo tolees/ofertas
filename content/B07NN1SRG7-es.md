@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'COVVY Thigh Master - Tóner de Muslo para ejercitar Muslos  piernas  Brazos  Pecho  Culturismo  pérdida de Peso  Equipo de Entrenamiento para el Gimnasio en casa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NN1SRG7/?tag=tolees-21'
+descuento: '28.59'
+titulo: 'COVVY Thigh Master - Tóner de Muslo para'
 ---
 
 Tienes [COVVY Thigh Master - Tóner de Muslo para ejercitar Muslos  piernas  Brazos  Pecho  Culturismo  pérdida de Peso  Equipo de Entrenamiento para el Gimnasio en casa](https://www.amazon.es/dp/B07NN1SRG7/?tag=tolees-21) con un 28.59 % de descuento con precio de oferta de 11.39 EUR (original: 15.95 EUR) en el siguiente enlace!

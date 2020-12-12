@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Osprey Raptor 10 Men s Hydration Pack with 2.5L HydraulicsTM LT Reservoir - Wildfire Red  O/S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GHP1GJ2/?tag=tolees-21'
+descuento: '43.15'
+titulo: 'Osprey Raptor 10 Men s Hydration Pack wi'
 ---
 
 Está [Osprey Raptor 10 Men s Hydration Pack with 2.5L HydraulicsTM LT Reservoir - Wildfire Red  O/S ](https://www.amazon.es/dp/B07GHP1GJ2/?tag=tolees-21) con 43.15 de descuento por 73.91 EUR (original: 130 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 18.58 EUR
 inStock: true
 prodname: 'GUIFIER 10 Piezas Diademas de Mujer de Nudo Diadema Elástica Cintas para la Cabeza Cruzadas Vintage Headwrap Mujeres Turbante Accesorios para el Cabello Mujer Yoga Cabeza Envuelve Deportes'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QLWCNY8/?tag=tolees-21'
+descuento: '30.09'
+titulo: 'GUIFIER 10 Piezas Diademas de Mujer de N'
 ---
 
 Tienes [GUIFIER 10 Piezas Diademas de Mujer de Nudo Diadema Elástica Cintas para la Cabeza Cruzadas Vintage Headwrap Mujeres Turbante Accesorios para el Cabello Mujer Yoga Cabeza Envuelve Deportes](https://www.amazon.es/dp/B07QLWCNY8/?tag=tolees-21) con un 30.09 % de descuento con precio de oferta de 12.99 EUR (original: 18.58 EUR) en el siguiente enlace!

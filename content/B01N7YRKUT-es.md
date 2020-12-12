@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 037eo1b001  Pantalones para Mujer  Verde  Aqua Green  48 /L32  Talla del Fabricante: 36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7YRKUT/?tag=tolees-21'
+descuento: '82.45'
+titulo: 'ESPRIT Collection 037eo1b001  Pantalones'
 ---
 
 Ahora mismo tienes [ESPRIT Collection 037eo1b001  Pantalones para Mujer  Verde  Aqua Green  48 /L32  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B01N7YRKUT/?tag=tolees-21) a 10.53 EUR (original: 59.99 EUR) (82.45 %  de descuento) en el siguiente enlace!

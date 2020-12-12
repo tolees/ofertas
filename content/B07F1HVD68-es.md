@@ -17,6 +17,9 @@ comparePrice: 16.1 EUR
 inStock: true
 prodname: 'Amazon Essentials Ae1811734 Polos Hombre  Gris  Medium Gray Heather   US S  EU S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1HVD68/?tag=tolees-21'
+descuento: '44.10'
+titulo: 'Amazon Essentials Ae1811734 Polos Hombre'
 ---
 
 Está [Amazon Essentials Ae1811734 Polos Hombre  Gris  Medium Gray Heather   US S  EU S ](https://www.amazon.es/dp/B07F1HVD68/?tag=tolees-21) con 44.10 de descuento por 9 EUR (original: 16.1 EUR) en el siguiente enlace!

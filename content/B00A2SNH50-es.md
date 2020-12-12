@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Fifty Shades Of Grey Toys Latigo Erotico - 500 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00A2SNH50/?tag=tolees-21'
+descuento: '27.17'
+titulo: 'Fifty Shades Of Grey Toys Latigo Erotico'
 ---
 
 Está [Fifty Shades Of Grey Toys Latigo Erotico - 500 gr](https://www.amazon.es/dp/B00A2SNH50/?tag=tolees-21) con 27.17 de descuento por 18.17 EUR (original: 24.95 EUR) en el siguiente enlace!

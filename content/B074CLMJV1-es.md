@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Panasonic NK-35HW Horno microondas Color Blanco  800 W  23 litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074CLMJV1/?tag=tolees-21'
+descuento: '50.13'
+titulo: 'Panasonic NK-35HW Horno microondas Color'
 ---
 
 Tienes [Panasonic NK-35HW Horno microondas Color Blanco  800 W  23 litros](https://www.amazon.es/dp/B074CLMJV1/?tag=tolees-21) con un 50.13 % de descuento con precio de oferta de 74.3 EUR (original: 149 EUR) en el siguiente enlace!

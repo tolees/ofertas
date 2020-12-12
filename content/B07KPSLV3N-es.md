@@ -17,6 +17,9 @@ comparePrice: 37.09 EUR
 inStock: true
 prodname: 'New Look Camilla Animal 6038618  Mono para Mujer  Marrón  Brown Pattern 29  36  Talla del Fabricante: 8 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPSLV3N/?tag=tolees-21'
+descuento: '56.86'
+titulo: 'New Look Camilla Animal 6038618  Mono pa'
 ---
 
 Está [New Look Camilla Animal 6038618  Mono para Mujer  Marrón  Brown Pattern 29  36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07KPSLV3N/?tag=tolees-21) con 56.86 de descuento por 16 EUR (original: 37.09 EUR) en el siguiente enlace!

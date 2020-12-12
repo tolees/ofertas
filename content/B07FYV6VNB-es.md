@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Superalimento NaturGreen Experience Energy - 200 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYV6VNB/?tag=tolees-21'
+descuento: '62.46'
+titulo: 'Superalimento NaturGreen Experience Ener'
 ---
 
 Está [Superalimento NaturGreen Experience Energy - 200 gr](https://www.amazon.es/dp/B07FYV6VNB/?tag=tolees-21) con 62.46 de descuento por 7.47 EUR (original: 19.9 EUR) en el siguiente enlace!

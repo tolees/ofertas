@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Tamaris 26336  Botas para Mujer  Gris  Anthracite   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JHDC42/?tag=tolees-21'
+descuento: '80.33'
+titulo: 'Tamaris 26336  Botas para Mujer  Gris  A'
 ---
 
 Ahora mismo tienes [Tamaris 26336  Botas para Mujer  Gris  Anthracite   37 EU](https://www.amazon.es/dp/B071JHDC42/?tag=tolees-21) a 17.69 EUR (original: 89.95 EUR) (80.33 %  de descuento) en el siguiente enlace!

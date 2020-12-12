@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Adidas Lite Racer  Zapatillas  Negro  Negbas/Ftwbla 000   43 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071LPTQ5V/?tag=tolees-21'
+descuento: '31.76'
+titulo: 'Adidas Lite Racer  Zapatillas  Negro  Ne'
 ---
 
 Está [Adidas Lite Racer  Zapatillas  Negro  Negbas/Ftwbla 000   43 1/3 EU](https://www.amazon.es/dp/B071LPTQ5V/?tag=tolees-21) con 31.76 de descuento por 37.5 EUR (original: 54.95 EUR) en el siguiente enlace!

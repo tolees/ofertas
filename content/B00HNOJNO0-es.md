@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Burton Baker 2 In 1 Mitt Manoplas de Snowboard  Hombre  Negro  True   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HNOJNO0/?tag=tolees-21'
+descuento: '66.18'
+titulo: 'Burton Baker 2 In 1 Mitt Manoplas de Sno'
 ---
 
 Tienes [Burton Baker 2 In 1 Mitt Manoplas de Snowboard  Hombre  Negro  True   XS](https://www.amazon.es/dp/B00HNOJNO0/?tag=tolees-21) con un 66.18 % de descuento con precio de oferta de 21.98 EUR (original: 65 EUR) en el siguiente enlace!

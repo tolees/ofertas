@@ -17,6 +17,9 @@ comparePrice: 11.95 EUR
 inStock: true
 prodname: 'PUMA Team ftblNXT Socks Calcetines  Hombre  Black/Red Blast  4'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHW52CY/?tag=tolees-21'
+descuento: '32.05'
+titulo: 'PUMA Team ftblNXT Socks Calcetines  Homb'
 ---
 
 Ahora mismo tienes [PUMA Team ftblNXT Socks Calcetines  Hombre  Black/Red Blast  4](https://www.amazon.es/dp/B07JHW52CY/?tag=tolees-21) a 8.12 EUR (original: 11.95 EUR) (32.05 %  de descuento) en el siguiente enlace!

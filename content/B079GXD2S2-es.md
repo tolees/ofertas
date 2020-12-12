@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Donix Vibrador de Silicona Médica con Control Remoto 12 Modos 15m'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079GXD2S2/?tag=tolees-21'
+descuento: '73.35'
+titulo: 'Donix Vibrador de Silicona Médica con Co'
 ---
 
 Ahora mismo tienes [Donix Vibrador de Silicona Médica con Control Remoto 12 Modos 15m](https://www.amazon.es/dp/B079GXD2S2/?tag=tolees-21) a 15.99 EUR (original: 59.99 EUR) (73.35 %  de descuento) en el siguiente enlace!

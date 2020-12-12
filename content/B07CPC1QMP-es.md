@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Crocs Classic Clog Kids  Zuecos Unisex Niños  Azul  Pool 40m   22/23 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CPC1QMP/?tag=tolees-21'
+descuento: '39.98'
+titulo: 'Crocs Classic Clog Kids  Zuecos Unisex N'
 ---
 
 Ahora mismo tienes [Crocs Classic Clog Kids  Zuecos Unisex Niños  Azul  Pool 40m   22/23 EU](https://www.amazon.es/dp/B07CPC1QMP/?tag=tolees-21) a 16.2 EUR (original: 26.99 EUR) (39.98 %  de descuento) en el siguiente enlace!

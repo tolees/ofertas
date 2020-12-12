@@ -17,6 +17,9 @@ comparePrice: 38.99 EUR
 inStock: true
 prodname: 'Lunvon Bombilla Bluetooth Inalámbrica Bluetooth 4.0 Altavoz Bombilla de Luz LED Multicolor Regulable Con la Aplicación Gratuita Controlada  Cambiar LED de 16 Millones de Color'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7THZS5/?tag=tolees-21'
+descuento: '69.25'
+titulo: 'Lunvon Bombilla Bluetooth Inalámbrica Bl'
 ---
 
 Está [Lunvon Bombilla Bluetooth Inalámbrica Bluetooth 4.0 Altavoz Bombilla de Luz LED Multicolor Regulable Con la Aplicación Gratuita Controlada  Cambiar LED de 16 Millones de Color](https://www.amazon.es/dp/B07D7THZS5/?tag=tolees-21) con 69.25 de descuento por 11.99 EUR (original: 38.99 EUR) en el siguiente enlace!

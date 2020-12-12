@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Tom Tailor 5880806  Botas Clasicas para Hombre  Marrón  Rust 00066   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079HBTT91/?tag=tolees-21'
+descuento: '56.70'
+titulo: 'Tom Tailor 5880806  Botas Clasicas para '
 ---
 
 Ahora mismo tienes [Tom Tailor 5880806  Botas Clasicas para Hombre  Marrón  Rust 00066   45 EU](https://www.amazon.es/dp/B079HBTT91/?tag=tolees-21) a 30.29 EUR (original: 69.95 EUR) (56.70 %  de descuento) en el siguiente enlace!

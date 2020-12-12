@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'PIECES Pcjackie LS Turtleneck Wool Knit suéter  Gris  Medium Grey Melange   36  Talla del Fabricante: Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072XHJ82G/?tag=tolees-21'
+descuento: '74.05'
+titulo: 'PIECES Pcjackie LS Turtleneck Wool Knit '
 ---
 
 Está [PIECES Pcjackie LS Turtleneck Wool Knit suéter  Gris  Medium Grey Melange   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B072XHJ82G/?tag=tolees-21) con 74.05 de descuento por 9.08 EUR (original: 34.99 EUR) en el siguiente enlace!

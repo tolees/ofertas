@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Bolso cruzado al pecho de algodón en 40 estampados búho carpa tortuga margarita pavo real azteca cachemira elefante hombrera ancha para compra  Azteca diamantes pequeños negros '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HG06L4A/?tag=tolees-21'
+descuento: '44.04'
+titulo: 'Bolso cruzado al pecho de algodón en 40 '
 ---
 
 Ahora mismo tienes [Bolso cruzado al pecho de algodón en 40 estampados búho carpa tortuga margarita pavo real azteca cachemira elefante hombrera ancha para compra  Azteca diamantes pequeños negros ](https://www.amazon.es/dp/B01HG06L4A/?tag=tolees-21) a 13.99 EUR (original: 25 EUR) (44.04 %  de descuento) en el siguiente enlace!

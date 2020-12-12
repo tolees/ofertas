@@ -17,6 +17,9 @@ comparePrice: 65.99 EUR
 inStock: true
 prodname: 'MTNG Carmela  Botas Mujer  Negro  Suede Negro/Vitello Negro   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0725Q1HFH/?tag=tolees-21'
+descuento: '71.37'
+titulo: 'MTNG Carmela  Botas Mujer  Negro  Suede '
 ---
 
 Tienes [MTNG Carmela  Botas Mujer  Negro  Suede Negro/Vitello Negro   40 EU](https://www.amazon.es/dp/B0725Q1HFH/?tag=tolees-21) con un 71.37 % de descuento con precio de oferta de 18.89 EUR (original: 65.99 EUR) en el siguiente enlace!

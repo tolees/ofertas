@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma Smash Wns v2 SD  Zapatillas para Mujer  Rosa Dusty Coral  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSCD1PW/?tag=tolees-21'
+descuento: '50.12'
+titulo: 'Puma Smash Wns v2 SD  Zapatillas para Mu'
 ---
 
 Ahora mismo tienes [Puma Smash Wns v2 SD  Zapatillas para Mujer  Rosa Dusty Coral  37 EU](https://www.amazon.es/dp/B07CSCD1PW/?tag=tolees-21) a 27.41 EUR (original: 54.95 EUR) (50.12 %  de descuento) en el siguiente enlace!

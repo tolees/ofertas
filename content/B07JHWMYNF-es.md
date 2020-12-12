@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'PUMA Energy Training Cap Gorra  Unisex Adulto  Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHWMYNF/?tag=tolees-21'
+descuento: '31.90'
+titulo: 'PUMA Energy Training Cap Gorra  Unisex A'
 ---
 
 Está [PUMA Energy Training Cap Gorra  Unisex Adulto  Black](https://www.amazon.es/dp/B07JHWMYNF/?tag=tolees-21) con 31.90 de descuento por 16.99 EUR (original: 24.95 EUR) en el siguiente enlace!

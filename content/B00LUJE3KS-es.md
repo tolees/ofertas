@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Ultranatura 200100000407 - Caballete para serrar  80 cm de longitud  troncos de hasta 30 cm de diámetro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LUJE3KS/?tag=tolees-21'
+descuento: '25.71'
+titulo: 'Ultranatura 200100000407 - Caballete par'
 ---
 
 Tienes [Ultranatura 200100000407 - Caballete para serrar  80 cm de longitud  troncos de hasta 30 cm de diámetro](https://www.amazon.es/dp/B00LUJE3KS/?tag=tolees-21) con un 25.71 % de descuento con precio de oferta de 29.71 EUR (original: 39.99 EUR) en el siguiente enlace!

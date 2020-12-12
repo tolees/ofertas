@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Wrangler Kabel tee Camiseta  Blanco  White 312   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FXTMTFK/?tag=tolees-21'
+descuento: '39.67'
+titulo: 'Wrangler Kabel tee Camiseta  Blanco  Whi'
 ---
 
 Está [Wrangler Kabel tee Camiseta  Blanco  White 312   Small para Hombre](https://www.amazon.es/dp/B07FXTMTFK/?tag=tolees-21) con 39.67 de descuento por 18.07 EUR (original: 29.95 EUR) en el siguiente enlace!

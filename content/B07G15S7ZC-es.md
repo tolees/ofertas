@@ -17,6 +17,9 @@ comparePrice: 23.09 EUR
 inStock: true
 prodname: 'Auricular Bluetooth V4.1 Magnético Auriculares Deportivos con Duración 6-8 Horas  Cascos Bluetooth Inalámbricos con Cancelación de Ruido  Sweatproof IPX4 para iPhone  Android Smartphones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G15S7ZC/?tag=tolees-21'
+descuento: '30.75'
+titulo: 'Auricular Bluetooth V4.1 Magnético Auric'
 ---
 
 Ahora mismo tienes [Auricular Bluetooth V4.1 Magnético Auriculares Deportivos con Duración 6-8 Horas  Cascos Bluetooth Inalámbricos con Cancelación de Ruido  Sweatproof IPX4 para iPhone  Android Smartphones](https://www.amazon.es/dp/B07G15S7ZC/?tag=tolees-21) a 15.99 EUR (original: 23.09 EUR) (30.75 %  de descuento) en el siguiente enlace!

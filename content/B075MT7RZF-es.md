@@ -17,6 +17,9 @@ comparePrice: 849 EUR
 inStock: true
 prodname: 'City Select LUX Cochecito Evolutivo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075MT7RZF/?tag=tolees-21'
+descuento: '53.29'
+titulo: 'City Select LUX Cochecito Evolutivo'
 ---
 
 Está [City Select LUX Cochecito Evolutivo](https://www.amazon.es/dp/B075MT7RZF/?tag=tolees-21) con 53.29 de descuento por 396.56 EUR (original: 849 EUR) en el siguiente enlace!

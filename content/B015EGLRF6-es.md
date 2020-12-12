@@ -17,6 +17,9 @@ comparePrice: 237 EUR
 inStock: true
 prodname: 'Armani Giorgio 0AR6032J 300187 55 Gafas de Sol  Negro  Matte Black/Grey   Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015EGLRF6/?tag=tolees-21'
+descuento: '42.10'
+titulo: 'Armani Giorgio 0AR6032J 300187 55 Gafas '
 ---
 
 Tienes [Armani Giorgio 0AR6032J 300187 55 Gafas de Sol  Negro  Matte Black/Grey   Mujer](https://www.amazon.es/dp/B015EGLRF6/?tag=tolees-21) con un 42.10 % de descuento con precio de oferta de 137.22 EUR (original: 237 EUR) en el siguiente enlace!

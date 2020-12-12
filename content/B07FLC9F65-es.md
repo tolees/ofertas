@@ -17,6 +17,9 @@ comparePrice: 139.9 EUR
 inStock: true
 prodname: 'Superdry Padded Elite Windcheater  Chaqueta Deportiva para Hombre  Azul  Electric Blue 89g   XXX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLC9F65/?tag=tolees-21'
+descuento: '69.19'
+titulo: 'Superdry Padded Elite Windcheater  Chaqu'
 ---
 
 Tienes [Superdry Padded Elite Windcheater  Chaqueta Deportiva para Hombre  Azul  Electric Blue 89g   XXX-Large](https://www.amazon.es/dp/B07FLC9F65/?tag=tolees-21) con un 69.19 % de descuento con precio de oferta de 43.1 EUR (original: 139.9 EUR) en el siguiente enlace!

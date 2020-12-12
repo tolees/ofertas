@@ -17,6 +17,9 @@ comparePrice: 83.96 EUR
 inStock: true
 prodname: 'SIMPORDS Abalorio Charm Trébol de Cuatro Hojas para Mujer Regalo Mejores Amigas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JF26YFM/?tag=tolees-21'
+descuento: '75.00'
+titulo: 'SIMPORDS Abalorio Charm Trébol de Cuatro'
 ---
 
 Tienes [SIMPORDS Abalorio Charm Trébol de Cuatro Hojas para Mujer Regalo Mejores Amigas](https://www.amazon.es/dp/B07JF26YFM/?tag=tolees-21) con un 75.00 % de descuento con precio de oferta de 20.99 EUR (original: 83.96 EUR) en el siguiente enlace!

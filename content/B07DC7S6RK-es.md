@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma Ignite Flash Evoknit  Zapatillas de Running para Mujer  Negro Black-Charcoal Gray-Fair Aqua 17  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC7S6RK/?tag=tolees-21'
+descuento: '66.67'
+titulo: 'Puma Ignite Flash Evoknit  Zapatillas de'
 ---
 
 Ahora mismo tienes [Puma Ignite Flash Evoknit  Zapatillas de Running para Mujer  Negro Black-Charcoal Gray-Fair Aqua 17  39 EU](https://www.amazon.es/dp/B07DC7S6RK/?tag=tolees-21) a 26.65 EUR (original: 79.95 EUR) (66.67 %  de descuento) en el siguiente enlace!

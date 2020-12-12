@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Napapijri K Elbas 2 Polo  Blanco  Bright White 002   140  Talla del Fabricante: 10  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9Q9FCS/?tag=tolees-21'
+descuento: '39.31'
+titulo: 'Napapijri K Elbas 2 Polo  Blanco  Bright'
 ---
 
 Está [Napapijri K Elbas 2 Polo  Blanco  Bright White 002   140  Talla del Fabricante: 10  para Niños](https://www.amazon.es/dp/B07L9Q9FCS/?tag=tolees-21) con 39.31 de descuento por 23.67 EUR (original: 39 EUR) en el siguiente enlace!

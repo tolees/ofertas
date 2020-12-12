@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Power Bank 24000mAh Cargador Móvil Portátil Batería Externa con Entrada Doble y 3 Puertos de Salida USB & Pantalla Digital para Tablet  Android Phones y otros Smartphones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CXWFNSF/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Power Bank 24000mAh Cargador Móvil Portá'
 ---
 
 Está [Power Bank 24000mAh Cargador Móvil Portátil Batería Externa con Entrada Doble y 3 Puertos de Salida USB & Pantalla Digital para Tablet  Android Phones y otros Smartphones](https://www.amazon.es/dp/B07CXWFNSF/?tag=tolees-21) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

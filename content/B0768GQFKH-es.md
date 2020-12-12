@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Springfield 6882749  Falda para Mujer  Negro  Black    Tamaño del Fabricante:36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0768GQFKH/?tag=tolees-21'
+descuento: '66.39'
+titulo: 'Springfield 6882749  Falda para Mujer  N'
 ---
 
 Tienes [Springfield 6882749  Falda para Mujer  Negro  Black    Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B0768GQFKH/?tag=tolees-21) con un 66.39 % de descuento con precio de oferta de 9.07 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance Flash  Zapatillas de Atletismo para Mujer   Thunder/Mulberry   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072W63LNY/?tag=tolees-21'
+descuento: '69.87'
+titulo: 'New Balance Flash  Zapatillas de Atletis'
 ---
 
 Tienes [New Balance Flash  Zapatillas de Atletismo para Mujer   Thunder/Mulberry   40.5 EU](https://www.amazon.es/dp/B072W63LNY/?tag=tolees-21) con un 69.87 % de descuento con precio de oferta de 21.09 EUR (original: 70 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Wangel Toallero de Barra Fijar Sin Taladrar 60cm  Pegamento Patentado + Autoadhesivo  Acero Inoxidable  Acabado Pulido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CI0RLBK/?tag=tolees-21'
+descuento: '51.13'
+titulo: 'Wangel Toallero de Barra Fijar Sin Talad'
 ---
 
 Está [Wangel Toallero de Barra Fijar Sin Taladrar 60cm  Pegamento Patentado + Autoadhesivo  Acero Inoxidable  Acabado Pulido](https://www.amazon.es/dp/B01CI0RLBK/?tag=tolees-21) con 51.13 de descuento por 17.59 EUR (original: 35.99 EUR) en el siguiente enlace!

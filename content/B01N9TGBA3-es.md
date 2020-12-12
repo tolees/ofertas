@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers On-The-go City 3.0  Zapatillas para Hombre  Gris Charcoal  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9TGBA3/?tag=tolees-21'
+descuento: '52.98'
+titulo: 'Skechers On-The-go City 3.0  Zapatillas '
 ---
 
 Está [Skechers On-The-go City 3.0  Zapatillas para Hombre  Gris Charcoal  44 EU](https://www.amazon.es/dp/B01N9TGBA3/?tag=tolees-21) con 52.98 de descuento por 30.54 EUR (original: 64.95 EUR) en el siguiente enlace!

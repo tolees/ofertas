@@ -17,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'Medisana FM885 Masajeador de pies agradable masaje de pies para planta  empeine y talón con calor infrarrojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079WXD7CP/?tag=tolees-21'
+descuento: '39.99'
+titulo: 'Medisana FM885 Masajeador de pies agrada'
 ---
 
 Ahora mismo tienes [Medisana FM885 Masajeador de pies agradable masaje de pies para planta  empeine y talón con calor infrarrojo](https://www.amazon.es/dp/B079WXD7CP/?tag=tolees-21) a 89.99 EUR (original: 149.95 EUR) (39.99 %  de descuento) en el siguiente enlace!

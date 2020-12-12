@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'adidas Swivel Push Ups Barras'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003ULP8L2/?tag=tolees-21'
+descuento: '60.71'
+titulo: 'adidas Swivel Push Ups Barras'
 ---
 
 Está [adidas Swivel Push Ups Barras](https://www.amazon.es/dp/B003ULP8L2/?tag=tolees-21) con 60.71 de descuento por 27.5 EUR (original: 69.99 EUR) en el siguiente enlace!

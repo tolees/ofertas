@@ -17,6 +17,9 @@ comparePrice: 279.43 EUR
 inStock: true
 prodname: 'Baby Jogger City Go  Silla de coche grupo 0+ Isofix  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079TLQXXN/?tag=tolees-21'
+descuento: '57.41'
+titulo: 'Baby Jogger City Go  Silla de coche grup'
 ---
 
 Está [Baby Jogger City Go  Silla de coche grupo 0+ Isofix  negro](https://www.amazon.es/dp/B079TLQXXN/?tag=tolees-21) con 57.41 de descuento por 119 EUR (original: 279.43 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Sincelove Plug Vibrante para Hombre Mujer  Vibrador Control Remoto Estimulador Prostata con 9 Modos de Vibración  Juguetes Sexuales 100% del Silicona Médico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHP25W5/?tag=tolees-21'
+descuento: '37.05'
+titulo: 'Sincelove Plug Vibrante para Hombre Muje'
 ---
 
 Está [Sincelove Plug Vibrante para Hombre Mujer  Vibrador Control Remoto Estimulador Prostata con 9 Modos de Vibración  Juguetes Sexuales 100% del Silicona Médico](https://www.amazon.es/dp/B07DHP25W5/?tag=tolees-21) con 37.05 de descuento por 16.99 EUR (original: 26.99 EUR) en el siguiente enlace!

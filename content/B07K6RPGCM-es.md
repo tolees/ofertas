@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Kit Plugs Anal de alta calidad para Iniciarse con el Sexo Anal/Fabricado con Silicona/Con Joya Decorativa  Kit Trio '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K6RPGCM/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Kit Plugs Anal de alta calidad para Inic'
 ---
 
 Está [Kit Plugs Anal de alta calidad para Iniciarse con el Sexo Anal/Fabricado con Silicona/Con Joya Decorativa  Kit Trio ](https://www.amazon.es/dp/B07K6RPGCM/?tag=tolees-21) con 40.01 de descuento por 20.99 EUR (original: 34.99 EUR) en el siguiente enlace!

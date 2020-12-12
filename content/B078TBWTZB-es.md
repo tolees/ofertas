@@ -17,6 +17,9 @@ comparePrice: 258.99 EUR
 inStock: true
 prodname: 'Homelody Columna de Ducha Empotrada Cuadrada de Latón con Pantalla LCD Hidroeléctrica 3 Funciones con Grifo de Bañera Altura Ajustable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078TBWTZB/?tag=tolees-21'
+descuento: '26.64'
+titulo: 'Homelody Columna de Ducha Empotrada Cuad'
 ---
 
 Tienes [Homelody Columna de Ducha Empotrada Cuadrada de Latón con Pantalla LCD Hidroeléctrica 3 Funciones con Grifo de Bañera Altura Ajustable](https://www.amazon.es/dp/B078TBWTZB/?tag=tolees-21) con un 26.64 % de descuento con precio de oferta de 189.99 EUR (original: 258.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Diesel Thommer L.30 Trousers Vaqueros Slim  Azul Blue Denim 01  W29/L30  Talla del Fabricante: 29  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P76F1VK/?tag=tolees-21'
+descuento: '52.70'
+titulo: 'Diesel Thommer L.30 Trousers Vaqueros Sl'
 ---
 
 Tienes [Diesel Thommer L.30 Trousers Vaqueros Slim  Azul Blue Denim 01  W29/L30  Talla del Fabricante: 29  para Hombre](https://www.amazon.es/dp/B07P76F1VK/?tag=tolees-21) con un 52.70 % de descuento con precio de oferta de 70.95 EUR (original: 150 EUR) en el siguiente enlace!

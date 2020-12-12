@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Reebok Royal Complete 2LW  Zapatillas para Hombre  Amarillo  Golden Wheat/Dark Root/Glow Red/Chalk/Gum   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0731KXT1C/?tag=tolees-21'
+descuento: '55.48'
+titulo: 'Reebok Royal Complete 2LW  Zapatillas pa'
 ---
 
 Tienes [Reebok Royal Complete 2LW  Zapatillas para Hombre  Amarillo  Golden Wheat/Dark Root/Glow Red/Chalk/Gum   44 EU](https://www.amazon.es/dp/B0731KXT1C/?tag=tolees-21) con un 55.48 % de descuento con precio de oferta de 26.69 EUR (original: 59.95 EUR) en el siguiente enlace!

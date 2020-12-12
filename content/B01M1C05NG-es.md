@@ -17,6 +17,9 @@ comparePrice: 22.84 EUR
 inStock: true
 prodname: 'JACK & JONES Jorsapa Sweat Crew Neck  Suéter para Hombre  Azul  navy Blazer Black   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M1C05NG/?tag=tolees-21'
+descuento: '52.54'
+titulo: 'JACK & JONES Jorsapa Sweat Crew Neck  Su'
 ---
 
 Está [JACK & JONES Jorsapa Sweat Crew Neck  Suéter para Hombre  Azul  navy Blazer Black   Small](https://www.amazon.es/dp/B01M1C05NG/?tag=tolees-21) con 52.54 de descuento por 10.84 EUR (original: 22.84 EUR) en el siguiente enlace!

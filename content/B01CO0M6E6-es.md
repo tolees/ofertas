@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Nebulus Zapatillas Liam Negro EU 38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CO0M6E6/?tag=tolees-21'
+descuento: '86.17'
+titulo: 'Nebulus Zapatillas Liam Negro EU 38'
 ---
 
 Está [Nebulus Zapatillas Liam Negro EU 38](https://www.amazon.es/dp/B01CO0M6E6/?tag=tolees-21) con 86.17 de descuento por 16.46 EUR (original: 119 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'adidas CF Lite Racer  Zapatillas para Mujer  Azul  Tech Ink/Trace Blue/Clear Mint 0   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DDWS2S5/?tag=tolees-21'
+descuento: '64.17'
+titulo: 'adidas CF Lite Racer  Zapatillas para Mu'
 ---
 
 Ahora mismo tienes [adidas CF Lite Racer  Zapatillas para Mujer  Azul  Tech Ink/Trace Blue/Clear Mint 0   36 EU](https://www.amazon.es/dp/B07DDWS2S5/?tag=tolees-21) a 23.27 EUR (original: 64.95 EUR) (64.17 %  de descuento) en el siguiente enlace!

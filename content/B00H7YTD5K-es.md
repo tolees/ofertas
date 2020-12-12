@@ -17,6 +17,9 @@ comparePrice: 56.94 EUR
 inStock: true
 prodname: 'LifeProof Belkin Funda para móvil Apple iPhone 5/5S  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00H7YTD5K/?tag=tolees-21'
+descuento: '35.00'
+titulo: 'LifeProof Belkin Funda para móvil Apple '
 ---
 
 Tienes [LifeProof Belkin Funda para móvil Apple iPhone 5/5S  color blanco](https://www.amazon.es/dp/B00H7YTD5K/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 37.01 EUR (original: 56.94 EUR) en el siguiente enlace!

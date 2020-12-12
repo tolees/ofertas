@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 30st027-790670  Zapatillas para Hombre  Azul  Dunkelblau 670   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N3YH8UA/?tag=tolees-21'
+descuento: '30.04'
+titulo: 'Dockers by Gerli 30st027-790670  Zapatil'
 ---
 
 Tienes [Dockers by Gerli 30st027-790670  Zapatillas para Hombre  Azul  Dunkelblau 670   43 EU](https://www.amazon.es/dp/B01N3YH8UA/?tag=tolees-21) con un 30.04 % de descuento con precio de oferta de 27.95 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 66.99 EUR
 inStock: true
 prodname: 'NAIXUES Pulsera Actividad Impermeable IP68  Pulsera Inteligente con Pantalla Color GPS Pulsómetro Monitor Ritmo Cardíaco y Sueño 14 Modos de Deporte para Hombre y Mujer para iOS y Android'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K9MSYJ2/?tag=tolees-21'
+descuento: '53.74'
+titulo: 'NAIXUES Pulsera Actividad Impermeable IP'
 ---
 
 Tienes [NAIXUES Pulsera Actividad Impermeable IP68  Pulsera Inteligente con Pantalla Color GPS Pulsómetro Monitor Ritmo Cardíaco y Sueño 14 Modos de Deporte para Hombre y Mujer para iOS y Android](https://www.amazon.es/dp/B07K9MSYJ2/?tag=tolees-21) con un 53.74 % de descuento con precio de oferta de 30.99 EUR (original: 66.99 EUR) en el siguiente enlace!

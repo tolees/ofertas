@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Black Mirror'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074WC8QN9/?tag=tolees-21'
+descuento: '50.61'
+titulo: 'Black Mirror'
 ---
 
 Está [Black Mirror](https://www.amazon.es/dp/B074WC8QN9/?tag=tolees-21) con 50.61 de descuento por 19.75 EUR (original: 39.99 EUR) en el siguiente enlace!

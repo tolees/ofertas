@@ -17,6 +17,9 @@ comparePrice: 12.56 EUR
 inStock: true
 prodname: 'adidas 6P 3S Cotto Gorra  Hombre  Negro/Blanco  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7A7PHB/?tag=tolees-21'
+descuento: '28.50'
+titulo: 'adidas 6P 3S Cotto Gorra  Hombre  Negro/'
 ---
 
 Tienes [adidas 6P 3S Cotto Gorra  Hombre  Negro/Blanco  Talla única](https://www.amazon.es/dp/B01N7A7PHB/?tag=tolees-21) con un 28.50 % de descuento con precio de oferta de 8.98 EUR (original: 12.56 EUR) en el siguiente enlace!

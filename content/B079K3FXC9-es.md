@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Napapijri Berthow Logo Crew  Sudadera  Verde  Green Musk Gd3   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079K3FXC9/?tag=tolees-21'
+descuento: '27.46'
+titulo: 'Napapijri Berthow Logo Crew  Sudadera  V'
 ---
 
 Está [Napapijri Berthow Logo Crew  Sudadera  Verde  Green Musk Gd3   Large para Hombre](https://www.amazon.es/dp/B079K3FXC9/?tag=tolees-21) con 27.46 de descuento por 64.56 EUR (original: 89 EUR) en el siguiente enlace!

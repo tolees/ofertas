@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Pop! Disney Mickey 90 Years - Figura de Vinilo Steamboat Willie'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DF1YJLV/?tag=tolees-21'
+descuento: '48.59'
+titulo: 'Pop! Disney Mickey 90 Years - Figura de '
 ---
 
 Ahora mismo tienes [Pop! Disney Mickey 90 Years - Figura de Vinilo Steamboat Willie](https://www.amazon.es/dp/B07DF1YJLV/?tag=tolees-21) a 8.2 EUR (original: 15.95 EUR) (48.59 %  de descuento) en el siguiente enlace!

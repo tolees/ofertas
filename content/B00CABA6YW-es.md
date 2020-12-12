@@ -17,6 +17,9 @@ comparePrice: 38 EUR
 inStock: true
 prodname: 'Mediclinics - Secador Lateral Negro Con  SC0020CS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CABA6YW/?tag=tolees-21'
+descuento: '49.08'
+titulo: 'Mediclinics - Secador Lateral Negro Con '
 ---
 
 Tienes [Mediclinics - Secador Lateral Negro Con  SC0020CS ](https://www.amazon.es/dp/B00CABA6YW/?tag=tolees-21) con un 49.08 % de descuento con precio de oferta de 19.35 EUR (original: 38 EUR) en el siguiente enlace!

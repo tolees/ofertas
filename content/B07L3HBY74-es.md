@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger tee Camiseta  Blanco  Bright White 100   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3HBY74/?tag=tolees-21'
+descuento: '54.57'
+titulo: 'Tommy Hilfiger tee Camiseta  Blanco  Bri'
 ---
 
 Tienes [Tommy Hilfiger tee Camiseta  Blanco  Bright White 100   Large para Hombre](https://www.amazon.es/dp/B07L3HBY74/?tag=tolees-21) con un 54.57 % de descuento con precio de oferta de 22.67 EUR (original: 49.9 EUR) en el siguiente enlace!

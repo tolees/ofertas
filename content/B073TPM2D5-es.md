@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Redención  Southpaw  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073TPM2D5/?tag=tolees-21'
+descuento: '58.37'
+titulo: 'Redención  Southpaw  [Blu-ray]'
 ---
 
 Ahora mismo tienes [Redención  Southpaw  [Blu-ray]](https://www.amazon.es/dp/B073TPM2D5/?tag=tolees-21) a 7.49 EUR (original: 17.99 EUR) (58.37 %  de descuento) en el siguiente enlace!

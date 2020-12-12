@@ -17,6 +17,9 @@ comparePrice: 64.75 EUR
 inStock: true
 prodname: 'Volcom Homak P/O Sudadera  Hombre  Naranja  Hazelnut   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQXDVHL/?tag=tolees-21'
+descuento: '46.10'
+titulo: 'Volcom Homak P/O Sudadera  Hombre  Naran'
 ---
 
 Está [Volcom Homak P/O Sudadera  Hombre  Naranja  Hazelnut   XL](https://www.amazon.es/dp/B07DQXDVHL/?tag=tolees-21) con 46.10 de descuento por 34.9 EUR (original: 64.75 EUR) en el siguiente enlace!

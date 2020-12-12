@@ -17,6 +17,9 @@ comparePrice: 55.16 EUR
 inStock: true
 prodname: 'Abus 787 Cofre guardallaves  Blanco y negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001T0HERW/?tag=tolees-21'
+descuento: '30.35'
+titulo: 'Abus 787 Cofre guardallaves  Blanco y ne'
 ---
 
 Está [Abus 787 Cofre guardallaves  Blanco y negro](https://www.amazon.es/dp/B001T0HERW/?tag=tolees-21) con 30.35 de descuento por 38.42 EUR (original: 55.16 EUR) en el siguiente enlace!

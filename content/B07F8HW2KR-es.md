@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'NACATIN Lámpara de Fuego Solar  1 unidad '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8HW2KR/?tag=tolees-21'
+descuento: '63.67'
+titulo: 'NACATIN Lámpara de Fuego Solar  1 unidad'
 ---
 
 Ahora mismo tienes [NACATIN Lámpara de Fuego Solar  1 unidad ](https://www.amazon.es/dp/B07F8HW2KR/?tag=tolees-21) a 7.99 EUR (original: 21.99 EUR) (63.67 %  de descuento) en el siguiente enlace!

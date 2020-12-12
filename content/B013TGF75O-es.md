@@ -17,6 +17,9 @@ comparePrice: 15.89 EUR
 inStock: true
 prodname: 'AmazonBasics  Mochila de estilo clásico  Azul  Azulón '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013TGF75O/?tag=tolees-21'
+descuento: '26.94'
+titulo: 'AmazonBasics  Mochila de estilo clásico '
 ---
 
 Está [AmazonBasics  Mochila de estilo clásico  Azul  Azulón ](https://www.amazon.es/dp/B013TGF75O/?tag=tolees-21) con 26.94 de descuento por 11.61 EUR (original: 15.89 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 136.88 EUR
 inStock: true
 prodname: 'Petite Mendigote Gaité - Bolso al Hombro de Cuero para Mujer  Negro  Negro  Black    Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H3H1TG6/?tag=tolees-21'
+descuento: '79.27'
+titulo: 'Petite Mendigote Gaité - Bolso al Hombro'
 ---
 
 Ahora mismo tienes [Petite Mendigote Gaité - Bolso al Hombro de Cuero para Mujer  Negro  Negro  Black    Talla única](https://www.amazon.es/dp/B01H3H1TG6/?tag=tolees-21) a 28.37 EUR (original: 136.88 EUR) (79.27 %  de descuento) en el siguiente enlace!

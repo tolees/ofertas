@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Rosa  C06 Dusty Rose   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OOKROV0/?tag=tolees-21'
+descuento: '31.90'
+titulo: 'Superga 2790Cotw Linea Up And Down  Zapa'
 ---
 
 Tienes [Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Rosa  C06 Dusty Rose   36 EU](https://www.amazon.es/dp/B00OOKROV0/?tag=tolees-21) con un 31.90 % de descuento con precio de oferta de 46.99 EUR (original: 69 EUR) en el siguiente enlace!

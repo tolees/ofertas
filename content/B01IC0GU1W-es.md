@@ -17,6 +17,9 @@ comparePrice: 15.35 EUR
 inStock: true
 prodname: 'Original Buff Colourful Mountains Tubular  Niños  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IC0GU1W/?tag=tolees-21'
+descuento: '43.97'
+titulo: 'Original Buff Colourful Mountains Tubula'
 ---
 
 Ahora mismo tienes [Original Buff Colourful Mountains Tubular  Niños  Talla Única](https://www.amazon.es/dp/B01IC0GU1W/?tag=tolees-21) a 8.6 EUR (original: 15.35 EUR) (43.97 %  de descuento) en el siguiente enlace!

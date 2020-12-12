@@ -17,6 +17,9 @@ comparePrice: 44 EUR
 inStock: true
 prodname: 'SYROKAN Sujetador Deportivo Gran Capacidad Y Sujeción Negro-A261 ES:100C  EU 85C '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CM6DR2T/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'SYROKAN Sujetador Deportivo Gran Capacid'
 ---
 
 Tienes [SYROKAN Sujetador Deportivo Gran Capacidad Y Sujeción Negro-A261 ES:100C  EU 85C ](https://www.amazon.es/dp/B07CM6DR2T/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 21.99 EUR (original: 44 EUR) en el siguiente enlace!

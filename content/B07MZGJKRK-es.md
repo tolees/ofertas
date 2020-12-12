@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'AIJEESI Auriculares inalámbricos Bluetooth 5.0 con micrófono de Sonido estéreo Uso de Soporte de Forma Independiente'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZGJKRK/?tag=tolees-21'
+descuento: '54.29'
+titulo: 'AIJEESI Auriculares inalámbricos Bluetoo'
 ---
 
 Está [AIJEESI Auriculares inalámbricos Bluetooth 5.0 con micrófono de Sonido estéreo Uso de Soporte de Forma Independiente](https://www.amazon.es/dp/B07MZGJKRK/?tag=tolees-21) con 54.29 de descuento por 31.99 EUR (original: 69.99 EUR) en el siguiente enlace!

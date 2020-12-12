@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Scalpers Rules tee  Camiseta para Hombre  Azul Navy  Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9CPPM4/?tag=tolees-21'
+descuento: '37.93'
+titulo: 'Scalpers Rules tee  Camiseta para Hombre'
 ---
 
 Ahora mismo tienes [Scalpers Rules tee  Camiseta para Hombre  Azul Navy  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07D9CPPM4/?tag=tolees-21) a 18 EUR (original: 29 EUR) (37.93 %  de descuento) en el siguiente enlace!

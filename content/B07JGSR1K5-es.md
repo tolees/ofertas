@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY Sh180457 bañadores  Rojo  Red   42  Talla del fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGSR1K5/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'IRIS & LILLY Sh180457 bañadores  Rojo  R'
 ---
 
 Está [IRIS & LILLY Sh180457 bañadores  Rojo  Red   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B07JGSR1K5/?tag=tolees-21) con 30.01 de descuento por 19.59 EUR (original: 27.99 EUR) en el siguiente enlace!

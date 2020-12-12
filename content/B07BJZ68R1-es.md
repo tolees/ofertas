@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'GEARGO Cargador Inalámbrico Rápido  Wireless Quick Charger Material Metálica Carga Rápida 10W para Sumsung Galaxy S8/ S8+/ S7/ S7 Edge / S6 Edge +  Carga Inalámbrica 5W para iPhone X/ 8 Plus/8'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJZ68R1/?tag=tolees-21'
+descuento: '84.87'
+titulo: 'GEARGO Cargador Inalámbrico Rápido  Wire'
 ---
 
 Está [GEARGO Cargador Inalámbrico Rápido  Wireless Quick Charger Material Metálica Carga Rápida 10W para Sumsung Galaxy S8/ S8+/ S7/ S7 Edge / S6 Edge +  Carga Inalámbrica 5W para iPhone X/ 8 Plus/8](https://www.amazon.es/dp/B07BJZ68R1/?tag=tolees-21) con 84.87 de descuento por 4.99 EUR (original: 32.99 EUR) en el siguiente enlace!

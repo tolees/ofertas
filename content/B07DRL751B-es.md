@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Under Armour Men s Headline 3.0 Cap Gorra  Hombre  Rojo Barn/Pitch Gray 633  XL/XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DRL751B/?tag=tolees-21'
+descuento: '40.59'
+titulo: 'Under Armour Men s Headline 3.0 Cap Gorr'
 ---
 
 Ahora mismo tienes [Under Armour Men s Headline 3.0 Cap Gorra  Hombre  Rojo Barn/Pitch Gray 633  XL/XXL](https://www.amazon.es/dp/B07DRL751B/?tag=tolees-21) a 15.44 EUR (original: 25.99 EUR) (40.59 %  de descuento) en el siguiente enlace!

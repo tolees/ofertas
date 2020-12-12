@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Gioteck - Xh-100 Wired Stereo Military'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KVGCT1W/?tag=tolees-21'
+descuento: '49.92'
+titulo: 'Gioteck - Xh-100 Wired Stereo Military'
 ---
 
 Ahora mismo tienes [Gioteck - Xh-100 Wired Stereo Military](https://www.amazon.es/dp/B07KVGCT1W/?tag=tolees-21) a 9.01 EUR (original: 17.99 EUR) (49.92 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45.66 EUR
 inStock: true
 prodname: 'Yale  124R100DHP  Cerradura de Sobreponer Estándar  Hierro Pintado  100 mm  124 / Derecha'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MDJ3D46/?tag=tolees-21'
+descuento: '49.17'
+titulo: 'Yale  124R100DHP  Cerradura de Sobrepone'
 ---
 
 Está [Yale  124R100DHP  Cerradura de Sobreponer Estándar  Hierro Pintado  100 mm  124 / Derecha](https://www.amazon.es/dp/B00MDJ3D46/?tag=tolees-21) con 49.17 de descuento por 23.21 EUR (original: 45.66 EUR) en el siguiente enlace!

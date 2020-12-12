@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Under Armour Sc30 Initials SS Camiseta  Niños  Azul Royal 400  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZHJ51Y/?tag=tolees-21'
+descuento: '41.29'
+titulo: 'Under Armour Sc30 Initials SS Camiseta  '
 ---
 
 Está [Under Armour Sc30 Initials SS Camiseta  Niños  Azul Royal 400  L](https://www.amazon.es/dp/B07CZHJ51Y/?tag=tolees-21) con 41.29 de descuento por 15.26 EUR (original: 25.99 EUR) en el siguiente enlace!

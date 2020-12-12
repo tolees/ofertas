@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'SUPORE Forerunner 235 Correa Reemplazo Suave Silicona Watch Band Deportiva Accessorios de Reloj Pulsera Ajustable con Cierre de Clip para Garmin Forerunner 235/220 / 230/620 / 630/735 Smart Watch'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KXNXT9Z/?tag=tolees-21'
+descuento: '66.69'
+titulo: 'SUPORE Forerunner 235 Correa Reemplazo S'
 ---
 
 Está [SUPORE Forerunner 235 Correa Reemplazo Suave Silicona Watch Band Deportiva Accessorios de Reloj Pulsera Ajustable con Cierre de Clip para Garmin Forerunner 235/220 / 230/620 / 630/735 Smart Watch](https://www.amazon.es/dp/B07KXNXT9Z/?tag=tolees-21) con 66.69 de descuento por 9.99 EUR (original: 29.99 EUR) en el siguiente enlace!

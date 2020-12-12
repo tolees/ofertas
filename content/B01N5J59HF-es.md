@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance Cypher Run  Zapatillas de Running para Hombre  Gris  Grey/Gold   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5J59HF/?tag=tolees-21'
+descuento: '69.69'
+titulo: 'New Balance Cypher Run  Zapatillas de Ru'
 ---
 
 Ahora mismo tienes [New Balance Cypher Run  Zapatillas de Running para Hombre  Gris  Grey/Gold   41.5 EU](https://www.amazon.es/dp/B01N5J59HF/?tag=tolees-21) a 30.31 EUR (original: 100 EUR) (69.69 %  de descuento) en el siguiente enlace!

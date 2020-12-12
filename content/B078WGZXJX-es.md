@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'BILLABONG Tribong OG 17 Bañador  Hombre  Azul  Navy 21   36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WGZXJX/?tag=tolees-21'
+descuento: '54.55'
+titulo: 'BILLABONG Tribong OG 17 Bañador  Hombre '
 ---
 
 Tienes [BILLABONG Tribong OG 17 Bañador  Hombre  Azul  Navy 21   36](https://www.amazon.es/dp/B078WGZXJX/?tag=tolees-21) con un 54.55 % de descuento con precio de oferta de 25 EUR (original: 55 EUR) en el siguiente enlace!

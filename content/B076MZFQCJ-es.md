@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Science4you-Fábrica de Experimentos-Quimica Y Fisica   605237 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076MZFQCJ/?tag=tolees-21'
+descuento: '37.27'
+titulo: 'Science4you-Fábrica de Experimentos-Quim'
 ---
 
 Está [Science4you-Fábrica de Experimentos-Quimica Y Fisica   605237 ](https://www.amazon.es/dp/B076MZFQCJ/?tag=tolees-21) con 37.27 de descuento por 12.54 EUR (original: 19.99 EUR) en el siguiente enlace!

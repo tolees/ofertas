@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjejeans Print tee SS Crew Neck Noos Camiseta  Blanco  Cloud Dancer Detail: Slim Fit   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079BNJMF8/?tag=tolees-21'
+descuento: '54.20'
+titulo: 'JACK & JONES Jjejeans Print tee SS Crew '
 ---
 
 Tienes [JACK & JONES Jjejeans Print tee SS Crew Neck Noos Camiseta  Blanco  Cloud Dancer Detail: Slim Fit   Small para Hombre](https://www.amazon.es/dp/B079BNJMF8/?tag=tolees-21) con un 54.20 % de descuento con precio de oferta de 5.95 EUR (original: 12.99 EUR) en el siguiente enlace!

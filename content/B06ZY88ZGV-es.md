@@ -17,6 +17,9 @@ comparePrice: 128.2 EUR
 inStock: true
 prodname: 'Jocel JVAB030528 Ventilador nebulizador  80 W  2 litros  Plástico  3 Velocidades  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06ZY88ZGV/?tag=tolees-21'
+descuento: '45.41'
+titulo: 'Jocel JVAB030528 Ventilador nebulizador '
 ---
 
 Está [Jocel JVAB030528 Ventilador nebulizador  80 W  2 litros  Plástico  3 Velocidades  Blanco](https://www.amazon.es/dp/B06ZY88ZGV/?tag=tolees-21) con 45.41 de descuento por 69.99 EUR (original: 128.2 EUR) en el siguiente enlace!

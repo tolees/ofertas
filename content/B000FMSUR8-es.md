@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Severin Barbacoa Grill PG 2791 - Barbacoa de Mesa  Superficie de Grill  41 x 26 cm  2.500 W  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000FMSUR8/?tag=tolees-21'
+descuento: '34.99'
+titulo: 'Severin Barbacoa Grill PG 2791 - Barbaco'
 ---
 
 Ahora mismo tienes [Severin Barbacoa Grill PG 2791 - Barbacoa de Mesa  Superficie de Grill  41 x 26 cm  2.500 W  Negro](https://www.amazon.es/dp/B000FMSUR8/?tag=tolees-21) a 39 EUR (original: 59.99 EUR) (34.99 %  de descuento) en el siguiente enlace!

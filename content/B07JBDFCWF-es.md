@@ -17,6 +17,9 @@ comparePrice: 31.74 EUR
 inStock: true
 prodname: 'Hellblade Senua s Sacrifice'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JBDFCWF/?tag=tolees-21'
+descuento: '37.15'
+titulo: 'Hellblade Senua s Sacrifice'
 ---
 
 Está [Hellblade Senua s Sacrifice](https://www.amazon.es/dp/B07JBDFCWF/?tag=tolees-21) con 37.15 de descuento por 19.95 EUR (original: 31.74 EUR) en el siguiente enlace!

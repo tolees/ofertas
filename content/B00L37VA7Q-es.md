@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'TANTRA Embroidery Skirt  Falda para Mujer  Pink  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00L37VA7Q/?tag=tolees-21'
+descuento: '93.09'
+titulo: 'TANTRA Embroidery Skirt  Falda para Muje'
 ---
 
 Ahora mismo tienes [TANTRA Embroidery Skirt  Falda para Mujer  Pink  Small](https://www.amazon.es/dp/B00L37VA7Q/?tag=tolees-21) a 11.75 EUR (original: 170 EUR) (93.09 %  de descuento) en el siguiente enlace!

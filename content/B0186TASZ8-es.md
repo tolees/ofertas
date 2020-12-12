@@ -17,6 +17,9 @@ comparePrice: 52 EUR
 inStock: true
 prodname: 'Philips PHICE233 - Radio para Coche  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0186TASZ8/?tag=tolees-21'
+descuento: '29.63'
+titulo: 'Philips PHICE233 - Radio para Coche  Col'
 ---
 
 Ahora mismo tienes [Philips PHICE233 - Radio para Coche  Color Negro](https://www.amazon.es/dp/B0186TASZ8/?tag=tolees-21) a 36.59 EUR (original: 52 EUR) (29.63 %  de descuento) en el siguiente enlace!

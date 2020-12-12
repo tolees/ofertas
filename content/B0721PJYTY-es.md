@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Arlo VMA4600-10000S Panel Solar diseñado para Alimentar videocámaras Pro Go sin Cables  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0721PJYTY/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'Arlo VMA4600-10000S Panel Solar diseñado'
 ---
 
 Está [Arlo VMA4600-10000S Panel Solar diseñado para Alimentar videocámaras Pro Go sin Cables  Negro](https://www.amazon.es/dp/B0721PJYTY/?tag=tolees-21) con 30.01 de descuento por 69.98 EUR (original: 99.99 EUR) en el siguiente enlace!

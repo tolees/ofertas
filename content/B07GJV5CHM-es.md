@@ -17,6 +17,9 @@ comparePrice: 84.82 EUR
 inStock: true
 prodname: 'Pierre Cardin Favourite Skinny 5 Pocket Hose Flower  Pantalones para Mujer  Amarillo  Zolty 410  W42/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GJV5CHM/?tag=tolees-21'
+descuento: '53.83'
+titulo: 'Pierre Cardin Favourite Skinny 5 Pocket '
 ---
 
 Tienes [Pierre Cardin Favourite Skinny 5 Pocket Hose Flower  Pantalones para Mujer  Amarillo  Zolty 410  W42/L32](https://www.amazon.es/dp/B07GJV5CHM/?tag=tolees-21) con un 53.83 % de descuento con precio de oferta de 39.16 EUR (original: 84.82 EUR) en el siguiente enlace!

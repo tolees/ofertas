@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'JACK & JONES Jjiliam Jjoriginal Am 010 Lid Noos  Vaqueros Para Hombre  Gris  Grey Denim   W30/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FF8EKIY/?tag=tolees-21'
+descuento: '44.04'
+titulo: 'JACK & JONES Jjiliam Jjoriginal Am 010 L'
 ---
 
 Tienes [JACK & JONES Jjiliam Jjoriginal Am 010 Lid Noos  Vaqueros Para Hombre  Gris  Grey Denim   W30/L34](https://www.amazon.es/dp/B01FF8EKIY/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 27.95 EUR (original: 49.95 EUR) en el siguiente enlace!

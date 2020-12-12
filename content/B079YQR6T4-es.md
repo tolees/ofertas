@@ -17,6 +17,9 @@ comparePrice: 45.98 EUR
 inStock: true
 prodname: 'Joma DRIS.804.IN  Zapatillas de fútbol Sala para Hombre  Azul  Royal 000   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079YQR6T4/?tag=tolees-21'
+descuento: '37.12'
+titulo: 'Joma DRIS.804.IN  Zapatillas de fútbol S'
 ---
 
 Ahora mismo tienes [Joma DRIS.804.IN  Zapatillas de fútbol Sala para Hombre  Azul  Royal 000   42 EU](https://www.amazon.es/dp/B079YQR6T4/?tag=tolees-21) a 28.91 EUR (original: 45.98 EUR) (37.12 %  de descuento) en el siguiente enlace!

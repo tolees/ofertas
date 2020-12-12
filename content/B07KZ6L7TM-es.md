@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Cortefiel C0Cb Oxford Liso TBD Camisa Casual  Blanco 99  Medium  Tamaño del Fabricante:M  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ6L7TM/?tag=tolees-21'
+descuento: '56.71'
+titulo: 'Cortefiel C0Cb Oxford Liso TBD Camisa Ca'
 ---
 
 Ahora mismo tienes [Cortefiel C0Cb Oxford Liso TBD Camisa Casual  Blanco 99  Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KZ6L7TM/?tag=tolees-21) a 17.31 EUR (original: 39.99 EUR) (56.71 %  de descuento) en el siguiente enlace!

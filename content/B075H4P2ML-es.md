@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Skechers Mecca-Outer Venture  Botas Clasicas para Niños  Azul  Navy Nvy   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075H4P2ML/?tag=tolees-21'
+descuento: '70.65'
+titulo: 'Skechers Mecca-Outer Venture  Botas Clas'
 ---
 
 Tienes [Skechers Mecca-Outer Venture  Botas Clasicas para Niños  Azul  Navy Nvy   35 EU](https://www.amazon.es/dp/B075H4P2ML/?tag=tolees-21) con un 70.65 % de descuento con precio de oferta de 14.66 EUR (original: 49.95 EUR) en el siguiente enlace!

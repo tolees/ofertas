@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'find. Top de Tirantes Con Botones para Mujer   Blanco  White   44  Talla del Fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NBIFE63/?tag=tolees-21'
+descuento: '60.58'
+titulo: 'find. Top de Tirantes Con Botones para M'
 ---
 
 Está [find. Top de Tirantes Con Botones para Mujer   Blanco  White   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B01NBIFE63/?tag=tolees-21) con 60.58 de descuento por 15.77 EUR (original: 40 EUR) en el siguiente enlace!

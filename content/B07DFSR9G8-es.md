@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma 4Keeps Bra M Top  Mujer  Blanco  White   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFSR9G8/?tag=tolees-21'
+descuento: '40.07'
+titulo: 'Puma 4Keeps Bra M Top  Mujer  Blanco  Wh'
 ---
 
 Tienes [Puma 4Keeps Bra M Top  Mujer  Blanco  White   L](https://www.amazon.es/dp/B07DFSR9G8/?tag=tolees-21) con un 40.07 % de descuento con precio de oferta de 17.95 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'LEVIVO Mueble Zapatero  Blanco  145x110x39 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GVW54YC/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'LEVIVO Mueble Zapatero  Blanco  145x110x'
 ---
 
 Está [LEVIVO Mueble Zapatero  Blanco  145x110x39 cm](https://www.amazon.es/dp/B01GVW54YC/?tag=tolees-21) con 25.01 de descuento por 22.49 EUR (original: 29.99 EUR) en el siguiente enlace!

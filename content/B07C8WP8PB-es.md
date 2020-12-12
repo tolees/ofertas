@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Vans_Apparel Otw Pullover Fleece  Capucha para Hombre  Amarillo  New Wheat M8q   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C8WP8PB/?tag=tolees-21'
+descuento: '56.15'
+titulo: 'Vans_Apparel Otw Pullover Fleece  Capuch'
 ---
 
 Ahora mismo tienes [Vans_Apparel Otw Pullover Fleece  Capucha para Hombre  Amarillo  New Wheat M8q   Medium](https://www.amazon.es/dp/B07C8WP8PB/?tag=tolees-21) a 28.5 EUR (original: 65 EUR) (56.15 %  de descuento) en el siguiente enlace!

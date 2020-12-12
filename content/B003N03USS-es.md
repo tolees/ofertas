@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Casio Reloj Digital para Unisex de Automático con Correa en Acero Inoxidable Chapado en Platino A-178WA-1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003N03USS/?tag=tolees-21'
+descuento: '49.22'
+titulo: 'Casio Reloj Digital para Unisex de Autom'
 ---
 
 Tienes [Casio Reloj Digital para Unisex de Automático con Correa en Acero Inoxidable Chapado en Platino A-178WA-1](https://www.amazon.es/dp/B003N03USS/?tag=tolees-21) con un 49.22 % de descuento con precio de oferta de 22.85 EUR (original: 45 EUR) en el siguiente enlace!

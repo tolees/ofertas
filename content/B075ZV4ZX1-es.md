@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'AIM - Teclado mecánico Gaming  RGB  19 Efectos  Software  Switch Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075ZV4ZX1/?tag=tolees-21'
+descuento: '25.04'
+titulo: 'AIM - Teclado mecánico Gaming  RGB  19 E'
 ---
 
 Ahora mismo tienes [AIM - Teclado mecánico Gaming  RGB  19 Efectos  Software  Switch Rojo](https://www.amazon.es/dp/B075ZV4ZX1/?tag=tolees-21) a 44.9 EUR (original: 59.9 EUR) (25.04 %  de descuento) en el siguiente enlace!

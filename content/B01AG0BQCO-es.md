@@ -17,6 +17,9 @@ comparePrice: 15.78 EUR
 inStock: true
 prodname: 'Abus 60/50 KA6054 - Candado latón de 50mm llaves iguales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AG0BQCO/?tag=tolees-21'
+descuento: '69.46'
+titulo: 'Abus 60/50 KA6054 - Candado latón de 50m'
 ---
 
 Está [Abus 60/50 KA6054 - Candado latón de 50mm llaves iguales](https://www.amazon.es/dp/B01AG0BQCO/?tag=tolees-21) con 69.46 de descuento por 4.82 EUR (original: 15.78 EUR) en el siguiente enlace!

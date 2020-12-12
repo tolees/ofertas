@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'adidas Real Madrid Third – Camiseta de fútbol para Hombre  Color Real Coral  Vivid Red  Talla XXL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G2SLG8L/?tag=tolees-21'
+descuento: '40.06'
+titulo: 'adidas Real Madrid Third – Camiseta de f'
 ---
 
 Ahora mismo tienes [adidas Real Madrid Third – Camiseta de fútbol para Hombre  Color Real Coral  Vivid Red  Talla XXL ](https://www.amazon.es/dp/B07G2SLG8L/?tag=tolees-21) a 53.95 EUR (original: 90 EUR) (40.06 %  de descuento) en el siguiente enlace!

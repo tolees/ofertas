@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Under Armour UA Sway  Zapatillas de Running para Hombre  Blanco  White   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VNPKVG/?tag=tolees-21'
+descuento: '59.68'
+titulo: 'Under Armour UA Sway  Zapatillas de Runn'
 ---
 
 Está [Under Armour UA Sway  Zapatillas de Running para Hombre  Blanco  White   41 EU](https://www.amazon.es/dp/B076VNPKVG/?tag=tolees-21) con 59.68 de descuento por 36.29 EUR (original: 90 EUR) en el siguiente enlace!

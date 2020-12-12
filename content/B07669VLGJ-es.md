@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Geox D Theragon A  Zapatillas para Mujer  Blanco  Off White   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07669VLGJ/?tag=tolees-21'
+descuento: '73.89'
+titulo: 'Geox D Theragon A  Zapatillas para Mujer'
 ---
 
 Está [Geox D Theragon A  Zapatillas para Mujer  Blanco  Off White   40 EU](https://www.amazon.es/dp/B07669VLGJ/?tag=tolees-21) con 73.89 de descuento por 28.7 EUR (original: 109.9 EUR) en el siguiente enlace!

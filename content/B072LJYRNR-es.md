@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Carson 2 Terrain  Zapatillas De Deporte para Exterior para Mujer  Gris  Quarry-White-Black   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LJYRNR/?tag=tolees-21'
+descuento: '63.76'
+titulo: 'Puma Carson 2 Terrain  Zapatillas De Dep'
 ---
 
 Tienes [Puma Carson 2 Terrain  Zapatillas De Deporte para Exterior para Mujer  Gris  Quarry-White-Black   40 EU](https://www.amazon.es/dp/B072LJYRNR/?tag=tolees-21) con un 63.76 % de descuento con precio de oferta de 25.35 EUR (original: 69.95 EUR) en el siguiente enlace!

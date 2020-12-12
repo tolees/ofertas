@@ -17,6 +17,9 @@ comparePrice: 39.54 EUR
 inStock: true
 prodname: 'Boucheron Boucheron Femme Agua de perfume Vaporizador 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006LF5UX0/?tag=tolees-21'
+descuento: '32.55'
+titulo: 'Boucheron Boucheron Femme Agua de perfum'
 ---
 
 Ahora mismo tienes [Boucheron Boucheron Femme Agua de perfume Vaporizador 50 ml](https://www.amazon.es/dp/B006LF5UX0/?tag=tolees-21) a 26.67 EUR (original: 39.54 EUR) (32.55 %  de descuento) en el siguiente enlace!

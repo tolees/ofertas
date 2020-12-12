@@ -17,6 +17,9 @@ comparePrice: 9.26 EUR
 inStock: true
 prodname: 'Ratio 5054H1 - Porta-Flexómetro Multibolsil Ratio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ITVS2CU/?tag=tolees-21'
+descuento: '33.59'
+titulo: 'Ratio 5054H1 - Porta-Flexómetro Multibol'
 ---
 
 Ahora mismo tienes [Ratio 5054H1 - Porta-Flexómetro Multibolsil Ratio](https://www.amazon.es/dp/B00ITVS2CU/?tag=tolees-21) a 6.15 EUR (original: 9.26 EUR) (33.59 %  de descuento) en el siguiente enlace!

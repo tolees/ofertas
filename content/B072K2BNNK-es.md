@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Lenovo LI2215s - Monitor de 21.5"  54 6cm  FullHD 1920x1080 pixeles  tiempo de respuesta de 5ms  conexión VGA  brillo 200 cd/m²  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072K2BNNK/?tag=tolees-21'
+descuento: '26.03'
+titulo: 'Lenovo LI2215s - Monitor de 21.5"  54 6c'
 ---
 
 Ahora mismo tienes [Lenovo LI2215s - Monitor de 21.5"  54 6cm  FullHD 1920x1080 pixeles  tiempo de respuesta de 5ms  conexión VGA  brillo 200 cd/m²  color negro](https://www.amazon.es/dp/B072K2BNNK/?tag=tolees-21) a 73.23 EUR (original: 99 EUR) (26.03 %  de descuento) en el siguiente enlace!

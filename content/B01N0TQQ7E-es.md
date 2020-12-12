@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Blend  20702534 - Bermuda para Hombre  Color Negro  70155   Talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0TQQ7E/?tag=tolees-21'
+descuento: '68.19'
+titulo: 'Blend  20702534 - Bermuda para Hombre  C'
 ---
 
 Ahora mismo tienes [Blend  20702534 - Bermuda para Hombre  Color Negro  70155   Talla M](https://www.amazon.es/dp/B01N0TQQ7E/?tag=tolees-21) a 12.71 EUR (original: 39.95 EUR) (68.19 %  de descuento) en el siguiente enlace!

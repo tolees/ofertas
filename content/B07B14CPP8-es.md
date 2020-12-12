@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Flex Appeal 3.0  Zapatillas para Mujer  Negro  Black Knit Mesh/White Trim Bkw   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B14CPP8/?tag=tolees-21'
+descuento: '31.42'
+titulo: 'Skechers Flex Appeal 3.0  Zapatillas par'
 ---
 
 Ahora mismo tienes [Skechers Flex Appeal 3.0  Zapatillas para Mujer  Negro  Black Knit Mesh/White Trim Bkw   38 EU](https://www.amazon.es/dp/B07B14CPP8/?tag=tolees-21) a 47.97 EUR (original: 69.95 EUR) (31.42 %  de descuento) en el siguiente enlace!

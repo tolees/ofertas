@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma 365 Ignite Fuse 2  Zapatillas de Fútbol para Hombre  Verde  Forest Night Black White 03   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ42JWC/?tag=tolees-21'
+descuento: '74.95'
+titulo: 'Puma 365 Ignite Fuse 2  Zapatillas de Fú'
 ---
 
 Está [Puma 365 Ignite Fuse 2  Zapatillas de Fútbol para Hombre  Verde  Forest Night Black White 03   45 EU](https://www.amazon.es/dp/B07CZ42JWC/?tag=tolees-21) con 74.95 de descuento por 22.53 EUR (original: 89.95 EUR) en el siguiente enlace!

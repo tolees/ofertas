@@ -17,6 +17,9 @@ comparePrice: 36 EUR
 inStock: true
 prodname: 'Lacoste Ramc402 Bóxer  Azul  Navy/Turkishsea 970   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JNG8Y78/?tag=tolees-21'
+descuento: '39.03'
+titulo: 'Lacoste Ramc402 Bóxer  Azul  Navy/Turkis'
 ---
 
 Tienes [Lacoste Ramc402 Bóxer  Azul  Navy/Turkishsea 970   Medium para Hombre](https://www.amazon.es/dp/B07JNG8Y78/?tag=tolees-21) con un 39.03 % de descuento con precio de oferta de 21.95 EUR (original: 36 EUR) en el siguiente enlace!

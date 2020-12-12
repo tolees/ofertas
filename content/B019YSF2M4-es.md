@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Salomon Mujer Mallas largas para running Agile  Mezcla de sintéticos  Negro  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019YSF2M4/?tag=tolees-21'
+descuento: '55.28'
+titulo: 'Salomon Mujer Mallas largas para running'
 ---
 
 Está [Salomon Mujer Mallas largas para running Agile  Mezcla de sintéticos  Negro  S](https://www.amazon.es/dp/B019YSF2M4/?tag=tolees-21) con 55.28 de descuento por 26.81 EUR (original: 59.95 EUR) en el siguiente enlace!

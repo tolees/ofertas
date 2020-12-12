@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Nike Dualtone Racer PRM  Zapatillas de Running para Hombre   Bluee Force/Obsidian 401   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078RRLVBX/?tag=tolees-21'
+descuento: '58.05'
+titulo: 'Nike Dualtone Racer PRM  Zapatillas de R'
 ---
 
 Tienes [Nike Dualtone Racer PRM  Zapatillas de Running para Hombre   Bluee Force/Obsidian 401   42.5 EU](https://www.amazon.es/dp/B078RRLVBX/?tag=tolees-21) con un 58.05 % de descuento con precio de oferta de 39.85 EUR (original: 95 EUR) en el siguiente enlace!

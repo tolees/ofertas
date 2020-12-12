@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Levi s kids Nn21004 46 Dungaree Pantalones de Peto  Azul  Indigo   1-3 Meses  Talla del Fabricante: 3M  para Bebés'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K52DGB8/?tag=tolees-21'
+descuento: '48.76'
+titulo: 'Levi s kids Nn21004 46 Dungaree Pantalon'
 ---
 
 Está [Levi s kids Nn21004 46 Dungaree Pantalones de Peto  Azul  Indigo   1-3 Meses  Talla del Fabricante: 3M  para Bebés](https://www.amazon.es/dp/B07K52DGB8/?tag=tolees-21) con 48.76 de descuento por 30.72 EUR (original: 59.95 EUR) en el siguiente enlace!

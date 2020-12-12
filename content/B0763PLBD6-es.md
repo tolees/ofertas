@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'ELTIN Magic Mini Bomba para Ciclismo  Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0763PLBD6/?tag=tolees-21'
+descuento: '27.86'
+titulo: 'ELTIN Magic Mini Bomba para Ciclismo  Ro'
 ---
 
 Está [ELTIN Magic Mini Bomba para Ciclismo  Rojo](https://www.amazon.es/dp/B0763PLBD6/?tag=tolees-21) con 27.86 de descuento por 12.95 EUR (original: 17.95 EUR) en el siguiente enlace!

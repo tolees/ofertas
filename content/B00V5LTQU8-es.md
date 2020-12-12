@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Spalding Essential Reversible Short de Juego  Hombre  Rojo/Blanco  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00V5LTQU8/?tag=tolees-21'
+descuento: '42.48'
+titulo: 'Spalding Essential Reversible Short de J'
 ---
 
 Está [Spalding Essential Reversible Short de Juego  Hombre  Rojo/Blanco  L](https://www.amazon.es/dp/B00V5LTQU8/?tag=tolees-21) con 42.48 de descuento por 14.95 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Lee Pique Polo  Gris  Sharp Grey Mele 03   2XL para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FT9HLF7/?tag=tolees-21'
+descuento: '59.55'
+titulo: 'Lee Pique Polo  Gris  Sharp Grey Mele 03'
 ---
 
 Ahora mismo tienes [Lee Pique Polo  Gris  Sharp Grey Mele 03   2XL para Hombre](https://www.amazon.es/dp/B07FT9HLF7/?tag=tolees-21) a 16.16 EUR (original: 39.95 EUR) (59.55 %  de descuento) en el siguiente enlace!

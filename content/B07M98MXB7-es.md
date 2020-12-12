@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'The North Face Millerton Chubasquero  Hombre  Azul  Night Bomber Blue   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M98MXB7/?tag=tolees-21'
+descuento: '56.34'
+titulo: 'The North Face Millerton Chubasquero  Ho'
 ---
 
 Está [The North Face Millerton Chubasquero  Hombre  Azul  Night Bomber Blue   L](https://www.amazon.es/dp/B07M98MXB7/?tag=tolees-21) con 56.34 de descuento por 56.76 EUR (original: 130 EUR) en el siguiente enlace!

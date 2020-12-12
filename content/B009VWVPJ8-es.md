@@ -17,6 +17,9 @@ comparePrice: 82 EUR
 inStock: true
 prodname: 'Curver 198811 - Cama para mascotas de tamaño M  color antracita'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009VWVPJ8/?tag=tolees-21'
+descuento: '44.79'
+titulo: 'Curver 198811 - Cama para mascotas de ta'
 ---
 
 Ahora mismo tienes [Curver 198811 - Cama para mascotas de tamaño M  color antracita](https://www.amazon.es/dp/B009VWVPJ8/?tag=tolees-21) a 45.27 EUR (original: 82 EUR) (44.79 %  de descuento) en el siguiente enlace!

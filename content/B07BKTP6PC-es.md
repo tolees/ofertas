@@ -17,6 +17,9 @@ comparePrice: 45.73 EUR
 inStock: true
 prodname: 'Bolsos cruzados de lona  Bolso de viaje con asas  Bolso de lona  Bolsos de hombro  Bolsos de playa  Bolsas de viaje'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BKTP6PC/?tag=tolees-21'
+descuento: '62.85'
+titulo: 'Bolsos cruzados de lona  Bolso de viaje '
 ---
 
 Está [Bolsos cruzados de lona  Bolso de viaje con asas  Bolso de lona  Bolsos de hombro  Bolsos de playa  Bolsas de viaje](https://www.amazon.es/dp/B07BKTP6PC/?tag=tolees-21) con 62.85 de descuento por 16.99 EUR (original: 45.73 EUR) en el siguiente enlace!

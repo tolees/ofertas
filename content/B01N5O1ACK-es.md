@@ -17,6 +17,9 @@ comparePrice: 14 EUR
 inStock: true
 prodname: 'L Oréal Paris Men Expert Hydra Energetic Loción Hidratante para tatuajes 200 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5O1ACK/?tag=tolees-21'
+descuento: '54.57'
+titulo: 'L Oréal Paris Men Expert Hydra Energetic'
 ---
 
 Está [L Oréal Paris Men Expert Hydra Energetic Loción Hidratante para tatuajes 200 ml](https://www.amazon.es/dp/B01N5O1ACK/?tag=tolees-21) con 54.57 de descuento por 6.36 EUR (original: 14 EUR) en el siguiente enlace!

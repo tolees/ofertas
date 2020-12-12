@@ -17,6 +17,9 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Kipling - Artego  Bolsas para portátil  Mujer  Beige  Spark Taupe   15x39x28.5 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHB5VGN/?tag=tolees-21'
+descuento: '50.88'
+titulo: 'Kipling - Artego  Bolsas para portátil  '
 ---
 
 Tienes [Kipling - Artego  Bolsas para portátil  Mujer  Beige  Spark Taupe   15x39x28.5 cm  B x H T ](https://www.amazon.es/dp/B07BHB5VGN/?tag=tolees-21) con un 50.88 % de descuento con precio de oferta de 58.9 EUR (original: 119.9 EUR) en el siguiente enlace!

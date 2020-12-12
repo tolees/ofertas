@@ -17,6 +17,9 @@ comparePrice: 168 EUR
 inStock: true
 prodname: 'Ray-Ban 0rx 5184 2479 54 Monturas de gafas  Top Black on Texture Red  Unisex-Adulto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MRXEPEA/?tag=tolees-21'
+descuento: '56.89'
+titulo: 'Ray-Ban 0rx 5184 2479 54 Monturas de gaf'
 ---
 
 Tienes [Ray-Ban 0rx 5184 2479 54 Monturas de gafas  Top Black on Texture Red  Unisex-Adulto](https://www.amazon.es/dp/B00MRXEPEA/?tag=tolees-21) con un 56.89 % de descuento con precio de oferta de 72.43 EUR (original: 168 EUR) en el siguiente enlace!

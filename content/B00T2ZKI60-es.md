@@ -17,6 +17,9 @@ comparePrice: 24.72 EUR
 inStock: true
 prodname: 'Lässig Schwimmshirt Mix and Match Short Sleeve Rashguard Sun Protection 50+ - Slip de baño para niño  Color Verde  Talla de: 3t'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00T2ZKI60/?tag=tolees-21'
+descuento: '77.10'
+titulo: 'Lässig Schwimmshirt Mix and Match Short '
 ---
 
 Ahora mismo tienes [Lässig Schwimmshirt Mix and Match Short Sleeve Rashguard Sun Protection 50+ - Slip de baño para niño  Color Verde  Talla de: 3t](https://www.amazon.es/dp/B00T2ZKI60/?tag=tolees-21) a 5.66 EUR (original: 24.72 EUR) (77.10 %  de descuento) en el siguiente enlace!

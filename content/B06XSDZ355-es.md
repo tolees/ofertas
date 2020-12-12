@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance Mxvadov1  Zapatillas Deportivas para Interior para Hombre  Negro  Black   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSDZ355/?tag=tolees-21'
+descuento: '67.13'
+titulo: 'New Balance Mxvadov1  Zapatillas Deporti'
 ---
 
 Está [New Balance Mxvadov1  Zapatillas Deportivas para Interior para Hombre  Negro  Black   45 EU](https://www.amazon.es/dp/B06XSDZ355/?tag=tolees-21) con 67.13 de descuento por 32.87 EUR (original: 100 EUR) en el siguiente enlace!

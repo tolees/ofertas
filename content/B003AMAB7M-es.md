@@ -17,6 +17,9 @@ comparePrice: 40.62 EUR
 inStock: true
 prodname: 'Calvin Klein Trunk_0000U2662G  Bóxer para Hombre  Negro  Black 001   S  Pack de 3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003AMAB7M/?tag=tolees-21'
+descuento: '33.65'
+titulo: 'Calvin Klein Trunk_0000U2662G  Bóxer par'
 ---
 
 Está [Calvin Klein Trunk_0000U2662G  Bóxer para Hombre  Negro  Black 001   S  Pack de 3](https://www.amazon.es/dp/B003AMAB7M/?tag=tolees-21) con 33.65 de descuento por 26.95 EUR (original: 40.62 EUR) en el siguiente enlace!

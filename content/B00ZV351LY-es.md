@@ -17,6 +17,9 @@ comparePrice: 189 EUR
 inStock: true
 prodname: 'BERING Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable 11937-393'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZV351LY/?tag=tolees-21'
+descuento: '46.22'
+titulo: 'BERING Reloj Analógico para Unisex Adult'
 ---
 
 Tienes [BERING Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable 11937-393](https://www.amazon.es/dp/B00ZV351LY/?tag=tolees-21) con un 46.22 % de descuento con precio de oferta de 101.64 EUR (original: 189 EUR) en el siguiente enlace!

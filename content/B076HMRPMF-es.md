@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'adidas CORE18 Y Sweatshirt  Unisex Niños  Gris  Dark Grey Heather/Black   L  11-12 años '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076HMRPMF/?tag=tolees-21'
+descuento: '40.06'
+titulo: 'adidas CORE18 Y Sweatshirt  Unisex Niños'
 ---
 
 Está [adidas CORE18 Y Sweatshirt  Unisex Niños  Gris  Dark Grey Heather/Black   L  11-12 años ](https://www.amazon.es/dp/B076HMRPMF/?tag=tolees-21) con 40.06 de descuento por 20.95 EUR (original: 34.95 EUR) en el siguiente enlace!

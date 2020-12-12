@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Crocs Crocband Flip U  Zapatos de Playa y Piscina Unisex Adulto  Gris  Light Grey/White 00j   45/46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CN8ZD9X/?tag=tolees-21'
+descuento: '52.54'
+titulo: 'Crocs Crocband Flip U  Zapatos de Playa '
 ---
 
 Tienes [Crocs Crocband Flip U  Zapatos de Playa y Piscina Unisex Adulto  Gris  Light Grey/White 00j   45/46 EU](https://www.amazon.es/dp/B07CN8ZD9X/?tag=tolees-21) con un 52.54 % de descuento con precio de oferta de 14.19 EUR (original: 29.9 EUR) en el siguiente enlace!

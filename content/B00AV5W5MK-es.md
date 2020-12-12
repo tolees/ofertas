@@ -17,6 +17,9 @@ comparePrice: 11.07 EUR
 inStock: true
 prodname: 'Nike Lightweight No-Show  Calcetines  Hombre  Negro  38-42  Pack de 3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AV5W5MK/?tag=tolees-21'
+descuento: '46.25'
+titulo: 'Nike Lightweight No-Show  Calcetines  Ho'
 ---
 
 Está [Nike Lightweight No-Show  Calcetines  Hombre  Negro  38-42  Pack de 3](https://www.amazon.es/dp/B00AV5W5MK/?tag=tolees-21) con 46.25 de descuento por 5.95 EUR (original: 11.07 EUR) en el siguiente enlace!

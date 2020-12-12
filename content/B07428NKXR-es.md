@@ -17,6 +17,9 @@ comparePrice: 269.99 EUR
 inStock: true
 prodname: 'Besrey 2 en 1 Carritos con capazo Reversible Silla de Paseo Cochecito Infantil 0-3 años Ruedas Grande'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07428NKXR/?tag=tolees-21'
+descuento: '37.04'
+titulo: 'Besrey 2 en 1 Carritos con capazo Revers'
 ---
 
 Tienes [Besrey 2 en 1 Carritos con capazo Reversible Silla de Paseo Cochecito Infantil 0-3 años Ruedas Grande](https://www.amazon.es/dp/B07428NKXR/?tag=tolees-21) con un 37.04 % de descuento con precio de oferta de 169.99 EUR (original: 269.99 EUR) en el siguiente enlace!

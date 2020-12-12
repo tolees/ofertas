@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 41ch207  Botas Estilo Motero para Mujer  Verde  Bottle 830   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJL6L67/?tag=tolees-21'
+descuento: '58.83'
+titulo: 'Dockers by Gerli 41ch207  Botas Estilo M'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 41ch207  Botas Estilo Motero para Mujer  Verde  Bottle 830   39 EU](https://www.amazon.es/dp/B07DJL6L67/?tag=tolees-21) a 24.68 EUR (original: 59.95 EUR) (58.83 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 154.79 EUR
 inStock: true
 prodname: 'Crucial CT2C8G4S24AM - Kit de Memoria para Mac de 16 GB  8 GB x 2  DDR4  2400 MT/s  PC4-19200  SR x8  SODIMM  260-Pin '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0721BL4NP/?tag=tolees-21'
+descuento: '52.68'
+titulo: 'Crucial CT2C8G4S24AM - Kit de Memoria pa'
 ---
 
 Ahora mismo tienes [Crucial CT2C8G4S24AM - Kit de Memoria para Mac de 16 GB  8 GB x 2  DDR4  2400 MT/s  PC4-19200  SR x8  SODIMM  260-Pin ](https://www.amazon.es/dp/B0721BL4NP/?tag=tolees-21) a 73.25 EUR (original: 154.79 EUR) (52.68 %  de descuento) en el siguiente enlace!

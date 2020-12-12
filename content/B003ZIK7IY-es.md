@@ -17,6 +17,9 @@ comparePrice: 19.8 EUR
 inStock: true
 prodname: 'Max Factor False Lash Effect Fusion  Mascara  Negro  13 1 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003ZIK7IY/?tag=tolees-21'
+descuento: '70.05'
+titulo: 'Max Factor False Lash Effect Fusion  Mas'
 ---
 
 Está [Max Factor False Lash Effect Fusion  Mascara  Negro  13 1 ml](https://www.amazon.es/dp/B003ZIK7IY/?tag=tolees-21) con 70.05 de descuento por 5.93 EUR (original: 19.8 EUR) en el siguiente enlace!

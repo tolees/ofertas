@@ -17,6 +17,9 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'VIGAR - Escoba Acero - Ladybug | Escoba con Palo de diseño ligero y manejable - rosa y verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00C96QJFS/?tag=tolees-21'
+descuento: '51.37'
+titulo: 'VIGAR - Escoba Acero - Ladybug | Escoba '
 ---
 
 Tienes [VIGAR - Escoba Acero - Ladybug | Escoba con Palo de diseño ligero y manejable - rosa y verde](https://www.amazon.es/dp/B00C96QJFS/?tag=tolees-21) con un 51.37 % de descuento con precio de oferta de 11.16 EUR (original: 22.95 EUR) en el siguiente enlace!

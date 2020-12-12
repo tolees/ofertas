@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Go Walk 4  Zapatillas para Mujer  Blanco  White/Turquoise   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076T5SVFM/?tag=tolees-21'
+descuento: '50.09'
+titulo: 'Skechers Go Walk 4  Zapatillas para Muje'
 ---
 
 Tienes [Skechers Go Walk 4  Zapatillas para Mujer  Blanco  White/Turquoise   37.5 EU](https://www.amazon.es/dp/B076T5SVFM/?tag=tolees-21) con un 50.09 % de descuento con precio de oferta de 29.92 EUR (original: 59.95 EUR) en el siguiente enlace!

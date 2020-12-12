@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Rovic 3D Straight Tapered Pantalones  Marrón  dk Fall AO 8287   W35/L38  Talla del Fabricante: 3538  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGG57CN/?tag=tolees-21'
+descuento: '78.45'
+titulo: 'G-STAR RAW Rovic 3D Straight Tapered Pan'
 ---
 
 Está [G-STAR RAW Rovic 3D Straight Tapered Pantalones  Marrón  dk Fall AO 8287   W35/L38  Talla del Fabricante: 3538  para Hombre](https://www.amazon.es/dp/B07JGG57CN/?tag=tolees-21) con 78.45 de descuento por 21.54 EUR (original: 99.95 EUR) en el siguiente enlace!

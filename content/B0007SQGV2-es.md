@@ -17,6 +17,9 @@ comparePrice: 112.9 EUR
 inStock: true
 prodname: 'D-Link DGS-1016D/E - Switch 16 puertos Gigabit 1000 Mbps  LAN RJ-45  sin gestión  1000 Mbps por puerto  carcasa metálica  montaje en rack para pymes  negro y plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0007SQGV2/?tag=tolees-21'
+descuento: '44.21'
+titulo: 'D-Link DGS-1016D/E - Switch 16 puertos G'
 ---
 
 Tienes [D-Link DGS-1016D/E - Switch 16 puertos Gigabit 1000 Mbps  LAN RJ-45  sin gestión  1000 Mbps por puerto  carcasa metálica  montaje en rack para pymes  negro y plata](https://www.amazon.es/dp/B0007SQGV2/?tag=tolees-21) con un 44.21 % de descuento con precio de oferta de 62.99 EUR (original: 112.9 EUR) en el siguiente enlace!

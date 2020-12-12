@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'adidas X 17.2 FG  Botas de fútbol para Hombre  Negro  Negbas/Rojsol/Narsol   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071WLSQHP/?tag=tolees-21'
+descuento: '70.43'
+titulo: 'adidas X 17.2 FG  Botas de fútbol para H'
 ---
 
 Ahora mismo tienes [adidas X 17.2 FG  Botas de fútbol para Hombre  Negro  Negbas/Rojsol/Narsol   44 EU](https://www.amazon.es/dp/B071WLSQHP/?tag=tolees-21) a 38.43 EUR (original: 129.95 EUR) (70.43 %  de descuento) en el siguiente enlace!

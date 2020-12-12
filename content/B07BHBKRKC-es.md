@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Kipling - City Pack Mini  Mochilas Mujer  Varios colores  Soft Feather   14x27x29 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHBKRKC/?tag=tolees-21'
+descuento: '40.05'
+titulo: 'Kipling - City Pack Mini  Mochilas Mujer'
 ---
 
 Está [Kipling - City Pack Mini  Mochilas Mujer  Varios colores  Soft Feather   14x27x29 cm  B x H T ](https://www.amazon.es/dp/B07BHBKRKC/?tag=tolees-21) con 40.05 de descuento por 47.9 EUR (original: 79.9 EUR) en el siguiente enlace!

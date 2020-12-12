@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Auriculares Bluetooth 5.0  Manos Libres Bluetooth Auriculares con Estuche Cargador Portátil  Auriculares Bluetooth Telefono  Auriculares Bluetooth Inalambrico  Reproducción Total hasta 15 Horas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RX7FHJR/?tag=tolees-21'
+descuento: '25.64'
+titulo: 'Auriculares Bluetooth 5.0  Manos Libres '
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth 5.0  Manos Libres Bluetooth Auriculares con Estuche Cargador Portátil  Auriculares Bluetooth Telefono  Auriculares Bluetooth Inalambrico  Reproducción Total hasta 15 Horas](https://www.amazon.es/dp/B07RX7FHJR/?tag=tolees-21) a 29 EUR (original: 39 EUR) (25.64 %  de descuento) en el siguiente enlace!

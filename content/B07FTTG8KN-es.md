@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Scarlett  Vaqueros Skinny para Mujer  Rosa  Flamingo Wd   W32/L31'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTTG8KN/?tag=tolees-21'
+descuento: '77.50'
+titulo: 'Lee Scarlett  Vaqueros Skinny para Mujer'
 ---
 
 Tienes [Lee Scarlett  Vaqueros Skinny para Mujer  Rosa  Flamingo Wd   W32/L31](https://www.amazon.es/dp/B07FTTG8KN/?tag=tolees-21) con un 77.50 % de descuento con precio de oferta de 22.49 EUR (original: 99.95 EUR) en el siguiente enlace!

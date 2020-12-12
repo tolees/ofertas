@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Clarks Londonrain GTX  Botas para Mujer  Gris  Taupe Nubuck   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XC219TD/?tag=tolees-21'
+descuento: '72.24'
+titulo: 'Clarks Londonrain GTX  Botas para Mujer '
 ---
 
 Tienes [Clarks Londonrain GTX  Botas para Mujer  Gris  Taupe Nubuck   39.5 EU](https://www.amazon.es/dp/B06XC219TD/?tag=tolees-21) con un 72.24 % de descuento con precio de oferta de 44.42 EUR (original: 160 EUR) en el siguiente enlace!

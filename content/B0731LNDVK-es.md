@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Skechers Erupters II  Zapatillas para Niños  Negro  Black/Blue/Lime Bblm   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0731LNDVK/?tag=tolees-21'
+descuento: '37.71'
+titulo: 'Skechers Erupters II  Zapatillas para Ni'
 ---
 
 Ahora mismo tienes [Skechers Erupters II  Zapatillas para Niños  Negro  Black/Blue/Lime Bblm   32 EU](https://www.amazon.es/dp/B0731LNDVK/?tag=tolees-21) a 28 EUR (original: 44.95 EUR) (37.71 %  de descuento) en el siguiente enlace!

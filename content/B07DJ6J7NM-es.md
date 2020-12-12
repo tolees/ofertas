@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Geox U Kristof B  Zapatillas para Hombre  Azul  Navy C4002   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ6J7NM/?tag=tolees-21'
+descuento: '61.54'
+titulo: 'Geox U Kristof B  Zapatillas para Hombre'
 ---
 
 Ahora mismo tienes [Geox U Kristof B  Zapatillas para Hombre  Azul  Navy C4002   45 EU](https://www.amazon.es/dp/B07DJ6J7NM/?tag=tolees-21) a 44.23 EUR (original: 115 EUR) (61.54 %  de descuento) en el siguiente enlace!

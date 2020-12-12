@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Columbia Nelson Point Polo  Hombre  Azul  Mountain   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRMJLL7/?tag=tolees-21'
+descuento: '50.29'
+titulo: 'Columbia Nelson Point Polo  Hombre  Azul'
 ---
 
 Ahora mismo tienes [Columbia Nelson Point Polo  Hombre  Azul  Mountain   S](https://www.amazon.es/dp/B07KRMJLL7/?tag=tolees-21) a 24.85 EUR (original: 49.99 EUR) (50.29 %  de descuento) en el siguiente enlace!

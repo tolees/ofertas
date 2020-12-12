@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Reebok Club C 85 Patent  Zapatillas de Tenis para Mujer  Beige  Desert Dust/White 000   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TZ3PGG/?tag=tolees-21'
+descuento: '79.54'
+titulo: 'Reebok Club C 85 Patent  Zapatillas de T'
 ---
 
 Ahora mismo tienes [Reebok Club C 85 Patent  Zapatillas de Tenis para Mujer  Beige  Desert Dust/White 000   38 EU](https://www.amazon.es/dp/B077TZ3PGG/?tag=tolees-21) a 20.45 EUR (original: 99.95 EUR) (79.54 %  de descuento) en el siguiente enlace!

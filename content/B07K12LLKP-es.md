@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'adidas Copa 19.4 FG  Zapatillas de Fútbol para Hombre  Blanco Off White/Solar Red/Core Black  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K12LLKP/?tag=tolees-21'
+descuento: '41.22'
+titulo: 'adidas Copa 19.4 FG  Zapatillas de Fútbo'
 ---
 
 Está [adidas Copa 19.4 FG  Zapatillas de Fútbol para Hombre  Blanco Off White/Solar Red/Core Black  45 EU](https://www.amazon.es/dp/B07K12LLKP/?tag=tolees-21) con 41.22 de descuento por 26.42 EUR (original: 44.95 EUR) en el siguiente enlace!

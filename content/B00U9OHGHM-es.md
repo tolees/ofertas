@@ -17,6 +17,9 @@ comparePrice: 239 EUR
 inStock: true
 prodname: 'Reloj Nautica - Hombre NAI22507G'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U9OHGHM/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Reloj Nautica - Hombre NAI22507G'
 ---
 
 Tienes [Reloj Nautica - Hombre NAI22507G](https://www.amazon.es/dp/B00U9OHGHM/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 95.6 EUR (original: 239 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Belle Azul – PURE SWISS – Innovadora crema mascarilla de noche – 50ML – No necesita aclarado – Con Ácido Hialurónico y Células Madre de Argán'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0711RJHQ8/?tag=tolees-21'
+descuento: '43.48'
+titulo: 'Belle Azul – PURE SWISS – Innovadora cre'
 ---
 
 Ahora mismo tienes [Belle Azul – PURE SWISS – Innovadora crema mascarilla de noche – 50ML – No necesita aclarado – Con Ácido Hialurónico y Células Madre de Argán](https://www.amazon.es/dp/B0711RJHQ8/?tag=tolees-21) a 16.9 EUR (original: 29.9 EUR) (43.48 %  de descuento) en el siguiente enlace!

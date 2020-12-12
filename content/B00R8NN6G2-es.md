@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'MerrellALL out Terra Ice WTPF - Zapatillas de Running para Asfalto Hombre  Color Negro  Talla 45'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00R8NN6G2/?tag=tolees-21'
+descuento: '61.49'
+titulo: 'MerrellALL out Terra Ice WTPF - Zapatill'
 ---
 
 Está [MerrellALL out Terra Ice WTPF - Zapatillas de Running para Asfalto Hombre  Color Negro  Talla 45](https://www.amazon.es/dp/B00R8NN6G2/?tag=tolees-21) con 61.49 de descuento por 61.61 EUR (original: 160 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 111.15 EUR
 inStock: true
 prodname: 'Autopmall - Localizador GPS Solar para Mascotas con rastreador gsm  Impermeable  IP67  0.77  Color Solar Power Charge'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GTJ67R8/?tag=tolees-21'
+descuento: '28.50'
+titulo: 'Autopmall - Localizador GPS Solar para M'
 ---
 
 Está [Autopmall - Localizador GPS Solar para Mascotas con rastreador gsm  Impermeable  IP67  0.77  Color Solar Power Charge](https://www.amazon.es/dp/B07GTJ67R8/?tag=tolees-21) con 28.50 de descuento por 79.47 EUR (original: 111.15 EUR) en el siguiente enlace!

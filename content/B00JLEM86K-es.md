@@ -17,6 +17,9 @@ comparePrice: 182 EUR
 inStock: true
 prodname: 'Emporio Armani 5229T3 Gafas de sol  Black/Grey Rubber  56 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JLEM86K/?tag=tolees-21'
+descuento: '47.93'
+titulo: 'Emporio Armani 5229T3 Gafas de sol  Blac'
 ---
 
 Ahora mismo tienes [Emporio Armani 5229T3 Gafas de sol  Black/Grey Rubber  56 para Hombre](https://www.amazon.es/dp/B00JLEM86K/?tag=tolees-21) a 94.76 EUR (original: 182 EUR) (47.93 %  de descuento) en el siguiente enlace!

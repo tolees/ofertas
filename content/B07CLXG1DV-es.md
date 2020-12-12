@@ -17,6 +17,9 @@ comparePrice: 17.39 EUR
 inStock: true
 prodname: 'Astan Hogar Bristol Ventilador de Sobremesa y Clip 2 In 1  Azul / Blanco  Pequeño'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CLXG1DV/?tag=tolees-21'
+descuento: '42.78'
+titulo: 'Astan Hogar Bristol Ventilador de Sobrem'
 ---
 
 Ahora mismo tienes [Astan Hogar Bristol Ventilador de Sobremesa y Clip 2 In 1  Azul / Blanco  Pequeño](https://www.amazon.es/dp/B07CLXG1DV/?tag=tolees-21) a 9.95 EUR (original: 17.39 EUR) (42.78 %  de descuento) en el siguiente enlace!

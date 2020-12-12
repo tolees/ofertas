@@ -17,6 +17,9 @@ comparePrice: 21.9 EUR
 inStock: true
 prodname: 'Bosch 2609256B61 - Plato de soporte para discos abrasivos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BHBXUW6/?tag=tolees-21'
+descuento: '30.37'
+titulo: 'Bosch 2609256B61 - Plato de soporte para'
 ---
 
 Tienes [Bosch 2609256B61 - Plato de soporte para discos abrasivos](https://www.amazon.es/dp/B00BHBXUW6/?tag=tolees-21) con un 30.37 % de descuento con precio de oferta de 15.25 EUR (original: 21.9 EUR) en el siguiente enlace!

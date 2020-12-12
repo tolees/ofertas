@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Casio MS-20NC-PK-S-EC - Calculadora básica  con panel solar y batería  22 x 104.5 x 149.5 mm   color rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GNLF6QI/?tag=tolees-21'
+descuento: '69.97'
+titulo: 'Casio MS-20NC-PK-S-EC - Calculadora bási'
 ---
 
 Tienes [Casio MS-20NC-PK-S-EC - Calculadora básica  con panel solar y batería  22 x 104.5 x 149.5 mm   color rosa](https://www.amazon.es/dp/B00GNLF6QI/?tag=tolees-21) con un 69.97 % de descuento con precio de oferta de 3 EUR (original: 9.99 EUR) en el siguiente enlace!

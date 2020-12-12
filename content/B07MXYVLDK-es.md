@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: '10x42 Telescopio Monocular Compacto para Niños y Adultos. Portátil  de Alta Potencia. Resistente al Agua  con Estuche  Apto para Caminatas al Aire Libre  Conciertos  Camping y Bbservación de Aves'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MXYVLDK/?tag=tolees-21'
+descuento: '70.01'
+titulo: '10x42 Telescopio Monocular Compacto para'
 ---
 
 Está [10x42 Telescopio Monocular Compacto para Niños y Adultos. Portátil  de Alta Potencia. Resistente al Agua  con Estuche  Apto para Caminatas al Aire Libre  Conciertos  Camping y Bbservación de Aves](https://www.amazon.es/dp/B07MXYVLDK/?tag=tolees-21) con 70.01 de descuento por 17.99 EUR (original: 59.99 EUR) en el siguiente enlace!

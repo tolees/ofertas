@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Levi s The Perfect Tee  Camiseta para Mujer  Gris  Pattern Smokestack Htr 0315   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077VLL9NP/?tag=tolees-21'
+descuento: '42.04'
+titulo: 'Levi s The Perfect Tee  Camiseta para Mu'
 ---
 
 Ahora mismo tienes [Levi s The Perfect Tee  Camiseta para Mujer  Gris  Pattern Smokestack Htr 0315   Large](https://www.amazon.es/dp/B077VLL9NP/?tag=tolees-21) a 14.49 EUR (original: 25 EUR) (42.04 %  de descuento) en el siguiente enlace!

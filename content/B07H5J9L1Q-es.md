@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'URCERI Lijadora Eléctrica Orbital de 5 pulgadas  380w  6 velocidad variable de hasta 13000 rpm  con 12pcs papeles de lija  función de recoger polvo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H5J9L1Q/?tag=tolees-21'
+descuento: '32.62'
+titulo: 'URCERI Lijadora Eléctrica Orbital de 5 p'
 ---
 
 Está [URCERI Lijadora Eléctrica Orbital de 5 pulgadas  380w  6 velocidad variable de hasta 13000 rpm  con 12pcs papeles de lija  función de recoger polvo](https://www.amazon.es/dp/B07H5J9L1Q/?tag=tolees-21) con 32.62 de descuento por 30.99 EUR (original: 45.99 EUR) en el siguiente enlace!

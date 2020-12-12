@@ -17,6 +17,9 @@ comparePrice: 22.45 EUR
 inStock: true
 prodname: 'Lisciani – 53384 – Juegos Educatifs – la Granja – Carotina Baby'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BI7QMDW/?tag=tolees-21'
+descuento: '62.58'
+titulo: 'Lisciani – 53384 – Juegos Educatifs – la'
 ---
 
 Ahora mismo tienes [Lisciani – 53384 – Juegos Educatifs – la Granja – Carotina Baby](https://www.amazon.es/dp/B01BI7QMDW/?tag=tolees-21) a 8.4 EUR (original: 22.45 EUR) (62.58 %  de descuento) en el siguiente enlace!

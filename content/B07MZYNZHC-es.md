@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Munich Continental V2  Zapatillas de Deporte Unisex Adulto  Marrón  Amarillo 897   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZYNZHC/?tag=tolees-21'
+descuento: '28.35'
+titulo: 'Munich Continental V2  Zapatillas de Dep'
 ---
 
 Está [Munich Continental V2  Zapatillas de Deporte Unisex Adulto  Marrón  Amarillo 897   41 EU](https://www.amazon.es/dp/B07MZYNZHC/?tag=tolees-21) con 28.35 de descuento por 50.08 EUR (original: 69.9 EUR) en el siguiente enlace!

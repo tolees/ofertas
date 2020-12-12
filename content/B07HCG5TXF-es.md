@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Velcro Redondo 20 mm de Diámetro 500 Pares Monedas Autoadhesivo Pegajoso 1000 Piezas Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HCG5TXF/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Velcro Redondo 20 mm de Diámetro 500 Par'
 ---
 
 Tienes [Velcro Redondo 20 mm de Diámetro 500 Pares Monedas Autoadhesivo Pegajoso 1000 Piezas Blanco](https://www.amazon.es/dp/B07HCG5TXF/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 12.99 EUR (original: 25.99 EUR) en el siguiente enlace!

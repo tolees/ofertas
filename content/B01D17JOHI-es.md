@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Samsonite Paradiver Light  L  61cm-84L   Azul  Jeans Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01D17JOHI/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Samsonite Paradiver Light  L  61cm-84L  '
 ---
 
 Tienes [Samsonite Paradiver Light  L  61cm-84L   Azul  Jeans Azul ](https://www.amazon.es/dp/B01D17JOHI/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 54.5 EUR (original: 109 EUR) en el siguiente enlace!

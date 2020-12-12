@@ -17,6 +17,9 @@ comparePrice: 21.91 EUR
 inStock: true
 prodname: 'Laiwodun Skin Shoes descalzo acuático Aqua calcetines para de nadada de la playa de la resaca de la yoga'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074CST1NH/?tag=tolees-21'
+descuento: '64.17'
+titulo: 'Laiwodun Skin Shoes descalzo acuático Aq'
 ---
 
 Tienes [Laiwodun Skin Shoes descalzo acuático Aqua calcetines para de nadada de la playa de la resaca de la yoga](https://www.amazon.es/dp/B074CST1NH/?tag=tolees-21) con un 64.17 % de descuento con precio de oferta de 7.85 EUR (original: 21.91 EUR) en el siguiente enlace!

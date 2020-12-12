@@ -17,6 +17,9 @@ comparePrice: 259.99 EUR
 inStock: true
 prodname: 'Blackview BV5800 - Movil Antigolpes  5.5 Pulgadas 18: 9 FHD  2GB RAM + 16GB ROM  13MP + 8MP Cámara  Smartphone Android 8.1 Oreo  Batería 5580 mAh  Dual LTE 4G  NFC  OTG  GPS  Amarillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQD6PJ3/?tag=tolees-21'
+descuento: '38.46'
+titulo: 'Blackview BV5800 - Movil Antigolpes  5.5'
 ---
 
 Está [Blackview BV5800 - Movil Antigolpes  5.5 Pulgadas 18: 9 FHD  2GB RAM + 16GB ROM  13MP + 8MP Cámara  Smartphone Android 8.1 Oreo  Batería 5580 mAh  Dual LTE 4G  NFC  OTG  GPS  Amarillo](https://www.amazon.es/dp/B07DQD6PJ3/?tag=tolees-21) con 38.46 de descuento por 159.99 EUR (original: 259.99 EUR) en el siguiente enlace!

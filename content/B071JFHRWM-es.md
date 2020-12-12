@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Reebok Sublite Xt Cushion 2.0 Mt  Zapatillas de Running Mujer  Morado  Lilac Shadow / Fresh Blue / White / Pewter   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JFHRWM/?tag=tolees-21'
+descuento: '56.48'
+titulo: 'Reebok Sublite Xt Cushion 2.0 Mt  Zapati'
 ---
 
 Ahora mismo tienes [Reebok Sublite Xt Cushion 2.0 Mt  Zapatillas de Running Mujer  Morado  Lilac Shadow / Fresh Blue / White / Pewter   36 EU](https://www.amazon.es/dp/B071JFHRWM/?tag=tolees-21) a 26.09 EUR (original: 59.95 EUR) (56.48 %  de descuento) en el siguiente enlace!

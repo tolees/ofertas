@@ -17,6 +17,9 @@ comparePrice: 28.67 EUR
 inStock: true
 prodname: 'Caja De Música  Noria Musical  Music Box Parque De Atracciones Para Niños 3 4 5 6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CMBFZZT/?tag=tolees-21'
+descuento: '45.34'
+titulo: 'Caja De Música  Noria Musical  Music Box'
 ---
 
 Está [Caja De Música  Noria Musical  Music Box Parque De Atracciones Para Niños 3 4 5 6](https://www.amazon.es/dp/B07CMBFZZT/?tag=tolees-21) con 45.34 de descuento por 15.67 EUR (original: 28.67 EUR) en el siguiente enlace!

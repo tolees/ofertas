@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Geox U Kaven C  Zapatillas para Hombre  Azul  Navy/Brown C0948   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ6RHFP/?tag=tolees-21'
+descuento: '62.30'
+titulo: 'Geox U Kaven C  Zapatillas para Hombre  '
 ---
 
 Está [Geox U Kaven C  Zapatillas para Hombre  Azul  Navy/Brown C0948   45 EU](https://www.amazon.es/dp/B07DJ6RHFP/?tag=tolees-21) con 62.30 de descuento por 37.66 EUR (original: 99.9 EUR) en el siguiente enlace!

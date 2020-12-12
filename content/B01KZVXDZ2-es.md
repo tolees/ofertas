@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Stafford Park5  Zapatos de Cordones Derby para Hombre  Negro  Black Nubuck   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KZVXDZ2/?tag=tolees-21'
+descuento: '40.07'
+titulo: 'Clarks Stafford Park5  Zapatos de Cordon'
 ---
 
 Tienes [Clarks Stafford Park5  Zapatos de Cordones Derby para Hombre  Negro  Black Nubuck   45 EU](https://www.amazon.es/dp/B01KZVXDZ2/?tag=tolees-21) con un 40.07 % de descuento con precio de oferta de 59.9 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Marvel Camiseta Manga Corta Core Logo Blanco XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01A5O8SYK/?tag=tolees-21'
+descuento: '55.70'
+titulo: 'Marvel Camiseta Manga Corta Core Logo Bl'
 ---
 
 Ahora mismo tienes [Marvel Camiseta Manga Corta Core Logo Blanco XL](https://www.amazon.es/dp/B01A5O8SYK/?tag=tolees-21) a 13.73 EUR (original: 30.99 EUR) (55.70 %  de descuento) en el siguiente enlace!

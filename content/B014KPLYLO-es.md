@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Reebok Tube de Resistencia - Medio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014KPLYLO/?tag=tolees-21'
+descuento: '38.80'
+titulo: 'Reebok Tube de Resistencia - Medio'
 ---
 
 Ahora mismo tienes [Reebok Tube de Resistencia - Medio](https://www.amazon.es/dp/B014KPLYLO/?tag=tolees-21) a 7.95 EUR (original: 12.99 EUR) (38.80 %  de descuento) en el siguiente enlace!

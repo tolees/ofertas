@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'adidas Altasport Cf K  Zapatillas de Deporte Interior Unisex Niño  Blanco  Ftwr blanco /rosa / ftwr blanco   39 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5JTMAT/?tag=tolees-21'
+descuento: '43.06'
+titulo: 'adidas Altasport Cf K  Zapatillas de Dep'
 ---
 
 Tienes [adidas Altasport Cf K  Zapatillas de Deporte Interior Unisex Niño  Blanco  Ftwr blanco /rosa / ftwr blanco   39 1/3 EU](https://www.amazon.es/dp/B01N5JTMAT/?tag=tolees-21) con un 43.06 % de descuento con precio de oferta de 19.9 EUR (original: 34.95 EUR) en el siguiente enlace!

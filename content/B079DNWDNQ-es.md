@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'EISFEU Lámpara LED de techo moderna 24W  Plafón led de techo redonda  Luz de baño  Luz de cocina  Luz de dormitorio  Blanco 4000K Ø330mm 2050Lumens [Clase de eficiencia energética A++]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079DNWDNQ/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'EISFEU Lámpara LED de techo moderna 24W '
 ---
 
 Está [EISFEU Lámpara LED de techo moderna 24W  Plafón led de techo redonda  Luz de baño  Luz de cocina  Luz de dormitorio  Blanco 4000K Ø330mm 2050Lumens [Clase de eficiencia energética A++]](https://www.amazon.es/dp/B079DNWDNQ/?tag=tolees-21) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

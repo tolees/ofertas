@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Reebok Royal Complete 2Ll  Zapatillas de Tenis para Hombre  Negro  Black/White/Riot Red 000   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HXU26X8/?tag=tolees-21'
+descuento: '47.54'
+titulo: 'Reebok Royal Complete 2Ll  Zapatillas de'
 ---
 
 Ahora mismo tienes [Reebok Royal Complete 2Ll  Zapatillas de Tenis para Hombre  Negro  Black/White/Riot Red 000   46 EU](https://www.amazon.es/dp/B01HXU26X8/?tag=tolees-21) a 31.45 EUR (original: 59.95 EUR) (47.54 %  de descuento) en el siguiente enlace!

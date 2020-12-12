@@ -17,6 +17,9 @@ comparePrice: 33 EUR
 inStock: true
 prodname: 'Under Armour Tech Short 2.0 Twist Pantalones Cortos  Mujer  Negro  Black   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FX1PDWK/?tag=tolees-21'
+descuento: '41.58'
+titulo: 'Under Armour Tech Short 2.0 Twist Pantal'
 ---
 
 Ahora mismo tienes [Under Armour Tech Short 2.0 Twist Pantalones Cortos  Mujer  Negro  Black   XS](https://www.amazon.es/dp/B01FX1PDWK/?tag=tolees-21) a 19.28 EUR (original: 33 EUR) (41.58 %  de descuento) en el siguiente enlace!

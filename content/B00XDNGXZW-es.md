@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Uhlsport Center Basic II Pantalones Cortos  Infantil  Azul  Celeste   116'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XDNGXZW/?tag=tolees-21'
+descuento: '54.20'
+titulo: 'Uhlsport Center Basic II Pantalones Cort'
 ---
 
 Tienes [Uhlsport Center Basic II Pantalones Cortos  Infantil  Azul  Celeste   116](https://www.amazon.es/dp/B00XDNGXZW/?tag=tolees-21) con un 54.20 % de descuento con precio de oferta de 5.95 EUR (original: 12.99 EUR) en el siguiente enlace!

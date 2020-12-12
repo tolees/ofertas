@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Marmot 41260-001-5 Pantalón con Cremallera  Hombre  Negro  Schwarz   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000FDWHKI/?tag=tolees-21'
+descuento: '72.00'
+titulo: 'Marmot 41260-001-5 Pantalón con Cremalle'
 ---
 
 Tienes [Marmot 41260-001-5 Pantalón con Cremallera  Hombre  Negro  Schwarz   L](https://www.amazon.es/dp/B000FDWHKI/?tag=tolees-21) con un 72.00 % de descuento con precio de oferta de 28 EUR (original: 100 EUR) en el siguiente enlace!

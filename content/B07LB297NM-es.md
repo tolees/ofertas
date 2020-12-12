@@ -17,6 +17,9 @@ comparePrice: 39.69 EUR
 inStock: true
 prodname: 'Louviva Masajeador - 3D Realístita  Médica de silicona  Fácil de Lavar  Cup para Hombres'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LB297NM/?tag=tolees-21'
+descuento: '65.51'
+titulo: 'Louviva Masajeador - 3D Realístita  Médi'
 ---
 
 Está [Louviva Masajeador - 3D Realístita  Médica de silicona  Fácil de Lavar  Cup para Hombres](https://www.amazon.es/dp/B07LB297NM/?tag=tolees-21) con 65.51 de descuento por 13.69 EUR (original: 39.69 EUR) en el siguiente enlace!

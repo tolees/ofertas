@@ -17,6 +17,9 @@ comparePrice: 64.99 EUR
 inStock: true
 prodname: 'Joseph Joseph Tablas de Cortar  Grafito  Mediano  4 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NANIS10/?tag=tolees-21'
+descuento: '35.16'
+titulo: 'Joseph Joseph Tablas de Cortar  Grafito '
 ---
 
 Ahora mismo tienes [Joseph Joseph Tablas de Cortar  Grafito  Mediano  4 Unidades](https://www.amazon.es/dp/B01NANIS10/?tag=tolees-21) a 42.14 EUR (original: 64.99 EUR) (35.16 %  de descuento) en el siguiente enlace!

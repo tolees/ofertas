@@ -17,6 +17,9 @@ comparePrice: 29.89 EUR
 inStock: true
 prodname: 'Laimew no perfora el estante del baño  estante de ducha pegajoso de aluminio de la grieta de 2 niveles con el gancho colgante para el champú'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0761WH2DC/?tag=tolees-21'
+descuento: '26.76'
+titulo: 'Laimew no perfora el estante del baño  e'
 ---
 
 Está [Laimew no perfora el estante del baño  estante de ducha pegajoso de aluminio de la grieta de 2 niveles con el gancho colgante para el champú](https://www.amazon.es/dp/B0761WH2DC/?tag=tolees-21) con 26.76 de descuento por 21.89 EUR (original: 29.89 EUR) en el siguiente enlace!

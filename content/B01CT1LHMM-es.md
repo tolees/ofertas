@@ -17,6 +17,9 @@ comparePrice: 53 EUR
 inStock: true
 prodname: 'Adolfo Dominguez 10-07507 Agua Fresca Extreme  3 Piezas  Eau de Toilette 120 ml  Loción para Después del Afeitado 75 ml  Deodorante Spray 150 ml '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CT1LHMM/?tag=tolees-21'
+descuento: '41.23'
+titulo: 'Adolfo Dominguez 10-07507 Agua Fresca Ex'
 ---
 
 Ahora mismo tienes [Adolfo Dominguez 10-07507 Agua Fresca Extreme  3 Piezas  Eau de Toilette 120 ml  Loción para Después del Afeitado 75 ml  Deodorante Spray 150 ml ](https://www.amazon.es/dp/B01CT1LHMM/?tag=tolees-21) a 31.15 EUR (original: 53 EUR) (41.23 %  de descuento) en el siguiente enlace!

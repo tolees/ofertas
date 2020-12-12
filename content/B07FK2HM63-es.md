@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Gioseppo 46224-P  Botas Camperas para Mujer  Negro  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FK2HM63/?tag=tolees-21'
+descuento: '70.84'
+titulo: 'Gioseppo 46224-P  Botas Camperas para Mu'
 ---
 
 Tienes [Gioseppo 46224-P  Botas Camperas para Mujer  Negro  39 EU](https://www.amazon.es/dp/B07FK2HM63/?tag=tolees-21) con un 70.84 % de descuento con precio de oferta de 24.77 EUR (original: 84.95 EUR) en el siguiente enlace!

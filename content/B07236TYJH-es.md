@@ -17,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'Superdry G50020YP Chaqueta Deportiva  Negro  Black Cream Borg     Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07236TYJH/?tag=tolees-21'
+descuento: '80.37'
+titulo: 'Superdry G50020YP Chaqueta Deportiva  Ne'
 ---
 
 Tienes [Superdry G50020YP Chaqueta Deportiva  Negro  Black Cream Borg     Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07236TYJH/?tag=tolees-21) con un 80.37 % de descuento con precio de oferta de 35.13 EUR (original: 179 EUR) en el siguiente enlace!

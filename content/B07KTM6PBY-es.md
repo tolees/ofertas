@@ -17,6 +17,9 @@ comparePrice: 178 EUR
 inStock: true
 prodname: 'Versace Jeans Couture - Bag  Mujer  Negro  Nero   13x30x31 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTM6PBY/?tag=tolees-21'
+descuento: '48.58'
+titulo: 'Versace Jeans Couture - Bag  Mujer  Negr'
 ---
 
 Está [Versace Jeans Couture - Bag  Mujer  Negro  Nero   13x30x31 cm  W x H L ](https://www.amazon.es/dp/B07KTM6PBY/?tag=tolees-21) con 48.58 de descuento por 91.53 EUR (original: 178 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 250 EUR
 inStock: true
 prodname: 'roba-kids - Cama palacio real  multicolor  roba Baumann 20330 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076LYVWRQ/?tag=tolees-21'
+descuento: '54.30'
+titulo: 'roba-kids - Cama palacio real  multicolo'
 ---
 
 Está [roba-kids - Cama palacio real  multicolor  roba Baumann 20330 ](https://www.amazon.es/dp/B076LYVWRQ/?tag=tolees-21) con 54.30 de descuento por 114.25 EUR (original: 250 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'bugatti 3.42658E+11  Zapatillas para Hombre  Negro  Schwarz 1000   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D3BGH7W/?tag=tolees-21'
+descuento: '61.80'
+titulo: 'bugatti 3.42658E+11  Zapatillas para Hom'
 ---
 
 Ahora mismo tienes [bugatti 3.42658E+11  Zapatillas para Hombre  Negro  Schwarz 1000   42 EU](https://www.amazon.es/dp/B07D3BGH7W/?tag=tolees-21) a 26.72 EUR (original: 69.95 EUR) (61.80 %  de descuento) en el siguiente enlace!

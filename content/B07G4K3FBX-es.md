@@ -17,6 +17,9 @@ comparePrice: 33.43 EUR
 inStock: true
 prodname: 'Curtina - Cortinas con Ojales  100% poliéster  Color Ocre  117 cm de Ancho x 137 cm de Largo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4K3FBX/?tag=tolees-21'
+descuento: '79.87'
+titulo: 'Curtina - Cortinas con Ojales  100% poli'
 ---
 
 Ahora mismo tienes [Curtina - Cortinas con Ojales  100% poliéster  Color Ocre  117 cm de Ancho x 137 cm de Largo](https://www.amazon.es/dp/B07G4K3FBX/?tag=tolees-21) a 6.73 EUR (original: 33.43 EUR) (79.87 %  de descuento) en el siguiente enlace!

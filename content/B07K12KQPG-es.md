@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Blanco  Ftwr White/Light Pink/Core Black Ftwr White/Light Pink/Core Black   37 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K12KQPG/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'Adidas N-5923 J Zapatillas de Gimnasia U'
 ---
 
 Está [Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Blanco  Ftwr White/Light Pink/Core Black Ftwr White/Light Pink/Core Black   37 1/3 EU](https://www.amazon.es/dp/B07K12KQPG/?tag=tolees-21) con 49.99 de descuento por 32.48 EUR (original: 64.95 EUR) en el siguiente enlace!

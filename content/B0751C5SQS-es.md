@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Swarovski Collar Dear  Mediano  Blanco  baño de Oro Rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0751C5SQS/?tag=tolees-21'
+descuento: '29.34'
+titulo: 'Swarovski Collar Dear  Mediano  Blanco  '
 ---
 
 Tienes [Swarovski Collar Dear  Mediano  Blanco  baño de Oro Rosa](https://www.amazon.es/dp/B0751C5SQS/?tag=tolees-21) con un 29.34 % de descuento con precio de oferta de 69.95 EUR (original: 99 EUR) en el siguiente enlace!

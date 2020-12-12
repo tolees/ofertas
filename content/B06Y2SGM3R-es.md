@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Geox D New Virna H  Botas Chelsea para Mujer  Marrón  Mud   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y2SGM3R/?tag=tolees-21'
+descuento: '67.84'
+titulo: 'Geox D New Virna H  Botas Chelsea para M'
 ---
 
 Ahora mismo tienes [Geox D New Virna H  Botas Chelsea para Mujer  Marrón  Mud   37 EU](https://www.amazon.es/dp/B06Y2SGM3R/?tag=tolees-21) a 35.34 EUR (original: 109.9 EUR) (67.84 %  de descuento) en el siguiente enlace!

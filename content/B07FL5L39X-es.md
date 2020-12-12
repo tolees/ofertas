@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Superdry Ribbed Crew suéter  Azul  Academy Navy Jvj   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FL5L39X/?tag=tolees-21'
+descuento: '51.56'
+titulo: 'Superdry Ribbed Crew suéter  Azul  Acade'
 ---
 
 Tienes [Superdry Ribbed Crew suéter  Azul  Academy Navy Jvj   X-Large para Hombre](https://www.amazon.es/dp/B07FL5L39X/?tag=tolees-21) con un 51.56 % de descuento con precio de oferta de 46.02 EUR (original: 95 EUR) en el siguiente enlace!

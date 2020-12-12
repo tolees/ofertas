@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Invicta 8942 Pro Diver Reloj para Mujer acero inoxidable Cuarzo Esfera azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000GX3ILO/?tag=tolees-21'
+descuento: '34.03'
+titulo: 'Invicta 8942 Pro Diver Reloj para Mujer '
 ---
 
 Tienes [Invicta 8942 Pro Diver Reloj para Mujer acero inoxidable Cuarzo Esfera azul](https://www.amazon.es/dp/B000GX3ILO/?tag=tolees-21) con un 34.03 % de descuento con precio de oferta de 62.67 EUR (original: 95 EUR) en el siguiente enlace!

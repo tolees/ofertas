@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Simon & Tom - Serum nutritivo para controlar el encrespamiento y el pelo rizado - 100ML - Con Aceite de Argán Orgánico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NBKJEN7/?tag=tolees-21'
+descuento: '67.67'
+titulo: 'Simon & Tom - Serum nutritivo para contr'
 ---
 
 Ahora mismo tienes [Simon & Tom - Serum nutritivo para controlar el encrespamiento y el pelo rizado - 100ML - Con Aceite de Argán Orgánico](https://www.amazon.es/dp/B01NBKJEN7/?tag=tolees-21) a 12.9 EUR (original: 39.9 EUR) (67.67 %  de descuento) en el siguiente enlace!

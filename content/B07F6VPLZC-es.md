@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Bollé Sierra Máscaras  Unisex Adulto  Blanco/Rosa  S/M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F6VPLZC/?tag=tolees-21'
+descuento: '37.02'
+titulo: 'Bollé Sierra Máscaras  Unisex Adulto  Bl'
 ---
 
 Está [Bollé Sierra Máscaras  Unisex Adulto  Blanco/Rosa  S/M](https://www.amazon.es/dp/B07F6VPLZC/?tag=tolees-21) con 37.02 de descuento por 30.86 EUR (original: 49 EUR) en el siguiente enlace!

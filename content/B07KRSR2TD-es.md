@@ -17,6 +17,9 @@ comparePrice: 311.25 EUR
 inStock: true
 prodname: 'GTPLAYER Silla Gaming Música de Patente  Garantía de 1 año  Bluetooth  Altavoz de Sonido Envolvente Diseño Ergonómico  Reposabrazos Ajustables  Respaldo Reclinable 160°   Color Azúl'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRSR2TD/?tag=tolees-21'
+descuento: '38.96'
+titulo: 'GTPLAYER Silla Gaming Música de Patente '
 ---
 
 Tienes [GTPLAYER Silla Gaming Música de Patente  Garantía de 1 año  Bluetooth  Altavoz de Sonido Envolvente Diseño Ergonómico  Reposabrazos Ajustables  Respaldo Reclinable 160°   Color Azúl](https://www.amazon.es/dp/B07KRSR2TD/?tag=tolees-21) con un 38.96 % de descuento con precio de oferta de 189.99 EUR (original: 311.25 EUR) en el siguiente enlace!

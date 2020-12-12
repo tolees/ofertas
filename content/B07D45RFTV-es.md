@@ -17,6 +17,9 @@ comparePrice: 21.95 EUR
 inStock: true
 prodname: 'Prime Socks Calcetines hombre y mujer - 10 pares'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D45RFTV/?tag=tolees-21'
+descuento: '45.56'
+titulo: 'Prime Socks Calcetines hombre y mujer - '
 ---
 
 Está [Prime Socks Calcetines hombre y mujer - 10 pares](https://www.amazon.es/dp/B07D45RFTV/?tag=tolees-21) con 45.56 de descuento por 11.95 EUR (original: 21.95 EUR) en el siguiente enlace!

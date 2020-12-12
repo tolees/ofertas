@@ -17,6 +17,9 @@ comparePrice: 86.8 EUR
 inStock: true
 prodname: 'Grisport - Botas de cuero para hombre  Marrón  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002IIEAI0/?tag=tolees-21'
+descuento: '45.67'
+titulo: 'Grisport - Botas de cuero para hombre  M'
 ---
 
 Ahora mismo tienes [Grisport - Botas de cuero para hombre  Marrón  44 EU](https://www.amazon.es/dp/B002IIEAI0/?tag=tolees-21) a 47.16 EUR (original: 86.8 EUR) (45.67 %  de descuento) en el siguiente enlace!

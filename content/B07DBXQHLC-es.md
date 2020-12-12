@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Zeta Suede  Zapatillas Unisex Adulto  Blanco White-Glacier Gray  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBXQHLC/?tag=tolees-21'
+descuento: '69.87'
+titulo: 'Puma Zeta Suede  Zapatillas Unisex Adult'
 ---
 
 Está [Puma Zeta Suede  Zapatillas Unisex Adulto  Blanco White-Glacier Gray  41 EU](https://www.amazon.es/dp/B07DBXQHLC/?tag=tolees-21) con 69.87 de descuento por 27.1 EUR (original: 89.95 EUR) en el siguiente enlace!

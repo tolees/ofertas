@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma A.C.E. Slogan Tank Top  Mujer  Laurel Wreath  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFQCML6/?tag=tolees-21'
+descuento: '30.72'
+titulo: 'Puma A.C.E. Slogan Tank Top  Mujer  Laur'
 ---
 
 Está [Puma A.C.E. Slogan Tank Top  Mujer  Laurel Wreath  S](https://www.amazon.es/dp/B07DFQCML6/?tag=tolees-21) con 30.72 de descuento por 20.75 EUR (original: 29.95 EUR) en el siguiente enlace!

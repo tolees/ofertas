@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'FIND Camiseta Ciclismo Hombre  Azul  Maritime Blue/acid Lime   52  Talla del fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0779X1DVT/?tag=tolees-21'
+descuento: '41.86'
+titulo: 'FIND Camiseta Ciclismo Hombre  Azul  Mar'
 ---
 
 Tienes [FIND Camiseta Ciclismo Hombre  Azul  Maritime Blue/acid Lime   52  Talla del fabricante: Large ](https://www.amazon.es/dp/B0779X1DVT/?tag=tolees-21) con un 41.86 % de descuento con precio de oferta de 12.79 EUR (original: 22 EUR) en el siguiente enlace!

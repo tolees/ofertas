@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Puma Platform Mid  Zapatillas para Mujer  Negro Black  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072HYND59/?tag=tolees-21'
+descuento: '80.35'
+titulo: 'Puma Platform Mid  Zapatillas para Mujer'
 ---
 
 Ahora mismo tienes [Puma Platform Mid  Zapatillas para Mujer  Negro Black  39 EU](https://www.amazon.es/dp/B072HYND59/?tag=tolees-21) a 25.54 EUR (original: 129.95 EUR) (80.35 %  de descuento) en el siguiente enlace!

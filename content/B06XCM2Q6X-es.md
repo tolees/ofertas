@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Cortefiel 8880700  Vaquero para Mujer  Azul  ES 36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCM2Q6X/?tag=tolees-21'
+descuento: '66.79'
+titulo: 'Cortefiel 8880700  Vaquero para Mujer  A'
 ---
 
 Ahora mismo tienes [Cortefiel 8880700  Vaquero para Mujer  Azul  ES 36](https://www.amazon.es/dp/B06XCM2Q6X/?tag=tolees-21) a 13.28 EUR (original: 39.99 EUR) (66.79 %  de descuento) en el siguiente enlace!

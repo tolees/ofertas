@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Adidas CF ADV Adapt  Zapatillas de Deporte para Hombre  Negro Negbas/Ftwbla 000  46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RKVZK5/?tag=tolees-21'
+descuento: '60.17'
+titulo: 'Adidas CF ADV Adapt  Zapatillas de Depor'
 ---
 
 Tienes [Adidas CF ADV Adapt  Zapatillas de Deporte para Hombre  Negro Negbas/Ftwbla 000  46 EU](https://www.amazon.es/dp/B073RKVZK5/?tag=tolees-21) con un 60.17 % de descuento con precio de oferta de 27.86 EUR (original: 69.95 EUR) en el siguiente enlace!

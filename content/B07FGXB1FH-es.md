@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta Impermeable con Capucha para Mujer  Powder Lite Hooded  Beige  Light Cloud   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FGXB1FH/?tag=tolees-21'
+descuento: '65.82'
+titulo: 'Columbia Chaqueta Impermeable con Capuch'
 ---
 
 Ahora mismo tienes [Columbia Chaqueta Impermeable con Capucha para Mujer  Powder Lite Hooded  Beige  Light Cloud   XS](https://www.amazon.es/dp/B07FGXB1FH/?tag=tolees-21) a 44.43 EUR (original: 129.99 EUR) (65.82 %  de descuento) en el siguiente enlace!

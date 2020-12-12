@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Superdry M50003wr  Chaqueta Deportiva para Hombre  Gris  Charcoal Herringbone/Black Uo9  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNBBZCN/?tag=tolees-21'
+descuento: '65.57'
+titulo: 'Superdry M50003wr  Chaqueta Deportiva pa'
 ---
 
 Está [Superdry M50003wr  Chaqueta Deportiva para Hombre  Gris  Charcoal Herringbone/Black Uo9  Medium](https://www.amazon.es/dp/B07FNBBZCN/?tag=tolees-21) con 65.57 de descuento por 37.84 EUR (original: 109.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 7.09 EUR
 inStock: true
 prodname: 'Arm & Hammer Toothpaste'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00D2JM1UI/?tag=tolees-21'
+descuento: '30.75'
+titulo: 'Arm & Hammer Toothpaste'
 ---
 
 Tienes [Arm & Hammer Toothpaste](https://www.amazon.es/dp/B00D2JM1UI/?tag=tolees-21) con un 30.75 % de descuento con precio de oferta de 4.91 EUR (original: 7.09 EUR) en el siguiente enlace!

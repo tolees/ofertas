@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Under Armour Men s Heathered Blitzing 3.0 Gorra  Hombre  Negro  001   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0716YCZ7X/?tag=tolees-21'
+descuento: '50.20'
+titulo: 'Under Armour Men s Heathered Blitzing 3.'
 ---
 
 Tienes [Under Armour Men s Heathered Blitzing 3.0 Gorra  Hombre  Negro  001   M](https://www.amazon.es/dp/B0716YCZ7X/?tag=tolees-21) con un 50.20 % de descuento con precio de oferta de 11.45 EUR (original: 22.99 EUR) en el siguiente enlace!

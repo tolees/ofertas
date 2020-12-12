@@ -17,6 +17,9 @@ comparePrice: 63.15 EUR
 inStock: true
 prodname: 'Comfortfüße Zuecos Kelly Rojo EU 35'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BNOLZCI/?tag=tolees-21'
+descuento: '81.05'
+titulo: 'Comfortfüße Zuecos Kelly Rojo EU 35'
 ---
 
 Está [Comfortfüße Zuecos Kelly Rojo EU 35](https://www.amazon.es/dp/B01BNOLZCI/?tag=tolees-21) con 81.05 de descuento por 11.97 EUR (original: 63.15 EUR) en el siguiente enlace!

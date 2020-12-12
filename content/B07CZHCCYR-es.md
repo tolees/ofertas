@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Under Armour Men s Blitzing 3.0 Cap Gorra  Hombre  Rojo Aruba Red/COHO 651  M/L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZHCCYR/?tag=tolees-21'
+descuento: '50.20'
+titulo: 'Under Armour Men s Blitzing 3.0 Cap Gorr'
 ---
 
 Está [Under Armour Men s Blitzing 3.0 Cap Gorra  Hombre  Rojo Aruba Red/COHO 651  M/L](https://www.amazon.es/dp/B07CZHCCYR/?tag=tolees-21) con 50.20 de descuento por 11.45 EUR (original: 22.99 EUR) en el siguiente enlace!

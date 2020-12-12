@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Baseball Collar Slim Polo  Polo Hombre  Blanco  Bright White 100   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFLY5HZ/?tag=tolees-21'
+descuento: '67.71'
+titulo: 'Tommy Hilfiger Baseball Collar Slim Polo'
 ---
 
 Tienes [Tommy Hilfiger Baseball Collar Slim Polo  Polo Hombre  Blanco  Bright White 100   X-Large](https://www.amazon.es/dp/B07HFLY5HZ/?tag=tolees-21) con un 67.71 % de descuento con precio de oferta de 29.03 EUR (original: 89.9 EUR) en el siguiente enlace!

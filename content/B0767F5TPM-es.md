@@ -17,6 +17,9 @@ comparePrice: 14.94 EUR
 inStock: true
 prodname: 'Rexona Desodorante Antitranspirante Aqua 200ml Pack de 6: 1200ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0767F5TPM/?tag=tolees-21'
+descuento: '32.06'
+titulo: 'Rexona Desodorante Antitranspirante Aqua'
 ---
 
 Está [Rexona Desodorante Antitranspirante Aqua 200ml Pack de 6: 1200ml](https://www.amazon.es/dp/B0767F5TPM/?tag=tolees-21) con 32.06 de descuento por 10.15 EUR (original: 14.94 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 114 EUR
 inStock: true
 prodname: 'ROYAL SMEELA Vestido de Gatsby Mujer 1920s Estilo Vintage Art Deco Lentejuela Cachemir Joven a la Moda Borla Vestido de Fiesta Glamour Fiesta temática Vestidos Formales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MV3NRRK/?tag=tolees-21'
+descuento: '59.66'
+titulo: 'ROYAL SMEELA Vestido de Gatsby Mujer 192'
 ---
 
 Está [ROYAL SMEELA Vestido de Gatsby Mujer 1920s Estilo Vintage Art Deco Lentejuela Cachemir Joven a la Moda Borla Vestido de Fiesta Glamour Fiesta temática Vestidos Formales](https://www.amazon.es/dp/B07MV3NRRK/?tag=tolees-21) con 59.66 de descuento por 45.99 EUR (original: 114 EUR) en el siguiente enlace!

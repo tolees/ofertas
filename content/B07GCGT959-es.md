@@ -17,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'iRegro 35L Mochila Plegable 300D Nylon Resistente al Agua Ligero Mochila Impermeable Senderismo para Acampar al Aire Libre Caminar Ciclismo Deportes Excursiones de un Día'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GCGT959/?tag=tolees-21'
+descuento: '48.66'
+titulo: 'iRegro 35L Mochila Plegable 300D Nylon R'
 ---
 
 Tienes [iRegro 35L Mochila Plegable 300D Nylon Resistente al Agua Ligero Mochila Impermeable Senderismo para Acampar al Aire Libre Caminar Ciclismo Deportes Excursiones de un Día](https://www.amazon.es/dp/B07GCGT959/?tag=tolees-21) con un 48.66 % de descuento con precio de oferta de 18.99 EUR (original: 36.99 EUR) en el siguiente enlace!

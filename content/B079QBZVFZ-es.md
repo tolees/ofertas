@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'edc by Esprit 048cc1k078 Camiseta   Light Pink 690   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QBZVFZ/?tag=tolees-21'
+descuento: '53.67'
+titulo: 'edc by Esprit 048cc1k078 Camiseta   Ligh'
 ---
 
 Está [edc by Esprit 048cc1k078 Camiseta   Light Pink 690   Large para Mujer](https://www.amazon.es/dp/B079QBZVFZ/?tag=tolees-21) con 53.67 de descuento por 12.04 EUR (original: 25.99 EUR) en el siguiente enlace!

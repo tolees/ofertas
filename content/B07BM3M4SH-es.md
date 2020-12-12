@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Wrangler Texas Contrast  Jeans para Hombre  Azul  Indigo Wit 25F  32W / 34L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BM3M4SH/?tag=tolees-21'
+descuento: '60.04'
+titulo: 'Wrangler Texas Contrast  Jeans para Homb'
 ---
 
 Ahora mismo tienes [Wrangler Texas Contrast  Jeans para Hombre  Azul  Indigo Wit 25F  32W / 34L](https://www.amazon.es/dp/B07BM3M4SH/?tag=tolees-21) a 33.95 EUR (original: 84.95 EUR) (60.04 %  de descuento) en el siguiente enlace!

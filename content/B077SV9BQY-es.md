@@ -17,6 +17,9 @@ comparePrice: 70.19 EUR
 inStock: true
 prodname: 'Asics Amplica  Zapatillas de Running para Hombre  Blanco  White/Silver/Black 0193   43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077SV9BQY/?tag=tolees-21'
+descuento: '58.34'
+titulo: 'Asics Amplica  Zapatillas de Running par'
 ---
 
 Ahora mismo tienes [Asics Amplica  Zapatillas de Running para Hombre  Blanco  White/Silver/Black 0193   43.5 EU](https://www.amazon.es/dp/B077SV9BQY/?tag=tolees-21) a 29.24 EUR (original: 70.19 EUR) (58.34 %  de descuento) en el siguiente enlace!

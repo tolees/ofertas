@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Zapatillas de Deportivos de Running para Mujer Gimnasia Ligero Sneakers Negro Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074M3BMY7/?tag=tolees-21'
+descuento: '45.66'
+titulo: 'Zapatillas de Deportivos de Running para'
 ---
 
 Tienes [Zapatillas de Deportivos de Running para Mujer Gimnasia Ligero Sneakers Negro Blanco](https://www.amazon.es/dp/B074M3BMY7/?tag=tolees-21) con un 45.66 % de descuento con precio de oferta de 24.99 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Adidas Stan Smith  Zapatillas Unisex Niños  Blanco Footwear White/Green 0  29 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GUZJB0S/?tag=tolees-21'
+descuento: '34.58'
+titulo: 'Adidas Stan Smith  Zapatillas Unisex Niñ'
 ---
 
 Está [Adidas Stan Smith  Zapatillas Unisex Niños  Blanco Footwear White/Green 0  29 EU](https://www.amazon.es/dp/B01GUZJB0S/?tag=tolees-21) con 34.58 de descuento por 35.95 EUR (original: 54.95 EUR) en el siguiente enlace!

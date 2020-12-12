@@ -17,6 +17,9 @@ comparePrice: 7.95 EUR
 inStock: true
 prodname: 'Nayblan Fox 40 - Silbato 15300  color rojo  talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002YS1W1M/?tag=tolees-21'
+descuento: '25.16'
+titulo: 'Nayblan Fox 40 - Silbato 15300  color ro'
 ---
 
 Está [Nayblan Fox 40 - Silbato 15300  color rojo  talla única](https://www.amazon.es/dp/B002YS1W1M/?tag=tolees-21) con 25.16 de descuento por 5.95 EUR (original: 7.95 EUR) en el siguiente enlace!

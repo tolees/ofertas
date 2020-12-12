@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Quiksilver Island Oasis  Zapatos de Playa y Piscina para Hombre   Black/Brown/Green Xkcg   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYCY7QM/?tag=tolees-21'
+descuento: '51.82'
+titulo: 'Quiksilver Island Oasis  Zapatos de Play'
 ---
 
 Ahora mismo tienes [Quiksilver Island Oasis  Zapatos de Playa y Piscina para Hombre   Black/Brown/Green Xkcg   42 EU](https://www.amazon.es/dp/B07DYCY7QM/?tag=tolees-21) a 14.45 EUR (original: 29.99 EUR) (51.82 %  de descuento) en el siguiente enlace!

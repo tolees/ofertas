@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Feisty Pets-32334 Peluche Oso   Goliath Games 32321'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H4H3YC/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Feisty Pets-32334 Peluche Oso   Goliath '
 ---
 
 Está [Feisty Pets-32334 Peluche Oso   Goliath Games 32321](https://www.amazon.es/dp/B078H4H3YC/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

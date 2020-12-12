@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: '!Solid Kris Pantalones  Hombre  Azul  Insignia Blue   W45  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0734VRLFJ/?tag=tolees-21'
+descuento: '80.56'
+titulo: '!Solid Kris Pantalones  Hombre  Azul  In'
 ---
 
 Ahora mismo tienes [!Solid Kris Pantalones  Hombre  Azul  Insignia Blue   W45  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B0734VRLFJ/?tag=tolees-21) a 13.6 EUR (original: 69.95 EUR) (80.56 %  de descuento) en el siguiente enlace!

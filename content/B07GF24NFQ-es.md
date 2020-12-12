@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Levi s Type 3 Chaqueta Vaquera  Azul  Mayze Sherpa Trucker 0089   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GF24NFQ/?tag=tolees-21'
+descuento: '44.38'
+titulo: 'Levi s Type 3 Chaqueta Vaquera  Azul  Ma'
 ---
 
 Está [Levi s Type 3 Chaqueta Vaquera  Azul  Mayze Sherpa Trucker 0089   Small para Hombre](https://www.amazon.es/dp/B07GF24NFQ/?tag=tolees-21) con 44.38 de descuento por 72.3 EUR (original: 130 EUR) en el siguiente enlace!

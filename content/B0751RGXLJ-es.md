@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Barbie Collector  muñeca Marie Curie de "Grandes Mujeres"   Mattel FJH66 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0751RGXLJ/?tag=tolees-21'
+descuento: '66.68'
+titulo: 'Barbie Collector  muñeca Marie Curie de '
 ---
 
 Está [Barbie Collector  muñeca Marie Curie de "Grandes Mujeres"   Mattel FJH66 ](https://www.amazon.es/dp/B0751RGXLJ/?tag=tolees-21) con 66.68 de descuento por 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!

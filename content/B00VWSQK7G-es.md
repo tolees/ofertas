@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Kappa Action Tex K Footwear Kids  Zapatillas Altas Infantil  Azul-Blau  6733 Navy/Lime   34 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VWSQK7G/?tag=tolees-21'
+descuento: '47.55'
+titulo: 'Kappa Action Tex K Footwear Kids  Zapati'
 ---
 
 Está [Kappa Action Tex K Footwear Kids  Zapatillas Altas Infantil  Azul-Blau  6733 Navy/Lime   34 EU](https://www.amazon.es/dp/B00VWSQK7G/?tag=tolees-21) con 47.55 de descuento por 26.2 EUR (original: 49.95 EUR) en el siguiente enlace!

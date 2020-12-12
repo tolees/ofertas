@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Merrell - sandalias de Cuero mujer  Beige  Taupe   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HZPR3Z2/?tag=tolees-21'
+descuento: '41.16'
+titulo: 'Merrell - sandalias de Cuero mujer  Beig'
 ---
 
 Tienes [Merrell - sandalias de Cuero mujer  Beige  Taupe   41 EU](https://www.amazon.es/dp/B01HZPR3Z2/?tag=tolees-21) con un 41.16 % de descuento con precio de oferta de 50.01 EUR (original: 85 EUR) en el siguiente enlace!

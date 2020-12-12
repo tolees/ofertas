@@ -17,6 +17,9 @@ comparePrice: 29.96 EUR
 inStock: true
 prodname: 'Mallas Deportivas de Mujer  Mujer Pantalones elásticos de yoga con bolsillos laterales  3/4 polainas de yoga Fitness  pantalones deportivos y elásticos polaina  REIDA Leggings Mujer para Yoga  XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C86TJ8T/?tag=tolees-21'
+descuento: '46.63'
+titulo: 'Mallas Deportivas de Mujer  Mujer Pantal'
 ---
 
 Ahora mismo tienes [Mallas Deportivas de Mujer  Mujer Pantalones elásticos de yoga con bolsillos laterales  3/4 polainas de yoga Fitness  pantalones deportivos y elásticos polaina  REIDA Leggings Mujer para Yoga  XL ](https://www.amazon.es/dp/B07C86TJ8T/?tag=tolees-21) a 15.99 EUR (original: 29.96 EUR) (46.63 %  de descuento) en el siguiente enlace!

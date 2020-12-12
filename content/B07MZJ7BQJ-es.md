@@ -17,6 +17,9 @@ comparePrice: 39.75 EUR
 inStock: true
 prodname: 'Superdry Whistler Geo tee Camiseta  Rosa  Hyper Pink MSO   S para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZJ7BQJ/?tag=tolees-21'
+descuento: '36.58'
+titulo: 'Superdry Whistler Geo tee Camiseta  Rosa'
 ---
 
 Ahora mismo tienes [Superdry Whistler Geo tee Camiseta  Rosa  Hyper Pink MSO   S para Hombre](https://www.amazon.es/dp/B07MZJ7BQJ/?tag=tolees-21) a 25.21 EUR (original: 39.75 EUR) (36.58 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'adidas Estro 19 JSY T-Shirt  Hombre  Solar Orange  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K1WQDDF/?tag=tolees-21'
+descuento: '40.29'
+titulo: 'adidas Estro 19 JSY T-Shirt  Hombre  Sol'
 ---
 
 Ahora mismo tienes [adidas Estro 19 JSY T-Shirt  Hombre  Solar Orange  L](https://www.amazon.es/dp/B07K1WQDDF/?tag=tolees-21) a 8.95 EUR (original: 14.99 EUR) (40.29 %  de descuento) en el siguiente enlace!

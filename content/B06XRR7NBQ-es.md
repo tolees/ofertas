@@ -17,6 +17,9 @@ comparePrice: 15.36 EUR
 inStock: true
 prodname: 'Heineken 00 Cerveza - Caja de 24 Latas x 330 ml - Total: 7.92 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XRR7NBQ/?tag=tolees-21'
+descuento: '31.25'
+titulo: 'Heineken 00 Cerveza - Caja de 24 Latas x'
 ---
 
 Está [Heineken 00 Cerveza - Caja de 24 Latas x 330 ml - Total: 7.92 L](https://www.amazon.es/dp/B06XRR7NBQ/?tag=tolees-21) con 31.25 de descuento por 10.56 EUR (original: 15.36 EUR) en el siguiente enlace!

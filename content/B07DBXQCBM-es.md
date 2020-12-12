@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Basket Studs Wn s  Zapatillas para Mujer  Negro Black Silver  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBXQCBM/?tag=tolees-21'
+descuento: '68.04'
+titulo: 'Puma Basket Studs Wn s  Zapatillas para '
 ---
 
 Está [Puma Basket Studs Wn s  Zapatillas para Mujer  Negro Black Silver  36 EU](https://www.amazon.es/dp/B07DBXQCBM/?tag=tolees-21) con 68.04 de descuento por 28.75 EUR (original: 89.95 EUR) en el siguiente enlace!

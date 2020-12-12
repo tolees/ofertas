@@ -17,6 +17,9 @@ comparePrice: 2999 EUR
 inStock: true
 prodname: 'SYOSIN Taladro Juguete con Destornillador Kit Mosaico Infantiles para Niños 3 4 5 6 7 años  144 Piezas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FDQLL9C/?tag=tolees-21'
+descuento: '99.13'
+titulo: 'SYOSIN Taladro Juguete con Destornillado'
 ---
 
 Está [SYOSIN Taladro Juguete con Destornillador Kit Mosaico Infantiles para Niños 3 4 5 6 7 años  144 Piezas ](https://www.amazon.es/dp/B07FDQLL9C/?tag=tolees-21) con 99.13 de descuento por 25.99 EUR (original: 2999 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Naf Naf Kend4 Mono  Negro  Écru/Noir 342   36 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKQWQ34/?tag=tolees-21'
+descuento: '71.66'
+titulo: 'Naf Naf Kend4 Mono  Negro  Écru/Noir 342'
 ---
 
 Ahora mismo tienes [Naf Naf Kend4 Mono  Negro  Écru/Noir 342   36 para Mujer](https://www.amazon.es/dp/B07KKQWQ34/?tag=tolees-21) a 18.42 EUR (original: 65 EUR) (71.66 %  de descuento) en el siguiente enlace!

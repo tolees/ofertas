@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko Pop!- Ryuk Figura de Vinilo  seria Death Note  6362 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MUAEEF9/?tag=tolees-21'
+descuento: '44.96'
+titulo: 'Funko Pop!- Ryuk Figura de Vinilo  seria'
 ---
 
 Está [Funko Pop!- Ryuk Figura de Vinilo  seria Death Note  6362 ](https://www.amazon.es/dp/B01MUAEEF9/?tag=tolees-21) con 44.96 de descuento por 8.25 EUR (original: 14.99 EUR) en el siguiente enlace!

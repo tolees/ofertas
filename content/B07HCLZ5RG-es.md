@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'deAO Esqueleto Fósil de Dinosaurio Kit de Paleontología Figura de Juguete con Huesos Simulados Actividad Educativa Infantil  Triceratops '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HCLZ5RG/?tag=tolees-21'
+descuento: '35.31'
+titulo: 'deAO Esqueleto Fósil de Dinosaurio Kit d'
 ---
 
 Tienes [deAO Esqueleto Fósil de Dinosaurio Kit de Paleontología Figura de Juguete con Huesos Simulados Actividad Educativa Infantil  Triceratops ](https://www.amazon.es/dp/B07HCLZ5RG/?tag=tolees-21) con un 35.31 % de descuento con precio de oferta de 10.99 EUR (original: 16.99 EUR) en el siguiente enlace!

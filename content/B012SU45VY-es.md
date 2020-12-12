@@ -17,6 +17,9 @@ comparePrice: 67.51 EUR
 inStock: true
 prodname: 'Master Plug Pro-XT de Metal L Carrete alargador de Cable con 4 enchufes  Interruptor y con protección térmica  25 m  OTMG25164SL - px'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012SU45VY/?tag=tolees-21'
+descuento: '36.13'
+titulo: 'Master Plug Pro-XT de Metal L Carrete al'
 ---
 
 Tienes [Master Plug Pro-XT de Metal L Carrete alargador de Cable con 4 enchufes  Interruptor y con protección térmica  25 m  OTMG25164SL - px](https://www.amazon.es/dp/B012SU45VY/?tag=tolees-21) con un 36.13 % de descuento con precio de oferta de 43.12 EUR (original: 67.51 EUR) en el siguiente enlace!

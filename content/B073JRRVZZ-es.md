@@ -17,6 +17,9 @@ comparePrice: 689.99 EUR
 inStock: true
 prodname: 'Canon EOS 200D - Cámara digital réflex de 24.2 MP  pantalla táctil de 3.0    Wifi  Bluetooth  Dual Pixel CMOS AF  Full HD  - kit cuerpo con objetivo EF-S 18-55 IS STM'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073JRRVZZ/?tag=tolees-21'
+descuento: '27.68'
+titulo: 'Canon EOS 200D - Cámara digital réflex d'
 ---
 
 Está [Canon EOS 200D - Cámara digital réflex de 24.2 MP  pantalla táctil de 3.0    Wifi  Bluetooth  Dual Pixel CMOS AF  Full HD  - kit cuerpo con objetivo EF-S 18-55 IS STM](https://www.amazon.es/dp/B073JRRVZZ/?tag=tolees-21) con 27.68 de descuento por 499 EUR (original: 689.99 EUR) en el siguiente enlace!

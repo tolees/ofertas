@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta Softshell Cortavientos para Mujer  Cascade Ridge Jacket  Astral Heather  Talla S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DZ6HW33/?tag=tolees-21'
+descuento: '42.04'
+titulo: 'Columbia Chaqueta Softshell Cortavientos'
 ---
 
 Está [Columbia Chaqueta Softshell Cortavientos para Mujer  Cascade Ridge Jacket  Astral Heather  Talla S](https://www.amazon.es/dp/B07DZ6HW33/?tag=tolees-21) con 42.04 de descuento por 57.95 EUR (original: 99.99 EUR) en el siguiente enlace!

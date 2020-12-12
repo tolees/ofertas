@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Maquina de afeitar electrica para hombre barba rotativa FS362EU FLYCO'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GQW8J53/?tag=tolees-21'
+descuento: '67.34'
+titulo: 'Maquina de afeitar electrica para hombre'
 ---
 
 Ahora mismo tienes [Maquina de afeitar electrica para hombre barba rotativa FS362EU FLYCO](https://www.amazon.es/dp/B07GQW8J53/?tag=tolees-21) a 19.59 EUR (original: 59.99 EUR) (67.34 %  de descuento) en el siguiente enlace!

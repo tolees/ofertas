@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'New Balance Fuel Core Sonic v2  Zapatillas de Running para Mujer  Naranja  Dragonfly/White Dg2   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R7PN1R/?tag=tolees-21'
+descuento: '58.16'
+titulo: 'New Balance Fuel Core Sonic v2  Zapatill'
 ---
 
 Ahora mismo tienes [New Balance Fuel Core Sonic v2  Zapatillas de Running para Mujer  Naranja  Dragonfly/White Dg2   41 EU](https://www.amazon.es/dp/B075R7PN1R/?tag=tolees-21) a 54.39 EUR (original: 130 EUR) (58.16 %  de descuento) en el siguiente enlace!

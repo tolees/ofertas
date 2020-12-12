@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Vintage Edisen Bombilla  4W （40W）LED Bombillas de ahorro de energíacon Filamento  E27 Iluminación de Nostalgia  2700K para Casa  Restaurante  Bar  Cafetería  Tienda- 6 Pieza  Blanco Cálido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KS43M3N/?tag=tolees-21'
+descuento: '35.50'
+titulo: 'Vintage Edisen Bombilla  4W （40W）LED Bom'
 ---
 
 Ahora mismo tienes [Vintage Edisen Bombilla  4W （40W）LED Bombillas de ahorro de energíacon Filamento  E27 Iluminación de Nostalgia  2700K para Casa  Restaurante  Bar  Cafetería  Tienda- 6 Pieza  Blanco Cálido](https://www.amazon.es/dp/B07KS43M3N/?tag=tolees-21) a 19.99 EUR (original: 30.99 EUR) (35.50 %  de descuento) en el siguiente enlace!

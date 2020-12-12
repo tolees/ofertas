@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'G-Star Doax Hooded Zip Thru Sw L/s  Sudadera para Hombre  Azul  Hudson Blue Heather   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4RFWXQ/?tag=tolees-21'
+descuento: '44.84'
+titulo: 'G-Star Doax Hooded Zip Thru Sw L/s  Suda'
 ---
 
 Ahora mismo tienes [G-Star Doax Hooded Zip Thru Sw L/s  Sudadera para Hombre  Azul  Hudson Blue Heather   X-Large](https://www.amazon.es/dp/B07B4RFWXQ/?tag=tolees-21) a 52.4 EUR (original: 95 EUR) (44.84 %  de descuento) en el siguiente enlace!

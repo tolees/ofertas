@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Columbia Molokai Slip  Zapatillas de Trail Running para Hombre  Negro  Graphite  Zour   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072WJNZDM/?tag=tolees-21'
+descuento: '55.08'
+titulo: 'Columbia Molokai Slip  Zapatillas de Tra'
 ---
 
 Tienes [Columbia Molokai Slip  Zapatillas de Trail Running para Hombre  Negro  Graphite  Zour   45 EU](https://www.amazon.es/dp/B072WJNZDM/?tag=tolees-21) con un 55.08 % de descuento con precio de oferta de 40.42 EUR (original: 89.99 EUR) en el siguiente enlace!

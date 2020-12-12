@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'The North Face M 1/4 Jersey Glacier Delta  Hombre  Hyper Blue/Urban Navy  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB4RC3N/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face M 1/4 Jersey Glacier Delt'
 ---
 
 Ahora mismo tienes [The North Face M 1/4 Jersey Glacier Delta  Hombre  Hyper Blue/Urban Navy  S](https://www.amazon.es/dp/B07BB4RC3N/?tag=tolees-21) a 35 EUR (original: 70 EUR) (50.00 %  de descuento) en el siguiente enlace!

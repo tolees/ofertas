@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'BOSS RS Stripe CC  Calcetines para Hombre  Gris  Charcoal 012  43/46 Pack de 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4F37MG/?tag=tolees-21'
+descuento: '43.95'
+titulo: 'BOSS RS Stripe CC  Calcetines para Hombr'
 ---
 
 Tienes [BOSS RS Stripe CC  Calcetines para Hombre  Gris  Charcoal 012  43/46 Pack de 2](https://www.amazon.es/dp/B07G4F37MG/?tag=tolees-21) con un 43.95 % de descuento con precio de oferta de 8.38 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Helly Hansen Calgary  Hombre Botas de senderismo  Azul  Azul Oscuro   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00M2W4W6W/?tag=tolees-21'
+descuento: '65.01'
+titulo: 'Helly Hansen Calgary  Hombre Botas de se'
 ---
 
 Tienes [Helly Hansen Calgary  Hombre Botas de senderismo  Azul  Azul Oscuro   44.5 EU](https://www.amazon.es/dp/B00M2W4W6W/?tag=tolees-21) con un 65.01 % de descuento con precio de oferta de 38.49 EUR (original: 110 EUR) en el siguiente enlace!

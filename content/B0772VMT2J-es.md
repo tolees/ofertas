@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Columbia Silver Ridge II Shorts  Hombre  Negro  Abyss   W38/L6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0772VMT2J/?tag=tolees-21'
+descuento: '50.77'
+titulo: 'Columbia Silver Ridge II Shorts  Hombre '
 ---
 
 Tienes [Columbia Silver Ridge II Shorts  Hombre  Negro  Abyss   W38/L6](https://www.amazon.es/dp/B0772VMT2J/?tag=tolees-21) con un 50.77 % de descuento con precio de oferta de 24.59 EUR (original: 49.95 EUR) en el siguiente enlace!

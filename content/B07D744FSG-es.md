@@ -17,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'Aerobath 2019 Filtro para Ducha Universal de alta Salida  con nueva Columna de Calcio de alta Eficiencia de Sulfito de Calcio  Purificador de múltiples Etapas  Elimina Cloro Flúor Metales Pesados'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D744FSG/?tag=tolees-21'
+descuento: '48.66'
+titulo: 'Aerobath 2019 Filtro para Ducha Universa'
 ---
 
 Está [Aerobath 2019 Filtro para Ducha Universal de alta Salida  con nueva Columna de Calcio de alta Eficiencia de Sulfito de Calcio  Purificador de múltiples Etapas  Elimina Cloro Flúor Metales Pesados](https://www.amazon.es/dp/B07D744FSG/?tag=tolees-21) con 48.66 de descuento por 18.99 EUR (original: 36.99 EUR) en el siguiente enlace!

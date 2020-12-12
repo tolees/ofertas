@@ -17,6 +17,9 @@ comparePrice: 34.02 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 9p717 Bañador  Nero 23820  Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DMF77MS/?tag=tolees-21'
+descuento: '47.24'
+titulo: 'Emporio Armani Underwear 9p717 Bañador  '
 ---
 
 Tienes [Emporio Armani Underwear 9p717 Bañador  Nero 23820  Large para Hombre](https://www.amazon.es/dp/B07DMF77MS/?tag=tolees-21) con un 47.24 % de descuento con precio de oferta de 17.95 EUR (original: 34.02 EUR) en el siguiente enlace!

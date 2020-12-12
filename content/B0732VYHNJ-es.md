@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjimarco Jjenzo WW 420 Noos  Pantalones para Hombre  Verde  Olive Night     Talla del Fabricante: W32/L34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0732VYHNJ/?tag=tolees-21'
+descuento: '41.81'
+titulo: 'JACK & JONES Jjimarco Jjenzo WW 420 Noos'
 ---
 
 Tienes [JACK & JONES Jjimarco Jjenzo WW 420 Noos  Pantalones para Hombre  Verde  Olive Night     Talla del Fabricante: W32/L34 ](https://www.amazon.es/dp/B0732VYHNJ/?tag=tolees-21) con un 41.81 % de descuento con precio de oferta de 17.45 EUR (original: 29.99 EUR) en el siguiente enlace!

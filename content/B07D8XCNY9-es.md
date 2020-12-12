@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Eono Essentials 6 Set Cubos de embalaje  3 tamaños diferentes Equipaje de viaje Organizadores de embalaje Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8XCNY9/?tag=tolees-21'
+descuento: '62.01'
+titulo: 'Eono Essentials 6 Set Cubos de embalaje '
 ---
 
 Tienes [Eono Essentials 6 Set Cubos de embalaje  3 tamaños diferentes Equipaje de viaje Organizadores de embalaje Gris](https://www.amazon.es/dp/B07D8XCNY9/?tag=tolees-21) con un 62.01 % de descuento con precio de oferta de 18.99 EUR (original: 49.99 EUR) en el siguiente enlace!

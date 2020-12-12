@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Bounder  Zapatillas para Hombre  Azul  Navy Nvy   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GH1KD4W/?tag=tolees-21'
+descuento: '30.11'
+titulo: 'Skechers Bounder  Zapatillas para Hombre'
 ---
 
 Tienes [Skechers Bounder  Zapatillas para Hombre  Azul  Navy Nvy   41.5 EU](https://www.amazon.es/dp/B07GH1KD4W/?tag=tolees-21) con un 30.11 % de descuento con precio de oferta de 41.9 EUR (original: 59.95 EUR) en el siguiente enlace!

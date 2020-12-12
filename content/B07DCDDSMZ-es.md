@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'XTI 48152  Botas Clasicas para Hombre  Negro  Black   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCDDSMZ/?tag=tolees-21'
+descuento: '59.82'
+titulo: 'XTI 48152  Botas Clasicas para Hombre  N'
 ---
 
 Está [XTI 48152  Botas Clasicas para Hombre  Negro  Black   41 EU](https://www.amazon.es/dp/B07DCDDSMZ/?tag=tolees-21) con 59.82 de descuento por 20.07 EUR (original: 49.95 EUR) en el siguiente enlace!

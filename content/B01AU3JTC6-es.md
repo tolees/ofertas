@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Calvin Klein Perfume para Mujeres - 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AU3JTC6/?tag=tolees-21'
+descuento: '58.52'
+titulo: 'Calvin Klein Perfume para Mujeres - 50 m'
 ---
 
 Está [Calvin Klein Perfume para Mujeres - 50 ml](https://www.amazon.es/dp/B01AU3JTC6/?tag=tolees-21) con 58.52 de descuento por 20.7 EUR (original: 49.9 EUR) en el siguiente enlace!

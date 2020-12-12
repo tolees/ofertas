@@ -17,6 +17,9 @@ comparePrice: 41.46 EUR
 inStock: true
 prodname: 'Calypso Watches Reloj Digital para Hombre de Cuarzo con Correa en Plástico K5764/1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CP2NGSM/?tag=tolees-21'
+descuento: '40.67'
+titulo: 'Calypso Watches Reloj Digital para Hombr'
 ---
 
 Tienes [Calypso Watches Reloj Digital para Hombre de Cuarzo con Correa en Plástico K5764/1](https://www.amazon.es/dp/B07CP2NGSM/?tag=tolees-21) con un 40.67 % de descuento con precio de oferta de 24.6 EUR (original: 41.46 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.8 EUR
 inStock: true
 prodname: 'Miniland Pack-2-Go Hermifresh - Herméticos de vacío con funda  color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00D1SU5A8/?tag=tolees-21'
+descuento: '49.55'
+titulo: 'Miniland Pack-2-Go Hermifresh - Hermétic'
 ---
 
 Ahora mismo tienes [Miniland Pack-2-Go Hermifresh - Herméticos de vacío con funda  color azul](https://www.amazon.es/dp/B00D1SU5A8/?tag=tolees-21) a 9.99 EUR (original: 19.8 EUR) (49.55 %  de descuento) en el siguiente enlace!

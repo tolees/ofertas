@@ -17,6 +17,9 @@ comparePrice: 899.38 EUR
 inStock: true
 prodname: 'Makita HM1213C - Martillo Demoledor 10.8Kg Avt'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002DVWGZQ/?tag=tolees-21'
+descuento: '45.08'
+titulo: 'Makita HM1213C - Martillo Demoledor 10.8'
 ---
 
 Ahora mismo tienes [Makita HM1213C - Martillo Demoledor 10.8Kg Avt](https://www.amazon.es/dp/B002DVWGZQ/?tag=tolees-21) a 493.9 EUR (original: 899.38 EUR) (45.08 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 399 EUR
 inStock: true
 prodname: 'Sony Xperia XA2 Plus - Smartphone Dual SIM de 6"  Octa Core de 2.2 GHz  4 GB de RAM  Memoria Interna de 32 GB  cámara de 24 MP  Android  Color Verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GK6WKLH/?tag=tolees-21'
+descuento: '47.38'
+titulo: 'Sony Xperia XA2 Plus - Smartphone Dual S'
 ---
 
 Está [Sony Xperia XA2 Plus - Smartphone Dual SIM de 6"  Octa Core de 2.2 GHz  4 GB de RAM  Memoria Interna de 32 GB  cámara de 24 MP  Android  Color Verde](https://www.amazon.es/dp/B07GK6WKLH/?tag=tolees-21) con 47.38 de descuento por 209.94 EUR (original: 399 EUR) en el siguiente enlace!

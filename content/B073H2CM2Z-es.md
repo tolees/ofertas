@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Hush Puppies Baubie Felise  Botas Estilo Motero para Mujer  Marrón  Camel   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073H2CM2Z/?tag=tolees-21'
+descuento: '84.53'
+titulo: 'Hush Puppies Baubie Felise  Botas Estilo'
 ---
 
 Ahora mismo tienes [Hush Puppies Baubie Felise  Botas Estilo Motero para Mujer  Marrón  Camel   42 EU](https://www.amazon.es/dp/B073H2CM2Z/?tag=tolees-21) a 18.57 EUR (original: 120 EUR) (84.53 %  de descuento) en el siguiente enlace!

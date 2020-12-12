@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Rosa Faia 5490  Sujetador para Mujer  Blanco 006 80G'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000LK3I4E/?tag=tolees-21'
+descuento: '82.00'
+titulo: 'Rosa Faia 5490  Sujetador para Mujer  Bl'
 ---
 
 Está [Rosa Faia 5490  Sujetador para Mujer  Blanco 006 80G](https://www.amazon.es/dp/B000LK3I4E/?tag=tolees-21) con 82.00 de descuento por 10.79 EUR (original: 59.95 EUR) en el siguiente enlace!

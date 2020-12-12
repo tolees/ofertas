@@ -17,6 +17,9 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'New Nintendo 2DS XL  Bianco/Arancione [Importación italiana]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HFQNJ8/?tag=tolees-21'
+descuento: '28.66'
+titulo: 'New Nintendo 2DS XL  Bianco/Arancione [I'
 ---
 
 Está [New Nintendo 2DS XL  Bianco/Arancione [Importación italiana]](https://www.amazon.es/dp/B071HFQNJ8/?tag=tolees-21) con 28.66 de descuento por 107 EUR (original: 149.99 EUR) en el siguiente enlace!

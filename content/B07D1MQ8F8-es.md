@@ -17,6 +17,9 @@ comparePrice: 35.72 EUR
 inStock: true
 prodname: 'Asics Aaron  Zapatillas para Hombre  Gris  Dark Taupe/Sandstorm 250   43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1MQ8F8/?tag=tolees-21'
+descuento: '27.35'
+titulo: 'Asics Aaron  Zapatillas para Hombre  Gri'
 ---
 
 Tienes [Asics Aaron  Zapatillas para Hombre  Gris  Dark Taupe/Sandstorm 250   43.5 EU](https://www.amazon.es/dp/B07D1MQ8F8/?tag=tolees-21) con un 27.35 % de descuento con precio de oferta de 25.95 EUR (original: 35.72 EUR) en el siguiente enlace!

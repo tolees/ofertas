@@ -17,6 +17,9 @@ comparePrice: 13.7 EUR
 inStock: true
 prodname: 'Laken RF75P Botella Flexible y Plegable con Base y Poliuretano Termplástico Libre de BPA  Blanco  750 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X6CVKXV/?tag=tolees-21'
+descuento: '36.35'
+titulo: 'Laken RF75P Botella Flexible y Plegable '
 ---
 
 Tienes [Laken RF75P Botella Flexible y Plegable con Base y Poliuretano Termplástico Libre de BPA  Blanco  750 ml](https://www.amazon.es/dp/B06X6CVKXV/?tag=tolees-21) con un 36.35 % de descuento con precio de oferta de 8.72 EUR (original: 13.7 EUR) en el siguiente enlace!

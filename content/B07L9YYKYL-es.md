@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Recambios Cabezales Oral b Cepillo Recambios Cepillo Cabezal de Diente 16pcs'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9YYKYL/?tag=tolees-21'
+descuento: '30.78'
+titulo: 'Recambios Cabezales Oral b Cepillo Recam'
 ---
 
 Está [Recambios Cabezales Oral b Cepillo Recambios Cepillo Cabezal de Diente 16pcs](https://www.amazon.es/dp/B07L9YYKYL/?tag=tolees-21) con 30.78 de descuento por 17.99 EUR (original: 25.99 EUR) en el siguiente enlace!

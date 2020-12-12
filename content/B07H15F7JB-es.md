@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Dafor Riazor AG  Talla: 40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H15F7JB/?tag=tolees-21'
+descuento: '28.59'
+titulo: 'Dafor Riazor AG  Talla: 40 '
 ---
 
 Ahora mismo tienes [Dafor Riazor AG  Talla: 40 ](https://www.amazon.es/dp/B07H15F7JB/?tag=tolees-21) a 9.99 EUR (original: 13.99 EUR) (28.59 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 18.98 EUR
 inStock: true
 prodname: 'Lamaze - Jacques el pavo real juega y crece  TOMY 30697013 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000I2MRLK/?tag=tolees-21'
+descuento: '39.41'
+titulo: 'Lamaze - Jacques el pavo real juega y cr'
 ---
 
 Ahora mismo tienes [Lamaze - Jacques el pavo real juega y crece  TOMY 30697013 ](https://www.amazon.es/dp/B000I2MRLK/?tag=tolees-21) a 11.5 EUR (original: 18.98 EUR) (39.41 %  de descuento) en el siguiente enlace!

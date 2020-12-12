@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield Short Vaquero Pantalones Cortos  Mujer  Blanco  Blanco   36  Tamaño del Fabricante:36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HCS9GY/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'Springfield Short Vaquero Pantalones Cor'
 ---
 
 Tienes [Springfield Short Vaquero Pantalones Cortos  Mujer  Blanco  Blanco   36  Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B078HCS9GY/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

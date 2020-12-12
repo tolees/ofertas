@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Nike Grandstand II  Zapatillas de Gimnasia para Hombre  Negro  Black/White/Neutral Grey 001   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0098Y2IQS/?tag=tolees-21'
+descuento: '63.74'
+titulo: 'Nike Grandstand II  Zapatillas de Gimnas'
 ---
 
 Está [Nike Grandstand II  Zapatillas de Gimnasia para Hombre  Negro  Black/White/Neutral Grey 001   40.5 EU](https://www.amazon.es/dp/B0098Y2IQS/?tag=tolees-21) con 63.74 de descuento por 30.82 EUR (original: 85 EUR) en el siguiente enlace!

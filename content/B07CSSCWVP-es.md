@@ -17,6 +17,9 @@ comparePrice: 21.32 EUR
 inStock: true
 prodname: 'Afufu Cometas a Mano 4 Piezas Paracaídas Que Lanza Libremente de la Mano para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSSCWVP/?tag=tolees-21'
+descuento: '62.52'
+titulo: 'Afufu Cometas a Mano 4 Piezas Paracaídas'
 ---
 
 Está [Afufu Cometas a Mano 4 Piezas Paracaídas Que Lanza Libremente de la Mano para Niños](https://www.amazon.es/dp/B07CSSCWVP/?tag=tolees-21) con 62.52 de descuento por 7.99 EUR (original: 21.32 EUR) en el siguiente enlace!

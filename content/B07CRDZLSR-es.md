@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Pepe Jeans Joris Camiseta    Eclipse 968   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRDZLSR/?tag=tolees-21'
+descuento: '66.91'
+titulo: 'Pepe Jeans Joris Camiseta    Eclipse 968'
 ---
 
 Está [Pepe Jeans Joris Camiseta    Eclipse 968   XX-Large para Hombre](https://www.amazon.es/dp/B07CRDZLSR/?tag=tolees-21) con 66.91 de descuento por 11.58 EUR (original: 35 EUR) en el siguiente enlace!

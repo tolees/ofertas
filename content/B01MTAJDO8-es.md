@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Esprit 047ee1k032  Camiseta Mujer   Off White   38  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTAJDO8/?tag=tolees-21'
+descuento: '72.46'
+titulo: 'Esprit 047ee1k032  Camiseta Mujer   Off '
 ---
 
 Tienes [Esprit 047ee1k032  Camiseta Mujer   Off White   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01MTAJDO8/?tag=tolees-21) con un 72.46 % de descuento con precio de oferta de 8.26 EUR (original: 29.99 EUR) en el siguiente enlace!

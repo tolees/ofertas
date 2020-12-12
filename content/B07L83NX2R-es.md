@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'ENKEEO LED Linterna Camping 50 Horas Portátil Plegable Impermeable Ligera con Foco y Gancho  Alimentada por Baterías AA  no incluidas  para Aire Libre  Acampada  Emergencias  Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L83NX2R/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'ENKEEO LED Linterna Camping 50 Horas Por'
 ---
 
 Ahora mismo tienes [ENKEEO LED Linterna Camping 50 Horas Portátil Plegable Impermeable Ligera con Foco y Gancho  Alimentada por Baterías AA  no incluidas  para Aire Libre  Acampada  Emergencias  Azul ](https://www.amazon.es/dp/B07L83NX2R/?tag=tolees-21) a 7.99 EUR (original: 15.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

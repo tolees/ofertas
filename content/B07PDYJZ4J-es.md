@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Hurley M Phantom Asylum 18  Bañadores  Hombre  Hyper Jade  34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PDYJZ4J/?tag=tolees-21'
+descuento: '46.80'
+titulo: 'Hurley M Phantom Asylum 18  Bañadores  H'
 ---
 
 Ahora mismo tienes [Hurley M Phantom Asylum 18  Bañadores  Hombre  Hyper Jade  34](https://www.amazon.es/dp/B07PDYJZ4J/?tag=tolees-21) a 31.92 EUR (original: 60 EUR) (46.80 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 037eo1k012 Camiseta  Rosa  Nude   38  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4ETMPG/?tag=tolees-21'
+descuento: '48.26'
+titulo: 'ESPRIT Collection 037eo1k012 Camiseta  R'
 ---
 
 Ahora mismo tienes [ESPRIT Collection 037eo1k012 Camiseta  Rosa  Nude   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B01N4ETMPG/?tag=tolees-21) a 20.69 EUR (original: 39.99 EUR) (48.26 %  de descuento) en el siguiente enlace!

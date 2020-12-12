@@ -17,6 +17,9 @@ comparePrice: 5.88 EUR
 inStock: true
 prodname: 'vibrador mujer clítoris Lanksirt U Tipo Vibrador de punto G Dildo Vibración de doble motor Masaje de juguetes sexuales juguetes sexual en parejas vibradors huevo mujer silencioso'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MYTSH2Q/?tag=tolees-21'
+descuento: '85.03'
+titulo: 'vibrador mujer clítoris Lanksirt U Tipo '
 ---
 
 Tienes [vibrador mujer clítoris Lanksirt U Tipo Vibrador de punto G Dildo Vibración de doble motor Masaje de juguetes sexuales juguetes sexual en parejas vibradors huevo mujer silencioso](https://www.amazon.es/dp/B07MYTSH2Q/?tag=tolees-21) con un 85.03 % de descuento con precio de oferta de 0.88 EUR (original: 5.88 EUR) en el siguiente enlace!

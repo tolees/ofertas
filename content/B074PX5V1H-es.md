@@ -17,6 +17,9 @@ comparePrice: 83.99 EUR
 inStock: true
 prodname: 'San Ignacio Q2390 Sartén Aluminio  Cobre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074PX5V1H/?tag=tolees-21'
+descuento: '58.90'
+titulo: 'San Ignacio Q2390 Sartén Aluminio  Cobre'
 ---
 
 Ahora mismo tienes [San Ignacio Q2390 Sartén Aluminio  Cobre](https://www.amazon.es/dp/B074PX5V1H/?tag=tolees-21) a 34.52 EUR (original: 83.99 EUR) (58.90 %  de descuento) en el siguiente enlace!

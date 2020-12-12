@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'SYOSS - Hair Mascara - Cubre Canas - Color Rubio Oscuro - 2 uds de 16ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3RL8NY/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'SYOSS - Hair Mascara - Cubre Canas - Col'
 ---
 
 Tienes [SYOSS - Hair Mascara - Cubre Canas - Color Rubio Oscuro - 2 uds de 16ml](https://www.amazon.es/dp/B07N3RL8NY/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 7.5 EUR (original: 15 EUR) en el siguiente enlace!

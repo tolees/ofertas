@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Destroy All Humans - PC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SRJJ3YH/?tag=tolees-21'
+descuento: '32.51'
+titulo: 'Destroy All Humans - PC'
 ---
 
 Está [Destroy All Humans - PC](https://www.amazon.es/dp/B07SRJJ3YH/?tag=tolees-21) con 32.51 de descuento por 26.99 EUR (original: 39.99 EUR) en el siguiente enlace!

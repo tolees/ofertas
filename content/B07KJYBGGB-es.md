@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Quiksilver Word Block Shorts  Hombre  High Risk Red  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJYBGGB/?tag=tolees-21'
+descuento: '48.19'
+titulo: 'Quiksilver Word Block Shorts  Hombre  Hi'
 ---
 
 Está [Quiksilver Word Block Shorts  Hombre  High Risk Red  M](https://www.amazon.es/dp/B07KJYBGGB/?tag=tolees-21) con 48.19 de descuento por 25.9 EUR (original: 49.99 EUR) en el siguiente enlace!

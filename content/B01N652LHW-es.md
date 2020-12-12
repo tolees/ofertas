@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Ess Pique  Camiseta Polo Hombre  Gris  Medium Gray Heather   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N652LHW/?tag=tolees-21'
+descuento: '51.29'
+titulo: 'Puma Ess Pique  Camiseta Polo Hombre  Gr'
 ---
 
 Ahora mismo tienes [Puma Ess Pique  Camiseta Polo Hombre  Gris  Medium Gray Heather   S](https://www.amazon.es/dp/B01N652LHW/?tag=tolees-21) a 14.59 EUR (original: 29.95 EUR) (51.29 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour UA Micro G Pursuit  Zapatillas de Running para Hombre  Negro  Anthracite/Black/White 102   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0711KDMSN/?tag=tolees-21'
+descuento: '50.73'
+titulo: 'Under Armour UA Micro G Pursuit  Zapatil'
 ---
 
 Tienes [Under Armour UA Micro G Pursuit  Zapatillas de Running para Hombre  Negro  Anthracite/Black/White 102   43 EU](https://www.amazon.es/dp/B0711KDMSN/?tag=tolees-21) con un 50.73 % de descuento con precio de oferta de 34.49 EUR (original: 70 EUR) en el siguiente enlace!

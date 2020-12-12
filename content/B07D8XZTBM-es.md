@@ -17,6 +17,9 @@ comparePrice: 36.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger 2p Trunk Bóxer  Rosa  Tango Red/Navy Blazer 062   Large  Pack de 2 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8XZTBM/?tag=tolees-21'
+descuento: '47.32'
+titulo: 'Tommy Hilfiger 2p Trunk Bóxer  Rosa  Tan'
 ---
 
 Tienes [Tommy Hilfiger 2p Trunk Bóxer  Rosa  Tango Red/Navy Blazer 062   Large  Pack de 2 para Hombre](https://www.amazon.es/dp/B07D8XZTBM/?tag=tolees-21) con un 47.32 % de descuento con precio de oferta de 19.44 EUR (original: 36.9 EUR) en el siguiente enlace!

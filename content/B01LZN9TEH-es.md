@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Carrera Unisex adulto 5037/S XT UZ4 Gafas de sol  Turquesa  Turquoi Havana/Blue Sky Grey Speckled   49'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZN9TEH/?tag=tolees-21'
+descuento: '53.87'
+titulo: 'Carrera Unisex adulto 5037/S XT UZ4 Gafa'
 ---
 
 Está [Carrera Unisex adulto 5037/S XT UZ4 Gafas de sol  Turquesa  Turquoi Havana/Blue Sky Grey Speckled   49](https://www.amazon.es/dp/B01LZN9TEH/?tag=tolees-21) con 53.87 de descuento por 50.28 EUR (original: 109 EUR) en el siguiente enlace!

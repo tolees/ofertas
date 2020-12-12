@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'AIJEESI I10 Auriculares Bluetooth 5.0 In-Ear Inalámbricos con Mic pour Samsung'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MYNQFR9/?tag=tolees-21'
+descuento: '67.69'
+titulo: 'AIJEESI I10 Auriculares Bluetooth 5.0 In'
 ---
 
 Está [AIJEESI I10 Auriculares Bluetooth 5.0 In-Ear Inalámbricos con Mic pour Samsung](https://www.amazon.es/dp/B07MYNQFR9/?tag=tolees-21) con 67.69 de descuento por 31.99 EUR (original: 99 EUR) en el siguiente enlace!

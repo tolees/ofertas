@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'RED WAGON Vestido con Volante Niñas  Azul  Lt Blue   8 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075MMQJ8S/?tag=tolees-21'
+descuento: '58.75'
+titulo: 'RED WAGON Vestido con Volante Niñas  Azu'
 ---
 
 Ahora mismo tienes [RED WAGON Vestido con Volante Niñas  Azul  Lt Blue   8 años](https://www.amazon.es/dp/B075MMQJ8S/?tag=tolees-21) a 7.42 EUR (original: 17.99 EUR) (58.75 %  de descuento) en el siguiente enlace!

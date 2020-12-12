@@ -17,6 +17,9 @@ comparePrice: 41.44 EUR
 inStock: true
 prodname: 'ORAL-B Vitality CrossAction - Cepillo Eléctrico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0185VJO3E/?tag=tolees-21'
+descuento: '39.09'
+titulo: 'ORAL-B Vitality CrossAction - Cepillo El'
 ---
 
 Ahora mismo tienes [ORAL-B Vitality CrossAction - Cepillo Eléctrico](https://www.amazon.es/dp/B0185VJO3E/?tag=tolees-21) a 25.24 EUR (original: 41.44 EUR) (39.09 %  de descuento) en el siguiente enlace!

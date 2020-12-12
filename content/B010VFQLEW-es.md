@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Copa Diseño kr3000 compacto integrado de especias para 4 x 8 de especias.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B010VFQLEW/?tag=tolees-21'
+descuento: '37.20'
+titulo: 'Copa Diseño kr3000 compacto integrado de'
 ---
 
 Está [Copa Diseño kr3000 compacto integrado de especias para 4 x 8 de especias.](https://www.amazon.es/dp/B010VFQLEW/?tag=tolees-21) con 37.20 de descuento por 21.95 EUR (original: 34.95 EUR) en el siguiente enlace!

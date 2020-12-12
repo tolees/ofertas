@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Springfield 5 Gym - Mochila Básica  Mujer  Gamma Marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1PN66/?tag=tolees-21'
+descuento: '29.62'
+titulo: 'Springfield 5 Gym - Mochila Básica  Muje'
 ---
 
 Ahora mismo tienes [Springfield 5 Gym - Mochila Básica  Mujer  Gamma Marrón](https://www.amazon.es/dp/B07KZ1PN66/?tag=tolees-21) a 19.7 EUR (original: 27.99 EUR) (29.62 %  de descuento) en el siguiente enlace!

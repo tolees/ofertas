@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Puma Speed Cat Wings Monaco  Zapatillas Unisex Adults o  Negro White Black  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRLCR78/?tag=tolees-21'
+descuento: '64.32'
+titulo: 'Puma Speed Cat Wings Monaco  Zapatillas '
 ---
 
 Está [Puma Speed Cat Wings Monaco  Zapatillas Unisex Adults o  Negro White Black  42 EU](https://www.amazon.es/dp/B07CRLCR78/?tag=tolees-21) con 64.32 de descuento por 46.36 EUR (original: 129.95 EUR) en el siguiente enlace!

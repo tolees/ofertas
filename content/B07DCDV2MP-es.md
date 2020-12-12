@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Blanco  Puma White-Peach Bud 17   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCDV2MP/?tag=tolees-21'
+descuento: '31.85'
+titulo: 'Puma St Runner V2 Nl  Zapatillas de Cros'
 ---
 
 Tienes [Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Blanco  Puma White-Peach Bud 17   39 EU](https://www.amazon.es/dp/B07DCDV2MP/?tag=tolees-21) con un 31.85 % de descuento con precio de oferta de 37.45 EUR (original: 54.95 EUR) en el siguiente enlace!

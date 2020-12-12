@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Levi s - The L Pack Full Side Logo  Hombre  Negro  Regular Black   12x29x45 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYBF2C4/?tag=tolees-21'
+descuento: '59.25'
+titulo: 'Levi s - The L Pack Full Side Logo  Homb'
 ---
 
 Está [Levi s - The L Pack Full Side Logo  Hombre  Negro  Regular Black   12x29x45 cm  W x H L ](https://www.amazon.es/dp/B07DYBF2C4/?tag=tolees-21) con 59.25 de descuento por 24.45 EUR (original: 60 EUR) en el siguiente enlace!

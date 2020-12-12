@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Hush Puppies Cala Catelyn  Botas Mocasines para Mujer  Negro  Black   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073K6RGZF/?tag=tolees-21'
+descuento: '73.08'
+titulo: 'Hush Puppies Cala Catelyn  Botas Mocasin'
 ---
 
 Está [Hush Puppies Cala Catelyn  Botas Mocasines para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B073K6RGZF/?tag=tolees-21) con 73.08 de descuento por 26.92 EUR (original: 100 EUR) en el siguiente enlace!

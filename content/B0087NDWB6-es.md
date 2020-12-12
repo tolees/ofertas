@@ -17,6 +17,9 @@ comparePrice: 109.24 EUR
 inStock: true
 prodname: 'GAH-Alberts - Enrejado  Verde  1250 mm / 25 m  altura de 25 m  anchura de malla de 60 x 60 mm  grosor de 2 8 mm  -[Importado de Alemania]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0087NDWB6/?tag=tolees-21'
+descuento: '40.55'
+titulo: 'GAH-Alberts - Enrejado  Verde  1250 mm /'
 ---
 
 Tienes [GAH-Alberts - Enrejado  Verde  1250 mm / 25 m  altura de 25 m  anchura de malla de 60 x 60 mm  grosor de 2 8 mm  -[Importado de Alemania]](https://www.amazon.es/dp/B0087NDWB6/?tag=tolees-21) con un 40.55 % de descuento con precio de oferta de 64.94 EUR (original: 109.24 EUR) en el siguiente enlace!

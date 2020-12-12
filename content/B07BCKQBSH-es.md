@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Clarks Step Allenabay  Zapatillas para Mujer  Azul  Navy Textile   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BCKQBSH/?tag=tolees-21'
+descuento: '50.92'
+titulo: 'Clarks Step Allenabay  Zapatillas para M'
 ---
 
 Está [Clarks Step Allenabay  Zapatillas para Mujer  Azul  Navy Textile   39.5 EU](https://www.amazon.es/dp/B07BCKQBSH/?tag=tolees-21) con 50.92 de descuento por 39.24 EUR (original: 79.95 EUR) en el siguiente enlace!

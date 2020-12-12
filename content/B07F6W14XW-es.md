@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Reebok DA1670 Mochila  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F6W14XW/?tag=tolees-21'
+descuento: '46.93'
+titulo: 'Reebok DA1670 Mochila  S'
 ---
 
 Tienes [Reebok DA1670 Mochila  S](https://www.amazon.es/dp/B07F6W14XW/?tag=tolees-21) con un 46.93 % de descuento con precio de oferta de 14.86 EUR (original: 28 EUR) en el siguiente enlace!

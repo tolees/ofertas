@@ -17,6 +17,9 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Blouse Blusa  Azul  BLU 901   única  Talla del Fabricante: Small  para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTP3NJG/?tag=tolees-21'
+descuento: '60.31'
+titulo: 'United Colors of Benetton Blouse Blusa  '
 ---
 
 Está [United Colors of Benetton Blouse Blusa  Azul  BLU 901   única  Talla del Fabricante: Small  para Niñas](https://www.amazon.es/dp/B07KTP3NJG/?tag=tolees-21) con 60.31 de descuento por 9.11 EUR (original: 22.95 EUR) en el siguiente enlace!

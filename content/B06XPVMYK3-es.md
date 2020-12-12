@@ -17,6 +17,9 @@ comparePrice: 105 EUR
 inStock: true
 prodname: 'Logitech G413 - Teclado mecánico para gaming  color Plateado  Silver  - Azerty Distribución'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XPVMYK3/?tag=tolees-21'
+descuento: '26.69'
+titulo: 'Logitech G413 - Teclado mecánico para ga'
 ---
 
 Tienes [Logitech G413 - Teclado mecánico para gaming  color Plateado  Silver  - Azerty Distribución](https://www.amazon.es/dp/B06XPVMYK3/?tag=tolees-21) con un 26.69 % de descuento con precio de oferta de 76.98 EUR (original: 105 EUR) en el siguiente enlace!

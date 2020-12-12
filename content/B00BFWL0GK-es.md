@@ -17,6 +17,9 @@ comparePrice: 9.6 EUR
 inStock: true
 prodname: 'Motorkit LIM10326 Lavaparabrisas Anticongelante-10% de Invierno  Azul  5 litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BFWL0GK/?tag=tolees-21'
+descuento: '61.46'
+titulo: 'Motorkit LIM10326 Lavaparabrisas Anticon'
 ---
 
 Tienes [Motorkit LIM10326 Lavaparabrisas Anticongelante-10% de Invierno  Azul  5 litros](https://www.amazon.es/dp/B00BFWL0GK/?tag=tolees-21) con un 61.46 % de descuento con precio de oferta de 3.7 EUR (original: 9.6 EUR) en el siguiente enlace!

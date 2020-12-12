@@ -17,6 +17,9 @@ comparePrice: 22.39 EUR
 inStock: true
 prodname: 'Inside 6sves21&  Vestido para Mujer  Negro  Black 1  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CKCMVBN/?tag=tolees-21'
+descuento: '43.95'
+titulo: 'Inside 6sves21&  Vestido para Mujer  Neg'
 ---
 
 Está [Inside 6sves21&  Vestido para Mujer  Negro  Black 1  X-Large](https://www.amazon.es/dp/B07CKCMVBN/?tag=tolees-21) con 43.95 de descuento por 12.55 EUR (original: 22.39 EUR) en el siguiente enlace!

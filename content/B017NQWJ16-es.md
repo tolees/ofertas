@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Pocket POP! Keychain - Harry Potter: Voldemort'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017NQWJ16/?tag=tolees-21'
+descuento: '32.59'
+titulo: 'Pocket POP! Keychain - Harry Potter: Vol'
 ---
 
 Tienes [Pocket POP! Keychain - Harry Potter: Voldemort](https://www.amazon.es/dp/B017NQWJ16/?tag=tolees-21) con un 32.59 % de descuento con precio de oferta de 9.43 EUR (original: 13.99 EUR) en el siguiente enlace!

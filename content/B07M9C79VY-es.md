@@ -17,6 +17,9 @@ comparePrice: 230 EUR
 inStock: true
 prodname: 'BOSS Velocity_Runn_RB  Zapatillas para Hombre  Gris  Light/Pastel Grey 050   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9C79VY/?tag=tolees-21'
+descuento: '71.18'
+titulo: 'BOSS Velocity_Runn_RB  Zapatillas para H'
 ---
 
 Ahora mismo tienes [BOSS Velocity_Runn_RB  Zapatillas para Hombre  Gris  Light/Pastel Grey 050   39 EU](https://www.amazon.es/dp/B07M9C79VY/?tag=tolees-21) a 66.28 EUR (original: 230 EUR) (71.18 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Burton Underhill Camisetas  Hombre  True Black  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGPZCM7/?tag=tolees-21'
+descuento: '60.77'
+titulo: 'Burton Underhill Camisetas  Hombre  True'
 ---
 
 Ahora mismo tienes [Burton Underhill Camisetas  Hombre  True Black  XS](https://www.amazon.es/dp/B07KGPZCM7/?tag=tolees-21) a 11.77 EUR (original: 30 EUR) (60.77 %  de descuento) en el siguiente enlace!

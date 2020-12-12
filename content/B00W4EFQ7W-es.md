@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Clarks Originals Trigenic Flex  Zapatillas para Hombre  Negro  Black Nubuck   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00W4EFQ7W/?tag=tolees-21'
+descuento: '62.67'
+titulo: 'Clarks Originals Trigenic Flex  Zapatill'
 ---
 
 Ahora mismo tienes [Clarks Originals Trigenic Flex  Zapatillas para Hombre  Negro  Black Nubuck   42 EU](https://www.amazon.es/dp/B00W4EFQ7W/?tag=tolees-21) a 55.99 EUR (original: 150 EUR) (62.67 %  de descuento) en el siguiente enlace!

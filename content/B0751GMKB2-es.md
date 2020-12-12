@@ -17,6 +17,9 @@ comparePrice: 24.8 EUR
 inStock: true
 prodname: 'EXZACT Báscula Corporal Electrónica/Báscula de Baño Digital-150kg Exhibición del LED de la contraluz  espejo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0751GMKB2/?tag=tolees-21'
+descuento: '47.62'
+titulo: 'EXZACT Báscula Corporal Electrónica/Básc'
 ---
 
 Tienes [EXZACT Báscula Corporal Electrónica/Báscula de Baño Digital-150kg Exhibición del LED de la contraluz  espejo ](https://www.amazon.es/dp/B0751GMKB2/?tag=tolees-21) con un 47.62 % de descuento con precio de oferta de 12.99 EUR (original: 24.8 EUR) en el siguiente enlace!

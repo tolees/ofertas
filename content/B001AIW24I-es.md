@@ -17,6 +17,9 @@ comparePrice: 65.5 EUR
 inStock: true
 prodname: 'Vans Authentic  Zapatillas de Tela Unisex  Blanco  White   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001AIW24I/?tag=tolees-21'
+descuento: '42.75'
+titulo: 'Vans Authentic  Zapatillas de Tela Unise'
 ---
 
 Está [Vans Authentic  Zapatillas de Tela Unisex  Blanco  White   46 EU](https://www.amazon.es/dp/B001AIW24I/?tag=tolees-21) con 42.75 de descuento por 37.5 EUR (original: 65.5 EUR) en el siguiente enlace!

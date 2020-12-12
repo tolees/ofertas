@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Solid Texture Badge LS Reg Polo  Camisa Manga Larga Hombre  Blanco  Bright White 100   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFNJBMS/?tag=tolees-21'
+descuento: '36.11'
+titulo: 'Tommy Hilfiger Solid Texture Badge LS Re'
 ---
 
 Está [Tommy Hilfiger Solid Texture Badge LS Reg Polo  Camisa Manga Larga Hombre  Blanco  Bright White 100   Small](https://www.amazon.es/dp/B07HFNJBMS/?tag=tolees-21) con 36.11 de descuento por 51.05 EUR (original: 79.9 EUR) en el siguiente enlace!

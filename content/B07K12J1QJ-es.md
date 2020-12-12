@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'adidas N-5923 Zapatillas de Gimnasia Hombre  Azul  Collegiate Navy/Ftwr White/Gum4 Collegiate Navy/Ftwr White/Gum4   45 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K12J1QJ/?tag=tolees-21'
+descuento: '64.84'
+titulo: 'adidas N-5923 Zapatillas de Gimnasia Hom'
 ---
 
 Ahora mismo tienes [adidas N-5923 Zapatillas de Gimnasia Hombre  Azul  Collegiate Navy/Ftwr White/Gum4 Collegiate Navy/Ftwr White/Gum4   45 1/3 EU](https://www.amazon.es/dp/B07K12J1QJ/?tag=tolees-21) a 31.63 EUR (original: 89.95 EUR) (64.84 %  de descuento) en el siguiente enlace!

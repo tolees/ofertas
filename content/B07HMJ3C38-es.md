@@ -17,6 +17,9 @@ comparePrice: 95.43 EUR
 inStock: true
 prodname: 'Ted Baker Rhaily  Sandalias de Punta Descubierta para Mujer  Marrón  Caramel Crml   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HMJ3C38/?tag=tolees-21'
+descuento: '45.38'
+titulo: 'Ted Baker Rhaily  Sandalias de Punta Des'
 ---
 
 Tienes [Ted Baker Rhaily  Sandalias de Punta Descubierta para Mujer  Marrón  Caramel Crml   38 EU](https://www.amazon.es/dp/B07HMJ3C38/?tag=tolees-21) con un 45.38 % de descuento con precio de oferta de 52.12 EUR (original: 95.43 EUR) en el siguiente enlace!

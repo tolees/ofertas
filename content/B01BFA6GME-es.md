@@ -17,6 +17,9 @@ comparePrice: 35.7 EUR
 inStock: true
 prodname: 'HHG Vestido Largo Blanco S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BFA6GME/?tag=tolees-21'
+descuento: '60.31'
+titulo: 'HHG Vestido Largo Blanco S'
 ---
 
 Está [HHG Vestido Largo Blanco S](https://www.amazon.es/dp/B01BFA6GME/?tag=tolees-21) con 60.31 de descuento por 14.17 EUR (original: 35.7 EUR) en el siguiente enlace!

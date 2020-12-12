@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'DAKINE Split Roller Eq Maleta  Unisex Adulto   Zion   75 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BT1J7WD/?tag=tolees-21'
+descuento: '71.46'
+titulo: 'DAKINE Split Roller Eq Maleta  Unisex Ad'
 ---
 
 Tienes [DAKINE Split Roller Eq Maleta  Unisex Adulto   Zion   75 L](https://www.amazon.es/dp/B07BT1J7WD/?tag=tolees-21) con un 71.46 % de descuento con precio de oferta de 39.95 EUR (original: 140 EUR) en el siguiente enlace!

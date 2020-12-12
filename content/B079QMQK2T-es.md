@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Hackett London Dots and Crosses Print Camisa  Azul  XL para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QMQK2T/?tag=tolees-21'
+descuento: '66.30'
+titulo: 'Hackett London Dots and Crosses Print Ca'
 ---
 
 Tienes [Hackett London Dots and Crosses Print Camisa  Azul  XL para Hombre](https://www.amazon.es/dp/B079QMQK2T/?tag=tolees-21) con un 66.30 % de descuento con precio de oferta de 43.81 EUR (original: 130 EUR) en el siguiente enlace!

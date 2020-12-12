@@ -17,6 +17,9 @@ comparePrice: 320 EUR
 inStock: true
 prodname: 'Mont Blanc Hombre Sunglasses Mb719S 56N-56-17-145 Gafas de sol  Marrón  Braun   56'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HMM33GN/?tag=tolees-21'
+descuento: '48.08'
+titulo: 'Mont Blanc Hombre Sunglasses Mb719S 56N-'
 ---
 
 Está [Mont Blanc Hombre Sunglasses Mb719S 56N-56-17-145 Gafas de sol  Marrón  Braun   56](https://www.amazon.es/dp/B07HMM33GN/?tag=tolees-21) con 48.08 de descuento por 166.14 EUR (original: 320 EUR) en el siguiente enlace!

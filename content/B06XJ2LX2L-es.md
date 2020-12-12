@@ -17,6 +17,9 @@ comparePrice: 6.99 EUR
 inStock: true
 prodname: 'Uhlsport 1006749010001 Brazalete de Capitán  Unisex Adulto   FL.Yellow/shockred   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XJ2LX2L/?tag=tolees-21'
+descuento: '30.76'
+titulo: 'Uhlsport 1006749010001 Brazalete de Capi'
 ---
 
 Está [Uhlsport 1006749010001 Brazalete de Capitán  Unisex Adulto   FL.Yellow/shockred   Talla Única](https://www.amazon.es/dp/B06XJ2LX2L/?tag=tolees-21) con 30.76 de descuento por 4.84 EUR (original: 6.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 68 EUR
 inStock: true
 prodname: 'Trussardi Donna EDP  Olor Fresco - 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BLXIX4U/?tag=tolees-21'
+descuento: '46.32'
+titulo: 'Trussardi Donna EDP  Olor Fresco - 50 ml'
 ---
 
 Está [Trussardi Donna EDP  Olor Fresco - 50 ml](https://www.amazon.es/dp/B00BLXIX4U/?tag=tolees-21) con 46.32 de descuento por 36.5 EUR (original: 68 EUR) en el siguiente enlace!

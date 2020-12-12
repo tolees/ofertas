@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Puma ESS+ Cut Off Tank Camiseta De Tirantes  Mujer  Blanco White  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JH2ZS71/?tag=tolees-21'
+descuento: '30.08'
+titulo: 'Puma ESS+ Cut Off Tank Camiseta De Tiran'
 ---
 
 Ahora mismo tienes [Puma ESS+ Cut Off Tank Camiseta De Tirantes  Mujer  Blanco White  S](https://www.amazon.es/dp/B07JH2ZS71/?tag=tolees-21) a 13.95 EUR (original: 19.95 EUR) (30.08 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'VAIRO Short Columns Negro  S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079ZVSX1M/?tag=tolees-21'
+descuento: '28.75'
+titulo: 'VAIRO Short Columns Negro  S '
 ---
 
 Ahora mismo tienes [VAIRO Short Columns Negro  S ](https://www.amazon.es/dp/B079ZVSX1M/?tag=tolees-21) a 19.95 EUR (original: 28 EUR) (28.75 %  de descuento) en el siguiente enlace!

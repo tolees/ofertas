@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Hackett London Plain Chambray LG  Camisa para Hombre  Azul  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QPM81X/?tag=tolees-21'
+descuento: '58.83'
+titulo: 'Hackett London Plain Chambray LG  Camisa'
 ---
 
 Está [Hackett London Plain Chambray LG  Camisa para Hombre  Azul  XXL](https://www.amazon.es/dp/B079QPM81X/?tag=tolees-21) con 58.83 de descuento por 53.52 EUR (original: 130 EUR) en el siguiente enlace!

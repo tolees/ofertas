@@ -17,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'Panama Jack Amur GTX  Botas Clasicas para Hombre  Negro  Black C18   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B9PBS5X/?tag=tolees-21'
+descuento: '38.30'
+titulo: 'Panama Jack Amur GTX  Botas Clasicas par'
 ---
 
 Tienes [Panama Jack Amur GTX  Botas Clasicas para Hombre  Negro  Black C18   46 EU](https://www.amazon.es/dp/B07B9PBS5X/?tag=tolees-21) con un 38.30 % de descuento con precio de oferta de 110.45 EUR (original: 179 EUR) en el siguiente enlace!

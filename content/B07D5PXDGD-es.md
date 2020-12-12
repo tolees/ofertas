@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Merrell Icepack Polar WP  Zapatillas de Senderismo para Hombre  Marrón Oak  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5PXDGD/?tag=tolees-21'
+descuento: '52.85'
+titulo: 'Merrell Icepack Polar WP  Zapatillas de '
 ---
 
 Tienes [Merrell Icepack Polar WP  Zapatillas de Senderismo para Hombre  Marrón Oak  42 EU](https://www.amazon.es/dp/B07D5PXDGD/?tag=tolees-21) con un 52.85 % de descuento con precio de oferta de 51.86 EUR (original: 110 EUR) en el siguiente enlace!

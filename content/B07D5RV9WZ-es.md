@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma EVOSTRIPE Hoody Sweatshirt  Hombre  Forest Night  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5RV9WZ/?tag=tolees-21'
+descuento: '53.48'
+titulo: 'Puma EVOSTRIPE Hoody Sweatshirt  Hombre '
 ---
 
 Tienes [Puma EVOSTRIPE Hoody Sweatshirt  Hombre  Forest Night  S](https://www.amazon.es/dp/B07D5RV9WZ/?tag=tolees-21) con un 53.48 % de descuento con precio de oferta de 32.54 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'HUGO Eddison-w Camisa  Marrón  Medium Brown 217   X-Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKSQXYM/?tag=tolees-21'
+descuento: '70.48'
+titulo: 'HUGO Eddison-w Camisa  Marrón  Medium Br'
 ---
 
 Está [HUGO Eddison-w Camisa  Marrón  Medium Brown 217   X-Small para Hombre](https://www.amazon.es/dp/B07KKSQXYM/?tag=tolees-21) con 70.48 de descuento por 29.51 EUR (original: 99.95 EUR) en el siguiente enlace!

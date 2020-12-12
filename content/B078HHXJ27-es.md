@@ -17,6 +17,9 @@ comparePrice: 284.61 EUR
 inStock: true
 prodname: 'Michael Kors Tote  Bolso totes para Mujer  Negro  Black   15x10x5 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HHXJ27/?tag=tolees-21'
+descuento: '47.30'
+titulo: 'Michael Kors Tote  Bolso totes para Muje'
 ---
 
 Tienes [Michael Kors Tote  Bolso totes para Mujer  Negro  Black   15x10x5 cm  W x H x L ](https://www.amazon.es/dp/B078HHXJ27/?tag=tolees-21) con un 47.30 % de descuento con precio de oferta de 150 EUR (original: 284.61 EUR) en el siguiente enlace!

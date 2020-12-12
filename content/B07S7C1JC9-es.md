@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Flybiz Mini UFO Drone  para Niños UFO Drone Recargable Mini Quadcopter Movimiento Control Mano Drone Flying Toys con Led Light Beginner RC Helicóptero Regalos para Niños Adultos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07S7C1JC9/?tag=tolees-21'
+descuento: '30.78'
+titulo: 'Flybiz Mini UFO Drone  para Niños UFO Dr'
 ---
 
 Tienes [Flybiz Mini UFO Drone  para Niños UFO Drone Recargable Mini Quadcopter Movimiento Control Mano Drone Flying Toys con Led Light Beginner RC Helicóptero Regalos para Niños Adultos](https://www.amazon.es/dp/B07S7C1JC9/?tag=tolees-21) con un 30.78 % de descuento con precio de oferta de 17.99 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas Ultimate 365 Climacool Solid Polo  Hombre   Morado Dq2404   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M6G1B7L/?tag=tolees-21'
+descuento: '40.09'
+titulo: 'adidas Ultimate 365 Climacool Solid Polo'
 ---
 
 Tienes [adidas Ultimate 365 Climacool Solid Polo  Hombre   Morado Dq2404   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07M6G1B7L/?tag=tolees-21) con un 40.09 % de descuento con precio de oferta de 41.91 EUR (original: 69.95 EUR) en el siguiente enlace!

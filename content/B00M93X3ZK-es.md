@@ -17,6 +17,9 @@ comparePrice: 50.99 EUR
 inStock: true
 prodname: 'Philips Azur Performer GC3811/70 - Plancha de Vapor 2400W  golpe de vapor 160g  vapor de 40g/min  0.3 litros  Suela SteamGlide Plus  Sistema Antical'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00M93X3ZK/?tag=tolees-21'
+descuento: '37.44'
+titulo: 'Philips Azur Performer GC3811/70 - Planc'
 ---
 
 Tienes [Philips Azur Performer GC3811/70 - Plancha de Vapor 2400W  golpe de vapor 160g  vapor de 40g/min  0.3 litros  Suela SteamGlide Plus  Sistema Antical](https://www.amazon.es/dp/B00M93X3ZK/?tag=tolees-21) con un 37.44 % de descuento con precio de oferta de 31.9 EUR (original: 50.99 EUR) en el siguiente enlace!

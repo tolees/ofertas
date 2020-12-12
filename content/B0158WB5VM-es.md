@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Nintendo - Figura Amiibo Totakeke  K.K. Slider '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0158WB5VM/?tag=tolees-21'
+descuento: '54.58'
+titulo: 'Nintendo - Figura Amiibo Totakeke  K.K. '
 ---
 
 Está [Nintendo - Figura Amiibo Totakeke  K.K. Slider ](https://www.amazon.es/dp/B0158WB5VM/?tag=tolees-21) con 54.58 de descuento por 5.9 EUR (original: 12.99 EUR) en el siguiente enlace!

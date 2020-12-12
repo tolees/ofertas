@@ -17,6 +17,9 @@ comparePrice: 295 EUR
 inStock: true
 prodname: 'Ferrari 0830261 - Reloj analógico de pulsera para hombre  cuarzo  correa de silicona '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01276KRUM/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Ferrari 0830261 - Reloj analógico de pul'
 ---
 
 Está [Ferrari 0830261 - Reloj analógico de pulsera para hombre  cuarzo  correa de silicona ](https://www.amazon.es/dp/B01276KRUM/?tag=tolees-21) con 50.00 de descuento por 147.5 EUR (original: 295 EUR) en el siguiente enlace!

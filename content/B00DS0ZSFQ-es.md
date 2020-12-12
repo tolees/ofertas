@@ -17,6 +17,9 @@ comparePrice: 75.6 EUR
 inStock: true
 prodname: 'Shimano PDR550L - Spd-Sl R550  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DS0ZSFQ/?tag=tolees-21'
+descuento: '33.99'
+titulo: 'Shimano PDR550L - Spd-Sl R550  color neg'
 ---
 
 Tienes [Shimano PDR550L - Spd-Sl R550  color negro](https://www.amazon.es/dp/B00DS0ZSFQ/?tag=tolees-21) con un 33.99 % de descuento con precio de oferta de 49.9 EUR (original: 75.6 EUR) en el siguiente enlace!

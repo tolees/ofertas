@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Superga'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXFRMB2/?tag=tolees-21'
+descuento: '74.51'
+titulo: 'Superga'
 ---
 
 Tienes [Superga](https://www.amazon.es/dp/B01LXFRMB2/?tag=tolees-21) con un 74.51 % de descuento con precio de oferta de 16.57 EUR (original: 65 EUR) en el siguiente enlace!

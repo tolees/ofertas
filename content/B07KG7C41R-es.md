@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'adidas Club Jersey Camiseta  Hombre  veract/Blanco  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KG7C41R/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Club Jersey Camiseta  Hombre  ver'
 ---
 
 Está [adidas Club Jersey Camiseta  Hombre  veract/Blanco  L](https://www.amazon.es/dp/B07KG7C41R/?tag=tolees-21) con 49.99 de descuento por 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

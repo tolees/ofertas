@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Originals Gazelle  Zapatillas Unisex Adulto  Azul  Collegiate Royal/White/Gold Metallic   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IP0CML6/?tag=tolees-21'
+descuento: '52.50'
+titulo: 'adidas Originals Gazelle  Zapatillas Uni'
 ---
 
 Está [adidas Originals Gazelle  Zapatillas Unisex Adulto  Azul  Collegiate Royal/White/Gold Metallic   40 EU](https://www.amazon.es/dp/B01IP0CML6/?tag=tolees-21) con 52.50 de descuento por 47.48 EUR (original: 99.95 EUR) en el siguiente enlace!

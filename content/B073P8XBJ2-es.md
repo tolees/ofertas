@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Tiffosi Noel Chaqueta  Beige    Tamaño del Fabricante:S  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073P8XBJ2/?tag=tolees-21'
+descuento: '60.47'
+titulo: 'Tiffosi Noel Chaqueta  Beige    Tamaño d'
 ---
 
 Ahora mismo tienes [Tiffosi Noel Chaqueta  Beige    Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B073P8XBJ2/?tag=tolees-21) a 15.81 EUR (original: 39.99 EUR) (60.47 %  de descuento) en el siguiente enlace!

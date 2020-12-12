@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'POP! Vinilo - Ghostbusters: 6" Toasted Stay Puft'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NZDKXFQ/?tag=tolees-21'
+descuento: '35.38'
+titulo: 'POP! Vinilo - Ghostbusters: 6" Toasted S'
 ---
 
 Tienes [POP! Vinilo - Ghostbusters: 6" Toasted Stay Puft](https://www.amazon.es/dp/B00NZDKXFQ/?tag=tolees-21) con un 35.38 % de descuento con precio de oferta de 25.84 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'L Oréal Professionnel  Champú - 500 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071GRBF8F/?tag=tolees-21'
+descuento: '46.79'
+titulo: 'L Oréal Professionnel  Champú - 500 ml.'
 ---
 
 Está [L Oréal Professionnel  Champú - 500 ml.](https://www.amazon.es/dp/B071GRBF8F/?tag=tolees-21) con 46.79 de descuento por 14.9 EUR (original: 28 EUR) en el siguiente enlace!

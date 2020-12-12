@@ -17,6 +17,9 @@ comparePrice: 4.9 EUR
 inStock: true
 prodname: 'Lékué Polo apilable Verde  Silicona  Agua  1 Unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EHJ330S/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Lékué Polo apilable Verde  Silicona  Agu'
 ---
 
 Está [Lékué Polo apilable Verde  Silicona  Agua  1 Unidad](https://www.amazon.es/dp/B01EHJ330S/?tag=tolees-21) con 50.00 de descuento por 2.45 EUR (original: 4.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Double Agent 87311 Camiseta  Negro  Blue Black     Tamaño del Fabricante:XS  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RG33ST/?tag=tolees-21'
+descuento: '73.95'
+titulo: 'Double Agent 87311 Camiseta  Negro  Blue'
 ---
 
 Tienes [Double Agent 87311 Camiseta  Negro  Blue Black     Tamaño del Fabricante:XS  para Mujer](https://www.amazon.es/dp/B075RG33ST/?tag=tolees-21) con un 73.95 % de descuento con precio de oferta de 5.73 EUR (original: 22 EUR) en el siguiente enlace!

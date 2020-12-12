@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'DAM DMX189BL - Correa de Silicona para Apple Watch  38 mm  Color Azul Claro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMZLKS8/?tag=tolees-21'
+descuento: '85.69'
+titulo: 'DAM DMX189BL - Correa de Silicona para A'
 ---
 
 Tienes [DAM DMX189BL - Correa de Silicona para Apple Watch  38 mm  Color Azul Claro](https://www.amazon.es/dp/B07JMZLKS8/?tag=tolees-21) con un 85.69 % de descuento con precio de oferta de 7.01 EUR (original: 49 EUR) en el siguiente enlace!

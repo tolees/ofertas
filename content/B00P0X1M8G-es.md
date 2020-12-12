@@ -17,6 +17,9 @@ comparePrice: 108.99 EUR
 inStock: true
 prodname: 'Zanvic Jardinera C/Patas Mod Rato Jh 600 C/Autorriego  Chocolate  60 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00P0X1M8G/?tag=tolees-21'
+descuento: '69.31'
+titulo: 'Zanvic Jardinera C/Patas Mod Rato Jh 600'
 ---
 
 Tienes [Zanvic Jardinera C/Patas Mod Rato Jh 600 C/Autorriego  Chocolate  60 cm](https://www.amazon.es/dp/B00P0X1M8G/?tag=tolees-21) con un 69.31 % de descuento con precio de oferta de 33.45 EUR (original: 108.99 EUR) en el siguiente enlace!

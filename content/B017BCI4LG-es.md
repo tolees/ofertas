@@ -17,6 +17,9 @@ comparePrice: 4.05 EUR
 inStock: true
 prodname: 'Toallitas Olay para Limpieza Facial  piel sensible  - 20 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017BCI4LG/?tag=tolees-21'
+descuento: '25.93'
+titulo: 'Toallitas Olay para Limpieza Facial  pie'
 ---
 
 Tienes [Toallitas Olay para Limpieza Facial  piel sensible  - 20 unidades](https://www.amazon.es/dp/B017BCI4LG/?tag=tolees-21) con un 25.93 % de descuento con precio de oferta de 3 EUR (original: 4.05 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Tommy Jeans Mujer Slim Fit Poplin  Blusa Manga Larga  Negro  Tommy Black 078  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9TKBCT/?tag=tolees-21'
+descuento: '50.77'
+titulo: 'Tommy Jeans Mujer Slim Fit Poplin  Blusa'
 ---
 
 Está [Tommy Jeans Mujer Slim Fit Poplin  Blusa Manga Larga  Negro  Tommy Black 078  Medium](https://www.amazon.es/dp/B07D9TKBCT/?tag=tolees-21) con 50.77 de descuento por 32 EUR (original: 65 EUR) en el siguiente enlace!

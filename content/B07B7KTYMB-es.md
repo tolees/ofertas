@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Mini auriculares Bluetooth  Ifecco In-ear Auriculares inalámbricos más pequeños con micrófono Llamadas manos libres  para teléfonos inteligentes y otros dispositivos Bluetooth  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B7KTYMB/?tag=tolees-21'
+descuento: '90.02'
+titulo: 'Mini auriculares Bluetooth  Ifecco In-ea'
 ---
 
 Ahora mismo tienes [Mini auriculares Bluetooth  Ifecco In-ear Auriculares inalámbricos más pequeños con micrófono Llamadas manos libres  para teléfonos inteligentes y otros dispositivos Bluetooth  Negro ](https://www.amazon.es/dp/B07B7KTYMB/?tag=tolees-21) a 5.99 EUR (original: 59.99 EUR) (90.02 %  de descuento) en el siguiente enlace!

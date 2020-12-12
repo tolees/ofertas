@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Napapijri Bellary Sudadera   Fantasy F29   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9JVXYL/?tag=tolees-21'
+descuento: '68.32'
+titulo: 'Napapijri Bellary Sudadera   Fantasy F29'
 ---
 
 Está [Napapijri Bellary Sudadera   Fantasy F29   Large para Hombre](https://www.amazon.es/dp/B07L9JVXYL/?tag=tolees-21) con 68.32 de descuento por 37.7 EUR (original: 119 EUR) en el siguiente enlace!

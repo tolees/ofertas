@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorantwon Sweat Hood Capucha  Blanco  Cloud Dancer Fit: Reg Originals   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K4WH9V6/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'JACK & JONES Jorantwon Sweat Hood Capuch'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorantwon Sweat Hood Capucha  Blanco  Cloud Dancer Fit: Reg Originals   X-Large para Hombre](https://www.amazon.es/dp/B07K4WH9V6/?tag=tolees-21) a 22.49 EUR (original: 29.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

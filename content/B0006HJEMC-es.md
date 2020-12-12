@@ -17,6 +17,9 @@ comparePrice: 14.47 EUR
 inStock: true
 prodname: 'Revell- R.M.S. Titanic Escala 1/1200-Revell RE05804   22 3 cm de Largo  05804 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0006HJEMC/?tag=tolees-21'
+descuento: '43.33'
+titulo: 'Revell- R.M.S. Titanic Escala 1/1200-Rev'
 ---
 
 Tienes [Revell- R.M.S. Titanic Escala 1/1200-Revell RE05804   22 3 cm de Largo  05804 ](https://www.amazon.es/dp/B0006HJEMC/?tag=tolees-21) con un 43.33 % de descuento con precio de oferta de 8.2 EUR (original: 14.47 EUR) en el siguiente enlace!

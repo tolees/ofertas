@@ -17,6 +17,9 @@ comparePrice: 51.67 EUR
 inStock: true
 prodname: '5BILLION Almohadilla de Equilibrio Balance Pad - 49cm x 39cm x 6cm - Almohadilla de Ejercicios & Equilibradora de Espuma Trainer - Cojín Oscilante para Terapia Física  Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LEOMCTC/?tag=tolees-21'
+descuento: '40.02'
+titulo: '5BILLION Almohadilla de Equilibrio Balan'
 ---
 
 Está [5BILLION Almohadilla de Equilibrio Balance Pad - 49cm x 39cm x 6cm - Almohadilla de Ejercicios & Equilibradora de Espuma Trainer - Cojín Oscilante para Terapia Física  Azul ](https://www.amazon.es/dp/B01LEOMCTC/?tag=tolees-21) con 40.02 de descuento por 30.99 EUR (original: 51.67 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Volcom Crisp Euro BSC SS Camiseta  Hombre  Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KMVVB9X/?tag=tolees-21'
+descuento: '49.10'
+titulo: 'Volcom Crisp Euro BSC SS Camiseta  Hombr'
 ---
 
 Está [Volcom Crisp Euro BSC SS Camiseta  Hombre  Black  L](https://www.amazon.es/dp/B07KMVVB9X/?tag=tolees-21) con 49.10 de descuento por 15.27 EUR (original: 30 EUR) en el siguiente enlace!

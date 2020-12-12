@@ -17,6 +17,9 @@ comparePrice: 4.95 EUR
 inStock: true
 prodname: 'L Oréal Paris Stylista Serum Sleek 200ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GGJGBL/?tag=tolees-21'
+descuento: '26.26'
+titulo: 'L Oréal Paris Stylista Serum Sleek 200ml'
 ---
 
 Tienes [L Oréal Paris Stylista Serum Sleek 200ml](https://www.amazon.es/dp/B078GGJGBL/?tag=tolees-21) con un 26.26 % de descuento con precio de oferta de 3.65 EUR (original: 4.95 EUR) en el siguiente enlace!

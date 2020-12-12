@@ -17,6 +17,9 @@ comparePrice: 15.44 EUR
 inStock: true
 prodname: 'Marca Amazon - Wickedly Prime Pesto de hortalizas asadas  6x190g '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077K6MD7N/?tag=tolees-21'
+descuento: '27.98'
+titulo: 'Marca Amazon - Wickedly Prime Pesto de h'
 ---
 
 Tienes [Marca Amazon - Wickedly Prime Pesto de hortalizas asadas  6x190g ](https://www.amazon.es/dp/B077K6MD7N/?tag=tolees-21) con un 27.98 % de descuento con precio de oferta de 11.12 EUR (original: 15.44 EUR) en el siguiente enlace!

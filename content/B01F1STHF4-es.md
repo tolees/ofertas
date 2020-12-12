@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Dockers CLEAN CHINO MARINA SLIM - CORDUROY  Pantalones Hombre  Azul  PEMBROKE   W34/L32  Talla del fabricante: 34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01F1STHF4/?tag=tolees-21'
+descuento: '80.24'
+titulo: 'Dockers CLEAN CHINO MARINA SLIM - CORDUR'
 ---
 
 Tienes [Dockers CLEAN CHINO MARINA SLIM - CORDUROY  Pantalones Hombre  Azul  PEMBROKE   W34/L32  Talla del fabricante: 34 ](https://www.amazon.es/dp/B01F1STHF4/?tag=tolees-21) con un 80.24 % de descuento con precio de oferta de 21.74 EUR (original: 110 EUR) en el siguiente enlace!

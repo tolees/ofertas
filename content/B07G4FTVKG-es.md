@@ -17,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 2010968'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4FTVKG/?tag=tolees-21'
+descuento: '40.97'
+titulo: 'Lacoste Reloj Analógico para Hombre de C'
 ---
 
 Ahora mismo tienes [Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 2010968](https://www.amazon.es/dp/B07G4FTVKG/?tag=tolees-21) a 105.67 EUR (original: 179 EUR) (40.97 %  de descuento) en el siguiente enlace!

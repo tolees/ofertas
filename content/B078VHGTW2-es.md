@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Odeosan Clinique Corrector de Postura para Espalda  Hombro y Clavícula Hombre y Mujer | Soporte Ajustable Unisex de Calidad para Mejorar Postura y Aliviar Dolor | Apoyo de Columna y Tronco Cifosis'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078VHGTW2/?tag=tolees-21'
+descuento: '65.03'
+titulo: 'Odeosan Clinique Corrector de Postura pa'
 ---
 
 Ahora mismo tienes [Odeosan Clinique Corrector de Postura para Espalda  Hombro y Clavícula Hombre y Mujer | Soporte Ajustable Unisex de Calidad para Mejorar Postura y Aliviar Dolor | Apoyo de Columna y Tronco Cifosis](https://www.amazon.es/dp/B078VHGTW2/?tag=tolees-21) a 13.99 EUR (original: 40 EUR) (65.03 %  de descuento) en el siguiente enlace!

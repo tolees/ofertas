@@ -17,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'Braun Silk-épil 9 SkinSpa 9-941V - Depiladora para mujer con Sistema 3 en 1 de exfoliación + 8 accesorios  blanco/violeta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4UW7ZI/?tag=tolees-21'
+descuento: '45.82'
+titulo: 'Braun Silk-épil 9 SkinSpa 9-941V - Depil'
 ---
 
 Tienes [Braun Silk-épil 9 SkinSpa 9-941V - Depiladora para mujer con Sistema 3 en 1 de exfoliación + 8 accesorios  blanco/violeta](https://www.amazon.es/dp/B01N4UW7ZI/?tag=tolees-21) con un 45.82 % de descuento con precio de oferta de 96.99 EUR (original: 179 EUR) en el siguiente enlace!

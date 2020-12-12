@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'Disney Minnie Bows Neceser  Color Blanco  1.42 litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011RWUI92/?tag=tolees-21'
+descuento: '39.33'
+titulo: 'Disney Minnie Bows Neceser  Color Blanco'
 ---
 
 Está [Disney Minnie Bows Neceser  Color Blanco  1.42 litros](https://www.amazon.es/dp/B011RWUI92/?tag=tolees-21) con 39.33 de descuento por 9.1 EUR (original: 15 EUR) en el siguiente enlace!

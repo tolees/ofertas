@@ -17,6 +17,9 @@ comparePrice: 16.95 EUR
 inStock: true
 prodname: 'Star Wars - Mochila - Star Wars Darth Vader'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0765W4YNM/?tag=tolees-21'
+descuento: '47.20'
+titulo: 'Star Wars - Mochila - Star Wars Darth Va'
 ---
 
 Está [Star Wars - Mochila - Star Wars Darth Vader](https://www.amazon.es/dp/B0765W4YNM/?tag=tolees-21) con 47.20 de descuento por 8.95 EUR (original: 16.95 EUR) en el siguiente enlace!

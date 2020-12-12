@@ -17,6 +17,9 @@ comparePrice: 15.6 EUR
 inStock: true
 prodname: 'FELiCON Mens Sports Shorts  Running Shorts para Hombres con Bolsillo de Cremallera  Secado rápido y Transpirable para Correr Fitness Workout Gym'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MVDZCT/?tag=tolees-21'
+descuento: '32.12'
+titulo: 'FELiCON Mens Sports Shorts  Running Shor'
 ---
 
 Ahora mismo tienes [FELiCON Mens Sports Shorts  Running Shorts para Hombres con Bolsillo de Cremallera  Secado rápido y Transpirable para Correr Fitness Workout Gym](https://www.amazon.es/dp/B077MVDZCT/?tag=tolees-21) a 10.59 EUR (original: 15.6 EUR) (32.12 %  de descuento) en el siguiente enlace!

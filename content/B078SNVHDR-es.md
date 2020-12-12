@@ -17,6 +17,9 @@ comparePrice: 39.89 EUR
 inStock: true
 prodname: 'GreatCool Soporte Móvil Coche Triple Taza Ventosa + Jaws Flex Clamp Mount + Cuello de Ganso Ajustable con 1/4 "tornillo soporte 360 °Metal Rótula de bola para Gopro Hero 7 6 5 4 3 Cámaras de Acción'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SNVHDR/?tag=tolees-21'
+descuento: '34.85'
+titulo: 'GreatCool Soporte Móvil Coche Triple Taz'
 ---
 
 Tienes [GreatCool Soporte Móvil Coche Triple Taza Ventosa + Jaws Flex Clamp Mount + Cuello de Ganso Ajustable con 1/4 "tornillo soporte 360 °Metal Rótula de bola para Gopro Hero 7 6 5 4 3 Cámaras de Acción](https://www.amazon.es/dp/B078SNVHDR/?tag=tolees-21) con un 34.85 % de descuento con precio de oferta de 25.99 EUR (original: 39.89 EUR) en el siguiente enlace!

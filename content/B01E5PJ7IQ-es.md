@@ -17,6 +17,9 @@ comparePrice: 21.95 EUR
 inStock: true
 prodname: 'Miami Beach Swimwear Rosa  Bikini Mujer  Azul  aquarius   36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01E5PJ7IQ/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Miami Beach Swimwear Rosa  Bikini Mujer '
 ---
 
 Está [Miami Beach Swimwear Rosa  Bikini Mujer  Azul  aquarius   36](https://www.amazon.es/dp/B01E5PJ7IQ/?tag=tolees-21) con 60.00 de descuento por 8.78 EUR (original: 21.95 EUR) en el siguiente enlace!

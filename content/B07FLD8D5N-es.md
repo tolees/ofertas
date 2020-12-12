@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Superdry 34th St Hood  suéter Hombre  Gris  Alaska Grey Grit Vm2   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLD8D5N/?tag=tolees-21'
+descuento: '72.13'
+titulo: 'Superdry 34th St Hood  suéter Hombre  Gr'
 ---
 
 Ahora mismo tienes [Superdry 34th St Hood  suéter Hombre  Gris  Alaska Grey Grit Vm2   Large](https://www.amazon.es/dp/B07FLD8D5N/?tag=tolees-21) a 23.69 EUR (original: 85 EUR) (72.13 %  de descuento) en el siguiente enlace!

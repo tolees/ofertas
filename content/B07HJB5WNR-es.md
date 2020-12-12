@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Straight Denton 5pkt Gmd Flex  Pantalones Hombre  Negro  Jet Black 083   W34/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HJB5WNR/?tag=tolees-21'
+descuento: '49.57'
+titulo: 'Tommy Hilfiger Straight Denton 5pkt Gmd '
 ---
 
 Tienes [Tommy Hilfiger Straight Denton 5pkt Gmd Flex  Pantalones Hombre  Negro  Jet Black 083   W34/L34](https://www.amazon.es/dp/B07HJB5WNR/?tag=tolees-21) con un 49.57 % de descuento con precio de oferta de 54.97 EUR (original: 109 EUR) en el siguiente enlace!

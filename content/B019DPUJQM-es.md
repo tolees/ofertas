@@ -17,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'Ultrasport Endurance Cruz Concord Printed Bañador de Surf  Hombre  Azul  True Blue   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019DPUJQM/?tag=tolees-21'
+descuento: '53.40'
+titulo: 'Ultrasport Endurance Cruz Concord Printe'
 ---
 
 Está [Ultrasport Endurance Cruz Concord Printed Bañador de Surf  Hombre  Azul  True Blue   Medium](https://www.amazon.es/dp/B019DPUJQM/?tag=tolees-21) con 53.40 de descuento por 11.18 EUR (original: 23.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'Desigual CINT_Embroidered Belt Caribou Cinturón  Negro 2000  85 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XQ22TJG/?tag=tolees-21'
+descuento: '41.61'
+titulo: 'Desigual CINT_Embroidered Belt Caribou C'
 ---
 
 Está [Desigual CINT_Embroidered Belt Caribou Cinturón  Negro 2000  85 para Mujer](https://www.amazon.es/dp/B06XQ22TJG/?tag=tolees-21) con 41.61 de descuento por 20.99 EUR (original: 35.95 EUR) en el siguiente enlace!

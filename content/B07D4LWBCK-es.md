@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmedna LS Blouse Ga Blusa   Eggnog AOP: Stripe Black   38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4LWBCK/?tag=tolees-21'
+descuento: '51.07'
+titulo: 'Vero Moda Vmedna LS Blouse Ga Blusa   Eg'
 ---
 
 Ahora mismo tienes [Vero Moda Vmedna LS Blouse Ga Blusa   Eggnog AOP: Stripe Black   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07D4LWBCK/?tag=tolees-21) a 17.12 EUR (original: 34.99 EUR) (51.07 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 23.49 EUR
 inStock: true
 prodname: 'AmazonBasics - Manta suave con tacto de terciopelo  Completa/Queen   gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019ZJRONM/?tag=tolees-21'
+descuento: '30.14'
+titulo: 'AmazonBasics - Manta suave con tacto de '
 ---
 
 Está [AmazonBasics - Manta suave con tacto de terciopelo  Completa/Queen   gris](https://www.amazon.es/dp/B019ZJRONM/?tag=tolees-21) con 30.14 de descuento por 16.41 EUR (original: 23.49 EUR) en el siguiente enlace!

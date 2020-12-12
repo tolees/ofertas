@@ -17,6 +17,9 @@ comparePrice: 24.79 EUR
 inStock: true
 prodname: 'Alfaparf  Champú - 200 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N48MUVU/?tag=tolees-21'
+descuento: '43.53'
+titulo: 'Alfaparf  Champú - 200 ml.'
 ---
 
 Está [Alfaparf  Champú - 200 ml.](https://www.amazon.es/dp/B01N48MUVU/?tag=tolees-21) con 43.53 de descuento por 14 EUR (original: 24.79 EUR) en el siguiente enlace!

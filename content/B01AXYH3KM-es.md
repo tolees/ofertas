@@ -17,6 +17,9 @@ comparePrice: 16.8 EUR
 inStock: true
 prodname: 'Joma 100005.550 - Camiseta de equipación de Manga Larga para Mujer  Color Morado  Talla S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AXYH3KM/?tag=tolees-21'
+descuento: '52.68'
+titulo: 'Joma 100005.550 - Camiseta de equipación'
 ---
 
 Está [Joma 100005.550 - Camiseta de equipación de Manga Larga para Mujer  Color Morado  Talla S](https://www.amazon.es/dp/B01AXYH3KM/?tag=tolees-21) con 52.68 de descuento por 7.95 EUR (original: 16.8 EUR) en el siguiente enlace!

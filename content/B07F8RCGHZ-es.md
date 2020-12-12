@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'URCERI Termómetro Infrarrojo Digital Láser IR  alta precisión ±0.1°C  rango -50℃~580℃ -58 ℉ a 1076 ℉  pistola de temperatura con pantalla a color'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8RCGHZ/?tag=tolees-21'
+descuento: '36.68'
+titulo: 'URCERI Termómetro Infrarrojo Digital Lás'
 ---
 
 Tienes [URCERI Termómetro Infrarrojo Digital Láser IR  alta precisión ±0.1°C  rango -50℃~580℃ -58 ℉ a 1076 ℉  pistola de temperatura con pantalla a color](https://www.amazon.es/dp/B07F8RCGHZ/?tag=tolees-21) con un 36.68 % de descuento con precio de oferta de 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

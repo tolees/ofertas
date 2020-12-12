@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Skechers Bobs Squad-Awesome Sauce  Zapatillas para Mujer  Negro  Black Grey Bkgy   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0784QGTPY/?tag=tolees-21'
+descuento: '43.89'
+titulo: 'Skechers Bobs Squad-Awesome Sauce  Zapat'
 ---
 
 Está [Skechers Bobs Squad-Awesome Sauce  Zapatillas para Mujer  Negro  Black Grey Bkgy   38.5 EU](https://www.amazon.es/dp/B0784QGTPY/?tag=tolees-21) con 43.89 de descuento por 30.83 EUR (original: 54.95 EUR) en el siguiente enlace!

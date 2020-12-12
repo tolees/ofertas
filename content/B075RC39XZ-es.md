@@ -17,6 +17,9 @@ comparePrice: 197 EUR
 inStock: true
 prodname: 'Carrera 149/S W6 J5G 65  Gafas de Sol Unisex Adulto  Dorado  Gold Pink '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RC39XZ/?tag=tolees-21'
+descuento: '82.99'
+titulo: 'Carrera 149/S W6 J5G 65  Gafas de Sol Un'
 ---
 
 Tienes [Carrera 149/S W6 J5G 65  Gafas de Sol Unisex Adulto  Dorado  Gold Pink ](https://www.amazon.es/dp/B075RC39XZ/?tag=tolees-21) con un 82.99 % de descuento con precio de oferta de 33.5 EUR (original: 197 EUR) en el siguiente enlace!

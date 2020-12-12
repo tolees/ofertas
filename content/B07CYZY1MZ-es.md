@@ -17,6 +17,9 @@ comparePrice: 54.94 EUR
 inStock: true
 prodname: 'Nike Zapatillas de Deporte Unisex Adulto   749747 402  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CYZY1MZ/?tag=tolees-21'
+descuento: '35.97'
+titulo: 'Nike Zapatillas de Deporte Unisex Adulto'
 ---
 
 Ahora mismo tienes [Nike Zapatillas de Deporte Unisex Adulto   749747 402  43 EU](https://www.amazon.es/dp/B07CYZY1MZ/?tag=tolees-21) a 35.18 EUR (original: 54.94 EUR) (35.97 %  de descuento) en el siguiente enlace!

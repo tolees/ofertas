@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jfwvision Chambray Mix SS Anthracite  Zapatillas para Hombre  Gris  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075TCF5QZ/?tag=tolees-21'
+descuento: '29.98'
+titulo: 'JACK & JONES Jfwvision Chambray Mix SS A'
 ---
 
 Ahora mismo tienes [JACK & JONES Jfwvision Chambray Mix SS Anthracite  Zapatillas para Hombre  Gris  40 EU](https://www.amazon.es/dp/B075TCF5QZ/?tag=tolees-21) a 31.5 EUR (original: 44.99 EUR) (29.98 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'FIND Mono Asimétrico para Mujer  Rojo  Red Tomato Red   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071FJCWB3/?tag=tolees-21'
+descuento: '67.22'
+titulo: 'FIND Mono Asimétrico para Mujer  Rojo  R'
 ---
 
 Ahora mismo tienes [FIND Mono Asimétrico para Mujer  Rojo  Red Tomato Red   Medium](https://www.amazon.es/dp/B071FJCWB3/?tag=tolees-21) a 14.75 EUR (original: 45 EUR) (67.22 %  de descuento) en el siguiente enlace!

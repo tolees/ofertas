@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'NWOUIIAY 8Pcs 17-P Cepillo Cabezales Cepillo elétrico Diente Profesional Cabezales de Cepillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N2JP9QH/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'NWOUIIAY 8Pcs 17-P Cepillo Cabezales Cep'
 ---
 
 Tienes [NWOUIIAY 8Pcs 17-P Cepillo Cabezales Cepillo elétrico Diente Profesional Cabezales de Cepillo](https://www.amazon.es/dp/B07N2JP9QH/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

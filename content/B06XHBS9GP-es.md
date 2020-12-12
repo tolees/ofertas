@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Helly Hansen HH LIFA Active Crew LS Baselayer  Hombre  Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHBS9GP/?tag=tolees-21'
+descuento: '68.14'
+titulo: 'Helly Hansen HH LIFA Active Crew LS Base'
 ---
 
 Tienes [Helly Hansen HH LIFA Active Crew LS Baselayer  Hombre  Black  S](https://www.amazon.es/dp/B06XHBS9GP/?tag=tolees-21) con un 68.14 % de descuento con precio de oferta de 15.93 EUR (original: 50 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma 365 FF CT  Zapatillas de Deporte Interior para Hombre  Negro Black White  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC7X39X/?tag=tolees-21'
+descuento: '58.18'
+titulo: 'Puma 365 FF CT  Zapatillas de Deporte In'
 ---
 
 Ahora mismo tienes [Puma 365 FF CT  Zapatillas de Deporte Interior para Hombre  Negro Black White  42 EU](https://www.amazon.es/dp/B07DC7X39X/?tag=tolees-21) a 25.07 EUR (original: 59.95 EUR) (58.18 %  de descuento) en el siguiente enlace!

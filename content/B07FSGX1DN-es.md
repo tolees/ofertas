@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Lee Stripe tee Camiseta  Marfil  Indigo Flash ED   40  Talla del Fabricante: Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSGX1DN/?tag=tolees-21'
+descuento: '58.51'
+titulo: 'Lee Stripe tee Camiseta  Marfil  Indigo '
 ---
 
 Ahora mismo tienes [Lee Stripe tee Camiseta  Marfil  Indigo Flash ED   40  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07FSGX1DN/?tag=tolees-21) a 14.52 EUR (original: 35 EUR) (58.51 %  de descuento) en el siguiente enlace!

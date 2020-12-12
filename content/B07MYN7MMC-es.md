@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'AIJEESI TWS 5.0 Auriculares Bluetooth inalámbricos con micrófono estéreo 10 Horas de reproducción'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MYN7MMC/?tag=tolees-21'
+descuento: '62.87'
+titulo: 'AIJEESI TWS 5.0 Auriculares Bluetooth in'
 ---
 
 Ahora mismo tienes [AIJEESI TWS 5.0 Auriculares Bluetooth inalámbricos con micrófono estéreo 10 Horas de reproducción](https://www.amazon.es/dp/B07MYN7MMC/?tag=tolees-21) a 25.99 EUR (original: 69.99 EUR) (62.87 %  de descuento) en el siguiente enlace!

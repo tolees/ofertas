@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'smartect Protector de Pantalla para Motorola Moto E5 Plus [2 Unidades] - 9H Cristal Templado - Diseño Ultrafino - Instalación Sin Burbujas - Anti-Huellas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q81TZX3/?tag=tolees-21'
+descuento: '33.36'
+titulo: 'smartect Protector de Pantalla para Moto'
 ---
 
 Está [smartect Protector de Pantalla para Motorola Moto E5 Plus [2 Unidades] - 9H Cristal Templado - Diseño Ultrafino - Instalación Sin Burbujas - Anti-Huellas](https://www.amazon.es/dp/B07Q81TZX3/?tag=tolees-21) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

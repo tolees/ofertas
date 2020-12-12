@@ -17,6 +17,9 @@ comparePrice: 269.9 EUR
 inStock: true
 prodname: 'Polar V650 HR - Ciclocomputador con GPS y sensor de Frecuencia Cardíaca H10.  Mapas y seguimiento de rutas - Strava live segments - Luz frontal - Compatible con potenciometros BT'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CPFNNTP/?tag=tolees-21'
+descuento: '25.93'
+titulo: 'Polar V650 HR - Ciclocomputador con GPS '
 ---
 
 Está [Polar V650 HR - Ciclocomputador con GPS y sensor de Frecuencia Cardíaca H10.  Mapas y seguimiento de rutas - Strava live segments - Luz frontal - Compatible con potenciometros BT](https://www.amazon.es/dp/B07CPFNNTP/?tag=tolees-21) con 25.93 de descuento por 199.91 EUR (original: 269.9 EUR) en el siguiente enlace!

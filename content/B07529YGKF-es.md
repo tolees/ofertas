@@ -17,6 +17,9 @@ comparePrice: 18.98 EUR
 inStock: true
 prodname: 'Kepmem Memoria USB 2.0 DE 32 GB Forma Corazón Llave USB Pen Drive'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07529YGKF/?tag=tolees-21'
+descuento: '26.34'
+titulo: 'Kepmem Memoria USB 2.0 DE 32 GB Forma Co'
 ---
 
 Ahora mismo tienes [Kepmem Memoria USB 2.0 DE 32 GB Forma Corazón Llave USB Pen Drive](https://www.amazon.es/dp/B07529YGKF/?tag=tolees-21) a 13.98 EUR (original: 18.98 EUR) (26.34 %  de descuento) en el siguiente enlace!

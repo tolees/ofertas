@@ -17,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'IntimaTe WM Heart 2 x Taburetes Alto de Bar con Apoyabrazos de Cuero Sintético Silla de Bar 360°Giratoria Altura Ajustable  Pedales de Cromo Duraderos  para Bar y Cocina  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SGW6TD3/?tag=tolees-21'
+descuento: '47.06'
+titulo: 'IntimaTe WM Heart 2 x Taburetes Alto de '
 ---
 
 Está [IntimaTe WM Heart 2 x Taburetes Alto de Bar con Apoyabrazos de Cuero Sintético Silla de Bar 360°Giratoria Altura Ajustable  Pedales de Cromo Duraderos  para Bar y Cocina  Blanco ](https://www.amazon.es/dp/B07SGW6TD3/?tag=tolees-21) con 47.06 de descuento por 89.99 EUR (original: 169.99 EUR) en el siguiente enlace!

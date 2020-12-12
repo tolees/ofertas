@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Helly Hansen HH Logo Hoodie Sudadera con Capucha  Hombre  Flag Red  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F31B5BF/?tag=tolees-21'
+descuento: '34.81'
+titulo: 'Helly Hansen HH Logo Hoodie Sudadera con'
 ---
 
 Está [Helly Hansen HH Logo Hoodie Sudadera con Capucha  Hombre  Flag Red  L](https://www.amazon.es/dp/B07F31B5BF/?tag=tolees-21) con 34.81 de descuento por 45.63 EUR (original: 70 EUR) en el siguiente enlace!

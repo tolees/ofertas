@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Funko- Assassin S Creed Movie Callum Lynch Figura de Vinilo  11533 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LEJBPUE/?tag=tolees-21'
+descuento: '40.67'
+titulo: 'Funko- Assassin S Creed Movie Callum Lyn'
 ---
 
 Está [Funko- Assassin S Creed Movie Callum Lynch Figura de Vinilo  11533 ](https://www.amazon.es/dp/B01LEJBPUE/?tag=tolees-21) con 40.67 de descuento por 8.87 EUR (original: 14.95 EUR) en el siguiente enlace!

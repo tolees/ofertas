@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Garcia Kids Sara Jeans  Azul  Light Used 2823   176 para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CQ2D9L5/?tag=tolees-21'
+descuento: '84.10'
+titulo: 'Garcia Kids Sara Jeans  Azul  Light Used'
 ---
 
 Ahora mismo tienes [Garcia Kids Sara Jeans  Azul  Light Used 2823   176 para Niñas](https://www.amazon.es/dp/B07CQ2D9L5/?tag=tolees-21) a 7.95 EUR (original: 49.99 EUR) (84.10 %  de descuento) en el siguiente enlace!

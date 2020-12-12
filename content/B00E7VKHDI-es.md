@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Miniplancha de Cabello Iria Titanium XS Italian Design'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00E7VKHDI/?tag=tolees-21'
+descuento: '72.34'
+titulo: 'Miniplancha de Cabello Iria Titanium XS '
 ---
 
 Está [Miniplancha de Cabello Iria Titanium XS Italian Design](https://www.amazon.es/dp/B00E7VKHDI/?tag=tolees-21) con 72.34 de descuento por 35.68 EUR (original: 129 EUR) en el siguiente enlace!

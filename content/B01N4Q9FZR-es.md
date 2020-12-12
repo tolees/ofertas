@@ -17,6 +17,9 @@ comparePrice: 13.49 EUR
 inStock: true
 prodname: 'AmazonBasics - Tirador con forma de arco ahusado  para armario  7 62 cm de longitud  centro del orificio de 6 4 cm   Cromo pulido  Paquete de 10'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4Q9FZR/?tag=tolees-21'
+descuento: '40.77'
+titulo: 'AmazonBasics - Tirador con forma de arco'
 ---
 
 Ahora mismo tienes [AmazonBasics - Tirador con forma de arco ahusado  para armario  7 62 cm de longitud  centro del orificio de 6 4 cm   Cromo pulido  Paquete de 10](https://www.amazon.es/dp/B01N4Q9FZR/?tag=tolees-21) a 7.99 EUR (original: 13.49 EUR) (40.77 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Rebel Sweat Suit Cl. Chándal  Hombre  Negro  Cotton Black   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JWVQFH6/?tag=tolees-21'
+descuento: '39.97'
+titulo: 'Puma Rebel Sweat Suit Cl. Chándal  Hombr'
 ---
 
 Está [Puma Rebel Sweat Suit Cl. Chándal  Hombre  Negro  Cotton Black   XL](https://www.amazon.es/dp/B07JWVQFH6/?tag=tolees-21) con 39.97 de descuento por 41.99 EUR (original: 69.95 EUR) en el siguiente enlace!

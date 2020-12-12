@@ -17,6 +17,9 @@ comparePrice: 31.27 EUR
 inStock: true
 prodname: 'Astan Hogar Arrocera Multifunción 1 2 litros Hottix AH-KC5270'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MS3EYV5/?tag=tolees-21'
+descuento: '32.87'
+titulo: 'Astan Hogar Arrocera Multifunción 1 2 li'
 ---
 
 Tienes [Astan Hogar Arrocera Multifunción 1 2 litros Hottix AH-KC5270](https://www.amazon.es/dp/B01MS3EYV5/?tag=tolees-21) con un 32.87 % de descuento con precio de oferta de 20.99 EUR (original: 31.27 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Toim - Bicicleta 12 superwings'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0QGL4W/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Toim - Bicicleta 12 superwings'
 ---
 
 Ahora mismo tienes [Toim - Bicicleta 12 superwings](https://www.amazon.es/dp/B01N0QGL4W/?tag=tolees-21) a 55 EUR (original: 110 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'MTNG Attitude 84225  Zapatillas para Hombre  Azul PIO Marino/TPU Rojo C45101  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8R2KD1/?tag=tolees-21'
+descuento: '57.69'
+titulo: 'MTNG Attitude 84225  Zapatillas para Hom'
 ---
 
 Tienes [MTNG Attitude 84225  Zapatillas para Hombre  Azul PIO Marino/TPU Rojo C45101  41 EU](https://www.amazon.es/dp/B07M8R2KD1/?tag=tolees-21) con un 57.69 % de descuento con precio de oferta de 19.46 EUR (original: 45.99 EUR) en el siguiente enlace!

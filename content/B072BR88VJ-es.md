@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Puma Ignite Evoknit Lo VR  Zapatillas De Deporte para Exterior para Mujer  Negro  Black-Quarry-Quiet Shade   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BR88VJ/?tag=tolees-21'
+descuento: '63.32'
+titulo: 'Puma Ignite Evoknit Lo VR  Zapatillas De'
 ---
 
 Está [Puma Ignite Evoknit Lo VR  Zapatillas De Deporte para Exterior para Mujer  Negro  Black-Quarry-Quiet Shade   39 EU](https://www.amazon.es/dp/B072BR88VJ/?tag=tolees-21) con 63.32 de descuento por 44 EUR (original: 119.95 EUR) en el siguiente enlace!

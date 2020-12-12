@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'BOSS Cardigan Jogging Camiseta sin Mangas Deportiva   Gris Chine A33   12-18 Meses  Talla del Fabricante: 12M  para Bebés'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJ96S2X/?tag=tolees-21'
+descuento: '54.03'
+titulo: 'BOSS Cardigan Jogging Camiseta sin Manga'
 ---
 
 Tienes [BOSS Cardigan Jogging Camiseta sin Mangas Deportiva   Gris Chine A33   12-18 Meses  Talla del Fabricante: 12M  para Bebés](https://www.amazon.es/dp/B07JJ96S2X/?tag=tolees-21) con un 54.03 % de descuento con precio de oferta de 29.88 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Gant Cotton Pique Crew  suéter para Hombre  Azul  Evening Blue 433   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016B6MCZC/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Gant Cotton Pique Crew  suéter para Homb'
 ---
 
 Está [Gant Cotton Pique Crew  suéter para Hombre  Azul  Evening Blue 433   Large](https://www.amazon.es/dp/B016B6MCZC/?tag=tolees-21) con 40.01 de descuento por 59.39 EUR (original: 99 EUR) en el siguiente enlace!

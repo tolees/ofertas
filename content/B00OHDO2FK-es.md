@@ -17,6 +17,9 @@ comparePrice: 24 EUR
 inStock: true
 prodname: 'Kappa Pepito - Chanclas unisex  color negro/blanco  talla 41'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OHDO2FK/?tag=tolees-21'
+descuento: '47.42'
+titulo: 'Kappa Pepito - Chanclas unisex  color ne'
 ---
 
 Ahora mismo tienes [Kappa Pepito - Chanclas unisex  color negro/blanco  talla 41](https://www.amazon.es/dp/B00OHDO2FK/?tag=tolees-21) a 12.62 EUR (original: 24 EUR) (47.42 %  de descuento) en el siguiente enlace!

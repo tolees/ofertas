@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Uprise Knit  Zapatillas Unisex Adults o  Blanco White-Gray Violet-Nimbus Cloud  42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSCDN1N/?tag=tolees-21'
+descuento: '48.62'
+titulo: 'Puma Uprise Knit  Zapatillas Unisex Adul'
 ---
 
 Ahora mismo tienes [Puma Uprise Knit  Zapatillas Unisex Adults o  Blanco White-Gray Violet-Nimbus Cloud  42.5 EU](https://www.amazon.es/dp/B07CSCDN1N/?tag=tolees-21) a 46.22 EUR (original: 89.95 EUR) (48.62 %  de descuento) en el siguiente enlace!

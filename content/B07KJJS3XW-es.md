@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'BOSS Piro Polo  Gris  Medium Grey 037   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJJS3XW/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'BOSS Piro Polo  Gris  Medium Grey 037   '
 ---
 
 Está [BOSS Piro Polo  Gris  Medium Grey 037   XX-Large para Hombre](https://www.amazon.es/dp/B07KJJS3XW/?tag=tolees-21) con 30.02 de descuento por 55.95 EUR (original: 79.95 EUR) en el siguiente enlace!

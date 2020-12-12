@@ -17,6 +17,9 @@ comparePrice: 32.59 EUR
 inStock: true
 prodname: 'Eono Essentials - Chaqueta de senderismo de entretiempo con capucha para mujer  XS  verde '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MFCHPW4/?tag=tolees-21'
+descuento: '52.29'
+titulo: 'Eono Essentials - Chaqueta de senderismo'
 ---
 
 Ahora mismo tienes [Eono Essentials - Chaqueta de senderismo de entretiempo con capucha para mujer  XS  verde ](https://www.amazon.es/dp/B07MFCHPW4/?tag=tolees-21) a 15.55 EUR (original: 32.59 EUR) (52.29 %  de descuento) en el siguiente enlace!

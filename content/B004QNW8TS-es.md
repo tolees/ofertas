@@ -17,6 +17,9 @@ comparePrice: 35.1 EUR
 inStock: true
 prodname: 'THE BLUEBEARDS REVENGE THE ULTIMATE mach 3 razor in white 1 piezas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004QNW8TS/?tag=tolees-21'
+descuento: '67.29'
+titulo: 'THE BLUEBEARDS REVENGE THE ULTIMATE mach'
 ---
 
 Tienes [THE BLUEBEARDS REVENGE THE ULTIMATE mach 3 razor in white 1 piezas](https://www.amazon.es/dp/B004QNW8TS/?tag=tolees-21) con un 67.29 % de descuento con precio de oferta de 11.48 EUR (original: 35.1 EUR) en el siguiente enlace!

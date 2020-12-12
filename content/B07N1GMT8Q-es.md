@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'MOSUO 2 Pack Soporte Movil Coche Magnético  Universal Iman para movil Coche para Salpicadero/Pared/Superficies Planas  Soporte Teléfono Coche para iPhone/Samsung/Echo Dot/LG/GPS -Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N1GMT8Q/?tag=tolees-21'
+descuento: '33.36'
+titulo: 'MOSUO 2 Pack Soporte Movil Coche Magnéti'
 ---
 
 Está [MOSUO 2 Pack Soporte Movil Coche Magnético  Universal Iman para movil Coche para Salpicadero/Pared/Superficies Planas  Soporte Teléfono Coche para iPhone/Samsung/Echo Dot/LG/GPS -Plata](https://www.amazon.es/dp/B07N1GMT8Q/?tag=tolees-21) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

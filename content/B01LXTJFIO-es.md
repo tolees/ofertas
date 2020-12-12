@@ -17,6 +17,9 @@ comparePrice: 22.7 EUR
 inStock: true
 prodname: 'Vanish Quitamanchas Polvo Oxi Action  2 x 1 kg'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXTJFIO/?tag=tolees-21'
+descuento: '29.52'
+titulo: 'Vanish Quitamanchas Polvo Oxi Action  2 '
 ---
 
 Está [Vanish Quitamanchas Polvo Oxi Action  2 x 1 kg](https://www.amazon.es/dp/B01LXTJFIO/?tag=tolees-21) con 29.52 de descuento por 16 EUR (original: 22.7 EUR) en el siguiente enlace!

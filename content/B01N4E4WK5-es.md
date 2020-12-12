@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour UA W Micro G Press TR  Zapatillas Deportivas para Interior para Mujer  Blanco  White   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4E4WK5/?tag=tolees-21'
+descuento: '67.56'
+titulo: 'Under Armour UA W Micro G Press TR  Zapa'
 ---
 
 Ahora mismo tienes [Under Armour UA W Micro G Press TR  Zapatillas Deportivas para Interior para Mujer  Blanco  White   41 EU](https://www.amazon.es/dp/B01N4E4WK5/?tag=tolees-21) a 25.95 EUR (original: 80 EUR) (67.56 %  de descuento) en el siguiente enlace!

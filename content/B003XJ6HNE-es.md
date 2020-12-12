@@ -17,6 +17,9 @@ comparePrice: 46 EUR
 inStock: true
 prodname: 'Steelite FW80 Calzado de Protección  Color Blanco  Talla 46 EU  11 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003XJ6HNE/?tag=tolees-21'
+descuento: '78.17'
+titulo: 'Steelite FW80 Calzado de Protección  Col'
 ---
 
 Tienes [Steelite FW80 Calzado de Protección  Color Blanco  Talla 46 EU  11 UK ](https://www.amazon.es/dp/B003XJ6HNE/?tag=tolees-21) con un 78.17 % de descuento con precio de oferta de 10.04 EUR (original: 46 EUR) en el siguiente enlace!

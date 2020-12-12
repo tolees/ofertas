@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Vans Atwood Textile  Zapatillas para Niños - Multicolor   Micro Herringbone  Sailor Blue/Tango Red Vwb  - 27.5 EU  10.5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FXH6NPG/?tag=tolees-21'
+descuento: '51.58'
+titulo: 'Vans Atwood Textile  Zapatillas para Niñ'
 ---
 
 Está [Vans Atwood Textile  Zapatillas para Niños - Multicolor   Micro Herringbone  Sailor Blue/Tango Red Vwb  - 27.5 EU  10.5 UK ](https://www.amazon.es/dp/B07FXH6NPG/?tag=tolees-21) con 51.58 de descuento por 24.21 EUR (original: 50 EUR) en el siguiente enlace!

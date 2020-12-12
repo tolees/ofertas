@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'MTNG 69194 - Zapatillas para Mujer  Azul Marino/Yoda Blanco Roto C44854  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MN1ZCHL/?tag=tolees-21'
+descuento: '59.69'
+titulo: 'MTNG 69194 - Zapatillas para Mujer  Azul'
 ---
 
 Ahora mismo tienes [MTNG 69194 - Zapatillas para Mujer  Azul Marino/Yoda Blanco Roto C44854  40 EU](https://www.amazon.es/dp/B07MN1ZCHL/?tag=tolees-21) a 12.09 EUR (original: 29.99 EUR) (59.69 %  de descuento) en el siguiente enlace!

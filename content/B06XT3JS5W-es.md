@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Pepe Jeans Ballad PL401248  Impermeable para Mujer  Negro  Black 999  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XT3JS5W/?tag=tolees-21'
+descuento: '58.04'
+titulo: 'Pepe Jeans Ballad PL401248  Impermeable '
 ---
 
 Ahora mismo tienes [Pepe Jeans Ballad PL401248  Impermeable para Mujer  Negro  Black 999  Large](https://www.amazon.es/dp/B06XT3JS5W/?tag=tolees-21) a 46.16 EUR (original: 110 EUR) (58.04 %  de descuento) en el siguiente enlace!

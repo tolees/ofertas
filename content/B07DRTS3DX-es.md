@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Diadora Action +3 W  Zapatillas de Running para Mujer  Azul  BLU Profondo/Bleu Persia C3575   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DRTS3DX/?tag=tolees-21'
+descuento: '60.06'
+titulo: 'Diadora Action +3 W  Zapatillas de Runni'
 ---
 
 Está [Diadora Action +3 W  Zapatillas de Running para Mujer  Azul  BLU Profondo/Bleu Persia C3575   38 EU](https://www.amazon.es/dp/B07DRTS3DX/?tag=tolees-21) con 60.06 de descuento por 27.96 EUR (original: 70 EUR) en el siguiente enlace!

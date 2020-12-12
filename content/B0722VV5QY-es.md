@@ -17,6 +17,9 @@ comparePrice: 38 EUR
 inStock: true
 prodname: 'SYROKAN - Sujetador Deportivo de Alto Impacto con Aros y Fina Espuma para Mujer 2 ES:95D  EU 80D '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0722VV5QY/?tag=tolees-21'
+descuento: '44.76'
+titulo: 'SYROKAN - Sujetador Deportivo de Alto Im'
 ---
 
 Está [SYROKAN - Sujetador Deportivo de Alto Impacto con Aros y Fina Espuma para Mujer 2 ES:95D  EU 80D ](https://www.amazon.es/dp/B0722VV5QY/?tag=tolees-21) con 44.76 de descuento por 20.99 EUR (original: 38 EUR) en el siguiente enlace!

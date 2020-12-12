@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'ENKEEO Colchón Hinchable con Bomba Eléctrica Incorporada  Resistente al Agua y al Desgarro  190 x 99 x 46 cm Tamaño Individual'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HG4SD8V/?tag=tolees-21'
+descuento: '45.46'
+titulo: 'ENKEEO Colchón Hinchable con Bomba Eléct'
 ---
 
 Está [ENKEEO Colchón Hinchable con Bomba Eléctrica Incorporada  Resistente al Agua y al Desgarro  190 x 99 x 46 cm Tamaño Individual](https://www.amazon.es/dp/B07HG4SD8V/?tag=tolees-21) con 45.46 de descuento por 59.99 EUR (original: 109.99 EUR) en el siguiente enlace!

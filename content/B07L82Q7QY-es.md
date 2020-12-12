@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'ENKEEO Mini Linterna Solar Camping 140Lm  Panel Solar/USB Recargable  Modos Bajo/Alto/Parpadeo SOS  Ligera y Plegable para Acampada  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L82Q7QY/?tag=tolees-21'
+descuento: '43.35'
+titulo: 'ENKEEO Mini Linterna Solar Camping 140Lm'
 ---
 
 Tienes [ENKEEO Mini Linterna Solar Camping 140Lm  Panel Solar/USB Recargable  Modos Bajo/Alto/Parpadeo SOS  Ligera y Plegable para Acampada  Azul](https://www.amazon.es/dp/B07L82Q7QY/?tag=tolees-21) con un 43.35 % de descuento con precio de oferta de 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

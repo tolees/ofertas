@@ -17,6 +17,9 @@ comparePrice: 26.49 EUR
 inStock: true
 prodname: 'Kempa - Emotion Shirt  Color Rojo  Talla XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00V5LWLAA/?tag=tolees-21'
+descuento: '51.11'
+titulo: 'Kempa - Emotion Shirt  Color Rojo  Talla'
 ---
 
 Ahora mismo tienes [Kempa - Emotion Shirt  Color Rojo  Talla XL](https://www.amazon.es/dp/B00V5LWLAA/?tag=tolees-21) a 12.95 EUR (original: 26.49 EUR) (51.11 %  de descuento) en el siguiente enlace!

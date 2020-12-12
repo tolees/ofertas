@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'MTNG 84212  Zapatillas para Hombre   Cow Suede Negro/Bleecker Gris Oscuro C44813   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8R21FN/?tag=tolees-21'
+descuento: '54.65'
+titulo: 'MTNG 84212  Zapatillas para Hombre   Cow'
 ---
 
 Tienes [MTNG 84212  Zapatillas para Hombre   Cow Suede Negro/Bleecker Gris Oscuro C44813   44 EU](https://www.amazon.es/dp/B07M8R21FN/?tag=tolees-21) con un 54.65 % de descuento con precio de oferta de 22.67 EUR (original: 49.99 EUR) en el siguiente enlace!

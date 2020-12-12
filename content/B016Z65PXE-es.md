@@ -17,6 +17,9 @@ comparePrice: 22.2 EUR
 inStock: true
 prodname: 'Schwarzkopf Professional BC Excellium Plumping Soufflé Tratamiento Capilar - 200 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016Z65PXE/?tag=tolees-21'
+descuento: '68.56'
+titulo: 'Schwarzkopf Professional BC Excellium Pl'
 ---
 
 Tienes [Schwarzkopf Professional BC Excellium Plumping Soufflé Tratamiento Capilar - 200 ml](https://www.amazon.es/dp/B016Z65PXE/?tag=tolees-21) con un 68.56 % de descuento con precio de oferta de 6.98 EUR (original: 22.2 EUR) en el siguiente enlace!

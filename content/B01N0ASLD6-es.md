@@ -17,6 +17,9 @@ comparePrice: 18.04 EUR
 inStock: true
 prodname: 'adidas Squad 17 JSY SS Camiseta para Hombre  Blanco  White/Black   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0ASLD6/?tag=tolees-21'
+descuento: '36.53'
+titulo: 'adidas Squad 17 JSY SS Camiseta para Hom'
 ---
 
 Está [adidas Squad 17 JSY SS Camiseta para Hombre  Blanco  White/Black   L](https://www.amazon.es/dp/B01N0ASLD6/?tag=tolees-21) con 36.53 de descuento por 11.45 EUR (original: 18.04 EUR) en el siguiente enlace!

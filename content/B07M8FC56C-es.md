@@ -17,6 +17,9 @@ comparePrice: 82.39 EUR
 inStock: true
 prodname: 'SONGMICS Tumbona  Silla con Reposacabezas Desmontable y Parasol Ajustable  Aluminio Inoxidable  Transpirable  Reclinable  Max. Capacidad de Carga 250 Kg  Gris y Blanco GCB19TG'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8FC56C/?tag=tolees-21'
+descuento: '27.19'
+titulo: 'SONGMICS Tumbona  Silla con Reposacabeza'
 ---
 
 Ahora mismo tienes [SONGMICS Tumbona  Silla con Reposacabezas Desmontable y Parasol Ajustable  Aluminio Inoxidable  Transpirable  Reclinable  Max. Capacidad de Carga 250 Kg  Gris y Blanco GCB19TG](https://www.amazon.es/dp/B07M8FC56C/?tag=tolees-21) a 59.99 EUR (original: 82.39 EUR) (27.19 %  de descuento) en el siguiente enlace!

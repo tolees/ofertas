@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour UA W Micro G Fuel RN  Zapatillas de Entrenamiento para Mujer  Gris  Overcast Gray   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NBJXAI7/?tag=tolees-21'
+descuento: '61.18'
+titulo: 'Under Armour UA W Micro G Fuel RN  Zapat'
 ---
 
 Ahora mismo tienes [Under Armour UA W Micro G Fuel RN  Zapatillas de Entrenamiento para Mujer  Gris  Overcast Gray   39 EU](https://www.amazon.es/dp/B01NBJXAI7/?tag=tolees-21) a 31.06 EUR (original: 80 EUR) (61.18 %  de descuento) en el siguiente enlace!

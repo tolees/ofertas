@@ -17,6 +17,9 @@ comparePrice: 11.95 EUR
 inStock: true
 prodname: 'adidas Linear Core  Mochila Unisex Adulto  Azul  True Blue/White   1x37x47 centimeters  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KN2GCQX/?tag=tolees-21'
+descuento: '91.63'
+titulo: 'adidas Linear Core  Mochila Unisex Adult'
 ---
 
 Tienes [adidas Linear Core  Mochila Unisex Adulto  Azul  True Blue/White   1x37x47 centimeters  W x H x L ](https://www.amazon.es/dp/B07KN2GCQX/?tag=tolees-21) con un 91.63 % de descuento con precio de oferta de 1 EUR (original: 11.95 EUR) en el siguiente enlace!

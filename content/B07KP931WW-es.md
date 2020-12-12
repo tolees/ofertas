@@ -17,6 +17,9 @@ comparePrice: 1.1 EUR
 inStock: true
 prodname: 'Seguridad 3 Combinación de viaje Maleta Equipaje Bolsa Código Cerradura Cremallera Candado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KP931WW/?tag=tolees-21'
+descuento: '90.91'
+titulo: 'Seguridad 3 Combinación de viaje Maleta '
 ---
 
 Ahora mismo tienes [Seguridad 3 Combinación de viaje Maleta Equipaje Bolsa Código Cerradura Cremallera Candado](https://www.amazon.es/dp/B07KP931WW/?tag=tolees-21) a 0.1 EUR (original: 1.1 EUR) (90.91 %  de descuento) en el siguiente enlace!

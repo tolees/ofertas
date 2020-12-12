@@ -17,6 +17,9 @@ comparePrice: 26.95 EUR
 inStock: true
 prodname: 'Buff R-City Visor Gorra de Correr  Unisex Adulto  Gris  Jungle Grey   Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077VSHKQ4/?tag=tolees-21'
+descuento: '45.45'
+titulo: 'Buff R-City Visor Gorra de Correr  Unise'
 ---
 
 Tienes [Buff R-City Visor Gorra de Correr  Unisex Adulto  Gris  Jungle Grey   Talla única](https://www.amazon.es/dp/B077VSHKQ4/?tag=tolees-21) con un 45.45 % de descuento con precio de oferta de 14.7 EUR (original: 26.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'ENKEEO Electroestimulador Abdominal Muscular  1 electroestimulador Abdominales  2 corporales y 10 Almohadillas Gel   Traje de Masajeador Eléctrico  EMS Estimulador Muscular Unisex'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P45LC7S/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'ENKEEO Electroestimulador Abdominal Musc'
 ---
 
 Ahora mismo tienes [ENKEEO Electroestimulador Abdominal Muscular  1 electroestimulador Abdominales  2 corporales y 10 Almohadillas Gel   Traje de Masajeador Eléctrico  EMS Estimulador Muscular Unisex](https://www.amazon.es/dp/B07P45LC7S/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

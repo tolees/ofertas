@@ -17,6 +17,9 @@ comparePrice: 39.15 EUR
 inStock: true
 prodname: 'GRAT.UNIC Sauna Chaleco Faja Reductora Trajes de sudoración Sauna Chaleco de Sudoración para Deporte Adelgazante Hombre Camiseta Reductora Compresión de Sauna Chaleco  Mujer  M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GJDXNCS/?tag=tolees-21'
+descuento: '56.60'
+titulo: 'GRAT.UNIC Sauna Chaleco Faja Reductora T'
 ---
 
 Está [GRAT.UNIC Sauna Chaleco Faja Reductora Trajes de sudoración Sauna Chaleco de Sudoración para Deporte Adelgazante Hombre Camiseta Reductora Compresión de Sauna Chaleco  Mujer  M ](https://www.amazon.es/dp/B07GJDXNCS/?tag=tolees-21) con 56.60 de descuento por 16.99 EUR (original: 39.15 EUR) en el siguiente enlace!

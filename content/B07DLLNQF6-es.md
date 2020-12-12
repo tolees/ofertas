@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Bluedio TM Auriculares Bluetooth 5.0 inalámbricos portátiles On-Ear  Controla de Voz  con micrófono para teléfonos y música  Amarillo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLLNQF6/?tag=tolees-21'
+descuento: '68.01'
+titulo: 'Bluedio TM Auriculares Bluetooth 5.0 ina'
 ---
 
 Está [Bluedio TM Auriculares Bluetooth 5.0 inalámbricos portátiles On-Ear  Controla de Voz  con micrófono para teléfonos y música  Amarillo ](https://www.amazon.es/dp/B07DLLNQF6/?tag=tolees-21) con 68.01 de descuento por 15.99 EUR (original: 49.99 EUR) en el siguiente enlace!

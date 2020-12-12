@@ -17,6 +17,9 @@ comparePrice: 78.9 EUR
 inStock: true
 prodname: 'mymahdi 8 GB Reproductor de MP3 portátil  Ampliable a 128 GB   Reproductor de música/Radio FM/grabadora de Voz 70 Horas de reproducción con una tecla con Altavoz Externo HD Auriculares  Oro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XBXHNBR/?tag=tolees-21'
+descuento: '64.52'
+titulo: 'mymahdi 8 GB Reproductor de MP3 portátil'
 ---
 
 Tienes [mymahdi 8 GB Reproductor de MP3 portátil  Ampliable a 128 GB   Reproductor de música/Radio FM/grabadora de Voz 70 Horas de reproducción con una tecla con Altavoz Externo HD Auriculares  Oro](https://www.amazon.es/dp/B06XBXHNBR/?tag=tolees-21) con un 64.52 % de descuento con precio de oferta de 27.99 EUR (original: 78.9 EUR) en el siguiente enlace!

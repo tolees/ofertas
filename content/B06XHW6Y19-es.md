@@ -17,6 +17,9 @@ comparePrice: 10.95 EUR
 inStock: true
 prodname: 'Joma Tokio II Pantalones Cortos  Hombre   Blanco/Negro   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHW6Y19/?tag=tolees-21'
+descuento: '51.05'
+titulo: 'Joma Tokio II Pantalones Cortos  Hombre '
 ---
 
 Está [Joma Tokio II Pantalones Cortos  Hombre   Blanco/Negro   S](https://www.amazon.es/dp/B06XHW6Y19/?tag=tolees-21) con 51.05 de descuento por 5.36 EUR (original: 10.95 EUR) en el siguiente enlace!

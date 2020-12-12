@@ -17,6 +17,9 @@ comparePrice: 23.26 EUR
 inStock: true
 prodname: 'Wrangler SS Graphic tee Camiseta  Azul  Navy Q35   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYKWSGN/?tag=tolees-21'
+descuento: '46.35'
+titulo: 'Wrangler SS Graphic tee Camiseta  Azul  '
 ---
 
 Está [Wrangler SS Graphic tee Camiseta  Azul  Navy Q35   Medium para Hombre](https://www.amazon.es/dp/B07FYKWSGN/?tag=tolees-21) con 46.35 de descuento por 12.48 EUR (original: 23.26 EUR) en el siguiente enlace!

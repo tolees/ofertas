@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Elegoo Módulo Relé de 8 Channel DC 5V con Optoacoplador para Arduino UNO R3 Kit MEGA 2560 Proyecto 1280 DSP ARM PIC AVR STM32 Raspberry Pi'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y3N5XL7/?tag=tolees-21'
+descuento: '38.91'
+titulo: 'Elegoo Módulo Relé de 8 Channel DC 5V co'
 ---
 
 Tienes [Elegoo Módulo Relé de 8 Channel DC 5V con Optoacoplador para Arduino UNO R3 Kit MEGA 2560 Proyecto 1280 DSP ARM PIC AVR STM32 Raspberry Pi](https://www.amazon.es/dp/B06Y3N5XL7/?tag=tolees-21) con un 38.91 % de descuento con precio de oferta de 10.99 EUR (original: 17.99 EUR) en el siguiente enlace!

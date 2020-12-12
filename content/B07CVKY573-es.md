@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Skechers Skech Appeal 2.0-Get Em Glitt  Zapatillas Deportivas para Interior para Niñas  Negro  Black/Lavender/Pink Blvp   29 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVKY573/?tag=tolees-21'
+descuento: '39.94'
+titulo: 'Skechers Skech Appeal 2.0-Get Em Glitt  '
 ---
 
 Está [Skechers Skech Appeal 2.0-Get Em Glitt  Zapatillas Deportivas para Interior para Niñas  Negro  Black/Lavender/Pink Blvp   29 EU](https://www.amazon.es/dp/B07CVKY573/?tag=tolees-21) con 39.94 de descuento por 30 EUR (original: 49.95 EUR) en el siguiente enlace!

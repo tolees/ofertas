@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Negro  Black/Magnet/White CB   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0791WQPXN/?tag=tolees-21'
+descuento: '69.12'
+titulo: 'New Balance Fresh Foam Lazr Sport  Zapat'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Negro  Black/Magnet/White CB   45 EU](https://www.amazon.es/dp/B0791WQPXN/?tag=tolees-21) a 27.79 EUR (original: 90 EUR) (69.12 %  de descuento) en el siguiente enlace!

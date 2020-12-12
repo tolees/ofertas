@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Under Armour UA W Squad  Zapatillas Deportivas para Interior para Mujer  Gris  Rhino Gray   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MRXL0TB/?tag=tolees-21'
+descuento: '61.92'
+titulo: 'Under Armour UA W Squad  Zapatillas Depo'
 ---
 
 Está [Under Armour UA W Squad  Zapatillas Deportivas para Interior para Mujer  Gris  Rhino Gray   41 EU](https://www.amazon.es/dp/B01MRXL0TB/?tag=tolees-21) con 61.92 de descuento por 24.75 EUR (original: 65 EUR) en el siguiente enlace!

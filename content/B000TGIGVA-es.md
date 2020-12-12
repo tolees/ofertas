@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Babyliss 8480E  Maleta con set manicura/pedicura'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000TGIGVA/?tag=tolees-21'
+descuento: '46.24'
+titulo: 'Babyliss 8480E  Maleta con set manicura/'
 ---
 
 Tienes [Babyliss 8480E  Maleta con set manicura/pedicura](https://www.amazon.es/dp/B000TGIGVA/?tag=tolees-21) con un 46.24 % de descuento con precio de oferta de 32.2 EUR (original: 59.9 EUR) en el siguiente enlace!

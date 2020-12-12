@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Columbia Triple Canyon Polo técnico  Hombre  Negro  Shark   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRPZ5CL/?tag=tolees-21'
+descuento: '50.93'
+titulo: 'Columbia Triple Canyon Polo técnico  Hom'
 ---
 
 Tienes [Columbia Triple Canyon Polo técnico  Hombre  Negro  Shark   M](https://www.amazon.es/dp/B07KRPZ5CL/?tag=tolees-21) con un 50.93 % de descuento con precio de oferta de 24.53 EUR (original: 49.99 EUR) en el siguiente enlace!

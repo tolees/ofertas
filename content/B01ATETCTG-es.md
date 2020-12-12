@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'The North Face Exploration Pantalón  Hombre  Negro  TNF Black   34 REG'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ATETCTG/?tag=tolees-21'
+descuento: '38.31'
+titulo: 'The North Face Exploration Pantalón  Hom'
 ---
 
 Está [The North Face Exploration Pantalón  Hombre  Negro  TNF Black   34 REG](https://www.amazon.es/dp/B01ATETCTG/?tag=tolees-21) con 38.31 de descuento por 49.35 EUR (original: 80 EUR) en el siguiente enlace!

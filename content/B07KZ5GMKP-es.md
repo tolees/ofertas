@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel Franq Chino Slim Print Pantalones Deportivos   Gama Azules 12    Tamaño del Fabricante:46  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ5GMKP/?tag=tolees-21'
+descuento: '78.04'
+titulo: 'Cortefiel Franq Chino Slim Print Pantalo'
 ---
 
 Tienes [Cortefiel Franq Chino Slim Print Pantalones Deportivos   Gama Azules 12    Tamaño del Fabricante:46  para Hombre](https://www.amazon.es/dp/B07KZ5GMKP/?tag=tolees-21) con un 78.04 % de descuento con precio de oferta de 10.98 EUR (original: 49.99 EUR) en el siguiente enlace!

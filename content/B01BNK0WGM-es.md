@@ -17,6 +17,9 @@ comparePrice: 5.78 EUR
 inStock: true
 prodname: 'Rimmel London Super Gel Esmalte de Uñas Tono 25-47 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BNK0WGM/?tag=tolees-21'
+descuento: '32.35'
+titulo: 'Rimmel London Super Gel Esmalte de Uñas '
 ---
 
 Está [Rimmel London Super Gel Esmalte de Uñas Tono 25-47 gr](https://www.amazon.es/dp/B01BNK0WGM/?tag=tolees-21) con 32.35 de descuento por 3.91 EUR (original: 5.78 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 37 EUR
 inStock: true
 prodname: 'Burton Chloe Gorro  Mujer  Blanco  Stout   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F88YJ3R/?tag=tolees-21'
+descuento: '43.62'
+titulo: 'Burton Chloe Gorro  Mujer  Blanco  Stout'
 ---
 
 Ahora mismo tienes [Burton Chloe Gorro  Mujer  Blanco  Stout   Talla Única](https://www.amazon.es/dp/B07F88YJ3R/?tag=tolees-21) a 20.86 EUR (original: 37 EUR) (43.62 %  de descuento) en el siguiente enlace!

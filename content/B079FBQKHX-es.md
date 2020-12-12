@@ -17,6 +17,9 @@ comparePrice: 10.09 EUR
 inStock: true
 prodname: 'New Look 5362743  Braguita para Mujer   Multi-Coloured  40  Talla del Fabricante: 12   Pack de 3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079FBQKHX/?tag=tolees-21'
+descuento: '70.27'
+titulo: 'New Look 5362743  Braguita para Mujer   '
 ---
 
 Está [New Look 5362743  Braguita para Mujer   Multi-Coloured  40  Talla del Fabricante: 12   Pack de 3](https://www.amazon.es/dp/B079FBQKHX/?tag=tolees-21) con 70.27 de descuento por 3 EUR (original: 10.09 EUR) en el siguiente enlace!

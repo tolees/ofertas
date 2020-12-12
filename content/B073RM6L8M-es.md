@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Reebok Express Runner SL  Zapatillas de Running para Mujer  Blanco  White/Lilac Glow/Silver Met   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RM6L8M/?tag=tolees-21'
+descuento: '56.94'
+titulo: 'Reebok Express Runner SL  Zapatillas de '
 ---
 
 Tienes [Reebok Express Runner SL  Zapatillas de Running para Mujer  Blanco  White/Lilac Glow/Silver Met   40.5 EU](https://www.amazon.es/dp/B073RM6L8M/?tag=tolees-21) con un 56.94 % de descuento con precio de oferta de 23.66 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Esprit 088ee1k009  Camisa Manga Larga Mujer  Azul  Navy 400   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FGP4MYY/?tag=tolees-21'
+descuento: '60.56'
+titulo: 'Esprit 088ee1k009  Camisa Manga Larga Mu'
 ---
 
 Ahora mismo tienes [Esprit 088ee1k009  Camisa Manga Larga Mujer  Azul  Navy 400   Small](https://www.amazon.es/dp/B07FGP4MYY/?tag=tolees-21) a 10.25 EUR (original: 25.99 EUR) (60.56 %  de descuento) en el siguiente enlace!

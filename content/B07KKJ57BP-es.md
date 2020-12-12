@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Naf Naf Kenc26 Blusa  Rojo  Framboise 391   38 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKJ57BP/?tag=tolees-21'
+descuento: '53.10'
+titulo: 'Naf Naf Kenc26 Blusa  Rojo  Framboise 39'
 ---
 
 Está [Naf Naf Kenc26 Blusa  Rojo  Framboise 391   38 para Mujer](https://www.amazon.es/dp/B07KKJ57BP/?tag=tolees-21) con 53.10 de descuento por 14.07 EUR (original: 30 EUR) en el siguiente enlace!

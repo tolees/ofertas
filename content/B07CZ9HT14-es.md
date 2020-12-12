@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Salomon Speedcross 4  Zapatillas de Trail Running para Hombre  Verde  Grape Leaf/Burnt Olive/Black   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ9HT14/?tag=tolees-21'
+descuento: '41.91'
+titulo: 'Salomon Speedcross 4  Zapatillas de Trai'
 ---
 
 Tienes [Salomon Speedcross 4  Zapatillas de Trail Running para Hombre  Verde  Grape Leaf/Burnt Olive/Black   44 EU](https://www.amazon.es/dp/B07CZ9HT14/?tag=tolees-21) con un 41.91 % de descuento con precio de oferta de 69.68 EUR (original: 119.95 EUR) en el siguiente enlace!

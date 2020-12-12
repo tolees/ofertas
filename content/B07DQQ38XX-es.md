@@ -17,6 +17,9 @@ comparePrice: 31.74 EUR
 inStock: true
 prodname: 'Altavoz Bluetooth Inálambrico  HAMSWAN Altavoz Bluetooth Portátil Estéreo Impermebale con Función Despertador y Micrófono Soporte Llamada Manos Libres  Bluetooth 4.2  AUX  MicroSD Tarjeta  3D Sonido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQQ38XX/?tag=tolees-21'
+descuento: '68.53'
+titulo: 'Altavoz Bluetooth Inálambrico  HAMSWAN A'
 ---
 
 Tienes [Altavoz Bluetooth Inálambrico  HAMSWAN Altavoz Bluetooth Portátil Estéreo Impermebale con Función Despertador y Micrófono Soporte Llamada Manos Libres  Bluetooth 4.2  AUX  MicroSD Tarjeta  3D Sonido](https://www.amazon.es/dp/B07DQQ38XX/?tag=tolees-21) con un 68.53 % de descuento con precio de oferta de 9.99 EUR (original: 31.74 EUR) en el siguiente enlace!

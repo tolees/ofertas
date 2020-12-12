@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Cocoda Soporte para Echo Dot  3.ª Generación   Gestión de Cables Incorporada sin Cables Sucios o Tornillos  Socket Montaje de Pared Compacto para Altavoces de Casa Inteligentes  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L2LCDF8/?tag=tolees-21'
+descuento: '40.93'
+titulo: 'Cocoda Soporte para Echo Dot  3.ª Genera'
 ---
 
 Ahora mismo tienes [Cocoda Soporte para Echo Dot  3.ª Generación   Gestión de Cables Incorporada sin Cables Sucios o Tornillos  Socket Montaje de Pared Compacto para Altavoces de Casa Inteligentes  Blanco ](https://www.amazon.es/dp/B07L2LCDF8/?tag=tolees-21) a 12.99 EUR (original: 21.99 EUR) (40.93 %  de descuento) en el siguiente enlace!

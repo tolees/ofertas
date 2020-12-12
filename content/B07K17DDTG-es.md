@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'adidas Fortarun X CF K  Zapatillas de Running Unisex Niños  Blanco Raw FTWR White/Shock Red  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K17DDTG/?tag=tolees-21'
+descuento: '58.40'
+titulo: 'adidas Fortarun X CF K  Zapatillas de Ru'
 ---
 
 Tienes [adidas Fortarun X CF K  Zapatillas de Running Unisex Niños  Blanco Raw FTWR White/Shock Red  40 EU](https://www.amazon.es/dp/B07K17DDTG/?tag=tolees-21) con un 58.40 % de descuento con precio de oferta de 18.7 EUR (original: 44.95 EUR) en el siguiente enlace!

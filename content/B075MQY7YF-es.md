@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour UA Charged Escape  Zapatillas de Running para Hombre  Gris  Glacier Gray   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075MQY7YF/?tag=tolees-21'
+descuento: '60.64'
+titulo: 'Under Armour UA Charged Escape  Zapatill'
 ---
 
 Está [Under Armour UA Charged Escape  Zapatillas de Running para Hombre  Gris  Glacier Gray   40.5 EU](https://www.amazon.es/dp/B075MQY7YF/?tag=tolees-21) con 60.64 de descuento por 31.49 EUR (original: 80 EUR) en el siguiente enlace!

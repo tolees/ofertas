@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Mustang Booty  Botas Clasicas para Hombre  Marrón  Kastanie 301   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9YQ24G/?tag=tolees-21'
+descuento: '58.71'
+titulo: 'Mustang Booty  Botas Clasicas para Hombr'
 ---
 
 Está [Mustang Booty  Botas Clasicas para Hombre  Marrón  Kastanie 301   43 EU](https://www.amazon.es/dp/B07D9YQ24G/?tag=tolees-21) con 58.71 de descuento por 28.88 EUR (original: 69.95 EUR) en el siguiente enlace!

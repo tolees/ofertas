@@ -17,6 +17,9 @@ comparePrice: 98 EUR
 inStock: true
 prodname: 'Michael Kors 1-29-19-02 - EDP Spray  100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000SSFPFE/?tag=tolees-21'
+descuento: '42.87'
+titulo: 'Michael Kors 1-29-19-02 - EDP Spray  100'
 ---
 
 Tienes [Michael Kors 1-29-19-02 - EDP Spray  100 ml](https://www.amazon.es/dp/B000SSFPFE/?tag=tolees-21) con un 42.87 % de descuento con precio de oferta de 55.99 EUR (original: 98 EUR) en el siguiente enlace!

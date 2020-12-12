@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES VINTAGE Jjvcunion Knit Crew Neck Noos  suéter Hombre  Verde  Sea Turtle Detail:Knit Fit - Melange   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VPYZF1/?tag=tolees-21'
+descuento: '69.99'
+titulo: 'JACK & JONES VINTAGE Jjvcunion Knit Crew'
 ---
 
 Tienes [JACK & JONES VINTAGE Jjvcunion Knit Crew Neck Noos  suéter Hombre  Verde  Sea Turtle Detail:Knit Fit - Melange   X-Large](https://www.amazon.es/dp/B071VPYZF1/?tag=tolees-21) con un 69.99 % de descuento con precio de oferta de 12 EUR (original: 39.99 EUR) en el siguiente enlace!

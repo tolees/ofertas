@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma Evotouch 3 SG  Botas de fútbol para Hombre  Blanco White-True Blue Danube 02  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXHLVUN/?tag=tolees-21'
+descuento: '69.96'
+titulo: 'Puma Evotouch 3 SG  Botas de fútbol para'
 ---
 
 Está [Puma Evotouch 3 SG  Botas de fútbol para Hombre  Blanco White-True Blue Danube 02  43 EU](https://www.amazon.es/dp/B01MXHLVUN/?tag=tolees-21) con 69.96 de descuento por 19.51 EUR (original: 64.95 EUR) en el siguiente enlace!

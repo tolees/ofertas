@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'GoPetee Piscina para Perros Mascotas Plegable Bañera para Mascotas Plegable Baño Portátil para Perros y Gatos Pequeños Medianos y Grandes Interior o Exterior  L 80 x 20 cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PK1VP3J/?tag=tolees-21'
+descuento: '27.79'
+titulo: 'GoPetee Piscina para Perros Mascotas Ple'
 ---
 
 Ahora mismo tienes [GoPetee Piscina para Perros Mascotas Plegable Bañera para Mascotas Plegable Baño Portátil para Perros y Gatos Pequeños Medianos y Grandes Interior o Exterior  L 80 x 20 cm ](https://www.amazon.es/dp/B07PK1VP3J/?tag=tolees-21) a 25.99 EUR (original: 35.99 EUR) (27.79 %  de descuento) en el siguiente enlace!

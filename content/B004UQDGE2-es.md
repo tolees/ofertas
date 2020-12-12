@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Superga 2750  Zapatillas Unisex Adulto  Negro  Black 999   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004UQDGE2/?tag=tolees-21'
+descuento: '49.39'
+titulo: 'Superga 2750  Zapatillas Unisex Adulto  '
 ---
 
 Tienes [Superga 2750  Zapatillas Unisex Adulto  Negro  Black 999   35 EU](https://www.amazon.es/dp/B004UQDGE2/?tag=tolees-21) con un 49.39 % de descuento con precio de oferta de 39.98 EUR (original: 79 EUR) en el siguiente enlace!

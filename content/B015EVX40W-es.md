@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Vans Rutherford Capucha  Noir Black PU  L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015EVX40W/?tag=tolees-21'
+descuento: '75.43'
+titulo: 'Vans Rutherford Capucha  Noir Black PU  '
 ---
 
 Está [Vans Rutherford Capucha  Noir Black PU  L para Hombre](https://www.amazon.es/dp/B015EVX40W/?tag=tolees-21) con 75.43 de descuento por 36.85 EUR (original: 150 EUR) en el siguiente enlace!

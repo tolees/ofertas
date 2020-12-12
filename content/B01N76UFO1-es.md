@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Puma Evopower Vigor 4 TT Jr  Botas de fútbol Niñas  Verde  Green Gecko Black-Safety Yellow 01   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N76UFO1/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Puma Evopower Vigor 4 TT Jr  Botas de fú'
 ---
 
 Tienes [Puma Evopower Vigor 4 TT Jr  Botas de fútbol Niñas  Verde  Green Gecko Black-Safety Yellow 01   38 EU](https://www.amazon.es/dp/B01N76UFO1/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 22.5 EUR (original: 45 EUR) en el siguiente enlace!

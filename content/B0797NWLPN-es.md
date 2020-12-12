@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Figura Pop Disney Nightmare Before Christmas Barrel'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0797NWLPN/?tag=tolees-21'
+descuento: '31.47'
+titulo: 'Figura Pop Disney Nightmare Before Chris'
 ---
 
 Ahora mismo tienes [Figura Pop Disney Nightmare Before Christmas Barrel](https://www.amazon.es/dp/B0797NWLPN/?tag=tolees-21) a 10.93 EUR (original: 15.95 EUR) (31.47 %  de descuento) en el siguiente enlace!

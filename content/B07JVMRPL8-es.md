@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'melysEU Bluetooth para Auriculares estéreo V4.1 Música Plegable Over-Oreja Sonido de Alta fidelidad Calling Construido en Mircophone Manos Libres  Bluetooth de Diadema Plegable con micrófono  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JVMRPL8/?tag=tolees-21'
+descuento: '78.18'
+titulo: 'melysEU Bluetooth para Auriculares estér'
 ---
 
 Tienes [melysEU Bluetooth para Auriculares estéreo V4.1 Música Plegable Over-Oreja Sonido de Alta fidelidad Calling Construido en Mircophone Manos Libres  Bluetooth de Diadema Plegable con micrófono  Rojo ](https://www.amazon.es/dp/B07JVMRPL8/?tag=tolees-21) con un 78.18 % de descuento con precio de oferta de 11.99 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Columbia Silver Ridge L Camisa de Manga Larga para Senderismo  Hombre  Gris  Grill   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0058YS0IW/?tag=tolees-21'
+descuento: '53.56'
+titulo: 'Columbia Silver Ridge L Camisa de Manga '
 ---
 
 Está [Columbia Silver Ridge L Camisa de Manga Larga para Senderismo  Hombre  Gris  Grill   L](https://www.amazon.es/dp/B0058YS0IW/?tag=tolees-21) con 53.56 de descuento por 30.16 EUR (original: 64.95 EUR) en el siguiente enlace!

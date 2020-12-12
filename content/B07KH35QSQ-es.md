@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Under Armour Blitzing II Gorra  Hombre  Blanco  White/Black 110   XL/XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KH35QSQ/?tag=tolees-21'
+descuento: '32.47'
+titulo: 'Under Armour Blitzing II Gorra  Hombre  '
 ---
 
 Tienes [Under Armour Blitzing II Gorra  Hombre  Blanco  White/Black 110   XL/XXL](https://www.amazon.es/dp/B07KH35QSQ/?tag=tolees-21) con un 32.47 % de descuento con precio de oferta de 13.5 EUR (original: 19.99 EUR) en el siguiente enlace!

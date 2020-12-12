@@ -17,6 +17,9 @@ comparePrice: 9.8 EUR
 inStock: true
 prodname: 'Verbatim Store  n  Go - Memoria USB de 64 GB  Morado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CIYFPQA/?tag=tolees-21'
+descuento: '39.80'
+titulo: 'Verbatim Store  n  Go - Memoria USB de 6'
 ---
 
 Tienes [Verbatim Store  n  Go - Memoria USB de 64 GB  Morado](https://www.amazon.es/dp/B00CIYFPQA/?tag=tolees-21) con un 39.80 % de descuento con precio de oferta de 5.9 EUR (original: 9.8 EUR) en el siguiente enlace!

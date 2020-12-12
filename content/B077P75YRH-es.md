@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'NAME IT Nmfpolly Dnmbunira 2022 Pant  Jeans Niñas  Azul  Medium Blue Denim Medium Denim   110'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077P75YRH/?tag=tolees-21'
+descuento: '59.75'
+titulo: 'NAME IT Nmfpolly Dnmbunira 2022 Pant  Je'
 ---
 
 Ahora mismo tienes [NAME IT Nmfpolly Dnmbunira 2022 Pant  Jeans Niñas  Azul  Medium Blue Denim Medium Denim   110](https://www.amazon.es/dp/B077P75YRH/?tag=tolees-21) a 12.07 EUR (original: 29.99 EUR) (59.75 %  de descuento) en el siguiente enlace!

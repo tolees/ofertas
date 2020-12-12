@@ -17,6 +17,9 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'HOMIEE Antifaz para Dormir  3D Máscara para Dormir con Ajustable Correa 3D Antifaces para Los Ojos Cómodo y Transpirable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F6C8VWJ/?tag=tolees-21'
+descuento: '71.46'
+titulo: 'HOMIEE Antifaz para Dormir  3D Máscara p'
 ---
 
 Tienes [HOMIEE Antifaz para Dormir  3D Máscara para Dormir con Ajustable Correa 3D Antifaces para Los Ojos Cómodo y Transpirable](https://www.amazon.es/dp/B07F6C8VWJ/?tag=tolees-21) con un 71.46 % de descuento con precio de oferta de 5.99 EUR (original: 20.99 EUR) en el siguiente enlace!

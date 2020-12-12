@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Lixada Lámparas Apliques de Pared Luces Clásicas Iluminación Vendimia Retro Rústico para E27 Bombilla Escalera Dormitorio Espejo Hotel'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014L25BGU/?tag=tolees-21'
+descuento: '30.74'
+titulo: 'Lixada Lámparas Apliques de Pared Luces '
 ---
 
 Tienes [Lixada Lámparas Apliques de Pared Luces Clásicas Iluminación Vendimia Retro Rústico para E27 Bombilla Escalera Dormitorio Espejo Hotel](https://www.amazon.es/dp/B014L25BGU/?tag=tolees-21) con un 30.74 % de descuento con precio de oferta de 20.77 EUR (original: 29.99 EUR) en el siguiente enlace!

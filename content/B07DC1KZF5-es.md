@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Leadcat  Chanclas Unisex Adulto  Verde  Ponderosa Pine White 20   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1KZF5/?tag=tolees-21'
+descuento: '28.34'
+titulo: 'Puma Leadcat  Chanclas Unisex Adulto  Ve'
 ---
 
 Está [Puma Leadcat  Chanclas Unisex Adulto  Verde  Ponderosa Pine White 20   43 EU](https://www.amazon.es/dp/B07DC1KZF5/?tag=tolees-21) con 28.34 de descuento por 17.88 EUR (original: 24.95 EUR) en el siguiente enlace!

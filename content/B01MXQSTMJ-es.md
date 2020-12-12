@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'NIZZIN Fenna  Pullover Manga Larga Mujer  Blanco  White   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXQSTMJ/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'NIZZIN Fenna  Pullover Manga Larga Mujer'
 ---
 
 Está [NIZZIN Fenna  Pullover Manga Larga Mujer  Blanco  White   Medium](https://www.amazon.es/dp/B01MXQSTMJ/?tag=tolees-21) con 60.00 de descuento por 9.98 EUR (original: 24.95 EUR) en el siguiente enlace!

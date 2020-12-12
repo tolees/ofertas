@@ -17,6 +17,9 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'Love Moschino - Borsa Calf Pu Avorio  Shoppers y bolsos de hombro Mujer  Weiß  Ivory   18x24x1 cm  W x H D '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XKL81KW/?tag=tolees-21'
+descuento: '50.38'
+titulo: 'Love Moschino - Borsa Calf Pu Avorio  Sh'
 ---
 
 Tienes [Love Moschino - Borsa Calf Pu Avorio  Shoppers y bolsos de hombro Mujer  Weiß  Ivory   18x24x1 cm  W x H D ](https://www.amazon.es/dp/B06XKL81KW/?tag=tolees-21) con un 50.38 % de descuento con precio de oferta de 79.37 EUR (original: 159.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Intex 29026 - Cobertor solar para piscinas rectangulares 549 x 274 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001IWNDEY/?tag=tolees-21'
+descuento: '26.57'
+titulo: 'Intex 29026 - Cobertor solar para piscin'
 ---
 
 Está [Intex 29026 - Cobertor solar para piscinas rectangulares 549 x 274 cm](https://www.amazon.es/dp/B001IWNDEY/?tag=tolees-21) con 26.57 de descuento por 40.35 EUR (original: 54.95 EUR) en el siguiente enlace!

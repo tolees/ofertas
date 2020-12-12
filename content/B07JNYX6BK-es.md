@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Morgan 191-mbibi.n  Camiseta de Manga Larga para Mujer  Off White  Large  Talla del Fabricante: TL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JNYX6BK/?tag=tolees-21'
+descuento: '47.08'
+titulo: 'Morgan 191-mbibi.n  Camiseta de Manga La'
 ---
 
 Está [Morgan 191-mbibi.n  Camiseta de Manga Larga para Mujer  Off White  Large  Talla del Fabricante: TL ](https://www.amazon.es/dp/B07JNYX6BK/?tag=tolees-21) con 47.08 de descuento por 13.23 EUR (original: 25 EUR) en el siguiente enlace!

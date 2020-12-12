@@ -17,6 +17,9 @@ comparePrice: 56.99 EUR
 inStock: true
 prodname: 'Umi. Essentials - Protector de colchón acolchado extragrande y lavable para todas las estaciones 150 x 200 +38cm  blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1QT7QC/?tag=tolees-21'
+descuento: '29.83'
+titulo: 'Umi. Essentials - Protector de colchón a'
 ---
 
 Tienes [Umi. Essentials - Protector de colchón acolchado extragrande y lavable para todas las estaciones 150 x 200 +38cm  blanco](https://www.amazon.es/dp/B07F1QT7QC/?tag=tolees-21) con un 29.83 % de descuento con precio de oferta de 39.99 EUR (original: 56.99 EUR) en el siguiente enlace!

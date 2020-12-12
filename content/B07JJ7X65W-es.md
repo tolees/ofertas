@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'X-TIGER Invierno Vellón Térmico MTB Ciclismo Mangas Largas Maillots+5D Acolchado Gel Culotes Pantalones-S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJ7X65W/?tag=tolees-21'
+descuento: '40.52'
+titulo: 'X-TIGER Invierno Vellón Térmico MTB Cicl'
 ---
 
 Está [X-TIGER Invierno Vellón Térmico MTB Ciclismo Mangas Largas Maillots+5D Acolchado Gel Culotes Pantalones-S](https://www.amazon.es/dp/B07JJ7X65W/?tag=tolees-21) con 40.52 de descuento por 46.99 EUR (original: 79 EUR) en el siguiente enlace!

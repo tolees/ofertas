@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Equalizer Persistent  Zapatillas para Hombre  Negro  Black/Grey   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00R2KK7BI/?tag=tolees-21'
+descuento: '36.15'
+titulo: 'Skechers Equalizer Persistent  Zapatilla'
 ---
 
 Tienes [Skechers Equalizer Persistent  Zapatillas para Hombre  Negro  Black/Grey   43 EU](https://www.amazon.es/dp/B00R2KK7BI/?tag=tolees-21) con un 36.15 % de descuento con precio de oferta de 41.47 EUR (original: 64.95 EUR) en el siguiente enlace!

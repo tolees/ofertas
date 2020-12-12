@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'INTEY Repelente de Gatos  Ultrasónico Ahuyentador Gatos  Carga Solar  Resistente al Agua  para Gatos  Perros  Ratones  Zorros  Pájaros  para Exterior'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K1T3ZZY/?tag=tolees-21'
+descuento: '42.61'
+titulo: 'INTEY Repelente de Gatos  Ultrasónico Ah'
 ---
 
 Ahora mismo tienes [INTEY Repelente de Gatos  Ultrasónico Ahuyentador Gatos  Carga Solar  Resistente al Agua  para Gatos  Perros  Ratones  Zorros  Pájaros  para Exterior](https://www.amazon.es/dp/B07K1T3ZZY/?tag=tolees-21) a 22.95 EUR (original: 39.99 EUR) (42.61 %  de descuento) en el siguiente enlace!

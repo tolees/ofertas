@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Fantasy Flight Games- X-Wing  Pilotos de Fortuna  FFSWX73 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0776Z9CKH/?tag=tolees-21'
+descuento: '69.35'
+titulo: 'Fantasy Flight Games- X-Wing  Pilotos de'
 ---
 
 Ahora mismo tienes [Fantasy Flight Games- X-Wing  Pilotos de Fortuna  FFSWX73 ](https://www.amazon.es/dp/B0776Z9CKH/?tag=tolees-21) a 9.18 EUR (original: 29.95 EUR) (69.35 %  de descuento) en el siguiente enlace!

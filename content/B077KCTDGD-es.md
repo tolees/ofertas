@@ -17,6 +17,9 @@ comparePrice: 14 EUR
 inStock: true
 prodname: 'Marca Amazon - Happy Belly Semillas de chía orgánica  1000 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077KCTDGD/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Marca Amazon - Happy Belly Semillas de c'
 ---
 
 Ahora mismo tienes [Marca Amazon - Happy Belly Semillas de chía orgánica  1000 g](https://www.amazon.es/dp/B077KCTDGD/?tag=tolees-21) a 10.5 EUR (original: 14 EUR) (25.00 %  de descuento) en el siguiente enlace!

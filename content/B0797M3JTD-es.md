@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Puma Speed 600 Ignite 3  Zapatillas de Entrenamiento para Hombre  Gris  Quiet Shade Black   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0797M3JTD/?tag=tolees-21'
+descuento: '61.86'
+titulo: 'Puma Speed 600 Ignite 3  Zapatillas de E'
 ---
 
 Ahora mismo tienes [Puma Speed 600 Ignite 3  Zapatillas de Entrenamiento para Hombre  Gris  Quiet Shade Black   40 EU](https://www.amazon.es/dp/B0797M3JTD/?tag=tolees-21) a 53.37 EUR (original: 139.95 EUR) (61.86 %  de descuento) en el siguiente enlace!

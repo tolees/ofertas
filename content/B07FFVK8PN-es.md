@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Moretek Xiaomi Band 3 Pulsera  Correa de Reloj Inteligente  Gel De Silicona Banda Pulsera Correa para Xiaomi Mi Band 3 Accesorios De Recambio  Black/2Skull 3pcs '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFVK8PN/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Moretek Xiaomi Band 3 Pulsera  Correa de'
 ---
 
 Tienes [Moretek Xiaomi Band 3 Pulsera  Correa de Reloj Inteligente  Gel De Silicona Banda Pulsera Correa para Xiaomi Mi Band 3 Accesorios De Recambio  Black/2Skull 3pcs ](https://www.amazon.es/dp/B07FFVK8PN/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

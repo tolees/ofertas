@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Claudia PL503846 Camiseta  Blanco  Off White 803   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RSWFZZ/?tag=tolees-21'
+descuento: '72.98'
+titulo: 'Pepe Jeans Claudia PL503846 Camiseta  Bl'
 ---
 
 Está [Pepe Jeans Claudia PL503846 Camiseta  Blanco  Off White 803   Large para Mujer](https://www.amazon.es/dp/B079RSWFZZ/?tag=tolees-21) con 72.98 de descuento por 10.78 EUR (original: 39.9 EUR) en el siguiente enlace!

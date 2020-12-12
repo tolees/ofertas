@@ -17,6 +17,9 @@ comparePrice: 18.9 EUR
 inStock: true
 prodname: 'Fila FU5016/2  Bóxer para Hombre  Negro  Black 200  X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SYXCTK/?tag=tolees-21'
+descuento: '51.64'
+titulo: 'Fila FU5016/2  Bóxer para Hombre  Negro '
 ---
 
 Tienes [Fila FU5016/2  Bóxer para Hombre  Negro  Black 200  X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B078SYXCTK/?tag=tolees-21) con un 51.64 % de descuento con precio de oferta de 9.14 EUR (original: 18.9 EUR) en el siguiente enlace!

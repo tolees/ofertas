@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Nike Downshifter 8  GS   Zapatillas de Running para Niños  Negro  Black/White-Anthracite 001   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007N9TSFO/?tag=tolees-21'
+descuento: '40.10'
+titulo: 'Nike Downshifter 8  GS   Zapatillas de R'
 ---
 
 Está [Nike Downshifter 8  GS   Zapatillas de Running para Niños  Negro  Black/White-Anthracite 001   38 EU](https://www.amazon.es/dp/B007N9TSFO/?tag=tolees-21) con 40.10 de descuento por 29.95 EUR (original: 50 EUR) en el siguiente enlace!

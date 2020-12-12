@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Tamaris 26050  Botas Militar para Mujer  Gris  Fog   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071GV4JLL/?tag=tolees-21'
+descuento: '77.48'
+titulo: 'Tamaris 26050  Botas Militar para Mujer '
 ---
 
 Tienes [Tamaris 26050  Botas Militar para Mujer  Gris  Fog   38 EU](https://www.amazon.es/dp/B071GV4JLL/?tag=tolees-21) con un 77.48 % de descuento con precio de oferta de 15.75 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'INJUICY Adaptador de enchufe europeo con interruptor de encendido y apagado  casquillo E27'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NY2ZQPF/?tag=tolees-21'
+descuento: '73.00'
+titulo: 'INJUICY Adaptador de enchufe europeo con'
 ---
 
 Tienes [INJUICY Adaptador de enchufe europeo con interruptor de encendido y apagado  casquillo E27](https://www.amazon.es/dp/B07NY2ZQPF/?tag=tolees-21) con un 73.00 % de descuento con precio de oferta de 4.05 EUR (original: 15 EUR) en el siguiente enlace!

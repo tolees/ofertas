@@ -17,6 +17,9 @@ comparePrice: 168 EUR
 inStock: true
 prodname: 'Ray-Ban Rb3449  Gafas de Sol para Hombre  Marrón  Arista   59'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004GJVZGY/?tag=tolees-21'
+descuento: '33.48'
+titulo: 'Ray-Ban Rb3449  Gafas de Sol para Hombre'
 ---
 
 Está [Ray-Ban Rb3449  Gafas de Sol para Hombre  Marrón  Arista   59](https://www.amazon.es/dp/B004GJVZGY/?tag=tolees-21) con 33.48 de descuento por 111.76 EUR (original: 168 EUR) en el siguiente enlace!

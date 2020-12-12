@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Guirnalda Luces  AOLUXLM Cortina de Luces 2M 144 LEDs 80 Estrellas  LED Blancas de Luz Cálida Cadena de Luces con Control Remoto para Interiores Al aire libre  Casas Fiesta Boda Jardín Decoración'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GB2BMLP/?tag=tolees-21'
+descuento: '67.03'
+titulo: 'Guirnalda Luces  AOLUXLM Cortina de Luce'
 ---
 
 Tienes [Guirnalda Luces  AOLUXLM Cortina de Luces 2M 144 LEDs 80 Estrellas  LED Blancas de Luz Cálida Cadena de Luces con Control Remoto para Interiores Al aire libre  Casas Fiesta Boda Jardín Decoración](https://www.amazon.es/dp/B07GB2BMLP/?tag=tolees-21) con un 67.03 % de descuento con precio de oferta de 19.78 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Diesel S-Happy Low  Zapatillas para Hombre  Verde  Green T7434   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077D2B9VT/?tag=tolees-21'
+descuento: '41.93'
+titulo: 'Diesel S-Happy Low  Zapatillas para Homb'
 ---
 
 Está [Diesel S-Happy Low  Zapatillas para Hombre  Verde  Green T7434   43 EU](https://www.amazon.es/dp/B077D2B9VT/?tag=tolees-21) con 41.93 de descuento por 58.07 EUR (original: 100 EUR) en el siguiente enlace!

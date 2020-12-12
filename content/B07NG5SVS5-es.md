@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Move Base de batería portátil para Google Home Mini'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NG5SVS5/?tag=tolees-21'
+descuento: '37.51'
+titulo: 'Move Base de batería portátil para Googl'
 ---
 
 Ahora mismo tienes [Move Base de batería portátil para Google Home Mini](https://www.amazon.es/dp/B07NG5SVS5/?tag=tolees-21) a 24.99 EUR (original: 39.99 EUR) (37.51 %  de descuento) en el siguiente enlace!

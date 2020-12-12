@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Dickies Cornwell  Abrigo impermeable para Hombre  Gris  Charcoal   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00E3G29RY/?tag=tolees-21'
+descuento: '73.56'
+titulo: 'Dickies Cornwell  Abrigo impermeable par'
 ---
 
 Ahora mismo tienes [Dickies Cornwell  Abrigo impermeable para Hombre  Gris  Charcoal   X-Large](https://www.amazon.es/dp/B00E3G29RY/?tag=tolees-21) a 20.89 EUR (original: 79 EUR) (73.56 %  de descuento) en el siguiente enlace!

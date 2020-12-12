@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'OCYCLONE Champú Sólido 3 PACK  Gengibre  Algas marinas y Menta Manzanilla  Barra de Champú y Acondicionador Crecimiento del Cabello  Organico Vegan Champú Natural Solido para Hombres Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JYX1CTZ/?tag=tolees-21'
+descuento: '46.68'
+titulo: 'OCYCLONE Champú Sólido 3 PACK  Gengibre '
 ---
 
 Ahora mismo tienes [OCYCLONE Champú Sólido 3 PACK  Gengibre  Algas marinas y Menta Manzanilla  Barra de Champú y Acondicionador Crecimiento del Cabello  Organico Vegan Champú Natural Solido para Hombres Mujer](https://www.amazon.es/dp/B07JYX1CTZ/?tag=tolees-21) a 15.99 EUR (original: 29.99 EUR) (46.68 %  de descuento) en el siguiente enlace!

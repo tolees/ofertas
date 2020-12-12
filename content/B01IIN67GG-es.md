@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Lee Twin Pack Crew  Camiseta para Hombre  Negro  Black Ai01  Small 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IIN67GG/?tag=tolees-21'
+descuento: '49.98'
+titulo: 'Lee Twin Pack Crew  Camiseta para Hombre'
 ---
 
 Ahora mismo tienes [Lee Twin Pack Crew  Camiseta para Hombre  Negro  Black Ai01  Small 2](https://www.amazon.es/dp/B01IIN67GG/?tag=tolees-21) a 14.98 EUR (original: 29.95 EUR) (49.98 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma TSUGI Apex  Zapatillas Unisex Adults’o  Blanco White  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0773KFCRL/?tag=tolees-21'
+descuento: '66.08'
+titulo: 'Puma TSUGI Apex  Zapatillas Unisex Adult'
 ---
 
 Ahora mismo tienes [Puma TSUGI Apex  Zapatillas Unisex Adults’o  Blanco White  41 EU](https://www.amazon.es/dp/B0773KFCRL/?tag=tolees-21) a 33.9 EUR (original: 99.95 EUR) (66.08 %  de descuento) en el siguiente enlace!

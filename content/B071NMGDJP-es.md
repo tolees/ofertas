@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Affni Cable R Knit L/s  suéter para Hombre  Negro  Dk Black Htr 7293   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NMGDJP/?tag=tolees-21'
+descuento: '56.80'
+titulo: 'G-STAR RAW Affni Cable R Knit L/s  suéte'
 ---
 
 Ahora mismo tienes [G-STAR RAW Affni Cable R Knit L/s  suéter para Hombre  Negro  Dk Black Htr 7293   Small](https://www.amazon.es/dp/B071NMGDJP/?tag=tolees-21) a 51.82 EUR (original: 119.95 EUR) (56.80 %  de descuento) en el siguiente enlace!

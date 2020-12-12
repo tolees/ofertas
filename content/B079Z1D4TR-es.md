@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'BILLABONG Arcade Gorro  Hombre  Navy  U'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079Z1D4TR/?tag=tolees-21'
+descuento: '58.65'
+titulo: 'BILLABONG Arcade Gorro  Hombre  Navy  U'
 ---
 
 Tienes [BILLABONG Arcade Gorro  Hombre  Navy  U](https://www.amazon.es/dp/B079Z1D4TR/?tag=tolees-21) con un 58.65 % de descuento con precio de oferta de 8.27 EUR (original: 20 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'Tuc Tuc Prenda Felpa Y Pelo Graphic  Vestido para Niñas   Gris 00   One Size  Tamaño del Fabricante:10A '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G9JJ3MG/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'Tuc Tuc Prenda Felpa Y Pelo Graphic  Ves'
 ---
 
 Está [Tuc Tuc Prenda Felpa Y Pelo Graphic  Vestido para Niñas   Gris 00   One Size  Tamaño del Fabricante:10A ](https://www.amazon.es/dp/B07G9JJ3MG/?tag=tolees-21) con 49.99 de descuento por 17.98 EUR (original: 35.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 1299 EUR
 inStock: true
 prodname: 'SachsenRad E-Racing Bike R5  Motor de 240 vatios  36V  hasta 25 km/h  24 Pulgadas  Caja de Cambios de 7 velocidades Shimano  neumáticos Kenda  Freno de Disco  Ganador del Premio alemán Red Dot  StVZO'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3LLSV6/?tag=tolees-21'
+descuento: '54.04'
+titulo: 'SachsenRad E-Racing Bike R5  Motor de 24'
 ---
 
 Está [SachsenRad E-Racing Bike R5  Motor de 240 vatios  36V  hasta 25 km/h  24 Pulgadas  Caja de Cambios de 7 velocidades Shimano  neumáticos Kenda  Freno de Disco  Ganador del Premio alemán Red Dot  StVZO](https://www.amazon.es/dp/B07L3LLSV6/?tag=tolees-21) con 54.04 de descuento por 597 EUR (original: 1299 EUR) en el siguiente enlace!

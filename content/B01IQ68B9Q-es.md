@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'ASICS Tight Mallas  Sin género  Negro  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IQ68B9Q/?tag=tolees-21'
+descuento: '50.10'
+titulo: 'ASICS Tight Mallas  Sin género  Negro  S'
 ---
 
 Tienes [ASICS Tight Mallas  Sin género  Negro  S](https://www.amazon.es/dp/B01IQ68B9Q/?tag=tolees-21) con un 50.10 % de descuento con precio de oferta de 22.95 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Gocco Blusa Flores  Niñas   Rosa Viejo PW   11-12 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D84BQ5L/?tag=tolees-21'
+descuento: '63.55'
+titulo: 'Gocco Blusa Flores  Niñas   Rosa Viejo P'
 ---
 
 Tienes [Gocco Blusa Flores  Niñas   Rosa Viejo PW   11-12 años](https://www.amazon.es/dp/B07D84BQ5L/?tag=tolees-21) con un 63.55 % de descuento con precio de oferta de 10.93 EUR (original: 29.99 EUR) en el siguiente enlace!

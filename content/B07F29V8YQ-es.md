@@ -17,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Levi s Martina Puffer Chaqueta  Azul  Medieval Blue 0004   Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F29V8YQ/?tag=tolees-21'
+descuento: '68.98'
+titulo: 'Levi s Martina Puffer Chaqueta  Azul  Me'
 ---
 
 Ahora mismo tienes [Levi s Martina Puffer Chaqueta  Azul  Medieval Blue 0004   Small para Mujer](https://www.amazon.es/dp/B07F29V8YQ/?tag=tolees-21) a 62.04 EUR (original: 200 EUR) (68.98 %  de descuento) en el siguiente enlace!

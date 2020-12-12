@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'DC Shoes Evan Hi Winter  Zapatillas de Skateboard para Mujer  Marrón  Wheat We9   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGMB8Q5/?tag=tolees-21'
+descuento: '72.30'
+titulo: 'DC Shoes Evan Hi Winter  Zapatillas de S'
 ---
 
 Ahora mismo tienes [DC Shoes Evan Hi Winter  Zapatillas de Skateboard para Mujer  Marrón  Wheat We9   39 EU](https://www.amazon.es/dp/B07DGMB8Q5/?tag=tolees-21) a 27.42 EUR (original: 99 EUR) (72.30 %  de descuento) en el siguiente enlace!

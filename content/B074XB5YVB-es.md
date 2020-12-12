@@ -17,6 +17,9 @@ comparePrice: 62.92 EUR
 inStock: true
 prodname: 'Goolsky JJRC H43WH Cangrejo WiFi FPV 720P HD Cámara Quadcopter Plegable G-Sensor Mini RC Selfie Drone'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074XB5YVB/?tag=tolees-21'
+descuento: '79.77'
+titulo: 'Goolsky JJRC H43WH Cangrejo WiFi FPV 720'
 ---
 
 Está [Goolsky JJRC H43WH Cangrejo WiFi FPV 720P HD Cámara Quadcopter Plegable G-Sensor Mini RC Selfie Drone](https://www.amazon.es/dp/B074XB5YVB/?tag=tolees-21) con 79.77 de descuento por 12.73 EUR (original: 62.92 EUR) en el siguiente enlace!

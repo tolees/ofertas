@@ -17,6 +17,9 @@ comparePrice: 41.99 EUR
 inStock: true
 prodname: 'Xintronics Auriculares Teléfono Fijo Monoaural RJ9  Cascos con Cancelación de Ruido Micrófono para Plantronics M10 M12 M22 MX10 Amplificadores y Cisco 7941 7945 7975  X10C1 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074Z4JY2B/?tag=tolees-21'
+descuento: '47.63'
+titulo: 'Xintronics Auriculares Teléfono Fijo Mon'
 ---
 
 Ahora mismo tienes [Xintronics Auriculares Teléfono Fijo Monoaural RJ9  Cascos con Cancelación de Ruido Micrófono para Plantronics M10 M12 M22 MX10 Amplificadores y Cisco 7941 7945 7975  X10C1 ](https://www.amazon.es/dp/B074Z4JY2B/?tag=tolees-21) a 21.99 EUR (original: 41.99 EUR) (47.63 %  de descuento) en el siguiente enlace!

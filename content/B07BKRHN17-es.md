@@ -17,6 +17,9 @@ comparePrice: 135.14 EUR
 inStock: true
 prodname: 'Aobosi Smokeless Barbecue Charcoal Grill con Bolsa de Viaje  Ideal para Exteriores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BKRHN17/?tag=tolees-21'
+descuento: '51.91'
+titulo: 'Aobosi Smokeless Barbecue Charcoal Grill'
 ---
 
 Tienes [Aobosi Smokeless Barbecue Charcoal Grill con Bolsa de Viaje  Ideal para Exteriores](https://www.amazon.es/dp/B07BKRHN17/?tag=tolees-21) con un 51.91 % de descuento con precio de oferta de 64.99 EUR (original: 135.14 EUR) en el siguiente enlace!

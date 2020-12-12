@@ -17,6 +17,9 @@ comparePrice: 9.95 EUR
 inStock: true
 prodname: 'Doble Cuerpo [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J4GVNT9/?tag=tolees-21'
+descuento: '34.77'
+titulo: 'Doble Cuerpo [Blu-ray]'
 ---
 
 Ahora mismo tienes [Doble Cuerpo [Blu-ray]](https://www.amazon.es/dp/B07J4GVNT9/?tag=tolees-21) a 6.49 EUR (original: 9.95 EUR) (34.77 %  de descuento) en el siguiente enlace!

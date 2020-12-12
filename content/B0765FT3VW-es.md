@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Esprit 018ee1k009  Camiseta Mujer   Navy 400   X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0765FT3VW/?tag=tolees-21'
+descuento: '55.35'
+titulo: 'Esprit 018ee1k009  Camiseta Mujer   Navy'
 ---
 
 Tienes [Esprit 018ee1k009  Camiseta Mujer   Navy 400   X-Small](https://www.amazon.es/dp/B0765FT3VW/?tag=tolees-21) con un 55.35 % de descuento con precio de oferta de 7.14 EUR (original: 15.99 EUR) en el siguiente enlace!

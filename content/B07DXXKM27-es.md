@@ -17,6 +17,9 @@ comparePrice: 23.35 EUR
 inStock: true
 prodname: 'Play-Doh - Cacas Divertidas  Hasbro E5810EU4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DXXKM27/?tag=tolees-21'
+descuento: '31.69'
+titulo: 'Play-Doh - Cacas Divertidas  Hasbro E581'
 ---
 
 Está [Play-Doh - Cacas Divertidas  Hasbro E5810EU4 ](https://www.amazon.es/dp/B07DXXKM27/?tag=tolees-21) con 31.69 de descuento por 15.95 EUR (original: 23.35 EUR) en el siguiente enlace!

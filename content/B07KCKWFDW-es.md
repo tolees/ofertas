@@ -17,6 +17,9 @@ comparePrice: 28.5 EUR
 inStock: true
 prodname: 'David Jones - 5940-1a  Shoppers y bolsos de hombro Mujer  Rosa  Pink   12x33x31 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCKWFDW/?tag=tolees-21'
+descuento: '61.68'
+titulo: 'David Jones - 5940-1a  Shoppers y bolsos'
 ---
 
 Está [David Jones - 5940-1a  Shoppers y bolsos de hombro Mujer  Rosa  Pink   12x33x31 cm  W x H L ](https://www.amazon.es/dp/B07KCKWFDW/?tag=tolees-21) con 61.68 de descuento por 10.92 EUR (original: 28.5 EUR) en el siguiente enlace!

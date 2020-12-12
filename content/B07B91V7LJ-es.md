@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Curington Rise  Botas Chelsea para Hombre  Negro  Blk Smooth Lea   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B91V7LJ/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Clarks Curington Rise  Botas Chelsea par'
 ---
 
 Tienes [Clarks Curington Rise  Botas Chelsea para Hombre  Negro  Blk Smooth Lea   43 EU](https://www.amazon.es/dp/B07B91V7LJ/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!

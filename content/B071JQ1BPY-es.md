@@ -17,6 +17,9 @@ comparePrice: 33.26 EUR
 inStock: true
 prodname: 'Menton Ezil Love Encounter` con Cristales Swarovski Brazalete Mujer Blanco Dorado de Pulsera Bisagra Ajustable Joyas Mujeres Regalos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JQ1BPY/?tag=tolees-21'
+descuento: '54.93'
+titulo: 'Menton Ezil Love Encounter` con Cristale'
 ---
 
 Tienes [Menton Ezil Love Encounter` con Cristales Swarovski Brazalete Mujer Blanco Dorado de Pulsera Bisagra Ajustable Joyas Mujeres Regalos](https://www.amazon.es/dp/B071JQ1BPY/?tag=tolees-21) con un 54.93 % de descuento con precio de oferta de 14.99 EUR (original: 33.26 EUR) en el siguiente enlace!

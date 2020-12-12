@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcolinn Sweat Hood Noos Capucha  Naranja  Poinciana Fit:reg   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075VJBS88/?tag=tolees-21'
+descuento: '66.49'
+titulo: 'JACK & JONES Jcolinn Sweat Hood Noos Cap'
 ---
 
 Está [JACK & JONES Jcolinn Sweat Hood Noos Capucha  Naranja  Poinciana Fit:reg   Medium para Hombre](https://www.amazon.es/dp/B075VJBS88/?tag=tolees-21) con 66.49 de descuento por 10.05 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Cruz v2 Deconstructed  Zapatillas de Running para Mujer  Naranja  Marzipan/Vanilla/Sea Salt Lm2   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFR9FYL/?tag=tolees-21'
+descuento: '65.51'
+titulo: 'New Balance Fresh Foam Cruz v2 Deconstru'
 ---
 
 Está [New Balance Fresh Foam Cruz v2 Deconstructed  Zapatillas de Running para Mujer  Naranja  Marzipan/Vanilla/Sea Salt Lm2   37 EU](https://www.amazon.es/dp/B07DFR9FYL/?tag=tolees-21) con 65.51 de descuento por 27.59 EUR (original: 80 EUR) en el siguiente enlace!

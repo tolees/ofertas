@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Finly Jeans  Azul  Rinse Denim Bj3   6 años  Talla del Fabricante: 6  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRJ3CK2/?tag=tolees-21'
+descuento: '70.30'
+titulo: 'Pepe Jeans Finly Jeans  Azul  Rinse Deni'
 ---
 
 Tienes [Pepe Jeans Finly Jeans  Azul  Rinse Denim Bj3   6 años  Talla del Fabricante: 6  para Niños](https://www.amazon.es/dp/B07CRJ3CK2/?tag=tolees-21) con un 70.30 % de descuento con precio de oferta de 14.82 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.75 EUR
 inStock: true
 prodname: 'Superdry Shirt Shop Duo tee  Camiseta para Hombre  BLU  Native Blue Marl Qd8   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZH8LGB/?tag=tolees-21'
+descuento: '47.30'
+titulo: 'Superdry Shirt Shop Duo tee  Camiseta pa'
 ---
 
 Tienes [Superdry Shirt Shop Duo tee  Camiseta para Hombre  BLU  Native Blue Marl Qd8   XS](https://www.amazon.es/dp/B07MZH8LGB/?tag=tolees-21) con un 47.30 % de descuento con precio de oferta de 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!

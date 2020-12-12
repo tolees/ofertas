@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Un Loop  Mocasines Mujer  Negro  Black Leather   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002SNAT58/?tag=tolees-21'
+descuento: '42.11'
+titulo: 'Clarks Un Loop  Mocasines Mujer  Negro  '
 ---
 
 Tienes [Clarks Un Loop  Mocasines Mujer  Negro  Black Leather   37 EU](https://www.amazon.es/dp/B002SNAT58/?tag=tolees-21) con un 42.11 % de descuento con precio de oferta de 63.68 EUR (original: 110 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 50.95 EUR
 inStock: true
 prodname: 'San Ignacio Gourmet Wok  Aluminio  Gris  28 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8OO5FX/?tag=tolees-21'
+descuento: '69.21'
+titulo: 'San Ignacio Gourmet Wok  Aluminio  Gris '
 ---
 
 Ahora mismo tienes [San Ignacio Gourmet Wok  Aluminio  Gris  28 cm](https://www.amazon.es/dp/B01N8OO5FX/?tag=tolees-21) a 15.69 EUR (original: 50.95 EUR) (69.21 %  de descuento) en el siguiente enlace!

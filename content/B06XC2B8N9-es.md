@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Deconstructed Super Slim  jeans ajustados Hombre  Azul  Lt Aged 424   W33/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XC2B8N9/?tag=tolees-21'
+descuento: '48.51'
+titulo: 'G-STAR RAW 3301 Deconstructed Super Slim'
 ---
 
 Está [G-STAR RAW 3301 Deconstructed Super Slim  jeans ajustados Hombre  Azul  Lt Aged 424   W33/L32](https://www.amazon.es/dp/B06XC2B8N9/?tag=tolees-21) con 48.51 de descuento por 51.46 EUR (original: 99.95 EUR) en el siguiente enlace!

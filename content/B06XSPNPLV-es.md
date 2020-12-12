@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Pepe Jeans BETTIES PL401250 Impermeable  Negro  Black 999   X-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSPNPLV/?tag=tolees-21'
+descuento: '81.26'
+titulo: 'Pepe Jeans BETTIES PL401250 Impermeable '
 ---
 
 Tienes [Pepe Jeans BETTIES PL401250 Impermeable  Negro  Black 999   X-Small para Mujer](https://www.amazon.es/dp/B06XSPNPLV/?tag=tolees-21) con un 81.26 % de descuento con precio de oferta de 37.29 EUR (original: 199 EUR) en el siguiente enlace!

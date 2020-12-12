@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'CRZ YOGA Mujer Naked Feeling Cintura Alta Leggings Yoga Pantalones Deportivos con Malla Chocolate New1 XS 36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GZKPTF7/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'CRZ YOGA Mujer Naked Feeling Cintura Alt'
 ---
 
 Ahora mismo tienes [CRZ YOGA Mujer Naked Feeling Cintura Alta Leggings Yoga Pantalones Deportivos con Malla Chocolate New1 XS 36 ](https://www.amazon.es/dp/B07GZKPTF7/?tag=tolees-21) a 23.99 EUR (original: 39.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

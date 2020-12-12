@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Monument Suéter  Gris  Grey Marl 933   M para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RQXKJW/?tag=tolees-21'
+descuento: '67.93'
+titulo: 'Pepe Jeans Monument Suéter  Gris  Grey M'
 ---
 
 Está [Pepe Jeans Monument Suéter  Gris  Grey Marl 933   M para Hombre](https://www.amazon.es/dp/B079RQXKJW/?tag=tolees-21) con 67.93 de descuento por 19.21 EUR (original: 59.9 EUR) en el siguiente enlace!

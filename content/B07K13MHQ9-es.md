@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'adidas Caflaire  Zapatillas de Tenis para Hombre  Azul FTWR White/Dark Blue  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K13MHQ9/?tag=tolees-21'
+descuento: '50.93'
+titulo: 'adidas Caflaire  Zapatillas de Tenis par'
 ---
 
 Ahora mismo tienes [adidas Caflaire  Zapatillas de Tenis para Hombre  Azul FTWR White/Dark Blue  42 EU](https://www.amazon.es/dp/B07K13MHQ9/?tag=tolees-21) a 31.87 EUR (original: 64.95 EUR) (50.93 %  de descuento) en el siguiente enlace!

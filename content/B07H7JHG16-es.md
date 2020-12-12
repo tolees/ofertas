@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Asics Light Stretch Woven Colour Blocking Pants  Pantalones de Deporte para Hombre  Negro  Performance Black 001   34  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H7JHG16/?tag=tolees-21'
+descuento: '59.72'
+titulo: 'Asics Light Stretch Woven Colour Blockin'
 ---
 
 Tienes [Asics Light Stretch Woven Colour Blocking Pants  Pantalones de Deporte para Hombre  Negro  Performance Black 001   34  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07H7JHG16/?tag=tolees-21) con un 59.72 % de descuento con precio de oferta de 38.27 EUR (original: 95 EUR) en el siguiente enlace!

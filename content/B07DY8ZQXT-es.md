@@ -17,6 +17,9 @@ comparePrice: 57.39 EUR
 inStock: true
 prodname: 'Volcom Draw Lo Shoe  Zapatillas de Skateboard para Hombre  Gris  Black Grey Bkg   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DY8ZQXT/?tag=tolees-21'
+descuento: '44.82'
+titulo: 'Volcom Draw Lo Shoe  Zapatillas de Skate'
 ---
 
 Tienes [Volcom Draw Lo Shoe  Zapatillas de Skateboard para Hombre  Gris  Black Grey Bkg   41 EU](https://www.amazon.es/dp/B07DY8ZQXT/?tag=tolees-21) con un 44.82 % de descuento con precio de oferta de 31.67 EUR (original: 57.39 EUR) en el siguiente enlace!

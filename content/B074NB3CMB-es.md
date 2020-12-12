@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'edc by Esprit 107cc1i047 suéter  Gris  Light Grey 040   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074NB3CMB/?tag=tolees-21'
+descuento: '77.54'
+titulo: 'edc by Esprit 107cc1i047 suéter  Gris  L'
 ---
 
 Ahora mismo tienes [edc by Esprit 107cc1i047 suéter  Gris  Light Grey 040   Medium para Mujer](https://www.amazon.es/dp/B074NB3CMB/?tag=tolees-21) a 15.72 EUR (original: 69.99 EUR) (77.54 %  de descuento) en el siguiente enlace!

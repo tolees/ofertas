@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'LANGRIA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XN5FCGM/?tag=tolees-21'
+descuento: '77.98'
+titulo: 'LANGRIA'
 ---
 
 Ahora mismo tienes [LANGRIA](https://www.amazon.es/dp/B06XN5FCGM/?tag=tolees-21) a 12.99 EUR (original: 59 EUR) (77.98 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Under Armour UA Cinch Printed Tote Bolsa Deportiva  Mujer  Gris  Mod Gray Black 011   Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1K1YB3/?tag=tolees-21'
+descuento: '50.11'
+titulo: 'Under Armour UA Cinch Printed Tote Bolsa'
 ---
 
 Tienes [Under Armour UA Cinch Printed Tote Bolsa Deportiva  Mujer  Gris  Mod Gray Black 011   Talla única](https://www.amazon.es/dp/B07D1K1YB3/?tag=tolees-21) con un 50.11 % de descuento con precio de oferta de 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!

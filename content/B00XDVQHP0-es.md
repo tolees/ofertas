@@ -17,6 +17,9 @@ comparePrice: 10.49 EUR
 inStock: true
 prodname: 'NIVEA SUN Protege & Hidrata Leche Solar FP20 Protector solar hidratante y resistente al agua con protección UVA/UVB  protección solar media - 1 x 200 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XDVQHP0/?tag=tolees-21'
+descuento: '52.53'
+titulo: 'NIVEA SUN Protege & Hidrata Leche Solar '
 ---
 
 Tienes [NIVEA SUN Protege & Hidrata Leche Solar FP20 Protector solar hidratante y resistente al agua con protección UVA/UVB  protección solar media - 1 x 200 ml](https://www.amazon.es/dp/B00XDVQHP0/?tag=tolees-21) con un 52.53 % de descuento con precio de oferta de 4.98 EUR (original: 10.49 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Converse Chuck Taylor CTAS Boot Pc Hi  Zapatillas Unisex Adulto  Marrón Dark Clove 288  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XH64LFT/?tag=tolees-21'
+descuento: '71.78'
+titulo: 'Converse Chuck Taylor CTAS Boot Pc Hi  Z'
 ---
 
 Está [Converse Chuck Taylor CTAS Boot Pc Hi  Zapatillas Unisex Adulto  Marrón Dark Clove 288  36 EU](https://www.amazon.es/dp/B06XH64LFT/?tag=tolees-21) con 71.78 de descuento por 28.22 EUR (original: 100 EUR) en el siguiente enlace!

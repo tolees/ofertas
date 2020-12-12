@@ -17,6 +17,9 @@ comparePrice: 239 EUR
 inStock: true
 prodname: 'Napapijri Rainforest Pocket  Chaqueta para Hombre  Rojo  Pop Red R41   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079JWBM9C/?tag=tolees-21'
+descuento: '64.70'
+titulo: 'Napapijri Rainforest Pocket  Chaqueta pa'
 ---
 
 Está [Napapijri Rainforest Pocket  Chaqueta para Hombre  Rojo  Pop Red R41   Small](https://www.amazon.es/dp/B079JWBM9C/?tag=tolees-21) con 64.70 de descuento por 84.37 EUR (original: 239 EUR) en el siguiente enlace!

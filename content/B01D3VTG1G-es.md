@@ -17,6 +17,9 @@ comparePrice: 9.18 EUR
 inStock: true
 prodname: 'El Puño Del Dragón [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01D3VTG1G/?tag=tolees-21'
+descuento: '45.53'
+titulo: 'El Puño Del Dragón [Blu-ray]'
 ---
 
 Ahora mismo tienes [El Puño Del Dragón [Blu-ray]](https://www.amazon.es/dp/B01D3VTG1G/?tag=tolees-21) a 5 EUR (original: 9.18 EUR) (45.53 %  de descuento) en el siguiente enlace!

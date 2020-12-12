@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Logitech M238 Fan Colección - Ratón inalámbrico  diseño Bandera Brasil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B5F2DRV/?tag=tolees-21'
+descuento: '61.91'
+titulo: 'Logitech M238 Fan Colección - Ratón inal'
 ---
 
 Ahora mismo tienes [Logitech M238 Fan Colección - Ratón inalámbrico  diseño Bandera Brasil](https://www.amazon.es/dp/B07B5F2DRV/?tag=tolees-21) a 9.9 EUR (original: 25.99 EUR) (61.91 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Under Armour Fleece 1/4 Zip  Sudadera hombre  Azul  Blue Shift 929   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M66KZOA/?tag=tolees-21'
+descuento: '51.87'
+titulo: 'Under Armour Fleece 1/4 Zip  Sudadera ho'
 ---
 
 Está [Under Armour Fleece 1/4 Zip  Sudadera hombre  Azul  Blue Shift 929   M](https://www.amazon.es/dp/B01M66KZOA/?tag=tolees-21) con 51.87 de descuento por 26.47 EUR (original: 55 EUR) en el siguiente enlace!

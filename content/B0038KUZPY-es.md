@@ -17,6 +17,9 @@ comparePrice: 6.99 EUR
 inStock: true
 prodname: 'Rock Off 07897 - Taza  diseño U2 War'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0038KUZPY/?tag=tolees-21'
+descuento: '71.39'
+titulo: 'Rock Off 07897 - Taza  diseño U2 War'
 ---
 
 Ahora mismo tienes [Rock Off 07897 - Taza  diseño U2 War](https://www.amazon.es/dp/B0038KUZPY/?tag=tolees-21) a 2 EUR (original: 6.99 EUR) (71.39 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Desires Chaqueta Negro XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H2DOJ40/?tag=tolees-21'
+descuento: '42.92'
+titulo: 'Desires Chaqueta Negro XS'
 ---
 
 Está [Desires Chaqueta Negro XS](https://www.amazon.es/dp/B01H2DOJ40/?tag=tolees-21) con 42.92 de descuento por 79.88 EUR (original: 139.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Sun Fade 2153   32W / 32L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CKP9YC2/?tag=tolees-21'
+descuento: '47.47'
+titulo: 'Levi s 511 Slim Fit  Vaqueros para Hombr'
 ---
 
 Tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Sun Fade 2153   32W / 32L](https://www.amazon.es/dp/B07CKP9YC2/?tag=tolees-21) con un 47.47 % de descuento con precio de oferta de 57.78 EUR (original: 110 EUR) en el siguiente enlace!

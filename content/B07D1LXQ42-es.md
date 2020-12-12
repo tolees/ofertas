@@ -17,6 +17,9 @@ comparePrice: 92.77 EUR
 inStock: true
 prodname: 'Asics Fuzetora Twist  Zapatillas de Running para Hombre  Gris  Slate Grey/Amber 020   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1LXQ42/?tag=tolees-21'
+descuento: '59.74'
+titulo: 'Asics Fuzetora Twist  Zapatillas de Runn'
 ---
 
 Ahora mismo tienes [Asics Fuzetora Twist  Zapatillas de Running para Hombre  Gris  Slate Grey/Amber 020   41.5 EU](https://www.amazon.es/dp/B07D1LXQ42/?tag=tolees-21) a 37.35 EUR (original: 92.77 EUR) (59.74 %  de descuento) en el siguiente enlace!

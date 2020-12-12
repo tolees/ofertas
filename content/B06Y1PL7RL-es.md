@@ -17,6 +17,9 @@ comparePrice: 229 EUR
 inStock: true
 prodname: 'Samsung HW-M360/ZF - Barra de Sonido inalámbrica con 200 W de Potencia  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y1PL7RL/?tag=tolees-21'
+descuento: '30.57'
+titulo: 'Samsung HW-M360/ZF - Barra de Sonido ina'
 ---
 
 Ahora mismo tienes [Samsung HW-M360/ZF - Barra de Sonido inalámbrica con 200 W de Potencia  Color Negro](https://www.amazon.es/dp/B06Y1PL7RL/?tag=tolees-21) a 159 EUR (original: 229 EUR) (30.57 %  de descuento) en el siguiente enlace!

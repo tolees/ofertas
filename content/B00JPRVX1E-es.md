@@ -17,6 +17,9 @@ comparePrice: 24.25 EUR
 inStock: true
 prodname: 'Schwarzkopf Bc Color Freeze - Acondicionador  400 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JPRVX1E/?tag=tolees-21'
+descuento: '38.60'
+titulo: 'Schwarzkopf Bc Color Freeze - Acondicion'
 ---
 
 Está [Schwarzkopf Bc Color Freeze - Acondicionador  400 ml](https://www.amazon.es/dp/B00JPRVX1E/?tag=tolees-21) con 38.60 de descuento por 14.89 EUR (original: 24.25 EUR) en el siguiente enlace!

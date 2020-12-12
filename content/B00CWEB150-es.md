@@ -17,6 +17,9 @@ comparePrice: 92.94 EUR
 inStock: true
 prodname: 'Orbegozo BF 0140 Ventilador Box Fan'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CWEB150/?tag=tolees-21'
+descuento: '50.51'
+titulo: 'Orbegozo BF 0140 Ventilador Box Fan'
 ---
 
 Tienes [Orbegozo BF 0140 Ventilador Box Fan](https://www.amazon.es/dp/B00CWEB150/?tag=tolees-21) con un 50.51 % de descuento con precio de oferta de 46 EUR (original: 92.94 EUR) en el siguiente enlace!

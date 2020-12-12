@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Cortefiel Mochila Marrón Oscuro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IHMOV6G/?tag=tolees-21'
+descuento: '79.42'
+titulo: 'Cortefiel Mochila Marrón Oscuro'
 ---
 
 Está [Cortefiel Mochila Marrón Oscuro](https://www.amazon.es/dp/B01IHMOV6G/?tag=tolees-21) con 79.42 de descuento por 18.52 EUR (original: 89.99 EUR) en el siguiente enlace!

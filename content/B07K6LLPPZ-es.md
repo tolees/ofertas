@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'Asics Gel-Nimbus 21  Zapatillas de Running para Hombre  Azul  Illusion Blue/Black 400   43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K6LLPPZ/?tag=tolees-21'
+descuento: '27.36'
+titulo: 'Asics Gel-Nimbus 21  Zapatillas de Runni'
 ---
 
 Está [Asics Gel-Nimbus 21  Zapatillas de Running para Hombre  Azul  Illusion Blue/Black 400   43.5 EU](https://www.amazon.es/dp/B07K6LLPPZ/?tag=tolees-21) con 27.36 de descuento por 130.76 EUR (original: 180 EUR) en el siguiente enlace!

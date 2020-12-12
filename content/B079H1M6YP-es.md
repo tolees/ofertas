@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Tom Tailor 5880806  Botas Clasicas para Hombre  Negro  Black 00001   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079H1M6YP/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'Tom Tailor 5880806  Botas Clasicas para '
 ---
 
 Ahora mismo tienes [Tom Tailor 5880806  Botas Clasicas para Hombre  Negro  Black 00001   41 EU](https://www.amazon.es/dp/B079H1M6YP/?tag=tolees-21) a 34.95 EUR (original: 69.95 EUR) (50.04 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Columbia Schooner Bank Cachalot - Gorra Unisex  Gris  Cool Grey  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKZNPK4/?tag=tolees-21'
+descuento: '46.18'
+titulo: 'Columbia Schooner Bank Cachalot - Gorra '
 ---
 
 Ahora mismo tienes [Columbia Schooner Bank Cachalot - Gorra Unisex  Gris  Cool Grey  Talla Única](https://www.amazon.es/dp/B07DKZNPK4/?tag=tolees-21) a 13.45 EUR (original: 24.99 EUR) (46.18 %  de descuento) en el siguiente enlace!

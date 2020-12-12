@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Tratamiento en suero anti-envejecimiento para las ojeras  Illumizone  por Omiera Labs-0.5 oz'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00B7MCTMW/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Tratamiento en suero anti-envejecimiento'
 ---
 
 Está [Tratamiento en suero anti-envejecimiento para las ojeras  Illumizone  por Omiera Labs-0.5 oz](https://www.amazon.es/dp/B00B7MCTMW/?tag=tolees-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

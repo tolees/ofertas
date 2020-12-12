@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Under Armour EU Cotton Fleece Jogger Pantalones  Niños  Academy/Steel  YXS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWDPRSJ/?tag=tolees-21'
+descuento: '64.46'
+titulo: 'Under Armour EU Cotton Fleece Jogger Pan'
 ---
 
 Está [Under Armour EU Cotton Fleece Jogger Pantalones  Niños  Academy/Steel  YXS](https://www.amazon.es/dp/B07DWDPRSJ/?tag=tolees-21) con 64.46 de descuento por 12.44 EUR (original: 35 EUR) en el siguiente enlace!

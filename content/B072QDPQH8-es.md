@@ -17,6 +17,9 @@ comparePrice: 73.49 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Cruz Sport Pack Reflective Zapatillas de Running Hombre  Gris  Silver   42.5 EU  8.5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072QDPQH8/?tag=tolees-21'
+descuento: '63.33'
+titulo: 'New Balance Fresh Foam Cruz Sport Pack R'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Cruz Sport Pack Reflective Zapatillas de Running Hombre  Gris  Silver   42.5 EU  8.5 UK ](https://www.amazon.es/dp/B072QDPQH8/?tag=tolees-21) a 26.95 EUR (original: 73.49 EUR) (63.33 %  de descuento) en el siguiente enlace!

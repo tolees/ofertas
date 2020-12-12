@@ -17,6 +17,9 @@ comparePrice: 19 EUR
 inStock: true
 prodname: 'Letook Guantes Ciclismo Bici De Verano Dedos Medios Respirable Guantes MTB Gel para Hombre Verde XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CQK6LRV/?tag=tolees-21'
+descuento: '36.89'
+titulo: 'Letook Guantes Ciclismo Bici De Verano D'
 ---
 
 Está [Letook Guantes Ciclismo Bici De Verano Dedos Medios Respirable Guantes MTB Gel para Hombre Verde XXL](https://www.amazon.es/dp/B07CQK6LRV/?tag=tolees-21) con 36.89 de descuento por 11.99 EUR (original: 19 EUR) en el siguiente enlace!

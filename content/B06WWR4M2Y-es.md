@@ -17,6 +17,9 @@ comparePrice: 89.6 EUR
 inStock: true
 prodname: 'Trio Lighting Lugano Plafón  Níquel Mate  30 X 30 X 9 Cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WWR4M2Y/?tag=tolees-21'
+descuento: '42.57'
+titulo: 'Trio Lighting Lugano Plafón  Níquel Mate'
 ---
 
 Tienes [Trio Lighting Lugano Plafón  Níquel Mate  30 X 30 X 9 Cm](https://www.amazon.es/dp/B06WWR4M2Y/?tag=tolees-21) con un 42.57 % de descuento con precio de oferta de 51.46 EUR (original: 89.6 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 399.95 EUR
 inStock: true
 prodname: 'Chicco Urban - Silla de paseo  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00EF079BE/?tag=tolees-21'
+descuento: '52.44'
+titulo: 'Chicco Urban - Silla de paseo  color neg'
 ---
 
 Está [Chicco Urban - Silla de paseo  color negro](https://www.amazon.es/dp/B00EF079BE/?tag=tolees-21) con 52.44 de descuento por 190.23 EUR (original: 399.95 EUR) en el siguiente enlace!

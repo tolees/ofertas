@@ -17,6 +17,9 @@ comparePrice: 77.93 EUR
 inStock: true
 prodname: 'Bestway Fast Set Piscina  150x38x75 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01A8L4N7Q/?tag=tolees-21'
+descuento: '35.90'
+titulo: 'Bestway Fast Set Piscina  150x38x75 cm'
 ---
 
 Ahora mismo tienes [Bestway Fast Set Piscina  150x38x75 cm](https://www.amazon.es/dp/B01A8L4N7Q/?tag=tolees-21) a 49.95 EUR (original: 77.93 EUR) (35.90 %  de descuento) en el siguiente enlace!

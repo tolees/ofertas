@@ -17,6 +17,9 @@ comparePrice: 219.9 EUR
 inStock: true
 prodname: 'Keter Excellence Armario XL escobero Arena/Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AZLIZ2O/?tag=tolees-21'
+descuento: '45.88'
+titulo: 'Keter Excellence Armario XL escobero Are'
 ---
 
 Ahora mismo tienes [Keter Excellence Armario XL escobero Arena/Gris](https://www.amazon.es/dp/B00AZLIZ2O/?tag=tolees-21) a 119 EUR (original: 219.9 EUR) (45.88 %  de descuento) en el siguiente enlace!

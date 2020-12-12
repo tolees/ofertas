@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Lámparas Solares Luz de Jardín Focos Led Exterior con 300 Lúmenes  2 Modos y Impermeable IP65  Apliques de pared Solar Ajustable con Funciona de 8 Horas para Jardín Patio Terraza Calzada'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BDHP7H5/?tag=tolees-21'
+descuento: '58.04'
+titulo: 'Lámparas Solares Luz de Jardín Focos Led'
 ---
 
 Está [Lámparas Solares Luz de Jardín Focos Led Exterior con 300 Lúmenes  2 Modos y Impermeable IP65  Apliques de pared Solar Ajustable con Funciona de 8 Horas para Jardín Patio Terraza Calzada](https://www.amazon.es/dp/B07BDHP7H5/?tag=tolees-21) con 58.04 de descuento por 16.78 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 62.25 EUR
 inStock: true
 prodname: 'Adidas Cloudfoam Lite W Aw4201  Zapatillas para Mujer  Negro  Black  37 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N24FV6Z/?tag=tolees-21'
+descuento: '48.82'
+titulo: 'Adidas Cloudfoam Lite W Aw4201  Zapatill'
 ---
 
 Está [Adidas Cloudfoam Lite W Aw4201  Zapatillas para Mujer  Negro  Black  37 1/3 EU](https://www.amazon.es/dp/B01N24FV6Z/?tag=tolees-21) con 48.82 de descuento por 31.86 EUR (original: 62.25 EUR) en el siguiente enlace!

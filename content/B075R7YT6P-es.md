@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Cruz v2  Zapatillas para Hombre  Verde  Vintage Cedar/Faded Rosin/Moonbeam Nm2   46.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R7YT6P/?tag=tolees-21'
+descuento: '66.73'
+titulo: 'New Balance Fresh Foam Cruz v2  Zapatill'
 ---
 
 Está [New Balance Fresh Foam Cruz v2  Zapatillas para Hombre  Verde  Vintage Cedar/Faded Rosin/Moonbeam Nm2   46.5 EU](https://www.amazon.es/dp/B075R7YT6P/?tag=tolees-21) con 66.73 de descuento por 31.61 EUR (original: 95 EUR) en el siguiente enlace!

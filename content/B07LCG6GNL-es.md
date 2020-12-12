@@ -17,6 +17,9 @@ comparePrice: 100.99 EUR
 inStock: true
 prodname: 'GRIFEMA G13004 -BERLIN Grifo para bañera y ducha con ducha de mano  manguera flexible de 1 5 m y soporte de ducha fijo  Grifo de bañera  1/2"   Cromo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LCG6GNL/?tag=tolees-21'
+descuento: '35.65'
+titulo: 'GRIFEMA G13004 -BERLIN Grifo para bañera'
 ---
 
 Está [GRIFEMA G13004 -BERLIN Grifo para bañera y ducha con ducha de mano  manguera flexible de 1 5 m y soporte de ducha fijo  Grifo de bañera  1/2"   Cromo](https://www.amazon.es/dp/B07LCG6GNL/?tag=tolees-21) con 35.65 de descuento por 64.99 EUR (original: 100.99 EUR) en el siguiente enlace!

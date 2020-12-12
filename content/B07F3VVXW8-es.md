@@ -17,6 +17,9 @@ comparePrice: 22.83 EUR
 inStock: true
 prodname: 'Kit de Brochas Maquillaje 10 Piezas Cerdas de Fibra Sintética Suave Pincel de maquillaje  pincel de labios  cepillo de base  pincel de polvo suelto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F3VVXW8/?tag=tolees-21'
+descuento: '70.04'
+titulo: 'Kit de Brochas Maquillaje 10 Piezas Cerd'
 ---
 
 Tienes [Kit de Brochas Maquillaje 10 Piezas Cerdas de Fibra Sintética Suave Pincel de maquillaje  pincel de labios  cepillo de base  pincel de polvo suelto](https://www.amazon.es/dp/B07F3VVXW8/?tag=tolees-21) con un 70.04 % de descuento con precio de oferta de 6.84 EUR (original: 22.83 EUR) en el siguiente enlace!

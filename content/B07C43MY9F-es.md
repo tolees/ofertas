@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 2-2-22443-31  Zapatos de Tacón para Mujer  Negro  Black 001   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C43MY9F/?tag=tolees-21'
+descuento: '68.85'
+titulo: 'Marco Tozzi 2-2-22443-31  Zapatos de Tac'
 ---
 
 Ahora mismo tienes [Marco Tozzi 2-2-22443-31  Zapatos de Tacón para Mujer  Negro  Black 001   40 EU](https://www.amazon.es/dp/B07C43MY9F/?tag=tolees-21) a 15.56 EUR (original: 49.95 EUR) (68.85 %  de descuento) en el siguiente enlace!

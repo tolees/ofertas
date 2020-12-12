@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Pwrshape Forever-Logo  Sujetador Deportivo para Mujer  Negro  Puma Black-Puma Copper   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XWNZGFP/?tag=tolees-21'
+descuento: '60.10'
+titulo: 'Puma Pwrshape Forever-Logo  Sujetador De'
 ---
 
 Tienes [Puma Pwrshape Forever-Logo  Sujetador Deportivo para Mujer  Negro  Puma Black-Puma Copper   XS](https://www.amazon.es/dp/B06XWNZGFP/?tag=tolees-21) con un 60.10 % de descuento con precio de oferta de 11.95 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 23.95 EUR
 inStock: true
 prodname: 'Joma Silver Camiseta de Juego Manga Corta  Hombre  Verde  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y61FV1C/?tag=tolees-21'
+descuento: '69.73'
+titulo: 'Joma Silver Camiseta de Juego Manga Cort'
 ---
 
 Ahora mismo tienes [Joma Silver Camiseta de Juego Manga Corta  Hombre  Verde  L](https://www.amazon.es/dp/B06Y61FV1C/?tag=tolees-21) a 7.25 EUR (original: 23.95 EUR) (69.73 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 18.33 EUR
 inStock: true
 prodname: 'Haribo Dragibus - 2000 gr  paquete de 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015ND2BX2/?tag=tolees-21'
+descuento: '36.88'
+titulo: 'Haribo Dragibus - 2000 gr  paquete de 2'
 ---
 
 Está [Haribo Dragibus - 2000 gr  paquete de 2](https://www.amazon.es/dp/B015ND2BX2/?tag=tolees-21) con 36.88 de descuento por 11.57 EUR (original: 18.33 EUR) en el siguiente enlace!

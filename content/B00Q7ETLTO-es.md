@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Columbia Peakfreakâ„¢ Venture Waterproof  Zapatillas de Senderismo  Impermeable para Hombre  Marrón  Cordovan/Squash   43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Q7ETLTO/?tag=tolees-21'
+descuento: '30.04'
+titulo: 'Columbia Peakfreakâ„¢ Venture Waterproof'
 ---
 
 Está [Columbia Peakfreakâ„¢ Venture Waterproof  Zapatillas de Senderismo  Impermeable para Hombre  Marrón  Cordovan/Squash   43.5 EU](https://www.amazon.es/dp/B00Q7ETLTO/?tag=tolees-21) con 30.04 de descuento por 76.95 EUR (original: 109.99 EUR) en el siguiente enlace!

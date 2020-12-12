@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Levi s Jax High  Botas Desert para Hombre  Marrón  Dark Brown 29   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0727XBGQQ/?tag=tolees-21'
+descuento: '67.83'
+titulo: 'Levi s Jax High  Botas Desert para Hombr'
 ---
 
 Está [Levi s Jax High  Botas Desert para Hombre  Marrón  Dark Brown 29   41 EU](https://www.amazon.es/dp/B0727XBGQQ/?tag=tolees-21) con 67.83 de descuento por 38.6 EUR (original: 120 EUR) en el siguiente enlace!

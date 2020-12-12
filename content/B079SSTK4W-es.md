@@ -17,6 +17,9 @@ comparePrice: 32.95 EUR
 inStock: true
 prodname: 'Desigual TS_jino  Camiseta para Niños    Blanco 1000  116  Talla del Fabricante: 5/6 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079SSTK4W/?tag=tolees-21'
+descuento: '50.08'
+titulo: 'Desigual TS_jino  Camiseta para Niños   '
 ---
 
 Ahora mismo tienes [Desigual TS_jino  Camiseta para Niños    Blanco 1000  116  Talla del Fabricante: 5/6 ](https://www.amazon.es/dp/B079SSTK4W/?tag=tolees-21) a 16.45 EUR (original: 32.95 EUR) (50.08 %  de descuento) en el siguiente enlace!

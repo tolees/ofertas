@@ -17,6 +17,9 @@ comparePrice: 2.25 EUR
 inStock: true
 prodname: 'Gallo Pastalover Macarrones Napolitana - 200g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072PS6H5B/?tag=tolees-21'
+descuento: '41.78'
+titulo: 'Gallo Pastalover Macarrones Napolitana -'
 ---
 
 Ahora mismo tienes [Gallo Pastalover Macarrones Napolitana - 200g](https://www.amazon.es/dp/B072PS6H5B/?tag=tolees-21) a 1.31 EUR (original: 2.25 EUR) (41.78 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Simpowel V10 - Altavoz Bluetooth 4.0 Altavoz portátil inalámbrico de 20 vatios Deep Bass con TI DSP y Reproductor de MP3 y micrófono Incorporado Micro SD - hasta 10 Horas de reproducción'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M28BGT2/?tag=tolees-21'
+descuento: '46.96'
+titulo: 'Simpowel V10 - Altavoz Bluetooth 4.0 Alt'
 ---
 
 Está [Simpowel V10 - Altavoz Bluetooth 4.0 Altavoz portátil inalámbrico de 20 vatios Deep Bass con TI DSP y Reproductor de MP3 y micrófono Incorporado Micro SD - hasta 10 Horas de reproducción](https://www.amazon.es/dp/B01M28BGT2/?tag=tolees-21) con 46.96 de descuento por 25.99 EUR (original: 49 EUR) en el siguiente enlace!

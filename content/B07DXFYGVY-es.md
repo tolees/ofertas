@@ -17,6 +17,9 @@ comparePrice: 122.46 EUR
 inStock: true
 prodname: 'Caterpillar Shaw  Botas Clasicas para Hombre  Marrón  Suned Light Brown   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DXFYGVY/?tag=tolees-21'
+descuento: '60.37'
+titulo: 'Caterpillar Shaw  Botas Clasicas para Ho'
 ---
 
 Está [Caterpillar Shaw  Botas Clasicas para Hombre  Marrón  Suned Light Brown   41 EU](https://www.amazon.es/dp/B07DXFYGVY/?tag=tolees-21) con 60.37 de descuento por 48.53 EUR (original: 122.46 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Nike M NK Dry ACDMY Hoodie PO Sweatshirt  Hombre  Negro  Black White  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KL3QHJB/?tag=tolees-21'
+descuento: '49.53'
+titulo: 'Nike M NK Dry ACDMY Hoodie PO Sweatshirt'
 ---
 
 Está [Nike M NK Dry ACDMY Hoodie PO Sweatshirt  Hombre  Negro  Black White  XL](https://www.amazon.es/dp/B07KL3QHJB/?tag=tolees-21) con 49.53 de descuento por 22.71 EUR (original: 45 EUR) en el siguiente enlace!

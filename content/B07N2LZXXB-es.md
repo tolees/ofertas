@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'Moviles Libres Baratos 4G V Mobile J7 5 5 Pulgadas 3GB RAM 32GB ROM 5800mAh Bateria 8MP Camara Dual Sim Face ID Bleu '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N2LZXXB/?tag=tolees-21'
+descuento: '55.56'
+titulo: 'Moviles Libres Baratos 4G V Mobile J7 5 '
 ---
 
 Tienes [Moviles Libres Baratos 4G V Mobile J7 5 5 Pulgadas 3GB RAM 32GB ROM 5800mAh Bateria 8MP Camara Dual Sim Face ID Bleu ](https://www.amazon.es/dp/B07N2LZXXB/?tag=tolees-21) con un 55.56 % de descuento con precio de oferta de 79.99 EUR (original: 180 EUR) en el siguiente enlace!

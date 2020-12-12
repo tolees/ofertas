@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Asics T7A9N9697  Zapatillas de Running para Mujer  Gris  Mid Grey/Carbon/Flash Coral   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NX2P5Z/?tag=tolees-21'
+descuento: '51.47'
+titulo: 'Asics T7A9N9697  Zapatillas de Running p'
 ---
 
 Tienes [Asics T7A9N9697  Zapatillas de Running para Mujer  Gris  Mid Grey/Carbon/Flash Coral   39 EU](https://www.amazon.es/dp/B071NX2P5Z/?tag=tolees-21) con un 51.47 % de descuento con precio de oferta de 58.24 EUR (original: 120 EUR) en el siguiente enlace!

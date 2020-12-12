@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'ARTESANIA CERDA Gorra Innovación Cars  Niños  Rojo  M  Tamaño del Fabricante:51 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MCLLBZY/?tag=tolees-21'
+descuento: '48.74'
+titulo: 'ARTESANIA CERDA Gorra Innovación Cars  N'
 ---
 
 Está [ARTESANIA CERDA Gorra Innovación Cars  Niños  Rojo  M  Tamaño del Fabricante:51 ](https://www.amazon.es/dp/B07MCLLBZY/?tag=tolees-21) con 48.74 de descuento por 10.2 EUR (original: 19.9 EUR) en el siguiente enlace!

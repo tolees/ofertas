@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Runbow - Deluxe Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0785H8PTS/?tag=tolees-21'
+descuento: '46.58'
+titulo: 'Runbow - Deluxe Edition'
 ---
 
 Está [Runbow - Deluxe Edition](https://www.amazon.es/dp/B0785H8PTS/?tag=tolees-21) con 46.58 de descuento por 18.69 EUR (original: 34.99 EUR) en el siguiente enlace!

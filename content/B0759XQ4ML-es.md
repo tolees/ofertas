@@ -17,6 +17,9 @@ comparePrice: 27.95 EUR
 inStock: true
 prodname: 'Angkorly - Zapatillas Moda Deportivos Tennis Mujer Flores Joyas Talón tacón Plano 2.5 CM - Blanco PQ-12 T 38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0759XQ4ML/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Angkorly - Zapatillas Moda Deportivos Te'
 ---
 
 Está [Angkorly - Zapatillas Moda Deportivos Tennis Mujer Flores Joyas Talón tacón Plano 2.5 CM - Blanco PQ-12 T 38](https://www.amazon.es/dp/B0759XQ4ML/?tag=tolees-21) con 40.00 de descuento por 16.77 EUR (original: 27.95 EUR) en el siguiente enlace!

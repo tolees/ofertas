@@ -17,6 +17,9 @@ comparePrice: 82.46 EUR
 inStock: true
 prodname: 'Reebok Reago Pulse  Zapatillas de Deporte para Hombre   Dark Cypress/Black/Porcelain 000   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DS6LJLF/?tag=tolees-21'
+descuento: '73.21'
+titulo: 'Reebok Reago Pulse  Zapatillas de Deport'
 ---
 
 Está [Reebok Reago Pulse  Zapatillas de Deporte para Hombre   Dark Cypress/Black/Porcelain 000   41 EU](https://www.amazon.es/dp/B07DS6LJLF/?tag=tolees-21) con 73.21 de descuento por 22.09 EUR (original: 82.46 EUR) en el siguiente enlace!

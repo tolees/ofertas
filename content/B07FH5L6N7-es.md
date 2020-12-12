@@ -17,6 +17,9 @@ comparePrice: 23.9 EUR
 inStock: true
 prodname: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Rosa  Flamingo   47/48 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FH5L6N7/?tag=tolees-21'
+descuento: '47.45'
+titulo: 'Havaianas Brasil Logo  Chanclas Unisex A'
 ---
 
 Está [Havaianas Brasil Logo  Chanclas Unisex Adulto  Rosa  Flamingo   47/48 EU](https://www.amazon.es/dp/B07FH5L6N7/?tag=tolees-21) con 47.45 de descuento por 12.56 EUR (original: 23.9 EUR) en el siguiente enlace!

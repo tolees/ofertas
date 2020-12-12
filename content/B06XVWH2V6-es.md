@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Vestido Corto de Mujer con Hombros Descubiertos Vestidos Verano Informales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XVWH2V6/?tag=tolees-21'
+descuento: '57.51'
+titulo: 'Vestido Corto de Mujer con Hombros Descu'
 ---
 
 Ahora mismo tienes [Vestido Corto de Mujer con Hombros Descubiertos Vestidos Verano Informales](https://www.amazon.es/dp/B06XVWH2V6/?tag=tolees-21) a 16.99 EUR (original: 39.99 EUR) (57.51 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 239.99 EUR
 inStock: true
 prodname: 'Racing Gaming Silla de Escritorio Ordenador  Altura Ajustable Sillón Respaldo a Alta Altura  Silla Giratoria de Oficina de Cuero Pu Reposacabezas y Almohadilla Lumbar Ambulante - Verde y Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0771B1DVJ/?tag=tolees-21'
+descuento: '45.84'
+titulo: 'Racing Gaming Silla de Escritorio Ordena'
 ---
 
 Está [Racing Gaming Silla de Escritorio Ordenador  Altura Ajustable Sillón Respaldo a Alta Altura  Silla Giratoria de Oficina de Cuero Pu Reposacabezas y Almohadilla Lumbar Ambulante - Verde y Negro](https://www.amazon.es/dp/B0771B1DVJ/?tag=tolees-21) con 45.84 de descuento por 129.99 EUR (original: 239.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Keepsakes 2.0  Botas Efecto Arrugado para Mujer  Negro  Black Blk   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4VRWZ8/?tag=tolees-21'
+descuento: '51.96'
+titulo: 'Skechers Keepsakes 2.0  Botas Efecto Arr'
 ---
 
 Está [Skechers Keepsakes 2.0  Botas Efecto Arrugado para Mujer  Negro  Black Blk   38 EU](https://www.amazon.es/dp/B07B4VRWZ8/?tag=tolees-21) con 51.96 de descuento por 28.8 EUR (original: 59.95 EUR) en el siguiente enlace!

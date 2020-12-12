@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Mujer Jersey de Punto para Navidad Suéter Invierno de Hombro Descubierto Sweater de Manga Larga Jerséis Grueso con Decorativos Botones Top Rojo para Fiesta Talla Grande'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H27LXTF/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Mujer Jersey de Punto para Navidad Suéte'
 ---
 
 Está [Mujer Jersey de Punto para Navidad Suéter Invierno de Hombro Descubierto Sweater de Manga Larga Jerséis Grueso con Decorativos Botones Top Rojo para Fiesta Talla Grande](https://www.amazon.es/dp/B07H27LXTF/?tag=tolees-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

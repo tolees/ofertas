@@ -17,6 +17,9 @@ comparePrice: 27.44 EUR
 inStock: true
 prodname: 'Libid Toys Vibrador  17 Cm  Resistente Al Agua - 245 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BMNP40A/?tag=tolees-21'
+descuento: '62.97'
+titulo: 'Libid Toys Vibrador  17 Cm  Resistente A'
 ---
 
 Está [Libid Toys Vibrador  17 Cm  Resistente Al Agua - 245 gr](https://www.amazon.es/dp/B00BMNP40A/?tag=tolees-21) con 62.97 de descuento por 10.16 EUR (original: 27.44 EUR) en el siguiente enlace!

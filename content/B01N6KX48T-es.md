@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Casio Reloj con Movimiento Cuarzo japonés Man Mtp-V301Gl-9A 39.0 mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6KX48T/?tag=tolees-21'
+descuento: '75.00'
+titulo: 'Casio Reloj con Movimiento Cuarzo japoné'
 ---
 
 Está [Casio Reloj con Movimiento Cuarzo japonés Man Mtp-V301Gl-9A 39.0 mm](https://www.amazon.es/dp/B01N6KX48T/?tag=tolees-21) con 75.00 de descuento por 27.5 EUR (original: 110 EUR) en el siguiente enlace!

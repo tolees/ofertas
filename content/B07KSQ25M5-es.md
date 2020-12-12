@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Columbia 1773272 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  Hombre   Aislamiento sintético Hi-Loft   Azul  Carbon    Talla grande 2X'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSQ25M5/?tag=tolees-21'
+descuento: '52.93'
+titulo: 'Columbia 1773272 POWDER LITE LIGHT HOODE'
 ---
 
 Está [Columbia 1773272 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  Hombre   Aislamiento sintético Hi-Loft   Azul  Carbon    Talla grande 2X](https://www.amazon.es/dp/B07KSQ25M5/?tag=tolees-21) con 52.93 de descuento por 56.48 EUR (original: 119.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 285.65 EUR
 inStock: true
 prodname: 'HP Pavilion 24xw - Full HD Matt - Monitor 23.8"  1920 x 1080 Pixeles  LED  Full HD  IPS  Matt  1000:1   marco de color plata y cubierta posterior blanca'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012FU6DOE/?tag=tolees-21'
+descuento: '33.82'
+titulo: 'HP Pavilion 24xw - Full HD Matt - Monito'
 ---
 
 Tienes [HP Pavilion 24xw - Full HD Matt - Monitor 23.8"  1920 x 1080 Pixeles  LED  Full HD  IPS  Matt  1000:1   marco de color plata y cubierta posterior blanca](https://www.amazon.es/dp/B012FU6DOE/?tag=tolees-21) con un 33.82 % de descuento con precio de oferta de 189.03 EUR (original: 285.65 EUR) en el siguiente enlace!

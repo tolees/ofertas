@@ -17,6 +17,9 @@ comparePrice: 31.5 EUR
 inStock: true
 prodname: 'HOM Exotic #2 Boxer Briefs Ho1 Pack X 2  Bañador para Hombre   Imprimé Perroquets + Rose   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TK6FVQ/?tag=tolees-21'
+descuento: '47.46'
+titulo: 'HOM Exotic #2 Boxer Briefs Ho1 Pack X 2 '
 ---
 
 Ahora mismo tienes [HOM Exotic #2 Boxer Briefs Ho1 Pack X 2  Bañador para Hombre   Imprimé Perroquets + Rose   Small](https://www.amazon.es/dp/B077TK6FVQ/?tag=tolees-21) a 16.55 EUR (original: 31.5 EUR) (47.46 %  de descuento) en el siguiente enlace!

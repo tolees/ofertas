@@ -17,6 +17,9 @@ comparePrice: 71.78 EUR
 inStock: true
 prodname: 'Azzaro 7300 - Agua de colonia  100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0016ZMOT8/?tag=tolees-21'
+descuento: '51.25'
+titulo: 'Azzaro 7300 - Agua de colonia  100 ml'
 ---
 
 Tienes [Azzaro 7300 - Agua de colonia  100 ml](https://www.amazon.es/dp/B0016ZMOT8/?tag=tolees-21) con un 51.25 % de descuento con precio de oferta de 34.99 EUR (original: 71.78 EUR) en el siguiente enlace!

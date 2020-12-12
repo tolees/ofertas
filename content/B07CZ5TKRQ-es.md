@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'Asics Dynaflyte 3 Lite-Show  Zapatillas de Running para Mujer  Negro  Black/Hot Pink 001   35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ5TKRQ/?tag=tolees-21'
+descuento: '80.79'
+titulo: 'Asics Dynaflyte 3 Lite-Show  Zapatillas '
 ---
 
 Tienes [Asics Dynaflyte 3 Lite-Show  Zapatillas de Running para Mujer  Negro  Black/Hot Pink 001   35.5 EU](https://www.amazon.es/dp/B07CZ5TKRQ/?tag=tolees-21) con un 80.79 % de descuento con precio de oferta de 32.65 EUR (original: 170 EUR) en el siguiente enlace!

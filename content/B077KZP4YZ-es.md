@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Dolores Promesas Pv18 1023  Vestido para Mujer  Blanco  Estam  Large Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077KZP4YZ/?tag=tolees-21'
+descuento: '60.56'
+titulo: 'Dolores Promesas Pv18 1023  Vestido para'
 ---
 
 Tienes [Dolores Promesas Pv18 1023  Vestido para Mujer  Blanco  Estam  Large Tamaño del Fabricante:L ](https://www.amazon.es/dp/B077KZP4YZ/?tag=tolees-21) con un 60.56 % de descuento con precio de oferta de 35.46 EUR (original: 89.9 EUR) en el siguiente enlace!

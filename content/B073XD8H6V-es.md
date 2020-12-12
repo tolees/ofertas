@@ -17,6 +17,9 @@ comparePrice: 540.32 EUR
 inStock: true
 prodname: 'G.Skill Trident Z F4-3600C16Q-32GTZKK módulo de - Memoria  32 GB  4 x 8 GB  DDR4  3600 MHz  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073XD8H6V/?tag=tolees-21'
+descuento: '30.98'
+titulo: 'G.Skill Trident Z F4-3600C16Q-32GTZKK mó'
 ---
 
 Tienes [G.Skill Trident Z F4-3600C16Q-32GTZKK módulo de - Memoria  32 GB  4 x 8 GB  DDR4  3600 MHz  Negro ](https://www.amazon.es/dp/B073XD8H6V/?tag=tolees-21) con un 30.98 % de descuento con precio de oferta de 372.92 EUR (original: 540.32 EUR) en el siguiente enlace!

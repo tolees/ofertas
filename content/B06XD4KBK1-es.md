@@ -17,6 +17,9 @@ comparePrice: 74.77 EUR
 inStock: true
 prodname: 'Nike Jr Magistax Onda II DF IC  Botas de fútbol Unisex niño   Negro/Rojo Universitario/Carmesí Brillante/Blanco 061   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XD4KBK1/?tag=tolees-21'
+descuento: '52.12'
+titulo: 'Nike Jr Magistax Onda II DF IC  Botas de'
 ---
 
 Ahora mismo tienes [Nike Jr Magistax Onda II DF IC  Botas de fútbol Unisex niño   Negro/Rojo Universitario/Carmesí Brillante/Blanco 061   36.5 EU](https://www.amazon.es/dp/B06XD4KBK1/?tag=tolees-21) a 35.8 EUR (original: 74.77 EUR) (52.12 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Gris  Iron Gate-Puma White 12   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ3C6K1/?tag=tolees-21'
+descuento: '41.26'
+titulo: 'Puma St Runner V2 Nl  Zapatillas de Cros'
 ---
 
 Ahora mismo tienes [Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Gris  Iron Gate-Puma White 12   44.5 EU](https://www.amazon.es/dp/B07CZ3C6K1/?tag=tolees-21) a 32.28 EUR (original: 54.95 EUR) (41.26 %  de descuento) en el siguiente enlace!

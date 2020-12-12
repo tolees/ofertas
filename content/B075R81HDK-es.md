@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Zante v4 Neutral  Zapatillas de Running para Hombre  Verde  Military Urban Grey/Black/Flame Mf4   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R81HDK/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'New Balance Fresh Foam Zante v4 Neutral '
 ---
 
 Tienes [New Balance Fresh Foam Zante v4 Neutral  Zapatillas de Running para Hombre  Verde  Military Urban Grey/Black/Flame Mf4   40 EU](https://www.amazon.es/dp/B075R81HDK/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 60 EUR (original: 120 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Woxter Stinger Station Rx Blue - Silla Gaming  Eje de acero Levantamiento Gas Pistón clase 4  reposapiés extensible apoyabrazos ergonómicos inclinación hasta 170º ruedas silenciosas antiarañazos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071D5H8SJ/?tag=tolees-21'
+descuento: '35.18'
+titulo: 'Woxter Stinger Station Rx Blue - Silla G'
 ---
 
 Tienes [Woxter Stinger Station Rx Blue - Silla Gaming  Eje de acero Levantamiento Gas Pistón clase 4  reposapiés extensible apoyabrazos ergonómicos inclinación hasta 170º ruedas silenciosas antiarañazos](https://www.amazon.es/dp/B071D5H8SJ/?tag=tolees-21) con un 35.18 % de descuento con precio de oferta de 129 EUR (original: 199 EUR) en el siguiente enlace!

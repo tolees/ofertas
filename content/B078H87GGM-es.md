@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjisunset Swim Shorts AKM Noos  Pantalones Cortos para Hombre  Naranja Fiery Coral  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H87GGM/?tag=tolees-21'
+descuento: '36.72'
+titulo: 'JACK & JONES Jjisunset Swim Shorts AKM N'
 ---
 
 Tienes [JACK & JONES Jjisunset Swim Shorts AKM Noos  Pantalones Cortos para Hombre  Naranja Fiery Coral  X-Large](https://www.amazon.es/dp/B078H87GGM/?tag=tolees-21) con un 36.72 % de descuento con precio de oferta de 12.65 EUR (original: 19.99 EUR) en el siguiente enlace!

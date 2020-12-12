@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Reebok Royal Complete 2LL  Zapatillas de Gimnasia para Hombre  Blanco  White/Black 0   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K74LMTT/?tag=tolees-21'
+descuento: '41.67'
+titulo: 'Reebok Royal Complete 2LL  Zapatillas de'
 ---
 
 Tienes [Reebok Royal Complete 2LL  Zapatillas de Gimnasia para Hombre  Blanco  White/Black 0   44 EU](https://www.amazon.es/dp/B07K74LMTT/?tag=tolees-21) con un 41.67 % de descuento con precio de oferta de 34.97 EUR (original: 59.95 EUR) en el siguiente enlace!

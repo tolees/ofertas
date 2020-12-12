@@ -17,6 +17,9 @@ comparePrice: 5.99 EUR
 inStock: true
 prodname: 'Maybelline Pintalabios Color Sensational Made For All  Tono 382 Red For Me Color Rojo Mate - 22 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGYW8YJ/?tag=tolees-21'
+descuento: '42.07'
+titulo: 'Maybelline Pintalabios Color Sensational'
 ---
 
 Tienes [Maybelline Pintalabios Color Sensational Made For All  Tono 382 Red For Me Color Rojo Mate - 22 gr](https://www.amazon.es/dp/B07KGYW8YJ/?tag=tolees-21) con un 42.07 % de descuento con precio de oferta de 3.47 EUR (original: 5.99 EUR) en el siguiente enlace!

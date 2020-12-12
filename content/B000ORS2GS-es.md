@@ -17,6 +17,9 @@ comparePrice: 10.3 EUR
 inStock: true
 prodname: 'Max factor - Miracle touch creamy blush  base de maquillaje  color 09 Soft Murano  12 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000ORS2GS/?tag=tolees-21'
+descuento: '51.94'
+titulo: 'Max factor - Miracle touch creamy blush '
 ---
 
 Ahora mismo tienes [Max factor - Miracle touch creamy blush  base de maquillaje  color 09 Soft Murano  12 ml](https://www.amazon.es/dp/B000ORS2GS/?tag=tolees-21) a 4.95 EUR (original: 10.3 EUR) (51.94 %  de descuento) en el siguiente enlace!

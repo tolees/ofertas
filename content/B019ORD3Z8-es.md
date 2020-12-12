@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'L Oréal Paris Paleta de Labios Color Riche Lip Palette 001 Nude'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019ORD3Z8/?tag=tolees-21'
+descuento: '54.25'
+titulo: 'L Oréal Paris Paleta de Labios Color Ric'
 ---
 
 Tienes [L Oréal Paris Paleta de Labios Color Riche Lip Palette 001 Nude](https://www.amazon.es/dp/B019ORD3Z8/?tag=tolees-21) con un 54.25 % de descuento con precio de oferta de 6.84 EUR (original: 14.95 EUR) en el siguiente enlace!

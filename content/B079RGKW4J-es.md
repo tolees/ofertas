@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Cuero FS5417'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RGKW4J/?tag=tolees-21'
+descuento: '40.31'
+titulo: 'Fossil Reloj Analógico para Hombre de Cu'
 ---
 
 Ahora mismo tienes [Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Cuero FS5417](https://www.amazon.es/dp/B079RGKW4J/?tag=tolees-21) a 59.09 EUR (original: 99 EUR) (40.31 %  de descuento) en el siguiente enlace!

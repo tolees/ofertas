@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Quiksilver Light Brooks Jackets  Hombre  Tarmac  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJV4QB9/?tag=tolees-21'
+descuento: '48.22'
+titulo: 'Quiksilver Light Brooks Jackets  Hombre '
 ---
 
 Ahora mismo tienes [Quiksilver Light Brooks Jackets  Hombre  Tarmac  L](https://www.amazon.es/dp/B07KJV4QB9/?tag=tolees-21) a 56.95 EUR (original: 109.99 EUR) (48.22 %  de descuento) en el siguiente enlace!

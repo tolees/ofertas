@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Desigual Brazalete Mujer acero inoxidable - 18WAGO512000U'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C2YHTJ1/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Desigual Brazalete Mujer acero inoxidabl'
 ---
 
 Está [Desigual Brazalete Mujer acero inoxidable - 18WAGO512000U](https://www.amazon.es/dp/B07C2YHTJ1/?tag=tolees-21) con 50.03 de descuento por 9.97 EUR (original: 19.95 EUR) en el siguiente enlace!

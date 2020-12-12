@@ -17,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'adidas Nemeziz 17.1 FG  Zapatillas de Fútbol Unisex Niños  Azul Dunkelblau/Türkis  37 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072QGQZ9F/?tag=tolees-21'
+descuento: '84.78'
+titulo: 'adidas Nemeziz 17.1 FG  Zapatillas de Fú'
 ---
 
 Tienes [adidas Nemeziz 17.1 FG  Zapatillas de Fútbol Unisex Niños  Azul Dunkelblau/Türkis  37 1/3 EU](https://www.amazon.es/dp/B072QGQZ9F/?tag=tolees-21) con un 84.78 % de descuento con precio de oferta de 22.82 EUR (original: 149.95 EUR) en el siguiente enlace!

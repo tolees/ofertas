@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Kappa Meseta  Zapatillas Unisex Adulto  Gris  Grey/White 1610   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4TX4QF/?tag=tolees-21'
+descuento: '59.89'
+titulo: 'Kappa Meseta  Zapatillas Unisex Adulto  '
 ---
 
 Tienes [Kappa Meseta  Zapatillas Unisex Adulto  Gris  Grey/White 1610   36 EU](https://www.amazon.es/dp/B07D4TX4QF/?tag=tolees-21) con un 59.89 % de descuento con precio de oferta de 18.03 EUR (original: 44.95 EUR) en el siguiente enlace!

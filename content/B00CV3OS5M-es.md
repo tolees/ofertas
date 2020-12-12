@@ -17,6 +17,9 @@ comparePrice: 17.62 EUR
 inStock: true
 prodname: 'Abus 592225 FG110 B - Manilla con Cerrojo para Ventana  Color marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CV3OS5M/?tag=tolees-21'
+descuento: '32.24'
+titulo: 'Abus 592225 FG110 B - Manilla con Cerroj'
 ---
 
 Ahora mismo tienes [Abus 592225 FG110 B - Manilla con Cerrojo para Ventana  Color marrón](https://www.amazon.es/dp/B00CV3OS5M/?tag=tolees-21) a 11.94 EUR (original: 17.62 EUR) (32.24 %  de descuento) en el siguiente enlace!

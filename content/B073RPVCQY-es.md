@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'RIP CURL Mirage Wilko Blocker 18" Board Bañador  Hombre  Negro/Azul  31'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RPVCQY/?tag=tolees-21'
+descuento: '46.56'
+titulo: 'RIP CURL Mirage Wilko Blocker 18" Board '
 ---
 
 Está [RIP CURL Mirage Wilko Blocker 18" Board Bañador  Hombre  Negro/Azul  31](https://www.amazon.es/dp/B073RPVCQY/?tag=tolees-21) con 46.56 de descuento por 37.4 EUR (original: 69.99 EUR) en el siguiente enlace!

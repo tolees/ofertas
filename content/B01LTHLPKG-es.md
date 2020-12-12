@@ -17,6 +17,9 @@ comparePrice: 18.34 EUR
 inStock: true
 prodname: 'Bourne Legacy  4K Ultra HD + Blu-Ray  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LTHLPKG/?tag=tolees-21'
+descuento: '37.51'
+titulo: 'Bourne Legacy  4K Ultra HD + Blu-Ray  [B'
 ---
 
 Está [Bourne Legacy  4K Ultra HD + Blu-Ray  [Blu-ray]](https://www.amazon.es/dp/B01LTHLPKG/?tag=tolees-21) con 37.51 de descuento por 11.46 EUR (original: 18.34 EUR) en el siguiente enlace!

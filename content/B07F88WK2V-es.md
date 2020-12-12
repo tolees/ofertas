@@ -17,6 +17,9 @@ comparePrice: 27 EUR
 inStock: true
 prodname: 'Burton Gringo Gorro  Hombre  Azul  Mood Indigo  / Blanco  Stout Marl   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F88WK2V/?tag=tolees-21'
+descuento: '71.48'
+titulo: 'Burton Gringo Gorro  Hombre  Azul  Mood '
 ---
 
 Está [Burton Gringo Gorro  Hombre  Azul  Mood Indigo  / Blanco  Stout Marl   Talla Única](https://www.amazon.es/dp/B07F88WK2V/?tag=tolees-21) con 71.48 de descuento por 7.7 EUR (original: 27 EUR) en el siguiente enlace!

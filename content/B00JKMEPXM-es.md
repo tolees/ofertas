@@ -17,6 +17,9 @@ comparePrice: 17.5 EUR
 inStock: true
 prodname: 'Dim 6563140-RA Sujetador  Rosa  Peach 30   85B para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JKMEPXM/?tag=tolees-21'
+descuento: '49.89'
+titulo: 'Dim 6563140-RA Sujetador  Rosa  Peach 30'
 ---
 
 Tienes [Dim 6563140-RA Sujetador  Rosa  Peach 30   85B para Mujer](https://www.amazon.es/dp/B00JKMEPXM/?tag=tolees-21) con un 49.89 % de descuento con precio de oferta de 8.77 EUR (original: 17.5 EUR) en el siguiente enlace!

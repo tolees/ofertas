@@ -17,6 +17,9 @@ comparePrice: 60.99 EUR
 inStock: true
 prodname: 'ELEGIANT Cargador Rápido Inalámbrico Qi Max 15W para Coche Automóvil Qi con Detección Infrarrojas Soporte para Teléfono Móvil Estación Carga Rápida de Inducción con Ventilación de Aire IR Detección'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MSLPGFR/?tag=tolees-21'
+descuento: '50.83'
+titulo: 'ELEGIANT Cargador Rápido Inalámbrico Qi '
 ---
 
 Está [ELEGIANT Cargador Rápido Inalámbrico Qi Max 15W para Coche Automóvil Qi con Detección Infrarrojas Soporte para Teléfono Móvil Estación Carga Rápida de Inducción con Ventilación de Aire IR Detección](https://www.amazon.es/dp/B07MSLPGFR/?tag=tolees-21) con 50.83 de descuento por 29.99 EUR (original: 60.99 EUR) en el siguiente enlace!

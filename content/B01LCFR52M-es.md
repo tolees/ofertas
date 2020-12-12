@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Joe Browns Sophisticated Sequin  Vestido para Mujer  Marrón  Bronze   Talla fabricante: 8 UK'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LCFR52M/?tag=tolees-21'
+descuento: '88.82'
+titulo: 'Joe Browns Sophisticated Sequin  Vestido'
 ---
 
 Ahora mismo tienes [Joe Browns Sophisticated Sequin  Vestido para Mujer  Marrón  Bronze   Talla fabricante: 8 UK](https://www.amazon.es/dp/B01LCFR52M/?tag=tolees-21) a 9.5 EUR (original: 85 EUR) (88.82 %  de descuento) en el siguiente enlace!

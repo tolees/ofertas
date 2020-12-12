@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Apple Funda Silicone Case  para el iPhone 6s  -  PRODUCT RED'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0159SZA6G/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Apple Funda Silicone Case  para el iPhon'
 ---
 
 Tienes [Apple Funda Silicone Case  para el iPhone 6s  -  PRODUCT RED](https://www.amazon.es/dp/B0159SZA6G/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 19.5 EUR (original: 39 EUR) en el siguiente enlace!

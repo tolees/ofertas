@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Adidas Adizero Accelerator  Zapatillas de Atletismo Unisex Adulto  Negro  Negbas/Ftwbla/Naranj 000   43 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078D7BT9H/?tag=tolees-21'
+descuento: '55.65'
+titulo: 'Adidas Adizero Accelerator  Zapatillas d'
 ---
 
 Está [Adidas Adizero Accelerator  Zapatillas de Atletismo Unisex Adulto  Negro  Negbas/Ftwbla/Naranj 000   43 1/3 EU](https://www.amazon.es/dp/B078D7BT9H/?tag=tolees-21) con 55.65 de descuento por 57.63 EUR (original: 129.95 EUR) en el siguiente enlace!

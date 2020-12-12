@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Hurley M Capital Pullover Sudaderas  Hombre  Black  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G1W7TWQ/?tag=tolees-21'
+descuento: '50.47'
+titulo: 'Hurley M Capital Pullover Sudaderas  Hom'
 ---
 
 Tienes [Hurley M Capital Pullover Sudaderas  Hombre  Black  XXL](https://www.amazon.es/dp/B07G1W7TWQ/?tag=tolees-21) con un 50.47 % de descuento con precio de oferta de 27.24 EUR (original: 55 EUR) en el siguiente enlace!

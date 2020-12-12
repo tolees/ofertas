@@ -17,6 +17,9 @@ comparePrice: 18.84 EUR
 inStock: true
 prodname: 'Kono mujeres Hobo bandolera estilo vintage de alta calidad suave pu bolso de cuero 2 en 1 bolso cruzado conjunto  Camo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZ2DZ3S/?tag=tolees-21'
+descuento: '47.45'
+titulo: 'Kono mujeres Hobo bandolera estilo vinta'
 ---
 
 Tienes [Kono mujeres Hobo bandolera estilo vintage de alta calidad suave pu bolso de cuero 2 en 1 bolso cruzado conjunto  Camo ](https://www.amazon.es/dp/B07JZ2DZ3S/?tag=tolees-21) con un 47.45 % de descuento con precio de oferta de 9.9 EUR (original: 18.84 EUR) en el siguiente enlace!

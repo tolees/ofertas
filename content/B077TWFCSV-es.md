@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Reebok Royal CL Jogger 2  Zapatillas de Trail Running para Hombre  Azul  CP/Collegiate Navy/Acid Blue/White 000   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TWFCSV/?tag=tolees-21'
+descuento: '41.47'
+titulo: 'Reebok Royal CL Jogger 2  Zapatillas de '
 ---
 
 Ahora mismo tienes [Reebok Royal CL Jogger 2  Zapatillas de Trail Running para Hombre  Azul  CP/Collegiate Navy/Acid Blue/White 000   44 EU](https://www.amazon.es/dp/B077TWFCSV/?tag=tolees-21) a 32.16 EUR (original: 54.95 EUR) (41.47 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 87.48 EUR
 inStock: true
 prodname: 'Under Armour Charged Escape 2 3020333-00  Zapatillas de Entrenamiento para Hombre  Negro  Black 3020333/002   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VNTXRW/?tag=tolees-21'
+descuento: '48.74'
+titulo: 'Under Armour Charged Escape 2 3020333-00'
 ---
 
 Está [Under Armour Charged Escape 2 3020333-00  Zapatillas de Entrenamiento para Hombre  Negro  Black 3020333/002   43 EU](https://www.amazon.es/dp/B076VNTXRW/?tag=tolees-21) con 48.74 de descuento por 44.84 EUR (original: 87.48 EUR) en el siguiente enlace!

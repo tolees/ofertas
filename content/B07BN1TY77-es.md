@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Vans Ward Hi Suede/Canvas  Zapatillas Altas Hombre  Negro   Checkerboard  Black/White 5gx   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BN1TY77/?tag=tolees-21'
+descuento: '32.84'
+titulo: 'Vans Ward Hi Suede/Canvas  Zapatillas Al'
 ---
 
 Está [Vans Ward Hi Suede/Canvas  Zapatillas Altas Hombre  Negro   Checkerboard  Black/White 5gx   44.5 EU](https://www.amazon.es/dp/B07BN1TY77/?tag=tolees-21) con 32.84 de descuento por 53.73 EUR (original: 80 EUR) en el siguiente enlace!

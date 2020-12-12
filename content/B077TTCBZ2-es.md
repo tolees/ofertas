@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Reebok Cardio Motion  Zapatillas de Deporte para Mujer  Negro  Black/White 0   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TTCBZ2/?tag=tolees-21'
+descuento: '51.86'
+titulo: 'Reebok Cardio Motion  Zapatillas de Depo'
 ---
 
 Está [Reebok Cardio Motion  Zapatillas de Deporte para Mujer  Negro  Black/White 0   39 EU](https://www.amazon.es/dp/B077TTCBZ2/?tag=tolees-21) con 51.86 de descuento por 28.86 EUR (original: 59.95 EUR) en el siguiente enlace!

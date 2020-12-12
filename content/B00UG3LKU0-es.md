@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Tantra Sandals with Buckle - Sandalias para Mujer  Color Rosa  Talla 40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UG3LKU0/?tag=tolees-21'
+descuento: '86.61'
+titulo: 'Tantra Sandals with Buckle - Sandalias p'
 ---
 
 Tienes [Tantra Sandals with Buckle - Sandalias para Mujer  Color Rosa  Talla 40](https://www.amazon.es/dp/B00UG3LKU0/?tag=tolees-21) con un 86.61 % de descuento con precio de oferta de 9.37 EUR (original: 70 EUR) en el siguiente enlace!

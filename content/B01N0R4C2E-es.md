@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'find. Pantalón con Estampado de Flores Mujer  Negro  Black Mix   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0R4C2E/?tag=tolees-21'
+descuento: '57.07'
+titulo: 'find. Pantalón con Estampado de Flores M'
 ---
 
 Está [find. Pantalón con Estampado de Flores Mujer  Negro  Black Mix   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N0R4C2E/?tag=tolees-21) con 57.07 de descuento por 17.17 EUR (original: 40 EUR) en el siguiente enlace!

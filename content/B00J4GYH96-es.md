@@ -17,6 +17,9 @@ comparePrice: 41 EUR
 inStock: true
 prodname: 'DC Comics - Sudadera de manga larga con cuello redondo para mujer  color cherry red  talla 38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00J4GYH96/?tag=tolees-21'
+descuento: '88.22'
+titulo: 'DC Comics - Sudadera de manga larga con '
 ---
 
 Está [DC Comics - Sudadera de manga larga con cuello redondo para mujer  color cherry red  talla 38](https://www.amazon.es/dp/B00J4GYH96/?tag=tolees-21) con 88.22 de descuento por 4.83 EUR (original: 41 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 350 EUR
 inStock: true
 prodname: 'Helly Hansen W Rigging Coat Shell Jacket  Mujer  para Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XH81YFG/?tag=tolees-21'
+descuento: '53.17'
+titulo: 'Helly Hansen W Rigging Coat Shell Jacket'
 ---
 
 Tienes [Helly Hansen W Rigging Coat Shell Jacket  Mujer  para Black  S](https://www.amazon.es/dp/B06XH81YFG/?tag=tolees-21) con un 53.17 % de descuento con precio de oferta de 163.89 EUR (original: 350 EUR) en el siguiente enlace!

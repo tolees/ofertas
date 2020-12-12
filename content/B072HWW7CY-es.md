@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Naf Naf NAMO 1  Jersey para Mujer   Noir/Ecru Z267   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072HWW7CY/?tag=tolees-21'
+descuento: '39.79'
+titulo: 'Naf Naf NAMO 1  Jersey para Mujer   Noir'
 ---
 
 Está [Naf Naf NAMO 1  Jersey para Mujer   Noir/Ecru Z267   M](https://www.amazon.es/dp/B072HWW7CY/?tag=tolees-21) con 39.79 de descuento por 23.48 EUR (original: 39 EUR) en el siguiente enlace!

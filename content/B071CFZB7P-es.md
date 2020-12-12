@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Aglaia Luz delantera de bicicleta LED recargable  400 lúmenes  superbrillante  con 5 modos y resistente al agua8'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071CFZB7P/?tag=tolees-21'
+descuento: '35.02'
+titulo: 'Aglaia Luz delantera de bicicleta LED re'
 ---
 
 Tienes [Aglaia Luz delantera de bicicleta LED recargable  400 lúmenes  superbrillante  con 5 modos y resistente al agua8](https://www.amazon.es/dp/B071CFZB7P/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

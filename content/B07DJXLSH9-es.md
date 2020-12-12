@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Only Onlsonia L/s Dress Knt Vestido  Rojo Chocolate Truffle  42  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJXLSH9/?tag=tolees-21'
+descuento: '76.79'
+titulo: 'Only Onlsonia L/s Dress Knt Vestido  Roj'
 ---
 
 Está [Only Onlsonia L/s Dress Knt Vestido  Rojo Chocolate Truffle  42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B07DJXLSH9/?tag=tolees-21) con 76.79 de descuento por 8.12 EUR (original: 34.99 EUR) en el siguiente enlace!

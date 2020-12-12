@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour UA Athlete SS Camiseta de Manga Corta  Hombre  Gris  035   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BXCR5T/?tag=tolees-21'
+descuento: '56.58'
+titulo: 'Under Armour UA Athlete SS Camiseta de M'
 ---
 
 Ahora mismo tienes [Under Armour UA Athlete SS Camiseta de Manga Corta  Hombre  Gris  035   M](https://www.amazon.es/dp/B072BXCR5T/?tag=tolees-21) a 11.29 EUR (original: 26 EUR) (56.58 %  de descuento) en el siguiente enlace!

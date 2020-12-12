@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'New Balance Vazee Prism V2  Zapatillas de Running para Hombre   Energy Lime/Black   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MQLS2T5/?tag=tolees-21'
+descuento: '58.32'
+titulo: 'New Balance Vazee Prism V2  Zapatillas d'
 ---
 
 Ahora mismo tienes [New Balance Vazee Prism V2  Zapatillas de Running para Hombre   Energy Lime/Black   42 EU](https://www.amazon.es/dp/B01MQLS2T5/?tag=tolees-21) a 54.19 EUR (original: 130 EUR) (58.32 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Kipling - Firefly Up  Mochilas Mujer  Verde  Jaded Green C '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKH5SXR/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Kipling - Firefly Up  Mochilas Mujer  Ve'
 ---
 
 Tienes [Kipling - Firefly Up  Mochilas Mujer  Verde  Jaded Green C ](https://www.amazon.es/dp/B07DKH5SXR/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 62.3 EUR (original: 89 EUR) en el siguiente enlace!

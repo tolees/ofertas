@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'KidoME Luz Nocturna Bebé Infantil Noche Silicona LED Cargable Función de Temporizador Portátil Intensidades Distintas Iluminación tenue y Alumbra Banstante Regalo para Niño'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MBCD2J1/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'KidoME Luz Nocturna Bebé Infantil Noche '
 ---
 
 Está [KidoME Luz Nocturna Bebé Infantil Noche Silicona LED Cargable Función de Temporizador Portátil Intensidades Distintas Iluminación tenue y Alumbra Banstante Regalo para Niño](https://www.amazon.es/dp/B07MBCD2J1/?tag=tolees-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

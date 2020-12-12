@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma All Eyes On Me 3/4 Tight Mallas  Mujer  Polícromo  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LTPDWR/?tag=tolees-21'
+descuento: '64.10'
+titulo: 'Puma All Eyes On Me 3/4 Tight Mallas  Mu'
 ---
 
 Tienes [Puma All Eyes On Me 3/4 Tight Mallas  Mujer  Polícromo  M](https://www.amazon.es/dp/B072LTPDWR/?tag=tolees-21) con un 64.10 % de descuento con precio de oferta de 17.93 EUR (original: 49.95 EUR) en el siguiente enlace!

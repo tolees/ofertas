@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Arena Fastpack 2.1 Mochila  Unisex Adulto   Royal/Fluo Yell   36x24x45 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019KHVAAM/?tag=tolees-21'
+descuento: '38.87'
+titulo: 'Arena Fastpack 2.1 Mochila  Unisex Adult'
 ---
 
 Está [Arena Fastpack 2.1 Mochila  Unisex Adulto   Royal/Fluo Yell   36x24x45 cm  W x H x L ](https://www.amazon.es/dp/B019KHVAAM/?tag=tolees-21) con 38.87 de descuento por 48.9 EUR (original: 79.99 EUR) en el siguiente enlace!

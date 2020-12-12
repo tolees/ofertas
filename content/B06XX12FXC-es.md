@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Tommy Jeans Mujer SWEATER suéter Manga larga Normal Multicolor  Bright White/ Multi  10  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XX12FXC/?tag=tolees-21'
+descuento: '33.55'
+titulo: 'Tommy Jeans Mujer SWEATER suéter Manga l'
 ---
 
 Tienes [Tommy Jeans Mujer SWEATER suéter Manga larga Normal Multicolor  Bright White/ Multi  10  Talla del fabricante: Medium ](https://www.amazon.es/dp/B06XX12FXC/?tag=tolees-21) con un 33.55 % de descuento con precio de oferta de 65.79 EUR (original: 99 EUR) en el siguiente enlace!

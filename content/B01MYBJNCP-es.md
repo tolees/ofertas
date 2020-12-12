@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Kurtzy Bandejas de Cubitos de Hielo  Paquete de 5  con Tapa - Sin BPA Bandejas de Hielo Silicona con 14 Cubos de Hielos por Bandeja - Ideal para Comida de Bebé  Agua  Cocteles'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYBJNCP/?tag=tolees-21'
+descuento: '43.50'
+titulo: 'Kurtzy Bandejas de Cubitos de Hielo  Paq'
 ---
 
 Está [Kurtzy Bandejas de Cubitos de Hielo  Paquete de 5  con Tapa - Sin BPA Bandejas de Hielo Silicona con 14 Cubos de Hielos por Bandeja - Ideal para Comida de Bebé  Agua  Cocteles](https://www.amazon.es/dp/B01MYBJNCP/?tag=tolees-21) con 43.50 de descuento por 12.99 EUR (original: 22.99 EUR) en el siguiente enlace!

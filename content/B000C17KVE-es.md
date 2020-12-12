@@ -17,6 +17,9 @@ comparePrice: 18.75 EUR
 inStock: true
 prodname: 'Kool Stop Magura Julie Pastillas freno disco  Unisex adulto  rojo  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000C17KVE/?tag=tolees-21'
+descuento: '69.97'
+titulo: 'Kool Stop Magura Julie Pastillas freno d'
 ---
 
 Ahora mismo tienes [Kool Stop Magura Julie Pastillas freno disco  Unisex adulto  rojo  Talla única](https://www.amazon.es/dp/B000C17KVE/?tag=tolees-21) a 5.63 EUR (original: 18.75 EUR) (69.97 %  de descuento) en el siguiente enlace!

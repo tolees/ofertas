@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Salomon XA tee T-Shirt  Hombre  Negro  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2ZFHGG/?tag=tolees-21'
+descuento: '52.50'
+titulo: 'Salomon XA tee T-Shirt  Hombre  Negro  S'
 ---
 
 Tienes [Salomon XA tee T-Shirt  Hombre  Negro  S](https://www.amazon.es/dp/B07F2ZFHGG/?tag=tolees-21) con un 52.50 % de descuento con precio de oferta de 19 EUR (original: 40 EUR) en el siguiente enlace!

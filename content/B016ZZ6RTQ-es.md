@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Timezone Haroldtz Rough "3911 Blue Waterline Was - azul Hombre  Azul  W36/L36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016ZZ6RTQ/?tag=tolees-21'
+descuento: '62.42'
+titulo: 'Timezone Haroldtz Rough "3911 Blue Water'
 ---
 
 Está [Timezone Haroldtz Rough "3911 Blue Waterline Was - azul Hombre  Azul  W36/L36](https://www.amazon.es/dp/B016ZZ6RTQ/?tag=tolees-21) con 62.42 de descuento por 33.8 EUR (original: 89.95 EUR) en el siguiente enlace!

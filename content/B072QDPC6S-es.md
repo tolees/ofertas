@@ -17,6 +17,9 @@ comparePrice: 21 EUR
 inStock: true
 prodname: 'RED WAGON Zapatillas Altas con Velcro para Niños  Azul  Navy   30.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072QDPC6S/?tag=tolees-21'
+descuento: '55.67'
+titulo: 'RED WAGON Zapatillas Altas con Velcro pa'
 ---
 
 Tienes [RED WAGON Zapatillas Altas con Velcro para Niños  Azul  Navy   30.5 EU](https://www.amazon.es/dp/B072QDPC6S/?tag=tolees-21) con un 55.67 % de descuento con precio de oferta de 9.31 EUR (original: 21 EUR) en el siguiente enlace!

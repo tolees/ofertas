@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Levis Footwear and Accessories Tulare  Zapatillas para Hombre  Blanco  Regular White 51   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DZW6B33/?tag=tolees-21'
+descuento: '46.00'
+titulo: 'Levis Footwear and Accessories Tulare  Z'
 ---
 
 Está [Levis Footwear and Accessories Tulare  Zapatillas para Hombre  Blanco  Regular White 51   42 EU](https://www.amazon.es/dp/B07DZW6B33/?tag=tolees-21) con 46.00 de descuento por 37.8 EUR (original: 70 EUR) en el siguiente enlace!

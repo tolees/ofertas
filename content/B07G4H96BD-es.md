@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'HUGO Eurin  Camisa Hombre  Negro  Black 001   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4H96BD/?tag=tolees-21'
+descuento: '77.18'
+titulo: 'HUGO Eurin  Camisa Hombre  Negro  Black '
 ---
 
 Ahora mismo tienes [HUGO Eurin  Camisa Hombre  Negro  Black 001   Large](https://www.amazon.es/dp/B07G4H96BD/?tag=tolees-21) a 22.81 EUR (original: 99.95 EUR) (77.18 %  de descuento) en el siguiente enlace!

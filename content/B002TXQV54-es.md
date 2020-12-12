@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Reebok Classic Leather - Zapatillas de cuero para hombre  color beige  ecru/navy   talla 40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002TXQV54/?tag=tolees-21'
+descuento: '40.38'
+titulo: 'Reebok Classic Leather - Zapatillas de c'
 ---
 
 Ahora mismo tienes [Reebok Classic Leather - Zapatillas de cuero para hombre  color beige  ecru/navy   talla 40](https://www.amazon.es/dp/B002TXQV54/?tag=tolees-21) a 53.63 EUR (original: 89.95 EUR) (40.38 %  de descuento) en el siguiente enlace!

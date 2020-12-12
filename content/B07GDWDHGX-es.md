@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Levi s Capucha  Blanco  CB Sportswear Hoodie White + C30768 & L 0000   X-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDWDHGX/?tag=tolees-21'
+descuento: '50.73'
+titulo: 'Levi s Capucha  Blanco  CB Sportswear Ho'
 ---
 
 Está [Levi s Capucha  Blanco  CB Sportswear Hoodie White + C30768 & L 0000   X-Small para Mujer](https://www.amazon.es/dp/B07GDWDHGX/?tag=tolees-21) con 50.73 de descuento por 36.95 EUR (original: 75 EUR) en el siguiente enlace!

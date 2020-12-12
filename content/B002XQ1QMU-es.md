@@ -17,6 +17,9 @@ comparePrice: 62.82 EUR
 inStock: true
 prodname: 'Hugo Boss Orange Eau de Toilette Vaporizador - 75 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002XQ1QMU/?tag=tolees-21'
+descuento: '34.97'
+titulo: 'Hugo Boss Orange Eau de Toilette Vaporiz'
 ---
 
 Tienes [Hugo Boss Orange Eau de Toilette Vaporizador - 75 ml](https://www.amazon.es/dp/B002XQ1QMU/?tag=tolees-21) con un 34.97 % de descuento con precio de oferta de 40.85 EUR (original: 62.82 EUR) en el siguiente enlace!

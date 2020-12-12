@@ -17,6 +17,9 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'Carpeta para documentos A4 1617 EU carpeta archivadora clasificadora Extensible Acordeón Portátil Organizador Documentos para A4 con 12 bolsillos Gran Capacidad para hogar oficina escuela'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG3N41X/?tag=tolees-21'
+descuento: '42.88'
+titulo: 'Carpeta para documentos A4 1617 EU carpe'
 ---
 
 Tienes [Carpeta para documentos A4 1617 EU carpeta archivadora clasificadora Extensible Acordeón Portátil Organizador Documentos para A4 con 12 bolsillos Gran Capacidad para hogar oficina escuela](https://www.amazon.es/dp/B07DG3N41X/?tag=tolees-21) con un 42.88 % de descuento con precio de oferta de 11.99 EUR (original: 20.99 EUR) en el siguiente enlace!

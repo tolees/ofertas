@@ -17,6 +17,9 @@ comparePrice: 27.08 EUR
 inStock: true
 prodname: 'MyProtein Creapure Creatina Monohidrato - 500 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00D1YKZGQ/?tag=tolees-21'
+descuento: '40.95'
+titulo: 'MyProtein Creapure Creatina Monohidrato '
 ---
 
 Está [MyProtein Creapure Creatina Monohidrato - 500 gr](https://www.amazon.es/dp/B00D1YKZGQ/?tag=tolees-21) con 40.95 de descuento por 15.99 EUR (original: 27.08 EUR) en el siguiente enlace!

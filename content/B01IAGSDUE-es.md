@@ -17,6 +17,9 @@ comparePrice: 292.79 EUR
 inStock: true
 prodname: 'Crucial MX300 CT1050MX300SSD1 - Disco Duro sólido Interno SSD de 1 TB  3D NAND  SATA  2.5 Pulgadas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IAGSDUE/?tag=tolees-21'
+descuento: '52.47'
+titulo: 'Crucial MX300 CT1050MX300SSD1 - Disco Du'
 ---
 
 Está [Crucial MX300 CT1050MX300SSD1 - Disco Duro sólido Interno SSD de 1 TB  3D NAND  SATA  2.5 Pulgadas ](https://www.amazon.es/dp/B01IAGSDUE/?tag=tolees-21) con 52.47 de descuento por 139.17 EUR (original: 292.79 EUR) en el siguiente enlace!

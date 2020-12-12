@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Hi-Lites-Block Poppers  Zapatillas Altas para Mujer  Negro  Black   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074CMXXD9/?tag=tolees-21'
+descuento: '70.89'
+titulo: 'Skechers Hi-Lites-Block Poppers  Zapatil'
 ---
 
 Ahora mismo tienes [Skechers Hi-Lites-Block Poppers  Zapatillas Altas para Mujer  Negro  Black   36.5 EU](https://www.amazon.es/dp/B074CMXXD9/?tag=tolees-21) a 20.36 EUR (original: 69.95 EUR) (70.89 %  de descuento) en el siguiente enlace!

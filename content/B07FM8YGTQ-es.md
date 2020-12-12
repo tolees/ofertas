@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'hummel Nile Canvas Low  Zapatillas Unisex Adulto  Negro  Black 2001   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FM8YGTQ/?tag=tolees-21'
+descuento: '76.18'
+titulo: 'hummel Nile Canvas Low  Zapatillas Unise'
 ---
 
 Tienes [hummel Nile Canvas Low  Zapatillas Unisex Adulto  Negro  Black 2001   37 EU](https://www.amazon.es/dp/B07FM8YGTQ/?tag=tolees-21) con un 76.18 % de descuento con precio de oferta de 15.47 EUR (original: 64.95 EUR) en el siguiente enlace!

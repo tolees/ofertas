@@ -17,6 +17,9 @@ comparePrice: 36.75 EUR
 inStock: true
 prodname: 'DDR3 4 GB 1333MHZ GOODRAM 512x8 CL9 SR'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HNFPF8M/?tag=tolees-21'
+descuento: '33.63'
+titulo: 'DDR3 4 GB 1333MHZ GOODRAM 512x8 CL9 SR'
 ---
 
 Ahora mismo tienes [DDR3 4 GB 1333MHZ GOODRAM 512x8 CL9 SR](https://www.amazon.es/dp/B00HNFPF8M/?tag=tolees-21) a 24.39 EUR (original: 36.75 EUR) (33.63 %  de descuento) en el siguiente enlace!

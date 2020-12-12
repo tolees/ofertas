@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Burton Raider Cascos  Hombre  Rojo  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQZS52P/?tag=tolees-21'
+descuento: '26.37'
+titulo: 'Burton Raider Cascos  Hombre  Rojo  L'
 ---
 
 Ahora mismo tienes [Burton Raider Cascos  Hombre  Rojo  L](https://www.amazon.es/dp/B07DQZS52P/?tag=tolees-21) a 55.22 EUR (original: 75 EUR) (26.37 %  de descuento) en el siguiente enlace!

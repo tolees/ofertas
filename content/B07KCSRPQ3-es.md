@@ -17,6 +17,9 @@ comparePrice: 180.9 EUR
 inStock: true
 prodname: 'Love Moschino - Quilted Nappa Pu  Mujer  Rojo  Rosso   15x10x15 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCSRPQ3/?tag=tolees-21'
+descuento: '65.62'
+titulo: 'Love Moschino - Quilted Nappa Pu  Mujer '
 ---
 
 Está [Love Moschino - Quilted Nappa Pu  Mujer  Rojo  Rosso   15x10x15 cm  W x H L ](https://www.amazon.es/dp/B07KCSRPQ3/?tag=tolees-21) con 65.62 de descuento por 62.2 EUR (original: 180.9 EUR) en el siguiente enlace!

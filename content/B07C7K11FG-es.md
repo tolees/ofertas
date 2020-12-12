@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Panama Jack Julia Roses  Sandalia con Pulsera para Mujer  Beige  Vison B3   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C7K11FG/?tag=tolees-21'
+descuento: '42.03'
+titulo: 'Panama Jack Julia Roses  Sandalia con Pu'
 ---
 
 Está [Panama Jack Julia Roses  Sandalia con Pulsera para Mujer  Beige  Vison B3   42 EU](https://www.amazon.es/dp/B07C7K11FG/?tag=tolees-21) con 42.03 de descuento por 57.39 EUR (original: 99 EUR) en el siguiente enlace!

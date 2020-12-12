@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'RED WAGON Zapatillas con Cordones para Niñas  Rosa  Pink   30.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0728FJ3PT/?tag=tolees-21'
+descuento: '65.28'
+titulo: 'RED WAGON Zapatillas con Cordones para N'
 ---
 
 Ahora mismo tienes [RED WAGON Zapatillas con Cordones para Niñas  Rosa  Pink   30.5 EU](https://www.amazon.es/dp/B0728FJ3PT/?tag=tolees-21) a 6.94 EUR (original: 19.99 EUR) (65.28 %  de descuento) en el siguiente enlace!

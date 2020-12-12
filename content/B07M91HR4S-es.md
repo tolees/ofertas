@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'MTNG Attitude 84100 - Zapatillas para Hombre  Azul  Yoda Mesh HT Marino C44866   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M91HR4S/?tag=tolees-21'
+descuento: '37.51'
+titulo: 'MTNG Attitude 84100 - Zapatillas para Ho'
 ---
 
 Tienes [MTNG Attitude 84100 - Zapatillas para Hombre  Azul  Yoda Mesh HT Marino C44866   43 EU](https://www.amazon.es/dp/B07M91HR4S/?tag=tolees-21) con un 37.51 % de descuento con precio de oferta de 18.74 EUR (original: 29.99 EUR) en el siguiente enlace!

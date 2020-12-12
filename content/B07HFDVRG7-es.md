@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'edc by Esprit Accessoires 108ca1s005  Cinturón Mujer  Marrón  Brown 210   110  Talla del fabricante: 95 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFDVRG7/?tag=tolees-21'
+descuento: '78.58'
+titulo: 'edc by Esprit Accessoires 108ca1s005  Ci'
 ---
 
 Ahora mismo tienes [edc by Esprit Accessoires 108ca1s005  Cinturón Mujer  Marrón  Brown 210   110  Talla del fabricante: 95 ](https://www.amazon.es/dp/B07HFDVRG7/?tag=tolees-21) a 7.71 EUR (original: 35.99 EUR) (78.58 %  de descuento) en el siguiente enlace!

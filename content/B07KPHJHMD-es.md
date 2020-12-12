@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'REPLAY Rob Vaqueros Straight  Azul  Super Light Blue 11   W28/L30  Talla del Fabricante: 28  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPHJHMD/?tag=tolees-21'
+descuento: '71.55'
+titulo: 'REPLAY Rob Vaqueros Straight  Azul  Supe'
 ---
 
 Está [REPLAY Rob Vaqueros Straight  Azul  Super Light Blue 11   W28/L30  Talla del Fabricante: 28  para Hombre](https://www.amazon.es/dp/B07KPHJHMD/?tag=tolees-21) con 71.55 de descuento por 28.17 EUR (original: 99 EUR) en el siguiente enlace!

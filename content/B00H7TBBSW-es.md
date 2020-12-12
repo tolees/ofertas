@@ -17,6 +17,9 @@ comparePrice: 240.99 EUR
 inStock: true
 prodname: 'WD Elements Desktop - Disco duro externo de sobremesa de 2 TB  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00H7TBBSW/?tag=tolees-21'
+descuento: '62.25'
+titulo: 'WD Elements Desktop - Disco duro externo'
 ---
 
 Está [WD Elements Desktop - Disco duro externo de sobremesa de 2 TB  color negro](https://www.amazon.es/dp/B00H7TBBSW/?tag=tolees-21) con 62.25 de descuento por 90.98 EUR (original: 240.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Roxy VL Mod Tiki Tri Two Piece  Mujer  Anthracite flowee Swim  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KL21ZF2/?tag=tolees-21'
+descuento: '39.57'
+titulo: 'Roxy VL Mod Tiki Tri Two Piece  Mujer  A'
 ---
 
 Tienes [Roxy VL Mod Tiki Tri Two Piece  Mujer  Anthracite flowee Swim  M](https://www.amazon.es/dp/B07KL21ZF2/?tag=tolees-21) con un 39.57 % de descuento con precio de oferta de 27.79 EUR (original: 45.99 EUR) en el siguiente enlace!

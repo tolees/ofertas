@@ -17,6 +17,9 @@ comparePrice: 165.7 EUR
 inStock: true
 prodname: 'Kärcher Hidrolimpiadora Alta Presión K 3   1.601-812.0 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00J4JQLLK/?tag=tolees-21'
+descuento: '43.13'
+titulo: 'Kärcher Hidrolimpiadora Alta Presión K 3'
 ---
 
 Está [Kärcher Hidrolimpiadora Alta Presión K 3   1.601-812.0 ](https://www.amazon.es/dp/B00J4JQLLK/?tag=tolees-21) con 43.13 de descuento por 94.23 EUR (original: 165.7 EUR) en el siguiente enlace!

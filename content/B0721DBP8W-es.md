@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers You-Spirit  Zapatillas sin Cordones para Mujer   Peach   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0721DBP8W/?tag=tolees-21'
+descuento: '52.99'
+titulo: 'Skechers You-Spirit  Zapatillas sin Cord'
 ---
 
 Tienes [Skechers You-Spirit  Zapatillas sin Cordones para Mujer   Peach   37.5 EU](https://www.amazon.es/dp/B0721DBP8W/?tag=tolees-21) con un 52.99 % de descuento con precio de oferta de 30.53 EUR (original: 64.95 EUR) en el siguiente enlace!

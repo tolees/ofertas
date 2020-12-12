@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Reebok Astroride Soul  Zapatillas de Senderismo para Hombre  Negro  Black/White 000   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TVZZHB/?tag=tolees-21'
+descuento: '53.93'
+titulo: 'Reebok Astroride Soul  Zapatillas de Sen'
 ---
 
 Ahora mismo tienes [Reebok Astroride Soul  Zapatillas de Senderismo para Hombre  Negro  Black/White 000   44.5 EU](https://www.amazon.es/dp/B077TVZZHB/?tag=tolees-21) a 27.62 EUR (original: 59.95 EUR) (53.93 %  de descuento) en el siguiente enlace!

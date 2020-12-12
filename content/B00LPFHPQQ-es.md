@@ -17,6 +17,9 @@ comparePrice: 67 EUR
 inStock: true
 prodname: 'Marc Jacobs Daisy Dream Agua de Tocador Vaporizador - 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LPFHPQQ/?tag=tolees-21'
+descuento: '39.85'
+titulo: 'Marc Jacobs Daisy Dream Agua de Tocador '
 ---
 
 Tienes [Marc Jacobs Daisy Dream Agua de Tocador Vaporizador - 50 ml](https://www.amazon.es/dp/B00LPFHPQQ/?tag=tolees-21) con un 39.85 % de descuento con precio de oferta de 40.3 EUR (original: 67 EUR) en el siguiente enlace!

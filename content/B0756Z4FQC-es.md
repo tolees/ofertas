@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield Denim Slim Lavado Oscuro con Rotos  Pantalones para Hombre  Azul  Blue   34  Tamaño del fabricante:34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0756Z4FQC/?tag=tolees-21'
+descuento: '50.55'
+titulo: 'Springfield Denim Slim Lavado Oscuro con'
 ---
 
 Está [Springfield Denim Slim Lavado Oscuro con Rotos  Pantalones para Hombre  Azul  Blue   34  Tamaño del fabricante:34 ](https://www.amazon.es/dp/B0756Z4FQC/?tag=tolees-21) con 50.55 de descuento por 14.83 EUR (original: 29.99 EUR) en el siguiente enlace!

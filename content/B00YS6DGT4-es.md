@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Star Wars - Camiseta para mujer de la Princesa Leia - Talla Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00YS6DGT4/?tag=tolees-21'
+descuento: '26.76'
+titulo: 'Star Wars - Camiseta para mujer de la Pr'
 ---
 
 Está [Star Wars - Camiseta para mujer de la Princesa Leia - Talla Small](https://www.amazon.es/dp/B00YS6DGT4/?tag=tolees-21) con 26.76 de descuento por 10.95 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Only Onllara LS Short Dress Box Wvn  Vestido para Mujer   Pink Tint AOP: Geometric  38  Talla del Fabricante: 36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJQZL11/?tag=tolees-21'
+descuento: '42.34'
+titulo: 'Only Onllara LS Short Dress Box Wvn  Ves'
 ---
 
 Tienes [Only Onllara LS Short Dress Box Wvn  Vestido para Mujer   Pink Tint AOP: Geometric  38  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B07DJQZL11/?tag=tolees-21) con un 42.34 % de descuento con precio de oferta de 23.06 EUR (original: 39.99 EUR) en el siguiente enlace!

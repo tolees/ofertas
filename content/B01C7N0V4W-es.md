@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield FRQ Sport Bermuda  Pink  M para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01C7N0V4W/?tag=tolees-21'
+descuento: '72.32'
+titulo: 'Springfield FRQ Sport Bermuda  Pink  M p'
 ---
 
 Tienes [Springfield FRQ Sport Bermuda  Pink  M para Hombre](https://www.amazon.es/dp/B01C7N0V4W/?tag=tolees-21) con un 72.32 % de descuento con precio de oferta de 8.3 EUR (original: 29.99 EUR) en el siguiente enlace!

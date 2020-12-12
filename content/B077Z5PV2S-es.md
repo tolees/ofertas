@@ -17,6 +17,9 @@ comparePrice: 39.26 EUR
 inStock: true
 prodname: 'Inteligencia Wifi Interruptor FEYG Interruptor Inteligente Control de voz Amazon Alexa And Google Home Pantalla táctil de vidrio templado Control a distancia Crear horarios  1 Gang '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Z5PV2S/?tag=tolees-21'
+descuento: '43.99'
+titulo: 'Inteligencia Wifi Interruptor FEYG Inter'
 ---
 
 Tienes [Inteligencia Wifi Interruptor FEYG Interruptor Inteligente Control de voz Amazon Alexa And Google Home Pantalla táctil de vidrio templado Control a distancia Crear horarios  1 Gang ](https://www.amazon.es/dp/B077Z5PV2S/?tag=tolees-21) con un 43.99 % de descuento con precio de oferta de 21.99 EUR (original: 39.26 EUR) en el siguiente enlace!

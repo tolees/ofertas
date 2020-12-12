@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Odlo Midlayer 1/2 Zip Core Light Forro Polar  Hombre  Azul  Jewel  / Negro  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DD2M4QS/?tag=tolees-21'
+descuento: '39.47'
+titulo: 'Odlo Midlayer 1/2 Zip Core Light Forro P'
 ---
 
 Está [Odlo Midlayer 1/2 Zip Core Light Forro Polar  Hombre  Azul  Jewel  / Negro  M](https://www.amazon.es/dp/B07DD2M4QS/?tag=tolees-21) con 39.47 de descuento por 27.21 EUR (original: 44.95 EUR) en el siguiente enlace!

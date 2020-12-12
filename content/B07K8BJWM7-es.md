@@ -17,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Moma Bikes Bicicleta Infantil 20" SHIMANDO 6V  Rojo  Unic Size'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K8BJWM7/?tag=tolees-21'
+descuento: '35.05'
+titulo: 'Moma Bikes Bicicleta Infantil 20" SHIMAN'
 ---
 
 Está [Moma Bikes Bicicleta Infantil 20" SHIMANDO 6V  Rojo  Unic Size](https://www.amazon.es/dp/B07K8BJWM7/?tag=tolees-21) con 35.05 de descuento por 129.9 EUR (original: 200 EUR) en el siguiente enlace!

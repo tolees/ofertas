@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'adidas Altasport CF K  Zapatillas de Gimnasia Unisex Niños  Blanco FTWR White Blue  36 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K12LZL7/?tag=tolees-21'
+descuento: '50.27'
+titulo: 'adidas Altasport CF K  Zapatillas de Gim'
 ---
 
 Ahora mismo tienes [adidas Altasport CF K  Zapatillas de Gimnasia Unisex Niños  Blanco FTWR White Blue  36 2/3 EU](https://www.amazon.es/dp/B07K12LZL7/?tag=tolees-21) a 17.38 EUR (original: 34.95 EUR) (50.27 %  de descuento) en el siguiente enlace!

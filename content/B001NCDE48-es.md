@@ -17,6 +17,9 @@ comparePrice: 11.95 EUR
 inStock: true
 prodname: 'Nalgene 2078-2027 - Bidón con boca estrecha de acampada y senderismo  color gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001NCDE48/?tag=tolees-21'
+descuento: '37.66'
+titulo: 'Nalgene 2078-2027 - Bidón con boca estre'
 ---
 
 Está [Nalgene 2078-2027 - Bidón con boca estrecha de acampada y senderismo  color gris](https://www.amazon.es/dp/B001NCDE48/?tag=tolees-21) con 37.66 de descuento por 7.45 EUR (original: 11.95 EUR) en el siguiente enlace!

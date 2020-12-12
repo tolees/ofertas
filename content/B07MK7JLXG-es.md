@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Micrófono Karaoke Bluetooth Fede con 2 Altavoces Incorporados  Microfono Inalámbrico Karaoke Portátil para Cantar  Función de Eco  Compatible con Android/iOS  PC o Teléfono Inteligente  Black '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MK7JLXG/?tag=tolees-21'
+descuento: '48.34'
+titulo: 'Micrófono Karaoke Bluetooth Fede con 2 A'
 ---
 
 Ahora mismo tienes [Micrófono Karaoke Bluetooth Fede con 2 Altavoces Incorporados  Microfono Inalámbrico Karaoke Portátil para Cantar  Función de Eco  Compatible con Android/iOS  PC o Teléfono Inteligente  Black ](https://www.amazon.es/dp/B07MK7JLXG/?tag=tolees-21) a 30.99 EUR (original: 59.99 EUR) (48.34 %  de descuento) en el siguiente enlace!

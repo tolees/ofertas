@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 25212  Botas para Mujer  Rojo  Merlot Antic   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y1G9JS2/?tag=tolees-21'
+descuento: '74.57'
+titulo: 'Marco Tozzi 25212  Botas para Mujer  Roj'
 ---
 
 Tienes [Marco Tozzi 25212  Botas para Mujer  Rojo  Merlot Antic   41 EU](https://www.amazon.es/dp/B06Y1G9JS2/?tag=tolees-21) con un 74.57 % de descuento con precio de oferta de 12.7 EUR (original: 49.95 EUR) en el siguiente enlace!

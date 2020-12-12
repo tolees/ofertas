@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'adidas Pred Trn J - Guantes de portero  Unisex niños  Active Solar Red/Black  5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K6WFHN3/?tag=tolees-21'
+descuento: '39.00'
+titulo: 'adidas Pred Trn J - Guantes de portero  '
 ---
 
 Está [adidas Pred Trn J - Guantes de portero  Unisex niños  Active Solar Red/Black  5](https://www.amazon.es/dp/B07K6WFHN3/?tag=tolees-21) con 39.00 de descuento por 10.95 EUR (original: 17.95 EUR) en el siguiente enlace!

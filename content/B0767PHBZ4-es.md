@@ -17,6 +17,9 @@ comparePrice: 105 EUR
 inStock: true
 prodname: 'Geox D Ophira B  Zapatillas para Mujer  Rosa  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0767PHBZ4/?tag=tolees-21'
+descuento: '62.86'
+titulo: 'Geox D Ophira B  Zapatillas para Mujer  '
 ---
 
 Tienes [Geox D Ophira B  Zapatillas para Mujer  Rosa  40 EU](https://www.amazon.es/dp/B0767PHBZ4/?tag=tolees-21) con un 62.86 % de descuento con precio de oferta de 39 EUR (original: 105 EUR) en el siguiente enlace!

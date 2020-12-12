@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F6863/3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y3KPGY4/?tag=tolees-21'
+descuento: '44.78'
+titulo: 'Festina Reloj Cronógrafo para Hombre de '
 ---
 
 Está [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F6863/3](https://www.amazon.es/dp/B06Y3KPGY4/?tag=tolees-21) con 44.78 de descuento por 82.28 EUR (original: 149 EUR) en el siguiente enlace!

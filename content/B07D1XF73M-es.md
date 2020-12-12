@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Armani Exchange 8nyt90  Camiseta para Mujer  Azul  Blue Angel 1554  X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1XF73M/?tag=tolees-21'
+descuento: '58.65'
+titulo: 'Armani Exchange 8nyt90  Camiseta para Mu'
 ---
 
 Tienes [Armani Exchange 8nyt90  Camiseta para Mujer  Azul  Blue Angel 1554  X-Small](https://www.amazon.es/dp/B07D1XF73M/?tag=tolees-21) con un 58.65 % de descuento con precio de oferta de 24.81 EUR (original: 60 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 18.7 EUR
 inStock: true
 prodname: 'Gloss - caja de baño  caja de regalo para mujeres - Estuche de Baño Regalo - Gold - Flores y Almizcle'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0052WLNZW/?tag=tolees-21'
+descuento: '59.04'
+titulo: 'Gloss - caja de baño  caja de regalo par'
 ---
 
 Está [Gloss - caja de baño  caja de regalo para mujeres - Estuche de Baño Regalo - Gold - Flores y Almizcle](https://www.amazon.es/dp/B0052WLNZW/?tag=tolees-21) con 59.04 de descuento por 7.66 EUR (original: 18.7 EUR) en el siguiente enlace!

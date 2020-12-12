@@ -17,6 +17,9 @@ comparePrice: 1104.99 EUR
 inStock: true
 prodname: 'HyperX Predator DDR4 - Memoria RAM de 64 GB 3.600 MHz  DDR4  PC/Servidor  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GN5HBPQ/?tag=tolees-21'
+descuento: '27.28'
+titulo: 'HyperX Predator DDR4 - Memoria RAM de 64'
 ---
 
 Tienes [HyperX Predator DDR4 - Memoria RAM de 64 GB 3.600 MHz  DDR4  PC/Servidor  Color Negro](https://www.amazon.es/dp/B07GN5HBPQ/?tag=tolees-21) con un 27.28 % de descuento con precio de oferta de 803.54 EUR (original: 1104.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'CMP 3T51847 - Prenda  color gris  talla 54'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GV3QW3O/?tag=tolees-21'
+descuento: '35.24'
+titulo: 'CMP 3T51847 - Prenda  color gris  talla '
 ---
 
 Tienes [CMP 3T51847 - Prenda  color gris  talla 54](https://www.amazon.es/dp/B00GV3QW3O/?tag=tolees-21) con un 35.24 % de descuento con precio de oferta de 23.28 EUR (original: 35.95 EUR) en el siguiente enlace!

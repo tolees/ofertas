@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Tommy Jeans Mujer Summer Script Logo Tank Camisa Manga Corta  Gris  Light Grey Htr Bc03 000  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CDYM4WW/?tag=tolees-21'
+descuento: '31.72'
+titulo: 'Tommy Jeans Mujer Summer Script Logo Tan'
 ---
 
 Ahora mismo tienes [Tommy Jeans Mujer Summer Script Logo Tank Camisa Manga Corta  Gris  Light Grey Htr Bc03 000  Medium](https://www.amazon.es/dp/B07CDYM4WW/?tag=tolees-21) a 19.8 EUR (original: 29 EUR) (31.72 %  de descuento) en el siguiente enlace!

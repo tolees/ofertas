@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma Jaab XT Wn s  Zapatillas de Deporte para Mujer  Gris  Quarry White   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCCXN3Q/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'Puma Jaab XT Wn s  Zapatillas de Deporte'
 ---
 
 Está [Puma Jaab XT Wn s  Zapatillas de Deporte para Mujer  Gris  Quarry White   39 EU](https://www.amazon.es/dp/B07DCCXN3Q/?tag=tolees-21) con 49.97 de descuento por 40 EUR (original: 79.95 EUR) en el siguiente enlace!

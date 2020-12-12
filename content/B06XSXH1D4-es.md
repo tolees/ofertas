@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'FIND DC3083S vaqueros mujer  Negro  Black   W28/L32  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSXH1D4/?tag=tolees-21'
+descuento: '32.77'
+titulo: 'FIND DC3083S vaqueros mujer  Negro  Blac'
 ---
 
 Ahora mismo tienes [FIND DC3083S vaqueros mujer  Negro  Black   W28/L32  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06XSXH1D4/?tag=tolees-21) a 17.48 EUR (original: 26 EUR) (32.77 %  de descuento) en el siguiente enlace!

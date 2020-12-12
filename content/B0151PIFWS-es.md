@@ -17,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'Pikolin Home - Funda protector de almohada rizo  antialérgico  antiácaros  antibacterias y antimoho  impermeable y transpirable  40 x 105 cm  Todas las medidas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0151PIFWS/?tag=tolees-21'
+descuento: '30.03'
+titulo: 'Pikolin Home - Funda protector de almoha'
 ---
 
 Está [Pikolin Home - Funda protector de almohada rizo  antialérgico  antiácaros  antibacterias y antimoho  impermeable y transpirable  40 x 105 cm  Todas las medidas ](https://www.amazon.es/dp/B0151PIFWS/?tag=tolees-21) con 30.03 de descuento por 6.29 EUR (original: 8.99 EUR) en el siguiente enlace!

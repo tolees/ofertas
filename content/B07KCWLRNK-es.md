@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Hurley Bloomer Photo PRM tee SS Camisetas  Hombre  Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCWLRNK/?tag=tolees-21'
+descuento: '48.97'
+titulo: 'Hurley Bloomer Photo PRM tee SS Camiseta'
 ---
 
 Está [Hurley Bloomer Photo PRM tee SS Camisetas  Hombre  Black  L](https://www.amazon.es/dp/B07KCWLRNK/?tag=tolees-21) con 48.97 de descuento por 15.31 EUR (original: 30 EUR) en el siguiente enlace!

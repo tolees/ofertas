@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Kaymin  Zapatillas de Running para Mujer  Azul  Pigment/Techtonic Blue/Pink Zing Rh1   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R7D6KP/?tag=tolees-21'
+descuento: '62.56'
+titulo: 'New Balance Fresh Foam Kaymin  Zapatilla'
 ---
 
 Está [New Balance Fresh Foam Kaymin  Zapatillas de Running para Mujer  Azul  Pigment/Techtonic Blue/Pink Zing Rh1   36 EU](https://www.amazon.es/dp/B075R7D6KP/?tag=tolees-21) con 62.56 de descuento por 33.7 EUR (original: 90 EUR) en el siguiente enlace!

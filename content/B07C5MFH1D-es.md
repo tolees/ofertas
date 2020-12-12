@@ -17,6 +17,9 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'Yo  Tonya Blu-Ray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C5MFH1D/?tag=tolees-21'
+descuento: '40.04'
+titulo: 'Yo  Tonya Blu-Ray [Blu-ray]'
 ---
 
 Está [Yo  Tonya Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07C5MFH1D/?tag=tolees-21) con 40.04 de descuento por 6.59 EUR (original: 10.99 EUR) en el siguiente enlace!

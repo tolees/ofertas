@@ -17,6 +17,9 @@ comparePrice: 67.48 EUR
 inStock: true
 prodname: 'Under Armour Tr96 3021296-001  Zapatillas de Entrenamiento para Hombre  Negro  Black 3021296/001   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTN8GH9/?tag=tolees-21'
+descuento: '53.94'
+titulo: 'Under Armour Tr96 3021296-001  Zapatilla'
 ---
 
 Tienes [Under Armour Tr96 3021296-001  Zapatillas de Entrenamiento para Hombre  Negro  Black 3021296/001   40 EU](https://www.amazon.es/dp/B07CTN8GH9/?tag=tolees-21) con un 53.94 % de descuento con precio de oferta de 31.08 EUR (original: 67.48 EUR) en el siguiente enlace!

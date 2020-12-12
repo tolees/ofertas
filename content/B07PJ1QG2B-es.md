@@ -17,6 +17,9 @@ comparePrice: 38.38 EUR
 inStock: true
 prodname: 'Wangel Adhesivo Fuerte Doble Toalleros de Barra 40cm  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PJ1QG2B/?tag=tolees-21'
+descuento: '60.94'
+titulo: 'Wangel Adhesivo Fuerte Doble Toalleros d'
 ---
 
 Está [Wangel Adhesivo Fuerte Doble Toalleros de Barra 40cm  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate](https://www.amazon.es/dp/B07PJ1QG2B/?tag=tolees-21) con 60.94 de descuento por 14.99 EUR (original: 38.38 EUR) en el siguiente enlace!

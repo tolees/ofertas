@@ -17,6 +17,9 @@ comparePrice: 32.03 EUR
 inStock: true
 prodname: 'Safta Bolsa De Deporte Benetton "Geometric" Oficial 480x210x330mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792MLLLC/?tag=tolees-21'
+descuento: '48.36'
+titulo: 'Safta Bolsa De Deporte Benetton "Geometr'
 ---
 
 Tienes [Safta Bolsa De Deporte Benetton "Geometric" Oficial 480x210x330mm](https://www.amazon.es/dp/B0792MLLLC/?tag=tolees-21) con un 48.36 % de descuento con precio de oferta de 16.54 EUR (original: 32.03 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'The Princess Guide'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FDDY3HP/?tag=tolees-21'
+descuento: '35.88'
+titulo: 'The Princess Guide'
 ---
 
 Está [The Princess Guide](https://www.amazon.es/dp/B07FDDY3HP/?tag=tolees-21) con 35.88 de descuento por 25.64 EUR (original: 39.99 EUR) en el siguiente enlace!

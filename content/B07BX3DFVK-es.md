@@ -17,6 +17,9 @@ comparePrice: 64.75 EUR
 inStock: true
 prodname: 'Azzaro  Agua de colonia para mujeres - 50 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BX3DFVK/?tag=tolees-21'
+descuento: '62.72'
+titulo: 'Azzaro  Agua de colonia para mujeres - 5'
 ---
 
 Está [Azzaro  Agua de colonia para mujeres - 50 ml.](https://www.amazon.es/dp/B07BX3DFVK/?tag=tolees-21) con 62.72 de descuento por 24.14 EUR (original: 64.75 EUR) en el siguiente enlace!

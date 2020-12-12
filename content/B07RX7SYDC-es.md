@@ -17,6 +17,9 @@ comparePrice: 75.38 EUR
 inStock: true
 prodname: 'Grey Goose Vodka Premium Gift Pack Funda Enfríador - 700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RX7SYDC/?tag=tolees-21'
+descuento: '51.39'
+titulo: 'Grey Goose Vodka Premium Gift Pack Funda'
 ---
 
 Ahora mismo tienes [Grey Goose Vodka Premium Gift Pack Funda Enfríador - 700 ml](https://www.amazon.es/dp/B07RX7SYDC/?tag=tolees-21) a 36.64 EUR (original: 75.38 EUR) (51.39 %  de descuento) en el siguiente enlace!

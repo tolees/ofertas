@@ -17,6 +17,9 @@ comparePrice: 37.99 EUR
 inStock: true
 prodname: 'Spiderman 2100001996 Mochila Infantil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072QLBL25/?tag=tolees-21'
+descuento: '34.04'
+titulo: 'Spiderman 2100001996 Mochila Infantil'
 ---
 
 Está [Spiderman 2100001996 Mochila Infantil](https://www.amazon.es/dp/B072QLBL25/?tag=tolees-21) con 34.04 de descuento por 25.06 EUR (original: 37.99 EUR) en el siguiente enlace!

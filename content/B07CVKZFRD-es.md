@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Status-Rolano  Mocasines para Hombre  Negro Black  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVKZFRD/?tag=tolees-21'
+descuento: '51.79'
+titulo: 'Skechers Status-Rolano  Mocasines para H'
 ---
 
 Está [Skechers Status-Rolano  Mocasines para Hombre  Negro Black  40 EU](https://www.amazon.es/dp/B07CVKZFRD/?tag=tolees-21) con 51.79 de descuento por 33.72 EUR (original: 69.95 EUR) en el siguiente enlace!

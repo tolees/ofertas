@@ -17,6 +17,9 @@ comparePrice: 20.15 EUR
 inStock: true
 prodname: 'New Look Core Zip Through  Capucha para Hombre  Azul  Navy  Large  Talla del Fabricante: 53 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GBD2N77/?tag=tolees-21'
+descuento: '60.30'
+titulo: 'New Look Core Zip Through  Capucha para '
 ---
 
 Ahora mismo tienes [New Look Core Zip Through  Capucha para Hombre  Azul  Navy  Large  Talla del Fabricante: 53 ](https://www.amazon.es/dp/B07GBD2N77/?tag=tolees-21) a 8 EUR (original: 20.15 EUR) (60.30 %  de descuento) en el siguiente enlace!

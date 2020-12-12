@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Quiksilver SEA STASH II Surf Backpack  Hombre  Thyme  1SZ'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KK59DS8/?tag=tolees-21'
+descuento: '46.01'
+titulo: 'Quiksilver SEA STASH II Surf Backpack  H'
 ---
 
 Ahora mismo tienes [Quiksilver SEA STASH II Surf Backpack  Hombre  Thyme  1SZ](https://www.amazon.es/dp/B07KK59DS8/?tag=tolees-21) a 32.39 EUR (original: 59.99 EUR) (46.01 %  de descuento) en el siguiente enlace!

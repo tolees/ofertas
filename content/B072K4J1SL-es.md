@@ -17,6 +17,9 @@ comparePrice: 33.99 EUR
 inStock: true
 prodname: 'Neck & Neck 17I13604.26  Pantalones para Niñas  Azul  Graublau   4 años  Tamaño del fabricante:4A '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072K4J1SL/?tag=tolees-21'
+descuento: '64.20'
+titulo: 'Neck & Neck 17I13604.26  Pantalones para'
 ---
 
 Ahora mismo tienes [Neck & Neck 17I13604.26  Pantalones para Niñas  Azul  Graublau   4 años  Tamaño del fabricante:4A ](https://www.amazon.es/dp/B072K4J1SL/?tag=tolees-21) a 12.17 EUR (original: 33.99 EUR) (64.20 %  de descuento) en el siguiente enlace!

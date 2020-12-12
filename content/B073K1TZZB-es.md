@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Columbia Techy Hybrid Fleece Forro  Mujer  Nocturnal  Talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073K1TZZB/?tag=tolees-21'
+descuento: '35.12'
+titulo: 'Columbia Techy Hybrid Fleece Forro  Muje'
 ---
 
 Ahora mismo tienes [Columbia Techy Hybrid Fleece Forro  Mujer  Nocturnal  Talla L](https://www.amazon.es/dp/B073K1TZZB/?tag=tolees-21) a 77.85 EUR (original: 119.99 EUR) (35.12 %  de descuento) en el siguiente enlace!

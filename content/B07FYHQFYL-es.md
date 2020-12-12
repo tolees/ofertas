@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Lee Western Shirt  Camisa para Hombre  Marfil  Blueprint Lh   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYHQFYL/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Lee Western Shirt  Camisa para Hombre  M'
 ---
 
 Está [Lee Western Shirt  Camisa para Hombre  Marfil  Blueprint Lh   Large](https://www.amazon.es/dp/B07FYHQFYL/?tag=tolees-21) con 50.00 de descuento por 32.5 EUR (original: 65 EUR) en el siguiente enlace!

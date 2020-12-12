@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Under Armour Run True Heatgear Capri Leggings  Hombre  Negro  001   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FLFJ2D4/?tag=tolees-21'
+descuento: '51.93'
+titulo: 'Under Armour Run True Heatgear Capri Leg'
 ---
 
 Está [Under Armour Run True Heatgear Capri Leggings  Hombre  Negro  001   L](https://www.amazon.es/dp/B01FLFJ2D4/?tag=tolees-21) con 51.93 de descuento por 21.63 EUR (original: 45 EUR) en el siguiente enlace!

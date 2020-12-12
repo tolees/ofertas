@@ -17,6 +17,9 @@ comparePrice: 399 EUR
 inStock: true
 prodname: 'besrey Silla Ligera Carrito de Bebé Cochecito Plegable Compacta con Avión 6-36meses -Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075DCP49B/?tag=tolees-21'
+descuento: '63.16'
+titulo: 'besrey Silla Ligera Carrito de Bebé Coch'
 ---
 
 Está [besrey Silla Ligera Carrito de Bebé Cochecito Plegable Compacta con Avión 6-36meses -Rojo](https://www.amazon.es/dp/B075DCP49B/?tag=tolees-21) con 63.16 de descuento por 146.99 EUR (original: 399 EUR) en el siguiente enlace!

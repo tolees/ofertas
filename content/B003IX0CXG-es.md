@@ -17,6 +17,9 @@ comparePrice: 106.99 EUR
 inStock: true
 prodname: 'Wenko Toallero  Acero  Plateado  20x41x85.5 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003IX0CXG/?tag=tolees-21'
+descuento: '57.95'
+titulo: 'Wenko Toallero  Acero  Plateado  20x41x8'
 ---
 
 Tienes [Wenko Toallero  Acero  Plateado  20x41x85.5 cm](https://www.amazon.es/dp/B003IX0CXG/?tag=tolees-21) con un 57.95 % de descuento con precio de oferta de 44.99 EUR (original: 106.99 EUR) en el siguiente enlace!

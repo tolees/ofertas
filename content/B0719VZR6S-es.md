@@ -17,6 +17,9 @@ comparePrice: 26.6 EUR
 inStock: true
 prodname: 'Arppe 2092010407 New Classic Cinta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0719VZR6S/?tag=tolees-21'
+descuento: '60.11'
+titulo: 'Arppe 2092010407 New Classic Cinta'
 ---
 
 Ahora mismo tienes [Arppe 2092010407 New Classic Cinta](https://www.amazon.es/dp/B0719VZR6S/?tag=tolees-21) a 10.61 EUR (original: 26.6 EUR) (60.11 %  de descuento) en el siguiente enlace!

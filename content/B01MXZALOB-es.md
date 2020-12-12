@@ -17,6 +17,9 @@ comparePrice: 599.99 EUR
 inStock: true
 prodname: 'Garmin Fenix 5S - Reloj multideporte  con GPS y medidor de frecuencia cardiaca  lente de cristal y bisel de acero inoxidable  42 mm  Plata/Turquesa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXZALOB/?tag=tolees-21'
+descuento: '33.50'
+titulo: 'Garmin Fenix 5S - Reloj multideporte  co'
 ---
 
 Está [Garmin Fenix 5S - Reloj multideporte  con GPS y medidor de frecuencia cardiaca  lente de cristal y bisel de acero inoxidable  42 mm  Plata/Turquesa](https://www.amazon.es/dp/B01MXZALOB/?tag=tolees-21) con 33.50 de descuento por 399 EUR (original: 599.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Guess - Felix  Shoppers y bolsos de hombro Mujer  Azul  Blue   34x28x15.5 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F83RQ4J/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Guess - Felix  Shoppers y bolsos de homb'
 ---
 
 Está [Guess - Felix  Shoppers y bolsos de hombro Mujer  Azul  Blue   34x28x15.5 cm  W x H L ](https://www.amazon.es/dp/B07F83RQ4J/?tag=tolees-21) con 50.00 de descuento por 75 EUR (original: 150 EUR) en el siguiente enlace!

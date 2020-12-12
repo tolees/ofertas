@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Puma Suede Classic+  Zapatillas Unisex Adulto  Verde  Forest Night White 33   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DB1D79R/?tag=tolees-21'
+descuento: '53.69'
+titulo: 'Puma Suede Classic+  Zapatillas Unisex A'
 ---
 
 Tienes [Puma Suede Classic+  Zapatillas Unisex Adulto  Verde  Forest Night White 33   42 EU](https://www.amazon.es/dp/B07DB1D79R/?tag=tolees-21) con un 53.69 % de descuento con precio de oferta de 39.34 EUR (original: 84.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'SUAOKI P6 arrancador de Coche 800A Batería de automóvil máxima  hasta 6.0 litros de Gasolina o Diesel de 5.0 litros  con Pantalla LCD Puerto Dual USB  Banco de energía Linterna'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NVFPXJY/?tag=tolees-21'
+descuento: '39.40'
+titulo: 'SUAOKI P6 arrancador de Coche 800A Bater'
 ---
 
 Está [SUAOKI P6 arrancador de Coche 800A Batería de automóvil máxima  hasta 6.0 litros de Gasolina o Diesel de 5.0 litros  con Pantalla LCD Puerto Dual USB  Banco de energía Linterna](https://www.amazon.es/dp/B07NVFPXJY/?tag=tolees-21) con 39.40 de descuento por 59.99 EUR (original: 99 EUR) en el siguiente enlace!

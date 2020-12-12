@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Under Armour Mk1 Short 7In. Pantalón Corto  Hombre  Azul  Academy/Stealth Gray 408   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HW9ZF4/?tag=tolees-21'
+descuento: '40.55'
+titulo: 'Under Armour Mk1 Short 7In. Pantalón Cor'
 ---
 
 Tienes [Under Armour Mk1 Short 7In. Pantalón Corto  Hombre  Azul  Academy/Stealth Gray 408   XL](https://www.amazon.es/dp/B071HW9ZF4/?tag=tolees-21) con un 40.55 % de descuento con precio de oferta de 20.8 EUR (original: 34.99 EUR) en el siguiente enlace!

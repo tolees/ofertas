@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas Hoops 2.0 Mid  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Carbon S18/Light Granite   42 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9YMN7V/?tag=tolees-21'
+descuento: '52.47'
+titulo: 'adidas Hoops 2.0 Mid  Zapatillas de Gimn'
 ---
 
 Ahora mismo tienes [adidas Hoops 2.0 Mid  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Carbon S18/Light Granite   42 2/3 EU](https://www.amazon.es/dp/B07D9YMN7V/?tag=tolees-21) a 33.25 EUR (original: 69.95 EUR) (52.47 %  de descuento) en el siguiente enlace!

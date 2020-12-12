@@ -17,6 +17,9 @@ comparePrice: 7.5 EUR
 inStock: true
 prodname: 'adidas Pádel OV - Set overgrip  Color Blanco  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011RJLJI4/?tag=tolees-21'
+descuento: '34.67'
+titulo: 'adidas Pádel OV - Set overgrip  Color Bl'
 ---
 
 Tienes [adidas Pádel OV - Set overgrip  Color Blanco  Talla única](https://www.amazon.es/dp/B011RJLJI4/?tag=tolees-21) con un 34.67 % de descuento con precio de oferta de 4.9 EUR (original: 7.5 EUR) en el siguiente enlace!

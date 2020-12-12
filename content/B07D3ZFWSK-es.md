@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Teléfonos móviles para Mayores con Teclas Grandes  Artfone C1 Senior  fácil de Usar Celular para Ancianos con botón SOS  Cámara  Naranja'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D3ZFWSK/?tag=tolees-21'
+descuento: '28.27'
+titulo: 'Teléfonos móviles para Mayores con Tecla'
 ---
 
 Está [Teléfonos móviles para Mayores con Teclas Grandes  Artfone C1 Senior  fácil de Usar Celular para Ancianos con botón SOS  Cámara  Naranja](https://www.amazon.es/dp/B07D3ZFWSK/?tag=tolees-21) con 28.27 de descuento por 32.99 EUR (original: 45.99 EUR) en el siguiente enlace!

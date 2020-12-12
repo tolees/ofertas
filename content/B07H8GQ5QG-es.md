@@ -17,6 +17,9 @@ comparePrice: 4999 EUR
 inStock: true
 prodname: 'AEVOBAS Cafetera de Filtro  Cafetera de Goteo Programable para 12 Tazas  Máquina de café Filtro Permanente  Sistema anti-gotas  cierre automático  selector de concentración  sin BPA  900W  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H8GQ5QG/?tag=tolees-21'
+descuento: '99.34'
+titulo: 'AEVOBAS Cafetera de Filtro  Cafetera de '
 ---
 
 Ahora mismo tienes [AEVOBAS Cafetera de Filtro  Cafetera de Goteo Programable para 12 Tazas  Máquina de café Filtro Permanente  Sistema anti-gotas  cierre automático  selector de concentración  sin BPA  900W  Negro](https://www.amazon.es/dp/B07H8GQ5QG/?tag=tolees-21) a 32.99 EUR (original: 4999 EUR) (99.34 %  de descuento) en el siguiente enlace!

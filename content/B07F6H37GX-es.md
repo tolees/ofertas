@@ -17,6 +17,9 @@ comparePrice: 17.7 EUR
 inStock: true
 prodname: 'Nocilla  Chocolate para untar  Postres  - 6 de 320 gr.  Total 1920 gr. '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F6H37GX/?tag=tolees-21'
+descuento: '28.47'
+titulo: 'Nocilla  Chocolate para untar  Postres  '
 ---
 
 Ahora mismo tienes [Nocilla  Chocolate para untar  Postres  - 6 de 320 gr.  Total 1920 gr. ](https://www.amazon.es/dp/B07F6H37GX/?tag=tolees-21) a 12.66 EUR (original: 17.7 EUR) (28.47 %  de descuento) en el siguiente enlace!

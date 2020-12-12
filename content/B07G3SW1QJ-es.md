@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Destiny 2: Los Renegados Colección Legendaria'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G3SW1QJ/?tag=tolees-21'
+descuento: '63.69'
+titulo: 'Destiny 2: Los Renegados Colección Legen'
 ---
 
 Ahora mismo tienes [Destiny 2: Los Renegados Colección Legendaria](https://www.amazon.es/dp/B07G3SW1QJ/?tag=tolees-21) a 25.41 EUR (original: 69.99 EUR) (63.69 %  de descuento) en el siguiente enlace!

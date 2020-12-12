@@ -17,6 +17,9 @@ comparePrice: 10.78 EUR
 inStock: true
 prodname: '2pcs Fundas Cáscaras Protectores de Silicona para Ps3 Ps2 Controlador Inalámbrico de Color Azul y Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00T2TFM44/?tag=tolees-21'
+descuento: '44.43'
+titulo: '2pcs Fundas Cáscaras Protectores de Sili'
 ---
 
 Está [2pcs Fundas Cáscaras Protectores de Silicona para Ps3 Ps2 Controlador Inalámbrico de Color Azul y Rojo](https://www.amazon.es/dp/B00T2TFM44/?tag=tolees-21) con 44.43 de descuento por 5.99 EUR (original: 10.78 EUR) en el siguiente enlace!

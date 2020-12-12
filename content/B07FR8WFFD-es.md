@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'SAMSONITE Dream Rider - Suitcase  Equipaje Infantil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FR8WFFD/?tag=tolees-21'
+descuento: '28.16'
+titulo: 'SAMSONITE Dream Rider - Suitcase  Equipa'
 ---
 
 Tienes [SAMSONITE Dream Rider - Suitcase  Equipaje Infantil](https://www.amazon.es/dp/B07FR8WFFD/?tag=tolees-21) con un 28.16 % de descuento con precio de oferta de 49.57 EUR (original: 69 EUR) en el siguiente enlace!

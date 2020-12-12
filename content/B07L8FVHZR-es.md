@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Pulsera de Actividad Inteligente Pantalla a Color Impermeable IP67 Pulsómetro con Monitor de Ritmo Cardíaco Monitor de Actividad Podómetro Monitor de Calorías y Sueño Fitness Tracker  Negro & Púrpura '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L8FVHZR/?tag=tolees-21'
+descuento: '63.01'
+titulo: 'Pulsera de Actividad Inteligente Pantall'
 ---
 
 Tienes [Pulsera de Actividad Inteligente Pantalla a Color Impermeable IP67 Pulsómetro con Monitor de Ritmo Cardíaco Monitor de Actividad Podómetro Monitor de Calorías y Sueño Fitness Tracker  Negro & Púrpura ](https://www.amazon.es/dp/B07L8FVHZR/?tag=tolees-21) con un 63.01 % de descuento con precio de oferta de 36.99 EUR (original: 99.99 EUR) en el siguiente enlace!

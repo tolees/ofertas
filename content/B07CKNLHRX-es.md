@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'EverVanz Mochila Lona Impermeable de Cuero  Mochila Viaje  Mochila Escuela'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CKNLHRX/?tag=tolees-21'
+descuento: '87.51'
+titulo: 'EverVanz Mochila Lona Impermeable de Cue'
 ---
 
 Está [EverVanz Mochila Lona Impermeable de Cuero  Mochila Viaje  Mochila Escuela](https://www.amazon.es/dp/B07CKNLHRX/?tag=tolees-21) con 87.51 de descuento por 9.99 EUR (original: 79.99 EUR) en el siguiente enlace!

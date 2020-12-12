@@ -17,6 +17,9 @@ comparePrice: 195 EUR
 inStock: true
 prodname: 'Lacoste Bf4175 Chaqueta  Blanc Encrier 8u7  38 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JFGCDNW/?tag=tolees-21'
+descuento: '49.49'
+titulo: 'Lacoste Bf4175 Chaqueta  Blanc Encrier 8'
 ---
 
 Está [Lacoste Bf4175 Chaqueta  Blanc Encrier 8u7  38 para Mujer](https://www.amazon.es/dp/B07JFGCDNW/?tag=tolees-21) con 49.49 de descuento por 98.5 EUR (original: 195 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Marmot 83900-001-5 Chaqueta  Hombre  Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011PMD3GE/?tag=tolees-21'
+descuento: '49.30'
+titulo: 'Marmot 83900-001-5 Chaqueta  Hombre  Neg'
 ---
 
 Ahora mismo tienes [Marmot 83900-001-5 Chaqueta  Hombre  Negro  L](https://www.amazon.es/dp/B011PMD3GE/?tag=tolees-21) a 45.63 EUR (original: 90 EUR) (49.30 %  de descuento) en el siguiente enlace!

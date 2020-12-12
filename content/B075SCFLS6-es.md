@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 1512021  Camisa casual para Hombre  Azul  Blue 14   Medium  Tamaño del fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SCFLS6/?tag=tolees-21'
+descuento: '65.60'
+titulo: 'Springfield 1512021  Camisa casual para '
 ---
 
 Tienes [Springfield 1512021  Camisa casual para Hombre  Azul  Blue 14   Medium  Tamaño del fabricante:M ](https://www.amazon.es/dp/B075SCFLS6/?tag=tolees-21) con un 65.60 % de descuento con precio de oferta de 8.94 EUR (original: 25.99 EUR) en el siguiente enlace!

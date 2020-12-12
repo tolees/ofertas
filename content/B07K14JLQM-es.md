@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'adidas X Club Shin Guards  Unisex Adulto  Active Red/Black/Off White  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K14JLQM/?tag=tolees-21'
+descuento: '40.13'
+titulo: 'adidas X Club Shin Guards  Unisex Adulto'
 ---
 
 Tienes [adidas X Club Shin Guards  Unisex Adulto  Active Red/Black/Off White  XL](https://www.amazon.es/dp/B07K14JLQM/?tag=tolees-21) con un 40.13 % de descuento con precio de oferta de 8.95 EUR (original: 14.95 EUR) en el siguiente enlace!

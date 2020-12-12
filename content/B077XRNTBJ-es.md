@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Under Armour Tech Pant Pantalones  niña  Academy  YXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XRNTBJ/?tag=tolees-21'
+descuento: '63.63'
+titulo: 'Under Armour Tech Pant Pantalones  niña '
 ---
 
 Ahora mismo tienes [Under Armour Tech Pant Pantalones  niña  Academy  YXL](https://www.amazon.es/dp/B077XRNTBJ/?tag=tolees-21) a 12.73 EUR (original: 35 EUR) (63.63 %  de descuento) en el siguiente enlace!

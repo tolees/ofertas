@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'New Style Boutique 3: Estilismo para celebrities'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RJ3YG8/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'New Style Boutique 3: Estilismo para cel'
 ---
 
 Ahora mismo tienes [New Style Boutique 3: Estilismo para celebrities](https://www.amazon.es/dp/B075RJ3YG8/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

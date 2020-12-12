@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Berg Outdoor Fragas Chaqueta  Hombre  Negro  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GTHM2Z4/?tag=tolees-21'
+descuento: '81.32'
+titulo: 'Berg Outdoor Fragas Chaqueta  Hombre  Ne'
 ---
 
 Está [Berg Outdoor Fragas Chaqueta  Hombre  Negro  M](https://www.amazon.es/dp/B07GTHM2Z4/?tag=tolees-21) con 81.32 de descuento por 24.27 EUR (original: 129.95 EUR) en el siguiente enlace!

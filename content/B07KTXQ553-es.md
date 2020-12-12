@@ -17,6 +17,9 @@ comparePrice: 82.99 EUR
 inStock: true
 prodname: 'Adidas Streetfire  Zapatillas de Baloncesto para Hombre  Negro Negbás/Ftwbla 000  39 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTXQ553/?tag=tolees-21'
+descuento: '39.76'
+titulo: 'Adidas Streetfire  Zapatillas de Balonce'
 ---
 
 Ahora mismo tienes [Adidas Streetfire  Zapatillas de Baloncesto para Hombre  Negro Negbás/Ftwbla 000  39 1/3 EU](https://www.amazon.es/dp/B07KTXQ553/?tag=tolees-21) a 49.99 EUR (original: 82.99 EUR) (39.76 %  de descuento) en el siguiente enlace!

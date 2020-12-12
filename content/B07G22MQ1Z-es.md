@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Friday The 13th: The Game - Ultimate Slasher Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G22MQ1Z/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'Friday The 13th: The Game - Ultimate Sla'
 ---
 
 Tienes [Friday The 13th: The Game - Ultimate Slasher Edition](https://www.amazon.es/dp/B07G22MQ1Z/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 17.49 EUR (original: 24.99 EUR) en el siguiente enlace!

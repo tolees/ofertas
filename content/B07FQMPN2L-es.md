@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Clarks Step Maro Sol  Zapatillas para Hombre  Azul  Navy-   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQMPN2L/?tag=tolees-21'
+descuento: '55.71'
+titulo: 'Clarks Step Maro Sol  Zapatillas para Ho'
 ---
 
 Tienes [Clarks Step Maro Sol  Zapatillas para Hombre  Azul  Navy-   41 EU](https://www.amazon.es/dp/B07FQMPN2L/?tag=tolees-21) con un 55.71 % de descuento con precio de oferta de 30.98 EUR (original: 69.95 EUR) en el siguiente enlace!

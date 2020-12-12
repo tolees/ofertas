@@ -17,6 +17,9 @@ comparePrice: 29.2 EUR
 inStock: true
 prodname: 'Faber Castell  - lapiz hexagonal bicolor con mina gruesa de 4 3 mm  1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000WGWSTI/?tag=tolees-21'
+descuento: '93.18'
+titulo: 'Faber Castell  - lapiz hexagonal bicolor'
 ---
 
 Tienes [Faber Castell  - lapiz hexagonal bicolor con mina gruesa de 4 3 mm  1 unidad](https://www.amazon.es/dp/B000WGWSTI/?tag=tolees-21) con un 93.18 % de descuento con precio de oferta de 1.99 EUR (original: 29.2 EUR) en el siguiente enlace!

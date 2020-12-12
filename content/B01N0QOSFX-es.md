@@ -17,6 +17,9 @@ comparePrice: 80.98 EUR
 inStock: true
 prodname: 'Lacoste Bayliss  Bajos para Hombre  Rojo  Red   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0QOSFX/?tag=tolees-21'
+descuento: '42.47'
+titulo: 'Lacoste Bayliss  Bajos para Hombre  Rojo'
 ---
 
 Está [Lacoste Bayliss  Bajos para Hombre  Rojo  Red   39.5 EU](https://www.amazon.es/dp/B01N0QOSFX/?tag=tolees-21) con 42.47 de descuento por 46.59 EUR (original: 80.98 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'LED Bombillas para Coche Faros Delanteros - 1 par  AUTLEAD H4 Luces Altas/Bajas  Luz Antiniebla  CSP 70W 7200LM  Blanco Frío de 6500K  Kit de Conversión Impermeable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F85H8CB/?tag=tolees-21'
+descuento: '52.86'
+titulo: 'LED Bombillas para Coche Faros Delantero'
 ---
 
 Está [LED Bombillas para Coche Faros Delanteros - 1 par  AUTLEAD H4 Luces Altas/Bajas  Luz Antiniebla  CSP 70W 7200LM  Blanco Frío de 6500K  Kit de Conversión Impermeable](https://www.amazon.es/dp/B07F85H8CB/?tag=tolees-21) con 52.86 de descuento por 32.99 EUR (original: 69.99 EUR) en el siguiente enlace!

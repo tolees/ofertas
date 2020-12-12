@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Vans Otw Classic Camiseta  Gris  Heather-White Tdj   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2QXC45/?tag=tolees-21'
+descuento: '31.33'
+titulo: 'Vans Otw Classic Camiseta  Gris  Heather'
 ---
 
 Tienes [Vans Otw Classic Camiseta  Gris  Heather-White Tdj   Small para Hombre](https://www.amazon.es/dp/B07F2QXC45/?tag=tolees-21) con un 31.33 % de descuento con precio de oferta de 20.6 EUR (original: 30 EUR) en el siguiente enlace!

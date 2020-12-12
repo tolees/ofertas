@@ -17,6 +17,9 @@ comparePrice: 177.95 EUR
 inStock: true
 prodname: 'Doc Johnson Coches del Amor - 1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004HJLZO0/?tag=tolees-21'
+descuento: '71.00'
+titulo: 'Doc Johnson Coches del Amor - 1 unidad'
 ---
 
 Está [Doc Johnson Coches del Amor - 1 unidad](https://www.amazon.es/dp/B004HJLZO0/?tag=tolees-21) con 71.00 de descuento por 51.6 EUR (original: 177.95 EUR) en el siguiente enlace!

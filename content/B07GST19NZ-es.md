@@ -17,6 +17,9 @@ comparePrice: 25.55 EUR
 inStock: true
 prodname: 'Bombilla de luz LED - GreeSuit - RGBW de color cambiante Lámpara con control remoto Bombillas de noche de estado de ánimo para la fiesta de decoración del hogar - Paquete de 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GST19NZ/?tag=tolees-21'
+descuento: '41.33'
+titulo: 'Bombilla de luz LED - GreeSuit - RGBW de'
 ---
 
 Ahora mismo tienes [Bombilla de luz LED - GreeSuit - RGBW de color cambiante Lámpara con control remoto Bombillas de noche de estado de ánimo para la fiesta de decoración del hogar - Paquete de 2](https://www.amazon.es/dp/B07GST19NZ/?tag=tolees-21) a 14.99 EUR (original: 25.55 EUR) (41.33 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Mr. Wonderful Soy La Creme De La Creme Neceseres  30 cm  litros  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074CC52RZ/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'Mr. Wonderful Soy La Creme De La Creme N'
 ---
 
 Tienes [Mr. Wonderful Soy La Creme De La Creme Neceseres  30 cm  litros  Azul](https://www.amazon.es/dp/B074CC52RZ/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 7.48 EUR (original: 14.95 EUR) en el siguiente enlace!

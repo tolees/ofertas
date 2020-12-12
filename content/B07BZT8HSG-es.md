@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Levi s Woods  Zapatillas para Hombre  Negro  Brillant Black 60   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BZT8HSG/?tag=tolees-21'
+descuento: '35.00'
+titulo: 'Levi s Woods  Zapatillas para Hombre  Ne'
 ---
 
 Tienes [Levi s Woods  Zapatillas para Hombre  Negro  Brillant Black 60   45 EU](https://www.amazon.es/dp/B07BZT8HSG/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 39 EUR (original: 60 EUR) en el siguiente enlace!

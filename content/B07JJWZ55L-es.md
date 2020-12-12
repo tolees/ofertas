@@ -17,6 +17,9 @@ comparePrice: 124.99 EUR
 inStock: true
 prodname: 'Taladro atornillador brushless URCERI 20V  taladro sin escobillas a batería  par máximo 48 N.m  19+1  2 velocidades  batería de 2.0A  luz LED de trabajo  41 accesorios incluídos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJWZ55L/?tag=tolees-21'
+descuento: '32.00'
+titulo: 'Taladro atornillador brushless URCERI 20'
 ---
 
 Ahora mismo tienes [Taladro atornillador brushless URCERI 20V  taladro sin escobillas a batería  par máximo 48 N.m  19+1  2 velocidades  batería de 2.0A  luz LED de trabajo  41 accesorios incluídos](https://www.amazon.es/dp/B07JJWZ55L/?tag=tolees-21) a 84.99 EUR (original: 124.99 EUR) (32.00 %  de descuento) en el siguiente enlace!

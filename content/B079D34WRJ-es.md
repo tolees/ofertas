@@ -17,6 +17,9 @@ comparePrice: 7.27 EUR
 inStock: true
 prodname: 'Little Trees mtr0077 Ciudad Estilo Fragancia ambientador  Set de 24'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079D34WRJ/?tag=tolees-21'
+descuento: '34.25'
+titulo: 'Little Trees mtr0077 Ciudad Estilo Fraga'
 ---
 
 Ahora mismo tienes [Little Trees mtr0077 Ciudad Estilo Fragancia ambientador  Set de 24](https://www.amazon.es/dp/B079D34WRJ/?tag=tolees-21) a 4.78 EUR (original: 7.27 EUR) (34.25 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 50.91 EUR
 inStock: true
 prodname: 'Nike Bolsa  Talla Única  Mineral Spruce/Outdoor Green'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014B8JU4S/?tag=tolees-21'
+descuento: '47.12'
+titulo: 'Nike Bolsa  Talla Única  Mineral Spruce/'
 ---
 
 Ahora mismo tienes [Nike Bolsa  Talla Única  Mineral Spruce/Outdoor Green](https://www.amazon.es/dp/B014B8JU4S/?tag=tolees-21) a 26.92 EUR (original: 50.91 EUR) (47.12 %  de descuento) en el siguiente enlace!

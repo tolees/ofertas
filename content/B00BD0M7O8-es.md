@@ -17,6 +17,9 @@ comparePrice: 37.29 EUR
 inStock: true
 prodname: 'BRA- Grill asador con Rayas  Aluminio Fundido con Antiadherente Teflon Select  aptas para Todo Tipo de cocinas incluida inducción  Terra 22 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BD0M7O8/?tag=tolees-21'
+descuento: '38.35'
+titulo: 'BRA- Grill asador con Rayas  Aluminio Fu'
 ---
 
 Tienes [BRA- Grill asador con Rayas  Aluminio Fundido con Antiadherente Teflon Select  aptas para Todo Tipo de cocinas incluida inducción  Terra 22 cm](https://www.amazon.es/dp/B00BD0M7O8/?tag=tolees-21) con un 38.35 % de descuento con precio de oferta de 22.99 EUR (original: 37.29 EUR) en el siguiente enlace!

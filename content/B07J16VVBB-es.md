@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'OCDAY Syma Z3 Drone con Camara HD 720P WiFi FPV  Drones para Niños  Radiocontrol Cuadricóptero con Función de Estabilización Óptica  Modo sin Cabeza y Rotación de 360°  Manual en Español '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J16VVBB/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'OCDAY Syma Z3 Drone con Camara HD 720P W'
 ---
 
 Ahora mismo tienes [OCDAY Syma Z3 Drone con Camara HD 720P WiFi FPV  Drones para Niños  Radiocontrol Cuadricóptero con Función de Estabilización Óptica  Modo sin Cabeza y Rotación de 360°  Manual en Español ](https://www.amazon.es/dp/B07J16VVBB/?tag=tolees-21) a 49.99 EUR (original: 99.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

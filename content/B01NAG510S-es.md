@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Lee Chino Short  Pantalones Cortos para Hombre   Indigo Stripe   52  Talla del Fabricante: 36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NAG510S/?tag=tolees-21'
+descuento: '69.85'
+titulo: 'Lee Chino Short  Pantalones Cortos para '
 ---
 
 Está [Lee Chino Short  Pantalones Cortos para Hombre   Indigo Stripe   52  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B01NAG510S/?tag=tolees-21) con 69.85 de descuento por 19.6 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Bronson Service Straight Tapered  Pantalones Hombre  Azul  Sartho Blue 6067   W26/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BG85D6X/?tag=tolees-21'
+descuento: '87.14'
+titulo: 'G-STAR RAW Bronson Service Straight Tape'
 ---
 
 Ahora mismo tienes [G-STAR RAW Bronson Service Straight Tapered  Pantalones Hombre  Azul  Sartho Blue 6067   W26/L30](https://www.amazon.es/dp/B07BG85D6X/?tag=tolees-21) a 19.28 EUR (original: 149.95 EUR) (87.14 %  de descuento) en el siguiente enlace!

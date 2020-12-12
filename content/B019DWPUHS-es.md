@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Geox U AILAND A  Zapatillas para Hombre  Rot  BURGUNDYC7016   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019DWPUHS/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Geox U AILAND A  Zapatillas para Hombre '
 ---
 
 Está [Geox U AILAND A  Zapatillas para Hombre  Rot  BURGUNDYC7016   40 EU](https://www.amazon.es/dp/B019DWPUHS/?tag=tolees-21) con 50.00 de descuento por 62.5 EUR (original: 125 EUR) en el siguiente enlace!

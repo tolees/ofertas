@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Vans Rutland III Sudadera   Asphalt Jazzy Heather Tpx   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F31RKT2/?tag=tolees-21'
+descuento: '57.02'
+titulo: 'Vans Rutland III Sudadera   Asphalt Jazz'
 ---
 
 Está [Vans Rutland III Sudadera   Asphalt Jazzy Heather Tpx   Small para Hombre](https://www.amazon.es/dp/B07F31RKT2/?tag=tolees-21) con 57.02 de descuento por 25.79 EUR (original: 60 EUR) en el siguiente enlace!

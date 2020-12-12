@@ -17,6 +17,9 @@ comparePrice: 9.95 EUR
 inStock: true
 prodname: 'Educa Borrás- Dibujos Animados y cómic  Color educa te Ofrece la colección de Puzzles Adultos má  29-15512 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00B7MNZQG/?tag=tolees-21'
+descuento: '61.31'
+titulo: 'Educa Borrás- Dibujos Animados y cómic  '
 ---
 
 Está [Educa Borrás- Dibujos Animados y cómic  Color educa te Ofrece la colección de Puzzles Adultos má  29-15512 ](https://www.amazon.es/dp/B00B7MNZQG/?tag=tolees-21) con 61.31 de descuento por 3.85 EUR (original: 9.95 EUR) en el siguiente enlace!

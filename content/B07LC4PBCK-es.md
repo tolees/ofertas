@@ -17,6 +17,9 @@ comparePrice: 68.94 EUR
 inStock: true
 prodname: 'READ Curren montre- de Piel  Cuarzo analógico  diseño Simple de Luxe clásico de Negocios  con 3 Reloj  Braun-White '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LC4PBCK/?tag=tolees-21'
+descuento: '61.07'
+titulo: 'READ Curren montre- de Piel  Cuarzo anal'
 ---
 
 Ahora mismo tienes [READ Curren montre- de Piel  Cuarzo analógico  diseño Simple de Luxe clásico de Negocios  con 3 Reloj  Braun-White ](https://www.amazon.es/dp/B07LC4PBCK/?tag=tolees-21) a 26.84 EUR (original: 68.94 EUR) (61.07 %  de descuento) en el siguiente enlace!

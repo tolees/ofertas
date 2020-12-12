@@ -17,6 +17,9 @@ comparePrice: 74.84 EUR
 inStock: true
 prodname: 'Arrancador de Coche Portatil 6000mAh 400A Jump Starter Power Bank Arrancador de Moto Arranque para 12V 2.5L Gasolina con Entrada de tipo USB Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077B8S1JF/?tag=tolees-21'
+descuento: '42.56'
+titulo: 'Arrancador de Coche Portatil 6000mAh 400'
 ---
 
 Ahora mismo tienes [Arrancador de Coche Portatil 6000mAh 400A Jump Starter Power Bank Arrancador de Moto Arranque para 12V 2.5L Gasolina con Entrada de tipo USB Rojo ](https://www.amazon.es/dp/B077B8S1JF/?tag=tolees-21) a 42.99 EUR (original: 74.84 EUR) (42.56 %  de descuento) en el siguiente enlace!

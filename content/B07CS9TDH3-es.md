@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Finsbury  Vaqueros para Hombre  Negro  Denim WE3  29W / 34L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CS9TDH3/?tag=tolees-21'
+descuento: '59.59'
+titulo: 'Pepe Jeans Finsbury  Vaqueros para Hombr'
 ---
 
 Está [Pepe Jeans Finsbury  Vaqueros para Hombre  Negro  Denim WE3  29W / 34L](https://www.amazon.es/dp/B07CS9TDH3/?tag=tolees-21) con 59.59 de descuento por 32.29 EUR (original: 79.9 EUR) en el siguiente enlace!

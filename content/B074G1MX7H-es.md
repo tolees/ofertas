@@ -17,6 +17,9 @@ comparePrice: 279.95 EUR
 inStock: true
 prodname: 'gb Gold - Silla de paseo Qbit+  viaje de lujo  Travel System 3 en 1  desde el nacimiento hasta los 17 kg  4 años aprox.   Satin Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074G1MX7H/?tag=tolees-21'
+descuento: '35.00'
+titulo: 'gb Gold - Silla de paseo Qbit+  viaje de'
 ---
 
 Está [gb Gold - Silla de paseo Qbit+  viaje de lujo  Travel System 3 en 1  desde el nacimiento hasta los 17 kg  4 años aprox.   Satin Black](https://www.amazon.es/dp/B074G1MX7H/?tag=tolees-21) con 35.00 de descuento por 181.97 EUR (original: 279.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Lafuma Tumbona relax  Plegable y ajustable  RSXA Clip  Baytline  Beige  LFM2035-8548'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0759NV9CX/?tag=tolees-21'
+descuento: '49.77'
+titulo: 'Lafuma Tumbona relax  Plegable y ajustab'
 ---
 
 Tienes [Lafuma Tumbona relax  Plegable y ajustable  RSXA Clip  Baytline  Beige  LFM2035-8548](https://www.amazon.es/dp/B0759NV9CX/?tag=tolees-21) con un 49.77 % de descuento con precio de oferta de 99.95 EUR (original: 199 EUR) en el siguiente enlace!

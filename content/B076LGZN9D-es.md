@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'INTEY Herramienta Multiusos 11 en 1 Alicate multifunción plegables de Acero Inoxidable Destornillador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076LGZN9D/?tag=tolees-21'
+descuento: '53.35'
+titulo: 'INTEY Herramienta Multiusos 11 en 1 Alic'
 ---
 
 Está [INTEY Herramienta Multiusos 11 en 1 Alicate multifunción plegables de Acero Inoxidable Destornillador](https://www.amazon.es/dp/B076LGZN9D/?tag=tolees-21) con 53.35 de descuento por 13.99 EUR (original: 29.99 EUR) en el siguiente enlace!

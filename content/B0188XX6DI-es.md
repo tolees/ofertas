@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'The North Face S/S Dome Camiseta De Manga Corta Simple  Mujer  White/TNF Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0188XX6DI/?tag=tolees-21'
+descuento: '34.20'
+titulo: 'The North Face S/S Dome Camiseta De Mang'
 ---
 
 Ahora mismo tienes [The North Face S/S Dome Camiseta De Manga Corta Simple  Mujer  White/TNF Black  S](https://www.amazon.es/dp/B0188XX6DI/?tag=tolees-21) a 16.45 EUR (original: 25 EUR) (34.20 %  de descuento) en el siguiente enlace!

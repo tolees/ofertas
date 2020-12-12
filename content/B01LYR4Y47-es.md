@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'SUENOSZZZ - Cabecero Liso  Estructura de Madera de Pino  tapizado Acolchado en Polipiel Color Azul. Cabeceros Madera para Dormitorio | Cama Juvenil | Camas de 90'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYR4Y47/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'SUENOSZZZ - Cabecero Liso  Estructura de'
 ---
 
 Está [SUENOSZZZ - Cabecero Liso  Estructura de Madera de Pino  tapizado Acolchado en Polipiel Color Azul. Cabeceros Madera para Dormitorio | Cama Juvenil | Camas de 90](https://www.amazon.es/dp/B01LYR4Y47/?tag=tolees-21) con 50.01 de descuento por 44.99 EUR (original: 89.99 EUR) en el siguiente enlace!

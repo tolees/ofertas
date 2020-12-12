@@ -17,6 +17,9 @@ comparePrice: 18.85 EUR
 inStock: true
 prodname: 'Nikon BS-1 - Zapata de conexión para Flash  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000KZ70JE/?tag=tolees-21'
+descuento: '41.75'
+titulo: 'Nikon BS-1 - Zapata de conexión para Fla'
 ---
 
 Está [Nikon BS-1 - Zapata de conexión para Flash  Negro](https://www.amazon.es/dp/B000KZ70JE/?tag=tolees-21) con 41.75 de descuento por 10.98 EUR (original: 18.85 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Adreno III It  Zapatillas de Fútbol para Hombre  Blanco  White-Black-Fiery Coral   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HNWBTH/?tag=tolees-21'
+descuento: '53.07'
+titulo: 'Puma Adreno III It  Zapatillas de Fútbol'
 ---
 
 Ahora mismo tienes [Puma Adreno III It  Zapatillas de Fútbol para Hombre  Blanco  White-Black-Fiery Coral   44.5 EU](https://www.amazon.es/dp/B071HNWBTH/?tag=tolees-21) a 18.75 EUR (original: 39.95 EUR) (53.07 %  de descuento) en el siguiente enlace!

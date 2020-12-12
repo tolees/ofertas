@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Cinta Métrica Retráctil de 5 Metros con Botón de Bloqueo y Gancho Cero Absoluto para Personal de Mantenimiento  Construcción y Carpintería; TUCANO Tools'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C8KVZB7/?tag=tolees-21'
+descuento: '34.73'
+titulo: 'Cinta Métrica Retráctil de 5 Metros con '
 ---
 
 Está [Cinta Métrica Retráctil de 5 Metros con Botón de Bloqueo y Gancho Cero Absoluto para Personal de Mantenimiento  Construcción y Carpintería; TUCANO Tools](https://www.amazon.es/dp/B07C8KVZB7/?tag=tolees-21) con 34.73 de descuento por 16.97 EUR (original: 26 EUR) en el siguiente enlace!

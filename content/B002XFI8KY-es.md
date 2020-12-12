@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Dickies Slim Fit Straight - Pantalones para hombre  Azul  Dark Navy DN   W34/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002XFI8KY/?tag=tolees-21'
+descuento: '62.84'
+titulo: 'Dickies Slim Fit Straight - Pantalones p'
 ---
 
 Está [Dickies Slim Fit Straight - Pantalones para hombre  Azul  Dark Navy DN   W34/L34](https://www.amazon.es/dp/B002XFI8KY/?tag=tolees-21) con 62.84 de descuento por 20.44 EUR (original: 55 EUR) en el siguiente enlace!

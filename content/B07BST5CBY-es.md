@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Nike Downshifter 8  GS   Zapatillas de Deporte para Mujer   Midnight Navy/Flash Crimson/Oil Grey 401   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BST5CBY/?tag=tolees-21'
+descuento: '32.32'
+titulo: 'Nike Downshifter 8  GS   Zapatillas de D'
 ---
 
 Tienes [Nike Downshifter 8  GS   Zapatillas de Deporte para Mujer   Midnight Navy/Flash Crimson/Oil Grey 401   38 EU](https://www.amazon.es/dp/B07BST5CBY/?tag=tolees-21) con un 32.32 % de descuento con precio de oferta de 33.84 EUR (original: 50 EUR) en el siguiente enlace!

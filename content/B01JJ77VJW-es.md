@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Reebok Classic Leather Zapatillas  Mujer  Negro  Int / Black / Gum   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JJ77VJW/?tag=tolees-21'
+descuento: '41.69'
+titulo: 'Reebok Classic Leather Zapatillas  Mujer'
 ---
 
 Tienes [Reebok Classic Leather Zapatillas  Mujer  Negro  Int / Black / Gum   42 EU](https://www.amazon.es/dp/B01JJ77VJW/?tag=tolees-21) con un 41.69 % de descuento con precio de oferta de 52.45 EUR (original: 89.95 EUR) en el siguiente enlace!

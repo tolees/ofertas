@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Diesel S-Happy Low  Zapatillas para Hombre  Azul  Blue T8059   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077CVHFRN/?tag=tolees-21'
+descuento: '66.11'
+titulo: 'Diesel S-Happy Low  Zapatillas para Homb'
 ---
 
 Ahora mismo tienes [Diesel S-Happy Low  Zapatillas para Hombre  Azul  Blue T8059   43 EU](https://www.amazon.es/dp/B077CVHFRN/?tag=tolees-21) a 33.89 EUR (original: 100 EUR) (66.11 %  de descuento) en el siguiente enlace!

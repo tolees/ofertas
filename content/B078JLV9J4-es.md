@@ -17,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'Ray-Ban Junior 0rb4340 601/4o 50 Gafas de Sol  Black  Unisex'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078JLV9J4/?tag=tolees-21'
+descuento: '38.46'
+titulo: 'Ray-Ban Junior 0rb4340 601/4o 50 Gafas d'
 ---
 
 Está [Ray-Ban Junior 0rb4340 601/4o 50 Gafas de Sol  Black  Unisex](https://www.amazon.es/dp/B078JLV9J4/?tag=tolees-21) con 38.46 de descuento por 110.16 EUR (original: 179 EUR) en el siguiente enlace!

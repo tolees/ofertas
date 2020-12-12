@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'FinBurst Rodillera Deportiva - Mejore su Recuperación y Confianza - Las Mejores Rodilleras Ortopédicas para Menisco  Artrosis  Ligamentos etc.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016BVC3UQ/?tag=tolees-21'
+descuento: '30.54'
+titulo: 'FinBurst Rodillera Deportiva - Mejore su'
 ---
 
 Está [FinBurst Rodillera Deportiva - Mejore su Recuperación y Confianza - Las Mejores Rodilleras Ortopédicas para Menisco  Artrosis  Ligamentos etc.](https://www.amazon.es/dp/B016BVC3UQ/?tag=tolees-21) con 30.54 de descuento por 17.33 EUR (original: 24.95 EUR) en el siguiente enlace!

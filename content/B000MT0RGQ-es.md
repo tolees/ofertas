@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Birkenstock Arizona Birko-Flor Nubuck  Sandalias de Punta Descubierta Unisex Adulto  Beige  Grau  Nubuk Stone   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000MT0RGQ/?tag=tolees-21'
+descuento: '39.40'
+titulo: 'Birkenstock Arizona Birko-Flor Nubuck  S'
 ---
 
 Tienes [Birkenstock Arizona Birko-Flor Nubuck  Sandalias de Punta Descubierta Unisex Adulto  Beige  Grau  Nubuk Stone   43 EU](https://www.amazon.es/dp/B000MT0RGQ/?tag=tolees-21) con un 39.40 % de descuento con precio de oferta de 45.45 EUR (original: 75 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 22.81 EUR
 inStock: true
 prodname: 'neolab 1 – 0155 – Vaso con boquilla  forma baja Kimax Boro 3.3  250 ml  cristal'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HLS63L/?tag=tolees-21'
+descuento: '63.09'
+titulo: 'neolab 1 – 0155 – Vaso con boquilla  for'
 ---
 
 Tienes [neolab 1 – 0155 – Vaso con boquilla  forma baja Kimax Boro 3.3  250 ml  cristal](https://www.amazon.es/dp/B078HLS63L/?tag=tolees-21) con un 63.09 % de descuento con precio de oferta de 8.42 EUR (original: 22.81 EUR) en el siguiente enlace!

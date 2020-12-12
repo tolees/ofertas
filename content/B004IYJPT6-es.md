@@ -17,6 +17,9 @@ comparePrice: 33 EUR
 inStock: true
 prodname: 'VAUDE Ayla - Pequeña mochila para niños - 6 litros  29 x 21 x 12 cm  color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004IYJPT6/?tag=tolees-21'
+descuento: '41.03'
+titulo: 'VAUDE Ayla - Pequeña mochila para niños '
 ---
 
 Está [VAUDE Ayla - Pequeña mochila para niños - 6 litros  29 x 21 x 12 cm  color azul](https://www.amazon.es/dp/B004IYJPT6/?tag=tolees-21) con 41.03 de descuento por 19.46 EUR (original: 33 EUR) en el siguiente enlace!

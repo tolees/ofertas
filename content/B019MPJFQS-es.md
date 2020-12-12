@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'adidas Zapatillas ZX Flux Azul/Blanco EU 36 2/3  UK 4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019MPJFQS/?tag=tolees-21'
+descuento: '73.31'
+titulo: 'adidas Zapatillas ZX Flux Azul/Blanco EU'
 ---
 
 Está [adidas Zapatillas ZX Flux Azul/Blanco EU 36 2/3  UK 4 ](https://www.amazon.es/dp/B019MPJFQS/?tag=tolees-21) con 73.31 de descuento por 25.36 EUR (original: 95 EUR) en el siguiente enlace!

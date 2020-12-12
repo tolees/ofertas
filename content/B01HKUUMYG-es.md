@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'LANGRIA Colchoncillo Topper 5 cm de Grosor de Espuma de Memoria de Forma  Funda de Tejido Transpirable Desmontable  Cama de 135  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HKUUMYG/?tag=tolees-21'
+descuento: '35.79'
+titulo: 'LANGRIA Colchoncillo Topper 5 cm de Gros'
 ---
 
 Está [LANGRIA Colchoncillo Topper 5 cm de Grosor de Espuma de Memoria de Forma  Funda de Tejido Transpirable Desmontable  Cama de 135  Blanco ](https://www.amazon.es/dp/B01HKUUMYG/?tag=tolees-21) con 35.79 de descuento por 69.99 EUR (original: 109 EUR) en el siguiente enlace!

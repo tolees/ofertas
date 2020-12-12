@@ -17,6 +17,9 @@ comparePrice: 18.86 EUR
 inStock: true
 prodname: 'KERIUM DS CREMA FACIAL 40 ML'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004A6WUWQ/?tag=tolees-21'
+descuento: '38.49'
+titulo: 'KERIUM DS CREMA FACIAL 40 ML'
 ---
 
 Está [KERIUM DS CREMA FACIAL 40 ML](https://www.amazon.es/dp/B004A6WUWQ/?tag=tolees-21) con 38.49 de descuento por 11.6 EUR (original: 18.86 EUR) en el siguiente enlace!

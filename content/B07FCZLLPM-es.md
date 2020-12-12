@@ -17,6 +17,9 @@ comparePrice: 64.78 EUR
 inStock: true
 prodname: 'Reebok Royal Complete CLN  Zapatillas de Deporte para Hombre   Black/Gum 000   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FCZLLPM/?tag=tolees-21'
+descuento: '49.94'
+titulo: 'Reebok Royal Complete CLN  Zapatillas de'
 ---
 
 Está [Reebok Royal Complete CLN  Zapatillas de Deporte para Hombre   Black/Gum 000   43 EU](https://www.amazon.es/dp/B07FCZLLPM/?tag=tolees-21) con 49.94 de descuento por 32.43 EUR (original: 64.78 EUR) en el siguiente enlace!

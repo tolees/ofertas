@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour Challenger II Knit Short Pantalón Corto  Hombre  Azul  Blue Circuit/Academy/Steel 436   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWDNHK3/?tag=tolees-21'
+descuento: '51.54'
+titulo: 'Under Armour Challenger II Knit Short Pa'
 ---
 
 Está [Under Armour Challenger II Knit Short Pantalón Corto  Hombre  Azul  Blue Circuit/Academy/Steel 436   M](https://www.amazon.es/dp/B07DWDNHK3/?tag=tolees-21) con 51.54 de descuento por 12.6 EUR (original: 26 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 22.47 EUR
 inStock: true
 prodname: 'Silverline 675152 - Candados con una sola llave  4 pzas  40 mm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000LFXT7U/?tag=tolees-21'
+descuento: '31.33'
+titulo: 'Silverline 675152 - Candados con una sol'
 ---
 
 Está [Silverline 675152 - Candados con una sola llave  4 pzas  40 mm ](https://www.amazon.es/dp/B000LFXT7U/?tag=tolees-21) con 31.33 de descuento por 15.43 EUR (original: 22.47 EUR) en el siguiente enlace!

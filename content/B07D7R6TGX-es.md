@@ -17,6 +17,9 @@ comparePrice: 43.25 EUR
 inStock: true
 prodname: 'ALEX AND ANI Brazalete Mujer latón - A18EBSMTRG'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7R6TGX/?tag=tolees-21'
+descuento: '26.47'
+titulo: 'ALEX AND ANI Brazalete Mujer latón - A18'
 ---
 
 Ahora mismo tienes [ALEX AND ANI Brazalete Mujer latón - A18EBSMTRG](https://www.amazon.es/dp/B07D7R6TGX/?tag=tolees-21) a 31.8 EUR (original: 43.25 EUR) (26.47 %  de descuento) en el siguiente enlace!

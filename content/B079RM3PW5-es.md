@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'The North Face Nuptse Purna II  Botas de Nieve para Mujer  Marrón  Fig/Weathered Black 5rl   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RM3PW5/?tag=tolees-21'
+descuento: '62.18'
+titulo: 'The North Face Nuptse Purna II  Botas de'
 ---
 
 Tienes [The North Face Nuptse Purna II  Botas de Nieve para Mujer  Marrón  Fig/Weathered Black 5rl   38.5 EU](https://www.amazon.es/dp/B079RM3PW5/?tag=tolees-21) con un 62.18 % de descuento con precio de oferta de 60.52 EUR (original: 160 EUR) en el siguiente enlace!

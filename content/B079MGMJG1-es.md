@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face M Reaxion C Camiseta  Hombre  Gris Oscuro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079MGMJG1/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face M Reaxion C Camiseta  Hom'
 ---
 
 Ahora mismo tienes [The North Face M Reaxion C Camiseta  Hombre  Gris Oscuro  L](https://www.amazon.es/dp/B079MGMJG1/?tag=tolees-21) a 15 EUR (original: 30 EUR) (50.00 %  de descuento) en el siguiente enlace!

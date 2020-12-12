@@ -17,6 +17,9 @@ comparePrice: 259.99 EUR
 inStock: true
 prodname: 'Philips Sonicare Diamond Clean - Cepillo de dientes electrico recargable  Bluetooth  5 modos  3 intensidades  4 cabezales  vaso cargador  estuche  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075JNPJNL/?tag=tolees-21'
+descuento: '41.44'
+titulo: 'Philips Sonicare Diamond Clean - Cepillo'
 ---
 
 Tienes [Philips Sonicare Diamond Clean - Cepillo de dientes electrico recargable  Bluetooth  5 modos  3 intensidades  4 cabezales  vaso cargador  estuche  color blanco](https://www.amazon.es/dp/B075JNPJNL/?tag=tolees-21) con un 41.44 % de descuento con precio de oferta de 152.25 EUR (original: 259.99 EUR) en el siguiente enlace!

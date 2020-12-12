@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'EasyAcc Ventilador de Mano Mudo Estupendo Portátil y Plegable con 3 velocidades 2600mAh LG Batería Recargable Turquesa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NC2TS0C/?tag=tolees-21'
+descuento: '54.30'
+titulo: 'EasyAcc Ventilador de Mano Mudo Estupend'
 ---
 
 Tienes [EasyAcc Ventilador de Mano Mudo Estupendo Portátil y Plegable con 3 velocidades 2600mAh LG Batería Recargable Turquesa](https://www.amazon.es/dp/B01NC2TS0C/?tag=tolees-21) con un 54.30 % de descuento con precio de oferta de 15.99 EUR (original: 34.99 EUR) en el siguiente enlace!

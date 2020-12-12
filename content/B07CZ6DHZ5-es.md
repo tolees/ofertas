@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Asics Gel-movimentum 1192a002-001  Zapatillas para Mujer  Negro  Black/White 001   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ6DHZ5/?tag=tolees-21'
+descuento: '62.87'
+titulo: 'Asics Gel-movimentum 1192a002-001  Zapat'
 ---
 
 Tienes [Asics Gel-movimentum 1192a002-001  Zapatillas para Mujer  Negro  Black/White 001   38 EU](https://www.amazon.es/dp/B07CZ6DHZ5/?tag=tolees-21) con un 62.87 % de descuento con precio de oferta de 33.42 EUR (original: 90 EUR) en el siguiente enlace!

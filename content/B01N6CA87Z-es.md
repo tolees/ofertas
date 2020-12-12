@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'ONLY & SONS Onswarp Light Blue 6666 Pk Noos  Jeans Hombre  Azul  Light Denim   W28/L30  Talla del fabricante: 28 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6CA87Z/?tag=tolees-21'
+descuento: '68.07'
+titulo: 'ONLY & SONS Onswarp Light Blue 6666 Pk N'
 ---
 
 Está [ONLY & SONS Onswarp Light Blue 6666 Pk Noos  Jeans Hombre  Azul  Light Denim   W28/L30  Talla del fabricante: 28 ](https://www.amazon.es/dp/B01N6CA87Z/?tag=tolees-21) con 68.07 de descuento por 15.96 EUR (original: 49.99 EUR) en el siguiente enlace!

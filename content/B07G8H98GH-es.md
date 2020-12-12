@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Track Lab - Edición Estándar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G8H98GH/?tag=tolees-21'
+descuento: '35.07'
+titulo: 'Track Lab - Edición Estándar'
 ---
 
 Ahora mismo tienes [Track Lab - Edición Estándar](https://www.amazon.es/dp/B07G8H98GH/?tag=tolees-21) a 12.98 EUR (original: 19.99 EUR) (35.07 %  de descuento) en el siguiente enlace!

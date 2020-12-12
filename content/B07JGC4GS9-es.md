@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Lacoste Pf3960 Polo  Azul Encrier-Farine 7kd  44 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGC4GS9/?tag=tolees-21'
+descuento: '50.40'
+titulo: 'Lacoste Pf3960 Polo  Azul Encrier-Farine'
 ---
 
 Ahora mismo tienes [Lacoste Pf3960 Polo  Azul Encrier-Farine 7kd  44 para Mujer](https://www.amazon.es/dp/B07JGC4GS9/?tag=tolees-21) a 62 EUR (original: 125 EUR) (50.40 %  de descuento) en el siguiente enlace!

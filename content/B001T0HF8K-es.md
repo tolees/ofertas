@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Einhell 4460550 LIJADORA Orbital RT-OS 30  300 W  230 V'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001T0HF8K/?tag=tolees-21'
+descuento: '45.99'
+titulo: 'Einhell 4460550 LIJADORA Orbital RT-OS 3'
 ---
 
 Tienes [Einhell 4460550 LIJADORA Orbital RT-OS 30  300 W  230 V](https://www.amazon.es/dp/B001T0HF8K/?tag=tolees-21) con un 45.99 % de descuento con precio de oferta de 26.95 EUR (original: 49.9 EUR) en el siguiente enlace!

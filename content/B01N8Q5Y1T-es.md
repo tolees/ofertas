@@ -17,6 +17,9 @@ comparePrice: 125.99 EUR
 inStock: true
 prodname: 'LANGRIA Cama Temática Infantil Coche de Carreras de Fórmula 1 con Alerón y Láminas de Somier Incluidas  Capacidad Máxima 50kg  Rojo  Blanco  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8Q5Y1T/?tag=tolees-21'
+descuento: '44.45'
+titulo: 'LANGRIA Cama Temática Infantil Coche de '
 ---
 
 Tienes [LANGRIA Cama Temática Infantil Coche de Carreras de Fórmula 1 con Alerón y Láminas de Somier Incluidas  Capacidad Máxima 50kg  Rojo  Blanco  Negro ](https://www.amazon.es/dp/B01N8Q5Y1T/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 69.99 EUR (original: 125.99 EUR) en el siguiente enlace!

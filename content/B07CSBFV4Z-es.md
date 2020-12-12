@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Jaime Belt  Cinturón para Hombre    Black 999  90'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSBFV4Z/?tag=tolees-21'
+descuento: '70.38'
+titulo: 'Pepe Jeans Jaime Belt  Cinturón para Hom'
 ---
 
 Ahora mismo tienes [Pepe Jeans Jaime Belt  Cinturón para Hombre    Black 999  90](https://www.amazon.es/dp/B07CSBFV4Z/?tag=tolees-21) a 11.82 EUR (original: 39.9 EUR) (70.38 %  de descuento) en el siguiente enlace!

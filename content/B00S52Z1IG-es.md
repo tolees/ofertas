@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Smartwares 10.014.68 Extintor-2kg de Polvo seco Resistencia al Fuego ABC Incluye Soportes BB2  Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00S52Z1IG/?tag=tolees-21'
+descuento: '45.84'
+titulo: 'Smartwares 10.014.68 Extintor-2kg de Pol'
 ---
 
 Ahora mismo tienes [Smartwares 10.014.68 Extintor-2kg de Polvo seco Resistencia al Fuego ABC Incluye Soportes BB2  Rojo](https://www.amazon.es/dp/B00S52Z1IG/?tag=tolees-21) a 21.66 EUR (original: 39.99 EUR) (45.84 %  de descuento) en el siguiente enlace!

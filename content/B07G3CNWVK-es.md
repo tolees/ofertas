@@ -17,6 +17,9 @@ comparePrice: 499 EUR
 inStock: true
 prodname: 'Reloj - Swiss Military Hanowa - Para  - 7082.9837SAM'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G3CNWVK/?tag=tolees-21'
+descuento: '70.14'
+titulo: 'Reloj - Swiss Military Hanowa - Para  - '
 ---
 
 Está [Reloj - Swiss Military Hanowa - Para  - 7082.9837SAM](https://www.amazon.es/dp/B07G3CNWVK/?tag=tolees-21) con 70.14 de descuento por 149 EUR (original: 499 EUR) en el siguiente enlace!

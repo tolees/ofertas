@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Under Armour Zinger SL Polo  Mujer  Blanco White 100  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DP3DMN6/?tag=tolees-21'
+descuento: '56.69'
+titulo: 'Under Armour Zinger SL Polo  Mujer  Blan'
 ---
 
 Está [Under Armour Zinger SL Polo  Mujer  Blanco White 100  XS](https://www.amazon.es/dp/B07DP3DMN6/?tag=tolees-21) con 56.69 de descuento por 23.82 EUR (original: 55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Pepe Jeans Tinker Zero Seal  Zapatillas para Hombre  Verde  765KHAKI Green 765   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LFKYXPZ/?tag=tolees-21'
+descuento: '30.07'
+titulo: 'Pepe Jeans Tinker Zero Seal  Zapatillas '
 ---
 
 Está [Pepe Jeans Tinker Zero Seal  Zapatillas para Hombre  Verde  765KHAKI Green 765   41 EU](https://www.amazon.es/dp/B07LFKYXPZ/?tag=tolees-21) con 30.07 de descuento por 52.45 EUR (original: 75 EUR) en el siguiente enlace!

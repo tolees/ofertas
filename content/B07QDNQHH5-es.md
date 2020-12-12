@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Auricular Bluetooth AIJEESI 5.0 I10 Mini Touch Soporte Auriculares inalámbricos con Estuche de Carga inalámbrico portátil  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QDNQHH5/?tag=tolees-21'
+descuento: '66.67'
+titulo: 'Auricular Bluetooth AIJEESI 5.0 I10 Mini'
 ---
 
 Tienes [Auricular Bluetooth AIJEESI 5.0 I10 Mini Touch Soporte Auriculares inalámbricos con Estuche de Carga inalámbrico portátil  Blanco](https://www.amazon.es/dp/B07QDNQHH5/?tag=tolees-21) con un 66.67 % de descuento con precio de oferta de 42.99 EUR (original: 129 EUR) en el siguiente enlace!

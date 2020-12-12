@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Adidas Nemeziz 18.4 TF  Botas de fútbol para Hombre  000  40 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTWSC5J/?tag=tolees-21'
+descuento: '39.94'
+titulo: 'Adidas Nemeziz 18.4 TF  Botas de fútbol '
 ---
 
 Tienes [Adidas Nemeziz 18.4 TF  Botas de fútbol para Hombre  000  40 2/3 EU](https://www.amazon.es/dp/B07KTWSC5J/?tag=tolees-21) con un 39.94 % de descuento con precio de oferta de 30 EUR (original: 49.95 EUR) en el siguiente enlace!

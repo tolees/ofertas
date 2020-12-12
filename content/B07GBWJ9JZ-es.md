@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'El Ganso Básico Coderas  Jersey para Hombre  Azul  Azulón   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GBWJ9JZ/?tag=tolees-21'
+descuento: '48.42'
+titulo: 'El Ganso Básico Coderas  Jersey para Hom'
 ---
 
 Está [El Ganso Básico Coderas  Jersey para Hombre  Azul  Azulón   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07GBWJ9JZ/?tag=tolees-21) con 48.42 de descuento por 30.43 EUR (original: 59 EUR) en el siguiente enlace!

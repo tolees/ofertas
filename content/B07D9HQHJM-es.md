@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'adidas X Tango 18.3 TF  Zapatillas de Fútbol para Hombre  Negro Core Black/Footwear White 0  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9HQHJM/?tag=tolees-21'
+descuento: '56.01'
+titulo: 'adidas X Tango 18.3 TF  Zapatillas de Fú'
 ---
 
 Está [adidas X Tango 18.3 TF  Zapatillas de Fútbol para Hombre  Negro Core Black/Footwear White 0  44 EU](https://www.amazon.es/dp/B07D9HQHJM/?tag=tolees-21) con 56.01 de descuento por 35.17 EUR (original: 79.95 EUR) en el siguiente enlace!

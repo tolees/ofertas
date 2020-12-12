@@ -17,6 +17,9 @@ comparePrice: 14.2 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Camiseta Recta de Tejido Texturizado  Verde  ES 36 / XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072R2TZGQ/?tag=tolees-21'
+descuento: '68.31'
+titulo: 'oodji Ultra Mujer Camiseta Recta de Teji'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Camiseta Recta de Tejido Texturizado  Verde  ES 36 / XS](https://www.amazon.es/dp/B072R2TZGQ/?tag=tolees-21) a 4.5 EUR (original: 14.2 EUR) (68.31 %  de descuento) en el siguiente enlace!

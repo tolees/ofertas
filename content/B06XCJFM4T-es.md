@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Classic Trunk Clr 3 Pack  Pantalones Cortos Hombre   Lt Nassau Blue/Imperial B 8528   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCJFM4T/?tag=tolees-21'
+descuento: '29.99'
+titulo: 'G-STAR RAW Classic Trunk Clr 3 Pack  Pan'
 ---
 
 Está [G-STAR RAW Classic Trunk Clr 3 Pack  Pantalones Cortos Hombre   Lt Nassau Blue/Imperial B 8528   Medium](https://www.amazon.es/dp/B06XCJFM4T/?tag=tolees-21) con 29.99 de descuento por 27.97 EUR (original: 39.95 EUR) en el siguiente enlace!

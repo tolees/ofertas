@@ -17,6 +17,9 @@ comparePrice: 73.49 EUR
 inStock: true
 prodname: 'Ultrasport Stan - Chaqueta para hombre   color azul del caribe  talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0078MHHI6/?tag=tolees-21'
+descuento: '46.95'
+titulo: 'Ultrasport Stan - Chaqueta para hombre  '
 ---
 
 Tienes [Ultrasport Stan - Chaqueta para hombre   color azul del caribe  talla L](https://www.amazon.es/dp/B0078MHHI6/?tag=tolees-21) con un 46.95 % de descuento con precio de oferta de 38.99 EUR (original: 73.49 EUR) en el siguiente enlace!

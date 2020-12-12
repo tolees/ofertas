@@ -17,6 +17,9 @@ comparePrice: 15.49 EUR
 inStock: true
 prodname: 'adidas Football Street GYMBAG Gym Sack  Unisex Adulto  Negro  Black/White   40 Centimeters'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQYGNXJ/?tag=tolees-21'
+descuento: '51.32'
+titulo: 'adidas Football Street GYMBAG Gym Sack  '
 ---
 
 Está [adidas Football Street GYMBAG Gym Sack  Unisex Adulto  Negro  Black/White   40 Centimeters](https://www.amazon.es/dp/B07JQYGNXJ/?tag=tolees-21) con 51.32 de descuento por 7.54 EUR (original: 15.49 EUR) en el siguiente enlace!

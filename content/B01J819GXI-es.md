@@ -17,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Dermacol Make-Up Cover - 218 Base de Maquillaje - 30 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01J819GXI/?tag=tolees-21'
+descuento: '25.77'
+titulo: 'Dermacol Make-Up Cover - 218 Base de Maq'
 ---
 
 Está [Dermacol Make-Up Cover - 218 Base de Maquillaje - 30 gr](https://www.amazon.es/dp/B01J819GXI/?tag=tolees-21) con 25.77 de descuento por 8.9 EUR (original: 11.99 EUR) en el siguiente enlace!

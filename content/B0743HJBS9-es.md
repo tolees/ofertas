@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'CAMPER Hoops  Zapatillas Altas para Mujer  Blanco  White Natural 100   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0743HJBS9/?tag=tolees-21'
+descuento: '60.26'
+titulo: 'CAMPER Hoops  Zapatillas Altas para Muje'
 ---
 
 Ahora mismo tienes [CAMPER Hoops  Zapatillas Altas para Mujer  Blanco  White Natural 100   37 EU](https://www.amazon.es/dp/B0743HJBS9/?tag=tolees-21) a 39.34 EUR (original: 99 EUR) (60.26 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 9.9 EUR
 inStock: true
 prodname: 'Derby E1 - Pack de 100 hojas en acero inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004SGKMA0/?tag=tolees-21'
+descuento: '33.94'
+titulo: 'Derby E1 - Pack de 100 hojas en acero in'
 ---
 
 Está [Derby E1 - Pack de 100 hojas en acero inoxidable](https://www.amazon.es/dp/B004SGKMA0/?tag=tolees-21) con 33.94 de descuento por 6.54 EUR (original: 9.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Champion Crewneck Sweatshirt  Sudadera para Hombre  Azul  Bnbkm Km005  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DH19RDB/?tag=tolees-21'
+descuento: '43.51'
+titulo: 'Champion Crewneck Sweatshirt  Sudadera p'
 ---
 
 Ahora mismo tienes [Champion Crewneck Sweatshirt  Sudadera para Hombre  Azul  Bnbkm Km005  Medium](https://www.amazon.es/dp/B07DH19RDB/?tag=tolees-21) a 25.42 EUR (original: 45 EUR) (43.51 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko- Justin Bieber Figura de Vinilo  seria Rocks   14351 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071CLTWKL/?tag=tolees-21'
+descuento: '44.16'
+titulo: 'Funko- Justin Bieber Figura de Vinilo  s'
 ---
 
 Ahora mismo tienes [Funko- Justin Bieber Figura de Vinilo  seria Rocks   14351 ](https://www.amazon.es/dp/B071CLTWKL/?tag=tolees-21) a 8.37 EUR (original: 14.99 EUR) (44.16 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Springfield Sudadera Azul M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCRTL3X/?tag=tolees-21'
+descuento: '63.85'
+titulo: 'Springfield Sudadera Azul M'
 ---
 
 Tienes [Springfield Sudadera Azul M](https://www.amazon.es/dp/B06XCRTL3X/?tag=tolees-21) con un 63.85 % de descuento con precio de oferta de 8.31 EUR (original: 22.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Volcom Miter II Cargo Shorts  Hombre  Black  33'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074CRPL11/?tag=tolees-21'
+descuento: '49.24'
+titulo: 'Volcom Miter II Cargo Shorts  Hombre  Bl'
 ---
 
 Está [Volcom Miter II Cargo Shorts  Hombre  Black  33](https://www.amazon.es/dp/B074CRPL11/?tag=tolees-21) con 49.24 de descuento por 35.53 EUR (original: 70 EUR) en el siguiente enlace!

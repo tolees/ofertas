@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'NAOKO Vestido At21 Violeta S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016OJM89Q/?tag=tolees-21'
+descuento: '85.61'
+titulo: 'NAOKO Vestido At21 Violeta S'
 ---
 
 Tienes [NAOKO Vestido At21 Violeta S](https://www.amazon.es/dp/B016OJM89Q/?tag=tolees-21) con un 85.61 % de descuento con precio de oferta de 14.38 EUR (original: 99.95 EUR) en el siguiente enlace!

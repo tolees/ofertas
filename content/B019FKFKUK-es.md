@@ -17,6 +17,9 @@ comparePrice: 17.4 EUR
 inStock: true
 prodname: 'Béaba 911563 - Escobilla biberones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019FKFKUK/?tag=tolees-21'
+descuento: '35.17'
+titulo: 'Béaba 911563 - Escobilla biberones'
 ---
 
 Está [Béaba 911563 - Escobilla biberones](https://www.amazon.es/dp/B019FKFKUK/?tag=tolees-21) con 35.17 de descuento por 11.28 EUR (original: 17.4 EUR) en el siguiente enlace!

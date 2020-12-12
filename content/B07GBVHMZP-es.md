@@ -17,6 +17,9 @@ comparePrice: 25.75 EUR
 inStock: true
 prodname: 'New Look Mustard Tape  Capucha para Hombre  Negro  Black  Small  Talla del Fabricante: 51 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GBVHMZP/?tag=tolees-21'
+descuento: '44.08'
+titulo: 'New Look Mustard Tape  Capucha para Homb'
 ---
 
 Está [New Look Mustard Tape  Capucha para Hombre  Negro  Black  Small  Talla del Fabricante: 51 ](https://www.amazon.es/dp/B07GBVHMZP/?tag=tolees-21) con 44.08 de descuento por 14.4 EUR (original: 25.75 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'adidas Messi 16.3 AG  Botas de fútbol para Hombre   Blue/Footwear White/Solar Orange   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1X2OIV/?tag=tolees-21'
+descuento: '59.21'
+titulo: 'adidas Messi 16.3 AG  Botas de fútbol pa'
 ---
 
 Está [adidas Messi 16.3 AG  Botas de fútbol para Hombre   Blue/Footwear White/Solar Orange   46 EU](https://www.amazon.es/dp/B01N1X2OIV/?tag=tolees-21) con 59.21 de descuento por 32.61 EUR (original: 79.95 EUR) en el siguiente enlace!

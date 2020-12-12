@@ -17,6 +17,9 @@ comparePrice: 61.45 EUR
 inStock: true
 prodname: 'Columbia Powder Lite - Chaqueta  Hombre  Azul  Dark Mountain Crosshatch Print   Talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYWQQ6Y/?tag=tolees-21'
+descuento: '29.72'
+titulo: 'Columbia Powder Lite - Chaqueta  Hombre '
 ---
 
 Está [Columbia Powder Lite - Chaqueta  Hombre  Azul  Dark Mountain Crosshatch Print   Talla L](https://www.amazon.es/dp/B07DYWQQ6Y/?tag=tolees-21) con 29.72 de descuento por 43.19 EUR (original: 61.45 EUR) en el siguiente enlace!

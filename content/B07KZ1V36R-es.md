@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 5DS Mao Rayas Melange  Jersey para Hombre   Gama Grises 43   X-Small  Tamaño del Fabricante:XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1V36R/?tag=tolees-21'
+descuento: '76.38'
+titulo: 'Springfield 5DS Mao Rayas Melange  Jerse'
 ---
 
 Ahora mismo tienes [Springfield 5DS Mao Rayas Melange  Jersey para Hombre   Gama Grises 43   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07KZ1V36R/?tag=tolees-21) a 6.14 EUR (original: 25.99 EUR) (76.38 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Levi s SS Original Hm tee Camiseta  Rojo  Trim-Blend + Patch Lychee 0013   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K73PZYC/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Levi s SS Original Hm tee Camiseta  Rojo'
 ---
 
 Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Rojo  Trim-Blend + Patch Lychee 0013   Small para Hombre](https://www.amazon.es/dp/B07K73PZYC/?tag=tolees-21) a 15 EUR (original: 25 EUR) (40.00 %  de descuento) en el siguiente enlace!

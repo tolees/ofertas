@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'adidas VL Court 2.0  Zapatillas de Skateboard para Hombre  Negro Core Black/Carbon S18/Ftwr White  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H4FFD71/?tag=tolees-21'
+descuento: '59.58'
+titulo: 'adidas VL Court 2.0  Zapatillas de Skate'
 ---
 
 Está [adidas VL Court 2.0  Zapatillas de Skateboard para Hombre  Negro Core Black/Carbon S18/Ftwr White  39 EU](https://www.amazon.es/dp/B07H4FFD71/?tag=tolees-21) con 59.58 de descuento por 24.23 EUR (original: 59.95 EUR) en el siguiente enlace!

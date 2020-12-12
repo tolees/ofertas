@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Aneken Pulsera de Actividad Pulsera Inteligente con Pulsómetro Pulsera Deportiva y Monitor de Ritmo Cardíaco Impermeable IP67 Reloj Fitness Podómetro  Sueño  Notificación de SMS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076LY9XQD/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Aneken Pulsera de Actividad Pulsera Inte'
 ---
 
 Está [Aneken Pulsera de Actividad Pulsera Inteligente con Pulsómetro Pulsera Deportiva y Monitor de Ritmo Cardíaco Impermeable IP67 Reloj Fitness Podómetro  Sueño  Notificación de SMS](https://www.amazon.es/dp/B076LY9XQD/?tag=tolees-21) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

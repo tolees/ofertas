@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Foco LED Proyector  Lámpara Camping 15W  Foco LED Reflector para Trabajo Exterior  Lámpara Proyector LED  Luz Portátil para Trabajo de Noche  Iluminacion Exterior Recargable del Jardín al Aire Libre  Patio  Terraza  Pescado  Camping  Luz Protector Portátil Color Amarillo  amarillo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H6YJ0I0/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Foco LED Proyector  Lámpara Camping 15W '
 ---
 
 Está [Foco LED Proyector  Lámpara Camping 15W  Foco LED Reflector para Trabajo Exterior  Lámpara Proyector LED  Luz Portátil para Trabajo de Noche  Iluminacion Exterior Recargable del Jardín al Aire Libre  Patio  Terraza  Pescado  Camping  Luz Protector Portátil Color Amarillo  amarillo ](https://www.amazon.es/dp/B01H6YJ0I0/?tag=tolees-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

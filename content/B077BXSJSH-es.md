@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Gioseppo 43524  Zapatillas para Hombre  Azul  Celeste   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077BXSJSH/?tag=tolees-21'
+descuento: '69.55'
+titulo: 'Gioseppo 43524  Zapatillas para Hombre  '
 ---
 
 Ahora mismo tienes [Gioseppo 43524  Zapatillas para Hombre  Azul  Celeste   41 EU](https://www.amazon.es/dp/B077BXSJSH/?tag=tolees-21) a 15.21 EUR (original: 49.95 EUR) (69.55 %  de descuento) en el siguiente enlace!

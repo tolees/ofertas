@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Pepe Jeans Taylor Falda  Negro  Denim Wc1   Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C589QJY/?tag=tolees-21'
+descuento: '49.13'
+titulo: 'Pepe Jeans Taylor Falda  Negro  Denim Wc'
 ---
 
 Ahora mismo tienes [Pepe Jeans Taylor Falda  Negro  Denim Wc1   Small para Mujer](https://www.amazon.es/dp/B07C589QJY/?tag=tolees-21) a 38.15 EUR (original: 75 EUR) (49.13 %  de descuento) en el siguiente enlace!

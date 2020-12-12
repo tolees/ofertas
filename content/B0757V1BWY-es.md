@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'find. vaqueros pitillo hombre  Azul  Blue Black   W32/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0757V1BWY/?tag=tolees-21'
+descuento: '62.52'
+titulo: 'find. vaqueros pitillo hombre  Azul  Blu'
 ---
 
 Ahora mismo tienes [find. vaqueros pitillo hombre  Azul  Blue Black   W32/L32](https://www.amazon.es/dp/B0757V1BWY/?tag=tolees-21) a 14.99 EUR (original: 40 EUR) (62.52 %  de descuento) en el siguiente enlace!

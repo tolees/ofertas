@@ -17,6 +17,9 @@ comparePrice: 40.5 EUR
 inStock: true
 prodname: 'David Jones - Cm5081  Bolsos bolera Mujer  Verde  D.Green   26x26x43 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCV8T8D/?tag=tolees-21'
+descuento: '57.04'
+titulo: 'David Jones - Cm5081  Bolsos bolera Muje'
 ---
 
 Ahora mismo tienes [David Jones - Cm5081  Bolsos bolera Mujer  Verde  D.Green   26x26x43 cm  W x H x L ](https://www.amazon.es/dp/B07KCV8T8D/?tag=tolees-21) a 17.4 EUR (original: 40.5 EUR) (57.04 %  de descuento) en el siguiente enlace!

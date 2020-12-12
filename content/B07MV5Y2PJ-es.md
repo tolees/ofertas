@@ -17,6 +17,9 @@ comparePrice: 21.41 EUR
 inStock: true
 prodname: 'Pistola de Dinero  Juguete de Money Gun – Pistola para Billetes + 100 Monedas falsificadas para Fiestas Infantiles'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MV5Y2PJ/?tag=tolees-21'
+descuento: '29.99'
+titulo: 'Pistola de Dinero  Juguete de Money Gun '
 ---
 
 Ahora mismo tienes [Pistola de Dinero  Juguete de Money Gun – Pistola para Billetes + 100 Monedas falsificadas para Fiestas Infantiles](https://www.amazon.es/dp/B07MV5Y2PJ/?tag=tolees-21) a 14.99 EUR (original: 21.41 EUR) (29.99 %  de descuento) en el siguiente enlace!

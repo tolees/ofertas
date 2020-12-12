@@ -17,6 +17,9 @@ comparePrice: 13.44 EUR
 inStock: true
 prodname: 'Quttin Cuchillo Cocinero  Acero Inoxidable  Centimeters'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WMRMNV8/?tag=tolees-21'
+descuento: '78.27'
+titulo: 'Quttin Cuchillo Cocinero  Acero Inoxidab'
 ---
 
 Ahora mismo tienes [Quttin Cuchillo Cocinero  Acero Inoxidable  Centimeters](https://www.amazon.es/dp/B00WMRMNV8/?tag=tolees-21) a 2.92 EUR (original: 13.44 EUR) (78.27 %  de descuento) en el siguiente enlace!

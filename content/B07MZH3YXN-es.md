@@ -17,6 +17,9 @@ comparePrice: 55.75 EUR
 inStock: true
 prodname: 'Superdry Classic Pique Polo  Azul  Sea Spray Grit S2p   XL para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZH3YXN/?tag=tolees-21'
+descuento: '48.07'
+titulo: 'Superdry Classic Pique Polo  Azul  Sea S'
 ---
 
 Está [Superdry Classic Pique Polo  Azul  Sea Spray Grit S2p   XL para Hombre](https://www.amazon.es/dp/B07MZH3YXN/?tag=tolees-21) con 48.07 de descuento por 28.95 EUR (original: 55.75 EUR) en el siguiente enlace!

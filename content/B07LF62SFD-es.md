@@ -17,6 +17,9 @@ comparePrice: 15.48 EUR
 inStock: true
 prodname: 'BIC Gel-ocity Original - Caja de 12 unidades  bolígrafos de Gel  colores surtidos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LF62SFD/?tag=tolees-21'
+descuento: '45.28'
+titulo: 'BIC Gel-ocity Original - Caja de 12 unid'
 ---
 
 Tienes [BIC Gel-ocity Original - Caja de 12 unidades  bolígrafos de Gel  colores surtidos](https://www.amazon.es/dp/B07LF62SFD/?tag=tolees-21) con un 45.28 % de descuento con precio de oferta de 8.47 EUR (original: 15.48 EUR) en el siguiente enlace!

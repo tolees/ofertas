@@ -17,6 +17,9 @@ comparePrice: 349.99 EUR
 inStock: true
 prodname: 'Diablo® X-Fighter Silla Gaming Silla de Oficina reposabrazos Ajustables soporta hasta 150 kg 3D Mecanismo de inclinación cojin Lumbar Cuero sintético Perforado  Negro-Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076MJS3MC/?tag=tolees-21'
+descuento: '51.43'
+titulo: 'Diablo® X-Fighter Silla Gaming Silla de '
 ---
 
 Está [Diablo® X-Fighter Silla Gaming Silla de Oficina reposabrazos Ajustables soporta hasta 150 kg 3D Mecanismo de inclinación cojin Lumbar Cuero sintético Perforado  Negro-Rojo ](https://www.amazon.es/dp/B076MJS3MC/?tag=tolees-21) con 51.43 de descuento por 169.99 EUR (original: 349.99 EUR) en el siguiente enlace!

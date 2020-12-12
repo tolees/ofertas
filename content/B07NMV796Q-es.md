@@ -17,6 +17,9 @@ comparePrice: 357 EUR
 inStock: true
 prodname: 'VARLION LW DIFUSOR ROJA - Palas DE Padel'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NMV796Q/?tag=tolees-21'
+descuento: '49.86'
+titulo: 'VARLION LW DIFUSOR ROJA - Palas DE Padel'
 ---
 
 Ahora mismo tienes [VARLION LW DIFUSOR ROJA - Palas DE Padel](https://www.amazon.es/dp/B07NMV796Q/?tag=tolees-21) a 179 EUR (original: 357 EUR) (49.86 %  de descuento) en el siguiente enlace!

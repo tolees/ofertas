@@ -17,6 +17,9 @@ comparePrice: 32.11 EUR
 inStock: true
 prodname: 'Pack: Johnny English 1-3  + BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KLCRV2F/?tag=tolees-21'
+descuento: '53.29'
+titulo: 'Pack: Johnny English 1-3  + BD  [Blu-ray'
 ---
 
 Tienes [Pack: Johnny English 1-3  + BD  [Blu-ray]](https://www.amazon.es/dp/B07KLCRV2F/?tag=tolees-21) con un 53.29 % de descuento con precio de oferta de 15 EUR (original: 32.11 EUR) en el siguiente enlace!

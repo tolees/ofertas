@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'DC Shoes Research tee-Shirt  Hombre  Black Iris/Snow White  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQ274DT/?tag=tolees-21'
+descuento: '54.42'
+titulo: 'DC Shoes Research tee-Shirt  Hombre  Bla'
 ---
 
 Ahora mismo tienes [DC Shoes Research tee-Shirt  Hombre  Black Iris/Snow White  XXL](https://www.amazon.es/dp/B07KQ274DT/?tag=tolees-21) a 15.95 EUR (original: 34.99 EUR) (54.42 %  de descuento) en el siguiente enlace!

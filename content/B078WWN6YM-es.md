@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Pokemon JCC Caja Colección Especial Zoroark-GX - Español  Pokèmon POGX1707'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WWN6YM/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Pokemon JCC Caja Colección Especial Zoro'
 ---
 
 Tienes [Pokemon JCC Caja Colección Especial Zoroark-GX - Español  Pokèmon POGX1707](https://www.amazon.es/dp/B078WWN6YM/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

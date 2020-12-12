@@ -17,6 +17,9 @@ comparePrice: 48.99 EUR
 inStock: true
 prodname: 'Aigostar Spin 30HLV - Batidora de vaso americana  350 W de potencia  2 velocidades y función turbo  capacidad 1 5 L  color blanco  base antideslizante. Libre de BPA. Diseño exclusivo.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IGG8CPE/?tag=tolees-21'
+descuento: '48.99'
+titulo: 'Aigostar Spin 30HLV - Batidora de vaso a'
 ---
 
 Tienes [Aigostar Spin 30HLV - Batidora de vaso americana  350 W de potencia  2 velocidades y función turbo  capacidad 1 5 L  color blanco  base antideslizante. Libre de BPA. Diseño exclusivo.](https://www.amazon.es/dp/B01IGG8CPE/?tag=tolees-21) con un 48.99 % de descuento con precio de oferta de 24.99 EUR (original: 48.99 EUR) en el siguiente enlace!

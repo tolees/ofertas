@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'ZAPATILLA E511Y-0149 GEL-PADEL BLANCO'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0788NNBJR/?tag=tolees-21'
+descuento: '43.57'
+titulo: 'ZAPATILLA E511Y-0149 GEL-PADEL BLANCO'
 ---
 
 Ahora mismo tienes [ZAPATILLA E511Y-0149 GEL-PADEL BLANCO](https://www.amazon.es/dp/B0788NNBJR/?tag=tolees-21) a 39.5 EUR (original: 70 EUR) (43.57 %  de descuento) en el siguiente enlace!

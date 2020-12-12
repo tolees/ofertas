@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Iris & Lilly Pijama de Tirantes y Pantalón Corto Mujer  Multicolor  White/pink   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073ZCM4GP/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Iris & Lilly Pijama de Tirantes y Pantal'
 ---
 
 Ahora mismo tienes [Iris & Lilly Pijama de Tirantes y Pantalón Corto Mujer  Multicolor  White/pink   Large](https://www.amazon.es/dp/B073ZCM4GP/?tag=tolees-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

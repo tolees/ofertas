@@ -17,6 +17,9 @@ comparePrice: 8.95 EUR
 inStock: true
 prodname: 'Control Pleasure Gel Chocolate Lubricante - 50 mililitros  lubricante'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00M75NZI0/?tag=tolees-21'
+descuento: '43.91'
+titulo: 'Control Pleasure Gel Chocolate Lubricant'
 ---
 
 Tienes [Control Pleasure Gel Chocolate Lubricante - 50 mililitros  lubricante](https://www.amazon.es/dp/B00M75NZI0/?tag=tolees-21) con un 43.91 % de descuento con precio de oferta de 5.02 EUR (original: 8.95 EUR) en el siguiente enlace!

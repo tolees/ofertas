@@ -17,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'Jacques Lemans Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Cuero 1-1813E'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZH76LOK/?tag=tolees-21'
+descuento: '68.90'
+titulo: 'Jacques Lemans Reloj Analógico-Digital p'
 ---
 
 Está [Jacques Lemans Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Cuero 1-1813E](https://www.amazon.es/dp/B00ZH76LOK/?tag=tolees-21) con 68.90 de descuento por 49.45 EUR (original: 159 EUR) en el siguiente enlace!

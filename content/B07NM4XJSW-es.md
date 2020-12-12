@@ -17,6 +17,9 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'Gargantia Soporte de Espalda y Hombros Corrector de Posturas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NM4XJSW/?tag=tolees-21'
+descuento: '42.88'
+titulo: 'Gargantia Soporte de Espalda y Hombros C'
 ---
 
 Ahora mismo tienes [Gargantia Soporte de Espalda y Hombros Corrector de Posturas](https://www.amazon.es/dp/B07NM4XJSW/?tag=tolees-21) a 11.99 EUR (original: 20.99 EUR) (42.88 %  de descuento) en el siguiente enlace!

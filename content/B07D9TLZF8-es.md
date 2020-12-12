@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Court Star Suede Interest  Zapatillas Unisex Adulto  Negro Black-Whisper White 01  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9TLZF8/?tag=tolees-21'
+descuento: '74.18'
+titulo: 'Puma Court Star Suede Interest  Zapatill'
 ---
 
 Tienes [Puma Court Star Suede Interest  Zapatillas Unisex Adulto  Negro Black-Whisper White 01  37 EU](https://www.amazon.es/dp/B07D9TLZF8/?tag=tolees-21) con un 74.18 % de descuento con precio de oferta de 18.06 EUR (original: 69.95 EUR) en el siguiente enlace!

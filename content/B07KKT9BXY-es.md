@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Roxy Arecibo Non-Denim Shorts  Mujer  Duck Green  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKT9BXY/?tag=tolees-21'
+descuento: '28.81'
+titulo: 'Roxy Arecibo Non-Denim Shorts  Mujer  Du'
 ---
 
 Está [Roxy Arecibo Non-Denim Shorts  Mujer  Duck Green  S](https://www.amazon.es/dp/B07KKT9BXY/?tag=tolees-21) con 28.81 de descuento por 35.59 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Yep by Jonak Biarritz - Zapatos para niñas  Color  Rose/Argent   Talla 26'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00RWW78AE/?tag=tolees-21'
+descuento: '84.60'
+titulo: 'Yep by Jonak Biarritz - Zapatos para niñ'
 ---
 
 Tienes [Yep by Jonak Biarritz - Zapatos para niñas  Color  Rose/Argent   Talla 26](https://www.amazon.es/dp/B00RWW78AE/?tag=tolees-21) con un 84.60 % de descuento con precio de oferta de 9.24 EUR (original: 60 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'The Surge'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X6N16ST/?tag=tolees-21'
+descuento: '94.10'
+titulo: 'The Surge'
 ---
 
 Está [The Surge](https://www.amazon.es/dp/B06X6N16ST/?tag=tolees-21) con 94.10 de descuento por 2.95 EUR (original: 49.99 EUR) en el siguiente enlace!

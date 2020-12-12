@@ -17,6 +17,9 @@ comparePrice: 131 EUR
 inStock: true
 prodname: 'Nike Air MAX Prime  Zapatillas para Hombre  Negro Black/White  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00S1IEXJM/?tag=tolees-21'
+descuento: '51.24'
+titulo: 'Nike Air MAX Prime  Zapatillas para Homb'
 ---
 
 Está [Nike Air MAX Prime  Zapatillas para Hombre  Negro Black/White  44 EU](https://www.amazon.es/dp/B00S1IEXJM/?tag=tolees-21) con 51.24 de descuento por 63.87 EUR (original: 131 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 77.98 EUR
 inStock: true
 prodname: 'Bosch 0.603.205.100 Cortadora universal a batería  3.6 W  3.6 V'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003YCOL6A/?tag=tolees-21'
+descuento: '32.16'
+titulo: 'Bosch 0.603.205.100 Cortadora universal '
 ---
 
 Tienes [Bosch 0.603.205.100 Cortadora universal a batería  3.6 W  3.6 V](https://www.amazon.es/dp/B003YCOL6A/?tag=tolees-21) con un 32.16 % de descuento con precio de oferta de 52.9 EUR (original: 77.98 EUR) en el siguiente enlace!

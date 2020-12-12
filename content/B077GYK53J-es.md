@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour Manchester Big Logo SS T Camiseta de Manga Corta  Hombre  Rojo  600   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077GYK53J/?tag=tolees-21'
+descuento: '48.54'
+titulo: 'Under Armour Manchester Big Logo SS T Ca'
 ---
 
 Está [Under Armour Manchester Big Logo SS T Camiseta de Manga Corta  Hombre  Rojo  600   XL](https://www.amazon.es/dp/B077GYK53J/?tag=tolees-21) con 48.54 de descuento por 13.38 EUR (original: 26 EUR) en el siguiente enlace!

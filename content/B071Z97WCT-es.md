@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Armour UA HG Racer Tank Camiseta sin Mangas  Mujer  Gris  Charcoal Light Heath/Metallic Silver 020   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071Z97WCT/?tag=tolees-21'
+descuento: '56.21'
+titulo: 'Under Armour UA HG Racer Tank Camiseta s'
 ---
 
 Tienes [Under Armour UA HG Racer Tank Camiseta sin Mangas  Mujer  Gris  Charcoal Light Heath/Metallic Silver 020   S](https://www.amazon.es/dp/B071Z97WCT/?tag=tolees-21) con un 56.21 % de descuento con precio de oferta de 12.26 EUR (original: 28 EUR) en el siguiente enlace!

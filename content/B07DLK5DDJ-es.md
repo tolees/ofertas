@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Asics Tennisschuh Gel-Challenger 11 Clay  Zapatillas de Tenis para Hombre  Negro  Black/Silver 001   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLK5DDJ/?tag=tolees-21'
+descuento: '40.09'
+titulo: 'Asics Tennisschuh Gel-Challenger 11 Clay'
 ---
 
 Tienes [Asics Tennisschuh Gel-Challenger 11 Clay  Zapatillas de Tenis para Hombre  Negro  Black/Silver 001   41 EU](https://www.amazon.es/dp/B07DLK5DDJ/?tag=tolees-21) con un 40.09 % de descuento con precio de oferta de 59.9 EUR (original: 99.99 EUR) en el siguiente enlace!

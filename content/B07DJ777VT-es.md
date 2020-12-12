@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Geox D Myria B  Zapatillas para Mujer  Coral C7008  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ777VT/?tag=tolees-21'
+descuento: '62.89'
+titulo: 'Geox D Myria B  Zapatillas para Mujer  C'
 ---
 
 Está [Geox D Myria B  Zapatillas para Mujer  Coral C7008  37 EU](https://www.amazon.es/dp/B07DJ777VT/?tag=tolees-21) con 62.89 de descuento por 37.07 EUR (original: 99.9 EUR) en el siguiente enlace!

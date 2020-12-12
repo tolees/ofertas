@@ -17,6 +17,9 @@ comparePrice: 77 EUR
 inStock: true
 prodname: 'Etnies Kingpin - Zapatillas de skate para hombre  Negro  41'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000B3NE0O/?tag=tolees-21'
+descuento: '38.97'
+titulo: 'Etnies Kingpin - Zapatillas de skate par'
 ---
 
 Tienes [Etnies Kingpin - Zapatillas de skate para hombre  Negro  41](https://www.amazon.es/dp/B000B3NE0O/?tag=tolees-21) con un 38.97 % de descuento con precio de oferta de 46.99 EUR (original: 77 EUR) en el siguiente enlace!

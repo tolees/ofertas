@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Springfield 4.2.Gym.MD.I.Coolmax Thermo Vaqueros Straight   Gama Azules 15    Tamaño del Fabricante:40  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLK4KJ6/?tag=tolees-21'
+descuento: '54.62'
+titulo: 'Springfield 4.2.Gym.MD.I.Coolmax Thermo '
 ---
 
 Ahora mismo tienes [Springfield 4.2.Gym.MD.I.Coolmax Thermo Vaqueros Straight   Gama Azules 15    Tamaño del Fabricante:40  para Mujer](https://www.amazon.es/dp/B07DLK4KJ6/?tag=tolees-21) a 14.97 EUR (original: 32.99 EUR) (54.62 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Laura Vita - 2613  Shoppers y bolsos de hombro Mujer  Blanco  6.0x18.0x23.0 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GG38XN6/?tag=tolees-21'
+descuento: '80.78'
+titulo: 'Laura Vita - 2613  Shoppers y bolsos de '
 ---
 
 Tienes [Laura Vita - 2613  Shoppers y bolsos de hombro Mujer  Blanco  6.0x18.0x23.0 cm  W x H L ](https://www.amazon.es/dp/B07GG38XN6/?tag=tolees-21) con un 80.78 % de descuento con precio de oferta de 16.34 EUR (original: 85 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Crocs Freesail Chelsea Boot  Botas de Agua para Mujer  Rosa  Berry/Dots   36/37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078BDLBHQ/?tag=tolees-21'
+descuento: '65.59'
+titulo: 'Crocs Freesail Chelsea Boot  Botas de Ag'
 ---
 
 Tienes [Crocs Freesail Chelsea Boot  Botas de Agua para Mujer  Rosa  Berry/Dots   36/37 EU](https://www.amazon.es/dp/B078BDLBHQ/?tag=tolees-21) con un 65.59 % de descuento con precio de oferta de 17.2 EUR (original: 49.99 EUR) en el siguiente enlace!

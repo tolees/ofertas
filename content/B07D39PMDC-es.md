@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Armani Exchange'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D39PMDC/?tag=tolees-21'
+descuento: '30.58'
+titulo: 'Armani Exchange'
 ---
 
 Está [Armani Exchange](https://www.amazon.es/dp/B07D39PMDC/?tag=tolees-21) con 30.58 de descuento por 65.95 EUR (original: 95 EUR) en el siguiente enlace!

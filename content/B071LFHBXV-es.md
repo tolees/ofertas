@@ -17,6 +17,9 @@ comparePrice: 55.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 25024  Botas para Mujer  Gris  Dk.Grey A.Comb   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071LFHBXV/?tag=tolees-21'
+descuento: '29.47'
+titulo: 'Marco Tozzi 25024  Botas para Mujer  Gri'
 ---
 
 Ahora mismo tienes [Marco Tozzi 25024  Botas para Mujer  Gris  Dk.Grey A.Comb   39 EU](https://www.amazon.es/dp/B071LFHBXV/?tag=tolees-21) a 39.46 EUR (original: 55.95 EUR) (29.47 %  de descuento) en el siguiente enlace!

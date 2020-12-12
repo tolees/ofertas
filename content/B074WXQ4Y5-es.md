@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Hem & Seam Pantalón de Traje Ajustado Hombre  Gris  Char   W30/L29'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074WXQ4Y5/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Hem & Seam Pantalón de Traje Ajustado Ho'
 ---
 
 Ahora mismo tienes [Hem & Seam Pantalón de Traje Ajustado Hombre  Gris  Char   W30/L29](https://www.amazon.es/dp/B074WXQ4Y5/?tag=tolees-21) a 19.6 EUR (original: 28 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Earthfall - Deluxe Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GPNW347/?tag=tolees-21'
+descuento: '66.77'
+titulo: 'Earthfall - Deluxe Edition'
 ---
 
 Tienes [Earthfall - Deluxe Edition](https://www.amazon.es/dp/B07GPNW347/?tag=tolees-21) con un 66.77 % de descuento con precio de oferta de 14.95 EUR (original: 44.99 EUR) en el siguiente enlace!

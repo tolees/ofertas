@@ -17,6 +17,9 @@ comparePrice: 249 EUR
 inStock: true
 prodname: 'Police 14543JSB/13M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BHL2YOU/?tag=tolees-21'
+descuento: '63.12'
+titulo: 'Police 14543JSB/13M'
 ---
 
 Tienes [Police 14543JSB/13M](https://www.amazon.es/dp/B01BHL2YOU/?tag=tolees-21) con un 63.12 % de descuento con precio de oferta de 91.82 EUR (original: 249 EUR) en el siguiente enlace!

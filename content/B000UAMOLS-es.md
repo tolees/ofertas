@@ -17,6 +17,9 @@ comparePrice: 134 EUR
 inStock: true
 prodname: 'WMF Perfect - Olla Rápida  Acero Inoxidable  Diámetro 22 cm  Capacidad 3 l Acero Inoxidable Pulido  fabricada en Alemania  Fabricada en Cromargan  Certificación de seguridad GS  Diseñada por Metz&Kindler'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000UAMOLS/?tag=tolees-21'
+descuento: '31.21'
+titulo: 'WMF Perfect - Olla Rápida  Acero Inoxida'
 ---
 
 Tienes [WMF Perfect - Olla Rápida  Acero Inoxidable  Diámetro 22 cm  Capacidad 3 l Acero Inoxidable Pulido  fabricada en Alemania  Fabricada en Cromargan  Certificación de seguridad GS  Diseñada por Metz&Kindler](https://www.amazon.es/dp/B000UAMOLS/?tag=tolees-21) con un 31.21 % de descuento con precio de oferta de 92.18 EUR (original: 134 EUR) en el siguiente enlace!

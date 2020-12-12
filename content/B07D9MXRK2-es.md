@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Adidas Climacool CW  Zapatillas de Entrenamiento para Mujer  Gris  Dark Heather Solid Grey/Silver Metallic/Real Lilac 0   38 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9MXRK2/?tag=tolees-21'
+descuento: '73.55'
+titulo: 'Adidas Climacool CW  Zapatillas de Entre'
 ---
 
 Tienes [Adidas Climacool CW  Zapatillas de Entrenamiento para Mujer  Gris  Dark Heather Solid Grey/Silver Metallic/Real Lilac 0   38 2/3 EU](https://www.amazon.es/dp/B07D9MXRK2/?tag=tolees-21) con un 73.55 % de descuento con precio de oferta de 26.44 EUR (original: 99.95 EUR) en el siguiente enlace!

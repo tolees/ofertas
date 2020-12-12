@@ -17,6 +17,9 @@ comparePrice: 146.25 EUR
 inStock: true
 prodname: 'Cisa - Cierrapuerta cancela negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01INRY94E/?tag=tolees-21'
+descuento: '44.81'
+titulo: 'Cisa - Cierrapuerta cancela negro'
 ---
 
 Ahora mismo tienes [Cisa - Cierrapuerta cancela negro](https://www.amazon.es/dp/B01INRY94E/?tag=tolees-21) a 80.71 EUR (original: 146.25 EUR) (44.81 %  de descuento) en el siguiente enlace!

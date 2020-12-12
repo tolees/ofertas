@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'LANGRIA Almohada Cervical con Capucha 6-en-1 Multiposición para Viajes de Larga Distancia Cojín de Cuello en Forma de U de Espuma de Memoria Viscoelástica para Avión Coche Tren Bus  Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GSX872S/?tag=tolees-21'
+descuento: '67.52'
+titulo: 'LANGRIA Almohada Cervical con Capucha 6-'
 ---
 
 Tienes [LANGRIA Almohada Cervical con Capucha 6-en-1 Multiposición para Viajes de Larga Distancia Cojín de Cuello en Forma de U de Espuma de Memoria Viscoelástica para Avión Coche Tren Bus  Azul ](https://www.amazon.es/dp/B07GSX872S/?tag=tolees-21) con un 67.52 % de descuento con precio de oferta de 12.99 EUR (original: 39.99 EUR) en el siguiente enlace!

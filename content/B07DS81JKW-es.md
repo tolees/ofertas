@@ -17,6 +17,9 @@ comparePrice: 58.88 EUR
 inStock: true
 prodname: 'Reebok Trainfusion Nine 3.0  Zapatillas de Deporte para Hombre   Black/Shark/White 000   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DS81JKW/?tag=tolees-21'
+descuento: '57.12'
+titulo: 'Reebok Trainfusion Nine 3.0  Zapatillas '
 ---
 
 Está [Reebok Trainfusion Nine 3.0  Zapatillas de Deporte para Hombre   Black/Shark/White 000   42.5 EU](https://www.amazon.es/dp/B07DS81JKW/?tag=tolees-21) con 57.12 de descuento por 25.25 EUR (original: 58.88 EUR) en el siguiente enlace!

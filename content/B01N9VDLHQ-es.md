@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Puma Pro Training II Backpack  Unisex Adulto  Red/Black  UA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9VDLHQ/?tag=tolees-21'
+descuento: '29.87'
+titulo: 'Puma Pro Training II Backpack  Unisex Ad'
 ---
 
 Está [Puma Pro Training II Backpack  Unisex Adulto  Red/Black  UA](https://www.amazon.es/dp/B01N9VDLHQ/?tag=tolees-21) con 29.87 de descuento por 13.99 EUR (original: 19.95 EUR) en el siguiente enlace!

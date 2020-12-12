@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Kipling - Gabbie S  Bolsos bandolera Mujer  Verde  Jaded Green C '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKH6ZSQ/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Kipling - Gabbie S  Bolsos bandolera Muj'
 ---
 
 Está [Kipling - Gabbie S  Bolsos bandolera Mujer  Verde  Jaded Green C ](https://www.amazon.es/dp/B07DKH6ZSQ/?tag=tolees-21) con 30.00 de descuento por 59.5 EUR (original: 85 EUR) en el siguiente enlace!

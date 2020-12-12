@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Enfriador de Vino  Enfriador para botellas de Vino  Vertedor de Vino con Varilla de Enfriamiento 3-en-1 acero Inoxidable Enfriador de Vino para Fiesta y Celebracón de Familia y Restaurantev'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C24G7XY/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Enfriador de Vino  Enfriador para botell'
 ---
 
 Ahora mismo tienes [Enfriador de Vino  Enfriador para botellas de Vino  Vertedor de Vino con Varilla de Enfriamiento 3-en-1 acero Inoxidable Enfriador de Vino para Fiesta y Celebracón de Familia y Restaurantev](https://www.amazon.es/dp/B07C24G7XY/?tag=tolees-21) a 7.99 EUR (original: 15.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

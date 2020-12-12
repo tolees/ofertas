@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Champion Crewneck T-Shirt-Institutionals Camiseta  Azul  NNY   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072ZXB5JB/?tag=tolees-21'
+descuento: '29.65'
+titulo: 'Champion Crewneck T-Shirt-Institutionals'
 ---
 
 Ahora mismo tienes [Champion Crewneck T-Shirt-Institutionals Camiseta  Azul  NNY   X-Large para Hombre](https://www.amazon.es/dp/B072ZXB5JB/?tag=tolees-21) a 14 EUR (original: 19.9 EUR) (29.65 %  de descuento) en el siguiente enlace!

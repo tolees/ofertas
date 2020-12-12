@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'LELO TOR 2 Anillo Vibrador para el Pene Black: Anillo Ajustable  Recargable y Sumergible  Estimula el Clítoris durante el Coito. Garantía: 1 año.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006VXXLHY/?tag=tolees-21'
+descuento: '59.78'
+titulo: 'LELO TOR 2 Anillo Vibrador para el Pene '
 ---
 
 Tienes [LELO TOR 2 Anillo Vibrador para el Pene Black: Anillo Ajustable  Recargable y Sumergible  Estimula el Clítoris durante el Coito. Garantía: 1 año.](https://www.amazon.es/dp/B006VXXLHY/?tag=tolees-21) con un 59.78 % de descuento con precio de oferta de 51.89 EUR (original: 129 EUR) en el siguiente enlace!

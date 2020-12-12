@@ -17,6 +17,9 @@ comparePrice: 27.95 EUR
 inStock: true
 prodname: 'BOSS Brief Urban Bóxer  Blanco  White 100   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072R3HCXV/?tag=tolees-21'
+descuento: '63.54'
+titulo: 'BOSS Brief Urban Bóxer  Blanco  White 10'
 ---
 
 Tienes [BOSS Brief Urban Bóxer  Blanco  White 100   XX-Large para Hombre](https://www.amazon.es/dp/B072R3HCXV/?tag=tolees-21) con un 63.54 % de descuento con precio de oferta de 10.19 EUR (original: 27.95 EUR) en el siguiente enlace!

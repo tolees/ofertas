@@ -17,6 +17,9 @@ comparePrice: 197 EUR
 inStock: true
 prodname: 'Carrera 4005/S 7F 807 65  Gafas de Sol para Hombre  Negro  Black/Rd Red '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075WZBM3J/?tag=tolees-21'
+descuento: '66.54'
+titulo: 'Carrera 4005/S 7F 807 65  Gafas de Sol p'
 ---
 
 Tienes [Carrera 4005/S 7F 807 65  Gafas de Sol para Hombre  Negro  Black/Rd Red ](https://www.amazon.es/dp/B075WZBM3J/?tag=tolees-21) con un 66.54 % de descuento con precio de oferta de 65.92 EUR (original: 197 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 58.99 EUR
 inStock: true
 prodname: 'Reloj Inteligente Bluetooth  ACCEWIT Smartwatch Pantalla a Todo Color Conectada IP67 Rastreador de Actividad física a Prueba de Agua cardíaca Podómetro Monitor de sueño Reloj'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L96FK1N/?tag=tolees-21'
+descuento: '37.29'
+titulo: 'Reloj Inteligente Bluetooth  ACCEWIT Sma'
 ---
 
 Ahora mismo tienes [Reloj Inteligente Bluetooth  ACCEWIT Smartwatch Pantalla a Todo Color Conectada IP67 Rastreador de Actividad física a Prueba de Agua cardíaca Podómetro Monitor de sueño Reloj](https://www.amazon.es/dp/B07L96FK1N/?tag=tolees-21) a 36.99 EUR (original: 58.99 EUR) (37.29 %  de descuento) en el siguiente enlace!

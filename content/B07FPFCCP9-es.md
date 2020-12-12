@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'New Balance 500  Zapatillas para Hombre  Gris Magnet  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPFCCP9/?tag=tolees-21'
+descuento: '34.62'
+titulo: 'New Balance 500  Zapatillas para Hombre '
 ---
 
 Está [New Balance 500  Zapatillas para Hombre  Gris Magnet  42 EU](https://www.amazon.es/dp/B07FPFCCP9/?tag=tolees-21) con 34.62 de descuento por 49 EUR (original: 74.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Under Armour Featherweight Fleece Crop Pantalones Pirata  Mujer  Steel Heather/White  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0789NSHPS/?tag=tolees-21'
+descuento: '72.42'
+titulo: 'Under Armour Featherweight Fleece Crop P'
 ---
 
 Tienes [Under Armour Featherweight Fleece Crop Pantalones Pirata  Mujer  Steel Heather/White  M](https://www.amazon.es/dp/B0789NSHPS/?tag=tolees-21) con un 72.42 % de descuento con precio de oferta de 15.17 EUR (original: 55 EUR) en el siguiente enlace!

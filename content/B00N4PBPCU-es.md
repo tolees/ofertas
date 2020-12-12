@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Triumph Perfect Sensation W24  Sujetador para Mujer  Negro  Black 04   80E'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N4PBPCU/?tag=tolees-21'
+descuento: '55.06'
+titulo: 'Triumph Perfect Sensation W24  Sujetador'
 ---
 
 Está [Triumph Perfect Sensation W24  Sujetador para Mujer  Negro  Black 04   80E](https://www.amazon.es/dp/B00N4PBPCU/?tag=tolees-21) con 55.06 de descuento por 22.45 EUR (original: 49.95 EUR) en el siguiente enlace!

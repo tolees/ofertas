@@ -17,6 +17,9 @@ comparePrice: 16.91 EUR
 inStock: true
 prodname: 'Wenko Jabonera  Acero Inoxidable  11 5 x 3 5 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001TH8JFQ/?tag=tolees-21'
+descuento: '40.92'
+titulo: 'Wenko Jabonera  Acero Inoxidable  11 5 x'
 ---
 
 Tienes [Wenko Jabonera  Acero Inoxidable  11 5 x 3 5 cm](https://www.amazon.es/dp/B001TH8JFQ/?tag=tolees-21) con un 40.92 % de descuento con precio de oferta de 9.99 EUR (original: 16.91 EUR) en el siguiente enlace!

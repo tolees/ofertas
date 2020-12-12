@@ -17,6 +17,9 @@ comparePrice: 169 EUR
 inStock: true
 prodname: 'Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Cuero MK2749'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F9M8M5M/?tag=tolees-21'
+descuento: '49.82'
+titulo: 'Michael Kors Reloj Analógico para Mujer '
 ---
 
 Ahora mismo tienes [Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Cuero MK2749](https://www.amazon.es/dp/B07F9M8M5M/?tag=tolees-21) a 84.8 EUR (original: 169 EUR) (49.82 %  de descuento) en el siguiente enlace!

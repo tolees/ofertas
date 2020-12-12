@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'adidas CY5608 Bolsa de Tela y de Playa  Unisex Adultos   Blabas/Negro   15x24x45 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFGXJ3Z/?tag=tolees-21'
+descuento: '50.14'
+titulo: 'adidas CY5608 Bolsa de Tela y de Playa  '
 ---
 
 Está [adidas CY5608 Bolsa de Tela y de Playa  Unisex Adultos   Blabas/Negro   15x24x45 cm  W x H x L ](https://www.amazon.es/dp/B07DFGXJ3Z/?tag=tolees-21) con 50.14 de descuento por 8.95 EUR (original: 17.95 EUR) en el siguiente enlace!

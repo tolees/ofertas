@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Vans Authentic  Zapatillas para Mujer  Azul  Baby Blue/True White Q6k   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078W3NPW2/?tag=tolees-21'
+descuento: '56.21'
+titulo: 'Vans Authentic  Zapatillas para Mujer  A'
 ---
 
 Ahora mismo tienes [Vans Authentic  Zapatillas para Mujer  Azul  Baby Blue/True White Q6k   45 EU](https://www.amazon.es/dp/B078W3NPW2/?tag=tolees-21) a 30.65 EUR (original: 70 EUR) (56.21 %  de descuento) en el siguiente enlace!

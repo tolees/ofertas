@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Ácido Hialurónico Vitamina C Facial | Beau-pro Suero Hidratante Molécula Pequeña | Cuidado diurno y nocturno Suero hidratante Aligerar arrugas pecas Adecuado para pieles sensibles 30ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H7YM37F/?tag=tolees-21'
+descuento: '35.02'
+titulo: 'Ácido Hialurónico Vitamina C Facial | Be'
 ---
 
 Tienes [Ácido Hialurónico Vitamina C Facial | Beau-pro Suero Hidratante Molécula Pequeña | Cuidado diurno y nocturno Suero hidratante Aligerar arrugas pecas Adecuado para pieles sensibles 30ml](https://www.amazon.es/dp/B07H7YM37F/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

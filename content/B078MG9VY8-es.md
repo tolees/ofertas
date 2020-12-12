@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Multiherramienta Alicates Multiusos  Synerky herramienta multiusos 5-en-1 Multifuncional plegables alicates acero inoxidable Navaja Suiza para Montañismo  Negro   Deep Nergo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078MG9VY8/?tag=tolees-21'
+descuento: '40.05'
+titulo: 'Multiherramienta Alicates Multiusos  Syn'
 ---
 
 Ahora mismo tienes [Multiherramienta Alicates Multiusos  Synerky herramienta multiusos 5-en-1 Multifuncional plegables alicates acero inoxidable Navaja Suiza para Montañismo  Negro   Deep Nergo ](https://www.amazon.es/dp/B078MG9VY8/?tag=tolees-21) a 17.98 EUR (original: 29.99 EUR) (40.05 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 24.75 EUR
 inStock: true
 prodname: 'Gioteck - Auricular Flow 200 Stereo  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZTO4ONQ/?tag=tolees-21'
+descuento: '47.31'
+titulo: 'Gioteck - Auricular Flow 200 Stereo  Col'
 ---
 
 Está [Gioteck - Auricular Flow 200 Stereo  Color Negro](https://www.amazon.es/dp/B00ZTO4ONQ/?tag=tolees-21) con 47.31 de descuento por 13.04 EUR (original: 24.75 EUR) en el siguiente enlace!

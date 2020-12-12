@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Philips Amigo en Forma de lámpara portátil SoftPal 717689016 Peluche Luminoso  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B1FE5VM/?tag=tolees-21'
+descuento: '37.24'
+titulo: 'Philips Amigo en Forma de lámpara portát'
 ---
 
 Está [Philips Amigo en Forma de lámpara portátil SoftPal 717689016 Peluche Luminoso  Azul](https://www.amazon.es/dp/B01B1FE5VM/?tag=tolees-21) con 37.24 de descuento por 12.52 EUR (original: 19.95 EUR) en el siguiente enlace!

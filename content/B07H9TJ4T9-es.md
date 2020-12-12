@@ -17,6 +17,9 @@ comparePrice: 189 EUR
 inStock: true
 prodname: 'LUKO 12L eléctrico y portátil deshumidificador con tecnología silenciosa y fácil operación  2L tanque con desagüe  filtro lavable y purificación de aire para hogar  habitacion  sótano  baño  armario'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H9TJ4T9/?tag=tolees-21'
+descuento: '33.39'
+titulo: 'LUKO 12L eléctrico y portátil deshumidif'
 ---
 
 Ahora mismo tienes [LUKO 12L eléctrico y portátil deshumidificador con tecnología silenciosa y fácil operación  2L tanque con desagüe  filtro lavable y purificación de aire para hogar  habitacion  sótano  baño  armario](https://www.amazon.es/dp/B07H9TJ4T9/?tag=tolees-21) a 125.9 EUR (original: 189 EUR) (33.39 %  de descuento) en el siguiente enlace!

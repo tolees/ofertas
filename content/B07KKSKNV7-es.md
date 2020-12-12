@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'HUGO Ero3-w Camisa  Azul  Dark Blue 405   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKSKNV7/?tag=tolees-21'
+descuento: '68.98'
+titulo: 'HUGO Ero3-w Camisa  Azul  Dark Blue 405 '
 ---
 
 Ahora mismo tienes [HUGO Ero3-w Camisa  Azul  Dark Blue 405   XX-Large para Hombre](https://www.amazon.es/dp/B07KKSKNV7/?tag=tolees-21) a 31 EUR (original: 99.95 EUR) (68.98 %  de descuento) en el siguiente enlace!

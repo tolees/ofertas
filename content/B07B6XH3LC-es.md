@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'New Balance Fresh Faom Cruz v2 Hygge Pack  Zapatillas para Mujer  Azul  Thunder/Latte/Flat White Hb2   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B6XH3LC/?tag=tolees-21'
+descuento: '71.01'
+titulo: 'New Balance Fresh Faom Cruz v2 Hygge Pac'
 ---
 
 Está [New Balance Fresh Faom Cruz v2 Hygge Pack  Zapatillas para Mujer  Azul  Thunder/Latte/Flat White Hb2   39 EU](https://www.amazon.es/dp/B07B6XH3LC/?tag=tolees-21) con 71.01 de descuento por 27.54 EUR (original: 95 EUR) en el siguiente enlace!

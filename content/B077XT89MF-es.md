@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance X-90  Zapatillas para Mujer  Negro  Black/Lemonade Cld   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XT89MF/?tag=tolees-21'
+descuento: '60.75'
+titulo: 'New Balance X-90  Zapatillas para Mujer '
 ---
 
 Está [New Balance X-90  Zapatillas para Mujer  Negro  Black/Lemonade Cld   36.5 EU](https://www.amazon.es/dp/B077XT89MF/?tag=tolees-21) con 60.75 de descuento por 43.17 EUR (original: 110 EUR) en el siguiente enlace!

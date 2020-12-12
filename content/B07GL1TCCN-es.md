@@ -17,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'LANGRIA Silla Escritorio con Respaldo Alto Abatible y Reposacabezas  Hecha en Malla Transpirable y Diseño Ergonómico  Altura Asiento Regulable  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GL1TCCN/?tag=tolees-21'
+descuento: '54.71'
+titulo: 'LANGRIA Silla Escritorio con Respaldo Al'
 ---
 
 Ahora mismo tienes [LANGRIA Silla Escritorio con Respaldo Alto Abatible y Reposacabezas  Hecha en Malla Transpirable y Diseño Ergonómico  Altura Asiento Regulable  Negro ](https://www.amazon.es/dp/B07GL1TCCN/?tag=tolees-21) a 76.99 EUR (original: 169.99 EUR) (54.71 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'CHRONOSTAR Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable R3753271003'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073XFC1VT/?tag=tolees-21'
+descuento: '68.16'
+titulo: 'CHRONOSTAR Reloj Multiesfera para Hombre'
 ---
 
 Ahora mismo tienes [CHRONOSTAR Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable R3753271003](https://www.amazon.es/dp/B073XFC1VT/?tag=tolees-21) a 25.15 EUR (original: 79 EUR) (68.16 %  de descuento) en el siguiente enlace!

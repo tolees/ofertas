@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Flower 70567 70567-Abono orgánico césped con micorrizas  No No Aplica  17.5x13.5x15 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UCLDMR0/?tag=tolees-21'
+descuento: '39.81'
+titulo: 'Flower 70567 70567-Abono orgánico césped'
 ---
 
 Tienes [Flower 70567 70567-Abono orgánico césped con micorrizas  No No Aplica  17.5x13.5x15 cm](https://www.amazon.es/dp/B00UCLDMR0/?tag=tolees-21) con un 39.81 % de descuento con precio de oferta de 9.6 EUR (original: 15.95 EUR) en el siguiente enlace!

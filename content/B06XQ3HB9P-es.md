@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Desigual CAM_Marisa Blusa  Azul Ultramarin 5022  Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XQ3HB9P/?tag=tolees-21'
+descuento: '57.73'
+titulo: 'Desigual CAM_Marisa Blusa  Azul Ultramar'
 ---
 
 Tienes [Desigual CAM_Marisa Blusa  Azul Ultramarin 5022  Large para Mujer](https://www.amazon.es/dp/B06XQ3HB9P/?tag=tolees-21) con un 57.73 % de descuento con precio de oferta de 25.34 EUR (original: 59.95 EUR) en el siguiente enlace!

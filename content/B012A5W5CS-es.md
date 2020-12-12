@@ -17,6 +17,9 @@ comparePrice: 17.8 EUR
 inStock: true
 prodname: 'Prem 235302 Lijaora orbital 135w  135 W  230 V  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012A5W5CS/?tag=tolees-21'
+descuento: '27.53'
+titulo: 'Prem 235302 Lijaora orbital 135w  135 W '
 ---
 
 Está [Prem 235302 Lijaora orbital 135w  135 W  230 V  Negro](https://www.amazon.es/dp/B012A5W5CS/?tag=tolees-21) con 27.53 de descuento por 12.9 EUR (original: 17.8 EUR) en el siguiente enlace!

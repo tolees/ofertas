@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Adidas Fortarun X CF K  Zapatillas de Running Unisex Niños  Rojo Real Magenta/Semi Solar Pink/FTWR White  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZ5VRNL/?tag=tolees-21'
+descuento: '46.50'
+titulo: 'Adidas Fortarun X CF K  Zapatillas de Ru'
 ---
 
 Tienes [Adidas Fortarun X CF K  Zapatillas de Running Unisex Niños  Rojo Real Magenta/Semi Solar Pink/FTWR White  38 EU](https://www.amazon.es/dp/B07JZ5VRNL/?tag=tolees-21) con un 46.50 % de descuento con precio de oferta de 24.05 EUR (original: 44.95 EUR) en el siguiente enlace!

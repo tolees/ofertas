@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma ESS Pique Polo T-Shirt  Hombre  Gris  Medium Gray Heather/Cat   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HLV9V7/?tag=tolees-21'
+descuento: '45.21'
+titulo: 'Puma ESS Pique Polo T-Shirt  Hombre  Gri'
 ---
 
 Tienes [Puma ESS Pique Polo T-Shirt  Hombre  Gris  Medium Gray Heather/Cat   L](https://www.amazon.es/dp/B077HLV9V7/?tag=tolees-21) con un 45.21 % de descuento con precio de oferta de 16.41 EUR (original: 29.95 EUR) en el siguiente enlace!

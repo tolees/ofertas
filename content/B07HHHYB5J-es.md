@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Rider Vaqueros Slim  Gris  Birch DE   W29/L34  Talla del Fabricante: 34/29  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HHHYB5J/?tag=tolees-21'
+descuento: '81.20'
+titulo: 'Lee Rider Vaqueros Slim  Gris  Birch DE '
 ---
 
 Tienes [Lee Rider Vaqueros Slim  Gris  Birch DE   W29/L34  Talla del Fabricante: 34/29  para Hombre](https://www.amazon.es/dp/B07HHHYB5J/?tag=tolees-21) con un 81.20 % de descuento con precio de oferta de 18.79 EUR (original: 99.95 EUR) en el siguiente enlace!

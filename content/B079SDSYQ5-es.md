@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Samsung Cargador inalámbrico - Wireless Charger EP N5100T compatible con smartphones QI  negro- Version española'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079SDSYQ5/?tag=tolees-21'
+descuento: '37.91'
+titulo: 'Samsung Cargador inalámbrico - Wireless '
 ---
 
 Tienes [Samsung Cargador inalámbrico - Wireless Charger EP N5100T compatible con smartphones QI  negro- Version española](https://www.amazon.es/dp/B079SDSYQ5/?tag=tolees-21) con un 37.91 % de descuento con precio de oferta de 43.4 EUR (original: 69.9 EUR) en el siguiente enlace!

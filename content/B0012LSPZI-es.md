@@ -17,6 +17,9 @@ comparePrice: 68.28 EUR
 inStock: true
 prodname: 'Fellowes - Soporte metálico CPU  Grafito'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0012LSPZI/?tag=tolees-21'
+descuento: '61.92'
+titulo: 'Fellowes - Soporte metálico CPU  Grafito'
 ---
 
 Tienes [Fellowes - Soporte metálico CPU  Grafito](https://www.amazon.es/dp/B0012LSPZI/?tag=tolees-21) con un 61.92 % de descuento con precio de oferta de 26 EUR (original: 68.28 EUR) en el siguiente enlace!

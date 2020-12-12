@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Rider Jeans Vaqueros Slim  Azul  Fresh Kiup   28W / 34L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077NK4L9X/?tag=tolees-21'
+descuento: '84.47'
+titulo: 'Lee Rider Jeans Vaqueros Slim  Azul  Fre'
 ---
 
 Tienes [Lee Rider Jeans Vaqueros Slim  Azul  Fresh Kiup   28W / 34L para Hombre](https://www.amazon.es/dp/B077NK4L9X/?tag=tolees-21) con un 84.47 % de descuento con precio de oferta de 15.52 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Asics Gel-Game 7  Zapatillas de Tenis para Hombre   White/Silver 104   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K72MM9K/?tag=tolees-21'
+descuento: '53.81'
+titulo: 'Asics Gel-Game 7  Zapatillas de Tenis pa'
 ---
 
 Está [Asics Gel-Game 7  Zapatillas de Tenis para Hombre   White/Silver 104   41.5 EU](https://www.amazon.es/dp/B07K72MM9K/?tag=tolees-21) con 53.81 de descuento por 36.95 EUR (original: 80 EUR) en el siguiente enlace!

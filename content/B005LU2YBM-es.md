@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Walk on Water Bogart 15" 38 1 cm  15"  Bandolera Marrón - Funda  Bandolera  38 1 cm  15"   Marrón '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005LU2YBM/?tag=tolees-21'
+descuento: '90.10'
+titulo: 'Walk on Water Bogart 15" 38 1 cm  15"  B'
 ---
 
 Está [Walk on Water Bogart 15" 38 1 cm  15"  Bandolera Marrón - Funda  Bandolera  38 1 cm  15"   Marrón ](https://www.amazon.es/dp/B005LU2YBM/?tag=tolees-21) con 90.10 de descuento por 7.92 EUR (original: 79.99 EUR) en el siguiente enlace!

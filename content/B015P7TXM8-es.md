@@ -17,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'Concord Transformer Pro  Silla de coche grupo 1/2/3 Isofix  marrón  Walnut Brown '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015P7TXM8/?tag=tolees-21'
+descuento: '37.11'
+titulo: 'Concord Transformer Pro  Silla de coche '
 ---
 
 Tienes [Concord Transformer Pro  Silla de coche grupo 1/2/3 Isofix  marrón  Walnut Brown ](https://www.amazon.es/dp/B015P7TXM8/?tag=tolees-21) con un 37.11 % de descuento con precio de oferta de 99.99 EUR (original: 159 EUR) en el siguiente enlace!

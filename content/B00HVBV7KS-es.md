@@ -17,6 +17,9 @@ comparePrice: 85.9 EUR
 inStock: true
 prodname: 'umi Ria - Merceditas de cuero para niña  Negro  Negro   EU 21'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HVBV7KS/?tag=tolees-21'
+descuento: '83.67'
+titulo: 'umi Ria - Merceditas de cuero para niña '
 ---
 
 Está [umi Ria - Merceditas de cuero para niña  Negro  Negro   EU 21](https://www.amazon.es/dp/B00HVBV7KS/?tag=tolees-21) con 83.67 de descuento por 14.03 EUR (original: 85.9 EUR) en el siguiente enlace!

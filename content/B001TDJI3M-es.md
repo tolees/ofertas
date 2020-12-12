@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Yaktrax Pro Crampones  Unisex  Negro  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001TDJI3M/?tag=tolees-21'
+descuento: '43.51'
+titulo: 'Yaktrax Pro Crampones  Unisex  Negro  Me'
 ---
 
 Está [Yaktrax Pro Crampones  Unisex  Negro  Medium](https://www.amazon.es/dp/B001TDJI3M/?tag=tolees-21) con 43.51 de descuento por 16.92 EUR (original: 29.95 EUR) en el siguiente enlace!

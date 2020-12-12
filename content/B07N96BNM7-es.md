@@ -17,6 +17,9 @@ comparePrice: 1649 EUR
 inStock: true
 prodname: 'ASUS ROG Strix Scar II GL504GM-ES327T - Portátil Gaming de 15.6" FHD  Intel Core i7-8750H  16 GB RAM  512 GB SSD  GeForce GTX1060 6 GB  Windows 10 Home  Negro  Scar Gunmetal  - Teclado QWERTY Español'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N96BNM7/?tag=tolees-21'
+descuento: '33.35'
+titulo: 'ASUS ROG Strix Scar II GL504GM-ES327T - '
 ---
 
 Ahora mismo tienes [ASUS ROG Strix Scar II GL504GM-ES327T - Portátil Gaming de 15.6" FHD  Intel Core i7-8750H  16 GB RAM  512 GB SSD  GeForce GTX1060 6 GB  Windows 10 Home  Negro  Scar Gunmetal  - Teclado QWERTY Español](https://www.amazon.es/dp/B07N96BNM7/?tag=tolees-21) a 1099 EUR (original: 1649 EUR) (33.35 %  de descuento) en el siguiente enlace!

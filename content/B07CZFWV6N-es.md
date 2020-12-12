@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Tenaz  Zapatillas de Deporte Interior Unisex Adulto  Naranja  Shocking Orange White-Shadow Purple 03   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZFWV6N/?tag=tolees-21'
+descuento: '49.67'
+titulo: 'Puma Tenaz  Zapatillas de Deporte Interi'
 ---
 
 Está [Puma Tenaz  Zapatillas de Deporte Interior Unisex Adulto  Naranja  Shocking Orange White-Shadow Purple 03   46 EU](https://www.amazon.es/dp/B07CZFWV6N/?tag=tolees-21) con 49.67 de descuento por 25.14 EUR (original: 49.95 EUR) en el siguiente enlace!

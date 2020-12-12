@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Smiley Face Mugs'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KYGHCXM/?tag=tolees-21'
+descuento: '47.85'
+titulo: 'Smiley Face Mugs'
 ---
 
 Está [Smiley Face Mugs](https://www.amazon.es/dp/B01KYGHCXM/?tag=tolees-21) con 47.85 de descuento por 11.99 EUR (original: 22.99 EUR) en el siguiente enlace!

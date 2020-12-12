@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Burton Oak Full-Zip Sudadera  niños  Shade Heather True Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072DXLRJH/?tag=tolees-21'
+descuento: '49.25'
+titulo: 'Burton Oak Full-Zip Sudadera  niños  Sha'
 ---
 
 Tienes [Burton Oak Full-Zip Sudadera  niños  Shade Heather True Black  L](https://www.amazon.es/dp/B072DXLRJH/?tag=tolees-21) con un 49.25 % de descuento con precio de oferta de 30.45 EUR (original: 60 EUR) en el siguiente enlace!

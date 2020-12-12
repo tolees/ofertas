@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Kappa Meseta  Zapatillas Unisex Adulto   Rosa/White 2110   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4T2W8S/?tag=tolees-21'
+descuento: '52.28'
+titulo: 'Kappa Meseta  Zapatillas Unisex Adulto  '
 ---
 
 Tienes [Kappa Meseta  Zapatillas Unisex Adulto   Rosa/White 2110   36 EU](https://www.amazon.es/dp/B07D4T2W8S/?tag=tolees-21) con un 52.28 % de descuento con precio de oferta de 21.45 EUR (original: 44.95 EUR) en el siguiente enlace!

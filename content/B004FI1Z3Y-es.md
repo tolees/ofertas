@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Reloj Casio - Mujer W-214H-4A'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004FI1Z3Y/?tag=tolees-21'
+descuento: '54.04'
+titulo: 'Reloj Casio - Mujer W-214H-4A'
 ---
 
 Ahora mismo tienes [Reloj Casio - Mujer W-214H-4A](https://www.amazon.es/dp/B004FI1Z3Y/?tag=tolees-21) a 22.98 EUR (original: 50 EUR) (54.04 %  de descuento) en el siguiente enlace!

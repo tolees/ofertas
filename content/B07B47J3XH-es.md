@@ -17,6 +17,9 @@ comparePrice: 23 EUR
 inStock: true
 prodname: 'New Look Rain  Impermeable para Hombre  Verde  Dark Khaki 34  Large  Talla del Fabricante: 53 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B47J3XH/?tag=tolees-21'
+descuento: '56.52'
+titulo: 'New Look Rain  Impermeable para Hombre  '
 ---
 
 Tienes [New Look Rain  Impermeable para Hombre  Verde  Dark Khaki 34  Large  Talla del Fabricante: 53 ](https://www.amazon.es/dp/B07B47J3XH/?tag=tolees-21) con un 56.52 % de descuento con precio de oferta de 10 EUR (original: 23 EUR) en el siguiente enlace!

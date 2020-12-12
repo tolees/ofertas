@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'VPCOK Limpiacristales Limpiador de Ventanas Espejo Baño Acero Inoxidable Cepillo de Limpieza X1 Paquete Incluido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C2LVB3K/?tag=tolees-21'
+descuento: '41.93'
+titulo: 'VPCOK Limpiacristales Limpiador de Venta'
 ---
 
 Tienes [VPCOK Limpiacristales Limpiador de Ventanas Espejo Baño Acero Inoxidable Cepillo de Limpieza X1 Paquete Incluido](https://www.amazon.es/dp/B07C2LVB3K/?tag=tolees-21) con un 41.93 % de descuento con precio de oferta de 12.77 EUR (original: 21.99 EUR) en el siguiente enlace!

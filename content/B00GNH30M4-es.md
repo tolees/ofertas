@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'ManCave Original Moisturiser Crema Facial - 100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GNH30M4/?tag=tolees-21'
+descuento: '58.46'
+titulo: 'ManCave Original Moisturiser Crema Facia'
 ---
 
 Está [ManCave Original Moisturiser Crema Facial - 100 ml](https://www.amazon.es/dp/B00GNH30M4/?tag=tolees-21) con 58.46 de descuento por 5.38 EUR (original: 12.95 EUR) en el siguiente enlace!

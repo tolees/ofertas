@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Superdry Low Pro Hiker  Zapatillas de Gimnasia para Hombre  Gris  Charcoal Ripstop Ui2   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G74DHSZ/?tag=tolees-21'
+descuento: '69.51'
+titulo: 'Superdry Low Pro Hiker  Zapatillas de Gi'
 ---
 
 Tienes [Superdry Low Pro Hiker  Zapatillas de Gimnasia para Hombre  Gris  Charcoal Ripstop Ui2   46 EU](https://www.amazon.es/dp/B07G74DHSZ/?tag=tolees-21) con un 69.51 % de descuento con precio de oferta de 16.77 EUR (original: 55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Jacques Lemans Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1-1905E'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ER021KA/?tag=tolees-21'
+descuento: '77.61'
+titulo: 'Jacques Lemans Reloj Analógico para Muje'
 ---
 
 Está [Jacques Lemans Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1-1905E](https://www.amazon.es/dp/B01ER021KA/?tag=tolees-21) con 77.61 de descuento por 44.56 EUR (original: 199 EUR) en el siguiente enlace!

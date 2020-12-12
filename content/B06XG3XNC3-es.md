@@ -17,6 +17,9 @@ comparePrice: 144 EUR
 inStock: true
 prodname: 'Volcom Hernan Chaqueta  Hombre  Marron  mud   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XG3XNC3/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Volcom Hernan Chaqueta  Hombre  Marron  '
 ---
 
 Tienes [Volcom Hernan Chaqueta  Hombre  Marron  mud   M](https://www.amazon.es/dp/B06XG3XNC3/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 86.4 EUR (original: 144 EUR) en el siguiente enlace!

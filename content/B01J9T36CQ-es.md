@@ -17,6 +17,9 @@ comparePrice: 221.16 EUR
 inStock: true
 prodname: 'HÄRVIST  Oxford - Abrigo de manga larga para hombre  color marino  talla S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01J9T36CQ/?tag=tolees-21'
+descuento: '66.99'
+titulo: 'HÄRVIST  Oxford - Abrigo de manga larga '
 ---
 
 Está [HÄRVIST  Oxford - Abrigo de manga larga para hombre  color marino  talla S](https://www.amazon.es/dp/B01J9T36CQ/?tag=tolees-21) con 66.99 de descuento por 73 EUR (original: 221.16 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 450 EUR
 inStock: true
 prodname: 'Sony DSC-HX80 - Cámara digital'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DDHH0MW/?tag=tolees-21'
+descuento: '54.86'
+titulo: 'Sony DSC-HX80 - Cámara digital'
 ---
 
 Está [Sony DSC-HX80 - Cámara digital](https://www.amazon.es/dp/B01DDHH0MW/?tag=tolees-21) con 54.86 de descuento por 203.15 EUR (original: 450 EUR) en el siguiente enlace!

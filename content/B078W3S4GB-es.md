@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Vans ISO 1.5  Zapatillas Unisex Adulto  Azul  Mesh   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078W3S4GB/?tag=tolees-21'
+descuento: '58.73'
+titulo: 'Vans ISO 1.5  Zapatillas Unisex Adulto  '
 ---
 
 Está [Vans ISO 1.5  Zapatillas Unisex Adulto  Azul  Mesh   39 EU](https://www.amazon.es/dp/B078W3S4GB/?tag=tolees-21) con 58.73 de descuento por 37.14 EUR (original: 90 EUR) en el siguiente enlace!

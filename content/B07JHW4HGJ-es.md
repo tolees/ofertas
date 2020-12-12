@@ -17,6 +17,9 @@ comparePrice: 22.67 EUR
 inStock: true
 prodname: 'New Look Muscle Fit 5876456  suéter para Hombre  Gris  Light Grey  Small  Talla del Fabricante: 51 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHW4HGJ/?tag=tolees-21'
+descuento: '46.45'
+titulo: 'New Look Muscle Fit 5876456  suéter para'
 ---
 
 Ahora mismo tienes [New Look Muscle Fit 5876456  suéter para Hombre  Gris  Light Grey  Small  Talla del Fabricante: 51 ](https://www.amazon.es/dp/B07JHW4HGJ/?tag=tolees-21) a 12.14 EUR (original: 22.67 EUR) (46.45 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'SECADOR DE PELO SECADORA SEMI PROFESIONAL 2000W DIFUSOR INCLUIDO 2 VELOCIDADES'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HZ44TWV/?tag=tolees-21'
+descuento: '30.05'
+titulo: 'SECADOR DE PELO SECADORA SEMI PROFESIONA'
 ---
 
 Tienes [SECADOR DE PELO SECADORA SEMI PROFESIONAL 2000W DIFUSOR INCLUIDO 2 VELOCIDADES](https://www.amazon.es/dp/B07HZ44TWV/?tag=tolees-21) con un 30.05 % de descuento con precio de oferta de 13.99 EUR (original: 20 EUR) en el siguiente enlace!

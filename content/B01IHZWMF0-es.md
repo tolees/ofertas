@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'The North Face Tekware TNF Chaqueta  Mujer  Negro  Tnf Black   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IHZWMF0/?tag=tolees-21'
+descuento: '40.65'
+titulo: 'The North Face Tekware TNF Chaqueta  Muj'
 ---
 
 Está [The North Face Tekware TNF Chaqueta  Mujer  Negro  Tnf Black   M](https://www.amazon.es/dp/B01IHZWMF0/?tag=tolees-21) con 40.65 de descuento por 44.51 EUR (original: 75 EUR) en el siguiente enlace!

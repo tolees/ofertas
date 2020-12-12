@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Go Walk 4-Attuned  Zapatillas sin Cordones para Mujer  Azul  Navy   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073GD8Q8S/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'Skechers Go Walk 4-Attuned  Zapatillas s'
 ---
 
 Ahora mismo tienes [Skechers Go Walk 4-Attuned  Zapatillas sin Cordones para Mujer  Azul  Navy   38 EU](https://www.amazon.es/dp/B073GD8Q8S/?tag=tolees-21) a 29.98 EUR (original: 59.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

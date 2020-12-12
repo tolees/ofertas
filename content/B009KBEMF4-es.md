@@ -17,6 +17,9 @@ comparePrice: 22.49 EUR
 inStock: true
 prodname: 'Post-It 70005197796 - Pack de 12 blocs Z-Notas encelofanado individual 90 H/bloc color Canary Yellow'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009KBEMF4/?tag=tolees-21'
+descuento: '41.89'
+titulo: 'Post-It 70005197796 - Pack de 12 blocs Z'
 ---
 
 Está [Post-It 70005197796 - Pack de 12 blocs Z-Notas encelofanado individual 90 H/bloc color Canary Yellow](https://www.amazon.es/dp/B009KBEMF4/?tag=tolees-21) con 41.89 de descuento por 13.07 EUR (original: 22.49 EUR) en el siguiente enlace!

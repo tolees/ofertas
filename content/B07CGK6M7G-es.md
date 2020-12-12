@@ -17,6 +17,9 @@ comparePrice: 359.99 EUR
 inStock: true
 prodname: 'Anni Kit de Cámaras Seguridad WiFi Vigilancia Inalámbrica Sistema 1080P 4CH HD NVR  4  1.0MP 720P Cámara CCTV Kit de Seguridad P2P Outdoor Visión Nocturna de Cámara De Sistema De Vigilancia NO HDD'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CGK6M7G/?tag=tolees-21'
+descuento: '62.50'
+titulo: 'Anni Kit de Cámaras Seguridad WiFi Vigil'
 ---
 
 Ahora mismo tienes [Anni Kit de Cámaras Seguridad WiFi Vigilancia Inalámbrica Sistema 1080P 4CH HD NVR  4  1.0MP 720P Cámara CCTV Kit de Seguridad P2P Outdoor Visión Nocturna de Cámara De Sistema De Vigilancia NO HDD](https://www.amazon.es/dp/B07CGK6M7G/?tag=tolees-21) a 134.99 EUR (original: 359.99 EUR) (62.50 %  de descuento) en el siguiente enlace!

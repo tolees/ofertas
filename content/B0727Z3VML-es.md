@@ -17,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'Nautica J73603  Chaqueta Deportiva para Hombre  Azul  True Navy   XX-Large  Tamaño del Fabricante:XXL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0727Z3VML/?tag=tolees-21'
+descuento: '80.10'
+titulo: 'Nautica J73603  Chaqueta Deportiva para '
 ---
 
 Está [Nautica J73603  Chaqueta Deportiva para Hombre  Azul  True Navy   XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B0727Z3VML/?tag=tolees-21) con 80.10 de descuento por 26.86 EUR (original: 135 EUR) en el siguiente enlace!

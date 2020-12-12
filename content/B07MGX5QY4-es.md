@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Slim Vaqueros  Azul  Lt Indigo Aged 8968-8436   27W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MGX5QY4/?tag=tolees-21'
+descuento: '81.05'
+titulo: 'G-STAR RAW 3301 Slim Vaqueros  Azul  Lt '
 ---
 
 Está [G-STAR RAW 3301 Slim Vaqueros  Azul  Lt Indigo Aged 8968-8436   27W / 32L para Hombre](https://www.amazon.es/dp/B07MGX5QY4/?tag=tolees-21) con 81.05 de descuento por 18.94 EUR (original: 99.95 EUR) en el siguiente enlace!

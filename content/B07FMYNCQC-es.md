@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Roxy Jetty Guantes  Mujer   Bright Blanco   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FMYNCQC/?tag=tolees-21'
+descuento: '61.67'
+titulo: 'Roxy Jetty Guantes  Mujer   Bright Blanc'
 ---
 
 Está [Roxy Jetty Guantes  Mujer   Bright Blanco   XL](https://www.amazon.es/dp/B07FMYNCQC/?tag=tolees-21) con 61.67 de descuento por 17.63 EUR (original: 45.99 EUR) en el siguiente enlace!

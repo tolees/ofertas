@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Globe Motley Mid  Zapatillas de Deporte para Hombre   Black Suede/White 000   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079DG4F2V/?tag=tolees-21'
+descuento: '65.06'
+titulo: 'Globe Motley Mid  Zapatillas de Deporte '
 ---
 
 Está [Globe Motley Mid  Zapatillas de Deporte para Hombre   Black Suede/White 000   39 EU](https://www.amazon.es/dp/B079DG4F2V/?tag=tolees-21) con 65.06 de descuento por 27.95 EUR (original: 80 EUR) en el siguiente enlace!

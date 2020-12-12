@@ -17,6 +17,9 @@ comparePrice: 72.9 EUR
 inStock: true
 prodname: 'Hugo Boss 13398 - Agua de perfume'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000OU30HG/?tag=tolees-21'
+descuento: '41.43'
+titulo: 'Hugo Boss 13398 - Agua de perfume'
 ---
 
 Tienes [Hugo Boss 13398 - Agua de perfume](https://www.amazon.es/dp/B000OU30HG/?tag=tolees-21) con un 41.43 % de descuento con precio de oferta de 42.7 EUR (original: 72.9 EUR) en el siguiente enlace!

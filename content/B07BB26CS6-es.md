@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Merrell Burnt Rock Tura Suede  Zapatillas para Hombre  Marrón Stone  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB26CS6/?tag=tolees-21'
+descuento: '31.86'
+titulo: 'Merrell Burnt Rock Tura Suede  Zapatilla'
 ---
 
 Tienes [Merrell Burnt Rock Tura Suede  Zapatillas para Hombre  Marrón Stone  42 EU](https://www.amazon.es/dp/B07BB26CS6/?tag=tolees-21) con un 31.86 % de descuento con precio de oferta de 74.95 EUR (original: 110 EUR) en el siguiente enlace!

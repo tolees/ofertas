@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'DAKINE Eq Duffle Mochila  Unisex Adulto  Negro  70 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078VFVS58/?tag=tolees-21'
+descuento: '63.73'
+titulo: 'DAKINE Eq Duffle Mochila  Unisex Adulto '
 ---
 
 Está [DAKINE Eq Duffle Mochila  Unisex Adulto  Negro  70 L](https://www.amazon.es/dp/B078VFVS58/?tag=tolees-21) con 63.73 de descuento por 19.95 EUR (original: 55 EUR) en el siguiente enlace!

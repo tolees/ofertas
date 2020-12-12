@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Timberland Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TBL15261MS.07A'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0763PNFS9/?tag=tolees-21'
+descuento: '65.71'
+titulo: 'Timberland Reloj Analógico para Hombre d'
 ---
 
 Está [Timberland Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TBL15261MS.07A](https://www.amazon.es/dp/B0763PNFS9/?tag=tolees-21) con 65.71 de descuento por 37.38 EUR (original: 109 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 190.21 EUR
 inStock: true
 prodname: 'besrey Triciclos Bebes Evolutivo Infantil 7en1 Bicicletas para Bebe Niños Reclinable Triciclo Cochecito con Cuna Reversible al Padres'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQKX5NZ/?tag=tolees-21'
+descuento: '33.76'
+titulo: 'besrey Triciclos Bebes Evolutivo Infanti'
 ---
 
 Tienes [besrey Triciclos Bebes Evolutivo Infantil 7en1 Bicicletas para Bebe Niños Reclinable Triciclo Cochecito con Cuna Reversible al Padres](https://www.amazon.es/dp/B07DQKX5NZ/?tag=tolees-21) con un 33.76 % de descuento con precio de oferta de 125.99 EUR (original: 190.21 EUR) en el siguiente enlace!

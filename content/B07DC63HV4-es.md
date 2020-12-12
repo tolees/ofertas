@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'APALUS Cortina Mosquitera Para Puertas. Tejido Súper Fino Para Dejar Pasar El Aire.Cierre Magnético Automático Que Evita el Paso de Insectos. Fácil de ensamblar  90x210 Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC63HV4/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'APALUS Cortina Mosquitera Para Puertas. '
 ---
 
 Ahora mismo tienes [APALUS Cortina Mosquitera Para Puertas. Tejido Súper Fino Para Dejar Pasar El Aire.Cierre Magnético Automático Que Evita el Paso de Insectos. Fácil de ensamblar  90x210 Blanco ](https://www.amazon.es/dp/B07DC63HV4/?tag=tolees-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

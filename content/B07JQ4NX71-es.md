@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'edc by Esprit 998cc2b820 Vaqueros Tapered  Azul  Blue Medium Wash 902   W32/L30  Talla del Fabricante: 32/30  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQ4NX71/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'edc by Esprit 998cc2b820 Vaqueros Tapere'
 ---
 
 Está [edc by Esprit 998cc2b820 Vaqueros Tapered  Azul  Blue Medium Wash 902   W32/L30  Talla del Fabricante: 32/30  para Hombre](https://www.amazon.es/dp/B07JQ4NX71/?tag=tolees-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

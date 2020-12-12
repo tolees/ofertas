@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Unity-Go Big  Entrenadores para Mujer  Gris  Grey   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HRWEQ94/?tag=tolees-21'
+descuento: '64.30'
+titulo: 'Skechers Unity-Go Big  Entrenadores para'
 ---
 
 Ahora mismo tienes [Skechers Unity-Go Big  Entrenadores para Mujer  Gris  Grey   36 EU](https://www.amazon.es/dp/B01HRWEQ94/?tag=tolees-21) a 23.19 EUR (original: 64.95 EUR) (64.30 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 43.84 EUR
 inStock: true
 prodname: 'Panter 447021700 - FRAGUA LINK S3 NEGRO 247 Talla: 40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017L6LT8W/?tag=tolees-21'
+descuento: '36.47'
+titulo: 'Panter 447021700 - FRAGUA LINK S3 NEGRO '
 ---
 
 Está [Panter 447021700 - FRAGUA LINK S3 NEGRO 247 Talla: 40](https://www.amazon.es/dp/B017L6LT8W/?tag=tolees-21) con 36.47 de descuento por 27.85 EUR (original: 43.84 EUR) en el siguiente enlace!

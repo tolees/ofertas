@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 43ea001  Botas Militar para Hombre  Amarillo  Golden Tan 910   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJLFM8W/?tag=tolees-21'
+descuento: '26.49'
+titulo: 'Dockers by Gerli 43ea001  Botas Militar '
 ---
 
 Tienes [Dockers by Gerli 43ea001  Botas Militar para Hombre  Amarillo  Golden Tan 910   45 EU](https://www.amazon.es/dp/B07DJLFM8W/?tag=tolees-21) con un 26.49 % de descuento con precio de oferta de 44.07 EUR (original: 59.95 EUR) en el siguiente enlace!

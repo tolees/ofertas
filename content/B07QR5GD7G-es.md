@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Maxesla Adaptador WiFi USB 1200 Mbps WiFi Dongle 5G/2.4G Dual Band Desmontable 5dBi Antena para PC/Escritorio/Laptop/Tablet Soporte Windows XP/Vista/2000/7/8/10  Mac OSX 10.6-10.14  Ubuntu Linux'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QR5GD7G/?tag=tolees-21'
+descuento: '30.45'
+titulo: 'Maxesla Adaptador WiFi USB 1200 Mbps WiF'
 ---
 
 Está [Maxesla Adaptador WiFi USB 1200 Mbps WiFi Dongle 5G/2.4G Dual Band Desmontable 5dBi Antena para PC/Escritorio/Laptop/Tablet Soporte Windows XP/Vista/2000/7/8/10  Mac OSX 10.6-10.14  Ubuntu Linux](https://www.amazon.es/dp/B07QR5GD7G/?tag=tolees-21) con 30.45 de descuento por 15.99 EUR (original: 22.99 EUR) en el siguiente enlace!

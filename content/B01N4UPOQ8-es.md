@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Etnies Scout Yb  Zapatillas de Skateboard para Hombre  Rojo  Black/Grey/Red   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4UPOQ8/?tag=tolees-21'
+descuento: '74.60'
+titulo: 'Etnies Scout Yb  Zapatillas de Skateboar'
 ---
 
 Está [Etnies Scout Yb  Zapatillas de Skateboard para Hombre  Rojo  Black/Grey/Red   41 EU](https://www.amazon.es/dp/B01N4UPOQ8/?tag=tolees-21) con 74.60 de descuento por 21.59 EUR (original: 85 EUR) en el siguiente enlace!

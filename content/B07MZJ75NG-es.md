@@ -17,6 +17,9 @@ comparePrice: 39.75 EUR
 inStock: true
 prodname: 'Superdry Shirt Shop tee Camiseta  Blanco  Optic 01c   XL para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZJ75NG/?tag=tolees-21'
+descuento: '47.30'
+titulo: 'Superdry Shirt Shop tee Camiseta  Blanco'
 ---
 
 Está [Superdry Shirt Shop tee Camiseta  Blanco  Optic 01c   XL para Hombre](https://www.amazon.es/dp/B07MZJ75NG/?tag=tolees-21) con 47.30 de descuento por 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!

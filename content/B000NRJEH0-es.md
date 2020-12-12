@@ -17,6 +17,9 @@ comparePrice: 23.95 EUR
 inStock: true
 prodname: 'Cressi Rondinella - Aletas  Color Azul  Talla 37-38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000NRJEH0/?tag=tolees-21'
+descuento: '41.75'
+titulo: 'Cressi Rondinella - Aletas  Color Azul  '
 ---
 
 Tienes [Cressi Rondinella - Aletas  Color Azul  Talla 37-38](https://www.amazon.es/dp/B000NRJEH0/?tag=tolees-21) con un 41.75 % de descuento con precio de oferta de 13.95 EUR (original: 23.95 EUR) en el siguiente enlace!

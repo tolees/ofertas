@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Belkin - Mochila para ordenador portátil de 15.6    negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0026P8ETQ/?tag=tolees-21'
+descuento: '30.74'
+titulo: 'Belkin - Mochila para ordenador portátil'
 ---
 
 Está [Belkin - Mochila para ordenador portátil de 15.6    negro](https://www.amazon.es/dp/B0026P8ETQ/?tag=tolees-21) con 30.74 de descuento por 41.55 EUR (original: 59.99 EUR) en el siguiente enlace!

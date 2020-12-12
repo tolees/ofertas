@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Hurley - Sudadera con capucha para hombre  Gris  talla XXL "M Surf Check One & Only"'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K3M68RB/?tag=tolees-21'
+descuento: '50.93'
+titulo: 'Hurley - Sudadera con capucha para hombr'
 ---
 
 Tienes [Hurley - Sudadera con capucha para hombre  Gris  talla XXL "M Surf Check One & Only"](https://www.amazon.es/dp/B07K3M68RB/?tag=tolees-21) con un 50.93 % de descuento con precio de oferta de 26.99 EUR (original: 55 EUR) en el siguiente enlace!

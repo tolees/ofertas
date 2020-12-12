@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'FIND Mocasines de Ante con Suela de Goma Hombre  Azul  Bright Blue   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077FTNPTF/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'FIND Mocasines de Ante con Suela de Goma'
 ---
 
 Ahora mismo tienes [FIND Mocasines de Ante con Suela de Goma Hombre  Azul  Bright Blue   40 EU](https://www.amazon.es/dp/B077FTNPTF/?tag=tolees-21) a 38.5 EUR (original: 55 EUR) (30.00 %  de descuento) en el siguiente enlace!

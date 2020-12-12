@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Lee Logo tee  Camiseta para Mujer  Negro  Black 01  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072QRSDVN/?tag=tolees-21'
+descuento: '50.24'
+titulo: 'Lee Logo tee  Camiseta para Mujer  Negro'
 ---
 
 Tienes [Lee Logo tee  Camiseta para Mujer  Negro  Black 01  Large](https://www.amazon.es/dp/B072QRSDVN/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 12.44 EUR (original: 25 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.96 EUR
 inStock: true
 prodname: 'Bresser SS-28 Carpa de Foto + Power Softbox con portalámpara 70x70cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0161FE2RO/?tag=tolees-21'
+descuento: '73.08'
+titulo: 'Bresser SS-28 Carpa de Foto + Power Soft'
 ---
 
 Está [Bresser SS-28 Carpa de Foto + Power Softbox con portalámpara 70x70cm](https://www.amazon.es/dp/B0161FE2RO/?tag=tolees-21) con 73.08 de descuento por 13.45 EUR (original: 49.96 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Levi s 502 Regular Taper  Vaqueros Tapered para Hombre  Azul  Quickstep T2 0281   W34/L34  Talla del fabricante: 34/34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPTS584/?tag=tolees-21'
+descuento: '40.05'
+titulo: 'Levi s 502 Regular Taper  Vaqueros Taper'
 ---
 
 Tienes [Levi s 502 Regular Taper  Vaqueros Tapered para Hombre  Azul  Quickstep T2 0281   W34/L34  Talla del fabricante: 34/34 ](https://www.amazon.es/dp/B07DPTS584/?tag=tolees-21) con un 40.05 % de descuento con precio de oferta de 59.95 EUR (original: 100 EUR) en el siguiente enlace!

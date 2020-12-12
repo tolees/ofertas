@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Under Armour Boy UA Official Tour Cap 2.0 Gorra  Niños  Blanco  100   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019ZICSUM/?tag=tolees-21'
+descuento: '52.20'
+titulo: 'Under Armour Boy UA Official Tour Cap 2.'
 ---
 
 Está [Under Armour Boy UA Official Tour Cap 2.0 Gorra  Niños  Blanco  100   S](https://www.amazon.es/dp/B019ZICSUM/?tag=tolees-21) con 52.20 de descuento por 9.56 EUR (original: 20 EUR) en el siguiente enlace!

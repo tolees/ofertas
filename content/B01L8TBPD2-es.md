@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'ibowin® 10.1 Pulgada Funda de cuero para ibowin modelo 10.1 Pulgada M10  M130  Funda con soporte en folio para Phablet PC  también para otras marcas del mismo modelo Tablet PC - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L8TBPD2/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'ibowin® 10.1 Pulgada Funda de cuero para'
 ---
 
 Ahora mismo tienes [ibowin® 10.1 Pulgada Funda de cuero para ibowin modelo 10.1 Pulgada M10  M130  Funda con soporte en folio para Phablet PC  también para otras marcas del mismo modelo Tablet PC - Negro](https://www.amazon.es/dp/B01L8TBPD2/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

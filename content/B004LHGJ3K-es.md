@@ -17,6 +17,9 @@ comparePrice: 48.2 EUR
 inStock: true
 prodname: 'Bausch & Lomb - Soflens 59 Esféricas - Lentes de Contacto Mensuales - Pack de 6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004LHGJ3K/?tag=tolees-21'
+descuento: '81.43'
+titulo: 'Bausch & Lomb - Soflens 59 Esféricas - L'
 ---
 
 Está [Bausch & Lomb - Soflens 59 Esféricas - Lentes de Contacto Mensuales - Pack de 6](https://www.amazon.es/dp/B004LHGJ3K/?tag=tolees-21) con 81.43 de descuento por 8.95 EUR (original: 48.2 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Zapatillas Mujer Purpurina Blancas con Rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NLHVKXM/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'Zapatillas Mujer Purpurina Blancas con R'
 ---
 
 Está [Zapatillas Mujer Purpurina Blancas con Rosa](https://www.amazon.es/dp/B07NLHVKXM/?tag=tolees-21) con 25.03 de descuento por 29.95 EUR (original: 39.95 EUR) en el siguiente enlace!

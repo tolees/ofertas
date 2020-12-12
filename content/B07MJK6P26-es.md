@@ -17,6 +17,9 @@ comparePrice: 45.04 EUR
 inStock: true
 prodname: 'Pablosky Sandalias con Punta Abierta para Niñas   Blanco 465103   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MJK6P26/?tag=tolees-21'
+descuento: '30.06'
+titulo: 'Pablosky Sandalias con Punta Abierta par'
 ---
 
 Tienes [Pablosky Sandalias con Punta Abierta para Niñas   Blanco 465103   32 EU](https://www.amazon.es/dp/B07MJK6P26/?tag=tolees-21) con un 30.06 % de descuento con precio de oferta de 31.5 EUR (original: 45.04 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'hummel Choice  Zapatillas Unisex Adulto  Azul  Black Iris 1009   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DR5HW5F/?tag=tolees-21'
+descuento: '56.14'
+titulo: 'hummel Choice  Zapatillas Unisex Adulto '
 ---
 
 Ahora mismo tienes [hummel Choice  Zapatillas Unisex Adulto  Azul  Black Iris 1009   37 EU](https://www.amazon.es/dp/B07DR5HW5F/?tag=tolees-21) a 21.91 EUR (original: 49.95 EUR) (56.14 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25.82 EUR
 inStock: true
 prodname: 'New Look Button Through Tea Vestido  Negro  Black 1   38  Talla del Fabricante: 10  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PCMQFF7/?tag=tolees-21'
+descuento: '32.22'
+titulo: 'New Look Button Through Tea Vestido  Neg'
 ---
 
 Ahora mismo tienes [New Look Button Through Tea Vestido  Negro  Black 1   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07PCMQFF7/?tag=tolees-21) a 17.5 EUR (original: 25.82 EUR) (32.22 %  de descuento) en el siguiente enlace!

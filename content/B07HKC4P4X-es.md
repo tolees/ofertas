@@ -17,6 +17,9 @@ comparePrice: 26.21 EUR
 inStock: true
 prodname: 'Grsafety Especiero Extensible - Estante para Especias idóneo como Organizador de Condimentos o Salsas ，（Estante de Maquillaje）'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HKC4P4X/?tag=tolees-21'
+descuento: '40.14'
+titulo: 'Grsafety Especiero Extensible - Estante '
 ---
 
 Tienes [Grsafety Especiero Extensible - Estante para Especias idóneo como Organizador de Condimentos o Salsas ，（Estante de Maquillaje）](https://www.amazon.es/dp/B07HKC4P4X/?tag=tolees-21) con un 40.14 % de descuento con precio de oferta de 15.69 EUR (original: 26.21 EUR) en el siguiente enlace!

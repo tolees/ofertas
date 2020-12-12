@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Under Armour Play Up  Pantalones cortos para niñas  Negro  YXS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FWRGAQI/?tag=tolees-21'
+descuento: '62.95'
+titulo: 'Under Armour Play Up  Pantalones cortos '
 ---
 
 Está [Under Armour Play Up  Pantalones cortos para niñas  Negro  YXS](https://www.amazon.es/dp/B01FWRGAQI/?tag=tolees-21) con 62.95 de descuento por 7.41 EUR (original: 20 EUR) en el siguiente enlace!

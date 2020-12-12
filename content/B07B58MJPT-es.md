@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-Star Raw Lynn Mid Skinny Wmn New  Vaqueros para Mujer  Azul  Lt Aged 424   W26/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B58MJPT/?tag=tolees-21'
+descuento: '56.13'
+titulo: 'G-Star Raw Lynn Mid Skinny Wmn New  Vaqu'
 ---
 
 Ahora mismo tienes [G-Star Raw Lynn Mid Skinny Wmn New  Vaqueros para Mujer  Azul  Lt Aged 424   W26/L34](https://www.amazon.es/dp/B07B58MJPT/?tag=tolees-21) a 43.85 EUR (original: 99.95 EUR) (56.13 %  de descuento) en el siguiente enlace!

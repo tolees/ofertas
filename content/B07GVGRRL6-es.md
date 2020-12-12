@@ -17,6 +17,9 @@ comparePrice: 56.99 EUR
 inStock: true
 prodname: 'VGROUND W95 Android TV Box con Cuatro Núcleos Amlogic S905W  2 GB de RAM 16 GB ROM  4K UHD  Wi-Fi Incorporado y LAN VP9 DLNA H.265'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GVGRRL6/?tag=tolees-21'
+descuento: '35.09'
+titulo: 'VGROUND W95 Android TV Box con Cuatro Nú'
 ---
 
 Está [VGROUND W95 Android TV Box con Cuatro Núcleos Amlogic S905W  2 GB de RAM 16 GB ROM  4K UHD  Wi-Fi Incorporado y LAN VP9 DLNA H.265](https://www.amazon.es/dp/B07GVGRRL6/?tag=tolees-21) con 35.09 de descuento por 36.99 EUR (original: 56.99 EUR) en el siguiente enlace!

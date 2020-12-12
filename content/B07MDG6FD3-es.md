@@ -17,6 +17,9 @@ comparePrice: 62.79 EUR
 inStock: true
 prodname: 'MYEUSSN - Biombo para Separar Espacios  PVC  Madera y plástico  12 Unidades   Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MDG6FD3/?tag=tolees-21'
+descuento: '34.51'
+titulo: 'MYEUSSN - Biombo para Separar Espacios  '
 ---
 
 Está [MYEUSSN - Biombo para Separar Espacios  PVC  Madera y plástico  12 Unidades   Color Blanco](https://www.amazon.es/dp/B07MDG6FD3/?tag=tolees-21) con 34.51 de descuento por 41.12 EUR (original: 62.79 EUR) en el siguiente enlace!

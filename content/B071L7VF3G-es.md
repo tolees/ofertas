@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Sine Mora EX'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071L7VF3G/?tag=tolees-21'
+descuento: '25.31'
+titulo: 'Sine Mora EX'
 ---
 
 Tienes [Sine Mora EX](https://www.amazon.es/dp/B071L7VF3G/?tag=tolees-21) con un 25.31 % de descuento con precio de oferta de 14.93 EUR (original: 19.99 EUR) en el siguiente enlace!

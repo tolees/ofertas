@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'adidas WTS Hoody&Tight Chándal  Mujer  Negro/multco/blapur  2XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTXK9QL/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas WTS Hoody&Tight Chándal  Mujer  N'
 ---
 
 Está [adidas WTS Hoody&Tight Chándal  Mujer  Negro/multco/blapur  2XS](https://www.amazon.es/dp/B07KTXK9QL/?tag=tolees-21) con 49.99 de descuento por 42.48 EUR (original: 84.95 EUR) en el siguiente enlace!

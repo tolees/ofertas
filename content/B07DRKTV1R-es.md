@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Under Armour Rival Wordmark Hoody Parte Superior del Calentamiento  Niños  Gris  Pitch Gray/Orange Glitch 012   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DRKTV1R/?tag=tolees-21'
+descuento: '57.21'
+titulo: 'Under Armour Rival Wordmark Hoody Parte '
 ---
 
 Ahora mismo tienes [Under Armour Rival Wordmark Hoody Parte Superior del Calentamiento  Niños  Gris  Pitch Gray/Orange Glitch 012   M](https://www.amazon.es/dp/B07DRKTV1R/?tag=tolees-21) a 19.25 EUR (original: 44.99 EUR) (57.21 %  de descuento) en el siguiente enlace!

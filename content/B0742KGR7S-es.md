@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'ALESYA by Scarpe&Scarpe - Zapatos de salón con elásticos Cruzados y Punta Alargada - 36 0  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0742KGR7S/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'ALESYA by Scarpe&Scarpe - Zapatos de sal'
 ---
 
 Ahora mismo tienes [ALESYA by Scarpe&Scarpe - Zapatos de salón con elásticos Cruzados y Punta Alargada - 36 0  Negro](https://www.amazon.es/dp/B0742KGR7S/?tag=tolees-21) a 24.95 EUR (original: 49.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

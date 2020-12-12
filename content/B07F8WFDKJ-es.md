@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Sicario: El Día Del Soldado  4K UHD + BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8WFDKJ/?tag=tolees-21'
+descuento: '27.79'
+titulo: 'Sicario: El Día Del Soldado  4K UHD + BD'
 ---
 
 Tienes [Sicario: El Día Del Soldado  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07F8WFDKJ/?tag=tolees-21) con un 27.79 % de descuento con precio de oferta de 19.49 EUR (original: 26.99 EUR) en el siguiente enlace!

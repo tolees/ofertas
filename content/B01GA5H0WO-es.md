@@ -17,6 +17,9 @@ comparePrice: 49.94 EUR
 inStock: true
 prodname: 'VERO MODA VMSENSE SHORT WAISTCOAT DNM  Chaleco deportivo Mujer  Gris  Peat   38  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GA5H0WO/?tag=tolees-21'
+descuento: '70.20'
+titulo: 'VERO MODA VMSENSE SHORT WAISTCOAT DNM  C'
 ---
 
 Tienes [VERO MODA VMSENSE SHORT WAISTCOAT DNM  Chaleco deportivo Mujer  Gris  Peat   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01GA5H0WO/?tag=tolees-21) con un 70.20 % de descuento con precio de oferta de 14.88 EUR (original: 49.94 EUR) en el siguiente enlace!

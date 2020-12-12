@@ -17,6 +17,9 @@ comparePrice: 50.85 EUR
 inStock: true
 prodname: 'adidas Botas Slouch Unisex Adulto   Db2484 Multicolor   45 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DXJWYMT/?tag=tolees-21'
+descuento: '47.47'
+titulo: 'adidas Botas Slouch Unisex Adulto   Db24'
 ---
 
 Está [adidas Botas Slouch Unisex Adulto   Db2484 Multicolor   45 1/3 EU](https://www.amazon.es/dp/B07DXJWYMT/?tag=tolees-21) con 47.47 de descuento por 26.71 EUR (original: 50.85 EUR) en el siguiente enlace!

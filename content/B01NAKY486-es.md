@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'The North Face Thermoball Traction  Botas de Nieve para Mujer  Negro  Shiny TNF Black/Beluga Grey Ywy   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NAKY486/?tag=tolees-21'
+descuento: '50.08'
+titulo: 'The North Face Thermoball Traction  Bota'
 ---
 
 Está [The North Face Thermoball Traction  Botas de Nieve para Mujer  Negro  Shiny TNF Black/Beluga Grey Ywy   38 EU](https://www.amazon.es/dp/B01NAKY486/?tag=tolees-21) con 50.08 de descuento por 29.95 EUR (original: 60 EUR) en el siguiente enlace!

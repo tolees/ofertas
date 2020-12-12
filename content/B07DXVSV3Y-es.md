@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Under Armour UA GL Wordmark SS T Camiseta  Hombre  Azul  Academy/Mediterranean/Steel 408   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DXVSV3Y/?tag=tolees-21'
+descuento: '41.29'
+titulo: 'Under Armour UA GL Wordmark SS T Camiset'
 ---
 
 Está [Under Armour UA GL Wordmark SS T Camiseta  Hombre  Azul  Academy/Mediterranean/Steel 408   L](https://www.amazon.es/dp/B07DXVSV3Y/?tag=tolees-21) con 41.29 de descuento por 15.26 EUR (original: 25.99 EUR) en el siguiente enlace!

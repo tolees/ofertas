@@ -17,6 +17,9 @@ comparePrice: 14.4 EUR
 inStock: true
 prodname: 'Collistar Perfect Hair Volumizing Shampoo Champú - 250 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00F647IMS/?tag=tolees-21'
+descuento: '52.08'
+titulo: 'Collistar Perfect Hair Volumizing Shampo'
 ---
 
 Ahora mismo tienes [Collistar Perfect Hair Volumizing Shampoo Champú - 250 ml](https://www.amazon.es/dp/B00F647IMS/?tag=tolees-21) a 6.9 EUR (original: 14.4 EUR) (52.08 %  de descuento) en el siguiente enlace!

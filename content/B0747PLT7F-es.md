@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'FIND Vestido por Media Pierna para Mujer  Gris  Grey   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0747PLT7F/?tag=tolees-21'
+descuento: '59.19'
+titulo: 'FIND Vestido por Media Pierna para Mujer'
 ---
 
 Está [FIND Vestido por Media Pierna para Mujer  Gris  Grey   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B0747PLT7F/?tag=tolees-21) con 59.19 de descuento por 10.61 EUR (original: 26 EUR) en el siguiente enlace!

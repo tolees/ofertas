@@ -17,6 +17,9 @@ comparePrice: 72 EUR
 inStock: true
 prodname: 'Citizen Reloj de Pulsera Q894J204Y'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011QZV7D6/?tag=tolees-21'
+descuento: '51.81'
+titulo: 'Citizen Reloj de Pulsera Q894J204Y'
 ---
 
 Tienes [Citizen Reloj de Pulsera Q894J204Y](https://www.amazon.es/dp/B011QZV7D6/?tag=tolees-21) con un 51.81 % de descuento con precio de oferta de 34.7 EUR (original: 72 EUR) en el siguiente enlace!

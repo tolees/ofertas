@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Kappa Speed II  Zapatillas Unisex Adulto  Negro  1110 Black/White   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015KKQXK0/?tag=tolees-21'
+descuento: '42.92'
+titulo: 'Kappa Speed II  Zapatillas Unisex Adulto'
 ---
 
 Tienes [Kappa Speed II  Zapatillas Unisex Adulto  Negro  1110 Black/White   36 EU](https://www.amazon.es/dp/B015KKQXK0/?tag=tolees-21) con un 42.92 % de descuento con precio de oferta de 19.95 EUR (original: 34.95 EUR) en el siguiente enlace!

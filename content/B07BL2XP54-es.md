@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'New Balance Fuel Cell Impulse  Zapatillas de Running para Mujer  Turquesa  Light Tidepool/Black TB   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL2XP54/?tag=tolees-21'
+descuento: '77.98'
+titulo: 'New Balance Fuel Cell Impulse  Zapatilla'
 ---
 
 Tienes [New Balance Fuel Cell Impulse  Zapatillas de Running para Mujer  Turquesa  Light Tidepool/Black TB   37.5 EU](https://www.amazon.es/dp/B07BL2XP54/?tag=tolees-21) con un 77.98 % de descuento con precio de oferta de 30.83 EUR (original: 140 EUR) en el siguiente enlace!

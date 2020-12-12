@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES PREMIUM Jprthomas Knit Crew Neck Noos suéter  Rojo  Winetasting Detail: Twisted with Black   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DM337YF/?tag=tolees-21'
+descuento: '76.64'
+titulo: 'JACK & JONES PREMIUM Jprthomas Knit Crew'
 ---
 
 Ahora mismo tienes [JACK & JONES PREMIUM Jprthomas Knit Crew Neck Noos suéter  Rojo  Winetasting Detail: Twisted with Black   X-Large para Hombre](https://www.amazon.es/dp/B07DM337YF/?tag=tolees-21) a 9.34 EUR (original: 39.99 EUR) (76.64 %  de descuento) en el siguiente enlace!

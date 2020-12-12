@@ -17,6 +17,9 @@ comparePrice: 33.05 EUR
 inStock: true
 prodname: 'AEG VL 5529 Ventilador portátil de Mesa y Pared  30 cm  30 W  3 Velocidades  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001UHOU12/?tag=tolees-21'
+descuento: '30.71'
+titulo: 'AEG VL 5529 Ventilador portátil de Mesa '
 ---
 
 Está [AEG VL 5529 Ventilador portátil de Mesa y Pared  30 cm  30 W  3 Velocidades  Negro](https://www.amazon.es/dp/B001UHOU12/?tag=tolees-21) con 30.71 de descuento por 22.9 EUR (original: 33.05 EUR) en el siguiente enlace!

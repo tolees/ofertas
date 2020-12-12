@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'Marca Amazon - Solimo -  Galletas Japonais  merengue con  chocolate y avellana  - 8 packs de 100 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSNY99B/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Marca Amazon - Solimo -  Galletas Japona'
 ---
 
 Está [Marca Amazon - Solimo -  Galletas Japonais  merengue con  chocolate y avellana  - 8 packs de 100 g](https://www.amazon.es/dp/B07FSNY99B/?tag=tolees-21) con 25.00 de descuento por 11.25 EUR (original: 15 EUR) en el siguiente enlace!

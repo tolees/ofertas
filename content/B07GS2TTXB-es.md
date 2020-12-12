@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'LOBKIN Auriculares Bluetooth  S2 Auriculares inalámbricos a Prueba de Agua IPX5  Altavoces estéreo HD con micrófono  Auriculares con cancelación de Ruido  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GS2TTXB/?tag=tolees-21'
+descuento: '80.01'
+titulo: 'LOBKIN Auriculares Bluetooth  S2 Auricul'
 ---
 
 Tienes [LOBKIN Auriculares Bluetooth  S2 Auriculares inalámbricos a Prueba de Agua IPX5  Altavoces estéreo HD con micrófono  Auriculares con cancelación de Ruido  Negro ](https://www.amazon.es/dp/B07GS2TTXB/?tag=tolees-21) con un 80.01 % de descuento con precio de oferta de 19.99 EUR (original: 99.99 EUR) en el siguiente enlace!

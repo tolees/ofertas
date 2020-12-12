@@ -17,6 +17,9 @@ comparePrice: 279 EUR
 inStock: true
 prodname: 'Swarovski Reloj Crystalline Pure  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07222HDXN/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Swarovski Reloj Crystalline Pure  negro'
 ---
 
 Está [Swarovski Reloj Crystalline Pure  negro](https://www.amazon.es/dp/B07222HDXN/?tag=tolees-21) con 50.00 de descuento por 139.5 EUR (original: 279 EUR) en el siguiente enlace!

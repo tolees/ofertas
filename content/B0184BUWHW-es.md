@@ -17,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Nixon Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable A450-712-00'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0184BUWHW/?tag=tolees-21'
+descuento: '39.30'
+titulo: 'Nixon Reloj Analógico para Unisex de Cua'
 ---
 
 Está [Nixon Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable A450-712-00](https://www.amazon.es/dp/B0184BUWHW/?tag=tolees-21) con 39.30 de descuento por 121.39 EUR (original: 200 EUR) en el siguiente enlace!

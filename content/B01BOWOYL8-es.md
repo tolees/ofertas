@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Ralph Lauren Ralph by 0Ra5206 Gafas de Sol  Black  51 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BOWOYL8/?tag=tolees-21'
+descuento: '65.83'
+titulo: 'Ralph Lauren Ralph by 0Ra5206 Gafas de S'
 ---
 
 Tienes [Ralph Lauren Ralph by 0Ra5206 Gafas de Sol  Black  51 para Mujer](https://www.amazon.es/dp/B01BOWOYL8/?tag=tolees-21) con un 65.83 % de descuento con precio de oferta de 41 EUR (original: 120 EUR) en el siguiente enlace!

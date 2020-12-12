@@ -17,6 +17,9 @@ comparePrice: 25.95 EUR
 inStock: true
 prodname: 'Maca Tabletas 500mg por ProNutriWorld | El 100% producto natural apoya el bienestar | el aumentador de presión de la energía y del humor  puede ayudar a fertilidad y alzar libido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZE90HC/?tag=tolees-21'
+descuento: '38.38'
+titulo: 'Maca Tabletas 500mg por ProNutriWorld | '
 ---
 
 Está [Maca Tabletas 500mg por ProNutriWorld | El 100% producto natural apoya el bienestar | el aumentador de presión de la energía y del humor  puede ayudar a fertilidad y alzar libido](https://www.amazon.es/dp/B01LZE90HC/?tag=tolees-21) con 38.38 de descuento por 15.99 EUR (original: 25.95 EUR) en el siguiente enlace!

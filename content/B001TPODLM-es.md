@@ -17,6 +17,9 @@ comparePrice: 13.63 EUR
 inStock: true
 prodname: 'Einhell BT-GG 200P - Pistola de pegamento  12W  230V  200g '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001TPODLM/?tag=tolees-21'
+descuento: '59.72'
+titulo: 'Einhell BT-GG 200P - Pistola de pegament'
 ---
 
 Está [Einhell BT-GG 200P - Pistola de pegamento  12W  230V  200g ](https://www.amazon.es/dp/B001TPODLM/?tag=tolees-21) con 59.72 de descuento por 5.49 EUR (original: 13.63 EUR) en el siguiente enlace!

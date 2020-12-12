@@ -17,6 +17,9 @@ comparePrice: 7.68 EUR
 inStock: true
 prodname: 'Bosch 2 609 256 561 - Disco de fieltro de pulido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009RQ1FKM/?tag=tolees-21'
+descuento: '51.69'
+titulo: 'Bosch 2 609 256 561 - Disco de fieltro d'
 ---
 
 Está [Bosch 2 609 256 561 - Disco de fieltro de pulido](https://www.amazon.es/dp/B009RQ1FKM/?tag=tolees-21) con 51.69 de descuento por 3.71 EUR (original: 7.68 EUR) en el siguiente enlace!

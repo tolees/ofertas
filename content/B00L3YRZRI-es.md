@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Grès Lumière Rose Eau de Parfum - 100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00L3YRZRI/?tag=tolees-21'
+descuento: '59.19'
+titulo: 'Grès Lumière Rose Eau de Parfum - 100 ml'
 ---
 
 Tienes [Grès Lumière Rose Eau de Parfum - 100 ml](https://www.amazon.es/dp/B00L3YRZRI/?tag=tolees-21) con un 59.19 % de descuento con precio de oferta de 28.16 EUR (original: 69 EUR) en el siguiente enlace!

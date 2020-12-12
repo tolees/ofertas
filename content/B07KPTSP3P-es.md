@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Mogao Caves Calcetines Animales Mujer Calcetines de Divertidos Ocasionales  Mujer Novedad Calcetines de Gato 5 Pares  EU 37-44'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPTSP3P/?tag=tolees-21'
+descuento: '38.48'
+titulo: 'Mogao Caves Calcetines Animales Mujer Ca'
 ---
 
 Está [Mogao Caves Calcetines Animales Mujer Calcetines de Divertidos Ocasionales  Mujer Novedad Calcetines de Gato 5 Pares  EU 37-44](https://www.amazon.es/dp/B07KPTSP3P/?tag=tolees-21) con 38.48 de descuento por 15.99 EUR (original: 25.99 EUR) en el siguiente enlace!

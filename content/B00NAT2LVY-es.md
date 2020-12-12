@@ -17,6 +17,9 @@ comparePrice: 11 EUR
 inStock: true
 prodname: 'RITUALS Samurai Cool Hair champú 250 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NAT2LVY/?tag=tolees-21'
+descuento: '48.18'
+titulo: 'RITUALS Samurai Cool Hair champú 250 ml'
 ---
 
 Ahora mismo tienes [RITUALS Samurai Cool Hair champú 250 ml](https://www.amazon.es/dp/B00NAT2LVY/?tag=tolees-21) a 5.7 EUR (original: 11 EUR) (48.18 %  de descuento) en el siguiente enlace!

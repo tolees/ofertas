@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'GlobeEncore-2  Zapatillas de Skateboard Hombre  Azul  Navy/Yellow   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXQUPBG/?tag=tolees-21'
+descuento: '65.06'
+titulo: 'GlobeEncore-2  Zapatillas de Skateboard '
 ---
 
 Está [GlobeEncore-2  Zapatillas de Skateboard Hombre  Azul  Navy/Yellow   37 EU](https://www.amazon.es/dp/B01MXQUPBG/?tag=tolees-21) con 65.06 de descuento por 27.95 EUR (original: 80 EUR) en el siguiente enlace!

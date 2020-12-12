@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Jata Tostador Tt331 750W  750 W  0 Decibeles  Acero Inoxidable/plastico  2 Ranuras  Color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0081SVJ9E/?tag=tolees-21'
+descuento: '38.19'
+titulo: 'Jata Tostador Tt331 750W  750 W  0 Decib'
 ---
 
 Tienes [Jata Tostador Tt331 750W  750 W  0 Decibeles  Acero Inoxidable/plastico  2 Ranuras  Color blanco](https://www.amazon.es/dp/B0081SVJ9E/?tag=tolees-21) con un 38.19 % de descuento con precio de oferta de 12.3 EUR (original: 19.9 EUR) en el siguiente enlace!

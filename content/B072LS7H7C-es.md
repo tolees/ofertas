@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma Pulse Ignite XT  Zapatillas Deportivas para Interior para Mujer  Negro  Black-White   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LS7H7C/?tag=tolees-21'
+descuento: '64.24'
+titulo: 'Puma Pulse Ignite XT  Zapatillas Deporti'
 ---
 
 Ahora mismo tienes [Puma Pulse Ignite XT  Zapatillas Deportivas para Interior para Mujer  Negro  Black-White   38 EU](https://www.amazon.es/dp/B072LS7H7C/?tag=tolees-21) a 28.59 EUR (original: 79.95 EUR) (64.24 %  de descuento) en el siguiente enlace!

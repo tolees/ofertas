@@ -17,6 +17,9 @@ comparePrice: 64.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Cn SS Short Set Hilfiger Pijama  Navy Blazer 009  Large  Talla del Fabricante: LG  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBLDSMT/?tag=tolees-21'
+descuento: '50.69'
+titulo: 'Tommy Hilfiger Cn SS Short Set Hilfiger '
 ---
 
 Está [Tommy Hilfiger Cn SS Short Set Hilfiger Pijama  Navy Blazer 009  Large  Talla del Fabricante: LG  para Hombre](https://www.amazon.es/dp/B07LBLDSMT/?tag=tolees-21) con 50.69 de descuento por 32 EUR (original: 64.9 EUR) en el siguiente enlace!

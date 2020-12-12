@@ -17,6 +17,9 @@ comparePrice: 34.96 EUR
 inStock: true
 prodname: 'adidas CON18 PES JKT Jacket  Hombre  Negro/Blanco  Rojo   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076HQ3MKY/?tag=tolees-21'
+descuento: '28.55'
+titulo: 'adidas CON18 PES JKT Jacket  Hombre  Neg'
 ---
 
 Está [adidas CON18 PES JKT Jacket  Hombre  Negro/Blanco  Rojo   M](https://www.amazon.es/dp/B076HQ3MKY/?tag=tolees-21) con 28.55 de descuento por 24.98 EUR (original: 34.96 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 41.8 EUR
 inStock: true
 prodname: 'Pour Moi? Hot Spots Underwired Tankini  Rojo  Red   85G  Talla del Fabricante: 32F para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M251TMS/?tag=tolees-21'
+descuento: '79.88'
+titulo: 'Pour Moi? Hot Spots Underwired Tankini  '
 ---
 
 Tienes [Pour Moi? Hot Spots Underwired Tankini  Rojo  Red   85G  Talla del Fabricante: 32F para Mujer](https://www.amazon.es/dp/B01M251TMS/?tag=tolees-21) con un 79.88 % de descuento con precio de oferta de 8.41 EUR (original: 41.8 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 181.35 EUR
 inStock: true
 prodname: 'X-Bionic Bike Effektor Culotte corto deportivo  Hombre  Negro / Rojo  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BT359WK/?tag=tolees-21'
+descuento: '36.59'
+titulo: 'X-Bionic Bike Effektor Culotte corto dep'
 ---
 
 Tienes [X-Bionic Bike Effektor Culotte corto deportivo  Hombre  Negro / Rojo  S](https://www.amazon.es/dp/B01BT359WK/?tag=tolees-21) con un 36.59 % de descuento con precio de oferta de 114.99 EUR (original: 181.35 EUR) en el siguiente enlace!

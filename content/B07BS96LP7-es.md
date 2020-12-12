@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'UliX Ares Auriculares In-Ear Cable Sin Nudos Teléfono Móvil Smartphone Ordenador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BS96LP7/?tag=tolees-21'
+descuento: '65.02'
+titulo: 'UliX Ares Auriculares In-Ear Cable Sin N'
 ---
 
 Ahora mismo tienes [UliX Ares Auriculares In-Ear Cable Sin Nudos Teléfono Móvil Smartphone Ordenador](https://www.amazon.es/dp/B07BS96LP7/?tag=tolees-21) a 13.99 EUR (original: 39.99 EUR) (65.02 %  de descuento) en el siguiente enlace!

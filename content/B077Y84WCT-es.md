@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'HIKARO Camiseta Manga Corta Hombre  Verde  Khaki   50  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y84WCT/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HIKARO Camiseta Manga Corta Hombre  Verd'
 ---
 
 Ahora mismo tienes [HIKARO Camiseta Manga Corta Hombre  Verde  Khaki   50  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077Y84WCT/?tag=tolees-21) a 10.77 EUR (original: 17.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

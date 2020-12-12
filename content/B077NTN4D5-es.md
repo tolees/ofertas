@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Refresh 83145  Shopper para Mujer  Azul  Jeans  15x33x15 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077NTN4D5/?tag=tolees-21'
+descuento: '57.65'
+titulo: 'Refresh 83145  Shopper para Mujer  Azul '
 ---
 
 Ahora mismo tienes [Refresh 83145  Shopper para Mujer  Azul  Jeans  15x33x15 cm  W x H x L ](https://www.amazon.es/dp/B077NTN4D5/?tag=tolees-21) a 16.92 EUR (original: 39.95 EUR) (57.65 %  de descuento) en el siguiente enlace!

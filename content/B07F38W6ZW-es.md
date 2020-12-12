@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Uten Mini Máquina de Coser Portátil manual Profesional Eléctrica con LED Lámpara 16 Puntadas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F38W6ZW/?tag=tolees-21'
+descuento: '26.25'
+titulo: 'Uten Mini Máquina de Coser Portátil manu'
 ---
 
 Tienes [Uten Mini Máquina de Coser Portátil manual Profesional Eléctrica con LED Lámpara 16 Puntadas](https://www.amazon.es/dp/B07F38W6ZW/?tag=tolees-21) con un 26.25 % de descuento con precio de oferta de 58.99 EUR (original: 79.99 EUR) en el siguiente enlace!

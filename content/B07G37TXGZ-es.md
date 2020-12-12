@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Birkenstock Arizona Birko-Flor  Sandalias de Punta Descubierta para Mujer  Plateado Silver  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G37TXGZ/?tag=tolees-21'
+descuento: '56.67'
+titulo: 'Birkenstock Arizona Birko-Flor  Sandalia'
 ---
 
 Ahora mismo tienes [Birkenstock Arizona Birko-Flor  Sandalias de Punta Descubierta para Mujer  Plateado Silver  38 EU](https://www.amazon.es/dp/B07G37TXGZ/?tag=tolees-21) a 32.5 EUR (original: 75 EUR) (56.67 %  de descuento) en el siguiente enlace!

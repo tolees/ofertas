@@ -17,6 +17,9 @@ comparePrice: 14.94 EUR
 inStock: true
 prodname: 'Dove Crema Tratamiento Manos Avena - Pack de 6 x 75 ml  Total: 450 ml '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P7VKTG1/?tag=tolees-21'
+descuento: '26.44'
+titulo: 'Dove Crema Tratamiento Manos Avena - Pac'
 ---
 
 Tienes [Dove Crema Tratamiento Manos Avena - Pack de 6 x 75 ml  Total: 450 ml ](https://www.amazon.es/dp/B07P7VKTG1/?tag=tolees-21) con un 26.44 % de descuento con precio de oferta de 10.99 EUR (original: 14.94 EUR) en el siguiente enlace!

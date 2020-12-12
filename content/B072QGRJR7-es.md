@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'adidas Element Refresh 3 W  Zapatillas de running para Mujer  Varios colores  Azunoc/Azunoc/Roshel   38 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072QGRJR7/?tag=tolees-21'
+descuento: '44.77'
+titulo: 'adidas Element Refresh 3 W  Zapatillas d'
 ---
 
 Está [adidas Element Refresh 3 W  Zapatillas de running para Mujer  Varios colores  Azunoc/Azunoc/Roshel   38 2/3 EU](https://www.amazon.es/dp/B072QGRJR7/?tag=tolees-21) con 44.77 de descuento por 33.11 EUR (original: 59.95 EUR) en el siguiente enlace!

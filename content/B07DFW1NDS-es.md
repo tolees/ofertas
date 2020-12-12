@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 247v1  Zapatillas para Hombre  Negro  Black/White HH   45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFW1NDS/?tag=tolees-21'
+descuento: '60.07'
+titulo: 'New Balance 247v1  Zapatillas para Hombr'
 ---
 
 Ahora mismo tienes [New Balance 247v1  Zapatillas para Hombre  Negro  Black/White HH   45.5 EU](https://www.amazon.es/dp/B07DFW1NDS/?tag=tolees-21) a 35.94 EUR (original: 90 EUR) (60.07 %  de descuento) en el siguiente enlace!

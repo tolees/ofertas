@@ -17,6 +17,9 @@ comparePrice: 38.05 EUR
 inStock: true
 prodname: 'Jordi Labanda 16636 Mochila Grande  20l'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XXF6T24/?tag=tolees-21'
+descuento: '72.59'
+titulo: 'Jordi Labanda 16636 Mochila Grande  20l'
 ---
 
 Tienes [Jordi Labanda 16636 Mochila Grande  20l](https://www.amazon.es/dp/B06XXF6T24/?tag=tolees-21) con un 72.59 % de descuento con precio de oferta de 10.43 EUR (original: 38.05 EUR) en el siguiente enlace!

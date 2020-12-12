@@ -17,6 +17,9 @@ comparePrice: 46.99 EUR
 inStock: true
 prodname: '36 Rotuladores Pincel  Punta Suave Rotuladores Acuarelables no toxica  Flexible para Manga  Caligrafia  Dibujar  Coloración'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LFH5DNY/?tag=tolees-21'
+descuento: '69.59'
+titulo: '36 Rotuladores Pincel  Punta Suave Rotul'
 ---
 
 Tienes [36 Rotuladores Pincel  Punta Suave Rotuladores Acuarelables no toxica  Flexible para Manga  Caligrafia  Dibujar  Coloración](https://www.amazon.es/dp/B07LFH5DNY/?tag=tolees-21) con un 69.59 % de descuento con precio de oferta de 14.29 EUR (original: 46.99 EUR) en el siguiente enlace!

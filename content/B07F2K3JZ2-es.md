@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma NRGY Neko  Zapatillas de Running para Hombre  Verde  Forest Night White   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2K3JZ2/?tag=tolees-21'
+descuento: '57.90'
+titulo: 'Puma NRGY Neko  Zapatillas de Running pa'
 ---
 
 Ahora mismo tienes [Puma NRGY Neko  Zapatillas de Running para Hombre  Verde  Forest Night White   40 EU](https://www.amazon.es/dp/B07F2K3JZ2/?tag=tolees-21) a 29.45 EUR (original: 69.95 EUR) (57.90 %  de descuento) en el siguiente enlace!

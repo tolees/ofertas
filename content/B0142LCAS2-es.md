@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Marc O Polo Blusa Negro/Azul ES 38  DE 36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0142LCAS2/?tag=tolees-21'
+descuento: '81.30'
+titulo: 'Marc O Polo Blusa Negro/Azul ES 38  DE 3'
 ---
 
 Tienes [Marc O Polo Blusa Negro/Azul ES 38  DE 36 ](https://www.amazon.es/dp/B0142LCAS2/?tag=tolees-21) con un 81.30 % de descuento con precio de oferta de 18.68 EUR (original: 99.9 EUR) en el siguiente enlace!

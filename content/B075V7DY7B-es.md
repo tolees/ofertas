@@ -17,6 +17,9 @@ comparePrice: 14 EUR
 inStock: true
 prodname: 'Activewear Camiseta de Deporte Mujer  Azul  Navy   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075V7DY7B/?tag=tolees-21'
+descuento: '59.64'
+titulo: 'Activewear Camiseta de Deporte Mujer  Az'
 ---
 
 Ahora mismo tienes [Activewear Camiseta de Deporte Mujer  Azul  Navy   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B075V7DY7B/?tag=tolees-21) a 5.65 EUR (original: 14 EUR) (59.64 %  de descuento) en el siguiente enlace!

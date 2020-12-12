@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Originals Gazelle  Zapatillas Casual Unisex Adulto  Negro Core Black/Gold Metallic  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EI5CLC2/?tag=tolees-21'
+descuento: '52.53'
+titulo: 'adidas Originals Gazelle  Zapatillas Cas'
 ---
 
 Ahora mismo tienes [adidas Originals Gazelle  Zapatillas Casual Unisex Adulto  Negro Core Black/Gold Metallic  44 EU](https://www.amazon.es/dp/B01EI5CLC2/?tag=tolees-21) a 47.45 EUR (original: 99.95 EUR) (52.53 %  de descuento) en el siguiente enlace!

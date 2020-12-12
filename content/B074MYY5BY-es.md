@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Ben Sherman Original Hoodie  Jersey para Hombre  Grau  Grey 250  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074MYY5BY/?tag=tolees-21'
+descuento: '69.98'
+titulo: 'Ben Sherman Original Hoodie  Jersey para'
 ---
 
 Está [Ben Sherman Original Hoodie  Jersey para Hombre  Grau  Grey 250  S](https://www.amazon.es/dp/B074MYY5BY/?tag=tolees-21) con 69.98 de descuento por 29.99 EUR (original: 99.9 EUR) en el siguiente enlace!

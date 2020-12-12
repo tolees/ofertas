@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour Camiseta de Manga Corta para niña con Logo Grande  niña  1331671-975  Penta Pink/White/Black  Youth Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XV23LS/?tag=tolees-21'
+descuento: '42.00'
+titulo: 'Under Armour Camiseta de Manga Corta par'
 ---
 
 Está [Under Armour Camiseta de Manga Corta para niña con Logo Grande  niña  1331671-975  Penta Pink/White/Black  Youth Small](https://www.amazon.es/dp/B077XV23LS/?tag=tolees-21) con 42.00 de descuento por 15.08 EUR (original: 26 EUR) en el siguiente enlace!

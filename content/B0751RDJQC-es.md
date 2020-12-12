@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance Mlazrv1  Zapatillas para Hombre  Negro  Black/White   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0751RDJQC/?tag=tolees-21'
+descuento: '70.89'
+titulo: 'New Balance Mlazrv1  Zapatillas para Hom'
 ---
 
 Está [New Balance Mlazrv1  Zapatillas para Hombre  Negro  Black/White   40 EU](https://www.amazon.es/dp/B0751RDJQC/?tag=tolees-21) con 70.89 de descuento por 26.2 EUR (original: 90 EUR) en el siguiente enlace!

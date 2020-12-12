@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Dying Light - Enhanced Edition  Ps4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HSKMMKW/?tag=tolees-21'
+descuento: '29.08'
+titulo: 'Dying Light - Enhanced Edition  Ps4 '
 ---
 
 Está [Dying Light - Enhanced Edition  Ps4 ](https://www.amazon.es/dp/B07HSKMMKW/?tag=tolees-21) con 29.08 de descuento por 21.24 EUR (original: 29.95 EUR) en el siguiente enlace!

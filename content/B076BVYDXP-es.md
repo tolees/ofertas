@@ -17,6 +17,9 @@ comparePrice: 16 EUR
 inStock: true
 prodname: 'AURIQUE Top Deportivo Mujer  Negro  Black/red/white   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076BVYDXP/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'AURIQUE Top Deportivo Mujer  Negro  Blac'
 ---
 
 Está [AURIQUE Top Deportivo Mujer  Negro  Black/red/white   Small](https://www.amazon.es/dp/B076BVYDXP/?tag=tolees-21) con 30.00 de descuento por 11.2 EUR (original: 16 EUR) en el siguiente enlace!

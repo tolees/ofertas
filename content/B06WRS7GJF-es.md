@@ -17,6 +17,9 @@ comparePrice: 12.9 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Camiseta con Inscripción y Dobladillos en Las Mangas  Azul  ES 40/M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WRS7GJF/?tag=tolees-21'
+descuento: '73.64'
+titulo: 'oodji Ultra Mujer Camiseta con Inscripci'
 ---
 
 Está [oodji Ultra Mujer Camiseta con Inscripción y Dobladillos en Las Mangas  Azul  ES 40/M](https://www.amazon.es/dp/B06WRS7GJF/?tag=tolees-21) con 73.64 de descuento por 3.4 EUR (original: 12.9 EUR) en el siguiente enlace!

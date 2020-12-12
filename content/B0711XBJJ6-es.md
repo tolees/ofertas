@@ -17,6 +17,9 @@ comparePrice: 119.13 EUR
 inStock: true
 prodname: 'Kaporal VILLAH17M62-Abrigo Hombre Negro  Black Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0711XBJJ6/?tag=tolees-21'
+descuento: '79.15'
+titulo: 'Kaporal VILLAH17M62-Abrigo Hombre Negro '
 ---
 
 Tienes [Kaporal VILLAH17M62-Abrigo Hombre Negro  Black Black  S](https://www.amazon.es/dp/B0711XBJJ6/?tag=tolees-21) con un 79.15 % de descuento con precio de oferta de 24.84 EUR (original: 119.13 EUR) en el siguiente enlace!

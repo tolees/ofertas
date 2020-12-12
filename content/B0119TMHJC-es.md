@@ -17,6 +17,9 @@ comparePrice: 105 EUR
 inStock: true
 prodname: 'Explore Scientific'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0119TMHJC/?tag=tolees-21'
+descuento: '43.44'
+titulo: 'Explore Scientific'
 ---
 
 Ahora mismo tienes [Explore Scientific](https://www.amazon.es/dp/B0119TMHJC/?tag=tolees-21) a 59.39 EUR (original: 105 EUR) (43.44 %  de descuento) en el siguiente enlace!

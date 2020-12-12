@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Puma Liga Training Jr Sudadera  Unisex niños  Red/White  164'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078T4NXDD/?tag=tolees-21'
+descuento: '57.54'
+titulo: 'Puma Liga Training Jr Sudadera  Unisex n'
 ---
 
 Está [Puma Liga Training Jr Sudadera  Unisex niños  Red/White  164](https://www.amazon.es/dp/B078T4NXDD/?tag=tolees-21) con 57.54 de descuento por 14.84 EUR (original: 34.95 EUR) en el siguiente enlace!

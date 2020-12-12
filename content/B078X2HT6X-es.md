@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 35iz223-777769  Botines para Mujer   Rosa/Multi 769   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078X2HT6X/?tag=tolees-21'
+descuento: '58.40'
+titulo: 'Dockers by Gerli 35iz223-777769  Botines'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 35iz223-777769  Botines para Mujer   Rosa/Multi 769   38 EU](https://www.amazon.es/dp/B078X2HT6X/?tag=tolees-21) a 24.94 EUR (original: 59.95 EUR) (58.40 %  de descuento) en el siguiente enlace!

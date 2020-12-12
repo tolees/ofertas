@@ -17,6 +17,9 @@ comparePrice: 130.35 EUR
 inStock: true
 prodname: 'Karen Millen Soft Stripe Blouse Blusa   Black & White 40   36  Talla del Fabricante:8  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M6ZRJBD/?tag=tolees-21'
+descuento: '53.55'
+titulo: 'Karen Millen Soft Stripe Blouse Blusa   '
 ---
 
 Está [Karen Millen Soft Stripe Blouse Blusa   Black & White 40   36  Talla del Fabricante:8  para Mujer](https://www.amazon.es/dp/B07M6ZRJBD/?tag=tolees-21) con 53.55 de descuento por 60.55 EUR (original: 130.35 EUR) en el siguiente enlace!

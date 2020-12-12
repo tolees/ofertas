@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Gant 3 Pack Trunk CTN STP  Bañador para Hombre  Verde  Porcelain Green 334  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B8TNP7T/?tag=tolees-21'
+descuento: '50.41'
+titulo: 'Gant 3 Pack Trunk CTN STP  Bañador para '
 ---
 
 Está [Gant 3 Pack Trunk CTN STP  Bañador para Hombre  Verde  Porcelain Green 334  Small](https://www.amazon.es/dp/B07B8TNP7T/?tag=tolees-21) con 50.41 de descuento por 19.83 EUR (original: 39.99 EUR) en el siguiente enlace!

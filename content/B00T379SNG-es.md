@@ -17,6 +17,9 @@ comparePrice: 32.52 EUR
 inStock: true
 prodname: 'Bestway 8321660 8321660-Luz led Multicolor para Piscina  Azul 17x17x12 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00T379SNG/?tag=tolees-21'
+descuento: '49.85'
+titulo: 'Bestway 8321660 8321660-Luz led Multicol'
 ---
 
 Está [Bestway 8321660 8321660-Luz led Multicolor para Piscina  Azul 17x17x12 cm](https://www.amazon.es/dp/B00T379SNG/?tag=tolees-21) con 49.85 de descuento por 16.31 EUR (original: 32.52 EUR) en el siguiente enlace!

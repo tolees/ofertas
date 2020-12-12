@@ -17,6 +17,9 @@ comparePrice: 78.71 EUR
 inStock: true
 prodname: 'Sacacorchos Eléctrico Recargable Abridor de vino Inalámbrico con luz indicadora LED Tecnología de acero inoxidable altamente pulida cortador de papel libre El regalo ideal para'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079Y7T2ZS/?tag=tolees-21'
+descuento: '62.04'
+titulo: 'Sacacorchos Eléctrico Recargable Abridor'
 ---
 
 Está [Sacacorchos Eléctrico Recargable Abridor de vino Inalámbrico con luz indicadora LED Tecnología de acero inoxidable altamente pulida cortador de papel libre El regalo ideal para](https://www.amazon.es/dp/B079Y7T2ZS/?tag=tolees-21) con 62.04 de descuento por 29.88 EUR (original: 78.71 EUR) en el siguiente enlace!

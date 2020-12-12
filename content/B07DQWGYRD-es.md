@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Swarovski Juego de joyas Mujer acero inoxidable - 5416361'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQWGYRD/?tag=tolees-21'
+descuento: '44.74'
+titulo: 'Swarovski Juego de joyas Mujer acero ino'
 ---
 
 Está [Swarovski Juego de joyas Mujer acero inoxidable - 5416361](https://www.amazon.es/dp/B07DQWGYRD/?tag=tolees-21) con 44.74 de descuento por 65.76 EUR (original: 119 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Mustang Booty  Botines para Mujer  Gris  Graphit 259   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9TTBXF/?tag=tolees-21'
+descuento: '65.16'
+titulo: 'Mustang Booty  Botines para Mujer  Gris '
 ---
 
 Está [Mustang Booty  Botines para Mujer  Gris  Graphit 259   37 EU](https://www.amazon.es/dp/B07D9TTBXF/?tag=tolees-21) con 65.16 de descuento por 26.11 EUR (original: 74.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Asics Roadhawk FF 2  Zapatillas de Entrenamiento para Hombre  Negro  Black/White 001   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079J4Q3CD/?tag=tolees-21'
+descuento: '56.57'
+titulo: 'Asics Roadhawk FF 2  Zapatillas de Entre'
 ---
 
 Ahora mismo tienes [Asics Roadhawk FF 2  Zapatillas de Entrenamiento para Hombre  Negro  Black/White 001   44 EU](https://www.amazon.es/dp/B079J4Q3CD/?tag=tolees-21) a 52.11 EUR (original: 120 EUR) (56.57 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Remington D2400 - Secador de pelo de viaje  1400 W  voltaje universal  mango plegable  concentrador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007CST74S/?tag=tolees-21'
+descuento: '26.68'
+titulo: 'Remington D2400 - Secador de pelo de via'
 ---
 
 Tienes [Remington D2400 - Secador de pelo de viaje  1400 W  voltaje universal  mango plegable  concentrador](https://www.amazon.es/dp/B007CST74S/?tag=tolees-21) con un 26.68 % de descuento con precio de oferta de 14.59 EUR (original: 19.9 EUR) en el siguiente enlace!

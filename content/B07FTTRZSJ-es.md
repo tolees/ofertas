@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Scarlett  Vaqueros skinny para MujerAzul  Light Mid '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTTRZSJ/?tag=tolees-21'
+descuento: '76.19'
+titulo: 'Lee Scarlett  Vaqueros skinny para Mujer'
 ---
 
 Está [Lee Scarlett  Vaqueros skinny para MujerAzul  Light Mid ](https://www.amazon.es/dp/B07FTTRZSJ/?tag=tolees-21) con 76.19 de descuento por 23.8 EUR (original: 99.95 EUR) en el siguiente enlace!

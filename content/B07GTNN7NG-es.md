@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Puma Active Big Logo tee Camiseta  Hombre  Azul  Peacoat   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GTNN7NG/?tag=tolees-21'
+descuento: '30.23'
+titulo: 'Puma Active Big Logo tee Camiseta  Hombr'
 ---
 
 Ahora mismo tienes [Puma Active Big Logo tee Camiseta  Hombre  Azul  Peacoat   S](https://www.amazon.es/dp/B07GTNN7NG/?tag=tolees-21) a 13.92 EUR (original: 19.95 EUR) (30.23 %  de descuento) en el siguiente enlace!

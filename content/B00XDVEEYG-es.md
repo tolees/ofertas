@@ -17,6 +17,9 @@ comparePrice: 2.49 EUR
 inStock: true
 prodname: 'Iberia Tinte Amarillo para Ropa - 70 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XDVEEYG/?tag=tolees-21'
+descuento: '40.16'
+titulo: 'Iberia Tinte Amarillo para Ropa - 70 gr'
 ---
 
 Tienes [Iberia Tinte Amarillo para Ropa - 70 gr](https://www.amazon.es/dp/B00XDVEEYG/?tag=tolees-21) con un 40.16 % de descuento con precio de oferta de 1.49 EUR (original: 2.49 EUR) en el siguiente enlace!

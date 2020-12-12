@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'GRÜNTEK Tijeras de podar jardín  195 mm  Tucan. Tijera de podar flores y cortarramas ligéra y pratica'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H6XMG64/?tag=tolees-21'
+descuento: '43.64'
+titulo: 'GRÜNTEK Tijeras de podar jardín  195 mm '
 ---
 
 Ahora mismo tienes [GRÜNTEK Tijeras de podar jardín  195 mm  Tucan. Tijera de podar flores y cortarramas ligéra y pratica](https://www.amazon.es/dp/B01H6XMG64/?tag=tolees-21) a 8.99 EUR (original: 15.95 EUR) (43.64 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 33.33 EUR
 inStock: true
 prodname: 'Alfombrista Diseño 23 Alfombra Moderna Acrílico Multicolor 60x110x1 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078KVB6HH/?tag=tolees-21'
+descuento: '50.41'
+titulo: 'Alfombrista Diseño 23 Alfombra Moderna A'
 ---
 
 Tienes [Alfombrista Diseño 23 Alfombra Moderna Acrílico Multicolor 60x110x1 cm](https://www.amazon.es/dp/B078KVB6HH/?tag=tolees-21) con un 50.41 % de descuento con precio de oferta de 16.53 EUR (original: 33.33 EUR) en el siguiente enlace!

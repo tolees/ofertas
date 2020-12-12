@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'MICHLEY baby Algodón Babero Triangular  Bufanda Triangular de 4 er con Broches Ajustables  Traje para niñas y niños de 0 a 30 meses'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CMWS1Q4/?tag=tolees-21'
+descuento: '28.59'
+titulo: 'MICHLEY baby Algodón Babero Triangular  '
 ---
 
 Tienes [MICHLEY baby Algodón Babero Triangular  Bufanda Triangular de 4 er con Broches Ajustables  Traje para niñas y niños de 0 a 30 meses](https://www.amazon.es/dp/B07CMWS1Q4/?tag=tolees-21) con un 28.59 % de descuento con precio de oferta de 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 4 90 Gingham Check Mel Camisa Casual   Gama Verdes 21   Large  Tamaño del Fabricante:L  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYQVQ7K/?tag=tolees-21'
+descuento: '42.25'
+titulo: 'Springfield 4 90 Gingham Check Mel Camis'
 ---
 
 Ahora mismo tienes [Springfield 4 90 Gingham Check Mel Camisa Casual   Gama Verdes 21   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07KYQVQ7K/?tag=tolees-21) a 15.01 EUR (original: 25.99 EUR) (42.25 %  de descuento) en el siguiente enlace!

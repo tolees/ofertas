@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Columbia Silver Ridge 2.0 Pantalón Corto Cargo Nailon  Mujer  Marrón  Tusk   Talla US: W12/L12/  EU W44/L12 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRXMLS6/?tag=tolees-21'
+descuento: '41.90'
+titulo: 'Columbia Silver Ridge 2.0 Pantalón Corto'
 ---
 
 Está [Columbia Silver Ridge 2.0 Pantalón Corto Cargo Nailon  Mujer  Marrón  Tusk   Talla US: W12/L12/  EU W44/L12 ](https://www.amazon.es/dp/B07KRXMLS6/?tag=tolees-21) con 41.90 de descuento por 31.95 EUR (original: 54.99 EUR) en el siguiente enlace!

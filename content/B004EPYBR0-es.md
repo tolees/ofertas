@@ -17,6 +17,9 @@ comparePrice: 18.28 EUR
 inStock: true
 prodname: 'Scitec Nutrition Monohidrato de Creatina 250 capsulas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004EPYBR0/?tag=tolees-21'
+descuento: '41.36'
+titulo: 'Scitec Nutrition Monohidrato de Creatina'
 ---
 
 Está [Scitec Nutrition Monohidrato de Creatina 250 capsulas](https://www.amazon.es/dp/B004EPYBR0/?tag=tolees-21) con 41.36 de descuento por 10.72 EUR (original: 18.28 EUR) en el siguiente enlace!

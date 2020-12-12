@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Braun MobileShave M-90 - Afeitadora eléctrica portátil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002EZZ5NG/?tag=tolees-21'
+descuento: '26.84'
+titulo: 'Braun MobileShave M-90 - Afeitadora eléc'
 ---
 
 Está [Braun MobileShave M-90 - Afeitadora eléctrica portátil](https://www.amazon.es/dp/B002EZZ5NG/?tag=tolees-21) con 26.84 de descuento por 25.6 EUR (original: 34.99 EUR) en el siguiente enlace!

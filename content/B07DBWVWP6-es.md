@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma Urban Plus SD  Zapatillas Unisex Adults o  Beige Taos Taupe  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBWVWP6/?tag=tolees-21'
+descuento: '49.32'
+titulo: 'Puma Urban Plus SD  Zapatillas Unisex Ad'
 ---
 
 Está [Puma Urban Plus SD  Zapatillas Unisex Adults o  Beige Taos Taupe  43 EU](https://www.amazon.es/dp/B07DBWVWP6/?tag=tolees-21) con 49.32 de descuento por 27.85 EUR (original: 54.95 EUR) en el siguiente enlace!

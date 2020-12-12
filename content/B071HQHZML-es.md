@@ -17,6 +17,9 @@ comparePrice: 96.95 EUR
 inStock: true
 prodname: 'Izas Florenz Chaqueta de Pluma con Capucha para Hombre  Azul Noche/ Azul Noche  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HQHZML/?tag=tolees-21'
+descuento: '76.51'
+titulo: 'Izas Florenz Chaqueta de Pluma con Capuc'
 ---
 
 Ahora mismo tienes [Izas Florenz Chaqueta de Pluma con Capucha para Hombre  Azul Noche/ Azul Noche  M](https://www.amazon.es/dp/B071HQHZML/?tag=tolees-21) a 22.77 EUR (original: 96.95 EUR) (76.51 %  de descuento) en el siguiente enlace!

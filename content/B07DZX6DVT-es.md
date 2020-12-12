@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Levis Footwear and Accessories Malibu Beach S  Zapatillas para Mujer  Rosa  Light Pink 81   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DZX6DVT/?tag=tolees-21'
+descuento: '30.12'
+titulo: 'Levis Footwear and Accessories Malibu Be'
 ---
 
 Está [Levis Footwear and Accessories Malibu Beach S  Zapatillas para Mujer  Rosa  Light Pink 81   38 EU](https://www.amazon.es/dp/B07DZX6DVT/?tag=tolees-21) con 30.12 de descuento por 27.95 EUR (original: 40 EUR) en el siguiente enlace!

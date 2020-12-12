@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Eono Essentials Mochila con cordón Ligero deportivo Sackpack Bolsa de gimnasio con botella de agua Bolsillos de malla Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FMYBT26/?tag=tolees-21'
+descuento: '66.69'
+titulo: 'Eono Essentials Mochila con cordón Liger'
 ---
 
 Tienes [Eono Essentials Mochila con cordón Ligero deportivo Sackpack Bolsa de gimnasio con botella de agua Bolsillos de malla Negro](https://www.amazon.es/dp/B07FMYBT26/?tag=tolees-21) con un 66.69 % de descuento con precio de oferta de 10.99 EUR (original: 32.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Kappa Holy 241445 - Zapatillas de Tela Unisex  Color Azul  Talla 41'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0062W4LMS/?tag=tolees-21'
+descuento: '47.23'
+titulo: 'Kappa Holy 241445 - Zapatillas de Tela U'
 ---
 
 Tienes [Kappa Holy 241445 - Zapatillas de Tela Unisex  Color Azul  Talla 41](https://www.amazon.es/dp/B0062W4LMS/?tag=tolees-21) con un 47.23 % de descuento con precio de oferta de 21.11 EUR (original: 40 EUR) en el siguiente enlace!

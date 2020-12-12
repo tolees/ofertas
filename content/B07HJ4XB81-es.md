@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Pop! La Casa De Papel - Figura de Vinilo Denver'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HJ4XB81/?tag=tolees-21'
+descuento: '28.28'
+titulo: 'Pop! La Casa De Papel - Figura de Vinilo'
 ---
 
 Ahora mismo tienes [Pop! La Casa De Papel - Figura de Vinilo Denver](https://www.amazon.es/dp/B07HJ4XB81/?tag=tolees-21) a 11.44 EUR (original: 15.95 EUR) (28.28 %  de descuento) en el siguiente enlace!

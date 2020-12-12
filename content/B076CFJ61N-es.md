@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'SAMSONITE Paradiver Light - Toilet Kit Bolsa de Aseo  28 cm  6.5 Liters  Azul  Jeans Blue '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076CFJ61N/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'SAMSONITE Paradiver Light - Toilet Kit B'
 ---
 
 Ahora mismo tienes [SAMSONITE Paradiver Light - Toilet Kit Bolsa de Aseo  28 cm  6.5 Liters  Azul  Jeans Blue ](https://www.amazon.es/dp/B076CFJ61N/?tag=tolees-21) a 24.5 EUR (original: 49 EUR) (50.00 %  de descuento) en el siguiente enlace!

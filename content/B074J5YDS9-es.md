@@ -17,6 +17,9 @@ comparePrice: 9.6 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Suéter Básico Estampado  Rosa  ES 40 / M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074J5YDS9/?tag=tolees-21'
+descuento: '26.98'
+titulo: 'oodji Ultra Mujer Suéter Básico Estampad'
 ---
 
 Está [oodji Ultra Mujer Suéter Básico Estampado  Rosa  ES 40 / M](https://www.amazon.es/dp/B074J5YDS9/?tag=tolees-21) con 26.98 de descuento por 7.01 EUR (original: 9.6 EUR) en el siguiente enlace!

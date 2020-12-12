@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'VAUDE Cluster 10+3 Mochila  Unisex Adulto  Verde  Chute Green   10-14 l'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076KSR1SP/?tag=tolees-21'
+descuento: '58.04'
+titulo: 'VAUDE Cluster 10+3 Mochila  Unisex Adult'
 ---
 
 Ahora mismo tienes [VAUDE Cluster 10+3 Mochila  Unisex Adulto  Verde  Chute Green   10-14 l](https://www.amazon.es/dp/B076KSR1SP/?tag=tolees-21) a 29.37 EUR (original: 70 EUR) (58.04 %  de descuento) en el siguiente enlace!

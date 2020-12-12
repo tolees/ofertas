@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Reebok Royal CMPLT CLN LX  Zapatillas de Tenis para Hombre  Negro  CP/Black/White 000   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TX7X8G/?tag=tolees-21'
+descuento: '64.68'
+titulo: 'Reebok Royal CMPLT CLN LX  Zapatillas de'
 ---
 
 Ahora mismo tienes [Reebok Royal CMPLT CLN LX  Zapatillas de Tenis para Hombre  Negro  CP/Black/White 000   44.5 EU](https://www.amazon.es/dp/B077TX7X8G/?tag=tolees-21) a 26.47 EUR (original: 74.95 EUR) (64.68 %  de descuento) en el siguiente enlace!

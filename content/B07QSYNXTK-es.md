@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Hurley M Phantom BP Deceiver Bañadores  Hombre  Black  38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QSYNXTK/?tag=tolees-21'
+descuento: '49.18'
+titulo: 'Hurley M Phantom BP Deceiver Bañadores  '
 ---
 
 Está [Hurley M Phantom BP Deceiver Bañadores  Hombre  Black  38](https://www.amazon.es/dp/B07QSYNXTK/?tag=tolees-21) con 49.18 de descuento por 33.03 EUR (original: 65 EUR) en el siguiente enlace!

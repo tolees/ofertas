@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Lotus Reloj Multiesfera para Niños de Cuarzo con Correa en Acero Inoxidable 15652/5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BPVH9R0/?tag=tolees-21'
+descuento: '53.99'
+titulo: 'Lotus Reloj Multiesfera para Niños de Cu'
 ---
 
 Tienes [Lotus Reloj Multiesfera para Niños de Cuarzo con Correa en Acero Inoxidable 15652/5](https://www.amazon.es/dp/B00BPVH9R0/?tag=tolees-21) con un 53.99 % de descuento con precio de oferta de 40.95 EUR (original: 89 EUR) en el siguiente enlace!

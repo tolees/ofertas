@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'Safta Real Madrid Monedero  12 cm  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MVK13HJ/?tag=tolees-21'
+descuento: '38.20'
+titulo: 'Safta Real Madrid Monedero  12 cm  Negro'
 ---
 
 Ahora mismo tienes [Safta Real Madrid Monedero  12 cm  Negro](https://www.amazon.es/dp/B07MVK13HJ/?tag=tolees-21) a 9.27 EUR (original: 15 EUR) (38.20 %  de descuento) en el siguiente enlace!

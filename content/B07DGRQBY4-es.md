@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'ALDO Veradia  Botines para Mujer  Negro  Jet Black 2 93   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGRQBY4/?tag=tolees-21'
+descuento: '76.33'
+titulo: 'ALDO Veradia  Botines para Mujer  Negro '
 ---
 
 Ahora mismo tienes [ALDO Veradia  Botines para Mujer  Negro  Jet Black 2 93   36 EU](https://www.amazon.es/dp/B07DGRQBY4/?tag=tolees-21) a 26.04 EUR (original: 110 EUR) (76.33 %  de descuento) en el siguiente enlace!

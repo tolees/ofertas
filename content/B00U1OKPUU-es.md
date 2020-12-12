@@ -17,6 +17,9 @@ comparePrice: 48.54 EUR
 inStock: true
 prodname: 'CAYS - Candado Persiana Tijera Jg Cays 50 Mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U1OKPUU/?tag=tolees-21'
+descuento: '25.22'
+titulo: 'CAYS - Candado Persiana Tijera Jg Cays 5'
 ---
 
 Está [CAYS - Candado Persiana Tijera Jg Cays 50 Mm](https://www.amazon.es/dp/B00U1OKPUU/?tag=tolees-21) con 25.22 de descuento por 36.3 EUR (original: 48.54 EUR) en el siguiente enlace!

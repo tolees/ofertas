@@ -17,6 +17,9 @@ comparePrice: 26.5 EUR
 inStock: true
 prodname: 'Pepe Jeans Wildshire Bolso Bandolera  20 cm  1.76 litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q9CDCNL/?tag=tolees-21'
+descuento: '40.23'
+titulo: 'Pepe Jeans Wildshire Bolso Bandolera  20'
 ---
 
 Está [Pepe Jeans Wildshire Bolso Bandolera  20 cm  1.76 litros](https://www.amazon.es/dp/B07Q9CDCNL/?tag=tolees-21) con 40.23 de descuento por 15.84 EUR (original: 26.5 EUR) en el siguiente enlace!

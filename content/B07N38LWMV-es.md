@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'THE NORTH FACE M Litewave Fastpack II  Zapatillas de Senderismo para Hombre  Orange  Ebony High Rise Grey C41   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N38LWMV/?tag=tolees-21'
+descuento: '33.94'
+titulo: 'THE NORTH FACE M Litewave Fastpack II  Z'
 ---
 
 Tienes [THE NORTH FACE M Litewave Fastpack II  Zapatillas de Senderismo para Hombre  Orange  Ebony High Rise Grey C41   43 EU](https://www.amazon.es/dp/B07N38LWMV/?tag=tolees-21) con un 33.94 % de descuento con precio de oferta de 59.45 EUR (original: 90 EUR) en el siguiente enlace!

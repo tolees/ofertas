@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Abercrombie & Fitch  Agua de colonia para mujeres - 100 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BWFVL49/?tag=tolees-21'
+descuento: '50.39'
+titulo: 'Abercrombie & Fitch  Agua de colonia par'
 ---
 
 Ahora mismo tienes [Abercrombie & Fitch  Agua de colonia para mujeres - 100 ml.](https://www.amazon.es/dp/B07BWFVL49/?tag=tolees-21) a 39.69 EUR (original: 80 EUR) (50.39 %  de descuento) en el siguiente enlace!

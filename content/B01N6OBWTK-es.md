@@ -17,6 +17,9 @@ comparePrice: 199.09 EUR
 inStock: true
 prodname: 'ASUS VZ239Q Pantalla para PC 58 4 cm  23"  Full HD LED Plana Negro  Blanco - Monitor  58 4 cm  23"   1920 x 1080 Pixeles  Full HD  LCD  5 ms  Negro  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6OBWTK/?tag=tolees-21'
+descuento: '40.23'
+titulo: 'ASUS VZ239Q Pantalla para PC 58 4 cm  23'
 ---
 
 Está [ASUS VZ239Q Pantalla para PC 58 4 cm  23"  Full HD LED Plana Negro  Blanco - Monitor  58 4 cm  23"   1920 x 1080 Pixeles  Full HD  LCD  5 ms  Negro  Blanco ](https://www.amazon.es/dp/B01N6OBWTK/?tag=tolees-21) con 40.23 de descuento por 119 EUR (original: 199.09 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Rovulc Denim Low Sneakers  Zapatillas para Hombre  Negro  Black 990   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6OFIH4/?tag=tolees-21'
+descuento: '52.15'
+titulo: 'G-STAR RAW Rovulc Denim Low Sneakers  Za'
 ---
 
 Ahora mismo tienes [G-STAR RAW Rovulc Denim Low Sneakers  Zapatillas para Hombre  Negro  Black 990   41 EU](https://www.amazon.es/dp/B01N6OFIH4/?tag=tolees-21) a 33.47 EUR (original: 69.95 EUR) (52.15 %  de descuento) en el siguiente enlace!

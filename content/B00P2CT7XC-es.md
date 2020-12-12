@@ -17,6 +17,9 @@ comparePrice: 57.14 EUR
 inStock: true
 prodname: 'Vanilla Moon Beth - Sandalias de Vestir de Cuero para Mujer  Color Negro  Talla 40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00P2CT7XC/?tag=tolees-21'
+descuento: '65.59'
+titulo: 'Vanilla Moon Beth - Sandalias de Vestir '
 ---
 
 Tienes [Vanilla Moon Beth - Sandalias de Vestir de Cuero para Mujer  Color Negro  Talla 40](https://www.amazon.es/dp/B00P2CT7XC/?tag=tolees-21) con un 65.59 % de descuento con precio de oferta de 19.66 EUR (original: 57.14 EUR) en el siguiente enlace!

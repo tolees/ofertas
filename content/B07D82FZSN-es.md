@@ -17,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'adidas Terrex Two Parley  Zapatillas de Running para Hombre  Negro  Negbás/Gridos/Balcri 0   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D82FZSN/?tag=tolees-21'
+descuento: '65.83'
+titulo: 'adidas Terrex Two Parley  Zapatillas de '
 ---
 
 Ahora mismo tienes [adidas Terrex Two Parley  Zapatillas de Running para Hombre  Negro  Negbás/Gridos/Balcri 0   44 EU](https://www.amazon.es/dp/B07D82FZSN/?tag=tolees-21) a 51.24 EUR (original: 149.95 EUR) (65.83 %  de descuento) en el siguiente enlace!

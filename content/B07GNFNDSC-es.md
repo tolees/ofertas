@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcocraft Knit Crew Neck  suéter Hombre  Gris  Small  Talla del Fabricante: '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GNFNDSC/?tag=tolees-21'
+descuento: '74.89'
+titulo: 'JACK & JONES Jcocraft Knit Crew Neck  su'
 ---
 
 Está [JACK & JONES Jcocraft Knit Crew Neck  suéter Hombre  Gris  Small  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNFNDSC/?tag=tolees-21) con 74.89 de descuento por 10.04 EUR (original: 39.99 EUR) en el siguiente enlace!

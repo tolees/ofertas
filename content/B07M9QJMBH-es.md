@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Uten Barbacoa de Acero Inoxidable Parrilla de carbón ahumador Barbacoa Plegable portátil para cocinar al Aire Libre Camping Senderismo picnics mochilero Grande  Color Plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9QJMBH/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Uten Barbacoa de Acero Inoxidable Parril'
 ---
 
 Está [Uten Barbacoa de Acero Inoxidable Parrilla de carbón ahumador Barbacoa Plegable portátil para cocinar al Aire Libre Camping Senderismo picnics mochilero Grande  Color Plateado](https://www.amazon.es/dp/B07M9QJMBH/?tag=tolees-21) con 40.01 de descuento por 35.99 EUR (original: 59.99 EUR) en el siguiente enlace!

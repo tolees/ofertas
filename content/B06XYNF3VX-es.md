@@ -17,6 +17,9 @@ comparePrice: 189.99 EUR
 inStock: true
 prodname: 'Alcatel A3 XL - Smartphone Pantalla de 6    4G  cámara de 13MP y frontal de 8MP  2GB RAM  16GB ROM  Android   Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XYNF3VX/?tag=tolees-21'
+descuento: '45.73'
+titulo: 'Alcatel A3 XL - Smartphone Pantalla de 6'
 ---
 
 Tienes [Alcatel A3 XL - Smartphone Pantalla de 6    4G  cámara de 13MP y frontal de 8MP  2GB RAM  16GB ROM  Android   Azul](https://www.amazon.es/dp/B06XYNF3VX/?tag=tolees-21) con un 45.73 % de descuento con precio de oferta de 103.1 EUR (original: 189.99 EUR) en el siguiente enlace!

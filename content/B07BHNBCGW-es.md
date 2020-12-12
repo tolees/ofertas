@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'PALA AGATHA HEART RELIEF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHNBCGW/?tag=tolees-21'
+descuento: '53.05'
+titulo: 'PALA AGATHA HEART RELIEF'
 ---
 
 Está [PALA AGATHA HEART RELIEF](https://www.amazon.es/dp/B07BHNBCGW/?tag=tolees-21) con 53.05 de descuento por 69.95 EUR (original: 149 EUR) en el siguiente enlace!

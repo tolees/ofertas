@@ -17,6 +17,9 @@ comparePrice: 37.9 EUR
 inStock: true
 prodname: 'Symiu Domino Madera Bloques Madera Iinfantil Numeros Animales Fruto Figure Juguete Domino 100 Piezas para Niños 3 4 5+'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HQHBD92/?tag=tolees-21'
+descuento: '65.99'
+titulo: 'Symiu Domino Madera Bloques Madera Iinfa'
 ---
 
 Tienes [Symiu Domino Madera Bloques Madera Iinfantil Numeros Animales Fruto Figure Juguete Domino 100 Piezas para Niños 3 4 5+](https://www.amazon.es/dp/B07HQHBD92/?tag=tolees-21) con un 65.99 % de descuento con precio de oferta de 12.89 EUR (original: 37.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 46.46 EUR
 inStock: true
 prodname: 'Lexmark 18C1428E - Cartucho tinta  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000KHVG74/?tag=tolees-21'
+descuento: '67.71'
+titulo: 'Lexmark 18C1428E - Cartucho tinta  color'
 ---
 
 Ahora mismo tienes [Lexmark 18C1428E - Cartucho tinta  color negro](https://www.amazon.es/dp/B000KHVG74/?tag=tolees-21) a 15 EUR (original: 46.46 EUR) (67.71 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Reebok Os TR 3P TH HB Cinta  Hombre  Negro/Blanco  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DSRHAD6/?tag=tolees-21'
+descuento: '50.45'
+titulo: 'Reebok Os TR 3P TH HB Cinta  Hombre  Neg'
 ---
 
 Está [Reebok Os TR 3P TH HB Cinta  Hombre  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B01DSRHAD6/?tag=tolees-21) con 50.45 de descuento por 4.95 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 67.55 EUR
 inStock: true
 prodname: 'Clatronic Ae 3532 Licuadora semiprofesional  2 velocidades  desmontable  1000 W  2 litros  0 Decibelios  Negro  Acero inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00H7X0YXG/?tag=tolees-21'
+descuento: '32.05'
+titulo: 'Clatronic Ae 3532 Licuadora semiprofesio'
 ---
 
 Está [Clatronic Ae 3532 Licuadora semiprofesional  2 velocidades  desmontable  1000 W  2 litros  0 Decibelios  Negro  Acero inoxidable](https://www.amazon.es/dp/B00H7X0YXG/?tag=tolees-21) con 32.05 de descuento por 45.9 EUR (original: 67.55 EUR) en el siguiente enlace!

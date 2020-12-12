@@ -17,6 +17,9 @@ comparePrice: 34.8 EUR
 inStock: true
 prodname: 'NIVEA Gel de Ducha Sunshine - Paquete de 12 x 500 ml - Total: 6 l'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BM9Z2WJ/?tag=tolees-21'
+descuento: '45.63'
+titulo: 'NIVEA Gel de Ducha Sunshine - Paquete de'
 ---
 
 Tienes [NIVEA Gel de Ducha Sunshine - Paquete de 12 x 500 ml - Total: 6 l](https://www.amazon.es/dp/B07BM9Z2WJ/?tag=tolees-21) con un 45.63 % de descuento con precio de oferta de 18.92 EUR (original: 34.8 EUR) en el siguiente enlace!

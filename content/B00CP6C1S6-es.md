@@ -17,6 +17,9 @@ comparePrice: 112.42 EUR
 inStock: true
 prodname: 'Grohe 23355000 StartLoop monomando baño visto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CP6C1S6/?tag=tolees-21'
+descuento: '43.20'
+titulo: 'Grohe 23355000 StartLoop monomando baño '
 ---
 
 Está [Grohe 23355000 StartLoop monomando baño visto](https://www.amazon.es/dp/B00CP6C1S6/?tag=tolees-21) con 43.20 de descuento por 63.86 EUR (original: 112.42 EUR) en el siguiente enlace!

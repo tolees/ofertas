@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Geox Jr Waviness Boy  Zapatillas para Niños  Azul  Royal/Lime C4344   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK5QN19/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Geox Jr Waviness Boy  Zapatillas para Ni'
 ---
 
 Está [Geox Jr Waviness Boy  Zapatillas para Niños  Azul  Royal/Lime C4344   28 EU](https://www.amazon.es/dp/B07DK5QN19/?tag=tolees-21) con 50.00 de descuento por 24.95 EUR (original: 49.9 EUR) en el siguiente enlace!

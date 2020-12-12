@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Pocket POP! Keychain - Alien: Alien'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LAMPPOM/?tag=tolees-21'
+descuento: '64.26'
+titulo: 'Pocket POP! Keychain - Alien: Alien'
 ---
 
 Está [Pocket POP! Keychain - Alien: Alien](https://www.amazon.es/dp/B01LAMPPOM/?tag=tolees-21) con 64.26 de descuento por 5 EUR (original: 13.99 EUR) en el siguiente enlace!

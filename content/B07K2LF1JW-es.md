@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Superstar  Zapatillas de Gimnasia para Hombre  Negro Core Black/Ash Grey S18/Ftwr White  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2LF1JW/?tag=tolees-21'
+descuento: '43.15'
+titulo: 'adidas Superstar  Zapatillas de Gimnasia'
 ---
 
 Está [adidas Superstar  Zapatillas de Gimnasia para Hombre  Negro Core Black/Ash Grey S18/Ftwr White  40 EU](https://www.amazon.es/dp/B07K2LF1JW/?tag=tolees-21) con 43.15 de descuento por 56.82 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 76 EUR
 inStock: true
 prodname: 'Nike Arrowz  Zapatillas para Hombre  Gris  Wolf Grey/White 001   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0059O8GGW/?tag=tolees-21'
+descuento: '48.68'
+titulo: 'Nike Arrowz  Zapatillas para Hombre  Gri'
 ---
 
 Está [Nike Arrowz  Zapatillas para Hombre  Gris  Wolf Grey/White 001   42 EU](https://www.amazon.es/dp/B0059O8GGW/?tag=tolees-21) con 48.68 de descuento por 39 EUR (original: 76 EUR) en el siguiente enlace!

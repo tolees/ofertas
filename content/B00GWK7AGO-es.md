@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Dreamlove Cobeco Spanish Fly Gotas Passion Intenso - 1 Unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GWK7AGO/?tag=tolees-21'
+descuento: '45.95'
+titulo: 'Dreamlove Cobeco Spanish Fly Gotas Passi'
 ---
 
 Está [Dreamlove Cobeco Spanish Fly Gotas Passion Intenso - 1 Unidad](https://www.amazon.es/dp/B00GWK7AGO/?tag=tolees-21) con 45.95 de descuento por 7 EUR (original: 12.95 EUR) en el siguiente enlace!

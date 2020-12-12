@@ -17,6 +17,9 @@ comparePrice: 11.75 EUR
 inStock: true
 prodname: 'Chinchón Dulce - Anís - 1000 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JC5SPS8/?tag=tolees-21'
+descuento: '26.81'
+titulo: 'Chinchón Dulce - Anís - 1000 ml'
 ---
 
 Está [Chinchón Dulce - Anís - 1000 ml](https://www.amazon.es/dp/B00JC5SPS8/?tag=tolees-21) con 26.81 de descuento por 8.6 EUR (original: 11.75 EUR) en el siguiente enlace!

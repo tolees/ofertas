@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike Court Royale Suede Zapatillas de tenis Hombre  Azul/Blanco  Midnight Navy/White   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AZ45AB4/?tag=tolees-21'
+descuento: '59.42'
+titulo: 'Nike Court Royale Suede Zapatillas de te'
 ---
 
 Ahora mismo tienes [Nike Court Royale Suede Zapatillas de tenis Hombre  Azul/Blanco  Midnight Navy/White   38.5 EU](https://www.amazon.es/dp/B01AZ45AB4/?tag=tolees-21) a 24.35 EUR (original: 60 EUR) (59.42 %  de descuento) en el siguiente enlace!

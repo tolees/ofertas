@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Skech-Ascent-Sherrod  Zapatillas para Hombre  Azul  Navy/Lime   47.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076TBMSGV/?tag=tolees-21'
+descuento: '54.84'
+titulo: 'Skechers Skech-Ascent-Sherrod  Zapatilla'
 ---
 
 Está [Skechers Skech-Ascent-Sherrod  Zapatillas para Hombre  Azul  Navy/Lime   47.5 EU](https://www.amazon.es/dp/B076TBMSGV/?tag=tolees-21) con 54.84 de descuento por 31.59 EUR (original: 69.95 EUR) en el siguiente enlace!

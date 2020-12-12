@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Under Armour FLY BY Short Pantalones Cortos  Women  Azul  Midnight Navy 412   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FX1LZO0/?tag=tolees-21'
+descuento: '40.48'
+titulo: 'Under Armour FLY BY Short Pantalones Cor'
 ---
 
 Ahora mismo tienes [Under Armour FLY BY Short Pantalones Cortos  Women  Azul  Midnight Navy 412   XS](https://www.amazon.es/dp/B01FX1LZO0/?tag=tolees-21) a 14.85 EUR (original: 24.95 EUR) (40.48 %  de descuento) en el siguiente enlace!

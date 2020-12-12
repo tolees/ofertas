@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Puma Rise XT Fuse 2 Wn s  Zapatillas de Deporte Interior para Mujer  Negro Black White-Knockout Pink  38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSZ43B8/?tag=tolees-21'
+descuento: '79.53'
+titulo: 'Puma Rise XT Fuse 2 Wn s  Zapatillas de '
 ---
 
 Está [Puma Rise XT Fuse 2 Wn s  Zapatillas de Deporte Interior para Mujer  Negro Black White-Knockout Pink  38.5 EU](https://www.amazon.es/dp/B07CSZ43B8/?tag=tolees-21) con 79.53 de descuento por 22.51 EUR (original: 109.95 EUR) en el siguiente enlace!

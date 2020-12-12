@@ -17,6 +17,9 @@ comparePrice: 17 EUR
 inStock: true
 prodname: 'Fetish Tentation Premium Mordaza de Silicona - 1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00E25TE0G/?tag=tolees-21'
+descuento: '61.76'
+titulo: 'Fetish Tentation Premium Mordaza de Sili'
 ---
 
 Está [Fetish Tentation Premium Mordaza de Silicona - 1 unidad](https://www.amazon.es/dp/B00E25TE0G/?tag=tolees-21) con 61.76 de descuento por 6.5 EUR (original: 17 EUR) en el siguiente enlace!

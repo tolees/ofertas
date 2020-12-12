@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Asics Onitsuka Tiger California 78 Ex  Zapatillas Unisex Adulto  Morado  Peacoat/Ash Rose 5824   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HS6Q7C/?tag=tolees-21'
+descuento: '56.44'
+titulo: 'Asics Onitsuka Tiger California 78 Ex  Z'
 ---
 
 Está [Asics Onitsuka Tiger California 78 Ex  Zapatillas Unisex Adulto  Morado  Peacoat/Ash Rose 5824   38 EU](https://www.amazon.es/dp/B078HS6Q7C/?tag=tolees-21) con 56.44 de descuento por 43.56 EUR (original: 100 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'XTI 55868  Botines para Niñas  Marrón Camel  35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D97F1WB/?tag=tolees-21'
+descuento: '73.87'
+titulo: 'XTI 55868  Botines para Niñas  Marrón Ca'
 ---
 
 Tienes [XTI 55868  Botines para Niñas  Marrón Camel  35 EU](https://www.amazon.es/dp/B07D97F1WB/?tag=tolees-21) con un 73.87 % de descuento con precio de oferta de 10.44 EUR (original: 39.95 EUR) en el siguiente enlace!

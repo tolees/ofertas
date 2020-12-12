@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Pepe Jeans London Tom-Cut Med Boot  Botas Clasicas para Hombre  Negro  Black 999   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QMN7YC/?tag=tolees-21'
+descuento: '69.60'
+titulo: 'Pepe Jeans London Tom-Cut Med Boot  Bota'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Tom-Cut Med Boot  Botas Clasicas para Hombre  Negro  Black 999   46 EU](https://www.amazon.es/dp/B079QMN7YC/?tag=tolees-21) a 45.6 EUR (original: 150 EUR) (69.60 %  de descuento) en el siguiente enlace!

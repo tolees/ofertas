@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Geox J Sandal Karly Girl D  Sandalias con Punta Abierta para Niñas  Beige  Caramel/Gold C5g2x   29 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK4XWPZ/?tag=tolees-21'
+descuento: '60.09'
+titulo: 'Geox J Sandal Karly Girl D  Sandalias co'
 ---
 
 Ahora mismo tienes [Geox J Sandal Karly Girl D  Sandalias con Punta Abierta para Niñas  Beige  Caramel/Gold C5g2x   29 EU](https://www.amazon.es/dp/B07DK4XWPZ/?tag=tolees-21) a 21.95 EUR (original: 55 EUR) (60.09 %  de descuento) en el siguiente enlace!

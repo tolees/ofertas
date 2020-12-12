@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Geox J Waviness Boy B  Zapatillas para Niños  Azul  Royal/Lime C4344   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK35BBT/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Geox J Waviness Boy B  Zapatillas para N'
 ---
 
 Tienes [Geox J Waviness Boy B  Zapatillas para Niños  Azul  Royal/Lime C4344   35 EU](https://www.amazon.es/dp/B07DK35BBT/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 24.95 EUR (original: 49.9 EUR) en el siguiente enlace!

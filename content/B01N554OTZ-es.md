@@ -17,6 +17,9 @@ comparePrice: 43.49 EUR
 inStock: true
 prodname: 'IDC COLOR maletin maquillaje completo 30332'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N554OTZ/?tag=tolees-21'
+descuento: '42.65'
+titulo: 'IDC COLOR maletin maquillaje completo 30'
 ---
 
 Tienes [IDC COLOR maletin maquillaje completo 30332](https://www.amazon.es/dp/B01N554OTZ/?tag=tolees-21) con un 42.65 % de descuento con precio de oferta de 24.94 EUR (original: 43.49 EUR) en el siguiente enlace!

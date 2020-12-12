@@ -17,6 +17,9 @@ comparePrice: 4.99 EUR
 inStock: true
 prodname: 'OurLeeme universal antideslizante Volante de malla elástica de coches CoverGlove No Necesita puntada  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWYFJ5J/?tag=tolees-21'
+descuento: '40.08'
+titulo: 'OurLeeme universal antideslizante Volant'
 ---
 
 Tienes [OurLeeme universal antideslizante Volante de malla elástica de coches CoverGlove No Necesita puntada  Negro](https://www.amazon.es/dp/B07DWYFJ5J/?tag=tolees-21) con un 40.08 % de descuento con precio de oferta de 2.99 EUR (original: 4.99 EUR) en el siguiente enlace!

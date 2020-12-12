@@ -17,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'Maybelline New York Perfilador de Ojos Master Graphic Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N44FDJM/?tag=tolees-21'
+descuento: '29.92'
+titulo: 'Maybelline New York Perfilador de Ojos M'
 ---
 
 Ahora mismo tienes [Maybelline New York Perfilador de Ojos Master Graphic Black](https://www.amazon.es/dp/B00N44FDJM/?tag=tolees-21) a 6.3 EUR (original: 8.99 EUR) (29.92 %  de descuento) en el siguiente enlace!

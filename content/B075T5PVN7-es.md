@@ -17,6 +17,9 @@ comparePrice: 175 EUR
 inStock: true
 prodname: 'Carrera 150/S 9O 807 55  Gafas de sol para Hombre  Negro  Black/Grey Sf  '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075T5PVN7/?tag=tolees-21'
+descuento: '59.47'
+titulo: 'Carrera 150/S 9O 807 55  Gafas de sol pa'
 ---
 
 Tienes [Carrera 150/S 9O 807 55  Gafas de sol para Hombre  Negro  Black/Grey Sf  ](https://www.amazon.es/dp/B075T5PVN7/?tag=tolees-21) con un 59.47 % de descuento con precio de oferta de 70.93 EUR (original: 175 EUR) en el siguiente enlace!

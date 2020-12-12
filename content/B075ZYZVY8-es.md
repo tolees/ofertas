@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Skechers Bobs Sport-Insta Cool  Zapatillas para Mujer  Beige  Taupe   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075ZYZVY8/?tag=tolees-21'
+descuento: '40.24'
+titulo: 'Skechers Bobs Sport-Insta Cool  Zapatill'
 ---
 
 Ahora mismo tienes [Skechers Bobs Sport-Insta Cool  Zapatillas para Mujer  Beige  Taupe   36.5 EU](https://www.amazon.es/dp/B075ZYZVY8/?tag=tolees-21) a 29.85 EUR (original: 49.95 EUR) (40.24 %  de descuento) en el siguiente enlace!

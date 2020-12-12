@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Clarks Ellis Franklin  Botas Chelsea para Hombre  Negro  Black Leather   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XC94NRK/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Clarks Ellis Franklin  Botas Chelsea par'
 ---
 
 Está [Clarks Ellis Franklin  Botas Chelsea para Hombre  Negro  Black Leather   43 EU](https://www.amazon.es/dp/B06XC94NRK/?tag=tolees-21) con 50.00 de descuento por 80 EUR (original: 160 EUR) en el siguiente enlace!

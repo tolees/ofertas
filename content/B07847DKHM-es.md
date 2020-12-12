@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Deline II  Zapatillas para Hombre  Verde  Smoke Green 2688   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07847DKHM/?tag=tolees-21'
+descuento: '55.10'
+titulo: 'G-STAR RAW Deline II  Zapatillas para Ho'
 ---
 
 Ahora mismo tienes [G-STAR RAW Deline II  Zapatillas para Hombre  Verde  Smoke Green 2688   45 EU](https://www.amazon.es/dp/B07847DKHM/?tag=tolees-21) a 44.88 EUR (original: 99.95 EUR) (55.10 %  de descuento) en el siguiente enlace!

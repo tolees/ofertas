@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorart Muller Sweat Hood  Capucha para Hombre  Verde Large  Talla del Fabricante: '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GNGXC1H/?tag=tolees-21'
+descuento: '63.50'
+titulo: 'JACK & JONES Jorart Muller Sweat Hood  C'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorart Muller Sweat Hood  Capucha para Hombre  Verde Large  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNGXC1H/?tag=tolees-21) a 12.77 EUR (original: 34.99 EUR) (63.50 %  de descuento) en el siguiente enlace!

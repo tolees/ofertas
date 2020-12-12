@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma ESS Pique Polo Camiseta  Hombre  Negro  Cotton Black   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HLZ57L/?tag=tolees-21'
+descuento: '45.68'
+titulo: 'Puma ESS Pique Polo Camiseta  Hombre  Ne'
 ---
 
 Ahora mismo tienes [Puma ESS Pique Polo Camiseta  Hombre  Negro  Cotton Black   S](https://www.amazon.es/dp/B077HLZ57L/?tag=tolees-21) a 16.27 EUR (original: 29.95 EUR) (45.68 %  de descuento) en el siguiente enlace!

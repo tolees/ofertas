@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre  Scanton Vaqueros   Azul  Wilson Mid Blue Stretch 911  W32/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07994PMJG/?tag=tolees-21'
+descuento: '30.58'
+titulo: 'Tommy Jeans Hombre  Scanton Vaqueros   A'
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre  Scanton Vaqueros   Azul  Wilson Mid Blue Stretch 911  W32/L32](https://www.amazon.es/dp/B07994PMJG/?tag=tolees-21) a 65.95 EUR (original: 95 EUR) (30.58 %  de descuento) en el siguiente enlace!

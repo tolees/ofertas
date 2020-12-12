@@ -17,6 +17,9 @@ comparePrice: 30.95 EUR
 inStock: true
 prodname: 'HIKARO Pantalón Deportivo Estilo Jogger Hombre  Rojo  Burgundy   48  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0785SWTBM/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HIKARO Pantalón Deportivo Estilo Jogger '
 ---
 
 Ahora mismo tienes [HIKARO Pantalón Deportivo Estilo Jogger Hombre  Rojo  Burgundy   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B0785SWTBM/?tag=tolees-21) a 18.57 EUR (original: 30.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

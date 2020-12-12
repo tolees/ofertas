@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Only Onlmaria L/s Cardigan Knt Chaqueta Punto   Black Detail:w. Lgm/Silver   38  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0741F5ZYK/?tag=tolees-21'
+descuento: '58.24'
+titulo: 'Only Onlmaria L/s Cardigan Knt Chaqueta '
 ---
 
 Ahora mismo tienes [Only Onlmaria L/s Cardigan Knt Chaqueta Punto   Black Detail:w. Lgm/Silver   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B0741F5ZYK/?tag=tolees-21) a 16.7 EUR (original: 39.99 EUR) (58.24 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 22.91 EUR
 inStock: true
 prodname: 'Playtex Soutien-Gorge Avec Armatures Flower Elegance Micro  Sujetador con Aros para Mujer   Imprimé Marine 09O   90B'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H62XRM9/?tag=tolees-21'
+descuento: '35.40'
+titulo: 'Playtex Soutien-Gorge Avec Armatures Flo'
 ---
 
 Tienes [Playtex Soutien-Gorge Avec Armatures Flower Elegance Micro  Sujetador con Aros para Mujer   Imprimé Marine 09O   90B](https://www.amazon.es/dp/B07H62XRM9/?tag=tolees-21) con un 35.40 % de descuento con precio de oferta de 14.8 EUR (original: 22.91 EUR) en el siguiente enlace!

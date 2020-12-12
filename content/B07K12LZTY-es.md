@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'adidas Easy Vulc 2.0  Zapatillas de Skateboard para Hombre  Azul Trace Blue F17/Tech Ink/FTWR White  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K12LZTY/?tag=tolees-21'
+descuento: '38.33'
+titulo: 'adidas Easy Vulc 2.0  Zapatillas de Skat'
 ---
 
 Está [adidas Easy Vulc 2.0  Zapatillas de Skateboard para Hombre  Azul Trace Blue F17/Tech Ink/FTWR White  45 EU](https://www.amazon.es/dp/B07K12LZTY/?tag=tolees-21) con 38.33 de descuento por 33.89 EUR (original: 54.95 EUR) en el siguiente enlace!

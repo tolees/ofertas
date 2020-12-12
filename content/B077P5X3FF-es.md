@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Leadcat EP Wns Q2  Zapatos de Playa y Piscina para Mujer  Blanco White-Gray Violet  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077P5X3FF/?tag=tolees-21'
+descuento: '51.75'
+titulo: 'Puma Leadcat EP Wns Q2  Zapatos de Playa'
 ---
 
 Está [Puma Leadcat EP Wns Q2  Zapatos de Playa y Piscina para Mujer  Blanco White-Gray Violet  39 EU](https://www.amazon.es/dp/B077P5X3FF/?tag=tolees-21) con 51.75 de descuento por 14.45 EUR (original: 29.95 EUR) en el siguiente enlace!

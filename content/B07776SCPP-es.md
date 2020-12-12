@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre Essential  Polo Manga Corta  Azul  Green Blue Slate 422  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07776SCPP/?tag=tolees-21'
+descuento: '54.55'
+titulo: 'Tommy Jeans Hombre Essential  Polo Manga'
 ---
 
 Tienes [Tommy Jeans Hombre Essential  Polo Manga Corta  Azul  Green Blue Slate 422  Small](https://www.amazon.es/dp/B07776SCPP/?tag=tolees-21) con un 54.55 % de descuento con precio de oferta de 25 EUR (original: 55 EUR) en el siguiente enlace!

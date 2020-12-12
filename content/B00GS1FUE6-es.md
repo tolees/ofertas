@@ -17,6 +17,9 @@ comparePrice: 32.08 EUR
 inStock: true
 prodname: 'Bed Head by TIGI Champú Dumb Blonde 750 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GS1FUE6/?tag=tolees-21'
+descuento: '56.27'
+titulo: 'Bed Head by TIGI Champú Dumb Blonde 750 '
 ---
 
 Está [Bed Head by TIGI Champú Dumb Blonde 750 ml](https://www.amazon.es/dp/B00GS1FUE6/?tag=tolees-21) con 56.27 de descuento por 14.03 EUR (original: 32.08 EUR) en el siguiente enlace!

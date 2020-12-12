@@ -17,6 +17,9 @@ comparePrice: 9.95 EUR
 inStock: true
 prodname: 'Kokido Classic - Recogehojas de superficie'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BY7A5BM/?tag=tolees-21'
+descuento: '74.97'
+titulo: 'Kokido Classic - Recogehojas de superfic'
 ---
 
 Tienes [Kokido Classic - Recogehojas de superficie](https://www.amazon.es/dp/B00BY7A5BM/?tag=tolees-21) con un 74.97 % de descuento con precio de oferta de 2.49 EUR (original: 9.95 EUR) en el siguiente enlace!

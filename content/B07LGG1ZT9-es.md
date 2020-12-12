@@ -17,6 +17,9 @@ comparePrice: 28.33 EUR
 inStock: true
 prodname: 'New Look Scuba Belted 6061870  Vestido para Mujer  Red  Light Burgandy 65   40 ES'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LGG1ZT9/?tag=tolees-21'
+descuento: '51.32'
+titulo: 'New Look Scuba Belted 6061870  Vestido p'
 ---
 
 Ahora mismo tienes [New Look Scuba Belted 6061870  Vestido para Mujer  Red  Light Burgandy 65   40 ES](https://www.amazon.es/dp/B07LGG1ZT9/?tag=tolees-21) a 13.79 EUR (original: 28.33 EUR) (51.32 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'LeaderPro Auriculares In-Ear Mini Auriculares Bluetooth Inalámbricos TWS 5.0 CVC 6.0 con Micrófono y Caja de Carga Arranque automático Carga magnética de Succión para iPhone Samsung Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL11C8Y/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'LeaderPro Auriculares In-Ear Mini Auricu'
 ---
 
 Ahora mismo tienes [LeaderPro Auriculares In-Ear Mini Auriculares Bluetooth Inalámbricos TWS 5.0 CVC 6.0 con Micrófono y Caja de Carga Arranque automático Carga magnética de Succión para iPhone Samsung Rojo ](https://www.amazon.es/dp/B07DL11C8Y/?tag=tolees-21) a 39.99 EUR (original: 59.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

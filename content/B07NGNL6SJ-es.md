@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'RIP CURL Mama Strokes SS tee Camiseta  Hombre  Light Blue  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NGNL6SJ/?tag=tolees-21'
+descuento: '40.22'
+titulo: 'RIP CURL Mama Strokes SS tee Camiseta  H'
 ---
 
 Está [RIP CURL Mama Strokes SS tee Camiseta  Hombre  Light Blue  XL](https://www.amazon.es/dp/B07NGNL6SJ/?tag=tolees-21) con 40.22 de descuento por 11.95 EUR (original: 19.99 EUR) en el siguiente enlace!

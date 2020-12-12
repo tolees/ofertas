@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Timex Reloj de Pulsera TW2R64400'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HZCNV9D/?tag=tolees-21'
+descuento: '27.15'
+titulo: 'Timex Reloj de Pulsera TW2R64400'
 ---
 
 Está [Timex Reloj de Pulsera TW2R64400](https://www.amazon.es/dp/B07HZCNV9D/?tag=tolees-21) con 27.15 de descuento por 69.21 EUR (original: 95 EUR) en el siguiente enlace!

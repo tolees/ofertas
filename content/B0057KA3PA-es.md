@@ -17,6 +17,9 @@ comparePrice: 52 EUR
 inStock: true
 prodname: 'Justin Bieber Someday Agua de Perfume - 450 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0057KA3PA/?tag=tolees-21'
+descuento: '60.69'
+titulo: 'Justin Bieber Someday Agua de Perfume - '
 ---
 
 Tienes [Justin Bieber Someday Agua de Perfume - 450 gr](https://www.amazon.es/dp/B0057KA3PA/?tag=tolees-21) con un 60.69 % de descuento con precio de oferta de 20.44 EUR (original: 52 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'SIMPORDS Abalorio Charm Infinito con Corazón Grabado Te Amo para Mujer Regalo Mamá Abuela Hija Niña Esposa Novia'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RQ6HPMB/?tag=tolees-21'
+descuento: '78.01'
+titulo: 'SIMPORDS Abalorio Charm Infinito con Cor'
 ---
 
 Está [SIMPORDS Abalorio Charm Infinito con Corazón Grabado Te Amo para Mujer Regalo Mamá Abuela Hija Niña Esposa Novia](https://www.amazon.es/dp/B07RQ6HPMB/?tag=tolees-21) con 78.01 de descuento por 21.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Nike Wmns Air Zoom Pegasus 35  Zapatillas de Running para Mujer  Aura/Spruce Fog/Vintage Lichen 010  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMF8FDJ/?tag=tolees-21'
+descuento: '52.17'
+titulo: 'Nike Wmns Air Zoom Pegasus 35  Zapatilla'
 ---
 
 Tienes [Nike Wmns Air Zoom Pegasus 35  Zapatillas de Running para Mujer  Aura/Spruce Fog/Vintage Lichen 010  38 EU](https://www.amazon.es/dp/B07JMF8FDJ/?tag=tolees-21) con un 52.17 % de descuento con precio de oferta de 57.4 EUR (original: 120 EUR) en el siguiente enlace!

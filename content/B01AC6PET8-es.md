@@ -17,6 +17,9 @@ comparePrice: 21 EUR
 inStock: true
 prodname: 'Nike Park VI Camiseta de Manga Corta para hombre  Verde  KiefernVerde/Blanco   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AC6PET8/?tag=tolees-21'
+descuento: '38.10'
+titulo: 'Nike Park VI Camiseta de Manga Corta par'
 ---
 
 Tienes [Nike Park VI Camiseta de Manga Corta para hombre  Verde  KiefernVerde/Blanco   M](https://www.amazon.es/dp/B01AC6PET8/?tag=tolees-21) con un 38.10 % de descuento con precio de oferta de 13 EUR (original: 21 EUR) en el siguiente enlace!

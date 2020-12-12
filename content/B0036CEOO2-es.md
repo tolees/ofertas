@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Vans Authentic  Zapatillas de Tela Unisex  Gris  Pewter/Black   34.5 EU  Gris  Pewter/Black   34.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0036CEOO2/?tag=tolees-21'
+descuento: '69.52'
+titulo: 'Vans Authentic  Zapatillas de Tela Unise'
 ---
 
 Ahora mismo tienes [Vans Authentic  Zapatillas de Tela Unisex  Gris  Pewter/Black   34.5 EU  Gris  Pewter/Black   34.5 EU](https://www.amazon.es/dp/B0036CEOO2/?tag=tolees-21) a 19.81 EUR (original: 65 EUR) (69.52 %  de descuento) en el siguiente enlace!

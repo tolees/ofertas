@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'edc by Esprit 038cc1e014  Vestido Mujer  Azul  Blue Medium Wash 902   X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HWDX1W/?tag=tolees-21'
+descuento: '79.13'
+titulo: 'edc by Esprit 038cc1e014  Vestido Mujer '
 ---
 
 Está [edc by Esprit 038cc1e014  Vestido Mujer  Azul  Blue Medium Wash 902   X-Small](https://www.amazon.es/dp/B078HWDX1W/?tag=tolees-21) con 79.13 de descuento por 12.52 EUR (original: 59.99 EUR) en el siguiente enlace!

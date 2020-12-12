@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'edc by Esprit 037cc1b026  Pantalones Mujer  Beige  Khaki Beige   W32/L32  Talla del Fabricante: 32/REG '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZD2VY8/?tag=tolees-21'
+descuento: '74.89'
+titulo: 'edc by Esprit 037cc1b026  Pantalones Muj'
 ---
 
 Ahora mismo tienes [edc by Esprit 037cc1b026  Pantalones Mujer  Beige  Khaki Beige   W32/L32  Talla del Fabricante: 32/REG ](https://www.amazon.es/dp/B01MZD2VY8/?tag=tolees-21) a 12.55 EUR (original: 49.99 EUR) (74.89 %  de descuento) en el siguiente enlace!

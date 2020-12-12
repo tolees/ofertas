@@ -17,6 +17,9 @@ comparePrice: 5.99 EUR
 inStock: true
 prodname: 'Sanicat Hygiene + Arena Absorbente - 10L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HY1C9H/?tag=tolees-21'
+descuento: '46.74'
+titulo: 'Sanicat Hygiene + Arena Absorbente - 10L'
 ---
 
 Tienes [Sanicat Hygiene + Arena Absorbente - 10L](https://www.amazon.es/dp/B071HY1C9H/?tag=tolees-21) con un 46.74 % de descuento con precio de oferta de 3.19 EUR (original: 5.99 EUR) en el siguiente enlace!

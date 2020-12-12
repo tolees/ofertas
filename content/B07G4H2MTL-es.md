@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Gioteck - Tx-40 Stereo Gaming & Go Headset Copper'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4H2MTL/?tag=tolees-21'
+descuento: '47.94'
+titulo: 'Gioteck - Tx-40 Stereo Gaming & Go Heads'
 ---
 
 Está [Gioteck - Tx-40 Stereo Gaming & Go Headset Copper](https://www.amazon.es/dp/B07G4H2MTL/?tag=tolees-21) con 47.94 de descuento por 12.99 EUR (original: 24.95 EUR) en el siguiente enlace!

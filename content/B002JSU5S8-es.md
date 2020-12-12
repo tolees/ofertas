@@ -17,6 +17,9 @@ comparePrice: 14.12 EUR
 inStock: true
 prodname: 'Zeller 17970 Caja de almacenaje de cartón Blanco  Vintage White  16.5 x 28 x 15 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002JSU5S8/?tag=tolees-21'
+descuento: '57.58'
+titulo: 'Zeller 17970 Caja de almacenaje de cartó'
 ---
 
 Tienes [Zeller 17970 Caja de almacenaje de cartón Blanco  Vintage White  16.5 x 28 x 15 cm](https://www.amazon.es/dp/B002JSU5S8/?tag=tolees-21) con un 57.58 % de descuento con precio de oferta de 5.99 EUR (original: 14.12 EUR) en el siguiente enlace!

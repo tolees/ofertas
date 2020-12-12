@@ -17,6 +17,9 @@ comparePrice: 19.77 EUR
 inStock: true
 prodname: 'LETI AT-4 Crema Corporal 200ML'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009M4NWA0/?tag=tolees-21'
+descuento: '34.75'
+titulo: 'LETI AT-4 Crema Corporal 200ML'
 ---
 
 Está [LETI AT-4 Crema Corporal 200ML](https://www.amazon.es/dp/B009M4NWA0/?tag=tolees-21) con 34.75 de descuento por 12.9 EUR (original: 19.77 EUR) en el siguiente enlace!

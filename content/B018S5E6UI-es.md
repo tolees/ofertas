@@ -17,6 +17,9 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'Impermeable 300lm bicicleta luz LED Set 1 conjuntos frontal  3 colores  y 1 sets trasera luces acabado y resistente pantalla plana w/out herramientas  montaña se adapta a todas las bicicletas  azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018S5E6UI/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'Impermeable 300lm bicicleta luz LED Set '
 ---
 
 Ahora mismo tienes [Impermeable 300lm bicicleta luz LED Set 1 conjuntos frontal  3 colores  y 1 sets trasera luces acabado y resistente pantalla plana w/out herramientas  montaña se adapta a todas las bicicletas  azul ](https://www.amazon.es/dp/B018S5E6UI/?tag=tolees-21) a 5.99 EUR (original: 7.99 EUR) (25.03 %  de descuento) en el siguiente enlace!

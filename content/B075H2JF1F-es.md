@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Skechers Mecca-outer Venture Botas Clasicas Niños  Marrón  Tan Tan   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075H2JF1F/?tag=tolees-21'
+descuento: '62.00'
+titulo: 'Skechers Mecca-outer Venture Botas Clasi'
 ---
 
 Tienes [Skechers Mecca-outer Venture Botas Clasicas Niños  Marrón  Tan Tan   32 EU](https://www.amazon.es/dp/B075H2JF1F/?tag=tolees-21) con un 62.00 % de descuento con precio de oferta de 18.98 EUR (original: 49.95 EUR) en el siguiente enlace!

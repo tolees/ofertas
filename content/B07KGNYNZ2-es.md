@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Buff Arrows Gorra Baseball  Niños  Denim  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGNYNZ2/?tag=tolees-21'
+descuento: '45.73'
+titulo: 'Buff Arrows Gorra Baseball  Niños  Denim'
 ---
 
 Tienes [Buff Arrows Gorra Baseball  Niños  Denim  Talla única](https://www.amazon.es/dp/B07KGNYNZ2/?tag=tolees-21) con un 45.73 % de descuento con precio de oferta de 13.54 EUR (original: 24.95 EUR) en el siguiente enlace!

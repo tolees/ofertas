@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Roccat Isku FX - Teclado Gaming  iluminación  Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015IQP83E/?tag=tolees-21'
+descuento: '26.80'
+titulo: 'Roccat Isku FX - Teclado Gaming  ilumina'
 ---
 
 Ahora mismo tienes [Roccat Isku FX - Teclado Gaming  iluminación  Color Blanco](https://www.amazon.es/dp/B015IQP83E/?tag=tolees-21) a 80.51 EUR (original: 109.99 EUR) (26.80 %  de descuento) en el siguiente enlace!

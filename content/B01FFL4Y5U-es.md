@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Under Armour HG Armour 2.0 Long Short Pantalón Corto  Hombre  Blanco  White/Graphite 100   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FFL4Y5U/?tag=tolees-21'
+descuento: '45.02'
+titulo: 'Under Armour HG Armour 2.0 Long Short Pa'
 ---
 
 Está [Under Armour HG Armour 2.0 Long Short Pantalón Corto  Hombre  Blanco  White/Graphite 100   XL](https://www.amazon.es/dp/B01FFL4Y5U/?tag=tolees-21) con 45.02 de descuento por 16.49 EUR (original: 29.99 EUR) en el siguiente enlace!

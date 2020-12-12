@@ -17,6 +17,9 @@ comparePrice: 270.99 EUR
 inStock: true
 prodname: 'GRIFEMA G7002 - COLUMNAS Columna termostática para ducha telescópica  1/2inch   Sistema de ducha con ducha de mano de 3 funciones  manguera de ducha y soporte  Cromo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PNKH9JR/?tag=tolees-21'
+descuento: '31.37'
+titulo: 'GRIFEMA G7002 - COLUMNAS Columna termost'
 ---
 
 Está [GRIFEMA G7002 - COLUMNAS Columna termostática para ducha telescópica  1/2inch   Sistema de ducha con ducha de mano de 3 funciones  manguera de ducha y soporte  Cromo](https://www.amazon.es/dp/B07PNKH9JR/?tag=tolees-21) con 31.37 de descuento por 185.99 EUR (original: 270.99 EUR) en el siguiente enlace!

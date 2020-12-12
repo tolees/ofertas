@@ -17,6 +17,9 @@ comparePrice: 26.95 EUR
 inStock: true
 prodname: 'HIKARO Sudadera con Print Mujer  Rosa  Coral   48  Talla del fabricante: XXX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YDLLK7/?tag=tolees-21'
+descuento: '61.67'
+titulo: 'HIKARO Sudadera con Print Mujer  Rosa  C'
 ---
 
 Tienes [HIKARO Sudadera con Print Mujer  Rosa  Coral   48  Talla del fabricante: XXX-Large ](https://www.amazon.es/dp/B077YDLLK7/?tag=tolees-21) con un 61.67 % de descuento con precio de oferta de 10.33 EUR (original: 26.95 EUR) en el siguiente enlace!

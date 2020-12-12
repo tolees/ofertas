@@ -17,6 +17,9 @@ comparePrice: 12.72 EUR
 inStock: true
 prodname: 'Gallo Soba Original - 83 gr - [Pack de 8]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NCQKFIY/?tag=tolees-21'
+descuento: '50.94'
+titulo: 'Gallo Soba Original - 83 gr - [Pack de 8'
 ---
 
 Está [Gallo Soba Original - 83 gr - [Pack de 8]](https://www.amazon.es/dp/B01NCQKFIY/?tag=tolees-21) con 50.94 de descuento por 6.24 EUR (original: 12.72 EUR) en el siguiente enlace!

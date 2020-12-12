@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Bosch EasyImpact 12 - Taladro atornillador percutor a batería  2 baterías  12 V  Power for all  2 5 Ah  cargador de baterías  maletín '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6IJZRK/?tag=tolees-21'
+descuento: '42.00'
+titulo: 'Bosch EasyImpact 12 - Taladro atornillad'
 ---
 
 Está [Bosch EasyImpact 12 - Taladro atornillador percutor a batería  2 baterías  12 V  Power for all  2 5 Ah  cargador de baterías  maletín ](https://www.amazon.es/dp/B01N6IJZRK/?tag=tolees-21) con 42.00 de descuento por 116 EUR (original: 199.99 EUR) en el siguiente enlace!

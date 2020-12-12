@@ -17,6 +17,9 @@ comparePrice: 27.5 EUR
 inStock: true
 prodname: 'Gloss - caja de baño  caja de regalo para mujeres - Baño de metal regalo EcoBalance'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L1UCEHO/?tag=tolees-21'
+descuento: '27.64'
+titulo: 'Gloss - caja de baño  caja de regalo par'
 ---
 
 Ahora mismo tienes [Gloss - caja de baño  caja de regalo para mujeres - Baño de metal regalo EcoBalance](https://www.amazon.es/dp/B01L1UCEHO/?tag=tolees-21) a 19.9 EUR (original: 27.5 EUR) (27.64 %  de descuento) en el siguiente enlace!

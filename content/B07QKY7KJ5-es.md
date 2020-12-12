@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Báscula de Cocina Digital  UPOPA HERO Escala de Alimentos Multifuncional de Vidrio Templado Ultra Delgado  Peso de Cocina de 5 kg / 11 lb con Pantalla LCD  Función de Tara  Auto-Off   plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QKY7KJ5/?tag=tolees-21'
+descuento: '28.14'
+titulo: 'Báscula de Cocina Digital  UPOPA HERO Es'
 ---
 
 Está [Báscula de Cocina Digital  UPOPA HERO Escala de Alimentos Multifuncional de Vidrio Templado Ultra Delgado  Peso de Cocina de 5 kg / 11 lb con Pantalla LCD  Función de Tara  Auto-Off   plateado](https://www.amazon.es/dp/B07QKY7KJ5/?tag=tolees-21) con 28.14 de descuento por 11.49 EUR (original: 15.99 EUR) en el siguiente enlace!

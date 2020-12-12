@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Oflamn Bolsa de Viaje Bolsa Fin de Semana - Bolsa de Deporte con Compartimento Zapatos para Mujeres y Hombres - Sports Gym Bag  1.0 Gris '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0799HJCM5/?tag=tolees-21'
+descuento: '78.20'
+titulo: 'Oflamn Bolsa de Viaje Bolsa Fin de Seman'
 ---
 
 Tienes [Oflamn Bolsa de Viaje Bolsa Fin de Semana - Bolsa de Deporte con Compartimento Zapatos para Mujeres y Hombres - Sports Gym Bag  1.0 Gris ](https://www.amazon.es/dp/B0799HJCM5/?tag=tolees-21) con un 78.20 % de descuento con precio de oferta de 11.99 EUR (original: 55 EUR) en el siguiente enlace!

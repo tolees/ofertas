@@ -17,6 +17,9 @@ comparePrice: 1829.24 EUR
 inStock: true
 prodname: 'Handevision Ibelux - Objetivo para Sony E-Mount  40 mm f/0.85 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I01S3LY/?tag=tolees-21'
+descuento: '65.51'
+titulo: 'Handevision Ibelux - Objetivo para Sony '
 ---
 
 Está [Handevision Ibelux - Objetivo para Sony E-Mount  40 mm f/0.85 ](https://www.amazon.es/dp/B00I01S3LY/?tag=tolees-21) con 65.51 de descuento por 630.89 EUR (original: 1829.24 EUR) en el siguiente enlace!

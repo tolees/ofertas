@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'adidas Cosmic 2  Zapatillas de Running para Hombre  Azul Trace Blue F17/Ftwr White/Legend Ink  44 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G3FB12J/?tag=tolees-21'
+descuento: '44.51'
+titulo: 'adidas Cosmic 2  Zapatillas de Running p'
 ---
 
 Está [adidas Cosmic 2  Zapatillas de Running para Hombre  Azul Trace Blue F17/Ftwr White/Legend Ink  44 2/3 EU](https://www.amazon.es/dp/B07G3FB12J/?tag=tolees-21) con 44.51 de descuento por 30.49 EUR (original: 54.95 EUR) en el siguiente enlace!

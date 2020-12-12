@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Columbia Wayfinder Mid Outdry  Zapatillas de Senderismo  Impermeable para Mujer  Gris  Steam  Eve   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DV4NDT1/?tag=tolees-21'
+descuento: '62.64'
+titulo: 'Columbia Wayfinder Mid Outdry  Zapatilla'
 ---
 
 Tienes [Columbia Wayfinder Mid Outdry  Zapatillas de Senderismo  Impermeable para Mujer  Gris  Steam  Eve   36.5 EU](https://www.amazon.es/dp/B07DV4NDT1/?tag=tolees-21) con un 62.64 % de descuento con precio de oferta de 48.57 EUR (original: 129.99 EUR) en el siguiente enlace!

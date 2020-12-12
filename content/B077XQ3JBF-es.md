@@ -17,6 +17,9 @@ comparePrice: 12 EUR
 inStock: true
 prodname: 'Under Armour - Braguitas  Mujer  1290950-408  Academy  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XQ3JBF/?tag=tolees-21'
+descuento: '46.92'
+titulo: 'Under Armour - Braguitas  Mujer  1290950'
 ---
 
 Ahora mismo tienes [Under Armour - Braguitas  Mujer  1290950-408  Academy  Small](https://www.amazon.es/dp/B077XQ3JBF/?tag=tolees-21) a 6.37 EUR (original: 12 EUR) (46.92 %  de descuento) en el siguiente enlace!

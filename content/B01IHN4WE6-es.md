@@ -17,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'Cortefiel 3906132  Americana Hombre para Hombre  Azul Oscuro  52'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IHN4WE6/?tag=tolees-21'
+descuento: '75.65'
+titulo: 'Cortefiel 3906132  Americana Hombre para'
 ---
 
 Ahora mismo tienes [Cortefiel 3906132  Americana Hombre para Hombre  Azul Oscuro  52](https://www.amazon.es/dp/B01IHN4WE6/?tag=tolees-21) a 38.71 EUR (original: 159 EUR) (75.65 %  de descuento) en el siguiente enlace!

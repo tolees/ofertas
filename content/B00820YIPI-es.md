@@ -17,6 +17,9 @@ comparePrice: 155.84 EUR
 inStock: true
 prodname: 'Westinghouse Comet Ventilador de Techo E14  Acabado aspas Reversibles en Blanco/Haya'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00820YIPI/?tag=tolees-21'
+descuento: '45.21'
+titulo: 'Westinghouse Comet Ventilador de Techo E'
 ---
 
 Está [Westinghouse Comet Ventilador de Techo E14  Acabado aspas Reversibles en Blanco/Haya](https://www.amazon.es/dp/B00820YIPI/?tag=tolees-21) con 45.21 de descuento por 85.38 EUR (original: 155.84 EUR) en el siguiente enlace!

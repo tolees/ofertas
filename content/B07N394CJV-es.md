@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'The North Face M Hedgehg Fp GTX EU   Zapatillas de Senderismo para Hombre  Gris  Ebony Grey/Shady Blue C4b   44.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N394CJV/?tag=tolees-21'
+descuento: '57.51'
+titulo: 'The North Face M Hedgehg Fp GTX EU   Zap'
 ---
 
 Ahora mismo tienes [The North Face M Hedgehg Fp GTX EU   Zapatillas de Senderismo para Hombre  Gris  Ebony Grey/Shady Blue C4b   44.5](https://www.amazon.es/dp/B07N394CJV/?tag=tolees-21) a 59.49 EUR (original: 140 EUR) (57.51 %  de descuento) en el siguiente enlace!

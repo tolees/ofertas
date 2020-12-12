@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Levi s Levis 200SF Optical Zigzag Boxer Brief 2P Culotte  Negro  Caviar 703   S  Talla de Fabricante :010   Pack de 2 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MCV9YNZ/?tag=tolees-21'
+descuento: '55.90'
+titulo: 'Levi s Levis 200SF Optical Zigzag Boxer '
 ---
 
 Está [Levi s Levis 200SF Optical Zigzag Boxer Brief 2P Culotte  Negro  Caviar 703   S  Talla de Fabricante :010   Pack de 2 para Hombre](https://www.amazon.es/dp/B07MCV9YNZ/?tag=tolees-21) con 55.90 de descuento por 11.02 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Lifewit 7L Bolsa Porta Alimentos para Niños Doble Compartimentos Aislamiento Bolsa de Almuerzo Bolso Térmico para Niños Camping Excursión Playa Refrescos  Azul rayas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073XJ99ZG/?tag=tolees-21'
+descuento: '73.72'
+titulo: 'Lifewit 7L Bolsa Porta Alimentos para Ni'
 ---
 
 Está [Lifewit 7L Bolsa Porta Alimentos para Niños Doble Compartimentos Aislamiento Bolsa de Almuerzo Bolso Térmico para Niños Camping Excursión Playa Refrescos  Azul rayas ](https://www.amazon.es/dp/B073XJ99ZG/?tag=tolees-21) con 73.72 de descuento por 4.99 EUR (original: 18.99 EUR) en el siguiente enlace!

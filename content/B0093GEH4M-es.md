@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Sigma Sport 00442 Accesorio ciclocomputador  Unisex  Negro  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0093GEH4M/?tag=tolees-21'
+descuento: '46.25'
+titulo: 'Sigma Sport 00442 Accesorio ciclocomputa'
 ---
 
 Está [Sigma Sport 00442 Accesorio ciclocomputador  Unisex  Negro  Talla Única](https://www.amazon.es/dp/B0093GEH4M/?tag=tolees-21) con 46.25 de descuento por 13.41 EUR (original: 24.95 EUR) en el siguiente enlace!

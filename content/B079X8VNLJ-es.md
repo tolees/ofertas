@@ -17,6 +17,9 @@ comparePrice: 33.99 EUR
 inStock: true
 prodname: 'Taurus Bapi Unic 1000 Inox - Batidora picadora inox  1000 W  20 velocidades  diseño ergonómico  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079X8VNLJ/?tag=tolees-21'
+descuento: '47.04'
+titulo: 'Taurus Bapi Unic 1000 Inox - Batidora pi'
 ---
 
 Tienes [Taurus Bapi Unic 1000 Inox - Batidora picadora inox  1000 W  20 velocidades  diseño ergonómico  color blanco](https://www.amazon.es/dp/B079X8VNLJ/?tag=tolees-21) con un 47.04 % de descuento con precio de oferta de 18 EUR (original: 33.99 EUR) en el siguiente enlace!

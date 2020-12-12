@@ -17,6 +17,9 @@ comparePrice: 125.28 EUR
 inStock: true
 prodname: 'Timberland MT. Major  Botas Clasicas para Hombre  Marrón  Brown/Grey 838   43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGRLJJW/?tag=tolees-21'
+descuento: '54.08'
+titulo: 'Timberland MT. Major  Botas Clasicas par'
 ---
 
 Está [Timberland MT. Major  Botas Clasicas para Hombre  Marrón  Brown/Grey 838   43.5 EU](https://www.amazon.es/dp/B07DGRLJJW/?tag=tolees-21) con 54.08 de descuento por 57.53 EUR (original: 125.28 EUR) en el siguiente enlace!

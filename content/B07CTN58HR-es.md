@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Under Armour Slingride 2  Zapatillas de Running para Hombre  Blanco  Summit White/Silt Brown/Black 108   44/45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTN58HR/?tag=tolees-21'
+descuento: '64.08'
+titulo: 'Under Armour Slingride 2  Zapatillas de '
 ---
 
 Ahora mismo tienes [Under Armour Slingride 2  Zapatillas de Running para Hombre  Blanco  Summit White/Silt Brown/Black 108   44/45 EU](https://www.amazon.es/dp/B07CTN58HR/?tag=tolees-21) a 35.92 EUR (original: 100 EUR) (64.08 %  de descuento) en el siguiente enlace!

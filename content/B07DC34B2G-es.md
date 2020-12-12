@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'LE COQ SPORTIF Alpha Winter Craft Black/Dress Blue  Zapatillas para Hombre  Beige Noir  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC34B2G/?tag=tolees-21'
+descuento: '50.49'
+titulo: 'LE COQ SPORTIF Alpha Winter Craft Black/'
 ---
 
 Está [LE COQ SPORTIF Alpha Winter Craft Black/Dress Blue  Zapatillas para Hombre  Beige Noir  41 EU](https://www.amazon.es/dp/B07DC34B2G/?tag=tolees-21) con 50.49 de descuento por 42.08 EUR (original: 85 EUR) en el siguiente enlace!

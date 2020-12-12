@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Nike Revolution 4  GS   Zapatillas de Running para Niños  Gris  Football Cool Wolf Grey 011   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D43GRBC/?tag=tolees-21'
+descuento: '40.11'
+titulo: 'Nike Revolution 4  GS   Zapatillas de Ru'
 ---
 
 Ahora mismo tienes [Nike Revolution 4  GS   Zapatillas de Running para Niños  Gris  Football Cool Wolf Grey 011   39 EU](https://www.amazon.es/dp/B07D43GRBC/?tag=tolees-21) a 26.95 EUR (original: 45 EUR) (40.11 %  de descuento) en el siguiente enlace!

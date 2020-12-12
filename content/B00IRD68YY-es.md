@@ -17,6 +17,9 @@ comparePrice: 29.8 EUR
 inStock: true
 prodname: 'Shiseido 57095 - Cuidado capilar  150 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IRD68YY/?tag=tolees-21'
+descuento: '53.36'
+titulo: 'Shiseido 57095 - Cuidado capilar  150 ml'
 ---
 
 Ahora mismo tienes [Shiseido 57095 - Cuidado capilar  150 ml](https://www.amazon.es/dp/B00IRD68YY/?tag=tolees-21) a 13.9 EUR (original: 29.8 EUR) (53.36 %  de descuento) en el siguiente enlace!

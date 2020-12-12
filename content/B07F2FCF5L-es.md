@@ -17,6 +17,9 @@ comparePrice: 10.21 EUR
 inStock: true
 prodname: 'KICCOLY [3 pares] Cordones elásticos  cordones elásticos reflectantes 100cm sin corbata Cordones elásticos para adultos  niños  generaciones mayores  discapacitados  corredores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2FCF5L/?tag=tolees-21'
+descuento: '32.32'
+titulo: 'KICCOLY [3 pares] Cordones elásticos  co'
 ---
 
 Ahora mismo tienes [KICCOLY [3 pares] Cordones elásticos  cordones elásticos reflectantes 100cm sin corbata Cordones elásticos para adultos  niños  generaciones mayores  discapacitados  corredores](https://www.amazon.es/dp/B07F2FCF5L/?tag=tolees-21) a 6.91 EUR (original: 10.21 EUR) (32.32 %  de descuento) en el siguiente enlace!

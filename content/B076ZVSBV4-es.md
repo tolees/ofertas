@@ -17,6 +17,9 @@ comparePrice: 32 EUR
 inStock: true
 prodname: 'SYROKAN - Sujetador Deportivo para Mujer Sujetador Sport Medium Tallas Grandes Negro# ES:95E  EU 80E '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076ZVSBV4/?tag=tolees-21'
+descuento: '37.53'
+titulo: 'SYROKAN - Sujetador Deportivo para Mujer'
 ---
 
 Ahora mismo tienes [SYROKAN - Sujetador Deportivo para Mujer Sujetador Sport Medium Tallas Grandes Negro# ES:95E  EU 80E ](https://www.amazon.es/dp/B076ZVSBV4/?tag=tolees-21) a 19.99 EUR (original: 32 EUR) (37.53 %  de descuento) en el siguiente enlace!

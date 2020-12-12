@@ -17,6 +17,9 @@ comparePrice: 19.89 EUR
 inStock: true
 prodname: 'Tommee Tippee Sangenic Tec - Contenedor de pañales  color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0107WHE1I/?tag=tolees-21'
+descuento: '29.86'
+titulo: 'Tommee Tippee Sangenic Tec - Contenedor '
 ---
 
 Tienes [Tommee Tippee Sangenic Tec - Contenedor de pañales  color azul](https://www.amazon.es/dp/B0107WHE1I/?tag=tolees-21) con un 29.86 % de descuento con precio de oferta de 13.95 EUR (original: 19.89 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 16 EUR
 inStock: true
 prodname: 'POWER GUIDANCE Bandas de Resistencia elástica para la Cadera al Ejercicio de piernas y Trasero'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B8XVVVD/?tag=tolees-21'
+descuento: '37.56'
+titulo: 'POWER GUIDANCE Bandas de Resistencia elá'
 ---
 
 Tienes [POWER GUIDANCE Bandas de Resistencia elástica para la Cadera al Ejercicio de piernas y Trasero](https://www.amazon.es/dp/B07B8XVVVD/?tag=tolees-21) con un 37.56 % de descuento con precio de oferta de 9.99 EUR (original: 16 EUR) en el siguiente enlace!

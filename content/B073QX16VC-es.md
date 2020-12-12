@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Reebok Royal Ultra SL  Zapatillas de Deporte para Mujer  Negro  Black/Meteor Seaside Grey/White   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QX16VC/?tag=tolees-21'
+descuento: '74.33'
+titulo: 'Reebok Royal Ultra SL  Zapatillas de Dep'
 ---
 
 Ahora mismo tienes [Reebok Royal Ultra SL  Zapatillas de Deporte para Mujer  Negro  Black/Meteor Seaside Grey/White   35 EU](https://www.amazon.es/dp/B073QX16VC/?tag=tolees-21) a 16.67 EUR (original: 64.95 EUR) (74.33 %  de descuento) en el siguiente enlace!

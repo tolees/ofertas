@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Lee Mid Skirt  Falda para Mujer  Azul  Simple Focus ZJ  36  Talla del fabricante: 26 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYNQLKM/?tag=tolees-21'
+descuento: '58.35'
+titulo: 'Lee Mid Skirt  Falda para Mujer  Azul  S'
 ---
 
 Está [Lee Mid Skirt  Falda para Mujer  Azul  Simple Focus ZJ  36  Talla del fabricante: 26 ](https://www.amazon.es/dp/B07FYNQLKM/?tag=tolees-21) con 58.35 de descuento por 27.07 EUR (original: 65 EUR) en el siguiente enlace!

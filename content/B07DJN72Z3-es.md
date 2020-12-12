@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'PAZZiMO Caja organizadora cables grande y blanca  pasacables protector y seguro  recoge cables de forma inteligente  ordenar cables con la mejor calidad y durabilidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJN72Z3/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'PAZZiMO Caja organizadora cables grande '
 ---
 
 Está [PAZZiMO Caja organizadora cables grande y blanca  pasacables protector y seguro  recoge cables de forma inteligente  ordenar cables con la mejor calidad y durabilidad](https://www.amazon.es/dp/B07DJN72Z3/?tag=tolees-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

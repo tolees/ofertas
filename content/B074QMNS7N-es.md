@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'TOPELEK Bandeja de Hielo PP+TPE Moldes para Cubitos de Hielo 14 Bandeja para Cubitos de Hielo con Tapa Certificado LFGB/FDA sin BPA  Congelarse Alimentos para Bebés Cola Cócteles Whisky Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074QMNS7N/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'TOPELEK Bandeja de Hielo PP+TPE Moldes p'
 ---
 
 Tienes [TOPELEK Bandeja de Hielo PP+TPE Moldes para Cubitos de Hielo 14 Bandeja para Cubitos de Hielo con Tapa Certificado LFGB/FDA sin BPA  Congelarse Alimentos para Bebés Cola Cócteles Whisky Azul ](https://www.amazon.es/dp/B074QMNS7N/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

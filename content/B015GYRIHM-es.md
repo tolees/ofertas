@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'L Oreal Paris Make-up Designer Accord Parfait Base de Maquillaje con Acabado Natural  Tono Bronceado 7D Ambre Doré - 30 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015GYRIHM/?tag=tolees-21'
+descuento: '30.93'
+titulo: 'L Oreal Paris Make-up Designer Accord Pa'
 ---
 
 Tienes [L Oreal Paris Make-up Designer Accord Parfait Base de Maquillaje con Acabado Natural  Tono Bronceado 7D Ambre Doré - 30 ml](https://www.amazon.es/dp/B015GYRIHM/?tag=tolees-21) con un 30.93 % de descuento con precio de oferta de 10.36 EUR (original: 15 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'BILLABONG Craftman SS Camiseta  Hombre  Verde  Military 176   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0798JLFXD/?tag=tolees-21'
+descuento: '58.60'
+titulo: 'BILLABONG Craftman SS Camiseta  Hombre  '
 ---
 
 Tienes [BILLABONG Craftman SS Camiseta  Hombre  Verde  Military 176   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B0798JLFXD/?tag=tolees-21) con un 58.60 % de descuento con precio de oferta de 10.35 EUR (original: 25 EUR) en el siguiente enlace!

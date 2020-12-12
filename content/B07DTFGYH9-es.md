@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'adidas X Tango 18.4 in J  Zapatillas de fútbol Sala Unisex Adulto  Negbás/Amasol 000  38 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DTFGYH9/?tag=tolees-21'
+descuento: '29.91'
+titulo: 'adidas X Tango 18.4 in J  Zapatillas de '
 ---
 
 Está [adidas X Tango 18.4 in J  Zapatillas de fútbol Sala Unisex Adulto  Negbás/Amasol 000  38 2/3 EU](https://www.amazon.es/dp/B07DTFGYH9/?tag=tolees-21) con 29.91 de descuento por 28 EUR (original: 39.95 EUR) en el siguiente enlace!

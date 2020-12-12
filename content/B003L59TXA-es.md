@@ -17,6 +17,9 @@ comparePrice: 30.2 EUR
 inStock: true
 prodname: 'erima Alpha - Camiseta  Color Blanco  Talla 128'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003L59TXA/?tag=tolees-21'
+descuento: '82.09'
+titulo: 'erima Alpha - Camiseta  Color Blanco  Ta'
 ---
 
 Ahora mismo tienes [erima Alpha - Camiseta  Color Blanco  Talla 128](https://www.amazon.es/dp/B003L59TXA/?tag=tolees-21) a 5.41 EUR (original: 30.2 EUR) (82.09 %  de descuento) en el siguiente enlace!

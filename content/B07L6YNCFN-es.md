@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'LIU JO Shoes Alexa-Running  Zapatillas para Mujer   White/Pink S1006   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L6YNCFN/?tag=tolees-21'
+descuento: '43.31'
+titulo: 'LIU JO Shoes Alexa-Running  Zapatillas p'
 ---
 
 Está [LIU JO Shoes Alexa-Running  Zapatillas para Mujer   White/Pink S1006   35 EU](https://www.amazon.es/dp/B07L6YNCFN/?tag=tolees-21) con 43.31 de descuento por 61.79 EUR (original: 109 EUR) en el siguiente enlace!

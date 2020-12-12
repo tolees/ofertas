@@ -17,6 +17,9 @@ comparePrice: 249 EUR
 inStock: true
 prodname: 'Pala Padel Babolat Defiance Carbon 2018'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079LZP9HS/?tag=tolees-21'
+descuento: '54.42'
+titulo: 'Pala Padel Babolat Defiance Carbon 2018'
 ---
 
 Está [Pala Padel Babolat Defiance Carbon 2018](https://www.amazon.es/dp/B079LZP9HS/?tag=tolees-21) con 54.42 de descuento por 113.5 EUR (original: 249 EUR) en el siguiente enlace!

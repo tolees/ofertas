@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'WOSTOO Luz Trasera para Bicicleta Recargable USB  LED Faro Trasero Bici  Super Brillante Rojo Luz LED Bici de 120 Lúmenes  Impermeable  240 ° Faro Trasero Bici para Máxima Seguridad de Ciclismo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MCX9R8Y/?tag=tolees-21'
+descuento: '82.02'
+titulo: 'WOSTOO Luz Trasera para Bicicleta Recarg'
 ---
 
 Tienes [WOSTOO Luz Trasera para Bicicleta Recargable USB  LED Faro Trasero Bici  Super Brillante Rojo Luz LED Bici de 120 Lúmenes  Impermeable  240 ° Faro Trasero Bici para Máxima Seguridad de Ciclismo](https://www.amazon.es/dp/B07MCX9R8Y/?tag=tolees-21) con un 82.02 % de descuento con precio de oferta de 8.99 EUR (original: 50 EUR) en el siguiente enlace!

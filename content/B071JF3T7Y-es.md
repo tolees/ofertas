@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Crazytrain Pro W  Zapatillas de Deporte para Mujer  Gris- Griuno/FTWBLA/Gritre   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JF3T7Y/?tag=tolees-21'
+descuento: '50.48'
+titulo: 'adidas Crazytrain Pro W  Zapatillas de D'
 ---
 
 Tienes [adidas Crazytrain Pro W  Zapatillas de Deporte para Mujer  Gris- Griuno/FTWBLA/Gritre   42 EU](https://www.amazon.es/dp/B071JF3T7Y/?tag=tolees-21) con un 50.48 % de descuento con precio de oferta de 49.5 EUR (original: 99.95 EUR) en el siguiente enlace!

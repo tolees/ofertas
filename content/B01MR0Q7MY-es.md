@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Bugatti 422291605050  Zapatillas para Mujer  Negro  Black/Metallic   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MR0Q7MY/?tag=tolees-21'
+descuento: '65.48'
+titulo: 'Bugatti 422291605050  Zapatillas para Mu'
 ---
 
 Ahora mismo tienes [Bugatti 422291605050  Zapatillas para Mujer  Negro  Black/Metallic   39 EU](https://www.amazon.es/dp/B01MR0Q7MY/?tag=tolees-21) a 24.15 EUR (original: 69.95 EUR) (65.48 %  de descuento) en el siguiente enlace!

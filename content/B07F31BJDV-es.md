@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Helly Hansen HH Duffel Bag 2 Bolsa de Viaje  Unisex Adulto  Rosa  Dragon Fruit 181   30L  XS-50x27 cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F31BJDV/?tag=tolees-21'
+descuento: '25.06'
+titulo: 'Helly Hansen HH Duffel Bag 2 Bolsa de Vi'
 ---
 
 Ahora mismo tienes [Helly Hansen HH Duffel Bag 2 Bolsa de Viaje  Unisex Adulto  Rosa  Dragon Fruit 181   30L  XS-50x27 cm ](https://www.amazon.es/dp/B07F31BJDV/?tag=tolees-21) a 59.95 EUR (original: 80 EUR) (25.06 %  de descuento) en el siguiente enlace!

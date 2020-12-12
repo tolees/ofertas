@@ -17,6 +17,9 @@ comparePrice: 55.09 EUR
 inStock: true
 prodname: 'Emporio Armani 211725  Calzoncillos para Hombre  Blanco  Bianco 00010   52'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K1HQHWZ/?tag=tolees-21'
+descuento: '30.79'
+titulo: 'Emporio Armani 211725  Calzoncillos para'
 ---
 
 Ahora mismo tienes [Emporio Armani 211725  Calzoncillos para Hombre  Blanco  Bianco 00010   52](https://www.amazon.es/dp/B07K1HQHWZ/?tag=tolees-21) a 38.13 EUR (original: 55.09 EUR) (30.79 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slharo SS Embroidery Polo W Noos  Hombre  Azul  Moonlight Ocean Moonlight Ocean   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B3ZPW65/?tag=tolees-21'
+descuento: '68.07'
+titulo: 'SELECTED HOMME Slharo SS Embroidery Polo'
 ---
 
 Tienes [SELECTED HOMME Slharo SS Embroidery Polo W Noos  Hombre  Azul  Moonlight Ocean Moonlight Ocean   Small](https://www.amazon.es/dp/B07B3ZPW65/?tag=tolees-21) con un 68.07 % de descuento con precio de oferta de 7.98 EUR (original: 24.99 EUR) en el siguiente enlace!

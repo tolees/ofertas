@@ -17,6 +17,9 @@ comparePrice: 70.78 EUR
 inStock: true
 prodname: 'Lacor - 65118 - Cafetera Luxe Inox. 1 80 Litros.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000T5N8UK/?tag=tolees-21'
+descuento: '79.80'
+titulo: 'Lacor - 65118 - Cafetera Luxe Inox. 1 80'
 ---
 
 Está [Lacor - 65118 - Cafetera Luxe Inox. 1 80 Litros.](https://www.amazon.es/dp/B000T5N8UK/?tag=tolees-21) con 79.80 de descuento por 14.3 EUR (original: 70.78 EUR) en el siguiente enlace!

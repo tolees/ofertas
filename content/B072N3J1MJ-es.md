@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Reebok Royal Cmplt CLN LX  Zapatillas de Deporte para Hombre  Negro  Black/Shark 000   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072N3J1MJ/?tag=tolees-21'
+descuento: '70.06'
+titulo: 'Reebok Royal Cmplt CLN LX  Zapatillas de'
 ---
 
 Está [Reebok Royal Cmplt CLN LX  Zapatillas de Deporte para Hombre  Negro  Black/Shark 000   40 EU](https://www.amazon.es/dp/B072N3J1MJ/?tag=tolees-21) con 70.06 de descuento por 22.44 EUR (original: 74.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Cosprof Antienvejecimiento Vitamina C Serum facial para blanqueamiento y brillo  suero antiarrugas para cara 1 oz'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D6HN2H5/?tag=tolees-21'
+descuento: '71.01'
+titulo: 'Cosprof Antienvejecimiento Vitamina C Se'
 ---
 
 Ahora mismo tienes [Cosprof Antienvejecimiento Vitamina C Serum facial para blanqueamiento y brillo  suero antiarrugas para cara 1 oz](https://www.amazon.es/dp/B07D6HN2H5/?tag=tolees-21) a 28.99 EUR (original: 99.99 EUR) (71.01 %  de descuento) en el siguiente enlace!

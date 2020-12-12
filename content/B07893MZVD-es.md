@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Helly Hansen Seven J Shell Jacket  Hombre  fir Green  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07893MZVD/?tag=tolees-21'
+descuento: '55.72'
+titulo: 'Helly Hansen Seven J Shell Jacket  Hombr'
 ---
 
 Tienes [Helly Hansen Seven J Shell Jacket  Hombre  fir Green  S](https://www.amazon.es/dp/B07893MZVD/?tag=tolees-21) con un 55.72 % de descuento con precio de oferta de 48.71 EUR (original: 110 EUR) en el siguiente enlace!

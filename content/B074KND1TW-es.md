@@ -17,6 +17,9 @@ comparePrice: 279 EUR
 inStock: true
 prodname: 'Sony Xperia XA1 - Smartphone con Pantalla HD de 5"  Dual-SIM  Octa Core 2.3 GHz  RAM de 3 GB  Memoria Interna de 32 GB  cámara de 23 MP  Android  Dorado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074KND1TW/?tag=tolees-21'
+descuento: '35.84'
+titulo: 'Sony Xperia XA1 - Smartphone con Pantall'
 ---
 
 Tienes [Sony Xperia XA1 - Smartphone con Pantalla HD de 5"  Dual-SIM  Octa Core 2.3 GHz  RAM de 3 GB  Memoria Interna de 32 GB  cámara de 23 MP  Android  Dorado](https://www.amazon.es/dp/B074KND1TW/?tag=tolees-21) con un 35.84 % de descuento con precio de oferta de 179 EUR (original: 279 EUR) en el siguiente enlace!

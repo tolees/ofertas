@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Buff Elytra Gorra Trucker  Niñas  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGGG1MP/?tag=tolees-21'
+descuento: '45.61'
+titulo: 'Buff Elytra Gorra Trucker  Niñas  Talla '
 ---
 
 Ahora mismo tienes [Buff Elytra Gorra Trucker  Niñas  Talla única](https://www.amazon.es/dp/B07KGGG1MP/?tag=tolees-21) a 10.85 EUR (original: 19.95 EUR) (45.61 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25.85 EUR
 inStock: true
 prodname: 'BRA Sartén para saltear  Negro  24 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LTT21LW/?tag=tolees-21'
+descuento: '37.99'
+titulo: 'BRA Sartén para saltear  Negro  24 cm'
 ---
 
 Tienes [BRA Sartén para saltear  Negro  24 cm](https://www.amazon.es/dp/B00LTT21LW/?tag=tolees-21) con un 37.99 % de descuento con precio de oferta de 16.03 EUR (original: 25.85 EUR) en el siguiente enlace!

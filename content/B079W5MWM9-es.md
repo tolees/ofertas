@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Wrangler Skinny  Vaqueros Skinny  Mujer  Azul  Tingy Blue 32P   W28/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079W5MWM9/?tag=tolees-21'
+descuento: '79.99'
+titulo: 'Wrangler Skinny  Vaqueros Skinny  Mujer '
 ---
 
 Tienes [Wrangler Skinny  Vaqueros Skinny  Mujer  Azul  Tingy Blue 32P   W28/L34](https://www.amazon.es/dp/B079W5MWM9/?tag=tolees-21) con un 79.99 % de descuento con precio de oferta de 18 EUR (original: 89.95 EUR) en el siguiente enlace!

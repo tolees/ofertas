@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'POP! Vinilo - Disney: Moana: Moana & Pua'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LAMQ13G/?tag=tolees-21'
+descuento: '43.16'
+titulo: 'POP! Vinilo - Disney: Moana: Moana & Pua'
 ---
 
 Ahora mismo tienes [POP! Vinilo - Disney: Moana: Moana & Pua](https://www.amazon.es/dp/B01LAMQ13G/?tag=tolees-21) a 8.52 EUR (original: 14.99 EUR) (43.16 %  de descuento) en el siguiente enlace!

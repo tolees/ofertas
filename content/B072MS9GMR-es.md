@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers You-Shine  Zapatillas sin Cordones para Mujer  Gris  Grey   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072MS9GMR/?tag=tolees-21'
+descuento: '50.44'
+titulo: 'Skechers You-Shine  Zapatillas sin Cordo'
 ---
 
 Tienes [Skechers You-Shine  Zapatillas sin Cordones para Mujer  Gris  Grey   38 EU](https://www.amazon.es/dp/B072MS9GMR/?tag=tolees-21) con un 50.44 % de descuento con precio de oferta de 32.19 EUR (original: 64.95 EUR) en el siguiente enlace!

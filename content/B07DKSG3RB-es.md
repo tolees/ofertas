@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam 1080v9  Zapatillas de Running para Hombre  Azul  Deep Ozone Blue/Dark Neptune/Black   50 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKSG3RB/?tag=tolees-21'
+descuento: '58.86'
+titulo: 'New Balance Fresh Foam 1080v9  Zapatilla'
 ---
 
 Está [New Balance Fresh Foam 1080v9  Zapatillas de Running para Hombre  Azul  Deep Ozone Blue/Dark Neptune/Black   50 EU](https://www.amazon.es/dp/B07DKSG3RB/?tag=tolees-21) con 58.86 de descuento por 69.94 EUR (original: 170 EUR) en el siguiente enlace!

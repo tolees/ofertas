@@ -17,6 +17,9 @@ comparePrice: 149.9 EUR
 inStock: true
 prodname: 'Geox D Emsley A  Botas Estilo Motero para Mujer  Negro  Black   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y1C5JPW/?tag=tolees-21'
+descuento: '77.57'
+titulo: 'Geox D Emsley A  Botas Estilo Motero par'
 ---
 
 Tienes [Geox D Emsley A  Botas Estilo Motero para Mujer  Negro  Black   35 EU](https://www.amazon.es/dp/B06Y1C5JPW/?tag=tolees-21) con un 77.57 % de descuento con precio de oferta de 33.63 EUR (original: 149.9 EUR) en el siguiente enlace!

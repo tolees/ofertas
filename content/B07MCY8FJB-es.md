@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face S/S Peak tee Camiseta de Manga Corta  Hombre  Negro  TNF Black   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MCY8FJB/?tag=tolees-21'
+descuento: '53.20'
+titulo: 'The North Face S/S Peak tee Camiseta de '
 ---
 
 Tienes [The North Face S/S Peak tee Camiseta de Manga Corta  Hombre  Negro  TNF Black   L](https://www.amazon.es/dp/B07MCY8FJB/?tag=tolees-21) con un 53.20 % de descuento con precio de oferta de 14.04 EUR (original: 30 EUR) en el siguiente enlace!

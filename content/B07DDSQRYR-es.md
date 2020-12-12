@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'bass3d 41573  Zapatillas para Mujer  Gris  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DDSQRYR/?tag=tolees-21'
+descuento: '75.32'
+titulo: 'bass3d 41573  Zapatillas para Mujer  Gri'
 ---
 
 Está [bass3d 41573  Zapatillas para Mujer  Gris  38 EU](https://www.amazon.es/dp/B07DDSQRYR/?tag=tolees-21) con 75.32 de descuento por 9.86 EUR (original: 39.95 EUR) en el siguiente enlace!

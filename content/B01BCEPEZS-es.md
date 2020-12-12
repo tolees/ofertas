@@ -17,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'Skagen Reloj analogico para Hombre de Cuarzo con Correa en Piel SKW6282'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BCEPEZS/?tag=tolees-21'
+descuento: '42.55'
+titulo: 'Skagen Reloj analogico para Hombre de Cu'
 ---
 
 Está [Skagen Reloj analogico para Hombre de Cuarzo con Correa en Piel SKW6282](https://www.amazon.es/dp/B01BCEPEZS/?tag=tolees-21) con 42.55 de descuento por 91.35 EUR (original: 159 EUR) en el siguiente enlace!

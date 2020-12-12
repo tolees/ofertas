@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'ASICS Gel-Padel Pro 3 SG Padel  Sports.Padel-Padel  - Hombre E511Y - 408 Blue/White'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L4VTWQJ/?tag=tolees-21'
+descuento: '33.73'
+titulo: 'ASICS Gel-Padel Pro 3 SG Padel  Sports.P'
 ---
 
 Ahora mismo tienes [ASICS Gel-Padel Pro 3 SG Padel  Sports.Padel-Padel  - Hombre E511Y - 408 Blue/White](https://www.amazon.es/dp/B07L4VTWQJ/?tag=tolees-21) a 46.39 EUR (original: 70 EUR) (33.73 %  de descuento) en el siguiente enlace!

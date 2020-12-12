@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Proyector  TENKER Q5 Mini proyector de video 2200 lúmenes Full HD 1080P Proyector de LED portátil Soporte HDMI USB TF VGA AV para iPhone iPad Teléfono inteligente TV Xbox PC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGLVZJJ/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Proyector  TENKER Q5 Mini proyector de v'
 ---
 
 Está [Proyector  TENKER Q5 Mini proyector de video 2200 lúmenes Full HD 1080P Proyector de LED portátil Soporte HDMI USB TF VGA AV para iPhone iPad Teléfono inteligente TV Xbox PC](https://www.amazon.es/dp/B07JGLVZJJ/?tag=tolees-21) con 40.00 de descuento por 53.99 EUR (original: 89.99 EUR) en el siguiente enlace!

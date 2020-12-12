@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Adidas Predator 19.4 in Sala H&l J  Botas de fútbol Unisex niño  000  28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N7B8VPH/?tag=tolees-21'
+descuento: '42.27'
+titulo: 'Adidas Predator 19.4 in Sala H&l J  Bota'
 ---
 
 Está [Adidas Predator 19.4 in Sala H&l J  Botas de fútbol Unisex niño  000  28 EU](https://www.amazon.es/dp/B07N7B8VPH/?tag=tolees-21) con 42.27 de descuento por 25.95 EUR (original: 44.95 EUR) en el siguiente enlace!

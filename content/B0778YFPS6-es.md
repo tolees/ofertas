@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'XTI 47942  Sandalias con Punta Abierta para Mujer  Dorado  Gold   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0778YFPS6/?tag=tolees-21'
+descuento: '48.61'
+titulo: 'XTI 47942  Sandalias con Punta Abierta p'
 ---
 
 Está [XTI 47942  Sandalias con Punta Abierta para Mujer  Dorado  Gold   36 EU](https://www.amazon.es/dp/B0778YFPS6/?tag=tolees-21) con 48.61 de descuento por 15.39 EUR (original: 29.95 EUR) en el siguiente enlace!

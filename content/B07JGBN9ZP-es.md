@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Cortador de Verdura  AGM Cortador Espiral Verduras  Espiralizador Vegetal  Cortador de Calabacin，Rallador de zanahoria rebanador + Pelador para Espaguetis de Verduras  Zanahorias  Verduras  Frutas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGBN9ZP/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Cortador de Verdura  AGM Cortador Espira'
 ---
 
 Está [Cortador de Verdura  AGM Cortador Espiral Verduras  Espiralizador Vegetal  Cortador de Calabacin，Rallador de zanahoria rebanador + Pelador para Espaguetis de Verduras  Zanahorias  Verduras  Frutas](https://www.amazon.es/dp/B07JGBN9ZP/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

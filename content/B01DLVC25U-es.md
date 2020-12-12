@@ -17,6 +17,9 @@ comparePrice: 32.95 EUR
 inStock: true
 prodname: 'blue seven Da Shirt  Rundhals  Camiseta para Mujer  Negro  Anthrazit Orig  42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DLVC25U/?tag=tolees-21'
+descuento: '73.60'
+titulo: 'blue seven Da Shirt  Rundhals  Camiseta '
 ---
 
 Ahora mismo tienes [blue seven Da Shirt  Rundhals  Camiseta para Mujer  Negro  Anthrazit Orig  42](https://www.amazon.es/dp/B01DLVC25U/?tag=tolees-21) a 8.7 EUR (original: 32.95 EUR) (73.60 %  de descuento) en el siguiente enlace!

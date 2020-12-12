@@ -17,6 +17,9 @@ comparePrice: 259 EUR
 inStock: true
 prodname: 'Persol 0PO3199S Gafas de sol  Rectangulares  52  Havana'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078XHZKND/?tag=tolees-21'
+descuento: '39.72'
+titulo: 'Persol 0PO3199S Gafas de sol  Rectangula'
 ---
 
 Tienes [Persol 0PO3199S Gafas de sol  Rectangulares  52  Havana](https://www.amazon.es/dp/B078XHZKND/?tag=tolees-21) con un 39.72 % de descuento con precio de oferta de 156.13 EUR (original: 259 EUR) en el siguiente enlace!

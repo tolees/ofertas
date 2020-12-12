@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Cortefiel Zaino Rosso'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCLDZCF/?tag=tolees-21'
+descuento: '65.52'
+titulo: 'Cortefiel Zaino Rosso'
 ---
 
 Tienes [Cortefiel Zaino Rosso](https://www.amazon.es/dp/B06XCLDZCF/?tag=tolees-21) con un 65.52 % de descuento con precio de oferta de 13.79 EUR (original: 39.99 EUR) en el siguiente enlace!

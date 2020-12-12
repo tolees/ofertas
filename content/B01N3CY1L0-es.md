@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Vans Flare Crop  Pantalones Vaqueros Acampanados para Mujer  Azul  Broken Blue Kyc  W26/L30  Talla del Fabricante: 3 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N3CY1L0/?tag=tolees-21'
+descuento: '54.47'
+titulo: 'Vans Flare Crop  Pantalones Vaqueros Aca'
 ---
 
 Ahora mismo tienes [Vans Flare Crop  Pantalones Vaqueros Acampanados para Mujer  Azul  Broken Blue Kyc  W26/L30  Talla del Fabricante: 3 ](https://www.amazon.es/dp/B01N3CY1L0/?tag=tolees-21) a 36.42 EUR (original: 80 EUR) (54.47 %  de descuento) en el siguiente enlace!

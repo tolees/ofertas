@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'High Peak Calvia Refugio de Playa Pop up  Unisex Adulto  Azul/Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2HNX28/?tag=tolees-21'
+descuento: '43.49'
+titulo: 'High Peak Calvia Refugio de Playa Pop up'
 ---
 
 Está [High Peak Calvia Refugio de Playa Pop up  Unisex Adulto  Azul/Gris](https://www.amazon.es/dp/B07K2HNX28/?tag=tolees-21) con 43.49 de descuento por 19.75 EUR (original: 34.95 EUR) en el siguiente enlace!

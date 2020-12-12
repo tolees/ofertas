@@ -17,6 +17,9 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'Puma A.C.E.s G Pants  Niñas  Light Gray Heather  140'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKWS8SV/?tag=tolees-21'
+descuento: '63.88'
+titulo: 'Puma A.C.E.s G Pants  Niñas  Light Gray '
 ---
 
 Tienes [Puma A.C.E.s G Pants  Niñas  Light Gray Heather  140](https://www.amazon.es/dp/B07DKWS8SV/?tag=tolees-21) con un 63.88 % de descuento con precio de oferta de 8.29 EUR (original: 22.95 EUR) en el siguiente enlace!

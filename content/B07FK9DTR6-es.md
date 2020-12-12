@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Nike Wmns Air Zoom Pegasus 35  Zapatillas de Running para Mujer  Rojo  True Berry/Plum Chalk/Vapste Grey 606   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FK9DTR6/?tag=tolees-21'
+descuento: '38.37'
+titulo: 'Nike Wmns Air Zoom Pegasus 35  Zapatilla'
 ---
 
 Está [Nike Wmns Air Zoom Pegasus 35  Zapatillas de Running para Mujer  Rojo  True Berry/Plum Chalk/Vapste Grey 606   37.5 EU](https://www.amazon.es/dp/B07FK9DTR6/?tag=tolees-21) con 38.37 de descuento por 73.95 EUR (original: 120 EUR) en el siguiente enlace!

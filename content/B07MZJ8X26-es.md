@@ -17,6 +17,9 @@ comparePrice: 44.9 EUR
 inStock: true
 prodname: 'Superdry Water Polo Swim Short Bañador  Rojo  Flag Red OXL   S para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZJ8X26/?tag=tolees-21'
+descuento: '46.66'
+titulo: 'Superdry Water Polo Swim Short Bañador  '
 ---
 
 Ahora mismo tienes [Superdry Water Polo Swim Short Bañador  Rojo  Flag Red OXL   S para Hombre](https://www.amazon.es/dp/B07MZJ8X26/?tag=tolees-21) a 23.95 EUR (original: 44.9 EUR) (46.66 %  de descuento) en el siguiente enlace!

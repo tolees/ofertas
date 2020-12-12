@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Lacoste Pf7839 Polo  Rosa  Flamant   Talla del Fabricante: 34 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071F2HRVK/?tag=tolees-21'
+descuento: '38.21'
+titulo: 'Lacoste Pf7839 Polo  Rosa  Flamant   Tal'
 ---
 
 Está [Lacoste Pf7839 Polo  Rosa  Flamant   Talla del Fabricante: 34 para Mujer](https://www.amazon.es/dp/B071F2HRVK/?tag=tolees-21) con 38.21 de descuento por 52.52 EUR (original: 85 EUR) en el siguiente enlace!

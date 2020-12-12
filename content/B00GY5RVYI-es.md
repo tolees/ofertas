@@ -17,6 +17,9 @@ comparePrice: 52 EUR
 inStock: true
 prodname: 'Clinique 56352 - Crema antiarrugas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GY5RVYI/?tag=tolees-21'
+descuento: '32.79'
+titulo: 'Clinique 56352 - Crema antiarrugas'
 ---
 
 Ahora mismo tienes [Clinique 56352 - Crema antiarrugas](https://www.amazon.es/dp/B00GY5RVYI/?tag=tolees-21) a 34.95 EUR (original: 52 EUR) (32.79 %  de descuento) en el siguiente enlace!

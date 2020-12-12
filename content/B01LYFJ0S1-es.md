@@ -17,6 +17,9 @@ comparePrice: 32.95 EUR
 inStock: true
 prodname: 'Hot Wheels - Mutant Machine: 2 Asstd  Skullface  Color Gris  Toy State 90732 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYFJ0S1/?tag=tolees-21'
+descuento: '43.88'
+titulo: 'Hot Wheels - Mutant Machine: 2 Asstd  Sk'
 ---
 
 Ahora mismo tienes [Hot Wheels - Mutant Machine: 2 Asstd  Skullface  Color Gris  Toy State 90732 ](https://www.amazon.es/dp/B01LYFJ0S1/?tag=tolees-21) a 18.49 EUR (original: 32.95 EUR) (43.88 %  de descuento) en el siguiente enlace!

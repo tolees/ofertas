@@ -17,6 +17,9 @@ comparePrice: 169.9 EUR
 inStock: true
 prodname: 'Dolores Promesas 107390 Vestido  Amarillo Naran   Tamaño del Fabricante:38  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7JZBLQ/?tag=tolees-21'
+descuento: '54.60'
+titulo: 'Dolores Promesas 107390 Vestido  Amarill'
 ---
 
 Ahora mismo tienes [Dolores Promesas 107390 Vestido  Amarillo Naran   Tamaño del Fabricante:38  para Mujer](https://www.amazon.es/dp/B07D7JZBLQ/?tag=tolees-21) a 77.13 EUR (original: 169.9 EUR) (54.60 %  de descuento) en el siguiente enlace!

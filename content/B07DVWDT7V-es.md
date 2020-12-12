@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'DC Shoes Kalis Lite Se  Zapatillas de Skateboard para Hombre   White/Red/Blue Xwrb   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVWDT7V/?tag=tolees-21'
+descuento: '68.09'
+titulo: 'DC Shoes Kalis Lite Se  Zapatillas de Sk'
 ---
 
 Ahora mismo tienes [DC Shoes Kalis Lite Se  Zapatillas de Skateboard para Hombre   White/Red/Blue Xwrb   38.5 EU](https://www.amazon.es/dp/B07DVWDT7V/?tag=tolees-21) a 30.31 EUR (original: 95 EUR) (68.09 %  de descuento) en el siguiente enlace!

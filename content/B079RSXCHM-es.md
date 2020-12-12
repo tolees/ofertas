@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Pepe Jeans Dani PL503849 Camiseta  Gris  Grey Marl 933   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RSXCHM/?tag=tolees-21'
+descuento: '60.66'
+titulo: 'Pepe Jeans Dani PL503849 Camiseta  Gris '
 ---
 
 Está [Pepe Jeans Dani PL503849 Camiseta  Gris  Grey Marl 933   Medium para Mujer](https://www.amazon.es/dp/B079RSXCHM/?tag=tolees-21) con 60.66 de descuento por 13.77 EUR (original: 35 EUR) en el siguiente enlace!

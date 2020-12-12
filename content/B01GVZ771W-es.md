@@ -17,6 +17,9 @@ comparePrice: 73.61 EUR
 inStock: true
 prodname: 'Eqiva 142950A0 - Cierre de puerta  tracción  Bluetooth Smart'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GVZ771W/?tag=tolees-21'
+descuento: '28.12'
+titulo: 'Eqiva 142950A0 - Cierre de puerta  tracc'
 ---
 
 Está [Eqiva 142950A0 - Cierre de puerta  tracción  Bluetooth Smart](https://www.amazon.es/dp/B01GVZ771W/?tag=tolees-21) con 28.12 de descuento por 52.91 EUR (original: 73.61 EUR) en el siguiente enlace!

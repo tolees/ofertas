@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour Baseline FLC - Sudadera con Capucha y Cremallera Completa para Hombre  Hombre  Color Negro/Blanco  tamaño 2 X-Grande'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XPYC1V/?tag=tolees-21'
+descuento: '45.81'
+titulo: 'Under Armour Baseline FLC - Sudadera con'
 ---
 
 Tienes [Under Armour Baseline FLC - Sudadera con Capucha y Cremallera Completa para Hombre  Hombre  Color Negro/Blanco  tamaño 2 X-Grande](https://www.amazon.es/dp/B077XPYC1V/?tag=tolees-21) con un 45.81 % de descuento con precio de oferta de 37.93 EUR (original: 70 EUR) en el siguiente enlace!

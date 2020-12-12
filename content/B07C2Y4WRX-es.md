@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'New Balance Rubix  Zapatillas de Running para Hombre  Plateado  Steel/Hi-Lite Gy   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C2Y4WRX/?tag=tolees-21'
+descuento: '69.06'
+titulo: 'New Balance Rubix  Zapatillas de Running'
 ---
 
 Está [New Balance Rubix  Zapatillas de Running para Hombre  Plateado  Steel/Hi-Lite Gy   44 EU](https://www.amazon.es/dp/B07C2Y4WRX/?tag=tolees-21) con 69.06 de descuento por 55.69 EUR (original: 180 EUR) en el siguiente enlace!

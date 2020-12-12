@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Maitre 06 44 58440 60 - Cartera de cuero unisex  color rojo  talla one size'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002UHKMRC/?tag=tolees-21'
+descuento: '67.88'
+titulo: 'Maitre 06 44 58440 60 - Cartera de cuero'
 ---
 
 Ahora mismo tienes [Maitre 06 44 58440 60 - Cartera de cuero unisex  color rojo  talla one size](https://www.amazon.es/dp/B002UHKMRC/?tag=tolees-21) a 12.85 EUR (original: 40 EUR) (67.88 %  de descuento) en el siguiente enlace!

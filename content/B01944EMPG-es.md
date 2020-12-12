@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance 490v4  Zapatillas Deportivas Hombre  Azul  Blue/Silver   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01944EMPG/?tag=tolees-21'
+descuento: '54.70'
+titulo: 'New Balance 490v4  Zapatillas Deportivas'
 ---
 
 Tienes [New Balance 490v4  Zapatillas Deportivas Hombre  Azul  Blue/Silver   42.5 EU](https://www.amazon.es/dp/B01944EMPG/?tag=tolees-21) con un 54.70 % de descuento con precio de oferta de 31.71 EUR (original: 70 EUR) en el siguiente enlace!

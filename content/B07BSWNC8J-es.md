@@ -17,6 +17,9 @@ comparePrice: 25.98 EUR
 inStock: true
 prodname: 'El Patriota  4K UHD + BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BSWNC8J/?tag=tolees-21'
+descuento: '65.36'
+titulo: 'El Patriota  4K UHD + BD  [Blu-ray]'
 ---
 
 Tienes [El Patriota  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07BSWNC8J/?tag=tolees-21) con un 65.36 % de descuento con precio de oferta de 9 EUR (original: 25.98 EUR) en el siguiente enlace!

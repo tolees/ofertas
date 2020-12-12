@@ -17,6 +17,9 @@ comparePrice: 63.6 EUR
 inStock: true
 prodname: 'Etnies Scout  Zapatillas de Skateboard para Hombre  Azul  Navy/Red 425   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074KQGBLF/?tag=tolees-21'
+descuento: '67.15'
+titulo: 'Etnies Scout  Zapatillas de Skateboard p'
 ---
 
 Ahora mismo tienes [Etnies Scout  Zapatillas de Skateboard para Hombre  Azul  Navy/Red 425   40 EU](https://www.amazon.es/dp/B074KQGBLF/?tag=tolees-21) a 20.89 EUR (original: 63.6 EUR) (67.15 %  de descuento) en el siguiente enlace!

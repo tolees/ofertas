@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Sheridan s Coffee layered Likör - 1 x 0.5 l'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DYQ0TNU/?tag=tolees-21'
+descuento: '30.85'
+titulo: 'Sheridan s Coffee layered Likör - 1 x 0.'
 ---
 
 Tienes [Sheridan s Coffee layered Likör - 1 x 0.5 l](https://www.amazon.es/dp/B00DYQ0TNU/?tag=tolees-21) con un 30.85 % de descuento con precio de oferta de 12.44 EUR (original: 17.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Gioseppo Zapatillas para Mujer   Negro 46110-P   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FGJ8DSJ/?tag=tolees-21'
+descuento: '64.82'
+titulo: 'Gioseppo Zapatillas para Mujer   Negro 4'
 ---
 
 Tienes [Gioseppo Zapatillas para Mujer   Negro 46110-P   38 EU](https://www.amazon.es/dp/B07FGJ8DSJ/?tag=tolees-21) con un 64.82 % de descuento con precio de oferta de 19.33 EUR (original: 54.95 EUR) en el siguiente enlace!

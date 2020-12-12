@@ -17,6 +17,9 @@ comparePrice: 134.94 EUR
 inStock: true
 prodname: 'French Connection Whisper Ruth_71LCH Vestido  Negro  Black 1   44  Talla del Fabricante: -16-  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJQC7F9/?tag=tolees-21'
+descuento: '81.56'
+titulo: 'French Connection Whisper Ruth_71LCH Ves'
 ---
 
 Ahora mismo tienes [French Connection Whisper Ruth_71LCH Vestido  Negro  Black 1   44  Talla del Fabricante: -16-  para Mujer](https://www.amazon.es/dp/B07KJQC7F9/?tag=tolees-21) a 24.88 EUR (original: 134.94 EUR) (81.56 %  de descuento) en el siguiente enlace!

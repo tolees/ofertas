@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma ST Runner v2 NL  Zapatillas de Deporte Unisex Adulto  Morado  Elderberry White-Indigo   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JFJQHF5/?tag=tolees-21'
+descuento: '52.83'
+titulo: 'Puma ST Runner v2 NL  Zapatillas de Depo'
 ---
 
 Tienes [Puma ST Runner v2 NL  Zapatillas de Deporte Unisex Adulto  Morado  Elderberry White-Indigo   47 EU](https://www.amazon.es/dp/B07JFJQHF5/?tag=tolees-21) con un 52.83 % de descuento con precio de oferta de 25.92 EUR (original: 54.95 EUR) en el siguiente enlace!

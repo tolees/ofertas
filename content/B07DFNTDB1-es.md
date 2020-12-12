@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 247v1  Zapatillas para Hombre  Rojo  NB Burgundy/White Hj   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFNTDB1/?tag=tolees-21'
+descuento: '62.39'
+titulo: 'New Balance 247v1  Zapatillas para Hombr'
 ---
 
 Ahora mismo tienes [New Balance 247v1  Zapatillas para Hombre  Rojo  NB Burgundy/White Hj   44 EU](https://www.amazon.es/dp/B07DFNTDB1/?tag=tolees-21) a 33.85 EUR (original: 90 EUR) (62.39 %  de descuento) en el siguiente enlace!

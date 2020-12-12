@@ -17,6 +17,9 @@ comparePrice: 97.42 EUR
 inStock: true
 prodname: 'Nike Legend 7 Academy Fg Zapatillas de Fútbol Hombre  Negro  Black/Mtlc Vivid Gold 077   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NC4RBX8/?tag=tolees-21'
+descuento: '58.99'
+titulo: 'Nike Legend 7 Academy Fg Zapatillas de F'
 ---
 
 Está [Nike Legend 7 Academy Fg Zapatillas de Fútbol Hombre  Negro  Black/Mtlc Vivid Gold 077   42 EU](https://www.amazon.es/dp/B07NC4RBX8/?tag=tolees-21) con 58.99 de descuento por 39.95 EUR (original: 97.42 EUR) en el siguiente enlace!

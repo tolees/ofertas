@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Tantra Strap Sandals with Beads - Sandalias para Mujer  Color Negro  Talla 36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XYXIDDG/?tag=tolees-21'
+descuento: '95.72'
+titulo: 'Tantra Strap Sandals with Beads - Sandal'
 ---
 
 Tienes [Tantra Strap Sandals with Beads - Sandalias para Mujer  Color Negro  Talla 36](https://www.amazon.es/dp/B00XYXIDDG/?tag=tolees-21) con un 95.72 % de descuento con precio de oferta de 5.99 EUR (original: 140 EUR) en el siguiente enlace!

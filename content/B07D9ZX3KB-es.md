@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma Future 2.3 Netfit It  Zapatillas de Fútbol para Hombre  Plateado Silver-Peacoat 04  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9ZX3KB/?tag=tolees-21'
+descuento: '46.44'
+titulo: 'Puma Future 2.3 Netfit It  Zapatillas de'
 ---
 
 Está [Puma Future 2.3 Netfit It  Zapatillas de Fútbol para Hombre  Plateado Silver-Peacoat 04  43 EU](https://www.amazon.es/dp/B07D9ZX3KB/?tag=tolees-21) con 46.44 de descuento por 42.82 EUR (original: 79.95 EUR) en el siguiente enlace!

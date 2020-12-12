@@ -17,6 +17,9 @@ comparePrice: 67 EUR
 inStock: true
 prodname: 'Pablosky Botas para Bebés   Rosa 041875   29 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNGZCHS/?tag=tolees-21'
+descuento: '68.27'
+titulo: 'Pablosky Botas para Bebés   Rosa 041875 '
 ---
 
 Está [Pablosky Botas para Bebés   Rosa 041875   29 EU](https://www.amazon.es/dp/B07DNGZCHS/?tag=tolees-21) con 68.27 de descuento por 21.26 EUR (original: 67 EUR) en el siguiente enlace!

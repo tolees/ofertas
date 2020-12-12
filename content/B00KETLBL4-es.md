@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Vibe Mamba - Altavoz PC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KETLBL4/?tag=tolees-21'
+descuento: '58.47'
+titulo: 'Vibe Mamba - Altavoz PC'
 ---
 
 Está [Vibe Mamba - Altavoz PC](https://www.amazon.es/dp/B00KETLBL4/?tag=tolees-21) con 58.47 de descuento por 53.57 EUR (original: 129 EUR) en el siguiente enlace!

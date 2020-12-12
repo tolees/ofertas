@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Springfield 8232482 Parka  Verde  Green   Tamaño del Fabricante:40 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SGWMKL/?tag=tolees-21'
+descuento: '74.54'
+titulo: 'Springfield 8232482 Parka  Verde  Green '
 ---
 
 Tienes [Springfield 8232482 Parka  Verde  Green   Tamaño del Fabricante:40 para Mujer](https://www.amazon.es/dp/B075SGWMKL/?tag=tolees-21) con un 74.54 % de descuento con precio de oferta de 14 EUR (original: 54.99 EUR) en el siguiente enlace!

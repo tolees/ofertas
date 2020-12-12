@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Asics Patriot 10  Zapatillas de Running para Mujer  Negro  Black/Pixel Pink 001   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ456NJ/?tag=tolees-21'
+descuento: '46.20'
+titulo: 'Asics Patriot 10  Zapatillas de Running '
 ---
 
 Está [Asics Patriot 10  Zapatillas de Running para Mujer  Negro  Black/Pixel Pink 001   39 EU](https://www.amazon.es/dp/B07CZ456NJ/?tag=tolees-21) con 46.20 de descuento por 32.28 EUR (original: 60 EUR) en el siguiente enlace!

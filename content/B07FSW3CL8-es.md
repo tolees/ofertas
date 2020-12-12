@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Willow Art  Mules para Mujer  Marrón  Light Tan Leather-   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSW3CL8/?tag=tolees-21'
+descuento: '69.25'
+titulo: 'Clarks Willow Art  Mules para Mujer  Mar'
 ---
 
 Tienes [Clarks Willow Art  Mules para Mujer  Marrón  Light Tan Leather-   37.5 EU](https://www.amazon.es/dp/B07FSW3CL8/?tag=tolees-21) con un 69.25 % de descuento con precio de oferta de 30.73 EUR (original: 99.95 EUR) en el siguiente enlace!

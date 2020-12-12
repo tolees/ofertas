@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Oumers Kit de herramientas para bicicletas  Bicicleta kit de reparación de bicicletas set Bicicleta herramienta de reparación de cadena'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKY8Y92/?tag=tolees-21'
+descuento: '53.89'
+titulo: 'Oumers Kit de herramientas para biciclet'
 ---
 
 Ahora mismo tienes [Oumers Kit de herramientas para bicicletas  Bicicleta kit de reparación de bicicletas set Bicicleta herramienta de reparación de cadena](https://www.amazon.es/dp/B07DKY8Y92/?tag=tolees-21) a 5.99 EUR (original: 12.99 EUR) (53.89 %  de descuento) en el siguiente enlace!

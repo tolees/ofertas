@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'edc by ESPRIT 027cc2b008  Jeans Hombre  Gris  Grey Light Wash   W33/L36  Talla del fabricante: 33/36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N78LZQP/?tag=tolees-21'
+descuento: '71.72'
+titulo: 'edc by ESPRIT 027cc2b008  Jeans Hombre  '
 ---
 
 Está [edc by ESPRIT 027cc2b008  Jeans Hombre  Gris  Grey Light Wash   W33/L36  Talla del fabricante: 33/36 ](https://www.amazon.es/dp/B01N78LZQP/?tag=tolees-21) con 71.72 de descuento por 11.31 EUR (original: 39.99 EUR) en el siguiente enlace!

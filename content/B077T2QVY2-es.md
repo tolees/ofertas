@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Puma Liga Casuals tee Jr Camiseta  Niños  Azul  Electric Blue Lemonade White   176'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077T2QVY2/?tag=tolees-21'
+descuento: '37.64'
+titulo: 'Puma Liga Casuals tee Jr Camiseta  Niños'
 ---
 
 Tienes [Puma Liga Casuals tee Jr Camiseta  Niños  Azul  Electric Blue Lemonade White   176](https://www.amazon.es/dp/B077T2QVY2/?tag=tolees-21) con un 37.64 % de descuento con precio de oferta de 12.44 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 129.9 EUR
 inStock: true
 prodname: 'Superdry Hooded Windtrekker  Chaqueta Deportiva para Hombre  Azul  Moody Blue Marl/Flash Cobalt Uo4  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FL7W7NQ/?tag=tolees-21'
+descuento: '35.13'
+titulo: 'Superdry Hooded Windtrekker  Chaqueta De'
 ---
 
 Tienes [Superdry Hooded Windtrekker  Chaqueta Deportiva para Hombre  Azul  Moody Blue Marl/Flash Cobalt Uo4  Large](https://www.amazon.es/dp/B07FL7W7NQ/?tag=tolees-21) con un 35.13 % de descuento con precio de oferta de 84.26 EUR (original: 129.9 EUR) en el siguiente enlace!

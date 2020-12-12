@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slhslim-mylobill Grey TRS B Noos  Pantalones de Traje Hombre  Gris  Grey Grey   W28  Talla del Fabricante: 42 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1FX83T/?tag=tolees-21'
+descuento: '82.21'
+titulo: 'SELECTED HOMME Slhslim-mylobill Grey TRS'
 ---
 
 Está [SELECTED HOMME Slhslim-mylobill Grey TRS B Noos  Pantalones de Traje Hombre  Gris  Grey Grey   W28  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07D1FX83T/?tag=tolees-21) con 82.21 de descuento por 12.45 EUR (original: 69.99 EUR) en el siguiente enlace!

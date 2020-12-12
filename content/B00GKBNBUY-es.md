@@ -17,6 +17,9 @@ comparePrice: 26.45 EUR
 inStock: true
 prodname: 'LOGOS - Camiseta de Marvel Slim fit de Manga Corta para Hombre  Talla XS  Color Hueso  Almost White '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GKBNBUY/?tag=tolees-21'
+descuento: '71.23'
+titulo: 'LOGOS - Camiseta de Marvel Slim fit de M'
 ---
 
 Tienes [LOGOS - Camiseta de Marvel Slim fit de Manga Corta para Hombre  Talla XS  Color Hueso  Almost White ](https://www.amazon.es/dp/B00GKBNBUY/?tag=tolees-21) con un 71.23 % de descuento con precio de oferta de 7.61 EUR (original: 26.45 EUR) en el siguiente enlace!

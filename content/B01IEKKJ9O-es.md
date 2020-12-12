@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Curver Rectangular L ~19L  Blanco Oasis  37.6x26.8x21.6 cm  230005'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IEKKJ9O/?tag=tolees-21'
+descuento: '46.82'
+titulo: 'Curver Rectangular L ~19L  Blanco Oasis '
 ---
 
 Está [Curver Rectangular L ~19L  Blanco Oasis  37.6x26.8x21.6 cm  230005](https://www.amazon.es/dp/B01IEKKJ9O/?tag=tolees-21) con 46.82 de descuento por 7.95 EUR (original: 14.95 EUR) en el siguiente enlace!

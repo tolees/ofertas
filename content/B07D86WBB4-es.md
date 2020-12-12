@@ -17,6 +17,9 @@ comparePrice: 249 EUR
 inStock: true
 prodname: 'Xiaomi Redmi Note 5 - Smartphone de 5.99"  Snapdragon Octa-core 636  memoria interna de 64 GB  4 GB de RAM  cámara de 13 MP  Android  azul  [versión española]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D86WBB4/?tag=tolees-21'
+descuento: '32.13'
+titulo: 'Xiaomi Redmi Note 5 - Smartphone de 5.99'
 ---
 
 Está [Xiaomi Redmi Note 5 - Smartphone de 5.99"  Snapdragon Octa-core 636  memoria interna de 64 GB  4 GB de RAM  cámara de 13 MP  Android  azul  [versión española]](https://www.amazon.es/dp/B07D86WBB4/?tag=tolees-21) con 32.13 de descuento por 169 EUR (original: 249 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Pepe Jeans Charing  Camiseta Hombre  Negro  Black   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H4YGGCA/?tag=tolees-21'
+descuento: '32.32'
+titulo: 'Pepe Jeans Charing  Camiseta Hombre  Neg'
 ---
 
 Ahora mismo tienes [Pepe Jeans Charing  Camiseta Hombre  Negro  Black   Small](https://www.amazon.es/dp/B01H4YGGCA/?tag=tolees-21) a 18.95 EUR (original: 28 EUR) (32.32 %  de descuento) en el siguiente enlace!

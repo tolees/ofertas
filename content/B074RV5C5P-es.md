@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Esprit 087ee1k022 suéter  Verde  Bottle Green 385   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074RV5C5P/?tag=tolees-21'
+descuento: '52.62'
+titulo: 'Esprit 087ee1k022 suéter  Verde  Bottle '
 ---
 
 Tienes [Esprit 087ee1k022 suéter  Verde  Bottle Green 385   Medium para Mujer](https://www.amazon.es/dp/B074RV5C5P/?tag=tolees-21) con un 52.62 % de descuento con precio de oferta de 14.21 EUR (original: 29.99 EUR) en el siguiente enlace!

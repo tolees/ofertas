@@ -17,6 +17,9 @@ comparePrice: 56.15 EUR
 inStock: true
 prodname: 'WMF KULT X - Batidora  Batidora de mano  1 m  Botones  Amasar  Mezcla  Negro  Metálico  400 W '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077PJH9V3/?tag=tolees-21'
+descuento: '32.34'
+titulo: 'WMF KULT X - Batidora  Batidora de mano '
 ---
 
 Ahora mismo tienes [WMF KULT X - Batidora  Batidora de mano  1 m  Botones  Amasar  Mezcla  Negro  Metálico  400 W ](https://www.amazon.es/dp/B077PJH9V3/?tag=tolees-21) a 37.99 EUR (original: 56.15 EUR) (32.34 %  de descuento) en el siguiente enlace!

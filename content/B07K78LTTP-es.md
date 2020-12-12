@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Slender Man [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K78LTTP/?tag=tolees-21'
+descuento: '69.94'
+titulo: 'Slender Man [Blu-ray]'
 ---
 
 Está [Slender Man [Blu-ray]](https://www.amazon.es/dp/B07K78LTTP/?tag=tolees-21) con 69.94 de descuento por 7.5 EUR (original: 24.95 EUR) en el siguiente enlace!

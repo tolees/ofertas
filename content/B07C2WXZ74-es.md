@@ -17,6 +17,9 @@ comparePrice: 393.92 EUR
 inStock: true
 prodname: 'Michael Kors - Ava  Bolsos maletín Mujer  Beige  TRUFFLE   18x20x33 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C2WXZ74/?tag=tolees-21'
+descuento: '42.24'
+titulo: 'Michael Kors - Ava  Bolsos maletín Mujer'
 ---
 
 Ahora mismo tienes [Michael Kors - Ava  Bolsos maletín Mujer  Beige  TRUFFLE   18x20x33 cm  W x H L ](https://www.amazon.es/dp/B07C2WXZ74/?tag=tolees-21) a 227.52 EUR (original: 393.92 EUR) (42.24 %  de descuento) en el siguiente enlace!

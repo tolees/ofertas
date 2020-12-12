@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'find. AN5300 vestido fiesta mujer  Morado  Slate   46  Talla del Fabricante: XX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XS3BZX3/?tag=tolees-21'
+descuento: '58.46'
+titulo: 'find. AN5300 vestido fiesta mujer  Morad'
 ---
 
 Tienes [find. AN5300 vestido fiesta mujer  Morado  Slate   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B06XS3BZX3/?tag=tolees-21) con un 58.46 % de descuento con precio de oferta de 14.54 EUR (original: 35 EUR) en el siguiente enlace!

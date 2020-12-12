@@ -17,6 +17,9 @@ comparePrice: 36.9 EUR
 inStock: true
 prodname: 'Living Kitzbühel T-Modell uni 1446 - Zapatillas de casa para niños  Azul  Blau  nachtblau 590    23'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001F33GGQ/?tag=tolees-21'
+descuento: '56.69'
+titulo: 'Living Kitzbühel T-Modell uni 1446 - Zap'
 ---
 
 Está [Living Kitzbühel T-Modell uni 1446 - Zapatillas de casa para niños  Azul  Blau  nachtblau 590    23](https://www.amazon.es/dp/B001F33GGQ/?tag=tolees-21) con 56.69 de descuento por 15.98 EUR (original: 36.9 EUR) en el siguiente enlace!

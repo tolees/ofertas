@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'adidas Run 3S SHO M Shorts  Hombre  Black/White  2XL7'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTP895F/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'adidas Run 3S SHO M Shorts  Hombre  Blac'
 ---
 
 Ahora mismo tienes [adidas Run 3S SHO M Shorts  Hombre  Black/White  2XL7](https://www.amazon.es/dp/B07FTP895F/?tag=tolees-21) a 17.46 EUR (original: 24.95 EUR) (30.02 %  de descuento) en el siguiente enlace!

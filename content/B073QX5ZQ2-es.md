@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Levi s 501 - Vaqueros Tapered para Hombre  Negro  Black Punk 94   W28/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QX5ZQ2/?tag=tolees-21'
+descuento: '55.81'
+titulo: 'Levi s 501 - Vaqueros Tapered para Hombr'
 ---
 
 Ahora mismo tienes [Levi s 501 - Vaqueros Tapered para Hombre  Negro  Black Punk 94   W28/L32](https://www.amazon.es/dp/B073QX5ZQ2/?tag=tolees-21) a 44.19 EUR (original: 100 EUR) (55.81 %  de descuento) en el siguiente enlace!

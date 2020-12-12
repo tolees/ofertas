@@ -17,6 +17,9 @@ comparePrice: 23.55 EUR
 inStock: true
 prodname: 'Astan Hogar sandwichera Duo Pack hottix ah-kc8040  750 W  Acero_Inoxidable  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B49YKTF/?tag=tolees-21'
+descuento: '52.48'
+titulo: 'Astan Hogar sandwichera Duo Pack hottix '
 ---
 
 Ahora mismo tienes [Astan Hogar sandwichera Duo Pack hottix ah-kc8040  750 W  Acero_Inoxidable  Blanco](https://www.amazon.es/dp/B07B49YKTF/?tag=tolees-21) a 11.19 EUR (original: 23.55 EUR) (52.48 %  de descuento) en el siguiente enlace!

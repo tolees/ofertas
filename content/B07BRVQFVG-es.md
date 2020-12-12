@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'GreeSuit Discos Deslizantesde Ejercicios básicos Slider 2 Discos deslizantes de Doble Cara para alfombras y Pisos Duros para Entrenamiento Corporal Completo  Cross-fit y Entrenamiento Cruzado Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BRVQFVG/?tag=tolees-21'
+descuento: '31.27'
+titulo: 'GreeSuit Discos Deslizantesde Ejercicios'
 ---
 
 Está [GreeSuit Discos Deslizantesde Ejercicios básicos Slider 2 Discos deslizantes de Doble Cara para alfombras y Pisos Duros para Entrenamiento Corporal Completo  Cross-fit y Entrenamiento Cruzado Azul ](https://www.amazon.es/dp/B07BRVQFVG/?tag=tolees-21) con 31.27 de descuento por 10.99 EUR (original: 15.99 EUR) en el siguiente enlace!

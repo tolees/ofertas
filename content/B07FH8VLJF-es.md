@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'K-Swiss Bridgeport II  Zapatillas Unisex Adulto  Azul  Navy/Red/White 439   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FH8VLJF/?tag=tolees-21'
+descuento: '57.79'
+titulo: 'K-Swiss Bridgeport II  Zapatillas Unisex'
 ---
 
 Tienes [K-Swiss Bridgeport II  Zapatillas Unisex Adulto  Azul  Navy/Red/White 439   44 EU](https://www.amazon.es/dp/B07FH8VLJF/?tag=tolees-21) con un 57.79 % de descuento con precio de oferta de 21.1 EUR (original: 49.99 EUR) en el siguiente enlace!

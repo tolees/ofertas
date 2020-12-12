@@ -17,6 +17,9 @@ comparePrice: 35.7 EUR
 inStock: true
 prodname: 'Brandit 9153-Pantalones Cortos de baño premamá Hombre  Hibiscus 158  XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTLO2QI/?tag=tolees-21'
+descuento: '68.49'
+titulo: 'Brandit 9153-Pantalones Cortos de baño p'
 ---
 
 Tienes [Brandit 9153-Pantalones Cortos de baño premamá Hombre  Hibiscus 158  XX-Large](https://www.amazon.es/dp/B01MTLO2QI/?tag=tolees-21) con un 68.49 % de descuento con precio de oferta de 11.25 EUR (original: 35.7 EUR) en el siguiente enlace!

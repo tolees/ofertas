@@ -17,6 +17,9 @@ comparePrice: 254 EUR
 inStock: true
 prodname: 'Bosch AHS 70-34 - Cortasetos  240 V  700 W  ref. 0600847K00 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006OMHYJS/?tag=tolees-21'
+descuento: '25.66'
+titulo: 'Bosch AHS 70-34 - Cortasetos  240 V  700'
 ---
 
 Tienes [Bosch AHS 70-34 - Cortasetos  240 V  700 W  ref. 0600847K00 ](https://www.amazon.es/dp/B006OMHYJS/?tag=tolees-21) con un 25.66 % de descuento con precio de oferta de 188.82 EUR (original: 254 EUR) en el siguiente enlace!

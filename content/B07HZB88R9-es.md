@@ -17,6 +17,9 @@ comparePrice: 28.92 EUR
 inStock: true
 prodname: 'Glamorous Print Dress  Vestido para Mujer   Brown Rib Animal BW Black  38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HZB88R9/?tag=tolees-21'
+descuento: '60.24'
+titulo: 'Glamorous Print Dress  Vestido para Muje'
 ---
 
 Ahora mismo tienes [Glamorous Print Dress  Vestido para Mujer   Brown Rib Animal BW Black  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07HZB88R9/?tag=tolees-21) a 11.5 EUR (original: 28.92 EUR) (60.24 %  de descuento) en el siguiente enlace!

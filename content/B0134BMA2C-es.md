@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Aigostar - Bombilla LED A5 C37  E27  7 W equivalente a 56 W  6400K  560 lúmenes  no regulable -Pack de 5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0134BMA2C/?tag=tolees-21'
+descuento: '35.02'
+titulo: 'Aigostar - Bombilla LED A5 C37  E27  7 W'
 ---
 
 Está [Aigostar - Bombilla LED A5 C37  E27  7 W equivalente a 56 W  6400K  560 lúmenes  no regulable -Pack de 5](https://www.amazon.es/dp/B0134BMA2C/?tag=tolees-21) con 35.02 de descuento por 10.39 EUR (original: 15.99 EUR) en el siguiente enlace!

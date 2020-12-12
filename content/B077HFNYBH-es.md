@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Dafunna Calcetines de Compresión Medias de Compresión Graduada de 20-30mmHg Hombre Mujer para Fascitis Plantar Correr Ciclismo Enfermeras Embarazo Atleta Viajar  M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HFNYBH/?tag=tolees-21'
+descuento: '53.92'
+titulo: 'Dafunna Calcetines de Compresión Medias '
 ---
 
 Ahora mismo tienes [Dafunna Calcetines de Compresión Medias de Compresión Graduada de 20-30mmHg Hombre Mujer para Fascitis Plantar Correr Ciclismo Enfermeras Embarazo Atleta Viajar  M ](https://www.amazon.es/dp/B077HFNYBH/?tag=tolees-21) a 8.75 EUR (original: 18.99 EUR) (53.92 %  de descuento) en el siguiente enlace!

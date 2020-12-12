@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Adidas X 17.4 FxG  Botas de fútbol para Hombre  Amarillo  Ormetr/Negbas/Rojsol 000   43 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RG2LGV/?tag=tolees-21'
+descuento: '45.95'
+titulo: 'Adidas X 17.4 FxG  Botas de fútbol para '
 ---
 
 Tienes [Adidas X 17.4 FxG  Botas de fútbol para Hombre  Amarillo  Ormetr/Negbas/Rojsol 000   43 1/3 EU](https://www.amazon.es/dp/B073RG2LGV/?tag=tolees-21) con un 45.95 % de descuento con precio de oferta de 27 EUR (original: 49.95 EUR) en el siguiente enlace!

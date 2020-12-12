@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Adidas CF Super Daily  Zapatillas de Deporte para Hombre  Beige Pertiz/Negbas 000  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077VSBWS5/?tag=tolees-21'
+descuento: '59.30'
+titulo: 'Adidas CF Super Daily  Zapatillas de Dep'
 ---
 
 Está [Adidas CF Super Daily  Zapatillas de Deporte para Hombre  Beige Pertiz/Negbas 000  44 EU](https://www.amazon.es/dp/B077VSBWS5/?tag=tolees-21) con 59.30 de descuento por 28.47 EUR (original: 69.95 EUR) en el siguiente enlace!

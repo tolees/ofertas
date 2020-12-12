@@ -17,6 +17,9 @@ comparePrice: 15.5 EUR
 inStock: true
 prodname: 'Calvin Klein Thong - Tanga para Mujer  Rosa  Idyllic Ylc   talla del fabricante: S  1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBVRCXZ/?tag=tolees-21'
+descuento: '43.81'
+titulo: 'Calvin Klein Thong - Tanga para Mujer  R'
 ---
 
 Está [Calvin Klein Thong - Tanga para Mujer  Rosa  Idyllic Ylc   talla del fabricante: S  1 unidad](https://www.amazon.es/dp/B07LBVRCXZ/?tag=tolees-21) con 43.81 de descuento por 8.71 EUR (original: 15.5 EUR) en el siguiente enlace!

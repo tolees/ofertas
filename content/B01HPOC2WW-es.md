@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Merrell J37601  Zapatillas de Senderismo Hombre  Negro  Black/orange   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HPOC2WW/?tag=tolees-21'
+descuento: '61.44'
+titulo: 'Merrell J37601  Zapatillas de Senderismo'
 ---
 
 Tienes [Merrell J37601  Zapatillas de Senderismo Hombre  Negro  Black/orange   41 EU](https://www.amazon.es/dp/B01HPOC2WW/?tag=tolees-21) con un 61.44 % de descuento con precio de oferta de 57.84 EUR (original: 150 EUR) en el siguiente enlace!

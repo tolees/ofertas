@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'adidas I-5923 W  Zapatillas de Deporte para Mujer  Blanco  Casbla/Rossho/Griuno 0   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDPN4G2/?tag=tolees-21'
+descuento: '46.43'
+titulo: 'adidas I-5923 W  Zapatillas de Deporte p'
 ---
 
 Está [adidas I-5923 W  Zapatillas de Deporte para Mujer  Blanco  Casbla/Rossho/Griuno 0   38 EU](https://www.amazon.es/dp/B07GDPN4G2/?tag=tolees-21) con 46.43 de descuento por 69.62 EUR (original: 129.95 EUR) en el siguiente enlace!

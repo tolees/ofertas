@@ -17,6 +17,9 @@ comparePrice: 25.49 EUR
 inStock: true
 prodname: 'AmazonBasics - Juego de fundas de edredón y de almohada de microfibra  260 x 220 cm + 2 fundas 50 x 80 cm - Lavanda Paisley'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074QWXW9Z/?tag=tolees-21'
+descuento: '29.62'
+titulo: 'AmazonBasics - Juego de fundas de edredó'
 ---
 
 Ahora mismo tienes [AmazonBasics - Juego de fundas de edredón y de almohada de microfibra  260 x 220 cm + 2 fundas 50 x 80 cm - Lavanda Paisley](https://www.amazon.es/dp/B074QWXW9Z/?tag=tolees-21) a 17.94 EUR (original: 25.49 EUR) (29.62 %  de descuento) en el siguiente enlace!

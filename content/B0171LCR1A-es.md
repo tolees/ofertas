@@ -17,6 +17,9 @@ comparePrice: 31.9 EUR
 inStock: true
 prodname: 'Star Wars 210000925 Mochila Infantil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0171LCR1A/?tag=tolees-21'
+descuento: '71.79'
+titulo: 'Star Wars 210000925 Mochila Infantil'
 ---
 
 Está [Star Wars 210000925 Mochila Infantil](https://www.amazon.es/dp/B0171LCR1A/?tag=tolees-21) con 71.79 de descuento por 9 EUR (original: 31.9 EUR) en el siguiente enlace!

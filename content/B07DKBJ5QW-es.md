@@ -17,6 +17,9 @@ comparePrice: 22.69 EUR
 inStock: true
 prodname: 'Uten Kitchen - Báscula electrónica Digital de Acero Inoxidable con Pantalla LCD  16 8 x 21 8 x 1 2 cm  5 kg  1 g '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKBJ5QW/?tag=tolees-21'
+descuento: '51.56'
+titulo: 'Uten Kitchen - Báscula electrónica Digit'
 ---
 
 Tienes [Uten Kitchen - Báscula electrónica Digital de Acero Inoxidable con Pantalla LCD  16 8 x 21 8 x 1 2 cm  5 kg  1 g ](https://www.amazon.es/dp/B07DKBJ5QW/?tag=tolees-21) con un 51.56 % de descuento con precio de oferta de 10.99 EUR (original: 22.69 EUR) en el siguiente enlace!

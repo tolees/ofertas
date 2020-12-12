@@ -17,6 +17,9 @@ comparePrice: 109.0 EUR
 inStock: true
 prodname: 'Lacoste Carnaby EVO 120 7 US SMA  Zapatillas Hombre  Blanco  Wht/Nvy   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SNG574L/?tag=tolees-21'
+descuento: '36.71'
+titulo: 'Lacoste Carnaby EVO 120 7 US SMA  Zapati'
 ---
 
 Ahora mismo tienes [Lacoste Carnaby EVO 120 7 US SMA  Zapatillas Hombre  Blanco  Wht/Nvy   40 EU](https://www.amazon.es/dp/B07SNG574L/?tag=tolees-21) a 68.99 EUR (original: 109.0 EUR) (36.71 %  de descuento) en el siguiente enlace!
@@ -26,9 +29,9 @@ Ahora mismo tienes [Lacoste Carnaby EVO 120 7 US SMA  Zapatillas Hombre  Blanco 
 Características:
 
 - Tirador de talón de color
+- Suela de goma
 - Cocodrilo grabado en la lengüeta
 - Tirador de talón de color
-- Suela de goma
 - Empeine de piel
 
 [Visítala!!!](https://www.amazon.es/dp/B07SNG574L/?tag=tolees-21)

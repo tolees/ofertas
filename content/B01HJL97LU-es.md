@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'TOM TAILOR Kleid uni v-neck  vestido Mujer  Negro  black   36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HJL97LU/?tag=tolees-21'
+descuento: '63.61'
+titulo: 'TOM TAILOR Kleid uni v-neck  vestido Muj'
 ---
 
 Ahora mismo tienes [TOM TAILOR Kleid uni v-neck  vestido Mujer  Negro  black   36](https://www.amazon.es/dp/B01HJL97LU/?tag=tolees-21) a 18.19 EUR (original: 49.99 EUR) (63.61 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 30.19 EUR
 inStock: true
 prodname: 'Bosch V-Line Titanio - Maletín de 48 unidades para taladrar y atornillar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GGKMMMC/?tag=tolees-21'
+descuento: '27.23'
+titulo: 'Bosch V-Line Titanio - Maletín de 48 uni'
 ---
 
 Tienes [Bosch V-Line Titanio - Maletín de 48 unidades para taladrar y atornillar](https://www.amazon.es/dp/B00GGKMMMC/?tag=tolees-21) con un 27.23 % de descuento con precio de oferta de 21.97 EUR (original: 30.19 EUR) en el siguiente enlace!

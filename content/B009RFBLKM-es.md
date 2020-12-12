@@ -17,6 +17,9 @@ comparePrice: 169.4 EUR
 inStock: true
 prodname: 'Bosch 2 608 653 065 - Hoja de sierra sable S 1542 K - Top for Wood  pack de 25 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009RFBLKM/?tag=tolees-21'
+descuento: '66.79'
+titulo: 'Bosch 2 608 653 065 - Hoja de sierra sab'
 ---
 
 Tienes [Bosch 2 608 653 065 - Hoja de sierra sable S 1542 K - Top for Wood  pack de 25 ](https://www.amazon.es/dp/B009RFBLKM/?tag=tolees-21) con un 66.79 % de descuento con precio de oferta de 56.26 EUR (original: 169.4 EUR) en el siguiente enlace!

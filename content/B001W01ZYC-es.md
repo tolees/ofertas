@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Geox Junior  Mocasines de Cuero para Niños  Negro  Black 9999   31 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001W01ZYC/?tag=tolees-21'
+descuento: '56.59'
+titulo: 'Geox Junior  Mocasines de Cuero para Niñ'
 ---
 
 Ahora mismo tienes [Geox Junior  Mocasines de Cuero para Niños  Negro  Black 9999   31 EU](https://www.amazon.es/dp/B001W01ZYC/?tag=tolees-21) a 26 EUR (original: 59.9 EUR) (56.59 %  de descuento) en el siguiente enlace!

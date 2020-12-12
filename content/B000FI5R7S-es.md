@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Fendi FF 0125/S LL X6H  Gafas de sol para Mujer  Morado  Purple/Grey Blue Sf  53'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000FI5R7S/?tag=tolees-21'
+descuento: '62.58'
+titulo: 'Fendi FF 0125/S LL X6H  Gafas de sol par'
 ---
 
 Tienes [Fendi FF 0125/S LL X6H  Gafas de sol para Mujer  Morado  Purple/Grey Blue Sf  53](https://www.amazon.es/dp/B000FI5R7S/?tag=tolees-21) con un 62.58 % de descuento con precio de oferta de 29.9 EUR (original: 79.9 EUR) en el siguiente enlace!

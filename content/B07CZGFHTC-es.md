@@ -17,6 +17,9 @@ comparePrice: 26.5 EUR
 inStock: true
 prodname: 'HOM Ligne 50 Mini Briefs Braguita  Azul  Navy 00ra   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZGFHTC/?tag=tolees-21'
+descuento: '45.32'
+titulo: 'HOM Ligne 50 Mini Briefs Braguita  Azul '
 ---
 
 Está [HOM Ligne 50 Mini Briefs Braguita  Azul  Navy 00ra   Medium para Hombre](https://www.amazon.es/dp/B07CZGFHTC/?tag=tolees-21) con 45.32 de descuento por 14.49 EUR (original: 26.5 EUR) en el siguiente enlace!

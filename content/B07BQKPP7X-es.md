@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Zante Pursuit  Zapatillas Deportivas para Interior Unisex Niños  Morado  Dark Violet GLO/Black Vivid   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQKPP7X/?tag=tolees-21'
+descuento: '77.28'
+titulo: 'New Balance Fresh Foam Zante Pursuit  Za'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Zante Pursuit  Zapatillas Deportivas para Interior Unisex Niños  Morado  Dark Violet GLO/Black Vivid   39 EU](https://www.amazon.es/dp/B07BQKPP7X/?tag=tolees-21) a 18.18 EUR (original: 80 EUR) (77.28 %  de descuento) en el siguiente enlace!

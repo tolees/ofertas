@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Nike SB Delta Force Vulc  Zapatillas de Skateboard Unisex Adulto  Cool Wolf Grey/White 001  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DX0FRRU/?tag=tolees-21'
+descuento: '53.96'
+titulo: 'Nike SB Delta Force Vulc  Zapatillas de '
 ---
 
 Tienes [Nike SB Delta Force Vulc  Zapatillas de Skateboard Unisex Adulto  Cool Wolf Grey/White 001  44.5 EU](https://www.amazon.es/dp/B00DX0FRRU/?tag=tolees-21) con un 53.96 % de descuento con precio de oferta de 25.32 EUR (original: 55 EUR) en el siguiente enlace!

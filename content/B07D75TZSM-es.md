@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'adidas Swift Run  Zapatillas de Gimnasia para Hombre  Blanco FTWR White/Core Black  36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D75TZSM/?tag=tolees-21'
+descuento: '45.59'
+titulo: 'adidas Swift Run  Zapatillas de Gimnasia'
 ---
 
 Está [adidas Swift Run  Zapatillas de Gimnasia para Hombre  Blanco FTWR White/Core Black  36.5 EU](https://www.amazon.es/dp/B07D75TZSM/?tag=tolees-21) con 45.59 de descuento por 48.94 EUR (original: 89.95 EUR) en el siguiente enlace!

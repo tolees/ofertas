@@ -17,6 +17,9 @@ comparePrice: 60.4 EUR
 inStock: true
 prodname: 'Victoria Safari Piel Tintada Pelo - Botas de Cuero Unisex'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007Q0DY6E/?tag=tolees-21'
+descuento: '60.93'
+titulo: 'Victoria Safari Piel Tintada Pelo - Bota'
 ---
 
 Está [Victoria Safari Piel Tintada Pelo - Botas de Cuero Unisex](https://www.amazon.es/dp/B007Q0DY6E/?tag=tolees-21) con 60.93 de descuento por 23.6 EUR (original: 60.4 EUR) en el siguiente enlace!

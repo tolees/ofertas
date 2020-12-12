@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'DC Shoes Player Se  Zapatillas de Skateboard para Hombre  Azul Navy Nn1  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGL9K34/?tag=tolees-21'
+descuento: '73.82'
+titulo: 'DC Shoes Player Se  Zapatillas de Skateb'
 ---
 
 Ahora mismo tienes [DC Shoes Player Se  Zapatillas de Skateboard para Hombre  Azul Navy Nn1  42 EU](https://www.amazon.es/dp/B07DGL9K34/?tag=tolees-21) a 25.92 EUR (original: 99 EUR) (73.82 %  de descuento) en el siguiente enlace!

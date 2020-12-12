@@ -17,6 +17,9 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'Viva Kita Solo Mini 650 mAh Cigarrillos electrónicos E-Cigarette  Sin Tabaco y Sin Nicotina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GLZFWX/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'Viva Kita Solo Mini 650 mAh Cigarrillos '
 ---
 
 Tienes [Viva Kita Solo Mini 650 mAh Cigarrillos electrónicos E-Cigarette  Sin Tabaco y Sin Nicotina](https://www.amazon.es/dp/B078GLZFWX/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 5.99 EUR (original: 7.99 EUR) en el siguiente enlace!

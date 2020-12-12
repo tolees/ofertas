@@ -17,6 +17,9 @@ comparePrice: 8.9 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Falda Deportiva de Punto  Turquesa  ES 34 / XXS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZ3IXLI/?tag=tolees-21'
+descuento: '61.80'
+titulo: 'oodji Ultra Mujer Falda Deportiva de Pun'
 ---
 
 Está [oodji Ultra Mujer Falda Deportiva de Punto  Turquesa  ES 34 / XXS](https://www.amazon.es/dp/B01MZ3IXLI/?tag=tolees-21) con 61.80 de descuento por 3.4 EUR (original: 8.9 EUR) en el siguiente enlace!

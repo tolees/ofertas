@@ -17,6 +17,9 @@ comparePrice: 21.17 EUR
 inStock: true
 prodname: 'Un Lugar Tranquilo  BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CXYN4GY/?tag=tolees-21'
+descuento: '52.76'
+titulo: 'Un Lugar Tranquilo  BD  [Blu-ray]'
 ---
 
 Ahora mismo tienes [Un Lugar Tranquilo  BD  [Blu-ray]](https://www.amazon.es/dp/B07CXYN4GY/?tag=tolees-21) a 10 EUR (original: 21.17 EUR) (52.76 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 42.95 EUR
 inStock: true
 prodname: 'Farmacell Silver 512  Negro  L/XL  Faja pantalon corto masajeadora anti-celulitis hecho con fibras de plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NVCQCA6/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'Farmacell Silver 512  Negro  L/XL  Faja '
 ---
 
 Tienes [Farmacell Silver 512  Negro  L/XL  Faja pantalon corto masajeadora anti-celulitis hecho con fibras de plata](https://www.amazon.es/dp/B00NVCQCA6/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 21.48 EUR (original: 42.95 EUR) en el siguiente enlace!

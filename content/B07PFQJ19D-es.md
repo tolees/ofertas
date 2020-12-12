@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Only & Sons Onspatrik Stripe Slim tee Eq 3191 Camiseta  Large  Talla del Fabricante:  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PFQJ19D/?tag=tolees-21'
+descuento: '33.76'
+titulo: 'Only & Sons Onspatrik Stripe Slim tee Eq'
 ---
 
 Ahora mismo tienes [Only & Sons Onspatrik Stripe Slim tee Eq 3191 Camiseta  Large  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07PFQJ19D/?tag=tolees-21) a 9.93 EUR (original: 14.99 EUR) (33.76 %  de descuento) en el siguiente enlace!

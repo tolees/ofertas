@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Calvin Klein Customized Lift  Sujetador con Push-up para Mujer  Negro  Black 001  65D'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0025ZHDEO/?tag=tolees-21'
+descuento: '67.16'
+titulo: 'Calvin Klein Customized Lift  Sujetador '
 ---
 
 Está [Calvin Klein Customized Lift  Sujetador con Push-up para Mujer  Negro  Black 001  65D](https://www.amazon.es/dp/B0025ZHDEO/?tag=tolees-21) con 67.16 de descuento por 14.78 EUR (original: 45 EUR) en el siguiente enlace!

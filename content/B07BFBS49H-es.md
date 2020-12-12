@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Vestido Mujer Vintage Años 50s Estampado Girasol Vestido Elegante Trapecio Rockabilly Cintura Alta Manga Corta Cuello V  2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BFBS49H/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Vestido Mujer Vintage Años 50s Estampado'
 ---
 
 Ahora mismo tienes [Vestido Mujer Vintage Años 50s Estampado Girasol Vestido Elegante Trapecio Rockabilly Cintura Alta Manga Corta Cuello V  2XL](https://www.amazon.es/dp/B07BFBS49H/?tag=tolees-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

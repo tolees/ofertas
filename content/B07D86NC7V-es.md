@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Cruz v2 Sock  Zapatillas para Hombre  Gris Arctic Fox/Light Shale Lp2  47.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D86NC7V/?tag=tolees-21'
+descuento: '68.64'
+titulo: 'New Balance Fresh Foam Cruz v2 Sock  Zap'
 ---
 
 Está [New Balance Fresh Foam Cruz v2 Sock  Zapatillas para Hombre  Gris Arctic Fox/Light Shale Lp2  47.5 EU](https://www.amazon.es/dp/B07D86NC7V/?tag=tolees-21) con 68.64 de descuento por 31.36 EUR (original: 100 EUR) en el siguiente enlace!

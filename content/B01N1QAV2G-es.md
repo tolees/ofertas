@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Reef Rover Low  Zapatillas para Mujer  Gris  Bungee UNE   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1QAV2G/?tag=tolees-21'
+descuento: '80.81'
+titulo: 'Reef Rover Low  Zapatillas para Mujer  G'
 ---
 
 Está [Reef Rover Low  Zapatillas para Mujer  Gris  Bungee UNE   35 EU](https://www.amazon.es/dp/B01N1QAV2G/?tag=tolees-21) con 80.81 de descuento por 13.43 EUR (original: 70 EUR) en el siguiente enlace!

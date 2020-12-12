@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'FIND Zapato Piel Brogue con Calados para Hombre  Rojo  Burgundy   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XGFCC64/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'FIND Zapato Piel Brogue con Calados para'
 ---
 
 Está [FIND Zapato Piel Brogue con Calados para Hombre  Rojo  Burgundy   43 EU](https://www.amazon.es/dp/B06XGFCC64/?tag=tolees-21) con 30.00 de descuento por 42 EUR (original: 60 EUR) en el siguiente enlace!

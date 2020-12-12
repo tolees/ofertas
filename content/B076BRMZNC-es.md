@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Only Onlnatalia L/s Ruffle Pullover CC Knt suéter  Gris  Light Grey Melange Detail:w. Cloud Dancer   38  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076BRMZNC/?tag=tolees-21'
+descuento: '70.95'
+titulo: 'Only Onlnatalia L/s Ruffle Pullover CC K'
 ---
 
 Está [Only Onlnatalia L/s Ruffle Pullover CC Knt suéter  Gris  Light Grey Melange Detail:w. Cloud Dancer   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B076BRMZNC/?tag=tolees-21) con 70.95 de descuento por 7.26 EUR (original: 24.99 EUR) en el siguiente enlace!

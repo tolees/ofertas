@@ -17,6 +17,9 @@ comparePrice: 42.95 EUR
 inStock: true
 prodname: 'Dickie Toys 3154001 - Buggy Woody Radiocontrol Toys Story 4  Multicolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QCB23FK/?tag=tolees-21'
+descuento: '28.27'
+titulo: 'Dickie Toys 3154001 - Buggy Woody Radioc'
 ---
 
 Tienes [Dickie Toys 3154001 - Buggy Woody Radiocontrol Toys Story 4  Multicolor](https://www.amazon.es/dp/B07QCB23FK/?tag=tolees-21) con un 28.27 % de descuento con precio de oferta de 30.81 EUR (original: 42.95 EUR) en el siguiente enlace!

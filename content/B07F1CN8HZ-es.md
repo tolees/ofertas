@@ -17,6 +17,9 @@ comparePrice: 23 EUR
 inStock: true
 prodname: 'BILLABONG Inversed tee LS Boy Camiseta de Manga Larga  Niños  Gris  Grey Heather 9   años  Tamaño del Fabricante:12 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1CN8HZ/?tag=tolees-21'
+descuento: '60.09'
+titulo: 'BILLABONG Inversed tee LS Boy Camiseta d'
 ---
 
 Está [BILLABONG Inversed tee LS Boy Camiseta de Manga Larga  Niños  Gris  Grey Heather 9   años  Tamaño del Fabricante:12 ](https://www.amazon.es/dp/B07F1CN8HZ/?tag=tolees-21) con 60.09 de descuento por 9.18 EUR (original: 23 EUR) en el siguiente enlace!

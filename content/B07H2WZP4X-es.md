@@ -17,6 +17,9 @@ comparePrice: 33.99 EUR
 inStock: true
 prodname: 'Milacolato Aretes de acero inoxidable minúsculos para mujer para hombre Aretes pequeños sin fin Aretes Set CZ Ball Stud para labio Tragus Cartílago Piercing Jewlry'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2WZP4X/?tag=tolees-21'
+descuento: '55.90'
+titulo: 'Milacolato Aretes de acero inoxidable mi'
 ---
 
 Está [Milacolato Aretes de acero inoxidable minúsculos para mujer para hombre Aretes pequeños sin fin Aretes Set CZ Ball Stud para labio Tragus Cartílago Piercing Jewlry](https://www.amazon.es/dp/B07H2WZP4X/?tag=tolees-21) con 55.90 de descuento por 14.99 EUR (original: 33.99 EUR) en el siguiente enlace!

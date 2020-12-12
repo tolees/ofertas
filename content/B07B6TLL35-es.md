@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Burton 1St Layer Set Conjuntos Térmicos  Niños   Stout Dots   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B6TLL35/?tag=tolees-21'
+descuento: '70.90'
+titulo: 'Burton 1St Layer Set Conjuntos Térmicos '
 ---
 
 Tienes [Burton 1St Layer Set Conjuntos Térmicos  Niños   Stout Dots   M](https://www.amazon.es/dp/B07B6TLL35/?tag=tolees-21) con un 70.90 % de descuento con precio de oferta de 14.55 EUR (original: 50 EUR) en el siguiente enlace!

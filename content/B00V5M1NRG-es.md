@@ -17,6 +17,9 @@ comparePrice: 63.96 EUR
 inStock: true
 prodname: 'Corsair Force Series LS - Unidad de Estado sólido de 120 GB  SATA 3  6 GB/s  Controlador Phison  MLC NAND   CSSD-F120GBLSB '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00V5M1NRG/?tag=tolees-21'
+descuento: '37.48'
+titulo: 'Corsair Force Series LS - Unidad de Esta'
 ---
 
 Tienes [Corsair Force Series LS - Unidad de Estado sólido de 120 GB  SATA 3  6 GB/s  Controlador Phison  MLC NAND   CSSD-F120GBLSB ](https://www.amazon.es/dp/B00V5M1NRG/?tag=tolees-21) con un 37.48 % de descuento con precio de oferta de 39.99 EUR (original: 63.96 EUR) en el siguiente enlace!

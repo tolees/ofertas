@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'adidas Vl Court 2.0  Zapatillas de Skateboard para Hombre  Multicolor  Collegiate Burgundy/Ftwr White/Core Black   47 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078LTP6R9/?tag=tolees-21'
+descuento: '46.02'
+titulo: 'adidas Vl Court 2.0  Zapatillas de Skate'
 ---
 
 Tienes [adidas Vl Court 2.0  Zapatillas de Skateboard para Hombre  Multicolor  Collegiate Burgundy/Ftwr White/Core Black   47 1/3 EU](https://www.amazon.es/dp/B078LTP6R9/?tag=tolees-21) con un 46.02 % de descuento con precio de oferta de 35.06 EUR (original: 64.95 EUR) en el siguiente enlace!

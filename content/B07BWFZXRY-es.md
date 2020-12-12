@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'TACKLIFE Cúter  Cuchillo Plegable con 5 Hojas  Cuchillo de Seguridad con Mango de Madera  Navaja Multiuso y Bloqueo Plegable Seguro  Mango Antideslizante UKW03'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BWFZXRY/?tag=tolees-21'
+descuento: '33.36'
+titulo: 'TACKLIFE Cúter  Cuchillo Plegable con 5 '
 ---
 
 Está [TACKLIFE Cúter  Cuchillo Plegable con 5 Hojas  Cuchillo de Seguridad con Mango de Madera  Navaja Multiuso y Bloqueo Plegable Seguro  Mango Antideslizante UKW03](https://www.amazon.es/dp/B07BWFZXRY/?tag=tolees-21) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.25 EUR
 inStock: true
 prodname: 'James & Nicholson Laufhose Jogging  Pantalones de Deporte Infantil  Color Gris  XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008O5CCWC/?tag=tolees-21'
+descuento: '68.92'
+titulo: 'James & Nicholson Laufhose Jogging  Pant'
 ---
 
 Está [James & Nicholson Laufhose Jogging  Pantalones de Deporte Infantil  Color Gris  XX-Large](https://www.amazon.es/dp/B008O5CCWC/?tag=tolees-21) con 68.92 de descuento por 9.09 EUR (original: 29.25 EUR) en el siguiente enlace!

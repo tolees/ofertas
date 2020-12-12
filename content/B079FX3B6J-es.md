@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma Prowl Alt Satin Wn s  Zapatillas de Deporte para Mujer  Negro Black White  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079FX3B6J/?tag=tolees-21'
+descuento: '54.04'
+titulo: 'Puma Prowl Alt Satin Wn s  Zapatillas de'
 ---
 
 Está [Puma Prowl Alt Satin Wn s  Zapatillas de Deporte para Mujer  Negro Black White  38 EU](https://www.amazon.es/dp/B079FX3B6J/?tag=tolees-21) con 54.04 de descuento por 29.85 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'ELINKUME® LED cadena ligera con 20 bolas de algodón  De color blanco luminoso caliente  Operado con pilas  cuerda de la lámpara del Lampion para la decoración  rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZZLS4X/?tag=tolees-21'
+descuento: '44.04'
+titulo: 'ELINKUME® LED cadena ligera con 20 bolas'
 ---
 
 Ahora mismo tienes [ELINKUME® LED cadena ligera con 20 bolas de algodón  De color blanco luminoso caliente  Operado con pilas  cuerda de la lámpara del Lampion para la decoración  rosa](https://www.amazon.es/dp/B07CZZLS4X/?tag=tolees-21) a 13.99 EUR (original: 25 EUR) (44.04 %  de descuento) en el siguiente enlace!

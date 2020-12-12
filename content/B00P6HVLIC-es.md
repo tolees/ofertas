@@ -17,6 +17,9 @@ comparePrice: 26.46 EUR
 inStock: true
 prodname: 'Scitec Nutrition Top Shape quemador de grasa 180 cápsulas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00P6HVLIC/?tag=tolees-21'
+descuento: '36.51'
+titulo: 'Scitec Nutrition Top Shape quemador de g'
 ---
 
 Tienes [Scitec Nutrition Top Shape quemador de grasa 180 cápsulas](https://www.amazon.es/dp/B00P6HVLIC/?tag=tolees-21) con un 36.51 % de descuento con precio de oferta de 16.8 EUR (original: 26.46 EUR) en el siguiente enlace!

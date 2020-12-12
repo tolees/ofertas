@@ -17,6 +17,9 @@ comparePrice: 7.29 EUR
 inStock: true
 prodname: 'Overdose 2018 Vestido MáS Popular Vintage Boho Mujeres Verano Sin Mangas Beach Impreso Corto Mini Vestido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G953LZJ/?tag=tolees-21'
+descuento: '72.70'
+titulo: 'Overdose 2018 Vestido MáS Popular Vintag'
 ---
 
 Tienes [Overdose 2018 Vestido MáS Popular Vintage Boho Mujeres Verano Sin Mangas Beach Impreso Corto Mini Vestido](https://www.amazon.es/dp/B07G953LZJ/?tag=tolees-21) con un 72.70 % de descuento con precio de oferta de 1.99 EUR (original: 7.29 EUR) en el siguiente enlace!

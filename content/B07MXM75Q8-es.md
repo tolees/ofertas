@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Anillo vibrador para pene de silicona sumergible  7 modos de vibración  3 velocidades y recargable"Todo Mio" de Platanomelón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MXM75Q8/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Anillo vibrador para pene de silicona su'
 ---
 
 Tienes [Anillo vibrador para pene de silicona sumergible  7 modos de vibración  3 velocidades y recargable"Todo Mio" de Platanomelón](https://www.amazon.es/dp/B07MXM75Q8/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 26.99 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'New Balance 574  Entrenadores para Niñas  Azul Air  28.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVLWK4M/?tag=tolees-21'
+descuento: '41.67'
+titulo: 'New Balance 574  Entrenadores para Niñas'
 ---
 
 Ahora mismo tienes [New Balance 574  Entrenadores para Niñas  Azul Air  28.5 EU](https://www.amazon.es/dp/B07DVLWK4M/?tag=tolees-21) a 35 EUR (original: 60 EUR) (41.67 %  de descuento) en el siguiente enlace!

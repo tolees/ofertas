@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Energy Tech Tight Pantalones  Hombre   Negro   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0781Z3DMY/?tag=tolees-21'
+descuento: '56.22'
+titulo: 'Puma Energy Tech Tight Pantalones  Hombr'
 ---
 
 Está [Puma Energy Tech Tight Pantalones  Hombre   Negro   L](https://www.amazon.es/dp/B0781Z3DMY/?tag=tolees-21) con 56.22 de descuento por 21.87 EUR (original: 49.95 EUR) en el siguiente enlace!

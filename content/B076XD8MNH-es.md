@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Geox J Alonisso F  Zapatillas Altas para Niños  Negro  White/Black   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076XD8MNH/?tag=tolees-21'
+descuento: '60.78'
+titulo: 'Geox J Alonisso F  Zapatillas Altas para'
 ---
 
 Tienes [Geox J Alonisso F  Zapatillas Altas para Niños  Negro  White/Black   38 EU](https://www.amazon.es/dp/B076XD8MNH/?tag=tolees-21) con un 60.78 % de descuento con precio de oferta de 25.49 EUR (original: 65 EUR) en el siguiente enlace!

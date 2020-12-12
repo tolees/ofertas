@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Volcom Radical Daze Camiseta Manga Corta  Hombre  Blanco  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YRNZVC/?tag=tolees-21'
+descuento: '60.17'
+titulo: 'Volcom Radical Daze Camiseta Manga Corta'
 ---
 
 Ahora mismo tienes [Volcom Radical Daze Camiseta Manga Corta  Hombre  Blanco  L](https://www.amazon.es/dp/B077YRNZVC/?tag=tolees-21) a 11.95 EUR (original: 30 EUR) (60.17 %  de descuento) en el siguiente enlace!

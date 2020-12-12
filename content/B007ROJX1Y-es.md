@@ -17,6 +17,9 @@ comparePrice: 15.58 EUR
 inStock: true
 prodname: 'The Balm  Sombra de ojos - 1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007ROJX1Y/?tag=tolees-21'
+descuento: '46.21'
+titulo: 'The Balm  Sombra de ojos - 1 unidad'
 ---
 
 Ahora mismo tienes [The Balm  Sombra de ojos - 1 unidad](https://www.amazon.es/dp/B007ROJX1Y/?tag=tolees-21) a 8.38 EUR (original: 15.58 EUR) (46.21 %  de descuento) en el siguiente enlace!

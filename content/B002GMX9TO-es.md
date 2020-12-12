@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Midland G7 Akku - Batería de radiocomunicación para G7  G9  Atlantic  800 Ni-mh '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002GMX9TO/?tag=tolees-21'
+descuento: '41.50'
+titulo: 'Midland G7 Akku - Batería de radiocomuni'
 ---
 
 Ahora mismo tienes [Midland G7 Akku - Batería de radiocomunicación para G7  G9  Atlantic  800 Ni-mh ](https://www.amazon.es/dp/B002GMX9TO/?tag=tolees-21) a 13.45 EUR (original: 22.99 EUR) (41.50 %  de descuento) en el siguiente enlace!

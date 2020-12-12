@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance X-90  Zapatillas para Hombre  Negro  Black/Energy Red BK   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFW7K2Q/?tag=tolees-21'
+descuento: '49.29'
+titulo: 'New Balance X-90  Zapatillas para Hombre'
 ---
 
 Está [New Balance X-90  Zapatillas para Hombre  Negro  Black/Energy Red BK   43 EU](https://www.amazon.es/dp/B07DFW7K2Q/?tag=tolees-21) con 49.29 de descuento por 55.78 EUR (original: 110 EUR) en el siguiente enlace!

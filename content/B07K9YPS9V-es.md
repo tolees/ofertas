@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'poetryer Cama para Perros  Cama Gato Nido para Mascotas Cama de Perro Cálido Nido Algodón  Dog Cave Bed Máquina Lavable para Perros pequeños y medianos Cachorros Gatos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K9YPS9V/?tag=tolees-21'
+descuento: '39.15'
+titulo: 'poetryer Cama para Perros  Cama Gato Nid'
 ---
 
 Está [poetryer Cama para Perros  Cama Gato Nido para Mascotas Cama de Perro Cálido Nido Algodón  Dog Cave Bed Máquina Lavable para Perros pequeños y medianos Cachorros Gatos](https://www.amazon.es/dp/B07K9YPS9V/?tag=tolees-21) con 39.15 de descuento por 13.99 EUR (original: 22.99 EUR) en el siguiente enlace!

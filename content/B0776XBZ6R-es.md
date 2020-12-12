@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre Original Tapered Ronnie  Vaqueros straight  recta Azul  Berry Mid Blue Comfort 911  W33/L36  Talla del fabricante: 3633 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0776XBZ6R/?tag=tolees-21'
+descuento: '65.95'
+titulo: 'Tommy Jeans Hombre Original Tapered Ronn'
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre Original Tapered Ronnie  Vaqueros straight  recta Azul  Berry Mid Blue Comfort 911  W33/L36  Talla del fabricante: 3633 ](https://www.amazon.es/dp/B0776XBZ6R/?tag=tolees-21) a 32.35 EUR (original: 95 EUR) (65.95 %  de descuento) en el siguiente enlace!

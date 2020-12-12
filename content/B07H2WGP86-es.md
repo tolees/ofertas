@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'New Balance Bra Pace Sujetador  Mujer  Polaris  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2WGP86/?tag=tolees-21'
+descuento: '39.49'
+titulo: 'New Balance Bra Pace Sujetador  Mujer  P'
 ---
 
 Ahora mismo tienes [New Balance Bra Pace Sujetador  Mujer  Polaris  L](https://www.amazon.es/dp/B07H2WGP86/?tag=tolees-21) a 21.18 EUR (original: 35 EUR) (39.49 %  de descuento) en el siguiente enlace!

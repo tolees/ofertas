@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'VERO MODA Vmleah Badge Ls Shirt  Blusa para Mujer  Blanco  Snow White Detail: Solid   36  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07359MYWN/?tag=tolees-21'
+descuento: '84.37'
+titulo: 'VERO MODA Vmleah Badge Ls Shirt  Blusa p'
 ---
 
 Tienes [VERO MODA Vmleah Badge Ls Shirt  Blusa para Mujer  Blanco  Snow White Detail: Solid   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B07359MYWN/?tag=tolees-21) con un 84.37 % de descuento con precio de oferta de 5.47 EUR (original: 34.99 EUR) en el siguiente enlace!

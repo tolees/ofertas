@@ -17,6 +17,9 @@ comparePrice: 48.79 EUR
 inStock: true
 prodname: 'SKYSPER 12BB 6.3:1 izquierda/derecha intercambiable manija plegable de giro del carrete de pesca'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00RB23L1K/?tag=tolees-21'
+descuento: '28.28'
+titulo: 'SKYSPER 12BB 6.3:1 izquierda/derecha int'
 ---
 
 Tienes [SKYSPER 12BB 6.3:1 izquierda/derecha intercambiable manija plegable de giro del carrete de pesca](https://www.amazon.es/dp/B00RB23L1K/?tag=tolees-21) con un 28.28 % de descuento con precio de oferta de 34.99 EUR (original: 48.79 EUR) en el siguiente enlace!

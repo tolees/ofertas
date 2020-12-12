@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'albohes Aspirador inalámbrico con Gran Potencia Ligera y equilibrada  Aspirador Plegable con Accesorios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYKYRMQ/?tag=tolees-21'
+descuento: '55.00'
+titulo: 'albohes Aspirador inalámbrico con Gran P'
 ---
 
 Está [albohes Aspirador inalámbrico con Gran Potencia Ligera y equilibrada  Aspirador Plegable con Accesorios](https://www.amazon.es/dp/B07DYKYRMQ/?tag=tolees-21) con 55.00 de descuento por 89.99 EUR (original: 199.99 EUR) en el siguiente enlace!

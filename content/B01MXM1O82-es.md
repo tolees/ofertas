@@ -17,6 +17,9 @@ comparePrice: 100.66 EUR
 inStock: true
 prodname: 'Replay Grover  Jeans Hombre  Azul  Dark Blue   W31/L32  Talla del fabricante: 31 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXM1O82/?tag=tolees-21'
+descuento: '70.89'
+titulo: 'Replay Grover  Jeans Hombre  Azul  Dark '
 ---
 
 Tienes [Replay Grover  Jeans Hombre  Azul  Dark Blue   W31/L32  Talla del fabricante: 31 ](https://www.amazon.es/dp/B01MXM1O82/?tag=tolees-21) con un 70.89 % de descuento con precio de oferta de 29.3 EUR (original: 100.66 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 40.12 EUR
 inStock: true
 prodname: 'Liderpapel Pizarra Negra Caballete Y Marco De Madera Con Superficie Para Rotuladores Tipo Tiza 55x85 Cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00K74GRG0/?tag=tolees-21'
+descuento: '27.72'
+titulo: 'Liderpapel Pizarra Negra Caballete Y Mar'
 ---
 
 Ahora mismo tienes [Liderpapel Pizarra Negra Caballete Y Marco De Madera Con Superficie Para Rotuladores Tipo Tiza 55x85 Cm](https://www.amazon.es/dp/B00K74GRG0/?tag=tolees-21) a 29 EUR (original: 40.12 EUR) (27.72 %  de descuento) en el siguiente enlace!

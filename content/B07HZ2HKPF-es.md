@@ -17,6 +17,9 @@ comparePrice: 290 EUR
 inStock: true
 prodname: 'TECNOCOLCHÓN Colchón Viscoelástico Visco Clinic 150 x 200 cm. y 20 cm. de Altura | Termosensible Transpirable | Reversible'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HZ2HKPF/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'TECNOCOLCHÓN Colchón Viscoelástico Visco'
 ---
 
 Tienes [TECNOCOLCHÓN Colchón Viscoelástico Visco Clinic 150 x 200 cm. y 20 cm. de Altura | Termosensible Transpirable | Reversible](https://www.amazon.es/dp/B07HZ2HKPF/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 87 EUR (original: 290 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 9.9 EUR
 inStock: true
 prodname: 'Brennenstuhl 1508100 - Distribuidor con 3 tomas + interruptor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002OI6N5W/?tag=tolees-21'
+descuento: '39.90'
+titulo: 'Brennenstuhl 1508100 - Distribuidor con '
 ---
 
 Está [Brennenstuhl 1508100 - Distribuidor con 3 tomas + interruptor](https://www.amazon.es/dp/B002OI6N5W/?tag=tolees-21) con 39.90 de descuento por 5.95 EUR (original: 9.9 EUR) en el siguiente enlace!

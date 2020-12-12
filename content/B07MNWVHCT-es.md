@@ -17,6 +17,9 @@ comparePrice: 56.21 EUR
 inStock: true
 prodname: 'adidas Beckenbauer TT Sudadera  Hombre  acevap  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MNWVHCT/?tag=tolees-21'
+descuento: '28.87'
+titulo: 'adidas Beckenbauer TT Sudadera  Hombre  '
 ---
 
 Está [adidas Beckenbauer TT Sudadera  Hombre  acevap  XS](https://www.amazon.es/dp/B07MNWVHCT/?tag=tolees-21) con 28.87 de descuento por 39.98 EUR (original: 56.21 EUR) en el siguiente enlace!

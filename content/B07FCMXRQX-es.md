@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Guess - Felix  Carteras Mujer  Multicolor  Stripe/Stp   12.5x11x3 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FCMXRQX/?tag=tolees-21'
+descuento: '30.16'
+titulo: 'Guess - Felix  Carteras Mujer  Multicolo'
 ---
 
 Está [Guess - Felix  Carteras Mujer  Multicolor  Stripe/Stp   12.5x11x3 cm  W x H L ](https://www.amazon.es/dp/B07FCMXRQX/?tag=tolees-21) con 30.16 de descuento por 38.41 EUR (original: 55 EUR) en el siguiente enlace!

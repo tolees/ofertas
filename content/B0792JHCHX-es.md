@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Quiksilver - Camiseta - Hombre - S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792JHCHX/?tag=tolees-21'
+descuento: '31.05'
+titulo: 'Quiksilver - Camiseta - Hombre - S'
 ---
 
 Tienes [Quiksilver - Camiseta - Hombre - S](https://www.amazon.es/dp/B0792JHCHX/?tag=tolees-21) con un 31.05 % de descuento con precio de oferta de 17.92 EUR (original: 25.99 EUR) en el siguiente enlace!

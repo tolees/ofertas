@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Springfield Messenger Daily  Bolso de mano para Hombre   Gamma Azules   10x10x10 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ4CLHK/?tag=tolees-21'
+descuento: '83.65'
+titulo: 'Springfield Messenger Daily  Bolso de ma'
 ---
 
 Ahora mismo tienes [Springfield Messenger Daily  Bolso de mano para Hombre   Gamma Azules   10x10x10 cm  W x H x L ](https://www.amazon.es/dp/B07KZ4CLHK/?tag=tolees-21) a 6.54 EUR (original: 39.99 EUR) (83.65 %  de descuento) en el siguiente enlace!

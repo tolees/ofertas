@@ -17,6 +17,9 @@ comparePrice: 74.74 EUR
 inStock: true
 prodname: 'Asics Gel-Game 6  Zapatillas de Tenis Mujer  Rojo  Rouge Red / Silver / White   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071S3HGDJ/?tag=tolees-21'
+descuento: '53.85'
+titulo: 'Asics Gel-Game 6  Zapatillas de Tenis Mu'
 ---
 
 Ahora mismo tienes [Asics Gel-Game 6  Zapatillas de Tenis Mujer  Rojo  Rouge Red / Silver / White   37 EU](https://www.amazon.es/dp/B071S3HGDJ/?tag=tolees-21) a 34.49 EUR (original: 74.74 EUR) (53.85 %  de descuento) en el siguiente enlace!

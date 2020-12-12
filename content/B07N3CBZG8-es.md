@@ -17,6 +17,9 @@ comparePrice: 89.34 EUR
 inStock: true
 prodname: 'Munich NOU  Zapatillas Unisex Adulto   Negro/Blanco 68   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3CBZG8/?tag=tolees-21'
+descuento: '46.31'
+titulo: 'Munich NOU  Zapatillas Unisex Adulto   N'
 ---
 
 Tienes [Munich NOU  Zapatillas Unisex Adulto   Negro/Blanco 68   41 EU](https://www.amazon.es/dp/B07N3CBZG8/?tag=tolees-21) con un 46.31 % de descuento con precio de oferta de 47.97 EUR (original: 89.34 EUR) en el siguiente enlace!

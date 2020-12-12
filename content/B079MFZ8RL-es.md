@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Clarks Bay Primrose  Sandalia con Pulsera para Mujer  Negro  Black Leather-   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079MFZ8RL/?tag=tolees-21'
+descuento: '59.82'
+titulo: 'Clarks Bay Primrose  Sandalia con Pulser'
 ---
 
 Tienes [Clarks Bay Primrose  Sandalia con Pulsera para Mujer  Negro  Black Leather-   39 EU](https://www.amazon.es/dp/B079MFZ8RL/?tag=tolees-21) con un 59.82 % de descuento con precio de oferta de 32.12 EUR (original: 79.95 EUR) en el siguiente enlace!

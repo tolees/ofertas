@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Xiaomi original Monitor inteligente para plantas Sensor para detectar la humedad del suelo  el fertilizante  la temperatura y la intensidad de la luz.Adecuado para jardines de jardines agrícolas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXOJSWA/?tag=tolees-21'
+descuento: '34.30'
+titulo: 'Xiaomi original Monitor inteligente para'
 ---
 
 Está [Xiaomi original Monitor inteligente para plantas Sensor para detectar la humedad del suelo  el fertilizante  la temperatura y la intensidad de la luz.Adecuado para jardines de jardines agrícolas](https://www.amazon.es/dp/B01LXOJSWA/?tag=tolees-21) con 34.30 de descuento por 22.99 EUR (original: 34.99 EUR) en el siguiente enlace!

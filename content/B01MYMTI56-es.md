@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Helly Hansen Lerwick Shell Jacket  Hombre  Essential Yellow  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYMTI56/?tag=tolees-21'
+descuento: '49.03'
+titulo: 'Helly Hansen Lerwick Shell Jacket  Hombr'
 ---
 
 Tienes [Helly Hansen Lerwick Shell Jacket  Hombre  Essential Yellow  XL](https://www.amazon.es/dp/B01MYMTI56/?tag=tolees-21) con un 49.03 % de descuento con precio de oferta de 76.46 EUR (original: 150 EUR) en el siguiente enlace!

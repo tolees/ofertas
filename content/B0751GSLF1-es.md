@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'New Balance 1400v6 Racing Running  Zapatillas de Atletismo para Hombre   Maldives Blue/Black/Hi-Lite By6   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0751GSLF1/?tag=tolees-21'
+descuento: '51.10'
+titulo: 'New Balance 1400v6 Racing Running  Zapat'
 ---
 
 Ahora mismo tienes [New Balance 1400v6 Racing Running  Zapatillas de Atletismo para Hombre   Maldives Blue/Black/Hi-Lite By6   40 EU](https://www.amazon.es/dp/B0751GSLF1/?tag=tolees-21) a 56.23 EUR (original: 115 EUR) (51.10 %  de descuento) en el siguiente enlace!

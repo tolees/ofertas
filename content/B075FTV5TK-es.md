@@ -17,6 +17,9 @@ comparePrice: 31.99 EUR
 inStock: true
 prodname: 'Lámpara colgante Retro Vintage iluminación de techo Iluminación E27 Capacidad AC220 – 240 V  forma de jaula '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075FTV5TK/?tag=tolees-21'
+descuento: '59.39'
+titulo: 'Lámpara colgante Retro Vintage iluminaci'
 ---
 
 Ahora mismo tienes [Lámpara colgante Retro Vintage iluminación de techo Iluminación E27 Capacidad AC220 – 240 V  forma de jaula ](https://www.amazon.es/dp/B075FTV5TK/?tag=tolees-21) a 12.99 EUR (original: 31.99 EUR) (59.39 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Linterna LED  Cofuture Literna de Mano 4 Modos USB Recargable 800 Lumen Bateria Linternas 18650 Impermeable IP65 Linterna Táctica Alta Potencia Portátil Zoom de Mano Antorcha Imán Luz Lateral …'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8R2SF8/?tag=tolees-21'
+descuento: '66.01'
+titulo: 'Linterna LED  Cofuture Literna de Mano 4'
 ---
 
 Está [Linterna LED  Cofuture Literna de Mano 4 Modos USB Recargable 800 Lumen Bateria Linternas 18650 Impermeable IP65 Linterna Táctica Alta Potencia Portátil Zoom de Mano Antorcha Imán Luz Lateral …](https://www.amazon.es/dp/B07F8R2SF8/?tag=tolees-21) con 66.01 de descuento por 16.99 EUR (original: 49.99 EUR) en el siguiente enlace!

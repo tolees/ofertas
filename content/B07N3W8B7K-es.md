@@ -17,6 +17,9 @@ comparePrice: 9.9 EUR
 inStock: true
 prodname: 'Gliss - Mascarilla Reparación Total Extra Brillo - 2 uds de 150ml - Schwarzkopf'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3W8B7K/?tag=tolees-21'
+descuento: '43.54'
+titulo: 'Gliss - Mascarilla Reparación Total Extr'
 ---
 
 Está [Gliss - Mascarilla Reparación Total Extra Brillo - 2 uds de 150ml - Schwarzkopf](https://www.amazon.es/dp/B07N3W8B7K/?tag=tolees-21) con 43.54 de descuento por 5.59 EUR (original: 9.9 EUR) en el siguiente enlace!

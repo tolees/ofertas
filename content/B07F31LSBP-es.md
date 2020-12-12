@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'adidas Sobakov Calzado Core Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F31LSBP/?tag=tolees-21'
+descuento: '39.95'
+titulo: 'adidas Sobakov Calzado Core Black'
 ---
 
 Ahora mismo tienes [adidas Sobakov Calzado Core Black](https://www.amazon.es/dp/B07F31LSBP/?tag=tolees-21) a 57.05 EUR (original: 95 EUR) (39.95 %  de descuento) en el siguiente enlace!

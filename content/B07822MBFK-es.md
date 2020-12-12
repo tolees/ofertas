@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'BILLABONG Fifty50 LB 16 Bañador  Hombre   Tang 3662   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07822MBFK/?tag=tolees-21'
+descuento: '60.08'
+titulo: 'BILLABONG Fifty50 LB 16 Bañador  Hombre '
 ---
 
 Está [BILLABONG Fifty50 LB 16 Bañador  Hombre   Tang 3662   Medium](https://www.amazon.es/dp/B07822MBFK/?tag=tolees-21) con 60.08 de descuento por 19.96 EUR (original: 50 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 23.12 EUR
 inStock: true
 prodname: 'STAR WARS- Figura de Titanio Han Solo   Hasbro C1860EL2 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071KFK5WL/?tag=tolees-21'
+descuento: '64.01'
+titulo: 'STAR WARS- Figura de Titanio Han Solo   '
 ---
 
 Está [STAR WARS- Figura de Titanio Han Solo   Hasbro C1860EL2 ](https://www.amazon.es/dp/B071KFK5WL/?tag=tolees-21) con 64.01 de descuento por 8.32 EUR (original: 23.12 EUR) en el siguiente enlace!

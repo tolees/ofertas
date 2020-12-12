@@ -17,6 +17,9 @@ comparePrice: 120.38 EUR
 inStock: true
 prodname: 'Versace Dylan Blue Eau de Toilette 200 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JG5UG1W/?tag=tolees-21'
+descuento: '50.99'
+titulo: 'Versace Dylan Blue Eau de Toilette 200 m'
 ---
 
 Está [Versace Dylan Blue Eau de Toilette 200 ml](https://www.amazon.es/dp/B01JG5UG1W/?tag=tolees-21) con 50.99 de descuento por 59 EUR (original: 120.38 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'DDP F4WEAM7-Blusa Mujer Negro  Talla del Fabricante: L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01718TVQM/?tag=tolees-21'
+descuento: '83.47'
+titulo: 'DDP F4WEAM7-Blusa Mujer Negro  Talla del'
 ---
 
 Ahora mismo tienes [DDP F4WEAM7-Blusa Mujer Negro  Talla del Fabricante: L ](https://www.amazon.es/dp/B01718TVQM/?tag=tolees-21) a 9.75 EUR (original: 59 EUR) (83.47 %  de descuento) en el siguiente enlace!

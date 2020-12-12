@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Helly Hansen Vancouver Jacket  Hombre  Navy  2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RQ5GH5/?tag=tolees-21'
+descuento: '51.23'
+titulo: 'Helly Hansen Vancouver Jacket  Hombre  N'
 ---
 
 Ahora mismo tienes [Helly Hansen Vancouver Jacket  Hombre  Navy  2XL](https://www.amazon.es/dp/B073RQ5GH5/?tag=tolees-21) a 68.28 EUR (original: 140 EUR) (51.23 %  de descuento) en el siguiente enlace!

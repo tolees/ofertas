@@ -17,6 +17,9 @@ comparePrice: 55.95 EUR
 inStock: true
 prodname: 'Softline 25461  Botas para Mujer  Gris  Asphalt   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MV4I2RS/?tag=tolees-21'
+descuento: '69.69'
+titulo: 'Softline 25461  Botas para Mujer  Gris  '
 ---
 
 Está [Softline 25461  Botas para Mujer  Gris  Asphalt   39 EU](https://www.amazon.es/dp/B01MV4I2RS/?tag=tolees-21) con 69.69 de descuento por 16.96 EUR (original: 55.95 EUR) en el siguiente enlace!

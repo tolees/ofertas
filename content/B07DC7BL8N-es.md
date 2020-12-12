@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'LE COQ SPORTIF Courtset Craft  Zapatillas para Hombre  Beige  Reglisse/Dress Blue Marron   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC7BL8N/?tag=tolees-21'
+descuento: '73.69'
+titulo: 'LE COQ SPORTIF Courtset Craft  Zapatilla'
 ---
 
 Está [LE COQ SPORTIF Courtset Craft  Zapatillas para Hombre  Beige  Reglisse/Dress Blue Marron   41 EU](https://www.amazon.es/dp/B07DC7BL8N/?tag=tolees-21) con 73.69 de descuento por 19.73 EUR (original: 75 EUR) en el siguiente enlace!

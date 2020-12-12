@@ -17,6 +17,9 @@ comparePrice: 41 EUR
 inStock: true
 prodname: 'Conguitos Botin Glitter con Pompon  Botas Slouch para Niñas   Rosa 11   20 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTYSV9G/?tag=tolees-21'
+descuento: '63.68'
+titulo: 'Conguitos Botin Glitter con Pompon  Bota'
 ---
 
 Está [Conguitos Botin Glitter con Pompon  Botas Slouch para Niñas   Rosa 11   20 EU](https://www.amazon.es/dp/B07CTYSV9G/?tag=tolees-21) con 63.68 de descuento por 14.89 EUR (original: 41 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'WMF Kult X Mix & Go Mini Batidora de Vaso Individual 300 W de 0.6 L de Capacidad y 4 Cuchillas Alta Calidad  Acabados de Acero Inoxidable de Cromargan Mate  60 Decibeles'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I5ABIFI/?tag=tolees-21'
+descuento: '29.01'
+titulo: 'WMF Kult X Mix & Go Mini Batidora de Vas'
 ---
 
 Ahora mismo tienes [WMF Kult X Mix & Go Mini Batidora de Vaso Individual 300 W de 0.6 L de Capacidad y 4 Cuchillas Alta Calidad  Acabados de Acero Inoxidable de Cromargan Mate  60 Decibeles](https://www.amazon.es/dp/B00I5ABIFI/?tag=tolees-21) a 31.94 EUR (original: 44.99 EUR) (29.01 %  de descuento) en el siguiente enlace!

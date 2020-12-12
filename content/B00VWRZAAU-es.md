@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Viking ULTRA 2.0 Botas de Material Sintético para Niños  rosa  fuchsia/purple 1716   talla 21'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VWRZAAU/?tag=tolees-21'
+descuento: '59.96'
+titulo: 'Viking ULTRA 2.0 Botas de Material Sinté'
 ---
 
 Tienes [Viking ULTRA 2.0 Botas de Material Sintético para Niños  rosa  fuchsia/purple 1716   talla 21](https://www.amazon.es/dp/B00VWRZAAU/?tag=tolees-21) con un 59.96 % de descuento con precio de oferta de 19.98 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.39 EUR
 inStock: true
 prodname: 'SADES SA906 7.1 Stereo Surround Sound Pro USB de la PC Gaming Headset Sobre-Oído de la venda de los auriculares de alta fidelidad con la función de vibración del micrófono Control de volumen remoto de iluminación LED rojo  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XCDWLCM/?tag=tolees-21'
+descuento: '81.28'
+titulo: 'SADES SA906 7.1 Stereo Surround Sound Pr'
 ---
 
 Tienes [SADES SA906 7.1 Stereo Surround Sound Pro USB de la PC Gaming Headset Sobre-Oído de la venda de los auriculares de alta fidelidad con la función de vibración del micrófono Control de volumen remoto de iluminación LED rojo  Negro ](https://www.amazon.es/dp/B00XCDWLCM/?tag=tolees-21) con un 81.28 % de descuento con precio de oferta de 12.99 EUR (original: 69.39 EUR) en el siguiente enlace!

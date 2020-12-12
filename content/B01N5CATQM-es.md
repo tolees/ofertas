@@ -17,6 +17,9 @@ comparePrice: 32.03 EUR
 inStock: true
 prodname: 'Lee Pocket tee Camisa  Blanco  White Canvas Plrr   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5CATQM/?tag=tolees-21'
+descuento: '36.09'
+titulo: 'Lee Pocket tee Camisa  Blanco  White Can'
 ---
 
 Tienes [Lee Pocket tee Camisa  Blanco  White Canvas Plrr   Medium para Hombre](https://www.amazon.es/dp/B01N5CATQM/?tag=tolees-21) con un 36.09 % de descuento con precio de oferta de 20.47 EUR (original: 32.03 EUR) en el siguiente enlace!

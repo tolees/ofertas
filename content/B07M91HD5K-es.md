@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'MTNG Attitude 84217  Zapatillas para Hombre  Azul  Texas Marino C35059   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M91HD5K/?tag=tolees-21'
+descuento: '41.79'
+titulo: 'MTNG Attitude 84217  Zapatillas para Hom'
 ---
 
 Está [MTNG Attitude 84217  Zapatillas para Hombre  Azul  Texas Marino C35059   41 EU](https://www.amazon.es/dp/B07M91HD5K/?tag=tolees-21) con 41.79 de descuento por 20.95 EUR (original: 35.99 EUR) en el siguiente enlace!

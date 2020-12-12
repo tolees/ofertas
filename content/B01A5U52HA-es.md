@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjipreston Cargo SH AKM 225 Camo STS  Pantalones Cortos Hombre  Verde  Olive Night   48  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01A5U52HA/?tag=tolees-21'
+descuento: '67.19'
+titulo: 'JACK & JONES Jjipreston Cargo SH AKM 225'
 ---
 
 Está [JACK & JONES Jjipreston Cargo SH AKM 225 Camo STS  Pantalones Cortos Hombre  Verde  Olive Night   48  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01A5U52HA/?tag=tolees-21) con 67.19 de descuento por 13.12 EUR (original: 39.99 EUR) en el siguiente enlace!

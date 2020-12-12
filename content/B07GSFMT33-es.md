@@ -17,6 +17,9 @@ comparePrice: 17.94 EUR
 inStock: true
 prodname: 'NIVEA Crema de Manos Cuidado Nutritivo - 100 ml - 6 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GSFMT33/?tag=tolees-21'
+descuento: '38.74'
+titulo: 'NIVEA Crema de Manos Cuidado Nutritivo -'
 ---
 
 Está [NIVEA Crema de Manos Cuidado Nutritivo - 100 ml - 6 unidades](https://www.amazon.es/dp/B07GSFMT33/?tag=tolees-21) con 38.74 de descuento por 10.99 EUR (original: 17.94 EUR) en el siguiente enlace!

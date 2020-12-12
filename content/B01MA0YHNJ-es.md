@@ -17,6 +17,9 @@ comparePrice: 629.99 EUR
 inStock: true
 prodname: 'EVGA 08G-P4-6178-KR - Tarjeta gráfica  GeForce GTX 1070 Hybrid Gaming 8 GB   Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MA0YHNJ/?tag=tolees-21'
+descuento: '40.30'
+titulo: 'EVGA 08G-P4-6178-KR - Tarjeta gráfica  G'
 ---
 
 Está [EVGA 08G-P4-6178-KR - Tarjeta gráfica  GeForce GTX 1070 Hybrid Gaming 8 GB   Color Negro](https://www.amazon.es/dp/B01MA0YHNJ/?tag=tolees-21) con 40.30 de descuento por 376.12 EUR (original: 629.99 EUR) en el siguiente enlace!

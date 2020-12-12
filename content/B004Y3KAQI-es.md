@@ -17,6 +17,9 @@ comparePrice: 44.65 EUR
 inStock: true
 prodname: 'InCollections  - Collar de mujer de plata con ámbar en forma de corazon de 42 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004Y3KAQI/?tag=tolees-21'
+descuento: '27.26'
+titulo: 'InCollections  - Collar de mujer de plat'
 ---
 
 Está [InCollections  - Collar de mujer de plata con ámbar en forma de corazon de 42 cm](https://www.amazon.es/dp/B004Y3KAQI/?tag=tolees-21) con 27.26 de descuento por 32.48 EUR (original: 44.65 EUR) en el siguiente enlace!

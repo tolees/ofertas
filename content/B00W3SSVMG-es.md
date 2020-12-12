@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Joma - Camiseta Terra Negro-Blanco m/c para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00W3SSVMG/?tag=tolees-21'
+descuento: '55.81'
+titulo: 'Joma - Camiseta Terra Negro-Blanco m/c p'
 ---
 
 Tienes [Joma - Camiseta Terra Negro-Blanco m/c para Hombre](https://www.amazon.es/dp/B00W3SSVMG/?tag=tolees-21) con un 55.81 % de descuento con precio de oferta de 7.95 EUR (original: 17.99 EUR) en el siguiente enlace!

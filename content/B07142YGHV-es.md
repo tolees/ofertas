@@ -17,6 +17,9 @@ comparePrice: 209 EUR
 inStock: true
 prodname: 'Tommy Jeans Mujer JACKET 11 capa Manga Larga bombardeo Rojo  Chili Pepper 666  10  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07142YGHV/?tag=tolees-21'
+descuento: '63.60'
+titulo: 'Tommy Jeans Mujer JACKET 11 capa Manga L'
 ---
 
 Ahora mismo tienes [Tommy Jeans Mujer JACKET 11 capa Manga Larga bombardeo Rojo  Chili Pepper 666  10  Talla del fabricante: Medium ](https://www.amazon.es/dp/B07142YGHV/?tag=tolees-21) a 76.07 EUR (original: 209 EUR) (63.60 %  de descuento) en el siguiente enlace!

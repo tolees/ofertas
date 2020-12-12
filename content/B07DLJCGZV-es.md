@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield Frq Color Stripe Camisa Casual   Gama Azules 11   Large  Tamaño del Fabricante:L  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLJCGZV/?tag=tolees-21'
+descuento: '54.85'
+titulo: 'Springfield Frq Color Stripe Camisa Casu'
 ---
 
 Está [Springfield Frq Color Stripe Camisa Casual   Gama Azules 11   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07DLJCGZV/?tag=tolees-21) con 54.85 de descuento por 13.54 EUR (original: 29.99 EUR) en el siguiente enlace!

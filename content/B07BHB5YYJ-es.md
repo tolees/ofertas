@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Under Armour Ua Magnetico Select Hybrid Zapatillas de Fútbol Hombre  Negro  Black/ Black/ Metallic Silver 001   42 EU  7.5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHB5YYJ/?tag=tolees-21'
+descuento: '70.68'
+titulo: 'Under Armour Ua Magnetico Select Hybrid '
 ---
 
 Tienes [Under Armour Ua Magnetico Select Hybrid Zapatillas de Fútbol Hombre  Negro  Black/ Black/ Metallic Silver 001   42 EU  7.5 UK ](https://www.amazon.es/dp/B07BHB5YYJ/?tag=tolees-21) con un 70.68 % de descuento con precio de oferta de 26.39 EUR (original: 90 EUR) en el siguiente enlace!

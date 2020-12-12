@@ -17,6 +17,9 @@ comparePrice: 159.99 EUR
 inStock: true
 prodname: 'Camara Acuatica 1080P Camara acuatica Sumergible Full HD Grabadora de Video de 24 MP Videocámara Selfie Cámara en Pantalla Dual Grabación DV camaras acuaticas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8GLXNS/?tag=tolees-21'
+descuento: '48.13'
+titulo: 'Camara Acuatica 1080P Camara acuatica Su'
 ---
 
 Tienes [Camara Acuatica 1080P Camara acuatica Sumergible Full HD Grabadora de Video de 24 MP Videocámara Selfie Cámara en Pantalla Dual Grabación DV camaras acuaticas](https://www.amazon.es/dp/B07M8GLXNS/?tag=tolees-21) con un 48.13 % de descuento con precio de oferta de 82.99 EUR (original: 159.99 EUR) en el siguiente enlace!

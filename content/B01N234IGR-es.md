@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Puma Cross The Line Pants  Mujer  Red  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N234IGR/?tag=tolees-21'
+descuento: '61.83'
+titulo: 'Puma Cross The Line Pants  Mujer  Red  S'
 ---
 
 Está [Puma Cross The Line Pants  Mujer  Red  S](https://www.amazon.es/dp/B01N234IGR/?tag=tolees-21) con 61.83 de descuento por 13.34 EUR (original: 34.95 EUR) en el siguiente enlace!

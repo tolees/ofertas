@@ -17,6 +17,9 @@ comparePrice: 18.49 EUR
 inStock: true
 prodname: 'S&R Rasqueta Vitroceramica limpia Cristales. Raspador Multiusos. Rascador 147 mm con 5 cuchillas de repuesto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079P3TN9J/?tag=tolees-21'
+descuento: '56.84'
+titulo: 'S&R Rasqueta Vitroceramica limpia Crista'
 ---
 
 Está [S&R Rasqueta Vitroceramica limpia Cristales. Raspador Multiusos. Rascador 147 mm con 5 cuchillas de repuesto](https://www.amazon.es/dp/B079P3TN9J/?tag=tolees-21) con 56.84 de descuento por 7.98 EUR (original: 18.49 EUR) en el siguiente enlace!

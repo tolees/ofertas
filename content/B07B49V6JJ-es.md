@@ -17,6 +17,9 @@ comparePrice: 16.95 EUR
 inStock: true
 prodname: 'Relec Pulsera Repelente Antimosquitos Superhéroes Super Girl - 1 Unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B49V6JJ/?tag=tolees-21'
+descuento: '58.76'
+titulo: 'Relec Pulsera Repelente Antimosquitos Su'
 ---
 
 Ahora mismo tienes [Relec Pulsera Repelente Antimosquitos Superhéroes Super Girl - 1 Unidad](https://www.amazon.es/dp/B07B49V6JJ/?tag=tolees-21) a 6.99 EUR (original: 16.95 EUR) (58.76 %  de descuento) en el siguiente enlace!

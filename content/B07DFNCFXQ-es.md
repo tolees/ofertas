@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma A.C.E. SS tee T-Shirt  Hombre  Negro Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFNCFXQ/?tag=tolees-21'
+descuento: '60.88'
+titulo: 'Puma A.C.E. SS tee T-Shirt  Hombre  Negr'
 ---
 
 Está [Puma A.C.E. SS tee T-Shirt  Hombre  Negro Black  M](https://www.amazon.es/dp/B07DFNCFXQ/?tag=tolees-21) con 60.88 de descuento por 9.76 EUR (original: 24.95 EUR) en el siguiente enlace!

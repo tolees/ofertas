@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance Synact  Zapatillas de Running para Mujer   Himalayan Pink/Smoke Blue Lh1   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075XLHDCR/?tag=tolees-21'
+descuento: '71.02'
+titulo: 'New Balance Synact  Zapatillas de Runnin'
 ---
 
 Tienes [New Balance Synact  Zapatillas de Running para Mujer   Himalayan Pink/Smoke Blue Lh1   36 EU](https://www.amazon.es/dp/B075XLHDCR/?tag=tolees-21) con un 71.02 % de descuento con precio de oferta de 28.98 EUR (original: 100 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Under Armour Synthetic Fleece Jogger - Pantalones  Mujer  Azul  Static Blue/Tonal   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XVBX7Q/?tag=tolees-21'
+descuento: '79.80'
+titulo: 'Under Armour Synthetic Fleece Jogger - P'
 ---
 
 Tienes [Under Armour Synthetic Fleece Jogger - Pantalones  Mujer  Azul  Static Blue/Tonal   XL](https://www.amazon.es/dp/B077XVBX7Q/?tag=tolees-21) con un 79.80 % de descuento con precio de oferta de 11.11 EUR (original: 55 EUR) en el siguiente enlace!

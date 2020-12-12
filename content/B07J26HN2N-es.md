@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Gioteck - Auriculares Tx30 Pink'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J26HN2N/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'Gioteck - Auriculares Tx30 Pink'
 ---
 
 Ahora mismo tienes [Gioteck - Auriculares Tx30 Pink](https://www.amazon.es/dp/B07J26HN2N/?tag=tolees-21) a 11.99 EUR (original: 19.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

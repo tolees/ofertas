@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Guess Walter  Zapatillas Altas para Hombre  Azul Deep  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FDCNJWP/?tag=tolees-21'
+descuento: '50.09'
+titulo: 'Guess Walter  Zapatillas Altas para Homb'
 ---
 
 Está [Guess Walter  Zapatillas Altas para Hombre  Azul Deep  43 EU](https://www.amazon.es/dp/B07FDCNJWP/?tag=tolees-21) con 50.09 de descuento por 32.44 EUR (original: 65 EUR) en el siguiente enlace!

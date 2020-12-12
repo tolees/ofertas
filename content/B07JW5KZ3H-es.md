@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmlisa 7/8 Top Box Blusa  Azul  Night Sky Stripes:Wasabi   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JW5KZ3H/?tag=tolees-21'
+descuento: '68.42'
+titulo: 'Vero Moda Vmlisa 7/8 Top Box Blusa  Azul'
 ---
 
 Tienes [Vero Moda Vmlisa 7/8 Top Box Blusa  Azul  Night Sky Stripes:Wasabi   42  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07JW5KZ3H/?tag=tolees-21) con un 68.42 % de descuento con precio de oferta de 11.05 EUR (original: 34.99 EUR) en el siguiente enlace!

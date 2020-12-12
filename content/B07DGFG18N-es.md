@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'DC Shoes Torstein  Zapatillas de Skateboard para Hombre  Beige  Timber TMB   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGFG18N/?tag=tolees-21'
+descuento: '75.83'
+titulo: 'DC Shoes Torstein  Zapatillas de Skatebo'
 ---
 
 Está [DC Shoes Torstein  Zapatillas de Skateboard para Hombre  Beige  Timber TMB   42 EU](https://www.amazon.es/dp/B07DGFG18N/?tag=tolees-21) con 75.83 de descuento por 31.42 EUR (original: 130 EUR) en el siguiente enlace!

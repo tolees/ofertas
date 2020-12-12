@@ -17,6 +17,9 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'Salomon XA Pro 3D GTX W  Zapatillas de Trail Running para Mujer  Azul  Navy Blazer/Mallard Blue/Trellis   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CYY9FVN/?tag=tolees-21'
+descuento: '49.02'
+titulo: 'Salomon XA Pro 3D GTX W  Zapatillas de T'
 ---
 
 Está [Salomon XA Pro 3D GTX W  Zapatillas de Trail Running para Mujer  Azul  Navy Blazer/Mallard Blue/Trellis   40 EU](https://www.amazon.es/dp/B07CYY9FVN/?tag=tolees-21) con 49.02 de descuento por 81.54 EUR (original: 159.95 EUR) en el siguiente enlace!

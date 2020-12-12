@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas COURT70S  Zapatillas de Deporte para Hombre  Escarl/Ftwbla 000  42 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G7H9DZ9/?tag=tolees-21'
+descuento: '58.54'
+titulo: 'adidas COURT70S  Zapatillas de Deporte p'
 ---
 
 Ahora mismo tienes [adidas COURT70S  Zapatillas de Deporte para Hombre  Escarl/Ftwbla 000  42 2/3 EU](https://www.amazon.es/dp/B07G7H9DZ9/?tag=tolees-21) a 29 EUR (original: 69.95 EUR) (58.54 %  de descuento) en el siguiente enlace!

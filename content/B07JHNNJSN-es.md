@@ -17,6 +17,9 @@ comparePrice: 59.25 EUR
 inStock: true
 prodname: 'WOOTBOX Harry Potter – Talla L – Box Regalo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHNNJSN/?tag=tolees-21'
+descuento: '25.92'
+titulo: 'WOOTBOX Harry Potter – Talla L – Box Reg'
 ---
 
 Está [WOOTBOX Harry Potter – Talla L – Box Regalo](https://www.amazon.es/dp/B07JHNNJSN/?tag=tolees-21) con 25.92 de descuento por 43.89 EUR (original: 59.25 EUR) en el siguiente enlace!

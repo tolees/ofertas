@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'BOSS Cosy Pants  Pantalones de Pijama Hombre  Gris  Medium Grey 036   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G44FXJ8/?tag=tolees-21'
+descuento: '75.33'
+titulo: 'BOSS Cosy Pants  Pantalones de Pijama Ho'
 ---
 
 Ahora mismo tienes [BOSS Cosy Pants  Pantalones de Pijama Hombre  Gris  Medium Grey 036   XX-Large](https://www.amazon.es/dp/B07G44FXJ8/?tag=tolees-21) a 17.26 EUR (original: 69.95 EUR) (75.33 %  de descuento) en el siguiente enlace!

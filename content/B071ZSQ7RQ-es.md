@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Reebok Run Supreme 3.0  Zapatillas de Running para Hombre  Azul  Collegiate Navy/Smoky Indigo/Pewter/White   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071ZSQ7RQ/?tag=tolees-21'
+descuento: '43.69'
+titulo: 'Reebok Run Supreme 3.0  Zapatillas de Ru'
 ---
 
 Tienes [Reebok Run Supreme 3.0  Zapatillas de Running para Hombre  Azul  Collegiate Navy/Smoky Indigo/Pewter/White   40 EU](https://www.amazon.es/dp/B071ZSQ7RQ/?tag=tolees-21) con un 43.69 % de descuento con precio de oferta de 30.94 EUR (original: 54.95 EUR) en el siguiente enlace!

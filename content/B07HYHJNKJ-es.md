@@ -17,6 +17,9 @@ comparePrice: 105 EUR
 inStock: true
 prodname: 'Saucony Shadow 5000 Vintage  Zapatillas de Gimnasia Unisex Adulto  Turquesa  Teal/White/Black 5   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HYHJNKJ/?tag=tolees-21'
+descuento: '66.11'
+titulo: 'Saucony Shadow 5000 Vintage  Zapatillas '
 ---
 
 Está [Saucony Shadow 5000 Vintage  Zapatillas de Gimnasia Unisex Adulto  Turquesa  Teal/White/Black 5   38 EU](https://www.amazon.es/dp/B07HYHJNKJ/?tag=tolees-21) con 66.11 de descuento por 35.58 EUR (original: 105 EUR) en el siguiente enlace!

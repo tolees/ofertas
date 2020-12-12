@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Elite Flex-Hartnell  Zapatillas sin Cordones para Hombre  Negro  Black/Grey   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X9R4HJN/?tag=tolees-21'
+descuento: '35.67'
+titulo: 'Skechers Elite Flex-Hartnell  Zapatillas'
 ---
 
 Está [Skechers Elite Flex-Hartnell  Zapatillas sin Cordones para Hombre  Negro  Black/Grey   40 EU](https://www.amazon.es/dp/B06X9R4HJN/?tag=tolees-21) con 35.67 de descuento por 45 EUR (original: 69.95 EUR) en el siguiente enlace!

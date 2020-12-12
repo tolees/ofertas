@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Odlo Midlayer 1/2 Zip Royale Forro Polar  Niños  Rosa  Hibiscus   164'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DDT43T2/?tag=tolees-21'
+descuento: '64.21'
+titulo: 'Odlo Midlayer 1/2 Zip Royale Forro Polar'
 ---
 
 Está [Odlo Midlayer 1/2 Zip Royale Forro Polar  Niños  Rosa  Hibiscus   164](https://www.amazon.es/dp/B07DDT43T2/?tag=tolees-21) con 64.21 de descuento por 12.51 EUR (original: 34.95 EUR) en el siguiente enlace!

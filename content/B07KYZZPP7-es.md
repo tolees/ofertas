@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 2DR C/Doble Torzal Estruc Jersey   Gama Grises 43   Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYZZPP7/?tag=tolees-21'
+descuento: '56.49'
+titulo: 'Springfield 2DR C/Doble Torzal Estruc Je'
 ---
 
 Ahora mismo tienes [Springfield 2DR C/Doble Torzal Estruc Jersey   Gama Grises 43   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07KYZZPP7/?tag=tolees-21) a 13.05 EUR (original: 29.99 EUR) (56.49 %  de descuento) en el siguiente enlace!

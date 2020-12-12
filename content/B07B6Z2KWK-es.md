@@ -17,6 +17,9 @@ comparePrice: 41.16 EUR
 inStock: true
 prodname: 'Sophie La Girafe 220124.0 - Set de comida So Pure'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B6Z2KWK/?tag=tolees-21'
+descuento: '45.89'
+titulo: 'Sophie La Girafe 220124.0 - Set de comid'
 ---
 
 Tienes [Sophie La Girafe 220124.0 - Set de comida So Pure](https://www.amazon.es/dp/B07B6Z2KWK/?tag=tolees-21) con un 45.89 % de descuento con precio de oferta de 22.27 EUR (original: 41.16 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Bombilla WiFi Inteligente  Avatar Controls Inalambrica LED E14 7W Luz RGBW Regulable Control Remoto Compatible con Amazon Alexa Google Assistant IFTTT'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HC4T35Y/?tag=tolees-21'
+descuento: '54.57'
+titulo: 'Bombilla WiFi Inteligente  Avatar Contro'
 ---
 
 Está [Bombilla WiFi Inteligente  Avatar Controls Inalambrica LED E14 7W Luz RGBW Regulable Control Remoto Compatible con Amazon Alexa Google Assistant IFTTT](https://www.amazon.es/dp/B07HC4T35Y/?tag=tolees-21) con 54.57 de descuento por 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!

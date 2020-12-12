@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Osram 816947 Bombilla LED E27  Blanco  6 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QS4SKS/?tag=tolees-21'
+descuento: '78.76'
+titulo: 'Osram 816947 Bombilla LED E27  Blanco  6'
 ---
 
 Ahora mismo tienes [Osram 816947 Bombilla LED E27  Blanco  6 Unidades](https://www.amazon.es/dp/B073QS4SKS/?tag=tolees-21) a 12.74 EUR (original: 59.99 EUR) (78.76 %  de descuento) en el siguiente enlace!

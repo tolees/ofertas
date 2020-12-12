@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'ALCATEL 3L Smartphone Quad Core 1.28 GHz  Android O  5.5" HD+ 18:9  1440x720p  4G  Cámara de 13Mpx y Frontal 5Mpx  2GB de RAM  16GB de ROM   Dorado '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CGSKN86/?tag=tolees-21'
+descuento: '37.49'
+titulo: 'ALCATEL 3L Smartphone Quad Core 1.28 GHz'
 ---
 
 Tienes [ALCATEL 3L Smartphone Quad Core 1.28 GHz  Android O  5.5" HD+ 18:9  1440x720p  4G  Cámara de 13Mpx y Frontal 5Mpx  2GB de RAM  16GB de ROM   Dorado ](https://www.amazon.es/dp/B07CGSKN86/?tag=tolees-21) con un 37.49 % de descuento con precio de oferta de 75 EUR (original: 119.99 EUR) en el siguiente enlace!

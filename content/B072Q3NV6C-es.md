@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Reebok Instalite Run  Zapatillas de Running para Hombre  Negro  Black/Coal / White/Silver   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072Q3NV6C/?tag=tolees-21'
+descuento: '36.69'
+titulo: 'Reebok Instalite Run  Zapatillas de Runn'
 ---
 
 Tienes [Reebok Instalite Run  Zapatillas de Running para Hombre  Negro  Black/Coal / White/Silver   42 EU](https://www.amazon.es/dp/B072Q3NV6C/?tag=tolees-21) con un 36.69 % de descuento con precio de oferta de 41.12 EUR (original: 64.95 EUR) en el siguiente enlace!

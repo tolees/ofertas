@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Nike Benassi Jdi  Chanclas Unisex Adulto  Negro  Black/White   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CFQISI8/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Nike Benassi Jdi  Chanclas Unisex Adulto'
 ---
 
 Ahora mismo tienes [Nike Benassi Jdi  Chanclas Unisex Adulto  Negro  Black/White   37.5 EU](https://www.amazon.es/dp/B00CFQISI8/?tag=tolees-21) a 19.6 EUR (original: 28 EUR) (30.00 %  de descuento) en el siguiente enlace!

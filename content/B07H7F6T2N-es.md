@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Adidas X 18.4 in J  Botas de fútbol Unisex niño  000  28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H7F6T2N/?tag=tolees-21'
+descuento: '41.53'
+titulo: 'Adidas X 18.4 in J  Botas de fútbol Unis'
 ---
 
 Está [Adidas X 18.4 in J  Botas de fútbol Unisex niño  000  28 EU](https://www.amazon.es/dp/B07H7F6T2N/?tag=tolees-21) con 41.53 de descuento por 23.36 EUR (original: 39.95 EUR) en el siguiente enlace!

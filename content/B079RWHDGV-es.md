@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans London Arcade Nylon  Botas para Niños  Azul  Navy 595   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RWHDGV/?tag=tolees-21'
+descuento: '68.62'
+titulo: 'Pepe Jeans London Arcade Nylon  Botas pa'
 ---
 
 Está [Pepe Jeans London Arcade Nylon  Botas para Niños  Azul  Navy 595   36 EU](https://www.amazon.es/dp/B079RWHDGV/?tag=tolees-21) con 68.62 de descuento por 20.4 EUR (original: 65 EUR) en el siguiente enlace!

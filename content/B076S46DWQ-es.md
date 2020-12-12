@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Under Armour UA Torch Low  Zapatos de Baloncesto para Hombre  Negro  Black/Charcoal   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076S46DWQ/?tag=tolees-21'
+descuento: '37.89'
+titulo: 'Under Armour UA Torch Low  Zapatos de Ba'
 ---
 
 Ahora mismo tienes [Under Armour UA Torch Low  Zapatos de Baloncesto para Hombre  Negro  Black/Charcoal   41 EU](https://www.amazon.es/dp/B076S46DWQ/?tag=tolees-21) a 52.79 EUR (original: 85 EUR) (37.89 %  de descuento) en el siguiente enlace!

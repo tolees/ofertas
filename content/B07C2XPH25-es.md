@@ -17,6 +17,9 @@ comparePrice: 461.69 EUR
 inStock: true
 prodname: 'Michael Kors - Addison  Bolsos totes Mujer  Gris  Truffle   18x10x28 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C2XPH25/?tag=tolees-21'
+descuento: '65.44'
+titulo: 'Michael Kors - Addison  Bolsos totes Muj'
 ---
 
 Está [Michael Kors - Addison  Bolsos totes Mujer  Gris  Truffle   18x10x28 cm  W x H x L ](https://www.amazon.es/dp/B07C2XPH25/?tag=tolees-21) con 65.44 de descuento por 159.58 EUR (original: 461.69 EUR) en el siguiente enlace!

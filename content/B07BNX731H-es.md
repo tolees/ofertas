@@ -17,6 +17,9 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Columbia Camden Outdry Leather Chukka  Botas Casual  Impermeable para Hombre  Marrón  Cordovan  Grey   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BNX731H/?tag=tolees-21'
+descuento: '52.31'
+titulo: 'Columbia Camden Outdry Leather Chukka  B'
 ---
 
 Tienes [Columbia Camden Outdry Leather Chukka  Botas Casual  Impermeable para Hombre  Marrón  Cordovan  Grey   43 EU](https://www.amazon.es/dp/B07BNX731H/?tag=tolees-21) con un 52.31 % de descuento con precio de oferta de 71.53 EUR (original: 149.99 EUR) en el siguiente enlace!

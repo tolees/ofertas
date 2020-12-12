@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Missborderlike - Agenda Anual 2019 - Cine  desde septiembre 2018 a diciembre 2019 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H96XTQW/?tag=tolees-21'
+descuento: '25.08'
+titulo: 'Missborderlike - Agenda Anual 2019 - Cin'
 ---
 
 Está [Missborderlike - Agenda Anual 2019 - Cine  desde septiembre 2018 a diciembre 2019 ](https://www.amazon.es/dp/B07H96XTQW/?tag=tolees-21) con 25.08 de descuento por 11.95 EUR (original: 15.95 EUR) en el siguiente enlace!

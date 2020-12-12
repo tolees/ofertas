@@ -17,6 +17,9 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'Joma - Camiseta Record Rosa Fluor-Negro m/c para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0107SD5DI/?tag=tolees-21'
+descuento: '53.76'
+titulo: 'Joma - Camiseta Record Rosa Fluor-Negro '
 ---
 
 Está [Joma - Camiseta Record Rosa Fluor-Negro m/c para Hombre](https://www.amazon.es/dp/B0107SD5DI/?tag=tolees-21) con 53.76 de descuento por 6.45 EUR (original: 13.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'The North Face Y Crew Jersey Box Drew Peak  Unisex niños  New Taupe Green  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB3PZY5/?tag=tolees-21'
+descuento: '48.89'
+titulo: 'The North Face Y Crew Jersey Box Drew Pe'
 ---
 
 Tienes [The North Face Y Crew Jersey Box Drew Peak  Unisex niños  New Taupe Green  M](https://www.amazon.es/dp/B07BB3PZY5/?tag=tolees-21) con un 48.89 % de descuento con precio de oferta de 23 EUR (original: 45 EUR) en el siguiente enlace!

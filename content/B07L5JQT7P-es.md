@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Cocoda Soporte Móvil Bicicleta  Soporte Móvil Bici  360° Ajustable Manillar de Silicona para Bici Motocicleta  Universal Soporte para 4.7’’ - 6.5’’ Smartphones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L5JQT7P/?tag=tolees-21'
+descuento: '47.09'
+titulo: 'Cocoda Soporte Móvil Bicicleta  Soporte '
 ---
 
 Está [Cocoda Soporte Móvil Bicicleta  Soporte Móvil Bici  360° Ajustable Manillar de Silicona para Bici Motocicleta  Universal Soporte para 4.7’’ - 6.5’’ Smartphones](https://www.amazon.es/dp/B07L5JQT7P/?tag=tolees-21) con 47.09 de descuento por 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!

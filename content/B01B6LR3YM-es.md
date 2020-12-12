@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Puma ST Trainer EVO Gleam V Inf  Zapatillas para Niñas  Negro Black 01  19 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B6LR3YM/?tag=tolees-21'
+descuento: '76.11'
+titulo: 'Puma ST Trainer EVO Gleam V Inf  Zapatil'
 ---
 
 Está [Puma ST Trainer EVO Gleam V Inf  Zapatillas para Niñas  Negro Black 01  19 EU](https://www.amazon.es/dp/B01B6LR3YM/?tag=tolees-21) con 76.11 de descuento por 8.36 EUR (original: 35 EUR) en el siguiente enlace!

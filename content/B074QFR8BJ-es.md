@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Lámpara de Techo I Lámpara para baño I Ø 290 mm I Moderno LED plafon I Cocina - Dormitorio I Módulo LED I Protección contra el agua I Color de la luz blanco cálido I IP44 I 15 W I'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074QFR8BJ/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'Lámpara de Techo I Lámpara para baño I Ø'
 ---
 
 Está [Lámpara de Techo I Lámpara para baño I Ø 290 mm I Moderno LED plafon I Cocina - Dormitorio I Módulo LED I Protección contra el agua I Color de la luz blanco cálido I IP44 I 15 W I](https://www.amazon.es/dp/B074QFR8BJ/?tag=tolees-21) con 50.06 de descuento por 19.95 EUR (original: 39.95 EUR) en el siguiente enlace!

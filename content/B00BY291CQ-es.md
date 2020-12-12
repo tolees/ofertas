@@ -17,6 +17,9 @@ comparePrice: 37 EUR
 inStock: true
 prodname: 'Casio Reloj Digital para Unisex de Cuarzo con Correa en Resina W-215H-7AVEF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BY291CQ/?tag=tolees-21'
+descuento: '51.65'
+titulo: 'Casio Reloj Digital para Unisex de Cuarz'
 ---
 
 Tienes [Casio Reloj Digital para Unisex de Cuarzo con Correa en Resina W-215H-7AVEF](https://www.amazon.es/dp/B00BY291CQ/?tag=tolees-21) con un 51.65 % de descuento con precio de oferta de 17.89 EUR (original: 37 EUR) en el siguiente enlace!

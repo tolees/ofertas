@@ -17,6 +17,9 @@ comparePrice: 204.95 EUR
 inStock: true
 prodname: 'SHIMANO 80098551 Cable de Freno  Adultos Unisex  Gris  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007TVGGTC/?tag=tolees-21'
+descuento: '29.34'
+titulo: 'SHIMANO 80098551 Cable de Freno  Adultos'
 ---
 
 Está [SHIMANO 80098551 Cable de Freno  Adultos Unisex  Gris  Talla Única](https://www.amazon.es/dp/B007TVGGTC/?tag=tolees-21) con 29.34 de descuento por 144.82 EUR (original: 204.95 EUR) en el siguiente enlace!

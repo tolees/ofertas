@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'DKNY Medium Carryall  Cartera de Mano para Mujer  Azul  Cadet   4.3x10.16x15.24 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9R9PC2/?tag=tolees-21'
+descuento: '56.76'
+titulo: 'DKNY Medium Carryall  Cartera de Mano pa'
 ---
 
 Tienes [DKNY Medium Carryall  Cartera de Mano para Mujer  Azul  Cadet   4.3x10.16x15.24 cm  W x H x L ](https://www.amazon.es/dp/B01N9R9PC2/?tag=tolees-21) con un 56.76 % de descuento con precio de oferta de 69.19 EUR (original: 160 EUR) en el siguiente enlace!

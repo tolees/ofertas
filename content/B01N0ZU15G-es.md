@@ -17,6 +17,9 @@ comparePrice: 38 EUR
 inStock: true
 prodname: 'SYROKAN - Sujetador Deportivo con Aros Preformado Tallas Grandes Run para Mujer Beige ES:95C  EU 80C '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0ZU15G/?tag=tolees-21'
+descuento: '44.76'
+titulo: 'SYROKAN - Sujetador Deportivo con Aros P'
 ---
 
 Está [SYROKAN - Sujetador Deportivo con Aros Preformado Tallas Grandes Run para Mujer Beige ES:95C  EU 80C ](https://www.amazon.es/dp/B01N0ZU15G/?tag=tolees-21) con 44.76 de descuento por 20.99 EUR (original: 38 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Wand Massager  Magic Masajeador Eléctrico de Masaje Corporal Inalámbrica  Impermeable y Recargable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NL557LC/?tag=tolees-21'
+descuento: '52.86'
+titulo: 'Wand Massager  Magic Masajeador Eléctric'
 ---
 
 Tienes [Wand Massager  Magic Masajeador Eléctrico de Masaje Corporal Inalámbrica  Impermeable y Recargable](https://www.amazon.es/dp/B07NL557LC/?tag=tolees-21) con un 52.86 % de descuento con precio de oferta de 32.99 EUR (original: 69.99 EUR) en el siguiente enlace!

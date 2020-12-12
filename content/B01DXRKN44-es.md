@@ -17,6 +17,9 @@ comparePrice: 499 EUR
 inStock: true
 prodname: 'Baby Jogger City Mini GT - Silla de paseo  Negro/Denim'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DXRKN44/?tag=tolees-21'
+descuento: '28.06'
+titulo: 'Baby Jogger City Mini GT - Silla de pase'
 ---
 
 Tienes [Baby Jogger City Mini GT - Silla de paseo  Negro/Denim](https://www.amazon.es/dp/B01DXRKN44/?tag=tolees-21) con un 28.06 % de descuento con precio de oferta de 359 EUR (original: 499 EUR) en el siguiente enlace!

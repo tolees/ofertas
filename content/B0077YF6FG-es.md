@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Columbia Mujer Pantalón  Silver Ridge  Castaño  Fossil   Talla: 44'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0077YF6FG/?tag=tolees-21'
+descuento: '61.46'
+titulo: 'Columbia Mujer Pantalón  Silver Ridge  C'
 ---
 
 Ahora mismo tienes [Columbia Mujer Pantalón  Silver Ridge  Castaño  Fossil   Talla: 44](https://www.amazon.es/dp/B0077YF6FG/?tag=tolees-21) a 25.03 EUR (original: 64.95 EUR) (61.46 %  de descuento) en el siguiente enlace!

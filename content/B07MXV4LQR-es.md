@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'ITSHINY luz Bicicleta  Luces para Bicicleta LED Recargable e Impermeable - Combinaciones de Faros Delanteros y Luces Traseras Super Brillantes Fáciles Instalar para Ciclismo Carretera Montaña'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MXV4LQR/?tag=tolees-21'
+descuento: '43.35'
+titulo: 'ITSHINY luz Bicicleta  Luces para Bicicl'
 ---
 
 Ahora mismo tienes [ITSHINY luz Bicicleta  Luces para Bicicleta LED Recargable e Impermeable - Combinaciones de Faros Delanteros y Luces Traseras Super Brillantes Fáciles Instalar para Ciclismo Carretera Montaña](https://www.amazon.es/dp/B07MXV4LQR/?tag=tolees-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'New Balance 800  Zapatillas Unisex Niños  Gris  Light Grey/Black Gy   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG225SG/?tag=tolees-21'
+descuento: '63.97'
+titulo: 'New Balance 800  Zapatillas Unisex Niños'
 ---
 
 Está [New Balance 800  Zapatillas Unisex Niños  Gris  Light Grey/Black Gy   38 EU](https://www.amazon.es/dp/B07DG225SG/?tag=tolees-21) con 63.97 de descuento por 21.62 EUR (original: 60 EUR) en el siguiente enlace!

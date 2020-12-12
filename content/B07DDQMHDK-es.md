@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Pandora Charms con cierre Mujer plata - 797227NYA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DDQMHDK/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Pandora Charms con cierre Mujer plata - '
 ---
 
 Está [Pandora Charms con cierre Mujer plata - 797227NYA](https://www.amazon.es/dp/B07DDQMHDK/?tag=tolees-21) con 50.00 de descuento por 19.5 EUR (original: 39 EUR) en el siguiente enlace!

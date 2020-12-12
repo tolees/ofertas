@@ -17,6 +17,9 @@ comparePrice: 21.95 EUR
 inStock: true
 prodname: 'HIKARO Pantalón Corto Short para Mujer  Azul  Navy   42  Talla del fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y6VP3D/?tag=tolees-21'
+descuento: '60.46'
+titulo: 'HIKARO Pantalón Corto Short para Mujer  '
 ---
 
 Ahora mismo tienes [HIKARO Pantalón Corto Short para Mujer  Azul  Navy   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B077Y6VP3D/?tag=tolees-21) a 8.68 EUR (original: 21.95 EUR) (60.46 %  de descuento) en el siguiente enlace!

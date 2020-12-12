@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'ESPRIT mit Gürtel  Pantalones Hombre  Morado  AUBERGINE   W32/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HTZRCG8/?tag=tolees-21'
+descuento: '80.38'
+titulo: 'ESPRIT mit Gürtel  Pantalones Hombre  Mo'
 ---
 
 Tienes [ESPRIT mit Gürtel  Pantalones Hombre  Morado  AUBERGINE   W32/L34](https://www.amazon.es/dp/B01HTZRCG8/?tag=tolees-21) con un 80.38 % de descuento con precio de oferta de 9.81 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Only Onljosephine Fur Parka CC Otw  Rosa  Misty Rose Detail: Solid   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLW6BKJ/?tag=tolees-21'
+descuento: '73.46'
+titulo: 'Only Onljosephine Fur Parka CC Otw  Rosa'
 ---
 
 Está [Only Onljosephine Fur Parka CC Otw  Rosa  Misty Rose Detail: Solid   36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07FLW6BKJ/?tag=tolees-21) con 73.46 de descuento por 23.88 EUR (original: 89.99 EUR) en el siguiente enlace!

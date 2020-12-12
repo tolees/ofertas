@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'RIP CURL Surf Check Jacket Chaqueta  Mujer  Steel Marle  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPZV5PK/?tag=tolees-21'
+descuento: '37.44'
+titulo: 'RIP CURL Surf Check Jacket Chaqueta  Muj'
 ---
 
 Tienes [RIP CURL Surf Check Jacket Chaqueta  Mujer  Steel Marle  XL](https://www.amazon.es/dp/B07FPZV5PK/?tag=tolees-21) con un 37.44 % de descuento con precio de oferta de 62.55 EUR (original: 99.99 EUR) en el siguiente enlace!

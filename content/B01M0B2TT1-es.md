@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Hackett Clothing Pinpoint Single Cuff  Camisa Hombre  Blanco  White   15 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M0B2TT1/?tag=tolees-21'
+descuento: '58.07'
+titulo: 'Hackett Clothing Pinpoint Single Cuff  C'
 ---
 
 Está [Hackett Clothing Pinpoint Single Cuff  Camisa Hombre  Blanco  White   15 UK ](https://www.amazon.es/dp/B01M0B2TT1/?tag=tolees-21) con 58.07 de descuento por 41.93 EUR (original: 100 EUR) en el siguiente enlace!

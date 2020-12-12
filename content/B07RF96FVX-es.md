@@ -17,6 +17,9 @@ comparePrice: 23.36 EUR
 inStock: true
 prodname: 'New Look Button Front Monos Cortos  Azul  Blue Pattern 49   40  Talla del Fabricante: 12  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RF96FVX/?tag=tolees-21'
+descuento: '40.07'
+titulo: 'New Look Button Front Monos Cortos  Azul'
 ---
 
 Está [New Look Button Front Monos Cortos  Azul  Blue Pattern 49   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07RF96FVX/?tag=tolees-21) con 40.07 de descuento por 14 EUR (original: 23.36 EUR) en el siguiente enlace!

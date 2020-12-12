@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Lee Daren Zip Fly  Jeans Hombre  Negro  Black Rinse   W32/L34  Talla del fabricante: 32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IST3AEC/?tag=tolees-21'
+descuento: '33.37'
+titulo: 'Lee Daren Zip Fly  Jeans Hombre  Negro  '
 ---
 
 Está [Lee Daren Zip Fly  Jeans Hombre  Negro  Black Rinse   W32/L34  Talla del fabricante: 32 ](https://www.amazon.es/dp/B01IST3AEC/?tag=tolees-21) con 33.37 de descuento por 29.95 EUR (original: 44.95 EUR) en el siguiente enlace!

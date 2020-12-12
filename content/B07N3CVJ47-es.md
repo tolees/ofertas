@@ -17,6 +17,9 @@ comparePrice: 53.95 EUR
 inStock: true
 prodname: 'Munich G-3 Kid Glow  Zapatillas de Deporte Unisex niño  Plateado  Gris 970   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3CVJ47/?tag=tolees-21'
+descuento: '53.20'
+titulo: 'Munich G-3 Kid Glow  Zapatillas de Depor'
 ---
 
 Tienes [Munich G-3 Kid Glow  Zapatillas de Deporte Unisex niño  Plateado  Gris 970   35 EU](https://www.amazon.es/dp/B07N3CVJ47/?tag=tolees-21) con un 53.20 % de descuento con precio de oferta de 25.25 EUR (original: 53.95 EUR) en el siguiente enlace!

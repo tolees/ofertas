@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'WWE Figura Jericho Old School Funko 14253'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BXFK42/?tag=tolees-21'
+descuento: '33.62'
+titulo: 'WWE Figura Jericho Old School Funko 1425'
 ---
 
 Tienes [WWE Figura Jericho Old School Funko 14253](https://www.amazon.es/dp/B072BXFK42/?tag=tolees-21) con un 33.62 % de descuento con precio de oferta de 9.95 EUR (original: 14.99 EUR) en el siguiente enlace!

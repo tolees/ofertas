@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Women s Secret PS PU Cute PJ FR Conjuntos de Pijama  Mujer  Rosa  Pinks 72   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ8QCYG/?tag=tolees-21'
+descuento: '59.63'
+titulo: 'Women s Secret PS PU Cute PJ FR Conjunto'
 ---
 
 Tienes [Women s Secret PS PU Cute PJ FR Conjuntos de Pijama  Mujer  Rosa  Pinks 72   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KZ8QCYG/?tag=tolees-21) con un 59.63 % de descuento con precio de oferta de 11.3 EUR (original: 27.99 EUR) en el siguiente enlace!

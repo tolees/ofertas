@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Nike Quest  Zapatillas de Running para Hombre  Gris  Vapste Grey/Volt/Gunsmoke/Bright 003   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001LPALSE/?tag=tolees-21'
+descuento: '53.31'
+titulo: 'Nike Quest  Zapatillas de Running para H'
 ---
 
 Está [Nike Quest  Zapatillas de Running para Hombre  Gris  Vapste Grey/Volt/Gunsmoke/Bright 003   38.5 EU](https://www.amazon.es/dp/B001LPALSE/?tag=tolees-21) con 53.31 de descuento por 35.02 EUR (original: 75 EUR) en el siguiente enlace!

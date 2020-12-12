@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Persist XT  Zapatillas de Deporte para Hombre  Azul  Peacoat White   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBZ43HL/?tag=tolees-21'
+descuento: '50.88'
+titulo: 'Puma Persist XT  Zapatillas de Deporte p'
 ---
 
 Ahora mismo tienes [Puma Persist XT  Zapatillas de Deporte para Hombre  Azul  Peacoat White   44 EU](https://www.amazon.es/dp/B07DBZ43HL/?tag=tolees-21) a 29.45 EUR (original: 59.95 EUR) (50.88 %  de descuento) en el siguiente enlace!

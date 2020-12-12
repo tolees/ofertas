@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Wrangler Denim Short Pantalones Cortos  Azul  Mid Rocks 32e   W29 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYZK3MG/?tag=tolees-21'
+descuento: '61.48'
+titulo: 'Wrangler Denim Short Pantalones Cortos  '
 ---
 
 Está [Wrangler Denim Short Pantalones Cortos  Azul  Mid Rocks 32e   W29 para Hombre](https://www.amazon.es/dp/B07FYZK3MG/?tag=tolees-21) con 61.48 de descuento por 23.09 EUR (original: 59.95 EUR) en el siguiente enlace!

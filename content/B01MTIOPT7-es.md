@@ -17,6 +17,9 @@ comparePrice: 28.9 EUR
 inStock: true
 prodname: 'Thermaltake C1000 - Refrigerante Opaco  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTIOPT7/?tag=tolees-21'
+descuento: '48.13'
+titulo: 'Thermaltake C1000 - Refrigerante Opaco  '
 ---
 
 Ahora mismo tienes [Thermaltake C1000 - Refrigerante Opaco  Color Negro](https://www.amazon.es/dp/B01MTIOPT7/?tag=tolees-21) a 14.99 EUR (original: 28.9 EUR) (48.13 %  de descuento) en el siguiente enlace!

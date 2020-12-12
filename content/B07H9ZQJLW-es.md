@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'LANGRIA Cortinas Bloqueo de Luz sin Arrugas  con 2 Tie-Backs Decorativos  2 Paneles de Cortina  para la Oficina de la Sala y Dormitorio  1 Par  135 * 180cm  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H9ZQJLW/?tag=tolees-21'
+descuento: '85.02'
+titulo: 'LANGRIA Cortinas Bloqueo de Luz sin Arru'
 ---
 
 Está [LANGRIA Cortinas Bloqueo de Luz sin Arrugas  con 2 Tie-Backs Decorativos  2 Paneles de Cortina  para la Oficina de la Sala y Dormitorio  1 Par  135 * 180cm  Blanco ](https://www.amazon.es/dp/B07H9ZQJLW/?tag=tolees-21) con 85.02 de descuento por 5.99 EUR (original: 39.99 EUR) en el siguiente enlace!

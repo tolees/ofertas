@@ -17,6 +17,9 @@ comparePrice: 22.25 EUR
 inStock: true
 prodname: 'REDKEN CURVACEOUS ringlet 180 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009GPKW0S/?tag=tolees-21'
+descuento: '43.37'
+titulo: 'REDKEN CURVACEOUS ringlet 180 ml'
 ---
 
 Tienes [REDKEN CURVACEOUS ringlet 180 ml](https://www.amazon.es/dp/B009GPKW0S/?tag=tolees-21) con un 43.37 % de descuento con precio de oferta de 12.6 EUR (original: 22.25 EUR) en el siguiente enlace!

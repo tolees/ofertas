@@ -17,6 +17,9 @@ comparePrice: 20.01 EUR
 inStock: true
 prodname: 'Monogram- Marvel Llavero Logo The Punisher   67482 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008RDZCS2/?tag=tolees-21'
+descuento: '72.11'
+titulo: 'Monogram- Marvel Llavero Logo The Punish'
 ---
 
 Está [Monogram- Marvel Llavero Logo The Punisher   67482 ](https://www.amazon.es/dp/B008RDZCS2/?tag=tolees-21) con 72.11 de descuento por 5.58 EUR (original: 20.01 EUR) en el siguiente enlace!

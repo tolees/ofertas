@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Clarks Tri Spark  Zapatillas para Hombre  Verde  Khaki   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B94XJXW/?tag=tolees-21'
+descuento: '35.04'
+titulo: 'Clarks Tri Spark  Zapatillas para Hombre'
 ---
 
 Ahora mismo tienes [Clarks Tri Spark  Zapatillas para Hombre  Verde  Khaki   39.5 EU](https://www.amazon.es/dp/B07B94XJXW/?tag=tolees-21) a 77.95 EUR (original: 120 EUR) (35.04 %  de descuento) en el siguiente enlace!

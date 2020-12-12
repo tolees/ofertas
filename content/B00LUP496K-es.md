@@ -17,6 +17,9 @@ comparePrice: 36.9 EUR
 inStock: true
 prodname: 'Crocs Freesail Clog Women  Zuecos para Mujer  Negro  Black   39/40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LUP496K/?tag=tolees-21'
+descuento: '43.09'
+titulo: 'Crocs Freesail Clog Women  Zuecos para M'
 ---
 
 Está [Crocs Freesail Clog Women  Zuecos para Mujer  Negro  Black   39/40 EU](https://www.amazon.es/dp/B00LUP496K/?tag=tolees-21) con 43.09 de descuento por 21 EUR (original: 36.9 EUR) en el siguiente enlace!

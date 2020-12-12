@@ -17,6 +17,9 @@ comparePrice: 124.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Warmlined Suede Rain Boot  Botas de Agua para Mujer  Azul  Midnight 403   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HCYRYGR/?tag=tolees-21'
+descuento: '61.19'
+titulo: 'Tommy Hilfiger Warmlined Suede Rain Boot'
 ---
 
 Está [Tommy Hilfiger Warmlined Suede Rain Boot  Botas de Agua para Mujer  Azul  Midnight 403   42 EU](https://www.amazon.es/dp/B07HCYRYGR/?tag=tolees-21) con 61.19 de descuento por 48.47 EUR (original: 124.9 EUR) en el siguiente enlace!

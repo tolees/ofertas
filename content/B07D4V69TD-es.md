@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Kappa Rescue Tex Kids  Botas Clasicas Unisex Niños  Azul  Navy/Orange 6744   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4V69TD/?tag=tolees-21'
+descuento: '55.31'
+titulo: 'Kappa Rescue Tex Kids  Botas Clasicas Un'
 ---
 
 Ahora mismo tienes [Kappa Rescue Tex Kids  Botas Clasicas Unisex Niños  Azul  Navy/Orange 6744   38 EU](https://www.amazon.es/dp/B07D4V69TD/?tag=tolees-21) a 26.79 EUR (original: 59.95 EUR) (55.31 %  de descuento) en el siguiente enlace!

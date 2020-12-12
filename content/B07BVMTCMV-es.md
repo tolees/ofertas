@@ -17,6 +17,9 @@ comparePrice: 174.96 EUR
 inStock: true
 prodname: 'Dormi Premium Elixir 30 - Colchón Viscoelástico  90 x 200 x 30 cm  Algodón/Poliuretano  Blanco/Gris  Individual'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BVMTCMV/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Dormi Premium Elixir 30 - Colchón Viscoe'
 ---
 
 Está [Dormi Premium Elixir 30 - Colchón Viscoelástico  90 x 200 x 30 cm  Algodón/Poliuretano  Blanco/Gris  Individual](https://www.amazon.es/dp/B07BVMTCMV/?tag=tolees-21) con 30.00 de descuento por 122.48 EUR (original: 174.96 EUR) en el siguiente enlace!

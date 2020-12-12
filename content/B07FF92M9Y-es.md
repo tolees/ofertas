@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Bollé Beat Cascos  Unisex Adulto  Blanco  Mate montañas   61-63 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FF92M9Y/?tag=tolees-21'
+descuento: '60.89'
+titulo: 'Bollé Beat Cascos  Unisex Adulto  Blanco'
 ---
 
 Tienes [Bollé Beat Cascos  Unisex Adulto  Blanco  Mate montañas   61-63 cm](https://www.amazon.es/dp/B07FF92M9Y/?tag=tolees-21) con un 60.89 % de descuento con precio de oferta de 34.81 EUR (original: 89 EUR) en el siguiente enlace!

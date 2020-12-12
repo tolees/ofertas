@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Paquete de 100 preservativos"Young 49mm" de AMOR para una sensación auténtica  real y extra húmeda  fabricados y testados en Alemania '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002SVBOZO/?tag=tolees-21'
+descuento: '66.65'
+titulo: 'Paquete de 100 preservativos"Young 49mm"'
 ---
 
 Ahora mismo tienes [Paquete de 100 preservativos"Young 49mm" de AMOR para una sensación auténtica  real y extra húmeda  fabricados y testados en Alemania ](https://www.amazon.es/dp/B002SVBOZO/?tag=tolees-21) a 14.99 EUR (original: 44.95 EUR) (66.65 %  de descuento) en el siguiente enlace!

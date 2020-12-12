@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Diva Professional Ultima 5000 Pro New Pink - Secador profesional  motor AC de larga vida y boquilla estrecha profesional  color rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004HYLX9C/?tag=tolees-21'
+descuento: '47.38'
+titulo: 'Diva Professional Ultima 5000 Pro New Pi'
 ---
 
 Está [Diva Professional Ultima 5000 Pro New Pink - Secador profesional  motor AC de larga vida y boquilla estrecha profesional  color rosa](https://www.amazon.es/dp/B004HYLX9C/?tag=tolees-21) con 47.38 de descuento por 49.99 EUR (original: 95 EUR) en el siguiente enlace!

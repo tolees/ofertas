@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Dockers Washed Khaki Skinny TPR Pantalones  Gris  Steelhead 0001   W32/L34 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N52MN3A/?tag=tolees-21'
+descuento: '34.36'
+titulo: 'Dockers Washed Khaki Skinny TPR Pantalon'
 ---
 
 Ahora mismo tienes [Dockers Washed Khaki Skinny TPR Pantalones  Gris  Steelhead 0001   W32/L34 para Hombre](https://www.amazon.es/dp/B01N52MN3A/?tag=tolees-21) a 45.95 EUR (original: 70 EUR) (34.36 %  de descuento) en el siguiente enlace!

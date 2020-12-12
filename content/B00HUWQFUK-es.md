@@ -17,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Fendi Brillengestelle FF 0003 7PE/16-52-16-140 Monturas de gafas  Marrón  Braun   52.0 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HUWQFUK/?tag=tolees-21'
+descuento: '33.17'
+titulo: 'Fendi Brillengestelle FF 0003 7PE/16-52-'
 ---
 
 Tienes [Fendi Brillengestelle FF 0003 7PE/16-52-16-140 Monturas de gafas  Marrón  Braun   52.0 para Mujer](https://www.amazon.es/dp/B00HUWQFUK/?tag=tolees-21) con un 33.17 % de descuento con precio de oferta de 133.65 EUR (original: 200 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 98.99 EUR
 inStock: true
 prodname: 'Lacoste Straightset BL 1 CAM NVY  Zapatillas para Hombre  Azul  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2VYCPY/?tag=tolees-21'
+descuento: '45.52'
+titulo: 'Lacoste Straightset BL 1 CAM NVY  Zapati'
 ---
 
 Tienes [Lacoste Straightset BL 1 CAM NVY  Zapatillas para Hombre  Azul  44.5 EU](https://www.amazon.es/dp/B01N2VYCPY/?tag=tolees-21) con un 45.52 % de descuento con precio de oferta de 53.93 EUR (original: 98.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 790 EUR
 inStock: true
 prodname: 'Salvatore Ferragamo Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SFDH00218'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CLLWCT4/?tag=tolees-21'
+descuento: '45.12'
+titulo: 'Salvatore Ferragamo Reloj Analógico para'
 ---
 
 Ahora mismo tienes [Salvatore Ferragamo Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SFDH00218](https://www.amazon.es/dp/B07CLLWCT4/?tag=tolees-21) a 433.59 EUR (original: 790 EUR) (45.12 %  de descuento) en el siguiente enlace!

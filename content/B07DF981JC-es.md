@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'TEENO Sierra circular  hoja de Ø185mm x 25.4 mm  4700 rpm  1400 W  230V'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DF981JC/?tag=tolees-21'
+descuento: '63.31'
+titulo: 'TEENO Sierra circular  hoja de Ø185mm x '
 ---
 
 Está [TEENO Sierra circular  hoja de Ø185mm x 25.4 mm  4700 rpm  1400 W  230V](https://www.amazon.es/dp/B07DF981JC/?tag=tolees-21) con 63.31 de descuento por 39.99 EUR (original: 109 EUR) en el siguiente enlace!

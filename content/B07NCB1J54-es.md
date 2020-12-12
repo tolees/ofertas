@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Elaine Falda  Naranja  Spice 193   Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NCB1J54/?tag=tolees-21'
+descuento: '49.36'
+titulo: 'Pepe Jeans Elaine Falda  Naranja  Spice '
 ---
 
 Ahora mismo tienes [Pepe Jeans Elaine Falda  Naranja  Spice 193   Small para Mujer](https://www.amazon.es/dp/B07NCB1J54/?tag=tolees-21) a 40.46 EUR (original: 79.9 EUR) (49.36 %  de descuento) en el siguiente enlace!

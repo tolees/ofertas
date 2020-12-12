@@ -17,6 +17,9 @@ comparePrice: 122.13 EUR
 inStock: true
 prodname: 'Benetton 2KN553395  Chaqueta Mujer  Azul  Navy   44 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IP7YW94/?tag=tolees-21'
+descuento: '84.46'
+titulo: 'Benetton 2KN553395  Chaqueta Mujer  Azul'
 ---
 
 Tienes [Benetton 2KN553395  Chaqueta Mujer  Azul  Navy   44 UK ](https://www.amazon.es/dp/B01IP7YW94/?tag=tolees-21) con un 84.46 % de descuento con precio de oferta de 18.98 EUR (original: 122.13 EUR) en el siguiente enlace!

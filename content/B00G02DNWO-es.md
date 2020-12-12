@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Superga 2750 Cotu Classic  Zapatillas Unisex Adulto  Rojo  Scarlet 104   35 EU  2.5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00G02DNWO/?tag=tolees-21'
+descuento: '74.00'
+titulo: 'Superga 2750 Cotu Classic  Zapatillas Un'
 ---
 
 Ahora mismo tienes [Superga 2750 Cotu Classic  Zapatillas Unisex Adulto  Rojo  Scarlet 104   35 EU  2.5 UK ](https://www.amazon.es/dp/B00G02DNWO/?tag=tolees-21) a 15.34 EUR (original: 59 EUR) (74.00 %  de descuento) en el siguiente enlace!

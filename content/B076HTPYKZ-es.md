@@ -17,6 +17,9 @@ comparePrice: 21.45 EUR
 inStock: true
 prodname: 'adidas Core18 Hoody Sudadera con Capucha  Unisex Niños  Rojo  Power Red/White   11-12 años  Size : 152 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076HTPYKZ/?tag=tolees-21'
+descuento: '25.64'
+titulo: 'adidas Core18 Hoody Sudadera con Capucha'
 ---
 
 Está [adidas Core18 Hoody Sudadera con Capucha  Unisex Niños  Rojo  Power Red/White   11-12 años  Size : 152 ](https://www.amazon.es/dp/B076HTPYKZ/?tag=tolees-21) con 25.64 de descuento por 15.95 EUR (original: 21.45 EUR) en el siguiente enlace!

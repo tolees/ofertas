@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Liga Training Rain Core Camiseta de equipación  Hombre  Azul  Electric Blue Lemonade White   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0781Z5MMP/?tag=tolees-21'
+descuento: '47.83'
+titulo: 'Puma Liga Training Rain Core Camiseta de'
 ---
 
 Tienes [Puma Liga Training Rain Core Camiseta de equipación  Hombre  Azul  Electric Blue Lemonade White   L](https://www.amazon.es/dp/B0781Z5MMP/?tag=tolees-21) con un 47.83 % de descuento con precio de oferta de 26.06 EUR (original: 49.95 EUR) en el siguiente enlace!

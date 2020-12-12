@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance 373  Zapatillas para Mujer  Negro  Black/Gold Ng   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EX3THNU/?tag=tolees-21'
+descuento: '53.35'
+titulo: 'New Balance 373  Zapatillas para Mujer  '
 ---
 
 Está [New Balance 373  Zapatillas para Mujer  Negro  Black/Gold Ng   37 EU](https://www.amazon.es/dp/B01EX3THNU/?tag=tolees-21) con 53.35 de descuento por 37.32 EUR (original: 80 EUR) en el siguiente enlace!

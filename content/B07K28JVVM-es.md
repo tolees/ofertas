@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Yung-96  Zapatillas de Gimnasia para Hombre  Gris Grey Two F17/Grey Three F17/Shock Pink  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K28JVVM/?tag=tolees-21'
+descuento: '65.39'
+titulo: 'adidas Yung-96  Zapatillas de Gimnasia p'
 ---
 
 Ahora mismo tienes [adidas Yung-96  Zapatillas de Gimnasia para Hombre  Gris Grey Two F17/Grey Three F17/Shock Pink  42 EU](https://www.amazon.es/dp/B07K28JVVM/?tag=tolees-21) a 34.59 EUR (original: 99.95 EUR) (65.39 %  de descuento) en el siguiente enlace!

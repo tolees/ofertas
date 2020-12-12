@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Go Walk Evolution Ultra-Reach  Zapatillas sin Cordones para Mujer  Gris  Grey Gry   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FL5LGLY/?tag=tolees-21'
+descuento: '31.74'
+titulo: 'Skechers Go Walk Evolution Ultra-Reach  '
 ---
 
 Tienes [Skechers Go Walk Evolution Ultra-Reach  Zapatillas sin Cordones para Mujer  Gris  Grey Gry   38 EU](https://www.amazon.es/dp/B07FL5LGLY/?tag=tolees-21) con un 31.74 % de descuento con precio de oferta de 40.92 EUR (original: 59.95 EUR) en el siguiente enlace!

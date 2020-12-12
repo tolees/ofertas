@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre Essential Pocket  Camiseta Manga Corta  Azul  Black Iris 002  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078LGTRB5/?tag=tolees-21'
+descuento: '46.89'
+titulo: 'Tommy Jeans Hombre Essential Pocket  Cam'
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre Essential Pocket  Camiseta Manga Corta  Azul  Black Iris 002  Large](https://www.amazon.es/dp/B078LGTRB5/?tag=tolees-21) a 18.59 EUR (original: 35 EUR) (46.89 %  de descuento) en el siguiente enlace!

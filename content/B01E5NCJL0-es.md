@@ -17,6 +17,9 @@ comparePrice: 10.96 EUR
 inStock: true
 prodname: 'Joma - Camiseta combi coral fluor m/c para hombre  Naranja  Coral   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01E5NCJL0/?tag=tolees-21'
+descuento: '45.71'
+titulo: 'Joma - Camiseta combi coral fluor m/c pa'
 ---
 
 Tienes [Joma - Camiseta combi coral fluor m/c para hombre  Naranja  Coral   L](https://www.amazon.es/dp/B01E5NCJL0/?tag=tolees-21) con un 45.71 % de descuento con precio de oferta de 5.95 EUR (original: 10.96 EUR) en el siguiente enlace!

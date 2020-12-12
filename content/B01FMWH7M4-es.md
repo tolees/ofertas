@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Biotherm - Contorno de ojos aquapower fresh eyes homme'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FMWH7M4/?tag=tolees-21'
+descuento: '38.00'
+titulo: 'Biotherm - Contorno de ojos aquapower fr'
 ---
 
 Tienes [Biotherm - Contorno de ojos aquapower fresh eyes homme](https://www.amazon.es/dp/B01FMWH7M4/?tag=tolees-21) con un 38.00 % de descuento con precio de oferta de 15.5 EUR (original: 25 EUR) en el siguiente enlace!

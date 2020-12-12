@@ -17,6 +17,9 @@ comparePrice: 89.98 EUR
 inStock: true
 prodname: 'Echo Dot  3.ª generación   tela de color gris oscuro + Amazon Smart Plug  compatible con Alexa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2Q1S8T/?tag=tolees-21'
+descuento: '38.90'
+titulo: 'Echo Dot  3.ª generación   tela de color'
 ---
 
 Tienes [Echo Dot  3.ª generación   tela de color gris oscuro + Amazon Smart Plug  compatible con Alexa](https://www.amazon.es/dp/B07H2Q1S8T/?tag=tolees-21) con un 38.90 % de descuento con precio de oferta de 54.98 EUR (original: 89.98 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 155 EUR
 inStock: true
 prodname: 'Panama Jack Panama 03 Wool  Botines para Mujer  Marrón  Bark B18   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079H1SHC4/?tag=tolees-21'
+descuento: '64.58'
+titulo: 'Panama Jack Panama 03 Wool  Botines para'
 ---
 
 Tienes [Panama Jack Panama 03 Wool  Botines para Mujer  Marrón  Bark B18   42 EU](https://www.amazon.es/dp/B079H1SHC4/?tag=tolees-21) con un 64.58 % de descuento con precio de oferta de 54.9 EUR (original: 155 EUR) en el siguiente enlace!

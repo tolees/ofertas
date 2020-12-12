@@ -17,6 +17,9 @@ comparePrice: 210 EUR
 inStock: true
 prodname: 'Timberland 6 in Premium Waterproof  Wide Fit   Botines para Mujer  Marrón  Rust Nubuck   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000V9OHE0/?tag=tolees-21'
+descuento: '53.08'
+titulo: 'Timberland 6 in Premium Waterproof  Wide'
 ---
 
 Tienes [Timberland 6 in Premium Waterproof  Wide Fit   Botines para Mujer  Marrón  Rust Nubuck   40 EU](https://www.amazon.es/dp/B000V9OHE0/?tag=tolees-21) con un 53.08 % de descuento con precio de oferta de 98.53 EUR (original: 210 EUR) en el siguiente enlace!

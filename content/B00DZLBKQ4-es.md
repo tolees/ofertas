@@ -17,6 +17,9 @@ comparePrice: 12.52 EUR
 inStock: true
 prodname: 'Japanparts FA-001S Filtro de aire'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DZLBKQ4/?tag=tolees-21'
+descuento: '35.62'
+titulo: 'Japanparts FA-001S Filtro de aire'
 ---
 
 Está [Japanparts FA-001S Filtro de aire](https://www.amazon.es/dp/B00DZLBKQ4/?tag=tolees-21) con 35.62 de descuento por 8.06 EUR (original: 12.52 EUR) en el siguiente enlace!

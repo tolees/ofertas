@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'edc by Esprit 088cc1e003  Vestido Mujer  Gris  Light Grey 5 044   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2N3W6Y/?tag=tolees-21'
+descuento: '71.68'
+titulo: 'edc by Esprit 088cc1e003  Vestido Mujer '
 ---
 
 Tienes [edc by Esprit 088cc1e003  Vestido Mujer  Gris  Light Grey 5 044   X-Large](https://www.amazon.es/dp/B07D2N3W6Y/?tag=tolees-21) con un 71.68 % de descuento con precio de oferta de 16.99 EUR (original: 59.99 EUR) en el siguiente enlace!

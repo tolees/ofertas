@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jfwhoughton Nubuck Burgundy  Zapatillas para Hombre  Morado  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071DQ4R1K/?tag=tolees-21'
+descuento: '73.62'
+titulo: 'JACK & JONES Jfwhoughton Nubuck Burgundy'
 ---
 
 Está [JACK & JONES Jfwhoughton Nubuck Burgundy  Zapatillas para Hombre  Morado  42 EU](https://www.amazon.es/dp/B071DQ4R1K/?tag=tolees-21) con 73.62 de descuento por 21.1 EUR (original: 79.99 EUR) en el siguiente enlace!

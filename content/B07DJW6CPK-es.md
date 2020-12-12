@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Only Onlshelly Short Hooded Jacket CC Otw Chaqueta  Rojo Scooter  42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJW6CPK/?tag=tolees-21'
+descuento: '64.69'
+titulo: 'Only Onlshelly Short Hooded Jacket CC Ot'
 ---
 
 Está [Only Onlshelly Short Hooded Jacket CC Otw Chaqueta  Rojo Scooter  42  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07DJW6CPK/?tag=tolees-21) con 64.69 de descuento por 17.65 EUR (original: 49.99 EUR) en el siguiente enlace!

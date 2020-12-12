@@ -17,6 +17,9 @@ comparePrice: 7.2 EUR
 inStock: true
 prodname: 'Tayg 21070037 Gaveta apilable nº55  336 x 216 x 200 mm   Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009QMAXKU/?tag=tolees-21'
+descuento: '39.03'
+titulo: 'Tayg 21070037 Gaveta apilable nº55  336 '
 ---
 
 Tienes [Tayg 21070037 Gaveta apilable nº55  336 x 216 x 200 mm   Azul ](https://www.amazon.es/dp/B009QMAXKU/?tag=tolees-21) con un 39.03 % de descuento con precio de oferta de 4.39 EUR (original: 7.2 EUR) en el siguiente enlace!

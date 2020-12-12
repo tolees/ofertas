@@ -17,6 +17,9 @@ comparePrice: 279 EUR
 inStock: true
 prodname: 'Philips Hue White ambiance Being - Lámpara colgante LED negra con mando  Iluminación inteligente  compatible con Amazon Alexa  Apple HomeKit y Google Assistant'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L99HC1A/?tag=tolees-21'
+descuento: '50.53'
+titulo: 'Philips Hue White ambiance Being - Lámpa'
 ---
 
 Ahora mismo tienes [Philips Hue White ambiance Being - Lámpara colgante LED negra con mando  Iluminación inteligente  compatible con Amazon Alexa  Apple HomeKit y Google Assistant](https://www.amazon.es/dp/B01L99HC1A/?tag=tolees-21) a 138.03 EUR (original: 279 EUR) (50.53 %  de descuento) en el siguiente enlace!

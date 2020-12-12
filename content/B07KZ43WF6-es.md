@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 3.G.MD.Bandas Contraste Pantalones   Gama Azules 15    Tamaño del Fabricante:34  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ43WF6/?tag=tolees-21'
+descuento: '65.69'
+titulo: 'Springfield 3.G.MD.Bandas Contraste Pant'
 ---
 
 Ahora mismo tienes [Springfield 3.G.MD.Bandas Contraste Pantalones   Gama Azules 15    Tamaño del Fabricante:34  para Mujer](https://www.amazon.es/dp/B07KZ43WF6/?tag=tolees-21) a 10.29 EUR (original: 29.99 EUR) (65.69 %  de descuento) en el siguiente enlace!

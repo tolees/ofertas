@@ -17,6 +17,9 @@ comparePrice: 115.99 EUR
 inStock: true
 prodname: 'AmazonBasics Colchón 2 en 1 en espuma híbrida con 2 niveles de rigidez  H3 semi firme y H4 firme  90x200 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFBT4LX/?tag=tolees-21'
+descuento: '48.28'
+titulo: 'AmazonBasics Colchón 2 en 1 en espuma hí'
 ---
 
 Ahora mismo tienes [AmazonBasics Colchón 2 en 1 en espuma híbrida con 2 niveles de rigidez  H3 semi firme y H4 firme  90x200 cm](https://www.amazon.es/dp/B07FFBT4LX/?tag=tolees-21) a 59.99 EUR (original: 115.99 EUR) (48.28 %  de descuento) en el siguiente enlace!

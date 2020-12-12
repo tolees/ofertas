@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Esprit 998ee2c804  Pantalones Cortos Hombre  Gris  Grey 030    Talla del Fabricante: 33 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077D2X7TT/?tag=tolees-21'
+descuento: '76.94'
+titulo: 'Esprit 998ee2c804  Pantalones Cortos Hom'
 ---
 
 Ahora mismo tienes [Esprit 998ee2c804  Pantalones Cortos Hombre  Gris  Grey 030    Talla del Fabricante: 33 ](https://www.amazon.es/dp/B077D2X7TT/?tag=tolees-21) a 11.53 EUR (original: 49.99 EUR) (76.94 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jfwmajor Textile Mix Navy Blazer  Zapatillas Altas para Hombre  Azul  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M7TJBGV/?tag=tolees-21'
+descuento: '68.22'
+titulo: 'JACK & JONES Jfwmajor Textile Mix Navy B'
 ---
 
 Ahora mismo tienes [JACK & JONES Jfwmajor Textile Mix Navy Blazer  Zapatillas Altas para Hombre  Azul  44 EU](https://www.amazon.es/dp/B01M7TJBGV/?tag=tolees-21) a 22.24 EUR (original: 69.99 EUR) (68.22 %  de descuento) en el siguiente enlace!

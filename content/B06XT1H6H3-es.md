@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'FIND DC1930L vaqueros mujer  Negro  Black   W28/L32  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XT1H6H3/?tag=tolees-21'
+descuento: '32.77'
+titulo: 'FIND DC1930L vaqueros mujer  Negro  Blac'
 ---
 
 Está [FIND DC1930L vaqueros mujer  Negro  Black   W28/L32  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06XT1H6H3/?tag=tolees-21) con 32.77 de descuento por 14.79 EUR (original: 22 EUR) en el siguiente enlace!

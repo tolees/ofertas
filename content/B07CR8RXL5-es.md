@@ -17,6 +17,9 @@ comparePrice: 255.1 EUR
 inStock: true
 prodname: 'Waterman Carène - Bolígrafo  adornos dorados  negro Deluxe  estuche de bolígrafos de cuero  set de regalo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CR8RXL5/?tag=tolees-21'
+descuento: '36.88'
+titulo: 'Waterman Carène - Bolígrafo  adornos dor'
 ---
 
 Ahora mismo tienes [Waterman Carène - Bolígrafo  adornos dorados  negro Deluxe  estuche de bolígrafos de cuero  set de regalo](https://www.amazon.es/dp/B07CR8RXL5/?tag=tolees-21) a 161.01 EUR (original: 255.1 EUR) (36.88 %  de descuento) en el siguiente enlace!

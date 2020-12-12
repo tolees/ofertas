@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma Axis  Zapatillas Unisex Adulto  Blanco White-High Rise 02  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2YPTR8/?tag=tolees-21'
+descuento: '27.30'
+titulo: 'Puma Axis  Zapatillas Unisex Adulto  Bla'
 ---
 
 Ahora mismo tienes [Puma Axis  Zapatillas Unisex Adulto  Blanco White-High Rise 02  44 EU](https://www.amazon.es/dp/B07F2YPTR8/?tag=tolees-21) a 39.95 EUR (original: 54.95 EUR) (27.30 %  de descuento) en el siguiente enlace!

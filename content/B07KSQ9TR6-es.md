@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Columbia 1832222 Powder Pass Vest Chaleco  Nylon  Hombre  Azul  Carbon   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSQ9TR6/?tag=tolees-21'
+descuento: '41.31'
+titulo: 'Columbia 1832222 Powder Pass Vest Chalec'
 ---
 
 Está [Columbia 1832222 Powder Pass Vest Chaleco  Nylon  Hombre  Azul  Carbon   L](https://www.amazon.es/dp/B07KSQ9TR6/?tag=tolees-21) con 41.31 de descuento por 46.95 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Asics Patriot 10  Zapatillas de Running para Mujer  Azul  Aquarium/White 400   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079J4ZDTG/?tag=tolees-21'
+descuento: '57.93'
+titulo: 'Asics Patriot 10  Zapatillas de Running '
 ---
 
 Ahora mismo tienes [Asics Patriot 10  Zapatillas de Running para Mujer  Azul  Aquarium/White 400   39 EU](https://www.amazon.es/dp/B079J4ZDTG/?tag=tolees-21) a 25.24 EUR (original: 60 EUR) (57.93 %  de descuento) en el siguiente enlace!

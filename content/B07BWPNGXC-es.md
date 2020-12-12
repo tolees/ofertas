@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Solenny - Silla marinera plegable para playa de aluminio  tejido textiline transpirable en color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BWPNGXC/?tag=tolees-21'
+descuento: '36.89'
+titulo: 'Solenny - Silla marinera plegable para p'
 ---
 
 Está [Solenny - Silla marinera plegable para playa de aluminio  tejido textiline transpirable en color azul](https://www.amazon.es/dp/B07BWPNGXC/?tag=tolees-21) con 36.89 de descuento por 18.9 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Tuscany Silver Cadena con Colgante de Plata para Mujer  46 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001H9O5AE/?tag=tolees-21'
+descuento: '84.98'
+titulo: 'Tuscany Silver Cadena con Colgante de Pl'
 ---
 
 Tienes [Tuscany Silver Cadena con Colgante de Plata para Mujer  46 cm](https://www.amazon.es/dp/B001H9O5AE/?tag=tolees-21) con un 84.98 % de descuento con precio de oferta de 8.86 EUR (original: 59 EUR) en el siguiente enlace!

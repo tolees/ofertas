@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'dothnix Vibrador Calentamiento Automático Mujer Masajeador de 7 Frecuancias de Silicona Suave'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RGCTDTN/?tag=tolees-21'
+descuento: '56.53'
+titulo: 'dothnix Vibrador Calentamiento Automátic'
 ---
 
 Está [dothnix Vibrador Calentamiento Automático Mujer Masajeador de 7 Frecuancias de Silicona Suave](https://www.amazon.es/dp/B07RGCTDTN/?tag=tolees-21) con 56.53 de descuento por 19.99 EUR (original: 45.99 EUR) en el siguiente enlace!

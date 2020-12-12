@@ -17,6 +17,9 @@ comparePrice: 50.4 EUR
 inStock: true
 prodname: 'Puma Universal II IT - Zapatillas Deportivas para Interior de Material sintético Hombre  Color Blanco  Talla 39'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PAG1IQE/?tag=tolees-21'
+descuento: '63.10'
+titulo: 'Puma Universal II IT - Zapatillas Deport'
 ---
 
 Está [Puma Universal II IT - Zapatillas Deportivas para Interior de Material sintético Hombre  Color Blanco  Talla 39](https://www.amazon.es/dp/B00PAG1IQE/?tag=tolees-21) con 63.10 de descuento por 18.6 EUR (original: 50.4 EUR) en el siguiente enlace!

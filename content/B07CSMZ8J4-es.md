@@ -17,6 +17,9 @@ comparePrice: 103.84 EUR
 inStock: true
 prodname: 'HOMIEE Cámara Endoscopio de Inspección Industrial. Impermeable Portátil IP67 con Pantalla LCD  Tubo de Cámara Semirrígido con Caja de Herramientas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSMZ8J4/?tag=tolees-21'
+descuento: '39.34'
+titulo: 'HOMIEE Cámara Endoscopio de Inspección I'
 ---
 
 Está [HOMIEE Cámara Endoscopio de Inspección Industrial. Impermeable Portátil IP67 con Pantalla LCD  Tubo de Cámara Semirrígido con Caja de Herramientas](https://www.amazon.es/dp/B07CSMZ8J4/?tag=tolees-21) con 39.34 de descuento por 62.99 EUR (original: 103.84 EUR) en el siguiente enlace!

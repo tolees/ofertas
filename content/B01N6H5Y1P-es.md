@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Maybelline New York Paleta de Labios Blushed Bombshell'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6H5Y1P/?tag=tolees-21'
+descuento: '54.89'
+titulo: 'Maybelline New York Paleta de Labios Blu'
 ---
 
 Está [Maybelline New York Paleta de Labios Blushed Bombshell](https://www.amazon.es/dp/B01N6H5Y1P/?tag=tolees-21) con 54.89 de descuento por 5.86 EUR (original: 12.99 EUR) en el siguiente enlace!

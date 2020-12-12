@@ -17,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'Lacoste 2010854 Westport - Reloj de pulsera analógico para hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BERK50W/?tag=tolees-21'
+descuento: '40.28'
+titulo: 'Lacoste 2010854 Westport - Reloj de puls'
 ---
 
 Tienes [Lacoste 2010854 Westport - Reloj de pulsera analógico para hombre](https://www.amazon.es/dp/B01BERK50W/?tag=tolees-21) con un 40.28 % de descuento con precio de oferta de 106.89 EUR (original: 179 EUR) en el siguiente enlace!

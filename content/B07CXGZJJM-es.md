@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'SET 7 en 1 Herramientas de Jardinería CookJoy Kit de Jardineria con asas ergonómicas  Tijeras  Llana  Paleta  Cincel  Cultivador  cuchara de tierra Una Bolsa de Tela de Vaquero Duradera'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CXGZJJM/?tag=tolees-21'
+descuento: '53.34'
+titulo: 'SET 7 en 1 Herramientas de Jardinería Co'
 ---
 
 Está [SET 7 en 1 Herramientas de Jardinería CookJoy Kit de Jardineria con asas ergonómicas  Tijeras  Llana  Paleta  Cincel  Cultivador  cuchara de tierra Una Bolsa de Tela de Vaquero Duradera](https://www.amazon.es/dp/B07CXGZJJM/?tag=tolees-21) con 53.34 de descuento por 27.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 16.19 EUR
 inStock: true
 prodname: 'Coches de Juguetes Vehiculos Miniature Excavadora Camion Juguete Carrera Construccion Juego para Niños 3 4 5  12 Pedazos '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFCQ3VY/?tag=tolees-21'
+descuento: '32.74'
+titulo: 'Coches de Juguetes Vehiculos Miniature E'
 ---
 
 Está [Coches de Juguetes Vehiculos Miniature Excavadora Camion Juguete Carrera Construccion Juego para Niños 3 4 5  12 Pedazos ](https://www.amazon.es/dp/B07DFCQ3VY/?tag=tolees-21) con 32.74 de descuento por 10.89 EUR (original: 16.19 EUR) en el siguiente enlace!

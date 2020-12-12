@@ -17,6 +17,9 @@ comparePrice: 75.95 EUR
 inStock: true
 prodname: 'Tamaris 26712  Botas Militar para Mujer  Verde  Moss   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HRGF3Y/?tag=tolees-21'
+descuento: '77.21'
+titulo: 'Tamaris 26712  Botas Militar para Mujer '
 ---
 
 Ahora mismo tienes [Tamaris 26712  Botas Militar para Mujer  Verde  Moss   37 EU](https://www.amazon.es/dp/B071HRGF3Y/?tag=tolees-21) a 17.31 EUR (original: 75.95 EUR) (77.21 %  de descuento) en el siguiente enlace!

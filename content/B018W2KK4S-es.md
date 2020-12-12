@@ -17,6 +17,9 @@ comparePrice: 21.48 EUR
 inStock: true
 prodname: 'Pikolin Home - Protector de colchón rizo  100% algodón  impermeable y transpirable  90 x 190/200 cm  cama 90 cm  Todas las medidas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018W2KK4S/?tag=tolees-21'
+descuento: '38.31'
+titulo: 'Pikolin Home - Protector de colchón rizo'
 ---
 
 Tienes [Pikolin Home - Protector de colchón rizo  100% algodón  impermeable y transpirable  90 x 190/200 cm  cama 90 cm  Todas las medidas ](https://www.amazon.es/dp/B018W2KK4S/?tag=tolees-21) con un 38.31 % de descuento con precio de oferta de 13.25 EUR (original: 21.48 EUR) en el siguiente enlace!

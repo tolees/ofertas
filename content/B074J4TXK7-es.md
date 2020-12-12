@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Ukelele Hricane Ukeleles Concierto 23 Pulgadas Instrumento de Caoba  Ukulele Profesional para Principiantes'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074J4TXK7/?tag=tolees-21'
+descuento: '76.93'
+titulo: 'Ukelele Hricane Ukeleles Concierto 23 Pu'
 ---
 
 Está [Ukelele Hricane Ukeleles Concierto 23 Pulgadas Instrumento de Caoba  Ukulele Profesional para Principiantes](https://www.amazon.es/dp/B074J4TXK7/?tag=tolees-21) con 76.93 de descuento por 29.99 EUR (original: 129.99 EUR) en el siguiente enlace!

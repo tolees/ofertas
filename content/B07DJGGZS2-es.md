@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'MARIA MARE Mariamare Bianca  Shopper para Mujer  Azul  CROS Crosly Marino   13 x 35 x 37 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJGGZS2/?tag=tolees-21'
+descuento: '38.20'
+titulo: 'MARIA MARE Mariamare Bianca  Shopper par'
 ---
 
 Tienes [MARIA MARE Mariamare Bianca  Shopper para Mujer  Azul  CROS Crosly Marino   13 x 35 x 37 cm](https://www.amazon.es/dp/B07DJGGZS2/?tag=tolees-21) con un 38.20 % de descuento con precio de oferta de 24.66 EUR (original: 39.9 EUR) en el siguiente enlace!

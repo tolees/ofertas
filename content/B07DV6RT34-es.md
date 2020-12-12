@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Columbia Drainmaker 3D  Zapatillas para Mujer  Blanco Crema  Grey Ice  Whisper   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DV6RT34/?tag=tolees-21'
+descuento: '60.58'
+titulo: 'Columbia Drainmaker 3D  Zapatillas para '
 ---
 
 Ahora mismo tienes [Columbia Drainmaker 3D  Zapatillas para Mujer  Blanco Crema  Grey Ice  Whisper   39 EU](https://www.amazon.es/dp/B07DV6RT34/?tag=tolees-21) a 31.53 EUR (original: 79.99 EUR) (60.58 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield 4.2.J.Ap.Fríos.Turtle Neck  Jersey para Mujer   Gamma Grises 42   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL82PZV/?tag=tolees-21'
+descuento: '67.67'
+titulo: 'Springfield 4.2.J.Ap.Fríos.Turtle Neck  '
 ---
 
 Ahora mismo tienes [Springfield 4.2.J.Ap.Fríos.Turtle Neck  Jersey para Mujer   Gamma Grises 42   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DL82PZV/?tag=tolees-21) a 8.08 EUR (original: 24.99 EUR) (67.67 %  de descuento) en el siguiente enlace!

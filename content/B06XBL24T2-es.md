@@ -17,6 +17,9 @@ comparePrice: 28.47 EUR
 inStock: true
 prodname: 'Party Pro Washi Tape Mini Corazones  Papel  Oro  4 5 x 4 5 x 1 5 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XBL24T2/?tag=tolees-21'
+descuento: '64.31'
+titulo: 'Party Pro Washi Tape Mini Corazones  Pap'
 ---
 
 Ahora mismo tienes [Party Pro Washi Tape Mini Corazones  Papel  Oro  4 5 x 4 5 x 1 5 cm](https://www.amazon.es/dp/B06XBL24T2/?tag=tolees-21) a 10.16 EUR (original: 28.47 EUR) (64.31 %  de descuento) en el siguiente enlace!

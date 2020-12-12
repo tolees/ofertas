@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Roxy Easy Game Camiseta sin Mangas de Diseño Técnico  Mujer  Negro  Antracita/Pattern_3   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792J6GZP/?tag=tolees-21'
+descuento: '46.21'
+titulo: 'Roxy Easy Game Camiseta sin Mangas de Di'
 ---
 
 Tienes [Roxy Easy Game Camiseta sin Mangas de Diseño Técnico  Mujer  Negro  Antracita/Pattern_3   L](https://www.amazon.es/dp/B0792J6GZP/?tag=tolees-21) con un 46.21 % de descuento con precio de oferta de 19.36 EUR (original: 35.99 EUR) en el siguiente enlace!

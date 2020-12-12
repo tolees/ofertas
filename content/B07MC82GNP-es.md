@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma ESS tee Camiseta  Hombre  Rojo  High Risk Red Heather   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MC82GNP/?tag=tolees-21'
+descuento: '40.08'
+titulo: 'Puma ESS tee Camiseta  Hombre  Rojo  Hig'
 ---
 
 Ahora mismo tienes [Puma ESS tee Camiseta  Hombre  Rojo  High Risk Red Heather   L](https://www.amazon.es/dp/B07MC82GNP/?tag=tolees-21) a 14.95 EUR (original: 24.95 EUR) (40.08 %  de descuento) en el siguiente enlace!

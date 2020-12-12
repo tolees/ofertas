@@ -17,6 +17,9 @@ comparePrice: 69.38 EUR
 inStock: true
 prodname: 'Etnies Barge XL  Zapatillas de Skateboard para Hombre  Negro  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0791SZJ6P/?tag=tolees-21'
+descuento: '39.42'
+titulo: 'Etnies Barge XL  Zapatillas de Skateboar'
 ---
 
 Ahora mismo tienes [Etnies Barge XL  Zapatillas de Skateboard para Hombre  Negro  37 EU](https://www.amazon.es/dp/B0791SZJ6P/?tag=tolees-21) a 42.03 EUR (original: 69.38 EUR) (39.42 %  de descuento) en el siguiente enlace!

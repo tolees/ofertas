@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'DoreKim Slim Fit Yoga Pantalones de cintura alta Tummy Control Sport Leggings Gradient PJ Bottoms DK2026+8  GreenStripes '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GV15F1Y/?tag=tolees-21'
+descuento: '51.15'
+titulo: 'DoreKim Slim Fit Yoga Pantalones de cint'
 ---
 
 Ahora mismo tienes [DoreKim Slim Fit Yoga Pantalones de cintura alta Tummy Control Sport Leggings Gradient PJ Bottoms DK2026+8  GreenStripes ](https://www.amazon.es/dp/B07GV15F1Y/?tag=tolees-21) a 4.88 EUR (original: 9.99 EUR) (51.15 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'BRONAX Zapatillas Hombres Deporte Running Zapatos para Correr Gimnasio Sneakers Deportivas Transpirables Casual'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QSD7YM8/?tag=tolees-21'
+descuento: '61.44'
+titulo: 'BRONAX Zapatillas Hombres Deporte Runnin'
 ---
 
 Está [BRONAX Zapatillas Hombres Deporte Running Zapatos para Correr Gimnasio Sneakers Deportivas Transpirables Casual](https://www.amazon.es/dp/B07QSD7YM8/?tag=tolees-21) con 61.44 de descuento por 26.99 EUR (original: 69.99 EUR) en el siguiente enlace!

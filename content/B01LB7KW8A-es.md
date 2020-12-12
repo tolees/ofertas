@@ -17,6 +17,9 @@ comparePrice: 56.39 EUR
 inStock: true
 prodname: 'deAO Camión de Construcción RC Profesional Funcion Completa de 6 Canales Excavaroda Teledirigida Todo Terreno con Pala de Metal 2.4GHz'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LB7KW8A/?tag=tolees-21'
+descuento: '50.36'
+titulo: 'deAO Camión de Construcción RC Profesion'
 ---
 
 Está [deAO Camión de Construcción RC Profesional Funcion Completa de 6 Canales Excavaroda Teledirigida Todo Terreno con Pala de Metal 2.4GHz](https://www.amazon.es/dp/B01LB7KW8A/?tag=tolees-21) con 50.36 de descuento por 27.99 EUR (original: 56.39 EUR) en el siguiente enlace!

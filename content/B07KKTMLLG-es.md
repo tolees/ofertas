@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'HUGO Durned-u5 Sudadera  Rosa  Light/Pastel Pink 683   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKTMLLG/?tag=tolees-21'
+descuento: '33.07'
+titulo: 'HUGO Durned-u5 Sudadera  Rosa  Light/Pas'
 ---
 
 Está [HUGO Durned-u5 Sudadera  Rosa  Light/Pastel Pink 683   Medium para Hombre](https://www.amazon.es/dp/B07KKTMLLG/?tag=tolees-21) con 33.07 de descuento por 33.43 EUR (original: 49.95 EUR) en el siguiente enlace!

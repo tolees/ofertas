@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Columbia Peakfreak XCRSN II XCEL Low Outdry Hombre Zapatillas Multideporte Impermeable Gris  Monument\Zour  Talla 42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K76CSL8/?tag=tolees-21'
+descuento: '46.03'
+titulo: 'Columbia Peakfreak XCRSN II XCEL Low Out'
 ---
 
 Está [Columbia Peakfreak XCRSN II XCEL Low Outdry Hombre Zapatillas Multideporte Impermeable Gris  Monument\Zour  Talla 42 EU](https://www.amazon.es/dp/B07K76CSL8/?tag=tolees-21) con 46.03 de descuento por 59.36 EUR (original: 109.99 EUR) en el siguiente enlace!

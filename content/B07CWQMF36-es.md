@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Pelepas Vibrador con Control Remoto 12 Frecuencias Vibrador Sexual Mujer Mujer Masajeador de Silicona Recargable y Impermeable Juguetes Sexuales Para Parejas  Purpura '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CWQMF36/?tag=tolees-21'
+descuento: '68.34'
+titulo: 'Pelepas Vibrador con Control Remoto 12 F'
 ---
 
 Está [Pelepas Vibrador con Control Remoto 12 Frecuencias Vibrador Sexual Mujer Mujer Masajeador de Silicona Recargable y Impermeable Juguetes Sexuales Para Parejas  Purpura ](https://www.amazon.es/dp/B07CWQMF36/?tag=tolees-21) con 68.34 de descuento por 18.99 EUR (original: 59.99 EUR) en el siguiente enlace!

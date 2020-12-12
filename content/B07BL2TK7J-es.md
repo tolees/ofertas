@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 574  Zapatillas para Hombre  Azul  Outerspace/Light Cliff Grey ESQ   40.5 EU  Talla Fabricante: 7 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL2TK7J/?tag=tolees-21'
+descuento: '42.38'
+titulo: 'New Balance 574  Zapatillas para Hombre '
 ---
 
 Está [New Balance 574  Zapatillas para Hombre  Azul  Outerspace/Light Cliff Grey ESQ   40.5 EU  Talla Fabricante: 7 UK ](https://www.amazon.es/dp/B07BL2TK7J/?tag=tolees-21) con 42.38 de descuento por 51.86 EUR (original: 90 EUR) en el siguiente enlace!

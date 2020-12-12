@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'edc by Esprit 048cc1f024 Blusa   Pink 670   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QBWXFS/?tag=tolees-21'
+descuento: '77.33'
+titulo: 'edc by Esprit 048cc1f024 Blusa   Pink 67'
 ---
 
 Está [edc by Esprit 048cc1f024 Blusa   Pink 670   Large para Mujer](https://www.amazon.es/dp/B079QBWXFS/?tag=tolees-21) con 77.33 de descuento por 8.16 EUR (original: 35.99 EUR) en el siguiente enlace!

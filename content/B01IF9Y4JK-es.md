@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'The North Face Tekware TNF Jersey 100 Glacier  Hombre  TNF Black  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IF9Y4JK/?tag=tolees-21'
+descuento: '36.56'
+titulo: 'The North Face Tekware TNF Jersey 100 Gl'
 ---
 
 Ahora mismo tienes [The North Face Tekware TNF Jersey 100 Glacier  Hombre  TNF Black  XL](https://www.amazon.es/dp/B01IF9Y4JK/?tag=tolees-21) a 34.89 EUR (original: 55 EUR) (36.56 %  de descuento) en el siguiente enlace!

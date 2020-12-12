@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Joma - Short Creta Royal para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BQX8SGW/?tag=tolees-21'
+descuento: '53.51'
+titulo: 'Joma - Short Creta Royal para Hombre'
 ---
 
 Tienes [Joma - Short Creta Royal para Hombre](https://www.amazon.es/dp/B01BQX8SGW/?tag=tolees-21) con un 53.51 % de descuento con precio de oferta de 6.95 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 219.99 EUR
 inStock: true
 prodname: 'Quiksilver Mission Snow Jacket  Hombre  Dress Blues  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHT57GZ/?tag=tolees-21'
+descuento: '45.46'
+titulo: 'Quiksilver Mission Snow Jacket  Hombre  '
 ---
 
 Está [Quiksilver Mission Snow Jacket  Hombre  Dress Blues  L](https://www.amazon.es/dp/B07DHT57GZ/?tag=tolees-21) con 45.46 de descuento por 119.99 EUR (original: 219.99 EUR) en el siguiente enlace!

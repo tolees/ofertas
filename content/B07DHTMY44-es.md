@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Quiksilver Sierra Snow Jacket  Hombre  Flame  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHTMY44/?tag=tolees-21'
+descuento: '57.18'
+titulo: 'Quiksilver Sierra Snow Jacket  Hombre  F'
 ---
 
 Tienes [Quiksilver Sierra Snow Jacket  Hombre  Flame  M](https://www.amazon.es/dp/B07DHTMY44/?tag=tolees-21) con un 57.18 % de descuento con precio de oferta de 85.64 EUR (original: 199.99 EUR) en el siguiente enlace!

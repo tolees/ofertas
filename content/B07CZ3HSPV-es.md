@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Puma Suede Platform Animal  Zapatillas para Mujer  Naranja  Dusty Coral Silver   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ3HSPV/?tag=tolees-21'
+descuento: '63.56'
+titulo: 'Puma Suede Platform Animal  Zapatillas p'
 ---
 
 Está [Puma Suede Platform Animal  Zapatillas para Mujer  Naranja  Dusty Coral Silver   40.5 EU](https://www.amazon.es/dp/B07CZ3HSPV/?tag=tolees-21) con 63.56 de descuento por 40.07 EUR (original: 109.95 EUR) en el siguiente enlace!

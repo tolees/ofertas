@@ -17,6 +17,9 @@ comparePrice: 9.95 EUR
 inStock: true
 prodname: 'Energy Sistem - Funda para Smarphone Energy Pro 4G  transparente'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GS7B9JE/?tag=tolees-21'
+descuento: '69.85'
+titulo: 'Energy Sistem - Funda para Smarphone Ene'
 ---
 
 Ahora mismo tienes [Energy Sistem - Funda para Smarphone Energy Pro 4G  transparente](https://www.amazon.es/dp/B01GS7B9JE/?tag=tolees-21) a 3 EUR (original: 9.95 EUR) (69.85 %  de descuento) en el siguiente enlace!

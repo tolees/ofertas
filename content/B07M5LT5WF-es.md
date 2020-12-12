@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'edc by Esprit 029CC1K036 Camiseta  Blanco  Off White 110   S para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M5LT5WF/?tag=tolees-21'
+descuento: '57.29'
+titulo: 'edc by Esprit 029CC1K036 Camiseta  Blanc'
 ---
 
 Ahora mismo tienes [edc by Esprit 029CC1K036 Camiseta  Blanco  Off White 110   S para Mujer](https://www.amazon.es/dp/B07M5LT5WF/?tag=tolees-21) a 6.83 EUR (original: 15.99 EUR) (57.29 %  de descuento) en el siguiente enlace!

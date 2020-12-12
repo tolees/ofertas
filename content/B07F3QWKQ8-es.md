@@ -17,6 +17,9 @@ comparePrice: 289.99 EUR
 inStock: true
 prodname: 'UMIDIGI Z2 Smartphone de 6.2" 4G Volte  Helio P23  6GB RAM + 64GB Android 8.1  Carga rápida de 18W.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F3QWKQ8/?tag=tolees-21'
+descuento: '51.73'
+titulo: 'UMIDIGI Z2 Smartphone de 6.2" 4G Volte  '
 ---
 
 Tienes [UMIDIGI Z2 Smartphone de 6.2" 4G Volte  Helio P23  6GB RAM + 64GB Android 8.1  Carga rápida de 18W.](https://www.amazon.es/dp/B07F3QWKQ8/?tag=tolees-21) con un 51.73 % de descuento con precio de oferta de 139.99 EUR (original: 289.99 EUR) en el siguiente enlace!

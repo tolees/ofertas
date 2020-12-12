@@ -17,6 +17,9 @@ comparePrice: 190.99 EUR
 inStock: true
 prodname: 'HyperX Fury - Memoria RAM DE 16 GB DDR3L  1600 MHz  CL10  DIMM 240 Pin  1.35 v  Kit 2 x 8GB '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014R9BN6O/?tag=tolees-21'
+descuento: '35.26'
+titulo: 'HyperX Fury - Memoria RAM DE 16 GB DDR3L'
 ---
 
 Ahora mismo tienes [HyperX Fury - Memoria RAM DE 16 GB DDR3L  1600 MHz  CL10  DIMM 240 Pin  1.35 v  Kit 2 x 8GB ](https://www.amazon.es/dp/B014R9BN6O/?tag=tolees-21) a 123.64 EUR (original: 190.99 EUR) (35.26 %  de descuento) en el siguiente enlace!

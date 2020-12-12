@@ -17,6 +17,9 @@ comparePrice: 27.27 EUR
 inStock: true
 prodname: 'L Oréal Expert Professionnel Liss Unlimited Mask 200 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DZHYAI8/?tag=tolees-21'
+descuento: '41.33'
+titulo: 'L Oréal Expert Professionnel Liss Unlimi'
 ---
 
 Ahora mismo tienes [L Oréal Expert Professionnel Liss Unlimited Mask 200 ml](https://www.amazon.es/dp/B00DZHYAI8/?tag=tolees-21) a 16 EUR (original: 27.27 EUR) (41.33 %  de descuento) en el siguiente enlace!

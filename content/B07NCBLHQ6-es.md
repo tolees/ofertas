@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Cream Hickory Bañador  Azul  Denim 000   5 años  Talla del Fabricante: 5  para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NCBLHQ6/?tag=tolees-21'
+descuento: '58.30'
+titulo: 'Pepe Jeans Cream Hickory Bañador  Azul  '
 ---
 
 Está [Pepe Jeans Cream Hickory Bañador  Azul  Denim 000   5 años  Talla del Fabricante: 5  para Niñas](https://www.amazon.es/dp/B07NCBLHQ6/?tag=tolees-21) con 58.30 de descuento por 20.81 EUR (original: 49.9 EUR) en el siguiente enlace!

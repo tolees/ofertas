@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'SportPlus Ezy Carver Board The Face Skateboard  Infantil  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HCMM6PA/?tag=tolees-21'
+descuento: '36.98'
+titulo: 'SportPlus Ezy Carver Board The Face Skat'
 ---
 
 Está [SportPlus Ezy Carver Board The Face Skateboard  Infantil  Talla Única](https://www.amazon.es/dp/B01HCMM6PA/?tag=tolees-21) con 36.98 de descuento por 50.41 EUR (original: 79.99 EUR) en el siguiente enlace!

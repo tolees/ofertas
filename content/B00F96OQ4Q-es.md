@@ -17,6 +17,9 @@ comparePrice: 14.28 EUR
 inStock: true
 prodname: 'Calvin Klein Carouse  Tanga para Mujer  Blanco  WHITE 100   XS  Tamaño del fabricante: 34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00F96OQ4Q/?tag=tolees-21'
+descuento: '30.32'
+titulo: 'Calvin Klein Carouse  Tanga para Mujer  '
 ---
 
 Está [Calvin Klein Carouse  Tanga para Mujer  Blanco  WHITE 100   XS  Tamaño del fabricante: 34 ](https://www.amazon.es/dp/B00F96OQ4Q/?tag=tolees-21) con 30.32 de descuento por 9.95 EUR (original: 14.28 EUR) en el siguiente enlace!

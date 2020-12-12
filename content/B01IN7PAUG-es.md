@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Cortefiel Cappotto BLU XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IN7PAUG/?tag=tolees-21'
+descuento: '66.81'
+titulo: 'Cortefiel Cappotto BLU XL'
 ---
 
 Ahora mismo tienes [Cortefiel Cappotto BLU XL](https://www.amazon.es/dp/B01IN7PAUG/?tag=tolees-21) a 42.81 EUR (original: 129 EUR) (66.81 %  de descuento) en el siguiente enlace!

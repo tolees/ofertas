@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Gant O2. Herringbone Texture Halfzip suéter  Gris  Grey Melange 93   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GZVBSP8/?tag=tolees-21'
+descuento: '54.03'
+titulo: 'Gant O2. Herringbone Texture Halfzip sué'
 ---
 
 Tienes [Gant O2. Herringbone Texture Halfzip suéter  Gris  Grey Melange 93   XX-Large para Hombre](https://www.amazon.es/dp/B07GZVBSP8/?tag=tolees-21) con un 54.03 % de descuento con precio de oferta de 68.49 EUR (original: 149 EUR) en el siguiente enlace!

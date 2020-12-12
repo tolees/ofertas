@@ -17,6 +17,9 @@ comparePrice: 19.65 EUR
 inStock: true
 prodname: 'adidas WB L Muñequera de Tenis  Hombre  Negro/Blanco  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077K1CKBM/?tag=tolees-21'
+descuento: '54.45'
+titulo: 'adidas WB L Muñequera de Tenis  Hombre  '
 ---
 
 Tienes [adidas WB L Muñequera de Tenis  Hombre  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B077K1CKBM/?tag=tolees-21) con un 54.45 % de descuento con precio de oferta de 8.95 EUR (original: 19.65 EUR) en el siguiente enlace!

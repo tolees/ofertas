@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'Billow Technology XS360PROR - Cámara de acción de 16 MP  360  1080p  Color Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IBNPO2G/?tag=tolees-21'
+descuento: '70.14'
+titulo: 'Billow Technology XS360PROR - Cámara de '
 ---
 
 Tienes [Billow Technology XS360PROR - Cámara de acción de 16 MP  360  1080p  Color Rojo](https://www.amazon.es/dp/B01IBNPO2G/?tag=tolees-21) con un 70.14 % de descuento con precio de oferta de 41.51 EUR (original: 139 EUR) en el siguiente enlace!

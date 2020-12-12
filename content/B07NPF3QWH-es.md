@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Equalizer 3.0-Westedge  Zapatillas para Hombre  Azul  Navy Nvy   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NPF3QWH/?tag=tolees-21'
+descuento: '53.92'
+titulo: 'Skechers Equalizer 3.0-Westedge  Zapatil'
 ---
 
 Está [Skechers Equalizer 3.0-Westedge  Zapatillas para Hombre  Azul  Navy Nvy   42 EU](https://www.amazon.es/dp/B07NPF3QWH/?tag=tolees-21) con 53.92 de descuento por 32.23 EUR (original: 69.95 EUR) en el siguiente enlace!

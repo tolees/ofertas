@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Smash L  Zapatillas Unisex adulto  Blanco  White/Black/White   48.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WM66SS8/?tag=tolees-21'
+descuento: '46.29'
+titulo: 'Puma Smash L  Zapatillas Unisex adulto  '
 ---
 
 Ahora mismo tienes [Puma Smash L  Zapatillas Unisex adulto  Blanco  White/Black/White   48.5 EU](https://www.amazon.es/dp/B00WM66SS8/?tag=tolees-21) a 26.83 EUR (original: 49.95 EUR) (46.29 %  de descuento) en el siguiente enlace!

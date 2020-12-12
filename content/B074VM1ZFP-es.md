@@ -17,6 +17,9 @@ comparePrice: 300 EUR
 inStock: true
 prodname: 'Sony WHH900N - Auriculares de Diadema inalámbricos  H.Ear  Hi-Res Audio  cancelación de Ruido  Sense Engine  Bluetooth  Compatible con aplicación Headphones Connect  Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074VM1ZFP/?tag=tolees-21'
+descuento: '65.83'
+titulo: 'Sony WHH900N - Auriculares de Diadema in'
 ---
 
 Tienes [Sony WHH900N - Auriculares de Diadema inalámbricos  H.Ear  Hi-Res Audio  cancelación de Ruido  Sense Engine  Bluetooth  Compatible con aplicación Headphones Connect  Rojo](https://www.amazon.es/dp/B074VM1ZFP/?tag=tolees-21) con un 65.83 % de descuento con precio de oferta de 102.5 EUR (original: 300 EUR) en el siguiente enlace!

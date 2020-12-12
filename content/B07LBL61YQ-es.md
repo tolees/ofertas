@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Tommy Hilfiger SF Medium Drawstring Pantalones Cortos  Morado  Fuchsia Purple 501   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBL61YQ/?tag=tolees-21'
+descuento: '31.11'
+titulo: 'Tommy Hilfiger SF Medium Drawstring Pant'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger SF Medium Drawstring Pantalones Cortos  Morado  Fuchsia Purple 501   Small para Hombre](https://www.amazon.es/dp/B07LBL61YQ/?tag=tolees-21) a 31 EUR (original: 45 EUR) (31.11 %  de descuento) en el siguiente enlace!

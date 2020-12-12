@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Armani Exchange Mujer J10 Super Skinny Cropped Denim Vaqueros Boyfriend Not Applicable  Azul  Indigo Denim 1500   W26/L32  Talla del Fabricante: 26 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJ1SBNY/?tag=tolees-21'
+descuento: '71.15'
+titulo: 'Armani Exchange Mujer J10 Super Skinny C'
 ---
 
 Ahora mismo tienes [Armani Exchange Mujer J10 Super Skinny Cropped Denim Vaqueros Boyfriend Not Applicable  Azul  Indigo Denim 1500   W26/L32  Talla del Fabricante: 26 ](https://www.amazon.es/dp/B07JJ1SBNY/?tag=tolees-21) a 37.51 EUR (original: 130 EUR) (71.15 %  de descuento) en el siguiente enlace!

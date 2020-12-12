@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Dirt Devil Rebel 25 HFC - Aspirador sin bolsa  eco  ciclónico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00X3CZ5GQ/?tag=tolees-21'
+descuento: '30.99'
+titulo: 'Dirt Devil Rebel 25 HFC - Aspirador sin '
 ---
 
 Ahora mismo tienes [Dirt Devil Rebel 25 HFC - Aspirador sin bolsa  eco  ciclónico](https://www.amazon.es/dp/B00X3CZ5GQ/?tag=tolees-21) a 82.8 EUR (original: 119.99 EUR) (30.99 %  de descuento) en el siguiente enlace!

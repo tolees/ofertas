@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'adidas DU9597 Mallas  Mujer  Negro/Blanco  28'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NJJZ75S/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'adidas DU9597 Mallas  Mujer  Negro/Blanc'
 ---
 
 Está [adidas DU9597 Mallas  Mujer  Negro/Blanco  28](https://www.amazon.es/dp/B07NJJZ75S/?tag=tolees-21) con 30.01 de descuento por 24.46 EUR (original: 34.95 EUR) en el siguiente enlace!

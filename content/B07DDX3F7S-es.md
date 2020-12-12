@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Adidas VL Court 2.0  Zapatillas para Mujer  Negro Core Black/Silver Metallic 0  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DDX3F7S/?tag=tolees-21'
+descuento: '54.96'
+titulo: 'Adidas VL Court 2.0  Zapatillas para Muj'
 ---
 
 Ahora mismo tienes [Adidas VL Court 2.0  Zapatillas para Mujer  Negro Core Black/Silver Metallic 0  36 EU](https://www.amazon.es/dp/B07DDX3F7S/?tag=tolees-21) a 27 EUR (original: 59.95 EUR) (54.96 %  de descuento) en el siguiente enlace!

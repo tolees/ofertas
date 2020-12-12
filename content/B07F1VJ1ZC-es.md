@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Element Blazin Zip Hood Fleece  Hombre  Charcoal Heather  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1VJ1ZC/?tag=tolees-21'
+descuento: '43.03'
+titulo: 'Element Blazin Zip Hood Fleece  Hombre  '
 ---
 
 Tienes [Element Blazin Zip Hood Fleece  Hombre  Charcoal Heather  XL](https://www.amazon.es/dp/B07F1VJ1ZC/?tag=tolees-21) con un 43.03 % de descuento con precio de oferta de 39.88 EUR (original: 70 EUR) en el siguiente enlace!

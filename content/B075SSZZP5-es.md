@@ -17,6 +17,9 @@ comparePrice: 13.5 EUR
 inStock: true
 prodname: 'Fontee Medallas  24Pcs Ganadores Medallas Deportes día olímpico Tema niños Fiestas premios recompensa niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SSZZP5/?tag=tolees-21'
+descuento: '33.41'
+titulo: 'Fontee Medallas  24Pcs Ganadores Medalla'
 ---
 
 Ahora mismo tienes [Fontee Medallas  24Pcs Ganadores Medallas Deportes día olímpico Tema niños Fiestas premios recompensa niños](https://www.amazon.es/dp/B075SSZZP5/?tag=tolees-21) a 8.99 EUR (original: 13.5 EUR) (33.41 %  de descuento) en el siguiente enlace!

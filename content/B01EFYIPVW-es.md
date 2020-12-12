@@ -17,6 +17,9 @@ comparePrice: 89.23 EUR
 inStock: true
 prodname: 'Philips Sonicare For Kids HX6392/02 cepillo eléctrico para dientes Niño Cepillo dental sónico Azul  Blanco - Cepillo de dientes eléctrico  AC/Batería  110-220 V  Ión de litio  1 pieza s   2 pieza s  '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EFYIPVW/?tag=tolees-21'
+descuento: '26.46'
+titulo: 'Philips Sonicare For Kids HX6392/02 cepi'
 ---
 
 Está [Philips Sonicare For Kids HX6392/02 cepillo eléctrico para dientes Niño Cepillo dental sónico Azul  Blanco - Cepillo de dientes eléctrico  AC/Batería  110-220 V  Ión de litio  1 pieza s   2 pieza s  ](https://www.amazon.es/dp/B01EFYIPVW/?tag=tolees-21) con 26.46 de descuento por 65.62 EUR (original: 89.23 EUR) en el siguiente enlace!

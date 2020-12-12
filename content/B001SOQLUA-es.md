@@ -17,6 +17,9 @@ comparePrice: 28.95 EUR
 inStock: true
 prodname: 'Cressi Palau SAF Aletas  Unisex  Negro/Amarillo  M-L  41-44 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001SOQLUA/?tag=tolees-21'
+descuento: '34.54'
+titulo: 'Cressi Palau SAF Aletas  Unisex  Negro/A'
 ---
 
 Está [Cressi Palau SAF Aletas  Unisex  Negro/Amarillo  M-L  41-44 ](https://www.amazon.es/dp/B001SOQLUA/?tag=tolees-21) con 34.54 de descuento por 18.95 EUR (original: 28.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 106.89 EUR
 inStock: true
 prodname: 'Casio Reloj de Pulsera AQ-S800WD-1EVEF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005FEY56G/?tag=tolees-21'
+descuento: '53.00'
+titulo: 'Casio Reloj de Pulsera AQ-S800WD-1EVEF'
 ---
 
 Está [Casio Reloj de Pulsera AQ-S800WD-1EVEF](https://www.amazon.es/dp/B005FEY56G/?tag=tolees-21) con 53.00 de descuento por 50.24 EUR (original: 106.89 EUR) en el siguiente enlace!

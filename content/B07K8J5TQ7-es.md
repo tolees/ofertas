@@ -17,6 +17,9 @@ comparePrice: 11.23 EUR
 inStock: true
 prodname: 'Alicates multiherramientas portátiles de acero inoxidable mini multifunción alicates para regalo de empresa/al aire libre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K8J5TQ7/?tag=tolees-21'
+descuento: '73.37'
+titulo: 'Alicates multiherramientas portátiles de'
 ---
 
 Tienes [Alicates multiherramientas portátiles de acero inoxidable mini multifunción alicates para regalo de empresa/al aire libre](https://www.amazon.es/dp/B07K8J5TQ7/?tag=tolees-21) con un 73.37 % de descuento con precio de oferta de 2.99 EUR (original: 11.23 EUR) en el siguiente enlace!

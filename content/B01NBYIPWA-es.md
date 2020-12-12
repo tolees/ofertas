@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'The North Face Piqué Polo de Manga Corta  Hombre  Azul  Urban Navy   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NBYIPWA/?tag=tolees-21'
+descuento: '39.78'
+titulo: 'The North Face Piqué Polo de Manga Corta'
 ---
 
 Está [The North Face Piqué Polo de Manga Corta  Hombre  Azul  Urban Navy   L](https://www.amazon.es/dp/B01NBYIPWA/?tag=tolees-21) con 39.78 de descuento por 36.13 EUR (original: 60 EUR) en el siguiente enlace!

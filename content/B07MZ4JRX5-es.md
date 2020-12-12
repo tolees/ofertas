@@ -17,6 +17,9 @@ comparePrice: 16.95 EUR
 inStock: true
 prodname: 'Miraculous 10619 bañador Bebe  Rojo Rouge  4 años para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZ4JRX5/?tag=tolees-21'
+descuento: '38.53'
+titulo: 'Miraculous 10619 bañador Bebe  Rojo Roug'
 ---
 
 Está [Miraculous 10619 bañador Bebe  Rojo Rouge  4 años para Niñas](https://www.amazon.es/dp/B07MZ4JRX5/?tag=tolees-21) con 38.53 de descuento por 10.42 EUR (original: 16.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 269 EUR
 inStock: true
 prodname: 'Panasonic Lumix H-FS014042E - Objetivo para Cuatro tercios  Distancia Focal 14-42 mm  Apertura f/3.5  estabilizador  diámetro: 52 mm  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003UNL2TC/?tag=tolees-21'
+descuento: '44.61'
+titulo: 'Panasonic Lumix H-FS014042E - Objetivo p'
 ---
 
 Ahora mismo tienes [Panasonic Lumix H-FS014042E - Objetivo para Cuatro tercios  Distancia Focal 14-42 mm  Apertura f/3.5  estabilizador  diámetro: 52 mm  Negro](https://www.amazon.es/dp/B003UNL2TC/?tag=tolees-21) a 149 EUR (original: 269 EUR) (44.61 %  de descuento) en el siguiente enlace!

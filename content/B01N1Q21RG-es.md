@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Puma Evopower Grip 4.3 Guantes de Portero  Unisex Adulto  Verde  11'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1Q21RG/?tag=tolees-21'
+descuento: '33.43'
+titulo: 'Puma Evopower Grip 4.3 Guantes de Porter'
 ---
 
 Ahora mismo tienes [Puma Evopower Grip 4.3 Guantes de Portero  Unisex Adulto  Verde  11](https://www.amazon.es/dp/B01N1Q21RG/?tag=tolees-21) a 11.95 EUR (original: 17.95 EUR) (33.43 %  de descuento) en el siguiente enlace!

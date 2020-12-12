@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Insurge Mesh Zapatillas de deporte Unisex adulto  Morado  Elderberry-Asphalt-Puma White   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1L7Q1/?tag=tolees-21'
+descuento: '58.15'
+titulo: 'Puma Insurge Mesh Zapatillas de deporte '
 ---
 
 Está [Puma Insurge Mesh Zapatillas de deporte Unisex adulto  Morado  Elderberry-Asphalt-Puma White   47 EU](https://www.amazon.es/dp/B07DC1L7Q1/?tag=tolees-21) con 58.15 de descuento por 25.09 EUR (original: 59.95 EUR) en el siguiente enlace!

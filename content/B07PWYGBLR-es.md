@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Adidas Nemeziz 18.3 FG  Zapatillas de fútbol Sala para Hombre   Ftwbla/Rossen/Rossho 000   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PWYGBLR/?tag=tolees-21'
+descuento: '34.96'
+titulo: 'Adidas Nemeziz 18.3 FG  Zapatillas de fú'
 ---
 
 Está [Adidas Nemeziz 18.3 FG  Zapatillas de fútbol Sala para Hombre   Ftwbla/Rossen/Rossho 000   40 EU](https://www.amazon.es/dp/B07PWYGBLR/?tag=tolees-21) con 34.96 de descuento por 58.5 EUR (original: 89.95 EUR) en el siguiente enlace!

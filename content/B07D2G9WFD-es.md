@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Levi s 502 Regular Taper Vaqueros Tapered  Gris  Headed East 0275   31W / 34L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2G9WFD/?tag=tolees-21'
+descuento: '64.17'
+titulo: 'Levi s 502 Regular Taper Vaqueros Tapere'
 ---
 
 Tienes [Levi s 502 Regular Taper Vaqueros Tapered  Gris  Headed East 0275   31W / 34L para Hombre](https://www.amazon.es/dp/B07D2G9WFD/?tag=tolees-21) con un 64.17 % de descuento con precio de oferta de 39.41 EUR (original: 110 EUR) en el siguiente enlace!

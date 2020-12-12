@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'The North Face Hose W Exploration Convertible Pants  Pantalones Mujer  Beige  Dune Beige   6 Regular'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ATBQY1I/?tag=tolees-21'
+descuento: '47.27'
+titulo: 'The North Face Hose W Exploration Conver'
 ---
 
 Ahora mismo tienes [The North Face Hose W Exploration Convertible Pants  Pantalones Mujer  Beige  Dune Beige   6 Regular](https://www.amazon.es/dp/B01ATBQY1I/?tag=tolees-21) a 50.09 EUR (original: 95 EUR) (47.27 %  de descuento) en el siguiente enlace!

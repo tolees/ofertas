@@ -17,6 +17,9 @@ comparePrice: 79.94 EUR
 inStock: true
 prodname: 'Clarks Carlita Cove  Zapatos de Tacón para Mujer  Morado  Plum Patent   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01D1WO03Q/?tag=tolees-21'
+descuento: '58.38'
+titulo: 'Clarks Carlita Cove  Zapatos de Tacón pa'
 ---
 
 Ahora mismo tienes [Clarks Carlita Cove  Zapatos de Tacón para Mujer  Morado  Plum Patent   39.5 EU](https://www.amazon.es/dp/B01D1WO03Q/?tag=tolees-21) a 33.27 EUR (original: 79.94 EUR) (58.38 %  de descuento) en el siguiente enlace!

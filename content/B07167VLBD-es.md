@@ -17,6 +17,9 @@ comparePrice: 56 EUR
 inStock: true
 prodname: 'Prada Candy Gloss Agua de Colonia - 30 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07167VLBD/?tag=tolees-21'
+descuento: '46.43'
+titulo: 'Prada Candy Gloss Agua de Colonia - 30 m'
 ---
 
 Tienes [Prada Candy Gloss Agua de Colonia - 30 ml](https://www.amazon.es/dp/B07167VLBD/?tag=tolees-21) con un 46.43 % de descuento con precio de oferta de 30 EUR (original: 56 EUR) en el siguiente enlace!

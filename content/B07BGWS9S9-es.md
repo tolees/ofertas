@@ -17,6 +17,9 @@ comparePrice: 38.99 EUR
 inStock: true
 prodname: 'FITTOO Mallas Leggings Mujer Yoga de Alta Cintura Elásticos y Transpirables para Yoga Running Fitness27B Medium #3 Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BGWS9S9/?tag=tolees-21'
+descuento: '61.55'
+titulo: 'FITTOO Mallas Leggings Mujer Yoga de Alt'
 ---
 
 Está [FITTOO Mallas Leggings Mujer Yoga de Alta Cintura Elásticos y Transpirables para Yoga Running Fitness27B Medium #3 Negro](https://www.amazon.es/dp/B07BGWS9S9/?tag=tolees-21) con 61.55 de descuento por 14.99 EUR (original: 38.99 EUR) en el siguiente enlace!

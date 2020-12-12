@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Springfield FR Ml Logo 1988 Sudadera  Hombre  Azul  Gama Azules 12   X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLFVYHJ/?tag=tolees-21'
+descuento: '46.17'
+titulo: 'Springfield FR Ml Logo 1988 Sudadera  Ho'
 ---
 
 Está [Springfield FR Ml Logo 1988 Sudadera  Hombre  Azul  Gama Azules 12   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLFVYHJ/?tag=tolees-21) con 46.17 de descuento por 10.76 EUR (original: 19.99 EUR) en el siguiente enlace!

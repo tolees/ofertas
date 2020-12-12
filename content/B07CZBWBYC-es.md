@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Nike Tanjun Racer  Zapatillas para Hombre  Gris  Oil Grey/White-University Red 008   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZBWBYC/?tag=tolees-21'
+descuento: '56.16'
+titulo: 'Nike Tanjun Racer  Zapatillas para Hombr'
 ---
 
 Está [Nike Tanjun Racer  Zapatillas para Hombre  Gris  Oil Grey/White-University Red 008   44 EU](https://www.amazon.es/dp/B07CZBWBYC/?tag=tolees-21) con 56.16 de descuento por 30.69 EUR (original: 70 EUR) en el siguiente enlace!

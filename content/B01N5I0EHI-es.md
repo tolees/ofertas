@@ -17,6 +17,9 @@ comparePrice: 22.5 EUR
 inStock: true
 prodname: 'Superdry Hombre Cork Colour Pop Sandalias de Dedo Size: 40/41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5I0EHI/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Superdry Hombre Cork Colour Pop Sandalia'
 ---
 
 Tienes [Superdry Hombre Cork Colour Pop Sandalias de Dedo Size: 40/41 EU](https://www.amazon.es/dp/B01N5I0EHI/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 9 EUR (original: 22.5 EUR) en el siguiente enlace!

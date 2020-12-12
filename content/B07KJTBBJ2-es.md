@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Quiksilver Everyday Top  Hombre  Medieval Blue Stormy Sea  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJTBBJ2/?tag=tolees-21'
+descuento: '42.12'
+titulo: 'Quiksilver Everyday Top  Hombre  Medieva'
 ---
 
 Tienes [Quiksilver Everyday Top  Hombre  Medieval Blue Stormy Sea  L](https://www.amazon.es/dp/B07KJTBBJ2/?tag=tolees-21) con un 42.12 % de descuento con precio de oferta de 34.72 EUR (original: 59.99 EUR) en el siguiente enlace!

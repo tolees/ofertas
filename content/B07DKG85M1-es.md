@@ -17,6 +17,9 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'ZHIXIE Árbol de Globos  Soporte de Globos con Paleta de plástico Soporte de Globos  Boda  cumpleaños  Fiesta en el jardín y celebración de los Grandes Accesorios de Globos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKG85M1/?tag=tolees-21'
+descuento: '57.17'
+titulo: 'ZHIXIE Árbol de Globos  Soporte de Globo'
 ---
 
 Tienes [ZHIXIE Árbol de Globos  Soporte de Globos con Paleta de plástico Soporte de Globos  Boda  cumpleaños  Fiesta en el jardín y celebración de los Grandes Accesorios de Globos](https://www.amazon.es/dp/B07DKG85M1/?tag=tolees-21) con un 57.17 % de descuento con precio de oferta de 8.99 EUR (original: 20.99 EUR) en el siguiente enlace!

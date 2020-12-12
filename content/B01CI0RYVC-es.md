@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Wangel Adhesivo Fuerte Gancho Robe Sombrero Ropa Toalla Baño  Pegamento Patentado + Autoadhesivo  Acero Inoxidable  Acabado Pulido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CI0RYVC/?tag=tolees-21'
+descuento: '44.47'
+titulo: 'Wangel Adhesivo Fuerte Gancho Robe Sombr'
 ---
 
 Está [Wangel Adhesivo Fuerte Gancho Robe Sombrero Ropa Toalla Baño  Pegamento Patentado + Autoadhesivo  Acero Inoxidable  Acabado Pulido](https://www.amazon.es/dp/B01CI0RYVC/?tag=tolees-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

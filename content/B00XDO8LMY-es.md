@@ -17,6 +17,9 @@ comparePrice: 12.51 EUR
 inStock: true
 prodname: 'Bombay - Ginebra - 70 cl'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XDO8LMY/?tag=tolees-21'
+descuento: '41.09'
+titulo: 'Bombay - Ginebra - 70 cl'
 ---
 
 Ahora mismo tienes [Bombay - Ginebra - 70 cl](https://www.amazon.es/dp/B00XDO8LMY/?tag=tolees-21) a 7.37 EUR (original: 12.51 EUR) (41.09 %  de descuento) en el siguiente enlace!

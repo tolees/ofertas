@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Pack: Campeones + Ni Distintos Ni Diferentes: Campeones [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NDBTLK4/?tag=tolees-21'
+descuento: '52.81'
+titulo: 'Pack: Campeones + Ni Distintos Ni Difere'
 ---
 
 Ahora mismo tienes [Pack: Campeones + Ni Distintos Ni Diferentes: Campeones [Blu-ray]](https://www.amazon.es/dp/B07NDBTLK4/?tag=tolees-21) a 8.49 EUR (original: 17.99 EUR) (52.81 %  de descuento) en el siguiente enlace!

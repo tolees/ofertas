@@ -17,6 +17,9 @@ comparePrice: 66.6 EUR
 inStock: true
 prodname: 'One Punch Man Temporada 1 Ep. 1 A 12. Blu-Ray Edición Coleccionistas [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYBBSL7/?tag=tolees-21'
+descuento: '48.95'
+titulo: 'One Punch Man Temporada 1 Ep. 1 A 12. Bl'
 ---
 
 Ahora mismo tienes [One Punch Man Temporada 1 Ep. 1 A 12. Blu-Ray Edición Coleccionistas [Blu-ray]](https://www.amazon.es/dp/B01LYBBSL7/?tag=tolees-21) a 34 EUR (original: 66.6 EUR) (48.95 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 6.99 EUR
 inStock: true
 prodname: 'Multidermol Pomada Infantil - 50 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009SM7SO2/?tag=tolees-21'
+descuento: '29.47'
+titulo: 'Multidermol Pomada Infantil - 50 gr'
 ---
 
 Tienes [Multidermol Pomada Infantil - 50 gr](https://www.amazon.es/dp/B009SM7SO2/?tag=tolees-21) con un 29.47 % de descuento con precio de oferta de 4.93 EUR (original: 6.99 EUR) en el siguiente enlace!

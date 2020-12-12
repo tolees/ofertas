@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Roxy Da Rock Estuche Escolar  Mujer  Verde/Blanco  Bright White AX Boheme Border   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFV42DW/?tag=tolees-21'
+descuento: '46.53'
+titulo: 'Roxy Da Rock Estuche Escolar  Mujer  Ver'
 ---
 
 Está [Roxy Da Rock Estuche Escolar  Mujer  Verde/Blanco  Bright White AX Boheme Border   Talla Única](https://www.amazon.es/dp/B07DFV42DW/?tag=tolees-21) con 46.53 de descuento por 8.55 EUR (original: 15.99 EUR) en el siguiente enlace!

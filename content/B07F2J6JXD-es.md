@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorchris Shirt LS One Pocket  Camisa para Hombre  Rojo  Port Royale Fit:Slim/Solid  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2J6JXD/?tag=tolees-21'
+descuento: '52.42'
+titulo: 'JACK & JONES Jorchris Shirt LS One Pocke'
 ---
 
 Tienes [JACK & JONES Jorchris Shirt LS One Pocket  Camisa para Hombre  Rojo  Port Royale Fit:Slim/Solid  Small](https://www.amazon.es/dp/B07F2J6JXD/?tag=tolees-21) con un 52.42 % de descuento con precio de oferta de 14.27 EUR (original: 29.99 EUR) en el siguiente enlace!

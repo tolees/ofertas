@@ -17,6 +17,9 @@ comparePrice: 82.94 EUR
 inStock: true
 prodname: 'Soaked in Luxury Dafne Bomber Jacket  Chaqueta para Mujer  Gris  Light Grey with Embroidery   42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MDOBF85/?tag=tolees-21'
+descuento: '84.16'
+titulo: 'Soaked in Luxury Dafne Bomber Jacket  Ch'
 ---
 
 Ahora mismo tienes [Soaked in Luxury Dafne Bomber Jacket  Chaqueta para Mujer  Gris  Light Grey with Embroidery   42](https://www.amazon.es/dp/B01MDOBF85/?tag=tolees-21) a 13.14 EUR (original: 82.94 EUR) (84.16 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Robot Transformers Bumblebee transformable en coche con luz y sonido  Dickie 3113016 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XYBGFCQ/?tag=tolees-21'
+descuento: '36.34'
+titulo: 'Robot Transformers Bumblebee transformab'
 ---
 
 Tienes [Robot Transformers Bumblebee transformable en coche con luz y sonido  Dickie 3113016 ](https://www.amazon.es/dp/B06XYBGFCQ/?tag=tolees-21) con un 36.34 % de descuento con precio de oferta de 22.25 EUR (original: 34.95 EUR) en el siguiente enlace!

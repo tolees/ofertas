@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'Joma - Katy S/S  Color Yellow  Talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B010FXJSTA/?tag=tolees-21'
+descuento: '53.67'
+titulo: 'Joma - Katy S/S  Color Yellow  Talla L'
 ---
 
 Está [Joma - Katy S/S  Color Yellow  Talla L](https://www.amazon.es/dp/B010FXJSTA/?tag=tolees-21) con 53.67 de descuento por 6.95 EUR (original: 15 EUR) en el siguiente enlace!

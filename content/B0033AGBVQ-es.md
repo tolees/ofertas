@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'OMRON BF 511 - Báscula de análisis corporal  color turquesa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0033AGBVQ/?tag=tolees-21'
+descuento: '43.83'
+titulo: 'OMRON BF 511 - Báscula de análisis corpo'
 ---
 
 Tienes [OMRON BF 511 - Báscula de análisis corporal  color turquesa](https://www.amazon.es/dp/B0033AGBVQ/?tag=tolees-21) con un 43.83 % de descuento con precio de oferta de 49.99 EUR (original: 89 EUR) en el siguiente enlace!

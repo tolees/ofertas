@@ -17,6 +17,9 @@ comparePrice: 197 EUR
 inStock: true
 prodname: 'Carrera 4005/S W3 003  Gafas de sol para Hombre  Negro  Matt Black/Rd Red  65'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075X36DHT/?tag=tolees-21'
+descuento: '64.39'
+titulo: 'Carrera 4005/S W3 003  Gafas de sol para'
 ---
 
 Tienes [Carrera 4005/S W3 003  Gafas de sol para Hombre  Negro  Matt Black/Rd Red  65](https://www.amazon.es/dp/B075X36DHT/?tag=tolees-21) con un 64.39 % de descuento con precio de oferta de 70.15 EUR (original: 197 EUR) en el siguiente enlace!

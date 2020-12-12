@@ -17,6 +17,9 @@ comparePrice: 117.32 EUR
 inStock: true
 prodname: 'Pancellent Auto Focus Cámara de boroscopio inalámbrica Cámara de inspección de 5.0 megapíxeles 1944P WiFi Endoscopio HD con Cable Semi rígido para Android/iOS/Tableta  16.5FT / 5M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PV646HT/?tag=tolees-21'
+descuento: '40.42'
+titulo: 'Pancellent Auto Focus Cámara de boroscop'
 ---
 
 Ahora mismo tienes [Pancellent Auto Focus Cámara de boroscopio inalámbrica Cámara de inspección de 5.0 megapíxeles 1944P WiFi Endoscopio HD con Cable Semi rígido para Android/iOS/Tableta  16.5FT / 5M ](https://www.amazon.es/dp/B07PV646HT/?tag=tolees-21) a 69.9 EUR (original: 117.32 EUR) (40.42 %  de descuento) en el siguiente enlace!

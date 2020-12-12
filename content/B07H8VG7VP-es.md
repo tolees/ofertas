@@ -17,6 +17,9 @@ comparePrice: 25.8 EUR
 inStock: true
 prodname: 'New Look All Over Animal Windbreaker Chaqueta  Rojo  Red Pattern   40  Talla del Fabricante: 52  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H8VG7VP/?tag=tolees-21'
+descuento: '50.70'
+titulo: 'New Look All Over Animal Windbreaker Cha'
 ---
 
 Está [New Look All Over Animal Windbreaker Chaqueta  Rojo  Red Pattern   40  Talla del Fabricante: 52  para Mujer](https://www.amazon.es/dp/B07H8VG7VP/?tag=tolees-21) con 50.70 de descuento por 12.72 EUR (original: 25.8 EUR) en el siguiente enlace!

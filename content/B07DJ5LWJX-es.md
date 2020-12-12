@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'New Balance 230  Zapatos de Playa y Piscina Unisex Adulto  Azul  Pigment/White NV   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ5LWJX/?tag=tolees-21'
+descuento: '48.44'
+titulo: 'New Balance 230  Zapatos de Playa y Pisc'
 ---
 
 Tienes [New Balance 230  Zapatos de Playa y Piscina Unisex Adulto  Azul  Pigment/White NV   41.5 EU](https://www.amazon.es/dp/B07DJ5LWJX/?tag=tolees-21) con un 48.44 % de descuento con precio de oferta de 12.89 EUR (original: 25 EUR) en el siguiente enlace!

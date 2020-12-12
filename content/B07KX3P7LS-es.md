@@ -17,6 +17,9 @@ comparePrice: 82.99 EUR
 inStock: true
 prodname: 'Cámara IP WiFi  Hi-tech Cámara de Vigilancia WiFi Interior Inalámbrica  HD1920 x 1080p- P2P con Micrófono y Altavoz  Visión Nocturna  Detección de Movimiento  Camaras de Seguridad para Bebé y Mascota'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KX3P7LS/?tag=tolees-21'
+descuento: '50.61'
+titulo: 'Cámara IP WiFi  Hi-tech Cámara de Vigila'
 ---
 
 Ahora mismo tienes [Cámara IP WiFi  Hi-tech Cámara de Vigilancia WiFi Interior Inalámbrica  HD1920 x 1080p- P2P con Micrófono y Altavoz  Visión Nocturna  Detección de Movimiento  Camaras de Seguridad para Bebé y Mascota](https://www.amazon.es/dp/B07KX3P7LS/?tag=tolees-21) a 40.99 EUR (original: 82.99 EUR) (50.61 %  de descuento) en el siguiente enlace!

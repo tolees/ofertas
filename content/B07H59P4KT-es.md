@@ -17,6 +17,9 @@ comparePrice: 126.18 EUR
 inStock: true
 prodname: 'Liu Jo Bottom Up Ideal Vaqueros Skinny  Azul  Den.Blue Tulip Wash 77621   27W x 28L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H59P4KT/?tag=tolees-21'
+descuento: '32.68'
+titulo: 'Liu Jo Bottom Up Ideal Vaqueros Skinny  '
 ---
 
 Está [Liu Jo Bottom Up Ideal Vaqueros Skinny  Azul  Den.Blue Tulip Wash 77621   27W x 28L para Mujer](https://www.amazon.es/dp/B07H59P4KT/?tag=tolees-21) con 32.68 de descuento por 84.95 EUR (original: 126.18 EUR) en el siguiente enlace!

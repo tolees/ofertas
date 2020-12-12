@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 038eo1f001  Blusa Mujer  Azul  Light Blue 440   36  Talla del Fabricante: 34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HBCYRR/?tag=tolees-21'
+descuento: '66.67'
+titulo: 'ESPRIT Collection 038eo1f001  Blusa Muje'
 ---
 
 Tienes [ESPRIT Collection 038eo1f001  Blusa Mujer  Azul  Light Blue 440   36  Talla del Fabricante: 34 ](https://www.amazon.es/dp/B078HBCYRR/?tag=tolees-21) con un 66.67 % de descuento con precio de oferta de 16.66 EUR (original: 49.99 EUR) en el siguiente enlace!

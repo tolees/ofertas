@@ -17,6 +17,9 @@ comparePrice: 36.5 EUR
 inStock: true
 prodname: 'Clinique - Self Sun Body Daily Moisturizer - Crema corporal autobronceador - 125 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00B8QJYLQ/?tag=tolees-21'
+descuento: '41.64'
+titulo: 'Clinique - Self Sun Body Daily Moisturiz'
 ---
 
 Ahora mismo tienes [Clinique - Self Sun Body Daily Moisturizer - Crema corporal autobronceador - 125 ml](https://www.amazon.es/dp/B00B8QJYLQ/?tag=tolees-21) a 21.3 EUR (original: 36.5 EUR) (41.64 %  de descuento) en el siguiente enlace!

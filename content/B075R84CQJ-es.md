@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance 490  Zapatillas de Running para Hombre  Negro  Black/Magnet Lb6   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R84CQJ/?tag=tolees-21'
+descuento: '53.47'
+titulo: 'New Balance 490  Zapatillas de Running p'
 ---
 
 Tienes [New Balance 490  Zapatillas de Running para Hombre  Negro  Black/Magnet Lb6   42.5 EU](https://www.amazon.es/dp/B075R84CQJ/?tag=tolees-21) con un 53.47 % de descuento con precio de oferta de 32.57 EUR (original: 70 EUR) en el siguiente enlace!

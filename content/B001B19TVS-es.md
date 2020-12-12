@@ -17,6 +17,9 @@ comparePrice: 210 EUR
 inStock: true
 prodname: 'Timberland 6 inch Premium Waterproof  Botas para Hombre  Naranja  Rust Nubuck   43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001B19TVS/?tag=tolees-21'
+descuento: '48.73'
+titulo: 'Timberland 6 inch Premium Waterproof  Bo'
 ---
 
 Ahora mismo tienes [Timberland 6 inch Premium Waterproof  Botas para Hombre  Naranja  Rust Nubuck   43.5 EU](https://www.amazon.es/dp/B001B19TVS/?tag=tolees-21) a 107.66 EUR (original: 210 EUR) (48.73 %  de descuento) en el siguiente enlace!

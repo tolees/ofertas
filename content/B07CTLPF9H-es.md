@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Under Armour Remix  Zapatillas de Running para Hombre  Marrón  Khaki Base Summit White 200   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTLPF9H/?tag=tolees-21'
+descuento: '60.13'
+titulo: 'Under Armour Remix  Zapatillas de Runnin'
 ---
 
 Está [Under Armour Remix  Zapatillas de Running para Hombre  Marrón  Khaki Base Summit White 200   41 EU](https://www.amazon.es/dp/B07CTLPF9H/?tag=tolees-21) con 60.13 de descuento por 29.9 EUR (original: 75 EUR) en el siguiente enlace!

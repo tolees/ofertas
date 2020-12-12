@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Burton Elodie Chaqueta de Snowboard  Niñas  Azul  Camp Craft/Spellbound   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQ7PDJQ/?tag=tolees-21'
+descuento: '60.90'
+titulo: 'Burton Elodie Chaqueta de Snowboard  Niñ'
 ---
 
 Ahora mismo tienes [Burton Elodie Chaqueta de Snowboard  Niñas  Azul  Camp Craft/Spellbound   L](https://www.amazon.es/dp/B07DQ7PDJQ/?tag=tolees-21) a 39.1 EUR (original: 100 EUR) (60.90 %  de descuento) en el siguiente enlace!

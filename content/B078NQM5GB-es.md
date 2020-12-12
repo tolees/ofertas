@@ -17,6 +17,9 @@ comparePrice: 113.13 EUR
 inStock: true
 prodname: 'iClever 4 USB Wall Charger'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078NQM5GB/?tag=tolees-21'
+descuento: '85.87'
+titulo: 'iClever 4 USB Wall Charger'
 ---
 
 Ahora mismo tienes [iClever 4 USB Wall Charger](https://www.amazon.es/dp/B078NQM5GB/?tag=tolees-21) a 15.99 EUR (original: 113.13 EUR) (85.87 %  de descuento) en el siguiente enlace!

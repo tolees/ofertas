@@ -17,6 +17,9 @@ comparePrice: 86.24 EUR
 inStock: true
 prodname: 'Asics Gel-Sonoma 3  Zapatillas de Entrenamiento para Mujer  Negro  Black/Dark Grey 001   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1M3XSX/?tag=tolees-21'
+descuento: '46.67'
+titulo: 'Asics Gel-Sonoma 3  Zapatillas de Entren'
 ---
 
 Ahora mismo tienes [Asics Gel-Sonoma 3  Zapatillas de Entrenamiento para Mujer  Negro  Black/Dark Grey 001   40.5 EU](https://www.amazon.es/dp/B07D1M3XSX/?tag=tolees-21) a 45.99 EUR (original: 86.24 EUR) (46.67 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Avoalre Termo Café para Llevar de Acero Inoxidable 20OZ / 580ml | Taza Termo Cafe para Llevar sin BPA | Vaso Termico Cafe para Llevar | Tazas Termicas para Llevar - Blanc Crème'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RKMYJQG/?tag=tolees-21'
+descuento: '71.44'
+titulo: 'Avoalre Termo Café para Llevar de Acero '
 ---
 
 Está [Avoalre Termo Café para Llevar de Acero Inoxidable 20OZ / 580ml | Taza Termo Cafe para Llevar sin BPA | Vaso Termico Cafe para Llevar | Tazas Termicas para Llevar - Blanc Crème](https://www.amazon.es/dp/B07RKMYJQG/?tag=tolees-21) con 71.44 de descuento por 19.99 EUR (original: 69.99 EUR) en el siguiente enlace!

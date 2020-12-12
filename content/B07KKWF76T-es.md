@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Roxy Cosmic Nights Fleece Top  Mujer  Salmon  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKWF76T/?tag=tolees-21'
+descuento: '56.31'
+titulo: 'Roxy Cosmic Nights Fleece Top  Mujer  Sa'
 ---
 
 Ahora mismo tienes [Roxy Cosmic Nights Fleece Top  Mujer  Salmon  S](https://www.amazon.es/dp/B07KKWF76T/?tag=tolees-21) a 26.21 EUR (original: 59.99 EUR) (56.31 %  de descuento) en el siguiente enlace!

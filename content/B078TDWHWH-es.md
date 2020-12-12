@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'sikiwind Coctelera Set de 7 Piezas de Acero Inoxidable Camareros Coctelera de 25 Oz Martini con Jigger de Medición  Cuchara de Mezcla  Bebida Muddle  Coladores y Pinzas de Hielo + Receta de Bebidas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078TDWHWH/?tag=tolees-21'
+descuento: '35.50'
+titulo: 'sikiwind Coctelera Set de 7 Piezas de Ac'
 ---
 
 Tienes [sikiwind Coctelera Set de 7 Piezas de Acero Inoxidable Camareros Coctelera de 25 Oz Martini con Jigger de Medición  Cuchara de Mezcla  Bebida Muddle  Coladores y Pinzas de Hielo + Receta de Bebidas](https://www.amazon.es/dp/B078TDWHWH/?tag=tolees-21) con un 35.50 % de descuento con precio de oferta de 19.99 EUR (original: 30.99 EUR) en el siguiente enlace!

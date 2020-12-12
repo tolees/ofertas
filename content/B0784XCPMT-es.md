@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'adidas Cloudfoam Racer TR  Zapatillas de Running para Asfalto para Hombre  Negro Cblack/Greone 000  42 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0784XCPMT/?tag=tolees-21'
+descuento: '57.49'
+titulo: 'adidas Cloudfoam Racer TR  Zapatillas de'
 ---
 
 Está [adidas Cloudfoam Racer TR  Zapatillas de Running para Asfalto para Hombre  Negro Cblack/Greone 000  42 2/3 EU](https://www.amazon.es/dp/B0784XCPMT/?tag=tolees-21) con 57.49 de descuento por 31.86 EUR (original: 74.95 EUR) en el siguiente enlace!

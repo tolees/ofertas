@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Under Armour UA HG Armour LS Camiseta  Hombre  Rojo  Red/Steel 600   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KHTNWQS/?tag=tolees-21'
+descuento: '59.39'
+titulo: 'Under Armour UA HG Armour LS Camiseta  H'
 ---
 
 Tienes [Under Armour UA HG Armour LS Camiseta  Hombre  Rojo  Red/Steel 600   M](https://www.amazon.es/dp/B00KHTNWQS/?tag=tolees-21) con un 59.39 % de descuento con precio de oferta de 14.21 EUR (original: 34.99 EUR) en el siguiente enlace!

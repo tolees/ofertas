@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Samsung Dream Silicone Cover  Funda para smartphone Samsung Galaxy S8  Violeta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XGBLPSH/?tag=tolees-21'
+descuento: '59.90'
+titulo: 'Samsung Dream Silicone Cover  Funda para'
 ---
 
 Tienes [Samsung Dream Silicone Cover  Funda para smartphone Samsung Galaxy S8  Violeta](https://www.amazon.es/dp/B06XGBLPSH/?tag=tolees-21) con un 59.90 % de descuento con precio de oferta de 11.99 EUR (original: 29.9 EUR) en el siguiente enlace!

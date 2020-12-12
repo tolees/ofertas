@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'find. Camisa de Rayas con Hombros al Aire para Mujer   Azul  Blue Stripe Floral   46  Talla del Fabricante: XX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XDLYJ4C/?tag=tolees-21'
+descuento: '66.37'
+titulo: 'find. Camisa de Rayas con Hombros al Air'
 ---
 
 Está [find. Camisa de Rayas con Hombros al Aire para Mujer   Azul  Blue Stripe Floral   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B06XDLYJ4C/?tag=tolees-21) con 66.37 de descuento por 11.77 EUR (original: 35 EUR) en el siguiente enlace!

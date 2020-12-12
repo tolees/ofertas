@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma RS-150 Wn s  Zapatillas para Mujer  Negro Black  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBWYT82/?tag=tolees-21'
+descuento: '82.87'
+titulo: 'Puma RS-150 Wn s  Zapatillas para Mujer '
 ---
 
 Ahora mismo tienes [Puma RS-150 Wn s  Zapatillas para Mujer  Negro Black  37 EU](https://www.amazon.es/dp/B07DBWYT82/?tag=tolees-21) a 17.12 EUR (original: 99.95 EUR) (82.87 %  de descuento) en el siguiente enlace!

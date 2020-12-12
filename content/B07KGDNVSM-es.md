@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'BOSS Trunk 3P CO/EL Bóxer   Open Miscellaneous 985   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGDNVSM/?tag=tolees-21'
+descuento: '43.08'
+titulo: 'BOSS Trunk 3P CO/EL Bóxer   Open Miscell'
 ---
 
 Está [BOSS Trunk 3P CO/EL Bóxer   Open Miscellaneous 985   Medium para Hombre](https://www.amazon.es/dp/B07KGDNVSM/?tag=tolees-21) con 43.08 de descuento por 22.74 EUR (original: 39.95 EUR) en el siguiente enlace!

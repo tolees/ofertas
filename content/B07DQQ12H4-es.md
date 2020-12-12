@@ -17,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'TECCPO Soplador de Hojas  18V 2.0Ah Soplador de Hojas a Batería  Ventilador Axial  9000 / 15000rpm Interruptor de 2 Velocidades  Adecuado para Varios Entornos  Soplar Hojas- TDAB02G'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQQ12H4/?tag=tolees-21'
+descuento: '64.71'
+titulo: 'TECCPO Soplador de Hojas  18V 2.0Ah Sopl'
 ---
 
 Ahora mismo tienes [TECCPO Soplador de Hojas  18V 2.0Ah Soplador de Hojas a Batería  Ventilador Axial  9000 / 15000rpm Interruptor de 2 Velocidades  Adecuado para Varios Entornos  Soplar Hojas- TDAB02G](https://www.amazon.es/dp/B07DQQ12H4/?tag=tolees-21) a 59.99 EUR (original: 169.99 EUR) (64.71 %  de descuento) en el siguiente enlace!

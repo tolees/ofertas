@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Helly Hansen Crew Softshell Jacket  Chaqueta deportiva para Hombre  Azul  Azul Grafito 994   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F33M9SY/?tag=tolees-21'
+descuento: '41.19'
+titulo: 'Helly Hansen Crew Softshell Jacket  Chaq'
 ---
 
 Está [Helly Hansen Crew Softshell Jacket  Chaqueta deportiva para Hombre  Azul  Azul Grafito 994   Medium](https://www.amazon.es/dp/B07F33M9SY/?tag=tolees-21) con 41.19 de descuento por 76.45 EUR (original: 130 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Cámara WiFi  Houzetek Cámaras de Vigilancia 1080P Infrarroja Nocturna 360 Grados con Voz Bidireccional  Camara WiFi Interior para Bebé  Familia y Mascota'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GNWJL58/?tag=tolees-21'
+descuento: '30.98'
+titulo: 'Cámara WiFi  Houzetek Cámaras de Vigilan'
 ---
 
 Ahora mismo tienes [Cámara WiFi  Houzetek Cámaras de Vigilancia 1080P Infrarroja Nocturna 360 Grados con Voz Bidireccional  Camara WiFi Interior para Bebé  Familia y Mascota](https://www.amazon.es/dp/B07GNWJL58/?tag=tolees-21) a 27.6 EUR (original: 39.99 EUR) (30.98 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 's.Oliver 26245  Botas Militar para Mujer  Rojo  Bordeaux   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071G84NFV/?tag=tolees-21'
+descuento: '67.89'
+titulo: 's.Oliver 26245  Botas Militar para Mujer'
 ---
 
 Ahora mismo tienes [s.Oliver 26245  Botas Militar para Mujer  Rojo  Bordeaux   39 EU](https://www.amazon.es/dp/B071G84NFV/?tag=tolees-21) a 25.67 EUR (original: 79.95 EUR) (67.89 %  de descuento) en el siguiente enlace!

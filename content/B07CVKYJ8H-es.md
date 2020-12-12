@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Skechers TWI-Lites-Twinkle Starz  Zapatillas para Niñas  Rosa  Pink/Multi Pkmt   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVKYJ8H/?tag=tolees-21'
+descuento: '68.04'
+titulo: 'Skechers TWI-Lites-Twinkle Starz  Zapati'
 ---
 
 Tienes [Skechers TWI-Lites-Twinkle Starz  Zapatillas para Niñas  Rosa  Pink/Multi Pkmt   36 EU](https://www.amazon.es/dp/B07CVKYJ8H/?tag=tolees-21) con un 68.04 % de descuento con precio de oferta de 17.56 EUR (original: 54.95 EUR) en el siguiente enlace!

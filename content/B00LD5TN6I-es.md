@@ -17,6 +17,9 @@ comparePrice: 103.1 EUR
 inStock: true
 prodname: 'Antalis Coloraction de papel 250 hojas Image digicolor A3 160 G Color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LD5TN6I/?tag=tolees-21'
+descuento: '74.53'
+titulo: 'Antalis Coloraction de papel 250 hojas I'
 ---
 
 Ahora mismo tienes [Antalis Coloraction de papel 250 hojas Image digicolor A3 160 G Color blanco](https://www.amazon.es/dp/B00LD5TN6I/?tag=tolees-21) a 26.26 EUR (original: 103.1 EUR) (74.53 %  de descuento) en el siguiente enlace!

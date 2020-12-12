@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'New Balance 411  Zapatillas de Running para Hombre  Azul  Team Royal/White/Black Lr1   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ21F5B/?tag=tolees-21'
+descuento: '39.28'
+titulo: 'New Balance 411  Zapatillas de Running p'
 ---
 
 Tienes [New Balance 411  Zapatillas de Running para Hombre  Azul  Team Royal/White/Black Lr1   45 EU](https://www.amazon.es/dp/B07DJ21F5B/?tag=tolees-21) con un 39.28 % de descuento con precio de oferta de 30.36 EUR (original: 50 EUR) en el siguiente enlace!

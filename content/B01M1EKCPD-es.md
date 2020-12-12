@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Alcatel Shine 5080X - Smartphone  RAM de 2 GB  Memoria Interna de 16 GB  Cámara de 13 MPs  Android   Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M1EKCPD/?tag=tolees-21'
+descuento: '45.23'
+titulo: 'Alcatel Shine 5080X - Smartphone  RAM de'
 ---
 
 Ahora mismo tienes [Alcatel Shine 5080X - Smartphone  RAM de 2 GB  Memoria Interna de 16 GB  Cámara de 13 MPs  Android   Color Negro](https://www.amazon.es/dp/B01M1EKCPD/?tag=tolees-21) a 109 EUR (original: 199 EUR) (45.23 %  de descuento) en el siguiente enlace!

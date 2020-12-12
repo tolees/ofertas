@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'AURIQUE camiseta deportiva mujer  Morado  38  Talla del fabricante: S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0778ZCPV9/?tag=tolees-21'
+descuento: '65.47'
+titulo: 'AURIQUE camiseta deportiva mujer  Morado'
 ---
 
 Está [AURIQUE camiseta deportiva mujer  Morado  38  Talla del fabricante: S ](https://www.amazon.es/dp/B0778ZCPV9/?tag=tolees-21) con 65.47 de descuento por 5.18 EUR (original: 15 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 77.17 EUR
 inStock: true
 prodname: 'DROP SHOT Briguitte Paletero Pádel  Adultos Unisex  Gris  1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072JF82HK/?tag=tolees-21'
+descuento: '61.77'
+titulo: 'DROP SHOT Briguitte Paletero Pádel  Adul'
 ---
 
 Está [DROP SHOT Briguitte Paletero Pádel  Adultos Unisex  Gris  1](https://www.amazon.es/dp/B072JF82HK/?tag=tolees-21) con 61.77 de descuento por 29.5 EUR (original: 77.17 EUR) en el siguiente enlace!

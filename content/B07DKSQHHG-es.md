@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Quiksilver Grebe  Botas Slouch para Hombre  Negro  Black/Grey/Brown-Combo Xksc   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKSQHHG/?tag=tolees-21'
+descuento: '74.85'
+titulo: 'Quiksilver Grebe  Botas Slouch para Homb'
 ---
 
 Está [Quiksilver Grebe  Botas Slouch para Hombre  Negro  Black/Grey/Brown-Combo Xksc   42 EU](https://www.amazon.es/dp/B07DKSQHHG/?tag=tolees-21) con 74.85 de descuento por 27.66 EUR (original: 109.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.75 EUR
 inStock: true
 prodname: 'Superdry Vintage Logo Panel Lite tee Camiseta  Turquesa  Aquamarine Grit Snv   XS para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZHHGMB/?tag=tolees-21'
+descuento: '53.58'
+titulo: 'Superdry Vintage Logo Panel Lite tee Cam'
 ---
 
 Está [Superdry Vintage Logo Panel Lite tee Camiseta  Turquesa  Aquamarine Grit Snv   XS para Hombre](https://www.amazon.es/dp/B07MZHHGMB/?tag=tolees-21) con 53.58 de descuento por 18.45 EUR (original: 39.75 EUR) en el siguiente enlace!

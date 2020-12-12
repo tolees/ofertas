@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Tamaris 26714  Botas Militar para Mujer  Marrón  Pepper Patstr   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072KNRHGR/?tag=tolees-21'
+descuento: '69.08'
+titulo: 'Tamaris 26714  Botas Militar para Mujer '
 ---
 
 Tienes [Tamaris 26714  Botas Militar para Mujer  Marrón  Pepper Patstr   39 EU](https://www.amazon.es/dp/B072KNRHGR/?tag=tolees-21) con un 69.08 % de descuento con precio de oferta de 21.63 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'SMILODOX - Sandalias para Hombre  Color Gris  Talla 41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GF43SJ/?tag=tolees-21'
+descuento: '71.45'
+titulo: 'SMILODOX - Sandalias para Hombre  Color '
 ---
 
 Está [SMILODOX - Sandalias para Hombre  Color Gris  Talla 41 EU](https://www.amazon.es/dp/B078GF43SJ/?tag=tolees-21) con 71.45 de descuento por 9.99 EUR (original: 34.99 EUR) en el siguiente enlace!

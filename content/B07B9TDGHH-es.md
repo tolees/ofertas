@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Merrell Bare Access Flex Shield  Zapatillas Deportivas para Interior para Mujer  Rosa Neon Vapor  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B9TDGHH/?tag=tolees-21'
+descuento: '72.81'
+titulo: 'Merrell Bare Access Flex Shield  Zapatil'
 ---
 
 Está [Merrell Bare Access Flex Shield  Zapatillas Deportivas para Interior para Mujer  Rosa Neon Vapor  42 EU](https://www.amazon.es/dp/B07B9TDGHH/?tag=tolees-21) con 72.81 de descuento por 35.35 EUR (original: 130 EUR) en el siguiente enlace!

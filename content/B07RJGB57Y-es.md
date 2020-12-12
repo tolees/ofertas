@@ -17,6 +17,9 @@ comparePrice: 29.2 EUR
 inStock: true
 prodname: 'New Look Barry Vaqueros Skinny  Blanco  White 10   W36/L30  Talla del Fabricante: 36R  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RJGB57Y/?tag=tolees-21'
+descuento: '58.90'
+titulo: 'New Look Barry Vaqueros Skinny  Blanco  '
 ---
 
 Está [New Look Barry Vaqueros Skinny  Blanco  White 10   W36/L30  Talla del Fabricante: 36R  para Hombre](https://www.amazon.es/dp/B07RJGB57Y/?tag=tolees-21) con 58.90 de descuento por 12 EUR (original: 29.2 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'El club de los poetas muertos [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LXUKPPQ/?tag=tolees-21'
+descuento: '41.39'
+titulo: 'El club de los poetas muertos [Blu-ray]'
 ---
 
 Tienes [El club de los poetas muertos [Blu-ray]](https://www.amazon.es/dp/B00LXUKPPQ/?tag=tolees-21) con un 41.39 % de descuento con precio de oferta de 7.59 EUR (original: 12.95 EUR) en el siguiente enlace!

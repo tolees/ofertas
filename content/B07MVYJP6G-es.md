@@ -17,6 +17,9 @@ comparePrice: 58.99 EUR
 inStock: true
 prodname: 'Auriculares Gaming PS4  Cascos Gaming con Micrófono de Mac Estéreo Juego Auriculares Gaming Ajustable con 3.5mm Jack y Luz LED Bajo Ruido Compatible con PS4 / Nintendo Switch / PC / Xbox One / Móvil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MVYJP6G/?tag=tolees-21'
+descuento: '72.89'
+titulo: 'Auriculares Gaming PS4  Cascos Gaming co'
 ---
 
 Está [Auriculares Gaming PS4  Cascos Gaming con Micrófono de Mac Estéreo Juego Auriculares Gaming Ajustable con 3.5mm Jack y Luz LED Bajo Ruido Compatible con PS4 / Nintendo Switch / PC / Xbox One / Móvil](https://www.amazon.es/dp/B07MVYJP6G/?tag=tolees-21) con 72.89 de descuento por 15.99 EUR (original: 58.99 EUR) en el siguiente enlace!

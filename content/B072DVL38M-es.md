@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'DoGeek Chaussure Aquatique Zapatos de Agua Acuático Escarpines para el Agua de Surf de Playa de Deporte'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072DVL38M/?tag=tolees-21'
+descuento: '43.35'
+titulo: 'DoGeek Chaussure Aquatique Zapatos de Ag'
 ---
 
 Ahora mismo tienes [DoGeek Chaussure Aquatique Zapatos de Agua Acuático Escarpines para el Agua de Surf de Playa de Deporte](https://www.amazon.es/dp/B072DVL38M/?tag=tolees-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!

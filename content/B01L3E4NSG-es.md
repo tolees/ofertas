@@ -17,6 +17,9 @@ comparePrice: 289 EUR
 inStock: true
 prodname: 'Geographical Norway Chapria Lady  Parka para Mujer  Rojo  Talla 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L3E4NSG/?tag=tolees-21'
+descuento: '72.39'
+titulo: 'Geographical Norway Chapria Lady  Parka '
 ---
 
 Ahora mismo tienes [Geographical Norway Chapria Lady  Parka para Mujer  Rojo  Talla 2](https://www.amazon.es/dp/B01L3E4NSG/?tag=tolees-21) a 79.8 EUR (original: 289 EUR) (72.39 %  de descuento) en el siguiente enlace!

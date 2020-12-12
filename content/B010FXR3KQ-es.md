@@ -17,6 +17,9 @@ comparePrice: 28.95 EUR
 inStock: true
 prodname: 'Joma - Chaqueta Mujer Capucha Crew Marino-Rojo para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B010FXR3KQ/?tag=tolees-21'
+descuento: '38.00'
+titulo: 'Joma - Chaqueta Mujer Capucha Crew Marin'
 ---
 
 Está [Joma - Chaqueta Mujer Capucha Crew Marino-Rojo para Mujer](https://www.amazon.es/dp/B010FXR3KQ/?tag=tolees-21) con 38.00 de descuento por 17.95 EUR (original: 28.95 EUR) en el siguiente enlace!

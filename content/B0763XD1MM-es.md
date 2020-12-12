@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Funko Pop!- The Walking Dead Richard Figura de Vinilo  25203 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0763XD1MM/?tag=tolees-21'
+descuento: '65.58'
+titulo: 'Funko Pop!- The Walking Dead Richard Fig'
 ---
 
 Ahora mismo tienes [Funko Pop!- The Walking Dead Richard Figura de Vinilo  25203 ](https://www.amazon.es/dp/B0763XD1MM/?tag=tolees-21) a 5.49 EUR (original: 15.95 EUR) (65.58 %  de descuento) en el siguiente enlace!

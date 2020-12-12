@@ -17,6 +17,9 @@ comparePrice: 669.99 EUR
 inStock: true
 prodname: 'Corsair Vengeance LED - Kit de Memoria Entusiasta de 64 GB  4 x 16 GB  DDR4  3000 MHz  C15  XMP 2.0  Negro con Azul LED iluminación'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M1GDP37/?tag=tolees-21'
+descuento: '42.33'
+titulo: 'Corsair Vengeance LED - Kit de Memoria E'
 ---
 
 Tienes [Corsair Vengeance LED - Kit de Memoria Entusiasta de 64 GB  4 x 16 GB  DDR4  3000 MHz  C15  XMP 2.0  Negro con Azul LED iluminación](https://www.amazon.es/dp/B01M1GDP37/?tag=tolees-21) con un 42.33 % de descuento con precio de oferta de 386.41 EUR (original: 669.99 EUR) en el siguiente enlace!

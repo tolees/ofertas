@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Tuscany Silver 8.43.5904 - Cadena con colgante de plata de ley  925/1000   con circonita  46 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004FYXVWG/?tag=tolees-21'
+descuento: '68.72'
+titulo: 'Tuscany Silver 8.43.5904 - Cadena con co'
 ---
 
 Está [Tuscany Silver 8.43.5904 - Cadena con colgante de plata de ley  925/1000   con circonita  46 cm](https://www.amazon.es/dp/B004FYXVWG/?tag=tolees-21) con 68.72 de descuento por 37.22 EUR (original: 119 EUR) en el siguiente enlace!

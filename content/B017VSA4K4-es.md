@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'School Rag Jalouse - vestido Mujer  Blanc  42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017VSA4K4/?tag=tolees-21'
+descuento: '78.45'
+titulo: 'School Rag Jalouse - vestido Mujer  Blan'
 ---
 
 Está [School Rag Jalouse - vestido Mujer  Blanc  42](https://www.amazon.es/dp/B017VSA4K4/?tag=tolees-21) con 78.45 de descuento por 12.91 EUR (original: 59.9 EUR) en el siguiente enlace!

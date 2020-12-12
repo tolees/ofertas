@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Nike SB Delta Force Vulc  Zapatillas de Skateboard Unisex Adulto   Black Anthracite/White 010   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072MQR1PM/?tag=tolees-21'
+descuento: '47.62'
+titulo: 'Nike SB Delta Force Vulc  Zapatillas de '
 ---
 
 Está [Nike SB Delta Force Vulc  Zapatillas de Skateboard Unisex Adulto   Black Anthracite/White 010   44.5 EU](https://www.amazon.es/dp/B072MQR1PM/?tag=tolees-21) con 47.62 de descuento por 28.81 EUR (original: 55 EUR) en el siguiente enlace!

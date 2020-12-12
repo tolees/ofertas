@@ -17,6 +17,9 @@ comparePrice: 50.99 EUR
 inStock: true
 prodname: 'COFIT Organizador Plegable de Maletero con Fondo Impermeable para Coche  Picnic  Casa y Compras - Rojo y Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y61V5FF/?tag=tolees-21'
+descuento: '74.52'
+titulo: 'COFIT Organizador Plegable de Maletero c'
 ---
 
 Tienes [COFIT Organizador Plegable de Maletero con Fondo Impermeable para Coche  Picnic  Casa y Compras - Rojo y Negro](https://www.amazon.es/dp/B06Y61V5FF/?tag=tolees-21) con un 74.52 % de descuento con precio de oferta de 12.99 EUR (original: 50.99 EUR) en el siguiente enlace!

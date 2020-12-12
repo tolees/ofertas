@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Superdry Heritage Classic Lite Hood Sudadera  Rojo  Eagle Red A7Z   L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZHYL9W/?tag=tolees-21'
+descuento: '43.09'
+titulo: 'Superdry Heritage Classic Lite Hood Suda'
 ---
 
 Está [Superdry Heritage Classic Lite Hood Sudadera  Rojo  Eagle Red A7Z   L para Hombre](https://www.amazon.es/dp/B07MZHYL9W/?tag=tolees-21) con 43.09 de descuento por 51.16 EUR (original: 89.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 103.08 EUR
 inStock: true
 prodname: 'Asics Gel-Quest FF  Zapatillas de Running para Hombre  Negro Black 001  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D61T1DH/?tag=tolees-21'
+descuento: '66.77'
+titulo: 'Asics Gel-Quest FF  Zapatillas de Runnin'
 ---
 
 Tienes [Asics Gel-Quest FF  Zapatillas de Running para Hombre  Negro Black 001  42 EU](https://www.amazon.es/dp/B07D61T1DH/?tag=tolees-21) con un 66.77 % de descuento con precio de oferta de 34.25 EUR (original: 103.08 EUR) en el siguiente enlace!

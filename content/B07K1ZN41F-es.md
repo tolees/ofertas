@@ -17,6 +17,9 @@ comparePrice: 30.89 EUR
 inStock: true
 prodname: 'yoptote Rampa Coche Juguetes Madera Circuito Coches Pista con 4 Vehiculos Juguete Carreras Regalos Cumpleaños Niños para Niños Niña 18+ Meses'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K1ZN41F/?tag=tolees-21'
+descuento: '38.62'
+titulo: 'yoptote Rampa Coche Juguetes Madera Circ'
 ---
 
 Está [yoptote Rampa Coche Juguetes Madera Circuito Coches Pista con 4 Vehiculos Juguete Carreras Regalos Cumpleaños Niños para Niños Niña 18+ Meses](https://www.amazon.es/dp/B07K1ZN41F/?tag=tolees-21) con 38.62 de descuento por 18.96 EUR (original: 30.89 EUR) en el siguiente enlace!

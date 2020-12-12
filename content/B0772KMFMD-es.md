@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'MERAKI Pantalones Cargo Rectos Hombre  Azul  Navy   W30/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0772KMFMD/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'MERAKI Pantalones Cargo Rectos Hombre  A'
 ---
 
 Está [MERAKI Pantalones Cargo Rectos Hombre  Azul  Navy   W30/L32](https://www.amazon.es/dp/B0772KMFMD/?tag=tolees-21) con 50.00 de descuento por 15 EUR (original: 30 EUR) en el siguiente enlace!

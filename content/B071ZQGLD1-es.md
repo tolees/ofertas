@@ -17,6 +17,9 @@ comparePrice: 18.68 EUR
 inStock: true
 prodname: 'LOQI POP bolsa de asa de bolsa de viaje de compras  50 cm  Corazones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071ZQGLD1/?tag=tolees-21'
+descuento: '46.73'
+titulo: 'LOQI POP bolsa de asa de bolsa de viaje '
 ---
 
 Tienes [LOQI POP bolsa de asa de bolsa de viaje de compras  50 cm  Corazones](https://www.amazon.es/dp/B071ZQGLD1/?tag=tolees-21) con un 46.73 % de descuento con precio de oferta de 9.95 EUR (original: 18.68 EUR) en el siguiente enlace!

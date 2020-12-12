@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Under Armour UA Charged Bandit 3  Zapatillas de Running para Hombre   Bayou Blue/Apollo Gray/White   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTRXT8B/?tag=tolees-21'
+descuento: '46.01'
+titulo: 'Under Armour UA Charged Bandit 3  Zapati'
 ---
 
 Tienes [Under Armour UA Charged Bandit 3  Zapatillas de Running para Hombre   Bayou Blue/Apollo Gray/White   44 EU](https://www.amazon.es/dp/B01MTRXT8B/?tag=tolees-21) con un 46.01 % de descuento con precio de oferta de 53.99 EUR (original: 100 EUR) en el siguiente enlace!

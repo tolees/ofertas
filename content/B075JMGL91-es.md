@@ -17,6 +17,9 @@ comparePrice: 11.95 EUR
 inStock: true
 prodname: 'Zuru - ZURU FIDGET CUBE Hulk  ColorBaby 85173 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075JMGL91/?tag=tolees-21'
+descuento: '74.90'
+titulo: 'Zuru - ZURU FIDGET CUBE Hulk  ColorBaby '
 ---
 
 Está [Zuru - ZURU FIDGET CUBE Hulk  ColorBaby 85173 ](https://www.amazon.es/dp/B075JMGL91/?tag=tolees-21) con 74.90 de descuento por 3 EUR (original: 11.95 EUR) en el siguiente enlace!

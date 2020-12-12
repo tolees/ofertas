@@ -17,6 +17,9 @@ comparePrice: 29.28 EUR
 inStock: true
 prodname: 'Sol Cerveza - Paquete de 24 Botellas x 330 ml - Total: 7.92 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0166FXOBO/?tag=tolees-21'
+descuento: '33.47'
+titulo: 'Sol Cerveza - Paquete de 24 Botellas x 3'
 ---
 
 Está [Sol Cerveza - Paquete de 24 Botellas x 330 ml - Total: 7.92 L](https://www.amazon.es/dp/B0166FXOBO/?tag=tolees-21) con 33.47 de descuento por 19.48 EUR (original: 29.28 EUR) en el siguiente enlace!

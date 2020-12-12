@@ -17,6 +17,9 @@ comparePrice: 17.9 EUR
 inStock: true
 prodname: 'Lékué Cookie Glass  Silicona  Rojo  5 cm  8 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LQB2G80/?tag=tolees-21'
+descuento: '58.38'
+titulo: 'Lékué Cookie Glass  Silicona  Rojo  5 cm'
 ---
 
 Ahora mismo tienes [Lékué Cookie Glass  Silicona  Rojo  5 cm  8 Unidades](https://www.amazon.es/dp/B01LQB2G80/?tag=tolees-21) a 7.45 EUR (original: 17.9 EUR) (58.38 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15.8 EUR
 inStock: true
 prodname: 'ARTESANIA CERDA Gorra Premium Minnie  Niñas  Rojo  M  Tamaño del Fabricante:53 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MG7N7P2/?tag=tolees-21'
+descuento: '46.27'
+titulo: 'ARTESANIA CERDA Gorra Premium Minnie  Ni'
 ---
 
 Ahora mismo tienes [ARTESANIA CERDA Gorra Premium Minnie  Niñas  Rojo  M  Tamaño del Fabricante:53 ](https://www.amazon.es/dp/B07MG7N7P2/?tag=tolees-21) a 8.49 EUR (original: 15.8 EUR) (46.27 %  de descuento) en el siguiente enlace!

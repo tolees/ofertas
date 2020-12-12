@@ -17,6 +17,9 @@ comparePrice: 21 EUR
 inStock: true
 prodname: 'Nike Park VI Camiseta de Manga Corta para hombre  Dorado  Jersey Dorado/Black   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001KUNFNS/?tag=tolees-21'
+descuento: '40.14'
+titulo: 'Nike Park VI Camiseta de Manga Corta par'
 ---
 
 Está [Nike Park VI Camiseta de Manga Corta para hombre  Dorado  Jersey Dorado/Black   S](https://www.amazon.es/dp/B001KUNFNS/?tag=tolees-21) con 40.14 de descuento por 12.57 EUR (original: 21 EUR) en el siguiente enlace!

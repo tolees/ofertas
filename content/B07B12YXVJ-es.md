@@ -17,6 +17,9 @@ comparePrice: 19.96 EUR
 inStock: true
 prodname: 'Desperados Cerveza - 4 Packs de 6 Botellas x 250 ml - Total: 6 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B12YXVJ/?tag=tolees-21'
+descuento: '27.25'
+titulo: 'Desperados Cerveza - 4 Packs de 6 Botell'
 ---
 
 Está [Desperados Cerveza - 4 Packs de 6 Botellas x 250 ml - Total: 6 L](https://www.amazon.es/dp/B07B12YXVJ/?tag=tolees-21) con 27.25 de descuento por 14.52 EUR (original: 19.96 EUR) en el siguiente enlace!

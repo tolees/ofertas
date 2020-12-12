@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Lacoste Sport L.Ight 318 3 SPM  Zapatillas para Hombre  Azul  Nvy/BRW 2q8   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZHLGXM/?tag=tolees-21'
+descuento: '50.53'
+titulo: 'Lacoste Sport L.Ight 318 3 SPM  Zapatill'
 ---
 
 Está [Lacoste Sport L.Ight 318 3 SPM  Zapatillas para Hombre  Azul  Nvy/BRW 2q8   41 EU](https://www.amazon.es/dp/B07CZHLGXM/?tag=tolees-21) con 50.53 de descuento por 48.98 EUR (original: 99 EUR) en el siguiente enlace!

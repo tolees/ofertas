@@ -17,6 +17,9 @@ comparePrice: 36.75 EUR
 inStock: true
 prodname: 'Superdry Premium Equipment tee Camiseta  Verde  Vintage Washed Carbon PC7   XL para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XJLDZB/?tag=tolees-21'
+descuento: '45.71'
+titulo: 'Superdry Premium Equipment tee Camiseta '
 ---
 
 Ahora mismo tienes [Superdry Premium Equipment tee Camiseta  Verde  Vintage Washed Carbon PC7   XL para Hombre](https://www.amazon.es/dp/B077XJLDZB/?tag=tolees-21) a 19.95 EUR (original: 36.75 EUR) (45.71 %  de descuento) en el siguiente enlace!

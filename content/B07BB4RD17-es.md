@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'The North Face Equipment TNF Mochila Jester  Unisex adulto  Shady Blue/Gingerbread Brown  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB4RD17/?tag=tolees-21'
+descuento: '36.92'
+titulo: 'The North Face Equipment TNF Mochila Jes'
 ---
 
 Está [The North Face Equipment TNF Mochila Jester  Unisex adulto  Shady Blue/Gingerbread Brown  Talla única](https://www.amazon.es/dp/B07BB4RD17/?tag=tolees-21) con 36.92 de descuento por 47.31 EUR (original: 75 EUR) en el siguiente enlace!

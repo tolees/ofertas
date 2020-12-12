@@ -17,6 +17,9 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'K-Swiss Nova Court  Zapatillas para Hombre  Negro  Black/White   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073WVDK3W/?tag=tolees-21'
+descuento: '61.57'
+titulo: 'K-Swiss Nova Court  Zapatillas para Homb'
 ---
 
 Está [K-Swiss Nova Court  Zapatillas para Hombre  Negro  Black/White   43 EU](https://www.amazon.es/dp/B073WVDK3W/?tag=tolees-21) con 61.57 de descuento por 28.82 EUR (original: 74.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'INSTAR 100437 Cable alargador de antena  5 metros  SMA '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PTZK92A/?tag=tolees-21'
+descuento: '47.95'
+titulo: 'INSTAR 100437 Cable alargador de antena '
 ---
 
 Ahora mismo tienes [INSTAR 100437 Cable alargador de antena  5 metros  SMA ](https://www.amazon.es/dp/B00PTZK92A/?tag=tolees-21) a 5.2 EUR (original: 9.99 EUR) (47.95 %  de descuento) en el siguiente enlace!

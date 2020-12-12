@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Columbia Meadows Shorty Omni-Heat 3D  Botas de Nieve para Mujer  Negro  Black  Steam   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0787PGBZ8/?tag=tolees-21'
+descuento: '40.04'
+titulo: 'Columbia Meadows Shorty Omni-Heat 3D  Bo'
 ---
 
 Tienes [Columbia Meadows Shorty Omni-Heat 3D  Botas de Nieve para Mujer  Negro  Black  Steam   39.5 EU](https://www.amazon.es/dp/B0787PGBZ8/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 71.95 EUR (original: 119.99 EUR) en el siguiente enlace!

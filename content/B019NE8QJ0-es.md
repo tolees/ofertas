@@ -17,6 +17,9 @@ comparePrice: 24.5 EUR
 inStock: true
 prodname: 'Tally Weijl Sudadera SSWCOGOOD Arena M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019NE8QJ0/?tag=tolees-21'
+descuento: '80.16'
+titulo: 'Tally Weijl Sudadera SSWCOGOOD Arena M'
 ---
 
 Tienes [Tally Weijl Sudadera SSWCOGOOD Arena M](https://www.amazon.es/dp/B019NE8QJ0/?tag=tolees-21) con un 80.16 % de descuento con precio de oferta de 4.86 EUR (original: 24.5 EUR) en el siguiente enlace!

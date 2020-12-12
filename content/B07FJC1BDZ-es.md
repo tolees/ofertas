@@ -17,6 +17,9 @@ comparePrice: 17.47 EUR
 inStock: true
 prodname: 'blue seven Damen-Langarmshirt Von mit Front-Druck Camiseta  Pink  Magenta 430   S para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJC1BDZ/?tag=tolees-21'
+descuento: '65.88'
+titulo: 'blue seven Damen-Langarmshirt Von mit Fr'
 ---
 
 Ahora mismo tienes [blue seven Damen-Langarmshirt Von mit Front-Druck Camiseta  Pink  Magenta 430   S para Mujer](https://www.amazon.es/dp/B07FJC1BDZ/?tag=tolees-21) a 5.96 EUR (original: 17.47 EUR) (65.88 %  de descuento) en el siguiente enlace!

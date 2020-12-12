@@ -17,6 +17,9 @@ comparePrice: 94.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Sparkle Satin Essential Sneaker  Zapatillas para Mujer  Azul  Midnight 403   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HD11WFH/?tag=tolees-21'
+descuento: '57.05'
+titulo: 'Tommy Hilfiger Sparkle Satin Essential S'
 ---
 
 Tienes [Tommy Hilfiger Sparkle Satin Essential Sneaker  Zapatillas para Mujer  Azul  Midnight 403   37 EU](https://www.amazon.es/dp/B07HD11WFH/?tag=tolees-21) con un 57.05 % de descuento con precio de oferta de 40.76 EUR (original: 94.9 EUR) en el siguiente enlace!

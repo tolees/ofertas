@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour Magnetico Select In  Botas de fútbol para Hombre  Negro  Black//Metallic Silver 001   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0716Z7XBH/?tag=tolees-21'
+descuento: '83.94'
+titulo: 'Under Armour Magnetico Select In  Botas '
 ---
 
 Tienes [Under Armour Magnetico Select In  Botas de fútbol para Hombre  Negro  Black//Metallic Silver 001   44 EU](https://www.amazon.es/dp/B0716Z7XBH/?tag=tolees-21) con un 83.94 % de descuento con precio de oferta de 12.85 EUR (original: 80 EUR) en el siguiente enlace!

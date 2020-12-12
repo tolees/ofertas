@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Superga 2750 Jcot Classic Zapatillas Infatil  Negro  Full Black   25 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0049SQC4W/?tag=tolees-21'
+descuento: '49.49'
+titulo: 'Superga 2750 Jcot Classic Zapatillas Inf'
 ---
 
 Ahora mismo tienes [Superga 2750 Jcot Classic Zapatillas Infatil  Negro  Full Black   25 EU](https://www.amazon.es/dp/B0049SQC4W/?tag=tolees-21) a 24.75 EUR (original: 49 EUR) (49.49 %  de descuento) en el siguiente enlace!

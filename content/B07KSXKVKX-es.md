@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'X96 MAX TV Box Android 8.1 RAM 2GB + ROM 16GB CPU:Amlogic S905X2 Quad Core Arm Cortex A53 GPU:Arm Dvalin MP2 Doble WiFi 2.4G/5.8G Soportes 3D Descodificación 4Kx2K H.265 OTG BT Colore Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSXKVKX/?tag=tolees-21'
+descuento: '55.01'
+titulo: 'X96 MAX TV Box Android 8.1 RAM 2GB + ROM'
 ---
 
 Está [X96 MAX TV Box Android 8.1 RAM 2GB + ROM 16GB CPU:Amlogic S905X2 Quad Core Arm Cortex A53 GPU:Arm Dvalin MP2 Doble WiFi 2.4G/5.8G Soportes 3D Descodificación 4Kx2K H.265 OTG BT Colore Negro](https://www.amazon.es/dp/B07KSXKVKX/?tag=tolees-21) con 55.01 de descuento por 44.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 58.08 EUR
 inStock: true
 prodname: '3M Privacy Filter For ThinkPad X250 Series Touch Laptop Diseñado para Lenovo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GICGGRU/?tag=tolees-21'
+descuento: '76.55'
+titulo: '3M Privacy Filter For ThinkPad X250 Seri'
 ---
 
 Tienes [3M Privacy Filter For ThinkPad X250 Series Touch Laptop Diseñado para Lenovo](https://www.amazon.es/dp/B00GICGGRU/?tag=tolees-21) con un 76.55 % de descuento con precio de oferta de 13.62 EUR (original: 58.08 EUR) en el siguiente enlace!

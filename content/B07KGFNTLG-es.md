@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'BOSS Amiroy suéter  Verde  Open Green 345   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGFNTLG/?tag=tolees-21'
+descuento: '60.03'
+titulo: 'BOSS Amiroy suéter  Verde  Open Green 34'
 ---
 
 Está [BOSS Amiroy suéter  Verde  Open Green 345   Large para Hombre](https://www.amazon.es/dp/B07KGFNTLG/?tag=tolees-21) con 60.03 de descuento por 39.95 EUR (original: 99.95 EUR) en el siguiente enlace!

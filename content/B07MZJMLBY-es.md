@@ -17,6 +17,9 @@ comparePrice: 39.75 EUR
 inStock: true
 prodname: 'Superdry Vintage Authentic Pastel tee Camiseta de Tirantes  Rosa Pink Marl Mrq  X-Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZJMLBY/?tag=tolees-21'
+descuento: '46.04'
+titulo: 'Superdry Vintage Authentic Pastel tee Ca'
 ---
 
 Está [Superdry Vintage Authentic Pastel tee Camiseta de Tirantes  Rosa Pink Marl Mrq  X-Small para Hombre](https://www.amazon.es/dp/B07MZJMLBY/?tag=tolees-21) con 46.04 de descuento por 21.45 EUR (original: 39.75 EUR) en el siguiente enlace!

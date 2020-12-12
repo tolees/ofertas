@@ -17,6 +17,9 @@ comparePrice: 38.9 EUR
 inStock: true
 prodname: 'Conguitos HI551112  Zapatillas Niñas  Negro  Black   33 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071ZMMK3Q/?tag=tolees-21'
+descuento: '64.70'
+titulo: 'Conguitos HI551112  Zapatillas Niñas  Ne'
 ---
 
 Ahora mismo tienes [Conguitos HI551112  Zapatillas Niñas  Negro  Black   33 EU](https://www.amazon.es/dp/B071ZMMK3Q/?tag=tolees-21) a 13.73 EUR (original: 38.9 EUR) (64.70 %  de descuento) en el siguiente enlace!

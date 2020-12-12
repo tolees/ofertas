@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Adidas X 18.3 FG  Zapatillas de Fútbol para Hombre  Amarillo  Solar Yellow/Core Black/Footwear White 0   44 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9HSCW8/?tag=tolees-21'
+descuento: '57.46'
+titulo: 'Adidas X 18.3 FG  Zapatillas de Fútbol p'
 ---
 
 Tienes [Adidas X 18.3 FG  Zapatillas de Fútbol para Hombre  Amarillo  Solar Yellow/Core Black/Footwear White 0   44 2/3 EU](https://www.amazon.es/dp/B07D9HSCW8/?tag=tolees-21) con un 57.46 % de descuento con precio de oferta de 34.01 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 151 EUR
 inStock: true
 prodname: 'Nike Zoom Fly  Zapatillas de Running para Hombre  Negro  Black/White/Anthracite 001   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0763RQTWZ/?tag=tolees-21'
+descuento: '46.52'
+titulo: 'Nike Zoom Fly  Zapatillas de Running par'
 ---
 
 Está [Nike Zoom Fly  Zapatillas de Running para Hombre  Negro  Black/White/Anthracite 001   40 EU](https://www.amazon.es/dp/B0763RQTWZ/?tag=tolees-21) con 46.52 de descuento por 80.75 EUR (original: 151 EUR) en el siguiente enlace!

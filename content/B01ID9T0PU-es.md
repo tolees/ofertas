@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Puma Basic Brief 2P - Calzoncillos para hombre  color negro  talla XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ID9T0PU/?tag=tolees-21'
+descuento: '26.95'
+titulo: 'Puma Basic Brief 2P - Calzoncillos para '
 ---
 
 Está [Puma Basic Brief 2P - Calzoncillos para hombre  color negro  talla XL](https://www.amazon.es/dp/B01ID9T0PU/?tag=tolees-21) con 26.95 de descuento por 10.95 EUR (original: 14.99 EUR) en el siguiente enlace!

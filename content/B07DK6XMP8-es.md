@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'htovila Cortina Ducha de Polietileno  H21590A '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK6XMP8/?tag=tolees-21'
+descuento: '25.13'
+titulo: 'htovila Cortina Ducha de Polietileno  H2'
 ---
 
 Tienes [htovila Cortina Ducha de Polietileno  H21590A ](https://www.amazon.es/dp/B07DK6XMP8/?tag=tolees-21) con un 25.13 % de descuento con precio de oferta de 12.72 EUR (original: 16.99 EUR) en el siguiente enlace!

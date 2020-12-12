@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Puma Jaab XT TZ Wn s  Zapatillas de Deporte para Mujer  Blanco Black-Fair Aqua  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBZS2SS/?tag=tolees-21'
+descuento: '56.12'
+titulo: 'Puma Jaab XT TZ Wn s  Zapatillas de Depo'
 ---
 
 Tienes [Puma Jaab XT TZ Wn s  Zapatillas de Deporte para Mujer  Blanco Black-Fair Aqua  36 EU](https://www.amazon.es/dp/B07DBZS2SS/?tag=tolees-21) con un 56.12 % de descuento con precio de oferta de 37.28 EUR (original: 84.95 EUR) en el siguiente enlace!

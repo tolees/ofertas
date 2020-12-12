@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Reloj Inteligente mujer ZKCREATION Fitness Tracker K3 Bluetooth Smartwatch Pulsera Inteligentes Actividad Monitor Cardio Podómetro IP67 impermeable monitor de Sueño Compatible con Android y iOS Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075BKHMVL/?tag=tolees-21'
+descuento: '45.01'
+titulo: 'Reloj Inteligente mujer ZKCREATION Fitne'
 ---
 
 Tienes [Reloj Inteligente mujer ZKCREATION Fitness Tracker K3 Bluetooth Smartwatch Pulsera Inteligentes Actividad Monitor Cardio Podómetro IP67 impermeable monitor de Sueño Compatible con Android y iOS Negro ](https://www.amazon.es/dp/B075BKHMVL/?tag=tolees-21) con un 45.01 % de descuento con precio de oferta de 32.99 EUR (original: 59.99 EUR) en el siguiente enlace!

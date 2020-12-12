@@ -17,6 +17,9 @@ comparePrice: 5.63 EUR
 inStock: true
 prodname: 'Genius DX-110 - Raton óptico  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0173I9TCG/?tag=tolees-21'
+descuento: '29.13'
+titulo: 'Genius DX-110 - Raton óptico  Color Negr'
 ---
 
 Ahora mismo tienes [Genius DX-110 - Raton óptico  Color Negro](https://www.amazon.es/dp/B0173I9TCG/?tag=tolees-21) a 3.99 EUR (original: 5.63 EUR) (29.13 %  de descuento) en el siguiente enlace!

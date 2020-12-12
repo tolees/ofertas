@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance 713 Graphic Trainer  Zapatillas Deportivas para Interior Mujer  Negro  Black/Pink   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MSEL0Y6/?tag=tolees-21'
+descuento: '66.14'
+titulo: 'New Balance 713 Graphic Trainer  Zapatil'
 ---
 
 Está [New Balance 713 Graphic Trainer  Zapatillas Deportivas para Interior Mujer  Negro  Black/Pink   38 EU](https://www.amazon.es/dp/B01MSEL0Y6/?tag=tolees-21) con 66.14 de descuento por 27.09 EUR (original: 80 EUR) en el siguiente enlace!

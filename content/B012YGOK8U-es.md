@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Nike M NSW HE WR JKT HD Jacket  Hombre  Night Maroon/Wolf Grey/Sail/sa  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012YGOK8U/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'Nike M NSW HE WR JKT HD Jacket  Hombre  '
 ---
 
 Ahora mismo tienes [Nike M NSW HE WR JKT HD Jacket  Hombre  Night Maroon/Wolf Grey/Sail/sa  L](https://www.amazon.es/dp/B012YGOK8U/?tag=tolees-21) a 39.95 EUR (original: 80 EUR) (50.06 %  de descuento) en el siguiente enlace!

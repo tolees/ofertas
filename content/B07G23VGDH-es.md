@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Inalámbrico On-Ear Auriculares Bluetooth  mit20 Horas de Tiempo de Parte  Stereo Wireless Headset con micrófono y Entrada de Audio de 3 5 mm para iPhone/Android – Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G23VGDH/?tag=tolees-21'
+descuento: '58.29'
+titulo: 'Inalámbrico On-Ear Auriculares Bluetooth'
 ---
 
 Tienes [Inalámbrico On-Ear Auriculares Bluetooth  mit20 Horas de Tiempo de Parte  Stereo Wireless Headset con micrófono y Entrada de Audio de 3 5 mm para iPhone/Android – Negro](https://www.amazon.es/dp/B07G23VGDH/?tag=tolees-21) con un 58.29 % de descuento con precio de oferta de 13.76 EUR (original: 32.99 EUR) en el siguiente enlace!

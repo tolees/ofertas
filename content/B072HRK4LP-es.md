@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Vans Atwood  Zapatillas de Entrenamiento para Mujer  Verde  Olive Nightweatherized   34.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072HRK4LP/?tag=tolees-21'
+descuento: '80.90'
+titulo: 'Vans Atwood  Zapatillas de Entrenamiento'
 ---
 
 Está [Vans Atwood  Zapatillas de Entrenamiento para Mujer  Verde  Olive Nightweatherized   34.5 EU](https://www.amazon.es/dp/B072HRK4LP/?tag=tolees-21) con 80.90 de descuento por 15.28 EUR (original: 80 EUR) en el siguiente enlace!

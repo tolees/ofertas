@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'MTNG 84086  Zapatillas para Hombre  Rojo  Cow Suede Mesh 10 Burdeos C44818   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9BFK74/?tag=tolees-21'
+descuento: '48.15'
+titulo: 'MTNG 84086  Zapatillas para Hombre  Rojo'
 ---
 
 Tienes [MTNG 84086  Zapatillas para Hombre  Rojo  Cow Suede Mesh 10 Burdeos C44818   42 EU](https://www.amazon.es/dp/B07M9BFK74/?tag=tolees-21) con un 48.15 % de descuento con precio de oferta de 25.92 EUR (original: 49.99 EUR) en el siguiente enlace!

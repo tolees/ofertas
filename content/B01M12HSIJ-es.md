@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Jeep Reversible Padded Cortavientos para Hombre J6W  Blue/Woodland Blue  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M12HSIJ/?tag=tolees-21'
+descuento: '58.71'
+titulo: 'Jeep Reversible Padded Cortavientos para'
 ---
 
 Está [Jeep Reversible Padded Cortavientos para Hombre J6W  Blue/Woodland Blue  L](https://www.amazon.es/dp/B01M12HSIJ/?tag=tolees-21) con 58.71 de descuento por 82.17 EUR (original: 199 EUR) en el siguiente enlace!

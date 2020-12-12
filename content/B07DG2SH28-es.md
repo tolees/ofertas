@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Nice2You Carpa para niños Tienda de campaña para niños Pop-up con Piscina de bebé Plegable automático con protección Solar de protección UV Vacaciones en la Playa al Aire Libre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG2SH28/?tag=tolees-21'
+descuento: '52.51'
+titulo: 'Nice2You Carpa para niños Tienda de camp'
 ---
 
 Está [Nice2You Carpa para niños Tienda de campaña para niños Pop-up con Piscina de bebé Plegable automático con protección Solar de protección UV Vacaciones en la Playa al Aire Libre](https://www.amazon.es/dp/B07DG2SH28/?tag=tolees-21) con 52.51 de descuento por 18.99 EUR (original: 39.99 EUR) en el siguiente enlace!

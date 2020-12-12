@@ -17,6 +17,9 @@ comparePrice: 9.95 EUR
 inStock: true
 prodname: 'Piscina Hinchable Infantil Bestway Mickey and the Roadster Racers Baby'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003IPJM2G/?tag=tolees-21'
+descuento: '60.80'
+titulo: 'Piscina Hinchable Infantil Bestway Micke'
 ---
 
 Ahora mismo tienes [Piscina Hinchable Infantil Bestway Mickey and the Roadster Racers Baby](https://www.amazon.es/dp/B003IPJM2G/?tag=tolees-21) a 3.9 EUR (original: 9.95 EUR) (60.80 %  de descuento) en el siguiente enlace!

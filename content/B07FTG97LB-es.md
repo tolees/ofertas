@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'CrewbieStore Color Pencils Set for Adult Coloring Books & Children s Coloring Books | Colored Pencils for Adults | 48 Color Pencils in case | Pencil Wrap Roll Up Pencil Case'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTG97LB/?tag=tolees-21'
+descuento: '26.68'
+titulo: 'CrewbieStore Color Pencils Set for Adult'
 ---
 
 Ahora mismo tienes [CrewbieStore Color Pencils Set for Adult Coloring Books & Children s Coloring Books | Colored Pencils for Adults | 48 Color Pencils in case | Pencil Wrap Roll Up Pencil Case](https://www.amazon.es/dp/B07FTG97LB/?tag=tolees-21) a 21.99 EUR (original: 29.99 EUR) (26.68 %  de descuento) en el siguiente enlace!

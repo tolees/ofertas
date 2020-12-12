@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Pro10 Banco de musculacion/Entrenamiento Adjustable y Plegable Marca'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GTYKJ75/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Pro10 Banco de musculacion/Entrenamiento'
 ---
 
 Está [Pro10 Banco de musculacion/Entrenamiento Adjustable y Plegable Marca](https://www.amazon.es/dp/B07GTYKJ75/?tag=tolees-21) con 60.01 de descuento por 39.99 EUR (original: 99.99 EUR) en el siguiente enlace!

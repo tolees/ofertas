@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Desigual - Bag Colorama Gela Women  Bolsos bandolera Mujer  Amarillo  Ocre   10.5x22x25 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H5JJ9X1/?tag=tolees-21'
+descuento: '30.03'
+titulo: 'Desigual - Bag Colorama Gela Women  Bols'
 ---
 
 Está [Desigual - Bag Colorama Gela Women  Bolsos bandolera Mujer  Amarillo  Ocre   10.5x22x25 cm  B x H T ](https://www.amazon.es/dp/B07H5JJ9X1/?tag=tolees-21) con 30.03 de descuento por 34.95 EUR (original: 49.95 EUR) en el siguiente enlace!

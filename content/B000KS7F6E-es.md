@@ -17,6 +17,9 @@ comparePrice: 52 EUR
 inStock: true
 prodname: 'Reef LEATHER SMOOTHY  Chanclas de Piel  Hombre  Marrón  EU 36  US 4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000KS7F6E/?tag=tolees-21'
+descuento: '49.13'
+titulo: 'Reef LEATHER SMOOTHY  Chanclas de Piel  '
 ---
 
 Está [Reef LEATHER SMOOTHY  Chanclas de Piel  Hombre  Marrón  EU 36  US 4 ](https://www.amazon.es/dp/B000KS7F6E/?tag=tolees-21) con 49.13 de descuento por 26.45 EUR (original: 52 EUR) en el siguiente enlace!

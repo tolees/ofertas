@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 574v2  Zapatillas para Mujer  Negro  Black/North Sea Snc   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ34D5C/?tag=tolees-21'
+descuento: '31.42'
+titulo: 'New Balance 574v2  Zapatillas para Mujer'
 ---
 
 Está [New Balance 574v2  Zapatillas para Mujer  Negro  Black/North Sea Snc   39 EU](https://www.amazon.es/dp/B07DJ34D5C/?tag=tolees-21) con 31.42 de descuento por 61.72 EUR (original: 90 EUR) en el siguiente enlace!

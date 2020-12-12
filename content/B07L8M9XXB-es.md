@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Edge Entertainment Munchkin Navidades Light - Español'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L8M9XXB/?tag=tolees-21'
+descuento: '67.32'
+titulo: 'Edge Entertainment Munchkin Navidades Li'
 ---
 
 Tienes [Edge Entertainment Munchkin Navidades Light - Español](https://www.amazon.es/dp/B07L8M9XXB/?tag=tolees-21) con un 67.32 % de descuento con precio de oferta de 6.52 EUR (original: 19.95 EUR) en el siguiente enlace!

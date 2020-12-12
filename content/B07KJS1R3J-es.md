@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Quiksilver Everyday Top  Hombre  Stormy Sea Heather  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJS1R3J/?tag=tolees-21'
+descuento: '60.43'
+titulo: 'Quiksilver Everyday Top  Hombre  Stormy '
 ---
 
 Ahora mismo tienes [Quiksilver Everyday Top  Hombre  Stormy Sea Heather  XL](https://www.amazon.es/dp/B07KJS1R3J/?tag=tolees-21) a 19.78 EUR (original: 49.99 EUR) (60.43 %  de descuento) en el siguiente enlace!

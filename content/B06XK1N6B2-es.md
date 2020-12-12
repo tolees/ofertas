@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'TANBURO Grifo de Lavabo Cocina  Grifo Fregadero  Caño Giratorio  Agua Fría/Caliente Alternativa  latón Cromado  Estándar Puerto de 3/8 Pulgadas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XK1N6B2/?tag=tolees-21'
+descuento: '29.04'
+titulo: 'TANBURO Grifo de Lavabo Cocina  Grifo Fr'
 ---
 
 Tienes [TANBURO Grifo de Lavabo Cocina  Grifo Fregadero  Caño Giratorio  Agua Fría/Caliente Alternativa  latón Cromado  Estándar Puerto de 3/8 Pulgadas](https://www.amazon.es/dp/B06XK1N6B2/?tag=tolees-21) con un 29.04 % de descuento con precio de oferta de 21.99 EUR (original: 30.99 EUR) en el siguiente enlace!

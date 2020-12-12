@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Leggings para Niñas  Azul  Blue 13c  104  Talla del Fabricante: XX '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHY2KCF/?tag=tolees-21'
+descuento: '46.02'
+titulo: 'United Colors of Benetton Leggings para '
 ---
 
 Tienes [United Colors of Benetton Leggings para Niñas  Azul  Blue 13c  104  Talla del Fabricante: XX ](https://www.amazon.es/dp/B07DHY2KCF/?tag=tolees-21) con un 46.02 % de descuento con precio de oferta de 8.61 EUR (original: 15.95 EUR) en el siguiente enlace!

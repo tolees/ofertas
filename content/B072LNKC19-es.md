@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Under Armour UA W Press 2  Zapatillas de Deporte para Mujer  Negro  Black   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LNKC19/?tag=tolees-21'
+descuento: '70.48'
+titulo: 'Under Armour UA W Press 2  Zapatillas de'
 ---
 
 Está [Under Armour UA W Press 2  Zapatillas de Deporte para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B072LNKC19/?tag=tolees-21) con 70.48 de descuento por 22.14 EUR (original: 75 EUR) en el siguiente enlace!

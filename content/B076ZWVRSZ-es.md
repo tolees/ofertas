@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Rovic 3D Tapered  Pantalon para Hombre   dk Fall ao 8886-8287  38W / 34L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076ZWVRSZ/?tag=tolees-21'
+descuento: '41.07'
+titulo: 'G-STAR RAW Rovic 3D Tapered  Pantalon pa'
 ---
 
 Está [G-STAR RAW Rovic 3D Tapered  Pantalon para Hombre   dk Fall ao 8886-8287  38W / 34L](https://www.amazon.es/dp/B076ZWVRSZ/?tag=tolees-21) con 41.07 de descuento por 58.9 EUR (original: 99.95 EUR) en el siguiente enlace!

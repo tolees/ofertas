@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Lifewit 15.6" Mochila Hombre Portátil Lona Mochilas Mujer Casual Bolsa de Viaje Cuero Vintage Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BNBTJ62/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Lifewit 15.6" Mochila Hombre Portátil Lo'
 ---
 
 Tienes [Lifewit 15.6" Mochila Hombre Portátil Lona Mochilas Mujer Casual Bolsa de Viaje Cuero Vintage Negro](https://www.amazon.es/dp/B07BNBTJ62/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

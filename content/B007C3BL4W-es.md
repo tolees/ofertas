@@ -17,6 +17,9 @@ comparePrice: 32.5 EUR
 inStock: true
 prodname: 'Orbegozo TP 2000 2000-Mesa de Planchar  Rejilla de Acero  114 X 36 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007C3BL4W/?tag=tolees-21'
+descuento: '26.83'
+titulo: 'Orbegozo TP 2000 2000-Mesa de Planchar  '
 ---
 
 Ahora mismo tienes [Orbegozo TP 2000 2000-Mesa de Planchar  Rejilla de Acero  114 X 36 cm](https://www.amazon.es/dp/B007C3BL4W/?tag=tolees-21) a 23.78 EUR (original: 32.5 EUR) (26.83 %  de descuento) en el siguiente enlace!

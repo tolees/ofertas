@@ -17,6 +17,9 @@ comparePrice: 92.99 EUR
 inStock: true
 prodname: 'Kingston ValueRam - Memoria RAM DDR3 de 8 GB  1333 MHz  CL9 DIMM '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006CH2RME/?tag=tolees-21'
+descuento: '47.30'
+titulo: 'Kingston ValueRam - Memoria RAM DDR3 de '
 ---
 
 Ahora mismo tienes [Kingston ValueRam - Memoria RAM DDR3 de 8 GB  1333 MHz  CL9 DIMM ](https://www.amazon.es/dp/B006CH2RME/?tag=tolees-21) a 49.01 EUR (original: 92.99 EUR) (47.30 %  de descuento) en el siguiente enlace!

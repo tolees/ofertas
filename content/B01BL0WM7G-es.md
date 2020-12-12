@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Frozen : Papelera Para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BL0WM7G/?tag=tolees-21'
+descuento: '30.03'
+titulo: 'Frozen : Papelera Para Niños'
 ---
 
 Ahora mismo tienes [Frozen : Papelera Para Niños](https://www.amazon.es/dp/B01BL0WM7G/?tag=tolees-21) a 6.99 EUR (original: 9.99 EUR) (30.03 %  de descuento) en el siguiente enlace!

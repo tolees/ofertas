@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Asics Gel-kenun Lyte MX  Zapatillas de Entrenamiento para Mujer  Azul Azure 400  41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNKWWHG/?tag=tolees-21'
+descuento: '65.55'
+titulo: 'Asics Gel-kenun Lyte MX  Zapatillas de E'
 ---
 
 Está [Asics Gel-kenun Lyte MX  Zapatillas de Entrenamiento para Mujer  Azul Azure 400  41.5 EU](https://www.amazon.es/dp/B07FNKWWHG/?tag=tolees-21) con 65.55 de descuento por 37.89 EUR (original: 110 EUR) en el siguiente enlace!

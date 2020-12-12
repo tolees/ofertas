@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Newcomdigi Pizarra Magnética para Nevera Pizarra de Planificación con Calendario Semanal para Frigorífico Organizador Magnética para Notas y Planificación Semanal 30 x 40 cm Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01INCOU6G/?tag=tolees-21'
+descuento: '55.03'
+titulo: 'Newcomdigi Pizarra Magnética para Nevera'
 ---
 
 Está [Newcomdigi Pizarra Magnética para Nevera Pizarra de Planificación con Calendario Semanal para Frigorífico Organizador Magnética para Notas y Planificación Semanal 30 x 40 cm Color Negro](https://www.amazon.es/dp/B01INCOU6G/?tag=tolees-21) con 55.03 de descuento por 8.99 EUR (original: 19.99 EUR) en el siguiente enlace!

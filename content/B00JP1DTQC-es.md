@@ -17,6 +17,9 @@ comparePrice: 154.25 EUR
 inStock: true
 prodname: 'Brother DCP-J105 1200 x 600DPI Inyección de tinta A4 27ppm Wifi multifuncional - Impresora multifunción  Inyección de tinta  Impresión a color  1200 x 600 DPI  100 hojas  A4  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JP1DTQC/?tag=tolees-21'
+descuento: '52.32'
+titulo: 'Brother DCP-J105 1200 x 600DPI Inyección'
 ---
 
 Está [Brother DCP-J105 1200 x 600DPI Inyección de tinta A4 27ppm Wifi multifuncional - Impresora multifunción  Inyección de tinta  Impresión a color  1200 x 600 DPI  100 hojas  A4  Negro ](https://www.amazon.es/dp/B00JP1DTQC/?tag=tolees-21) con 52.32 de descuento por 73.54 EUR (original: 154.25 EUR) en el siguiente enlace!

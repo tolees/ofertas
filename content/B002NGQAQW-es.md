@@ -17,6 +17,9 @@ comparePrice: 19.49 EUR
 inStock: true
 prodname: 'Eukanuba Adulto Todas las razas Rico en salmón y arroz [2 5 Kg]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002NGQAQW/?tag=tolees-21'
+descuento: '43.56'
+titulo: 'Eukanuba Adulto Todas las razas Rico en '
 ---
 
 Ahora mismo tienes [Eukanuba Adulto Todas las razas Rico en salmón y arroz [2 5 Kg]](https://www.amazon.es/dp/B002NGQAQW/?tag=tolees-21) a 11 EUR (original: 19.49 EUR) (43.56 %  de descuento) en el siguiente enlace!

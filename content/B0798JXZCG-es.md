@@ -17,6 +17,9 @@ comparePrice: 16.7 EUR
 inStock: true
 prodname: 'Portátil multifunción Mini? Alicates con cola hebilla y bolsa de nailon para regalo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0798JXZCG/?tag=tolees-21'
+descuento: '70.12'
+titulo: 'Portátil multifunción Mini? Alicates con'
 ---
 
 Tienes [Portátil multifunción Mini? Alicates con cola hebilla y bolsa de nailon para regalo](https://www.amazon.es/dp/B0798JXZCG/?tag=tolees-21) con un 70.12 % de descuento con precio de oferta de 4.99 EUR (original: 16.7 EUR) en el siguiente enlace!

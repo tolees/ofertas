@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Adidas Regista 18 - Pantalónes de fútbol para Hombre  Negro  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076HPCPVY/?tag=tolees-21'
+descuento: '28.71'
+titulo: 'Adidas Regista 18 - Pantalónes de fútbol'
 ---
 
 Está [Adidas Regista 18 - Pantalónes de fútbol para Hombre  Negro  XL](https://www.amazon.es/dp/B076HPCPVY/?tag=tolees-21) con 28.71 de descuento por 28.48 EUR (original: 39.95 EUR) en el siguiente enlace!
@@ -25,8 +28,8 @@ Está [Adidas Regista 18 - Pantalónes de fútbol para Hombre  Negro  XL](https:
 
 Principales características:
 
-- Prácticos puños con cremallera
 - Cintura elástica con cordón
+- Prácticos puños con cremallera
 - Bolsillos ocultos en las costuras laterales
 - Hecho de tela Climacool transpirable que te mantiene fresco y seco
 

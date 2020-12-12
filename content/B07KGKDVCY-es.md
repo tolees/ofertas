@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Reebok RC Fef tee Speedwick Camiseta  Hombre  neolim  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGKDVCY/?tag=tolees-21'
+descuento: '43.02'
+titulo: 'Reebok RC Fef tee Speedwick Camiseta  Ho'
 ---
 
 Está [Reebok RC Fef tee Speedwick Camiseta  Hombre  neolim  M](https://www.amazon.es/dp/B07KGKDVCY/?tag=tolees-21) con 43.02 de descuento por 15.95 EUR (original: 27.99 EUR) en el siguiente enlace!

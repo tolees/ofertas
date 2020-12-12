@@ -17,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'morpilot Molinillo de Café Eléctrico  Molinillos Molinos de Semillas Especias Granos Azúcar  Potencia 150W  Capacidad 70g  Duradero Acero Inoxidable  Libre de BPA  Incluye Cepillo de Limpieza'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JP42GH9/?tag=tolees-21'
+descuento: '29.18'
+titulo: 'morpilot Molinillo de Café Eléctrico  Mo'
 ---
 
 Está [morpilot Molinillo de Café Eléctrico  Molinillos Molinos de Semillas Especias Granos Azúcar  Potencia 150W  Capacidad 70g  Duradero Acero Inoxidable  Libre de BPA  Incluye Cepillo de Limpieza](https://www.amazon.es/dp/B07JP42GH9/?tag=tolees-21) con 29.18 de descuento por 16.99 EUR (original: 23.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Sergio Tacchini Focus Nbx  Zapatillas de Cross para Hombre  Azul  Navy 52   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GJKDGWS/?tag=tolees-21'
+descuento: '47.43'
+titulo: 'Sergio Tacchini Focus Nbx  Zapatillas de'
 ---
 
 Está [Sergio Tacchini Focus Nbx  Zapatillas de Cross para Hombre  Azul  Navy 52   44 EU](https://www.amazon.es/dp/B07GJKDGWS/?tag=tolees-21) con 47.43 de descuento por 26.23 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 143.56 EUR
 inStock: true
 prodname: 'Marcapiuma - Almohada de Látex Modelo Jabón 70x40 - Almohada Látex bialveolado Descanso Natural y Sano - 100% Espuma de Látex - Ergonómica alivia las tensiones cervicales - 100% Fabricada en Italia'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075FCFJCF/?tag=tolees-21'
+descuento: '74.93'
+titulo: 'Marcapiuma - Almohada de Látex Modelo Ja'
 ---
 
 Tienes [Marcapiuma - Almohada de Látex Modelo Jabón 70x40 - Almohada Látex bialveolado Descanso Natural y Sano - 100% Espuma de Látex - Ergonómica alivia las tensiones cervicales - 100% Fabricada en Italia](https://www.amazon.es/dp/B075FCFJCF/?tag=tolees-21) con un 74.93 % de descuento con precio de oferta de 35.99 EUR (original: 143.56 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Casio Reloj de Pulsera GD-100MS-3ER'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004OYUNLY/?tag=tolees-21'
+descuento: '44.54'
+titulo: 'Casio Reloj de Pulsera GD-100MS-3ER'
 ---
 
 Está [Casio Reloj de Pulsera GD-100MS-3ER](https://www.amazon.es/dp/B004OYUNLY/?tag=tolees-21) con 44.54 de descuento por 71.54 EUR (original: 129 EUR) en el siguiente enlace!

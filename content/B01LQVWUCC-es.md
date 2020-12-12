@@ -17,6 +17,9 @@ comparePrice: 50.36 EUR
 inStock: true
 prodname: 'Tefal Prima FV1251E0 - Plancha  Plancha vapor-seco  Suela de cerámica  1 9 m  800 g/min  Rojo  20 g/min '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LQVWUCC/?tag=tolees-21'
+descuento: '52.50'
+titulo: 'Tefal Prima FV1251E0 - Plancha  Plancha '
 ---
 
 Está [Tefal Prima FV1251E0 - Plancha  Plancha vapor-seco  Suela de cerámica  1 9 m  800 g/min  Rojo  20 g/min ](https://www.amazon.es/dp/B01LQVWUCC/?tag=tolees-21) con 52.50 de descuento por 23.92 EUR (original: 50.36 EUR) en el siguiente enlace!

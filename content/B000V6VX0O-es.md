@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Speedo Endurance  Traje de Natación para Mujer  Negro  Schwarz   38 ES'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000V6VX0O/?tag=tolees-21'
+descuento: '37.62'
+titulo: 'Speedo Endurance  Traje de Natación para'
 ---
 
 Tienes [Speedo Endurance  Traje de Natación para Mujer  Negro  Schwarz   38 ES](https://www.amazon.es/dp/B000V6VX0O/?tag=tolees-21) con un 37.62 % de descuento con precio de oferta de 24.89 EUR (original: 39.9 EUR) en el siguiente enlace!

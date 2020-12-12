@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'BOSS Schino-slim D  Pantalones Hombre  Marrón  Open Braun 299   W34/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CKDLDPW/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'BOSS Schino-slim D  Pantalones Hombre  M'
 ---
 
 Está [BOSS Schino-slim D  Pantalones Hombre  Marrón  Open Braun 299   W34/L32](https://www.amazon.es/dp/B07CKDLDPW/?tag=tolees-21) con 30.02 de descuento por 69.95 EUR (original: 99.95 EUR) en el siguiente enlace!

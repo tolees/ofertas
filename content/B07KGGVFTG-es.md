@@ -17,6 +17,9 @@ comparePrice: 21.95 EUR
 inStock: true
 prodname: 'Buff R-Focus Visera  Unisex Adulto  Blue  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGGVFTG/?tag=tolees-21'
+descuento: '45.28'
+titulo: 'Buff R-Focus Visera  Unisex Adulto  Blue'
 ---
 
 Está [Buff R-Focus Visera  Unisex Adulto  Blue  Talla única](https://www.amazon.es/dp/B07KGGVFTG/?tag=tolees-21) con 45.28 de descuento por 12.01 EUR (original: 21.95 EUR) en el siguiente enlace!

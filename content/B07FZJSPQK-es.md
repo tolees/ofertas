@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'adidas Tiro19 PES Jkt Sport Jacket  Hombre  Black/White  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FZJSPQK/?tag=tolees-21'
+descuento: '42.55'
+titulo: 'adidas Tiro19 PES Jkt Sport Jacket  Homb'
 ---
 
 Está [adidas Tiro19 PES Jkt Sport Jacket  Hombre  Black/White  S](https://www.amazon.es/dp/B07FZJSPQK/?tag=tolees-21) con 42.55 de descuento por 22.95 EUR (original: 39.95 EUR) en el siguiente enlace!

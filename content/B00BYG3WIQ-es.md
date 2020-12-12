@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Nike T-Lite XI  Zapatillas de Cross Training para Hombre  Blanco Negro  47.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BYG3WIQ/?tag=tolees-21'
+descuento: '39.98'
+titulo: 'Nike T-Lite XI  Zapatillas de Cross Trai'
 ---
 
 Tienes [Nike T-Lite XI  Zapatillas de Cross Training para Hombre  Blanco Negro  47.5 EU](https://www.amazon.es/dp/B00BYG3WIQ/?tag=tolees-21) con un 39.98 % de descuento con precio de oferta de 30.01 EUR (original: 50 EUR) en el siguiente enlace!

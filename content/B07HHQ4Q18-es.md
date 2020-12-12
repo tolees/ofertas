@@ -17,6 +17,9 @@ comparePrice: 37.99 EUR
 inStock: true
 prodname: 'Farol de Camping  Morpilot 2 unidades Lámpara de Camping plegable Led con 2 modos iluminación Linterna Portátil exterior con Batería  Impermeable  anti-cáida para camping  aire libre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HHQ4Q18/?tag=tolees-21'
+descuento: '68.44'
+titulo: 'Farol de Camping  Morpilot 2 unidades Lá'
 ---
 
 Ahora mismo tienes [Farol de Camping  Morpilot 2 unidades Lámpara de Camping plegable Led con 2 modos iluminación Linterna Portátil exterior con Batería  Impermeable  anti-cáida para camping  aire libre](https://www.amazon.es/dp/B07HHQ4Q18/?tag=tolees-21) a 11.99 EUR (original: 37.99 EUR) (68.44 %  de descuento) en el siguiente enlace!

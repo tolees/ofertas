@@ -17,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'VARTA CR 2016 - Pack de 2 Pilas  Litio  3V  87 mAh '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007FD61VC/?tag=tolees-21'
+descuento: '51.17'
+titulo: 'VARTA CR 2016 - Pack de 2 Pilas  Litio  '
 ---
 
 Ahora mismo tienes [VARTA CR 2016 - Pack de 2 Pilas  Litio  3V  87 mAh ](https://www.amazon.es/dp/B007FD61VC/?tag=tolees-21) a 4.39 EUR (original: 8.99 EUR) (51.17 %  de descuento) en el siguiente enlace!

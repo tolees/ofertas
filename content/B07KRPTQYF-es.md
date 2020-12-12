@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Columbia Hombre Chaqueta Polar con Cremallera Completa  KELSO DRIVE FULL ZIP FLEECE  Poliéster  Azul  Collegiate Navy   Talla: L  1844271'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRPTQYF/?tag=tolees-21'
+descuento: '50.21'
+titulo: 'Columbia Hombre Chaqueta Polar con Crema'
 ---
 
 Está [Columbia Hombre Chaqueta Polar con Cremallera Completa  KELSO DRIVE FULL ZIP FLEECE  Poliéster  Azul  Collegiate Navy   Talla: L  1844271](https://www.amazon.es/dp/B07KRPTQYF/?tag=tolees-21) con 50.21 de descuento por 39.83 EUR (original: 79.99 EUR) en el siguiente enlace!

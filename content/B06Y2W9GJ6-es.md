@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Bugatti 421323531400  Botas para Mujer  Beige  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y2W9GJ6/?tag=tolees-21'
+descuento: '79.32'
+titulo: 'Bugatti 421323531400  Botas para Mujer  '
 ---
 
 Ahora mismo tienes [Bugatti 421323531400  Botas para Mujer  Beige  37 EU](https://www.amazon.es/dp/B06Y2W9GJ6/?tag=tolees-21) a 20.67 EUR (original: 99.95 EUR) (79.32 %  de descuento) en el siguiente enlace!

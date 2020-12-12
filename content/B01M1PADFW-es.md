@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Princess 103050 Table Chef Hot-Zone - Plancha con Zona Supercaliente  No se Deforma'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M1PADFW/?tag=tolees-21'
+descuento: '42.86'
+titulo: 'Princess 103050 Table Chef Hot-Zone - Pl'
 ---
 
 Ahora mismo tienes [Princess 103050 Table Chef Hot-Zone - Plancha con Zona Supercaliente  No se Deforma](https://www.amazon.es/dp/B01M1PADFW/?tag=tolees-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

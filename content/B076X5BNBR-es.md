@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Geox U Mansel A  Zapatilla Baja para Hombre  Gris  Lt Grey/dk Burgundy   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076X5BNBR/?tag=tolees-21'
+descuento: '68.44'
+titulo: 'Geox U Mansel A  Zapatilla Baja para Hom'
 ---
 
 Tienes [Geox U Mansel A  Zapatilla Baja para Hombre  Gris  Lt Grey/dk Burgundy   46 EU](https://www.amazon.es/dp/B076X5BNBR/?tag=tolees-21) con un 68.44 % de descuento con precio de oferta de 34.68 EUR (original: 109.9 EUR) en el siguiente enlace!

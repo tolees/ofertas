@@ -17,6 +17,9 @@ comparePrice: 21 EUR
 inStock: true
 prodname: 'Marshmallow DJ máscara Casco del Festival música Máscara la Mascarada del Novedad Látex de Goma máscara la Cabeza Completa.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F29N1KM/?tag=tolees-21'
+descuento: '29.14'
+titulo: 'Marshmallow DJ máscara Casco del Festiva'
 ---
 
 Está [Marshmallow DJ máscara Casco del Festival música Máscara la Mascarada del Novedad Látex de Goma máscara la Cabeza Completa.](https://www.amazon.es/dp/B07F29N1KM/?tag=tolees-21) con 29.14 de descuento por 14.88 EUR (original: 21 EUR) en el siguiente enlace!

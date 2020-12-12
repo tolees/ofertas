@@ -17,6 +17,9 @@ comparePrice: 7.83 EUR
 inStock: true
 prodname: 'Famatel 19068.1 - Base toma tierra lateral estanco 16a 250v blister '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CWZPU0G/?tag=tolees-21'
+descuento: '33.72'
+titulo: 'Famatel 19068.1 - Base toma tierra later'
 ---
 
 Tienes [Famatel 19068.1 - Base toma tierra lateral estanco 16a 250v blister ](https://www.amazon.es/dp/B00CWZPU0G/?tag=tolees-21) con un 33.72 % de descuento con precio de oferta de 5.19 EUR (original: 7.83 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 88.94 EUR
 inStock: true
 prodname: 'Imation 945231 - Cargador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00QXSAJXG/?tag=tolees-21'
+descuento: '84.87'
+titulo: 'Imation 945231 - Cargador'
 ---
 
 Tienes [Imation 945231 - Cargador](https://www.amazon.es/dp/B00QXSAJXG/?tag=tolees-21) con un 84.87 % de descuento con precio de oferta de 13.46 EUR (original: 88.94 EUR) en el siguiente enlace!

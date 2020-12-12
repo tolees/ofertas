@@ -17,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'UGG Bailey Button II Che  Botas de Nieve para Mujer  Beige  Chestnut   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AIJ8DVA/?tag=tolees-21'
+descuento: '34.66'
+titulo: 'UGG Bailey Button II Che  Botas de Nieve'
 ---
 
 Tienes [UGG Bailey Button II Che  Botas de Nieve para Mujer  Beige  Chestnut   37 EU](https://www.amazon.es/dp/B01AIJ8DVA/?tag=tolees-21) con un 34.66 % de descuento con precio de oferta de 130.68 EUR (original: 200 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Kappa Holy  Zapatillas de Gimnasia Unisex  Negro  40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0062W2EOK/?tag=tolees-21'
+descuento: '55.95'
+titulo: 'Kappa Holy  Zapatillas de Gimnasia Unise'
 ---
 
 Está [Kappa Holy  Zapatillas de Gimnasia Unisex  Negro  40](https://www.amazon.es/dp/B0062W2EOK/?tag=tolees-21) con 55.95 de descuento por 17.62 EUR (original: 40 EUR) en el siguiente enlace!

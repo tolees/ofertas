@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'The North Face T0CMH9 Chaqueta Stratos  Hombre  TNF Negro  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MKXTSDK/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face T0CMH9 Chaqueta Stratos  '
 ---
 
 Tienes [The North Face T0CMH9 Chaqueta Stratos  Hombre  TNF Negro  M](https://www.amazon.es/dp/B00MKXTSDK/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 80 EUR (original: 160 EUR) en el siguiente enlace!

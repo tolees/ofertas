@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'New Balance 411  Zapatillas de Running para Mujer  Rosa  Peony/Grey Lm1   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ34BLT/?tag=tolees-21'
+descuento: '56.66'
+titulo: 'New Balance 411  Zapatillas de Running p'
 ---
 
 Ahora mismo tienes [New Balance 411  Zapatillas de Running para Mujer  Rosa  Peony/Grey Lm1   38 EU](https://www.amazon.es/dp/B07DJ34BLT/?tag=tolees-21) a 21.67 EUR (original: 50 EUR) (56.66 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Nike Y NK Dry Acdmy K Pantalones Cortos  Niños  Negro/Blanco  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N572PVW/?tag=tolees-21'
+descuento: '27.69'
+titulo: 'Nike Y NK Dry Acdmy K Pantalones Cortos '
 ---
 
 Ahora mismo tienes [Nike Y NK Dry Acdmy K Pantalones Cortos  Niños  Negro/Blanco  M](https://www.amazon.es/dp/B00N572PVW/?tag=tolees-21) a 10.84 EUR (original: 14.99 EUR) (27.69 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 42.9 EUR
 inStock: true
 prodname: 'Mariamare Azalea  Sandalias con Punta Abierta para Mujer   Afelpado Negro   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078DPCY78/?tag=tolees-21'
+descuento: '63.08'
+titulo: 'Mariamare Azalea  Sandalias con Punta Ab'
 ---
 
 Tienes [Mariamare Azalea  Sandalias con Punta Abierta para Mujer   Afelpado Negro   40 EU](https://www.amazon.es/dp/B078DPCY78/?tag=tolees-21) con un 63.08 % de descuento con precio de oferta de 15.84 EUR (original: 42.9 EUR) en el siguiente enlace!

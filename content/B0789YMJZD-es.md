@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Nike Air Versitile III  Zapatos de Baloncesto Unisex Adulto  Negro  Black/Game Royal/White 004   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0789YMJZD/?tag=tolees-21'
+descuento: '35.67'
+titulo: 'Nike Air Versitile III  Zapatos de Balon'
 ---
 
 Tienes [Nike Air Versitile III  Zapatos de Baloncesto Unisex Adulto  Negro  Black/Game Royal/White 004   42 EU](https://www.amazon.es/dp/B0789YMJZD/?tag=tolees-21) con un 35.67 % de descuento con precio de oferta de 48.25 EUR (original: 75 EUR) en el siguiente enlace!

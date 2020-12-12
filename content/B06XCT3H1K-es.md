@@ -17,6 +17,9 @@ comparePrice: 429 EUR
 inStock: true
 prodname: 'Medion Erazer X57425 - Monitor gaming curvo de 68.6 cm  27"  Full HD  HDMI  144 Hz  16:9   color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCT3H1K/?tag=tolees-21'
+descuento: '46.62'
+titulo: 'Medion Erazer X57425 - Monitor gaming cu'
 ---
 
 Está [Medion Erazer X57425 - Monitor gaming curvo de 68.6 cm  27"  Full HD  HDMI  144 Hz  16:9   color negro](https://www.amazon.es/dp/B06XCT3H1K/?tag=tolees-21) con 46.62 de descuento por 229 EUR (original: 429 EUR) en el siguiente enlace!

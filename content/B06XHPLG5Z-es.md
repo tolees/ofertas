@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Geox J Kommodor B  Zapatillas para Niños  Azul  Navy/Lime   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHPLG5Z/?tag=tolees-21'
+descuento: '53.92'
+titulo: 'Geox J Kommodor B  Zapatillas para Niños'
 ---
 
 Ahora mismo tienes [Geox J Kommodor B  Zapatillas para Niños  Azul  Navy/Lime   35 EU](https://www.amazon.es/dp/B06XHPLG5Z/?tag=tolees-21) a 29.95 EUR (original: 65 EUR) (53.92 %  de descuento) en el siguiente enlace!

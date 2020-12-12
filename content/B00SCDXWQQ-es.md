@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Forza Motorsport 6 - Édition Day One [Importación Francesa]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SCDXWQQ/?tag=tolees-21'
+descuento: '54.98'
+titulo: 'Forza Motorsport 6 - Édition Day One [Im'
 ---
 
 Tienes [Forza Motorsport 6 - Édition Day One [Importación Francesa]](https://www.amazon.es/dp/B00SCDXWQQ/?tag=tolees-21) con un 54.98 % de descuento con precio de oferta de 31.51 EUR (original: 69.99 EUR) en el siguiente enlace!

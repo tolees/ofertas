@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'hummel Diamant  Zapatillas Unisex Adulto  Azul  Peacoat 7666   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BR17ZWD/?tag=tolees-21'
+descuento: '72.63'
+titulo: 'hummel Diamant  Zapatillas Unisex Adulto'
 ---
 
 Tienes [hummel Diamant  Zapatillas Unisex Adulto  Azul  Peacoat 7666   45 EU](https://www.amazon.es/dp/B07BR17ZWD/?tag=tolees-21) con un 72.63 % de descuento con precio de oferta de 21.88 EUR (original: 79.95 EUR) en el siguiente enlace!

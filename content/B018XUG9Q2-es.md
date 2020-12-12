@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Element Daily  15 cm  Bear Marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018XUG9Q2/?tag=tolees-21'
+descuento: '43.04'
+titulo: 'Element Daily  15 cm  Bear Marrón'
 ---
 
 Ahora mismo tienes [Element Daily  15 cm  Bear Marrón](https://www.amazon.es/dp/B018XUG9Q2/?tag=tolees-21) a 15.95 EUR (original: 28 EUR) (43.04 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Premier Housewares - Escritorio y taburete infantil  57 x 55 x 48 cm   color rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007SWNW62/?tag=tolees-21'
+descuento: '42.50'
+titulo: 'Premier Housewares - Escritorio y tabure'
 ---
 
 Tienes [Premier Housewares - Escritorio y taburete infantil  57 x 55 x 48 cm   color rosa](https://www.amazon.es/dp/B007SWNW62/?tag=tolees-21) con un 42.50 % de descuento con precio de oferta de 85.67 EUR (original: 149 EUR) en el siguiente enlace!

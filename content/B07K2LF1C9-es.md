@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Adidas X_PLR J  Zapatillas de Deporte Unisex Adulto  000  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2LF1C9/?tag=tolees-21'
+descuento: '57.84'
+titulo: 'Adidas X_PLR J  Zapatillas de Deporte Un'
 ---
 
 Está [Adidas X_PLR J  Zapatillas de Deporte Unisex Adulto  000  40 EU](https://www.amazon.es/dp/B07K2LF1C9/?tag=tolees-21) con 57.84 de descuento por 27.38 EUR (original: 64.95 EUR) en el siguiente enlace!

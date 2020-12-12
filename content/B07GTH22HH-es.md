@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Berg Outdoor FIGO Power Stretch Fleece Jacket  Hombre  Snorkel Blue  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GTH22HH/?tag=tolees-21'
+descuento: '74.30'
+titulo: 'Berg Outdoor FIGO Power Stretch Fleece J'
 ---
 
 Ahora mismo tienes [Berg Outdoor FIGO Power Stretch Fleece Jacket  Hombre  Snorkel Blue  L](https://www.amazon.es/dp/B07GTH22HH/?tag=tolees-21) a 15.41 EUR (original: 59.95 EUR) (74.30 %  de descuento) en el siguiente enlace!

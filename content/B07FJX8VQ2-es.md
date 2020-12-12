@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Gioseppo 46292-P  Botas de Agua para Mujer  Negro  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJX8VQ2/?tag=tolees-21'
+descuento: '58.86'
+titulo: 'Gioseppo 46292-P  Botas de Agua para Muj'
 ---
 
 Ahora mismo tienes [Gioseppo 46292-P  Botas de Agua para Mujer  Negro  37 EU](https://www.amazon.es/dp/B07FJX8VQ2/?tag=tolees-21) a 20.55 EUR (original: 49.95 EUR) (58.86 %  de descuento) en el siguiente enlace!

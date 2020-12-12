@@ -17,6 +17,9 @@ comparePrice: 77.06 EUR
 inStock: true
 prodname: 'Versa 19501313 Taburete redondo Minimal  35x35x35cm  Reposapiés  Otomana  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N24KN6J/?tag=tolees-21'
+descuento: '69.27'
+titulo: 'Versa 19501313 Taburete redondo Minimal '
 ---
 
 Está [Versa 19501313 Taburete redondo Minimal  35x35x35cm  Reposapiés  Otomana  Blanco](https://www.amazon.es/dp/B01N24KN6J/?tag=tolees-21) con 69.27 de descuento por 23.68 EUR (original: 77.06 EUR) en el siguiente enlace!

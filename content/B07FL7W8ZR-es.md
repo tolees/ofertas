@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Superdry Orange Label Cotton Crew Suéter  Gris  Ash Grey Grit Zf1   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FL7W8ZR/?tag=tolees-21'
+descuento: '43.06'
+titulo: 'Superdry Orange Label Cotton Crew Suéter'
 ---
 
 Está [Superdry Orange Label Cotton Crew Suéter  Gris  Ash Grey Grit Zf1   Medium para Hombre](https://www.amazon.es/dp/B07FL7W8ZR/?tag=tolees-21) con 43.06 de descuento por 34.16 EUR (original: 59.99 EUR) en el siguiente enlace!

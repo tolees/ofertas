@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 35cp324  Botines para Mujer  Gris  Dunkelgrau 220   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJFVHHB/?tag=tolees-21'
+descuento: '62.14'
+titulo: 'Dockers by Gerli 35cp324  Botines para M'
 ---
 
 Está [Dockers by Gerli 35cp324  Botines para Mujer  Gris  Dunkelgrau 220   36 EU](https://www.amazon.es/dp/B07DJFVHHB/?tag=tolees-21) con 62.14 de descuento por 22.7 EUR (original: 59.95 EUR) en el siguiente enlace!

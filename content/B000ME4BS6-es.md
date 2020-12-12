@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'The North Face Ascentials TNF Guantes  Unisex adulto  Negro  Tnf Black   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000ME4BS6/?tag=tolees-21'
+descuento: '41.93'
+titulo: 'The North Face Ascentials TNF Guantes  U'
 ---
 
 Está [The North Face Ascentials TNF Guantes  Unisex adulto  Negro  Tnf Black   XL](https://www.amazon.es/dp/B000ME4BS6/?tag=tolees-21) con 41.93 de descuento por 23.23 EUR (original: 40 EUR) en el siguiente enlace!

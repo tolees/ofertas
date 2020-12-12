@@ -17,6 +17,9 @@ comparePrice: 11.5 EUR
 inStock: true
 prodname: 'Bra Efficient Cuchillo Santoku  Acero Inoxidable  Gris  3x4x30 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076T9WZ5C/?tag=tolees-21'
+descuento: '30.52'
+titulo: 'Bra Efficient Cuchillo Santoku  Acero In'
 ---
 
 Tienes [Bra Efficient Cuchillo Santoku  Acero Inoxidable  Gris  3x4x30 cm](https://www.amazon.es/dp/B076T9WZ5C/?tag=tolees-21) con un 30.52 % de descuento con precio de oferta de 7.99 EUR (original: 11.5 EUR) en el siguiente enlace!

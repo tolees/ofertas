@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Panama Jack Panama 03 Igloo  Botas Militar para Mujer   Gris B20   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L3L9KWS/?tag=tolees-21'
+descuento: '48.25'
+titulo: 'Panama Jack Panama 03 Igloo  Botas Milit'
 ---
 
 Está [Panama Jack Panama 03 Igloo  Botas Militar para Mujer   Gris B20   36 EU](https://www.amazon.es/dp/B01L3L9KWS/?tag=tolees-21) con 48.25 de descuento por 102.99 EUR (original: 199 EUR) en el siguiente enlace!

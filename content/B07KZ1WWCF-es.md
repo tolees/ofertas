@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Springfield Franq.Cuello Print Camiseta  Mujer  Marrón  Gama Marrones 33   X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1WWCF/?tag=tolees-21'
+descuento: '66.18'
+titulo: 'Springfield Franq.Cuello Print Camiseta '
 ---
 
 Ahora mismo tienes [Springfield Franq.Cuello Print Camiseta  Mujer  Marrón  Gama Marrones 33   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KZ1WWCF/?tag=tolees-21) a 6.76 EUR (original: 19.99 EUR) (66.18 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Puma Active Tank Top  Mujer  Black  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPKWG7X/?tag=tolees-21'
+descuento: '31.91'
+titulo: 'Puma Active Tank Top  Mujer  Black  XS'
 ---
 
 Ahora mismo tienes [Puma Active Tank Top  Mujer  Black  XS](https://www.amazon.es/dp/B07DPKWG7X/?tag=tolees-21) a 10.18 EUR (original: 14.95 EUR) (31.91 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'Columbia Bangor Boot Omni-Heat  Botas de Nieve para Hombre  Marrón  Tobacco  Bright Copper   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7IN9YV/?tag=tolees-21'
+descuento: '64.07'
+titulo: 'Columbia Bangor Boot Omni-Heat  Botas de'
 ---
 
 Ahora mismo tienes [Columbia Bangor Boot Omni-Heat  Botas de Nieve para Hombre  Marrón  Tobacco  Bright Copper   44 EU](https://www.amazon.es/dp/B01N7IN9YV/?tag=tolees-21) a 61.08 EUR (original: 169.99 EUR) (64.07 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour Amsterdam Big Logo SS T Camiseta de Manga Corta  Hombre  Rojo  600   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077GYNXQF/?tag=tolees-21'
+descuento: '40.38'
+titulo: 'Under Armour Amsterdam Big Logo SS T Cam'
 ---
 
 Ahora mismo tienes [Under Armour Amsterdam Big Logo SS T Camiseta de Manga Corta  Hombre  Rojo  600   M](https://www.amazon.es/dp/B077GYNXQF/?tag=tolees-21) a 15.5 EUR (original: 26 EUR) (40.38 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 139.9 EUR
 inStock: true
 prodname: 'Dolores Promesas OI17 2040CVARIOS Pantalones  Negro  Varios   W38/L34  Tamaño del Fabricante:38  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07175GTNF/?tag=tolees-21'
+descuento: '74.37'
+titulo: 'Dolores Promesas OI17 2040CVARIOS Pantal'
 ---
 
 Ahora mismo tienes [Dolores Promesas OI17 2040CVARIOS Pantalones  Negro  Varios   W38/L34  Tamaño del Fabricante:38  para Mujer](https://www.amazon.es/dp/B07175GTNF/?tag=tolees-21) a 35.86 EUR (original: 139.9 EUR) (74.37 %  de descuento) en el siguiente enlace!

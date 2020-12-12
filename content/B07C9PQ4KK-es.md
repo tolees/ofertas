@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Nike Air MAX Infuriate 2 Mid Aa7066-001  Zapatillas Altas para Hombre  Negro Black/White/Anthracite 001  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C9PQ4KK/?tag=tolees-21'
+descuento: '25.35'
+titulo: 'Nike Air MAX Infuriate 2 Mid Aa7066-001 '
 ---
 
 Ahora mismo tienes [Nike Air MAX Infuriate 2 Mid Aa7066-001  Zapatillas Altas para Hombre  Negro Black/White/Anthracite 001  44 EU](https://www.amazon.es/dp/B07C9PQ4KK/?tag=tolees-21) a 63.45 EUR (original: 85 EUR) (25.35 %  de descuento) en el siguiente enlace!

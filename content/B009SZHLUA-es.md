@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Yaktrax Run Crampones  Hombre  Gris  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009SZHLUA/?tag=tolees-21'
+descuento: '70.94'
+titulo: 'Yaktrax Run Crampones  Hombre  Gris  XL'
 ---
 
 Tienes [Yaktrax Run Crampones  Hombre  Gris  XL](https://www.amazon.es/dp/B009SZHLUA/?tag=tolees-21) con un 70.94 % de descuento con precio de oferta de 11.61 EUR (original: 39.95 EUR) en el siguiente enlace!

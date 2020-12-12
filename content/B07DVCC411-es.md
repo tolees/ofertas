@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'USB OurLeeme ultrafino LEDDimmable luz de lectura recargable de 4 niveles de brillo ajustable lámpara de lectura flexible Clip On para Ipad y libro Más  1PCS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVCC411/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'USB OurLeeme ultrafino LEDDimmable luz d'
 ---
 
 Está [USB OurLeeme ultrafino LEDDimmable luz de lectura recargable de 4 niveles de brillo ajustable lámpara de lectura flexible Clip On para Ipad y libro Más  1PCS ](https://www.amazon.es/dp/B07DVCC411/?tag=tolees-21) con 50.05 de descuento por 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!

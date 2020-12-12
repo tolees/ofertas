@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'iWork - L-82-362 - Compresor de Aire Portátil 12v inflador de neumáticos analógico  bomba de neumático color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L8NL7V6/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'iWork - L-82-362 - Compresor de Aire Por'
 ---
 
 Está [iWork - L-82-362 - Compresor de Aire Portátil 12v inflador de neumáticos analógico  bomba de neumático color negro](https://www.amazon.es/dp/B07L8NL7V6/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

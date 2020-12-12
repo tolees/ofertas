@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'U-Breast Aparato de Electroestimulación para Aumentar los Senos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009UT81AS/?tag=tolees-21'
+descuento: '41.40'
+titulo: 'U-Breast Aparato de Electroestimulación '
 ---
 
 Tienes [U-Breast Aparato de Electroestimulación para Aumentar los Senos](https://www.amazon.es/dp/B009UT81AS/?tag=tolees-21) con un 41.40 % de descuento con precio de oferta de 40.99 EUR (original: 69.95 EUR) en el siguiente enlace!

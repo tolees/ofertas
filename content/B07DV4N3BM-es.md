@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Columbia Drainmaker 3D  Zapatillas para Mujer  Violeta  Soft Violet  Eve   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DV4N3BM/?tag=tolees-21'
+descuento: '70.56'
+titulo: 'Columbia Drainmaker 3D  Zapatillas para '
 ---
 
 Ahora mismo tienes [Columbia Drainmaker 3D  Zapatillas para Mujer  Violeta  Soft Violet  Eve   36 EU](https://www.amazon.es/dp/B07DV4N3BM/?tag=tolees-21) a 23.55 EUR (original: 79.99 EUR) (70.56 %  de descuento) en el siguiente enlace!

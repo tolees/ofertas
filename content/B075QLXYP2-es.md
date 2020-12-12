@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Vampirina-78085 Spokylele   78085 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075QLXYP2/?tag=tolees-21'
+descuento: '77.16'
+titulo: 'Vampirina-78085 Spokylele   78085 '
 ---
 
 Ahora mismo tienes [Vampirina-78085 Spokylele   78085 ](https://www.amazon.es/dp/B075QLXYP2/?tag=tolees-21) a 7.99 EUR (original: 34.99 EUR) (77.16 %  de descuento) en el siguiente enlace!

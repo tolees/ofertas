@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'ELEGIANT IR Infrarrojos Remoto Control Adaptador USB Extensor Receptor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017XOU6RM/?tag=tolees-21'
+descuento: '35.31'
+titulo: 'ELEGIANT IR Infrarrojos Remoto Control A'
 ---
 
 Ahora mismo tienes [ELEGIANT IR Infrarrojos Remoto Control Adaptador USB Extensor Receptor](https://www.amazon.es/dp/B017XOU6RM/?tag=tolees-21) a 10.99 EUR (original: 16.99 EUR) (35.31 %  de descuento) en el siguiente enlace!

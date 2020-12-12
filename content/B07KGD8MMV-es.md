@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'BOSS Schino-Slim D Pantalones  Verde  Open Green 345   W30/L32  Talla del Fabricante: 30 32  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGD8MMV/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'BOSS Schino-Slim D Pantalones  Verde  Op'
 ---
 
 Tienes [BOSS Schino-Slim D Pantalones  Verde  Open Green 345   W30/L32  Talla del Fabricante: 30 32  para Hombre](https://www.amazon.es/dp/B07KGD8MMV/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!

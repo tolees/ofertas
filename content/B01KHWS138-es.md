@@ -17,6 +17,9 @@ comparePrice: 25.71 EUR
 inStock: true
 prodname: 'Cife - Trendy Lights Selfie con accesorios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KHWS138/?tag=tolees-21'
+descuento: '71.41'
+titulo: 'Cife - Trendy Lights Selfie con accesori'
 ---
 
 Está [Cife - Trendy Lights Selfie con accesorios](https://www.amazon.es/dp/B01KHWS138/?tag=tolees-21) con 71.41 de descuento por 7.35 EUR (original: 25.71 EUR) en el siguiente enlace!

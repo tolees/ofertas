@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'New Balance Mx66V2  Zapatillas de Running para Mujer   Magnet/Black   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1I11AF/?tag=tolees-21'
+descuento: '46.67'
+titulo: 'New Balance Mx66V2  Zapatillas de Runnin'
 ---
 
 Está [New Balance Mx66V2  Zapatillas de Running para Mujer   Magnet/Black   43 EU](https://www.amazon.es/dp/B01N1I11AF/?tag=tolees-21) con 46.67 de descuento por 40 EUR (original: 75 EUR) en el siguiente enlace!

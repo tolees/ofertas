@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas Copa 19.3 FG  Zapatillas de Fútbol para Hombre  Negro  Core Black/Solar Yellow/Core Black Core Black/Solar Yellow/Core Black    46 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JY4LL17/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Copa 19.3 FG  Zapatillas de Fútbo'
 ---
 
 Está [adidas Copa 19.3 FG  Zapatillas de Fútbol para Hombre  Negro  Core Black/Solar Yellow/Core Black Core Black/Solar Yellow/Core Black    46 2/3 EU](https://www.amazon.es/dp/B07JY4LL17/?tag=tolees-21) con 49.99 de descuento por 34.98 EUR (original: 69.95 EUR) en el siguiente enlace!

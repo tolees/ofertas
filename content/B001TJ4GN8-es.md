@@ -17,6 +17,9 @@ comparePrice: 48.17 EUR
 inStock: true
 prodname: 'Kärcher 2.645-106.0 Enrollador móvil de manguera HC 50'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001TJ4GN8/?tag=tolees-21'
+descuento: '28.42'
+titulo: 'Kärcher 2.645-106.0 Enrollador móvil de '
 ---
 
 Está [Kärcher 2.645-106.0 Enrollador móvil de manguera HC 50](https://www.amazon.es/dp/B001TJ4GN8/?tag=tolees-21) con 28.42 de descuento por 34.48 EUR (original: 48.17 EUR) en el siguiente enlace!

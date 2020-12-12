@@ -17,6 +17,9 @@ comparePrice: 118.6 EUR
 inStock: true
 prodname: 'OKI 43324408 - Cartucho de tóner'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000G0O3KW/?tag=tolees-21'
+descuento: '78.92'
+titulo: 'OKI 43324408 - Cartucho de tóner'
 ---
 
 Tienes [OKI 43324408 - Cartucho de tóner](https://www.amazon.es/dp/B000G0O3KW/?tag=tolees-21) con un 78.92 % de descuento con precio de oferta de 25 EUR (original: 118.6 EUR) en el siguiente enlace!

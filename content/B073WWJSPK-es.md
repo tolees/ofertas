@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmhelen LS String Blouse  suéter Mujer  Marrón  Monks Robe Detail:Melange   34  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073WWJSPK/?tag=tolees-21'
+descuento: '75.09'
+titulo: 'Vero Moda Vmhelen LS String Blouse  suét'
 ---
 
 Está [Vero Moda Vmhelen LS String Blouse  suéter Mujer  Marrón  Monks Robe Detail:Melange   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B073WWJSPK/?tag=tolees-21) con 75.09 de descuento por 9.96 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Berg Outdoor FIGO Power Stretch Fleece Jacket  Hombre  Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GT5ZPG9/?tag=tolees-21'
+descuento: '77.40'
+titulo: 'Berg Outdoor FIGO Power Stretch Fleece J'
 ---
 
 Tienes [Berg Outdoor FIGO Power Stretch Fleece Jacket  Hombre  Black  M](https://www.amazon.es/dp/B07GT5ZPG9/?tag=tolees-21) con un 77.40 % de descuento con precio de oferta de 13.55 EUR (original: 59.95 EUR) en el siguiente enlace!

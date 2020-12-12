@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'BILLABONG Balance Pullover Boy Jersey  Niños  Turquesa  Emerald 109   8 años  Tamaño del Fabricante:8 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1FSFQ1/?tag=tolees-21'
+descuento: '63.06'
+titulo: 'BILLABONG Balance Pullover Boy Jersey  N'
 ---
 
 Tienes [BILLABONG Balance Pullover Boy Jersey  Niños  Turquesa  Emerald 109   8 años  Tamaño del Fabricante:8 ](https://www.amazon.es/dp/B07F1FSFQ1/?tag=tolees-21) con un 63.06 % de descuento con precio de oferta de 18.47 EUR (original: 50 EUR) en el siguiente enlace!

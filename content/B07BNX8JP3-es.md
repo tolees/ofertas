@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Columbia Peakfreak Venture Low Suede WP  Zapatillas de Senderismo para Hombre  Negro  Graphite  Phoenix Blue   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BNX8JP3/?tag=tolees-21'
+descuento: '55.04'
+titulo: 'Columbia Peakfreak Venture Low Suede WP '
 ---
 
 Tienes [Columbia Peakfreak Venture Low Suede WP  Zapatillas de Senderismo para Hombre  Negro  Graphite  Phoenix Blue   43 EU](https://www.amazon.es/dp/B07BNX8JP3/?tag=tolees-21) con un 55.04 % de descuento con precio de oferta de 53.95 EUR (original: 119.99 EUR) en el siguiente enlace!

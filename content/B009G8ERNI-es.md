@@ -17,6 +17,9 @@ comparePrice: 49.57 EUR
 inStock: true
 prodname: 'Marvel. Ultimate Heroes  Pack 6 películas  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009G8ERNI/?tag=tolees-21'
+descuento: '41.54'
+titulo: 'Marvel. Ultimate Heroes  Pack 6 película'
 ---
 
 Ahora mismo tienes [Marvel. Ultimate Heroes  Pack 6 películas  [Blu-ray]](https://www.amazon.es/dp/B009G8ERNI/?tag=tolees-21) a 28.98 EUR (original: 49.57 EUR) (41.54 %  de descuento) en el siguiente enlace!

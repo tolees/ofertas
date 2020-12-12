@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'The Division'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DW343BY/?tag=tolees-21'
+descuento: '66.64'
+titulo: 'The Division'
 ---
 
 Está [The Division](https://www.amazon.es/dp/B00DW343BY/?tag=tolees-21) con 66.64 de descuento por 9.99 EUR (original: 29.95 EUR) en el siguiente enlace!

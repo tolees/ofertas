@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'BILLABONG All Day 10K Boy Chaqueta  Niños  Verde  Military Heather 1288   años  Tamaño del Fabricante:12 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1J1JZ1/?tag=tolees-21'
+descuento: '57.94'
+titulo: 'BILLABONG All Day 10K Boy Chaqueta  Niño'
 ---
 
 Está [BILLABONG All Day 10K Boy Chaqueta  Niños  Verde  Military Heather 1288   años  Tamaño del Fabricante:12 ](https://www.amazon.es/dp/B07F1J1JZ1/?tag=tolees-21) con 57.94 de descuento por 46.27 EUR (original: 110 EUR) en el siguiente enlace!

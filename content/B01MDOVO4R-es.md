@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Nike Air Max Vision  Zapatillas de Running Hombre  Blanco  White/white-black   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MDOVO4R/?tag=tolees-21'
+descuento: '58.88'
+titulo: 'Nike Air Max Vision  Zapatillas de Runni'
 ---
 
 Ahora mismo tienes [Nike Air Max Vision  Zapatillas de Running Hombre  Blanco  White/white-black   42 EU](https://www.amazon.es/dp/B01MDOVO4R/?tag=tolees-21) a 49.34 EUR (original: 120 EUR) (58.88 %  de descuento) en el siguiente enlace!

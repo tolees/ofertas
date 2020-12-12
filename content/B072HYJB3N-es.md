@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'JACK & JONES VINTAGE Jjvsebastian LS Granddad Noos  Camisa Manga Larga para Hombre  Verde  Olive Night Fit:Melange - Slim Fit  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072HYJB3N/?tag=tolees-21'
+descuento: '32.26'
+titulo: 'JACK & JONES VINTAGE Jjvsebastian LS Gra'
 ---
 
 Tienes [JACK & JONES VINTAGE Jjvsebastian LS Granddad Noos  Camisa Manga Larga para Hombre  Verde  Olive Night Fit:Melange - Slim Fit  Large](https://www.amazon.es/dp/B072HYJB3N/?tag=tolees-21) con un 32.26 % de descuento con precio de oferta de 16.9 EUR (original: 24.95 EUR) en el siguiente enlace!

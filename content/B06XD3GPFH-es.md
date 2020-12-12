@@ -17,6 +17,9 @@ comparePrice: 76 EUR
 inStock: true
 prodname: 'Arnette Crooked Grind  Gafas de sol para Hombre  Matte Grey Havana 56'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XD3GPFH/?tag=tolees-21'
+descuento: '63.33'
+titulo: 'Arnette Crooked Grind  Gafas de sol para'
 ---
 
 Tienes [Arnette Crooked Grind  Gafas de sol para Hombre  Matte Grey Havana 56](https://www.amazon.es/dp/B06XD3GPFH/?tag=tolees-21) con un 63.33 % de descuento con precio de oferta de 27.87 EUR (original: 76 EUR) en el siguiente enlace!

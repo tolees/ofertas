@@ -17,6 +17,9 @@ comparePrice: 19.98 EUR
 inStock: true
 prodname: 'Champion Performance Ankle X6  Deporte para Hombre  Multicolor  Noir/Gris Foncé/Gris Clair 8m0   43/46 Pack de 6 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GG8RXZJ/?tag=tolees-21'
+descuento: '38.49'
+titulo: 'Champion Performance Ankle X6  Deporte p'
 ---
 
 Tienes [Champion Performance Ankle X6  Deporte para Hombre  Multicolor  Noir/Gris Foncé/Gris Clair 8m0   43/46 Pack de 6 ](https://www.amazon.es/dp/B07GG8RXZJ/?tag=tolees-21) con un 38.49 % de descuento con precio de oferta de 12.29 EUR (original: 19.98 EUR) en el siguiente enlace!

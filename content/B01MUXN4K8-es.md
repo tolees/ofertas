@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'little live pets Casa y ericito redondito  Famosa 700013667 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MUXN4K8/?tag=tolees-21'
+descuento: '50.72'
+titulo: 'little live pets Casa y ericito redondit'
 ---
 
 Está [little live pets Casa y ericito redondito  Famosa 700013667 ](https://www.amazon.es/dp/B01MUXN4K8/?tag=tolees-21) con 50.72 de descuento por 14.76 EUR (original: 29.95 EUR) en el siguiente enlace!

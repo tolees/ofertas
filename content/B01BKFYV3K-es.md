@@ -17,6 +17,9 @@ comparePrice: 63.95 EUR
 inStock: true
 prodname: 'Joma Evos Zapatillas  Unisex  Rosa Fucsia  40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BKFYV3K/?tag=tolees-21'
+descuento: '61.16'
+titulo: 'Joma Evos Zapatillas  Unisex  Rosa Fucsi'
 ---
 
 Está [Joma Evos Zapatillas  Unisex  Rosa Fucsia  40](https://www.amazon.es/dp/B01BKFYV3K/?tag=tolees-21) con 61.16 de descuento por 24.84 EUR (original: 63.95 EUR) en el siguiente enlace!

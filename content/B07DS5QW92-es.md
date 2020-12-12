@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Brooks Wire V5  Zapatillas de Running Unisex Adulto  Blanco  White/Gold 102   45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DS5QW92/?tag=tolees-21'
+descuento: '69.24'
+titulo: 'Brooks Wire V5  Zapatillas de Running Un'
 ---
 
 Ahora mismo tienes [Brooks Wire V5  Zapatillas de Running Unisex Adulto  Blanco  White/Gold 102   45.5 EU](https://www.amazon.es/dp/B07DS5QW92/?tag=tolees-21) a 30.76 EUR (original: 100 EUR) (69.24 %  de descuento) en el siguiente enlace!

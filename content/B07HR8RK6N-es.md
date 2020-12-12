@@ -17,6 +17,9 @@ comparePrice: 1999 EUR
 inStock: true
 prodname: 'Antena de TV Digital Konesky Antena de TV HD 1080P de 50 Millas de Largo Alcance con Amplificador con USB'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HR8RK6N/?tag=tolees-21'
+descuento: '99.55'
+titulo: 'Antena de TV Digital Konesky Antena de T'
 ---
 
 Tienes [Antena de TV Digital Konesky Antena de TV HD 1080P de 50 Millas de Largo Alcance con Amplificador con USB](https://www.amazon.es/dp/B07HR8RK6N/?tag=tolees-21) con un 99.55 % de descuento con precio de oferta de 8.99 EUR (original: 1999 EUR) en el siguiente enlace!

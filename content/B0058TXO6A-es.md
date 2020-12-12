@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Portería Hinchable Bestway Water Polo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0058TXO6A/?tag=tolees-21'
+descuento: '35.05'
+titulo: 'Portería Hinchable Bestway Water Polo'
 ---
 
 Está [Portería Hinchable Bestway Water Polo](https://www.amazon.es/dp/B0058TXO6A/?tag=tolees-21) con 35.05 de descuento por 9.71 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 10.07 EUR
 inStock: true
 prodname: 'Inside 5SFD20 Camiseta  Mujer  Verde  X-Small  Tamaño del Fabricante:XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y3GD3L/?tag=tolees-21'
+descuento: '77.76'
+titulo: 'Inside 5SFD20 Camiseta  Mujer  Verde  X-'
 ---
 
 Ahora mismo tienes [Inside 5SFD20 Camiseta  Mujer  Verde  X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B077Y3GD3L/?tag=tolees-21) a 2.24 EUR (original: 10.07 EUR) (77.76 %  de descuento) en el siguiente enlace!

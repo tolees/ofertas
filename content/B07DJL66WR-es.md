@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 41ju201  Botas Militar para Mujer  Gris  Hellgrau 210   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJL66WR/?tag=tolees-21'
+descuento: '74.85'
+titulo: 'Dockers by Gerli 41ju201  Botas Militar '
 ---
 
 Está [Dockers by Gerli 41ju201  Botas Militar para Mujer  Gris  Hellgrau 210   39 EU](https://www.amazon.es/dp/B07DJL66WR/?tag=tolees-21) con 74.85 de descuento por 20.11 EUR (original: 79.95 EUR) en el siguiente enlace!

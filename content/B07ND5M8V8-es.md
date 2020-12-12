@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'RIP CURL Summer Lovin Trucka Cap Gorra  Mujer  Black  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ND5M8V8/?tag=tolees-21'
+descuento: '28.37'
+titulo: 'RIP CURL Summer Lovin Trucka Cap Gorra  '
 ---
 
 Está [RIP CURL Summer Lovin Trucka Cap Gorra  Mujer  Black  Talla Única](https://www.amazon.es/dp/B07ND5M8V8/?tag=tolees-21) con 28.37 de descuento por 17.9 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Pepe Jeans Pepa PL503738 Camiseta  Gris  Lt Grey Marl 913   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C59HDBC/?tag=tolees-21'
+descuento: '35.20'
+titulo: 'Pepe Jeans Pepa PL503738 Camiseta  Gris '
 ---
 
 Tienes [Pepe Jeans Pepa PL503738 Camiseta  Gris  Lt Grey Marl 913   Large para Mujer](https://www.amazon.es/dp/B07C59HDBC/?tag=tolees-21) con un 35.20 % de descuento con precio de oferta de 16.2 EUR (original: 25 EUR) en el siguiente enlace!

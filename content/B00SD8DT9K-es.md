@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Philips VisaCare SC6240/01 - Tratamiento rejuvenecimiento de la piel de la cara'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SD8DT9K/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Philips VisaCare SC6240/01 - Tratamiento'
 ---
 
 Ahora mismo tienes [Philips VisaCare SC6240/01 - Tratamiento rejuvenecimiento de la piel de la cara](https://www.amazon.es/dp/B00SD8DT9K/?tag=tolees-21) a 99.99 EUR (original: 199.99 EUR) (50.00 %  de descuento) en el siguiente enlace!

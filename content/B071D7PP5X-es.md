@@ -17,6 +17,9 @@ comparePrice: 33 EUR
 inStock: true
 prodname: 'Calvin Klein Hip Brief 000NB129  Slip para Hombre  Negro  Black 94   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071D7PP5X/?tag=tolees-21'
+descuento: '45.61'
+titulo: 'Calvin Klein Hip Brief 000NB129  Slip pa'
 ---
 
 Ahora mismo tienes [Calvin Klein Hip Brief 000NB129  Slip para Hombre  Negro  Black 94   S](https://www.amazon.es/dp/B071D7PP5X/?tag=tolees-21) a 17.95 EUR (original: 33 EUR) (45.61 %  de descuento) en el siguiente enlace!

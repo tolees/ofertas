@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Nike Nk Brsla L Duff Gym Bag  Unisex adulto  Black/Black/ White   MISC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GWKQMZI/?tag=tolees-21'
+descuento: '50.11'
+titulo: 'Nike Nk Brsla L Duff Gym Bag  Unisex adu'
 ---
 
 Está [Nike Nk Brsla L Duff Gym Bag  Unisex adulto  Black/Black/ White   MISC](https://www.amazon.es/dp/B01GWKQMZI/?tag=tolees-21) con 50.11 de descuento por 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!

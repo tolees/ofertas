@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'BOSS Schino-Slim Pantalones  Azul  Dark Blue 404   W34/L34  Talla del Fabricante 34  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGNFDMF/?tag=tolees-21'
+descuento: '27.71'
+titulo: 'BOSS Schino-Slim Pantalones  Azul  Dark '
 ---
 
 Está [BOSS Schino-Slim Pantalones  Azul  Dark Blue 404   W34/L34  Talla del Fabricante 34  para Hombre](https://www.amazon.es/dp/B07KGNFDMF/?tag=tolees-21) con 27.71 de descuento por 86.03 EUR (original: 119 EUR) en el siguiente enlace!

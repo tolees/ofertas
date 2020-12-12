@@ -17,6 +17,9 @@ comparePrice: 58.99 EUR
 inStock: true
 prodname: 'Auriculares Bluetooth  KOOHO E1 Bluetooth Inalámbrico Estéreo Cascos  Magnéticos in Ear  Reducción de Ruido  Resistente al Agua IPX6  Para iPad  iOS Android Móviles Smartphones PC  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CGN1V26/?tag=tolees-21'
+descuento: '66.11'
+titulo: 'Auriculares Bluetooth  KOOHO E1 Bluetoot'
 ---
 
 Está [Auriculares Bluetooth  KOOHO E1 Bluetooth Inalámbrico Estéreo Cascos  Magnéticos in Ear  Reducción de Ruido  Resistente al Agua IPX6  Para iPad  iOS Android Móviles Smartphones PC  Negro ](https://www.amazon.es/dp/B07CGN1V26/?tag=tolees-21) con 66.11 de descuento por 19.99 EUR (original: 58.99 EUR) en el siguiente enlace!

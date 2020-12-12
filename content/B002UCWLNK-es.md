@@ -17,6 +17,9 @@ comparePrice: 9.86 EUR
 inStock: true
 prodname: 'Kong JU03288 Squiggles - Juguete para Perros  Grande  1 unidad [modelos surtidos]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002UCWLNK/?tag=tolees-21'
+descuento: '40.26'
+titulo: 'Kong JU03288 Squiggles - Juguete para Pe'
 ---
 
 Ahora mismo tienes [Kong JU03288 Squiggles - Juguete para Perros  Grande  1 unidad [modelos surtidos]](https://www.amazon.es/dp/B002UCWLNK/?tag=tolees-21) a 5.89 EUR (original: 9.86 EUR) (40.26 %  de descuento) en el siguiente enlace!

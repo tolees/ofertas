@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'BOSS Relegant_1 Camisa  Morado  Bright Purple 522   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGD2V7K/?tag=tolees-21'
+descuento: '62.29'
+titulo: 'BOSS Relegant_1 Camisa  Morado  Bright P'
 ---
 
 Está [BOSS Relegant_1 Camisa  Morado  Bright Purple 522   Small para Hombre](https://www.amazon.es/dp/B07KGD2V7K/?tag=tolees-21) con 62.29 de descuento por 33.92 EUR (original: 89.95 EUR) en el siguiente enlace!

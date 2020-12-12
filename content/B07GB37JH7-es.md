@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Auriculares Bluetooth  Yoleo X187 Auriculares Inalámbricos Bluetooth 5.0  ligerísimos 4 gr. con In-Ear Mini Twins Sonido Estéreo Micrófono Integrado con Caja de Carga Portátil para iPhone y Android'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GB37JH7/?tag=tolees-21'
+descuento: '28.01'
+titulo: 'Auriculares Bluetooth  Yoleo X187 Auricu'
 ---
 
 Tienes [Auriculares Bluetooth  Yoleo X187 Auriculares Inalámbricos Bluetooth 5.0  ligerísimos 4 gr. con In-Ear Mini Twins Sonido Estéreo Micrófono Integrado con Caja de Carga Portátil para iPhone y Android](https://www.amazon.es/dp/B07GB37JH7/?tag=tolees-21) con un 28.01 % de descuento con precio de oferta de 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Kit 149 pcs Herramienta Reloj de Reparación  CookJoy Kit Relojero Herramientas relojero Profesional de Reparación de Relojes  Pasadores Correa Reloj  Abrir Reloj'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRX8T11/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Kit 149 pcs Herramienta Reloj de Reparac'
 ---
 
 Ahora mismo tienes [Kit 149 pcs Herramienta Reloj de Reparación  CookJoy Kit Relojero Herramientas relojero Profesional de Reparación de Relojes  Pasadores Correa Reloj  Abrir Reloj](https://www.amazon.es/dp/B07KRX8T11/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

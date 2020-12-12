@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Slim Jeans  Azul  Medium Aged 6090-071   40W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Z3BX1X4/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'G-STAR RAW 3301 Slim Jeans  Azul  Medium'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Slim Jeans  Azul  Medium Aged 6090-071   40W / 32L para Hombre](https://www.amazon.es/dp/B00Z3BX1X4/?tag=tolees-21) a 59.95 EUR (original: 99.95 EUR) (40.02 %  de descuento) en el siguiente enlace!

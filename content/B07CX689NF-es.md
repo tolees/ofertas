@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Armani Exchange Cotton Spandex Twill-Slim  Pantalones para Hombre  Azul  Navy 1510  W33/L34  Talla del Fabricante: 33 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CX689NF/?tag=tolees-21'
+descuento: '54.64'
+titulo: 'Armani Exchange Cotton Spandex Twill-Sli'
 ---
 
 Tienes [Armani Exchange Cotton Spandex Twill-Slim  Pantalones para Hombre  Azul  Navy 1510  W33/L34  Talla del Fabricante: 33 ](https://www.amazon.es/dp/B07CX689NF/?tag=tolees-21) con un 54.64 % de descuento con precio de oferta de 43.09 EUR (original: 95 EUR) en el siguiente enlace!

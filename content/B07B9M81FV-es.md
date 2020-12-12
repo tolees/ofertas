@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Tous Shopping Teatime  Shopper para Mujer  Multicolor  Gris/Negro  10.5x29x36.5 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B9M81FV/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Tous Shopping Teatime  Shopper para Muje'
 ---
 
 Está [Tous Shopping Teatime  Shopper para Mujer  Multicolor  Gris/Negro  10.5x29x36.5 cm  W x H x L ](https://www.amazon.es/dp/B07B9M81FV/?tag=tolees-21) con 40.00 de descuento por 89.4 EUR (original: 149 EUR) en el siguiente enlace!

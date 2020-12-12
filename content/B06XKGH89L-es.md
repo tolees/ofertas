@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans Sloane Pm210564  Pantalones Hombre  Azul  Navy   W32/L34  Talla del Fabricante: W32 /L34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XKGH89L/?tag=tolees-21'
+descuento: '61.45'
+titulo: 'Pepe Jeans Sloane Pm210564  Pantalones H'
 ---
 
 Ahora mismo tienes [Pepe Jeans Sloane Pm210564  Pantalones Hombre  Azul  Navy   W32/L34  Talla del Fabricante: W32 /L34 ](https://www.amazon.es/dp/B06XKGH89L/?tag=tolees-21) a 25.06 EUR (original: 65 EUR) (61.45 %  de descuento) en el siguiente enlace!

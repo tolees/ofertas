@@ -17,6 +17,9 @@ comparePrice: 25.5 EUR
 inStock: true
 prodname: 'Dim Soft Touch Classique Boxer X2  Bañador Hombre   Violet Sombre/Bleu Orage 6us   Medium  Talla del Fabricante: 3 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2LPFSY/?tag=tolees-21'
+descuento: '46.67'
+titulo: 'Dim Soft Touch Classique Boxer X2  Bañad'
 ---
 
 Tienes [Dim Soft Touch Classique Boxer X2  Bañador Hombre   Violet Sombre/Bleu Orage 6us   Medium  Talla del Fabricante: 3 ](https://www.amazon.es/dp/B07D2LPFSY/?tag=tolees-21) con un 46.67 % de descuento con precio de oferta de 13.6 EUR (original: 25.5 EUR) en el siguiente enlace!

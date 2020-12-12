@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'TANBURO Almohada de Bañera Cojin de Baño-Reposacabezas Ortopédico de Espuma para SPA Jacuzzi Hidromasaje  White '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GRND7RF/?tag=tolees-21'
+descuento: '30.78'
+titulo: 'TANBURO Almohada de Bañera Cojin de Baño'
 ---
 
 Ahora mismo tienes [TANBURO Almohada de Bañera Cojin de Baño-Reposacabezas Ortopédico de Espuma para SPA Jacuzzi Hidromasaje  White ](https://www.amazon.es/dp/B07GRND7RF/?tag=tolees-21) a 17.99 EUR (original: 25.99 EUR) (30.78 %  de descuento) en el siguiente enlace!

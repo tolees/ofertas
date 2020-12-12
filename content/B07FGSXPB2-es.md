@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour UA GL Foundation SS T Camiseta  Hombre  Naranja  Vermillion/Radio Red/Black 872   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FGSXPB2/?tag=tolees-21'
+descuento: '46.23'
+titulo: 'Under Armour UA GL Foundation SS T Camis'
 ---
 
 Tienes [Under Armour UA GL Foundation SS T Camiseta  Hombre  Naranja  Vermillion/Radio Red/Black 872   M](https://www.amazon.es/dp/B07FGSXPB2/?tag=tolees-21) con un 46.23 % de descuento con precio de oferta de 13.98 EUR (original: 26 EUR) en el siguiente enlace!

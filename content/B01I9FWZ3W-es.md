@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Philips Lighting Bombilla LED Forma de Pera  filamento/Vintage  E27  luz Blanca cálida  7 W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01I9FWZ3W/?tag=tolees-21'
+descuento: '44.85'
+titulo: 'Philips Lighting Bombilla LED Forma de P'
 ---
 
 Está [Philips Lighting Bombilla LED Forma de Pera  filamento/Vintage  E27  luz Blanca cálida  7 W](https://www.amazon.es/dp/B01I9FWZ3W/?tag=tolees-21) con 44.85 de descuento por 9.37 EUR (original: 16.99 EUR) en el siguiente enlace!

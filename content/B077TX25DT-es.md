@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Reebok CMPLT 2 PX  Zapatillas de Deporte para Hombre  Blanco  White/LGH Solid Grey/Collegiate Royal 000  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TX25DT/?tag=tolees-21'
+descuento: '63.33'
+titulo: 'Reebok CMPLT 2 PX  Zapatillas de Deporte'
 ---
 
 Tienes [Reebok CMPLT 2 PX  Zapatillas de Deporte para Hombre  Blanco  White/LGH Solid Grey/Collegiate Royal 000  42 EU](https://www.amazon.es/dp/B077TX25DT/?tag=tolees-21) con un 63.33 % de descuento con precio de oferta de 25.65 EUR (original: 69.95 EUR) en el siguiente enlace!

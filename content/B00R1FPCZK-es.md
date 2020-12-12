@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Outwell Schlafsack Campion - Saco de Dormir Momia para Acampada  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00R1FPCZK/?tag=tolees-21'
+descuento: '35.80'
+titulo: 'Outwell Schlafsack Campion - Saco de Dor'
 ---
 
 Está [Outwell Schlafsack Campion - Saco de Dormir Momia para Acampada  Talla única](https://www.amazon.es/dp/B00R1FPCZK/?tag=tolees-21) con 35.80 de descuento por 28.86 EUR (original: 44.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 207.03 EUR
 inStock: true
 prodname: 'Amica 1103141  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLWYRP1/?tag=tolees-21'
+descuento: '29.04'
+titulo: 'Amica 1103141  Negro'
 ---
 
 Ahora mismo tienes [Amica 1103141  Negro](https://www.amazon.es/dp/B07FLWYRP1/?tag=tolees-21) a 146.9 EUR (original: 207.03 EUR) (29.04 %  de descuento) en el siguiente enlace!

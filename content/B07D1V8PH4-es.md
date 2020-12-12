@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slhslim-Yard T. Shell Pants W  Pantalones Hombre  Marrón  Tortoise Shell   W34/L32  Talla del Fabricante: 34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1V8PH4/?tag=tolees-21'
+descuento: '77.35'
+titulo: 'SELECTED HOMME Slhslim-Yard T. Shell Pan'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhslim-Yard T. Shell Pants W  Pantalones Hombre  Marrón  Tortoise Shell   W34/L32  Talla del Fabricante: 34 ](https://www.amazon.es/dp/B07D1V8PH4/?tag=tolees-21) a 13.59 EUR (original: 59.99 EUR) (77.35 %  de descuento) en el siguiente enlace!

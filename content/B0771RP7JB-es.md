@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'DANISH ENDURANCE Merino Wool Light Cushion Socks  EU 39-42  Amarillo/Gris Guijarro - 1 Par '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0771RP7JB/?tag=tolees-21'
+descuento: '63.44'
+titulo: 'DANISH ENDURANCE Merino Wool Light Cushi'
 ---
 
 Está [DANISH ENDURANCE Merino Wool Light Cushion Socks  EU 39-42  Amarillo/Gris Guijarro - 1 Par ](https://www.amazon.es/dp/B0771RP7JB/?tag=tolees-21) con 63.44 de descuento por 10.95 EUR (original: 29.95 EUR) en el siguiente enlace!

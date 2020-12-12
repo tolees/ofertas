@@ -17,6 +17,9 @@ comparePrice: 34.82 EUR
 inStock: true
 prodname: 'Maslighting Flexo LED'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016ZM0TES/?tag=tolees-21'
+descuento: '75.04'
+titulo: 'Maslighting Flexo LED'
 ---
 
 Está [Maslighting Flexo LED](https://www.amazon.es/dp/B016ZM0TES/?tag=tolees-21) con 75.04 de descuento por 8.69 EUR (original: 34.82 EUR) en el siguiente enlace!

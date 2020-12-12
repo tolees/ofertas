@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Festina Reloj Analógico para Mujer de Cuarzo con Correa en Cuero F20372/1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFN6TYX/?tag=tolees-21'
+descuento: '49.86'
+titulo: 'Festina Reloj Analógico para Mujer de Cu'
 ---
 
 Está [Festina Reloj Analógico para Mujer de Cuarzo con Correa en Cuero F20372/1](https://www.amazon.es/dp/B07DFN6TYX/?tag=tolees-21) con 49.86 de descuento por 49.64 EUR (original: 99 EUR) en el siguiente enlace!

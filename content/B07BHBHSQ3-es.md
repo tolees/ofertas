@@ -17,6 +17,9 @@ comparePrice: 48.25 EUR
 inStock: true
 prodname: 'Under Armour UA W Rapid  Zapatillas de Running para Mujer  Blanco Ivory/Metallic Faded Gold 103  38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHBHSQ3/?tag=tolees-21'
+descuento: '26.53'
+titulo: 'Under Armour UA W Rapid  Zapatillas de R'
 ---
 
 Está [Under Armour UA W Rapid  Zapatillas de Running para Mujer  Blanco Ivory/Metallic Faded Gold 103  38.5 EU](https://www.amazon.es/dp/B07BHBHSQ3/?tag=tolees-21) con 26.53 de descuento por 35.45 EUR (original: 48.25 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 47.45 EUR
 inStock: true
 prodname: 'AILIENT Super Mario Mochila Escolar 3D de Dibujos Animados Impreso Mochila de Estudiante Unisex Mochila de Viaje Casual Mochila para Niño y Niña - 30 x 16 x 40cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G2XVRZJ/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'AILIENT Super Mario Mochila Escolar 3D d'
 ---
 
 Tienes [AILIENT Super Mario Mochila Escolar 3D de Dibujos Animados Impreso Mochila de Estudiante Unisex Mochila de Viaje Casual Mochila para Niño y Niña - 30 x 16 x 40cm](https://www.amazon.es/dp/B07G2XVRZJ/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 18.98 EUR (original: 47.45 EUR) en el siguiente enlace!

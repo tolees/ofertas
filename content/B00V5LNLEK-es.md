@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Spalding Essential Reversible Camiseta de Juego  Hombre  Azul Royal/Blanco  XXXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00V5LNLEK/?tag=tolees-21'
+descuento: '42.48'
+titulo: 'Spalding Essential Reversible Camiseta d'
 ---
 
 Ahora mismo tienes [Spalding Essential Reversible Camiseta de Juego  Hombre  Azul Royal/Blanco  XXXL](https://www.amazon.es/dp/B00V5LNLEK/?tag=tolees-21) a 14.95 EUR (original: 25.99 EUR) (42.48 %  de descuento) en el siguiente enlace!

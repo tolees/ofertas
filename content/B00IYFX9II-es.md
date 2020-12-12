@@ -17,6 +17,9 @@ comparePrice: 19.5 EUR
 inStock: true
 prodname: 'Redken shape factor 22 sculpture cream 50ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IYFX9II/?tag=tolees-21'
+descuento: '42.56'
+titulo: 'Redken shape factor 22 sculpture cream 5'
 ---
 
 Tienes [Redken shape factor 22 sculpture cream 50ml](https://www.amazon.es/dp/B00IYFX9II/?tag=tolees-21) con un 42.56 % de descuento con precio de oferta de 11.2 EUR (original: 19.5 EUR) en el siguiente enlace!

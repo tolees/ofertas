@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Champion 6pk Sneaker Socken Chaussettes Mixte  Weiß  43-46'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLHXQG7/?tag=tolees-21'
+descuento: '29.97'
+titulo: 'Champion 6pk Sneaker Socken Chaussettes '
 ---
 
 Ahora mismo tienes [Champion 6pk Sneaker Socken Chaussettes Mixte  Weiß  43-46](https://www.amazon.es/dp/B07DLHXQG7/?tag=tolees-21) a 10.47 EUR (original: 14.95 EUR) (29.97 %  de descuento) en el siguiente enlace!

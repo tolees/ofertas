@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: '2Dark: Limited Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06VVN185K/?tag=tolees-21'
+descuento: '77.74'
+titulo: '2Dark: Limited Edition'
 ---
 
 Ahora mismo tienes [2Dark: Limited Edition](https://www.amazon.es/dp/B06VVN185K/?tag=tolees-21) a 8.9 EUR (original: 39.99 EUR) (77.74 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Reebok Wor Myt Engineered Tight Mallas  Mujer  crucob  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGR9J7X/?tag=tolees-21'
+descuento: '50.21'
+titulo: 'Reebok Wor Myt Engineered Tight Mallas  '
 ---
 
 Ahora mismo tienes [Reebok Wor Myt Engineered Tight Mallas  Mujer  crucob  M](https://www.amazon.es/dp/B07KGR9J7X/?tag=tolees-21) a 22.4 EUR (original: 44.99 EUR) (50.21 %  de descuento) en el siguiente enlace!

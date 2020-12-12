@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'The North Face Equipment TNF Mochila Borealis Classic  Unisex adulto  TNF Black/TNF Red  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB4QF5Z/?tag=tolees-21'
+descuento: '49.47'
+titulo: 'The North Face Equipment TNF Mochila Bor'
 ---
 
 Está [The North Face Equipment TNF Mochila Borealis Classic  Unisex adulto  TNF Black/TNF Red  Talla única](https://www.amazon.es/dp/B07BB4QF5Z/?tag=tolees-21) con 49.47 de descuento por 48 EUR (original: 95 EUR) en el siguiente enlace!

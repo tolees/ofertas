@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'New Balance Gw500v1  Zapatillas de Deporte para Mujer  Rosa  Pink/White/Silver Npk   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFZSPK5/?tag=tolees-21'
+descuento: '58.47'
+titulo: 'New Balance Gw500v1  Zapatillas de Depor'
 ---
 
 Tienes [New Balance Gw500v1  Zapatillas de Deporte para Mujer  Rosa  Pink/White/Silver Npk   36 EU](https://www.amazon.es/dp/B07DFZSPK5/?tag=tolees-21) con un 58.47 % de descuento con precio de oferta de 31.15 EUR (original: 75 EUR) en el siguiente enlace!

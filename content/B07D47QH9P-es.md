@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Copa 18.4 FxG  Zapatillas de Fútbol para Hombre  Plateado  Silver Metallic/Core Black/Football Blue 0   45 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D47QH9P/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'adidas Copa 18.4 FxG  Zapatillas de Fútb'
 ---
 
 Tienes [adidas Copa 18.4 FxG  Zapatillas de Fútbol para Hombre  Plateado  Silver Metallic/Core Black/Football Blue 0   45 1/3 EU](https://www.amazon.es/dp/B07D47QH9P/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 24.95 EUR (original: 49.95 EUR) en el siguiente enlace!

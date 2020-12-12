@@ -17,6 +17,9 @@ comparePrice: 144.41 EUR
 inStock: true
 prodname: 'Knipex 12 12 14 - Alicates Pelacables De Precisión Awg'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JBBYGZ4/?tag=tolees-21'
+descuento: '32.78'
+titulo: 'Knipex 12 12 14 - Alicates Pelacables De'
 ---
 
 Está [Knipex 12 12 14 - Alicates Pelacables De Precisión Awg](https://www.amazon.es/dp/B00JBBYGZ4/?tag=tolees-21) con 32.78 de descuento por 97.07 EUR (original: 144.41 EUR) en el siguiente enlace!

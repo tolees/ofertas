@@ -17,6 +17,9 @@ comparePrice: 19 EUR
 inStock: true
 prodname: 'Emma & Giovanni -T-Shirt Jersey/Top/Camiseta - Mujer  Negro  36/38  Talla M  '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BDJF7YC/?tag=tolees-21'
+descuento: '42.63'
+titulo: 'Emma & Giovanni -T-Shirt Jersey/Top/Cami'
 ---
 
 Ahora mismo tienes [Emma & Giovanni -T-Shirt Jersey/Top/Camiseta - Mujer  Negro  36/38  Talla M  ](https://www.amazon.es/dp/B07BDJF7YC/?tag=tolees-21) a 10.9 EUR (original: 19 EUR) (42.63 %  de descuento) en el siguiente enlace!

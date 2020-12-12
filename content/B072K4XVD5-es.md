@@ -17,6 +17,9 @@ comparePrice: 34.49 EUR
 inStock: true
 prodname: 'Kemei 2 en 1 hombres afeitadora eléctrica funda de piel Para Sierra Eléctrica Máquina de afeitar batería inalámbrico Vintage km-5300 marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072K4XVD5/?tag=tolees-21'
+descuento: '64.95'
+titulo: 'Kemei 2 en 1 hombres afeitadora eléctric'
 ---
 
 Tienes [Kemei 2 en 1 hombres afeitadora eléctrica funda de piel Para Sierra Eléctrica Máquina de afeitar batería inalámbrico Vintage km-5300 marrón](https://www.amazon.es/dp/B072K4XVD5/?tag=tolees-21) con un 64.95 % de descuento con precio de oferta de 12.09 EUR (original: 34.49 EUR) en el siguiente enlace!

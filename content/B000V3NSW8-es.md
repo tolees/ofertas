@@ -17,6 +17,9 @@ comparePrice: 32.08 EUR
 inStock: true
 prodname: 'CEB - Calzado de protecciÃ³n de cuero para hombre MarrÃ³n canela 13 UK'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000V3NSW8/?tag=tolees-21'
+descuento: '69.58'
+titulo: 'CEB - Calzado de protecciÃ³n de cuero pa'
 ---
 
 Ahora mismo tienes [CEB - Calzado de protecciÃ³n de cuero para hombre MarrÃ³n canela 13 UK](https://www.amazon.es/dp/B000V3NSW8/?tag=tolees-21) a 9.76 EUR (original: 32.08 EUR) (69.58 %  de descuento) en el siguiente enlace!

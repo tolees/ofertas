@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Rinascimento CFC0084650003  Falda para Mujer  Azul  BLU B041  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079JCKMQS/?tag=tolees-21'
+descuento: '81.72'
+titulo: 'Rinascimento CFC0084650003  Falda para M'
 ---
 
 Está [Rinascimento CFC0084650003  Falda para Mujer  Azul  BLU B041  S](https://www.amazon.es/dp/B079JCKMQS/?tag=tolees-21) con 81.72 de descuento por 16.27 EUR (original: 89 EUR) en el siguiente enlace!

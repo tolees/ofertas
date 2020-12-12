@@ -17,6 +17,9 @@ comparePrice: 86.24 EUR
 inStock: true
 prodname: 'Asics Fuzetora  Zapatillas de Running para Hombre  Azul Dark Blue/Peacoat 4949  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078MD49JX/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Asics Fuzetora  Zapatillas de Running pa'
 ---
 
 Está [Asics Fuzetora  Zapatillas de Running para Hombre  Azul Dark Blue/Peacoat 4949  44.5 EU](https://www.amazon.es/dp/B078MD49JX/?tag=tolees-21) con 60.01 de descuento por 34.49 EUR (original: 86.24 EUR) en el siguiente enlace!

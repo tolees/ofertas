@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Plumas Para Impresión 3D Pens Kit With 4 Bonus 3 Meter  PLA 1.75mm Filament Refills for Doodling Non-Clog Patented Nozzle  Safe Holiday DIY Gift for Kids  Black Gift Package '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G26NVL5/?tag=tolees-21'
+descuento: '44.01'
+titulo: 'Plumas Para Impresión 3D Pens Kit With 4'
 ---
 
 Ahora mismo tienes [Plumas Para Impresión 3D Pens Kit With 4 Bonus 3 Meter  PLA 1.75mm Filament Refills for Doodling Non-Clog Patented Nozzle  Safe Holiday DIY Gift for Kids  Black Gift Package ](https://www.amazon.es/dp/B07G26NVL5/?tag=tolees-21) a 27.99 EUR (original: 49.99 EUR) (44.01 %  de descuento) en el siguiente enlace!

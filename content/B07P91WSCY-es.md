@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Weconfort - Masajeador de Cuello y Hombros Shiatsu - Masajeador Cervical con Función de Calor para Relajación'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P91WSCY/?tag=tolees-21'
+descuento: '58.34'
+titulo: 'Weconfort - Masajeador de Cuello y Hombr'
 ---
 
 Ahora mismo tienes [Weconfort - Masajeador de Cuello y Hombros Shiatsu - Masajeador Cervical con Función de Calor para Relajación](https://www.amazon.es/dp/B07P91WSCY/?tag=tolees-21) a 24.99 EUR (original: 59.99 EUR) (58.34 %  de descuento) en el siguiente enlace!

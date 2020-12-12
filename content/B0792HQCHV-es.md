@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Quiksilver Travel Oasis  Zapatos de Playa y Piscina para Hombre  Marrón Brown-Combo Xccc  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792HQCHV/?tag=tolees-21'
+descuento: '77.19'
+titulo: 'Quiksilver Travel Oasis  Zapatos de Play'
 ---
 
 Tienes [Quiksilver Travel Oasis  Zapatos de Playa y Piscina para Hombre  Marrón Brown-Combo Xccc  39 EU](https://www.amazon.es/dp/B0792HQCHV/?tag=tolees-21) con un 77.19 % de descuento con precio de oferta de 10.49 EUR (original: 45.99 EUR) en el siguiente enlace!

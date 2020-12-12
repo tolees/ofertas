@@ -17,6 +17,9 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Surplus - Chaqueta de manga larga para hombre  talla M  color marrón  dunkelbraun '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AFXQT70/?tag=tolees-21'
+descuento: '82.83'
+titulo: 'Surplus - Chaqueta de manga larga para h'
 ---
 
 Está [Surplus - Chaqueta de manga larga para hombre  talla M  color marrón  dunkelbraun ](https://www.amazon.es/dp/B00AFXQT70/?tag=tolees-21) con 82.83 de descuento por 20.59 EUR (original: 119.9 EUR) en el siguiente enlace!

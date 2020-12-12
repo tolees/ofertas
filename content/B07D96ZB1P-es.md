@@ -17,6 +17,9 @@ comparePrice: 148.93 EUR
 inStock: true
 prodname: 'Motorola Moto E5 Plus - Smartphone de 6"  Cámara de 12 MP  Memoria RAM de 2 GB y Almacenamiento de 16 GB   Color Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D96ZB1P/?tag=tolees-21'
+descuento: '26.81'
+titulo: 'Motorola Moto E5 Plus - Smartphone de 6"'
 ---
 
 Ahora mismo tienes [Motorola Moto E5 Plus - Smartphone de 6"  Cámara de 12 MP  Memoria RAM de 2 GB y Almacenamiento de 16 GB   Color Gris](https://www.amazon.es/dp/B07D96ZB1P/?tag=tolees-21) a 109 EUR (original: 148.93 EUR) (26.81 %  de descuento) en el siguiente enlace!

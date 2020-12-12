@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'La Sombra De La Ley Blu-Ray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HZN2NRJ/?tag=tolees-21'
+descuento: '27.37'
+titulo: 'La Sombra De La Ley Blu-Ray [Blu-ray]'
 ---
 
 Tienes [La Sombra De La Ley Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07HZN2NRJ/?tag=tolees-21) con un 27.37 % de descuento con precio de oferta de 12.34 EUR (original: 16.99 EUR) en el siguiente enlace!

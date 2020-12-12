@@ -17,6 +17,9 @@ comparePrice: 74.33 EUR
 inStock: true
 prodname: 'Lucide 13524/01/31 lámpara de mesa  cerámica  25 W  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKGKS51/?tag=tolees-21'
+descuento: '62.81'
+titulo: 'Lucide 13524/01/31 lámpara de mesa  cerá'
 ---
 
 Está [Lucide 13524/01/31 lámpara de mesa  cerámica  25 W  color blanco](https://www.amazon.es/dp/B07FKGKS51/?tag=tolees-21) con 62.81 de descuento por 27.64 EUR (original: 74.33 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'Kranich Espejo de Maquillaje con luz led USB Espejo cosmético de Mesa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NSRBCWK/?tag=tolees-21'
+descuento: '48.66'
+titulo: 'Kranich Espejo de Maquillaje con luz led'
 ---
 
 Está [Kranich Espejo de Maquillaje con luz led USB Espejo cosmético de Mesa](https://www.amazon.es/dp/B07NSRBCWK/?tag=tolees-21) con 48.66 de descuento por 18.99 EUR (original: 36.99 EUR) en el siguiente enlace!

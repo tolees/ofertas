@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Volcom FORZEE Crew Sudadera  Hombre  Navy  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KMTP9GX/?tag=tolees-21'
+descuento: '60.80'
+titulo: 'Volcom FORZEE Crew Sudadera  Hombre  Nav'
 ---
 
 Está [Volcom FORZEE Crew Sudadera  Hombre  Navy  XL](https://www.amazon.es/dp/B07KMTP9GX/?tag=tolees-21) con 60.80 de descuento por 23.52 EUR (original: 60 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 33 EUR
 inStock: true
 prodname: 'Under Armour Women  s Tech 2.0 Twist Corto  Mujer  Color Formation Blue  tamaño X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071P39SKC/?tag=tolees-21'
+descuento: '54.88'
+titulo: 'Under Armour Women  s Tech 2.0 Twist Cor'
 ---
 
 Ahora mismo tienes [Under Armour Women  s Tech 2.0 Twist Corto  Mujer  Color Formation Blue  tamaño X-Large](https://www.amazon.es/dp/B071P39SKC/?tag=tolees-21) a 14.89 EUR (original: 33 EUR) (54.88 %  de descuento) en el siguiente enlace!

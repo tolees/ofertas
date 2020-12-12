@@ -17,6 +17,9 @@ comparePrice: 38.99 EUR
 inStock: true
 prodname: 'Bluedio T5 Auriculares Bluetooth inalámbricos de Cancelación de Ruido Activa  Auriculares estéreo portátiles  con micrófono para teléfonos y música  Amarillo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BXGNP2L/?tag=tolees-21'
+descuento: '51.30'
+titulo: 'Bluedio T5 Auriculares Bluetooth inalámb'
 ---
 
 Tienes [Bluedio T5 Auriculares Bluetooth inalámbricos de Cancelación de Ruido Activa  Auriculares estéreo portátiles  con micrófono para teléfonos y música  Amarillo ](https://www.amazon.es/dp/B07BXGNP2L/?tag=tolees-21) con un 51.30 % de descuento con precio de oferta de 18.99 EUR (original: 38.99 EUR) en el siguiente enlace!

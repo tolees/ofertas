@@ -17,6 +17,9 @@ comparePrice: 117.8 EUR
 inStock: true
 prodname: 'Reebok F/S Hi  Zapatillas Altas para Mujer  Rosa  Exotics-Practical Pink/Chalk 0   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCVG258/?tag=tolees-21'
+descuento: '53.37'
+titulo: 'Reebok F/S Hi  Zapatillas Altas para Muj'
 ---
 
 Está [Reebok F/S Hi  Zapatillas Altas para Mujer  Rosa  Exotics-Practical Pink/Chalk 0   39 EU](https://www.amazon.es/dp/B07DCVG258/?tag=tolees-21) con 53.37 de descuento por 54.93 EUR (original: 117.8 EUR) en el siguiente enlace!

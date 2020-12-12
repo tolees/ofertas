@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Garmin 010-12484-05 Sensor de Velocidad y cadencia  Unisex  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JM6DKUA/?tag=tolees-21'
+descuento: '37.28'
+titulo: 'Garmin 010-12484-05 Sensor de Velocidad '
 ---
 
 Tienes [Garmin 010-12484-05 Sensor de Velocidad y cadencia  Unisex  Negro](https://www.amazon.es/dp/B00JM6DKUA/?tag=tolees-21) con un 37.28 % de descuento con precio de oferta de 43.9 EUR (original: 69.99 EUR) en el siguiente enlace!

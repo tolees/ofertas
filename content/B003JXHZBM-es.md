@@ -17,6 +17,9 @@ comparePrice: 1842 EUR
 inStock: true
 prodname: 'FLEX Colchón Inteligente y personalizado iBed FLEX  90 x 190 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003JXHZBM/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'FLEX Colchón Inteligente y personalizado'
 ---
 
 Tienes [FLEX Colchón Inteligente y personalizado iBed FLEX  90 x 190 cm](https://www.amazon.es/dp/B003JXHZBM/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 1381.5 EUR (original: 1842 EUR) en el siguiente enlace!

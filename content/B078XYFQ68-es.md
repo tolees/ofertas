@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'The Raven Remastered'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078XYFQ68/?tag=tolees-21'
+descuento: '54.98'
+titulo: 'The Raven Remastered'
 ---
 
 Ahora mismo tienes [The Raven Remastered](https://www.amazon.es/dp/B078XYFQ68/?tag=tolees-21) a 13.5 EUR (original: 29.99 EUR) (54.98 %  de descuento) en el siguiente enlace!

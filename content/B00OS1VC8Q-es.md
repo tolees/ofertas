@@ -17,6 +17,9 @@ comparePrice: 28.9 EUR
 inStock: true
 prodname: 'Speedo Aquapulse MAX 2 Gafas de Natación  Unisex Adulto  Negro/Claro  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OS1VC8Q/?tag=tolees-21'
+descuento: '29.41'
+titulo: 'Speedo Aquapulse MAX 2 Gafas de Natación'
 ---
 
 Tienes [Speedo Aquapulse MAX 2 Gafas de Natación  Unisex Adulto  Negro/Claro  Talla Única](https://www.amazon.es/dp/B00OS1VC8Q/?tag=tolees-21) con un 29.41 % de descuento con precio de oferta de 20.4 EUR (original: 28.9 EUR) en el siguiente enlace!

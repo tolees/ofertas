@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Naf Naf Pantalón Gris Oscuro ES 38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NV8SPYG/?tag=tolees-21'
+descuento: '76.43'
+titulo: 'Naf Naf Pantalón Gris Oscuro ES 38'
 ---
 
 Ahora mismo tienes [Naf Naf Pantalón Gris Oscuro ES 38](https://www.amazon.es/dp/B00NV8SPYG/?tag=tolees-21) a 17.68 EUR (original: 75 EUR) (76.43 %  de descuento) en el siguiente enlace!

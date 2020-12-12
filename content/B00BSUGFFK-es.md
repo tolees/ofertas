@@ -17,6 +17,9 @@ comparePrice: 32.13 EUR
 inStock: true
 prodname: 'Edding 550 - Rotuladores  10 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BSUGFFK/?tag=tolees-21'
+descuento: '26.42'
+titulo: 'Edding 550 - Rotuladores  10 unidades'
 ---
 
 Tienes [Edding 550 - Rotuladores  10 unidades](https://www.amazon.es/dp/B00BSUGFFK/?tag=tolees-21) con un 26.42 % de descuento con precio de oferta de 23.64 EUR (original: 32.13 EUR) en el siguiente enlace!

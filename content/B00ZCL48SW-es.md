@@ -17,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'Tristar FR-6941 Freidora 1 5L con termostato  1000 W  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZCL48SW/?tag=tolees-21'
+descuento: '27.03'
+titulo: 'Tristar FR-6941 Freidora 1 5L con termos'
 ---
 
 Tienes [Tristar FR-6941 Freidora 1 5L con termostato  1000 W  Blanco](https://www.amazon.es/dp/B00ZCL48SW/?tag=tolees-21) con un 27.03 % de descuento con precio de oferta de 26.99 EUR (original: 36.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.5 EUR
 inStock: true
 prodname: 'Calvin Klein Sleek - Bikini para mujer  Negro  BLACK 001   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00G0OUHYE/?tag=tolees-21'
+descuento: '38.28'
+titulo: 'Calvin Klein Sleek - Bikini para mujer  '
 ---
 
 Tienes [Calvin Klein Sleek - Bikini para mujer  Negro  BLACK 001   Medium](https://www.amazon.es/dp/B00G0OUHYE/?tag=tolees-21) con un 38.28 % de descuento con precio de oferta de 8.95 EUR (original: 14.5 EUR) en el siguiente enlace!

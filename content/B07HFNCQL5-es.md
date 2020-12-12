@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Logo Rib Hoody  Capucha Hombre  Gris  Cloud Htr 501   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFNCQL5/?tag=tolees-21'
+descuento: '68.01'
+titulo: 'Tommy Hilfiger Logo Rib Hoody  Capucha H'
 ---
 
 Tienes [Tommy Hilfiger Logo Rib Hoody  Capucha Hombre  Gris  Cloud Htr 501   Large](https://www.amazon.es/dp/B07HFNCQL5/?tag=tolees-21) con un 68.01 % de descuento con precio de oferta de 44.47 EUR (original: 139 EUR) en el siguiente enlace!

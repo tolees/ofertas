@@ -17,6 +17,9 @@ comparePrice: 30.98 EUR
 inStock: true
 prodname: 'New Look Dog Tooth 5992401  Pantalones para Hombre  Gris  Dark Grey 3  NA /L32  Talla del Fabricante: 28R '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYDL299/?tag=tolees-21'
+descuento: '61.27'
+titulo: 'New Look Dog Tooth 5992401  Pantalones p'
 ---
 
 Tienes [New Look Dog Tooth 5992401  Pantalones para Hombre  Gris  Dark Grey 3  NA /L32  Talla del Fabricante: 28R ](https://www.amazon.es/dp/B07KYDL299/?tag=tolees-21) con un 61.27 % de descuento con precio de oferta de 12 EUR (original: 30.98 EUR) en el siguiente enlace!

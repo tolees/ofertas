@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Eastpak Station + Bolsa de Viaje  62 cm  58 Liters  Negro  Brize Dark '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DP12RVJ/?tag=tolees-21'
+descuento: '44.01'
+titulo: 'Eastpak Station + Bolsa de Viaje  62 cm '
 ---
 
 Está [Eastpak Station + Bolsa de Viaje  62 cm  58 Liters  Negro  Brize Dark ](https://www.amazon.es/dp/B07DP12RVJ/?tag=tolees-21) con 44.01 de descuento por 39.19 EUR (original: 70 EUR) en el siguiente enlace!

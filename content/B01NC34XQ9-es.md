@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Polar H10 - Sensor de Frecuencia cardíaca Bluetooth con banda pectoral - Negro  M-XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NC34XQ9/?tag=tolees-21'
+descuento: '42.63'
+titulo: 'Polar H10 - Sensor de Frecuencia cardíac'
 ---
 
 Ahora mismo tienes [Polar H10 - Sensor de Frecuencia cardíaca Bluetooth con banda pectoral - Negro  M-XXL](https://www.amazon.es/dp/B01NC34XQ9/?tag=tolees-21) a 51.58 EUR (original: 89.9 EUR) (42.63 %  de descuento) en el siguiente enlace!

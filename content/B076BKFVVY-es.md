@@ -17,6 +17,9 @@ comparePrice: 38.66 EUR
 inStock: true
 prodname: 'Aukey LED linterna  250-lumen al aire libre linterna con 3 modos de luz  portátil y resistente al agua haz de luz con ajustable Focus'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076BKFVVY/?tag=tolees-21'
+descuento: '63.81'
+titulo: 'Aukey LED linterna  250-lumen al aire li'
 ---
 
 Está [Aukey LED linterna  250-lumen al aire libre linterna con 3 modos de luz  portátil y resistente al agua haz de luz con ajustable Focus](https://www.amazon.es/dp/B076BKFVVY/?tag=tolees-21) con 63.81 de descuento por 13.99 EUR (original: 38.66 EUR) en el siguiente enlace!

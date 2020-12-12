@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Under Armour Solid Fashion Depósito  Mujer  Charcoal Heather/Tonal  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XRQ45N/?tag=tolees-21'
+descuento: '45.90'
+titulo: 'Under Armour Solid Fashion Depósito  Muj'
 ---
 
 Ahora mismo tienes [Under Armour Solid Fashion Depósito  Mujer  Charcoal Heather/Tonal  Medium](https://www.amazon.es/dp/B077XRQ45N/?tag=tolees-21) a 10.82 EUR (original: 20 EUR) (45.90 %  de descuento) en el siguiente enlace!

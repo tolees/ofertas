@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'PUTUO Albornoz para Mujer Bata de Baño  Largo Albornoz Microfibra Mujer Ducha Toalla'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GNBRDGC/?tag=tolees-21'
+descuento: '52.86'
+titulo: 'PUTUO Albornoz para Mujer Bata de Baño  '
 ---
 
 Está [PUTUO Albornoz para Mujer Bata de Baño  Largo Albornoz Microfibra Mujer Ducha Toalla](https://www.amazon.es/dp/B07GNBRDGC/?tag=tolees-21) con 52.86 de descuento por 32.99 EUR (original: 69.99 EUR) en el siguiente enlace!

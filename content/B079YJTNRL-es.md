@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'FIND AMZ090101 vaqueros mujer  Azul  Blue   W26/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079YJTNRL/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND AMZ090101 vaqueros mujer  Azul  Blu'
 ---
 
 Está [FIND AMZ090101 vaqueros mujer  Azul  Blue   W26/L32](https://www.amazon.es/dp/B079YJTNRL/?tag=tolees-21) con 70.00 de descuento por 12 EUR (original: 40 EUR) en el siguiente enlace!

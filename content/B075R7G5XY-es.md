@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance 005  Zapatillas de Running para Hombre  Negro  Black/White Ya   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R7G5XY/?tag=tolees-21'
+descuento: '66.80'
+titulo: 'New Balance 005  Zapatillas de Running p'
 ---
 
 Tienes [New Balance 005  Zapatillas de Running para Hombre  Negro  Black/White Ya   38 EU](https://www.amazon.es/dp/B075R7G5XY/?tag=tolees-21) con un 66.80 % de descuento con precio de oferta de 23.24 EUR (original: 70 EUR) en el siguiente enlace!

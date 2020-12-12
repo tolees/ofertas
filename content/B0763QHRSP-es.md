@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Scarlett Vaqueros Skinny  Azul  Dark Used Qb   W26/L31  Talla del Fabricante: Taglia Produttore 31/26  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0763QHRSP/?tag=tolees-21'
+descuento: '60.03'
+titulo: 'Lee Scarlett Vaqueros Skinny  Azul  Dark'
 ---
 
 Está [Lee Scarlett Vaqueros Skinny  Azul  Dark Used Qb   W26/L31  Talla del Fabricante: Taglia Produttore 31/26  para Mujer](https://www.amazon.es/dp/B0763QHRSP/?tag=tolees-21) con 60.03 de descuento por 35.95 EUR (original: 89.95 EUR) en el siguiente enlace!

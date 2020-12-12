@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'CREMA TATUAJE PREMIUM  Crema Tattoo especialmente diseñada para Mejorar la coloración e Hidratación de los Tatuajes  Pomada Tattoo Shield 50 ML.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CX63V1B/?tag=tolees-21'
+descuento: '72.77'
+titulo: 'CREMA TATUAJE PREMIUM  Crema Tattoo espe'
 ---
 
 Ahora mismo tienes [CREMA TATUAJE PREMIUM  Crema Tattoo especialmente diseñada para Mejorar la coloración e Hidratación de los Tatuajes  Pomada Tattoo Shield 50 ML.](https://www.amazon.es/dp/B07CX63V1B/?tag=tolees-21) a 10.88 EUR (original: 39.95 EUR) (72.77 %  de descuento) en el siguiente enlace!

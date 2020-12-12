@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Electraline 48506 Enchufes Inalámbricos Inteligentes con Mando a Distancia  Radio Kit'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TV91FS/?tag=tolees-21'
+descuento: '26.32'
+titulo: 'Electraline 48506 Enchufes Inalámbricos '
 ---
 
 Tienes [Electraline 48506 Enchufes Inalámbricos Inteligentes con Mando a Distancia  Radio Kit](https://www.amazon.es/dp/B077TV91FS/?tag=tolees-21) con un 26.32 % de descuento con precio de oferta de 16.94 EUR (original: 22.99 EUR) en el siguiente enlace!

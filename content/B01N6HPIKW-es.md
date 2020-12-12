@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 037eo1e009  Vestido Mujer  Verde  Dusty Green   40  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6HPIKW/?tag=tolees-21'
+descuento: '78.60'
+titulo: 'ESPRIT Collection 037eo1e009  Vestido Mu'
 ---
 
 Está [ESPRIT Collection 037eo1e009  Vestido Mujer  Verde  Dusty Green   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01N6HPIKW/?tag=tolees-21) con 78.60 de descuento por 17.12 EUR (original: 79.99 EUR) en el siguiente enlace!

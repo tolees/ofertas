@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Clarks Addiy Zora  Botas Militar  Mujer  Marrón  Tan Leather   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06W5JNZY8/?tag=tolees-21'
+descuento: '77.89'
+titulo: 'Clarks Addiy Zora  Botas Militar  Mujer '
 ---
 
 Está [Clarks Addiy Zora  Botas Militar  Mujer  Marrón  Tan Leather   38 EU](https://www.amazon.es/dp/B06W5JNZY8/?tag=tolees-21) con 77.89 de descuento por 33.16 EUR (original: 150 EUR) en el siguiente enlace!

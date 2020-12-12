@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'adidas Ask SPR tee LS Camiseta   Azul Claro   L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078Q7GHP4/?tag=tolees-21'
+descuento: '70.53'
+titulo: 'adidas Ask SPR tee LS Camiseta   Azul Cl'
 ---
 
 Ahora mismo tienes [adidas Ask SPR tee LS Camiseta   Azul Claro   L para Hombre](https://www.amazon.es/dp/B078Q7GHP4/?tag=tolees-21) a 10.3 EUR (original: 34.95 EUR) (70.53 %  de descuento) en el siguiente enlace!

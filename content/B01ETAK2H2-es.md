@@ -17,6 +17,9 @@ comparePrice: 45.39 EUR
 inStock: true
 prodname: 'Wurko 11060003 - Manguera  Color Amarillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ETAK2H2/?tag=tolees-21'
+descuento: '27.80'
+titulo: 'Wurko 11060003 - Manguera  Color Amarill'
 ---
 
 Ahora mismo tienes [Wurko 11060003 - Manguera  Color Amarillo](https://www.amazon.es/dp/B01ETAK2H2/?tag=tolees-21) a 32.77 EUR (original: 45.39 EUR) (27.80 %  de descuento) en el siguiente enlace!

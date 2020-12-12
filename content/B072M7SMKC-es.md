@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Reebok Astroride Run Fire  Zapatillas de Running para Hombre  Gris  Flint Gry/Alloy/Wht/STL/Pwtr/Blk/Basebal   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072M7SMKC/?tag=tolees-21'
+descuento: '56.18'
+titulo: 'Reebok Astroride Run Fire  Zapatillas de'
 ---
 
 Está [Reebok Astroride Run Fire  Zapatillas de Running para Hombre  Gris  Flint Gry/Alloy/Wht/STL/Pwtr/Blk/Basebal   42.5 EU](https://www.amazon.es/dp/B072M7SMKC/?tag=tolees-21) con 56.18 de descuento por 26.27 EUR (original: 59.95 EUR) en el siguiente enlace!

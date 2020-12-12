@@ -17,6 +17,9 @@ comparePrice: 53.99 EUR
 inStock: true
 prodname: 'JBL Club 5020 Altavoces Coaxiales 6"x9"  152mm x 230mm   Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EIQZ99S/?tag=tolees-21'
+descuento: '31.49'
+titulo: 'JBL Club 5020 Altavoces Coaxiales 6"x9" '
 ---
 
 Está [JBL Club 5020 Altavoces Coaxiales 6"x9"  152mm x 230mm   Color Negro](https://www.amazon.es/dp/B01EIQZ99S/?tag=tolees-21) con 31.49 de descuento por 36.99 EUR (original: 53.99 EUR) en el siguiente enlace!

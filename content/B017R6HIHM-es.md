@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Superga Cotu Classic  Zapatillas para hombre   Green  905 Tot Military Green   36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017R6HIHM/?tag=tolees-21'
+descuento: '58.66'
+titulo: 'Superga Cotu Classic  Zapatillas para ho'
 ---
 
 Ahora mismo tienes [Superga Cotu Classic  Zapatillas para hombre   Green  905 Tot Military Green   36](https://www.amazon.es/dp/B017R6HIHM/?tag=tolees-21) a 24.39 EUR (original: 59 EUR) (58.66 %  de descuento) en el siguiente enlace!

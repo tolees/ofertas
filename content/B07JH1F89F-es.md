@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Puma Future Flare Ball Balón de Fútbol  Unisex Adulto  Red Blast/Bleu Azur Black  3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JH1F89F/?tag=tolees-21'
+descuento: '39.72'
+titulo: 'Puma Future Flare Ball Balón de Fútbol  '
 ---
 
 Está [Puma Future Flare Ball Balón de Fútbol  Unisex Adulto  Red Blast/Bleu Azur Black  3](https://www.amazon.es/dp/B07JH1F89F/?tag=tolees-21) con 39.72 de descuento por 10.82 EUR (original: 17.95 EUR) en el siguiente enlace!

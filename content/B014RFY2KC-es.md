@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Harry Potter Jumbo - Edición Metálica [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014RFY2KC/?tag=tolees-21'
+descuento: '25.44'
+titulo: 'Harry Potter Jumbo - Edición Metálica [B'
 ---
 
 Está [Harry Potter Jumbo - Edición Metálica [Blu-ray]](https://www.amazon.es/dp/B014RFY2KC/?tag=tolees-21) con 25.44 de descuento por 33.55 EUR (original: 45 EUR) en el siguiente enlace!

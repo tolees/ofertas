@@ -17,6 +17,9 @@ comparePrice: 21.9 EUR
 inStock: true
 prodname: 'Tribe Disney Star Wars R2D2  Memoria USB 2.0 de 16 GB  Goma con Llavero  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KG15CE2/?tag=tolees-21'
+descuento: '29.68'
+titulo: 'Tribe Disney Star Wars R2D2  Memoria USB'
 ---
 
 Ahora mismo tienes [Tribe Disney Star Wars R2D2  Memoria USB 2.0 de 16 GB  Goma con Llavero  Blanco](https://www.amazon.es/dp/B00KG15CE2/?tag=tolees-21) a 15.4 EUR (original: 21.9 EUR) (29.68 %  de descuento) en el siguiente enlace!

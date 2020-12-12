@@ -17,6 +17,9 @@ comparePrice: 26.95 EUR
 inStock: true
 prodname: 'Skechers Gambix  Sandalias de Punta Descubierta para Hombre  Negro  Black White BKW   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JWTSVP9/?tag=tolees-21'
+descuento: '40.07'
+titulo: 'Skechers Gambix  Sandalias de Punta Desc'
 ---
 
 Está [Skechers Gambix  Sandalias de Punta Descubierta para Hombre  Negro  Black White BKW   44 EU](https://www.amazon.es/dp/B07JWTSVP9/?tag=tolees-21) con 40.07 de descuento por 16.15 EUR (original: 26.95 EUR) en el siguiente enlace!

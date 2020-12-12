@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Gant Henley  Top de Pijama para Hombre  Azul  Navy  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2RGYF5/?tag=tolees-21'
+descuento: '44.51'
+titulo: 'Gant Henley  Top de Pijama para Hombre  '
 ---
 
 Ahora mismo tienes [Gant Henley  Top de Pijama para Hombre  Azul  Navy  Small](https://www.amazon.es/dp/B07D2RGYF5/?tag=tolees-21) a 27.19 EUR (original: 49 EUR) (44.51 %  de descuento) en el siguiente enlace!

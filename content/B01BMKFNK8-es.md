@@ -17,6 +17,9 @@ comparePrice: 17.43 EUR
 inStock: true
 prodname: 'Girly HandBags - Cartera de mano de Material Sintético para mujer naranja coral'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BMKFNK8/?tag=tolees-21'
+descuento: '46.18'
+titulo: 'Girly HandBags - Cartera de mano de Mate'
 ---
 
 Tienes [Girly HandBags - Cartera de mano de Material Sintético para mujer naranja coral](https://www.amazon.es/dp/B01BMKFNK8/?tag=tolees-21) con un 46.18 % de descuento con precio de oferta de 9.38 EUR (original: 17.43 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'MTNG 69194  Zapatillas para Mujer  Negro/Yoda Blanco Roto C44852  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MN9F5L3/?tag=tolees-21'
+descuento: '29.34'
+titulo: 'MTNG 69194  Zapatillas para Mujer  Negro'
 ---
 
 Tienes [MTNG 69194  Zapatillas para Mujer  Negro/Yoda Blanco Roto C44852  40 EU](https://www.amazon.es/dp/B07MN9F5L3/?tag=tolees-21) con un 29.34 % de descuento con precio de oferta de 21.19 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 27.49 EUR
 inStock: true
 prodname: 'Biotherm Homme Day Control Antiperspirant Roll-On  75ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000IB0FGK/?tag=tolees-21'
+descuento: '47.25'
+titulo: 'Biotherm Homme Day Control Antiperspiran'
 ---
 
 Tienes [Biotherm Homme Day Control Antiperspirant Roll-On  75ml](https://www.amazon.es/dp/B000IB0FGK/?tag=tolees-21) con un 47.25 % de descuento con precio de oferta de 14.5 EUR (original: 27.49 EUR) en el siguiente enlace!

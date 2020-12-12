@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Veniz  Zapatillas de Running para Hombre   Silver Mink/Burgundy Cm1   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R85KJF/?tag=tolees-21'
+descuento: '45.55'
+titulo: 'New Balance Fresh Foam Veniz  Zapatillas'
 ---
 
 Está [New Balance Fresh Foam Veniz  Zapatillas de Running para Hombre   Silver Mink/Burgundy Cm1   41.5 EU](https://www.amazon.es/dp/B075R85KJF/?tag=tolees-21) con 45.55 de descuento por 54.45 EUR (original: 100 EUR) en el siguiente enlace!

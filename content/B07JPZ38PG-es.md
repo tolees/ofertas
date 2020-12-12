@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcojonas tee SS Crew Neck Zal Camiseta  Blanco  White Fit: Slim   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JPZ38PG/?tag=tolees-21'
+descuento: '49.96'
+titulo: 'JACK & JONES Jcojonas tee SS Crew Neck Z'
 ---
 
 Tienes [JACK & JONES Jcojonas tee SS Crew Neck Zal Camiseta  Blanco  White Fit: Slim   X-Large para Hombre](https://www.amazon.es/dp/B07JPZ38PG/?tag=tolees-21) con un 49.96 % de descuento con precio de oferta de 6.5 EUR (original: 12.99 EUR) en el siguiente enlace!

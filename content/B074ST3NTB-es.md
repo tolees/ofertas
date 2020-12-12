@@ -17,6 +17,9 @@ comparePrice: 72 EUR
 inStock: true
 prodname: 'Havaianas Unisex adulto TRANCOSO/M VQ 22K 49 Gafas de sol  Rojo  Cry Burgundy/Grey Grey '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074ST3NTB/?tag=tolees-21'
+descuento: '60.76'
+titulo: 'Havaianas Unisex adulto TRANCOSO/M VQ 22'
 ---
 
 Ahora mismo tienes [Havaianas Unisex adulto TRANCOSO/M VQ 22K 49 Gafas de sol  Rojo  Cry Burgundy/Grey Grey ](https://www.amazon.es/dp/B074ST3NTB/?tag=tolees-21) a 28.25 EUR (original: 72 EUR) (60.76 %  de descuento) en el siguiente enlace!

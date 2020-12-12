@@ -17,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'BROOKS BROTHERS Stretch Chino Milano Lunghi Pantalones  Gris  Grey 20   46  Talla del Fabricante: 33 34  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KMGMGZM/?tag=tolees-21'
+descuento: '47.60'
+titulo: 'BROOKS BROTHERS Stretch Chino Milano Lun'
 ---
 
 Está [BROOKS BROTHERS Stretch Chino Milano Lunghi Pantalones  Gris  Grey 20   46  Talla del Fabricante: 33 34  para Hombre](https://www.amazon.es/dp/B07KMGMGZM/?tag=tolees-21) con 47.60 de descuento por 70.74 EUR (original: 135 EUR) en el siguiente enlace!

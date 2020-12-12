@@ -17,6 +17,9 @@ comparePrice: 40.5 EUR
 inStock: true
 prodname: 'David Jones - Cm5038  Bolsos de mano Mujer  Azul  L.Blue   13x23x29 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCHD1QB/?tag=tolees-21'
+descuento: '68.77'
+titulo: 'David Jones - Cm5038  Bolsos de mano Muj'
 ---
 
 Ahora mismo tienes [David Jones - Cm5038  Bolsos de mano Mujer  Azul  L.Blue   13x23x29 cm  W x H L ](https://www.amazon.es/dp/B07KCHD1QB/?tag=tolees-21) a 12.65 EUR (original: 40.5 EUR) (68.77 %  de descuento) en el siguiente enlace!

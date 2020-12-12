@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Merrell Bare Access Flex 2  Zapatillas Deportivas para Interior para Hombre  Verde Dusty Olive  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYCXZBP/?tag=tolees-21'
+descuento: '48.02'
+titulo: 'Merrell Bare Access Flex 2  Zapatillas D'
 ---
 
 Está [Merrell Bare Access Flex 2  Zapatillas Deportivas para Interior para Hombre  Verde Dusty Olive  40 EU](https://www.amazon.es/dp/B07DYCXZBP/?tag=tolees-21) con 48.02 de descuento por 51.98 EUR (original: 100 EUR) en el siguiente enlace!

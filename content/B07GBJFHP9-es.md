@@ -17,6 +17,9 @@ comparePrice: 10.36 EUR
 inStock: true
 prodname: 'Spaas Vela Cilindro 60/150 Verde Aqua'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GBJFHP9/?tag=tolees-21'
+descuento: '76.25'
+titulo: 'Spaas Vela Cilindro 60/150 Verde Aqua'
 ---
 
 Está [Spaas Vela Cilindro 60/150 Verde Aqua](https://www.amazon.es/dp/B07GBJFHP9/?tag=tolees-21) con 76.25 de descuento por 2.46 EUR (original: 10.36 EUR) en el siguiente enlace!

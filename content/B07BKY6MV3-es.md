@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Cargador de Coche  SDBAUX 3.1A/15W con Cable Retráctil de 70 cm Dispositivos iOS Compatibles Teléfono XS Max XR X 8 7 6 5s Tipo C para Samsung Galaxy S9 S8 Plus Nota 8 LG Google Pixel y 1 puerto USB'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BKY6MV3/?tag=tolees-21'
+descuento: '48.40'
+titulo: 'Cargador de Coche  SDBAUX 3.1A/15W con C'
 ---
 
 Está [Cargador de Coche  SDBAUX 3.1A/15W con Cable Retráctil de 70 cm Dispositivos iOS Compatibles Teléfono XS Max XR X 8 7 6 5s Tipo C para Samsung Galaxy S9 S8 Plus Nota 8 LG Google Pixel y 1 puerto USB](https://www.amazon.es/dp/B07BKY6MV3/?tag=tolees-21) con 48.40 de descuento por 15.99 EUR (original: 30.99 EUR) en el siguiente enlace!

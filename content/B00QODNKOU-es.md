@@ -17,6 +17,9 @@ comparePrice: 799 EUR
 inStock: true
 prodname: 'XYZprinting 3F20AXEU00D da Vinci 2.0A 3D impresora'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00QODNKOU/?tag=tolees-21'
+descuento: '36.83'
+titulo: 'XYZprinting 3F20AXEU00D da Vinci 2.0A 3D'
 ---
 
 Tienes [XYZprinting 3F20AXEU00D da Vinci 2.0A 3D impresora](https://www.amazon.es/dp/B00QODNKOU/?tag=tolees-21) con un 36.83 % de descuento con precio de oferta de 504.75 EUR (original: 799 EUR) en el siguiente enlace!

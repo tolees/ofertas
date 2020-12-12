@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Rowenta Air Force Ultimate TN9310 - Cortapelos con sistema de aspiración de alto rendimiento con recubrimiento de titanio y cuchillas autoafilables  incluye set de manicura y neceser'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0743FVT7Y/?tag=tolees-21'
+descuento: '25.27'
+titulo: 'Rowenta Air Force Ultimate TN9310 - Cort'
 ---
 
 Tienes [Rowenta Air Force Ultimate TN9310 - Cortapelos con sistema de aspiración de alto rendimiento con recubrimiento de titanio y cuchillas autoafilables  incluye set de manicura y neceser](https://www.amazon.es/dp/B0743FVT7Y/?tag=tolees-21) con un 25.27 % de descuento con precio de oferta de 59.78 EUR (original: 79.99 EUR) en el siguiente enlace!

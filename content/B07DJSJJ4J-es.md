@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 41ce314  Zapatillas Altas para Mujer  Marrón  Dunkelbraun 380   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJSJJ4J/?tag=tolees-21'
+descuento: '75.41'
+titulo: 'Dockers by Gerli 41ce314  Zapatillas Alt'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 41ce314  Zapatillas Altas para Mujer  Marrón  Dunkelbraun 380   36 EU](https://www.amazon.es/dp/B07DJSJJ4J/?tag=tolees-21) a 14.74 EUR (original: 59.95 EUR) (75.41 %  de descuento) en el siguiente enlace!

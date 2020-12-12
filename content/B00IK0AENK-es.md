@@ -17,6 +17,9 @@ comparePrice: 24.45 EUR
 inStock: true
 prodname: 'Revlon Orofluido Super Shine Light Spray Tratamiento Capilar - 55 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IK0AENK/?tag=tolees-21'
+descuento: '31.70'
+titulo: 'Revlon Orofluido Super Shine Light Spray'
 ---
 
 Tienes [Revlon Orofluido Super Shine Light Spray Tratamiento Capilar - 55 ml](https://www.amazon.es/dp/B00IK0AENK/?tag=tolees-21) con un 31.70 % de descuento con precio de oferta de 16.7 EUR (original: 24.45 EUR) en el siguiente enlace!

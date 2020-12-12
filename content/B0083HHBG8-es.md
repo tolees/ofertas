@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'LELO SMART Wand Mediano Vibrador de Cuerpo Entero Black: Potente Masajeador Inalámbrico en Silicona  Sumergible y Recargable. 1 año de Garantía.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0083HHBG8/?tag=tolees-21'
+descuento: '58.86'
+titulo: 'LELO SMART Wand Mediano Vibrador de Cuer'
 ---
 
 Está [LELO SMART Wand Mediano Vibrador de Cuerpo Entero Black: Potente Masajeador Inalámbrico en Silicona  Sumergible y Recargable. 1 año de Garantía.](https://www.amazon.es/dp/B0083HHBG8/?tag=tolees-21) con 58.86 de descuento por 57.19 EUR (original: 139 EUR) en el siguiente enlace!

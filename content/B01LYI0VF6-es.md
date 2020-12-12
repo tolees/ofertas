@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Taxi Barcelona escala 1:24  Dickie 1153000 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYI0VF6/?tag=tolees-21'
+descuento: '67.83'
+titulo: 'Taxi Barcelona escala 1:24  Dickie 11530'
 ---
 
 Está [Taxi Barcelona escala 1:24  Dickie 1153000 ](https://www.amazon.es/dp/B01LYI0VF6/?tag=tolees-21) con 67.83 de descuento por 4.81 EUR (original: 14.95 EUR) en el siguiente enlace!

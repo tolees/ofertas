@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Monederos  Mujer Carteras de Piel Genuina  Cera de Lujo y Gran Capacidad  Bloqueo RFID  12 Ranuras para Tarjetas y Bolsillo para Monedas  Regalo Perfecto para Mujer y Amigos  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078S2CN1Z/?tag=tolees-21'
+descuento: '36.12'
+titulo: 'Monederos  Mujer Carteras de Piel Genuin'
 ---
 
 Tienes [Monederos  Mujer Carteras de Piel Genuina  Cera de Lujo y Gran Capacidad  Bloqueo RFID  12 Ranuras para Tarjetas y Bolsillo para Monedas  Regalo Perfecto para Mujer y Amigos  Negro ](https://www.amazon.es/dp/B078S2CN1Z/?tag=tolees-21) con un 36.12 % de descuento con precio de oferta de 22.99 EUR (original: 35.99 EUR) en el siguiente enlace!

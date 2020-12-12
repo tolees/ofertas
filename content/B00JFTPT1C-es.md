@@ -17,6 +17,9 @@ comparePrice: 443.29 EUR
 inStock: true
 prodname: 'Pioneer AVIC-F160 Fijo Negro navegador - Navegador GPS  Tarjeta de memoria  Flash  SD  Fijo  Negro  CC '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JFTPT1C/?tag=tolees-21'
+descuento: '34.74'
+titulo: 'Pioneer AVIC-F160 Fijo Negro navegador -'
 ---
 
 Está [Pioneer AVIC-F160 Fijo Negro navegador - Navegador GPS  Tarjeta de memoria  Flash  SD  Fijo  Negro  CC ](https://www.amazon.es/dp/B00JFTPT1C/?tag=tolees-21) con 34.74 de descuento por 289.29 EUR (original: 443.29 EUR) en el siguiente enlace!

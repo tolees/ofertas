@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Diadora Game Metallic  Zapatillas para Hombre  Negro  Nero/Argento   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073D8HMKF/?tag=tolees-21'
+descuento: '81.24'
+titulo: 'Diadora Game Metallic  Zapatillas para H'
 ---
 
 Tienes [Diadora Game Metallic  Zapatillas para Hombre  Negro  Nero/Argento   39 EU](https://www.amazon.es/dp/B073D8HMKF/?tag=tolees-21) con un 81.24 % de descuento con precio de oferta de 16.88 EUR (original: 90 EUR) en el siguiente enlace!

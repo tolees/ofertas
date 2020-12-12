@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma California  Zapatillas Unisex Adulto  Blanco Surf The Web White  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBXS9X4/?tag=tolees-21'
+descuento: '77.94'
+titulo: 'Puma California  Zapatillas Unisex Adult'
 ---
 
 Ahora mismo tienes [Puma California  Zapatillas Unisex Adulto  Blanco Surf The Web White  36 EU](https://www.amazon.es/dp/B07DBXS9X4/?tag=tolees-21) a 19.84 EUR (original: 89.95 EUR) (77.94 %  de descuento) en el siguiente enlace!

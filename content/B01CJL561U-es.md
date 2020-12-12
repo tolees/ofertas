@@ -17,6 +17,9 @@ comparePrice: 19.4 EUR
 inStock: true
 prodname: 'Pinord Lluna Plena Chardonnay Vino Blanco Crianza Ecológico - 750 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CJL561U/?tag=tolees-21'
+descuento: '59.59'
+titulo: 'Pinord Lluna Plena Chardonnay Vino Blanc'
 ---
 
 Está [Pinord Lluna Plena Chardonnay Vino Blanco Crianza Ecológico - 750 ml](https://www.amazon.es/dp/B01CJL561U/?tag=tolees-21) con 59.59 de descuento por 7.84 EUR (original: 19.4 EUR) en el siguiente enlace!

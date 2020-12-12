@@ -17,6 +17,9 @@ comparePrice: 22.24 EUR
 inStock: true
 prodname: 'Luanvi Gama Mallas largas  Mujer  Azul Marino  3XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHL132H/?tag=tolees-21'
+descuento: '50.58'
+titulo: 'Luanvi Gama Mallas largas  Mujer  Azul M'
 ---
 
 Tienes [Luanvi Gama Mallas largas  Mujer  Azul Marino  3XS](https://www.amazon.es/dp/B06XHL132H/?tag=tolees-21) con un 50.58 % de descuento con precio de oferta de 10.99 EUR (original: 22.24 EUR) en el siguiente enlace!

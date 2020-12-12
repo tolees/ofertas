@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Skagen Brazalete Mujer acero inoxidable - SKJ0981791'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MRTUHGO/?tag=tolees-21'
+descuento: '34.69'
+titulo: 'Skagen Brazalete Mujer acero inoxidable '
 ---
 
 Está [Skagen Brazalete Mujer acero inoxidable - SKJ0981791](https://www.amazon.es/dp/B01MRTUHGO/?tag=tolees-21) con 34.69 de descuento por 32 EUR (original: 49 EUR) en el siguiente enlace!

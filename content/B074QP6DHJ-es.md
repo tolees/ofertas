@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'El Ganso 1100s180025 Polo  Hombre  Marrón  Brown Único   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074QP6DHJ/?tag=tolees-21'
+descuento: '48.53'
+titulo: 'El Ganso 1100s180025 Polo  Hombre  Marró'
 ---
 
 Ahora mismo tienes [El Ganso 1100s180025 Polo  Hombre  Marrón  Brown Único   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B074QP6DHJ/?tag=tolees-21) a 23.16 EUR (original: 45 EUR) (48.53 %  de descuento) en el siguiente enlace!

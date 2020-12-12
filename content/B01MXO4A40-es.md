@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Puma Play CITI  Zapatillas Unisex Adulto  Negro Black-Whisper White 01  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXO4A40/?tag=tolees-21'
+descuento: '59.54'
+titulo: 'Puma Play CITI  Zapatillas Unisex Adulto'
 ---
 
 Tienes [Puma Play CITI  Zapatillas Unisex Adulto  Negro Black-Whisper White 01  43 EU](https://www.amazon.es/dp/B01MXO4A40/?tag=tolees-21) con un 59.54 % de descuento con precio de oferta de 44.49 EUR (original: 109.95 EUR) en el siguiente enlace!

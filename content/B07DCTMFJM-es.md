@@ -17,6 +17,9 @@ comparePrice: 47.1 EUR
 inStock: true
 prodname: 'Reebok Speedlux 3.0  Zapatillas de Trail Running para Hombre   We/Foggy Grey/Collegiate Navy/White 000   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCTMFJM/?tag=tolees-21'
+descuento: '38.60'
+titulo: 'Reebok Speedlux 3.0  Zapatillas de Trail'
 ---
 
 Está [Reebok Speedlux 3.0  Zapatillas de Trail Running para Hombre   We/Foggy Grey/Collegiate Navy/White 000   43 EU](https://www.amazon.es/dp/B07DCTMFJM/?tag=tolees-21) con 38.60 de descuento por 28.92 EUR (original: 47.1 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Napapijri Giulian Camisa   Check C01   47  Talla del Fabricante: XX-Large  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBMFRJ9/?tag=tolees-21'
+descuento: '49.37'
+titulo: 'Napapijri Giulian Camisa   Check C01   4'
 ---
 
 Está [Napapijri Giulian Camisa   Check C01   47  Talla del Fabricante: XX-Large  para Hombre](https://www.amazon.es/dp/B07LBMFRJ9/?tag=tolees-21) con 49.37 de descuento por 40 EUR (original: 79 EUR) en el siguiente enlace!

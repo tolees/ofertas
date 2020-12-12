@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Philips myLiving Mezen - Plafón  iluminación interior  LED  vidrio  color blanco mate'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0156KTI9W/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Philips myLiving Mezen - Plafón  ilumina'
 ---
 
 Tienes [Philips myLiving Mezen - Plafón  iluminación interior  LED  vidrio  color blanco mate](https://www.amazon.es/dp/B0156KTI9W/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!

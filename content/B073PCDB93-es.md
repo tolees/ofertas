@@ -17,6 +17,9 @@ comparePrice: 54.63 EUR
 inStock: true
 prodname: 'Inside 4SCAAN10  Chaqueta para Mujer  Marrón  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073PCDB93/?tag=tolees-21'
+descuento: '81.80'
+titulo: 'Inside 4SCAAN10  Chaqueta para Mujer  Ma'
 ---
 
 Está [Inside 4SCAAN10  Chaqueta para Mujer  Marrón  Small](https://www.amazon.es/dp/B073PCDB93/?tag=tolees-21) con 81.80 de descuento por 9.94 EUR (original: 54.63 EUR) en el siguiente enlace!

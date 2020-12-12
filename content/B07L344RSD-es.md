@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Hilfiger Denim EM0EM00253 Hombre  Gris  Ink 006   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L344RSD/?tag=tolees-21'
+descuento: '56.05'
+titulo: 'Hilfiger Denim EM0EM00253 Hombre  Gris  '
 ---
 
 Tienes [Hilfiger Denim EM0EM00253 Hombre  Gris  Ink 006   44 EU](https://www.amazon.es/dp/B07L344RSD/?tag=tolees-21) con un 56.05 % de descuento con precio de oferta de 43.91 EUR (original: 99.9 EUR) en el siguiente enlace!

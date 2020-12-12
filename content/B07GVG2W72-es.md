@@ -17,6 +17,9 @@ comparePrice: 107.96 EUR
 inStock: true
 prodname: 'Hoyxel - Abrebotellas eléctrico para Vino EG13  con Cargador y Cortador de cápsulas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GVG2W72/?tag=tolees-21'
+descuento: '80.56'
+titulo: 'Hoyxel - Abrebotellas eléctrico para Vin'
 ---
 
 Tienes [Hoyxel - Abrebotellas eléctrico para Vino EG13  con Cargador y Cortador de cápsulas](https://www.amazon.es/dp/B07GVG2W72/?tag=tolees-21) con un 80.56 % de descuento con precio de oferta de 20.99 EUR (original: 107.96 EUR) en el siguiente enlace!

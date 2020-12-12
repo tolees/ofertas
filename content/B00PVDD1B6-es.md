@@ -17,6 +17,9 @@ comparePrice: 257.9 EUR
 inStock: true
 prodname: 'D-Link DWL-6610AP - Punto de Acceso PoE para Interiores WiFi AC 1200 Mbps  802.11ac/n   Dual Band concurrente  Wireless unificado  Compatible con controladora de Puntos de Acceso inalámbricos  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PVDD1B6/?tag=tolees-21'
+descuento: '45.75'
+titulo: 'D-Link DWL-6610AP - Punto de Acceso PoE '
 ---
 
 Está [D-Link DWL-6610AP - Punto de Acceso PoE para Interiores WiFi AC 1200 Mbps  802.11ac/n   Dual Band concurrente  Wireless unificado  Compatible con controladora de Puntos de Acceso inalámbricos  Blanco](https://www.amazon.es/dp/B00PVDD1B6/?tag=tolees-21) con 45.75 de descuento por 139.92 EUR (original: 257.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Stihl 0464-934-0000 Set de Herramientas de Juguete  0.02 V'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001L2WMS4/?tag=tolees-21'
+descuento: '45.78'
+titulo: 'Stihl 0464-934-0000 Set de Herramientas '
 ---
 
 Está [Stihl 0464-934-0000 Set de Herramientas de Juguete  0.02 V](https://www.amazon.es/dp/B001L2WMS4/?tag=tolees-21) con 45.78 de descuento por 26.57 EUR (original: 49 EUR) en el siguiente enlace!

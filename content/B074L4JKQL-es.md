@@ -17,6 +17,9 @@ comparePrice: 96.5 EUR
 inStock: true
 prodname: 'D&G Pour Homme Edt Spray'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074L4JKQL/?tag=tolees-21'
+descuento: '41.76'
+titulo: 'D&G Pour Homme Edt Spray'
 ---
 
 Tienes [D&G Pour Homme Edt Spray](https://www.amazon.es/dp/B074L4JKQL/?tag=tolees-21) con un 41.76 % de descuento con precio de oferta de 56.2 EUR (original: 96.5 EUR) en el siguiente enlace!

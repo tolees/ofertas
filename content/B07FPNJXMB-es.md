@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorphotoxmas tee SS Crew Neck  Camiseta para Hombre  Tap Shoe  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPNJXMB/?tag=tolees-21'
+descuento: '40.03'
+titulo: 'JACK & JONES Jorphotoxmas tee SS Crew Ne'
 ---
 
 Está [JACK & JONES Jorphotoxmas tee SS Crew Neck  Camiseta para Hombre  Tap Shoe  Medium](https://www.amazon.es/dp/B07FPNJXMB/?tag=tolees-21) con 40.03 de descuento por 7.79 EUR (original: 12.99 EUR) en el siguiente enlace!

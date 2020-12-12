@@ -17,6 +17,9 @@ comparePrice: 20.59 EUR
 inStock: true
 prodname: 'IRIS & LILLY KT251 baño  Multicolour  Leopard   12  Size:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZ6NZ6C/?tag=tolees-21'
+descuento: '32.05'
+titulo: 'IRIS & LILLY KT251 baño  Multicolour  Le'
 ---
 
 Está [IRIS & LILLY KT251 baño  Multicolour  Leopard   12  Size:M ](https://www.amazon.es/dp/B07MZ6NZ6C/?tag=tolees-21) con 32.05 de descuento por 13.99 EUR (original: 20.59 EUR) en el siguiente enlace!

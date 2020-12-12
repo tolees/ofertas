@@ -17,6 +17,9 @@ comparePrice: 19.8 EUR
 inStock: true
 prodname: 'Rayen 2326.21 Alfombra para Bañera con Ventosas Caucho  Blanco 37 x 90 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GN55QEQ/?tag=tolees-21'
+descuento: '29.29'
+titulo: 'Rayen 2326.21 Alfombra para Bañera con V'
 ---
 
 Está [Rayen 2326.21 Alfombra para Bañera con Ventosas Caucho  Blanco 37 x 90 cm](https://www.amazon.es/dp/B00GN55QEQ/?tag=tolees-21) con 29.29 de descuento por 14 EUR (original: 19.8 EUR) en el siguiente enlace!

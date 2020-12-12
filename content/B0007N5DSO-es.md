@@ -17,6 +17,9 @@ comparePrice: 38.95 EUR
 inStock: true
 prodname: 'Doc Johnson The Original Pocket Rocket Masturbador Femenino  Color Blanco - 65 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0007N5DSO/?tag=tolees-21'
+descuento: '32.45'
+titulo: 'Doc Johnson The Original Pocket Rocket M'
 ---
 
 Tienes [Doc Johnson The Original Pocket Rocket Masturbador Femenino  Color Blanco - 65 gr](https://www.amazon.es/dp/B0007N5DSO/?tag=tolees-21) con un 32.45 % de descuento con precio de oferta de 26.31 EUR (original: 38.95 EUR) en el siguiente enlace!

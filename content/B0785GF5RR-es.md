@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 574v2  Zapatillas para Mujer  Morado  Deep Cosmic Sky/Marblehead Fhb   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0785GF5RR/?tag=tolees-21'
+descuento: '52.61'
+titulo: 'New Balance 574v2  Zapatillas para Mujer'
 ---
 
 Está [New Balance 574v2  Zapatillas para Mujer  Morado  Deep Cosmic Sky/Marblehead Fhb   36.5 EU](https://www.amazon.es/dp/B0785GF5RR/?tag=tolees-21) con 52.61 de descuento por 42.65 EUR (original: 90 EUR) en el siguiente enlace!

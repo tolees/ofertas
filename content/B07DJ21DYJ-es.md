@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance CRT300  Zapatillas para Hombre  Azul  North Sea/White HP   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ21DYJ/?tag=tolees-21'
+descuento: '45.90'
+titulo: 'New Balance CRT300  Zapatillas para Homb'
 ---
 
 Está [New Balance CRT300  Zapatillas para Hombre  Azul  North Sea/White HP   42.5 EU](https://www.amazon.es/dp/B07DJ21DYJ/?tag=tolees-21) con 45.90 de descuento por 48.69 EUR (original: 90 EUR) en el siguiente enlace!

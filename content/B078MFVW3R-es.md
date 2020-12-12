@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Asics GT-2000 6  Zapatillas de Entrenamiento para Mujer  Porcelain Blue 1414  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078MFVW3R/?tag=tolees-21'
+descuento: '49.69'
+titulo: 'Asics GT-2000 6  Zapatillas de Entrenami'
 ---
 
 Tienes [Asics GT-2000 6  Zapatillas de Entrenamiento para Mujer  Porcelain Blue 1414  37 EU](https://www.amazon.es/dp/B078MFVW3R/?tag=tolees-21) con un 49.69 % de descuento con precio de oferta de 70.44 EUR (original: 140 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 6Re Organic Structure  Camisa Casual para Hombre   Gama Azules 15   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ2Y39D/?tag=tolees-21'
+descuento: '70.92'
+titulo: 'Springfield 6Re Organic Structure  Camis'
 ---
 
 Tienes [Springfield 6Re Organic Structure  Camisa Casual para Hombre   Gama Azules 15   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KZ2Y39D/?tag=tolees-21) con un 70.92 % de descuento con precio de oferta de 8.72 EUR (original: 29.99 EUR) en el siguiente enlace!

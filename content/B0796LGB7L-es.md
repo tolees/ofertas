@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Superdry Reloj Analógico para Hombre de Cuarzo con Correa en Cuero SYG187BR'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0796LGB7L/?tag=tolees-21'
+descuento: '35.29'
+titulo: 'Superdry Reloj Analógico para Hombre de '
 ---
 
 Ahora mismo tienes [Superdry Reloj Analógico para Hombre de Cuarzo con Correa en Cuero SYG187BR](https://www.amazon.es/dp/B0796LGB7L/?tag=tolees-21) a 55 EUR (original: 85 EUR) (35.29 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.16 EUR
 inStock: true
 prodname: 'Linterna LED Recargable Morpilot  1000 Lúmenes Recargable y Brillante Linterna LED de Mano  Resistente al Agua Linterna con Zoom con 5 Modos de Luz'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQJRNNM/?tag=tolees-21'
+descuento: '65.90'
+titulo: 'Linterna LED Recargable Morpilot  1000 L'
 ---
 
 Está [Linterna LED Recargable Morpilot  1000 Lúmenes Recargable y Brillante Linterna LED de Mano  Resistente al Agua Linterna con Zoom con 5 Modos de Luz](https://www.amazon.es/dp/B07JQJRNNM/?tag=tolees-21) con 65.90 de descuento por 11.99 EUR (original: 35.16 EUR) en el siguiente enlace!

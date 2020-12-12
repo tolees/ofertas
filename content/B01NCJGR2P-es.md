@@ -17,6 +17,9 @@ comparePrice: 43.96 EUR
 inStock: true
 prodname: 'Avaner Reloj de Pulsera Hombre Cráneos Punk Rock  Reloj Grande de Cuero para Biker Motorista  Cuarzo Reloj Negro Analogico Buen Regalo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NCJGR2P/?tag=tolees-21'
+descuento: '75.00'
+titulo: 'Avaner Reloj de Pulsera Hombre Cráneos P'
 ---
 
 Tienes [Avaner Reloj de Pulsera Hombre Cráneos Punk Rock  Reloj Grande de Cuero para Biker Motorista  Cuarzo Reloj Negro Analogico Buen Regalo](https://www.amazon.es/dp/B01NCJGR2P/?tag=tolees-21) con un 75.00 % de descuento con precio de oferta de 10.99 EUR (original: 43.96 EUR) en el siguiente enlace!

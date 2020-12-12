@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Napapijri Seitem Camiseta  Gris  Med Grey Mel 160   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9NSB89/?tag=tolees-21'
+descuento: '57.51'
+titulo: 'Napapijri Seitem Camiseta  Gris  Med Gre'
 ---
 
 Tienes [Napapijri Seitem Camiseta  Gris  Med Grey Mel 160   Large para Hombre](https://www.amazon.es/dp/B07L9NSB89/?tag=tolees-21) con un 57.51 % de descuento con precio de oferta de 16.57 EUR (original: 39 EUR) en el siguiente enlace!

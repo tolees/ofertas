@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Puma Ignite Limitless Sr-71 Crafted  Zapatillas de Running Unisex Adulto  Negro Black 01  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DB1TX42/?tag=tolees-21'
+descuento: '74.22'
+titulo: 'Puma Ignite Limitless Sr-71 Crafted  Zap'
 ---
 
 Ahora mismo tienes [Puma Ignite Limitless Sr-71 Crafted  Zapatillas de Running Unisex Adulto  Negro Black 01  42 EU](https://www.amazon.es/dp/B07DB1TX42/?tag=tolees-21) a 28.35 EUR (original: 109.95 EUR) (74.22 %  de descuento) en el siguiente enlace!

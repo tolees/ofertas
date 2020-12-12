@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'ELINKUME Lámpara de escritorio solar LED con cable USB  lámpara de lectura de bajo consumo para estudio/dormitorio/camping'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071KKFBW6/?tag=tolees-21'
+descuento: '44.60'
+titulo: 'ELINKUME Lámpara de escritorio solar LED'
 ---
 
 Ahora mismo tienes [ELINKUME Lámpara de escritorio solar LED con cable USB  lámpara de lectura de bajo consumo para estudio/dormitorio/camping](https://www.amazon.es/dp/B071KKFBW6/?tag=tolees-21) a 13.85 EUR (original: 25 EUR) (44.60 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 104.95 EUR
 inStock: true
 prodname: 'DC Shoes Crisis High WNT  Zapatillas para Hombre  Marrón  Wheat/dk Chocolate   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071ZJ6TZL/?tag=tolees-21'
+descuento: '73.13'
+titulo: 'DC Shoes Crisis High WNT  Zapatillas par'
 ---
 
 Ahora mismo tienes [DC Shoes Crisis High WNT  Zapatillas para Hombre  Marrón  Wheat/dk Chocolate   41 EU](https://www.amazon.es/dp/B071ZJ6TZL/?tag=tolees-21) a 28.2 EUR (original: 104.95 EUR) (73.13 %  de descuento) en el siguiente enlace!

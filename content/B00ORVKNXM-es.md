@@ -17,6 +17,9 @@ comparePrice: 127 EUR
 inStock: true
 prodname: 'Solac Squissita New CE4491 Cafetera Express  900 W  0 Decibeles  Acero Inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ORVKNXM/?tag=tolees-21'
+descuento: '37.02'
+titulo: 'Solac Squissita New CE4491 Cafetera Expr'
 ---
 
 Tienes [Solac Squissita New CE4491 Cafetera Express  900 W  0 Decibeles  Acero Inoxidable](https://www.amazon.es/dp/B00ORVKNXM/?tag=tolees-21) con un 37.02 % de descuento con precio de oferta de 79.99 EUR (original: 127 EUR) en el siguiente enlace!

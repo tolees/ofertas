@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Sony MDR - XB550AP - Auriculares de diadema Extra Bass  micrófono integrado compatible con Smartphones  diadema metálica adaptable   blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5LWQ88/?tag=tolees-21'
+descuento: '50.56'
+titulo: 'Sony MDR - XB550AP - Auriculares de diad'
 ---
 
 Está [Sony MDR - XB550AP - Auriculares de diadema Extra Bass  micrófono integrado compatible con Smartphones  diadema metálica adaptable   blanco](https://www.amazon.es/dp/B01N5LWQ88/?tag=tolees-21) con 50.56 de descuento por 24.72 EUR (original: 50 EUR) en el siguiente enlace!

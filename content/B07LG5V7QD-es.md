@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Monitor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LG5V7QD/?tag=tolees-21'
+descuento: '68.76'
+titulo: 'Monitor'
 ---
 
 Está [Monitor](https://www.amazon.es/dp/B07LG5V7QD/?tag=tolees-21) con 68.76 de descuento por 24.99 EUR (original: 79.99 EUR) en el siguiente enlace!

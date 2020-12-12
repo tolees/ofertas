@@ -17,6 +17,9 @@ comparePrice: 189.95 EUR
 inStock: true
 prodname: 'Einhell GC-PH 2155 - Recortasetos de gasolina  motor de 2 tiempos  encendido electrónico  ref. 3403835 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00B18K5PU/?tag=tolees-21'
+descuento: '26.35'
+titulo: 'Einhell GC-PH 2155 - Recortasetos de gas'
 ---
 
 Ahora mismo tienes [Einhell GC-PH 2155 - Recortasetos de gasolina  motor de 2 tiempos  encendido electrónico  ref. 3403835 ](https://www.amazon.es/dp/B00B18K5PU/?tag=tolees-21) a 139.9 EUR (original: 189.95 EUR) (26.35 %  de descuento) en el siguiente enlace!

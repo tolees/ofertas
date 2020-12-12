@@ -17,6 +17,9 @@ comparePrice: 29.0 EUR
 inStock: true
 prodname: 'Calvin Klein J30J307855 Camisa  099  XL para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFF1HB3/?tag=tolees-21'
+descuento: '31.07'
+titulo: 'Calvin Klein J30J307855 Camisa  099  XL '
 ---
 
 Ahora mismo tienes [Calvin Klein J30J307855 Camisa  099  XL para Hombre](https://www.amazon.es/dp/B07DFF1HB3/?tag=tolees-21) a 19.99 EUR (original: 29.0 EUR) (31.07 %  de descuento) en el siguiente enlace!
@@ -25,9 +28,9 @@ Ahora mismo tienes [Calvin Klein J30J307855 Camisa  099  XL para Hombre](https:/
 
 Características:
 
-- Cuello redondo
 - Algodón orgánico
 - Mangas cortas
+- Cuello redondo
 - Ajuste slim
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFF1HB3/?tag=tolees-21)

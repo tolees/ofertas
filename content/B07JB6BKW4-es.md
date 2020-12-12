@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Bovon Soporte Móvil Coche Magnético  Soporte Smartphone para Coche de Rejillas de Ventilación con 360 °Rotación y Ajustable Base para 3.5"-6.5" Smartphones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JB6BKW4/?tag=tolees-21'
+descuento: '41.20'
+titulo: 'Bovon Soporte Móvil Coche Magnético  Sop'
 ---
 
 Ahora mismo tienes [Bovon Soporte Móvil Coche Magnético  Soporte Smartphone para Coche de Rejillas de Ventilación con 360 °Rotación y Ajustable Base para 3.5"-6.5" Smartphones](https://www.amazon.es/dp/B07JB6BKW4/?tag=tolees-21) a 9.99 EUR (original: 16.99 EUR) (41.20 %  de descuento) en el siguiente enlace!

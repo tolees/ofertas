@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Levi s 310 Shaping Super Skinny  Vaqueros Skinny para Mujer  Azul  Ivy League 0011   W32/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K6Y1FJ2/?tag=tolees-21'
+descuento: '32.11'
+titulo: 'Levi s 310 Shaping Super Skinny  Vaquero'
 ---
 
 Está [Levi s 310 Shaping Super Skinny  Vaqueros Skinny para Mujer  Azul  Ivy League 0011   W32/L32](https://www.amazon.es/dp/B07K6Y1FJ2/?tag=tolees-21) con 32.11 de descuento por 64.5 EUR (original: 95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 21.1 EUR
 inStock: true
 prodname: 'Revlon Nutri Color Creme Rubísimos  Tinte para el Cabello 1002 Platino Blanco - 270 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0012XAQYY/?tag=tolees-21'
+descuento: '39.38'
+titulo: 'Revlon Nutri Color Creme Rubísimos  Tint'
 ---
 
 Tienes [Revlon Nutri Color Creme Rubísimos  Tinte para el Cabello 1002 Platino Blanco - 270 ml](https://www.amazon.es/dp/B0012XAQYY/?tag=tolees-21) con un 39.38 % de descuento con precio de oferta de 12.79 EUR (original: 21.1 EUR) en el siguiente enlace!

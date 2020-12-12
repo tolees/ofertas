@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'One For All WM2251 - Soporte de pared para TV de 13 a 40”  giratorio 180°  peso máx. 30kg  para todo tipo de TVs  LED  LCD y plasma   negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IVQVMRO/?tag=tolees-21'
+descuento: '52.54'
+titulo: 'One For All WM2251 - Soporte de pared pa'
 ---
 
 Está [One For All WM2251 - Soporte de pared para TV de 13 a 40”  giratorio 180°  peso máx. 30kg  para todo tipo de TVs  LED  LCD y plasma   negro](https://www.amazon.es/dp/B01IVQVMRO/?tag=tolees-21) con 52.54 de descuento por 18.98 EUR (original: 39.99 EUR) en el siguiente enlace!

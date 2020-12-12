@@ -17,6 +17,9 @@ comparePrice: 385 EUR
 inStock: true
 prodname: 'Christian Dior DIORREFLECTED 3J XX8  Gafas de Sol para Mujer  Rosa  Rosegold Khaki/Azure Grey Speckled   52'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZBFLJ6/?tag=tolees-21'
+descuento: '69.07'
+titulo: 'Christian Dior DIORREFLECTED 3J XX8  Gaf'
 ---
 
 Está [Christian Dior DIORREFLECTED 3J XX8  Gafas de Sol para Mujer  Rosa  Rosegold Khaki/Azure Grey Speckled   52](https://www.amazon.es/dp/B01LZBFLJ6/?tag=tolees-21) con 69.07 de descuento por 119.07 EUR (original: 385 EUR) en el siguiente enlace!

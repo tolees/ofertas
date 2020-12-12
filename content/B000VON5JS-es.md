@@ -17,6 +17,9 @@ comparePrice: 75.0 EUR
 inStock: true
 prodname: 'Tous EDP 90ML'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21'
+descuento: '48.11'
+titulo: 'Tous EDP 90ML'
 ---
 
 Ahora mismo tienes [Tous EDP 90ML](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21) a 38.92 EUR (original: 75.0 EUR) (48.11 %  de descuento) en el siguiente enlace!
@@ -25,9 +28,9 @@ Ahora mismo tienes [Tous EDP 90ML](https://www.amazon.es/dp/B000VON5JS/?tag=tole
 
 Características:
 
-- Salida: hojas de casis, violeta, bergamota y coriandro.
-- Corazón: Jazmon blanco,, peonia amarilla, rosa y gardenia
 - Fondo: Musc blanco, cedro de marruecos e iris
+- Corazón: Jazmon blanco,, peonia amarilla, rosa y gardenia
+- Salida: hojas de casis, violeta, bergamota y coriandro.
 
 [Visítala!!!](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21)
 

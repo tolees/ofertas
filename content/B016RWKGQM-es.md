@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Trust Urban Aurus - Auriculares de botón in-ear impermeables  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016RWKGQM/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'Trust Urban Aurus - Auriculares de botón'
 ---
 
 Está [Trust Urban Aurus - Auriculares de botón in-ear impermeables  negro](https://www.amazon.es/dp/B016RWKGQM/?tag=tolees-21) con 49.97 de descuento por 7.5 EUR (original: 14.99 EUR) en el siguiente enlace!

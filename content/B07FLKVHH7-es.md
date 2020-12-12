@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Superdry Garment Dye L.a. Crew  Sudadera Deportiva para Hombre  Verde  Washed Forest Up7  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLKVHH7/?tag=tolees-21'
+descuento: '67.05'
+titulo: 'Superdry Garment Dye L.a. Crew  Sudadera'
 ---
 
 Ahora mismo tienes [Superdry Garment Dye L.a. Crew  Sudadera Deportiva para Hombre  Verde  Washed Forest Up7  Medium](https://www.amazon.es/dp/B07FLKVHH7/?tag=tolees-21) a 21.42 EUR (original: 65 EUR) (67.05 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Call It Spring EU - Etecia  Bolsos mochila Mujer  Multicolor  Pink Floral Brocade   7.5x15x29.5 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWSDDSP/?tag=tolees-21'
+descuento: '67.42'
+titulo: 'Call It Spring EU - Etecia  Bolsos mochi'
 ---
 
 Está [Call It Spring EU - Etecia  Bolsos mochila Mujer  Multicolor  Pink Floral Brocade   7.5x15x29.5 cm  B x H T ](https://www.amazon.es/dp/B07DWSDDSP/?tag=tolees-21) con 67.42 de descuento por 9.77 EUR (original: 29.99 EUR) en el siguiente enlace!

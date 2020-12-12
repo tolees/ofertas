@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Sombras De Guerra Definitive Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GFXMTKR/?tag=tolees-21'
+descuento: '58.38'
+titulo: 'Sombras De Guerra Definitive Edition'
 ---
 
 Está [Sombras De Guerra Definitive Edition](https://www.amazon.es/dp/B07GFXMTKR/?tag=tolees-21) con 58.38 de descuento por 24.95 EUR (original: 59.95 EUR) en el siguiente enlace!

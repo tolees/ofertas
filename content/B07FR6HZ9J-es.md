@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Clarks Clarkdale Moon  Zapatos de Cordones Derby para Hombre  Beige  Sand Suede-   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FR6HZ9J/?tag=tolees-21'
+descuento: '30.04'
+titulo: 'Clarks Clarkdale Moon  Zapatos de Cordon'
 ---
 
 Está [Clarks Clarkdale Moon  Zapatos de Cordones Derby para Hombre  Beige  Sand Suede-   42.5 EU](https://www.amazon.es/dp/B07FR6HZ9J/?tag=tolees-21) con 30.04 de descuento por 97.95 EUR (original: 140 EUR) en el siguiente enlace!

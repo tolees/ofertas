@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Chicos - Maletín pizzería  87007 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X1GFZYH/?tag=tolees-21'
+descuento: '56.88'
+titulo: 'Chicos - Maletín pizzería  87007 '
 ---
 
 Está [Chicos - Maletín pizzería  87007 ](https://www.amazon.es/dp/B06X1GFZYH/?tag=tolees-21) con 56.88 de descuento por 7.74 EUR (original: 17.95 EUR) en el siguiente enlace!

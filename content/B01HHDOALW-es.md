@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Té floral natural de Teabloom- 12 Variedades únicas de bolas de té de flores - Té verde atado a mano y flores comestibles - Recipiente para regalo de 12 paquetes - 36 tés  sirve para 250 tazas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HHDOALW/?tag=tolees-21'
+descuento: '32.05'
+titulo: 'Té floral natural de Teabloom- 12 Varied'
 ---
 
 Está [Té floral natural de Teabloom- 12 Variedades únicas de bolas de té de flores - Té verde atado a mano y flores comestibles - Recipiente para regalo de 12 paquetes - 36 tés  sirve para 250 tazas](https://www.amazon.es/dp/B01HHDOALW/?tag=tolees-21) con 32.05 de descuento por 14.95 EUR (original: 22 EUR) en el siguiente enlace!

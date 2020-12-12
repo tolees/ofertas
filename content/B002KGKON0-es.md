@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Seiko SFQ830P1 - Reloj analógico de mujer de cuarzo con correa de piel negra - sumergible a 30 metros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002KGKON0/?tag=tolees-21'
+descuento: '28.50'
+titulo: 'Seiko SFQ830P1 - Reloj analógico de muje'
 ---
 
 Ahora mismo tienes [Seiko SFQ830P1 - Reloj analógico de mujer de cuarzo con correa de piel negra - sumergible a 30 metros](https://www.amazon.es/dp/B002KGKON0/?tag=tolees-21) a 85.08 EUR (original: 119 EUR) (28.50 %  de descuento) en el siguiente enlace!

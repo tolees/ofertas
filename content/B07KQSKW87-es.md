@@ -17,6 +17,9 @@ comparePrice: 27.95 EUR
 inStock: true
 prodname: 'adidas Poly Leggings  Niñas  Rosa  rossua   128'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQSKW87/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'adidas Poly Leggings  Niñas  Rosa  rossu'
 ---
 
 Está [adidas Poly Leggings  Niñas  Rosa  rossua   128](https://www.amazon.es/dp/B07KQSKW87/?tag=tolees-21) con 50.02 de descuento por 13.97 EUR (original: 27.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Edge Entertainment EDGRC01- Robinson Crusoe  Aventuras en la isla maldita'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0198FJD0K/?tag=tolees-21'
+descuento: '25.02'
+titulo: 'Edge Entertainment EDGRC01- Robinson Cru'
 ---
 
 Tienes [Edge Entertainment EDGRC01- Robinson Crusoe  Aventuras en la isla maldita](https://www.amazon.es/dp/B0198FJD0K/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 44.95 EUR (original: 59.95 EUR) en el siguiente enlace!

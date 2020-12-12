@@ -17,6 +17,9 @@ comparePrice: 416.94 EUR
 inStock: true
 prodname: 'Shiseido Future Solution SPF20 Crema de Día - 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0731RSVM2/?tag=tolees-21'
+descuento: '71.94'
+titulo: 'Shiseido Future Solution SPF20 Crema de '
 ---
 
 Está [Shiseido Future Solution SPF20 Crema de Día - 50 ml](https://www.amazon.es/dp/B0731RSVM2/?tag=tolees-21) con 71.94 de descuento por 117 EUR (original: 416.94 EUR) en el siguiente enlace!

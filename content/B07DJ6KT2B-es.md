@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Lacoste Rey Sport 119 2 Cfa  Zapatillas para Mujer  Azul  Nvy/Gld Ng5   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ6KT2B/?tag=tolees-21'
+descuento: '33.07'
+titulo: 'Lacoste Rey Sport 119 2 Cfa  Zapatillas '
 ---
 
 Tienes [Lacoste Rey Sport 119 2 Cfa  Zapatillas para Mujer  Azul  Nvy/Gld Ng5   39 EU](https://www.amazon.es/dp/B07DJ6KT2B/?tag=tolees-21) con un 33.07 % de descuento con precio de oferta de 72.95 EUR (original: 109 EUR) en el siguiente enlace!

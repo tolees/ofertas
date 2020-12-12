@@ -17,6 +17,9 @@ comparePrice: 32 EUR
 inStock: true
 prodname: 'CRZ YOGA - Sujetador Deportivo Yoga Cruzados Almohadillas Extraíbles para Mujer Blanco S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079PW3HJH/?tag=tolees-21'
+descuento: '43.75'
+titulo: 'CRZ YOGA - Sujetador Deportivo Yoga Cruz'
 ---
 
 Está [CRZ YOGA - Sujetador Deportivo Yoga Cruzados Almohadillas Extraíbles para Mujer Blanco S](https://www.amazon.es/dp/B079PW3HJH/?tag=tolees-21) con 43.75 de descuento por 18 EUR (original: 32 EUR) en el siguiente enlace!

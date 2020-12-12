@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Battlefield 1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FHSU86A/?tag=tolees-21'
+descuento: '50.13'
+titulo: 'Battlefield 1'
 ---
 
 Tienes [Battlefield 1](https://www.amazon.es/dp/B01FHSU86A/?tag=tolees-21) con un 50.13 % de descuento con precio de oferta de 9.95 EUR (original: 19.95 EUR) en el siguiente enlace!

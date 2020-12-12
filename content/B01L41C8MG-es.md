@@ -17,6 +17,9 @@ comparePrice: 31.9 EUR
 inStock: true
 prodname: 'Havaianas Origine Iii  Alpargatas para Unisex Adulto  Negro  Black   42 EU  40 Brazilian '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L41C8MG/?tag=tolees-21'
+descuento: '56.43'
+titulo: 'Havaianas Origine Iii  Alpargatas para U'
 ---
 
 Ahora mismo tienes [Havaianas Origine Iii  Alpargatas para Unisex Adulto  Negro  Black   42 EU  40 Brazilian ](https://www.amazon.es/dp/B01L41C8MG/?tag=tolees-21) a 13.9 EUR (original: 31.9 EUR) (56.43 %  de descuento) en el siguiente enlace!

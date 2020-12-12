@@ -17,6 +17,9 @@ comparePrice: 178.51 EUR
 inStock: true
 prodname: 'Festina Reloj de Pulsera F20370/6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GF3WLJS/?tag=tolees-21'
+descuento: '27.74'
+titulo: 'Festina Reloj de Pulsera F20370/6'
 ---
 
 Está [Festina Reloj de Pulsera F20370/6](https://www.amazon.es/dp/B07GF3WLJS/?tag=tolees-21) con 27.74 de descuento por 129 EUR (original: 178.51 EUR) en el siguiente enlace!

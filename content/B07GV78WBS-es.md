@@ -17,6 +17,9 @@ comparePrice: 56.99 EUR
 inStock: true
 prodname: 'Bision Kit Herramientas Bicicleta Mini Bomba Bicicleta 16 en 1 CookJoy Kit reparación de Neumáticos Herramienta multifunción para Bicicleta  Kit Bicicleta  Kit Parches y palancas para neumaticos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GV78WBS/?tag=tolees-21'
+descuento: '64.92'
+titulo: 'Bision Kit Herramientas Bicicleta Mini B'
 ---
 
 Está [Bision Kit Herramientas Bicicleta Mini Bomba Bicicleta 16 en 1 CookJoy Kit reparación de Neumáticos Herramienta multifunción para Bicicleta  Kit Bicicleta  Kit Parches y palancas para neumaticos](https://www.amazon.es/dp/B07GV78WBS/?tag=tolees-21) con 64.92 de descuento por 19.99 EUR (original: 56.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Gant Chunky Cable Sweater  suéter para Mujer  Marfil  Eggshell   16  Talla del Fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SDFNVG/?tag=tolees-21'
+descuento: '68.26'
+titulo: 'Gant Chunky Cable Sweater  suéter para M'
 ---
 
 Tienes [Gant Chunky Cable Sweater  suéter para Mujer  Marfil  Eggshell   16  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B075SDFNVG/?tag=tolees-21) con un 68.26 % de descuento con precio de oferta de 47.61 EUR (original: 149.99 EUR) en el siguiente enlace!

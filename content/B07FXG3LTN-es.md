@@ -17,6 +17,9 @@ comparePrice: 175.99 EUR
 inStock: true
 prodname: 'Lenovo S5 K520 Teléfono Inteligente 5.7 Pulgadas FHD +18: 9 4G RAM 64G ROM Boca de Dragón 625 Ocho Nucleos Android 8.0 Doble Trasero 13MP + Frente a 16MP Video 4K 4G-LTE Teléfono Móvil  Negro  3+32GB '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FXG3LTN/?tag=tolees-21'
+descuento: '60.29'
+titulo: 'Lenovo S5 K520 Teléfono Inteligente 5.7 '
 ---
 
 Está [Lenovo S5 K520 Teléfono Inteligente 5.7 Pulgadas FHD +18: 9 4G RAM 64G ROM Boca de Dragón 625 Ocho Nucleos Android 8.0 Doble Trasero 13MP + Frente a 16MP Video 4K 4G-LTE Teléfono Móvil  Negro  3+32GB ](https://www.amazon.es/dp/B07FXG3LTN/?tag=tolees-21) con 60.29 de descuento por 69.89 EUR (original: 175.99 EUR) en el siguiente enlace!

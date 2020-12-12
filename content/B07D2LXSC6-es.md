@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'edc by Esprit 088cc1e003  Vestido Mujer  Rosa  Dark Old Pink 675   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2LXSC6/?tag=tolees-21'
+descuento: '59.81'
+titulo: 'edc by Esprit 088cc1e003  Vestido Mujer '
 ---
 
 Tienes [edc by Esprit 088cc1e003  Vestido Mujer  Rosa  Dark Old Pink 675   Large](https://www.amazon.es/dp/B07D2LXSC6/?tag=tolees-21) con un 59.81 % de descuento con precio de oferta de 24.11 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Hackett London Numb Hoody  Sudadera para Niños  Azul 5 Años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QPTYGS/?tag=tolees-21'
+descuento: '41.43'
+titulo: 'Hackett London Numb Hoody  Sudadera para'
 ---
 
 Está [Hackett London Numb Hoody  Sudadera para Niños  Azul 5 Años](https://www.amazon.es/dp/B079QPTYGS/?tag=tolees-21) con 41.43 de descuento por 40.41 EUR (original: 69 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 22.24 EUR
 inStock: true
 prodname: 'Spalding Bekleidung Teamsport MVP Tank Top - Camiseta de tirantes de baloncesto para hombre  color blanco/negro  talla XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008BH9C1M/?tag=tolees-21'
+descuento: '59.76'
+titulo: 'Spalding Bekleidung Teamsport MVP Tank T'
 ---
 
 Tienes [Spalding Bekleidung Teamsport MVP Tank Top - Camiseta de tirantes de baloncesto para hombre  color blanco/negro  talla XXL](https://www.amazon.es/dp/B008BH9C1M/?tag=tolees-21) con un 59.76 % de descuento con precio de oferta de 8.95 EUR (original: 22.24 EUR) en el siguiente enlace!

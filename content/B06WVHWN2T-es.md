@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Fellowes Lunar+ - Plastificadora hasta 125 micras  A3  color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WVHWN2T/?tag=tolees-21'
+descuento: '30.92'
+titulo: 'Fellowes Lunar+ - Plastificadora hasta 1'
 ---
 
 Ahora mismo tienes [Fellowes Lunar+ - Plastificadora hasta 125 micras  A3  color azul](https://www.amazon.es/dp/B06WVHWN2T/?tag=tolees-21) a 61.48 EUR (original: 89 EUR) (30.92 %  de descuento) en el siguiente enlace!

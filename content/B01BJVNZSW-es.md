@@ -17,6 +17,9 @@ comparePrice: 33.12 EUR
 inStock: true
 prodname: 'Jako Chaqueta De Presentación de Striker  Infantil  Präsentationsjacke Striker  Nightblue/Flame'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BJVNZSW/?tag=tolees-21'
+descuento: '73.04'
+titulo: 'Jako Chaqueta De Presentación de Striker'
 ---
 
 Está [Jako Chaqueta De Presentación de Striker  Infantil  Präsentationsjacke Striker  Nightblue/Flame](https://www.amazon.es/dp/B01BJVNZSW/?tag=tolees-21) con 73.04 de descuento por 8.93 EUR (original: 33.12 EUR) en el siguiente enlace!

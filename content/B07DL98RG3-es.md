@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 5P Slim Wash Pantalones  Dorado  Gama Tostados 51     Tamaño del Fabricante:28  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL98RG3/?tag=tolees-21'
+descuento: '71.32'
+titulo: 'Springfield 5P Slim Wash Pantalones  Dor'
 ---
 
 Tienes [Springfield 5P Slim Wash Pantalones  Dorado  Gama Tostados 51     Tamaño del Fabricante:28  para Hombre](https://www.amazon.es/dp/B07DL98RG3/?tag=tolees-21) con un 71.32 % de descuento con precio de oferta de 8.6 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Schleich DC Comics - Set 2 figuras  Batman y Superman'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017QFP5VU/?tag=tolees-21'
+descuento: '51.08'
+titulo: 'Schleich DC Comics - Set 2 figuras  Batm'
 ---
 
 Está [Schleich DC Comics - Set 2 figuras  Batman y Superman](https://www.amazon.es/dp/B017QFP5VU/?tag=tolees-21) con 51.08 de descuento por 9.78 EUR (original: 19.99 EUR) en el siguiente enlace!

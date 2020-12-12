@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Izzo  Camiseta para Hombre    Steel Blue 563  X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRF17J1/?tag=tolees-21'
+descuento: '43.68'
+titulo: 'Pepe Jeans Izzo  Camiseta para Hombre   '
 ---
 
 Está [Pepe Jeans Izzo  Camiseta para Hombre    Steel Blue 563  X-Small](https://www.amazon.es/dp/B07CRF17J1/?tag=tolees-21) con 43.68 de descuento por 16.84 EUR (original: 29.9 EUR) en el siguiente enlace!

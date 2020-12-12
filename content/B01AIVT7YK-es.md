@@ -17,6 +17,9 @@ comparePrice: 13.46 EUR
 inStock: true
 prodname: 'AmazonBasics - Mochila ligera plegable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AIVT7YK/?tag=tolees-21'
+descuento: '35.51'
+titulo: 'AmazonBasics - Mochila ligera plegable'
 ---
 
 Ahora mismo tienes [AmazonBasics - Mochila ligera plegable](https://www.amazon.es/dp/B01AIVT7YK/?tag=tolees-21) a 8.68 EUR (original: 13.46 EUR) (35.51 %  de descuento) en el siguiente enlace!

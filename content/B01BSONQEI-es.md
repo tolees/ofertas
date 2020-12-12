@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Geox J Casey N  Abarcas Niñas  Negro  BLACKC9999   31 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BSONQEI/?tag=tolees-21'
+descuento: '67.09'
+titulo: 'Geox J Casey N  Abarcas Niñas  Negro  BL'
 ---
 
 Está [Geox J Casey N  Abarcas Niñas  Negro  BLACKC9999   31 EU](https://www.amazon.es/dp/B01BSONQEI/?tag=tolees-21) con 67.09 de descuento por 21.39 EUR (original: 65 EUR) en el siguiente enlace!

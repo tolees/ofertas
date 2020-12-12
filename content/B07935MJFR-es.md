@@ -17,6 +17,9 @@ comparePrice: 11.3 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Pantalones Cortos de Estar por Casa con Decoración  Rosa  ES 40 / M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07935MJFR/?tag=tolees-21'
+descuento: '65.49'
+titulo: 'oodji Ultra Mujer Pantalones Cortos de E'
 ---
 
 Tienes [oodji Ultra Mujer Pantalones Cortos de Estar por Casa con Decoración  Rosa  ES 40 / M](https://www.amazon.es/dp/B07935MJFR/?tag=tolees-21) con un 65.49 % de descuento con precio de oferta de 3.9 EUR (original: 11.3 EUR) en el siguiente enlace!

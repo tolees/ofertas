@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'REPLAY Anbass Vaqueros Slim  Azul  Light Blue 11   W32/L36  Talla del Fabricante: 32  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJNYHN8/?tag=tolees-21'
+descuento: '73.83'
+titulo: 'REPLAY Anbass Vaqueros Slim  Azul  Light'
 ---
 
 Tienes [REPLAY Anbass Vaqueros Slim  Azul  Light Blue 11   W32/L36  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B07KJNYHN8/?tag=tolees-21) con un 73.83 % de descuento con precio de oferta de 31.14 EUR (original: 119 EUR) en el siguiente enlace!

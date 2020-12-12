@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Supra Zapatillas abotinadas  Blanco  EU 42.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011JIHPZO/?tag=tolees-21'
+descuento: '52.73'
+titulo: 'Supra Zapatillas abotinadas  Blanco  EU '
 ---
 
 Ahora mismo tienes [Supra Zapatillas abotinadas  Blanco  EU 42.5](https://www.amazon.es/dp/B011JIHPZO/?tag=tolees-21) a 51.95 EUR (original: 109.9 EUR) (52.73 %  de descuento) en el siguiente enlace!

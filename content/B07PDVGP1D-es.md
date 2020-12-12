@@ -17,6 +17,9 @@ comparePrice: 99.79 EUR
 inStock: true
 prodname: 'Wenquan Dispensador de Agua para Mascotas Simple Creativo Color:Leche Blanca '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PDVGP1D/?tag=tolees-21'
+descuento: '26.49'
+titulo: 'Wenquan Dispensador de Agua para Mascota'
 ---
 
 Ahora mismo tienes [Wenquan Dispensador de Agua para Mascotas Simple Creativo Color:Leche Blanca ](https://www.amazon.es/dp/B07PDVGP1D/?tag=tolees-21) a 73.36 EUR (original: 99.79 EUR) (26.49 %  de descuento) en el siguiente enlace!

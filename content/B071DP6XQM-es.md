@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'JACK & JONES Jcowind Knit Crew Neck Noos  Suéter para Hombre  Verde  Rosin Stripes:Knit Fit   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071DP6XQM/?tag=tolees-21'
+descuento: '46.88'
+titulo: 'JACK & JONES Jcowind Knit Crew Neck Noos'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcowind Knit Crew Neck Noos  Suéter para Hombre  Verde  Rosin Stripes:Knit Fit   Medium](https://www.amazon.es/dp/B071DP6XQM/?tag=tolees-21) a 21.22 EUR (original: 39.95 EUR) (46.88 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Luces Navidad a Pilas  2 x 4M Cadena de Luces 40 LEDs  Guirnaldas Luminosas LED para Exterior e Interior Impermeables Navidad Decorativas Blanco Cálido '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FVPMHVB/?tag=tolees-21'
+descuento: '31.27'
+titulo: 'Luces Navidad a Pilas  2 x 4M Cadena de '
 ---
 
 Está [Luces Navidad a Pilas  2 x 4M Cadena de Luces 40 LEDs  Guirnaldas Luminosas LED para Exterior e Interior Impermeables Navidad Decorativas Blanco Cálido ](https://www.amazon.es/dp/B07FVPMHVB/?tag=tolees-21) con 31.27 de descuento por 10.99 EUR (original: 15.99 EUR) en el siguiente enlace!

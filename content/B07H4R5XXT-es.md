@@ -17,6 +17,9 @@ comparePrice: 24.9 EUR
 inStock: true
 prodname: 'X-TIGER Hombres de Bicicleta con 5D Gel Acolchado MTB Ciclismo Pantalones Cortos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H4R5XXT/?tag=tolees-21'
+descuento: '37.79'
+titulo: 'X-TIGER Hombres de Bicicleta con 5D Gel '
 ---
 
 Está [X-TIGER Hombres de Bicicleta con 5D Gel Acolchado MTB Ciclismo Pantalones Cortos](https://www.amazon.es/dp/B07H4R5XXT/?tag=tolees-21) con 37.79 de descuento por 15.49 EUR (original: 24.9 EUR) en el siguiente enlace!

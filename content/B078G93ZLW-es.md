@@ -17,6 +17,9 @@ comparePrice: 189.9 EUR
 inStock: true
 prodname: 'BQ Aquaris U2 - Smartphone de 5.2"  Bluetooth 4.2  Qualcomm Snapdragon 435  32 GB de Memoria Interna  3 GB de RAM  cámara de 13 MP  Android 7.1.2 Nougat  Dual SIM  Negro carbón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078G93ZLW/?tag=tolees-21'
+descuento: '27.31'
+titulo: 'BQ Aquaris U2 - Smartphone de 5.2"  Blue'
 ---
 
 Tienes [BQ Aquaris U2 - Smartphone de 5.2"  Bluetooth 4.2  Qualcomm Snapdragon 435  32 GB de Memoria Interna  3 GB de RAM  cámara de 13 MP  Android 7.1.2 Nougat  Dual SIM  Negro carbón](https://www.amazon.es/dp/B078G93ZLW/?tag=tolees-21) con un 27.31 % de descuento con precio de oferta de 138.03 EUR (original: 189.9 EUR) en el siguiente enlace!

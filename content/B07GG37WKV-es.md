@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Laura Vita - 2637  Bolsos mochila Mujer  Blanco  9.5x25.5x20.0 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GG37WKV/?tag=tolees-21'
+descuento: '66.95'
+titulo: 'Laura Vita - 2637  Bolsos mochila Mujer '
 ---
 
 Ahora mismo tienes [Laura Vita - 2637  Bolsos mochila Mujer  Blanco  9.5x25.5x20.0 cm  W x H L ](https://www.amazon.es/dp/B07GG37WKV/?tag=tolees-21) a 26.44 EUR (original: 80 EUR) (66.95 %  de descuento) en el siguiente enlace!

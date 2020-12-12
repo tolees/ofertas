@@ -17,6 +17,9 @@ comparePrice: 33.4 EUR
 inStock: true
 prodname: 'Mobilis 042032 maletines para portátil 40 6 cm  16"  Mochila Negro - Funda  Mochila  40 6 cm  16"   650 g  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BCWZCFF/?tag=tolees-21'
+descuento: '55.42'
+titulo: 'Mobilis 042032 maletines para portátil 4'
 ---
 
 Está [Mobilis 042032 maletines para portátil 40 6 cm  16"  Mochila Negro - Funda  Mochila  40 6 cm  16"   650 g  Negro ](https://www.amazon.es/dp/B07BCWZCFF/?tag=tolees-21) con 55.42 de descuento por 14.89 EUR (original: 33.4 EUR) en el siguiente enlace!

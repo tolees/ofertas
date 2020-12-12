@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmzoe LS Tencel Bomber Jacket Ga Chaqueta  Marrón  Cedar Wood   34  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4EIFLF/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'Vero Moda Vmzoe LS Tencel Bomber Jacket '
 ---
 
 Ahora mismo tienes [Vero Moda Vmzoe LS Tencel Bomber Jacket Ga Chaqueta  Marrón  Cedar Wood   34  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B01N4EIFLF/?tag=tolees-21) a 24.97 EUR (original: 49.99 EUR) (50.05 %  de descuento) en el siguiente enlace!

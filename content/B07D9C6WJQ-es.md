@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'adidas X 18.4 FG  Zapatillas de Fútbol para Hombre  Negro  Core Black/Footwear White/Solid Grey 0   41 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9C6WJQ/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'adidas X 18.4 FG  Zapatillas de Fútbol p'
 ---
 
 Está [adidas X 18.4 FG  Zapatillas de Fútbol para Hombre  Negro  Core Black/Footwear White/Solid Grey 0   41 1/3 EU](https://www.amazon.es/dp/B07D9C6WJQ/?tag=tolees-21) con 50.05 de descuento por 27.45 EUR (original: 54.95 EUR) en el siguiente enlace!

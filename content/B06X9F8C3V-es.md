@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Tuscany Silver Pendientes con plata de ley chapados en rodio con circonita cúbica blanca y pendientes de rastrillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X9F8C3V/?tag=tolees-21'
+descuento: '67.27'
+titulo: 'Tuscany Silver Pendientes con plata de l'
 ---
 
 Ahora mismo tienes [Tuscany Silver Pendientes con plata de ley chapados en rodio con circonita cúbica blanca y pendientes de rastrillo](https://www.amazon.es/dp/B06X9F8C3V/?tag=tolees-21) a 27.82 EUR (original: 85 EUR) (67.27 %  de descuento) en el siguiente enlace!

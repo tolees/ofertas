@@ -17,6 +17,9 @@ comparePrice: 199.9 EUR
 inStock: true
 prodname: 'Avermedia 61C9850000AE - Tarjeta de Captura de vídeo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007UXJ6LE/?tag=tolees-21'
+descuento: '78.12'
+titulo: 'Avermedia 61C9850000AE - Tarjeta de Capt'
 ---
 
 Está [Avermedia 61C9850000AE - Tarjeta de Captura de vídeo](https://www.amazon.es/dp/B007UXJ6LE/?tag=tolees-21) con 78.12 de descuento por 43.74 EUR (original: 199.9 EUR) en el siguiente enlace!

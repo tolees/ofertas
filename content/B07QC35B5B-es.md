@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Diesel S-GIM-Hood-a Sweat-Shirt Capucha  Blanco  Bright White 100   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QC35B5B/?tag=tolees-21'
+descuento: '43.38'
+titulo: 'Diesel S-GIM-Hood-a Sweat-Shirt Capucha '
 ---
 
 Ahora mismo tienes [Diesel S-GIM-Hood-a Sweat-Shirt Capucha  Blanco  Bright White 100   Small para Hombre](https://www.amazon.es/dp/B07QC35B5B/?tag=tolees-21) a 67.95 EUR (original: 120 EUR) (43.38 %  de descuento) en el siguiente enlace!

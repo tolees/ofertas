@@ -17,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'VARTA CR 2450 - Pack de 2 Pilas  Litio  3V  570 mAh '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007FD64YQ/?tag=tolees-21'
+descuento: '28.92'
+titulo: 'VARTA CR 2450 - Pack de 2 Pilas  Litio  '
 ---
 
 Ahora mismo tienes [VARTA CR 2450 - Pack de 2 Pilas  Litio  3V  570 mAh ](https://www.amazon.es/dp/B007FD64YQ/?tag=tolees-21) a 6.39 EUR (original: 8.99 EUR) (28.92 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'New Balance 411  Zapatillas de Running para Hombre  Gris  Steel/Energy Red/Black Lg1   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079M6MSYQ/?tag=tolees-21'
+descuento: '45.08'
+titulo: 'New Balance 411  Zapatillas de Running p'
 ---
 
 Está [New Balance 411  Zapatillas de Running para Hombre  Gris  Steel/Energy Red/Black Lg1   42.5 EU](https://www.amazon.es/dp/B079M6MSYQ/?tag=tolees-21) con 45.08 de descuento por 27.46 EUR (original: 50 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 92517 Camiseta  Gris  Grey   Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SGJ5DG/?tag=tolees-21'
+descuento: '70.83'
+titulo: 'Springfield 92517 Camiseta  Gris  Grey  '
 ---
 
 Ahora mismo tienes [Springfield 92517 Camiseta  Gris  Grey   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B075SGJ5DG/?tag=tolees-21) a 7.58 EUR (original: 25.99 EUR) (70.83 %  de descuento) en el siguiente enlace!

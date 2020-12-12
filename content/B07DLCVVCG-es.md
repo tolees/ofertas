@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Women s Secret Helanka BAB  Braguita para Mujer   Rosa 71     Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLCVVCG/?tag=tolees-21'
+descuento: '63.74'
+titulo: 'Women s Secret Helanka BAB  Braguita par'
 ---
 
 Está [Women s Secret Helanka BAB  Braguita para Mujer   Rosa 71     Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLCVVCG/?tag=tolees-21) con 63.74 de descuento por 4.71 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'VAUDE Tecowrap II Accesorio  Unisex Adulto  Azul  Marine   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPDTF3V/?tag=tolees-21'
+descuento: '52.92'
+titulo: 'VAUDE Tecowrap II Accesorio  Unisex Adul'
 ---
 
 Está [VAUDE Tecowrap II Accesorio  Unisex Adulto  Azul  Marine   Talla Única](https://www.amazon.es/dp/B07DPDTF3V/?tag=tolees-21) con 52.92 de descuento por 11.77 EUR (original: 25 EUR) en el siguiente enlace!

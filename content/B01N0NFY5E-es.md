@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma 1948 Vulc  Zapatillas Unisex Adultos  Azul  True Blue/White   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0NFY5E/?tag=tolees-21'
+descuento: '61.73'
+titulo: 'Puma 1948 Vulc  Zapatillas Unisex Adulto'
 ---
 
 Tienes [Puma 1948 Vulc  Zapatillas Unisex Adultos  Azul  True Blue/White   37 EU](https://www.amazon.es/dp/B01N0NFY5E/?tag=tolees-21) con un 61.73 % de descuento con precio de oferta de 21.03 EUR (original: 54.95 EUR) en el siguiente enlace!

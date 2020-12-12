@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Sony MicroVault X 3.0 - Memoria USB de 64 GB  Rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JE5OLS4/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'Sony MicroVault X 3.0 - Memoria USB de 6'
 ---
 
 Tienes [Sony MicroVault X 3.0 - Memoria USB de 64 GB  Rosa](https://www.amazon.es/dp/B00JE5OLS4/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 8.98 EUR (original: 17.95 EUR) en el siguiente enlace!

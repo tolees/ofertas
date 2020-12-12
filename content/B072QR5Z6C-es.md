@@ -17,6 +17,9 @@ comparePrice: 94.99 EUR
 inStock: true
 prodname: 'adidas Campus  Zapatillas para Hombre  Rojo  Buruni / Ftwbla / Blatiz   42 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072QR5Z6C/?tag=tolees-21'
+descuento: '62.15'
+titulo: 'adidas Campus  Zapatillas para Hombre  R'
 ---
 
 Ahora mismo tienes [adidas Campus  Zapatillas para Hombre  Rojo  Buruni / Ftwbla / Blatiz   42 2/3 EU](https://www.amazon.es/dp/B072QR5Z6C/?tag=tolees-21) a 35.95 EUR (original: 94.99 EUR) (62.15 %  de descuento) en el siguiente enlace!

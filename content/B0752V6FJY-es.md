@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Deconstructed Mid Waist Skinny Jeans ajustados  Azul  dk Aged 9442-89   25W / 32L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0752V6FJY/?tag=tolees-21'
+descuento: '61.28'
+titulo: 'G-STAR RAW 3301 Deconstructed Mid Waist '
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Deconstructed Mid Waist Skinny Jeans ajustados  Azul  dk Aged 9442-89   25W / 32L para Mujer](https://www.amazon.es/dp/B0752V6FJY/?tag=tolees-21) a 38.7 EUR (original: 99.95 EUR) (61.28 %  de descuento) en el siguiente enlace!

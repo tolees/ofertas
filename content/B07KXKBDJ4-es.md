@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Rocksoff Vibradores - 1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KXKBDJ4/?tag=tolees-21'
+descuento: '60.56'
+titulo: 'Rocksoff Vibradores - 1 unidad'
 ---
 
 Ahora mismo tienes [Rocksoff Vibradores - 1 unidad](https://www.amazon.es/dp/B07KXKBDJ4/?tag=tolees-21) a 29.56 EUR (original: 74.95 EUR) (60.56 %  de descuento) en el siguiente enlace!

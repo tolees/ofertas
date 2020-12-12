@@ -17,6 +17,9 @@ comparePrice: 38.11 EUR
 inStock: true
 prodname: 'Bennigiry - Shorts - para Mujer Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNZ7Y24/?tag=tolees-21'
+descuento: '63.68'
+titulo: 'Bennigiry - Shorts - para Mujer Large'
 ---
 
 Ahora mismo tienes [Bennigiry - Shorts - para Mujer Large](https://www.amazon.es/dp/B07DNZ7Y24/?tag=tolees-21) a 13.84 EUR (original: 38.11 EUR) (63.68 %  de descuento) en el siguiente enlace!

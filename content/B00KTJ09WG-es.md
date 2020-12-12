@@ -17,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'Calvin Klein Underwear  Braguitas para Mujer  Negro  BLACK 001   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KTJ09WG/?tag=tolees-21'
+descuento: '36.39'
+titulo: 'Calvin Klein Underwear  Braguitas para M'
 ---
 
 Tienes [Calvin Klein Underwear  Braguitas para Mujer  Negro  BLACK 001   XL](https://www.amazon.es/dp/B00KTJ09WG/?tag=tolees-21) con un 36.39 % de descuento con precio de oferta de 11.45 EUR (original: 18 EUR) en el siguiente enlace!

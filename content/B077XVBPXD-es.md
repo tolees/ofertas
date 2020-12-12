@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Under Armour Sujetador Deportivo para Mujer  Mujer  1317110-001  Negro/Blanco  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XVBPXD/?tag=tolees-21'
+descuento: '35.17'
+titulo: 'Under Armour Sujetador Deportivo para Mu'
 ---
 
 Ahora mismo tienes [Under Armour Sujetador Deportivo para Mujer  Mujer  1317110-001  Negro/Blanco  X-Large](https://www.amazon.es/dp/B077XVBPXD/?tag=tolees-21) a 19.45 EUR (original: 30 EUR) (35.17 %  de descuento) en el siguiente enlace!

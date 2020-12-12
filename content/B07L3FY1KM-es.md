@@ -17,6 +17,9 @@ comparePrice: 34.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Hilfiger Stripe Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3FY1KM/?tag=tolees-21'
+descuento: '38.54'
+titulo: 'Tommy Hilfiger Hilfiger Stripe Beach San'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Hilfiger Stripe Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   42 EU](https://www.amazon.es/dp/B07L3FY1KM/?tag=tolees-21) a 21.45 EUR (original: 34.9 EUR) (38.54 %  de descuento) en el siguiente enlace!

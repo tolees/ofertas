@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Aurelie  Pantalones para Mujer    Blue 551   W28 Taille Fabricant M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRJ99V5/?tag=tolees-21'
+descuento: '40.94'
+titulo: 'Pepe Jeans Aurelie  Pantalones para Muje'
 ---
 
 Tienes [Pepe Jeans Aurelie  Pantalones para Mujer    Blue 551   W28 Taille Fabricant M](https://www.amazon.es/dp/B07CRJ99V5/?tag=tolees-21) con un 40.94 % de descuento con precio de oferta de 47.19 EUR (original: 79.9 EUR) en el siguiente enlace!

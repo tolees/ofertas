@@ -17,6 +17,9 @@ comparePrice: 229 EUR
 inStock: true
 prodname: 'Keter -  Conjunto de jardin de 4 plazas Tarifa Lounge con cojines incluidos  Color marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KVLK3E6/?tag=tolees-21'
+descuento: '27.97'
+titulo: 'Keter -  Conjunto de jardin de 4 plazas '
 ---
 
 Tienes [Keter -  Conjunto de jardin de 4 plazas Tarifa Lounge con cojines incluidos  Color marrón](https://www.amazon.es/dp/B00KVLK3E6/?tag=tolees-21) con un 27.97 % de descuento con precio de oferta de 164.95 EUR (original: 229 EUR) en el siguiente enlace!

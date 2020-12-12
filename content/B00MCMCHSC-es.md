@@ -17,6 +17,9 @@ comparePrice: 3.48 EUR
 inStock: true
 prodname: 'TY Zinger - juguetes de peluche  Marrón  - Peluche Frizzys Zinger Marrón 15 cm  Juguete Peluche A partir de 4 Años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MCMCHSC/?tag=tolees-21'
+descuento: '37.64'
+titulo: 'TY Zinger - juguetes de peluche  Marrón '
 ---
 
 Tienes [TY Zinger - juguetes de peluche  Marrón  - Peluche Frizzys Zinger Marrón 15 cm  Juguete Peluche A partir de 4 Años](https://www.amazon.es/dp/B00MCMCHSC/?tag=tolees-21) con un 37.64 % de descuento con precio de oferta de 2.17 EUR (original: 3.48 EUR) en el siguiente enlace!

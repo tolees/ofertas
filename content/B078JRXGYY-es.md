@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Swatch Reloj Analógico para Hombre de Cuarzo con Correa en Cuero YGS477'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078JRXGYY/?tag=tolees-21'
+descuento: '28.00'
+titulo: 'Swatch Reloj Analógico para Hombre de Cu'
 ---
 
 Tienes [Swatch Reloj Analógico para Hombre de Cuarzo con Correa en Cuero YGS477](https://www.amazon.es/dp/B078JRXGYY/?tag=tolees-21) con un 28.00 % de descuento con precio de oferta de 64.8 EUR (original: 90 EUR) en el siguiente enlace!

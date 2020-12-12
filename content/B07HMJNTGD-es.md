@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Mini Aireador Eléctrico para Vino de 1 Botón - WAERATOR Oxigenador Portátil para Vino  Respiradero con Tapón de Vacío para la Copa  Baterías no Incluidas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HMJNTGD/?tag=tolees-21'
+descuento: '57.51'
+titulo: 'Mini Aireador Eléctrico para Vino de 1 B'
 ---
 
 Está [Mini Aireador Eléctrico para Vino de 1 Botón - WAERATOR Oxigenador Portátil para Vino  Respiradero con Tapón de Vacío para la Copa  Baterías no Incluidas ](https://www.amazon.es/dp/B07HMJNTGD/?tag=tolees-21) con 57.51 de descuento por 16.99 EUR (original: 39.99 EUR) en el siguiente enlace!

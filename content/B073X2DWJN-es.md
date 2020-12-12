@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'FIND Blusa Estampada con Fruncido para Mujer  Negro  Black Mpr 279a   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073X2DWJN/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND Blusa Estampada con Fruncido para M'
 ---
 
 Tienes [FIND Blusa Estampada con Fruncido para Mujer  Negro  Black Mpr 279a   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B073X2DWJN/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 9 EUR (original: 30 EUR) en el siguiente enlace!

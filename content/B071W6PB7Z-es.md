@@ -17,6 +17,9 @@ comparePrice: 164.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger J1285ill 3c  Botas para Mujer  Rojo  Decadent Chocolate   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071W6PB7Z/?tag=tolees-21'
+descuento: '64.43'
+titulo: 'Tommy Hilfiger J1285ill 3c  Botas para M'
 ---
 
 Tienes [Tommy Hilfiger J1285ill 3c  Botas para Mujer  Rojo  Decadent Chocolate   39 EU](https://www.amazon.es/dp/B071W6PB7Z/?tag=tolees-21) con un 64.43 % de descuento con precio de oferta de 58.65 EUR (original: 164.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour UA W Precision Sport  Zapatillas de Deporte para Mujer  Negro  Black/Ivory   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076S9XWHN/?tag=tolees-21'
+descuento: '58.80'
+titulo: 'Under Armour UA W Precision Sport  Zapat'
 ---
 
 Está [Under Armour UA W Precision Sport  Zapatillas de Deporte para Mujer  Negro  Black/Ivory   38.5 EU](https://www.amazon.es/dp/B076S9XWHN/?tag=tolees-21) con 58.80 de descuento por 28.84 EUR (original: 70 EUR) en el siguiente enlace!

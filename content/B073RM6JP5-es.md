@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Reebok Zprint 3D  Zapatillas de Running para Mujer  Morado  Lilac Shadow/Fresh Blue/White/Pewter  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RM6JP5/?tag=tolees-21'
+descuento: '58.82'
+titulo: 'Reebok Zprint 3D  Zapatillas de Running '
 ---
 
 Tienes [Reebok Zprint 3D  Zapatillas de Running para Mujer  Morado  Lilac Shadow/Fresh Blue/White/Pewter  39 EU](https://www.amazon.es/dp/B073RM6JP5/?tag=tolees-21) con un 58.82 % de descuento con precio de oferta de 37.04 EUR (original: 89.95 EUR) en el siguiente enlace!

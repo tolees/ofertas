@@ -17,6 +17,9 @@ comparePrice: 43.45 EUR
 inStock: true
 prodname: 'Dorothy Perkins Lace Velvet Trim Pencil Skirt  Falda para Mujer  Negro  Black  50  Talla del Fabricante: 22 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HKS35DG/?tag=tolees-21'
+descuento: '52.17'
+titulo: 'Dorothy Perkins Lace Velvet Trim Pencil '
 ---
 
 Tienes [Dorothy Perkins Lace Velvet Trim Pencil Skirt  Falda para Mujer  Negro  Black  50  Talla del Fabricante: 22 ](https://www.amazon.es/dp/B07HKS35DG/?tag=tolees-21) con un 52.17 % de descuento con precio de oferta de 20.78 EUR (original: 43.45 EUR) en el siguiente enlace!

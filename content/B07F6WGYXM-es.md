@@ -17,6 +17,9 @@ comparePrice: 33.71 EUR
 inStock: true
 prodname: 'Wonderbra Fabulous Feel Padded Wireless Bra Sujetador  Negro  Noir 001   Talla del Fabricante: Taglia Produttore 100I para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F6WGYXM/?tag=tolees-21'
+descuento: '75.23'
+titulo: 'Wonderbra Fabulous Feel Padded Wireless '
 ---
 
 Está [Wonderbra Fabulous Feel Padded Wireless Bra Sujetador  Negro  Noir 001   Talla del Fabricante: Taglia Produttore 100I para Mujer](https://www.amazon.es/dp/B07F6WGYXM/?tag=tolees-21) con 75.23 de descuento por 8.35 EUR (original: 33.71 EUR) en el siguiente enlace!

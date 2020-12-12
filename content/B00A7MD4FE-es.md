@@ -17,6 +17,9 @@ comparePrice: 6.9 EUR
 inStock: true
 prodname: 'Legrand LEG50651 - Regleta de 4 enchufes  2P  6 A  posición lateral '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00A7MD4FE/?tag=tolees-21'
+descuento: '28.99'
+titulo: 'Legrand LEG50651 - Regleta de 4 enchufes'
 ---
 
 Ahora mismo tienes [Legrand LEG50651 - Regleta de 4 enchufes  2P  6 A  posición lateral ](https://www.amazon.es/dp/B00A7MD4FE/?tag=tolees-21) a 4.9 EUR (original: 6.9 EUR) (28.99 %  de descuento) en el siguiente enlace!

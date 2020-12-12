@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Clarks Step Beat Sun  Sandalias Punta Cerrada para Hombre  Negro  Black-   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQYC4HY/?tag=tolees-21'
+descuento: '30.12'
+titulo: 'Clarks Step Beat Sun  Sandalias Punta Ce'
 ---
 
 Ahora mismo tienes [Clarks Step Beat Sun  Sandalias Punta Cerrada para Hombre  Negro  Black-   47 EU](https://www.amazon.es/dp/B07FQYC4HY/?tag=tolees-21) a 38.4 EUR (original: 54.95 EUR) (30.12 %  de descuento) en el siguiente enlace!

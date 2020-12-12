@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Diesel Thommer L.32 Trousers Vaqueros Slim  Azul Blue Denim 01  W32/L32  Talla del Fabricante: 32  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MFYP97K/?tag=tolees-21'
+descuento: '45.15'
+titulo: 'Diesel Thommer L.32 Trousers Vaqueros Sl'
 ---
 
 Ahora mismo tienes [Diesel Thommer L.32 Trousers Vaqueros Slim  Azul Blue Denim 01  W32/L32  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B07MFYP97K/?tag=tolees-21) a 82.27 EUR (original: 150 EUR) (45.15 %  de descuento) en el siguiente enlace!

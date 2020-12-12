@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Ringke Fusion-X Compatible con Funda Galaxy S10 Ergonómico Transparente [Defensa Provista Caída Militar] Firme PC Back TPU Bumper Resistente Impactos Cover Galaxy S10  2019  - Negro Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N8QV5XN/?tag=tolees-21'
+descuento: '66.70'
+titulo: 'Ringke Fusion-X Compatible con Funda Gal'
 ---
 
 Ahora mismo tienes [Ringke Fusion-X Compatible con Funda Galaxy S10 Ergonómico Transparente [Defensa Provista Caída Militar] Firme PC Back TPU Bumper Resistente Impactos Cover Galaxy S10  2019  - Negro Black](https://www.amazon.es/dp/B07N8QV5XN/?tag=tolees-21) a 9.99 EUR (original: 30 EUR) (66.70 %  de descuento) en el siguiente enlace!

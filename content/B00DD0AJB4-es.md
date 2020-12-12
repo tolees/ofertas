@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'The Evil Within'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DD0AJB4/?tag=tolees-21'
+descuento: '28.71'
+titulo: 'The Evil Within'
 ---
 
 Está [The Evil Within](https://www.amazon.es/dp/B00DD0AJB4/?tag=tolees-21) con 28.71 de descuento por 14.25 EUR (original: 19.99 EUR) en el siguiente enlace!

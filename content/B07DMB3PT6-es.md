@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Supra Hammer Run  Zapatillas para Hombre  Gris  Lt Grey/Risk Red-White 051   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DMB3PT6/?tag=tolees-21'
+descuento: '52.86'
+titulo: 'Supra Hammer Run  Zapatillas para Hombre'
 ---
 
 Está [Supra Hammer Run  Zapatillas para Hombre  Gris  Lt Grey/Risk Red-White 051   41 EU](https://www.amazon.es/dp/B07DMB3PT6/?tag=tolees-21) con 52.86 de descuento por 32.95 EUR (original: 69.9 EUR) en el siguiente enlace!

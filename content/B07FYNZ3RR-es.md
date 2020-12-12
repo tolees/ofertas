@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Lee Mid Skirt  Falda para Mujer  Marfil  Simple Focus Zj  34  Talla del Fabricante: 28 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYNZ3RR/?tag=tolees-21'
+descuento: '78.11'
+titulo: 'Lee Mid Skirt  Falda para Mujer  Marfil '
 ---
 
 Está [Lee Mid Skirt  Falda para Mujer  Marfil  Simple Focus Zj  34  Talla del Fabricante: 28 ](https://www.amazon.es/dp/B07FYNZ3RR/?tag=tolees-21) con 78.11 de descuento por 14.23 EUR (original: 65 EUR) en el siguiente enlace!

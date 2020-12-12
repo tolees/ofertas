@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Galaxy S5 Funda  iDoer Retro Flor PU Cuero Wallet Cartera Silicona Card Slot Case Con Correa de Muñeca con Función de Soporte Magnética Cierre Carcasa Tapa Para Samsung Galaxy S5 / Neo Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCYVSV5/?tag=tolees-21'
+descuento: '77.80'
+titulo: 'Galaxy S5 Funda  iDoer Retro Flor PU Cue'
 ---
 
 Ahora mismo tienes [Galaxy S5 Funda  iDoer Retro Flor PU Cuero Wallet Cartera Silicona Card Slot Case Con Correa de Muñeca con Función de Soporte Magnética Cierre Carcasa Tapa Para Samsung Galaxy S5 / Neo Azul](https://www.amazon.es/dp/B06XCYVSV5/?tag=tolees-21) a 9.99 EUR (original: 45 EUR) (77.80 %  de descuento) en el siguiente enlace!

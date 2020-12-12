@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Rodilleras deportivas para hombres mujer corriendo  Le World Soporte de rodilla Rodillera de compresión Rodilleras de protección para Gimnasio  Deportes  Baloncesto  voleibol '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GB71G9Y/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Rodilleras deportivas para hombres mujer'
 ---
 
 Tienes [Rodilleras deportivas para hombres mujer corriendo  Le World Soporte de rodilla Rodillera de compresión Rodilleras de protección para Gimnasio  Deportes  Baloncesto  voleibol ](https://www.amazon.es/dp/B07GB71G9Y/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

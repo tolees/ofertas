@@ -17,6 +17,9 @@ comparePrice: 7.95 EUR
 inStock: true
 prodname: 'Philips bombilla LED esférica mate casquillo fino E14  7 W equivalentes a 60 W en incandescencia  830 lúmenes  luz blanca fría'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073JBZJDP/?tag=tolees-21'
+descuento: '27.30'
+titulo: 'Philips bombilla LED esférica mate casqu'
 ---
 
 Está [Philips bombilla LED esférica mate casquillo fino E14  7 W equivalentes a 60 W en incandescencia  830 lúmenes  luz blanca fría](https://www.amazon.es/dp/B073JBZJDP/?tag=tolees-21) con 27.30 de descuento por 5.78 EUR (original: 7.95 EUR) en el siguiente enlace!

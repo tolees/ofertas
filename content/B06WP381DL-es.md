@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Artic Freezer 33 Plus - Enfriador CPU  Semipasivo  2 Ventiladores F12 PWM  160 W TDP - Negro Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WP381DL/?tag=tolees-21'
+descuento: '52.38'
+titulo: 'Artic Freezer 33 Plus - Enfriador CPU  S'
 ---
 
 Tienes [Artic Freezer 33 Plus - Enfriador CPU  Semipasivo  2 Ventiladores F12 PWM  160 W TDP - Negro Gris](https://www.amazon.es/dp/B06WP381DL/?tag=tolees-21) con un 52.38 % de descuento con precio de oferta de 19 EUR (original: 39.9 EUR) en el siguiente enlace!

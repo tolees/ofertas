@@ -17,6 +17,9 @@ comparePrice: 46.56 EUR
 inStock: true
 prodname: 'Rochas Mademoiselle Rochas Perfume - 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XD5Y55S/?tag=tolees-21'
+descuento: '33.85'
+titulo: 'Rochas Mademoiselle Rochas Perfume - 50 '
 ---
 
 Tienes [Rochas Mademoiselle Rochas Perfume - 50 ml](https://www.amazon.es/dp/B06XD5Y55S/?tag=tolees-21) con un 33.85 % de descuento con precio de oferta de 30.8 EUR (original: 46.56 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour UA Charged Spark  Zapatillas de Running para Hombre  Azul  Midnight Navy/team Royal/metallic Silver    40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07743HRBL/?tag=tolees-21'
+descuento: '34.86'
+titulo: 'Under Armour UA Charged Spark  Zapatilla'
 ---
 
 Tienes [Under Armour UA Charged Spark  Zapatillas de Running para Hombre  Azul  Midnight Navy/team Royal/metallic Silver    40 EU](https://www.amazon.es/dp/B07743HRBL/?tag=tolees-21) con un 34.86 % de descuento con precio de oferta de 52.11 EUR (original: 80 EUR) en el siguiente enlace!

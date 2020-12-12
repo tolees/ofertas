@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Quiksilver 2/2mm Prologue S/SL Springsuit  Hombre  Jet Black/Nite Blue  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJSBMMC/?tag=tolees-21'
+descuento: '28.00'
+titulo: 'Quiksilver 2/2mm Prologue S/SL Springsui'
 ---
 
 Está [Quiksilver 2/2mm Prologue S/SL Springsuit  Hombre  Jet Black/Nite Blue  M](https://www.amazon.es/dp/B07KJSBMMC/?tag=tolees-21) con 28.00 de descuento por 57.59 EUR (original: 79.99 EUR) en el siguiente enlace!

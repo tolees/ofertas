@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Armour Ua Tech Ss Tee  Camiseta De Fitness Hombre  Rojo  Red   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007F3BGOE/?tag=tolees-21'
+descuento: '57.29'
+titulo: 'Under Armour Ua Tech Ss Tee  Camiseta De'
 ---
 
 Está [Under Armour Ua Tech Ss Tee  Camiseta De Fitness Hombre  Rojo  Red   XXL](https://www.amazon.es/dp/B007F3BGOE/?tag=tolees-21) con 57.29 de descuento por 11.96 EUR (original: 28 EUR) en el siguiente enlace!

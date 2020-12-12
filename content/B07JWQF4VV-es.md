@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma Incite FS Wns  Zapatillas de Deporte para Mujer  Rosa  Peach Bud White   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JWQF4VV/?tag=tolees-21'
+descuento: '33.87'
+titulo: 'Puma Incite FS Wns  Zapatillas de Deport'
 ---
 
 Ahora mismo tienes [Puma Incite FS Wns  Zapatillas de Deporte para Mujer  Rosa  Peach Bud White   40 EU](https://www.amazon.es/dp/B07JWQF4VV/?tag=tolees-21) a 42.95 EUR (original: 64.95 EUR) (33.87 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'El Ganso Caja Alta  Pantalones Para Hombre  Beige  Beige   44'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WRN6SXV/?tag=tolees-21'
+descuento: '63.68'
+titulo: 'El Ganso Caja Alta  Pantalones Para Homb'
 ---
 
 Tienes [El Ganso Caja Alta  Pantalones Para Hombre  Beige  Beige   44](https://www.amazon.es/dp/B06WRN6SXV/?tag=tolees-21) con un 63.68 % de descuento con precio de oferta de 30.87 EUR (original: 85 EUR) en el siguiente enlace!

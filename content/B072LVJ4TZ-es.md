@@ -17,6 +17,9 @@ comparePrice: 499 EUR
 inStock: true
 prodname: 'Cosatto Supa Dupa Sis y Bro 5 doble cochecito'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LVJ4TZ/?tag=tolees-21'
+descuento: '47.05'
+titulo: 'Cosatto Supa Dupa Sis y Bro 5 doble coch'
 ---
 
 Está [Cosatto Supa Dupa Sis y Bro 5 doble cochecito](https://www.amazon.es/dp/B072LVJ4TZ/?tag=tolees-21) con 47.05 de descuento por 264.22 EUR (original: 499 EUR) en el siguiente enlace!

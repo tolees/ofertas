@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'adidas Daily QT Clean  Zapatillas de Deporte para Mujer  Gris Carbon/Grmeva 000  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077VQPMZ8/?tag=tolees-21'
+descuento: '68.30'
+titulo: 'adidas Daily QT Clean  Zapatillas de Dep'
 ---
 
 Está [adidas Daily QT Clean  Zapatillas de Deporte para Mujer  Gris Carbon/Grmeva 000  36 EU](https://www.amazon.es/dp/B077VQPMZ8/?tag=tolees-21) con 68.30 de descuento por 20.59 EUR (original: 64.95 EUR) en el siguiente enlace!

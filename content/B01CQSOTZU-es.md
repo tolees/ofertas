@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam 1000  Botas de Nieve Hombre  Negro  Black   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CQSOTZU/?tag=tolees-21'
+descuento: '77.16'
+titulo: 'New Balance Fresh Foam 1000  Botas de Ni'
 ---
 
 Está [New Balance Fresh Foam 1000  Botas de Nieve Hombre  Negro  Black   42.5 EU](https://www.amazon.es/dp/B01CQSOTZU/?tag=tolees-21) con 77.16 de descuento por 31.98 EUR (original: 140 EUR) en el siguiente enlace!

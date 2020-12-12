@@ -17,6 +17,9 @@ comparePrice: 320 EUR
 inStock: true
 prodname: 'adidas REAL POWER ATTK LTD'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BCJ4TN5/?tag=tolees-21'
+descuento: '69.06'
+titulo: 'adidas REAL POWER ATTK LTD'
 ---
 
 Está [adidas REAL POWER ATTK LTD](https://www.amazon.es/dp/B07BCJ4TN5/?tag=tolees-21) con 69.06 de descuento por 99 EUR (original: 320 EUR) en el siguiente enlace!

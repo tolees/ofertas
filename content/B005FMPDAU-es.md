@@ -17,6 +17,9 @@ comparePrice: 23.95 EUR
 inStock: true
 prodname: 'Arena Athena Woman Hook Zapatos de Playa y Piscina  Mujer  Negro  Black/Deep Grey 055   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005FMPDAU/?tag=tolees-21'
+descuento: '36.28'
+titulo: 'Arena Athena Woman Hook Zapatos de Playa'
 ---
 
 Ahora mismo tienes [Arena Athena Woman Hook Zapatos de Playa y Piscina  Mujer  Negro  Black/Deep Grey 055   37 EU](https://www.amazon.es/dp/B005FMPDAU/?tag=tolees-21) a 15.26 EUR (original: 23.95 EUR) (36.28 %  de descuento) en el siguiente enlace!

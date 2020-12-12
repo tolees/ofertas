@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Columbia Bajada III  Zapatillas de Running para Asfalto para Hombre  Rojo  Bright Red/Lux   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071F2GDRL/?tag=tolees-21'
+descuento: '46.31'
+titulo: 'Columbia Bajada III  Zapatillas de Runni'
 ---
 
 Está [Columbia Bajada III  Zapatillas de Running para Asfalto para Hombre  Rojo  Bright Red/Lux   43 EU](https://www.amazon.es/dp/B071F2GDRL/?tag=tolees-21) con 46.31 de descuento por 59.03 EUR (original: 109.95 EUR) en el siguiente enlace!

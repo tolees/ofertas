@@ -17,6 +17,9 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'para Hombre Botas de Seguridad  Puntera de Acero  Calzado de Trabajo Tobillo Zapatillas Hiker Acero Mid Suela protección Negro Martillo 8821  41 EU / 7 UK  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CSQJLP8/?tag=tolees-21'
+descuento: '52.01'
+titulo: 'para Hombre Botas de Seguridad  Puntera '
 ---
 
 Tienes [para Hombre Botas de Seguridad  Puntera de Acero  Calzado de Trabajo Tobillo Zapatillas Hiker Acero Mid Suela protección Negro Martillo 8821  41 EU / 7 UK  Negro ](https://www.amazon.es/dp/B01CSQJLP8/?tag=tolees-21) con un 52.01 % de descuento con precio de oferta de 35.99 EUR (original: 74.99 EUR) en el siguiente enlace!

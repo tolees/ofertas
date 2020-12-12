@@ -17,6 +17,9 @@ comparePrice: 50.95 EUR
 inStock: true
 prodname: 'Izas Lee Pantalón Corto  Mujer  Gris  Dark Grey / Lemon   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XT1LYGT/?tag=tolees-21'
+descuento: '72.88'
+titulo: 'Izas Lee Pantalón Corto  Mujer  Gris  Da'
 ---
 
 Está [Izas Lee Pantalón Corto  Mujer  Gris  Dark Grey / Lemon   XL](https://www.amazon.es/dp/B06XT1LYGT/?tag=tolees-21) con 72.88 de descuento por 13.82 EUR (original: 50.95 EUR) en el siguiente enlace!

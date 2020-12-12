@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Wrangler Regular Fit Str Darkstone  Vaqueros para Hombre   Azule   36W / 34L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00K09HGQW/?tag=tolees-21'
+descuento: '76.20'
+titulo: 'Wrangler Regular Fit Str Darkstone  Vaqu'
 ---
 
 Tienes [Wrangler Regular Fit Str Darkstone  Vaqueros para Hombre   Azule   36W / 34L](https://www.amazon.es/dp/B00K09HGQW/?tag=tolees-21) con un 76.20 % de descuento con precio de oferta de 16.65 EUR (original: 69.95 EUR) en el siguiente enlace!

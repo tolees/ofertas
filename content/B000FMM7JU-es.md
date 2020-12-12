@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Severin Barbacoa Grill PG 2792 - Barbacoa de Pie  Superficie de Grill  41 x 26 cm  2.500 W  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000FMM7JU/?tag=tolees-21'
+descuento: '29.99'
+titulo: 'Severin Barbacoa Grill PG 2792 - Barbaco'
 ---
 
 Está [Severin Barbacoa Grill PG 2792 - Barbacoa de Pie  Superficie de Grill  41 x 26 cm  2.500 W  Negro](https://www.amazon.es/dp/B000FMM7JU/?tag=tolees-21) con 29.99 de descuento por 63 EUR (original: 89.99 EUR) en el siguiente enlace!

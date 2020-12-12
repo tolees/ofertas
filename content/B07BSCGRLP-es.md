@@ -17,6 +17,9 @@ comparePrice: 36.29 EUR
 inStock: true
 prodname: 'OCYCLONE Cargador Inalambrico Rápido  [2-Bobinas 10 W] Compatible para Galaxy S10/10+/10e/S9/S9+/S8/S8+/S7/Note9/8  para iPhone XS/XS Max/Xr/X/8/8 Plus y Teléfonos Qi-Enabled  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BSCGRLP/?tag=tolees-21'
+descuento: '39.40'
+titulo: 'OCYCLONE Cargador Inalambrico Rápido  [2'
 ---
 
 Está [OCYCLONE Cargador Inalambrico Rápido  [2-Bobinas 10 W] Compatible para Galaxy S10/10+/10e/S9/S9+/S8/S8+/S7/Note9/8  para iPhone XS/XS Max/Xr/X/8/8 Plus y Teléfonos Qi-Enabled  Negro](https://www.amazon.es/dp/B07BSCGRLP/?tag=tolees-21) con 39.40 de descuento por 21.99 EUR (original: 36.29 EUR) en el siguiente enlace!

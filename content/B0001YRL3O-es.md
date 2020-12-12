@@ -17,6 +17,9 @@ comparePrice: 59.49 EUR
 inStock: true
 prodname: 'Dickies D/Knee Work Pant Pantalones  Gris  Charcoal Ch     Tamaño del Fabricante:38/34  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0001YRL3O/?tag=tolees-21'
+descuento: '45.99'
+titulo: 'Dickies D/Knee Work Pant Pantalones  Gri'
 ---
 
 Está [Dickies D/Knee Work Pant Pantalones  Gris  Charcoal Ch     Tamaño del Fabricante:38/34  para Hombre](https://www.amazon.es/dp/B0001YRL3O/?tag=tolees-21) con 45.99 de descuento por 32.13 EUR (original: 59.49 EUR) en el siguiente enlace!

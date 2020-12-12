@@ -17,6 +17,9 @@ comparePrice: 18.56 EUR
 inStock: true
 prodname: 'arena 000001B352 Bañador  Niños  Turquesa/Blanco  12/13'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYOQIS0/?tag=tolees-21'
+descuento: '55.82'
+titulo: 'arena 000001B352 Bañador  Niños  Turques'
 ---
 
 Está [arena 000001B352 Bañador  Niños  Turquesa/Blanco  12/13](https://www.amazon.es/dp/B01LYOQIS0/?tag=tolees-21) con 55.82 de descuento por 8.2 EUR (original: 18.56 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Tanita KD320WH33 - Báscula de cocina con precisión de 0 1 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005SNMJ0I/?tag=tolees-21'
+descuento: '26.55'
+titulo: 'Tanita KD320WH33 - Báscula de cocina con'
 ---
 
 Ahora mismo tienes [Tanita KD320WH33 - Báscula de cocina con precisión de 0 1 g](https://www.amazon.es/dp/B005SNMJ0I/?tag=tolees-21) a 25.67 EUR (original: 34.95 EUR) (26.55 %  de descuento) en el siguiente enlace!

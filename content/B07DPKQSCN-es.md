@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'Burton Circuit Mfi Mascara  Hombre  Azul  Sonar infrare   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPKQSCN/?tag=tolees-21'
+descuento: '70.34'
+titulo: 'Burton Circuit Mfi Mascara  Hombre  Azul'
 ---
 
 Está [Burton Circuit Mfi Mascara  Hombre  Azul  Sonar infrare   Talla Única](https://www.amazon.es/dp/B07DPKQSCN/?tag=tolees-21) con 70.34 de descuento por 50.43 EUR (original: 170 EUR) en el siguiente enlace!

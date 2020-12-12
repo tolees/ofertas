@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance 697  Zapatillas de Running para Mujer  Negro  Black/Castlerock Tra   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R6VJDY/?tag=tolees-21'
+descuento: '66.91'
+titulo: 'New Balance 697  Zapatillas de Running p'
 ---
 
 Tienes [New Balance 697  Zapatillas de Running para Mujer  Negro  Black/Castlerock Tra   43 EU](https://www.amazon.es/dp/B075R6VJDY/?tag=tolees-21) con un 66.91 % de descuento con precio de oferta de 33.09 EUR (original: 100 EUR) en el siguiente enlace!

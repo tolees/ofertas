@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'ENKEEO Casco de Esquí Unisex  14 Salidas de Ventilación  Correa y Dial para Ajuste Fino  Forro y Orejeras Extragruesos  Compatible con Gafas de Esquí  Negro/L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HCBCT2M/?tag=tolees-21'
+descuento: '46.68'
+titulo: 'ENKEEO Casco de Esquí Unisex  14 Salidas'
 ---
 
 Tienes [ENKEEO Casco de Esquí Unisex  14 Salidas de Ventilación  Correa y Dial para Ajuste Fino  Forro y Orejeras Extragruesos  Compatible con Gafas de Esquí  Negro/L](https://www.amazon.es/dp/B07HCBCT2M/?tag=tolees-21) con un 46.68 % de descuento con precio de oferta de 15.99 EUR (original: 29.99 EUR) en el siguiente enlace!

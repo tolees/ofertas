@@ -17,6 +17,9 @@ comparePrice: 676.77 EUR
 inStock: true
 prodname: 'PIKOLIN Colchón viscoelástico 105x190 firmeza Alta de Gama Alta  Reversible  Varias Medidas  Alto 28 cm - Colchones Ábidos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBZB5D1/?tag=tolees-21'
+descuento: '28.00'
+titulo: 'PIKOLIN Colchón viscoelástico 105x190 fi'
 ---
 
 Está [PIKOLIN Colchón viscoelástico 105x190 firmeza Alta de Gama Alta  Reversible  Varias Medidas  Alto 28 cm - Colchones Ábidos](https://www.amazon.es/dp/B07LBZB5D1/?tag=tolees-21) con 28.00 de descuento por 487.27 EUR (original: 676.77 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 12.6 EUR
 inStock: true
 prodname: 'FIND Camiseta Mensaje para Hombre  Blanco  White 001   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073SCHNMK/?tag=tolees-21'
+descuento: '57.14'
+titulo: 'FIND Camiseta Mensaje para Hombre  Blanc'
 ---
 
 Está [FIND Camiseta Mensaje para Hombre  Blanco  White 001   Medium](https://www.amazon.es/dp/B073SCHNMK/?tag=tolees-21) con 57.14 de descuento por 5.4 EUR (original: 12.6 EUR) en el siguiente enlace!

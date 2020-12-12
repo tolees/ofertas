@@ -17,6 +17,9 @@ comparePrice: 28.47 EUR
 inStock: true
 prodname: 'La Roche Posay Lipikar Fluide Hydratant Crema - 750 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01A1C0X8K/?tag=tolees-21'
+descuento: '33.44'
+titulo: 'La Roche Posay Lipikar Fluide Hydratant '
 ---
 
 Está [La Roche Posay Lipikar Fluide Hydratant Crema - 750 ml](https://www.amazon.es/dp/B01A1C0X8K/?tag=tolees-21) con 33.44 de descuento por 18.95 EUR (original: 28.47 EUR) en el siguiente enlace!

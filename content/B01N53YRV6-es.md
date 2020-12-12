@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Fierce Lace Wn s  Zapatillas Deportivas para Interior para Mujer  Negro Black White 02  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N53YRV6/?tag=tolees-21'
+descuento: '73.96'
+titulo: 'Puma Fierce Lace Wn s  Zapatillas Deport'
 ---
 
 Tienes [Puma Fierce Lace Wn s  Zapatillas Deportivas para Interior para Mujer  Negro Black White 02  41 EU](https://www.amazon.es/dp/B01N53YRV6/?tag=tolees-21) con un 73.96 % de descuento con precio de oferta de 23.42 EUR (original: 89.95 EUR) en el siguiente enlace!

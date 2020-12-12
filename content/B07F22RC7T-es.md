@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Timberland Tidelands Classic 2 Eye  Náuticos para Hombre  Azul  Twilight Blue Xj4   50 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F22RC7T/?tag=tolees-21'
+descuento: '37.40'
+titulo: 'Timberland Tidelands Classic 2 Eye  Náut'
 ---
 
 Tienes [Timberland Tidelands Classic 2 Eye  Náuticos para Hombre  Azul  Twilight Blue Xj4   50 EU](https://www.amazon.es/dp/B07F22RC7T/?tag=tolees-21) con un 37.40 % de descuento con precio de oferta de 87.64 EUR (original: 140 EUR) en el siguiente enlace!

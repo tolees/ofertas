@@ -17,6 +17,9 @@ comparePrice: 10 EUR
 inStock: true
 prodname: 'NGS  Funky - Teclado USB [España]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016A4NLS2/?tag=tolees-21'
+descuento: '70.70'
+titulo: 'NGS  Funky - Teclado USB [España]'
 ---
 
 Está [NGS  Funky - Teclado USB [España]](https://www.amazon.es/dp/B016A4NLS2/?tag=tolees-21) con 70.70 de descuento por 2.93 EUR (original: 10 EUR) en el siguiente enlace!

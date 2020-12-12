@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Tom Tailor 5870203  Botas Slouch para Niñas  Beige  Camel 00070   25 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079H1PGCY/?tag=tolees-21'
+descuento: '68.69'
+titulo: 'Tom Tailor 5870203  Botas Slouch para Ni'
 ---
 
 Ahora mismo tienes [Tom Tailor 5870203  Botas Slouch para Niñas  Beige  Camel 00070   25 EU](https://www.amazon.es/dp/B079H1PGCY/?tag=tolees-21) a 12.51 EUR (original: 39.95 EUR) (68.69 %  de descuento) en el siguiente enlace!

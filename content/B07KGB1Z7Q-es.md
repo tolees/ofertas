@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'BOSS Boxer Brief 2p Solid  Naranja  Dark Orange 805   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGB1Z7Q/?tag=tolees-21'
+descuento: '68.66'
+titulo: 'BOSS Boxer Brief 2p Solid  Naranja  Dark'
 ---
 
 Tienes [BOSS Boxer Brief 2p Solid  Naranja  Dark Orange 805   Small para Hombre](https://www.amazon.es/dp/B07KGB1Z7Q/?tag=tolees-21) con un 68.66 % de descuento con precio de oferta de 12.52 EUR (original: 39.95 EUR) en el siguiente enlace!

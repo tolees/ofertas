@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Blanco  New Split Box Taba White 0369   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DDJ5QY1/?tag=tolees-21'
+descuento: '44.20'
+titulo: 'Levi s The Perfect Tee  Camiseta  Mujer '
 ---
 
 Está [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  New Split Box Taba White 0369   L](https://www.amazon.es/dp/B07DDJ5QY1/?tag=tolees-21) con 44.20 de descuento por 13.95 EUR (original: 25 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Springfield Polo Blanco 2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCWL25L/?tag=tolees-21'
+descuento: '56.68'
+titulo: 'Springfield Polo Blanco 2XL'
 ---
 
 Está [Springfield Polo Blanco 2XL](https://www.amazon.es/dp/B06XCWL25L/?tag=tolees-21) con 56.68 de descuento por 8.66 EUR (original: 19.99 EUR) en el siguiente enlace!

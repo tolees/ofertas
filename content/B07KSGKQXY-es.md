@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Under Armour Women s Blitzing Cap Gorra  Mujer  Negro  Black 001   L/XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSGKQXY/?tag=tolees-21'
+descuento: '61.64'
+titulo: 'Under Armour Women s Blitzing Cap Gorra '
 ---
 
 Está [Under Armour Women s Blitzing Cap Gorra  Mujer  Negro  Black 001   L/XL](https://www.amazon.es/dp/B07KSGKQXY/?tag=tolees-21) con 61.64 de descuento por 9.97 EUR (original: 25.99 EUR) en el siguiente enlace!

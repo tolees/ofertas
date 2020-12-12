@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Clarks Originals Ashton  Zapatos de Cordones Derby para Mujer  Verde Cactus Green  35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTK618P/?tag=tolees-21'
+descuento: '55.97'
+titulo: 'Clarks Originals Ashton  Zapatos de Cord'
 ---
 
 Está [Clarks Originals Ashton  Zapatos de Cordones Derby para Mujer  Verde Cactus Green  35.5 EU](https://www.amazon.es/dp/B07KTK618P/?tag=tolees-21) con 55.97 de descuento por 52.83 EUR (original: 120 EUR) en el siguiente enlace!

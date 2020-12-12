@@ -17,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'Puma Unisex Lifestyle Quarters 3P - Calcetines unisex  color Negro/Blanco/Rojo  talla 39-42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003WIZECG/?tag=tolees-21'
+descuento: '33.82'
+titulo: 'Puma Unisex Lifestyle Quarters 3P - Calc'
 ---
 
 Tienes [Puma Unisex Lifestyle Quarters 3P - Calcetines unisex  color Negro/Blanco/Rojo  talla 39-42 EU](https://www.amazon.es/dp/B003WIZECG/?tag=tolees-21) con un 33.82 % de descuento con precio de oferta de 5.95 EUR (original: 8.99 EUR) en el siguiente enlace!

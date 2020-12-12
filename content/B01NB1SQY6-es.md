@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Kappa Reloj de Hombre con Correa de Piel  indicación de Fecha día de la Semana GMT KP de 1434 m de D'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NB1SQY6/?tag=tolees-21'
+descuento: '76.77'
+titulo: 'Kappa Reloj de Hombre con Correa de Piel'
 ---
 
 Ahora mismo tienes [Kappa Reloj de Hombre con Correa de Piel  indicación de Fecha día de la Semana GMT KP de 1434 m de D](https://www.amazon.es/dp/B01NB1SQY6/?tag=tolees-21) a 29.97 EUR (original: 129 EUR) (76.77 %  de descuento) en el siguiente enlace!

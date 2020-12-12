@@ -17,6 +17,9 @@ comparePrice: 429.99 EUR
 inStock: true
 prodname: 'SuenosZzz Confort MAX Sillon DE Relax con Reclinación Manual  Relleno Color Gris Marengo  Butacas tapizado reclinable.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BH2LQ5F/?tag=tolees-21'
+descuento: '60.70'
+titulo: 'SuenosZzz Confort MAX Sillon DE Relax co'
 ---
 
 Ahora mismo tienes [SuenosZzz Confort MAX Sillon DE Relax con Reclinación Manual  Relleno Color Gris Marengo  Butacas tapizado reclinable.](https://www.amazon.es/dp/B07BH2LQ5F/?tag=tolees-21) a 168.99 EUR (original: 429.99 EUR) (60.70 %  de descuento) en el siguiente enlace!

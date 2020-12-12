@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'DC Shoes Heathrow Prestige  Zapatillas de Skateboard para Hombre  Azul  Navy/Khaki Nkh   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGMKP72/?tag=tolees-21'
+descuento: '61.34'
+titulo: 'DC Shoes Heathrow Prestige  Zapatillas d'
 ---
 
 Está [DC Shoes Heathrow Prestige  Zapatillas de Skateboard para Hombre  Azul  Navy/Khaki Nkh   40 EU](https://www.amazon.es/dp/B07DGMKP72/?tag=tolees-21) con 61.34 de descuento por 38.27 EUR (original: 99 EUR) en el siguiente enlace!

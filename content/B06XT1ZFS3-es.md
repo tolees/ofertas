@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Pepe Jeans Liza PL701101 Chaqueta Punto  Gris  Granite 971   Medium/Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XT1ZFS3/?tag=tolees-21'
+descuento: '72.25'
+titulo: 'Pepe Jeans Liza PL701101 Chaqueta Punto '
 ---
 
 Está [Pepe Jeans Liza PL701101 Chaqueta Punto  Gris  Granite 971   Medium/Large para Mujer](https://www.amazon.es/dp/B06XT1ZFS3/?tag=tolees-21) con 72.25 de descuento por 30.52 EUR (original: 110 EUR) en el siguiente enlace!

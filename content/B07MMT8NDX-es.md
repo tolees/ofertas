@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'CAMPER Runner Four  Zapatillas para Hombre  Gris  Medium Gray 30   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MMT8NDX/?tag=tolees-21'
+descuento: '70.05'
+titulo: 'CAMPER Runner Four  Zapatillas para Homb'
 ---
 
 Tienes [CAMPER Runner Four  Zapatillas para Hombre  Gris  Medium Gray 30   44 EU](https://www.amazon.es/dp/B07MMT8NDX/?tag=tolees-21) con un 70.05 % de descuento con precio de oferta de 32.95 EUR (original: 110 EUR) en el siguiente enlace!

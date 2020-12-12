@@ -17,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'Sorel Conquest  Botas para Hombre  Marrón  Bark 287   43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000BQKCWY/?tag=tolees-21'
+descuento: '54.76'
+titulo: 'Sorel Conquest  Botas para Hombre  Marró'
 ---
 
 Tienes [Sorel Conquest  Botas para Hombre  Marrón  Bark 287   43.5 EU](https://www.amazon.es/dp/B000BQKCWY/?tag=tolees-21) con un 54.76 % de descuento con precio de oferta de 76.9 EUR (original: 169.99 EUR) en el siguiente enlace!

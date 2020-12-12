@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'SteelSeries Rival 310 - Ratón de Juego óptico - iluminación RGB - 6 Botones - Laterales de Goma - Memoria integrada - PUBG'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H7MRK2Q/?tag=tolees-21'
+descuento: '64.97'
+titulo: 'SteelSeries Rival 310 - Ratón de Juego ó'
 ---
 
 Está [SteelSeries Rival 310 - Ratón de Juego óptico - iluminación RGB - 6 Botones - Laterales de Goma - Memoria integrada - PUBG](https://www.amazon.es/dp/B07H7MRK2Q/?tag=tolees-21) con 64.97 de descuento por 28.02 EUR (original: 79.99 EUR) en el siguiente enlace!

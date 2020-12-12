@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Set de 6 Perfumes de Primera Calidad en Caja de Regalo para Hombre  Eau de Toilette  .Formulados En Francia 15 ml Cada uno en Botella de Lujo con Caja y atomizador. 6 fragancias concentradas. ref25'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0117R3OBQ/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Set de 6 Perfumes de Primera Calidad en '
 ---
 
 Tienes [Set de 6 Perfumes de Primera Calidad en Caja de Regalo para Hombre  Eau de Toilette  .Formulados En Francia 15 ml Cada uno en Botella de Lujo con Caja y atomizador. 6 fragancias concentradas. ref25](https://www.amazon.es/dp/B0117R3OBQ/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

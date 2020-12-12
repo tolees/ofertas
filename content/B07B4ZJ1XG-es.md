@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Lynn D-mid Super Skinny Wmn - Vaqueros skinny Mujer  Azul  Rinsed 082   W24/L28'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4ZJ1XG/?tag=tolees-21'
+descuento: '86.87'
+titulo: 'G-STAR RAW Lynn D-mid Super Skinny Wmn -'
 ---
 
 Tienes [G-STAR RAW Lynn D-mid Super Skinny Wmn - Vaqueros skinny Mujer  Azul  Rinsed 082   W24/L28](https://www.amazon.es/dp/B07B4ZJ1XG/?tag=tolees-21) con un 86.87 % de descuento con precio de oferta de 15.75 EUR (original: 119.95 EUR) en el siguiente enlace!

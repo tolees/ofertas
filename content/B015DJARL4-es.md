@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Camelbak- Eddy Cardinal  Botella de agua  750 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015DJARL4/?tag=tolees-21'
+descuento: '38.72'
+titulo: 'Camelbak- Eddy Cardinal  Botella de agua'
 ---
 
 Está [Camelbak- Eddy Cardinal  Botella de agua  750 ml](https://www.amazon.es/dp/B015DJARL4/?tag=tolees-21) con 38.72 de descuento por 11 EUR (original: 17.95 EUR) en el siguiente enlace!

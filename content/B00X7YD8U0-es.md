@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'TT Esports Ventus X - Ratón láser'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00X7YD8U0/?tag=tolees-21'
+descuento: '59.94'
+titulo: 'TT Esports Ventus X - Ratón láser'
 ---
 
 Tienes [TT Esports Ventus X - Ratón láser](https://www.amazon.es/dp/B00X7YD8U0/?tag=tolees-21) con un 59.94 % de descuento con precio de oferta de 19.99 EUR (original: 49.9 EUR) en el siguiente enlace!

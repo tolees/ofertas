@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Woodln Smartwatch Recambio Muñeca Reemplazo Correa para Garmin Vivofit Fitness Activity Tracker  BLACK GREEN '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0787ZN1FJ/?tag=tolees-21'
+descuento: '47.53'
+titulo: 'Woodln Smartwatch Recambio Muñeca Reempl'
 ---
 
 Ahora mismo tienes [Woodln Smartwatch Recambio Muñeca Reemplazo Correa para Garmin Vivofit Fitness Activity Tracker  BLACK GREEN ](https://www.amazon.es/dp/B0787ZN1FJ/?tag=tolees-21) a 8.39 EUR (original: 15.99 EUR) (47.53 %  de descuento) en el siguiente enlace!

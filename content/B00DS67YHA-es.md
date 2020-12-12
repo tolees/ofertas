@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Vans Atwood - Zapatillas  Canvasmagenta / Ix 8  4.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DS67YHA/?tag=tolees-21'
+descuento: '41.25'
+titulo: 'Vans Atwood - Zapatillas  Canvasmagenta '
 ---
 
 Está [Vans Atwood - Zapatillas  Canvasmagenta / Ix 8  4.5](https://www.amazon.es/dp/B00DS67YHA/?tag=tolees-21) con 41.25 de descuento por 23.5 EUR (original: 40 EUR) en el siguiente enlace!

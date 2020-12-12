@@ -17,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Copa Menstrual Clásica - Certificada por la FDA - Bolsa de algodón de regalo - Alternativa a los tampones y compresas - Protección de la Higiene Femenina - Talla Pequeña - Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HWTF1QX/?tag=tolees-21'
+descuento: '33.36'
+titulo: 'Copa Menstrual Clásica - Certificada por'
 ---
 
 Ahora mismo tienes [Copa Menstrual Clásica - Certificada por la FDA - Bolsa de algodón de regalo - Alternativa a los tampones y compresas - Protección de la Higiene Femenina - Talla Pequeña - Color Negro](https://www.amazon.es/dp/B07HWTF1QX/?tag=tolees-21) a 7.99 EUR (original: 11.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

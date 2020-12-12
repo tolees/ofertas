@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Morton Vaqueros Rectos  Azul  Mid Blue Ro   34W / 36L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079K5CYZT/?tag=tolees-21'
+descuento: '70.04'
+titulo: 'Lee Morton Vaqueros Rectos  Azul  Mid Bl'
 ---
 
 Tienes [Lee Morton Vaqueros Rectos  Azul  Mid Blue Ro   34W / 36L para Hombre](https://www.amazon.es/dp/B079K5CYZT/?tag=tolees-21) con un 70.04 % de descuento con precio de oferta de 29.95 EUR (original: 99.95 EUR) en el siguiente enlace!

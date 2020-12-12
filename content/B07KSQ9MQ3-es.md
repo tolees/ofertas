@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Columbia ELM Creek Polo elástico  Hombre  Rosa  Rosewater   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSQ9MQ3/?tag=tolees-21'
+descuento: '41.36'
+titulo: 'Columbia ELM Creek Polo elástico  Hombre'
 ---
 
 Está [Columbia ELM Creek Polo elástico  Hombre  Rosa  Rosewater   XL](https://www.amazon.es/dp/B07KSQ9MQ3/?tag=tolees-21) con 41.36 de descuento por 23.45 EUR (original: 39.99 EUR) en el siguiente enlace!

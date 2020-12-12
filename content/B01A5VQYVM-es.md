@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'WORX WX479 Sierra de Calar Pendular  750 W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01A5VQYVM/?tag=tolees-21'
+descuento: '41.20'
+titulo: 'WORX WX479 Sierra de Calar Pendular  750'
 ---
 
 Tienes [WORX WX479 Sierra de Calar Pendular  750 W](https://www.amazon.es/dp/B01A5VQYVM/?tag=tolees-21) con un 41.20 % de descuento con precio de oferta de 49.95 EUR (original: 84.95 EUR) en el siguiente enlace!

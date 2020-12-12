@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma One 4 Syn FG Jr  Zapatillas de Fútbol Unisex Niños  Negro Black 02  28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DB1LKZ9/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'Puma One 4 Syn FG Jr  Zapatillas de Fútb'
 ---
 
 Ahora mismo tienes [Puma One 4 Syn FG Jr  Zapatillas de Fútbol Unisex Niños  Negro Black 02  28 EU](https://www.amazon.es/dp/B07DB1LKZ9/?tag=tolees-21) a 19.95 EUR (original: 39.95 EUR) (50.06 %  de descuento) en el siguiente enlace!

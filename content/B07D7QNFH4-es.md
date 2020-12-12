@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Straight Denton Chino Gmd Flex  Pantalones para Hombre  Azul  Vintage Indigo 462  W40/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7QNFH4/?tag=tolees-21'
+descuento: '44.45'
+titulo: 'Tommy Hilfiger Straight Denton Chino Gmd'
 ---
 
 Tienes [Tommy Hilfiger Straight Denton Chino Gmd Flex  Pantalones para Hombre  Azul  Vintage Indigo 462  W40/L32](https://www.amazon.es/dp/B07D7QNFH4/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 55.49 EUR (original: 99.9 EUR) en el siguiente enlace!

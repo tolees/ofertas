@@ -17,6 +17,9 @@ comparePrice: 27.6 EUR
 inStock: true
 prodname: 'Hoidokly USB C a HDMI Adaptador  4K@60Hz   HDMI a USB 3.1 Tipo C Thunderbolt 3 Compatible  para Pro/Macbook Air 2018 MacBook Pro 2018  Sumsung S9/S9+/S8/S8 Plus iMac 2017 Huawei P20/Mate20 Pro/Mate 10'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KW3FWZC/?tag=tolees-21'
+descuento: '42.07'
+titulo: 'Hoidokly USB C a HDMI Adaptador  4K@60Hz'
 ---
 
 Está [Hoidokly USB C a HDMI Adaptador  4K@60Hz   HDMI a USB 3.1 Tipo C Thunderbolt 3 Compatible  para Pro/Macbook Air 2018 MacBook Pro 2018  Sumsung S9/S9+/S8/S8 Plus iMac 2017 Huawei P20/Mate20 Pro/Mate 10](https://www.amazon.es/dp/B07KW3FWZC/?tag=tolees-21) con 42.07 de descuento por 15.99 EUR (original: 27.6 EUR) en el siguiente enlace!

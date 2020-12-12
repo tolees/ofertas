@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'BILLABONG Lennox Camiseta Deporte  Hombre  Azul  Navy 21   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079GHF8LK/?tag=tolees-21'
+descuento: '66.58'
+titulo: 'BILLABONG Lennox Camiseta Deporte  Hombr'
 ---
 
 Tienes [BILLABONG Lennox Camiseta Deporte  Hombre  Azul  Navy 21   Large](https://www.amazon.es/dp/B079GHF8LK/?tag=tolees-21) con un 66.58 % de descuento con precio de oferta de 18.38 EUR (original: 55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 42.19 EUR
 inStock: true
 prodname: 'SKYSPER Carretes de Baitcasting 11+1 Rodamientos de Bolas Carrete de Pesca Casting Mano Izquierda/Derecha Fibra de Carbono 6.3:1 Alta Velocidad con Sistema de Freno Magnético'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MHGHHG7/?tag=tolees-21'
+descuento: '40.77'
+titulo: 'SKYSPER Carretes de Baitcasting 11+1 Rod'
 ---
 
 Ahora mismo tienes [SKYSPER Carretes de Baitcasting 11+1 Rodamientos de Bolas Carrete de Pesca Casting Mano Izquierda/Derecha Fibra de Carbono 6.3:1 Alta Velocidad con Sistema de Freno Magnético](https://www.amazon.es/dp/B07MHGHHG7/?tag=tolees-21) a 24.99 EUR (original: 42.19 EUR) (40.77 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma One 3 Illuminate FG  Zapatillas de Fútbol para Hombre  Morado  Color Shift-Biscay Green White Black 01   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRHCDK2/?tag=tolees-21'
+descuento: '73.02'
+titulo: 'Puma One 3 Illuminate FG  Zapatillas de '
 ---
 
 Tienes [Puma One 3 Illuminate FG  Zapatillas de Fútbol para Hombre  Morado  Color Shift-Biscay Green White Black 01   41 EU](https://www.amazon.es/dp/B07CRHCDK2/?tag=tolees-21) con un 73.02 % de descuento con precio de oferta de 21.57 EUR (original: 79.95 EUR) en el siguiente enlace!

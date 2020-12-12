@@ -17,6 +17,9 @@ comparePrice: 23.87 EUR
 inStock: true
 prodname: 'Colorido Tablero De Dibujo Magnético Para Niños Niños  Letras Magnéticas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074W8PKS6/?tag=tolees-21'
+descuento: '53.29'
+titulo: 'Colorido Tablero De Dibujo Magnético Par'
 ---
 
 Está [Colorido Tablero De Dibujo Magnético Para Niños Niños  Letras Magnéticas ](https://www.amazon.es/dp/B074W8PKS6/?tag=tolees-21) con 53.29 de descuento por 11.15 EUR (original: 23.87 EUR) en el siguiente enlace!

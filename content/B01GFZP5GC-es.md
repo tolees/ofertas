@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Ultrasport Fort Lauderdale Strood Polo  Hombre  Blanco  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GFZP5GC/?tag=tolees-21'
+descuento: '68.03'
+titulo: 'Ultrasport Fort Lauderdale Strood Polo  '
 ---
 
 Tienes [Ultrasport Fort Lauderdale Strood Polo  Hombre  Blanco  S](https://www.amazon.es/dp/B01GFZP5GC/?tag=tolees-21) con un 68.03 % de descuento con precio de oferta de 7.99 EUR (original: 24.99 EUR) en el siguiente enlace!

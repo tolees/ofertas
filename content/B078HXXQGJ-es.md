@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Roxy Local In The Sky Top con Tirantes  Mujer  Rosa  Tropical Peach/Solid   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HXXQGJ/?tag=tolees-21'
+descuento: '77.92'
+titulo: 'Roxy Local In The Sky Top con Tirantes  '
 ---
 
 Tienes [Roxy Local In The Sky Top con Tirantes  Mujer  Rosa  Tropical Peach/Solid   L](https://www.amazon.es/dp/B078HXXQGJ/?tag=tolees-21) con un 77.92 % de descuento con precio de oferta de 8.83 EUR (original: 39.99 EUR) en el siguiente enlace!

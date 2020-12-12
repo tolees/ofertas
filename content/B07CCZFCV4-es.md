@@ -17,6 +17,9 @@ comparePrice: 169 EUR
 inStock: true
 prodname: 'Afuaim Tenor Ukulele Mate Sapele Ukulele Kit para Principiantes y Profesionales  26 pulgadas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CCZFCV4/?tag=tolees-21'
+descuento: '64.50'
+titulo: 'Afuaim Tenor Ukulele Mate Sapele Ukulele'
 ---
 
 Ahora mismo tienes [Afuaim Tenor Ukulele Mate Sapele Ukulele Kit para Principiantes y Profesionales  26 pulgadas ](https://www.amazon.es/dp/B07CCZFCV4/?tag=tolees-21) a 59.99 EUR (original: 169 EUR) (64.50 %  de descuento) en el siguiente enlace!

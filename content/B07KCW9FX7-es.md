@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Amzdeal Soporte de Fondo 2 * 3m con 3 Fondos Fotográficos 1.6 * 2m  Negro\Blanco\Verde  y 2 Pinzas para Fotografía versión  Medio Conjunto '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCW9FX7/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Amzdeal Soporte de Fondo 2 * 3m con 3 Fo'
 ---
 
 Ahora mismo tienes [Amzdeal Soporte de Fondo 2 * 3m con 3 Fondos Fotográficos 1.6 * 2m  Negro\Blanco\Verde  y 2 Pinzas para Fotografía versión  Medio Conjunto ](https://www.amazon.es/dp/B07KCW9FX7/?tag=tolees-21) a 34.99 EUR (original: 69.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

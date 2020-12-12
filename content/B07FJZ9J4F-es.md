@@ -17,6 +17,9 @@ comparePrice: 297.07 EUR
 inStock: true
 prodname: 'HP 25 X Monitor de Gaming 24.5 pollci  FHD 1920 x 1080  1 ms  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJZ9J4F/?tag=tolees-21'
+descuento: '33.01'
+titulo: 'HP 25 X Monitor de Gaming 24.5 pollci  F'
 ---
 
 Ahora mismo tienes [HP 25 X Monitor de Gaming 24.5 pollci  FHD 1920 x 1080  1 ms  Negro](https://www.amazon.es/dp/B07FJZ9J4F/?tag=tolees-21) a 199 EUR (original: 297.07 EUR) (33.01 %  de descuento) en el siguiente enlace!

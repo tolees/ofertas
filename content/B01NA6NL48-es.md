@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 027eo1e030  Vestido para Mujer  Rojo  Red 2  42  Talla del Fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NA6NL48/?tag=tolees-21'
+descuento: '68.47'
+titulo: 'ESPRIT Collection 027eo1e030  Vestido pa'
 ---
 
 Está [ESPRIT Collection 027eo1e030  Vestido para Mujer  Rojo  Red 2  42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B01NA6NL48/?tag=tolees-21) con 68.47 de descuento por 25.22 EUR (original: 79.99 EUR) en el siguiente enlace!

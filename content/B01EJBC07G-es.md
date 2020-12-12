@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Bunker Booty - botas con forro cálido de caña media y botines Mujer  Black  Black   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EJBC07G/?tag=tolees-21'
+descuento: '27.14'
+titulo: 'Bunker Booty - botas con forro cálido de'
 ---
 
 Ahora mismo tienes [Bunker Booty - botas con forro cálido de caña media y botines Mujer  Black  Black   37 EU](https://www.amazon.es/dp/B01EJBC07G/?tag=tolees-21) a 102 EUR (original: 140 EUR) (27.14 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.3 EUR
 inStock: true
 prodname: 'Addition concentré éclat auto-bronzant 15 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0772HT6RD/?tag=tolees-21'
+descuento: '51.56'
+titulo: 'Addition concentré éclat auto-bronzant 1'
 ---
 
 Está [Addition concentré éclat auto-bronzant 15 ml](https://www.amazon.es/dp/B0772HT6RD/?tag=tolees-21) con 51.56 de descuento por 17.1 EUR (original: 35.3 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Geox JR AXEL BOY A - Botas para niños  Beige  DK YELLOW/COFFEEC2266   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FXTWGJU/?tag=tolees-21'
+descuento: '75.41'
+titulo: 'Geox JR AXEL BOY A - Botas para niños  B'
 ---
 
 Está [Geox JR AXEL BOY A - Botas para niños  Beige  DK YELLOW/COFFEEC2266   35 EU](https://www.amazon.es/dp/B01FXTWGJU/?tag=tolees-21) con 75.41 de descuento por 20.9 EUR (original: 85 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Fundas para Pene Extensión  James Love Pene sleeve con Polla Anillos  Juguetes eróticos para Hombre   Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXOYI0Y/?tag=tolees-21'
+descuento: '52.20'
+titulo: 'Fundas para Pene Extensión  James Love P'
 ---
 
 Está [Fundas para Pene Extensión  James Love Pene sleeve con Polla Anillos  Juguetes eróticos para Hombre   Negro ](https://www.amazon.es/dp/B01MXOYI0Y/?tag=tolees-21) con 52.20 de descuento por 10.99 EUR (original: 22.99 EUR) en el siguiente enlace!

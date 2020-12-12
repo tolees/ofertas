@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Under Armour UA W Rapid  Zapatillas de Running para Mujer  Negro  Black/Ivory/ Metallic Faded Gold 004   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHBG4DN/?tag=tolees-21'
+descuento: '50.09'
+titulo: 'Under Armour UA W Rapid  Zapatillas de R'
 ---
 
 Ahora mismo tienes [Under Armour UA W Rapid  Zapatillas de Running para Mujer  Negro  Black/Ivory/ Metallic Faded Gold 004   40.5 EU](https://www.amazon.es/dp/B07BHBG4DN/?tag=tolees-21) a 27.45 EUR (original: 55 EUR) (50.09 %  de descuento) en el siguiente enlace!

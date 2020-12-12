@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Calvin Klein - Ck Mono Cardholder  Tarjeteros Hombre  Negro  Navy   7.8x1.2x11 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3C25XV/?tag=tolees-21'
+descuento: '54.21'
+titulo: 'Calvin Klein - Ck Mono Cardholder  Tarje'
 ---
 
 Ahora mismo tienes [Calvin Klein - Ck Mono Cardholder  Tarjeteros Hombre  Negro  Navy   7.8x1.2x11 cm  B x H T ](https://www.amazon.es/dp/B07L3C25XV/?tag=tolees-21) a 17.86 EUR (original: 39 EUR) (54.21 %  de descuento) en el siguiente enlace!

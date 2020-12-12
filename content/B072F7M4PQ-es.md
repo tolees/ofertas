@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Under Armour Speedform Gemini 3  Zapatillas de Entrenamiento para Hombre  Azul  Academy 400   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072F7M4PQ/?tag=tolees-21'
+descuento: '64.20'
+titulo: 'Under Armour Speedform Gemini 3  Zapatil'
 ---
 
 Ahora mismo tienes [Under Armour Speedform Gemini 3  Zapatillas de Entrenamiento para Hombre  Azul  Academy 400   45 EU](https://www.amazon.es/dp/B072F7M4PQ/?tag=tolees-21) a 42.96 EUR (original: 120 EUR) (64.20 %  de descuento) en el siguiente enlace!

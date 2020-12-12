@@ -17,6 +17,9 @@ comparePrice: 199.95 EUR
 inStock: true
 prodname: 'Desigual Abrig_Michelle  Verde  Kaki Oscuro 4086   44 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XNZ9BVC/?tag=tolees-21'
+descuento: '41.90'
+titulo: 'Desigual Abrig_Michelle  Verde  Kaki Osc'
 ---
 
 Tienes [Desigual Abrig_Michelle  Verde  Kaki Oscuro 4086   44 para Mujer](https://www.amazon.es/dp/B06XNZ9BVC/?tag=tolees-21) con un 41.90 % de descuento con precio de oferta de 116.17 EUR (original: 199.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Recent-Meroso  Zapatillas para Hombre  Marrón Chocolate  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVJXCJ9/?tag=tolees-21'
+descuento: '57.36'
+titulo: 'Skechers Recent-Meroso  Zapatillas para '
 ---
 
 Está [Skechers Recent-Meroso  Zapatillas para Hombre  Marrón Chocolate  45 EU](https://www.amazon.es/dp/B07CVJXCJ9/?tag=tolees-21) con 57.36 de descuento por 29.83 EUR (original: 69.95 EUR) en el siguiente enlace!

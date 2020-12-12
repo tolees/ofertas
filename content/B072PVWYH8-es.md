@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'DC Shoes Trase TX Se  Zapatillas para Mujer  Gris  Chambray   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072PVWYH8/?tag=tolees-21'
+descuento: '76.21'
+titulo: 'DC Shoes Trase TX Se  Zapatillas para Mu'
 ---
 
 Ahora mismo tienes [DC Shoes Trase TX Se  Zapatillas para Mujer  Gris  Chambray   36 EU](https://www.amazon.es/dp/B072PVWYH8/?tag=tolees-21) a 17.83 EUR (original: 74.95 EUR) (76.21 %  de descuento) en el siguiente enlace!

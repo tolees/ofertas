@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 247v1  Zapatillas para Mujer  Rojo  NB Scarlet/Gold HC   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFQYXMB/?tag=tolees-21'
+descuento: '45.51'
+titulo: 'New Balance 247v1  Zapatillas para Mujer'
 ---
 
 Está [New Balance 247v1  Zapatillas para Mujer  Rojo  NB Scarlet/Gold HC   40.5 EU](https://www.amazon.es/dp/B07DFQYXMB/?tag=tolees-21) con 45.51 de descuento por 49.04 EUR (original: 90 EUR) en el siguiente enlace!

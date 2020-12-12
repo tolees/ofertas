@@ -17,6 +17,9 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'ACTÍVATE – CAFEÍNA + TAURINA + ELEUTEROCOCO | Potente estimulante energético | Elimina la fatiga y Mejora la resistencia Física y la Concentración | Mejora y potencia el rendimiento Muscular | 60 Caps'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L375RQQ/?tag=tolees-21'
+descuento: '57.69'
+titulo: 'ACTÍVATE – CAFEÍNA + TAURINA + ELEUTEROC'
 ---
 
 Está [ACTÍVATE – CAFEÍNA + TAURINA + ELEUTEROCOCO | Potente estimulante energético | Elimina la fatiga y Mejora la resistencia Física y la Concentración | Mejora y potencia el rendimiento Muscular | 60 Caps](https://www.amazon.es/dp/B07L375RQQ/?tag=tolees-21) con 57.69 de descuento por 9.71 EUR (original: 22.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.87 EUR
 inStock: true
 prodname: 'Godagoda FFQ939 bolígrafo Vacuum BGA Componentes sucer aspirador de vacío lápiz de succion Manual con 3pcs ventosa herramientas de mano plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVKRFBR/?tag=tolees-21'
+descuento: '99.95'
+titulo: 'Godagoda FFQ939 bolígrafo Vacuum BGA Com'
 ---
 
 Está [Godagoda FFQ939 bolígrafo Vacuum BGA Componentes sucer aspirador de vacío lápiz de succion Manual con 3pcs ventosa herramientas de mano plata](https://www.amazon.es/dp/B07DVKRFBR/?tag=tolees-21) con 99.95 de descuento por 0.01 EUR (original: 19.87 EUR) en el siguiente enlace!

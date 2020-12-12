@@ -17,6 +17,9 @@ comparePrice: 66.38 EUR
 inStock: true
 prodname: 'Casio Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1302PD-7BVEF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0039YOGWW/?tag=tolees-21'
+descuento: '54.82'
+titulo: 'Casio Reloj Analogico para Hombre de Cua'
 ---
 
 Tienes [Casio Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1302PD-7BVEF](https://www.amazon.es/dp/B0039YOGWW/?tag=tolees-21) con un 54.82 % de descuento con precio de oferta de 29.99 EUR (original: 66.38 EUR) en el siguiente enlace!

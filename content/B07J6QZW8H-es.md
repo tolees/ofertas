@@ -17,6 +17,9 @@ comparePrice: 169.9 EUR
 inStock: true
 prodname: 'Liu Jo - Tiberina  cartera Mujer  Negro  Nero   11x19x27 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J6QZW8H/?tag=tolees-21'
+descuento: '47.82'
+titulo: 'Liu Jo - Tiberina  cartera Mujer  Negro '
 ---
 
 Tienes [Liu Jo - Tiberina  cartera Mujer  Negro  Nero   11x19x27 cm  B x H T ](https://www.amazon.es/dp/B07J6QZW8H/?tag=tolees-21) con un 47.82 % de descuento con precio de oferta de 88.66 EUR (original: 169.9 EUR) en el siguiente enlace!

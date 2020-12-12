@@ -17,6 +17,9 @@ comparePrice: 75.99 EUR
 inStock: true
 prodname: 'Quiksilver Verant  Zapatillas para Hombre  Rojo Blue/Red-Combo Xrbr  46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHTLR4X/?tag=tolees-21'
+descuento: '58.34'
+titulo: 'Quiksilver Verant  Zapatillas para Hombr'
 ---
 
 Ahora mismo tienes [Quiksilver Verant  Zapatillas para Hombre  Rojo Blue/Red-Combo Xrbr  46 EU](https://www.amazon.es/dp/B07DHTLR4X/?tag=tolees-21) a 31.66 EUR (original: 75.99 EUR) (58.34 %  de descuento) en el siguiente enlace!

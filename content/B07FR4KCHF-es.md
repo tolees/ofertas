@@ -17,6 +17,9 @@ comparePrice: 25.76 EUR
 inStock: true
 prodname: 'WiMaker Home - Afilador Esencial para Cuchillos de Cocina  Mini afilador de Cuchillos Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FR4KCHF/?tag=tolees-21'
+descuento: '53.88'
+titulo: 'WiMaker Home - Afilador Esencial para Cu'
 ---
 
 Ahora mismo tienes [WiMaker Home - Afilador Esencial para Cuchillos de Cocina  Mini afilador de Cuchillos Gris](https://www.amazon.es/dp/B07FR4KCHF/?tag=tolees-21) a 11.88 EUR (original: 25.76 EUR) (53.88 %  de descuento) en el siguiente enlace!

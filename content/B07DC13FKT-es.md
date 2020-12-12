@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Persist XT  Zapatillas de Deporte para Hombre  Negro Black  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC13FKT/?tag=tolees-21'
+descuento: '43.37'
+titulo: 'Puma Persist XT  Zapatillas de Deporte p'
 ---
 
 Ahora mismo tienes [Puma Persist XT  Zapatillas de Deporte para Hombre  Negro Black  43 EU](https://www.amazon.es/dp/B07DC13FKT/?tag=tolees-21) a 33.95 EUR (original: 59.95 EUR) (43.37 %  de descuento) en el siguiente enlace!

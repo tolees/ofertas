@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Bollé Freeze Máscaras  Unisex Adulto  Azul Mate  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7ZBJHR/?tag=tolees-21'
+descuento: '72.41'
+titulo: 'Bollé Freeze Máscaras  Unisex Adulto  Az'
 ---
 
 Ahora mismo tienes [Bollé Freeze Máscaras  Unisex Adulto  Azul Mate  M](https://www.amazon.es/dp/B07F7ZBJHR/?tag=tolees-21) a 8 EUR (original: 29 EUR) (72.41 %  de descuento) en el siguiente enlace!

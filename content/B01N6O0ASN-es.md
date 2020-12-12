@@ -17,6 +17,9 @@ comparePrice: 23.51 EUR
 inStock: true
 prodname: 'Los Siete Magníficos  4K Uhd  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6O0ASN/?tag=tolees-21'
+descuento: '39.22'
+titulo: 'Los Siete Magníficos  4K Uhd  [Blu-ray]'
 ---
 
 Está [Los Siete Magníficos  4K Uhd  [Blu-ray]](https://www.amazon.es/dp/B01N6O0ASN/?tag=tolees-21) con 39.22 de descuento por 14.29 EUR (original: 23.51 EUR) en el siguiente enlace!

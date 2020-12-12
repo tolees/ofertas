@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Vans_Apparel Classic  Camiseta para Hombre  Verde  Darkest Spruce-White Rqi  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C8WS7J5/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Vans_Apparel Classic  Camiseta para Homb'
 ---
 
 Tienes [Vans_Apparel Classic  Camiseta para Hombre  Verde  Darkest Spruce-White Rqi  Large](https://www.amazon.es/dp/B07C8WS7J5/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 15 EUR (original: 30 EUR) en el siguiente enlace!

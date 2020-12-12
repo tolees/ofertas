@@ -17,6 +17,9 @@ comparePrice: 36.3 EUR
 inStock: true
 prodname: 'Paladone PP4140PS  Lámpara "PlayStation"  Multicolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079CBP6P9/?tag=tolees-21'
+descuento: '37.19'
+titulo: 'Paladone PP4140PS  Lámpara "PlayStation"'
 ---
 
 Está [Paladone PP4140PS  Lámpara "PlayStation"  Multicolor](https://www.amazon.es/dp/B079CBP6P9/?tag=tolees-21) con 37.19 de descuento por 22.8 EUR (original: 36.3 EUR) en el siguiente enlace!
@@ -25,11 +28,11 @@ Está [Paladone PP4140PS  Lámpara "PlayStation"  Multicolor](https://www.amazon
 
 Principales características:
 
+- Medidas aprox. 30cm (w) x 5.6cm (d) x 9.5cm (h)
 - El embalaje puede variar de cualquier imagen mostrada
 - Mercancía 100% con licencia oficial
-- Medidas aprox. 30cm (w) x 5.6cm (d) x 9.5cm (h)
-- Requiere 3 x pilas aaa (no incluidas)
 - Cuenta con 3 modos; iluminación estándar, fase de color y música reactiva
+- Requiere 3 x pilas aaa (no incluidas)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079CBP6P9/?tag=tolees-21)
 

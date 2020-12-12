@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Fallout 76 para Xbox One - Edición Estándar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG3J77J/?tag=tolees-21'
+descuento: '31.56'
+titulo: 'Fallout 76 para Xbox One - Edición Están'
 ---
 
 Tienes [Fallout 76 para Xbox One - Edición Estándar](https://www.amazon.es/dp/B07DG3J77J/?tag=tolees-21) con un 31.56 % de descuento con precio de oferta de 47.9 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Dickies New York  Pantalones para Hombre   Camouflage CF     Tamaño del Fabricante:34/34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00H8PSE62/?tag=tolees-21'
+descuento: '55.17'
+titulo: 'Dickies New York  Pantalones para Hombre'
 ---
 
 Está [Dickies New York  Pantalones para Hombre   Camouflage CF     Tamaño del Fabricante:34/34 ](https://www.amazon.es/dp/B00H8PSE62/?tag=tolees-21) con 55.17 de descuento por 30.93 EUR (original: 69 EUR) en el siguiente enlace!

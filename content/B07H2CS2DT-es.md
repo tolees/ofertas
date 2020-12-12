@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Maison & White Paquete de 4 cajones de caja de almacenamiento para refrigerador | Frigorífico Bandeja De Frutas Y Verduras | Compartimentos adicionales universales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2CS2DT/?tag=tolees-21'
+descuento: '33.36'
+titulo: 'Maison & White Paquete de 4 cajones de c'
 ---
 
 Ahora mismo tienes [Maison & White Paquete de 4 cajones de caja de almacenamiento para refrigerador | Frigorífico Bandeja De Frutas Y Verduras | Compartimentos adicionales universales](https://www.amazon.es/dp/B07H2CS2DT/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

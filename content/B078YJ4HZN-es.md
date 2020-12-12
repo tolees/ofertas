@@ -17,6 +17,9 @@ comparePrice: 285 EUR
 inStock: true
 prodname: 'Jamara Ride on Mercedes SL65 12 V  Color Negro  460295 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078YJ4HZN/?tag=tolees-21'
+descuento: '46.64'
+titulo: 'Jamara Ride on Mercedes SL65 12 V  Color'
 ---
 
 Está [Jamara Ride on Mercedes SL65 12 V  Color Negro  460295 ](https://www.amazon.es/dp/B078YJ4HZN/?tag=tolees-21) con 46.64 de descuento por 152.08 EUR (original: 285 EUR) en el siguiente enlace!

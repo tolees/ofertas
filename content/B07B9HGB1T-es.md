@@ -17,6 +17,9 @@ comparePrice: 42.99 EUR
 inStock: true
 prodname: 'Pulsera Actividad Inteligente Impermeable IP68 Pantalla 0.96’’ a Color 14 Modalidades 12-15 días Monitor de Ritmo Cardíaco con Monitor de Calorías GPS con Captura de Cámara SNS para iOS y Android'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B9HGB1T/?tag=tolees-21'
+descuento: '27.91'
+titulo: 'Pulsera Actividad Inteligente Impermeabl'
 ---
 
 Ahora mismo tienes [Pulsera Actividad Inteligente Impermeable IP68 Pantalla 0.96’’ a Color 14 Modalidades 12-15 días Monitor de Ritmo Cardíaco con Monitor de Calorías GPS con Captura de Cámara SNS para iOS y Android](https://www.amazon.es/dp/B07B9HGB1T/?tag=tolees-21) a 30.99 EUR (original: 42.99 EUR) (27.91 %  de descuento) en el siguiente enlace!

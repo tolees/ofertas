@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Rayen 2010 - Colgador de Bolsos  33 x 112 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GN55MW2/?tag=tolees-21'
+descuento: '73.04'
+titulo: 'Rayen 2010 - Colgador de Bolsos  33 x 11'
 ---
 
 Tienes [Rayen 2010 - Colgador de Bolsos  33 x 112 cm](https://www.amazon.es/dp/B00GN55MW2/?tag=tolees-21) con un 73.04 % de descuento con precio de oferta de 4.3 EUR (original: 15.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Cortapelos Vello Nariz y Oreja - 3 en 1 Nariz/Ceja/Barba/Patillas Facial Trimmer Recortador de Cabello de Acero Inoxidable a Prueba de Agua Para Hombres y Mujeres  3 en 1 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GXMBXS2/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'Cortapelos Vello Nariz y Oreja - 3 en 1 '
 ---
 
 Tienes [Cortapelos Vello Nariz y Oreja - 3 en 1 Nariz/Ceja/Barba/Patillas Facial Trimmer Recortador de Cabello de Acero Inoxidable a Prueba de Agua Para Hombres y Mujeres  3 en 1 ](https://www.amazon.es/dp/B07GXMBXS2/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

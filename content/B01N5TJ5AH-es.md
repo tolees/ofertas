@@ -17,6 +17,9 @@ comparePrice: 157.29 EUR
 inStock: true
 prodname: 'Ballistix Sport LT BLS2C8G4D26BFSEK/BLS2K8G4D26BFSEK - Kit de memoria RAM de 16GB  8GB x 2  DDR4  2666 MT/s  PC4-21300  Single Rank x8  DIMM  288-Pin  rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5TJ5AH/?tag=tolees-21'
+descuento: '39.15'
+titulo: 'Ballistix Sport LT BLS2C8G4D26BFSEK/BLS2'
 ---
 
 Ahora mismo tienes [Ballistix Sport LT BLS2C8G4D26BFSEK/BLS2K8G4D26BFSEK - Kit de memoria RAM de 16GB  8GB x 2  DDR4  2666 MT/s  PC4-21300  Single Rank x8  DIMM  288-Pin  rojo](https://www.amazon.es/dp/B01N5TJ5AH/?tag=tolees-21) a 95.71 EUR (original: 157.29 EUR) (39.15 %  de descuento) en el siguiente enlace!

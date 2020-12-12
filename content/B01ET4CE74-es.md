@@ -17,6 +17,9 @@ comparePrice: 250 EUR
 inStock: true
 prodname: 'Helly Hansen Dublin Down Chaqueta de pluma  Hombre  Negro  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ET4CE74/?tag=tolees-21'
+descuento: '49.50'
+titulo: 'Helly Hansen Dublin Down Chaqueta de plu'
 ---
 
 Está [Helly Hansen Dublin Down Chaqueta de pluma  Hombre  Negro  M](https://www.amazon.es/dp/B01ET4CE74/?tag=tolees-21) con 49.50 de descuento por 126.26 EUR (original: 250 EUR) en el siguiente enlace!

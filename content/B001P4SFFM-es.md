@@ -17,6 +17,9 @@ comparePrice: 22.54 EUR
 inStock: true
 prodname: 'Calvados Père Magloire Fine 70Cl'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001P4SFFM/?tag=tolees-21'
+descuento: '32.74'
+titulo: 'Calvados Père Magloire Fine 70Cl'
 ---
 
 Ahora mismo tienes [Calvados Père Magloire Fine 70Cl](https://www.amazon.es/dp/B001P4SFFM/?tag=tolees-21) a 15.16 EUR (original: 22.54 EUR) (32.74 %  de descuento) en el siguiente enlace!

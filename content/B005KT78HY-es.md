@@ -17,6 +17,9 @@ comparePrice: 114.67 EUR
 inStock: true
 prodname: 'Faro Barcelona Galapago 33301 - Ventilador con luz  bombilla incluida   acero y palas de madera mdf'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005KT78HY/?tag=tolees-21'
+descuento: '51.09'
+titulo: 'Faro Barcelona Galapago 33301 - Ventilad'
 ---
 
 Ahora mismo tienes [Faro Barcelona Galapago 33301 - Ventilador con luz  bombilla incluida   acero y palas de madera mdf](https://www.amazon.es/dp/B005KT78HY/?tag=tolees-21) a 56.09 EUR (original: 114.67 EUR) (51.09 %  de descuento) en el siguiente enlace!

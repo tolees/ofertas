@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Burton Prospect Guantes De Snowboard  Hombre  Denim  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCZFF66/?tag=tolees-21'
+descuento: '58.07'
+titulo: 'Burton Prospect Guantes De Snowboard  Ho'
 ---
 
 Tienes [Burton Prospect Guantes De Snowboard  Hombre  Denim  S](https://www.amazon.es/dp/B06XCZFF66/?tag=tolees-21) con un 58.07 % de descuento con precio de oferta de 25.16 EUR (original: 60 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 439.52 EUR
 inStock: true
 prodname: 'Fiskars Cortacésped Manual StaySharp Max  Ancho de corte: 46 cm  Negro/Naranja/Plata  1000591'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004BDNHRK/?tag=tolees-21'
+descuento: '43.49'
+titulo: 'Fiskars Cortacésped Manual StaySharp Max'
 ---
 
 Está [Fiskars Cortacésped Manual StaySharp Max  Ancho de corte: 46 cm  Negro/Naranja/Plata  1000591](https://www.amazon.es/dp/B004BDNHRK/?tag=tolees-21) con 43.49 de descuento por 248.37 EUR (original: 439.52 EUR) en el siguiente enlace!

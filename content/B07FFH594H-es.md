@@ -17,6 +17,9 @@ comparePrice: 149.9 EUR
 inStock: true
 prodname: 'ThunderX3 PLEXUS800 - Fuente de alimentación para PC  800 W  iluminación RGB  Ventilador 14 cm  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFH594H/?tag=tolees-21'
+descuento: '26.62'
+titulo: 'ThunderX3 PLEXUS800 - Fuente de alimenta'
 ---
 
 Está [ThunderX3 PLEXUS800 - Fuente de alimentación para PC  800 W  iluminación RGB  Ventilador 14 cm  Color Negro](https://www.amazon.es/dp/B07FFH594H/?tag=tolees-21) con 26.62 de descuento por 109.99 EUR (original: 149.9 EUR) en el siguiente enlace!

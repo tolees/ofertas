@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Clarks Un Voyageplain  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B97NVYD/?tag=tolees-21'
+descuento: '52.92'
+titulo: 'Clarks Un Voyageplain  Zapatos de Cordon'
 ---
 
 Ahora mismo tienes [Clarks Un Voyageplain  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   42 EU](https://www.amazon.es/dp/B07B97NVYD/?tag=tolees-21) a 61.2 EUR (original: 130 EUR) (52.92 %  de descuento) en el siguiente enlace!

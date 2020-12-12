@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Caja para Relojes de Madera Estuche para Relojes y joyeros con 10 Compartimentos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3WPR15/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Caja para Relojes de Madera Estuche para'
 ---
 
 Está [Caja para Relojes de Madera Estuche para Relojes y joyeros con 10 Compartimentos](https://www.amazon.es/dp/B07N3WPR15/?tag=tolees-21) con 40.01 de descuento por 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!

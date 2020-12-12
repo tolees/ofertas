@@ -17,6 +17,9 @@ comparePrice: 12.84 EUR
 inStock: true
 prodname: 'ZEP Caracas Red Portafotos Múltiple  Rojo  10x15'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M0VD3MT/?tag=tolees-21'
+descuento: '29.36'
+titulo: 'ZEP Caracas Red Portafotos Múltiple  Roj'
 ---
 
 Está [ZEP Caracas Red Portafotos Múltiple  Rojo  10x15](https://www.amazon.es/dp/B01M0VD3MT/?tag=tolees-21) con 29.36 de descuento por 9.07 EUR (original: 12.84 EUR) en el siguiente enlace!

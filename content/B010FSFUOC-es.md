@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Milles Vestido Largo Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B010FSFUOC/?tag=tolees-21'
+descuento: '88.27'
+titulo: 'Milles Vestido Largo Única'
 ---
 
 Está [Milles Vestido Largo Única](https://www.amazon.es/dp/B010FSFUOC/?tag=tolees-21) con 88.27 de descuento por 11.14 EUR (original: 95 EUR) en el siguiente enlace!

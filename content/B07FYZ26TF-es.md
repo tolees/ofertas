@@ -17,6 +17,9 @@ comparePrice: 76.56 EUR
 inStock: true
 prodname: 'Reebok Flexile  Zapatillas de Deporte para Hombre   Shark/Blk/Lemon Zest/Wht 000   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYZ26TF/?tag=tolees-21'
+descuento: '64.73'
+titulo: 'Reebok Flexile  Zapatillas de Deporte pa'
 ---
 
 Tienes [Reebok Flexile  Zapatillas de Deporte para Hombre   Shark/Blk/Lemon Zest/Wht 000   44 EU](https://www.amazon.es/dp/B07FYZ26TF/?tag=tolees-21) con un 64.73 % de descuento con precio de oferta de 27 EUR (original: 76.56 EUR) en el siguiente enlace!

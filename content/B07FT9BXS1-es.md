@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Scarlett Cropped Vaqueros Skinny  Azul  Fresh Neo Ml   W29/L35 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FT9BXS1/?tag=tolees-21'
+descuento: '82.92'
+titulo: 'Lee Scarlett Cropped Vaqueros Skinny  Az'
 ---
 
 Ahora mismo tienes [Lee Scarlett Cropped Vaqueros Skinny  Azul  Fresh Neo Ml   W29/L35 para Mujer](https://www.amazon.es/dp/B07FT9BXS1/?tag=tolees-21) a 15.36 EUR (original: 89.95 EUR) (82.92 %  de descuento) en el siguiente enlace!

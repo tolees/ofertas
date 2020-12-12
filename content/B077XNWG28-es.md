@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Under Armour - Sudadera con Capucha para Hombre  Estilo Deportivo  Hombre  1323397-035  Steel/Black  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XNWG28/?tag=tolees-21'
+descuento: '70.11'
+titulo: 'Under Armour - Sudadera con Capucha para'
 ---
 
 Tienes [Under Armour - Sudadera con Capucha para Hombre  Estilo Deportivo  Hombre  1323397-035  Steel/Black  Medium](https://www.amazon.es/dp/B077XNWG28/?tag=tolees-21) con un 70.11 % de descuento con precio de oferta de 13.45 EUR (original: 45 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 249.9 EUR
 inStock: true
 prodname: 'BQ Aquaris V Plus - Smartphone DE 5.5"  WiFi  3 GB de RAM  32 GB de Memoria Interna  Bluetooth 4.2  cámara DE 12 MP Big Pixel  Dual Nano-SIM  Android 7.1.2 Nougat   Deep Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RQRXM5/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'BQ Aquaris V Plus - Smartphone DE 5.5"  '
 ---
 
 Ahora mismo tienes [BQ Aquaris V Plus - Smartphone DE 5.5"  WiFi  3 GB de RAM  32 GB de Memoria Interna  Bluetooth 4.2  cámara DE 12 MP Big Pixel  Dual Nano-SIM  Android 7.1.2 Nougat   Deep Black](https://www.amazon.es/dp/B075RQRXM5/?tag=tolees-21) a 124.97 EUR (original: 249.9 EUR) (49.99 %  de descuento) en el siguiente enlace!

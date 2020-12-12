@@ -17,6 +17,9 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'Campingaz Kühlelement Freeze Pack Cans Acumulador Frio  6 latas  Unisex  Azul  22 x 10.50 x 5 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000S8JOLA/?tag=tolees-21'
+descuento: '73.16'
+titulo: 'Campingaz Kühlelement Freeze Pack Cans A'
 ---
 
 Ahora mismo tienes [Campingaz Kühlelement Freeze Pack Cans Acumulador Frio  6 latas  Unisex  Azul  22 x 10.50 x 5 cm](https://www.amazon.es/dp/B000S8JOLA/?tag=tolees-21) a 2.95 EUR (original: 10.99 EUR) (73.16 %  de descuento) en el siguiente enlace!

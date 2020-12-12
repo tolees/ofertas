@@ -17,6 +17,9 @@ comparePrice: 64.99 EUR
 inStock: true
 prodname: 'arena W One Piece Bañador Bodylift Mujer Jewel Copa b  Black-Rose Violet  40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D721YRQ/?tag=tolees-21'
+descuento: '82.38'
+titulo: 'arena W One Piece Bañador Bodylift Mujer'
 ---
 
 Ahora mismo tienes [arena W One Piece Bañador Bodylift Mujer Jewel Copa b  Black-Rose Violet  40](https://www.amazon.es/dp/B07D721YRQ/?tag=tolees-21) a 11.45 EUR (original: 64.99 EUR) (82.38 %  de descuento) en el siguiente enlace!

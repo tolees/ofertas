@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Oflamn Mochila para Ordenador portátil con Puerto de Carga USB College Bookbag Vintage Unisex Mochila Casual Fit 15.6"Laptop  Gris '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GXF34V5/?tag=tolees-21'
+descuento: '77.80'
+titulo: 'Oflamn Mochila para Ordenador portátil c'
 ---
 
 Está [Oflamn Mochila para Ordenador portátil con Puerto de Carga USB College Bookbag Vintage Unisex Mochila Casual Fit 15.6"Laptop  Gris ](https://www.amazon.es/dp/B07GXF34V5/?tag=tolees-21) con 77.80 de descuento por 9.99 EUR (original: 45 EUR) en el siguiente enlace!

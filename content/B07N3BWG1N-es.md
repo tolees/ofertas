@@ -17,6 +17,9 @@ comparePrice: 85.9 EUR
 inStock: true
 prodname: 'Munich GRESCA  Zapatillas de Deporte Unisex Adulto   Verde 276   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3BWG1N/?tag=tolees-21'
+descuento: '44.34'
+titulo: 'Munich GRESCA  Zapatillas de Deporte Uni'
 ---
 
 Ahora mismo tienes [Munich GRESCA  Zapatillas de Deporte Unisex Adulto   Verde 276   44 EU](https://www.amazon.es/dp/B07N3BWG1N/?tag=tolees-21) a 47.81 EUR (original: 85.9 EUR) (44.34 %  de descuento) en el siguiente enlace!

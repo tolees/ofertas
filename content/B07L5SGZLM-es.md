@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio para Hombre  Medium  Grey '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L5SGZLM/?tag=tolees-21'
+descuento: '57.57'
+titulo: 'Charles Wilson Sudadera con Cremallera C'
 ---
 
 Tienes [Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio para Hombre  Medium  Grey ](https://www.amazon.es/dp/B07L5SGZLM/?tag=tolees-21) con un 57.57 % de descuento con precio de oferta de 16.95 EUR (original: 39.95 EUR) en el siguiente enlace!

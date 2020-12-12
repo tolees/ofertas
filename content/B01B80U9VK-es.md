@@ -17,6 +17,9 @@ comparePrice: 350 EUR
 inStock: true
 prodname: 'Helly Hansen Rigging Shell Jacket  Hombre  Negro  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B80U9VK/?tag=tolees-21'
+descuento: '49.44'
+titulo: 'Helly Hansen Rigging Shell Jacket  Hombr'
 ---
 
 Tienes [Helly Hansen Rigging Shell Jacket  Hombre  Negro  XL](https://www.amazon.es/dp/B01B80U9VK/?tag=tolees-21) con un 49.44 % de descuento con precio de oferta de 176.95 EUR (original: 350 EUR) en el siguiente enlace!

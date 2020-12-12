@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'kimfoxes altavoz Bluetooth LED cambio de color Lámpara Regulable Touch Luz nocturna lámpara de mesa decoración luz de ambiente Luz de repetición atmósfera Mood Light 022 Dormir de luz lámpara de mesa lámpara de escritorio lámpara de mesa noche mesa lámpara'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06W2MDVH7/?tag=tolees-21'
+descuento: '56.69'
+titulo: 'kimfoxes altavoz Bluetooth LED cambio de'
 ---
 
 Tienes [kimfoxes altavoz Bluetooth LED cambio de color Lámpara Regulable Touch Luz nocturna lámpara de mesa decoración luz de ambiente Luz de repetición atmósfera Mood Light 022 Dormir de luz lámpara de mesa lámpara de escritorio lámpara de mesa noche mesa lámpara](https://www.amazon.es/dp/B06W2MDVH7/?tag=tolees-21) con un 56.69 % de descuento con precio de oferta de 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

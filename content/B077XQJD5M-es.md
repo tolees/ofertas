@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour Sportstyle Left Chest SS Camiseta  Hombre  Marrón  City Khaki/Black 299   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XQJD5M/?tag=tolees-21'
+descuento: '40.15'
+titulo: 'Under Armour Sportstyle Left Chest SS Ca'
 ---
 
 Está [Under Armour Sportstyle Left Chest SS Camiseta  Hombre  Marrón  City Khaki/Black 299   XL](https://www.amazon.es/dp/B077XQJD5M/?tag=tolees-21) con 40.15 de descuento por 15.56 EUR (original: 26 EUR) en el siguiente enlace!

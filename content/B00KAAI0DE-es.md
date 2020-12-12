@@ -17,6 +17,9 @@ comparePrice: 25.32 EUR
 inStock: true
 prodname: 'Stedman Apparel Classic/ST2000-Camiseta Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KAAI0DE/?tag=tolees-21'
+descuento: '71.48'
+titulo: 'Stedman Apparel Classic/ST2000-Camiseta '
 ---
 
 Tienes [Stedman Apparel Classic/ST2000-Camiseta Hombre](https://www.amazon.es/dp/B00KAAI0DE/?tag=tolees-21) con un 71.48 % de descuento con precio de oferta de 7.22 EUR (original: 25.32 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Nike Wmns Md Runner 2  Zapatillas Mujer  Negro  Black / Black-White   40.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PZ8ZND6/?tag=tolees-21'
+descuento: '40.78'
+titulo: 'Nike Wmns Md Runner 2  Zapatillas Mujer '
 ---
 
 Ahora mismo tienes [Nike Wmns Md Runner 2  Zapatillas Mujer  Negro  Black / Black-White   40.5](https://www.amazon.es/dp/B00PZ8ZND6/?tag=tolees-21) a 38.49 EUR (original: 65 EUR) (40.78 %  de descuento) en el siguiente enlace!

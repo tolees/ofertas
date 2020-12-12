@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Originals Funda para portátiles 15 Inch - Negro/Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M6KPMY4/?tag=tolees-21'
+descuento: '59.98'
+titulo: 'adidas Originals Funda para portátiles 1'
 ---
 
 Ahora mismo tienes [adidas Originals Funda para portátiles 15 Inch - Negro/Blanco](https://www.amazon.es/dp/B07M6KPMY4/?tag=tolees-21) a 19.99 EUR (original: 49.95 EUR) (59.98 %  de descuento) en el siguiente enlace!

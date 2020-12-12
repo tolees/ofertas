@@ -17,6 +17,9 @@ comparePrice: 16 EUR
 inStock: true
 prodname: 'Sedeta Coche plumero cepillo Limpiador de microfibra para polvo de lavado Limpieza del hogar Lavado de Brusher Ventana de vidrio de oficina sofá'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HZ9BN2/?tag=tolees-21'
+descuento: '63.87'
+titulo: 'Sedeta Coche plumero cepillo Limpiador d'
 ---
 
 Está [Sedeta Coche plumero cepillo Limpiador de microfibra para polvo de lavado Limpieza del hogar Lavado de Brusher Ventana de vidrio de oficina sofá](https://www.amazon.es/dp/B077HZ9BN2/?tag=tolees-21) con 63.87 de descuento por 5.78 EUR (original: 16 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Hummel HMLSTREET Play Ball  Unisex niños  Amarillo Safety/Azul Oscuro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQKG42V/?tag=tolees-21'
+descuento: '48.30'
+titulo: 'Hummel HMLSTREET Play Ball  Unisex niños'
 ---
 
 Está [Hummel HMLSTREET Play Ball  Unisex niños  Amarillo Safety/Azul Oscuro](https://www.amazon.es/dp/B07KQKG42V/?tag=tolees-21) con 48.30 de descuento por 12.9 EUR (original: 24.95 EUR) en el siguiente enlace!

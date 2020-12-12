@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Quiksilver Secret Ingredient T-Shirt  Hombre  Blue Nights  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJZGR4L/?tag=tolees-21'
+descuento: '45.22'
+titulo: 'Quiksilver Secret Ingredient T-Shirt  Ho'
 ---
 
 Ahora mismo tienes [Quiksilver Secret Ingredient T-Shirt  Hombre  Blue Nights  XL](https://www.amazon.es/dp/B07KJZGR4L/?tag=tolees-21) a 10.95 EUR (original: 19.99 EUR) (45.22 %  de descuento) en el siguiente enlace!

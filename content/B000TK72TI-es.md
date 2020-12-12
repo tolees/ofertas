@@ -17,6 +17,9 @@ comparePrice: 15.11 EUR
 inStock: true
 prodname: 'Esselte Carpeta colgante reforzada  Tamaño A4  Cartón kraft reciclado  Visor de plástico transparente  Colores surtidos  Classic  93042  Caja de 10'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000TK72TI/?tag=tolees-21'
+descuento: '52.68'
+titulo: 'Esselte Carpeta colgante reforzada  Tama'
 ---
 
 Tienes [Esselte Carpeta colgante reforzada  Tamaño A4  Cartón kraft reciclado  Visor de plástico transparente  Colores surtidos  Classic  93042  Caja de 10](https://www.amazon.es/dp/B000TK72TI/?tag=tolees-21) con un 52.68 % de descuento con precio de oferta de 7.15 EUR (original: 15.11 EUR) en el siguiente enlace!

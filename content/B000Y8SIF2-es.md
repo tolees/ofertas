@@ -17,6 +17,9 @@ comparePrice: 17.67 EUR
 inStock: true
 prodname: 'RST - R.s.t. tacto suave bordeadora llana 6 x 3 pulgadas 8308'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000Y8SIF2/?tag=tolees-21'
+descuento: '64.91'
+titulo: 'RST - R.s.t. tacto suave bordeadora llan'
 ---
 
 Está [RST - R.s.t. tacto suave bordeadora llana 6 x 3 pulgadas 8308](https://www.amazon.es/dp/B000Y8SIF2/?tag=tolees-21) con 64.91 de descuento por 6.2 EUR (original: 17.67 EUR) en el siguiente enlace!

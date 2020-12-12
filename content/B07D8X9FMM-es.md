@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Sabrinas Manchester  Bailarinas con Punta Cerrada para Mujer   Negro/Cuero/Estampado 014   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8X9FMM/?tag=tolees-21'
+descuento: '84.53'
+titulo: 'Sabrinas Manchester  Bailarinas con Punt'
 ---
 
 Tienes [Sabrinas Manchester  Bailarinas con Punta Cerrada para Mujer   Negro/Cuero/Estampado 014   39 EU](https://www.amazon.es/dp/B07D8X9FMM/?tag=tolees-21) con un 84.53 % de descuento con precio de oferta de 13.77 EUR (original: 89 EUR) en el siguiente enlace!

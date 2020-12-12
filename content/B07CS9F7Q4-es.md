@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Brunas  suéter para Mujer    Bisque 178  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CS9F7Q4/?tag=tolees-21'
+descuento: '74.88'
+titulo: 'Pepe Jeans Brunas  suéter para Mujer    '
 ---
 
 Tienes [Pepe Jeans Brunas  suéter para Mujer    Bisque 178  Small](https://www.amazon.es/dp/B07CS9F7Q4/?tag=tolees-21) con un 74.88 % de descuento con precio de oferta de 20.07 EUR (original: 79.9 EUR) en el siguiente enlace!

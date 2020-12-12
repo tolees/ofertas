@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma One 4 Syn SG  Zapatillas de Fútbol para Hombre  Plateado Silver-Shocking Orange Black 01  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ8VDZL/?tag=tolees-21'
+descuento: '64.13'
+titulo: 'Puma One 4 Syn SG  Zapatillas de Fútbol '
 ---
 
 Tienes [Puma One 4 Syn SG  Zapatillas de Fútbol para Hombre  Plateado Silver-Shocking Orange Black 01  44 EU](https://www.amazon.es/dp/B07CZ8VDZL/?tag=tolees-21) con un 64.13 % de descuento con precio de oferta de 19.71 EUR (original: 54.95 EUR) en el siguiente enlace!

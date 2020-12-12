@@ -17,6 +17,9 @@ comparePrice: 259 EUR
 inStock: true
 prodname: 'Pierre Cardin PC106042S02 - Reloj de cuarzo para mujer  Swiss Made'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X93Y1HX/?tag=tolees-21'
+descuento: '73.01'
+titulo: 'Pierre Cardin PC106042S02 - Reloj de cua'
 ---
 
 Está [Pierre Cardin PC106042S02 - Reloj de cuarzo para mujer  Swiss Made](https://www.amazon.es/dp/B06X93Y1HX/?tag=tolees-21) con 73.01 de descuento por 69.9 EUR (original: 259 EUR) en el siguiente enlace!

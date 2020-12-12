@@ -17,6 +17,9 @@ comparePrice: 63.15 EUR
 inStock: true
 prodname: 'MSV ESTANTERIA BAJO Lavabo con 1 Barra TOALLERA DE Metal Cromado  Acero Inoxidable  Plateado  66.5x34x54.5 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IK33VWS/?tag=tolees-21'
+descuento: '51.56'
+titulo: 'MSV ESTANTERIA BAJO Lavabo con 1 Barra T'
 ---
 
 Tienes [MSV ESTANTERIA BAJO Lavabo con 1 Barra TOALLERA DE Metal Cromado  Acero Inoxidable  Plateado  66.5x34x54.5 cm](https://www.amazon.es/dp/B00IK33VWS/?tag=tolees-21) con un 51.56 % de descuento con precio de oferta de 30.59 EUR (original: 63.15 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Burton Clingman Pantalones Cortos  Hombre  Weeds  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGN84RF/?tag=tolees-21'
+descuento: '62.03'
+titulo: 'Burton Clingman Pantalones Cortos  Hombr'
 ---
 
 Está [Burton Clingman Pantalones Cortos  Hombre  Weeds  L](https://www.amazon.es/dp/B07KGN84RF/?tag=tolees-21) con 62.03 de descuento por 28.48 EUR (original: 75 EUR) en el siguiente enlace!

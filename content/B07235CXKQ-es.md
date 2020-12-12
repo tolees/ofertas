@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour UA Magnetico Select FG  Zapatillas de Fútbol para Hombre  Amarillo  Metallic Faded Gold   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07235CXKQ/?tag=tolees-21'
+descuento: '78.46'
+titulo: 'Under Armour UA Magnetico Select FG  Zap'
 ---
 
 Ahora mismo tienes [Under Armour UA Magnetico Select FG  Zapatillas de Fútbol para Hombre  Amarillo  Metallic Faded Gold   42.5 EU](https://www.amazon.es/dp/B07235CXKQ/?tag=tolees-21) a 17.23 EUR (original: 80 EUR) (78.46 %  de descuento) en el siguiente enlace!

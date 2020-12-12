@@ -17,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'Scotch & Soda Maison S/S Tee In Various Stripes_138543  Camiseta para Mujer  Multicolor  Combo A 17   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XG9NH6T/?tag=tolees-21'
+descuento: '52.30'
+titulo: 'Scotch & Soda Maison S/S Tee In Various '
 ---
 
 Tienes [Scotch & Soda Maison S/S Tee In Various Stripes_138543  Camiseta para Mujer  Multicolor  Combo A 17   Small](https://www.amazon.es/dp/B06XG9NH6T/?tag=tolees-21) con un 52.30 % de descuento con precio de oferta de 21.92 EUR (original: 45.95 EUR) en el siguiente enlace!

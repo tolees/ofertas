@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Woxter Stinger Laptop Cooler Vacuum - Base de Refrigeración y Extracción de aire para portátiles  38dBA 7 Tonos de iluminación USB Control de velocidad y compatible con la mayoría de portátiles  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M5H5BTC/?tag=tolees-21'
+descuento: '27.87'
+titulo: 'Woxter Stinger Laptop Cooler Vacuum - Ba'
 ---
 
 Ahora mismo tienes [Woxter Stinger Laptop Cooler Vacuum - Base de Refrigeración y Extracción de aire para portátiles  38dBA 7 Tonos de iluminación USB Control de velocidad y compatible con la mayoría de portátiles  negro](https://www.amazon.es/dp/B01M5H5BTC/?tag=tolees-21) a 9.37 EUR (original: 12.99 EUR) (27.87 %  de descuento) en el siguiente enlace!

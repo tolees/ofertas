@@ -17,6 +17,9 @@ comparePrice: 33.64 EUR
 inStock: true
 prodname: 'Bahco 4211-14-6T - Serruchos P/Podar 14'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000QCWY7Y/?tag=tolees-21'
+descuento: '72.50'
+titulo: 'Bahco 4211-14-6T - Serruchos P/Podar 14'
 ---
 
 Está [Bahco 4211-14-6T - Serruchos P/Podar 14](https://www.amazon.es/dp/B000QCWY7Y/?tag=tolees-21) con 72.50 de descuento por 9.25 EUR (original: 33.64 EUR) en el siguiente enlace!

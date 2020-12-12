@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Pacer EVO  Zapatillas Unisex Adulto  Azul Peacoat 03  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MQKK6ZV/?tag=tolees-21'
+descuento: '63.37'
+titulo: 'Puma Pacer EVO  Zapatillas Unisex Adulto'
 ---
 
 Está [Puma Pacer EVO  Zapatillas Unisex Adulto  Azul Peacoat 03  44.5 EU](https://www.amazon.es/dp/B01MQKK6ZV/?tag=tolees-21) con 63.37 de descuento por 21.96 EUR (original: 59.95 EUR) en el siguiente enlace!

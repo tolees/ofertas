@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Space Junkies'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NQQ7XBH/?tag=tolees-21'
+descuento: '57.42'
+titulo: 'Space Junkies'
 ---
 
 Ahora mismo tienes [Space Junkies](https://www.amazon.es/dp/B07NQQ7XBH/?tag=tolees-21) a 14.9 EUR (original: 34.99 EUR) (57.42 %  de descuento) en el siguiente enlace!

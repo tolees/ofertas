@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Alcatel 3L - Smartphone DE 5.5"  Memoria Interna DE 16 GB  RAM de 2 GB  Display TFT HD+ 18:9  cámara DE 16 MP  Android 8.0  Oreo    Azul Metalizado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CXHLXBR/?tag=tolees-21'
+descuento: '27.69'
+titulo: 'Alcatel 3L - Smartphone DE 5.5"  Memoria'
 ---
 
 Está [Alcatel 3L - Smartphone DE 5.5"  Memoria Interna DE 16 GB  RAM de 2 GB  Display TFT HD+ 18:9  cámara DE 16 MP  Android 8.0  Oreo    Azul Metalizado](https://www.amazon.es/dp/B07CXHLXBR/?tag=tolees-21) con 27.69 de descuento por 86.76 EUR (original: 119.99 EUR) en el siguiente enlace!

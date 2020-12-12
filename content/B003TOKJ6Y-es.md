@@ -17,6 +17,9 @@ comparePrice: 34.51 EUR
 inStock: true
 prodname: 'BRA Efficient - Sartén 20 cm  aluminio fundido con antiadherente Teflon Platinum Plus  apta para todo tipo de cocinas incluida inducción  libre de PFOA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003TOKJ6Y/?tag=tolees-21'
+descuento: '34.80'
+titulo: 'BRA Efficient - Sartén 20 cm  aluminio f'
 ---
 
 Tienes [BRA Efficient - Sartén 20 cm  aluminio fundido con antiadherente Teflon Platinum Plus  apta para todo tipo de cocinas incluida inducción  libre de PFOA](https://www.amazon.es/dp/B003TOKJ6Y/?tag=tolees-21) con un 34.80 % de descuento con precio de oferta de 22.5 EUR (original: 34.51 EUR) en el siguiente enlace!

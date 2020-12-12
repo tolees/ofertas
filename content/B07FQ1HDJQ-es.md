@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'RIP CURL High Seas Jacket Chaqueta  Mujer  Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQ1HDJQ/?tag=tolees-21'
+descuento: '36.99'
+titulo: 'RIP CURL High Seas Jacket Chaqueta  Muje'
 ---
 
 Ahora mismo tienes [RIP CURL High Seas Jacket Chaqueta  Mujer  Black  M](https://www.amazon.es/dp/B07FQ1HDJQ/?tag=tolees-21) a 63 EUR (original: 99.99 EUR) (36.99 %  de descuento) en el siguiente enlace!

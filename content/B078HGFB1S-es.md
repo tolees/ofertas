@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 273554 Camisa Casual  Hombre  Azul  Gamma Azules   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HGFB1S/?tag=tolees-21'
+descuento: '63.39'
+titulo: 'Springfield 273554 Camisa Casual  Hombre'
 ---
 
 Está [Springfield 273554 Camisa Casual  Hombre  Azul  Gamma Azules   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B078HGFB1S/?tag=tolees-21) con 63.39 de descuento por 10.98 EUR (original: 29.99 EUR) en el siguiente enlace!

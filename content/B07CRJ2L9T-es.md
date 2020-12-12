@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Pepe Jeans Andrea  Camiseta para Mujer    Steel Blue 563  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRJ2L9T/?tag=tolees-21'
+descuento: '38.00'
+titulo: 'Pepe Jeans Andrea  Camiseta para Mujer  '
 ---
 
 Tienes [Pepe Jeans Andrea  Camiseta para Mujer    Steel Blue 563  Small](https://www.amazon.es/dp/B07CRJ2L9T/?tag=tolees-21) con un 38.00 % de descuento con precio de oferta de 15.5 EUR (original: 25 EUR) en el siguiente enlace!

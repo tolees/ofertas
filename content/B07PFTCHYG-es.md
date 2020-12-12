@@ -17,6 +17,9 @@ comparePrice: 41.99 EUR
 inStock: true
 prodname: 'BANLVS Humidificador Aromaterapia Ultrasónico 400ML  Difusor de Aceites Esenciales de 7-Color LED y 4 Temporizador  Humidificador Aromaterapia para Bebé Oficina Dormitorio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PFTCHYG/?tag=tolees-21'
+descuento: '35.72'
+titulo: 'BANLVS Humidificador Aromaterapia Ultras'
 ---
 
 Está [BANLVS Humidificador Aromaterapia Ultrasónico 400ML  Difusor de Aceites Esenciales de 7-Color LED y 4 Temporizador  Humidificador Aromaterapia para Bebé Oficina Dormitorio](https://www.amazon.es/dp/B07PFTCHYG/?tag=tolees-21) con 35.72 de descuento por 26.99 EUR (original: 41.99 EUR) en el siguiente enlace!

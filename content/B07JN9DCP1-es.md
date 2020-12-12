@@ -17,6 +17,9 @@ comparePrice: 76 EUR
 inStock: true
 prodname: 'Guess Ford Cn Fleece  suéter para Hombre  Negro  Jet Black A996 Jblk   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JN9DCP1/?tag=tolees-21'
+descuento: '78.78'
+titulo: 'Guess Ford Cn Fleece  suéter para Hombre'
 ---
 
 Ahora mismo tienes [Guess Ford Cn Fleece  suéter para Hombre  Negro  Jet Black A996 Jblk   XX-Large](https://www.amazon.es/dp/B07JN9DCP1/?tag=tolees-21) a 16.13 EUR (original: 76 EUR) (78.78 %  de descuento) en el siguiente enlace!

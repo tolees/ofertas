@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Millet Mystic 15 Mochila, Unisex Adultos, Poseidon, 45 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFQHCKY/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Millet Mystic 15 Mochila, Unisex Adultos'
 ---
 
 Está [Millet Mystic 15 Mochila, Unisex Adultos, Poseidon, 45 cm](https://www.amazon.es/dp/B07FFQHCKY/?tag=tolees-21) con 50.03 de descuento por 39.95 EUR (original: 79.95 EUR) en el siguiente enlace!

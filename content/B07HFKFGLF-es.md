@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Levi s Levis Frankenstein Boxer Brief 2p  Bóxer Hombre  Negro  Caviar 703   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFKFGLF/?tag=tolees-21'
+descuento: '40.06'
+titulo: 'Levi s Levis Frankenstein Boxer Brief 2p'
 ---
 
 Está [Levi s Levis Frankenstein Boxer Brief 2p  Bóxer Hombre  Negro  Caviar 703   X-Large](https://www.amazon.es/dp/B07HFKFGLF/?tag=tolees-21) con 40.06 de descuento por 14.98 EUR (original: 24.99 EUR) en el siguiente enlace!

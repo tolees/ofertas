@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Quiksilver - Camisa de Manga Corta - Hombre - M - Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792KFYKB/?tag=tolees-21'
+descuento: '64.07'
+titulo: 'Quiksilver - Camisa de Manga Corta - Hom'
 ---
 
 Tienes [Quiksilver - Camisa de Manga Corta - Hombre - M - Azul](https://www.amazon.es/dp/B0792KFYKB/?tag=tolees-21) con un 64.07 % de descuento con precio de oferta de 17.96 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Under Armour Play Up Pant-Twist Pantalones  Mujer  Negro  Black/Pitch Gray/Metallic Silver 004   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZF8M1S/?tag=tolees-21'
+descuento: '46.68'
+titulo: 'Under Armour Play Up Pant-Twist Pantalon'
 ---
 
 Está [Under Armour Play Up Pant-Twist Pantalones  Mujer  Negro  Black/Pitch Gray/Metallic Silver 004   S](https://www.amazon.es/dp/B07CZF8M1S/?tag=tolees-21) con 46.68 de descuento por 23.99 EUR (original: 44.99 EUR) en el siguiente enlace!

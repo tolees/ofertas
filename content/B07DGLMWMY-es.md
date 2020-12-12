@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'DC Shoes Heathrow  Zapatillas de Skateboard para Niños  Azul Blue-Combo Xbbb  31 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGLMWMY/?tag=tolees-21'
+descuento: '70.33'
+titulo: 'DC Shoes Heathrow  Zapatillas de Skatebo'
 ---
 
 Está [DC Shoes Heathrow  Zapatillas de Skateboard para Niños  Azul Blue-Combo Xbbb  31 EU](https://www.amazon.es/dp/B07DGLMWMY/?tag=tolees-21) con 70.33 de descuento por 16.32 EUR (original: 55 EUR) en el siguiente enlace!

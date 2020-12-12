@@ -17,6 +17,9 @@ comparePrice: 33.5 EUR
 inStock: true
 prodname: 'Playtex 24h Soft Sujetador con aros  Negro  95D para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007V92GVY/?tag=tolees-21'
+descuento: '49.25'
+titulo: 'Playtex 24h Soft Sujetador con aros  Neg'
 ---
 
 Tienes [Playtex 24h Soft Sujetador con aros  Negro  95D para Mujer](https://www.amazon.es/dp/B007V92GVY/?tag=tolees-21) con un 49.25 % de descuento con precio de oferta de 17 EUR (original: 33.5 EUR) en el siguiente enlace!

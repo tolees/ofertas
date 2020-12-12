@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Dirik  Bañador para Hombre  Negro  Saffron 782   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M5Z8X7V/?tag=tolees-21'
+descuento: '61.38'
+titulo: 'G-STAR RAW Dirik  Bañador para Hombre  N'
 ---
 
 Tienes [G-STAR RAW Dirik  Bañador para Hombre  Negro  Saffron 782   XX-Large](https://www.amazon.es/dp/B07M5Z8X7V/?tag=tolees-21) con un 61.38 % de descuento con precio de oferta de 23.15 EUR (original: 59.95 EUR) en el siguiente enlace!

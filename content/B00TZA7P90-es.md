@@ -17,6 +17,9 @@ comparePrice: 25.41 EUR
 inStock: true
 prodname: 'Kempa Emotion Shorts Pantalones cortos  Hombre  Multicolor  Amarillo/Negro   2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TZA7P90/?tag=tolees-21'
+descuento: '64.78'
+titulo: 'Kempa Emotion Shorts Pantalones cortos  '
 ---
 
 Está [Kempa Emotion Shorts Pantalones cortos  Hombre  Multicolor  Amarillo/Negro   2XL](https://www.amazon.es/dp/B00TZA7P90/?tag=tolees-21) con 64.78 de descuento por 8.95 EUR (original: 25.41 EUR) en el siguiente enlace!

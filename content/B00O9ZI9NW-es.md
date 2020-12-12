@@ -17,6 +17,9 @@ comparePrice: 102.49 EUR
 inStock: true
 prodname: 'Cómo Conocí A Vuestra Madre - Temporadas 1-9 [DVD]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00O9ZI9NW/?tag=tolees-21'
+descuento: '34.84'
+titulo: 'Cómo Conocí A Vuestra Madre - Temporadas'
 ---
 
 Tienes [Cómo Conocí A Vuestra Madre - Temporadas 1-9 [DVD]](https://www.amazon.es/dp/B00O9ZI9NW/?tag=tolees-21) con un 34.84 % de descuento con precio de oferta de 66.78 EUR (original: 102.49 EUR) en el siguiente enlace!

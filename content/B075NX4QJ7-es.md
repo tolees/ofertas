@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'PDP - Pixel Pals Street Fighter Bison'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075NX4QJ7/?tag=tolees-21'
+descuento: '33.62'
+titulo: 'PDP - Pixel Pals Street Fighter Bison'
 ---
 
 Ahora mismo tienes [PDP - Pixel Pals Street Fighter Bison](https://www.amazon.es/dp/B075NX4QJ7/?tag=tolees-21) a 9.95 EUR (original: 14.99 EUR) (33.62 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'SYROKAN - Sujetador Deportivo de Sin Aros para Mujer Negro ES:90D  EU 75D '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OL92HQG/?tag=tolees-21'
+descuento: '42.89'
+titulo: 'SYROKAN - Sujetador Deportivo de Sin Aro'
 ---
 
 Ahora mismo tienes [SYROKAN - Sujetador Deportivo de Sin Aros para Mujer Negro ES:90D  EU 75D ](https://www.amazon.es/dp/B00OL92HQG/?tag=tolees-21) a 19.99 EUR (original: 35 EUR) (42.89 %  de descuento) en el siguiente enlace!

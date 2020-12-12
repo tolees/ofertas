@@ -17,6 +17,9 @@ comparePrice: 12.1 EUR
 inStock: true
 prodname: 'Funko - Figurine Disney - Mary Poppins Pop 10cm - 0830395032016'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BV1P5H0/?tag=tolees-21'
+descuento: '29.75'
+titulo: 'Funko - Figurine Disney - Mary Poppins P'
 ---
 
 Tienes [Funko - Figurine Disney - Mary Poppins Pop 10cm - 0830395032016](https://www.amazon.es/dp/B00BV1P5H0/?tag=tolees-21) con un 29.75 % de descuento con precio de oferta de 8.5 EUR (original: 12.1 EUR) en el siguiente enlace!

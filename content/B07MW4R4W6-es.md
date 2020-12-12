@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Telefonos Moviles Libres  DOOGEE X10S Dual Sim Android 8.1 Móviles y Smartphones Libres 3G 1GB RAM 8GB ROM  Batería 3360mAh  Cámaras 5MP + 2MP  Pantalla 5.0"  Oro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MW4R4W6/?tag=tolees-21'
+descuento: '75.00'
+titulo: 'Telefonos Moviles Libres  DOOGEE X10S Du'
 ---
 
 Tienes [Telefonos Moviles Libres  DOOGEE X10S Dual Sim Android 8.1 Móviles y Smartphones Libres 3G 1GB RAM 8GB ROM  Batería 3360mAh  Cámaras 5MP + 2MP  Pantalla 5.0"  Oro](https://www.amazon.es/dp/B07MW4R4W6/?tag=tolees-21) con un 75.00 % de descuento con precio de oferta de 49.99 EUR (original: 199.99 EUR) en el siguiente enlace!

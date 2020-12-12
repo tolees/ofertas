@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Blanco  White 800   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008YZBTWQ/?tag=tolees-21'
+descuento: '45.17'
+titulo: 'Pepe Jeans Eggo Long  Top de Manga Larga'
 ---
 
 Ahora mismo tienes [Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Blanco  White 800   XX-Large](https://www.amazon.es/dp/B008YZBTWQ/?tag=tolees-21) a 16.45 EUR (original: 30 EUR) (45.17 %  de descuento) en el siguiente enlace!

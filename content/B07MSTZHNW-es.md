@@ -17,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'Trust Gaming - Silla para Juegos GXT 705W  Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MSTZHNW/?tag=tolees-21'
+descuento: '41.18'
+titulo: 'Trust Gaming - Silla para Juegos GXT 705'
 ---
 
 Está [Trust Gaming - Silla para Juegos GXT 705W  Color Blanco](https://www.amazon.es/dp/B07MSTZHNW/?tag=tolees-21) con 41.18 de descuento por 99.99 EUR (original: 169.99 EUR) en el siguiente enlace!

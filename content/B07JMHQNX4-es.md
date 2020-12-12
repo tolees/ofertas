@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'XTI 48829  Sandalias con Plataforma para Mujer  Blanco Hielo  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMHQNX4/?tag=tolees-21'
+descuento: '48.43'
+titulo: 'XTI 48829  Sandalias con Plataforma para'
 ---
 
 Ahora mismo tienes [XTI 48829  Sandalias con Plataforma para Mujer  Blanco Hielo  40 EU](https://www.amazon.es/dp/B07JMHQNX4/?tag=tolees-21) a 18.05 EUR (original: 35 EUR) (48.43 %  de descuento) en el siguiente enlace!

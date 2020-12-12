@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-Star RAW Grount Sock  Zapatillas para Mujer  Negro  Black   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071L92KDK/?tag=tolees-21'
+descuento: '70.59'
+titulo: 'G-Star RAW Grount Sock  Zapatillas para '
 ---
 
 Está [G-Star RAW Grount Sock  Zapatillas para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B071L92KDK/?tag=tolees-21) con 70.59 de descuento por 29.4 EUR (original: 99.95 EUR) en el siguiente enlace!

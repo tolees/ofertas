@@ -17,6 +17,9 @@ comparePrice: 51 EUR
 inStock: true
 prodname: 'Paco Rabanne. Paco Rabanne Homme As 100 Ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BNAPBFU/?tag=tolees-21'
+descuento: '43.47'
+titulo: 'Paco Rabanne. Paco Rabanne Homme As 100 '
 ---
 
 Tienes [Paco Rabanne. Paco Rabanne Homme As 100 Ml](https://www.amazon.es/dp/B00BNAPBFU/?tag=tolees-21) con un 43.47 % de descuento con precio de oferta de 28.83 EUR (original: 51 EUR) en el siguiente enlace!

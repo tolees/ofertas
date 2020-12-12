@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Timberland Adventure 2.0 Cupsole  Botas Chukka para Hombre  Beige  Wheat   45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X19W7FY/?tag=tolees-21'
+descuento: '46.51'
+titulo: 'Timberland Adventure 2.0 Cupsole  Botas '
 ---
 
 Ahora mismo tienes [Timberland Adventure 2.0 Cupsole  Botas Chukka para Hombre  Beige  Wheat   45.5 EU](https://www.amazon.es/dp/B06X19W7FY/?tag=tolees-21) a 74.89 EUR (original: 140 EUR) (46.51 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 169 EUR
 inStock: true
 prodname: 'Panama Jack Panama 03 Wool  Zapatos de Cordones Brogue para Mujer  Amarillo  Vintage B1   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002LE7EV6/?tag=tolees-21'
+descuento: '43.30'
+titulo: 'Panama Jack Panama 03 Wool  Zapatos de C'
 ---
 
 Tienes [Panama Jack Panama 03 Wool  Zapatos de Cordones Brogue para Mujer  Amarillo  Vintage B1   42 EU](https://www.amazon.es/dp/B002LE7EV6/?tag=tolees-21) con un 43.30 % de descuento con precio de oferta de 95.82 EUR (original: 169 EUR) en el siguiente enlace!

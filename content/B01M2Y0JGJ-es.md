@@ -17,6 +17,9 @@ comparePrice: 43.45 EUR
 inStock: true
 prodname: 'Torras - Papel paperbox 5 Paquetes x 500 Hojas - DIN a4 80grs - Papel de Oficina de Alta blancura'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M2Y0JGJ/?tag=tolees-21'
+descuento: '37.88'
+titulo: 'Torras - Papel paperbox 5 Paquetes x 500'
 ---
 
 Tienes [Torras - Papel paperbox 5 Paquetes x 500 Hojas - DIN a4 80grs - Papel de Oficina de Alta blancura](https://www.amazon.es/dp/B01M2Y0JGJ/?tag=tolees-21) con un 37.88 % de descuento con precio de oferta de 26.99 EUR (original: 43.45 EUR) en el siguiente enlace!

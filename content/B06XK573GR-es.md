@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans Bradley PM202056 Jeans Rectos  Azul  Dark Used Cb4   32W / 34L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XK573GR/?tag=tolees-21'
+descuento: '55.58'
+titulo: 'Pepe Jeans Bradley PM202056 Jeans Rectos'
 ---
 
 Tienes [Pepe Jeans Bradley PM202056 Jeans Rectos  Azul  Dark Used Cb4   32W / 34L para Hombre](https://www.amazon.es/dp/B06XK573GR/?tag=tolees-21) con un 55.58 % de descuento con precio de oferta de 42.2 EUR (original: 95 EUR) en el siguiente enlace!

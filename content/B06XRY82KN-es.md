@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: '3D Pluma de Impresión  Bolígrafo de Estereoscópica Inteligente  DIY Pen con Pantalla LED y Velocidad Ajustable  1 Paquete de Filamentos PLA 3 colores al azar   Regalo Fantastico para Niños / Adultos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XRY82KN/?tag=tolees-21'
+descuento: '36.50'
+titulo: '3D Pluma de Impresión  Bolígrafo de Este'
 ---
 
 Está [3D Pluma de Impresión  Bolígrafo de Estereoscópica Inteligente  DIY Pen con Pantalla LED y Velocidad Ajustable  1 Paquete de Filamentos PLA 3 colores al azar   Regalo Fantastico para Niños / Adultos](https://www.amazon.es/dp/B06XRY82KN/?tag=tolees-21) con 36.50 de descuento por 19.68 EUR (original: 30.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Armani Exchange 6zyc04  Blusa para Mujer  Blanco  White 1100  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0797JR9HQ/?tag=tolees-21'
+descuento: '44.56'
+titulo: 'Armani Exchange 6zyc04  Blusa para Mujer'
 ---
 
 Ahora mismo tienes [Armani Exchange 6zyc04  Blusa para Mujer  Blanco  White 1100  Small](https://www.amazon.es/dp/B0797JR9HQ/?tag=tolees-21) a 66.53 EUR (original: 120 EUR) (44.56 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 8.48 EUR
 inStock: true
 prodname: 'Camisetas de Tirantes para Hombre Boxeo - en el Estilo de Lucha para Entrenamiento  Deportes  Ejercicio  Funcionamiento  Ropa de Fitness  Small Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HZOCD26/?tag=tolees-21'
+descuento: '35.38'
+titulo: 'Camisetas de Tirantes para Hombre Boxeo '
 ---
 
 Tienes [Camisetas de Tirantes para Hombre Boxeo - en el Estilo de Lucha para Entrenamiento  Deportes  Ejercicio  Funcionamiento  Ropa de Fitness  Small Blanco](https://www.amazon.es/dp/B01HZOCD26/?tag=tolees-21) con un 35.38 % de descuento con precio de oferta de 5.48 EUR (original: 8.48 EUR) en el siguiente enlace!

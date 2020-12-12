@@ -17,6 +17,9 @@ comparePrice: 67 EUR
 inStock: true
 prodname: 'Davidoff Adventure  Perfume - 100 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001FWXIL0/?tag=tolees-21'
+descuento: '68.66'
+titulo: 'Davidoff Adventure  Perfume - 100 ml.'
 ---
 
 Está [Davidoff Adventure  Perfume - 100 ml.](https://www.amazon.es/dp/B001FWXIL0/?tag=tolees-21) con 68.66 de descuento por 21 EUR (original: 67 EUR) en el siguiente enlace!

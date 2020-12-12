@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Assassination Classroom - Temporada 1 Parte 2 Blu-Ray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076FDG5T7/?tag=tolees-21'
+descuento: '47.37'
+titulo: 'Assassination Classroom - Temporada 1 Pa'
 ---
 
 Está [Assassination Classroom - Temporada 1 Parte 2 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B076FDG5T7/?tag=tolees-21) con 47.37 de descuento por 21 EUR (original: 39.9 EUR) en el siguiente enlace!

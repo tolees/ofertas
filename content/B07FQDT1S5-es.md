@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Mallas Pantalones Deportivos Leggings Mujer Yoga de Alta Cintura Elásticos y Transpirables para Yoga Running Fitness con Gran Elásticos1090 Rojo M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQDT1S5/?tag=tolees-21'
+descuento: '43.37'
+titulo: 'Mallas Pantalones Deportivos Leggings Mu'
 ---
 
 Está [Mallas Pantalones Deportivos Leggings Mujer Yoga de Alta Cintura Elásticos y Transpirables para Yoga Running Fitness con Gran Elásticos1090 Rojo M](https://www.amazon.es/dp/B07FQDT1S5/?tag=tolees-21) con 43.37 de descuento por 16.99 EUR (original: 30 EUR) en el siguiente enlace!

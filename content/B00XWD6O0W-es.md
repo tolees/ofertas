@@ -17,6 +17,9 @@ comparePrice: 34.1 EUR
 inStock: true
 prodname: 'Balmain 1015800 Homme Agua de Colonia - 60 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XWD6O0W/?tag=tolees-21'
+descuento: '25.66'
+titulo: 'Balmain 1015800 Homme Agua de Colonia - '
 ---
 
 Tienes [Balmain 1015800 Homme Agua de Colonia - 60 ml](https://www.amazon.es/dp/B00XWD6O0W/?tag=tolees-21) con un 25.66 % de descuento con precio de oferta de 25.35 EUR (original: 34.1 EUR) en el siguiente enlace!

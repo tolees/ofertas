@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'G-Star Holmer Tapered - Vaqueros para hombre  Blau  dk aged 89   28W/32L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VXD9Z5O/?tag=tolees-21'
+descuento: '83.43'
+titulo: 'G-Star Holmer Tapered - Vaqueros para ho'
 ---
 
 Ahora mismo tienes [G-Star Holmer Tapered - Vaqueros para hombre  Blau  dk aged 89   28W/32L](https://www.amazon.es/dp/B00VXD9Z5O/?tag=tolees-21) a 21.53 EUR (original: 129.95 EUR) (83.43 %  de descuento) en el siguiente enlace!

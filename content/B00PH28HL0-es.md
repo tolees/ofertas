@@ -17,6 +17,9 @@ comparePrice: 452 EUR
 inStock: true
 prodname: 'Sector Expander Reloj de Cuarzo para Hombre con Correa de Nailon – REDH4'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PH28HL0/?tag=tolees-21'
+descuento: '84.30'
+titulo: 'Sector Expander Reloj de Cuarzo para Hom'
 ---
 
 Está [Sector Expander Reloj de Cuarzo para Hombre con Correa de Nailon – REDH4](https://www.amazon.es/dp/B00PH28HL0/?tag=tolees-21) con 84.30 de descuento por 70.96 EUR (original: 452 EUR) en el siguiente enlace!

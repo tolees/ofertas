@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Napapijri Tres Half  Sudadera suéter  Negro  Black 041   98  Talla del Fabricante: 04  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079K9XZX1/?tag=tolees-21'
+descuento: '63.12'
+titulo: 'Napapijri Tres Half  Sudadera suéter  Ne'
 ---
 
 Ahora mismo tienes [Napapijri Tres Half  Sudadera suéter  Negro  Black 041   98  Talla del Fabricante: 04  para Niños](https://www.amazon.es/dp/B079K9XZX1/?tag=tolees-21) a 18.07 EUR (original: 49 EUR) (63.12 %  de descuento) en el siguiente enlace!

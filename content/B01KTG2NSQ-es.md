@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Lacoste 2000954 Lacoste.12.12 Lady - Reloj analógico de pulsera para mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KTG2NSQ/?tag=tolees-21'
+descuento: '40.10'
+titulo: 'Lacoste 2000954 Lacoste.12.12 Lady - Rel'
 ---
 
 Tienes [Lacoste 2000954 Lacoste.12.12 Lady - Reloj analógico de pulsera para mujer](https://www.amazon.es/dp/B01KTG2NSQ/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 74.88 EUR (original: 125 EUR) en el siguiente enlace!

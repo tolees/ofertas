@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Geox D Tahina C  Zapatillas para Mujer   Graphite C1115   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792PDJD1/?tag=tolees-21'
+descuento: '71.23'
+titulo: 'Geox D Tahina C  Zapatillas para Mujer  '
 ---
 
 Está [Geox D Tahina C  Zapatillas para Mujer   Graphite C1115   39 EU](https://www.amazon.es/dp/B0792PDJD1/?tag=tolees-21) con 71.23 de descuento por 28.74 EUR (original: 99.9 EUR) en el siguiente enlace!

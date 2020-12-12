@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Jack Wolfskin THUNDER BAY TEXAPORE MID W  Zapatillas de senderismo Mujer  Negro  Phantom 6350   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01E00FTPQ/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Jack Wolfskin THUNDER BAY TEXAPORE MID W'
 ---
 
 Está [Jack Wolfskin THUNDER BAY TEXAPORE MID W  Zapatillas de senderismo Mujer  Negro  Phantom 6350   37.5 EU](https://www.amazon.es/dp/B01E00FTPQ/?tag=tolees-21) con 50.02 de descuento por 64.95 EUR (original: 129.95 EUR) en el siguiente enlace!

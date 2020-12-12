@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Salomon X Ultra 3 Prime W  Calzado de Senderismo y multifunción para Mujer  Azul  Crown Night Sky/Spectrum Blue   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076GVN3PR/?tag=tolees-21'
+descuento: '54.35'
+titulo: 'Salomon X Ultra 3 Prime W  Calzado de Se'
 ---
 
 Está [Salomon X Ultra 3 Prime W  Calzado de Senderismo y multifunción para Mujer  Azul  Crown Night Sky/Spectrum Blue   38 EU](https://www.amazon.es/dp/B076GVN3PR/?tag=tolees-21) con 54.35 de descuento por 45.63 EUR (original: 99.95 EUR) en el siguiente enlace!

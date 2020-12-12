@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Clarks Isidora Faye  Zapatos de Tacón para Mujer  Negro  Black Pat   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01K1QIHLQ/?tag=tolees-21'
+descuento: '55.35'
+titulo: 'Clarks Isidora Faye  Zapatos de Tacón pa'
 ---
 
 Ahora mismo tienes [Clarks Isidora Faye  Zapatos de Tacón para Mujer  Negro  Black Pat   41 EU](https://www.amazon.es/dp/B01K1QIHLQ/?tag=tolees-21) a 35.7 EUR (original: 79.95 EUR) (55.35 %  de descuento) en el siguiente enlace!

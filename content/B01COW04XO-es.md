@@ -17,6 +17,9 @@ comparePrice: 16.88 EUR
 inStock: true
 prodname: 'A Little Lovely Company LTCW025 - Lámpara en forma de nube  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01COW04XO/?tag=tolees-21'
+descuento: '64.45'
+titulo: 'A Little Lovely Company LTCW025 - Lámpar'
 ---
 
 Ahora mismo tienes [A Little Lovely Company LTCW025 - Lámpara en forma de nube  color blanco](https://www.amazon.es/dp/B01COW04XO/?tag=tolees-21) a 6 EUR (original: 16.88 EUR) (64.45 %  de descuento) en el siguiente enlace!

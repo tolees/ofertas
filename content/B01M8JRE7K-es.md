@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Skechers Vasar-Bota  Entrenadores para Mujer  Gris  Grey   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M8JRE7K/?tag=tolees-21'
+descuento: '71.02'
+titulo: 'Skechers Vasar-Bota  Entrenadores para M'
 ---
 
 Está [Skechers Vasar-Bota  Entrenadores para Mujer  Gris  Grey   37 EU](https://www.amazon.es/dp/B01M8JRE7K/?tag=tolees-21) con 71.02 de descuento por 24.62 EUR (original: 84.95 EUR) en el siguiente enlace!

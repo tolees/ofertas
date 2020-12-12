@@ -17,6 +17,9 @@ comparePrice: 6.1 EUR
 inStock: true
 prodname: 'IBILI 707700 - Set 4 Molde Empanadillas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001LMWCZ2/?tag=tolees-21'
+descuento: '27.87'
+titulo: 'IBILI 707700 - Set 4 Molde Empanadillas'
 ---
 
 Tienes [IBILI 707700 - Set 4 Molde Empanadillas](https://www.amazon.es/dp/B001LMWCZ2/?tag=tolees-21) con un 27.87 % de descuento con precio de oferta de 4.4 EUR (original: 6.1 EUR) en el siguiente enlace!

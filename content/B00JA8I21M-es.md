@@ -17,6 +17,9 @@ comparePrice: 3.58 EUR
 inStock: true
 prodname: 'Yazilind regalo de la joyería de Rose plateado que se deslumbra cristalinos del oro broches gato muy lindo y pines para Mujeres y niñas estilo 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JA8I21M/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Yazilind regalo de la joyería de Rose pl'
 ---
 
 Ahora mismo tienes [Yazilind regalo de la joyería de Rose plateado que se deslumbra cristalinos del oro broches gato muy lindo y pines para Mujeres y niñas estilo 2](https://www.amazon.es/dp/B00JA8I21M/?tag=tolees-21) a 1.79 EUR (original: 3.58 EUR) (50.00 %  de descuento) en el siguiente enlace!

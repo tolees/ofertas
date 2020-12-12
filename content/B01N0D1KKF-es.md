@@ -17,6 +17,9 @@ comparePrice: 38.95 EUR
 inStock: true
 prodname: 'Tokidoki 10 Function Silicone Estimulador Vibrador del Clítoris Conejo Lila - 1 Paquetes de 200 gr - Total: 200 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0D1KKF/?tag=tolees-21'
+descuento: '72.61'
+titulo: 'Tokidoki 10 Function Silicone Estimulado'
 ---
 
 Ahora mismo tienes [Tokidoki 10 Function Silicone Estimulador Vibrador del Clítoris Conejo Lila - 1 Paquetes de 200 gr - Total: 200 gr](https://www.amazon.es/dp/B01N0D1KKF/?tag=tolees-21) a 10.67 EUR (original: 38.95 EUR) (72.61 %  de descuento) en el siguiente enlace!

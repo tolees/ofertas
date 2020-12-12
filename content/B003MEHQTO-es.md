@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Superga 2750  Zapatillas Unisex Adulto  Beige  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003MEHQTO/?tag=tolees-21'
+descuento: '28.72'
+titulo: 'Superga 2750  Zapatillas Unisex Adulto  '
 ---
 
 Tienes [Superga 2750  Zapatillas Unisex Adulto  Beige  37 EU](https://www.amazon.es/dp/B003MEHQTO/?tag=tolees-21) con un 28.72 % de descuento con precio de oferta de 56.31 EUR (original: 79 EUR) en el siguiente enlace!

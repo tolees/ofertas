@@ -17,6 +17,9 @@ comparePrice: 47 EUR
 inStock: true
 prodname: 'Philips Lighting myLiving Foco  iluminación Interior  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JGOMN06/?tag=tolees-21'
+descuento: '48.96'
+titulo: 'Philips Lighting myLiving Foco  iluminac'
 ---
 
 Tienes [Philips Lighting myLiving Foco  iluminación Interior  Blanco](https://www.amazon.es/dp/B00JGOMN06/?tag=tolees-21) con un 48.96 % de descuento con precio de oferta de 23.99 EUR (original: 47 EUR) en el siguiente enlace!

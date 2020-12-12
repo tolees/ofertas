@@ -17,6 +17,9 @@ comparePrice: 99.96 EUR
 inStock: true
 prodname: 'Vibrador multifuncional  3 velocidades + 10 modos vibradores inalámbrico recargable impermeable masajeador de silicona para mujeres  punto G clítoris pezones vagina sexo juguete'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0713ZW2BS/?tag=tolees-21'
+descuento: '91.11'
+titulo: 'Vibrador multifuncional  3 velocidades +'
 ---
 
 Está [Vibrador multifuncional  3 velocidades + 10 modos vibradores inalámbrico recargable impermeable masajeador de silicona para mujeres  punto G clítoris pezones vagina sexo juguete](https://www.amazon.es/dp/B0713ZW2BS/?tag=tolees-21) con 91.11 de descuento por 8.89 EUR (original: 99.96 EUR) en el siguiente enlace!

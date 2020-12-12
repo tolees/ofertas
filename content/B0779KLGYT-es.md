@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Brent  Camiseta Mujer  Negro  Black   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0779KLGYT/?tag=tolees-21'
+descuento: '52.01'
+titulo: 'Pepe Jeans Brent  Camiseta Mujer  Negro '
 ---
 
 Ahora mismo tienes [Pepe Jeans Brent  Camiseta Mujer  Negro  Black   Small](https://www.amazon.es/dp/B0779KLGYT/?tag=tolees-21) a 14.35 EUR (original: 29.9 EUR) (52.01 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Reebok Royal EC Ride  Zapatillas para Hombre  Blanco  White/Skull Grey   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RJPSJS/?tag=tolees-21'
+descuento: '38.47'
+titulo: 'Reebok Royal EC Ride  Zapatillas para Ho'
 ---
 
 Está [Reebok Royal EC Ride  Zapatillas para Hombre  Blanco  White/Skull Grey   44 EU](https://www.amazon.es/dp/B073RJPSJS/?tag=tolees-21) con 38.47 de descuento por 33.81 EUR (original: 54.95 EUR) en el siguiente enlace!

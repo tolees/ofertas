@@ -17,6 +17,9 @@ comparePrice: 238.45 EUR
 inStock: true
 prodname: 'Elite Arion - Rodillo de ciclismo  color rojo y negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004CW4PO4/?tag=tolees-21'
+descuento: '32.71'
+titulo: 'Elite Arion - Rodillo de ciclismo  color'
 ---
 
 Tienes [Elite Arion - Rodillo de ciclismo  color rojo y negro](https://www.amazon.es/dp/B004CW4PO4/?tag=tolees-21) con un 32.71 % de descuento con precio de oferta de 160.45 EUR (original: 238.45 EUR) en el siguiente enlace!

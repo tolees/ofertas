@@ -17,6 +17,9 @@ comparePrice: 129.98 EUR
 inStock: true
 prodname: 'BLAVOR Cargador Solar Portátil 5 Paneles Solares Desmontable 20000mah Batería Externa Inalámbrico Banco de Energía Portátil con Salida Doble Tipo C Entrada SOS Linterna y kit de Brújula'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LD4BVFF/?tag=tolees-21'
+descuento: '53.85'
+titulo: 'BLAVOR Cargador Solar Portátil 5 Paneles'
 ---
 
 Ahora mismo tienes [BLAVOR Cargador Solar Portátil 5 Paneles Solares Desmontable 20000mah Batería Externa Inalámbrico Banco de Energía Portátil con Salida Doble Tipo C Entrada SOS Linterna y kit de Brújula](https://www.amazon.es/dp/B07LD4BVFF/?tag=tolees-21) a 59.99 EUR (original: 129.98 EUR) (53.85 %  de descuento) en el siguiente enlace!

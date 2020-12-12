@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Vila Clothes Viril L/s V-Neck Knit Top-Noos suéter  Verde  Pine Grove Detail: Melange   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071R8TZQS/?tag=tolees-21'
+descuento: '54.80'
+titulo: 'Vila Clothes Viril L/s V-Neck Knit Top-N'
 ---
 
 Está [Vila Clothes Viril L/s V-Neck Knit Top-Noos suéter  Verde  Pine Grove Detail: Melange   36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B071R8TZQS/?tag=tolees-21) con 54.80 de descuento por 12.2 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 40.99 EUR
 inStock: true
 prodname: 'Gifort Barbacoa Portátil de Acero Inoxidable  Barbacoa Portátil on Rejilla Portátil Plegable Barbacoa de Exteriores  3 - 5 Personas  para BBQ  Picnic  Acampadas  Camping'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MMB3WVW/?tag=tolees-21'
+descuento: '41.47'
+titulo: 'Gifort Barbacoa Portátil de Acero Inoxid'
 ---
 
 Está [Gifort Barbacoa Portátil de Acero Inoxidable  Barbacoa Portátil on Rejilla Portátil Plegable Barbacoa de Exteriores  3 - 5 Personas  para BBQ  Picnic  Acampadas  Camping](https://www.amazon.es/dp/B07MMB3WVW/?tag=tolees-21) con 41.47 de descuento por 23.99 EUR (original: 40.99 EUR) en el siguiente enlace!

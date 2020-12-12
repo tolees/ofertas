@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Ecco Soft 1 Men s  Zapatillas para Hombre   Licorice 2507   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CNCQR2B/?tag=tolees-21'
+descuento: '33.36'
+titulo: 'Ecco Soft 1 Men s  Zapatillas para Hombr'
 ---
 
 Tienes [Ecco Soft 1 Men s  Zapatillas para Hombre   Licorice 2507   42 EU](https://www.amazon.es/dp/B07CNCQR2B/?tag=tolees-21) con un 33.36 % de descuento con precio de oferta de 39.95 EUR (original: 59.95 EUR) en el siguiente enlace!

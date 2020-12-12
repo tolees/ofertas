@@ -17,6 +17,9 @@ comparePrice: 15.75 EUR
 inStock: true
 prodname: 'Got2b Laca Volumaniac - 3 Unidades de 300 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3RNHZP/?tag=tolees-21'
+descuento: '59.68'
+titulo: 'Got2b Laca Volumaniac - 3 Unidades de 30'
 ---
 
 Está [Got2b Laca Volumaniac - 3 Unidades de 300 ml](https://www.amazon.es/dp/B07N3RNHZP/?tag=tolees-21) con 59.68 de descuento por 6.35 EUR (original: 15.75 EUR) en el siguiente enlace!

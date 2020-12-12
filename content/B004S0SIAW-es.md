@@ -17,6 +17,9 @@ comparePrice: 49.42 EUR
 inStock: true
 prodname: 'Lafuma Lautaret - Bastón de Senderismo  Color Negro  Talla Taille U'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004S0SIAW/?tag=tolees-21'
+descuento: '75.82'
+titulo: 'Lafuma Lautaret - Bastón de Senderismo  '
 ---
 
 Está [Lafuma Lautaret - Bastón de Senderismo  Color Negro  Talla Taille U](https://www.amazon.es/dp/B004S0SIAW/?tag=tolees-21) con 75.82 de descuento por 11.95 EUR (original: 49.42 EUR) en el siguiente enlace!

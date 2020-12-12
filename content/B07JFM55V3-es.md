@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY Sh180457 bañadores  Azul  Harmony Blu   42  Talla del fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JFM55V3/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'IRIS & LILLY Sh180457 bañadores  Azul  H'
 ---
 
 Ahora mismo tienes [IRIS & LILLY Sh180457 bañadores  Azul  Harmony Blu   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B07JFM55V3/?tag=tolees-21) a 19.59 EUR (original: 27.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

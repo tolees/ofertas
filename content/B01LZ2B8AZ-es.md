@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Superga2750 Macramej - Zapatillas Unisex  para niños  Color Morado  Talla 26 EU Niño'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZ2B8AZ/?tag=tolees-21'
+descuento: '60.05'
+titulo: 'Superga2750 Macramej - Zapatillas Unisex'
 ---
 
 Ahora mismo tienes [Superga2750 Macramej - Zapatillas Unisex  para niños  Color Morado  Talla 26 EU Niño](https://www.amazon.es/dp/B01LZ2B8AZ/?tag=tolees-21) a 25.97 EUR (original: 65 EUR) (60.05 %  de descuento) en el siguiente enlace!

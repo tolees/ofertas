@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance X-90  Zapatillas para Mujer  Azul  Galaxy/Ice Blue Cle   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XR99TD/?tag=tolees-21'
+descuento: '67.04'
+titulo: 'New Balance X-90  Zapatillas para Mujer '
 ---
 
 Ahora mismo tienes [New Balance X-90  Zapatillas para Mujer  Azul  Galaxy/Ice Blue Cle   38 EU](https://www.amazon.es/dp/B077XR99TD/?tag=tolees-21) a 36.26 EUR (original: 110 EUR) (67.04 %  de descuento) en el siguiente enlace!

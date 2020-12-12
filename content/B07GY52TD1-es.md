@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'COO Funda con Teclado iPad 9.7  Cubierta con Teclado Bluetooth Desmontable para iPad Air 2/1  iPad 2017 9.7  iPad 2018  iPad Pro 9.7 con 360 Grados Soporte Giratorio y Smart Auto Sleep-Wake  Champán '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GY52TD1/?tag=tolees-21'
+descuento: '53.76'
+titulo: 'COO Funda con Teclado iPad 9.7  Cubierta'
 ---
 
 Tienes [COO Funda con Teclado iPad 9.7  Cubierta con Teclado Bluetooth Desmontable para iPad Air 2/1  iPad 2017 9.7  iPad 2018  iPad Pro 9.7 con 360 Grados Soporte Giratorio y Smart Auto Sleep-Wake  Champán ](https://www.amazon.es/dp/B07GY52TD1/?tag=tolees-21) con un 53.76 % de descuento con precio de oferta de 36.99 EUR (original: 79.99 EUR) en el siguiente enlace!

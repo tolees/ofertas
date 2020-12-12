@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'ASICS Curreo II Zapatillas  Hombre  Burdeos/Marino  40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074JFDZGJ/?tag=tolees-21'
+descuento: '34.95'
+titulo: 'ASICS Curreo II Zapatillas  Hombre  Burd'
 ---
 
 Ahora mismo tienes [ASICS Curreo II Zapatillas  Hombre  Burdeos/Marino  40](https://www.amazon.es/dp/B074JFDZGJ/?tag=tolees-21) a 39 EUR (original: 59.95 EUR) (34.95 %  de descuento) en el siguiente enlace!

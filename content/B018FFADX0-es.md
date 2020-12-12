@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour UA Drift RN  Zapatillas de Running para Hombre  Gris  Overcast Glacier Gray/Metallic Pewter 941   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018FFADX0/?tag=tolees-21'
+descuento: '50.36'
+titulo: 'Under Armour UA Drift RN  Zapatillas de '
 ---
 
 Tienes [Under Armour UA Drift RN  Zapatillas de Running para Hombre  Gris  Overcast Glacier Gray/Metallic Pewter 941   42 EU](https://www.amazon.es/dp/B018FFADX0/?tag=tolees-21) con un 50.36 % de descuento con precio de oferta de 34.75 EUR (original: 70 EUR) en el siguiente enlace!

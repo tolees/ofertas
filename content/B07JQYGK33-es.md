@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Stabil Bounce  Zapatillas de Balonmano para Hombre  Negro Core Black/Hi/Res Yellow/True Blue  48 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQYGK33/?tag=tolees-21'
+descuento: '45.28'
+titulo: 'adidas Stabil Bounce  Zapatillas de Balo'
 ---
 
 Está [adidas Stabil Bounce  Zapatillas de Balonmano para Hombre  Negro Core Black/Hi/Res Yellow/True Blue  48 2/3 EU](https://www.amazon.es/dp/B07JQYGK33/?tag=tolees-21) con 45.28 de descuento por 54.69 EUR (original: 99.95 EUR) en el siguiente enlace!

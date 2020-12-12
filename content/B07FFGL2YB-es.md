@@ -17,6 +17,9 @@ comparePrice: 58.88 EUR
 inStock: true
 prodname: 'Reebok 3D Fusion TR  Zapatillas de Deporte para Mujer  Berry/Twisted Pink/White 000  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFGL2YB/?tag=tolees-21'
+descuento: '63.40'
+titulo: 'Reebok 3D Fusion TR  Zapatillas de Depor'
 ---
 
 Tienes [Reebok 3D Fusion TR  Zapatillas de Deporte para Mujer  Berry/Twisted Pink/White 000  37 EU](https://www.amazon.es/dp/B07FFGL2YB/?tag=tolees-21) con un 63.40 % de descuento con precio de oferta de 21.55 EUR (original: 58.88 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Frozen Perfume Consumo Niños - 150 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H3KNWLI/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Frozen Perfume Consumo Niños - 150 ml'
 ---
 
 Está [Frozen Perfume Consumo Niños - 150 ml](https://www.amazon.es/dp/B01H3KNWLI/?tag=tolees-21) con 50.00 de descuento por 9.95 EUR (original: 19.9 EUR) en el siguiente enlace!

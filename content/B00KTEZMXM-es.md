@@ -17,6 +17,9 @@ comparePrice: 27.26 EUR
 inStock: true
 prodname: 'Kerastase 57816 - Cuidado capilar  300 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KTEZMXM/?tag=tolees-21'
+descuento: '55.61'
+titulo: 'Kerastase 57816 - Cuidado capilar  300 m'
 ---
 
 Tienes [Kerastase 57816 - Cuidado capilar  300 ml](https://www.amazon.es/dp/B00KTEZMXM/?tag=tolees-21) con un 55.61 % de descuento con precio de oferta de 12.1 EUR (original: 27.26 EUR) en el siguiente enlace!

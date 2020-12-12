@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'PUMA ESS Sweat Pants TR G Pantalones  Niñas  Negro Black  140'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JH359JS/?tag=tolees-21'
+descuento: '59.97'
+titulo: 'PUMA ESS Sweat Pants TR G Pantalones  Ni'
 ---
 
 Tienes [PUMA ESS Sweat Pants TR G Pantalones  Niñas  Negro Black  140](https://www.amazon.es/dp/B07JH359JS/?tag=tolees-21) con un 59.97 % de descuento con precio de oferta de 11.99 EUR (original: 29.95 EUR) en el siguiente enlace!

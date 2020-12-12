@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Reebok Cloudride DMX 2.0  Zapatillas de Deporte para Mujer  Negro  Black/Flint Grey/White   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072Q6RWTH/?tag=tolees-21'
+descuento: '69.07'
+titulo: 'Reebok Cloudride DMX 2.0  Zapatillas de '
 ---
 
 Tienes [Reebok Cloudride DMX 2.0  Zapatillas de Deporte para Mujer  Negro  Black/Flint Grey/White   38.5 EU](https://www.amazon.es/dp/B072Q6RWTH/?tag=tolees-21) con un 69.07 % de descuento con precio de oferta de 24.73 EUR (original: 79.95 EUR) en el siguiente enlace!

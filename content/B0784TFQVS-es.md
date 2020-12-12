@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Arsenal FC Fan Cat tee Camiseta  Hombre   Negro/Blanco   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0784TFQVS/?tag=tolees-21'
+descuento: '60.48'
+titulo: 'Puma Arsenal FC Fan Cat tee Camiseta  Ho'
 ---
 
 Está [Puma Arsenal FC Fan Cat tee Camiseta  Hombre   Negro/Blanco   XXL](https://www.amazon.es/dp/B0784TFQVS/?tag=tolees-21) con 60.48 de descuento por 9.86 EUR (original: 24.95 EUR) en el siguiente enlace!

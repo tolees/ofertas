@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Puma Cat tee Camiseta  Mujer  Azul  Peacoat Heather   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHCGH3J/?tag=tolees-21'
+descuento: '56.65'
+titulo: 'Puma Cat tee Camiseta  Mujer  Azul  Peac'
 ---
 
 Está [Puma Cat tee Camiseta  Mujer  Azul  Peacoat Heather   XS](https://www.amazon.es/dp/B07JHCGH3J/?tag=tolees-21) con 56.65 de descuento por 15.15 EUR (original: 34.95 EUR) en el siguiente enlace!

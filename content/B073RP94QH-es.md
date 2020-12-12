@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Helly Hansen W Crewline Short  Mujer  Navy  Error:#'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RP94QH/?tag=tolees-21'
+descuento: '52.03'
+titulo: 'Helly Hansen W Crewline Short  Mujer  Na'
 ---
 
 Ahora mismo tienes [Helly Hansen W Crewline Short  Mujer  Navy  Error:#](https://www.amazon.es/dp/B073RP94QH/?tag=tolees-21) a 35.98 EUR (original: 75 EUR) (52.03 %  de descuento) en el siguiente enlace!

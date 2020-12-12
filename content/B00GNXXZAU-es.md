@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Stanley S742-024 Candado Macizo blindado  Metálico  90 mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GNXXZAU/?tag=tolees-21'
+descuento: '28.68'
+titulo: 'Stanley S742-024 Candado Macizo blindado'
 ---
 
 Tienes [Stanley S742-024 Candado Macizo blindado  Metálico  90 mm](https://www.amazon.es/dp/B00GNXXZAU/?tag=tolees-21) con un 28.68 % de descuento con precio de oferta de 28.52 EUR (original: 39.99 EUR) en el siguiente enlace!

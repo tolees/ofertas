@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Android Tablet 10 Pulgadas  2GB + 32GB  3G Phablet Desbloqueado con Dos Ranuras para Tarjetas SIM  cámara Doble de 2MP + 5MP  Quad Core 1.3GHz  WiFi GPS Bluetooth  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N4F7T6N/?tag=tolees-21'
+descuento: '51.77'
+titulo: 'Android Tablet 10 Pulgadas  2GB + 32GB  '
 ---
 
 Tienes [Android Tablet 10 Pulgadas  2GB + 32GB  3G Phablet Desbloqueado con Dos Ranuras para Tarjetas SIM  cámara Doble de 2MP + 5MP  Quad Core 1.3GHz  WiFi GPS Bluetooth  Negro](https://www.amazon.es/dp/B07N4F7T6N/?tag=tolees-21) con un 51.77 % de descuento con precio de oferta de 95.98 EUR (original: 199 EUR) en el siguiente enlace!

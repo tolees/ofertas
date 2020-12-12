@@ -17,6 +17,9 @@ comparePrice: 91.17 EUR
 inStock: true
 prodname: 'Schott NYC TR RANGER 70  Pantalones Para Hombre  Gris  grey   talla del fabricante: 38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LY0NTRW/?tag=tolees-21'
+descuento: '81.29'
+titulo: 'Schott NYC TR RANGER 70  Pantalones Para'
 ---
 
 Está [Schott NYC TR RANGER 70  Pantalones Para Hombre  Gris  grey   talla del fabricante: 38](https://www.amazon.es/dp/B01LY0NTRW/?tag=tolees-21) con 81.29 de descuento por 17.06 EUR (original: 91.17 EUR) en el siguiente enlace!

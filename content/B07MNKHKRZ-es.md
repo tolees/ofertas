@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Fantástico rascador para Gatos  rascador para Gatos con ratón Vocal  rascador para Garra de Mascota  rascador pequeño'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MNKHKRZ/?tag=tolees-21'
+descuento: '66.69'
+titulo: 'Fantástico rascador para Gatos  rascador'
 ---
 
 Está [Fantástico rascador para Gatos  rascador para Gatos con ratón Vocal  rascador para Garra de Mascota  rascador pequeño](https://www.amazon.es/dp/B07MNKHKRZ/?tag=tolees-21) con 66.69 de descuento por 9.99 EUR (original: 29.99 EUR) en el siguiente enlace!

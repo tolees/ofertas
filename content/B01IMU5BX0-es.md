@@ -17,6 +17,9 @@ comparePrice: 17.67 EUR
 inStock: true
 prodname: 'BIO-OIL 125 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IMU5BX0/?tag=tolees-21'
+descuento: '32.37'
+titulo: 'BIO-OIL 125 ml'
 ---
 
 Tienes [BIO-OIL 125 ml](https://www.amazon.es/dp/B01IMU5BX0/?tag=tolees-21) con un 32.37 % de descuento con precio de oferta de 11.95 EUR (original: 17.67 EUR) en el siguiente enlace!

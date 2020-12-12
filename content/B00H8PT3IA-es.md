@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Dickies New York Short  Pantalones Cortos de Deporte  Hombre  Multicolor  Camouflage   W30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00H8PT3IA/?tag=tolees-21'
+descuento: '79.56'
+titulo: 'Dickies New York Short  Pantalones Corto'
 ---
 
 Ahora mismo tienes [Dickies New York Short  Pantalones Cortos de Deporte  Hombre  Multicolor  Camouflage   W30](https://www.amazon.es/dp/B00H8PT3IA/?tag=tolees-21) a 12.06 EUR (original: 59 EUR) (79.56 %  de descuento) en el siguiente enlace!

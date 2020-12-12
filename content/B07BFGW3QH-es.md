@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'CAMPER TWS Kids  Merceditas para Niñas  Mehrfarbig  Multi-Assorted 999   27 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BFGW3QH/?tag=tolees-21'
+descuento: '40.58'
+titulo: 'CAMPER TWS Kids  Merceditas para Niñas  '
 ---
 
 Está [CAMPER TWS Kids  Merceditas para Niñas  Mehrfarbig  Multi-Assorted 999   27 EU](https://www.amazon.es/dp/B07BFGW3QH/?tag=tolees-21) con 40.58 de descuento por 41 EUR (original: 69 EUR) en el siguiente enlace!

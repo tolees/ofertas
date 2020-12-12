@@ -17,6 +17,9 @@ comparePrice: 19.78 EUR
 inStock: true
 prodname: 'BBB Baselayer BUW-01 Camiseta técnica Interior  Hombre  Blanco  44'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00A6QM0BK/?tag=tolees-21'
+descuento: '67.39'
+titulo: 'BBB Baselayer BUW-01 Camiseta técnica In'
 ---
 
 Tienes [BBB Baselayer BUW-01 Camiseta técnica Interior  Hombre  Blanco  44](https://www.amazon.es/dp/B00A6QM0BK/?tag=tolees-21) con un 67.39 % de descuento con precio de oferta de 6.45 EUR (original: 19.78 EUR) en el siguiente enlace!

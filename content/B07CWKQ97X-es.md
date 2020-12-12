@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'EasyAcc Ventilador Personal Portátil USB Mini Ventilador de Escritorio Ventilador Silencioso de Dos Cuchillas con Control Táctil Ventilador Ajustable para Hogar  Oficina - Rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CWKQ97X/?tag=tolees-21'
+descuento: '66.68'
+titulo: 'EasyAcc Ventilador Personal Portátil USB'
 ---
 
 Ahora mismo tienes [EasyAcc Ventilador Personal Portátil USB Mini Ventilador de Escritorio Ventilador Silencioso de Dos Cuchillas con Control Táctil Ventilador Ajustable para Hogar  Oficina - Rosa](https://www.amazon.es/dp/B07CWKQ97X/?tag=tolees-21) a 14.99 EUR (original: 44.99 EUR) (66.68 %  de descuento) en el siguiente enlace!

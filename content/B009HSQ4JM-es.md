@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Hama Fine Art - Álbum de fotos  50 páginas negras  25 hojas   álbum con espiral  36 x 32 cm  con compartimento para insertar foto  azur azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009HSQ4JM/?tag=tolees-21'
+descuento: '40.03'
+titulo: 'Hama Fine Art - Álbum de fotos  50 págin'
 ---
 
 Está [Hama Fine Art - Álbum de fotos  50 páginas negras  25 hojas   álbum con espiral  36 x 32 cm  con compartimento para insertar foto  azur azul](https://www.amazon.es/dp/B009HSQ4JM/?tag=tolees-21) con 40.03 de descuento por 8.99 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Surplus - Pantalón chino para hombre  talla W37/L33  Herstellergröße: L  - talla alemana  color antracita 017'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008VC1ZKS/?tag=tolees-21'
+descuento: '78.20'
+titulo: 'Surplus - Pantalón chino para hombre  ta'
 ---
 
 Tienes [Surplus - Pantalón chino para hombre  talla W37/L33  Herstellergröße: L  - talla alemana  color antracita 017](https://www.amazon.es/dp/B008VC1ZKS/?tag=tolees-21) con un 78.20 % de descuento con precio de oferta de 8.7 EUR (original: 39.9 EUR) en el siguiente enlace!

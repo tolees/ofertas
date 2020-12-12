@@ -17,6 +17,9 @@ comparePrice: 10.6 EUR
 inStock: true
 prodname: 'Diadermine - Toallitas Desmaquillantes pieles normales/mixtas - 4 uds de 25 toallitas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3X4P6W/?tag=tolees-21'
+descuento: '34.06'
+titulo: 'Diadermine - Toallitas Desmaquillantes p'
 ---
 
 Ahora mismo tienes [Diadermine - Toallitas Desmaquillantes pieles normales/mixtas - 4 uds de 25 toallitas](https://www.amazon.es/dp/B07N3X4P6W/?tag=tolees-21) a 6.99 EUR (original: 10.6 EUR) (34.06 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'hummel Core Cotton Hoodies  Unisex Adulto  Negro  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZDNO2C/?tag=tolees-21'
+descuento: '42.02'
+titulo: 'hummel Core Cotton Hoodies  Unisex Adult'
 ---
 
 Tienes [hummel Core Cotton Hoodies  Unisex Adulto  Negro  XL](https://www.amazon.es/dp/B01MZDNO2C/?tag=tolees-21) con un 42.02 % de descuento con precio de oferta de 26.06 EUR (original: 44.95 EUR) en el siguiente enlace!

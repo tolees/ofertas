@@ -17,6 +17,9 @@ comparePrice: 26.95 EUR
 inStock: true
 prodname: 'Nike Universal Arm Band Brazalete Atletismo y Running Unisex Adulto  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071KF3NXS/?tag=tolees-21'
+descuento: '25.97'
+titulo: 'Nike Universal Arm Band Brazalete Atleti'
 ---
 
 Ahora mismo tienes [Nike Universal Arm Band Brazalete Atletismo y Running Unisex Adulto  Talla Única](https://www.amazon.es/dp/B071KF3NXS/?tag=tolees-21) a 19.95 EUR (original: 26.95 EUR) (25.97 %  de descuento) en el siguiente enlace!

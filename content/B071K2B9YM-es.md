@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'find. Pantalones Regular Fit Hombre Gris  Charcoal  W30/L31'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071K2B9YM/?tag=tolees-21'
+descuento: '67.11'
+titulo: 'find. Pantalones Regular Fit Hombre Gris'
 ---
 
 Está [find. Pantalones Regular Fit Hombre Gris  Charcoal  W30/L31](https://www.amazon.es/dp/B071K2B9YM/?tag=tolees-21) con 67.11 de descuento por 11.51 EUR (original: 35 EUR) en el siguiente enlace!

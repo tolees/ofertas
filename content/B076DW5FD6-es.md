@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'HP DeskJet 2632 AiO 4800 x 1200DPI Inyección de Tinta térmica A4 7.5ppm WiFi - Impresora multifunción  Inyección de Tinta térmica  4800 x 1200 dpi  60 Hojas  A4  Impresión Directa  Verde  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076DW5FD6/?tag=tolees-21'
+descuento: '40.82'
+titulo: 'HP DeskJet 2632 AiO 4800 x 1200DPI Inyec'
 ---
 
 Tienes [HP DeskJet 2632 AiO 4800 x 1200DPI Inyección de Tinta térmica A4 7.5ppm WiFi - Impresora multifunción  Inyección de Tinta térmica  4800 x 1200 dpi  60 Hojas  A4  Impresión Directa  Verde  Blanco ](https://www.amazon.es/dp/B076DW5FD6/?tag=tolees-21) con un 40.82 % de descuento con precio de oferta de 29 EUR (original: 49 EUR) en el siguiente enlace!

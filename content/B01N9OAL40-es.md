@@ -17,6 +17,9 @@ comparePrice: 175 EUR
 inStock: true
 prodname: 'Lacoste - Reloj analógico de pulsera para mujer - 2000969'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9OAL40/?tag=tolees-21'
+descuento: '45.42'
+titulo: 'Lacoste - Reloj analógico de pulsera par'
 ---
 
 Ahora mismo tienes [Lacoste - Reloj analógico de pulsera para mujer - 2000969](https://www.amazon.es/dp/B01N9OAL40/?tag=tolees-21) a 95.51 EUR (original: 175 EUR) (45.42 %  de descuento) en el siguiente enlace!

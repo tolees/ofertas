@@ -17,6 +17,9 @@ comparePrice: 261.62 EUR
 inStock: true
 prodname: 'Imperial Confort Paris - Colchón viscoelástico - 150 x 190 x 24 cm - Color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0793MHDH5/?tag=tolees-21'
+descuento: '73.00'
+titulo: 'Imperial Confort Paris - Colchón viscoel'
 ---
 
 Tienes [Imperial Confort Paris - Colchón viscoelástico - 150 x 190 x 24 cm - Color blanco](https://www.amazon.es/dp/B0793MHDH5/?tag=tolees-21) con un 73.00 % de descuento con precio de oferta de 70.64 EUR (original: 261.62 EUR) en el siguiente enlace!

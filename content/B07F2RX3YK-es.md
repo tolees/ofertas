@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Armani Exchange Knitted Lace Up Sneaker  Zapatillas para Mujer  Blanco  White 00001   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2RX3YK/?tag=tolees-21'
+descuento: '45.38'
+titulo: 'Armani Exchange Knitted Lace Up Sneaker '
 ---
 
 Tienes [Armani Exchange Knitted Lace Up Sneaker  Zapatillas para Mujer  Blanco  White 00001   41 EU](https://www.amazon.es/dp/B07F2RX3YK/?tag=tolees-21) con un 45.38 % de descuento con precio de oferta de 87.39 EUR (original: 160 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'LIU JO Shoes Alexa-Running Fuxia Fluo  Zapatillas para Mujer  Rosa Fluor S16f1  35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L6XKZCS/?tag=tolees-21'
+descuento: '45.72'
+titulo: 'LIU JO Shoes Alexa-Running Fuxia Fluo  Z'
 ---
 
 Está [LIU JO Shoes Alexa-Running Fuxia Fluo  Zapatillas para Mujer  Rosa Fluor S16f1  35 EU](https://www.amazon.es/dp/B07L6XKZCS/?tag=tolees-21) con 45.72 de descuento por 59.16 EUR (original: 109 EUR) en el siguiente enlace!

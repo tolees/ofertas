@@ -17,6 +17,9 @@ comparePrice: 12.25 EUR
 inStock: true
 prodname: 'Phantasma II [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KWA4IBO/?tag=tolees-21'
+descuento: '41.71'
+titulo: 'Phantasma II [Blu-ray]'
 ---
 
 Ahora mismo tienes [Phantasma II [Blu-ray]](https://www.amazon.es/dp/B01KWA4IBO/?tag=tolees-21) a 7.14 EUR (original: 12.25 EUR) (41.71 %  de descuento) en el siguiente enlace!

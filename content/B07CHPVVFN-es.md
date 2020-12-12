@@ -17,6 +17,9 @@ comparePrice: 148.99 EUR
 inStock: true
 prodname: 'HyperX Predator HX429C15PB3A/8 - Kit Memoria DDR4 RGB 8GB  2933Mhz CL15 DIMM XMP'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CHPVVFN/?tag=tolees-21'
+descuento: '56.38'
+titulo: 'HyperX Predator HX429C15PB3A/8 - Kit Mem'
 ---
 
 Está [HyperX Predator HX429C15PB3A/8 - Kit Memoria DDR4 RGB 8GB  2933Mhz CL15 DIMM XMP](https://www.amazon.es/dp/B07CHPVVFN/?tag=tolees-21) con 56.38 de descuento por 64.99 EUR (original: 148.99 EUR) en el siguiente enlace!

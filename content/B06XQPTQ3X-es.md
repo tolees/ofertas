@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Vans Herren Classic Crew Sweatshirt  Schwarz  Black/white   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XQPTQ3X/?tag=tolees-21'
+descuento: '33.42'
+titulo: 'Vans Herren Classic Crew Sweatshirt  Sch'
 ---
 
 Tienes [Vans Herren Classic Crew Sweatshirt  Schwarz  Black/white   X-Large](https://www.amazon.es/dp/B06XQPTQ3X/?tag=tolees-21) con un 33.42 % de descuento con precio de oferta de 39.95 EUR (original: 60 EUR) en el siguiente enlace!

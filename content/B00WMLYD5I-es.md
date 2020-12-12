@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Smartwares CL-1474 – Reloj despertador  retro  radio FM  pantalla regulable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WMLYD5I/?tag=tolees-21'
+descuento: '25.41'
+titulo: 'Smartwares CL-1474 – Reloj despertador  '
 ---
 
 Ahora mismo tienes [Smartwares CL-1474 – Reloj despertador  retro  radio FM  pantalla regulable](https://www.amazon.es/dp/B00WMLYD5I/?tag=tolees-21) a 18.61 EUR (original: 24.95 EUR) (25.41 %  de descuento) en el siguiente enlace!

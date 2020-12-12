@@ -17,6 +17,9 @@ comparePrice: 149.9 EUR
 inStock: true
 prodname: 'Geox U Nebula 4 X 4 B ABX A  Botas Chukka para Hombre   Black C9999   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792DV4MM/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'Geox U Nebula 4 X 4 B ABX A  Botas Chukk'
 ---
 
 Está [Geox U Nebula 4 X 4 B ABX A  Botas Chukka para Hombre   Black C9999   45 EU](https://www.amazon.es/dp/B0792DV4MM/?tag=tolees-21) con 49.97 de descuento por 75 EUR (original: 149.9 EUR) en el siguiente enlace!

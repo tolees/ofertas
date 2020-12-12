@@ -17,6 +17,9 @@ comparePrice: 39.2 EUR
 inStock: true
 prodname: 'Bahco 808050 DESTORNILLADOR CARRACA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001DZI2VK/?tag=tolees-21'
+descuento: '59.21'
+titulo: 'Bahco 808050 DESTORNILLADOR CARRACA'
 ---
 
 Tienes [Bahco 808050 DESTORNILLADOR CARRACA](https://www.amazon.es/dp/B001DZI2VK/?tag=tolees-21) con un 59.21 % de descuento con precio de oferta de 15.99 EUR (original: 39.2 EUR) en el siguiente enlace!

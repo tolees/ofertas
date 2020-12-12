@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Under Armour UA CF Force 3.0 FG  Zapatillas de Fútbol para Hombre  Negro  Black   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LWYNAAV/?tag=tolees-21'
+descuento: '65.03'
+titulo: 'Under Armour UA CF Force 3.0 FG  Zapatil'
 ---
 
 Está [Under Armour UA CF Force 3.0 FG  Zapatillas de Fútbol para Hombre  Negro  Black   42.5 EU](https://www.amazon.es/dp/B01LWYNAAV/?tag=tolees-21) con 65.03 de descuento por 22.73 EUR (original: 65 EUR) en el siguiente enlace!

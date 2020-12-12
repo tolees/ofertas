@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 4Wo M/Ranglan Block Gg12 Jersey  Gama Azules 11  Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL98TPL/?tag=tolees-21'
+descuento: '75.76'
+titulo: 'Springfield 4Wo M/Ranglan Block Gg12 Jer'
 ---
 
 Tienes [Springfield 4Wo M/Ranglan Block Gg12 Jersey  Gama Azules 11  Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07DL98TPL/?tag=tolees-21) con un 75.76 % de descuento con precio de oferta de 6.3 EUR (original: 25.99 EUR) en el siguiente enlace!

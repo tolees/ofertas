@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Philips Avent SCF031/17 - Biberón natural de 125 ml  rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GXHP8PZ/?tag=tolees-21'
+descuento: '48.55'
+titulo: 'Philips Avent SCF031/17 - Biberón natura'
 ---
 
 Tienes [Philips Avent SCF031/17 - Biberón natural de 125 ml  rosa](https://www.amazon.es/dp/B07GXHP8PZ/?tag=tolees-21) con un 48.55 % de descuento con precio de oferta de 5.14 EUR (original: 9.99 EUR) en el siguiente enlace!

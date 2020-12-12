@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Hackett London Kensington Slim Chino  Pantalones para Hombre  Azul  Dusty Azure 5IP  34W / 34L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C57YX1P/?tag=tolees-21'
+descuento: '44.79'
+titulo: 'Hackett London Kensington Slim Chino  Pa'
 ---
 
 Ahora mismo tienes [Hackett London Kensington Slim Chino  Pantalones para Hombre  Azul  Dusty Azure 5IP  34W / 34L](https://www.amazon.es/dp/B07C57YX1P/?tag=tolees-21) a 71.77 EUR (original: 130 EUR) (44.79 %  de descuento) en el siguiente enlace!

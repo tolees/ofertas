@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Homelody Cromado Grifo Lavabo Extraíble Grifo Baño para el Cuarto de Baño sin plomo Agua fría y agua caliente'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G6ZKPDD/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Homelody Cromado Grifo Lavabo Extraíble '
 ---
 
 Está [Homelody Cromado Grifo Lavabo Extraíble Grifo Baño para el Cuarto de Baño sin plomo Agua fría y agua caliente](https://www.amazon.es/dp/B07G6ZKPDD/?tag=tolees-21) con 33.34 de descuento por 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!

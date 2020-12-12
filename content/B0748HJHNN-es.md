@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'TACKLIFE Encendedor  ELY03 Mini Mechero Clásico Eléctrico  sin Llama ni Olor  Batería Interna de 220 mAh  Usos más de 400 Veces  Recargable con USB  para Cigarrillos  Velas  Papel  Madera Fina  Estufa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0748HJHNN/?tag=tolees-21'
+descuento: '25.90'
+titulo: 'TACKLIFE Encendedor  ELY03 Mini Mechero '
 ---
 
 Está [TACKLIFE Encendedor  ELY03 Mini Mechero Clásico Eléctrico  sin Llama ni Olor  Batería Interna de 220 mAh  Usos más de 400 Veces  Recargable con USB  para Cigarrillos  Velas  Papel  Madera Fina  Estufa](https://www.amazon.es/dp/B0748HJHNN/?tag=tolees-21) con 25.90 de descuento por 12.59 EUR (original: 16.99 EUR) en el siguiente enlace!

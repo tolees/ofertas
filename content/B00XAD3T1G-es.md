@@ -17,6 +17,9 @@ comparePrice: 25.77 EUR
 inStock: true
 prodname: 'Durex Sensitivos Real Feel - Preservativos - 24 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XAD3T1G/?tag=tolees-21'
+descuento: '61.23'
+titulo: 'Durex Sensitivos Real Feel - Preservativ'
 ---
 
 Está [Durex Sensitivos Real Feel - Preservativos - 24 unidades](https://www.amazon.es/dp/B00XAD3T1G/?tag=tolees-21) con 61.23 de descuento por 9.99 EUR (original: 25.77 EUR) en el siguiente enlace!

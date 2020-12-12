@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Volcom Men s Lido Volley 16" Boardshorts  Hombre  Charcoal Heather  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HP57KVK/?tag=tolees-21'
+descuento: '60.36'
+titulo: 'Volcom Men s Lido Volley 16" Boardshorts'
 ---
 
 Está [Volcom Men s Lido Volley 16" Boardshorts  Hombre  Charcoal Heather  XL](https://www.amazon.es/dp/B07HP57KVK/?tag=tolees-21) con 60.36 de descuento por 17.84 EUR (original: 45 EUR) en el siguiente enlace!

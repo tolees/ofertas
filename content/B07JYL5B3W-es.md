@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'adidas Forest Grove W  Zapatillas de Gimnasia para Mujer  Negro Core Black/Ash Grey S18/Chalk White  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JYL5B3W/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Forest Grove W  Zapatillas de Gim'
 ---
 
 Tienes [adidas Forest Grove W  Zapatillas de Gimnasia para Mujer  Negro Core Black/Ash Grey S18/Chalk White  39 EU](https://www.amazon.es/dp/B07JYL5B3W/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 39.98 EUR (original: 79.95 EUR) en el siguiente enlace!

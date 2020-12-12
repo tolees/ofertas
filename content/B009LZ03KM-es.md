@@ -17,6 +17,9 @@ comparePrice: 399 EUR
 inStock: true
 prodname: 'BH - Fitness Tactile Tonic Pro Plataforma Vibro-Masaje  Unisex  Rojo/Gris  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009LZ03KM/?tag=tolees-21'
+descuento: '34.84'
+titulo: 'BH - Fitness Tactile Tonic Pro Plataform'
 ---
 
 Tienes [BH - Fitness Tactile Tonic Pro Plataforma Vibro-Masaje  Unisex  Rojo/Gris  Talla Única](https://www.amazon.es/dp/B009LZ03KM/?tag=tolees-21) con un 34.84 % de descuento con precio de oferta de 260 EUR (original: 399 EUR) en el siguiente enlace!

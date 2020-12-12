@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Tous CLUTCH HOLD AZUL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NWXJXNQ/?tag=tolees-21'
+descuento: '44.94'
+titulo: 'Tous CLUTCH HOLD AZUL'
 ---
 
 Está [Tous CLUTCH HOLD AZUL](https://www.amazon.es/dp/B07NWXJXNQ/?tag=tolees-21) con 44.94 de descuento por 49 EUR (original: 89 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'LE COQ SPORTIF Carcans Sport Dress Blue  Zapatillas para Hombre  Beige Bleu  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC79XTK/?tag=tolees-21'
+descuento: '26.53'
+titulo: 'LE COQ SPORTIF Carcans Sport Dress Blue '
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Carcans Sport Dress Blue  Zapatillas para Hombre  Beige Bleu  40 EU](https://www.amazon.es/dp/B07DC79XTK/?tag=tolees-21) a 51.43 EUR (original: 70 EUR) (26.53 %  de descuento) en el siguiente enlace!

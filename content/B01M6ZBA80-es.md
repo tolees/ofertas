@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Under Armour Fly by Pantalón Capri  Mujer  Negro  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M6ZBA80/?tag=tolees-21'
+descuento: '51.68'
+titulo: 'Under Armour Fly by Pantalón Capri  Muje'
 ---
 
 Tienes [Under Armour Fly by Pantalón Capri  Mujer  Negro  XS](https://www.amazon.es/dp/B01M6ZBA80/?tag=tolees-21) con un 51.68 % de descuento con precio de oferta de 24.16 EUR (original: 50 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 50.95 EUR
 inStock: true
 prodname: 'Izas Vancouver Calzado  Unisex Adulto  Azul Cian / Gris Oscuro  41'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071L6V5FX/?tag=tolees-21'
+descuento: '58.14'
+titulo: 'Izas Vancouver Calzado  Unisex Adulto  A'
 ---
 
 Está [Izas Vancouver Calzado  Unisex Adulto  Azul Cian / Gris Oscuro  41](https://www.amazon.es/dp/B071L6V5FX/?tag=tolees-21) con 58.14 de descuento por 21.33 EUR (original: 50.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Rebel Block FL cl Pants  Hombre  Peacoat  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFRQPGN/?tag=tolees-21'
+descuento: '58.50'
+titulo: 'Puma Rebel Block FL cl Pants  Hombre  Pe'
 ---
 
 Está [Puma Rebel Block FL cl Pants  Hombre  Peacoat  XL](https://www.amazon.es/dp/B07DFRQPGN/?tag=tolees-21) con 58.50 de descuento por 20.73 EUR (original: 49.95 EUR) en el siguiente enlace!

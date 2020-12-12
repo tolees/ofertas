@@ -17,6 +17,9 @@ comparePrice: 53 EUR
 inStock: true
 prodname: 'Vans K Authentic Disney - Zapatillas Bajas Infantil  Color Disney/Winnie The Pooh/Light Khaki  Talla 33'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00RC7OMOY/?tag=tolees-21'
+descuento: '51.98'
+titulo: 'Vans K Authentic Disney - Zapatillas Baj'
 ---
 
 Está [Vans K Authentic Disney - Zapatillas Bajas Infantil  Color Disney/Winnie The Pooh/Light Khaki  Talla 33](https://www.amazon.es/dp/B00RC7OMOY/?tag=tolees-21) con 51.98 de descuento por 25.45 EUR (original: 53 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 68.72 EUR
 inStock: true
 prodname: 'Brocas Forstner Set  NASUM 18 PCS Broca Fresadora Madera Hecho de Acero de Tungsteno y Titanio Individual Revestido  Herramienta para Perforadora/Corte Agujero en Carpintería 15-40mm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTSX9Z5/?tag=tolees-21'
+descuento: '68.00'
+titulo: 'Brocas Forstner Set  NASUM 18 PCS Broca '
 ---
 
 Tienes [Brocas Forstner Set  NASUM 18 PCS Broca Fresadora Madera Hecho de Acero de Tungsteno y Titanio Individual Revestido  Herramienta para Perforadora/Corte Agujero en Carpintería 15-40mm ](https://www.amazon.es/dp/B07KTSX9Z5/?tag=tolees-21) con un 68.00 % de descuento con precio de oferta de 21.99 EUR (original: 68.72 EUR) en el siguiente enlace!

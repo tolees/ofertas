@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Funko Yoda figura de vinilo  colección de POP  seria Star Wars 2322'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004JZ6OV6/?tag=tolees-21'
+descuento: '45.15'
+titulo: 'Funko Yoda figura de vinilo  colección d'
 ---
 
 Está [Funko Yoda figura de vinilo  colección de POP  seria Star Wars 2322](https://www.amazon.es/dp/B004JZ6OV6/?tag=tolees-21) con 45.15 de descuento por 8.2 EUR (original: 14.95 EUR) en el siguiente enlace!

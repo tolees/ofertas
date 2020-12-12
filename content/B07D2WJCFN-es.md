@@ -17,6 +17,9 @@ comparePrice: 39.6 EUR
 inStock: true
 prodname: 'AmazonBasics - Micrófonos para cámara LJ-OCM-002'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2WJCFN/?tag=tolees-21'
+descuento: '49.52'
+titulo: 'AmazonBasics - Micrófonos para cámara LJ'
 ---
 
 Tienes [AmazonBasics - Micrófonos para cámara LJ-OCM-002](https://www.amazon.es/dp/B07D2WJCFN/?tag=tolees-21) con un 49.52 % de descuento con precio de oferta de 19.99 EUR (original: 39.6 EUR) en el siguiente enlace!

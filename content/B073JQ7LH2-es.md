@@ -17,6 +17,9 @@ comparePrice: 12 EUR
 inStock: true
 prodname: 'FIND Camiseta Básica Hombre  Negro  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073JQ7LH2/?tag=tolees-21'
+descuento: '68.17'
+titulo: 'FIND Camiseta Básica Hombre  Negro  Smal'
 ---
 
 Está [FIND Camiseta Básica Hombre  Negro  Small](https://www.amazon.es/dp/B073JQ7LH2/?tag=tolees-21) con 68.17 de descuento por 3.82 EUR (original: 12 EUR) en el siguiente enlace!

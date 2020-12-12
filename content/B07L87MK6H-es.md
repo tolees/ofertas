@@ -17,6 +17,9 @@ comparePrice: 189.99 EUR
 inStock: true
 prodname: 'UMIDIGI One Pro - Smartphone Libre  5 9 Pulgadas  64 GB de Memoria Interna  Android 8.0  Dual SIM   Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L87MK6H/?tag=tolees-21'
+descuento: '26.32'
+titulo: 'UMIDIGI One Pro - Smartphone Libre  5 9 '
 ---
 
 Está [UMIDIGI One Pro - Smartphone Libre  5 9 Pulgadas  64 GB de Memoria Interna  Android 8.0  Dual SIM   Color Negro](https://www.amazon.es/dp/B07L87MK6H/?tag=tolees-21) con 26.32 de descuento por 139.99 EUR (original: 189.99 EUR) en el siguiente enlace!

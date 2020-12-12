@@ -17,6 +17,9 @@ comparePrice: 249.99 EUR
 inStock: true
 prodname: 'Oneconcept Game-Star • Mesa de Juegos • Mesa multifunción • Incluye 15 Juegos Diferentes • Futbolín • Patas de la Mesa con Altura Regulable • Reglas de Juego detalladas • Medidas: 105 x 71 x 58 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TTWL87/?tag=tolees-21'
+descuento: '32.00'
+titulo: 'Oneconcept Game-Star • Mesa de Juegos • '
 ---
 
 Ahora mismo tienes [Oneconcept Game-Star • Mesa de Juegos • Mesa multifunción • Incluye 15 Juegos Diferentes • Futbolín • Patas de la Mesa con Altura Regulable • Reglas de Juego detalladas • Medidas: 105 x 71 x 58 cm](https://www.amazon.es/dp/B077TTWL87/?tag=tolees-21) a 169.99 EUR (original: 249.99 EUR) (32.00 %  de descuento) en el siguiente enlace!

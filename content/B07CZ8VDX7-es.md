@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Puma Roma Basic  Zapatillas para Hombre  Naranja  Dusty Coral White 82   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ8VDX7/?tag=tolees-21'
+descuento: '45.51'
+titulo: 'Puma Roma Basic  Zapatillas para Hombre '
 ---
 
 Está [Puma Roma Basic  Zapatillas para Hombre  Naranja  Dusty Coral White 82   38.5 EU](https://www.amazon.es/dp/B07CZ8VDX7/?tag=tolees-21) con 45.51 de descuento por 40.84 EUR (original: 74.95 EUR) en el siguiente enlace!

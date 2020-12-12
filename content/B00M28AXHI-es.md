@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Camper Right Kids  Mocasines para Niñas  Schwarz  Black   26 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00M28AXHI/?tag=tolees-21'
+descuento: '52.62'
+titulo: 'Camper Right Kids  Mocasines para Niñas '
 ---
 
 Está [Camper Right Kids  Mocasines para Niñas  Schwarz  Black   26 EU](https://www.amazon.es/dp/B00M28AXHI/?tag=tolees-21) con 52.62 de descuento por 30.8 EUR (original: 65 EUR) en el siguiente enlace!

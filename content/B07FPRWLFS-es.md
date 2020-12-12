@@ -17,6 +17,9 @@ comparePrice: 19.98 EUR
 inStock: true
 prodname: 'Real Madrid 611854672 2018 Bolso Bandolera  22 cm  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPRWLFS/?tag=tolees-21'
+descuento: '33.68'
+titulo: 'Real Madrid 611854672 2018 Bolso Bandole'
 ---
 
 Está [Real Madrid 611854672 2018 Bolso Bandolera  22 cm  Blanco](https://www.amazon.es/dp/B07FPRWLFS/?tag=tolees-21) con 33.68 de descuento por 13.25 EUR (original: 19.98 EUR) en el siguiente enlace!

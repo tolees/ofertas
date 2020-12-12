@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Springfield 593826 Bañador  Gama Verdes 28  M  Tamaño del Fabricante:M  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H4HVJS/?tag=tolees-21'
+descuento: '42.84'
+titulo: 'Springfield 593826 Bañador  Gama Verdes '
 ---
 
 Está [Springfield 593826 Bañador  Gama Verdes 28  M  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B078H4HVJS/?tag=tolees-21) con 42.84 de descuento por 13.14 EUR (original: 22.99 EUR) en el siguiente enlace!

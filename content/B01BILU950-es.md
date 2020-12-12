@@ -17,6 +17,9 @@ comparePrice: 7.95 EUR
 inStock: true
 prodname: 'Head Xtremesoft Overgrip  Unisex Adulto  Rosa  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BILU950/?tag=tolees-21'
+descuento: '31.45'
+titulo: 'Head Xtremesoft Overgrip  Unisex Adulto '
 ---
 
 Tienes [Head Xtremesoft Overgrip  Unisex Adulto  Rosa  Talla Única](https://www.amazon.es/dp/B01BILU950/?tag=tolees-21) con un 31.45 % de descuento con precio de oferta de 5.45 EUR (original: 7.95 EUR) en el siguiente enlace!

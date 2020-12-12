@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'PIECES Pcfortuna LS Wool Knit Cardigan Noos  Chaqueta Punto Mujer  Negro  Black Black   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DM1JX4X/?tag=tolees-21'
+descuento: '71.35'
+titulo: 'PIECES Pcfortuna LS Wool Knit Cardigan N'
 ---
 
 Tienes [PIECES Pcfortuna LS Wool Knit Cardigan Noos  Chaqueta Punto Mujer  Negro  Black Black   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07DM1JX4X/?tag=tolees-21) con un 71.35 % de descuento con precio de oferta de 12.89 EUR (original: 44.99 EUR) en el siguiente enlace!

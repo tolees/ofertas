@@ -17,6 +17,9 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Columbia Hombre Chaqueta impermeable  Forest Park Jacket  Poliéster  Negro  Talla: L  1839101'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSFN4T7/?tag=tolees-21'
+descuento: '51.59'
+titulo: 'Columbia Hombre Chaqueta impermeable  Fo'
 ---
 
 Tienes [Columbia Hombre Chaqueta impermeable  Forest Park Jacket  Poliéster  Negro  Talla: L  1839101](https://www.amazon.es/dp/B07KSFN4T7/?tag=tolees-21) con un 51.59 % de descuento con precio de oferta de 72.61 EUR (original: 149.99 EUR) en el siguiente enlace!

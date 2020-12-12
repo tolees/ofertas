@@ -17,6 +17,9 @@ comparePrice: 649 EUR
 inStock: true
 prodname: 'Samyang F1110810101 - Objetivo fotográfico DSLR para Fuji X  Distancia Focal Fija 24mm  Apertura f/1.4-22 ED AS IF UMC  diámetro Filtro: 77mm   Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TS9DNEE/?tag=tolees-21'
+descuento: '57.99'
+titulo: 'Samyang F1110810101 - Objetivo fotográfi'
 ---
 
 Tienes [Samyang F1110810101 - Objetivo fotográfico DSLR para Fuji X  Distancia Focal Fija 24mm  Apertura f/1.4-22 ED AS IF UMC  diámetro Filtro: 77mm   Negro](https://www.amazon.es/dp/B00TS9DNEE/?tag=tolees-21) con un 57.99 % de descuento con precio de oferta de 272.65 EUR (original: 649 EUR) en el siguiente enlace!

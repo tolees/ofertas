@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Nike Mercurial Victory Vi AG-Pro  Botas de fútbol para Hombre  Rosa  Racer Pink/Black/White   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M3RZ85O/?tag=tolees-21'
+descuento: '51.84'
+titulo: 'Nike Mercurial Victory Vi AG-Pro  Botas '
 ---
 
 Ahora mismo tienes [Nike Mercurial Victory Vi AG-Pro  Botas de fútbol para Hombre  Rosa  Racer Pink/Black/White   42.5 EU](https://www.amazon.es/dp/B01M3RZ85O/?tag=tolees-21) a 36.12 EUR (original: 75 EUR) (51.84 %  de descuento) en el siguiente enlace!

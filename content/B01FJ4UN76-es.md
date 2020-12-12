@@ -17,6 +17,9 @@ comparePrice: 81.95 EUR
 inStock: true
 prodname: 'Kingston SSD Now UV400 - Disco duro sólido de 120 GB  2.5"  SATA 3 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FJ4UN76/?tag=tolees-21'
+descuento: '57.03'
+titulo: 'Kingston SSD Now UV400 - Disco duro sóli'
 ---
 
 Tienes [Kingston SSD Now UV400 - Disco duro sólido de 120 GB  2.5"  SATA 3 ](https://www.amazon.es/dp/B01FJ4UN76/?tag=tolees-21) con un 57.03 % de descuento con precio de oferta de 35.21 EUR (original: 81.95 EUR) en el siguiente enlace!

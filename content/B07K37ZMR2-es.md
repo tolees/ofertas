@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Adidas Runfalcon  Zapatillas de Running para Hombre  Nero Core Black  40 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K37ZMR2/?tag=tolees-21'
+descuento: '30.03'
+titulo: 'Adidas Runfalcon  Zapatillas de Running '
 ---
 
 Está [Adidas Runfalcon  Zapatillas de Running para Hombre  Nero Core Black  40 2/3 EU](https://www.amazon.es/dp/B07K37ZMR2/?tag=tolees-21) con 30.03 de descuento por 34.95 EUR (original: 49.95 EUR) en el siguiente enlace!

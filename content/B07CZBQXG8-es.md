@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Under Armour Boy s Printed Blitzing 3.0 Gorra  Niños  Gris  Pitch Jet Mod Gray 012   S/M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZBQXG8/?tag=tolees-21'
+descuento: '38.95'
+titulo: 'Under Armour Boy s Printed Blitzing 3.0 '
 ---
 
 Tienes [Under Armour Boy s Printed Blitzing 3.0 Gorra  Niños  Gris  Pitch Jet Mod Gray 012   S/M](https://www.amazon.es/dp/B07CZBQXG8/?tag=tolees-21) con un 38.95 % de descuento con precio de oferta de 12.21 EUR (original: 20 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'CALLAGHAN - 14200-45'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079X58MFK/?tag=tolees-21'
+descuento: '36.40'
+titulo: 'CALLAGHAN - 14200-45'
 ---
 
 Ahora mismo tienes [CALLAGHAN - 14200-45](https://www.amazon.es/dp/B079X58MFK/?tag=tolees-21) a 69.9 EUR (original: 109.9 EUR) (36.40 %  de descuento) en el siguiente enlace!

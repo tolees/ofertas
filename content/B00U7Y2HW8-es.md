@@ -17,6 +17,9 @@ comparePrice: 23.5 EUR
 inStock: true
 prodname: 'Velbon Ultra Selfie'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U7Y2HW8/?tag=tolees-21'
+descuento: '68.09'
+titulo: 'Velbon Ultra Selfie'
 ---
 
 Ahora mismo tienes [Velbon Ultra Selfie](https://www.amazon.es/dp/B00U7Y2HW8/?tag=tolees-21) a 7.5 EUR (original: 23.5 EUR) (68.09 %  de descuento) en el siguiente enlace!

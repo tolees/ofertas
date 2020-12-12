@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Muse Satin EP Wn s  Zapatillas para Mujer  Negro  Puma Black-Puma White 3   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078K1R9QV/?tag=tolees-21'
+descuento: '50.53'
+titulo: 'Puma Muse Satin EP Wn s  Zapatillas para'
 ---
 
 Está [Puma Muse Satin EP Wn s  Zapatillas para Mujer  Negro  Puma Black-Puma White 3   37.5 EU](https://www.amazon.es/dp/B078K1R9QV/?tag=tolees-21) con 50.53 de descuento por 44.5 EUR (original: 89.95 EUR) en el siguiente enlace!

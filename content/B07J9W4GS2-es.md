@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'INTEY Almohada  Almohada Viscoelástica  Tejido de Fibra de Bambú  Forro de Espuma con Memoria Finamente Despelmazada  Ajustable  Aliviar la presión del Cuello  Doble Cremallera  Grande-50x75cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J9W4GS2/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'INTEY Almohada  Almohada Viscoelástica  '
 ---
 
 Está [INTEY Almohada  Almohada Viscoelástica  Tejido de Fibra de Bambú  Forro de Espuma con Memoria Finamente Despelmazada  Ajustable  Aliviar la presión del Cuello  Doble Cremallera  Grande-50x75cm](https://www.amazon.es/dp/B07J9W4GS2/?tag=tolees-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

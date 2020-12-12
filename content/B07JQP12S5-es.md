@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Lacoste Bóxer para Hombre  Multicolor  Black/Grey   X-Large  Talla del fabricante:XL   paquete de 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQP12S5/?tag=tolees-21'
+descuento: '60.38'
+titulo: 'Lacoste Bóxer para Hombre  Multicolor  B'
 ---
 
 Tienes [Lacoste Bóxer para Hombre  Multicolor  Black/Grey   X-Large  Talla del fabricante:XL   paquete de 2](https://www.amazon.es/dp/B07JQP12S5/?tag=tolees-21) con un 60.38 % de descuento con precio de oferta de 17.83 EUR (original: 45 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Burton Underhill Sudaderas  Hombre  True Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKYVYNH/?tag=tolees-21'
+descuento: '46.98'
+titulo: 'Burton Underhill Sudaderas  Hombre  True'
 ---
 
 Está [Burton Underhill Sudaderas  Hombre  True Black  S](https://www.amazon.es/dp/B07KKYVYNH/?tag=tolees-21) con 46.98 de descuento por 34.46 EUR (original: 65 EUR) en el siguiente enlace!

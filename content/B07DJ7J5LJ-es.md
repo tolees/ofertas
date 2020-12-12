@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance 420  Zapatillas Unisex Adulto  Blanco  Nimbus Cloud/Outerspace Mnc   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ7J5LJ/?tag=tolees-21'
+descuento: '54.76'
+titulo: 'New Balance 420  Zapatillas Unisex Adult'
 ---
 
 Está [New Balance 420  Zapatillas Unisex Adulto  Blanco  Nimbus Cloud/Outerspace Mnc   44.5 EU](https://www.amazon.es/dp/B07DJ7J5LJ/?tag=tolees-21) con 54.76 de descuento por 36.19 EUR (original: 80 EUR) en el siguiente enlace!

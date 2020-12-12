@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Landoh Shirt L/s  Camisa Hombre  Gris  Grey Htr 906   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCG9MJQ/?tag=tolees-21'
+descuento: '52.67'
+titulo: 'G-STAR RAW Landoh Shirt L/s  Camisa Homb'
 ---
 
 Tienes [G-STAR RAW Landoh Shirt L/s  Camisa Hombre  Gris  Grey Htr 906   X-Large](https://www.amazon.es/dp/B06XCG9MJQ/?tag=tolees-21) con un 52.67 % de descuento con precio de oferta de 47.31 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18395/2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Q1LDQK/?tag=tolees-21'
+descuento: '33.69'
+titulo: 'Lotus Reloj Analógico para Mujer de Cuar'
 ---
 
 Tienes [Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18395/2](https://www.amazon.es/dp/B077Q1LDQK/?tag=tolees-21) con un 33.69 % de descuento con precio de oferta de 65.65 EUR (original: 99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'Volcom Smithington Ii  Botines De Cordones para Hombre  Negro  New Black   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X3QRWLV/?tag=tolees-21'
+descuento: '82.29'
+titulo: 'Volcom Smithington Ii  Botines De Cordon'
 ---
 
 Tienes [Volcom Smithington Ii  Botines De Cordones para Hombre  Negro  New Black   42 EU](https://www.amazon.es/dp/B06X3QRWLV/?tag=tolees-21) con un 82.29 % de descuento con precio de oferta de 31.87 EUR (original: 180 EUR) en el siguiente enlace!

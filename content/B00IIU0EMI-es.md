@@ -17,6 +17,9 @@ comparePrice: 25.6 EUR
 inStock: true
 prodname: 'SHISEIDO SENSCIENCE volume boost styling foam 200 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IIU0EMI/?tag=tolees-21'
+descuento: '58.98'
+titulo: 'SHISEIDO SENSCIENCE volume boost styling'
 ---
 
 Tienes [SHISEIDO SENSCIENCE volume boost styling foam 200 ml](https://www.amazon.es/dp/B00IIU0EMI/?tag=tolees-21) con un 58.98 % de descuento con precio de oferta de 10.5 EUR (original: 25.6 EUR) en el siguiente enlace!

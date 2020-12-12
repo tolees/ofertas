@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Gant O1. Regular Cord Jeans  Vaqueros Straight Hombre  Rojo  Roasted Brown Walnut   W34/L32  Talla del Fabricante: 34/32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2PZMMQ/?tag=tolees-21'
+descuento: '30.20'
+titulo: 'Gant O1. Regular Cord Jeans  Vaqueros St'
 ---
 
 Tienes [Gant O1. Regular Cord Jeans  Vaqueros Straight Hombre  Rojo  Roasted Brown Walnut   W34/L32  Talla del Fabricante: 34/32 ](https://www.amazon.es/dp/B07D2PZMMQ/?tag=tolees-21) con un 30.20 % de descuento con precio de oferta de 104 EUR (original: 149 EUR) en el siguiente enlace!

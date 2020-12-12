@@ -17,6 +17,9 @@ comparePrice: 48 EUR
 inStock: true
 prodname: 'Kelme Omaha Flowers  Zapatillas para Mujer   Blanco Y Morado 198   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07987GRPH/?tag=tolees-21'
+descuento: '70.73'
+titulo: 'Kelme Omaha Flowers  Zapatillas para Muj'
 ---
 
 Está [Kelme Omaha Flowers  Zapatillas para Mujer   Blanco Y Morado 198   40 EU](https://www.amazon.es/dp/B07987GRPH/?tag=tolees-21) con 70.73 de descuento por 14.05 EUR (original: 48 EUR) en el siguiente enlace!

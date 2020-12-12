@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Mega Nrgy Turbo 2  Zapatillas de Cross para Hombre  Rojo  Red Dahlia-Flame Scarlet   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MQ6CH9/?tag=tolees-21'
+descuento: '58.51'
+titulo: 'Puma Mega Nrgy Turbo 2  Zapatillas de Cr'
 ---
 
 Ahora mismo tienes [Puma Mega Nrgy Turbo 2  Zapatillas de Cross para Hombre  Rojo  Red Dahlia-Flame Scarlet   44 EU](https://www.amazon.es/dp/B077MQ6CH9/?tag=tolees-21) a 29.02 EUR (original: 69.95 EUR) (58.51 %  de descuento) en el siguiente enlace!

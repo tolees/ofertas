@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'REPLAY M4972b.000.52044  Camisa para Hombre   White/Light Blue Stripe 10  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CJNLRRT/?tag=tolees-21'
+descuento: '74.31'
+titulo: 'REPLAY M4972b.000.52044  Camisa para Hom'
 ---
 
 Está [REPLAY M4972b.000.52044  Camisa para Hombre   White/Light Blue Stripe 10  Small](https://www.amazon.es/dp/B07CJNLRRT/?tag=tolees-21) con 74.31 de descuento por 22.86 EUR (original: 89 EUR) en el siguiente enlace!

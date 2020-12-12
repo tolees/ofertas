@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Columbia Fast Trek II Full Zip Fleece Chaqueta Polar  Hombre  Azul  Abyss   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AAJBCYE/?tag=tolees-21'
+descuento: '67.03'
+titulo: 'Columbia Fast Trek II Full Zip Fleece Ch'
 ---
 
 Tienes [Columbia Fast Trek II Full Zip Fleece Chaqueta Polar  Hombre  Azul  Abyss   XXL](https://www.amazon.es/dp/B00AAJBCYE/?tag=tolees-21) con un 67.03 % de descuento con precio de oferta de 16.48 EUR (original: 49.99 EUR) en el siguiente enlace!

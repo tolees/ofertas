@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'JACK & JONES Jjitim Jjoriginal Jj 520 Lid Noos  Jeans Hombre  Azul  Blue Denim   W30/L34  Talla del fabricante: 30 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MPWXDWE/?tag=tolees-21'
+descuento: '57.40'
+titulo: 'JACK & JONES Jjitim Jjoriginal Jj 520 Li'
 ---
 
 Está [JACK & JONES Jjitim Jjoriginal Jj 520 Lid Noos  Jeans Hombre  Azul  Blue Denim   W30/L34  Talla del fabricante: 30 ](https://www.amazon.es/dp/B01MPWXDWE/?tag=tolees-21) con 57.40 de descuento por 34.06 EUR (original: 79.95 EUR) en el siguiente enlace!

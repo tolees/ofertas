@@ -17,6 +17,9 @@ comparePrice: 27.34 EUR
 inStock: true
 prodname: 'Furminator Herramienta de muda para Gatos pequeños de Pelo Largo S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004WJ0KPU/?tag=tolees-21'
+descuento: '41.73'
+titulo: 'Furminator Herramienta de muda para Gato'
 ---
 
 Está [Furminator Herramienta de muda para Gatos pequeños de Pelo Largo S](https://www.amazon.es/dp/B004WJ0KPU/?tag=tolees-21) con 41.73 de descuento por 15.93 EUR (original: 27.34 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour Grade School Charged Rogue  Zapatillas de Running para Niñas  Rosa  Penta Pink/White/Black 601   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTMGKGL/?tag=tolees-21'
+descuento: '48.87'
+titulo: 'Under Armour Grade School Charged Rogue '
 ---
 
 Está [Under Armour Grade School Charged Rogue  Zapatillas de Running para Niñas  Rosa  Penta Pink/White/Black 601   38 EU](https://www.amazon.es/dp/B07CTMGKGL/?tag=tolees-21) con 48.87 de descuento por 35.79 EUR (original: 70 EUR) en el siguiente enlace!

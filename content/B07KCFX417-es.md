@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'REYLEO Maleta Cabina Rígida 20" Equipaje de Mano con Puerto de Carga USB  Candado TSA  4 Ruedas Silenciosas  LUG20A -  55 X 35 X 20CM - 31.5L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCFX417/?tag=tolees-21'
+descuento: '47.51'
+titulo: 'REYLEO Maleta Cabina Rígida 20" Equipaje'
 ---
 
 Está [REYLEO Maleta Cabina Rígida 20" Equipaje de Mano con Puerto de Carga USB  Candado TSA  4 Ruedas Silenciosas  LUG20A -  55 X 35 X 20CM - 31.5L ](https://www.amazon.es/dp/B07KCFX417/?tag=tolees-21) con 47.51 de descuento por 41.99 EUR (original: 79.99 EUR) en el siguiente enlace!

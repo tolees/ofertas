@@ -17,6 +17,9 @@ comparePrice: 50.95 EUR
 inStock: true
 prodname: 'Basix Rubber Works Suction Cup Dong Transparente Dildo Clásico - 227 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005C3W0NA/?tag=tolees-21'
+descuento: '43.32'
+titulo: 'Basix Rubber Works Suction Cup Dong Tran'
 ---
 
 Ahora mismo tienes [Basix Rubber Works Suction Cup Dong Transparente Dildo Clásico - 227 gr](https://www.amazon.es/dp/B005C3W0NA/?tag=tolees-21) a 28.88 EUR (original: 50.95 EUR) (43.32 %  de descuento) en el siguiente enlace!

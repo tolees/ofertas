@@ -17,6 +17,9 @@ comparePrice: 9.92 EUR
 inStock: true
 prodname: 'Rimmel Provocalips 16hr beso Lip Color Proof - Dare To Pink'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MGK9ZL2/?tag=tolees-21'
+descuento: '61.49'
+titulo: 'Rimmel Provocalips 16hr beso Lip Color P'
 ---
 
 Ahora mismo tienes [Rimmel Provocalips 16hr beso Lip Color Proof - Dare To Pink](https://www.amazon.es/dp/B00MGK9ZL2/?tag=tolees-21) a 3.82 EUR (original: 9.92 EUR) (61.49 %  de descuento) en el siguiente enlace!

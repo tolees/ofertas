@@ -17,6 +17,9 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'ARBLOVE Faja Reductora Mujer Abdomen Adelgazante Postparto Colombiana Corset sin Costuras'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2KBMTD/?tag=tolees-21'
+descuento: '42.88'
+titulo: 'ARBLOVE Faja Reductora Mujer Abdomen Ade'
 ---
 
 Tienes [ARBLOVE Faja Reductora Mujer Abdomen Adelgazante Postparto Colombiana Corset sin Costuras](https://www.amazon.es/dp/B07H2KBMTD/?tag=tolees-21) con un 42.88 % de descuento con precio de oferta de 11.99 EUR (original: 20.99 EUR) en el siguiente enlace!

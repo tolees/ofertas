@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Gilind para mujer para hombre Negro de madera Rosarios Collar de la gota con la cruz + Bolsa de regalo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CKWAWEY/?tag=tolees-21'
+descuento: '42.89'
+titulo: 'Gilind para mujer para hombre Negro de m'
 ---
 
 Está [Gilind para mujer para hombre Negro de madera Rosarios Collar de la gota con la cruz + Bolsa de regalo](https://www.amazon.es/dp/B01CKWAWEY/?tag=tolees-21) con 42.89 de descuento por 7.99 EUR (original: 13.99 EUR) en el siguiente enlace!

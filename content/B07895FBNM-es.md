@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Helly Hansen HH LIFA Active Crew LS Baselayer  Hombre  Ivy Green  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07895FBNM/?tag=tolees-21'
+descuento: '47.10'
+titulo: 'Helly Hansen HH LIFA Active Crew LS Base'
 ---
 
 Ahora mismo tienes [Helly Hansen HH LIFA Active Crew LS Baselayer  Hombre  Ivy Green  XL](https://www.amazon.es/dp/B07895FBNM/?tag=tolees-21) a 26.45 EUR (original: 50 EUR) (47.10 %  de descuento) en el siguiente enlace!

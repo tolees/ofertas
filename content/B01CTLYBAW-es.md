@@ -17,6 +17,9 @@ comparePrice: 26.19 EUR
 inStock: true
 prodname: 'Spalding NBA Player Stephen Curry Sz.5  83-400Z  Balón de Baloncesto  niños  Amarillo/Azul  5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CTLYBAW/?tag=tolees-21'
+descuento: '35.28'
+titulo: 'Spalding NBA Player Stephen Curry Sz.5  '
 ---
 
 Está [Spalding NBA Player Stephen Curry Sz.5  83-400Z  Balón de Baloncesto  niños  Amarillo/Azul  5](https://www.amazon.es/dp/B01CTLYBAW/?tag=tolees-21) con 35.28 de descuento por 16.95 EUR (original: 26.19 EUR) en el siguiente enlace!

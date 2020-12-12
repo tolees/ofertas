@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'BOSS Trilo_sz35 Cinturón  Negro  Black 405   120  Talla del fabricante: 105  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGD4SNM/?tag=tolees-21'
+descuento: '55.06'
+titulo: 'BOSS Trilo_sz35 Cinturón  Negro  Black 4'
 ---
 
 Ahora mismo tienes [BOSS Trilo_sz35 Cinturón  Negro  Black 405   120  Talla del fabricante: 105  para Hombre](https://www.amazon.es/dp/B07KGD4SNM/?tag=tolees-21) a 35.95 EUR (original: 80 EUR) (55.06 %  de descuento) en el siguiente enlace!

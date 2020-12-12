@@ -17,6 +17,9 @@ comparePrice: 21 EUR
 inStock: true
 prodname: 'MERAKI Vestido Camiseta Slim Fit Mujer  Negro  Black   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075BKMNLH/?tag=tolees-21'
+descuento: '32.57'
+titulo: 'MERAKI Vestido Camiseta Slim Fit Mujer  '
 ---
 
 Tienes [MERAKI Vestido Camiseta Slim Fit Mujer  Negro  Black   Medium](https://www.amazon.es/dp/B075BKMNLH/?tag=tolees-21) con un 32.57 % de descuento con precio de oferta de 14.16 EUR (original: 21 EUR) en el siguiente enlace!

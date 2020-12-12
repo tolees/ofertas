@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma ftblNXT Shirt  Hombre  Black/Shocking Orange  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPCTDVD/?tag=tolees-21'
+descuento: '66.73'
+titulo: 'Puma ftblNXT Shirt  Hombre  Black/Shocki'
 ---
 
 Está [Puma ftblNXT Shirt  Hombre  Black/Shocking Orange  S](https://www.amazon.es/dp/B07DPCTDVD/?tag=tolees-21) con 66.73 de descuento por 8.3 EUR (original: 24.95 EUR) en el siguiente enlace!

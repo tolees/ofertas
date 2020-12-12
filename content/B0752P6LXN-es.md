@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Deconstructed Skinny Jeans  Azul  lt Vintage Aged Destroy 8969-9114   26W / 30L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0752P6LXN/?tag=tolees-21'
+descuento: '45.02'
+titulo: 'G-STAR RAW 3301 Deconstructed Skinny Jea'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Deconstructed Skinny Jeans  Azul  lt Vintage Aged Destroy 8969-9114   26W / 30L para Hombre](https://www.amazon.es/dp/B0752P6LXN/?tag=tolees-21) a 65.95 EUR (original: 119.95 EUR) (45.02 %  de descuento) en el siguiente enlace!

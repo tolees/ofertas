@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Messi Training System MET05000  Football Auto Trainer  Bola no incluida '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XQNCQHK/?tag=tolees-21'
+descuento: '72.49'
+titulo: 'Messi Training System MET05000  Football'
 ---
 
 Tienes [Messi Training System MET05000  Football Auto Trainer  Bola no incluida ](https://www.amazon.es/dp/B06XQNCQHK/?tag=tolees-21) con un 72.49 % de descuento con precio de oferta de 11 EUR (original: 39.99 EUR) en el siguiente enlace!

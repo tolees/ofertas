@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Intex 57505NP - Colchoneta Hinchable posavasos con forma de piña  Multicolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LH2TDCR/?tag=tolees-21'
+descuento: '38.22'
+titulo: 'Intex 57505NP - Colchoneta Hinchable pos'
 ---
 
 Tienes [Intex 57505NP - Colchoneta Hinchable posavasos con forma de piña  Multicolor](https://www.amazon.es/dp/B07LH2TDCR/?tag=tolees-21) con un 38.22 % de descuento con precio de oferta de 8 EUR (original: 12.95 EUR) en el siguiente enlace!

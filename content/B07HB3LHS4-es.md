@@ -17,6 +17,9 @@ comparePrice: 36.5 EUR
 inStock: true
 prodname: 'Caja de Regalo Reloj Mujer Blanco- Juegos de Joyas- Collar-Anillo- Pendientes - Pulsera'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HB3LHS4/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Caja de Regalo Reloj Mujer Blanco- Juego'
 ---
 
 Ahora mismo tienes [Caja de Regalo Reloj Mujer Blanco- Juegos de Joyas- Collar-Anillo- Pendientes - Pulsera](https://www.amazon.es/dp/B07HB3LHS4/?tag=tolees-21) a 21.9 EUR (original: 36.5 EUR) (40.00 %  de descuento) en el siguiente enlace!

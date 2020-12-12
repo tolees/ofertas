@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Catnip gatos  6 Piezas Matatabi Juguete Con Hierba Gatera Masticar Gatito De Mascotas Limpieza Dientes Saludable Cuidado y ayudan con el sarro y el mal aliento  Natural Cuidado Dental Chew Sticks'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9TC65K/?tag=tolees-21'
+descuento: '50.11'
+titulo: 'Catnip gatos  6 Piezas Matatabi Juguete '
 ---
 
 Tienes [Catnip gatos  6 Piezas Matatabi Juguete Con Hierba Gatera Masticar Gatito De Mascotas Limpieza Dientes Saludable Cuidado y ayudan con el sarro y el mal aliento  Natural Cuidado Dental Chew Sticks](https://www.amazon.es/dp/B07M9TC65K/?tag=tolees-21) con un 50.11 % de descuento con precio de oferta de 10.97 EUR (original: 21.99 EUR) en el siguiente enlace!

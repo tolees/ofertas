@@ -17,6 +17,9 @@ comparePrice: 14.9 EUR
 inStock: true
 prodname: 'LEGO - Bunny Batman  Llavero Linterna  LGL-KE103B '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2OSEZT/?tag=tolees-21'
+descuento: '28.32'
+titulo: 'LEGO - Bunny Batman  Llavero Linterna  L'
 ---
 
 Tienes [LEGO - Bunny Batman  Llavero Linterna  LGL-KE103B ](https://www.amazon.es/dp/B01N2OSEZT/?tag=tolees-21) con un 28.32 % de descuento con precio de oferta de 10.68 EUR (original: 14.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Cruz v2 Sock  Zapatillas para Hombre  Turquesa  Dark Neptune/Eclipse Ld2   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8B9J1Y/?tag=tolees-21'
+descuento: '72.84'
+titulo: 'New Balance Fresh Foam Cruz v2 Sock  Zap'
 ---
 
 Está [New Balance Fresh Foam Cruz v2 Sock  Zapatillas para Hombre  Turquesa  Dark Neptune/Eclipse Ld2   40.5 EU](https://www.amazon.es/dp/B07D8B9J1Y/?tag=tolees-21) con 72.84 de descuento por 27.16 EUR (original: 100 EUR) en el siguiente enlace!

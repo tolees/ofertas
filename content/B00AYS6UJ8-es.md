@@ -17,6 +17,9 @@ comparePrice: 24.76 EUR
 inStock: true
 prodname: 'Dredd  Blu-ray + Blu-ray 3D  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AYS6UJ8/?tag=tolees-21'
+descuento: '69.75'
+titulo: 'Dredd  Blu-ray + Blu-ray 3D  [Blu-ray]'
 ---
 
 Ahora mismo tienes [Dredd  Blu-ray + Blu-ray 3D  [Blu-ray]](https://www.amazon.es/dp/B00AYS6UJ8/?tag=tolees-21) a 7.49 EUR (original: 24.76 EUR) (69.75 %  de descuento) en el siguiente enlace!

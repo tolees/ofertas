@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Pepe Jeans Traci Belt Cinturón  Marrón  Sandstorm 115   75  Talla del fabricante: Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NC9KVMK/?tag=tolees-21'
+descuento: '73.20'
+titulo: 'Pepe Jeans Traci Belt Cinturón  Marrón  '
 ---
 
 Está [Pepe Jeans Traci Belt Cinturón  Marrón  Sandstorm 115   75  Talla del fabricante: Small  para Mujer](https://www.amazon.es/dp/B07NC9KVMK/?tag=tolees-21) con 73.20 de descuento por 14.74 EUR (original: 55 EUR) en el siguiente enlace!

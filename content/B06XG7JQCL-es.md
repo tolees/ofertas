@@ -17,6 +17,9 @@ comparePrice: 45.75 EUR
 inStock: true
 prodname: 'Akokie Pelota Futbol Portería de Fútbol Plegable Deportes  Aire Libre Interiores de Futbol para Niños Adecuado para 3 4 5 6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XG7JQCL/?tag=tolees-21'
+descuento: '54.19'
+titulo: 'Akokie Pelota Futbol Portería de Fútbol '
 ---
 
 Está [Akokie Pelota Futbol Portería de Fútbol Plegable Deportes  Aire Libre Interiores de Futbol para Niños Adecuado para 3 4 5 6](https://www.amazon.es/dp/B06XG7JQCL/?tag=tolees-21) con 54.19 de descuento por 20.96 EUR (original: 45.75 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Salomon XA Visor Visera  Unisex Adulto  Morado  Maverick   Talla única Ajustable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KP3DSYQ/?tag=tolees-21'
+descuento: '49.80'
+titulo: 'Salomon XA Visor Visera  Unisex Adulto  '
 ---
 
 Está [Salomon XA Visor Visera  Unisex Adulto  Morado  Maverick   Talla única Ajustable](https://www.amazon.es/dp/B07KP3DSYQ/?tag=tolees-21) con 49.80 de descuento por 12.55 EUR (original: 25 EUR) en el siguiente enlace!

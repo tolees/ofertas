@@ -17,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'Wyrmwood: La Carretera De Los Muertos Vivientes [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014ULK5Z4/?tag=tolees-21'
+descuento: '44.38'
+titulo: 'Wyrmwood: La Carretera De Los Muertos Vi'
 ---
 
 Ahora mismo tienes [Wyrmwood: La Carretera De Los Muertos Vivientes [Blu-ray]](https://www.amazon.es/dp/B014ULK5Z4/?tag=tolees-21) a 5 EUR (original: 8.99 EUR) (44.38 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'hummel Classic Bee Phi Pants  Hombre  Negro  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AS7C6UG/?tag=tolees-21'
+descuento: '63.57'
+titulo: 'hummel Classic Bee Phi Pants  Hombre  Ne'
 ---
 
 Ahora mismo tienes [hummel Classic Bee Phi Pants  Hombre  Negro  S](https://www.amazon.es/dp/B01AS7C6UG/?tag=tolees-21) a 21.84 EUR (original: 59.95 EUR) (63.57 %  de descuento) en el siguiente enlace!

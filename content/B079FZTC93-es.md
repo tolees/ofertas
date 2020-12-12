@@ -17,6 +17,9 @@ comparePrice: 81 EUR
 inStock: true
 prodname: 'SGODDE Colchón Hinchable  Estante Inflable Autoportátil del Saco de Dormir del Colchón Saco de Dormir del Uno Mismo Que Acampa para Acampar  Yendo de Excursión  Playa  Viaje  al Aire Libre etc.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079FZTC93/?tag=tolees-21'
+descuento: '50.63'
+titulo: 'SGODDE Colchón Hinchable  Estante Inflab'
 ---
 
 Está [SGODDE Colchón Hinchable  Estante Inflable Autoportátil del Saco de Dormir del Colchón Saco de Dormir del Uno Mismo Que Acampa para Acampar  Yendo de Excursión  Playa  Viaje  al Aire Libre etc.](https://www.amazon.es/dp/B079FZTC93/?tag=tolees-21) con 50.63 de descuento por 39.99 EUR (original: 81 EUR) en el siguiente enlace!

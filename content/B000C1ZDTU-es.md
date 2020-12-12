@@ -17,6 +17,9 @@ comparePrice: 40.54 EUR
 inStock: true
 prodname: 'Sarah Jessica Parker 1-24-19-02 - EDP Spray  100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000C1ZDTU/?tag=tolees-21'
+descuento: '31.13'
+titulo: 'Sarah Jessica Parker 1-24-19-02 - EDP Sp'
 ---
 
 Está [Sarah Jessica Parker 1-24-19-02 - EDP Spray  100 ml](https://www.amazon.es/dp/B000C1ZDTU/?tag=tolees-21) con 31.13 de descuento por 27.92 EUR (original: 40.54 EUR) en el siguiente enlace!

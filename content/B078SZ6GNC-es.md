@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Wrangler SS 1pkt Shirt Camisa  Blanco  White O12   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SZ6GNC/?tag=tolees-21'
+descuento: '60.56'
+titulo: 'Wrangler SS 1pkt Shirt Camisa  Blanco  W'
 ---
 
 Tienes [Wrangler SS 1pkt Shirt Camisa  Blanco  White O12   Medium para Hombre](https://www.amazon.es/dp/B078SZ6GNC/?tag=tolees-21) con un 60.56 % de descuento con precio de oferta de 19.7 EUR (original: 49.95 EUR) en el siguiente enlace!

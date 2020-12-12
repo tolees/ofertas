@@ -17,6 +17,9 @@ comparePrice: 15.48 EUR
 inStock: true
 prodname: 'Knorr Las Clásicas Crema de Alicia - Paquete de 12 x 300 ml - Total: 3600 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076KKX31K/?tag=tolees-21'
+descuento: '41.60'
+titulo: 'Knorr Las Clásicas Crema de Alicia - Paq'
 ---
 
 Ahora mismo tienes [Knorr Las Clásicas Crema de Alicia - Paquete de 12 x 300 ml - Total: 3600 ml](https://www.amazon.es/dp/B076KKX31K/?tag=tolees-21) a 9.04 EUR (original: 15.48 EUR) (41.60 %  de descuento) en el siguiente enlace!

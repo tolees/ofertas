@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Diogol Plug Anal  Color Lila - 1 Plug Anal'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GO3ZWLY/?tag=tolees-21'
+descuento: '65.59'
+titulo: 'Diogol Plug Anal  Color Lila - 1 Plug An'
 ---
 
 Tienes [Diogol Plug Anal  Color Lila - 1 Plug Anal](https://www.amazon.es/dp/B00GO3ZWLY/?tag=tolees-21) con un 65.59 % de descuento con precio de oferta de 9.98 EUR (original: 29 EUR) en el siguiente enlace!

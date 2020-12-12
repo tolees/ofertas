@@ -17,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta de esquí Impermeable para Hombre  Ride On Ski Jacket  Negro  Talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYWQ8JV/?tag=tolees-21'
+descuento: '40.47'
+titulo: 'Columbia Chaqueta de esquí Impermeable p'
 ---
 
 Tienes [Columbia Chaqueta de esquí Impermeable para Hombre  Ride On Ski Jacket  Negro  Talla M](https://www.amazon.es/dp/B07DYWQ8JV/?tag=tolees-21) con un 40.47 % de descuento con precio de oferta de 101.19 EUR (original: 169.99 EUR) en el siguiente enlace!

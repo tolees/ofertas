@@ -17,6 +17,9 @@ comparePrice: 36 EUR
 inStock: true
 prodname: 'Falke Catspads  Calcetines para Niños  Grün  Grass Green 7290    Talla del Fabricante: 19-22 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BCG6T1/?tag=tolees-21'
+descuento: '69.58'
+titulo: 'Falke Catspads  Calcetines para Niños  G'
 ---
 
 Está [Falke Catspads  Calcetines para Niños  Grün  Grass Green 7290    Talla del Fabricante: 19-22 ](https://www.amazon.es/dp/B072BCG6T1/?tag=tolees-21) con 69.58 de descuento por 10.95 EUR (original: 36 EUR) en el siguiente enlace!

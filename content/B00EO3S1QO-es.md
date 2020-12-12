@@ -17,6 +17,9 @@ comparePrice: 87.95 EUR
 inStock: true
 prodname: 'Munich Mundial U  Zapatillas de Deporte Unisex Adulto  Negro  Negro 215   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00EO3S1QO/?tag=tolees-21'
+descuento: '42.41'
+titulo: 'Munich Mundial U  Zapatillas de Deporte '
 ---
 
 Está [Munich Mundial U  Zapatillas de Deporte Unisex Adulto  Negro  Negro 215   41 EU](https://www.amazon.es/dp/B00EO3S1QO/?tag=tolees-21) con 42.41 de descuento por 50.65 EUR (original: 87.95 EUR) en el siguiente enlace!

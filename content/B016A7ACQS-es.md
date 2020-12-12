@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Perfume 100ml Femme Fatale para Mujer en Lata de metal de lujo con super aroma afrodisiaco. Regalo de Primera Calidad al mejor precio.Envío desde España'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016A7ACQS/?tag=tolees-21'
+descuento: '34.80'
+titulo: 'Perfume 100ml Femme Fatale para Mujer en'
 ---
 
 Ahora mismo tienes [Perfume 100ml Femme Fatale para Mujer en Lata de metal de lujo con super aroma afrodisiaco. Regalo de Primera Calidad al mejor precio.Envío desde España](https://www.amazon.es/dp/B016A7ACQS/?tag=tolees-21) a 14.99 EUR (original: 22.99 EUR) (34.80 %  de descuento) en el siguiente enlace!

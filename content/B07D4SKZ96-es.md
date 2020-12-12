@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Kappa Chose  Zapatillas Unisex Adulto  Negro  Black/White 1110   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4SKZ96/?tag=tolees-21'
+descuento: '66.38'
+titulo: 'Kappa Chose  Zapatillas Unisex Adulto  N'
 ---
 
 Ahora mismo tienes [Kappa Chose  Zapatillas Unisex Adulto  Negro  Black/White 1110   45 EU](https://www.amazon.es/dp/B07D4SKZ96/?tag=tolees-21) a 15.11 EUR (original: 44.95 EUR) (66.38 %  de descuento) en el siguiente enlace!

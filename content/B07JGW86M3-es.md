@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Hurley M Phantom Alpha Trainer Camo 18  Bermudas  Hombre  Cargo Khaki  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGW86M3/?tag=tolees-21'
+descuento: '50.08'
+titulo: 'Hurley M Phantom Alpha Trainer Camo 18  '
 ---
 
 Tienes [Hurley M Phantom Alpha Trainer Camo 18  Bermudas  Hombre  Cargo Khaki  M](https://www.amazon.es/dp/B07JGW86M3/?tag=tolees-21) con un 50.08 % de descuento con precio de oferta de 32.45 EUR (original: 65 EUR) en el siguiente enlace!

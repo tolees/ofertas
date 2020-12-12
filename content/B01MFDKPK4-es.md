@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans London Cash  Vaqueros para Hombre  Azul  11Oz Streaky Vintage Used M84   W28/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MFDKPK4/?tag=tolees-21'
+descuento: '56.48'
+titulo: 'Pepe Jeans London Cash  Vaqueros para Ho'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Cash  Vaqueros para Hombre  Azul  11Oz Streaky Vintage Used M84   W28/L34](https://www.amazon.es/dp/B01MFDKPK4/?tag=tolees-21) a 41.34 EUR (original: 95 EUR) (56.48 %  de descuento) en el siguiente enlace!

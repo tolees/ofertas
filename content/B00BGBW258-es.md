@@ -17,6 +17,9 @@ comparePrice: 9 EUR
 inStock: true
 prodname: 'Floid 52026 - After shave'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BGBW258/?tag=tolees-21'
+descuento: '39.00'
+titulo: 'Floid 52026 - After shave'
 ---
 
 Tienes [Floid 52026 - After shave](https://www.amazon.es/dp/B00BGBW258/?tag=tolees-21) con un 39.00 % de descuento con precio de oferta de 5.49 EUR (original: 9 EUR) en el siguiente enlace!

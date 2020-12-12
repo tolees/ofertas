@@ -17,6 +17,9 @@ comparePrice: 38 EUR
 inStock: true
 prodname: 'Nike Long Sleeve Top Sash Jersey Camiseta  Unisex  Azul Marino  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HZM98OA/?tag=tolees-21'
+descuento: '58.29'
+titulo: 'Nike Long Sleeve Top Sash Jersey Camiset'
 ---
 
 Ahora mismo tienes [Nike Long Sleeve Top Sash Jersey Camiseta  Unisex  Azul Marino  Large](https://www.amazon.es/dp/B00HZM98OA/?tag=tolees-21) a 15.85 EUR (original: 38 EUR) (58.29 %  de descuento) en el siguiente enlace!

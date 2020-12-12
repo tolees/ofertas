@@ -17,6 +17,9 @@ comparePrice: 229.99 EUR
 inStock: true
 prodname: 'JBL Soundgear Altavoz Bluetooth para el cuello  altavoces inalámbricos portátiles  altavoz con manos libres  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076T5VR4Z/?tag=tolees-21'
+descuento: '41.55'
+titulo: 'JBL Soundgear Altavoz Bluetooth para el '
 ---
 
 Está [JBL Soundgear Altavoz Bluetooth para el cuello  altavoces inalámbricos portátiles  altavoz con manos libres  negro](https://www.amazon.es/dp/B076T5VR4Z/?tag=tolees-21) con 41.55 de descuento por 134.42 EUR (original: 229.99 EUR) en el siguiente enlace!

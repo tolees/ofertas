@@ -17,6 +17,9 @@ comparePrice: 138 EUR
 inStock: true
 prodname: 'KBAYBO Control Remoto Aroma Difusor de Aceite Esencial de Aromaterapia Humidificador Luces LED 7 Colores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSWMX71/?tag=tolees-21'
+descuento: '72.11'
+titulo: 'KBAYBO Control Remoto Aroma Difusor de A'
 ---
 
 Tienes [KBAYBO Control Remoto Aroma Difusor de Aceite Esencial de Aromaterapia Humidificador Luces LED 7 Colores](https://www.amazon.es/dp/B07FSWMX71/?tag=tolees-21) con un 72.11 % de descuento con precio de oferta de 38.49 EUR (original: 138 EUR) en el siguiente enlace!

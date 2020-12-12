@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'BLACK+DECKER BDCSFL20C-QW Atornillador con Batería de Litio  5 NM  180 RPM con linterna LED 35 lúmenes  incluye 2 puntas y cargador  3.6 V'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075PY8JFK/?tag=tolees-21'
+descuento: '27.21'
+titulo: 'BLACK+DECKER BDCSFL20C-QW Atornillador c'
 ---
 
 Ahora mismo tienes [BLACK+DECKER BDCSFL20C-QW Atornillador con Batería de Litio  5 NM  180 RPM con linterna LED 35 lúmenes  incluye 2 puntas y cargador  3.6 V](https://www.amazon.es/dp/B075PY8JFK/?tag=tolees-21) a 21.8 EUR (original: 29.95 EUR) (27.21 %  de descuento) en el siguiente enlace!

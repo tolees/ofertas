@@ -17,6 +17,9 @@ comparePrice: 56 EUR
 inStock: true
 prodname: 'StarVie PMEDY18 Paletero de Pádel  Unisex Adulto  Amarillo  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSQQS8X/?tag=tolees-21'
+descuento: '50.09'
+titulo: 'StarVie PMEDY18 Paletero de Pádel  Unise'
 ---
 
 Tienes [StarVie PMEDY18 Paletero de Pádel  Unisex Adulto  Amarillo  Talla Única](https://www.amazon.es/dp/B07CSQQS8X/?tag=tolees-21) con un 50.09 % de descuento con precio de oferta de 27.95 EUR (original: 56 EUR) en el siguiente enlace!

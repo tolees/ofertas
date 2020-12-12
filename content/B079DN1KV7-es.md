@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'YGJT Edredón Cama 135-90cm Nórdica Lavable Anti-acarian Ligero Suavidad Antibacterial Microfibra 100% Poliéster Accesorio Ropa de Cama  blanca-150x200cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079DN1KV7/?tag=tolees-21'
+descuento: '48.01'
+titulo: 'YGJT Edredón Cama 135-90cm Nórdica Lavab'
 ---
 
 Tienes [YGJT Edredón Cama 135-90cm Nórdica Lavable Anti-acarian Ligero Suavidad Antibacterial Microfibra 100% Poliéster Accesorio Ropa de Cama  blanca-150x200cm ](https://www.amazon.es/dp/B079DN1KV7/?tag=tolees-21) con un 48.01 % de descuento con precio de oferta de 25.99 EUR (original: 49.99 EUR) en el siguiente enlace!

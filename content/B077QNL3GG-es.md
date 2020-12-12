@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'New Balance 410  Zapatillas Unisex Adulto  Rojo  Burgundy Bug   45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077QNL3GG/?tag=tolees-21'
+descuento: '52.99'
+titulo: 'New Balance 410  Zapatillas Unisex Adult'
 ---
 
 Ahora mismo tienes [New Balance 410  Zapatillas Unisex Adulto  Rojo  Burgundy Bug   45.5 EU](https://www.amazon.es/dp/B077QNL3GG/?tag=tolees-21) a 39.96 EUR (original: 85 EUR) (52.99 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Salomon Mochila Ligera para Senderismo o Ciclismo  20 L  Unisex Adulto  Azul  Poseidon   Trailblazer 20'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F6X6K8X/?tag=tolees-21'
+descuento: '44.85'
+titulo: 'Salomon Mochila Ligera para Senderismo o'
 ---
 
 Tienes [Salomon Mochila Ligera para Senderismo o Ciclismo  20 L  Unisex Adulto  Azul  Poseidon   Trailblazer 20](https://www.amazon.es/dp/B07F6X6K8X/?tag=tolees-21) con un 44.85 % de descuento con precio de oferta de 33.09 EUR (original: 60 EUR) en el siguiente enlace!

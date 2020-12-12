@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Vans WM Atwood  Zapatillas para Mujer  Rosa  Speckle   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTIPIKR/?tag=tolees-21'
+descuento: '74.54'
+titulo: 'Vans WM Atwood  Zapatillas para Mujer  R'
 ---
 
 Está [Vans WM Atwood  Zapatillas para Mujer  Rosa  Speckle   35 EU](https://www.amazon.es/dp/B01MTIPIKR/?tag=tolees-21) con 74.54 de descuento por 17.82 EUR (original: 70 EUR) en el siguiente enlace!

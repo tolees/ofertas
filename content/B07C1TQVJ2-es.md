@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos Pantalones  Gris  W34/L32  Talla del Fabricante: 34  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C1TQVJ2/?tag=tolees-21'
+descuento: '42.09'
+titulo: 'JACK & JONES Jjipaul Jjflake AKM 542 Asp'
 ---
 
 Está [JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos Pantalones  Gris  W34/L32  Talla del Fabricante: 34  para Hombre](https://www.amazon.es/dp/B07C1TQVJ2/?tag=tolees-21) con 42.09 de descuento por 28.95 EUR (original: 49.99 EUR) en el siguiente enlace!

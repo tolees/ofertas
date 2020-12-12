@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 41ce307-613100  Zapatillas Altas para Mujer  Negro  Schwarz   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NMCYFB/?tag=tolees-21'
+descuento: '71.73'
+titulo: 'Dockers by Gerli 41ce307-613100  Zapatil'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 41ce307-613100  Zapatillas Altas para Mujer  Negro  Schwarz   38 EU](https://www.amazon.es/dp/B071NMCYFB/?tag=tolees-21) a 14.12 EUR (original: 49.95 EUR) (71.73 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 66 EUR
 inStock: true
 prodname: 'Nike Legend 7 Academy FG  Zapatillas de Fútbol Unisex Adulto  Azul  Racer Blue/Black/Mtlc Silver 400   45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CD8GJ4V/?tag=tolees-21'
+descuento: '46.97'
+titulo: 'Nike Legend 7 Academy FG  Zapatillas de '
 ---
 
 Está [Nike Legend 7 Academy FG  Zapatillas de Fútbol Unisex Adulto  Azul  Racer Blue/Black/Mtlc Silver 400   45.5 EU](https://www.amazon.es/dp/B07CD8GJ4V/?tag=tolees-21) con 46.97 de descuento por 35 EUR (original: 66 EUR) en el siguiente enlace!

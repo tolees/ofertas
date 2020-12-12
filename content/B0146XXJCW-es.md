@@ -17,6 +17,9 @@ comparePrice: 16 EUR
 inStock: true
 prodname: 'Hypertrophy Nutrition Creatine - 500 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0146XXJCW/?tag=tolees-21'
+descuento: '40.87'
+titulo: 'Hypertrophy Nutrition Creatine - 500 g'
 ---
 
 Ahora mismo tienes [Hypertrophy Nutrition Creatine - 500 g](https://www.amazon.es/dp/B0146XXJCW/?tag=tolees-21) a 9.46 EUR (original: 16 EUR) (40.87 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorstanes tee SS Crew Neck Camiseta  Rosa  Rosette Fit:Slim   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L1DW3MK/?tag=tolees-21'
+descuento: '65.38'
+titulo: 'JACK & JONES Jorstanes tee SS Crew Neck '
 ---
 
 Ahora mismo tienes [JACK & JONES Jorstanes tee SS Crew Neck Camiseta  Rosa  Rosette Fit:Slim   Large para Hombre](https://www.amazon.es/dp/B07L1DW3MK/?tag=tolees-21) a 5.19 EUR (original: 14.99 EUR) (65.38 %  de descuento) en el siguiente enlace!

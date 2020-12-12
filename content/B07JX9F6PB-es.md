@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'XTI 86088  Bolso de mano para Mujer   Negro   22x22x3 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JX9F6PB/?tag=tolees-21'
+descuento: '56.36'
+titulo: 'XTI 86088  Bolso de mano para Mujer   Ne'
 ---
 
 Está [XTI 86088  Bolso de mano para Mujer   Negro   22x22x3 cm  W x H x L ](https://www.amazon.es/dp/B07JX9F6PB/?tag=tolees-21) con 56.36 de descuento por 13.07 EUR (original: 29.95 EUR) en el siguiente enlace!

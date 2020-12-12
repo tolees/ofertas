@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Iris & Lilly Braguita Brasileña con Encaje Mujer  Pack de 3  Multicolor  Water Color Herbs Print/ Citronelle/ Deep Sea Coral   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079FFDSZF/?tag=tolees-21'
+descuento: '31.88'
+titulo: 'Iris & Lilly Braguita Brasileña con Enca'
 ---
 
 Está [Iris & Lilly Braguita Brasileña con Encaje Mujer  Pack de 3  Multicolor  Water Color Herbs Print/ Citronelle/ Deep Sea Coral   X-Large](https://www.amazon.es/dp/B079FFDSZF/?tag=tolees-21) con 31.88 de descuento por 9.53 EUR (original: 13.99 EUR) en el siguiente enlace!

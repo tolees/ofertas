@@ -17,6 +17,9 @@ comparePrice: 47.99 EUR
 inStock: true
 prodname: 'Máscara Antigas Gases Filtro Ffp3 | NUEVO DISEÑO 4 FILTROS RECAMBIO INCLUIDAS | Respirador Protección Respiratoria Para Pintura Aerosol Antipolvo Productos Quimicos Trabajo Mascarilla Facial Gas |'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3X7HXZ/?tag=tolees-21'
+descuento: '47.93'
+titulo: 'Máscara Antigas Gases Filtro Ffp3 | NUEV'
 ---
 
 Ahora mismo tienes [Máscara Antigas Gases Filtro Ffp3 | NUEVO DISEÑO 4 FILTROS RECAMBIO INCLUIDAS | Respirador Protección Respiratoria Para Pintura Aerosol Antipolvo Productos Quimicos Trabajo Mascarilla Facial Gas |](https://www.amazon.es/dp/B07L3X7HXZ/?tag=tolees-21) a 24.99 EUR (original: 47.99 EUR) (47.93 %  de descuento) en el siguiente enlace!

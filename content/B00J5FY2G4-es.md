@@ -17,6 +17,9 @@ comparePrice: 10.9 EUR
 inStock: true
 prodname: 'Farmatint Gel 4D Castaño Dorado. Tinte permanente. Cabello natural y color duradero. Sin amoníaco ni parabenes ni parafinas ni siliconas. Coloración natural para el pelo fácil de aplicar.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00J5FY2G4/?tag=tolees-21'
+descuento: '38.72'
+titulo: 'Farmatint Gel 4D Castaño Dorado. Tinte p'
 ---
 
 Ahora mismo tienes [Farmatint Gel 4D Castaño Dorado. Tinte permanente. Cabello natural y color duradero. Sin amoníaco ni parabenes ni parafinas ni siliconas. Coloración natural para el pelo fácil de aplicar.](https://www.amazon.es/dp/B00J5FY2G4/?tag=tolees-21) a 6.68 EUR (original: 10.9 EUR) (38.72 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'Mujer Bañador de Una Pieza Traje de Baño Estampado Vintage Retro L CL0639-3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CNJWC43/?tag=tolees-21'
+descuento: '41.39'
+titulo: 'Mujer Bañador de Una Pieza Traje de Baño'
 ---
 
 Ahora mismo tienes [Mujer Bañador de Una Pieza Traje de Baño Estampado Vintage Retro L CL0639-3](https://www.amazon.es/dp/B07CNJWC43/?tag=tolees-21) a 16.99 EUR (original: 28.99 EUR) (41.39 %  de descuento) en el siguiente enlace!

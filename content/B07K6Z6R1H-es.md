@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Pesadillas 2: Noche De Halloween [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K6Z6R1H/?tag=tolees-21'
+descuento: '70.02'
+titulo: 'Pesadillas 2: Noche De Halloween [Blu-ra'
 ---
 
 Ahora mismo tienes [Pesadillas 2: Noche De Halloween [Blu-ray]](https://www.amazon.es/dp/B07K6Z6R1H/?tag=tolees-21) a 7.48 EUR (original: 24.95 EUR) (70.02 %  de descuento) en el siguiente enlace!

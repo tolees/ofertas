@@ -17,6 +17,9 @@ comparePrice: 209 EUR
 inStock: true
 prodname: 'Alcatel One Touch Go Play 5" SIM única 4G 1GB 8GB 2500mAh Naranja  Blanco - Smartphone  12 7 cm  5"   1 GB  8 GB  8 MP  Android 5.0  Naranja  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014VB49BE/?tag=tolees-21'
+descuento: '62.20'
+titulo: 'Alcatel One Touch Go Play 5" SIM única 4'
 ---
 
 Tienes [Alcatel One Touch Go Play 5" SIM única 4G 1GB 8GB 2500mAh Naranja  Blanco - Smartphone  12 7 cm  5"   1 GB  8 GB  8 MP  Android 5.0  Naranja  Blanco ](https://www.amazon.es/dp/B014VB49BE/?tag=tolees-21) con un 62.20 % de descuento con precio de oferta de 79 EUR (original: 209 EUR) en el siguiente enlace!

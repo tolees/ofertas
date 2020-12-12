@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Puma Evotouch 1 FG Jr  Botas de fútbol Infantil  Blanco White-True Blue Danube 02  38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXHM04C/?tag=tolees-21'
+descuento: '86.73'
+titulo: 'Puma Evotouch 1 FG Jr  Botas de fútbol I'
 ---
 
 Ahora mismo tienes [Puma Evotouch 1 FG Jr  Botas de fútbol Infantil  Blanco White-True Blue Danube 02  38.5 EU](https://www.amazon.es/dp/B01MXHM04C/?tag=tolees-21) a 14.59 EUR (original: 109.95 EUR) (86.73 %  de descuento) en el siguiente enlace!

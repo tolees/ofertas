@@ -17,6 +17,9 @@ comparePrice: 235.99 EUR
 inStock: true
 prodname: 'Braun Series 5 5090cc - Afeitadora eléctrica  con estación Clean & Charge'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008LQZO10/?tag=tolees-21'
+descuento: '27.97'
+titulo: 'Braun Series 5 5090cc - Afeitadora eléct'
 ---
 
 Tienes [Braun Series 5 5090cc - Afeitadora eléctrica  con estación Clean & Charge](https://www.amazon.es/dp/B008LQZO10/?tag=tolees-21) con un 27.97 % de descuento con precio de oferta de 169.99 EUR (original: 235.99 EUR) en el siguiente enlace!

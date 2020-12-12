@@ -17,6 +17,9 @@ comparePrice: 323.92 EUR
 inStock: true
 prodname: 'Lacor 90000 - Batería 8 piezas Gourmet en Acero Inoxidable 18/10'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000T5RPIQ/?tag=tolees-21'
+descuento: '75.66'
+titulo: 'Lacor 90000 - Batería 8 piezas Gourmet e'
 ---
 
 Ahora mismo tienes [Lacor 90000 - Batería 8 piezas Gourmet en Acero Inoxidable 18/10](https://www.amazon.es/dp/B000T5RPIQ/?tag=tolees-21) a 78.85 EUR (original: 323.92 EUR) (75.66 %  de descuento) en el siguiente enlace!

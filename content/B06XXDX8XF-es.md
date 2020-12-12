@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'New Balance 420  Zapatillas para Mujer  Gris  Grey NBA   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XXDX8XF/?tag=tolees-21'
+descuento: '47.80'
+titulo: 'New Balance 420  Zapatillas para Mujer  '
 ---
 
 Ahora mismo tienes [New Balance 420  Zapatillas para Mujer  Gris  Grey NBA   40.5 EU](https://www.amazon.es/dp/B06XXDX8XF/?tag=tolees-21) a 46.95 EUR (original: 89.95 EUR) (47.80 %  de descuento) en el siguiente enlace!

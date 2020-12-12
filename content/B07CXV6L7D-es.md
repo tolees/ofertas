@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Yocitoy Soft Bullet rotaciš®n vibra-dor de silicona empujando potente estimulaciš®n del pun-to G de las mujeres clšªt-oris consol-ador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CXV6L7D/?tag=tolees-21'
+descuento: '69.10'
+titulo: 'Yocitoy Soft Bullet rotaciš®n vibra-dor '
 ---
 
 Ahora mismo tienes [Yocitoy Soft Bullet rotaciš®n vibra-dor de silicona empujando potente estimulaciš®n del pun-to G de las mujeres clšªt-oris consol-ador](https://www.amazon.es/dp/B07CXV6L7D/?tag=tolees-21) a 16.99 EUR (original: 54.99 EUR) (69.10 %  de descuento) en el siguiente enlace!

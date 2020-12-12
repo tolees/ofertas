@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'HOMSCAM Pulsera Inteligente  Pulsera Actividad Impermeable IP68 con Monitor de Calorías  Monitor de Ritmo Cardíaco  Captura de cámara  Notificación de Mensajes para Android y iOS Teléfono móvil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K14SR4S/?tag=tolees-21'
+descuento: '51.44'
+titulo: 'HOMSCAM Pulsera Inteligente  Pulsera Act'
 ---
 
 Está [HOMSCAM Pulsera Inteligente  Pulsera Actividad Impermeable IP68 con Monitor de Calorías  Monitor de Ritmo Cardíaco  Captura de cámara  Notificación de Mensajes para Android y iOS Teléfono móvil](https://www.amazon.es/dp/B07K14SR4S/?tag=tolees-21) con 51.44 de descuento por 33.99 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas PW Tennis Hu  Zapatillas de Deporte para Hombre  Blanco Ftwbla/Seroso  43 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072R7VW6R/?tag=tolees-21'
+descuento: '70.58'
+titulo: 'adidas PW Tennis Hu  Zapatillas de Depor'
 ---
 
 Está [adidas PW Tennis Hu  Zapatillas de Deporte para Hombre  Blanco Ftwbla/Seroso  43 1/3 EU](https://www.amazon.es/dp/B072R7VW6R/?tag=tolees-21) con 70.58 de descuento por 29.41 EUR (original: 99.95 EUR) en el siguiente enlace!

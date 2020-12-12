@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Jack & Jones NOS Jacwally Trunks Noos  Bóxer para Hombre  Cyber Yellow  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNV3P49/?tag=tolees-21'
+descuento: '44.65'
+titulo: 'Jack & Jones NOS Jacwally Trunks Noos  B'
 ---
 
 Ahora mismo tienes [Jack & Jones NOS Jacwally Trunks Noos  Bóxer para Hombre  Cyber Yellow  Large](https://www.amazon.es/dp/B07FNV3P49/?tag=tolees-21) a 7.19 EUR (original: 12.99 EUR) (44.65 %  de descuento) en el siguiente enlace!

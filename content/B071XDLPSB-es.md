@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers 15350  Zapatillas para Mujer  Gris  Charcoal/Turquoise   35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071XDLPSB/?tag=tolees-21'
+descuento: '60.37'
+titulo: 'Skechers 15350  Zapatillas para Mujer  G'
 ---
 
 Ahora mismo tienes [Skechers 15350  Zapatillas para Mujer  Gris  Charcoal/Turquoise   35.5 EU](https://www.amazon.es/dp/B071XDLPSB/?tag=tolees-21) a 23.76 EUR (original: 59.95 EUR) (60.37 %  de descuento) en el siguiente enlace!

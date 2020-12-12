@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Jana 8-8-25303-21  Botines para Mujer  Gris  Graphite 206   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BY8R39B/?tag=tolees-21'
+descuento: '82.89'
+titulo: 'Jana 8-8-25303-21  Botines para Mujer  G'
 ---
 
 Tienes [Jana 8-8-25303-21  Botines para Mujer  Gris  Graphite 206   39 EU](https://www.amazon.es/dp/B07BY8R39B/?tag=tolees-21) con un 82.89 % de descuento con precio de oferta de 15.39 EUR (original: 89.95 EUR) en el siguiente enlace!

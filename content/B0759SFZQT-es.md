@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Maritsa Lara  Sandalia con Pulsera para Mujer  Verde  Olive Suede-   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0759SFZQT/?tag=tolees-21'
+descuento: '45.21'
+titulo: 'Clarks Maritsa Lara  Sandalia con Pulser'
 ---
 
 Tienes [Clarks Maritsa Lara  Sandalia con Pulsera para Mujer  Verde  Olive Suede-   42 EU](https://www.amazon.es/dp/B0759SFZQT/?tag=tolees-21) con un 45.21 % de descuento con precio de oferta de 60.27 EUR (original: 110 EUR) en el siguiente enlace!

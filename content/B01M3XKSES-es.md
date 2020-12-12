@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Lynn Mid Waist Skinny Jeans Ajustados  Negro  3D Dark Aged 8469-2967   24W / 28L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M3XKSES/?tag=tolees-21'
+descuento: '60.03'
+titulo: 'G-STAR RAW Lynn Mid Waist Skinny Jeans A'
 ---
 
 Está [G-STAR RAW Lynn Mid Waist Skinny Jeans Ajustados  Negro  3D Dark Aged 8469-2967   24W / 28L para Mujer](https://www.amazon.es/dp/B01M3XKSES/?tag=tolees-21) con 60.03 de descuento por 47.95 EUR (original: 119.95 EUR) en el siguiente enlace!

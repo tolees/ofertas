@@ -17,6 +17,9 @@ comparePrice: 169.9 EUR
 inStock: true
 prodname: 'BabyBjörn Balance soft - Hamaca  Plata/Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AQMBXRG/?tag=tolees-21'
+descuento: '25.22'
+titulo: 'BabyBjörn Balance soft - Hamaca  Plata/B'
 ---
 
 Tienes [BabyBjörn Balance soft - Hamaca  Plata/Blanco](https://www.amazon.es/dp/B00AQMBXRG/?tag=tolees-21) con un 25.22 % de descuento con precio de oferta de 127.05 EUR (original: 169.9 EUR) en el siguiente enlace!

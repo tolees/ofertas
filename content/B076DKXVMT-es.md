@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Women secret 4652185  Sujetador Básico para Mujer  Verde  Greens   90  Tamaño del Fabricante:95B '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076DKXVMT/?tag=tolees-21'
+descuento: '53.85'
+titulo: 'Women secret 4652185  Sujetador Básico p'
 ---
 
 Está [Women secret 4652185  Sujetador Básico para Mujer  Verde  Greens   90  Tamaño del Fabricante:95B ](https://www.amazon.es/dp/B076DKXVMT/?tag=tolees-21) con 53.85 de descuento por 10.61 EUR (original: 22.99 EUR) en el siguiente enlace!

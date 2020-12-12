@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'BOSS Maine-Shorts BC-l-p Pantalones Cortos  Negro  Black 008   W31  Talla del Fabricante: 31  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGD2WVQ/?tag=tolees-21'
+descuento: '50.24'
+titulo: 'BOSS Maine-Shorts BC-l-p Pantalones Cort'
 ---
 
 Tienes [BOSS Maine-Shorts BC-l-p Pantalones Cortos  Negro  Black 008   W31  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07KGD2WVQ/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 54.24 EUR (original: 109 EUR) en el siguiente enlace!

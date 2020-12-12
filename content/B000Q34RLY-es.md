@@ -17,6 +17,9 @@ comparePrice: 31 EUR
 inStock: true
 prodname: 'Clinique 1401 - Agua de perfume'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000Q34RLY/?tag=tolees-21'
+descuento: '42.74'
+titulo: 'Clinique 1401 - Agua de perfume'
 ---
 
 Está [Clinique 1401 - Agua de perfume](https://www.amazon.es/dp/B000Q34RLY/?tag=tolees-21) con 42.74 de descuento por 17.75 EUR (original: 31 EUR) en el siguiente enlace!

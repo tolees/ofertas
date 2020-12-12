@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'ONLY Onlnew Sissi Reg Strt Ank Jeans Cre8679  Vaqueros evasé Mujer  Azul  Dark Blue Denim   W25/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CL1JG7F/?tag=tolees-21'
+descuento: '70.29'
+titulo: 'ONLY Onlnew Sissi Reg Strt Ank Jeans Cre'
 ---
 
 Tienes [ONLY Onlnew Sissi Reg Strt Ank Jeans Cre8679  Vaqueros evasé Mujer  Azul  Dark Blue Denim   W25/L30](https://www.amazon.es/dp/B07CL1JG7F/?tag=tolees-21) con un 70.29 % de descuento con precio de oferta de 11.88 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 26241  Botas de Nieve para Mujer  Amarillo  Corn Antic Com   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LMWF88/?tag=tolees-21'
+descuento: '73.68'
+titulo: 'Marco Tozzi 26241  Botas de Nieve para M'
 ---
 
 Está [Marco Tozzi 26241  Botas de Nieve para Mujer  Amarillo  Corn Antic Com   38 EU](https://www.amazon.es/dp/B072LMWF88/?tag=tolees-21) con 73.68 de descuento por 15.78 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'Sorel Falcon Ridge  Zapatillas para Hombre  Marrón  Bark   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001OTYYWQ/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'Sorel Falcon Ridge  Zapatillas para Homb'
 ---
 
 Está [Sorel Falcon Ridge  Zapatillas para Hombre  Marrón  Bark   40 EU](https://www.amazon.es/dp/B001OTYYWQ/?tag=tolees-21) con 50.06 de descuento por 37.45 EUR (original: 74.99 EUR) en el siguiente enlace!

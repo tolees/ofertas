@@ -17,6 +17,9 @@ comparePrice: 7.07 EUR
 inStock: true
 prodname: 'Bosch 1987301017 Pure Light - Lámpara P21W  para luz de freno  intermitentes  matrícula  etc. '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000PXIL7Q/?tag=tolees-21'
+descuento: '72.70'
+titulo: 'Bosch 1987301017 Pure Light - Lámpara P2'
 ---
 
 Está [Bosch 1987301017 Pure Light - Lámpara P21W  para luz de freno  intermitentes  matrícula  etc. ](https://www.amazon.es/dp/B000PXIL7Q/?tag=tolees-21) con 72.70 de descuento por 1.93 EUR (original: 7.07 EUR) en el siguiente enlace!

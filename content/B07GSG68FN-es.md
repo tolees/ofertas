@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcomarko Polo SS  Hombre   Tango Red Tango Red   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GSG68FN/?tag=tolees-21'
+descuento: '59.18'
+titulo: 'JACK & JONES Jcomarko Polo SS  Hombre   '
 ---
 
 Tienes [JACK & JONES Jcomarko Polo SS  Hombre   Tango Red Tango Red   Small](https://www.amazon.es/dp/B07GSG68FN/?tag=tolees-21) con un 59.18 % de descuento con precio de oferta de 10.2 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 159.99 EUR
 inStock: true
 prodname: 'Ukelele Soprano  Hricane Ukelele 21 Pulgadas de Sapele  Veneer Hawaiian Ukulele Con Bolsa de Transporte Estándar y Cuerda de Repuesto  Diferentes tamaños España Ukelele for Todos.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDKB45T/?tag=tolees-21'
+descuento: '75.00'
+titulo: 'Ukelele Soprano  Hricane Ukelele 21 Pulg'
 ---
 
 Está [Ukelele Soprano  Hricane Ukelele 21 Pulgadas de Sapele  Veneer Hawaiian Ukulele Con Bolsa de Transporte Estándar y Cuerda de Repuesto  Diferentes tamaños España Ukelele for Todos.](https://www.amazon.es/dp/B07GDKB45T/?tag=tolees-21) con 75.00 de descuento por 39.99 EUR (original: 159.99 EUR) en el siguiente enlace!

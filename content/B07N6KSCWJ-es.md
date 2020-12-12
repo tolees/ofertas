@@ -17,6 +17,9 @@ comparePrice: 23.34 EUR
 inStock: true
 prodname: 'New Look Stripe Crew 6095399 Capucha Rojo  Red NIU 62  X-Large  Talla del Fabricante: 54  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N6KSCWJ/?tag=tolees-21'
+descuento: '61.44'
+titulo: 'New Look Stripe Crew 6095399 Capucha Roj'
 ---
 
 Está [New Look Stripe Crew 6095399 Capucha Rojo  Red NIU 62  X-Large  Talla del Fabricante: 54  para Hombre](https://www.amazon.es/dp/B07N6KSCWJ/?tag=tolees-21) con 61.44 de descuento por 9 EUR (original: 23.34 EUR) en el siguiente enlace!

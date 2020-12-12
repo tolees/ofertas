@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Van Allen Eclipse Pro Oficial Diana  Unisex  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000G2Z4VW/?tag=tolees-21'
+descuento: '26.82'
+titulo: 'Van Allen Eclipse Pro Oficial Diana  Uni'
 ---
 
 Tienes [Van Allen Eclipse Pro Oficial Diana  Unisex  Talla Única](https://www.amazon.es/dp/B000G2Z4VW/?tag=tolees-21) con un 26.82 % de descuento con precio de oferta de 40.21 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger 3p Trunk Print Bóxer   Navy Blazer/White/Tango Red 056   Large  Talla del Fabricante: LG  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBKVYJC/?tag=tolees-21'
+descuento: '43.89'
+titulo: 'Tommy Hilfiger 3p Trunk Print Bóxer   Na'
 ---
 
 Está [Tommy Hilfiger 3p Trunk Print Bóxer   Navy Blazer/White/Tango Red 056   Large  Talla del Fabricante: LG  para Hombre](https://www.amazon.es/dp/B07LBKVYJC/?tag=tolees-21) con 43.89 de descuento por 28 EUR (original: 49.9 EUR) en el siguiente enlace!

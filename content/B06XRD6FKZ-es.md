@@ -17,6 +17,9 @@ comparePrice: 39.47 EUR
 inStock: true
 prodname: 'YUUVE Sombrero de Paja de Verano para señoras Gorra Plegable para Playa Sombrero Ancho para Sombrero Grande Fedora Floppy Sun para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XRD6FKZ/?tag=tolees-21'
+descuento: '65.09'
+titulo: 'YUUVE Sombrero de Paja de Verano para se'
 ---
 
 Tienes [YUUVE Sombrero de Paja de Verano para señoras Gorra Plegable para Playa Sombrero Ancho para Sombrero Grande Fedora Floppy Sun para Mujer](https://www.amazon.es/dp/B06XRD6FKZ/?tag=tolees-21) con un 65.09 % de descuento con precio de oferta de 13.78 EUR (original: 39.47 EUR) en el siguiente enlace!

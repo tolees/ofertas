@@ -17,6 +17,9 @@ comparePrice: 58.42 EUR
 inStock: true
 prodname: 'Kärcher Programador de riego WT 5  2.645-219.0 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00QM9TW70/?tag=tolees-21'
+descuento: '38.46'
+titulo: 'Kärcher Programador de riego WT 5  2.645'
 ---
 
 Está [Kärcher Programador de riego WT 5  2.645-219.0 ](https://www.amazon.es/dp/B00QM9TW70/?tag=tolees-21) con 38.46 de descuento por 35.95 EUR (original: 58.42 EUR) en el siguiente enlace!

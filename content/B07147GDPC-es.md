@@ -17,6 +17,9 @@ comparePrice: 55.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 25038  Botas para Mujer  Marrón  Pepper   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07147GDPC/?tag=tolees-21'
+descuento: '81.07'
+titulo: 'Marco Tozzi 25038  Botas para Mujer  Mar'
 ---
 
 Está [Marco Tozzi 25038  Botas para Mujer  Marrón  Pepper   38 EU](https://www.amazon.es/dp/B07147GDPC/?tag=tolees-21) con 81.07 de descuento por 10.59 EUR (original: 55.95 EUR) en el siguiente enlace!

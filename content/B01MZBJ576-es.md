@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'edc by Esprit 057cc1d013  Falda Mujer  Blanco  Off White   34  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZBJ576/?tag=tolees-21'
+descuento: '74.47'
+titulo: 'edc by Esprit 057cc1d013  Falda Mujer  B'
 ---
 
 Está [edc by Esprit 057cc1d013  Falda Mujer  Blanco  Off White   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B01MZBJ576/?tag=tolees-21) con 74.47 de descuento por 9.19 EUR (original: 35.99 EUR) en el siguiente enlace!

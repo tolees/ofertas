@@ -17,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'PUTUO Hombre Calcetines de Deporte  Hombre Calcetines Cortos para Fitness  Tenis  Correr  Baloncesto  4 Pares'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DW6F2FP/?tag=tolees-21'
+descuento: '48.66'
+titulo: 'PUTUO Hombre Calcetines de Deporte  Homb'
 ---
 
 Tienes [PUTUO Hombre Calcetines de Deporte  Hombre Calcetines Cortos para Fitness  Tenis  Correr  Baloncesto  4 Pares](https://www.amazon.es/dp/B07DW6F2FP/?tag=tolees-21) con un 48.66 % de descuento con precio de oferta de 18.99 EUR (original: 36.99 EUR) en el siguiente enlace!

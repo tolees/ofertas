@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Quiksilver Mission Block Chaqueta de Nieve  Hombre  Verde  Grape Leaf  / Negro  tanenbaum   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHSX2ZL/?tag=tolees-21'
+descuento: '73.46'
+titulo: 'Quiksilver Mission Block Chaqueta de Nie'
 ---
 
 Tienes [Quiksilver Mission Block Chaqueta de Nieve  Hombre  Verde  Grape Leaf  / Negro  tanenbaum   XXL](https://www.amazon.es/dp/B07DHSX2ZL/?tag=tolees-21) con un 73.46 % de descuento con precio de oferta de 53.07 EUR (original: 199.99 EUR) en el siguiente enlace!

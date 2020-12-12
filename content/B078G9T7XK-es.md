@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Greencut MNA100 - Enrollador automático de manguera de aire comprimido  con soporte de pared  para manguera de 10 m  presión de trabajo de 8bar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078G9T7XK/?tag=tolees-21'
+descuento: '59.26'
+titulo: 'Greencut MNA100 - Enrollador automático '
 ---
 
 Está [Greencut MNA100 - Enrollador automático de manguera de aire comprimido  con soporte de pared  para manguera de 10 m  presión de trabajo de 8bar](https://www.amazon.es/dp/B078G9T7XK/?tag=tolees-21) con 59.26 de descuento por 40.33 EUR (original: 99 EUR) en el siguiente enlace!

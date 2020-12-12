@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'FIND  Botines para Mujer  Rosa  Nude   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06W2N3MBX/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'FIND  Botines para Mujer  Rosa  Nude   4'
 ---
 
 Ahora mismo tienes [FIND  Botines para Mujer  Rosa  Nude   40 EU](https://www.amazon.es/dp/B06W2N3MBX/?tag=tolees-21) a 38.5 EUR (original: 55 EUR) (30.00 %  de descuento) en el siguiente enlace!

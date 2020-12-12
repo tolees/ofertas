@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'ELINKUME G9 LED Lámpara 4W Blanco cálido  G9 Bombilla LED no regulable  Reemplazo para 40W G9 Bombillas halógenas  320Lumen 3000K  AC 200-240V  Ángulo de 360 grados  CRI> 80  Paquete de 10'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H7FH1C3/?tag=tolees-21'
+descuento: '43.43'
+titulo: 'ELINKUME G9 LED Lámpara 4W Blanco cálido'
 ---
 
 Tienes [ELINKUME G9 LED Lámpara 4W Blanco cálido  G9 Bombilla LED no regulable  Reemplazo para 40W G9 Bombillas halógenas  320Lumen 3000K  AC 200-240V  Ángulo de 360 grados  CRI> 80  Paquete de 10](https://www.amazon.es/dp/B07H7FH1C3/?tag=tolees-21) con un 43.43 % de descuento con precio de oferta de 16.97 EUR (original: 30 EUR) en el siguiente enlace!

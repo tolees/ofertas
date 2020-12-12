@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Cressi Rocker Gafas de Sol  Unisex Adulto  Negro/Lentes Reflejado Púrpura  Ultra Flex-Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JRV1LNC/?tag=tolees-21'
+descuento: '38.66'
+titulo: 'Cressi Rocker Gafas de Sol  Unisex Adult'
 ---
 
 Ahora mismo tienes [Cressi Rocker Gafas de Sol  Unisex Adulto  Negro/Lentes Reflejado Púrpura  Ultra Flex-Talla Única](https://www.amazon.es/dp/B01JRV1LNC/?tag=tolees-21) a 15.33 EUR (original: 24.99 EUR) (38.66 %  de descuento) en el siguiente enlace!

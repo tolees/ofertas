@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Bone Tomahawk [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BHBV1I0/?tag=tolees-21'
+descuento: '30.03'
+titulo: 'Bone Tomahawk [Blu-ray]'
 ---
 
 Ahora mismo tienes [Bone Tomahawk [Blu-ray]](https://www.amazon.es/dp/B01BHBV1I0/?tag=tolees-21) a 6.99 EUR (original: 9.99 EUR) (30.03 %  de descuento) en el siguiente enlace!

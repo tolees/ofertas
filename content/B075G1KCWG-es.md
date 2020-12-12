@@ -17,6 +17,9 @@ comparePrice: 369 EUR
 inStock: true
 prodname: 'Michael Kors Reloj Mujer de Digital con Correa en Acero Inoxidable MKT5021'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075G1KCWG/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Michael Kors Reloj Mujer de Digital con '
 ---
 
 Está [Michael Kors Reloj Mujer de Digital con Correa en Acero Inoxidable MKT5021](https://www.amazon.es/dp/B075G1KCWG/?tag=tolees-21) con 50.00 de descuento por 184.5 EUR (original: 369 EUR) en el siguiente enlace!

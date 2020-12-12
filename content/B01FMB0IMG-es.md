@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Lixada Lámpara Cuerda Vintage  E27 100 cm Lámpara de Techo de Cáñamo Rústico Retro Estilo Comedor Restaurante Cafe Iluminación Uso'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FMB0IMG/?tag=tolees-21'
+descuento: '48.97'
+titulo: 'Lixada Lámpara Cuerda Vintage  E27 100 c'
 ---
 
 Está [Lixada Lámpara Cuerda Vintage  E27 100 cm Lámpara de Techo de Cáñamo Rústico Retro Estilo Comedor Restaurante Cafe Iluminación Uso](https://www.amazon.es/dp/B01FMB0IMG/?tag=tolees-21) con 48.97 de descuento por 10.2 EUR (original: 19.99 EUR) en el siguiente enlace!

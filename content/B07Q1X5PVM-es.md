@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Hawiton Pantalones de Pijama Mujer Cortos Verano de Algodón Elástico Ropa de Dormir Volantes  Suave y Cómodo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q1X5PVM/?tag=tolees-21'
+descuento: '42.51'
+titulo: 'Hawiton Pantalones de Pijama Mujer Corto'
 ---
 
 Está [Hawiton Pantalones de Pijama Mujer Cortos Verano de Algodón Elástico Ropa de Dormir Volantes  Suave y Cómodo](https://www.amazon.es/dp/B07Q1X5PVM/?tag=tolees-21) con 42.51 de descuento por 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!

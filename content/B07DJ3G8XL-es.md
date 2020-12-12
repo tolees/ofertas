@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'New Balance Fresh Faom Cruz v2 Hygge Pack  Zapatillas para Mujer  Verde  Camp Smoke/Vintage Cedar/Faded Birch Hg2   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ3G8XL/?tag=tolees-21'
+descuento: '73.08'
+titulo: 'New Balance Fresh Faom Cruz v2 Hygge Pac'
 ---
 
 Tienes [New Balance Fresh Faom Cruz v2 Hygge Pack  Zapatillas para Mujer  Verde  Camp Smoke/Vintage Cedar/Faded Birch Hg2   43 EU](https://www.amazon.es/dp/B07DJ3G8XL/?tag=tolees-21) con un 73.08 % de descuento con precio de oferta de 25.57 EUR (original: 95 EUR) en el siguiente enlace!

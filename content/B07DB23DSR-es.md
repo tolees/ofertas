@@ -17,6 +17,9 @@ comparePrice: 30.87 EUR
 inStock: true
 prodname: 'Gricol Gancho de Pared Percha de Baño Perchero de Pared Colgador Gran Capacidad de Carga SUS304 Acero Inoxidable a Colgar Sombrero  Ropa  Abrigo  Toalla Albornoz  Pulido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DB23DSR/?tag=tolees-21'
+descuento: '51.80'
+titulo: 'Gricol Gancho de Pared Percha de Baño Pe'
 ---
 
 Tienes [Gricol Gancho de Pared Percha de Baño Perchero de Pared Colgador Gran Capacidad de Carga SUS304 Acero Inoxidable a Colgar Sombrero  Ropa  Abrigo  Toalla Albornoz  Pulido](https://www.amazon.es/dp/B07DB23DSR/?tag=tolees-21) con un 51.80 % de descuento con precio de oferta de 14.88 EUR (original: 30.87 EUR) en el siguiente enlace!

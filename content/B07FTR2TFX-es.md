@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Lee Pique Polo  Verde  Faded Green Lf   XL para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTR2TFX/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'Lee Pique Polo  Verde  Faded Green Lf   '
 ---
 
 Tienes [Lee Pique Polo  Verde  Faded Green Lf   XL para Hombre](https://www.amazon.es/dp/B07FTR2TFX/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

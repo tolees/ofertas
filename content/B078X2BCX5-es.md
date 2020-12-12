@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 40aa214-610650  Zapatillas para Mujer  Azul  Marine 650   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078X2BCX5/?tag=tolees-21'
+descuento: '44.01'
+titulo: 'Dockers by Gerli 40aa214-610650  Zapatil'
 ---
 
 Está [Dockers by Gerli 40aa214-610650  Zapatillas para Mujer  Azul  Marine 650   36 EU](https://www.amazon.es/dp/B078X2BCX5/?tag=tolees-21) con 44.01 de descuento por 16.77 EUR (original: 29.95 EUR) en el siguiente enlace!

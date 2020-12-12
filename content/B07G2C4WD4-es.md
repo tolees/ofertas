@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Aspiradora de Coche 12V - CORUX Aspirador de Mano  150W  3500PA  Bolsa de Transporte y otros Accesorios Complementarios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G2C4WD4/?tag=tolees-21'
+descuento: '53.76'
+titulo: 'Aspiradora de Coche 12V - CORUX Aspirado'
 ---
 
 Ahora mismo tienes [Aspiradora de Coche 12V - CORUX Aspirador de Mano  150W  3500PA  Bolsa de Transporte y otros Accesorios Complementarios](https://www.amazon.es/dp/B07G2C4WD4/?tag=tolees-21) a 36.99 EUR (original: 79.99 EUR) (53.76 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Under Armour Favorite Tapered Slouch Pantalones  Mujer  Aluminium Light Heather/After Burn/Black  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DY5DRK8/?tag=tolees-21'
+descuento: '67.53'
+titulo: 'Under Armour Favorite Tapered Slouch Pan'
 ---
 
 Ahora mismo tienes [Under Armour Favorite Tapered Slouch Pantalones  Mujer  Aluminium Light Heather/After Burn/Black  XS](https://www.amazon.es/dp/B07DY5DRK8/?tag=tolees-21) a 17.86 EUR (original: 55 EUR) (67.53 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 165 EUR
 inStock: true
 prodname: 'Superdry Rookie Hawk Parka  Mujer   Verde 03o   Medium  Talla del Fabricante: 12.0 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FL7CF95/?tag=tolees-21'
+descuento: '66.21'
+titulo: 'Superdry Rookie Hawk Parka  Mujer   Verd'
 ---
 
 Está [Superdry Rookie Hawk Parka  Mujer   Verde 03o   Medium  Talla del Fabricante: 12.0 ](https://www.amazon.es/dp/B07FL7CF95/?tag=tolees-21) con 66.21 de descuento por 55.76 EUR (original: 165 EUR) en el siguiente enlace!

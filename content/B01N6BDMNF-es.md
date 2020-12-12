@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour Ua Thrill 3  Zapatillas de Entrenamiento para Hombre  Gris  Overcast Gray   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6BDMNF/?tag=tolees-21'
+descuento: '48.39'
+titulo: 'Under Armour Ua Thrill 3  Zapatillas de '
 ---
 
 Está [Under Armour Ua Thrill 3  Zapatillas de Entrenamiento para Hombre  Gris  Overcast Gray   44 EU](https://www.amazon.es/dp/B01N6BDMNF/?tag=tolees-21) con 48.39 de descuento por 36.13 EUR (original: 70 EUR) en el siguiente enlace!

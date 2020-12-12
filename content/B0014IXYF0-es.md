@@ -17,6 +17,9 @@ comparePrice: 20.69 EUR
 inStock: true
 prodname: 'Brandy Papidoux Calvados Fine 700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0014IXYF0/?tag=tolees-21'
+descuento: '32.58'
+titulo: 'Brandy Papidoux Calvados Fine 700 ml'
 ---
 
 Ahora mismo tienes [Brandy Papidoux Calvados Fine 700 ml](https://www.amazon.es/dp/B0014IXYF0/?tag=tolees-21) a 13.95 EUR (original: 20.69 EUR) (32.58 %  de descuento) en el siguiente enlace!

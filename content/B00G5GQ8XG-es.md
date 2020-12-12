@@ -17,6 +17,9 @@ comparePrice: 19.15 EUR
 inStock: true
 prodname: 'Sobieski Premium Vodka - 1000 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00G5GQ8XG/?tag=tolees-21'
+descuento: '40.47'
+titulo: 'Sobieski Premium Vodka - 1000 ml'
 ---
 
 Está [Sobieski Premium Vodka - 1000 ml](https://www.amazon.es/dp/B00G5GQ8XG/?tag=tolees-21) con 40.47 de descuento por 11.4 EUR (original: 19.15 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'DKNY Intimates Nightfall-Sheer Lace  Sujetador para Mujer  Negro  Black/Skinny Dip Tl3  75B  Talla del Fabricante: 34B '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GTBYY6Y/?tag=tolees-21'
+descuento: '45.50'
+titulo: 'DKNY Intimates Nightfall-Sheer Lace  Suj'
 ---
 
 Está [DKNY Intimates Nightfall-Sheer Lace  Sujetador para Mujer  Negro  Black/Skinny Dip Tl3  75B  Talla del Fabricante: 34B ](https://www.amazon.es/dp/B01GTBYY6Y/?tag=tolees-21) con 45.50 de descuento por 29.95 EUR (original: 54.95 EUR) en el siguiente enlace!

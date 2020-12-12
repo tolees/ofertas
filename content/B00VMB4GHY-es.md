@@ -17,6 +17,9 @@ comparePrice: 166.8 EUR
 inStock: true
 prodname: 'Ice-Watch - Ice Carbon Black Blue - Reloj Azul para Hombre con Correa de Silicone - 001317  Extra Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VMB4GHY/?tag=tolees-21'
+descuento: '42.28'
+titulo: 'Ice-Watch - Ice Carbon Black Blue - Relo'
 ---
 
 Está [Ice-Watch - Ice Carbon Black Blue - Reloj Azul para Hombre con Correa de Silicone - 001317  Extra Large ](https://www.amazon.es/dp/B00VMB4GHY/?tag=tolees-21) con 42.28 de descuento por 96.27 EUR (original: 166.8 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel 6717381  Vestido para Mujer  Rosa  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCVP9QY/?tag=tolees-21'
+descuento: '78.60'
+titulo: 'Cortefiel 6717381  Vestido para Mujer  R'
 ---
 
 Tienes [Cortefiel 6717381  Vestido para Mujer  Rosa  S](https://www.amazon.es/dp/B06XCVP9QY/?tag=tolees-21) con un 78.60 % de descuento con precio de oferta de 10.7 EUR (original: 49.99 EUR) en el siguiente enlace!

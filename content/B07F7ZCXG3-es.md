@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Bollé Rocket Plus Máscaras  Unisex niños  Negro Mate/Verde  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7ZCXG3/?tag=tolees-21'
+descuento: '35.44'
+titulo: 'Bollé Rocket Plus Máscaras  Unisex niños'
 ---
 
 Ahora mismo tienes [Bollé Rocket Plus Máscaras  Unisex niños  Negro Mate/Verde  S](https://www.amazon.es/dp/B07F7ZCXG3/?tag=tolees-21) a 25.18 EUR (original: 39 EUR) (35.44 %  de descuento) en el siguiente enlace!

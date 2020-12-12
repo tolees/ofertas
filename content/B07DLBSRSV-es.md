@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Element Cornell Classic ZH Fleece  Hombre  Flint Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLBSRSV/?tag=tolees-21'
+descuento: '43.22'
+titulo: 'Element Cornell Classic ZH Fleece  Hombr'
 ---
 
 Está [Element Cornell Classic ZH Fleece  Hombre  Flint Black  L](https://www.amazon.es/dp/B07DLBSRSV/?tag=tolees-21) con 43.22 de descuento por 34.07 EUR (original: 60 EUR) en el siguiente enlace!

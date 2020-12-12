@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Longruner Arduino Mega 2560 Board Module para Arduino UNO R3 Pantalla TFT de 3.5 pulgadas con zócalo de tarjeta SD Todos los datos técnicos en el CD LSC3A-1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2YCSJD/?tag=tolees-21'
+descuento: '37.05'
+titulo: 'Longruner Arduino Mega 2560 Board Module'
 ---
 
 Tienes [Longruner Arduino Mega 2560 Board Module para Arduino UNO R3 Pantalla TFT de 3.5 pulgadas con zócalo de tarjeta SD Todos los datos técnicos en el CD LSC3A-1](https://www.amazon.es/dp/B07K2YCSJD/?tag=tolees-21) con un 37.05 % de descuento con precio de oferta de 16.99 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'Salomon XA Pro 3D GTX  Calzado de Trail Running  Impermeable para Mujer  Morado  Hollyhock/Dark Purple/Eggshell Blue   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZX8VT6/?tag=tolees-21'
+descuento: '36.26'
+titulo: 'Salomon XA Pro 3D GTX  Calzado de Trail '
 ---
 
 Tienes [Salomon XA Pro 3D GTX  Calzado de Trail Running  Impermeable para Mujer  Morado  Hollyhock/Dark Purple/Eggshell Blue   40 EU](https://www.amazon.es/dp/B07CZX8VT6/?tag=tolees-21) con un 36.26 % de descuento con precio de oferta de 101.95 EUR (original: 159.95 EUR) en el siguiente enlace!

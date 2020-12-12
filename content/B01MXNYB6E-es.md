@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance MRZHLL1  Zapatillas Hombre  Multicolor  Bolt/black   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXNYB6E/?tag=tolees-21'
+descuento: '49.65'
+titulo: 'New Balance MRZHLL1  Zapatillas Hombre  '
 ---
 
 Está [New Balance MRZHLL1  Zapatillas Hombre  Multicolor  Bolt/black   43 EU](https://www.amazon.es/dp/B01MXNYB6E/?tag=tolees-21) con 49.65 de descuento por 40.28 EUR (original: 80 EUR) en el siguiente enlace!

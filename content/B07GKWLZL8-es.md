@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Levi s LS Waffle Crewneck  Sudadera para Hombre  Gris  Medium Grey Heather 0000  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GKWLZL8/?tag=tolees-21'
+descuento: '36.36'
+titulo: 'Levi s LS Waffle Crewneck  Sudadera para'
 ---
 
 Tienes [Levi s LS Waffle Crewneck  Sudadera para Hombre  Gris  Medium Grey Heather 0000  Small](https://www.amazon.es/dp/B07GKWLZL8/?tag=tolees-21) con un 36.36 % de descuento con precio de oferta de 31.82 EUR (original: 50 EUR) en el siguiente enlace!

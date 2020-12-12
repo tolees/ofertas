@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Roxy Juneau  Botas de Nieve para Mujer  Verde  Olive OLV   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHTK33N/?tag=tolees-21'
+descuento: '77.72'
+titulo: 'Roxy Juneau  Botas de Nieve para Mujer  '
 ---
 
 Está [Roxy Juneau  Botas de Nieve para Mujer  Verde  Olive OLV   37 EU](https://www.amazon.es/dp/B07DHTK33N/?tag=tolees-21) con 77.72 de descuento por 22.28 EUR (original: 99.99 EUR) en el siguiente enlace!

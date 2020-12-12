@@ -17,6 +17,9 @@ comparePrice: 54 EUR
 inStock: true
 prodname: 'DC Clothing Atura - Ropa para niños  Color Rot - Red  Jester Atura   Talla 8 años/128'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00RZ84CAY/?tag=tolees-21'
+descuento: '60.43'
+titulo: 'DC Clothing Atura - Ropa para niños  Col'
 ---
 
 Tienes [DC Clothing Atura - Ropa para niños  Color Rot - Red  Jester Atura   Talla 8 años/128](https://www.amazon.es/dp/B00RZ84CAY/?tag=tolees-21) con un 60.43 % de descuento con precio de oferta de 21.37 EUR (original: 54 EUR) en el siguiente enlace!

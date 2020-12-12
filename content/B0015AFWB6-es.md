@@ -17,6 +17,9 @@ comparePrice: 15.92 EUR
 inStock: true
 prodname: 'Whiskas Temptations Premios para Gatos Sabor Pollo y Queso - Paquete de 8 x 60 gr - Total: 480 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0015AFWB6/?tag=tolees-21'
+descuento: '37.44'
+titulo: 'Whiskas Temptations Premios para Gatos S'
 ---
 
 Tienes [Whiskas Temptations Premios para Gatos Sabor Pollo y Queso - Paquete de 8 x 60 gr - Total: 480 gr](https://www.amazon.es/dp/B0015AFWB6/?tag=tolees-21) con un 37.44 % de descuento con precio de oferta de 9.96 EUR (original: 15.92 EUR) en el siguiente enlace!

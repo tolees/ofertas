@@ -17,6 +17,9 @@ comparePrice: 28.6 EUR
 inStock: true
 prodname: 'David Bowie Thunder  Camiseta Manga Corta para Hombre  Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WV8IQPA/?tag=tolees-21'
+descuento: '44.55'
+titulo: 'David Bowie Thunder  Camiseta Manga Cort'
 ---
 
 Ahora mismo tienes [David Bowie Thunder  Camiseta Manga Corta para Hombre  Negro  L](https://www.amazon.es/dp/B00WV8IQPA/?tag=tolees-21) a 15.86 EUR (original: 28.6 EUR) (44.55 %  de descuento) en el siguiente enlace!

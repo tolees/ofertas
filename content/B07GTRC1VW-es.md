@@ -17,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'Top Top  CAPLAY  Camiseta de Manga Larga  Bebé-Niños  Marfil   Crudo   10    68  Tamaño del Fabricante: 6-9  '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GTRC1VW/?tag=tolees-21'
+descuento: '56.06'
+titulo: 'Top Top  CAPLAY  Camiseta de Manga Larga'
 ---
 
 Ahora mismo tienes [Top Top  CAPLAY  Camiseta de Manga Larga  Bebé-Niños  Marfil   Crudo   10    68  Tamaño del Fabricante: 6-9  ](https://www.amazon.es/dp/B07GTRC1VW/?tag=tolees-21) a 3.95 EUR (original: 8.99 EUR) (56.06 %  de descuento) en el siguiente enlace!

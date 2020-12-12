@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'adidas Stan Smith New Bold W  Zapatillas de Gimnasia para Mujer  Blanco FTWR Off White/Supplier Colour  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZQFBP9/?tag=tolees-21'
+descuento: '25.04'
+titulo: 'adidas Stan Smith New Bold W  Zapatillas'
 ---
 
 Está [adidas Stan Smith New Bold W  Zapatillas de Gimnasia para Mujer  Blanco FTWR Off White/Supplier Colour  42 EU](https://www.amazon.es/dp/B07JZQFBP9/?tag=tolees-21) con 25.04 de descuento por 89.92 EUR (original: 119.95 EUR) en el siguiente enlace!

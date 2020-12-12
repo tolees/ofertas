@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Riley JR PB301600  Blusa para Niños  Rojo  Lotus Red 296  2 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RSXCVY/?tag=tolees-21'
+descuento: '77.01'
+titulo: 'Pepe Jeans Riley JR PB301600  Blusa para'
 ---
 
 Está [Pepe Jeans Riley JR PB301600  Blusa para Niños  Rojo  Lotus Red 296  2 años](https://www.amazon.es/dp/B079RSXCVY/?tag=tolees-21) con 77.01 de descuento por 13.77 EUR (original: 59.9 EUR) en el siguiente enlace!

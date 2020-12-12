@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Cabeza de Ducha para Luz Ducha  Cnasa Alta Presion Cabezal de Ducha Ionico con Led Ahorro de Agua Cabezal  7 Colores '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076J3VW5S/?tag=tolees-21'
+descuento: '56.69'
+titulo: 'Cabeza de Ducha para Luz Ducha  Cnasa Al'
 ---
 
 Tienes [Cabeza de Ducha para Luz Ducha  Cnasa Alta Presion Cabezal de Ducha Ionico con Led Ahorro de Agua Cabezal  7 Colores ](https://www.amazon.es/dp/B076J3VW5S/?tag=tolees-21) con un 56.69 % de descuento con precio de oferta de 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

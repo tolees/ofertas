@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield Camisa Manga Corta Camisa Casual  Hombre  Azul  Gama Azules   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HGXBG7/?tag=tolees-21'
+descuento: '47.75'
+titulo: 'Springfield Camisa Manga Corta Camisa Ca'
 ---
 
 Está [Springfield Camisa Manga Corta Camisa Casual  Hombre  Azul  Gama Azules   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B078HGXBG7/?tag=tolees-21) con 47.75 de descuento por 13.58 EUR (original: 25.99 EUR) en el siguiente enlace!

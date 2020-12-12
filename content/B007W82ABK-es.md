@@ -17,6 +17,9 @@ comparePrice: 5.99 EUR
 inStock: true
 prodname: 'Cooler Master IC-Essential E1 - Pasta térmica  Alto rendimiento  Edición gris  3.5ml  RG-ICE1-TG15-R1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007W82ABK/?tag=tolees-21'
+descuento: '33.39'
+titulo: 'Cooler Master IC-Essential E1 - Pasta té'
 ---
 
 Ahora mismo tienes [Cooler Master IC-Essential E1 - Pasta térmica  Alto rendimiento  Edición gris  3.5ml  RG-ICE1-TG15-R1](https://www.amazon.es/dp/B007W82ABK/?tag=tolees-21) a 3.99 EUR (original: 5.99 EUR) (33.39 %  de descuento) en el siguiente enlace!

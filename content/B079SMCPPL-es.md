@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Desigual TS_Claudina  Camiseta para Mujer    Negro 2000  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079SMCPPL/?tag=tolees-21'
+descuento: '68.62'
+titulo: 'Desigual TS_Claudina  Camiseta para Muje'
 ---
 
 Está [Desigual TS_Claudina  Camiseta para Mujer    Negro 2000  X-Large](https://www.amazon.es/dp/B079SMCPPL/?tag=tolees-21) con 68.62 de descuento por 18.81 EUR (original: 59.95 EUR) en el siguiente enlace!

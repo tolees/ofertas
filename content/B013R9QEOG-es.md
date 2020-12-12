@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Reebok Triplehall 4 0  Zapatillas de Running Para Mujer  color blanco  talla 37 EU  4 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013R9QEOG/?tag=tolees-21'
+descuento: '35.30'
+titulo: 'Reebok Triplehall 4 0  Zapatillas de Run'
 ---
 
 Está [Reebok Triplehall 4 0  Zapatillas de Running Para Mujer  color blanco  talla 37 EU  4 UK ](https://www.amazon.es/dp/B013R9QEOG/?tag=tolees-21) con 35.30 de descuento por 25.88 EUR (original: 40 EUR) en el siguiente enlace!

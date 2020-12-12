@@ -17,6 +17,9 @@ comparePrice: 12.04 EUR
 inStock: true
 prodname: 'Hoppe 10760880hoppe Ventana Mango Atlanta - Secustik 90 °  VK 7 x 32 - 42 mm  Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071K8LZW9/?tag=tolees-21'
+descuento: '41.36'
+titulo: 'Hoppe 10760880hoppe Ventana Mango Atlant'
 ---
 
 Está [Hoppe 10760880hoppe Ventana Mango Atlanta - Secustik 90 °  VK 7 x 32 - 42 mm  Plata](https://www.amazon.es/dp/B071K8LZW9/?tag=tolees-21) con 41.36 de descuento por 7.06 EUR (original: 12.04 EUR) en el siguiente enlace!

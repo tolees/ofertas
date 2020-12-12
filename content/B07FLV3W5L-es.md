@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Jack & Jones NOS Jjizack Jjonix JJ 137 50sps Ltd  Vaqueros Slim para Hombre  Negro Black Denim  W33/L32  Talla del Fabricante: 33 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLV3W5L/?tag=tolees-21'
+descuento: '70.75'
+titulo: 'Jack & Jones NOS Jjizack Jjonix JJ 137 5'
 ---
 
 Tienes [Jack & Jones NOS Jjizack Jjonix JJ 137 50sps Ltd  Vaqueros Slim para Hombre  Negro Black Denim  W33/L32  Talla del Fabricante: 33 ](https://www.amazon.es/dp/B07FLV3W5L/?tag=tolees-21) con un 70.75 % de descuento con precio de oferta de 20.47 EUR (original: 69.99 EUR) en el siguiente enlace!

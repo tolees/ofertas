@@ -17,6 +17,9 @@ comparePrice: 40.5 EUR
 inStock: true
 prodname: 'Pandora Mujer Plata fina 925 oro plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DRMMB2W/?tag=tolees-21'
+descuento: '44.44'
+titulo: 'Pandora Mujer Plata fina 925 oro plata'
 ---
 
 Tienes [Pandora Mujer Plata fina 925 oro plata](https://www.amazon.es/dp/B07DRMMB2W/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 22.5 EUR (original: 40.5 EUR) en el siguiente enlace!

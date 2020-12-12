@@ -17,6 +17,9 @@ comparePrice: 52.99 EUR
 inStock: true
 prodname: 'Yacikos Solar Light - Lámpara Solar Exterior con Sensor de Movimiento para Jardín  1500mAh  Paquete de 4'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GYLCYJT/?tag=tolees-21'
+descuento: '43.40'
+titulo: 'Yacikos Solar Light - Lámpara Solar Exte'
 ---
 
 Está [Yacikos Solar Light - Lámpara Solar Exterior con Sensor de Movimiento para Jardín  1500mAh  Paquete de 4](https://www.amazon.es/dp/B07GYLCYJT/?tag=tolees-21) con 43.40 de descuento por 29.99 EUR (original: 52.99 EUR) en el siguiente enlace!

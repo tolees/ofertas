@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Timberland Dausette Leather  Zapatillas para Mujer  Blanco  Arctic Ice 8qp   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1ZQ9NW/?tag=tolees-21'
+descuento: '51.94'
+titulo: 'Timberland Dausette Leather  Zapatillas '
 ---
 
 Ahora mismo tienes [Timberland Dausette Leather  Zapatillas para Mujer  Blanco  Arctic Ice 8qp   40 EU](https://www.amazon.es/dp/B07F1ZQ9NW/?tag=tolees-21) a 43.25 EUR (original: 90 EUR) (51.94 %  de descuento) en el siguiente enlace!

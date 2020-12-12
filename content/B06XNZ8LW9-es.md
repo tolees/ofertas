@@ -17,6 +17,9 @@ comparePrice: 23.95 EUR
 inStock: true
 prodname: 'Joma Granada Polo  Hombre  Azul  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XNZ8LW9/?tag=tolees-21'
+descuento: '31.32'
+titulo: 'Joma Granada Polo  Hombre  Azul  S'
 ---
 
 Ahora mismo tienes [Joma Granada Polo  Hombre  Azul  S](https://www.amazon.es/dp/B06XNZ8LW9/?tag=tolees-21) a 16.45 EUR (original: 23.95 EUR) (31.32 %  de descuento) en el siguiente enlace!

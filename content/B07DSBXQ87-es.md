@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Diadora Playground High Wn  Zapatillas de Gimnasia para Mujer  Negro  Nero/Argento C0787   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DSBXQ87/?tag=tolees-21'
+descuento: '70.11'
+titulo: 'Diadora Playground High Wn  Zapatillas d'
 ---
 
 Está [Diadora Playground High Wn  Zapatillas de Gimnasia para Mujer  Negro  Nero/Argento C0787   39 EU](https://www.amazon.es/dp/B07DSBXQ87/?tag=tolees-21) con 70.11 de descuento por 19.43 EUR (original: 65 EUR) en el siguiente enlace!

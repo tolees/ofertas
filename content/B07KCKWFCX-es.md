@@ -17,6 +17,9 @@ comparePrice: 25.5 EUR
 inStock: true
 prodname: 'David Jones - Cm5034  Bolsos totes Mujer  Gris  Grey   14x27x30 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCKWFCX/?tag=tolees-21'
+descuento: '62.90'
+titulo: 'David Jones - Cm5034  Bolsos totes Mujer'
 ---
 
 Está [David Jones - Cm5034  Bolsos totes Mujer  Gris  Grey   14x27x30 cm  W x H L ](https://www.amazon.es/dp/B07KCKWFCX/?tag=tolees-21) con 62.90 de descuento por 9.46 EUR (original: 25.5 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Beige  Cobblestone 2V3   37/38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CN36CZY/?tag=tolees-21'
+descuento: '52.84'
+titulo: 'Crocs Classic Clog  Zuecos Unisex Adulto'
 ---
 
 Está [Crocs Classic Clog  Zuecos Unisex Adulto  Beige  Cobblestone 2V3   37/38 EU](https://www.amazon.es/dp/B07CN36CZY/?tag=tolees-21) con 52.84 de descuento por 16.5 EUR (original: 34.99 EUR) en el siguiente enlace!

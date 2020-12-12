@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Calvin Klein Jeans Hayden Sp17  Pantalones para Hombre  Negro  Ck Black 099   W32/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0TG4Y2/?tag=tolees-21'
+descuento: '58.95'
+titulo: 'Calvin Klein Jeans Hayden Sp17  Pantalon'
 ---
 
 Está [Calvin Klein Jeans Hayden Sp17  Pantalones para Hombre  Negro  Ck Black 099   W32/L34](https://www.amazon.es/dp/B01N0TG4Y2/?tag=tolees-21) con 58.95 de descuento por 41.01 EUR (original: 99.9 EUR) en el siguiente enlace!

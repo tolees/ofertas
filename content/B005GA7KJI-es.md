@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Bugatti 3.13521E+11  Zapatos de Cordones Derby para Hombre  Negro Black 1010  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005GA7KJI/?tag=tolees-21'
+descuento: '50.18'
+titulo: 'Bugatti 3.13521E+11  Zapatos de Cordones'
 ---
 
 Tienes [Bugatti 3.13521E+11  Zapatos de Cordones Derby para Hombre  Negro Black 1010  43 EU](https://www.amazon.es/dp/B005GA7KJI/?tag=tolees-21) con un 50.18 % de descuento con precio de oferta de 29.87 EUR (original: 59.95 EUR) en el siguiente enlace!

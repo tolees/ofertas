@@ -17,6 +17,9 @@ comparePrice: 25.58 EUR
 inStock: true
 prodname: 'La Tumba De Las Luciérnagas Edición Digibook Deluxe [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01D3VTG84/?tag=tolees-21'
+descuento: '49.18'
+titulo: 'La Tumba De Las Luciérnagas Edición Digi'
 ---
 
 Está [La Tumba De Las Luciérnagas Edición Digibook Deluxe [Blu-ray]](https://www.amazon.es/dp/B01D3VTG84/?tag=tolees-21) con 49.18 de descuento por 13 EUR (original: 25.58 EUR) en el siguiente enlace!

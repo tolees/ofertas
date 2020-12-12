@@ -17,6 +17,9 @@ comparePrice: 799 EUR
 inStock: true
 prodname: 'LG PW1500G - Proyector portátil  WXGA  LED  1280 x 800  1500 lúmenes   Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DE19BNS/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'LG PW1500G - Proyector portátil  WXGA  L'
 ---
 
 Ahora mismo tienes [LG PW1500G - Proyector portátil  WXGA  LED  1280 x 800  1500 lúmenes   Color Blanco](https://www.amazon.es/dp/B01DE19BNS/?tag=tolees-21) a 399 EUR (original: 799 EUR) (50.06 %  de descuento) en el siguiente enlace!

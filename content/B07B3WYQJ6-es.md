@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjiglenn Jjoriginal NZ 007 Noos Vaqueros Slim  Gris Grey Denim  W32/L34 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B3WYQJ6/?tag=tolees-21'
+descuento: '51.36'
+titulo: 'JACK & JONES Jjiglenn Jjoriginal NZ 007 '
 ---
 
 Está [JACK & JONES Jjiglenn Jjoriginal NZ 007 Noos Vaqueros Slim  Gris Grey Denim  W32/L34 para Hombre](https://www.amazon.es/dp/B07B3WYQJ6/?tag=tolees-21) con 51.36 de descuento por 19.45 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Under Armour UA Spotlight TF Jr  Zapatillas de Fútbol Unisex Niños  Amarillo  Tokyo Lemon   33 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0714DDB3Y/?tag=tolees-21'
+descuento: '41.66'
+titulo: 'Under Armour UA Spotlight TF Jr  Zapatil'
 ---
 
 Tienes [Under Armour UA Spotlight TF Jr  Zapatillas de Fútbol Unisex Niños  Amarillo  Tokyo Lemon   33 EU](https://www.amazon.es/dp/B0714DDB3Y/?tag=tolees-21) con un 41.66 % de descuento con precio de oferta de 29.17 EUR (original: 50 EUR) en el siguiente enlace!

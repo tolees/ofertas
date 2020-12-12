@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Asics Patriot 10  Zapatillas de Running para Mujer  Morado  Fuchsia Purple/White 500   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ4GCB6/?tag=tolees-21'
+descuento: '46.20'
+titulo: 'Asics Patriot 10  Zapatillas de Running '
 ---
 
 Ahora mismo tienes [Asics Patriot 10  Zapatillas de Running para Mujer  Morado  Fuchsia Purple/White 500   37 EU](https://www.amazon.es/dp/B07CZ4GCB6/?tag=tolees-21) a 32.28 EUR (original: 60 EUR) (46.20 %  de descuento) en el siguiente enlace!

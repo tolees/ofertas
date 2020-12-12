@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Pop! Die Hard - Figura de Vinilo Al Powell'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFB37YH/?tag=tolees-21'
+descuento: '46.71'
+titulo: 'Pop! Die Hard - Figura de Vinilo Al Powe'
 ---
 
 Ahora mismo tienes [Pop! Die Hard - Figura de Vinilo Al Powell](https://www.amazon.es/dp/B07DFB37YH/?tag=tolees-21) a 8.5 EUR (original: 15.95 EUR) (46.71 %  de descuento) en el siguiente enlace!

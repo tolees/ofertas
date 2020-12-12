@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'JACK & JONES Jcologan Sweat Hood Zal Capucha  Verde  Rosin Print: JJ Artwork   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKZ1TVJ/?tag=tolees-21'
+descuento: '50.14'
+titulo: 'JACK & JONES Jcologan Sweat Hood Zal Cap'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcologan Sweat Hood Zal Capucha  Verde  Rosin Print: JJ Artwork   Large para Hombre](https://www.amazon.es/dp/B07FKZ1TVJ/?tag=tolees-21) a 8.95 EUR (original: 17.95 EUR) (50.14 %  de descuento) en el siguiente enlace!

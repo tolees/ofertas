@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Cortefiel Otoman Coderas Mujer  Azul  Blau   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01INAB3X6/?tag=tolees-21'
+descuento: '39.53'
+titulo: 'Cortefiel Otoman Coderas Mujer  Azul  Bl'
 ---
 
 Está [Cortefiel Otoman Coderas Mujer  Azul  Blau   S](https://www.amazon.es/dp/B01INAB3X6/?tag=tolees-21) con 39.53 de descuento por 24.18 EUR (original: 39.99 EUR) en el siguiente enlace!

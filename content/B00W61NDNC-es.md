@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'KidKraft 65179 Casa de muñecas de madera Penelope para muñecas de 30 cm con 9 accesorios incluidos y 3 niveles de juego'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00W61NDNC/?tag=tolees-21'
+descuento: '35.14'
+titulo: 'KidKraft 65179 Casa de muñecas de madera'
 ---
 
 Está [KidKraft 65179 Casa de muñecas de madera Penelope para muñecas de 30 cm con 9 accesorios incluidos y 3 niveles de juego](https://www.amazon.es/dp/B00W61NDNC/?tag=tolees-21) con 35.14 de descuento por 77.82 EUR (original: 119.99 EUR) en el siguiente enlace!

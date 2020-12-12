@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Casio Reloj de Pulsera MTP-1302PSG-7AVEF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0039UT5SQ/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Casio Reloj de Pulsera MTP-1302PSG-7AVEF'
 ---
 
 Ahora mismo tienes [Casio Reloj de Pulsera MTP-1302PSG-7AVEF](https://www.amazon.es/dp/B0039UT5SQ/?tag=tolees-21) a 33 EUR (original: 55 EUR) (40.00 %  de descuento) en el siguiente enlace!

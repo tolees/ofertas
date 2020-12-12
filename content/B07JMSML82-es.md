@@ -17,6 +17,9 @@ comparePrice: 52.99 EUR
 inStock: true
 prodname: 'YGJT Edredón Cama 135/200cm Suavidad Antibacterial Microfibra Anti-acarian Ligero Poliéster 150x200/220x240cm Accesorio para la Cama  Cama 150-200cm 220_x_240_cm  Azul Marino '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMSML82/?tag=tolees-21'
+descuento: '43.40'
+titulo: 'YGJT Edredón Cama 135/200cm Suavidad Ant'
 ---
 
 Ahora mismo tienes [YGJT Edredón Cama 135/200cm Suavidad Antibacterial Microfibra Anti-acarian Ligero Poliéster 150x200/220x240cm Accesorio para la Cama  Cama 150-200cm 220_x_240_cm  Azul Marino ](https://www.amazon.es/dp/B07JMSML82/?tag=tolees-21) a 29.99 EUR (original: 52.99 EUR) (43.40 %  de descuento) en el siguiente enlace!

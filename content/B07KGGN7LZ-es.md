@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'BOSS Tephoto Camiseta  Blanco  White 100   X-Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGGN7LZ/?tag=tolees-21'
+descuento: '40.03'
+titulo: 'BOSS Tephoto Camiseta  Blanco  White 100'
 ---
 
 Ahora mismo tienes [BOSS Tephoto Camiseta  Blanco  White 100   X-Large para Mujer](https://www.amazon.es/dp/B07KGGN7LZ/?tag=tolees-21) a 35.95 EUR (original: 59.95 EUR) (40.03 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Motorola S1202 Duo - Teléfono fijo inalámbrico  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007PAGH0U/?tag=tolees-21'
+descuento: '34.71'
+titulo: 'Motorola S1202 Duo - Teléfono fijo inalá'
 ---
 
 Está [Motorola S1202 Duo - Teléfono fijo inalámbrico  color negro](https://www.amazon.es/dp/B007PAGH0U/?tag=tolees-21) con 34.71 de descuento por 26.11 EUR (original: 39.99 EUR) en el siguiente enlace!

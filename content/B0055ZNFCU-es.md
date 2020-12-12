@@ -17,6 +17,9 @@ comparePrice: 35.9 EUR
 inStock: true
 prodname: 'Orbegozo BP 5005 Calor Halógeno  1200 W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0055ZNFCU/?tag=tolees-21'
+descuento: '33.18'
+titulo: 'Orbegozo BP 5005 Calor Halógeno  1200 W'
 ---
 
 Está [Orbegozo BP 5005 Calor Halógeno  1200 W](https://www.amazon.es/dp/B0055ZNFCU/?tag=tolees-21) con 33.18 de descuento por 23.99 EUR (original: 35.9 EUR) en el siguiente enlace!

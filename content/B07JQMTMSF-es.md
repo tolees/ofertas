@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Lacoste Bóxer para Hombre  Verde  Lacostegrn/Wht   Small  Talla del fabricante:S   paquete de 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQMTMSF/?tag=tolees-21'
+descuento: '49.98'
+titulo: 'Lacoste Bóxer para Hombre  Verde  Lacost'
 ---
 
 Está [Lacoste Bóxer para Hombre  Verde  Lacostegrn/Wht   Small  Talla del fabricante:S   paquete de 2](https://www.amazon.es/dp/B07JQMTMSF/?tag=tolees-21) con 49.98 de descuento por 22.51 EUR (original: 45 EUR) en el siguiente enlace!

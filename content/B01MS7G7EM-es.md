@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Performance Go Run-Mojo  Zapatillas Deportivas para Interior para Mujer  Rojo  Burgundy   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MS7G7EM/?tag=tolees-21'
+descuento: '60.12'
+titulo: 'Skechers Performance Go Run-Mojo  Zapati'
 ---
 
 Tienes [Skechers Performance Go Run-Mojo  Zapatillas Deportivas para Interior para Mujer  Rojo  Burgundy   38.5 EU](https://www.amazon.es/dp/B01MS7G7EM/?tag=tolees-21) con un 60.12 % de descuento con precio de oferta de 25.9 EUR (original: 64.95 EUR) en el siguiente enlace!

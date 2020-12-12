@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour UA W Micro G Fuel RN  Zapatillas de Entrenamiento para Mujer  Azul  Midnight Navy   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXXJBJ0/?tag=tolees-21'
+descuento: '50.92'
+titulo: 'Under Armour UA W Micro G Fuel RN  Zapat'
 ---
 
 Está [Under Armour UA W Micro G Fuel RN  Zapatillas de Entrenamiento para Mujer  Azul  Midnight Navy   38 EU](https://www.amazon.es/dp/B01MXXJBJ0/?tag=tolees-21) con 50.92 de descuento por 39.26 EUR (original: 80 EUR) en el siguiente enlace!

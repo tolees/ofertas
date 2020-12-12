@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma NRGY Neko  Zapatillas de Running para Hombre  Negro Black  42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQ7NHCM/?tag=tolees-21'
+descuento: '45.93'
+titulo: 'Puma NRGY Neko  Zapatillas de Running pa'
 ---
 
 Ahora mismo tienes [Puma NRGY Neko  Zapatillas de Running para Hombre  Negro Black  42.5 EU](https://www.amazon.es/dp/B07FQ7NHCM/?tag=tolees-21) a 37.82 EUR (original: 69.95 EUR) (45.93 %  de descuento) en el siguiente enlace!

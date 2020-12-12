@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Lee Logo tee Camiseta  Negro  Black 01   S para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFWDPM5/?tag=tolees-21'
+descuento: '58.43'
+titulo: 'Lee Logo tee Camiseta  Negro  Black 01  '
 ---
 
 Tienes [Lee Logo tee Camiseta  Negro  Black 01   S para Hombre](https://www.amazon.es/dp/B07FFWDPM5/?tag=tolees-21) con un 58.43 % de descuento con precio de oferta de 12.45 EUR (original: 29.95 EUR) en el siguiente enlace!

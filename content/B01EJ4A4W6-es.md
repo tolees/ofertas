@@ -17,6 +17,9 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'LaCie Porsche Design - Disco Duro Externo portátil para Mac y PC 2 TB  USB 3.1 Type-C  2.5  '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EJ4A4W6/?tag=tolees-21'
+descuento: '25.64'
+titulo: 'LaCie Porsche Design - Disco Duro Extern'
 ---
 
 Tienes [LaCie Porsche Design - Disco Duro Externo portátil para Mac y PC 2 TB  USB 3.1 Type-C  2.5  ](https://www.amazon.es/dp/B01EJ4A4W6/?tag=tolees-21) con un 25.64 % de descuento con precio de oferta de 111.53 EUR (original: 149.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 86.26 EUR
 inStock: true
 prodname: 'Approx Gaming APPIP03P2P - Cámara IP P2P inalámbrica  Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016AQYC0Q/?tag=tolees-21'
+descuento: '61.60'
+titulo: 'Approx Gaming APPIP03P2P - Cámara IP P2P'
 ---
 
 Está [Approx Gaming APPIP03P2P - Cámara IP P2P inalámbrica  Color Blanco](https://www.amazon.es/dp/B016AQYC0Q/?tag=tolees-21) con 61.60 de descuento por 33.12 EUR (original: 86.26 EUR) en el siguiente enlace!

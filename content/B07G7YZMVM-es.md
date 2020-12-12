@@ -17,6 +17,9 @@ comparePrice: 108.89 EUR
 inStock: true
 prodname: 'Superdry Stirling Sleek  Zapatillas Altas para Hombre  Negro  Black 02A   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G7YZMVM/?tag=tolees-21'
+descuento: '27.53'
+titulo: 'Superdry Stirling Sleek  Zapatillas Alta'
 ---
 
 Ahora mismo tienes [Superdry Stirling Sleek  Zapatillas Altas para Hombre  Negro  Black 02A   41 EU](https://www.amazon.es/dp/B07G7YZMVM/?tag=tolees-21) a 78.91 EUR (original: 108.89 EUR) (27.53 %  de descuento) en el siguiente enlace!

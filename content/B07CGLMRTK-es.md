@@ -17,6 +17,9 @@ comparePrice: 8.98 EUR
 inStock: true
 prodname: 'Homyl 1 Pieza de Sombrero Gorra de Algodon Suministros de Deportes de Futbol de Entrenamiento Unisexo - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CGLMRTK/?tag=tolees-21'
+descuento: '44.43'
+titulo: 'Homyl 1 Pieza de Sombrero Gorra de Algod'
 ---
 
 Está [Homyl 1 Pieza de Sombrero Gorra de Algodon Suministros de Deportes de Futbol de Entrenamiento Unisexo - Negro](https://www.amazon.es/dp/B07CGLMRTK/?tag=tolees-21) con 44.43 de descuento por 4.99 EUR (original: 8.98 EUR) en el siguiente enlace!

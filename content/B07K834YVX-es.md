@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Hurley M Phantom Pierbowl Beachside 18  Bañadores  Hombre  Azul  Blue Force   33'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K834YVX/?tag=tolees-21'
+descuento: '49.33'
+titulo: 'Hurley M Phantom Pierbowl Beachside 18  '
 ---
 
 Está [Hurley M Phantom Pierbowl Beachside 18  Bañadores  Hombre  Azul  Blue Force   33](https://www.amazon.es/dp/B07K834YVX/?tag=tolees-21) con 49.33 de descuento por 30.4 EUR (original: 60 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Vila Clothes Viwendis L/s Rollneck Knit Top-Noos Camiseta Cuello Alto  Marfil Natural Melange  40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C5Z99CD/?tag=tolees-21'
+descuento: '45.31'
+titulo: 'Vila Clothes Viwendis L/s Rollneck Knit '
 ---
 
 Tienes [Vila Clothes Viwendis L/s Rollneck Knit Top-Noos Camiseta Cuello Alto  Marfil Natural Melange  40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07C5Z99CD/?tag=tolees-21) con un 45.31 % de descuento con precio de oferta de 14.76 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Bruetting Cosmos  Zapatillas Unisex Adulto  Negro Schwarz/Weiss  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075YV7ZXW/?tag=tolees-21'
+descuento: '56.32'
+titulo: 'Bruetting Cosmos  Zapatillas Unisex Adul'
 ---
 
 Está [Bruetting Cosmos  Zapatillas Unisex Adulto  Negro Schwarz/Weiss  44 EU](https://www.amazon.es/dp/B075YV7ZXW/?tag=tolees-21) con 56.32 de descuento por 17.45 EUR (original: 39.95 EUR) en el siguiente enlace!

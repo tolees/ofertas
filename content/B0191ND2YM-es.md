@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'New Balance 390v2  Zapatillas de Running para Hombre  Azul  Navy/White   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0191ND2YM/?tag=tolees-21'
+descuento: '45.64'
+titulo: 'New Balance 390v2  Zapatillas de Running'
 ---
 
 Está [New Balance 390v2  Zapatillas de Running para Hombre  Azul  Navy/White   44 EU](https://www.amazon.es/dp/B0191ND2YM/?tag=tolees-21) con 45.64 de descuento por 29.9 EUR (original: 55 EUR) en el siguiente enlace!

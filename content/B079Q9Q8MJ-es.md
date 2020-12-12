@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Rockport Marshall Rugged Mock Toe Boot  Botas Clasicas para Hombre  Marrón Dark Bitter Chocolate  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079Q9Q8MJ/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Rockport Marshall Rugged Mock Toe Boot  '
 ---
 
 Tienes [Rockport Marshall Rugged Mock Toe Boot  Botas Clasicas para Hombre  Marrón Dark Bitter Chocolate  43 EU](https://www.amazon.es/dp/B079Q9Q8MJ/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 55.99 EUR (original: 140 EUR) en el siguiente enlace!

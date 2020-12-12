@@ -17,6 +17,9 @@ comparePrice: 49.83 EUR
 inStock: true
 prodname: 'New Balance Fuel Core Coast v4  Zapatillas de Running para Mujer  Azul  Galaxy/Light Petrol/Himalayan Pink Lg4   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R6VGV9/?tag=tolees-21'
+descuento: '39.80'
+titulo: 'New Balance Fuel Core Coast v4  Zapatill'
 ---
 
 Tienes [New Balance Fuel Core Coast v4  Zapatillas de Running para Mujer  Azul  Galaxy/Light Petrol/Himalayan Pink Lg4   40 EU](https://www.amazon.es/dp/B075R6VGV9/?tag=tolees-21) con un 39.80 % de descuento con precio de oferta de 30 EUR (original: 49.83 EUR) en el siguiente enlace!

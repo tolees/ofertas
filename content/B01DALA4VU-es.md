@@ -17,6 +17,9 @@ comparePrice: 9.72 EUR
 inStock: true
 prodname: 'Izas Mijares Camiseta  Mujer  Fucsia  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DALA4VU/?tag=tolees-21'
+descuento: '49.07'
+titulo: 'Izas Mijares Camiseta  Mujer  Fucsia  L'
 ---
 
 Ahora mismo tienes [Izas Mijares Camiseta  Mujer  Fucsia  L](https://www.amazon.es/dp/B01DALA4VU/?tag=tolees-21) a 4.95 EUR (original: 9.72 EUR) (49.07 %  de descuento) en el siguiente enlace!

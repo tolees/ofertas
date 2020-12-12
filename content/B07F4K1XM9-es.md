@@ -17,6 +17,9 @@ comparePrice: 45.15 EUR
 inStock: true
 prodname: 'Gola Ama879  Zapatillas de Running para Hombre  Azul  Navy/Blue/Red EE   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F4K1XM9/?tag=tolees-21'
+descuento: '53.62'
+titulo: 'Gola Ama879  Zapatillas de Running para '
 ---
 
 Tienes [Gola Ama879  Zapatillas de Running para Hombre  Azul  Navy/Blue/Red EE   44 EU](https://www.amazon.es/dp/B07F4K1XM9/?tag=tolees-21) con un 53.62 % de descuento con precio de oferta de 20.94 EUR (original: 45.15 EUR) en el siguiente enlace!

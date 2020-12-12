@@ -17,6 +17,9 @@ comparePrice: 57.49 EUR
 inStock: true
 prodname: 'Under Armour UA W Rapid  Zapatillas de Running para Mujer  Rojo  Coral Cove   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0777W4GGG/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Under Armour UA W Rapid  Zapatillas de R'
 ---
 
 Está [Under Armour UA W Rapid  Zapatillas de Running para Mujer  Rojo  Coral Cove   36.5 EU](https://www.amazon.es/dp/B0777W4GGG/?tag=tolees-21) con 50.01 de descuento por 28.74 EUR (original: 57.49 EUR) en el siguiente enlace!

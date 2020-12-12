@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma St Runner V2 NL V PS  Zapatillas Unisex Niños  Rosa  Paradise Pink White   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MTL52H/?tag=tolees-21'
+descuento: '45.06'
+titulo: 'Puma St Runner V2 NL V PS  Zapatillas Un'
 ---
 
 Tienes [Puma St Runner V2 NL V PS  Zapatillas Unisex Niños  Rosa  Paradise Pink White   32 EU](https://www.amazon.es/dp/B077MTL52H/?tag=tolees-21) con un 45.06 % de descuento con precio de oferta de 21.95 EUR (original: 39.95 EUR) en el siguiente enlace!

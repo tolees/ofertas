@@ -17,6 +17,9 @@ comparePrice: 44.71 EUR
 inStock: true
 prodname: 'Kempa Jacke - Chaqueta de Presentación para Hombre  color verde  talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JBSAVPQ/?tag=tolees-21'
+descuento: '64.33'
+titulo: 'Kempa Jacke - Chaqueta de Presentación p'
 ---
 
 Tienes [Kempa Jacke - Chaqueta de Presentación para Hombre  color verde  talla L](https://www.amazon.es/dp/B00JBSAVPQ/?tag=tolees-21) con un 64.33 % de descuento con precio de oferta de 15.95 EUR (original: 44.71 EUR) en el siguiente enlace!

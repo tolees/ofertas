@@ -17,6 +17,9 @@ comparePrice: 37.14 EUR
 inStock: true
 prodname: 'eleMar Badeanzug  Bañador para Mujer   Neonpink/Bunt   40  Talla Fabricante: 36B '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00W7VTVLO/?tag=tolees-21'
+descuento: '66.42'
+titulo: 'eleMar Badeanzug  Bañador para Mujer   N'
 ---
 
 Está [eleMar Badeanzug  Bañador para Mujer   Neonpink/Bunt   40  Talla Fabricante: 36B ](https://www.amazon.es/dp/B00W7VTVLO/?tag=tolees-21) con 66.42 de descuento por 12.47 EUR (original: 37.14 EUR) en el siguiente enlace!

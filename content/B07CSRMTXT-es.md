@@ -17,6 +17,9 @@ comparePrice: 95.54 EUR
 inStock: true
 prodname: 'Cecotec ForceSilence 560 WoodStyle Ventilador de Pie  40 cm/16”  4 aspas  60W  3 velocidades  Diseño Madera  Silencioso  Potente  Oscilante y Regulable  Motor de Cobre  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSRMTXT/?tag=tolees-21'
+descuento: '40.95'
+titulo: 'Cecotec ForceSilence 560 WoodStyle Venti'
 ---
 
 Está [Cecotec ForceSilence 560 WoodStyle Ventilador de Pie  40 cm/16”  4 aspas  60W  3 velocidades  Diseño Madera  Silencioso  Potente  Oscilante y Regulable  Motor de Cobre  Color Negro](https://www.amazon.es/dp/B07CSRMTXT/?tag=tolees-21) con 40.95 de descuento por 56.42 EUR (original: 95.54 EUR) en el siguiente enlace!

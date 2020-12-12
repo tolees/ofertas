@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jortony Knit Shawl Neck  suéter Hombre  Negro  Tap Shoe Tap Shoe   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQ48ZCZ/?tag=tolees-21'
+descuento: '71.42'
+titulo: 'JACK & JONES Jortony Knit Shawl Neck  su'
 ---
 
 Está [JACK & JONES Jortony Knit Shawl Neck  suéter Hombre  Negro  Tap Shoe Tap Shoe   X-Large](https://www.amazon.es/dp/B07FQ48ZCZ/?tag=tolees-21) con 71.42 de descuento por 11.43 EUR (original: 39.99 EUR) en el siguiente enlace!

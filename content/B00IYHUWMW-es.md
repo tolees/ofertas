@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Weider Whey Coffee - 908 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IYHUWMW/?tag=tolees-21'
+descuento: '32.23'
+titulo: 'Weider Whey Coffee - 908 gr'
 ---
 
 Tienes [Weider Whey Coffee - 908 gr](https://www.amazon.es/dp/B00IYHUWMW/?tag=tolees-21) con un 32.23 % de descuento con precio de oferta de 30.49 EUR (original: 44.99 EUR) en el siguiente enlace!

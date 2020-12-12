@@ -17,6 +17,9 @@ comparePrice: 8.75 EUR
 inStock: true
 prodname: 'Trixie Lámpara Calefactante Infrarrojo  ø63x100mm  75 W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002YJU1NG/?tag=tolees-21'
+descuento: '35.43'
+titulo: 'Trixie Lámpara Calefactante Infrarrojo  '
 ---
 
 Tienes [Trixie Lámpara Calefactante Infrarrojo  ø63x100mm  75 W](https://www.amazon.es/dp/B002YJU1NG/?tag=tolees-21) con un 35.43 % de descuento con precio de oferta de 5.65 EUR (original: 8.75 EUR) en el siguiente enlace!

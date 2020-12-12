@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Vans Authentic  Zapatillas De Lona Infantil  Negro  Blk/Blk ENR   34 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KCRRA9A/?tag=tolees-21'
+descuento: '45.62'
+titulo: 'Vans Authentic  Zapatillas De Lona Infan'
 ---
 
 Tienes [Vans Authentic  Zapatillas De Lona Infantil  Negro  Blk/Blk ENR   34 EU](https://www.amazon.es/dp/B00KCRRA9A/?tag=tolees-21) con un 45.62 % de descuento con precio de oferta de 24.47 EUR (original: 45 EUR) en el siguiente enlace!

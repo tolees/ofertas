@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Babolat Jet Team Padel M 2018  Adultos Unisex  Naranja/Gris  43'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B3JDDDC/?tag=tolees-21'
+descuento: '46.67'
+titulo: 'Babolat Jet Team Padel M 2018  Adultos U'
 ---
 
 Está [Babolat Jet Team Padel M 2018  Adultos Unisex  Naranja/Gris  43](https://www.amazon.es/dp/B07B3JDDDC/?tag=tolees-21) con 46.67 de descuento por 64 EUR (original: 120 EUR) en el siguiente enlace!

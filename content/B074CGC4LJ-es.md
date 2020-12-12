@@ -17,6 +17,9 @@ comparePrice: 80.92 EUR
 inStock: true
 prodname: 'HAMSWAN Báscula Grasa Corporal  [Regalos para Madre] Báscula de Baño Inteligente  Analizar Más de 12 Datos  Medidora Composición Bluetooth para Móviles Andriod y iOS  Escalalizador Inteligente'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074CGC4LJ/?tag=tolees-21'
+descuento: '76.53'
+titulo: 'HAMSWAN Báscula Grasa Corporal  [Regalos'
 ---
 
 Tienes [HAMSWAN Báscula Grasa Corporal  [Regalos para Madre] Báscula de Baño Inteligente  Analizar Más de 12 Datos  Medidora Composición Bluetooth para Móviles Andriod y iOS  Escalalizador Inteligente](https://www.amazon.es/dp/B074CGC4LJ/?tag=tolees-21) con un 76.53 % de descuento con precio de oferta de 18.99 EUR (original: 80.92 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 16.76 EUR
 inStock: true
 prodname: 'Bellota 8054-500 MACETA GOMA BLANCA 500GR  500 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00F2NMAEO/?tag=tolees-21'
+descuento: '38.19'
+titulo: 'Bellota 8054-500 MACETA GOMA BLANCA 500G'
 ---
 
 Ahora mismo tienes [Bellota 8054-500 MACETA GOMA BLANCA 500GR  500 g](https://www.amazon.es/dp/B00F2NMAEO/?tag=tolees-21) a 10.36 EUR (original: 16.76 EUR) (38.19 %  de descuento) en el siguiente enlace!

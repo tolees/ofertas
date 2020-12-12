@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Geox D Theragon C  Zapatillas para Mujer  Black C9999  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ3ZXS2/?tag=tolees-21'
+descuento: '68.40'
+titulo: 'Geox D Theragon C  Zapatillas para Mujer'
 ---
 
 Tienes [Geox D Theragon C  Zapatillas para Mujer  Black C9999  39 EU](https://www.amazon.es/dp/B07DJ3ZXS2/?tag=tolees-21) con un 68.40 % de descuento con precio de oferta de 36.34 EUR (original: 115 EUR) en el siguiente enlace!

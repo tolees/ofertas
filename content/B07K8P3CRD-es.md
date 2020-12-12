@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Esprit Kids Long Sleeve tee-Shirt Camisa Manga Larga  Blanco  Off White 110   92 para Bebés'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K8P3CRD/?tag=tolees-21'
+descuento: '46.19'
+titulo: 'Esprit Kids Long Sleeve tee-Shirt Camisa'
 ---
 
 Tienes [Esprit Kids Long Sleeve tee-Shirt Camisa Manga Larga  Blanco  Off White 110   92 para Bebés](https://www.amazon.es/dp/B07K8P3CRD/?tag=tolees-21) con un 46.19 % de descuento con precio de oferta de 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!

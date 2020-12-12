@@ -17,6 +17,9 @@ comparePrice: 66.88 EUR
 inStock: true
 prodname: 'Vaello 500 - Quemador de gas  Paellero  50 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002CQ1D9M/?tag=tolees-21'
+descuento: '38.40'
+titulo: 'Vaello 500 - Quemador de gas  Paellero  '
 ---
 
 Tienes [Vaello 500 - Quemador de gas  Paellero  50 cm](https://www.amazon.es/dp/B002CQ1D9M/?tag=tolees-21) con un 38.40 % de descuento con precio de oferta de 41.2 EUR (original: 66.88 EUR) en el siguiente enlace!

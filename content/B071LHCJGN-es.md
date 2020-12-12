@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Under Armour UA W Street Prec SPRT Lwx NM  Zapatillas de Entrenamiento para Mujer  Negro  Black 001   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071LHCJGN/?tag=tolees-21'
+descuento: '62.75'
+titulo: 'Under Armour UA W Street Prec SPRT Lwx N'
 ---
 
 Ahora mismo tienes [Under Armour UA W Street Prec SPRT Lwx NM  Zapatillas de Entrenamiento para Mujer  Negro  Black 001   40 EU](https://www.amazon.es/dp/B071LHCJGN/?tag=tolees-21) a 27.94 EUR (original: 75 EUR) (62.75 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Mona  Camiseta Mujer   Grey Marl 933 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRD8X22/?tag=tolees-21'
+descuento: '60.70'
+titulo: 'Pepe Jeans Mona  Camiseta Mujer   Grey M'
 ---
 
 Está [Pepe Jeans Mona  Camiseta Mujer   Grey Marl 933 ](https://www.amazon.es/dp/B07CRD8X22/?tag=tolees-21) con 60.70 de descuento por 11.75 EUR (original: 29.9 EUR) en el siguiente enlace!

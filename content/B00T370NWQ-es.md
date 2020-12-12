@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Domo DO7272S - Aspiradora  700 W  Aspiradora cilíndrica  Sin bolsa  2 L  HEPA  Filtrado '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00T370NWQ/?tag=tolees-21'
+descuento: '33.92'
+titulo: 'Domo DO7272S - Aspiradora  700 W  Aspira'
 ---
 
 Está [Domo DO7272S - Aspiradora  700 W  Aspiradora cilíndrica  Sin bolsa  2 L  HEPA  Filtrado ](https://www.amazon.es/dp/B00T370NWQ/?tag=tolees-21) con 33.92 de descuento por 78.63 EUR (original: 119 EUR) en el siguiente enlace!

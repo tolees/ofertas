@@ -17,6 +17,9 @@ comparePrice: 33.95 EUR
 inStock: true
 prodname: 'Joma - Chaqueta Mujer Spike Royal-Marino para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ERRTIJA/?tag=tolees-21'
+descuento: '55.96'
+titulo: 'Joma - Chaqueta Mujer Spike Royal-Marino'
 ---
 
 Está [Joma - Chaqueta Mujer Spike Royal-Marino para Mujer](https://www.amazon.es/dp/B01ERRTIJA/?tag=tolees-21) con 55.96 de descuento por 14.95 EUR (original: 33.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'San Ignacio Sarten Apta para Inducción  Negro  20 cm. diámetro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C53G9RC/?tag=tolees-21'
+descuento: '45.46'
+titulo: 'San Ignacio Sarten Apta para Inducción  '
 ---
 
 Tienes [San Ignacio Sarten Apta para Inducción  Negro  20 cm. diámetro](https://www.amazon.es/dp/B07C53G9RC/?tag=tolees-21) con un 45.46 % de descuento con precio de oferta de 29.99 EUR (original: 54.99 EUR) en el siguiente enlace!

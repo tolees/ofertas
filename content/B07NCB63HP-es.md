@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Elia Camiseta  Blanco  Optic White 802   X-Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NCB63HP/?tag=tolees-21'
+descuento: '50.74'
+titulo: 'Pepe Jeans Elia Camiseta  Blanco  Optic '
 ---
 
 Está [Pepe Jeans Elia Camiseta  Blanco  Optic White 802   X-Large para Mujer](https://www.amazon.es/dp/B07NCB63HP/?tag=tolees-21) con 50.74 de descuento por 14.73 EUR (original: 29.9 EUR) en el siguiente enlace!

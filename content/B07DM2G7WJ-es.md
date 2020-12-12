@@ -17,6 +17,9 @@ comparePrice: 20.42 EUR
 inStock: true
 prodname: 'Miss Selfridge - Bucket  Bolsos bandolera Mujer  Rojo  Red   10x25x15 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DM2G7WJ/?tag=tolees-21'
+descuento: '48.63'
+titulo: 'Miss Selfridge - Bucket  Bolsos bandoler'
 ---
 
 Está [Miss Selfridge - Bucket  Bolsos bandolera Mujer  Rojo  Red   10x25x15 cm  W x H L ](https://www.amazon.es/dp/B07DM2G7WJ/?tag=tolees-21) con 48.63 de descuento por 10.49 EUR (original: 20.42 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: '3 Pommes Sweat Shirt  Sudadera Niños  Azul  Navy Blue 49   5-6 años  Talla del Fabricante: 5Y/6Y '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DXPMX8C/?tag=tolees-21'
+descuento: '70.87'
+titulo: '3 Pommes Sweat Shirt  Sudadera Niños  Az'
 ---
 
 Tienes [3 Pommes Sweat Shirt  Sudadera Niños  Azul  Navy Blue 49   5-6 años  Talla del Fabricante: 5Y/6Y ](https://www.amazon.es/dp/B07DXPMX8C/?tag=tolees-21) con un 70.87 % de descuento con precio de oferta de 10.18 EUR (original: 34.95 EUR) en el siguiente enlace!

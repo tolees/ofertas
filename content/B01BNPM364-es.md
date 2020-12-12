@@ -17,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'BRUMMEL COUPE 125 ML'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BNPM364/?tag=tolees-21'
+descuento: '53.50'
+titulo: 'BRUMMEL COUPE 125 ML'
 ---
 
 Ahora mismo tienes [BRUMMEL COUPE 125 ML](https://www.amazon.es/dp/B01BNPM364/?tag=tolees-21) a 8.37 EUR (original: 18 EUR) (53.50 %  de descuento) en el siguiente enlace!

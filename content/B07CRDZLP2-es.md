@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Pepe Jeans West Sir  Camiseta para Hombre    Steel Blue 563  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRDZLP2/?tag=tolees-21'
+descuento: '39.83'
+titulo: 'Pepe Jeans West Sir  Camiseta para Hombr'
 ---
 
 Tienes [Pepe Jeans West Sir  Camiseta para Hombre    Steel Blue 563  X-Large](https://www.amazon.es/dp/B07CRDZLP2/?tag=tolees-21) con un 39.83 % de descuento con precio de oferta de 17.99 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54 EUR
 inStock: true
 prodname: 'Napapijri Villa 2 Bañador  Verde  Alhambra Green Ge2   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9G83CL/?tag=tolees-21'
+descuento: '46.30'
+titulo: 'Napapijri Villa 2 Bañador  Verde  Alhamb'
 ---
 
 Tienes [Napapijri Villa 2 Bañador  Verde  Alhambra Green Ge2   X-Large para Hombre](https://www.amazon.es/dp/B07L9G83CL/?tag=tolees-21) con un 46.30 % de descuento con precio de oferta de 29 EUR (original: 54 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Platinum Premium The Delight Vibrating Plug Vibrador Anal Color Negro - 230 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PV7ZC0U/?tag=tolees-21'
+descuento: '80.67'
+titulo: 'Platinum Premium The Delight Vibrating P'
 ---
 
 Está [Platinum Premium The Delight Vibrating Plug Vibrador Anal Color Negro - 230 gr](https://www.amazon.es/dp/B00PV7ZC0U/?tag=tolees-21) con 80.67 de descuento por 14.49 EUR (original: 74.95 EUR) en el siguiente enlace!

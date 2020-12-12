@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'Vans_Apparel Addison II Parka MTE  Chaqueta para Mujer  Verde  Purple Grape Leaf   10  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NAKZL7A/?tag=tolees-21'
+descuento: '54.56'
+titulo: 'Vans_Apparel Addison II Parka MTE  Chaqu'
 ---
 
 Ahora mismo tienes [Vans_Apparel Addison II Parka MTE  Chaqueta para Mujer  Verde  Purple Grape Leaf   10  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01NAKZL7A/?tag=tolees-21) a 77.24 EUR (original: 170 EUR) (54.56 %  de descuento) en el siguiente enlace!

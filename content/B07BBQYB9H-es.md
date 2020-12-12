@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjichris Jjtool Shorts JJ 135  Pantalones Cortos para Hombre  Azul  Blue Denim  54  Talla del Fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BBQYB9H/?tag=tolees-21'
+descuento: '73.49'
+titulo: 'JACK & JONES Jjichris Jjtool Shorts JJ 1'
 ---
 
 Está [JACK & JONES Jjichris Jjtool Shorts JJ 135  Pantalones Cortos para Hombre  Azul  Blue Denim  54  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07BBQYB9H/?tag=tolees-21) con 73.49 de descuento por 13.25 EUR (original: 49.99 EUR) en el siguiente enlace!

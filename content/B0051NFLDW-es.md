@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'A NEW ERA Era Clean Trucker Neyyan Black/White Gorra  Hombre  Negro/Blanco  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0051NFLDW/?tag=tolees-21'
+descuento: '28.41'
+titulo: 'A NEW ERA Era Clean Trucker Neyyan Black'
 ---
 
 Tienes [A NEW ERA Era Clean Trucker Neyyan Black/White Gorra  Hombre  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B0051NFLDW/?tag=tolees-21) con un 28.41 % de descuento con precio de oferta de 15.75 EUR (original: 22 EUR) en el siguiente enlace!

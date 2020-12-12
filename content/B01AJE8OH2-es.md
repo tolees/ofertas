@@ -17,6 +17,9 @@ comparePrice: 26.75 EUR
 inStock: true
 prodname: 'Campingaz 2000026173 - Soldador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AJE8OH2/?tag=tolees-21'
+descuento: '30.43'
+titulo: 'Campingaz 2000026173 - Soldador'
 ---
 
 Ahora mismo tienes [Campingaz 2000026173 - Soldador](https://www.amazon.es/dp/B01AJE8OH2/?tag=tolees-21) a 18.61 EUR (original: 26.75 EUR) (30.43 %  de descuento) en el siguiente enlace!

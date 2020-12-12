@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'MICTUNING DC 6.5 – 100 V 0 – 100 A pantalla digital LCD voltímetro amperímetro multímetro Volt medidor de vatios de potencia de energía Azul con 100 A/75mv Shunt'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JOUZELG/?tag=tolees-21'
+descuento: '29.91'
+titulo: 'MICTUNING DC 6.5 – 100 V 0 – 100 A panta'
 ---
 
 Está [MICTUNING DC 6.5 – 100 V 0 – 100 A pantalla digital LCD voltímetro amperímetro multímetro Volt medidor de vatios de potencia de energía Azul con 100 A/75mv Shunt](https://www.amazon.es/dp/B01JOUZELG/?tag=tolees-21) con 29.91 de descuento por 14.01 EUR (original: 19.99 EUR) en el siguiente enlace!

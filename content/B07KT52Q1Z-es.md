@@ -17,6 +17,9 @@ comparePrice: 28.51 EUR
 inStock: true
 prodname: 'LoveOlvidoE F64 Pulsera Inteligente Deportes Bluetooth Pulsera recordatorio de Llamada monitoreo de música Impermeable GPS medición del Tiempo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KT52Q1Z/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'LoveOlvidoE F64 Pulsera Inteligente Depo'
 ---
 
 Tienes [LoveOlvidoE F64 Pulsera Inteligente Deportes Bluetooth Pulsera recordatorio de Llamada monitoreo de música Impermeable GPS medición del Tiempo](https://www.amazon.es/dp/B07KT52Q1Z/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 11.4 EUR (original: 28.51 EUR) en el siguiente enlace!

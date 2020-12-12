@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Adidas Questar TND W  Zapatillas de Deporte para Mujer  Gris  Carbon/Agucla/Negbas 000   37 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RKB1N9/?tag=tolees-21'
+descuento: '63.59'
+titulo: 'Adidas Questar TND W  Zapatillas de Depo'
 ---
 
 Ahora mismo tienes [Adidas Questar TND W  Zapatillas de Deporte para Mujer  Gris  Carbon/Agucla/Negbas 000   37 1/3 EU](https://www.amazon.es/dp/B073RKB1N9/?tag=tolees-21) a 32.75 EUR (original: 89.95 EUR) (63.59 %  de descuento) en el siguiente enlace!

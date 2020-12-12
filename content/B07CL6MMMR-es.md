@@ -17,6 +17,9 @@ comparePrice: 98.84 EUR
 inStock: true
 prodname: 'Ultima Pienso para Gatos Esterilizados Adulto con Pollo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CL6MMMR/?tag=tolees-21'
+descuento: '53.47'
+titulo: 'Ultima Pienso para Gatos Esterilizados A'
 ---
 
 Está [Ultima Pienso para Gatos Esterilizados Adulto con Pollo](https://www.amazon.es/dp/B07CL6MMMR/?tag=tolees-21) con 53.47 de descuento por 45.99 EUR (original: 98.84 EUR) en el siguiente enlace!

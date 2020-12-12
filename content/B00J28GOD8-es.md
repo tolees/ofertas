@@ -17,6 +17,9 @@ comparePrice: 7.5 EUR
 inStock: true
 prodname: 'Philips Avent SCF151/02 - Set de 2 chupetes mini para bebé  0-2 meses  color rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00J28GOD8/?tag=tolees-21'
+descuento: '55.07'
+titulo: 'Philips Avent SCF151/02 - Set de 2 chupe'
 ---
 
 Tienes [Philips Avent SCF151/02 - Set de 2 chupetes mini para bebé  0-2 meses  color rosa](https://www.amazon.es/dp/B00J28GOD8/?tag=tolees-21) con un 55.07 % de descuento con precio de oferta de 3.37 EUR (original: 7.5 EUR) en el siguiente enlace!

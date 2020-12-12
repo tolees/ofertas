@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Under Armour UA Heat Seeker  Zapatos de Baloncesto para Hombre  Blanco  White 100   52.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072JPDMGL/?tag=tolees-21'
+descuento: '65.79'
+titulo: 'Under Armour UA Heat Seeker  Zapatos de '
 ---
 
 Tienes [Under Armour UA Heat Seeker  Zapatos de Baloncesto para Hombre  Blanco  White 100   52.5 EU](https://www.amazon.es/dp/B072JPDMGL/?tag=tolees-21) con un 65.79 % de descuento con precio de oferta de 37.63 EUR (original: 110 EUR) en el siguiente enlace!

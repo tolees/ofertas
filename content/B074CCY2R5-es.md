@@ -17,6 +17,9 @@ comparePrice: 163.05 EUR
 inStock: true
 prodname: 'Guess Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable W0989L3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074CCY2R5/?tag=tolees-21'
+descuento: '63.32'
+titulo: 'Guess Reloj Analógico para Mujer de Cuar'
 ---
 
 Tienes [Guess Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable W0989L3](https://www.amazon.es/dp/B074CCY2R5/?tag=tolees-21) con un 63.32 % de descuento con precio de oferta de 59.8 EUR (original: 163.05 EUR) en el siguiente enlace!

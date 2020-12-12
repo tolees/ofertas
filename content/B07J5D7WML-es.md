@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'SHOLOV Sujetador Deportivo para Mujeres  Sujetador Deportivo Cómodo sin Costuras para Yoga  Running  Gimnasio Sujetador con Almohadilla para el Pecho Extraíble 3 Pcs-L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J5D7WML/?tag=tolees-21'
+descuento: '43.35'
+titulo: 'SHOLOV Sujetador Deportivo para Mujeres '
 ---
 
 Está [SHOLOV Sujetador Deportivo para Mujeres  Sujetador Deportivo Cómodo sin Costuras para Yoga  Running  Gimnasio Sujetador con Almohadilla para el Pecho Extraíble 3 Pcs-L](https://www.amazon.es/dp/B07J5D7WML/?tag=tolees-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

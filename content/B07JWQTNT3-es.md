@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY Sh190858 bañadores  Negro  Nero   44  Talla del fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JWQTNT3/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'IRIS & LILLY Sh190858 bañadores  Negro  '
 ---
 
 Está [IRIS & LILLY Sh190858 bañadores  Negro  Nero   44  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B07JWQTNT3/?tag=tolees-21) con 30.01 de descuento por 19.59 EUR (original: 27.99 EUR) en el siguiente enlace!

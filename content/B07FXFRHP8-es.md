@@ -17,6 +17,9 @@ comparePrice: 64.99 EUR
 inStock: true
 prodname: 'Zapatos de Seguridad con Punta de Acero  Ligeros y Transpirables Zapatos de Entrenamiento prevención de pinchazos LM-112 （42.5 EU，Azul Naranja）'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FXFRHP8/?tag=tolees-21'
+descuento: '30.77'
+titulo: 'Zapatos de Seguridad con Punta de Acero '
 ---
 
 Tienes [Zapatos de Seguridad con Punta de Acero  Ligeros y Transpirables Zapatos de Entrenamiento prevención de pinchazos LM-112 （42.5 EU，Azul Naranja）](https://www.amazon.es/dp/B07FXFRHP8/?tag=tolees-21) con un 30.77 % de descuento con precio de oferta de 44.99 EUR (original: 64.99 EUR) en el siguiente enlace!

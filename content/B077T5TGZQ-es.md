@@ -17,6 +17,9 @@ comparePrice: 76.32 EUR
 inStock: true
 prodname: 'adidas Zapatillas de Deporte Unisex Adulto   Db0681  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077T5TGZQ/?tag=tolees-21'
+descuento: '50.89'
+titulo: 'adidas Zapatillas de Deporte Unisex Adul'
 ---
 
 Está [adidas Zapatillas de Deporte Unisex Adulto   Db0681  44 EU](https://www.amazon.es/dp/B077T5TGZQ/?tag=tolees-21) con 50.89 de descuento por 37.48 EUR (original: 76.32 EUR) en el siguiente enlace!

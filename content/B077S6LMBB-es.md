@@ -17,6 +17,9 @@ comparePrice: 10.79 EUR
 inStock: true
 prodname: 'Bolsa deshumidificadora reutilizable para coche y hogar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077S6LMBB/?tag=tolees-21'
+descuento: '59.13'
+titulo: 'Bolsa deshumidificadora reutilizable par'
 ---
 
 Ahora mismo tienes [Bolsa deshumidificadora reutilizable para coche y hogar](https://www.amazon.es/dp/B077S6LMBB/?tag=tolees-21) a 4.41 EUR (original: 10.79 EUR) (59.13 %  de descuento) en el siguiente enlace!

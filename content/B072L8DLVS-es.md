@@ -17,6 +17,9 @@ comparePrice: 114.94 EUR
 inStock: true
 prodname: 'Ballistix Elite BLE8G4D34AEEAK - Memoria RAM de 8 GB  DDR4  3466 MT/s  PC4-27700  SR x 8  DIMM  288-Pin '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072L8DLVS/?tag=tolees-21'
+descuento: '59.44'
+titulo: 'Ballistix Elite BLE8G4D34AEEAK - Memoria'
 ---
 
 Ahora mismo tienes [Ballistix Elite BLE8G4D34AEEAK - Memoria RAM de 8 GB  DDR4  3466 MT/s  PC4-27700  SR x 8  DIMM  288-Pin ](https://www.amazon.es/dp/B072L8DLVS/?tag=tolees-21) a 46.62 EUR (original: 114.94 EUR) (59.44 %  de descuento) en el siguiente enlace!

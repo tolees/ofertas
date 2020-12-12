@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Gant Cotton Piqué Dress  Vestido para Mujer  Gris  Grey Melange  42  Talla del Fabricante: 40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SWY7XJ/?tag=tolees-21'
+descuento: '61.74'
+titulo: 'Gant Cotton Piqué Dress  Vestido para Mu'
 ---
 
 Está [Gant Cotton Piqué Dress  Vestido para Mujer  Gris  Grey Melange  42  Talla del Fabricante: 40 ](https://www.amazon.es/dp/B078SWY7XJ/?tag=tolees-21) con 61.74 de descuento por 76.14 EUR (original: 199 EUR) en el siguiente enlace!

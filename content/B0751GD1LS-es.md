@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'FIND MDR 40563 vestidos mujer casual  Multicolor  Multicolour Blue Floral   42  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0751GD1LS/?tag=tolees-21'
+descuento: '63.46'
+titulo: 'FIND MDR 40563 vestidos mujer casual  Mu'
 ---
 
 Ahora mismo tienes [FIND MDR 40563 vestidos mujer casual  Multicolor  Multicolour Blue Floral   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B0751GD1LS/?tag=tolees-21) a 14.25 EUR (original: 39 EUR) (63.46 %  de descuento) en el siguiente enlace!

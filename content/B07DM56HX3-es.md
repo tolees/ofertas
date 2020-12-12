@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'adidas Drst Ask SPR LG Sujetador Deportivo  Mujer  Negro/Blanco  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DM56HX3/?tag=tolees-21'
+descuento: '60.03'
+titulo: 'adidas Drst Ask SPR LG Sujetador Deporti'
 ---
 
 Tienes [adidas Drst Ask SPR LG Sujetador Deportivo  Mujer  Negro/Blanco  XS](https://www.amazon.es/dp/B07DM56HX3/?tag=tolees-21) con un 60.03 % de descuento con precio de oferta de 13.97 EUR (original: 34.95 EUR) en el siguiente enlace!

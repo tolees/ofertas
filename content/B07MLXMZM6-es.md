@@ -17,6 +17,9 @@ comparePrice: 31.04 EUR
 inStock: true
 prodname: 'My Time At Portia'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MLXMZM6/?tag=tolees-21'
+descuento: '35.73'
+titulo: 'My Time At Portia'
 ---
 
 Está [My Time At Portia](https://www.amazon.es/dp/B07MLXMZM6/?tag=tolees-21) con 35.73 de descuento por 19.95 EUR (original: 31.04 EUR) en el siguiente enlace!

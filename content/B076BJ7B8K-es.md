@@ -17,6 +17,9 @@ comparePrice: 22.9 EUR
 inStock: true
 prodname: 'Moleskine DHB12DC3Y19 - Diario 12m grande de tapa dura  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076BJ7B8K/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Moleskine DHB12DC3Y19 - Diario 12m grand'
 ---
 
 Está [Moleskine DHB12DC3Y19 - Diario 12m grande de tapa dura  color negro](https://www.amazon.es/dp/B076BJ7B8K/?tag=tolees-21) con 50.00 de descuento por 11.45 EUR (original: 22.9 EUR) en el siguiente enlace!

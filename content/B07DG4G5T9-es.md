@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma A.C.E. Woven Pants  Hombre  Black  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG4G5T9/?tag=tolees-21'
+descuento: '35.59'
+titulo: 'Puma A.C.E. Woven Pants  Hombre  Black  '
 ---
 
 Está [Puma A.C.E. Woven Pants  Hombre  Black  XXL](https://www.amazon.es/dp/B07DG4G5T9/?tag=tolees-21) con 35.59 de descuento por 19.29 EUR (original: 29.95 EUR) en el siguiente enlace!

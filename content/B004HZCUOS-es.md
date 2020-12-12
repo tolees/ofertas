@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Nike Y Nk Elmntl Bkpk Mochila  Unisex Niños  Negro/Blanco  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004HZCUOS/?tag=tolees-21'
+descuento: '50.20'
+titulo: 'Nike Y Nk Elmntl Bkpk Mochila  Unisex Ni'
 ---
 
 Está [Nike Y Nk Elmntl Bkpk Mochila  Unisex Niños  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B004HZCUOS/?tag=tolees-21) con 50.20 de descuento por 12.45 EUR (original: 25 EUR) en el siguiente enlace!

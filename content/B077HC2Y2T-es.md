@@ -17,6 +17,9 @@ comparePrice: 159.99 EUR
 inStock: true
 prodname: 'Proyector 1800 lumens  Smartphone/Tablet Compatible  LED LCD Videoproyector FullHD 1080P para Home Cinema  Education  Reunión  Video Juegos  Camping  Karaoke YG510 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HC2Y2T/?tag=tolees-21'
+descuento: '68.75'
+titulo: 'Proyector 1800 lumens  Smartphone/Tablet'
 ---
 
 Tienes [Proyector 1800 lumens  Smartphone/Tablet Compatible  LED LCD Videoproyector FullHD 1080P para Home Cinema  Education  Reunión  Video Juegos  Camping  Karaoke YG510 ](https://www.amazon.es/dp/B077HC2Y2T/?tag=tolees-21) con un 68.75 % de descuento con precio de oferta de 49.99 EUR (original: 159.99 EUR) en el siguiente enlace!

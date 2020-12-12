@@ -17,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F16920/1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BKA9NEW/?tag=tolees-21'
+descuento: '53.36'
+titulo: 'Festina Reloj Analógico para Mujer de Cu'
 ---
 
 Está [Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F16920/1](https://www.amazon.es/dp/B01BKA9NEW/?tag=tolees-21) con 53.36 de descuento por 74.16 EUR (original: 159 EUR) en el siguiente enlace!

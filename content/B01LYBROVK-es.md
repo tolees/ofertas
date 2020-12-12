@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'ESPRIT 106EE1F006  Blusa Mujer  Rojo  Garnet Red   44'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYBROVK/?tag=tolees-21'
+descuento: '85.00'
+titulo: 'ESPRIT 106EE1F006  Blusa Mujer  Rojo  Ga'
 ---
 
 Está [ESPRIT 106EE1F006  Blusa Mujer  Rojo  Garnet Red   44](https://www.amazon.es/dp/B01LYBROVK/?tag=tolees-21) con 85.00 de descuento por 7.5 EUR (original: 49.99 EUR) en el siguiente enlace!

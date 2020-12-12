@@ -17,6 +17,9 @@ comparePrice: 42.95 EUR
 inStock: true
 prodname: 'Head Vision Skort Faldas Deportivas de Tenis  Mujer  Coral  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYCC39C/?tag=tolees-21'
+descuento: '44.24'
+titulo: 'Head Vision Skort Faldas Deportivas de T'
 ---
 
 Está [Head Vision Skort Faldas Deportivas de Tenis  Mujer  Coral  XL](https://www.amazon.es/dp/B01MYCC39C/?tag=tolees-21) con 44.24 de descuento por 23.95 EUR (original: 42.95 EUR) en el siguiente enlace!

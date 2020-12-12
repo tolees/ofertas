@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'LE COQ SPORTIF Courtace Sport  Zapatillas para Mujer   Optical White Blanc   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC33SD4/?tag=tolees-21'
+descuento: '54.69'
+titulo: 'LE COQ SPORTIF Courtace Sport  Zapatilla'
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Courtace Sport  Zapatillas para Mujer   Optical White Blanc   43 EU](https://www.amazon.es/dp/B07DC33SD4/?tag=tolees-21) a 33.98 EUR (original: 75 EUR) (54.69 %  de descuento) en el siguiente enlace!

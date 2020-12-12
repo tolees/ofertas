@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko 4048  Pop!  Vinyl: Game of Thrones: Mhysa Daenerys - Figurina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00M765ZSC/?tag=tolees-21'
+descuento: '44.96'
+titulo: 'Funko 4048  Pop!  Vinyl: Game of Thrones'
 ---
 
 Tienes [Funko 4048  Pop!  Vinyl: Game of Thrones: Mhysa Daenerys - Figurina](https://www.amazon.es/dp/B00M765ZSC/?tag=tolees-21) con un 44.96 % de descuento con precio de oferta de 8.25 EUR (original: 14.99 EUR) en el siguiente enlace!

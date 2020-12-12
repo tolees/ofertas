@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Nike SB Check Suede  PS   Zapatillas para Niños  Negro Black/Anthracite 001  28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKCKR68/?tag=tolees-21'
+descuento: '55.60'
+titulo: 'Nike SB Check Suede  PS   Zapatillas par'
 ---
 
 Tienes [Nike SB Check Suede  PS   Zapatillas para Niños  Negro Black/Anthracite 001  28 EU](https://www.amazon.es/dp/B07FKCKR68/?tag=tolees-21) con un 55.60 % de descuento con precio de oferta de 17.76 EUR (original: 40 EUR) en el siguiente enlace!

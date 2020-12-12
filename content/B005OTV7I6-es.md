@@ -17,6 +17,9 @@ comparePrice: 68.95 EUR
 inStock: true
 prodname: 'Pump Worx Bomba Erótica - 1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005OTV7I6/?tag=tolees-21'
+descuento: '53.66'
+titulo: 'Pump Worx Bomba Erótica - 1 unidad'
 ---
 
 Tienes [Pump Worx Bomba Erótica - 1 unidad](https://www.amazon.es/dp/B005OTV7I6/?tag=tolees-21) con un 53.66 % de descuento con precio de oferta de 31.95 EUR (original: 68.95 EUR) en el siguiente enlace!

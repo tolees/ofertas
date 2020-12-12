@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Mujer  Azul Velvet Morning  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYLGN2G/?tag=tolees-21'
+descuento: '27.24'
+titulo: 'Merrell Vapor Glove 4  Zapatillas Deport'
 ---
 
 Tienes [Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Mujer  Azul Velvet Morning  37 EU](https://www.amazon.es/dp/B07DYLGN2G/?tag=tolees-21) con un 27.24 % de descuento con precio de oferta de 72.76 EUR (original: 100 EUR) en el siguiente enlace!

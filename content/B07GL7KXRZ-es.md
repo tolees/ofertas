@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Berg Outdoor ALVELOS Double Knitted Jacket  Hombre  Forged Iron  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GL7KXRZ/?tag=tolees-21'
+descuento: '61.57'
+titulo: 'Berg Outdoor ALVELOS Double Knitted Jack'
 ---
 
 Ahora mismo tienes [Berg Outdoor ALVELOS Double Knitted Jacket  Hombre  Forged Iron  M](https://www.amazon.es/dp/B07GL7KXRZ/?tag=tolees-21) a 46.1 EUR (original: 119.95 EUR) (61.57 %  de descuento) en el siguiente enlace!

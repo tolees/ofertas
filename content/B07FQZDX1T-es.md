@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Calvin Klein Jeans Antani Nylon Film  Zapatillas Altas para Hombre  Azul  Navy/Metal Blue 000   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQZDX1T/?tag=tolees-21'
+descuento: '64.65'
+titulo: 'Calvin Klein Jeans Antani Nylon Film  Za'
 ---
 
 Ahora mismo tienes [Calvin Klein Jeans Antani Nylon Film  Zapatillas Altas para Hombre  Azul  Navy/Metal Blue 000   45 EU](https://www.amazon.es/dp/B07FQZDX1T/?tag=tolees-21) a 38.88 EUR (original: 110 EUR) (64.65 %  de descuento) en el siguiente enlace!

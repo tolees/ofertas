@@ -17,6 +17,9 @@ comparePrice: 55.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 26213  Botas para Mujer  Azul  Navy Antic Com   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0711RDYC8/?tag=tolees-21'
+descuento: '74.62'
+titulo: 'Marco Tozzi 26213  Botas para Mujer  Azu'
 ---
 
 Ahora mismo tienes [Marco Tozzi 26213  Botas para Mujer  Azul  Navy Antic Com   39 EU](https://www.amazon.es/dp/B0711RDYC8/?tag=tolees-21) a 14.2 EUR (original: 55.95 EUR) (74.62 %  de descuento) en el siguiente enlace!

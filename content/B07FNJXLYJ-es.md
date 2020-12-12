@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'AmazonBasics - Maleta rígida «hardside» Oxford  con ruedas - 50 8 cm  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNJXLYJ/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'AmazonBasics - Maleta rígida «hardside» '
 ---
 
 Está [AmazonBasics - Maleta rígida «hardside» Oxford  con ruedas - 50 8 cm  Negro](https://www.amazon.es/dp/B07FNJXLYJ/?tag=tolees-21) con 25.00 de descuento por 44.99 EUR (original: 59.99 EUR) en el siguiente enlace!

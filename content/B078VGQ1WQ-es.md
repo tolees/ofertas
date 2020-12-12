@@ -17,6 +17,9 @@ comparePrice: 250 EUR
 inStock: true
 prodname: 'Sony MDR-1AM2S - Auriculares inalámbricos  Hi-Res  NFC  controladores de HD LCP de 40 mm   color plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078VGQ1WQ/?tag=tolees-21'
+descuento: '44.78'
+titulo: 'Sony MDR-1AM2S - Auriculares inalámbrico'
 ---
 
 Está [Sony MDR-1AM2S - Auriculares inalámbricos  Hi-Res  NFC  controladores de HD LCP de 40 mm   color plata](https://www.amazon.es/dp/B078VGQ1WQ/?tag=tolees-21) con 44.78 de descuento por 138.06 EUR (original: 250 EUR) en el siguiente enlace!

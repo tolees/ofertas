@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'PHYLES Agua Dibujo Pintura  87*57CM Alfombra de Agua Doodle  Pizarra Mágica  Juguetes de Dibujo para niños  Juguete Educativo  Regalo para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GGN5PMF/?tag=tolees-21'
+descuento: '57.16'
+titulo: 'PHYLES Agua Dibujo Pintura  87*57CM Alfo'
 ---
 
 Tienes [PHYLES Agua Dibujo Pintura  87*57CM Alfombra de Agua Doodle  Pizarra Mágica  Juguetes de Dibujo para niños  Juguete Educativo  Regalo para Niños](https://www.amazon.es/dp/B07GGN5PMF/?tag=tolees-21) con un 57.16 % de descuento con precio de oferta de 14.99 EUR (original: 34.99 EUR) en el siguiente enlace!

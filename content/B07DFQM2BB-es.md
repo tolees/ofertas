@@ -17,6 +17,9 @@ comparePrice: 42.5 EUR
 inStock: true
 prodname: 'Calvin Klein Low Rise Trunk 3pk  Bóxer para Hombre  Verde  Forest Dark Night/S Orange Xwn   Large Pack de 3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFQM2BB/?tag=tolees-21'
+descuento: '41.29'
+titulo: 'Calvin Klein Low Rise Trunk 3pk  Bóxer p'
 ---
 
 Tienes [Calvin Klein Low Rise Trunk 3pk  Bóxer para Hombre  Verde  Forest Dark Night/S Orange Xwn   Large Pack de 3](https://www.amazon.es/dp/B07DFQM2BB/?tag=tolees-21) con un 41.29 % de descuento con precio de oferta de 24.95 EUR (original: 42.5 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Superdry Academy Athletics tee Camiseta de Tirantes  Verde  Highland Green Marl Zd9   X-Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KMGVH7N/?tag=tolees-21'
+descuento: '53.93'
+titulo: 'Superdry Academy Athletics tee Camiseta '
 ---
 
 Ahora mismo tienes [Superdry Academy Athletics tee Camiseta de Tirantes  Verde  Highland Green Marl Zd9   X-Small para Hombre](https://www.amazon.es/dp/B07KMGVH7N/?tag=tolees-21) a 20.73 EUR (original: 45 EUR) (53.93 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam 1080v9  Zapatillas de Running para Hombre  Rojo  Energy Red/NB Scarlet/Black   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL2X22S/?tag=tolees-21'
+descuento: '30.62'
+titulo: 'New Balance Fresh Foam 1080v9  Zapatilla'
 ---
 
 Está [New Balance Fresh Foam 1080v9  Zapatillas de Running para Hombre  Rojo  Energy Red/NB Scarlet/Black   42 EU](https://www.amazon.es/dp/B07BL2X22S/?tag=tolees-21) con 30.62 de descuento por 117.95 EUR (original: 170 EUR) en el siguiente enlace!

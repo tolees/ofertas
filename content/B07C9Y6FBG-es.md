@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Pilas Recargables AAA POWEROWL 1000mAh Alta Capacidad 1.2V Precarga Ni-MH Pilas AAA Recargable Baja Autodescarga  24 Paquete  Recargable Aproximadamente 1200 Veces '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C9Y6FBG/?tag=tolees-21'
+descuento: '47.84'
+titulo: 'Pilas Recargables AAA POWEROWL 1000mAh A'
 ---
 
 Está [Pilas Recargables AAA POWEROWL 1000mAh Alta Capacidad 1.2V Precarga Ni-MH Pilas AAA Recargable Baja Autodescarga  24 Paquete  Recargable Aproximadamente 1200 Veces ](https://www.amazon.es/dp/B07C9Y6FBG/?tag=tolees-21) con 47.84 de descuento por 23.99 EUR (original: 45.99 EUR) en el siguiente enlace!

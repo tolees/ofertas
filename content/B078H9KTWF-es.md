@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 433535  Pantalones Cortos Deportivos Para Hombre  Azul  Gama Azules   Tamaño del fabricante: 46'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H9KTWF/?tag=tolees-21'
+descuento: '71.99'
+titulo: 'Springfield 433535  Pantalones Cortos De'
 ---
 
 Tienes [Springfield 433535  Pantalones Cortos Deportivos Para Hombre  Azul  Gama Azules   Tamaño del fabricante: 46](https://www.amazon.es/dp/B078H9KTWF/?tag=tolees-21) con un 71.99 % de descuento con precio de oferta de 8.4 EUR (original: 29.99 EUR) en el siguiente enlace!

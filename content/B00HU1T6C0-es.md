@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Scanton Olc - Vaqueros Slim para Hombre  Talla W29/L32  29/32   Color Azul  Orlando Comfort '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HU1T6C0/?tag=tolees-21'
+descuento: '51.48'
+titulo: 'Tommy Hilfiger Scanton Olc - Vaqueros Sl'
 ---
 
 Está [Tommy Hilfiger Scanton Olc - Vaqueros Slim para Hombre  Talla W29/L32  29/32   Color Azul  Orlando Comfort ](https://www.amazon.es/dp/B00HU1T6C0/?tag=tolees-21) con 51.48 de descuento por 48.03 EUR (original: 99 EUR) en el siguiente enlace!

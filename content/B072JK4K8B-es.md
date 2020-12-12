@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'eDriveTech – Unidad DVD Externa Grabadora Lector Externo USB 3.0 Portátil CD Quemador DVD Drive ROM CD/DVD-RW Ultraslim Superdrive para Apple Macbook Pro Air iMac Mac OS y Windows'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072JK4K8B/?tag=tolees-21'
+descuento: '81.68'
+titulo: 'eDriveTech – Unidad DVD Externa Grabador'
 ---
 
 Tienes [eDriveTech – Unidad DVD Externa Grabadora Lector Externo USB 3.0 Portátil CD Quemador DVD Drive ROM CD/DVD-RW Ultraslim Superdrive para Apple Macbook Pro Air iMac Mac OS y Windows](https://www.amazon.es/dp/B072JK4K8B/?tag=tolees-21) con un 81.68 % de descuento con precio de oferta de 10.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 27.71 EUR
 inStock: true
 prodname: 'BRA CAFETERA DE Luxe 2  Aluminio  Plata  12 Tazas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00K85SWF2/?tag=tolees-21'
+descuento: '28.40'
+titulo: 'BRA CAFETERA DE Luxe 2  Aluminio  Plata '
 ---
 
 Tienes [BRA CAFETERA DE Luxe 2  Aluminio  Plata  12 Tazas](https://www.amazon.es/dp/B00K85SWF2/?tag=tolees-21) con un 28.40 % de descuento con precio de oferta de 19.84 EUR (original: 27.71 EUR) en el siguiente enlace!

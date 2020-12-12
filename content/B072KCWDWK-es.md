@@ -17,6 +17,9 @@ comparePrice: 185 EUR
 inStock: true
 prodname: 'BILLABONG Akira Abrigo  Azul  Navajo Blue   XS para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072KCWDWK/?tag=tolees-21'
+descuento: '64.24'
+titulo: 'BILLABONG Akira Abrigo  Azul  Navajo Blu'
 ---
 
 Tienes [BILLABONG Akira Abrigo  Azul  Navajo Blue   XS para Mujer](https://www.amazon.es/dp/B072KCWDWK/?tag=tolees-21) con un 64.24 % de descuento con precio de oferta de 66.15 EUR (original: 185 EUR) en el siguiente enlace!

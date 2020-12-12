@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'New Balance KJ570V1Y  Zapatillas de Running para Niños  Blanco White  38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFRCQDS/?tag=tolees-21'
+descuento: '47.48'
+titulo: 'New Balance KJ570V1Y  Zapatillas de Runn'
 ---
 
 Está [New Balance KJ570V1Y  Zapatillas de Running para Niños  Blanco White  38.5 EU](https://www.amazon.es/dp/B07DFRCQDS/?tag=tolees-21) con 47.48 de descuento por 21.01 EUR (original: 40 EUR) en el siguiente enlace!

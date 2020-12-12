@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Goodyear GOD4012 Llave de Rueda de Cruz Fija'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01J1QGN3G/?tag=tolees-21'
+descuento: '31.27'
+titulo: 'Goodyear GOD4012 Llave de Rueda de Cruz '
 ---
 
 Ahora mismo tienes [Goodyear GOD4012 Llave de Rueda de Cruz Fija](https://www.amazon.es/dp/B01J1QGN3G/?tag=tolees-21) a 8.9 EUR (original: 12.95 EUR) (31.27 %  de descuento) en el siguiente enlace!

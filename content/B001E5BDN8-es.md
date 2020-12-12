@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Zippo Venetian - Mechero'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001E5BDN8/?tag=tolees-21'
+descuento: '41.33'
+titulo: 'Zippo Venetian - Mechero'
 ---
 
 Ahora mismo tienes [Zippo Venetian - Mechero](https://www.amazon.es/dp/B001E5BDN8/?tag=tolees-21) a 28.75 EUR (original: 49 EUR) (41.33 %  de descuento) en el siguiente enlace!

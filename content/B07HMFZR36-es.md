@@ -17,6 +17,9 @@ comparePrice: 15.71 EUR
 inStock: true
 prodname: 'TOOHUI Set de 2 Red de Canasta  Red Tricolor Blanco/Azul/Rojo  Red de Baloncesto de 12 Bucle  Malla Estándard para Canasta de Baloncesto  Robusto para Uso Interior y Exterior'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HMFZR36/?tag=tolees-21'
+descuento: '37.11'
+titulo: 'TOOHUI Set de 2 Red de Canasta  Red Tric'
 ---
 
 Está [TOOHUI Set de 2 Red de Canasta  Red Tricolor Blanco/Azul/Rojo  Red de Baloncesto de 12 Bucle  Malla Estándard para Canasta de Baloncesto  Robusto para Uso Interior y Exterior](https://www.amazon.es/dp/B07HMFZR36/?tag=tolees-21) con 37.11 de descuento por 9.88 EUR (original: 15.71 EUR) en el siguiente enlace!

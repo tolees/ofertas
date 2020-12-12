@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Woxter 65 C - Alimentador de portátil  65 W con Conector USB de Tipo C '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079GQC1WX/?tag=tolees-21'
+descuento: '29.96'
+titulo: 'Woxter 65 C - Alimentador de portátil  6'
 ---
 
 Ahora mismo tienes [Woxter 65 C - Alimentador de portátil  65 W con Conector USB de Tipo C ](https://www.amazon.es/dp/B079GQC1WX/?tag=tolees-21) a 28.01 EUR (original: 39.99 EUR) (29.96 %  de descuento) en el siguiente enlace!

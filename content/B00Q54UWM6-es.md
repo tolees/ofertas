@@ -17,6 +17,9 @@ comparePrice: 10.86 EUR
 inStock: true
 prodname: 'btv 60001 Cerradura buzon kit-1 cromado Cromo  0'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Q54UWM6/?tag=tolees-21'
+descuento: '32.32'
+titulo: 'btv 60001 Cerradura buzon kit-1 cromado '
 ---
 
 Tienes [btv 60001 Cerradura buzon kit-1 cromado Cromo  0](https://www.amazon.es/dp/B00Q54UWM6/?tag=tolees-21) con un 32.32 % de descuento con precio de oferta de 7.35 EUR (original: 10.86 EUR) en el siguiente enlace!

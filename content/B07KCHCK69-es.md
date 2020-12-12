@@ -17,6 +17,9 @@ comparePrice: 27 EUR
 inStock: true
 prodname: 'David Jones - 5962-6  Bolsos totes Mujer  Naranja  Orange   14x31x28 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCHCK69/?tag=tolees-21'
+descuento: '47.26'
+titulo: 'David Jones - 5962-6  Bolsos totes Mujer'
 ---
 
 Está [David Jones - 5962-6  Bolsos totes Mujer  Naranja  Orange   14x31x28 cm  W x H L ](https://www.amazon.es/dp/B07KCHCK69/?tag=tolees-21) con 47.26 de descuento por 14.24 EUR (original: 27 EUR) en el siguiente enlace!

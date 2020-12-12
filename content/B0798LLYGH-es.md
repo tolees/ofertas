@@ -17,6 +17,9 @@ comparePrice: 17.67 EUR
 inStock: true
 prodname: 'Mini multifunción plegable alicates con cola hebilla fácil de transportar azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0798LLYGH/?tag=tolees-21'
+descuento: '71.76'
+titulo: 'Mini multifunción plegable alicates con '
 ---
 
 Tienes [Mini multifunción plegable alicates con cola hebilla fácil de transportar azul](https://www.amazon.es/dp/B0798LLYGH/?tag=tolees-21) con un 71.76 % de descuento con precio de oferta de 4.99 EUR (original: 17.67 EUR) en el siguiente enlace!

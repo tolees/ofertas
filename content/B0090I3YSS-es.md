@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Diplomatico Rum Reserva Excl 70cl'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0090I3YSS/?tag=tolees-21'
+descuento: '51.12'
+titulo: 'Diplomatico Rum Reserva Excl 70cl'
 ---
 
 Tienes [Diplomatico Rum Reserva Excl 70cl](https://www.amazon.es/dp/B0090I3YSS/?tag=tolees-21) con un 51.12 % de descuento con precio de oferta de 21.97 EUR (original: 44.95 EUR) en el siguiente enlace!

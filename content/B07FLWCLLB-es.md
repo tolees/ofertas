@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Roxy Rock Peak Chaqueta  Mujer  Negro  True Black KVJ0   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLWCLLB/?tag=tolees-21'
+descuento: '70.84'
+titulo: 'Roxy Rock Peak Chaqueta  Mujer  Negro  T'
 ---
 
 Está [Roxy Rock Peak Chaqueta  Mujer  Negro  True Black KVJ0   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07FLWCLLB/?tag=tolees-21) con 70.84 de descuento por 26.24 EUR (original: 89.99 EUR) en el siguiente enlace!

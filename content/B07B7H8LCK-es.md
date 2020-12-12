@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Pasta de Dientes Blanqueadora  Blanqueador de Dientes  Teeth Whitening Toothpaste  Dientes Blancos  Elimina el mal Aliento y las Manchas de Café  120g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B7H8LCK/?tag=tolees-21'
+descuento: '34.63'
+titulo: 'Pasta de Dientes Blanqueadora  Blanquead'
 ---
 
 Está [Pasta de Dientes Blanqueadora  Blanqueador de Dientes  Teeth Whitening Toothpaste  Dientes Blancos  Elimina el mal Aliento y las Manchas de Café  120g](https://www.amazon.es/dp/B07B7H8LCK/?tag=tolees-21) con 34.63 de descuento por 16.99 EUR (original: 25.99 EUR) en el siguiente enlace!

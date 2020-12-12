@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Android TV Box- TICTID AX9 TV Box Android 7.1 Quad Core 1GB RAM/8GB ROM soporta 2K * 4K 2.4GHz WiFi Smart TV Box'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GJ2K1J3/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Android TV Box- TICTID AX9 TV Box Androi'
 ---
 
 Está [Android TV Box- TICTID AX9 TV Box Android 7.1 Quad Core 1GB RAM/8GB ROM soporta 2K * 4K 2.4GHz WiFi Smart TV Box](https://www.amazon.es/dp/B07GJ2K1J3/?tag=tolees-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

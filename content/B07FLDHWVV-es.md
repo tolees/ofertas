@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Superdry Custom 1334 Hood  suéter para Hombre  Gris  Biker Grey Grit Vn5  XX-Large  Talla del Fabricante: 2XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLDHWVV/?tag=tolees-21'
+descuento: '76.59'
+titulo: 'Superdry Custom 1334 Hood  suéter para H'
 ---
 
 Está [Superdry Custom 1334 Hood  suéter para Hombre  Gris  Biker Grey Grit Vn5  XX-Large  Talla del Fabricante: 2XL ](https://www.amazon.es/dp/B07FLDHWVV/?tag=tolees-21) con 76.59 de descuento por 22.24 EUR (original: 95 EUR) en el siguiente enlace!

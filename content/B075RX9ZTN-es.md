@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'GORE WEAR M Camiseta interior de hombre GORE WINDSTOPPER  Talla: M  Color: Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RX9ZTN/?tag=tolees-21'
+descuento: '45.79'
+titulo: 'GORE WEAR M Camiseta interior de hombre '
 ---
 
 Tienes [GORE WEAR M Camiseta interior de hombre GORE WINDSTOPPER  Talla: M  Color: Negro](https://www.amazon.es/dp/B075RX9ZTN/?tag=tolees-21) con un 45.79 % de descuento con precio de oferta de 27.08 EUR (original: 49.95 EUR) en el siguiente enlace!

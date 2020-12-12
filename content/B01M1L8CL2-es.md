@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'ESPRIT 116EE1I030  suéter Mujer  Multicolor  Navy 2   36  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M1L8CL2/?tag=tolees-21'
+descuento: '79.52'
+titulo: 'ESPRIT 116EE1I030  suéter Mujer  Multico'
 ---
 
 Tienes [ESPRIT 116EE1I030  suéter Mujer  Multicolor  Navy 2   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01M1L8CL2/?tag=tolees-21) con un 79.52 % de descuento con precio de oferta de 10.24 EUR (original: 49.99 EUR) en el siguiente enlace!

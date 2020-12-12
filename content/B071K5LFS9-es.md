@@ -17,6 +17,9 @@ comparePrice: 24.39 EUR
 inStock: true
 prodname: 'Disney Gus  El Amigo de Cenicienta  Resina  5.50x5.50x10.00 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071K5LFS9/?tag=tolees-21'
+descuento: '41.49'
+titulo: 'Disney Gus  El Amigo de Cenicienta  Resi'
 ---
 
 Está [Disney Gus  El Amigo de Cenicienta  Resina  5.50x5.50x10.00 cm](https://www.amazon.es/dp/B071K5LFS9/?tag=tolees-21) con 41.49 de descuento por 14.27 EUR (original: 24.39 EUR) en el siguiente enlace!

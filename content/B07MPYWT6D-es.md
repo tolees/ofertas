@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'INTEY OBD2 - Dispositivo de diagnóstico OBD y Adaptador Bluetooth OBD-2  Compatible con vehículos de Gasolina con protocolos OBD 2 a Partir de 2001'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MPYWT6D/?tag=tolees-21'
+descuento: '70.01'
+titulo: 'INTEY OBD2 - Dispositivo de diagnóstico '
 ---
 
 Está [INTEY OBD2 - Dispositivo de diagnóstico OBD y Adaptador Bluetooth OBD-2  Compatible con vehículos de Gasolina con protocolos OBD 2 a Partir de 2001](https://www.amazon.es/dp/B07MPYWT6D/?tag=tolees-21) con 70.01 de descuento por 14.99 EUR (original: 49.99 EUR) en el siguiente enlace!

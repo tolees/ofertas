@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko Pop! - Disney: Snow White Figura de Vinilo Doc 21728'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074NKCF8W/?tag=tolees-21'
+descuento: '66.64'
+titulo: 'Funko Pop! - Disney: Snow White Figura d'
 ---
 
 Está [Funko Pop! - Disney: Snow White Figura de Vinilo Doc 21728](https://www.amazon.es/dp/B074NKCF8W/?tag=tolees-21) con 66.64 de descuento por 5 EUR (original: 14.99 EUR) en el siguiente enlace!

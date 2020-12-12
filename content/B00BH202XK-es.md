@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Beper 40.808A/BK Body Trainer Báscula de baño con medido de Grasa Corporal  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BH202XK/?tag=tolees-21'
+descuento: '51.72'
+titulo: 'Beper 40.808A/BK Body Trainer Báscula de'
 ---
 
 Está [Beper 40.808A/BK Body Trainer Báscula de baño con medido de Grasa Corporal  Negro](https://www.amazon.es/dp/B00BH202XK/?tag=tolees-21) con 51.72 de descuento por 14 EUR (original: 29 EUR) en el siguiente enlace!

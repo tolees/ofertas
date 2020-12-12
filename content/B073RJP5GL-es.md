@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Adidas CF Advantage  Zapatillas de Deporte para Hombre   Blanco 000   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RJP5GL/?tag=tolees-21'
+descuento: '58.77'
+titulo: 'Adidas CF Advantage  Zapatillas de Depor'
 ---
 
 Tienes [Adidas CF Advantage  Zapatillas de Deporte para Hombre   Blanco 000   44 EU](https://www.amazon.es/dp/B073RJP5GL/?tag=tolees-21) con un 58.77 % de descuento con precio de oferta de 32.94 EUR (original: 79.9 EUR) en el siguiente enlace!

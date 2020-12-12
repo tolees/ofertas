@@ -17,6 +17,9 @@ comparePrice: 5.35 EUR
 inStock: true
 prodname: 'Champu Solido  Natural Herbal Champú para Crecimiento del Cabello de Barra de Champú y Acondicionador Ecologico para Cabello Seco Neutro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TG8W9XF/?tag=tolees-21'
+descuento: '27.29'
+titulo: 'Champu Solido  Natural Herbal Champú par'
 ---
 
 Tienes [Champu Solido  Natural Herbal Champú para Crecimiento del Cabello de Barra de Champú y Acondicionador Ecologico para Cabello Seco Neutro](https://www.amazon.es/dp/B07TG8W9XF/?tag=tolees-21) con un 27.29 % de descuento con precio de oferta de 3.89 EUR (original: 5.35 EUR) en el siguiente enlace!

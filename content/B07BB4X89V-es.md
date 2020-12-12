@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'The North Face Edgewood  Botas Chukka para Hombre  Negro  Tnf Black/Tnf White Ky4   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB4X89V/?tag=tolees-21'
+descuento: '40.04'
+titulo: 'The North Face Edgewood  Botas Chukka pa'
 ---
 
 Está [The North Face Edgewood  Botas Chukka para Hombre  Negro  Tnf Black/Tnf White Ky4   43 EU](https://www.amazon.es/dp/B07BB4X89V/?tag=tolees-21) con 40.04 de descuento por 77.95 EUR (original: 130 EUR) en el siguiente enlace!

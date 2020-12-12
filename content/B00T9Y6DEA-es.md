@@ -17,6 +17,9 @@ comparePrice: 116.26 EUR
 inStock: true
 prodname: 'Hogar24 Colchón Visco-Aloe Reversible  135x200 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00T9Y6DEA/?tag=tolees-21'
+descuento: '34.91'
+titulo: 'Hogar24 Colchón Visco-Aloe Reversible  1'
 ---
 
 Tienes [Hogar24 Colchón Visco-Aloe Reversible  135x200 cm](https://www.amazon.es/dp/B00T9Y6DEA/?tag=tolees-21) con un 34.91 % de descuento con precio de oferta de 75.67 EUR (original: 116.26 EUR) en el siguiente enlace!

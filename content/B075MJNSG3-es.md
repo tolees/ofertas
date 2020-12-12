@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Boot  Botas Desert para Mujer  Beige  Natural Canvas   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075MJNSG3/?tag=tolees-21'
+descuento: '61.51'
+titulo: 'Clarks Boot  Botas Desert para Mujer  Be'
 ---
 
 Tienes [Clarks Boot  Botas Desert para Mujer  Beige  Natural Canvas   42 EU](https://www.amazon.es/dp/B075MJNSG3/?tag=tolees-21) con un 61.51 % de descuento con precio de oferta de 38.47 EUR (original: 99.95 EUR) en el siguiente enlace!

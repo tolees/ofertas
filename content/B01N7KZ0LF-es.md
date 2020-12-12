@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'LANGRIA Manta de Sofá y Cama de Microfibra de Poliéster  Suave  Cálida  Resistente a las Arrugas  No pierde Color  para Adultos y Niños  150x200cm  Marrón '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7KZ0LF/?tag=tolees-21'
+descuento: '80.03'
+titulo: 'LANGRIA Manta de Sofá y Cama de Microfib'
 ---
 
 Ahora mismo tienes [LANGRIA Manta de Sofá y Cama de Microfibra de Poliéster  Suave  Cálida  Resistente a las Arrugas  No pierde Color  para Adultos y Niños  150x200cm  Marrón ](https://www.amazon.es/dp/B01N7KZ0LF/?tag=tolees-21) a 5.99 EUR (original: 29.99 EUR) (80.03 %  de descuento) en el siguiente enlace!

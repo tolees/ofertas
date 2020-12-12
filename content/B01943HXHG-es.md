@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance 490v4  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Guava   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01943HXHG/?tag=tolees-21'
+descuento: '62.53'
+titulo: 'New Balance 490v4  Zapatillas Deportivas'
 ---
 
 Ahora mismo tienes [New Balance 490v4  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Guava   40.5 EU](https://www.amazon.es/dp/B01943HXHG/?tag=tolees-21) a 26.23 EUR (original: 70 EUR) (62.53 %  de descuento) en el siguiente enlace!

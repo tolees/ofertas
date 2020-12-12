@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Esprit 038ee2b028  Vaqueros Slim Hombre  Azul  Blue Dark Wash 901   W33/L34  Talla del Fabricante: 33/34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SF9KJ3/?tag=tolees-21'
+descuento: '74.73'
+titulo: 'Esprit 038ee2b028  Vaqueros Slim Hombre '
 ---
 
 Tienes [Esprit 038ee2b028  Vaqueros Slim Hombre  Azul  Blue Dark Wash 901   W33/L34  Talla del Fabricante: 33/34 ](https://www.amazon.es/dp/B078SF9KJ3/?tag=tolees-21) con un 74.73 % de descuento con precio de oferta de 15.16 EUR (original: 59.99 EUR) en el siguiente enlace!

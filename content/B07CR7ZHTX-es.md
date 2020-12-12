@@ -17,6 +17,9 @@ comparePrice: 24.77 EUR
 inStock: true
 prodname: 'MY LITTLE BEAUTY Exfoliante Pies  Peeling Pies  Foot Mask Mascarilla de Pie Quita Cutículas Callos y Piel Muerta  Calcetín Exfoliante de Pies Suaves 2 pares'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CR7ZHTX/?tag=tolees-21'
+descuento: '47.56'
+titulo: 'MY LITTLE BEAUTY Exfoliante Pies  Peelin'
 ---
 
 Ahora mismo tienes [MY LITTLE BEAUTY Exfoliante Pies  Peeling Pies  Foot Mask Mascarilla de Pie Quita Cutículas Callos y Piel Muerta  Calcetín Exfoliante de Pies Suaves 2 pares](https://www.amazon.es/dp/B07CR7ZHTX/?tag=tolees-21) a 12.99 EUR (original: 24.77 EUR) (47.56 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma Classics T7 Track Jacket  Hombre  Black  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFVKKXV/?tag=tolees-21'
+descuento: '47.96'
+titulo: 'Puma Classics T7 Track Jacket  Hombre  B'
 ---
 
 Está [Puma Classics T7 Track Jacket  Hombre  Black  XXL](https://www.amazon.es/dp/B07DFVKKXV/?tag=tolees-21) con 47.96 de descuento por 33.8 EUR (original: 64.95 EUR) en el siguiente enlace!

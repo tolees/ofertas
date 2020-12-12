@@ -17,6 +17,9 @@ comparePrice: 7.95 EUR
 inStock: true
 prodname: 'Astor Soft Sentation Color & Care Barra de Labios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076JK23JW/?tag=tolees-21'
+descuento: '43.65'
+titulo: 'Astor Soft Sentation Color & Care Barra '
 ---
 
 Tienes [Astor Soft Sentation Color & Care Barra de Labios](https://www.amazon.es/dp/B076JK23JW/?tag=tolees-21) con un 43.65 % de descuento con precio de oferta de 4.48 EUR (original: 7.95 EUR) en el siguiente enlace!

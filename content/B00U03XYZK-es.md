@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Levi s Rectangular Buckle Belt - Cinturón Hombre  Negro  BLACK   105 cm  Talla del fabricante: 105 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U03XYZK/?tag=tolees-21'
+descuento: '49.46'
+titulo: 'Levi s Rectangular Buckle Belt - Cinturó'
 ---
 
 Tienes [Levi s Rectangular Buckle Belt - Cinturón Hombre  Negro  BLACK   105 cm  Talla del fabricante: 105 ](https://www.amazon.es/dp/B00U03XYZK/?tag=tolees-21) con un 49.46 % de descuento con precio de oferta de 19.71 EUR (original: 39 EUR) en el siguiente enlace!

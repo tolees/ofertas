@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Purefly Almohada de viaje con soporte de cuello. Inflable  super suave y compacta para dormir en el avión  coche y tren. Con bolsa de transporte. Suave y ergonómica. Diseño talla única.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071P7FZJY/?tag=tolees-21'
+descuento: '57.51'
+titulo: 'Purefly Almohada de viaje con soporte de'
 ---
 
 Tienes [Purefly Almohada de viaje con soporte de cuello. Inflable  super suave y compacta para dormir en el avión  coche y tren. Con bolsa de transporte. Suave y ergonómica. Diseño talla única.](https://www.amazon.es/dp/B071P7FZJY/?tag=tolees-21) con un 57.51 % de descuento con precio de oferta de 16.99 EUR (original: 39.99 EUR) en el siguiente enlace!

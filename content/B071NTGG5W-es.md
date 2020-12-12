@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  Azul  Chambray Blue   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NTGG5W/?tag=tolees-21'
+descuento: '52.77'
+titulo: 'Under Armour UA W Micro G Pursuit  Zapat'
 ---
 
 Está [Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  Azul  Chambray Blue   36 EU](https://www.amazon.es/dp/B071NTGG5W/?tag=tolees-21) con 52.77 de descuento por 33.06 EUR (original: 70 EUR) en el siguiente enlace!

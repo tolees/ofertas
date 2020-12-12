@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Gore Wear 100365 Culote  Hombre  Negro  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000SKAJ7Q/?tag=tolees-21'
+descuento: '58.03'
+titulo: 'Gore Wear 100365 Culote  Hombre  Negro  '
 ---
 
 Está [Gore Wear 100365 Culote  Hombre  Negro  S](https://www.amazon.es/dp/B000SKAJ7Q/?tag=tolees-21) con 58.03 de descuento por 58.74 EUR (original: 139.95 EUR) en el siguiente enlace!

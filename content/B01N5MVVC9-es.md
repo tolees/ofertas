@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Cross The Line Singlet Top  Hombre  Azul  Team Power Blue/White   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5MVVC9/?tag=tolees-21'
+descuento: '44.01'
+titulo: 'Puma Cross The Line Singlet Top  Hombre '
 ---
 
 Tienes [Puma Cross The Line Singlet Top  Hombre  Azul  Team Power Blue/White   XL](https://www.amazon.es/dp/B01N5MVVC9/?tag=tolees-21) con un 44.01 % de descuento con precio de oferta de 13.97 EUR (original: 24.95 EUR) en el siguiente enlace!

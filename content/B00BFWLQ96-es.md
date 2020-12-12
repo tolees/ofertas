@@ -17,6 +17,9 @@ comparePrice: 34.33 EUR
 inStock: true
 prodname: 'Repsol RP141N55 Elite Multiválvulas 10W-40 Aceite de Motor para Coche  Multicolor  5 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BFWLQ96/?tag=tolees-21'
+descuento: '33.32'
+titulo: 'Repsol RP141N55 Elite Multiválvulas 10W-'
 ---
 
 Tienes [Repsol RP141N55 Elite Multiválvulas 10W-40 Aceite de Motor para Coche  Multicolor  5 L](https://www.amazon.es/dp/B00BFWLQ96/?tag=tolees-21) con un 33.32 % de descuento con precio de oferta de 22.89 EUR (original: 34.33 EUR) en el siguiente enlace!

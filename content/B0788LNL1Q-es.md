@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Converse Chuck Taylor CTAS Ox Textile  Zapatillas de Deporte para Mujer  Azul  Light Carbon/White/Natural 534   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0788LNL1Q/?tag=tolees-21'
+descuento: '52.89'
+titulo: 'Converse Chuck Taylor CTAS Ox Textile  Z'
 ---
 
 Tienes [Converse Chuck Taylor CTAS Ox Textile  Zapatillas de Deporte para Mujer  Azul  Light Carbon/White/Natural 534   38 EU](https://www.amazon.es/dp/B0788LNL1Q/?tag=tolees-21) con un 52.89 % de descuento con precio de oferta de 32.98 EUR (original: 70 EUR) en el siguiente enlace!

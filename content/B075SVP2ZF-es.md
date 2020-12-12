@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'LEGO Super Heroes - Mighty Micros: Supergirl vs. Brainiac  76094 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SVP2ZF/?tag=tolees-21'
+descuento: '35.04'
+titulo: 'LEGO Super Heroes - Mighty Micros: Super'
 ---
 
 Ahora mismo tienes [LEGO Super Heroes - Mighty Micros: Supergirl vs. Brainiac  76094 ](https://www.amazon.es/dp/B075SVP2ZF/?tag=tolees-21) a 6.49 EUR (original: 9.99 EUR) (35.04 %  de descuento) en el siguiente enlace!

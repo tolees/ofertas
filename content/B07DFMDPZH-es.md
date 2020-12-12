@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance 996  Zapatillas para Hombre  Negro  Black/Nimbus Cloud Lt   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFMDPZH/?tag=tolees-21'
+descuento: '49.64'
+titulo: 'New Balance 996  Zapatillas para Hombre '
 ---
 
 Está [New Balance 996  Zapatillas para Hombre  Negro  Black/Nimbus Cloud Lt   43 EU](https://www.amazon.es/dp/B07DFMDPZH/?tag=tolees-21) con 49.64 de descuento por 55.4 EUR (original: 110 EUR) en el siguiente enlace!

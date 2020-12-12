@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'adidas 3 Stripes Vestido de Tenis  Mujer  azuosc  38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZL64MV/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas 3 Stripes Vestido de Tenis  Mujer'
 ---
 
 Ahora mismo tienes [adidas 3 Stripes Vestido de Tenis  Mujer  azuosc  38](https://www.amazon.es/dp/B07MZL64MV/?tag=tolees-21) a 19.98 EUR (original: 39.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

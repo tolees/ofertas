@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Wenger/SwissGear Reloj Analogico para Unisex de Cuarzo con Correa en Acero Inoxidable 01.1441.110'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GJD4M2I/?tag=tolees-21'
+descuento: '29.46'
+titulo: 'Wenger/SwissGear Reloj Analogico para Un'
 ---
 
 Está [Wenger/SwissGear Reloj Analogico para Unisex de Cuarzo con Correa en Acero Inoxidable 01.1441.110](https://www.amazon.es/dp/B01GJD4M2I/?tag=tolees-21) con 29.46 de descuento por 91 EUR (original: 129 EUR) en el siguiente enlace!

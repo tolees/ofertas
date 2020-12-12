@@ -17,6 +17,9 @@ comparePrice: 12 EUR
 inStock: true
 prodname: 'FIND Camiseta Bronx para Hombre  Gris  Grey Marl 003   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073SCWDRP/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND Camiseta Bronx para Hombre  Gris  G'
 ---
 
 Está [FIND Camiseta Bronx para Hombre  Gris  Grey Marl 003   Small](https://www.amazon.es/dp/B073SCWDRP/?tag=tolees-21) con 70.00 de descuento por 3.6 EUR (original: 12 EUR) en el siguiente enlace!

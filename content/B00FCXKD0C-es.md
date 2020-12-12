@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Lego DC Superman Head Lamp [With Battery]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FCXKD0C/?tag=tolees-21'
+descuento: '52.38'
+titulo: 'Lego DC Superman Head Lamp [With Battery'
 ---
 
 Tienes [Lego DC Superman Head Lamp [With Battery]](https://www.amazon.es/dp/B00FCXKD0C/?tag=tolees-21) con un 52.38 % de descuento con precio de oferta de 8.09 EUR (original: 16.99 EUR) en el siguiente enlace!

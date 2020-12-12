@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Pikolinos Salamanca W3q_i17  Botas para Mujer  Rojo  Garnet   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WVX7X7W/?tag=tolees-21'
+descuento: '64.50'
+titulo: 'Pikolinos Salamanca W3q_i17  Botas para '
 ---
 
 Ahora mismo tienes [Pikolinos Salamanca W3q_i17  Botas para Mujer  Rojo  Garnet   40 EU](https://www.amazon.es/dp/B06WVX7X7W/?tag=tolees-21) a 42.24 EUR (original: 119 EUR) (64.50 %  de descuento) en el siguiente enlace!

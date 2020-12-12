@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Gant Barstripe Pique Rugger  Polo para Hombre  Rojo  Watermelon Red 648   XXX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPGLVX2/?tag=tolees-21'
+descuento: '42.89'
+titulo: 'Gant Barstripe Pique Rugger  Polo para H'
 ---
 
 Tienes [Gant Barstripe Pique Rugger  Polo para Hombre  Rojo  Watermelon Red 648   XXX-Large](https://www.amazon.es/dp/B07KPGLVX2/?tag=tolees-21) con un 42.89 % de descuento con precio de oferta de 57.1 EUR (original: 99.99 EUR) en el siguiente enlace!

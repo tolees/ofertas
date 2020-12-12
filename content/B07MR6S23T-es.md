@@ -17,6 +17,9 @@ comparePrice: 6.48 EUR
 inStock: true
 prodname: 'Vectry Vestidos De Boda Talla Grande Vesetidos Playa Mujer 2019 Vestidos Largos Casual Primavera Vestido Cruzado Midi Moda Mujer 2019 Vestidos Verano Vestidos De Fiesta Vestido Amarillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MR6S23T/?tag=tolees-21'
+descuento: '55.56'
+titulo: 'Vectry Vestidos De Boda Talla Grande Ves'
 ---
 
 Tienes [Vectry Vestidos De Boda Talla Grande Vesetidos Playa Mujer 2019 Vestidos Largos Casual Primavera Vestido Cruzado Midi Moda Mujer 2019 Vestidos Verano Vestidos De Fiesta Vestido Amarillo](https://www.amazon.es/dp/B07MR6S23T/?tag=tolees-21) con un 55.56 % de descuento con precio de oferta de 2.88 EUR (original: 6.48 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Under Armour UA CF Force 3.0 FG Jr  Zapatillas de Fútbol Unisex Niños  Negro  Black   34 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LPDQLQC/?tag=tolees-21'
+descuento: '47.64'
+titulo: 'Under Armour UA CF Force 3.0 FG Jr  Zapa'
 ---
 
 Está [Under Armour UA CF Force 3.0 FG Jr  Zapatillas de Fútbol Unisex Niños  Negro  Black   34 EU](https://www.amazon.es/dp/B01LPDQLQC/?tag=tolees-21) con 47.64 de descuento por 26.18 EUR (original: 50 EUR) en el siguiente enlace!

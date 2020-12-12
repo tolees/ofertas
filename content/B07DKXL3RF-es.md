@@ -17,6 +17,9 @@ comparePrice: 364.87 EUR
 inStock: true
 prodname: 'ESSLNB Microscopio Profesional con Mecánico Escenario Adaptador de Telefono 40X-2000X Microscopio Optico NA1.25 Abbe Condensador para Enseñanza  Investigación Biológica y Educación Familiar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKXL3RF/?tag=tolees-21'
+descuento: '28.74'
+titulo: 'ESSLNB Microscopio Profesional con Mecán'
 ---
 
 Está [ESSLNB Microscopio Profesional con Mecánico Escenario Adaptador de Telefono 40X-2000X Microscopio Optico NA1.25 Abbe Condensador para Enseñanza  Investigación Biológica y Educación Familiar](https://www.amazon.es/dp/B07DKXL3RF/?tag=tolees-21) con 28.74 de descuento por 259.99 EUR (original: 364.87 EUR) en el siguiente enlace!

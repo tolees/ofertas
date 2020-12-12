@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Levi s Larkspur  Cinturón Mujer  Marrón  Medium Brown 28   95'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BSH5VNY/?tag=tolees-21'
+descuento: '38.31'
+titulo: 'Levi s Larkspur  Cinturón Mujer  Marrón '
 ---
 
 Tienes [Levi s Larkspur  Cinturón Mujer  Marrón  Medium Brown 28   95](https://www.amazon.es/dp/B07BSH5VNY/?tag=tolees-21) con un 38.31 % de descuento con precio de oferta de 21.59 EUR (original: 35 EUR) en el siguiente enlace!

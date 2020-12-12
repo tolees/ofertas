@@ -17,6 +17,9 @@ comparePrice: 121 EUR
 inStock: true
 prodname: 'Nike Air Huarache Run  Zapatillas de Gimnasia para Hombre  Beige Light Bone/Neutral Olive 050  45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WVJVXG/?tag=tolees-21'
+descuento: '43.15'
+titulo: 'Nike Air Huarache Run  Zapatillas de Gim'
 ---
 
 Tienes [Nike Air Huarache Run  Zapatillas de Gimnasia para Hombre  Beige Light Bone/Neutral Olive 050  45.5 EU](https://www.amazon.es/dp/B078WVJVXG/?tag=tolees-21) con un 43.15 % de descuento con precio de oferta de 68.79 EUR (original: 121 EUR) en el siguiente enlace!

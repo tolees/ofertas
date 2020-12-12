@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Leifheit 6940 6940-Aspirador limpiacristales Dry & Clean con Palo  Multicolores  19.5x4.5x30.5 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012H1PFQS/?tag=tolees-21'
+descuento: '32.99'
+titulo: 'Leifheit 6940 6940-Aspirador limpiacrist'
 ---
 
 Está [Leifheit 6940 6940-Aspirador limpiacristales Dry & Clean con Palo  Multicolores  19.5x4.5x30.5 cm](https://www.amazon.es/dp/B012H1PFQS/?tag=tolees-21) con 32.99 de descuento por 46.87 EUR (original: 69.95 EUR) en el siguiente enlace!

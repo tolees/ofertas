@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas Deerupt Runner J  Zapatillas de Gimnasia Unisex Niños  Verde Ice Mint/FTWR White/Clear Orange  36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JYKT8TB/?tag=tolees-21'
+descuento: '35.74'
+titulo: 'adidas Deerupt Runner J  Zapatillas de G'
 ---
 
 Tienes [adidas Deerupt Runner J  Zapatillas de Gimnasia Unisex Niños  Verde Ice Mint/FTWR White/Clear Orange  36.5 EU](https://www.amazon.es/dp/B07JYKT8TB/?tag=tolees-21) con un 35.74 % de descuento con precio de oferta de 44.95 EUR (original: 69.95 EUR) en el siguiente enlace!

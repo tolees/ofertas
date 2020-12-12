@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'URCERI Pistola de aire caliente  decapador  2000w  100-550 ℃  300L/mi y 480L/min 2 rangos de flujo de aire ajustables  pistola de calor potente con 4 boquillas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H1TWS1H/?tag=tolees-21'
+descuento: '38.90'
+titulo: 'URCERI Pistola de aire caliente  decapad'
 ---
 
 Tienes [URCERI Pistola de aire caliente  decapador  2000w  100-550 ℃  300L/mi y 480L/min 2 rangos de flujo de aire ajustables  pistola de calor potente con 4 boquillas](https://www.amazon.es/dp/B07H1TWS1H/?tag=tolees-21) con un 38.90 % de descuento con precio de oferta de 21.99 EUR (original: 35.99 EUR) en el siguiente enlace!

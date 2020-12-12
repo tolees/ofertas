@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'HUGO Dicago  Sudadera para Hombre  Gris  Open Grey 061   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCZL386/?tag=tolees-21'
+descuento: '64.42'
+titulo: 'HUGO Dicago  Sudadera para Hombre  Gris '
 ---
 
 Ahora mismo tienes [HUGO Dicago  Sudadera para Hombre  Gris  Open Grey 061   XX-Large](https://www.amazon.es/dp/B06XCZL386/?tag=tolees-21) a 35.56 EUR (original: 99.95 EUR) (64.42 %  de descuento) en el siguiente enlace!

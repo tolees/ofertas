@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'adidas Refine Adapt  Zapatillas para Mujer  Negro  Core Black/Carbon/Footwear White 0   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RK8CR6/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Refine Adapt  Zapatillas para Muj'
 ---
 
 Tienes [adidas Refine Adapt  Zapatillas para Mujer  Negro  Core Black/Carbon/Footwear White 0   36 EU](https://www.amazon.es/dp/B073RK8CR6/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 29.98 EUR (original: 59.95 EUR) en el siguiente enlace!

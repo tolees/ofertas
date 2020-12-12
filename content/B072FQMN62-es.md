@@ -17,6 +17,9 @@ comparePrice: 1749.99 EUR
 inStock: true
 prodname: 'Microsoft Surface Pro - Tablet de 12.3"  Intel Core i7  RAM de 8 GB  Memoria Interna de 256 GB  Windows 10 Pro  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072FQMN62/?tag=tolees-21'
+descuento: '27.74'
+titulo: 'Microsoft Surface Pro - Tablet de 12.3" '
 ---
 
 Ahora mismo tienes [Microsoft Surface Pro - Tablet de 12.3"  Intel Core i7  RAM de 8 GB  Memoria Interna de 256 GB  Windows 10 Pro  Color Negro](https://www.amazon.es/dp/B072FQMN62/?tag=tolees-21) a 1264.49 EUR (original: 1749.99 EUR) (27.74 %  de descuento) en el siguiente enlace!

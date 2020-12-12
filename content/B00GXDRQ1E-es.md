@@ -17,6 +17,9 @@ comparePrice: 399.95 EUR
 inStock: true
 prodname: 'Smoby- SuperMegagliss Tobogán Super Megagliss  Color Verde/Gris/Rojo/Blanco  352 x 112 x 186 cm  310260 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GXDRQ1E/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Smoby- SuperMegagliss Tobogán Super Mega'
 ---
 
 Está [Smoby- SuperMegagliss Tobogán Super Megagliss  Color Verde/Gris/Rojo/Blanco  352 x 112 x 186 cm  310260 ](https://www.amazon.es/dp/B00GXDRQ1E/?tag=tolees-21) con 50.01 de descuento por 199.95 EUR (original: 399.95 EUR) en el siguiente enlace!

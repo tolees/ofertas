@@ -17,6 +17,9 @@ comparePrice: 166 EUR
 inStock: true
 prodname: 'Guess Lelani  Sandal /Leathe  Zapatos de tacón con Punta Abierta para Mujer  Blanco White  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LGSL85S/?tag=tolees-21'
+descuento: '30.25'
+titulo: 'Guess Lelani  Sandal /Leathe  Zapatos de'
 ---
 
 Ahora mismo tienes [Guess Lelani  Sandal /Leathe  Zapatos de tacón con Punta Abierta para Mujer  Blanco White  36 EU](https://www.amazon.es/dp/B07LGSL85S/?tag=tolees-21) a 115.78 EUR (original: 166 EUR) (30.25 %  de descuento) en el siguiente enlace!

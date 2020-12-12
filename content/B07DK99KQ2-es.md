@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Lico Eaton  Botas de Nieve Unisex Adulto  Negro Schwarz  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK99KQ2/?tag=tolees-21'
+descuento: '76.38'
+titulo: 'Lico Eaton  Botas de Nieve Unisex Adulto'
 ---
 
 Tienes [Lico Eaton  Botas de Nieve Unisex Adulto  Negro Schwarz  39 EU](https://www.amazon.es/dp/B07DK99KQ2/?tag=tolees-21) con un 76.38 % de descuento con precio de oferta de 11.8 EUR (original: 49.95 EUR) en el siguiente enlace!

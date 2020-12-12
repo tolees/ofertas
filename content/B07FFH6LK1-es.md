@@ -17,6 +17,9 @@ comparePrice: 64.78 EUR
 inStock: true
 prodname: 'Reebok Royal Cl Jogger 2  Zapatillas de Deporte para Hombre   HS/Bunker Blue Slate/Primal Red/Whi 000   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFH6LK1/?tag=tolees-21'
+descuento: '50.12'
+titulo: 'Reebok Royal Cl Jogger 2  Zapatillas de '
 ---
 
 Ahora mismo tienes [Reebok Royal Cl Jogger 2  Zapatillas de Deporte para Hombre   HS/Bunker Blue Slate/Primal Red/Whi 000   45 EU](https://www.amazon.es/dp/B07FFH6LK1/?tag=tolees-21) a 32.31 EUR (original: 64.78 EUR) (50.12 %  de descuento) en el siguiente enlace!

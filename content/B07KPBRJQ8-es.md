@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'External CD DVD Drive Type-C USB 3.0  JFUNE Grabadora CD DVD Externa Lector Grabadora Lector CD + DVD +/-RW/-RW Drive para Windows 10/7/8/XP/Vista/Linus/Mac OS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPBRJQ8/?tag=tolees-21'
+descuento: '42.51'
+titulo: 'External CD DVD Drive Type-C USB 3.0  JF'
 ---
 
 Tienes [External CD DVD Drive Type-C USB 3.0  JFUNE Grabadora CD DVD Externa Lector Grabadora Lector CD + DVD +/-RW/-RW Drive para Windows 10/7/8/XP/Vista/Linus/Mac OS](https://www.amazon.es/dp/B07KPBRJQ8/?tag=tolees-21) con un 42.51 % de descuento con precio de oferta de 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!

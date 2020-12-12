@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'FIND Mocasines Clásicos de Piel para Hombre  Marrón  Brown   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7QUWPL/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'FIND Mocasines Clásicos de Piel para Hom'
 ---
 
 Ahora mismo tienes [FIND Mocasines Clásicos de Piel para Hombre  Marrón  Brown   44 EU](https://www.amazon.es/dp/B01N7QUWPL/?tag=tolees-21) a 42 EUR (original: 60 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'SUNMEET Gafas de sol Hombre Polarizadas Clásico Retro Gafas de sol para Hombre UV400 Protection S1001 Plateado/Plateado '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJ6TXDK/?tag=tolees-21'
+descuento: '60.02'
+titulo: 'SUNMEET Gafas de sol Hombre Polarizadas '
 ---
 
 Está [SUNMEET Gafas de sol Hombre Polarizadas Clásico Retro Gafas de sol para Hombre UV400 Protection S1001 Plateado/Plateado ](https://www.amazon.es/dp/B07FJ6TXDK/?tag=tolees-21) con 60.02 de descuento por 15.99 EUR (original: 39.99 EUR) en el siguiente enlace!

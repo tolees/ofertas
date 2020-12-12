@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'S. Oliver Damen-Anillo 925 de plata chapado en oro con circonitas talla redonda parte subbituminoso - 539852'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012MU88CC/?tag=tolees-21'
+descuento: '83.40'
+titulo: 'S. Oliver Damen-Anillo 925 de plata chap'
 ---
 
 Está [S. Oliver Damen-Anillo 925 de plata chapado en oro con circonitas talla redonda parte subbituminoso - 539852](https://www.amazon.es/dp/B012MU88CC/?tag=tolees-21) con 83.40 de descuento por 9.96 EUR (original: 59.99 EUR) en el siguiente enlace!

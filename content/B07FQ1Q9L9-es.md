@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Clarks Crown Bloom K  Sandalias de Talón Abierto para Niñas  Azul  Teal Leather-   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQ1Q9L9/?tag=tolees-21'
+descuento: '53.43'
+titulo: 'Clarks Crown Bloom K  Sandalias de Talón'
 ---
 
 Ahora mismo tienes [Clarks Crown Bloom K  Sandalias de Talón Abierto para Niñas  Azul  Teal Leather-   28 EU](https://www.amazon.es/dp/B07FQ1Q9L9/?tag=tolees-21) a 25.59 EUR (original: 54.95 EUR) (53.43 %  de descuento) en el siguiente enlace!

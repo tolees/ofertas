@@ -17,6 +17,9 @@ comparePrice: 37.03 EUR
 inStock: true
 prodname: 'Leman Speed.WOOD125 Disco para Cortar Madera con Amoladora 125'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CLGVUIC/?tag=tolees-21'
+descuento: '60.33'
+titulo: 'Leman Speed.WOOD125 Disco para Cortar Ma'
 ---
 
 Tienes [Leman Speed.WOOD125 Disco para Cortar Madera con Amoladora 125](https://www.amazon.es/dp/B00CLGVUIC/?tag=tolees-21) con un 60.33 % de descuento con precio de oferta de 14.69 EUR (original: 37.03 EUR) en el siguiente enlace!

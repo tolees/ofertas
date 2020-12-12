@@ -17,6 +17,9 @@ comparePrice: 50.37 EUR
 inStock: true
 prodname: 'Dorothy Perkins Munch  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Black 130   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2ZQ7LB/?tag=tolees-21'
+descuento: '66.69'
+titulo: 'Dorothy Perkins Munch  Zapatos de tacón '
 ---
 
 Está [Dorothy Perkins Munch  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Black 130   37 EU](https://www.amazon.es/dp/B07H2ZQ7LB/?tag=tolees-21) con 66.69 de descuento por 16.78 EUR (original: 50.37 EUR) en el siguiente enlace!

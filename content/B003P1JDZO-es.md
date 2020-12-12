@@ -17,6 +17,9 @@ comparePrice: 2 EUR
 inStock: true
 prodname: 'R&B Anthems'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003P1JDZO/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'R&B Anthems'
 ---
 
 Está [R&B Anthems](https://www.amazon.es/dp/B003P1JDZO/?tag=tolees-21) con 50.00 de descuento por 1 EUR (original: 2 EUR) en el siguiente enlace!

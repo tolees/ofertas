@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Rockport Office Essentials/ELLINGWOOD Black  Zapatos de Cordones Derby para Hombre  Schwarz  40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000GHK7Q4/?tag=tolees-21'
+descuento: '72.21'
+titulo: 'Rockport Office Essentials/ELLINGWOOD Bl'
 ---
 
 Ahora mismo tienes [Rockport Office Essentials/ELLINGWOOD Black  Zapatos de Cordones Derby para Hombre  Schwarz  40.5 EU](https://www.amazon.es/dp/B000GHK7Q4/?tag=tolees-21) a 33.34 EUR (original: 119.95 EUR) (72.21 %  de descuento) en el siguiente enlace!

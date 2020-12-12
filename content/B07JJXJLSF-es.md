@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Refresh 83189  Shopper para Mujer   Beige   35x29x10 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJXJLSF/?tag=tolees-21'
+descuento: '62.08'
+titulo: 'Refresh 83189  Shopper para Mujer   Beig'
 ---
 
 Está [Refresh 83189  Shopper para Mujer   Beige   35x29x10 cm  W x H x L ](https://www.amazon.es/dp/B07JJXJLSF/?tag=tolees-21) con 62.08 de descuento por 15.15 EUR (original: 39.95 EUR) en el siguiente enlace!

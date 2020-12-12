@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Esprit 049ee2c010 Pantalones Cortos  Azul  Light Blue 440   52  Talla del Fabricante: 32  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NDL4P9W/?tag=tolees-21'
+descuento: '47.01'
+titulo: 'Esprit 049ee2c010 Pantalones Cortos  Azu'
 ---
 
 Ahora mismo tienes [Esprit 049ee2c010 Pantalones Cortos  Azul  Light Blue 440   52  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B07NDL4P9W/?tag=tolees-21) a 26.49 EUR (original: 49.99 EUR) (47.01 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Performance Go Run 600-Revel  Zapatillas Deportivas para Interior para Mujer  Azul  Blue/Pink   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076QLNGQM/?tag=tolees-21'
+descuento: '54.11'
+titulo: 'Skechers Performance Go Run 600-Revel  Z'
 ---
 
 Está [Skechers Performance Go Run 600-Revel  Zapatillas Deportivas para Interior para Mujer  Azul  Blue/Pink   37 EU](https://www.amazon.es/dp/B076QLNGQM/?tag=tolees-21) con 54.11 de descuento por 27.51 EUR (original: 59.95 EUR) en el siguiente enlace!

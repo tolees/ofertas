@@ -17,6 +17,9 @@ comparePrice: 18.5 EUR
 inStock: true
 prodname: 'Frozen Bolsa de Aseo  color Verde - 1 Pieza'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B5Q2J6C/?tag=tolees-21'
+descuento: '66.65'
+titulo: 'Frozen Bolsa de Aseo  color Verde - 1 Pi'
 ---
 
 Ahora mismo tienes [Frozen Bolsa de Aseo  color Verde - 1 Pieza](https://www.amazon.es/dp/B07B5Q2J6C/?tag=tolees-21) a 6.17 EUR (original: 18.5 EUR) (66.65 %  de descuento) en el siguiente enlace!

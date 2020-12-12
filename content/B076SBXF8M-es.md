@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 25054  Botas Chelsea para Mujer  Azul  Denim Comb   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076SBXF8M/?tag=tolees-21'
+descuento: '60.96'
+titulo: 'Marco Tozzi 25054  Botas Chelsea para Mu'
 ---
 
 Tienes [Marco Tozzi 25054  Botas Chelsea para Mujer  Azul  Denim Comb   37 EU](https://www.amazon.es/dp/B076SBXF8M/?tag=tolees-21) con un 60.96 % de descuento con precio de oferta de 19.5 EUR (original: 49.95 EUR) en el siguiente enlace!

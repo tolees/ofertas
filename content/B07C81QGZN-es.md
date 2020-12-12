@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Icra Trainer SD Zapatillas  Unisex adulto  Azul  Peacoat-Puma White   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C81QGZN/?tag=tolees-21'
+descuento: '34.03'
+titulo: 'Puma Icra Trainer SD Zapatillas  Unisex '
 ---
 
 Está [Puma Icra Trainer SD Zapatillas  Unisex adulto  Azul  Peacoat-Puma White   44.5 EU](https://www.amazon.es/dp/B07C81QGZN/?tag=tolees-21) con 34.03 de descuento por 32.95 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Rotulador STABILO Pen 68 - Estuche premium Zebrui con 20 colores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HH32BI2/?tag=tolees-21'
+descuento: '44.16'
+titulo: 'Rotulador STABILO Pen 68 - Estuche premi'
 ---
 
 Está [Rotulador STABILO Pen 68 - Estuche premium Zebrui con 20 colores](https://www.amazon.es/dp/B00HH32BI2/?tag=tolees-21) con 44.16 de descuento por 13.96 EUR (original: 25 EUR) en el siguiente enlace!

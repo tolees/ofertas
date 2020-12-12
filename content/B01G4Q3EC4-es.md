@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'LANGRIA Estantería Metálica de Almacenamiento y Organización  6 Baldas con Alturas Ajustables  5 Ganchos Laterales  Capacidad de Carga 20kg por Balda  Plateado '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01G4Q3EC4/?tag=tolees-21'
+descuento: '41.43'
+titulo: 'LANGRIA Estantería Metálica de Almacenam'
 ---
 
 Tienes [LANGRIA Estantería Metálica de Almacenamiento y Organización  6 Baldas con Alturas Ajustables  5 Ganchos Laterales  Capacidad de Carga 20kg por Balda  Plateado ](https://www.amazon.es/dp/B01G4Q3EC4/?tag=tolees-21) con un 41.43 % de descuento con precio de oferta de 40.99 EUR (original: 69.99 EUR) en el siguiente enlace!

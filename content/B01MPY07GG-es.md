@@ -17,6 +17,9 @@ comparePrice: 38.98 EUR
 inStock: true
 prodname: 'KEXIN 32GB Memoria USB 2.0 Pendrive 32GB Flash Drive Memorias USB 2.0 para Computadoras  Tabletas y Otros Dispositivos [3 Unidades ] Color de Rojo，Azul  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MPY07GG/?tag=tolees-21'
+descuento: '53.85'
+titulo: 'KEXIN 32GB Memoria USB 2.0 Pendrive 32GB'
 ---
 
 Ahora mismo tienes [KEXIN 32GB Memoria USB 2.0 Pendrive 32GB Flash Drive Memorias USB 2.0 para Computadoras  Tabletas y Otros Dispositivos [3 Unidades ] Color de Rojo，Azul  Negro](https://www.amazon.es/dp/B01MPY07GG/?tag=tolees-21) a 17.99 EUR (original: 38.98 EUR) (53.85 %  de descuento) en el siguiente enlace!

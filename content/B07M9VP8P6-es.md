@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Cuaderno De Cuero Rellenable  Cuaderno de Viaje  Ideal para Escribir  Regalos  Viajeros  Diarios  Leather Journal Notebook  20 x 12cm  Marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9VP8P6/?tag=tolees-21'
+descuento: '66.69'
+titulo: 'Cuaderno De Cuero Rellenable  Cuaderno d'
 ---
 
 Tienes [Cuaderno De Cuero Rellenable  Cuaderno de Viaje  Ideal para Escribir  Regalos  Viajeros  Diarios  Leather Journal Notebook  20 x 12cm  Marrón](https://www.amazon.es/dp/B07M9VP8P6/?tag=tolees-21) con un 66.69 % de descuento con precio de oferta de 10.99 EUR (original: 32.99 EUR) en el siguiente enlace!

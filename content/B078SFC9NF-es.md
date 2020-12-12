@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Nike Wmns Revolution 4 EU  Zapatillas de Deporte Unisex Adulto   Aj3491 001 Blanco   40.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SFC9NF/?tag=tolees-21'
+descuento: '25.10'
+titulo: 'Nike Wmns Revolution 4 EU  Zapatillas de'
 ---
 
 Tienes [Nike Wmns Revolution 4 EU  Zapatillas de Deporte Unisex Adulto   Aj3491 001 Blanco   40.5](https://www.amazon.es/dp/B078SFC9NF/?tag=tolees-21) con un 25.10 % de descuento con precio de oferta de 37.45 EUR (original: 50 EUR) en el siguiente enlace!

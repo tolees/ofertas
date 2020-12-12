@@ -17,6 +17,9 @@ comparePrice: 57.33 EUR
 inStock: true
 prodname: 'Knorrtoys 68211 Stars White – Saco de Asiento Infantil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2W8YZ6/?tag=tolees-21'
+descuento: '32.20'
+titulo: 'Knorrtoys 68211 Stars White – Saco de As'
 ---
 
 Ahora mismo tienes [Knorrtoys 68211 Stars White – Saco de Asiento Infantil](https://www.amazon.es/dp/B07H2W8YZ6/?tag=tolees-21) a 38.87 EUR (original: 57.33 EUR) (32.20 %  de descuento) en el siguiente enlace!

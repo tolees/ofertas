@@ -17,6 +17,9 @@ comparePrice: 599900 EUR
 inStock: true
 prodname: 'Aicook Gofrera Belga 950W  Gofreras Acero Inoxidable  Control de Temperatura  Placas Antiadherentes y Ranuras Antifugas  180° de Conversión y Calentamiento de Doble Cara'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCQ9MGW/?tag=tolees-21'
+descuento: '100.00'
+titulo: 'Aicook Gofrera Belga 950W  Gofreras Acer'
 ---
 
 Está [Aicook Gofrera Belga 950W  Gofreras Acero Inoxidable  Control de Temperatura  Placas Antiadherentes y Ranuras Antifugas  180° de Conversión y Calentamiento de Doble Cara](https://www.amazon.es/dp/B07DCQ9MGW/?tag=tolees-21) con 100.00 de descuento por 29.59 EUR (original: 599900 EUR) en el siguiente enlace!

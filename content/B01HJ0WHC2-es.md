@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Merrell Civet Zip  Zapatillas para Mujer  Negro  Black   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HJ0WHC2/?tag=tolees-21'
+descuento: '79.17'
+titulo: 'Merrell Civet Zip  Zapatillas para Mujer'
 ---
 
 Tienes [Merrell Civet Zip  Zapatillas para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B01HJ0WHC2/?tag=tolees-21) con un 79.17 % de descuento con precio de oferta de 22.91 EUR (original: 110 EUR) en el siguiente enlace!

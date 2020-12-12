@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Only Onlecco Short Emb. Utility Jacket Otw  Chaqueta Mujer  Verde  Gothic Olive Gothic Olive   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MKFN6Q/?tag=tolees-21'
+descuento: '82.28'
+titulo: 'Only Onlecco Short Emb. Utility Jacket O'
 ---
 
 Ahora mismo tienes [Only Onlecco Short Emb. Utility Jacket Otw  Chaqueta Mujer  Verde  Gothic Olive Gothic Olive   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B077MKFN6Q/?tag=tolees-21) a 8.86 EUR (original: 49.99 EUR) (82.28 %  de descuento) en el siguiente enlace!

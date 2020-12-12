@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Pepe Jeans Cash Short  Pantalones Cortos para Hombre  Azul  Denim   33'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6CLJMI/?tag=tolees-21'
+descuento: '35.59'
+titulo: 'Pepe Jeans Cash Short  Pantalones Cortos'
 ---
 
 Está [Pepe Jeans Cash Short  Pantalones Cortos para Hombre  Azul  Denim   33](https://www.amazon.es/dp/B01N6CLJMI/?tag=tolees-21) con 35.59 de descuento por 38 EUR (original: 59 EUR) en el siguiente enlace!

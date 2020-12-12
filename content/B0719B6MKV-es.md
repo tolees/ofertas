@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Under Armour UA W Blur  Zapatillas de Entrenamiento para Mujer  Gris  Steel 101   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0719B6MKV/?tag=tolees-21'
+descuento: '68.23'
+titulo: 'Under Armour UA W Blur  Zapatillas de En'
 ---
 
 Ahora mismo tienes [Under Armour UA W Blur  Zapatillas de Entrenamiento para Mujer  Gris  Steel 101   43 EU](https://www.amazon.es/dp/B0719B6MKV/?tag=tolees-21) a 38.13 EUR (original: 120 EUR) (68.23 %  de descuento) en el siguiente enlace!

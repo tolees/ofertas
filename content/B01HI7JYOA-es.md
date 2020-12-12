@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Fjällräven Re-Kånken Mini - Mochila  Unisex Adulto  Azul  Un Blue   29 x 20 x 13 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HI7JYOA/?tag=tolees-21'
+descuento: '29.99'
+titulo: 'Fjällräven Re-Kånken Mini - Mochila  Uni'
 ---
 
 Ahora mismo tienes [Fjällräven Re-Kånken Mini - Mochila  Unisex Adulto  Azul  Un Blue   29 x 20 x 13 cm](https://www.amazon.es/dp/B01HI7JYOA/?tag=tolees-21) a 56 EUR (original: 79.99 EUR) (29.99 %  de descuento) en el siguiente enlace!

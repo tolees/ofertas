@@ -17,6 +17,9 @@ comparePrice: 24 EUR
 inStock: true
 prodname: 'Canterbury Oficial de la Rugby World Cup 2019 Camiseta de Algodón  Hombre  Blanco Brillante  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHVG6SQ/?tag=tolees-21'
+descuento: '32.42'
+titulo: 'Canterbury Oficial de la Rugby World Cup'
 ---
 
 Está [Canterbury Oficial de la Rugby World Cup 2019 Camiseta de Algodón  Hombre  Blanco Brillante  M](https://www.amazon.es/dp/B07JHVG6SQ/?tag=tolees-21) con 32.42 de descuento por 16.22 EUR (original: 24 EUR) en el siguiente enlace!

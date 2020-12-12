@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Casals C05109000 Sierra circular 1200 W 230 V  Verde  Acero Inoxidable  Watios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TCH5A0C/?tag=tolees-21'
+descuento: '38.85'
+titulo: 'Casals C05109000 Sierra circular 1200 W '
 ---
 
 Ahora mismo tienes [Casals C05109000 Sierra circular 1200 W 230 V  Verde  Acero Inoxidable  Watios](https://www.amazon.es/dp/B00TCH5A0C/?tag=tolees-21) a 55 EUR (original: 89.95 EUR) (38.85 %  de descuento) en el siguiente enlace!

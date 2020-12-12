@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Desigual TS_Magdalena  Camiseta para Mujer   Gris Vigore Claro 2042   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XQ4XCBR/?tag=tolees-21'
+descuento: '28.79'
+titulo: 'Desigual TS_Magdalena  Camiseta para Muj'
 ---
 
 Está [Desigual TS_Magdalena  Camiseta para Mujer   Gris Vigore Claro 2042   Large](https://www.amazon.es/dp/B06XQ4XCBR/?tag=tolees-21) con 28.79 de descuento por 35.57 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Only Onlarmor L/s Utility Shirt Wvn  Blusa para Mujer  Verde  Kalamata Detail:with Patches   38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RJJR8Y/?tag=tolees-21'
+descuento: '72.82'
+titulo: 'Only Onlarmor L/s Utility Shirt Wvn  Blu'
 ---
 
 Tienes [Only Onlarmor L/s Utility Shirt Wvn  Blusa para Mujer  Verde  Kalamata Detail:with Patches   38](https://www.amazon.es/dp/B073RJJR8Y/?tag=tolees-21) con un 72.82 % de descuento con precio de oferta de 10.87 EUR (original: 39.99 EUR) en el siguiente enlace!

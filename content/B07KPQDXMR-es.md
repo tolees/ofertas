@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Gant O1. Rose C-Neck SS T-Shirt Camiseta  Beige  Eggshell 113   X-Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPQDXMR/?tag=tolees-21'
+descuento: '54.68'
+titulo: 'Gant O1. Rose C-Neck SS T-Shirt Camiseta'
 ---
 
 Está [Gant O1. Rose C-Neck SS T-Shirt Camiseta  Beige  Eggshell 113   X-Large para Mujer](https://www.amazon.es/dp/B07KPQDXMR/?tag=tolees-21) con 54.68 de descuento por 27.19 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Carr & -Day & Martin Cornucrescine Ointage  250 ml Parent'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0011TM4EO/?tag=tolees-21'
+descuento: '79.74'
+titulo: 'Carr & -Day & Martin Cornucrescine Ointa'
 ---
 
 Tienes [Carr & -Day & Martin Cornucrescine Ointage  250 ml Parent](https://www.amazon.es/dp/B0011TM4EO/?tag=tolees-21) con un 79.74 % de descuento con precio de oferta de 20.26 EUR (original: 100 EUR) en el siguiente enlace!

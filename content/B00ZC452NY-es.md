@@ -17,6 +17,9 @@ comparePrice: 299 EUR
 inStock: true
 prodname: 'Acer H7 H277H smidx - Monitor de 27"  Full HD  4 ms  250 cd / m²  0 45 W   plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZC452NY/?tag=tolees-21'
+descuento: '27.38'
+titulo: 'Acer H7 H277H smidx - Monitor de 27"  Fu'
 ---
 
 Ahora mismo tienes [Acer H7 H277H smidx - Monitor de 27"  Full HD  4 ms  250 cd / m²  0 45 W   plateado](https://www.amazon.es/dp/B00ZC452NY/?tag=tolees-21) a 217.12 EUR (original: 299 EUR) (27.38 %  de descuento) en el siguiente enlace!

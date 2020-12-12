@@ -17,6 +17,9 @@ comparePrice: 229 EUR
 inStock: true
 prodname: 'Ring Spotlight Cam Battery | Cámara de seguridad HD con foco LED  alarma  comunicación bidireccional  funciona con batería'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y9WGPN/?tag=tolees-21'
+descuento: '26.20'
+titulo: 'Ring Spotlight Cam Battery | Cámara de s'
 ---
 
 Ahora mismo tienes [Ring Spotlight Cam Battery | Cámara de seguridad HD con foco LED  alarma  comunicación bidireccional  funciona con batería](https://www.amazon.es/dp/B077Y9WGPN/?tag=tolees-21) a 169 EUR (original: 229 EUR) (26.20 %  de descuento) en el siguiente enlace!

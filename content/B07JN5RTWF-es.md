@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Lacoste Ramm102 - Bóxer Hombre  Pack de 3  Azul  X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JN5RTWF/?tag=tolees-21'
+descuento: '45.33'
+titulo: 'Lacoste Ramm102 - Bóxer Hombre  Pack de '
 ---
 
 Tienes [Lacoste Ramm102 - Bóxer Hombre  Pack de 3  Azul  X-Small](https://www.amazon.es/dp/B07JN5RTWF/?tag=tolees-21) con un 45.33 % de descuento con precio de oferta de 24.6 EUR (original: 45 EUR) en el siguiente enlace!

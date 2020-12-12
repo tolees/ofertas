@@ -17,6 +17,9 @@ comparePrice: 338.7 EUR
 inStock: true
 prodname: 'Plantronics CS 530A - Auricular de clip  con micrófono  soporte '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0082AYBNM/?tag=tolees-21'
+descuento: '57.19'
+titulo: 'Plantronics CS 530A - Auricular de clip '
 ---
 
 Está [Plantronics CS 530A - Auricular de clip  con micrófono  soporte ](https://www.amazon.es/dp/B0082AYBNM/?tag=tolees-21) con 57.19 de descuento por 145 EUR (original: 338.7 EUR) en el siguiente enlace!

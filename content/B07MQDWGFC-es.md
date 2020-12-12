@@ -17,6 +17,9 @@ comparePrice: 8 EUR
 inStock: true
 prodname: 'Silicona Masajeador  Masajeador Inalámbrico Portátil Vibrador para Mujer de Silicona Potente Vibrador Masajeador de Mano'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MQDWGFC/?tag=tolees-21'
+descuento: '42.62'
+titulo: 'Silicona Masajeador  Masajeador Inalámbr'
 ---
 
 Está [Silicona Masajeador  Masajeador Inalámbrico Portátil Vibrador para Mujer de Silicona Potente Vibrador Masajeador de Mano](https://www.amazon.es/dp/B07MQDWGFC/?tag=tolees-21) con 42.62 de descuento por 4.59 EUR (original: 8 EUR) en el siguiente enlace!

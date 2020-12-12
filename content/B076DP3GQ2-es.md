@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Alven-Moneco  Zapatillas para Hombre  Azul  Navy   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076DP3GQ2/?tag=tolees-21'
+descuento: '53.32'
+titulo: 'Skechers Alven-Moneco  Zapatillas para H'
 ---
 
 Tienes [Skechers Alven-Moneco  Zapatillas para Hombre  Azul  Navy   44 EU](https://www.amazon.es/dp/B076DP3GQ2/?tag=tolees-21) con un 53.32 % de descuento con precio de oferta de 32.65 EUR (original: 69.95 EUR) en el siguiente enlace!

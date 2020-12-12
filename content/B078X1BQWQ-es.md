@@ -17,6 +17,9 @@ comparePrice: 43 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 111357  Pantalones Cortos para Hombre   Nero/Mazar./Antrac. 59520   Medium  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078X1BQWQ/?tag=tolees-21'
+descuento: '54.77'
+titulo: 'Emporio Armani Underwear 111357  Pantalo'
 ---
 
 Está [Emporio Armani Underwear 111357  Pantalones Cortos para Hombre   Nero/Mazar./Antrac. 59520   Medium  Talla del Fabricante: Large ](https://www.amazon.es/dp/B078X1BQWQ/?tag=tolees-21) con 54.77 de descuento por 19.45 EUR (original: 43 EUR) en el siguiente enlace!

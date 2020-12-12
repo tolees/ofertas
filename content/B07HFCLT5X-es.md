@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Levi s Levis 200sf Schooldaze Boxer Brief 2p   Mid Grey/Black 208   Medium  Pack de 2 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFCLT5X/?tag=tolees-21'
+descuento: '46.06'
+titulo: 'Levi s Levis 200sf Schooldaze Boxer Brie'
 ---
 
 Tienes [Levi s Levis 200sf Schooldaze Boxer Brief 2p   Mid Grey/Black 208   Medium  Pack de 2 para Hombre](https://www.amazon.es/dp/B07HFCLT5X/?tag=tolees-21) con un 46.06 % de descuento con precio de oferta de 13.48 EUR (original: 24.99 EUR) en el siguiente enlace!

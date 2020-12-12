@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Springfield 3.T.Ap.Sculpt High Rise Pantalones   Gama Azules 13    Tamaño del Fabricante:36  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ3YDBB/?tag=tolees-21'
+descuento: '42.71'
+titulo: 'Springfield 3.T.Ap.Sculpt High Rise Pant'
 ---
 
 Está [Springfield 3.T.Ap.Sculpt High Rise Pantalones   Gama Azules 13    Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B07KZ3YDBB/?tag=tolees-21) con 42.71 de descuento por 18.9 EUR (original: 32.99 EUR) en el siguiente enlace!

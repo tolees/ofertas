@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Armani Exchange 8nyj01 Vaqueros Skinny  Azul  Indigo Denim 1500   W29/L32  Talla del Fabricante: 29  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076Q9N5SP/?tag=tolees-21'
+descuento: '30.59'
+titulo: 'Armani Exchange 8nyj01 Vaqueros Skinny  '
 ---
 
 Tienes [Armani Exchange 8nyj01 Vaqueros Skinny  Azul  Indigo Denim 1500   W29/L32  Talla del Fabricante: 29  para Mujer](https://www.amazon.es/dp/B076Q9N5SP/?tag=tolees-21) con un 30.59 % de descuento con precio de oferta de 65.94 EUR (original: 95 EUR) en el siguiente enlace!

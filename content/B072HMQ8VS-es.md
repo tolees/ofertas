@@ -17,6 +17,9 @@ comparePrice: 329 EUR
 inStock: true
 prodname: 'Greencut GGT650 9-1 - Desbrozadora a gasolina con motor de 65cc  9 en 1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072HMQ8VS/?tag=tolees-21'
+descuento: '60.63'
+titulo: 'Greencut GGT650 9-1 - Desbrozadora a gas'
 ---
 
 Ahora mismo tienes [Greencut GGT650 9-1 - Desbrozadora a gasolina con motor de 65cc  9 en 1](https://www.amazon.es/dp/B072HMQ8VS/?tag=tolees-21) a 129.52 EUR (original: 329 EUR) (60.63 %  de descuento) en el siguiente enlace!

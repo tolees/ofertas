@@ -17,6 +17,9 @@ comparePrice: 6.38 EUR
 inStock: true
 prodname: 'STOBOK 20pcs Clips de papel Organizador de documentos en forma de cerdo Nota de papel Foto Clips de marcación Marcador de libro para Home Office School  Rosy '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q3F2NH8/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'STOBOK 20pcs Clips de papel Organizador '
 ---
 
 Ahora mismo tienes [STOBOK 20pcs Clips de papel Organizador de documentos en forma de cerdo Nota de papel Foto Clips de marcación Marcador de libro para Home Office School  Rosy ](https://www.amazon.es/dp/B07Q3F2NH8/?tag=tolees-21) a 3.19 EUR (original: 6.38 EUR) (50.00 %  de descuento) en el siguiente enlace!

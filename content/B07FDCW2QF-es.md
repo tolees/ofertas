@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Palladium Pallabrousse TX  Botas Clasicas Unisex Adulto  Negro  Anthracite/Black 764   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FDCW2QF/?tag=tolees-21'
+descuento: '54.51'
+titulo: 'Palladium Pallabrousse TX  Botas Clasica'
 ---
 
 Tienes [Palladium Pallabrousse TX  Botas Clasicas Unisex Adulto  Negro  Anthracite/Black 764   39 EU](https://www.amazon.es/dp/B07FDCW2QF/?tag=tolees-21) con un 54.51 % de descuento con precio de oferta de 40.92 EUR (original: 89.95 EUR) en el siguiente enlace!

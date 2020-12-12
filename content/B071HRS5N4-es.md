@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'JACK & JONES VINTAGE Jjvsebastian LS Granddad Noos  Camisa Manga Larga para Hombre  Gris  Light Grey Melange Fit:Melange - Slim Fit  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HRS5N4/?tag=tolees-21'
+descuento: '52.30'
+titulo: 'JACK & JONES VINTAGE Jjvsebastian LS Gra'
 ---
 
 Ahora mismo tienes [JACK & JONES VINTAGE Jjvsebastian LS Granddad Noos  Camisa Manga Larga para Hombre  Gris  Light Grey Melange Fit:Melange - Slim Fit  Small](https://www.amazon.es/dp/B071HRS5N4/?tag=tolees-21) a 11.9 EUR (original: 24.95 EUR) (52.30 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.74 EUR
 inStock: true
 prodname: 'Westworld - Stagione 01  3 4K Ultra Hd+3 Blu Ray  [Italia] [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075KFLVS4/?tag=tolees-21'
+descuento: '26.03'
+titulo: 'Westworld - Stagione 01  3 4K Ultra Hd+3'
 ---
 
 Está [Westworld - Stagione 01  3 4K Ultra Hd+3 Blu Ray  [Italia] [Blu-ray]](https://www.amazon.es/dp/B075KFLVS4/?tag=tolees-21) con 26.03 de descuento por 22 EUR (original: 29.74 EUR) en el siguiente enlace!

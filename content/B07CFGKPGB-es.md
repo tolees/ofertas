@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Rieker - H1325  Bolso Mujer  Gris  Rauch/Schwarz   14x23x35 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CFGKPGB/?tag=tolees-21'
+descuento: '50.31'
+titulo: 'Rieker - H1325  Bolso Mujer  Gris  Rauch'
 ---
 
 Está [Rieker - H1325  Bolso Mujer  Gris  Rauch/Schwarz   14x23x35 cm  B x H T ](https://www.amazon.es/dp/B07CFGKPGB/?tag=tolees-21) con 50.31 de descuento por 19.85 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Helly Hansen Pier 2 Pant Bib  Hombre  Ebony  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7I7DV0/?tag=tolees-21'
+descuento: '41.90'
+titulo: 'Helly Hansen Pier 2 Pant Bib  Hombre  Eb'
 ---
 
 Tienes [Helly Hansen Pier 2 Pant Bib  Hombre  Ebony  L](https://www.amazon.es/dp/B01N7I7DV0/?tag=tolees-21) con un 41.90 % de descuento con precio de oferta de 87.15 EUR (original: 150 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'Tuc Tuc Playground  Americana para Niñas  Azul  Jeans  152  Tamaño del Fabricante:14 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XL3YDN/?tag=tolees-21'
+descuento: '71.97'
+titulo: 'Tuc Tuc Playground  Americana para Niñas'
 ---
 
 Ahora mismo tienes [Tuc Tuc Playground  Americana para Niñas  Azul  Jeans  152  Tamaño del Fabricante:14 ](https://www.amazon.es/dp/B077XL3YDN/?tag=tolees-21) a 12.88 EUR (original: 45.95 EUR) (71.97 %  de descuento) en el siguiente enlace!

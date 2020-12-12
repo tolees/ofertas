@@ -17,6 +17,9 @@ comparePrice: 14.17 EUR
 inStock: true
 prodname: 'Fominaya 0144191110 Grifo silencioso Lateral  conexión latón 3/8"'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00L2IDD58/?tag=tolees-21'
+descuento: '26.32'
+titulo: 'Fominaya 0144191110 Grifo silencioso Lat'
 ---
 
 Tienes [Fominaya 0144191110 Grifo silencioso Lateral  conexión latón 3/8"](https://www.amazon.es/dp/B00L2IDD58/?tag=tolees-21) con un 26.32 % de descuento con precio de oferta de 10.44 EUR (original: 14.17 EUR) en el siguiente enlace!

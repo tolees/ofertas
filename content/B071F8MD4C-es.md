@@ -17,6 +17,9 @@ comparePrice: 33.16 EUR
 inStock: true
 prodname: 'Hangsun Almohadilla Eléctrica de tacto suave TP160 Almohadilla Térmica con 6 niveles de temperatura  100W  40 x 30 cm   Lavable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071F8MD4C/?tag=tolees-21'
+descuento: '30.67'
+titulo: 'Hangsun Almohadilla Eléctrica de tacto s'
 ---
 
 Ahora mismo tienes [Hangsun Almohadilla Eléctrica de tacto suave TP160 Almohadilla Térmica con 6 niveles de temperatura  100W  40 x 30 cm   Lavable](https://www.amazon.es/dp/B071F8MD4C/?tag=tolees-21) a 22.99 EUR (original: 33.16 EUR) (30.67 %  de descuento) en el siguiente enlace!

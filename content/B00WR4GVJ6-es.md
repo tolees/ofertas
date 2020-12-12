@@ -17,6 +17,9 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'L Oréal Paris Color Riche  Barra De Labios  Tono 135 Dalhia Insolent - 1 Barra De Labios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WR4GVJ6/?tag=tolees-21'
+descuento: '36.20'
+titulo: 'L Oréal Paris Color Riche  Barra De Labi'
 ---
 
 Está [L Oréal Paris Color Riche  Barra De Labios  Tono 135 Dalhia Insolent - 1 Barra De Labios](https://www.amazon.es/dp/B00WR4GVJ6/?tag=tolees-21) con 36.20 de descuento por 8.9 EUR (original: 13.95 EUR) en el siguiente enlace!

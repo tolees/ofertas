@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Helly Hansen HH Duffel Bag 2 Bolsa de Viaje  Unisex Adulto  Negro  Black 990   70L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N9QGXZI/?tag=tolees-21'
+descuento: '60.40'
+titulo: 'Helly Hansen HH Duffel Bag 2 Bolsa de Vi'
 ---
 
 Tienes [Helly Hansen HH Duffel Bag 2 Bolsa de Viaje  Unisex Adulto  Negro  Black 990   70L](https://www.amazon.es/dp/B00N9QGXZI/?tag=tolees-21) con un 60.40 % de descuento con precio de oferta de 39.6 EUR (original: 100 EUR) en el siguiente enlace!

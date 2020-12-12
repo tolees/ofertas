@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Levi s SS Colorblock tee Camiseta   Colorbock Dress Blues/White/Parisian 0004   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDWD495/?tag=tolees-21'
+descuento: '46.83'
+titulo: 'Levi s SS Colorblock tee Camiseta   Colo'
 ---
 
 Está [Levi s SS Colorblock tee Camiseta   Colorbock Dress Blues/White/Parisian 0004   XX-Large para Hombre](https://www.amazon.es/dp/B07GDWD495/?tag=tolees-21) con 46.83 de descuento por 15.95 EUR (original: 30 EUR) en el siguiente enlace!

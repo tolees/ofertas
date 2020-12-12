@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Burton Exile Cargo Pantalón de Snowboard  Niños  Rojo  Bitters   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQ4BD2K/?tag=tolees-21'
+descuento: '49.01'
+titulo: 'Burton Exile Cargo Pantalón de Snowboard'
 ---
 
 Está [Burton Exile Cargo Pantalón de Snowboard  Niños  Rojo  Bitters   L](https://www.amazon.es/dp/B07DQ4BD2K/?tag=tolees-21) con 49.01 de descuento por 56.09 EUR (original: 110 EUR) en el siguiente enlace!

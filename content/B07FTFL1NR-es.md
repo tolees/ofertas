@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Phyles Tapas elásticas de Silicona  6 Paquetes De Varios Cubierta de Ahorro de Alimentos  Ideales para Conservación De Alimentos  Lavavajillas  Microondas  Horno Y Congelador Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTFL1NR/?tag=tolees-21'
+descuento: '47.39'
+titulo: 'Phyles Tapas elásticas de Silicona  6 Pa'
 ---
 
 Ahora mismo tienes [Phyles Tapas elásticas de Silicona  6 Paquetes De Varios Cubierta de Ahorro de Alimentos  Ideales para Conservación De Alimentos  Lavavajillas  Microondas  Horno Y Congelador Azul ](https://www.amazon.es/dp/B07FTFL1NR/?tag=tolees-21) a 9.99 EUR (original: 18.99 EUR) (47.39 %  de descuento) en el siguiente enlace!

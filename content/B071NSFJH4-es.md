@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Burton Kettle Mochila  Mujer  Negro  Faded Multi Fleck   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NSFJH4/?tag=tolees-21'
+descuento: '84.20'
+titulo: 'Burton Kettle Mochila  Mujer  Negro  Fad'
 ---
 
 Tienes [Burton Kettle Mochila  Mujer  Negro  Faded Multi Fleck   Talla Única](https://www.amazon.es/dp/B071NSFJH4/?tag=tolees-21) con un 84.20 % de descuento con precio de oferta de 11.85 EUR (original: 75 EUR) en el siguiente enlace!

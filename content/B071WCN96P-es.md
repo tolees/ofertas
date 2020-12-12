@@ -17,6 +17,9 @@ comparePrice: 94.74 EUR
 inStock: true
 prodname: 'Reebok Classic Leather L Zapatillas  Mujer  Varios Colores  Grit-Peach Twist / Sleek Metallic   37.5 EU  4.5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071WCN96P/?tag=tolees-21'
+descuento: '60.57'
+titulo: 'Reebok Classic Leather L Zapatillas  Muj'
 ---
 
 Ahora mismo tienes [Reebok Classic Leather L Zapatillas  Mujer  Varios Colores  Grit-Peach Twist / Sleek Metallic   37.5 EU  4.5 UK ](https://www.amazon.es/dp/B071WCN96P/?tag=tolees-21) a 37.36 EUR (original: 94.74 EUR) (60.57 %  de descuento) en el siguiente enlace!

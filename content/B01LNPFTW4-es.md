@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Skech-Flex 2.0  Zapatillas de Deporte Exterior para Hombre  Negro  Black   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LNPFTW4/?tag=tolees-21'
+descuento: '27.09'
+titulo: 'Skechers Skech-Flex 2.0  Zapatillas de D'
 ---
 
 Ahora mismo tienes [Skechers Skech-Flex 2.0  Zapatillas de Deporte Exterior para Hombre  Negro  Black   40 EU](https://www.amazon.es/dp/B01LNPFTW4/?tag=tolees-21) a 51 EUR (original: 69.95 EUR) (27.09 %  de descuento) en el siguiente enlace!

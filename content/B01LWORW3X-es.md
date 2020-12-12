@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Desigual Biki_Sonar  Trikini para Mujer  Rosa  Fresa 3001  M  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LWORW3X/?tag=tolees-21'
+descuento: '55.50'
+titulo: 'Desigual Biki_Sonar  Trikini para Mujer '
 ---
 
 Está [Desigual Biki_Sonar  Trikini para Mujer  Rosa  Fresa 3001  M  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01LWORW3X/?tag=tolees-21) con 55.50 de descuento por 31.13 EUR (original: 69.95 EUR) en el siguiente enlace!

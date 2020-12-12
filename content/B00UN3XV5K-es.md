@@ -17,6 +17,9 @@ comparePrice: 299 EUR
 inStock: true
 prodname: 'Nissin Di700A + Commander Air 1 - Flash  para Sony'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UN3XV5K/?tag=tolees-21'
+descuento: '33.11'
+titulo: 'Nissin Di700A + Commander Air 1 - Flash '
 ---
 
 Ahora mismo tienes [Nissin Di700A + Commander Air 1 - Flash  para Sony](https://www.amazon.es/dp/B00UN3XV5K/?tag=tolees-21) a 200 EUR (original: 299 EUR) (33.11 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Titan Quest'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079D7RSVX/?tag=tolees-21'
+descuento: '66.99'
+titulo: 'Titan Quest'
 ---
 
 Ahora mismo tienes [Titan Quest](https://www.amazon.es/dp/B079D7RSVX/?tag=tolees-21) a 9.9 EUR (original: 29.99 EUR) (66.99 %  de descuento) en el siguiente enlace!

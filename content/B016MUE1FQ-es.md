@@ -17,6 +17,9 @@ comparePrice: 74.9 EUR
 inStock: true
 prodname: 'Ariete 5578 Centro DE Planchado STIROMATIC INSTANTO Pro 2.200 W  2200 W  1 Liter  Cerámica  Negro  Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016MUE1FQ/?tag=tolees-21'
+descuento: '27.90'
+titulo: 'Ariete 5578 Centro DE Planchado STIROMAT'
 ---
 
 Ahora mismo tienes [Ariete 5578 Centro DE Planchado STIROMATIC INSTANTO Pro 2.200 W  2200 W  1 Liter  Cerámica  Negro  Plata](https://www.amazon.es/dp/B016MUE1FQ/?tag=tolees-21) a 54 EUR (original: 74.9 EUR) (27.90 %  de descuento) en el siguiente enlace!

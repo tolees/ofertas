@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Slim  Jeans para Hombre  Negro  Lt Indigo Aged 8968-8436   42W/36L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MDBJ563/?tag=tolees-21'
+descuento: '69.33'
+titulo: 'G-STAR RAW 3301 Slim  Jeans para Hombre '
 ---
 
 Tienes [G-STAR RAW 3301 Slim  Jeans para Hombre  Negro  Lt Indigo Aged 8968-8436   42W/36L](https://www.amazon.es/dp/B07MDBJ563/?tag=tolees-21) con un 69.33 % de descuento con precio de oferta de 30.65 EUR (original: 99.95 EUR) en el siguiente enlace!

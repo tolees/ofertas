@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Rebel Basic tee Camiseta  Hombre  Negro  Cotton Black   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHWMYLF/?tag=tolees-21'
+descuento: '50.54'
+titulo: 'Puma Rebel Basic tee Camiseta  Hombre  N'
 ---
 
 Está [Puma Rebel Basic tee Camiseta  Hombre  Negro  Cotton Black   L](https://www.amazon.es/dp/B07JHWMYLF/?tag=tolees-21) con 50.54 de descuento por 12.34 EUR (original: 24.95 EUR) en el siguiente enlace!

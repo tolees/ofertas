@@ -17,6 +17,9 @@ comparePrice: 33.97 EUR
 inStock: true
 prodname: 'Wonderbra Fabulous Feel Padde Sans Armatures  Sujetador Deportivo para Mujer  granate  90C'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H8VB2X6/?tag=tolees-21'
+descuento: '78.13'
+titulo: 'Wonderbra Fabulous Feel Padde Sans Armat'
 ---
 
 Ahora mismo tienes [Wonderbra Fabulous Feel Padde Sans Armatures  Sujetador Deportivo para Mujer  granate  90C](https://www.amazon.es/dp/B07H8VB2X6/?tag=tolees-21) a 7.43 EUR (original: 33.97 EUR) (78.13 %  de descuento) en el siguiente enlace!

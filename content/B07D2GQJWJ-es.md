@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Loovara 2en1 masaje y Gel lubricante  250 ml  a base de agua  con aloe vera para pieles sensibles  adecuado para condones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2GQJWJ/?tag=tolees-21'
+descuento: '42.13'
+titulo: 'Loovara 2en1 masaje y Gel lubricante  25'
 ---
 
 Tienes [Loovara 2en1 masaje y Gel lubricante  250 ml  a base de agua  con aloe vera para pieles sensibles  adecuado para condones](https://www.amazon.es/dp/B07D2GQJWJ/?tag=tolees-21) con un 42.13 % de descuento con precio de oferta de 10.99 EUR (original: 18.99 EUR) en el siguiente enlace!

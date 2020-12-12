@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'FITIBEST Sujetador sin Tirantes Invisible Push UP Bra con Gel Adhesivo y Ajustable Cordones para Mujer 1 Pare o 3 Pares'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074DTRX5S/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'FITIBEST Sujetador sin Tirantes Invisibl'
 ---
 
 Está [FITIBEST Sujetador sin Tirantes Invisible Push UP Bra con Gel Adhesivo y Ajustable Cordones para Mujer 1 Pare o 3 Pares](https://www.amazon.es/dp/B074DTRX5S/?tag=tolees-21) con 40.01 de descuento por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

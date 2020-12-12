@@ -17,6 +17,9 @@ comparePrice: 7.25 EUR
 inStock: true
 prodname: 'Kärcher Limpiacristales RM 500  6.295-772.0 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00C2S95YA/?tag=tolees-21'
+descuento: '31.17'
+titulo: 'Kärcher Limpiacristales RM 500  6.295-77'
 ---
 
 Está [Kärcher Limpiacristales RM 500  6.295-772.0 ](https://www.amazon.es/dp/B00C2S95YA/?tag=tolees-21) con 31.17 de descuento por 4.99 EUR (original: 7.25 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 66.62 EUR
 inStock: true
 prodname: 'adidas Crazytrain 2 CF M  Zapatillas de Running para Hombre  Negro  Core Utility Black   42 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HM1XSB/?tag=tolees-21'
+descuento: '52.28'
+titulo: 'adidas Crazytrain 2 CF M  Zapatillas de '
 ---
 
 Tienes [adidas Crazytrain 2 CF M  Zapatillas de Running para Hombre  Negro  Core Utility Black   42 2/3 EU](https://www.amazon.es/dp/B071HM1XSB/?tag=tolees-21) con un 52.28 % de descuento con precio de oferta de 31.79 EUR (original: 66.62 EUR) en el siguiente enlace!

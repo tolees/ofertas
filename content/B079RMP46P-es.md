@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Pepe Jeans Lia  Parka para Mujer  Verde  Sherwood 664   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RMP46P/?tag=tolees-21'
+descuento: '70.91'
+titulo: 'Pepe Jeans Lia  Parka para Mujer  Verde '
 ---
 
 Ahora mismo tienes [Pepe Jeans Lia  Parka para Mujer  Verde  Sherwood 664   Small](https://www.amazon.es/dp/B079RMP46P/?tag=tolees-21) a 57.88 EUR (original: 199 EUR) (70.91 %  de descuento) en el siguiente enlace!

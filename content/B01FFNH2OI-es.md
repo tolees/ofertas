@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Under Armour HG Armour 2.0 3/4 Legging Leggings  Hombre  Rojo  Red/Graphite 600   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FFNH2OI/?tag=tolees-21'
+descuento: '54.32'
+titulo: 'Under Armour HG Armour 2.0 3/4 Legging L'
 ---
 
 Tienes [Under Armour HG Armour 2.0 3/4 Legging Leggings  Hombre  Rojo  Red/Graphite 600   L](https://www.amazon.es/dp/B01FFNH2OI/?tag=tolees-21) con un 54.32 % de descuento con precio de oferta de 18.25 EUR (original: 39.95 EUR) en el siguiente enlace!

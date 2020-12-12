@@ -17,6 +17,9 @@ comparePrice: 105.38 EUR
 inStock: true
 prodname: 'FJÄLLRÄVEN Re-Kånken Mochila  Unisex Adulto  Rojo  45 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01E48J0HC/?tag=tolees-21'
+descuento: '40.79'
+titulo: 'FJÄLLRÄVEN Re-Kånken Mochila  Unisex Adu'
 ---
 
 Está [FJÄLLRÄVEN Re-Kånken Mochila  Unisex Adulto  Rojo  45 cm](https://www.amazon.es/dp/B01E48J0HC/?tag=tolees-21) con 40.79 de descuento por 62.4 EUR (original: 105.38 EUR) en el siguiente enlace!

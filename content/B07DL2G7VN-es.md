@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'AFBEST Purificador de Aire con filtros HEPA Verdaderos y carbón Activo  eliminador de alergias para alergias  Polvo  Moho  caspa de Mascotas  Fumador  Potente para Habitaciones Grandes de 35 m²'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL2G7VN/?tag=tolees-21'
+descuento: '46.50'
+titulo: 'AFBEST Purificador de Aire con filtros H'
 ---
 
 Está [AFBEST Purificador de Aire con filtros HEPA Verdaderos y carbón Activo  eliminador de alergias para alergias  Polvo  Moho  caspa de Mascotas  Fumador  Potente para Habitaciones Grandes de 35 m²](https://www.amazon.es/dp/B07DL2G7VN/?tag=tolees-21) con 46.50 de descuento por 106.99 EUR (original: 199.99 EUR) en el siguiente enlace!

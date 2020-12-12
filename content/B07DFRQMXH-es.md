@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma ESS+ Hoody FL Sweatshirt  Hombre  Peacoat Heather  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFRQMXH/?tag=tolees-21'
+descuento: '58.16'
+titulo: 'Puma ESS+ Hoody FL Sweatshirt  Hombre  P'
 ---
 
 Está [Puma ESS+ Hoody FL Sweatshirt  Hombre  Peacoat Heather  M](https://www.amazon.es/dp/B07DFRQMXH/?tag=tolees-21) con 58.16 de descuento por 22.99 EUR (original: 54.95 EUR) en el siguiente enlace!

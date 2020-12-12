@@ -17,6 +17,9 @@ comparePrice: 98.26 EUR
 inStock: true
 prodname: 'AEG RA 5588 N - Radiador de aceite  2000 W  9 elementos  programable  pantalla digital  3 niveles de potencia'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005FLAEHI/?tag=tolees-21'
+descuento: '59.33'
+titulo: 'AEG RA 5588 N - Radiador de aceite  2000'
 ---
 
 Ahora mismo tienes [AEG RA 5588 N - Radiador de aceite  2000 W  9 elementos  programable  pantalla digital  3 niveles de potencia](https://www.amazon.es/dp/B005FLAEHI/?tag=tolees-21) a 39.96 EUR (original: 98.26 EUR) (59.33 %  de descuento) en el siguiente enlace!

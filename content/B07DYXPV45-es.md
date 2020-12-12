@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Columbia Fast Trek II Full Zip Forro Polar  Poliéster  Niños  Azul  Collegiate Navy  Red Element   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYXPV45/?tag=tolees-21'
+descuento: '50.15'
+titulo: 'Columbia Fast Trek II Full Zip Forro Pol'
 ---
 
 Está [Columbia Fast Trek II Full Zip Forro Polar  Poliéster  Niños  Azul  Collegiate Navy  Red Element   S](https://www.amazon.es/dp/B07DYXPV45/?tag=tolees-21) con 50.15 de descuento por 14.95 EUR (original: 29.99 EUR) en el siguiente enlace!

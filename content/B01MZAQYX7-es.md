@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Subsonic - Funda estuche de almacenamiento y transporte para Switch y accesorios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZAQYX7/?tag=tolees-21'
+descuento: '68.73'
+titulo: 'Subsonic - Funda estuche de almacenamien'
 ---
 
 Ahora mismo tienes [Subsonic - Funda estuche de almacenamiento y transporte para Switch y accesorios](https://www.amazon.es/dp/B01MZAQYX7/?tag=tolees-21) a 5 EUR (original: 15.99 EUR) (68.73 %  de descuento) en el siguiente enlace!

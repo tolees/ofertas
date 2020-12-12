@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Dakine Mission Mini Mochila  Unisex niños  Negro  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTTVGME/?tag=tolees-21'
+descuento: '68.10'
+titulo: 'Dakine Mission Mini Mochila  Unisex niño'
 ---
 
 Está [Dakine Mission Mini Mochila  Unisex niños  Negro  Talla Única](https://www.amazon.es/dp/B01MTTVGME/?tag=tolees-21) con 68.10 de descuento por 15.95 EUR (original: 50 EUR) en el siguiente enlace!

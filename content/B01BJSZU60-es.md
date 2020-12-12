@@ -17,6 +17,9 @@ comparePrice: 29.93 EUR
 inStock: true
 prodname: 'Jako Striker  Chaqueta de Poliéster Infantil  Rojo  5-6 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BJSZU60/?tag=tolees-21'
+descuento: '59.97'
+titulo: 'Jako Striker  Chaqueta de Poliéster Infa'
 ---
 
 Está [Jako Striker  Chaqueta de Poliéster Infantil  Rojo  5-6 años](https://www.amazon.es/dp/B01BJSZU60/?tag=tolees-21) con 59.97 de descuento por 11.98 EUR (original: 29.93 EUR) en el siguiente enlace!

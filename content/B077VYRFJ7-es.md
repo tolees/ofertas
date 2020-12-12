@@ -17,6 +17,9 @@ comparePrice: 51.49 EUR
 inStock: true
 prodname: 'Focuspet Juguete para Gatos  Cat Juguete Interactivo para Gatos para Gatitos Incluye Juguetes para Gatos  Juguetes interactivos  etc. Paquete de Variedad de 23 Piezas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077VYRFJ7/?tag=tolees-21'
+descuento: '64.48'
+titulo: 'Focuspet Juguete para Gatos  Cat Juguete'
 ---
 
 Tienes [Focuspet Juguete para Gatos  Cat Juguete Interactivo para Gatos para Gatitos Incluye Juguetes para Gatos  Juguetes interactivos  etc. Paquete de Variedad de 23 Piezas](https://www.amazon.es/dp/B077VYRFJ7/?tag=tolees-21) con un 64.48 % de descuento con precio de oferta de 18.29 EUR (original: 51.49 EUR) en el siguiente enlace!

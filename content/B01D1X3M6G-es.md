@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Clarks Carleta Lyon  Botines para Mujer  Verde  Khaki Suede   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01D1X3M6G/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Clarks Carleta Lyon  Botines para Mujer '
 ---
 
 Ahora mismo tienes [Clarks Carleta Lyon  Botines para Mujer  Verde  Khaki Suede   37.5 EU](https://www.amazon.es/dp/B01D1X3M6G/?tag=tolees-21) a 60 EUR (original: 120 EUR) (50.00 %  de descuento) en el siguiente enlace!

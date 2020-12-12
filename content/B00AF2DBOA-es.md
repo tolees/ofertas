@@ -17,6 +17,9 @@ comparePrice: 699 EUR
 inStock: true
 prodname: 'Mondaine SBB Evo Automatic 40mm A1323034811SBB Reloj de pulsera Automático Hombre correa de Cuero Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AF2DBOA/?tag=tolees-21'
+descuento: '37.66'
+titulo: 'Mondaine SBB Evo Automatic 40mm A1323034'
 ---
 
 Ahora mismo tienes [Mondaine SBB Evo Automatic 40mm A1323034811SBB Reloj de pulsera Automático Hombre correa de Cuero Negro](https://www.amazon.es/dp/B00AF2DBOA/?tag=tolees-21) a 435.77 EUR (original: 699 EUR) (37.66 %  de descuento) en el siguiente enlace!

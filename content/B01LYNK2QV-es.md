@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'ESPRIT 106EE1K036  Camiseta de Manga Larga Mujer  Rojo  garnet Red 620   38  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYNK2QV/?tag=tolees-21'
+descuento: '50.23'
+titulo: 'ESPRIT 106EE1K036  Camiseta de Manga Lar'
 ---
 
 Tienes [ESPRIT 106EE1K036  Camiseta de Manga Larga Mujer  Rojo  garnet Red 620   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01LYNK2QV/?tag=tolees-21) con un 50.23 % de descuento con precio de oferta de 9.95 EUR (original: 19.99 EUR) en el siguiente enlace!

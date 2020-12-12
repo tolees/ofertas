@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Springfield 6.T.Ap. Biker Doble Faz  Chaqueta para Mujer  Rosa  Gama Rosas/morados 79    Tamaño del Fabricante:40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLDBQG2/?tag=tolees-21'
+descuento: '71.35'
+titulo: 'Springfield 6.T.Ap. Biker Doble Faz  Cha'
 ---
 
 Tienes [Springfield 6.T.Ap. Biker Doble Faz  Chaqueta para Mujer  Rosa  Gama Rosas/morados 79    Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B07DLDBQG2/?tag=tolees-21) con un 71.35 % de descuento con precio de oferta de 20.05 EUR (original: 69.99 EUR) en el siguiente enlace!

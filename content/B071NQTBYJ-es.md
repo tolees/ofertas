@@ -17,6 +17,9 @@ comparePrice: 167.22 EUR
 inStock: true
 prodname: 'CIVO Relojes Hombre con Lujo Correa de Acero Inoxidable Negro Fecha Calentario Reloj de Pulsera para Hombres Impermeable Casual Clásico Sencillo Reloj Analógico de Cuarzo con Dial Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NQTBYJ/?tag=tolees-21'
+descuento: '90.01'
+titulo: 'CIVO Relojes Hombre con Lujo Correa de A'
 ---
 
 Ahora mismo tienes [CIVO Relojes Hombre con Lujo Correa de Acero Inoxidable Negro Fecha Calentario Reloj de Pulsera para Hombres Impermeable Casual Clásico Sencillo Reloj Analógico de Cuarzo con Dial Negro](https://www.amazon.es/dp/B071NQTBYJ/?tag=tolees-21) a 16.71 EUR (original: 167.22 EUR) (90.01 %  de descuento) en el siguiente enlace!

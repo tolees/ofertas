@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Cruz v2 Deconstructed  Zapatillas de Running para Mujer   Moonbeam/Faded Birch Lt2   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B6YNGLY/?tag=tolees-21'
+descuento: '43.75'
+titulo: 'New Balance Fresh Foam Cruz v2 Deconstru'
 ---
 
 Está [New Balance Fresh Foam Cruz v2 Deconstructed  Zapatillas de Running para Mujer   Moonbeam/Faded Birch Lt2   37.5 EU](https://www.amazon.es/dp/B07B6YNGLY/?tag=tolees-21) con 43.75 de descuento por 45 EUR (original: 80 EUR) en el siguiente enlace!

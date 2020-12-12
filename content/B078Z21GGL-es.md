@@ -17,6 +17,9 @@ comparePrice: 96.11 EUR
 inStock: true
 prodname: 'Swarovski Anillo Lifelong Wide  Blanco  baño de rodio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078Z21GGL/?tag=tolees-21'
+descuento: '38.09'
+titulo: 'Swarovski Anillo Lifelong Wide  Blanco  '
 ---
 
 Tienes [Swarovski Anillo Lifelong Wide  Blanco  baño de rodio](https://www.amazon.es/dp/B078Z21GGL/?tag=tolees-21) con un 38.09 % de descuento con precio de oferta de 59.5 EUR (original: 96.11 EUR) en el siguiente enlace!

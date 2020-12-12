@@ -17,6 +17,9 @@ comparePrice: 103.2 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Mujer Acero Inoxidable FASHIONNECKLACEBRACELETANKLET'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ICY33RC/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Tommy Hilfiger Mujer Acero Inoxidable FA'
 ---
 
 Está [Tommy Hilfiger Mujer Acero Inoxidable FASHIONNECKLACEBRACELETANKLET](https://www.amazon.es/dp/B01ICY33RC/?tag=tolees-21) con 25.00 de descuento por 77.4 EUR (original: 103.2 EUR) en el siguiente enlace!

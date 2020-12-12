@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Skechers Go Walk Joy-Paradise  Zapatillas para Mujer  Azul  Navy/White   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JX2PCX/?tag=tolees-21'
+descuento: '41.29'
+titulo: 'Skechers Go Walk Joy-Paradise  Zapatilla'
 ---
 
 Está [Skechers Go Walk Joy-Paradise  Zapatillas para Mujer  Azul  Navy/White   36 EU](https://www.amazon.es/dp/B071JX2PCX/?tag=tolees-21) con 41.29 de descuento por 32.26 EUR (original: 54.95 EUR) en el siguiente enlace!

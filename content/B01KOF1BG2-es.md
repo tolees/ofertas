@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'BaByliss H100E - Plancha de pelo mini de viaje  hasta 200° C  voltaje universal 120/240 V  color rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KOF1BG2/?tag=tolees-21'
+descuento: '44.72'
+titulo: 'BaByliss H100E - Plancha de pelo mini de'
 ---
 
 Está [BaByliss H100E - Plancha de pelo mini de viaje  hasta 200° C  voltaje universal 120/240 V  color rosa](https://www.amazon.es/dp/B01KOF1BG2/?tag=tolees-21) con 44.72 de descuento por 11 EUR (original: 19.9 EUR) en el siguiente enlace!

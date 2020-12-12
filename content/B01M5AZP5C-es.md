@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Aigostar Fitfoodie Steel 30INA-Vaporera eléctrica para cocinar alimentos al vapor  800 W  temporizador y base en acero inoxidable. Libre de BPA  dispone de 3 recipientes de cocinado. Diseño Exclusivo.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M5AZP5C/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Aigostar Fitfoodie Steel 30INA-Vaporera '
 ---
 
 Ahora mismo tienes [Aigostar Fitfoodie Steel 30INA-Vaporera eléctrica para cocinar alimentos al vapor  800 W  temporizador y base en acero inoxidable. Libre de BPA  dispone de 3 recipientes de cocinado. Diseño Exclusivo.](https://www.amazon.es/dp/B01M5AZP5C/?tag=tolees-21) a 32.99 EUR (original: 54.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

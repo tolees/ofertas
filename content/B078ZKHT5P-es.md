@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Supra Factor  Zapatillas para Hombre  Gris  Lt Grey-White 076   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078ZKHT5P/?tag=tolees-21'
+descuento: '72.29'
+titulo: 'Supra Factor  Zapatillas para Hombre  Gr'
 ---
 
 Ahora mismo tienes [Supra Factor  Zapatillas para Hombre  Gris  Lt Grey-White 076   43 EU](https://www.amazon.es/dp/B078ZKHT5P/?tag=tolees-21) a 24.91 EUR (original: 89.9 EUR) (72.29 %  de descuento) en el siguiente enlace!

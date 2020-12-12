@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance Fuel Core 5000  Zapatillas de Running para Hombre  Verde  Mineral Green/Black Gr   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL18PBM/?tag=tolees-21'
+descuento: '62.50'
+titulo: 'New Balance Fuel Core 5000  Zapatillas d'
 ---
 
 Está [New Balance Fuel Core 5000  Zapatillas de Running para Hombre  Verde  Mineral Green/Black Gr   41.5 EU](https://www.amazon.es/dp/B07BL18PBM/?tag=tolees-21) con 62.50 de descuento por 33.75 EUR (original: 90 EUR) en el siguiente enlace!

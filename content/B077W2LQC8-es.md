@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'K-Swiss Court Cheswick SDE  Zapatillas para Hombre  Negro  Black/White 002   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077W2LQC8/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'K-Swiss Court Cheswick SDE  Zapatillas p'
 ---
 
 Tienes [K-Swiss Court Cheswick SDE  Zapatillas para Hombre  Negro  Black/White 002   39.5 EU](https://www.amazon.es/dp/B077W2LQC8/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 26.95 EUR (original: 35.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 299.99 EUR
 inStock: true
 prodname: 'Gant O1. The Panel Down Jacket Chaqueta  Azul  Poseidon Blue 448   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPV9WNM/?tag=tolees-21'
+descuento: '68.22'
+titulo: 'Gant O1. The Panel Down Jacket Chaqueta '
 ---
 
 Está [Gant O1. The Panel Down Jacket Chaqueta  Azul  Poseidon Blue 448   XX-Large para Hombre](https://www.amazon.es/dp/B07KPV9WNM/?tag=tolees-21) con 68.22 de descuento por 95.33 EUR (original: 299.99 EUR) en el siguiente enlace!

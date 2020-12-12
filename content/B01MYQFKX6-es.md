@@ -17,6 +17,9 @@ comparePrice: 397.99 EUR
 inStock: true
 prodname: 'Tarjeta de Memoria CFast 2.0 SanDisk Extreme Pro de 128 GB  hasta 525 MB/s'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYQFKX6/?tag=tolees-21'
+descuento: '28.54'
+titulo: 'Tarjeta de Memoria CFast 2.0 SanDisk Ext'
 ---
 
 Está [Tarjeta de Memoria CFast 2.0 SanDisk Extreme Pro de 128 GB  hasta 525 MB/s](https://www.amazon.es/dp/B01MYQFKX6/?tag=tolees-21) con 28.54 de descuento por 284.42 EUR (original: 397.99 EUR) en el siguiente enlace!

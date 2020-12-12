@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers D Lites-Biggest Fan  11930   Zapatillas de Deporte para Mujer  Azul  Navy/White   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016R0KS3A/?tag=tolees-21'
+descuento: '29.95'
+titulo: 'Skechers D Lites-Biggest Fan  11930   Za'
 ---
 
 Está [Skechers D Lites-Biggest Fan  11930   Zapatillas de Deporte para Mujer  Azul  Navy/White   37 EU](https://www.amazon.es/dp/B016R0KS3A/?tag=tolees-21) con 29.95 de descuento por 49 EUR (original: 69.95 EUR) en el siguiente enlace!

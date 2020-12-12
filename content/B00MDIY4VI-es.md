@@ -17,6 +17,9 @@ comparePrice: 15.56 EUR
 inStock: true
 prodname: 'Wolfpack 4040050 Grifo Lavadora Doble Rosca'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MDIY4VI/?tag=tolees-21'
+descuento: '43.57'
+titulo: 'Wolfpack 4040050 Grifo Lavadora Doble Ro'
 ---
 
 Está [Wolfpack 4040050 Grifo Lavadora Doble Rosca](https://www.amazon.es/dp/B00MDIY4VI/?tag=tolees-21) con 43.57 de descuento por 8.78 EUR (original: 15.56 EUR) en el siguiente enlace!

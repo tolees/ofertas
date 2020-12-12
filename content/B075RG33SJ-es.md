@@ -17,6 +17,9 @@ comparePrice: 46 EUR
 inStock: true
 prodname: 'Double Agent 87404 Sudadera  Gris  Azul Vigore     Tamaño del Fabricante:S  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RG33SJ/?tag=tolees-21'
+descuento: '77.57'
+titulo: 'Double Agent 87404 Sudadera  Gris  Azul '
 ---
 
 Tienes [Double Agent 87404 Sudadera  Gris  Azul Vigore     Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B075RG33SJ/?tag=tolees-21) con un 77.57 % de descuento con precio de oferta de 10.32 EUR (original: 46 EUR) en el siguiente enlace!

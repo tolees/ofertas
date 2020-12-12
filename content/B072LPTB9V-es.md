@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Crocs Specialist II Clog  Unisex Adulto Zueco  Blanco  White   41-42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LPTB9V/?tag=tolees-21'
+descuento: '39.98'
+titulo: 'Crocs Specialist II Clog  Unisex Adulto '
 ---
 
 Tienes [Crocs Specialist II Clog  Unisex Adulto Zueco  Blanco  White   41-42 EU](https://www.amazon.es/dp/B072LPTB9V/?tag=tolees-21) con un 39.98 % de descuento con precio de oferta de 21 EUR (original: 34.99 EUR) en el siguiente enlace!

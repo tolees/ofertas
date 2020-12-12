@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Sport Direct™ The Hand™ BMX Casco verde 55-58cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018GAC1MK/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Sport Direct™ The Hand™ BMX Casco verde '
 ---
 
 Está [Sport Direct™ The Hand™ BMX Casco verde 55-58cm](https://www.amazon.es/dp/B018GAC1MK/?tag=tolees-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

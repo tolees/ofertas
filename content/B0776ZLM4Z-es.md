@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 's.Oliver 23620  Zapatillas para Mujer  Verde  Emerald   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0776ZLM4Z/?tag=tolees-21'
+descuento: '53.31'
+titulo: 's.Oliver 23620  Zapatillas para Mujer  V'
 ---
 
 Tienes [s.Oliver 23620  Zapatillas para Mujer  Verde  Emerald   38 EU](https://www.amazon.es/dp/B0776ZLM4Z/?tag=tolees-21) con un 53.31 % de descuento con precio de oferta de 27.99 EUR (original: 59.95 EUR) en el siguiente enlace!

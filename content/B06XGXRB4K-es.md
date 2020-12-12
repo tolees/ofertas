@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Element Carrier II Beanie Gorros  Hombre  Negro  U'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XGXRB4K/?tag=tolees-21'
+descuento: '42.75'
+titulo: 'Element Carrier II Beanie Gorros  Hombre'
 ---
 
 Está [Element Carrier II Beanie Gorros  Hombre  Negro  U](https://www.amazon.es/dp/B06XGXRB4K/?tag=tolees-21) con 42.75 de descuento por 11.45 EUR (original: 20 EUR) en el siguiente enlace!

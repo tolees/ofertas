@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Citizen Hombre Cronógrafo Cuarzo Reloj con Pulsera de Piel ca0641 – 24E'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N34V9PH/?tag=tolees-21'
+descuento: '39.16'
+titulo: 'Citizen Hombre Cronógrafo Cuarzo Reloj c'
 ---
 
 Ahora mismo tienes [Citizen Hombre Cronógrafo Cuarzo Reloj con Pulsera de Piel ca0641 – 24E](https://www.amazon.es/dp/B01N34V9PH/?tag=tolees-21) a 121.08 EUR (original: 199 EUR) (39.16 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Straight Tapered Jeans  Azul  medium aged 8595-071   30W / 36L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072PX2LYM/?tag=tolees-21'
+descuento: '67.75'
+titulo: 'G-STAR RAW 3301 Straight Tapered Jeans  '
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Straight Tapered Jeans  Azul  medium aged 8595-071   30W / 36L para Hombre](https://www.amazon.es/dp/B072PX2LYM/?tag=tolees-21) a 32.23 EUR (original: 99.95 EUR) (67.75 %  de descuento) en el siguiente enlace!

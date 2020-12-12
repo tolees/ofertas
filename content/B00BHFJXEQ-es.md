@@ -17,6 +17,9 @@ comparePrice: 40.99 EUR
 inStock: true
 prodname: 'Highlander Sleephaven  Sacos de Dormir  Azul  Azurblau   230 x 100 x 100 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BHFJXEQ/?tag=tolees-21'
+descuento: '36.81'
+titulo: 'Highlander Sleephaven  Sacos de Dormir  '
 ---
 
 Tienes [Highlander Sleephaven  Sacos de Dormir  Azul  Azurblau   230 x 100 x 100 cm](https://www.amazon.es/dp/B00BHFJXEQ/?tag=tolees-21) con un 36.81 % de descuento con precio de oferta de 25.9 EUR (original: 40.99 EUR) en el siguiente enlace!

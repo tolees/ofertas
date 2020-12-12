@@ -17,6 +17,9 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'EBL 004 Linterna LED de Mano Resistente al Agua  350 Lumen  Irradiación Distancia: 300-500m con 5 Modos  Perfecta para Ciclismo  Camping  Montañismo - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075FMLQY3/?tag=tolees-21'
+descuento: '37.55'
+titulo: 'EBL 004 Linterna LED de Mano Resistente '
 ---
 
 Tienes [EBL 004 Linterna LED de Mano Resistente al Agua  350 Lumen  Irradiación Distancia: 300-500m con 5 Modos  Perfecta para Ciclismo  Camping  Montañismo - Negro](https://www.amazon.es/dp/B075FMLQY3/?tag=tolees-21) con un 37.55 % de descuento con precio de oferta de 4.99 EUR (original: 7.99 EUR) en el siguiente enlace!

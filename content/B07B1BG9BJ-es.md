@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'BOSS Athleisure tee 13  Camiseta Hombre  Blanco  White 100   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B1BG9BJ/?tag=tolees-21'
+descuento: '61.08'
+titulo: 'BOSS Athleisure tee 13  Camiseta Hombre '
 ---
 
 Ahora mismo tienes [BOSS Athleisure tee 13  Camiseta Hombre  Blanco  White 100   X-Large](https://www.amazon.es/dp/B07B1BG9BJ/?tag=tolees-21) a 23.33 EUR (original: 59.95 EUR) (61.08 %  de descuento) en el siguiente enlace!

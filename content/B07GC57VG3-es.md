@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Puma ESS Small Logo tee T-Shirt  Hombre  White  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GC57VG3/?tag=tolees-21'
+descuento: '47.32'
+titulo: 'Puma ESS Small Logo tee T-Shirt  Hombre '
 ---
 
 Está [Puma ESS Small Logo tee T-Shirt  Hombre  White  M](https://www.amazon.es/dp/B07GC57VG3/?tag=tolees-21) con 47.32 de descuento por 10.51 EUR (original: 19.95 EUR) en el siguiente enlace!

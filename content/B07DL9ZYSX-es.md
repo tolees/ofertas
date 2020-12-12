@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Women s Secret Ca Llama PJ Conjuntos de Pijama  Mujer  Gris  Gris 43   XX-Large  Tamaño del Fabricante:XXL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL9ZYSX/?tag=tolees-21'
+descuento: '66.62'
+titulo: 'Women s Secret Ca Llama PJ Conjuntos de '
 ---
 
 Está [Women s Secret Ca Llama PJ Conjuntos de Pijama  Mujer  Gris  Gris 43   XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B07DL9ZYSX/?tag=tolees-21) con 66.62 de descuento por 11.68 EUR (original: 34.99 EUR) en el siguiente enlace!

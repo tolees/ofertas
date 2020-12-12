@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Hurley Shoreside 19 Bañador  Hombre  Azul  Ocean Bliss   XL/38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4JMQTF/?tag=tolees-21'
+descuento: '46.48'
+titulo: 'Hurley Shoreside 19 Bañador  Hombre  Azu'
 ---
 
 Ahora mismo tienes [Hurley Shoreside 19 Bañador  Hombre  Azul  Ocean Bliss   XL/38](https://www.amazon.es/dp/B07B4JMQTF/?tag=tolees-21) a 26.76 EUR (original: 50 EUR) (46.48 %  de descuento) en el siguiente enlace!

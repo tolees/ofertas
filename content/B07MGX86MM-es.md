@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros  Azul  clean medium aged 8968-A359   26W / 30L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MGX86MM/?tag=tolees-21'
+descuento: '81.27'
+titulo: 'G-STAR RAW Midge Saddle Mid-Waist Straig'
 ---
 
 Tienes [G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros  Azul  clean medium aged 8968-A359   26W / 30L para Mujer](https://www.amazon.es/dp/B07MGX86MM/?tag=tolees-21) con un 81.27 % de descuento con precio de oferta de 22.47 EUR (original: 119.95 EUR) en el siguiente enlace!

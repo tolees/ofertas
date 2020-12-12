@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SKW2634'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y5Z5DND/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Skagen Reloj Analógico para Mujer de Cua'
 ---
 
 Está [Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SKW2634](https://www.amazon.es/dp/B06Y5Z5DND/?tag=tolees-21) con 60.00 de descuento por 59.6 EUR (original: 149 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 13 EUR
 inStock: true
 prodname: 'Antony Morato Slip Stampata Ropa Interior Deportiva  6002  X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQLX131/?tag=tolees-21'
+descuento: '44.46'
+titulo: 'Antony Morato Slip Stampata Ropa Interio'
 ---
 
 Tienes [Antony Morato Slip Stampata Ropa Interior Deportiva  6002  X-Large para Hombre](https://www.amazon.es/dp/B07JQLX131/?tag=tolees-21) con un 44.46 % de descuento con precio de oferta de 7.22 EUR (original: 13 EUR) en el siguiente enlace!

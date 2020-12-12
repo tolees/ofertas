@@ -17,6 +17,9 @@ comparePrice: 58.99 EUR
 inStock: true
 prodname: 'SanDisk SDIB20N-032G-GN9KN - Base iXpand de 32 GB  Clavija para el Reino Unido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073XNWB9C/?tag=tolees-21'
+descuento: '84.71'
+titulo: 'SanDisk SDIB20N-032G-GN9KN - Base iXpand'
 ---
 
 Está [SanDisk SDIB20N-032G-GN9KN - Base iXpand de 32 GB  Clavija para el Reino Unido](https://www.amazon.es/dp/B073XNWB9C/?tag=tolees-21) con 84.71 de descuento por 9.02 EUR (original: 58.99 EUR) en el siguiente enlace!

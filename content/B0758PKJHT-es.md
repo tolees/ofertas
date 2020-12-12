@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Clarks Floura Mix  Zapatillas para Mujer  Azul  Ice Blue   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0758PKJHT/?tag=tolees-21'
+descuento: '50.97'
+titulo: 'Clarks Floura Mix  Zapatillas para Mujer'
 ---
 
 Ahora mismo tienes [Clarks Floura Mix  Zapatillas para Mujer  Azul  Ice Blue   40 EU](https://www.amazon.es/dp/B0758PKJHT/?tag=tolees-21) a 44.1 EUR (original: 89.95 EUR) (50.97 %  de descuento) en el siguiente enlace!

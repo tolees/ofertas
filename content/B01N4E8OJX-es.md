@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'ESPRIT 037ee1b016  Jeans Mujer  Azul  Blue Medium Wash   W28/L27  Talla del fabricante: 28 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4E8OJX/?tag=tolees-21'
+descuento: '68.33'
+titulo: 'ESPRIT 037ee1b016  Jeans Mujer  Azul  Bl'
 ---
 
 Está [ESPRIT 037ee1b016  Jeans Mujer  Azul  Blue Medium Wash   W28/L27  Talla del fabricante: 28 ](https://www.amazon.es/dp/B01N4E8OJX/?tag=tolees-21) con 68.33 de descuento por 19 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 554.95 EUR
 inStock: true
 prodname: 'DEWALT DCD996P2-QW - Taladro Percutor a bateria sin escobillas XR 18V XRP 13mm 95Nm con 2 baterías Li-Ion 5 0Ah con maletín TSTAK'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HR8MJ4W/?tag=tolees-21'
+descuento: '39.65'
+titulo: 'DEWALT DCD996P2-QW - Taladro Percutor a '
 ---
 
 Está [DEWALT DCD996P2-QW - Taladro Percutor a bateria sin escobillas XR 18V XRP 13mm 95Nm con 2 baterías Li-Ion 5 0Ah con maletín TSTAK](https://www.amazon.es/dp/B01HR8MJ4W/?tag=tolees-21) con 39.65 de descuento por 334.9 EUR (original: 554.95 EUR) en el siguiente enlace!

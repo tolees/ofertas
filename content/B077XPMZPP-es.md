@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Under Armour Fly by Printed Short - Pantalón Corto para Mujer  Mujer  1297126-439  Deceit/Black/Reflective  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XPMZPP/?tag=tolees-21'
+descuento: '79.47'
+titulo: 'Under Armour Fly by Printed Short - Pant'
 ---
 
 Ahora mismo tienes [Under Armour Fly by Printed Short - Pantalón Corto para Mujer  Mujer  1297126-439  Deceit/Black/Reflective  Large](https://www.amazon.es/dp/B077XPMZPP/?tag=tolees-21) a 6.16 EUR (original: 30 EUR) (79.47 %  de descuento) en el siguiente enlace!

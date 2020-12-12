@@ -17,6 +17,9 @@ comparePrice: 323 EUR
 inStock: true
 prodname: 'Bicicleta Sun Baja Cruz Mens Plata CB'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M9G1Z5S/?tag=tolees-21'
+descuento: '39.94'
+titulo: 'Bicicleta Sun Baja Cruz Mens Plata CB'
 ---
 
 Está [Bicicleta Sun Baja Cruz Mens Plata CB](https://www.amazon.es/dp/B01M9G1Z5S/?tag=tolees-21) con 39.94 de descuento por 194 EUR (original: 323 EUR) en el siguiente enlace!

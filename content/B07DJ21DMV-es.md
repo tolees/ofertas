@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Sweater L/s  suéter para Niñas  Azul  Blue 911  116  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ21DMV/?tag=tolees-21'
+descuento: '70.32'
+titulo: 'United Colors of Benetton Sweater L/s  s'
 ---
 
 Está [United Colors of Benetton Sweater L/s  suéter para Niñas  Azul  Blue 911  116  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07DJ21DMV/?tag=tolees-21) con 70.32 de descuento por 10.67 EUR (original: 35.95 EUR) en el siguiente enlace!

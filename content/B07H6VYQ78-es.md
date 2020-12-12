@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Regla de Medición Herramienta de Plantilla  Plegable Multi Angulo Regla de Medidas para Artesano  Constructor  Carpintero  Arquitecto【Aleación de Aluminio】'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H6VYQ78/?tag=tolees-21'
+descuento: '31.60'
+titulo: 'Regla de Medición Herramienta de Plantil'
 ---
 
 Está [Regla de Medición Herramienta de Plantilla  Plegable Multi Angulo Regla de Medidas para Artesano  Constructor  Carpintero  Arquitecto【Aleación de Aluminio】](https://www.amazon.es/dp/B07H6VYQ78/?tag=tolees-21) con 31.60 de descuento por 12.99 EUR (original: 18.99 EUR) en el siguiente enlace!

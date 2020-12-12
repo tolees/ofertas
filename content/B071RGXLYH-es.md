@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Levi s Icon Belt W  Cinturón Mujer  Morado  Dark Purple 49   90'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071RGXLYH/?tag=tolees-21'
+descuento: '56.33'
+titulo: 'Levi s Icon Belt W  Cinturón Mujer  Mora'
 ---
 
 Ahora mismo tienes [Levi s Icon Belt W  Cinturón Mujer  Morado  Dark Purple 49   90](https://www.amazon.es/dp/B071RGXLYH/?tag=tolees-21) a 19.65 EUR (original: 45 EUR) (56.33 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Attacc Straight - azul Hombre  Azul  Lt Aged Restored 6421   W34/L36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BGTJPO0/?tag=tolees-21'
+descuento: '80.69'
+titulo: 'G-STAR RAW Attacc Straight - azul Hombre'
 ---
 
 Está [G-STAR RAW Attacc Straight - azul Hombre  Azul  Lt Aged Restored 6421   W34/L36](https://www.amazon.es/dp/B01BGTJPO0/?tag=tolees-21) con 80.69 de descuento por 30.88 EUR (original: 159.95 EUR) en el siguiente enlace!

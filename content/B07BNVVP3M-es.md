@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Columbia Camden Chukka  Botas Hombre  Marfil  Ancient Fossil Grey Ice 271   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BNVVP3M/?tag=tolees-21'
+descuento: '69.99'
+titulo: 'Columbia Camden Chukka  Botas Hombre  Ma'
 ---
 
 Está [Columbia Camden Chukka  Botas Hombre  Marfil  Ancient Fossil Grey Ice 271   43 EU](https://www.amazon.es/dp/B07BNVVP3M/?tag=tolees-21) con 69.99 de descuento por 39.01 EUR (original: 129.99 EUR) en el siguiente enlace!

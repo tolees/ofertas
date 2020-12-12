@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'JACK & JONES Jjiglenn Jjoriginal Jj 981 50sps Noos  Jeans Hombre  Gris  Grey Denim   W36/L34  Talla del fabricante: 36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FF8AXLM/?tag=tolees-21'
+descuento: '69.03'
+titulo: 'JACK & JONES Jjiglenn Jjoriginal Jj 981 '
 ---
 
 Tienes [JACK & JONES Jjiglenn Jjoriginal Jj 981 50sps Noos  Jeans Hombre  Gris  Grey Denim   W36/L34  Talla del fabricante: 36 ](https://www.amazon.es/dp/B01FF8AXLM/?tag=tolees-21) con un 69.03 % de descuento con precio de oferta de 24.76 EUR (original: 79.95 EUR) en el siguiente enlace!

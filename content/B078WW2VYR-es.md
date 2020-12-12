@@ -17,6 +17,9 @@ comparePrice: 75.87 EUR
 inStock: true
 prodname: 'Munich Tiga  Zapatillas de Deporte Unisex Adulto  Multicolor  Yellow/Orange 023   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WW2VYR/?tag=tolees-21'
+descuento: '51.05'
+titulo: 'Munich Tiga  Zapatillas de Deporte Unise'
 ---
 
 Ahora mismo tienes [Munich Tiga  Zapatillas de Deporte Unisex Adulto  Multicolor  Yellow/Orange 023   43 EU](https://www.amazon.es/dp/B078WW2VYR/?tag=tolees-21) a 37.14 EUR (original: 75.87 EUR) (51.05 %  de descuento) en el siguiente enlace!

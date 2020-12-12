@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Esprit 029EE2B017 Pantalones  Azul  Navy 400   Talla de Fabricante : S para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MMY42LD/?tag=tolees-21'
+descuento: '81.47'
+titulo: 'Esprit 029EE2B017 Pantalones  Azul  Navy'
 ---
 
 Está [Esprit 029EE2B017 Pantalones  Azul  Navy 400   Talla de Fabricante : S para Hombre](https://www.amazon.es/dp/B07MMY42LD/?tag=tolees-21) con 81.47 de descuento por 7.41 EUR (original: 39.99 EUR) en el siguiente enlace!

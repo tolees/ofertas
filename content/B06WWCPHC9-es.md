@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Go Step Lite-Effortless  Entrenadores para Mujer  Negro  Black/White   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WWCPHC9/?tag=tolees-21'
+descuento: '59.58'
+titulo: 'Skechers Go Step Lite-Effortless  Entren'
 ---
 
 Tienes [Skechers Go Step Lite-Effortless  Entrenadores para Mujer  Negro  Black/White   39 EU](https://www.amazon.es/dp/B06WWCPHC9/?tag=tolees-21) con un 59.58 % de descuento con precio de oferta de 26.25 EUR (original: 64.95 EUR) en el siguiente enlace!

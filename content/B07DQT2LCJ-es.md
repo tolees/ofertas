@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Minions Backpack  Unisex niños  Black  OSFA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQT2LCJ/?tag=tolees-21'
+descuento: '40.08'
+titulo: 'Puma Minions Backpack  Unisex niños  Bla'
 ---
 
 Tienes [Puma Minions Backpack  Unisex niños  Black  OSFA](https://www.amazon.es/dp/B07DQT2LCJ/?tag=tolees-21) con un 40.08 % de descuento con precio de oferta de 14.95 EUR (original: 24.95 EUR) en el siguiente enlace!

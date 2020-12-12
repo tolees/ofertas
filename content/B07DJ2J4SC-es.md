@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance 247v1  Zapatillas para Hombre  Blanco  White/Silver Om   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ2J4SC/?tag=tolees-21'
+descuento: '25.12'
+titulo: 'New Balance 247v1  Zapatillas para Hombr'
 ---
 
 Está [New Balance 247v1  Zapatillas para Hombre  Blanco  White/Silver Om   40.5 EU](https://www.amazon.es/dp/B07DJ2J4SC/?tag=tolees-21) con 25.12 de descuento por 59.9 EUR (original: 80 EUR) en el siguiente enlace!

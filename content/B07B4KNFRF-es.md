@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'New Gundam Breaker'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4KNFRF/?tag=tolees-21'
+descuento: '78.63'
+titulo: 'New Gundam Breaker'
 ---
 
 Ahora mismo tienes [New Gundam Breaker](https://www.amazon.es/dp/B07B4KNFRF/?tag=tolees-21) a 12.82 EUR (original: 59.99 EUR) (78.63 %  de descuento) en el siguiente enlace!

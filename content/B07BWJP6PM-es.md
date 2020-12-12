@@ -17,6 +17,9 @@ comparePrice: 24.9 EUR
 inStock: true
 prodname: 'Eono Essentials – Calcetines de running para hombre y mujer  paquete de 3 uds.   Negro  tallas 43-46'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BWJP6PM/?tag=tolees-21'
+descuento: '52.49'
+titulo: 'Eono Essentials – Calcetines de running '
 ---
 
 Está [Eono Essentials – Calcetines de running para hombre y mujer  paquete de 3 uds.   Negro  tallas 43-46](https://www.amazon.es/dp/B07BWJP6PM/?tag=tolees-21) con 52.49 de descuento por 11.83 EUR (original: 24.9 EUR) en el siguiente enlace!

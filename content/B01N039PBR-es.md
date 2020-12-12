@@ -17,6 +17,9 @@ comparePrice: 9 EUR
 inStock: true
 prodname: 'Umbro Oblivion Camiseta de fútbol  Hombre  Naranja  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N039PBR/?tag=tolees-21'
+descuento: '33.89'
+titulo: 'Umbro Oblivion Camiseta de fútbol  Hombr'
 ---
 
 Está [Umbro Oblivion Camiseta de fútbol  Hombre  Naranja  L](https://www.amazon.es/dp/B01N039PBR/?tag=tolees-21) con 33.89 de descuento por 5.95 EUR (original: 9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Dolores Promesas 107234  Vestido para Mujer  Blanco Crudo  Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7MD3BM/?tag=tolees-21'
+descuento: '56.31'
+titulo: 'Dolores Promesas 107234  Vestido para Mu'
 ---
 
 Ahora mismo tienes [Dolores Promesas 107234  Vestido para Mujer  Blanco Crudo  Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07D7MD3BM/?tag=tolees-21) a 30.54 EUR (original: 69.9 EUR) (56.31 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 58.49 EUR
 inStock: true
 prodname: 'SUHU Taburete De Almacenamiento Banco Puff Asiento Lino Baul Puf Otomana Almacenaje Redonda Baules Dormitorio Patas De Madera Gris Oscuro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHFD39M/?tag=tolees-21'
+descuento: '43.60'
+titulo: 'SUHU Taburete De Almacenamiento Banco Pu'
 ---
 
 Está [SUHU Taburete De Almacenamiento Banco Puff Asiento Lino Baul Puf Otomana Almacenaje Redonda Baules Dormitorio Patas De Madera Gris Oscuro](https://www.amazon.es/dp/B07BHFD39M/?tag=tolees-21) con 43.60 de descuento por 32.99 EUR (original: 58.49 EUR) en el siguiente enlace!

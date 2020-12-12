@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Only Onlroxanne L/s Pullover CC Knt suéter   Light Grey Melange Detail:w. Dgm Stars   40  Talla del Fabricante: Large  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0711VXNRX/?tag=tolees-21'
+descuento: '52.75'
+titulo: 'Only Onlroxanne L/s Pullover CC Knt suét'
 ---
 
 Tienes [Only Onlroxanne L/s Pullover CC Knt suéter   Light Grey Melange Detail:w. Dgm Stars   40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B0711VXNRX/?tag=tolees-21) con un 52.75 % de descuento con precio de oferta de 14.17 EUR (original: 29.99 EUR) en el siguiente enlace!

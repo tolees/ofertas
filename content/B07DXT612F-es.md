@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Under Armour Raid - Camiseta de Manga Larga con Cremallera 1/4 para niño  Niños  1318170-489  Techno Teal/Deceit  para jóvenes XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DXT612F/?tag=tolees-21'
+descuento: '72.66'
+titulo: 'Under Armour Raid - Camiseta de Manga La'
 ---
 
 Está [Under Armour Raid - Camiseta de Manga Larga con Cremallera 1/4 para niño  Niños  1318170-489  Techno Teal/Deceit  para jóvenes XS](https://www.amazon.es/dp/B07DXT612F/?tag=tolees-21) con 72.66 de descuento por 9.57 EUR (original: 35 EUR) en el siguiente enlace!

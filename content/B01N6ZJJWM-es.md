@@ -17,6 +17,9 @@ comparePrice: 27.7 EUR
 inStock: true
 prodname: 'Morgan Top  Camiseta para Mujer  Gris Acier/Noir  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6ZJJWM/?tag=tolees-21'
+descuento: '55.16'
+titulo: 'Morgan Top  Camiseta para Mujer  Gris Ac'
 ---
 
 Está [Morgan Top  Camiseta para Mujer  Gris Acier/Noir  M](https://www.amazon.es/dp/B01N6ZJJWM/?tag=tolees-21) con 55.16 de descuento por 12.42 EUR (original: 27.7 EUR) en el siguiente enlace!

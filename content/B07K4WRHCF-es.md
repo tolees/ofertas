@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorantwon Sweat Hood  Capucha Hombre  Gris  Light Grey Melange Fit: Slim Originals   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K4WRHCF/?tag=tolees-21'
+descuento: '61.79'
+titulo: 'JACK & JONES Jorantwon Sweat Hood  Capuc'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorantwon Sweat Hood  Capucha Hombre  Gris  Light Grey Melange Fit: Slim Originals   X-Large](https://www.amazon.es/dp/B07K4WRHCF/?tag=tolees-21) a 11.46 EUR (original: 29.99 EUR) (61.79 %  de descuento) en el siguiente enlace!

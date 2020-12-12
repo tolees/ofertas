@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Gant Elastic Braid Belt Cinturón  Azul  Marine 410   95  Talla del fabricante: 80  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2X5NZF/?tag=tolees-21'
+descuento: '37.33'
+titulo: 'Gant Elastic Braid Belt Cinturón  Azul  '
 ---
 
 Ahora mismo tienes [Gant Elastic Braid Belt Cinturón  Azul  Marine 410   95  Talla del fabricante: 80  para Hombre](https://www.amazon.es/dp/B01N2X5NZF/?tag=tolees-21) a 43.86 EUR (original: 69.99 EUR) (37.33 %  de descuento) en el siguiente enlace!

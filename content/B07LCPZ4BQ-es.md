@@ -17,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'PANAMA JACK Gunter  Zapatillas Altas para Hombre  Azul  Navy C8   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LCPZ4BQ/?tag=tolees-21'
+descuento: '72.62'
+titulo: 'PANAMA JACK Gunter  Zapatillas Altas par'
 ---
 
 Ahora mismo tienes [PANAMA JACK Gunter  Zapatillas Altas para Hombre  Azul  Navy C8   41 EU](https://www.amazon.es/dp/B07LCPZ4BQ/?tag=tolees-21) a 43.53 EUR (original: 159 EUR) (72.62 %  de descuento) en el siguiente enlace!

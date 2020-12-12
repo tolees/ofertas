@@ -17,6 +17,9 @@ comparePrice: 13.79 EUR
 inStock: true
 prodname: 'Brennenstuhl Eco-Line regleta de enchufes con soporte/interruptor  blanco  1152621'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000WKJW0W/?tag=tolees-21'
+descuento: '60.26'
+titulo: 'Brennenstuhl Eco-Line regleta de enchufe'
 ---
 
 Tienes [Brennenstuhl Eco-Line regleta de enchufes con soporte/interruptor  blanco  1152621](https://www.amazon.es/dp/B000WKJW0W/?tag=tolees-21) con un 60.26 % de descuento con precio de oferta de 5.48 EUR (original: 13.79 EUR) en el siguiente enlace!

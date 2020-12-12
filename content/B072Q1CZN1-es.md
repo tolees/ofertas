@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Under Armour UA Slingflex Mid  Zapatillas de Entrenamiento para Hombre  Negro  Black 001   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072Q1CZN1/?tag=tolees-21'
+descuento: '59.08'
+titulo: 'Under Armour UA Slingflex Mid  Zapatilla'
 ---
 
 Ahora mismo tienes [Under Armour UA Slingflex Mid  Zapatillas de Entrenamiento para Hombre  Negro  Black 001   42.5 EU](https://www.amazon.es/dp/B072Q1CZN1/?tag=tolees-21) a 45.01 EUR (original: 110 EUR) (59.08 %  de descuento) en el siguiente enlace!

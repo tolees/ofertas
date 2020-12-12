@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: '!Solid Pants - Galo Stretch Pantalones  Hombre  Verde  Aloe    Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077H3P9YW/?tag=tolees-21'
+descuento: '67.49'
+titulo: '!Solid Pants - Galo Stretch Pantalones  '
 ---
 
 Ahora mismo tienes [!Solid Pants - Galo Stretch Pantalones  Hombre  Verde  Aloe    Tamaño del Fabricante:L ](https://www.amazon.es/dp/B077H3P9YW/?tag=tolees-21) a 16.24 EUR (original: 49.95 EUR) (67.49 %  de descuento) en el siguiente enlace!

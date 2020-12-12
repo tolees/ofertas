@@ -17,6 +17,9 @@ comparePrice: 269.95 EUR
 inStock: true
 prodname: 'TomTom Runner Cardio - Reloj con GPS para correr  color Negro  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JF2QK62/?tag=tolees-21'
+descuento: '34.75'
+titulo: 'TomTom Runner Cardio - Reloj con GPS par'
 ---
 
 Está [TomTom Runner Cardio - Reloj con GPS para correr  color Negro  Talla única](https://www.amazon.es/dp/B00JF2QK62/?tag=tolees-21) con 34.75 de descuento por 176.13 EUR (original: 269.95 EUR) en el siguiente enlace!

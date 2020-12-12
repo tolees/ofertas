@@ -17,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'Reebok Floatride Run Flexweave  Zapatillas de Cross para Hombre   White/Blue Move/Atomic Red 000   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FCNKZBQ/?tag=tolees-21'
+descuento: '82.29'
+titulo: 'Reebok Floatride Run Flexweave  Zapatill'
 ---
 
 Está [Reebok Floatride Run Flexweave  Zapatillas de Cross para Hombre   White/Blue Move/Atomic Red 000   39 EU](https://www.amazon.es/dp/B07FCNKZBQ/?tag=tolees-21) con 82.29 de descuento por 26.56 EUR (original: 149.95 EUR) en el siguiente enlace!

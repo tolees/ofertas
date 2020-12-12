@@ -17,6 +17,9 @@ comparePrice: 215 EUR
 inStock: true
 prodname: 'Libertine Libertine Essens  Blusa Mujer  Azul  Peacoat Stripe 4   40  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0714LPPXC/?tag=tolees-21'
+descuento: '88.91'
+titulo: 'Libertine Libertine Essens  Blusa Mujer '
 ---
 
 Tienes [Libertine Libertine Essens  Blusa Mujer  Azul  Peacoat Stripe 4   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B0714LPPXC/?tag=tolees-21) con un 88.91 % de descuento con precio de oferta de 23.85 EUR (original: 215 EUR) en el siguiente enlace!

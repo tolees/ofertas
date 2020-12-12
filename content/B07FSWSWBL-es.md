@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Clarks Step Cali Cove  Zapatillas para Mujer  Rojo  Rose-   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSWSWBL/?tag=tolees-21'
+descuento: '48.43'
+titulo: 'Clarks Step Cali Cove  Zapatillas para M'
 ---
 
 Está [Clarks Step Cali Cove  Zapatillas para Mujer  Rojo  Rose-   37.5 EU](https://www.amazon.es/dp/B07FSWSWBL/?tag=tolees-21) con 48.43 de descuento por 36.07 EUR (original: 69.95 EUR) en el siguiente enlace!

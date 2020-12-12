@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 39or009  Zapatillas Altas para Hombre  Amarillo  Golden Tan 910   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJBLFDJ/?tag=tolees-21'
+descuento: '41.06'
+titulo: 'Dockers by Gerli 39or009  Zapatillas Alt'
 ---
 
 Está [Dockers by Gerli 39or009  Zapatillas Altas para Hombre  Amarillo  Golden Tan 910   45 EU](https://www.amazon.es/dp/B07DJBLFDJ/?tag=tolees-21) con 41.06 de descuento por 47.12 EUR (original: 79.95 EUR) en el siguiente enlace!

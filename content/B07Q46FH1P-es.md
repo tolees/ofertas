@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Emma & Giovanni - T-Shirt Algodón Manga Corta - Hombre  Blanco  XXL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q46FH1P/?tag=tolees-21'
+descuento: '71.71'
+titulo: 'Emma & Giovanni - T-Shirt Algodón Manga '
 ---
 
 Tienes [Emma & Giovanni - T-Shirt Algodón Manga Corta - Hombre  Blanco  XXL ](https://www.amazon.es/dp/B07Q46FH1P/?tag=tolees-21) con un 71.71 % de descuento con precio de oferta de 9.9 EUR (original: 35 EUR) en el siguiente enlace!

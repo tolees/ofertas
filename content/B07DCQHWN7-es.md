@@ -17,6 +17,9 @@ comparePrice: 22.28 EUR
 inStock: true
 prodname: 'Regla de nivel láser  para mediciones horizontales y verticales con trípode  precisa de 0.05 mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCQHWN7/?tag=tolees-21'
+descuento: '36.71'
+titulo: 'Regla de nivel láser  para mediciones ho'
 ---
 
 Ahora mismo tienes [Regla de nivel láser  para mediciones horizontales y verticales con trípode  precisa de 0.05 mm](https://www.amazon.es/dp/B07DCQHWN7/?tag=tolees-21) a 14.1 EUR (original: 22.28 EUR) (36.71 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Vans Authentic  Zapatillas Unisex Adulto  Marrón  Leather   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DXAB6W4/?tag=tolees-21'
+descuento: '52.88'
+titulo: 'Vans Authentic  Zapatillas Unisex Adulto'
 ---
 
 Ahora mismo tienes [Vans Authentic  Zapatillas Unisex Adulto  Marrón  Leather   39 EU](https://www.amazon.es/dp/B01DXAB6W4/?tag=tolees-21) a 40.05 EUR (original: 85 EUR) (52.88 %  de descuento) en el siguiente enlace!

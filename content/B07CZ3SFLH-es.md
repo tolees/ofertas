@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Puma Ignite Limitless 2  Zapatillas de Running Unisex Adulto  Blanco White Black  42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ3SFLH/?tag=tolees-21'
+descuento: '60.02'
+titulo: 'Puma Ignite Limitless 2  Zapatillas de R'
 ---
 
 Está [Puma Ignite Limitless 2  Zapatillas de Running Unisex Adulto  Blanco White Black  42.5 EU](https://www.amazon.es/dp/B07CZ3SFLH/?tag=tolees-21) con 60.02 de descuento por 43.96 EUR (original: 109.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'MSI B450M Mortar Titanium - Placa Base  AM4  AMD B450  1 x PCI-E 3.0 x16 Slot + 1 x PCE-E 2.0 x16  DDR4 hasta 3466 MHz  HMDI  4 x SATA 6Gb/s '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQCSVYC/?tag=tolees-21'
+descuento: '92.56'
+titulo: 'MSI B450M Mortar Titanium - Placa Base  '
 ---
 
 Está [MSI B450M Mortar Titanium - Placa Base  AM4  AMD B450  1 x PCI-E 3.0 x16 Slot + 1 x PCE-E 2.0 x16  DDR4 hasta 3466 MHz  HMDI  4 x SATA 6Gb/s ](https://www.amazon.es/dp/B07FQCSVYC/?tag=tolees-21) con 92.56 de descuento por 7.43 EUR (original: 99.9 EUR) en el siguiente enlace!

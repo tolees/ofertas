@@ -17,6 +17,9 @@ comparePrice: 9.9 EUR
 inStock: true
 prodname: 'Superalimento NaturGreen Experience Espirulina - 175 gr.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UMZDSOI/?tag=tolees-21'
+descuento: '53.13'
+titulo: 'Superalimento NaturGreen Experience Espi'
 ---
 
 Tienes [Superalimento NaturGreen Experience Espirulina - 175 gr.](https://www.amazon.es/dp/B00UMZDSOI/?tag=tolees-21) con un 53.13 % de descuento con precio de oferta de 4.64 EUR (original: 9.9 EUR) en el siguiente enlace!

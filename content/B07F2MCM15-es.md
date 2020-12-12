@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Vans Classic Zip Hoodie Capucha  Rojo  Jazzy-Black TD   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2MCM15/?tag=tolees-21'
+descuento: '62.09'
+titulo: 'Vans Classic Zip Hoodie Capucha  Rojo  J'
 ---
 
 Tienes [Vans Classic Zip Hoodie Capucha  Rojo  Jazzy-Black TD   Small para Hombre](https://www.amazon.es/dp/B07F2MCM15/?tag=tolees-21) con un 62.09 % de descuento con precio de oferta de 26.54 EUR (original: 70 EUR) en el siguiente enlace!

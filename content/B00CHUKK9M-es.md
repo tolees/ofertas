@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'caseable - Funda para Kindle y Kindle Paperwhite  diseño de París'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CHUKK9M/?tag=tolees-21'
+descuento: '37.51'
+titulo: 'caseable - Funda para Kindle y Kindle Pa'
 ---
 
 Tienes [caseable - Funda para Kindle y Kindle Paperwhite  diseño de París](https://www.amazon.es/dp/B00CHUKK9M/?tag=tolees-21) con un 37.51 % de descuento con precio de oferta de 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

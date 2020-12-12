@@ -17,6 +17,9 @@ comparePrice: 50.28 EUR
 inStock: true
 prodname: 'Pikolin Home - Almohada viscoelástica  desenfundable   firmeza media  35x70cm  altura 12cm  Todas las medidas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U2IIAI4/?tag=tolees-21'
+descuento: '47.30'
+titulo: 'Pikolin Home - Almohada viscoelástica  d'
 ---
 
 Tienes [Pikolin Home - Almohada viscoelástica  desenfundable   firmeza media  35x70cm  altura 12cm  Todas las medidas ](https://www.amazon.es/dp/B00U2IIAI4/?tag=tolees-21) con un 47.30 % de descuento con precio de oferta de 26.5 EUR (original: 50.28 EUR) en el siguiente enlace!

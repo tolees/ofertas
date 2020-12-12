@@ -17,6 +17,9 @@ comparePrice: 17.97 EUR
 inStock: true
 prodname: 'Tiras de prueba de pH para probar niveles alcalinos y ácidos en el cuerpo. Rastree y controle su nivel de pH usando saliva y orina. Obtenga resultados muy precisos en segundos. 125 tiras por botella'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GFSEB00/?tag=tolees-21'
+descuento: '50.08'
+titulo: 'Tiras de prueba de pH para probar nivele'
 ---
 
 Está [Tiras de prueba de pH para probar niveles alcalinos y ácidos en el cuerpo. Rastree y controle su nivel de pH usando saliva y orina. Obtenga resultados muy precisos en segundos. 125 tiras por botella](https://www.amazon.es/dp/B01GFSEB00/?tag=tolees-21) con 50.08 de descuento por 8.97 EUR (original: 17.97 EUR) en el siguiente enlace!

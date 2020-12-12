@@ -17,6 +17,9 @@ comparePrice: 86.9 EUR
 inStock: true
 prodname: 'Sulion Hydra Regleta de 2 Focos LED Apta para Baño GU10 10 W Metal  Gris 45 x 11.5 x 11 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06ZZBV1ST/?tag=tolees-21'
+descuento: '72.38'
+titulo: 'Sulion Hydra Regleta de 2 Focos LED Apta'
 ---
 
 Está [Sulion Hydra Regleta de 2 Focos LED Apta para Baño GU10 10 W Metal  Gris 45 x 11.5 x 11 cm](https://www.amazon.es/dp/B06ZZBV1ST/?tag=tolees-21) con 72.38 de descuento por 24 EUR (original: 86.9 EUR) en el siguiente enlace!

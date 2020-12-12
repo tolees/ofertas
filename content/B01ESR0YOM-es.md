@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'STAR WARS Camiseta Manga Corta Chewie Marrón Oscuro 11-12 años  146/152 cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ESR0YOM/?tag=tolees-21'
+descuento: '31.70'
+titulo: 'STAR WARS Camiseta Manga Corta Chewie Ma'
 ---
 
 Está [STAR WARS Camiseta Manga Corta Chewie Marrón Oscuro 11-12 años  146/152 cm ](https://www.amazon.es/dp/B01ESR0YOM/?tag=tolees-21) con 31.70 de descuento por 13.66 EUR (original: 20 EUR) en el siguiente enlace!

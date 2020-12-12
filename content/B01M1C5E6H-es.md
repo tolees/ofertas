@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Samsonite Sideways Laptop Sleeve 13.3" Bolso Bandolera  6.2 litros  Color Azul/Naranja'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M1C5E6H/?tag=tolees-21'
+descuento: '30.88'
+titulo: 'Samsonite Sideways Laptop Sleeve 13.3" B'
 ---
 
 Está [Samsonite Sideways Laptop Sleeve 13.3" Bolso Bandolera  6.2 litros  Color Azul/Naranja](https://www.amazon.es/dp/B01M1C5E6H/?tag=tolees-21) con 30.88 de descuento por 33.87 EUR (original: 49 EUR) en el siguiente enlace!

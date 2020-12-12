@@ -17,6 +17,9 @@ comparePrice: 7.65 EUR
 inStock: true
 prodname: 'Rotulador puntafina STABILO point 88 mini - Estuche con 12 colores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000OZNB8O/?tag=tolees-21'
+descuento: '27.06'
+titulo: 'Rotulador puntafina STABILO point 88 min'
 ---
 
 Ahora mismo tienes [Rotulador puntafina STABILO point 88 mini - Estuche con 12 colores](https://www.amazon.es/dp/B000OZNB8O/?tag=tolees-21) a 5.58 EUR (original: 7.65 EUR) (27.06 %  de descuento) en el siguiente enlace!

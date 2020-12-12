@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Antena de TV  Antena Interior HDTV con Amplificador Portatil  Rango de 96-200 KM  Soporte 4K 1080p y Todos los televisores de Interior TV de Antena'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QXVVNWM/?tag=tolees-21'
+descuento: '71.44'
+titulo: 'Antena de TV  Antena Interior HDTV con A'
 ---
 
 Está [Antena de TV  Antena Interior HDTV con Amplificador Portatil  Rango de 96-200 KM  Soporte 4K 1080p y Todos los televisores de Interior TV de Antena](https://www.amazon.es/dp/B07QXVVNWM/?tag=tolees-21) con 71.44 de descuento por 19.99 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Reebok Trainflex Lite  Zapatillas de Deporte Mujer  Morado  Alloy/Vicious Violet/Skull Grey/White   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QWGX8L/?tag=tolees-21'
+descuento: '70.25'
+titulo: 'Reebok Trainflex Lite  Zapatillas de Dep'
 ---
 
 Tienes [Reebok Trainflex Lite  Zapatillas de Deporte Mujer  Morado  Alloy/Vicious Violet/Skull Grey/White   38.5 EU](https://www.amazon.es/dp/B073QWGX8L/?tag=tolees-21) con un 70.25 % de descuento con precio de oferta de 19.32 EUR (original: 64.95 EUR) en el siguiente enlace!

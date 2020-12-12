@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'A NEW ERA Era Speckle Rise Chibul OTC Gorra  Hombre  Rojo  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SSXJTM/?tag=tolees-21'
+descuento: '27.60'
+titulo: 'A NEW ERA Era Speckle Rise Chibul OTC Go'
 ---
 
 Tienes [A NEW ERA Era Speckle Rise Chibul OTC Gorra  Hombre  Rojo  Talla Única](https://www.amazon.es/dp/B075SSXJTM/?tag=tolees-21) con un 27.60 % de descuento con precio de oferta de 25.34 EUR (original: 35 EUR) en el siguiente enlace!

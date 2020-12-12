@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Volcom Super Clean BSC SS Camiseta  Hombre  Cyan Blue  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KMV8MT1/?tag=tolees-21'
+descuento: '57.80'
+titulo: 'Volcom Super Clean BSC SS Camiseta  Homb'
 ---
 
 Está [Volcom Super Clean BSC SS Camiseta  Hombre  Cyan Blue  XL](https://www.amazon.es/dp/B07KMV8MT1/?tag=tolees-21) con 57.80 de descuento por 12.66 EUR (original: 30 EUR) en el siguiente enlace!

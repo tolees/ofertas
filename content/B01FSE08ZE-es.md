@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance 790v6  Zapatillas Deportivas para Interior para Hombre   Black/Orange   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FSE08ZE/?tag=tolees-21'
+descuento: '58.89'
+titulo: 'New Balance 790v6  Zapatillas Deportivas'
 ---
 
 Tienes [New Balance 790v6  Zapatillas Deportivas para Interior para Hombre   Black/Orange   44 EU](https://www.amazon.es/dp/B01FSE08ZE/?tag=tolees-21) con un 58.89 % de descuento con precio de oferta de 32.89 EUR (original: 80 EUR) en el siguiente enlace!

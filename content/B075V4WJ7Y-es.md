@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Meidong 2110 Altavoz Bluetooth Inalámbrico Portatil 12W con mejores Bajos 12 Horas de Reproducción resistente al agua Mic incorporado-Speaker inalámbrico de dos controladores para iPhone  Android'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075V4WJ7Y/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Meidong 2110 Altavoz Bluetooth Inalámbri'
 ---
 
 Ahora mismo tienes [Meidong 2110 Altavoz Bluetooth Inalámbrico Portatil 12W con mejores Bajos 12 Horas de Reproducción resistente al agua Mic incorporado-Speaker inalámbrico de dos controladores para iPhone  Android](https://www.amazon.es/dp/B075V4WJ7Y/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

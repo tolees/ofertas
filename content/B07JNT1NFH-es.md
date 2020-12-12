@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorantwon Sweat Hood  Capucha para Hombre  Azul  Total Eclipse Fit: Reg Originals   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JNT1NFH/?tag=tolees-21'
+descuento: '65.16'
+titulo: 'JACK & JONES Jorantwon Sweat Hood  Capuc'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorantwon Sweat Hood  Capucha para Hombre  Azul  Total Eclipse Fit: Reg Originals   Small](https://www.amazon.es/dp/B07JNT1NFH/?tag=tolees-21) a 10.45 EUR (original: 29.99 EUR) (65.16 %  de descuento) en el siguiente enlace!

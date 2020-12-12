@@ -17,6 +17,9 @@ comparePrice: 108.46 EUR
 inStock: true
 prodname: 'adidas Originals Stan Smith  Zapatillas de Deporte Unisex Adulto  Blanco FTW/Running White/Fairway  47 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LUIKXUI/?tag=tolees-21'
+descuento: '40.84'
+titulo: 'adidas Originals Stan Smith  Zapatillas '
 ---
 
 Tienes [adidas Originals Stan Smith  Zapatillas de Deporte Unisex Adulto  Blanco FTW/Running White/Fairway  47 1/3 EU](https://www.amazon.es/dp/B00LUIKXUI/?tag=tolees-21) con un 40.84 % de descuento con precio de oferta de 64.17 EUR (original: 108.46 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65.52 EUR
 inStock: true
 prodname: 'HEYDA - HEYDA Rübans adhesifs deco"Deko-Tapes Frühling"  presentoir'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BQ33RGY/?tag=tolees-21'
+descuento: '82.80'
+titulo: 'HEYDA - HEYDA Rübans adhesifs deco"Deko-'
 ---
 
 Tienes [HEYDA - HEYDA Rübans adhesifs deco"Deko-Tapes Frühling"  presentoir](https://www.amazon.es/dp/B00BQ33RGY/?tag=tolees-21) con un 82.80 % de descuento con precio de oferta de 11.27 EUR (original: 65.52 EUR) en el siguiente enlace!

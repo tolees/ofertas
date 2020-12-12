@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Nike Mochila  One Size  Obsidian/Black/Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079YXM1BD/?tag=tolees-21'
+descuento: '36.83'
+titulo: 'Nike Mochila  One Size  Obsidian/Black/B'
 ---
 
 Ahora mismo tienes [Nike Mochila  One Size  Obsidian/Black/Black](https://www.amazon.es/dp/B079YXM1BD/?tag=tolees-21) a 18.95 EUR (original: 30 EUR) (36.83 %  de descuento) en el siguiente enlace!

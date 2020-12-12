@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour Micro G Pursuit  Zapatillas de Running para Hombre  Gris  Jet White/Pitch Gray 113   44/45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTPLT4W/?tag=tolees-21'
+descuento: '31.37'
+titulo: 'Under Armour Micro G Pursuit  Zapatillas'
 ---
 
 Ahora mismo tienes [Under Armour Micro G Pursuit  Zapatillas de Running para Hombre  Gris  Jet White/Pitch Gray 113   44/45 EU](https://www.amazon.es/dp/B07CTPLT4W/?tag=tolees-21) a 48.04 EUR (original: 70 EUR) (31.37 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Intex 59421NP - Piscina hinchable  modelo estrellas  2 aros  122 x 25 cm  150 litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0002KPGCU/?tag=tolees-21'
+descuento: '30.58'
+titulo: 'Intex 59421NP - Piscina hinchable  model'
 ---
 
 Ahora mismo tienes [Intex 59421NP - Piscina hinchable  modelo estrellas  2 aros  122 x 25 cm  150 litros](https://www.amazon.es/dp/B0002KPGCU/?tag=tolees-21) a 8.99 EUR (original: 12.95 EUR) (30.58 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmheart LS O-Neck Blouse Nvl  suéter Mujer   Misty Rose Pattern: Chinese Red + Snow White Peat   36  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPXYJDJ/?tag=tolees-21'
+descuento: '65.62'
+titulo: 'Vero Moda Vmheart LS O-Neck Blouse Nvl  '
 ---
 
 Está [Vero Moda Vmheart LS O-Neck Blouse Nvl  suéter Mujer   Misty Rose Pattern: Chinese Red + Snow White Peat   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07FPXYJDJ/?tag=tolees-21) con 65.62 de descuento por 7.56 EUR (original: 21.99 EUR) en el siguiente enlace!

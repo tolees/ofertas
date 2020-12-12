@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 574v2  Zapatillas para Hombre  Gris Rain Cloud Etc  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFRD4DR/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'New Balance 574v2  Zapatillas para Hombr'
 ---
 
 Ahora mismo tienes [New Balance 574v2  Zapatillas para Hombre  Gris Rain Cloud Etc  44 EU](https://www.amazon.es/dp/B07DFRD4DR/?tag=tolees-21) a 54 EUR (original: 90 EUR) (40.00 %  de descuento) en el siguiente enlace!

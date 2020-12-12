@@ -17,6 +17,9 @@ comparePrice: 44.9 EUR
 inStock: true
 prodname: 'Crocs Specialist Vent U  Zuecos Unisex Adulto  Blanco  White   42/43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005ANIW5M/?tag=tolees-21'
+descuento: '36.33'
+titulo: 'Crocs Specialist Vent U  Zuecos Unisex A'
 ---
 
 Está [Crocs Specialist Vent U  Zuecos Unisex Adulto  Blanco  White   42/43 EU](https://www.amazon.es/dp/B005ANIW5M/?tag=tolees-21) con 36.33 de descuento por 28.59 EUR (original: 44.9 EUR) en el siguiente enlace!

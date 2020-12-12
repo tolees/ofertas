@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Only Onlyucca L/s Pullover Knt suéter   Night Sky Stripes: W Cloud Dancer   38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078VMD57M/?tag=tolees-21'
+descuento: '49.82'
+titulo: 'Only Onlyucca L/s Pullover Knt suéter   '
 ---
 
 Tienes [Only Onlyucca L/s Pullover Knt suéter   Night Sky Stripes: W Cloud Dancer   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B078VMD57M/?tag=tolees-21) con un 49.82 % de descuento con precio de oferta de 15.05 EUR (original: 29.99 EUR) en el siguiente enlace!

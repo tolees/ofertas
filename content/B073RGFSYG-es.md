@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Adidas Aerobounce ST m  Zapatillas de Trail Running para Hombre  Naranja  Narsol/Negbás/Gricin 000  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RGFSYG/?tag=tolees-21'
+descuento: '52.05'
+titulo: 'Adidas Aerobounce ST m  Zapatillas de Tr'
 ---
 
 Está [Adidas Aerobounce ST m  Zapatillas de Trail Running para Hombre  Naranja  Narsol/Negbás/Gricin 000  42 EU](https://www.amazon.es/dp/B073RGFSYG/?tag=tolees-21) con 52.05 de descuento por 47.93 EUR (original: 99.95 EUR) en el siguiente enlace!

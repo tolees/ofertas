@@ -17,6 +17,9 @@ comparePrice: 80.48 EUR
 inStock: true
 prodname: 'Terry - Armario plástico exterior  68 x 37.5 x 170 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00YSNSE12/?tag=tolees-21'
+descuento: '26.69'
+titulo: 'Terry - Armario plástico exterior  68 x '
 ---
 
 Tienes [Terry - Armario plástico exterior  68 x 37.5 x 170 cm](https://www.amazon.es/dp/B00YSNSE12/?tag=tolees-21) con un 26.69 % de descuento con precio de oferta de 59 EUR (original: 80.48 EUR) en el siguiente enlace!

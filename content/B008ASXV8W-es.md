@@ -17,6 +17,9 @@ comparePrice: 78.65 EUR
 inStock: true
 prodname: 'Honeywell ZPFL1 - Detector gas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008ASXV8W/?tag=tolees-21'
+descuento: '55.94'
+titulo: 'Honeywell ZPFL1 - Detector gas'
 ---
 
 Está [Honeywell ZPFL1 - Detector gas](https://www.amazon.es/dp/B008ASXV8W/?tag=tolees-21) con 55.94 de descuento por 34.65 EUR (original: 78.65 EUR) en el siguiente enlace!

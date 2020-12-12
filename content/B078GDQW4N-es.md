@@ -17,6 +17,9 @@ comparePrice: 65.98 EUR
 inStock: true
 prodname: 'SADES SA 810 de 3 5 mm de sonido envolvente estéreo PC Gaming Headset la venda de los auriculares con micrófono para / Laptop de control de volumen Over-the-Ear PC  blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GDQW4N/?tag=tolees-21'
+descuento: '69.70'
+titulo: 'SADES SA 810 de 3 5 mm de sonido envolve'
 ---
 
 Está [SADES SA 810 de 3 5 mm de sonido envolvente estéreo PC Gaming Headset la venda de los auriculares con micrófono para / Laptop de control de volumen Over-the-Ear PC  blanco ](https://www.amazon.es/dp/B078GDQW4N/?tag=tolees-21) con 69.70 de descuento por 19.99 EUR (original: 65.98 EUR) en el siguiente enlace!

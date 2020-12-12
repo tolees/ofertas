@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'BILLABONG Danapoint Zh Conjuntos Deportivos  Niños  Rojo  Brick 41   16 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WHYGTX/?tag=tolees-21'
+descuento: '59.34'
+titulo: 'BILLABONG Danapoint Zh Conjuntos Deporti'
 ---
 
 Tienes [BILLABONG Danapoint Zh Conjuntos Deportivos  Niños  Rojo  Brick 41   16 años](https://www.amazon.es/dp/B078WHYGTX/?tag=tolees-21) con un 59.34 % de descuento con precio de oferta de 20.33 EUR (original: 50 EUR) en el siguiente enlace!

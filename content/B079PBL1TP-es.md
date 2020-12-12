@@ -17,6 +17,9 @@ comparePrice: 9.95 EUR
 inStock: true
 prodname: 'El Hilo Invisible [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079PBL1TP/?tag=tolees-21'
+descuento: '29.75'
+titulo: 'El Hilo Invisible [Blu-ray]'
 ---
 
 Ahora mismo tienes [El Hilo Invisible [Blu-ray]](https://www.amazon.es/dp/B079PBL1TP/?tag=tolees-21) a 6.99 EUR (original: 9.95 EUR) (29.75 %  de descuento) en el siguiente enlace!

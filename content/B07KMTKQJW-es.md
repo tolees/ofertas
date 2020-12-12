@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Volcom Crisp Euro BSC SS Camiseta  Hombre  Yellow  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KMTKQJW/?tag=tolees-21'
+descuento: '49.50'
+titulo: 'Volcom Crisp Euro BSC SS Camiseta  Hombr'
 ---
 
 Está [Volcom Crisp Euro BSC SS Camiseta  Hombre  Yellow  L](https://www.amazon.es/dp/B07KMTKQJW/?tag=tolees-21) con 49.50 de descuento por 15.15 EUR (original: 30 EUR) en el siguiente enlace!

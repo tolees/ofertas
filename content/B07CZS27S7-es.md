@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Under Armour Sportstyle Logo Tank Tanque  Hombre  Negro Black 001  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZS27S7/?tag=tolees-21'
+descuento: '30.78'
+titulo: 'Under Armour Sportstyle Logo Tank Tanque'
 ---
 
 Ahora mismo tienes [Under Armour Sportstyle Logo Tank Tanque  Hombre  Negro Black 001  M](https://www.amazon.es/dp/B07CZS27S7/?tag=tolees-21) a 17.99 EUR (original: 25.99 EUR) (30.78 %  de descuento) en el siguiente enlace!

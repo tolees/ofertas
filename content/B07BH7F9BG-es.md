@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Pulsera de Actividad Pulsómetro Impermeable IP67 Pulsera Inteligente con Monitor de Ritmo Cardíaco Monitor de Actividad Podómetro Monitor de Calorías y Sueño Fitness Tracker Pulsera Bluetooth Móvil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BH7F9BG/?tag=tolees-21'
+descuento: '56.68'
+titulo: 'Pulsera de Actividad Pulsómetro Impermea'
 ---
 
 Ahora mismo tienes [Pulsera de Actividad Pulsómetro Impermeable IP67 Pulsera Inteligente con Monitor de Ritmo Cardíaco Monitor de Actividad Podómetro Monitor de Calorías y Sueño Fitness Tracker Pulsera Bluetooth Móvil](https://www.amazon.es/dp/B07BH7F9BG/?tag=tolees-21) a 25.99 EUR (original: 59.99 EUR) (56.68 %  de descuento) en el siguiente enlace!

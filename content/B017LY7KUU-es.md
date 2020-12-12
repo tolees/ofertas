@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Nixon Reloj Adultos Unisex de Digital con Correa en Cuero A944-849-00'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017LY7KUU/?tag=tolees-21'
+descuento: '43.33'
+titulo: 'Nixon Reloj Adultos Unisex de Digital co'
 ---
 
 Tienes [Nixon Reloj Adultos Unisex de Digital con Correa en Cuero A944-849-00](https://www.amazon.es/dp/B017LY7KUU/?tag=tolees-21) con un 43.33 % de descuento con precio de oferta de 68 EUR (original: 120 EUR) en el siguiente enlace!

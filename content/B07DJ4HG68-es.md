@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Sweater L/s  suéter Mujer  Rosa  Magenta 3g3   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ4HG68/?tag=tolees-21'
+descuento: '65.29'
+titulo: 'United Colors of Benetton Sweater L/s  s'
 ---
 
 Está [United Colors of Benetton Sweater L/s  suéter Mujer  Rosa  Magenta 3g3   Small](https://www.amazon.es/dp/B07DJ4HG68/?tag=tolees-21) con 65.29 de descuento por 17.34 EUR (original: 49.95 EUR) en el siguiente enlace!

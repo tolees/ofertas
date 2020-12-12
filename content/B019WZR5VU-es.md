@@ -17,6 +17,9 @@ comparePrice: 62.4 EUR
 inStock: true
 prodname: 'Calvin Klein Perfume - 100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019WZR5VU/?tag=tolees-21'
+descuento: '44.31'
+titulo: 'Calvin Klein Perfume - 100 ml'
 ---
 
 Tienes [Calvin Klein Perfume - 100 ml](https://www.amazon.es/dp/B019WZR5VU/?tag=tolees-21) con un 44.31 % de descuento con precio de oferta de 34.75 EUR (original: 62.4 EUR) en el siguiente enlace!

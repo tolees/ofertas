@@ -17,6 +17,9 @@ comparePrice: 68 EUR
 inStock: true
 prodname: 'Limpiador de Ventanas Electrico Aspirador de ventanas con labio de goma  limpiacristales con cabezal flexible y depósito de agua'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P5WZGJY/?tag=tolees-21'
+descuento: '39.72'
+titulo: 'Limpiador de Ventanas Electrico Aspirado'
 ---
 
 Tienes [Limpiador de Ventanas Electrico Aspirador de ventanas con labio de goma  limpiacristales con cabezal flexible y depósito de agua](https://www.amazon.es/dp/B07P5WZGJY/?tag=tolees-21) con un 39.72 % de descuento con precio de oferta de 40.99 EUR (original: 68 EUR) en el siguiente enlace!

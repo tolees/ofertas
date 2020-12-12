@@ -17,6 +17,9 @@ comparePrice: 55.99 EUR
 inStock: true
 prodname: 'MTNG Collection 57400  Botas Mosqueteras para Mujer   Antil Negro C35442   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQ6YXJV/?tag=tolees-21'
+descuento: '73.78'
+titulo: 'MTNG Collection 57400  Botas Mosqueteras'
 ---
 
 Está [MTNG Collection 57400  Botas Mosqueteras para Mujer   Antil Negro C35442   38 EU](https://www.amazon.es/dp/B07DQ6YXJV/?tag=tolees-21) con 73.78 de descuento por 14.68 EUR (original: 55.99 EUR) en el siguiente enlace!

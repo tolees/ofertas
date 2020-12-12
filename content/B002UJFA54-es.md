@@ -17,6 +17,9 @@ comparePrice: 36.05 EUR
 inStock: true
 prodname: 'Topcom KF-4301 - Calientabiberones  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002UJFA54/?tag=tolees-21'
+descuento: '47.30'
+titulo: 'Topcom KF-4301 - Calientabiberones  colo'
 ---
 
 Ahora mismo tienes [Topcom KF-4301 - Calientabiberones  color blanco](https://www.amazon.es/dp/B002UJFA54/?tag=tolees-21) a 19 EUR (original: 36.05 EUR) (47.30 %  de descuento) en el siguiente enlace!

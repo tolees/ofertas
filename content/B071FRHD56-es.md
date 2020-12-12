@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'FIND Sudadera con Trabillas para Mujer  Negro  Black   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071FRHD56/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND Sudadera con Trabillas para Mujer  '
 ---
 
 Está [FIND Sudadera con Trabillas para Mujer  Negro  Black   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B071FRHD56/?tag=tolees-21) con 70.00 de descuento por 7.8 EUR (original: 26 EUR) en el siguiente enlace!

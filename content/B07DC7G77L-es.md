@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Verde Rosin  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC7G77L/?tag=tolees-21'
+descuento: '50.16'
+titulo: 'JACK & JONES Jcobarkley Jacket  Chaqueta'
 ---
 
 Está [JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Verde Rosin  Large](https://www.amazon.es/dp/B07DC7G77L/?tag=tolees-21) con 50.16 de descuento por 29.9 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans New Brooke Pl200019 Vaqueros  Azul  10Oz Str American Blue Lt D26   28W / 30L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VW1VZQ/?tag=tolees-21'
+descuento: '49.00'
+titulo: 'Pepe Jeans New Brooke Pl200019 Vaqueros '
 ---
 
 Ahora mismo tienes [Pepe Jeans New Brooke Pl200019 Vaqueros  Azul  10Oz Str American Blue Lt D26   28W / 30L para Mujer](https://www.amazon.es/dp/B076VW1VZQ/?tag=tolees-21) a 48.45 EUR (original: 95 EUR) (49.00 %  de descuento) en el siguiente enlace!

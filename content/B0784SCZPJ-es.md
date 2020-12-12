@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Crosstour 4K Cámara Deportiva WiFi 16MP Cámara de Acción con Mando a Distancia Videocámara Impermeable 30m Ángulo de Visión 170°2 Baterías 1050mAh 20 Aceesorios para Actividades Deportivas Amarillo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0784SCZPJ/?tag=tolees-21'
+descuento: '34.29'
+titulo: 'Crosstour 4K Cámara Deportiva WiFi 16MP '
 ---
 
 Está [Crosstour 4K Cámara Deportiva WiFi 16MP Cámara de Acción con Mando a Distancia Videocámara Impermeable 30m Ángulo de Visión 170°2 Baterías 1050mAh 20 Aceesorios para Actividades Deportivas Amarillo ](https://www.amazon.es/dp/B0784SCZPJ/?tag=tolees-21) con 34.29 de descuento por 45.99 EUR (original: 69.99 EUR) en el siguiente enlace!

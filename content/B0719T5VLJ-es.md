@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Pepa Loves Winter Sweater Grey Jersey  Mujer  Gris  Grey   38  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0719T5VLJ/?tag=tolees-21'
+descuento: '70.68'
+titulo: 'Pepa Loves Winter Sweater Grey Jersey  M'
 ---
 
 Está [Pepa Loves Winter Sweater Grey Jersey  Mujer  Gris  Grey   38  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B0719T5VLJ/?tag=tolees-21) con 70.68 de descuento por 17.56 EUR (original: 59.9 EUR) en el siguiente enlace!

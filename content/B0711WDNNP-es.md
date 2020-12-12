@@ -17,6 +17,9 @@ comparePrice: 15.39 EUR
 inStock: true
 prodname: 'RED WAGON Zapatillas Altas para Niños  Verde  Green   34.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0711WDNNP/?tag=tolees-21'
+descuento: '46.91'
+titulo: 'RED WAGON Zapatillas Altas para Niños  V'
 ---
 
 Tienes [RED WAGON Zapatillas Altas para Niños  Verde  Green   34.5 EU](https://www.amazon.es/dp/B0711WDNNP/?tag=tolees-21) con un 46.91 % de descuento con precio de oferta de 8.17 EUR (original: 15.39 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Pepe Jeans Olga  Chaqueta para Mujer  Negro L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C47ZPYQ/?tag=tolees-21'
+descuento: '43.88'
+titulo: 'Pepe Jeans Olga  Chaqueta para Mujer  Ne'
 ---
 
 Tienes [Pepe Jeans Olga  Chaqueta para Mujer  Negro L](https://www.amazon.es/dp/B07C47ZPYQ/?tag=tolees-21) con un 43.88 % de descuento con precio de oferta de 72.95 EUR (original: 130 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 26.51 EUR
 inStock: true
 prodname: 'L Oréal Professionnel - Souple Infinium - Laca - 500 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LBZFQ3Y/?tag=tolees-21'
+descuento: '74.16'
+titulo: 'L Oréal Professionnel - Souple Infinium '
 ---
 
 Tienes [L Oréal Professionnel - Souple Infinium - Laca - 500 ml](https://www.amazon.es/dp/B00LBZFQ3Y/?tag=tolees-21) con un 74.16 % de descuento con precio de oferta de 6.85 EUR (original: 26.51 EUR) en el siguiente enlace!

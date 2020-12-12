@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: '1home Mesa Móvil Portátil Escritorio Ordenador Computador Soporte Carro Bandeja Compacta Ajustable Estación de Trabajo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074TBLMHJ/?tag=tolees-21'
+descuento: '30.00'
+titulo: '1home Mesa Móvil Portátil Escritorio Ord'
 ---
 
 Ahora mismo tienes [1home Mesa Móvil Portátil Escritorio Ordenador Computador Soporte Carro Bandeja Compacta Ajustable Estación de Trabajo](https://www.amazon.es/dp/B074TBLMHJ/?tag=tolees-21) a 76.99 EUR (original: 109.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'FIND Suede Wallabee Mocasines  Azul Navy  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L4JBH13/?tag=tolees-21'
+descuento: '32.15'
+titulo: 'FIND Suede Wallabee Mocasines  Azul Navy'
 ---
 
 Tienes [FIND Suede Wallabee Mocasines  Azul Navy  43 EU](https://www.amazon.es/dp/B07L4JBH13/?tag=tolees-21) con un 32.15 % de descuento con precio de oferta de 27.14 EUR (original: 40 EUR) en el siguiente enlace!

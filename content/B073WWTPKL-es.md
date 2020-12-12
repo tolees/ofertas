@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Disparador Remoto inalámbrico Rollei DE 2.4 GHz para Nikon'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073WWTPKL/?tag=tolees-21'
+descuento: '28.13'
+titulo: 'Disparador Remoto inalámbrico Rollei DE '
 ---
 
 Está [Disparador Remoto inalámbrico Rollei DE 2.4 GHz para Nikon](https://www.amazon.es/dp/B073WWTPKL/?tag=tolees-21) con 28.13 de descuento por 35.93 EUR (original: 49.99 EUR) en el siguiente enlace!

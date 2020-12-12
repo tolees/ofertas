@@ -17,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'JIM HALO Gafas de Sol Polarizadas Fit Over Desgaste Conducción Nocturna Anteojos Hombre Mujer Tortuga/Marrón Polarizado '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CJSSG53/?tag=tolees-21'
+descuento: '58.36'
+titulo: 'JIM HALO Gafas de Sol Polarizadas Fit Ov'
 ---
 
 Tienes [JIM HALO Gafas de Sol Polarizadas Fit Over Desgaste Conducción Nocturna Anteojos Hombre Mujer Tortuga/Marrón Polarizado ](https://www.amazon.es/dp/B07CJSSG53/?tag=tolees-21) con un 58.36 % de descuento con precio de oferta de 9.99 EUR (original: 23.99 EUR) en el siguiente enlace!

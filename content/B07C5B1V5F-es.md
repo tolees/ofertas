@@ -17,6 +17,9 @@ comparePrice: 45.9 EUR
 inStock: true
 prodname: 'Kelme Precision Kids  Zapatillas de Fútbol Sala para Niños  Azul  Royal y Rojo 28   31 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C5B1V5F/?tag=tolees-21'
+descuento: '30.39'
+titulo: 'Kelme Precision Kids  Zapatillas de Fútb'
 ---
 
 Tienes [Kelme Precision Kids  Zapatillas de Fútbol Sala para Niños  Azul  Royal y Rojo 28   31 EU](https://www.amazon.es/dp/B07C5B1V5F/?tag=tolees-21) con un 30.39 % de descuento con precio de oferta de 31.95 EUR (original: 45.9 EUR) en el siguiente enlace!

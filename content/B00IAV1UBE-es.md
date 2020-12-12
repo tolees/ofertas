@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Urban Dance Pantalón Deporte Negro/Rosa S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IAV1UBE/?tag=tolees-21'
+descuento: '65.76'
+titulo: 'Urban Dance Pantalón Deporte Negro/Rosa '
 ---
 
 Está [Urban Dance Pantalón Deporte Negro/Rosa S](https://www.amazon.es/dp/B00IAV1UBE/?tag=tolees-21) con 65.76 de descuento por 13.66 EUR (original: 39.9 EUR) en el siguiente enlace!

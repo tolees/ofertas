@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Braun MR 6550 MCAV Batidora De Inmersión  600 W  Acero Inoxidable  Azul/Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0050IH8PM/?tag=tolees-21'
+descuento: '33.33'
+titulo: 'Braun MR 6550 MCAV Batidora De Inmersión'
 ---
 
 Está [Braun MR 6550 MCAV Batidora De Inmersión  600 W  Acero Inoxidable  Azul/Blanco](https://www.amazon.es/dp/B0050IH8PM/?tag=tolees-21) con 33.33 de descuento por 50 EUR (original: 75 EUR) en el siguiente enlace!

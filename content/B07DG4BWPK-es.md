@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Energy Tech Tight Pants  Hombre  Black  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG4BWPK/?tag=tolees-21'
+descuento: '69.51'
+titulo: 'Puma Energy Tech Tight Pants  Hombre  Bl'
 ---
 
 Ahora mismo tienes [Puma Energy Tech Tight Pants  Hombre  Black  XXL](https://www.amazon.es/dp/B07DG4BWPK/?tag=tolees-21) a 15.23 EUR (original: 49.95 EUR) (69.51 %  de descuento) en el siguiente enlace!

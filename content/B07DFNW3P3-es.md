@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Ignite S/S Mono Camiseta  Hombre  Black  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFNW3P3/?tag=tolees-21'
+descuento: '43.85'
+titulo: 'Puma Ignite S/S Mono Camiseta  Hombre  B'
 ---
 
 Está [Puma Ignite S/S Mono Camiseta  Hombre  Black  XL](https://www.amazon.es/dp/B07DFNW3P3/?tag=tolees-21) con 43.85 de descuento por 14.01 EUR (original: 24.95 EUR) en el siguiente enlace!

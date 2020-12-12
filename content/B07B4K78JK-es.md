@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero A105-2986-00'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4K78JK/?tag=tolees-21'
+descuento: '58.19'
+titulo: 'Nixon Reloj Analógico para Unisex Adulto'
 ---
 
 Ahora mismo tienes [Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero A105-2986-00](https://www.amazon.es/dp/B07B4K78JK/?tag=tolees-21) a 66.89 EUR (original: 160 EUR) (58.19 %  de descuento) en el siguiente enlace!

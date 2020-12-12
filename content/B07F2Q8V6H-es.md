@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Helly Hansen Crew Chaqueta  Hombre   Rojo  Cherry Tomato  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2Q8V6H/?tag=tolees-21'
+descuento: '36.60'
+titulo: 'Helly Hansen Crew Chaqueta  Hombre   Roj'
 ---
 
 Ahora mismo tienes [Helly Hansen Crew Chaqueta  Hombre   Rojo  Cherry Tomato  L](https://www.amazon.es/dp/B07F2Q8V6H/?tag=tolees-21) a 88.76 EUR (original: 140 EUR) (36.60 %  de descuento) en el siguiente enlace!

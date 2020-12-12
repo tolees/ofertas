@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Star Wars Micrófono con Jack 3 5 Y Adaptador 6 3 Mm Color Negro Lexibook MIC100SW'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FS3SIZW/?tag=tolees-21'
+descuento: '46.63'
+titulo: 'Star Wars Micrófono con Jack 3 5 Y Adapt'
 ---
 
 Está [Star Wars Micrófono con Jack 3 5 Y Adaptador 6 3 Mm Color Negro Lexibook MIC100SW](https://www.amazon.es/dp/B01FS3SIZW/?tag=tolees-21) con 46.63 de descuento por 8 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Sinner Gear Gancho anal con pelota - Juguete Erótico para Adultos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MFCN8XN/?tag=tolees-21'
+descuento: '43.90'
+titulo: 'Sinner Gear Gancho anal con pelota - Jug'
 ---
 
 Tienes [Sinner Gear Gancho anal con pelota - Juguete Erótico para Adultos](https://www.amazon.es/dp/B01MFCN8XN/?tag=tolees-21) con un 43.90 % de descuento con precio de oferta de 28.02 EUR (original: 49.95 EUR) en el siguiente enlace!

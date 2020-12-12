@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'FEIYU CREATIVE Máscara de Buceo  【Nuevo】 Dual Snorkel 180° Vista Cara Completa Máscara de Snorkel Anti-Vaho Anti-Fugas Correa Ajustable  con Soporte para Cámara Deportiva para Nadar  Bueco  Negro  M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N1P9Q8J/?tag=tolees-21'
+descuento: '46.01'
+titulo: 'FEIYU CREATIVE Máscara de Buceo  【Nuevo】'
 ---
 
 Está [FEIYU CREATIVE Máscara de Buceo  【Nuevo】 Dual Snorkel 180° Vista Cara Completa Máscara de Snorkel Anti-Vaho Anti-Fugas Correa Ajustable  con Soporte para Cámara Deportiva para Nadar  Bueco  Negro  M ](https://www.amazon.es/dp/B07N1P9Q8J/?tag=tolees-21) con 46.01 de descuento por 26.99 EUR (original: 49.99 EUR) en el siguiente enlace!

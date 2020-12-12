@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'AiHom Portarrollos para Papel Higiénico Toalla 152mm lnoxidable Resistente a la Corrosión con Accesorios para Cuarto de Baño Cocina Dormitorio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MW3KWR5/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'AiHom Portarrollos para Papel Higiénico '
 ---
 
 Tienes [AiHom Portarrollos para Papel Higiénico Toalla 152mm lnoxidable Resistente a la Corrosión con Accesorios para Cuarto de Baño Cocina Dormitorio](https://www.amazon.es/dp/B07MW3KWR5/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

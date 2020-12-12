@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Mustang Schnürhalbschuh  Zapatillas para Hombre  Gris  Dunkelgrau 20   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F162GGY/?tag=tolees-21'
+descuento: '52.17'
+titulo: 'Mustang Schnürhalbschuh  Zapatillas para'
 ---
 
 Está [Mustang Schnürhalbschuh  Zapatillas para Hombre  Gris  Dunkelgrau 20   45 EU](https://www.amazon.es/dp/B07F162GGY/?tag=tolees-21) con 52.17 de descuento por 33.46 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'LEGO® - Caja de Ladrillos creativos del Unirreino Unikitty PT Juego de construcción  41455'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079ZVM8G5/?tag=tolees-21'
+descuento: '27.25'
+titulo: 'LEGO® - Caja de Ladrillos creativos del '
 ---
 
 Ahora mismo tienes [LEGO® - Caja de Ladrillos creativos del Unirreino Unikitty PT Juego de construcción  41455](https://www.amazon.es/dp/B079ZVM8G5/?tag=tolees-21) a 32.73 EUR (original: 44.99 EUR) (27.25 %  de descuento) en el siguiente enlace!

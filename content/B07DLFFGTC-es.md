@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'TRANVERZ S Equipaje de Mano  51 cm  42 Liters  Negro  Black-Moss '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLFFGTC/?tag=tolees-21'
+descuento: '44.78'
+titulo: 'TRANVERZ S Equipaje de Mano  51 cm  42 L'
 ---
 
 Está [TRANVERZ S Equipaje de Mano  51 cm  42 Liters  Negro  Black-Moss ](https://www.amazon.es/dp/B07DLFFGTC/?tag=tolees-21) con 44.78 de descuento por 71.78 EUR (original: 130 EUR) en el siguiente enlace!

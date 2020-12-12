@@ -17,6 +17,9 @@ comparePrice: 25.58 EUR
 inStock: true
 prodname: 'Batman V Superman: El Amanecer De La Justicia   4K Ultra HD+ Blu-Ray + Copia Digital  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01G3EVLTA/?tag=tolees-21'
+descuento: '41.56'
+titulo: 'Batman V Superman: El Amanecer De La Jus'
 ---
 
 Está [Batman V Superman: El Amanecer De La Justicia   4K Ultra HD+ Blu-Ray + Copia Digital  [Blu-ray]](https://www.amazon.es/dp/B01G3EVLTA/?tag=tolees-21) con 41.56 de descuento por 14.95 EUR (original: 25.58 EUR) en el siguiente enlace!

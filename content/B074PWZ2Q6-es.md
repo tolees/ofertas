@@ -17,6 +17,9 @@ comparePrice: 65.92 EUR
 inStock: true
 prodname: 'ETNAB|#Etnies Jameson Vulc  Zapatillas de Skateboard para Hombre  Black/White/Silver 983  7.5 UK EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074PWZ2Q6/?tag=tolees-21'
+descuento: '45.18'
+titulo: 'ETNAB|#Etnies Jameson Vulc  Zapatillas d'
 ---
 
 Está [ETNAB|#Etnies Jameson Vulc  Zapatillas de Skateboard para Hombre  Black/White/Silver 983  7.5 UK EU](https://www.amazon.es/dp/B074PWZ2Q6/?tag=tolees-21) con 45.18 de descuento por 36.14 EUR (original: 65.92 EUR) en el siguiente enlace!

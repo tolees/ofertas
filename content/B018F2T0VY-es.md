@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Slabo Powerbank Y para Smartphone / Tablet / Smartwatch Cargador de coche Batería externa - NEGRO'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018F2T0VY/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Slabo Powerbank Y para Smartphone / Tabl'
 ---
 
 Ahora mismo tienes [Slabo Powerbank Y para Smartphone / Tablet / Smartwatch Cargador de coche Batería externa - NEGRO](https://www.amazon.es/dp/B018F2T0VY/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

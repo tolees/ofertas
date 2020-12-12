@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'DOACT 2 Pair Gel Arch Apoya los Conjuntos de Mangas Envolventes  Calcetines con Almohadillas de Alivio Del dolor  Fascitis Plantar  Pie Plano para Hombres y Mujeres  One Size Fit Most'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G91CQKP/?tag=tolees-21'
+descuento: '55.58'
+titulo: 'DOACT 2 Pair Gel Arch Apoya los Conjunto'
 ---
 
 Ahora mismo tienes [DOACT 2 Pair Gel Arch Apoya los Conjuntos de Mangas Envolventes  Calcetines con Almohadillas de Alivio Del dolor  Fascitis Plantar  Pie Plano para Hombres y Mujeres  One Size Fit Most](https://www.amazon.es/dp/B07G91CQKP/?tag=tolees-21) a 11.99 EUR (original: 26.99 EUR) (55.58 %  de descuento) en el siguiente enlace!

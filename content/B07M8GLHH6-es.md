@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'The North Face 100 Glacier 1/4 Zip Jersey  Mujer  Juicy Red Stripe  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8GLHH6/?tag=tolees-21'
+descuento: '49.82'
+titulo: 'The North Face 100 Glacier 1/4 Zip Jerse'
 ---
 
 Tienes [The North Face 100 Glacier 1/4 Zip Jersey  Mujer  Juicy Red Stripe  L](https://www.amazon.es/dp/B07M8GLHH6/?tag=tolees-21) con un 49.82 % de descuento con precio de oferta de 27.6 EUR (original: 55 EUR) en el siguiente enlace!

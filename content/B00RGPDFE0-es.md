@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Sennheiser CX 3.00 - Auriculares in-Ear  Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00RGPDFE0/?tag=tolees-21'
+descuento: '37.11'
+titulo: 'Sennheiser CX 3.00 - Auriculares in-Ear '
 ---
 
 Tienes [Sennheiser CX 3.00 - Auriculares in-Ear  Color Blanco](https://www.amazon.es/dp/B00RGPDFE0/?tag=tolees-21) con un 37.11 % de descuento con precio de oferta de 31.38 EUR (original: 49.9 EUR) en el siguiente enlace!

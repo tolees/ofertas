@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'MTNG 69194  Zapatillas para Mujer  Beige Rosa/Yoda Blanco Roto C44850  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MN21HP7/?tag=tolees-21'
+descuento: '39.98'
+titulo: 'MTNG 69194  Zapatillas para Mujer  Beige'
 ---
 
 Ahora mismo tienes [MTNG 69194  Zapatillas para Mujer  Beige Rosa/Yoda Blanco Roto C44850  40 EU](https://www.amazon.es/dp/B07MN21HP7/?tag=tolees-21) a 18 EUR (original: 29.99 EUR) (39.98 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 785.88 EUR
 inStock: true
 prodname: 'Yamaha mcr-n570d sistema Audio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MDIZ63Y/?tag=tolees-21'
+descuento: '30.40'
+titulo: 'Yamaha mcr-n570d sistema Audio'
 ---
 
 Está [Yamaha mcr-n570d sistema Audio](https://www.amazon.es/dp/B01MDIZ63Y/?tag=tolees-21) con 30.40 de descuento por 547 EUR (original: 785.88 EUR) en el siguiente enlace!

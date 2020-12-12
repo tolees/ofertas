@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Fred Perry Twin Tipped Shirt  Polo para Hombre  Beige  Ecru/Verde/Black F79  X-Small  Tamaño del Fabricante:XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074JGSP8J/?tag=tolees-21'
+descuento: '51.09'
+titulo: 'Fred Perry Twin Tipped Shirt  Polo para '
 ---
 
 Está [Fred Perry Twin Tipped Shirt  Polo para Hombre  Beige  Ecru/Verde/Black F79  X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B074JGSP8J/?tag=tolees-21) con 51.09 de descuento por 43.53 EUR (original: 89 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 28.08 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 9p512 Bañador  Azul  Marine 00135   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K1H9KKY/?tag=tolees-21'
+descuento: '52.56'
+titulo: 'Emporio Armani Underwear 9p512 Bañador  '
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear 9p512 Bañador  Azul  Marine 00135   X-Large para Hombre](https://www.amazon.es/dp/B07K1H9KKY/?tag=tolees-21) a 13.32 EUR (original: 28.08 EUR) (52.56 %  de descuento) en el siguiente enlace!

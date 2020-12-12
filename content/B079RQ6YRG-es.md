@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Edna Suéter  Negro  Black 999   S para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RQ6YRG/?tag=tolees-21'
+descuento: '58.86'
+titulo: 'Pepe Jeans Edna Suéter  Negro  Black 999'
 ---
 
 Está [Pepe Jeans Edna Suéter  Negro  Black 999   S para Mujer](https://www.amazon.es/dp/B079RQ6YRG/?tag=tolees-21) con 58.86 de descuento por 28.76 EUR (original: 69.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 5311.89 EUR
 inStock: true
 prodname: 'Yuneec Dron Tornado H920 - Secador de Pelo  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X3SBDLP/?tag=tolees-21'
+descuento: '60.30'
+titulo: 'Yuneec Dron Tornado H920 - Secador de Pe'
 ---
 
 Tienes [Yuneec Dron Tornado H920 - Secador de Pelo  Color Negro](https://www.amazon.es/dp/B06X3SBDLP/?tag=tolees-21) con un 60.30 % de descuento con precio de oferta de 2108.81 EUR (original: 5311.89 EUR) en el siguiente enlace!

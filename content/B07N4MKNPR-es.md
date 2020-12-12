@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Superga 2730-NAPPALEAU  Zapatillas para Mujer  Beige  Nude N17   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N4MKNPR/?tag=tolees-21'
+descuento: '73.64'
+titulo: 'Superga 2730-NAPPALEAU  Zapatillas para '
 ---
 
 Ahora mismo tienes [Superga 2730-NAPPALEAU  Zapatillas para Mujer  Beige  Nude N17   38 EU](https://www.amazon.es/dp/B07N4MKNPR/?tag=tolees-21) a 26.1 EUR (original: 99 EUR) (73.64 %  de descuento) en el siguiente enlace!

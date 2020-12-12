@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'TOUS pulsera de mujer en Vermeil 18kt  con perlas cultivadas de agua dulce. Longitud 17 50 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KXC51C7/?tag=tolees-21'
+descuento: '55.43'
+titulo: 'TOUS pulsera de mujer en Vermeil 18kt  c'
 ---
 
 Ahora mismo tienes [TOUS pulsera de mujer en Vermeil 18kt  con perlas cultivadas de agua dulce. Longitud 17 50 cm](https://www.amazon.es/dp/B07KXC51C7/?tag=tolees-21) a 49.03 EUR (original: 110 EUR) (55.43 %  de descuento) en el siguiente enlace!

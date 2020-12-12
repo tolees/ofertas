@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Kappa KENT LOW 241642 - Zapatillas para hombre  Marrón  Marrone  Braun  COGNAC/WHITE 5410     40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DFUNOX2/?tag=tolees-21'
+descuento: '56.07'
+titulo: 'Kappa KENT LOW 241642 - Zapatillas para '
 ---
 
 Ahora mismo tienes [Kappa KENT LOW 241642 - Zapatillas para hombre  Marrón  Marrone  Braun  COGNAC/WHITE 5410     40](https://www.amazon.es/dp/B00DFUNOX2/?tag=tolees-21) a 21.92 EUR (original: 49.9 EUR) (56.07 %  de descuento) en el siguiente enlace!

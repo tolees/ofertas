@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Solac WV3700 Ecogenic Limpiacristales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015E3JNLE/?tag=tolees-21'
+descuento: '52.36'
+titulo: 'Solac WV3700 Ecogenic Limpiacristales'
 ---
 
 Tienes [Solac WV3700 Ecogenic Limpiacristales](https://www.amazon.es/dp/B015E3JNLE/?tag=tolees-21) con un 52.36 % de descuento con precio de oferta de 33.34 EUR (original: 69.99 EUR) en el siguiente enlace!

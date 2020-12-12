@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Geox D Theragon A  Zapatillas para Mujer  Negro  Black   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07668QBGV/?tag=tolees-21'
+descuento: '73.40'
+titulo: 'Geox D Theragon A  Zapatillas para Mujer'
 ---
 
 Tienes [Geox D Theragon A  Zapatillas para Mujer  Negro  Black   41 EU](https://www.amazon.es/dp/B07668QBGV/?tag=tolees-21) con un 73.40 % de descuento con precio de oferta de 29.23 EUR (original: 109.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 27.5 EUR
 inStock: true
 prodname: 'Orbegozo TRSL 1400 Termo para sólido y líquido  1400 ml  Acero Inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00791DHHQ/?tag=tolees-21'
+descuento: '77.82'
+titulo: 'Orbegozo TRSL 1400 Termo para sólido y l'
 ---
 
 Ahora mismo tienes [Orbegozo TRSL 1400 Termo para sólido y líquido  1400 ml  Acero Inoxidable](https://www.amazon.es/dp/B00791DHHQ/?tag=tolees-21) a 6.1 EUR (original: 27.5 EUR) (77.82 %  de descuento) en el siguiente enlace!

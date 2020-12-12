@@ -17,6 +17,9 @@ comparePrice: 11.6 EUR
 inStock: true
 prodname: 'Pastas Gallo - Lasaña Huevo Paquete 290 g - [Pack de 8]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MG8NKKV/?tag=tolees-21'
+descuento: '28.79'
+titulo: 'Pastas Gallo - Lasaña Huevo Paquete 290 '
 ---
 
 Tienes [Pastas Gallo - Lasaña Huevo Paquete 290 g - [Pack de 8]](https://www.amazon.es/dp/B01MG8NKKV/?tag=tolees-21) con un 28.79 % de descuento con precio de oferta de 8.26 EUR (original: 11.6 EUR) en el siguiente enlace!

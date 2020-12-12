@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Bouncing Babies-41530 Jugando con Mascotas Bounie Cife Spain 41530'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079NL13TB/?tag=tolees-21'
+descuento: '67.36'
+titulo: 'Bouncing Babies-41530 Jugando con Mascot'
 ---
 
 Ahora mismo tienes [Bouncing Babies-41530 Jugando con Mascotas Bounie Cife Spain 41530](https://www.amazon.es/dp/B079NL13TB/?tag=tolees-21) a 14.67 EUR (original: 44.95 EUR) (67.36 %  de descuento) en el siguiente enlace!

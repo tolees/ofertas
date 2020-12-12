@@ -17,6 +17,9 @@ comparePrice: 47.52 EUR
 inStock: true
 prodname: 'Dickies Original 874  Pantalones para Hombre  Azul  Dark Navy   29/32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008S99LUU/?tag=tolees-21'
+descuento: '42.23'
+titulo: 'Dickies Original 874  Pantalones para Ho'
 ---
 
 Ahora mismo tienes [Dickies Original 874  Pantalones para Hombre  Azul  Dark Navy   29/32](https://www.amazon.es/dp/B008S99LUU/?tag=tolees-21) a 27.45 EUR (original: 47.52 EUR) (42.23 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Geox D Jaysen a  Zapatillas para Mujer  Dorado  Champagne/Gold Cb52x   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ3PQ7C/?tag=tolees-21'
+descuento: '62.38'
+titulo: 'Geox D Jaysen a  Zapatillas para Mujer  '
 ---
 
 Ahora mismo tienes [Geox D Jaysen a  Zapatillas para Mujer  Dorado  Champagne/Gold Cb52x   39 EU](https://www.amazon.es/dp/B07DJ3PQ7C/?tag=tolees-21) a 35.74 EUR (original: 95 EUR) (62.38 %  de descuento) en el siguiente enlace!

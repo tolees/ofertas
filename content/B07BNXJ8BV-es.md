@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'ALDO Veassi  Zapatillas para Mujer  Negro  Jet Black 96   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BNXJ8BV/?tag=tolees-21'
+descuento: '66.66'
+titulo: 'ALDO Veassi  Zapatillas para Mujer  Negr'
 ---
 
 Tienes [ALDO Veassi  Zapatillas para Mujer  Negro  Jet Black 96   41 EU](https://www.amazon.es/dp/B07BNXJ8BV/?tag=tolees-21) con un 66.66 % de descuento con precio de oferta de 23.34 EUR (original: 70 EUR) en el siguiente enlace!

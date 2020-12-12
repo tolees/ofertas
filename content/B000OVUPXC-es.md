@@ -17,6 +17,9 @@ comparePrice: 26.98 EUR
 inStock: true
 prodname: 'L Oréal Paris 47418  Polvo bronceador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000OVUPXC/?tag=tolees-21'
+descuento: '66.98'
+titulo: 'L Oréal Paris 47418  Polvo bronceador'
 ---
 
 Tienes [L Oréal Paris 47418  Polvo bronceador](https://www.amazon.es/dp/B000OVUPXC/?tag=tolees-21) con un 66.98 % de descuento con precio de oferta de 8.91 EUR (original: 26.98 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorgo Knit Hood  Capucha para Hombre  Azul  Estate Blue Fit:Knit Fit   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0778LKRG6/?tag=tolees-21'
+descuento: '50.32'
+titulo: 'JACK & JONES Jorgo Knit Hood  Capucha pa'
 ---
 
 Está [JACK & JONES Jorgo Knit Hood  Capucha para Hombre  Azul  Estate Blue Fit:Knit Fit   Large](https://www.amazon.es/dp/B0778LKRG6/?tag=tolees-21) con 50.32 de descuento por 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!

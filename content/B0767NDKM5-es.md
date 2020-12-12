@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Geox D Myria C  Zapatillas Altas para Mujer  Negro  Black   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0767NDKM5/?tag=tolees-21'
+descuento: '66.92'
+titulo: 'Geox D Myria C  Zapatillas Altas para Mu'
 ---
 
 Está [Geox D Myria C  Zapatillas Altas para Mujer  Negro  Black   37 EU](https://www.amazon.es/dp/B0767NDKM5/?tag=tolees-21) con 66.92 de descuento por 36.36 EUR (original: 109.9 EUR) en el siguiente enlace!

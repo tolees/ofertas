@@ -17,6 +17,9 @@ comparePrice: 56.99 EUR
 inStock: true
 prodname: 'Auriculares Bluetooth  BARA E2 Auricular Magnéticos Bluetooth 4.1  Cascos Inálambrico CSR Chips HiFi Estéreo  Sweatproof IPX6  Micrófono Incorporado y Cancelación de Ruido  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C7LKW5M/?tag=tolees-21'
+descuento: '35.71'
+titulo: 'Auriculares Bluetooth  BARA E2 Auricular'
 ---
 
 Está [Auriculares Bluetooth  BARA E2 Auricular Magnéticos Bluetooth 4.1  Cascos Inálambrico CSR Chips HiFi Estéreo  Sweatproof IPX6  Micrófono Incorporado y Cancelación de Ruido  Negro ](https://www.amazon.es/dp/B07C7LKW5M/?tag=tolees-21) con 35.71 de descuento por 36.64 EUR (original: 56.99 EUR) en el siguiente enlace!

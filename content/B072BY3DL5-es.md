@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour Fly by Short Pantalón Corto  Mujer  Azul  Oxford Formation Blue/Reflective 706   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BY3DL5/?tag=tolees-21'
+descuento: '57.50'
+titulo: 'Under Armour Fly by Short Pantalón Corto'
 ---
 
 Ahora mismo tienes [Under Armour Fly by Short Pantalón Corto  Mujer  Azul  Oxford Formation Blue/Reflective 706   S](https://www.amazon.es/dp/B072BY3DL5/?tag=tolees-21) a 11.05 EUR (original: 26 EUR) (57.50 %  de descuento) en el siguiente enlace!

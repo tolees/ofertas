@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Pro-Dg KM-37990 2018 Mochila Infantil  40 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D48LPQJ/?tag=tolees-21'
+descuento: '68.80'
+titulo: 'Pro-Dg KM-37990 2018 Mochila Infantil  4'
 ---
 
 Está [Pro-Dg KM-37990 2018 Mochila Infantil  40 cm](https://www.amazon.es/dp/B07D48LPQJ/?tag=tolees-21) con 68.80 de descuento por 12.45 EUR (original: 39.9 EUR) en el siguiente enlace!

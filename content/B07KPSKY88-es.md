@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'DC Apparel Square Star tee-Shirt  Hombre  Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPSKY88/?tag=tolees-21'
+descuento: '50.13'
+titulo: 'DC Apparel Square Star tee-Shirt  Hombre'
 ---
 
 Ahora mismo tienes [DC Apparel Square Star tee-Shirt  Hombre  Black  L](https://www.amazon.es/dp/B07KPSKY88/?tag=tolees-21) a 17.45 EUR (original: 34.99 EUR) (50.13 %  de descuento) en el siguiente enlace!

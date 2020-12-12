@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Pikolinos Jerez 8242 - mocasines para mujer  color blau  navy   talla 42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OTI5E7S/?tag=tolees-21'
+descuento: '64.36'
+titulo: 'Pikolinos Jerez 8242 - mocasines para mu'
 ---
 
 Tienes [Pikolinos Jerez 8242 - mocasines para mujer  color blau  navy   talla 42](https://www.amazon.es/dp/B00OTI5E7S/?tag=tolees-21) con un 64.36 % de descuento con precio de oferta de 31.72 EUR (original: 89 EUR) en el siguiente enlace!

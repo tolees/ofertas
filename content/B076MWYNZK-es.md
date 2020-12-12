@@ -17,6 +17,9 @@ comparePrice: 82.42 EUR
 inStock: true
 prodname: 'Lee Daren Zip Vaqueros Straight  Azul  Authentic Blue Acax   38W / 36L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076MWYNZK/?tag=tolees-21'
+descuento: '42.43'
+titulo: 'Lee Daren Zip Vaqueros Straight  Azul  A'
 ---
 
 Está [Lee Daren Zip Vaqueros Straight  Azul  Authentic Blue Acax   38W / 36L para Hombre](https://www.amazon.es/dp/B076MWYNZK/?tag=tolees-21) con 42.43 de descuento por 47.45 EUR (original: 82.42 EUR) en el siguiente enlace!

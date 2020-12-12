@@ -17,6 +17,9 @@ comparePrice: 22.05 EUR
 inStock: true
 prodname: 'Fisura DM0493 Felpudo Original y Divertido Entrada Casa Hueso 40x70cm Negro.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079P4J8JS/?tag=tolees-21'
+descuento: '25.85'
+titulo: 'Fisura DM0493 Felpudo Original y Diverti'
 ---
 
 Está [Fisura DM0493 Felpudo Original y Divertido Entrada Casa Hueso 40x70cm Negro.](https://www.amazon.es/dp/B079P4J8JS/?tag=tolees-21) con 25.85 de descuento por 16.35 EUR (original: 22.05 EUR) en el siguiente enlace!

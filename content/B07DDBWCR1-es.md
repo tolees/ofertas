@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Puma One Laser Ball  Unisex Adulto  Silver/Shocking Orange/Black  5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DDBWCR1/?tag=tolees-21'
+descuento: '27.86'
+titulo: 'Puma One Laser Ball  Unisex Adulto  Silv'
 ---
 
 Ahora mismo tienes [Puma One Laser Ball  Unisex Adulto  Silver/Shocking Orange/Black  5](https://www.amazon.es/dp/B07DDBWCR1/?tag=tolees-21) a 12.95 EUR (original: 17.95 EUR) (27.86 %  de descuento) en el siguiente enlace!

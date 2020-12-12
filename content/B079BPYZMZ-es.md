@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjepocket tee SS O-Neck Noos Camiseta  Blanco  White Detail: Slim Fit   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079BPYZMZ/?tag=tolees-21'
+descuento: '54.20'
+titulo: 'JACK & JONES Jjepocket tee SS O-Neck Noo'
 ---
 
 Está [JACK & JONES Jjepocket tee SS O-Neck Noos Camiseta  Blanco  White Detail: Slim Fit   X-Large para Hombre](https://www.amazon.es/dp/B079BPYZMZ/?tag=tolees-21) con 54.20 de descuento por 5.95 EUR (original: 12.99 EUR) en el siguiente enlace!

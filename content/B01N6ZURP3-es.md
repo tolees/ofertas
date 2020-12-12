@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Vans Friend II  Boyfriend Jeans para Mujer  Azul  70s Blue 0au  W30/L32  Talla del Fabricante: 11 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6ZURP3/?tag=tolees-21'
+descuento: '73.71'
+titulo: 'Vans Friend II  Boyfriend Jeans para Muj'
 ---
 
 Está [Vans Friend II  Boyfriend Jeans para Mujer  Azul  70s Blue 0au  W30/L32  Talla del Fabricante: 11 ](https://www.amazon.es/dp/B01N6ZURP3/?tag=tolees-21) con 73.71 de descuento por 21.03 EUR (original: 80 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Cressi Agua Short  Aletas de Snorkeling Unisex Adulto  Amarillo  Amarillo/Plata   43/44'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00T9LQ42E/?tag=tolees-21'
+descuento: '48.45'
+titulo: 'Cressi Agua Short  Aletas de Snorkeling '
 ---
 
 Tienes [Cressi Agua Short  Aletas de Snorkeling Unisex Adulto  Amarillo  Amarillo/Plata   43/44](https://www.amazon.es/dp/B00T9LQ42E/?tag=tolees-21) con un 48.45 % de descuento con precio de oferta de 14.95 EUR (original: 29 EUR) en el siguiente enlace!

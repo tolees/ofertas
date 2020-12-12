@@ -17,6 +17,9 @@ comparePrice: 24.14 EUR
 inStock: true
 prodname: 'Waimea – Niña Senior Aqua Guantes  niña  Aquaschuhe Senior  blanco/rojo  39 UE'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I3EAXQG/?tag=tolees-21'
+descuento: '72.16'
+titulo: 'Waimea – Niña Senior Aqua Guantes  niña '
 ---
 
 Tienes [Waimea – Niña Senior Aqua Guantes  niña  Aquaschuhe Senior  blanco/rojo  39 UE](https://www.amazon.es/dp/B00I3EAXQG/?tag=tolees-21) con un 72.16 % de descuento con precio de oferta de 6.72 EUR (original: 24.14 EUR) en el siguiente enlace!

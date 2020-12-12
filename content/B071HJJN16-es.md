@@ -17,6 +17,9 @@ comparePrice: 159.98 EUR
 inStock: true
 prodname: 'ENCHICAS 2x BT S2 Intercomunicador Casco Moto Manos Libres Auriculares Sistema de Comunicación por Bluetooth para Motocicletas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HJJN16/?tag=tolees-21'
+descuento: '48.13'
+titulo: 'ENCHICAS 2x BT S2 Intercomunicador Casco'
 ---
 
 Tienes [ENCHICAS 2x BT S2 Intercomunicador Casco Moto Manos Libres Auriculares Sistema de Comunicación por Bluetooth para Motocicletas](https://www.amazon.es/dp/B071HJJN16/?tag=tolees-21) con un 48.13 % de descuento con precio de oferta de 82.98 EUR (original: 159.98 EUR) en el siguiente enlace!

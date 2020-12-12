@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Osram Smart Mini W Pulsador  Blanco  Lote de 1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074PYT9R4/?tag=tolees-21'
+descuento: '32.15'
+titulo: 'Osram Smart Mini W Pulsador  Blanco  Lot'
 ---
 
 Tienes [Osram Smart Mini W Pulsador  Blanco  Lote de 1](https://www.amazon.es/dp/B074PYT9R4/?tag=tolees-21) con un 32.15 % de descuento con precio de oferta de 18.99 EUR (original: 27.99 EUR) en el siguiente enlace!

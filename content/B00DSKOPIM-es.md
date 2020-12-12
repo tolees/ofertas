@@ -17,6 +17,9 @@ comparePrice: 14.16 EUR
 inStock: true
 prodname: 'Barceló Cream - Crema De Ron  700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DSKOPIM/?tag=tolees-21'
+descuento: '29.10'
+titulo: 'Barceló Cream - Crema De Ron  700 ml'
 ---
 
 Tienes [Barceló Cream - Crema De Ron  700 ml](https://www.amazon.es/dp/B00DSKOPIM/?tag=tolees-21) con un 29.10 % de descuento con precio de oferta de 10.04 EUR (original: 14.16 EUR) en el siguiente enlace!

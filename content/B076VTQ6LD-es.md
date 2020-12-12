@@ -17,6 +17,9 @@ comparePrice: 249 EUR
 inStock: true
 prodname: 'Medion Akoya S22001  MD 34036  - Mini Ordenador de sobremesa  Intel Celeron N3350  2 GB de RAM  eMMC de 32 GB  Intel HD Graphics  Windows 10 Home   Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VTQ6LD/?tag=tolees-21'
+descuento: '63.38'
+titulo: 'Medion Akoya S22001  MD 34036  - Mini Or'
 ---
 
 Está [Medion Akoya S22001  MD 34036  - Mini Ordenador de sobremesa  Intel Celeron N3350  2 GB de RAM  eMMC de 32 GB  Intel HD Graphics  Windows 10 Home   Gris](https://www.amazon.es/dp/B076VTQ6LD/?tag=tolees-21) con 63.38 de descuento por 91.18 EUR (original: 249 EUR) en el siguiente enlace!

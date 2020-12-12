@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Esprit 037ee2c009 Cargo  Pantalones Cortos Hombre  Azul  Bright Blue   44  Talla del Fabricante: 28 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MSB1HI5/?tag=tolees-21'
+descuento: '87.50'
+titulo: 'Esprit 037ee2c009 Cargo  Pantalones Cort'
 ---
 
 Está [Esprit 037ee2c009 Cargo  Pantalones Cortos Hombre  Azul  Bright Blue   44  Talla del Fabricante: 28 ](https://www.amazon.es/dp/B01MSB1HI5/?tag=tolees-21) con 87.50 de descuento por 5 EUR (original: 39.99 EUR) en el siguiente enlace!

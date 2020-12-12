@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Calvin Klein Jeans Brett Mesh+Elastic  Zapatillas para Hombre  Negro  Black 000   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSFCGQJ/?tag=tolees-21'
+descuento: '66.67'
+titulo: 'Calvin Klein Jeans Brett Mesh+Elastic  Z'
 ---
 
 Está [Calvin Klein Jeans Brett Mesh+Elastic  Zapatillas para Hombre  Negro  Black 000   43 EU](https://www.amazon.es/dp/B07FSFCGQJ/?tag=tolees-21) con 66.67 de descuento por 36.66 EUR (original: 110 EUR) en el siguiente enlace!

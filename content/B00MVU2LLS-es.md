@@ -17,6 +17,9 @@ comparePrice: 1.69 EUR
 inStock: true
 prodname: 'Yazilind vendimia de color plata oval blanco de la turquesa cuelga gota de los pendientes del gancho Mujeres de regalo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MVU2LLS/?tag=tolees-21'
+descuento: '65.09'
+titulo: 'Yazilind vendimia de color plata oval bl'
 ---
 
 Ahora mismo tienes [Yazilind vendimia de color plata oval blanco de la turquesa cuelga gota de los pendientes del gancho Mujeres de regalo](https://www.amazon.es/dp/B00MVU2LLS/?tag=tolees-21) a 0.59 EUR (original: 1.69 EUR) (65.09 %  de descuento) en el siguiente enlace!

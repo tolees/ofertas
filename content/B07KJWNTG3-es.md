@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Quiksilver Everyday Shorts  Hombre  Electric Royal  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJWNTG3/?tag=tolees-21'
+descuento: '33.64'
+titulo: 'Quiksilver Everyday Shorts  Hombre  Elec'
 ---
 
 Está [Quiksilver Everyday Shorts  Hombre  Electric Royal  L](https://www.amazon.es/dp/B07KJWNTG3/?tag=tolees-21) con 33.64 de descuento por 19.9 EUR (original: 29.99 EUR) en el siguiente enlace!

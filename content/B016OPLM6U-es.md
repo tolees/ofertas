@@ -17,6 +17,9 @@ comparePrice: 358 EUR
 inStock: true
 prodname: 'Jimmy Choo Cora/S 6P J33 56  Gafas de Sol para Mujer  Gris  Gry Bwgltmud/Brown FL Gold '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016OPLM6U/?tag=tolees-21'
+descuento: '73.13'
+titulo: 'Jimmy Choo Cora/S 6P J33 56  Gafas de So'
 ---
 
 Está [Jimmy Choo Cora/S 6P J33 56  Gafas de Sol para Mujer  Gris  Gry Bwgltmud/Brown FL Gold ](https://www.amazon.es/dp/B016OPLM6U/?tag=tolees-21) con 73.13 de descuento por 96.2 EUR (original: 358 EUR) en el siguiente enlace!

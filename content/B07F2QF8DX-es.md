@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Helly Hansen Stockholm Backpack Bolso de Mano  Unisex  Beige  Fallen Rock   Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2QF8DX/?tag=tolees-21'
+descuento: '54.29'
+titulo: 'Helly Hansen Stockholm Backpack Bolso de'
 ---
 
 Ahora mismo tienes [Helly Hansen Stockholm Backpack Bolso de Mano  Unisex  Beige  Fallen Rock   Talla única](https://www.amazon.es/dp/B07F2QF8DX/?tag=tolees-21) a 32 EUR (original: 70 EUR) (54.29 %  de descuento) en el siguiente enlace!

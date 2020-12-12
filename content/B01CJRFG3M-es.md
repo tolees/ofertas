@@ -17,6 +17,9 @@ comparePrice: 49.5 EUR
 inStock: true
 prodname: 'PEACE&LOVE BY CALAO Vestido Marrón S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CJRFG3M/?tag=tolees-21'
+descuento: '69.88'
+titulo: 'PEACE&LOVE BY CALAO Vestido Marrón S'
 ---
 
 Está [PEACE&LOVE BY CALAO Vestido Marrón S](https://www.amazon.es/dp/B01CJRFG3M/?tag=tolees-21) con 69.88 de descuento por 14.91 EUR (original: 49.5 EUR) en el siguiente enlace!

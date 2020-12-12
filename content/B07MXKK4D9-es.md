@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Salomon Coton Logo SS tee Camiseta  Hombre  Rojo  Biking Red   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MXKK4D9/?tag=tolees-21'
+descuento: '47.79'
+titulo: 'Salomon Coton Logo SS tee Camiseta  Homb'
 ---
 
 Ahora mismo tienes [Salomon Coton Logo SS tee Camiseta  Hombre  Rojo  Biking Red   S](https://www.amazon.es/dp/B07MXKK4D9/?tag=tolees-21) a 14.62 EUR (original: 28 EUR) (47.79 %  de descuento) en el siguiente enlace!

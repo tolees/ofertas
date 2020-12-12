@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'The North Face Kids TNF Sudaderas  Niños  Turkish Sea  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078QT9GGR/?tag=tolees-21'
+descuento: '45.72'
+titulo: 'The North Face Kids TNF Sudaderas  Niños'
 ---
 
 Tienes [The North Face Kids TNF Sudaderas  Niños  Turkish Sea  XL](https://www.amazon.es/dp/B078QT9GGR/?tag=tolees-21) con un 45.72 % de descuento con precio de oferta de 70.57 EUR (original: 130 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Puma One 2 IL LTH FG  Zapatillas de Fútbol para Hombre  Morado  Color Shift-Biscay Green White Black   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSCR9KZ/?tag=tolees-21'
+descuento: '81.15'
+titulo: 'Puma One 2 IL LTH FG  Zapatillas de Fútb'
 ---
 
 Está [Puma One 2 IL LTH FG  Zapatillas de Fútbol para Hombre  Morado  Color Shift-Biscay Green White Black   41 EU](https://www.amazon.es/dp/B07CSCR9KZ/?tag=tolees-21) con 81.15 de descuento por 22.61 EUR (original: 119.95 EUR) en el siguiente enlace!

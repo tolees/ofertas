@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'Asics Gel-Nimbus 21 1011a257-001  Zapatillas de Running para Hombre  Negro  Black/Classic Red 001   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K72VCGX/?tag=tolees-21'
+descuento: '32.04'
+titulo: 'Asics Gel-Nimbus 21 1011a257-001  Zapati'
 ---
 
 Está [Asics Gel-Nimbus 21 1011a257-001  Zapatillas de Running para Hombre  Negro  Black/Classic Red 001   42.5 EU](https://www.amazon.es/dp/B07K72VCGX/?tag=tolees-21) con 32.04 de descuento por 122.32 EUR (original: 180 EUR) en el siguiente enlace!

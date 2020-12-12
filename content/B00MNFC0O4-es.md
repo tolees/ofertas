@@ -17,6 +17,9 @@ comparePrice: 130.08 EUR
 inStock: true
 prodname: 'Swiss Military Hanowa 06-7230.04.007 - Reloj de pulsera mujer  acero inoxidable  color plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MNFC0O4/?tag=tolees-21'
+descuento: '40.22'
+titulo: 'Swiss Military Hanowa 06-7230.04.007 - R'
 ---
 
 Está [Swiss Military Hanowa 06-7230.04.007 - Reloj de pulsera mujer  acero inoxidable  color plateado](https://www.amazon.es/dp/B00MNFC0O4/?tag=tolees-21) con 40.22 de descuento por 77.76 EUR (original: 130.08 EUR) en el siguiente enlace!

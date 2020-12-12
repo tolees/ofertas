@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Dickies Slim Straight Work Pant Pantalones  Hombre  Naranja  Energy Orange EOR    Tamaño del Fabricante:38/34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078TS2HFD/?tag=tolees-21'
+descuento: '79.84'
+titulo: 'Dickies Slim Straight Work Pant Pantalon'
 ---
 
 Ahora mismo tienes [Dickies Slim Straight Work Pant Pantalones  Hombre  Naranja  Energy Orange EOR    Tamaño del Fabricante:38/34 ](https://www.amazon.es/dp/B078TS2HFD/?tag=tolees-21) a 11.09 EUR (original: 55 EUR) (79.84 %  de descuento) en el siguiente enlace!

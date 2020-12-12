@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Clarks Un Rise Lace  Zapatos de Cordones Derby para Hombre  Gris  Dark Grey Lea   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B94LF6D/?tag=tolees-21'
+descuento: '55.04'
+titulo: 'Clarks Un Rise Lace  Zapatos de Cordones'
 ---
 
 Ahora mismo tienes [Clarks Un Rise Lace  Zapatos de Cordones Derby para Hombre  Gris  Dark Grey Lea   43 EU](https://www.amazon.es/dp/B07B94LF6D/?tag=tolees-21) a 53.95 EUR (original: 120 EUR) (55.04 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'MERAKI Camisa Oxford Entallada Hombre  Camisa Hombre  Azul  Blue   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07993NKWC/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'MERAKI Camisa Oxford Entallada Hombre  C'
 ---
 
 Está [MERAKI Camisa Oxford Entallada Hombre  Camisa Hombre  Azul  Blue   Large](https://www.amazon.es/dp/B07993NKWC/?tag=tolees-21) con 25.00 de descuento por 18.75 EUR (original: 25 EUR) en el siguiente enlace!

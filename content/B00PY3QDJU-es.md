@@ -17,6 +17,9 @@ comparePrice: 369 EUR
 inStock: true
 prodname: 'Lindberg & Sons - Reloj con movimiento de cuarzo hecho en Suiza para hombre  esfera analogica  correa de cuero LS15SA5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PY3QDJU/?tag=tolees-21'
+descuento: '74.08'
+titulo: 'Lindberg & Sons - Reloj con movimiento d'
 ---
 
 Tienes [Lindberg & Sons - Reloj con movimiento de cuarzo hecho en Suiza para hombre  esfera analogica  correa de cuero LS15SA5](https://www.amazon.es/dp/B00PY3QDJU/?tag=tolees-21) con un 74.08 % de descuento con precio de oferta de 95.66 EUR (original: 369 EUR) en el siguiente enlace!

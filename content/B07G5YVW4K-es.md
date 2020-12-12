@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Teléfono móvil con Tapa para Personas Mayores  Teclas Grandes  Isheep SF213 gsm  Pantalla de 2 4 Pulgadas  tecla de Emergencia  cámara  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G5YVW4K/?tag=tolees-21'
+descuento: '34.73'
+titulo: 'Teléfono móvil con Tapa para Personas Ma'
 ---
 
 Está [Teléfono móvil con Tapa para Personas Mayores  Teclas Grandes  Isheep SF213 gsm  Pantalla de 2 4 Pulgadas  tecla de Emergencia  cámara  Rojo ](https://www.amazon.es/dp/B07G5YVW4K/?tag=tolees-21) con 34.73 de descuento por 35.9 EUR (original: 55 EUR) en el siguiente enlace!

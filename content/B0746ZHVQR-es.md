@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'CAMPER Right Nina  Merceditas para Mujer  Rosa  Medium Pink 660   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0746ZHVQR/?tag=tolees-21'
+descuento: '50.71'
+titulo: 'CAMPER Right Nina  Merceditas para Mujer'
 ---
 
 Ahora mismo tienes [CAMPER Right Nina  Merceditas para Mujer  Rosa  Medium Pink 660   39 EU](https://www.amazon.es/dp/B0746ZHVQR/?tag=tolees-21) a 54.22 EUR (original: 110 EUR) (50.71 %  de descuento) en el siguiente enlace!

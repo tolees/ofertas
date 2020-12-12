@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'The North Face Rodey - Mochila  Unisex Adulto  Urban Navy/Shady Blue  OS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LGXFK3V/?tag=tolees-21'
+descuento: '42.17'
+titulo: 'The North Face Rodey - Mochila  Unisex A'
 ---
 
 Está [The North Face Rodey - Mochila  Unisex Adulto  Urban Navy/Shady Blue  OS](https://www.amazon.es/dp/B07LGXFK3V/?tag=tolees-21) con 42.17 de descuento por 37.59 EUR (original: 65 EUR) en el siguiente enlace!

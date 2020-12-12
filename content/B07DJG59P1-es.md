@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 41ms704  Botas Slouch Unisex niños  Gris  Grau 200   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJG59P1/?tag=tolees-21'
+descuento: '71.44'
+titulo: 'Dockers by Gerli 41ms704  Botas Slouch U'
 ---
 
 Está [Dockers by Gerli 41ms704  Botas Slouch Unisex niños  Gris  Grau 200   40 EU](https://www.amazon.es/dp/B07DJG59P1/?tag=tolees-21) con 71.44 de descuento por 11.41 EUR (original: 39.95 EUR) en el siguiente enlace!

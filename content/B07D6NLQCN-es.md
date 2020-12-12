@@ -17,6 +17,9 @@ comparePrice: 50.99 EUR
 inStock: true
 prodname: 'JOGVELO Maillot Ciclismo  Ropa Ciclismo Conjunto Hombre Jersey + Culotes Ciclismo Reflectante Transpirable  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D6NLQCN/?tag=tolees-21'
+descuento: '39.22'
+titulo: 'JOGVELO Maillot Ciclismo  Ropa Ciclismo '
 ---
 
 Está [JOGVELO Maillot Ciclismo  Ropa Ciclismo Conjunto Hombre Jersey + Culotes Ciclismo Reflectante Transpirable  XXL](https://www.amazon.es/dp/B07D6NLQCN/?tag=tolees-21) con 39.22 de descuento por 30.99 EUR (original: 50.99 EUR) en el siguiente enlace!

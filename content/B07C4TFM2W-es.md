@@ -17,6 +17,9 @@ comparePrice: 42.99 EUR
 inStock: true
 prodname: 'Basong Lámpara de Pie LED con Luz Cálida y Fría con Cuello Flexible Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C4TFM2W/?tag=tolees-21'
+descuento: '53.50'
+titulo: 'Basong Lámpara de Pie LED con Luz Cálida'
 ---
 
 Está [Basong Lámpara de Pie LED con Luz Cálida y Fría con Cuello Flexible Negro](https://www.amazon.es/dp/B07C4TFM2W/?tag=tolees-21) con 53.50 de descuento por 19.99 EUR (original: 42.99 EUR) en el siguiente enlace!

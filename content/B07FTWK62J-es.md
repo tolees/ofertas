@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Broken Blue Sx   31W/36L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTWK62J/?tag=tolees-21'
+descuento: '69.61'
+titulo: 'Lee Daren Zip Fly Vaqueros rectors Recto'
 ---
 
 Tienes [Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Broken Blue Sx   31W/36L para Hombre](https://www.amazon.es/dp/B07FTWK62J/?tag=tolees-21) con un 69.61 % de descuento con precio de oferta de 27.34 EUR (original: 89.95 EUR) en el siguiente enlace!

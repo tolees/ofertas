@@ -17,6 +17,9 @@ comparePrice: 64.99 EUR
 inStock: true
 prodname: 'LEGO Friends - Estación de esquí: Telesillas  41324 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06W2KC5R5/?tag=tolees-21'
+descuento: '29.99'
+titulo: 'LEGO Friends - Estación de esquí: Telesi'
 ---
 
 Tienes [LEGO Friends - Estación de esquí: Telesillas  41324 ](https://www.amazon.es/dp/B06W2KC5R5/?tag=tolees-21) con un 29.99 % de descuento con precio de oferta de 45.5 EUR (original: 64.99 EUR) en el siguiente enlace!

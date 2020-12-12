@@ -17,6 +17,9 @@ comparePrice: 18.23 EUR
 inStock: true
 prodname: 'LuckyGirls Zapatillas de Correr Malla Jogging Zapatos Informales con Cordones Calzado Deportivo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J1LWWNP/?tag=tolees-21'
+descuento: '98.03'
+titulo: 'LuckyGirls Zapatillas de Correr Malla Jo'
 ---
 
 Ahora mismo tienes [LuckyGirls Zapatillas de Correr Malla Jogging Zapatos Informales con Cordones Calzado Deportivo](https://www.amazon.es/dp/B07J1LWWNP/?tag=tolees-21) a 0.36 EUR (original: 18.23 EUR) (98.03 %  de descuento) en el siguiente enlace!

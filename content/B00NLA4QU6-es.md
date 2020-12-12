@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'KitSound KSCUBBTBL - Altavoz portátil con Bluetooth  inalámbrico  universal  con toma de 3.5 mm compatible con smartphones  tabletas y dispositivos MP3  color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NLA4QU6/?tag=tolees-21'
+descuento: '66.70'
+titulo: 'KitSound KSCUBBTBL - Altavoz portátil co'
 ---
 
 Está [KitSound KSCUBBTBL - Altavoz portátil con Bluetooth  inalámbrico  universal  con toma de 3.5 mm compatible con smartphones  tabletas y dispositivos MP3  color azul](https://www.amazon.es/dp/B00NLA4QU6/?tag=tolees-21) con 66.70 de descuento por 9.99 EUR (original: 30 EUR) en el siguiente enlace!

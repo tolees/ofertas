@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Grabadora CD DVD Externa  AUCEE USB 3.0 Tipo-C Puerto Dual Control tactil Unidad CD/DVD Externa Portátil Escritor Quemador reescritura Compatible Laptop/Macbook/Desktop /Win10/7/8/XP/Mac OS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P8QZF2R/?tag=tolees-21'
+descuento: '45.66'
+titulo: 'Grabadora CD DVD Externa  AUCEE USB 3.0 '
 ---
 
 Ahora mismo tienes [Grabadora CD DVD Externa  AUCEE USB 3.0 Tipo-C Puerto Dual Control tactil Unidad CD/DVD Externa Portátil Escritor Quemador reescritura Compatible Laptop/Macbook/Desktop /Win10/7/8/XP/Mac OS](https://www.amazon.es/dp/B07P8QZF2R/?tag=tolees-21) a 24.99 EUR (original: 45.99 EUR) (45.66 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Fortnite Pack 2 Figuras Pint Size Heroes Raptor & Elite Agent'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQSY8YB/?tag=tolees-21'
+descuento: '49.73'
+titulo: 'Fortnite Pack 2 Figuras Pint Size Heroes'
 ---
 
 Tienes [Fortnite Pack 2 Figuras Pint Size Heroes Raptor & Elite Agent](https://www.amazon.es/dp/B07JQSY8YB/?tag=tolees-21) con un 49.73 % de descuento con precio de oferta de 6.51 EUR (original: 12.95 EUR) en el siguiente enlace!

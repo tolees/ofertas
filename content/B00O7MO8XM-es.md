@@ -17,6 +17,9 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'Buff 108723  Cinta de Pelo Unisex Adulto  Negro  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00O7MO8XM/?tag=tolees-21'
+descuento: '35.84'
+titulo: 'Buff 108723  Cinta de Pelo Unisex Adulto'
 ---
 
 Tienes [Buff 108723  Cinta de Pelo Unisex Adulto  Negro  Talla Única](https://www.amazon.es/dp/B00O7MO8XM/?tag=tolees-21) con un 35.84 % de descuento con precio de oferta de 8.95 EUR (original: 13.95 EUR) en el siguiente enlace!

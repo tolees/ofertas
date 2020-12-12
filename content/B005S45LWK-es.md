@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Medisana PSD 40461  Báscula de Baño de Estilo Retro  Diseño Clásico  Gran Escala  Sin Pilas  Hasta 150 kg  Superficie Antideslizante'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005S45LWK/?tag=tolees-21'
+descuento: '38.18'
+titulo: 'Medisana PSD 40461  Báscula de Baño de E'
 ---
 
 Ahora mismo tienes [Medisana PSD 40461  Báscula de Baño de Estilo Retro  Diseño Clásico  Gran Escala  Sin Pilas  Hasta 150 kg  Superficie Antideslizante](https://www.amazon.es/dp/B005S45LWK/?tag=tolees-21) a 37.03 EUR (original: 59.9 EUR) (38.18 %  de descuento) en el siguiente enlace!

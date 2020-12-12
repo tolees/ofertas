@@ -17,6 +17,9 @@ comparePrice: 70.66 EUR
 inStock: true
 prodname: 'Reebok PT Prime Runner FC  Zapatillas de Entrenamiento para Hombre  Negro  Black/Coal/Ash Grey/Rustic Wine/White 0   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2QZL4H/?tag=tolees-21'
+descuento: '59.58'
+titulo: 'Reebok PT Prime Runner FC  Zapatillas de'
 ---
 
 Está [Reebok PT Prime Runner FC  Zapatillas de Entrenamiento para Hombre  Negro  Black/Coal/Ash Grey/Rustic Wine/White 0   44 EU](https://www.amazon.es/dp/B07D2QZL4H/?tag=tolees-21) con 59.58 de descuento por 28.56 EUR (original: 70.66 EUR) en el siguiente enlace!

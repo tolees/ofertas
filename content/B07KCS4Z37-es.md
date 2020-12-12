@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Hurley M Icon Stretch Chino 19  Bermudas  Hombre  Obsidian  34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCS4Z37/?tag=tolees-21'
+descuento: '51.53'
+titulo: 'Hurley M Icon Stretch Chino 19  Bermudas'
 ---
 
 Tienes [Hurley M Icon Stretch Chino 19  Bermudas  Hombre  Obsidian  34](https://www.amazon.es/dp/B07KCS4Z37/?tag=tolees-21) con un 51.53 % de descuento con precio de oferta de 21.81 EUR (original: 45 EUR) en el siguiente enlace!

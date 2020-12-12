@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Kappa Bliss Mid Ii Tex  Botines Unisex Niños  Azul  EU 31'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EYJB772/?tag=tolees-21'
+descuento: '78.77'
+titulo: 'Kappa Bliss Mid Ii Tex  Botines Unisex N'
 ---
 
 Ahora mismo tienes [Kappa Bliss Mid Ii Tex  Botines Unisex Niños  Azul  EU 31](https://www.amazon.es/dp/B01EYJB772/?tag=tolees-21) a 12.73 EUR (original: 59.95 EUR) (78.77 %  de descuento) en el siguiente enlace!

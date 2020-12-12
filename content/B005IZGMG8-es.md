@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Panasonic KX-TG1612 - Teléfono Fijo inalámbrico Dúo  LCD  identificador de Llamadas  Intercomunicación  tecla de navegación  Alarma  Reloj   Color Negro y Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005IZGMG8/?tag=tolees-21'
+descuento: '29.37'
+titulo: 'Panasonic KX-TG1612 - Teléfono Fijo inal'
 ---
 
 Está [Panasonic KX-TG1612 - Teléfono Fijo inalámbrico Dúo  LCD  identificador de Llamadas  Intercomunicación  tecla de navegación  Alarma  Reloj   Color Negro y Blanco](https://www.amazon.es/dp/B005IZGMG8/?tag=tolees-21) con 29.37 de descuento por 31.75 EUR (original: 44.95 EUR) en el siguiente enlace!
@@ -25,11 +28,11 @@ Está [Panasonic KX-TG1612 - Teléfono Fijo inalámbrico Dúo  LCD  identificado
 
 Principales características:
 
-- Tecla de navegación: sí
-- Registro de llamada: 50 artículos (número y nombres)
 - Jack de auriculares: no
-- Altavoz: no
+- Registro de llamada: 50 artículos (número y nombres)
 - Identificación de llamada audible: no
+- Altavoz: no
+- Tecla de navegación: sí
 - Identificador de llamada: compatibilidad con identificador de llamada: sí
 
 [Ver la oferta!!](https://www.amazon.es/dp/B005IZGMG8/?tag=tolees-21)

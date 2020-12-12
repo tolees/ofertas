@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'THE NORTH FACE M Litewave Flow Lace II  Zapatillas de Senderismo para Hombre  Negro Black/TNF White KY4  40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4FG1HT/?tag=tolees-21'
+descuento: '53.16'
+titulo: 'THE NORTH FACE M Litewave Flow Lace II  '
 ---
 
 Tienes [THE NORTH FACE M Litewave Flow Lace II  Zapatillas de Senderismo para Hombre  Negro Black/TNF White KY4  40.5 EU](https://www.amazon.es/dp/B07G4FG1HT/?tag=tolees-21) con un 53.16 % de descuento con precio de oferta de 42.16 EUR (original: 90 EUR) en el siguiente enlace!

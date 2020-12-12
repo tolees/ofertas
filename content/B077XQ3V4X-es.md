@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Under Armour Rival Fleece Po Hoodie Parte Superior del Calentamiento  Hombre  Gris  Charcoal Light Heather/Black 020   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XQ3V4X/?tag=tolees-21'
+descuento: '46.01'
+titulo: 'Under Armour Rival Fleece Po Hoodie Part'
 ---
 
 Tienes [Under Armour Rival Fleece Po Hoodie Parte Superior del Calentamiento  Hombre  Gris  Charcoal Light Heather/Black 020   S](https://www.amazon.es/dp/B077XQ3V4X/?tag=tolees-21) con un 46.01 % de descuento con precio de oferta de 26.99 EUR (original: 49.99 EUR) en el siguiente enlace!

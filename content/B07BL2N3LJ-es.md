@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Mujer  Morado  Voltage Violet/Eclipse Vv   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL2N3LJ/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'New Balance Fresh Foam Zante Pursuit  Za'
 ---
 
 Tienes [New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Mujer  Morado  Voltage Violet/Eclipse Vv   36 EU](https://www.amazon.es/dp/B07BL2N3LJ/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 60 EUR (original: 120 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34 EUR
 inStock: true
 prodname: 'Superdry Premium Goods Puff Foil Infill Entry tee Camiseta  Gris  Vintage Grey Marl C90   Medium  Talla del Fabricante: 12  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZJ4P62/?tag=tolees-21'
+descuento: '53.09'
+titulo: 'Superdry Premium Goods Puff Foil Infill '
 ---
 
 Está [Superdry Premium Goods Puff Foil Infill Entry tee Camiseta  Gris  Vintage Grey Marl C90   Medium  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07MZJ4P62/?tag=tolees-21) con 53.09 de descuento por 15.95 EUR (original: 34 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 175 EUR
 inStock: true
 prodname: 'Diesel Buster  Vaqueros Straight para Hombre  Azul  01 Blue Denim 069bm  W36/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHXCMXD/?tag=tolees-21'
+descuento: '70.56'
+titulo: 'Diesel Buster  Vaqueros Straight para Ho'
 ---
 
 Está [Diesel Buster  Vaqueros Straight para Hombre  Azul  01 Blue Denim 069bm  W36/L32](https://www.amazon.es/dp/B07DHXCMXD/?tag=tolees-21) con 70.56 de descuento por 51.52 EUR (original: 175 EUR) en el siguiente enlace!

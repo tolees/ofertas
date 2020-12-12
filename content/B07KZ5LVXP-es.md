@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel C1Bcc Print Flor Navy T-S Camisa Casual  Hombre  Azul  Azul Marino 10   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ5LVXP/?tag=tolees-21'
+descuento: '64.45'
+titulo: 'Cortefiel C1Bcc Print Flor Navy T-S Cami'
 ---
 
 Tienes [Cortefiel C1Bcc Print Flor Navy T-S Camisa Casual  Hombre  Azul  Azul Marino 10   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07KZ5LVXP/?tag=tolees-21) con un 64.45 % de descuento con precio de oferta de 17.77 EUR (original: 49.99 EUR) en el siguiente enlace!

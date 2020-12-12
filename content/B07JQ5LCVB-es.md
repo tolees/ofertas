@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Levi s SS Original Hm tee Camiseta  Gris  Trim/Blend + Patch Obsidian Heather 0002   X-Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQ5LCVB/?tag=tolees-21'
+descuento: '32.20'
+titulo: 'Levi s SS Original Hm tee Camiseta  Gris'
 ---
 
 Tienes [Levi s SS Original Hm tee Camiseta  Gris  Trim/Blend + Patch Obsidian Heather 0002   X-Small para Hombre](https://www.amazon.es/dp/B07JQ5LCVB/?tag=tolees-21) con un 32.20 % de descuento con precio de oferta de 16.95 EUR (original: 25 EUR) en el siguiente enlace!

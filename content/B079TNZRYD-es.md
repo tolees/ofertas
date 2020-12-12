@@ -17,6 +17,9 @@ comparePrice: 7 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Camiseta Estampada de Algodón Sin Etiqueta  Rojo  ES 38 / S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079TNZRYD/?tag=tolees-21'
+descuento: '38.57'
+titulo: 'oodji Ultra Mujer Camiseta Estampada de '
 ---
 
 Está [oodji Ultra Mujer Camiseta Estampada de Algodón Sin Etiqueta  Rojo  ES 38 / S](https://www.amazon.es/dp/B079TNZRYD/?tag=tolees-21) con 38.57 de descuento por 4.3 EUR (original: 7 EUR) en el siguiente enlace!

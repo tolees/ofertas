@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Oleein Calzoncillos Ropa Interior Ciclismo Pantalones Interiores Ciclismo Pantalones Cortos y Ligeros con 3D Gel'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ94NYQ/?tag=tolees-21'
+descuento: '61.13'
+titulo: 'Oleein Calzoncillos Ropa Interior Ciclis'
 ---
 
 Ahora mismo tienes [Oleein Calzoncillos Ropa Interior Ciclismo Pantalones Interiores Ciclismo Pantalones Cortos y Ligeros con 3D Gel](https://www.amazon.es/dp/B07DJ94NYQ/?tag=tolees-21) a 13.99 EUR (original: 35.99 EUR) (61.13 %  de descuento) en el siguiente enlace!

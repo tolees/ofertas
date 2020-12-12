@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Art 1300 Memphis Black/I Explore  Sandalias con Punta Abierta para Mujer  Negro  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0771VGSG8/?tag=tolees-21'
+descuento: '33.35'
+titulo: 'Art 1300 Memphis Black/I Explore  Sandal'
 ---
 
 Ahora mismo tienes [Art 1300 Memphis Black/I Explore  Sandalias con Punta Abierta para Mujer  Negro  40 EU](https://www.amazon.es/dp/B0771VGSG8/?tag=tolees-21) a 49.99 EUR (original: 75 EUR) (33.35 %  de descuento) en el siguiente enlace!

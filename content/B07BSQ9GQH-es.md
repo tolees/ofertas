@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'REPLAY Sweater  Sudadera Mujer  Blanco  Ice 209   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BSQ9GQH/?tag=tolees-21'
+descuento: '63.04'
+titulo: 'REPLAY Sweater  Sudadera Mujer  Blanco  '
 ---
 
 Está [REPLAY Sweater  Sudadera Mujer  Blanco  Ice 209   Small](https://www.amazon.es/dp/B07BSQ9GQH/?tag=tolees-21) con 63.04 de descuento por 32.89 EUR (original: 89 EUR) en el siguiente enlace!

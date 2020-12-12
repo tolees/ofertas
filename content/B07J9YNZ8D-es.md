@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'Estrella de Castilla  Chorizo de Bellota Ibérico Cular Extra - 600 gr.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J9YNZ8D/?tag=tolees-21'
+descuento: '28.40'
+titulo: 'Estrella de Castilla  Chorizo de Bellota'
 ---
 
 Tienes [Estrella de Castilla  Chorizo de Bellota Ibérico Cular Extra - 600 gr.](https://www.amazon.es/dp/B07J9YNZ8D/?tag=tolees-21) con un 28.40 % de descuento con precio de oferta de 10.74 EUR (original: 15 EUR) en el siguiente enlace!

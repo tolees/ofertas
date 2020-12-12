@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Braun Face 810 - Depiladora Facial con Cepillo Limpiador Facial  Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LZPLRCE/?tag=tolees-21'
+descuento: '42.41'
+titulo: 'Braun Face 810 - Depiladora Facial con C'
 ---
 
 Tienes [Braun Face 810 - Depiladora Facial con Cepillo Limpiador Facial  Color Blanco](https://www.amazon.es/dp/B00LZPLRCE/?tag=tolees-21) con un 42.41 % de descuento con precio de oferta de 40.31 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'AJOXEL Afilador Cuchillos Profesional  3 Pasos Sistema Manual de Cocina Acero de Tungsteno y Cerámica para Cuchillos de Varios Tamaños Afiladores Manuales  Protección de Dedos Extra'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FD7Y9HR/?tag=tolees-21'
+descuento: '66.69'
+titulo: 'AJOXEL Afilador Cuchillos Profesional  3'
 ---
 
 Ahora mismo tienes [AJOXEL Afilador Cuchillos Profesional  3 Pasos Sistema Manual de Cocina Acero de Tungsteno y Cerámica para Cuchillos de Varios Tamaños Afiladores Manuales  Protección de Dedos Extra](https://www.amazon.es/dp/B07FD7Y9HR/?tag=tolees-21) a 9.99 EUR (original: 29.99 EUR) (66.69 %  de descuento) en el siguiente enlace!

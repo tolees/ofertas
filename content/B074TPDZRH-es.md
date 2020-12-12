@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Vans Sk8-hi 46 MTE DX  Zapatillas Unisex Adulto  Marrón  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074TPDZRH/?tag=tolees-21'
+descuento: '78.30'
+titulo: 'Vans Sk8-hi 46 MTE DX  Zapatillas Unisex'
 ---
 
 Ahora mismo tienes [Vans Sk8-hi 46 MTE DX  Zapatillas Unisex Adulto  Marrón  36 EU](https://www.amazon.es/dp/B074TPDZRH/?tag=tolees-21) a 24.96 EUR (original: 115 EUR) (78.30 %  de descuento) en el siguiente enlace!

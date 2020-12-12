@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'edc by Esprit 037cc2c002  Pantalones Cortos para Hombre  Azul  Light Blue  46  Talla del Fabricante: 30 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXZY6AI/?tag=tolees-21'
+descuento: '66.39'
+titulo: 'edc by Esprit 037cc2c002  Pantalones Cor'
 ---
 
 Está [edc by Esprit 037cc2c002  Pantalones Cortos para Hombre  Azul  Light Blue  46  Talla del Fabricante: 30 ](https://www.amazon.es/dp/B01MXZY6AI/?tag=tolees-21) con 66.39 de descuento por 10.08 EUR (original: 29.99 EUR) en el siguiente enlace!

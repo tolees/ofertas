@@ -17,6 +17,9 @@ comparePrice: 109.94 EUR
 inStock: true
 prodname: 'Sublevel H5086N44271A - Parka para Hombre  Color Dark Green 12400  Talla S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00O45LZYC/?tag=tolees-21'
+descuento: '82.92'
+titulo: 'Sublevel H5086N44271A - Parka para Hombr'
 ---
 
 Tienes [Sublevel H5086N44271A - Parka para Hombre  Color Dark Green 12400  Talla S](https://www.amazon.es/dp/B00O45LZYC/?tag=tolees-21) con un 82.92 % de descuento con precio de oferta de 18.78 EUR (original: 109.94 EUR) en el siguiente enlace!

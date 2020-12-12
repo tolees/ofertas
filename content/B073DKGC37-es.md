@@ -17,6 +17,9 @@ comparePrice: 35.27 EUR
 inStock: true
 prodname: 'Giochi Preziosi – Dragon Ball Super Spin Battlers 2 Figuras y 2 Basi  Goku Super Sayan vs Majin – Buu Vegeta Super Sayan vs Freezer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073DKGC37/?tag=tolees-21'
+descuento: '31.41'
+titulo: 'Giochi Preziosi – Dragon Ball Super Spin'
 ---
 
 Ahora mismo tienes [Giochi Preziosi – Dragon Ball Super Spin Battlers 2 Figuras y 2 Basi  Goku Super Sayan vs Majin – Buu Vegeta Super Sayan vs Freezer](https://www.amazon.es/dp/B073DKGC37/?tag=tolees-21) a 24.19 EUR (original: 35.27 EUR) (31.41 %  de descuento) en el siguiente enlace!

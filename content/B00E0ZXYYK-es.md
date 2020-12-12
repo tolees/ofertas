@@ -17,6 +17,9 @@ comparePrice: 57 EUR
 inStock: true
 prodname: 'Philips myKidsRoom Avigo - Lámpara colgante de techo  iluminación interior  luz blanca cálida  bombilla de 15 W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00E0ZXYYK/?tag=tolees-21'
+descuento: '33.77'
+titulo: 'Philips myKidsRoom Avigo - Lámpara colga'
 ---
 
 Tienes [Philips myKidsRoom Avigo - Lámpara colgante de techo  iluminación interior  luz blanca cálida  bombilla de 15 W](https://www.amazon.es/dp/B00E0ZXYYK/?tag=tolees-21) con un 33.77 % de descuento con precio de oferta de 37.75 EUR (original: 57 EUR) en el siguiente enlace!

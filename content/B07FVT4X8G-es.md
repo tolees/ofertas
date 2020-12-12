@@ -17,6 +17,9 @@ comparePrice: 105.99 EUR
 inStock: true
 prodname: 'Juego de Herramientas  TECCPO Professional 102 Piezas de Caja de Herramientas  Juego de Destornilladores de Precisión  llave  Martillo  Alicates  Ideal para Reparaciones en el Hogar - THTC01H'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FVT4X8G/?tag=tolees-21'
+descuento: '52.84'
+titulo: 'Juego de Herramientas  TECCPO Profession'
 ---
 
 Está [Juego de Herramientas  TECCPO Professional 102 Piezas de Caja de Herramientas  Juego de Destornilladores de Precisión  llave  Martillo  Alicates  Ideal para Reparaciones en el Hogar - THTC01H](https://www.amazon.es/dp/B07FVT4X8G/?tag=tolees-21) con 52.84 de descuento por 49.99 EUR (original: 105.99 EUR) en el siguiente enlace!

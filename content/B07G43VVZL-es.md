@@ -17,6 +17,9 @@ comparePrice: 41.95 EUR
 inStock: true
 prodname: 'BOSS Trunk 2p Gift Co Bóxer  Rojo  Bright Red 623   X-Large  Pack de 2 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G43VVZL/?tag=tolees-21'
+descuento: '56.28'
+titulo: 'BOSS Trunk 2p Gift Co Bóxer  Rojo  Brigh'
 ---
 
 Ahora mismo tienes [BOSS Trunk 2p Gift Co Bóxer  Rojo  Bright Red 623   X-Large  Pack de 2 para Hombre](https://www.amazon.es/dp/B07G43VVZL/?tag=tolees-21) a 18.34 EUR (original: 41.95 EUR) (56.28 %  de descuento) en el siguiente enlace!

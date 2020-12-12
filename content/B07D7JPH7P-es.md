@@ -17,6 +17,9 @@ comparePrice: 279.9 EUR
 inStock: true
 prodname: 'Dolores Promesas 107364  Vestido para Mujer  Marrón  Grana    Tamaño del Fabricante:38 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7JPH7P/?tag=tolees-21'
+descuento: '52.32'
+titulo: 'Dolores Promesas 107364  Vestido para Mu'
 ---
 
 Tienes [Dolores Promesas 107364  Vestido para Mujer  Marrón  Grana    Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07D7JPH7P/?tag=tolees-21) con un 52.32 % de descuento con precio de oferta de 133.45 EUR (original: 279.9 EUR) en el siguiente enlace!

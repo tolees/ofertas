@@ -17,6 +17,9 @@ comparePrice: 60.49 EUR
 inStock: true
 prodname: 'Braun BG 5010 Afeitadora Corporal para Hombres  depiladora Masculina para El Vello de Todo El Cuerpo  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019FELD48/?tag=tolees-21'
+descuento: '34.04'
+titulo: 'Braun BG 5010 Afeitadora Corporal para H'
 ---
 
 Está [Braun BG 5010 Afeitadora Corporal para Hombres  depiladora Masculina para El Vello de Todo El Cuerpo  Negro](https://www.amazon.es/dp/B019FELD48/?tag=tolees-21) con 34.04 de descuento por 39.9 EUR (original: 60.49 EUR) en el siguiente enlace!

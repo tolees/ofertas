@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Jenny Zandvoort  Zapatillas de Estar por casa para Mujer  Antracita  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FO8LP9M/?tag=tolees-21'
+descuento: '76.73'
+titulo: 'Jenny Zandvoort  Zapatillas de Estar por'
 ---
 
 Tienes [Jenny Zandvoort  Zapatillas de Estar por casa para Mujer  Antracita  38 EU](https://www.amazon.es/dp/B01FO8LP9M/?tag=tolees-21) con un 76.73 % de descuento con precio de oferta de 16.28 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 23.05 EUR
 inStock: true
 prodname: 'Sterntaler 1011750 saquitos calor pequeño  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WRQFXZT/?tag=tolees-21'
+descuento: '73.58'
+titulo: 'Sterntaler 1011750 saquitos calor pequeñ'
 ---
 
 Tienes [Sterntaler 1011750 saquitos calor pequeño  color blanco](https://www.amazon.es/dp/B06WRQFXZT/?tag=tolees-21) con un 73.58 % de descuento con precio de oferta de 6.09 EUR (original: 23.05 EUR) en el siguiente enlace!

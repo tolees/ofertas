@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'STAEDTLER Rotuladores para pizarra blanca Lumocolor  inodoro  secado rápido y recargable. Paquete de 8 unidades de colores variados. 351 WP8'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CNYYJUW/?tag=tolees-21'
+descuento: '34.93'
+titulo: 'STAEDTLER Rotuladores para pizarra blanc'
 ---
 
 Está [STAEDTLER Rotuladores para pizarra blanca Lumocolor  inodoro  secado rápido y recargable. Paquete de 8 unidades de colores variados. 351 WP8](https://www.amazon.es/dp/B01CNYYJUW/?tag=tolees-21) con 34.93 de descuento por 9.76 EUR (original: 15 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Nike Wmns Air Cardio III Lea T-Shirt de Tenis  Mujer  Blanco  38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0076LILDO/?tag=tolees-21'
+descuento: '61.54'
+titulo: 'Nike Wmns Air Cardio III Lea T-Shirt de '
 ---
 
 Está [Nike Wmns Air Cardio III Lea T-Shirt de Tenis  Mujer  Blanco  38](https://www.amazon.es/dp/B0076LILDO/?tag=tolees-21) con 61.54 de descuento por 25 EUR (original: 65 EUR) en el siguiente enlace!

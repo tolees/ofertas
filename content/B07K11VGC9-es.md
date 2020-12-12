@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Alphabounce Trainer W  Zapatillas de Gimnasia para Mujer  Negro Core Black/Grey Four F17/Raw White  37 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K11VGC9/?tag=tolees-21'
+descuento: '61.38'
+titulo: 'adidas Alphabounce Trainer W  Zapatillas'
 ---
 
 Tienes [adidas Alphabounce Trainer W  Zapatillas de Gimnasia para Mujer  Negro Core Black/Grey Four F17/Raw White  37 1/3 EU](https://www.amazon.es/dp/B07K11VGC9/?tag=tolees-21) con un 61.38 % de descuento con precio de oferta de 38.6 EUR (original: 99.95 EUR) en el siguiente enlace!

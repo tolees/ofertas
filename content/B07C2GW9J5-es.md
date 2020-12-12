@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'Emporio Armani Collar cadena Mujer acero inoxidable - EGS2523221'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C2GW9J5/?tag=tolees-21'
+descuento: '53.96'
+titulo: 'Emporio Armani Collar cadena Mujer acero'
 ---
 
 Ahora mismo tienes [Emporio Armani Collar cadena Mujer acero inoxidable - EGS2523221](https://www.amazon.es/dp/B07C2GW9J5/?tag=tolees-21) a 64 EUR (original: 139 EUR) (53.96 %  de descuento) en el siguiente enlace!

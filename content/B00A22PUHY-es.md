@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Rain Shower 0709   29W / 30L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00A22PUHY/?tag=tolees-21'
+descuento: '46.00'
+titulo: 'Levi s 511 Slim Fit  Vaqueros para Hombr'
 ---
 
 Está [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Rain Shower 0709   29W / 30L](https://www.amazon.es/dp/B00A22PUHY/?tag=tolees-21) con 46.00 de descuento por 59.4 EUR (original: 110 EUR) en el siguiente enlace!

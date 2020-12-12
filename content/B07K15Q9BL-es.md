@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Negro  Core Black/Core Black/Carbon Core Black/Core Black/Carbon   36 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K15Q9BL/?tag=tolees-21'
+descuento: '69.96'
+titulo: 'Adidas N-5923 J Zapatillas de Gimnasia U'
 ---
 
 Está [Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Negro  Core Black/Core Black/Carbon Core Black/Core Black/Carbon   36 2/3 EU](https://www.amazon.es/dp/B07K15Q9BL/?tag=tolees-21) con 69.96 de descuento por 18.01 EUR (original: 59.95 EUR) en el siguiente enlace!

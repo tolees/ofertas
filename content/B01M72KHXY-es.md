@@ -17,6 +17,9 @@ comparePrice: 349 EUR
 inStock: true
 prodname: 'NewStar Estación de Trabajo Sentado y de pie NS-WS100BLACK 15KG'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M72KHXY/?tag=tolees-21'
+descuento: '28.95'
+titulo: 'NewStar Estación de Trabajo Sentado y de'
 ---
 
 Está [NewStar Estación de Trabajo Sentado y de pie NS-WS100BLACK 15KG](https://www.amazon.es/dp/B01M72KHXY/?tag=tolees-21) con 28.95 de descuento por 247.95 EUR (original: 349 EUR) en el siguiente enlace!

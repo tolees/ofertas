@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Nike W Af1 Jester XX  Zapatillas de Baloncesto para Mujer  Negro  Black 001   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G5SFR7W/?tag=tolees-21'
+descuento: '25.88'
+titulo: 'Nike W Af1 Jester XX  Zapatillas de Balo'
 ---
 
 Está [Nike W Af1 Jester XX  Zapatillas de Baloncesto para Mujer  Negro  Black 001   38.5 EU](https://www.amazon.es/dp/B07G5SFR7W/?tag=tolees-21) con 25.88 de descuento por 81.53 EUR (original: 110 EUR) en el siguiente enlace!

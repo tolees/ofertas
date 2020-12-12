@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans Industry Neon  Zapatillas para Mujer  Blanco  803OFF White 803   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LFVWYZZ/?tag=tolees-21'
+descuento: '46.86'
+titulo: 'Pepe Jeans Industry Neon  Zapatillas par'
 ---
 
 Está [Pepe Jeans Industry Neon  Zapatillas para Mujer  Blanco  803OFF White 803   36 EU](https://www.amazon.es/dp/B07LFVWYZZ/?tag=tolees-21) con 46.86 de descuento por 34.54 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 31.22 EUR
 inStock: true
 prodname: 'Un Lugar Tranquilo  4K UHD + BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLGJWJS/?tag=tolees-21'
+descuento: '45.90'
+titulo: 'Un Lugar Tranquilo  4K UHD + BD  [Blu-ra'
 ---
 
 Está [Un Lugar Tranquilo  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07FLGJWJS/?tag=tolees-21) con 45.90 de descuento por 16.89 EUR (original: 31.22 EUR) en el siguiente enlace!

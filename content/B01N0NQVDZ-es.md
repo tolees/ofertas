@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Lee Button Down  Camisa para Hombre  Azul  Deep Indigo Jqps   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0NQVDZ/?tag=tolees-21'
+descuento: '65.09'
+titulo: 'Lee Button Down  Camisa para Hombre  Azu'
 ---
 
 Está [Lee Button Down  Camisa para Hombre  Azul  Deep Indigo Jqps   X-Large](https://www.amazon.es/dp/B01N0NQVDZ/?tag=tolees-21) con 65.09 de descuento por 20.93 EUR (original: 59.95 EUR) en el siguiente enlace!

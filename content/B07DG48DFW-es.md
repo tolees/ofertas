@@ -17,6 +17,9 @@ comparePrice: 18.95 EUR
 inStock: true
 prodname: 'Puma Amplified tee Camiseta  Hombre  Negro  Cotton Black   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG48DFW/?tag=tolees-21'
+descuento: '31.66'
+titulo: 'Puma Amplified tee Camiseta  Hombre  Neg'
 ---
 
 Está [Puma Amplified tee Camiseta  Hombre  Negro  Cotton Black   M](https://www.amazon.es/dp/B07DG48DFW/?tag=tolees-21) con 31.66 de descuento por 12.95 EUR (original: 18.95 EUR) en el siguiente enlace!

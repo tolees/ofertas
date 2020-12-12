@@ -17,6 +17,9 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'Dunlop Dee  Botas de Caucho Unisex  Verde  Green 001   44'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I46CJKQ/?tag=tolees-21'
+descuento: '42.65'
+titulo: 'Dunlop Dee  Botas de Caucho Unisex  Verd'
 ---
 
 Está [Dunlop Dee  Botas de Caucho Unisex  Verde  Green 001   44](https://www.amazon.es/dp/B00I46CJKQ/?tag=tolees-21) con 42.65 de descuento por 8 EUR (original: 13.95 EUR) en el siguiente enlace!

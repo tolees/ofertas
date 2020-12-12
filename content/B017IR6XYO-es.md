@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Tucano Svolta Large 15.6" Maletín Negro - Funda  Maletín  39 6 cm  15.6"   Tirante para Hombro  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017IR6XYO/?tag=tolees-21'
+descuento: '67.89'
+titulo: 'Tucano Svolta Large 15.6" Maletín Negro '
 ---
 
 Ahora mismo tienes [Tucano Svolta Large 15.6" Maletín Negro - Funda  Maletín  39 6 cm  15.6"   Tirante para Hombro  Negro ](https://www.amazon.es/dp/B017IR6XYO/?tag=tolees-21) a 9.95 EUR (original: 30.99 EUR) (67.89 %  de descuento) en el siguiente enlace!

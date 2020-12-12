@@ -17,6 +17,9 @@ comparePrice: 68 EUR
 inStock: true
 prodname: 'Trigema 574096-Pantalones Mujer Blau  Blau 046  62'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TFBV81K/?tag=tolees-21'
+descuento: '82.68'
+titulo: 'Trigema 574096-Pantalones Mujer Blau  Bl'
 ---
 
 Tienes [Trigema 574096-Pantalones Mujer Blau  Blau 046  62](https://www.amazon.es/dp/B00TFBV81K/?tag=tolees-21) con un 82.68 % de descuento con precio de oferta de 11.78 EUR (original: 68 EUR) en el siguiente enlace!

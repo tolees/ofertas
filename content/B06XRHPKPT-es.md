@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Pepe Jeans Dave JR PB300948  Blusa para Niños   Multi 0Aa  14 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XRHPKPT/?tag=tolees-21'
+descuento: '77.07'
+titulo: 'Pepe Jeans Dave JR PB300948  Blusa para '
 ---
 
 Tienes [Pepe Jeans Dave JR PB300948  Blusa para Niños   Multi 0Aa  14 años](https://www.amazon.es/dp/B06XRHPKPT/?tag=tolees-21) con un 77.07 % de descuento con precio de oferta de 13.53 EUR (original: 59 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'BOSS T-Shirt RN BP Retro  Camiseta Hombre  Azul  Dark Blue 402   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZNDCRC/?tag=tolees-21'
+descuento: '68.87'
+titulo: 'BOSS T-Shirt RN BP Retro  Camiseta Hombr'
 ---
 
 Está [BOSS T-Shirt RN BP Retro  Camiseta Hombre  Azul  Dark Blue 402   XX-Large](https://www.amazon.es/dp/B07CZNDCRC/?tag=tolees-21) con 68.87 de descuento por 15.55 EUR (original: 49.95 EUR) en el siguiente enlace!

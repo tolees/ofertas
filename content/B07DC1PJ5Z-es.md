@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Smash Wns Buckle  Zapatillas para Mujer  Negro Black White  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1PJ5Z/?tag=tolees-21'
+descuento: '37.03'
+titulo: 'Puma Smash Wns Buckle  Zapatillas para M'
 ---
 
 Está [Puma Smash Wns Buckle  Zapatillas para Mujer  Negro Black White  36 EU](https://www.amazon.es/dp/B07DC1PJ5Z/?tag=tolees-21) con 37.03 de descuento por 37.75 EUR (original: 59.95 EUR) en el siguiente enlace!

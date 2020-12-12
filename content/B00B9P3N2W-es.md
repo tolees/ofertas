@@ -17,6 +17,9 @@ comparePrice: 146.46 EUR
 inStock: true
 prodname: 'Rotary AGB00074/W/04 - Reloj analógico de Cuarzo para Hombre  Correa de Acero Inoxidable Color Plateado  Agujas luminiscentes '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00B9P3N2W/?tag=tolees-21'
+descuento: '26.96'
+titulo: 'Rotary AGB00074/W/04 - Reloj analógico d'
 ---
 
 Ahora mismo tienes [Rotary AGB00074/W/04 - Reloj analógico de Cuarzo para Hombre  Correa de Acero Inoxidable Color Plateado  Agujas luminiscentes ](https://www.amazon.es/dp/B00B9P3N2W/?tag=tolees-21) a 106.97 EUR (original: 146.46 EUR) (26.96 %  de descuento) en el siguiente enlace!

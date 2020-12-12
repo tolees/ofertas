@@ -17,6 +17,9 @@ comparePrice: 40.99 EUR
 inStock: true
 prodname: 'Star Wars PK1112-A Boxer  XX-Small  Tamaño del Fabricante:6  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HP9JY44/?tag=tolees-21'
+descuento: '48.79'
+titulo: 'Star Wars PK1112-A Boxer  XX-Small  Tama'
 ---
 
 Tienes [Star Wars PK1112-A Boxer  XX-Small  Tamaño del Fabricante:6  para Hombre](https://www.amazon.es/dp/B07HP9JY44/?tag=tolees-21) con un 48.79 % de descuento con precio de oferta de 20.99 EUR (original: 40.99 EUR) en el siguiente enlace!

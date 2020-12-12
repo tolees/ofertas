@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers On-The-go City 3  Zapatillas de Entrenamiento para Hombre  Gris  Charcoal   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y47PBGR/?tag=tolees-21'
+descuento: '43.97'
+titulo: 'Skechers On-The-go City 3  Zapatillas de'
 ---
 
 Ahora mismo tienes [Skechers On-The-go City 3  Zapatillas de Entrenamiento para Hombre  Gris  Charcoal   44 EU](https://www.amazon.es/dp/B06Y47PBGR/?tag=tolees-21) a 36.39 EUR (original: 64.95 EUR) (43.97 %  de descuento) en el siguiente enlace!

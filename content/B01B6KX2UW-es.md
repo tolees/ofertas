@@ -17,6 +17,9 @@ comparePrice: 62.5 EUR
 inStock: true
 prodname: 'Puma Speed 500 Ignite Wn  Zapatilla para Mujer  Rojo  Red Blast-Royal Blue-White 01   40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B6KX2UW/?tag=tolees-21'
+descuento: '59.38'
+titulo: 'Puma Speed 500 Ignite Wn  Zapatilla para'
 ---
 
 Tienes [Puma Speed 500 Ignite Wn  Zapatilla para Mujer  Rojo  Red Blast-Royal Blue-White 01   40](https://www.amazon.es/dp/B01B6KX2UW/?tag=tolees-21) con un 59.38 % de descuento con precio de oferta de 25.39 EUR (original: 62.5 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 31.33 EUR
 inStock: true
 prodname: 'Plomo doble para perros correa para perro doble Reflexivo Bungee absorbe impactos 360°Sin enredo para dos perros para caminar/entrenamiento con extra adiestrador de perros y bolsa de basura y colector'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07542MLNZ/?tag=tolees-21'
+descuento: '55.35'
+titulo: 'Plomo doble para perros correa para perr'
 ---
 
 Tienes [Plomo doble para perros correa para perro doble Reflexivo Bungee absorbe impactos 360°Sin enredo para dos perros para caminar/entrenamiento con extra adiestrador de perros y bolsa de basura y colector](https://www.amazon.es/dp/B07542MLNZ/?tag=tolees-21) con un 55.35 % de descuento con precio de oferta de 13.99 EUR (original: 31.33 EUR) en el siguiente enlace!

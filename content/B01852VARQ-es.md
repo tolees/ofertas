@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'NextX 993 RC Nano Quadcopter With Headless Mode  4CH 2.4GHz 6-Gyro  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01852VARQ/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'NextX 993 RC Nano Quadcopter With Headle'
 ---
 
 Está [NextX 993 RC Nano Quadcopter With Headless Mode  4CH 2.4GHz 6-Gyro  Azul](https://www.amazon.es/dp/B01852VARQ/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'New Balance Ms247ek  Zapatillas para Hombre  Negro Black EK  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R6VHB3/?tag=tolees-21'
+descuento: '29.99'
+titulo: 'New Balance Ms247ek  Zapatillas para Hom'
 ---
 
 Tienes [New Balance Ms247ek  Zapatillas para Hombre  Negro Black EK  44.5 EU](https://www.amazon.es/dp/B075R6VHB3/?tag=tolees-21) con un 29.99 % de descuento con precio de oferta de 70 EUR (original: 99.99 EUR) en el siguiente enlace!

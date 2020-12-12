@@ -17,6 +17,9 @@ comparePrice: 280 EUR
 inStock: true
 prodname: 'Helly Hansen Galway Parka Chaqueta  Verde  Large  Tamaño del Fabricante:L  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XH4SGT4/?tag=tolees-21'
+descuento: '65.98'
+titulo: 'Helly Hansen Galway Parka Chaqueta  Verd'
 ---
 
 Ahora mismo tienes [Helly Hansen Galway Parka Chaqueta  Verde  Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B06XH4SGT4/?tag=tolees-21) a 95.25 EUR (original: 280 EUR) (65.98 %  de descuento) en el siguiente enlace!

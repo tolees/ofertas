@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'LIYSET HHB1772 - Hervidor de Agua Compacto de Acero Inoxidable Pulido  Capacidad DE 1 7 litros Potencia de 2200 W Libre de BPA Color Plateado y Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYPKMYZ/?tag=tolees-21'
+descuento: '75.02'
+titulo: 'LIYSET HHB1772 - Hervidor de Agua Compac'
 ---
 
 Está [LIYSET HHB1772 - Hervidor de Agua Compacto de Acero Inoxidable Pulido  Capacidad DE 1 7 litros Potencia de 2200 W Libre de BPA Color Plateado y Negro](https://www.amazon.es/dp/B07DYPKMYZ/?tag=tolees-21) con 75.02 de descuento por 9.99 EUR (original: 39.99 EUR) en el siguiente enlace!

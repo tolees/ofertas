@@ -17,6 +17,9 @@ comparePrice: 16.45 EUR
 inStock: true
 prodname: 'Prisma Natural Colagen Plus Daily - 300 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015H4L4IU/?tag=tolees-21'
+descuento: '31.31'
+titulo: 'Prisma Natural Colagen Plus Daily - 300 '
 ---
 
 Ahora mismo tienes [Prisma Natural Colagen Plus Daily - 300 gr](https://www.amazon.es/dp/B015H4L4IU/?tag=tolees-21) a 11.3 EUR (original: 16.45 EUR) (31.31 %  de descuento) en el siguiente enlace!

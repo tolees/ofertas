@@ -17,6 +17,9 @@ comparePrice: 98 EUR
 inStock: true
 prodname: 'Kingston KVR1333D3S9/8G - Memoria RAM DDR3  CL9 204-Pin SODIMM  1333  8 GB  KVR '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0069RXHQW/?tag=tolees-21'
+descuento: '47.60'
+titulo: 'Kingston KVR1333D3S9/8G - Memoria RAM DD'
 ---
 
 Tienes [Kingston KVR1333D3S9/8G - Memoria RAM DDR3  CL9 204-Pin SODIMM  1333  8 GB  KVR ](https://www.amazon.es/dp/B0069RXHQW/?tag=tolees-21) con un 47.60 % de descuento con precio de oferta de 51.35 EUR (original: 98 EUR) en el siguiente enlace!

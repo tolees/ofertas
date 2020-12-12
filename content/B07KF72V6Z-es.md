@@ -17,6 +17,9 @@ comparePrice: 48 EUR
 inStock: true
 prodname: 'SYROKAN - Sujetador Deportivo Espalda Deportiva con Cremallera Frontal para Mujer Blanco - A283 ES:110D  EU 95D '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KF72V6Z/?tag=tolees-21'
+descuento: '52.10'
+titulo: 'SYROKAN - Sujetador Deportivo Espalda De'
 ---
 
 Está [SYROKAN - Sujetador Deportivo Espalda Deportiva con Cremallera Frontal para Mujer Blanco - A283 ES:110D  EU 95D ](https://www.amazon.es/dp/B07KF72V6Z/?tag=tolees-21) con 52.10 de descuento por 22.99 EUR (original: 48 EUR) en el siguiente enlace!

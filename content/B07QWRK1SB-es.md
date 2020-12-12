@@ -17,6 +17,9 @@ comparePrice: 69.44 EUR
 inStock: true
 prodname: 'WiMaker Mini cámara espía Oculta  WiFi 4K HD pequeña cámara Secreta de niñera para la Seguridad del hogar con detección de Movimiento/grabación en Bucle/visión Nocturna'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QWRK1SB/?tag=tolees-21'
+descuento: '38.09'
+titulo: 'WiMaker Mini cámara espía Oculta  WiFi 4'
 ---
 
 Ahora mismo tienes [WiMaker Mini cámara espía Oculta  WiFi 4K HD pequeña cámara Secreta de niñera para la Seguridad del hogar con detección de Movimiento/grabación en Bucle/visión Nocturna](https://www.amazon.es/dp/B07QWRK1SB/?tag=tolees-21) a 42.99 EUR (original: 69.44 EUR) (38.09 %  de descuento) en el siguiente enlace!

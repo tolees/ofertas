@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Maybelline New York Paleta de Labios Crimson Vixen'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NAJI9HV/?tag=tolees-21'
+descuento: '38.57'
+titulo: 'Maybelline New York Paleta de Labios Cri'
 ---
 
 Está [Maybelline New York Paleta de Labios Crimson Vixen](https://www.amazon.es/dp/B01NAJI9HV/?tag=tolees-21) con 38.57 de descuento por 7.98 EUR (original: 12.99 EUR) en el siguiente enlace!

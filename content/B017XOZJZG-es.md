@@ -17,6 +17,9 @@ comparePrice: 260 EUR
 inStock: true
 prodname: 'Helly Hansen Salt Power Jacket  Hombre  Azul  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017XOZJZG/?tag=tolees-21'
+descuento: '58.72'
+titulo: 'Helly Hansen Salt Power Jacket  Hombre  '
 ---
 
 Ahora mismo tienes [Helly Hansen Salt Power Jacket  Hombre  Azul  L](https://www.amazon.es/dp/B017XOZJZG/?tag=tolees-21) a 107.33 EUR (original: 260 EUR) (58.72 %  de descuento) en el siguiente enlace!

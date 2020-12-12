@@ -17,6 +17,9 @@ comparePrice: 254.45 EUR
 inStock: true
 prodname: 'HP OfficeJet Pro 8725 AiO - Impresora multifunción  Inyección de tinta térmica  300 x 300 DPI  600 x 600 DPI  1200 x 1200 DPI  A4  216 x 356 mm   negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01G5NYKQ0/?tag=tolees-21'
+descuento: '53.23'
+titulo: 'HP OfficeJet Pro 8725 AiO - Impresora mu'
 ---
 
 Tienes [HP OfficeJet Pro 8725 AiO - Impresora multifunción  Inyección de tinta térmica  300 x 300 DPI  600 x 600 DPI  1200 x 1200 DPI  A4  216 x 356 mm   negro](https://www.amazon.es/dp/B01G5NYKQ0/?tag=tolees-21) con un 53.23 % de descuento con precio de oferta de 119 EUR (original: 254.45 EUR) en el siguiente enlace!

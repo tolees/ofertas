@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance 365  Zapatillas Deportivas para Interior para Hombre  Negro  Black   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FSDAQ4S/?tag=tolees-21'
+descuento: '62.20'
+titulo: 'New Balance 365  Zapatillas Deportivas p'
 ---
 
 Ahora mismo tienes [New Balance 365  Zapatillas Deportivas para Interior para Hombre  Negro  Black   44.5 EU](https://www.amazon.es/dp/B01FSDAQ4S/?tag=tolees-21) a 30.24 EUR (original: 80 EUR) (62.20 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 52.9 EUR
 inStock: true
 prodname: 'Postquam Therapy - Placenta Vegetal Postquam Crystal para Combatir la Caida de Pelo - 12 Ampollas x 9 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BJ0S7HS/?tag=tolees-21'
+descuento: '69.94'
+titulo: 'Postquam Therapy - Placenta Vegetal Post'
 ---
 
 Está [Postquam Therapy - Placenta Vegetal Postquam Crystal para Combatir la Caida de Pelo - 12 Ampollas x 9 ml](https://www.amazon.es/dp/B00BJ0S7HS/?tag=tolees-21) con 69.94 de descuento por 15.9 EUR (original: 52.9 EUR) en el siguiente enlace!

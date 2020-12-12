@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Under Armour Grade School Pursuit Ng  Zapatillas de Running para Niñas  Morado  Purple Ace/Black/Mojito Pink 500   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTNT3SY/?tag=tolees-21'
+descuento: '70.33'
+titulo: 'Under Armour Grade School Pursuit Ng  Za'
 ---
 
 Está [Under Armour Grade School Pursuit Ng  Zapatillas de Running para Niñas  Morado  Purple Ace/Black/Mojito Pink 500   36 EU](https://www.amazon.es/dp/B07CTNT3SY/?tag=tolees-21) con 70.33 de descuento por 17.8 EUR (original: 60 EUR) en el siguiente enlace!

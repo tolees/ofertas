@@ -17,6 +17,9 @@ comparePrice: 86.56 EUR
 inStock: true
 prodname: 'Armani Exchange Blinking Logo V-Neck Sudadera  Negro  Black 1200   X-Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JWZQ6H8/?tag=tolees-21'
+descuento: '51.98'
+titulo: 'Armani Exchange Blinking Logo V-Neck Sud'
 ---
 
 Tienes [Armani Exchange Blinking Logo V-Neck Sudadera  Negro  Black 1200   X-Large para Mujer](https://www.amazon.es/dp/B07JWZQ6H8/?tag=tolees-21) con un 51.98 % de descuento con precio de oferta de 41.57 EUR (original: 86.56 EUR) en el siguiente enlace!

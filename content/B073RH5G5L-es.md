@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'adidas Alphabounce RC M  Zapatillas de Entrenamiento para Hombre  Gris  Carbon/Pertiz/Negbás 000   43 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RH5G5L/?tag=tolees-21'
+descuento: '46.90'
+titulo: 'adidas Alphabounce RC M  Zapatillas de E'
 ---
 
 Ahora mismo tienes [adidas Alphabounce RC M  Zapatillas de Entrenamiento para Hombre  Gris  Carbon/Pertiz/Negbás 000   43 1/3 EU](https://www.amazon.es/dp/B073RH5G5L/?tag=tolees-21) a 42.45 EUR (original: 79.95 EUR) (46.90 %  de descuento) en el siguiente enlace!

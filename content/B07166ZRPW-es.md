@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Levi s Linden Cinturón  Marrón  Dark Brown 29   90 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07166ZRPW/?tag=tolees-21'
+descuento: '66.58'
+titulo: 'Levi s Linden Cinturón  Marrón  Dark Bro'
 ---
 
 Ahora mismo tienes [Levi s Linden Cinturón  Marrón  Dark Brown 29   90 para Hombre](https://www.amazon.es/dp/B07166ZRPW/?tag=tolees-21) a 13.37 EUR (original: 40 EUR) (66.58 %  de descuento) en el siguiente enlace!

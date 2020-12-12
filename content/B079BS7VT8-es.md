@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjiirick Jjicon Shorts CR 031 STS  Pantalones Cortos para Hombre  Azul Blue Denim  52  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079BS7VT8/?tag=tolees-21'
+descuento: '50.61'
+titulo: 'JACK & JONES Jjiirick Jjicon Shorts CR 0'
 ---
 
 Está [JACK & JONES Jjiirick Jjicon Shorts CR 031 STS  Pantalones Cortos para Hombre  Azul Blue Denim  52  Talla del Fabricante: Large ](https://www.amazon.es/dp/B079BS7VT8/?tag=tolees-21) con 50.61 de descuento por 24.69 EUR (original: 49.99 EUR) en el siguiente enlace!

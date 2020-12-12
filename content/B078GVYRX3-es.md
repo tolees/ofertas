@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Springfield 6763634  Camiseta de Manga Larga para Mujer  Azul  Medium  Tamaño del fabricante:3 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GVYRX3/?tag=tolees-21'
+descuento: '52.73'
+titulo: 'Springfield 6763634  Camiseta de Manga L'
 ---
 
 Tienes [Springfield 6763634  Camiseta de Manga Larga para Mujer  Azul  Medium  Tamaño del fabricante:3 ](https://www.amazon.es/dp/B078GVYRX3/?tag=tolees-21) con un 52.73 % de descuento con precio de oferta de 6.14 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'BILLABONG Essential Crew Jersey  Mujer  Rosa  Nude 4443   X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1FSFRL/?tag=tolees-21'
+descuento: '63.38'
+titulo: 'BILLABONG Essential Crew Jersey  Mujer  '
 ---
 
 Ahora mismo tienes [BILLABONG Essential Crew Jersey  Mujer  Rosa  Nude 4443   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07F1FSFRL/?tag=tolees-21) a 16.48 EUR (original: 45 EUR) (63.38 %  de descuento) en el siguiente enlace!

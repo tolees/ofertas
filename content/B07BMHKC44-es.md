@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Beachball Set XL  2 Raquetas de Madera  2 Bolas  en un Bolsillo de Red'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BMHKC44/?tag=tolees-21'
+descuento: '35.64'
+titulo: 'Beachball Set XL  2 Raquetas de Madera  '
 ---
 
 Tienes [Beachball Set XL  2 Raquetas de Madera  2 Bolas  en un Bolsillo de Red](https://www.amazon.es/dp/B07BMHKC44/?tag=tolees-21) con un 35.64 % de descuento con precio de oferta de 6.43 EUR (original: 9.99 EUR) en el siguiente enlace!

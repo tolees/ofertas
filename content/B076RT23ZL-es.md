@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour Breathe Trainer  Zapatillas de Deporte para Mujer  Gris  Overcast Gray/Metallic Silver/White   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076RT23ZL/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'Under Armour Breathe Trainer  Zapatillas'
 ---
 
 Tienes [Under Armour Breathe Trainer  Zapatillas de Deporte para Mujer  Gris  Overcast Gray/Metallic Silver/White   37.5 EU](https://www.amazon.es/dp/B076RT23ZL/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 39.95 EUR (original: 80 EUR) en el siguiente enlace!

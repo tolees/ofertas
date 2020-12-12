@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'BSK-Funda Universal para Tablet de 10-10.1 Pulgadas 360 Giratoria 360 Grados Rotating'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYVWZTG/?tag=tolees-21'
+descuento: '56.63'
+titulo: 'BSK-Funda Universal para Tablet de 10-10'
 ---
 
 Está [BSK-Funda Universal para Tablet de 10-10.1 Pulgadas 360 Giratoria 360 Grados Rotating](https://www.amazon.es/dp/B07DYVWZTG/?tag=tolees-21) con 56.63 de descuento por 12.99 EUR (original: 29.95 EUR) en el siguiente enlace!

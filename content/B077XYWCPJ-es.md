@@ -17,6 +17,9 @@ comparePrice: 199.95 EUR
 inStock: true
 prodname: 'Gore Wear 100374 Pantalones  Hombre  Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XYWCPJ/?tag=tolees-21'
+descuento: '55.95'
+titulo: 'Gore Wear 100374 Pantalones  Hombre  Neg'
 ---
 
 Ahora mismo tienes [Gore Wear 100374 Pantalones  Hombre  Negro  L](https://www.amazon.es/dp/B077XYWCPJ/?tag=tolees-21) a 88.07 EUR (original: 199.95 EUR) (55.95 %  de descuento) en el siguiente enlace!

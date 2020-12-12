@@ -17,6 +17,9 @@ comparePrice: 12.24 EUR
 inStock: true
 prodname: 'MONRAY PASSENGER - Maletín 40 6 cm  16"   765 g  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BJ0LV9S/?tag=tolees-21'
+descuento: '42.89'
+titulo: 'MONRAY PASSENGER - Maletín 40 6 cm  16" '
 ---
 
 Está [MONRAY PASSENGER - Maletín 40 6 cm  16"   765 g  Negro](https://www.amazon.es/dp/B01BJ0LV9S/?tag=tolees-21) con 42.89 de descuento por 6.99 EUR (original: 12.24 EUR) en el siguiente enlace!

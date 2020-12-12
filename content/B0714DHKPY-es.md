@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour UA W Precision X  Zapatillas de Deporte para Mujer  Verde  Refresh Mint   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0714DHKPY/?tag=tolees-21'
+descuento: '73.66'
+titulo: 'Under Armour UA W Precision X  Zapatilla'
 ---
 
 Tienes [Under Armour UA W Precision X  Zapatillas de Deporte para Mujer  Verde  Refresh Mint   42 EU](https://www.amazon.es/dp/B0714DHKPY/?tag=tolees-21) con un 73.66 % de descuento con precio de oferta de 21.07 EUR (original: 80 EUR) en el siguiente enlace!

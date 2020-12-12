@@ -17,6 +17,9 @@ comparePrice: 81.35 EUR
 inStock: true
 prodname: 'Andador de madera con actividades Magic Garden de Fantasy Fields TD11639A'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JSMWOFA/?tag=tolees-21'
+descuento: '27.71'
+titulo: 'Andador de madera con actividades Magic '
 ---
 
 Tienes [Andador de madera con actividades Magic Garden de Fantasy Fields TD11639A](https://www.amazon.es/dp/B00JSMWOFA/?tag=tolees-21) con un 27.71 % de descuento con precio de oferta de 58.81 EUR (original: 81.35 EUR) en el siguiente enlace!

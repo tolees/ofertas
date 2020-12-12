@@ -17,6 +17,9 @@ comparePrice: 69.66 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Hilfiger Oxford Sneaker  Zapatillas para Hombre  Azul  Midnight 403   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HCRZ2CF/?tag=tolees-21'
+descuento: '55.84'
+titulo: 'Tommy Hilfiger Hilfiger Oxford Sneaker  '
 ---
 
 Tienes [Tommy Hilfiger Hilfiger Oxford Sneaker  Zapatillas para Hombre  Azul  Midnight 403   41 EU](https://www.amazon.es/dp/B07HCRZ2CF/?tag=tolees-21) con un 55.84 % de descuento con precio de oferta de 30.76 EUR (original: 69.66 EUR) en el siguiente enlace!

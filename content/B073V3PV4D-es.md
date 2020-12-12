@@ -17,6 +17,9 @@ comparePrice: 36 EUR
 inStock: true
 prodname: 'WINGPADEL Camiseta W-Lisa Azul Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073V3PV4D/?tag=tolees-21'
+descuento: '72.36'
+titulo: 'WINGPADEL Camiseta W-Lisa Azul Blanco'
 ---
 
 Ahora mismo tienes [WINGPADEL Camiseta W-Lisa Azul Blanco](https://www.amazon.es/dp/B073V3PV4D/?tag=tolees-21) a 9.95 EUR (original: 36 EUR) (72.36 %  de descuento) en el siguiente enlace!

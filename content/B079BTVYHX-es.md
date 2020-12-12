@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'ASSIST Cúter de Cuchillas Retractable  Cortador Reemplazable Manija de Goma Antideslizante Zinc Portable para el Papel  la Alfombra  la Cuerda y más  con 4 Cuchillas Adicionales  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079BTVYHX/?tag=tolees-21'
+descuento: '75.05'
+titulo: 'ASSIST Cúter de Cuchillas Retractable  C'
 ---
 
 Está [ASSIST Cúter de Cuchillas Retractable  Cortador Reemplazable Manija de Goma Antideslizante Zinc Portable para el Papel  la Alfombra  la Cuerda y más  con 4 Cuchillas Adicionales  Rojo ](https://www.amazon.es/dp/B079BTVYHX/?tag=tolees-21) con 75.05 de descuento por 3.99 EUR (original: 15.99 EUR) en el siguiente enlace!

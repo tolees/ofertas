@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'MTNG Collection BERNINA  Bolso totes para Mujer   Karma Negro   7.5 x 31 x 28 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQ1G4TW/?tag=tolees-21'
+descuento: '64.52'
+titulo: 'MTNG Collection BERNINA  Bolso totes par'
 ---
 
 Tienes [MTNG Collection BERNINA  Bolso totes para Mujer   Karma Negro   7.5 x 31 x 28 cm](https://www.amazon.es/dp/B07DQ1G4TW/?tag=tolees-21) con un 64.52 % de descuento con precio de oferta de 14.19 EUR (original: 39.99 EUR) en el siguiente enlace!

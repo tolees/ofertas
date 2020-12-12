@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Salomon Brigade Casco de esquí y Snowboard para Hombre  Carcasa ABS  Interior de Espuma EPS 4D  Circunferencia: 53-56 cm  Naranja  Orange Pop   Talla S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BSPRWST/?tag=tolees-21'
+descuento: '62.85'
+titulo: 'Salomon Brigade Casco de esquí y Snowboa'
 ---
 
 Está [Salomon Brigade Casco de esquí y Snowboard para Hombre  Carcasa ABS  Interior de Espuma EPS 4D  Circunferencia: 53-56 cm  Naranja  Orange Pop   Talla S](https://www.amazon.es/dp/B07BSPRWST/?tag=tolees-21) con 62.85 de descuento por 29.72 EUR (original: 79.99 EUR) en el siguiente enlace!

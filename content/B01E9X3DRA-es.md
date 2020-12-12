@@ -17,6 +17,9 @@ comparePrice: 30.2 EUR
 inStock: true
 prodname: 'OUTAD 500ml Botella Térmica en Acero Inoxidable Forma de Bolos/Bowling  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01E9X3DRA/?tag=tolees-21'
+descuento: '66.92'
+titulo: 'OUTAD 500ml Botella Térmica en Acero Ino'
 ---
 
 Está [OUTAD 500ml Botella Térmica en Acero Inoxidable Forma de Bolos/Bowling  Rojo ](https://www.amazon.es/dp/B01E9X3DRA/?tag=tolees-21) con 66.92 de descuento por 9.99 EUR (original: 30.2 EUR) en el siguiente enlace!

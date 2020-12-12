@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Drirelease Graphic tee Camiseta  Hombre  Rojo  Flame Scarlet   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077SJ7PR7/?tag=tolees-21'
+descuento: '53.74'
+titulo: 'Puma Drirelease Graphic tee Camiseta  Ho'
 ---
 
 Está [Puma Drirelease Graphic tee Camiseta  Hombre  Rojo  Flame Scarlet   L](https://www.amazon.es/dp/B077SJ7PR7/?tag=tolees-21) con 53.74 de descuento por 18.48 EUR (original: 39.95 EUR) en el siguiente enlace!

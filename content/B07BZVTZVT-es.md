@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Levi s Jax  Botas Desert para Hombre  Marrón  Dark Brown 29   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BZVTZVT/?tag=tolees-21'
+descuento: '35.05'
+titulo: 'Levi s Jax  Botas Desert para Hombre  Ma'
 ---
 
 Está [Levi s Jax  Botas Desert para Hombre  Marrón  Dark Brown 29   40 EU](https://www.amazon.es/dp/B07BZVTZVT/?tag=tolees-21) con 35.05 de descuento por 64.95 EUR (original: 100 EUR) en el siguiente enlace!

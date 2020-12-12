@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'CRZ YOGA Mujer Compression Leggings Cintura Alta Deportivos Running Fitness Pantalon con Bolsillo-63cm Negro R424 M 40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HDYYKVJ/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'CRZ YOGA Mujer Compression Leggings Cint'
 ---
 
 Está [CRZ YOGA Mujer Compression Leggings Cintura Alta Deportivos Running Fitness Pantalon con Bolsillo-63cm Negro R424 M 40 ](https://www.amazon.es/dp/B07HDYYKVJ/?tag=tolees-21) con 70.00 de descuento por 24 EUR (original: 80 EUR) en el siguiente enlace!

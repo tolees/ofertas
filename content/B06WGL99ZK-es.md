@@ -17,6 +17,9 @@ comparePrice: 22.9 EUR
 inStock: true
 prodname: 'Bóboli 114118  Pelele para Bebé-Niños  Multicolor  Listado Bicolor   80  Tamaño del fabricante:80cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WGL99ZK/?tag=tolees-21'
+descuento: '64.72'
+titulo: 'Bóboli 114118  Pelele para Bebé-Niños  M'
 ---
 
 Tienes [Bóboli 114118  Pelele para Bebé-Niños  Multicolor  Listado Bicolor   80  Tamaño del fabricante:80cm ](https://www.amazon.es/dp/B06WGL99ZK/?tag=tolees-21) con un 64.72 % de descuento con precio de oferta de 8.08 EUR (original: 22.9 EUR) en el siguiente enlace!

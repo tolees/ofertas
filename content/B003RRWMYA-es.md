@@ -17,6 +17,9 @@ comparePrice: 9.6 EUR
 inStock: true
 prodname: 'Mannesmann - M10930 - Tenaza rusa 10"'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003RRWMYA/?tag=tolees-21'
+descuento: '50.52'
+titulo: 'Mannesmann - M10930 - Tenaza rusa 10"'
 ---
 
 Tienes [Mannesmann - M10930 - Tenaza rusa 10"](https://www.amazon.es/dp/B003RRWMYA/?tag=tolees-21) con un 50.52 % de descuento con precio de oferta de 4.75 EUR (original: 9.6 EUR) en el siguiente enlace!

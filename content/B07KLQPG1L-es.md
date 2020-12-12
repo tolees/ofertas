@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Barra de Sonido  Fityou Altavoz Inalámbrico Bluetooth para TV con Subwoofer Barra de Sonido Inalámbrica Portátil Soporte USB  Control Remoto  Desmontable y Montable en Pared para PC  TV  Teléfono'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KLQPG1L/?tag=tolees-21'
+descuento: '49.75'
+titulo: 'Barra de Sonido  Fityou Altavoz Inalámbr'
 ---
 
 Ahora mismo tienes [Barra de Sonido  Fityou Altavoz Inalámbrico Bluetooth para TV con Subwoofer Barra de Sonido Inalámbrica Portátil Soporte USB  Control Remoto  Desmontable y Montable en Pared para PC  TV  Teléfono](https://www.amazon.es/dp/B07KLQPG1L/?tag=tolees-21) a 99.99 EUR (original: 199 EUR) (49.75 %  de descuento) en el siguiente enlace!

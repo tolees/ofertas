@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Jennyfer Écru S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXJAUV7/?tag=tolees-21'
+descuento: '75.41'
+titulo: 'Jennyfer Écru S'
 ---
 
 Ahora mismo tienes [Jennyfer Écru S](https://www.amazon.es/dp/B01LXJAUV7/?tag=tolees-21) a 14.75 EUR (original: 59.99 EUR) (75.41 %  de descuento) en el siguiente enlace!

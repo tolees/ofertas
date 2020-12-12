@@ -17,6 +17,9 @@ comparePrice: 104.99 EUR
 inStock: true
 prodname: 'Ultrasport F-Rider Entrenamiento fitness  abdominales  tonificación abdomen  piernas y glúteos. Musculación y cardio  Verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071WMHXMP/?tag=tolees-21'
+descuento: '25.57'
+titulo: 'Ultrasport F-Rider Entrenamiento fitness'
 ---
 
 Ahora mismo tienes [Ultrasport F-Rider Entrenamiento fitness  abdominales  tonificación abdomen  piernas y glúteos. Musculación y cardio  Verde](https://www.amazon.es/dp/B071WMHXMP/?tag=tolees-21) a 78.14 EUR (original: 104.99 EUR) (25.57 %  de descuento) en el siguiente enlace!

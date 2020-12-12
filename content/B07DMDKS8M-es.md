@@ -17,6 +17,9 @@ comparePrice: 45.09 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 9p715 Bañador   Antracite/Marin/Kaki 22744   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DMDKS8M/?tag=tolees-21'
+descuento: '57.35'
+titulo: 'Emporio Armani Underwear 9p715 Bañador  '
 ---
 
 Tienes [Emporio Armani Underwear 9p715 Bañador   Antracite/Marin/Kaki 22744   Small para Hombre](https://www.amazon.es/dp/B07DMDKS8M/?tag=tolees-21) con un 57.35 % de descuento con precio de oferta de 19.23 EUR (original: 45.09 EUR) en el siguiente enlace!

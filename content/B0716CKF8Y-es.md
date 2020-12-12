@@ -17,6 +17,9 @@ comparePrice: 14.37 EUR
 inStock: true
 prodname: 'Piratas Del Caribe: La Maldición De La Perla Negra [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0716CKF8Y/?tag=tolees-21'
+descuento: '63.26'
+titulo: 'Piratas Del Caribe: La Maldición De La P'
 ---
 
 Está [Piratas Del Caribe: La Maldición De La Perla Negra [Blu-ray]](https://www.amazon.es/dp/B0716CKF8Y/?tag=tolees-21) con 63.26 de descuento por 5.28 EUR (original: 14.37 EUR) en el siguiente enlace!

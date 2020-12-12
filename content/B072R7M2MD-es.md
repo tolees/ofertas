@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmylda LS Boxy Blouse  suéter Mujer  Gris  Light Grey Melange   40  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072R7M2MD/?tag=tolees-21'
+descuento: '66.77'
+titulo: 'Vero Moda Vmylda LS Boxy Blouse  suéter '
 ---
 
 Tienes [Vero Moda Vmylda LS Boxy Blouse  suéter Mujer  Gris  Light Grey Melange   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B072R7M2MD/?tag=tolees-21) con un 66.77 % de descuento con precio de oferta de 8.97 EUR (original: 26.99 EUR) en el siguiente enlace!

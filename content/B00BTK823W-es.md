@@ -17,6 +17,9 @@ comparePrice: 173.36 EUR
 inStock: true
 prodname: 'Plantronics 88861-02 - Auriculares de diadema abiertos  con micrófono  USB '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BTK823W/?tag=tolees-21'
+descuento: '48.67'
+titulo: 'Plantronics 88861-02 - Auriculares de di'
 ---
 
 Está [Plantronics 88861-02 - Auriculares de diadema abiertos  con micrófono  USB ](https://www.amazon.es/dp/B00BTK823W/?tag=tolees-21) con 48.67 de descuento por 88.99 EUR (original: 173.36 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Adidas Fortarun K  Zapatillas de Running Unisex Niños  Negro FTWR White/Core Black  32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9SXWC7/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'Adidas Fortarun K  Zapatillas de Running'
 ---
 
 Ahora mismo tienes [Adidas Fortarun K  Zapatillas de Running Unisex Niños  Negro FTWR White/Core Black  32 EU](https://www.amazon.es/dp/B07D9SXWC7/?tag=tolees-21) a 22.48 EUR (original: 44.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

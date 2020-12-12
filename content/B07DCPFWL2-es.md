@@ -17,6 +17,9 @@ comparePrice: 88.34 EUR
 inStock: true
 prodname: 'Reebok Print Lite Rush  Zapatillas de Deporte para Hombre   Black/White 000   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCPFWL2/?tag=tolees-21'
+descuento: '73.00'
+titulo: 'Reebok Print Lite Rush  Zapatillas de De'
 ---
 
 Tienes [Reebok Print Lite Rush  Zapatillas de Deporte para Hombre   Black/White 000   42 EU](https://www.amazon.es/dp/B07DCPFWL2/?tag=tolees-21) con un 73.00 % de descuento con precio de oferta de 23.85 EUR (original: 88.34 EUR) en el siguiente enlace!

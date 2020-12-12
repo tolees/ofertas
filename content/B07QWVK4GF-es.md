@@ -17,6 +17,9 @@ comparePrice: 26.79 EUR
 inStock: true
 prodname: 'New Look F Bermuda Btn Front Romper Jsu  6146411  Mono  Beige  Nude 72   40  Talla del Fabricante: 12  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QWVK4GF/?tag=tolees-21'
+descuento: '51.47'
+titulo: 'New Look F Bermuda Btn Front Romper Jsu '
 ---
 
 Ahora mismo tienes [New Look F Bermuda Btn Front Romper Jsu  6146411  Mono  Beige  Nude 72   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07QWVK4GF/?tag=tolees-21) a 13 EUR (original: 26.79 EUR) (51.47 %  de descuento) en el siguiente enlace!

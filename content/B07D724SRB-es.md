@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Levi s Mile High Super Skinny Vaqueros  Azul  Make A Mark 0056   W23/L30 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D724SRB/?tag=tolees-21'
+descuento: '50.50'
+titulo: 'Levi s Mile High Super Skinny Vaqueros  '
 ---
 
 Ahora mismo tienes [Levi s Mile High Super Skinny Vaqueros  Azul  Make A Mark 0056   W23/L30 para Mujer](https://www.amazon.es/dp/B07D724SRB/?tag=tolees-21) a 49.5 EUR (original: 100 EUR) (50.50 %  de descuento) en el siguiente enlace!

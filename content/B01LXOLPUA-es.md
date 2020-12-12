@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'edc by Esprit 106cc1i010 suéter  Azul  Navy   38  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXOLPUA/?tag=tolees-21'
+descuento: '76.78'
+titulo: 'edc by Esprit 106cc1i010 suéter  Azul  N'
 ---
 
 Está [edc by Esprit 106cc1i010 suéter  Azul  Navy   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B01LXOLPUA/?tag=tolees-21) con 76.78 de descuento por 13.93 EUR (original: 59.99 EUR) en el siguiente enlace!

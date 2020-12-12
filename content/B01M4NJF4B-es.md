@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Gabor Shoes Comfort  Sandalias con Cuña para Mujer  Plateado  Platino Holz   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M4NJF4B/?tag=tolees-21'
+descuento: '77.40'
+titulo: 'Gabor Shoes Comfort  Sandalias con Cuña '
 ---
 
 Tienes [Gabor Shoes Comfort  Sandalias con Cuña para Mujer  Plateado  Platino Holz   38 EU](https://www.amazon.es/dp/B01M4NJF4B/?tag=tolees-21) con un 77.40 % de descuento con precio de oferta de 28.25 EUR (original: 125 EUR) en el siguiente enlace!

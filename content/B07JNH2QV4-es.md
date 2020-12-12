@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Morgan 191-rtuly.n  Vestido Fiesta Mujer Multico  36  Talla del Fabricante: T36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JNH2QV4/?tag=tolees-21'
+descuento: '47.13'
+titulo: 'Morgan 191-rtuly.n  Vestido Fiesta Mujer'
 ---
 
 Está [Morgan 191-rtuly.n  Vestido Fiesta Mujer Multico  36  Talla del Fabricante: T36 ](https://www.amazon.es/dp/B07JNH2QV4/?tag=tolees-21) con 47.13 de descuento por 37.01 EUR (original: 70 EUR) en el siguiente enlace!

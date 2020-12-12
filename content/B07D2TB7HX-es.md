@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Scotch & Soda AMS Blauw 3-Pack Allover Printed and Solid Boxer Shorts  Bóxer Hombre   Combo A 17   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2TB7HX/?tag=tolees-21'
+descuento: '39.45'
+titulo: 'Scotch & Soda AMS Blauw 3-Pack Allover P'
 ---
 
 Está [Scotch & Soda AMS Blauw 3-Pack Allover Printed and Solid Boxer Shorts  Bóxer Hombre   Combo A 17   Large](https://www.amazon.es/dp/B07D2TB7HX/?tag=tolees-21) con 39.45 de descuento por 24.19 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 289 EUR
 inStock: true
 prodname: 'Bosch BBH52550 Aspirador Athlet  50 min  25 2V  7200 W  79 Decibeles  Gris-25 2 V'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JRX1Q68/?tag=tolees-21'
+descuento: '46.37'
+titulo: 'Bosch BBH52550 Aspirador Athlet  50 min '
 ---
 
 Tienes [Bosch BBH52550 Aspirador Athlet  50 min  25 2V  7200 W  79 Decibeles  Gris-25 2 V](https://www.amazon.es/dp/B00JRX1Q68/?tag=tolees-21) con un 46.37 % de descuento con precio de oferta de 155 EUR (original: 289 EUR) en el siguiente enlace!

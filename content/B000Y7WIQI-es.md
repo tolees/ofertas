@@ -17,6 +17,9 @@ comparePrice: 18.48 EUR
 inStock: true
 prodname: 'La Roche-Posay Kerium  Champú  125 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21'
+descuento: '30.47'
+titulo: 'La Roche-Posay Kerium  Champú  125 ml'
 ---
 
 Está [La Roche-Posay Kerium  Champú  125 ml](https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21) con 30.47 de descuento por 12.85 EUR (original: 18.48 EUR) en el siguiente enlace!

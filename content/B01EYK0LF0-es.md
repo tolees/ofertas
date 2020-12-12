@@ -17,6 +17,9 @@ comparePrice: 19 EUR
 inStock: true
 prodname: 'Levi s THE MUSCLE TANK  Camiseta Mujer  Blanco  FESTIVAL TANK WHITE   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EYK0LF0/?tag=tolees-21'
+descuento: '26.32'
+titulo: 'Levi s THE MUSCLE TANK  Camiseta Mujer  '
 ---
 
 Está [Levi s THE MUSCLE TANK  Camiseta Mujer  Blanco  FESTIVAL TANK WHITE   Small](https://www.amazon.es/dp/B01EYK0LF0/?tag=tolees-21) con 26.32 de descuento por 14 EUR (original: 19 EUR) en el siguiente enlace!

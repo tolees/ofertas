@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Performance Go Run-Mojo  Zapatillas de Entrenamiento para Hombre  Negro  Black White   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYA518X/?tag=tolees-21'
+descuento: '54.69'
+titulo: 'Skechers Performance Go Run-Mojo  Zapati'
 ---
 
 Tienes [Skechers Performance Go Run-Mojo  Zapatillas de Entrenamiento para Hombre  Negro  Black White   45 EU](https://www.amazon.es/dp/B01MYA518X/?tag=tolees-21) con un 54.69 % de descuento con precio de oferta de 29.43 EUR (original: 64.95 EUR) en el siguiente enlace!

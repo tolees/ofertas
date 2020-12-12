@@ -17,6 +17,9 @@ comparePrice: 18.26 EUR
 inStock: true
 prodname: 'perfk Reproductor de MP3 Altavoz Grabación HD HiFi Música E-Books  16 GB Pantalla LCD - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HKLSZW5/?tag=tolees-21'
+descuento: '37.51'
+titulo: 'perfk Reproductor de MP3 Altavoz Grabaci'
 ---
 
 Tienes [perfk Reproductor de MP3 Altavoz Grabación HD HiFi Música E-Books  16 GB Pantalla LCD - Negro](https://www.amazon.es/dp/B07HKLSZW5/?tag=tolees-21) con un 37.51 % de descuento con precio de oferta de 11.41 EUR (original: 18.26 EUR) en el siguiente enlace!

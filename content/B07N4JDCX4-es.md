@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Superga 2750-GLITTERYBAMBOOPOLESJ  Zapatillas para Niñas  Bianco  White 938   25 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N4JDCX4/?tag=tolees-21'
+descuento: '55.98'
+titulo: 'Superga 2750-GLITTERYBAMBOOPOLESJ  Zapat'
 ---
 
 Tienes [Superga 2750-GLITTERYBAMBOOPOLESJ  Zapatillas para Niñas  Bianco  White 938   25 EU](https://www.amazon.es/dp/B07N4JDCX4/?tag=tolees-21) con un 55.98 % de descuento con precio de oferta de 28.61 EUR (original: 65 EUR) en el siguiente enlace!

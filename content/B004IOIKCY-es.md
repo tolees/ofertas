@@ -17,6 +17,9 @@ comparePrice: 19.23 EUR
 inStock: true
 prodname: 'Hatley TSJWIBE245 - Camiseta de Manga Corta para Mujer  Color Rosa  Talla X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004IOIKCY/?tag=tolees-21'
+descuento: '55.85'
+titulo: 'Hatley TSJWIBE245 - Camiseta de Manga Co'
 ---
 
 Está [Hatley TSJWIBE245 - Camiseta de Manga Corta para Mujer  Color Rosa  Talla X-Large](https://www.amazon.es/dp/B004IOIKCY/?tag=tolees-21) con 55.85 de descuento por 8.49 EUR (original: 19.23 EUR) en el siguiente enlace!

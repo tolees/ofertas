@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'NIMAXI marco de fotos para bebé para huella de mano y pie 3D  Portafotos de madera con molde de yeso  blanco  41x23cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079CN88WD/?tag=tolees-21'
+descuento: '37.21'
+titulo: 'NIMAXI marco de fotos para bebé para hue'
 ---
 
 Ahora mismo tienes [NIMAXI marco de fotos para bebé para huella de mano y pie 3D  Portafotos de madera con molde de yeso  blanco  41x23cm](https://www.amazon.es/dp/B079CN88WD/?tag=tolees-21) a 21.97 EUR (original: 34.99 EUR) (37.21 %  de descuento) en el siguiente enlace!

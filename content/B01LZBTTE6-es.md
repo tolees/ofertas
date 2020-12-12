@@ -17,6 +17,9 @@ comparePrice: 11.7 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Suéter Estampado de Manga Corta  Rojo  ES 36 / XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZBTTE6/?tag=tolees-21'
+descuento: '58.12'
+titulo: 'oodji Ultra Mujer Suéter Estampado de Ma'
 ---
 
 Está [oodji Ultra Mujer Suéter Estampado de Manga Corta  Rojo  ES 36 / XS](https://www.amazon.es/dp/B01LZBTTE6/?tag=tolees-21) con 58.12 de descuento por 4.9 EUR (original: 11.7 EUR) en el siguiente enlace!

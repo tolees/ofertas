@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Afeitadora Eléctrica Hombre 4 en 1 Recargable 4D Mojado y Seco Afeitadora Eléctrica con Recortadora Máquina de Afeitar  Recortador de Nariz  Cepillo de Limpieza Facial  Tipo 0 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FX91HTY/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Afeitadora Eléctrica Hombre 4 en 1 Recar'
 ---
 
 Ahora mismo tienes [Afeitadora Eléctrica Hombre 4 en 1 Recargable 4D Mojado y Seco Afeitadora Eléctrica con Recortadora Máquina de Afeitar  Recortador de Nariz  Cepillo de Limpieza Facial  Tipo 0 ](https://www.amazon.es/dp/B07FX91HTY/?tag=tolees-21) a 39.99 EUR (original: 99.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

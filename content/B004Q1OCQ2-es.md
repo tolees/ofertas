@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Vichy LIFTACTIV NOCHE 50ML'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004Q1OCQ2/?tag=tolees-21'
+descuento: '33.46'
+titulo: 'Vichy LIFTACTIV NOCHE 50ML'
 ---
 
 Está [Vichy LIFTACTIV NOCHE 50ML](https://www.amazon.es/dp/B004Q1OCQ2/?tag=tolees-21) con 33.46 de descuento por 25.95 EUR (original: 39 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 28.29 EUR
 inStock: true
 prodname: 'Pyrex Asimetria Moldes Desmontables  26 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MMM9Z8M/?tag=tolees-21'
+descuento: '62.35'
+titulo: 'Pyrex Asimetria Moldes Desmontables  26 '
 ---
 
 Ahora mismo tienes [Pyrex Asimetria Moldes Desmontables  26 cm](https://www.amazon.es/dp/B00MMM9Z8M/?tag=tolees-21) a 10.65 EUR (original: 28.29 EUR) (62.35 %  de descuento) en el siguiente enlace!

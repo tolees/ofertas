@@ -17,6 +17,9 @@ comparePrice: 129.98 EUR
 inStock: true
 prodname: 'Kealive Rizador de Pelo Automatico  Rizador de Vapor  Rizador de Pelo para Ondas con Pantalla Tactil XL  Incluye Herramienta de Limpieza  Clips y Botella de Agua'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QX697YY/?tag=tolees-21'
+descuento: '61.54'
+titulo: 'Kealive Rizador de Pelo Automatico  Riza'
 ---
 
 Ahora mismo tienes [Kealive Rizador de Pelo Automatico  Rizador de Vapor  Rizador de Pelo para Ondas con Pantalla Tactil XL  Incluye Herramienta de Limpieza  Clips y Botella de Agua](https://www.amazon.es/dp/B07QX697YY/?tag=tolees-21) a 49.99 EUR (original: 129.98 EUR) (61.54 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Only Onljosephine Stripe C.s L/s Pullover Knt  suéter para Mujer   Night Sky Stripes:w Cloud Dancer  38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078X55ZJH/?tag=tolees-21'
+descuento: '59.35'
+titulo: 'Only Onljosephine Stripe C.s L/s Pullove'
 ---
 
 Está [Only Onljosephine Stripe C.s L/s Pullover Knt  suéter para Mujer   Night Sky Stripes:w Cloud Dancer  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B078X55ZJH/?tag=tolees-21) con 59.35 de descuento por 8.94 EUR (original: 21.99 EUR) en el siguiente enlace!

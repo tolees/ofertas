@@ -17,6 +17,9 @@ comparePrice: 26.63 EUR
 inStock: true
 prodname: 'Nike SX7167 Socks  Unisex Adulto  White/Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJMG97F/?tag=tolees-21'
+descuento: '47.43'
+titulo: 'Nike SX7167 Socks  Unisex Adulto  White/'
 ---
 
 Ahora mismo tienes [Nike SX7167 Socks  Unisex Adulto  White/Black  L](https://www.amazon.es/dp/B07BJMG97F/?tag=tolees-21) a 14 EUR (original: 26.63 EUR) (47.43 %  de descuento) en el siguiente enlace!

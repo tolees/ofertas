@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Kappa DENTON II TEX K Footwear Kids Botas unisex para niños  Multicolor  1133 black/lime   talla  29'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VWSLXWS/?tag=tolees-21'
+descuento: '75.07'
+titulo: 'Kappa DENTON II TEX K Footwear Kids Bota'
 ---
 
 Tienes [Kappa DENTON II TEX K Footwear Kids Botas unisex para niños  Multicolor  1133 black/lime   talla  29](https://www.amazon.es/dp/B00VWSLXWS/?tag=tolees-21) con un 75.07 % de descuento con precio de oferta de 13.7 EUR (original: 54.95 EUR) en el siguiente enlace!

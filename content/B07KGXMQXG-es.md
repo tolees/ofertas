@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Burton Nightcrawler Chaquetas  Hombre  True Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGXMQXG/?tag=tolees-21'
+descuento: '60.44'
+titulo: 'Burton Nightcrawler Chaquetas  Hombre  T'
 ---
 
 Está [Burton Nightcrawler Chaquetas  Hombre  True Black  M](https://www.amazon.es/dp/B07KGXMQXG/?tag=tolees-21) con 60.44 de descuento por 63.29 EUR (original: 160 EUR) en el siguiente enlace!

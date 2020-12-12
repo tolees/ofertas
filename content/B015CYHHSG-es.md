@@ -17,6 +17,9 @@ comparePrice: 78.99 EUR
 inStock: true
 prodname: 'Aerocool AERO800 - Caja gaming para PC  semitorre  ATX  ventana transparente  7 ranuras de expansión  hasta 5 ventiladores  incluye 2 ventiladores 12 cm trasero y frontal LED  USB 2.0/3.0   color gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015CYHHSG/?tag=tolees-21'
+descuento: '41.89'
+titulo: 'Aerocool AERO800 - Caja gaming para PC  '
 ---
 
 Tienes [Aerocool AERO800 - Caja gaming para PC  semitorre  ATX  ventana transparente  7 ranuras de expansión  hasta 5 ventiladores  incluye 2 ventiladores 12 cm trasero y frontal LED  USB 2.0/3.0   color gris](https://www.amazon.es/dp/B015CYHHSG/?tag=tolees-21) con un 41.89 % de descuento con precio de oferta de 45.9 EUR (original: 78.99 EUR) en el siguiente enlace!

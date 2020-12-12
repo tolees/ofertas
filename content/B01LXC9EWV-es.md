@@ -17,6 +17,9 @@ comparePrice: 20.45 EUR
 inStock: true
 prodname: 'Matrix Colección Vintage  Funda Vinilo  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXC9EWV/?tag=tolees-21'
+descuento: '33.30'
+titulo: 'Matrix Colección Vintage  Funda Vinilo  '
 ---
 
 Está [Matrix Colección Vintage  Funda Vinilo  [Blu-ray]](https://www.amazon.es/dp/B01LXC9EWV/?tag=tolees-21) con 33.30 de descuento por 13.64 EUR (original: 20.45 EUR) en el siguiente enlace!

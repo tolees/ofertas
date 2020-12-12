@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Eton Trifold - Catera para Hombre  Brown 41  Talla OneSize'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00X0W9SE4/?tag=tolees-21'
+descuento: '28.48'
+titulo: 'Tommy Hilfiger Eton Trifold - Catera par'
 ---
 
 Está [Tommy Hilfiger Eton Trifold - Catera para Hombre  Brown 41  Talla OneSize](https://www.amazon.es/dp/B00X0W9SE4/?tag=tolees-21) con 28.48 de descuento por 49.99 EUR (original: 69.9 EUR) en el siguiente enlace!

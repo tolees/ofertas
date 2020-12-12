@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans Simon  Suéter para Hombre  Azul  Sailor 580   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RQHYV3/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Pepe Jeans Simon  Suéter para Hombre  Az'
 ---
 
 Está [Pepe Jeans Simon  Suéter para Hombre  Azul  Sailor 580   Medium](https://www.amazon.es/dp/B079RQHYV3/?tag=tolees-21) con 60.00 de descuento por 26 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Clarks Step Isle Crew  Zapatos de Cordones Derby para Hombre  Verde  Olive-   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQVG5F3/?tag=tolees-21'
+descuento: '26.63'
+titulo: 'Clarks Step Isle Crew  Zapatos de Cordon'
 ---
 
 Tienes [Clarks Step Isle Crew  Zapatos de Cordones Derby para Hombre  Verde  Olive-   42 EU](https://www.amazon.es/dp/B07FQVG5F3/?tag=tolees-21) con un 26.63 % de descuento con precio de oferta de 51.32 EUR (original: 69.95 EUR) en el siguiente enlace!

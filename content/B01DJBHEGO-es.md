@@ -17,6 +17,9 @@ comparePrice: 17.14 EUR
 inStock: true
 prodname: 'Parker Jotter Chelsea Orange bolígrafo CT'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DJBHEGO/?tag=tolees-21'
+descuento: '32.38'
+titulo: 'Parker Jotter Chelsea Orange bolígrafo C'
 ---
 
 Está [Parker Jotter Chelsea Orange bolígrafo CT](https://www.amazon.es/dp/B01DJBHEGO/?tag=tolees-21) con 32.38 de descuento por 11.59 EUR (original: 17.14 EUR) en el siguiente enlace!

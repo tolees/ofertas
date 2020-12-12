@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Under Armour Storm - Camiseta de Calentamiento para Mujer  Tejido Iridiscente  diseño gráfico FZ  Mujer  1325529-603  Flushed Pink/White  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DXW5KFL/?tag=tolees-21'
+descuento: '65.05'
+titulo: 'Under Armour Storm - Camiseta de Calenta'
 ---
 
 Tienes [Under Armour Storm - Camiseta de Calentamiento para Mujer  Tejido Iridiscente  diseño gráfico FZ  Mujer  1325529-603  Flushed Pink/White  X-Large](https://www.amazon.es/dp/B07DXW5KFL/?tag=tolees-21) con un 65.05 % de descuento con precio de oferta de 22.72 EUR (original: 65 EUR) en el siguiente enlace!

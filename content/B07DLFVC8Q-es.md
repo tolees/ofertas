@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 7Ba Jacquard Posici. Gg7 Jersey  Hombre  Azul  Gama Azules 13   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLFVC8Q/?tag=tolees-21'
+descuento: '55.05'
+titulo: 'Springfield 7Ba Jacquard Posici. Gg7 Jer'
 ---
 
 Tienes [Springfield 7Ba Jacquard Posici. Gg7 Jersey  Hombre  Azul  Gama Azules 13   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLFVC8Q/?tag=tolees-21) con un 55.05 % de descuento con precio de oferta de 13.48 EUR (original: 29.99 EUR) en el siguiente enlace!

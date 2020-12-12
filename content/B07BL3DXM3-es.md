@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Zante  Zapatillas Deportivas para Interior para Mujer  Blanco  Rain Nimbus Cloud/Voltage Violet LW   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL3DXM3/?tag=tolees-21'
+descuento: '68.77'
+titulo: 'New Balance Fresh Foam Zante  Zapatillas'
 ---
 
 Está [New Balance Fresh Foam Zante  Zapatillas Deportivas para Interior para Mujer  Blanco  Rain Nimbus Cloud/Voltage Violet LW   38 EU](https://www.amazon.es/dp/B07BL3DXM3/?tag=tolees-21) con 68.77 de descuento por 31.23 EUR (original: 100 EUR) en el siguiente enlace!

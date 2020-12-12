@@ -17,6 +17,9 @@ comparePrice: 33.63 EUR
 inStock: true
 prodname: 'WELQUIC Detector de Pared Encontrar Stud Finder con 3-en-1 Metal AC Alambres Escáner de Madera con Pantalla LCD Retroiluminada  Negro y Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074MBKH4Y/?tag=tolees-21'
+descuento: '73.27'
+titulo: 'WELQUIC Detector de Pared Encontrar Stud'
 ---
 
 Tienes [WELQUIC Detector de Pared Encontrar Stud Finder con 3-en-1 Metal AC Alambres Escáner de Madera con Pantalla LCD Retroiluminada  Negro y Rojo](https://www.amazon.es/dp/B074MBKH4Y/?tag=tolees-21) con un 73.27 % de descuento con precio de oferta de 8.99 EUR (original: 33.63 EUR) en el siguiente enlace!

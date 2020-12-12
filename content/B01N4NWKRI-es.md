@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Pdp - Starter Kit  Color Negro  Nintendo Switch '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4NWKRI/?tag=tolees-21'
+descuento: '49.98'
+titulo: 'Pdp - Starter Kit  Color Negro  Nintendo'
 ---
 
 Ahora mismo tienes [Pdp - Starter Kit  Color Negro  Nintendo Switch ](https://www.amazon.es/dp/B01N4NWKRI/?tag=tolees-21) a 15 EUR (original: 29.99 EUR) (49.98 %  de descuento) en el siguiente enlace!

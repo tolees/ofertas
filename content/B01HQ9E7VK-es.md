@@ -17,6 +17,9 @@ comparePrice: 168 EUR
 inStock: true
 prodname: 'Habitdesign 004605BO - Mesa de despacho 3 cajones  Color Blanco Brillo  Medidas: 74 x 138 x 60 cm de Fondo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HQ9E7VK/?tag=tolees-21'
+descuento: '30.54'
+titulo: 'Habitdesign 004605BO - Mesa de despacho '
 ---
 
 Ahora mismo tienes [Habitdesign 004605BO - Mesa de despacho 3 cajones  Color Blanco Brillo  Medidas: 74 x 138 x 60 cm de Fondo](https://www.amazon.es/dp/B01HQ9E7VK/?tag=tolees-21) a 116.69 EUR (original: 168 EUR) (30.54 %  de descuento) en el siguiente enlace!

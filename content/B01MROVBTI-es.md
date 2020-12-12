@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Pioneer SE-MS5T-K - Auriculares de tipo diadema  HiRes  power bass  micrófono  control de Smartphone   color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MROVBTI/?tag=tolees-21'
+descuento: '36.37'
+titulo: 'Pioneer SE-MS5T-K - Auriculares de tipo '
 ---
 
 Está [Pioneer SE-MS5T-K - Auriculares de tipo diadema  HiRes  power bass  micrófono  control de Smartphone   color negro](https://www.amazon.es/dp/B01MROVBTI/?tag=tolees-21) con 36.37 de descuento por 38.17 EUR (original: 59.99 EUR) en el siguiente enlace!

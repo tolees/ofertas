@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Vikky AC PS  Zapatillas para Niñas  Azul  Fair Aqua White   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1KGKR/?tag=tolees-21'
+descuento: '48.19'
+titulo: 'Puma Vikky AC PS  Zapatillas para Niñas '
 ---
 
 Ahora mismo tienes [Puma Vikky AC PS  Zapatillas para Niñas  Azul  Fair Aqua White   28 EU](https://www.amazon.es/dp/B07DC1KGKR/?tag=tolees-21) a 20.7 EUR (original: 39.95 EUR) (48.19 %  de descuento) en el siguiente enlace!

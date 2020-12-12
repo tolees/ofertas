@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'AmazonBasics – Soporte de madera para monitor  elevador de ordenador  Nuez'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQS5SCS/?tag=tolees-21'
+descuento: '39.30'
+titulo: 'AmazonBasics – Soporte de madera para mo'
 ---
 
 Tienes [AmazonBasics – Soporte de madera para monitor  elevador de ordenador  Nuez](https://www.amazon.es/dp/B07FQS5SCS/?tag=tolees-21) con un 39.30 % de descuento con precio de oferta de 16.99 EUR (original: 27.99 EUR) en el siguiente enlace!

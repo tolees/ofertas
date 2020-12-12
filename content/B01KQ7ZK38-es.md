@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'PIECES PCDESLA LS KNIT CLW  suéter Mujer  Gris  Dark Grey Melange   38  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KQ7ZK38/?tag=tolees-21'
+descuento: '52.24'
+titulo: 'PIECES PCDESLA LS KNIT CLW  suéter Mujer'
 ---
 
 Está [PIECES PCDESLA LS KNIT CLW  suéter Mujer  Gris  Dark Grey Melange   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01KQ7ZK38/?tag=tolees-21) con 52.24 de descuento por 12.89 EUR (original: 26.99 EUR) en el siguiente enlace!

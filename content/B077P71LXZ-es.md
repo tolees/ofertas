@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Carson 2 Nature Knit Wn s  Zapatillas de Cross Mujer  Negro  Periscope-Puma Black   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077P71LXZ/?tag=tolees-21'
+descuento: '55.43'
+titulo: 'Puma Carson 2 Nature Knit Wn s  Zapatill'
 ---
 
 Está [Puma Carson 2 Nature Knit Wn s  Zapatillas de Cross Mujer  Negro  Periscope-Puma Black   37.5 EU](https://www.amazon.es/dp/B077P71LXZ/?tag=tolees-21) con 55.43 de descuento por 31.18 EUR (original: 69.95 EUR) en el siguiente enlace!

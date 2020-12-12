@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Mustang Booty  Zapatillas Altas para Hombre  Marrón  Mittelbraun 360   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F15P5LF/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'Mustang Booty  Zapatillas Altas para Hom'
 ---
 
 Tienes [Mustang Booty  Zapatillas Altas para Hombre  Marrón  Mittelbraun 360   43 EU](https://www.amazon.es/dp/B07F15P5LF/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 52.44 EUR (original: 69.95 EUR) en el siguiente enlace!

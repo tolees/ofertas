@@ -17,6 +17,9 @@ comparePrice: 28.9 EUR
 inStock: true
 prodname: 'Pijama Tirantes Mujer Disney Minnie Sailor  Color Azul  Talla S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CBVSQNY/?tag=tolees-21'
+descuento: '25.02'
+titulo: 'Pijama Tirantes Mujer Disney Minnie Sail'
 ---
 
 Está [Pijama Tirantes Mujer Disney Minnie Sailor  Color Azul  Talla S](https://www.amazon.es/dp/B07CBVSQNY/?tag=tolees-21) con 25.02 de descuento por 21.67 EUR (original: 28.9 EUR) en el siguiente enlace!

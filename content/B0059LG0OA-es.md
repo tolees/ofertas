@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Fred Perry M6000  Polo para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0059LG0OA/?tag=tolees-21'
+descuento: '41.58'
+titulo: 'Fred Perry M6000  Polo para Hombre'
 ---
 
 Ahora mismo tienes [Fred Perry M6000  Polo para Hombre](https://www.amazon.es/dp/B0059LG0OA/?tag=tolees-21) a 51.99 EUR (original: 89 EUR) (41.58 %  de descuento) en el siguiente enlace!

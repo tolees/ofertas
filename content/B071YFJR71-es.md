@@ -17,6 +17,9 @@ comparePrice: 62.69 EUR
 inStock: true
 prodname: 'Silla para ducha | Con respaldo | Regulable en altura | Conteras antideslizantes | Aluminio y PVC | Fácil uso y ligero de transporte | Peso máximo soportado 100 Kg | Modelo Olivo | Mobiclinic'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071YFJR71/?tag=tolees-21'
+descuento: '55.42'
+titulo: 'Silla para ducha | Con respaldo | Regula'
 ---
 
 Está [Silla para ducha | Con respaldo | Regulable en altura | Conteras antideslizantes | Aluminio y PVC | Fácil uso y ligero de transporte | Peso máximo soportado 100 Kg | Modelo Olivo | Mobiclinic](https://www.amazon.es/dp/B071YFJR71/?tag=tolees-21) con 55.42 de descuento por 27.95 EUR (original: 62.69 EUR) en el siguiente enlace!

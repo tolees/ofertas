@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Scarlett Cropped Vaqueros Skinny  Azul  High Blue Yon   32W / 33L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTW872J/?tag=tolees-21'
+descuento: '84.70'
+titulo: 'Lee Scarlett Cropped Vaqueros Skinny  Az'
 ---
 
 Tienes [Lee Scarlett Cropped Vaqueros Skinny  Azul  High Blue Yon   32W / 33L para Mujer](https://www.amazon.es/dp/B07FTW872J/?tag=tolees-21) con un 84.70 % de descuento con precio de oferta de 15.29 EUR (original: 99.95 EUR) en el siguiente enlace!

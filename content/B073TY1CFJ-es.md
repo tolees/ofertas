@@ -17,6 +17,9 @@ comparePrice: 299 EUR
 inStock: true
 prodname: 'Swarovski Reloj Crystalline Oval  dorado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073TY1CFJ/?tag=tolees-21'
+descuento: '38.58'
+titulo: 'Swarovski Reloj Crystalline Oval  dorado'
 ---
 
 Ahora mismo tienes [Swarovski Reloj Crystalline Oval  dorado](https://www.amazon.es/dp/B073TY1CFJ/?tag=tolees-21) a 183.66 EUR (original: 299 EUR) (38.58 %  de descuento) en el siguiente enlace!

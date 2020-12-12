@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Zapatillas de Seguridad Hombres LM-30 Zapatos de Trabajo de Cabeza de Acero Transpirable Reflectante súper Ligero Antideslizante'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LFTDB1K/?tag=tolees-21'
+descuento: '42.86'
+titulo: 'Zapatillas de Seguridad Hombres LM-30 Za'
 ---
 
 Ahora mismo tienes [Zapatillas de Seguridad Hombres LM-30 Zapatos de Trabajo de Cabeza de Acero Transpirable Reflectante súper Ligero Antideslizante](https://www.amazon.es/dp/B07LFTDB1K/?tag=tolees-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike Wmns Oceania Textile  Zapatillas de Deporte Unisex Adulto   Gris 511880 010   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B2Z5T8W/?tag=tolees-21'
+descuento: '53.87'
+titulo: 'Nike Wmns Oceania Textile  Zapatillas de'
 ---
 
 Está [Nike Wmns Oceania Textile  Zapatillas de Deporte Unisex Adulto   Gris 511880 010   38.5 EU](https://www.amazon.es/dp/B07B2Z5T8W/?tag=tolees-21) con 53.87 de descuento por 27.68 EUR (original: 60 EUR) en el siguiente enlace!

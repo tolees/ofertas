@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Nikon Coolpix W100 - Cámara Digital compacta de 13.2 MP  Pantalla LCD de 2.7"  CMOS  Snapbridge  VR  Objetivo Nikkor  USB  vídeo Full HD  WiFi  Amarillo - Kit con Mochila'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M1HAEP4/?tag=tolees-21'
+descuento: '40.27'
+titulo: 'Nikon Coolpix W100 - Cámara Digital comp'
 ---
 
 Tienes [Nikon Coolpix W100 - Cámara Digital compacta de 13.2 MP  Pantalla LCD de 2.7"  CMOS  Snapbridge  VR  Objetivo Nikkor  USB  vídeo Full HD  WiFi  Amarillo - Kit con Mochila](https://www.amazon.es/dp/B01M1HAEP4/?tag=tolees-21) con un 40.27 % de descuento con precio de oferta de 89 EUR (original: 149 EUR) en el siguiente enlace!

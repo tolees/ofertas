@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma El Rey Fun  Zapatillas Unisex Adulto  Negro Black  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTP1DWZ/?tag=tolees-21'
+descuento: '74.56'
+titulo: 'Puma El Rey Fun  Zapatillas Unisex Adult'
 ---
 
 Ahora mismo tienes [Puma El Rey Fun  Zapatillas Unisex Adulto  Negro Black  37 EU](https://www.amazon.es/dp/B01MTP1DWZ/?tag=tolees-21) a 15.25 EUR (original: 59.95 EUR) (74.56 %  de descuento) en el siguiente enlace!

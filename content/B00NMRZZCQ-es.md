@@ -17,6 +17,9 @@ comparePrice: 44.74 EUR
 inStock: true
 prodname: 'Lush Decor Giselle Window Panel  84 by 54-Inch  Ivory'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NMRZZCQ/?tag=tolees-21'
+descuento: '78.14'
+titulo: 'Lush Decor Giselle Window Panel  84 by 5'
 ---
 
 Tienes [Lush Decor Giselle Window Panel  84 by 54-Inch  Ivory](https://www.amazon.es/dp/B00NMRZZCQ/?tag=tolees-21) con un 78.14 % de descuento con precio de oferta de 9.78 EUR (original: 44.74 EUR) en el siguiente enlace!

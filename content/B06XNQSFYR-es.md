@@ -17,6 +17,9 @@ comparePrice: 479.99 EUR
 inStock: true
 prodname: 'V7 Estación de Trabajo de Escritorio para Trabajar Sentado o de pie - Estaciones de Trabajo Sentado o de pie  Black  MDF  15 kg  Steel  Plastic  354.3 mm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XNQSFYR/?tag=tolees-21'
+descuento: '66.90'
+titulo: 'V7 Estación de Trabajo de Escritorio par'
 ---
 
 Tienes [V7 Estación de Trabajo de Escritorio para Trabajar Sentado o de pie - Estaciones de Trabajo Sentado o de pie  Black  MDF  15 kg  Steel  Plastic  354.3 mm ](https://www.amazon.es/dp/B06XNQSFYR/?tag=tolees-21) con un 66.90 % de descuento con precio de oferta de 158.87 EUR (original: 479.99 EUR) en el siguiente enlace!

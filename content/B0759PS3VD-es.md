@@ -17,6 +17,9 @@ comparePrice: 164.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger P2285atrick 1n1  Botas Militar para Hombre  Azul  Midnight 403   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0759PS3VD/?tag=tolees-21'
+descuento: '45.45'
+titulo: 'Tommy Hilfiger P2285atrick 1n1  Botas Mi'
 ---
 
 Tienes [Tommy Hilfiger P2285atrick 1n1  Botas Militar para Hombre  Azul  Midnight 403   42 EU](https://www.amazon.es/dp/B0759PS3VD/?tag=tolees-21) con un 45.45 % de descuento con precio de oferta de 89.95 EUR (original: 164.9 EUR) en el siguiente enlace!

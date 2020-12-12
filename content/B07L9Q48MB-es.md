@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Napapijri Sarja Camiseta   Fantasy F40   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9Q48MB/?tag=tolees-21'
+descuento: '64.57'
+titulo: 'Napapijri Sarja Camiseta   Fantasy F40  '
 ---
 
 Está [Napapijri Sarja Camiseta   Fantasy F40   X-Large para Hombre](https://www.amazon.es/dp/B07L9Q48MB/?tag=tolees-21) con 64.57 de descuento por 17.36 EUR (original: 49 EUR) en el siguiente enlace!

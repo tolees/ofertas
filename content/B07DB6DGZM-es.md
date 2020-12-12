@@ -17,6 +17,9 @@ comparePrice: 51.99 EUR
 inStock: true
 prodname: 'Báscula Grasa Corporal  Ymiko Bascula Bluetooth App con Alta Medición Precisa 5-150kg Adecuado para Sistema IOS 7.0 y Android 4.3  3 x AAA Baterías Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DB6DGZM/?tag=tolees-21'
+descuento: '42.32'
+titulo: 'Báscula Grasa Corporal  Ymiko Bascula Bl'
 ---
 
 Está [Báscula Grasa Corporal  Ymiko Bascula Bluetooth App con Alta Medición Precisa 5-150kg Adecuado para Sistema IOS 7.0 y Android 4.3  3 x AAA Baterías Negro ](https://www.amazon.es/dp/B07DB6DGZM/?tag=tolees-21) con 42.32 de descuento por 29.99 EUR (original: 51.99 EUR) en el siguiente enlace!

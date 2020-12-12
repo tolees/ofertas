@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjebasic Knit Crew Neck Noos  suéter para Hombre  Gris Light Grey Melange  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C27BR8P/?tag=tolees-21'
+descuento: '28.17'
+titulo: 'JACK & JONES Jjebasic Knit Crew Neck Noo'
 ---
 
 Tienes [JACK & JONES Jjebasic Knit Crew Neck Noos  suéter para Hombre  Gris Light Grey Melange  Large](https://www.amazon.es/dp/B07C27BR8P/?tag=tolees-21) con un 28.17 % de descuento con precio de oferta de 17.95 EUR (original: 24.99 EUR) en el siguiente enlace!

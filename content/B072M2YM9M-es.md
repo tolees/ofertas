@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Armour Speed Stride Tank Camiseta de Tirantes  Mujer  Blanco  White   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072M2YM9M/?tag=tolees-21'
+descuento: '70.89'
+titulo: 'Under Armour Speed Stride Tank Camiseta '
 ---
 
 Ahora mismo tienes [Under Armour Speed Stride Tank Camiseta de Tirantes  Mujer  Blanco  White   XL](https://www.amazon.es/dp/B072M2YM9M/?tag=tolees-21) a 8.15 EUR (original: 28 EUR) (70.89 %  de descuento) en el siguiente enlace!

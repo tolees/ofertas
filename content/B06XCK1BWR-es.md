@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Clarks Glickasha GTX  Botas para Mujer  Negro  Black Leather   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCK1BWR/?tag=tolees-21'
+descuento: '79.83'
+titulo: 'Clarks Glickasha GTX  Botas para Mujer  '
 ---
 
 Está [Clarks Glickasha GTX  Botas para Mujer  Negro  Black Leather   37 EU](https://www.amazon.es/dp/B06XCK1BWR/?tag=tolees-21) con 79.83 de descuento por 30.26 EUR (original: 150 EUR) en el siguiente enlace!

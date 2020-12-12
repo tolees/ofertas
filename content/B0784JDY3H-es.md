@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Lypumso Sketch Lápiz de dibujo lápices  boceto conjunto herramientas de artista con rollo de bolsa incluido borrador lápiz  herramienta perfecta para el artista  40 piezas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0784JDY3H/?tag=tolees-21'
+descuento: '42.51'
+titulo: 'Lypumso Sketch Lápiz de dibujo lápices  '
 ---
 
 Está [Lypumso Sketch Lápiz de dibujo lápices  boceto conjunto herramientas de artista con rollo de bolsa incluido borrador lápiz  herramienta perfecta para el artista  40 piezas ](https://www.amazon.es/dp/B0784JDY3H/?tag=tolees-21) con 42.51 de descuento por 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!

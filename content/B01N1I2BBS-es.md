@@ -17,6 +17,9 @@ comparePrice: 15.6 EUR
 inStock: true
 prodname: 'JACK & JONES Jfwvision Mixed Anthracite  Zapatillas para Hombre  Gris  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1I2BBS/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'JACK & JONES Jfwvision Mixed Anthracite '
 ---
 
 Está [JACK & JONES Jfwvision Mixed Anthracite  Zapatillas para Hombre  Gris  41 EU](https://www.amazon.es/dp/B01N1I2BBS/?tag=tolees-21) con 25.00 de descuento por 11.7 EUR (original: 15.6 EUR) en el siguiente enlace!

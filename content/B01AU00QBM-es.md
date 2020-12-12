@@ -17,6 +17,9 @@ comparePrice: 25.58 EUR
 inStock: true
 prodname: 'Ghost In The Shell La Nueva Película [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AU00QBM/?tag=tolees-21'
+descuento: '44.14'
+titulo: 'Ghost In The Shell La Nueva Película [Bl'
 ---
 
 Está [Ghost In The Shell La Nueva Película [Blu-ray]](https://www.amazon.es/dp/B01AU00QBM/?tag=tolees-21) con 44.14 de descuento por 14.29 EUR (original: 25.58 EUR) en el siguiente enlace!

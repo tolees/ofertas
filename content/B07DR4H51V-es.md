@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'hummel Nassau  Zapatillas Unisex Adulto  Azul  Black Iris 1009   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DR4H51V/?tag=tolees-21'
+descuento: '55.42'
+titulo: 'hummel Nassau  Zapatillas Unisex Adulto '
 ---
 
 Ahora mismo tienes [hummel Nassau  Zapatillas Unisex Adulto  Azul  Black Iris 1009   36 EU](https://www.amazon.es/dp/B07DR4H51V/?tag=tolees-21) a 17.81 EUR (original: 39.95 EUR) (55.42 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma 365 Ignite St  Zapatillas de Running para Hombre  Negro Black-Asphalt 03  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N3S5GPB/?tag=tolees-21'
+descuento: '71.36'
+titulo: 'Puma 365 Ignite St  Zapatillas de Runnin'
 ---
 
 Tienes [Puma 365 Ignite St  Zapatillas de Running para Hombre  Negro Black-Asphalt 03  43 EU](https://www.amazon.es/dp/B01N3S5GPB/?tag=tolees-21) con un 71.36 % de descuento con precio de oferta de 22.9 EUR (original: 79.95 EUR) en el siguiente enlace!

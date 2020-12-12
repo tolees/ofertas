@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Hurley Paradise Volley 17" Bermudas  Hombre  Beige  Khaki   L/43'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QT1C5M/?tag=tolees-21'
+descuento: '59.47'
+titulo: 'Hurley Paradise Volley 17" Bermudas  Hom'
 ---
 
 Está [Hurley Paradise Volley 17" Bermudas  Hombre  Beige  Khaki   L/43](https://www.amazon.es/dp/B079QT1C5M/?tag=tolees-21) con 59.47 de descuento por 22.29 EUR (original: 55 EUR) en el siguiente enlace!

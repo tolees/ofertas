@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Puma Deck Gym Bag  Unisex Adulto  Black  OSFA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073SCCNRL/?tag=tolees-21'
+descuento: '27.03'
+titulo: 'Puma Deck Gym Bag  Unisex Adulto  Black '
 ---
 
 Está [Puma Deck Gym Bag  Unisex Adulto  Black  OSFA](https://www.amazon.es/dp/B073SCCNRL/?tag=tolees-21) con 27.03 de descuento por 9.45 EUR (original: 12.95 EUR) en el siguiente enlace!

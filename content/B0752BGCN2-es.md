@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'G-STAR RAW D-STAQ 5-Pocket Slim  Jeans  Azul  medium indigo aged 8968-6028   36W / 38L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0752BGCN2/?tag=tolees-21'
+descuento: '45.98'
+titulo: 'G-STAR RAW D-STAQ 5-Pocket Slim  Jeans  '
 ---
 
 Está [G-STAR RAW D-STAQ 5-Pocket Slim  Jeans  Azul  medium indigo aged 8968-6028   36W / 38L para Hombre](https://www.amazon.es/dp/B0752BGCN2/?tag=tolees-21) con 45.98 de descuento por 70.2 EUR (original: 129.95 EUR) en el siguiente enlace!

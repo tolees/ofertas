@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Tostadora  Tostadora 2 Rebanadas de Acero Inoxidable  950W  7 Niveles de tostado con Bandeja recogemigas desmontable  Aicok Tostadora pan Automática  Libre de BPA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073B1VFHH/?tag=tolees-21'
+descuento: '27.79'
+titulo: 'Tostadora  Tostadora 2 Rebanadas de Acer'
 ---
 
 Ahora mismo tienes [Tostadora  Tostadora 2 Rebanadas de Acero Inoxidable  950W  7 Niveles de tostado con Bandeja recogemigas desmontable  Aicok Tostadora pan Automática  Libre de BPA](https://www.amazon.es/dp/B073B1VFHH/?tag=tolees-21) a 25.99 EUR (original: 35.99 EUR) (27.79 %  de descuento) en el siguiente enlace!

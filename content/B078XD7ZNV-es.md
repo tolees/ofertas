@@ -17,6 +17,9 @@ comparePrice: 190 EUR
 inStock: true
 prodname: 'Adidas Supernova Ctrl 1.8'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078XD7ZNV/?tag=tolees-21'
+descuento: '50.58'
+titulo: 'Adidas Supernova Ctrl 1.8'
 ---
 
 Está [Adidas Supernova Ctrl 1.8](https://www.amazon.es/dp/B078XD7ZNV/?tag=tolees-21) con 50.58 de descuento por 93.9 EUR (original: 190 EUR) en el siguiente enlace!

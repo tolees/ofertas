@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: '58MM Fisheye - [Ultra Claro] Beschoi Lente de 0.35X Ojo de Pez de Ángulo Ancho Objetivo Lente Marco con Azul Recubiertos con Película para Nikon Canon Cámara Reflex'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8UQSTH/?tag=tolees-21'
+descuento: '25.01'
+titulo: '58MM Fisheye - [Ultra Claro] Beschoi Len'
 ---
 
 Tienes [58MM Fisheye - [Ultra Claro] Beschoi Lente de 0.35X Ojo de Pez de Ángulo Ancho Objetivo Lente Marco con Azul Recubiertos con Película para Nikon Canon Cámara Reflex](https://www.amazon.es/dp/B01N8UQSTH/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcomason tee SS Crew Neck WHS Camiseta Negro  Black Fit: Slim  Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NHX85L5/?tag=tolees-21'
+descuento: '25.56'
+titulo: 'JACK & JONES Jcomason tee SS Crew Neck W'
 ---
 
 Está [JACK & JONES Jcomason tee SS Crew Neck WHS Camiseta Negro  Black Fit: Slim  Small para Hombre](https://www.amazon.es/dp/B07NHX85L5/?tag=tolees-21) con 25.56 de descuento por 9.67 EUR (original: 12.99 EUR) en el siguiente enlace!

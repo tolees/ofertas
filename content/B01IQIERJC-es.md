@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Osprey Tempest 40 Women s Hiking Pack - Mystic Magenta  WS/WM '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IQIERJC/?tag=tolees-21'
+descuento: '42.10'
+titulo: 'Osprey Tempest 40 Women s Hiking Pack - '
 ---
 
 Está [Osprey Tempest 40 Women s Hiking Pack - Mystic Magenta  WS/WM ](https://www.amazon.es/dp/B01IQIERJC/?tag=tolees-21) con 42.10 de descuento por 86.85 EUR (original: 150 EUR) en el siguiente enlace!

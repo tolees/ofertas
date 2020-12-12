@@ -17,6 +17,9 @@ comparePrice: 29.35 EUR
 inStock: true
 prodname: 'Pack: Sicario 1 + Sicario 2 [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HZGXSHD/?tag=tolees-21'
+descuento: '54.00'
+titulo: 'Pack: Sicario 1 + Sicario 2 [Blu-ray]'
 ---
 
 Está [Pack: Sicario 1 + Sicario 2 [Blu-ray]](https://www.amazon.es/dp/B07HZGXSHD/?tag=tolees-21) con 54.00 de descuento por 13.5 EUR (original: 29.35 EUR) en el siguiente enlace!

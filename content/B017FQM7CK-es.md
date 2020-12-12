@@ -17,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'Catit Recambio Magic Blue  6 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017FQM7CK/?tag=tolees-21'
+descuento: '44.49'
+titulo: 'Catit Recambio Magic Blue  6 Unidades'
 ---
 
 Tienes [Catit Recambio Magic Blue  6 Unidades](https://www.amazon.es/dp/B017FQM7CK/?tag=tolees-21) con un 44.49 % de descuento con precio de oferta de 4.99 EUR (original: 8.99 EUR) en el siguiente enlace!

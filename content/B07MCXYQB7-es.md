@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Adidas Vs Switch 2 K  Zapatillas de Deporte Unisex Adulto  000  38 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MCXYQB7/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'Adidas Vs Switch 2 K  Zapatillas de Depo'
 ---
 
 Ahora mismo tienes [Adidas Vs Switch 2 K  Zapatillas de Deporte Unisex Adulto  000  38 2/3 EU](https://www.amazon.es/dp/B07MCXYQB7/?tag=tolees-21) a 19.98 EUR (original: 39.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

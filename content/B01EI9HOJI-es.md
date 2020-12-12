@@ -17,6 +17,9 @@ comparePrice: 94.95 EUR
 inStock: true
 prodname: 'adidas Originals Gazelle  Zapatillas Unisex Adulto  Varios colores  Collegiate Navy/White/Gold Metalic   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EI9HOJI/?tag=tolees-21'
+descuento: '30.50'
+titulo: 'adidas Originals Gazelle  Zapatillas Uni'
 ---
 
 Está [adidas Originals Gazelle  Zapatillas Unisex Adulto  Varios colores  Collegiate Navy/White/Gold Metalic   46 EU](https://www.amazon.es/dp/B01EI9HOJI/?tag=tolees-21) con 30.50 de descuento por 65.99 EUR (original: 94.95 EUR) en el siguiente enlace!

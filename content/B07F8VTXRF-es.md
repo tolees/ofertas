@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'JACK & JONES Joraviator Jacket Chaqueta  Negro  Black   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8VTXRF/?tag=tolees-21'
+descuento: '65.31'
+titulo: 'JACK & JONES Joraviator Jacket Chaqueta '
 ---
 
 Tienes [JACK & JONES Joraviator Jacket Chaqueta  Negro  Black   Medium para Hombre](https://www.amazon.es/dp/B07F8VTXRF/?tag=tolees-21) con un 65.31 % de descuento con precio de oferta de 27.75 EUR (original: 79.99 EUR) en el siguiente enlace!

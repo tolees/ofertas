@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Esprit 997ee2i801  suéter Hombre  Gris  Grey 030   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06ZYSBBCY/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Esprit 997ee2i801  suéter Hombre  Gris  '
 ---
 
 Tienes [Esprit 997ee2i801  suéter Hombre  Gris  Grey 030   X-Large](https://www.amazon.es/dp/B06ZYSBBCY/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

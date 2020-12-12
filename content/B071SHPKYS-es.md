@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Columbia ATS Trail Fs38 Outdry  Zapatillas De Deporte para Exterior para Mujer  Azul  Cypress/Sunset Red   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071SHPKYS/?tag=tolees-21'
+descuento: '71.90'
+titulo: 'Columbia ATS Trail Fs38 Outdry  Zapatill'
 ---
 
 Ahora mismo tienes [Columbia ATS Trail Fs38 Outdry  Zapatillas De Deporte para Exterior para Mujer  Azul  Cypress/Sunset Red   40 EU](https://www.amazon.es/dp/B071SHPKYS/?tag=tolees-21) a 39.33 EUR (original: 139.95 EUR) (71.90 %  de descuento) en el siguiente enlace!

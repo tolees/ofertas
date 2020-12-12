@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Belkin - Soporte para Rejilla de Ventilación de Coche para iPhone XS  XS Max  XR  X  8/8 Plus  Samsung Note9  S9/S9+ y Dispositivos de LG  Sony y Google entre Otros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7VARIG/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'Belkin - Soporte para Rejilla de Ventila'
 ---
 
 Ahora mismo tienes [Belkin - Soporte para Rejilla de Ventilación de Coche para iPhone XS  XS Max  XR  X  8/8 Plus  Samsung Note9  S9/S9+ y Dispositivos de LG  Sony y Google entre Otros](https://www.amazon.es/dp/B01N7VARIG/?tag=tolees-21) a 14.99 EUR (original: 24.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

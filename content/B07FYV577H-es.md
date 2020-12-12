@@ -17,6 +17,9 @@ comparePrice: 25.27 EUR
 inStock: true
 prodname: 'Marvo M508 - Ratón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYV577H/?tag=tolees-21'
+descuento: '60.11'
+titulo: 'Marvo M508 - Ratón'
 ---
 
 Ahora mismo tienes [Marvo M508 - Ratón](https://www.amazon.es/dp/B07FYV577H/?tag=tolees-21) a 10.08 EUR (original: 25.27 EUR) (60.11 %  de descuento) en el siguiente enlace!

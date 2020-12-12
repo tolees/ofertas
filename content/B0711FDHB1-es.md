@@ -17,6 +17,9 @@ comparePrice: 2.9 EUR
 inStock: true
 prodname: 'NIVEA MEN Black & White Invisible Active Spray  1 x 200 ml   desodorante antimanchas de cuidado masculino  desodorante invisible para proteger la piel y la ropa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0711FDHB1/?tag=tolees-21'
+descuento: '31.03'
+titulo: 'NIVEA MEN Black & White Invisible Active'
 ---
 
 Está [NIVEA MEN Black & White Invisible Active Spray  1 x 200 ml   desodorante antimanchas de cuidado masculino  desodorante invisible para proteger la piel y la ropa](https://www.amazon.es/dp/B0711FDHB1/?tag=tolees-21) con 31.03 de descuento por 2 EUR (original: 2.9 EUR) en el siguiente enlace!

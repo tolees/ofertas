@@ -17,6 +17,9 @@ comparePrice: 43 EUR
 inStock: true
 prodname: 'Lagunilla Optimus D.O Rioja Vino tinto Premium - 750 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B010MAK86S/?tag=tolees-21'
+descuento: '69.77'
+titulo: 'Lagunilla Optimus D.O Rioja Vino tinto P'
 ---
 
 Tienes [Lagunilla Optimus D.O Rioja Vino tinto Premium - 750 ml](https://www.amazon.es/dp/B010MAK86S/?tag=tolees-21) con un 69.77 % de descuento con precio de oferta de 13 EUR (original: 43 EUR) en el siguiente enlace!

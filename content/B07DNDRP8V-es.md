@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'DANISH ENDURANCE Calcetines de Algodón  Rojo - 3 Pares  EU 43-47 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNDRP8V/?tag=tolees-21'
+descuento: '40.10'
+titulo: 'DANISH ENDURANCE Calcetines de Algodón  '
 ---
 
 Tienes [DANISH ENDURANCE Calcetines de Algodón  Rojo - 3 Pares  EU 43-47 ](https://www.amazon.es/dp/B07DNDRP8V/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

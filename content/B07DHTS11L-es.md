@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Quiksilver SMALLEVERYDAYED M BKPK SGRH Mochila Mediana  Hombre  Light Grey Heather  One Size'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHTS11L/?tag=tolees-21'
+descuento: '26.89'
+titulo: 'Quiksilver SMALLEVERYDAYED M BKPK SGRH M'
 ---
 
 Tienes [Quiksilver SMALLEVERYDAYED M BKPK SGRH Mochila Mediana  Hombre  Light Grey Heather  One Size](https://www.amazon.es/dp/B07DHTS11L/?tag=tolees-21) con un 26.89 % de descuento con precio de oferta de 19 EUR (original: 25.99 EUR) en el siguiente enlace!

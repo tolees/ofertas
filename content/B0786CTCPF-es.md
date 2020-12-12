@@ -17,6 +17,9 @@ comparePrice: 111.1 EUR
 inStock: true
 prodname: 'Allthemen - Traje - para Hombre Negro S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0786CTCPF/?tag=tolees-21'
+descuento: '50.50'
+titulo: 'Allthemen - Traje - para Hombre Negro S'
 ---
 
 Tienes [Allthemen - Traje - para Hombre Negro S](https://www.amazon.es/dp/B0786CTCPF/?tag=tolees-21) con un 50.50 % de descuento con precio de oferta de 54.99 EUR (original: 111.1 EUR) en el siguiente enlace!

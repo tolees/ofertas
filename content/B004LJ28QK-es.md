@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Guess UBN12020 - Collar de Mujer de Plata de Ley  51 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004LJ28QK/?tag=tolees-21'
+descuento: '73.72'
+titulo: 'Guess UBN12020 - Collar de Mujer de Plat'
 ---
 
 Ahora mismo tienes [Guess UBN12020 - Collar de Mujer de Plata de Ley  51 cm](https://www.amazon.es/dp/B004LJ28QK/?tag=tolees-21) a 26.25 EUR (original: 99.9 EUR) (73.72 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'PUPPYOO WP521 Aspirador Vertical/escoba Portátil para Hogar Aspiradora Doméstica de Mano'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071RB8B6X/?tag=tolees-21'
+descuento: '58.47'
+titulo: 'PUPPYOO WP521 Aspirador Vertical/escoba '
 ---
 
 Está [PUPPYOO WP521 Aspirador Vertical/escoba Portátil para Hogar Aspiradora Doméstica de Mano](https://www.amazon.es/dp/B071RB8B6X/?tag=tolees-21) con 58.47 de descuento por 53.99 EUR (original: 129.99 EUR) en el siguiente enlace!

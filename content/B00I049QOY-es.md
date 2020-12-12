@@ -17,6 +17,9 @@ comparePrice: 229.95 EUR
 inStock: true
 prodname: 'Puzzles Educa - Capilla Sixtina  18000 piezas  16065 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I049QOY/?tag=tolees-21'
+descuento: '50.37'
+titulo: 'Puzzles Educa - Capilla Sixtina  18000 p'
 ---
 
 Está [Puzzles Educa - Capilla Sixtina  18000 piezas  16065 ](https://www.amazon.es/dp/B00I049QOY/?tag=tolees-21) con 50.37 de descuento por 114.13 EUR (original: 229.95 EUR) en el siguiente enlace!

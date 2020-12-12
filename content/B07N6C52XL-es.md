@@ -17,6 +17,9 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'OfficeWorld 16XL Reemplazo para Epson 16 Cartuchos de Tinta Compatible para Epson Workforce WF-2630WF WF-2510WF WF-2630 WF-2510 WF-2530 WF-2650 WF-2750 WF-2760 WF-2010 WF-2540 WF-2660 WF-2520'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N6C52XL/?tag=tolees-21'
+descuento: '27.60'
+titulo: 'OfficeWorld 16XL Reemplazo para Epson 16'
 ---
 
 Ahora mismo tienes [OfficeWorld 16XL Reemplazo para Epson 16 Cartuchos de Tinta Compatible para Epson Workforce WF-2630WF WF-2510WF WF-2630 WF-2510 WF-2530 WF-2650 WF-2750 WF-2760 WF-2010 WF-2540 WF-2660 WF-2520](https://www.amazon.es/dp/B07N6C52XL/?tag=tolees-21) a 20.99 EUR (original: 28.99 EUR) (27.60 %  de descuento) en el siguiente enlace!

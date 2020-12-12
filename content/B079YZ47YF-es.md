@@ -17,6 +17,9 @@ comparePrice: 249 EUR
 inStock: true
 prodname: 'Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1513568'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079YZ47YF/?tag=tolees-21'
+descuento: '32.82'
+titulo: 'Hugo BOSS Reloj Analógico para Hombre de'
 ---
 
 Tienes [Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1513568](https://www.amazon.es/dp/B079YZ47YF/?tag=tolees-21) con un 32.82 % de descuento con precio de oferta de 167.29 EUR (original: 249 EUR) en el siguiente enlace!

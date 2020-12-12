@@ -17,6 +17,9 @@ comparePrice: 269 EUR
 inStock: true
 prodname: 'Samsonite  X Blade 3.0 -  Spinner  Negro  Black   L  71cm-90L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01D1HJIZQ/?tag=tolees-21'
+descuento: '28.94'
+titulo: 'Samsonite  X Blade 3.0 -  Spinner  Negro'
 ---
 
 Ahora mismo tienes [Samsonite  X Blade 3.0 -  Spinner  Negro  Black   L  71cm-90L ](https://www.amazon.es/dp/B01D1HJIZQ/?tag=tolees-21) a 191.16 EUR (original: 269 EUR) (28.94 %  de descuento) en el siguiente enlace!

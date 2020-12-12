@@ -17,6 +17,9 @@ comparePrice: 46.09 EUR
 inStock: true
 prodname: 'Aibrou Camisa Hombre Verano de Manga Corta de Algodón Camisas de Hombre Lino Casual 2019  Blanco*1  Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07V1V2JVC/?tag=tolees-21'
+descuento: '53.74'
+titulo: 'Aibrou Camisa Hombre Verano de Manga Cor'
 ---
 
 Está [Aibrou Camisa Hombre Verano de Manga Corta de Algodón Camisas de Hombre Lino Casual 2019  Blanco*1  Medium ](https://www.amazon.es/dp/B07V1V2JVC/?tag=tolees-21) con 53.74 de descuento por 21.32 EUR (original: 46.09 EUR) en el siguiente enlace!

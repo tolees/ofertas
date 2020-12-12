@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'The North Face Y Jkt Chaqueta Snow Quest  Unisex niños  Kokomo Green  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011BW0W7G/?tag=tolees-21'
+descuento: '74.79'
+titulo: 'The North Face Y Jkt Chaqueta Snow Quest'
 ---
 
 Tienes [The North Face Y Jkt Chaqueta Snow Quest  Unisex niños  Kokomo Green  S](https://www.amazon.es/dp/B011BW0W7G/?tag=tolees-21) con un 74.79 % de descuento con precio de oferta de 25.21 EUR (original: 100 EUR) en el siguiente enlace!

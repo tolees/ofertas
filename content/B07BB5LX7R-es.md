@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'The North Face T0A3P7 Camiseta Easy  Hombre  Turkish Sea/High Rise Grey  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB5LX7R/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face T0A3P7 Camiseta Easy  Hom'
 ---
 
 Está [The North Face T0A3P7 Camiseta Easy  Hombre  Turkish Sea/High Rise Grey  XS](https://www.amazon.es/dp/B07BB5LX7R/?tag=tolees-21) con 50.00 de descuento por 10 EUR (original: 20 EUR) en el siguiente enlace!

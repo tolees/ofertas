@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Originals Daypack Mochilla  Unisex Adulto  Azul  Peacoat/High Risk Red White   OSFA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JH9H89B/?tag=tolees-21'
+descuento: '52.82'
+titulo: 'Puma Originals Daypack Mochilla  Unisex '
 ---
 
 Tienes [Puma Originals Daypack Mochilla  Unisex Adulto  Azul  Peacoat/High Risk Red White   OSFA](https://www.amazon.es/dp/B07JH9H89B/?tag=tolees-21) con un 52.82 % de descuento con precio de oferta de 18.85 EUR (original: 39.95 EUR) en el siguiente enlace!

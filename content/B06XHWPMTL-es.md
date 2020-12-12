@@ -17,6 +17,9 @@ comparePrice: 599.99 EUR
 inStock: true
 prodname: 'AMIBOT Spirit H2O - Robot aspirador y limpiador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHWPMTL/?tag=tolees-21'
+descuento: '66.67'
+titulo: 'AMIBOT Spirit H2O - Robot aspirador y li'
 ---
 
 Tienes [AMIBOT Spirit H2O - Robot aspirador y limpiador](https://www.amazon.es/dp/B06XHWPMTL/?tag=tolees-21) con un 66.67 % de descuento con precio de oferta de 199.99 EUR (original: 599.99 EUR) en el siguiente enlace!

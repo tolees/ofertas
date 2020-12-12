@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Flexracer  Zapatillas Unisex Adulto  Rosa  Knockout Pink White 24   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N3OYW0Z/?tag=tolees-21'
+descuento: '57.88'
+titulo: 'Puma Flexracer  Zapatillas Unisex Adulto'
 ---
 
 Está [Puma Flexracer  Zapatillas Unisex Adulto  Rosa  Knockout Pink White 24   37 EU](https://www.amazon.es/dp/B01N3OYW0Z/?tag=tolees-21) con 57.88 de descuento por 21.04 EUR (original: 49.95 EUR) en el siguiente enlace!

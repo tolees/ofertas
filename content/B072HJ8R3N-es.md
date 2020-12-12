@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Burton Bonded Crew Sudadera  Hombre  Mountaineer  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072HJ8R3N/?tag=tolees-21'
+descuento: '54.83'
+titulo: 'Burton Bonded Crew Sudadera  Hombre  Mou'
 ---
 
 Ahora mismo tienes [Burton Bonded Crew Sudadera  Hombre  Mountaineer  S](https://www.amazon.es/dp/B072HJ8R3N/?tag=tolees-21) a 36.14 EUR (original: 80 EUR) (54.83 %  de descuento) en el siguiente enlace!

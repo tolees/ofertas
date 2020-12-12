@@ -17,6 +17,9 @@ comparePrice: 162.68 EUR
 inStock: true
 prodname: 'Invicta Reloj de Pulsera 28952'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MWCBHXJ/?tag=tolees-21'
+descuento: '36.69'
+titulo: 'Invicta Reloj de Pulsera 28952'
 ---
 
 Está [Invicta Reloj de Pulsera 28952](https://www.amazon.es/dp/B07MWCBHXJ/?tag=tolees-21) con 36.69 de descuento por 102.99 EUR (original: 162.68 EUR) en el siguiente enlace!

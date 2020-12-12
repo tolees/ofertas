@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'MERAKI Camisa Vaquera de Manga Larga de Corte Estándar Hombre  Azul  Dark Blue   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07998PHHK/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'MERAKI Camisa Vaquera de Manga Larga de '
 ---
 
 Tienes [MERAKI Camisa Vaquera de Manga Larga de Corte Estándar Hombre  Azul  Dark Blue   X-Large](https://www.amazon.es/dp/B07998PHHK/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 18.75 EUR (original: 25 EUR) en el siguiente enlace!

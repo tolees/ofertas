@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'STAR WARS SW-EP8 Figura de Vinilo Pop 4: A Character  Episodio 8  10 cm Funko 14745'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LN3YBF/?tag=tolees-21'
+descuento: '49.84'
+titulo: 'STAR WARS SW-EP8 Figura de Vinilo Pop 4:'
 ---
 
 Tienes [STAR WARS SW-EP8 Figura de Vinilo Pop 4: A Character  Episodio 8  10 cm Funko 14745](https://www.amazon.es/dp/B072LN3YBF/?tag=tolees-21) con un 49.84 % de descuento con precio de oferta de 8 EUR (original: 15.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Timbre Inalámbrico para Puerta  Timbre Impermeable con LED Flash  Volumen Ajustable  58 Melodías  Rango de Funcionamiento del Botón a Prueba de Agua de 1000 Pies  1 Transmisor y 2 Receptores  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DXBCHSR/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Timbre Inalámbrico para Puerta  Timbre I'
 ---
 
 Está [Timbre Inalámbrico para Puerta  Timbre Impermeable con LED Flash  Volumen Ajustable  58 Melodías  Rango de Funcionamiento del Botón a Prueba de Agua de 1000 Pies  1 Transmisor y 2 Receptores  Negro ](https://www.amazon.es/dp/B07DXBCHSR/?tag=tolees-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

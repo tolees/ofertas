@@ -17,6 +17,9 @@ comparePrice: 42.95 EUR
 inStock: true
 prodname: 'Kappa Forward Mid  Zapatillas Altas Unisex Niños  Azul  Navy/Orange 6744   29 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EYJ9DLY/?tag=tolees-21'
+descuento: '54.02'
+titulo: 'Kappa Forward Mid  Zapatillas Altas Unis'
 ---
 
 Está [Kappa Forward Mid  Zapatillas Altas Unisex Niños  Azul  Navy/Orange 6744   29 EU](https://www.amazon.es/dp/B01EYJ9DLY/?tag=tolees-21) con 54.02 de descuento por 19.75 EUR (original: 42.95 EUR) en el siguiente enlace!

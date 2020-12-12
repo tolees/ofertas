@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour Men s Micro G Pursuit Running Shoes  Zapatillas Hombre  Gris  Steel/Black/After Burn   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VNTNGZ/?tag=tolees-21'
+descuento: '57.99'
+titulo: 'Under Armour Men s Micro G Pursuit Runni'
 ---
 
 Está [Under Armour Men s Micro G Pursuit Running Shoes  Zapatillas Hombre  Gris  Steel/Black/After Burn   40.5 EU](https://www.amazon.es/dp/B076VNTNGZ/?tag=tolees-21) con 57.99 de descuento por 29.41 EUR (original: 70 EUR) en el siguiente enlace!

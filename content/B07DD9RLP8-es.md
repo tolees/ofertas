@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Champion Low Cut Shoe Lyte PU  Zapatillas de Running para Asfalto para Mujer  Negro  Nbk Kk001   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DD9RLP8/?tag=tolees-21'
+descuento: '60.70'
+titulo: 'Champion Low Cut Shoe Lyte PU  Zapatilla'
 ---
 
 Tienes [Champion Low Cut Shoe Lyte PU  Zapatillas de Running para Asfalto para Mujer  Negro  Nbk Kk001   39 EU](https://www.amazon.es/dp/B07DD9RLP8/?tag=tolees-21) con un 60.70 % de descuento con precio de oferta de 15.68 EUR (original: 39.9 EUR) en el siguiente enlace!

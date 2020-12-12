@@ -17,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'HIKARO Chaleco de Plumas con Capucha Mujer  Negro  Black   38  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0785P5LWW/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HIKARO Chaleco de Plumas con Capucha Muj'
 ---
 
 Está [HIKARO Chaleco de Plumas con Capucha Mujer  Negro  Black   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B0785P5LWW/?tag=tolees-21) con 40.00 de descuento por 27.57 EUR (original: 45.95 EUR) en el siguiente enlace!

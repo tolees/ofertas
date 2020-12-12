@@ -17,6 +17,9 @@ comparePrice: 22.49 EUR
 inStock: true
 prodname: 'KAISERHOFF Tapa Universal de Vidrio  16  1 y 20 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01709FGOS/?tag=tolees-21'
+descuento: '55.58'
+titulo: 'KAISERHOFF Tapa Universal de Vidrio  16 '
 ---
 
 Ahora mismo tienes [KAISERHOFF Tapa Universal de Vidrio  16  1 y 20 cm](https://www.amazon.es/dp/B01709FGOS/?tag=tolees-21) a 9.99 EUR (original: 22.49 EUR) (55.58 %  de descuento) en el siguiente enlace!

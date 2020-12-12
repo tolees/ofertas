@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Schiesser Swimshorts - Bañador para Hombre  Talla 3XL  Color Negro 000'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FKRWLB4/?tag=tolees-21'
+descuento: '46.21'
+titulo: 'Schiesser Swimshorts - Bañador para Homb'
 ---
 
 Está [Schiesser Swimshorts - Bañador para Hombre  Talla 3XL  Color Negro 000](https://www.amazon.es/dp/B00FKRWLB4/?tag=tolees-21) con 46.21 de descuento por 21.49 EUR (original: 39.95 EUR) en el siguiente enlace!

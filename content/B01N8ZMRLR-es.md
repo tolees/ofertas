@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Valentino by Mario ValentinoDivinaMujerCarteras de manoRojo  Rosso 4x11.5x17 centimeters  B x H x T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8ZMRLR/?tag=tolees-21'
+descuento: '34.99'
+titulo: 'Valentino by Mario ValentinoDivinaMujerC'
 ---
 
 Tienes [Valentino by Mario ValentinoDivinaMujerCarteras de manoRojo  Rosso 4x11.5x17 centimeters  B x H x T ](https://www.amazon.es/dp/B01N8ZMRLR/?tag=tolees-21) con un 34.99 % de descuento con precio de oferta de 39 EUR (original: 59.99 EUR) en el siguiente enlace!

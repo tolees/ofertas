@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma Cali-0  Zapatillas Unisex Adulto  Blanco Amazon Green White  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1BMRT/?tag=tolees-21'
+descuento: '58.26'
+titulo: 'Puma Cali-0  Zapatillas Unisex Adulto  B'
 ---
 
 Ahora mismo tienes [Puma Cali-0  Zapatillas Unisex Adulto  Blanco Amazon Green White  36 EU](https://www.amazon.es/dp/B07DC1BMRT/?tag=tolees-21) a 41.72 EUR (original: 99.95 EUR) (58.26 %  de descuento) en el siguiente enlace!

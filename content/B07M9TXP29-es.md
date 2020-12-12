@@ -17,6 +17,9 @@ comparePrice: 26.83 EUR
 inStock: true
 prodname: 'AX BOXING Chanclas Hombre Sandalias Mujer Verano 2019 Cuero Flor Piscina Playa luz Antideslizante  Color Azul  Talla 43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9TXP29/?tag=tolees-21'
+descuento: '40.40'
+titulo: 'AX BOXING Chanclas Hombre Sandalias Muje'
 ---
 
 Tienes [AX BOXING Chanclas Hombre Sandalias Mujer Verano 2019 Cuero Flor Piscina Playa luz Antideslizante  Color Azul  Talla 43 EU](https://www.amazon.es/dp/B07M9TXP29/?tag=tolees-21) con un 40.40 % de descuento con precio de oferta de 15.99 EUR (original: 26.83 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Pasta Blanqueadora de Dientes con Carbón Activado Aprilis | Libre de Flúor & Peróxido  Remueve Manchas & Refresca el Aliento con Protección Natural de las Encías y Sabor a Menta| 100 g  3.5 oz '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CWP1F3V/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Pasta Blanqueadora de Dientes con Carbón'
 ---
 
 Ahora mismo tienes [Pasta Blanqueadora de Dientes con Carbón Activado Aprilis | Libre de Flúor & Peróxido  Remueve Manchas & Refresca el Aliento con Protección Natural de las Encías y Sabor a Menta| 100 g  3.5 oz ](https://www.amazon.es/dp/B07CWP1F3V/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

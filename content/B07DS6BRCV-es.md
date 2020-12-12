@@ -17,6 +17,9 @@ comparePrice: 64.78 EUR
 inStock: true
 prodname: 'Reebok Reago Essential  Zapatillas de Deporte para Mujer   Black/Tin Grey/White/Twisted Pink 000   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DS6BRCV/?tag=tolees-21'
+descuento: '61.72'
+titulo: 'Reebok Reago Essential  Zapatillas de De'
 ---
 
 Está [Reebok Reago Essential  Zapatillas de Deporte para Mujer   Black/Tin Grey/White/Twisted Pink 000   37.5 EU](https://www.amazon.es/dp/B07DS6BRCV/?tag=tolees-21) con 61.72 de descuento por 24.8 EUR (original: 64.78 EUR) en el siguiente enlace!

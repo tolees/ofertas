@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Slim  Jeans para Hombre  Negro  Lt Aged Destroy 9136-1243   34W/38L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MR8B38W/?tag=tolees-21'
+descuento: '78.54'
+titulo: 'G-STAR RAW 3301 Slim  Jeans para Hombre '
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Slim  Jeans para Hombre  Negro  Lt Aged Destroy 9136-1243   34W/38L](https://www.amazon.es/dp/B07MR8B38W/?tag=tolees-21) a 27.89 EUR (original: 129.95 EUR) (78.54 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'Basix Rubber Works Double Dong Purpura Dildo Doble Penetración - 517 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002HREO4W/?tag=tolees-21'
+descuento: '48.36'
+titulo: 'Basix Rubber Works Double Dong Purpura D'
 ---
 
 Tienes [Basix Rubber Works Double Dong Purpura Dildo Doble Penetración - 517 gr](https://www.amazon.es/dp/B002HREO4W/?tag=tolees-21) con un 48.36 % de descuento con precio de oferta de 23.73 EUR (original: 45.95 EUR) en el siguiente enlace!

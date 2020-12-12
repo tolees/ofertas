@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Deporte v4.1 de Bluetooth Auricular Cascos Bluetooth Inalámbricos Deportivos con Micrófono Función Magnético Estéreo HiFi  Tiempo de Juego: 6-8 horas por Samsung Xiaomi Huawei Sony'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074XNNVLX/?tag=tolees-21'
+descuento: '47.51'
+titulo: 'Deporte v4.1 de Bluetooth Auricular Casc'
 ---
 
 Ahora mismo tienes [Deporte v4.1 de Bluetooth Auricular Cascos Bluetooth Inalámbricos Deportivos con Micrófono Función Magnético Estéreo HiFi  Tiempo de Juego: 6-8 horas por Samsung Xiaomi Huawei Sony](https://www.amazon.es/dp/B074XNNVLX/?tag=tolees-21) a 20.99 EUR (original: 39.99 EUR) (47.51 %  de descuento) en el siguiente enlace!

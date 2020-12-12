@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Altavoces Portátiles Bluetooth AY  a Prueba de Agua IPX7 Función TWS con 16W Subwoofer. Micrófono Incorporado.Altavoz Inalámbrico con hasta 15h de Duración.Perfecto para Bicicleta Hogar y Aire Libre.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FCJD2Y1/?tag=tolees-21'
+descuento: '66.68'
+titulo: 'Altavoces Portátiles Bluetooth AY  a Pru'
 ---
 
 Está [Altavoces Portátiles Bluetooth AY  a Prueba de Agua IPX7 Función TWS con 16W Subwoofer. Micrófono Incorporado.Altavoz Inalámbrico con hasta 15h de Duración.Perfecto para Bicicleta Hogar y Aire Libre.](https://www.amazon.es/dp/B07FCJD2Y1/?tag=tolees-21) con 66.68 de descuento por 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Mode XT Wns  Zapatillas de Deporte para Mujer  Negro Black White  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBZ7LWL/?tag=tolees-21'
+descuento: '52.67'
+titulo: 'Puma Mode XT Wns  Zapatillas de Deporte '
 ---
 
 Ahora mismo tienes [Puma Mode XT Wns  Zapatillas de Deporte para Mujer  Negro Black White  36 EU](https://www.amazon.es/dp/B07DBZ7LWL/?tag=tolees-21) a 42.57 EUR (original: 89.95 EUR) (52.67 %  de descuento) en el siguiente enlace!

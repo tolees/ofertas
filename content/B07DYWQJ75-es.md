@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Columbia Fast Trek II Full Zip Fleece Chaqueta Forro Polar  Hombre  Marrón  Peatmoss/Backcountry Orange   Talla XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYWQJ75/?tag=tolees-21'
+descuento: '43.99'
+titulo: 'Columbia Fast Trek II Full Zip Fleece Ch'
 ---
 
 Está [Columbia Fast Trek II Full Zip Fleece Chaqueta Forro Polar  Hombre  Marrón  Peatmoss/Backcountry Orange   Talla XXL](https://www.amazon.es/dp/B07DYWQJ75/?tag=tolees-21) con 43.99 de descuento por 28 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 42.5 EUR
 inStock: true
 prodname: 'Pedales de MTB  Shimano M520  SPD  blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003ZMDK5C/?tag=tolees-21'
+descuento: '42.47'
+titulo: 'Pedales de MTB  Shimano M520  SPD  blanc'
 ---
 
 Ahora mismo tienes [Pedales de MTB  Shimano M520  SPD  blanco](https://www.amazon.es/dp/B003ZMDK5C/?tag=tolees-21) a 24.45 EUR (original: 42.5 EUR) (42.47 %  de descuento) en el siguiente enlace!

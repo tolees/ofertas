@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Tuscany Silver - Pendiente de plata en forma de serpiente'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TXC0MGI/?tag=tolees-21'
+descuento: '64.33'
+titulo: 'Tuscany Silver - Pendiente de plata en f'
 ---
 
 Tienes [Tuscany Silver - Pendiente de plata en forma de serpiente](https://www.amazon.es/dp/B00TXC0MGI/?tag=tolees-21) con un 64.33 % de descuento con precio de oferta de 13.91 EUR (original: 39 EUR) en el siguiente enlace!

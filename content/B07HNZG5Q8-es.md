@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'TOTU Paraguas Paraguas de Viaje Plegable Paraguas antiviento con Apertura y Cierre automático con 8 Varillas de Fibra de Carbono  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HNZG5Q8/?tag=tolees-21'
+descuento: '28.59'
+titulo: 'TOTU Paraguas Paraguas de Viaje Plegable'
 ---
 
 Ahora mismo tienes [TOTU Paraguas Paraguas de Viaje Plegable Paraguas antiviento con Apertura y Cierre automático con 8 Varillas de Fibra de Carbono  Negro ](https://www.amazon.es/dp/B07HNZG5Q8/?tag=tolees-21) a 9.99 EUR (original: 13.99 EUR) (28.59 %  de descuento) en el siguiente enlace!

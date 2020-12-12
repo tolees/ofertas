@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Under Armour Showstopper 2.0  Zapatillas Deportivas para Interior para Hombre  Negro Pitch Gray/Black 005  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTPLKFH/?tag=tolees-21'
+descuento: '65.06'
+titulo: 'Under Armour Showstopper 2.0  Zapatillas'
 ---
 
 Está [Under Armour Showstopper 2.0  Zapatillas Deportivas para Interior para Hombre  Negro Pitch Gray/Black 005  43 EU](https://www.amazon.es/dp/B07CTPLKFH/?tag=tolees-21) con 65.06 de descuento por 31.45 EUR (original: 90 EUR) en el siguiente enlace!

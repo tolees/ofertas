@@ -17,6 +17,9 @@ comparePrice: 189 EUR
 inStock: true
 prodname: 'Love Moschino Jeans Skinny Fit Denim Trousers with Hearth Shaped Back Pockets  Pantalones para Mujer  Verde  Green Q19  W31/L30  Talla del Fabricante: 31 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C4S6GV9/?tag=tolees-21'
+descuento: '76.83'
+titulo: 'Love Moschino Jeans Skinny Fit Denim Tro'
 ---
 
 Ahora mismo tienes [Love Moschino Jeans Skinny Fit Denim Trousers with Hearth Shaped Back Pockets  Pantalones para Mujer  Verde  Green Q19  W31/L30  Talla del Fabricante: 31 ](https://www.amazon.es/dp/B07C4S6GV9/?tag=tolees-21) a 43.79 EUR (original: 189 EUR) (76.83 %  de descuento) en el siguiente enlace!

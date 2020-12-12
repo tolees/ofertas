@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'New Balance 928  Zapatillas de Senderismo para Hombre  Negro Black Bk3  45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXNYRZZ/?tag=tolees-21'
+descuento: '74.40'
+titulo: 'New Balance 928  Zapatillas de Senderism'
 ---
 
 Está [New Balance 928  Zapatillas de Senderismo para Hombre  Negro Black Bk3  45.5 EU](https://www.amazon.es/dp/B01MXNYRZZ/?tag=tolees-21) con 74.40 de descuento por 30.72 EUR (original: 120 EUR) en el siguiente enlace!

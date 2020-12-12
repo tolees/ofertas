@@ -17,6 +17,9 @@ comparePrice: 27 EUR
 inStock: true
 prodname: 'Philips MyHomeOffice Flexo E27  11 W  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005DWMPYE/?tag=tolees-21'
+descuento: '39.67'
+titulo: 'Philips MyHomeOffice Flexo E27  11 W  Bl'
 ---
 
 Ahora mismo tienes [Philips MyHomeOffice Flexo E27  11 W  Blanco](https://www.amazon.es/dp/B005DWMPYE/?tag=tolees-21) a 16.29 EUR (original: 27 EUR) (39.67 %  de descuento) en el siguiente enlace!

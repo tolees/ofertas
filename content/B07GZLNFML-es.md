@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Ratón inalámbrico  Inphic Slim Silent Click Recargable 2.4G Ratones inalámbricos portátil 1600DPI Mini óptico de viaje wireless mouse para PC Ordenador portátil Mac  Oro rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GZLNFML/?tag=tolees-21'
+descuento: '53.35'
+titulo: 'Ratón inalámbrico  Inphic Slim Silent Cl'
 ---
 
 Está [Ratón inalámbrico  Inphic Slim Silent Click Recargable 2.4G Ratones inalámbricos portátil 1600DPI Mini óptico de viaje wireless mouse para PC Ordenador portátil Mac  Oro rosa](https://www.amazon.es/dp/B07GZLNFML/?tag=tolees-21) con 53.35 de descuento por 12.59 EUR (original: 26.99 EUR) en el siguiente enlace!

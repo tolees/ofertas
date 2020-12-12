@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Reloj para Hombre WONBEE - Reloj Empresarial de Madera de Ébano - Banda de Cuero Marrón - Reloj de Pulsera de Cuarzo - Serie GI.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQFPVQK/?tag=tolees-21'
+descuento: '74.62'
+titulo: 'Reloj para Hombre WONBEE - Reloj Empresa'
 ---
 
 Está [Reloj para Hombre WONBEE - Reloj Empresarial de Madera de Ébano - Banda de Cuero Marrón - Reloj de Pulsera de Cuarzo - Serie GI.](https://www.amazon.es/dp/B07DQFPVQK/?tag=tolees-21) con 74.62 de descuento por 32.99 EUR (original: 129.99 EUR) en el siguiente enlace!

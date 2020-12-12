@@ -17,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Philips Avent Magic - Taza antigoteo de 340 ml  color rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N4UZBVG/?tag=tolees-21'
+descuento: '57.21'
+titulo: 'Philips Avent Magic - Taza antigoteo de '
 ---
 
 Está [Philips Avent Magic - Taza antigoteo de 340 ml  color rosa](https://www.amazon.es/dp/B00N4UZBVG/?tag=tolees-21) con 57.21 de descuento por 5.13 EUR (original: 11.99 EUR) en el siguiente enlace!

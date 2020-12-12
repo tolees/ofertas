@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjivega Jjbob WW Olive Night Noos  Pantalones para Hombre  Verde  W34/L32  Talla del Fabricante:34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0778S8GGZ/?tag=tolees-21'
+descuento: '66.19'
+titulo: 'JACK & JONES Jjivega Jjbob WW Olive Nigh'
 ---
 
 Tienes [JACK & JONES Jjivega Jjbob WW Olive Night Noos  Pantalones para Hombre  Verde  W34/L32  Talla del Fabricante:34 ](https://www.amazon.es/dp/B0778S8GGZ/?tag=tolees-21) con un 66.19 % de descuento con precio de oferta de 16.9 EUR (original: 49.99 EUR) en el siguiente enlace!

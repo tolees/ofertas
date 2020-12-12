@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Leifheit Rotaro S turquesa  barredora de alfombras sin alimentación y cable  regulable en altura  limpieza de alfombras con tres cepillos de barrido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0002AE2FC/?tag=tolees-21'
+descuento: '33.76'
+titulo: 'Leifheit Rotaro S turquesa  barredora de'
 ---
 
 Está [Leifheit Rotaro S turquesa  barredora de alfombras sin alimentación y cable  regulable en altura  limpieza de alfombras con tres cepillos de barrido](https://www.amazon.es/dp/B0002AE2FC/?tag=tolees-21) con 33.76 de descuento por 56.27 EUR (original: 84.95 EUR) en el siguiente enlace!

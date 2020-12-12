@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Sauza - Tequila Silver  0.7 l'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008DD6USC/?tag=tolees-21'
+descuento: '51.74'
+titulo: 'Sauza - Tequila Silver  0.7 l'
 ---
 
 Ahora mismo tienes [Sauza - Tequila Silver  0.7 l](https://www.amazon.es/dp/B008DD6USC/?tag=tolees-21) a 6.25 EUR (original: 12.95 EUR) (51.74 %  de descuento) en el siguiente enlace!

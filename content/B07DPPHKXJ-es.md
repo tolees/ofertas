@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Roxy Feel Happy Petate Deportivo Mediano  Mujer  Rosa  Heritage Heather   35 l'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPPHKXJ/?tag=tolees-21'
+descuento: '60.10'
+titulo: 'Roxy Feel Happy Petate Deportivo Mediano'
 ---
 
 Está [Roxy Feel Happy Petate Deportivo Mediano  Mujer  Rosa  Heritage Heather   35 l](https://www.amazon.es/dp/B07DPPHKXJ/?tag=tolees-21) con 60.10 de descuento por 18.35 EUR (original: 45.99 EUR) en el siguiente enlace!

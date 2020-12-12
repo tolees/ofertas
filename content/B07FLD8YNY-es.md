@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Superdry Vintage Logo Pop Entry Hood suéter  Azul  Eclipse Navy 98T   X-Small  Talla del Fabricante: 8  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLD8YNY/?tag=tolees-21'
+descuento: '41.49'
+titulo: 'Superdry Vintage Logo Pop Entry Hood sué'
 ---
 
 Tienes [Superdry Vintage Logo Pop Entry Hood suéter  Azul  Eclipse Navy 98T   X-Small  Talla del Fabricante: 8  para Mujer](https://www.amazon.es/dp/B07FLD8YNY/?tag=tolees-21) con un 41.49 % de descuento con precio de oferta de 40.95 EUR (original: 69.99 EUR) en el siguiente enlace!

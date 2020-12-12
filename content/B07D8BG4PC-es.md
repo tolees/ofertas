@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Munich Goal  Zapatillas Unisex Adulto   Gris/Azul 1385   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8BG4PC/?tag=tolees-21'
+descuento: '44.24'
+titulo: 'Munich Goal  Zapatillas Unisex Adulto   '
 ---
 
 Está [Munich Goal  Zapatillas Unisex Adulto   Gris/Azul 1385   42 EU](https://www.amazon.es/dp/B07D8BG4PC/?tag=tolees-21) con 44.24 de descuento por 55.2 EUR (original: 99 EUR) en el siguiente enlace!

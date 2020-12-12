@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjimarco Jjenzo WW Winetasting STS  Pantalones Hombre  Rojo  Winetasting Winetasting   W36/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNLM4XG/?tag=tolees-21'
+descuento: '66.82'
+titulo: 'JACK & JONES Jjimarco Jjenzo WW Winetast'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjimarco Jjenzo WW Winetasting STS  Pantalones Hombre  Rojo  Winetasting Winetasting   W36/L32](https://www.amazon.es/dp/B07FNLM4XG/?tag=tolees-21) a 9.95 EUR (original: 29.99 EUR) (66.82 %  de descuento) en el siguiente enlace!

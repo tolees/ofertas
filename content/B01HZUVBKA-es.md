@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Bronson Mid Waist Black Skinny Chino Pantalones  Negro  Rinsed Pressed 6960-7410   26W / 30L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HZUVBKA/?tag=tolees-21'
+descuento: '46.52'
+titulo: 'G-STAR RAW Bronson Mid Waist Black Skinn'
 ---
 
 Está [G-STAR RAW Bronson Mid Waist Black Skinny Chino Pantalones  Negro  Rinsed Pressed 6960-7410   26W / 30L para Mujer](https://www.amazon.es/dp/B01HZUVBKA/?tag=tolees-21) con 46.52 de descuento por 53.45 EUR (original: 99.95 EUR) en el siguiente enlace!

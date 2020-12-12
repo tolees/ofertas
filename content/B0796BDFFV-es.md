@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Napapijri Mana Stretch S 1  Pantalones para Hombre  Gris  Volcano H74   W37/L34  Talla del Fabricante: 35 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0796BDFFV/?tag=tolees-21'
+descuento: '69.29'
+titulo: 'Napapijri Mana Stretch S 1  Pantalones p'
 ---
 
 Está [Napapijri Mana Stretch S 1  Pantalones para Hombre  Gris  Volcano H74   W37/L34  Talla del Fabricante: 35 ](https://www.amazon.es/dp/B0796BDFFV/?tag=tolees-21) con 69.29 de descuento por 30.4 EUR (original: 99 EUR) en el siguiente enlace!

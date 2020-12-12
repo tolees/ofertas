@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Converse Chuck Taylor All Star Season Ox  Zapatillas de Tela Unisex Adulto  Beige  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000BYLMRU/?tag=tolees-21'
+descuento: '52.90'
+titulo: 'Converse Chuck Taylor All Star Season Ox'
 ---
 
 Tienes [Converse Chuck Taylor All Star Season Ox  Zapatillas de Tela Unisex Adulto  Beige  41 EU](https://www.amazon.es/dp/B000BYLMRU/?tag=tolees-21) con un 52.90 % de descuento con precio de oferta de 32.5 EUR (original: 69 EUR) en el siguiente enlace!

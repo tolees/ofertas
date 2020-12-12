@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'DC Apparel Rebel Top  Hombre  Black  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYXCK7B/?tag=tolees-21'
+descuento: '55.08'
+titulo: 'DC Apparel Rebel Top  Hombre  Black  XL'
 ---
 
 Ahora mismo tienes [DC Apparel Rebel Top  Hombre  Black  XL](https://www.amazon.es/dp/B07KYXCK7B/?tag=tolees-21) a 26.95 EUR (original: 59.99 EUR) (55.08 %  de descuento) en el siguiente enlace!

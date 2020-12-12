@@ -17,6 +17,9 @@ comparePrice: 20.39 EUR
 inStock: true
 prodname: 'Undercover Mochila Infantil  Rojo  Negro  - 10120074'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075GNX4JF/?tag=tolees-21'
+descuento: '55.91'
+titulo: 'Undercover Mochila Infantil  Rojo  Negro'
 ---
 
 Está [Undercover Mochila Infantil  Rojo  Negro  - 10120074](https://www.amazon.es/dp/B075GNX4JF/?tag=tolees-21) con 55.91 de descuento por 8.99 EUR (original: 20.39 EUR) en el siguiente enlace!

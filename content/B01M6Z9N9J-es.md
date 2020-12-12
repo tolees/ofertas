@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Under Armour UA Big Logo Slash Tank Camiseta sin Mangas  Niñas  Rosa  975   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M6Z9N9J/?tag=tolees-21'
+descuento: '55.00'
+titulo: 'Under Armour UA Big Logo Slash Tank Cami'
 ---
 
 Está [Under Armour UA Big Logo Slash Tank Camiseta sin Mangas  Niñas  Rosa  975   S](https://www.amazon.es/dp/B01M6Z9N9J/?tag=tolees-21) con 55.00 de descuento por 9 EUR (original: 20 EUR) en el siguiente enlace!

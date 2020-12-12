@@ -17,6 +17,9 @@ comparePrice: 277.42 EUR
 inStock: true
 prodname: 'Buffalo LinkStation 210  LS210D0301-EU  Unidad RAID  HDD  Marvell  800 GHz  256 GB   3TB  color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IAEDT60/?tag=tolees-21'
+descuento: '64.06'
+titulo: 'Buffalo LinkStation 210  LS210D0301-EU  '
 ---
 
 Tienes [Buffalo LinkStation 210  LS210D0301-EU  Unidad RAID  HDD  Marvell  800 GHz  256 GB   3TB  color Negro](https://www.amazon.es/dp/B00IAEDT60/?tag=tolees-21) con un 64.06 % de descuento con precio de oferta de 99.7 EUR (original: 277.42 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 8.71 EUR
 inStock: true
 prodname: 'Royal Canin C-08980 S.N. Shih Tzu 24 - 500 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000T5NLPC/?tag=tolees-21'
+descuento: '40.99'
+titulo: 'Royal Canin C-08980 S.N. Shih Tzu 24 - 5'
 ---
 
 Ahora mismo tienes [Royal Canin C-08980 S.N. Shih Tzu 24 - 500 gr](https://www.amazon.es/dp/B000T5NLPC/?tag=tolees-21) a 5.14 EUR (original: 8.71 EUR) (40.99 %  de descuento) en el siguiente enlace!

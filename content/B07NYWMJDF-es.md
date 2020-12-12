@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Mujer Vestido Encaje sin Mangas con Volantes para Cóctel Fiesta M Negro CL870-1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NYWMJDF/?tag=tolees-21'
+descuento: '44.46'
+titulo: 'Mujer Vestido Encaje sin Mangas con Vola'
 ---
 
 Está [Mujer Vestido Encaje sin Mangas con Volantes para Cóctel Fiesta M Negro CL870-1](https://www.amazon.es/dp/B07NYWMJDF/?tag=tolees-21) con 44.46 de descuento por 19.99 EUR (original: 35.99 EUR) en el siguiente enlace!

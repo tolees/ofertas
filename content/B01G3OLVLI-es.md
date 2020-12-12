@@ -17,6 +17,9 @@ comparePrice: 46.84 EUR
 inStock: true
 prodname: 'Kit de herramientas Apollo - 73 piezas para reparación y mantenimiento para ordenadores  Tablets  teléfono móvil y piezas electrónicas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01G3OLVLI/?tag=tolees-21'
+descuento: '29.01'
+titulo: 'Kit de herramientas Apollo - 73 piezas p'
 ---
 
 Está [Kit de herramientas Apollo - 73 piezas para reparación y mantenimiento para ordenadores  Tablets  teléfono móvil y piezas electrónicas](https://www.amazon.es/dp/B01G3OLVLI/?tag=tolees-21) con 29.01 de descuento por 33.25 EUR (original: 46.84 EUR) en el siguiente enlace!

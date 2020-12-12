@@ -17,6 +17,9 @@ comparePrice: 10.2 EUR
 inStock: true
 prodname: 'Ghost In The Shell 2 Innocence [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015QMDUZS/?tag=tolees-21'
+descuento: '50.98'
+titulo: 'Ghost In The Shell 2 Innocence [Blu-ray]'
 ---
 
 Tienes [Ghost In The Shell 2 Innocence [Blu-ray]](https://www.amazon.es/dp/B015QMDUZS/?tag=tolees-21) con un 50.98 % de descuento con precio de oferta de 5 EUR (original: 10.2 EUR) en el siguiente enlace!

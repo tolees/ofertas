@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Daren Zip Fly Vaqueros Straight  Azul  Bolt Blue Dh   W32/L32  Talla del Fabricante: 32/32  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FK48XRW/?tag=tolees-21'
+descuento: '60.03'
+titulo: 'Lee Daren Zip Fly Vaqueros Straight  Azu'
 ---
 
 Está [Lee Daren Zip Fly Vaqueros Straight  Azul  Bolt Blue Dh   W32/L32  Talla del Fabricante: 32/32  para Hombre](https://www.amazon.es/dp/B07FK48XRW/?tag=tolees-21) con 60.03 de descuento por 35.95 EUR (original: 89.95 EUR) en el siguiente enlace!

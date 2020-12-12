@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour UA GL Foundation SS T Camiseta  Hombre  Verde  Moss/Downtown Green/Anthracite 492   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DY4W8F1/?tag=tolees-21'
+descuento: '52.73'
+titulo: 'Under Armour UA GL Foundation SS T Camis'
 ---
 
 Ahora mismo tienes [Under Armour UA GL Foundation SS T Camiseta  Hombre  Verde  Moss/Downtown Green/Anthracite 492   L](https://www.amazon.es/dp/B07DY4W8F1/?tag=tolees-21) a 12.29 EUR (original: 26 EUR) (52.73 %  de descuento) en el siguiente enlace!

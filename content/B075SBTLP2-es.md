@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 1342495  Cárdigan para Mujer  Gris  Grey   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SBTLP2/?tag=tolees-21'
+descuento: '52.18'
+titulo: 'Springfield 1342495  Cárdigan para Mujer'
 ---
 
 Ahora mismo tienes [Springfield 1342495  Cárdigan para Mujer  Gris  Grey   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B075SBTLP2/?tag=tolees-21) a 14.34 EUR (original: 29.99 EUR) (52.18 %  de descuento) en el siguiente enlace!

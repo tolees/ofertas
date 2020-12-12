@@ -17,6 +17,9 @@ comparePrice: 12 EUR
 inStock: true
 prodname: 'Axe Dry Deodorant Spray 150ml Excite'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00EF7R4OY/?tag=tolees-21'
+descuento: '55.83'
+titulo: 'Axe Dry Deodorant Spray 150ml Excite'
 ---
 
 Ahora mismo tienes [Axe Dry Deodorant Spray 150ml Excite](https://www.amazon.es/dp/B00EF7R4OY/?tag=tolees-21) a 5.3 EUR (original: 12 EUR) (55.83 %  de descuento) en el siguiente enlace!

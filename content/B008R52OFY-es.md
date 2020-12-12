@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Umbra 330590-505 Escurreplatos Tub Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008R52OFY/?tag=tolees-21'
+descuento: '39.76'
+titulo: 'Umbra 330590-505 Escurreplatos Tub Rojo'
 ---
 
 Tienes [Umbra 330590-505 Escurreplatos Tub Rojo](https://www.amazon.es/dp/B008R52OFY/?tag=tolees-21) con un 39.76 % de descuento con precio de oferta de 15.06 EUR (original: 25 EUR) en el siguiente enlace!

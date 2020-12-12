@@ -17,6 +17,9 @@ comparePrice: 430 EUR
 inStock: true
 prodname: 'The North Face McMurdo - Chaqueta Impermeable con relleno de plumón de ganso para Hombre  Marrón  Bracken Brown   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FP2C9XH/?tag=tolees-21'
+descuento: '46.42'
+titulo: 'The North Face McMurdo - Chaqueta Imperm'
 ---
 
 Tienes [The North Face McMurdo - Chaqueta Impermeable con relleno de plumón de ganso para Hombre  Marrón  Bracken Brown   XL](https://www.amazon.es/dp/B07FP2C9XH/?tag=tolees-21) con un 46.42 % de descuento con precio de oferta de 230.39 EUR (original: 430 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Columbia Camden Chukka  Botas Casual para Hombre  Verde  Nori Grey   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0772ZBJM1/?tag=tolees-21'
+descuento: '48.70'
+titulo: 'Columbia Camden Chukka  Botas Casual par'
 ---
 
 Ahora mismo tienes [Columbia Camden Chukka  Botas Casual para Hombre  Verde  Nori Grey   46 EU](https://www.amazon.es/dp/B0772ZBJM1/?tag=tolees-21) a 66.68 EUR (original: 129.99 EUR) (48.70 %  de descuento) en el siguiente enlace!

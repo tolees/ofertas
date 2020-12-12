@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour UA Swyft Hoody Sudadera  Hombre  Blanco  100   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078YHLDQT/?tag=tolees-21'
+descuento: '75.73'
+titulo: 'Under Armour UA Swyft Hoody Sudadera  Ho'
 ---
 
 Tienes [Under Armour UA Swyft Hoody Sudadera  Hombre  Blanco  100   L](https://www.amazon.es/dp/B078YHLDQT/?tag=tolees-21) con un 75.73 % de descuento con precio de oferta de 16.99 EUR (original: 70 EUR) en el siguiente enlace!

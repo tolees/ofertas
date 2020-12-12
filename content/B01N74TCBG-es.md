@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Wrangler Short Sleeve Heritage Western Navy  Camisa para Hombre  Azul  Blue  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N74TCBG/?tag=tolees-21'
+descuento: '69.33'
+titulo: 'Wrangler Short Sleeve Heritage Western N'
 ---
 
 Tienes [Wrangler Short Sleeve Heritage Western Navy  Camisa para Hombre  Azul  Blue  Large](https://www.amazon.es/dp/B01N74TCBG/?tag=tolees-21) con un 69.33 % de descuento con precio de oferta de 15.32 EUR (original: 49.95 EUR) en el siguiente enlace!

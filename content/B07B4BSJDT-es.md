@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Ifecco aumentado el proyector de la onda del océano  N negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4BSJDT/?tag=tolees-21'
+descuento: '82.52'
+titulo: 'Ifecco aumentado el proyector de la onda'
 ---
 
 Ahora mismo tienes [Ifecco aumentado el proyector de la onda del océano  N negro ](https://www.amazon.es/dp/B07B4BSJDT/?tag=tolees-21) a 6.99 EUR (original: 39.99 EUR) (82.52 %  de descuento) en el siguiente enlace!

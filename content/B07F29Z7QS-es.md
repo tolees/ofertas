@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Levi s Graphic Po Hoodie-B  suéter para Hombre  Azul  Pop Olympic Logo Dress Blues 0036  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F29Z7QS/?tag=tolees-21'
+descuento: '35.00'
+titulo: 'Levi s Graphic Po Hoodie-B  suéter para '
 ---
 
 Está [Levi s Graphic Po Hoodie-B  suéter para Hombre  Azul  Pop Olympic Logo Dress Blues 0036  Small](https://www.amazon.es/dp/B07F29Z7QS/?tag=tolees-21) con 35.00 de descuento por 42.25 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'HP - Funda  Funda  43 9 cm  17.3"   360 g  Gris '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071KBJZ38/?tag=tolees-21'
+descuento: '36.98'
+titulo: 'HP - Funda  Funda  43 9 cm  17.3"   360 '
 ---
 
 Está [HP - Funda  Funda  43 9 cm  17.3"   360 g  Gris ](https://www.amazon.es/dp/B071KBJZ38/?tag=tolees-21) con 36.98 de descuento por 18.9 EUR (original: 29.99 EUR) en el siguiente enlace!

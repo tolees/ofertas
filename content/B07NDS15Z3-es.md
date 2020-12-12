@@ -17,6 +17,9 @@ comparePrice: 1249.99 EUR
 inStock: true
 prodname: 'Medion X30 RGB - Ordenador de sobremesa Gaming  Intel Core i7-8700  16GB RAM  1TB HDD + 256GB SSD  Nvidia GTX1060-6GB  Windows 10  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NDS15Z3/?tag=tolees-21'
+descuento: '32.00'
+titulo: 'Medion X30 RGB - Ordenador de sobremesa '
 ---
 
 Está [Medion X30 RGB - Ordenador de sobremesa Gaming  Intel Core i7-8700  16GB RAM  1TB HDD + 256GB SSD  Nvidia GTX1060-6GB  Windows 10  Negro](https://www.amazon.es/dp/B07NDS15Z3/?tag=tolees-21) con 32.00 de descuento por 849.99 EUR (original: 1249.99 EUR) en el siguiente enlace!

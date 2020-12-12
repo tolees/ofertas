@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Clarks Step Isle Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Canvas-   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0756CLDMW/?tag=tolees-21'
+descuento: '63.26'
+titulo: 'Clarks Step Isle Lace  Zapatos de Cordon'
 ---
 
 Tienes [Clarks Step Isle Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Canvas-   42 EU](https://www.amazon.es/dp/B0756CLDMW/?tag=tolees-21) con un 63.26 % de descuento con precio de oferta de 25.7 EUR (original: 69.95 EUR) en el siguiente enlace!

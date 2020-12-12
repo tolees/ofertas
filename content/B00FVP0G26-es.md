@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Linksys WUSB6300-EJ - Adaptador USB Wireless-AC AC1200 Linksys WUSB6300  Doble Banda  1x USB 3.0   Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FVP0G26/?tag=tolees-21'
+descuento: '88.95'
+titulo: 'Linksys WUSB6300-EJ - Adaptador USB Wire'
 ---
 
 Ahora mismo tienes [Linksys WUSB6300-EJ - Adaptador USB Wireless-AC AC1200 Linksys WUSB6300  Doble Banda  1x USB 3.0   Negro](https://www.amazon.es/dp/B00FVP0G26/?tag=tolees-21) a 4.97 EUR (original: 44.99 EUR) (88.95 %  de descuento) en el siguiente enlace!

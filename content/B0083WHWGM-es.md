@@ -17,6 +17,9 @@ comparePrice: 117.68 EUR
 inStock: true
 prodname: 'Brother QL700 - Impresora de etiquetas profesional con tecnología térmica directa  función "Conectar y Etiquetar" '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0083WHWGM/?tag=tolees-21'
+descuento: '47.40'
+titulo: 'Brother QL700 - Impresora de etiquetas p'
 ---
 
 Ahora mismo tienes [Brother QL700 - Impresora de etiquetas profesional con tecnología térmica directa  función "Conectar y Etiquetar" ](https://www.amazon.es/dp/B0083WHWGM/?tag=tolees-21) a 61.9 EUR (original: 117.68 EUR) (47.40 %  de descuento) en el siguiente enlace!

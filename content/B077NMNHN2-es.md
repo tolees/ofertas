@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Lee Slim Rider  Chaqueta Vaquera para Hombre  Azul  Fresh Kiup  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077NMNHN2/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Lee Slim Rider  Chaqueta Vaquera para Ho'
 ---
 
 Está [Lee Slim Rider  Chaqueta Vaquera para Hombre  Azul  Fresh Kiup  Medium](https://www.amazon.es/dp/B077NMNHN2/?tag=tolees-21) con 50.00 de descuento por 54.98 EUR (original: 109.95 EUR) en el siguiente enlace!

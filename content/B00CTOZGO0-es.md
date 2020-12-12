@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Deyard electrónica dinamómetro la Fuerza de Agarre de la Mano del medidor 90 kg / 200 lbs Margen de Capacidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CTOZGO0/?tag=tolees-21'
+descuento: '39.41'
+titulo: 'Deyard electrónica dinamómetro la Fuerza'
 ---
 
 Tienes [Deyard electrónica dinamómetro la Fuerza de Agarre de la Mano del medidor 90 kg / 200 lbs Margen de Capacidad](https://www.amazon.es/dp/B00CTOZGO0/?tag=tolees-21) con un 39.41 % de descuento con precio de oferta de 19.99 EUR (original: 32.99 EUR) en el siguiente enlace!

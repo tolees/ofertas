@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'CNASA for iRobot Roomba de la Serie 800 y 900 con 2 Juegos de extractores de escombros sin enredos  4 filtros  5 cepillos Laterales y 5 Tornillos Libres de'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HD2GL8/?tag=tolees-21'
+descuento: '58.01'
+titulo: 'CNASA for iRobot Roomba de la Serie 800 '
 ---
 
 Está [CNASA for iRobot Roomba de la Serie 800 y 900 con 2 Juegos de extractores de escombros sin enredos  4 filtros  5 cepillos Laterales y 5 Tornillos Libres de](https://www.amazon.es/dp/B078HD2GL8/?tag=tolees-21) con 58.01 de descuento por 20.99 EUR (original: 49.99 EUR) en el siguiente enlace!

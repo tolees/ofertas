@@ -17,6 +17,9 @@ comparePrice: 98 EUR
 inStock: true
 prodname: 'Gucci Rush Eau de Toilette para Mujer - 75 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RNF5YF/?tag=tolees-21'
+descuento: '49.03'
+titulo: 'Gucci Rush Eau de Toilette para Mujer - '
 ---
 
 Tienes [Gucci Rush Eau de Toilette para Mujer - 75 ml](https://www.amazon.es/dp/B073RNF5YF/?tag=tolees-21) con un 49.03 % de descuento con precio de oferta de 49.95 EUR (original: 98 EUR) en el siguiente enlace!

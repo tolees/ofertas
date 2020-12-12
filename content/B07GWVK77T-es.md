@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Hurley M Surf Check All Day Suéter  Hombre  Gris  dk Heather   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GWVK77T/?tag=tolees-21'
+descuento: '59.03'
+titulo: 'Hurley M Surf Check All Day Suéter  Homb'
 ---
 
 Tienes [Hurley M Surf Check All Day Suéter  Hombre  Gris  dk Heather   XL](https://www.amazon.es/dp/B07GWVK77T/?tag=tolees-21) con un 59.03 % de descuento con precio de oferta de 24.58 EUR (original: 60 EUR) en el siguiente enlace!

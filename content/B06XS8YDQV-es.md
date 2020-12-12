@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'New Balance Mx818V3  Zapatillas Deportivas para Interior para Hombre  Gris  Grey   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XS8YDQV/?tag=tolees-21'
+descuento: '59.95'
+titulo: 'New Balance Mx818V3  Zapatillas Deportiv'
 ---
 
 Ahora mismo tienes [New Balance Mx818V3  Zapatillas Deportivas para Interior para Hombre  Gris  Grey   45 EU](https://www.amazon.es/dp/B06XS8YDQV/?tag=tolees-21) a 34.04 EUR (original: 85 EUR) (59.95 %  de descuento) en el siguiente enlace!

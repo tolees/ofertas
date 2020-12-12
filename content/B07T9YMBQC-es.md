@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Cortapelos Nariz y Oreja  Xpreen Recortadora de Pelo de Nariz  Eléctrica Recortador de nariz con Alta Velocidad y Hojas de Acero Inoxidable Doble Borde de Diseño Lavable Cabeza Desmontable Cuchilla'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07T9YMBQC/?tag=tolees-21'
+descuento: '57.53'
+titulo: 'Cortapelos Nariz y Oreja  Xpreen Recorta'
 ---
 
 Está [Cortapelos Nariz y Oreja  Xpreen Recortadora de Pelo de Nariz  Eléctrica Recortador de nariz con Alta Velocidad y Hojas de Acero Inoxidable Doble Borde de Diseño Lavable Cabeza Desmontable Cuchilla](https://www.amazon.es/dp/B07T9YMBQC/?tag=tolees-21) con 57.53 de descuento por 8.49 EUR (original: 19.99 EUR) en el siguiente enlace!

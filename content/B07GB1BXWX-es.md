@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: '【2019】 Blackview A30 2GB RAM 16GB Dual SIM Smartphone 3G Display 5.5"  19:9  Cámara Dual de 8 5MP  Android 8.1 Movil Libre  2500mAh Reconocimiento Facial  WiFi  Bluetooth  Hotspots  GPS- Azul  EU '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GB1BXWX/?tag=tolees-21'
+descuento: '42.86'
+titulo: '【2019】 Blackview A30 2GB RAM 16GB Dual S'
 ---
 
 Ahora mismo tienes [【2019】 Blackview A30 2GB RAM 16GB Dual SIM Smartphone 3G Display 5.5"  19:9  Cámara Dual de 8 5MP  Android 8.1 Movil Libre  2500mAh Reconocimiento Facial  WiFi  Bluetooth  Hotspots  GPS- Azul  EU ](https://www.amazon.es/dp/B07GB1BXWX/?tag=tolees-21) a 79.99 EUR (original: 139.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma Axis Plus SD  Zapatillas de Deporte Unisex Adulto  Blanco Whisper White  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGPXP7Q/?tag=tolees-21'
+descuento: '50.42'
+titulo: 'Puma Axis Plus SD  Zapatillas de Deporte'
 ---
 
 Ahora mismo tienes [Puma Axis Plus SD  Zapatillas de Deporte Unisex Adulto  Blanco Whisper White  43 EU](https://www.amazon.es/dp/B07JGPXP7Q/?tag=tolees-21) a 32.2 EUR (original: 64.95 EUR) (50.42 %  de descuento) en el siguiente enlace!

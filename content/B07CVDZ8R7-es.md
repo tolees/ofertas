@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Camaras de Vigilancia Wifi Interior Mibao 1080P Camara Vigilancia Camara IP Wifi  Monitor Para Bebé / Mascota HD Visión Nocturna  Detección de Movimiento Remoto  Alarma de Correo Electrónico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVDZ8R7/?tag=tolees-21'
+descuento: '28.58'
+titulo: 'Camaras de Vigilancia Wifi Interior Miba'
 ---
 
 Está [Camaras de Vigilancia Wifi Interior Mibao 1080P Camara Vigilancia Camara IP Wifi  Monitor Para Bebé / Mascota HD Visión Nocturna  Detección de Movimiento Remoto  Alarma de Correo Electrónico](https://www.amazon.es/dp/B07CVDZ8R7/?tag=tolees-21) con 28.58 de descuento por 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

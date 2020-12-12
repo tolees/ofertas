@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Etnies Jameson 2 Eco  Zapatillas de Skateboard para Hombre  Azul  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074Q9FWYQ/?tag=tolees-21'
+descuento: '48.67'
+titulo: 'Etnies Jameson 2 Eco  Zapatillas de Skat'
 ---
 
 Ahora mismo tienes [Etnies Jameson 2 Eco  Zapatillas de Skateboard para Hombre  Azul  42 EU](https://www.amazon.es/dp/B074Q9FWYQ/?tag=tolees-21) a 38.5 EUR (original: 75 EUR) (48.67 %  de descuento) en el siguiente enlace!

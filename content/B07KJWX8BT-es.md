@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Quiksilver In Drop out Camiseta  Hombre  Rojo  Brick Red   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJWX8BT/?tag=tolees-21'
+descuento: '40.72'
+titulo: 'Quiksilver In Drop out Camiseta  Hombre '
 ---
 
 Tienes [Quiksilver In Drop out Camiseta  Hombre  Rojo  Brick Red   M](https://www.amazon.es/dp/B07KJWX8BT/?tag=tolees-21) con un 40.72 % de descuento con precio de oferta de 11.85 EUR (original: 19.99 EUR) en el siguiente enlace!

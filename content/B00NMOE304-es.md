@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Boba Wrap - Fular portabebés  multicolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NMOE304/?tag=tolees-21'
+descuento: '33.44'
+titulo: 'Boba Wrap - Fular portabebés  multicolor'
 ---
 
 Está [Boba Wrap - Fular portabebés  multicolor](https://www.amazon.es/dp/B00NMOE304/?tag=tolees-21) con 33.44 de descuento por 29.95 EUR (original: 45 EUR) en el siguiente enlace!

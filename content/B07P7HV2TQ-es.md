@@ -17,6 +17,9 @@ comparePrice: 78.99 EUR
 inStock: true
 prodname: 'San Ignacio PK1324 Sartenes VINUM-Ø20/24 cms  Aluminio Forjado  Mango ergonómico Soft Touch a Juego-Especial Gas y vitro Y Set 4 recipientes herméticos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P7HV2TQ/?tag=tolees-21'
+descuento: '69.63'
+titulo: 'San Ignacio PK1324 Sartenes VINUM-Ø20/24'
 ---
 
 Está [San Ignacio PK1324 Sartenes VINUM-Ø20/24 cms  Aluminio Forjado  Mango ergonómico Soft Touch a Juego-Especial Gas y vitro Y Set 4 recipientes herméticos](https://www.amazon.es/dp/B07P7HV2TQ/?tag=tolees-21) con 69.63 de descuento por 23.99 EUR (original: 78.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'BOXEUR DES RUES BXT-T105 Traje Deportivo elástico Bicolor  Mujer  Amarillo-Negro  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B6VBSSC/?tag=tolees-21'
+descuento: '60.53'
+titulo: 'BOXEUR DES RUES BXT-T105 Traje Deportivo'
 ---
 
 Está [BOXEUR DES RUES BXT-T105 Traje Deportivo elástico Bicolor  Mujer  Amarillo-Negro  S](https://www.amazon.es/dp/B07B6VBSSC/?tag=tolees-21) con 60.53 de descuento por 35.48 EUR (original: 89.9 EUR) en el siguiente enlace!

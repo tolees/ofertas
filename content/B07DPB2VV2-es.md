@@ -17,6 +17,9 @@ comparePrice: 167.4 EUR
 inStock: true
 prodname: 'Love Moschino - Borsa Pu  Shoppers y bolsos de hombro Mujer  Negro  Nero   8x14x19 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPB2VV2/?tag=tolees-21'
+descuento: '69.70'
+titulo: 'Love Moschino - Borsa Pu  Shoppers y bol'
 ---
 
 Ahora mismo tienes [Love Moschino - Borsa Pu  Shoppers y bolsos de hombro Mujer  Negro  Nero   8x14x19 cm  B x H T ](https://www.amazon.es/dp/B07DPB2VV2/?tag=tolees-21) a 50.73 EUR (original: 167.4 EUR) (69.70 %  de descuento) en el siguiente enlace!

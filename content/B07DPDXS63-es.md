@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Burton Relapse Mascara  Hombre  Negro/Verde  Sonar   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPDXS63/?tag=tolees-21'
+descuento: '45.27'
+titulo: 'Burton Relapse Mascara  Hombre  Negro/Ve'
 ---
 
 Está [Burton Relapse Mascara  Hombre  Negro/Verde  Sonar   Talla Única](https://www.amazon.es/dp/B07DPDXS63/?tag=tolees-21) con 45.27 de descuento por 60.2 EUR (original: 110 EUR) en el siguiente enlace!

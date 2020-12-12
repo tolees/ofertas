@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Tape Pants  Hombre  Medium Gray Heather  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFVYZWH/?tag=tolees-21'
+descuento: '43.42'
+titulo: 'Puma Tape Pants  Hombre  Medium Gray Hea'
 ---
 
 Está [Puma Tape Pants  Hombre  Medium Gray Heather  XL](https://www.amazon.es/dp/B07DFVYZWH/?tag=tolees-21) con 43.42 de descuento por 28.26 EUR (original: 49.95 EUR) en el siguiente enlace!

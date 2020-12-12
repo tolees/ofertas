@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Springfield 222801  Camiseta para Hombre  Azul  Marine Blue 10   Medium  Tamaño del fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SH5CM1/?tag=tolees-21'
+descuento: '59.23'
+titulo: 'Springfield 222801  Camiseta para Hombre'
 ---
 
 Tienes [Springfield 222801  Camiseta para Hombre  Azul  Marine Blue 10   Medium  Tamaño del fabricante:M ](https://www.amazon.es/dp/B075SH5CM1/?tag=tolees-21) con un 59.23 % de descuento con precio de oferta de 8.15 EUR (original: 19.99 EUR) en el siguiente enlace!

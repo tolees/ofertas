@@ -17,6 +17,9 @@ comparePrice: 29.54 EUR
 inStock: true
 prodname: 'ALDO Etiewen  Sandalia con Pulsera para Mujer  Beige  Nude   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076W22TZS/?tag=tolees-21'
+descuento: '48.58'
+titulo: 'ALDO Etiewen  Sandalia con Pulsera para '
 ---
 
 Ahora mismo tienes [ALDO Etiewen  Sandalia con Pulsera para Mujer  Beige  Nude   38 EU](https://www.amazon.es/dp/B076W22TZS/?tag=tolees-21) a 15.19 EUR (original: 29.54 EUR) (48.58 %  de descuento) en el siguiente enlace!

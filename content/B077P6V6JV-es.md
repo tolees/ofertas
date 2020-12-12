@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Puma Future 18.2 Netfit FG/AG  Zapatillas de Fútbol para Hombre  Azul  Deep Lagoon White-Green Gecko 03   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077P6V6JV/?tag=tolees-21'
+descuento: '75.26'
+titulo: 'Puma Future 18.2 Netfit FG/AG  Zapatilla'
 ---
 
 Ahora mismo tienes [Puma Future 18.2 Netfit FG/AG  Zapatillas de Fútbol para Hombre  Azul  Deep Lagoon White-Green Gecko 03   41 EU](https://www.amazon.es/dp/B077P6V6JV/?tag=tolees-21) a 29.67 EUR (original: 119.95 EUR) (75.26 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Puma Future 19.4 TT Jr  Zapatillas de Fútbol para Niños  Negro Black White  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC19YPS/?tag=tolees-21'
+descuento: '47.54'
+titulo: 'Puma Future 19.4 TT Jr  Zapatillas de Fú'
 ---
 
 Ahora mismo tienes [Puma Future 19.4 TT Jr  Zapatillas de Fútbol para Niños  Negro Black White  38 EU](https://www.amazon.es/dp/B07DC19YPS/?tag=tolees-21) a 23.58 EUR (original: 44.95 EUR) (47.54 %  de descuento) en el siguiente enlace!

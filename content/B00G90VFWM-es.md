@@ -17,6 +17,9 @@ comparePrice: 56.56 EUR
 inStock: true
 prodname: 'Bavaria BVC 1815 S - Aspirador en húmedo y seco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00G90VFWM/?tag=tolees-21'
+descuento: '47.05'
+titulo: 'Bavaria BVC 1815 S - Aspirador en húmedo'
 ---
 
 Tienes [Bavaria BVC 1815 S - Aspirador en húmedo y seco](https://www.amazon.es/dp/B00G90VFWM/?tag=tolees-21) con un 47.05 % de descuento con precio de oferta de 29.95 EUR (original: 56.56 EUR) en el siguiente enlace!

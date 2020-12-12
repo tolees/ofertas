@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'Reloj ESPRIT para Mujer ES109232001'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HZMMWAQ/?tag=tolees-21'
+descuento: '53.53'
+titulo: 'Reloj ESPRIT para Mujer ES109232001'
 ---
 
 Está [Reloj ESPRIT para Mujer ES109232001](https://www.amazon.es/dp/B01HZMMWAQ/?tag=tolees-21) con 53.53 de descuento por 79 EUR (original: 170 EUR) en el siguiente enlace!

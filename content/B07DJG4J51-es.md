@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 41ju201  Botas Militar para Mujer  Azul  Hellblau 610   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJG4J51/?tag=tolees-21'
+descuento: '71.68'
+titulo: 'Dockers by Gerli 41ju201  Botas Militar '
 ---
 
 Ahora mismo tienes [Dockers by Gerli 41ju201  Botas Militar para Mujer  Azul  Hellblau 610   39 EU](https://www.amazon.es/dp/B07DJG4J51/?tag=tolees-21) a 22.64 EUR (original: 79.95 EUR) (71.68 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Hisense L671 - Smartphone Libre de 5"  2 GB de RAM  16 GB de Memoria Interna  cámara de 13 MP  Android  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016AQQUQU/?tag=tolees-21'
+descuento: '54.63'
+titulo: 'Hisense L671 - Smartphone Libre de 5"  2'
 ---
 
 Está [Hisense L671 - Smartphone Libre de 5"  2 GB de RAM  16 GB de Memoria Interna  cámara de 13 MP  Android  Color Negro](https://www.amazon.es/dp/B016AQQUQU/?tag=tolees-21) con 54.63 de descuento por 90.74 EUR (original: 199.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Napapijri Rainforest S Pkt Black Chaqueta  Negro 041  X-Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9NBWZ2/?tag=tolees-21'
+descuento: '47.38'
+titulo: 'Napapijri Rainforest S Pkt Black Chaquet'
 ---
 
 Tienes [Napapijri Rainforest S Pkt Black Chaqueta  Negro 041  X-Small para Hombre](https://www.amazon.es/dp/B07L9NBWZ2/?tag=tolees-21) con un 47.38 % de descuento con precio de oferta de 104.71 EUR (original: 199 EUR) en el siguiente enlace!

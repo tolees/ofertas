@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Gilman Lace  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QV4Y1V/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Clarks Gilman Lace  Zapatos de Cordones '
 ---
 
 Tienes [Clarks Gilman Lace  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   44 EU](https://www.amazon.es/dp/B073QV4Y1V/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!

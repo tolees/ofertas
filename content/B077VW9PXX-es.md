@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmchelsey LS Boatneck Blouse Boo suéter  Rosa  Rose Shadow Detail:w. Salute Contrast   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077VW9PXX/?tag=tolees-21'
+descuento: '79.48'
+titulo: 'Vero Moda Vmchelsey LS Boatneck Blouse B'
 ---
 
 Ahora mismo tienes [Vero Moda Vmchelsey LS Boatneck Blouse Boo suéter  Rosa  Rose Shadow Detail:w. Salute Contrast   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B077VW9PXX/?tag=tolees-21) a 7.18 EUR (original: 34.99 EUR) (79.48 %  de descuento) en el siguiente enlace!

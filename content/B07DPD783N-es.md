@@ -17,6 +17,9 @@ comparePrice: 38.8 EUR
 inStock: true
 prodname: 'Luces Solares LED Exterior 6 Piezas Luces Solares Para Jardin Acero Inoxidable a Prueba de Agua Bueno Para Pasos de Pared Jardin'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPD783N/?tag=tolees-21'
+descuento: '53.63'
+titulo: 'Luces Solares LED Exterior 6 Piezas Luce'
 ---
 
 Está [Luces Solares LED Exterior 6 Piezas Luces Solares Para Jardin Acero Inoxidable a Prueba de Agua Bueno Para Pasos de Pared Jardin](https://www.amazon.es/dp/B07DPD783N/?tag=tolees-21) con 53.63 de descuento por 17.99 EUR (original: 38.8 EUR) en el siguiente enlace!

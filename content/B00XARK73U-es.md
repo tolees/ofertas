@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Mini Tenacilla Profesional Con Placas Cerámicas  19 Mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XARK73U/?tag=tolees-21'
+descuento: '47.00'
+titulo: 'Mini Tenacilla Profesional Con Placas Ce'
 ---
 
 Está [Mini Tenacilla Profesional Con Placas Cerámicas  19 Mm](https://www.amazon.es/dp/B00XARK73U/?tag=tolees-21) con 47.00 de descuento por 15.9 EUR (original: 30 EUR) en el siguiente enlace!

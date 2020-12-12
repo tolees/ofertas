@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Arxus impermeable a prueba de golpes Funda de transporte para cámaras GoPro Hero 6  5  4  3 +  3  2  1 y accesorios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078XB8QL9/?tag=tolees-21'
+descuento: '33.36'
+titulo: 'Arxus impermeable a prueba de golpes Fun'
 ---
 
 Ahora mismo tienes [Arxus impermeable a prueba de golpes Funda de transporte para cámaras GoPro Hero 6  5  4  3 +  3  2  1 y accesorios](https://www.amazon.es/dp/B078XB8QL9/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

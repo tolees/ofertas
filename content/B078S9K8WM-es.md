@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'TROLLEY CABINA MANIJA RÍGIDA ALKA TRAVEL  CABINA TAMAÑO BAJO COSTE RYANAIR EASYJET CAJA EQUIPAJE TALLA MALETA RÍGIDA MANGUERA MEDIDAS 50X35X20'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078S9K8WM/?tag=tolees-21'
+descuento: '30.06'
+titulo: 'TROLLEY CABINA MANIJA RÍGIDA ALKA TRAVEL'
 ---
 
 Ahora mismo tienes [TROLLEY CABINA MANIJA RÍGIDA ALKA TRAVEL  CABINA TAMAÑO BAJO COSTE RYANAIR EASYJET CAJA EQUIPAJE TALLA MALETA RÍGIDA MANGUERA MEDIDAS 50X35X20](https://www.amazon.es/dp/B078S9K8WM/?tag=tolees-21) a 34.9 EUR (original: 49.9 EUR) (30.06 %  de descuento) en el siguiente enlace!

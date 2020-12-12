@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Herrlicher Tarek Gabardin  Pantalones para Hombre  Negro  Black  36W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BEVG69W/?tag=tolees-21'
+descuento: '65.80'
+titulo: 'Herrlicher Tarek Gabardin  Pantalones pa'
 ---
 
 Está [Herrlicher Tarek Gabardin  Pantalones para Hombre  Negro  Black  36W](https://www.amazon.es/dp/B01BEVG69W/?tag=tolees-21) con 65.80 de descuento por 34.18 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 135.99 EUR
 inStock: true
 prodname: 'GRIFEMA G11503 - PORTO Grifo de lavabo empotrado con función de ahorro de agua  Grifo mezclador de pared  Cromo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MB1J5F8/?tag=tolees-21'
+descuento: '30.88'
+titulo: 'GRIFEMA G11503 - PORTO Grifo de lavabo e'
 ---
 
 Tienes [GRIFEMA G11503 - PORTO Grifo de lavabo empotrado con función de ahorro de agua  Grifo mezclador de pared  Cromo](https://www.amazon.es/dp/B07MB1J5F8/?tag=tolees-21) con un 30.88 % de descuento con precio de oferta de 93.99 EUR (original: 135.99 EUR) en el siguiente enlace!

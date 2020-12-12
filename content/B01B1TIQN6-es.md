@@ -17,6 +17,9 @@ comparePrice: 9.2 EUR
 inStock: true
 prodname: 'Medieval Castle 3D Puzzle'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B1TIQN6/?tag=tolees-21'
+descuento: '50.98'
+titulo: 'Medieval Castle 3D Puzzle'
 ---
 
 Ahora mismo tienes [Medieval Castle 3D Puzzle](https://www.amazon.es/dp/B01B1TIQN6/?tag=tolees-21) a 4.51 EUR (original: 9.2 EUR) (50.98 %  de descuento) en el siguiente enlace!

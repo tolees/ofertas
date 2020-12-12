@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Puma Suede Classic  Zapatillas Unisex Adults’o  Marrón  Buckthorn Brown White   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ91ZC8/?tag=tolees-21'
+descuento: '59.14'
+titulo: 'Puma Suede Classic  Zapatillas Unisex Ad'
 ---
 
 Está [Puma Suede Classic  Zapatillas Unisex Adults’o  Marrón  Buckthorn Brown White   39 EU](https://www.amazon.es/dp/B07CZ91ZC8/?tag=tolees-21) con 59.14 de descuento por 34.71 EUR (original: 84.95 EUR) en el siguiente enlace!

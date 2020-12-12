@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'Clarks Korik Rise GTX  Botas Chelsea para Hombre  Marrón  British Tan   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B97LF7V/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Clarks Korik Rise GTX  Botas Chelsea par'
 ---
 
 Tienes [Clarks Korik Rise GTX  Botas Chelsea para Hombre  Marrón  British Tan   42.5 EU](https://www.amazon.es/dp/B07B97LF7V/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 85 EUR (original: 170 EUR) en el siguiente enlace!

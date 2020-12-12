@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'RIP CURL Mirage Medina Edge 20" Boardsh Bañador  Hombre  Light Blue  30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RQ8JW2/?tag=tolees-21'
+descuento: '46.72'
+titulo: 'RIP CURL Mirage Medina Edge 20" Boardsh '
 ---
 
 Ahora mismo tienes [RIP CURL Mirage Medina Edge 20" Boardsh Bañador  Hombre  Light Blue  30](https://www.amazon.es/dp/B073RQ8JW2/?tag=tolees-21) a 37.29 EUR (original: 69.99 EUR) (46.72 %  de descuento) en el siguiente enlace!

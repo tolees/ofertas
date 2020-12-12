@@ -17,6 +17,9 @@ comparePrice: 299.99 EUR
 inStock: true
 prodname: 'HALSEA Salcar Placa de vibración con 3D basculante Vibrations Tecnología +  Superficie Enorme  1 Potente Motores + einmaliges Diseño + Bandas de Entrenamiento y Mando a Distancia  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC3LV7T/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HALSEA Salcar Placa de vibración con 3D '
 ---
 
 Ahora mismo tienes [HALSEA Salcar Placa de vibración con 3D basculante Vibrations Tecnología +  Superficie Enorme  1 Potente Motores + einmaliges Diseño + Bandas de Entrenamiento y Mando a Distancia  Color Negro](https://www.amazon.es/dp/B07DC3LV7T/?tag=tolees-21) a 179.99 EUR (original: 299.99 EUR) (40.00 %  de descuento) en el siguiente enlace!

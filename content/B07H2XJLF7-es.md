@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'X96mini TV Box  Android 7.1.2  RAM 2GB+ROM 16G  CPU: Amlogic S905W  GPU: Quad Core Arm Cortex A53  2GHz  Conexión WiFi  Compatible con 4K  H .265  OTG  BT  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2XJLF7/?tag=tolees-21'
+descuento: '71.12'
+titulo: 'X96mini TV Box  Android 7.1.2  RAM 2GB+R'
 ---
 
 Está [X96mini TV Box  Android 7.1.2  RAM 2GB+ROM 16G  CPU: Amlogic S905W  GPU: Quad Core Arm Cortex A53  2GHz  Conexión WiFi  Compatible con 4K  H .265  OTG  BT  Color Negro](https://www.amazon.es/dp/B07H2XJLF7/?tag=tolees-21) con 71.12 de descuento por 25.99 EUR (original: 89.99 EUR) en el siguiente enlace!

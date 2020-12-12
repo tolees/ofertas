@@ -17,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'masturbador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B2PK5Q3/?tag=tolees-21'
+descuento: '37.52'
+titulo: 'masturbador'
 ---
 
 Ahora mismo tienes [masturbador](https://www.amazon.es/dp/B07B2PK5Q3/?tag=tolees-21) a 14.99 EUR (original: 23.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

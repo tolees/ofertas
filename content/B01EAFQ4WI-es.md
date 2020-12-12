@@ -17,6 +17,9 @@ comparePrice: 88.88 EUR
 inStock: true
 prodname: 'Atelier GARDEUR Benny-8  Pantalones para Hombre   Grau 83   3 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EAFQ4WI/?tag=tolees-21'
+descuento: '84.93'
+titulo: 'Atelier GARDEUR Benny-8  Pantalones para'
 ---
 
 Ahora mismo tienes [Atelier GARDEUR Benny-8  Pantalones para Hombre   Grau 83   3 años](https://www.amazon.es/dp/B01EAFQ4WI/?tag=tolees-21) a 13.39 EUR (original: 88.88 EUR) (84.93 %  de descuento) en el siguiente enlace!

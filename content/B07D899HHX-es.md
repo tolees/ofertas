@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Nike Air MAX Vision  Zapatillas de Gimnasia para Hombre  Negro  Black/Signal Blue/White 012   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D899HHX/?tag=tolees-21'
+descuento: '49.49'
+titulo: 'Nike Air MAX Vision  Zapatillas de Gimna'
 ---
 
 Tienes [Nike Air MAX Vision  Zapatillas de Gimnasia para Hombre  Negro  Black/Signal Blue/White 012   42 EU](https://www.amazon.es/dp/B07D899HHX/?tag=tolees-21) con un 49.49 % de descuento con precio de oferta de 60.61 EUR (original: 120 EUR) en el siguiente enlace!

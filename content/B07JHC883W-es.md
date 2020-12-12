@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'PUMA ftblNXT Pro Shorts Pantalones Cortos  Hombre  Black/Red Blast  3XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHC883W/?tag=tolees-21'
+descuento: '45.58'
+titulo: 'PUMA ftblNXT Pro Shorts Pantalones Corto'
 ---
 
 Ahora mismo tienes [PUMA ftblNXT Pro Shorts Pantalones Cortos  Hombre  Black/Red Blast  3XL](https://www.amazon.es/dp/B07JHC883W/?tag=tolees-21) a 24.46 EUR (original: 44.95 EUR) (45.58 %  de descuento) en el siguiente enlace!

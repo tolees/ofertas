@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Burton Relapse Jr Mfi Mascara  Niños  Azul  Amber   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DP5BHZQ/?tag=tolees-21'
+descuento: '80.97'
+titulo: 'Burton Relapse Jr Mfi Mascara  Niños  Az'
 ---
 
 Tienes [Burton Relapse Jr Mfi Mascara  Niños  Azul  Amber   Talla Única](https://www.amazon.es/dp/B07DP5BHZQ/?tag=tolees-21) con un 80.97 % de descuento con precio de oferta de 18.08 EUR (original: 95 EUR) en el siguiente enlace!

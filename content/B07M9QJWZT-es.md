@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 High Waist Skinny Vaqueros  Azul  lt aged 6553-424   28W / 34L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9QJWZT/?tag=tolees-21'
+descuento: '68.71'
+titulo: 'G-STAR RAW 3301 High Waist Skinny Vaquer'
 ---
 
 Está [G-STAR RAW 3301 High Waist Skinny Vaqueros  Azul  lt aged 6553-424   28W / 34L para Mujer](https://www.amazon.es/dp/B07M9QJWZT/?tag=tolees-21) con 68.71 de descuento por 31.27 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Cortefiel 7217765  Vaquero para Hombre  Azul  W33'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCDPQST/?tag=tolees-21'
+descuento: '71.74'
+titulo: 'Cortefiel 7217765  Vaquero para Hombre  '
 ---
 
 Tienes [Cortefiel 7217765  Vaquero para Hombre  Azul  W33](https://www.amazon.es/dp/B06XCDPQST/?tag=tolees-21) con un 71.74 % de descuento con precio de oferta de 11.3 EUR (original: 39.99 EUR) en el siguiente enlace!

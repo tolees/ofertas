@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Casio Reloj Analogico-Digital para Hombre de Cuarzo con Correa en Resina AEQ-110W-2AVEF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BST4Z20/?tag=tolees-21'
+descuento: '40.36'
+titulo: 'Casio Reloj Analogico-Digital para Hombr'
 ---
 
 Está [Casio Reloj Analogico-Digital para Hombre de Cuarzo con Correa en Resina AEQ-110W-2AVEF](https://www.amazon.es/dp/B01BST4Z20/?tag=tolees-21) con 40.36 de descuento por 29.76 EUR (original: 49.9 EUR) en el siguiente enlace!

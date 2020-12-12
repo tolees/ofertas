@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Esprit 087ee1i006  suéter Mujer   Terracotta 5 809   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074RVB83M/?tag=tolees-21'
+descuento: '65.39'
+titulo: 'Esprit 087ee1i006  suéter Mujer   Terrac'
 ---
 
 Está [Esprit 087ee1i006  suéter Mujer   Terracotta 5 809   XX-Large](https://www.amazon.es/dp/B074RVB83M/?tag=tolees-21) con 65.39 de descuento por 13.84 EUR (original: 39.99 EUR) en el siguiente enlace!

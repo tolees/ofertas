@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Creative A60 - Altavoces de Ordenador  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0033HC4DS/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Creative A60 - Altavoces de Ordenador  C'
 ---
 
 Está [Creative A60 - Altavoces de Ordenador  Color Negro](https://www.amazon.es/dp/B0033HC4DS/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

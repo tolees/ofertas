@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'JACK & JONES Sense Trunks Core Noos 1-2-3 2014 Calzoncillos  Dress Blues  M  Pack de 3 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FPGF3HE/?tag=tolees-21'
+descuento: '27.03'
+titulo: 'JACK & JONES Sense Trunks Core Noos 1-2-'
 ---
 
 Tienes [JACK & JONES Sense Trunks Core Noos 1-2-3 2014 Calzoncillos  Dress Blues  M  Pack de 3 para Hombre](https://www.amazon.es/dp/B00FPGF3HE/?tag=tolees-21) con un 27.03 % de descuento con precio de oferta de 9.45 EUR (original: 12.95 EUR) en el siguiente enlace!

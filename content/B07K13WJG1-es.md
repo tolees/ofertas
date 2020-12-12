@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Adidas Campus C  Zapatillas de Gimnasia Unisex Niños  Rosa Light Pink FTWR White  35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K13WJG1/?tag=tolees-21'
+descuento: '60.32'
+titulo: 'Adidas Campus C  Zapatillas de Gimnasia '
 ---
 
 Tienes [Adidas Campus C  Zapatillas de Gimnasia Unisex Niños  Rosa Light Pink FTWR White  35 EU](https://www.amazon.es/dp/B07K13WJG1/?tag=tolees-21) con un 60.32 % de descuento con precio de oferta de 23.79 EUR (original: 59.95 EUR) en el siguiente enlace!

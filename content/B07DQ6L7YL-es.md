@@ -17,6 +17,9 @@ comparePrice: 28.08 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 9p235 Tanga  Rosa Confetto 01372  38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQ6L7YL/?tag=tolees-21'
+descuento: '41.49'
+titulo: 'Emporio Armani Underwear 9p235 Tanga  Ro'
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear 9p235 Tanga  Rosa Confetto 01372  38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07DQ6L7YL/?tag=tolees-21) a 16.43 EUR (original: 28.08 EUR) (41.49 %  de descuento) en el siguiente enlace!

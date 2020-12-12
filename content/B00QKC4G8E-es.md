@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'POC Joint VPD Air - Protector de rodillas  Negro  Uranium Black   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00QKC4G8E/?tag=tolees-21'
+descuento: '28.73'
+titulo: 'POC Joint VPD Air - Protector de rodilla'
 ---
 
 Tienes [POC Joint VPD Air - Protector de rodillas  Negro  Uranium Black   M](https://www.amazon.es/dp/B00QKC4G8E/?tag=tolees-21) con un 28.73 % de descuento con precio de oferta de 56.98 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'Android Tablet 7 Pulgadas Quad Core 8G Memory Tablet PC WiFi GPS Camera and Dual SIM Card Slots Built-in Unlimited Internet Type 3G Tabléfono - Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL3DS45/?tag=tolees-21'
+descuento: '64.72'
+titulo: 'Android Tablet 7 Pulgadas Quad Core 8G M'
 ---
 
 Está [Android Tablet 7 Pulgadas Quad Core 8G Memory Tablet PC WiFi GPS Camera and Dual SIM Card Slots Built-in Unlimited Internet Type 3G Tabléfono - Gris](https://www.amazon.es/dp/B07DL3DS45/?tag=tolees-21) con 64.72 de descuento por 59.98 EUR (original: 169.99 EUR) en el siguiente enlace!

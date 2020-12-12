@@ -17,6 +17,9 @@ comparePrice: 107.97 EUR
 inStock: true
 prodname: 'Enermax Revolution X t 630W - Fuente de alimentación  630W  100-240V  Activo  13 9 cm  Superior  Activo  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FSFA6WO/?tag=tolees-21'
+descuento: '39.10'
+titulo: 'Enermax Revolution X t 630W - Fuente de '
 ---
 
 Tienes [Enermax Revolution X t 630W - Fuente de alimentación  630W  100-240V  Activo  13 9 cm  Superior  Activo  Negro](https://www.amazon.es/dp/B00FSFA6WO/?tag=tolees-21) con un 39.10 % de descuento con precio de oferta de 65.75 EUR (original: 107.97 EUR) en el siguiente enlace!

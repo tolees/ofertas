@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Salomon RX Moc 4.0  Calzado de recuperación para Hombre  Negro  Black/Phantom/White   44 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ9QXZD/?tag=tolees-21'
+descuento: '31.14'
+titulo: 'Salomon RX Moc 4.0  Calzado de recuperac'
 ---
 
 Está [Salomon RX Moc 4.0  Calzado de recuperación para Hombre  Negro  Black/Phantom/White   44 2/3 EU](https://www.amazon.es/dp/B07CZ9QXZD/?tag=tolees-21) con 31.14 de descuento por 51.61 EUR (original: 74.95 EUR) en el siguiente enlace!

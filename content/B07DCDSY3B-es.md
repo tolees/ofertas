@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Nike Legend 7 Pro FG  Zapatillas de Fútbol Unisex Adulto  Negro  Black/Metallic Silver/Lt Crimson 006   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCDSY3B/?tag=tolees-21'
+descuento: '70.04'
+titulo: 'Nike Legend 7 Pro FG  Zapatillas de Fútb'
 ---
 
 Está [Nike Legend 7 Pro FG  Zapatillas de Fútbol Unisex Adulto  Negro  Black/Metallic Silver/Lt Crimson 006   39 EU](https://www.amazon.es/dp/B07DCDSY3B/?tag=tolees-21) con 70.04 de descuento por 38.95 EUR (original: 130 EUR) en el siguiente enlace!

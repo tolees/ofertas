@@ -17,6 +17,9 @@ comparePrice: 18.4 EUR
 inStock: true
 prodname: 'Frío En Julio [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TQ4PA38/?tag=tolees-21'
+descuento: '51.14'
+titulo: 'Frío En Julio [Blu-ray]'
 ---
 
 Tienes [Frío En Julio [Blu-ray]](https://www.amazon.es/dp/B00TQ4PA38/?tag=tolees-21) con un 51.14 % de descuento con precio de oferta de 8.99 EUR (original: 18.4 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 67.49 EUR
 inStock: true
 prodname: 'Adidas Kanadia Trail F36056  Zapatillas de Entrenamiento para Hombre  Negro  Black  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2TWSPV/?tag=tolees-21'
+descuento: '52.42'
+titulo: 'Adidas Kanadia Trail F36056  Zapatillas '
 ---
 
 Tienes [Adidas Kanadia Trail F36056  Zapatillas de Entrenamiento para Hombre  Negro  Black  42 EU](https://www.amazon.es/dp/B07K2TWSPV/?tag=tolees-21) con un 52.42 % de descuento con precio de oferta de 32.11 EUR (original: 67.49 EUR) en el siguiente enlace!

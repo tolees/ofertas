@@ -17,6 +17,9 @@ comparePrice: 795 EUR
 inStock: true
 prodname: 'Tumi Trolley para portátiles  Schwarz Graphite  Negro  - 28724'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZCIMLCA/?tag=tolees-21'
+descuento: '38.77'
+titulo: 'Tumi Trolley para portátiles  Schwarz Gr'
 ---
 
 Tienes [Tumi Trolley para portátiles  Schwarz Graphite  Negro  - 28724](https://www.amazon.es/dp/B00ZCIMLCA/?tag=tolees-21) con un 38.77 % de descuento con precio de oferta de 486.75 EUR (original: 795 EUR) en el siguiente enlace!

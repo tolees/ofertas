@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Superdry Boardshort Pantalones Cortos  Naranja  Havana Orange Vqh   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZH45HS/?tag=tolees-21'
+descuento: '52.82'
+titulo: 'Superdry Boardshort Pantalones Cortos  N'
 ---
 
 Está [Superdry Boardshort Pantalones Cortos  Naranja  Havana Orange Vqh   Large para Hombre](https://www.amazon.es/dp/B07MZH45HS/?tag=tolees-21) con 52.82 de descuento por 25.95 EUR (original: 55 EUR) en el siguiente enlace!

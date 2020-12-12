@@ -17,6 +17,9 @@ comparePrice: 35.2 EUR
 inStock: true
 prodname: 'Banpresto- Gintoki Sakata Figura 20 Cm EP. 2 Big Size Gintama Katsugeki-Kabukicho   BIDGI822799 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D47NM2S/?tag=tolees-21'
+descuento: '57.39'
+titulo: 'Banpresto- Gintoki Sakata Figura 20 Cm E'
 ---
 
 Ahora mismo tienes [Banpresto- Gintoki Sakata Figura 20 Cm EP. 2 Big Size Gintama Katsugeki-Kabukicho   BIDGI822799 ](https://www.amazon.es/dp/B07D47NM2S/?tag=tolees-21) a 15 EUR (original: 35.2 EUR) (57.39 %  de descuento) en el siguiente enlace!

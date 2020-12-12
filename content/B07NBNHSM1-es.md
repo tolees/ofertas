@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'CRXOOX 3-Pack Cristal Vidrio Templado para Huawei Honor 9 Lite  Transparente Protector de Pantalla  Explosiones Resistente  Sin Burbujas  Anti Dactilares  Fácil de Instalar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NBNHSM1/?tag=tolees-21'
+descuento: '64.24'
+titulo: 'CRXOOX 3-Pack Cristal Vidrio Templado pa'
 ---
 
 Ahora mismo tienes [CRXOOX 3-Pack Cristal Vidrio Templado para Huawei Honor 9 Lite  Transparente Protector de Pantalla  Explosiones Resistente  Sin Burbujas  Anti Dactilares  Fácil de Instalar](https://www.amazon.es/dp/B07NBNHSM1/?tag=tolees-21) a 6.79 EUR (original: 18.99 EUR) (64.24 %  de descuento) en el siguiente enlace!

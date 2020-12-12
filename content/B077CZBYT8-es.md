@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Cozime Grifo Lavabo Monomando Cascada  Grifos Modernos sin Plomo para Lavabos del Cuarto de Baño  Agua Fria y Caliente  Cromo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077CZBYT8/?tag=tolees-21'
+descuento: '49.14'
+titulo: 'Cozime Grifo Lavabo Monomando Cascada  G'
 ---
 
 Está [Cozime Grifo Lavabo Monomando Cascada  Grifos Modernos sin Plomo para Lavabos del Cuarto de Baño  Agua Fria y Caliente  Cromo](https://www.amazon.es/dp/B077CZBYT8/?tag=tolees-21) con 49.14 de descuento por 35.6 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Calvin Klein Underwear  Braguitas para Mujer  Blanco  WHITE 100   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MF9MXC2/?tag=tolees-21'
+descuento: '36.21'
+titulo: 'Calvin Klein Underwear  Braguitas para M'
 ---
 
 Ahora mismo tienes [Calvin Klein Underwear  Braguitas para Mujer  Blanco  WHITE 100   XL](https://www.amazon.es/dp/B00MF9MXC2/?tag=tolees-21) a 11.45 EUR (original: 17.95 EUR) (36.21 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 23.95 EUR
 inStock: true
 prodname: 'Joma Granada Polo  Hombre  Vino  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XNYGYY8/?tag=tolees-21'
+descuento: '72.40'
+titulo: 'Joma Granada Polo  Hombre  Vino  S'
 ---
 
 Ahora mismo tienes [Joma Granada Polo  Hombre  Vino  S](https://www.amazon.es/dp/B06XNYGYY8/?tag=tolees-21) a 6.61 EUR (original: 23.95 EUR) (72.40 %  de descuento) en el siguiente enlace!

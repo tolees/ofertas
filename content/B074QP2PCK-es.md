@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'La Mujer Otoño Rayas Manga Larga Pullover Sudadera Capucha Con Cremallera Stripes M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074QP2PCK/?tag=tolees-21'
+descuento: '64.48'
+titulo: 'La Mujer Otoño Rayas Manga Larga Pullove'
 ---
 
 Está [La Mujer Otoño Rayas Manga Larga Pullover Sudadera Capucha Con Cremallera Stripes M](https://www.amazon.es/dp/B074QP2PCK/?tag=tolees-21) con 64.48 de descuento por 6.39 EUR (original: 17.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Skechers Go Run 600-Farrox  Zapatillas para Niños  Azul  Blue Black Lime Bblm   23 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DRPWCLR/?tag=tolees-21'
+descuento: '60.09'
+titulo: 'Skechers Go Run 600-Farrox  Zapatillas p'
 ---
 
 Está [Skechers Go Run 600-Farrox  Zapatillas para Niños  Azul  Blue Black Lime Bblm   23 EU](https://www.amazon.es/dp/B07DRPWCLR/?tag=tolees-21) con 60.09 de descuento por 13.95 EUR (original: 34.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Azul  Academy/Elemental/Petrol Blue 400   35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTQ7C4F/?tag=tolees-21'
+descuento: '70.68'
+titulo: 'Under Armour UA GS Suspend  Zapatillas d'
 ---
 
 Tienes [Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Azul  Academy/Elemental/Petrol Blue 400   35.5 EU](https://www.amazon.es/dp/B07CTQ7C4F/?tag=tolees-21) con un 70.68 % de descuento con precio de oferta de 19.06 EUR (original: 65 EUR) en el siguiente enlace!

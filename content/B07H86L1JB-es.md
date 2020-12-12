@@ -17,6 +17,9 @@ comparePrice: 67.71 EUR
 inStock: true
 prodname: 'Pocketman 3D Printing Moon Light  lámpara de LED regulable de 5.1in / 13cm con cable USB y soporte de madera para regalo de vacaciones en casa Decortation  Touch Control'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H86L1JB/?tag=tolees-21'
+descuento: '73.43'
+titulo: 'Pocketman 3D Printing Moon Light  lámpar'
 ---
 
 Está [Pocketman 3D Printing Moon Light  lámpara de LED regulable de 5.1in / 13cm con cable USB y soporte de madera para regalo de vacaciones en casa Decortation  Touch Control](https://www.amazon.es/dp/B07H86L1JB/?tag=tolees-21) con 73.43 de descuento por 17.99 EUR (original: 67.71 EUR) en el siguiente enlace!

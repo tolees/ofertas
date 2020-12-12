@@ -17,6 +17,9 @@ comparePrice: 50.84 EUR
 inStock: true
 prodname: 'Q/S designed by 45.899.71.0415 Jeans  Azul  Blue Denim  Heavy Stone W 57Z6   32W x 34L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DMTOSUI/?tag=tolees-21'
+descuento: '80.07'
+titulo: 'Q/S designed by 45.899.71.0415 Jeans  Az'
 ---
 
 Está [Q/S designed by 45.899.71.0415 Jeans  Azul  Blue Denim  Heavy Stone W 57Z6   32W x 34L para Mujer](https://www.amazon.es/dp/B01DMTOSUI/?tag=tolees-21) con 80.07 de descuento por 10.13 EUR (original: 50.84 EUR) en el siguiente enlace!

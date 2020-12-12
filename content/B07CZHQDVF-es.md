@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'G-STAR RAW Graphic 10 T-Shirt  Camiseta para Hombre  Gris  Grey Htr 906  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZHQDVF/?tag=tolees-21'
+descuento: '50.46'
+titulo: 'G-STAR RAW Graphic 10 T-Shirt  Camiseta '
 ---
 
 Está [G-STAR RAW Graphic 10 T-Shirt  Camiseta para Hombre  Gris  Grey Htr 906  X-Large](https://www.amazon.es/dp/B07CZHQDVF/?tag=tolees-21) con 50.46 de descuento por 17.34 EUR (original: 35 EUR) en el siguiente enlace!

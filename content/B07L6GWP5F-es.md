@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Mardozon 13 Piezas Correas para Xiaomi Mi Band 3 - Silicona Reloj de Recambio Brazalete Extensibles Coloridos para reemplazo XIAOMI Recambio para Pulsera Inteligente  Estilo Juvenil '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L6GWP5F/?tag=tolees-21'
+descuento: '31.60'
+titulo: 'Mardozon 13 Piezas Correas para Xiaomi M'
 ---
 
 Tienes [Mardozon 13 Piezas Correas para Xiaomi Mi Band 3 - Silicona Reloj de Recambio Brazalete Extensibles Coloridos para reemplazo XIAOMI Recambio para Pulsera Inteligente  Estilo Juvenil ](https://www.amazon.es/dp/B07L6GWP5F/?tag=tolees-21) con un 31.60 % de descuento con precio de oferta de 12.99 EUR (original: 18.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'David Jones - Cm3872  Bolsos bandolera Mujer  Rojo  Red   7x17x18 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCHDH4M/?tag=tolees-21'
+descuento: '62.67'
+titulo: 'David Jones - Cm3872  Bolsos bandolera M'
 ---
 
 Ahora mismo tienes [David Jones - Cm3872  Bolsos bandolera Mujer  Rojo  Red   7x17x18 cm  W x H L ](https://www.amazon.es/dp/B07KCHDH4M/?tag=tolees-21) a 11.2 EUR (original: 30 EUR) (62.67 %  de descuento) en el siguiente enlace!

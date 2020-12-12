@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Columbia Hombre Forro Polar con Media Cremallera  KLAMATH RANGE II HALF ZIP  Poliéster  Verde  Cypress  Cool Green   Talla: S  1352472'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRMWCXL/?tag=tolees-21'
+descuento: '40.15'
+titulo: 'Columbia Hombre Forro Polar con Media Cr'
 ---
 
 Está [Columbia Hombre Forro Polar con Media Cremallera  KLAMATH RANGE II HALF ZIP  Poliéster  Verde  Cypress  Cool Green   Talla: S  1352472](https://www.amazon.es/dp/B07KRMWCXL/?tag=tolees-21) con 40.15 de descuento por 17.95 EUR (original: 29.99 EUR) en el siguiente enlace!

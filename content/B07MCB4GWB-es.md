@@ -17,6 +17,9 @@ comparePrice: 75.71 EUR
 inStock: true
 prodname: 'Funcl W1 Verdaderos Auriculares inalámbricos con Bluetooth 5.0 Auriculares intrauditivos Control táctil  3D Hi-Fi estéreo  18H Play Time  IPX5 Auriculares Deportivos con Bluetooth SweatProof  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MCB4GWB/?tag=tolees-21'
+descuento: '35.28'
+titulo: 'Funcl W1 Verdaderos Auriculares inalámbr'
 ---
 
 Ahora mismo tienes [Funcl W1 Verdaderos Auriculares inalámbricos con Bluetooth 5.0 Auriculares intrauditivos Control táctil  3D Hi-Fi estéreo  18H Play Time  IPX5 Auriculares Deportivos con Bluetooth SweatProof  Negro ](https://www.amazon.es/dp/B07MCB4GWB/?tag=tolees-21) a 49 EUR (original: 75.71 EUR) (35.28 %  de descuento) en el siguiente enlace!

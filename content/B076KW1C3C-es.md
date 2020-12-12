@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko Pop!- TMNT Figura de Vinilo  22983 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076KW1C3C/?tag=tolees-21'
+descuento: '41.76'
+titulo: 'Funko Pop!- TMNT Figura de Vinilo  22983'
 ---
 
 Ahora mismo tienes [Funko Pop!- TMNT Figura de Vinilo  22983 ](https://www.amazon.es/dp/B076KW1C3C/?tag=tolees-21) a 8.73 EUR (original: 14.99 EUR) (41.76 %  de descuento) en el siguiente enlace!

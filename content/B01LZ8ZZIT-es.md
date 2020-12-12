@@ -17,6 +17,9 @@ comparePrice: 10.5 EUR
 inStock: true
 prodname: 'Tufo 022 Cinta Adhesiva para Tubulares de Carretera  Unisex Adulto  Negro  700 x 22 mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZ8ZZIT/?tag=tolees-21'
+descuento: '33.81'
+titulo: 'Tufo 022 Cinta Adhesiva para Tubulares d'
 ---
 
 Tienes [Tufo 022 Cinta Adhesiva para Tubulares de Carretera  Unisex Adulto  Negro  700 x 22 mm](https://www.amazon.es/dp/B01LZ8ZZIT/?tag=tolees-21) con un 33.81 % de descuento con precio de oferta de 6.95 EUR (original: 10.5 EUR) en el siguiente enlace!

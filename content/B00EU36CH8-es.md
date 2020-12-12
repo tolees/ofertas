@@ -17,6 +17,9 @@ comparePrice: 175 EUR
 inStock: true
 prodname: 'Tuscany Silver 8.29.2422 - Pulsera de plata de ley  925/1000   con cristal Swarovski'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00EU36CH8/?tag=tolees-21'
+descuento: '72.87'
+titulo: 'Tuscany Silver 8.29.2422 - Pulsera de pl'
 ---
 
 Ahora mismo tienes [Tuscany Silver 8.29.2422 - Pulsera de plata de ley  925/1000   con cristal Swarovski](https://www.amazon.es/dp/B00EU36CH8/?tag=tolees-21) a 47.47 EUR (original: 175 EUR) (72.87 %  de descuento) en el siguiente enlace!

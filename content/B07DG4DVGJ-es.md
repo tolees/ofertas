@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Puma ESS+ Cropped Logo T-Shirt  Mujer  Cotton Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG4DVGJ/?tag=tolees-21'
+descuento: '26.37'
+titulo: 'Puma ESS+ Cropped Logo T-Shirt  Mujer  C'
 ---
 
 Ahora mismo tienes [Puma ESS+ Cropped Logo T-Shirt  Mujer  Cotton Black  L](https://www.amazon.es/dp/B07DG4DVGJ/?tag=tolees-21) a 14.69 EUR (original: 19.95 EUR) (26.37 %  de descuento) en el siguiente enlace!

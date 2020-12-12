@@ -17,6 +17,9 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'homgeek  3.5L Freidora de Aire  sin Aceite  Saludable  Temperatura y Temporizador Ajustables  LED  1500W  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BPZC4Q9/?tag=tolees-21'
+descuento: '40.67'
+titulo: 'homgeek  3.5L Freidora de Aire  sin Acei'
 ---
 
 Ahora mismo tienes [homgeek  3.5L Freidora de Aire  sin Aceite  Saludable  Temperatura y Temporizador Ajustables  LED  1500W  Negro](https://www.amazon.es/dp/B07BPZC4Q9/?tag=tolees-21) a 88.99 EUR (original: 149.99 EUR) (40.67 %  de descuento) en el siguiente enlace!

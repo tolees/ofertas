@@ -17,6 +17,9 @@ comparePrice: 24.59 EUR
 inStock: true
 prodname: 'Uhlsport Match - Polo  Color Negro y Dorado Verde y Blanco Talla:Extra-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KMN6RZ2/?tag=tolees-21'
+descuento: '59.54'
+titulo: 'Uhlsport Match - Polo  Color Negro y Dor'
 ---
 
 Ahora mismo tienes [Uhlsport Match - Polo  Color Negro y Dorado Verde y Blanco Talla:Extra-Large](https://www.amazon.es/dp/B00KMN6RZ2/?tag=tolees-21) a 9.95 EUR (original: 24.59 EUR) (59.54 %  de descuento) en el siguiente enlace!

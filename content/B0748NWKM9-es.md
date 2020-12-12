@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Lacoste Straightset Lace 417 1 Caw  Zapatillas para Mujer  Negro  Blk   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0748NWKM9/?tag=tolees-21'
+descuento: '74.36'
+titulo: 'Lacoste Straightset Lace 417 1 Caw  Zapa'
 ---
 
 Está [Lacoste Straightset Lace 417 1 Caw  Zapatillas para Mujer  Negro  Blk   39.5 EU](https://www.amazon.es/dp/B0748NWKM9/?tag=tolees-21) con 74.36 de descuento por 32.05 EUR (original: 125 EUR) en el siguiente enlace!

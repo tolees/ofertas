@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Gioteck - TX30 Stereo Gaming & Go Headset  Xbox One '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J26LPQW/?tag=tolees-21'
+descuento: '29.87'
+titulo: 'Gioteck - TX30 Stereo Gaming & Go Headse'
 ---
 
 Tienes [Gioteck - TX30 Stereo Gaming & Go Headset  Xbox One ](https://www.amazon.es/dp/B07J26LPQW/?tag=tolees-21) con un 29.87 % de descuento con precio de oferta de 13.99 EUR (original: 19.95 EUR) en el siguiente enlace!

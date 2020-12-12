@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'BOSS Ivitta suéter   Open Miscellaneous 974   Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGGZ798/?tag=tolees-21'
+descuento: '61.33'
+titulo: 'BOSS Ivitta suéter   Open Miscellaneous '
 ---
 
 Está [BOSS Ivitta suéter   Open Miscellaneous 974   Small para Mujer](https://www.amazon.es/dp/B07KGGZ798/?tag=tolees-21) con 61.33 de descuento por 57.62 EUR (original: 149 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Levi s Oversized Crewneck suéter  Verde  Garment Dye Sportswear PFD To Cascade 0005   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FHB7T67/?tag=tolees-21'
+descuento: '50.08'
+titulo: 'Levi s Oversized Crewneck suéter  Verde '
 ---
 
 Tienes [Levi s Oversized Crewneck suéter  Verde  Garment Dye Sportswear PFD To Cascade 0005   Medium para Mujer](https://www.amazon.es/dp/B07FHB7T67/?tag=tolees-21) con un 50.08 % de descuento con precio de oferta de 29.95 EUR (original: 60 EUR) en el siguiente enlace!

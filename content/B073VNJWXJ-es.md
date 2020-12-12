@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'PIECES - Pcrolly Bag  Bolsos bandolera Mujer  Schwarz  Black   13x26x36 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073VNJWXJ/?tag=tolees-21'
+descuento: '47.59'
+titulo: 'PIECES - Pcrolly Bag  Bolsos bandolera M'
 ---
 
 Está [PIECES - Pcrolly Bag  Bolsos bandolera Mujer  Schwarz  Black   13x26x36 cm  B x H T ](https://www.amazon.es/dp/B073VNJWXJ/?tag=tolees-21) con 47.59 de descuento por 20.96 EUR (original: 39.99 EUR) en el siguiente enlace!

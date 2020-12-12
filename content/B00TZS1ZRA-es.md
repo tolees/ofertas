@@ -17,6 +17,9 @@ comparePrice: 499 EUR
 inStock: true
 prodname: 'marckonfort Colchón viscoelástico París 90X190  18 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TZS1ZRA/?tag=tolees-21'
+descuento: '78.96'
+titulo: 'marckonfort Colchón viscoelástico París '
 ---
 
 Está [marckonfort Colchón viscoelástico París 90X190  18 cm](https://www.amazon.es/dp/B00TZS1ZRA/?tag=tolees-21) con 78.96 de descuento por 104.99 EUR (original: 499 EUR) en el siguiente enlace!

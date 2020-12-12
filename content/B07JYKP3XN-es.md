@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'adidas Forest Grove Zapatillas de Gimnasia Hombre  Rojo  Collegiate Burgundy/Cloud White/Core Black Collegiate Burgundy/Cloud White/Core Black   44 EU  9.5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JYKP3XN/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Forest Grove Zapatillas de Gimnas'
 ---
 
 Está [adidas Forest Grove Zapatillas de Gimnasia Hombre  Rojo  Collegiate Burgundy/Cloud White/Core Black Collegiate Burgundy/Cloud White/Core Black   44 EU  9.5 UK ](https://www.amazon.es/dp/B07JYKP3XN/?tag=tolees-21) con 49.99 de descuento por 39.98 EUR (original: 79.95 EUR) en el siguiente enlace!

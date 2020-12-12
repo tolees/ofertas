@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'New Balance 460v1  Zapatillas Deportivas para Interior para Hombre  Gris  Grey   46 1/2 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M32IWKR/?tag=tolees-21'
+descuento: '53.48'
+titulo: 'New Balance 460v1  Zapatillas Deportivas'
 ---
 
 Tienes [New Balance 460v1  Zapatillas Deportivas para Interior para Hombre  Gris  Grey   46 1/2 EU](https://www.amazon.es/dp/B01M32IWKR/?tag=tolees-21) con un 53.48 % de descuento con precio de oferta de 30.24 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Garmin Vivofit 4 - Reloj  Fitness Rastreador  Unisex  Negro  S/M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0789QGL9F/?tag=tolees-21'
+descuento: '31.25'
+titulo: 'Garmin Vivofit 4 - Reloj  Fitness Rastre'
 ---
 
 Tienes [Garmin Vivofit 4 - Reloj  Fitness Rastreador  Unisex  Negro  S/M](https://www.amazon.es/dp/B0789QGL9F/?tag=tolees-21) con un 31.25 % de descuento con precio de oferta de 54.99 EUR (original: 79.99 EUR) en el siguiente enlace!

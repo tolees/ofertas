@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'LifeProof Frē - Funda estanca y Anti caídas para iPhone XS  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GLC47VS/?tag=tolees-21'
+descuento: '45.01'
+titulo: 'LifeProof Frē - Funda estanca y Anti caí'
 ---
 
 Tienes [LifeProof Frē - Funda estanca y Anti caídas para iPhone XS  Azul](https://www.amazon.es/dp/B07GLC47VS/?tag=tolees-21) con un 45.01 % de descuento con precio de oferta de 43.99 EUR (original: 79.99 EUR) en el siguiente enlace!

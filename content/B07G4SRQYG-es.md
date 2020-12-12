@@ -17,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'Lacoste Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona 2010970'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4SRQYG/?tag=tolees-21'
+descuento: '43.06'
+titulo: 'Lacoste Reloj Cronógrafo para Hombre de '
 ---
 
 Ahora mismo tienes [Lacoste Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona 2010970](https://www.amazon.es/dp/B07G4SRQYG/?tag=tolees-21) a 90.54 EUR (original: 159 EUR) (43.06 %  de descuento) en el siguiente enlace!

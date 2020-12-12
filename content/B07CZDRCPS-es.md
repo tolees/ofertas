@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Puma Amp XT Wn s  Zapatillas de Deporte para Mujer  Gris  Laurel Wreath-Forest Night 03   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZDRCPS/?tag=tolees-21'
+descuento: '67.45'
+titulo: 'Puma Amp XT Wn s  Zapatillas de Deporte '
 ---
 
 Está [Puma Amp XT Wn s  Zapatillas de Deporte para Mujer  Gris  Laurel Wreath-Forest Night 03   39 EU](https://www.amazon.es/dp/B07CZDRCPS/?tag=tolees-21) con 67.45 de descuento por 26.04 EUR (original: 79.99 EUR) en el siguiente enlace!

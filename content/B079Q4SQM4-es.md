@@ -17,6 +17,9 @@ comparePrice: 395 EUR
 inStock: true
 prodname: 'Hackett London Padded Field JKT  Chaqueta para Hombre  Azul L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079Q4SQM4/?tag=tolees-21'
+descuento: '63.03'
+titulo: 'Hackett London Padded Field JKT  Chaquet'
 ---
 
 Tienes [Hackett London Padded Field JKT  Chaqueta para Hombre  Azul L](https://www.amazon.es/dp/B079Q4SQM4/?tag=tolees-21) con un 63.03 % de descuento con precio de oferta de 146.02 EUR (original: 395 EUR) en el siguiente enlace!

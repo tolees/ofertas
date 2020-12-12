@@ -17,6 +17,9 @@ comparePrice: 16 EUR
 inStock: true
 prodname: 'Berliner Philharmoniker - Great Recordings'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011JG5GMU/?tag=tolees-21'
+descuento: '68.75'
+titulo: 'Berliner Philharmoniker - Great Recordin'
 ---
 
 Está [Berliner Philharmoniker - Great Recordings](https://www.amazon.es/dp/B011JG5GMU/?tag=tolees-21) con 68.75 de descuento por 5 EUR (original: 16 EUR) en el siguiente enlace!

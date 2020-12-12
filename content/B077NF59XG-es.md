@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'DKNY Intimates Sheers Cupped Strapless Body  Negro  Black BP   única  Talla del Fabricante: 38C  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077NF59XG/?tag=tolees-21'
+descuento: '56.52'
+titulo: 'DKNY Intimates Sheers Cupped Strapless B'
 ---
 
 Está [DKNY Intimates Sheers Cupped Strapless Body  Negro  Black BP   única  Talla del Fabricante: 38C  para Mujer](https://www.amazon.es/dp/B077NF59XG/?tag=tolees-21) con 56.52 de descuento por 32.59 EUR (original: 74.95 EUR) en el siguiente enlace!

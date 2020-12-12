@@ -17,6 +17,9 @@ comparePrice: 174.16 EUR
 inStock: true
 prodname: 'Canon cartucho 718 de tóner original magenta para impresoras láser i-SENSYS LBP7200Cdn 7210Cdn 7660Cdn 7680Cx MF8330Cdn 8350Cdn 8340Cdn 8360Cdn 8380Cdw 8540Cdn 8550Cdn 8580Cdw 724Cdw 728Cdw 729Cx'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0029QJUMC/?tag=tolees-21'
+descuento: '53.49'
+titulo: 'Canon cartucho 718 de tóner original mag'
 ---
 
 Ahora mismo tienes [Canon cartucho 718 de tóner original magenta para impresoras láser i-SENSYS LBP7200Cdn 7210Cdn 7660Cdn 7680Cx MF8330Cdn 8350Cdn 8340Cdn 8360Cdn 8380Cdw 8540Cdn 8550Cdn 8580Cdw 724Cdw 728Cdw 729Cx](https://www.amazon.es/dp/B0029QJUMC/?tag=tolees-21) a 81 EUR (original: 174.16 EUR) (53.49 %  de descuento) en el siguiente enlace!

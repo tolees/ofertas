@@ -17,6 +17,9 @@ comparePrice: 8.5 EUR
 inStock: true
 prodname: 'Everlast 4454R - Venda elástica  Color Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000VVI4CO/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Everlast 4454R - Venda elástica  Color R'
 ---
 
 Está [Everlast 4454R - Venda elástica  Color Rojo](https://www.amazon.es/dp/B000VVI4CO/?tag=tolees-21) con 30.00 de descuento por 5.95 EUR (original: 8.5 EUR) en el siguiente enlace!

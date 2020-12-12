@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Antena Universal para Coche Lumiereholic Antena Aleta de tiburón Shark plástico Duro Am/FM Universal Brillante Negro Antena Universal Car Antenna with Radio Coche Accessories Argento M018-SILVER'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078Z6JY1D/?tag=tolees-21'
+descuento: '83.76'
+titulo: 'Antena Universal para Coche Lumiereholic'
 ---
 
 Está [Antena Universal para Coche Lumiereholic Antena Aleta de tiburón Shark plástico Duro Am/FM Universal Brillante Negro Antena Universal Car Antenna with Radio Coche Accessories Argento M018-SILVER](https://www.amazon.es/dp/B078Z6JY1D/?tag=tolees-21) con 83.76 de descuento por 12.99 EUR (original: 79.99 EUR) en el siguiente enlace!

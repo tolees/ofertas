@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Norcia Loose T-Shirt Camiseta  Blanco  White 110   Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KXHXYJZ/?tag=tolees-21'
+descuento: '67.78'
+titulo: 'G-STAR RAW Norcia Loose T-Shirt Camiseta'
 ---
 
 Está [G-STAR RAW Norcia Loose T-Shirt Camiseta  Blanco  White 110   Small para Mujer](https://www.amazon.es/dp/B07KXHXYJZ/?tag=tolees-21) con 67.78 de descuento por 12.87 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Deofde Antena de TV Interior  Ultra Plana Antena Interior DVB-T  4 Metros de Cables de Alto Rendimiento  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MB9LYTK/?tag=tolees-21'
+descuento: '26.33'
+titulo: 'Deofde Antena de TV Interior  Ultra Plan'
 ---
 
 Está [Deofde Antena de TV Interior  Ultra Plana Antena Interior DVB-T  4 Metros de Cables de Alto Rendimiento  Negro](https://www.amazon.es/dp/B07MB9LYTK/?tag=tolees-21) con 26.33 de descuento por 13.99 EUR (original: 18.99 EUR) en el siguiente enlace!

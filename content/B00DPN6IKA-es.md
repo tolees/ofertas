@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Juego Pro Team 300 - Maletín de poker I Poker Set I poker incluye cartas de poker texas hold em  300 fichas  Dealer y Timer - Aluminio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DPN6IKA/?tag=tolees-21'
+descuento: '31.12'
+titulo: 'Juego Pro Team 300 - Maletín de poker I '
 ---
 
 Tienes [Juego Pro Team 300 - Maletín de poker I Poker Set I poker incluye cartas de poker texas hold em  300 fichas  Dealer y Timer - Aluminio](https://www.amazon.es/dp/B00DPN6IKA/?tag=tolees-21) con un 31.12 % de descuento con precio de oferta de 40.64 EUR (original: 59 EUR) en el siguiente enlace!

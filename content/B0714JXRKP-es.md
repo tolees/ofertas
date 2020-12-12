@@ -17,6 +17,9 @@ comparePrice: 24.67 EUR
 inStock: true
 prodname: 'Head Princess Traje De Baño Olimpico  Niñas  Verde  12'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0714JXRKP/?tag=tolees-21'
+descuento: '55.61'
+titulo: 'Head Princess Traje De Baño Olimpico  Ni'
 ---
 
 Tienes [Head Princess Traje De Baño Olimpico  Niñas  Verde  12](https://www.amazon.es/dp/B0714JXRKP/?tag=tolees-21) con un 55.61 % de descuento con precio de oferta de 10.95 EUR (original: 24.67 EUR) en el siguiente enlace!

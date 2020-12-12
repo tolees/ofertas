@@ -17,6 +17,9 @@ comparePrice: 27.95 EUR
 inStock: true
 prodname: 'Puma Archive Logo tee Camiseta  Hombre  Blanco  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MSNJ7SL/?tag=tolees-21'
+descuento: '50.09'
+titulo: 'Puma Archive Logo tee Camiseta  Hombre  '
 ---
 
 Ahora mismo tienes [Puma Archive Logo tee Camiseta  Hombre  Blanco  XL](https://www.amazon.es/dp/B01MSNJ7SL/?tag=tolees-21) a 13.95 EUR (original: 27.95 EUR) (50.09 %  de descuento) en el siguiente enlace!

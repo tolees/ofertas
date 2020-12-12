@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Picobong Vibrador  Color Lila - 1 Vibrador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007PX0JUG/?tag=tolees-21'
+descuento: '59.09'
+titulo: 'Picobong Vibrador  Color Lila - 1 Vibrad'
 ---
 
 Está [Picobong Vibrador  Color Lila - 1 Vibrador](https://www.amazon.es/dp/B007PX0JUG/?tag=tolees-21) con 59.09 de descuento por 22.48 EUR (original: 54.95 EUR) en el siguiente enlace!

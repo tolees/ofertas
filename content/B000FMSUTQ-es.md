@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Severin 3667 - Báscula de Cocina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000FMSUTQ/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'Severin 3667 - Báscula de Cocina'
 ---
 
 Tienes [Severin 3667 - Báscula de Cocina](https://www.amazon.es/dp/B000FMSUTQ/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

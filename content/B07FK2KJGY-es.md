@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Gioseppo 46490-P  Botines para Mujer  Negro  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FK2KJGY/?tag=tolees-21'
+descuento: '69.16'
+titulo: 'Gioseppo 46490-P  Botines para Mujer  Ne'
 ---
 
 Tienes [Gioseppo 46490-P  Botines para Mujer  Negro  38 EU](https://www.amazon.es/dp/B07FK2KJGY/?tag=tolees-21) con un 69.16 % de descuento con precio de oferta de 24.66 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Mustang Schnür-Stiefelette  Botas Clasicas para Hombre  Negro  Schwarz 9   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9ZX54C/?tag=tolees-21'
+descuento: '73.42'
+titulo: 'Mustang Schnür-Stiefelette  Botas Clasic'
 ---
 
 Está [Mustang Schnür-Stiefelette  Botas Clasicas para Hombre  Negro  Schwarz 9   45 EU](https://www.amazon.es/dp/B07D9ZX54C/?tag=tolees-21) con 73.42 de descuento por 26.57 EUR (original: 99.95 EUR) en el siguiente enlace!

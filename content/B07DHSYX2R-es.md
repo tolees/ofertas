@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Quiksilver Sierra Snow Jacket  Hombre  Lime Green  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHSYX2R/?tag=tolees-21'
+descuento: '76.18'
+titulo: 'Quiksilver Sierra Snow Jacket  Hombre  L'
 ---
 
 Tienes [Quiksilver Sierra Snow Jacket  Hombre  Lime Green  S](https://www.amazon.es/dp/B07DHSYX2R/?tag=tolees-21) con un 76.18 % de descuento con precio de oferta de 47.64 EUR (original: 199.99 EUR) en el siguiente enlace!

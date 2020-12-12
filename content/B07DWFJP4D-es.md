@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'FIND Hiking Style Zapatillas Altas  Gris Grey  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWFJP4D/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'FIND Hiking Style Zapatillas Altas  Gris'
 ---
 
 Ahora mismo tienes [FIND Hiking Style Zapatillas Altas  Gris Grey  43 EU](https://www.amazon.es/dp/B07DWFJP4D/?tag=tolees-21) a 36 EUR (original: 60 EUR) (40.00 %  de descuento) en el siguiente enlace!

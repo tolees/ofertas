@@ -17,6 +17,9 @@ comparePrice: 499.99 EUR
 inStock: true
 prodname: 'Beelink N41 Mini PC RAM 4GB ROM DDR4 64GB eMMC 3D Intel Celeron N4100 Procesador Quad Core 750MHz Soporta SSD Sistema Expandible Windows 4K WiFi 2.4G + 5.8G 1000 Mbps LAN USB 3.0x4 BT4.0 Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MD5RB7N/?tag=tolees-21'
+descuento: '66.00'
+titulo: 'Beelink N41 Mini PC RAM 4GB ROM DDR4 64G'
 ---
 
 Está [Beelink N41 Mini PC RAM 4GB ROM DDR4 64GB eMMC 3D Intel Celeron N4100 Procesador Quad Core 750MHz Soporta SSD Sistema Expandible Windows 4K WiFi 2.4G + 5.8G 1000 Mbps LAN USB 3.0x4 BT4.0 Negro](https://www.amazon.es/dp/B07MD5RB7N/?tag=tolees-21) con 66.00 de descuento por 169.99 EUR (original: 499.99 EUR) en el siguiente enlace!

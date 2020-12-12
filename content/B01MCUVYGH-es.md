@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Quiksilver Krandychinst Pantalones Cortos  Hombre  Beige  Verde Militar   30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MCUVYGH/?tag=tolees-21'
+descuento: '64.41'
+titulo: 'Quiksilver Krandychinst Pantalones Corto'
 ---
 
 Está [Quiksilver Krandychinst Pantalones Cortos  Hombre  Beige  Verde Militar   30](https://www.amazon.es/dp/B01MCUVYGH/?tag=tolees-21) con 64.41 de descuento por 21.35 EUR (original: 59.99 EUR) en el siguiente enlace!

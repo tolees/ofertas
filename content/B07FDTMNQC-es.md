@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Vodool Aspirador Inalámbrico  Práctico Batería de 2 en 1 Aspirador  Aspiradora de Mano  sin bolsa  2200 mAh batería de litio  cepillo con accesorios   Verde + negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FDTMNQC/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Vodool Aspirador Inalámbrico  Práctico B'
 ---
 
 Está [Vodool Aspirador Inalámbrico  Práctico Batería de 2 en 1 Aspirador  Aspiradora de Mano  sin bolsa  2200 mAh batería de litio  cepillo con accesorios   Verde + negro](https://www.amazon.es/dp/B07FDTMNQC/?tag=tolees-21) con 60.00 de descuento por 79.99 EUR (original: 199.99 EUR) en el siguiente enlace!

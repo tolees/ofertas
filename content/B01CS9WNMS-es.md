@@ -17,6 +17,9 @@ comparePrice: 15.92 EUR
 inStock: true
 prodname: 'Bolsa de plástico Triplast para envíos postales  color azul  color azul metalizado 5" x 7"'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CS9WNMS/?tag=tolees-21'
+descuento: '58.86'
+titulo: 'Bolsa de plástico Triplast para envíos p'
 ---
 
 Está [Bolsa de plástico Triplast para envíos postales  color azul  color azul metalizado 5" x 7"](https://www.amazon.es/dp/B01CS9WNMS/?tag=tolees-21) con 58.86 de descuento por 6.55 EUR (original: 15.92 EUR) en el siguiente enlace!

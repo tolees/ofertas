@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jacthomas Trunks Noos Bóxer  Navy Blazer  Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQB1SML/?tag=tolees-21'
+descuento: '48.19'
+titulo: 'JACK & JONES Jacthomas Trunks Noos Bóxer'
 ---
 
 Ahora mismo tienes [JACK & JONES Jacthomas Trunks Noos Bóxer  Navy Blazer  Large para Hombre](https://www.amazon.es/dp/B07FQB1SML/?tag=tolees-21) a 6.73 EUR (original: 12.99 EUR) (48.19 %  de descuento) en el siguiente enlace!

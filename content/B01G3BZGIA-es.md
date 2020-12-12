@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'vidaXL Bomba de vacío de una etapa aire acondicionado refrigeración  50 litros / min'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01G3BZGIA/?tag=tolees-21'
+descuento: '40.99'
+titulo: 'vidaXL Bomba de vacío de una etapa aire '
 ---
 
 Está [vidaXL Bomba de vacío de una etapa aire acondicionado refrigeración  50 litros / min](https://www.amazon.es/dp/B01G3BZGIA/?tag=tolees-21) con 40.99 de descuento por 59 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.75 EUR
 inStock: true
 prodname: 'Adidas Duramo Lite 2.0  Zapatillas de Entrenamiento para Hombre  Blanco  Footwear White Carbon 0   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0786VQV8L/?tag=tolees-21'
+descuento: '39.90'
+titulo: 'Adidas Duramo Lite 2.0  Zapatillas de En'
 ---
 
 Ahora mismo tienes [Adidas Duramo Lite 2.0  Zapatillas de Entrenamiento para Hombre  Blanco  Footwear White Carbon 0   42 EU](https://www.amazon.es/dp/B0786VQV8L/?tag=tolees-21) a 29.9 EUR (original: 49.75 EUR) (39.90 %  de descuento) en el siguiente enlace!

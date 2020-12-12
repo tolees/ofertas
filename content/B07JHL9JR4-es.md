@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Evostripe Move Sudadera  Hombre  Gris  Medium Gray Heather   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHL9JR4/?tag=tolees-21'
+descuento: '48.03'
+titulo: 'Puma Evostripe Move Sudadera  Hombre  Gr'
 ---
 
 Ahora mismo tienes [Puma Evostripe Move Sudadera  Hombre  Gris  Medium Gray Heather   L](https://www.amazon.es/dp/B07JHL9JR4/?tag=tolees-21) a 36.35 EUR (original: 69.95 EUR) (48.03 %  de descuento) en el siguiente enlace!

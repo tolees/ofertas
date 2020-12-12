@@ -17,6 +17,9 @@ comparePrice: 335.99 EUR
 inStock: true
 prodname: 'SanDisk SDCFXPS-256G-X46 256 GB Extreme Pro 160 MB/s CompactFlash Card'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FBSV9W4/?tag=tolees-21'
+descuento: '29.47'
+titulo: 'SanDisk SDCFXPS-256G-X46 256 GB Extreme '
 ---
 
 Está [SanDisk SDCFXPS-256G-X46 256 GB Extreme Pro 160 MB/s CompactFlash Card](https://www.amazon.es/dp/B00FBSV9W4/?tag=tolees-21) con 29.47 de descuento por 236.99 EUR (original: 335.99 EUR) en el siguiente enlace!

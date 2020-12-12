@@ -17,6 +17,9 @@ comparePrice: 21 EUR
 inStock: true
 prodname: 'MERAKI Vestido Maxi Slim Fit de Algodón Mujer  Negro  Black   X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075BBF5Y5/?tag=tolees-21'
+descuento: '51.43'
+titulo: 'MERAKI Vestido Maxi Slim Fit de Algodón '
 ---
 
 Está [MERAKI Vestido Maxi Slim Fit de Algodón Mujer  Negro  Black   X-Small](https://www.amazon.es/dp/B075BBF5Y5/?tag=tolees-21) con 51.43 de descuento por 10.2 EUR (original: 21 EUR) en el siguiente enlace!

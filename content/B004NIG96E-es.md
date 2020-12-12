@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Cressi Ultraspan Boots Botas de Buceo  Unisex  Negro  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004NIG96E/?tag=tolees-21'
+descuento: '54.58'
+titulo: 'Cressi Ultraspan Boots Botas de Buceo  U'
 ---
 
 Está [Cressi Ultraspan Boots Botas de Buceo  Unisex  Negro  XS](https://www.amazon.es/dp/B004NIG96E/?tag=tolees-21) con 54.58 de descuento por 13.58 EUR (original: 29.9 EUR) en el siguiente enlace!

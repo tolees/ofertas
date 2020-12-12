@@ -17,6 +17,9 @@ comparePrice: 68 EUR
 inStock: true
 prodname: 'adidas Vs Pace  Zapatillas para Hombre  Blanco  Footwear White/Core Black/Blue 0   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HE5NBM2/?tag=tolees-21'
+descuento: '50.07'
+titulo: 'adidas Vs Pace  Zapatillas para Hombre  '
 ---
 
 Ahora mismo tienes [adidas Vs Pace  Zapatillas para Hombre  Blanco  Footwear White/Core Black/Blue 0   40 EU](https://www.amazon.es/dp/B01HE5NBM2/?tag=tolees-21) a 33.95 EUR (original: 68 EUR) (50.07 %  de descuento) en el siguiente enlace!

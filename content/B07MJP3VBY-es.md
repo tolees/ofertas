@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Cascos Gaming para PS4 - Macrout Cascos Gaming Estéreo Luz LED para Juegos PSP Pro  PC  iPad  Nintendo Switch con Sonido Hi-Fi Micrófono'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MJP3VBY/?tag=tolees-21'
+descuento: '82.87'
+titulo: 'Cascos Gaming para PS4 - Macrout Cascos '
 ---
 
 Está [Cascos Gaming para PS4 - Macrout Cascos Gaming Estéreo Luz LED para Juegos PSP Pro  PC  iPad  Nintendo Switch con Sonido Hi-Fi Micrófono](https://www.amazon.es/dp/B07MJP3VBY/?tag=tolees-21) con 82.87 de descuento por 11.99 EUR (original: 69.99 EUR) en el siguiente enlace!

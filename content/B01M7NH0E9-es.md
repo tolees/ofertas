@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Eastpak Provider Mochila  33 litros  Marrón  Crafty Brown '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M7NH0E9/?tag=tolees-21'
+descuento: '52.64'
+titulo: 'Eastpak Provider Mochila  33 litros  Mar'
 ---
 
 Ahora mismo tienes [Eastpak Provider Mochila  33 litros  Marrón  Crafty Brown ](https://www.amazon.es/dp/B01M7NH0E9/?tag=tolees-21) a 42.62 EUR (original: 90 EUR) (52.64 %  de descuento) en el siguiente enlace!

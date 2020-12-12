@@ -17,6 +17,9 @@ comparePrice: 94.99 EUR
 inStock: true
 prodname: 'Philips HC9450/20 - Cortapelos con cuchillas de titanio 3 peines-guía motorizados  con interfaz de cambio digital  soporte de carga y funda  negro  ac / batería'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00S3NPJ3E/?tag=tolees-21'
+descuento: '36.94'
+titulo: 'Philips HC9450/20 - Cortapelos con cuchi'
 ---
 
 Tienes [Philips HC9450/20 - Cortapelos con cuchillas de titanio 3 peines-guía motorizados  con interfaz de cambio digital  soporte de carga y funda  negro  ac / batería](https://www.amazon.es/dp/B00S3NPJ3E/?tag=tolees-21) con un 36.94 % de descuento con precio de oferta de 59.9 EUR (original: 94.99 EUR) en el siguiente enlace!

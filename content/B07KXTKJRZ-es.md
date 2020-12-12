@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Eastpak Padded PAK R Mochila Tipo Casual  40 cm  24 Liters  Azul  Blakout Urban '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KXTKJRZ/?tag=tolees-21'
+descuento: '35.18'
+titulo: 'Eastpak Padded PAK R Mochila Tipo Casual'
 ---
 
 Está [Eastpak Padded PAK R Mochila Tipo Casual  40 cm  24 Liters  Azul  Blakout Urban ](https://www.amazon.es/dp/B07KXTKJRZ/?tag=tolees-21) con 35.18 de descuento por 32.41 EUR (original: 50 EUR) en el siguiente enlace!

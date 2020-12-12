@@ -17,6 +17,9 @@ comparePrice: 699 EUR
 inStock: true
 prodname: 'Medion Akoya S3409 - Ordenador portátil de 13.3" FHD  Intel Core i3-7100U  8 GB RAM  256 GB SSD  Intel HD Graphics  Windows 10  Gris - Teclado QWERTY Español'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BRNF5X3/?tag=tolees-21'
+descuento: '42.78'
+titulo: 'Medion Akoya S3409 - Ordenador portátil '
 ---
 
 Tienes [Medion Akoya S3409 - Ordenador portátil de 13.3" FHD  Intel Core i3-7100U  8 GB RAM  256 GB SSD  Intel HD Graphics  Windows 10  Gris - Teclado QWERTY Español](https://www.amazon.es/dp/B07BRNF5X3/?tag=tolees-21) con un 42.78 % de descuento con precio de oferta de 399.99 EUR (original: 699 EUR) en el siguiente enlace!

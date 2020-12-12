@@ -17,6 +17,9 @@ comparePrice: 18.6 EUR
 inStock: true
 prodname: 'Versa 20270208 Sujetapuertas Cactus Tela Multicolor 13 x 13 x 33 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B9QLS63/?tag=tolees-21'
+descuento: '25.27'
+titulo: 'Versa 20270208 Sujetapuertas Cactus Tela'
 ---
 
 Está [Versa 20270208 Sujetapuertas Cactus Tela Multicolor 13 x 13 x 33 cm](https://www.amazon.es/dp/B07B9QLS63/?tag=tolees-21) con 25.27 de descuento por 13.9 EUR (original: 18.6 EUR) en el siguiente enlace!

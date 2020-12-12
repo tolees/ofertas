@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'SkechersEqualizer Double Play - Zapatillas De Deporte Para Exterior hombre  Gris  Ccor   48.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012A4KWNI/?tag=tolees-21'
+descuento: '45.42'
+titulo: 'SkechersEqualizer Double Play - Zapatill'
 ---
 
 Está [SkechersEqualizer Double Play - Zapatillas De Deporte Para Exterior hombre  Gris  Ccor   48.5 EU](https://www.amazon.es/dp/B012A4KWNI/?tag=tolees-21) con 45.42 de descuento por 35.45 EUR (original: 64.95 EUR) en el siguiente enlace!

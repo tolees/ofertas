@@ -17,6 +17,9 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'Gardena 18301-20 Pistola  Gris  Naranja  embalado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PNUCG86/?tag=tolees-21'
+descuento: '35.27'
+titulo: 'Gardena 18301-20 Pistola  Gris  Naranja '
 ---
 
 Ahora mismo tienes [Gardena 18301-20 Pistola  Gris  Naranja  embalado](https://www.amazon.es/dp/B00PNUCG86/?tag=tolees-21) a 9.03 EUR (original: 13.95 EUR) (35.27 %  de descuento) en el siguiente enlace!

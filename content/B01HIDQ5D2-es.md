@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Shirt  Camisa Niños  Azul  Blue 931   3-4 Years'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HIDQ5D2/?tag=tolees-21'
+descuento: '52.13'
+titulo: 'United Colors of Benetton Shirt  Camisa '
 ---
 
 Ahora mismo tienes [United Colors of Benetton Shirt  Camisa Niños  Azul  Blue 931   3-4 Years](https://www.amazon.es/dp/B01HIDQ5D2/?tag=tolees-21) a 9.55 EUR (original: 19.95 EUR) (52.13 %  de descuento) en el siguiente enlace!

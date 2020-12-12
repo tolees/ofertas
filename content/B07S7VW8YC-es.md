@@ -17,6 +17,9 @@ comparePrice: 31.99 EUR
 inStock: true
 prodname: 'Aleumdr Mujer Vestido de Playa Cuello V Vestido de Verano Mangas Cortas Vestido Cover Up Rojo Size S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07S7VW8YC/?tag=tolees-21'
+descuento: '28.13'
+titulo: 'Aleumdr Mujer Vestido de Playa Cuello V '
 ---
 
 Está [Aleumdr Mujer Vestido de Playa Cuello V Vestido de Verano Mangas Cortas Vestido Cover Up Rojo Size S](https://www.amazon.es/dp/B07S7VW8YC/?tag=tolees-21) con 28.13 de descuento por 22.99 EUR (original: 31.99 EUR) en el siguiente enlace!

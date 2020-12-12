@@ -17,6 +17,9 @@ comparePrice: 110.03 EUR
 inStock: true
 prodname: 'Hugo Boss Bottled Set de Regalo - 3 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078BQ8FWS/?tag=tolees-21'
+descuento: '57.33'
+titulo: 'Hugo Boss Bottled Set de Regalo - 3 Unid'
 ---
 
 Ahora mismo tienes [Hugo Boss Bottled Set de Regalo - 3 Unidades](https://www.amazon.es/dp/B078BQ8FWS/?tag=tolees-21) a 46.95 EUR (original: 110.03 EUR) (57.33 %  de descuento) en el siguiente enlace!

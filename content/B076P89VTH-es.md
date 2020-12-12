@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Aspen 4 Dígitos Combinación TSA Candado Más Alta Seguridad TSA Luggege Bloqueo con Cable de Acero para el Viaje Equipaje Maleta Plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076P89VTH/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Aspen 4 Dígitos Combinación TSA Candado '
 ---
 
 Tienes [Aspen 4 Dígitos Combinación TSA Candado Más Alta Seguridad TSA Luggege Bloqueo con Cable de Acero para el Viaje Equipaje Maleta Plateado](https://www.amazon.es/dp/B076P89VTH/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 7.99 EUR (original: 15.99 EUR) en el siguiente enlace!

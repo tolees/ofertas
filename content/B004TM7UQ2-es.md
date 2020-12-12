@@ -17,6 +17,9 @@ comparePrice: 20.39 EUR
 inStock: true
 prodname: '4her Shorts weiß/Schwarz/Silbergrau XXL [Misc.]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004TM7UQ2/?tag=tolees-21'
+descuento: '65.91'
+titulo: '4her Shorts weiß/Schwarz/Silbergrau XXL '
 ---
 
 Está [4her Shorts weiß/Schwarz/Silbergrau XXL [Misc.]](https://www.amazon.es/dp/B004TM7UQ2/?tag=tolees-21) con 65.91 de descuento por 6.95 EUR (original: 20.39 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Geox D Elidia A  Mocasines para Mujer   Black C9999   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792FQ6PS/?tag=tolees-21'
+descuento: '75.07'
+titulo: 'Geox D Elidia A  Mocasines para Mujer   '
 ---
 
 Tienes [Geox D Elidia A  Mocasines para Mujer   Black C9999   36 EU](https://www.amazon.es/dp/B0792FQ6PS/?tag=tolees-21) con un 75.07 % de descuento con precio de oferta de 27.4 EUR (original: 109.9 EUR) en el siguiente enlace!

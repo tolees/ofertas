@@ -17,6 +17,9 @@ comparePrice: 80.2 EUR
 inStock: true
 prodname: 'Calvin Klein CK MAN  Agua de tocador para hombres - 100 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0012RQZGS/?tag=tolees-21'
+descuento: '66.26'
+titulo: 'Calvin Klein CK MAN  Agua de tocador par'
 ---
 
 Tienes [Calvin Klein CK MAN  Agua de tocador para hombres - 100 ml.](https://www.amazon.es/dp/B0012RQZGS/?tag=tolees-21) con un 66.26 % de descuento con precio de oferta de 27.06 EUR (original: 80.2 EUR) en el siguiente enlace!

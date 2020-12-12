@@ -17,6 +17,9 @@ comparePrice: 14.51 EUR
 inStock: true
 prodname: 'My Other Me Me - Pistola pirata con parche y garfio  talla única  Viving Costumes MOM01503 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OE0WLN6/?tag=tolees-21'
+descuento: '72.78'
+titulo: 'My Other Me Me - Pistola pirata con parc'
 ---
 
 Tienes [My Other Me Me - Pistola pirata con parche y garfio  talla única  Viving Costumes MOM01503 ](https://www.amazon.es/dp/B00OE0WLN6/?tag=tolees-21) con un 72.78 % de descuento con precio de oferta de 3.95 EUR (original: 14.51 EUR) en el siguiente enlace!

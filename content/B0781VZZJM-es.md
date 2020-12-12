@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Wilson Falda de tenis  W Team 12.5 Skirt  Poliéster/licra  Negro  Talla: M  WRA766202'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0781VZZJM/?tag=tolees-21'
+descuento: '33.67'
+titulo: 'Wilson Falda de tenis  W Team 12.5 Skirt'
 ---
 
 Está [Wilson Falda de tenis  W Team 12.5 Skirt  Poliéster/licra  Negro  Talla: M  WRA766202](https://www.amazon.es/dp/B0781VZZJM/?tag=tolees-21) con 33.67 de descuento por 19.9 EUR (original: 30 EUR) en el siguiente enlace!

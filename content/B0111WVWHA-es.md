@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Import - Consola Retro Atari Flashback 6  Incluye 100 Juegos '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0111WVWHA/?tag=tolees-21'
+descuento: '28.68'
+titulo: 'Import - Consola Retro Atari Flashback 6'
 ---
 
 Tienes [Import - Consola Retro Atari Flashback 6  Incluye 100 Juegos ](https://www.amazon.es/dp/B0111WVWHA/?tag=tolees-21) con un 28.68 % de descuento con precio de oferta de 49.92 EUR (original: 69.99 EUR) en el siguiente enlace!

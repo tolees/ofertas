@@ -17,6 +17,9 @@ comparePrice: 18.9 EUR
 inStock: true
 prodname: 'Moleskine DPE12WN2Y19 - Libreta semanal 12m de edición limitada Peanuts de bolsillo  color amarillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076BJJKK8/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Moleskine DPE12WN2Y19 - Libreta semanal '
 ---
 
 Tienes [Moleskine DPE12WN2Y19 - Libreta semanal 12m de edición limitada Peanuts de bolsillo  color amarillo](https://www.amazon.es/dp/B076BJJKK8/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 9.45 EUR (original: 18.9 EUR) en el siguiente enlace!

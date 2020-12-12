@@ -17,6 +17,9 @@ comparePrice: 19.89 EUR
 inStock: true
 prodname: 'Logitech M150 - Ratón USB  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KPF6JV4/?tag=tolees-21'
+descuento: '39.72'
+titulo: 'Logitech M150 - Ratón USB  color blanco'
 ---
 
 Está [Logitech M150 - Ratón USB  color blanco](https://www.amazon.es/dp/B00KPF6JV4/?tag=tolees-21) con 39.72 de descuento por 11.99 EUR (original: 19.89 EUR) en el siguiente enlace!

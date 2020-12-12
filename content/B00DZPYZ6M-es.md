@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Trust 19347 - Cargador de coche con micro USB'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DZPYZ6M/?tag=tolees-21'
+descuento: '65.38'
+titulo: 'Trust 19347 - Cargador de coche con micr'
 ---
 
 Tienes [Trust 19347 - Cargador de coche con micro USB](https://www.amazon.es/dp/B00DZPYZ6M/?tag=tolees-21) con un 65.38 % de descuento con precio de oferta de 6.92 EUR (original: 19.99 EUR) en el siguiente enlace!

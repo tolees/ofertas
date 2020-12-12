@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Neutrogena - Cuidado Facial  - Mascara + Activador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075FZVB3F/?tag=tolees-21'
+descuento: '35.01'
+titulo: 'Neutrogena - Cuidado Facial  - Mascara +'
 ---
 
 Tienes [Neutrogena - Cuidado Facial  - Mascara + Activador](https://www.amazon.es/dp/B075FZVB3F/?tag=tolees-21) con un 35.01 % de descuento con precio de oferta de 38.99 EUR (original: 59.99 EUR) en el siguiente enlace!

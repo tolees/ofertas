@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Comifort TV80S – Mueble TV Salón Moderno Mesa Televisión  Colores: Blanco  Madera De Roble  Blanco/Roble  100x36x32 Cm  Roble Sonoma '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GXTD639/?tag=tolees-21'
+descuento: '37.89'
+titulo: 'Comifort TV80S – Mueble TV Salón Moderno'
 ---
 
 Está [Comifort TV80S – Mueble TV Salón Moderno Mesa Televisión  Colores: Blanco  Madera De Roble  Blanco/Roble  100x36x32 Cm  Roble Sonoma ](https://www.amazon.es/dp/B07GXTD639/?tag=tolees-21) con 37.89 de descuento por 59 EUR (original: 95 EUR) en el siguiente enlace!

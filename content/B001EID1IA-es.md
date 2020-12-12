@@ -17,6 +17,9 @@ comparePrice: 10.7 EUR
 inStock: true
 prodname: 'Shimano 1DS98010 - Plato 32D M440/510 Deore  color plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001EID1IA/?tag=tolees-21'
+descuento: '30.37'
+titulo: 'Shimano 1DS98010 - Plato 32D M440/510 De'
 ---
 
 Ahora mismo tienes [Shimano 1DS98010 - Plato 32D M440/510 Deore  color plata](https://www.amazon.es/dp/B001EID1IA/?tag=tolees-21) a 7.45 EUR (original: 10.7 EUR) (30.37 %  de descuento) en el siguiente enlace!

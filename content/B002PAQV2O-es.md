@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Helly Hansen Logo Cap - Gorra unisex  color blanco  talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002PAQV2O/?tag=tolees-21'
+descuento: '30.25'
+titulo: 'Helly Hansen Logo Cap - Gorra unisex  co'
 ---
 
 Está [Helly Hansen Logo Cap - Gorra unisex  color blanco  talla única](https://www.amazon.es/dp/B002PAQV2O/?tag=tolees-21) con 30.25 de descuento por 13.95 EUR (original: 20 EUR) en el siguiente enlace!

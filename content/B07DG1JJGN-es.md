@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Rebel Block Basic T-Shirt  Hombre  Cotton Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG1JJGN/?tag=tolees-21'
+descuento: '56.11'
+titulo: 'Puma Rebel Block Basic T-Shirt  Hombre  '
 ---
 
 Ahora mismo tienes [Puma Rebel Block Basic T-Shirt  Hombre  Cotton Black  L](https://www.amazon.es/dp/B07DG1JJGN/?tag=tolees-21) a 10.95 EUR (original: 24.95 EUR) (56.11 %  de descuento) en el siguiente enlace!

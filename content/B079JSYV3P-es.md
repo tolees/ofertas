@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Napapijri Egegik  Polo  Hombre  Azul  BLU Marine 176   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079JSYV3P/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Napapijri Egegik  Polo  Hombre  Azul  BL'
 ---
 
 Está [Napapijri Egegik  Polo  Hombre  Azul  BLU Marine 176   Large](https://www.amazon.es/dp/B079JSYV3P/?tag=tolees-21) con 50.00 de descuento por 34.5 EUR (original: 69 EUR) en el siguiente enlace!

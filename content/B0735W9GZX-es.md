@@ -17,6 +17,9 @@ comparePrice: 209 EUR
 inStock: true
 prodname: 'Reloj Fossil - Hombre FS5345'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0735W9GZX/?tag=tolees-21'
+descuento: '52.16'
+titulo: 'Reloj Fossil - Hombre FS5345'
 ---
 
 Tienes [Reloj Fossil - Hombre FS5345](https://www.amazon.es/dp/B0735W9GZX/?tag=tolees-21) con un 52.16 % de descuento con precio de oferta de 99.99 EUR (original: 209 EUR) en el siguiente enlace!

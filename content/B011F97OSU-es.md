@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Esky® ES-KF02 Localizador Inalámbrico de Llaves con Base de Soporte y LED  Control Remoto  1 Radio Frecuencia Transmisor  4 Receptores-Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011F97OSU/?tag=tolees-21'
+descuento: '32.27'
+titulo: 'Esky® ES-KF02 Localizador Inalámbrico de'
 ---
 
 Tienes [Esky® ES-KF02 Localizador Inalámbrico de Llaves con Base de Soporte y LED  Control Remoto  1 Radio Frecuencia Transmisor  4 Receptores-Negro](https://www.amazon.es/dp/B011F97OSU/?tag=tolees-21) con un 32.27 % de descuento con precio de oferta de 20.99 EUR (original: 30.99 EUR) en el siguiente enlace!

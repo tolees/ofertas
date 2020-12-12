@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Tamaris 25201  Zapatillas Altas para Mujer  Azul  Sky Comb 857   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KJGB9JA/?tag=tolees-21'
+descuento: '75.81'
+titulo: 'Tamaris 25201  Zapatillas Altas para Muj'
 ---
 
 Está [Tamaris 25201  Zapatillas Altas para Mujer  Azul  Sky Comb 857   39 EU](https://www.amazon.es/dp/B01KJGB9JA/?tag=tolees-21) con 75.81 de descuento por 19.34 EUR (original: 79.95 EUR) en el siguiente enlace!

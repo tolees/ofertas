@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Street Fighter - 30th Anniversary'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B5W1T3H/?tag=tolees-21'
+descuento: '32.61'
+titulo: 'Street Fighter - 30th Anniversary'
 ---
 
 Está [Street Fighter - 30th Anniversary](https://www.amazon.es/dp/B07B5W1T3H/?tag=tolees-21) con 32.61 de descuento por 26.95 EUR (original: 39.99 EUR) en el siguiente enlace!

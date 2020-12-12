@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: '1080P Cámara IP WiFi  Camara de Vigilancia Inalámbrico  Cámara Interior de Seguridad con Visión Nocturna  Detección de Movimiento  Audio de 2 Vías  Compatible con iOS  Android  Alexa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PQ5PR8N/?tag=tolees-21'
+descuento: '29.10'
+titulo: '1080P Cámara IP WiFi  Camara de Vigilanc'
 ---
 
 Ahora mismo tienes [1080P Cámara IP WiFi  Camara de Vigilancia Inalámbrico  Cámara Interior de Seguridad con Visión Nocturna  Detección de Movimiento  Audio de 2 Vías  Compatible con iOS  Android  Alexa](https://www.amazon.es/dp/B07PQ5PR8N/?tag=tolees-21) a 38.99 EUR (original: 54.99 EUR) (29.10 %  de descuento) en el siguiente enlace!

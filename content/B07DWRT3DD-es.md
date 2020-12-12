@@ -17,6 +17,9 @@ comparePrice: 31.99 EUR
 inStock: true
 prodname: 'TOPERSUN Protección Anti-Azul Gafas Gafas de Juego Gafas de Lectura para Ordenador TV Juegos Lectura'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWRT3DD/?tag=tolees-21'
+descuento: '31.26'
+titulo: 'TOPERSUN Protección Anti-Azul Gafas Gafa'
 ---
 
 Está [TOPERSUN Protección Anti-Azul Gafas Gafas de Juego Gafas de Lectura para Ordenador TV Juegos Lectura](https://www.amazon.es/dp/B07DWRT3DD/?tag=tolees-21) con 31.26 de descuento por 21.99 EUR (original: 31.99 EUR) en el siguiente enlace!

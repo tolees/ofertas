@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Fine Structured Button Mock  suéter Hombre  Gris  Cloud Htr 501   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFGVMGG/?tag=tolees-21'
+descuento: '70.09'
+titulo: 'Tommy Hilfiger Fine Structured Button Mo'
 ---
 
 Está [Tommy Hilfiger Fine Structured Button Mock  suéter Hombre  Gris  Cloud Htr 501   Large](https://www.amazon.es/dp/B07HFGVMGG/?tag=tolees-21) con 70.09 de descuento por 32.6 EUR (original: 109 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'LEGO-40061730 Caja de Almacenaje Apilable  Ladrillo 8 pomos  2 Cajones  9.4 l  Color Rojo  Red   50 x 25 x 18 cm  40061730'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06VW2PKW2/?tag=tolees-21'
+descuento: '50.26'
+titulo: 'LEGO-40061730 Caja de Almacenaje Apilabl'
 ---
 
 Está [LEGO-40061730 Caja de Almacenaje Apilable  Ladrillo 8 pomos  2 Cajones  9.4 l  Color Rojo  Red   50 x 25 x 18 cm  40061730](https://www.amazon.es/dp/B06VW2PKW2/?tag=tolees-21) con 50.26 de descuento por 19.89 EUR (original: 39.99 EUR) en el siguiente enlace!

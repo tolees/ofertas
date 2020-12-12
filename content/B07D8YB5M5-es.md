@@ -17,6 +17,9 @@ comparePrice: 42.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger 3p Trunk  Bóxers Para Hombre  Azul  Blue Heaven/Mazzarine Blue/Iron Gate 803   Large   Pack de 3 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8YB5M5/?tag=tolees-21'
+descuento: '43.01'
+titulo: 'Tommy Hilfiger 3p Trunk  Bóxers Para Hom'
 ---
 
 Está [Tommy Hilfiger 3p Trunk  Bóxers Para Hombre  Azul  Blue Heaven/Mazzarine Blue/Iron Gate 803   Large   Pack de 3 ](https://www.amazon.es/dp/B07D8YB5M5/?tag=tolees-21) con 43.01 de descuento por 24.45 EUR (original: 42.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'MTNG Nolita  Botas Mujer  Negro  Antil Negro   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HVKGTT/?tag=tolees-21'
+descuento: '76.33'
+titulo: 'MTNG Nolita  Botas Mujer  Negro  Antil N'
 ---
 
 Ahora mismo tienes [MTNG Nolita  Botas Mujer  Negro  Antil Negro   36 EU](https://www.amazon.es/dp/B071HVKGTT/?tag=tolees-21) a 14.2 EUR (original: 59.99 EUR) (76.33 %  de descuento) en el siguiente enlace!

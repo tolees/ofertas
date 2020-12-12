@@ -17,6 +17,9 @@ comparePrice: 189.99 EUR
 inStock: true
 prodname: 'ibowin® 10.1 Pulgadas 1280x800 IPS Android 8.1 Oreo Tablet PC 2G RAM 16G ROM  MTK Quad Core WiFi + Cellualr Dual-SIM Tarjetas AGPS - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L8TCUOA/?tag=tolees-21'
+descuento: '59.48'
+titulo: 'ibowin® 10.1 Pulgadas 1280x800 IPS Andro'
 ---
 
 Tienes [ibowin® 10.1 Pulgadas 1280x800 IPS Android 8.1 Oreo Tablet PC 2G RAM 16G ROM  MTK Quad Core WiFi + Cellualr Dual-SIM Tarjetas AGPS - Negro](https://www.amazon.es/dp/B01L8TCUOA/?tag=tolees-21) con un 59.48 % de descuento con precio de oferta de 76.99 EUR (original: 189.99 EUR) en el siguiente enlace!

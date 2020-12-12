@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 39ti001-142  Botines para Hombre  Gris  Stone   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HD0H7QO/?tag=tolees-21'
+descuento: '54.47'
+titulo: 'Dockers by Gerli 39ti001-142  Botines pa'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 39ti001-142  Botines para Hombre  Gris  Stone   45 EU](https://www.amazon.es/dp/B01HD0H7QO/?tag=tolees-21) a 36.4 EUR (original: 79.95 EUR) (54.47 %  de descuento) en el siguiente enlace!

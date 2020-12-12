@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Cuero FS5499  Blue'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G66S1MM/?tag=tolees-21'
+descuento: '50.16'
+titulo: 'Fossil Reloj Analógico para Hombre de Cu'
 ---
 
 Ahora mismo tienes [Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Cuero FS5499  Blue](https://www.amazon.es/dp/B07G66S1MM/?tag=tolees-21) a 64.3 EUR (original: 129 EUR) (50.16 %  de descuento) en el siguiente enlace!

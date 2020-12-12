@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Blend Shorts  Pantalones cortos para Hombre  Azul  Navy 70230    Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K35R9KF/?tag=tolees-21'
+descuento: '62.13'
+titulo: 'Blend Shorts  Pantalones cortos para Hom'
 ---
 
 Tienes [Blend Shorts  Pantalones cortos para Hombre  Azul  Navy 70230    Medium](https://www.amazon.es/dp/B07K35R9KF/?tag=tolees-21) con un 62.13 % de descuento con precio de oferta de 15.13 EUR (original: 39.95 EUR) en el siguiente enlace!

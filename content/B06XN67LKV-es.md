@@ -17,6 +17,9 @@ comparePrice: 23.7 EUR
 inStock: true
 prodname: 'FIND Top de Titantes Estilo Túnica con para Mujer   Rosa  Blush Pink   36  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XN67LKV/?tag=tolees-21'
+descuento: '68.35'
+titulo: 'FIND Top de Titantes Estilo Túnica con p'
 ---
 
 Está [FIND Top de Titantes Estilo Túnica con para Mujer   Rosa  Blush Pink   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B06XN67LKV/?tag=tolees-21) con 68.35 de descuento por 7.5 EUR (original: 23.7 EUR) en el siguiente enlace!

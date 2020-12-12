@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Lacoste Sport Lt Spirit 317 2  Entrenadores Bajos para Mujer  Gris  Gry   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06ZYTSX24/?tag=tolees-21'
+descuento: '53.92'
+titulo: 'Lacoste Sport Lt Spirit 317 2  Entrenado'
 ---
 
 Tienes [Lacoste Sport Lt Spirit 317 2  Entrenadores Bajos para Mujer  Gris  Gry   40.5 EU](https://www.amazon.es/dp/B06ZYTSX24/?tag=tolees-21) con un 53.92 % de descuento con precio de oferta de 45.62 EUR (original: 99 EUR) en el siguiente enlace!

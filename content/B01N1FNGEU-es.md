@@ -17,6 +17,9 @@ comparePrice: 33 EUR
 inStock: true
 prodname: 'Helly Hansen Sailing Short Gloves  Unisex Adulto   Negro   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1FNGEU/?tag=tolees-21'
+descuento: '37.39'
+titulo: 'Helly Hansen Sailing Short Gloves  Unise'
 ---
 
 Ahora mismo tienes [Helly Hansen Sailing Short Gloves  Unisex Adulto   Negro   M](https://www.amazon.es/dp/B01N1FNGEU/?tag=tolees-21) a 20.66 EUR (original: 33 EUR) (37.39 %  de descuento) en el siguiente enlace!

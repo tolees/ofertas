@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma Clean Sweat Suit CL Chándal  Mujer  Rosa  Peach Bud   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGD2TJT/?tag=tolees-21'
+descuento: '34.29'
+titulo: 'Puma Clean Sweat Suit CL Chándal  Mujer '
 ---
 
 Tienes [Puma Clean Sweat Suit CL Chándal  Mujer  Rosa  Peach Bud   XS](https://www.amazon.es/dp/B07JGD2TJT/?tag=tolees-21) con un 34.29 % de descuento con precio de oferta de 42.68 EUR (original: 64.95 EUR) en el siguiente enlace!

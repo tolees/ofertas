@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'ENYU Las Madres aman el corazón Los encantos de Las Mujeres Joyería de Pandora Plateado Venta de Abalorios Cubic Zirconia Día de la Madre  el Día de San Valentín'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q7QN8GT/?tag=tolees-21'
+descuento: '67.52'
+titulo: 'ENYU Las Madres aman el corazón Los enca'
 ---
 
 Está [ENYU Las Madres aman el corazón Los encantos de Las Mujeres Joyería de Pandora Plateado Venta de Abalorios Cubic Zirconia Día de la Madre  el Día de San Valentín](https://www.amazon.es/dp/B07Q7QN8GT/?tag=tolees-21) con 67.52 de descuento por 12.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 32.98 EUR
 inStock: true
 prodname: 'UliX Sele Auriculares On-Ear Cable Trenzado Sin Nudos Compatibles Teléfonos Móvil Smartphone Ordenador '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JFFSGWQ/?tag=tolees-21'
+descuento: '54.55'
+titulo: 'UliX Sele Auriculares On-Ear Cable Trenz'
 ---
 
 Está [UliX Sele Auriculares On-Ear Cable Trenzado Sin Nudos Compatibles Teléfonos Móvil Smartphone Ordenador ](https://www.amazon.es/dp/B07JFFSGWQ/?tag=tolees-21) con 54.55 de descuento por 14.99 EUR (original: 32.98 EUR) en el siguiente enlace!

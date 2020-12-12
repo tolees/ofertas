@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Onforu 15M Tiras LED Cadenas de Luz IP65 Impermeable  450 LEDs Strip 2835 Conjunto de Cinta con 12V Interruptor 6000K Blanco Frío Decoración Iluminación Ambiental Interior para Mueble Fiesta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DZWSMRJ/?tag=tolees-21'
+descuento: '27.51'
+titulo: 'Onforu 15M Tiras LED Cadenas de Luz IP65'
 ---
 
 Está [Onforu 15M Tiras LED Cadenas de Luz IP65 Impermeable  450 LEDs Strip 2835 Conjunto de Cinta con 12V Interruptor 6000K Blanco Frío Decoración Iluminación Ambiental Interior para Mueble Fiesta](https://www.amazon.es/dp/B07DZWSMRJ/?tag=tolees-21) con 27.51 de descuento por 28.99 EUR (original: 39.99 EUR) en el siguiente enlace!

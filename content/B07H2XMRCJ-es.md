@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'de cepillo seco Kit 4PCS Pretty See Exfoliación Cepillo de masaje corporal Cepillo facial  piedra pómez para eliminar la piel muerta reducir la celulitis'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2XMRCJ/?tag=tolees-21'
+descuento: '42.87'
+titulo: 'de cepillo seco Kit 4PCS Pretty See Exfo'
 ---
 
 Tienes [de cepillo seco Kit 4PCS Pretty See Exfoliación Cepillo de masaje corporal Cepillo facial  piedra pómez para eliminar la piel muerta reducir la celulitis](https://www.amazon.es/dp/B07H2XMRCJ/?tag=tolees-21) con un 42.87 % de descuento con precio de oferta de 19.99 EUR (original: 34.99 EUR) en el siguiente enlace!

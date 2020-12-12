@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'XTI 48433  Botines para Mujer  Marrón Camel  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9D6CCR/?tag=tolees-21'
+descuento: '34.95'
+titulo: 'XTI 48433  Botines para Mujer  Marrón Ca'
 ---
 
 Está [XTI 48433  Botines para Mujer  Marrón Camel  36 EU](https://www.amazon.es/dp/B07D9D6CCR/?tag=tolees-21) con 34.95 de descuento por 32.49 EUR (original: 49.95 EUR) en el siguiente enlace!

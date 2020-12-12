@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Sandalias Mujer Plataformas Verano Planas Cuña 3 CM Tacon Bajos Piel Punta Abierta Alpargatas Tobillo Hebilla Zapato De Playa Moda Fiesta Elegantes Negro 38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RVHNTXB/?tag=tolees-21'
+descuento: '35.73'
+titulo: 'Sandalias Mujer Plataformas Verano Plana'
 ---
 
 Está [Sandalias Mujer Plataformas Verano Planas Cuña 3 CM Tacon Bajos Piel Punta Abierta Alpargatas Tobillo Hebilla Zapato De Playa Moda Fiesta Elegantes Negro 38](https://www.amazon.es/dp/B07RVHNTXB/?tag=tolees-21) con 35.73 de descuento por 17.99 EUR (original: 27.99 EUR) en el siguiente enlace!

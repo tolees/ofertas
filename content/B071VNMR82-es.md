@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Puma One 17.4 TT V Inf  Zapatillas de Fútbol Unisex Niños  Blanco  White-Black-Fiery Coral   21 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VNMR82/?tag=tolees-21'
+descuento: '35.39'
+titulo: 'Puma One 17.4 TT V Inf  Zapatillas de Fú'
 ---
 
 Tienes [Puma One 17.4 TT V Inf  Zapatillas de Fútbol Unisex Niños  Blanco  White-Black-Fiery Coral   21 EU](https://www.amazon.es/dp/B071VNMR82/?tag=tolees-21) con un 35.39 % de descuento con precio de oferta de 22.58 EUR (original: 34.95 EUR) en el siguiente enlace!

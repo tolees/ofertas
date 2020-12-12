@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour UA W Remix  Zapatillas de Running para Mujer  Blanco Elemental/White 103  35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHB4F96/?tag=tolees-21'
+descuento: '59.10'
+titulo: 'Under Armour UA W Remix  Zapatillas de R'
 ---
 
 Ahora mismo tienes [Under Armour UA W Remix  Zapatillas de Running para Mujer  Blanco Elemental/White 103  35.5 EU](https://www.amazon.es/dp/B07BHB4F96/?tag=tolees-21) a 28.63 EUR (original: 70 EUR) (59.10 %  de descuento) en el siguiente enlace!

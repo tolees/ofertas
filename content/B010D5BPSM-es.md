@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'T400 Jewelers Plata de ley 925 Cubo Forma Swarovski Zirconia Clear Stud Earrings  Regalos para Mujeres Niñas hija'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B010D5BPSM/?tag=tolees-21'
+descuento: '68.01'
+titulo: 'T400 Jewelers Plata de ley 925 Cubo Form'
 ---
 
 Tienes [T400 Jewelers Plata de ley 925 Cubo Forma Swarovski Zirconia Clear Stud Earrings  Regalos para Mujeres Niñas hija](https://www.amazon.es/dp/B010D5BPSM/?tag=tolees-21) con un 68.01 % de descuento con precio de oferta de 15.99 EUR (original: 49.99 EUR) en el siguiente enlace!

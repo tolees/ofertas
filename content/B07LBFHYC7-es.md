@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Sierra Circular  Meterk Sierra Circular  1500W 4700RPM   Corte 65mm  90º   45mm  45º   2 Discos 24T+40T: 185*20*2mm  Guía Laser  Doble Interruptor Seguridad para Madera  Metal Delgado  Plástico  etc'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBFHYC7/?tag=tolees-21'
+descuento: '28.58'
+titulo: 'Sierra Circular  Meterk Sierra Circular '
 ---
 
 Ahora mismo tienes [Sierra Circular  Meterk Sierra Circular  1500W 4700RPM   Corte 65mm  90º   45mm  45º   2 Discos 24T+40T: 185*20*2mm  Guía Laser  Doble Interruptor Seguridad para Madera  Metal Delgado  Plástico  etc](https://www.amazon.es/dp/B07LBFHYC7/?tag=tolees-21) a 49.99 EUR (original: 69.99 EUR) (28.58 %  de descuento) en el siguiente enlace!

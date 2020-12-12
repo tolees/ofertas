@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Educa Borrás- Animalisto Haku  Oso Panda  17247 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071RT4XQB/?tag=tolees-21'
+descuento: '39.10'
+titulo: 'Educa Borrás- Animalisto Haku  Oso Panda'
 ---
 
 Tienes [Educa Borrás- Animalisto Haku  Oso Panda  17247 ](https://www.amazon.es/dp/B071RT4XQB/?tag=tolees-21) con un 39.10 % de descuento con precio de oferta de 12.15 EUR (original: 19.95 EUR) en el siguiente enlace!

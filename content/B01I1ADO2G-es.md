@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Nike Court Borough Mid  GS   Zapatillas de Baloncesto para Niños  Negro Black 001  38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01I1ADO2G/?tag=tolees-21'
+descuento: '40.25'
+titulo: 'Nike Court Borough Mid  GS   Zapatillas '
 ---
 
 Está [Nike Court Borough Mid  GS   Zapatillas de Baloncesto para Niños  Negro Black 001  38.5 EU](https://www.amazon.es/dp/B01I1ADO2G/?tag=tolees-21) con 40.25 de descuento por 32.86 EUR (original: 55 EUR) en el siguiente enlace!

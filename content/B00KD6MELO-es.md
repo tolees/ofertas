@@ -17,6 +17,9 @@ comparePrice: 15.5 EUR
 inStock: true
 prodname: 'XLC Cesta RT PVC 39x30x17cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KD6MELO/?tag=tolees-21'
+descuento: '48.71'
+titulo: 'XLC Cesta RT PVC 39x30x17cm'
 ---
 
 Tienes [XLC Cesta RT PVC 39x30x17cm](https://www.amazon.es/dp/B00KD6MELO/?tag=tolees-21) con un 48.71 % de descuento con precio de oferta de 7.95 EUR (original: 15.5 EUR) en el siguiente enlace!

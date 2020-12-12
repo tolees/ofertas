@@ -17,6 +17,9 @@ comparePrice: 46.1 EUR
 inStock: true
 prodname: 'MISS SELFRIDGE -Chaqueta de traje Mujer    Multicolor Multicolor  Print Print  42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0741PGYQS/?tag=tolees-21'
+descuento: '72.93'
+titulo: 'MISS SELFRIDGE -Chaqueta de traje Mujer '
 ---
 
 Tienes [MISS SELFRIDGE -Chaqueta de traje Mujer    Multicolor Multicolor  Print Print  42](https://www.amazon.es/dp/B0741PGYQS/?tag=tolees-21) con un 72.93 % de descuento con precio de oferta de 12.48 EUR (original: 46.1 EUR) en el siguiente enlace!

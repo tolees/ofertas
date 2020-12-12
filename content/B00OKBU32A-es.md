@@ -17,6 +17,9 @@ comparePrice: 23 EUR
 inStock: true
 prodname: 'Boya Micrófono de Condensador 3 5 mm Jack Lavelier con Mini USB Cable Adaptador para réflex y GoPro hero3 +  Hero3  Hero2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OKBU32A/?tag=tolees-21'
+descuento: '34.83'
+titulo: 'Boya Micrófono de Condensador 3 5 mm Jac'
 ---
 
 Ahora mismo tienes [Boya Micrófono de Condensador 3 5 mm Jack Lavelier con Mini USB Cable Adaptador para réflex y GoPro hero3 +  Hero3  Hero2](https://www.amazon.es/dp/B00OKBU32A/?tag=tolees-21) a 14.99 EUR (original: 23 EUR) (34.83 %  de descuento) en el siguiente enlace!

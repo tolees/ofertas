@@ -17,6 +17,9 @@ comparePrice: 34.26 EUR
 inStock: true
 prodname: 'Suplemento de Aceite de Cáñamo por NutriZing. Fácil de Tragar  Contiene Omega 3 y Omega 6. 1000 mg de Alta Potencia y Prensado en Frío de las Semillas para Mejores Resultados'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K9ML5XR/?tag=tolees-21'
+descuento: '53.12'
+titulo: 'Suplemento de Aceite de Cáñamo por Nutri'
 ---
 
 Tienes [Suplemento de Aceite de Cáñamo por NutriZing. Fácil de Tragar  Contiene Omega 3 y Omega 6. 1000 mg de Alta Potencia y Prensado en Frío de las Semillas para Mejores Resultados](https://www.amazon.es/dp/B07K9ML5XR/?tag=tolees-21) con un 53.12 % de descuento con precio de oferta de 16.06 EUR (original: 34.26 EUR) en el siguiente enlace!

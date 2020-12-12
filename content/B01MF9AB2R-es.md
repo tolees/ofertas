@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Quiksilver - Short de Felpa - Hombre - M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MF9AB2R/?tag=tolees-21'
+descuento: '37.34'
+titulo: 'Quiksilver - Short de Felpa - Hombre - M'
 ---
 
 Tienes [Quiksilver - Short de Felpa - Hombre - M](https://www.amazon.es/dp/B01MF9AB2R/?tag=tolees-21) con un 37.34 % de descuento con precio de oferta de 22.55 EUR (original: 35.99 EUR) en el siguiente enlace!

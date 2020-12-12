@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma Axis SL  Zapatillas de Deporte Unisex Adulto  Blanco White-Glacier Gray  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2YGJ5V/?tag=tolees-21'
+descuento: '31.85'
+titulo: 'Puma Axis SL  Zapatillas de Deporte Unis'
 ---
 
 Ahora mismo tienes [Puma Axis SL  Zapatillas de Deporte Unisex Adulto  Blanco White-Glacier Gray  42 EU](https://www.amazon.es/dp/B07F2YGJ5V/?tag=tolees-21) a 37.45 EUR (original: 54.95 EUR) (31.85 %  de descuento) en el siguiente enlace!

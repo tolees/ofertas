@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Qomolo Lámpara Anti Mosquitos  Mata Mosquitos Electrico Mosquitos Killer  UV Luz Lampara para Segura y Eficaz Repelente Mosquitos Polillas  Moscas  Insectos  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PH4S1ML/?tag=tolees-21'
+descuento: '34.79'
+titulo: 'Qomolo Lámpara Anti Mosquitos  Mata Mosq'
 ---
 
 Tienes [Qomolo Lámpara Anti Mosquitos  Mata Mosquitos Electrico Mosquitos Killer  UV Luz Lampara para Segura y Eficaz Repelente Mosquitos Polillas  Moscas  Insectos  Negro ](https://www.amazon.es/dp/B07PH4S1ML/?tag=tolees-21) con un 34.79 % de descuento con precio de oferta de 29.99 EUR (original: 45.99 EUR) en el siguiente enlace!

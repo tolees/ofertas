@@ -17,6 +17,9 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'New Balance Wl220tpb  Zapatillas para Mujer  Negro  Black/White Tpb   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL2X23X/?tag=tolees-21'
+descuento: '54.14'
+titulo: 'New Balance Wl220tpb  Zapatillas para Mu'
 ---
 
 Ahora mismo tienes [New Balance Wl220tpb  Zapatillas para Mujer  Negro  Black/White Tpb   37.5 EU](https://www.amazon.es/dp/B07BL2X23X/?tag=tolees-21) a 34.39 EUR (original: 74.99 EUR) (54.14 %  de descuento) en el siguiente enlace!

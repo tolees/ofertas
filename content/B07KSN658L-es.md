@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'VARLION Avant H Junior'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSN658L/?tag=tolees-21'
+descuento: '64.70'
+titulo: 'VARLION Avant H Junior'
 ---
 
 Ahora mismo tienes [VARLION Avant H Junior](https://www.amazon.es/dp/B07KSN658L/?tag=tolees-21) a 34.95 EUR (original: 99 EUR) (64.70 %  de descuento) en el siguiente enlace!

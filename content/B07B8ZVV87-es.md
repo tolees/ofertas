@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Gant Printed Shift Dress Vestido  Azul  Persian Blue   42  Talla del Fabricante: 40  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B8ZVV87/?tag=tolees-21'
+descuento: '31.40'
+titulo: 'Gant Printed Shift Dress Vestido  Azul  '
 ---
 
 Tienes [Gant Printed Shift Dress Vestido  Azul  Persian Blue   42  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07B8ZVV87/?tag=tolees-21) con un 31.40 % de descuento con precio de oferta de 136.51 EUR (original: 199 EUR) en el siguiente enlace!

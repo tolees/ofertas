@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Vans Authentic Platform 2.0  Zapatillas para Mujer  Beige/weiß  40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075FWYTPV/?tag=tolees-21'
+descuento: '61.60'
+titulo: 'Vans Authentic Platform 2.0  Zapatillas '
 ---
 
 Tienes [Vans Authentic Platform 2.0  Zapatillas para Mujer  Beige/weiß  40.5 EU](https://www.amazon.es/dp/B075FWYTPV/?tag=tolees-21) con un 61.60 % de descuento con precio de oferta de 28.78 EUR (original: 74.95 EUR) en el siguiente enlace!

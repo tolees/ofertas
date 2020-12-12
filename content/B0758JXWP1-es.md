@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Vennor Walk  Zapatos de Cordones Derby para Hombre  Gris  Grey Suede-   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0758JXWP1/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Clarks Vennor Walk  Zapatos de Cordones '
 ---
 
 Tienes [Clarks Vennor Walk  Zapatos de Cordones Derby para Hombre  Gris  Grey Suede-   46 EU](https://www.amazon.es/dp/B0758JXWP1/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 69.95 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Diadora X Run Light 2  Zapatillas de Running para Hombre   Nero/Grigio Acciaio C2815   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DSBXQHK/?tag=tolees-21'
+descuento: '49.04'
+titulo: 'Diadora X Run Light 2  Zapatillas de Run'
 ---
 
 Está [Diadora X Run Light 2  Zapatillas de Running para Hombre   Nero/Grigio Acciaio C2815   44 EU](https://www.amazon.es/dp/B07DSBXQHK/?tag=tolees-21) con 49.04 de descuento por 25.48 EUR (original: 50 EUR) en el siguiente enlace!

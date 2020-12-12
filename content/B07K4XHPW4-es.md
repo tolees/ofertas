@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcoauba tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit: Slim  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K4XHPW4/?tag=tolees-21'
+descuento: '35.82'
+titulo: 'JACK & JONES Jcoauba tee SS Crew Neck  C'
 ---
 
 Tienes [JACK & JONES Jcoauba tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit: Slim  Small](https://www.amazon.es/dp/B07K4XHPW4/?tag=tolees-21) con un 35.82 % de descuento con precio de oferta de 9.62 EUR (original: 14.99 EUR) en el siguiente enlace!

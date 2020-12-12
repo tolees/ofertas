@@ -17,6 +17,9 @@ comparePrice: 9.6 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Falda-Lápiz  Pack de 2   34 / XXS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075WF7QR4/?tag=tolees-21'
+descuento: '30.21'
+titulo: 'oodji Ultra Mujer Falda-Lápiz  Pack de 2'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Falda-Lápiz  Pack de 2   34 / XXS](https://www.amazon.es/dp/B075WF7QR4/?tag=tolees-21) a 6.7 EUR (original: 9.6 EUR) (30.21 %  de descuento) en el siguiente enlace!

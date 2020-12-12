@@ -17,6 +17,9 @@ comparePrice: 43.53 EUR
 inStock: true
 prodname: 'Bahco MR227L - Tijera Para Chapa Tradicional Corte Izquierda Y Recto  270 Mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ENC911A/?tag=tolees-21'
+descuento: '73.70'
+titulo: 'Bahco MR227L - Tijera Para Chapa Tradici'
 ---
 
 Ahora mismo tienes [Bahco MR227L - Tijera Para Chapa Tradicional Corte Izquierda Y Recto  270 Mm](https://www.amazon.es/dp/B00ENC911A/?tag=tolees-21) a 11.45 EUR (original: 43.53 EUR) (73.70 %  de descuento) en el siguiente enlace!

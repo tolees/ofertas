@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Leatherman LTG8602251N - Cortador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004CCRY4W/?tag=tolees-21'
+descuento: '45.59'
+titulo: 'Leatherman LTG8602251N - Cortador'
 ---
 
 Ahora mismo tienes [Leatherman LTG8602251N - Cortador](https://www.amazon.es/dp/B004CCRY4W/?tag=tolees-21) a 51.69 EUR (original: 95 EUR) (45.59 %  de descuento) en el siguiente enlace!

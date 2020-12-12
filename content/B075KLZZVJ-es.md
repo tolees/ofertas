@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Transformers 3   Blu-Ray 4K Ultra HD + Blu-Ray  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075KLZZVJ/?tag=tolees-21'
+descuento: '46.90'
+titulo: 'Transformers 3   Blu-Ray 4K Ultra HD + B'
 ---
 
 Tienes [Transformers 3   Blu-Ray 4K Ultra HD + Blu-Ray  [Blu-ray]](https://www.amazon.es/dp/B075KLZZVJ/?tag=tolees-21) con un 46.90 % de descuento con precio de oferta de 13.27 EUR (original: 24.99 EUR) en el siguiente enlace!

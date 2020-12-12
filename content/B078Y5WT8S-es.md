@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'PIECES Pckaysa Slip Top Noos Camiseta sin Mangas  Rosa  Evening Sand   44  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078Y5WT8S/?tag=tolees-21'
+descuento: '65.55'
+titulo: 'PIECES Pckaysa Slip Top Noos Camiseta si'
 ---
 
 Está [PIECES Pckaysa Slip Top Noos Camiseta sin Mangas  Rosa  Evening Sand   44  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B078Y5WT8S/?tag=tolees-21) con 65.55 de descuento por 8.61 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'HKT by Hackett London Hkt Logo tee Camiseta  Naranja  Sunset Orange 168   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3QKFFY/?tag=tolees-21'
+descuento: '50.28'
+titulo: 'HKT by Hackett London Hkt Logo tee Camis'
 ---
 
 Está [HKT by Hackett London Hkt Logo tee Camiseta  Naranja  Sunset Orange 168   X-Large para Hombre](https://www.amazon.es/dp/B07N3QKFFY/?tag=tolees-21) con 50.28 de descuento por 14.42 EUR (original: 29 EUR) en el siguiente enlace!

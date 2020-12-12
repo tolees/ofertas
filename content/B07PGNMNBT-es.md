@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'MOULEI Limpiador de Poros Eléctrico Succionador de Puntos Negros 4 en 1 Eliminador puntos negros 4 Cabezales 5 Velocidad Potente Extractor para Limpieza de Poros Nariz'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PGNMNBT/?tag=tolees-21'
+descuento: '35.02'
+titulo: 'MOULEI Limpiador de Poros Eléctrico Succ'
 ---
 
 Está [MOULEI Limpiador de Poros Eléctrico Succionador de Puntos Negros 4 en 1 Eliminador puntos negros 4 Cabezales 5 Velocidad Potente Extractor para Limpieza de Poros Nariz](https://www.amazon.es/dp/B07PGNMNBT/?tag=tolees-21) con 35.02 de descuento por 12.34 EUR (original: 18.99 EUR) en el siguiente enlace!

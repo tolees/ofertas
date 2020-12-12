@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'EACHINE E010 Mini Drone 2.4G 4Canales 6 Ejes Radio Control Modo sin Cabeza Drones para Niños  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KHV5O1G/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'EACHINE E010 Mini Drone 2.4G 4Canales 6 '
 ---
 
 Está [EACHINE E010 Mini Drone 2.4G 4Canales 6 Ejes Radio Control Modo sin Cabeza Drones para Niños  Rojo ](https://www.amazon.es/dp/B01KHV5O1G/?tag=tolees-21) con 40.01 de descuento por 20.99 EUR (original: 34.99 EUR) en el siguiente enlace!

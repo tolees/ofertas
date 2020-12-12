@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Casio Collection LTP-1281PD-1A  Reloj Análogo Clásico  Acero Inoxidable  Plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IZE50WG/?tag=tolees-21'
+descuento: '42.47'
+titulo: 'Casio Collection LTP-1281PD-1A  Reloj An'
 ---
 
 Ahora mismo tienes [Casio Collection LTP-1281PD-1A  Reloj Análogo Clásico  Acero Inoxidable  Plateado](https://www.amazon.es/dp/B00IZE50WG/?tag=tolees-21) a 23.01 EUR (original: 40 EUR) (42.47 %  de descuento) en el siguiente enlace!

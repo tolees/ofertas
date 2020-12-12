@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'The North Face Equipment TNF Mochila  Unisex adulto  Negro  TNF BLACK   Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0764GKV9G/?tag=tolees-21'
+descuento: '40.84'
+titulo: 'The North Face Equipment TNF Mochila  Un'
 ---
 
 Ahora mismo tienes [The North Face Equipment TNF Mochila  Unisex adulto  Negro  TNF BLACK   Talla única](https://www.amazon.es/dp/B0764GKV9G/?tag=tolees-21) a 76.91 EUR (original: 130 EUR) (40.84 %  de descuento) en el siguiente enlace!

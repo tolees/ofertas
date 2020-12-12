@@ -17,6 +17,9 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'Springfield 4BA Polo Basico Ml Jersey   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1MCB6/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'Springfield 4BA Polo Basico Ml Jersey   '
 ---
 
 Ahora mismo tienes [Springfield 4BA Polo Basico Ml Jersey   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KZ1MCB6/?tag=tolees-21) a 5.99 EUR (original: 7.99 EUR) (25.03 %  de descuento) en el siguiente enlace!

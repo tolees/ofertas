@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Helly Hansen 67188 Bolso de Mano  Unisex Adulto  Azul  Olympian Blue   50x35x50 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RPK6Q4/?tag=tolees-21'
+descuento: '44.50'
+titulo: 'Helly Hansen 67188 Bolso de Mano  Unisex'
 ---
 
 Ahora mismo tienes [Helly Hansen 67188 Bolso de Mano  Unisex Adulto  Azul  Olympian Blue   50x35x50 cm  W x H x L ](https://www.amazon.es/dp/B073RPK6Q4/?tag=tolees-21) a 38.85 EUR (original: 70 EUR) (44.50 %  de descuento) en el siguiente enlace!

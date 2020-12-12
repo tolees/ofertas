@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike Nightgazer  GS   Zapatillas de Running para Hombre  Blanco White-Game Deep Royal Blue  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IDBIO2I/?tag=tolees-21'
+descuento: '43.63'
+titulo: 'Nike Nightgazer  GS   Zapatillas de Runn'
 ---
 
 Tienes [Nike Nightgazer  GS   Zapatillas de Running para Hombre  Blanco White-Game Deep Royal Blue  40 EU](https://www.amazon.es/dp/B01IDBIO2I/?tag=tolees-21) con un 43.63 % de descuento con precio de oferta de 33.82 EUR (original: 60 EUR) en el siguiente enlace!

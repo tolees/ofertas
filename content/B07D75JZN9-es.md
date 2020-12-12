@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Gazelle W  Zapatillas para Mujer  Morado Clear Lilac/Footwear White 0  38 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D75JZN9/?tag=tolees-21'
+descuento: '62.45'
+titulo: 'adidas Gazelle W  Zapatillas para Mujer '
 ---
 
 Está [adidas Gazelle W  Zapatillas para Mujer  Morado Clear Lilac/Footwear White 0  38 2/3 EU](https://www.amazon.es/dp/B07D75JZN9/?tag=tolees-21) con 62.45 de descuento por 37.53 EUR (original: 99.95 EUR) en el siguiente enlace!

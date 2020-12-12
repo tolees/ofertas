@@ -17,6 +17,9 @@ comparePrice: 139.53 EUR
 inStock: true
 prodname: 'Levi s Sutro Puffer Parka  Parka Hombre  Verde  Olive Night 0000   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073R1ZQFF/?tag=tolees-21'
+descuento: '46.61'
+titulo: 'Levi s Sutro Puffer Parka  Parka Hombre '
 ---
 
 Ahora mismo tienes [Levi s Sutro Puffer Parka  Parka Hombre  Verde  Olive Night 0000   X-Large](https://www.amazon.es/dp/B073R1ZQFF/?tag=tolees-21) a 74.5 EUR (original: 139.53 EUR) (46.61 %  de descuento) en el siguiente enlace!

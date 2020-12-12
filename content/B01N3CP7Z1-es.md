@@ -17,6 +17,9 @@ comparePrice: 190 EUR
 inStock: true
 prodname: 'Camper Peu K400048-005 Botines Mujer 38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N3CP7Z1/?tag=tolees-21'
+descuento: '53.45'
+titulo: 'Camper Peu K400048-005 Botines Mujer 38'
 ---
 
 Tienes [Camper Peu K400048-005 Botines Mujer 38](https://www.amazon.es/dp/B01N3CP7Z1/?tag=tolees-21) con un 53.45 % de descuento con precio de oferta de 88.45 EUR (original: 190 EUR) en el siguiente enlace!

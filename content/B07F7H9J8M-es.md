@@ -17,6 +17,9 @@ comparePrice: 119.79 EUR
 inStock: true
 prodname: 'Cevik Compresor Monoblock Pro7  Rojo  0'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7H9J8M/?tag=tolees-21'
+descuento: '45.74'
+titulo: 'Cevik Compresor Monoblock Pro7  Rojo  0'
 ---
 
 Está [Cevik Compresor Monoblock Pro7  Rojo  0](https://www.amazon.es/dp/B07F7H9J8M/?tag=tolees-21) con 45.74 de descuento por 65 EUR (original: 119.79 EUR) en el siguiente enlace!

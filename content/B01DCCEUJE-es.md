@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Woxter Big Bass BT-10 - Altavoz con conexión Bluetooth  Batería de litio  potencia 10 W  auxiliar  tarjetas SD  radio FM  manos libres  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DCCEUJE/?tag=tolees-21'
+descuento: '34.75'
+titulo: 'Woxter Big Bass BT-10 - Altavoz con cone'
 ---
 
 Está [Woxter Big Bass BT-10 - Altavoz con conexión Bluetooth  Batería de litio  potencia 10 W  auxiliar  tarjetas SD  radio FM  manos libres  color negro](https://www.amazon.es/dp/B01DCCEUJE/?tag=tolees-21) con 34.75 de descuento por 15 EUR (original: 22.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 336.18 EUR
 inStock: true
 prodname: 'KAREN MILLEN Fashions Limited Knee-High Boots  Botas Altas para Mujer  Verde  Olive 30   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HBKYPNW/?tag=tolees-21'
+descuento: '57.26'
+titulo: 'KAREN MILLEN Fashions Limited Knee-High '
 ---
 
 Está [KAREN MILLEN Fashions Limited Knee-High Boots  Botas Altas para Mujer  Verde  Olive 30   39 EU](https://www.amazon.es/dp/B07HBKYPNW/?tag=tolees-21) con 57.26 de descuento por 143.67 EUR (original: 336.18 EUR) en el siguiente enlace!

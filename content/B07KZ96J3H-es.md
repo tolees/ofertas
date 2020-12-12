@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Women s Secret Fe Geo Lace BB  Braguita brasileña para Mujer  Azul  Blues 16     Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ96J3H/?tag=tolees-21'
+descuento: '47.50'
+titulo: 'Women s Secret Fe Geo Lace BB  Braguita '
 ---
 
 Está [Women s Secret Fe Geo Lace BB  Braguita brasileña para Mujer  Azul  Blues 16     Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KZ96J3H/?tag=tolees-21) con 47.50 de descuento por 6.82 EUR (original: 12.99 EUR) en el siguiente enlace!

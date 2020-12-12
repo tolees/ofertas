@@ -17,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'Adidas Predator 19.2 FG  Botas de fútbol para Hombre  000  41 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LHBFMWW/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Adidas Predator 19.2 FG  Botas de fútbol'
 ---
 
 Está [Adidas Predator 19.2 FG  Botas de fútbol para Hombre  000  41 1/3 EU](https://www.amazon.es/dp/B07LHBFMWW/?tag=tolees-21) con 50.00 de descuento por 74.97 EUR (original: 149.95 EUR) en el siguiente enlace!

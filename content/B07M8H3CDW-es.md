@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'The North Face T93 Chaqueta Ambition  Hombre  Bomber Blue  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8H3CDW/?tag=tolees-21'
+descuento: '66.12'
+titulo: 'The North Face T93 Chaqueta Ambition  Ho'
 ---
 
 Tienes [The North Face T93 Chaqueta Ambition  Hombre  Bomber Blue  L](https://www.amazon.es/dp/B07M8H3CDW/?tag=tolees-21) con un 66.12 % de descuento con precio de oferta de 28.8 EUR (original: 85 EUR) en el siguiente enlace!

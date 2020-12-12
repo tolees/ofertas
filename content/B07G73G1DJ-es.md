@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'InnooCare 300ml Aroma Difusor Ultrasónico Humidificador para Aromaterapia con Grano de Madera con 7 Colores LED para el Hogar  Yoga  Oficina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G73G1DJ/?tag=tolees-21'
+descuento: '48.01'
+titulo: 'InnooCare 300ml Aroma Difusor Ultrasónic'
 ---
 
 Tienes [InnooCare 300ml Aroma Difusor Ultrasónico Humidificador para Aromaterapia con Grano de Madera con 7 Colores LED para el Hogar  Yoga  Oficina](https://www.amazon.es/dp/B07G73G1DJ/?tag=tolees-21) con un 48.01 % de descuento con precio de oferta de 25.99 EUR (original: 49.99 EUR) en el siguiente enlace!

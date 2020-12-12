@@ -17,6 +17,9 @@ comparePrice: 18.13 EUR
 inStock: true
 prodname: 'Fortnite Camiseta para Niños  12 años  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K25BLB8/?tag=tolees-21'
+descuento: '31.11'
+titulo: 'Fortnite Camiseta para Niños  12 años  B'
 ---
 
 Está [Fortnite Camiseta para Niños  12 años  Blanco ](https://www.amazon.es/dp/B07K25BLB8/?tag=tolees-21) con 31.11 de descuento por 12.49 EUR (original: 18.13 EUR) en el siguiente enlace!

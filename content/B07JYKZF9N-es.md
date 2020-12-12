@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Pod-S3.1 W  Zapatillas de Gimnasia para Mujer  Rosa Vivid Pink/Legend Purple  37 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JYKZF9N/?tag=tolees-21'
+descuento: '66.18'
+titulo: 'adidas Pod-S3.1 W  Zapatillas de Gimnasi'
 ---
 
 Está [adidas Pod-S3.1 W  Zapatillas de Gimnasia para Mujer  Rosa Vivid Pink/Legend Purple  37 1/3 EU](https://www.amazon.es/dp/B07JYKZF9N/?tag=tolees-21) con 66.18 de descuento por 33.8 EUR (original: 99.95 EUR) en el siguiente enlace!

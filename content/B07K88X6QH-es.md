@@ -17,6 +17,9 @@ comparePrice: 39.69 EUR
 inStock: true
 prodname: 'Louviva Masajeador con Anillo  10 Modos de Frecuencias  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K88X6QH/?tag=tolees-21'
+descuento: '65.51'
+titulo: 'Louviva Masajeador con Anillo  10 Modos '
 ---
 
 Ahora mismo tienes [Louviva Masajeador con Anillo  10 Modos de Frecuencias  Negro](https://www.amazon.es/dp/B07K88X6QH/?tag=tolees-21) a 13.69 EUR (original: 39.69 EUR) (65.51 %  de descuento) en el siguiente enlace!

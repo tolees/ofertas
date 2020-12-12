@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'GORE WEAR C5 Peto corto de ciclismo con badana para hombre  XL  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJBGKTD/?tag=tolees-21'
+descuento: '26.60'
+titulo: 'GORE WEAR C5 Peto corto de ciclismo con '
 ---
 
 Está [GORE WEAR C5 Peto corto de ciclismo con badana para hombre  XL  Negro](https://www.amazon.es/dp/B07FJBGKTD/?tag=tolees-21) con 26.60 de descuento por 73.36 EUR (original: 99.95 EUR) en el siguiente enlace!

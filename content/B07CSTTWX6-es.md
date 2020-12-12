@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Estmoon 3 pcs Herramientas de mano de potencia conductor Adaptador de puntas + Socket Adaptador 4 piezas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSTTWX6/?tag=tolees-21'
+descuento: '74.22'
+titulo: 'Estmoon 3 pcs Herramientas de mano de po'
 ---
 
 Está [Estmoon 3 pcs Herramientas de mano de potencia conductor Adaptador de puntas + Socket Adaptador 4 piezas](https://www.amazon.es/dp/B07CSTTWX6/?tag=tolees-21) con 74.22 de descuento por 7.99 EUR (original: 30.99 EUR) en el siguiente enlace!

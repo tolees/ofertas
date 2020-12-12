@@ -17,6 +17,9 @@ comparePrice: 43.75 EUR
 inStock: true
 prodname: 'i-koncepts Limited Greenfield Collection BP2DGH - Mochila de Picnic para Dos Personas  Color Verde Bosque'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0001I9ZLG/?tag=tolees-21'
+descuento: '28.57'
+titulo: 'i-koncepts Limited Greenfield Collection'
 ---
 
 Está [i-koncepts Limited Greenfield Collection BP2DGH - Mochila de Picnic para Dos Personas  Color Verde Bosque](https://www.amazon.es/dp/B0001I9ZLG/?tag=tolees-21) con 28.57 de descuento por 31.25 EUR (original: 43.75 EUR) en el siguiente enlace!

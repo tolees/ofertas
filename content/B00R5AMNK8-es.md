@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'CASIO Reloj con Movimiento Cuarzo LTP-V001D-7'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00R5AMNK8/?tag=tolees-21'
+descuento: '41.74'
+titulo: 'CASIO Reloj con Movimiento Cuarzo LTP-V0'
 ---
 
 Está [CASIO Reloj con Movimiento Cuarzo LTP-V001D-7](https://www.amazon.es/dp/B00R5AMNK8/?tag=tolees-21) con 41.74 de descuento por 22.72 EUR (original: 39 EUR) en el siguiente enlace!

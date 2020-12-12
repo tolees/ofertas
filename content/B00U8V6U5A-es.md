@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Lékué Asador para Mini Pinchos  8 unidaes'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U8V6U5A/?tag=tolees-21'
+descuento: '50.20'
+titulo: 'Lékué Asador para Mini Pinchos  8 unidae'
 ---
 
 Está [Lékué Asador para Mini Pinchos  8 unidaes](https://www.amazon.es/dp/B00U8V6U5A/?tag=tolees-21) con 50.20 de descuento por 12.45 EUR (original: 25 EUR) en el siguiente enlace!

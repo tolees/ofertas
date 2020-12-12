@@ -17,6 +17,9 @@ comparePrice: 96 EUR
 inStock: true
 prodname: 'Nike Huarache Run  GS   Zapatillas Unisex Niños  Negro Black 016  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HI590AU/?tag=tolees-21'
+descuento: '47.92'
+titulo: 'Nike Huarache Run  GS   Zapatillas Unise'
 ---
 
 Tienes [Nike Huarache Run  GS   Zapatillas Unisex Niños  Negro Black 016  36 EU](https://www.amazon.es/dp/B01HI590AU/?tag=tolees-21) con un 47.92 % de descuento con precio de oferta de 50 EUR (original: 96 EUR) en el siguiente enlace!

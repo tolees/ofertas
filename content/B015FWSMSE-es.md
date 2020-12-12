@@ -17,6 +17,9 @@ comparePrice: 64.2 EUR
 inStock: true
 prodname: 'Fantasy C-Ringz Vibrador - 1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015FWSMSE/?tag=tolees-21'
+descuento: '64.10'
+titulo: 'Fantasy C-Ringz Vibrador - 1 unidad'
 ---
 
 Tienes [Fantasy C-Ringz Vibrador - 1 unidad](https://www.amazon.es/dp/B015FWSMSE/?tag=tolees-21) con un 64.10 % de descuento con precio de oferta de 23.05 EUR (original: 64.2 EUR) en el siguiente enlace!

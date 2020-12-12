@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'AVerMedia Sonicwave - Auriculares con micrófono  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CNZDNWF/?tag=tolees-21'
+descuento: '35.54'
+titulo: 'AVerMedia Sonicwave - Auriculares con mi'
 ---
 
 Está [AVerMedia Sonicwave - Auriculares con micrófono  Color Negro](https://www.amazon.es/dp/B07CNZDNWF/?tag=tolees-21) con 35.54 de descuento por 29 EUR (original: 44.99 EUR) en el siguiente enlace!

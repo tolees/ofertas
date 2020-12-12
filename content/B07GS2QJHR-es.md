@@ -17,6 +17,9 @@ comparePrice: 137.84 EUR
 inStock: true
 prodname: 'Karen Millen Conversational Star Print Blouse  Blusa para Mujer   Multicolour   40  Talla del Fabricante: UK 12 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GS2QJHR/?tag=tolees-21'
+descuento: '66.02'
+titulo: 'Karen Millen Conversational Star Print B'
 ---
 
 Tienes [Karen Millen Conversational Star Print Blouse  Blusa para Mujer   Multicolour   40  Talla del Fabricante: UK 12 ](https://www.amazon.es/dp/B07GS2QJHR/?tag=tolees-21) con un 66.02 % de descuento con precio de oferta de 46.84 EUR (original: 137.84 EUR) en el siguiente enlace!

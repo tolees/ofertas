@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'adidas Cloudfoam Element Race  Zapatillas de Trail Running para Mujer  Negro  Negbas/Carbon/Aerorr 000   36 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0776TYRGM/?tag=tolees-21'
+descuento: '54.78'
+titulo: 'adidas Cloudfoam Element Race  Zapatilla'
 ---
 
 Ahora mismo tienes [adidas Cloudfoam Element Race  Zapatillas de Trail Running para Mujer  Negro  Negbas/Carbon/Aerorr 000   36 2/3 EU](https://www.amazon.es/dp/B0776TYRGM/?tag=tolees-21) a 27.11 EUR (original: 59.95 EUR) (54.78 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'JACK & JONES 12134074  Bóxer para Hombre   Black Detail:Black & Hwn Ocn & Black from 12127836 & Lipstick Red   XX-Large Pack de 7'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0728KYHJS/?tag=tolees-21'
+descuento: '49.37'
+titulo: 'JACK & JONES 12134074  Bóxer para Hombre'
 ---
 
 Ahora mismo tienes [JACK & JONES 12134074  Bóxer para Hombre   Black Detail:Black & Hwn Ocn & Black from 12127836 & Lipstick Red   XX-Large Pack de 7](https://www.amazon.es/dp/B0728KYHJS/?tag=tolees-21) a 30.37 EUR (original: 59.99 EUR) (49.37 %  de descuento) en el siguiente enlace!

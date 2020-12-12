@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'The North Face Kids TNF Chaquetas  Niñas  New Taupe Green  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078QV3K7S/?tag=tolees-21'
+descuento: '72.44'
+titulo: 'The North Face Kids TNF Chaquetas  Niñas'
 ---
 
 Está [The North Face Kids TNF Chaquetas  Niñas  New Taupe Green  S](https://www.amazon.es/dp/B078QV3K7S/?tag=tolees-21) con 72.44 de descuento por 27.56 EUR (original: 100 EUR) en el siguiente enlace!

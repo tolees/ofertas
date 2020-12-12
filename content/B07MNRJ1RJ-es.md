@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Slim Jeans  Azul  Vintage Medium Aged 8968-2965   27W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MNRJ1RJ/?tag=tolees-21'
+descuento: '74.44'
+titulo: 'G-STAR RAW 3301 Slim Jeans  Azul  Vintag'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Slim Jeans  Azul  Vintage Medium Aged 8968-2965   27W / 32L para Hombre](https://www.amazon.es/dp/B07MNRJ1RJ/?tag=tolees-21) a 25.55 EUR (original: 99.95 EUR) (74.44 %  de descuento) en el siguiente enlace!

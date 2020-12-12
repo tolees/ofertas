@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Lico Magnus  Botas Clasicas Unisex Adulto  Marrón Braun/Marine  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKDKDFM/?tag=tolees-21'
+descuento: '48.59'
+titulo: 'Lico Magnus  Botas Clasicas Unisex Adult'
 ---
 
 Está [Lico Magnus  Botas Clasicas Unisex Adulto  Marrón Braun/Marine  38 EU](https://www.amazon.es/dp/B07DKDKDFM/?tag=tolees-21) con 48.59 de descuento por 30.82 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 16 EUR
 inStock: true
 prodname: 'Chapuis MO325N Driza de poliéster - 200 kg - Diámetro 3 mm - Largo 25 m - Negro/naranja'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AKAEXIU/?tag=tolees-21'
+descuento: '47.81'
+titulo: 'Chapuis MO325N Driza de poliéster - 200 '
 ---
 
 Tienes [Chapuis MO325N Driza de poliéster - 200 kg - Diámetro 3 mm - Largo 25 m - Negro/naranja](https://www.amazon.es/dp/B00AKAEXIU/?tag=tolees-21) con un 47.81 % de descuento con precio de oferta de 8.35 EUR (original: 16 EUR) en el siguiente enlace!

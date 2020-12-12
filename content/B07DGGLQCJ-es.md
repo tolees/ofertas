@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'DC Shoes Crisis High Winter  Zapatillas de Skateboard para Hombre  Negro White/Black BWB  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGGLQCJ/?tag=tolees-21'
+descuento: '76.35'
+titulo: 'DC Shoes Crisis High Winter  Zapatillas '
 ---
 
 Está [DC Shoes Crisis High Winter  Zapatillas de Skateboard para Hombre  Negro White/Black BWB  42 EU](https://www.amazon.es/dp/B07DGGLQCJ/?tag=tolees-21) con 76.35 de descuento por 26.02 EUR (original: 110 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Yogini Lux Strappy Top Corto  Mujer  Gris  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071XNBCZK/?tag=tolees-21'
+descuento: '76.45'
+titulo: 'Puma Yogini Lux Strappy Top Corto  Mujer'
 ---
 
 Ahora mismo tienes [Puma Yogini Lux Strappy Top Corto  Mujer  Gris  XL](https://www.amazon.es/dp/B071XNBCZK/?tag=tolees-21) a 9.41 EUR (original: 39.95 EUR) (76.45 %  de descuento) en el siguiente enlace!

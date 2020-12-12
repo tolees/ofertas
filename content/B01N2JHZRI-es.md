@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Merrell Trail Crusher  Zapatillas de Running para Asfalto para Mujer   Aleutian   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2JHZRI/?tag=tolees-21'
+descuento: '67.61'
+titulo: 'Merrell Trail Crusher  Zapatillas de Run'
 ---
 
 Tienes [Merrell Trail Crusher  Zapatillas de Running para Asfalto para Mujer   Aleutian   42 EU](https://www.amazon.es/dp/B01N2JHZRI/?tag=tolees-21) con un 67.61 % de descuento con precio de oferta de 27.53 EUR (original: 85 EUR) en el siguiente enlace!

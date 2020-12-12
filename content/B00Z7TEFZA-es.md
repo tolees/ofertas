@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Otterbox Defender - Funda de Protección Triple Capa para Samsung Galaxy S9 Negra'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Z7TEFZA/?tag=tolees-21'
+descuento: '51.99'
+titulo: 'Otterbox Defender - Funda de Protección '
 ---
 
 Está [Otterbox Defender - Funda de Protección Triple Capa para Samsung Galaxy S9 Negra](https://www.amazon.es/dp/B00Z7TEFZA/?tag=tolees-21) con 51.99 de descuento por 24 EUR (original: 49.99 EUR) en el siguiente enlace!

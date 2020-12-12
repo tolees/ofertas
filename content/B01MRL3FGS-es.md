@@ -17,6 +17,9 @@ comparePrice: 35.48 EUR
 inStock: true
 prodname: 'Bellfield Jersey Gris S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MRL3FGS/?tag=tolees-21'
+descuento: '70.94'
+titulo: 'Bellfield Jersey Gris S'
 ---
 
 Está [Bellfield Jersey Gris S](https://www.amazon.es/dp/B01MRL3FGS/?tag=tolees-21) con 70.94 de descuento por 10.31 EUR (original: 35.48 EUR) en el siguiente enlace!

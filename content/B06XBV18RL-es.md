@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-Star Raw 3301 Deconstructed Super Slim  Vaqueros para Hombre  Azul  Medium Indigo Aged 6028   W33/L36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XBV18RL/?tag=tolees-21'
+descuento: '57.04'
+titulo: 'G-Star Raw 3301 Deconstructed Super Slim'
 ---
 
 Tienes [G-Star Raw 3301 Deconstructed Super Slim  Vaqueros para Hombre  Azul  Medium Indigo Aged 6028   W33/L36](https://www.amazon.es/dp/B06XBV18RL/?tag=tolees-21) con un 57.04 % de descuento con precio de oferta de 42.94 EUR (original: 99.95 EUR) en el siguiente enlace!

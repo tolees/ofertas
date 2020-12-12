@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour Armour SS Camiseta de Manga Corta  Niños  Negro  004   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071S9M6GL/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'Under Armour Armour SS Camiseta de Manga'
 ---
 
 Ahora mismo tienes [Under Armour Armour SS Camiseta de Manga Corta  Niños  Negro  004   L](https://www.amazon.es/dp/B071S9M6GL/?tag=tolees-21) a 7.8 EUR (original: 26 EUR) (70.00 %  de descuento) en el siguiente enlace!

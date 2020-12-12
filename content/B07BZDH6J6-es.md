@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Levi s Track  Botas Biker para Hombre  Negro  Noir Regular Black 59   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BZDH6J6/?tag=tolees-21'
+descuento: '40.05'
+titulo: 'Levi s Track  Botas Biker para Hombre  N'
 ---
 
 Está [Levi s Track  Botas Biker para Hombre  Negro  Noir Regular Black 59   43 EU](https://www.amazon.es/dp/B07BZDH6J6/?tag=tolees-21) con 40.05 de descuento por 65.95 EUR (original: 110 EUR) en el siguiente enlace!

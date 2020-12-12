@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Asics Gel-DS Trainer 23  Zapatillas de Entrenamiento para Hombre  Negro  Black/Carbon 001   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1GWMD6/?tag=tolees-21'
+descuento: '70.89'
+titulo: 'Asics Gel-DS Trainer 23  Zapatillas de E'
 ---
 
 Ahora mismo tienes [Asics Gel-DS Trainer 23  Zapatillas de Entrenamiento para Hombre  Negro  Black/Carbon 001   42 EU](https://www.amazon.es/dp/B07D1GWMD6/?tag=tolees-21) a 40.76 EUR (original: 140 EUR) (70.89 %  de descuento) en el siguiente enlace!

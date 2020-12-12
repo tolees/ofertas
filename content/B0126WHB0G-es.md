@@ -17,6 +17,9 @@ comparePrice: 99.34 EUR
 inStock: true
 prodname: 'Beileshi Red and Green Reflex Sight with 4 Reticles by Beileshi'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0126WHB0G/?tag=tolees-21'
+descuento: '70.82'
+titulo: 'Beileshi Red and Green Reflex Sight with'
 ---
 
 Tienes [Beileshi Red and Green Reflex Sight with 4 Reticles by Beileshi](https://www.amazon.es/dp/B0126WHB0G/?tag=tolees-21) con un 70.82 % de descuento con precio de oferta de 28.99 EUR (original: 99.34 EUR) en el siguiente enlace!

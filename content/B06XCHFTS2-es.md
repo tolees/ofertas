@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Clarks Tilden Zip  Botas Chelsea para Hombre  Negro  Black Leather   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCHFTS2/?tag=tolees-21'
+descuento: '45.58'
+titulo: 'Clarks Tilden Zip  Botas Chelsea para Ho'
 ---
 
 Ahora mismo tienes [Clarks Tilden Zip  Botas Chelsea para Hombre  Negro  Black Leather   42 EU](https://www.amazon.es/dp/B06XCHFTS2/?tag=tolees-21) a 48.95 EUR (original: 89.95 EUR) (45.58 %  de descuento) en el siguiente enlace!

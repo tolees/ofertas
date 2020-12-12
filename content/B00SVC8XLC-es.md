@@ -17,6 +17,9 @@ comparePrice: 194.95 EUR
 inStock: true
 prodname: 'Tuc Tuc 6560 - Sillas de paseo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SVC8XLC/?tag=tolees-21'
+descuento: '39.98'
+titulo: 'Tuc Tuc 6560 - Sillas de paseo'
 ---
 
 Ahora mismo tienes [Tuc Tuc 6560 - Sillas de paseo](https://www.amazon.es/dp/B00SVC8XLC/?tag=tolees-21) a 117 EUR (original: 194.95 EUR) (39.98 %  de descuento) en el siguiente enlace!

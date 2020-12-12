@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Camara Deportiva 4K  Sendowtek Cámara Acción 4K WiFi Impermeable Cámara 30M Buceo con 170 Grados Gran Angular  Wrist Remote  2 Baterías Recargables  Incluyendo Accesorios Completos Conjunto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0761LGXW8/?tag=tolees-21'
+descuento: '66.67'
+titulo: 'Camara Deportiva 4K  Sendowtek Cámara Ac'
 ---
 
 Está [Camara Deportiva 4K  Sendowtek Cámara Acción 4K WiFi Impermeable Cámara 30M Buceo con 170 Grados Gran Angular  Wrist Remote  2 Baterías Recargables  Incluyendo Accesorios Completos Conjunto](https://www.amazon.es/dp/B0761LGXW8/?tag=tolees-21) con 66.67 de descuento por 29.99 EUR (original: 89.99 EUR) en el siguiente enlace!

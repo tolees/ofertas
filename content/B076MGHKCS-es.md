@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Magic Bodyfashion Active Short  Pantalones Cortos de Deporte para Mujer  Gris  Blended Grey 940  40  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076MGHKCS/?tag=tolees-21'
+descuento: '49.94'
+titulo: 'Magic Bodyfashion Active Short  Pantalon'
 ---
 
 Está [Magic Bodyfashion Active Short  Pantalones Cortos de Deporte para Mujer  Gris  Blended Grey 940  40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B076MGHKCS/?tag=tolees-21) con 49.94 de descuento por 12.51 EUR (original: 24.99 EUR) en el siguiente enlace!

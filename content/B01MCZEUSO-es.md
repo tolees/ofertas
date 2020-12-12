@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Levi s Woods 794  Zapatillas para Hombre  Negro  Noir Regular Black   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MCZEUSO/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Levi s Woods 794  Zapatillas para Hombre'
 ---
 
 Está [Levi s Woods 794  Zapatillas para Hombre  Negro  Noir Regular Black   45 EU](https://www.amazon.es/dp/B01MCZEUSO/?tag=tolees-21) con 50.00 de descuento por 30 EUR (original: 60 EUR) en el siguiente enlace!

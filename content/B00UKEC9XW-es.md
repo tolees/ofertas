@@ -17,6 +17,9 @@ comparePrice: 143 EUR
 inStock: true
 prodname: 'Marc by Marc Jacobs MMJ 451/S Mv Gafas de Sol  Mtcry Mtsalm  57 Unisex-Adulto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UKEC9XW/?tag=tolees-21'
+descuento: '72.78'
+titulo: 'Marc by Marc Jacobs MMJ 451/S Mv Gafas d'
 ---
 
 Tienes [Marc by Marc Jacobs MMJ 451/S Mv Gafas de Sol  Mtcry Mtsalm  57 Unisex-Adulto](https://www.amazon.es/dp/B00UKEC9XW/?tag=tolees-21) con un 72.78 % de descuento con precio de oferta de 38.92 EUR (original: 143 EUR) en el siguiente enlace!

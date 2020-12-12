@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'LANGRIA Colchoncillo Topper 7.6 cm de Grosor de Espuma de Memoria  Funda de Tejido Transpirable Desmontable  Blanco  190x90 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HKVBU3M/?tag=tolees-21'
+descuento: '32.33'
+titulo: 'LANGRIA Colchoncillo Topper 7.6 cm de Gr'
 ---
 
 Está [LANGRIA Colchoncillo Topper 7.6 cm de Grosor de Espuma de Memoria  Funda de Tejido Transpirable Desmontable  Blanco  190x90 cm](https://www.amazon.es/dp/B01HKVBU3M/?tag=tolees-21) con 32.33 de descuento por 66.99 EUR (original: 99 EUR) en el siguiente enlace!

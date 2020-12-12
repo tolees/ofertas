@@ -17,6 +17,9 @@ comparePrice: 198.99 EUR
 inStock: true
 prodname: 'San Ignacio Batería De Cocina  Cromado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FF49BZN/?tag=tolees-21'
+descuento: '56.79'
+titulo: 'San Ignacio Batería De Cocina  Cromado'
 ---
 
 Ahora mismo tienes [San Ignacio Batería De Cocina  Cromado](https://www.amazon.es/dp/B07FF49BZN/?tag=tolees-21) a 85.99 EUR (original: 198.99 EUR) (56.79 %  de descuento) en el siguiente enlace!

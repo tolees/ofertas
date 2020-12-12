@@ -17,6 +17,9 @@ comparePrice: 9.84 EUR
 inStock: true
 prodname: 'Neutrogena ciudad escudo SPF 25 hidratación Loción'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074P89GQX/?tag=tolees-21'
+descuento: '49.70'
+titulo: 'Neutrogena ciudad escudo SPF 25 hidratac'
 ---
 
 Está [Neutrogena ciudad escudo SPF 25 hidratación Loción](https://www.amazon.es/dp/B074P89GQX/?tag=tolees-21) con 49.70 de descuento por 4.95 EUR (original: 9.84 EUR) en el siguiente enlace!

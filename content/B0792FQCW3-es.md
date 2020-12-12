@@ -17,6 +17,9 @@ comparePrice: 129.9 EUR
 inStock: true
 prodname: 'Geox D Thymar F  Zapatillas para Mujer   Black C9999   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792FQCW3/?tag=tolees-21'
+descuento: '75.73'
+titulo: 'Geox D Thymar F  Zapatillas para Mujer  '
 ---
 
 Tienes [Geox D Thymar F  Zapatillas para Mujer   Black C9999   39 EU](https://www.amazon.es/dp/B0792FQCW3/?tag=tolees-21) con un 75.73 % de descuento con precio de oferta de 31.53 EUR (original: 129.9 EUR) en el siguiente enlace!

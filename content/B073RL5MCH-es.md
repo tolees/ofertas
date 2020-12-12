@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Adidas Hoops 2.0  Zapatillas de Deporte para Hombre  Negro  Negbas Ftwbla 000   41 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RL5MCH/?tag=tolees-21'
+descuento: '50.54'
+titulo: 'Adidas Hoops 2.0  Zapatillas de Deporte '
 ---
 
 Tienes [Adidas Hoops 2.0  Zapatillas de Deporte para Hombre  Negro  Negbas Ftwbla 000   41 1/3 EU](https://www.amazon.es/dp/B073RL5MCH/?tag=tolees-21) con un 50.54 % de descuento con precio de oferta de 29.65 EUR (original: 59.95 EUR) en el siguiente enlace!

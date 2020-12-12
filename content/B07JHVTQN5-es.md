@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'PUMA A.C.E. Woven Trackster Chándal  Hombre  Blanco White Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHVTQN5/?tag=tolees-21'
+descuento: '36.40'
+titulo: 'PUMA A.C.E. Woven Trackster Chándal  Hom'
 ---
 
 Tienes [PUMA A.C.E. Woven Trackster Chándal  Hombre  Blanco White Black  M](https://www.amazon.es/dp/B07JHVTQN5/?tag=tolees-21) con un 36.40 % de descuento con precio de oferta de 34.95 EUR (original: 54.95 EUR) en el siguiente enlace!

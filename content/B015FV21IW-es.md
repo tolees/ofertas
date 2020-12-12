@@ -17,6 +17,9 @@ comparePrice: 18.14 EUR
 inStock: true
 prodname: 'APC Surge Arrest Essential - PM1W-GR - Protección contra subidas y picos de tensión.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015FV21IW/?tag=tolees-21'
+descuento: '26.96'
+titulo: 'APC Surge Arrest Essential - PM1W-GR - P'
 ---
 
 Tienes [APC Surge Arrest Essential - PM1W-GR - Protección contra subidas y picos de tensión.](https://www.amazon.es/dp/B015FV21IW/?tag=tolees-21) con un 26.96 % de descuento con precio de oferta de 13.25 EUR (original: 18.14 EUR) en el siguiente enlace!

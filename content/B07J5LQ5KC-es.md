@@ -17,6 +17,9 @@ comparePrice: 23.61 EUR
 inStock: true
 prodname: 'HALOViE Bebés Saco de Dormir Sacos de abrigo Capazo Recién Nacido Otoño Infantil Invierno Algodón Cochecitos Cama Manta Edredón ultraligero -Adecuado para bebé sobre 0-12M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J5LQ5KC/?tag=tolees-21'
+descuento: '28.04'
+titulo: 'HALOViE Bebés Saco de Dormir Sacos de ab'
 ---
 
 Ahora mismo tienes [HALOViE Bebés Saco de Dormir Sacos de abrigo Capazo Recién Nacido Otoño Infantil Invierno Algodón Cochecitos Cama Manta Edredón ultraligero -Adecuado para bebé sobre 0-12M](https://www.amazon.es/dp/B07J5LQ5KC/?tag=tolees-21) a 16.99 EUR (original: 23.61 EUR) (28.04 %  de descuento) en el siguiente enlace!

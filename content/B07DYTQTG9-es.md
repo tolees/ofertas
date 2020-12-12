@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta Impermeable con Capucha para Hombre  Powder Lite Hooded Jacket  Rojo  Red Spark/Dark Mountain   Talla XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYTQTG9/?tag=tolees-21'
+descuento: '67.60'
+titulo: 'Columbia Chaqueta Impermeable con Capuch'
 ---
 
 Está [Columbia Chaqueta Impermeable con Capucha para Hombre  Powder Lite Hooded Jacket  Rojo  Red Spark/Dark Mountain   Talla XL](https://www.amazon.es/dp/B07DYTQTG9/?tag=tolees-21) con 67.60 de descuento por 42.12 EUR (original: 129.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Puma Active Interlock Chándal  Hombre  Black  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5SBK9T/?tag=tolees-21'
+descuento: '27.27'
+titulo: 'Puma Active Interlock Chándal  Hombre  B'
 ---
 
 Tienes [Puma Active Interlock Chándal  Hombre  Black  XXL](https://www.amazon.es/dp/B07D5SBK9T/?tag=tolees-21) con un 27.27 % de descuento con precio de oferta de 14.51 EUR (original: 19.95 EUR) en el siguiente enlace!

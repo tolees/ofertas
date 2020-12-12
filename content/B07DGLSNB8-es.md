@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'DC Shoes Lynnfield  Zapatillas de Skateboard para Hombre  Marrón  Wheat We9   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGLSNB8/?tag=tolees-21'
+descuento: '73.63'
+titulo: 'DC Shoes Lynnfield  Zapatillas de Skateb'
 ---
 
 Tienes [DC Shoes Lynnfield  Zapatillas de Skateboard para Hombre  Marrón  Wheat We9   39 EU](https://www.amazon.es/dp/B07DGLSNB8/?tag=tolees-21) con un 73.63 % de descuento con precio de oferta de 19.78 EUR (original: 75 EUR) en el siguiente enlace!

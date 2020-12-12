@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Pepe Jeans MC Queen Short para Hombre  Azul  Middle Blue 531  W40  Talla del fabricante: 40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NCB1J29/?tag=tolees-21'
+descuento: '40.98'
+titulo: 'Pepe Jeans MC Queen Short para Hombre  A'
 ---
 
 Está [Pepe Jeans MC Queen Short para Hombre  Azul  Middle Blue 531  W40  Talla del fabricante: 40 ](https://www.amazon.es/dp/B07NCB1J29/?tag=tolees-21) con 40.98 de descuento por 29.45 EUR (original: 49.9 EUR) en el siguiente enlace!

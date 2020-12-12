@@ -17,6 +17,9 @@ comparePrice: 94.95 EUR
 inStock: true
 prodname: 'adidas Gazelle  Zapatillas de Gimnasia para Hombre  42 2/3 EU  Gris  Raw Steel S18/Crystal White/Ftwr White '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZPCFPT/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Gazelle  Zapatillas de Gimnasia p'
 ---
 
 Está [adidas Gazelle  Zapatillas de Gimnasia para Hombre  42 2/3 EU  Gris  Raw Steel S18/Crystal White/Ftwr White ](https://www.amazon.es/dp/B07JZPCFPT/?tag=tolees-21) con 49.99 de descuento por 47.48 EUR (original: 94.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 902.38 EUR
 inStock: true
 prodname: 'HELLA 1AL 354 684-011 Xenón Projecteur principal  izquierda  Sin luz dinámica de curva  con lámpara de descarga de gas  con lámpara  con servomotor para reg. alcance luces  con reactor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005OULXN4/?tag=tolees-21'
+descuento: '70.25'
+titulo: 'HELLA 1AL 354 684-011 Xenón Projecteur p'
 ---
 
 Tienes [HELLA 1AL 354 684-011 Xenón Projecteur principal  izquierda  Sin luz dinámica de curva  con lámpara de descarga de gas  con lámpara  con servomotor para reg. alcance luces  con reactor](https://www.amazon.es/dp/B005OULXN4/?tag=tolees-21) con un 70.25 % de descuento con precio de oferta de 268.44 EUR (original: 902.38 EUR) en el siguiente enlace!

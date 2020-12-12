@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Marco Tozzi Premio 2-2-25388-31  Botines para Mujer  Marrón  Cognac Ant.Com 372   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C43HSX5/?tag=tolees-21'
+descuento: '77.87'
+titulo: 'Marco Tozzi Premio 2-2-25388-31  Botines'
 ---
 
 Está [Marco Tozzi Premio 2-2-25388-31  Botines para Mujer  Marrón  Cognac Ant.Com 372   40 EU](https://www.amazon.es/dp/B07C43HSX5/?tag=tolees-21) con 77.87 de descuento por 17.69 EUR (original: 79.95 EUR) en el siguiente enlace!

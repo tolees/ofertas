@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'WMF Ceramill Natura Juego 2 molinillos  Madera'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HF0NEB0/?tag=tolees-21'
+descuento: '45.42'
+titulo: 'WMF Ceramill Natura Juego 2 molinillos  '
 ---
 
 Tienes [WMF Ceramill Natura Juego 2 molinillos  Madera](https://www.amazon.es/dp/B00HF0NEB0/?tag=tolees-21) con un 45.42 % de descuento con precio de oferta de 29.99 EUR (original: 54.95 EUR) en el siguiente enlace!

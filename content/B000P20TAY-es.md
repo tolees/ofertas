@@ -17,6 +17,9 @@ comparePrice: 104 EUR
 inStock: true
 prodname: 'Azzaro Pour Homme Eau de Toilette - 200 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000P20TAY/?tag=tolees-21'
+descuento: '59.47'
+titulo: 'Azzaro Pour Homme Eau de Toilette - 200 '
 ---
 
 Ahora mismo tienes [Azzaro Pour Homme Eau de Toilette - 200 ml](https://www.amazon.es/dp/B000P20TAY/?tag=tolees-21) a 42.15 EUR (original: 104 EUR) (59.47 %  de descuento) en el siguiente enlace!

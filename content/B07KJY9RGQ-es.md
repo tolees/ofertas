@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Quiksilver Everyday Shorts  Hombre  High Risk Red  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJY9RGQ/?tag=tolees-21'
+descuento: '53.32'
+titulo: 'Quiksilver Everyday Shorts  Hombre  High'
 ---
 
 Está [Quiksilver Everyday Shorts  Hombre  High Risk Red  XXL](https://www.amazon.es/dp/B07KJY9RGQ/?tag=tolees-21) con 53.32 de descuento por 14 EUR (original: 29.99 EUR) en el siguiente enlace!

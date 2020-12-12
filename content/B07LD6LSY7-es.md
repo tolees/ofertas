@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'TECCPO Soplador de Hojas  Aspirador  Triturador de Eléctrico 3 en 1  Soplador de 3000W con una Velocidad de 210-350 km/h  Interruptor de 2 Velocidades - TABV01G'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LD6LSY7/?tag=tolees-21'
+descuento: '74.01'
+titulo: 'TECCPO Soplador de Hojas  Aspirador  Tri'
 ---
 
 Ahora mismo tienes [TECCPO Soplador de Hojas  Aspirador  Triturador de Eléctrico 3 en 1  Soplador de 3000W con una Velocidad de 210-350 km/h  Interruptor de 2 Velocidades - TABV01G](https://www.amazon.es/dp/B07LD6LSY7/?tag=tolees-21) a 51.97 EUR (original: 199.99 EUR) (74.01 %  de descuento) en el siguiente enlace!

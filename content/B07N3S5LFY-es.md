@@ -17,6 +17,9 @@ comparePrice: 7.9 EUR
 inStock: true
 prodname: 'Palette Intense - Tono XL4 Rubio Oscuro Helado - 2 uds - Coloración Permanente - Schwarzkopf'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3S5LFY/?tag=tolees-21'
+descuento: '46.46'
+titulo: 'Palette Intense - Tono XL4 Rubio Oscuro '
 ---
 
 Tienes [Palette Intense - Tono XL4 Rubio Oscuro Helado - 2 uds - Coloración Permanente - Schwarzkopf](https://www.amazon.es/dp/B07N3S5LFY/?tag=tolees-21) con un 46.46 % de descuento con precio de oferta de 4.23 EUR (original: 7.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Only Onlleah Short Fur Jacket CC Otw  Parka para Mujer  Gris Peat  38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKBPF31/?tag=tolees-21'
+descuento: '70.60'
+titulo: 'Only Onlleah Short Fur Jacket CC Otw  Pa'
 ---
 
 Ahora mismo tienes [Only Onlleah Short Fur Jacket CC Otw  Parka para Mujer  Gris Peat  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07FKBPF31/?tag=tolees-21) a 20.58 EUR (original: 69.99 EUR) (70.60 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 105 EUR
 inStock: true
 prodname: 'Le Coq Sportif LCS R Flow W Suede/Satin  Entrenadores Bajos para Mujer  Gris  Frost Gray   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XG4VLRX/?tag=tolees-21'
+descuento: '72.95'
+titulo: 'Le Coq Sportif LCS R Flow W Suede/Satin '
 ---
 
 Está [Le Coq Sportif LCS R Flow W Suede/Satin  Entrenadores Bajos para Mujer  Gris  Frost Gray   38 EU](https://www.amazon.es/dp/B06XG4VLRX/?tag=tolees-21) con 72.95 de descuento por 28.4 EUR (original: 105 EUR) en el siguiente enlace!

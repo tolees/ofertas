@@ -17,6 +17,9 @@ comparePrice: 94.95 EUR
 inStock: true
 prodname: 'adidas Gazelle  Zapatillas de Gimnasia para Hombre  44 EU  Blanco  Ash Pearl S18/Ftwr White/Gum 3 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K13YMX6/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Gazelle  Zapatillas de Gimnasia p'
 ---
 
 Ahora mismo tienes [adidas Gazelle  Zapatillas de Gimnasia para Hombre  44 EU  Blanco  Ash Pearl S18/Ftwr White/Gum 3 ](https://www.amazon.es/dp/B07K13YMX6/?tag=tolees-21) a 47.48 EUR (original: 94.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

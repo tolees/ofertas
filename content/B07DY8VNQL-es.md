@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Nike Free RN CMTR 2018  Zapatillas de Running para Hombre  Azul Void-Black-Blue Hero 400  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DY8VNQL/?tag=tolees-21'
+descuento: '50.60'
+titulo: 'Nike Free RN CMTR 2018  Zapatillas de Ru'
 ---
 
 Tienes [Nike Free RN CMTR 2018  Zapatillas de Running para Hombre  Azul Void-Black-Blue Hero 400  42 EU](https://www.amazon.es/dp/B07DY8VNQL/?tag=tolees-21) con un 50.60 % de descuento con precio de oferta de 54.34 EUR (original: 110 EUR) en el siguiente enlace!

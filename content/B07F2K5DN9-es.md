@@ -17,6 +17,9 @@ comparePrice: 21.71 EUR
 inStock: true
 prodname: 'Levi s SS Set-in Sunset Pocket  Camiseta para Hombre  Azul  Campanula Heather 0056  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2K5DN9/?tag=tolees-21'
+descuento: '26.76'
+titulo: 'Levi s SS Set-in Sunset Pocket  Camiseta'
 ---
 
 Ahora mismo tienes [Levi s SS Set-in Sunset Pocket  Camiseta para Hombre  Azul  Campanula Heather 0056  X-Large](https://www.amazon.es/dp/B07F2K5DN9/?tag=tolees-21) a 15.9 EUR (original: 21.71 EUR) (26.76 %  de descuento) en el siguiente enlace!

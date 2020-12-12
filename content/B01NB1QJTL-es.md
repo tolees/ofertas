@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Hi-Lite  Entrenadores para Mujer  Azul  Navy   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NB1QJTL/?tag=tolees-21'
+descuento: '60.86'
+titulo: 'Skechers Hi-Lite  Entrenadores para Muje'
 ---
 
 Ahora mismo tienes [Skechers Hi-Lite  Entrenadores para Mujer  Azul  Navy   41 EU](https://www.amazon.es/dp/B01NB1QJTL/?tag=tolees-21) a 27.38 EUR (original: 69.95 EUR) (60.86 %  de descuento) en el siguiente enlace!

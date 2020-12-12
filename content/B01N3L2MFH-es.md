@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Under Armour Run True Heatgear Tight Pantalón  Hombre  Negro  2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N3L2MFH/?tag=tolees-21'
+descuento: '50.47'
+titulo: 'Under Armour Run True Heatgear Tight Pan'
 ---
 
 Tienes [Under Armour Run True Heatgear Tight Pantalón  Hombre  Negro  2XL](https://www.amazon.es/dp/B01N3L2MFH/?tag=tolees-21) con un 50.47 % de descuento con precio de oferta de 29.72 EUR (original: 60 EUR) en el siguiente enlace!

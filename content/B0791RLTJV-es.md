@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Etnies Scout XT  Zapatillas de Skateboard para Hombre  Gris  Grey/Black/White 039   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0791RLTJV/?tag=tolees-21'
+descuento: '71.46'
+titulo: 'Etnies Scout XT  Zapatillas de Skateboar'
 ---
 
 Ahora mismo tienes [Etnies Scout XT  Zapatillas de Skateboard para Hombre  Gris  Grey/Black/White 039   41 EU](https://www.amazon.es/dp/B0791RLTJV/?tag=tolees-21) a 25.69 EUR (original: 90 EUR) (71.46 %  de descuento) en el siguiente enlace!

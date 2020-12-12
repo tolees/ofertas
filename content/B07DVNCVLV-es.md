@@ -17,6 +17,9 @@ comparePrice: 21.43 EUR
 inStock: true
 prodname: 'Relaxdays Mantel Antimanchas Rectangular  Gris  140x180 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVNCVLV/?tag=tolees-21'
+descuento: '29.91'
+titulo: 'Relaxdays Mantel Antimanchas Rectangular'
 ---
 
 Está [Relaxdays Mantel Antimanchas Rectangular  Gris  140x180 cm](https://www.amazon.es/dp/B07DVNCVLV/?tag=tolees-21) con 29.91 de descuento por 15.02 EUR (original: 21.43 EUR) en el siguiente enlace!

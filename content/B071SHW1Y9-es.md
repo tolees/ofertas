@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Pepa Loves Ducks Cardigan Black  Negro  36  Tamaño del Fabricante:XS  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071SHW1Y9/?tag=tolees-21'
+descuento: '69.52'
+titulo: 'Pepa Loves Ducks Cardigan Black  Negro  '
 ---
 
 Tienes [Pepa Loves Ducks Cardigan Black  Negro  36  Tamaño del Fabricante:XS  para Mujer](https://www.amazon.es/dp/B071SHW1Y9/?tag=tolees-21) con un 69.52 % de descuento con precio de oferta de 18.26 EUR (original: 59.9 EUR) en el siguiente enlace!

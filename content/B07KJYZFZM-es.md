@@ -17,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'REPLAY Anbass Vaqueros Slim  Azul  Medium Blue 9   W28/L30  Talla del Fabricante: 28  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJYZFZM/?tag=tolees-21'
+descuento: '79.79'
+titulo: 'REPLAY Anbass Vaqueros Slim  Azul  Mediu'
 ---
 
 Está [REPLAY Anbass Vaqueros Slim  Azul  Medium Blue 9   W28/L30  Talla del Fabricante: 28  para Hombre](https://www.amazon.es/dp/B07KJYZFZM/?tag=tolees-21) con 79.79 de descuento por 32.14 EUR (original: 159 EUR) en el siguiente enlace!

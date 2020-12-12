@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'PROPOLAID FLU 10 Sobres'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LN93D9G/?tag=tolees-21'
+descuento: '30.93'
+titulo: 'PROPOLAID FLU 10 Sobres'
 ---
 
 Está [PROPOLAID FLU 10 Sobres](https://www.amazon.es/dp/B01LN93D9G/?tag=tolees-21) con 30.93 de descuento por 6.9 EUR (original: 9.99 EUR) en el siguiente enlace!

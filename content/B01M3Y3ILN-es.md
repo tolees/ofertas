@@ -17,6 +17,9 @@ comparePrice: 7.98 EUR
 inStock: true
 prodname: '[Pack de 2] BALLERINA Bayeta Microfibras 3 uds'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M3Y3ILN/?tag=tolees-21'
+descuento: '25.06'
+titulo: '[Pack de 2] BALLERINA Bayeta Microfibras'
 ---
 
 Está [[Pack de 2] BALLERINA Bayeta Microfibras 3 uds](https://www.amazon.es/dp/B01M3Y3ILN/?tag=tolees-21) con 25.06 de descuento por 5.98 EUR (original: 7.98 EUR) en el siguiente enlace!

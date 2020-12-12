@@ -17,6 +17,9 @@ comparePrice: 17.56 EUR
 inStock: true
 prodname: 'Stanley 1-84-280 tijeras de electricista - Tijeras de electricista  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008BGZ2TY/?tag=tolees-21'
+descuento: '56.26'
+titulo: 'Stanley 1-84-280 tijeras de electricista'
 ---
 
 Está [Stanley 1-84-280 tijeras de electricista - Tijeras de electricista  Rojo ](https://www.amazon.es/dp/B008BGZ2TY/?tag=tolees-21) con 56.26 de descuento por 7.68 EUR (original: 17.56 EUR) en el siguiente enlace!

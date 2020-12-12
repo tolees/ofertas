@@ -17,6 +17,9 @@ comparePrice: 16.33 EUR
 inStock: true
 prodname: 'QUN FENG Juguete de los Niños  Pistola de Agua 3 Piezas  Pistolas de Agua para niños Adultos  Pistola de Chorro de Agua Squirt Gun Soaker Guns Juguete de Verano para Playa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B8FMMXN/?tag=tolees-21'
+descuento: '26.58'
+titulo: 'QUN FENG Juguete de los Niños  Pistola d'
 ---
 
 Tienes [QUN FENG Juguete de los Niños  Pistola de Agua 3 Piezas  Pistolas de Agua para niños Adultos  Pistola de Chorro de Agua Squirt Gun Soaker Guns Juguete de Verano para Playa](https://www.amazon.es/dp/B07B8FMMXN/?tag=tolees-21) con un 26.58 % de descuento con precio de oferta de 11.99 EUR (original: 16.33 EUR) en el siguiente enlace!

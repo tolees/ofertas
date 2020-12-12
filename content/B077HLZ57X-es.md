@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma ESS Pique Polo T-Shirt  Hombre  Cotton Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HLZ57X/?tag=tolees-21'
+descuento: '45.08'
+titulo: 'Puma ESS Pique Polo T-Shirt  Hombre  Cot'
 ---
 
 Ahora mismo tienes [Puma ESS Pique Polo T-Shirt  Hombre  Cotton Black  L](https://www.amazon.es/dp/B077HLZ57X/?tag=tolees-21) a 16.45 EUR (original: 29.95 EUR) (45.08 %  de descuento) en el siguiente enlace!

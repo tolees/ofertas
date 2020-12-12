@@ -17,6 +17,9 @@ comparePrice: 22.62 EUR
 inStock: true
 prodname: 'Metaltex SKY -Estante organizador apilable  47x23x26 cm  gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I2K76DE/?tag=tolees-21'
+descuento: '55.92'
+titulo: 'Metaltex SKY -Estante organizador apilab'
 ---
 
 Tienes [Metaltex SKY -Estante organizador apilable  47x23x26 cm  gris](https://www.amazon.es/dp/B00I2K76DE/?tag=tolees-21) con un 55.92 % de descuento con precio de oferta de 9.97 EUR (original: 22.62 EUR) en el siguiente enlace!

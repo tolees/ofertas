@@ -17,6 +17,9 @@ comparePrice: 9.64 EUR
 inStock: true
 prodname: 'El Otro Guardaespaldas Blu-Ray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0756DMRRQ/?tag=tolees-21'
+descuento: '58.51'
+titulo: 'El Otro Guardaespaldas Blu-Ray [Blu-ray]'
 ---
 
 Tienes [El Otro Guardaespaldas Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B0756DMRRQ/?tag=tolees-21) con un 58.51 % de descuento con precio de oferta de 4 EUR (original: 9.64 EUR) en el siguiente enlace!

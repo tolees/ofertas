@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Converse Chuck Taylor All Star  Zapatillas Altas Unisex Niños  Negro Black/White 001  31.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BTZWT5L/?tag=tolees-21'
+descuento: '67.84'
+titulo: 'Converse Chuck Taylor All Star  Zapatill'
 ---
 
 Tienes [Converse Chuck Taylor All Star  Zapatillas Altas Unisex Niños  Negro Black/White 001  31.5 EU](https://www.amazon.es/dp/B07BTZWT5L/?tag=tolees-21) con un 67.84 % de descuento con precio de oferta de 17.69 EUR (original: 55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Pepe Jeans London Jayden Deck  Zapatillas para Hombre  Azul  Marine   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0787GLLJH/?tag=tolees-21'
+descuento: '65.75'
+titulo: 'Pepe Jeans London Jayden Deck  Zapatilla'
 ---
 
 Está [Pepe Jeans London Jayden Deck  Zapatillas para Hombre  Azul  Marine   43 EU](https://www.amazon.es/dp/B0787GLLJH/?tag=tolees-21) con 65.75 de descuento por 30.79 EUR (original: 89.9 EUR) en el siguiente enlace!

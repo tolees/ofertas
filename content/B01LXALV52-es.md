@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Tamaris 26393  Botines para Mujer  Marrón  Taupe 341   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXALV52/?tag=tolees-21'
+descuento: '79.62'
+titulo: 'Tamaris 26393  Botines para Mujer  Marró'
 ---
 
 Ahora mismo tienes [Tamaris 26393  Botines para Mujer  Marrón  Taupe 341   39 EU](https://www.amazon.es/dp/B01LXALV52/?tag=tolees-21) a 16.29 EUR (original: 79.95 EUR) (79.62 %  de descuento) en el siguiente enlace!

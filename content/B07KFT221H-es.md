@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Burton Kilo Mochilas  Unisex Adulto  Gray Heather'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KFT221H/?tag=tolees-21'
+descuento: '52.43'
+titulo: 'Burton Kilo Mochilas  Unisex Adulto  Gra'
 ---
 
 Tienes [Burton Kilo Mochilas  Unisex Adulto  Gray Heather](https://www.amazon.es/dp/B07KFT221H/?tag=tolees-21) con un 52.43 % de descuento con precio de oferta de 30.92 EUR (original: 65 EUR) en el siguiente enlace!

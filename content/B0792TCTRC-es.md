@@ -17,6 +17,9 @@ comparePrice: 145 EUR
 inStock: true
 prodname: 'Geox U Kapsian D  Botas Clasicas para Hombre   Black C9999   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792TCTRC/?tag=tolees-21'
+descuento: '78.63'
+titulo: 'Geox U Kapsian D  Botas Clasicas para Ho'
 ---
 
 Tienes [Geox U Kapsian D  Botas Clasicas para Hombre   Black C9999   46 EU](https://www.amazon.es/dp/B0792TCTRC/?tag=tolees-21) con un 78.63 % de descuento con precio de oferta de 30.98 EUR (original: 145 EUR) en el siguiente enlace!

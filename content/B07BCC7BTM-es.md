@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Pandora Abalorios Mujer plata - 797037'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BCC7BTM/?tag=tolees-21'
+descuento: '44.29'
+titulo: 'Pandora Abalorios Mujer plata - 797037'
 ---
 
 Ahora mismo tienes [Pandora Abalorios Mujer plata - 797037](https://www.amazon.es/dp/B07BCC7BTM/?tag=tolees-21) a 19.5 EUR (original: 35 EUR) (44.29 %  de descuento) en el siguiente enlace!

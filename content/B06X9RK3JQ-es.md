@@ -17,6 +17,9 @@ comparePrice: 17 EUR
 inStock: true
 prodname: 'FIND Top sin Mangas para Mujer   Negro  Black   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X9RK3JQ/?tag=tolees-21'
+descuento: '65.24'
+titulo: 'FIND Top sin Mangas para Mujer   Negro  '
 ---
 
 Tienes [FIND Top sin Mangas para Mujer   Negro  Black   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06X9RK3JQ/?tag=tolees-21) con un 65.24 % de descuento con precio de oferta de 5.91 EUR (original: 17 EUR) en el siguiente enlace!

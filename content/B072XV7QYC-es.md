@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Call Of Duty: Modern Warfare - Remastered'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072XV7QYC/?tag=tolees-21'
+descuento: '52.49'
+titulo: 'Call Of Duty: Modern Warfare - Remastere'
 ---
 
 Está [Call Of Duty: Modern Warfare - Remastered](https://www.amazon.es/dp/B072XV7QYC/?tag=tolees-21) con 52.49 de descuento por 19 EUR (original: 39.99 EUR) en el siguiente enlace!

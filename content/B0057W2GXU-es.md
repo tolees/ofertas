@@ -17,6 +17,9 @@ comparePrice: 21.95 EUR
 inStock: true
 prodname: 'Bichos  una aventura en miniatura [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0057W2GXU/?tag=tolees-21'
+descuento: '59.45'
+titulo: 'Bichos  una aventura en miniatura [Blu-r'
 ---
 
 Ahora mismo tienes [Bichos  una aventura en miniatura [Blu-ray]](https://www.amazon.es/dp/B0057W2GXU/?tag=tolees-21) a 8.9 EUR (original: 21.95 EUR) (59.45 %  de descuento) en el siguiente enlace!

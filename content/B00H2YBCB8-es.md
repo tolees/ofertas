@@ -17,6 +17,9 @@ comparePrice: 15.24 EUR
 inStock: true
 prodname: 'Xylazel M91402 - Intemperie incoloro 750ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00H2YBCB8/?tag=tolees-21'
+descuento: '25.46'
+titulo: 'Xylazel M91402 - Intemperie incoloro 750'
 ---
 
 Está [Xylazel M91402 - Intemperie incoloro 750ml](https://www.amazon.es/dp/B00H2YBCB8/?tag=tolees-21) con 25.46 de descuento por 11.36 EUR (original: 15.24 EUR) en el siguiente enlace!

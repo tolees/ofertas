@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jacpath Trunks Noos  Bóxer para Hombre  Multicolor  Scarlet Sage Scarlet Sage   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073SYB65K/?tag=tolees-21'
+descuento: '60.43'
+titulo: 'JACK & JONES Jacpath Trunks Noos  Bóxer '
 ---
 
 Tienes [JACK & JONES Jacpath Trunks Noos  Bóxer para Hombre  Multicolor  Scarlet Sage Scarlet Sage   XX-Large](https://www.amazon.es/dp/B073SYB65K/?tag=tolees-21) con un 60.43 % de descuento con precio de oferta de 5.14 EUR (original: 12.99 EUR) en el siguiente enlace!

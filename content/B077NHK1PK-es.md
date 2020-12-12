@@ -17,6 +17,9 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'Lana de fieltro 36 colores 5g/colore Fuyit Hilo de lana para Afieltrar mano Spinning  36colores 5g/colore '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077NHK1PK/?tag=tolees-21'
+descuento: '48.29'
+titulo: 'Lana de fieltro 36 colores 5g/colore Fuy'
 ---
 
 Tienes [Lana de fieltro 36 colores 5g/colore Fuyit Hilo de lana para Afieltrar mano Spinning  36colores 5g/colore ](https://www.amazon.es/dp/B077NHK1PK/?tag=tolees-21) con un 48.29 % de descuento con precio de oferta de 14.99 EUR (original: 28.99 EUR) en el siguiente enlace!

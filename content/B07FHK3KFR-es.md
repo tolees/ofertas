@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Led Atomant Panel Led 60x60 cm  40 W  3200 lumenes reales. Blanco Frío 6500K. Luminaria techo modular  Frio  595x595x8mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FHK3KFR/?tag=tolees-21'
+descuento: '27.29'
+titulo: 'Led Atomant Panel Led 60x60 cm  40 W  32'
 ---
 
 Está [Led Atomant Panel Led 60x60 cm  40 W  3200 lumenes reales. Blanco Frío 6500K. Luminaria techo modular  Frio  595x595x8mm](https://www.amazon.es/dp/B07FHK3KFR/?tag=tolees-21) con 27.29 de descuento por 15.99 EUR (original: 21.99 EUR) en el siguiente enlace!

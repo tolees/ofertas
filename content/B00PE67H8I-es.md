@@ -17,6 +17,9 @@ comparePrice: 31.65 EUR
 inStock: true
 prodname: 'Secret Play S314  Plug Anal Metal Pequeño  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PE67H8I/?tag=tolees-21'
+descuento: '54.88'
+titulo: 'Secret Play S314  Plug Anal Metal Pequeñ'
 ---
 
 Tienes [Secret Play S314  Plug Anal Metal Pequeño  Azul](https://www.amazon.es/dp/B00PE67H8I/?tag=tolees-21) con un 54.88 % de descuento con precio de oferta de 14.28 EUR (original: 31.65 EUR) en el siguiente enlace!

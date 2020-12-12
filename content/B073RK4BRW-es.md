@@ -17,6 +17,9 @@ comparePrice: 74.75 EUR
 inStock: true
 prodname: 'adidas Cloudfoam Pure Db0694  Zapatillas para Mujer  Negro  Black  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RK4BRW/?tag=tolees-21'
+descuento: '57.74'
+titulo: 'adidas Cloudfoam Pure Db0694  Zapatillas'
 ---
 
 Ahora mismo tienes [adidas Cloudfoam Pure Db0694  Zapatillas para Mujer  Negro  Black  40 EU](https://www.amazon.es/dp/B073RK4BRW/?tag=tolees-21) a 31.59 EUR (original: 74.75 EUR) (57.74 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Pepe Jeans Saturn  Vaqueros para Mujer  Negro  Black Used Wa2   32W / 32L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XNZNC5J/?tag=tolees-21'
+descuento: '31.51'
+titulo: 'Pepe Jeans Saturn  Vaqueros para Mujer  '
 ---
 
 Ahora mismo tienes [Pepe Jeans Saturn  Vaqueros para Mujer  Negro  Black Used Wa2   32W / 32L](https://www.amazon.es/dp/B06XNZNC5J/?tag=tolees-21) a 67.81 EUR (original: 99 EUR) (31.51 %  de descuento) en el siguiente enlace!

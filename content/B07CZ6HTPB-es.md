@@ -17,6 +17,9 @@ comparePrice: 53.93 EUR
 inStock: true
 prodname: 'Asics Fuzetora Twist  Zapatillas de Deporte para Mujer  Gris  Mid Grey/White 020   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ6HTPB/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Asics Fuzetora Twist  Zapatillas de Depo'
 ---
 
 Está [Asics Fuzetora Twist  Zapatillas de Deporte para Mujer  Gris  Mid Grey/White 020   36 EU](https://www.amazon.es/dp/B07CZ6HTPB/?tag=tolees-21) con 50.03 de descuento por 26.95 EUR (original: 53.93 EUR) en el siguiente enlace!

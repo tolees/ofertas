@@ -17,6 +17,9 @@ comparePrice: 36.75 EUR
 inStock: true
 prodname: 'DDR3 4 GB 1600MHZ GOODRAM 512X8 CL11 SR'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HNFPFJQ/?tag=tolees-21'
+descuento: '42.86'
+titulo: 'DDR3 4 GB 1600MHZ GOODRAM 512X8 CL11 SR'
 ---
 
 Tienes [DDR3 4 GB 1600MHZ GOODRAM 512X8 CL11 SR](https://www.amazon.es/dp/B00HNFPFJQ/?tag=tolees-21) con un 42.86 % de descuento con precio de oferta de 21 EUR (original: 36.75 EUR) en el siguiente enlace!

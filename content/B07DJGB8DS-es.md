@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 42mo006  Zapatillas para Hombre  Marrón  Cafe 320   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJGB8DS/?tag=tolees-21'
+descuento: '43.62'
+titulo: 'Dockers by Gerli 42mo006  Zapatillas par'
 ---
 
 Tienes [Dockers by Gerli 42mo006  Zapatillas para Hombre  Marrón  Cafe 320   40 EU](https://www.amazon.es/dp/B07DJGB8DS/?tag=tolees-21) con un 43.62 % de descuento con precio de oferta de 28.16 EUR (original: 49.95 EUR) en el siguiente enlace!

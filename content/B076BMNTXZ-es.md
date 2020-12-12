@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Silla de Oficina  IntimaTe WM Heart Silla Giratoria de Oficina Silla Ergonómica de Escritorio de Malla con Reposacabezas Mecanismo Sincronizado Altura Ajustable y Apoyabrazos ajustables  Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076BMNTXZ/?tag=tolees-21'
+descuento: '46.93'
+titulo: 'Silla de Oficina  IntimaTe WM Heart Sill'
 ---
 
 Está [Silla de Oficina  IntimaTe WM Heart Silla Giratoria de Oficina Silla Ergonómica de Escritorio de Malla con Reposacabezas Mecanismo Sincronizado Altura Ajustable y Apoyabrazos ajustables  Gris](https://www.amazon.es/dp/B076BMNTXZ/?tag=tolees-21) con 46.93 de descuento por 68.99 EUR (original: 129.99 EUR) en el siguiente enlace!

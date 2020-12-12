@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'ESPRIT Kajal LU Bootie  Botas Chukka para Mujer  Azul  400 navy400 Navy   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HY20COU/?tag=tolees-21'
+descuento: '76.89'
+titulo: 'ESPRIT Kajal LU Bootie  Botas Chukka par'
 ---
 
 Tienes [ESPRIT Kajal LU Bootie  Botas Chukka para Mujer  Azul  400 navy400 Navy   38 EU](https://www.amazon.es/dp/B01HY20COU/?tag=tolees-21) con un 76.89 % de descuento con precio de oferta de 20.8 EUR (original: 89.99 EUR) en el siguiente enlace!

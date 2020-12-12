@@ -17,6 +17,9 @@ comparePrice: 3.99 EUR
 inStock: true
 prodname: 'Sandalias Mujer Verano 2019 SHOBDW Zapatillas En Oferta Chanclas Mujer Sandalias con Chanclas Sexy para El Verano Bohemian Muffin Slope con Sandalias Oro EU38 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07T14LVS7/?tag=tolees-21'
+descuento: '50.13'
+titulo: 'Sandalias Mujer Verano 2019 SHOBDW Zapat'
 ---
 
 Está [Sandalias Mujer Verano 2019 SHOBDW Zapatillas En Oferta Chanclas Mujer Sandalias con Chanclas Sexy para El Verano Bohemian Muffin Slope con Sandalias Oro EU38 ](https://www.amazon.es/dp/B07T14LVS7/?tag=tolees-21) con 50.13 de descuento por 1.99 EUR (original: 3.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Diesel Sleenker L.32 Trousers Tejanos  32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGQYR4K/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Diesel Sleenker L.32 Trousers Tejanos  3'
 ---
 
 Ahora mismo tienes [Diesel Sleenker L.32 Trousers Tejanos  32 ](https://www.amazon.es/dp/B07KGQYR4K/?tag=tolees-21) a 65 EUR (original: 130 EUR) (50.00 %  de descuento) en el siguiente enlace!

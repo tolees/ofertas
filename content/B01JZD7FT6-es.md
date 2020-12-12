@@ -17,6 +17,9 @@ comparePrice: 41.95 EUR
 inStock: true
 prodname: 'BOSS Trunk CO/EL Bóxer  Azul  Open Blue 487   Small  Pack de 3 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JZD7FT6/?tag=tolees-21'
+descuento: '26.22'
+titulo: 'BOSS Trunk CO/EL Bóxer  Azul  Open Blue '
 ---
 
 Ahora mismo tienes [BOSS Trunk CO/EL Bóxer  Azul  Open Blue 487   Small  Pack de 3 para Hombre](https://www.amazon.es/dp/B01JZD7FT6/?tag=tolees-21) a 30.95 EUR (original: 41.95 EUR) (26.22 %  de descuento) en el siguiente enlace!

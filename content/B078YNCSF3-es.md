@@ -17,6 +17,9 @@ comparePrice: 32 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 111389 Pantalones Cortos   Grigio Melange Nero 57720   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078YNCSF3/?tag=tolees-21'
+descuento: '44.03'
+titulo: 'Emporio Armani Underwear 111389 Pantalon'
 ---
 
 Tienes [Emporio Armani Underwear 111389 Pantalones Cortos   Grigio Melange Nero 57720   Large para Hombre](https://www.amazon.es/dp/B078YNCSF3/?tag=tolees-21) con un 44.03 % de descuento con precio de oferta de 17.91 EUR (original: 32 EUR) en el siguiente enlace!

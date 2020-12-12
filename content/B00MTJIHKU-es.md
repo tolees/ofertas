@@ -17,6 +17,9 @@ comparePrice: 19.5 EUR
 inStock: true
 prodname: 'NIVEA Stress Protect 48 horas antitranspirante 150 ml - Paquete de 6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MTJIHKU/?tag=tolees-21'
+descuento: '45.69'
+titulo: 'NIVEA Stress Protect 48 horas antitransp'
 ---
 
 Tienes [NIVEA Stress Protect 48 horas antitranspirante 150 ml - Paquete de 6](https://www.amazon.es/dp/B00MTJIHKU/?tag=tolees-21) con un 45.69 % de descuento con precio de oferta de 10.59 EUR (original: 19.5 EUR) en el siguiente enlace!

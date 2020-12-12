@@ -17,6 +17,9 @@ comparePrice: 9.9 EUR
 inStock: true
 prodname: 'XAED - Calcetines de esquí profesional ergonómicos para mujer  35/37  negro/gris '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076BXLHQN/?tag=tolees-21'
+descuento: '48.18'
+titulo: 'XAED - Calcetines de esquí profesional e'
 ---
 
 Está [XAED - Calcetines de esquí profesional ergonómicos para mujer  35/37  negro/gris ](https://www.amazon.es/dp/B076BXLHQN/?tag=tolees-21) con 48.18 de descuento por 5.13 EUR (original: 9.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 131 EUR
 inStock: true
 prodname: 'Nike W Air Zoom Fearless FK 2  Zapatillas de Cross para Mujer   Black/White 001   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FYTIVJ4/?tag=tolees-21'
+descuento: '65.40'
+titulo: 'Nike W Air Zoom Fearless FK 2  Zapatilla'
 ---
 
 Está [Nike W Air Zoom Fearless FK 2  Zapatillas de Cross para Mujer   Black/White 001   38.5 EU](https://www.amazon.es/dp/B00FYTIVJ4/?tag=tolees-21) con 65.40 de descuento por 45.33 EUR (original: 131 EUR) en el siguiente enlace!

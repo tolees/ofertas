@@ -17,6 +17,9 @@ comparePrice: 144.99 EUR
 inStock: true
 prodname: 'Philips HX6971/59 - Cepillo de dientes eléctrico  31.000 movimientos/minuto  higienizador rayos UV con cargador  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZGEPEB/?tag=tolees-21'
+descuento: '38.62'
+titulo: 'Philips HX6971/59 - Cepillo de dientes e'
 ---
 
 Está [Philips HX6971/59 - Cepillo de dientes eléctrico  31.000 movimientos/minuto  higienizador rayos UV con cargador  color negro](https://www.amazon.es/dp/B01MZGEPEB/?tag=tolees-21) con 38.62 de descuento por 89 EUR (original: 144.99 EUR) en el siguiente enlace!

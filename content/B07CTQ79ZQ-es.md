@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Under Armour Aura Trainer  Zapatillas Deportivas para Interior para Mujer  Gris Orange Dream/Mod Gray 101  40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTQ79ZQ/?tag=tolees-21'
+descuento: '44.69'
+titulo: 'Under Armour Aura Trainer  Zapatillas De'
 ---
 
 Ahora mismo tienes [Under Armour Aura Trainer  Zapatillas Deportivas para Interior para Mujer  Gris Orange Dream/Mod Gray 101  40.5 EU](https://www.amazon.es/dp/B07CTQ79ZQ/?tag=tolees-21) a 35.95 EUR (original: 65 EUR) (44.69 %  de descuento) en el siguiente enlace!

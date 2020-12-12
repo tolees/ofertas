@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'HUGO Erriko Camisa  Blanco  Open White 199   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079ZMMMG6/?tag=tolees-21'
+descuento: '69.38'
+titulo: 'HUGO Erriko Camisa  Blanco  Open White 1'
 ---
 
 Está [HUGO Erriko Camisa  Blanco  Open White 199   XX-Large para Hombre](https://www.amazon.es/dp/B079ZMMMG6/?tag=tolees-21) con 69.38 de descuento por 27.54 EUR (original: 89.95 EUR) en el siguiente enlace!

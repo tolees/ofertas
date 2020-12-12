@@ -17,6 +17,9 @@ comparePrice: 598.99 EUR
 inStock: true
 prodname: '8Bitdo N30 2 Wireless Controller Pro para Android / iOS / PC / Mac'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D3Q85RQ/?tag=tolees-21'
+descuento: '93.80'
+titulo: '8Bitdo N30 2 Wireless Controller Pro par'
 ---
 
 Ahora mismo tienes [8Bitdo N30 2 Wireless Controller Pro para Android / iOS / PC / Mac](https://www.amazon.es/dp/B07D3Q85RQ/?tag=tolees-21) a 37.11 EUR (original: 598.99 EUR) (93.80 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Avengers AD-AV11916 2018 Bolsa Escolar  22 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DH4ZQSB/?tag=tolees-21'
+descuento: '52.32'
+titulo: 'Avengers AD-AV11916 2018 Bolsa Escolar  '
 ---
 
 Ahora mismo tienes [Avengers AD-AV11916 2018 Bolsa Escolar  22 cm](https://www.amazon.es/dp/B07DH4ZQSB/?tag=tolees-21) a 8.1 EUR (original: 16.99 EUR) (52.32 %  de descuento) en el siguiente enlace!

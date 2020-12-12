@@ -17,6 +17,9 @@ comparePrice: 69.87 EUR
 inStock: true
 prodname: 'Cross Jeans Pantalón Vaquero Adriana Skinny W26/L34 Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004QS91BG/?tag=tolees-21'
+descuento: '86.20'
+titulo: 'Cross Jeans Pantalón Vaquero Adriana Ski'
 ---
 
 Ahora mismo tienes [Cross Jeans Pantalón Vaquero Adriana Skinny W26/L34 Azul](https://www.amazon.es/dp/B004QS91BG/?tag=tolees-21) a 9.64 EUR (original: 69.87 EUR) (86.20 %  de descuento) en el siguiente enlace!

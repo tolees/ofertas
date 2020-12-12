@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'American Tourister Soundbox - Spinner Small Expandable Equipaje de Mano  55 cm  41 Liters  Rosa  Pearl Pink/Gold '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K6XNHSP/?tag=tolees-21'
+descuento: '31.65'
+titulo: 'American Tourister Soundbox - Spinner Sm'
 ---
 
 Está [American Tourister Soundbox - Spinner Small Expandable Equipaje de Mano  55 cm  41 Liters  Rosa  Pearl Pink/Gold ](https://www.amazon.es/dp/B07K6XNHSP/?tag=tolees-21) con 31.65 de descuento por 95 EUR (original: 139 EUR) en el siguiente enlace!

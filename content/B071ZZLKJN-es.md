@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Police Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 14385JSTR/62'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071ZZLKJN/?tag=tolees-21'
+descuento: '42.38'
+titulo: 'Police Reloj Análogo clásico para Hombre'
 ---
 
 Ahora mismo tienes [Police Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 14385JSTR/62](https://www.amazon.es/dp/B071ZZLKJN/?tag=tolees-21) a 68.57 EUR (original: 119 EUR) (42.38 %  de descuento) en el siguiente enlace!

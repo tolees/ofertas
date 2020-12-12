@@ -17,6 +17,9 @@ comparePrice: 92.98 EUR
 inStock: true
 prodname: 'Underberg The Rheinberg Herbal Digestive Licor 30 Bottles Pack - 90 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MKGMX4M/?tag=tolees-21'
+descuento: '63.91'
+titulo: 'Underberg The Rheinberg Herbal Digestive'
 ---
 
 Ahora mismo tienes [Underberg The Rheinberg Herbal Digestive Licor 30 Bottles Pack - 90 Unidades](https://www.amazon.es/dp/B07MKGMX4M/?tag=tolees-21) a 33.56 EUR (original: 92.98 EUR) (63.91 %  de descuento) en el siguiente enlace!

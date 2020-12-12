@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'Asics Gel-Kayano 24  Zapatillas de Running Hombre  Negro  Black/Phantom/White 9016   43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071Z3Z1YZ/?tag=tolees-21'
+descuento: '36.93'
+titulo: 'Asics Gel-Kayano 24  Zapatillas de Runni'
 ---
 
 Tienes [Asics Gel-Kayano 24  Zapatillas de Running Hombre  Negro  Black/Phantom/White 9016   43.5 EU](https://www.amazon.es/dp/B071Z3Z1YZ/?tag=tolees-21) con un 36.93 % de descuento con precio de oferta de 113.53 EUR (original: 180 EUR) en el siguiente enlace!

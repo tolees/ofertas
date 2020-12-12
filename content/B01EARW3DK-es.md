@@ -17,6 +17,9 @@ comparePrice: 5.99 EUR
 inStock: true
 prodname: 'Berberana Carta Oro Reserva D.O Rioja Vino tinto - 750 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EARW3DK/?tag=tolees-21'
+descuento: '43.24'
+titulo: 'Berberana Carta Oro Reserva D.O Rioja Vi'
 ---
 
 Está [Berberana Carta Oro Reserva D.O Rioja Vino tinto - 750 ml](https://www.amazon.es/dp/B01EARW3DK/?tag=tolees-21) con 43.24 de descuento por 3.4 EUR (original: 5.99 EUR) en el siguiente enlace!

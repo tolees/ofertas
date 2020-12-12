@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma 4Keeps Bra M Sujetador Deportivo  Mujer  Negro Black-Cat  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DTWQTX6/?tag=tolees-21'
+descuento: '41.00'
+titulo: 'Puma 4Keeps Bra M Sujetador Deportivo  M'
 ---
 
 Está [Puma 4Keeps Bra M Sujetador Deportivo  Mujer  Negro Black-Cat  M](https://www.amazon.es/dp/B07DTWQTX6/?tag=tolees-21) con 41.00 de descuento por 17.67 EUR (original: 29.95 EUR) en el siguiente enlace!

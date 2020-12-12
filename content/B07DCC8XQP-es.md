@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Sirena  Zapatillas para Mujer  Blanco White-Pale Pink  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCC8XQP/?tag=tolees-21'
+descuento: '59.59'
+titulo: 'Puma Sirena  Zapatillas para Mujer  Blan'
 ---
 
 Tienes [Puma Sirena  Zapatillas para Mujer  Blanco White-Pale Pink  39 EU](https://www.amazon.es/dp/B07DCC8XQP/?tag=tolees-21) con un 59.59 % de descuento con precio de oferta de 28.27 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Adidas Adilette Aqua  Zapatos de Playa y Piscina Unisex Adulto  Rosa Aero S18/Aero Pink S18  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GBD4HL5/?tag=tolees-21'
+descuento: '29.82'
+titulo: 'Adidas Adilette Aqua  Zapatos de Playa y'
 ---
 
 Está [Adidas Adilette Aqua  Zapatos de Playa y Piscina Unisex Adulto  Rosa Aero S18/Aero Pink S18  43 EU](https://www.amazon.es/dp/B07GBD4HL5/?tag=tolees-21) con 29.82 de descuento por 14 EUR (original: 19.95 EUR) en el siguiente enlace!

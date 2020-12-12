@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre Circular Crew sudadera Manga Larga  Azul  Black Iris 002  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HH4HRRS/?tag=tolees-21'
+descuento: '65.81'
+titulo: 'Tommy Jeans Hombre Circular Crew sudader'
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre Circular Crew sudadera Manga Larga  Azul  Black Iris 002  Medium](https://www.amazon.es/dp/B07HH4HRRS/?tag=tolees-21) a 25.64 EUR (original: 75 EUR) (65.81 %  de descuento) en el siguiente enlace!

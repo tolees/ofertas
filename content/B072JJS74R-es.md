@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'AFAITH Impermeable Selfie palo de aleación de aluminio Hand Grip Telescópico Handheld Monopod para GoPro Hero 4/5/6/7  iPhone 7 / 7 Plus / 6s Plus / 6s / 6  Samsung Galaxy S8 S7 and Smartphones GP073'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072JJS74R/?tag=tolees-21'
+descuento: '26.93'
+titulo: 'AFAITH Impermeable Selfie palo de aleaci'
 ---
 
 Ahora mismo tienes [AFAITH Impermeable Selfie palo de aleación de aluminio Hand Grip Telescópico Handheld Monopod para GoPro Hero 4/5/6/7  iPhone 7 / 7 Plus / 6s Plus / 6s / 6  Samsung Galaxy S8 S7 and Smartphones GP073](https://www.amazon.es/dp/B072JJS74R/?tag=tolees-21) a 18.99 EUR (original: 25.99 EUR) (26.93 %  de descuento) en el siguiente enlace!

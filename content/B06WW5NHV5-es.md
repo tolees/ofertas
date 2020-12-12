@@ -17,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'Discovery DP071 - Bicicleta Montaña Mountainbike 26" B.T.T. con amortiguación. Cambio fricción  18 Velocidades. para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WW5NHV5/?tag=tolees-21'
+descuento: '33.01'
+titulo: 'Discovery DP071 - Bicicleta Montaña Moun'
 ---
 
 Está [Discovery DP071 - Bicicleta Montaña Mountainbike 26" B.T.T. con amortiguación. Cambio fricción  18 Velocidades. para Hombre](https://www.amazon.es/dp/B06WW5NHV5/?tag=tolees-21) con 33.01 de descuento por 113.87 EUR (original: 169.99 EUR) en el siguiente enlace!

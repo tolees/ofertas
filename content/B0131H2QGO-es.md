@@ -17,6 +17,9 @@ comparePrice: 71.75 EUR
 inStock: true
 prodname: 'MSV SUPLEMENTO WC  Polietileno  Blanco  39x38x15 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0131H2QGO/?tag=tolees-21'
+descuento: '58.26'
+titulo: 'MSV SUPLEMENTO WC  Polietileno  Blanco  '
 ---
 
 Está [MSV SUPLEMENTO WC  Polietileno  Blanco  39x38x15 cm](https://www.amazon.es/dp/B0131H2QGO/?tag=tolees-21) con 58.26 de descuento por 29.95 EUR (original: 71.75 EUR) en el siguiente enlace!

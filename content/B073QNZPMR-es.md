@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Tile Combo Pack - Pack Tile Sport y Tile Style. Buscador de Llaves  de teléfonos o Cualquier Cosa - Pack de 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QNZPMR/?tag=tolees-21'
+descuento: '35.01'
+titulo: 'Tile Combo Pack - Pack Tile Sport y Tile'
 ---
 
 Está [Tile Combo Pack - Pack Tile Sport y Tile Style. Buscador de Llaves  de teléfonos o Cualquier Cosa - Pack de 2](https://www.amazon.es/dp/B073QNZPMR/?tag=tolees-21) con 35.01 de descuento por 38.99 EUR (original: 59.99 EUR) en el siguiente enlace!

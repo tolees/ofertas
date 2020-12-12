@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Superstar Foundation  Zapatillas para Hombre  Negro Footwear White/Core Black 0  40 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00RLWJNC6/?tag=tolees-21'
+descuento: '47.96'
+titulo: 'adidas Superstar Foundation  Zapatillas '
 ---
 
 Tienes [adidas Superstar Foundation  Zapatillas para Hombre  Negro Footwear White/Core Black 0  40 2/3 EU](https://www.amazon.es/dp/B00RLWJNC6/?tag=tolees-21) con un 47.96 % de descuento con precio de oferta de 52.01 EUR (original: 99.95 EUR) en el siguiente enlace!

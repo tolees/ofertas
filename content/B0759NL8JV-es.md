@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Komuter Walk  Zapatos de Cordones Derby para Hombre  Marrón  British Tan-   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0759NL8JV/?tag=tolees-21'
+descuento: '47.05'
+titulo: 'Clarks Komuter Walk  Zapatos de Cordones'
 ---
 
 Ahora mismo tienes [Clarks Komuter Walk  Zapatos de Cordones Derby para Hombre  Marrón  British Tan-   40 EU](https://www.amazon.es/dp/B0759NL8JV/?tag=tolees-21) a 58.25 EUR (original: 110 EUR) (47.05 %  de descuento) en el siguiente enlace!

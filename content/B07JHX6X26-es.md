@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma ESS Logo Leggins  Mujer  Cotton Black/Silver Metallic  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHX6X26/?tag=tolees-21'
+descuento: '43.41'
+titulo: 'Puma ESS Logo Leggins  Mujer  Cotton Bla'
 ---
 
 Tienes [Puma ESS Logo Leggins  Mujer  Cotton Black/Silver Metallic  L](https://www.amazon.es/dp/B07JHX6X26/?tag=tolees-21) con un 43.41 % de descuento con precio de oferta de 16.95 EUR (original: 29.95 EUR) en el siguiente enlace!

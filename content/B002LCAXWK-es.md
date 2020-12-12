@@ -17,6 +17,9 @@ comparePrice: 96.79 EUR
 inStock: true
 prodname: 'Bosch Home and Garden 0.603.664.000 Nivel láser para alicatados  1.5 V  Negro  Verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002LCAXWK/?tag=tolees-21'
+descuento: '42.71'
+titulo: 'Bosch Home and Garden 0.603.664.000 Nive'
 ---
 
 Ahora mismo tienes [Bosch Home and Garden 0.603.664.000 Nivel láser para alicatados  1.5 V  Negro  Verde](https://www.amazon.es/dp/B002LCAXWK/?tag=tolees-21) a 55.45 EUR (original: 96.79 EUR) (42.71 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Hummel Aerocharge HB 200 2.0 Jr  Zapatillas de Deporte Interior Unisex Niños  Azul  Poseidon 8616   29 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FK16LRX/?tag=tolees-21'
+descuento: '61.57'
+titulo: 'Hummel Aerocharge HB 200 2.0 Jr  Zapatil'
 ---
 
 Ahora mismo tienes [Hummel Aerocharge HB 200 2.0 Jr  Zapatillas de Deporte Interior Unisex Niños  Azul  Poseidon 8616   29 EU](https://www.amazon.es/dp/B07FK16LRX/?tag=tolees-21) a 23.04 EUR (original: 59.95 EUR) (61.57 %  de descuento) en el siguiente enlace!

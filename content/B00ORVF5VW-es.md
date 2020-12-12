@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Joma Combi - Malla larga para mujer  color negro  talla XXS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ORVF5VW/?tag=tolees-21'
+descuento: '35.09'
+titulo: 'Joma Combi - Malla larga para mujer  col'
 ---
 
 Ahora mismo tienes [Joma Combi - Malla larga para mujer  color negro  talla XXS](https://www.amazon.es/dp/B00ORVF5VW/?tag=tolees-21) a 12.95 EUR (original: 19.95 EUR) (35.09 %  de descuento) en el siguiente enlace!

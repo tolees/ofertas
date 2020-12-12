@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Nike Vapor 12 Pro NJR FG  Zapatillas de Fútbol Unisex Adulto   Amarillo/White/Black 710   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCD91N4/?tag=tolees-21'
+descuento: '70.04'
+titulo: 'Nike Vapor 12 Pro NJR FG  Zapatillas de '
 ---
 
 Tienes [Nike Vapor 12 Pro NJR FG  Zapatillas de Fútbol Unisex Adulto   Amarillo/White/Black 710   39 EU](https://www.amazon.es/dp/B07DCD91N4/?tag=tolees-21) con un 70.04 % de descuento con precio de oferta de 38.95 EUR (original: 130 EUR) en el siguiente enlace!

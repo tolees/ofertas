@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Camper Peu Pista  Zapatillas altas para Mujer  Negro  Black 001   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075GXJ4KW/?tag=tolees-21'
+descuento: '55.46'
+titulo: 'Camper Peu Pista  Zapatillas altas para '
 ---
 
 Está [Camper Peu Pista  Zapatillas altas para Mujer  Negro  Black 001   36 EU](https://www.amazon.es/dp/B075GXJ4KW/?tag=tolees-21) con 55.46 de descuento por 62.36 EUR (original: 140 EUR) en el siguiente enlace!

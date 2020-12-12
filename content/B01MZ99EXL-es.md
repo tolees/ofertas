@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'POP! Vinilo - Games: Tekken: Jin Kazama'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZ99EXL/?tag=tolees-21'
+descuento: '33.54'
+titulo: 'POP! Vinilo - Games: Tekken: Jin Kazama'
 ---
 
 Está [POP! Vinilo - Games: Tekken: Jin Kazama](https://www.amazon.es/dp/B01MZ99EXL/?tag=tolees-21) con 33.54 de descuento por 10.6 EUR (original: 15.95 EUR) en el siguiente enlace!

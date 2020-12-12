@@ -17,6 +17,9 @@ comparePrice: 181.5 EUR
 inStock: true
 prodname: 'Dymo LabelWriter 450 Turbo Impresora de etiquetas térmica'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004ASMW86/?tag=tolees-21'
+descuento: '35.79'
+titulo: 'Dymo LabelWriter 450 Turbo Impresora de '
 ---
 
 Tienes [Dymo LabelWriter 450 Turbo Impresora de etiquetas térmica](https://www.amazon.es/dp/B004ASMW86/?tag=tolees-21) con un 35.79 % de descuento con precio de oferta de 116.54 EUR (original: 181.5 EUR) en el siguiente enlace!

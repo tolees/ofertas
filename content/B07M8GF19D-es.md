@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'MTNG 84212  Zapatillas para Hombre  Azul  Cow Suede Bleecker Marino C44812   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8GF19D/?tag=tolees-21'
+descuento: '55.41'
+titulo: 'MTNG 84212  Zapatillas para Hombre  Azul'
 ---
 
 Está [MTNG 84212  Zapatillas para Hombre  Azul  Cow Suede Bleecker Marino C44812   41 EU](https://www.amazon.es/dp/B07M8GF19D/?tag=tolees-21) con 55.41 de descuento por 22.29 EUR (original: 49.99 EUR) en el siguiente enlace!

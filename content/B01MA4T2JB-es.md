@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable A1057-1932-00'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MA4T2JB/?tag=tolees-21'
+descuento: '57.95'
+titulo: 'Nixon Reloj Analógico para Hombre de Cua'
 ---
 
 Está [Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable A1057-1932-00](https://www.amazon.es/dp/B01MA4T2JB/?tag=tolees-21) con 57.95 de descuento por 67.28 EUR (original: 160 EUR) en el siguiente enlace!

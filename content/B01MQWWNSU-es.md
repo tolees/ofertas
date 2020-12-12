@@ -17,6 +17,9 @@ comparePrice: 90.38 EUR
 inStock: true
 prodname: 'Cluse Reloj Analógico para Mujer de Cuarzo con Correa en Cuero CL30031'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MQWWNSU/?tag=tolees-21'
+descuento: '50.12'
+titulo: 'Cluse Reloj Analógico para Mujer de Cuar'
 ---
 
 Está [Cluse Reloj Analógico para Mujer de Cuarzo con Correa en Cuero CL30031](https://www.amazon.es/dp/B01MQWWNSU/?tag=tolees-21) con 50.12 de descuento por 45.08 EUR (original: 90.38 EUR) en el siguiente enlace!

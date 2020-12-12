@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Women s Secret PM Gallon 3Bc  Braguita para Mujer   Varios 98   Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLCSPC2/?tag=tolees-21'
+descuento: '50.15'
+titulo: 'Women s Secret PM Gallon 3Bc  Braguita p'
 ---
 
 Tienes [Women s Secret PM Gallon 3Bc  Braguita para Mujer   Varios 98   Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLCSPC2/?tag=tolees-21) con un 50.15 % de descuento con precio de oferta de 8.47 EUR (original: 16.99 EUR) en el siguiente enlace!

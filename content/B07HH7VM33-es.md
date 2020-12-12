@@ -17,6 +17,9 @@ comparePrice: 40.99 EUR
 inStock: true
 prodname: 'Awenia Zapatero de 5 Estantes Estable Estantería de Zapatos Ajustable para 20-30 Pares de Zapatos  99x28x91CM'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HH7VM33/?tag=tolees-21'
+descuento: '36.59'
+titulo: 'Awenia Zapatero de 5 Estantes Estable Es'
 ---
 
 Ahora mismo tienes [Awenia Zapatero de 5 Estantes Estable Estantería de Zapatos Ajustable para 20-30 Pares de Zapatos  99x28x91CM](https://www.amazon.es/dp/B07HH7VM33/?tag=tolees-21) a 25.99 EUR (original: 40.99 EUR) (36.59 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.3 EUR
 inStock: true
 prodname: 'Reebok CN4815  Zapatillas Infantil  Multicolor  Outdoor/Graphite/Triath Red/Cream Wht/Gu 000   22 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYV99V4/?tag=tolees-21'
+descuento: '44.53'
+titulo: 'Reebok CN4815  Zapatillas Infantil  Mult'
 ---
 
 Ahora mismo tienes [Reebok CN4815  Zapatillas Infantil  Multicolor  Outdoor/Graphite/Triath Red/Cream Wht/Gu 000   22 EU](https://www.amazon.es/dp/B07FYV99V4/?tag=tolees-21) a 19.58 EUR (original: 35.3 EUR) (44.53 %  de descuento) en el siguiente enlace!

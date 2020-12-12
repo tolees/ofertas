@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'KENNETH COLE Brooke  Atado al Tobillo para Mujer  Beige  Latte 261   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MD0GDQP/?tag=tolees-21'
+descuento: '71.65'
+titulo: 'KENNETH COLE Brooke  Atado al Tobillo pa'
 ---
 
 Está [KENNETH COLE Brooke  Atado al Tobillo para Mujer  Beige  Latte 261   38 EU](https://www.amazon.es/dp/B01MD0GDQP/?tag=tolees-21) con 71.65 de descuento por 36.85 EUR (original: 130 EUR) en el siguiente enlace!

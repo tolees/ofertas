@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Under Armour UA Raid SS Camiseta  Hombre  Negro Black/Graphite 001  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KXAD0YU/?tag=tolees-21'
+descuento: '37.53'
+titulo: 'Under Armour UA Raid SS Camiseta  Hombre'
 ---
 
 Tienes [Under Armour UA Raid SS Camiseta  Hombre  Negro Black/Graphite 001  XL](https://www.amazon.es/dp/B00KXAD0YU/?tag=tolees-21) con un 37.53 % de descuento con precio de oferta de 20.61 EUR (original: 32.99 EUR) en el siguiente enlace!

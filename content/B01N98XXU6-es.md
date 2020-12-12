@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Camiseta Nox Granate-M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N98XXU6/?tag=tolees-21'
+descuento: '78.20'
+titulo: 'Camiseta Nox Granate-M'
 ---
 
 Tienes [Camiseta Nox Granate-M](https://www.amazon.es/dp/B01N98XXU6/?tag=tolees-21) con un 78.20 % de descuento con precio de oferta de 5.45 EUR (original: 25 EUR) en el siguiente enlace!

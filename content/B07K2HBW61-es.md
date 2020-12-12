@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'hummel Actus Ml Infant  Zapatillas para Niñas  Rosa  Pale Liliac 3333   19 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2HBW61/?tag=tolees-21'
+descuento: '55.64'
+titulo: 'hummel Actus Ml Infant  Zapatillas para '
 ---
 
 Está [hummel Actus Ml Infant  Zapatillas para Niñas  Rosa  Pale Liliac 3333   19 EU](https://www.amazon.es/dp/B07K2HBW61/?tag=tolees-21) con 55.64 de descuento por 17.72 EUR (original: 39.95 EUR) en el siguiente enlace!

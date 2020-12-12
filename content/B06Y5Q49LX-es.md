@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Pikolinos Segovia W1j_i17  Botas para Mujer  Negro  Black   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y5Q49LX/?tag=tolees-21'
+descuento: '55.33'
+titulo: 'Pikolinos Segovia W1j_i17  Botas para Mu'
 ---
 
 Tienes [Pikolinos Segovia W1j_i17  Botas para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B06Y5Q49LX/?tag=tolees-21) con un 55.33 % de descuento con precio de oferta de 53.16 EUR (original: 119 EUR) en el siguiente enlace!

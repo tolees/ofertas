@@ -17,6 +17,9 @@ comparePrice: 30.79 EUR
 inStock: true
 prodname: 'Gre 90178 - Repelente anti insectos  pastillas de 30g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HAQLF4M/?tag=tolees-21'
+descuento: '53.23'
+titulo: 'Gre 90178 - Repelente anti insectos  pas'
 ---
 
 Está [Gre 90178 - Repelente anti insectos  pastillas de 30g](https://www.amazon.es/dp/B00HAQLF4M/?tag=tolees-21) con 53.23 de descuento por 14.4 EUR (original: 30.79 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans London Brompton Cock  Zapatillas para Mujer  Negro  Black 999   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RFVJ6K/?tag=tolees-21'
+descuento: '63.14'
+titulo: 'Pepe Jeans London Brompton Cock  Zapatil'
 ---
 
 Está [Pepe Jeans London Brompton Cock  Zapatillas para Mujer  Negro  Black 999   40 EU](https://www.amazon.es/dp/B079RFVJ6K/?tag=tolees-21) con 63.14 de descuento por 23.96 EUR (original: 65 EUR) en el siguiente enlace!

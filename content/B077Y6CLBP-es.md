@@ -17,6 +17,9 @@ comparePrice: 32.95 EUR
 inStock: true
 prodname: 'HIKARO Sudadera con Cuello Alto Mujer  Azul  Aqua   38  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y6CLBP/?tag=tolees-21'
+descuento: '62.58'
+titulo: 'HIKARO Sudadera con Cuello Alto Mujer  A'
 ---
 
 Ahora mismo tienes [HIKARO Sudadera con Cuello Alto Mujer  Azul  Aqua   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B077Y6CLBP/?tag=tolees-21) a 12.33 EUR (original: 32.95 EUR) (62.58 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Sweater L/s suéter  Azul  Blue 73c   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ5XLGJ/?tag=tolees-21'
+descuento: '73.78'
+titulo: 'United Colors of Benetton Sweater L/s su'
 ---
 
 Tienes [United Colors of Benetton Sweater L/s suéter  Azul  Blue 73c   Large para Mujer](https://www.amazon.es/dp/B07DJ5XLGJ/?tag=tolees-21) con un 73.78 % de descuento con precio de oferta de 15.72 EUR (original: 59.95 EUR) en el siguiente enlace!

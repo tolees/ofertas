@@ -17,6 +17,9 @@ comparePrice: 379 EUR
 inStock: true
 prodname: 'Invicta 0488 Angel Reloj para Mujer acero inoxidable Cuarzo Esfera blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004IAFDMS/?tag=tolees-21'
+descuento: '66.61'
+titulo: 'Invicta 0488 Angel Reloj para Mujer acer'
 ---
 
 Está [Invicta 0488 Angel Reloj para Mujer acero inoxidable Cuarzo Esfera blanco](https://www.amazon.es/dp/B004IAFDMS/?tag=tolees-21) con 66.61 de descuento por 126.55 EUR (original: 379 EUR) en el siguiente enlace!

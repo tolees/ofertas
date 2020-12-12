@@ -17,6 +17,9 @@ comparePrice: 43.31 EUR
 inStock: true
 prodname: 'Luvion - 20 - Set de Termómetros Digitales Exact 70 Luvion'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00R9F15SK/?tag=tolees-21'
+descuento: '47.01'
+titulo: 'Luvion - 20 - Set de Termómetros Digital'
 ---
 
 Tienes [Luvion - 20 - Set de Termómetros Digitales Exact 70 Luvion](https://www.amazon.es/dp/B00R9F15SK/?tag=tolees-21) con un 47.01 % de descuento con precio de oferta de 22.95 EUR (original: 43.31 EUR) en el siguiente enlace!

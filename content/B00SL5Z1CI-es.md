@@ -17,6 +17,9 @@ comparePrice: 10.9 EUR
 inStock: true
 prodname: 'Lékué Cortador de Galletas  Centimeters'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SL5Z1CI/?tag=tolees-21'
+descuento: '54.59'
+titulo: 'Lékué Cortador de Galletas  Centimeters'
 ---
 
 Tienes [Lékué Cortador de Galletas  Centimeters](https://www.amazon.es/dp/B00SL5Z1CI/?tag=tolees-21) con un 54.59 % de descuento con precio de oferta de 4.95 EUR (original: 10.9 EUR) en el siguiente enlace!

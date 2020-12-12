@@ -17,6 +17,9 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'Puma Sport 3P - Calcetines unisex  Gris  43-46'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0013F7ETG/?tag=tolees-21'
+descuento: '25.53'
+titulo: 'Puma Sport 3P - Calcetines unisex  Gris '
 ---
 
 Ahora mismo tienes [Puma Sport 3P - Calcetines unisex  Gris  43-46](https://www.amazon.es/dp/B0013F7ETG/?tag=tolees-21) a 5.95 EUR (original: 7.99 EUR) (25.53 %  de descuento) en el siguiente enlace!

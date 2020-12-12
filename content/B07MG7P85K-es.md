@@ -17,6 +17,9 @@ comparePrice: 15.8 EUR
 inStock: true
 prodname: 'ARTESANIA CERDA Gorra Premium Mickey  Niños  Gris  M  Tamaño del Fabricante:53 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MG7P85K/?tag=tolees-21'
+descuento: '43.35'
+titulo: 'ARTESANIA CERDA Gorra Premium Mickey  Ni'
 ---
 
 Tienes [ARTESANIA CERDA Gorra Premium Mickey  Niños  Gris  M  Tamaño del Fabricante:53 ](https://www.amazon.es/dp/B07MG7P85K/?tag=tolees-21) con un 43.35 % de descuento con precio de oferta de 8.95 EUR (original: 15.8 EUR) en el siguiente enlace!

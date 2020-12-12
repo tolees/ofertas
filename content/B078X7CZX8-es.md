@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'PIECES Pcingeborg 2/4 Sweat Dress  Vestido para Mujer  Verde  Laurel Wreath  38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078X7CZX8/?tag=tolees-21'
+descuento: '49.09'
+titulo: 'PIECES Pcingeborg 2/4 Sweat Dress  Vesti'
 ---
 
 Tienes [PIECES Pcingeborg 2/4 Sweat Dress  Vestido para Mujer  Verde  Laurel Wreath  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B078X7CZX8/?tag=tolees-21) con un 49.09 % de descuento con precio de oferta de 13.74 EUR (original: 26.99 EUR) en el siguiente enlace!

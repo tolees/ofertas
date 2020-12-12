@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'adidas Nemeziz Messi 18.4 FxG J  Zapatillas de Fútbol para Niños  Rojo Active Red/Silver Met./Football Blue  38 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K18J7SQ/?tag=tolees-21'
+descuento: '46.66'
+titulo: 'adidas Nemeziz Messi 18.4 FxG J  Zapatil'
 ---
 
 Ahora mismo tienes [adidas Nemeziz Messi 18.4 FxG J  Zapatillas de Fútbol para Niños  Rojo Active Red/Silver Met./Football Blue  38 2/3 EU](https://www.amazon.es/dp/B07K18J7SQ/?tag=tolees-21) a 21.31 EUR (original: 39.95 EUR) (46.66 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Tuscany Silver Pendientes de mujer con plata de ley  925/1000  y circonita'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004O0TSUA/?tag=tolees-21'
+descuento: '76.27'
+titulo: 'Tuscany Silver Pendientes de mujer con p'
 ---
 
 Está [Tuscany Silver Pendientes de mujer con plata de ley  925/1000  y circonita](https://www.amazon.es/dp/B004O0TSUA/?tag=tolees-21) con 76.27 de descuento por 11.63 EUR (original: 49 EUR) en el siguiente enlace!

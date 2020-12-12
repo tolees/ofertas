@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko Pop!- Jack Sparrow Figura de Vinilo  colección de Pop  seria Pirates 5  12803 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XGFL1XJ/?tag=tolees-21'
+descuento: '40.76'
+titulo: 'Funko Pop!- Jack Sparrow Figura de Vinil'
 ---
 
 Está [Funko Pop!- Jack Sparrow Figura de Vinilo  colección de Pop  seria Pirates 5  12803 ](https://www.amazon.es/dp/B06XGFL1XJ/?tag=tolees-21) con 40.76 de descuento por 8.88 EUR (original: 14.99 EUR) en el siguiente enlace!

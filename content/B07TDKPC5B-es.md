@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Ogquaton Premium Popular Plástico Artificial Hierba Decoración Acuario Agua y césped Fragmentos Decoración Pecera Tanque de Agua Acuático Jaula para Mascotas Decoración  Verde  Conveniente'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TDKPC5B/?tag=tolees-21'
+descuento: '96.14'
+titulo: 'Ogquaton Premium Popular Plástico Artifi'
 ---
 
 Tienes [Ogquaton Premium Popular Plástico Artificial Hierba Decoración Acuario Agua y césped Fragmentos Decoración Pecera Tanque de Agua Acuático Jaula para Mascotas Decoración  Verde  Conveniente](https://www.amazon.es/dp/B07TDKPC5B/?tag=tolees-21) con un 96.14 % de descuento con precio de oferta de 1.35 EUR (original: 35 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 338.02 EUR
 inStock: true
 prodname: 'Diesel DZ7395 - Reloj para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MSECMPJ/?tag=tolees-21'
+descuento: '26.02'
+titulo: 'Diesel DZ7395 - Reloj para Hombre'
 ---
 
 Está [Diesel DZ7395 - Reloj para Hombre](https://www.amazon.es/dp/B01MSECMPJ/?tag=tolees-21) con 26.02 de descuento por 250.08 EUR (original: 338.02 EUR) en el siguiente enlace!

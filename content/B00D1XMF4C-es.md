@@ -17,6 +17,9 @@ comparePrice: 24.15 EUR
 inStock: true
 prodname: 'Kerastase K Laque Couture 300 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00D1XMF4C/?tag=tolees-21'
+descuento: '52.17'
+titulo: 'Kerastase K Laque Couture 300 ml'
 ---
 
 Ahora mismo tienes [Kerastase K Laque Couture 300 ml](https://www.amazon.es/dp/B00D1XMF4C/?tag=tolees-21) a 11.55 EUR (original: 24.15 EUR) (52.17 %  de descuento) en el siguiente enlace!

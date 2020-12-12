@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour Grade School Charged Rogue  Zapatillas de Running para Niños  Gris  Jet Gray/White/Metallic Silver 100   35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVCTPC2/?tag=tolees-21'
+descuento: '71.06'
+titulo: 'Under Armour Grade School Charged Rogue '
 ---
 
 Tienes [Under Armour Grade School Charged Rogue  Zapatillas de Running para Niños  Gris  Jet Gray/White/Metallic Silver 100   35.5 EU](https://www.amazon.es/dp/B07CVCTPC2/?tag=tolees-21) con un 71.06 % de descuento con precio de oferta de 20.26 EUR (original: 70 EUR) en el siguiente enlace!

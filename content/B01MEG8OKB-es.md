@@ -17,6 +17,9 @@ comparePrice: 45.87 EUR
 inStock: true
 prodname: 'DC Hombre Layle 20 Bañador para Hombre  Hombre  Layle 20  Blue Moon  32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MEG8OKB/?tag=tolees-21'
+descuento: '46.76'
+titulo: 'DC Hombre Layle 20 Bañador para Hombre  '
 ---
 
 Tienes [DC Hombre Layle 20 Bañador para Hombre  Hombre  Layle 20  Blue Moon  32](https://www.amazon.es/dp/B01MEG8OKB/?tag=tolees-21) con un 46.76 % de descuento con precio de oferta de 24.42 EUR (original: 45.87 EUR) en el siguiente enlace!

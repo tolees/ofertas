@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour UA W Charged Escape  Zapatillas de Running para Mujer   Grey 001   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075MPTZGN/?tag=tolees-21'
+descuento: '61.15'
+titulo: 'Under Armour UA W Charged Escape  Zapati'
 ---
 
 Tienes [Under Armour UA W Charged Escape  Zapatillas de Running para Mujer   Grey 001   36 EU](https://www.amazon.es/dp/B075MPTZGN/?tag=tolees-21) con un 61.15 % de descuento con precio de oferta de 31.08 EUR (original: 80 EUR) en el siguiente enlace!

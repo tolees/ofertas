@@ -17,6 +17,9 @@ comparePrice: 21.46 EUR
 inStock: true
 prodname: 'Joma - Fleece Short  Color Royal  Talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OF843AG/?tag=tolees-21'
+descuento: '25.68'
+titulo: 'Joma - Fleece Short  Color Royal  Talla '
 ---
 
 Tienes [Joma - Fleece Short  Color Royal  Talla L](https://www.amazon.es/dp/B00OF843AG/?tag=tolees-21) con un 25.68 % de descuento con precio de oferta de 15.95 EUR (original: 21.46 EUR) en el siguiente enlace!

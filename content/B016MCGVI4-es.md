@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Tom Tailor Denim Vaquero Caqui W31L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016MCGVI4/?tag=tolees-21'
+descuento: '81.71'
+titulo: 'Tom Tailor Denim Vaquero Caqui W31L34'
 ---
 
 Ahora mismo tienes [Tom Tailor Denim Vaquero Caqui W31L34](https://www.amazon.es/dp/B016MCGVI4/?tag=tolees-21) a 14.63 EUR (original: 79.99 EUR) (81.71 %  de descuento) en el siguiente enlace!

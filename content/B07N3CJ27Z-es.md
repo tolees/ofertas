@@ -17,6 +17,9 @@ comparePrice: 51.9 EUR
 inStock: true
 prodname: 'Munich G-3 Kid VCO Glow 970  Zapatillas de Deporte Unisex niño  Plateado  Gris  30 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3CJ27Z/?tag=tolees-21'
+descuento: '52.72'
+titulo: 'Munich G-3 Kid VCO Glow 970  Zapatillas '
 ---
 
 Está [Munich G-3 Kid VCO Glow 970  Zapatillas de Deporte Unisex niño  Plateado  Gris  30 EU](https://www.amazon.es/dp/B07N3CJ27Z/?tag=tolees-21) con 52.72 de descuento por 24.54 EUR (original: 51.9 EUR) en el siguiente enlace!

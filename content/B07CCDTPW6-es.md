@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjeholmen Sweat Pants Noos  Pantalones para Hombre  Negro  Black Fit:Comfort Fit  W40  Talla del Fabricante: XX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CCDTPW6/?tag=tolees-21'
+descuento: '52.18'
+titulo: 'JACK & JONES Jjeholmen Sweat Pants Noos '
 ---
 
 Está [JACK & JONES Jjeholmen Sweat Pants Noos  Pantalones para Hombre  Negro  Black Fit:Comfort Fit  W40  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B07CCDTPW6/?tag=tolees-21) con 52.18 de descuento por 11.95 EUR (original: 24.99 EUR) en el siguiente enlace!

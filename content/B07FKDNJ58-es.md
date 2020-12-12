@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'The North Face Y Mudder Trucker Gorra de Camioner  Unisex-Youth  Verde/Negro  New Taupe Green/TNF Black   Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKDNJ58/?tag=tolees-21'
+descuento: '49.43'
+titulo: 'The North Face Y Mudder Trucker Gorra de'
 ---
 
 Ahora mismo tienes [The North Face Y Mudder Trucker Gorra de Camioner  Unisex-Youth  Verde/Negro  New Taupe Green/TNF Black   Talla única](https://www.amazon.es/dp/B07FKDNJ58/?tag=tolees-21) a 14.16 EUR (original: 28 EUR) (49.43 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Birkenstock Madrid Birko-Flor  Mules para Mujer  Beige Shiny Snake Cream  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XG16TR8/?tag=tolees-21'
+descuento: '41.85'
+titulo: 'Birkenstock Madrid Birko-Flor  Mules par'
 ---
 
 Tienes [Birkenstock Madrid Birko-Flor  Mules para Mujer  Beige Shiny Snake Cream  39 EU](https://www.amazon.es/dp/B00XG16TR8/?tag=tolees-21) con un 41.85 % de descuento con precio de oferta de 37.8 EUR (original: 65 EUR) en el siguiente enlace!

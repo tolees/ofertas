@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Soft doble par Vibrador Punto G silicona vibratoren con clítoris Estimulación anale estimular vibratoren 9 Frecuencia de vibración que clítoris y G de punto masturbación'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNVTJH7/?tag=tolees-21'
+descuento: '35.01'
+titulo: 'Soft doble par Vibrador Punto G silicona'
 ---
 
 Ahora mismo tienes [Soft doble par Vibrador Punto G silicona vibratoren con clítoris Estimulación anale estimular vibratoren 9 Frecuencia de vibración que clítoris y G de punto masturbación](https://www.amazon.es/dp/B07DNVTJH7/?tag=tolees-21) a 25.99 EUR (original: 39.99 EUR) (35.01 %  de descuento) en el siguiente enlace!

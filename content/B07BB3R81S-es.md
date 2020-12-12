@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face M C Camiseta de Cuello Redondo Reaxion Amp  Hombre  Botanical Garden Green Heather  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB3R81S/?tag=tolees-21'
+descuento: '38.13'
+titulo: 'The North Face M C Camiseta de Cuello Re'
 ---
 
 Está [The North Face M C Camiseta de Cuello Redondo Reaxion Amp  Hombre  Botanical Garden Green Heather  S](https://www.amazon.es/dp/B07BB3R81S/?tag=tolees-21) con 38.13 de descuento por 18.56 EUR (original: 30 EUR) en el siguiente enlace!

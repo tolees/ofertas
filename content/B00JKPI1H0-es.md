@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Prisms Erotic Glass Sattva Bunny Consolador - 486 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JKPI1H0/?tag=tolees-21'
+descuento: '62.87'
+titulo: 'Prisms Erotic Glass Sattva Bunny Consola'
 ---
 
 Está [Prisms Erotic Glass Sattva Bunny Consolador - 486 gr](https://www.amazon.es/dp/B00JKPI1H0/?tag=tolees-21) con 62.87 de descuento por 11.12 EUR (original: 29.95 EUR) en el siguiente enlace!

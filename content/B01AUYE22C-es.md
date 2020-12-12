@@ -17,6 +17,9 @@ comparePrice: 90.95 EUR
 inStock: true
 prodname: 'Vive Enoki Vibrador Rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AUYE22C/?tag=tolees-21'
+descuento: '48.40'
+titulo: 'Vive Enoki Vibrador Rosa'
 ---
 
 Ahora mismo tienes [Vive Enoki Vibrador Rosa](https://www.amazon.es/dp/B01AUYE22C/?tag=tolees-21) a 46.93 EUR (original: 90.95 EUR) (48.40 %  de descuento) en el siguiente enlace!

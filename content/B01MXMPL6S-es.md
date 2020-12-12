@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Birkenstock Arizona EVA  Sandalias de Punta Descubierta para Mujer  Plateado Metallic Silver 91  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXMPL6S/?tag=tolees-21'
+descuento: '45.90'
+titulo: 'Birkenstock Arizona EVA  Sandalias de Pu'
 ---
 
 Está [Birkenstock Arizona EVA  Sandalias de Punta Descubierta para Mujer  Plateado Metallic Silver 91  40 EU](https://www.amazon.es/dp/B01MXMPL6S/?tag=tolees-21) con 45.90 de descuento por 21.64 EUR (original: 40 EUR) en el siguiente enlace!

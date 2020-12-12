@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'GORE WEAR C3 Mallas de ciclismo cortas para hombre con badana  XL  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RGGY6M/?tag=tolees-21'
+descuento: '39.64'
+titulo: 'GORE WEAR C3 Mallas de ciclismo cortas p'
 ---
 
 Tienes [GORE WEAR C3 Mallas de ciclismo cortas para hombre con badana  XL  negro](https://www.amazon.es/dp/B075RGGY6M/?tag=tolees-21) con un 39.64 % de descuento con precio de oferta de 30.15 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 32 EUR
 inStock: true
 prodname: 'find. Merino Wool Mix Turtle Neck suéter Gris Charcoal Marl  54  Talla del Fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQFXCRV/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'find. Merino Wool Mix Turtle Neck suéter'
 ---
 
 Está [find. Merino Wool Mix Turtle Neck suéter Gris Charcoal Marl  54  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07FQFXCRV/?tag=tolees-21) con 30.00 de descuento por 22.4 EUR (original: 32 EUR) en el siguiente enlace!

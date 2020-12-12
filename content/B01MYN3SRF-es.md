@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Helly Hansen Crewline Qd Short  Hombre  Azul Marino  Navy   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYN3SRF/?tag=tolees-21'
+descuento: '53.61'
+titulo: 'Helly Hansen Crewline Qd Short  Hombre  '
 ---
 
 Está [Helly Hansen Crewline Qd Short  Hombre  Azul Marino  Navy   M](https://www.amazon.es/dp/B01MYN3SRF/?tag=tolees-21) con 53.61 de descuento por 32.47 EUR (original: 70 EUR) en el siguiente enlace!

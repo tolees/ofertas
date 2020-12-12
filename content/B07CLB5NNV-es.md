@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Scotch & Soda Classic Boxer Short In Printed Stripe Solid Melange  Bóxer Hombre   Combo C 0219   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CLB5NNV/?tag=tolees-21'
+descuento: '45.14'
+titulo: 'Scotch & Soda Classic Boxer Short In Pri'
 ---
 
 Tienes [Scotch & Soda Classic Boxer Short In Printed Stripe Solid Melange  Bóxer Hombre   Combo C 0219   Small](https://www.amazon.es/dp/B07CLB5NNV/?tag=tolees-21) con un 45.14 % de descuento con precio de oferta de 16.43 EUR (original: 29.95 EUR) en el siguiente enlace!

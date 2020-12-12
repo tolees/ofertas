@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Awenia Calcetines de Compresión Deportivos Medias Transpirables para Hombres y Mujeres  Evitan el Sudor y la Fatiga  Protegen Las Articulaciones del Pie y la Pantorrilla  para Crossfit Fútbol  L/XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GPS2S6W/?tag=tolees-21'
+descuento: '45.02'
+titulo: 'Awenia Calcetines de Compresión Deportiv'
 ---
 
 Tienes [Awenia Calcetines de Compresión Deportivos Medias Transpirables para Hombres y Mujeres  Evitan el Sudor y la Fatiga  Protegen Las Articulaciones del Pie y la Pantorrilla  para Crossfit Fútbol  L/XL](https://www.amazon.es/dp/B07GPS2S6W/?tag=tolees-21) con un 45.02 % de descuento con precio de oferta de 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

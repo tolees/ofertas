@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Ymiko Fieltro Letter Board  Tablero de Letras  Fieltro Negro con 423 Letras y Números Blancos - Madera 25 x 25 x 2 cm  con 1 Bolsas de Almacenamiento  Diseño Retro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2N69MN/?tag=tolees-21'
+descuento: '52.01'
+titulo: 'Ymiko Fieltro Letter Board  Tablero de L'
 ---
 
 Tienes [Ymiko Fieltro Letter Board  Tablero de Letras  Fieltro Negro con 423 Letras y Números Blancos - Madera 25 x 25 x 2 cm  con 1 Bolsas de Almacenamiento  Diseño Retro](https://www.amazon.es/dp/B07F2N69MN/?tag=tolees-21) con un 52.01 % de descuento con precio de oferta de 23.99 EUR (original: 49.99 EUR) en el siguiente enlace!

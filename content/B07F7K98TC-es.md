@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Burton Retro Mountain Shortsleeve Camiseta  Hombre  Negro  True   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7K98TC/?tag=tolees-21'
+descuento: '68.30'
+titulo: 'Burton Retro Mountain Shortsleeve Camise'
 ---
 
 Está [Burton Retro Mountain Shortsleeve Camiseta  Hombre  Negro  True   S](https://www.amazon.es/dp/B07F7K98TC/?tag=tolees-21) con 68.30 de descuento por 9.51 EUR (original: 30 EUR) en el siguiente enlace!

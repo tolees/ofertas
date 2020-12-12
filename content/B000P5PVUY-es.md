@@ -17,6 +17,9 @@ comparePrice: 26.19 EUR
 inStock: true
 prodname: 'Theo Klein-9577 Bosch Cafetera  Juguete  Multicolor  9577 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000P5PVUY/?tag=tolees-21'
+descuento: '34.06'
+titulo: 'Theo Klein-9577 Bosch Cafetera  Juguete '
 ---
 
 Ahora mismo tienes [Theo Klein-9577 Bosch Cafetera  Juguete  Multicolor  9577 ](https://www.amazon.es/dp/B000P5PVUY/?tag=tolees-21) a 17.27 EUR (original: 26.19 EUR) (34.06 %  de descuento) en el siguiente enlace!

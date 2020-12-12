@@ -17,6 +17,9 @@ comparePrice: 88.34 EUR
 inStock: true
 prodname: 'Reebok Royal Techque T LX  Zapatillas de Deporte para Hombre   Dark Brown/Trek Grey/Wild Khaki/Gum 000   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FZ1HN1T/?tag=tolees-21'
+descuento: '69.33'
+titulo: 'Reebok Royal Techque T LX  Zapatillas de'
 ---
 
 Tienes [Reebok Royal Techque T LX  Zapatillas de Deporte para Hombre   Dark Brown/Trek Grey/Wild Khaki/Gum 000   44.5 EU](https://www.amazon.es/dp/B07FZ1HN1T/?tag=tolees-21) con un 69.33 % de descuento con precio de oferta de 27.09 EUR (original: 88.34 EUR) en el siguiente enlace!

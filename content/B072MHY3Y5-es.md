@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Under Armour UA Heatgear Low Cut Calcetines  Unisex niños  Paquete de 3  Negro  Black/Graphite 001   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072MHY3Y5/?tag=tolees-21'
+descuento: '55.04'
+titulo: 'Under Armour UA Heatgear Low Cut Calceti'
 ---
 
 Ahora mismo tienes [Under Armour UA Heatgear Low Cut Calcetines  Unisex niños  Paquete de 3  Negro  Black/Graphite 001   M](https://www.amazon.es/dp/B072MHY3Y5/?tag=tolees-21) a 6.74 EUR (original: 14.99 EUR) (55.04 %  de descuento) en el siguiente enlace!

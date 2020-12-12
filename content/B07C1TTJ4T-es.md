@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjivega Jjretro WW Black Noos Pantalones de Deporte  Negro  W32/L36  Talla del Fabricante: 32  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C1TTJ4T/?tag=tolees-21'
+descuento: '60.15'
+titulo: 'JACK & JONES Jjivega Jjretro WW Black No'
 ---
 
 Tienes [JACK & JONES Jjivega Jjretro WW Black Noos Pantalones de Deporte  Negro  W32/L36  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B07C1TTJ4T/?tag=tolees-21) con un 60.15 % de descuento con precio de oferta de 11.95 EUR (original: 29.99 EUR) en el siguiente enlace!

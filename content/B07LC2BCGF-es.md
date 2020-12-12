@@ -17,6 +17,9 @@ comparePrice: 59.93 EUR
 inStock: true
 prodname: 'READ Curren Reloj Impermeable para Hombres  3 Barras  Impermeable  Banda de Cuarzo  Calendario de PU  3Bar  Calendario Impermeable  Reloj Completo Relojes de Cuarzo  Coffe '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LC2BCGF/?tag=tolees-21'
+descuento: '58.59'
+titulo: 'READ Curren Reloj Impermeable para Hombr'
 ---
 
 Tienes [READ Curren Reloj Impermeable para Hombres  3 Barras  Impermeable  Banda de Cuarzo  Calendario de PU  3Bar  Calendario Impermeable  Reloj Completo Relojes de Cuarzo  Coffe ](https://www.amazon.es/dp/B07LC2BCGF/?tag=tolees-21) con un 58.59 % de descuento con precio de oferta de 24.82 EUR (original: 59.93 EUR) en el siguiente enlace!

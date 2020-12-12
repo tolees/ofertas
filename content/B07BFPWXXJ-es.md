@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Trust Ventu - Ventilador de refrigeración  Color Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BFPWXXJ/?tag=tolees-21'
+descuento: '57.04'
+titulo: 'Trust Ventu - Ventilador de refrigeració'
 ---
 
 Está [Trust Ventu - Ventilador de refrigeración  Color Rojo](https://www.amazon.es/dp/B07BFPWXXJ/?tag=tolees-21) con 57.04 de descuento por 6.44 EUR (original: 14.99 EUR) en el siguiente enlace!

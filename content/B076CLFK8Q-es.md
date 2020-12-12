@@ -17,6 +17,9 @@ comparePrice: 399 EUR
 inStock: true
 prodname: 'Chicco Trío Sprint - Sistema de paseo y viaje 3 en 1  capazo/carrito/coche  color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076CLFK8Q/?tag=tolees-21'
+descuento: '39.85'
+titulo: 'Chicco Trío Sprint - Sistema de paseo y '
 ---
 
 Tienes [Chicco Trío Sprint - Sistema de paseo y viaje 3 en 1  capazo/carrito/coche  color azul](https://www.amazon.es/dp/B076CLFK8Q/?tag=tolees-21) con un 39.85 % de descuento con precio de oferta de 239.99 EUR (original: 399 EUR) en el siguiente enlace!

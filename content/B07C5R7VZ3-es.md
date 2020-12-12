@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'ISENPENK Colchón de Aire Colchón Hinchable  191 x 99.1 x 45.7 cm   Cama Hinchable Cama de Aire Inflable con Válvula Eléctrica Incorporada  45.7cm de Altura  250kg de Capacidad  Tamaño Individual'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C5R7VZ3/?tag=tolees-21'
+descuento: '64.29'
+titulo: 'ISENPENK Colchón de Aire Colchón Hinchab'
 ---
 
 Está [ISENPENK Colchón de Aire Colchón Hinchable  191 x 99.1 x 45.7 cm   Cama Hinchable Cama de Aire Inflable con Válvula Eléctrica Incorporada  45.7cm de Altura  250kg de Capacidad  Tamaño Individual](https://www.amazon.es/dp/B07C5R7VZ3/?tag=tolees-21) con 64.29 de descuento por 49.99 EUR (original: 139.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Burton Gameday Chaqueta de Snowboard  Niños  Azul  Mood Indigo  / Rojo  Bitters   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPWZL2J/?tag=tolees-21'
+descuento: '65.61'
+titulo: 'Burton Gameday Chaqueta de Snowboard  Ni'
 ---
 
 Tienes [Burton Gameday Chaqueta de Snowboard  Niños  Azul  Mood Indigo  / Rojo  Bitters   L](https://www.amazon.es/dp/B07DPWZL2J/?tag=tolees-21) con un 65.61 % de descuento con precio de oferta de 37.83 EUR (original: 110 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 13.71 EUR
 inStock: true
 prodname: 'Joma Champion II - Polo para niño de 10 años  Color Burdeos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CYNT37Q/?tag=tolees-21'
+descuento: '56.60'
+titulo: 'Joma Champion II - Polo para niño de 10 '
 ---
 
 Ahora mismo tienes [Joma Champion II - Polo para niño de 10 años  Color Burdeos](https://www.amazon.es/dp/B01CYNT37Q/?tag=tolees-21) a 5.95 EUR (original: 13.71 EUR) (56.60 %  de descuento) en el siguiente enlace!

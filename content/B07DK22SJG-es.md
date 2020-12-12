@@ -17,6 +17,9 @@ comparePrice: 52.9 EUR
 inStock: true
 prodname: 'Geox B Sandal Multy Boy B  Sandalias para Bebés  Navy/Yellow C0657  25 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK22SJG/?tag=tolees-21'
+descuento: '36.67'
+titulo: 'Geox B Sandal Multy Boy B  Sandalias par'
 ---
 
 Ahora mismo tienes [Geox B Sandal Multy Boy B  Sandalias para Bebés  Navy/Yellow C0657  25 EU](https://www.amazon.es/dp/B07DK22SJG/?tag=tolees-21) a 33.5 EUR (original: 52.9 EUR) (36.67 %  de descuento) en el siguiente enlace!

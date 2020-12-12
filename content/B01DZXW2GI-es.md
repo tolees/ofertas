@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'American Bombshell B-7 Tango Plug  Color Rojo - 428 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DZXW2GI/?tag=tolees-21'
+descuento: '54.91'
+titulo: 'American Bombshell B-7 Tango Plug  Color'
 ---
 
 Tienes [American Bombshell B-7 Tango Plug  Color Rojo - 428 gr](https://www.amazon.es/dp/B01DZXW2GI/?tag=tolees-21) con un 54.91 % de descuento con precio de oferta de 16.21 EUR (original: 35.95 EUR) en el siguiente enlace!

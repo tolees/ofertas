@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'BOSS Athleisure Piro  Polo para Hombre  Gris  Grey 20   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Z7C1JH/?tag=tolees-21'
+descuento: '35.02'
+titulo: 'BOSS Athleisure Piro  Polo para Hombre  '
 ---
 
 Está [BOSS Athleisure Piro  Polo para Hombre  Gris  Grey 20   S](https://www.amazon.es/dp/B077Z7C1JH/?tag=tolees-21) con 35.02 de descuento por 51.95 EUR (original: 79.95 EUR) en el siguiente enlace!

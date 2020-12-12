@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma 516421 02 Pantalón  Mujer  Blanco  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YC1NZ8/?tag=tolees-21'
+descuento: '64.32'
+titulo: 'Puma 516421 02 Pantalón  Mujer  Blanco  '
 ---
 
 Ahora mismo tienes [Puma 516421 02 Pantalón  Mujer  Blanco  S](https://www.amazon.es/dp/B077YC1NZ8/?tag=tolees-21) a 24.96 EUR (original: 69.95 EUR) (64.32 %  de descuento) en el siguiente enlace!

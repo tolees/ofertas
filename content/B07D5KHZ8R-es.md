@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Adidas Aerobounce 2 M  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Silver Metallic/Hi-Res Aqua 0   44 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5KHZ8R/?tag=tolees-21'
+descuento: '49.34'
+titulo: 'Adidas Aerobounce 2 M  Zapatillas de Ent'
 ---
 
 Ahora mismo tienes [Adidas Aerobounce 2 M  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Silver Metallic/Hi-Res Aqua 0   44 2/3 EU](https://www.amazon.es/dp/B07D5KHZ8R/?tag=tolees-21) a 50.63 EUR (original: 99.95 EUR) (49.34 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcorotto Sweat Hood Capucha  Gris  Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GNHZ7NZ/?tag=tolees-21'
+descuento: '60.15'
+titulo: 'JACK & JONES Jcorotto Sweat Hood Capucha'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcorotto Sweat Hood Capucha  Gris  Large para Hombre](https://www.amazon.es/dp/B07GNHZ7NZ/?tag=tolees-21) a 11.95 EUR (original: 29.99 EUR) (60.15 %  de descuento) en el siguiente enlace!

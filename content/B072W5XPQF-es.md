@@ -17,6 +17,9 @@ comparePrice: 72 EUR
 inStock: true
 prodname: 'New Balance WL565  Zapatillas de Running para Mujer  Azul  Teal   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072W5XPQF/?tag=tolees-21'
+descuento: '55.89'
+titulo: 'New Balance WL565  Zapatillas de Running'
 ---
 
 Ahora mismo tienes [New Balance WL565  Zapatillas de Running para Mujer  Azul  Teal   40 EU](https://www.amazon.es/dp/B072W5XPQF/?tag=tolees-21) a 31.76 EUR (original: 72 EUR) (55.89 %  de descuento) en el siguiente enlace!

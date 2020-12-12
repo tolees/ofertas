@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: '【New Version】ORIA Termómetro Digital Interior Exterior  Medidor Redondo LCD Pantalla Temperatura con Sensor  Min/MAX  °C/°F & Icono de Low Batería  Ideal para Hogar  Oficina  etc'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMDVP8G/?tag=tolees-21'
+descuento: '36.68'
+titulo: '【New Version】ORIA Termómetro Digital Int'
 ---
 
 Tienes [【New Version】ORIA Termómetro Digital Interior Exterior  Medidor Redondo LCD Pantalla Temperatura con Sensor  Min/MAX  °C/°F & Icono de Low Batería  Ideal para Hogar  Oficina  etc](https://www.amazon.es/dp/B07JMDVP8G/?tag=tolees-21) con un 36.68 % de descuento con precio de oferta de 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

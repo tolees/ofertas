@@ -17,6 +17,9 @@ comparePrice: 31.18 EUR
 inStock: true
 prodname: 'Chaleco Lumiereholic Universales Chaleco de alta visibilidad Amarillo Unisex Poliéster XL Y434 Chaquetas Para Coche Motocicleta BicI Vehículo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D76WH5T/?tag=tolees-21'
+descuento: '74.37'
+titulo: 'Chaleco Lumiereholic Universales Chaleco'
 ---
 
 Está [Chaleco Lumiereholic Universales Chaleco de alta visibilidad Amarillo Unisex Poliéster XL Y434 Chaquetas Para Coche Motocicleta BicI Vehículo](https://www.amazon.es/dp/B07D76WH5T/?tag=tolees-21) con 74.37 de descuento por 7.99 EUR (original: 31.18 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'LOBKIN Luces LED Kit de Espejo con 10 Bombillas regulables Luz Espejo Maquillaje Tocador Espejo Baño Regalo para Fiesta Cumpleaños Aficionados de Maquillarse  blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PLXX88T/?tag=tolees-21'
+descuento: '76.01'
+titulo: 'LOBKIN Luces LED Kit de Espejo con 10 Bo'
 ---
 
 Ahora mismo tienes [LOBKIN Luces LED Kit de Espejo con 10 Bombillas regulables Luz Espejo Maquillaje Tocador Espejo Baño Regalo para Fiesta Cumpleaños Aficionados de Maquillarse  blanco ](https://www.amazon.es/dp/B07PLXX88T/?tag=tolees-21) a 23.99 EUR (original: 99.99 EUR) (76.01 %  de descuento) en el siguiente enlace!

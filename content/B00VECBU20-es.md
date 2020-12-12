@@ -17,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: '17 L macetero  500 mm de ratán  color gris oscuro  cuadrado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VECBU20/?tag=tolees-21'
+descuento: '66.13'
+titulo: '17 L macetero  500 mm de ratán  color gr'
 ---
 
 Ahora mismo tienes [17 L macetero  500 mm de ratán  color gris oscuro  cuadrado](https://www.amazon.es/dp/B00VECBU20/?tag=tolees-21) a 12.53 EUR (original: 36.99 EUR) (66.13 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'The North Face M Tanken Full Zip Chaqueta  Hombre  Azul  Hyper Blue   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9W75RC/?tag=tolees-21'
+descuento: '63.20'
+titulo: 'The North Face M Tanken Full Zip Chaquet'
 ---
 
 Está [The North Face M Tanken Full Zip Chaqueta  Hombre  Azul  Hyper Blue   S](https://www.amazon.es/dp/B01N9W75RC/?tag=tolees-21) con 63.20 de descuento por 27.6 EUR (original: 75 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cascos Bluetooth Inalámbrico  Macrourt Auriculares Bluetooth Cerrados de Diadema Plegable con Sonido Estéreo Bluetooth 5.0 TF Cancelación de Ruido Almohadillas de Protección Manos Libres con Microfono'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P2C1G5R/?tag=tolees-21'
+descuento: '56.01'
+titulo: 'Cascos Bluetooth Inalámbrico  Macrourt A'
 ---
 
 Tienes [Cascos Bluetooth Inalámbrico  Macrourt Auriculares Bluetooth Cerrados de Diadema Plegable con Sonido Estéreo Bluetooth 5.0 TF Cancelación de Ruido Almohadillas de Protección Manos Libres con Microfono](https://www.amazon.es/dp/B07P2C1G5R/?tag=tolees-21) con un 56.01 % de descuento con precio de oferta de 21.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 169 EUR
 inStock: true
 prodname: 'Samsonite Uplite Duffle/WH 55 cm Bolsa de Viaje  68.5 litros  Color Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M1XUVYA/?tag=tolees-21'
+descuento: '60.12'
+titulo: 'Samsonite Uplite Duffle/WH 55 cm Bolsa d'
 ---
 
 Ahora mismo tienes [Samsonite Uplite Duffle/WH 55 cm Bolsa de Viaje  68.5 litros  Color Azul](https://www.amazon.es/dp/B01M1XUVYA/?tag=tolees-21) a 67.39 EUR (original: 169 EUR) (60.12 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.92 EUR
 inStock: true
 prodname: 'Wolfpack 15017118 Pantalón Trend Corto  Talla 42/44 M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AB33W6O/?tag=tolees-21'
+descuento: '36.70'
+titulo: 'Wolfpack 15017118 Pantalón Trend Corto  '
 ---
 
 Está [Wolfpack 15017118 Pantalón Trend Corto  Talla 42/44 M ](https://www.amazon.es/dp/B01AB33W6O/?tag=tolees-21) con 36.70 de descuento por 12.61 EUR (original: 19.92 EUR) en el siguiente enlace!

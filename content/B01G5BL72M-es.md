@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Tamaris 26243  Botas Chukka para Mujer  Gris  Stone 231   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01G5BL72M/?tag=tolees-21'
+descuento: '78.02'
+titulo: 'Tamaris 26243  Botas Chukka para Mujer  '
 ---
 
 Tienes [Tamaris 26243  Botas Chukka para Mujer  Gris  Stone 231   39 EU](https://www.amazon.es/dp/B01G5BL72M/?tag=tolees-21) con un 78.02 % de descuento con precio de oferta de 21.97 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Lego Despertador con luz Infantil con Figurita de Poli Malo PELÍCULA 9009952|Negro/Gris|Plástico|24 cm de Altura|Pantalla LCD|Chico Chica|Oficial'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HUVB1D2/?tag=tolees-21'
+descuento: '29.94'
+titulo: 'Lego Despertador con luz Infantil con Fi'
 ---
 
 Tienes [Lego Despertador con luz Infantil con Figurita de Poli Malo PELÍCULA 9009952|Negro/Gris|Plástico|24 cm de Altura|Pantalla LCD|Chico Chica|Oficial](https://www.amazon.es/dp/B00HUVB1D2/?tag=tolees-21) con un 29.94 % de descuento con precio de oferta de 27.99 EUR (original: 39.95 EUR) en el siguiente enlace!

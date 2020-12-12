@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Prowl Wn s  Zapatillas Deportivas para Interior para Mujer  Rosa  Knockout Pink White-Ultra Magenta 02   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MRLZ2M5/?tag=tolees-21'
+descuento: '52.93'
+titulo: 'Puma Prowl Wn s  Zapatillas Deportivas p'
 ---
 
 Ahora mismo tienes [Puma Prowl Wn s  Zapatillas Deportivas para Interior para Mujer  Rosa  Knockout Pink White-Ultra Magenta 02   39 EU](https://www.amazon.es/dp/B01MRLZ2M5/?tag=tolees-21) a 28.22 EUR (original: 59.95 EUR) (52.93 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Auriculares  Auriculares con Micrófono Auriculares Cable  Sonido Estéreo y Cancelación de Ruido  Compatibles con Android PC  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HPCJPR7/?tag=tolees-21'
+descuento: '52.92'
+titulo: 'Auriculares  Auriculares con Micrófono A'
 ---
 
 Ahora mismo tienes [Auriculares  Auriculares con Micrófono Auriculares Cable  Sonido Estéreo y Cancelación de Ruido  Compatibles con Android PC  Negro ](https://www.amazon.es/dp/B07HPCJPR7/?tag=tolees-21) a 8.47 EUR (original: 17.99 EUR) (52.92 %  de descuento) en el siguiente enlace!

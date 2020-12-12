@@ -17,6 +17,9 @@ comparePrice: 17.78 EUR
 inStock: true
 prodname: 'Marvel Avengers - Figura Hulkbuster  30 cm  Hasbro B6496EU4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018DNN4S0/?tag=tolees-21'
+descuento: '43.76'
+titulo: 'Marvel Avengers - Figura Hulkbuster  30 '
 ---
 
 Está [Marvel Avengers - Figura Hulkbuster  30 cm  Hasbro B6496EU4 ](https://www.amazon.es/dp/B018DNN4S0/?tag=tolees-21) con 43.76 de descuento por 10 EUR (original: 17.78 EUR) en el siguiente enlace!

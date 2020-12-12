@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 43ln201  Botas Militar para Mujer  Gris  Khaki 850   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJLKNB8/?tag=tolees-21'
+descuento: '75.31'
+titulo: 'Dockers by Gerli 43ln201  Botas Militar '
 ---
 
 Tienes [Dockers by Gerli 43ln201  Botas Militar para Mujer  Gris  Khaki 850   40 EU](https://www.amazon.es/dp/B07DJLKNB8/?tag=tolees-21) con un 75.31 % de descuento con precio de oferta de 19.74 EUR (original: 79.95 EUR) en el siguiente enlace!

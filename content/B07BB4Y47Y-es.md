@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Helly Hansen Tsuga  Zapatos de High Rise Senderismo para Hombre  Marrón  Brunette/Jet Black/Nat 708   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB4Y47Y/?tag=tolees-21'
+descuento: '45.54'
+titulo: 'Helly Hansen Tsuga  Zapatos de High Rise'
 ---
 
 Está [Helly Hansen Tsuga  Zapatos de High Rise Senderismo para Hombre  Marrón  Brunette/Jet Black/Nat 708   45 EU](https://www.amazon.es/dp/B07BB4Y47Y/?tag=tolees-21) con 45.54 de descuento por 65.35 EUR (original: 120 EUR) en el siguiente enlace!

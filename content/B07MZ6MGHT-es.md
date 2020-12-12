@@ -17,6 +17,9 @@ comparePrice: 31.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY - Traje de una pieza - para mujer multicolor Multicolour  Leopard and Black  14  Manufacturer Size:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZ6MGHT/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'IRIS & LILLY - Traje de una pieza - para'
 ---
 
 Está [IRIS & LILLY - Traje de una pieza - para mujer multicolor Multicolour  Leopard and Black  14  Manufacturer Size:L ](https://www.amazon.es/dp/B07MZ6MGHT/?tag=tolees-21) con 30.01 de descuento por 22.39 EUR (original: 31.99 EUR) en el siguiente enlace!

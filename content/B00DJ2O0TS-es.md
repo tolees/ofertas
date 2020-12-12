@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Dim Touch SG AA Coque Sujetador  Blanc 01  14-15 años  Talla del Fabricante: 80B  para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DJ2O0TS/?tag=tolees-21'
+descuento: '50.10'
+titulo: 'Dim Touch SG AA Coque Sujetador  Blanc 0'
 ---
 
 Ahora mismo tienes [Dim Touch SG AA Coque Sujetador  Blanc 01  14-15 años  Talla del Fabricante: 80B  para Niñas](https://www.amazon.es/dp/B00DJ2O0TS/?tag=tolees-21) a 9.98 EUR (original: 20 EUR) (50.10 %  de descuento) en el siguiente enlace!

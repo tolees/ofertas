@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'New Balance X-90  Zapatillas para Hombre  Blanco  Munsell White/Classic Blue/Chilli Pepper WB   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079MF9CVX/?tag=tolees-21'
+descuento: '63.13'
+titulo: 'New Balance X-90  Zapatillas para Hombre'
 ---
 
 Está [New Balance X-90  Zapatillas para Hombre  Blanco  Munsell White/Classic Blue/Chilli Pepper WB   47 EU](https://www.amazon.es/dp/B079MF9CVX/?tag=tolees-21) con 63.13 de descuento por 44.24 EUR (original: 120 EUR) en el siguiente enlace!

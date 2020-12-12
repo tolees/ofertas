@@ -17,6 +17,9 @@ comparePrice: 126.49 EUR
 inStock: true
 prodname: 'Under Armour UA Speedform Amp 2.0  Zapatillas de Deporte para Hombre  Negro  Black 001   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2TZFO3/?tag=tolees-21'
+descuento: '63.64'
+titulo: 'Under Armour UA Speedform Amp 2.0  Zapat'
 ---
 
 Tienes [Under Armour UA Speedform Amp 2.0  Zapatillas de Deporte para Hombre  Negro  Black 001   45 EU](https://www.amazon.es/dp/B01N2TZFO3/?tag=tolees-21) con un 63.64 % de descuento con precio de oferta de 45.99 EUR (original: 126.49 EUR) en el siguiente enlace!

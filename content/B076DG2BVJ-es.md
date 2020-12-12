@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Steep - Olympics Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076DG2BVJ/?tag=tolees-21'
+descuento: '81.00'
+titulo: 'Steep - Olympics Edition'
 ---
 
 Tienes [Steep - Olympics Edition](https://www.amazon.es/dp/B076DG2BVJ/?tag=tolees-21) con un 81.00 % de descuento con precio de oferta de 9.49 EUR (original: 49.95 EUR) en el siguiente enlace!

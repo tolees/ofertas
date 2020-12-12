@@ -17,6 +17,9 @@ comparePrice: 41.1 EUR
 inStock: true
 prodname: 'Kemei 3 en 1 kit de recorte de pelo de oreja nariz Recortador de ceja eléctrico Portable Barba patillas recortador recargable hombres herramienta de cuidado facial KM-6631 negro + plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JNMS7C/?tag=tolees-21'
+descuento: '70.83'
+titulo: 'Kemei 3 en 1 kit de recorte de pelo de o'
 ---
 
 Tienes [Kemei 3 en 1 kit de recorte de pelo de oreja nariz Recortador de ceja eléctrico Portable Barba patillas recortador recargable hombres herramienta de cuidado facial KM-6631 negro + plata](https://www.amazon.es/dp/B071JNMS7C/?tag=tolees-21) con un 70.83 % de descuento con precio de oferta de 11.99 EUR (original: 41.1 EUR) en el siguiente enlace!

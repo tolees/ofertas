@@ -17,6 +17,9 @@ comparePrice: 6.68 EUR
 inStock: true
 prodname: 'Beechfield - Gorra/Visera hombre/chico Media tejido de abeja transpirable  Bottle Green / Bottle Green  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00D4NAVNG/?tag=tolees-21'
+descuento: '33.38'
+titulo: 'Beechfield - Gorra/Visera hombre/chico M'
 ---
 
 Está [Beechfield - Gorra/Visera hombre/chico Media tejido de abeja transpirable  Bottle Green / Bottle Green  Talla Única](https://www.amazon.es/dp/B00D4NAVNG/?tag=tolees-21) con 33.38 de descuento por 4.45 EUR (original: 6.68 EUR) en el siguiente enlace!

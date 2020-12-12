@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'find. Jersey con Detalle Anudado para Mujer  Azul  Navy   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074FYLHG4/?tag=tolees-21'
+descuento: '66.21'
+titulo: 'find. Jersey con Detalle Anudado para Mu'
 ---
 
 Tienes [find. Jersey con Detalle Anudado para Mujer  Azul  Navy   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B074FYLHG4/?tag=tolees-21) con un 66.21 % de descuento con precio de oferta de 9.46 EUR (original: 28 EUR) en el siguiente enlace!

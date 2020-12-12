@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Hurley M Fat Cap Woven S/S Camisas  Hombre  Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K24VGSY/?tag=tolees-21'
+descuento: '33.20'
+titulo: 'Hurley M Fat Cap Woven S/S Camisas  Homb'
 ---
 
 Está [Hurley M Fat Cap Woven S/S Camisas  Hombre  Black  L](https://www.amazon.es/dp/B07K24VGSY/?tag=tolees-21) con 33.20 de descuento por 36.74 EUR (original: 55 EUR) en el siguiente enlace!

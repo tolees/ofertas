@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Smiffy s Smiffys-44351X2 Disfraz de Bruja con Curvas  con Vestido y Sombrero Color Negro XXL - EU Tamaño 52-54 44351X2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TSBO332/?tag=tolees-21'
+descuento: '77.11'
+titulo: 'Smiffy s Smiffys-44351X2 Disfraz de Bruj'
 ---
 
 Ahora mismo tienes [Smiffy s Smiffys-44351X2 Disfraz de Bruja con Curvas  con Vestido y Sombrero Color Negro XXL - EU Tamaño 52-54 44351X2](https://www.amazon.es/dp/B00TSBO332/?tag=tolees-21) a 8.01 EUR (original: 34.99 EUR) (77.11 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 33.39 EUR
 inStock: true
 prodname: 'Moët & Chandon - Champagne Imperial - 750 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006DB3HXM/?tag=tolees-21'
+descuento: '46.24'
+titulo: 'Moët & Chandon - Champagne Imperial - 75'
 ---
 
 Tienes [Moët & Chandon - Champagne Imperial - 750 ml](https://www.amazon.es/dp/B006DB3HXM/?tag=tolees-21) con un 46.24 % de descuento con precio de oferta de 17.95 EUR (original: 33.39 EUR) en el siguiente enlace!

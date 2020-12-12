@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Garcia Z1115 Pantalones  Azul  Dark Moon 292   W34/L32  Talla del Fabricante: 34  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FMKXW34/?tag=tolees-21'
+descuento: '83.02'
+titulo: 'Garcia Z1115 Pantalones  Azul  Dark Moon'
 ---
 
 Ahora mismo tienes [Garcia Z1115 Pantalones  Azul  Dark Moon 292   W34/L32  Talla del Fabricante: 34  para Hombre](https://www.amazon.es/dp/B07FMKXW34/?tag=tolees-21) a 15.28 EUR (original: 89.99 EUR) (83.02 %  de descuento) en el siguiente enlace!

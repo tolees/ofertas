@@ -17,6 +17,9 @@ comparePrice: 24.3 EUR
 inStock: true
 prodname: 'Stahlwille 17 17 - Llave Combinada Con Carraca'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00O9IFTHI/?tag=tolees-21'
+descuento: '70.12'
+titulo: 'Stahlwille 17 17 - Llave Combinada Con C'
 ---
 
 Tienes [Stahlwille 17 17 - Llave Combinada Con Carraca](https://www.amazon.es/dp/B00O9IFTHI/?tag=tolees-21) con un 70.12 % de descuento con precio de oferta de 7.26 EUR (original: 24.3 EUR) en el siguiente enlace!

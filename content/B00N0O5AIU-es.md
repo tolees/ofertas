@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Anself Pistola de pegar con 50 Barra De Pegamento 20W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N0O5AIU/?tag=tolees-21'
+descuento: '38.49'
+titulo: 'Anself Pistola de pegar con 50 Barra De '
 ---
 
 Ahora mismo tienes [Anself Pistola de pegar con 50 Barra De Pegamento 20W](https://www.amazon.es/dp/B00N0O5AIU/?tag=tolees-21) a 7.99 EUR (original: 12.99 EUR) (38.49 %  de descuento) en el siguiente enlace!

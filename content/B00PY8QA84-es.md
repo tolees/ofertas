@@ -17,6 +17,9 @@ comparePrice: 34.08 EUR
 inStock: true
 prodname: 'Pikolin Home - Protector de colchón/Cubre colchón acolchado impermeable y transpirable  140x190/200cm-Cama 140  Todas las medidas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PY8QA84/?tag=tolees-21'
+descuento: '37.50'
+titulo: 'Pikolin Home - Protector de colchón/Cubr'
 ---
 
 Ahora mismo tienes [Pikolin Home - Protector de colchón/Cubre colchón acolchado impermeable y transpirable  140x190/200cm-Cama 140  Todas las medidas ](https://www.amazon.es/dp/B00PY8QA84/?tag=tolees-21) a 21.3 EUR (original: 34.08 EUR) (37.50 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Amzdeal 1500 M Deshumidificador Portátil - Deshumidificador Ligero y Silencioso  Contra Humedad y Moho  para Dormitorio  Cocina y Cuarto de Baño etc'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K1W77FP/?tag=tolees-21'
+descuento: '65.08'
+titulo: 'Amzdeal 1500 M Deshumidificador Portátil'
 ---
 
 Está [Amzdeal 1500 M Deshumidificador Portátil - Deshumidificador Ligero y Silencioso  Contra Humedad y Moho  para Dormitorio  Cocina y Cuarto de Baño etc](https://www.amazon.es/dp/B07K1W77FP/?tag=tolees-21) con 65.08 de descuento por 48.88 EUR (original: 139.99 EUR) en el siguiente enlace!

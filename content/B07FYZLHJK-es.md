@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Wrangler Kabel tee Camiseta  Rojo  Scarlet Red 3uu   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYZLHJK/?tag=tolees-21'
+descuento: '67.05'
+titulo: 'Wrangler Kabel tee Camiseta  Rojo  Scarl'
 ---
 
 Está [Wrangler Kabel tee Camiseta  Rojo  Scarlet Red 3uu   XX-Large para Hombre](https://www.amazon.es/dp/B07FYZLHJK/?tag=tolees-21) con 67.05 de descuento por 9.87 EUR (original: 29.95 EUR) en el siguiente enlace!

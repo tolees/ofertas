@@ -17,6 +17,9 @@ comparePrice: 29.84 EUR
 inStock: true
 prodname: 'Suavinex 300830 - Vajilla para niño'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007NZI6JW/?tag=tolees-21'
+descuento: '45.71'
+titulo: 'Suavinex 300830 - Vajilla para niño'
 ---
 
 Está [Suavinex 300830 - Vajilla para niño](https://www.amazon.es/dp/B007NZI6JW/?tag=tolees-21) con 45.71 de descuento por 16.2 EUR (original: 29.84 EUR) en el siguiente enlace!

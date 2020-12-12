@@ -17,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'Puma Ring Formstripe  Calcetines  Azul  43-46'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003WIZE5I/?tag=tolees-21'
+descuento: '62.63'
+titulo: 'Puma Ring Formstripe  Calcetines  Azul  '
 ---
 
 Ahora mismo tienes [Puma Ring Formstripe  Calcetines  Azul  43-46](https://www.amazon.es/dp/B003WIZE5I/?tag=tolees-21) a 3.36 EUR (original: 8.99 EUR) (62.63 %  de descuento) en el siguiente enlace!

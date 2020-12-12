@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Springfield 6.T.Ap.Daily. Tweed Bimateria C Camiseta de Manga Larga   Varios 98   Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL7XKQ9/?tag=tolees-21'
+descuento: '59.47'
+titulo: 'Springfield 6.T.Ap.Daily. Tweed Bimateri'
 ---
 
 Ahora mismo tienes [Springfield 6.T.Ap.Daily. Tweed Bimateria C Camiseta de Manga Larga   Varios 98   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07DL7XKQ9/?tag=tolees-21) a 10.94 EUR (original: 26.99 EUR) (59.47 %  de descuento) en el siguiente enlace!

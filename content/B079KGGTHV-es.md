@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Scarlett  Vaqueros Skinny para Mujer  Negro  Black Rinse 47  W28/L35'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079KGGTHV/?tag=tolees-21'
+descuento: '57.21'
+titulo: 'Lee Scarlett  Vaqueros Skinny para Mujer'
 ---
 
 Está [Lee Scarlett  Vaqueros Skinny para Mujer  Negro  Black Rinse 47  W28/L35](https://www.amazon.es/dp/B079KGGTHV/?tag=tolees-21) con 57.21 de descuento por 38.49 EUR (original: 89.95 EUR) en el siguiente enlace!

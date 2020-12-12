@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Graphic 51 Slim T-Shirt Camiseta  Gris  Grey htr 906   X-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9QJYZ8/?tag=tolees-21'
+descuento: '57.43'
+titulo: 'G-STAR RAW Graphic 51 Slim T-Shirt Camis'
 ---
 
 Tienes [G-STAR RAW Graphic 51 Slim T-Shirt Camiseta  Gris  Grey htr 906   X-Small para Mujer](https://www.amazon.es/dp/B07M9QJYZ8/?tag=tolees-21) con un 57.43 % de descuento con precio de oferta de 12.75 EUR (original: 29.95 EUR) en el siguiente enlace!

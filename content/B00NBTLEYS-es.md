@@ -17,6 +17,9 @@ comparePrice: 16.9 EUR
 inStock: true
 prodname: 'BabyBjörn Babero Blando 2 uni.  Color Naranja y Turquesa  para bebés a partir de 4 meses'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NBTLEYS/?tag=tolees-21'
+descuento: '29.29'
+titulo: 'BabyBjörn Babero Blando 2 uni.  Color Na'
 ---
 
 Tienes [BabyBjörn Babero Blando 2 uni.  Color Naranja y Turquesa  para bebés a partir de 4 meses](https://www.amazon.es/dp/B00NBTLEYS/?tag=tolees-21) con un 29.29 % de descuento con precio de oferta de 11.95 EUR (original: 16.9 EUR) en el siguiente enlace!

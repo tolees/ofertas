@@ -17,6 +17,9 @@ comparePrice: 68.99 EUR
 inStock: true
 prodname: 'Asics Amplica  Zapatillas de Running para Hombre  Azul  Dark Victoria Blue/White 4945   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0788N4VZW/?tag=tolees-21'
+descuento: '58.34'
+titulo: 'Asics Amplica  Zapatillas de Running par'
 ---
 
 Tienes [Asics Amplica  Zapatillas de Running para Hombre  Azul  Dark Victoria Blue/White 4945   41.5 EU](https://www.amazon.es/dp/B0788N4VZW/?tag=tolees-21) con un 58.34 % de descuento con precio de oferta de 28.74 EUR (original: 68.99 EUR) en el siguiente enlace!

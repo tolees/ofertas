@@ -17,6 +17,9 @@ comparePrice: 132.19 EUR
 inStock: true
 prodname: 'Brooks Defyance 9- Zapatillas de correr para hombre  Azul  Peacoat/Surftheweb/Lemonchrome   ancho normal  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BQ7UG86/?tag=tolees-21'
+descuento: '42.09'
+titulo: 'Brooks Defyance 9- Zapatillas de correr '
 ---
 
 Está [Brooks Defyance 9- Zapatillas de correr para hombre  Azul  Peacoat/Surftheweb/Lemonchrome   ancho normal  45 EU](https://www.amazon.es/dp/B01BQ7UG86/?tag=tolees-21) con 42.09 de descuento por 76.55 EUR (original: 132.19 EUR) en el siguiente enlace!

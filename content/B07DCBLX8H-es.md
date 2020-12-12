@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma Smash Wns V2 SD  Zapatillas para Mujer  Rosa  Peach Bud-Silver White   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCBLX8H/?tag=tolees-21'
+descuento: '42.73'
+titulo: 'Puma Smash Wns V2 SD  Zapatillas para Mu'
 ---
 
 Tienes [Puma Smash Wns V2 SD  Zapatillas para Mujer  Rosa  Peach Bud-Silver White   40.5 EU](https://www.amazon.es/dp/B07DCBLX8H/?tag=tolees-21) con un 42.73 % de descuento con precio de oferta de 31.47 EUR (original: 54.95 EUR) en el siguiente enlace!

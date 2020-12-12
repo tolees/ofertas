@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Under Armour Commit TR Ex  Zapatillas Deportivas para Interior para Hombre  Negro  Black Jet Gray 007   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTL7L7J/?tag=tolees-21'
+descuento: '67.41'
+titulo: 'Under Armour Commit TR Ex  Zapatillas De'
 ---
 
 Tienes [Under Armour Commit TR Ex  Zapatillas Deportivas para Interior para Hombre  Negro  Black Jet Gray 007   40 EU](https://www.amazon.es/dp/B07CTL7L7J/?tag=tolees-21) con un 67.41 % de descuento con precio de oferta de 29.33 EUR (original: 90 EUR) en el siguiente enlace!

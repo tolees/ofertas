@@ -17,6 +17,9 @@ comparePrice: 64 EUR
 inStock: true
 prodname: 'Pepe Jeans Denise Mochila Escolar  45 cm  21.6 litros  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079MGW2YM/?tag=tolees-21'
+descuento: '40.08'
+titulo: 'Pepe Jeans Denise Mochila Escolar  45 cm'
 ---
 
 Tienes [Pepe Jeans Denise Mochila Escolar  45 cm  21.6 litros  Azul](https://www.amazon.es/dp/B079MGW2YM/?tag=tolees-21) con un 40.08 % de descuento con precio de oferta de 38.35 EUR (original: 64 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Panama Jack Vera Snake  Sandalia con Pulsera para Mujer  Azul  Marino B2   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TXLCQY/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Panama Jack Vera Snake  Sandalia con Pul'
 ---
 
 Ahora mismo tienes [Panama Jack Vera Snake  Sandalia con Pulsera para Mujer  Azul  Marino B2   37 EU](https://www.amazon.es/dp/B077TXLCQY/?tag=tolees-21) a 65.99 EUR (original: 99 EUR) (33.34 %  de descuento) en el siguiente enlace!

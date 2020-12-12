@@ -17,6 +17,9 @@ comparePrice: 385 EUR
 inStock: true
 prodname: 'Armani Giorgio 0AR8065H 502613 52 Gafas de Sol  Marrón  Havana/Browngradient   Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015EGN5O2/?tag=tolees-21'
+descuento: '81.34'
+titulo: 'Armani Giorgio 0AR8065H 502613 52 Gafas '
 ---
 
 Está [Armani Giorgio 0AR8065H 502613 52 Gafas de Sol  Marrón  Havana/Browngradient   Mujer](https://www.amazon.es/dp/B015EGN5O2/?tag=tolees-21) con 81.34 de descuento por 71.86 EUR (original: 385 EUR) en el siguiente enlace!

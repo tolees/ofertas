@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'SENSILIS Skin Delight Peeling Negro Revitalizante 75ML'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BMOXA8G/?tag=tolees-21'
+descuento: '38.67'
+titulo: 'SENSILIS Skin Delight Peeling Negro Revi'
 ---
 
 Tienes [SENSILIS Skin Delight Peeling Negro Revitalizante 75ML](https://www.amazon.es/dp/B01BMOXA8G/?tag=tolees-21) con un 38.67 % de descuento con precio de oferta de 18.4 EUR (original: 30 EUR) en el siguiente enlace!

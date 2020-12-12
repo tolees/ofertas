@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Limpiador de Poros  Xpreen Pore Cleaner Eliminador de Puntos Negros Extractor Puntos Negros Eliminador de Comendones Blackhead Remover Limpiador Facial Pore Cleanser para Espinillas y Acné'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TG9HJZW/?tag=tolees-21'
+descuento: '58.34'
+titulo: 'Limpiador de Poros  Xpreen Pore Cleaner '
 ---
 
 Está [Limpiador de Poros  Xpreen Pore Cleaner Eliminador de Puntos Negros Extractor Puntos Negros Eliminador de Comendones Blackhead Remover Limpiador Facial Pore Cleanser para Espinillas y Acné](https://www.amazon.es/dp/B07TG9HJZW/?tag=tolees-21) con 58.34 de descuento por 24.99 EUR (original: 59.99 EUR) en el siguiente enlace!

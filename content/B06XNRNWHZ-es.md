@@ -17,6 +17,9 @@ comparePrice: 949.99 EUR
 inStock: true
 prodname: 'GoPro Karma - Dron con HERO5  12.1 MP  4K  Color Negro y Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XNRNWHZ/?tag=tolees-21'
+descuento: '33.49'
+titulo: 'GoPro Karma - Dron con HERO5  12.1 MP  4'
 ---
 
 Tienes [GoPro Karma - Dron con HERO5  12.1 MP  4K  Color Negro y Blanco](https://www.amazon.es/dp/B06XNRNWHZ/?tag=tolees-21) con un 33.49 % de descuento con precio de oferta de 631.84 EUR (original: 949.99 EUR) en el siguiente enlace!

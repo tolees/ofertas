@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Nike Court Royale  Zapatillas de Gimnasia para Hombre  Blanco  White/White 111   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XWOAZ5Q/?tag=tolees-21'
+descuento: '27.27'
+titulo: 'Nike Court Royale  Zapatillas de Gimnasi'
 ---
 
 Ahora mismo tienes [Nike Court Royale  Zapatillas de Gimnasia para Hombre  Blanco  White/White 111   40 EU](https://www.amazon.es/dp/B00XWOAZ5Q/?tag=tolees-21) a 40 EUR (original: 55 EUR) (27.27 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Aigostar Grace 32GQL - Secador profesional de pelo en color rojo mate con difusor y accesorios. 2000 watios. Diseño exclusivo de Aigostar.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GJZXGNM/?tag=tolees-21'
+descuento: '26.10'
+titulo: 'Aigostar Grace 32GQL - Secador profesion'
 ---
 
 Está [Aigostar Grace 32GQL - Secador profesional de pelo en color rojo mate con difusor y accesorios. 2000 watios. Diseño exclusivo de Aigostar.](https://www.amazon.es/dp/B01GJZXGNM/?tag=tolees-21) con 26.10 de descuento por 16.99 EUR (original: 22.99 EUR) en el siguiente enlace!

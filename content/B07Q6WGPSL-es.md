@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'RUICHENXI Memoria USB 1000GB Pendrive Flash Drive Mental USB Impermeable con Anillo Colgante'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q6WGPSL/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'RUICHENXI Memoria USB 1000GB Pendrive Fl'
 ---
 
 Está [RUICHENXI Memoria USB 1000GB Pendrive Flash Drive Mental USB Impermeable con Anillo Colgante](https://www.amazon.es/dp/B07Q6WGPSL/?tag=tolees-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Springfield 6.T. Plumas C.Alto Chaqueta  Mujer  Negro  Negro 1   40  Tamaño del Fabricante:40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL8L22Q/?tag=tolees-21'
+descuento: '57.14'
+titulo: 'Springfield 6.T. Plumas C.Alto Chaqueta '
 ---
 
 Está [Springfield 6.T. Plumas C.Alto Chaqueta  Mujer  Negro  Negro 1   40  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B07DL8L22Q/?tag=tolees-21) con 57.14 de descuento por 19.71 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Burton Midweight Crew Camiseta Térmica  Hombre  Verde  Seersucker Camo   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B6SVTLZ/?tag=tolees-21'
+descuento: '56.11'
+titulo: 'Burton Midweight Crew Camiseta Térmica  '
 ---
 
 Está [Burton Midweight Crew Camiseta Térmica  Hombre  Verde  Seersucker Camo   XL](https://www.amazon.es/dp/B07B6SVTLZ/?tag=tolees-21) con 56.11 de descuento por 24.14 EUR (original: 55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'adidas Alphabounce Em M  Zapatillas de Running para Hombre   Rubmis/Negbas/Griuno   42 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0731GDXV4/?tag=tolees-21'
+descuento: '55.32'
+titulo: 'adidas Alphabounce Em M  Zapatillas de R'
 ---
 
 Tienes [adidas Alphabounce Em M  Zapatillas de Running para Hombre   Rubmis/Negbas/Griuno   42 2/3 EU](https://www.amazon.es/dp/B0731GDXV4/?tag=tolees-21) con un 55.32 % de descuento con precio de oferta de 49.13 EUR (original: 109.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Pepe Jeans Walbrooks Chaqueta  Verde  Forest Khaki 771   XL para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RSDRVR/?tag=tolees-21'
+descuento: '78.60'
+titulo: 'Pepe Jeans Walbrooks Chaqueta  Verde  Fo'
 ---
 
 Está [Pepe Jeans Walbrooks Chaqueta  Verde  Forest Khaki 771   XL para Hombre](https://www.amazon.es/dp/B079RSDRVR/?tag=tolees-21) con 78.60 de descuento por 29.96 EUR (original: 140 EUR) en el siguiente enlace!

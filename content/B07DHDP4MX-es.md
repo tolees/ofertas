@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Carro Portamangueras  Soporte Manguera 20 m  1/2" Manguera Jardín  Colgado en la Pared  Mango Oscilante  con Soporte  Colgante y Portátil - TACKLIFE GWRC2A'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHDP4MX/?tag=tolees-21'
+descuento: '36.37'
+titulo: 'Carro Portamangueras  Soporte Manguera 2'
 ---
 
 Ahora mismo tienes [Carro Portamangueras  Soporte Manguera 20 m  1/2" Manguera Jardín  Colgado en la Pared  Mango Oscilante  con Soporte  Colgante y Portátil - TACKLIFE GWRC2A](https://www.amazon.es/dp/B07DHDP4MX/?tag=tolees-21) a 20.99 EUR (original: 32.99 EUR) (36.37 %  de descuento) en el siguiente enlace!

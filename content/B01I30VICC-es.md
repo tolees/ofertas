@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Josef Seibel Botines de Cordones Tanja SMU Topo EU 36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01I30VICC/?tag=tolees-21'
+descuento: '76.39'
+titulo: 'Josef Seibel Botines de Cordones Tanja S'
 ---
 
 Está [Josef Seibel Botines de Cordones Tanja SMU Topo EU 36](https://www.amazon.es/dp/B01I30VICC/?tag=tolees-21) con 76.39 de descuento por 23.6 EUR (original: 99.95 EUR) en el siguiente enlace!

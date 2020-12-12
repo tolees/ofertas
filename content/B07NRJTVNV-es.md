@@ -17,6 +17,9 @@ comparePrice: 13.98 EUR
 inStock: true
 prodname: 'Barnängen - Loción Hidratante Corporal con leche de Avena Caring para piel normal y seca - 2 unidades de 400ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NRJTVNV/?tag=tolees-21'
+descuento: '53.36'
+titulo: 'Barnängen - Loción Hidratante Corporal c'
 ---
 
 Está [Barnängen - Loción Hidratante Corporal con leche de Avena Caring para piel normal y seca - 2 unidades de 400ml](https://www.amazon.es/dp/B07NRJTVNV/?tag=tolees-21) con 53.36 de descuento por 6.52 EUR (original: 13.98 EUR) en el siguiente enlace!

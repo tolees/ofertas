@@ -17,6 +17,9 @@ comparePrice: 27.95 EUR
 inStock: true
 prodname: 'Kappa Kickoff  Zapatillas de Deporte Interior para Niñas  Azul  L´Blue/Pink 6122   33 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4TLKVG/?tag=tolees-21'
+descuento: '42.93'
+titulo: 'Kappa Kickoff  Zapatillas de Deporte Int'
 ---
 
 Ahora mismo tienes [Kappa Kickoff  Zapatillas de Deporte Interior para Niñas  Azul  L´Blue/Pink 6122   33 EU](https://www.amazon.es/dp/B07D4TLKVG/?tag=tolees-21) a 15.95 EUR (original: 27.95 EUR) (42.93 %  de descuento) en el siguiente enlace!

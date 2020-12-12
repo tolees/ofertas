@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Under Armour Men s Blitzing 3.0 Cap Gorra  Hombre  Gris  Graphite Black 040   L/XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072FHHG8V/?tag=tolees-21'
+descuento: '56.37'
+titulo: 'Under Armour Men s Blitzing 3.0 Cap Gorr'
 ---
 
 Ahora mismo tienes [Under Armour Men s Blitzing 3.0 Cap Gorra  Hombre  Gris  Graphite Black 040   L/XL](https://www.amazon.es/dp/B072FHHG8V/?tag=tolees-21) a 10.03 EUR (original: 22.99 EUR) (56.37 %  de descuento) en el siguiente enlace!

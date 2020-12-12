@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma Defy Wn s  Zapatillas de Deporte para Mujer  Blanco White Black  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRDGWJ4/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'Puma Defy Wn s  Zapatillas de Deporte pa'
 ---
 
 Ahora mismo tienes [Puma Defy Wn s  Zapatillas de Deporte para Mujer  Blanco White Black  36 EU](https://www.amazon.es/dp/B07CRDGWJ4/?tag=tolees-21) a 50 EUR (original: 99.95 EUR) (49.97 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 82.95 EUR
 inStock: true
 prodname: 'Volcom Capucha Chaqueta Supply Stone Zip  Hombre  A4831804  Gris  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVQYQ44/?tag=tolees-21'
+descuento: '42.19'
+titulo: 'Volcom Capucha Chaqueta Supply Stone Zip'
 ---
 
 Tienes [Volcom Capucha Chaqueta Supply Stone Zip  Hombre  A4831804  Gris  Medium](https://www.amazon.es/dp/B07DVQYQ44/?tag=tolees-21) con un 42.19 % de descuento con precio de oferta de 47.95 EUR (original: 82.95 EUR) en el siguiente enlace!

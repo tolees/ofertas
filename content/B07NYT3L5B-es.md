@@ -17,6 +17,9 @@ comparePrice: 117.99 EUR
 inStock: true
 prodname: 'San Ignacio Professional Chef Copper Set de 3 sartenes + 4 recipientes herméticos + 3 Utensilios de Cocina  fiambreras'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NYT3L5B/?tag=tolees-21'
+descuento: '61.87'
+titulo: 'San Ignacio Professional Chef Copper Set'
 ---
 
 Tienes [San Ignacio Professional Chef Copper Set de 3 sartenes + 4 recipientes herméticos + 3 Utensilios de Cocina  fiambreras](https://www.amazon.es/dp/B07NYT3L5B/?tag=tolees-21) con un 61.87 % de descuento con precio de oferta de 44.99 EUR (original: 117.99 EUR) en el siguiente enlace!

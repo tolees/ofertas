@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Newskill Hydra - Auriculares gaming rretroiluminados  Retroiluminación azul  sonido estereo premium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071W7Q5HF/?tag=tolees-21'
+descuento: '25.95'
+titulo: 'Newskill Hydra - Auriculares gaming rret'
 ---
 
 Ahora mismo tienes [Newskill Hydra - Auriculares gaming rretroiluminados  Retroiluminación azul  sonido estereo premium ](https://www.amazon.es/dp/B071W7Q5HF/?tag=tolees-21) a 36.99 EUR (original: 49.95 EUR) (25.95 %  de descuento) en el siguiente enlace!

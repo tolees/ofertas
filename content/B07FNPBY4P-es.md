@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Neopreno Apoyo de Hombro de - Protector para Hombro Seguridad  AC conjunto dislocado prevención y protector  se adapta a la izquierda o el hombro derecho  Se adapta a hombres y mujeres'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNPBY4P/?tag=tolees-21'
+descuento: '35.01'
+titulo: 'Neopreno Apoyo de Hombro de - Protector '
 ---
 
 Ahora mismo tienes [Neopreno Apoyo de Hombro de - Protector para Hombro Seguridad  AC conjunto dislocado prevención y protector  se adapta a la izquierda o el hombro derecho  Se adapta a hombres y mujeres](https://www.amazon.es/dp/B07FNPBY4P/?tag=tolees-21) a 25.99 EUR (original: 39.99 EUR) (35.01 %  de descuento) en el siguiente enlace!

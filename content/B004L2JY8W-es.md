@@ -17,6 +17,9 @@ comparePrice: 219 EUR
 inStock: true
 prodname: 'Calvin Klein Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MTP-1259D-1AEF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004L2JY8W/?tag=tolees-21'
+descuento: '49.12'
+titulo: 'Calvin Klein Reloj Analógico para Mujer '
 ---
 
 Ahora mismo tienes [Calvin Klein Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MTP-1259D-1AEF](https://www.amazon.es/dp/B004L2JY8W/?tag=tolees-21) a 111.42 EUR (original: 219 EUR) (49.12 %  de descuento) en el siguiente enlace!

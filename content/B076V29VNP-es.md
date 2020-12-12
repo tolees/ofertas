@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'ThunderX3 TM55 - Ratón Gaming mecánico Profesional  Sensor óptico  conmutador Omron  7200 dpi  iluminación Hex RGB  Panel Lateral Intercambiable  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076V29VNP/?tag=tolees-21'
+descuento: '66.22'
+titulo: 'ThunderX3 TM55 - Ratón Gaming mecánico P'
 ---
 
 Tienes [ThunderX3 TM55 - Ratón Gaming mecánico Profesional  Sensor óptico  conmutador Omron  7200 dpi  iluminación Hex RGB  Panel Lateral Intercambiable  Color Negro](https://www.amazon.es/dp/B076V29VNP/?tag=tolees-21) con un 66.22 % de descuento con precio de oferta de 26.99 EUR (original: 79.9 EUR) en el siguiente enlace!

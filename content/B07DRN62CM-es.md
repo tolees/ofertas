@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Kipling TEAGAN XS Organizador de bolso  50 cm  33 liters  Azul  Active Denim '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DRN62CM/?tag=tolees-21'
+descuento: '64.73'
+titulo: 'Kipling TEAGAN XS Organizador de bolso  '
 ---
 
 Tienes [Kipling TEAGAN XS Organizador de bolso  50 cm  33 liters  Azul  Active Denim ](https://www.amazon.es/dp/B07DRN62CM/?tag=tolees-21) con un 64.73 % de descuento con precio de oferta de 38.44 EUR (original: 109 EUR) en el siguiente enlace!

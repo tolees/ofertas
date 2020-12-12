@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Urban Classics Old School Chaquetas universitarias Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003Y6VYCU/?tag=tolees-21'
+descuento: '67.47'
+titulo: 'Urban Classics Old School Chaquetas univ'
 ---
 
 Tienes [Urban Classics Old School Chaquetas universitarias Gris](https://www.amazon.es/dp/B003Y6VYCU/?tag=tolees-21) con un 67.47 % de descuento con precio de oferta de 22.74 EUR (original: 69.9 EUR) en el siguiente enlace!

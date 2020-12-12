@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Pepe Jeans Ariel - azul Mujer  American Blue  W32/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014YUKWMM/?tag=tolees-21'
+descuento: '75.65'
+titulo: 'Pepe Jeans Ariel - azul Mujer  American '
 ---
 
 Ahora mismo tienes [Pepe Jeans Ariel - azul Mujer  American Blue  W32/L30](https://www.amazon.es/dp/B014YUKWMM/?tag=tolees-21) a 24.11 EUR (original: 99 EUR) (75.65 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Nike Zapatillas MD Runner 2 Black  Deporte Unisex Adulto   Ao5377 001 Negro   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00J3NGMTI/?tag=tolees-21'
+descuento: '54.98'
+titulo: 'Nike Zapatillas MD Runner 2 Black  Depor'
 ---
 
 Tienes [Nike Zapatillas MD Runner 2 Black  Deporte Unisex Adulto   Ao5377 001 Negro   42.5 EU](https://www.amazon.es/dp/B00J3NGMTI/?tag=tolees-21) con un 54.98 % de descuento con precio de oferta de 29.26 EUR (original: 65 EUR) en el siguiente enlace!

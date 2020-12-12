@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Women s Secret CP Flower Sbup  Sujetador básico para Mujer   Azul 14   85  Tamaño del Fabricante:85B '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLD1C8M/?tag=tolees-21'
+descuento: '50.21'
+titulo: 'Women s Secret CP Flower Sbup  Sujetador'
 ---
 
 Está [Women s Secret CP Flower Sbup  Sujetador básico para Mujer   Azul 14   85  Tamaño del Fabricante:85B ](https://www.amazon.es/dp/B07DLD1C8M/?tag=tolees-21) con 50.21 de descuento por 8.46 EUR (original: 16.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Armour Mfo Training Verbiage 4 - Camiseta de Manga Corta para Hombre  Hombre  1317522-035  Steel Light Heather/Black  2 X-Grande'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DY6WKTP/?tag=tolees-21'
+descuento: '43.86'
+titulo: 'Under Armour Mfo Training Verbiage 4 - C'
 ---
 
 Está [Under Armour Mfo Training Verbiage 4 - Camiseta de Manga Corta para Hombre  Hombre  1317522-035  Steel Light Heather/Black  2 X-Grande](https://www.amazon.es/dp/B07DY6WKTP/?tag=tolees-21) con 43.86 de descuento por 15.72 EUR (original: 28 EUR) en el siguiente enlace!

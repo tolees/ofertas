@@ -17,6 +17,9 @@ comparePrice: 14.57 EUR
 inStock: true
 prodname: 'IDC INSTITUTE Royal Garden  Regalo para el cuidado de la piel  Rosa  - 4 piezas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J2SYRZC/?tag=tolees-21'
+descuento: '34.80'
+titulo: 'IDC INSTITUTE Royal Garden  Regalo para '
 ---
 
 Tienes [IDC INSTITUTE Royal Garden  Regalo para el cuidado de la piel  Rosa  - 4 piezas](https://www.amazon.es/dp/B07J2SYRZC/?tag=tolees-21) con un 34.80 % de descuento con precio de oferta de 9.5 EUR (original: 14.57 EUR) en el siguiente enlace!

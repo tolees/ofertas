@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'HEOYSN Trípode para Movil  Trípode Flexible con Control Remoto Bluetooth  Portátil Trípode con Tornillo 1/4   para Teléfonos Celulares y Cámara Acción'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ1NVWF/?tag=tolees-21'
+descuento: '43.35'
+titulo: 'HEOYSN Trípode para Movil  Trípode Flexi'
 ---
 
 Ahora mismo tienes [HEOYSN Trípode para Movil  Trípode Flexible con Control Remoto Bluetooth  Portátil Trípode con Tornillo 1/4   para Teléfonos Celulares y Cámara Acción](https://www.amazon.es/dp/B07CZ1NVWF/?tag=tolees-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!

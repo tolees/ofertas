@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Crocs Crocband Flip  Chanclas Unisex Adulto  Negro  Black   42/43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002SNA7XC/?tag=tolees-21'
+descuento: '33.14'
+titulo: 'Crocs Crocband Flip  Chanclas Unisex Adu'
 ---
 
 Tienes [Crocs Crocband Flip  Chanclas Unisex Adulto  Negro  Black   42/43 EU](https://www.amazon.es/dp/B002SNA7XC/?tag=tolees-21) con un 33.14 % de descuento con precio de oferta de 19.99 EUR (original: 29.9 EUR) en el siguiente enlace!

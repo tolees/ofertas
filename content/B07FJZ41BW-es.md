@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Only Onlstarlight Long Fur Parka CC Otw  Mujer  Rojo Chocolate Truffle  36  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJZ41BW/?tag=tolees-21'
+descuento: '53.26'
+titulo: 'Only Onlstarlight Long Fur Parka CC Otw '
 ---
 
 Tienes [Only Onlstarlight Long Fur Parka CC Otw  Mujer  Rojo Chocolate Truffle  36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07FJZ41BW/?tag=tolees-21) con un 53.26 % de descuento con precio de oferta de 28.04 EUR (original: 59.99 EUR) en el siguiente enlace!

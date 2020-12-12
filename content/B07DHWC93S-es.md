@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'LoveBoxxx - BDSM Box con Vibradores Masajeador- Bondage Rope- Esposas- Máscara- Flogger y bolsa de juguetes - Todo Incluido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHWC93S/?tag=tolees-21'
+descuento: '42.96'
+titulo: 'LoveBoxxx - BDSM Box con Vibradores Masa'
 ---
 
 Está [LoveBoxxx - BDSM Box con Vibradores Masajeador- Bondage Rope- Esposas- Máscara- Flogger y bolsa de juguetes - Todo Incluido](https://www.amazon.es/dp/B07DHWC93S/?tag=tolees-21) con 42.96 de descuento por 39.9 EUR (original: 69.95 EUR) en el siguiente enlace!

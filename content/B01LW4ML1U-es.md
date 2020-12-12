@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'GOLIATE NyX Masajeador Prostático Vibratorio de Lujo para Hombre - Vibrador Estimulador de la Próstata y Placer Anal para Adulto: 10 Modos  Silicona  Silencioso  Resistente al Agua  Recargable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LW4ML1U/?tag=tolees-21'
+descuento: '49.94'
+titulo: 'GOLIATE NyX Masajeador Prostático Vibrat'
 ---
 
 Tienes [GOLIATE NyX Masajeador Prostático Vibratorio de Lujo para Hombre - Vibrador Estimulador de la Próstata y Placer Anal para Adulto: 10 Modos  Silicona  Silencioso  Resistente al Agua  Recargable](https://www.amazon.es/dp/B01LW4ML1U/?tag=tolees-21) con un 49.94 % de descuento con precio de oferta de 40 EUR (original: 79.9 EUR) en el siguiente enlace!

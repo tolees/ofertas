@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slharo SS Embroidery Polo W Noos  Hombre  Rosa  Bubblegum Bubblegum   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSMKQBV/?tag=tolees-21'
+descuento: '57.22'
+titulo: 'SELECTED HOMME Slharo SS Embroidery Polo'
 ---
 
 Está [SELECTED HOMME Slharo SS Embroidery Polo W Noos  Hombre  Rosa  Bubblegum Bubblegum   Large](https://www.amazon.es/dp/B07FSMKQBV/?tag=tolees-21) con 57.22 de descuento por 10.69 EUR (original: 24.99 EUR) en el siguiente enlace!

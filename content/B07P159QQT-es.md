@@ -17,6 +17,9 @@ comparePrice: 349 EUR
 inStock: true
 prodname: 'DXIII DELUXE13 Topper para Colchón viscolástico | Cubre Colchon viscolástico | Base Magnética Terapeutica para Colchón | Topper Magnético para colchón  80x180/190 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P159QQT/?tag=tolees-21'
+descuento: '71.63'
+titulo: 'DXIII DELUXE13 Topper para Colchón visco'
 ---
 
 Está [DXIII DELUXE13 Topper para Colchón viscolástico | Cubre Colchon viscolástico | Base Magnética Terapeutica para Colchón | Topper Magnético para colchón  80x180/190 ](https://www.amazon.es/dp/B07P159QQT/?tag=tolees-21) con 71.63 de descuento por 99 EUR (original: 349 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Skechers On The Go 600 15316-bbk  Sandalias Deportivas para Mujer  Negro  Black 15316/Bbk   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072T2VSVL/?tag=tolees-21'
+descuento: '30.17'
+titulo: 'Skechers On The Go 600 15316-bbk  Sandal'
 ---
 
 Ahora mismo tienes [Skechers On The Go 600 15316-bbk  Sandalias Deportivas para Mujer  Negro  Black 15316/Bbk   37 EU](https://www.amazon.es/dp/B072T2VSVL/?tag=tolees-21) a 38.4 EUR (original: 54.99 EUR) (30.17 %  de descuento) en el siguiente enlace!

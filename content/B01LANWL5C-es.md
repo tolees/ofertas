@@ -17,6 +17,9 @@ comparePrice: 155 EUR
 inStock: true
 prodname: 'CASTELLANISIMOS C00100 - Mocasín de cuero para hombre  Burdeos 40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LANWL5C/?tag=tolees-21'
+descuento: '56.77'
+titulo: 'CASTELLANISIMOS C00100 - Mocasín de cuer'
 ---
 
 Tienes [CASTELLANISIMOS C00100 - Mocasín de cuero para hombre  Burdeos 40 EU](https://www.amazon.es/dp/B01LANWL5C/?tag=tolees-21) con un 56.77 % de descuento con precio de oferta de 67 EUR (original: 155 EUR) en el siguiente enlace!

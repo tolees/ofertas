@@ -17,6 +17,9 @@ comparePrice: 46.99 EUR
 inStock: true
 prodname: 'Lampara de Pie 3 en 1  72 LED Ojos-Protección Lámpara Escritorio con 4 Tipo de Luminosidad Ajustable USB  Regala Con Base De Trípode y Soporte De Lámpara para Estudio  Salón  Dormitorio  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFXQ2GH/?tag=tolees-21'
+descuento: '40.43'
+titulo: 'Lampara de Pie 3 en 1  72 LED Ojos-Prote'
 ---
 
 Tienes [Lampara de Pie 3 en 1  72 LED Ojos-Protección Lámpara Escritorio con 4 Tipo de Luminosidad Ajustable USB  Regala Con Base De Trípode y Soporte De Lámpara para Estudio  Salón  Dormitorio  Negro ](https://www.amazon.es/dp/B07DFXQ2GH/?tag=tolees-21) con un 40.43 % de descuento con precio de oferta de 27.99 EUR (original: 46.99 EUR) en el siguiente enlace!

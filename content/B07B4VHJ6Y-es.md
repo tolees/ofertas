@@ -17,6 +17,9 @@ comparePrice: 19.4 EUR
 inStock: true
 prodname: 'oodji Ultra Hombre Suéter con Estampado Floral  Azul  ES 46-48 / S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4VHJ6Y/?tag=tolees-21'
+descuento: '47.94'
+titulo: 'oodji Ultra Hombre Suéter con Estampado '
 ---
 
 Ahora mismo tienes [oodji Ultra Hombre Suéter con Estampado Floral  Azul  ES 46-48 / S](https://www.amazon.es/dp/B07B4VHJ6Y/?tag=tolees-21) a 10.1 EUR (original: 19.4 EUR) (47.94 %  de descuento) en el siguiente enlace!

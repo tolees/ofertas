@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Superga 2795-synshearlingw  Zapatillas de Gimnasia para Mujer  Negro  Full Black A09   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FF7N1ZK/?tag=tolees-21'
+descuento: '81.40'
+titulo: 'Superga 2795-synshearlingw  Zapatillas d'
 ---
 
 Tienes [Superga 2795-synshearlingw  Zapatillas de Gimnasia para Mujer  Negro  Full Black A09   37 EU](https://www.amazon.es/dp/B07FF7N1ZK/?tag=tolees-21) con un 81.40 % de descuento con precio de oferta de 16.55 EUR (original: 89 EUR) en el siguiente enlace!

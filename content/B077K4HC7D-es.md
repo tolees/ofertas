@@ -17,6 +17,9 @@ comparePrice: 14 EUR
 inStock: true
 prodname: 'Marca Amazon - Happy Belly Mango deshidratado  500 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077K4HC7D/?tag=tolees-21'
+descuento: '35.57'
+titulo: 'Marca Amazon - Happy Belly Mango deshidr'
 ---
 
 Está [Marca Amazon - Happy Belly Mango deshidratado  500 g](https://www.amazon.es/dp/B077K4HC7D/?tag=tolees-21) con 35.57 de descuento por 9.02 EUR (original: 14 EUR) en el siguiente enlace!

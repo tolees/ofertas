@@ -17,6 +17,9 @@ comparePrice: 31.2 EUR
 inStock: true
 prodname: 'Tyrrell s  Patata de bolsa  Saladas con Sal Marina  - 12 de 150 gr.  Total: 1800 gr. '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7T6J3L/?tag=tolees-21'
+descuento: '41.57'
+titulo: 'Tyrrell s  Patata de bolsa  Saladas con '
 ---
 
 Ahora mismo tienes [Tyrrell s  Patata de bolsa  Saladas con Sal Marina  - 12 de 150 gr.  Total: 1800 gr. ](https://www.amazon.es/dp/B07D7T6J3L/?tag=tolees-21) a 18.23 EUR (original: 31.2 EUR) (41.57 %  de descuento) en el siguiente enlace!

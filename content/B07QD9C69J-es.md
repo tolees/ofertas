@@ -17,6 +17,9 @@ comparePrice: 9.75 EUR
 inStock: true
 prodname: 'Trapa  Chocolate en Polvo - 350 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QD9C69J/?tag=tolees-21'
+descuento: '48.72'
+titulo: 'Trapa  Chocolate en Polvo - 350 gr'
 ---
 
 Está [Trapa  Chocolate en Polvo - 350 gr](https://www.amazon.es/dp/B07QD9C69J/?tag=tolees-21) con 48.72 de descuento por 5 EUR (original: 9.75 EUR) en el siguiente enlace!

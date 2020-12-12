@@ -17,6 +17,9 @@ comparePrice: 37.2 EUR
 inStock: true
 prodname: 'Maurer 15011602 Zapatos Seguridad Tiberina S1P Nº 40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B010SIWSBC/?tag=tolees-21'
+descuento: '70.86'
+titulo: 'Maurer 15011602 Zapatos Seguridad Tiberi'
 ---
 
 Está [Maurer 15011602 Zapatos Seguridad Tiberina S1P Nº 40](https://www.amazon.es/dp/B010SIWSBC/?tag=tolees-21) con 70.86 de descuento por 10.84 EUR (original: 37.2 EUR) en el siguiente enlace!

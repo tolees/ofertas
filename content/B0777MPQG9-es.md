@@ -17,6 +17,9 @@ comparePrice: 41.95 EUR
 inStock: true
 prodname: 'Infantino Explore and Store Sparkle Activity Gym'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0777MPQG9/?tag=tolees-21'
+descuento: '44.89'
+titulo: 'Infantino Explore and Store Sparkle Acti'
 ---
 
 Tienes [Infantino Explore and Store Sparkle Activity Gym](https://www.amazon.es/dp/B0777MPQG9/?tag=tolees-21) con un 44.89 % de descuento con precio de oferta de 23.12 EUR (original: 41.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 76 EUR
 inStock: true
 prodname: 'Nike Wmns LD Runner  Zapatillas de Running para Mujer  Gris  Wolf Grey/White/Black 006   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009GJARDQ/?tag=tolees-21'
+descuento: '58.66'
+titulo: 'Nike Wmns LD Runner  Zapatillas de Runni'
 ---
 
 Tienes [Nike Wmns LD Runner  Zapatillas de Running para Mujer  Gris  Wolf Grey/White/Black 006   39 EU](https://www.amazon.es/dp/B009GJARDQ/?tag=tolees-21) con un 58.66 % de descuento con precio de oferta de 31.42 EUR (original: 76 EUR) en el siguiente enlace!

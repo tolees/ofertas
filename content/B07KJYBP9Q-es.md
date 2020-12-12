@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Quiksilver Critical 17" Bañador  Hombre  Negro  Black   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJYBP9Q/?tag=tolees-21'
+descuento: '42.74'
+titulo: 'Quiksilver Critical 17" Bañador  Hombre '
 ---
 
 Está [Quiksilver Critical 17" Bañador  Hombre  Negro  Black   L](https://www.amazon.es/dp/B07KJYBP9Q/?tag=tolees-21) con 42.74 de descuento por 22.9 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 53 EUR
 inStock: true
 prodname: 'Kelme Limited Edition  Zapatillas de fútbol Sala para Hombre   Blanco Y Fucsia 482   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CCDXCJK/?tag=tolees-21'
+descuento: '49.15'
+titulo: 'Kelme Limited Edition  Zapatillas de fút'
 ---
 
 Está [Kelme Limited Edition  Zapatillas de fútbol Sala para Hombre   Blanco Y Fucsia 482   44 EU](https://www.amazon.es/dp/B07CCDXCJK/?tag=tolees-21) con 49.15 de descuento por 26.95 EUR (original: 53 EUR) en el siguiente enlace!

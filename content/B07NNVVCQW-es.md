@@ -17,6 +17,9 @@ comparePrice: 658.95 EUR
 inStock: true
 prodname: 'Sony Xperia XZ2 Compact  color negro + Marvel s Spider-Man  PS4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NNVVCQW/?tag=tolees-21'
+descuento: '33.38'
+titulo: 'Sony Xperia XZ2 Compact  color negro + M'
 ---
 
 Está [Sony Xperia XZ2 Compact  color negro + Marvel s Spider-Man  PS4 ](https://www.amazon.es/dp/B07NNVVCQW/?tag=tolees-21) con 33.38 de descuento por 439 EUR (original: 658.95 EUR) en el siguiente enlace!

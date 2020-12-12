@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Tom Tailor 5881901  Botas Clasicas para Hombre  Gris  Coal 00013   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079HBYG81/?tag=tolees-21'
+descuento: '66.56'
+titulo: 'Tom Tailor 5881901  Botas Clasicas para '
 ---
 
 Está [Tom Tailor 5881901  Botas Clasicas para Hombre  Gris  Coal 00013   43 EU](https://www.amazon.es/dp/B079HBYG81/?tag=tolees-21) con 66.56 de descuento por 20.05 EUR (original: 59.95 EUR) en el siguiente enlace!

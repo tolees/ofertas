@@ -17,6 +17,9 @@ comparePrice: 31.16 EUR
 inStock: true
 prodname: 'WOSTOO Alfombra para Piano  Alfombra de Teclado Táctil Musical Touch Juego Musical Portátil Electrónico Educativo Musical Tapete de Piano DE 19 Teclas para Bebé  Niño  Niña Regalo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZHHLRD/?tag=tolees-21'
+descuento: '39.06'
+titulo: 'WOSTOO Alfombra para Piano  Alfombra de '
 ---
 
 Está [WOSTOO Alfombra para Piano  Alfombra de Teclado Táctil Musical Touch Juego Musical Portátil Electrónico Educativo Musical Tapete de Piano DE 19 Teclas para Bebé  Niño  Niña Regalo](https://www.amazon.es/dp/B07MZHHLRD/?tag=tolees-21) con 39.06 de descuento por 18.99 EUR (original: 31.16 EUR) en el siguiente enlace!

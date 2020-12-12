@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Medium Drawstring  Bañador para Hombre  Rosa  Navy Blazer - Tango Red 092  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D936THG/?tag=tolees-21'
+descuento: '42.92'
+titulo: 'Tommy Hilfiger Medium Drawstring  Bañado'
 ---
 
 Está [Tommy Hilfiger Medium Drawstring  Bañador para Hombre  Rosa  Navy Blazer - Tango Red 092  Small](https://www.amazon.es/dp/B07D936THG/?tag=tolees-21) con 42.92 de descuento por 39.9 EUR (original: 69.9 EUR) en el siguiente enlace!

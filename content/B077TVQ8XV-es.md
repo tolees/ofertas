@@ -17,6 +17,9 @@ comparePrice: 62.37 EUR
 inStock: true
 prodname: 'Reebok Flexile  Zapatillas de Deporte para Mujer  Gris  Coalblackskull Greyalloy 0   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TVQ8XV/?tag=tolees-21'
+descuento: '39.92'
+titulo: 'Reebok Flexile  Zapatillas de Deporte pa'
 ---
 
 Está [Reebok Flexile  Zapatillas de Deporte para Mujer  Gris  Coalblackskull Greyalloy 0   38 EU](https://www.amazon.es/dp/B077TVQ8XV/?tag=tolees-21) con 39.92 de descuento por 37.47 EUR (original: 62.37 EUR) en el siguiente enlace!

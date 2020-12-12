@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Original Buff 113262.555.10.00 Tubular de Microfibra  Hombre  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HACJ092/?tag=tolees-21'
+descuento: '40.13'
+titulo: 'Original Buff 113262.555.10.00 Tubular d'
 ---
 
 Tienes [Original Buff 113262.555.10.00 Tubular de Microfibra  Hombre  Talla Única](https://www.amazon.es/dp/B01HACJ092/?tag=tolees-21) con un 40.13 % de descuento con precio de oferta de 8.95 EUR (original: 14.95 EUR) en el siguiente enlace!

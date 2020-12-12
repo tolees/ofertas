@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Chicos - Classics  Montaña Rusa Blizzard Blast  Set con 561 Piezas  41214 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01I3LWQ54/?tag=tolees-21'
+descuento: '41.62'
+titulo: 'Chicos - Classics  Montaña Rusa Blizzard'
 ---
 
 Está [Chicos - Classics  Montaña Rusa Blizzard Blast  Set con 561 Piezas  41214 ](https://www.amazon.es/dp/B01I3LWQ54/?tag=tolees-21) con 41.62 de descuento por 35 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Asics T6c3n3090 - Zapatillas para correr para hombre  color Naranja  Hot Orange/Black/White   talla 40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N54B3BW/?tag=tolees-21'
+descuento: '60.73'
+titulo: 'Asics T6c3n3090 - Zapatillas para correr'
 ---
 
 Está [Asics T6c3n3090 - Zapatillas para correr para hombre  color Naranja  Hot Orange/Black/White   talla 40 EU](https://www.amazon.es/dp/B01N54B3BW/?tag=tolees-21) con 60.73 de descuento por 54.98 EUR (original: 140 EUR) en el siguiente enlace!

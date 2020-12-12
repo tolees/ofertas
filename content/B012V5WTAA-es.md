@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Vans_Apparel V56 Standard  Jeans Rectos para Hombre  Negro  Worn Black   W28/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012V5WTAA/?tag=tolees-21'
+descuento: '44.11'
+titulo: 'Vans_Apparel V56 Standard  Jeans Rectos '
 ---
 
 Ahora mismo tienes [Vans_Apparel V56 Standard  Jeans Rectos para Hombre  Negro  Worn Black   W28/L30](https://www.amazon.es/dp/B012V5WTAA/?tag=tolees-21) a 44.71 EUR (original: 80 EUR) (44.11 %  de descuento) en el siguiente enlace!

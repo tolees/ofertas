@@ -17,6 +17,9 @@ comparePrice: 52.51 EUR
 inStock: true
 prodname: 'SUIT Camisa Hombre Azul 44 cm  17.5" '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GUAMSTE/?tag=tolees-21'
+descuento: '81.03'
+titulo: 'SUIT Camisa Hombre Azul 44 cm  17.5" '
 ---
 
 Está [SUIT Camisa Hombre Azul 44 cm  17.5" ](https://www.amazon.es/dp/B01GUAMSTE/?tag=tolees-21) con 81.03 de descuento por 9.96 EUR (original: 52.51 EUR) en el siguiente enlace!

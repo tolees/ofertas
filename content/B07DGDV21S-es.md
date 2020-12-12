@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'DC Shoes Heathrow TX Se  Zapatillas de Skateboard para Hombre   Navy/Grey Ngh   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGDV21S/?tag=tolees-21'
+descuento: '67.24'
+titulo: 'DC Shoes Heathrow TX Se  Zapatillas de S'
 ---
 
 Está [DC Shoes Heathrow TX Se  Zapatillas de Skateboard para Hombre   Navy/Grey Ngh   41 EU](https://www.amazon.es/dp/B07DGDV21S/?tag=tolees-21) con 67.24 de descuento por 31.12 EUR (original: 95 EUR) en el siguiente enlace!

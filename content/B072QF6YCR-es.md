@@ -17,6 +17,9 @@ comparePrice: 32 EUR
 inStock: true
 prodname: 'RED WAGON Zapatillas con Lazo Niñas  Rojo  Berry   26.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072QF6YCR/?tag=tolees-21'
+descuento: '63.66'
+titulo: 'RED WAGON Zapatillas con Lazo Niñas  Roj'
 ---
 
 Tienes [RED WAGON Zapatillas con Lazo Niñas  Rojo  Berry   26.5 EU](https://www.amazon.es/dp/B072QF6YCR/?tag=tolees-21) con un 63.66 % de descuento con precio de oferta de 11.63 EUR (original: 32 EUR) en el siguiente enlace!

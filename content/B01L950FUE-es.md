@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Gioseppo 37049  Mocasines para Niños   Negro 000   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L950FUE/?tag=tolees-21'
+descuento: '46.23'
+titulo: 'Gioseppo 37049  Mocasines para Niños   N'
 ---
 
 Tienes [Gioseppo 37049  Mocasines para Niños   Negro 000   32 EU](https://www.amazon.es/dp/B01L950FUE/?tag=tolees-21) con un 46.23 % de descuento con precio de oferta de 21.48 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Geox D Stardust B  Botines para Mujer   Black C9999   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792PFZR9/?tag=tolees-21'
+descuento: '73.71'
+titulo: 'Geox D Stardust B  Botines para Mujer   '
 ---
 
 Tienes [Geox D Stardust B  Botines para Mujer   Black C9999   40 EU](https://www.amazon.es/dp/B0792PFZR9/?tag=tolees-21) con un 73.71 % de descuento con precio de oferta de 32.86 EUR (original: 125 EUR) en el siguiente enlace!

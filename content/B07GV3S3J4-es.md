@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Fly London - Dipi614fly  Bolsos maletín Mujer  Amarillo  Mustard/Dk.Brown   8x16x22 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GV3S3J4/?tag=tolees-21'
+descuento: '40.66'
+titulo: 'Fly London - Dipi614fly  Bolsos maletín '
 ---
 
 Ahora mismo tienes [Fly London - Dipi614fly  Bolsos maletín Mujer  Amarillo  Mustard/Dk.Brown   8x16x22 cm  W x H L ](https://www.amazon.es/dp/B07GV3S3J4/?tag=tolees-21) a 29.61 EUR (original: 49.9 EUR) (40.66 %  de descuento) en el siguiente enlace!

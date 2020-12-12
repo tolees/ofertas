@@ -17,6 +17,9 @@ comparePrice: 54.71 EUR
 inStock: true
 prodname: 'Adaptador USB C  adaptador iMXPW para MacBook Pro con salida HDMI 4K para el nuevo MacBook Pro 2016/2017/2018'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079NXPFX8/?tag=tolees-21'
+descuento: '52.49'
+titulo: 'Adaptador USB C  adaptador iMXPW para Ma'
 ---
 
 Tienes [Adaptador USB C  adaptador iMXPW para MacBook Pro con salida HDMI 4K para el nuevo MacBook Pro 2016/2017/2018](https://www.amazon.es/dp/B079NXPFX8/?tag=tolees-21) con un 52.49 % de descuento con precio de oferta de 25.99 EUR (original: 54.71 EUR) en el siguiente enlace!

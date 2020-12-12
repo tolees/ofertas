@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'TV Box Android 7.1 - VIDEN Smart TV Box Amlogic S905X Quad Core  2GB RAM & 16GB ROM  4K*2K UHD H.265  HDMI  USB*2  2.4GHz WiFi  Bluetooth 4.0  Web TV Box  Android Set-Top Box [Versión Mejorada]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3HHR4B/?tag=tolees-21'
+descuento: '28.35'
+titulo: 'TV Box Android 7.1 - VIDEN Smart TV Box '
 ---
 
 Ahora mismo tienes [TV Box Android 7.1 - VIDEN Smart TV Box Amlogic S905X Quad Core  2GB RAM & 16GB ROM  4K*2K UHD H.265  HDMI  USB*2  2.4GHz WiFi  Bluetooth 4.0  Web TV Box  Android Set-Top Box [Versión Mejorada]](https://www.amazon.es/dp/B07L3HHR4B/?tag=tolees-21) a 42.99 EUR (original: 60 EUR) (28.35 %  de descuento) en el siguiente enlace!

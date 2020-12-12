@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Burton All Day Long Gorro  Hombre  Verde  Balsam   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F88YJPN/?tag=tolees-21'
+descuento: '53.16'
+titulo: 'Burton All Day Long Gorro  Hombre  Verde'
 ---
 
 Ahora mismo tienes [Burton All Day Long Gorro  Hombre  Verde  Balsam   Talla Única](https://www.amazon.es/dp/B07F88YJPN/?tag=tolees-21) a 11.71 EUR (original: 25 EUR) (53.16 %  de descuento) en el siguiente enlace!

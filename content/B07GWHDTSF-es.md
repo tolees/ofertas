@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Cámara IP  AFBEST 1080P Cámaras de seguridad inalámbricas con control remoto por infrarrojos con Pan/Tilt/Zoom Detector de movimiento de visión nocturna de audio bidireccional'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GWHDTSF/?tag=tolees-21'
+descuento: '57.15'
+titulo: 'Cámara IP  AFBEST 1080P Cámaras de segur'
 ---
 
 Está [Cámara IP  AFBEST 1080P Cámaras de seguridad inalámbricas con control remoto por infrarrojos con Pan/Tilt/Zoom Detector de movimiento de visión nocturna de audio bidireccional](https://www.amazon.es/dp/B07GWHDTSF/?tag=tolees-21) con 57.15 de descuento por 29.99 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 21.14 EUR
 inStock: true
 prodname: 'Flexi Design S Cinta 5m. Rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VOAXPFM/?tag=tolees-21'
+descuento: '60.36'
+titulo: 'Flexi Design S Cinta 5m. Rosa'
 ---
 
 Tienes [Flexi Design S Cinta 5m. Rosa](https://www.amazon.es/dp/B00VOAXPFM/?tag=tolees-21) con un 60.36 % de descuento con precio de oferta de 8.38 EUR (original: 21.14 EUR) en el siguiente enlace!

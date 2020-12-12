@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma RS-150 Nylon Wn s  Zapatillas para Mujer  Rosa  Coral Cloud White   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBWXNDQ/?tag=tolees-21'
+descuento: '74.33'
+titulo: 'Puma RS-150 Nylon Wn s  Zapatillas para '
 ---
 
 Está [Puma RS-150 Nylon Wn s  Zapatillas para Mujer  Rosa  Coral Cloud White   36 EU](https://www.amazon.es/dp/B07DBWXNDQ/?tag=tolees-21) con 74.33 de descuento por 25.66 EUR (original: 99.95 EUR) en el siguiente enlace!

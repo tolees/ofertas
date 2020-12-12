@@ -17,6 +17,9 @@ comparePrice: 33.9 EUR
 inStock: true
 prodname: 'Havaianas High Fashion  Chanclas para Mujer  Morado  Grape Wine   40 EU  38 Brazilian '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074MK6RMG/?tag=tolees-21'
+descuento: '65.84'
+titulo: 'Havaianas High Fashion  Chanclas para Mu'
 ---
 
 Ahora mismo tienes [Havaianas High Fashion  Chanclas para Mujer  Morado  Grape Wine   40 EU  38 Brazilian ](https://www.amazon.es/dp/B074MK6RMG/?tag=tolees-21) a 11.58 EUR (original: 33.9 EUR) (65.84 %  de descuento) en el siguiente enlace!

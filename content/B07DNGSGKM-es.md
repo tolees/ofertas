@@ -17,6 +17,9 @@ comparePrice: 41 EUR
 inStock: true
 prodname: 'Pablosky Náuticos Unisex niño   Negro 328310   24 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNGSGKM/?tag=tolees-21'
+descuento: '32.51'
+titulo: 'Pablosky Náuticos Unisex niño   Negro 32'
 ---
 
 Está [Pablosky Náuticos Unisex niño   Negro 328310   24 EU](https://www.amazon.es/dp/B07DNGSGKM/?tag=tolees-21) con 32.51 de descuento por 27.67 EUR (original: 41 EUR) en el siguiente enlace!

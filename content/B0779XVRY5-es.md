@@ -17,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'FIND Camiseta Deporte Camo Hombre  Negro  Black   54  Talla del fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0779XVRY5/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND Camiseta Deporte Camo Hombre  Negro'
 ---
 
 Está [FIND Camiseta Deporte Camo Hombre  Negro  Black   54  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B0779XVRY5/?tag=tolees-21) con 70.00 de descuento por 5.4 EUR (original: 18 EUR) en el siguiente enlace!

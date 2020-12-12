@@ -17,6 +17,9 @@ comparePrice: 33.99 EUR
 inStock: true
 prodname: 'CAMRY Báscula de Baño Digital de Alta Medición Precisa 180kg/400lbs  Balanza Digital Baño Vidrio Templado  Pantalla LCD  Auto Encendido/Apagado  5013W '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BWD2DQT/?tag=tolees-21'
+descuento: '52.96'
+titulo: 'CAMRY Báscula de Baño Digital de Alta Me'
 ---
 
 Tienes [CAMRY Báscula de Baño Digital de Alta Medición Precisa 180kg/400lbs  Balanza Digital Baño Vidrio Templado  Pantalla LCD  Auto Encendido/Apagado  5013W ](https://www.amazon.es/dp/B07BWD2DQT/?tag=tolees-21) con un 52.96 % de descuento con precio de oferta de 15.99 EUR (original: 33.99 EUR) en el siguiente enlace!

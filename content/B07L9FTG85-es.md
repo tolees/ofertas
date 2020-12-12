@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Napapijri Bevora W C Sudadera  Azul  BLU Marine 176   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9FTG85/?tag=tolees-21'
+descuento: '72.73'
+titulo: 'Napapijri Bevora W C Sudadera  Azul  BLU'
 ---
 
 Ahora mismo tienes [Napapijri Bevora W C Sudadera  Azul  BLU Marine 176   Large para Mujer](https://www.amazon.es/dp/B07L9FTG85/?tag=tolees-21) a 27 EUR (original: 99 EUR) (72.73 %  de descuento) en el siguiente enlace!

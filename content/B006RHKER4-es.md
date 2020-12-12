@@ -17,6 +17,9 @@ comparePrice: 34.7 EUR
 inStock: true
 prodname: 'Sony Micro Vault R-Series - Memoria USB de 32 GB  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006RHKER4/?tag=tolees-21'
+descuento: '79.83'
+titulo: 'Sony Micro Vault R-Series - Memoria USB '
 ---
 
 Está [Sony Micro Vault R-Series - Memoria USB de 32 GB  Negro](https://www.amazon.es/dp/B006RHKER4/?tag=tolees-21) con 79.83 de descuento por 7 EUR (original: 34.7 EUR) en el siguiente enlace!

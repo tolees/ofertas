@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Bateria Externa 10000mAh Ultra Delgada de RAVPower Cargador Movil Portátil con Puerto USB Tipo C  Perfectamente Diseñado para el iPhone 8  iPhone X  Samsung S8 y iPad Air-Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077ZMP73D/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'Bateria Externa 10000mAh Ultra Delgada d'
 ---
 
 Tienes [Bateria Externa 10000mAh Ultra Delgada de RAVPower Cargador Movil Portátil con Puerto USB Tipo C  Perfectamente Diseñado para el iPhone 8  iPhone X  Samsung S8 y iPad Air-Blanco](https://www.amazon.es/dp/B077ZMP73D/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!

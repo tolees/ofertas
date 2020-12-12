@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Puma Basket Platform Patent  Zapatillas para Mujer  Negro  Black-Silver   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071LC8NQS/?tag=tolees-21'
+descuento: '67.71'
+titulo: 'Puma Basket Platform Patent  Zapatillas '
 ---
 
 Está [Puma Basket Platform Patent  Zapatillas para Mujer  Negro  Black-Silver   38 EU](https://www.amazon.es/dp/B071LC8NQS/?tag=tolees-21) con 67.71 de descuento por 35.5 EUR (original: 109.95 EUR) en el siguiente enlace!

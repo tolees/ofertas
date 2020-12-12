@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Love in Paradise Vestido Ique Antracita M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018SFQ4P8/?tag=tolees-21'
+descuento: '86.53'
+titulo: 'Love in Paradise Vestido Ique Antracita '
 ---
 
 Tienes [Love in Paradise Vestido Ique Antracita M](https://www.amazon.es/dp/B018SFQ4P8/?tag=tolees-21) con un 86.53 % de descuento con precio de oferta de 13.47 EUR (original: 100 EUR) en el siguiente enlace!

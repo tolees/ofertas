@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'VILA CLOTHES VILOVABLE L/S KNIT TOP  suéter Mujer  Beige  Sandshell   38  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HZERWY0/?tag=tolees-21'
+descuento: '60.73'
+titulo: 'VILA CLOTHES VILOVABLE L/S KNIT TOP  sué'
 ---
 
 Está [VILA CLOTHES VILOVABLE L/S KNIT TOP  suéter Mujer  Beige  Sandshell   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01HZERWY0/?tag=tolees-21) con 60.73 de descuento por 21.58 EUR (original: 54.95 EUR) en el siguiente enlace!

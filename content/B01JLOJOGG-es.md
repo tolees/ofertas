@@ -17,6 +17,9 @@ comparePrice: 295 EUR
 inStock: true
 prodname: 'Ferrari 0830360 Speciale Evo - Reloj de pulsera para hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JLOJOGG/?tag=tolees-21'
+descuento: '40.06'
+titulo: 'Ferrari 0830360 Speciale Evo - Reloj de '
 ---
 
 Está [Ferrari 0830360 Speciale Evo - Reloj de pulsera para hombre](https://www.amazon.es/dp/B01JLOJOGG/?tag=tolees-21) con 40.06 de descuento por 176.81 EUR (original: 295 EUR) en el siguiente enlace!

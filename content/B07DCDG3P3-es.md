@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'PIECES Pcfrikka LS Wool Knit  suéter para Mujer  Rosa Peachskin  40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCDG3P3/?tag=tolees-21'
+descuento: '74.79'
+titulo: 'PIECES Pcfrikka LS Wool Knit  suéter par'
 ---
 
 Está [PIECES Pcfrikka LS Wool Knit  suéter para Mujer  Rosa Peachskin  40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07DCDG3P3/?tag=tolees-21) con 74.79 de descuento por 8.82 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Asics Fuzex Rush  Zapatillas de Running para Mujer  Blanco  White/Silver/Mid Grey   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VNTDC1/?tag=tolees-21'
+descuento: '80.74'
+titulo: 'Asics Fuzex Rush  Zapatillas de Running '
 ---
 
 Tienes [Asics Fuzex Rush  Zapatillas de Running para Mujer  Blanco  White/Silver/Mid Grey   39 EU](https://www.amazon.es/dp/B071VNTDC1/?tag=tolees-21) con un 80.74 % de descuento con precio de oferta de 23.11 EUR (original: 120 EUR) en el siguiente enlace!

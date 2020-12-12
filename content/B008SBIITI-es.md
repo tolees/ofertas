@@ -17,6 +17,9 @@ comparePrice: 82.85 EUR
 inStock: true
 prodname: 'Trussardi My Land Eau de Toilette Vaporizador 100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008SBIITI/?tag=tolees-21'
+descuento: '50.39'
+titulo: 'Trussardi My Land Eau de Toilette Vapori'
 ---
 
 Ahora mismo tienes [Trussardi My Land Eau de Toilette Vaporizador 100 ml](https://www.amazon.es/dp/B008SBIITI/?tag=tolees-21) a 41.1 EUR (original: 82.85 EUR) (50.39 %  de descuento) en el siguiente enlace!

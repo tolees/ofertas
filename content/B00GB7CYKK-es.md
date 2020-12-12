@@ -17,6 +17,9 @@ comparePrice: 20.95 EUR
 inStock: true
 prodname: 'Tuc Tuc Kimono - Pelota multiactividad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GB7CYKK/?tag=tolees-21'
+descuento: '76.61'
+titulo: 'Tuc Tuc Kimono - Pelota multiactividad'
 ---
 
 Está [Tuc Tuc Kimono - Pelota multiactividad](https://www.amazon.es/dp/B00GB7CYKK/?tag=tolees-21) con 76.61 de descuento por 4.9 EUR (original: 20.95 EUR) en el siguiente enlace!

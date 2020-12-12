@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Philips Daily Collection Batidora HR2105/00 - Licuadora  Acero inoxidable  Vidrio  Polipropileno  220-240V  50/60 Hz '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PNQ99V2/?tag=tolees-21'
+descuento: '36.67'
+titulo: 'Philips Daily Collection Batidora HR2105'
 ---
 
 Ahora mismo tienes [Philips Daily Collection Batidora HR2105/00 - Licuadora  Acero inoxidable  Vidrio  Polipropileno  220-240V  50/60 Hz ](https://www.amazon.es/dp/B00PNQ99V2/?tag=tolees-21) a 38 EUR (original: 60 EUR) (36.67 %  de descuento) en el siguiente enlace!

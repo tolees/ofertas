@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 18399/1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZ3N6WL/?tag=tolees-21'
+descuento: '37.61'
+titulo: 'Lotus Reloj Analógico para Mujer de Cuar'
 ---
 
 Está [Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 18399/1](https://www.amazon.es/dp/B01MZ3N6WL/?tag=tolees-21) con 37.61 de descuento por 55.53 EUR (original: 89 EUR) en el siguiente enlace!

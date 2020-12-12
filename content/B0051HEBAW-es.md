@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'DeWalt DCL040-XJ Linterna Cabeza rotativa XR 18V sin Cargador/batería  18 V'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0051HEBAW/?tag=tolees-21'
+descuento: '45.53'
+titulo: 'DeWalt DCL040-XJ Linterna Cabeza rotativ'
 ---
 
 Tienes [DeWalt DCL040-XJ Linterna Cabeza rotativa XR 18V sin Cargador/batería  18 V](https://www.amazon.es/dp/B0051HEBAW/?tag=tolees-21) con un 45.53 % de descuento con precio de oferta de 49 EUR (original: 89.95 EUR) en el siguiente enlace!

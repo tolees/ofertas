@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'BOSS Athleisure Lester-20  Pantalones Hombre  Negro  Black 001    Talla del Fabricante: 3132 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Z7C1JN/?tag=tolees-21'
+descuento: '54.85'
+titulo: 'BOSS Athleisure Lester-20  Pantalones Ho'
 ---
 
 Está [BOSS Athleisure Lester-20  Pantalones Hombre  Negro  Black 001    Talla del Fabricante: 3132 ](https://www.amazon.es/dp/B077Z7C1JN/?tag=tolees-21) con 54.85 de descuento por 62.76 EUR (original: 139 EUR) en el siguiente enlace!

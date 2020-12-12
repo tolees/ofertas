@@ -17,6 +17,9 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'Puma Kids Lifestyle Quarters 3P - Calcetines de deporte con estampado infantil  Multicolor Blanco/Gris/Noir   talla 27-30 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003WIZF5W/?tag=tolees-21'
+descuento: '25.53'
+titulo: 'Puma Kids Lifestyle Quarters 3P - Calcet'
 ---
 
 Ahora mismo tienes [Puma Kids Lifestyle Quarters 3P - Calcetines de deporte con estampado infantil  Multicolor Blanco/Gris/Noir   talla 27-30 EU](https://www.amazon.es/dp/B003WIZF5W/?tag=tolees-21) a 5.95 EUR (original: 7.99 EUR) (25.53 %  de descuento) en el siguiente enlace!

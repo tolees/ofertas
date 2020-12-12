@@ -17,6 +17,9 @@ comparePrice: 300 EUR
 inStock: true
 prodname: 'BULLPADEL GOLD EDITION 2015'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCGNKDB/?tag=tolees-21'
+descuento: '70.33'
+titulo: 'BULLPADEL GOLD EDITION 2015'
 ---
 
 Tienes [BULLPADEL GOLD EDITION 2015](https://www.amazon.es/dp/B06XCGNKDB/?tag=tolees-21) con un 70.33 % de descuento con precio de oferta de 89 EUR (original: 300 EUR) en el siguiente enlace!

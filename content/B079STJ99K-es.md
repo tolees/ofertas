@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'Desigual TS_Oskar  Camiseta Niños   Gris Vigore Claro 2042 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079STJ99K/?tag=tolees-21'
+descuento: '41.06'
+titulo: 'Desigual TS_Oskar  Camiseta Niños   Gris'
 ---
 
 Está [Desigual TS_Oskar  Camiseta Niños   Gris Vigore Claro 2042 ](https://www.amazon.es/dp/B079STJ99K/?tag=tolees-21) con 41.06 de descuento por 21.19 EUR (original: 35.95 EUR) en el siguiente enlace!

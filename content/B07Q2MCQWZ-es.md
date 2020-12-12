@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'TTMOW Set de Rodillos de Pintura Multifunción Profesional sin Costura con un Rodillo de Pintura para Pintura de Casa  Escuela y Oficina  7PCS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q2MCQWZ/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'TTMOW Set de Rodillos de Pintura Multifu'
 ---
 
 Tienes [TTMOW Set de Rodillos de Pintura Multifunción Profesional sin Costura con un Rodillo de Pintura para Pintura de Casa  Escuela y Oficina  7PCS ](https://www.amazon.es/dp/B07Q2MCQWZ/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

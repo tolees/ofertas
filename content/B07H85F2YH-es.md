@@ -17,6 +17,9 @@ comparePrice: 46.99 EUR
 inStock: true
 prodname: 'LiBatter 2X Filtros Lavables Pre Motor para Dyson DC58 DC59 DC61 DC62 V6 V8 aspiradora Animal Lavable pre-Motor Stick Filter'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H85F2YH/?tag=tolees-21'
+descuento: '80.87'
+titulo: 'LiBatter 2X Filtros Lavables Pre Motor p'
 ---
 
 Está [LiBatter 2X Filtros Lavables Pre Motor para Dyson DC58 DC59 DC61 DC62 V6 V8 aspiradora Animal Lavable pre-Motor Stick Filter](https://www.amazon.es/dp/B07H85F2YH/?tag=tolees-21) con 80.87 de descuento por 8.99 EUR (original: 46.99 EUR) en el siguiente enlace!

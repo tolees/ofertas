@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Esprit 028ee1i044 suéter  Rosa  Light Pink 5 694   X-Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0784QSM1W/?tag=tolees-21'
+descuento: '60.95'
+titulo: 'Esprit 028ee1i044 suéter  Rosa  Light Pi'
 ---
 
 Ahora mismo tienes [Esprit 028ee1i044 suéter  Rosa  Light Pink 5 694   X-Large para Mujer](https://www.amazon.es/dp/B0784QSM1W/?tag=tolees-21) a 19.52 EUR (original: 49.99 EUR) (60.95 %  de descuento) en el siguiente enlace!

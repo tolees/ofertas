@@ -17,6 +17,9 @@ comparePrice: 9.98 EUR
 inStock: true
 prodname: 'Scottex Fresh Papel Higiénico Húmedo - Pack de 4 x 80 servicios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M3NSCFR/?tag=tolees-21'
+descuento: '26.55'
+titulo: 'Scottex Fresh Papel Higiénico Húmedo - P'
 ---
 
 Está [Scottex Fresh Papel Higiénico Húmedo - Pack de 4 x 80 servicios](https://www.amazon.es/dp/B01M3NSCFR/?tag=tolees-21) con 26.55 de descuento por 7.33 EUR (original: 9.98 EUR) en el siguiente enlace!

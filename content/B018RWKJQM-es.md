@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'The North Face W Exploration Convertible  Pantalones Mujer  Gris  Asphalt Grey   4 Regular'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018RWKJQM/?tag=tolees-21'
+descuento: '43.21'
+titulo: 'The North Face W Exploration Convertible'
 ---
 
 Tienes [The North Face W Exploration Convertible  Pantalones Mujer  Gris  Asphalt Grey   4 Regular](https://www.amazon.es/dp/B018RWKJQM/?tag=tolees-21) con un 43.21 % de descuento con precio de oferta de 53.95 EUR (original: 95 EUR) en el siguiente enlace!

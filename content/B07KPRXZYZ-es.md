@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Magic Wand Massager 100% Impermeable  James Love Mini Silicona Masajeador Eléctrico con 10 Intensivo vibracións Modos para todo el Cuerpo Hombros Pierna Espalda para Mujer  Carga de USB  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPRXZYZ/?tag=tolees-21'
+descuento: '63.06'
+titulo: 'Magic Wand Massager 100% Impermeable  Ja'
 ---
 
 Está [Magic Wand Massager 100% Impermeable  James Love Mini Silicona Masajeador Eléctrico con 10 Intensivo vibracións Modos para todo el Cuerpo Hombros Pierna Espalda para Mujer  Carga de USB  Negro ](https://www.amazon.es/dp/B07KPRXZYZ/?tag=tolees-21) con 63.06 de descuento por 16.99 EUR (original: 45.99 EUR) en el siguiente enlace!

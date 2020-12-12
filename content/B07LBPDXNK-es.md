@@ -17,6 +17,9 @@ comparePrice: 57 EUR
 inStock: true
 prodname: 'Calvin Klein Sleep Short  18E  Pantalones Cortos  Gris  Grey Heather   W32 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBPDXNK/?tag=tolees-21'
+descuento: '46.28'
+titulo: 'Calvin Klein Sleep Short  18E  Pantalone'
 ---
 
 Está [Calvin Klein Sleep Short  18E  Pantalones Cortos  Gris  Grey Heather   W32 para Hombre](https://www.amazon.es/dp/B07LBPDXNK/?tag=tolees-21) con 46.28 de descuento por 30.62 EUR (original: 57 EUR) en el siguiente enlace!

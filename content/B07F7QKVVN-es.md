@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'FREDI Cámara Espía HD 1080P Mini Cámara Oculta Portátil Interior/Exterior WiFi Cámara IP de Seguridad Admite Tarjeta hasta 128G no Incluye / batería incorporada  Vision Nocturna Cámara de Vigilancia'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7QKVVN/?tag=tolees-21'
+descuento: '57.01'
+titulo: 'FREDI Cámara Espía HD 1080P Mini Cámara '
 ---
 
 Ahora mismo tienes [FREDI Cámara Espía HD 1080P Mini Cámara Oculta Portátil Interior/Exterior WiFi Cámara IP de Seguridad Admite Tarjeta hasta 128G no Incluye / batería incorporada  Vision Nocturna Cámara de Vigilancia](https://www.amazon.es/dp/B07F7QKVVN/?tag=tolees-21) a 42.99 EUR (original: 99.99 EUR) (57.01 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko Pop! - Young Dr. Ford figura de vinilo  seria Westworld  14258 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XC7FF9G/?tag=tolees-21'
+descuento: '45.90'
+titulo: 'Funko Pop! - Young Dr. Ford figura de vi'
 ---
 
 Está [Funko Pop! - Young Dr. Ford figura de vinilo  seria Westworld  14258 ](https://www.amazon.es/dp/B06XC7FF9G/?tag=tolees-21) con 45.90 de descuento por 8.11 EUR (original: 14.99 EUR) en el siguiente enlace!

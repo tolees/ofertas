@@ -17,6 +17,9 @@ comparePrice: 10.79 EUR
 inStock: true
 prodname: 'Osram Star Classic A Lámpara LED E27  8 W  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KPUFBFO/?tag=tolees-21'
+descuento: '51.90'
+titulo: 'Osram Star Classic A Lámpara LED E27  8 '
 ---
 
 Tienes [Osram Star Classic A Lámpara LED E27  8 W  Blanco](https://www.amazon.es/dp/B00KPUFBFO/?tag=tolees-21) con un 51.90 % de descuento con precio de oferta de 5.19 EUR (original: 10.79 EUR) en el siguiente enlace!

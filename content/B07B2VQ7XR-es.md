@@ -17,6 +17,9 @@ comparePrice: 34.29 EUR
 inStock: true
 prodname: 'Hanbaili 5V 2W 25MA Paneles solares de silicio policristalino Cargador de batería de epoxy DIY al Aire Libre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B2VQ7XR/?tag=tolees-21'
+descuento: '87.52'
+titulo: 'Hanbaili 5V 2W 25MA Paneles solares de s'
 ---
 
 Está [Hanbaili 5V 2W 25MA Paneles solares de silicio policristalino Cargador de batería de epoxy DIY al Aire Libre](https://www.amazon.es/dp/B07B2VQ7XR/?tag=tolees-21) con 87.52 de descuento por 4.28 EUR (original: 34.29 EUR) en el siguiente enlace!

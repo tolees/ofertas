@@ -17,6 +17,9 @@ comparePrice: 14.11 EUR
 inStock: true
 prodname: 'Neo Tools 08-036 Llave de vaso  6 cantos 36 mm  1/2"'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MW4P2ZK/?tag=tolees-21'
+descuento: '44.37'
+titulo: 'Neo Tools 08-036 Llave de vaso  6 cantos'
 ---
 
 Tienes [Neo Tools 08-036 Llave de vaso  6 cantos 36 mm  1/2"](https://www.amazon.es/dp/B00MW4P2ZK/?tag=tolees-21) con un 44.37 % de descuento con precio de oferta de 7.85 EUR (original: 14.11 EUR) en el siguiente enlace!

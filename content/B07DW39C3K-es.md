@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'DoGeek-3x Bandas de Resistencia para Pilates Yoga  Ballet  Gimnasia y rehabilitaci¨®n 5pcs'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DW39C3K/?tag=tolees-21'
+descuento: '60.74'
+titulo: 'DoGeek-3x Bandas de Resistencia para Pil'
 ---
 
 Está [DoGeek-3x Bandas de Resistencia para Pilates Yoga  Ballet  Gimnasia y rehabilitaci¨®n 5pcs](https://www.amazon.es/dp/B07DW39C3K/?tag=tolees-21) con 60.74 de descuento por 10.99 EUR (original: 27.99 EUR) en el siguiente enlace!

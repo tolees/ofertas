@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'find. Sandalias Planas de Tiras Mujer  Verde  Deep Green   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077RST6LF/?tag=tolees-21'
+descuento: '61.38'
+titulo: 'find. Sandalias Planas de Tiras Mujer  V'
 ---
 
 Ahora mismo tienes [find. Sandalias Planas de Tiras Mujer  Verde  Deep Green   39 EU](https://www.amazon.es/dp/B077RST6LF/?tag=tolees-21) a 21.24 EUR (original: 55 EUR) (61.38 %  de descuento) en el siguiente enlace!

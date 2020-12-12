@@ -17,6 +17,9 @@ comparePrice: 12.51 EUR
 inStock: true
 prodname: 'Metaltex 235112 Bowl Colador  Blanco  25 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D3CC8VZ/?tag=tolees-21'
+descuento: '56.43'
+titulo: 'Metaltex 235112 Bowl Colador  Blanco  25'
 ---
 
 Tienes [Metaltex 235112 Bowl Colador  Blanco  25 cm](https://www.amazon.es/dp/B07D3CC8VZ/?tag=tolees-21) con un 56.43 % de descuento con precio de oferta de 5.45 EUR (original: 12.51 EUR) en el siguiente enlace!

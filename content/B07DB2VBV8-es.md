@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Mega Nrgy Turbo 2  Zapatillas de Running para Hombre  Azul  Peacoat-Iron Gate White 11   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DB2VBV8/?tag=tolees-21'
+descuento: '61.64'
+titulo: 'Puma Mega Nrgy Turbo 2  Zapatillas de Ru'
 ---
 
 Ahora mismo tienes [Puma Mega Nrgy Turbo 2  Zapatillas de Running para Hombre  Azul  Peacoat-Iron Gate White 11   44 EU](https://www.amazon.es/dp/B07DB2VBV8/?tag=tolees-21) a 26.83 EUR (original: 69.95 EUR) (61.64 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 10.2 EUR
 inStock: true
 prodname: 'Blade [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008AIL2IS/?tag=tolees-21'
+descuento: '31.47'
+titulo: 'Blade [Blu-ray]'
 ---
 
 Está [Blade [Blu-ray]](https://www.amazon.es/dp/B008AIL2IS/?tag=tolees-21) con 31.47 de descuento por 6.99 EUR (original: 10.2 EUR) en el siguiente enlace!

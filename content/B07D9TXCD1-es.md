@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Adidas Galaxy 4 M  Zapatillas de Entrenamiento para Hombre  Negro Core Black/Footwear White 0  42 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9TXCD1/?tag=tolees-21'
+descuento: '44.19'
+titulo: 'Adidas Galaxy 4 M  Zapatillas de Entrena'
 ---
 
 Ahora mismo tienes [Adidas Galaxy 4 M  Zapatillas de Entrenamiento para Hombre  Negro Core Black/Footwear White 0  42 2/3 EU](https://www.amazon.es/dp/B07D9TXCD1/?tag=tolees-21) a 30.67 EUR (original: 54.95 EUR) (44.19 %  de descuento) en el siguiente enlace!

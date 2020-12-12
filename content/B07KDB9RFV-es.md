@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'adidas Convertible 3 Stripes Duffel Bag S Womens Graphic  Unisex Adulto  Black White  NS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KDB9RFV/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Convertible 3 Stripes Duffel Bag '
 ---
 
 Está [adidas Convertible 3 Stripes Duffel Bag S Womens Graphic  Unisex Adulto  Black White  NS](https://www.amazon.es/dp/B07KDB9RFV/?tag=tolees-21) con 49.99 de descuento por 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

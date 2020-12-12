@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'XXL Set 3x250ml - Lubricante médico PlayGel"med + 2-in-1 + all-in-one" de VIBRATISSIMO de ml con base de agua y efecto duradero  dermatológicamente testado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GS5YYXP/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'XXL Set 3x250ml - Lubricante médico Play'
 ---
 
 Tienes [XXL Set 3x250ml - Lubricante médico PlayGel"med + 2-in-1 + all-in-one" de VIBRATISSIMO de ml con base de agua y efecto duradero  dermatológicamente testado](https://www.amazon.es/dp/B07GS5YYXP/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

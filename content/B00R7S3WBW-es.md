@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'BILLABONG Intruder Boy Sssp 22  Conjunto térmico para Niños  Azul  Blue 20   8 años  Tamaño del fabricante:8 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00R7S3WBW/?tag=tolees-21'
+descuento: '59.92'
+titulo: 'BILLABONG Intruder Boy Sssp 22  Conjunto'
 ---
 
 Está [BILLABONG Intruder Boy Sssp 22  Conjunto térmico para Niños  Azul  Blue 20   8 años  Tamaño del fabricante:8 ](https://www.amazon.es/dp/B00R7S3WBW/?tag=tolees-21) con 59.92 de descuento por 19.64 EUR (original: 49 EUR) en el siguiente enlace!

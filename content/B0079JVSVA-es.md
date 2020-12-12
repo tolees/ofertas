@@ -17,6 +17,9 @@ comparePrice: 34.51 EUR
 inStock: true
 prodname: 'BRA Efficient Orange Sartén de 20 cm  aluminio fundido con antiadherente Platinum Plus plana  apta para inducción'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0079JVSVA/?tag=tolees-21'
+descuento: '42.07'
+titulo: 'BRA Efficient Orange Sartén de 20 cm  al'
 ---
 
 Está [BRA Efficient Orange Sartén de 20 cm  aluminio fundido con antiadherente Platinum Plus plana  apta para inducción](https://www.amazon.es/dp/B0079JVSVA/?tag=tolees-21) con 42.07 de descuento por 19.99 EUR (original: 34.51 EUR) en el siguiente enlace!

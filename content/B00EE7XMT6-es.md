@@ -17,6 +17,9 @@ comparePrice: 16.86 EUR
 inStock: true
 prodname: 'Bottari 13173 Cojines del Pedal para Coches  Conjunto de 3 Piezas  Color Amarillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00EE7XMT6/?tag=tolees-21'
+descuento: '46.62'
+titulo: 'Bottari 13173 Cojines del Pedal para Coc'
 ---
 
 Está [Bottari 13173 Cojines del Pedal para Coches  Conjunto de 3 Piezas  Color Amarillo](https://www.amazon.es/dp/B00EE7XMT6/?tag=tolees-21) con 46.62 de descuento por 9 EUR (original: 16.86 EUR) en el siguiente enlace!

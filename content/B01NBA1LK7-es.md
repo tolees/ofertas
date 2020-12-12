@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance Flash  Zapatillas Deportivas para Interior para Hombre   Dark Cyclone/Energy   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NBA1LK7/?tag=tolees-21'
+descuento: '42.86'
+titulo: 'New Balance Flash  Zapatillas Deportivas'
 ---
 
 Tienes [New Balance Flash  Zapatillas Deportivas para Interior para Hombre   Dark Cyclone/Energy   45 EU](https://www.amazon.es/dp/B01NBA1LK7/?tag=tolees-21) con un 42.86 % de descuento con precio de oferta de 40 EUR (original: 70 EUR) en el siguiente enlace!

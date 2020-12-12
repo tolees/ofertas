@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Kitchen Artist CS109273 - Máquina para hacer ravioli y spaghetti'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002U09FFY/?tag=tolees-21'
+descuento: '34.00'
+titulo: 'Kitchen Artist CS109273 - Máquina para h'
 ---
 
 Ahora mismo tienes [Kitchen Artist CS109273 - Máquina para hacer ravioli y spaghetti](https://www.amazon.es/dp/B002U09FFY/?tag=tolees-21) a 39.6 EUR (original: 60 EUR) (34.00 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Geox B Kilwi Girl B  Zapatillas para Bebés   Smoke Grey C9006   21 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792J6RPH/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Geox B Kilwi Girl B  Zapatillas para Beb'
 ---
 
 Tienes [Geox B Kilwi Girl B  Zapatillas para Bebés   Smoke Grey C9006   21 EU](https://www.amazon.es/dp/B0792J6RPH/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 24.95 EUR (original: 49.9 EUR) en el siguiente enlace!

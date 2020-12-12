@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcorotto Sweat Hood  Capucha Hombre  Gris  Medium  Talla del Fabricante: '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GNGXC88/?tag=tolees-21'
+descuento: '47.48'
+titulo: 'JACK & JONES Jcorotto Sweat Hood  Capuch'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcorotto Sweat Hood  Capucha Hombre  Gris  Medium  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNGXC88/?tag=tolees-21) a 15.75 EUR (original: 29.99 EUR) (47.48 %  de descuento) en el siguiente enlace!

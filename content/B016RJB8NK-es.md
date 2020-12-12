@@ -17,6 +17,9 @@ comparePrice: 419 EUR
 inStock: true
 prodname: 'Suunto - Traverse - SS021844000 - Reloj GPS Outdoor para excursionismo y senderismo - Sumergible - Ámbar - Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016RJB8NK/?tag=tolees-21'
+descuento: '45.35'
+titulo: 'Suunto - Traverse - SS021844000 - Reloj '
 ---
 
 Tienes [Suunto - Traverse - SS021844000 - Reloj GPS Outdoor para excursionismo y senderismo - Sumergible - Ámbar - Talla única](https://www.amazon.es/dp/B016RJB8NK/?tag=tolees-21) con un 45.35 % de descuento con precio de oferta de 229 EUR (original: 419 EUR) en el siguiente enlace!

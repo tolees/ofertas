@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Kappa Meseta  Zapatillas Unisex Adulto  Negro  Black/White 1110   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078W71YWH/?tag=tolees-21'
+descuento: '43.47'
+titulo: 'Kappa Meseta  Zapatillas Unisex Adulto  '
 ---
 
 Ahora mismo tienes [Kappa Meseta  Zapatillas Unisex Adulto  Negro  Black/White 1110   44 EU](https://www.amazon.es/dp/B078W71YWH/?tag=tolees-21) a 25.41 EUR (original: 44.95 EUR) (43.47 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'adidas Eqt Support Adv  Zapatillas para Hombre  Negro  Negbas/Ftwbla/Gritra   45 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JNGV84/?tag=tolees-21'
+descuento: '55.00'
+titulo: 'adidas Eqt Support Adv  Zapatillas para '
 ---
 
 Ahora mismo tienes [adidas Eqt Support Adv  Zapatillas para Hombre  Negro  Negbas/Ftwbla/Gritra   45 1/3 EU](https://www.amazon.es/dp/B071JNGV84/?tag=tolees-21) a 58.48 EUR (original: 129.95 EUR) (55.00 %  de descuento) en el siguiente enlace!

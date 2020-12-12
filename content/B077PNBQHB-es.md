@@ -17,6 +17,9 @@ comparePrice: 76.99 EUR
 inStock: true
 prodname: 'Gancho multifuncional de gravedad de KZKR herramienta de supervivencia de emergencia plegable auténtico gancho de escalada con mosquetón de acero inoxidable de alto rendimiento Grappling Hook'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077PNBQHB/?tag=tolees-21'
+descuento: '70.14'
+titulo: 'Gancho multifuncional de gravedad de KZK'
 ---
 
 Ahora mismo tienes [Gancho multifuncional de gravedad de KZKR herramienta de supervivencia de emergencia plegable auténtico gancho de escalada con mosquetón de acero inoxidable de alto rendimiento Grappling Hook](https://www.amazon.es/dp/B077PNBQHB/?tag=tolees-21) a 22.99 EUR (original: 76.99 EUR) (70.14 %  de descuento) en el siguiente enlace!

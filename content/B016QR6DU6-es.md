@@ -17,6 +17,9 @@ comparePrice: 8.09 EUR
 inStock: true
 prodname: 'No Label – Juego de 3 Pelotas de Tenis Amarillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016QR6DU6/?tag=tolees-21'
+descuento: '25.83'
+titulo: 'No Label – Juego de 3 Pelotas de Tenis A'
 ---
 
 Está [No Label – Juego de 3 Pelotas de Tenis Amarillo](https://www.amazon.es/dp/B016QR6DU6/?tag=tolees-21) con 25.83 de descuento por 6 EUR (original: 8.09 EUR) en el siguiente enlace!

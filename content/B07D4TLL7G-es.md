@@ -17,6 +17,9 @@ comparePrice: 42.95 EUR
 inStock: true
 prodname: 'Kappa Escape  Zapatillas Unisex Niños  Negro  Black 1111   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4TLL7G/?tag=tolees-21'
+descuento: '59.09'
+titulo: 'Kappa Escape  Zapatillas Unisex Niños  N'
 ---
 
 Tienes [Kappa Escape  Zapatillas Unisex Niños  Negro  Black 1111   28 EU](https://www.amazon.es/dp/B07D4TLL7G/?tag=tolees-21) con un 59.09 % de descuento con precio de oferta de 17.57 EUR (original: 42.95 EUR) en el siguiente enlace!

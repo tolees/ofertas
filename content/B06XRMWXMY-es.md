@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Panasonic ES-WE22-P503 - Lima electrica para pedicura  color blanco y rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XRMWXMY/?tag=tolees-21'
+descuento: '84.57'
+titulo: 'Panasonic ES-WE22-P503 - Lima electrica '
 ---
 
 Tienes [Panasonic ES-WE22-P503 - Lima electrica para pedicura  color blanco y rosa](https://www.amazon.es/dp/B06XRMWXMY/?tag=tolees-21) con un 84.57 % de descuento con precio de oferta de 7.56 EUR (original: 49 EUR) en el siguiente enlace!

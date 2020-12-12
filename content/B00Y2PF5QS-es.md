@@ -17,6 +17,9 @@ comparePrice: 32.65 EUR
 inStock: true
 prodname: 'AQUA CONTROL C4109 - Programador de Grifo Acorazado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Y2PF5QS/?tag=tolees-21'
+descuento: '36.48'
+titulo: 'AQUA CONTROL C4109 - Programador de Grif'
 ---
 
 Está [AQUA CONTROL C4109 - Programador de Grifo Acorazado](https://www.amazon.es/dp/B00Y2PF5QS/?tag=tolees-21) con 36.48 de descuento por 20.74 EUR (original: 32.65 EUR) en el siguiente enlace!

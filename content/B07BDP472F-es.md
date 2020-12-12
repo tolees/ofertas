@@ -17,6 +17,9 @@ comparePrice: 21.94 EUR
 inStock: true
 prodname: 'Miquel Rius Miquelrius-16950 Mochila Doble  Negro  Color 16950'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BDP472F/?tag=tolees-21'
+descuento: '73.84'
+titulo: 'Miquel Rius Miquelrius-16950 Mochila Dob'
 ---
 
 Ahora mismo tienes [Miquel Rius Miquelrius-16950 Mochila Doble  Negro  Color 16950](https://www.amazon.es/dp/B07BDP472F/?tag=tolees-21) a 5.74 EUR (original: 21.94 EUR) (73.84 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 46.95 EUR
 inStock: true
 prodname: 'Shots - Simplicity - Masajeadores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074DYG3P2/?tag=tolees-21'
+descuento: '74.42'
+titulo: 'Shots - Simplicity - Masajeadores'
 ---
 
 Está [Shots - Simplicity - Masajeadores](https://www.amazon.es/dp/B074DYG3P2/?tag=tolees-21) con 74.42 de descuento por 12.01 EUR (original: 46.95 EUR) en el siguiente enlace!

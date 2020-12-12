@@ -17,6 +17,9 @@ comparePrice: 32.95 EUR
 inStock: true
 prodname: 'Sunspeed Luz Trasera de Bicicleta Recargabe Con USB IPX6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JBJV37/?tag=tolees-21'
+descuento: '45.40'
+titulo: 'Sunspeed Luz Trasera de Bicicleta Recarg'
 ---
 
 Tienes [Sunspeed Luz Trasera de Bicicleta Recargabe Con USB IPX6](https://www.amazon.es/dp/B071JBJV37/?tag=tolees-21) con un 45.40 % de descuento con precio de oferta de 17.99 EUR (original: 32.95 EUR) en el siguiente enlace!

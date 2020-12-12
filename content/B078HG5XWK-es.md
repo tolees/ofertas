@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'TV Box Android 6.0 SAMMIX R95S Smart TV Box  Amlogic S905X Quad Core  2GB RAM & 16GB ROM  4K*2K UHD H.265  HDMI  USB*2  BT 4.0 WiFi Media Player  Android Set-Top Box'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HG5XWK/?tag=tolees-21'
+descuento: '53.34'
+titulo: 'TV Box Android 6.0 SAMMIX R95S Smart TV '
 ---
 
 Ahora mismo tienes [TV Box Android 6.0 SAMMIX R95S Smart TV Box  Amlogic S905X Quad Core  2GB RAM & 16GB ROM  4K*2K UHD H.265  HDMI  USB*2  BT 4.0 WiFi Media Player  Android Set-Top Box](https://www.amazon.es/dp/B078HG5XWK/?tag=tolees-21) a 41.99 EUR (original: 89.99 EUR) (53.34 %  de descuento) en el siguiente enlace!

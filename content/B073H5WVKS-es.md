@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Only Onlsway L/s Pullover Knt Noos  suéter para Mujer  Verde  Rain Forest   34  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073H5WVKS/?tag=tolees-21'
+descuento: '58.06'
+titulo: 'Only Onlsway L/s Pullover Knt Noos  suét'
 ---
 
 Tienes [Only Onlsway L/s Pullover Knt Noos  suéter para Mujer  Verde  Rain Forest   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B073H5WVKS/?tag=tolees-21) con un 58.06 % de descuento con precio de oferta de 10.48 EUR (original: 24.99 EUR) en el siguiente enlace!

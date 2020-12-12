@@ -17,6 +17,9 @@ comparePrice: 210 EUR
 inStock: true
 prodname: 'Hudson Horrigan  Botas Chukka para Mujer  Negro-Schwarz  Jet   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KB34NA4/?tag=tolees-21'
+descuento: '77.72'
+titulo: 'Hudson Horrigan  Botas Chukka para Mujer'
 ---
 
 Ahora mismo tienes [Hudson Horrigan  Botas Chukka para Mujer  Negro-Schwarz  Jet   36 EU](https://www.amazon.es/dp/B00KB34NA4/?tag=tolees-21) a 46.79 EUR (original: 210 EUR) (77.72 %  de descuento) en el siguiente enlace!

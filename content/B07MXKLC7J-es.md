@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Salomon Logo Hoodie  Hombre  Rojo  Biking Red   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MXKLC7J/?tag=tolees-21'
+descuento: '47.70'
+titulo: 'Salomon Logo Hoodie  Hombre  Rojo  Bikin'
 ---
 
 Ahora mismo tienes [Salomon Logo Hoodie  Hombre  Rojo  Biking Red   XL](https://www.amazon.es/dp/B07MXKLC7J/?tag=tolees-21) a 36.61 EUR (original: 70 EUR) (47.70 %  de descuento) en el siguiente enlace!

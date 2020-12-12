@@ -17,6 +17,9 @@ comparePrice: 17.94 EUR
 inStock: true
 prodname: 'Biffi Salsa con Champiňones y Ceps - 6 de 190 gr.  Total: 1140 gr. '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HSB4NLS/?tag=tolees-21'
+descuento: '52.34'
+titulo: 'Biffi Salsa con Champiňones y Ceps - 6 d'
 ---
 
 Ahora mismo tienes [Biffi Salsa con Champiňones y Ceps - 6 de 190 gr.  Total: 1140 gr. ](https://www.amazon.es/dp/B07HSB4NLS/?tag=tolees-21) a 8.55 EUR (original: 17.94 EUR) (52.34 %  de descuento) en el siguiente enlace!

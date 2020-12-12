@@ -17,6 +17,9 @@ comparePrice: 156.91 EUR
 inStock: true
 prodname: 'Faro Barcelona Ibiza 33288 - Ventilador sin luz  acero y palas madera plywood'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0052RH6FS/?tag=tolees-21'
+descuento: '59.32'
+titulo: 'Faro Barcelona Ibiza 33288 - Ventilador '
 ---
 
 Está [Faro Barcelona Ibiza 33288 - Ventilador sin luz  acero y palas madera plywood](https://www.amazon.es/dp/B0052RH6FS/?tag=tolees-21) con 59.32 de descuento por 63.83 EUR (original: 156.91 EUR) en el siguiente enlace!

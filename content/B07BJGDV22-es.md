@@ -17,6 +17,9 @@ comparePrice: 52.36 EUR
 inStock: true
 prodname: 'Vans Otw Pullover Fleece Capucha  Azul  Dress Blues-White Outline Pok   Talla del Fabricante: 140 M para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJGDV22/?tag=tolees-21'
+descuento: '65.72'
+titulo: 'Vans Otw Pullover Fleece Capucha  Azul  '
 ---
 
 Ahora mismo tienes [Vans Otw Pullover Fleece Capucha  Azul  Dress Blues-White Outline Pok   Talla del Fabricante: 140 M para Niños](https://www.amazon.es/dp/B07BJGDV22/?tag=tolees-21) a 17.95 EUR (original: 52.36 EUR) (65.72 %  de descuento) en el siguiente enlace!

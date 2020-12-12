@@ -17,6 +17,9 @@ comparePrice: 38 EUR
 inStock: true
 prodname: 'Pepe Jeans Duetone Bolso Bandolera  25 cm  3.25 Litros  Marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072MFP74N/?tag=tolees-21'
+descuento: '32.95'
+titulo: 'Pepe Jeans Duetone Bolso Bandolera  25 c'
 ---
 
 Ahora mismo tienes [Pepe Jeans Duetone Bolso Bandolera  25 cm  3.25 Litros  Marrón](https://www.amazon.es/dp/B072MFP74N/?tag=tolees-21) a 25.48 EUR (original: 38 EUR) (32.95 %  de descuento) en el siguiente enlace!

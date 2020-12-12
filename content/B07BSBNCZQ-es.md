@@ -17,6 +17,9 @@ comparePrice: 38.85 EUR
 inStock: true
 prodname: 'LexonElec Juego de ratón para juegos con teclado combinado con cable V1 LED retroiluminado Multimedia USB Teclado de juego Metal Impermeable + 3200DPI Ajuste 7 colores Breathe Optical Gamer Mouse'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BSBNCZQ/?tag=tolees-21'
+descuento: '38.25'
+titulo: 'LexonElec Juego de ratón para juegos con'
 ---
 
 Está [LexonElec Juego de ratón para juegos con teclado combinado con cable V1 LED retroiluminado Multimedia USB Teclado de juego Metal Impermeable + 3200DPI Ajuste 7 colores Breathe Optical Gamer Mouse](https://www.amazon.es/dp/B07BSBNCZQ/?tag=tolees-21) con 38.25 de descuento por 23.99 EUR (original: 38.85 EUR) en el siguiente enlace!

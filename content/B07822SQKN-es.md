@@ -17,6 +17,9 @@ comparePrice: 54.75 EUR
 inStock: true
 prodname: 'Puma Pwrun Fast Bra Sujetador Deportivo  Mujer  Negro  Azul Brillante   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07822SQKN/?tag=tolees-21'
+descuento: '51.29'
+titulo: 'Puma Pwrun Fast Bra Sujetador Deportivo '
 ---
 
 Está [Puma Pwrun Fast Bra Sujetador Deportivo  Mujer  Negro  Azul Brillante   S](https://www.amazon.es/dp/B07822SQKN/?tag=tolees-21) con 51.29 de descuento por 26.67 EUR (original: 54.75 EUR) en el siguiente enlace!

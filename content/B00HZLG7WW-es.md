@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Bigben TW5GB - Altavoz tipo barra  color azul  rojo y blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HZLG7WW/?tag=tolees-21'
+descuento: '48.74'
+titulo: 'Bigben TW5GB - Altavoz tipo barra  color'
 ---
 
 Está [Bigben TW5GB - Altavoz tipo barra  color azul  rojo y blanco](https://www.amazon.es/dp/B00HZLG7WW/?tag=tolees-21) con 48.74 de descuento por 40.96 EUR (original: 79.9 EUR) en el siguiente enlace!

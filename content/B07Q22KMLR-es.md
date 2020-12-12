@@ -17,6 +17,9 @@ comparePrice: 35.4 EUR
 inStock: true
 prodname: '120 Cápsulas Nespresso Surtido Compatibles con Máquinas Nespresso - 40 Extra Intense  20 Ristretto  20 Intense  20 Arabica  20 Decaf'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q22KMLR/?tag=tolees-21'
+descuento: '46.36'
+titulo: '120 Cápsulas Nespresso Surtido Compatibl'
 ---
 
 Ahora mismo tienes [120 Cápsulas Nespresso Surtido Compatibles con Máquinas Nespresso - 40 Extra Intense  20 Ristretto  20 Intense  20 Arabica  20 Decaf](https://www.amazon.es/dp/B07Q22KMLR/?tag=tolees-21) a 18.99 EUR (original: 35.4 EUR) (46.36 %  de descuento) en el siguiente enlace!

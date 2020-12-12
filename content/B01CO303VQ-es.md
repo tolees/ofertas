@@ -17,6 +17,9 @@ comparePrice: 118.86 EUR
 inStock: true
 prodname: 'Conejera jaula conejos recinto descubierto zona descubierta corredor caseta corral madera abeto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CO303VQ/?tag=tolees-21'
+descuento: '35.22'
+titulo: 'Conejera jaula conejos recinto descubier'
 ---
 
 Está [Conejera jaula conejos recinto descubierto zona descubierta corredor caseta corral madera abeto](https://www.amazon.es/dp/B01CO303VQ/?tag=tolees-21) con 35.22 de descuento por 77 EUR (original: 118.86 EUR) en el siguiente enlace!

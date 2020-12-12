@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'UNIROI 7 en 1 Soporte RAB para Fijar Placas y Breadboard de Arduino Raspberry Pi  UA031 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CG9LD5Y/?tag=tolees-21'
+descuento: '45.05'
+titulo: 'UNIROI 7 en 1 Soporte RAB para Fijar Pla'
 ---
 
 Tienes [UNIROI 7 en 1 Soporte RAB para Fijar Placas y Breadboard de Arduino Raspberry Pi  UA031 ](https://www.amazon.es/dp/B07CG9LD5Y/?tag=tolees-21) con un 45.05 % de descuento con precio de oferta de 10.99 EUR (original: 20 EUR) en el siguiente enlace!

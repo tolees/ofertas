@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Shiseido Men  Crema diurna facial  piel sensible  - 50 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004EAHIM0/?tag=tolees-21'
+descuento: '40.15'
+titulo: 'Shiseido Men  Crema diurna facial  piel '
 ---
 
 Está [Shiseido Men  Crema diurna facial  piel sensible  - 50 ml.](https://www.amazon.es/dp/B004EAHIM0/?tag=tolees-21) con 40.15 de descuento por 77.8 EUR (original: 130 EUR) en el siguiente enlace!

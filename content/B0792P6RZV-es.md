@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Geox J Kalispera Girl F  Zapatillas Altas para Niñas   Dk Grey C9002   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792P6RZV/?tag=tolees-21'
+descuento: '50.08'
+titulo: 'Geox J Kalispera Girl F  Zapatillas Alta'
 ---
 
 Tienes [Geox J Kalispera Girl F  Zapatillas Altas para Niñas   Dk Grey C9002   32 EU](https://www.amazon.es/dp/B0792P6RZV/?tag=tolees-21) con un 50.08 % de descuento con precio de oferta de 32.45 EUR (original: 65 EUR) en el siguiente enlace!

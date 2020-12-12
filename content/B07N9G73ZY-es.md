@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcochain tee SS Crew Neck Camiseta  Azul  Azure Blue Fit: Reg   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N9G73ZY/?tag=tolees-21'
+descuento: '55.04'
+titulo: 'JACK & JONES Jcochain tee SS Crew Neck C'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcochain tee SS Crew Neck Camiseta  Azul  Azure Blue Fit: Reg   Small para Hombre](https://www.amazon.es/dp/B07N9G73ZY/?tag=tolees-21) a 6.74 EUR (original: 14.99 EUR) (55.04 %  de descuento) en el siguiente enlace!

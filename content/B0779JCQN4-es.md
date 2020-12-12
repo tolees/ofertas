@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Pepe Jeans Keys  Pantalones Herren  Grün  Khaki Green   31W/32L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0779JCQN4/?tag=tolees-21'
+descuento: '72.23'
+titulo: 'Pepe Jeans Keys  Pantalones Herren  Grün'
 ---
 
 Tienes [Pepe Jeans Keys  Pantalones Herren  Grün  Khaki Green   31W/32L](https://www.amazon.es/dp/B0779JCQN4/?tag=tolees-21) con un 72.23 % de descuento con precio de oferta de 20.83 EUR (original: 75 EUR) en el siguiente enlace!

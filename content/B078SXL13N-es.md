@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Women’secret 3593576  Pijama de Una Pieza para Mujer   Several 98  Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SXL13N/?tag=tolees-21'
+descuento: '52.90'
+titulo: 'Women’secret 3593576  Pijama de Una Piez'
 ---
 
 Está [Women’secret 3593576  Pijama de Una Pieza para Mujer   Several 98  Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078SXL13N/?tag=tolees-21) con 52.90 de descuento por 16.48 EUR (original: 34.99 EUR) en el siguiente enlace!

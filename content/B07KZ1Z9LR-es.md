@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Springfield 6BA Polo Basico Reg T5 Jersey  Rojo  Gama Rojos 65   X-Small  Tamaño del Fabricante:XS  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1Z9LR/?tag=tolees-21'
+descuento: '65.46'
+titulo: 'Springfield 6BA Polo Basico Reg T5 Jerse'
 ---
 
 Ahora mismo tienes [Springfield 6BA Polo Basico Reg T5 Jersey  Rojo  Gama Rojos 65   X-Small  Tamaño del Fabricante:XS  para Hombre](https://www.amazon.es/dp/B07KZ1Z9LR/?tag=tolees-21) a 7.94 EUR (original: 22.99 EUR) (65.46 %  de descuento) en el siguiente enlace!

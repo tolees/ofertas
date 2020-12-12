@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Nike G NSW Hoodie FZ PE Chaqueta  Azul Void/htr/Blue Chill  M para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL3HQTL/?tag=tolees-21'
+descuento: '50.10'
+titulo: 'Nike G NSW Hoodie FZ PE Chaqueta  Azul V'
 ---
 
 Está [Nike G NSW Hoodie FZ PE Chaqueta  Azul Void/htr/Blue Chill  M para Niñas](https://www.amazon.es/dp/B07DL3HQTL/?tag=tolees-21) con 50.10 de descuento por 24.95 EUR (original: 50 EUR) en el siguiente enlace!

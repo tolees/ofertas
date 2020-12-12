@@ -17,6 +17,9 @@ comparePrice: 52.53 EUR
 inStock: true
 prodname: 'Divoom timebox Minialtavoz Bluetooth 5- W  Despertador y gráfico de ledes'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XTPM6VH/?tag=tolees-21'
+descuento: '27.85'
+titulo: 'Divoom timebox Minialtavoz Bluetooth 5- '
 ---
 
 Tienes [Divoom timebox Minialtavoz Bluetooth 5- W  Despertador y gráfico de ledes](https://www.amazon.es/dp/B06XTPM6VH/?tag=tolees-21) con un 27.85 % de descuento con precio de oferta de 37.9 EUR (original: 52.53 EUR) en el siguiente enlace!

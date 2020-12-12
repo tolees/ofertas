@@ -17,6 +17,9 @@ comparePrice: 57 EUR
 inStock: true
 prodname: 'Elizabeth Arden 59915 - Loción anti-imperfecciones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LP9BRGQ/?tag=tolees-21'
+descuento: '61.12'
+titulo: 'Elizabeth Arden 59915 - Loción anti-impe'
 ---
 
 Tienes [Elizabeth Arden 59915 - Loción anti-imperfecciones](https://www.amazon.es/dp/B00LP9BRGQ/?tag=tolees-21) con un 61.12 % de descuento con precio de oferta de 22.16 EUR (original: 57 EUR) en el siguiente enlace!

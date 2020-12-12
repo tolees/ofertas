@@ -17,6 +17,9 @@ comparePrice: 439.23 EUR
 inStock: true
 prodname: 'Makita HK0500 - Martillo Mini-Demoledor 3.2Kg'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00004YOKX/?tag=tolees-21'
+descuento: '32.17'
+titulo: 'Makita HK0500 - Martillo Mini-Demoledor '
 ---
 
 Está [Makita HK0500 - Martillo Mini-Demoledor 3.2Kg](https://www.amazon.es/dp/B00004YOKX/?tag=tolees-21) con 32.17 de descuento por 297.92 EUR (original: 439.23 EUR) en el siguiente enlace!

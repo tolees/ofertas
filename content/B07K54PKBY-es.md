@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Lacoste Ramm102 Braguita   White/Ombblu/BK 974   X-Large  Pack de 3 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K54PKBY/?tag=tolees-21'
+descuento: '34.42'
+titulo: 'Lacoste Ramm102 Braguita   White/Ombblu/'
 ---
 
 Está [Lacoste Ramm102 Braguita   White/Ombblu/BK 974   X-Large  Pack de 3 para Hombre](https://www.amazon.es/dp/B07K54PKBY/?tag=tolees-21) con 34.42 de descuento por 29.51 EUR (original: 45 EUR) en el siguiente enlace!

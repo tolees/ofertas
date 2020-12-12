@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Springfield 4.T.Daily.Grafica Amapolas Camiseta  Mujer  Blanco  Blanco 99   One Size  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYN94CW/?tag=tolees-21'
+descuento: '64.97'
+titulo: 'Springfield 4.T.Daily.Grafica Amapolas C'
 ---
 
 Ahora mismo tienes [Springfield 4.T.Daily.Grafica Amapolas Camiseta  Mujer  Blanco  Blanco 99   One Size  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07KYN94CW/?tag=tolees-21) a 4.55 EUR (original: 12.99 EUR) (64.97 %  de descuento) en el siguiente enlace!

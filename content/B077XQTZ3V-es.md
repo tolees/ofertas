@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance X-90  Zapatillas para Mujer  Gris  Steel/Coral Reef CLF   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XQTZ3V/?tag=tolees-21'
+descuento: '70.41'
+titulo: 'New Balance X-90  Zapatillas para Mujer '
 ---
 
 Ahora mismo tienes [New Balance X-90  Zapatillas para Mujer  Gris  Steel/Coral Reef CLF   41.5 EU](https://www.amazon.es/dp/B077XQTZ3V/?tag=tolees-21) a 32.55 EUR (original: 110 EUR) (70.41 %  de descuento) en el siguiente enlace!

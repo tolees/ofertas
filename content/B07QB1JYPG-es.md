@@ -17,6 +17,9 @@ comparePrice: 26.94 EUR
 inStock: true
 prodname: 'Schwarzkopf Gliss Champú Seco Anti-Grasa - 24 Horas de Frescor - 3 unidades de 200 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QB1JYPG/?tag=tolees-21'
+descuento: '83.33'
+titulo: 'Schwarzkopf Gliss Champú Seco Anti-Grasa'
 ---
 
 Ahora mismo tienes [Schwarzkopf Gliss Champú Seco Anti-Grasa - 24 Horas de Frescor - 3 unidades de 200 ml](https://www.amazon.es/dp/B07QB1JYPG/?tag=tolees-21) a 4.49 EUR (original: 26.94 EUR) (83.33 %  de descuento) en el siguiente enlace!

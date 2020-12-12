@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'MAGLITE 85131000 Linterna LED Mini Pro  Unisex  Negro  17 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007HNJ66C/?tag=tolees-21'
+descuento: '32.88'
+titulo: 'MAGLITE 85131000 Linterna LED Mini Pro  '
 ---
 
 Está [MAGLITE 85131000 Linterna LED Mini Pro  Unisex  Negro  17 cm](https://www.amazon.es/dp/B007HNJ66C/?tag=tolees-21) con 32.88 de descuento por 36.88 EUR (original: 54.95 EUR) en el siguiente enlace!

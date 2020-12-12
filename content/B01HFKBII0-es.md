@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 's.Oliver 14.610.73.5621  Pantalones para Mujer  Grau  black 9898  Grau   46/l28  talla Del Fabricante: 46/l28 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HFKBII0/?tag=tolees-21'
+descuento: '87.69'
+titulo: 's.Oliver 14.610.73.5621  Pantalones para'
 ---
 
 Está [s.Oliver 14.610.73.5621  Pantalones para Mujer  Grau  black 9898  Grau   46/l28  talla Del Fabricante: 46/l28 ](https://www.amazon.es/dp/B01HFKBII0/?tag=tolees-21) con 87.69 de descuento por 8.62 EUR (original: 70 EUR) en el siguiente enlace!

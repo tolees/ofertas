@@ -17,6 +17,9 @@ comparePrice: 38.69 EUR
 inStock: true
 prodname: 'Tvird Higrómetro de Termómetro Digital con Pantalla Táctil Retroiluminada LCD  Temperatura Ambiente Interior y Monitor de Mín/Máx  ° C / ° F Conmutable  Confort en el Casa y la Oficina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HMYRX7C/?tag=tolees-21'
+descuento: '61.26'
+titulo: 'Tvird Higrómetro de Termómetro Digital c'
 ---
 
 Ahora mismo tienes [Tvird Higrómetro de Termómetro Digital con Pantalla Táctil Retroiluminada LCD  Temperatura Ambiente Interior y Monitor de Mín/Máx  ° C / ° F Conmutable  Confort en el Casa y la Oficina](https://www.amazon.es/dp/B07HMYRX7C/?tag=tolees-21) a 14.99 EUR (original: 38.69 EUR) (61.26 %  de descuento) en el siguiente enlace!

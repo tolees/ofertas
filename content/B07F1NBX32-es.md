@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Himaly Lima Electrónica para Pies Eléctrico Bedee Pies Cuidado para Quitar la Piel Muerta Eliminar las Durezas y las Callosidades Eléctrica Artefacto de Eliminar Callosidades Exfoliante Recargable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1NBX32/?tag=tolees-21'
+descuento: '38.90'
+titulo: 'Himaly Lima Electrónica para Pies Eléctr'
 ---
 
 Está [Himaly Lima Electrónica para Pies Eléctrico Bedee Pies Cuidado para Quitar la Piel Muerta Eliminar las Durezas y las Callosidades Eléctrica Artefacto de Eliminar Callosidades Exfoliante Recargable](https://www.amazon.es/dp/B07F1NBX32/?tag=tolees-21) con 38.90 de descuento por 21.99 EUR (original: 35.99 EUR) en el siguiente enlace!

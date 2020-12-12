@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Under Armour Zinger Short Sleeve Polo  Mujer  Azul Academy 408  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZBVCVQ/?tag=tolees-21'
+descuento: '48.50'
+titulo: 'Under Armour Zinger Short Sleeve Polo  M'
 ---
 
 Está [Under Armour Zinger Short Sleeve Polo  Mujer  Azul Academy 408  S](https://www.amazon.es/dp/B07CZBVCVQ/?tag=tolees-21) con 48.50 de descuento por 30.9 EUR (original: 60 EUR) en el siguiente enlace!

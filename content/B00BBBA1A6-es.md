@@ -17,6 +17,9 @@ comparePrice: 79.38 EUR
 inStock: true
 prodname: 'Sony Micro Vault R-Series - Memoria USB de 64 GB  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BBBA1A6/?tag=tolees-21'
+descuento: '81.10'
+titulo: 'Sony Micro Vault R-Series - Memoria USB '
 ---
 
 Está [Sony Micro Vault R-Series - Memoria USB de 64 GB  negro](https://www.amazon.es/dp/B00BBBA1A6/?tag=tolees-21) con 81.10 de descuento por 15 EUR (original: 79.38 EUR) en el siguiente enlace!

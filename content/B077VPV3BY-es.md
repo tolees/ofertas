@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'adidas Daily 2.0  Zapatos de Baloncesto para Hombre  Blanco Ftwwht/Cblack  45 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077VPV3BY/?tag=tolees-21'
+descuento: '49.54'
+titulo: 'adidas Daily 2.0  Zapatos de Baloncesto '
 ---
 
 Ahora mismo tienes [adidas Daily 2.0  Zapatos de Baloncesto para Hombre  Blanco Ftwwht/Cblack  45 1/3 EU](https://www.amazon.es/dp/B077VPV3BY/?tag=tolees-21) a 30.25 EUR (original: 59.95 EUR) (49.54 %  de descuento) en el siguiente enlace!

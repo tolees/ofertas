@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Desigual - Bag Candem Rotterdam Women  Shoppers y bolsos de hombro Mujer  Negro  15x30x31 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GT2CJMP/?tag=tolees-21'
+descuento: '39.69'
+titulo: 'Desigual - Bag Candem Rotterdam Women  S'
 ---
 
 Tienes [Desigual - Bag Candem Rotterdam Women  Shoppers y bolsos de hombro Mujer  Negro  15x30x31 cm  B x H T ](https://www.amazon.es/dp/B07GT2CJMP/?tag=tolees-21) con un 39.69 % de descuento con precio de oferta de 42.19 EUR (original: 69.95 EUR) en el siguiente enlace!

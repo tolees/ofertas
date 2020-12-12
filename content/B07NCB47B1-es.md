@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans Jayla Vestido  Azul  Blue 551   7 años  Talla del Fabricante: 7  para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NCB47B1/?tag=tolees-21'
+descuento: '72.92'
+titulo: 'Pepe Jeans Jayla Vestido  Azul  Blue 551'
 ---
 
 Está [Pepe Jeans Jayla Vestido  Azul  Blue 551   7 años  Talla del Fabricante: 7  para Niñas](https://www.amazon.es/dp/B07NCB47B1/?tag=tolees-21) con 72.92 de descuento por 17.6 EUR (original: 65 EUR) en el siguiente enlace!

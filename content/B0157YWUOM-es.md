@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Care Pijama Bebé-Niñas  Pack de 2  Rosa  Light red 500  4 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0157YWUOM/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Care Pijama Bebé-Niñas  Pack de 2  Rosa '
 ---
 
 Está [Care Pijama Bebé-Niñas  Pack de 2  Rosa  Light red 500  4 años](https://www.amazon.es/dp/B0157YWUOM/?tag=tolees-21) con 25.01 de descuento por 14.96 EUR (original: 19.95 EUR) en el siguiente enlace!

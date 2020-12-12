@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Helly Hansen Hp Ocean Fz Hoodie  Sudadera para Hombre  Gris  Gris Oscuro 994   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2Q4C5D/?tag=tolees-21'
+descuento: '40.87'
+titulo: 'Helly Hansen Hp Ocean Fz Hoodie  Sudader'
 ---
 
 Tienes [Helly Hansen Hp Ocean Fz Hoodie  Sudadera para Hombre  Gris  Gris Oscuro 994   X-Large](https://www.amazon.es/dp/B07F2Q4C5D/?tag=tolees-21) con un 40.87 % de descuento con precio de oferta de 70.95 EUR (original: 120 EUR) en el siguiente enlace!

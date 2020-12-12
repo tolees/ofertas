@@ -17,6 +17,9 @@ comparePrice: 64.9 EUR
 inStock: true
 prodname: 'Speedo Fastskin Kick Fin Aletas  Unisex Adulto  Negro/Rojo Sirena  5-6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2W8EN0/?tag=tolees-21'
+descuento: '46.84'
+titulo: 'Speedo Fastskin Kick Fin Aletas  Unisex '
 ---
 
 Ahora mismo tienes [Speedo Fastskin Kick Fin Aletas  Unisex Adulto  Negro/Rojo Sirena  5-6](https://www.amazon.es/dp/B01N2W8EN0/?tag=tolees-21) a 34.5 EUR (original: 64.9 EUR) (46.84 %  de descuento) en el siguiente enlace!

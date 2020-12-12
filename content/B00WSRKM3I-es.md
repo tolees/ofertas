@@ -17,6 +17,9 @@ comparePrice: 161.65 EUR
 inStock: true
 prodname: 'HOGAR24 ES Colchón Viscoelástico Viscorelax Transpirable  180 x 190 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WSRKM3I/?tag=tolees-21'
+descuento: '38.80'
+titulo: 'HOGAR24 ES Colchón Viscoelástico Viscore'
 ---
 
 Tienes [HOGAR24 ES Colchón Viscoelástico Viscorelax Transpirable  180 x 190 cm](https://www.amazon.es/dp/B00WSRKM3I/?tag=tolees-21) con un 38.80 % de descuento con precio de oferta de 98.93 EUR (original: 161.65 EUR) en el siguiente enlace!

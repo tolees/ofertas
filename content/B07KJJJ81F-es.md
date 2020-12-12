@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'NGS WILDJAM - Altavoz portátil USB/SD/Bluetooth/Radio FM con Doble subwoofer de 5 25" y 120W de Potencia'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJJJ81F/?tag=tolees-21'
+descuento: '31.01'
+titulo: 'NGS WILDJAM - Altavoz portátil USB/SD/Bl'
 ---
 
 Está [NGS WILDJAM - Altavoz portátil USB/SD/Bluetooth/Radio FM con Doble subwoofer de 5 25" y 120W de Potencia](https://www.amazon.es/dp/B07KJJJ81F/?tag=tolees-21) con 31.01 de descuento por 89 EUR (original: 129 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Levi s The Perfect Tee  Camiseta para Mujer  Gris  Box Tab Smokestack Htr 0487   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K75WKKC/?tag=tolees-21'
+descuento: '52.53'
+titulo: 'Levi s The Perfect Tee  Camiseta para Mu'
 ---
 
 Está [Levi s The Perfect Tee  Camiseta para Mujer  Gris  Box Tab Smokestack Htr 0487   Large](https://www.amazon.es/dp/B07K75WKKC/?tag=tolees-21) con 52.53 de descuento por 14.24 EUR (original: 30 EUR) en el siguiente enlace!

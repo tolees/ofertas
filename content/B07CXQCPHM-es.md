@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Cosprof - Máscara facial de oro de 24 K para tratamiento facial antiarrugas  antienvejecimiento  minimizador de líneas finas  tratamiento de cicatrices de acné y removedor de puntos negros  22 86 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CXQCPHM/?tag=tolees-21'
+descuento: '86.01'
+titulo: 'Cosprof - Máscara facial de oro de 24 K '
 ---
 
 Está [Cosprof - Máscara facial de oro de 24 K para tratamiento facial antiarrugas  antienvejecimiento  minimizador de líneas finas  tratamiento de cicatrices de acné y removedor de puntos negros  22 86 g](https://www.amazon.es/dp/B07CXQCPHM/?tag=tolees-21) con 86.01 de descuento por 13.99 EUR (original: 99.99 EUR) en el siguiente enlace!

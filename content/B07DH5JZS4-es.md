@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas RUN70S  Zapatillas de Running para Hombre  Rojo Hi/Res Red S18/Ftwr White/Scarlet  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DH5JZS4/?tag=tolees-21'
+descuento: '55.81'
+titulo: 'adidas RUN70S  Zapatillas de Running par'
 ---
 
 Está [adidas RUN70S  Zapatillas de Running para Hombre  Rojo Hi/Res Red S18/Ftwr White/Scarlet  44 EU](https://www.amazon.es/dp/B07DH5JZS4/?tag=tolees-21) con 55.81 de descuento por 30.91 EUR (original: 69.95 EUR) en el siguiente enlace!

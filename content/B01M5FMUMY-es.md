@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Big Buck Hunter Arcade'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M5FMUMY/?tag=tolees-21'
+descuento: '76.83'
+titulo: 'Big Buck Hunter Arcade'
 ---
 
 Tienes [Big Buck Hunter Arcade](https://www.amazon.es/dp/B01M5FMUMY/?tag=tolees-21) con un 76.83 % de descuento con precio de oferta de 6.95 EUR (original: 29.99 EUR) en el siguiente enlace!

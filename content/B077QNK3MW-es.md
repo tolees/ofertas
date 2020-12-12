@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'adidas NMD_R2  Zapatillas para Mujer  Gris  Vapour F16/Vapour Grey F16/Branch 000   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077QNK3MW/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'adidas NMD_R2  Zapatillas para Mujer  Gr'
 ---
 
 Ahora mismo tienes [adidas NMD_R2  Zapatillas para Mujer  Gris  Vapour F16/Vapour Grey F16/Branch 000   42 EU](https://www.amazon.es/dp/B077QNK3MW/?tag=tolees-21) a 69.98 EUR (original: 139.95 EUR) (50.00 %  de descuento) en el siguiente enlace!

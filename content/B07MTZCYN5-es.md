@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'GOEU Decoración de Unicornio para Tartas de Cumpleaños-Tarta de Unicornio y Cuerno de Oro Unicornio 3D  Dos Pestañas y 7 Flores para Fiesta Cumpleaños y Boda'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MTZCYN5/?tag=tolees-21'
+descuento: '45.27'
+titulo: 'GOEU Decoración de Unicornio para Tartas'
 ---
 
 Tienes [GOEU Decoración de Unicornio para Tartas de Cumpleaños-Tarta de Unicornio y Cuerno de Oro Unicornio 3D  Dos Pestañas y 7 Flores para Fiesta Cumpleaños y Boda](https://www.amazon.es/dp/B07MTZCYN5/?tag=tolees-21) con un 45.27 % de descuento con precio de oferta de 10.94 EUR (original: 19.99 EUR) en el siguiente enlace!

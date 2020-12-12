@@ -17,6 +17,9 @@ comparePrice: 9.95 EUR
 inStock: true
 prodname: 'Gliss Long&Sublime by @mypeeptoes  1 pack '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4PX9GG/?tag=tolees-21'
+descuento: '35.78'
+titulo: 'Gliss Long&Sublime by @mypeeptoes  1 pac'
 ---
 
 Ahora mismo tienes [Gliss Long&Sublime by @mypeeptoes  1 pack ](https://www.amazon.es/dp/B07D4PX9GG/?tag=tolees-21) a 6.39 EUR (original: 9.95 EUR) (35.78 %  de descuento) en el siguiente enlace!

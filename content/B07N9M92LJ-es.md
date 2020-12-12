@@ -17,6 +17,9 @@ comparePrice: 98.01 EUR
 inStock: true
 prodname: 'Diesel P-boxie Shorts Pantalones Cortos Deportivos  Amarillo  Sulphur Spring 5at   única  Talla del Fabricante: Small  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N9M92LJ/?tag=tolees-21'
+descuento: '41.89'
+titulo: 'Diesel P-boxie Shorts Pantalones Cortos '
 ---
 
 Tienes [Diesel P-boxie Shorts Pantalones Cortos Deportivos  Amarillo  Sulphur Spring 5at   única  Talla del Fabricante: Small  para Hombre](https://www.amazon.es/dp/B07N9M92LJ/?tag=tolees-21) con un 41.89 % de descuento con precio de oferta de 56.95 EUR (original: 98.01 EUR) en el siguiente enlace!

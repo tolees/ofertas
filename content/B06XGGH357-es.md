@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Le Coq Sportif Omega X W Mesh  Entrenadores Bajos para Mujer  Gris  Galet/Smoke Blue   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XGGH357/?tag=tolees-21'
+descuento: '72.11'
+titulo: 'Le Coq Sportif Omega X W Mesh  Entrenado'
 ---
 
 Tienes [Le Coq Sportif Omega X W Mesh  Entrenadores Bajos para Mujer  Gris  Galet/Smoke Blue   38 EU](https://www.amazon.es/dp/B06XGGH357/?tag=tolees-21) con un 72.11 % de descuento con precio de oferta de 26.5 EUR (original: 95 EUR) en el siguiente enlace!

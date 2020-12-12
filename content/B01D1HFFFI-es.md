@@ -17,6 +17,9 @@ comparePrice: 7.35 EUR
 inStock: true
 prodname: 'Rimmel London Sculpting Palette  Polvos de maquillaje - Tono Coral Glow  18.5 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01D1HFFFI/?tag=tolees-21'
+descuento: '42.18'
+titulo: 'Rimmel London Sculpting Palette  Polvos '
 ---
 
 Ahora mismo tienes [Rimmel London Sculpting Palette  Polvos de maquillaje - Tono Coral Glow  18.5 g](https://www.amazon.es/dp/B01D1HFFFI/?tag=tolees-21) a 4.25 EUR (original: 7.35 EUR) (42.18 %  de descuento) en el siguiente enlace!
@@ -25,12 +28,12 @@ Ahora mismo tienes [Rimmel London Sculpting Palette  Polvos de maquillaje - Tono
 
 Características:
 
-- Paleta con 3 pasos para contouring
+- Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
 - Sombreador para contornerar la nariz y la mandíbula
 - Colorete en polvo para dar color y definicióon
-- Tipo de piel: Piel normal
 - Fácil de desmaquillar
-- Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
+- Paleta con 3 pasos para contouring
+- Tipo de piel: Piel normal
 
 [Visítala!!!](https://www.amazon.es/dp/B01D1HFFFI/?tag=tolees-21)
 

@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Lico Caribbean  Chanclas para Mujer  Azul Marine/Pink  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWCJ63Q/?tag=tolees-21'
+descuento: '49.52'
+titulo: 'Lico Caribbean  Chanclas para Mujer  Azu'
 ---
 
 Está [Lico Caribbean  Chanclas para Mujer  Azul Marine/Pink  38 EU](https://www.amazon.es/dp/B07DWCJ63Q/?tag=tolees-21) con 49.52 de descuento por 10.07 EUR (original: 19.95 EUR) en el siguiente enlace!

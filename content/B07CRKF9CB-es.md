@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma Basket Heart Leather  Zapatillas para Mujer  Negro Black-Rose Gold  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRKF9CB/?tag=tolees-21'
+descuento: '65.27'
+titulo: 'Puma Basket Heart Leather  Zapatillas pa'
 ---
 
 Está [Puma Basket Heart Leather  Zapatillas para Mujer  Negro Black-Rose Gold  38 EU](https://www.amazon.es/dp/B07CRKF9CB/?tag=tolees-21) con 65.27 de descuento por 34.71 EUR (original: 99.95 EUR) en el siguiente enlace!

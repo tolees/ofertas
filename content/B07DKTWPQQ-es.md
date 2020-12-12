@@ -17,6 +17,9 @@ comparePrice: 24 EUR
 inStock: true
 prodname: 'Kipling - Creativity S  Monederos Mujer  Azul  Active Blue Bl '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKTWPQQ/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Kipling - Creativity S  Monederos Mujer '
 ---
 
 Está [Kipling - Creativity S  Monederos Mujer  Azul  Active Blue Bl ](https://www.amazon.es/dp/B07DKTWPQQ/?tag=tolees-21) con 40.00 de descuento por 14.4 EUR (original: 24 EUR) en el siguiente enlace!

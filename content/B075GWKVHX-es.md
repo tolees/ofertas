@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Adidas Cosmic 2 m  Zapatillas de Deporte para Hombre  Rojo  Roalre/Negbas/Escarl 000   43 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075GWKVHX/?tag=tolees-21'
+descuento: '48.31'
+titulo: 'Adidas Cosmic 2 m  Zapatillas de Deporte'
 ---
 
 Tienes [Adidas Cosmic 2 m  Zapatillas de Deporte para Hombre  Rojo  Roalre/Negbas/Escarl 000   43 1/3 EU](https://www.amazon.es/dp/B075GWKVHX/?tag=tolees-21) con un 48.31 % de descuento con precio de oferta de 30.99 EUR (original: 59.95 EUR) en el siguiente enlace!

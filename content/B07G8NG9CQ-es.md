@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Guess - Shannon Slg Small Trifold  Monederos Mujer  Blanco  Coral   13x11x3 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G8NG9CQ/?tag=tolees-21'
+descuento: '30.45'
+titulo: 'Guess - Shannon Slg Small Trifold  Moned'
 ---
 
 Tienes [Guess - Shannon Slg Small Trifold  Monederos Mujer  Blanco  Coral   13x11x3 cm  W x H L ](https://www.amazon.es/dp/B07G8NG9CQ/?tag=tolees-21) con un 30.45 % de descuento con precio de oferta de 41.73 EUR (original: 60 EUR) en el siguiente enlace!

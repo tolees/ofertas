@@ -17,6 +17,9 @@ comparePrice: 72 EUR
 inStock: true
 prodname: 'Lanvin  Agua de tocador para hombres - 100 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0007XOGSW/?tag=tolees-21'
+descuento: '75.81'
+titulo: 'Lanvin  Agua de tocador para hombres - 1'
 ---
 
 Está [Lanvin  Agua de tocador para hombres - 100 ml.](https://www.amazon.es/dp/B0007XOGSW/?tag=tolees-21) con 75.81 de descuento por 17.42 EUR (original: 72 EUR) en el siguiente enlace!

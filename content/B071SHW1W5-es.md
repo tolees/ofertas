@@ -17,6 +17,9 @@ comparePrice: 47 EUR
 inStock: true
 prodname: 'Pepa Loves Bat Front Print Sweatshirt Cream Sudadera  Mujer  Beige  Cream   38  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071SHW1W5/?tag=tolees-21'
+descuento: '67.00'
+titulo: 'Pepa Loves Bat Front Print Sweatshirt Cr'
 ---
 
 Ahora mismo tienes [Pepa Loves Bat Front Print Sweatshirt Cream Sudadera  Mujer  Beige  Cream   38  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B071SHW1W5/?tag=tolees-21) a 15.51 EUR (original: 47 EUR) (67.00 %  de descuento) en el siguiente enlace!

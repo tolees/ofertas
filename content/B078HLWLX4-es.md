@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield 6833527 Pantalones  Mujer   Gama Rosa/Morado    Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HLWLX4/?tag=tolees-21'
+descuento: '44.62'
+titulo: 'Springfield 6833527 Pantalones  Mujer   '
 ---
 
 Está [Springfield 6833527 Pantalones  Mujer   Gama Rosa/Morado    Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078HLWLX4/?tag=tolees-21) con 44.62 de descuento por 13.84 EUR (original: 24.99 EUR) en el siguiente enlace!

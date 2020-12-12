@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike Downshifter 8  Zapatillas de Entrenamiento para Hombre  Gris  Light Carbon/Volt-Obsidian-Black 007   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078NH6TZQ/?tag=tolees-21'
+descuento: '36.67'
+titulo: 'Nike Downshifter 8  Zapatillas de Entren'
 ---
 
 Tienes [Nike Downshifter 8  Zapatillas de Entrenamiento para Hombre  Gris  Light Carbon/Volt-Obsidian-Black 007   41 EU](https://www.amazon.es/dp/B078NH6TZQ/?tag=tolees-21) con un 36.67 % de descuento con precio de oferta de 38 EUR (original: 60 EUR) en el siguiente enlace!

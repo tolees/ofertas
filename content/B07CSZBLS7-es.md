@@ -17,6 +17,9 @@ comparePrice: 11.48 EUR
 inStock: true
 prodname: 'Marca Amazon- Happy Belly - Cápsulas de café  descafeinado  Lungo Decaffeinato compatibles con NESCAFÉ* DOLCE GUSTO*  UTZ  3x16 cápsulas  48 porciones '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSZBLS7/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Marca Amazon- Happy Belly - Cápsulas de '
 ---
 
 Ahora mismo tienes [Marca Amazon- Happy Belly - Cápsulas de café  descafeinado  Lungo Decaffeinato compatibles con NESCAFÉ* DOLCE GUSTO*  UTZ  3x16 cápsulas  48 porciones ](https://www.amazon.es/dp/B07CSZBLS7/?tag=tolees-21) a 8.61 EUR (original: 11.48 EUR) (25.00 %  de descuento) en el siguiente enlace!

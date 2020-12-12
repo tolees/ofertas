@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Lee Logo tee Camiseta  Gris  Sharp Grey Mele 03   X-Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSS4VYF/?tag=tolees-21'
+descuento: '40.20'
+titulo: 'Lee Logo tee Camiseta  Gris  Sharp Grey '
 ---
 
 Ahora mismo tienes [Lee Logo tee Camiseta  Gris  Sharp Grey Mele 03   X-Large para Mujer](https://www.amazon.es/dp/B07FSS4VYF/?tag=tolees-21) a 14.95 EUR (original: 25 EUR) (40.20 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 123.7 EUR
 inStock: true
 prodname: 'Coleman Saco de Dormir  Schlafsack Hampton TM  Double  220x150 cm  Marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0030BG9YM/?tag=tolees-21'
+descuento: '45.17'
+titulo: 'Coleman Saco de Dormir  Schlafsack Hampt'
 ---
 
 Tienes [Coleman Saco de Dormir  Schlafsack Hampton TM  Double  220x150 cm  Marrón](https://www.amazon.es/dp/B0030BG9YM/?tag=tolees-21) con un 45.17 % de descuento con precio de oferta de 67.82 EUR (original: 123.7 EUR) en el siguiente enlace!

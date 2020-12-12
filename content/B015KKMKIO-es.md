@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Kappa Gomera Footwear Women  Mesh/Synthetic  Bailarinas para Mujer  Negro-Schwarz  1122 Black/Pink   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015KKMKIO/?tag=tolees-21'
+descuento: '55.71'
+titulo: 'Kappa Gomera Footwear Women  Mesh/Synthe'
 ---
 
 Tienes [Kappa Gomera Footwear Women  Mesh/Synthetic  Bailarinas para Mujer  Negro-Schwarz  1122 Black/Pink   36 EU](https://www.amazon.es/dp/B015KKMKIO/?tag=tolees-21) con un 55.71 % de descuento con precio de oferta de 26.55 EUR (original: 59.95 EUR) en el siguiente enlace!

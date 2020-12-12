@@ -17,6 +17,9 @@ comparePrice: 8.9 EUR
 inStock: true
 prodname: 'Colgate Pasta de dientes - 75 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D767VPJ/?tag=tolees-21'
+descuento: '44.04'
+titulo: 'Colgate Pasta de dientes - 75 ml.'
 ---
 
 Tienes [Colgate Pasta de dientes - 75 ml.](https://www.amazon.es/dp/B07D767VPJ/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 4.98 EUR (original: 8.9 EUR) en el siguiente enlace!

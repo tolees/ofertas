@@ -17,6 +17,9 @@ comparePrice: 29.24 EUR
 inStock: true
 prodname: 'Dim Estructurado Sujetador  Blanco  100C para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005XMUAZK/?tag=tolees-21'
+descuento: '43.02'
+titulo: 'Dim Estructurado Sujetador  Blanco  100C'
 ---
 
 Ahora mismo tienes [Dim Estructurado Sujetador  Blanco  100C para Mujer](https://www.amazon.es/dp/B005XMUAZK/?tag=tolees-21) a 16.66 EUR (original: 29.24 EUR) (43.02 %  de descuento) en el siguiente enlace!

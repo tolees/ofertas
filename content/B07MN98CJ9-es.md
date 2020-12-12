@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'The North Face Polo Piquet  Hombre  Verde  Garden Green   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MN98CJ9/?tag=tolees-21'
+descuento: '44.00'
+titulo: 'The North Face Polo Piquet  Hombre  Verd'
 ---
 
 Tienes [The North Face Polo Piquet  Hombre  Verde  Garden Green   S](https://www.amazon.es/dp/B07MN98CJ9/?tag=tolees-21) con un 44.00 % de descuento con precio de oferta de 28 EUR (original: 50 EUR) en el siguiente enlace!

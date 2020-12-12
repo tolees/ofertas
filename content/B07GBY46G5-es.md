@@ -17,6 +17,9 @@ comparePrice: 7.87 EUR
 inStock: true
 prodname: 'Spaas Vela Cilindro rústico 50/80 Amarillo de otoño'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GBY46G5/?tag=tolees-21'
+descuento: '76.62'
+titulo: 'Spaas Vela Cilindro rústico 50/80 Amaril'
 ---
 
 Está [Spaas Vela Cilindro rústico 50/80 Amarillo de otoño](https://www.amazon.es/dp/B07GBY46G5/?tag=tolees-21) con 76.62 de descuento por 1.84 EUR (original: 7.87 EUR) en el siguiente enlace!

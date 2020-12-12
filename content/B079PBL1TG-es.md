@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Rider Vaqueros Slim  Negro  Black Worn Xz   W38/L36 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079PBL1TG/?tag=tolees-21'
+descuento: '85.10'
+titulo: 'Lee Rider Vaqueros Slim  Negro  Black Wo'
 ---
 
 Ahora mismo tienes [Lee Rider Vaqueros Slim  Negro  Black Worn Xz   W38/L36 para Hombre](https://www.amazon.es/dp/B079PBL1TG/?tag=tolees-21) a 14.89 EUR (original: 99.95 EUR) (85.10 %  de descuento) en el siguiente enlace!

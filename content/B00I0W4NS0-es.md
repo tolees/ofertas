@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'hummel Stay Authentic - Camiseta de fútbol para Mujer  poliéster  Naranja Rojo Talla:L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I0W4NS0/?tag=tolees-21'
+descuento: '59.30'
+titulo: 'hummel Stay Authentic - Camiseta de fútb'
 ---
 
 Está [hummel Stay Authentic - Camiseta de fútbol para Mujer  poliéster  Naranja Rojo Talla:L](https://www.amazon.es/dp/B00I0W4NS0/?tag=tolees-21) con 59.30 de descuento por 12.19 EUR (original: 29.95 EUR) en el siguiente enlace!

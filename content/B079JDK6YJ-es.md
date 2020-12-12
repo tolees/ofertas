@@ -17,6 +17,9 @@ comparePrice: 1065.59 EUR
 inStock: true
 prodname: 'Lenovo Legion Y520 - Ordenador portátil 15.6" FullHD  Intel Core i7-7700HQ  8GB de RAM  1TB de HDD  Nvidia GTX1050-4GB  Windows 10  Rojo - Teclado QWERTY español'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079JDK6YJ/?tag=tolees-21'
+descuento: '34.49'
+titulo: 'Lenovo Legion Y520 - Ordenador portátil '
 ---
 
 Está [Lenovo Legion Y520 - Ordenador portátil 15.6" FullHD  Intel Core i7-7700HQ  8GB de RAM  1TB de HDD  Nvidia GTX1050-4GB  Windows 10  Rojo - Teclado QWERTY español](https://www.amazon.es/dp/B079JDK6YJ/?tag=tolees-21) con 34.49 de descuento por 698.08 EUR (original: 1065.59 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Cars- Juego Carrera Loca  37.1 x 27.2 x 5.6  Educa Borrás 17210 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VFCG53/?tag=tolees-21'
+descuento: '55.15'
+titulo: 'Cars- Juego Carrera Loca  37.1 x 27.2 x '
 ---
 
 Está [Cars- Juego Carrera Loca  37.1 x 27.2 x 5.6  Educa Borrás 17210 ](https://www.amazon.es/dp/B071VFCG53/?tag=tolees-21) con 55.15 de descuento por 11.19 EUR (original: 24.95 EUR) en el siguiente enlace!

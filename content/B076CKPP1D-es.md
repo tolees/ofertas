@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Blend 20706079  Camiseta para Hombre  Amarillo  Yellow Sun   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076CKPP1D/?tag=tolees-21'
+descuento: '56.32'
+titulo: 'Blend 20706079  Camiseta para Hombre  Am'
 ---
 
 Ahora mismo tienes [Blend 20706079  Camiseta para Hombre  Amarillo  Yellow Sun   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B076CKPP1D/?tag=tolees-21) a 7.84 EUR (original: 17.95 EUR) (56.32 %  de descuento) en el siguiente enlace!

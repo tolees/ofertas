@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Calzado de Trabajo Hombre Mujer Zapatillas de Seguridad con Puntera de Acero Antideslizante Transpirables Unisex Rojo 42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JFC77MQ/?tag=tolees-21'
+descuento: '28.01'
+titulo: 'Calzado de Trabajo Hombre Mujer Zapatill'
 ---
 
 Tienes [Calzado de Trabajo Hombre Mujer Zapatillas de Seguridad con Puntera de Acero Antideslizante Transpirables Unisex Rojo 42](https://www.amazon.es/dp/B07JFC77MQ/?tag=tolees-21) con un 28.01 % de descuento con precio de oferta de 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!

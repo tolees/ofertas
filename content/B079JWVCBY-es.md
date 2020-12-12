@@ -17,6 +17,9 @@ comparePrice: 349 EUR
 inStock: true
 prodname: 'Napapijri Articage  Chaqueta  Hombre  Azul  Light Sky I62  XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079JWVCBY/?tag=tolees-21'
+descuento: '59.89'
+titulo: 'Napapijri Articage  Chaqueta  Hombre  Az'
 ---
 
 Está [Napapijri Articage  Chaqueta  Hombre  Azul  Light Sky I62  XX-Large](https://www.amazon.es/dp/B079JWVCBY/?tag=tolees-21) con 59.89 de descuento por 140 EUR (original: 349 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Tamaris 25258-31  Zapatillas Altas para Mujer  Verde  Olive 722   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK1MGQN/?tag=tolees-21'
+descuento: '72.60'
+titulo: 'Tamaris 25258-31  Zapatillas Altas para '
 ---
 
 Ahora mismo tienes [Tamaris 25258-31  Zapatillas Altas para Mujer  Verde  Olive 722   38 EU](https://www.amazon.es/dp/B07DK1MGQN/?tag=tolees-21) a 21.91 EUR (original: 79.95 EUR) (72.60 %  de descuento) en el siguiente enlace!

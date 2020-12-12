@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance M420V4  Zapatillas de Deporte Unisex Adulto  M420lk4  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSBVXM5/?tag=tolees-21'
+descuento: '77.94'
+titulo: 'New Balance M420V4  Zapatillas de Deport'
 ---
 
 Ahora mismo tienes [New Balance M420V4  Zapatillas de Deporte Unisex Adulto  M420lk4  45 EU](https://www.amazon.es/dp/B06XSBVXM5/?tag=tolees-21) a 15.44 EUR (original: 70 EUR) (77.94 %  de descuento) en el siguiente enlace!

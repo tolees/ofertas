@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'INTEY Discos Deslizantes para Fitness Doble Cara Deslizantes para Ejercicios de Abdominales de Hogar  Yoga  Fitness  Pilates  Ejercicios de Cuerpo para Moquetas y Solería'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SPFQPB/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'INTEY Discos Deslizantes para Fitness Do'
 ---
 
 Tienes [INTEY Discos Deslizantes para Fitness Doble Cara Deslizantes para Ejercicios de Abdominales de Hogar  Yoga  Fitness  Pilates  Ejercicios de Cuerpo para Moquetas y Solería](https://www.amazon.es/dp/B078SPFQPB/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

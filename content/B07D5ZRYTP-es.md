@@ -17,6 +17,9 @@ comparePrice: 20.61 EUR
 inStock: true
 prodname: 'Asics As001  Zapatillas de Deporte Unisex Adulto   P70ns 4901  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5ZRYTP/?tag=tolees-21'
+descuento: '43.04'
+titulo: 'Asics As001  Zapatillas de Deporte Unise'
 ---
 
 Tienes [Asics As001  Zapatillas de Deporte Unisex Adulto   P70ns 4901  39 EU](https://www.amazon.es/dp/B07D5ZRYTP/?tag=tolees-21) con un 43.04 % de descuento con precio de oferta de 11.74 EUR (original: 20.61 EUR) en el siguiente enlace!

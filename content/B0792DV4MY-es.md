@@ -17,6 +17,9 @@ comparePrice: 126.21 EUR
 inStock: true
 prodname: 'Geox U Uvet E  Botas Clasicas para Hombre   Black C9999   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792DV4MY/?tag=tolees-21'
+descuento: '67.66'
+titulo: 'Geox U Uvet E  Botas Clasicas para Hombr'
 ---
 
 Está [Geox U Uvet E  Botas Clasicas para Hombre   Black C9999   42 EU](https://www.amazon.es/dp/B0792DV4MY/?tag=tolees-21) con 67.66 de descuento por 40.82 EUR (original: 126.21 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'DANISH ENDURANCE Bandas Elásticas de Resistencia  6 Unidades  Amarillo  Rosado  Rojo  Verde  Azul  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7D63NH/?tag=tolees-21'
+descuento: '66.78'
+titulo: 'DANISH ENDURANCE Bandas Elásticas de Res'
 ---
 
 Ahora mismo tienes [DANISH ENDURANCE Bandas Elásticas de Resistencia  6 Unidades  Amarillo  Rosado  Rojo  Verde  Azul  Negro ](https://www.amazon.es/dp/B07D7D63NH/?tag=tolees-21) a 9.95 EUR (original: 29.95 EUR) (66.78 %  de descuento) en el siguiente enlace!

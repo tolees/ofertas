@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'RIP CURL Retro Haze 16   Bañador  Hombre  Black  36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PMQVDN8/?tag=tolees-21'
+descuento: '33.02'
+titulo: 'RIP CURL Retro Haze 16   Bañador  Hombre'
 ---
 
 Tienes [RIP CURL Retro Haze 16   Bañador  Hombre  Black  36](https://www.amazon.es/dp/B07PMQVDN8/?tag=tolees-21) con un 33.02 % de descuento con precio de oferta de 36.83 EUR (original: 54.99 EUR) en el siguiente enlace!

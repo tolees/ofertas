@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES Joreris Hood STS Capucha  Azul  Total Eclipse Knit Fit   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQB33DC/?tag=tolees-21'
+descuento: '70.12'
+titulo: 'JACK & JONES Joreris Hood STS Capucha  A'
 ---
 
 Está [JACK & JONES Joreris Hood STS Capucha  Azul  Total Eclipse Knit Fit   Large para Hombre](https://www.amazon.es/dp/B07FQB33DC/?tag=tolees-21) con 70.12 de descuento por 11.95 EUR (original: 39.99 EUR) en el siguiente enlace!

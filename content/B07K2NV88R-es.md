@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Alpha  + BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2NV88R/?tag=tolees-21'
+descuento: '35.02'
+titulo: 'Alpha  + BD  [Blu-ray]'
 ---
 
 Está [Alpha  + BD  [Blu-ray]](https://www.amazon.es/dp/B07K2NV88R/?tag=tolees-21) con 35.02 de descuento por 9.74 EUR (original: 14.99 EUR) en el siguiente enlace!

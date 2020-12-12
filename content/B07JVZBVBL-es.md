@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Flex Appeal 3.0  Zapatillas sin Cordones para Mujer  Azul  Navy Nvy   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JVZBVBL/?tag=tolees-21'
+descuento: '50.55'
+titulo: 'Skechers Flex Appeal 3.0  Zapatillas sin'
 ---
 
 Está [Skechers Flex Appeal 3.0  Zapatillas sin Cordones para Mujer  Azul  Navy Nvy   38 EU](https://www.amazon.es/dp/B07JVZBVBL/?tag=tolees-21) con 50.55 de descuento por 34.59 EUR (original: 69.95 EUR) en el siguiente enlace!

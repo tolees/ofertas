@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'BOSS Tefresh Camiseta   Open Miscellaneous 991   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGH5ML6/?tag=tolees-21'
+descuento: '43.86'
+titulo: 'BOSS Tefresh Camiseta   Open Miscellaneo'
 ---
 
 Tienes [BOSS Tefresh Camiseta   Open Miscellaneous 991   Large para Mujer](https://www.amazon.es/dp/B07KGH5ML6/?tag=tolees-21) con un 43.86 % de descuento con precio de oferta de 39.27 EUR (original: 69.95 EUR) en el siguiente enlace!

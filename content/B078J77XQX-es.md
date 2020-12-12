@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Nike Zoom Winflo 5  Zapatillas de Running para Hombre  Rojo  Faded Spruce/Phantom/Black/Lig 300   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078J77XQX/?tag=tolees-21'
+descuento: '35.30'
+titulo: 'Nike Zoom Winflo 5  Zapatillas de Runnin'
 ---
 
 Ahora mismo tienes [Nike Zoom Winflo 5  Zapatillas de Running para Hombre  Rojo  Faded Spruce/Phantom/Black/Lig 300   39 EU](https://www.amazon.es/dp/B078J77XQX/?tag=tolees-21) a 64.7 EUR (original: 100 EUR) (35.30 %  de descuento) en el siguiente enlace!

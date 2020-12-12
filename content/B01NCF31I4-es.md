@@ -17,6 +17,9 @@ comparePrice: 16.3 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Suéter Texturizado de Manga Corta  Amarillo  ES 38 / S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NCF31I4/?tag=tolees-21'
+descuento: '40.49'
+titulo: 'oodji Ultra Mujer Suéter Texturizado de '
 ---
 
 Tienes [oodji Ultra Mujer Suéter Texturizado de Manga Corta  Amarillo  ES 38 / S](https://www.amazon.es/dp/B01NCF31I4/?tag=tolees-21) con un 40.49 % de descuento con precio de oferta de 9.7 EUR (original: 16.3 EUR) en el siguiente enlace!

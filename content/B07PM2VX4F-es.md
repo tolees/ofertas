@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Kingston SDCE/64GB Tarjeta microSD High Endurance  64 GB'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PM2VX4F/?tag=tolees-21'
+descuento: '43.23'
+titulo: 'Kingston SDCE/64GB Tarjeta microSD High '
 ---
 
 Está [Kingston SDCE/64GB Tarjeta microSD High Endurance  64 GB](https://www.amazon.es/dp/B07PM2VX4F/?tag=tolees-21) con 43.23 de descuento por 8.51 EUR (original: 14.99 EUR) en el siguiente enlace!

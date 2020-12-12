@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Adidas Nemeziz 18.2 FG  Zapatillas de Fútbol para Hombre  Negro Core Black/Footwear White 0  41 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9DZ3KF/?tag=tolees-21'
+descuento: '68.02'
+titulo: 'Adidas Nemeziz 18.2 FG  Zapatillas de Fú'
 ---
 
 Está [Adidas Nemeziz 18.2 FG  Zapatillas de Fútbol para Hombre  Negro Core Black/Footwear White 0  41 1/3 EU](https://www.amazon.es/dp/B07D9DZ3KF/?tag=tolees-21) con 68.02 de descuento por 41.56 EUR (original: 129.95 EUR) en el siguiente enlace!

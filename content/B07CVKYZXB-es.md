@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Skechers TWI-Lites-Twinkle Starz  Zapatillas para Niñas  Dorado  Rose Gold Rsgd   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVKYZXB/?tag=tolees-21'
+descuento: '40.13'
+titulo: 'Skechers TWI-Lites-Twinkle Starz  Zapati'
 ---
 
 Está [Skechers TWI-Lites-Twinkle Starz  Zapatillas para Niñas  Dorado  Rose Gold Rsgd   32 EU](https://www.amazon.es/dp/B07CVKYZXB/?tag=tolees-21) con 40.13 de descuento por 32.9 EUR (original: 54.95 EUR) en el siguiente enlace!

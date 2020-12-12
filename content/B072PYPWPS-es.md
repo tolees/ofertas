@@ -17,6 +17,9 @@ comparePrice: 67 EUR
 inStock: true
 prodname: 'Asics Aaron  Zapatillas para Hombre  Azul  Peacoat/Peacoat    Talla 40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072PYPWPS/?tag=tolees-21'
+descuento: '49.45'
+titulo: 'Asics Aaron  Zapatillas para Hombre  Azu'
 ---
 
 Tienes [Asics Aaron  Zapatillas para Hombre  Azul  Peacoat/Peacoat    Talla 40 EU](https://www.amazon.es/dp/B072PYPWPS/?tag=tolees-21) con un 49.45 % de descuento con precio de oferta de 33.87 EUR (original: 67 EUR) en el siguiente enlace!

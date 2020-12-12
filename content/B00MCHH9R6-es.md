@@ -17,6 +17,9 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'Barbie Collector  muñeca Novia 2017  Mattel CFF37 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MCHH9R6/?tag=tolees-21'
+descuento: '27.87'
+titulo: 'Barbie Collector  muñeca Novia 2017  Mat'
 ---
 
 Tienes [Barbie Collector  muñeca Novia 2017  Mattel CFF37 ](https://www.amazon.es/dp/B00MCHH9R6/?tag=tolees-21) con un 27.87 % de descuento con precio de oferta de 20.91 EUR (original: 28.99 EUR) en el siguiente enlace!

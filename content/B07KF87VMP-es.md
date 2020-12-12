@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Levi s Housemark Polo  Negro  Mineral Black 0080   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KF87VMP/?tag=tolees-21'
+descuento: '26.50'
+titulo: 'Levi s Housemark Polo  Negro  Mineral Bl'
 ---
 
 Está [Levi s Housemark Polo  Negro  Mineral Black 0080   X-Large para Hombre](https://www.amazon.es/dp/B07KF87VMP/?tag=tolees-21) con 26.50 de descuento por 29.4 EUR (original: 40 EUR) en el siguiente enlace!

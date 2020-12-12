@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'BOSS Amiroy  suéter para Hombre  Azul  Dark Blue 404  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078G7RQST/?tag=tolees-21'
+descuento: '68.11'
+titulo: 'BOSS Amiroy  suéter para Hombre  Azul  D'
 ---
 
 Está [BOSS Amiroy  suéter para Hombre  Azul  Dark Blue 404  Small](https://www.amazon.es/dp/B078G7RQST/?tag=tolees-21) con 68.11 de descuento por 31.87 EUR (original: 99.95 EUR) en el siguiente enlace!

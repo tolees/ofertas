@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'De longhi HVS3031 - Termoventilador cromado  2200 w  3 niveles calefacción  sistema silencioso  función antihielo  ventilación verano  negro y cromado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003UV9XCC/?tag=tolees-21'
+descuento: '52.10'
+titulo: 'De longhi HVS3031 - Termoventilador crom'
 ---
 
 Tienes [De longhi HVS3031 - Termoventilador cromado  2200 w  3 niveles calefacción  sistema silencioso  función antihielo  ventilación verano  negro y cromado](https://www.amazon.es/dp/B003UV9XCC/?tag=tolees-21) con un 52.10 % de descuento con precio de oferta de 33.05 EUR (original: 69 EUR) en el siguiente enlace!

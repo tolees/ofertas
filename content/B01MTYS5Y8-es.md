@@ -17,6 +17,9 @@ comparePrice: 114.72 EUR
 inStock: true
 prodname: 'Armani Exchange Reloj de Mujer AX5444'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTYS5Y8/?tag=tolees-21'
+descuento: '28.37'
+titulo: 'Armani Exchange Reloj de Mujer AX5444'
 ---
 
 Ahora mismo tienes [Armani Exchange Reloj de Mujer AX5444](https://www.amazon.es/dp/B01MTYS5Y8/?tag=tolees-21) a 82.17 EUR (original: 114.72 EUR) (28.37 %  de descuento) en el siguiente enlace!

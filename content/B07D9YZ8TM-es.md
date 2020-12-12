@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'adidas Galaxy 4  Zapatillas de Entrenamiento para Hombre  Negro  Legend Ink/Footwear White/Bright Blue 0   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9YZ8TM/?tag=tolees-21'
+descuento: '35.49'
+titulo: 'adidas Galaxy 4  Zapatillas de Entrenami'
 ---
 
 Tienes [adidas Galaxy 4  Zapatillas de Entrenamiento para Hombre  Negro  Legend Ink/Footwear White/Bright Blue 0   42 EU](https://www.amazon.es/dp/B07D9YZ8TM/?tag=tolees-21) con un 35.49 % de descuento con precio de oferta de 35.45 EUR (original: 54.95 EUR) en el siguiente enlace!

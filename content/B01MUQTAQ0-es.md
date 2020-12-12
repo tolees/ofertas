@@ -17,6 +17,9 @@ comparePrice: 25.95 EUR
 inStock: true
 prodname: 'Intimuse Amari Vestido  Negro  Schwarz 001   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MUQTAQ0/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Intimuse Amari Vestido  Negro  Schwarz 0'
 ---
 
 Está [Intimuse Amari Vestido  Negro  Schwarz 001   X-Large](https://www.amazon.es/dp/B01MUQTAQ0/?tag=tolees-21) con 60.00 de descuento por 10.38 EUR (original: 25.95 EUR) en el siguiente enlace!

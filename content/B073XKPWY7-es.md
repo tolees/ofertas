@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'ALLPOWERS 2 Piezas 2.5W 5V/500mAh Mini Encapsulado Panel Solar Epoxi DIY Batería Cargador Kit para Energía Batería LED 130x150mm  Panel Solar Sólo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073XKPWY7/?tag=tolees-21'
+descuento: '35.02'
+titulo: 'ALLPOWERS 2 Piezas 2.5W 5V/500mAh Mini E'
 ---
 
 Ahora mismo tienes [ALLPOWERS 2 Piezas 2.5W 5V/500mAh Mini Encapsulado Panel Solar Epoxi DIY Batería Cargador Kit para Energía Batería LED 130x150mm  Panel Solar Sólo ](https://www.amazon.es/dp/B073XKPWY7/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Trixie Caseta Natura Perro  S  71×77×76 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000OLYD62/?tag=tolees-21'
+descuento: '39.55'
+titulo: 'Trixie Caseta Natura Perro  S  71×77×76 '
 ---
 
 Ahora mismo tienes [Trixie Caseta Natura Perro  S  71×77×76 cm](https://www.amazon.es/dp/B000OLYD62/?tag=tolees-21) a 75.56 EUR (original: 125 EUR) (39.55 %  de descuento) en el siguiente enlace!

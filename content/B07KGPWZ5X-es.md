@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Helly Hansen Kos Polo  Hombre  Navy  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGPWZ5X/?tag=tolees-21'
+descuento: '46.17'
+titulo: 'Helly Hansen Kos Polo  Hombre  Navy  M'
 ---
 
 Tienes [Helly Hansen Kos Polo  Hombre  Navy  M](https://www.amazon.es/dp/B07KGPWZ5X/?tag=tolees-21) con un 46.17 % de descuento con precio de oferta de 34.99 EUR (original: 65 EUR) en el siguiente enlace!

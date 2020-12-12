@@ -17,6 +17,9 @@ comparePrice: 55.37 EUR
 inStock: true
 prodname: 'ROCONTRIP Máscara de Buceo  Máscara de Snorkel de Cara Completa Seaview 180 Panorámica Antiempañante Antifugas con Correas Ajustables para la Cabeza para Hombre Mujer Adulto Juventud Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079KDD3XB/?tag=tolees-21'
+descuento: '49.45'
+titulo: 'ROCONTRIP Máscara de Buceo  Máscara de S'
 ---
 
 Está [ROCONTRIP Máscara de Buceo  Máscara de Snorkel de Cara Completa Seaview 180 Panorámica Antiempañante Antifugas con Correas Ajustables para la Cabeza para Hombre Mujer Adulto Juventud Niños](https://www.amazon.es/dp/B079KDD3XB/?tag=tolees-21) con 49.45 de descuento por 27.99 EUR (original: 55.37 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Merrell Annex Recruit Mid WP  Zapatillas de Senderismo para Hombre  Marrón Canteen  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B9QRBVR/?tag=tolees-21'
+descuento: '71.21'
+titulo: 'Merrell Annex Recruit Mid WP  Zapatillas'
 ---
 
 Está [Merrell Annex Recruit Mid WP  Zapatillas de Senderismo para Hombre  Marrón Canteen  40 EU](https://www.amazon.es/dp/B07B9QRBVR/?tag=tolees-21) con 71.21 de descuento por 40.3 EUR (original: 140 EUR) en el siguiente enlace!

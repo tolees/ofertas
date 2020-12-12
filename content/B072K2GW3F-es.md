@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'FIND Pantalones de Vestir para Hombre Negro  Black  W34/L31'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072K2GW3F/?tag=tolees-21'
+descuento: '51.73'
+titulo: 'FIND Pantalones de Vestir para Hombre Ne'
 ---
 
 Ahora mismo tienes [FIND Pantalones de Vestir para Hombre Negro  Black  W34/L31](https://www.amazon.es/dp/B072K2GW3F/?tag=tolees-21) a 19.31 EUR (original: 40 EUR) (51.73 %  de descuento) en el siguiente enlace!

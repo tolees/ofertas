@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Adidas Nemeziz 18.3 TF J  Botas de fútbol Unisex niño  000  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPJ35CQ/?tag=tolees-21'
+descuento: '38.57'
+titulo: 'Adidas Nemeziz 18.3 TF J  Botas de fútbo'
 ---
 
 Tienes [Adidas Nemeziz 18.3 TF J  Botas de fútbol Unisex niño  000  38 EU](https://www.amazon.es/dp/B07KPJ35CQ/?tag=tolees-21) con un 38.57 % de descuento con precio de oferta de 39.9 EUR (original: 64.95 EUR) en el siguiente enlace!

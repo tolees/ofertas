@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Puma Oceanaire Hybrid Pantalones  Hombre   Azul Oscuro/Blanco   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0781YYMD3/?tag=tolees-21'
+descuento: '57.84'
+titulo: 'Puma Oceanaire Hybrid Pantalones  Hombre'
 ---
 
 Está [Puma Oceanaire Hybrid Pantalones  Hombre   Azul Oscuro/Blanco   XL](https://www.amazon.es/dp/B0781YYMD3/?tag=tolees-21) con 57.84 de descuento por 18.95 EUR (original: 44.95 EUR) en el siguiente enlace!

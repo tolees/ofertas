@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Pelepas Vibrador de Prostata Masajeador para Mujer Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MW169JX/?tag=tolees-21'
+descuento: '60.02'
+titulo: 'Pelepas Vibrador de Prostata Masajeador '
 ---
 
 Ahora mismo tienes [Pelepas Vibrador de Prostata Masajeador para Mujer Hombre](https://www.amazon.es/dp/B07MW169JX/?tag=tolees-21) a 19.99 EUR (original: 50 EUR) (60.02 %  de descuento) en el siguiente enlace!

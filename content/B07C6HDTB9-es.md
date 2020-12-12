@@ -17,6 +17,9 @@ comparePrice: 33.75 EUR
 inStock: true
 prodname: 'Hunletai Cable USB Tipo C Carga Rapida Cable USB C Blanco [5-Pack] 1m'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C6HDTB9/?tag=tolees-21'
+descuento: '76.33'
+titulo: 'Hunletai Cable USB Tipo C Carga Rapida C'
 ---
 
 Está [Hunletai Cable USB Tipo C Carga Rapida Cable USB C Blanco [5-Pack] 1m](https://www.amazon.es/dp/B07C6HDTB9/?tag=tolees-21) con 76.33 de descuento por 7.99 EUR (original: 33.75 EUR) en el siguiente enlace!

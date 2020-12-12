@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'LIGE Relojes para Hombre Militar Impermeable Deporte Cuarzo Analógico Reloj Gents Cronógrafo Fecha Calendario Cuero Marrón Reloj de Pulsera'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R1TQCQ6/?tag=tolees-21'
+descuento: '77.15'
+titulo: 'LIGE Relojes para Hombre Militar Imperme'
 ---
 
 Ahora mismo tienes [LIGE Relojes para Hombre Militar Impermeable Deporte Cuarzo Analógico Reloj Gents Cronógrafo Fecha Calendario Cuero Marrón Reloj de Pulsera](https://www.amazon.es/dp/B07R1TQCQ6/?tag=tolees-21) a 31.99 EUR (original: 139.99 EUR) (77.15 %  de descuento) en el siguiente enlace!

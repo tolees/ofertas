@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Reef_Apparel Reef Classic Crew Sta  Capucha para Hombre  Negro  Black Bla   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072MBRVYP/?tag=tolees-21'
+descuento: '70.11'
+titulo: 'Reef_Apparel Reef Classic Crew Sta  Capu'
 ---
 
 Tienes [Reef_Apparel Reef Classic Crew Sta  Capucha para Hombre  Negro  Black Bla   X-Large](https://www.amazon.es/dp/B072MBRVYP/?tag=tolees-21) con un 70.11 % de descuento con precio de oferta de 16.44 EUR (original: 55 EUR) en el siguiente enlace!

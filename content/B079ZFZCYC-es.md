@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'HUGO Elisha01  Camisa Hombre  Blanco  Open White 199   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079ZFZCYC/?tag=tolees-21'
+descuento: '45.77'
+titulo: 'HUGO Elisha01  Camisa Hombre  Blanco  Op'
 ---
 
 Está [HUGO Elisha01  Camisa Hombre  Blanco  Open White 199   XX-Large](https://www.amazon.es/dp/B079ZFZCYC/?tag=tolees-21) con 45.77 de descuento por 43.36 EUR (original: 79.95 EUR) en el siguiente enlace!

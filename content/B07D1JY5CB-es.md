@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Vobon Soporte Móvil Bicicleta  Soporte Móvil Bici 360° Anti Vibración Prevención De Caída Silicona Manillar Porta Móvil Moto 4.7"- 6.5" Teléfonos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1JY5CB/?tag=tolees-21'
+descuento: '41.20'
+titulo: 'Vobon Soporte Móvil Bicicleta  Soporte M'
 ---
 
 Está [Vobon Soporte Móvil Bicicleta  Soporte Móvil Bici 360° Anti Vibración Prevención De Caída Silicona Manillar Porta Móvil Moto 4.7"- 6.5" Teléfonos](https://www.amazon.es/dp/B07D1JY5CB/?tag=tolees-21) con 41.20 de descuento por 9.99 EUR (original: 16.99 EUR) en el siguiente enlace!

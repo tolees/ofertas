@@ -17,6 +17,9 @@ comparePrice: 22.8 EUR
 inStock: true
 prodname: 'New Look Stretch Skinny Chino  Pantalones para Hombre  Negro  Black  W42  Talla del Fabricante: 81 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HCQN5BR/?tag=tolees-21'
+descuento: '55.88'
+titulo: 'New Look Stretch Skinny Chino  Pantalone'
 ---
 
 Tienes [New Look Stretch Skinny Chino  Pantalones para Hombre  Negro  Black  W42  Talla del Fabricante: 81 ](https://www.amazon.es/dp/B07HCQN5BR/?tag=tolees-21) con un 55.88 % de descuento con precio de oferta de 10.06 EUR (original: 22.8 EUR) en el siguiente enlace!

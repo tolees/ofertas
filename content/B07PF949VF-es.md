@@ -17,6 +17,9 @@ comparePrice: 259.99 EUR
 inStock: true
 prodname: 'sumgott Aspirador sin Cable 9000Pa Aspiración 2 Velocidades Aspirador Ciclónico Escoba Eléctrica Doméstica Ultraligera Silenciosa Inalámbrica  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PF949VF/?tag=tolees-21'
+descuento: '42.31'
+titulo: 'sumgott Aspirador sin Cable 9000Pa Aspir'
 ---
 
 Ahora mismo tienes [sumgott Aspirador sin Cable 9000Pa Aspiración 2 Velocidades Aspirador Ciclónico Escoba Eléctrica Doméstica Ultraligera Silenciosa Inalámbrica  Rojo ](https://www.amazon.es/dp/B07PF949VF/?tag=tolees-21) a 149.99 EUR (original: 259.99 EUR) (42.31 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'La Hoguera Duroc Chorizo Cular - 625 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL6KZZR/?tag=tolees-21'
+descuento: '28.80'
+titulo: 'La Hoguera Duroc Chorizo Cular - 625 gr'
 ---
 
 Está [La Hoguera Duroc Chorizo Cular - 625 gr](https://www.amazon.es/dp/B07BL6KZZR/?tag=tolees-21) con 28.80 de descuento por 10.68 EUR (original: 15 EUR) en el siguiente enlace!

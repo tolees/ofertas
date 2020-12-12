@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Reebok Cl Leather RSP  Zapatillas para Hombre  Rojo  Primal Red/White/Cool Shadow/Grpahite/Silver 0   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2NG7V6/?tag=tolees-21'
+descuento: '71.57'
+titulo: 'Reebok Cl Leather RSP  Zapatillas para H'
 ---
 
 Está [Reebok Cl Leather RSP  Zapatillas para Hombre  Rojo  Primal Red/White/Cool Shadow/Grpahite/Silver 0   47 EU](https://www.amazon.es/dp/B07D2NG7V6/?tag=tolees-21) con 71.57 de descuento por 28.42 EUR (original: 99.95 EUR) en el siguiente enlace!

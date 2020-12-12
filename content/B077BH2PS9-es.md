@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'FIND Mocasines Clásicos Hombre  Azul  Navy   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077BH2PS9/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'FIND Mocasines Clásicos Hombre  Azul  Na'
 ---
 
 Está [FIND Mocasines Clásicos Hombre  Azul  Navy   42 EU](https://www.amazon.es/dp/B077BH2PS9/?tag=tolees-21) con 30.00 de descuento por 38.5 EUR (original: 55 EUR) en el siguiente enlace!

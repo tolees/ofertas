@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'edc by Esprit 038cc2b003  Pantalones Hombre  Beige  Beige 270    Talla del Fabricante: 33/32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HXSYSQ/?tag=tolees-21'
+descuento: '80.82'
+titulo: 'edc by Esprit 038cc2b003  Pantalones Hom'
 ---
 
 Tienes [edc by Esprit 038cc2b003  Pantalones Hombre  Beige  Beige 270    Talla del Fabricante: 33/32 ](https://www.amazon.es/dp/B078HXSYSQ/?tag=tolees-21) con un 80.82 % de descuento con precio de oferta de 9.59 EUR (original: 49.99 EUR) en el siguiente enlace!

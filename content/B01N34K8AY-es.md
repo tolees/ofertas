@@ -17,6 +17,9 @@ comparePrice: 19.1 EUR
 inStock: true
 prodname: 'HP Focus Topload 15.6" Negro - Funda  39 6 cm  15.6"   Negro  Monótono  400 mm  65 mm  280 mm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N34K8AY/?tag=tolees-21'
+descuento: '32.20'
+titulo: 'HP Focus Topload 15.6" Negro - Funda  39'
 ---
 
 Está [HP Focus Topload 15.6" Negro - Funda  39 6 cm  15.6"   Negro  Monótono  400 mm  65 mm  280 mm ](https://www.amazon.es/dp/B01N34K8AY/?tag=tolees-21) con 32.20 de descuento por 12.95 EUR (original: 19.1 EUR) en el siguiente enlace!

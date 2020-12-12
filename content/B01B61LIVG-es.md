@@ -17,6 +17,9 @@ comparePrice: 740 EUR
 inStock: true
 prodname: 'FLEX Nube Visco Gel - Colchón muelles ensacados  90 x 190 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B61LIVG/?tag=tolees-21'
+descuento: '50.68'
+titulo: 'FLEX Nube Visco Gel - Colchón muelles en'
 ---
 
 Ahora mismo tienes [FLEX Nube Visco Gel - Colchón muelles ensacados  90 x 190 cm](https://www.amazon.es/dp/B01B61LIVG/?tag=tolees-21) a 365 EUR (original: 740 EUR) (50.68 %  de descuento) en el siguiente enlace!

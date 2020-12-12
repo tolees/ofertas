@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'TRUTH & FABLE 13791 vestido fiesta mujer  Rosa  Pink   46  Talla del fabricante: XX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074ZC7Z6K/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'TRUTH & FABLE 13791 vestido fiesta mujer'
 ---
 
 Tienes [TRUTH & FABLE 13791 vestido fiesta mujer  Rosa  Pink   46  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B074ZC7Z6K/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 16.5 EUR (original: 55 EUR) en el siguiente enlace!

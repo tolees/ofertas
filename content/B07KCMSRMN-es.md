@@ -17,6 +17,9 @@ comparePrice: 37.5 EUR
 inStock: true
 prodname: 'David Jones - 5728-2a  Bolsos de mano Mujer  Negro  Black   13x26x32 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCMSRMN/?tag=tolees-21'
+descuento: '62.96'
+titulo: 'David Jones - 5728-2a  Bolsos de mano Mu'
 ---
 
 Está [David Jones - 5728-2a  Bolsos de mano Mujer  Negro  Black   13x26x32 cm  W x H L ](https://www.amazon.es/dp/B07KCMSRMN/?tag=tolees-21) con 62.96 de descuento por 13.89 EUR (original: 37.5 EUR) en el siguiente enlace!

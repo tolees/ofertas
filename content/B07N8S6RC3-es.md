@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Ringke Fusion Diseñado para Funda Galaxy S10 Plus Transparente PC [Tecnología Matriz Puntos Anti-Adherente] Cubierta Protectora TPU Protección contra Caídas Liviana para Galaxy S10 Plus - Claro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N8S6RC3/?tag=tolees-21'
+descuento: '56.70'
+titulo: 'Ringke Fusion Diseñado para Funda Galaxy'
 ---
 
 Tienes [Ringke Fusion Diseñado para Funda Galaxy S10 Plus Transparente PC [Tecnología Matriz Puntos Anti-Adherente] Cubierta Protectora TPU Protección contra Caídas Liviana para Galaxy S10 Plus - Claro](https://www.amazon.es/dp/B07N8S6RC3/?tag=tolees-21) con un 56.70 % de descuento con precio de oferta de 12.99 EUR (original: 30 EUR) en el siguiente enlace!

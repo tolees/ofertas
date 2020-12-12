@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Burton 2018 Neceser de Viaje  24 cm  1 litro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K87WMZV/?tag=tolees-21'
+descuento: '58.82'
+titulo: 'Burton 2018 Neceser de Viaje  24 cm  1 l'
 ---
 
 Está [Burton 2018 Neceser de Viaje  24 cm  1 litro](https://www.amazon.es/dp/B07K87WMZV/?tag=tolees-21) con 58.82 de descuento por 9.06 EUR (original: 22 EUR) en el siguiente enlace!

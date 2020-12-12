@@ -17,6 +17,9 @@ comparePrice: 10.5 EUR
 inStock: true
 prodname: 'Arnés-Bozal Entrenam. Top Trainer XL-corto  40 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000RZN6U4/?tag=tolees-21'
+descuento: '54.29'
+titulo: 'Arnés-Bozal Entrenam. Top Trainer XL-cor'
 ---
 
 Está [Arnés-Bozal Entrenam. Top Trainer XL-corto  40 cm](https://www.amazon.es/dp/B000RZN6U4/?tag=tolees-21) con 54.29 de descuento por 4.8 EUR (original: 10.5 EUR) en el siguiente enlace!

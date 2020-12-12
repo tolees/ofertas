@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Kappa Cammy  Botas Clasicas Unisex Niños  Negro  Black/Grey 1116   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0719FQXBG/?tag=tolees-21'
+descuento: '64.69'
+titulo: 'Kappa Cammy  Botas Clasicas Unisex Niños'
 ---
 
 Ahora mismo tienes [Kappa Cammy  Botas Clasicas Unisex Niños  Negro  Black/Grey 1116   28 EU](https://www.amazon.es/dp/B0719FQXBG/?tag=tolees-21) a 15.87 EUR (original: 44.95 EUR) (64.69 %  de descuento) en el siguiente enlace!

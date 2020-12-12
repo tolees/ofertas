@@ -17,6 +17,9 @@ comparePrice: 20.15 EUR
 inStock: true
 prodname: 'New Look Rib Stripe Cardi  Chaqueta Punto para Mujer  Verde  Green Pattern  36  Talla del Fabricante: 8 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GBCYG59/?tag=tolees-21'
+descuento: '56.23'
+titulo: 'New Look Rib Stripe Cardi  Chaqueta Punt'
 ---
 
 Tienes [New Look Rib Stripe Cardi  Chaqueta Punto para Mujer  Verde  Green Pattern  36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07GBCYG59/?tag=tolees-21) con un 56.23 % de descuento con precio de oferta de 8.82 EUR (original: 20.15 EUR) en el siguiente enlace!

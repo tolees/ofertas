@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans Rodeo PM303159  Camisa para Hombre  Blanco  White 800   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077B12QQS/?tag=tolees-21'
+descuento: '65.77'
+titulo: 'Pepe Jeans Rodeo PM303159  Camisa para H'
 ---
 
 Ahora mismo tienes [Pepe Jeans Rodeo PM303159  Camisa para Hombre  Blanco  White 800   Large](https://www.amazon.es/dp/B077B12QQS/?tag=tolees-21) a 22.25 EUR (original: 65 EUR) (65.77 %  de descuento) en el siguiente enlace!

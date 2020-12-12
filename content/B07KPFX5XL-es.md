@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Gant TG Breton Striped Jersey Dress Vestido  Beige  Eggshell 113   128  Talla del Fabricante: 122/128  para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPFX5XL/?tag=tolees-21'
+descuento: '73.17'
+titulo: 'Gant TG Breton Striped Jersey Dress Vest'
 ---
 
 Tienes [Gant TG Breton Striped Jersey Dress Vestido  Beige  Eggshell 113   128  Talla del Fabricante: 122/128  para Niñas](https://www.amazon.es/dp/B07KPFX5XL/?tag=tolees-21) con un 73.17 % de descuento con precio de oferta de 21.46 EUR (original: 79.99 EUR) en el siguiente enlace!

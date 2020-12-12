@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 997H  Zapatillas para Mujer  Blanco  White/Gunmetal Ed Blue   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ5DR82/?tag=tolees-21'
+descuento: '48.77'
+titulo: 'New Balance 997H  Zapatillas para Mujer '
 ---
 
 Está [New Balance 997H  Zapatillas para Mujer  Blanco  White/Gunmetal Ed Blue   39 EU](https://www.amazon.es/dp/B07DJ5DR82/?tag=tolees-21) con 48.77 de descuento por 46.11 EUR (original: 90 EUR) en el siguiente enlace!

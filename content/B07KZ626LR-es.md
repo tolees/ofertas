@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel Gobi Geometric Print  Camisa Casual para Hombre   Gama Azules 12   XX-Large  Tamaño del Fabricante:XXL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ626LR/?tag=tolees-21'
+descuento: '76.38'
+titulo: 'Cortefiel Gobi Geometric Print  Camisa C'
 ---
 
 Tienes [Cortefiel Gobi Geometric Print  Camisa Casual para Hombre   Gama Azules 12   XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B07KZ626LR/?tag=tolees-21) con un 76.38 % de descuento con precio de oferta de 11.81 EUR (original: 49.99 EUR) en el siguiente enlace!

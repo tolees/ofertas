@@ -17,6 +17,9 @@ comparePrice: 7.87 EUR
 inStock: true
 prodname: 'Umbra 330210-505 - Soporte para cocina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000GHQBMI/?tag=tolees-21'
+descuento: '36.47'
+titulo: 'Umbra 330210-505 - Soporte para cocina'
 ---
 
 Tienes [Umbra 330210-505 - Soporte para cocina](https://www.amazon.es/dp/B000GHQBMI/?tag=tolees-21) con un 36.47 % de descuento con precio de oferta de 5 EUR (original: 7.87 EUR) en el siguiente enlace!

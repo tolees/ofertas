@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Levi s kids Nn23597 46 Trousers Jeans  Azul  Indigo   16 años  Talla del Fabricante: 16Y  para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K51BS3G/?tag=tolees-21'
+descuento: '47.36'
+titulo: 'Levi s kids Nn23597 46 Trousers Jeans  A'
 ---
 
 Está [Levi s kids Nn23597 46 Trousers Jeans  Azul  Indigo   16 años  Talla del Fabricante: 16Y  para Niñas](https://www.amazon.es/dp/B07K51BS3G/?tag=tolees-21) con 47.36 de descuento por 34.19 EUR (original: 64.95 EUR) en el siguiente enlace!

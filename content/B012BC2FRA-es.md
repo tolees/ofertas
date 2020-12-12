@@ -17,6 +17,9 @@ comparePrice: 34.16 EUR
 inStock: true
 prodname: 'Muscletech Hydroxycut Hardcore Next Gen Cápsulas - 100 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012BC2FRA/?tag=tolees-21'
+descuento: '25.56'
+titulo: 'Muscletech Hydroxycut Hardcore Next Gen '
 ---
 
 Ahora mismo tienes [Muscletech Hydroxycut Hardcore Next Gen Cápsulas - 100 Unidades](https://www.amazon.es/dp/B012BC2FRA/?tag=tolees-21) a 25.43 EUR (original: 34.16 EUR) (25.56 %  de descuento) en el siguiente enlace!

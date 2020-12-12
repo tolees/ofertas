@@ -17,6 +17,9 @@ comparePrice: 159.9 EUR
 inStock: true
 prodname: 'Geox U Mattias B ABX B  Botas Chukka para Hombre  Negro  Black C9999   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792GK7VN/?tag=tolees-21'
+descuento: '50.65'
+titulo: 'Geox U Mattias B ABX B  Botas Chukka par'
 ---
 
 Está [Geox U Mattias B ABX B  Botas Chukka para Hombre  Negro  Black C9999   42 EU](https://www.amazon.es/dp/B0792GK7VN/?tag=tolees-21) con 50.65 de descuento por 78.91 EUR (original: 159.9 EUR) en el siguiente enlace!

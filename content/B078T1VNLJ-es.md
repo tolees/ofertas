@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Women’secret Sujetador con Push-up para Mujer  Negro  Black 1  X-Small  Tamaño del Fabricante:XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078T1VNLJ/?tag=tolees-21'
+descuento: '75.18'
+titulo: 'Women’secret Sujetador con Push-up para '
 ---
 
 Está [Women’secret Sujetador con Push-up para Mujer  Negro  Black 1  X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B078T1VNLJ/?tag=tolees-21) con 75.18 de descuento por 6.7 EUR (original: 26.99 EUR) en el siguiente enlace!

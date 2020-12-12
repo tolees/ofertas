@@ -17,6 +17,9 @@ comparePrice: 30.71 EUR
 inStock: true
 prodname: 'Wera 950 PKL/9 BM N Juego de llaves acodadas métricas  BlackLaser'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000ZEE4T4/?tag=tolees-21'
+descuento: '54.51'
+titulo: 'Wera 950 PKL/9 BM N Juego de llaves acod'
 ---
 
 Ahora mismo tienes [Wera 950 PKL/9 BM N Juego de llaves acodadas métricas  BlackLaser](https://www.amazon.es/dp/B000ZEE4T4/?tag=tolees-21) a 13.97 EUR (original: 30.71 EUR) (54.51 %  de descuento) en el siguiente enlace!

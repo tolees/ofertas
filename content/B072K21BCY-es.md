@@ -17,6 +17,9 @@ comparePrice: 45.2 EUR
 inStock: true
 prodname: 'BONAI Bateria Externa 20000mAh Power Bank Cargador portátil con Salida de 4 USB para Phone Huawei  Samsung Galaxy etc - Oro Rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072K21BCY/?tag=tolees-21'
+descuento: '33.65'
+titulo: 'BONAI Bateria Externa 20000mAh Power Ban'
 ---
 
 Tienes [BONAI Bateria Externa 20000mAh Power Bank Cargador portátil con Salida de 4 USB para Phone Huawei  Samsung Galaxy etc - Oro Rosa](https://www.amazon.es/dp/B072K21BCY/?tag=tolees-21) con un 33.65 % de descuento con precio de oferta de 29.99 EUR (original: 45.2 EUR) en el siguiente enlace!

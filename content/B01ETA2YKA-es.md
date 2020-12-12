@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Portatodo Los Vengadores Marvel Team cilindrico Surtido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ETA2YKA/?tag=tolees-21'
+descuento: '70.47'
+titulo: 'Portatodo Los Vengadores Marvel Team cil'
 ---
 
 Tienes [Portatodo Los Vengadores Marvel Team cilindrico Surtido](https://www.amazon.es/dp/B01ETA2YKA/?tag=tolees-21) con un 70.47 % de descuento con precio de oferta de 2.95 EUR (original: 9.99 EUR) en el siguiente enlace!

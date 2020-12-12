@@ -17,6 +17,9 @@ comparePrice: 243.53 EUR
 inStock: true
 prodname: 'G.Skill F4-2800C16Q - Memoria RAM  4 x 4 GB DDR4  2800 MHz '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NX93RTG/?tag=tolees-21'
+descuento: '47.04'
+titulo: 'G.Skill F4-2800C16Q - Memoria RAM  4 x 4'
 ---
 
 Tienes [G.Skill F4-2800C16Q - Memoria RAM  4 x 4 GB DDR4  2800 MHz ](https://www.amazon.es/dp/B00NX93RTG/?tag=tolees-21) con un 47.04 % de descuento con precio de oferta de 128.98 EUR (original: 243.53 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'Pantalón Corto Shorts clásicas Pantalones Deportivos Mujer Braguitas Bikini Alta Elasticidad Color Sólido Talla Grande Colores Varias Playa Blanco Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BCBWC86/?tag=tolees-21'
+descuento: '38.94'
+titulo: 'Pantalón Corto Shorts clásicas Pantalone'
 ---
 
 Tienes [Pantalón Corto Shorts clásicas Pantalones Deportivos Mujer Braguitas Bikini Alta Elasticidad Color Sólido Talla Grande Colores Varias Playa Blanco Large](https://www.amazon.es/dp/B07BCBWC86/?tag=tolees-21) con un 38.94 % de descuento con precio de oferta de 10.99 EUR (original: 18 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 51.98 EUR
 inStock: true
 prodname: 'Kensington K72424WW - Ratón inalámbrico  tamaño Mediano  Color Verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008M11WBA/?tag=tolees-21'
+descuento: '44.81'
+titulo: 'Kensington K72424WW - Ratón inalámbrico '
 ---
 
 Está [Kensington K72424WW - Ratón inalámbrico  tamaño Mediano  Color Verde](https://www.amazon.es/dp/B008M11WBA/?tag=tolees-21) con 44.81 de descuento por 28.69 EUR (original: 51.98 EUR) en el siguiente enlace!

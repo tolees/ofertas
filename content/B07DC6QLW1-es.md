@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'LE COQ SPORTIF Deauville Winter Craft Optical White/Dre  Zapatillas para Hombre  Dress Blue Blanc  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC6QLW1/?tag=tolees-21'
+descuento: '51.57'
+titulo: 'LE COQ SPORTIF Deauville Winter Craft Op'
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Deauville Winter Craft Optical White/Dre  Zapatillas para Hombre  Dress Blue Blanc  40 EU](https://www.amazon.es/dp/B07DC6QLW1/?tag=tolees-21) a 33.9 EUR (original: 70 EUR) (51.57 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Lupe  Suéter para Mujer  Negro  Black 999  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RQXKGF/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Pepe Jeans Lupe  Suéter para Mujer  Negr'
 ---
 
 Está [Pepe Jeans Lupe  Suéter para Mujer  Negro  Black 999  XS](https://www.amazon.es/dp/B079RQXKGF/?tag=tolees-21) con 60.00 de descuento por 23.96 EUR (original: 59.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 8.7 EUR
 inStock: true
 prodname: 'Cromo-vanadio 1/2 3/8 1/4 pulgadas Llave de trinquete 24 dientes Herramientas de Carraca rápida Llave de desbloqueo manual profesional'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPXH59S/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Cromo-vanadio 1/2 3/8 1/4 pulgadas Llave'
 ---
 
 Tienes [Cromo-vanadio 1/2 3/8 1/4 pulgadas Llave de trinquete 24 dientes Herramientas de Carraca rápida Llave de desbloqueo manual profesional](https://www.amazon.es/dp/B07KPXH59S/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 3.48 EUR (original: 8.7 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'OPPSARE Cepillo de Limpieza Facial  Sistema de Limpieza Sónica Suave y Masajeador Facial Antienvejecimiento'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K5LFDD1/?tag=tolees-21'
+descuento: '62.99'
+titulo: 'OPPSARE Cepillo de Limpieza Facial  Sist'
 ---
 
 Está [OPPSARE Cepillo de Limpieza Facial  Sistema de Limpieza Sónica Suave y Masajeador Facial Antienvejecimiento](https://www.amazon.es/dp/B07K5LFDD1/?tag=tolees-21) con 62.99 de descuento por 9.99 EUR (original: 26.99 EUR) en el siguiente enlace!

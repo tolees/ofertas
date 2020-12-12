@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Orson Row  Mocasines para Hombre  Azul  Navy Nubuck-   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LRHT226/?tag=tolees-21'
+descuento: '53.21'
+titulo: 'Clarks Orson Row  Mocasines para Hombre '
 ---
 
 Ahora mismo tienes [Clarks Orson Row  Mocasines para Hombre  Azul  Navy Nubuck-   44.5 EU](https://www.amazon.es/dp/B01LRHT226/?tag=tolees-21) a 51.47 EUR (original: 110 EUR) (53.21 %  de descuento) en el siguiente enlace!

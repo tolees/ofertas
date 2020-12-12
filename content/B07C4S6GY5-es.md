@@ -17,6 +17,9 @@ comparePrice: 187 EUR
 inStock: true
 prodname: 'Love Moschino Relaxed Fit Trouser with Elastic Waist Band  Pantalones para Mujer  Negro  Black C74  W26/L29  Talla del Fabricante: 42 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C4S6GY5/?tag=tolees-21'
+descuento: '61.80'
+titulo: 'Love Moschino Relaxed Fit Trouser with E'
 ---
 
 Está [Love Moschino Relaxed Fit Trouser with Elastic Waist Band  Pantalones para Mujer  Negro  Black C74  W26/L29  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07C4S6GY5/?tag=tolees-21) con 61.80 de descuento por 71.44 EUR (original: 187 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Call It Spring EU - Chrome  Bolsos totes Mujer  Rojo  Apple Butter   13.5x35x31 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWSD7S2/?tag=tolees-21'
+descuento: '71.42'
+titulo: 'Call It Spring EU - Chrome  Bolsos totes'
 ---
 
 Está [Call It Spring EU - Chrome  Bolsos totes Mujer  Rojo  Apple Butter   13.5x35x31 cm  B x H T ](https://www.amazon.es/dp/B07DWSD7S2/?tag=tolees-21) con 71.42 de descuento por 11.43 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 20.18 EUR
 inStock: true
 prodname: 'CID DC Originals-Heroine Pop Art  Camiseta para Mujer   Negro   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8Z0BDS/?tag=tolees-21'
+descuento: '35.63'
+titulo: 'CID DC Originals-Heroine Pop Art  Camise'
 ---
 
 Tienes [CID DC Originals-Heroine Pop Art  Camiseta para Mujer   Negro   Large](https://www.amazon.es/dp/B01N8Z0BDS/?tag=tolees-21) con un 35.63 % de descuento con precio de oferta de 12.99 EUR (original: 20.18 EUR) en el siguiente enlace!

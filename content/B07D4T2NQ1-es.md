@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Kappa Follow  Zapatillas Unisex Adulto  Gris  Grey/Pink 1622   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4T2NQ1/?tag=tolees-21'
+descuento: '66.07'
+titulo: 'Kappa Follow  Zapatillas Unisex Adulto  '
 ---
 
 Ahora mismo tienes [Kappa Follow  Zapatillas Unisex Adulto  Gris  Grey/Pink 1622   36 EU](https://www.amazon.es/dp/B07D4T2NQ1/?tag=tolees-21) a 15.25 EUR (original: 44.95 EUR) (66.07 %  de descuento) en el siguiente enlace!

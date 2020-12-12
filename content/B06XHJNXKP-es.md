@@ -17,6 +17,9 @@ comparePrice: 16.7 EUR
 inStock: true
 prodname: 'Luanvi Gama Polo  Hombre  Rojo  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHJNXKP/?tag=tolees-21'
+descuento: '70.12'
+titulo: 'Luanvi Gama Polo  Hombre  Rojo  XXL'
 ---
 
 Tienes [Luanvi Gama Polo  Hombre  Rojo  XXL](https://www.amazon.es/dp/B06XHJNXKP/?tag=tolees-21) con un 70.12 % de descuento con precio de oferta de 4.99 EUR (original: 16.7 EUR) en el siguiente enlace!

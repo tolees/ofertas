@@ -17,6 +17,9 @@ comparePrice: 63.55 EUR
 inStock: true
 prodname: 'FullBerg - Estantería de Metal para Flores con Diferentes tamaños  para Interiores  Salones  Exteriores  jardín  decoración  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N4L6XDY/?tag=tolees-21'
+descuento: '51.68'
+titulo: 'FullBerg - Estantería de Metal para Flor'
 ---
 
 Ahora mismo tienes [FullBerg - Estantería de Metal para Flores con Diferentes tamaños  para Interiores  Salones  Exteriores  jardín  decoración  Blanco](https://www.amazon.es/dp/B07N4L6XDY/?tag=tolees-21) a 30.71 EUR (original: 63.55 EUR) (51.68 %  de descuento) en el siguiente enlace!

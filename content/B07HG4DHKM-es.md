@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Calefactor cerámico calefactor oscilante con termostato ajustable y ventilador de calefactor temporizador de 3 modos con sobrecalentamiento y protección contra vuelcos para el hogar y la oficina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HG4DHKM/?tag=tolees-21'
+descuento: '83.34'
+titulo: 'Calefactor cerámico calefactor oscilante'
 ---
 
 Ahora mismo tienes [Calefactor cerámico calefactor oscilante con termostato ajustable y ventilador de calefactor temporizador de 3 modos con sobrecalentamiento y protección contra vuelcos para el hogar y la oficina](https://www.amazon.es/dp/B07HG4DHKM/?tag=tolees-21) a 14.99 EUR (original: 89.99 EUR) (83.34 %  de descuento) en el siguiente enlace!

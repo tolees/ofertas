@@ -17,6 +17,9 @@ comparePrice: 62.99 EUR
 inStock: true
 prodname: 'Lámpara de luz de día 10000 Lux  simula la luz del día con una intensidad de luz de 10000 lux Lámparas de luz diurna luz solar blanca'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MQ57Y2L/?tag=tolees-21'
+descuento: '30.16'
+titulo: 'Lámpara de luz de día 10000 Lux  simula '
 ---
 
 Tienes [Lámpara de luz de día 10000 Lux  simula la luz del día con una intensidad de luz de 10000 lux Lámparas de luz diurna luz solar blanca](https://www.amazon.es/dp/B07MQ57Y2L/?tag=tolees-21) con un 30.16 % de descuento con precio de oferta de 43.99 EUR (original: 62.99 EUR) en el siguiente enlace!

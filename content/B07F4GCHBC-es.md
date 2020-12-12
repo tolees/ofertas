@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma ESS Logo FL Cl Chándal  Hombre  Medium Gray Heather  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F4GCHBC/?tag=tolees-21'
+descuento: '34.94'
+titulo: 'Puma ESS Logo FL Cl Chándal  Hombre  Med'
 ---
 
 Ahora mismo tienes [Puma ESS Logo FL Cl Chándal  Hombre  Medium Gray Heather  L](https://www.amazon.es/dp/B07F4GCHBC/?tag=tolees-21) a 25.99 EUR (original: 39.95 EUR) (34.94 %  de descuento) en el siguiente enlace!

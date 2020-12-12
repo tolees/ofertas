@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Status-Rolano  Botas Chukka para Hombre  Azul  Navy Nvy   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVG4SLP/?tag=tolees-21'
+descuento: '30.10'
+titulo: 'Skechers Status-Rolano  Botas Chukka par'
 ---
 
 Ahora mismo tienes [Skechers Status-Rolano  Botas Chukka para Hombre  Azul  Navy Nvy   42 EU](https://www.amazon.es/dp/B07CVG4SLP/?tag=tolees-21) a 45.4 EUR (original: 64.95 EUR) (30.10 %  de descuento) en el siguiente enlace!

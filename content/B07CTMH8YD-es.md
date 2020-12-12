@@ -17,6 +17,9 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'FIND - Dramatic Violet  Barra de labios brillante n.3 + Perfilador de labios n.3 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTMH8YD/?tag=tolees-21'
+descuento: '61.15'
+titulo: 'FIND - Dramatic Violet  Barra de labios '
 ---
 
 Tienes [FIND - Dramatic Violet  Barra de labios brillante n.3 + Perfilador de labios n.3 ](https://www.amazon.es/dp/B07CTMH8YD/?tag=tolees-21) con un 61.15 % de descuento con precio de oferta de 4.27 EUR (original: 10.99 EUR) en el siguiente enlace!

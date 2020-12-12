@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel C7Cb Denim Slim Oscuro Vaqueros Tapered   Gama Azules 12    Tamaño del Fabricante:48  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ57NM7/?tag=tolees-21'
+descuento: '51.17'
+titulo: 'Cortefiel C7Cb Denim Slim Oscuro Vaquero'
 ---
 
 Ahora mismo tienes [Cortefiel C7Cb Denim Slim Oscuro Vaqueros Tapered   Gama Azules 12    Tamaño del Fabricante:48  para Hombre](https://www.amazon.es/dp/B07KZ57NM7/?tag=tolees-21) a 24.41 EUR (original: 49.99 EUR) (51.17 %  de descuento) en el siguiente enlace!

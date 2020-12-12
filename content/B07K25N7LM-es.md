@@ -17,6 +17,9 @@ comparePrice: 69.36 EUR
 inStock: true
 prodname: 'Calypso Watches Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Plástico K5774/1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K25N7LM/?tag=tolees-21'
+descuento: '53.76'
+titulo: 'Calypso Watches Reloj Analógico-Digital '
 ---
 
 Tienes [Calypso Watches Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Plástico K5774/1](https://www.amazon.es/dp/B07K25N7LM/?tag=tolees-21) con un 53.76 % de descuento con precio de oferta de 32.07 EUR (original: 69.36 EUR) en el siguiente enlace!

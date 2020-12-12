@@ -17,6 +17,9 @@ comparePrice: 180.66 EUR
 inStock: true
 prodname: 'Thermic Dynamics Eco Class Heaters GH Estufa de Gas Exterior Gris 43x43x221 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00QYUO5VK/?tag=tolees-21'
+descuento: '47.99'
+titulo: 'Thermic Dynamics Eco Class Heaters GH Es'
 ---
 
 Ahora mismo tienes [Thermic Dynamics Eco Class Heaters GH Estufa de Gas Exterior Gris 43x43x221 cm](https://www.amazon.es/dp/B00QYUO5VK/?tag=tolees-21) a 93.97 EUR (original: 180.66 EUR) (47.99 %  de descuento) en el siguiente enlace!

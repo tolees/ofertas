@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'XTI 48289  Zapatillas Altas para Mujer  Marrón Bronce  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9CKZKG/?tag=tolees-21'
+descuento: '55.26'
+titulo: 'XTI 48289  Zapatillas Altas para Mujer  '
 ---
 
 Está [XTI 48289  Zapatillas Altas para Mujer  Marrón Bronce  36 EU](https://www.amazon.es/dp/B07D9CKZKG/?tag=tolees-21) con 55.26 de descuento por 22.35 EUR (original: 49.95 EUR) en el siguiente enlace!

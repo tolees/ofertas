@@ -17,6 +17,9 @@ comparePrice: 9.6 EUR
 inStock: true
 prodname: 'Farmatint Spray instantáneo capilar Stop Raíces  color castaño claro - 75 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R48GSHK/?tag=tolees-21'
+descuento: '25.10'
+titulo: 'Farmatint Spray instantáneo capilar Stop'
 ---
 
 Está [Farmatint Spray instantáneo capilar Stop Raíces  color castaño claro - 75 ml](https://www.amazon.es/dp/B07R48GSHK/?tag=tolees-21) con 25.10 de descuento por 7.19 EUR (original: 9.6 EUR) en el siguiente enlace!

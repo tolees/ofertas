@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Intex - Bomba eléctrica enchufe 220-240v + adaptador coche  66622 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004FEER3S/?tag=tolees-21'
+descuento: '60.06'
+titulo: 'Intex - Bomba eléctrica enchufe 220-240v'
 ---
 
 Está [Intex - Bomba eléctrica enchufe 220-240v + adaptador coche  66622 ](https://www.amazon.es/dp/B004FEER3S/?tag=tolees-21) con 60.06 de descuento por 13.96 EUR (original: 34.95 EUR) en el siguiente enlace!

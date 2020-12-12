@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcomarko Polo SS  Hombre  Small  Talla del Fabricante: '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GNH4RJ9/?tag=tolees-21'
+descuento: '55.18'
+titulo: 'JACK & JONES Jcomarko Polo SS  Hombre  S'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcomarko Polo SS  Hombre  Small  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNH4RJ9/?tag=tolees-21) a 11.2 EUR (original: 24.99 EUR) (55.18 %  de descuento) en el siguiente enlace!

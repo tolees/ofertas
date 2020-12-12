@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjepaulos Polo SS Noos  Hombre  Azul  Bright Cobalt Detail: Slim Fit  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079BMPML6/?tag=tolees-21'
+descuento: '43.47'
+titulo: 'JACK & JONES Jjepaulos Polo SS Noos  Hom'
 ---
 
 Está [JACK & JONES Jjepaulos Polo SS Noos  Hombre  Azul  Bright Cobalt Detail: Slim Fit  Small](https://www.amazon.es/dp/B079BMPML6/?tag=tolees-21) con 43.47 de descuento por 11.3 EUR (original: 19.99 EUR) en el siguiente enlace!

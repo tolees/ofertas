@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Korpaz Graphic Hooded Sweater Sudadera  Negro  dk Gold 5618   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M5Z9ZZ7/?tag=tolees-21'
+descuento: '70.44'
+titulo: 'G-STAR RAW Korpaz Graphic Hooded Sweater'
 ---
 
 Está [G-STAR RAW Korpaz Graphic Hooded Sweater Sudadera  Negro  dk Gold 5618   X-Large para Hombre](https://www.amazon.es/dp/B07M5Z9ZZ7/?tag=tolees-21) con 70.44 de descuento por 23.63 EUR (original: 79.95 EUR) en el siguiente enlace!

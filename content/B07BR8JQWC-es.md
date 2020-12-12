@@ -17,6 +17,9 @@ comparePrice: 18.21 EUR
 inStock: true
 prodname: 'Paper Mate 2027751 - Bolígrafos retráctiles  punta mediana de 1.0 mm  paquete de 5  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BR8JQWC/?tag=tolees-21'
+descuento: '41.57'
+titulo: 'Paper Mate 2027751 - Bolígrafos retrácti'
 ---
 
 Tienes [Paper Mate 2027751 - Bolígrafos retráctiles  punta mediana de 1.0 mm  paquete de 5  color negro](https://www.amazon.es/dp/B07BR8JQWC/?tag=tolees-21) con un 41.57 % de descuento con precio de oferta de 10.64 EUR (original: 18.21 EUR) en el siguiente enlace!

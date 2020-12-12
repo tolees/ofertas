@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Dickies Smithfield  Abrigo Impermeable para Hombre   Dark Khaki   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071DQZW1D/?tag=tolees-21'
+descuento: '68.12'
+titulo: 'Dickies Smithfield  Abrigo Impermeable p'
 ---
 
 Tienes [Dickies Smithfield  Abrigo Impermeable para Hombre   Dark Khaki   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B071DQZW1D/?tag=tolees-21) con un 68.12 % de descuento con precio de oferta de 22 EUR (original: 69 EUR) en el siguiente enlace!

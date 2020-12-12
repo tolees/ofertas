@@ -17,6 +17,9 @@ comparePrice: 11.95 EUR
 inStock: true
 prodname: 'Bourjois City Radiance Base de Maquillaje Tono 06 Light tan - 49 gr.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CLMHDKE/?tag=tolees-21'
+descuento: '53.39'
+titulo: 'Bourjois City Radiance Base de Maquillaj'
 ---
 
 Está [Bourjois City Radiance Base de Maquillaje Tono 06 Light tan - 49 gr.](https://www.amazon.es/dp/B01CLMHDKE/?tag=tolees-21) con 53.39 de descuento por 5.57 EUR (original: 11.95 EUR) en el siguiente enlace!

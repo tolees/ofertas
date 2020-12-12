@@ -17,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'Rotary Reloj de Pulsera GB05017/04'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B2X2YVQ/?tag=tolees-21'
+descuento: '52.59'
+titulo: 'Rotary Reloj de Pulsera GB05017/04'
 ---
 
 Ahora mismo tienes [Rotary Reloj de Pulsera GB05017/04](https://www.amazon.es/dp/B01B2X2YVQ/?tag=tolees-21) a 64 EUR (original: 135 EUR) (52.59 %  de descuento) en el siguiente enlace!

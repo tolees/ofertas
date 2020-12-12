@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Vans WM Atwood  Zapatillas para Mujer  Verde  Canvas   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MSH9A3E/?tag=tolees-21'
+descuento: '62.20'
+titulo: 'Vans WM Atwood  Zapatillas para Mujer  V'
 ---
 
 Está [Vans WM Atwood  Zapatillas para Mujer  Verde  Canvas   36 EU](https://www.amazon.es/dp/B01MSH9A3E/?tag=tolees-21) con 62.20 de descuento por 24.57 EUR (original: 65 EUR) en el siguiente enlace!

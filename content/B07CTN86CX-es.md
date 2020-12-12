@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour Jet Mid  Zapatos de Baloncesto para Hombre  Blanco  White/Elemental/Black 105   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTN86CX/?tag=tolees-21'
+descuento: '61.52'
+titulo: 'Under Armour Jet Mid  Zapatos de Balonce'
 ---
 
 Tienes [Under Armour Jet Mid  Zapatos de Baloncesto para Hombre  Blanco  White/Elemental/Black 105   42.5 EU](https://www.amazon.es/dp/B07CTN86CX/?tag=tolees-21) con un 61.52 % de descuento con precio de oferta de 30.78 EUR (original: 80 EUR) en el siguiente enlace!

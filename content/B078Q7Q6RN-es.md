@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Reebok Walk Ultra 6 DMX MAX  Zapatillas de Gimnasia para Mujer  Negro Black/Alloy  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078Q7Q6RN/?tag=tolees-21'
+descuento: '65.39'
+titulo: 'Reebok Walk Ultra 6 DMX MAX  Zapatillas '
 ---
 
 Está [Reebok Walk Ultra 6 DMX MAX  Zapatillas de Gimnasia para Mujer  Negro Black/Alloy  37 EU](https://www.amazon.es/dp/B078Q7Q6RN/?tag=tolees-21) con 65.39 de descuento por 24.21 EUR (original: 69.95 EUR) en el siguiente enlace!

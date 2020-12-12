@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Love Moschino Logo Box_Short Sleeve T-Shirt Camiseta  Blanco  Optical White A00   38  Talla del Fabricante: 40  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KX8G7HT/?tag=tolees-21'
+descuento: '47.93'
+titulo: 'Love Moschino Logo Box_Short Sleeve T-Sh'
 ---
 
 Está [Love Moschino Logo Box_Short Sleeve T-Shirt Camiseta  Blanco  Optical White A00   38  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07KX8G7HT/?tag=tolees-21) con 47.93 de descuento por 52.07 EUR (original: 100 EUR) en el siguiente enlace!

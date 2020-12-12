@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'The North Face Ascentials TNF Gorra 66 Classic  Unisex adulto  Shady Blue/Gull Blue  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB52GH9/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face Ascentials TNF Gorra 66 C'
 ---
 
 Ahora mismo tienes [The North Face Ascentials TNF Gorra 66 Classic  Unisex adulto  Shady Blue/Gull Blue  Talla única](https://www.amazon.es/dp/B07BB52GH9/?tag=tolees-21) a 11 EUR (original: 22 EUR) (50.00 %  de descuento) en el siguiente enlace!

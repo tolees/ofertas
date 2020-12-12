@@ -17,6 +17,9 @@ comparePrice: 179.99 EUR
 inStock: true
 prodname: 'Columbia South Canyon Lined Jacket Chaqueta Impermeable  Hombre  Shark  Talla XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FGX8DB2/?tag=tolees-21'
+descuento: '65.44'
+titulo: 'Columbia South Canyon Lined Jacket Chaqu'
 ---
 
 Ahora mismo tienes [Columbia South Canyon Lined Jacket Chaqueta Impermeable  Hombre  Shark  Talla XXL](https://www.amazon.es/dp/B07FGX8DB2/?tag=tolees-21) a 62.2 EUR (original: 179.99 EUR) (65.44 %  de descuento) en el siguiente enlace!

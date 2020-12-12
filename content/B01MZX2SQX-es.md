@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma Suede Classic+  Zapatillas Unisex Adulto  Turquesa  Navigate White-Gold 18   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZX2SQX/?tag=tolees-21'
+descuento: '70.52'
+titulo: 'Puma Suede Classic+  Zapatillas Unisex A'
 ---
 
 Tienes [Puma Suede Classic+  Zapatillas Unisex Adulto  Turquesa  Navigate White-Gold 18   39 EU](https://www.amazon.es/dp/B01MZX2SQX/?tag=tolees-21) con un 70.52 % de descuento con precio de oferta de 23.57 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'DC Shoes Circle Star T-Shirt  Hombre  Hunter Green  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ6RSQ7/?tag=tolees-21'
+descuento: '39.90'
+titulo: 'DC Shoes Circle Star T-Shirt  Hombre  Hu'
 ---
 
 Ahora mismo tienes [DC Shoes Circle Star T-Shirt  Hombre  Hunter Green  XL](https://www.amazon.es/dp/B07KZ6RSQ7/?tag=tolees-21) a 18 EUR (original: 29.95 EUR) (39.90 %  de descuento) en el siguiente enlace!

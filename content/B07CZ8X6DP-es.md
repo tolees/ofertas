@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Under Armour UA Tech Graphic Short Nov Pantalón Corto  Hombre  Rojo  Aruba Red/Black 651   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ8X6DP/?tag=tolees-21'
+descuento: '56.35'
+titulo: 'Under Armour UA Tech Graphic Short Nov P'
 ---
 
 Tienes [Under Armour UA Tech Graphic Short Nov Pantalón Corto  Hombre  Rojo  Aruba Red/Black 651   M](https://www.amazon.es/dp/B07CZ8X6DP/?tag=tolees-21) con un 56.35 % de descuento con precio de oferta de 13.09 EUR (original: 29.99 EUR) en el siguiente enlace!

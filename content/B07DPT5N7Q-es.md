@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Under Armour Kids 191480583463 FC St. Pauli - Camiseta réplica para niños  Color Negro  003   tamaño Mediano'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPT5N7Q/?tag=tolees-21'
+descuento: '73.74'
+titulo: 'Under Armour Kids 191480583463 FC St. Pa'
 ---
 
 Está [Under Armour Kids 191480583463 FC St. Pauli - Camiseta réplica para niños  Color Negro  003   tamaño Mediano](https://www.amazon.es/dp/B07DPT5N7Q/?tag=tolees-21) con 73.74 de descuento por 17.07 EUR (original: 65 EUR) en el siguiente enlace!

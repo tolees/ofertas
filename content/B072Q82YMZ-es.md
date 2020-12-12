@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Adidas Courtvantage  Zapatillas para Hombre  Azul Collegiate Navy  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072Q82YMZ/?tag=tolees-21'
+descuento: '55.57'
+titulo: 'Adidas Courtvantage  Zapatillas para Hom'
 ---
 
 Está [Adidas Courtvantage  Zapatillas para Hombre  Azul Collegiate Navy  44 EU](https://www.amazon.es/dp/B072Q82YMZ/?tag=tolees-21) con 55.57 de descuento por 31.08 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'BOSS Orange Adrenal_Runn_ny1 10201536 01  Zapatillas para Hombre  Azul  Dark Blue   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0711QGKFR/?tag=tolees-21'
+descuento: '69.18'
+titulo: 'BOSS Orange Adrenal_Runn_ny1 10201536 01'
 ---
 
 Tienes [BOSS Orange Adrenal_Runn_ny1 10201536 01  Zapatillas para Hombre  Azul  Dark Blue   46 EU](https://www.amazon.es/dp/B0711QGKFR/?tag=tolees-21) con un 69.18 % de descuento con precio de oferta de 52.39 EUR (original: 170 EUR) en el siguiente enlace!

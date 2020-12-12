@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjicody Jjspencer WW Tan Noos  Pantalones Hombre  Marrón  Tan   W36/L36  Talla del Fabricante: 36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07143XFKZ/?tag=tolees-21'
+descuento: '44.09'
+titulo: 'JACK & JONES Jjicody Jjspencer WW Tan No'
 ---
 
 Tienes [JACK & JONES Jjicody Jjspencer WW Tan Noos  Pantalones Hombre  Marrón  Tan   W36/L36  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B07143XFKZ/?tag=tolees-21) con un 44.09 % de descuento con precio de oferta de 27.95 EUR (original: 49.99 EUR) en el siguiente enlace!

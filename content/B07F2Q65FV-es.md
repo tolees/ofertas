@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Helly Hansen Loke Backpack Mochila  Unisex  Rojo  Cherry Tomato   25L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2Q65FV/?tag=tolees-21'
+descuento: '54.29'
+titulo: 'Helly Hansen Loke Backpack Mochila  Unis'
 ---
 
 Ahora mismo tienes [Helly Hansen Loke Backpack Mochila  Unisex  Rojo  Cherry Tomato   25L](https://www.amazon.es/dp/B07F2Q65FV/?tag=tolees-21) a 32 EUR (original: 70 EUR) (54.29 %  de descuento) en el siguiente enlace!

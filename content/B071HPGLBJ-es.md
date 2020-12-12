@@ -17,6 +17,9 @@ comparePrice: 57.4 EUR
 inStock: true
 prodname: 'Prismáticos pequeños y potentes para Adultos y Niños  BFULL 10x25 Mini Prismaticos Compactos Binoculares Profesionales Portátil para Viaje/Turismo/Caza/Observación de Aves/Concierto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HPGLBJ/?tag=tolees-21'
+descuento: '70.40'
+titulo: 'Prismáticos pequeños y potentes para Adu'
 ---
 
 Ahora mismo tienes [Prismáticos pequeños y potentes para Adultos y Niños  BFULL 10x25 Mini Prismaticos Compactos Binoculares Profesionales Portátil para Viaje/Turismo/Caza/Observación de Aves/Concierto](https://www.amazon.es/dp/B071HPGLBJ/?tag=tolees-21) a 16.99 EUR (original: 57.4 EUR) (70.40 %  de descuento) en el siguiente enlace!

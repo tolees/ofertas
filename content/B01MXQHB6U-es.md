@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmroos 2/4 Short Dress  Vestido Mujer   Total Eclipse   40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXQHB6U/?tag=tolees-21'
+descuento: '73.09'
+titulo: 'Vero Moda Vmroos 2/4 Short Dress  Vestid'
 ---
 
 Está [Vero Moda Vmroos 2/4 Short Dress  Vestido Mujer   Total Eclipse   40](https://www.amazon.es/dp/B01MXQHB6U/?tag=tolees-21) con 73.09 de descuento por 13.45 EUR (original: 49.99 EUR) en el siguiente enlace!

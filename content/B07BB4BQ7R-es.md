@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face M S/S Mount tee Camiseta Mountain Line  Hombre   asphg/leoprdylw   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB4BQ7R/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face M S/S Mount tee Camiseta '
 ---
 
 Tienes [The North Face M S/S Mount tee Camiseta Mountain Line  Hombre   asphg/leoprdylw   L](https://www.amazon.es/dp/B07BB4BQ7R/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 15 EUR (original: 30 EUR) en el siguiente enlace!

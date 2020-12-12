@@ -17,6 +17,9 @@ comparePrice: 34.9 EUR
 inStock: true
 prodname: 'Champion The Curvy Sujetador Deportivo   Blanc/Noir 8ml   Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FXYX2SZ/?tag=tolees-21'
+descuento: '34.96'
+titulo: 'Champion The Curvy Sujetador Deportivo  '
 ---
 
 Tienes [Champion The Curvy Sujetador Deportivo   Blanc/Noir 8ml   Small para Mujer](https://www.amazon.es/dp/B07FXYX2SZ/?tag=tolees-21) con un 34.96 % de descuento con precio de oferta de 22.7 EUR (original: 34.9 EUR) en el siguiente enlace!

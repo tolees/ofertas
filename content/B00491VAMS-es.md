@@ -17,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'Wand Essentials Masajeador  Blanco y Rosa - 1 Unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00491VAMS/?tag=tolees-21'
+descuento: '70.62'
+titulo: 'Wand Essentials Masajeador  Blanco y Ros'
 ---
 
 Ahora mismo tienes [Wand Essentials Masajeador  Blanco y Rosa - 1 Unidad](https://www.amazon.es/dp/B00491VAMS/?tag=tolees-21) a 13.5 EUR (original: 45.95 EUR) (70.62 %  de descuento) en el siguiente enlace!

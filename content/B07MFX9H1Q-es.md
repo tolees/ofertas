@@ -17,6 +17,9 @@ comparePrice: 135.51 EUR
 inStock: true
 prodname: 'Auriculares Bluetooth  Funcl AI Auriculares Inalámbricos Bluetooth Estéreo In-Ear Bluetooth 5.0 True Wireless Auriculares con Control Táctil  Auricular Bluetooth con Manos Libres y micrófono  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MFX9H1Q/?tag=tolees-21'
+descuento: '41.70'
+titulo: 'Auriculares Bluetooth  Funcl AI Auricula'
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth  Funcl AI Auriculares Inalámbricos Bluetooth Estéreo In-Ear Bluetooth 5.0 True Wireless Auriculares con Control Táctil  Auricular Bluetooth con Manos Libres y micrófono  Negro ](https://www.amazon.es/dp/B07MFX9H1Q/?tag=tolees-21) a 79 EUR (original: 135.51 EUR) (41.70 %  de descuento) en el siguiente enlace!

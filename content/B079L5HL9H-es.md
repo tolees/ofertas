@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: '1home Supporto da Parete Inclinabile e Girevole Staffa Orientabile per TV LCD LED da 13”-37” Pollici'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079L5HL9H/?tag=tolees-21'
+descuento: '39.15'
+titulo: '1home Supporto da Parete Inclinabile e G'
 ---
 
 Tienes [1home Supporto da Parete Inclinabile e Girevole Staffa Orientabile per TV LCD LED da 13”-37” Pollici](https://www.amazon.es/dp/B079L5HL9H/?tag=tolees-21) con un 39.15 % de descuento con precio de oferta de 13.99 EUR (original: 22.99 EUR) en el siguiente enlace!

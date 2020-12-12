@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Dickies Double Knee Work Pant Pantalones  Gris  Charcoal Ch    Tamaño del Fabricante:30/32  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000N8RV9M/?tag=tolees-21'
+descuento: '37.29'
+titulo: 'Dickies Double Knee Work Pant Pantalones'
 ---
 
 Ahora mismo tienes [Dickies Double Knee Work Pant Pantalones  Gris  Charcoal Ch    Tamaño del Fabricante:30/32  para Hombre](https://www.amazon.es/dp/B000N8RV9M/?tag=tolees-21) a 37 EUR (original: 59 EUR) (37.29 %  de descuento) en el siguiente enlace!

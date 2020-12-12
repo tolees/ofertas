@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Kappa Inspection  Zapatillas Unisex Adulto  Blanco  White/Blue 1060   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRNF4FT/?tag=tolees-21'
+descuento: '57.60'
+titulo: 'Kappa Inspection  Zapatillas Unisex Adul'
 ---
 
 Ahora mismo tienes [Kappa Inspection  Zapatillas Unisex Adulto  Blanco  White/Blue 1060   45 EU](https://www.amazon.es/dp/B07KRNF4FT/?tag=tolees-21) a 21.18 EUR (original: 49.95 EUR) (57.60 %  de descuento) en el siguiente enlace!

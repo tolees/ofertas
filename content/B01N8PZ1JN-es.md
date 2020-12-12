@@ -17,6 +17,9 @@ comparePrice: 33.6 EUR
 inStock: true
 prodname: 'Dockers by Gerli 38ay634-730600  Zapatillas Altas Infantil  Azul  Blau 600   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8PZ1JN/?tag=tolees-21'
+descuento: '69.17'
+titulo: 'Dockers by Gerli 38ay634-730600  Zapatil'
 ---
 
 Está [Dockers by Gerli 38ay634-730600  Zapatillas Altas Infantil  Azul  Blau 600   41 EU](https://www.amazon.es/dp/B01N8PZ1JN/?tag=tolees-21) con 69.17 de descuento por 10.36 EUR (original: 33.6 EUR) en el siguiente enlace!

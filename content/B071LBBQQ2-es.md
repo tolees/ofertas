@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Asics T7E3N4149  Zapatillas de Running para Hombre  Azul  Hawaiian Surf/Indigo Blue/Energy Green   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071LBBQQ2/?tag=tolees-21'
+descuento: '38.00'
+titulo: 'Asics T7E3N4149  Zapatillas de Running p'
 ---
 
 Está [Asics T7E3N4149  Zapatillas de Running para Hombre  Azul  Hawaiian Surf/Indigo Blue/Energy Green   41.5 EU](https://www.amazon.es/dp/B071LBBQQ2/?tag=tolees-21) con 38.00 de descuento por 49.6 EUR (original: 80 EUR) en el siguiente enlace!

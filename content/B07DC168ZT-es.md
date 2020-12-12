@@ -17,6 +17,9 @@ comparePrice: 299.99 EUR
 inStock: true
 prodname: 'Umi. Essentials - Silla Gaming Silla ergonómica de oficina sintética con altura  reposacabezas y respaldo lumbar regulables  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC168ZT/?tag=tolees-21'
+descuento: '48.00'
+titulo: 'Umi. Essentials - Silla Gaming Silla erg'
 ---
 
 Está [Umi. Essentials - Silla Gaming Silla ergonómica de oficina sintética con altura  reposacabezas y respaldo lumbar regulables  Blanco ](https://www.amazon.es/dp/B07DC168ZT/?tag=tolees-21) con 48.00 de descuento por 155.99 EUR (original: 299.99 EUR) en el siguiente enlace!

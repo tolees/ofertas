@@ -17,6 +17,9 @@ comparePrice: 10.65 EUR
 inStock: true
 prodname: 'American Crew Gel De Afeitar - 150 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001EUE7UY/?tag=tolees-21'
+descuento: '27.70'
+titulo: 'American Crew Gel De Afeitar - 150 ml.'
 ---
 
 Ahora mismo tienes [American Crew Gel De Afeitar - 150 ml.](https://www.amazon.es/dp/B001EUE7UY/?tag=tolees-21) a 7.7 EUR (original: 10.65 EUR) (27.70 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Superdry Custom 3rd Street Hood  suéter para Hombre  Verde  Biker Pine Vn8   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FL93CV3/?tag=tolees-21'
+descuento: '72.67'
+titulo: 'Superdry Custom 3rd Street Hood  suéter '
 ---
 
 Está [Superdry Custom 3rd Street Hood  suéter para Hombre  Verde  Biker Pine Vn8   Medium](https://www.amazon.es/dp/B07FL93CV3/?tag=tolees-21) con 72.67 de descuento por 25.96 EUR (original: 95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 171.26 EUR
 inStock: true
 prodname: 'adidas Copa Mundial  Zapatillas de Fútbol para Hombre  Negro/Blanco  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000OWGBG6/?tag=tolees-21'
+descuento: '47.45'
+titulo: 'adidas Copa Mundial  Zapatillas de Fútbo'
 ---
 
 Tienes [adidas Copa Mundial  Zapatillas de Fútbol para Hombre  Negro/Blanco  38 EU](https://www.amazon.es/dp/B000OWGBG6/?tag=tolees-21) con un 47.45 % de descuento con precio de oferta de 90 EUR (original: 171.26 EUR) en el siguiente enlace!

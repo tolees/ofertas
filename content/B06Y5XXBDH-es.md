@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'BaronHong Sport Bra Chest Binder Transpirable Mesh Corset para Tomboy Trans Lesbian  Gris  L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y5XXBDH/?tag=tolees-21'
+descuento: '57.51'
+titulo: 'BaronHong Sport Bra Chest Binder Transpi'
 ---
 
 Ahora mismo tienes [BaronHong Sport Bra Chest Binder Transpirable Mesh Corset para Tomboy Trans Lesbian  Gris  L ](https://www.amazon.es/dp/B06Y5XXBDH/?tag=tolees-21) a 16.99 EUR (original: 39.99 EUR) (57.51 %  de descuento) en el siguiente enlace!

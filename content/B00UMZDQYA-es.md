@@ -17,6 +17,9 @@ comparePrice: 14.9 EUR
 inStock: true
 prodname: 'NaturGreen Vita Superlife Maca Bio - 1 Bote'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UMZDQYA/?tag=tolees-21'
+descuento: '26.44'
+titulo: 'NaturGreen Vita Superlife Maca Bio - 1 B'
 ---
 
 Tienes [NaturGreen Vita Superlife Maca Bio - 1 Bote](https://www.amazon.es/dp/B00UMZDQYA/?tag=tolees-21) con un 26.44 % de descuento con precio de oferta de 10.96 EUR (original: 14.9 EUR) en el siguiente enlace!

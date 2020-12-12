@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Levi s Housemark Graphic tee Camiseta  Gris  Hm Ssnl Tech Charcoal Grey Htr 0154   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDJB747/?tag=tolees-21'
+descuento: '30.20'
+titulo: 'Levi s Housemark Graphic tee Camiseta  G'
 ---
 
 Está [Levi s Housemark Graphic tee Camiseta  Gris  Hm Ssnl Tech Charcoal Grey Htr 0154   X-Large para Hombre](https://www.amazon.es/dp/B07GDJB747/?tag=tolees-21) con 30.20 de descuento por 17.45 EUR (original: 25 EUR) en el siguiente enlace!

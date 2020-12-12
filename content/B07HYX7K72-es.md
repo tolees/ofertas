@@ -17,6 +17,9 @@ comparePrice: 104.06 EUR
 inStock: true
 prodname: 'Sulion Florentina Aplique Deco  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HYX7K72/?tag=tolees-21'
+descuento: '76.75'
+titulo: 'Sulion Florentina Aplique Deco  Blanco'
 ---
 
 Ahora mismo tienes [Sulion Florentina Aplique Deco  Blanco](https://www.amazon.es/dp/B07HYX7K72/?tag=tolees-21) a 24.19 EUR (original: 104.06 EUR) (76.75 %  de descuento) en el siguiente enlace!

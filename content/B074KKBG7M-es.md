@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Timberland Chocorua Trail Goretex Waterproof  Botas Chukka para Hombre  Marrón  Dark Brown/Green A66   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074KKBG7M/?tag=tolees-21'
+descuento: '40.04'
+titulo: 'Timberland Chocorua Trail Goretex Waterp'
 ---
 
 Tienes [Timberland Chocorua Trail Goretex Waterproof  Botas Chukka para Hombre  Marrón  Dark Brown/Green A66   44 EU](https://www.amazon.es/dp/B074KKBG7M/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 83.95 EUR (original: 140 EUR) en el siguiente enlace!

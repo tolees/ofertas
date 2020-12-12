@@ -17,6 +17,9 @@ comparePrice: 189 EUR
 inStock: true
 prodname: 'Daniel Wellington Reloj analogico para Unisex de Cuarzo con Correa en Piel DW00100130'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M023OPC/?tag=tolees-21'
+descuento: '49.56'
+titulo: 'Daniel Wellington Reloj analogico para U'
 ---
 
 Tienes [Daniel Wellington Reloj analogico para Unisex de Cuarzo con Correa en Piel DW00100130](https://www.amazon.es/dp/B01M023OPC/?tag=tolees-21) con un 49.56 % de descuento con precio de oferta de 95.34 EUR (original: 189 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 31.99 EUR
 inStock: true
 prodname: 'LIKERAINY Calcetines Estampados Hombre Casuales Divertidos con Stripe Algodón Rico de Colores de Moda Cómodo Transpirable Invierno Primavera  39-44 EUR  6 Pares'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K6HDQCL/?tag=tolees-21'
+descuento: '62.52'
+titulo: 'LIKERAINY Calcetines Estampados Hombre C'
 ---
 
 Está [LIKERAINY Calcetines Estampados Hombre Casuales Divertidos con Stripe Algodón Rico de Colores de Moda Cómodo Transpirable Invierno Primavera  39-44 EUR  6 Pares](https://www.amazon.es/dp/B07K6HDQCL/?tag=tolees-21) con 62.52 de descuento por 11.99 EUR (original: 31.99 EUR) en el siguiente enlace!

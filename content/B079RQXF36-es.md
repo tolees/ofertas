@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans Liverpool  Suéter para Hombre  Gris  Lt Grey Marl 913   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RQXF36/?tag=tolees-21'
+descuento: '70.46'
+titulo: 'Pepe Jeans Liverpool  Suéter para Hombre'
 ---
 
 Está [Pepe Jeans Liverpool  Suéter para Hombre  Gris  Lt Grey Marl 913   X-Large](https://www.amazon.es/dp/B079RQXF36/?tag=tolees-21) con 70.46 de descuento por 19.2 EUR (original: 65 EUR) en el siguiente enlace!

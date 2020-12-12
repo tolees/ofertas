@@ -17,6 +17,9 @@ comparePrice: 19.32 EUR
 inStock: true
 prodname: 'LSP Oat King Energy Bar Cappuccino - 10 Barras'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00K6GC66Y/?tag=tolees-21'
+descuento: '57.82'
+titulo: 'LSP Oat King Energy Bar Cappuccino - 10 '
 ---
 
 Tienes [LSP Oat King Energy Bar Cappuccino - 10 Barras](https://www.amazon.es/dp/B00K6GC66Y/?tag=tolees-21) con un 57.82 % de descuento con precio de oferta de 8.15 EUR (original: 19.32 EUR) en el siguiente enlace!

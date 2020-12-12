@@ -17,6 +17,9 @@ comparePrice: 17.16 EUR
 inStock: true
 prodname: 'L Oréal Paris Máscara de Pestañas False Lash Mariposa Intenza'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OUV5EXI/?tag=tolees-21'
+descuento: '74.24'
+titulo: 'L Oréal Paris Máscara de Pestañas False '
 ---
 
 Ahora mismo tienes [L Oréal Paris Máscara de Pestañas False Lash Mariposa Intenza](https://www.amazon.es/dp/B00OUV5EXI/?tag=tolees-21) a 4.42 EUR (original: 17.16 EUR) (74.24 %  de descuento) en el siguiente enlace!

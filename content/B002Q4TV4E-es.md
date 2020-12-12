@@ -17,6 +17,9 @@ comparePrice: 55.9 EUR
 inStock: true
 prodname: 'Medisana FTN 76120  Termómetro por Infrarrojos de Medición Precisa  Medición en 1s  Memoría 30 Resultados  Señal Acústico Fiebre y Alerta en la Pantalla'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002Q4TV4E/?tag=tolees-21'
+descuento: '55.30'
+titulo: 'Medisana FTN 76120  Termómetro por Infra'
 ---
 
 Está [Medisana FTN 76120  Termómetro por Infrarrojos de Medición Precisa  Medición en 1s  Memoría 30 Resultados  Señal Acústico Fiebre y Alerta en la Pantalla](https://www.amazon.es/dp/B002Q4TV4E/?tag=tolees-21) con 55.30 de descuento por 24.99 EUR (original: 55.9 EUR) en el siguiente enlace!

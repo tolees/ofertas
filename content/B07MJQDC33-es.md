@@ -17,6 +17,9 @@ comparePrice: 38.99 EUR
 inStock: true
 prodname: 'Aleumdr Mujer Pantalones Rectos Jeans Cintura Alta Vaqueros Push up para Mujer Azul Size M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MJQDC33/?tag=tolees-21'
+descuento: '25.65'
+titulo: 'Aleumdr Mujer Pantalones Rectos Jeans Ci'
 ---
 
 Está [Aleumdr Mujer Pantalones Rectos Jeans Cintura Alta Vaqueros Push up para Mujer Azul Size M](https://www.amazon.es/dp/B07MJQDC33/?tag=tolees-21) con 25.65 de descuento por 28.99 EUR (original: 38.99 EUR) en el siguiente enlace!

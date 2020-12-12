@@ -17,6 +17,9 @@ comparePrice: 19.43 EUR
 inStock: true
 prodname: 'Joker Blu-Ray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07YM2Y2VT/?tag=tolees-21'
+descuento: '36.49'
+titulo: 'Joker Blu-Ray [Blu-ray]'
 ---
 
 Ahora mismo tienes [Joker Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07YM2Y2VT/?tag=tolees-21) a 12.34 EUR (original: 19.43 EUR) (36.49 %  de descuento) en el siguiente enlace!

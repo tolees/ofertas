@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'New Balance 415  Zapatillas Deportivas para Interior para Mujer  Negro  Phantom/UV Blue WB   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQV8NPS/?tag=tolees-21'
+descuento: '39.57'
+titulo: 'New Balance 415  Zapatillas Deportivas p'
 ---
 
 Tienes [New Balance 415  Zapatillas Deportivas para Interior para Mujer  Negro  Phantom/UV Blue WB   41 EU](https://www.amazon.es/dp/B07BQV8NPS/?tag=tolees-21) con un 39.57 % de descuento con precio de oferta de 39.28 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'The Witch And The Hundred Knight 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077ZJX3H8/?tag=tolees-21'
+descuento: '40.09'
+titulo: 'The Witch And The Hundred Knight 2'
 ---
 
 Está [The Witch And The Hundred Knight 2](https://www.amazon.es/dp/B077ZJX3H8/?tag=tolees-21) con 40.09 de descuento por 29.95 EUR (original: 49.99 EUR) en el siguiente enlace!

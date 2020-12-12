@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Hercules DJ Control Glow - Consola DJ con 2 ruedas Jog y effectos de luz   Verde/Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZUMZO86/?tag=tolees-21'
+descuento: '35.66'
+titulo: 'Hercules DJ Control Glow - Consola DJ co'
 ---
 
 Ahora mismo tienes [Hercules DJ Control Glow - Consola DJ con 2 ruedas Jog y effectos de luz   Verde/Negro](https://www.amazon.es/dp/B00ZUMZO86/?tag=tolees-21) a 57.9 EUR (original: 89.99 EUR) (35.66 %  de descuento) en el siguiente enlace!

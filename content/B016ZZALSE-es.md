@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Timezone GerritTZ 3385 Surfer Wash-Azul Hombre Blau  Surfer Wash 3385  W33/L36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016ZZALSE/?tag=tolees-21'
+descuento: '45.03'
+titulo: 'Timezone GerritTZ 3385 Surfer Wash-Azul '
 ---
 
 Está [Timezone GerritTZ 3385 Surfer Wash-Azul Hombre Blau  Surfer Wash 3385  W33/L36](https://www.amazon.es/dp/B016ZZALSE/?tag=tolees-21) con 45.03 de descuento por 49.45 EUR (original: 89.95 EUR) en el siguiente enlace!

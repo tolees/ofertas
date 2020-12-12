@@ -17,6 +17,9 @@ comparePrice: 25.5 EUR
 inStock: true
 prodname: 'ColorBaby - Pez para aprendizaje español/inglés  28787 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00G45T9FM/?tag=tolees-21'
+descuento: '74.82'
+titulo: 'ColorBaby - Pez para aprendizaje español'
 ---
 
 Tienes [ColorBaby - Pez para aprendizaje español/inglés  28787 ](https://www.amazon.es/dp/B00G45T9FM/?tag=tolees-21) con un 74.82 % de descuento con precio de oferta de 6.42 EUR (original: 25.5 EUR) en el siguiente enlace!

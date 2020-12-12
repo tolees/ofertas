@@ -17,6 +17,9 @@ comparePrice: 26.16 EUR
 inStock: true
 prodname: 'Uhlsport Basic Line 2.0 - Bolsa para Botas de fútbol  Talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TS7SO3G/?tag=tolees-21'
+descuento: '46.67'
+titulo: 'Uhlsport Basic Line 2.0 - Bolsa para Bot'
 ---
 
 Está [Uhlsport Basic Line 2.0 - Bolsa para Botas de fútbol  Talla M](https://www.amazon.es/dp/B00TS7SO3G/?tag=tolees-21) con 46.67 de descuento por 13.95 EUR (original: 26.16 EUR) en el siguiente enlace!

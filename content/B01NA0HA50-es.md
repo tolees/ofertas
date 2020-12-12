@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Original Buff Mitsy Cinta de Pelo  Unisex Adulto  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NA0HA50/?tag=tolees-21'
+descuento: '46.49'
+titulo: 'Original Buff Mitsy Cinta de Pelo  Unise'
 ---
 
 Tienes [Original Buff Mitsy Cinta de Pelo  Unisex Adulto  Talla Única](https://www.amazon.es/dp/B01NA0HA50/?tag=tolees-21) con un 46.49 % de descuento con precio de oferta de 8 EUR (original: 14.95 EUR) en el siguiente enlace!

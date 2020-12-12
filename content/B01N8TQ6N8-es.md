@@ -17,6 +17,9 @@ comparePrice: 41.21 EUR
 inStock: true
 prodname: 'JACK & JONES PREMIUM Jprcorban Trouser Sts  Pantalones De Traje para Hombre  Azul  Dark Navy Fit:Slim Fit   46'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8TQ6N8/?tag=tolees-21'
+descuento: '60.71'
+titulo: 'JACK & JONES PREMIUM Jprcorban Trouser S'
 ---
 
 Ahora mismo tienes [JACK & JONES PREMIUM Jprcorban Trouser Sts  Pantalones De Traje para Hombre  Azul  Dark Navy Fit:Slim Fit   46](https://www.amazon.es/dp/B01N8TQ6N8/?tag=tolees-21) a 16.19 EUR (original: 41.21 EUR) (60.71 %  de descuento) en el siguiente enlace!

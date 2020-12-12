@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Kipling - Multiple  Shoppers y bolsos de hombro Mujer  Multicolor  Scribble Lines '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKKJ9G9/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Kipling - Multiple  Shoppers y bolsos de'
 ---
 
 Está [Kipling - Multiple  Shoppers y bolsos de hombro Mujer  Multicolor  Scribble Lines ](https://www.amazon.es/dp/B07DKKJ9G9/?tag=tolees-21) con 40.00 de descuento por 39 EUR (original: 65 EUR) en el siguiente enlace!

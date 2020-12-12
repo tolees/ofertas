@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjirick Jjicon Shorts GE 443 I.k. STS Pantalones Cortos  Gris Grey Denim  52  Talla del Fabricante: Large  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H3FMN5/?tag=tolees-21'
+descuento: '37.61'
+titulo: 'JACK & JONES Jjirick Jjicon Shorts GE 44'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjirick Jjicon Shorts GE 443 I.k. STS Pantalones Cortos  Gris Grey Denim  52  Talla del Fabricante: Large  para Hombre](https://www.amazon.es/dp/B078H3FMN5/?tag=tolees-21) a 24.95 EUR (original: 39.99 EUR) (37.61 %  de descuento) en el siguiente enlace!

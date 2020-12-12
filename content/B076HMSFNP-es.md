@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Adidas Core18 Polo Shirt  Hombre  Power Red/White  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076HMSFNP/?tag=tolees-21'
+descuento: '36.17'
+titulo: 'Adidas Core18 Polo Shirt  Hombre  Power '
 ---
 
 Está [Adidas Core18 Polo Shirt  Hombre  Power Red/White  L](https://www.amazon.es/dp/B076HMSFNP/?tag=tolees-21) con 36.17 de descuento por 15.95 EUR (original: 24.99 EUR) en el siguiente enlace!

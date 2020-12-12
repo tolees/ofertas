@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Berg Outdoor Satpura Chaqueta Técnica  Hombre  Granate  Andorra   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B3HXCKW/?tag=tolees-21'
+descuento: '52.94'
+titulo: 'Berg Outdoor Satpura Chaqueta Técnica  H'
 ---
 
 Está [Berg Outdoor Satpura Chaqueta Técnica  Hombre  Granate  Andorra   M](https://www.amazon.es/dp/B07B3HXCKW/?tag=tolees-21) con 52.94 de descuento por 30.59 EUR (original: 65 EUR) en el siguiente enlace!

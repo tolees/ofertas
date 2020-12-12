@@ -17,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'Skagen Smartwatch Analogico para Unisex de Cuarzo con Correa en Cuero SKT1200'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y615RFW/?tag=tolees-21'
+descuento: '31.79'
+titulo: 'Skagen Smartwatch Analogico para Unisex '
 ---
 
 Tienes [Skagen Smartwatch Analogico para Unisex de Cuarzo con Correa en Cuero SKT1200](https://www.amazon.es/dp/B06Y615RFW/?tag=tolees-21) con un 31.79 % de descuento con precio de oferta de 122.09 EUR (original: 179 EUR) en el siguiente enlace!

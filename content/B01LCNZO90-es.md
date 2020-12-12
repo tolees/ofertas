@@ -17,6 +17,9 @@ comparePrice: 28.8 EUR
 inStock: true
 prodname: 'Koala Internatioal Kit Mojito y Caipirinha  Cristal  Negro  0 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LCNZO90/?tag=tolees-21'
+descuento: '37.01'
+titulo: 'Koala Internatioal Kit Mojito y Caipirin'
 ---
 
 Está [Koala Internatioal Kit Mojito y Caipirinha  Cristal  Negro  0 cm](https://www.amazon.es/dp/B01LCNZO90/?tag=tolees-21) con 37.01 de descuento por 18.14 EUR (original: 28.8 EUR) en el siguiente enlace!

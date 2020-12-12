@@ -17,6 +17,9 @@ comparePrice: 739 EUR
 inStock: true
 prodname: 'Yamaha PSR-S670 - Teclado  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00YRML69Q/?tag=tolees-21'
+descuento: '32.48'
+titulo: 'Yamaha PSR-S670 - Teclado  color negro'
 ---
 
 Tienes [Yamaha PSR-S670 - Teclado  color negro](https://www.amazon.es/dp/B00YRML69Q/?tag=tolees-21) con un 32.48 % de descuento con precio de oferta de 499 EUR (original: 739 EUR) en el siguiente enlace!

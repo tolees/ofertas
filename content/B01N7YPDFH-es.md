@@ -17,6 +17,9 @@ comparePrice: 120.99 EUR
 inStock: true
 prodname: 'San Ignacio Coopper Batería de Cocina Juego de Sartenes  Acero Inoxidable  Cromado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7YPDFH/?tag=tolees-21'
+descuento: '57.86'
+titulo: 'San Ignacio Coopper Batería de Cocina Ju'
 ---
 
 Ahora mismo tienes [San Ignacio Coopper Batería de Cocina Juego de Sartenes  Acero Inoxidable  Cromado](https://www.amazon.es/dp/B01N7YPDFH/?tag=tolees-21) a 50.99 EUR (original: 120.99 EUR) (57.86 %  de descuento) en el siguiente enlace!

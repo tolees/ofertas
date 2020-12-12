@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Moschino Funny Agua de Tocador Vaporizador - 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001BSH5GC/?tag=tolees-21'
+descuento: '59.69'
+titulo: 'Moschino Funny Agua de Tocador Vaporizad'
 ---
 
 Tienes [Moschino Funny Agua de Tocador Vaporizador - 50 ml](https://www.amazon.es/dp/B001BSH5GC/?tag=tolees-21) con un 59.69 % de descuento con precio de oferta de 23.78 EUR (original: 59 EUR) en el siguiente enlace!

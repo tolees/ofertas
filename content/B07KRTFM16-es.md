@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'REPLAY Luz Vaqueros Skinny  Azul  Medium Blue 9   W23/L30  Talla del Fabricante: 23  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRTFM16/?tag=tolees-21'
+descuento: '88.22'
+titulo: 'REPLAY Luz Vaqueros Skinny  Azul  Medium'
 ---
 
 Ahora mismo tienes [REPLAY Luz Vaqueros Skinny  Azul  Medium Blue 9   W23/L30  Talla del Fabricante: 23  para Mujer](https://www.amazon.es/dp/B07KRTFM16/?tag=tolees-21) a 11.66 EUR (original: 99 EUR) (88.22 %  de descuento) en el siguiente enlace!

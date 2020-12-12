@@ -17,6 +17,9 @@ comparePrice: 29.97 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 9p506 Bañador  Azul  Bluette St. Bianco 16434   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNY8Z12/?tag=tolees-21'
+descuento: '58.59'
+titulo: 'Emporio Armani Underwear 9p506 Bañador  '
 ---
 
 Tienes [Emporio Armani Underwear 9p506 Bañador  Azul  Bluette St. Bianco 16434   X-Large para Hombre](https://www.amazon.es/dp/B07DNY8Z12/?tag=tolees-21) con un 58.59 % de descuento con precio de oferta de 12.41 EUR (original: 29.97 EUR) en el siguiente enlace!

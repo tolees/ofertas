@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike Legend Trainer  Zapatillas para Hombre  Negro  Black/Metallic Silver/White 001   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G7P9D4J/?tag=tolees-21'
+descuento: '47.35'
+titulo: 'Nike Legend Trainer  Zapatillas para Hom'
 ---
 
 Tienes [Nike Legend Trainer  Zapatillas para Hombre  Negro  Black/Metallic Silver/White 001   39 EU](https://www.amazon.es/dp/B07G7P9D4J/?tag=tolees-21) con un 47.35 % de descuento con precio de oferta de 31.59 EUR (original: 60 EUR) en el siguiente enlace!

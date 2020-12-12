@@ -17,6 +17,9 @@ comparePrice: 250 EUR
 inStock: true
 prodname: 'VAUDE Timok Mochila  Unisex Adulto  Verde  Olive   90'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXKQENS/?tag=tolees-21'
+descuento: '59.10'
+titulo: 'VAUDE Timok Mochila  Unisex Adulto  Verd'
 ---
 
 Está [VAUDE Timok Mochila  Unisex Adulto  Verde  Olive   90](https://www.amazon.es/dp/B01LXKQENS/?tag=tolees-21) con 59.10 de descuento por 102.24 EUR (original: 250 EUR) en el siguiente enlace!

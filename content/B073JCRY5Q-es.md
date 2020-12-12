@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Cortefiel 1.T.M.P Fluido Pantalones  Mujer  Rosa  Pink   Tamaño del fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073JCRY5Q/?tag=tolees-21'
+descuento: '63.87'
+titulo: 'Cortefiel 1.T.M.P Fluido Pantalones  Muj'
 ---
 
 Tienes [Cortefiel 1.T.M.P Fluido Pantalones  Mujer  Rosa  Pink   Tamaño del fabricante:XL ](https://www.amazon.es/dp/B073JCRY5Q/?tag=tolees-21) con un 63.87 % de descuento con precio de oferta de 14.45 EUR (original: 39.99 EUR) en el siguiente enlace!

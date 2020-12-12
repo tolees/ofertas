@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield DS Structrure Strech  Camisa Casual para Hombre   Blanco 99   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLJZRMX/?tag=tolees-21'
+descuento: '67.39'
+titulo: 'Springfield DS Structrure Strech  Camisa'
 ---
 
 Está [Springfield DS Structrure Strech  Camisa Casual para Hombre   Blanco 99   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLJZRMX/?tag=tolees-21) con 67.39 de descuento por 9.78 EUR (original: 29.99 EUR) en el siguiente enlace!

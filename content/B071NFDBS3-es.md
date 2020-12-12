@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Logitech Doodle Collection M238 - Ratón inalámbrico con 15 Adhesivos Premium  12 Meses de duración de Pilas  Compatible con Windows  Mac  Chrome OS y Linux  Estilo de Light Bulb'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NFDBS3/?tag=tolees-21'
+descuento: '42.32'
+titulo: 'Logitech Doodle Collection M238 - Ratón '
 ---
 
 Ahora mismo tienes [Logitech Doodle Collection M238 - Ratón inalámbrico con 15 Adhesivos Premium  12 Meses de duración de Pilas  Compatible con Windows  Mac  Chrome OS y Linux  Estilo de Light Bulb](https://www.amazon.es/dp/B071NFDBS3/?tag=tolees-21) a 14.99 EUR (original: 25.99 EUR) (42.32 %  de descuento) en el siguiente enlace!

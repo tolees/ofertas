@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Emporio Armani 523087 Gafas de sol  Top Blue/Brown Rubber  56 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JLEM93W/?tag=tolees-21'
+descuento: '46.88'
+titulo: 'Emporio Armani 523087 Gafas de sol  Top '
 ---
 
 Tienes [Emporio Armani 523087 Gafas de sol  Top Blue/Brown Rubber  56 para Hombre](https://www.amazon.es/dp/B00JLEM93W/?tag=tolees-21) con un 46.88 % de descuento con precio de oferta de 79.15 EUR (original: 149 EUR) en el siguiente enlace!

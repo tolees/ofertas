@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'adidas M Bl Sw Fzjk  Chaqueta para Hombre  Gris  brgrin  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8D1TRJ/?tag=tolees-21'
+descuento: '72.74'
+titulo: 'adidas M Bl Sw Fzjk  Chaqueta para Hombr'
 ---
 
 Está [adidas M Bl Sw Fzjk  Chaqueta para Hombre  Gris  brgrin  S](https://www.amazon.es/dp/B07F8D1TRJ/?tag=tolees-21) con 72.74 de descuento por 16.34 EUR (original: 59.95 EUR) en el siguiente enlace!

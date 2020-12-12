@@ -17,6 +17,9 @@ comparePrice: 350 EUR
 inStock: true
 prodname: 'Sony MHC-V41D - Sistema Audio  Bluetooth  Luces de Fiesta  Control de Gestos  CD  DVD  USB  Entrada de Audio  HDMI '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WSVF7P/?tag=tolees-21'
+descuento: '28.86'
+titulo: 'Sony MHC-V41D - Sistema Audio  Bluetooth'
 ---
 
 Está [Sony MHC-V41D - Sistema Audio  Bluetooth  Luces de Fiesta  Control de Gestos  CD  DVD  USB  Entrada de Audio  HDMI ](https://www.amazon.es/dp/B078WSVF7P/?tag=tolees-21) con 28.86 de descuento por 249 EUR (original: 350 EUR) en el siguiente enlace!

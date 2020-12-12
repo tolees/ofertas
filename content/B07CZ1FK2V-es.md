@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Puma Ignite Limitless 2  Zapatillas de Running Unisex Adulto  Rojo  Ribbon Red Black   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ1FK2V/?tag=tolees-21'
+descuento: '60.02'
+titulo: 'Puma Ignite Limitless 2  Zapatillas de R'
 ---
 
 Está [Puma Ignite Limitless 2  Zapatillas de Running Unisex Adulto  Rojo  Ribbon Red Black   41 EU](https://www.amazon.es/dp/B07CZ1FK2V/?tag=tolees-21) con 60.02 de descuento por 43.96 EUR (original: 109.95 EUR) en el siguiente enlace!

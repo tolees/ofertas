@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Onforu 10M Tiras LED Cadena de Luz 600 LEDs Strip 2835 SMD Cinta  Blanco Cálido 3000K Decoración Iluminación Ambiental Interior Flexible No-Impermeable Conjunto con Interruptor y adaptador para Fiesta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C3Y2Z1W/?tag=tolees-21'
+descuento: '42.51'
+titulo: 'Onforu 10M Tiras LED Cadena de Luz 600 L'
 ---
 
 Está [Onforu 10M Tiras LED Cadena de Luz 600 LEDs Strip 2835 SMD Cinta  Blanco Cálido 3000K Decoración Iluminación Ambiental Interior Flexible No-Impermeable Conjunto con Interruptor y adaptador para Fiesta](https://www.amazon.es/dp/B07C3Y2Z1W/?tag=tolees-21) con 42.51 de descuento por 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!

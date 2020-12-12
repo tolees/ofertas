@@ -17,6 +17,9 @@ comparePrice: 12.42 EUR
 inStock: true
 prodname: 'Tommee Tippee 22645 - Chupetes'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BZ9DYWD/?tag=tolees-21'
+descuento: '76.01'
+titulo: 'Tommee Tippee 22645 - Chupetes'
 ---
 
 Está [Tommee Tippee 22645 - Chupetes](https://www.amazon.es/dp/B07BZ9DYWD/?tag=tolees-21) con 76.01 de descuento por 2.98 EUR (original: 12.42 EUR) en el siguiente enlace!

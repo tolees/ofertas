@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Volcom Draw Lo Shoe  Zapatillas de Skateboard para Hombre  Azul  Navy Nvy   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0731BZLXP/?tag=tolees-21'
+descuento: '47.00'
+titulo: 'Volcom Draw Lo Shoe  Zapatillas de Skate'
 ---
 
 Ahora mismo tienes [Volcom Draw Lo Shoe  Zapatillas de Skateboard para Hombre  Azul  Navy Nvy   42 EU](https://www.amazon.es/dp/B0731BZLXP/?tag=tolees-21) a 34.45 EUR (original: 65 EUR) (47.00 %  de descuento) en el siguiente enlace!

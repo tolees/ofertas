@@ -17,6 +17,9 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'Tuc Tuc Bermuda POPELÍN MAUI Island Pantalones  Bebé-Niños  Turquesa  Turquesa   92  Tamaño del Fabricante:2A '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078CBNY7C/?tag=tolees-21'
+descuento: '77.47'
+titulo: 'Tuc Tuc Bermuda POPELÍN MAUI Island Pant'
 ---
 
 Está [Tuc Tuc Bermuda POPELÍN MAUI Island Pantalones  Bebé-Niños  Turquesa  Turquesa   92  Tamaño del Fabricante:2A ](https://www.amazon.es/dp/B078CBNY7C/?tag=tolees-21) con 77.47 de descuento por 5.17 EUR (original: 22.95 EUR) en el siguiente enlace!

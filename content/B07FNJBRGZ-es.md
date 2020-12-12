@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: '2018 Última versión-Mini M8S Pro Android 7.1 TV Box S912 Octa Core Arm Cortex-A53 con DDR3 3GB + eMMC Flash 32G Micro SD Card hasta 32GB 4K HDMI/ 2 * USB 2.0 /WiFi 2.4G+5.8G / BT 4.0 Smart TV Box'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNJBRGZ/?tag=tolees-21'
+descuento: '25.00'
+titulo: '2018 Última versión-Mini M8S Pro Android'
 ---
 
 Está [2018 Última versión-Mini M8S Pro Android 7.1 TV Box S912 Octa Core Arm Cortex-A53 con DDR3 3GB + eMMC Flash 32G Micro SD Card hasta 32GB 4K HDMI/ 2 * USB 2.0 /WiFi 2.4G+5.8G / BT 4.0 Smart TV Box](https://www.amazon.es/dp/B07FNJBRGZ/?tag=tolees-21) con 25.00 de descuento por 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!

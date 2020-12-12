@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Burton Prospect Mochilas  Unisex Adulto  Gray Heather'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KFTZYN7/?tag=tolees-21'
+descuento: '52.60'
+titulo: 'Burton Prospect Mochilas  Unisex Adulto '
 ---
 
 Ahora mismo tienes [Burton Prospect Mochilas  Unisex Adulto  Gray Heather](https://www.amazon.es/dp/B07KFTZYN7/?tag=tolees-21) a 28.44 EUR (original: 60 EUR) (52.60 %  de descuento) en el siguiente enlace!

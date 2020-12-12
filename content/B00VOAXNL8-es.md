@@ -17,6 +17,9 @@ comparePrice: 21.14 EUR
 inStock: true
 prodname: 'Flexi Design S Cinta 5m. Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VOAXNL8/?tag=tolees-21'
+descuento: '50.24'
+titulo: 'Flexi Design S Cinta 5m. Azul'
 ---
 
 Ahora mismo tienes [Flexi Design S Cinta 5m. Azul](https://www.amazon.es/dp/B00VOAXNL8/?tag=tolees-21) a 10.52 EUR (original: 21.14 EUR) (50.24 %  de descuento) en el siguiente enlace!

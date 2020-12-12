@@ -17,6 +17,9 @@ comparePrice: 199.95 EUR
 inStock: true
 prodname: 'Catlike 180055 Casco de Ciclismo  Azul  Blue/Orange / Black   MD'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MECTL11/?tag=tolees-21'
+descuento: '61.17'
+titulo: 'Catlike 180055 Casco de Ciclismo  Azul  '
 ---
 
 Tienes [Catlike 180055 Casco de Ciclismo  Azul  Blue/Orange / Black   MD](https://www.amazon.es/dp/B01MECTL11/?tag=tolees-21) con un 61.17 % de descuento con precio de oferta de 77.64 EUR (original: 199.95 EUR) en el siguiente enlace!

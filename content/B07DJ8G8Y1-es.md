@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Geox D Nebula C  Zapatillas para Mujer  Grey C1006  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ8G8Y1/?tag=tolees-21'
+descuento: '74.30'
+titulo: 'Geox D Nebula C  Zapatillas para Mujer  '
 ---
 
 Tienes [Geox D Nebula C  Zapatillas para Mujer  Grey C1006  41 EU](https://www.amazon.es/dp/B07DJ8G8Y1/?tag=tolees-21) con un 74.30 % de descuento con precio de oferta de 32.13 EUR (original: 125 EUR) en el siguiente enlace!

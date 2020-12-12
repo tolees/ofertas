@@ -17,6 +17,9 @@ comparePrice: 61.89 EUR
 inStock: true
 prodname: 'REAYOU Pet Portátil plegable Playpen Portable Pet House  carpa plegable Casa para Dog Cat Puppy Exercise 8-Panel Kennel Mesh Shade Cover Interior/exterior Carpa Valla para perros Gatos S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CPPZJMW/?tag=tolees-21'
+descuento: '59.62'
+titulo: 'REAYOU Pet Portátil plegable Playpen Por'
 ---
 
 Está [REAYOU Pet Portátil plegable Playpen Portable Pet House  carpa plegable Casa para Dog Cat Puppy Exercise 8-Panel Kennel Mesh Shade Cover Interior/exterior Carpa Valla para perros Gatos S ](https://www.amazon.es/dp/B07CPPZJMW/?tag=tolees-21) con 59.62 de descuento por 24.99 EUR (original: 61.89 EUR) en el siguiente enlace!

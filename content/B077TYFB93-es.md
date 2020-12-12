@@ -17,6 +17,9 @@ comparePrice: 8.95 EUR
 inStock: true
 prodname: 'Universo DC Llavero Logo de Metal Superman  Color Dorado  SD Toys SDTWRN20925 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TYFB93/?tag=tolees-21'
+descuento: '77.65'
+titulo: 'Universo DC Llavero Logo de Metal Superm'
 ---
 
 Ahora mismo tienes [Universo DC Llavero Logo de Metal Superman  Color Dorado  SD Toys SDTWRN20925 ](https://www.amazon.es/dp/B077TYFB93/?tag=tolees-21) a 2 EUR (original: 8.95 EUR) (77.65 %  de descuento) en el siguiente enlace!

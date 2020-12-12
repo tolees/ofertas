@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'BILLABONG Essential Jkt Chaqueta  Mujer  Negro  Off Black 328   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1CX5JP/?tag=tolees-21'
+descuento: '48.00'
+titulo: 'BILLABONG Essential Jkt Chaqueta  Mujer '
 ---
 
 Está [BILLABONG Essential Jkt Chaqueta  Mujer  Negro  Off Black 328   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07F1CX5JP/?tag=tolees-21) con 48.00 de descuento por 52 EUR (original: 100 EUR) en el siguiente enlace!

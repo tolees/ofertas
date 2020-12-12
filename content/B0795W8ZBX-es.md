@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Salomon Cinturón de running  250 ml  agile 250 belt  set  morado  Purple Opulence y Medieval Blue '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0795W8ZBX/?tag=tolees-21'
+descuento: '40.42'
+titulo: 'Salomon Cinturón de running  250 ml  agi'
 ---
 
 Ahora mismo tienes [Salomon Cinturón de running  250 ml  agile 250 belt  set  morado  Purple Opulence y Medieval Blue ](https://www.amazon.es/dp/B0795W8ZBX/?tag=tolees-21) a 26.81 EUR (original: 45 EUR) (40.42 %  de descuento) en el siguiente enlace!

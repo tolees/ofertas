@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Pepe Jeans West Sir Camiseta  Azul  French Blue 541   X-Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N99HHVB/?tag=tolees-21'
+descuento: '53.34'
+titulo: 'Pepe Jeans West Sir Camiseta  Azul  Fren'
 ---
 
 Está [Pepe Jeans West Sir Camiseta  Azul  French Blue 541   X-Small para Hombre](https://www.amazon.es/dp/B07N99HHVB/?tag=tolees-21) con 53.34 de descuento por 13.95 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko- Moon & Luna Figura de Vinilo  colección de Pop  seria Sailor Moon  6350 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B55C6YQ/?tag=tolees-21'
+descuento: '39.96'
+titulo: 'Funko- Moon & Luna Figura de Vinilo  col'
 ---
 
 Ahora mismo tienes [Funko- Moon & Luna Figura de Vinilo  colección de Pop  seria Sailor Moon  6350 ](https://www.amazon.es/dp/B01B55C6YQ/?tag=tolees-21) a 9 EUR (original: 14.99 EUR) (39.96 %  de descuento) en el siguiente enlace!

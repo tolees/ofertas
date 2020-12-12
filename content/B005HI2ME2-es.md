@@ -17,6 +17,9 @@ comparePrice: 299.1 EUR
 inStock: true
 prodname: 'Plantronics CS540/A - Auriculares con micrófono para teléfonos digitales  Inalámbrico  DECT  6.8 GHz  118 Db  85 Db  7 h '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005HI2ME2/?tag=tolees-21'
+descuento: '58.21'
+titulo: 'Plantronics CS540/A - Auriculares con mi'
 ---
 
 Tienes [Plantronics CS540/A - Auriculares con micrófono para teléfonos digitales  Inalámbrico  DECT  6.8 GHz  118 Db  85 Db  7 h ](https://www.amazon.es/dp/B005HI2ME2/?tag=tolees-21) con un 58.21 % de descuento con precio de oferta de 125 EUR (original: 299.1 EUR) en el siguiente enlace!

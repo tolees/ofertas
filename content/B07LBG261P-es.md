@@ -17,6 +17,9 @@ comparePrice: 137.7 EUR
 inStock: true
 prodname: 'Love Moschino Borsa Smooth PU  bolso bandolera para Mujer  Rojo  Rosso   8x15x21 centimeters  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBG261P/?tag=tolees-21'
+descuento: '43.40'
+titulo: 'Love Moschino Borsa Smooth PU  bolso ban'
 ---
 
 Está [Love Moschino Borsa Smooth PU  bolso bandolera para Mujer  Rojo  Rosso   8x15x21 centimeters  W x H x L ](https://www.amazon.es/dp/B07LBG261P/?tag=tolees-21) con 43.40 de descuento por 77.94 EUR (original: 137.7 EUR) en el siguiente enlace!

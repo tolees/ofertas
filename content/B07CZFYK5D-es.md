@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Under Armour Sportstyle tee Camiseta  Niños  Azul  Academy/Reflective 408   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZFYK5D/?tag=tolees-21'
+descuento: '33.02'
+titulo: 'Under Armour Sportstyle tee Camiseta  Ni'
 ---
 
 Tienes [Under Armour Sportstyle tee Camiseta  Niños  Azul  Academy/Reflective 408   S](https://www.amazon.es/dp/B07CZFYK5D/?tag=tolees-21) con un 33.02 % de descuento con precio de oferta de 13.39 EUR (original: 19.99 EUR) en el siguiente enlace!

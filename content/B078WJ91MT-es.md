@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'BILLABONG Labrea Crew Jersey  Hombre  Gris  Grey Heather 9   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WJ91MT/?tag=tolees-21'
+descuento: '71.04'
+titulo: 'BILLABONG Labrea Crew Jersey  Hombre  Gr'
 ---
 
 Está [BILLABONG Labrea Crew Jersey  Hombre  Gris  Grey Heather 9   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B078WJ91MT/?tag=tolees-21) con 71.04 de descuento por 15.93 EUR (original: 55 EUR) en el siguiente enlace!

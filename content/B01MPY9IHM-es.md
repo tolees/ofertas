@@ -17,6 +17,9 @@ comparePrice: 13 EUR
 inStock: true
 prodname: 'Salomon Sense Pro 1 Par de Calcetines Tobilleros  Unisex  Forged Iron  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MPY9IHM/?tag=tolees-21'
+descuento: '68.15'
+titulo: 'Salomon Sense Pro 1 Par de Calcetines To'
 ---
 
 Está [Salomon Sense Pro 1 Par de Calcetines Tobilleros  Unisex  Forged Iron  M](https://www.amazon.es/dp/B01MPY9IHM/?tag=tolees-21) con 68.15 de descuento por 4.14 EUR (original: 13 EUR) en el siguiente enlace!

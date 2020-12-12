@@ -17,6 +17,9 @@ comparePrice: 63.99 EUR
 inStock: true
 prodname: 'deAO Mesa para Agua y Arena con Compartimento Doble y Tapas Mesita de Juegos y Actividades Infantiles al Exterior Incluye Accesorios y Moldes'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C8KW56T/?tag=tolees-21'
+descuento: '37.51'
+titulo: 'deAO Mesa para Agua y Arena con Comparti'
 ---
 
 Ahora mismo tienes [deAO Mesa para Agua y Arena con Compartimento Doble y Tapas Mesita de Juegos y Actividades Infantiles al Exterior Incluye Accesorios y Moldes](https://www.amazon.es/dp/B07C8KW56T/?tag=tolees-21) a 39.99 EUR (original: 63.99 EUR) (37.51 %  de descuento) en el siguiente enlace!

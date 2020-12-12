@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Rush Wn s  Zapatillas Deportivas para Interior para Mujer  Negro Black White 02  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N76TTXV/?tag=tolees-21'
+descuento: '71.57'
+titulo: 'Puma Rush Wn s  Zapatillas Deportivas pa'
 ---
 
 Ahora mismo tienes [Puma Rush Wn s  Zapatillas Deportivas para Interior para Mujer  Negro Black White 02  37 EU](https://www.amazon.es/dp/B01N76TTXV/?tag=tolees-21) a 19.89 EUR (original: 69.95 EUR) (71.57 %  de descuento) en el siguiente enlace!

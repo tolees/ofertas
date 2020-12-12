@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Napapijri Bonthe C Sudadera  Azul  BLU Marine 176   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9PRT3G/?tag=tolees-21'
+descuento: '36.35'
+titulo: 'Napapijri Bonthe C Sudadera  Azul  BLU M'
 ---
 
 Está [Napapijri Bonthe C Sudadera  Azul  BLU Marine 176   Medium para Hombre](https://www.amazon.es/dp/B07L9PRT3G/?tag=tolees-21) con 36.35 de descuento por 56.65 EUR (original: 89 EUR) en el siguiente enlace!

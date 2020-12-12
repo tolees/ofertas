@@ -17,6 +17,9 @@ comparePrice: 16.85 EUR
 inStock: true
 prodname: 'Amscan International – rojo Fake Blood – botella de plástico 500 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01K7VWKFE/?tag=tolees-21'
+descuento: '61.96'
+titulo: 'Amscan International – rojo Fake Blood –'
 ---
 
 Ahora mismo tienes [Amscan International – rojo Fake Blood – botella de plástico 500 ml](https://www.amazon.es/dp/B01K7VWKFE/?tag=tolees-21) a 6.41 EUR (original: 16.85 EUR) (61.96 %  de descuento) en el siguiente enlace!

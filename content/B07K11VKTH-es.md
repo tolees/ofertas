@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'adidas Alphabounce Instinct M  Zapatillas de Running para Hombre  Blanco Core Black/Raw White  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K11VKTH/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'adidas Alphabounce Instinct M  Zapatilla'
 ---
 
 Tienes [adidas Alphabounce Instinct M  Zapatillas de Running para Hombre  Blanco Core Black/Raw White  42 EU](https://www.amazon.es/dp/B07K11VKTH/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 54.98 EUR (original: 109.95 EUR) en el siguiente enlace!

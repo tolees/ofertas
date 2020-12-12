@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Vs Set Zapatillas de Deporte Hombre  Negro  Core Black/ftwr White/ftwr White   37 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WVHR863/?tag=tolees-21'
+descuento: '51.65'
+titulo: 'adidas Vs Set Zapatillas de Deporte Homb'
 ---
 
 Ahora mismo tienes [adidas Vs Set Zapatillas de Deporte Hombre  Negro  Core Black/ftwr White/ftwr White   37 1/3 EU](https://www.amazon.es/dp/B06WVHR863/?tag=tolees-21) a 24.15 EUR (original: 49.95 EUR) (51.65 %  de descuento) en el siguiente enlace!

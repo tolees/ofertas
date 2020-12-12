@@ -17,6 +17,9 @@ comparePrice: 57.49 EUR
 inStock: true
 prodname: 'ADIDAS Vs Advantage F99256  Zapatillas de Deporte Unisex Adulto  Azul  46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0196G1CFA/?tag=tolees-21'
+descuento: '56.55'
+titulo: 'ADIDAS Vs Advantage F99256  Zapatillas d'
 ---
 
 Ahora mismo tienes [ADIDAS Vs Advantage F99256  Zapatillas de Deporte Unisex Adulto  Azul  46 EU](https://www.amazon.es/dp/B0196G1CFA/?tag=tolees-21) a 24.98 EUR (original: 57.49 EUR) (56.55 %  de descuento) en el siguiente enlace!

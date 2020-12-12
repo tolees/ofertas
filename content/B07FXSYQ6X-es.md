@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'OtterBox Symmetry - Funda Anti caídas Fina para iPhone XR  Ocre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FXSYQ6X/?tag=tolees-21'
+descuento: '54.99'
+titulo: 'OtterBox Symmetry - Funda Anti caídas Fi'
 ---
 
 Está [OtterBox Symmetry - Funda Anti caídas Fina para iPhone XR  Ocre](https://www.amazon.es/dp/B07FXSYQ6X/?tag=tolees-21) con 54.99 de descuento por 15.75 EUR (original: 34.99 EUR) en el siguiente enlace!

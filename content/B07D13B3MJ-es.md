@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Under Armour Recovery Sleepwear Short Ropa Interior  Hombre  Azul  Petrol Blue/Metallic Silver 438   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D13B3MJ/?tag=tolees-21'
+descuento: '46.99'
+titulo: 'Under Armour Recovery Sleepwear Short Ro'
 ---
 
 Ahora mismo tienes [Under Armour Recovery Sleepwear Short Ropa Interior  Hombre  Azul  Petrol Blue/Metallic Silver 438   M](https://www.amazon.es/dp/B07D13B3MJ/?tag=tolees-21) a 29.15 EUR (original: 54.99 EUR) (46.99 %  de descuento) en el siguiente enlace!

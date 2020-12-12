@@ -17,6 +17,9 @@ comparePrice: 3.38 EUR
 inStock: true
 prodname: 'Dove Go Fresh granada Antitranspirante Desodorante Roll-On 50 ml - Envase de 6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01F8IEFL8/?tag=tolees-21'
+descuento: '39.05'
+titulo: 'Dove Go Fresh granada Antitranspirante D'
 ---
 
 Ahora mismo tienes [Dove Go Fresh granada Antitranspirante Desodorante Roll-On 50 ml - Envase de 6](https://www.amazon.es/dp/B01F8IEFL8/?tag=tolees-21) a 2.06 EUR (original: 3.38 EUR) (39.05 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Philips Flite Hyprlite SHB4205BK - Auriculares Bluetooth  inalámbricos  Deporte  con Manos Libres diseño  Ligero  ajusto Seguro  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N3B3OED/?tag=tolees-21'
+descuento: '58.21'
+titulo: 'Philips Flite Hyprlite SHB4205BK - Auric'
 ---
 
 Está [Philips Flite Hyprlite SHB4205BK - Auriculares Bluetooth  inalámbricos  Deporte  con Manos Libres diseño  Ligero  ajusto Seguro  Color Negro](https://www.amazon.es/dp/B01N3B3OED/?tag=tolees-21) con 58.21 de descuento por 25.07 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Birkenstock Arizona  Sandalias de Punta Descubierta Unisex  Gris  Schwarz  Nubuk Basalt   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000XVWCHU/?tag=tolees-21'
+descuento: '66.73'
+titulo: 'Birkenstock Arizona  Sandalias de Punta '
 ---
 
 Tienes [Birkenstock Arizona  Sandalias de Punta Descubierta Unisex  Gris  Schwarz  Nubuk Basalt   42 EU](https://www.amazon.es/dp/B000XVWCHU/?tag=tolees-21) con un 66.73 % de descuento con precio de oferta de 24.95 EUR (original: 75 EUR) en el siguiente enlace!

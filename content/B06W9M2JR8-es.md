@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Pop! Games: Street Fighter Green Blanka [Importación Alemana]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06W9M2JR8/?tag=tolees-21'
+descuento: '41.44'
+titulo: 'Pop! Games: Street Fighter Green Blanka '
 ---
 
 Está [Pop! Games: Street Fighter Green Blanka [Importación Alemana]](https://www.amazon.es/dp/B06W9M2JR8/?tag=tolees-21) con 41.44 de descuento por 9.95 EUR (original: 16.99 EUR) en el siguiente enlace!

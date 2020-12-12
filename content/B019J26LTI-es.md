@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Wrangler Kabel Buckle Brown  Cinturón para Hombre  Marrón  90 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019J26LTI/?tag=tolees-21'
+descuento: '62.71'
+titulo: 'Wrangler Kabel Buckle Brown  Cinturón pa'
 ---
 
 Tienes [Wrangler Kabel Buckle Brown  Cinturón para Hombre  Marrón  90 cm](https://www.amazon.es/dp/B019J26LTI/?tag=tolees-21) con un 62.71 % de descuento con precio de oferta de 16.76 EUR (original: 44.95 EUR) en el siguiente enlace!

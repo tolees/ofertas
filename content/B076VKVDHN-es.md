@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'DANISH ENDURANCE Calcetines de Deporte Quarter Pro  EU 43-47  Azul Tormentoso - 3 Pares '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VKVDHN/?tag=tolees-21'
+descuento: '72.32'
+titulo: 'DANISH ENDURANCE Calcetines de Deporte Q'
 ---
 
 Está [DANISH ENDURANCE Calcetines de Deporte Quarter Pro  EU 43-47  Azul Tormentoso - 3 Pares ](https://www.amazon.es/dp/B076VKVDHN/?tag=tolees-21) con 72.32 de descuento por 9.95 EUR (original: 35.95 EUR) en el siguiente enlace!

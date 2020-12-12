@@ -17,6 +17,9 @@ comparePrice: 24.08 EUR
 inStock: true
 prodname: 'Schneider Electric sc5st933u1 W - Alargador con 3 enchufes 2P + T Blanca 2 USB 1 5 M  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K11G6BK/?tag=tolees-21'
+descuento: '29.24'
+titulo: 'Schneider Electric sc5st933u1 W - Alarga'
 ---
 
 Tienes [Schneider Electric sc5st933u1 W - Alargador con 3 enchufes 2P + T Blanca 2 USB 1 5 M  color blanco](https://www.amazon.es/dp/B07K11G6BK/?tag=tolees-21) con un 29.24 % de descuento con precio de oferta de 17.04 EUR (original: 24.08 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Columbia Triple Canyon Pantalón Corto de Senderismo  Poliéster  Hombre  Rojo  Tapestry/Shark   Talla US: W38/L10/  EU W48/L10 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSPDXFS/?tag=tolees-21'
+descuento: '46.32'
+titulo: 'Columbia Triple Canyon Pantalón Corto de'
 ---
 
 Está [Columbia Triple Canyon Pantalón Corto de Senderismo  Poliéster  Hombre  Rojo  Tapestry/Shark   Talla US: W38/L10/  EU W48/L10 ](https://www.amazon.es/dp/B07KSPDXFS/?tag=tolees-21) con 46.32 de descuento por 32.2 EUR (original: 59.99 EUR) en el siguiente enlace!

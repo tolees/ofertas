@@ -17,6 +17,9 @@ comparePrice: 32 EUR
 inStock: true
 prodname: 'FIND Jersey con Volumen en las Mangas para Mujer  Azul  Navy   48  Talla del Fabricante: 3X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073GTTDHC/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'FIND Jersey con Volumen en las Mangas pa'
 ---
 
 Está [FIND Jersey con Volumen en las Mangas para Mujer  Azul  Navy   48  Talla del Fabricante: 3X-Large ](https://www.amazon.es/dp/B073GTTDHC/?tag=tolees-21) con 50.00 de descuento por 16 EUR (original: 32 EUR) en el siguiente enlace!

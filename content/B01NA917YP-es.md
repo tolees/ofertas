@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Basket Classic Pearl  Zapatillas Unisex Adulto  Blanco White-Silver 01  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NA917YP/?tag=tolees-21'
+descuento: '79.79'
+titulo: 'Puma Basket Classic Pearl  Zapatillas Un'
 ---
 
 Tienes [Puma Basket Classic Pearl  Zapatillas Unisex Adulto  Blanco White-Silver 01  39 EU](https://www.amazon.es/dp/B01NA917YP/?tag=tolees-21) con un 79.79 % de descuento con precio de oferta de 18.18 EUR (original: 89.95 EUR) en el siguiente enlace!

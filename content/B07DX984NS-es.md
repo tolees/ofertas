@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Active Woven Pants  Hombre  Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DX984NS/?tag=tolees-21'
+descuento: '32.59'
+titulo: 'Puma Active Woven Pants  Hombre  Black  '
 ---
 
 Está [Puma Active Woven Pants  Hombre  Black  S](https://www.amazon.es/dp/B07DX984NS/?tag=tolees-21) con 32.59 de descuento por 16.82 EUR (original: 24.95 EUR) en el siguiente enlace!

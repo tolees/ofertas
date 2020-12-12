@@ -17,6 +17,9 @@ comparePrice: 80.61 EUR
 inStock: true
 prodname: 'Saucony Jazz Original Vintage  Zapatillas de Cross Unisex Adulto  Morado  Burgundy/White 11   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072N1NQX7/?tag=tolees-21'
+descuento: '33.27'
+titulo: 'Saucony Jazz Original Vintage  Zapatilla'
 ---
 
 Ahora mismo tienes [Saucony Jazz Original Vintage  Zapatillas de Cross Unisex Adulto  Morado  Burgundy/White 11   45 EU](https://www.amazon.es/dp/B072N1NQX7/?tag=tolees-21) a 53.79 EUR (original: 80.61 EUR) (33.27 %  de descuento) en el siguiente enlace!

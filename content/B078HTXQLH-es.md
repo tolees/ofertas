@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjivega Jjtrash WW Dark Grey Melang Noos Pantalones  Gris  W34/L34  Talla del Fabricante:34  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HTXQLH/?tag=tolees-21'
+descuento: '50.15'
+titulo: 'JACK & JONES Jjivega Jjtrash WW Dark Gre'
 ---
 
 Tienes [JACK & JONES Jjivega Jjtrash WW Dark Grey Melang Noos Pantalones  Gris  W34/L34  Talla del Fabricante:34  para Hombre](https://www.amazon.es/dp/B078HTXQLH/?tag=tolees-21) con un 50.15 % de descuento con precio de oferta de 14.95 EUR (original: 29.99 EUR) en el siguiente enlace!

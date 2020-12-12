@@ -17,6 +17,9 @@ comparePrice: 975.98 EUR
 inStock: true
 prodname: 'Corsair Vengeance RGB Pro - Kit de Memoria Entusiasta 64 GB  8 x 8 GB   DDR4  3200 MHz  C16  XMP 2.0  Iluminación LED RGB  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7G1W9N/?tag=tolees-21'
+descuento: '51.77'
+titulo: 'Corsair Vengeance RGB Pro - Kit de Memor'
 ---
 
 Tienes [Corsair Vengeance RGB Pro - Kit de Memoria Entusiasta 64 GB  8 x 8 GB   DDR4  3200 MHz  C16  XMP 2.0  Iluminación LED RGB  Blanco](https://www.amazon.es/dp/B07D7G1W9N/?tag=tolees-21) con un 51.77 % de descuento con precio de oferta de 470.71 EUR (original: 975.98 EUR) en el siguiente enlace!

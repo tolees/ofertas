@@ -17,6 +17,9 @@ comparePrice: 84.39 EUR
 inStock: true
 prodname: 'Casio Reloj de Pulsera A159WGEA-1EF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005FEY47Q/?tag=tolees-21'
+descuento: '59.62'
+titulo: 'Casio Reloj de Pulsera A159WGEA-1EF'
 ---
 
 Está [Casio Reloj de Pulsera A159WGEA-1EF](https://www.amazon.es/dp/B005FEY47Q/?tag=tolees-21) con 59.62 de descuento por 34.08 EUR (original: 84.39 EUR) en el siguiente enlace!

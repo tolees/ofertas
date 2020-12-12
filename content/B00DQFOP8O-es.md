@@ -17,6 +17,9 @@ comparePrice: 24 EUR
 inStock: true
 prodname: 'Calida New Boxer Focus - Bóxer para hombre  color schwarz  schwarz 992   talla x-large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DQFOP8O/?tag=tolees-21'
+descuento: '44.29'
+titulo: 'Calida New Boxer Focus - Bóxer para homb'
 ---
 
 Ahora mismo tienes [Calida New Boxer Focus - Bóxer para hombre  color schwarz  schwarz 992   talla x-large](https://www.amazon.es/dp/B00DQFOP8O/?tag=tolees-21) a 13.37 EUR (original: 24 EUR) (44.29 %  de descuento) en el siguiente enlace!

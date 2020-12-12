@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Columbia Heather Canyon Cortavientos  Hombre  Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MRYUQ5E/?tag=tolees-21'
+descuento: '44.23'
+titulo: 'Columbia Heather Canyon Cortavientos  Ho'
 ---
 
 Tienes [Columbia Heather Canyon Cortavientos  Hombre  Black  L](https://www.amazon.es/dp/B01MRYUQ5E/?tag=tolees-21) con un 44.23 % de descuento con precio de oferta de 55.76 EUR (original: 99.99 EUR) en el siguiente enlace!

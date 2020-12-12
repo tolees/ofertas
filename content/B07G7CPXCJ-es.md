@@ -17,6 +17,9 @@ comparePrice: 17.98 EUR
 inStock: true
 prodname: 'Moussel Gel y jabón - 2 de 3 piezas - Total: 6 piezas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G7CPXCJ/?tag=tolees-21'
+descuento: '47.16'
+titulo: 'Moussel Gel y jabón - 2 de 3 piezas - To'
 ---
 
 Ahora mismo tienes [Moussel Gel y jabón - 2 de 3 piezas - Total: 6 piezas](https://www.amazon.es/dp/B07G7CPXCJ/?tag=tolees-21) a 9.5 EUR (original: 17.98 EUR) (47.16 %  de descuento) en el siguiente enlace!

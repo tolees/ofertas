@@ -17,6 +17,9 @@ comparePrice: 50.3 EUR
 inStock: true
 prodname: 'Calvin Klein Eternity Now Agua de Perfume Vaporizador - 30 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013SXJPRE/?tag=tolees-21'
+descuento: '38.19'
+titulo: 'Calvin Klein Eternity Now Agua de Perfum'
 ---
 
 Está [Calvin Klein Eternity Now Agua de Perfume Vaporizador - 30 ml](https://www.amazon.es/dp/B013SXJPRE/?tag=tolees-21) con 38.19 de descuento por 31.09 EUR (original: 50.3 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'FULARR 16 en 1 Mini Herramienta Reparación Bicicleta  Kit Reparación Bicicletas Acero Inoxidable  Herramienta Bici Multifunción Portátil Compacta  Kit Herramientas Mantenimiento Plegables -- Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFN4CHT/?tag=tolees-21'
+descuento: '41.44'
+titulo: 'FULARR 16 en 1 Mini Herramienta Reparaci'
 ---
 
 Ahora mismo tienes [FULARR 16 en 1 Mini Herramienta Reparación Bicicleta  Kit Reparación Bicicletas Acero Inoxidable  Herramienta Bici Multifunción Portátil Compacta  Kit Herramientas Mantenimiento Plegables -- Negro](https://www.amazon.es/dp/B07DFN4CHT/?tag=tolees-21) a 9.95 EUR (original: 16.99 EUR) (41.44 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Columbia DrainmakerTM IV  Zapatillas para Hombre  Amarillo  Voltage  White   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K74WDSZ/?tag=tolees-21'
+descuento: '63.50'
+titulo: 'Columbia DrainmakerTM IV  Zapatillas par'
 ---
 
 Tienes [Columbia DrainmakerTM IV  Zapatillas para Hombre  Amarillo  Voltage  White   41 EU](https://www.amazon.es/dp/B07K74WDSZ/?tag=tolees-21) con un 63.50 % de descuento con precio de oferta de 32.85 EUR (original: 89.99 EUR) en el siguiente enlace!

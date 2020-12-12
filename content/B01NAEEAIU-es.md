@@ -17,6 +17,9 @@ comparePrice: 27.95 EUR
 inStock: true
 prodname: 'Adidas BA7849  Sandalias Deportivas para Niñas  Azul  Blue/Footwear White/Footwear White   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NAEEAIU/?tag=tolees-21'
+descuento: '30.23'
+titulo: 'Adidas BA7849  Sandalias Deportivas para'
 ---
 
 Está [Adidas BA7849  Sandalias Deportivas para Niñas  Azul  Blue/Footwear White/Footwear White   28 EU](https://www.amazon.es/dp/B01NAEEAIU/?tag=tolees-21) con 30.23 de descuento por 19.5 EUR (original: 27.95 EUR) en el siguiente enlace!

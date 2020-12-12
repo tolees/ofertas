@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Tamaris 26793  Botas Chukka para Mujer  Rosa  Old Rose   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072R7SJ6N/?tag=tolees-21'
+descuento: '86.76'
+titulo: 'Tamaris 26793  Botas Chukka para Mujer  '
 ---
 
 Está [Tamaris 26793  Botas Chukka para Mujer  Rosa  Old Rose   38 EU](https://www.amazon.es/dp/B072R7SJ6N/?tag=tolees-21) con 86.76 de descuento por 13.23 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 82.49 EUR
 inStock: true
 prodname: 'Adidas Messi 16.3 FG Ba9021  Botas de fútbol para Hombre  Azul  Blue  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2YMGJ1/?tag=tolees-21'
+descuento: '72.99'
+titulo: 'Adidas Messi 16.3 FG Ba9021  Botas de fú'
 ---
 
 Está [Adidas Messi 16.3 FG Ba9021  Botas de fútbol para Hombre  Azul  Blue  42 EU](https://www.amazon.es/dp/B01N2YMGJ1/?tag=tolees-21) con 72.99 de descuento por 22.28 EUR (original: 82.49 EUR) en el siguiente enlace!

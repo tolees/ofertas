@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Fogela R Knit Wmn L/s suéter   Asfalt/dk Black 7272   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0711C1NRR/?tag=tolees-21'
+descuento: '75.46'
+titulo: 'G-STAR RAW Fogela R Knit Wmn L/s suéter '
 ---
 
 Está [G-STAR RAW Fogela R Knit Wmn L/s suéter   Asfalt/dk Black 7272   Medium para Mujer](https://www.amazon.es/dp/B0711C1NRR/?tag=tolees-21) con 75.46 de descuento por 19.62 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Puma Basket Platform Perf Gum  Zapatillas para Mujer  Negro Black White-Gold  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077M6DFGQ/?tag=tolees-21'
+descuento: '77.55'
+titulo: 'Puma Basket Platform Perf Gum  Zapatilla'
 ---
 
 Ahora mismo tienes [Puma Basket Platform Perf Gum  Zapatillas para Mujer  Negro Black White-Gold  38 EU](https://www.amazon.es/dp/B077M6DFGQ/?tag=tolees-21) a 24.68 EUR (original: 109.95 EUR) (77.55 %  de descuento) en el siguiente enlace!

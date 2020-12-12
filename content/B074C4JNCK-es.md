@@ -17,6 +17,9 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'LANGRIA Silla Racing de Oficina Giratoria Piel Sintética Respaldo Ergonómico Alto Soporte Lumbar Reposabrazos Capacidad 120 kg para Estudiantes Estudio Oficina Hogar  Modelo LROC-71984  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074C4JNCK/?tag=tolees-21'
+descuento: '46.67'
+titulo: 'LANGRIA Silla Racing de Oficina Giratori'
 ---
 
 Tienes [LANGRIA Silla Racing de Oficina Giratoria Piel Sintética Respaldo Ergonómico Alto Soporte Lumbar Reposabrazos Capacidad 120 kg para Estudiantes Estudio Oficina Hogar  Modelo LROC-71984  Negro ](https://www.amazon.es/dp/B074C4JNCK/?tag=tolees-21) con un 46.67 % de descuento con precio de oferta de 79.99 EUR (original: 149.99 EUR) en el siguiente enlace!

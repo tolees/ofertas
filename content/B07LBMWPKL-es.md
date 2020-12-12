@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Napapijri Moto Stretch S2 Pantalones  Gris  Lt Grey Solid 797   34 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBMWPKL/?tag=tolees-21'
+descuento: '50.55'
+titulo: 'Napapijri Moto Stretch S2 Pantalones  Gr'
 ---
 
 Está [Napapijri Moto Stretch S2 Pantalones  Gris  Lt Grey Solid 797   34 para Hombre](https://www.amazon.es/dp/B07LBMWPKL/?tag=tolees-21) con 50.55 de descuento por 58.85 EUR (original: 119 EUR) en el siguiente enlace!

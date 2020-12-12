@@ -17,6 +17,9 @@ comparePrice: 360 EUR
 inStock: true
 prodname: 'Star vie Basalto 2018 Pala de pádel  Hombre  Negro/Azul  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079ZXC15F/?tag=tolees-21'
+descuento: '55.56'
+titulo: 'Star vie Basalto 2018 Pala de pádel  Hom'
 ---
 
 Está [Star vie Basalto 2018 Pala de pádel  Hombre  Negro/Azul  Talla Única](https://www.amazon.es/dp/B079ZXC15F/?tag=tolees-21) con 55.56 de descuento por 159.99 EUR (original: 360 EUR) en el siguiente enlace!

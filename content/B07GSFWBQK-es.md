@@ -17,6 +17,9 @@ comparePrice: 31.74 EUR
 inStock: true
 prodname: 'NIVEA Leche Limpiadora Suave  para Piel Seca y Sensible - 200 ml - 6 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GSFWBQK/?tag=tolees-21'
+descuento: '47.61'
+titulo: 'NIVEA Leche Limpiadora Suave  para Piel '
 ---
 
 Está [NIVEA Leche Limpiadora Suave  para Piel Seca y Sensible - 200 ml - 6 unidades](https://www.amazon.es/dp/B07GSFWBQK/?tag=tolees-21) con 47.61 de descuento por 16.63 EUR (original: 31.74 EUR) en el siguiente enlace!

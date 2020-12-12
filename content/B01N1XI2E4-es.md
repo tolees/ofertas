@@ -17,6 +17,9 @@ comparePrice: 220 EUR
 inStock: true
 prodname: 'Helly Hansen Pier Jacket  Hombre  Alert Red  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1XI2E4/?tag=tolees-21'
+descuento: '52.08'
+titulo: 'Helly Hansen Pier Jacket  Hombre  Alert '
 ---
 
 Ahora mismo tienes [Helly Hansen Pier Jacket  Hombre  Alert Red  S](https://www.amazon.es/dp/B01N1XI2E4/?tag=tolees-21) a 105.43 EUR (original: 220 EUR) (52.08 %  de descuento) en el siguiente enlace!

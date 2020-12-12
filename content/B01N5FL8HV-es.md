@@ -17,6 +17,9 @@ comparePrice: 189.99 EUR
 inStock: true
 prodname: 'Sorel Joan of Arctic  Botas para Mujer  Verde  Nori  Dark Stone 383   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5FL8HV/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'Sorel Joan of Arctic  Botas para Mujer  '
 ---
 
 Ahora mismo tienes [Sorel Joan of Arctic  Botas para Mujer  Verde  Nori  Dark Stone 383   38.5 EU](https://www.amazon.es/dp/B01N5FL8HV/?tag=tolees-21) a 113.95 EUR (original: 189.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

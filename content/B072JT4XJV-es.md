@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Osram Luminarias Móviles  0.4 W  Plateada  3.6 x 10.8 x 4.2 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072JT4XJV/?tag=tolees-21'
+descuento: '36.37'
+titulo: 'Osram Luminarias Móviles  0.4 W  Platead'
 ---
 
 Está [Osram Luminarias Móviles  0.4 W  Plateada  3.6 x 10.8 x 4.2 cm](https://www.amazon.es/dp/B072JT4XJV/?tag=tolees-21) con 36.37 de descuento por 8.24 EUR (original: 12.95 EUR) en el siguiente enlace!

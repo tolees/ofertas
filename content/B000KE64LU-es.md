@@ -17,6 +17,9 @@ comparePrice: 124.95 EUR
 inStock: true
 prodname: 'Puma King Top Di Fg - Botas de fútbol de piel para hombre  Black-White-Team Gold 1  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000KE64LU/?tag=tolees-21'
+descuento: '73.91'
+titulo: 'Puma King Top Di Fg - Botas de fútbol de'
 ---
 
 Está [Puma King Top Di Fg - Botas de fútbol de piel para hombre  Black-White-Team Gold 1  37 EU](https://www.amazon.es/dp/B000KE64LU/?tag=tolees-21) con 73.91 de descuento por 32.6 EUR (original: 124.95 EUR) en el siguiente enlace!

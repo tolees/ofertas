@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Dakine Eq Duffle Bolsa de Deporte  29 cm  35 litros  Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078VH9QDK/?tag=tolees-21'
+descuento: '46.67'
+titulo: 'Dakine Eq Duffle Bolsa de Deporte  29 cm'
 ---
 
 Tienes [Dakine Eq Duffle Bolsa de Deporte  29 cm  35 litros  Black](https://www.amazon.es/dp/B078VH9QDK/?tag=tolees-21) con un 46.67 % de descuento con precio de oferta de 24 EUR (original: 45 EUR) en el siguiente enlace!

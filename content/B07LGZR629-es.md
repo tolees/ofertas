@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'The North Face Surgent Halfdome Sudadera con Capucha  Hombre  Negro  TNF Black/Zinnia Orange   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LGZR629/?tag=tolees-21'
+descuento: '27.93'
+titulo: 'The North Face Surgent Halfdome Sudadera'
 ---
 
 Tienes [The North Face Surgent Halfdome Sudadera con Capucha  Hombre  Negro  TNF Black/Zinnia Orange   S](https://www.amazon.es/dp/B07LGZR629/?tag=tolees-21) con un 27.93 % de descuento con precio de oferta de 50.45 EUR (original: 70 EUR) en el siguiente enlace!

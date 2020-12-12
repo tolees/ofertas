@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Only Onlbilla L/s Cardigan Jrs  Chaqueta Punto Mujer  Marrón  Dark Grey Melange Dark Melange   36  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJPKYF4/?tag=tolees-21'
+descuento: '76.14'
+titulo: 'Only Onlbilla L/s Cardigan Jrs  Chaqueta'
 ---
 
 Ahora mismo tienes [Only Onlbilla L/s Cardigan Jrs  Chaqueta Punto Mujer  Marrón  Dark Grey Melange Dark Melange   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07DJPKYF4/?tag=tolees-21) a 6.44 EUR (original: 26.99 EUR) (76.14 %  de descuento) en el siguiente enlace!

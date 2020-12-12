@@ -17,6 +17,9 @@ comparePrice: 19.51 EUR
 inStock: true
 prodname: 'Milan P1-Touch - Bolígrafos engomados de color  24 unidades '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SHKW7PG/?tag=tolees-21'
+descuento: '96.98'
+titulo: 'Milan P1-Touch - Bolígrafos engomados de'
 ---
 
 Está [Milan P1-Touch - Bolígrafos engomados de color  24 unidades ](https://www.amazon.es/dp/B00SHKW7PG/?tag=tolees-21) con 96.98 de descuento por 0.59 EUR (original: 19.51 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Tom Tailor 5881902  Botas Clasicas para Hombre  Gris  Grey 00011   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079HCZ5CC/?tag=tolees-21'
+descuento: '60.77'
+titulo: 'Tom Tailor 5881902  Botas Clasicas para '
 ---
 
 Tienes [Tom Tailor 5881902  Botas Clasicas para Hombre  Gris  Grey 00011   46 EU](https://www.amazon.es/dp/B079HCZ5CC/?tag=tolees-21) con un 60.77 % de descuento con precio de oferta de 23.52 EUR (original: 59.95 EUR) en el siguiente enlace!

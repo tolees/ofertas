@@ -17,6 +17,9 @@ comparePrice: 24.82 EUR
 inStock: true
 prodname: 'SaintderG® Fundas para sillas Pack de 4 Fundas sillas Comedor  Lavable Extraíble Comedor Extraíble Funda  Duradera Modern Bouquet de la Boda  Hotel  Decor Restaurante  Negro  Pack de 4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BSFTFXJ/?tag=tolees-21'
+descuento: '27.52'
+titulo: 'SaintderG® Fundas para sillas Pack de 4 '
 ---
 
 Está [SaintderG® Fundas para sillas Pack de 4 Fundas sillas Comedor  Lavable Extraíble Comedor Extraíble Funda  Duradera Modern Bouquet de la Boda  Hotel  Decor Restaurante  Negro  Pack de 4 ](https://www.amazon.es/dp/B07BSFTFXJ/?tag=tolees-21) con 27.52 de descuento por 17.99 EUR (original: 24.82 EUR) en el siguiente enlace!

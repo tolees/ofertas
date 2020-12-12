@@ -17,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'Ray-Ban RB 3016 Gafas de sol  Shiny Red/Havana  51 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EKD2MSU/?tag=tolees-21'
+descuento: '34.30'
+titulo: 'Ray-Ban RB 3016 Gafas de sol  Shiny Red/'
 ---
 
 Tienes [Ray-Ban RB 3016 Gafas de sol  Shiny Red/Havana  51 para Hombre](https://www.amazon.es/dp/B01EKD2MSU/?tag=tolees-21) con un 34.30 % de descuento con precio de oferta de 117.61 EUR (original: 179 EUR) en el siguiente enlace!

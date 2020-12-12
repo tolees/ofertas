@@ -17,6 +17,9 @@ comparePrice: 57 EUR
 inStock: true
 prodname: 'FIND Botín Stretch Mujer  Rosa  Rose   37'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071FJSTFN/?tag=tolees-21'
+descuento: '36.91'
+titulo: 'FIND Botín Stretch Mujer  Rosa  Rose   3'
 ---
 
 Ahora mismo tienes [FIND Botín Stretch Mujer  Rosa  Rose   37](https://www.amazon.es/dp/B071FJSTFN/?tag=tolees-21) a 35.96 EUR (original: 57 EUR) (36.91 %  de descuento) en el siguiente enlace!

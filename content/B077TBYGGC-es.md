@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Refresh 64303  Sandalias con Punta Abierta para Mujer  Plateado  Silver   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TBYGGC/?tag=tolees-21'
+descuento: '71.69'
+titulo: 'Refresh 64303  Sandalias con Punta Abier'
 ---
 
 Ahora mismo tienes [Refresh 64303  Sandalias con Punta Abierta para Mujer  Plateado  Silver   36 EU](https://www.amazon.es/dp/B077TBYGGC/?tag=tolees-21) a 8.48 EUR (original: 29.95 EUR) (71.69 %  de descuento) en el siguiente enlace!

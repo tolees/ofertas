@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Asics Gel-Pulse 9  Zapatillas de Running para Hombre  Rojo  Classic Red/Silver/Black 2393   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078MH2FKW/?tag=tolees-21'
+descuento: '35.00'
+titulo: 'Asics Gel-Pulse 9  Zapatillas de Running'
 ---
 
 Ahora mismo tienes [Asics Gel-Pulse 9  Zapatillas de Running para Hombre  Rojo  Classic Red/Silver/Black 2393   42.5 EU](https://www.amazon.es/dp/B078MH2FKW/?tag=tolees-21) a 65 EUR (original: 100 EUR) (35.00 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Go Walk 4-Privilege  Zapatillas sin Cordones para Mujer  Morado  Mauve MVE   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVGB8XS/?tag=tolees-21'
+descuento: '59.35'
+titulo: 'Skechers Go Walk 4-Privilege  Zapatillas'
 ---
 
 Tienes [Skechers Go Walk 4-Privilege  Zapatillas sin Cordones para Mujer  Morado  Mauve MVE   38.5 EU](https://www.amazon.es/dp/B07CVGB8XS/?tag=tolees-21) con un 59.35 % de descuento con precio de oferta de 26.4 EUR (original: 64.95 EUR) en el siguiente enlace!

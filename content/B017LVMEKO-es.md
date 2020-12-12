@@ -17,6 +17,9 @@ comparePrice: 219 EUR
 inStock: true
 prodname: 'EnGenius EnStationAC - Punto de Acceso  5GHz  802.11ac  Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017LVMEKO/?tag=tolees-21'
+descuento: '46.61'
+titulo: 'EnGenius EnStationAC - Punto de Acceso  '
 ---
 
 Ahora mismo tienes [EnGenius EnStationAC - Punto de Acceso  5GHz  802.11ac  Color Blanco](https://www.amazon.es/dp/B017LVMEKO/?tag=tolees-21) a 116.92 EUR (original: 219 EUR) (46.61 %  de descuento) en el siguiente enlace!

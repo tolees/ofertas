@@ -17,6 +17,9 @@ comparePrice: 16.9 EUR
 inStock: true
 prodname: 'Touchlines Evolution Fussball  Camiseta para Hombre  Gris  Heathergrey 12  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BNF9UQA/?tag=tolees-21'
+descuento: '66.92'
+titulo: 'Touchlines Evolution Fussball  Camiseta '
 ---
 
 Está [Touchlines Evolution Fussball  Camiseta para Hombre  Gris  Heathergrey 12  Small](https://www.amazon.es/dp/B01BNF9UQA/?tag=tolees-21) con 66.92 de descuento por 5.59 EUR (original: 16.9 EUR) en el siguiente enlace!

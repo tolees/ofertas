@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Chk Shirt L/s  Blusa para Niños  Amarillo  Freesia 14-0852 708   152  Talla del Fabricante: 12 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075B33FBT/?tag=tolees-21'
+descuento: '67.00'
+titulo: 'Tommy Hilfiger Chk Shirt L/s  Blusa para'
 ---
 
 Tienes [Tommy Hilfiger Chk Shirt L/s  Blusa para Niños  Amarillo  Freesia 14-0852 708   152  Talla del Fabricante: 12 ](https://www.amazon.es/dp/B075B33FBT/?tag=tolees-21) con un 67.00 % de descuento con precio de oferta de 23.07 EUR (original: 69.9 EUR) en el siguiente enlace!

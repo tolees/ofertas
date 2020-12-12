@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'TopDirect 4PCS 75 x 60 x 55mm bisagras de hierro mesa patas de cama plegable de extensión de bloqueo lateral freno soporte con tornillos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075K5KNV8/?tag=tolees-21'
+descuento: '37.41'
+titulo: 'TopDirect 4PCS 75 x 60 x 55mm bisagras d'
 ---
 
 Está [TopDirect 4PCS 75 x 60 x 55mm bisagras de hierro mesa patas de cama plegable de extensión de bloqueo lateral freno soporte con tornillos](https://www.amazon.es/dp/B075K5KNV8/?tag=tolees-21) con 37.41 de descuento por 14.39 EUR (original: 22.99 EUR) en el siguiente enlace!

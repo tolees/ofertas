@@ -17,6 +17,9 @@ comparePrice: 97.41 EUR
 inStock: true
 prodname: 'resol Rita Set Infantil  1 Mesa Roja + 4 Sillas Rosa/Naranja/Azul/Lima'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075VDSMH3/?tag=tolees-21'
+descuento: '42.04'
+titulo: 'resol Rita Set Infantil  1 Mesa Roja + 4'
 ---
 
 Tienes [resol Rita Set Infantil  1 Mesa Roja + 4 Sillas Rosa/Naranja/Azul/Lima](https://www.amazon.es/dp/B075VDSMH3/?tag=tolees-21) con un 42.04 % de descuento con precio de oferta de 56.46 EUR (original: 97.41 EUR) en el siguiente enlace!

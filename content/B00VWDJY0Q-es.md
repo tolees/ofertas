@@ -17,6 +17,9 @@ comparePrice: 14.92 EUR
 inStock: true
 prodname: 'Hasbro - Amiguitas My Little Pony surtido: modelos aleatorios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VWDJY0Q/?tag=tolees-21'
+descuento: '60.12'
+titulo: 'Hasbro - Amiguitas My Little Pony surtid'
 ---
 
 Tienes [Hasbro - Amiguitas My Little Pony surtido: modelos aleatorios](https://www.amazon.es/dp/B00VWDJY0Q/?tag=tolees-21) con un 60.12 % de descuento con precio de oferta de 5.95 EUR (original: 14.92 EUR) en el siguiente enlace!

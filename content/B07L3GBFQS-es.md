@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Hilfiger Denim Tommy Jeans Rubber Beach Sandal  Chanclas para Hombre  Negro  Black 990   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3GBFQS/?tag=tolees-21'
+descuento: '48.93'
+titulo: 'Hilfiger Denim Tommy Jeans Rubber Beach '
 ---
 
 Está [Hilfiger Denim Tommy Jeans Rubber Beach Sandal  Chanclas para Hombre  Negro  Black 990   44 EU](https://www.amazon.es/dp/B07L3GBFQS/?tag=tolees-21) con 48.93 de descuento por 15.27 EUR (original: 29.9 EUR) en el siguiente enlace!

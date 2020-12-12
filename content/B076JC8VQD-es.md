@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'FREDI IP Cámara Cámara Espía/Oculta HD 1080P Spy Mini Wifi Cámara P2P Portátil Inalámbrico / Detección de Movimiento Cámara de Vigilancia Admite tarjeta de hasta 128 GB no incluye  camara de seguridad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076JC8VQD/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'FREDI IP Cámara Cámara Espía/Oculta HD 1'
 ---
 
 Tienes [FREDI IP Cámara Cámara Espía/Oculta HD 1080P Spy Mini Wifi Cámara P2P Portátil Inalámbrico / Detección de Movimiento Cámara de Vigilancia Admite tarjeta de hasta 128 GB no incluye  camara de seguridad](https://www.amazon.es/dp/B076JC8VQD/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

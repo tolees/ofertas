@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Desigual TS_Irisa  Camiseta para Mujer   Negro 2000   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XQ1MP98/?tag=tolees-21'
+descuento: '31.91'
+titulo: 'Desigual TS_Irisa  Camiseta para Mujer  '
 ---
 
 Tienes [Desigual TS_Irisa  Camiseta para Mujer   Negro 2000   Medium](https://www.amazon.es/dp/B06XQ1MP98/?tag=tolees-21) con un 31.91 % de descuento con precio de oferta de 27.2 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Nike Dualtone Racer  Zapatillas de Gimnasia para Hombre  Gris  Light Bone/Medium Olive/Amaril 016   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BYIV0X8/?tag=tolees-21'
+descuento: '55.96'
+titulo: 'Nike Dualtone Racer  Zapatillas de Gimna'
 ---
 
 Ahora mismo tienes [Nike Dualtone Racer  Zapatillas de Gimnasia para Hombre  Gris  Light Bone/Medium Olive/Amaril 016   44.5 EU](https://www.amazon.es/dp/B00BYIV0X8/?tag=tolees-21) a 39.64 EUR (original: 90 EUR) (55.96 %  de descuento) en el siguiente enlace!

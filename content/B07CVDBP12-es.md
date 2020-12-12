@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'HUGO Elisha01 Camisa  Rojo  Bright Red 622   Large  Talla del Fabricante: 43  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVDBP12/?tag=tolees-21'
+descuento: '69.54'
+titulo: 'HUGO Elisha01 Camisa  Rojo  Bright Red 6'
 ---
 
 Está [HUGO Elisha01 Camisa  Rojo  Bright Red 622   Large  Talla del Fabricante: 43  para Hombre](https://www.amazon.es/dp/B07CVDBP12/?tag=tolees-21) con 69.54 de descuento por 27.4 EUR (original: 89.95 EUR) en el siguiente enlace!

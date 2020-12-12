@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Ultrasport 1318-140 - Camiseta de Manga Corta y Cuello de Pico  para el Deporte y el Ocio  Lote de 5  para Hombre  Color Verde  Talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011BAHFXW/?tag=tolees-21'
+descuento: '27.36'
+titulo: 'Ultrasport 1318-140 - Camiseta de Manga '
 ---
 
 Ahora mismo tienes [Ultrasport 1318-140 - Camiseta de Manga Corta y Cuello de Pico  para el Deporte y el Ocio  Lote de 5  para Hombre  Color Verde  Talla M](https://www.amazon.es/dp/B011BAHFXW/?tag=tolees-21) a 29.05 EUR (original: 39.99 EUR) (27.36 %  de descuento) en el siguiente enlace!

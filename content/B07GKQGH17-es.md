@@ -17,6 +17,9 @@ comparePrice: 299.99 EUR
 inStock: true
 prodname: 'M MEGAWHEELS 6.5" Monopatin Electrico con Bluetooth y 500W Motor - Bolsa Incluida  Spaceship '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GKQGH17/?tag=tolees-21'
+descuento: '53.67'
+titulo: 'M MEGAWHEELS 6.5" Monopatin Electrico co'
 ---
 
 Tienes [M MEGAWHEELS 6.5" Monopatin Electrico con Bluetooth y 500W Motor - Bolsa Incluida  Spaceship ](https://www.amazon.es/dp/B07GKQGH17/?tag=tolees-21) con un 53.67 % de descuento con precio de oferta de 139 EUR (original: 299.99 EUR) en el siguiente enlace!

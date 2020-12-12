@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Vans Old Skool Zip  Zapatillas Unisex Adulto  Verde  mlx  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LVVJ7SV/?tag=tolees-21'
+descuento: '77.14'
+titulo: 'Vans Old Skool Zip  Zapatillas Unisex Ad'
 ---
 
 Ahora mismo tienes [Vans Old Skool Zip  Zapatillas Unisex Adulto  Verde  mlx  37 EU](https://www.amazon.es/dp/B01LVVJ7SV/?tag=tolees-21) a 21.72 EUR (original: 95 EUR) (77.14 %  de descuento) en el siguiente enlace!

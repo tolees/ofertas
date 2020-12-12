@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Dend Swimshort Pantalones Cortos  Verde  Sage 724   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q7LNS6V/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'G-STAR RAW Dend Swimshort Pantalones Cor'
 ---
 
 Ahora mismo tienes [G-STAR RAW Dend Swimshort Pantalones Cortos  Verde  Sage 724   Small para Hombre](https://www.amazon.es/dp/B07Q7LNS6V/?tag=tolees-21) a 27.96 EUR (original: 39.95 EUR) (30.01 %  de descuento) en el siguiente enlace!

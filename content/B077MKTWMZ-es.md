@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma One 18.4 TT  Zapatillas de Fútbol para Hombre  Negro Black Silver-Red Blast  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MKTWMZ/?tag=tolees-21'
+descuento: '32.31'
+titulo: 'Puma One 18.4 TT  Zapatillas de Fútbol p'
 ---
 
 Ahora mismo tienes [Puma One 18.4 TT  Zapatillas de Fútbol para Hombre  Negro Black Silver-Red Blast  42 EU](https://www.amazon.es/dp/B077MKTWMZ/?tag=tolees-21) a 33.81 EUR (original: 49.95 EUR) (32.31 %  de descuento) en el siguiente enlace!

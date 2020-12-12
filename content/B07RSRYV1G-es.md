@@ -17,6 +17,9 @@ comparePrice: 514.68 EUR
 inStock: true
 prodname: 'Aire Acondicionado Johnson JT09K 2200 Fr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RSRYV1G/?tag=tolees-21'
+descuento: '27.86'
+titulo: 'Aire Acondicionado Johnson JT09K 2200 Fr'
 ---
 
 Ahora mismo tienes [Aire Acondicionado Johnson JT09K 2200 Fr](https://www.amazon.es/dp/B07RSRYV1G/?tag=tolees-21) a 371.28 EUR (original: 514.68 EUR) (27.86 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'San Ignacio Set Casual Batería de Cocina Gourmet  Aluminio prensado  Gris Oscuro  Cazo de Ø16 Ø20 sartén Grill de 28x28 Olla de Ø24 cms con Tapa de Vidrio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5FTN9W/?tag=tolees-21'
+descuento: '58.34'
+titulo: 'San Ignacio Set Casual Batería de Cocina'
 ---
 
 Tienes [San Ignacio Set Casual Batería de Cocina Gourmet  Aluminio prensado  Gris Oscuro  Cazo de Ø16 Ø20 sartén Grill de 28x28 Olla de Ø24 cms con Tapa de Vidrio](https://www.amazon.es/dp/B07D5FTN9W/?tag=tolees-21) con un 58.34 % de descuento con precio de oferta de 49.99 EUR (original: 120 EUR) en el siguiente enlace!

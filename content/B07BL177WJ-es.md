@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Arishi  Zapatillas de Running para Hombre  Verde  Green/Silver Rr2   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL177WJ/?tag=tolees-21'
+descuento: '59.12'
+titulo: 'New Balance Fresh Foam Arishi  Zapatilla'
 ---
 
 Está [New Balance Fresh Foam Arishi  Zapatillas de Running para Hombre  Verde  Green/Silver Rr2   42.5 EU](https://www.amazon.es/dp/B07BL177WJ/?tag=tolees-21) con 59.12 de descuento por 34.75 EUR (original: 85 EUR) en el siguiente enlace!

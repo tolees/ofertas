@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'BILLABONG Distant Highway Blusa  Mujer  Negro  Black 19   X-Small  Tamaño del Fabricante:XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1FSFPC/?tag=tolees-21'
+descuento: '54.78'
+titulo: 'BILLABONG Distant Highway Blusa  Mujer  '
 ---
 
 Ahora mismo tienes [BILLABONG Distant Highway Blusa  Mujer  Negro  Black 19   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07F1FSFPC/?tag=tolees-21) a 24.87 EUR (original: 55 EUR) (54.78 %  de descuento) en el siguiente enlace!

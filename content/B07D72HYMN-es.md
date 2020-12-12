@@ -17,6 +17,9 @@ comparePrice: 175 EUR
 inStock: true
 prodname: 'Versace Jeans Man Trouser  Vaqueros Slim para Hombre  Azul  Indigo E904  40  Talla del Fabricante: 31 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D72HYMN/?tag=tolees-21'
+descuento: '60.37'
+titulo: 'Versace Jeans Man Trouser  Vaqueros Slim'
 ---
 
 Está [Versace Jeans Man Trouser  Vaqueros Slim para Hombre  Azul  Indigo E904  40  Talla del Fabricante: 31 ](https://www.amazon.es/dp/B07D72HYMN/?tag=tolees-21) con 60.37 de descuento por 69.36 EUR (original: 175 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'Lico Bongo Vs  Zapatillas Unisex niños  Gris Grau/Schwarz  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNRLLKL/?tag=tolees-21'
+descuento: '65.84'
+titulo: 'Lico Bongo Vs  Zapatillas Unisex niños  '
 ---
 
 Está [Lico Bongo Vs  Zapatillas Unisex niños  Gris Grau/Schwarz  37 EU](https://www.amazon.es/dp/B07DNRLLKL/?tag=tolees-21) con 65.84 de descuento por 12.28 EUR (original: 35.95 EUR) en el siguiente enlace!

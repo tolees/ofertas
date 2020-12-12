@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Hummel Aerocharge HB 200 2.0 WS  Zapatillas de Deporte Interior para Mujer  Blanco  White 9001   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FK39CP7/?tag=tolees-21'
+descuento: '67.78'
+titulo: 'Hummel Aerocharge HB 200 2.0 WS  Zapatil'
 ---
 
 Ahora mismo tienes [Hummel Aerocharge HB 200 2.0 WS  Zapatillas de Deporte Interior para Mujer  Blanco  White 9001   42 EU](https://www.amazon.es/dp/B07FK39CP7/?tag=tolees-21) a 32.2 EUR (original: 99.95 EUR) (67.78 %  de descuento) en el siguiente enlace!

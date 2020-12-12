@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'YUNTAB Videocámara W9 WiFi de Acción-12Mp Pantalla de 2" Video de Alta definición 1080p Full HD  Sumergible hasta 30m  Incluye múltiples Accesorios  Silver '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071G2T7LQ/?tag=tolees-21'
+descuento: '56.68'
+titulo: 'YUNTAB Videocámara W9 WiFi de Acción-12M'
 ---
 
 Ahora mismo tienes [YUNTAB Videocámara W9 WiFi de Acción-12Mp Pantalla de 2" Video de Alta definición 1080p Full HD  Sumergible hasta 30m  Incluye múltiples Accesorios  Silver ](https://www.amazon.es/dp/B071G2T7LQ/?tag=tolees-21) a 25.99 EUR (original: 59.99 EUR) (56.68 %  de descuento) en el siguiente enlace!

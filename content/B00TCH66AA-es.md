@@ -17,6 +17,9 @@ comparePrice: 42.95 EUR
 inStock: true
 prodname: 'Casals C01249000 Atornillador a batería de litio  3.6 W  3.6 V  Multicolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TCH66AA/?tag=tolees-21'
+descuento: '53.46'
+titulo: 'Casals C01249000 Atornillador a batería '
 ---
 
 Tienes [Casals C01249000 Atornillador a batería de litio  3.6 W  3.6 V  Multicolor](https://www.amazon.es/dp/B00TCH66AA/?tag=tolees-21) con un 53.46 % de descuento con precio de oferta de 19.99 EUR (original: 42.95 EUR) en el siguiente enlace!

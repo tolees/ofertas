@@ -17,6 +17,9 @@ comparePrice: 34 EUR
 inStock: true
 prodname: 'FIND Vaqueros Recto Hombre   Negro  Black   W33/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07583LWPM/?tag=tolees-21'
+descuento: '29.41'
+titulo: 'FIND Vaqueros Recto Hombre   Negro  Blac'
 ---
 
 Ahora mismo tienes [FIND Vaqueros Recto Hombre   Negro  Black   W33/L34](https://www.amazon.es/dp/B07583LWPM/?tag=tolees-21) a 24 EUR (original: 34 EUR) (29.41 %  de descuento) en el siguiente enlace!

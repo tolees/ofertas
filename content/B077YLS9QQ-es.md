@@ -17,6 +17,9 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'HIKARO Pantalón Capri Estilo Jogger Mujer  Verde  Khaki   42  Talla del fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YLS9QQ/?tag=tolees-21'
+descuento: '62.40'
+titulo: 'HIKARO Pantalón Capri Estilo Jogger Muje'
 ---
 
 Ahora mismo tienes [HIKARO Pantalón Capri Estilo Jogger Mujer  Verde  Khaki   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B077YLS9QQ/?tag=tolees-21) a 8.63 EUR (original: 22.95 EUR) (62.40 %  de descuento) en el siguiente enlace!

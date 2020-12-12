@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Arae Funda Xiaomi Mi A2 Lite/Xiaomi Redmi 6 Pro  Funda Libro de Cuero con Tapa [Ranuras de Tarjeta Cierre Magnético Soporte Plegable] Funda Protectora PU para Xiaomi Mi A2 Lite/Redmi 6 Pro - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HMTRPFB/?tag=tolees-21'
+descuento: '54.57'
+titulo: 'Arae Funda Xiaomi Mi A2 Lite/Xiaomi Redm'
 ---
 
 Está [Arae Funda Xiaomi Mi A2 Lite/Xiaomi Redmi 6 Pro  Funda Libro de Cuero con Tapa [Ranuras de Tarjeta Cierre Magnético Soporte Plegable] Funda Protectora PU para Xiaomi Mi A2 Lite/Redmi 6 Pro - Negro](https://www.amazon.es/dp/B07HMTRPFB/?tag=tolees-21) con 54.57 de descuento por 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!

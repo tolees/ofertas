@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Lijadora Orbital  TECCPO Lijadora Eléctrica 14500 OPM  210W Motor de Cobre Fino  12 Hojas de Papel de Lija  con Bolsa de Polvo Reciclable - TASS23P'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R2JV22T/?tag=tolees-21'
+descuento: '90.01'
+titulo: 'Lijadora Orbital  TECCPO Lijadora Eléctr'
 ---
 
 Está [Lijadora Orbital  TECCPO Lijadora Eléctrica 14500 OPM  210W Motor de Cobre Fino  12 Hojas de Papel de Lija  con Bolsa de Polvo Reciclable - TASS23P](https://www.amazon.es/dp/B07R2JV22T/?tag=tolees-21) con 90.01 de descuento por 9.99 EUR (original: 99.99 EUR) en el siguiente enlace!

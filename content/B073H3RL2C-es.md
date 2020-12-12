@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Tom Tailor Denim Overdyed Sweatpant  Pantalones para Hombre  Verde  Woodland Green 7807   50  Talla del Fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073H3RL2C/?tag=tolees-21'
+descuento: '57.27'
+titulo: 'Tom Tailor Denim Overdyed Sweatpant  Pan'
 ---
 
 Tienes [Tom Tailor Denim Overdyed Sweatpant  Pantalones para Hombre  Verde  Woodland Green 7807   50  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B073H3RL2C/?tag=tolees-21) con un 57.27 % de descuento con precio de oferta de 15.38 EUR (original: 35.99 EUR) en el siguiente enlace!

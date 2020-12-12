@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Women’secret Bañador  Negro  Black 1   40  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078T4GGG8/?tag=tolees-21'
+descuento: '58.39'
+titulo: 'Women’secret Bañador  Negro  Black 1   4'
 ---
 
 Tienes [Women’secret Bañador  Negro  Black 1   40  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B078T4GGG8/?tag=tolees-21) con un 58.39 % de descuento con precio de oferta de 18.72 EUR (original: 44.99 EUR) en el siguiente enlace!

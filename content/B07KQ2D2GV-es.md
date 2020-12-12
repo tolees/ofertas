@@ -17,6 +17,9 @@ comparePrice: 52.79 EUR
 inStock: true
 prodname: 'DC Shoes Star Hoody Sweat Fleece Top  Hombre  Racing Red  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQ2D2GV/?tag=tolees-21'
+descuento: '44.21'
+titulo: 'DC Shoes Star Hoody Sweat Fleece Top  Ho'
 ---
 
 Ahora mismo tienes [DC Shoes Star Hoody Sweat Fleece Top  Hombre  Racing Red  XL](https://www.amazon.es/dp/B07KQ2D2GV/?tag=tolees-21) a 29.45 EUR (original: 52.79 EUR) (44.21 %  de descuento) en el siguiente enlace!

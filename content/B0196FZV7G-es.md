@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Vs Advantage  Zapatillas de Deporte para Hombre  Blanco  Footwear White/Blue/Power Red 0   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0196FZV7G/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Vs Advantage  Zapatillas de Depor'
 ---
 
 Ahora mismo tienes [adidas Vs Advantage  Zapatillas de Deporte para Hombre  Blanco  Footwear White/Blue/Power Red 0   40 EU](https://www.amazon.es/dp/B0196FZV7G/?tag=tolees-21) a 24.98 EUR (original: 49.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 179.95 EUR
 inStock: true
 prodname: 'Cbx Etu 518002487 Silla de Paseo  0-15 kg  con Cubierta para Lluvia  Rojo  Crunchy Red '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079T3VG2X/?tag=tolees-21'
+descuento: '44.98'
+titulo: 'Cbx Etu 518002487 Silla de Paseo  0-15 k'
 ---
 
 Tienes [Cbx Etu 518002487 Silla de Paseo  0-15 kg  con Cubierta para Lluvia  Rojo  Crunchy Red ](https://www.amazon.es/dp/B079T3VG2X/?tag=tolees-21) con un 44.98 % de descuento con precio de oferta de 99 EUR (original: 179.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 151.15 EUR
 inStock: true
 prodname: 'Relaxdays – Mesa Baja  2 estantes  Cristal Transparente  Tablero  Patas de Acero Inoxidable  100 x 60 x 43 cm  Transparente'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYQK1R7/?tag=tolees-21'
+descuento: '45.54'
+titulo: 'Relaxdays – Mesa Baja  2 estantes  Crist'
 ---
 
 Tienes [Relaxdays – Mesa Baja  2 estantes  Cristal Transparente  Tablero  Patas de Acero Inoxidable  100 x 60 x 43 cm  Transparente](https://www.amazon.es/dp/B07FYQK1R7/?tag=tolees-21) con un 45.54 % de descuento con precio de oferta de 82.32 EUR (original: 151.15 EUR) en el siguiente enlace!

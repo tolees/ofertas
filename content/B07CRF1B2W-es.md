@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Emanuel  Polo para Niños    Multi Bleu 0aa  5 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRF1B2W/?tag=tolees-21'
+descuento: '73.73'
+titulo: 'Pepe Jeans Emanuel  Polo para Niños    M'
 ---
 
 Está [Pepe Jeans Emanuel  Polo para Niños    Multi Bleu 0aa  5 años](https://www.amazon.es/dp/B07CRF1B2W/?tag=tolees-21) con 73.73 de descuento por 13.11 EUR (original: 49.9 EUR) en el siguiente enlace!

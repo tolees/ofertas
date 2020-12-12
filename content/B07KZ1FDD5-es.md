@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Springfield 4.Pc.Collar Beads Jersey  Mujer  Blanco  Blanco 99   X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1FDD5/?tag=tolees-21'
+descuento: '63.48'
+titulo: 'Springfield 4.Pc.Collar Beads Jersey  Mu'
 ---
 
 Está [Springfield 4.Pc.Collar Beads Jersey  Mujer  Blanco  Blanco 99   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KZ1FDD5/?tag=tolees-21) con 63.48 de descuento por 7.3 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.45 EUR
 inStock: true
 prodname: 'Plano KT500TB Rodillera Roja Negra 0'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000XDRSTU/?tag=tolees-21'
+descuento: '29.38'
+titulo: 'Plano KT500TB Rodillera Roja Negra 0'
 ---
 
 Tienes [Plano KT500TB Rodillera Roja Negra 0](https://www.amazon.es/dp/B000XDRSTU/?tag=tolees-21) con un 29.38 % de descuento con precio de oferta de 38.45 EUR (original: 54.45 EUR) en el siguiente enlace!

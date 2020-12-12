@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Skechers Windom  Botas para Mujer  Negro  Black   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XKZZK2N/?tag=tolees-21'
+descuento: '40.50'
+titulo: 'Skechers Windom  Botas para Mujer  Negro'
 ---
 
 Ahora mismo tienes [Skechers Windom  Botas para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B06XKZZK2N/?tag=tolees-21) a 59.47 EUR (original: 99.95 EUR) (40.50 %  de descuento) en el siguiente enlace!

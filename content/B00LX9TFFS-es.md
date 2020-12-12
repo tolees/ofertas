@@ -17,6 +17,9 @@ comparePrice: 178.42 EUR
 inStock: true
 prodname: 'Azza GT 1 Full-Tower Negro - Caja de Ordenador  Full-Tower  PC  SECC  Negro  ATX EATX Micro ATX XL-ATX  Juego '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LX9TFFS/?tag=tolees-21'
+descuento: '47.52'
+titulo: 'Azza GT 1 Full-Tower Negro - Caja de Ord'
 ---
 
 Tienes [Azza GT 1 Full-Tower Negro - Caja de Ordenador  Full-Tower  PC  SECC  Negro  ATX EATX Micro ATX XL-ATX  Juego ](https://www.amazon.es/dp/B00LX9TFFS/?tag=tolees-21) con un 47.52 % de descuento con precio de oferta de 93.64 EUR (original: 178.42 EUR) en el siguiente enlace!

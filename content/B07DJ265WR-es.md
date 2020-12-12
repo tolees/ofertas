@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance Flash v3  Zapatillas de Running para Hombre  Negro  Black/Marblehead/White Lb3   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ265WR/?tag=tolees-21'
+descuento: '59.81'
+titulo: 'New Balance Flash v3  Zapatillas de Runn'
 ---
 
 Ahora mismo tienes [New Balance Flash v3  Zapatillas de Running para Hombre  Negro  Black/Marblehead/White Lb3   40.5 EU](https://www.amazon.es/dp/B07DJ265WR/?tag=tolees-21) a 28.13 EUR (original: 70 EUR) (59.81 %  de descuento) en el siguiente enlace!

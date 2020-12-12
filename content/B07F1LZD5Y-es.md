@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Levi s Modern Hm Hoodie  Capucha para Hombre  Negro  Black 0004  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1LZD5Y/?tag=tolees-21'
+descuento: '60.07'
+titulo: 'Levi s Modern Hm Hoodie  Capucha para Ho'
 ---
 
 Está [Levi s Modern Hm Hoodie  Capucha para Hombre  Negro  Black 0004  Medium](https://www.amazon.es/dp/B07F1LZD5Y/?tag=tolees-21) con 60.07 de descuento por 27.95 EUR (original: 70 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'G Skill F4-2133C15S-4GIS - Tarjeta de Memoria de 4 GB  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AIZOEDU/?tag=tolees-21'
+descuento: '33.35'
+titulo: 'G Skill F4-2133C15S-4GIS - Tarjeta de Me'
 ---
 
 Está [G Skill F4-2133C15S-4GIS - Tarjeta de Memoria de 4 GB  Color Negro](https://www.amazon.es/dp/B01AIZOEDU/?tag=tolees-21) con 33.35 de descuento por 15.99 EUR (original: 23.99 EUR) en el siguiente enlace!

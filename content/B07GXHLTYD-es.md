@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Nike W Nk Team Gym Bag  Mujer  Rojo  Ember Glow/Black   MISC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GXHLTYD/?tag=tolees-21'
+descuento: '43.00'
+titulo: 'Nike W Nk Team Gym Bag  Mujer  Rojo  Emb'
 ---
 
 Está [Nike W Nk Team Gym Bag  Mujer  Rojo  Ember Glow/Black   MISC](https://www.amazon.es/dp/B07GXHLTYD/?tag=tolees-21) con 43.00 de descuento por 17.1 EUR (original: 30 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'HOMELODY 2 funciones Grifo de cocina extraíble 360° Giratorio Grifo de Fregadero Monomando de Fregadero Grifería cocina Agua Fría y Caliente Cromado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078TTR6T8/?tag=tolees-21'
+descuento: '38.46'
+titulo: 'HOMELODY 2 funciones Grifo de cocina ext'
 ---
 
 Ahora mismo tienes [HOMELODY 2 funciones Grifo de cocina extraíble 360° Giratorio Grifo de Fregadero Monomando de Fregadero Grifería cocina Agua Fría y Caliente Cromado](https://www.amazon.es/dp/B078TTR6T8/?tag=tolees-21) a 79.99 EUR (original: 129.99 EUR) (38.46 %  de descuento) en el siguiente enlace!

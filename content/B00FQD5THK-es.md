@@ -17,6 +17,9 @@ comparePrice: 22.37 EUR
 inStock: true
 prodname: 'Bestway My First Fast Set Pool Piscina  150x38x75 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FQD5THK/?tag=tolees-21'
+descuento: '38.31'
+titulo: 'Bestway My First Fast Set Pool Piscina  '
 ---
 
 Ahora mismo tienes [Bestway My First Fast Set Pool Piscina  150x38x75 cm](https://www.amazon.es/dp/B00FQD5THK/?tag=tolees-21) a 13.8 EUR (original: 22.37 EUR) (38.31 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 41.6 EUR
 inStock: true
 prodname: 'SHIMANO Alivio RDM4000SGS - Cambio 9v.Shadow SGS Direct Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KPQC6LA/?tag=tolees-21'
+descuento: '31.73'
+titulo: 'SHIMANO Alivio RDM4000SGS - Cambio 9v.Sh'
 ---
 
 Tienes [SHIMANO Alivio RDM4000SGS - Cambio 9v.Shadow SGS Direct Negro](https://www.amazon.es/dp/B00KPQC6LA/?tag=tolees-21) con un 31.73 % de descuento con precio de oferta de 28.4 EUR (original: 41.6 EUR) en el siguiente enlace!

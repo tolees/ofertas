@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Downing suéter    Vert Woods 671   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CS9XSQX/?tag=tolees-21'
+descuento: '75.14'
+titulo: 'Pepe Jeans Downing suéter    Vert Woods '
 ---
 
 Está [Pepe Jeans Downing suéter    Vert Woods 671   Medium para Hombre](https://www.amazon.es/dp/B07CS9XSQX/?tag=tolees-21) con 75.14 de descuento por 17.38 EUR (original: 69.9 EUR) en el siguiente enlace!

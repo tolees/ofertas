@@ -17,6 +17,9 @@ comparePrice: 381.14 EUR
 inStock: true
 prodname: 'StarTech.com MST30C2HHPDU - Dock USB-C con MST para Monitores Duales - 5 Puertos USB 3.0 - Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078MQ92WN/?tag=tolees-21'
+descuento: '41.25'
+titulo: 'StarTech.com MST30C2HHPDU - Dock USB-C c'
 ---
 
 Ahora mismo tienes [StarTech.com MST30C2HHPDU - Dock USB-C con MST para Monitores Duales - 5 Puertos USB 3.0 - Color Negro](https://www.amazon.es/dp/B078MQ92WN/?tag=tolees-21) a 223.92 EUR (original: 381.14 EUR) (41.25 %  de descuento) en el siguiente enlace!

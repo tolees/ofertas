@@ -17,6 +17,9 @@ comparePrice: 33 EUR
 inStock: true
 prodname: 'David Jones - 5948-4  Bolsos de mano Mujer  Azul  P.Blue   16x21x31 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCKVY36/?tag=tolees-21'
+descuento: '45.76'
+titulo: 'David Jones - 5948-4  Bolsos de mano Muj'
 ---
 
 Está [David Jones - 5948-4  Bolsos de mano Mujer  Azul  P.Blue   16x21x31 cm  W x H L ](https://www.amazon.es/dp/B07KCKVY36/?tag=tolees-21) con 45.76 de descuento por 17.9 EUR (original: 33 EUR) en el siguiente enlace!

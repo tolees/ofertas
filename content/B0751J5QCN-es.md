@@ -17,6 +17,9 @@ comparePrice: 329 EUR
 inStock: true
 prodname: 'HUGO Migor2 Abrigo  Azul  Navy 410   Medium  Talla del Fabricante: 50  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0751J5QCN/?tag=tolees-21'
+descuento: '45.49'
+titulo: 'HUGO Migor2 Abrigo  Azul  Navy 410   Med'
 ---
 
 Tienes [HUGO Migor2 Abrigo  Azul  Navy 410   Medium  Talla del Fabricante: 50  para Hombre](https://www.amazon.es/dp/B0751J5QCN/?tag=tolees-21) con un 45.49 % de descuento con precio de oferta de 179.34 EUR (original: 329 EUR) en el siguiente enlace!

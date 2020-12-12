@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Converse Star Chevron Graphic Crew  Sudadera para Hombre  Gris  Vintage Grey Heather 035  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QFB8BS/?tag=tolees-21'
+descuento: '64.93'
+titulo: 'Converse Star Chevron Graphic Crew  Suda'
 ---
 
 Tienes [Converse Star Chevron Graphic Crew  Sudadera para Hombre  Gris  Vintage Grey Heather 035  Medium](https://www.amazon.es/dp/B079QFB8BS/?tag=tolees-21) con un 64.93 % de descuento con precio de oferta de 19.29 EUR (original: 55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Levi s SS Ringer tee Housemark  Camiseta para Hombre   Retro Logos White/Aura Orange 0004   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CYM3LM7/?tag=tolees-21'
+descuento: '37.17'
+titulo: 'Levi s SS Ringer tee Housemark  Camiseta'
 ---
 
 Ahora mismo tienes [Levi s SS Ringer tee Housemark  Camiseta para Hombre   Retro Logos White/Aura Orange 0004   Large](https://www.amazon.es/dp/B07CYM3LM7/?tag=tolees-21) a 18.85 EUR (original: 30 EUR) (37.17 %  de descuento) en el siguiente enlace!

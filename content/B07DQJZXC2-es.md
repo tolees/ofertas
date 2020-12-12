@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Pantalla proyector Joyhero Pantalla de Proteccion portátil y Plegable 16: 9 de120" plugadas para uso al libre  casa y universal'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQJZXC2/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Pantalla proyector Joyhero Pantalla de P'
 ---
 
 Tienes [Pantalla proyector Joyhero Pantalla de Proteccion portátil y Plegable 16: 9 de120" plugadas para uso al libre  casa y universal](https://www.amazon.es/dp/B07DQJZXC2/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

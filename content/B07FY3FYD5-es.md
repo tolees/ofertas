@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Seidensticker Slim Langarm Mit Kent Kragen Bügelfrei Camisa  Blanco  Weiß 1   46  Talla del Fabricante: 44  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FY3FYD5/?tag=tolees-21'
+descuento: '59.78'
+titulo: 'Seidensticker Slim Langarm Mit Kent Krag'
 ---
 
 Tienes [Seidensticker Slim Langarm Mit Kent Kragen Bügelfrei Camisa  Blanco  Weiß 1   46  Talla del Fabricante: 44  para Hombre](https://www.amazon.es/dp/B07FY3FYD5/?tag=tolees-21) con un 59.78 % de descuento con precio de oferta de 24.13 EUR (original: 59.99 EUR) en el siguiente enlace!

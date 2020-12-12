@@ -17,6 +17,9 @@ comparePrice: 46.99 EUR
 inStock: true
 prodname: 'HUANUO Soporte Elevador de Monitor de Ordenador Portátil con Altura Ajustable y Organizador de Almacenamiento para Ordenadores  iMac  Impresora  Ranura de Administración de Cables  2 Pack '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CF7GRFX/?tag=tolees-21'
+descuento: '45.54'
+titulo: 'HUANUO Soporte Elevador de Monitor de Or'
 ---
 
 Ahora mismo tienes [HUANUO Soporte Elevador de Monitor de Ordenador Portátil con Altura Ajustable y Organizador de Almacenamiento para Ordenadores  iMac  Impresora  Ranura de Administración de Cables  2 Pack ](https://www.amazon.es/dp/B07CF7GRFX/?tag=tolees-21) a 25.59 EUR (original: 46.99 EUR) (45.54 %  de descuento) en el siguiente enlace!

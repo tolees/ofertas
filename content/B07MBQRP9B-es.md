@@ -17,6 +17,9 @@ comparePrice: 39.66 EUR
 inStock: true
 prodname: 'New Look Cassie Colourblock6095964  Chaqueta para Mujer  Negro  Black Pattern 9  44  Talla del Fabricante: 53 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MBQRP9B/?tag=tolees-21'
+descuento: '39.49'
+titulo: 'New Look Cassie Colourblock6095964  Chaq'
 ---
 
 Está [New Look Cassie Colourblock6095964  Chaqueta para Mujer  Negro  Black Pattern 9  44  Talla del Fabricante: 53 ](https://www.amazon.es/dp/B07MBQRP9B/?tag=tolees-21) con 39.49 de descuento por 24 EUR (original: 39.66 EUR) en el siguiente enlace!

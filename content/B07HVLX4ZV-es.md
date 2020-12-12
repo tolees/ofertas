@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'adidas N-5923  Zapatillas de Gimnasia para Hombre  Verde Raw Khaki/FTWR White/Gum4  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HVLX4ZV/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas N-5923  Zapatillas de Gimnasia pa'
 ---
 
 Ahora mismo tienes [adidas N-5923  Zapatillas de Gimnasia para Hombre  Verde Raw Khaki/FTWR White/Gum4  39 EU](https://www.amazon.es/dp/B07HVLX4ZV/?tag=tolees-21) a 44.98 EUR (original: 89.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

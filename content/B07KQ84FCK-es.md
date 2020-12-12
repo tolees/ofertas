@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'MINGWEN Universal Kit de Reparación de Neumáticos para Arreglar Pinchazos y Plug Flats Value Pack para Autos  Camiones  Motocicletas Herramienta de Enchufe del Neumático'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQ84FCK/?tag=tolees-21'
+descuento: '54.05'
+titulo: 'MINGWEN Universal Kit de Reparación de N'
 ---
 
 Está [MINGWEN Universal Kit de Reparación de Neumáticos para Arreglar Pinchazos y Plug Flats Value Pack para Autos  Camiones  Motocicletas Herramienta de Enchufe del Neumático](https://www.amazon.es/dp/B07KQ84FCK/?tag=tolees-21) con 54.05 de descuento por 4.59 EUR (original: 9.99 EUR) en el siguiente enlace!

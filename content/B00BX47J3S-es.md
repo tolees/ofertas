@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Kempa Teamsport Circle - Pantalones Cortos  Marine/Rot Talla:XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BX47J3S/?tag=tolees-21'
+descuento: '60.03'
+titulo: 'Kempa Teamsport Circle - Pantalones Cort'
 ---
 
 Ahora mismo tienes [Kempa Teamsport Circle - Pantalones Cortos  Marine/Rot Talla:XS](https://www.amazon.es/dp/B00BX47J3S/?tag=tolees-21) a 9.19 EUR (original: 22.99 EUR) (60.03 %  de descuento) en el siguiente enlace!

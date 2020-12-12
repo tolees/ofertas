@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Elastic Belt 3.5  Cinturón Hombre  Azul  Corporate 902   105  Talla del fabricante: 90 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFMWFRS/?tag=tolees-21'
+descuento: '68.30'
+titulo: 'Tommy Hilfiger Elastic Belt 3.5  Cinturó'
 ---
 
 Está [Tommy Hilfiger Elastic Belt 3.5  Cinturón Hombre  Azul  Corporate 902   105  Talla del fabricante: 90 ](https://www.amazon.es/dp/B07HFMWFRS/?tag=tolees-21) con 68.30 de descuento por 15.82 EUR (original: 49.9 EUR) en el siguiente enlace!

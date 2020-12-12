@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Superga 2750 Cotbumpvel  Zapatillas de Gimnasia Unisex Niños  Blanco  White 901   22 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0784H1SCD/?tag=tolees-21'
+descuento: '56.04'
+titulo: 'Superga 2750 Cotbumpvel  Zapatillas de G'
 ---
 
 Ahora mismo tienes [Superga 2750 Cotbumpvel  Zapatillas de Gimnasia Unisex Niños  Blanco  White 901   22 EU](https://www.amazon.es/dp/B0784H1SCD/?tag=tolees-21) a 21.54 EUR (original: 49 EUR) (56.04 %  de descuento) en el siguiente enlace!

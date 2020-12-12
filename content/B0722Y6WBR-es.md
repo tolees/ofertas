@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'ALLPOWERS 5 Pairs MC4 Male/ Female Solar Panel Cable Connectors'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0722Y6WBR/?tag=tolees-21'
+descuento: '35.31'
+titulo: 'ALLPOWERS 5 Pairs MC4 Male/ Female Solar'
 ---
 
 Ahora mismo tienes [ALLPOWERS 5 Pairs MC4 Male/ Female Solar Panel Cable Connectors](https://www.amazon.es/dp/B0722Y6WBR/?tag=tolees-21) a 10.99 EUR (original: 16.99 EUR) (35.31 %  de descuento) en el siguiente enlace!

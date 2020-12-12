@@ -17,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Ratón SteelSeries QcK - Alfombrilla de ratón de juego  320mm x 270mm  tela  base de caucho  compatible con ratón láser y óptico  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000UEZ36W/?tag=tolees-21'
+descuento: '25.35'
+titulo: 'Ratón SteelSeries QcK - Alfombrilla de r'
 ---
 
 Tienes [Ratón SteelSeries QcK - Alfombrilla de ratón de juego  320mm x 270mm  tela  base de caucho  compatible con ratón láser y óptico  negro](https://www.amazon.es/dp/B000UEZ36W/?tag=tolees-21) con un 25.35 % de descuento con precio de oferta de 8.95 EUR (original: 11.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.94 EUR
 inStock: true
 prodname: 'TRESemmé Acondicionador 7 Días Liso  250 ml - Paquete de 6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JRMZ4V/?tag=tolees-21'
+descuento: '61.85'
+titulo: 'TRESemmé Acondicionador 7 Días Liso  250'
 ---
 
 Tienes [TRESemmé Acondicionador 7 Días Liso  250 ml - Paquete de 6](https://www.amazon.es/dp/B071JRMZ4V/?tag=tolees-21) con un 61.85 % de descuento con precio de oferta de 13.71 EUR (original: 35.94 EUR) en el siguiente enlace!

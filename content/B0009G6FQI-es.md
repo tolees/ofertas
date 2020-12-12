@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Creative EP 630 - Auriculares  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0009G6FQI/?tag=tolees-21'
+descuento: '28.58'
+titulo: 'Creative EP 630 - Auriculares  Color Neg'
 ---
 
 Tienes [Creative EP 630 - Auriculares  Color Negro](https://www.amazon.es/dp/B0009G6FQI/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 21.42 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Monster Hunter Generations Ultimate [Importación francesa]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5PGYQ3/?tag=tolees-21'
+descuento: '36.91'
+titulo: 'Monster Hunter Generations Ultimate [Imp'
 ---
 
 Tienes [Monster Hunter Generations Ultimate [Importación francesa]](https://www.amazon.es/dp/B07D5PGYQ3/?tag=tolees-21) con un 36.91 % de descuento con precio de oferta de 37.85 EUR (original: 59.99 EUR) en el siguiente enlace!

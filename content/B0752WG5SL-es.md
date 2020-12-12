@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Suzaki R Knit L/s suéter   Dk Saru Blue/Ivory 7231   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0752WG5SL/?tag=tolees-21'
+descuento: '56.89'
+titulo: 'G-STAR RAW Suzaki R Knit L/s suéter   Dk'
 ---
 
 Está [G-STAR RAW Suzaki R Knit L/s suéter   Dk Saru Blue/Ivory 7231   Large para Hombre](https://www.amazon.es/dp/B0752WG5SL/?tag=tolees-21) con 56.89 de descuento por 43.09 EUR (original: 99.95 EUR) en el siguiente enlace!

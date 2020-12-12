@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'DKNY Intimates Modern Lights-Mesh Litewe DK1001 Copa Llena Sujetador  Beige  Skinny Dip B7w   70C  Talla del Fabricante: 32C  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012A7BNL0/?tag=tolees-21'
+descuento: '63.12'
+titulo: 'DKNY Intimates Modern Lights-Mesh Litewe'
 ---
 
 Está [DKNY Intimates Modern Lights-Mesh Litewe DK1001 Copa Llena Sujetador  Beige  Skinny Dip B7w   70C  Talla del Fabricante: 32C  para Mujer](https://www.amazon.es/dp/B012A7BNL0/?tag=tolees-21) con 63.12 de descuento por 18.42 EUR (original: 49.95 EUR) en el siguiente enlace!

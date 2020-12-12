@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 4Os C/Red Flock Text Gg12 Jersey  Hombre  Azul  Blues   X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0748HGCSD/?tag=tolees-21'
+descuento: '60.14'
+titulo: 'Springfield 4Os C/Red Flock Text Gg12 Je'
 ---
 
 Está [Springfield 4Os C/Red Flock Text Gg12 Jersey  Hombre  Azul  Blues   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B0748HGCSD/?tag=tolees-21) con 60.14 de descuento por 10.36 EUR (original: 25.99 EUR) en el siguiente enlace!

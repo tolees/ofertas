@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Strett Slip On  Zapatillas sin Cordones para Mujer  Negro  Black 990   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0798FLWP1/?tag=tolees-21'
+descuento: '65.00'
+titulo: 'G-STAR RAW Strett Slip On  Zapatillas si'
 ---
 
 Está [G-STAR RAW Strett Slip On  Zapatillas sin Cordones para Mujer  Negro  Black 990   38 EU](https://www.amazon.es/dp/B0798FLWP1/?tag=tolees-21) con 65.00 de descuento por 27.98 EUR (original: 79.95 EUR) en el siguiente enlace!

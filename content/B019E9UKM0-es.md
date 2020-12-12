@@ -17,6 +17,9 @@ comparePrice: 249 EUR
 inStock: true
 prodname: 'Venta Stock Confort 2 - Sillón de oficina elevable y reclinable  piel sintética  color taupe'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019E9UKM0/?tag=tolees-21'
+descuento: '59.84'
+titulo: 'Venta Stock Confort 2 - Sillón de oficin'
 ---
 
 Está [Venta Stock Confort 2 - Sillón de oficina elevable y reclinable  piel sintética  color taupe](https://www.amazon.es/dp/B019E9UKM0/?tag=tolees-21) con 59.84 de descuento por 99.99 EUR (original: 249 EUR) en el siguiente enlace!

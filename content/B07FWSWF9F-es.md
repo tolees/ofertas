@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Ben Sherman Polo Logo Shirt  Color: Blanco  Tamaño: XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FWSWF9F/?tag=tolees-21'
+descuento: '64.27'
+titulo: 'Ben Sherman Polo Logo Shirt  Color: Blan'
 ---
 
 Está [Ben Sherman Polo Logo Shirt  Color: Blanco  Tamaño: XS](https://www.amazon.es/dp/B07FWSWF9F/?tag=tolees-21) con 64.27 de descuento por 24.99 EUR (original: 69.95 EUR) en el siguiente enlace!

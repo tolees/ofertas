@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Vans Old Skool  Zapatillas Unisex Adulto  Azul  Nautical Blue   42EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019H77BMQ/?tag=tolees-21'
+descuento: '39.91'
+titulo: 'Vans Old Skool  Zapatillas Unisex Adulto'
 ---
 
 Tienes [Vans Old Skool  Zapatillas Unisex Adulto  Azul  Nautical Blue   42EU](https://www.amazon.es/dp/B019H77BMQ/?tag=tolees-21) con un 39.91 % de descuento con precio de oferta de 45.07 EUR (original: 75 EUR) en el siguiente enlace!

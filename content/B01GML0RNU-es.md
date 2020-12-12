@@ -17,6 +17,9 @@ comparePrice: 132.24 EUR
 inStock: true
 prodname: 'Asics Gel-Volley Elite 3 MT  Zapatillas de Voleibol para Hombre  Azul  Blue Jewel/White/Hot Orange   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GML0RNU/?tag=tolees-21'
+descuento: '56.53'
+titulo: 'Asics Gel-Volley Elite 3 MT  Zapatillas '
 ---
 
 Está [Asics Gel-Volley Elite 3 MT  Zapatillas de Voleibol para Hombre  Azul  Blue Jewel/White/Hot Orange   44 EU](https://www.amazon.es/dp/B01GML0RNU/?tag=tolees-21) con 56.53 de descuento por 57.49 EUR (original: 132.24 EUR) en el siguiente enlace!

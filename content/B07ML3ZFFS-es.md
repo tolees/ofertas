@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'GET IT NOW Almohadas  2  VISCOLAX  Gama Premium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ML3ZFFS/?tag=tolees-21'
+descuento: '96.00'
+titulo: 'GET IT NOW Almohadas  2  VISCOLAX  Gama '
 ---
 
 Está [GET IT NOW Almohadas  2  VISCOLAX  Gama Premium](https://www.amazon.es/dp/B07ML3ZFFS/?tag=tolees-21) con 96.00 de descuento por 2 EUR (original: 50 EUR) en el siguiente enlace!

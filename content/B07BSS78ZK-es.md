@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Asics Onitsuka Tiger EDR 78  Zapatillas Unisex Adulto  Rojo  Classic Red/Burgundy 2326   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BSS78ZK/?tag=tolees-21'
+descuento: '69.91'
+titulo: 'Asics Onitsuka Tiger EDR 78  Zapatillas '
 ---
 
 Está [Asics Onitsuka Tiger EDR 78  Zapatillas Unisex Adulto  Rojo  Classic Red/Burgundy 2326   37 EU](https://www.amazon.es/dp/B07BSS78ZK/?tag=tolees-21) con 69.91 de descuento por 30.09 EUR (original: 100 EUR) en el siguiente enlace!

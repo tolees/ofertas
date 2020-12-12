@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Salomon Essential JKT Jacket  Hombre  Azul  Poseidon   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MXHLMLT/?tag=tolees-21'
+descuento: '43.11'
+titulo: 'Salomon Essential JKT Jacket  Hombre  Az'
 ---
 
 Está [Salomon Essential JKT Jacket  Hombre  Azul  Poseidon   L](https://www.amazon.es/dp/B07MXHLMLT/?tag=tolees-21) con 43.11 de descuento por 62.58 EUR (original: 110 EUR) en el siguiente enlace!

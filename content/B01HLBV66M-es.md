@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Nike M Nsw Jsy Club Pantalón Corto  Hombre  Azul  Squadron Blue / White   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HLBV66M/?tag=tolees-21'
+descuento: '43.85'
+titulo: 'Nike M Nsw Jsy Club Pantalón Corto  Homb'
 ---
 
 Está [Nike M Nsw Jsy Club Pantalón Corto  Hombre  Azul  Squadron Blue / White   M](https://www.amazon.es/dp/B01HLBV66M/?tag=tolees-21) con 43.85 de descuento por 21.9 EUR (original: 39 EUR) en el siguiente enlace!

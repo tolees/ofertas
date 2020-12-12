@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 22433  Sandalias con Plataforma para Mujer  Verde  Mint 768   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N43NIQG/?tag=tolees-21'
+descuento: '76.96'
+titulo: 'Marco Tozzi 22433  Sandalias con Platafo'
 ---
 
 Ahora mismo tienes [Marco Tozzi 22433  Sandalias con Plataforma para Mujer  Verde  Mint 768   40 EU](https://www.amazon.es/dp/B01N43NIQG/?tag=tolees-21) a 11.51 EUR (original: 49.95 EUR) (76.96 %  de descuento) en el siguiente enlace!

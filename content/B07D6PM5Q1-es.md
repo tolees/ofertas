@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'LOFIR Calcetines sin mangas para hombres Corte bajo Non Slip Grip-Invisible Calcetines para Oxfords Mocasines Zapatillas Zapatos de barco Zapatos de cuero Talla 38-45  color 3 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D6PM5Q1/?tag=tolees-21'
+descuento: '43.35'
+titulo: 'LOFIR Calcetines sin mangas para hombres'
 ---
 
 Está [LOFIR Calcetines sin mangas para hombres Corte bajo Non Slip Grip-Invisible Calcetines para Oxfords Mocasines Zapatillas Zapatos de barco Zapatos de cuero Talla 38-45  color 3 ](https://www.amazon.es/dp/B07D6PM5Q1/?tag=tolees-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

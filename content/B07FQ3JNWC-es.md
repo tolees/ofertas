@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Project Cars'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQ3JNWC/?tag=tolees-21'
+descuento: '38.27'
+titulo: 'Project Cars'
 ---
 
 Está [Project Cars](https://www.amazon.es/dp/B07FQ3JNWC/?tag=tolees-21) con 38.27 de descuento por 12.34 EUR (original: 19.99 EUR) en el siguiente enlace!

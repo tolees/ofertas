@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Lacoste PH4012  Polo Para Hombre  Negro  Noir   X-Large  Talla del fabricante: 6 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Y4XVP0S/?tag=tolees-21'
+descuento: '44.26'
+titulo: 'Lacoste PH4012  Polo Para Hombre  Negro '
 ---
 
 Está [Lacoste PH4012  Polo Para Hombre  Negro  Noir   X-Large  Talla del fabricante: 6 ](https://www.amazon.es/dp/B00Y4XVP0S/?tag=tolees-21) con 44.26 de descuento por 52.95 EUR (original: 95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'LEGO Disney Princess - Paseo en Carruaje de Cenicienta  juguete imaginativo de construcción  41159 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNMXK6K/?tag=tolees-21'
+descuento: '29.96'
+titulo: 'LEGO Disney Princess - Paseo en Carruaje'
 ---
 
 Está [LEGO Disney Princess - Paseo en Carruaje de Cenicienta  juguete imaginativo de construcción  41159 ](https://www.amazon.es/dp/B07FNMXK6K/?tag=tolees-21) con 29.96 de descuento por 14 EUR (original: 19.99 EUR) en el siguiente enlace!

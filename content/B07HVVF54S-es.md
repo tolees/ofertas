@@ -17,6 +17,9 @@ comparePrice: 20.55 EUR
 inStock: true
 prodname: 'HARRY POTTER - Camiseta Modelo Hogwarts para niños y niñas  7-8 Años/Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HVVF54S/?tag=tolees-21'
+descuento: '33.33'
+titulo: 'HARRY POTTER - Camiseta Modelo Hogwarts '
 ---
 
 Está [HARRY POTTER - Camiseta Modelo Hogwarts para niños y niñas  7-8 Años/Blanco ](https://www.amazon.es/dp/B07HVVF54S/?tag=tolees-21) con 33.33 de descuento por 13.7 EUR (original: 20.55 EUR) en el siguiente enlace!

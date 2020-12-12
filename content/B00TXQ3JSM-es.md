@@ -17,6 +17,9 @@ comparePrice: 999 EUR
 inStock: true
 prodname: 'Sigma C82900 Cámara Sigma DP3 Quattro Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TXQ3JSM/?tag=tolees-21'
+descuento: '48.99'
+titulo: 'Sigma C82900 Cámara Sigma DP3 Quattro Ne'
 ---
 
 Tienes [Sigma C82900 Cámara Sigma DP3 Quattro Negro](https://www.amazon.es/dp/B00TXQ3JSM/?tag=tolees-21) con un 48.99 % de descuento con precio de oferta de 509.6 EUR (original: 999 EUR) en el siguiente enlace!

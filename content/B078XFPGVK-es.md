@@ -17,6 +17,9 @@ comparePrice: 19.77 EUR
 inStock: true
 prodname: 'Juego de manicura para hombre  CRMICL 16 en 1 Juego de cortadora de uñas profesional Juego de pedicura Clipper para uñas de acero profesional Kit de aseo profesional para tijeras de uñas Manicura'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078XFPGVK/?tag=tolees-21'
+descuento: '59.59'
+titulo: 'Juego de manicura para hombre  CRMICL 16'
 ---
 
 Tienes [Juego de manicura para hombre  CRMICL 16 en 1 Juego de cortadora de uñas profesional Juego de pedicura Clipper para uñas de acero profesional Kit de aseo profesional para tijeras de uñas Manicura](https://www.amazon.es/dp/B078XFPGVK/?tag=tolees-21) con un 59.59 % de descuento con precio de oferta de 7.99 EUR (original: 19.77 EUR) en el siguiente enlace!

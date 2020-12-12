@@ -17,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: '40W Altavoces Bluetooth Inalámbricos WiFi Sonido Estéreos Subwoofer Extra Bass Altavoz de Inteligente Multiroom Music Streaming Batería Incorporada GGMM M4'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014QTGV58/?tag=tolees-21'
+descuento: '29.41'
+titulo: '40W Altavoces Bluetooth Inalámbricos WiF'
 ---
 
 Tienes [40W Altavoces Bluetooth Inalámbricos WiFi Sonido Estéreos Subwoofer Extra Bass Altavoz de Inteligente Multiroom Music Streaming Batería Incorporada GGMM M4](https://www.amazon.es/dp/B014QTGV58/?tag=tolees-21) con un 29.41 % de descuento con precio de oferta de 119.99 EUR (original: 169.99 EUR) en el siguiente enlace!

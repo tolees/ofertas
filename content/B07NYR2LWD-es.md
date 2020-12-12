@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Cortapelos Nariz  Recortador de Vello Nariz/Orejas/Ceja/Barba  4 en 1 USB Recargable Set de Depiladora con 4 Cabezas de Reemplazo de Acero Inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NYR2LWD/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Cortapelos Nariz  Recortador de Vello Na'
 ---
 
 Tienes [Cortapelos Nariz  Recortador de Vello Nariz/Orejas/Ceja/Barba  4 en 1 USB Recargable Set de Depiladora con 4 Cabezas de Reemplazo de Acero Inoxidable](https://www.amazon.es/dp/B07NYR2LWD/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

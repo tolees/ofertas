@@ -17,6 +17,9 @@ comparePrice: 11.69 EUR
 inStock: true
 prodname: 'Pop Addams Family Uncle Fester Vinyl Figure'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NSQ42NP/?tag=tolees-21'
+descuento: '25.66'
+titulo: 'Pop Addams Family Uncle Fester Vinyl Fig'
 ---
 
 Está [Pop Addams Family Uncle Fester Vinyl Figure](https://www.amazon.es/dp/B07NSQ42NP/?tag=tolees-21) con 25.66 de descuento por 8.69 EUR (original: 11.69 EUR) en el siguiente enlace!

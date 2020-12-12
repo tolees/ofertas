@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma ftblNXT Casuals T-Shirt  Hombre  White  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HH19CJ/?tag=tolees-21'
+descuento: '69.70'
+titulo: 'Puma ftblNXT Casuals T-Shirt  Hombre  Wh'
 ---
 
 Tienes [Puma ftblNXT Casuals T-Shirt  Hombre  White  M](https://www.amazon.es/dp/B077HH19CJ/?tag=tolees-21) con un 69.70 % de descuento con precio de oferta de 7.56 EUR (original: 24.95 EUR) en el siguiente enlace!

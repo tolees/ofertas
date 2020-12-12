@@ -17,6 +17,9 @@ comparePrice: 239 EUR
 inStock: true
 prodname: 'Lenovo Lenovo TB-X304L - Tablet de 10.1" IPS/HD  Procesador Qualcomm Snapdragon 425  RAM de 2GB  memoria interna de 16GB  camara de 5 MP  Android 7.0  Wifi + Bluetooth 4.0  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RB87XL/?tag=tolees-21'
+descuento: '42.51'
+titulo: 'Lenovo Lenovo TB-X304L - Tablet de 10.1"'
 ---
 
 Tienes [Lenovo Lenovo TB-X304L - Tablet de 10.1" IPS/HD  Procesador Qualcomm Snapdragon 425  RAM de 2GB  memoria interna de 16GB  camara de 5 MP  Android 7.0  Wifi + Bluetooth 4.0  color negro](https://www.amazon.es/dp/B075RB87XL/?tag=tolees-21) con un 42.51 % de descuento con precio de oferta de 137.4 EUR (original: 239 EUR) en el siguiente enlace!

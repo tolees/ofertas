@@ -17,6 +17,9 @@ comparePrice: 13.9 EUR
 inStock: true
 prodname: 'NGS Lector de tarjetas - NGS Card Reader Multireader Pro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0032BOZKK/?tag=tolees-21'
+descuento: '42.45'
+titulo: 'NGS Lector de tarjetas - NGS Card Reader'
 ---
 
 Ahora mismo tienes [NGS Lector de tarjetas - NGS Card Reader Multireader Pro](https://www.amazon.es/dp/B0032BOZKK/?tag=tolees-21) a 8 EUR (original: 13.9 EUR) (42.45 %  de descuento) en el siguiente enlace!

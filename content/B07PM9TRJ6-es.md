@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Mini Ventilador de Mano  Ifecco Mini Ventilador portátil con Ventilador Recargable USB de 2600mAh Incorporado para Viajar al Aire Libre de la Oficina del Sitio al Aire Libre  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PM9TRJ6/?tag=tolees-21'
+descuento: '84.30'
+titulo: 'Mini Ventilador de Mano  Ifecco Mini Ven'
 ---
 
 Está [Mini Ventilador de Mano  Ifecco Mini Ventilador portátil con Ventilador Recargable USB de 2600mAh Incorporado para Viajar al Aire Libre de la Oficina del Sitio al Aire Libre  Negro ](https://www.amazon.es/dp/B07PM9TRJ6/?tag=tolees-21) con 84.30 de descuento por 10.99 EUR (original: 69.99 EUR) en el siguiente enlace!

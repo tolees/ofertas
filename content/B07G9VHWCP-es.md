@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Esprit 118ee2b013  Vaqueros Slim Hombre  Azul  Blue Rinse 900   W29/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G9VHWCP/?tag=tolees-21'
+descuento: '59.89'
+titulo: 'Esprit 118ee2b013  Vaqueros Slim Hombre '
 ---
 
 Está [Esprit 118ee2b013  Vaqueros Slim Hombre  Azul  Blue Rinse 900   W29/L32](https://www.amazon.es/dp/B07G9VHWCP/?tag=tolees-21) con 59.89 de descuento por 24.06 EUR (original: 59.99 EUR) en el siguiente enlace!

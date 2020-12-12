@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Reloj Hugo Boss Orange para Hombre 1550020'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSHC83N/?tag=tolees-21'
+descuento: '49.75'
+titulo: 'Reloj Hugo Boss Orange para Hombre 15500'
 ---
 
 Ahora mismo tienes [Reloj Hugo Boss Orange para Hombre 1550020](https://www.amazon.es/dp/B06XSHC83N/?tag=tolees-21) a 100 EUR (original: 199 EUR) (49.75 %  de descuento) en el siguiente enlace!

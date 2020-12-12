@@ -17,6 +17,9 @@ comparePrice: 42.88 EUR
 inStock: true
 prodname: 'HP SD412EE - Paquete de 2 cartuchos para impresora HP 350/351  tinta color y negra'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0038FYDAW/?tag=tolees-21'
+descuento: '30.55'
+titulo: 'HP SD412EE - Paquete de 2 cartuchos para'
 ---
 
 Ahora mismo tienes [HP SD412EE - Paquete de 2 cartuchos para impresora HP 350/351  tinta color y negra](https://www.amazon.es/dp/B0038FYDAW/?tag=tolees-21) a 29.78 EUR (original: 42.88 EUR) (30.55 %  de descuento) en el siguiente enlace!

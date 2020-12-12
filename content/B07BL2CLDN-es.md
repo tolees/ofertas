@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 997H  Zapatillas para Hombre  Negro  Magnet/Energy Red   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL2CLDN/?tag=tolees-21'
+descuento: '33.94'
+titulo: 'New Balance 997H  Zapatillas para Hombre'
 ---
 
 Tienes [New Balance 997H  Zapatillas para Hombre  Negro  Magnet/Energy Red   43 EU](https://www.amazon.es/dp/B07BL2CLDN/?tag=tolees-21) con un 33.94 % de descuento con precio de oferta de 59.45 EUR (original: 90 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 57.46 EUR
 inStock: true
 prodname: 'Reloj SEKONDA - Mujer 2398.27'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M4JGYT4/?tag=tolees-21'
+descuento: '64.67'
+titulo: 'Reloj SEKONDA - Mujer 2398.27'
 ---
 
 Tienes [Reloj SEKONDA - Mujer 2398.27](https://www.amazon.es/dp/B01M4JGYT4/?tag=tolees-21) con un 64.67 % de descuento con precio de oferta de 20.3 EUR (original: 57.46 EUR) en el siguiente enlace!

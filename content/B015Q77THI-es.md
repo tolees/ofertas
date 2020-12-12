@@ -17,6 +17,9 @@ comparePrice: 12.09 EUR
 inStock: true
 prodname: 'Westmark Tazas de Papel para Magdalenas  200 Unidades   Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015Q77THI/?tag=tolees-21'
+descuento: '50.79'
+titulo: 'Westmark Tazas de Papel para Magdalenas '
 ---
 
 Ahora mismo tienes [Westmark Tazas de Papel para Magdalenas  200 Unidades   Color Blanco](https://www.amazon.es/dp/B015Q77THI/?tag=tolees-21) a 5.95 EUR (original: 12.09 EUR) (50.79 %  de descuento) en el siguiente enlace!

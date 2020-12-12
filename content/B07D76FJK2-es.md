@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Levi s Ex-BF Sherpa Trucker Chaqueta Vaquera  Azul  Addicted Two Love 0005   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D76FJK2/?tag=tolees-21'
+descuento: '61.45'
+titulo: 'Levi s Ex-BF Sherpa Trucker Chaqueta Vaq'
 ---
 
 Está [Levi s Ex-BF Sherpa Trucker Chaqueta Vaquera  Azul  Addicted Two Love 0005   Large para Mujer](https://www.amazon.es/dp/B07D76FJK2/?tag=tolees-21) con 61.45 de descuento por 50.11 EUR (original: 130 EUR) en el siguiente enlace!

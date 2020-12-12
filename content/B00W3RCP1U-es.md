@@ -17,6 +17,9 @@ comparePrice: 5.93 EUR
 inStock: true
 prodname: 'NUTRICIA Almirón advance papilla de cereales sin gluten 500g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00W3RCP1U/?tag=tolees-21'
+descuento: '59.19'
+titulo: 'NUTRICIA Almirón advance papilla de cere'
 ---
 
 Está [NUTRICIA Almirón advance papilla de cereales sin gluten 500g](https://www.amazon.es/dp/B00W3RCP1U/?tag=tolees-21) con 59.19 de descuento por 2.42 EUR (original: 5.93 EUR) en el siguiente enlace!

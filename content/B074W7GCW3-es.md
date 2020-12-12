@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Volcom SNGL STN DIV P/O Suéter  Hombre  Off White  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074W7GCW3/?tag=tolees-21'
+descuento: '58.39'
+titulo: 'Volcom SNGL STN DIV P/O Suéter  Hombre  '
 ---
 
 Tienes [Volcom SNGL STN DIV P/O Suéter  Hombre  Off White  XL](https://www.amazon.es/dp/B074W7GCW3/?tag=tolees-21) con un 58.39 % de descuento con precio de oferta de 29.13 EUR (original: 70 EUR) en el siguiente enlace!

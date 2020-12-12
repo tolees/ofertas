@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Ultrasport Sport Indoor Schuh  Zapatillas de Deporte Niños Unisex  Blanco  White/Blue 100   31 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0062I5BCQ/?tag=tolees-21'
+descuento: '79.44'
+titulo: 'Ultrasport Sport Indoor Schuh  Zapatilla'
 ---
 
 Está [Ultrasport Sport Indoor Schuh  Zapatillas de Deporte Niños Unisex  Blanco  White/Blue 100   31 EU](https://www.amazon.es/dp/B0062I5BCQ/?tag=tolees-21) con 79.44 de descuento por 12.13 EUR (original: 59 EUR) en el siguiente enlace!

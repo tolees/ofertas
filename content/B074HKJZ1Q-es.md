@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Funko - POP! Vinilo Colección Disney - Figura Jasmine  21215 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074HKJZ1Q/?tag=tolees-21'
+descuento: '45.71'
+titulo: 'Funko - POP! Vinilo Colección Disney - F'
 ---
 
 Tienes [Funko - POP! Vinilo Colección Disney - Figura Jasmine  21215 ](https://www.amazon.es/dp/B074HKJZ1Q/?tag=tolees-21) con un 45.71 % de descuento con precio de oferta de 8.66 EUR (original: 15.95 EUR) en el siguiente enlace!

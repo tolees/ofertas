@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Columbia Trans Alpsâ„¢ F.k.t.â„¢ II  Zapatillas de Trail Running para Hombre  Rojo  Red Quartz  Acid Yellow   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DY4V92B/?tag=tolees-21'
+descuento: '43.72'
+titulo: 'Columbia Trans Alpsâ„¢ F.k.t.â„¢ II  Zap'
 ---
 
 Está [Columbia Trans Alpsâ„¢ F.k.t.â„¢ II  Zapatillas de Trail Running para Hombre  Rojo  Red Quartz  Acid Yellow   43 EU](https://www.amazon.es/dp/B07DY4V92B/?tag=tolees-21) con 43.72 de descuento por 78.79 EUR (original: 139.99 EUR) en el siguiente enlace!

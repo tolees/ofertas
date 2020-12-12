@@ -17,6 +17,9 @@ comparePrice: 96 EUR
 inStock: true
 prodname: 'Munich Massana  Zapatillas Unisex Adulto   Azul/Negro 282   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D86SSN3/?tag=tolees-21'
+descuento: '48.77'
+titulo: 'Munich Massana  Zapatillas Unisex Adulto'
 ---
 
 Tienes [Munich Massana  Zapatillas Unisex Adulto   Azul/Negro 282   40 EU](https://www.amazon.es/dp/B07D86SSN3/?tag=tolees-21) con un 48.77 % de descuento con precio de oferta de 49.18 EUR (original: 96 EUR) en el siguiente enlace!

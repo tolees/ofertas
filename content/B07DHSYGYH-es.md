@@ -17,6 +17,9 @@ comparePrice: 75.99 EUR
 inStock: true
 prodname: 'Quiksilver Verant  Zapatillas para Hombre  Marrón Brown/Black-Combo Xcck  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHSYGYH/?tag=tolees-21'
+descuento: '49.95'
+titulo: 'Quiksilver Verant  Zapatillas para Hombr'
 ---
 
 Está [Quiksilver Verant  Zapatillas para Hombre  Marrón Brown/Black-Combo Xcck  43 EU](https://www.amazon.es/dp/B07DHSYGYH/?tag=tolees-21) con 49.95 de descuento por 38.03 EUR (original: 75.99 EUR) en el siguiente enlace!

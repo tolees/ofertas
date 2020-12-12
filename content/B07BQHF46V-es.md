@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Nike 930149 Camiseta de Manga Larga  Rosa 646  Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQHF46V/?tag=tolees-21'
+descuento: '80.39'
+titulo: 'Nike 930149 Camiseta de Manga Larga  Ros'
 ---
 
 Ahora mismo tienes [Nike 930149 Camiseta de Manga Larga  Rosa 646  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07BQHF46V/?tag=tolees-21) a 18.63 EUR (original: 95 EUR) (80.39 %  de descuento) en el siguiente enlace!

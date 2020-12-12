@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Geox J Kommodor B  Zapatillas para Niños  Negro  Black/White   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHQLSL9/?tag=tolees-21'
+descuento: '53.92'
+titulo: 'Geox J Kommodor B  Zapatillas para Niños'
 ---
 
 Tienes [Geox J Kommodor B  Zapatillas para Niños  Negro  Black/White   35 EU](https://www.amazon.es/dp/B06XHQLSL9/?tag=tolees-21) con un 53.92 % de descuento con precio de oferta de 29.95 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Timberland Adventure Seeker 2 Strap  Sandalias Unisex niños  Azul  Navy/Yellow   27 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00M15EPV2/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Timberland Adventure Seeker 2 Strap  San'
 ---
 
 Ahora mismo tienes [Timberland Adventure Seeker 2 Strap  Sandalias Unisex niños  Azul  Navy/Yellow   27 EU](https://www.amazon.es/dp/B00M15EPV2/?tag=tolees-21) a 28 EUR (original: 40 EUR) (30.00 %  de descuento) en el siguiente enlace!

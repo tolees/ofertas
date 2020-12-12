@@ -17,6 +17,9 @@ comparePrice: 139.27 EUR
 inStock: true
 prodname: 'Invicta Reloj de Pulsera 29378'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P4NT2Q5/?tag=tolees-21'
+descuento: '33.23'
+titulo: 'Invicta Reloj de Pulsera 29378'
 ---
 
 Tienes [Invicta Reloj de Pulsera 29378](https://www.amazon.es/dp/B07P4NT2Q5/?tag=tolees-21) con un 33.23 % de descuento con precio de oferta de 92.99 EUR (original: 139.27 EUR) en el siguiente enlace!

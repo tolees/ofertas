@@ -17,6 +17,9 @@ comparePrice: 66.6 EUR
 inStock: true
 prodname: 'Vikingos - Temporada 1 a 4 [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072MPK5H1/?tag=tolees-21'
+descuento: '67.90'
+titulo: 'Vikingos - Temporada 1 a 4 [Blu-ray]'
 ---
 
 Tienes [Vikingos - Temporada 1 a 4 [Blu-ray]](https://www.amazon.es/dp/B072MPK5H1/?tag=tolees-21) con un 67.90 % de descuento con precio de oferta de 21.38 EUR (original: 66.6 EUR) en el siguiente enlace!

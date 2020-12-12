@@ -17,6 +17,9 @@ comparePrice: 300 EUR
 inStock: true
 prodname: 'Bosch 0 603 9B0 301 Atornillador taladrador de percusión a batería de litio 45 W  18 V  Negro  Verde  Percutor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0153AY0MU/?tag=tolees-21'
+descuento: '29.00'
+titulo: 'Bosch 0 603 9B0 301 Atornillador taladra'
 ---
 
 Tienes [Bosch 0 603 9B0 301 Atornillador taladrador de percusión a batería de litio 45 W  18 V  Negro  Verde  Percutor](https://www.amazon.es/dp/B0153AY0MU/?tag=tolees-21) con un 29.00 % de descuento con precio de oferta de 213 EUR (original: 300 EUR) en el siguiente enlace!

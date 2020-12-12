@@ -17,6 +17,9 @@ comparePrice: 71.13 EUR
 inStock: true
 prodname: 'Mexx Mexx-70455 Pantalones  Negro  Jet Black 190303   38W x 32L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GPPDNQT/?tag=tolees-21'
+descuento: '86.39'
+titulo: 'Mexx Mexx-70455 Pantalones  Negro  Jet B'
 ---
 
 Está [Mexx Mexx-70455 Pantalones  Negro  Jet Black 190303   38W x 32L para Mujer](https://www.amazon.es/dp/B07GPPDNQT/?tag=tolees-21) con 86.39 de descuento por 9.68 EUR (original: 71.13 EUR) en el siguiente enlace!

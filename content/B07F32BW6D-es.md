@@ -17,6 +17,9 @@ comparePrice: 23.02 EUR
 inStock: true
 prodname: 'Nike Air Camiseta  Niños  Blanco  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F32BW6D/?tag=tolees-21'
+descuento: '48.09'
+titulo: 'Nike Air Camiseta  Niños  Blanco  Medium'
 ---
 
 Tienes [Nike Air Camiseta  Niños  Blanco  Medium](https://www.amazon.es/dp/B07F32BW6D/?tag=tolees-21) con un 48.09 % de descuento con precio de oferta de 11.95 EUR (original: 23.02 EUR) en el siguiente enlace!

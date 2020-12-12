@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Adidas Adizero Avanti  Zapatillas de Atletismo Unisex Adulto  Negro  Negbas/Ftwbla/Naranj 000  44 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0781Z7TRW/?tag=tolees-21'
+descuento: '49.27'
+titulo: 'Adidas Adizero Avanti  Zapatillas de Atl'
 ---
 
 Ahora mismo tienes [Adidas Adizero Avanti  Zapatillas de Atletismo Unisex Adulto  Negro  Negbas/Ftwbla/Naranj 000  44 2/3 EU](https://www.amazon.es/dp/B0781Z7TRW/?tag=tolees-21) a 65.92 EUR (original: 129.95 EUR) (49.27 %  de descuento) en el siguiente enlace!

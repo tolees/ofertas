@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Asics Gel-Pulse 9  Zapatillas de Running para Hombre  Azul  Dark Blue/Shocking Orange/Victoria Blue 4930   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0781D4ZJB/?tag=tolees-21'
+descuento: '38.47'
+titulo: 'Asics Gel-Pulse 9  Zapatillas de Running'
 ---
 
 Ahora mismo tienes [Asics Gel-Pulse 9  Zapatillas de Running para Hombre  Azul  Dark Blue/Shocking Orange/Victoria Blue 4930   41.5 EU](https://www.amazon.es/dp/B0781D4ZJB/?tag=tolees-21) a 61.5 EUR (original: 99.95 EUR) (38.47 %  de descuento) en el siguiente enlace!

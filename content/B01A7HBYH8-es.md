@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'POP! Bobble - Marvel: Captain America CW: Iron Man'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01A7HBYH8/?tag=tolees-21'
+descuento: '43.14'
+titulo: 'POP! Bobble - Marvel: Captain America CW'
 ---
 
 Está [POP! Bobble - Marvel: Captain America CW: Iron Man](https://www.amazon.es/dp/B01A7HBYH8/?tag=tolees-21) con 43.14 de descuento por 8.5 EUR (original: 14.95 EUR) en el siguiente enlace!

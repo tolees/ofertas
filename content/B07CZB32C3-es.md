@@ -17,6 +17,9 @@ comparePrice: 92.77 EUR
 inStock: true
 prodname: 'Asics Fuzetora Twist  Zapatillas de Running para Mujer  Gris  Mid Grey/White 020   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZB32C3/?tag=tolees-21'
+descuento: '66.99'
+titulo: 'Asics Fuzetora Twist  Zapatillas de Runn'
 ---
 
 Tienes [Asics Fuzetora Twist  Zapatillas de Running para Mujer  Gris  Mid Grey/White 020   40 EU](https://www.amazon.es/dp/B07CZB32C3/?tag=tolees-21) con un 66.99 % de descuento con precio de oferta de 30.62 EUR (original: 92.77 EUR) en el siguiente enlace!

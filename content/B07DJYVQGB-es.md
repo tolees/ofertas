@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Geox B Kilwi C10  Zapatillas para Bebés  Gris  Grey/Avio C0493   20 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJYVQGB/?tag=tolees-21'
+descuento: '69.08'
+titulo: 'Geox B Kilwi C10  Zapatillas para Bebés '
 ---
 
 Está [Geox B Kilwi C10  Zapatillas para Bebés  Gris  Grey/Avio C0493   20 EU](https://www.amazon.es/dp/B07DJYVQGB/?tag=tolees-21) con 69.08 de descuento por 15.43 EUR (original: 49.9 EUR) en el siguiente enlace!

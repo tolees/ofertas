@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Cortina Mosquitera Puerta  HIEHA Puerta Corredera con 32 Magnético  Tela Mosquitera protección de Insectos para Sala de Estar Balcón   90*210cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QDKTT6N/?tag=tolees-21'
+descuento: '63.27'
+titulo: 'Cortina Mosquitera Puerta  HIEHA Puerta '
 ---
 
 Está [Cortina Mosquitera Puerta  HIEHA Puerta Corredera con 32 Magnético  Tela Mosquitera protección de Insectos para Sala de Estar Balcón   90*210cm ](https://www.amazon.es/dp/B07QDKTT6N/?tag=tolees-21) con 63.27 de descuento por 14.69 EUR (original: 39.99 EUR) en el siguiente enlace!

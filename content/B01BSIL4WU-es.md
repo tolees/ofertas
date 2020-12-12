@@ -17,6 +17,9 @@ comparePrice: 483 EUR
 inStock: true
 prodname: 'Acer H7 H277HU 27" Wide Quad HD IPS Plata pantalla para PC - Monitor  2560 x 1440 Pixeles  LED  Wide Quad HD  IPS  2560 x 1440  100000000:1 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BSIL4WU/?tag=tolees-21'
+descuento: '35.00'
+titulo: 'Acer H7 H277HU 27" Wide Quad HD IPS Plat'
 ---
 
 Ahora mismo tienes [Acer H7 H277HU 27" Wide Quad HD IPS Plata pantalla para PC - Monitor  2560 x 1440 Pixeles  LED  Wide Quad HD  IPS  2560 x 1440  100000000:1 ](https://www.amazon.es/dp/B01BSIL4WU/?tag=tolees-21) a 313.95 EUR (original: 483 EUR) (35.00 %  de descuento) en el siguiente enlace!

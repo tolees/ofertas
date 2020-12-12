@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike Downshifter 8  Zapatillas de Entrenamiento para Hombre  Gris  Light Carbon/Metallic Pewter/Peat Moss/Black 011   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C9RJTWR/?tag=tolees-21'
+descuento: '30.08'
+titulo: 'Nike Downshifter 8  Zapatillas de Entren'
 ---
 
 Está [Nike Downshifter 8  Zapatillas de Entrenamiento para Hombre  Gris  Light Carbon/Metallic Pewter/Peat Moss/Black 011   44 EU](https://www.amazon.es/dp/B07C9RJTWR/?tag=tolees-21) con 30.08 de descuento por 41.95 EUR (original: 60 EUR) en el siguiente enlace!

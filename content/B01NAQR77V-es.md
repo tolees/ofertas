@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Rovulc Denim Mid Sneakers  Zapatillas para Hombre  Azul  Blue  Dk Navy 881   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NAQR77V/?tag=tolees-21'
+descuento: '43.15'
+titulo: 'G-STAR RAW Rovulc Denim Mid Sneakers  Za'
 ---
 
 Tienes [G-STAR RAW Rovulc Denim Mid Sneakers  Zapatillas para Hombre  Azul  Blue  Dk Navy 881   43 EU](https://www.amazon.es/dp/B01NAQR77V/?tag=tolees-21) con un 43.15 % de descuento con precio de oferta de 45.45 EUR (original: 79.95 EUR) en el siguiente enlace!

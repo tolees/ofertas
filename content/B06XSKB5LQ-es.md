@@ -17,6 +17,9 @@ comparePrice: 50.95 EUR
 inStock: true
 prodname: 'Izas Lee Pantalón Corto  Mujer  Rosa  Fuxia / Grey   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSKB5LQ/?tag=tolees-21'
+descuento: '69.15'
+titulo: 'Izas Lee Pantalón Corto  Mujer  Rosa  Fu'
 ---
 
 Ahora mismo tienes [Izas Lee Pantalón Corto  Mujer  Rosa  Fuxia / Grey   L](https://www.amazon.es/dp/B06XSKB5LQ/?tag=tolees-21) a 15.72 EUR (original: 50.95 EUR) (69.15 %  de descuento) en el siguiente enlace!

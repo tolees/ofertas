@@ -17,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'Salomon Evasion 2 Mid LTR GTX  Zapatillas de Running para Asfalto para Hombre  Gris Castor Gray/Beluga/Guacamole  40 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXOXCYO/?tag=tolees-21'
+descuento: '52.07'
+titulo: 'Salomon Evasion 2 Mid LTR GTX  Zapatilla'
 ---
 
 Está [Salomon Evasion 2 Mid LTR GTX  Zapatillas de Running para Asfalto para Hombre  Gris Castor Gray/Beluga/Guacamole  40 2/3 EU](https://www.amazon.es/dp/B01MXOXCYO/?tag=tolees-21) con 52.07 de descuento por 71.87 EUR (original: 149.95 EUR) en el siguiente enlace!

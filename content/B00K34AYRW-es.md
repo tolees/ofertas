@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Redken Blonde Idol Personalized Intensive Color Maintenance For Warm Blonde Shade - 196 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00K34AYRW/?tag=tolees-21'
+descuento: '43.24'
+titulo: 'Redken Blonde Idol Personalized Intensiv'
 ---
 
 Está [Redken Blonde Idol Personalized Intensive Color Maintenance For Warm Blonde Shade - 196 ml](https://www.amazon.es/dp/B00K34AYRW/?tag=tolees-21) con 43.24 de descuento por 17 EUR (original: 29.95 EUR) en el siguiente enlace!

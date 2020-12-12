@@ -17,6 +17,9 @@ comparePrice: 79.94 EUR
 inStock: true
 prodname: 'Tamaris 25260  Botas Chukka para Mujer  Marrón  Cashmere 371   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01C4VSD4M/?tag=tolees-21'
+descuento: '65.11'
+titulo: 'Tamaris 25260  Botas Chukka para Mujer  '
 ---
 
 Tienes [Tamaris 25260  Botas Chukka para Mujer  Marrón  Cashmere 371   38 EU](https://www.amazon.es/dp/B01C4VSD4M/?tag=tolees-21) con un 65.11 % de descuento con precio de oferta de 27.89 EUR (original: 79.94 EUR) en el siguiente enlace!

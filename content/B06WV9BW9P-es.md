@@ -17,6 +17,9 @@ comparePrice: 37.27 EUR
 inStock: true
 prodname: 'Fossil Pulsera de mujer con acero inoxidable  circonita redonda'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WV9BW9P/?tag=tolees-21'
+descuento: '46.34'
+titulo: 'Fossil Pulsera de mujer con acero inoxid'
 ---
 
 Tienes [Fossil Pulsera de mujer con acero inoxidable  circonita redonda](https://www.amazon.es/dp/B06WV9BW9P/?tag=tolees-21) con un 46.34 % de descuento con precio de oferta de 20 EUR (original: 37.27 EUR) en el siguiente enlace!

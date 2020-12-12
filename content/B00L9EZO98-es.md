@@ -17,6 +17,9 @@ comparePrice: 23.5 EUR
 inStock: true
 prodname: 'Bed Head by TIGI Máscara Reenergize Urban Antidotes 200 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00L9EZO98/?tag=tolees-21'
+descuento: '46.81'
+titulo: 'Bed Head by TIGI Máscara Reenergize Urba'
 ---
 
 Ahora mismo tienes [Bed Head by TIGI Máscara Reenergize Urban Antidotes 200 gr](https://www.amazon.es/dp/B00L9EZO98/?tag=tolees-21) a 12.5 EUR (original: 23.5 EUR) (46.81 %  de descuento) en el siguiente enlace!

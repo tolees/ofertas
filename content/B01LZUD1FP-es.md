@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'New Balance 460v1  Zapatillas de Running para Mujer  Azul  Navy   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZUD1FP/?tag=tolees-21'
+descuento: '67.12'
+titulo: 'New Balance 460v1  Zapatillas de Running'
 ---
 
 Ahora mismo tienes [New Balance 460v1  Zapatillas de Running para Mujer  Azul  Navy   36 EU](https://www.amazon.es/dp/B01LZUD1FP/?tag=tolees-21) a 21.37 EUR (original: 65 EUR) (67.12 %  de descuento) en el siguiente enlace!

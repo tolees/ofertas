@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Superga 2750 Cotu Classic Zapatillas  Unisex Adulto  Rojo  Dark Boredeaux   36 EU  3.5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007CFPT98/?tag=tolees-21'
+descuento: '58.10'
+titulo: 'Superga 2750 Cotu Classic Zapatillas  Un'
 ---
 
 Tienes [Superga 2750 Cotu Classic Zapatillas  Unisex Adulto  Rojo  Dark Boredeaux   36 EU  3.5 UK ](https://www.amazon.es/dp/B007CFPT98/?tag=tolees-21) con un 58.10 % de descuento con precio de oferta de 24.72 EUR (original: 59 EUR) en el siguiente enlace!

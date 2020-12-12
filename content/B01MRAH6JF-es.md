@@ -17,6 +17,9 @@ comparePrice: 58 EUR
 inStock: true
 prodname: 'Star Ibaby Basic AC001 - Cuna de viaje plegable color Navy Blue'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MRAH6JF/?tag=tolees-21'
+descuento: '39.83'
+titulo: 'Star Ibaby Basic AC001 - Cuna de viaje p'
 ---
 
 Está [Star Ibaby Basic AC001 - Cuna de viaje plegable color Navy Blue](https://www.amazon.es/dp/B01MRAH6JF/?tag=tolees-21) con 39.83 de descuento por 34.9 EUR (original: 58 EUR) en el siguiente enlace!

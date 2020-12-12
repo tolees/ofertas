@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'FIND Cazadora de Beísbol con Manga Ranglan para Mujer   Negro  Black/ivory   36  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NAL8XB6/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND Cazadora de Beísbol con Manga Rangl'
 ---
 
 Tienes [FIND Cazadora de Beísbol con Manga Ranglan para Mujer   Negro  Black/ivory   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B01NAL8XB6/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 9 EUR (original: 30 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Mochila Infantil para niños Primaria pequeña Guardería Mochila Preescolar para niños DE 2-5 años Dibujo de Animal Lindo  Ardilla  21 * 8 * 26CM '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JY5T49X/?tag=tolees-21'
+descuento: '47.09'
+titulo: 'Mochila Infantil para niños Primaria peq'
 ---
 
 Está [Mochila Infantil para niños Primaria pequeña Guardería Mochila Preescolar para niños DE 2-5 años Dibujo de Animal Lindo  Ardilla  21 * 8 * 26CM ](https://www.amazon.es/dp/B07JY5T49X/?tag=tolees-21) con 47.09 de descuento por 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 155 EUR
 inStock: true
 prodname: 'Tuscany Silver - Pulsera de plata de ley  925/1000 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000S6LQVS/?tag=tolees-21'
+descuento: '70.01'
+titulo: 'Tuscany Silver - Pulsera de plata de ley'
 ---
 
 Tienes [Tuscany Silver - Pulsera de plata de ley  925/1000 ](https://www.amazon.es/dp/B000S6LQVS/?tag=tolees-21) con un 70.01 % de descuento con precio de oferta de 46.49 EUR (original: 155 EUR) en el siguiente enlace!

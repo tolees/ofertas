@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'XTI 48190  Zapatillas para Hombre  Negro  Black   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCBMCTQ/?tag=tolees-21'
+descuento: '44.76'
+titulo: 'XTI 48190  Zapatillas para Hombre  Negro'
 ---
 
 Está [XTI 48190  Zapatillas para Hombre  Negro  Black   42 EU](https://www.amazon.es/dp/B07DCBMCTQ/?tag=tolees-21) con 44.76 de descuento por 22.07 EUR (original: 39.95 EUR) en el siguiente enlace!

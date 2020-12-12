@@ -17,6 +17,9 @@ comparePrice: 42.5 EUR
 inStock: true
 prodname: 'Crocs Classic  Zuecos Unisex Adulto  Beige  Cobblestone 2v3   43/44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CN8WWZZ/?tag=tolees-21'
+descuento: '50.59'
+titulo: 'Crocs Classic  Zuecos Unisex Adulto  Bei'
 ---
 
 Tienes [Crocs Classic  Zuecos Unisex Adulto  Beige  Cobblestone 2v3   43/44 EU](https://www.amazon.es/dp/B07CN8WWZZ/?tag=tolees-21) con un 50.59 % de descuento con precio de oferta de 21 EUR (original: 42.5 EUR) en el siguiente enlace!

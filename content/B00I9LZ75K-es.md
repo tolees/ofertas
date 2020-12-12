@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Intex 29051 - Red con bolsa y compatible con mango de 29 8 mm de diámetro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I9LZ75K/?tag=tolees-21'
+descuento: '39.00'
+titulo: 'Intex 29051 - Red con bolsa y compatible'
 ---
 
 Tienes [Intex 29051 - Red con bolsa y compatible con mango de 29 8 mm de diámetro](https://www.amazon.es/dp/B00I9LZ75K/?tag=tolees-21) con un 39.00 % de descuento con precio de oferta de 7.9 EUR (original: 12.95 EUR) en el siguiente enlace!

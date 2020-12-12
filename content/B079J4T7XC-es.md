@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Asics Comutora MX  Zapatillas de Entrenamiento para Mujer  Gris Mid Grey 020  37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079J4T7XC/?tag=tolees-21'
+descuento: '60.07'
+titulo: 'Asics Comutora MX  Zapatillas de Entrena'
 ---
 
 Tienes [Asics Comutora MX  Zapatillas de Entrenamiento para Mujer  Gris Mid Grey 020  37.5 EU](https://www.amazon.es/dp/B079J4T7XC/?tag=tolees-21) con un 60.07 % de descuento con precio de oferta de 27.95 EUR (original: 70 EUR) en el siguiente enlace!

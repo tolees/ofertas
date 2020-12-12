@@ -17,6 +17,9 @@ comparePrice: 81.8 EUR
 inStock: true
 prodname: 'GUESS M64b29w80v0  Pantalones para Hombre  Grigio  Sweet Grey   46  Talla del fabricante: 30 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2VO4FT/?tag=tolees-21'
+descuento: '71.11'
+titulo: 'GUESS M64b29w80v0  Pantalones para Hombr'
 ---
 
 Está [GUESS M64b29w80v0  Pantalones para Hombre  Grigio  Sweet Grey   46  Talla del fabricante: 30 ](https://www.amazon.es/dp/B01N2VO4FT/?tag=tolees-21) con 71.11 de descuento por 23.63 EUR (original: 81.8 EUR) en el siguiente enlace!

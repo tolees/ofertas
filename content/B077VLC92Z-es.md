@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Levi s 511 Fit  Vaqueros slim para Hombre  Azul  Rolf 2613  32W / 34L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077VLC92Z/?tag=tolees-21'
+descuento: '60.26'
+titulo: 'Levi s 511 Fit  Vaqueros slim para Hombr'
 ---
 
 Está [Levi s 511 Fit  Vaqueros slim para Hombre  Azul  Rolf 2613  32W / 34L](https://www.amazon.es/dp/B077VLC92Z/?tag=tolees-21) con 60.26 de descuento por 43.71 EUR (original: 110 EUR) en el siguiente enlace!

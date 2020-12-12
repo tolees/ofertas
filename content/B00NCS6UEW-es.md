@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Polar Loop 90052236 - Pulsera de actividad  monitor de ritmo cardíaco  color Morado  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NCS6UEW/?tag=tolees-21'
+descuento: '58.46'
+titulo: 'Polar Loop 90052236 - Pulsera de activid'
 ---
 
 Tienes [Polar Loop 90052236 - Pulsera de actividad  monitor de ritmo cardíaco  color Morado  Talla única](https://www.amazon.es/dp/B00NCS6UEW/?tag=tolees-21) con un 58.46 % de descuento con precio de oferta de 41.5 EUR (original: 99.9 EUR) en el siguiente enlace!

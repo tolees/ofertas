@@ -17,6 +17,9 @@ comparePrice: 155 EUR
 inStock: true
 prodname: 'Bosch SilentMixx MMB65G0M - Batidora de vaso  800 W  2.3 litros  selector de velocidad variable con diferentes programas  cuchillas Easy KlickKnife  jarra termoresistente  color negro y acero'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014UL27OQ/?tag=tolees-21'
+descuento: '54.86'
+titulo: 'Bosch SilentMixx MMB65G0M - Batidora de '
 ---
 
 Ahora mismo tienes [Bosch SilentMixx MMB65G0M - Batidora de vaso  800 W  2.3 litros  selector de velocidad variable con diferentes programas  cuchillas Easy KlickKnife  jarra termoresistente  color negro y acero](https://www.amazon.es/dp/B014UL27OQ/?tag=tolees-21) a 69.97 EUR (original: 155 EUR) (54.86 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 26.56 EUR
 inStock: true
 prodname: 'Bosch 2 609 256 989 - Juego variado Uneo  pack de 19 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004MKNKQU/?tag=tolees-21'
+descuento: '42.02'
+titulo: 'Bosch 2 609 256 989 - Juego variado Uneo'
 ---
 
 Está [Bosch 2 609 256 989 - Juego variado Uneo  pack de 19 ](https://www.amazon.es/dp/B004MKNKQU/?tag=tolees-21) con 42.02 de descuento por 15.4 EUR (original: 26.56 EUR) en el siguiente enlace!

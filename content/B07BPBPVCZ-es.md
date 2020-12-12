@@ -17,6 +17,9 @@ comparePrice: 1028.49 EUR
 inStock: true
 prodname: 'HP ProBook 430 G5 - Ordenador Portátil Profesional 13.3" HD  Intel Core i5-8250  8GB RAM  256GB SSD  Intel Graphics  Windows 10 Pro  Plata - Teclado QWERTY Español'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BPBPVCZ/?tag=tolees-21'
+descuento: '43.47'
+titulo: 'HP ProBook 430 G5 - Ordenador Portátil P'
 ---
 
 Está [HP ProBook 430 G5 - Ordenador Portátil Profesional 13.3" HD  Intel Core i5-8250  8GB RAM  256GB SSD  Intel Graphics  Windows 10 Pro  Plata - Teclado QWERTY Español](https://www.amazon.es/dp/B07BPBPVCZ/?tag=tolees-21) con 43.47 de descuento por 581.36 EUR (original: 1028.49 EUR) en el siguiente enlace!

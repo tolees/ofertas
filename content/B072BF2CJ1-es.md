@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Corpore Superfoods Bio Corpore Superfoods Antiox - 25 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BF2CJ1/?tag=tolees-21'
+descuento: '73.24'
+titulo: 'Corpore Superfoods Bio Corpore Superfood'
 ---
 
 Tienes [Corpore Superfoods Bio Corpore Superfoods Antiox - 25 Unidades](https://www.amazon.es/dp/B072BF2CJ1/?tag=tolees-21) con un 73.24 % de descuento con precio de oferta de 4 EUR (original: 14.95 EUR) en el siguiente enlace!

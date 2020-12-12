@@ -17,6 +17,9 @@ comparePrice: 22.66 EUR
 inStock: true
 prodname: 'New Look Maternity Twist Back6128347  Jersey para Mujer   Dark Yellow 87   40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MLJG4K3/?tag=tolees-21'
+descuento: '82.35'
+titulo: 'New Look Maternity Twist Back6128347  Je'
 ---
 
 Ahora mismo tienes [New Look Maternity Twist Back6128347  Jersey para Mujer   Dark Yellow 87   40](https://www.amazon.es/dp/B07MLJG4K3/?tag=tolees-21) a 4 EUR (original: 22.66 EUR) (82.35 %  de descuento) en el siguiente enlace!

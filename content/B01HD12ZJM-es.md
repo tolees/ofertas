@@ -17,6 +17,9 @@ comparePrice: 199.95 EUR
 inStock: true
 prodname: 'Carolina Cavour Meghan Chaqueta  Blau  Dark Navy   M para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HD12ZJM/?tag=tolees-21'
+descuento: '80.63'
+titulo: 'Carolina Cavour Meghan Chaqueta  Blau  D'
 ---
 
 Está [Carolina Cavour Meghan Chaqueta  Blau  Dark Navy   M para Mujer](https://www.amazon.es/dp/B01HD12ZJM/?tag=tolees-21) con 80.63 de descuento por 38.74 EUR (original: 199.95 EUR) en el siguiente enlace!

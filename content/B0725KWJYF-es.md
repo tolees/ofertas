@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Puma Mega NRGY Turbo  Zapatillas De Deporte para Exterior para Mujer  Negro  Black-Dark Purple   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0725KWJYF/?tag=tolees-21'
+descuento: '63.03'
+titulo: 'Puma Mega NRGY Turbo  Zapatillas De Depo'
 ---
 
 Ahora mismo tienes [Puma Mega NRGY Turbo  Zapatillas De Deporte para Exterior para Mujer  Negro  Black-Dark Purple   40 EU](https://www.amazon.es/dp/B0725KWJYF/?tag=tolees-21) a 27.71 EUR (original: 74.95 EUR) (63.03 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 32.37 EUR
 inStock: true
 prodname: 'Salter 1052 BKDR plástico  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M0HRW4Y/?tag=tolees-21'
+descuento: '67.04'
+titulo: 'Salter 1052 BKDR plástico  Negro'
 ---
 
 Ahora mismo tienes [Salter 1052 BKDR plástico  Negro](https://www.amazon.es/dp/B01M0HRW4Y/?tag=tolees-21) a 10.67 EUR (original: 32.37 EUR) (67.04 %  de descuento) en el siguiente enlace!

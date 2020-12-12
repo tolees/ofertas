@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko Pop! Vinyl: Disney: NBX: Oogie Boogie 2785'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008Z1OHI2/?tag=tolees-21'
+descuento: '41.76'
+titulo: 'Funko Pop! Vinyl: Disney: NBX: Oogie Boo'
 ---
 
 Ahora mismo tienes [Funko Pop! Vinyl: Disney: NBX: Oogie Boogie 2785](https://www.amazon.es/dp/B008Z1OHI2/?tag=tolees-21) a 8.73 EUR (original: 14.99 EUR) (41.76 %  de descuento) en el siguiente enlace!

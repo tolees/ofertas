@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Aingoo Cama de Metal con somier de láminas con Marco  Blanco  140_x_190_cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CM4D69D/?tag=tolees-21'
+descuento: '28.57'
+titulo: 'Aingoo Cama de Metal con somier de lámin'
 ---
 
 Ahora mismo tienes [Aingoo Cama de Metal con somier de láminas con Marco  Blanco  140_x_190_cm ](https://www.amazon.es/dp/B07CM4D69D/?tag=tolees-21) a 99.99 EUR (original: 139.99 EUR) (28.57 %  de descuento) en el siguiente enlace!

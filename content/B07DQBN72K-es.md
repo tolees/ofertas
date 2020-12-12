@@ -17,6 +17,9 @@ comparePrice: 69.21 EUR
 inStock: true
 prodname: 'DADYPET Cama Gato  Hamaca Gato Ventana 6 Ventosas Resistentes Ahorrar Espacio MAX. Load Capacity 12kg  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQBN72K/?tag=tolees-21'
+descuento: '34.19'
+titulo: 'DADYPET Cama Gato  Hamaca Gato Ventana 6'
 ---
 
 Está [DADYPET Cama Gato  Hamaca Gato Ventana 6 Ventosas Resistentes Ahorrar Espacio MAX. Load Capacity 12kg  Negro ](https://www.amazon.es/dp/B07DQBN72K/?tag=tolees-21) con 34.19 de descuento por 45.55 EUR (original: 69.21 EUR) en el siguiente enlace!

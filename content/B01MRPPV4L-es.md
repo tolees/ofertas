@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Dakine Cinch Mochila  Unisex Adulto  Negro  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MRPPV4L/?tag=tolees-21'
+descuento: '32.05'
+titulo: 'Dakine Cinch Mochila  Unisex Adulto  Neg'
 ---
 
 Ahora mismo tienes [Dakine Cinch Mochila  Unisex Adulto  Negro  Talla Única](https://www.amazon.es/dp/B01MRPPV4L/?tag=tolees-21) a 14.95 EUR (original: 22 EUR) (32.05 %  de descuento) en el siguiente enlace!

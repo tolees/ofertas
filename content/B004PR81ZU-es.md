@@ -17,6 +17,9 @@ comparePrice: 564.72 EUR
 inStock: true
 prodname: 'Makita HM0870C Martillo Demoledor Sds Max 1100W 5.1 Kg Azul 0'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004PR81ZU/?tag=tolees-21'
+descuento: '37.32'
+titulo: 'Makita HM0870C Martillo Demoledor Sds Ma'
 ---
 
 Está [Makita HM0870C Martillo Demoledor Sds Max 1100W 5.1 Kg Azul 0](https://www.amazon.es/dp/B004PR81ZU/?tag=tolees-21) con 37.32 de descuento por 353.98 EUR (original: 564.72 EUR) en el siguiente enlace!

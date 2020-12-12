@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'POP! Bobble - Marvel: Avengers AOU: Hulk'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SUSUDCO/?tag=tolees-21'
+descuento: '41.49'
+titulo: 'POP! Bobble - Marvel: Avengers AOU: Hulk'
 ---
 
 Tienes [POP! Bobble - Marvel: Avengers AOU: Hulk](https://www.amazon.es/dp/B00SUSUDCO/?tag=tolees-21) con un 41.49 % de descuento con precio de oferta de 8.77 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'inphic Combo de Teclado y Mouse inalámbricos Recargable  Ultra Slim Silent Click 2.4G Mini ratón y Teclado inalámbricos con 12 Teclas Multimedia para PC Computadora portátil Mac'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZBK6D9/?tag=tolees-21'
+descuento: '44.89'
+titulo: 'inphic Combo de Teclado y Mouse inalámbr'
 ---
 
 Está [inphic Combo de Teclado y Mouse inalámbricos Recargable  Ultra Slim Silent Click 2.4G Mini ratón y Teclado inalámbricos con 12 Teclas Multimedia para PC Computadora portátil Mac](https://www.amazon.es/dp/B07CZBK6D9/?tag=tolees-21) con 44.89 de descuento por 21.99 EUR (original: 39.9 EUR) en el siguiente enlace!

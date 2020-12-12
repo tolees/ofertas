@@ -17,6 +17,9 @@ comparePrice: 269.99 EUR
 inStock: true
 prodname: 'LOBKIN Báscula Bluetooth con análisis corporal: Peso  grasa corporal BMI  masa muscular  masa ósea  masa visceral  agua corporal  edad metabólica  válido para app iOS y Android'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NQJ33SV/?tag=tolees-21'
+descuento: '90.37'
+titulo: 'LOBKIN Báscula Bluetooth con análisis co'
 ---
 
 Está [LOBKIN Báscula Bluetooth con análisis corporal: Peso  grasa corporal BMI  masa muscular  masa ósea  masa visceral  agua corporal  edad metabólica  válido para app iOS y Android](https://www.amazon.es/dp/B07NQJ33SV/?tag=tolees-21) con 90.37 de descuento por 25.99 EUR (original: 269.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjehoward Bomber Jacket  Chaqueta Hombre  Azul Total Eclipse  XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQLHZMW/?tag=tolees-21'
+descuento: '43.41'
+titulo: 'JACK & JONES Jjehoward Bomber Jacket  Ch'
 ---
 
 Está [JACK & JONES Jjehoward Bomber Jacket  Chaqueta Hombre  Azul Total Eclipse  XX-Large](https://www.amazon.es/dp/B07FQLHZMW/?tag=tolees-21) con 43.41 de descuento por 33.95 EUR (original: 59.99 EUR) en el siguiente enlace!

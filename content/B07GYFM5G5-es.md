@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'LOVORDS Pulsera Mujer Grabado Plata de Ley 925 Árbol de la Vida Familiar Círculo Regalo Madre Mamá Esposa o Hija'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GYFM5G5/?tag=tolees-21'
+descuento: '73.01'
+titulo: 'LOVORDS Pulsera Mujer Grabado Plata de L'
 ---
 
 Ahora mismo tienes [LOVORDS Pulsera Mujer Grabado Plata de Ley 925 Árbol de la Vida Familiar Círculo Regalo Madre Mamá Esposa o Hija](https://www.amazon.es/dp/B07GYFM5G5/?tag=tolees-21) a 26.99 EUR (original: 99.99 EUR) (73.01 %  de descuento) en el siguiente enlace!

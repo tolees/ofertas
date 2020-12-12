@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'New Balance 574  Zapatillas Unisex  Blanco  Nimbus Cloud/Team Red Ujd   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQV5S11/?tag=tolees-21'
+descuento: '35.83'
+titulo: 'New Balance 574  Zapatillas Unisex  Blan'
 ---
 
 Ahora mismo tienes [New Balance 574  Zapatillas Unisex  Blanco  Nimbus Cloud/Team Red Ujd   37 EU](https://www.amazon.es/dp/B07BQV5S11/?tag=tolees-21) a 38.5 EUR (original: 60 EUR) (35.83 %  de descuento) en el siguiente enlace!

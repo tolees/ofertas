@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Under Armour The Original 6   Jock Boxers  Hombre  Negro  Black/Red 001   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014VAR0S4/?tag=tolees-21'
+descuento: '29.01'
+titulo: 'Under Armour The Original 6   Jock Boxer'
 ---
 
 Tienes [Under Armour The Original 6   Jock Boxers  Hombre  Negro  Black/Red 001   L](https://www.amazon.es/dp/B014VAR0S4/?tag=tolees-21) con un 29.01 % de descuento con precio de oferta de 16.32 EUR (original: 22.99 EUR) en el siguiente enlace!

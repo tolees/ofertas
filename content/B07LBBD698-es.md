@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Tommy Jeans TJM Circle Graphic tee Camiseta  Gris  Lt Grey Htr 038   S para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBBD698/?tag=tolees-21'
+descuento: '31.21'
+titulo: 'Tommy Jeans TJM Circle Graphic tee Camis'
 ---
 
 Tienes [Tommy Jeans TJM Circle Graphic tee Camiseta  Gris  Lt Grey Htr 038   S para Hombre](https://www.amazon.es/dp/B07LBBD698/?tag=tolees-21) con un 31.21 % de descuento con precio de oferta de 19.95 EUR (original: 29 EUR) en el siguiente enlace!

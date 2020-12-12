@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'SizeGain Plus  Pastillas para Alargar el Pene  30 comprimidos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009YJN3Y8/?tag=tolees-21'
+descuento: '36.08'
+titulo: 'SizeGain Plus  Pastillas para Alargar el'
 ---
 
 Ahora mismo tienes [SizeGain Plus  Pastillas para Alargar el Pene  30 comprimidos](https://www.amazon.es/dp/B009YJN3Y8/?tag=tolees-21) a 31.93 EUR (original: 49.95 EUR) (36.08 %  de descuento) en el siguiente enlace!

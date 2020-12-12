@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Columbia Silver Ridge II Camisa de Senderismo Manga Corta  Hombre  Gris  Grill   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0771VZN5K/?tag=tolees-21'
+descuento: '34.81'
+titulo: 'Columbia Silver Ridge II Camisa de Sende'
 ---
 
 Ahora mismo tienes [Columbia Silver Ridge II Camisa de Senderismo Manga Corta  Hombre  Gris  Grill   XL](https://www.amazon.es/dp/B0771VZN5K/?tag=tolees-21) a 35.85 EUR (original: 54.99 EUR) (34.81 %  de descuento) en el siguiente enlace!

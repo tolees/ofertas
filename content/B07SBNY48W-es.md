@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'CoKu Sacacorchos Eléctrico  Abrebotellas Eléctrico Vino con Sacacorchos y Cuchillos Abrebotellas Inalámbrico de Acero Inoxidable  Gris Plata '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SBNY48W/?tag=tolees-21'
+descuento: '53.59'
+titulo: 'CoKu Sacacorchos Eléctrico  Abrebotellas'
 ---
 
 Está [CoKu Sacacorchos Eléctrico  Abrebotellas Eléctrico Vino con Sacacorchos y Cuchillos Abrebotellas Inalámbrico de Acero Inoxidable  Gris Plata ](https://www.amazon.es/dp/B07SBNY48W/?tag=tolees-21) con 53.59 de descuento por 12.99 EUR (original: 27.99 EUR) en el siguiente enlace!

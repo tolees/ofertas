@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Nike Lfp Skills - Balón de fútbol  Unisex  Color Blanco y Rosa  Talla 1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VBPIKO6/?tag=tolees-21'
+descuento: '46.50'
+titulo: 'Nike Lfp Skills - Balón de fútbol  Unise'
 ---
 
 Tienes [Nike Lfp Skills - Balón de fútbol  Unisex  Color Blanco y Rosa  Talla 1](https://www.amazon.es/dp/B00VBPIKO6/?tag=tolees-21) con un 46.50 % de descuento con precio de oferta de 6.95 EUR (original: 12.99 EUR) en el siguiente enlace!

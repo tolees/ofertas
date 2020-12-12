@@ -17,6 +17,9 @@ comparePrice: 26.72 EUR
 inStock: true
 prodname: 'Paper Mate S0903250 - Bolígrafo de gel de punta de bola  punta de 0 7 mm  línea de 0 5 mm  12 unidades   color multicolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004HV0A0S/?tag=tolees-21'
+descuento: '66.47'
+titulo: 'Paper Mate S0903250 - Bolígrafo de gel d'
 ---
 
 Está [Paper Mate S0903250 - Bolígrafo de gel de punta de bola  punta de 0 7 mm  línea de 0 5 mm  12 unidades   color multicolor](https://www.amazon.es/dp/B004HV0A0S/?tag=tolees-21) con 66.47 de descuento por 8.96 EUR (original: 26.72 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'liaboe Nano Mist Pulverizador Handheld Ionic Spray Facial Mister Cara Steamer Mini portátil para Extensiones de Pestañas  Contracción del poro  Deep Hidratante  SPA Facial Recargable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNPZFJB/?tag=tolees-21'
+descuento: '47.09'
+titulo: 'liaboe Nano Mist Pulverizador Handheld I'
 ---
 
 Está [liaboe Nano Mist Pulverizador Handheld Ionic Spray Facial Mister Cara Steamer Mini portátil para Extensiones de Pestañas  Contracción del poro  Deep Hidratante  SPA Facial Recargable](https://www.amazon.es/dp/B07FNPZFJB/?tag=tolees-21) con 47.09 de descuento por 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!

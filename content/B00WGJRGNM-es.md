@@ -17,6 +17,9 @@ comparePrice: 27.2 EUR
 inStock: true
 prodname: 'Trutex 2PK LS Non Iron Shirt  Camisa Niños  Oro  Gold   16+ Años  talla fabricante: 16" cuello '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WGJRGNM/?tag=tolees-21'
+descuento: '70.33'
+titulo: 'Trutex 2PK LS Non Iron Shirt  Camisa Niñ'
 ---
 
 Tienes [Trutex 2PK LS Non Iron Shirt  Camisa Niños  Oro  Gold   16+ Años  talla fabricante: 16" cuello ](https://www.amazon.es/dp/B00WGJRGNM/?tag=tolees-21) con un 70.33 % de descuento con precio de oferta de 8.07 EUR (original: 27.2 EUR) en el siguiente enlace!

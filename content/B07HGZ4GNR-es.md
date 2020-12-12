@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'AEVOBAS Molinillo de Café Eléctrico  Molinillo de Especias Eléctrico con Cuchilla de Acero Inoxidable  la Taza amovible de Acero Inoxidable y Cepillo de limpieza  200 W  MD - 8301A Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HGZ4GNR/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'AEVOBAS Molinillo de Café Eléctrico  Mol'
 ---
 
 Ahora mismo tienes [AEVOBAS Molinillo de Café Eléctrico  Molinillo de Especias Eléctrico con Cuchilla de Acero Inoxidable  la Taza amovible de Acero Inoxidable y Cepillo de limpieza  200 W  MD - 8301A Negro](https://www.amazon.es/dp/B07HGZ4GNR/?tag=tolees-21) a 20.99 EUR (original: 29.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Lanson-Rometo  Zapatillas de Entrenamiento para Hombre  Azul  Navy   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IRLFL2U/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'Skechers Lanson-Rometo  Zapatillas de En'
 ---
 
 Tienes [Skechers Lanson-Rometo  Zapatillas de Entrenamiento para Hombre  Azul  Navy   41 EU](https://www.amazon.es/dp/B01IRLFL2U/?tag=tolees-21) con un 50.04 % de descuento con precio de oferta de 32.45 EUR (original: 64.95 EUR) en el siguiente enlace!

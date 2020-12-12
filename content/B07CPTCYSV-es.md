@@ -17,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'Lifewit Bolsa Térmica para Llevar Lasaña/Pizzas 41cm×31cm×21cm Doble Pisos Separados Bolsa Aislado para Mantener los Alimentos Calientes o Fríos para Fiestas  Picnic y Playa  Gris B '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CPTCYSV/?tag=tolees-21'
+descuento: '70.29'
+titulo: 'Lifewit Bolsa Térmica para Llevar Lasaña'
 ---
 
 Está [Lifewit Bolsa Térmica para Llevar Lasaña/Pizzas 41cm×31cm×21cm Doble Pisos Separados Bolsa Aislado para Mantener los Alimentos Calientes o Fríos para Fiestas  Picnic y Playa  Gris B ](https://www.amazon.es/dp/B07CPTCYSV/?tag=tolees-21) con 70.29 de descuento por 10.99 EUR (original: 36.99 EUR) en el siguiente enlace!

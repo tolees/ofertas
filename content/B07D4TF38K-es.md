@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Only & Sons Onsace Jacket  Chaqueta para Hombre  Rhubarb  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4TF38K/?tag=tolees-21'
+descuento: '55.21'
+titulo: 'Only & Sons Onsace Jacket  Chaqueta para'
 ---
 
 Está [Only & Sons Onsace Jacket  Chaqueta para Hombre  Rhubarb  X-Large](https://www.amazon.es/dp/B07D4TF38K/?tag=tolees-21) con 55.21 de descuento por 22.39 EUR (original: 49.99 EUR) en el siguiente enlace!

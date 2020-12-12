@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Desigual Ts_Neusifu  Camisa Manga Larga para Mujer  Rojo  Burdeos 3006   S  Talla de fabricante: M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XPSYQTC/?tag=tolees-21'
+descuento: '25.87'
+titulo: 'Desigual Ts_Neusifu  Camisa Manga Larga '
 ---
 
 Tienes [Desigual Ts_Neusifu  Camisa Manga Larga para Mujer  Rojo  Burdeos 3006   S  Talla de fabricante: M ](https://www.amazon.es/dp/B06XPSYQTC/?tag=tolees-21) con un 25.87 % de descuento con precio de oferta de 37.03 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 57.71 EUR
 inStock: true
 prodname: 'Samsung EP-PN920 Interior Blanco - Cargador  Interior  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N52AEJG/?tag=tolees-21'
+descuento: '74.35'
+titulo: 'Samsung EP-PN920 Interior Blanco - Carga'
 ---
 
 Ahora mismo tienes [Samsung EP-PN920 Interior Blanco - Cargador  Interior  Blanco ](https://www.amazon.es/dp/B01N52AEJG/?tag=tolees-21) a 14.8 EUR (original: 57.71 EUR) (74.35 %  de descuento) en el siguiente enlace!

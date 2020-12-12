@@ -17,6 +17,9 @@ comparePrice: 69.75 EUR
 inStock: true
 prodname: 'Superdry International Slim Chino Lite Short Pantalones Cortos  Azul  Neptune Blue Aky   33 EU para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZJJPYD/?tag=tolees-21'
+descuento: '48.46'
+titulo: 'Superdry International Slim Chino Lite S'
 ---
 
 Está [Superdry International Slim Chino Lite Short Pantalones Cortos  Azul  Neptune Blue Aky   33 EU para Hombre](https://www.amazon.es/dp/B07MZJJPYD/?tag=tolees-21) con 48.46 de descuento por 35.95 EUR (original: 69.75 EUR) en el siguiente enlace!

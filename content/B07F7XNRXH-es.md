@@ -17,6 +17,9 @@ comparePrice: 109.79 EUR
 inStock: true
 prodname: 'Cortabordes Eléctrico  TACKLIFE Cortabordes 600W  30cm de Diámetro de Corte  Cabezal de Corte Inclinable de 180°  Tap&Go Avance Controlado del Hilo  Rueda de Gu ía -GGT1A'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7XNRXH/?tag=tolees-21'
+descuento: '64.50'
+titulo: 'Cortabordes Eléctrico  TACKLIFE Cortabor'
 ---
 
 Ahora mismo tienes [Cortabordes Eléctrico  TACKLIFE Cortabordes 600W  30cm de Diámetro de Corte  Cabezal de Corte Inclinable de 180°  Tap&Go Avance Controlado del Hilo  Rueda de Gu ía -GGT1A](https://www.amazon.es/dp/B07F7XNRXH/?tag=tolees-21) a 38.97 EUR (original: 109.79 EUR) (64.50 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'RENBERG TWISTER- SET 15 BOLES CRISTAL - AZUL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071DFD3VF/?tag=tolees-21'
+descuento: '60.02'
+titulo: 'RENBERG TWISTER- SET 15 BOLES CRISTAL - '
 ---
 
 Ahora mismo tienes [RENBERG TWISTER- SET 15 BOLES CRISTAL - AZUL](https://www.amazon.es/dp/B071DFD3VF/?tag=tolees-21) a 15.99 EUR (original: 39.99 EUR) (60.02 %  de descuento) en el siguiente enlace!

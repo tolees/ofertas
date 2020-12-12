@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Belkin F8J043bt04-WHT - Cable de carga/sincronizacíon   30 pin   color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0153CO0QO/?tag=tolees-21'
+descuento: '66.71'
+titulo: 'Belkin F8J043bt04-WHT - Cable de carga/s'
 ---
 
 Tienes [Belkin F8J043bt04-WHT - Cable de carga/sincronizacíon   30 pin   color blanco](https://www.amazon.es/dp/B0153CO0QO/?tag=tolees-21) con un 66.71 % de descuento con precio de oferta de 4.99 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.27 EUR
 inStock: true
 prodname: 'YUECHAO - Látigo de Caballo  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZ2GDB8/?tag=tolees-21'
+descuento: '65.01'
+titulo: 'YUECHAO - Látigo de Caballo  Color Negro'
 ---
 
 Ahora mismo tienes [YUECHAO - Látigo de Caballo  Color Negro](https://www.amazon.es/dp/B07MZ2GDB8/?tag=tolees-21) a 11.99 EUR (original: 34.27 EUR) (65.01 %  de descuento) en el siguiente enlace!

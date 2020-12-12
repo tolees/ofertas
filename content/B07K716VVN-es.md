@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Levi s Graphic Varsity tee Camiseta   CB Shortee White + C30768 & Lychee & M 0002   Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K716VVN/?tag=tolees-21'
+descuento: '56.83'
+titulo: 'Levi s Graphic Varsity tee Camiseta   CB'
 ---
 
 Tienes [Levi s Graphic Varsity tee Camiseta   CB Shortee White + C30768 & Lychee & M 0002   Small para Mujer](https://www.amazon.es/dp/B07K716VVN/?tag=tolees-21) con un 56.83 % de descuento con precio de oferta de 12.95 EUR (original: 30 EUR) en el siguiente enlace!

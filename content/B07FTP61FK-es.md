@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slhslim-Yard Blue Shadow Pants W Noos  Pantalones Hombre  Azul  Blue Shadow   W36/L32  Talla del Fabricante: 36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTP61FK/?tag=tolees-21'
+descuento: '77.45'
+titulo: 'SELECTED HOMME Slhslim-Yard Blue Shadow '
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhslim-Yard Blue Shadow Pants W Noos  Pantalones Hombre  Azul  Blue Shadow   W36/L32  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B07FTP61FK/?tag=tolees-21) a 13.53 EUR (original: 59.99 EUR) (77.45 %  de descuento) en el siguiente enlace!

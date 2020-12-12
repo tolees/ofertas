@@ -17,6 +17,9 @@ comparePrice: 40.46 EUR
 inStock: true
 prodname: 'Silverline 633595 - Tanque y depósitos para maquinaria'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000LFYMCQ/?tag=tolees-21'
+descuento: '30.67'
+titulo: 'Silverline 633595 - Tanque y depósitos p'
 ---
 
 Tienes [Silverline 633595 - Tanque y depósitos para maquinaria](https://www.amazon.es/dp/B000LFYMCQ/?tag=tolees-21) con un 30.67 % de descuento con precio de oferta de 28.05 EUR (original: 40.46 EUR) en el siguiente enlace!

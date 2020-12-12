@@ -17,6 +17,9 @@ comparePrice: 58.45 EUR
 inStock: true
 prodname: 'Disney Frozen Elsa Canto tradiciones característica muñeca'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XPCNPJ8/?tag=tolees-21'
+descuento: '57.38'
+titulo: 'Disney Frozen Elsa Canto tradiciones car'
 ---
 
 Ahora mismo tienes [Disney Frozen Elsa Canto tradiciones característica muñeca](https://www.amazon.es/dp/B06XPCNPJ8/?tag=tolees-21) a 24.91 EUR (original: 58.45 EUR) (57.38 %  de descuento) en el siguiente enlace!

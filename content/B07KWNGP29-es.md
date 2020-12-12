@@ -17,6 +17,9 @@ comparePrice: 22.12 EUR
 inStock: true
 prodname: 'New Look Snap Through Shacket5896197  Chaqueta para Hombre  Rojo  Bright Red 60  XX-Large  Talla del Fabricante: 55 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KWNGP29/?tag=tolees-21'
+descuento: '33.82'
+titulo: 'New Look Snap Through Shacket5896197  Ch'
 ---
 
 Tienes [New Look Snap Through Shacket5896197  Chaqueta para Hombre  Rojo  Bright Red 60  XX-Large  Talla del Fabricante: 55 ](https://www.amazon.es/dp/B07KWNGP29/?tag=tolees-21) con un 33.82 % de descuento con precio de oferta de 14.64 EUR (original: 22.12 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Helly Hansen Driftline Polo  Polo para Hombre  Azul  Azul Olympian 563   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4DZ99W/?tag=tolees-21'
+descuento: '60.58'
+titulo: 'Helly Hansen Driftline Polo  Polo para H'
 ---
 
 Ahora mismo tienes [Helly Hansen Driftline Polo  Polo para Hombre  Azul  Azul Olympian 563   X-Large](https://www.amazon.es/dp/B01N4DZ99W/?tag=tolees-21) a 21.68 EUR (original: 55 EUR) (60.58 %  de descuento) en el siguiente enlace!

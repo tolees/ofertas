@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'DlandHome 80 * 40 cm Ajustable Mesa de Ordenador Portatil con Ruedas Sofá Mesa Mesas de Centro  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GB2FPRN/?tag=tolees-21'
+descuento: '62.22'
+titulo: 'DlandHome 80 * 40 cm Ajustable Mesa de O'
 ---
 
 Tienes [DlandHome 80 * 40 cm Ajustable Mesa de Ordenador Portatil con Ruedas Sofá Mesa Mesas de Centro  Negro](https://www.amazon.es/dp/B07GB2FPRN/?tag=tolees-21) con un 62.22 % de descuento con precio de oferta de 34 EUR (original: 90 EUR) en el siguiente enlace!

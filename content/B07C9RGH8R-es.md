@@ -17,6 +17,9 @@ comparePrice: 19.19 EUR
 inStock: true
 prodname: 'Guaiboshi Luces Solares Impermeable LED Decorativas Lámparas Solar Iluminación Similar  Luz Del Sensor de Llama para el jardín  Fiestas  Hogar  Escaleras  Valla  Pared exterior'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C9RGH8R/?tag=tolees-21'
+descuento: '72.95'
+titulo: 'Guaiboshi Luces Solares Impermeable LED '
 ---
 
 Tienes [Guaiboshi Luces Solares Impermeable LED Decorativas Lámparas Solar Iluminación Similar  Luz Del Sensor de Llama para el jardín  Fiestas  Hogar  Escaleras  Valla  Pared exterior](https://www.amazon.es/dp/B07C9RGH8R/?tag=tolees-21) con un 72.95 % de descuento con precio de oferta de 5.19 EUR (original: 19.19 EUR) en el siguiente enlace!

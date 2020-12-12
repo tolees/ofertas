@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Braun Minipimer 5 MQ5037WH Puree and sauce - Batidora de mano  incluye paquete accesorios premium  750 w potencia  21 velocidades  campana anti-salpicaduras  blanco y gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PFYKAA6/?tag=tolees-21'
+descuento: '36.67'
+titulo: 'Braun Minipimer 5 MQ5037WH Puree and sau'
 ---
 
 Tienes [Braun Minipimer 5 MQ5037WH Puree and sauce - Batidora de mano  incluye paquete accesorios premium  750 w potencia  21 velocidades  campana anti-salpicaduras  blanco y gris](https://www.amazon.es/dp/B00PFYKAA6/?tag=tolees-21) con un 36.67 % de descuento con precio de oferta de 56.99 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'adidas Nemeziz 17.4 TR  Zapatillas de Fútbol para Hombre   Core Black/Solar Yellow/FTWR White   42 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M3TWGKZ/?tag=tolees-21'
+descuento: '46.92'
+titulo: 'adidas Nemeziz 17.4 TR  Zapatillas de Fú'
 ---
 
 Está [adidas Nemeziz 17.4 TR  Zapatillas de Fútbol para Hombre   Core Black/Solar Yellow/FTWR White   42 2/3 EU](https://www.amazon.es/dp/B01M3TWGKZ/?tag=tolees-21) con 46.92 de descuento por 29.17 EUR (original: 54.95 EUR) en el siguiente enlace!

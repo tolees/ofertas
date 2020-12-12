@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Gioseppo Botas Clasicas para Hombre  Marrón  Taupe 46637-P   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG35KZQ/?tag=tolees-21'
+descuento: '67.35'
+titulo: 'Gioseppo Botas Clasicas para Hombre  Mar'
 ---
 
 Tienes [Gioseppo Botas Clasicas para Hombre  Marrón  Taupe 46637-P   40 EU](https://www.amazon.es/dp/B07DG35KZQ/?tag=tolees-21) con un 67.35 % de descuento con precio de oferta de 26.1 EUR (original: 79.95 EUR) en el siguiente enlace!

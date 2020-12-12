@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'THE G-LAB - KORP-Chromium - Auriculares Gaming de Alto Rendimiento - Máxima Inmersión - Compatible con PS4  PC  Nintendo Switch & Xbox - Diadema Suspendida'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5RY7KF/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'THE G-LAB - KORP-Chromium - Auriculares '
 ---
 
 Está [THE G-LAB - KORP-Chromium - Auriculares Gaming de Alto Rendimiento - Máxima Inmersión - Compatible con PS4  PC  Nintendo Switch & Xbox - Diadema Suspendida](https://www.amazon.es/dp/B07D5RY7KF/?tag=tolees-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

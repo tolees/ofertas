@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'FIND Salones de Charol con Corte Perfilado para Mujer  Morado  Purple   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0734QHX8T/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'FIND Salones de Charol con Corte Perfila'
 ---
 
 Está [FIND Salones de Charol con Corte Perfilado para Mujer  Morado  Purple   41 EU](https://www.amazon.es/dp/B0734QHX8T/?tag=tolees-21) con 30.00 de descuento por 41.3 EUR (original: 59 EUR) en el siguiente enlace!

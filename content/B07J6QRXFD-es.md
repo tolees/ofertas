@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Safta - LOL Surprise Oficial Mochila Infantil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J6QRXFD/?tag=tolees-21'
+descuento: '41.37'
+titulo: 'Safta - LOL Surprise Oficial Mochila Inf'
 ---
 
 Está [Safta - LOL Surprise Oficial Mochila Infantil](https://www.amazon.es/dp/B07J6QRXFD/?tag=tolees-21) con 41.37 de descuento por 17.59 EUR (original: 30 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Under Armour Torch  Zapatos de Baloncesto para Hombre  Negro  Black/Mod Gray/Metallic Silver 004   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVCC51M/?tag=tolees-21'
+descuento: '57.00'
+titulo: 'Under Armour Torch  Zapatos de Baloncest'
 ---
 
 Está [Under Armour Torch  Zapatos de Baloncesto para Hombre  Negro  Black/Mod Gray/Metallic Silver 004   42 EU](https://www.amazon.es/dp/B07CVCC51M/?tag=tolees-21) con 57.00 de descuento por 38.7 EUR (original: 90 EUR) en el siguiente enlace!

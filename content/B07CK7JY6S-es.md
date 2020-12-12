@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Ora Mira S1701 - Teléfono móvil Dual SIM  Bluetooth  Pantalla de 1.77"  Memoria de 32 MB  cámara VGA  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CK7JY6S/?tag=tolees-21'
+descuento: '38.93'
+titulo: 'Ora Mira S1701 - Teléfono móvil Dual SIM'
 ---
 
 Ahora mismo tienes [Ora Mira S1701 - Teléfono móvil Dual SIM  Bluetooth  Pantalla de 1.77"  Memoria de 32 MB  cámara VGA  Color Negro](https://www.amazon.es/dp/B07CK7JY6S/?tag=tolees-21) a 18.26 EUR (original: 29.9 EUR) (38.93 %  de descuento) en el siguiente enlace!

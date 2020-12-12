@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Pepe Jeans Swimming Durham  Chanclas para Hombre  Azul  595NAVY 595   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LFW6PG3/?tag=tolees-21'
+descuento: '34.41'
+titulo: 'Pepe Jeans Swimming Durham  Chanclas par'
 ---
 
 Está [Pepe Jeans Swimming Durham  Chanclas para Hombre  Azul  595NAVY 595   43 EU](https://www.amazon.es/dp/B07LFW6PG3/?tag=tolees-21) con 34.41 de descuento por 14.43 EUR (original: 22 EUR) en el siguiente enlace!

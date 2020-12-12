@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Salomon Coton Logo SS tee Camiseta  Hombre  Azul  Night Sky   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MXJGZTD/?tag=tolees-21'
+descuento: '39.93'
+titulo: 'Salomon Coton Logo SS tee Camiseta  Homb'
 ---
 
 Está [Salomon Coton Logo SS tee Camiseta  Hombre  Azul  Night Sky   XL](https://www.amazon.es/dp/B07MXJGZTD/?tag=tolees-21) con 39.93 de descuento por 16.82 EUR (original: 28 EUR) en el siguiente enlace!

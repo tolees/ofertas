@@ -17,6 +17,9 @@ comparePrice: 16.95 EUR
 inStock: true
 prodname: 'HIKARO AMA HAYAND camisetas  Rojo  Red   36  Talla del fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0785RNKYH/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HIKARO AMA HAYAND camisetas  Rojo  Red  '
 ---
 
 Ahora mismo tienes [HIKARO AMA HAYAND camisetas  Rojo  Red   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B0785RNKYH/?tag=tolees-21) a 10.17 EUR (original: 16.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

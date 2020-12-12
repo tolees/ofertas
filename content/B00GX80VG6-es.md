@@ -17,6 +17,9 @@ comparePrice: 30.71 EUR
 inStock: true
 prodname: 'High School Of The Dead - Serie Completa [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GX80VG6/?tag=tolees-21'
+descuento: '49.53'
+titulo: 'High School Of The Dead - Serie Completa'
 ---
 
 Ahora mismo tienes [High School Of The Dead - Serie Completa [Blu-ray]](https://www.amazon.es/dp/B00GX80VG6/?tag=tolees-21) a 15.5 EUR (original: 30.71 EUR) (49.53 %  de descuento) en el siguiente enlace!

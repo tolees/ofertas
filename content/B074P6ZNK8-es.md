@@ -17,6 +17,9 @@ comparePrice: 18.23 EUR
 inStock: true
 prodname: 'Helly Hansen algodón Calcetines Deportivos  3 Unidades   Unisex  Color Blanco  tamaño Size 45-47'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074P6ZNK8/?tag=tolees-21'
+descuento: '56.39'
+titulo: 'Helly Hansen algodón Calcetines Deportiv'
 ---
 
 Está [Helly Hansen algodón Calcetines Deportivos  3 Unidades   Unisex  Color Blanco  tamaño Size 45-47](https://www.amazon.es/dp/B074P6ZNK8/?tag=tolees-21) con 56.39 de descuento por 7.95 EUR (original: 18.23 EUR) en el siguiente enlace!

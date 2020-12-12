@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Recent-Meroso  Zapatillas para Hombre  Gris Charcoal  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVJXF31/?tag=tolees-21'
+descuento: '56.91'
+titulo: 'Skechers Recent-Meroso  Zapatillas para '
 ---
 
 Ahora mismo tienes [Skechers Recent-Meroso  Zapatillas para Hombre  Gris Charcoal  44 EU](https://www.amazon.es/dp/B07CVJXF31/?tag=tolees-21) a 30.14 EUR (original: 69.95 EUR) (56.91 %  de descuento) en el siguiente enlace!

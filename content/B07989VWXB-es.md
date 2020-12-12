@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'G-Star RAW Rovulc Mid  Zapatillas Altas para Mujer  Multicolor  Milk/Dk Saru Blue Aop 9280   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07989VWXB/?tag=tolees-21'
+descuento: '66.14'
+titulo: 'G-Star RAW Rovulc Mid  Zapatillas Altas '
 ---
 
 Tienes [G-Star RAW Rovulc Mid  Zapatillas Altas para Mujer  Multicolor  Milk/Dk Saru Blue Aop 9280   39 EU](https://www.amazon.es/dp/B07989VWXB/?tag=tolees-21) con un 66.14 % de descuento con precio de oferta de 30.46 EUR (original: 89.95 EUR) en el siguiente enlace!

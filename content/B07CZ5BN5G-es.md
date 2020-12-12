@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Salomon XA Pro 3D W  Zapatillas de Trail Running para Mujer  Azul  Deep Blue/Parachute Purple/Black   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ5BN5G/?tag=tolees-21'
+descuento: '62.27'
+titulo: 'Salomon XA Pro 3D W  Zapatillas de Trail'
 ---
 
 Ahora mismo tienes [Salomon XA Pro 3D W  Zapatillas de Trail Running para Mujer  Azul  Deep Blue/Parachute Purple/Black   38 EU](https://www.amazon.es/dp/B07CZ5BN5G/?tag=tolees-21) a 49.03 EUR (original: 129.95 EUR) (62.27 %  de descuento) en el siguiente enlace!

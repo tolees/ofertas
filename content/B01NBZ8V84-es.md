@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Deconstructed 1/2  Pantalones Cortos Hombre  Azul  Medium Aged 071   W33'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NBZ8V84/?tag=tolees-21'
+descuento: '59.52'
+titulo: 'G-STAR RAW 3301 Deconstructed 1/2  Panta'
 ---
 
 Tienes [G-STAR RAW 3301 Deconstructed 1/2  Pantalones Cortos Hombre  Azul  Medium Aged 071   W33](https://www.amazon.es/dp/B01NBZ8V84/?tag=tolees-21) con un 59.52 % de descuento con precio de oferta de 36.41 EUR (original: 89.95 EUR) en el siguiente enlace!

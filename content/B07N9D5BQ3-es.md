@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Joel Camiseta  Blanco  Optic White 802   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N9D5BQ3/?tag=tolees-21'
+descuento: '56.39'
+titulo: 'Pepe Jeans Joel Camiseta  Blanco  Optic '
 ---
 
 Tienes [Pepe Jeans Joel Camiseta  Blanco  Optic White 802   Large para Hombre](https://www.amazon.es/dp/B07N9D5BQ3/?tag=tolees-21) con un 56.39 % de descuento con precio de oferta de 13.04 EUR (original: 29.9 EUR) en el siguiente enlace!

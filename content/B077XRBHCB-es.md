@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Under Armour Men s Washed Cotton Cap Gorra  Hombre  Gris  Graphite/Black 040   Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XRBHCB/?tag=tolees-21'
+descuento: '41.27'
+titulo: 'Under Armour Men s Washed Cotton Cap Gor'
 ---
 
 Ahora mismo tienes [Under Armour Men s Washed Cotton Cap Gorra  Hombre  Gris  Graphite/Black 040   Talla única](https://www.amazon.es/dp/B077XRBHCB/?tag=tolees-21) a 11.74 EUR (original: 19.99 EUR) (41.27 %  de descuento) en el siguiente enlace!

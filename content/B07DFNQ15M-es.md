@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma ESS Track FL Sweatshirt  Mujer  Cotton Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFNQ15M/?tag=tolees-21'
+descuento: '55.20'
+titulo: 'Puma ESS Track FL Sweatshirt  Mujer  Cot'
 ---
 
 Está [Puma ESS Track FL Sweatshirt  Mujer  Cotton Black  M](https://www.amazon.es/dp/B07DFNQ15M/?tag=tolees-21) con 55.20 de descuento por 22.38 EUR (original: 49.95 EUR) en el siguiente enlace!

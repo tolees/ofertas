@@ -17,6 +17,9 @@ comparePrice: 48 EUR
 inStock: true
 prodname: 'CRZ YOGA Mujer 3/4 Malla Leggings Deportivos Pantalones Fitness Running Compresion con Bolsillo Negro M 40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G59G8WP/?tag=tolees-21'
+descuento: '52.08'
+titulo: 'CRZ YOGA Mujer 3/4 Malla Leggings Deport'
 ---
 
 Ahora mismo tienes [CRZ YOGA Mujer 3/4 Malla Leggings Deportivos Pantalones Fitness Running Compresion con Bolsillo Negro M 40 ](https://www.amazon.es/dp/B07G59G8WP/?tag=tolees-21) a 23 EUR (original: 48 EUR) (52.08 %  de descuento) en el siguiente enlace!

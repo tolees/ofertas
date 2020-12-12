@@ -17,6 +17,9 @@ comparePrice: 32.5 EUR
 inStock: true
 prodname: 'Beper RI.402 - Calientacamas eléctrico individual'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FMZ4WRK/?tag=tolees-21'
+descuento: '29.23'
+titulo: 'Beper RI.402 - Calientacamas eléctrico i'
 ---
 
 Está [Beper RI.402 - Calientacamas eléctrico individual](https://www.amazon.es/dp/B00FMZ4WRK/?tag=tolees-21) con 29.23 de descuento por 23 EUR (original: 32.5 EUR) en el siguiente enlace!

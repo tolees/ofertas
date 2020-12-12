@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Geox Renan H  Zapatillas para Hombre  Azul  Navy C4064   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ2PSJP/?tag=tolees-21'
+descuento: '39.99'
+titulo: 'Geox Renan H  Zapatillas para Hombre  Az'
 ---
 
 Tienes [Geox Renan H  Zapatillas para Hombre  Azul  Navy C4064   42 EU](https://www.amazon.es/dp/B07DJ2PSJP/?tag=tolees-21) con un 39.99 % de descuento con precio de oferta de 59.95 EUR (original: 99.9 EUR) en el siguiente enlace!

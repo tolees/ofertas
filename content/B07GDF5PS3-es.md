@@ -17,6 +17,9 @@ comparePrice: 42.98 EUR
 inStock: true
 prodname: 'HOMIEE Tensiómetros de Muñeca  Detección del Pulso Arrítmico，Validado Clínicamente，Memoria 240 Mediciones para 2 Usuarios  Color Blanco，Certifica FDA CE  Blanco  Muñeca  '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDF5PS3/?tag=tolees-21'
+descuento: '64.91'
+titulo: 'HOMIEE Tensiómetros de Muñeca  Detección'
 ---
 
 Tienes [HOMIEE Tensiómetros de Muñeca  Detección del Pulso Arrítmico，Validado Clínicamente，Memoria 240 Mediciones para 2 Usuarios  Color Blanco，Certifica FDA CE  Blanco  Muñeca  ](https://www.amazon.es/dp/B07GDF5PS3/?tag=tolees-21) con un 64.91 % de descuento con precio de oferta de 15.08 EUR (original: 42.98 EUR) en el siguiente enlace!

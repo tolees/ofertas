@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance 840  Zapatillas para Mujer  Rojo  NB Burgundy/Classic Gold AC   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFQYTWR/?tag=tolees-21'
+descuento: '71.85'
+titulo: 'New Balance 840  Zapatillas para Mujer  '
 ---
 
 Está [New Balance 840  Zapatillas para Mujer  Rojo  NB Burgundy/Classic Gold AC   38 EU](https://www.amazon.es/dp/B07DFQYTWR/?tag=tolees-21) con 71.85 de descuento por 28.15 EUR (original: 100 EUR) en el siguiente enlace!

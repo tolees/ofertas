@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'QULLOO Wireless Controller for Nintendo Switch  Controlador Mando Inalámbrico Gamepad Bluetooth Controller Joypad Joystick con Turbo y Dual Shock Functions para Nintendo Switch'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PJJF7QG/?tag=tolees-21'
+descuento: '27.79'
+titulo: 'QULLOO Wireless Controller for Nintendo '
 ---
 
 Ahora mismo tienes [QULLOO Wireless Controller for Nintendo Switch  Controlador Mando Inalámbrico Gamepad Bluetooth Controller Joypad Joystick con Turbo y Dual Shock Functions para Nintendo Switch](https://www.amazon.es/dp/B07PJJF7QG/?tag=tolees-21) a 25.99 EUR (original: 35.99 EUR) (27.79 %  de descuento) en el siguiente enlace!

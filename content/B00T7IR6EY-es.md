@@ -17,6 +17,9 @@ comparePrice: 36.61 EUR
 inStock: true
 prodname: 'Polaroid PLD 1011/S L H8 3YG 62  Gafas de sol para Hombre  Dorado  Light Gold/Green Pz  '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00T7IR6EY/?tag=tolees-21'
+descuento: '26.06'
+titulo: 'Polaroid PLD 1011/S L H8 3YG 62  Gafas d'
 ---
 
 Está [Polaroid PLD 1011/S L H8 3YG 62  Gafas de sol para Hombre  Dorado  Light Gold/Green Pz  ](https://www.amazon.es/dp/B00T7IR6EY/?tag=tolees-21) con 26.06 de descuento por 27.07 EUR (original: 36.61 EUR) en el siguiente enlace!

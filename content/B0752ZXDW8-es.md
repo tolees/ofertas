@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Power A - Joy-Con Comfort Grip  Zelda BOTW  Nintendo Switch '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0752ZXDW8/?tag=tolees-21'
+descuento: '49.92'
+titulo: 'Power A - Joy-Con Comfort Grip  Zelda BO'
 ---
 
 Está [Power A - Joy-Con Comfort Grip  Zelda BOTW  Nintendo Switch ](https://www.amazon.es/dp/B0752ZXDW8/?tag=tolees-21) con 49.92 de descuento por 9.99 EUR (original: 19.95 EUR) en el siguiente enlace!

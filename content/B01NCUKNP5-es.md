@@ -17,6 +17,9 @@ comparePrice: 159.99 EUR
 inStock: true
 prodname: 'VQ Retro MK II - Radio Digital Dab & Dab+  diseño Emma Bridgewater Muestra'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NCUKNP5/?tag=tolees-21'
+descuento: '37.50'
+titulo: 'VQ Retro MK II - Radio Digital Dab & Dab'
 ---
 
 Tienes [VQ Retro MK II - Radio Digital Dab & Dab+  diseño Emma Bridgewater Muestra](https://www.amazon.es/dp/B01NCUKNP5/?tag=tolees-21) con un 37.50 % de descuento con precio de oferta de 99.99 EUR (original: 159.99 EUR) en el siguiente enlace!

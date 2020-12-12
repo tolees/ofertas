@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Case Logic FSG1103K - Funda para Tablet'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00E4HF2TY/?tag=tolees-21'
+descuento: '77.39'
+titulo: 'Case Logic FSG1103K - Funda para Tablet'
 ---
 
 Tienes [Case Logic FSG1103K - Funda para Tablet](https://www.amazon.es/dp/B00E4HF2TY/?tag=tolees-21) con un 77.39 % de descuento con precio de oferta de 9.04 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Columbia Gorra de béisbol unisex  Coolhead II Ball Cap  Poliéster  Negro  Black   Talla: O/S  1840001'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKZ6JYP/?tag=tolees-21'
+descuento: '39.53'
+titulo: 'Columbia Gorra de béisbol unisex  Coolhe'
 ---
 
 Está [Columbia Gorra de béisbol unisex  Coolhead II Ball Cap  Poliéster  Negro  Black   Talla: O/S  1840001](https://www.amazon.es/dp/B07DKZ6JYP/?tag=tolees-21) con 39.53 de descuento por 19.95 EUR (original: 32.99 EUR) en el siguiente enlace!

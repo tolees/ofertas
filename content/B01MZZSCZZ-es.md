@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Under Armour UA Speedform Slingwrap  Zapatillas de Entrenamiento para Hombre  Negro  Black 001   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZZSCZZ/?tag=tolees-21'
+descuento: '55.03'
+titulo: 'Under Armour UA Speedform Slingwrap  Zap'
 ---
 
 Está [Under Armour UA Speedform Slingwrap  Zapatillas de Entrenamiento para Hombre  Negro  Black 001   42 EU](https://www.amazon.es/dp/B01MZZSCZZ/?tag=tolees-21) con 55.03 de descuento por 44.97 EUR (original: 100 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Clarks Lynette Deb  Sandalias con Plataforma Plana para Mujer  Marrón  Mahogany Leather-   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQZ4BJG/?tag=tolees-21'
+descuento: '30.09'
+titulo: 'Clarks Lynette Deb  Sandalias con Plataf'
 ---
 
 Ahora mismo tienes [Clarks Lynette Deb  Sandalias con Plataforma Plana para Mujer  Marrón  Mahogany Leather-   38 EU](https://www.amazon.es/dp/B07FQZ4BJG/?tag=tolees-21) a 48.9 EUR (original: 69.95 EUR) (30.09 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Shiny Camo Rain Boot  Botas de Agua para Mujer  Azul  Tommy Navy 406   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8XLTQP/?tag=tolees-21'
+descuento: '64.37'
+titulo: 'Tommy Hilfiger Shiny Camo Rain Boot  Bot'
 ---
 
 Tienes [Tommy Hilfiger Shiny Camo Rain Boot  Botas de Agua para Mujer  Azul  Tommy Navy 406   41 EU](https://www.amazon.es/dp/B07D8XLTQP/?tag=tolees-21) con un 64.37 % de descuento con precio de oferta de 42.72 EUR (original: 119.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'DANISH ENDURANCE Calcetines de Algodón  Gris - 3 Pares  EU 35-38 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNCVDMH/?tag=tolees-21'
+descuento: '40.10'
+titulo: 'DANISH ENDURANCE Calcetines de Algodón  '
 ---
 
 Está [DANISH ENDURANCE Calcetines de Algodón  Gris - 3 Pares  EU 35-38 ](https://www.amazon.es/dp/B07DNCVDMH/?tag=tolees-21) con 40.10 de descuento por 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers You Define-Zen  Zapatillas sin Cordones para Mujer  Negro  Black/White BKW   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072MSPQ15/?tag=tolees-21'
+descuento: '40.12'
+titulo: 'Skechers You Define-Zen  Zapatillas sin '
 ---
 
 Tienes [Skechers You Define-Zen  Zapatillas sin Cordones para Mujer  Negro  Black/White BKW   40 EU](https://www.amazon.es/dp/B072MSPQ15/?tag=tolees-21) con un 40.12 % de descuento con precio de oferta de 35.9 EUR (original: 59.95 EUR) en el siguiente enlace!

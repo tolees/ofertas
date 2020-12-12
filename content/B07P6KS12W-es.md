@@ -17,6 +17,9 @@ comparePrice: 31.3 EUR
 inStock: true
 prodname: 'LATITOP Fuente Solar  Bomba De Mejorada Kit De Bomba De Agua Solar Al Aire Libre De 1.5W con Fuente De Agua para Bebedero De Pájaros  Solar Permanente para Piscina De Jardín De Estanque Pequeño'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P6KS12W/?tag=tolees-21'
+descuento: '42.52'
+titulo: 'LATITOP Fuente Solar  Bomba De Mejorada '
 ---
 
 Está [LATITOP Fuente Solar  Bomba De Mejorada Kit De Bomba De Agua Solar Al Aire Libre De 1.5W con Fuente De Agua para Bebedero De Pájaros  Solar Permanente para Piscina De Jardín De Estanque Pequeño](https://www.amazon.es/dp/B07P6KS12W/?tag=tolees-21) con 42.52 de descuento por 17.99 EUR (original: 31.3 EUR) en el siguiente enlace!

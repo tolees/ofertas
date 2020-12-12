@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Nike Wmns Md Runner 2 Eng Mesh  Zapatillas de Running para Mujer  Multicolor  Black/Black-Dark Grey 005   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CYGN2WP/?tag=tolees-21'
+descuento: '41.50'
+titulo: 'Nike Wmns Md Runner 2 Eng Mesh  Zapatill'
 ---
 
 Tienes [Nike Wmns Md Runner 2 Eng Mesh  Zapatillas de Running para Mujer  Multicolor  Black/Black-Dark Grey 005   38.5 EU](https://www.amazon.es/dp/B07CYGN2WP/?tag=tolees-21) con un 41.50 % de descuento con precio de oferta de 40.95 EUR (original: 70 EUR) en el siguiente enlace!

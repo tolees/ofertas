@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'TOPERSUN Bolígrafos 100 Colores Bolígrafos de Gel Incluye Purpurina Metálico Neón y Clásicos para Pintar Dibujar Actividades para colorear'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JFVFSSJ/?tag=tolees-21'
+descuento: '71.44'
+titulo: 'TOPERSUN Bolígrafos 100 Colores Bolígraf'
 ---
 
 Está [TOPERSUN Bolígrafos 100 Colores Bolígrafos de Gel Incluye Purpurina Metálico Neón y Clásicos para Pintar Dibujar Actividades para colorear](https://www.amazon.es/dp/B07JFVFSSJ/?tag=tolees-21) con 71.44 de descuento por 19.99 EUR (original: 69.99 EUR) en el siguiente enlace!

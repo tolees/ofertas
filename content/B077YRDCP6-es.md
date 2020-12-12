@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'HIKARO Camiseta de Pico Hombre  Gris  Charcoal Marl   54  Talla del fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YRDCP6/?tag=tolees-21'
+descuento: '61.67'
+titulo: 'HIKARO Camiseta de Pico Hombre  Gris  Ch'
 ---
 
 Ahora mismo tienes [HIKARO Camiseta de Pico Hombre  Gris  Charcoal Marl   54  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B077YRDCP6/?tag=tolees-21) a 6.88 EUR (original: 17.95 EUR) (61.67 %  de descuento) en el siguiente enlace!

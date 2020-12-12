@@ -17,6 +17,9 @@ comparePrice: 108 EUR
 inStock: true
 prodname: 'Silla para pensar de madera Outer Space de Fantasy Fields para niños TD-12222A'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013KC9Q6S/?tag=tolees-21'
+descuento: '42.28'
+titulo: 'Silla para pensar de madera Outer Space '
 ---
 
 Está [Silla para pensar de madera Outer Space de Fantasy Fields para niños TD-12222A](https://www.amazon.es/dp/B013KC9Q6S/?tag=tolees-21) con 42.28 de descuento por 62.34 EUR (original: 108 EUR) en el siguiente enlace!

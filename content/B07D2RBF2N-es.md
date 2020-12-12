@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Gant 3-Pack Trunk Seasonal Solid CTN Str  Bañador Hombre  Verde  Charter Oak 325   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2RBF2N/?tag=tolees-21'
+descuento: '57.53'
+titulo: 'Gant 3-Pack Trunk Seasonal Solid CTN Str'
 ---
 
 Ahora mismo tienes [Gant 3-Pack Trunk Seasonal Solid CTN Str  Bañador Hombre  Verde  Charter Oak 325   Small](https://www.amazon.es/dp/B07D2RBF2N/?tag=tolees-21) a 19.11 EUR (original: 45 EUR) (57.53 %  de descuento) en el siguiente enlace!

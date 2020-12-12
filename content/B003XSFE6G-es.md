@@ -17,6 +17,9 @@ comparePrice: 108.9 EUR
 inStock: true
 prodname: 'Karlie 1031299 Transportín de Nylon Smart Top Lounge  79 x 56 x 61 cm  Gris y Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003XSFE6G/?tag=tolees-21'
+descuento: '41.49'
+titulo: 'Karlie 1031299 Transportín de Nylon Smar'
 ---
 
 Tienes [Karlie 1031299 Transportín de Nylon Smart Top Lounge  79 x 56 x 61 cm  Gris y Negro  L](https://www.amazon.es/dp/B003XSFE6G/?tag=tolees-21) con un 41.49 % de descuento con precio de oferta de 63.72 EUR (original: 108.9 EUR) en el siguiente enlace!

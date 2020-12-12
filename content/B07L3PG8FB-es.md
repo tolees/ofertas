@@ -17,6 +17,9 @@ comparePrice: 42.99 EUR
 inStock: true
 prodname: 'dodocool 3 IN 1 Enfriador Portátil Espacio Personal Enfriador de Aire Purificador Ventilador Escritorio con 3 Velocidades Calefactor Eléctrico para Casa Oficina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3PG8FB/?tag=tolees-21'
+descuento: '25.59'
+titulo: 'dodocool 3 IN 1 Enfriador Portátil Espac'
 ---
 
 Tienes [dodocool 3 IN 1 Enfriador Portátil Espacio Personal Enfriador de Aire Purificador Ventilador Escritorio con 3 Velocidades Calefactor Eléctrico para Casa Oficina](https://www.amazon.es/dp/B07L3PG8FB/?tag=tolees-21) con un 25.59 % de descuento con precio de oferta de 31.99 EUR (original: 42.99 EUR) en el siguiente enlace!

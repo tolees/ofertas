@@ -17,6 +17,9 @@ comparePrice: 249.9 EUR
 inStock: true
 prodname: 'Dolores Promesas 107353 Chaqueta de Traje  Mujer  Azul  Azul Azul   38  Tamaño del Fabricante:38 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7J31KW/?tag=tolees-21'
+descuento: '86.99'
+titulo: 'Dolores Promesas 107353 Chaqueta de Traj'
 ---
 
 Tienes [Dolores Promesas 107353 Chaqueta de Traje  Mujer  Azul  Azul Azul   38  Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07D7J31KW/?tag=tolees-21) con un 86.99 % de descuento con precio de oferta de 32.52 EUR (original: 249.9 EUR) en el siguiente enlace!

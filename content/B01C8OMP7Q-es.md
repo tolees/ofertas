@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Prodigiosa: Las aventuras de Ladybug - Figura Ladybug Rueda giratoria  Bandai 39740 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01C8OMP7Q/?tag=tolees-21'
+descuento: '63.22'
+titulo: 'Prodigiosa: Las aventuras de Ladybug - F'
 ---
 
 Está [Prodigiosa: Las aventuras de Ladybug - Figura Ladybug Rueda giratoria  Bandai 39740 ](https://www.amazon.es/dp/B01C8OMP7Q/?tag=tolees-21) con 63.22 de descuento por 12.87 EUR (original: 34.99 EUR) en el siguiente enlace!

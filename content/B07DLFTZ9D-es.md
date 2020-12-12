@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 5Ba Funnel Henley C S Azul Sudadera  Hombre  Azul  Gama Azules 12   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLFTZ9D/?tag=tolees-21'
+descuento: '49.95'
+titulo: 'Springfield 5Ba Funnel Henley C S Azul S'
 ---
 
 Está [Springfield 5Ba Funnel Henley C S Azul Sudadera  Hombre  Azul  Gama Azules 12   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLFTZ9D/?tag=tolees-21) con 49.95 de descuento por 15.01 EUR (original: 29.99 EUR) en el siguiente enlace!

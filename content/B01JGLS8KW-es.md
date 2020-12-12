@@ -17,6 +17,9 @@ comparePrice: 14.35 EUR
 inStock: true
 prodname: 'IMEX EL ZORRO 54030 Navaja palles  Hombre  Amarillo  9 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JGLS8KW/?tag=tolees-21'
+descuento: '38.26'
+titulo: 'IMEX EL ZORRO 54030 Navaja palles  Hombr'
 ---
 
 Tienes [IMEX EL ZORRO 54030 Navaja palles  Hombre  Amarillo  9 cm](https://www.amazon.es/dp/B01JGLS8KW/?tag=tolees-21) con un 38.26 % de descuento con precio de oferta de 8.86 EUR (original: 14.35 EUR) en el siguiente enlace!

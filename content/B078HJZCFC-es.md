@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Springfield 963801  Mochila para Hombre   Gamma Grises   15x15x15 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HJZCFC/?tag=tolees-21'
+descuento: '37.46'
+titulo: 'Springfield 963801  Mochila para Hombre '
 ---
 
 Tienes [Springfield 963801  Mochila para Hombre   Gamma Grises   15x15x15 cm  W x H x L ](https://www.amazon.es/dp/B078HJZCFC/?tag=tolees-21) con un 37.46 % de descuento con precio de oferta de 10 EUR (original: 15.99 EUR) en el siguiente enlace!

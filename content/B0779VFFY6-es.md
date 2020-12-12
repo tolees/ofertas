@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'AURIQUE Leggings de Deporte Mujer  Negro  Black/love Potion   42  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0779VFFY6/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'AURIQUE Leggings de Deporte Mujer  Negro'
 ---
 
 Ahora mismo tienes [AURIQUE Leggings de Deporte Mujer  Negro  Black/love Potion   42  Talla del fabricante: Medium ](https://www.amazon.es/dp/B0779VFFY6/?tag=tolees-21) a 14 EUR (original: 20 EUR) (30.00 %  de descuento) en el siguiente enlace!

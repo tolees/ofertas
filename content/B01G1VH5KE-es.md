@@ -17,6 +17,9 @@ comparePrice: 189 EUR
 inStock: true
 prodname: 'Bluestar Trolley rígido Bilbao Plata 52.0 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01G1VH5KE/?tag=tolees-21'
+descuento: '65.09'
+titulo: 'Bluestar Trolley rígido Bilbao Plata 52.'
 ---
 
 Está [Bluestar Trolley rígido Bilbao Plata 52.0 cm](https://www.amazon.es/dp/B01G1VH5KE/?tag=tolees-21) con 65.09 de descuento por 65.98 EUR (original: 189 EUR) en el siguiente enlace!

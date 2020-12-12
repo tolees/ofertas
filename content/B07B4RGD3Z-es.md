@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-Star Bronson Pleated Relaxed Tapered Chino  Pantalones Hombre  Beige  Dark Brick    Talla del Fabricante: 31/32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4RGD3Z/?tag=tolees-21'
+descuento: '53.79'
+titulo: 'G-Star Bronson Pleated Relaxed Tapered C'
 ---
 
 Ahora mismo tienes [G-Star Bronson Pleated Relaxed Tapered Chino  Pantalones Hombre  Beige  Dark Brick    Talla del Fabricante: 31/32 ](https://www.amazon.es/dp/B07B4RGD3Z/?tag=tolees-21) a 55.43 EUR (original: 119.95 EUR) (53.79 %  de descuento) en el siguiente enlace!

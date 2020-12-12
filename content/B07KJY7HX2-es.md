@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Quiksilver Get Bizzy Camiseta  Hombre  Rojo  Brick Red   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJY7HX2/?tag=tolees-21'
+descuento: '34.78'
+titulo: 'Quiksilver Get Bizzy Camiseta  Hombre  R'
 ---
 
 Está [Quiksilver Get Bizzy Camiseta  Hombre  Rojo  Brick Red   XL](https://www.amazon.es/dp/B07KJY7HX2/?tag=tolees-21) con 34.78 de descuento por 16.95 EUR (original: 25.99 EUR) en el siguiente enlace!

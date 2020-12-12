@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Skytec SPA800R - Kit bafles karaoke'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004YK4H6A/?tag=tolees-21'
+descuento: '68.43'
+titulo: 'Skytec SPA800R - Kit bafles karaoke'
 ---
 
 Ahora mismo tienes [Skytec SPA800R - Kit bafles karaoke](https://www.amazon.es/dp/B004YK4H6A/?tag=tolees-21) a 40.73 EUR (original: 129 EUR) (68.43 %  de descuento) en el siguiente enlace!

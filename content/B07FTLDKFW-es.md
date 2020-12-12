@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Lee Lee Western Ss Shirt  Camisa Hombre  Multicolor  Bright Red Ef   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTLDKFW/?tag=tolees-21'
+descuento: '39.22'
+titulo: 'Lee Lee Western Ss Shirt  Camisa Hombre '
 ---
 
 Está [Lee Lee Western Ss Shirt  Camisa Hombre  Multicolor  Bright Red Ef   X-Large](https://www.amazon.es/dp/B07FTLDKFW/?tag=tolees-21) con 39.22 de descuento por 30.36 EUR (original: 49.95 EUR) en el siguiente enlace!

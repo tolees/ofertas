@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Geox J Shuttle Girl A  Zapatillas para Niñas   Avio/Sky C4504   29 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792JWFB1/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Geox J Shuttle Girl A  Zapatillas para N'
 ---
 
 Está [Geox J Shuttle Girl A  Zapatillas para Niñas   Avio/Sky C4504   29 EU](https://www.amazon.es/dp/B0792JWFB1/?tag=tolees-21) con 50.00 de descuento por 29.95 EUR (original: 59.9 EUR) en el siguiente enlace!

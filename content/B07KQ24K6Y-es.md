@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'DC Shoes Square Star tee-Shirt  Hombre  Hunter Green  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQ24K6Y/?tag=tolees-21'
+descuento: '51.67'
+titulo: 'DC Shoes Square Star tee-Shirt  Hombre  '
 ---
 
 Está [DC Shoes Square Star tee-Shirt  Hombre  Hunter Green  S](https://www.amazon.es/dp/B07KQ24K6Y/?tag=tolees-21) con 51.67 de descuento por 16.91 EUR (original: 34.99 EUR) en el siguiente enlace!

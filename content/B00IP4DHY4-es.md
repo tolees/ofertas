@@ -17,6 +17,9 @@ comparePrice: 23.95 EUR
 inStock: true
 prodname: 'Ideus ITDECT150- Teléfono Inalámbrico Digital Dect Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IP4DHY4/?tag=tolees-21'
+descuento: '37.66'
+titulo: 'Ideus ITDECT150- Teléfono Inalámbrico Di'
 ---
 
 Ahora mismo tienes [Ideus ITDECT150- Teléfono Inalámbrico Digital Dect Negro](https://www.amazon.es/dp/B00IP4DHY4/?tag=tolees-21) a 14.93 EUR (original: 23.95 EUR) (37.66 %  de descuento) en el siguiente enlace!

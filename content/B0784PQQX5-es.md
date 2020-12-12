@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Billabong T Street Ss  Camiseta para Hombre  Negro  Black 19   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0784PQQX5/?tag=tolees-21'
+descuento: '52.08'
+titulo: 'Billabong T Street Ss  Camiseta para Hom'
 ---
 
 Tienes [Billabong T Street Ss  Camiseta para Hombre  Negro  Black 19   Small](https://www.amazon.es/dp/B0784PQQX5/?tag=tolees-21) con un 52.08 % de descuento con precio de oferta de 11.98 EUR (original: 25 EUR) en el siguiente enlace!

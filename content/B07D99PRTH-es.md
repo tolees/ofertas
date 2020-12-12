@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'XTI 30937  Botas Altas para Mujer  Negro  Black   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D99PRTH/?tag=tolees-21'
+descuento: '61.23'
+titulo: 'XTI 30937  Botas Altas para Mujer  Negro'
 ---
 
 Está [XTI 30937  Botas Altas para Mujer  Negro  Black   38 EU](https://www.amazon.es/dp/B07D99PRTH/?tag=tolees-21) con 61.23 de descuento por 23.24 EUR (original: 59.95 EUR) en el siguiente enlace!

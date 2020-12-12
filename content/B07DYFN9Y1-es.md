@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Roxy Viva Glitter IV  Zapatos de Playa y Piscina para Mujer  Azul  Navy Nvy   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYFN9Y1/?tag=tolees-21'
+descuento: '52.88'
+titulo: 'Roxy Viva Glitter IV  Zapatos de Playa y'
 ---
 
 Ahora mismo tienes [Roxy Viva Glitter IV  Zapatos de Playa y Piscina para Mujer  Azul  Navy Nvy   36 EU](https://www.amazon.es/dp/B07DYFN9Y1/?tag=tolees-21) a 9.42 EUR (original: 19.99 EUR) (52.88 %  de descuento) en el siguiente enlace!

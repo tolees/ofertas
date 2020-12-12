@@ -17,6 +17,9 @@ comparePrice: 92.46 EUR
 inStock: true
 prodname: 'Invicta Reloj de Pulsera 8938'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000GX6SR0/?tag=tolees-21'
+descuento: '25.90'
+titulo: 'Invicta Reloj de Pulsera 8938'
 ---
 
 Tienes [Invicta Reloj de Pulsera 8938](https://www.amazon.es/dp/B000GX6SR0/?tag=tolees-21) con un 25.90 % de descuento con precio de oferta de 68.51 EUR (original: 92.46 EUR) en el siguiente enlace!

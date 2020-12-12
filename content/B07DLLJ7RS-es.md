@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield 4.1.T.Ap. All Over Flores  Vestido para Mujer   Azul Marino 10   X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLLJ7RS/?tag=tolees-21'
+descuento: '27.57'
+titulo: 'Springfield 4.1.T.Ap. All Over Flores  V'
 ---
 
 Ahora mismo tienes [Springfield 4.1.T.Ap. All Over Flores  Vestido para Mujer   Azul Marino 10   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLLJ7RS/?tag=tolees-21) a 18.1 EUR (original: 24.99 EUR) (27.57 %  de descuento) en el siguiente enlace!

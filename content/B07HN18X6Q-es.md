@@ -17,6 +17,9 @@ comparePrice: 100.64 EUR
 inStock: true
 prodname: 'Mufly Weld - Delantal de piel de vaca para soldar  color amarillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HN18X6Q/?tag=tolees-21'
+descuento: '61.48'
+titulo: 'Mufly Weld - Delantal de piel de vaca pa'
 ---
 
 Está [Mufly Weld - Delantal de piel de vaca para soldar  color amarillo](https://www.amazon.es/dp/B07HN18X6Q/?tag=tolees-21) con 61.48 de descuento por 38.77 EUR (original: 100.64 EUR) en el siguiente enlace!

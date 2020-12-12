@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'adidas Courtvantage  Zapatillas para Hombre  Rojo Mystery Rouge Ruby 0  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077QJLKHZ/?tag=tolees-21'
+descuento: '70.17'
+titulo: 'adidas Courtvantage  Zapatillas para Hom'
 ---
 
 Ahora mismo tienes [adidas Courtvantage  Zapatillas para Hombre  Rojo Mystery Rouge Ruby 0  44 EU](https://www.amazon.es/dp/B077QJLKHZ/?tag=tolees-21) a 23.85 EUR (original: 79.95 EUR) (70.17 %  de descuento) en el siguiente enlace!

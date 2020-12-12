@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Blåsjø - Par de manoplas para horno  negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GXJH9PC/?tag=tolees-21'
+descuento: '80.03'
+titulo: 'Blåsjø - Par de manoplas para horno  neg'
 ---
 
 Está [Blåsjø - Par de manoplas para horno  negro ](https://www.amazon.es/dp/B07GXJH9PC/?tag=tolees-21) con 80.03 de descuento por 5.99 EUR (original: 29.99 EUR) en el siguiente enlace!

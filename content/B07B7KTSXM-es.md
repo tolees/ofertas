@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Finether-Cuchillo de Cocina Cuchillo de Cocinero Chef Profesional Multiuso de Acero Inoxidable de Alto Carbono para Cortar Carne Pan Verturas Queso  Aprobado por LFGB  20 CM'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B7KTSXM/?tag=tolees-21'
+descuento: '57.53'
+titulo: 'Finether-Cuchillo de Cocina Cuchillo de '
 ---
 
 Ahora mismo tienes [Finether-Cuchillo de Cocina Cuchillo de Cocinero Chef Profesional Multiuso de Acero Inoxidable de Alto Carbono para Cortar Carne Pan Verturas Queso  Aprobado por LFGB  20 CM](https://www.amazon.es/dp/B07B7KTSXM/?tag=tolees-21) a 16.99 EUR (original: 40 EUR) (57.53 %  de descuento) en el siguiente enlace!

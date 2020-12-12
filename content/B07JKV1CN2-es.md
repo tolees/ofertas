@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'IKERLEX USB Linterna Recargable Directamente LED Linterna Tácticas Militar con Batería Incorporada 3 Modos Zoomable Perfecta para Ciclismo Camping  Montañismo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JKV1CN2/?tag=tolees-21'
+descuento: '72.02'
+titulo: 'IKERLEX USB Linterna Recargable Directam'
 ---
 
 Está [IKERLEX USB Linterna Recargable Directamente LED Linterna Tácticas Militar con Batería Incorporada 3 Modos Zoomable Perfecta para Ciclismo Camping  Montañismo](https://www.amazon.es/dp/B07JKV1CN2/?tag=tolees-21) con 72.02 de descuento por 13.99 EUR (original: 50 EUR) en el siguiente enlace!

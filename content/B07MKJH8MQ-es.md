@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'G-STAR RAW Shelo T-Shirt Camiseta  Negro  dk Black 6484   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MKJH8MQ/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'G-STAR RAW Shelo T-Shirt Camiseta  Negro'
 ---
 
 Tienes [G-STAR RAW Shelo T-Shirt Camiseta  Negro  dk Black 6484   Medium para Hombre](https://www.amazon.es/dp/B07MKJH8MQ/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 21 EUR (original: 35 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 179.99 EUR
 inStock: true
 prodname: 'RIP CURL Montauk Parka Jacket Chaqueta  Mujer  Major Brown  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNRSXJ4/?tag=tolees-21'
+descuento: '60.25'
+titulo: 'RIP CURL Montauk Parka Jacket Chaqueta  '
 ---
 
 Ahora mismo tienes [RIP CURL Montauk Parka Jacket Chaqueta  Mujer  Major Brown  XS](https://www.amazon.es/dp/B07FNRSXJ4/?tag=tolees-21) a 71.55 EUR (original: 179.99 EUR) (60.25 %  de descuento) en el siguiente enlace!

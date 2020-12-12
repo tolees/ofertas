@@ -17,6 +17,9 @@ comparePrice: 38.5 EUR
 inStock: true
 prodname: 'Gloss - caja de baño  caja de regalo para mujeres - ¡ Caja de regalo - Set de Baño Collection Colección Arándanos de Venecia Colección Scent - 5pcs'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076ZM3HDX/?tag=tolees-21'
+descuento: '30.13'
+titulo: 'Gloss - caja de baño  caja de regalo par'
 ---
 
 Está [Gloss - caja de baño  caja de regalo para mujeres - ¡ Caja de regalo - Set de Baño Collection Colección Arándanos de Venecia Colección Scent - 5pcs](https://www.amazon.es/dp/B076ZM3HDX/?tag=tolees-21) con 30.13 de descuento por 26.9 EUR (original: 38.5 EUR) en el siguiente enlace!

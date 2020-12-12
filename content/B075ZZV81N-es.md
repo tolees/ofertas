@@ -17,6 +17,9 @@ comparePrice: 58.99 EUR
 inStock: true
 prodname: 'Bosch MSM6S10B Ergomixx Style - Batidora de mano  750 W  12 velocidades y función Turbo  cúpula QuattroBlade antisalpicaduras con cuatro cuchillas  con vaso de mezclas  negro y acero'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075ZZV81N/?tag=tolees-21'
+descuento: '35.58'
+titulo: 'Bosch MSM6S10B Ergomixx Style - Batidora'
 ---
 
 Tienes [Bosch MSM6S10B Ergomixx Style - Batidora de mano  750 W  12 velocidades y función Turbo  cúpula QuattroBlade antisalpicaduras con cuatro cuchillas  con vaso de mezclas  negro y acero](https://www.amazon.es/dp/B075ZZV81N/?tag=tolees-21) con un 35.58 % de descuento con precio de oferta de 38 EUR (original: 58.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 8.7 EUR
 inStock: true
 prodname: 'Tommee Tippee Explora - Platos de 3 compartimentos  2 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00158DRUG/?tag=tolees-21'
+descuento: '69.20'
+titulo: 'Tommee Tippee Explora - Platos de 3 comp'
 ---
 
 Ahora mismo tienes [Tommee Tippee Explora - Platos de 3 compartimentos  2 unidades](https://www.amazon.es/dp/B00158DRUG/?tag=tolees-21) a 2.68 EUR (original: 8.7 EUR) (69.20 %  de descuento) en el siguiente enlace!

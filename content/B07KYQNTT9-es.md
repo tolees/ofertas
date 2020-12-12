@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Springfield 6EC Displace Colores  Camiseta para Hombre   Gama Azules 12   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYQNTT9/?tag=tolees-21'
+descuento: '51.28'
+titulo: 'Springfield 6EC Displace Colores  Camise'
 ---
 
 Está [Springfield 6EC Displace Colores  Camiseta para Hombre   Gama Azules 12   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07KYQNTT9/?tag=tolees-21) con 51.28 de descuento por 7.79 EUR (original: 15.99 EUR) en el siguiente enlace!

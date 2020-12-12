@@ -17,6 +17,9 @@ comparePrice: 449 EUR
 inStock: true
 prodname: 'Panasonic ES-WH90 Luz pulsada intensa  IPL  Color blanco - Depilación con luz  Batería  3 h  213 mm  44 mm  69 mm  346 g '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FR382JK/?tag=tolees-21'
+descuento: '60.28'
+titulo: 'Panasonic ES-WH90 Luz pulsada intensa  I'
 ---
 
 Ahora mismo tienes [Panasonic ES-WH90 Luz pulsada intensa  IPL  Color blanco - Depilación con luz  Batería  3 h  213 mm  44 mm  69 mm  346 g ](https://www.amazon.es/dp/B01FR382JK/?tag=tolees-21) a 178.33 EUR (original: 449 EUR) (60.28 %  de descuento) en el siguiente enlace!

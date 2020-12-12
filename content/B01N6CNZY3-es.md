@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Helly Hansen W Pier 2 Pant Bib  Mujer  Ebony  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6CNZY3/?tag=tolees-21'
+descuento: '48.91'
+titulo: 'Helly Hansen W Pier 2 Pant Bib  Mujer  E'
 ---
 
 Está [Helly Hansen W Pier 2 Pant Bib  Mujer  Ebony  L](https://www.amazon.es/dp/B01N6CNZY3/?tag=tolees-21) con 48.91 de descuento por 76.64 EUR (original: 150 EUR) en el siguiente enlace!

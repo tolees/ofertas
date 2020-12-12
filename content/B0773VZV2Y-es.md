@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour Ripple  Zapatillas de Running para Hombre  Rojo  Radio Red/Black   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0773VZV2Y/?tag=tolees-21'
+descuento: '56.84'
+titulo: 'Under Armour Ripple  Zapatillas de Runni'
 ---
 
 Está [Under Armour Ripple  Zapatillas de Running para Hombre  Rojo  Radio Red/Black   40.5 EU](https://www.amazon.es/dp/B0773VZV2Y/?tag=tolees-21) con 56.84 de descuento por 30.21 EUR (original: 70 EUR) en el siguiente enlace!

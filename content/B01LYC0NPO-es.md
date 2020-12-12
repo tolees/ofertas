@@ -17,6 +17,9 @@ comparePrice: 64.53 EUR
 inStock: true
 prodname: 'Pioneer Betty-Bermuda Mujer Blau  Dark Blue Stone Used 06  40 W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYC0NPO/?tag=tolees-21'
+descuento: '89.80'
+titulo: 'Pioneer Betty-Bermuda Mujer Blau  Dark B'
 ---
 
 Está [Pioneer Betty-Bermuda Mujer Blau  Dark Blue Stone Used 06  40 W](https://www.amazon.es/dp/B01LYC0NPO/?tag=tolees-21) con 89.80 de descuento por 6.58 EUR (original: 64.53 EUR) en el siguiente enlace!

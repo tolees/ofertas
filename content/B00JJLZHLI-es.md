@@ -17,6 +17,9 @@ comparePrice: 7.69 EUR
 inStock: true
 prodname: 'Kitchen Craft Master Class - Cuchillo para Mantequilla  Acero Inoxidable '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JJLZHLI/?tag=tolees-21'
+descuento: '65.41'
+titulo: 'Kitchen Craft Master Class - Cuchillo pa'
 ---
 
 Tienes [Kitchen Craft Master Class - Cuchillo para Mantequilla  Acero Inoxidable ](https://www.amazon.es/dp/B00JJLZHLI/?tag=tolees-21) con un 65.41 % de descuento con precio de oferta de 2.66 EUR (original: 7.69 EUR) en el siguiente enlace!

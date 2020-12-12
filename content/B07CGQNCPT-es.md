@@ -17,6 +17,9 @@ comparePrice: 37.19 EUR
 inStock: true
 prodname: 'Agatha Ruiz de la Prada-16856 Mochila Grande  Olas Miquel-Rius 16856'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CGQNCPT/?tag=tolees-21'
+descuento: '68.43'
+titulo: 'Agatha Ruiz de la Prada-16856 Mochila Gr'
 ---
 
 Está [Agatha Ruiz de la Prada-16856 Mochila Grande  Olas Miquel-Rius 16856](https://www.amazon.es/dp/B07CGQNCPT/?tag=tolees-21) con 68.43 de descuento por 11.74 EUR (original: 37.19 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 155 EUR
 inStock: true
 prodname: 'Panama Jack 03 Wool  Botas Clasicas para Hombre  Negro  Black C15   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CLFZ58Y/?tag=tolees-21'
+descuento: '36.30'
+titulo: 'Panama Jack 03 Wool  Botas Clasicas para'
 ---
 
 Ahora mismo tienes [Panama Jack 03 Wool  Botas Clasicas para Hombre  Negro  Black C15   42 EU](https://www.amazon.es/dp/B07CLFZ58Y/?tag=tolees-21) a 98.73 EUR (original: 155 EUR) (36.30 %  de descuento) en el siguiente enlace!

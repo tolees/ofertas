@@ -17,6 +17,9 @@ comparePrice: 918.78 EUR
 inStock: true
 prodname: 'Buffalo LinkStation 441D Ethernet Negro NAS - Unidad RAID  12 TB  Unidad de disco duro  Unidad de disco duro  Serial ATA II  3000 GB  3.5" '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00P7JFJAU/?tag=tolees-21'
+descuento: '55.02'
+titulo: 'Buffalo LinkStation 441D Ethernet Negro '
 ---
 
 Está [Buffalo LinkStation 441D Ethernet Negro NAS - Unidad RAID  12 TB  Unidad de disco duro  Unidad de disco duro  Serial ATA II  3000 GB  3.5" ](https://www.amazon.es/dp/B00P7JFJAU/?tag=tolees-21) con 55.02 de descuento por 413.23 EUR (original: 918.78 EUR) en el siguiente enlace!

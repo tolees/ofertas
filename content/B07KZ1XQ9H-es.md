@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 490 Raya Emplazada Gg7 Jersey  Hombre  Azul  Gama Azules 11   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1XQ9H/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Springfield 490 Raya Emplazada Gg7 Jerse'
 ---
 
 Ahora mismo tienes [Springfield 490 Raya Emplazada Gg7 Jersey  Hombre  Azul  Gama Azules 11   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07KZ1XQ9H/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

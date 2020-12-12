@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Navidul  Paleta de bellota ibérica  5 - 6.5 kg  + jamonero + cuchillo.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JB65GQP/?tag=tolees-21'
+descuento: '30.23'
+titulo: 'Navidul  Paleta de bellota ibérica  5 - '
 ---
 
 Tienes [Navidul  Paleta de bellota ibérica  5 - 6.5 kg  + jamonero + cuchillo.](https://www.amazon.es/dp/B07JB65GQP/?tag=tolees-21) con un 30.23 % de descuento con precio de oferta de 90 EUR (original: 129 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Columbia Camden Chukka  Botas Casual para Mujer  Gris  Ti Titanium Grey Ice   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B6VZDQ8/?tag=tolees-21'
+descuento: '79.54'
+titulo: 'Columbia Camden Chukka  Botas Casual par'
 ---
 
 Tienes [Columbia Camden Chukka  Botas Casual para Mujer  Gris  Ti Titanium Grey Ice   36 EU](https://www.amazon.es/dp/B07B6VZDQ8/?tag=tolees-21) con un 79.54 % de descuento con precio de oferta de 26.59 EUR (original: 129.99 EUR) en el siguiente enlace!

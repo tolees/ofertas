@@ -17,6 +17,9 @@ comparePrice: 82.99 EUR
 inStock: true
 prodname: 'Braun Face 832-s - Set de regalo con depiladora facial y cepillo de limpieza facial  3 accesorios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012CK64BY/?tag=tolees-21'
+descuento: '43.91'
+titulo: 'Braun Face 832-s - Set de regalo con dep'
 ---
 
 Está [Braun Face 832-s - Set de regalo con depiladora facial y cepillo de limpieza facial  3 accesorios](https://www.amazon.es/dp/B012CK64BY/?tag=tolees-21) con 43.91 de descuento por 46.55 EUR (original: 82.99 EUR) en el siguiente enlace!

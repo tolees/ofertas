@@ -17,6 +17,9 @@ comparePrice: 1449.99 EUR
 inStock: true
 prodname: 'Alkove Holt - Sofá de cuero de tres plazas  negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G34D1DR/?tag=tolees-21'
+descuento: '37.93'
+titulo: 'Alkove Holt - Sofá de cuero de tres plaz'
 ---
 
 Tienes [Alkove Holt - Sofá de cuero de tres plazas  negro ](https://www.amazon.es/dp/B07G34D1DR/?tag=tolees-21) con un 37.93 % de descuento con precio de oferta de 899.99 EUR (original: 1449.99 EUR) en el siguiente enlace!

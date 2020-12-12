@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Pack.It Maleta Ligera de Carcasa Dura de ABS para Llevar en Cabina  con Cuatro Ruedas Dobles y Rotación de 360º  Aprobada para Ryanair  Easyjet y British Airways  Negra'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H4HW3TL/?tag=tolees-21'
+descuento: '50.17'
+titulo: 'Pack.It Maleta Ligera de Carcasa Dura de'
 ---
 
 Ahora mismo tienes [Pack.It Maleta Ligera de Carcasa Dura de ABS para Llevar en Cabina  con Cuatro Ruedas Dobles y Rotación de 360º  Aprobada para Ryanair  Easyjet y British Airways  Negra](https://www.amazon.es/dp/B07H4HW3TL/?tag=tolees-21) a 29.9 EUR (original: 60 EUR) (50.17 %  de descuento) en el siguiente enlace!

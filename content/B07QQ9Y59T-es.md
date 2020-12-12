@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Ffipke Mini Vigilancia Cámara Oculta Gran Angular Full HD 1080P Videocámara de Seguridad Portátil DV Pequeña Cámara de Niñera con Visión Nocturna por Infrarrojos y Detección de Movimiento'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QQ9Y59T/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Ffipke Mini Vigilancia Cámara Oculta Gra'
 ---
 
 Tienes [Ffipke Mini Vigilancia Cámara Oculta Gran Angular Full HD 1080P Videocámara de Seguridad Portátil DV Pequeña Cámara de Niñera con Visión Nocturna por Infrarrojos y Detección de Movimiento](https://www.amazon.es/dp/B07QQ9Y59T/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 23.99 EUR (original: 35.99 EUR) en el siguiente enlace!

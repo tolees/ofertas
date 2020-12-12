@@ -17,6 +17,9 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Rollei City Traveler Mini - Trípode Mesa superligero de Carbono - Naranja'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0797N3CHT/?tag=tolees-21'
+descuento: '63.33'
+titulo: 'Rollei City Traveler Mini - Trípode Mesa'
 ---
 
 Ahora mismo tienes [Rollei City Traveler Mini - Trípode Mesa superligero de Carbono - Naranja](https://www.amazon.es/dp/B0797N3CHT/?tag=tolees-21) a 55 EUR (original: 149.99 EUR) (63.33 %  de descuento) en el siguiente enlace!

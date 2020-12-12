@@ -17,6 +17,9 @@ comparePrice: 157.58 EUR
 inStock: true
 prodname: 'Bestway 56416 - Piscina Desmontable Tubular Bestway Steel Pro  366 x 76 cm  con depuradora de cartucho  y válvula de drenaje'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014FHBB4W/?tag=tolees-21'
+descuento: '26.01'
+titulo: 'Bestway 56416 - Piscina Desmontable Tubu'
 ---
 
 Tienes [Bestway 56416 - Piscina Desmontable Tubular Bestway Steel Pro  366 x 76 cm  con depuradora de cartucho  y válvula de drenaje](https://www.amazon.es/dp/B014FHBB4W/?tag=tolees-21) con un 26.01 % de descuento con precio de oferta de 116.59 EUR (original: 157.58 EUR) en el siguiente enlace!

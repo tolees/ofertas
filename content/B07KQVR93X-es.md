@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Cuchillo de cocina profesional Ruicer Cuchillo de cocina 20 cm Cuchillo de carne afilada Cuchillo de acero inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQVR93X/?tag=tolees-21'
+descuento: '67.76'
+titulo: 'Cuchillo de cocina profesional Ruicer Cu'
 ---
 
 Está [Cuchillo de cocina profesional Ruicer Cuchillo de cocina 20 cm Cuchillo de carne afilada Cuchillo de acero inoxidable](https://www.amazon.es/dp/B07KQVR93X/?tag=tolees-21) con 67.76 de descuento por 9.99 EUR (original: 30.99 EUR) en el siguiente enlace!

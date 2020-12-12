@@ -17,6 +17,9 @@ comparePrice: 37 EUR
 inStock: true
 prodname: 'INBIKE Gafas De Sol Polarizadas para Ciclismo con 5 Lentes Intercambiables UV400 Y Montuta De TR-90  Gafas para MTB Bicicleta Montaña 100% De Protección UV Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01J9RU4LO/?tag=tolees-21'
+descuento: '40.57'
+titulo: 'INBIKE Gafas De Sol Polarizadas para Cic'
 ---
 
 Ahora mismo tienes [INBIKE Gafas De Sol Polarizadas para Ciclismo con 5 Lentes Intercambiables UV400 Y Montuta De TR-90  Gafas para MTB Bicicleta Montaña 100% De Protección UV Negro ](https://www.amazon.es/dp/B01J9RU4LO/?tag=tolees-21) a 21.99 EUR (original: 37 EUR) (40.57 %  de descuento) en el siguiente enlace!

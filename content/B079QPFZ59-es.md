@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Hackett Amr Multi T  Camiseta para Hombre  Multicolor  White/Multi 8Aj   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QPFZ59/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Hackett Amr Multi T  Camiseta para Hombr'
 ---
 
 Tienes [Hackett Amr Multi T  Camiseta para Hombre  Multicolor  White/Multi 8Aj   Medium](https://www.amazon.es/dp/B079QPFZ59/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 26 EUR (original: 65 EUR) en el siguiente enlace!

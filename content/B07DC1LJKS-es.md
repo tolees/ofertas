@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Morado Elderberry  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1LJKS/?tag=tolees-21'
+descuento: '80.53'
+titulo: 'Puma Basket Heart Patent Wn s  Zapatilla'
 ---
 
 Ahora mismo tienes [Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Morado Elderberry  37 EU](https://www.amazon.es/dp/B07DC1LJKS/?tag=tolees-21) a 17.51 EUR (original: 89.95 EUR) (80.53 %  de descuento) en el siguiente enlace!

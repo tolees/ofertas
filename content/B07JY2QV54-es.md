@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Adidas Alphabounce Trainer W  Zapatillas de Gimnasia para Mujer  Blanco Raw FTWR White/Grey Three F17  41 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JY2QV54/?tag=tolees-21'
+descuento: '73.20'
+titulo: 'Adidas Alphabounce Trainer W  Zapatillas'
 ---
 
 Tienes [Adidas Alphabounce Trainer W  Zapatillas de Gimnasia para Mujer  Blanco Raw FTWR White/Grey Three F17  41 1/3 EU](https://www.amazon.es/dp/B07JY2QV54/?tag=tolees-21) con un 73.20 % de descuento con precio de oferta de 26.79 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Nike Wmns Md Runner 2 Eng Mesh  Zapatillas de Running para Mujer  Multicolor  Mink Brown/Red Crush-String 200   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CYGN2Y1/?tag=tolees-21'
+descuento: '59.54'
+titulo: 'Nike Wmns Md Runner 2 Eng Mesh  Zapatill'
 ---
 
 Está [Nike Wmns Md Runner 2 Eng Mesh  Zapatillas de Running para Mujer  Multicolor  Mink Brown/Red Crush-String 200   37.5 EU](https://www.amazon.es/dp/B07CYGN2Y1/?tag=tolees-21) con 59.54 de descuento por 28.32 EUR (original: 70 EUR) en el siguiente enlace!

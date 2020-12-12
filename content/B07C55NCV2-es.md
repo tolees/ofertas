@@ -17,6 +17,9 @@ comparePrice: 104.99 EUR
 inStock: true
 prodname: 'San Ignacio Wok Apta para Inducción  Negro  28 cm. diámetro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C55NCV2/?tag=tolees-21'
+descuento: '58.10'
+titulo: 'San Ignacio Wok Apta para Inducción  Neg'
 ---
 
 Está [San Ignacio Wok Apta para Inducción  Negro  28 cm. diámetro](https://www.amazon.es/dp/B07C55NCV2/?tag=tolees-21) con 58.10 de descuento por 43.99 EUR (original: 104.99 EUR) en el siguiente enlace!

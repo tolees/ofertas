@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Asics Gel-Cumulus 19 Lite-Show  Zapatillas de Entrenamiento para Hombre  Gris  Carbon/Black/Safety Yellow 9790   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078MGRM9Z/?tag=tolees-21'
+descuento: '57.59'
+titulo: 'Asics Gel-Cumulus 19 Lite-Show  Zapatill'
 ---
 
 Tienes [Asics Gel-Cumulus 19 Lite-Show  Zapatillas de Entrenamiento para Hombre  Gris  Carbon/Black/Safety Yellow 9790   40.5 EU](https://www.amazon.es/dp/B078MGRM9Z/?tag=tolees-21) con un 57.59 % de descuento con precio de oferta de 63.62 EUR (original: 150 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Reebok Royal Complete CLN  Zapatillas de Tenis para Hombre  Blanco  White/Gum 0   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1KHC7Q/?tag=tolees-21'
+descuento: '44.18'
+titulo: 'Reebok Royal Complete CLN  Zapatillas de'
 ---
 
 Tienes [Reebok Royal Complete CLN  Zapatillas de Tenis para Hombre  Blanco  White/Gum 0   42.5 EU](https://www.amazon.es/dp/B07D1KHC7Q/?tag=tolees-21) con un 44.18 % de descuento con precio de oferta de 27.88 EUR (original: 49.95 EUR) en el siguiente enlace!

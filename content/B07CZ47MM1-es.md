@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Puma NRGY Neko Knit  Zapatillas de Entrenamiento para Hombre  Negro Black-High Risk Red  42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ47MM1/?tag=tolees-21'
+descuento: '51.45'
+titulo: 'Puma NRGY Neko Knit  Zapatillas de Entre'
 ---
 
 Está [Puma NRGY Neko Knit  Zapatillas de Entrenamiento para Hombre  Negro Black-High Risk Red  42.5 EU](https://www.amazon.es/dp/B07CZ47MM1/?tag=tolees-21) con 51.45 de descuento por 36.39 EUR (original: 74.95 EUR) en el siguiente enlace!

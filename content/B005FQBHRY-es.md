@@ -17,6 +17,9 @@ comparePrice: 16.5 EUR
 inStock: true
 prodname: 'TIGI Champú para Pelo - 250 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005FQBHRY/?tag=tolees-21'
+descuento: '33.94'
+titulo: 'TIGI Champú para Pelo - 250 ml'
 ---
 
 Ahora mismo tienes [TIGI Champú para Pelo - 250 ml](https://www.amazon.es/dp/B005FQBHRY/?tag=tolees-21) a 10.9 EUR (original: 16.5 EUR) (33.94 %  de descuento) en el siguiente enlace!

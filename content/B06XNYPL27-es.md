@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Joma Tenis 80 Polo  Mujer  Marino  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XNYPL27/?tag=tolees-21'
+descuento: '78.78'
+titulo: 'Joma Tenis 80 Polo  Mujer  Marino  L'
 ---
 
 Tienes [Joma Tenis 80 Polo  Mujer  Marino  L](https://www.amazon.es/dp/B06XNYPL27/?tag=tolees-21) con un 78.78 % de descuento con precio de oferta de 10.6 EUR (original: 49.95 EUR) en el siguiente enlace!

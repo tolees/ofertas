@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 490 C/Block Gg12 Jersey   Gama Azules 15   Large  Tamaño del Fabricante:L  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYLW6LH/?tag=tolees-21'
+descuento: '61.56'
+titulo: 'Springfield 490 C/Block Gg12 Jersey   Ga'
 ---
 
 Está [Springfield 490 C/Block Gg12 Jersey   Gama Azules 15   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07KYLW6LH/?tag=tolees-21) con 61.56 de descuento por 9.99 EUR (original: 25.99 EUR) en el siguiente enlace!

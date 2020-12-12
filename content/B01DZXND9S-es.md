@@ -17,6 +17,9 @@ comparePrice: 54.83 EUR
 inStock: true
 prodname: 'BST MKZ10 - Micrófono dinámico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DZXND9S/?tag=tolees-21'
+descuento: '78.06'
+titulo: 'BST MKZ10 - Micrófono dinámico'
 ---
 
 Está [BST MKZ10 - Micrófono dinámico](https://www.amazon.es/dp/B01DZXND9S/?tag=tolees-21) con 78.06 de descuento por 12.03 EUR (original: 54.83 EUR) en el siguiente enlace!

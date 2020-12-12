@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Quiksilver Bamboo Breakfast Camiseta  Hombre  Negro  Black KVJ0   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHV348V/?tag=tolees-21'
+descuento: '33.24'
+titulo: 'Quiksilver Bamboo Breakfast Camiseta  Ho'
 ---
 
 Está [Quiksilver Bamboo Breakfast Camiseta  Hombre  Negro  Black KVJ0   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DHV348V/?tag=tolees-21) con 33.24 de descuento por 20.02 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcooblidge Sweat Pants  Pantalones para Hombre  Gris  Light Grey Melange Fit:TIGHT FIT   talla del fabricante Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9JCAYQ/?tag=tolees-21'
+descuento: '64.71'
+titulo: 'JACK & JONES Jcooblidge Sweat Pants  Pan'
 ---
 
 Está [JACK & JONES Jcooblidge Sweat Pants  Pantalones para Hombre  Gris  Light Grey Melange Fit:TIGHT FIT   talla del fabricante Large](https://www.amazon.es/dp/B01N9JCAYQ/?tag=tolees-21) con 64.71 de descuento por 17.64 EUR (original: 49.99 EUR) en el siguiente enlace!

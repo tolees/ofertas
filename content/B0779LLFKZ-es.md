@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Balboa Short PL800695  Pantalones Cortos para Mujer  Rojo  Crispy Red 241   26 W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0779LLFKZ/?tag=tolees-21'
+descuento: '28.84'
+titulo: 'Pepe Jeans Balboa Short PL800695  Pantal'
 ---
 
 Ahora mismo tienes [Pepe Jeans Balboa Short PL800695  Pantalones Cortos para Mujer  Rojo  Crispy Red 241   26 W](https://www.amazon.es/dp/B0779LLFKZ/?tag=tolees-21) a 35.51 EUR (original: 49.9 EUR) (28.84 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'GORE WEAR M Manguitos unisex  Talla: M-L  Color: negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RGHT1B/?tag=tolees-21'
+descuento: '42.50'
+titulo: 'GORE WEAR M Manguitos unisex  Talla: M-L'
 ---
 
 Está [GORE WEAR M Manguitos unisex  Talla: M-L  Color: negro](https://www.amazon.es/dp/B075RGHT1B/?tag=tolees-21) con 42.50 de descuento por 20.67 EUR (original: 35.95 EUR) en el siguiente enlace!

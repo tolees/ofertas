@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Mega Nrgy Turbo 2  Zapatillas para Hombre  Azul  Peacoat-Turkish Sea-Fizzy Yellow   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MDS74J/?tag=tolees-21'
+descuento: '57.44'
+titulo: 'Puma Mega Nrgy Turbo 2  Zapatillas para '
 ---
 
 Está [Puma Mega Nrgy Turbo 2  Zapatillas para Hombre  Azul  Peacoat-Turkish Sea-Fizzy Yellow   44 EU](https://www.amazon.es/dp/B077MDS74J/?tag=tolees-21) con 57.44 de descuento por 29.77 EUR (original: 69.95 EUR) en el siguiente enlace!

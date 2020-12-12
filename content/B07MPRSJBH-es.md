@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'BEISK Soporte Móvil Coche Magnético Soporte Móvil Coche Imán Soporte Móvil Coche Ventosa para Parabrisas y Salpicadero Compatible para iPhone X/ 8/ 8Plus/ 7/ 7P/ 6/ 6s/  Samsung  Huawei  Xiaomi'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MPRSJBH/?tag=tolees-21'
+descuento: '63.35'
+titulo: 'BEISK Soporte Móvil Coche Magnético Sopo'
 ---
 
 Está [BEISK Soporte Móvil Coche Magnético Soporte Móvil Coche Imán Soporte Móvil Coche Ventosa para Parabrisas y Salpicadero Compatible para iPhone X/ 8/ 8Plus/ 7/ 7P/ 6/ 6s/  Samsung  Huawei  Xiaomi](https://www.amazon.es/dp/B07MPRSJBH/?tag=tolees-21) con 63.35 de descuento por 10.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'BOSS Tiboss Camiseta  Amarillo  Light/Pastel Yellow 743   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGRB23F/?tag=tolees-21'
+descuento: '40.04'
+titulo: 'BOSS Tiboss Camiseta  Amarillo  Light/Pa'
 ---
 
 Tienes [BOSS Tiboss Camiseta  Amarillo  Light/Pastel Yellow 743   Medium para Mujer](https://www.amazon.es/dp/B07KGRB23F/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 29.95 EUR (original: 49.95 EUR) en el siguiente enlace!

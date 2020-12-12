@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Pepe Jeans LIDA XL PG300783 Camisa  Azul  7Oz Queenofhearts 000   Medium para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XTN55QD/?tag=tolees-21'
+descuento: '81.37'
+titulo: 'Pepe Jeans LIDA XL PG300783 Camisa  Azul'
 ---
 
 Está [Pepe Jeans LIDA XL PG300783 Camisa  Azul  7Oz Queenofhearts 000   Medium para Niñas](https://www.amazon.es/dp/B06XTN55QD/?tag=tolees-21) con 81.37 de descuento por 13.97 EUR (original: 75 EUR) en el siguiente enlace!

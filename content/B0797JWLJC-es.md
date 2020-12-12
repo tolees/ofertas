@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Mujer  Gris  Team Away Grey/White CG  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0797JWLJC/?tag=tolees-21'
+descuento: '71.73'
+titulo: 'New Balance Fresh Foam Lazr Sport  Zapat'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Mujer  Gris  Team Away Grey/White CG  37 EU](https://www.amazon.es/dp/B0797JWLJC/?tag=tolees-21) a 25.44 EUR (original: 90 EUR) (71.73 %  de descuento) en el siguiente enlace!

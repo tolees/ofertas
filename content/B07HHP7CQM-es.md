@@ -17,6 +17,9 @@ comparePrice: 234 EUR
 inStock: true
 prodname: 'Bosch - Taladro combinado AdvancedImpact 18  sin batería  sistema de 18 V  en caja '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HHP7CQM/?tag=tolees-21'
+descuento: '55.56'
+titulo: 'Bosch - Taladro combinado AdvancedImpact'
 ---
 
 Ahora mismo tienes [Bosch - Taladro combinado AdvancedImpact 18  sin batería  sistema de 18 V  en caja ](https://www.amazon.es/dp/B07HHP7CQM/?tag=tolees-21) a 104 EUR (original: 234 EUR) (55.56 %  de descuento) en el siguiente enlace!

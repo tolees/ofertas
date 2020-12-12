@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Alcatel Onetouch Pop 3 - Terminal Libre DE 5.5"  Quad Core 1.3 GHz  Dual SIM  Color Plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014XBLNZM/?tag=tolees-21'
+descuento: '42.01'
+titulo: 'Alcatel Onetouch Pop 3 - Terminal Libre '
 ---
 
 Ahora mismo tienes [Alcatel Onetouch Pop 3 - Terminal Libre DE 5.5"  Quad Core 1.3 GHz  Dual SIM  Color Plateado](https://www.amazon.es/dp/B014XBLNZM/?tag=tolees-21) a 81.18 EUR (original: 139.99 EUR) (42.01 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 219.99 EUR
 inStock: true
 prodname: 'Garmin Vívosmart HR+ - Pulsera de actividad con GPS  color Azul  Regular'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DWEBJGE/?tag=tolees-21'
+descuento: '44.38'
+titulo: 'Garmin Vívosmart HR+ - Pulsera de activi'
 ---
 
 Está [Garmin Vívosmart HR+ - Pulsera de actividad con GPS  color Azul  Regular](https://www.amazon.es/dp/B01DWEBJGE/?tag=tolees-21) con 44.38 de descuento por 122.35 EUR (original: 219.99 EUR) en el siguiente enlace!

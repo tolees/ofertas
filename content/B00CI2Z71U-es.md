@@ -17,6 +17,9 @@ comparePrice: 1.4 EUR
 inStock: true
 prodname: 'NANOCABLE 10.20.1601-OEM - Cable de Red Ethernet RJ45 LSZH Cat.5e UTP  AWG24  Libre de alogenos  Gris  latiguillo de 1mts'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CI2Z71U/?tag=tolees-21'
+descuento: '39.29'
+titulo: 'NANOCABLE 10.20.1601-OEM - Cable de Red '
 ---
 
 Está [NANOCABLE 10.20.1601-OEM - Cable de Red Ethernet RJ45 LSZH Cat.5e UTP  AWG24  Libre de alogenos  Gris  latiguillo de 1mts](https://www.amazon.es/dp/B00CI2Z71U/?tag=tolees-21) con 39.29 de descuento por 0.85 EUR (original: 1.4 EUR) en el siguiente enlace!

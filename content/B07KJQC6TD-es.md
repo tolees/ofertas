@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Infiltrado En El Kkklan [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJQC6TD/?tag=tolees-21'
+descuento: '39.92'
+titulo: 'Infiltrado En El Kkklan [Blu-ray]'
 ---
 
 Está [Infiltrado En El Kkklan [Blu-ray]](https://www.amazon.es/dp/B07KJQC6TD/?tag=tolees-21) con 39.92 de descuento por 14.99 EUR (original: 24.95 EUR) en el siguiente enlace!

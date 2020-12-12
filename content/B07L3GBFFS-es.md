@@ -17,6 +17,9 @@ comparePrice: 64.9 EUR
 inStock: true
 prodname: 'Hilfiger Denim Tommy Jeans Casual Sneaker  Zapatillas para Mujer  Rosa  Lotus 662   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3GBFFS/?tag=tolees-21'
+descuento: '55.39'
+titulo: 'Hilfiger Denim Tommy Jeans Casual Sneake'
 ---
 
 Está [Hilfiger Denim Tommy Jeans Casual Sneaker  Zapatillas para Mujer  Rosa  Lotus 662   40 EU](https://www.amazon.es/dp/B07L3GBFFS/?tag=tolees-21) con 55.39 de descuento por 28.95 EUR (original: 64.9 EUR) en el siguiente enlace!

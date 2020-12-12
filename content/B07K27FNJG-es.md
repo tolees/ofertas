@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Hurley M Phantom One & Only 18  BAÑADORES  Hombre  Photo Blue  38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K27FNJG/?tag=tolees-21'
+descuento: '63.04'
+titulo: 'Hurley M Phantom One & Only 18  BAÑADORE'
 ---
 
 Está [Hurley M Phantom One & Only 18  BAÑADORES  Hombre  Photo Blue  38](https://www.amazon.es/dp/B07K27FNJG/?tag=tolees-21) con 63.04 de descuento por 20.33 EUR (original: 55 EUR) en el siguiente enlace!

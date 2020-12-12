@@ -17,6 +17,9 @@ comparePrice: 82.99 EUR
 inStock: true
 prodname: 'adidas 18/19 Real Madrid Home - Camiseta  Mujer  Multicolor  Blabas/Negro   XXS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ53SJ8/?tag=tolees-21'
+descuento: '66.27'
+titulo: 'adidas 18/19 Real Madrid Home - Camiseta'
 ---
 
 Ahora mismo tienes [adidas 18/19 Real Madrid Home - Camiseta  Mujer  Multicolor  Blabas/Negro   XXS](https://www.amazon.es/dp/B07DJ53SJ8/?tag=tolees-21) a 27.99 EUR (original: 82.99 EUR) (66.27 %  de descuento) en el siguiente enlace!

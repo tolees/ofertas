@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma 515711  Body Para Mujer  Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0733MQX6J/?tag=tolees-21'
+descuento: '83.00'
+titulo: 'Puma 515711  Body Para Mujer  Negro  L'
 ---
 
 Está [Puma 515711  Body Para Mujer  Negro  L](https://www.amazon.es/dp/B0733MQX6J/?tag=tolees-21) con 83.00 de descuento por 11.89 EUR (original: 69.95 EUR) en el siguiente enlace!

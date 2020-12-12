@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Classic BB Cap Gorra de béisbol  Azul  Alaskan Blue 901   única  Talla del Fabricante: OS  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L35LSC4/?tag=tolees-21'
+descuento: '53.18'
+titulo: 'Tommy Hilfiger Classic BB Cap Gorra de b'
 ---
 
 Está [Tommy Hilfiger Classic BB Cap Gorra de béisbol  Azul  Alaskan Blue 901   única  Talla del Fabricante: OS  para Mujer](https://www.amazon.es/dp/B07L35LSC4/?tag=tolees-21) con 53.18 de descuento por 14 EUR (original: 29.9 EUR) en el siguiente enlace!

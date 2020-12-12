@@ -17,6 +17,9 @@ comparePrice: 28.78 EUR
 inStock: true
 prodname: 'yoptote Laberinto de Cuentas Juguetes de Madera Juego de Montaña Rusa de Madera para los Niños sobre 3 Años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VW34MB/?tag=tolees-21'
+descuento: '44.44'
+titulo: 'yoptote Laberinto de Cuentas Juguetes de'
 ---
 
 Tienes [yoptote Laberinto de Cuentas Juguetes de Madera Juego de Montaña Rusa de Madera para los Niños sobre 3 Años](https://www.amazon.es/dp/B071VW34MB/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 15.99 EUR (original: 28.78 EUR) en el siguiente enlace!

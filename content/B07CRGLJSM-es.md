@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Uprise Mesh  Zapatillas Unisex Adults’o  Gris  Gray Violet White   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRGLJSM/?tag=tolees-21'
+descuento: '70.79'
+titulo: 'Puma Uprise Mesh  Zapatillas Unisex Adul'
 ---
 
 Está [Puma Uprise Mesh  Zapatillas Unisex Adults’o  Gris  Gray Violet White   37.5 EU](https://www.amazon.es/dp/B07CRGLJSM/?tag=tolees-21) con 70.79 de descuento por 26.27 EUR (original: 89.95 EUR) en el siguiente enlace!

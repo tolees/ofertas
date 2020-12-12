@@ -17,6 +17,9 @@ comparePrice: 23 EUR
 inStock: true
 prodname: 'adidas Cuerda Saltar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003ULP8JE/?tag=tolees-21'
+descuento: '56.52'
+titulo: 'adidas Cuerda Saltar'
 ---
 
 Ahora mismo tienes [adidas Cuerda Saltar](https://www.amazon.es/dp/B003ULP8JE/?tag=tolees-21) a 10 EUR (original: 23 EUR) (56.52 %  de descuento) en el siguiente enlace!

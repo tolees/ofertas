@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'DC Shoes Circle Star tee-Shirt  Hombre  Racing Red  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPRGDBG/?tag=tolees-21'
+descuento: '55.15'
+titulo: 'DC Shoes Circle Star tee-Shirt  Hombre  '
 ---
 
 Está [DC Shoes Circle Star tee-Shirt  Hombre  Racing Red  XXL](https://www.amazon.es/dp/B07KPRGDBG/?tag=tolees-21) con 55.15 de descuento por 13.45 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 27.8 EUR
 inStock: true
 prodname: 'PJ Masks Hero - Bolsa de Deporte  Viaje  Safta 711717273 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076Q85BTZ/?tag=tolees-21'
+descuento: '49.82'
+titulo: 'PJ Masks Hero - Bolsa de Deporte  Viaje '
 ---
 
 Ahora mismo tienes [PJ Masks Hero - Bolsa de Deporte  Viaje  Safta 711717273 ](https://www.amazon.es/dp/B076Q85BTZ/?tag=tolees-21) a 13.95 EUR (original: 27.8 EUR) (49.82 %  de descuento) en el siguiente enlace!

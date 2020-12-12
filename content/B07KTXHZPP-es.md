@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'adidas C40 Aeroknit Ca Gorro  Hombre  Gritre/Gricua/Negro  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTXHZPP/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'adidas C40 Aeroknit Ca Gorro  Hombre  Gr'
 ---
 
 Está [adidas C40 Aeroknit Ca Gorro  Hombre  Gritre/Gricua/Negro  Talla Única](https://www.amazon.es/dp/B07KTXHZPP/?tag=tolees-21) con 50.02 de descuento por 12.47 EUR (original: 24.95 EUR) en el siguiente enlace!

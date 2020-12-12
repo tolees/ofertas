@@ -17,6 +17,9 @@ comparePrice: 799 EUR
 inStock: true
 prodname: 'Zhiyun Crane 2 - Estabilizador de 3 ejes  con control motor para cámaras Reflex o EVIL  batería de hasta 18h de duración  soporta entre 500-3200g de peso   color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076YK2ZF6/?tag=tolees-21'
+descuento: '39.17'
+titulo: 'Zhiyun Crane 2 - Estabilizador de 3 ejes'
 ---
 
 Tienes [Zhiyun Crane 2 - Estabilizador de 3 ejes  con control motor para cámaras Reflex o EVIL  batería de hasta 18h de duración  soporta entre 500-3200g de peso   color negro](https://www.amazon.es/dp/B076YK2ZF6/?tag=tolees-21) con un 39.17 % de descuento con precio de oferta de 486 EUR (original: 799 EUR) en el siguiente enlace!

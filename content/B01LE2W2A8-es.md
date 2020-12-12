@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Adelheid - Gut  v  erzogen Kinderrucksack  Mochilas Unisex Niños  Blau  Eisblau   14.5x28.5x20.5 cm  W x H D '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LE2W2A8/?tag=tolees-21'
+descuento: '50.30'
+titulo: 'Adelheid - Gut  v  erzogen Kinderrucksac'
 ---
 
 Está [Adelheid - Gut  v  erzogen Kinderrucksack  Mochilas Unisex Niños  Blau  Eisblau   14.5x28.5x20.5 cm  W x H D ](https://www.amazon.es/dp/B01LE2W2A8/?tag=tolees-21) con 50.30 de descuento por 14.86 EUR (original: 29.9 EUR) en el siguiente enlace!

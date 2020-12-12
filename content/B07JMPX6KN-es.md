@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'XTI 35046  Zapatos de tacón con Punta Cerrada para Mujer  Blanco Hielo  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMPX6KN/?tag=tolees-21'
+descuento: '76.47'
+titulo: 'XTI 35046  Zapatos de tacón con Punta Ce'
 ---
 
 Está [XTI 35046  Zapatos de tacón con Punta Cerrada para Mujer  Blanco Hielo  38 EU](https://www.amazon.es/dp/B07JMPX6KN/?tag=tolees-21) con 76.47 de descuento por 9.4 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorantwon Sweat Hood Capucha  Azul  Surf The Web Fit: Reg Originals   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZVKWZ6/?tag=tolees-21'
+descuento: '73.79'
+titulo: 'JACK & JONES Jorantwon Sweat Hood Capuch'
 ---
 
 Está [JACK & JONES Jorantwon Sweat Hood Capucha  Azul  Surf The Web Fit: Reg Originals   X-Large para Hombre](https://www.amazon.es/dp/B07JZVKWZ6/?tag=tolees-21) con 73.79 de descuento por 7.86 EUR (original: 29.99 EUR) en el siguiente enlace!

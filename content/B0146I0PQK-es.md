@@ -17,6 +17,9 @@ comparePrice: 10.27 EUR
 inStock: true
 prodname: 'Schneider Electric 12509 Domae 6Ka 1P+N 16A'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0146I0PQK/?tag=tolees-21'
+descuento: '53.65'
+titulo: 'Schneider Electric 12509 Domae 6Ka 1P+N '
 ---
 
 Ahora mismo tienes [Schneider Electric 12509 Domae 6Ka 1P+N 16A](https://www.amazon.es/dp/B0146I0PQK/?tag=tolees-21) a 4.76 EUR (original: 10.27 EUR) (53.65 %  de descuento) en el siguiente enlace!

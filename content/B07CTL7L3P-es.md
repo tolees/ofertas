@@ -17,6 +17,9 @@ comparePrice: 94.99 EUR
 inStock: true
 prodname: 'Under Armour Commit TR Ex 3020789-007  Zapatillas de Deporte Interior para Hombre  Negro  Black 3020789/007   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTL7L3P/?tag=tolees-21'
+descuento: '64.96'
+titulo: 'Under Armour Commit TR Ex 3020789-007  Z'
 ---
 
 Ahora mismo tienes [Under Armour Commit TR Ex 3020789-007  Zapatillas de Deporte Interior para Hombre  Negro  Black 3020789/007   41 EU](https://www.amazon.es/dp/B07CTL7L3P/?tag=tolees-21) a 33.28 EUR (original: 94.99 EUR) (64.96 %  de descuento) en el siguiente enlace!

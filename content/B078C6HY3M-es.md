@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas Duramo 8 w  Zapatillas de Running para Mujer  Gris Carbon/Real Coral 0  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078C6HY3M/?tag=tolees-21'
+descuento: '50.92'
+titulo: 'adidas Duramo 8 w  Zapatillas de Running'
 ---
 
 Tienes [adidas Duramo 8 w  Zapatillas de Running para Mujer  Gris Carbon/Real Coral 0  38 EU](https://www.amazon.es/dp/B078C6HY3M/?tag=tolees-21) con un 50.92 % de descuento con precio de oferta de 34.33 EUR (original: 69.95 EUR) en el siguiente enlace!

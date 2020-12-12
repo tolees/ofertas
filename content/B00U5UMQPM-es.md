@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Tribe Disney Marvel - Cargador externo portátil móvil universal con salida USB  2600 mAh   diseño Hulk'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U5UMQPM/?tag=tolees-21'
+descuento: '47.09'
+titulo: 'Tribe Disney Marvel - Cargador externo p'
 ---
 
 Ahora mismo tienes [Tribe Disney Marvel - Cargador externo portátil móvil universal con salida USB  2600 mAh   diseño Hulk](https://www.amazon.es/dp/B00U5UMQPM/?tag=tolees-21) a 8.99 EUR (original: 16.99 EUR) (47.09 %  de descuento) en el siguiente enlace!

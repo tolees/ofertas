@@ -17,6 +17,9 @@ comparePrice: 29.43 EUR
 inStock: true
 prodname: '* * Oferta introductoria * * | nuevo activue Touch | 2 x Heavy Duty Kick Mats con iPad | Soporte para Tablet | Protector de asiento de coche | Funda para asiento de coche'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GU6FN72/?tag=tolees-21'
+descuento: '38.70'
+titulo: '* * Oferta introductoria * * | nuevo act'
 ---
 
 Está [* * Oferta introductoria * * | nuevo activue Touch | 2 x Heavy Duty Kick Mats con iPad | Soporte para Tablet | Protector de asiento de coche | Funda para asiento de coche](https://www.amazon.es/dp/B01GU6FN72/?tag=tolees-21) con 38.70 de descuento por 18.04 EUR (original: 29.43 EUR) en el siguiente enlace!

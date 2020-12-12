@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Campus  Zapatillas para Hombre  Negro  Core Black/Clear Brown/Noble Indigo 0   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077QJM85N/?tag=tolees-21'
+descuento: '70.04'
+titulo: 'adidas Campus  Zapatillas para Hombre  N'
 ---
 
 Tienes [adidas Campus  Zapatillas para Hombre  Negro  Core Black/Clear Brown/Noble Indigo 0   44 EU](https://www.amazon.es/dp/B077QJM85N/?tag=tolees-21) con un 70.04 % de descuento con precio de oferta de 29.95 EUR (original: 99.95 EUR) en el siguiente enlace!

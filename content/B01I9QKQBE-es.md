@@ -17,6 +17,9 @@ comparePrice: 364.4 EUR
 inStock: true
 prodname: 'Anker Eufy by Anker - Robovac 11  T2102311 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01I9QKQBE/?tag=tolees-21'
+descuento: '34.44'
+titulo: 'Anker Eufy by Anker - Robovac 11  T21023'
 ---
 
 Está [Anker Eufy by Anker - Robovac 11  T2102311 ](https://www.amazon.es/dp/B01I9QKQBE/?tag=tolees-21) con 34.44 de descuento por 238.89 EUR (original: 364.4 EUR) en el siguiente enlace!

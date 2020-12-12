@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Energy Lights-Eliptic  Zapatillas para Niños  Plateado  Silver   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MG9LB9S/?tag=tolees-21'
+descuento: '59.58'
+titulo: 'Skechers Energy Lights-Eliptic  Zapatill'
 ---
 
 Está [Skechers Energy Lights-Eliptic  Zapatillas para Niños  Plateado  Silver   36 EU](https://www.amazon.es/dp/B01MG9LB9S/?tag=tolees-21) con 59.58 de descuento por 26.25 EUR (original: 64.95 EUR) en el siguiente enlace!

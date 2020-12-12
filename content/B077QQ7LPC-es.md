@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'New Balance WCH696V3  Zapatillas de Tenis para Mujer  Azul  Navy   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077QQ7LPC/?tag=tolees-21'
+descuento: '67.89'
+titulo: 'New Balance WCH696V3  Zapatillas de Teni'
 ---
 
 Tienes [New Balance WCH696V3  Zapatillas de Tenis para Mujer  Azul  Navy   37.5 EU](https://www.amazon.es/dp/B077QQ7LPC/?tag=tolees-21) con un 67.89 % de descuento con precio de oferta de 24.08 EUR (original: 75 EUR) en el siguiente enlace!

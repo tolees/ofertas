@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'adidas X 17.3 FG  Zapatillas de Fútbol para Hombre   FTWR White/Energy Blue/Clear Grey   41 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0719WQ9QR/?tag=tolees-21'
+descuento: '58.02'
+titulo: 'adidas X 17.3 FG  Zapatillas de Fútbol p'
 ---
 
 Ahora mismo tienes [adidas X 17.3 FG  Zapatillas de Fútbol para Hombre   FTWR White/Energy Blue/Clear Grey   41 1/3 EU](https://www.amazon.es/dp/B0719WQ9QR/?tag=tolees-21) a 33.56 EUR (original: 79.95 EUR) (58.02 %  de descuento) en el siguiente enlace!

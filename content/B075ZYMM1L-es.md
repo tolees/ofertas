@@ -17,6 +17,9 @@ comparePrice: 61.41 EUR
 inStock: true
 prodname: 'Nike Downshifter 8  Zapatillas de Running para Hombre  Negro  Black/White-Anthracite 001   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075ZYMM1L/?tag=tolees-21'
+descuento: '28.35'
+titulo: 'Nike Downshifter 8  Zapatillas de Runnin'
 ---
 
 Está [Nike Downshifter 8  Zapatillas de Running para Hombre  Negro  Black/White-Anthracite 001   43 EU](https://www.amazon.es/dp/B075ZYMM1L/?tag=tolees-21) con 28.35 de descuento por 44 EUR (original: 61.41 EUR) en el siguiente enlace!

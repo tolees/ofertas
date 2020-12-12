@@ -17,6 +17,9 @@ comparePrice: 18.54 EUR
 inStock: true
 prodname: 'Regatta Shaul Traje de baño  Niños  Oldgold/Iron  Talla 9-10'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079GV1Z4C/?tag=tolees-21'
+descuento: '59.17'
+titulo: 'Regatta Shaul Traje de baño  Niños  Oldg'
 ---
 
 Tienes [Regatta Shaul Traje de baño  Niños  Oldgold/Iron  Talla 9-10](https://www.amazon.es/dp/B079GV1Z4C/?tag=tolees-21) con un 59.17 % de descuento con precio de oferta de 7.57 EUR (original: 18.54 EUR) en el siguiente enlace!

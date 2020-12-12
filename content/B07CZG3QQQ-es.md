@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Under Armour Rival Fleece Po Hoodie Parte Superior del Calentamiento  Hombre  Rojo Aruba Red/Black 651  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZG3QQQ/?tag=tolees-21'
+descuento: '38.82'
+titulo: 'Under Armour Rival Fleece Po Hoodie Part'
 ---
 
 Está [Under Armour Rival Fleece Po Hoodie Parte Superior del Calentamiento  Hombre  Rojo Aruba Red/Black 651  XXL](https://www.amazon.es/dp/B07CZG3QQQ/?tag=tolees-21) con 38.82 de descuento por 30.59 EUR (original: 50 EUR) en el siguiente enlace!

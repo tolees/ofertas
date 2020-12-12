@@ -17,6 +17,9 @@ comparePrice: 48.9 EUR
 inStock: true
 prodname: 'Kelme Charles  Zapatillas Unisex Adulto  Naranja  Melocoton 251   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0798D9SPX/?tag=tolees-21'
+descuento: '58.77'
+titulo: 'Kelme Charles  Zapatillas Unisex Adulto '
 ---
 
 Tienes [Kelme Charles  Zapatillas Unisex Adulto  Naranja  Melocoton 251   40 EU](https://www.amazon.es/dp/B0798D9SPX/?tag=tolees-21) con un 58.77 % de descuento con precio de oferta de 20.16 EUR (original: 48.9 EUR) en el siguiente enlace!

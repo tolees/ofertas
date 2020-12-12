@@ -17,6 +17,9 @@ comparePrice: 35.2 EUR
 inStock: true
 prodname: 'Triumph Body Make-up Blossom Wpm  Sujetador Mujer  Azul  Deep Water Wg    Talla del Fabricante: 90D '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075GD6JWM/?tag=tolees-21'
+descuento: '35.43'
+titulo: 'Triumph Body Make-up Blossom Wpm  Sujeta'
 ---
 
 Tienes [Triumph Body Make-up Blossom Wpm  Sujetador Mujer  Azul  Deep Water Wg    Talla del Fabricante: 90D ](https://www.amazon.es/dp/B075GD6JWM/?tag=tolees-21) con un 35.43 % de descuento con precio de oferta de 22.73 EUR (original: 35.2 EUR) en el siguiente enlace!

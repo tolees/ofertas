@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Sigma Sport ID Sigma Reloj Deportivo GPS ID.Run Amarillo 24810  Adultos Unisex  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071PF2CYB/?tag=tolees-21'
+descuento: '58.86'
+titulo: 'Sigma Sport ID Sigma Reloj Deportivo GPS'
 ---
 
 Está [Sigma Sport ID Sigma Reloj Deportivo GPS ID.Run Amarillo 24810  Adultos Unisex  Talla Única](https://www.amazon.es/dp/B071PF2CYB/?tag=tolees-21) con 58.86 de descuento por 41.12 EUR (original: 99.95 EUR) en el siguiente enlace!

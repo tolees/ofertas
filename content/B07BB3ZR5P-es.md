@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'The North Face Quest Chaqueta  Hombre  Rage Red Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB3ZR5P/?tag=tolees-21'
+descuento: '38.37'
+titulo: 'The North Face Quest Chaqueta  Hombre  R'
 ---
 
 Tienes [The North Face Quest Chaqueta  Hombre  Rage Red Black  L](https://www.amazon.es/dp/B07BB3ZR5P/?tag=tolees-21) con un 38.37 % de descuento con precio de oferta de 61.63 EUR (original: 100 EUR) en el siguiente enlace!

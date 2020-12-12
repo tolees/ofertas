@@ -17,6 +17,9 @@ comparePrice: 399 EUR
 inStock: true
 prodname: 'DROP SHOT Hornet Carbon 2019'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NWS4XPR/?tag=tolees-21'
+descuento: '64.79'
+titulo: 'DROP SHOT Hornet Carbon 2019'
 ---
 
 Ahora mismo tienes [DROP SHOT Hornet Carbon 2019](https://www.amazon.es/dp/B07NWS4XPR/?tag=tolees-21) a 140.5 EUR (original: 399 EUR) (64.79 %  de descuento) en el siguiente enlace!

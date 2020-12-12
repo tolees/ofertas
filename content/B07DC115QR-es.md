@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Vikky Ribbon Jr  Zapatillas para Niñas  Negro Black Silver  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC115QR/?tag=tolees-21'
+descuento: '63.54'
+titulo: 'Puma Vikky Ribbon Jr  Zapatillas para Ni'
 ---
 
 Ahora mismo tienes [Puma Vikky Ribbon Jr  Zapatillas para Niñas  Negro Black Silver  39 EU](https://www.amazon.es/dp/B07DC115QR/?tag=tolees-21) a 18.21 EUR (original: 49.95 EUR) (63.54 %  de descuento) en el siguiente enlace!

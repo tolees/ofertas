@@ -17,6 +17,9 @@ comparePrice: 54 EUR
 inStock: true
 prodname: 'Canterbury Over The Head Oficial de la Rugby World Cup 2019 Sudadera  Hombre  Bléiser Azul Marino  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JH6ZQP2/?tag=tolees-21'
+descuento: '43.06'
+titulo: 'Canterbury Over The Head Oficial de la R'
 ---
 
 Tienes [Canterbury Over The Head Oficial de la Rugby World Cup 2019 Sudadera  Hombre  Bléiser Azul Marino  M](https://www.amazon.es/dp/B07JH6ZQP2/?tag=tolees-21) con un 43.06 % de descuento con precio de oferta de 30.75 EUR (original: 54 EUR) en el siguiente enlace!

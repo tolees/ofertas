@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma NRGY Neko Sport  Zapatillas de Running para Hombre  Azul  Peacoat White   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBZBBT5/?tag=tolees-21'
+descuento: '52.24'
+titulo: 'Puma NRGY Neko Sport  Zapatillas de Runn'
 ---
 
 Tienes [Puma NRGY Neko Sport  Zapatillas de Running para Hombre  Azul  Peacoat White   42 EU](https://www.amazon.es/dp/B07DBZBBT5/?tag=tolees-21) con un 52.24 % de descuento con precio de oferta de 33.41 EUR (original: 69.95 EUR) en el siguiente enlace!

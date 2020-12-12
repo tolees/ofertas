@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Wrangler Contrast Polo  Hombre  Rosa  Chalk Pink Wg  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BLJZBD1/?tag=tolees-21'
+descuento: '47.88'
+titulo: 'Wrangler Contrast Polo  Hombre  Rosa  Ch'
 ---
 
 Ahora mismo tienes [Wrangler Contrast Polo  Hombre  Rosa  Chalk Pink Wg  Large](https://www.amazon.es/dp/B07BLJZBD1/?tag=tolees-21) a 20.82 EUR (original: 39.95 EUR) (47.88 %  de descuento) en el siguiente enlace!

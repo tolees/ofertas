@@ -17,6 +17,9 @@ comparePrice: 10.49 EUR
 inStock: true
 prodname: 'Eono Essentials - Mallas de yoga pirata elásticas para mujer con cintura media  rosa  S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJZNT1W/?tag=tolees-21'
+descuento: '26.60'
+titulo: 'Eono Essentials - Mallas de yoga pirata '
 ---
 
 Ahora mismo tienes [Eono Essentials - Mallas de yoga pirata elásticas para mujer con cintura media  rosa  S ](https://www.amazon.es/dp/B07FJZNT1W/?tag=tolees-21) a 7.7 EUR (original: 10.49 EUR) (26.60 %  de descuento) en el siguiente enlace!

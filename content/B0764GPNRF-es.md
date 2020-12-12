@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'The North Face Equipment TNF Mochila Jester  Unisex adulto  Mid Grey Dark Heather/TNF Black  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0764GPNRF/?tag=tolees-21'
+descuento: '34.65'
+titulo: 'The North Face Equipment TNF Mochila Jes'
 ---
 
 Ahora mismo tienes [The North Face Equipment TNF Mochila Jester  Unisex adulto  Mid Grey Dark Heather/TNF Black  Talla única](https://www.amazon.es/dp/B0764GPNRF/?tag=tolees-21) a 49.01 EUR (original: 75 EUR) (34.65 %  de descuento) en el siguiente enlace!

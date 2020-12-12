@@ -17,6 +17,9 @@ comparePrice: 229.99 EUR
 inStock: true
 prodname: 'HOMCOM Patinete Eléctrico Scooter Plegable con Manillar y Asiento Ajustable tipo Monopatín con Freno y Caballete 120W Carga 70kg  81.5x37x96cm  Color Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07423VXBR/?tag=tolees-21'
+descuento: '53.92'
+titulo: 'HOMCOM Patinete Eléctrico Scooter Plegab'
 ---
 
 Está [HOMCOM Patinete Eléctrico Scooter Plegable con Manillar y Asiento Ajustable tipo Monopatín con Freno y Caballete 120W Carga 70kg  81.5x37x96cm  Color Azul](https://www.amazon.es/dp/B07423VXBR/?tag=tolees-21) con 53.92 de descuento por 105.99 EUR (original: 229.99 EUR) en el siguiente enlace!

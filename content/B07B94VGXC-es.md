@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Eshow Riñonera Running a Cintura de Pierna a Hombres para Senderismo Deporte Tela'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B94VGXC/?tag=tolees-21'
+descuento: '55.01'
+titulo: 'Eshow Riñonera Running a Cintura de Pier'
 ---
 
 Ahora mismo tienes [Eshow Riñonera Running a Cintura de Pierna a Hombres para Senderismo Deporte Tela](https://www.amazon.es/dp/B07B94VGXC/?tag=tolees-21) a 17.99 EUR (original: 39.99 EUR) (55.01 %  de descuento) en el siguiente enlace!

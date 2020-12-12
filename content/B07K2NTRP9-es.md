@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Adidas Pro Spark 2018 Low  Zapatillas de Baloncesto para Hombre   Negbás/Escarl/Gricua 000   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2NTRP9/?tag=tolees-21'
+descuento: '29.99'
+titulo: 'Adidas Pro Spark 2018 Low  Zapatillas de'
 ---
 
 Tienes [Adidas Pro Spark 2018 Low  Zapatillas de Baloncesto para Hombre   Negbás/Escarl/Gricua 000   42 EU](https://www.amazon.es/dp/B07K2NTRP9/?tag=tolees-21) con un 29.99 % de descuento con precio de oferta de 41.97 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Springfield 2Rr-Bomber Basica Chaqueta  Hombre  Verde  Gama Verdes 25   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLCGMRS/?tag=tolees-21'
+descuento: '54.76'
+titulo: 'Springfield 2Rr-Bomber Basica Chaqueta  '
 ---
 
 Está [Springfield 2Rr-Bomber Basica Chaqueta  Hombre  Verde  Gama Verdes 25   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLCGMRS/?tag=tolees-21) con 54.76 de descuento por 18.09 EUR (original: 39.99 EUR) en el siguiente enlace!

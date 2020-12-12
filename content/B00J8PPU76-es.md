@@ -17,6 +17,9 @@ comparePrice: 21 EUR
 inStock: true
 prodname: 'Gimi Tendedero Río'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00J8PPU76/?tag=tolees-21'
+descuento: '28.81'
+titulo: 'Gimi Tendedero Río'
 ---
 
 Tienes [Gimi Tendedero Río](https://www.amazon.es/dp/B00J8PPU76/?tag=tolees-21) con un 28.81 % de descuento con precio de oferta de 14.95 EUR (original: 21 EUR) en el siguiente enlace!

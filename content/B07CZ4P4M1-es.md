@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Classic Truk Camo 3-Pack Bañador   Kit ao/Bright Rovic Green/Hudson Blue A407   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ4P4M1/?tag=tolees-21'
+descuento: '40.05'
+titulo: 'G-STAR RAW Classic Truk Camo 3-Pack Baña'
 ---
 
 Está [G-STAR RAW Classic Truk Camo 3-Pack Bañador   Kit ao/Bright Rovic Green/Hudson Blue A407   Medium para Hombre](https://www.amazon.es/dp/B07CZ4P4M1/?tag=tolees-21) con 40.05 de descuento por 23.95 EUR (original: 39.95 EUR) en el siguiente enlace!

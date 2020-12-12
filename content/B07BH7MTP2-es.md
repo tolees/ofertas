@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Mr; Wonderful Woa08982Es Libreta Notas Perfectamente Imperfectas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BH7MTP2/?tag=tolees-21'
+descuento: '49.86'
+titulo: 'Mr; Wonderful Woa08982Es Libreta Notas P'
 ---
 
 Está [Mr; Wonderful Woa08982Es Libreta Notas Perfectamente Imperfectas](https://www.amazon.es/dp/B07BH7MTP2/?tag=tolees-21) con 49.86 de descuento por 9 EUR (original: 17.95 EUR) en el siguiente enlace!

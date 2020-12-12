@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Pikolinos Caceres M9e_i17  Botas Clasicas para Hombre  Marrón  Cuero   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WW5GMZ2/?tag=tolees-21'
+descuento: '54.20'
+titulo: 'Pikolinos Caceres M9e_i17  Botas Clasica'
 ---
 
 Está [Pikolinos Caceres M9e_i17  Botas Clasicas para Hombre  Marrón  Cuero   42 EU](https://www.amazon.es/dp/B06WW5GMZ2/?tag=tolees-21) con 54.20 de descuento por 54.5 EUR (original: 119 EUR) en el siguiente enlace!

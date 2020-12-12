@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma Smash Platform L  Zapatillas para Mujer  Negro Black White  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0776NKTNT/?tag=tolees-21'
+descuento: '69.86'
+titulo: 'Puma Smash Platform L  Zapatillas para M'
 ---
 
 Ahora mismo tienes [Puma Smash Platform L  Zapatillas para Mujer  Negro Black White  39 EU](https://www.amazon.es/dp/B0776NKTNT/?tag=tolees-21) a 24.1 EUR (original: 79.95 EUR) (69.86 %  de descuento) en el siguiente enlace!

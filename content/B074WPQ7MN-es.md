@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Auriculares Bluetooth  ZENBRE E5 Bluetooth 4.1 Esterero con Aislamiento de Ruido  Auriculares inalámbrico hasta a 20 Horas de Reproducción  Audífonos Deportivos contra el Sudor  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074WPQ7MN/?tag=tolees-21'
+descuento: '75.01'
+titulo: 'Auriculares Bluetooth  ZENBRE E5 Bluetoo'
 ---
 
 Tienes [Auriculares Bluetooth  ZENBRE E5 Bluetooth 4.1 Esterero con Aislamiento de Ruido  Auriculares inalámbrico hasta a 20 Horas de Reproducción  Audífonos Deportivos contra el Sudor  Negro ](https://www.amazon.es/dp/B074WPQ7MN/?tag=tolees-21) con un 75.01 % de descuento con precio de oferta de 29.99 EUR (original: 120 EUR) en el siguiente enlace!

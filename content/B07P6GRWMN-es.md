@@ -17,6 +17,9 @@ comparePrice: 58.65 EUR
 inStock: true
 prodname: 'Homelody Grifo Lavabo Anti-ruido para Baño Acabado Cromado con Aireador ABS Desmontable Ahorra el Agua'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P6GRWMN/?tag=tolees-21'
+descuento: '33.52'
+titulo: 'Homelody Grifo Lavabo Anti-ruido para Ba'
 ---
 
 Está [Homelody Grifo Lavabo Anti-ruido para Baño Acabado Cromado con Aireador ABS Desmontable Ahorra el Agua](https://www.amazon.es/dp/B07P6GRWMN/?tag=tolees-21) con 33.52 de descuento por 38.99 EUR (original: 58.65 EUR) en el siguiente enlace!

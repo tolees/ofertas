@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Springfield 6Lc NASA Logo Grande Camiseta  Hombre  Gris  Gama Grises 43   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1QY4N/?tag=tolees-21'
+descuento: '55.63'
+titulo: 'Springfield 6Lc NASA Logo Grande Camiset'
 ---
 
 Tienes [Springfield 6Lc NASA Logo Grande Camiseta  Hombre  Gris  Gama Grises 43   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07KZ1QY4N/?tag=tolees-21) con un 55.63 % de descuento con precio de oferta de 8.87 EUR (original: 19.99 EUR) en el siguiente enlace!

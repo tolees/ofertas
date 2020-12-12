@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Levi s Levis Frankenstein Boxer Brief 2p   Red 072   Small  Pack de 2 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFJ2M3C/?tag=tolees-21'
+descuento: '49.54'
+titulo: 'Levi s Levis Frankenstein Boxer Brief 2p'
 ---
 
 Tienes [Levi s Levis Frankenstein Boxer Brief 2p   Red 072   Small  Pack de 2 para Hombre](https://www.amazon.es/dp/B07HFJ2M3C/?tag=tolees-21) con un 49.54 % de descuento con precio de oferta de 12.61 EUR (original: 24.99 EUR) en el siguiente enlace!

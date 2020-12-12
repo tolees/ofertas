@@ -17,6 +17,9 @@ comparePrice: 8.47 EUR
 inStock: true
 prodname: 'NOX Blister 2 Ud Muñequera  Unisex Adulto  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JFPN6SE/?tag=tolees-21'
+descuento: '26.21'
+titulo: 'NOX Blister 2 Ud Muñequera  Unisex Adult'
 ---
 
 Tienes [NOX Blister 2 Ud Muñequera  Unisex Adulto  Blanco](https://www.amazon.es/dp/B00JFPN6SE/?tag=tolees-21) con un 26.21 % de descuento con precio de oferta de 6.25 EUR (original: 8.47 EUR) en el siguiente enlace!

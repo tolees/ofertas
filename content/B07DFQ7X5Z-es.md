@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance 574S  Zapatillas para Hombre  Azul  Smoke Blue/Silver Utg  47.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFQ7X5Z/?tag=tolees-21'
+descuento: '67.65'
+titulo: 'New Balance 574S  Zapatillas para Hombre'
 ---
 
 Está [New Balance 574S  Zapatillas para Hombre  Azul  Smoke Blue/Silver Utg  47.5 EU](https://www.amazon.es/dp/B07DFQ7X5Z/?tag=tolees-21) con 67.65 de descuento por 35.58 EUR (original: 110 EUR) en el siguiente enlace!

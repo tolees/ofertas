@@ -17,6 +17,9 @@ comparePrice: 261.27 EUR
 inStock: true
 prodname: 'Mesa de ping-pong de IFOYO de 1 8 m  4 piezas plegables  portátil  para uso en interiores  para adulto y niños en color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077T4JSTV/?tag=tolees-21'
+descuento: '52.54'
+titulo: 'Mesa de ping-pong de IFOYO de 1 8 m  4 p'
 ---
 
 Tienes [Mesa de ping-pong de IFOYO de 1 8 m  4 piezas plegables  portátil  para uso en interiores  para adulto y niños en color azul](https://www.amazon.es/dp/B077T4JSTV/?tag=tolees-21) con un 52.54 % de descuento con precio de oferta de 123.99 EUR (original: 261.27 EUR) en el siguiente enlace!

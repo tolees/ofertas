@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Cortefiel 7567634  Bermuda para Hombre  Azul Medio  W33'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCNKWNW/?tag=tolees-21'
+descuento: '54.26'
+titulo: 'Cortefiel 7567634  Bermuda para Hombre  '
 ---
 
 Tienes [Cortefiel 7567634  Bermuda para Hombre  Azul Medio  W33](https://www.amazon.es/dp/B06XCNKWNW/?tag=tolees-21) con un 54.26 % de descuento con precio de oferta de 18.29 EUR (original: 39.99 EUR) en el siguiente enlace!

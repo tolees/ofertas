@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Eferri 0JV5917  Shopper para Mujer  Marrón  Camel   1x1x1 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BWSM8LL/?tag=tolees-21'
+descuento: '74.35'
+titulo: 'Eferri 0JV5917  Shopper para Mujer  Marr'
 ---
 
 Tienes [Eferri 0JV5917  Shopper para Mujer  Marrón  Camel   1x1x1 cm  W x H x L ](https://www.amazon.es/dp/B07BWSM8LL/?tag=tolees-21) con un 74.35 % de descuento con precio de oferta de 12.82 EUR (original: 49.99 EUR) en el siguiente enlace!

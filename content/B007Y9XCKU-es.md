@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Nike Pico 4  Psv   Zapatillas para niño  Blanco / Azul marino  28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007Y9XCKU/?tag=tolees-21'
+descuento: '34.67'
+titulo: 'Nike Pico 4  Psv   Zapatillas para niño '
 ---
 
 Está [Nike Pico 4  Psv   Zapatillas para niño  Blanco / Azul marino  28 EU](https://www.amazon.es/dp/B007Y9XCKU/?tag=tolees-21) con 34.67 de descuento por 19.6 EUR (original: 30 EUR) en el siguiente enlace!

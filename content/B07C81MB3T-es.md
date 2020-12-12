@@ -17,6 +17,9 @@ comparePrice: 28.89 EUR
 inStock: true
 prodname: 'Inside Sjm02sm  Pantalones Mujer  Azul  Blue 20   W24/L31  Talla del Fabricante: 34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C81MB3T/?tag=tolees-21'
+descuento: '27.97'
+titulo: 'Inside Sjm02sm  Pantalones Mujer  Azul  '
 ---
 
 Está [Inside Sjm02sm  Pantalones Mujer  Azul  Blue 20   W24/L31  Talla del Fabricante: 34 ](https://www.amazon.es/dp/B07C81MB3T/?tag=tolees-21) con 27.97 de descuento por 20.81 EUR (original: 28.89 EUR) en el siguiente enlace!

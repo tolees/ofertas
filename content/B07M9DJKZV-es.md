@@ -17,6 +17,9 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'Zapatos de Seguridad con Punta de Acero  Ligeros y Transpirables Zapatos de Entrenamiento prevención de pinchazos（39 EU，Cuero Negro）'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9DJKZV/?tag=tolees-21'
+descuento: '45.34'
+titulo: 'Zapatos de Seguridad con Punta de Acero '
 ---
 
 Está [Zapatos de Seguridad con Punta de Acero  Ligeros y Transpirables Zapatos de Entrenamiento prevención de pinchazos（39 EU，Cuero Negro）](https://www.amazon.es/dp/B07M9DJKZV/?tag=tolees-21) con 45.34 de descuento por 40.99 EUR (original: 74.99 EUR) en el siguiente enlace!

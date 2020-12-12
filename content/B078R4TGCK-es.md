@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Diesel 00S0EC Vaqueros Skinny  Azul  Denim 01   W28/L32 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078R4TGCK/?tag=tolees-21'
+descuento: '37.87'
+titulo: 'Diesel 00S0EC Vaqueros Skinny  Azul  Den'
 ---
 
 Está [Diesel 00S0EC Vaqueros Skinny  Azul  Denim 01   W28/L32 para Mujer](https://www.amazon.es/dp/B078R4TGCK/?tag=tolees-21) con 37.87 de descuento por 93.2 EUR (original: 150 EUR) en el siguiente enlace!

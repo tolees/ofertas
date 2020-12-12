@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'DC Shoes Lanai 22" Boardshort  Hombre  Black Iris  30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPSKP1H/?tag=tolees-21'
+descuento: '46.82'
+titulo: 'DC Shoes Lanai 22" Boardshort  Hombre  B'
 ---
 
 Ahora mismo tienes [DC Shoes Lanai 22" Boardshort  Hombre  Black Iris  30](https://www.amazon.es/dp/B07KPSKP1H/?tag=tolees-21) a 31.9 EUR (original: 59.99 EUR) (46.82 %  de descuento) en el siguiente enlace!

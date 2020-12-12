@@ -17,6 +17,9 @@ comparePrice: 21 EUR
 inStock: true
 prodname: 'Nike Park VI Camiseta de Manga Corta para hombre  Negro  Black/White   2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AC6PB5U/?tag=tolees-21'
+descuento: '31.86'
+titulo: 'Nike Park VI Camiseta de Manga Corta par'
 ---
 
 Tienes [Nike Park VI Camiseta de Manga Corta para hombre  Negro  Black/White   2XL](https://www.amazon.es/dp/B01AC6PB5U/?tag=tolees-21) con un 31.86 % de descuento con precio de oferta de 14.31 EUR (original: 21 EUR) en el siguiente enlace!

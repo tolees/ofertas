@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Nike Revolution 4  EU   Zapatillas de Running para Hombre   Midnight Navy/White/Deep Royal Blue 414   42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CHDDMJ8/?tag=tolees-21'
+descuento: '30.10'
+titulo: 'Nike Revolution 4  EU   Zapatillas de Ru'
 ---
 
 Tienes [Nike Revolution 4  EU   Zapatillas de Running para Hombre   Midnight Navy/White/Deep Royal Blue 414   42](https://www.amazon.es/dp/B07CHDDMJ8/?tag=tolees-21) con un 30.10 % de descuento con precio de oferta de 34.95 EUR (original: 50 EUR) en el siguiente enlace!

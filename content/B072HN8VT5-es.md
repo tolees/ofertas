@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 41ab208-206430  Zapatillas Altas para Mujer  Gris  Taupe   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072HN8VT5/?tag=tolees-21'
+descuento: '68.46'
+titulo: 'Dockers by Gerli 41ab208-206430  Zapatil'
 ---
 
 Está [Dockers by Gerli 41ab208-206430  Zapatillas Altas para Mujer  Gris  Taupe   37 EU](https://www.amazon.es/dp/B072HN8VT5/?tag=tolees-21) con 68.46 de descuento por 18.91 EUR (original: 59.95 EUR) en el siguiente enlace!

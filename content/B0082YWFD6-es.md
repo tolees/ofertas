@@ -17,6 +17,9 @@ comparePrice: 41.14 EUR
 inStock: true
 prodname: 'HELIOCARE ORAL BRONZE 30 CAPSULAS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0082YWFD6/?tag=tolees-21'
+descuento: '48.74'
+titulo: 'HELIOCARE ORAL BRONZE 30 CAPSULAS'
 ---
 
 Está [HELIOCARE ORAL BRONZE 30 CAPSULAS](https://www.amazon.es/dp/B0082YWFD6/?tag=tolees-21) con 48.74 de descuento por 21.09 EUR (original: 41.14 EUR) en el siguiente enlace!

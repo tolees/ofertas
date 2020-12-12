@@ -17,6 +17,9 @@ comparePrice: 175 EUR
 inStock: true
 prodname: 'Reloj Scuderia Ferrari para Hombre 830486'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B3N2M9K/?tag=tolees-21'
+descuento: '48.61'
+titulo: 'Reloj Scuderia Ferrari para Hombre 83048'
 ---
 
 Tienes [Reloj Scuderia Ferrari para Hombre 830486](https://www.amazon.es/dp/B07B3N2M9K/?tag=tolees-21) con un 48.61 % de descuento con precio de oferta de 89.93 EUR (original: 175 EUR) en el siguiente enlace!

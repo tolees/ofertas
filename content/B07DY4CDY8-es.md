@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Armour Tech Ssv-Ticker - Camiseta de Manga Corta para Mujer  Mujer  1321258-414  Static/Halogen Blue/Metallic Silver  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DY4CDY8/?tag=tolees-21'
+descuento: '58.64'
+titulo: 'Under Armour Tech Ssv-Ticker - Camiseta '
 ---
 
 Está [Under Armour Tech Ssv-Ticker - Camiseta de Manga Corta para Mujer  Mujer  1321258-414  Static/Halogen Blue/Metallic Silver  Large](https://www.amazon.es/dp/B07DY4CDY8/?tag=tolees-21) con 58.64 de descuento por 11.58 EUR (original: 28 EUR) en el siguiente enlace!

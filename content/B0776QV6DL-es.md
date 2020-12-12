@@ -17,6 +17,9 @@ comparePrice: 34.26 EUR
 inStock: true
 prodname: 'PROSTEEL Collar Hombre Cuba Curb Chain'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0776QV6DL/?tag=tolees-21'
+descuento: '65.00'
+titulo: 'PROSTEEL Collar Hombre Cuba Curb Chain'
 ---
 
 Ahora mismo tienes [PROSTEEL Collar Hombre Cuba Curb Chain](https://www.amazon.es/dp/B0776QV6DL/?tag=tolees-21) a 11.99 EUR (original: 34.26 EUR) (65.00 %  de descuento) en el siguiente enlace!

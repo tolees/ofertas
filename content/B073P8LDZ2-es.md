@@ -17,6 +17,9 @@ comparePrice: 29.38 EUR
 inStock: true
 prodname: 'Sound Intone I8 Estereofonía Auriculares Bajos con micrófono ajustables en el oído para iPhone / iPad / iPod / Android Smartphones  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073P8LDZ2/?tag=tolees-21'
+descuento: '39.11'
+titulo: 'Sound Intone I8 Estereofonía Auriculares'
 ---
 
 Ahora mismo tienes [Sound Intone I8 Estereofonía Auriculares Bajos con micrófono ajustables en el oído para iPhone / iPad / iPod / Android Smartphones  Rojo ](https://www.amazon.es/dp/B073P8LDZ2/?tag=tolees-21) a 17.89 EUR (original: 29.38 EUR) (39.11 %  de descuento) en el siguiente enlace!

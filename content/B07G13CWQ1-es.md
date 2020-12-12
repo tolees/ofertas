@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Doble extractor de Leche Sacaleches Eléctrico Automático con Función de Masaje y Memoria - CookJoy niveles  Pantalla Táctil  Super Silencioso y Recargable via USB'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G13CWQ1/?tag=tolees-21'
+descuento: '54.01'
+titulo: 'Doble extractor de Leche Sacaleches Eléc'
 ---
 
 Tienes [Doble extractor de Leche Sacaleches Eléctrico Automático con Función de Masaje y Memoria - CookJoy niveles  Pantalla Táctil  Super Silencioso y Recargable via USB](https://www.amazon.es/dp/B07G13CWQ1/?tag=tolees-21) con un 54.01 % de descuento con precio de oferta de 45.99 EUR (original: 99.99 EUR) en el siguiente enlace!

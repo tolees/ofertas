@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Salomon Agile Chaleco  Hombre  Azul  Surf The Web   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0754QHJM4/?tag=tolees-21'
+descuento: '31.96'
+titulo: 'Salomon Agile Chaleco  Hombre  Azul  Sur'
 ---
 
 Ahora mismo tienes [Salomon Agile Chaleco  Hombre  Azul  Surf The Web   L](https://www.amazon.es/dp/B0754QHJM4/?tag=tolees-21) a 40.79 EUR (original: 59.95 EUR) (31.96 %  de descuento) en el siguiente enlace!

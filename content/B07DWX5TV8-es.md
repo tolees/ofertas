@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'LE COQ SPORTIF Alpha II  Zapatillas para Mujer  Rosa Pink Carnation/Optical White  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWX5TV8/?tag=tolees-21'
+descuento: '67.05'
+titulo: 'LE COQ SPORTIF Alpha II  Zapatillas para'
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Alpha II  Zapatillas para Mujer  Rosa Pink Carnation/Optical White  38 EU](https://www.amazon.es/dp/B07DWX5TV8/?tag=tolees-21) a 24.71 EUR (original: 75 EUR) (67.05 %  de descuento) en el siguiente enlace!

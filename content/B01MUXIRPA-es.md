@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Clarks - The Gray  Henkeltasche Unisex adulto  Grau  Grey Felt   14x35x45 cm  W x H D '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MUXIRPA/?tag=tolees-21'
+descuento: '65.48'
+titulo: 'Clarks - The Gray  Henkeltasche Unisex a'
 ---
 
 Está [Clarks - The Gray  Henkeltasche Unisex adulto  Grau  Grey Felt   14x35x45 cm  W x H D ](https://www.amazon.es/dp/B01MUXIRPA/?tag=tolees-21) con 65.48 de descuento por 41.42 EUR (original: 120 EUR) en el siguiente enlace!

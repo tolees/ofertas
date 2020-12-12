@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Hurley W Hanoi Surf Legging Pantalones  Mujer  Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KD34CM2/?tag=tolees-21'
+descuento: '56.84'
+titulo: 'Hurley W Hanoi Surf Legging Pantalones  '
 ---
 
 Está [Hurley W Hanoi Surf Legging Pantalones  Mujer  Black  M](https://www.amazon.es/dp/B07KD34CM2/?tag=tolees-21) con 56.84 de descuento por 30.21 EUR (original: 70 EUR) en el siguiente enlace!

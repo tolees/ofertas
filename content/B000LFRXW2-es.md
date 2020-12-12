@@ -17,6 +17,9 @@ comparePrice: 39.76 EUR
 inStock: true
 prodname: 'Silverline SW05 - Sierra de precisión para ingletes Sierra 550 mm 14 dpp'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000LFRXW2/?tag=tolees-21'
+descuento: '30.26'
+titulo: 'Silverline SW05 - Sierra de precisión pa'
 ---
 
 Ahora mismo tienes [Silverline SW05 - Sierra de precisión para ingletes Sierra 550 mm 14 dpp](https://www.amazon.es/dp/B000LFRXW2/?tag=tolees-21) a 27.73 EUR (original: 39.76 EUR) (30.26 %  de descuento) en el siguiente enlace!

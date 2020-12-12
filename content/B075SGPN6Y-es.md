@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Springfield 8232318  Chaqueta Deportiva para Mujer  Azul  Blue   40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SGPN6Y/?tag=tolees-21'
+descuento: '68.67'
+titulo: 'Springfield 8232318  Chaqueta Deportiva '
 ---
 
 Tienes [Springfield 8232318  Chaqueta Deportiva para Mujer  Azul  Blue   40](https://www.amazon.es/dp/B075SGPN6Y/?tag=tolees-21) con un 68.67 % de descuento con precio de oferta de 12.53 EUR (original: 39.99 EUR) en el siguiente enlace!

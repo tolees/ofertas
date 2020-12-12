@@ -17,6 +17,9 @@ comparePrice: 179.99 EUR
 inStock: true
 prodname: 'CIARRA Campana Extractora Decorativa 60cm 220 m³/h 100W Capacidad de extracción 3 velocidades Evacuación al Exterior y De recirculación Acero Inoxidable Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XPF4B8R/?tag=tolees-21'
+descuento: '66.11'
+titulo: 'CIARRA Campana Extractora Decorativa 60c'
 ---
 
 Tienes [CIARRA Campana Extractora Decorativa 60cm 220 m³/h 100W Capacidad de extracción 3 velocidades Evacuación al Exterior y De recirculación Acero Inoxidable Color Negro](https://www.amazon.es/dp/B06XPF4B8R/?tag=tolees-21) con un 66.11 % de descuento con precio de oferta de 60.99 EUR (original: 179.99 EUR) en el siguiente enlace!

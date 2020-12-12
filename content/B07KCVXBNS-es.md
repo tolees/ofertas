@@ -17,6 +17,9 @@ comparePrice: 169.95 EUR
 inStock: true
 prodname: 'Cybex Gold - Capazo Cot S  desde el nacimiento hasta los 6 meses  9 kg   colección denim  lavastone blacl'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCVXBNS/?tag=tolees-21'
+descuento: '31.92'
+titulo: 'Cybex Gold - Capazo Cot S  desde el naci'
 ---
 
 Está [Cybex Gold - Capazo Cot S  desde el nacimiento hasta los 6 meses  9 kg   colección denim  lavastone blacl](https://www.amazon.es/dp/B07KCVXBNS/?tag=tolees-21) con 31.92 de descuento por 115.7 EUR (original: 169.95 EUR) en el siguiente enlace!

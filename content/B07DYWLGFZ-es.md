@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Columbia Fast Trek II Full Zip Fleece Chaqueta Forro Polar  Hombre  Rojo  Red Element/Collegiate Navy   Talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYWLGFZ/?tag=tolees-21'
+descuento: '42.09'
+titulo: 'Columbia Fast Trek II Full Zip Fleece Ch'
 ---
 
 Está [Columbia Fast Trek II Full Zip Fleece Chaqueta Forro Polar  Hombre  Rojo  Red Element/Collegiate Navy   Talla M](https://www.amazon.es/dp/B07DYWLGFZ/?tag=tolees-21) con 42.09 de descuento por 28.95 EUR (original: 49.99 EUR) en el siguiente enlace!

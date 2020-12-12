@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Columbia Classic Outdoor 20L Mochila  Unisex Adulto  Black  Maple  O/S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTVPJD5/?tag=tolees-21'
+descuento: '36.81'
+titulo: 'Columbia Classic Outdoor 20L Mochila  Un'
 ---
 
 Tienes [Columbia Classic Outdoor 20L Mochila  Unisex Adulto  Black  Maple  O/S](https://www.amazon.es/dp/B07KTVPJD5/?tag=tolees-21) con un 36.81 % de descuento con precio de oferta de 18.95 EUR (original: 29.99 EUR) en el siguiente enlace!

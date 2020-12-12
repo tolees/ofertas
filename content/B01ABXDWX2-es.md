@@ -17,6 +17,9 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'Maybelline New York Brow Drama Máscara De Cejas  Dark Blonde 001-1 Máscara De Cejas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ABXDWX2/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'Maybelline New York Brow Drama Máscara D'
 ---
 
 Tienes [Maybelline New York Brow Drama Máscara De Cejas  Dark Blonde 001-1 Máscara De Cejas](https://www.amazon.es/dp/B01ABXDWX2/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 5.99 EUR (original: 7.99 EUR) en el siguiente enlace!

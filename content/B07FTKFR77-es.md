@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Lee Button Down Camisa  Marfil  Blueprint Lh   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTKFR77/?tag=tolees-21'
+descuento: '79.65'
+titulo: 'Lee Button Down Camisa  Marfil  Blueprin'
 ---
 
 Tienes [Lee Button Down Camisa  Marfil  Blueprint Lh   Small para Hombre](https://www.amazon.es/dp/B07FTKFR77/?tag=tolees-21) con un 79.65 % de descuento con precio de oferta de 12.2 EUR (original: 59.95 EUR) en el siguiente enlace!

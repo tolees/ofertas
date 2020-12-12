@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Camel Active T-shirt 1/2  Camiseta Hombre  Marfil  Offwhite Den Key 02   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GT3MY6L/?tag=tolees-21'
+descuento: '75.43'
+titulo: 'Camel Active T-shirt 1/2  Camiseta Hombr'
 ---
 
 Está [Camel Active T-shirt 1/2  Camiseta Hombre  Marfil  Offwhite Den Key 02   S](https://www.amazon.es/dp/B07GT3MY6L/?tag=tolees-21) con 75.43 de descuento por 7.36 EUR (original: 29.95 EUR) en el siguiente enlace!

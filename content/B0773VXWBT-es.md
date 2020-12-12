@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  Negro  Black/Ivory/Metallic Faded Gold   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0773VXWBT/?tag=tolees-21'
+descuento: '64.26'
+titulo: 'Under Armour UA W Micro G Pursuit  Zapat'
 ---
 
 Ahora mismo tienes [Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  Negro  Black/Ivory/Metallic Faded Gold   42 EU](https://www.amazon.es/dp/B0773VXWBT/?tag=tolees-21) a 25.02 EUR (original: 70 EUR) (64.26 %  de descuento) en el siguiente enlace!

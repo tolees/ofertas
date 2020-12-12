@@ -17,6 +17,9 @@ comparePrice: 70.8 EUR
 inStock: true
 prodname: 'Fellowes P-28S - Destructora trituradora de papel  corte en tiras  8 hojas  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Y2HI1OO/?tag=tolees-21'
+descuento: '30.10'
+titulo: 'Fellowes P-28S - Destructora trituradora'
 ---
 
 Tienes [Fellowes P-28S - Destructora trituradora de papel  corte en tiras  8 hojas  negro](https://www.amazon.es/dp/B00Y2HI1OO/?tag=tolees-21) con un 30.10 % de descuento con precio de oferta de 49.49 EUR (original: 70.8 EUR) en el siguiente enlace!

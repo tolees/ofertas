@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'HUGO Gennar_sz35  Cinturón para Hombre  Marrón  Dark Brown 202   130 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y88FCL/?tag=tolees-21'
+descuento: '67.41'
+titulo: 'HUGO Gennar_sz35  Cinturón para Hombre  '
 ---
 
 Tienes [HUGO Gennar_sz35  Cinturón para Hombre  Marrón  Dark Brown 202   130 cm](https://www.amazon.es/dp/B077Y88FCL/?tag=tolees-21) con un 67.41 % de descuento con precio de oferta de 22.81 EUR (original: 70 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'hummel HMLMATEO Pants  Hombre  Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSBLTB3/?tag=tolees-21'
+descuento: '61.50'
+titulo: 'hummel HMLMATEO Pants  Hombre  Negro  L'
 ---
 
 Está [hummel HMLMATEO Pants  Hombre  Negro  L](https://www.amazon.es/dp/B07KSBLTB3/?tag=tolees-21) con 61.50 de descuento por 15.38 EUR (original: 39.95 EUR) en el siguiente enlace!

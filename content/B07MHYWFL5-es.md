@@ -17,6 +17,9 @@ comparePrice: 31.29 EUR
 inStock: true
 prodname: 'Eono Essentials - Chaqueta de senderismo de entretiempo para hombre  M  gris oscuro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MHYWFL5/?tag=tolees-21'
+descuento: '53.88'
+titulo: 'Eono Essentials - Chaqueta de senderismo'
 ---
 
 Tienes [Eono Essentials - Chaqueta de senderismo de entretiempo para hombre  M  gris oscuro ](https://www.amazon.es/dp/B07MHYWFL5/?tag=tolees-21) con un 53.88 % de descuento con precio de oferta de 14.43 EUR (original: 31.29 EUR) en el siguiente enlace!

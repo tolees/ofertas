@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'adidas Vs Switch 2 K  Zapatillas Unisex Niños  Blau  Collegiate Royal/Active Red/Light Granite 0   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FZFFLFN/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Vs Switch 2 K  Zapatillas Unisex '
 ---
 
 Está [adidas Vs Switch 2 K  Zapatillas Unisex Niños  Blau  Collegiate Royal/Active Red/Light Granite 0   36 EU](https://www.amazon.es/dp/B07FZFFLFN/?tag=tolees-21) con 49.99 de descuento por 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

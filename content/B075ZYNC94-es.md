@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike Downshifter 8  Zapatillas de Entrenamiento para Hombre  Gris  Wolf Grey/Metallic Dark Grey-Cool Grey-Black 004   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075ZYNC94/?tag=tolees-21'
+descuento: '33.52'
+titulo: 'Nike Downshifter 8  Zapatillas de Entren'
 ---
 
 Está [Nike Downshifter 8  Zapatillas de Entrenamiento para Hombre  Gris  Wolf Grey/Metallic Dark Grey-Cool Grey-Black 004   41 EU](https://www.amazon.es/dp/B075ZYNC94/?tag=tolees-21) con 33.52 de descuento por 39.89 EUR (original: 60 EUR) en el siguiente enlace!

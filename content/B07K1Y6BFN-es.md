@@ -17,6 +17,9 @@ comparePrice: 26.96 EUR
 inStock: true
 prodname: 'adidas Tastigo19 SHO Sport Shorts  Hombre  Black/White  FR : L  Talla del Fabricante : L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K1Y6BFN/?tag=tolees-21'
+descuento: '37.13'
+titulo: 'adidas Tastigo19 SHO Sport Shorts  Hombr'
 ---
 
 Ahora mismo tienes [adidas Tastigo19 SHO Sport Shorts  Hombre  Black/White  FR : L  Talla del Fabricante : L ](https://www.amazon.es/dp/B07K1Y6BFN/?tag=tolees-21) a 16.95 EUR (original: 26.96 EUR) (37.13 %  de descuento) en el siguiente enlace!

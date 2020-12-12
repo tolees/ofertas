@@ -17,6 +17,9 @@ comparePrice: 28.33 EUR
 inStock: true
 prodname: 'New Look D-ring6034183  Mono para Mujer  Negro  Black 1   34  Talla del Fabricante: 6 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L72PRFP/?tag=tolees-21'
+descuento: '61.17'
+titulo: 'New Look D-ring6034183  Mono para Mujer '
 ---
 
 Está [New Look D-ring6034183  Mono para Mujer  Negro  Black 1   34  Talla del Fabricante: 6 ](https://www.amazon.es/dp/B07L72PRFP/?tag=tolees-21) con 61.17 de descuento por 11 EUR (original: 28.33 EUR) en el siguiente enlace!

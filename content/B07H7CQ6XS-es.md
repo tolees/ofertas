@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Trswyop Luces Solares Exterior con 3 Modos Para Pared  Sensor Movimiento 1800mAh Wireless  40 LED  4 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H7CQ6XS/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Trswyop Luces Solares Exterior con 3 Mod'
 ---
 
 Ahora mismo tienes [Trswyop Luces Solares Exterior con 3 Modos Para Pared  Sensor Movimiento 1800mAh Wireless  40 LED  4 Unidades](https://www.amazon.es/dp/B07H7CQ6XS/?tag=tolees-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

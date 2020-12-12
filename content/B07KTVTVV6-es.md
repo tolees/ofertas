@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'adidas SPT Full Zip Sudadera  Hombre  Maruni/Blanco  3XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTVTVV6/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'adidas SPT Full Zip Sudadera  Hombre  Ma'
 ---
 
 Está [adidas SPT Full Zip Sudadera  Hombre  Maruni/Blanco  3XL](https://www.amazon.es/dp/B07KTVTVV6/?tag=tolees-21) con 30.01 de descuento por 41.96 EUR (original: 59.95 EUR) en el siguiente enlace!

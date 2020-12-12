@@ -17,6 +17,9 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'Columbia Youth Peakfreak XCRSN Mid WP  Botas de Senderismo Unisex Niños  Gris  City Grey  Bright Red   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SZ2WBZ/?tag=tolees-21'
+descuento: '40.06'
+titulo: 'Columbia Youth Peakfreak XCRSN Mid WP  B'
 ---
 
 Ahora mismo tienes [Columbia Youth Peakfreak XCRSN Mid WP  Botas de Senderismo Unisex Niños  Gris  City Grey  Bright Red   35 EU](https://www.amazon.es/dp/B078SZ2WBZ/?tag=tolees-21) a 44.95 EUR (original: 74.99 EUR) (40.06 %  de descuento) en el siguiente enlace!

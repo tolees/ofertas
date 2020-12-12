@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Xaed - Calcetines de running para mujer  negro/fucsia  38/40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HMDWCWG/?tag=tolees-21'
+descuento: '50.73'
+titulo: 'Xaed - Calcetines de running para mujer '
 ---
 
 Está [Xaed - Calcetines de running para mujer  negro/fucsia  38/40 ](https://www.amazon.es/dp/B07HMDWCWG/?tag=tolees-21) con 50.73 de descuento por 6.4 EUR (original: 12.99 EUR) en el siguiente enlace!

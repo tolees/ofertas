@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Trucco - Vestido casual para mujer  color verde oscuro  talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075TDWL1G/?tag=tolees-21'
+descuento: '84.62'
+titulo: 'Trucco - Vestido casual para mujer  colo'
 ---
 
 Está [Trucco - Vestido casual para mujer  color verde oscuro  talla M](https://www.amazon.es/dp/B075TDWL1G/?tag=tolees-21) con 84.62 de descuento por 7.68 EUR (original: 49.95 EUR) en el siguiente enlace!

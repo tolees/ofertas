@@ -17,6 +17,9 @@ comparePrice: 51.9 EUR
 inStock: true
 prodname: 'Scitec Nutrition Whey Protein Professional Proteína con Sabor de Chocolate Coco - 2350 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004EPYIY6/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'Scitec Nutrition Whey Protein Profession'
 ---
 
 Está [Scitec Nutrition Whey Protein Professional Proteína con Sabor de Chocolate Coco - 2350 g](https://www.amazon.es/dp/B004EPYIY6/?tag=tolees-21) con 25.03 de descuento por 38.91 EUR (original: 51.9 EUR) en el siguiente enlace!

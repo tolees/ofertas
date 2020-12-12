@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'VEYETTE Accesorios iRobot Aspiradoras Roomba Reemplazo del Kit Repuestos Cepillos Rodillo del Filtro Serie 800 900'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HW4GKY/?tag=tolees-21'
+descuento: '25.94'
+titulo: 'VEYETTE Accesorios iRobot Aspiradoras Ro'
 ---
 
 Está [VEYETTE Accesorios iRobot Aspiradoras Roomba Reemplazo del Kit Repuestos Cepillos Rodillo del Filtro Serie 800 900](https://www.amazon.es/dp/B078HW4GKY/?tag=tolees-21) con 25.94 de descuento por 19.99 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 155 EUR
 inStock: true
 prodname: 'lodi Elena-Gosr  Zapatos con Tacon y Correa de Tobillo para Mujer   Boca Rubor-Greenery Cielo   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TGDNK3/?tag=tolees-21'
+descuento: '40.57'
+titulo: 'lodi Elena-Gosr  Zapatos con Tacon y Cor'
 ---
 
 Ahora mismo tienes [lodi Elena-Gosr  Zapatos con Tacon y Correa de Tobillo para Mujer   Boca Rubor-Greenery Cielo   37 EU](https://www.amazon.es/dp/B077TGDNK3/?tag=tolees-21) a 92.12 EUR (original: 155 EUR) (40.57 %  de descuento) en el siguiente enlace!

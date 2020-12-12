@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'ESPRIT Sidney Lu  Zapatillas para Mujer  Azul  Navy 400   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BFKRDD6/?tag=tolees-21'
+descuento: '66.55'
+titulo: 'ESPRIT Sidney Lu  Zapatillas para Mujer '
 ---
 
 Está [ESPRIT Sidney Lu  Zapatillas para Mujer  Azul  Navy 400   38 EU](https://www.amazon.es/dp/B07BFKRDD6/?tag=tolees-21) con 66.55 de descuento por 23.41 EUR (original: 69.99 EUR) en el siguiente enlace!

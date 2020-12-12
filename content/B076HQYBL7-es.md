@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'adidas Core18 TR Sudadera  Hombre  Rojo/Blanco  Power   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076HQYBL7/?tag=tolees-21'
+descuento: '57.29'
+titulo: 'adidas Core18 TR Sudadera  Hombre  Rojo/'
 ---
 
 Ahora mismo tienes [adidas Core18 TR Sudadera  Hombre  Rojo/Blanco  Power   M](https://www.amazon.es/dp/B076HQYBL7/?tag=tolees-21) a 14.95 EUR (original: 35 EUR) (57.29 %  de descuento) en el siguiente enlace!

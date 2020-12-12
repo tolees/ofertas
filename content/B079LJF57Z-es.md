@@ -17,6 +17,9 @@ comparePrice: 359.95 EUR
 inStock: true
 prodname: 'Cbx Leotie Pure - Cochecito con asiento reversible y capazo para recién nacidos  incluye cubierta para lluvia  desde el nacimiento hasta los 15 kg  Crunchy Red'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079LJF57Z/?tag=tolees-21'
+descuento: '47.17'
+titulo: 'Cbx Leotie Pure - Cochecito con asiento '
 ---
 
 Está [Cbx Leotie Pure - Cochecito con asiento reversible y capazo para recién nacidos  incluye cubierta para lluvia  desde el nacimiento hasta los 15 kg  Crunchy Red](https://www.amazon.es/dp/B079LJF57Z/?tag=tolees-21) con 47.17 de descuento por 190.17 EUR (original: 359.95 EUR) en el siguiente enlace!

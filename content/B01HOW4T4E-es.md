@@ -17,6 +17,9 @@ comparePrice: 202.79 EUR
 inStock: true
 prodname: 'BRAUN 159704 BRAUN ORAL-B GENIUS 8000S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HOW4T4E/?tag=tolees-21'
+descuento: '39.51'
+titulo: 'BRAUN 159704 BRAUN ORAL-B GENIUS 8000S'
 ---
 
 Tienes [BRAUN 159704 BRAUN ORAL-B GENIUS 8000S](https://www.amazon.es/dp/B01HOW4T4E/?tag=tolees-21) con un 39.51 % de descuento con precio de oferta de 122.67 EUR (original: 202.79 EUR) en el siguiente enlace!

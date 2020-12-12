@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Double Agent Camiseta Manga Larga LAGRIMA  Blusa para Mujer  415 Teja  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M13Y3FE/?tag=tolees-21'
+descuento: '77.38'
+titulo: 'Double Agent Camiseta Manga Larga LAGRIM'
 ---
 
 Ahora mismo tienes [Double Agent Camiseta Manga Larga LAGRIMA  Blusa para Mujer  415 Teja  S](https://www.amazon.es/dp/B01M13Y3FE/?tag=tolees-21) a 6.56 EUR (original: 29 EUR) (77.38 %  de descuento) en el siguiente enlace!

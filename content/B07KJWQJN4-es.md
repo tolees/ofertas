@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Quiksilver Word Block Shorts  Hombre  Medieval Blue  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJWQJN4/?tag=tolees-21'
+descuento: '44.19'
+titulo: 'Quiksilver Word Block Shorts  Hombre  Me'
 ---
 
 Ahora mismo tienes [Quiksilver Word Block Shorts  Hombre  Medieval Blue  L](https://www.amazon.es/dp/B07KJWQJN4/?tag=tolees-21) a 27.9 EUR (original: 49.99 EUR) (44.19 %  de descuento) en el siguiente enlace!

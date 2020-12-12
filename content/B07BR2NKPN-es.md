@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike Ebernon Low  Zapatos de Baloncesto para Hombre  Blanco White 100  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BR2NKPN/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Nike Ebernon Low  Zapatos de Baloncesto '
 ---
 
 Tienes [Nike Ebernon Low  Zapatos de Baloncesto para Hombre  Blanco White 100  44 EU](https://www.amazon.es/dp/B07BR2NKPN/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 42 EUR (original: 60 EUR) en el siguiente enlace!

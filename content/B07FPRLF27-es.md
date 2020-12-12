@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Clarks - The Malton  Bolsos mochila Mujer  Azul  Navy Canvas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPRLF27/?tag=tolees-21'
+descuento: '54.94'
+titulo: 'Clarks - The Malton  Bolsos mochila Muje'
 ---
 
 Está [Clarks - The Malton  Bolsos mochila Mujer  Azul  Navy Canvas ](https://www.amazon.es/dp/B07FPRLF27/?tag=tolees-21) con 54.94 de descuento por 31.52 EUR (original: 69.95 EUR) en el siguiente enlace!

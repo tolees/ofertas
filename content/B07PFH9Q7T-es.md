@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'JOINFREE Chicos para Hombre Chanclas Verano casa Zapatillas Playa Zapatos Piscina Zapatos  Negro  46 EU '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PFH9Q7T/?tag=tolees-21'
+descuento: '37.05'
+titulo: 'JOINFREE Chicos para Hombre Chanclas Ver'
 ---
 
 Ahora mismo tienes [JOINFREE Chicos para Hombre Chanclas Verano casa Zapatillas Playa Zapatos Piscina Zapatos  Negro  46 EU ](https://www.amazon.es/dp/B07PFH9Q7T/?tag=tolees-21) a 16.99 EUR (original: 26.99 EUR) (37.05 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45.9 EUR
 inStock: true
 prodname: 'Kelme Precision Kids V  Zapatillas de fútbol Sala para Niños  Amarillo  Lima Y Azul 670   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C58KB2V/?tag=tolees-21'
+descuento: '42.51'
+titulo: 'Kelme Precision Kids V  Zapatillas de fú'
 ---
 
 Está [Kelme Precision Kids V  Zapatillas de fútbol Sala para Niños  Amarillo  Lima Y Azul 670   28 EU](https://www.amazon.es/dp/B07C58KB2V/?tag=tolees-21) con 42.51 de descuento por 26.39 EUR (original: 45.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'TP-LINK Archer C50 - Router AC1200 Mbps Banda Dual WiFi  WPS  Puerto USB para compartir archivos  medios e impresoras  TP-LINK APP Tether  4 Puertos LAN 10/100Mbps  1 Puerto 10/100Mbps  Puerto USB 2.0  Soporta IPv6  '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011NLWSQS/?tag=tolees-21'
+descuento: '39.13'
+titulo: 'TP-LINK Archer C50 - Router AC1200 Mbps '
 ---
 
 Ahora mismo tienes [TP-LINK Archer C50 - Router AC1200 Mbps Banda Dual WiFi  WPS  Puerto USB para compartir archivos  medios e impresoras  TP-LINK APP Tether  4 Puertos LAN 10/100Mbps  1 Puerto 10/100Mbps  Puerto USB 2.0  Soporta IPv6  ](https://www.amazon.es/dp/B011NLWSQS/?tag=tolees-21) a 33.45 EUR (original: 54.95 EUR) (39.13 %  de descuento) en el siguiente enlace!

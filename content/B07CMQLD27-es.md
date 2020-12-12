@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Android TV Box-T10 Max Android box Amlogic S905 Quad Core cortex-A53  [2 GB / 32GB ] Smart box  la antena exterior material  con Frente LED Monitor 2.4G +5G wifi+Bluetooth 4.1 smart tv box'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CMQLD27/?tag=tolees-21'
+descuento: '66.68'
+titulo: 'Android TV Box-T10 Max Android box Amlog'
 ---
 
 Está [Android TV Box-T10 Max Android box Amlogic S905 Quad Core cortex-A53  [2 GB / 32GB ] Smart box  la antena exterior material  con Frente LED Monitor 2.4G +5G wifi+Bluetooth 4.1 smart tv box](https://www.amazon.es/dp/B07CMQLD27/?tag=tolees-21) con 66.68 de descuento por 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45.24 EUR
 inStock: true
 prodname: 'Set de aceites esenciales florales  aceites aromáticos con aromaterapia Top 6 aceites esenciales de grado superior terapéuticos 100% puros - Set de regalo 6 / 10ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJP55P9/?tag=tolees-21'
+descuento: '62.44'
+titulo: 'Set de aceites esenciales florales  acei'
 ---
 
 Ahora mismo tienes [Set de aceites esenciales florales  aceites aromáticos con aromaterapia Top 6 aceites esenciales de grado superior terapéuticos 100% puros - Set de regalo 6 / 10ml](https://www.amazon.es/dp/B07FJP55P9/?tag=tolees-21) a 16.99 EUR (original: 45.24 EUR) (62.44 %  de descuento) en el siguiente enlace!

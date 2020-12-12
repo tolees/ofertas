@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Hackett London Hackett  Polo para Hombre   Blue/Multi 5AL  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BZ1BJ37/?tag=tolees-21'
+descuento: '45.88'
+titulo: 'Hackett London Hackett  Polo para Hombre'
 ---
 
 Tienes [Hackett London Hackett  Polo para Hombre   Blue/Multi 5AL  L](https://www.amazon.es/dp/B07BZ1BJ37/?tag=tolees-21) con un 45.88 % de descuento con precio de oferta de 64.95 EUR (original: 120 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Nrgy Dynamo  Zapatillas de Cross para Hombre  Azul  Turkish Sea-Peacoat White   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MG6LM8/?tag=tolees-21'
+descuento: '58.23'
+titulo: 'Puma Nrgy Dynamo  Zapatillas de Cross pa'
 ---
 
 Está [Puma Nrgy Dynamo  Zapatillas de Cross para Hombre  Azul  Turkish Sea-Peacoat White   46 EU](https://www.amazon.es/dp/B077MG6LM8/?tag=tolees-21) con 58.23 de descuento por 25.04 EUR (original: 59.95 EUR) en el siguiente enlace!

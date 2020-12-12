@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 997H Core  Zapatillas para Hombre  Verde  Dark Covert Green/Silver   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ21MPL/?tag=tolees-21'
+descuento: '26.31'
+titulo: 'New Balance 997H Core  Zapatillas para H'
 ---
 
 Está [New Balance 997H Core  Zapatillas para Hombre  Verde  Dark Covert Green/Silver   43 EU](https://www.amazon.es/dp/B07DJ21MPL/?tag=tolees-21) con 26.31 de descuento por 66.32 EUR (original: 90 EUR) en el siguiente enlace!

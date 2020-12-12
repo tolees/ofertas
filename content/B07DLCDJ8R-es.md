@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Springfield 5Wo-Harrington Moda  Chaqueta para Hombre  Dorado  Gama Tostados 53  Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLCDJ8R/?tag=tolees-21'
+descuento: '67.81'
+titulo: 'Springfield 5Wo-Harrington Moda  Chaquet'
 ---
 
 Tienes [Springfield 5Wo-Harrington Moda  Chaqueta para Hombre  Dorado  Gama Tostados 53  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLCDJ8R/?tag=tolees-21) con un 67.81 % de descuento con precio de oferta de 16.09 EUR (original: 49.99 EUR) en el siguiente enlace!

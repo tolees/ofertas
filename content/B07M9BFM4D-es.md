@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'MTNG Attitude 84214  Zapatillas para Hombre  Azul  Brisbane Isabela Mesh Marino/Tano Blanco C45106   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9BFM4D/?tag=tolees-21'
+descuento: '53.45'
+titulo: 'MTNG Attitude 84214  Zapatillas para Hom'
 ---
 
 Ahora mismo tienes [MTNG Attitude 84214  Zapatillas para Hombre  Azul  Brisbane Isabela Mesh Marino/Tano Blanco C45106   45 EU](https://www.amazon.es/dp/B07M9BFM4D/?tag=tolees-21) a 23.27 EUR (original: 49.99 EUR) (53.45 %  de descuento) en el siguiente enlace!

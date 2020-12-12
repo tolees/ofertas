@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'G-STAR RAW Base R T S/s 2-Pack Camiseta  Gris  Grey Htr 906   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BH37PS/?tag=tolees-21'
+descuento: '45.86'
+titulo: 'G-STAR RAW Base R T S/s 2-Pack Camiseta '
 ---
 
 Está [G-STAR RAW Base R T S/s 2-Pack Camiseta  Gris  Grey Htr 906   X-Large para Hombre](https://www.amazon.es/dp/B072BH37PS/?tag=tolees-21) con 45.86 de descuento por 18.95 EUR (original: 35 EUR) en el siguiente enlace!

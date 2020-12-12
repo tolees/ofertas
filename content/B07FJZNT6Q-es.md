@@ -17,6 +17,9 @@ comparePrice: 11.18 EUR
 inStock: true
 prodname: 'Eono Essentials - Bañador para niña de una pieza  azul  7 años '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJZNT6Q/?tag=tolees-21'
+descuento: '49.55'
+titulo: 'Eono Essentials - Bañador para niña de u'
 ---
 
 Está [Eono Essentials - Bañador para niña de una pieza  azul  7 años ](https://www.amazon.es/dp/B07FJZNT6Q/?tag=tolees-21) con 49.55 de descuento por 5.64 EUR (original: 11.18 EUR) en el siguiente enlace!

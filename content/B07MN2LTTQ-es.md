@@ -17,6 +17,9 @@ comparePrice: 195 EUR
 inStock: true
 prodname: 'BOSS Titanium_Runn_kn  Zapatillas para Hombre  Negro  Black 001   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MN2LTTQ/?tag=tolees-21'
+descuento: '34.47'
+titulo: 'BOSS Titanium_Runn_kn  Zapatillas para H'
 ---
 
 Tienes [BOSS Titanium_Runn_kn  Zapatillas para Hombre  Negro  Black 001   39 EU](https://www.amazon.es/dp/B07MN2LTTQ/?tag=tolees-21) con un 34.47 % de descuento con precio de oferta de 127.78 EUR (original: 195 EUR) en el siguiente enlace!

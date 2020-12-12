@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Under Armour Rapid  Zapatillas de Running para Hombre  Negro  Black White 001   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0LSDIL/?tag=tolees-21'
+descuento: '35.55'
+titulo: 'Under Armour Rapid  Zapatillas de Runnin'
 ---
 
 Está [Under Armour Rapid  Zapatillas de Running para Hombre  Negro  Black White 001   40.5 EU](https://www.amazon.es/dp/B01N0LSDIL/?tag=tolees-21) con 35.55 de descuento por 35.45 EUR (original: 55 EUR) en el siguiente enlace!

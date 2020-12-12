@@ -17,6 +17,9 @@ comparePrice: 649 EUR
 inStock: true
 prodname: 'Garmin Fēnix 3 Zafiro - Reloj multideporte con GPS  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SFXHFYI/?tag=tolees-21'
+descuento: '39.91'
+titulo: 'Garmin Fēnix 3 Zafiro - Reloj multidepor'
 ---
 
 Tienes [Garmin Fēnix 3 Zafiro - Reloj multideporte con GPS  color negro](https://www.amazon.es/dp/B00SFXHFYI/?tag=tolees-21) con un 39.91 % de descuento con precio de oferta de 389.99 EUR (original: 649 EUR) en el siguiente enlace!

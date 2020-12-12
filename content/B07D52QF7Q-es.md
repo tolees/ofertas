@@ -17,6 +17,9 @@ comparePrice: 61.72 EUR
 inStock: true
 prodname: 'Hoomtaook cajita de repisas para ducha  organizador ducha  sin clavos. Autoadhesivo  aluminio espacio  para baños de cocina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D52QF7Q/?tag=tolees-21'
+descuento: '67.61'
+titulo: 'Hoomtaook cajita de repisas para ducha  '
 ---
 
 Tienes [Hoomtaook cajita de repisas para ducha  organizador ducha  sin clavos. Autoadhesivo  aluminio espacio  para baños de cocina](https://www.amazon.es/dp/B07D52QF7Q/?tag=tolees-21) con un 67.61 % de descuento con precio de oferta de 19.99 EUR (original: 61.72 EUR) en el siguiente enlace!

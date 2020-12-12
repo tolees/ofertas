@@ -17,6 +17,9 @@ comparePrice: 4.95 EUR
 inStock: true
 prodname: 'Gardena M291265 - Conector rapido para manguera 13-15 mm - 18215-20'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PNUC9K6/?tag=tolees-21'
+descuento: '44.04'
+titulo: 'Gardena M291265 - Conector rapido para m'
 ---
 
 Tienes [Gardena M291265 - Conector rapido para manguera 13-15 mm - 18215-20](https://www.amazon.es/dp/B00PNUC9K6/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 2.77 EUR (original: 4.95 EUR) en el siguiente enlace!

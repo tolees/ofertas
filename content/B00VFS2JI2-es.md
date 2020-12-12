@@ -17,6 +17,9 @@ comparePrice: 26.88 EUR
 inStock: true
 prodname: 'Kempa - Emotion Shirt  Color Azul  Talla UK-18'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VFS2JI2/?tag=tolees-21'
+descuento: '51.82'
+titulo: 'Kempa - Emotion Shirt  Color Azul  Talla'
 ---
 
 Está [Kempa - Emotion Shirt  Color Azul  Talla UK-18](https://www.amazon.es/dp/B00VFS2JI2/?tag=tolees-21) con 51.82 de descuento por 12.95 EUR (original: 26.88 EUR) en el siguiente enlace!

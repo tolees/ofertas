@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Burton Gore Underglove Guantes de Snowboard  Hombre  Negro  True   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KAW8LG8/?tag=tolees-21'
+descuento: '63.00'
+titulo: 'Burton Gore Underglove Guantes de Snowbo'
 ---
 
 Está [Burton Gore Underglove Guantes de Snowboard  Hombre  Negro  True   XS](https://www.amazon.es/dp/B00KAW8LG8/?tag=tolees-21) con 63.00 de descuento por 31.45 EUR (original: 85 EUR) en el siguiente enlace!

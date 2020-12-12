@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Munich Mini Sapporo  Zapatillas Unisex Niños  Multicolor  Pink/White 015   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WXN3G8/?tag=tolees-21'
+descuento: '56.11'
+titulo: 'Munich Mini Sapporo  Zapatillas Unisex N'
 ---
 
 Ahora mismo tienes [Munich Mini Sapporo  Zapatillas Unisex Niños  Multicolor  Pink/White 015   28 EU](https://www.amazon.es/dp/B078WXN3G8/?tag=tolees-21) a 30.72 EUR (original: 70 EUR) (56.11 %  de descuento) en el siguiente enlace!

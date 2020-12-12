@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'LEGO Saxton 652  Camiseta de Pijama para Niños  Rojo  Red   Tamaño del Fabricante:140'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XQGCBD5/?tag=tolees-21'
+descuento: '63.72'
+titulo: 'LEGO Saxton 652  Camiseta de Pijama para'
 ---
 
 Ahora mismo tienes [LEGO Saxton 652  Camiseta de Pijama para Niños  Rojo  Red   Tamaño del Fabricante:140](https://www.amazon.es/dp/B06XQGCBD5/?tag=tolees-21) a 18.12 EUR (original: 49.95 EUR) (63.72 %  de descuento) en el siguiente enlace!

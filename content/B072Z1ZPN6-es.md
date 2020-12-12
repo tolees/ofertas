@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Funko- btvs Figura Rock Candy Buffy  20919 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072Z1ZPN6/?tag=tolees-21'
+descuento: '57.09'
+titulo: 'Funko- btvs Figura Rock Candy Buffy  209'
 ---
 
 Está [Funko- btvs Figura Rock Candy Buffy  20919 ](https://www.amazon.es/dp/B072Z1ZPN6/?tag=tolees-21) con 57.09 de descuento por 12.87 EUR (original: 29.99 EUR) en el siguiente enlace!

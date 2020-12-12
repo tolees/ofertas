@@ -17,6 +17,9 @@ comparePrice: 4099.99 EUR
 inStock: true
 prodname: 'MSI GT75 Titan 8SG-017ES - Ordenador portátil Gaming 17.3" FullHD 144Hz Intel Core i9-8950H  32GB RAM  1TB HDD + 512GB SSD  Nvidia RTX 2080 8GB  Windows 10  Teclado QWERTY Español'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MBZ96BM/?tag=tolees-21'
+descuento: '26.94'
+titulo: 'MSI GT75 Titan 8SG-017ES - Ordenador por'
 ---
 
 Está [MSI GT75 Titan 8SG-017ES - Ordenador portátil Gaming 17.3" FullHD 144Hz Intel Core i9-8950H  32GB RAM  1TB HDD + 512GB SSD  Nvidia RTX 2080 8GB  Windows 10  Teclado QWERTY Español](https://www.amazon.es/dp/B07MBZ96BM/?tag=tolees-21) con 26.94 de descuento por 2995.55 EUR (original: 4099.99 EUR) en el siguiente enlace!

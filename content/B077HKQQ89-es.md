@@ -17,6 +17,9 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'PUMA Active Big Logo tee T-Shirt  Hombre  Negro Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HKQQ89/?tag=tolees-21'
+descuento: '50.72'
+titulo: 'PUMA Active Big Logo tee T-Shirt  Hombre'
 ---
 
 Está [PUMA Active Big Logo tee T-Shirt  Hombre  Negro Black  M](https://www.amazon.es/dp/B077HKQQ89/?tag=tolees-21) con 50.72 de descuento por 11.31 EUR (original: 22.95 EUR) en el siguiente enlace!

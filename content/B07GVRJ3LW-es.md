@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jortom Jacket Org  Chaqueta para Hombre   Deep Teal   Talla del Fabricante: Large Herstellergr L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GVRJ3LW/?tag=tolees-21'
+descuento: '80.30'
+titulo: 'JACK & JONES Jortom Jacket Org  Chaqueta'
 ---
 
 Está [JACK & JONES Jortom Jacket Org  Chaqueta para Hombre   Deep Teal   Talla del Fabricante: Large Herstellergr L](https://www.amazon.es/dp/B07GVRJ3LW/?tag=tolees-21) con 80.30 de descuento por 13.79 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Cuero FTW1147'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0748M2PDR/?tag=tolees-21'
+descuento: '55.25'
+titulo: 'Fossil Reloj Analogico para Hombre de Cu'
 ---
 
 Tienes [Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Cuero FTW1147](https://www.amazon.es/dp/B0748M2PDR/?tag=tolees-21) con un 55.25 % de descuento con precio de oferta de 80.1 EUR (original: 179 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 85.7 EUR
 inStock: true
 prodname: 'Icicles Dildo de Cristal - 1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008PD9XZW/?tag=tolees-21'
+descuento: '57.62'
+titulo: 'Icicles Dildo de Cristal - 1 unidad'
 ---
 
 Ahora mismo tienes [Icicles Dildo de Cristal - 1 unidad](https://www.amazon.es/dp/B008PD9XZW/?tag=tolees-21) a 36.32 EUR (original: 85.7 EUR) (57.62 %  de descuento) en el siguiente enlace!

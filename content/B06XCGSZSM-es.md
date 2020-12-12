@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Midge Saddle Mid Waist Straight Jeans Rectos  Azul  dk Aged 8971-89   30W / 28L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCGSZSM/?tag=tolees-21'
+descuento: '54.51'
+titulo: 'G-STAR RAW Midge Saddle Mid Waist Straig'
 ---
 
 Tienes [G-STAR RAW Midge Saddle Mid Waist Straight Jeans Rectos  Azul  dk Aged 8971-89   30W / 28L para Mujer](https://www.amazon.es/dp/B06XCGSZSM/?tag=tolees-21) con un 54.51 % de descuento con precio de oferta de 59.12 EUR (original: 129.95 EUR) en el siguiente enlace!

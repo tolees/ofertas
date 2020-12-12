@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Morkka Bloques de construcción de Bloques magnéticos de 76 Piezas Juegos educativos para niños  Construction Building Sets'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NQ97DQ5/?tag=tolees-21'
+descuento: '65.01'
+titulo: 'Morkka Bloques de construcción de Bloque'
 ---
 
 Está [Morkka Bloques de construcción de Bloques magnéticos de 76 Piezas Juegos educativos para niños  Construction Building Sets](https://www.amazon.es/dp/B07NQ97DQ5/?tag=tolees-21) con 65.01 de descuento por 20.99 EUR (original: 59.99 EUR) en el siguiente enlace!

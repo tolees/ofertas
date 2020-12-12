@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Big Star Adela  Azul para Mujer  Black  W30L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CJO1OIG/?tag=tolees-21'
+descuento: '80.60'
+titulo: 'Big Star Adela  Azul para Mujer  Black  '
 ---
 
 Ahora mismo tienes [Big Star Adela  Azul para Mujer  Black  W30L30](https://www.amazon.es/dp/B01CJO1OIG/?tag=tolees-21) a 10.66 EUR (original: 54.95 EUR) (80.60 %  de descuento) en el siguiente enlace!

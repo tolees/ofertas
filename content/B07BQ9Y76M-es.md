@@ -17,6 +17,9 @@ comparePrice: 30.03 EUR
 inStock: true
 prodname: 'Nike w Gym Tote  Bolsa de ningún Tipo  Color Negro/Total Rojo/Blanco  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQ9Y76M/?tag=tolees-21'
+descuento: '33.43'
+titulo: 'Nike w Gym Tote  Bolsa de ningún Tipo  C'
 ---
 
 Ahora mismo tienes [Nike w Gym Tote  Bolsa de ningún Tipo  Color Negro/Total Rojo/Blanco  Talla única](https://www.amazon.es/dp/B07BQ9Y76M/?tag=tolees-21) a 19.99 EUR (original: 30.03 EUR) (33.43 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 249.99 EUR
 inStock: true
 prodname: 'Targus ACP71EUZA SuperSpeed estación de acoplamiento - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008M7ONLK/?tag=tolees-21'
+descuento: '32.48'
+titulo: 'Targus ACP71EUZA SuperSpeed estación de '
 ---
 
 Tienes [Targus ACP71EUZA SuperSpeed estación de acoplamiento - Negro](https://www.amazon.es/dp/B008M7ONLK/?tag=tolees-21) con un 32.48 % de descuento con precio de oferta de 168.8 EUR (original: 249.99 EUR) en el siguiente enlace!

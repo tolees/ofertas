@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Uprise Color Shift  Zapatillas Unisex Adults’o  Gris  Quarry-Knockout Pink White   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZFZWGT/?tag=tolees-21'
+descuento: '70.14'
+titulo: 'Puma Uprise Color Shift  Zapatillas Unis'
 ---
 
 Está [Puma Uprise Color Shift  Zapatillas Unisex Adults’o  Gris  Quarry-Knockout Pink White   42.5 EU](https://www.amazon.es/dp/B07CZFZWGT/?tag=tolees-21) con 70.14 de descuento por 26.86 EUR (original: 89.95 EUR) en el siguiente enlace!

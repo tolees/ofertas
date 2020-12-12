@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'edc by Esprit Accessoires - 029ca1o007  Bolsos bandolera Mujer  Azul  Navy   4x20x30 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MTWTWZ1/?tag=tolees-21'
+descuento: '68.03'
+titulo: 'edc by Esprit Accessoires - 029ca1o007  '
 ---
 
 Ahora mismo tienes [edc by Esprit Accessoires - 029ca1o007  Bolsos bandolera Mujer  Azul  Navy   4x20x30 cm  B x H T ](https://www.amazon.es/dp/B07MTWTWZ1/?tag=tolees-21) a 15.98 EUR (original: 49.99 EUR) (68.03 %  de descuento) en el siguiente enlace!

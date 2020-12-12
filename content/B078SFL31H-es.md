@@ -17,6 +17,9 @@ comparePrice: 49.49 EUR
 inStock: true
 prodname: 'Gola Comet  Zapatillas para Hombre  Gris  Grey/Khaki Xn   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SFL31H/?tag=tolees-21'
+descuento: '45.54'
+titulo: 'Gola Comet  Zapatillas para Hombre  Gris'
 ---
 
 Está [Gola Comet  Zapatillas para Hombre  Gris  Grey/Khaki Xn   46 EU](https://www.amazon.es/dp/B078SFL31H/?tag=tolees-21) con 45.54 de descuento por 26.95 EUR (original: 49.49 EUR) en el siguiente enlace!

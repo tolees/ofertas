@@ -17,6 +17,9 @@ comparePrice: 66 EUR
 inStock: true
 prodname: 'Nike Tanjun Se  Zapatillas de Entrenamiento para Hombre   Sequoia/Golden Moss/Volt/Light Bone 300   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J9NVGJH/?tag=tolees-21'
+descuento: '46.09'
+titulo: 'Nike Tanjun Se  Zapatillas de Entrenamie'
 ---
 
 Está [Nike Tanjun Se  Zapatillas de Entrenamiento para Hombre   Sequoia/Golden Moss/Volt/Light Bone 300   42.5 EU](https://www.amazon.es/dp/B07J9NVGJH/?tag=tolees-21) con 46.09 de descuento por 35.58 EUR (original: 66 EUR) en el siguiente enlace!

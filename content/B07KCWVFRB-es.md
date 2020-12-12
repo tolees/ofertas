@@ -17,6 +17,9 @@ comparePrice: 32 EUR
 inStock: true
 prodname: 'Hurley Barbed PRM tee SS Camisetas  Hombre  White  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCWVFRB/?tag=tolees-21'
+descuento: '48.91'
+titulo: 'Hurley Barbed PRM tee SS Camisetas  Homb'
 ---
 
 Está [Hurley Barbed PRM tee SS Camisetas  Hombre  White  M](https://www.amazon.es/dp/B07KCWVFRB/?tag=tolees-21) con 48.91 de descuento por 16.35 EUR (original: 32 EUR) en el siguiente enlace!

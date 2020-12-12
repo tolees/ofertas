@@ -17,6 +17,9 @@ comparePrice: 289 EUR
 inStock: true
 prodname: 'Reloj MASERATI - Hombre R8873618001'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UQJ90AQ/?tag=tolees-21'
+descuento: '41.87'
+titulo: 'Reloj MASERATI - Hombre R8873618001'
 ---
 
 Tienes [Reloj MASERATI - Hombre R8873618001](https://www.amazon.es/dp/B00UQJ90AQ/?tag=tolees-21) con un 41.87 % de descuento con precio de oferta de 168 EUR (original: 289 EUR) en el siguiente enlace!

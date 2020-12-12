@@ -17,6 +17,9 @@ comparePrice: 78.69 EUR
 inStock: true
 prodname: 'Hush Puppies Shilo Heeled Boot  Botines para Mujer  Negro  Black 000   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H7WFKN3/?tag=tolees-21'
+descuento: '59.47'
+titulo: 'Hush Puppies Shilo Heeled Boot  Botines '
 ---
 
 Ahora mismo tienes [Hush Puppies Shilo Heeled Boot  Botines para Mujer  Negro  Black 000   37 EU](https://www.amazon.es/dp/B07H7WFKN3/?tag=tolees-21) a 31.89 EUR (original: 78.69 EUR) (59.47 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 310.39 EUR
 inStock: true
 prodname: 'Optoma X340 Video - Proyector  3100 lúmenes ANSI  DLP  XGA  1024x768   4:3  705 6 - 7731 8 mm  27.8 - 304.4"   1 2 - 12 m '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FDHJRCQ/?tag=tolees-21'
+descuento: '35.86'
+titulo: 'Optoma X340 Video - Proyector  3100 lúme'
 ---
 
 Está [Optoma X340 Video - Proyector  3100 lúmenes ANSI  DLP  XGA  1024x768   4:3  705 6 - 7731 8 mm  27.8 - 304.4"   1 2 - 12 m ](https://www.amazon.es/dp/B01FDHJRCQ/?tag=tolees-21) con 35.86 de descuento por 199.07 EUR (original: 310.39 EUR) en el siguiente enlace!

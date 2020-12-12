@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Greenworks 3820037 Motosierra Eléctrica  2000 W  230 V  Verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DC6LDIM/?tag=tolees-21'
+descuento: '33.77'
+titulo: 'Greenworks 3820037 Motosierra Eléctrica '
 ---
 
 Tienes [Greenworks 3820037 Motosierra Eléctrica  2000 W  230 V  Verde](https://www.amazon.es/dp/B00DC6LDIM/?tag=tolees-21) con un 33.77 % de descuento con precio de oferta de 66.22 EUR (original: 99.99 EUR) en el siguiente enlace!

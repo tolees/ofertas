@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance M420V4  Zapatillas de Deporte para Hombre   Negro   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XS68JXR/?tag=tolees-21'
+descuento: '56.66'
+titulo: 'New Balance M420V4  Zapatillas de Deport'
 ---
 
 Ahora mismo tienes [New Balance M420V4  Zapatillas de Deporte para Hombre   Negro   42.5 EU](https://www.amazon.es/dp/B06XS68JXR/?tag=tolees-21) a 30.34 EUR (original: 70 EUR) (56.66 %  de descuento) en el siguiente enlace!

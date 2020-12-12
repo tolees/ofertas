@@ -17,6 +17,9 @@ comparePrice: 50.8 EUR
 inStock: true
 prodname: 'Roca A5A8125C00 A5A6125C00 Mezclador Monomando Bide  Coleccion Victoria  Cromo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00R4JQQGW/?tag=tolees-21'
+descuento: '29.57'
+titulo: 'Roca A5A8125C00 A5A6125C00 Mezclador Mon'
 ---
 
 Está [Roca A5A8125C00 A5A6125C00 Mezclador Monomando Bide  Coleccion Victoria  Cromo](https://www.amazon.es/dp/B00R4JQQGW/?tag=tolees-21) con 29.57 de descuento por 35.78 EUR (original: 50.8 EUR) en el siguiente enlace!
@@ -25,8 +28,8 @@ Está [Roca A5A8125C00 A5A6125C00 Mezclador Monomando Bide  Coleccion Victoria  
 
 Principales características:
 
-- Con enganche para cadenilla
 - Modelo victoria
+- Con enganche para cadenilla
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00R4JQQGW/?tag=tolees-21)
 

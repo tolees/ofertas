@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Under Armour Ripple NM PRNT  Zapatillas de Running para Hombre  Marrón  Bitter Chocolate/Trail Green/Onyx White 100   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTPKCSC/?tag=tolees-21'
+descuento: '61.07'
+titulo: 'Under Armour Ripple NM PRNT  Zapatillas '
 ---
 
 Está [Under Armour Ripple NM PRNT  Zapatillas de Running para Hombre  Marrón  Bitter Chocolate/Trail Green/Onyx White 100   42.5 EU](https://www.amazon.es/dp/B07CTPKCSC/?tag=tolees-21) con 61.07 de descuento por 29.2 EUR (original: 75 EUR) en el siguiente enlace!

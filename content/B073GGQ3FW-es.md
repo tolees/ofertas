@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Performance 14813  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073GGQ3FW/?tag=tolees-21'
+descuento: '52.69'
+titulo: 'Skechers Performance 14813  Zapatillas D'
 ---
 
 Está [Skechers Performance 14813  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White   36 EU](https://www.amazon.es/dp/B073GGQ3FW/?tag=tolees-21) con 52.69 de descuento por 28.36 EUR (original: 59.95 EUR) en el siguiente enlace!

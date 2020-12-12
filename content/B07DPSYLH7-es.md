@@ -17,6 +17,9 @@ comparePrice: 24.9 EUR
 inStock: true
 prodname: 'Urban Classics Ladies Inset Striped Crew  suéter para Mujer  Amarillo  Honey 01466  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPSYLH7/?tag=tolees-21'
+descuento: '63.69'
+titulo: 'Urban Classics Ladies Inset Striped Crew'
 ---
 
 Ahora mismo tienes [Urban Classics Ladies Inset Striped Crew  suéter para Mujer  Amarillo  Honey 01466  Medium](https://www.amazon.es/dp/B07DPSYLH7/?tag=tolees-21) a 9.04 EUR (original: 24.9 EUR) (63.69 %  de descuento) en el siguiente enlace!

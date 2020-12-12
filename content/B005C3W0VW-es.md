@@ -17,6 +17,9 @@ comparePrice: 50.95 EUR
 inStock: true
 prodname: 'Basix Consolador - 1151 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005C3W0VW/?tag=tolees-21'
+descuento: '52.15'
+titulo: 'Basix Consolador - 1151 gr'
 ---
 
 Ahora mismo tienes [Basix Consolador - 1151 gr](https://www.amazon.es/dp/B005C3W0VW/?tag=tolees-21) a 24.38 EUR (original: 50.95 EUR) (52.15 %  de descuento) en el siguiente enlace!

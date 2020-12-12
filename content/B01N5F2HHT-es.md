@@ -17,6 +17,9 @@ comparePrice: 599.99 EUR
 inStock: true
 prodname: 'Klipsch RSB-14 - Barra de Sonido  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5F2HHT/?tag=tolees-21'
+descuento: '39.13'
+titulo: 'Klipsch RSB-14 - Barra de Sonido  Negro'
 ---
 
 Ahora mismo tienes [Klipsch RSB-14 - Barra de Sonido  Negro](https://www.amazon.es/dp/B01N5F2HHT/?tag=tolees-21) a 365.19 EUR (original: 599.99 EUR) (39.13 %  de descuento) en el siguiente enlace!

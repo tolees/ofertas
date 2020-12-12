@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Pokemon JCC Caja Entrenador Tormenta Celestial The Pokémon Company 1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H7JZXZ4/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'Pokemon JCC Caja Entrenador Tormenta Cel'
 ---
 
 Tienes [Pokemon JCC Caja Entrenador Tormenta Celestial The Pokémon Company 1](https://www.amazon.es/dp/B07H7JZXZ4/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!

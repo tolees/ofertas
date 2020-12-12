@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Under Armour MK1 Terry Short  Pantalón Corto para Hombre  Verde  Tourmaline Teal   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BXHNTZ/?tag=tolees-21'
+descuento: '54.38'
+titulo: 'Under Armour MK1 Terry Short  Pantalón C'
 ---
 
 Tienes [Under Armour MK1 Terry Short  Pantalón Corto para Hombre  Verde  Tourmaline Teal   S](https://www.amazon.es/dp/B072BXHNTZ/?tag=tolees-21) con un 54.38 % de descuento con precio de oferta de 20.53 EUR (original: 45 EUR) en el siguiente enlace!

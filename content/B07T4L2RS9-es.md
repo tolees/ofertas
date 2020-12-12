@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Lomogo Funda Galaxy J7  2017  / J7 Pro  2017   Funda de Cuero con Cartera para Tarjetas y Soporte Plegable Carcasa Libro Antigolpes para Samsung Galaxy J7 2017 - LOGHU040192 Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07T4L2RS9/?tag=tolees-21'
+descuento: '60.03'
+titulo: 'Lomogo Funda Galaxy J7  2017  / J7 Pro  '
 ---
 
 Está [Lomogo Funda Galaxy J7  2017  / J7 Pro  2017   Funda de Cuero con Cartera para Tarjetas y Soporte Plegable Carcasa Libro Antigolpes para Samsung Galaxy J7 2017 - LOGHU040192 Gris](https://www.amazon.es/dp/B07T4L2RS9/?tag=tolees-21) con 60.03 de descuento por 7.99 EUR (original: 19.99 EUR) en el siguiente enlace!

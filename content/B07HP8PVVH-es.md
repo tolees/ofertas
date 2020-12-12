@@ -17,6 +17,9 @@ comparePrice: 108.89 EUR
 inStock: true
 prodname: 'Ballistix Sport LT BLS8G4D30BESBK - Memoria RAM de 8GB  DDR4  3000 MT/s  PC4-24000  Single Rank x8  DIMM  288-Pin  gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HP8PVVH/?tag=tolees-21'
+descuento: '55.08'
+titulo: 'Ballistix Sport LT BLS8G4D30BESBK - Memo'
 ---
 
 Tienes [Ballistix Sport LT BLS8G4D30BESBK - Memoria RAM de 8GB  DDR4  3000 MT/s  PC4-24000  Single Rank x8  DIMM  288-Pin  gris](https://www.amazon.es/dp/B07HP8PVVH/?tag=tolees-21) con un 55.08 % de descuento con precio de oferta de 48.91 EUR (original: 108.89 EUR) en el siguiente enlace!

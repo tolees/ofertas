@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-Star Revend-azul Hombre  Azul  3D Dark Aged   W38/L36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014Z6TI5W/?tag=tolees-21'
+descuento: '59.86'
+titulo: 'G-Star Revend-azul Hombre  Azul  3D Dark'
 ---
 
 Está [G-Star Revend-azul Hombre  Azul  3D Dark Aged   W38/L36](https://www.amazon.es/dp/B014Z6TI5W/?tag=tolees-21) con 59.86 de descuento por 40.12 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Asics Jolt 2  Zapatillas de Running para Hombre  Gris  Dark Grey/Hazard Green 021   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K72MQ5K/?tag=tolees-21'
+descuento: '28.02'
+titulo: 'Asics Jolt 2  Zapatillas de Running para'
 ---
 
 Tienes [Asics Jolt 2  Zapatillas de Running para Hombre  Gris  Dark Grey/Hazard Green 021   42 EU](https://www.amazon.es/dp/B07K72MQ5K/?tag=tolees-21) con un 28.02 % de descuento con precio de oferta de 35.99 EUR (original: 50 EUR) en el siguiente enlace!

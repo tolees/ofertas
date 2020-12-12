@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Quiksilver 3/2mm Prologue L/SL Fullsuit  Hombre  Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGPQ686/?tag=tolees-21'
+descuento: '37.00'
+titulo: 'Quiksilver 3/2mm Prologue L/SL Fullsuit '
 ---
 
 Tienes [Quiksilver 3/2mm Prologue L/SL Fullsuit  Hombre  Black  M](https://www.amazon.es/dp/B07DGPQ686/?tag=tolees-21) con un 37.00 % de descuento con precio de oferta de 69.29 EUR (original: 109.99 EUR) en el siguiente enlace!

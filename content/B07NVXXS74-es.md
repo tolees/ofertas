@@ -17,6 +17,9 @@ comparePrice: 27.75 EUR
 inStock: true
 prodname: 'Artesania Cerda Plumier Triple Giotto Minnie Bolsillo Suelto para Mochila  19 cm  Rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NVXXS74/?tag=tolees-21'
+descuento: '39.50'
+titulo: 'Artesania Cerda Plumier Triple Giotto Mi'
 ---
 
 Tienes [Artesania Cerda Plumier Triple Giotto Minnie Bolsillo Suelto para Mochila  19 cm  Rosa](https://www.amazon.es/dp/B07NVXXS74/?tag=tolees-21) con un 39.50 % de descuento con precio de oferta de 16.79 EUR (original: 27.75 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Call It Spring EU - Chrome  Bolsos totes Mujer  Marrón  Satellite   13.5x35x31 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWF95X3/?tag=tolees-21'
+descuento: '73.02'
+titulo: 'Call It Spring EU - Chrome  Bolsos totes'
 ---
 
 Tienes [Call It Spring EU - Chrome  Bolsos totes Mujer  Marrón  Satellite   13.5x35x31 cm  B x H T ](https://www.amazon.es/dp/B07DWF95X3/?tag=tolees-21) con un 73.02 % de descuento con precio de oferta de 10.79 EUR (original: 39.99 EUR) en el siguiente enlace!

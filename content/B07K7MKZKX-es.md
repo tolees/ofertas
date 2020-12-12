@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Asics Gt-2000 7  Zapatillas de Running para Hombre  Azul  Indigo Blue/Shocking Orange 400   43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K7MKZKX/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Asics Gt-2000 7  Zapatillas de Running p'
 ---
 
 Ahora mismo tienes [Asics Gt-2000 7  Zapatillas de Running para Hombre  Azul  Indigo Blue/Shocking Orange 400   43.5 EU](https://www.amazon.es/dp/B07K7MKZKX/?tag=tolees-21) a 98 EUR (original: 140 EUR) (30.00 %  de descuento) en el siguiente enlace!

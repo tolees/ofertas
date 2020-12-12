@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Fitibest 2 Pack Camiseta de Compresión Deportiva Camiseta de Manga Larga Para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074DWDBMM/?tag=tolees-21'
+descuento: '42.89'
+titulo: 'Fitibest 2 Pack Camiseta de Compresión D'
 ---
 
 Ahora mismo tienes [Fitibest 2 Pack Camiseta de Compresión Deportiva Camiseta de Manga Larga Para Hombre](https://www.amazon.es/dp/B074DWDBMM/?tag=tolees-21) a 7.99 EUR (original: 13.99 EUR) (42.89 %  de descuento) en el siguiente enlace!

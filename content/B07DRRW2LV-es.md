@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Burton Treble Yell Mochilas  Unisex Adulto  Azul  Trellis   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DRRW2LV/?tag=tolees-21'
+descuento: '45.04'
+titulo: 'Burton Treble Yell Mochilas  Unisex Adul'
 ---
 
 Tienes [Burton Treble Yell Mochilas  Unisex Adulto  Azul  Trellis   Talla Única](https://www.amazon.es/dp/B07DRRW2LV/?tag=tolees-21) con un 45.04 % de descuento con precio de oferta de 30.23 EUR (original: 55 EUR) en el siguiente enlace!

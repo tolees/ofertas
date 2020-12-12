@@ -17,6 +17,9 @@ comparePrice: 1079.9 EUR
 inStock: true
 prodname: 'Lenovo Ideapad 520-15IKB - Ordenador portátil de 15.6" FullHD  Intel Core i7-8550U  8 GB RAM  1 TB HDD  Nvidia GeForce MX150  Windows 10 Home  gris metalizado - Teclado QWERTY Español'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077N6KNXH/?tag=tolees-21'
+descuento: '30.33'
+titulo: 'Lenovo Ideapad 520-15IKB - Ordenador por'
 ---
 
 Ahora mismo tienes [Lenovo Ideapad 520-15IKB - Ordenador portátil de 15.6" FullHD  Intel Core i7-8550U  8 GB RAM  1 TB HDD  Nvidia GeForce MX150  Windows 10 Home  gris metalizado - Teclado QWERTY Español](https://www.amazon.es/dp/B077N6KNXH/?tag=tolees-21) a 752.38 EUR (original: 1079.9 EUR) (30.33 %  de descuento) en el siguiente enlace!

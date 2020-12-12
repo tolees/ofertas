@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'South Park: La Vara De La Verdad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079FLYB4R/?tag=tolees-21'
+descuento: '50.08'
+titulo: 'South Park: La Vara De La Verdad'
 ---
 
 Ahora mismo tienes [South Park: La Vara De La Verdad](https://www.amazon.es/dp/B079FLYB4R/?tag=tolees-21) a 14.95 EUR (original: 29.95 EUR) (50.08 %  de descuento) en el siguiente enlace!

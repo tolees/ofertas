@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Clarks Un Globe Vibe  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQVB479/?tag=tolees-21'
+descuento: '65.04'
+titulo: 'Clarks Un Globe Vibe  Zapatos de Cordone'
 ---
 
 Tienes [Clarks Un Globe Vibe  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   45 EU](https://www.amazon.es/dp/B07FQVB479/?tag=tolees-21) con un 65.04 % de descuento con precio de oferta de 41.95 EUR (original: 120 EUR) en el siguiente enlace!

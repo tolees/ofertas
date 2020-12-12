@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Springfield Especial Frq. Branding 2 Camiseta  Mujer   Gama Rosas/Morados 71   One Size  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1FHSP/?tag=tolees-21'
+descuento: '27.17'
+titulo: 'Springfield Especial Frq. Branding 2 Cam'
 ---
 
 Ahora mismo tienes [Springfield Especial Frq. Branding 2 Camiseta  Mujer   Gama Rosas/Morados 71   One Size  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KZ1FHSP/?tag=tolees-21) a 9.46 EUR (original: 12.99 EUR) (27.17 %  de descuento) en el siguiente enlace!

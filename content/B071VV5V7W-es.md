@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Under Armour UA W Threadborne Push TR  Zapatillas de Deporte para Mujer  Negro  Black 004   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VV5V7W/?tag=tolees-21'
+descuento: '73.96'
+titulo: 'Under Armour UA W Threadborne Push TR  Z'
 ---
 
 Ahora mismo tienes [Under Armour UA W Threadborne Push TR  Zapatillas de Deporte para Mujer  Negro  Black 004   36 EU](https://www.amazon.es/dp/B071VV5V7W/?tag=tolees-21) a 28.64 EUR (original: 110 EUR) (73.96 %  de descuento) en el siguiente enlace!

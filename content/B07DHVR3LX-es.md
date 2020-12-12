@@ -17,6 +17,9 @@ comparePrice: 189.99 EUR
 inStock: true
 prodname: 'Quiksilver Mission Chaqueta de Nieve  Hombre  Gris  Simple Texture   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHVR3LX/?tag=tolees-21'
+descuento: '52.13'
+titulo: 'Quiksilver Mission Chaqueta de Nieve  Ho'
 ---
 
 Está [Quiksilver Mission Chaqueta de Nieve  Hombre  Gris  Simple Texture   XXL](https://www.amazon.es/dp/B07DHVR3LX/?tag=tolees-21) con 52.13 de descuento por 90.95 EUR (original: 189.99 EUR) en el siguiente enlace!

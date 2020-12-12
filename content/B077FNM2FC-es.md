@@ -17,6 +17,9 @@ comparePrice: 65.95 EUR
 inStock: true
 prodname: 'Jana 23600  Zapatillas para Mujer  Gris  Lt. Grey   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077FNM2FC/?tag=tolees-21'
+descuento: '78.20'
+titulo: 'Jana 23600  Zapatillas para Mujer  Gris '
 ---
 
 Está [Jana 23600  Zapatillas para Mujer  Gris  Lt. Grey   41 EU](https://www.amazon.es/dp/B077FNM2FC/?tag=tolees-21) con 78.20 de descuento por 14.38 EUR (original: 65.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Gant Cotton Pique Crew  suéter Hombre  Azul  Periwinkle Blue 440   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H189BMM/?tag=tolees-21'
+descuento: '49.80'
+titulo: 'Gant Cotton Pique Crew  suéter Hombre  A'
 ---
 
 Está [Gant Cotton Pique Crew  suéter Hombre  Azul  Periwinkle Blue 440   Large](https://www.amazon.es/dp/B07H189BMM/?tag=tolees-21) con 49.80 de descuento por 49.7 EUR (original: 99 EUR) en el siguiente enlace!

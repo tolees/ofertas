@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Mayoral  Crianza D.O Jumilla. Vino Tinto - 6 Botellas x 750 ml - Total: 4500 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ET9UFNO/?tag=tolees-21'
+descuento: '27.50'
+titulo: 'Mayoral  Crianza D.O Jumilla. Vino Tinto'
 ---
 
 Está [Mayoral  Crianza D.O Jumilla. Vino Tinto - 6 Botellas x 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B01ET9UFNO/?tag=tolees-21) con 27.50 de descuento por 21.75 EUR (original: 30 EUR) en el siguiente enlace!

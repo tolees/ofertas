@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Flex Appeal 3.0-Billow  Zapatillas para Mujer  Gris  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVKYV26/?tag=tolees-21'
+descuento: '33.36'
+titulo: 'Skechers Flex Appeal 3.0-Billow  Zapatil'
 ---
 
 Tienes [Skechers Flex Appeal 3.0-Billow  Zapatillas para Mujer  Gris  38 EU](https://www.amazon.es/dp/B07CVKYV26/?tag=tolees-21) con un 33.36 % de descuento con precio de oferta de 39.95 EUR (original: 59.95 EUR) en el siguiente enlace!

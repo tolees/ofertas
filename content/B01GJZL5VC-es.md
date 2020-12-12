@@ -17,6 +17,9 @@ comparePrice: 1621 EUR
 inStock: true
 prodname: 'Synology DiskStation DS916+ Ethernet Escritorio Negro NAS - Unidad Raid  24 TB  SSD  Unidad de Disco Duro  SSD  Serial ATA II Serial ATA III  6000 GB  2.5" '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GJZL5VC/?tag=tolees-21'
+descuento: '44.54'
+titulo: 'Synology DiskStation DS916+ Ethernet Esc'
 ---
 
 Tienes [Synology DiskStation DS916+ Ethernet Escritorio Negro NAS - Unidad Raid  24 TB  SSD  Unidad de Disco Duro  SSD  Serial ATA II Serial ATA III  6000 GB  2.5" ](https://www.amazon.es/dp/B01GJZL5VC/?tag=tolees-21) con un 44.54 % de descuento con precio de oferta de 898.94 EUR (original: 1621 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Hauck Sun Plus - Disney silla de paseo compacta y ligera  diseño disney  para bebes de 6 meses a 15 kg  pooh spring brights red  rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LRUV758/?tag=tolees-21'
+descuento: '40.76'
+titulo: 'Hauck Sun Plus - Disney silla de paseo c'
 ---
 
 Tienes [Hauck Sun Plus - Disney silla de paseo compacta y ligera  diseño disney  para bebes de 6 meses a 15 kg  pooh spring brights red  rojo ](https://www.amazon.es/dp/B01LRUV758/?tag=tolees-21) con un 40.76 % de descuento con precio de oferta de 26.65 EUR (original: 44.99 EUR) en el siguiente enlace!

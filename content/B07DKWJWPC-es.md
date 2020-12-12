@@ -17,6 +17,9 @@ comparePrice: 25.98 EUR
 inStock: true
 prodname: 'Jack Reacher  4K UHD + BD   [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKWJWPC/?tag=tolees-21'
+descuento: '34.99'
+titulo: 'Jack Reacher  4K UHD + BD   [Blu-ray]'
 ---
 
 Está [Jack Reacher  4K UHD + BD   [Blu-ray]](https://www.amazon.es/dp/B07DKWJWPC/?tag=tolees-21) con 34.99 de descuento por 16.89 EUR (original: 25.98 EUR) en el siguiente enlace!

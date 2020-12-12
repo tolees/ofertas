@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Fuleadture Funda iPhone XR  [Compatible con Carga Inalámbrica] Original Slim Líquido de Silicona Gel Carcasa Totalmente Protectora Caso Suave Cover Case para Apple iPhone XR 6 1" 2018'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GV7ZMJ5/?tag=tolees-21'
+descuento: '56.39'
+titulo: 'Fuleadture Funda iPhone XR  [Compatible '
 ---
 
 Está [Fuleadture Funda iPhone XR  [Compatible con Carga Inalámbrica] Original Slim Líquido de Silicona Gel Carcasa Totalmente Protectora Caso Suave Cover Case para Apple iPhone XR 6 1" 2018](https://www.amazon.es/dp/B07GV7ZMJ5/?tag=tolees-21) con 56.39 de descuento por 9.59 EUR (original: 21.99 EUR) en el siguiente enlace!

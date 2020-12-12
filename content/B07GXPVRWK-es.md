@@ -17,6 +17,9 @@ comparePrice: 53.99 EUR
 inStock: true
 prodname: '2 en 1 Sacaleches Eléctrico Ruido Bajo Extractor de Leche Sacaleches Automático Adjustable Pezón Espiral con Funció de Masaje  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GXPVRWK/?tag=tolees-21'
+descuento: '35.19'
+titulo: '2 en 1 Sacaleches Eléctrico Ruido Bajo E'
 ---
 
 Está [2 en 1 Sacaleches Eléctrico Ruido Bajo Extractor de Leche Sacaleches Automático Adjustable Pezón Espiral con Funció de Masaje  Blanco ](https://www.amazon.es/dp/B07GXPVRWK/?tag=tolees-21) con 35.19 de descuento por 34.99 EUR (original: 53.99 EUR) en el siguiente enlace!

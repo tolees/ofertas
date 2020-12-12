@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Adidas Tubular Shadow  Zapatillas para Hombre  Gris Grey Three/Clear Brown  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072C2DFM6/?tag=tolees-21'
+descuento: '73.81'
+titulo: 'Adidas Tubular Shadow  Zapatillas para H'
 ---
 
 Ahora mismo tienes [Adidas Tubular Shadow  Zapatillas para Hombre  Gris Grey Three/Clear Brown  44 EU](https://www.amazon.es/dp/B072C2DFM6/?tag=tolees-21) a 31.41 EUR (original: 119.95 EUR) (73.81 %  de descuento) en el siguiente enlace!

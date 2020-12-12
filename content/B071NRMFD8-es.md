@@ -17,6 +17,9 @@ comparePrice: 18.39 EUR
 inStock: true
 prodname: 'Inside @ SFC16  Camiseta para Mujer  Morado  Burdeos  Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NRMFD8/?tag=tolees-21'
+descuento: '59.87'
+titulo: 'Inside @ SFC16  Camiseta para Mujer  Mor'
 ---
 
 Está [Inside @ SFC16  Camiseta para Mujer  Morado  Burdeos  Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B071NRMFD8/?tag=tolees-21) con 59.87 de descuento por 7.38 EUR (original: 18.39 EUR) en el siguiente enlace!

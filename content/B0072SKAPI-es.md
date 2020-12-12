@@ -17,6 +17,9 @@ comparePrice: 9.8 EUR
 inStock: true
 prodname: 'The Platinum Collection  3cd'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0072SKAPI/?tag=tolees-21'
+descuento: '53.67'
+titulo: 'The Platinum Collection  3cd'
 ---
 
 Tienes [The Platinum Collection  3cd](https://www.amazon.es/dp/B0072SKAPI/?tag=tolees-21) con un 53.67 % de descuento con precio de oferta de 4.54 EUR (original: 9.8 EUR) en el siguiente enlace!

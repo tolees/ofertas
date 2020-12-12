@@ -17,6 +17,9 @@ comparePrice: 12.09 EUR
 inStock: true
 prodname: 'Comtervi - Accesorio para secador de pelo  gorro de secado de pelo  capucha suave para mujeres de pelo largo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MM4MHTN/?tag=tolees-21'
+descuento: '45.00'
+titulo: 'Comtervi - Accesorio para secador de pel'
 ---
 
 Ahora mismo tienes [Comtervi - Accesorio para secador de pelo  gorro de secado de pelo  capucha suave para mujeres de pelo largo](https://www.amazon.es/dp/B07MM4MHTN/?tag=tolees-21) a 6.65 EUR (original: 12.09 EUR) (45.00 %  de descuento) en el siguiente enlace!

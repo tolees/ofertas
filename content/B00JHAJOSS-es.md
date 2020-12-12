@@ -17,6 +17,9 @@ comparePrice: 25.05 EUR
 inStock: true
 prodname: 'HP H2800 - Auriculares de diadema abiertos  color morado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JHAJOSS/?tag=tolees-21'
+descuento: '36.53'
+titulo: 'HP H2800 - Auriculares de diadema abiert'
 ---
 
 Tienes [HP H2800 - Auriculares de diadema abiertos  color morado](https://www.amazon.es/dp/B00JHAJOSS/?tag=tolees-21) con un 36.53 % de descuento con precio de oferta de 15.9 EUR (original: 25.05 EUR) en el siguiente enlace!

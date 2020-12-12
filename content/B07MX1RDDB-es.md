@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Auriculares Bluetooth  Verdaderos Auriculares Inalambricos  120 Horas de reproducción  IPX8 Cascos Bluetooth 5.0 con 3000 mAh Caja de Carga Portátil  Cancelación de Ruido CVC 8.0  Hi-Fi Estéreo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MX1RDDB/?tag=tolees-21'
+descuento: '65.72'
+titulo: 'Auriculares Bluetooth  Verdaderos Auricu'
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth  Verdaderos Auriculares Inalambricos  120 Horas de reproducción  IPX8 Cascos Bluetooth 5.0 con 3000 mAh Caja de Carga Portátil  Cancelación de Ruido CVC 8.0  Hi-Fi Estéreo](https://www.amazon.es/dp/B07MX1RDDB/?tag=tolees-21) a 47.99 EUR (original: 139.99 EUR) (65.72 %  de descuento) en el siguiente enlace!

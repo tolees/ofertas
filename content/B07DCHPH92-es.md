@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Nike Jr Superfly 6 Club TF  Zapatillas de Fútbol Unisex Niños  Gris  Wolf Grey/Lt Crimson/Black 060   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCHPH92/?tag=tolees-21'
+descuento: '36.47'
+titulo: 'Nike Jr Superfly 6 Club TF  Zapatillas d'
 ---
 
 Tienes [Nike Jr Superfly 6 Club TF  Zapatillas de Fútbol Unisex Niños  Gris  Wolf Grey/Lt Crimson/Black 060   36.5 EU](https://www.amazon.es/dp/B07DCHPH92/?tag=tolees-21) con un 36.47 % de descuento con precio de oferta de 34.94 EUR (original: 55 EUR) en el siguiente enlace!

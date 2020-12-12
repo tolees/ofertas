@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Adidas Nemeziz 18.3 FG J  Zapatillas de Fútbol para Niños  Amarillo Solar Yellow/Football Blue/Active Red  28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZ55Z8Y/?tag=tolees-21'
+descuento: '49.33'
+titulo: 'Adidas Nemeziz 18.3 FG J  Zapatillas de '
 ---
 
 Está [Adidas Nemeziz 18.3 FG J  Zapatillas de Fútbol para Niños  Amarillo Solar Yellow/Football Blue/Active Red  28 EU](https://www.amazon.es/dp/B07JZ55Z8Y/?tag=tolees-21) con 49.33 de descuento por 32.91 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 249 EUR
 inStock: true
 prodname: 'Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Cuero MK8616'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CNPM9D3/?tag=tolees-21'
+descuento: '65.08'
+titulo: 'Michael Kors Reloj Analógico para Mujer '
 ---
 
 Está [Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Cuero MK8616](https://www.amazon.es/dp/B07CNPM9D3/?tag=tolees-21) con 65.08 de descuento por 86.94 EUR (original: 249 EUR) en el siguiente enlace!

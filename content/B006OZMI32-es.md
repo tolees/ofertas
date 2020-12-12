@@ -17,6 +17,9 @@ comparePrice: 20.06 EUR
 inStock: true
 prodname: 'Meguiar s Car Care Products ME G19216 Ultimate Polish'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006OZMI32/?tag=tolees-21'
+descuento: '31.75'
+titulo: 'Meguiar s Car Care Products ME G19216 Ul'
 ---
 
 Ahora mismo tienes [Meguiar s Car Care Products ME G19216 Ultimate Polish](https://www.amazon.es/dp/B006OZMI32/?tag=tolees-21) a 13.69 EUR (original: 20.06 EUR) (31.75 %  de descuento) en el siguiente enlace!

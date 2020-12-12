@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Newskill Thanatos Switch Blue - Teclado mecánico gaming  estructura metálica  efectos RGB   color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7NF32G/?tag=tolees-21'
+descuento: '25.02'
+titulo: 'Newskill Thanatos Switch Blue - Teclado '
 ---
 
 Está [Newskill Thanatos Switch Blue - Teclado mecánico gaming  estructura metálica  efectos RGB   color negro](https://www.amazon.es/dp/B07D7NF32G/?tag=tolees-21) con 25.02 de descuento por 44.95 EUR (original: 59.95 EUR) en el siguiente enlace!

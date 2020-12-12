@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Lubricante médico PlayGel "Anal" de AMOR Vibratissimo® de 100ml y efecto duradero  dermatológicamente testado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009VM4XDI/?tag=tolees-21'
+descuento: '30.43'
+titulo: 'Lubricante médico PlayGel "Anal" de AMOR'
 ---
 
 Está [Lubricante médico PlayGel "Anal" de AMOR Vibratissimo® de 100ml y efecto duradero  dermatológicamente testado](https://www.amazon.es/dp/B009VM4XDI/?tag=tolees-21) con 30.43 de descuento por 6.95 EUR (original: 9.99 EUR) en el siguiente enlace!

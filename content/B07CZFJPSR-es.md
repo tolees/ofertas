@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Under Armour Tech Polo  Hombre  Azul  Thunder/Pitch Gray 407   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZFJPSR/?tag=tolees-21'
+descuento: '42.14'
+titulo: 'Under Armour Tech Polo  Hombre  Azul  Th'
 ---
 
 Está [Under Armour Tech Polo  Hombre  Azul  Thunder/Pitch Gray 407   M](https://www.amazon.es/dp/B07CZFJPSR/?tag=tolees-21) con 42.14 de descuento por 23.14 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 169 EUR
 inStock: true
 prodname: 'Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SKW2720'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CK8ZS5Y/?tag=tolees-21'
+descuento: '40.73'
+titulo: 'Skagen Reloj Analógico para Mujer de Cua'
 ---
 
 Ahora mismo tienes [Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SKW2720](https://www.amazon.es/dp/B07CK8ZS5Y/?tag=tolees-21) a 100.16 EUR (original: 169 EUR) (40.73 %  de descuento) en el siguiente enlace!

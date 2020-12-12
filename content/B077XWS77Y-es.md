@@ -17,6 +17,9 @@ comparePrice: 69.25 EUR
 inStock: true
 prodname: 'MuaDress Vestido Cóctel Vintage A-línea Hi-Lo Elegante Mujer Flor Encaje Vestidos De Fiesta Borgoña M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XWS77Y/?tag=tolees-21'
+descuento: '53.81'
+titulo: 'MuaDress Vestido Cóctel Vintage A-línea '
 ---
 
 Está [MuaDress Vestido Cóctel Vintage A-línea Hi-Lo Elegante Mujer Flor Encaje Vestidos De Fiesta Borgoña M](https://www.amazon.es/dp/B077XWS77Y/?tag=tolees-21) con 53.81 de descuento por 31.99 EUR (original: 69.25 EUR) en el siguiente enlace!

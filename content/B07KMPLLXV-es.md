@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Roxy Feel Happy - Bolso de mano para mujer  Med Blue Newport Border SW  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KMPLLXV/?tag=tolees-21'
+descuento: '46.49'
+titulo: 'Roxy Feel Happy - Bolso de mano para muj'
 ---
 
 Está [Roxy Feel Happy - Bolso de mano para mujer  Med Blue Newport Border SW  Talla Única](https://www.amazon.es/dp/B07KMPLLXV/?tag=tolees-21) con 46.49 de descuento por 24.61 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Base de refrigeración y soporte para portátil y vídeo-consolas con diseño elegante  2 ventiladores con luz led  Laptop Cooling Pad 2 conexiones USB  10” - 17"   Ergonómico y Ultra-silencioso. NEGRO .'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AIJG61Y/?tag=tolees-21'
+descuento: '62.62'
+titulo: 'Base de refrigeración y soporte para por'
 ---
 
 Ahora mismo tienes [Base de refrigeración y soporte para portátil y vídeo-consolas con diseño elegante  2 ventiladores con luz led  Laptop Cooling Pad 2 conexiones USB  10” - 17"   Ergonómico y Ultra-silencioso. NEGRO .](https://www.amazon.es/dp/B01AIJG61Y/?tag=tolees-21) a 11.21 EUR (original: 29.99 EUR) (62.62 %  de descuento) en el siguiente enlace!

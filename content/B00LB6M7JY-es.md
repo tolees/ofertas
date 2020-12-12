@@ -17,6 +17,9 @@ comparePrice: 39.46 EUR
 inStock: true
 prodname: 'Kärcher 2.643-143.0 Boquilla de espuma FJ 10 C Connect  n  Clean + Ultra Foam Cleaner 3 en 1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LB6M7JY/?tag=tolees-21'
+descuento: '29.17'
+titulo: 'Kärcher 2.643-143.0 Boquilla de espuma F'
 ---
 
 Está [Kärcher 2.643-143.0 Boquilla de espuma FJ 10 C Connect  n  Clean + Ultra Foam Cleaner 3 en 1](https://www.amazon.es/dp/B00LB6M7JY/?tag=tolees-21) con 29.17 de descuento por 27.95 EUR (original: 39.46 EUR) en el siguiente enlace!

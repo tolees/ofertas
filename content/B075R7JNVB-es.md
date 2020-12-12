@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'New Balance Cypher Luxe  Zapatillas de Running para Hombre  Plateado  Silver Mink/White LS   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R7JNVB/?tag=tolees-21'
+descuento: '75.83'
+titulo: 'New Balance Cypher Luxe  Zapatillas de R'
 ---
 
 Está [New Balance Cypher Luxe  Zapatillas de Running para Hombre  Plateado  Silver Mink/White LS   42 EU](https://www.amazon.es/dp/B075R7JNVB/?tag=tolees-21) con 75.83 de descuento por 29.01 EUR (original: 120 EUR) en el siguiente enlace!

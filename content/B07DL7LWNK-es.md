@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield Org Camisa Organica Camisa Casual  Hombre  Azul  Gama Azules 12   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL7LWNK/?tag=tolees-21'
+descuento: '66.39'
+titulo: 'Springfield Org Camisa Organica Camisa C'
 ---
 
 Ahora mismo tienes [Springfield Org Camisa Organica Camisa Casual  Hombre  Azul  Gama Azules 12   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DL7LWNK/?tag=tolees-21) a 10.08 EUR (original: 29.99 EUR) (66.39 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 38.99 EUR
 inStock: true
 prodname: 'OUSPT Máscara de Buceo para Niños  Máscara de Snorkel 180 ° Facial Completa Silicona Impermeable Anti-Fuga Profesional Máscara de Esnórquel para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RYX4RVT/?tag=tolees-21'
+descuento: '34.37'
+titulo: 'OUSPT Máscara de Buceo para Niños  Másca'
 ---
 
 Ahora mismo tienes [OUSPT Máscara de Buceo para Niños  Máscara de Snorkel 180 ° Facial Completa Silicona Impermeable Anti-Fuga Profesional Máscara de Esnórquel para Niños](https://www.amazon.es/dp/B07RYX4RVT/?tag=tolees-21) a 25.59 EUR (original: 38.99 EUR) (34.37 %  de descuento) en el siguiente enlace!

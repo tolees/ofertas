@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Pepe Jeans Cashed Jeans  Azul  Denim GL6   16 años para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CS9WTN3/?tag=tolees-21'
+descuento: '65.09'
+titulo: 'Pepe Jeans Cashed Jeans  Azul  Denim GL6'
 ---
 
 Está [Pepe Jeans Cashed Jeans  Azul  Denim GL6   16 años para Niños](https://www.amazon.es/dp/B07CS9WTN3/?tag=tolees-21) con 65.09 de descuento por 19.2 EUR (original: 55 EUR) en el siguiente enlace!

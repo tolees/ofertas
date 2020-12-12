@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 19pa240  Botas Militar para Mujer  Azul  Navy 660   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJFFFLR/?tag=tolees-21'
+descuento: '67.20'
+titulo: 'Dockers by Gerli 19pa240  Botas Militar '
 ---
 
 Está [Dockers by Gerli 19pa240  Botas Militar para Mujer  Azul  Navy 660   39 EU](https://www.amazon.es/dp/B07DJFFFLR/?tag=tolees-21) con 67.20 de descuento por 26.22 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 659 EUR
 inStock: true
 prodname: 'Apple iPhone 7 Plus - Smartphone de 5.5"  32 GB  oro rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LVZBJXN/?tag=tolees-21'
+descuento: '25.34'
+titulo: 'Apple iPhone 7 Plus - Smartphone de 5.5"'
 ---
 
 Está [Apple iPhone 7 Plus - Smartphone de 5.5"  32 GB  oro rosa](https://www.amazon.es/dp/B01LVZBJXN/?tag=tolees-21) con 25.34 de descuento por 492 EUR (original: 659 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Himaly Calentador de Cera Eléctrico para Depilación Profesional 500ml con Pantalla LCD Set de Depilación con Cera Máquina Calentador para Mujer y Hombre Roll On Fundidor con 480 g Frijoles de Cera'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GXGPVKR/?tag=tolees-21'
+descuento: '34.79'
+titulo: 'Himaly Calentador de Cera Eléctrico para'
 ---
 
 Está [Himaly Calentador de Cera Eléctrico para Depilación Profesional 500ml con Pantalla LCD Set de Depilación con Cera Máquina Calentador para Mujer y Hombre Roll On Fundidor con 480 g Frijoles de Cera](https://www.amazon.es/dp/B07GXGPVKR/?tag=tolees-21) con 34.79 de descuento por 29.99 EUR (original: 45.99 EUR) en el siguiente enlace!

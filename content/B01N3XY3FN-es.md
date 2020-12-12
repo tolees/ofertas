@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Bugatti J94016n6  Zapatillas para Mujer  Rosa  Rosé 350   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N3XY3FN/?tag=tolees-21'
+descuento: '71.79'
+titulo: 'Bugatti J94016n6  Zapatillas para Mujer '
 ---
 
 Está [Bugatti J94016n6  Zapatillas para Mujer  Rosa  Rosé 350   40 EU](https://www.amazon.es/dp/B01N3XY3FN/?tag=tolees-21) con 71.79 de descuento por 22.55 EUR (original: 79.95 EUR) en el siguiente enlace!

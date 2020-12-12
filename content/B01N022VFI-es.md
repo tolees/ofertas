@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Under Armour Rival Fitted Tapered Jogger Pantalón Largo  Hombre  Negro  Black/Graphite 001   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N022VFI/?tag=tolees-21'
+descuento: '29.86'
+titulo: 'Under Armour Rival Fitted Tapered Jogger'
 ---
 
 Ahora mismo tienes [Under Armour Rival Fitted Tapered Jogger Pantalón Largo  Hombre  Negro  Black/Graphite 001   L](https://www.amazon.es/dp/B01N022VFI/?tag=tolees-21) a 38.57 EUR (original: 54.99 EUR) (29.86 %  de descuento) en el siguiente enlace!

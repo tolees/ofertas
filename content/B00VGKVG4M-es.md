@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Blend Cirrus Vaqueros  Middle Blue 76201  W36/L32  36  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VGKVG4M/?tag=tolees-21'
+descuento: '53.83'
+titulo: 'Blend Cirrus Vaqueros  Middle Blue 76201'
 ---
 
 Está [Blend Cirrus Vaqueros  Middle Blue 76201  W36/L32  36  para Hombre](https://www.amazon.es/dp/B00VGKVG4M/?tag=tolees-21) con 53.83 de descuento por 27.68 EUR (original: 59.95 EUR) en el siguiente enlace!

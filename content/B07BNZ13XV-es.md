@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Columbia Canyon Point Mid Waterproof  Zapatillas de Senderismo  Impermeable para Hombre  Gris  Charcoal Garnet Red   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BNZ13XV/?tag=tolees-21'
+descuento: '39.04'
+titulo: 'Columbia Canyon Point Mid Waterproof  Za'
 ---
 
 Ahora mismo tienes [Columbia Canyon Point Mid Waterproof  Zapatillas de Senderismo  Impermeable para Hombre  Gris  Charcoal Garnet Red   42.5 EU](https://www.amazon.es/dp/B07BNZ13XV/?tag=tolees-21) a 60.95 EUR (original: 99.99 EUR) (39.04 %  de descuento) en el siguiente enlace!

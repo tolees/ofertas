@@ -17,6 +17,9 @@ comparePrice: 399 EUR
 inStock: true
 prodname: 'Pala de padel Royal Padel M27 Carbon Amarilla 2019'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N6DSTDX/?tag=tolees-21'
+descuento: '51.43'
+titulo: 'Pala de padel Royal Padel M27 Carbon Ama'
 ---
 
 Está [Pala de padel Royal Padel M27 Carbon Amarilla 2019](https://www.amazon.es/dp/B07N6DSTDX/?tag=tolees-21) con 51.43 de descuento por 193.8 EUR (original: 399 EUR) en el siguiente enlace!

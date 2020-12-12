@@ -17,6 +17,9 @@ comparePrice: 189 EUR
 inStock: true
 prodname: 'Napapijri Acalmar W 1 BLU Marine Chaqueta Bomber  Azul 176  Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9S6V5P/?tag=tolees-21'
+descuento: '59.78'
+titulo: 'Napapijri Acalmar W 1 BLU Marine Chaquet'
 ---
 
 Tienes [Napapijri Acalmar W 1 BLU Marine Chaqueta Bomber  Azul 176  Medium para Mujer](https://www.amazon.es/dp/B07L9S6V5P/?tag=tolees-21) con un 59.78 % de descuento con precio de oferta de 76.01 EUR (original: 189 EUR) en el siguiente enlace!

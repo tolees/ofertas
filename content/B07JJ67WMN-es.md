@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Lacoste Af8826 suéter  Azul Marine 423  36 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJ67WMN/?tag=tolees-21'
+descuento: '54.22'
+titulo: 'Lacoste Af8826 suéter  Azul Marine 423  '
 ---
 
 Ahora mismo tienes [Lacoste Af8826 suéter  Azul Marine 423  36 para Mujer](https://www.amazon.es/dp/B07JJ67WMN/?tag=tolees-21) a 57.23 EUR (original: 125 EUR) (54.22 %  de descuento) en el siguiente enlace!

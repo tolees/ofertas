@@ -17,6 +17,9 @@ comparePrice: 299 EUR
 inStock: true
 prodname: 'Lenovo Tab4 10 LTE- Tablet de 10.1" HD  Qualcomm Snapdragon 425  RAM de 2GB  16GB de eMCP  camara de 5MP  sistema operativo Android 7.1  Wifi + Bluetooth  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R9HWK8/?tag=tolees-21'
+descuento: '60.94'
+titulo: 'Lenovo Tab4 10 LTE- Tablet de 10.1" HD  '
 ---
 
 Ahora mismo tienes [Lenovo Tab4 10 LTE- Tablet de 10.1" HD  Qualcomm Snapdragon 425  RAM de 2GB  16GB de eMCP  camara de 5MP  sistema operativo Android 7.1  Wifi + Bluetooth  color blanco](https://www.amazon.es/dp/B075R9HWK8/?tag=tolees-21) a 116.79 EUR (original: 299 EUR) (60.94 %  de descuento) en el siguiente enlace!

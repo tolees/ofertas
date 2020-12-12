@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'CASIO Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SHE-4052PG-4AUEF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NFGKJWK/?tag=tolees-21'
+descuento: '58.08'
+titulo: 'CASIO Reloj Analógico para Mujer de Cuar'
 ---
 
 Está [CASIO Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SHE-4052PG-4AUEF](https://www.amazon.es/dp/B07NFGKJWK/?tag=tolees-21) con 58.08 de descuento por 58.27 EUR (original: 139 EUR) en el siguiente enlace!

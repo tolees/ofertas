@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Deerupt Runner Zapatillas de Gimnasia Hombre  Gris  Grey One F17/Ftwr White/Ice Mint   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K148JST/?tag=tolees-21'
+descuento: '55.00'
+titulo: 'adidas Deerupt Runner Zapatillas de Gimn'
 ---
 
 Ahora mismo tienes [adidas Deerupt Runner Zapatillas de Gimnasia Hombre  Gris  Grey One F17/Ftwr White/Ice Mint   40 EU](https://www.amazon.es/dp/B07K148JST/?tag=tolees-21) a 44.98 EUR (original: 99.95 EUR) (55.00 %  de descuento) en el siguiente enlace!

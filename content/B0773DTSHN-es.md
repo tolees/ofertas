@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'AUTSCA Caja fuerte para llaves  Caja de seguridad Combinación de 4 dígitos 10000 combinaciones de diseño de contraseñas para las llaves seguridad.Es adecuada para el hogar  el garaje y la granja ect'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0773DTSHN/?tag=tolees-21'
+descuento: '36.68'
+titulo: 'AUTSCA Caja fuerte para llaves  Caja de '
 ---
 
 Ahora mismo tienes [AUTSCA Caja fuerte para llaves  Caja de seguridad Combinación de 4 dígitos 10000 combinaciones de diseño de contraseñas para las llaves seguridad.Es adecuada para el hogar  el garaje y la granja ect](https://www.amazon.es/dp/B0773DTSHN/?tag=tolees-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!

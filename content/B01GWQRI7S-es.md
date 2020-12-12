@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Watch Dogs 2 - San Francisco Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GWQRI7S/?tag=tolees-21'
+descuento: '52.57'
+titulo: 'Watch Dogs 2 - San Francisco Edition'
 ---
 
 Ahora mismo tienes [Watch Dogs 2 - San Francisco Edition](https://www.amazon.es/dp/B01GWQRI7S/?tag=tolees-21) a 56.91 EUR (original: 119.99 EUR) (52.57 %  de descuento) en el siguiente enlace!

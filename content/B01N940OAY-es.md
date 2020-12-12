@@ -17,6 +17,9 @@ comparePrice: 36 EUR
 inStock: true
 prodname: 'Pata Negra Apasionado D.O Jumilla Vino Tinto. 6 Botellas x 750 ml - Total: 4500ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N940OAY/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Pata Negra Apasionado D.O Jumilla Vino T'
 ---
 
 Ahora mismo tienes [Pata Negra Apasionado D.O Jumilla Vino Tinto. 6 Botellas x 750 ml - Total: 4500ml](https://www.amazon.es/dp/B01N940OAY/?tag=tolees-21) a 27 EUR (original: 36 EUR) (25.00 %  de descuento) en el siguiente enlace!

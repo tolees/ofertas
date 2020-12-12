@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Puma Amp XT Wn s  Zapatillas de Deporte para Mujer  Blanco White-Peacoat 02  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ3HYTS/?tag=tolees-21'
+descuento: '55.59'
+titulo: 'Puma Amp XT Wn s  Zapatillas de Deporte '
 ---
 
 Está [Puma Amp XT Wn s  Zapatillas de Deporte para Mujer  Blanco White-Peacoat 02  39 EU](https://www.amazon.es/dp/B07CZ3HYTS/?tag=tolees-21) con 55.59 de descuento por 35.52 EUR (original: 79.99 EUR) en el siguiente enlace!

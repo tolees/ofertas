@@ -17,6 +17,9 @@ comparePrice: 9.03 EUR
 inStock: true
 prodname: 'Karactermania Spider Bolsas con Cordón  43 cm  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007PUUUQ2/?tag=tolees-21'
+descuento: '50.72'
+titulo: 'Karactermania Spider Bolsas con Cordón  '
 ---
 
 Tienes [Karactermania Spider Bolsas con Cordón  43 cm  Azul](https://www.amazon.es/dp/B007PUUUQ2/?tag=tolees-21) con un 50.72 % de descuento con precio de oferta de 4.45 EUR (original: 9.03 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 319.43 EUR
 inStock: true
 prodname: 'Ballistix Sport LT BLS2C16G4D26BFSB/BLS2K16G4D26BFSB - Kit de Memoria RAM de 32GB  16GB x 2  DDR4  2666 MT/s  PC4-21300  Dual Rank x8  DIMM  288-Pin  gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XJ9P5DV/?tag=tolees-21'
+descuento: '59.30'
+titulo: 'Ballistix Sport LT BLS2C16G4D26BFSB/BLS2'
 ---
 
 Ahora mismo tienes [Ballistix Sport LT BLS2C16G4D26BFSB/BLS2K16G4D26BFSB - Kit de Memoria RAM de 32GB  16GB x 2  DDR4  2666 MT/s  PC4-21300  Dual Rank x8  DIMM  288-Pin  gris](https://www.amazon.es/dp/B06XJ9P5DV/?tag=tolees-21) a 130 EUR (original: 319.43 EUR) (59.30 %  de descuento) en el siguiente enlace!

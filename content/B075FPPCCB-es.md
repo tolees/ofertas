@@ -17,6 +17,9 @@ comparePrice: 19.98 EUR
 inStock: true
 prodname: 'Nightaste Ropa Interior Tanga de Algodón para Mujeres Paquete de 5 Piezas Tanga de Rayas de Colores  M  5 Color '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075FPPCCB/?tag=tolees-21'
+descuento: '44.99'
+titulo: 'Nightaste Ropa Interior Tanga de Algodón'
 ---
 
 Tienes [Nightaste Ropa Interior Tanga de Algodón para Mujeres Paquete de 5 Piezas Tanga de Rayas de Colores  M  5 Color ](https://www.amazon.es/dp/B075FPPCCB/?tag=tolees-21) con un 44.99 % de descuento con precio de oferta de 10.99 EUR (original: 19.98 EUR) en el siguiente enlace!

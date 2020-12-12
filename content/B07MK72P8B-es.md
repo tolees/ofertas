@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'AJOXEL Banda Reflectante 4 Luz Running Brazalete Reflectante con Elástica Alta Visibilidad Luz de Seguridad  Luces LED Intermitentes para Correr  Practicar Senderismo o Ciclismo  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MK72P8B/?tag=tolees-21'
+descuento: '60.02'
+titulo: 'AJOXEL Banda Reflectante 4 Luz Running B'
 ---
 
 Tienes [AJOXEL Banda Reflectante 4 Luz Running Brazalete Reflectante con Elástica Alta Visibilidad Luz de Seguridad  Luces LED Intermitentes para Correr  Practicar Senderismo o Ciclismo  Rojo ](https://www.amazon.es/dp/B07MK72P8B/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 11.99 EUR (original: 29.99 EUR) en el siguiente enlace!

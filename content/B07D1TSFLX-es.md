@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Classic Truk Camo 3-Pack Bañador   Sage/Imperial Blue/Dk Black A402   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1TSFLX/?tag=tolees-21'
+descuento: '46.31'
+titulo: 'G-STAR RAW Classic Truk Camo 3-Pack Baña'
 ---
 
 Ahora mismo tienes [G-STAR RAW Classic Truk Camo 3-Pack Bañador   Sage/Imperial Blue/Dk Black A402   X-Large para Hombre](https://www.amazon.es/dp/B07D1TSFLX/?tag=tolees-21) a 21.45 EUR (original: 39.95 EUR) (46.31 %  de descuento) en el siguiente enlace!

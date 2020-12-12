@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Tenaz Jr  Zapatillas de Deporte Interior Unisex Niños  Blanco White Black-Bleu Azur-Gum  31 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBZRDQC/?tag=tolees-21'
+descuento: '34.42'
+titulo: 'Puma Tenaz Jr  Zapatillas de Deporte Int'
 ---
 
 Está [Puma Tenaz Jr  Zapatillas de Deporte Interior Unisex Niños  Blanco White Black-Bleu Azur-Gum  31 EU](https://www.amazon.es/dp/B07DBZRDQC/?tag=tolees-21) con 34.42 de descuento por 26.2 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Ez Flex 3.0-Beautify  Bailarinas con Punta Cerrada para Mujer  Azul  Navy   35 EU  2 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076TVX8H9/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'Skechers Ez Flex 3.0-Beautify  Bailarina'
 ---
 
 Tienes [Skechers Ez Flex 3.0-Beautify  Bailarinas con Punta Cerrada para Mujer  Azul  Navy   35 EU  2 UK ](https://www.amazon.es/dp/B076TVX8H9/?tag=tolees-21) con un 50.04 % de descuento con precio de oferta de 29.95 EUR (original: 59.95 EUR) en el siguiente enlace!

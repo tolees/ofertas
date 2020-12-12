@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Woxter Big Bass 70 - Altavoces para PC  Mando de control de volumen  15 W de potencia  conexiones 3.5 mm  USB  óptimo para PC/ smartphones/ videoconsolas  color negro-azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DF4PA0W/?tag=tolees-21'
+descuento: '40.63'
+titulo: 'Woxter Big Bass 70 - Altavoces para PC  '
 ---
 
 Ahora mismo tienes [Woxter Big Bass 70 - Altavoces para PC  Mando de control de volumen  15 W de potencia  conexiones 3.5 mm  USB  óptimo para PC/ smartphones/ videoconsolas  color negro-azul](https://www.amazon.es/dp/B01DF4PA0W/?tag=tolees-21) a 8.9 EUR (original: 14.99 EUR) (40.63 %  de descuento) en el siguiente enlace!

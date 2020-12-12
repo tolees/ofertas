@@ -17,6 +17,9 @@ comparePrice: 134.3 EUR
 inStock: true
 prodname: 'Altec Lansing Phantom 2.1 - Altavoz PC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IVVLB7U/?tag=tolees-21'
+descuento: '38.24'
+titulo: 'Altec Lansing Phantom 2.1 - Altavoz PC'
 ---
 
 Ahora mismo tienes [Altec Lansing Phantom 2.1 - Altavoz PC](https://www.amazon.es/dp/B01IVVLB7U/?tag=tolees-21) a 82.94 EUR (original: 134.3 EUR) (38.24 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 6.46 EUR
 inStock: true
 prodname: 'Spaas 12 Velas Multiuso rústico Jengibre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GBWWMW7/?tag=tolees-21'
+descuento: '77.09'
+titulo: 'Spaas 12 Velas Multiuso rústico Jengibre'
 ---
 
 Ahora mismo tienes [Spaas 12 Velas Multiuso rústico Jengibre](https://www.amazon.es/dp/B07GBWWMW7/?tag=tolees-21) a 1.48 EUR (original: 6.46 EUR) (77.09 %  de descuento) en el siguiente enlace!

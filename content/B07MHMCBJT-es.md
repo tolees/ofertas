@@ -17,6 +17,9 @@ comparePrice: 25.2 EUR
 inStock: true
 prodname: 'Zeepin - Radio Despertador de Mesa  Radio FM Am con 2 despertadores y Gran Pantalla de luz Ajustable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MHMCBJT/?tag=tolees-21'
+descuento: '63.13'
+titulo: 'Zeepin - Radio Despertador de Mesa  Radi'
 ---
 
 Está [Zeepin - Radio Despertador de Mesa  Radio FM Am con 2 despertadores y Gran Pantalla de luz Ajustable](https://www.amazon.es/dp/B07MHMCBJT/?tag=tolees-21) con 63.13 de descuento por 9.29 EUR (original: 25.2 EUR) en el siguiente enlace!

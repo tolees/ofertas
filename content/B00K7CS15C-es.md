@@ -17,6 +17,9 @@ comparePrice: 33.01 EUR
 inStock: true
 prodname: 'Color Life Set Taza De Cafe con Plato 6 Piezas Vintage Multicolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00K7CS15C/?tag=tolees-21'
+descuento: '34.84'
+titulo: 'Color Life Set Taza De Cafe con Plato 6 '
 ---
 
 Está [Color Life Set Taza De Cafe con Plato 6 Piezas Vintage Multicolor](https://www.amazon.es/dp/B00K7CS15C/?tag=tolees-21) con 34.84 de descuento por 21.51 EUR (original: 33.01 EUR) en el siguiente enlace!

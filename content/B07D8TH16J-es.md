@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Selvedge Knit Scarf  Bufanda para Hombre  Negro  Black 002   única  Talla del Fabricante: OS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8TH16J/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Tommy Hilfiger Selvedge Knit Scarf  Bufa'
 ---
 
 Está [Tommy Hilfiger Selvedge Knit Scarf  Bufanda para Hombre  Negro  Black 002   única  Talla del Fabricante: OS ](https://www.amazon.es/dp/B07D8TH16J/?tag=tolees-21) con 50.00 de descuento por 34.95 EUR (original: 69.9 EUR) en el siguiente enlace!

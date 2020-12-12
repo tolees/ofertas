@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Woxter Stinger Station Rx Black - Silla Gaming  Eje de acero Levantamiento  Gas Pistón clase 4  reposapiés extensible apoyabrazos ergonómicos inclinación hasta 170º ruedas silenciosas antiarañazos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07166QGTP/?tag=tolees-21'
+descuento: '27.24'
+titulo: 'Woxter Stinger Station Rx Black - Silla '
 ---
 
 Ahora mismo tienes [Woxter Stinger Station Rx Black - Silla Gaming  Eje de acero Levantamiento  Gas Pistón clase 4  reposapiés extensible apoyabrazos ergonómicos inclinación hasta 170º ruedas silenciosas antiarañazos](https://www.amazon.es/dp/B07166QGTP/?tag=tolees-21) a 144.79 EUR (original: 199 EUR) (27.24 %  de descuento) en el siguiente enlace!

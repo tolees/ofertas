@@ -17,6 +17,9 @@ comparePrice: 90.29 EUR
 inStock: true
 prodname: 'Moschino So Real Cheap & Chic Agua de Colonia - 100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075XFWBXQ/?tag=tolees-21'
+descuento: '74.32'
+titulo: 'Moschino So Real Cheap & Chic Agua de Co'
 ---
 
 Tienes [Moschino So Real Cheap & Chic Agua de Colonia - 100 ml](https://www.amazon.es/dp/B075XFWBXQ/?tag=tolees-21) con un 74.32 % de descuento con precio de oferta de 23.19 EUR (original: 90.29 EUR) en el siguiente enlace!

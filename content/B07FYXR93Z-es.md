@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Supra Vaider  Zapatillas Altas para Hombre  Gris  Demitasse/Olive Night-Whi 229   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYXR93Z/?tag=tolees-21'
+descuento: '85.62'
+titulo: 'Supra Vaider  Zapatillas Altas para Homb'
 ---
 
 Está [Supra Vaider  Zapatillas Altas para Hombre  Gris  Demitasse/Olive Night-Whi 229   42.5 EU](https://www.amazon.es/dp/B07FYXR93Z/?tag=tolees-21) con 85.62 de descuento por 15.8 EUR (original: 109.9 EUR) en el siguiente enlace!

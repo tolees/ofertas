@@ -17,6 +17,9 @@ comparePrice: 40.9 EUR
 inStock: true
 prodname: 'BRA Advanced Sartén  24 cm  aluminio fundido con antiadherente  sin PFOA  súper reforzado de rendimiento superior y alta resistencia a los arañazos y a la abrasión  apta para Inducción'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078XY4ZPM/?tag=tolees-21'
+descuento: '41.34'
+titulo: 'BRA Advanced Sartén  24 cm  aluminio fun'
 ---
 
 Está [BRA Advanced Sartén  24 cm  aluminio fundido con antiadherente  sin PFOA  súper reforzado de rendimiento superior y alta resistencia a los arañazos y a la abrasión  apta para Inducción](https://www.amazon.es/dp/B078XY4ZPM/?tag=tolees-21) con 41.34 de descuento por 23.99 EUR (original: 40.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Fiona Vestido   Multi 0Aa   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NCBD2WT/?tag=tolees-21'
+descuento: '44.28'
+titulo: 'Pepe Jeans Fiona Vestido   Multi 0Aa   M'
 ---
 
 Tienes [Pepe Jeans Fiona Vestido   Multi 0Aa   Medium para Mujer](https://www.amazon.es/dp/B07NCBD2WT/?tag=tolees-21) con un 44.28 % de descuento con precio de oferta de 38.95 EUR (original: 69.9 EUR) en el siguiente enlace!

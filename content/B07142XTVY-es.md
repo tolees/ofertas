@@ -17,6 +17,9 @@ comparePrice: 19.6 EUR
 inStock: true
 prodname: 'Inside 4SFC31& Camiseta  Negro  Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07142XTVY/?tag=tolees-21'
+descuento: '66.33'
+titulo: 'Inside 4SFC31& Camiseta  Negro  Medium  '
 ---
 
 Ahora mismo tienes [Inside 4SFC31& Camiseta  Negro  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07142XTVY/?tag=tolees-21) a 6.6 EUR (original: 19.6 EUR) (66.33 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 12.91 EUR
 inStock: true
 prodname: 'Bellota M 3-1200 Mango de Madera'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00F2NW2BU/?tag=tolees-21'
+descuento: '35.79'
+titulo: 'Bellota M 3-1200 Mango de Madera'
 ---
 
 Está [Bellota M 3-1200 Mango de Madera](https://www.amazon.es/dp/B00F2NW2BU/?tag=tolees-21) con 35.79 de descuento por 8.29 EUR (original: 12.91 EUR) en el siguiente enlace!

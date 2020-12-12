@@ -17,6 +17,9 @@ comparePrice: 37.2 EUR
 inStock: true
 prodname: 'Head Radical 25 Raqueta de Tenis  Infantil  Naranja/Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0758CQKSP/?tag=tolees-21'
+descuento: '41.59'
+titulo: 'Head Radical 25 Raqueta de Tenis  Infant'
 ---
 
 Ahora mismo tienes [Head Radical 25 Raqueta de Tenis  Infantil  Naranja/Azul](https://www.amazon.es/dp/B0758CQKSP/?tag=tolees-21) a 21.73 EUR (original: 37.2 EUR) (41.59 %  de descuento) en el siguiente enlace!

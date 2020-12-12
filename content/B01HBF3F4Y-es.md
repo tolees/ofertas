@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'AUKEY Mini Powerbank 5000mAh  Bateria Externa para Movil iPhone  Samsung  Cargador Móvil Portátil  Batería Externa para iPhone  Xiaomi y Otros Smartphones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HBF3F4Y/?tag=tolees-21'
+descuento: '27.79'
+titulo: 'AUKEY Mini Powerbank 5000mAh  Bateria Ex'
 ---
 
 Ahora mismo tienes [AUKEY Mini Powerbank 5000mAh  Bateria Externa para Movil iPhone  Samsung  Cargador Móvil Portátil  Batería Externa para iPhone  Xiaomi y Otros Smartphones](https://www.amazon.es/dp/B01HBF3F4Y/?tag=tolees-21) a 12.99 EUR (original: 17.99 EUR) (27.79 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Skechers OG 95-Morrowson  Zapatillas de Entrenamiento para Hombre  Negro  Black   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MUI0KTH/?tag=tolees-21'
+descuento: '53.25'
+titulo: 'Skechers OG 95-Morrowson  Zapatillas de '
 ---
 
 Está [Skechers OG 95-Morrowson  Zapatillas de Entrenamiento para Hombre  Negro  Black   43 EU](https://www.amazon.es/dp/B01MUI0KTH/?tag=tolees-21) con 53.25 de descuento por 37.38 EUR (original: 79.95 EUR) en el siguiente enlace!

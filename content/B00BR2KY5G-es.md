@@ -17,6 +17,9 @@ comparePrice: 26.18 EUR
 inStock: true
 prodname: 'Iron Maiden Hi Contrast Trooper  Camiseta Manga Corta para Hombre  Negro Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BR2KY5G/?tag=tolees-21'
+descuento: '30.79'
+titulo: 'Iron Maiden Hi Contrast Trooper  Camiset'
 ---
 
 Está [Iron Maiden Hi Contrast Trooper  Camiseta Manga Corta para Hombre  Negro Small](https://www.amazon.es/dp/B00BR2KY5G/?tag=tolees-21) con 30.79 de descuento por 18.12 EUR (original: 26.18 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Springfield 7.T.Ap. Chaqueta Doble Faz  Gama Azules 19    Tamaño del Fabricante:36  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLD7KTP/?tag=tolees-21'
+descuento: '71.50'
+titulo: 'Springfield 7.T.Ap. Chaqueta Doble Faz  '
 ---
 
 Ahora mismo tienes [Springfield 7.T.Ap. Chaqueta Doble Faz  Gama Azules 19    Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B07DLD7KTP/?tag=tolees-21) a 17.1 EUR (original: 59.99 EUR) (71.50 %  de descuento) en el siguiente enlace!

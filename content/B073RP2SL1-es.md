@@ -17,6 +17,9 @@ comparePrice: 220 EUR
 inStock: true
 prodname: 'Helly Hansen W Pier Jacket  Mujer  Alert Red  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RP2SL1/?tag=tolees-21'
+descuento: '57.38'
+titulo: 'Helly Hansen W Pier Jacket  Mujer  Alert'
 ---
 
 Está [Helly Hansen W Pier Jacket  Mujer  Alert Red  L](https://www.amazon.es/dp/B073RP2SL1/?tag=tolees-21) con 57.38 de descuento por 93.77 EUR (original: 220 EUR) en el siguiente enlace!

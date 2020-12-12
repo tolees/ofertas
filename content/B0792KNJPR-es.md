@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Quiksilver - Short Chino - Niños 8-16 - Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792KNJPR/?tag=tolees-21'
+descuento: '67.77'
+titulo: 'Quiksilver - Short Chino - Niños 8-16 - '
 ---
 
 Tienes [Quiksilver - Short Chino - Niños 8-16 - Azul](https://www.amazon.es/dp/B0792KNJPR/?tag=tolees-21) con un 67.77 % de descuento con precio de oferta de 11.6 EUR (original: 35.99 EUR) en el siguiente enlace!

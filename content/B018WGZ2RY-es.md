@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'Merrell Moab Fst Ice+ Thermo  Botas de Nieve para Hombre  Negro Black  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018WGZ2RY/?tag=tolees-21'
+descuento: '69.52'
+titulo: 'Merrell Moab Fst Ice+ Thermo  Botas de N'
 ---
 
 Ahora mismo tienes [Merrell Moab Fst Ice+ Thermo  Botas de Nieve para Hombre  Negro Black  44.5 EU](https://www.amazon.es/dp/B018WGZ2RY/?tag=tolees-21) a 54.86 EUR (original: 180 EUR) (69.52 %  de descuento) en el siguiente enlace!

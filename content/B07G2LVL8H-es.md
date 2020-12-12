@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'adidas Predator Tango 18.3 In  Zapatillas de Fútbol para Hombre  Negro Schwarz/Weiß/Rot  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G2LVL8H/?tag=tolees-21'
+descuento: '48.22'
+titulo: 'adidas Predator Tango 18.3 In  Zapatilla'
 ---
 
 Ahora mismo tienes [adidas Predator Tango 18.3 In  Zapatillas de Fútbol para Hombre  Negro Schwarz/Weiß/Rot  40 EU](https://www.amazon.es/dp/B07G2LVL8H/?tag=tolees-21) a 46.58 EUR (original: 89.95 EUR) (48.22 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 23.95 EUR
 inStock: true
 prodname: 'Cressi Rondinella Aletas  Unisex  Amarillo  33-34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000NRL03Q/?tag=tolees-21'
+descuento: '48.02'
+titulo: 'Cressi Rondinella Aletas  Unisex  Amaril'
 ---
 
 Tienes [Cressi Rondinella Aletas  Unisex  Amarillo  33-34](https://www.amazon.es/dp/B000NRL03Q/?tag=tolees-21) con un 48.02 % de descuento con precio de oferta de 12.45 EUR (original: 23.95 EUR) en el siguiente enlace!

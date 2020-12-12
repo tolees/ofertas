@@ -17,6 +17,9 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'Philips bombilla LED Vela E14  5.5 W equivalentes a 40 W en incandescencia  luz blanca cálida'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01129WQXQ/?tag=tolees-21'
+descuento: '33.67'
+titulo: 'Philips bombilla LED Vela E14  5.5 W equ'
 ---
 
 Está [Philips bombilla LED Vela E14  5.5 W equivalentes a 40 W en incandescencia  luz blanca cálida](https://www.amazon.es/dp/B01129WQXQ/?tag=tolees-21) con 33.67 de descuento por 5.3 EUR (original: 7.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Tri Amelia  Zapatillas para Mujer  Rosa  Light Pink Combi-   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSQ23VF/?tag=tolees-21'
+descuento: '67.41'
+titulo: 'Clarks Tri Amelia  Zapatillas para Mujer'
 ---
 
 Tienes [Clarks Tri Amelia  Zapatillas para Mujer  Rosa  Light Pink Combi-   41.5 EU](https://www.amazon.es/dp/B07FSQ23VF/?tag=tolees-21) con un 67.41 % de descuento con precio de oferta de 32.57 EUR (original: 99.95 EUR) en el siguiente enlace!

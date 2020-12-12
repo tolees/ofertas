@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slhslim-Leon 6131 D.Blue St Jeans W Noos Vaqueros Slim  Azul  Dark Blue Denim   W34/L32  Talla del Fabricante: 34  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1TXN6D/?tag=tolees-21'
+descuento: '70.62'
+titulo: 'SELECTED HOMME Slhslim-Leon 6131 D.Blue '
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhslim-Leon 6131 D.Blue St Jeans W Noos Vaqueros Slim  Azul  Dark Blue Denim   W34/L32  Talla del Fabricante: 34  para Hombre](https://www.amazon.es/dp/B07D1TXN6D/?tag=tolees-21) a 26.44 EUR (original: 89.99 EUR) (70.62 %  de descuento) en el siguiente enlace!

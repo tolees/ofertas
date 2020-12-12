@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'BOSS Tracksuit Pants Pantalones de Deporte  Azul  Dark Blue 403   W40  Talla del Fabricante: Medium  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4CYCNX/?tag=tolees-21'
+descuento: '48.36'
+titulo: 'BOSS Tracksuit Pants Pantalones de Depor'
 ---
 
 Ahora mismo tienes [BOSS Tracksuit Pants Pantalones de Deporte  Azul  Dark Blue 403   W40  Talla del Fabricante: Medium  para Hombre](https://www.amazon.es/dp/B07G4CYCNX/?tag=tolees-21) a 46.45 EUR (original: 89.95 EUR) (48.36 %  de descuento) en el siguiente enlace!

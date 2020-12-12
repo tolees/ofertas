@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Gant 3-Pack Trunk Seasonal Solid  Bóxer Hombre  Negro  Black 5   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H18FB6N/?tag=tolees-21'
+descuento: '46.24'
+titulo: 'Gant 3-Pack Trunk Seasonal Solid  Bóxer '
 ---
 
 Está [Gant 3-Pack Trunk Seasonal Solid  Bóxer Hombre  Negro  Black 5   X-Large](https://www.amazon.es/dp/B07H18FB6N/?tag=tolees-21) con 46.24 de descuento por 24.19 EUR (original: 45 EUR) en el siguiente enlace!

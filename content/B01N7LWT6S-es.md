@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance 300  Zapatillas para Mujer  Blanco  White   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7LWT6S/?tag=tolees-21'
+descuento: '45.45'
+titulo: 'New Balance 300  Zapatillas para Mujer  '
 ---
 
 Ahora mismo tienes [New Balance 300  Zapatillas para Mujer  Blanco  White   41.5 EU](https://www.amazon.es/dp/B01N7LWT6S/?tag=tolees-21) a 60 EUR (original: 110 EUR) (45.45 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Timex Reloj de Pulsera T5K838'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TYMMRLU/?tag=tolees-21'
+descuento: '36.68'
+titulo: 'Timex Reloj de Pulsera T5K838'
 ---
 
 Tienes [Timex Reloj de Pulsera T5K838](https://www.amazon.es/dp/B00TYMMRLU/?tag=tolees-21) con un 36.68 % de descuento con precio de oferta de 37.36 EUR (original: 59 EUR) en el siguiente enlace!

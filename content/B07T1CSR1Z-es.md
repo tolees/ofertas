@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Funda Huawei Enjoy 6s/P9 Lite Smart/Nova Smart  Carcasa Silicona Purpurina Diseño 3D Transparente Brillante Arena movediza TPU Teléfono Caja Funda Cover para Móvil Huawei Honor 6C  F '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07T1CSR1Z/?tag=tolees-21'
+descuento: '80.08'
+titulo: 'Funda Huawei Enjoy 6s/P9 Lite Smart/Nova'
 ---
 
 Tienes [Funda Huawei Enjoy 6s/P9 Lite Smart/Nova Smart  Carcasa Silicona Purpurina Diseño 3D Transparente Brillante Arena movediza TPU Teléfono Caja Funda Cover para Móvil Huawei Honor 6C  F ](https://www.amazon.es/dp/B07T1CSR1Z/?tag=tolees-21) con un 80.08 % de descuento con precio de oferta de 1.99 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Wrangler Cable Crew Neck  Chaqueta Punto para Mujer   Parisian Night To   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LPN7LQ/?tag=tolees-21'
+descuento: '78.27'
+titulo: 'Wrangler Cable Crew Neck  Chaqueta Punto'
 ---
 
 Está [Wrangler Cable Crew Neck  Chaqueta Punto para Mujer   Parisian Night To   Medium](https://www.amazon.es/dp/B072LPN7LQ/?tag=tolees-21) con 78.27 de descuento por 15.2 EUR (original: 69.95 EUR) en el siguiente enlace!

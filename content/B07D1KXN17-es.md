@@ -17,6 +17,9 @@ comparePrice: 6.95 EUR
 inStock: true
 prodname: 'Pop! Keychain Deadpool - Llavero Bathtime Deadpool'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1KXN17/?tag=tolees-21'
+descuento: '36.83'
+titulo: 'Pop! Keychain Deadpool - Llavero Bathtim'
 ---
 
 Está [Pop! Keychain Deadpool - Llavero Bathtime Deadpool](https://www.amazon.es/dp/B07D1KXN17/?tag=tolees-21) con 36.83 de descuento por 4.39 EUR (original: 6.95 EUR) en el siguiente enlace!

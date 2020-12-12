@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour Charged Rogue  Zapatillas de Running para Hombre  Azul  Academy/Mod Gray/White 401   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTL9DD9/?tag=tolees-21'
+descuento: '61.26'
+titulo: 'Under Armour Charged Rogue  Zapatillas d'
 ---
 
 Está [Under Armour Charged Rogue  Zapatillas de Running para Hombre  Azul  Academy/Mod Gray/White 401   40.5 EU](https://www.amazon.es/dp/B07CTL9DD9/?tag=tolees-21) con 61.26 de descuento por 30.99 EUR (original: 80 EUR) en el siguiente enlace!

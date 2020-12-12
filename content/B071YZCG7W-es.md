@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Under Armour UA Sway  Zapatillas de Running para Hombre  Negro  Black/White   45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071YZCG7W/?tag=tolees-21'
+descuento: '65.87'
+titulo: 'Under Armour UA Sway  Zapatillas de Runn'
 ---
 
 Tienes [Under Armour UA Sway  Zapatillas de Running para Hombre  Negro  Black/White   45.5 EU](https://www.amazon.es/dp/B071YZCG7W/?tag=tolees-21) con un 65.87 % de descuento con precio de oferta de 30.72 EUR (original: 90 EUR) en el siguiente enlace!

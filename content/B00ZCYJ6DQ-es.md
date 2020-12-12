@@ -17,6 +17,9 @@ comparePrice: 32 EUR
 inStock: true
 prodname: 'Saint Tropez  Regalo para el cuidado de la piel - 300 gr.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZCYJ6DQ/?tag=tolees-21'
+descuento: '52.09'
+titulo: 'Saint Tropez  Regalo para el cuidado de '
 ---
 
 Tienes [Saint Tropez  Regalo para el cuidado de la piel - 300 gr.](https://www.amazon.es/dp/B00ZCYJ6DQ/?tag=tolees-21) con un 52.09 % de descuento con precio de oferta de 15.33 EUR (original: 32 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 72.71 EUR
 inStock: true
 prodname: 'Faber-Castell 117538 - Estuche estudio con 36 ecolápices acuarelables  multicolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000UEDTUE/?tag=tolees-21'
+descuento: '50.12'
+titulo: 'Faber-Castell 117538 - Estuche estudio c'
 ---
 
 Tienes [Faber-Castell 117538 - Estuche estudio con 36 ecolápices acuarelables  multicolor](https://www.amazon.es/dp/B000UEDTUE/?tag=tolees-21) con un 50.12 % de descuento con precio de oferta de 36.27 EUR (original: 72.71 EUR) en el siguiente enlace!

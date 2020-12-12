@@ -17,6 +17,9 @@ comparePrice: 65.95 EUR
 inStock: true
 prodname: 'Marco Tozzi Premio 26248-31  Botas Militar para Mujer  Amarillo  Corn/Mocca 388   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D949VDF/?tag=tolees-21'
+descuento: '70.22'
+titulo: 'Marco Tozzi Premio 26248-31  Botas Milit'
 ---
 
 Ahora mismo tienes [Marco Tozzi Premio 26248-31  Botas Militar para Mujer  Amarillo  Corn/Mocca 388   39 EU](https://www.amazon.es/dp/B07D949VDF/?tag=tolees-21) a 19.64 EUR (original: 65.95 EUR) (70.22 %  de descuento) en el siguiente enlace!

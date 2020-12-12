@@ -17,6 +17,9 @@ comparePrice: 43.68 EUR
 inStock: true
 prodname: 'Lacor - 43016 - Cacerola Con Tapa De Cristal 16cm Inox - Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KDHS6LA/?tag=tolees-21'
+descuento: '68.77'
+titulo: 'Lacor - 43016 - Cacerola Con Tapa De Cri'
 ---
 
 Tienes [Lacor - 43016 - Cacerola Con Tapa De Cristal 16cm Inox - Blanco](https://www.amazon.es/dp/B00KDHS6LA/?tag=tolees-21) con un 68.77 % de descuento con precio de oferta de 13.64 EUR (original: 43.68 EUR) en el siguiente enlace!

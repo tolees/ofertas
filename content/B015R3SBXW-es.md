@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'NGS Roller Flow - Altavoces portátiles'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015R3SBXW/?tag=tolees-21'
+descuento: '44.90'
+titulo: 'NGS Roller Flow - Altavoces portátiles'
 ---
 
 Tienes [NGS Roller Flow - Altavoces portátiles](https://www.amazon.es/dp/B015R3SBXW/?tag=tolees-21) con un 44.90 % de descuento con precio de oferta de 27 EUR (original: 49 EUR) en el siguiente enlace!

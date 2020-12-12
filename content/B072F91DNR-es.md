@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'AmazonBasics - Maleta blanda con ruedas giratorias  66.5 cm  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072F91DNR/?tag=tolees-21'
+descuento: '26.75'
+titulo: 'AmazonBasics - Maleta blanda con ruedas '
 ---
 
 Está [AmazonBasics - Maleta blanda con ruedas giratorias  66.5 cm  Negro](https://www.amazon.es/dp/B072F91DNR/?tag=tolees-21) con 26.75 de descuento por 43.94 EUR (original: 59.99 EUR) en el siguiente enlace!

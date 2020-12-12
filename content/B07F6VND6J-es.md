@@ -17,6 +17,9 @@ comparePrice: 69.94 EUR
 inStock: true
 prodname: 'Nike FC Barcelona Breathe Stadium Jersey Short-Sleeve 3R Camiseta  Hombre   lt Atomic Pink/Silver   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F6VND6J/?tag=tolees-21'
+descuento: '41.45'
+titulo: 'Nike FC Barcelona Breathe Stadium Jersey'
 ---
 
 Está [Nike FC Barcelona Breathe Stadium Jersey Short-Sleeve 3R Camiseta  Hombre   lt Atomic Pink/Silver   S](https://www.amazon.es/dp/B07F6VND6J/?tag=tolees-21) con 41.45 de descuento por 40.95 EUR (original: 69.94 EUR) en el siguiente enlace!

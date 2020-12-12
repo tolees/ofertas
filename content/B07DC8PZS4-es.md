@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'LE COQ SPORTIF Alpha Inf Craft  Botas para Bebés  Beige  Dress Blue/Brown Sugar Bleu   27 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC8PZS4/?tag=tolees-21'
+descuento: '42.30'
+titulo: 'LE COQ SPORTIF Alpha Inf Craft  Botas pa'
 ---
 
 Está [LE COQ SPORTIF Alpha Inf Craft  Botas para Bebés  Beige  Dress Blue/Brown Sugar Bleu   27 EU](https://www.amazon.es/dp/B07DC8PZS4/?tag=tolees-21) con 42.30 de descuento por 28.85 EUR (original: 50 EUR) en el siguiente enlace!

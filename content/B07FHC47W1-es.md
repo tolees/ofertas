@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'For Time Pineapple  Bolsa de tela y de playa para Mujer  Rosa  1 x 38 x 58 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FHC47W1/?tag=tolees-21'
+descuento: '39.97'
+titulo: 'For Time Pineapple  Bolsa de tela y de p'
 ---
 
 Está [For Time Pineapple  Bolsa de tela y de playa para Mujer  Rosa  1 x 38 x 58 cm](https://www.amazon.es/dp/B07FHC47W1/?tag=tolees-21) con 39.97 de descuento por 12 EUR (original: 19.99 EUR) en el siguiente enlace!

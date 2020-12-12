@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Arishi  Zapatillas de Running para Hombre  Rojo  Dark Red   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XS9PZ7T/?tag=tolees-21'
+descuento: '49.65'
+titulo: 'New Balance Fresh Foam Arishi  Zapatilla'
 ---
 
 Está [New Balance Fresh Foam Arishi  Zapatillas de Running para Hombre  Rojo  Dark Red   41.5 EU](https://www.amazon.es/dp/B06XS9PZ7T/?tag=tolees-21) con 49.65 de descuento por 42.8 EUR (original: 85 EUR) en el siguiente enlace!

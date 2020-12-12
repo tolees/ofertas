@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'DC Shoes Tonik TX  Zapatillas de Skateboard para Niños  Gris  Grey/Black/Red Xskr   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FGHB42N/?tag=tolees-21'
+descuento: '67.38'
+titulo: 'DC Shoes Tonik TX  Zapatillas de Skatebo'
 ---
 
 Está [DC Shoes Tonik TX  Zapatillas de Skateboard para Niños  Gris  Grey/Black/Red Xskr   28 EU](https://www.amazon.es/dp/B07FGHB42N/?tag=tolees-21) con 67.38 de descuento por 16.31 EUR (original: 50 EUR) en el siguiente enlace!

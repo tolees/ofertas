@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Vbiger Mochila Senderismo 65L+5L Viajes Excursiones Acampadas Escalar Montaña  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QQBN8T4/?tag=tolees-21'
+descuento: '35.03'
+titulo: 'Vbiger Mochila Senderismo 65L+5L Viajes '
 ---
 
 Está [Vbiger Mochila Senderismo 65L+5L Viajes Excursiones Acampadas Escalar Montaña  Negro ](https://www.amazon.es/dp/B07QQBN8T4/?tag=tolees-21) con 35.03 de descuento por 51.98 EUR (original: 80 EUR) en el siguiente enlace!

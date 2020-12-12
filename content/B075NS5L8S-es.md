@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'GORE WEAR C3 Calcetines para ciclismo unisex  Talla: 41-43  Color: amarillo neón/negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075NS5L8S/?tag=tolees-21'
+descuento: '32.16'
+titulo: 'GORE WEAR C3 Calcetines para ciclismo un'
 ---
 
 Está [GORE WEAR C3 Calcetines para ciclismo unisex  Talla: 41-43  Color: amarillo neón/negro](https://www.amazon.es/dp/B075NS5L8S/?tag=tolees-21) con 32.16 de descuento por 10.82 EUR (original: 15.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma Future 19.4 IT  Zapatillas de Deporte Interior para Hombre  Negro Black White  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCD1ZTH/?tag=tolees-21'
+descuento: '47.04'
+titulo: 'Puma Future 19.4 IT  Zapatillas de Depor'
 ---
 
 Ahora mismo tienes [Puma Future 19.4 IT  Zapatillas de Deporte Interior para Hombre  Negro Black White  44.5 EU](https://www.amazon.es/dp/B07DCD1ZTH/?tag=tolees-21) a 29.1 EUR (original: 54.95 EUR) (47.04 %  de descuento) en el siguiente enlace!

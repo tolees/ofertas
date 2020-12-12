@@ -17,6 +17,9 @@ comparePrice: 13.77 EUR
 inStock: true
 prodname: 'ReNu Multiplus Solución única - 360 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019IHQP9A/?tag=tolees-21'
+descuento: '42.99'
+titulo: 'ReNu Multiplus Solución única - 360 ml'
 ---
 
 Está [ReNu Multiplus Solución única - 360 ml](https://www.amazon.es/dp/B019IHQP9A/?tag=tolees-21) con 42.99 de descuento por 7.85 EUR (original: 13.77 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'adidas Solar Drive M  Zapatillas de Deporte para Hombre  Negro Negbás/Roalre 0  41 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5KVHTN/?tag=tolees-21'
+descuento: '39.97'
+titulo: 'adidas Solar Drive M  Zapatillas de Depo'
 ---
 
 Tienes [adidas Solar Drive M  Zapatillas de Deporte para Hombre  Negro Negbás/Roalre 0  41 1/3 EU](https://www.amazon.es/dp/B07D5KVHTN/?tag=tolees-21) con un 39.97 % de descuento con precio de oferta de 72 EUR (original: 119.95 EUR) en el siguiente enlace!

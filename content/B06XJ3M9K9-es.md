@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Joma Bali II Polo  Hombre  Blanco  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XJ3M9K9/?tag=tolees-21'
+descuento: '55.94'
+titulo: 'Joma Bali II Polo  Hombre  Blanco  XL'
 ---
 
 Tienes [Joma Bali II Polo  Hombre  Blanco  XL](https://www.amazon.es/dp/B06XJ3M9K9/?tag=tolees-21) con un 55.94 % de descuento con precio de oferta de 8.79 EUR (original: 19.95 EUR) en el siguiente enlace!

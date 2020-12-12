@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'ENKARL Guantes para uso al aire libre  Guantes térmicos de hombre para invierno aptos para pantallas táctiles con muñeca ajustable y con gel de silicón antideslizante  Gris oscuro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H4JDFCT/?tag=tolees-21'
+descuento: '65.41'
+titulo: 'ENKARL Guantes para uso al aire libre  G'
 ---
 
 Ahora mismo tienes [ENKARL Guantes para uso al aire libre  Guantes térmicos de hombre para invierno aptos para pantallas táctiles con muñeca ajustable y con gel de silicón antideslizante  Gris oscuro ](https://www.amazon.es/dp/B07H4JDFCT/?tag=tolees-21) a 8.99 EUR (original: 25.99 EUR) (65.41 %  de descuento) en el siguiente enlace!

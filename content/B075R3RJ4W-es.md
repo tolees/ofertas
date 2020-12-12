@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance 005  Zapatillas de Running para Hombre  Gris  Team Away Grey/White Yd   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R3RJ4W/?tag=tolees-21'
+descuento: '65.54'
+titulo: 'New Balance 005  Zapatillas de Running p'
 ---
 
 Está [New Balance 005  Zapatillas de Running para Hombre  Gris  Team Away Grey/White Yd   38 EU](https://www.amazon.es/dp/B075R3RJ4W/?tag=tolees-21) con 65.54 de descuento por 24.12 EUR (original: 70 EUR) en el siguiente enlace!

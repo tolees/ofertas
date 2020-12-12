@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'The Pokémon Company - Caja metálica Poder Elemental - Español  POTB1901 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NRC9LWF/?tag=tolees-21'
+descuento: '37.12'
+titulo: 'The Pokémon Company - Caja metálica Pode'
 ---
 
 Está [The Pokémon Company - Caja metálica Poder Elemental - Español  POTB1901 ](https://www.amazon.es/dp/B07NRC9LWF/?tag=tolees-21) con 37.12 de descuento por 12.57 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance 574S v2  Zapatillas para Mujer  Negro Teal Black  37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ7HMQJ/?tag=tolees-21'
+descuento: '67.26'
+titulo: 'New Balance 574S v2  Zapatillas para Muj'
 ---
 
 Ahora mismo tienes [New Balance 574S v2  Zapatillas para Mujer  Negro Teal Black  37.5 EU](https://www.amazon.es/dp/B07DJ7HMQJ/?tag=tolees-21) a 32.74 EUR (original: 100 EUR) (67.26 %  de descuento) en el siguiente enlace!

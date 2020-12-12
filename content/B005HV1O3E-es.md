@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Diesel Loverdose Eau de Parfum - 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005HV1O3E/?tag=tolees-21'
+descuento: '26.78'
+titulo: 'Diesel Loverdose Eau de Parfum - 50 ml'
 ---
 
 Tienes [Diesel Loverdose Eau de Parfum - 50 ml](https://www.amazon.es/dp/B005HV1O3E/?tag=tolees-21) con un 26.78 % de descuento con precio de oferta de 43.2 EUR (original: 59 EUR) en el siguiente enlace!

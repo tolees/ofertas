@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Puma Digital Touch PU911211002 - Reloj Infantil con Pantalla Digital'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013K0MDKQ/?tag=tolees-21'
+descuento: '60.96'
+titulo: 'Puma Digital Touch PU911211002 - Reloj I'
 ---
 
 Está [Puma Digital Touch PU911211002 - Reloj Infantil con Pantalla Digital](https://www.amazon.es/dp/B013K0MDKQ/?tag=tolees-21) con 60.96 de descuento por 37.09 EUR (original: 95 EUR) en el siguiente enlace!

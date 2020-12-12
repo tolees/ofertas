@@ -17,6 +17,9 @@ comparePrice: 189 EUR
 inStock: true
 prodname: 'Alice s Garden - Pareja de 2 tumbonas de Aluminio Gris y textileno Violeta - Louisa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXBZ6MJ/?tag=tolees-21'
+descuento: '31.22'
+titulo: 'Alice s Garden - Pareja de 2 tumbonas de'
 ---
 
 Está [Alice s Garden - Pareja de 2 tumbonas de Aluminio Gris y textileno Violeta - Louisa](https://www.amazon.es/dp/B01MXBZ6MJ/?tag=tolees-21) con 31.22 de descuento por 129.99 EUR (original: 189 EUR) en el siguiente enlace!

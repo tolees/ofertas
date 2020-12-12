@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'SUNUV Lámpara Secador de Uñas  24W LED UV Gel Esmalte de Uñas Curado Luz Máquina  Con Sensor Automático y Pantalla LCD Para Manicura Pedicure Nail Art'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MQJHSF6/?tag=tolees-21'
+descuento: '68.01'
+titulo: 'SUNUV Lámpara Secador de Uñas  24W LED U'
 ---
 
 Está [SUNUV Lámpara Secador de Uñas  24W LED UV Gel Esmalte de Uñas Curado Luz Máquina  Con Sensor Automático y Pantalla LCD Para Manicura Pedicure Nail Art](https://www.amazon.es/dp/B07MQJHSF6/?tag=tolees-21) con 68.01 de descuento por 15.99 EUR (original: 49.99 EUR) en el siguiente enlace!

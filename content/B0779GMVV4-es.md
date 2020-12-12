@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Vans Era 59  Zapatillas Unisex Adulto  Gris  Suiting   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0779GMVV4/?tag=tolees-21'
+descuento: '39.25'
+titulo: 'Vans Era 59  Zapatillas Unisex Adulto  G'
 ---
 
 Tienes [Vans Era 59  Zapatillas Unisex Adulto  Gris  Suiting   41 EU](https://www.amazon.es/dp/B0779GMVV4/?tag=tolees-21) con un 39.25 % de descuento con precio de oferta de 48.6 EUR (original: 80 EUR) en el siguiente enlace!

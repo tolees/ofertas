@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Esprit 028ee1k043 Camisa Manga Larga  Naranja  Salmon 860   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077S14CRW/?tag=tolees-21'
+descuento: '65.45'
+titulo: 'Esprit 028ee1k043 Camisa Manga Larga  Na'
 ---
 
 Está [Esprit 028ee1k043 Camisa Manga Larga  Naranja  Salmon 860   Medium para Mujer](https://www.amazon.es/dp/B077S14CRW/?tag=tolees-21) con 65.45 de descuento por 8.98 EUR (original: 25.99 EUR) en el siguiente enlace!

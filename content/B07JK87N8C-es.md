@@ -17,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'Audew Alcoholímetro Digital Portátil con Pantalla LCD Tecnología de Sensor Semi-Conductor con 5 Boquillas Desechables'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JK87N8C/?tag=tolees-21'
+descuento: '37.52'
+titulo: 'Audew Alcoholímetro Digital Portátil con'
 ---
 
 Tienes [Audew Alcoholímetro Digital Portátil con Pantalla LCD Tecnología de Sensor Semi-Conductor con 5 Boquillas Desechables](https://www.amazon.es/dp/B07JK87N8C/?tag=tolees-21) con un 37.52 % de descuento con precio de oferta de 14.99 EUR (original: 23.99 EUR) en el siguiente enlace!

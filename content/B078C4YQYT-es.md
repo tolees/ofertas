@@ -17,6 +17,9 @@ comparePrice: 259.99 EUR
 inStock: true
 prodname: 'UDIRC Drone VR con Cámara Profesional 720P HD  Drone RC  Función de Suspensión de Altitud  Modo sin Cabeza  Alarma de Fuera de Rango de Vuelo  Monitor de Pantalla FPV LCD 5.8Ghz'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078C4YQYT/?tag=tolees-21'
+descuento: '53.85'
+titulo: 'UDIRC Drone VR con Cámara Profesional 72'
 ---
 
 Está [UDIRC Drone VR con Cámara Profesional 720P HD  Drone RC  Función de Suspensión de Altitud  Modo sin Cabeza  Alarma de Fuera de Rango de Vuelo  Monitor de Pantalla FPV LCD 5.8Ghz](https://www.amazon.es/dp/B078C4YQYT/?tag=tolees-21) con 53.85 de descuento por 119.99 EUR (original: 259.99 EUR) en el siguiente enlace!

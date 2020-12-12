@@ -17,6 +17,9 @@ comparePrice: 10.19 EUR
 inStock: true
 prodname: 'Jil Sander Sport for Women Gel de ducha - 150 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001FWXHPC/?tag=tolees-21'
+descuento: '59.27'
+titulo: 'Jil Sander Sport for Women Gel de ducha '
 ---
 
 Está [Jil Sander Sport for Women Gel de ducha - 150 ml](https://www.amazon.es/dp/B001FWXHPC/?tag=tolees-21) con 59.27 de descuento por 4.15 EUR (original: 10.19 EUR) en el siguiente enlace!

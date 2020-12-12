@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Esprit 018ee1f003  Blusa Mujer  Azul  Navy 400   42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0765CX9SY/?tag=tolees-21'
+descuento: '62.52'
+titulo: 'Esprit 018ee1f003  Blusa Mujer  Azul  Na'
 ---
 
 Tienes [Esprit 018ee1f003  Blusa Mujer  Azul  Navy 400   42](https://www.amazon.es/dp/B0765CX9SY/?tag=tolees-21) con un 62.52 % de descuento con precio de oferta de 14.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 264.99 EUR
 inStock: true
 prodname: 'Bosch Professional - Taladro percutor a batería GSB 12V-15  2 baterías x 2.0 Ah  12 V  en maletín L-BOXX '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ABO77XI/?tag=tolees-21'
+descuento: '46.07'
+titulo: 'Bosch Professional - Taladro percutor a '
 ---
 
 Ahora mismo tienes [Bosch Professional - Taladro percutor a batería GSB 12V-15  2 baterías x 2.0 Ah  12 V  en maletín L-BOXX ](https://www.amazon.es/dp/B00ABO77XI/?tag=tolees-21) a 142.9 EUR (original: 264.99 EUR) (46.07 %  de descuento) en el siguiente enlace!

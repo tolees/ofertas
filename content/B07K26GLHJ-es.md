@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Hurley M Phantom One & Only 18  BAÑADORES  Hombre  Black  33'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K26GLHJ/?tag=tolees-21'
+descuento: '49.00'
+titulo: 'Hurley M Phantom One & Only 18  BAÑADORE'
 ---
 
 Tienes [Hurley M Phantom One & Only 18  BAÑADORES  Hombre  Black  33](https://www.amazon.es/dp/B07K26GLHJ/?tag=tolees-21) con un 49.00 % de descuento con precio de oferta de 28.05 EUR (original: 55 EUR) en el siguiente enlace!

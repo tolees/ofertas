@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Reebok Trainfusion Nine 2.0  Zapatillas de Deporte para Hombre  Azul  Vital Blue/Ash Grey/White   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RJ7FJM/?tag=tolees-21'
+descuento: '47.87'
+titulo: 'Reebok Trainfusion Nine 2.0  Zapatillas '
 ---
 
 Ahora mismo tienes [Reebok Trainfusion Nine 2.0  Zapatillas de Deporte para Hombre  Azul  Vital Blue/Ash Grey/White   43 EU](https://www.amazon.es/dp/B073RJ7FJM/?tag=tolees-21) a 26.04 EUR (original: 49.95 EUR) (47.87 %  de descuento) en el siguiente enlace!

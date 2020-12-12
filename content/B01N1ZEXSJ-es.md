@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Puma BVB Local Temporada 2017/2018 Camiseta  Hombre  Amarillo  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1ZEXSJ/?tag=tolees-21'
+descuento: '56.44'
+titulo: 'Puma BVB Local Temporada 2017/2018 Camis'
 ---
 
 Ahora mismo tienes [Puma BVB Local Temporada 2017/2018 Camiseta  Hombre  Amarillo  XL](https://www.amazon.es/dp/B01N1ZEXSJ/?tag=tolees-21) a 37 EUR (original: 84.95 EUR) (56.44 %  de descuento) en el siguiente enlace!

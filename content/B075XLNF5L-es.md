@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Vongo v3  Zapatillas de Running para Hombre  Blanco  White/Petrol/Flame Wp3   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075XLNF5L/?tag=tolees-21'
+descuento: '60.17'
+titulo: 'New Balance Fresh Foam Vongo v3  Zapatil'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Vongo v3  Zapatillas de Running para Hombre  Blanco  White/Petrol/Flame Wp3   40 EU](https://www.amazon.es/dp/B075XLNF5L/?tag=tolees-21) a 59.74 EUR (original: 150 EUR) (60.17 %  de descuento) en el siguiente enlace!

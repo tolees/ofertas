@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Naf Naf Keng5 suéter  Marfil  Écru 333   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKHYZ6H/?tag=tolees-21'
+descuento: '47.30'
+titulo: 'Naf Naf Keng5 suéter  Marfil  Écru 333  '
 ---
 
 Está [Naf Naf Keng5 suéter  Marfil  Écru 333   Medium para Mujer](https://www.amazon.es/dp/B07KKHYZ6H/?tag=tolees-21) con 47.30 de descuento por 21.08 EUR (original: 40 EUR) en el siguiente enlace!

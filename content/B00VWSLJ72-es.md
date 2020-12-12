@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Kappa DENTON II TEX K Footwear Kids Botas unisex para niños  Azul  6744 navy/orange   talla 33'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VWSLJ72/?tag=tolees-21'
+descuento: '77.93'
+titulo: 'Kappa DENTON II TEX K Footwear Kids Bota'
 ---
 
 Tienes [Kappa DENTON II TEX K Footwear Kids Botas unisex para niños  Azul  6744 navy/orange   talla 33](https://www.amazon.es/dp/B00VWSLJ72/?tag=tolees-21) con un 77.93 % de descuento con precio de oferta de 12.13 EUR (original: 54.95 EUR) en el siguiente enlace!

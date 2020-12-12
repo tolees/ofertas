@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'edc by Esprit 038cc1k020  Camiseta para Mujer  Blanco  White 100  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HZK45M/?tag=tolees-21'
+descuento: '58.29'
+titulo: 'edc by Esprit 038cc1k020  Camiseta para '
 ---
 
 Tienes [edc by Esprit 038cc1k020  Camiseta para Mujer  Blanco  White 100  Large](https://www.amazon.es/dp/B078HZK45M/?tag=tolees-21) con un 58.29 % de descuento con precio de oferta de 10.84 EUR (original: 25.99 EUR) en el siguiente enlace!

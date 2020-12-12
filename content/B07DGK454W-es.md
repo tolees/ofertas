@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'DC Shoes Lynnfield  Zapatillas de Skateboard para Hombre  Negro  Black/Gum Bgm   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGK454W/?tag=tolees-21'
+descuento: '74.13'
+titulo: 'DC Shoes Lynnfield  Zapatillas de Skateb'
 ---
 
 Ahora mismo tienes [DC Shoes Lynnfield  Zapatillas de Skateboard para Hombre  Negro  Black/Gum Bgm   40 EU](https://www.amazon.es/dp/B07DGK454W/?tag=tolees-21) a 19.4 EUR (original: 75 EUR) (74.13 %  de descuento) en el siguiente enlace!

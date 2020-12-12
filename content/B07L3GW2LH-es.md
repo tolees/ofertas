@@ -17,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'AiHom Toalleros de Barra 550mm Autoadhesivo sin Taladro Inoxidable Fuerte Capacidad de Carga para Cuarto de baño'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3GW2LH/?tag=tolees-21'
+descuento: '40.55'
+titulo: 'AiHom Toalleros de Barra 550mm Autoadhes'
 ---
 
 Tienes [AiHom Toalleros de Barra 550mm Autoadhesivo sin Taladro Inoxidable Fuerte Capacidad de Carga para Cuarto de baño](https://www.amazon.es/dp/B07L3GW2LH/?tag=tolees-21) con un 40.55 % de descuento con precio de oferta de 21.99 EUR (original: 36.99 EUR) en el siguiente enlace!

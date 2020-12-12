@@ -17,6 +17,9 @@ comparePrice: 22.9 EUR
 inStock: true
 prodname: ''
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003ZYEN0G/?tag=tolees-21'
+descuento: '25.76'
+titulo: ''
 ---
 
 Tienes [](https://www.amazon.es/dp/B003ZYEN0G/?tag=tolees-21) con un 25.76 % de descuento con precio de oferta de 17 EUR (original: 22.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Under Armour Armour Mid Crossback Printed Bra Sujetador Deportivo  Mujer  Naranja  819   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0714D5VSJ/?tag=tolees-21'
+descuento: '59.50'
+titulo: 'Under Armour Armour Mid Crossback Printe'
 ---
 
 Ahora mismo tienes [Under Armour Armour Mid Crossback Printed Bra Sujetador Deportivo  Mujer  Naranja  819   S](https://www.amazon.es/dp/B0714D5VSJ/?tag=tolees-21) a 16.2 EUR (original: 40 EUR) (59.50 %  de descuento) en el siguiente enlace!

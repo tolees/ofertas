@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Kappa Trust 241981-1110  Zapatillas Unisex Adulto  Negro-Schwarz  1110 Black/White   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VUQ917Q/?tag=tolees-21'
+descuento: '49.06'
+titulo: 'Kappa Trust 241981-1110  Zapatillas Unis'
 ---
 
 Ahora mismo tienes [Kappa Trust 241981-1110  Zapatillas Unisex Adulto  Negro-Schwarz  1110 Black/White   42 EU](https://www.amazon.es/dp/B00VUQ917Q/?tag=tolees-21) a 20.35 EUR (original: 39.95 EUR) (49.06 %  de descuento) en el siguiente enlace!

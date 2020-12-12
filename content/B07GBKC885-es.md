@@ -17,6 +17,9 @@ comparePrice: 37.99 EUR
 inStock: true
 prodname: 'Charanga VESTUL Vestido  Bebé-Niñas  Gris Tejano 30   86  Tamaño del Fabricante:18-24 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GBKC885/?tag=tolees-21'
+descuento: '74.31'
+titulo: 'Charanga VESTUL Vestido  Bebé-Niñas  Gri'
 ---
 
 Está [Charanga VESTUL Vestido  Bebé-Niñas  Gris Tejano 30   86  Tamaño del Fabricante:18-24 ](https://www.amazon.es/dp/B07GBKC885/?tag=tolees-21) con 74.31 de descuento por 9.76 EUR (original: 37.99 EUR) en el siguiente enlace!

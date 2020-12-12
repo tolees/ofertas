@@ -17,6 +17,9 @@ comparePrice: 68.49 EUR
 inStock: true
 prodname: 'adidas X_PLR Snkrboot  Zapatillas para Hombre  Negro  Carbon/Core Black/Footwear White 0   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078TT72RN/?tag=tolees-21'
+descuento: '29.26'
+titulo: 'adidas X_PLR Snkrboot  Zapatillas para H'
 ---
 
 Tienes [adidas X_PLR Snkrboot  Zapatillas para Hombre  Negro  Carbon/Core Black/Footwear White 0   38 EU](https://www.amazon.es/dp/B078TT72RN/?tag=tolees-21) con un 29.26 % de descuento con precio de oferta de 48.45 EUR (original: 68.49 EUR) en el siguiente enlace!

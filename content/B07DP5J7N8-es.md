@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Burton Deringer Mascara  Mujer  Blanco  sr  / Rojo  Sonar   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DP5J7N8/?tag=tolees-21'
+descuento: '78.11'
+titulo: 'Burton Deringer Mascara  Mujer  Blanco  '
 ---
 
 Tienes [Burton Deringer Mascara  Mujer  Blanco  sr  / Rojo  Sonar   Talla Única](https://www.amazon.es/dp/B07DP5J7N8/?tag=tolees-21) con un 78.11 % de descuento con precio de oferta de 24.08 EUR (original: 110 EUR) en el siguiente enlace!

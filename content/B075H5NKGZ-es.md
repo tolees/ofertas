@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger New Chiara Str Pq Polo Ss  Polo Mujer  Rojo  Crimson / Classic White901   42  Talla fabricante: XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075H5NKGZ/?tag=tolees-21'
+descuento: '77.63'
+titulo: 'Tommy Hilfiger New Chiara Str Pq Polo Ss'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger New Chiara Str Pq Polo Ss  Polo Mujer  Rojo  Crimson / Classic White901   42  Talla fabricante: XL ](https://www.amazon.es/dp/B075H5NKGZ/?tag=tolees-21) a 13.4 EUR (original: 59.9 EUR) (77.63 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Wake Up Light  Despertador luz LED con Radio FM  6 Sonidos Naturales  7 Luces LED de Colores & Simulación de Amanecer / Atardecer para Casa  Dormitorio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J43VFKG/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'Wake Up Light  Despertador luz LED con R'
 ---
 
 Ahora mismo tienes [Wake Up Light  Despertador luz LED con Radio FM  6 Sonidos Naturales  7 Luces LED de Colores & Simulación de Amanecer / Atardecer para Casa  Dormitorio](https://www.amazon.es/dp/B07J43VFKG/?tag=tolees-21) a 27.99 EUR (original: 39.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

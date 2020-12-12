@@ -17,6 +17,9 @@ comparePrice: 60.18 EUR
 inStock: true
 prodname: '1776 Bourbon Whiskey 50% - 700 ml  1er Pack  1 x 700 ml '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00INRQ8NU/?tag=tolees-21'
+descuento: '36.91'
+titulo: '1776 Bourbon Whiskey 50% - 700 ml  1er P'
 ---
 
 Ahora mismo tienes [1776 Bourbon Whiskey 50% - 700 ml  1er Pack  1 x 700 ml ](https://www.amazon.es/dp/B00INRQ8NU/?tag=tolees-21) a 37.97 EUR (original: 60.18 EUR) (36.91 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Vans Classic Camiseta  Azul Claro  Heather-White HTB   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F3FQLT2/?tag=tolees-21'
+descuento: '60.09'
+titulo: 'Vans Classic Camiseta  Azul Claro  Heath'
 ---
 
 Tienes [Vans Classic Camiseta  Azul Claro  Heather-White HTB   Large para Hombre](https://www.amazon.es/dp/B07F3FQLT2/?tag=tolees-21) con un 60.09 % de descuento con precio de oferta de 13.97 EUR (original: 35 EUR) en el siguiente enlace!

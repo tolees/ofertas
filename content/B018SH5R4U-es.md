@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Reebok Royal Cl Jogger 2  Zapatillas de Running para Hombre  Negro  Black/White/Baseball Grey 0   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018SH5R4U/?tag=tolees-21'
+descuento: '29.12'
+titulo: 'Reebok Royal Cl Jogger 2  Zapatillas de '
 ---
 
 Tienes [Reebok Royal Cl Jogger 2  Zapatillas de Running para Hombre  Negro  Black/White/Baseball Grey 0   43 EU](https://www.amazon.es/dp/B018SH5R4U/?tag=tolees-21) con un 29.12 % de descuento con precio de oferta de 38.95 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 126 EUR
 inStock: true
 prodname: 'Oakley Frogskins Oo9013 9013B2 55 Mm Gafas de Sol  Multicolor  2 Unisex'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2Y2NCW/?tag=tolees-21'
+descuento: '39.19'
+titulo: 'Oakley Frogskins Oo9013 9013B2 55 Mm Gaf'
 ---
 
 Ahora mismo tienes [Oakley Frogskins Oo9013 9013B2 55 Mm Gafas de Sol  Multicolor  2 Unisex](https://www.amazon.es/dp/B01N2Y2NCW/?tag=tolees-21) a 76.62 EUR (original: 126 EUR) (39.19 %  de descuento) en el siguiente enlace!

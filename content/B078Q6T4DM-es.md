@@ -17,6 +17,9 @@ comparePrice: 52.99 EUR
 inStock: true
 prodname: 'YOOBE Hexagon Princess Castle Play Tienda de Interior para Regalo de niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078Q6T4DM/?tag=tolees-21'
+descuento: '33.97'
+titulo: 'YOOBE Hexagon Princess Castle Play Tiend'
 ---
 
 Está [YOOBE Hexagon Princess Castle Play Tienda de Interior para Regalo de niños](https://www.amazon.es/dp/B078Q6T4DM/?tag=tolees-21) con 33.97 de descuento por 34.99 EUR (original: 52.99 EUR) en el siguiente enlace!

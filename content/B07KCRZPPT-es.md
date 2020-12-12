@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Buff Biome Gorra Trucker  Mujer  Multi  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCRZPPT/?tag=tolees-21'
+descuento: '36.07'
+titulo: 'Buff Biome Gorra Trucker  Mujer  Multi  '
 ---
 
 Está [Buff Biome Gorra Trucker  Mujer  Multi  Talla única](https://www.amazon.es/dp/B07KCRZPPT/?tag=tolees-21) con 36.07 de descuento por 15.95 EUR (original: 24.95 EUR) en el siguiente enlace!

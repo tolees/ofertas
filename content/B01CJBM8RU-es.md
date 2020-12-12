@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'EasyToys Fetish Collection - Tapón de cola de perro - 37 cm - Hecho de silicona suave - Dogtail plug - Para Petplay'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CJBM8RU/?tag=tolees-21'
+descuento: '27.18'
+titulo: 'EasyToys Fetish Collection - Tapón de co'
 ---
 
 Tienes [EasyToys Fetish Collection - Tapón de cola de perro - 37 cm - Hecho de silicona suave - Dogtail plug - Para Petplay](https://www.amazon.es/dp/B01CJBM8RU/?tag=tolees-21) con un 27.18 % de descuento con precio de oferta de 21.81 EUR (original: 29.95 EUR) en el siguiente enlace!

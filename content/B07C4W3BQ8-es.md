@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Kelme Flamenco  Zapatillas de fútbol Sala para Hombre   Blanco Y Rojo 140   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C4W3BQ8/?tag=tolees-21'
+descuento: '42.49'
+titulo: 'Kelme Flamenco  Zapatillas de fútbol Sal'
 ---
 
 Está [Kelme Flamenco  Zapatillas de fútbol Sala para Hombre   Blanco Y Rojo 140   39 EU](https://www.amazon.es/dp/B07C4W3BQ8/?tag=tolees-21) con 42.49 de descuento por 37.35 EUR (original: 64.95 EUR) en el siguiente enlace!

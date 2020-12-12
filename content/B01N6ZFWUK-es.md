@@ -17,6 +17,9 @@ comparePrice: 141.43 EUR
 inStock: true
 prodname: 'Helly Hansen W Seraphina  Zapatillas de Atletismo para Mujer  Negro  Black   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6ZFWUK/?tag=tolees-21'
+descuento: '66.70'
+titulo: 'Helly Hansen W Seraphina  Zapatillas de '
 ---
 
 Está [Helly Hansen W Seraphina  Zapatillas de Atletismo para Mujer  Negro  Black   37 EU](https://www.amazon.es/dp/B01N6ZFWUK/?tag=tolees-21) con 66.70 de descuento por 47.1 EUR (original: 141.43 EUR) en el siguiente enlace!

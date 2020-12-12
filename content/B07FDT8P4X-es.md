@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: '428: Shibuya Scramble - Edición Estándar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FDT8P4X/?tag=tolees-21'
+descuento: '40.19'
+titulo: '428: Shibuya Scramble - Edición Estándar'
 ---
 
 Está [428: Shibuya Scramble - Edición Estándar](https://www.amazon.es/dp/B07FDT8P4X/?tag=tolees-21) con 40.19 de descuento por 29.9 EUR (original: 49.99 EUR) en el siguiente enlace!

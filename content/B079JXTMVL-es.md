@@ -17,6 +17,9 @@ comparePrice: 399 EUR
 inStock: true
 prodname: 'Napapijri Articage  Chaqueta  Azul  Medium Blue Bc4   Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079JXTMVL/?tag=tolees-21'
+descuento: '57.31'
+titulo: 'Napapijri Articage  Chaqueta  Azul  Medi'
 ---
 
 Está [Napapijri Articage  Chaqueta  Azul  Medium Blue Bc4   Mujer](https://www.amazon.es/dp/B079JXTMVL/?tag=tolees-21) con 57.31 de descuento por 170.32 EUR (original: 399 EUR) en el siguiente enlace!

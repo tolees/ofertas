@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorsuburban tee SS Crew Neck Camiseta  Negro  Black Fit:Slim   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ5J1KX/?tag=tolees-21'
+descuento: '70.05'
+titulo: 'JACK & JONES Jorsuburban tee SS Crew Nec'
 ---
 
 Está [JACK & JONES Jorsuburban tee SS Crew Neck Camiseta  Negro  Black Fit:Slim   Large para Hombre](https://www.amazon.es/dp/B07KZ5J1KX/?tag=tolees-21) con 70.05 de descuento por 4.49 EUR (original: 14.99 EUR) en el siguiente enlace!

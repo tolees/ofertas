@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'adidas Solar Glide M  Zapatillas de Deporte para Hombre  Blanco  Ftwbla/Negbás/Gritre 000   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5KHTF3/?tag=tolees-21'
+descuento: '34.26'
+titulo: 'adidas Solar Glide M  Zapatillas de Depo'
 ---
 
 Tienes [adidas Solar Glide M  Zapatillas de Deporte para Hombre  Blanco  Ftwbla/Negbás/Gritre 000   46 EU](https://www.amazon.es/dp/B07D5KHTF3/?tag=tolees-21) con un 34.26 % de descuento con precio de oferta de 92 EUR (original: 139.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Helly Hansen HH LIFA Active Light SS T-Shirt  Hombre  Olympian Blue  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2S3RDF/?tag=tolees-21'
+descuento: '40.17'
+titulo: 'Helly Hansen HH LIFA Active Light SS T-S'
 ---
 
 Tienes [Helly Hansen HH LIFA Active Light SS T-Shirt  Hombre  Olympian Blue  S](https://www.amazon.es/dp/B07F2S3RDF/?tag=tolees-21) con un 40.17 % de descuento con precio de oferta de 20.94 EUR (original: 35 EUR) en el siguiente enlace!

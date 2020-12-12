@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Tekken 7 - PlayStation 4 [Importación italiana]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H1ZINFK/?tag=tolees-21'
+descuento: '42.10'
+titulo: 'Tekken 7 - PlayStation 4 [Importación it'
 ---
 
 Ahora mismo tienes [Tekken 7 - PlayStation 4 [Importación italiana]](https://www.amazon.es/dp/B01H1ZINFK/?tag=tolees-21) a 40.53 EUR (original: 70 EUR) (42.10 %  de descuento) en el siguiente enlace!

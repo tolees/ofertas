@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Geox J Kilwi Boy I  Zapatillas para Niños  Navy/Red  34 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0747TWYRV/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Geox J Kilwi Boy I  Zapatillas para Niño'
 ---
 
 Tienes [Geox J Kilwi Boy I  Zapatillas para Niños  Navy/Red  34 EU](https://www.amazon.es/dp/B0747TWYRV/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 27.5 EUR (original: 55 EUR) en el siguiente enlace!

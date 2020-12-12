@@ -17,6 +17,9 @@ comparePrice: 168 EUR
 inStock: true
 prodname: 'Tablet Android Desbloqueado teléfono 3G con Ranuras para Tarjetas Dual Sim  7 Pulgadas Tablet PC Quad-Core  8GB de Almacenamiento  1024x600 IPS Pantalla táctil  cámara Dual  Bluetooth 4.0  Wi-Fi  GPS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GYF4K61/?tag=tolees-21'
+descuento: '64.30'
+titulo: 'Tablet Android Desbloqueado teléfono 3G '
 ---
 
 Tienes [Tablet Android Desbloqueado teléfono 3G con Ranuras para Tarjetas Dual Sim  7 Pulgadas Tablet PC Quad-Core  8GB de Almacenamiento  1024x600 IPS Pantalla táctil  cámara Dual  Bluetooth 4.0  Wi-Fi  GPS](https://www.amazon.es/dp/B07GYF4K61/?tag=tolees-21) con un 64.30 % de descuento con precio de oferta de 59.98 EUR (original: 168 EUR) en el siguiente enlace!

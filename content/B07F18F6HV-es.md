@@ -17,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'BILLABONG Barlow Trucker Chaqueta  Hombre  Negro  Vintage Black 3814   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F18F6HV/?tag=tolees-21'
+descuento: '29.43'
+titulo: 'BILLABONG Barlow Trucker Chaqueta  Hombr'
 ---
 
 Está [BILLABONG Barlow Trucker Chaqueta  Hombre  Negro  Vintage Black 3814   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07F18F6HV/?tag=tolees-21) con 29.43 de descuento por 95.27 EUR (original: 135 EUR) en el siguiente enlace!

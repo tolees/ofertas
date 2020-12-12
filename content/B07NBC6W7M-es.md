@@ -17,6 +17,9 @@ comparePrice: 61.95 EUR
 inStock: true
 prodname: 'Diesel P-boxie Shorts Pantalones Cortos  Negro  Black 900   única  Talla del Fabricante: Small  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NBC6W7M/?tag=tolees-21'
+descuento: '30.67'
+titulo: 'Diesel P-boxie Shorts Pantalones Cortos '
 ---
 
 Ahora mismo tienes [Diesel P-boxie Shorts Pantalones Cortos  Negro  Black 900   única  Talla del Fabricante: Small  para Hombre](https://www.amazon.es/dp/B07NBC6W7M/?tag=tolees-21) a 42.95 EUR (original: 61.95 EUR) (30.67 %  de descuento) en el siguiente enlace!

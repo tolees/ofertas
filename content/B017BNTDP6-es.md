@@ -17,6 +17,9 @@ comparePrice: 80.8 EUR
 inStock: true
 prodname: 'Runtastic Moment Fun - Monitor de actividad  Bluetooth  Runtastic Me app  batería de litio   correa de color índigo  importado '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017BNTDP6/?tag=tolees-21'
+descuento: '65.97'
+titulo: 'Runtastic Moment Fun - Monitor de activi'
 ---
 
 Ahora mismo tienes [Runtastic Moment Fun - Monitor de actividad  Bluetooth  Runtastic Me app  batería de litio   correa de color índigo  importado ](https://www.amazon.es/dp/B017BNTDP6/?tag=tolees-21) a 27.5 EUR (original: 80.8 EUR) (65.97 %  de descuento) en el siguiente enlace!

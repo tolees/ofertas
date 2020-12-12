@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'AEG Maxisense - Plancha grill para placas de inducción'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007PR3XLY/?tag=tolees-21'
+descuento: '50.97'
+titulo: 'AEG Maxisense - Plancha grill para placa'
 ---
 
 Está [AEG Maxisense - Plancha grill para placas de inducción](https://www.amazon.es/dp/B007PR3XLY/?tag=tolees-21) con 50.97 de descuento por 63.25 EUR (original: 129 EUR) en el siguiente enlace!

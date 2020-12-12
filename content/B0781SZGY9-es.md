@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Under Armour AF 1.5 Jogger Pantalones  Niños  Academy/White  YS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0781SZGY9/?tag=tolees-21'
+descuento: '67.51'
+titulo: 'Under Armour AF 1.5 Jogger Pantalones  N'
 ---
 
 Está [Under Armour AF 1.5 Jogger Pantalones  Niños  Academy/White  YS](https://www.amazon.es/dp/B0781SZGY9/?tag=tolees-21) con 67.51 de descuento por 14.62 EUR (original: 45 EUR) en el siguiente enlace!

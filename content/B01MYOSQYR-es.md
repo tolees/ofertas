@@ -17,6 +17,9 @@ comparePrice: 7.95 EUR
 inStock: true
 prodname: 'L Oreal Paris Colorista Coloración Permanente Colorista Paint - Blueblack'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYOSQYR/?tag=tolees-21'
+descuento: '87.42'
+titulo: 'L Oreal Paris Colorista Coloración Perma'
 ---
 
 Está [L Oreal Paris Colorista Coloración Permanente Colorista Paint - Blueblack](https://www.amazon.es/dp/B01MYOSQYR/?tag=tolees-21) con 87.42 de descuento por 1 EUR (original: 7.95 EUR) en el siguiente enlace!

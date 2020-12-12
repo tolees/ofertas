@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour Magnetic Select TF Men s Soccer Shoes  Zapatillas de Fútbol para Hombre  Rojo Radio Red/Black 600  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHBCJHR/?tag=tolees-21'
+descuento: '57.33'
+titulo: 'Under Armour Magnetic Select TF Men s So'
 ---
 
 Está [Under Armour Magnetic Select TF Men s Soccer Shoes  Zapatillas de Fútbol para Hombre  Rojo Radio Red/Black 600  44 EU](https://www.amazon.es/dp/B07BHBCJHR/?tag=tolees-21) con 57.33 de descuento por 34.14 EUR (original: 80 EUR) en el siguiente enlace!

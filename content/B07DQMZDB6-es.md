@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Bleacher Creatures Europe Seleccion De GEA 2018 Peluche 25cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQMZDB6/?tag=tolees-21'
+descuento: '40.08'
+titulo: 'Bleacher Creatures Europe Seleccion De G'
 ---
 
 Está [Bleacher Creatures Europe Seleccion De GEA 2018 Peluche 25cm](https://www.amazon.es/dp/B07DQMZDB6/?tag=tolees-21) con 40.08 de descuento por 14.95 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'CamelBak 1115404000 - Packs y bolsas de hidratación   47 x 27 x 23 cm  color azul eléctrico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L8JEGE2/?tag=tolees-21'
+descuento: '30.85'
+titulo: 'CamelBak 1115404000 - Packs y bolsas de '
 ---
 
 Ahora mismo tienes [CamelBak 1115404000 - Packs y bolsas de hidratación   47 x 27 x 23 cm  color azul eléctrico](https://www.amazon.es/dp/B01L8JEGE2/?tag=tolees-21) a 82.95 EUR (original: 119.95 EUR) (30.85 %  de descuento) en el siguiente enlace!

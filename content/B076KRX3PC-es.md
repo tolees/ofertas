@@ -17,6 +17,9 @@ comparePrice: 1999 EUR
 inStock: true
 prodname: 'Medion Erazer X7851 - MD 60706 - Ordenador portátil de 17.3" FHD  Intel Core i7-7700HQ  16 GB de RAM  HDD de 1 TB y SSD de 256 GB  NVIDIA GeForce GTX 1060  Windows 10   negro - teclado QWERTY Español'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076KRX3PC/?tag=tolees-21'
+descuento: '45.47'
+titulo: 'Medion Erazer X7851 - MD 60706 - Ordenad'
 ---
 
 Está [Medion Erazer X7851 - MD 60706 - Ordenador portátil de 17.3" FHD  Intel Core i7-7700HQ  16 GB de RAM  HDD de 1 TB y SSD de 256 GB  NVIDIA GeForce GTX 1060  Windows 10   negro - teclado QWERTY Español](https://www.amazon.es/dp/B076KRX3PC/?tag=tolees-21) con 45.47 de descuento por 1090 EUR (original: 1999 EUR) en el siguiente enlace!

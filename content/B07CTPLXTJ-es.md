@@ -17,6 +17,9 @@ comparePrice: 24 EUR
 inStock: true
 prodname: 'Under Armour Atlanticdune T  Zapatos de Playa y Piscina para Hombre  Azul Honey Orange/Thunder 403  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTPLXTJ/?tag=tolees-21'
+descuento: '48.83'
+titulo: 'Under Armour Atlanticdune T  Zapatos de '
 ---
 
 Está [Under Armour Atlanticdune T  Zapatos de Playa y Piscina para Hombre  Azul Honey Orange/Thunder 403  45 EU](https://www.amazon.es/dp/B07CTPLXTJ/?tag=tolees-21) con 48.83 de descuento por 12.28 EUR (original: 24 EUR) en el siguiente enlace!

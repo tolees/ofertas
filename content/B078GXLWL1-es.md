@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Trucco TT20EI1 Vestido  Morado  Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GXLWL1/?tag=tolees-21'
+descuento: '76.91'
+titulo: 'Trucco TT20EI1 Vestido  Morado  Medium  '
 ---
 
 Está [Trucco TT20EI1 Vestido  Morado  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B078GXLWL1/?tag=tolees-21) con 76.91 de descuento por 13.84 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Hurley M One&Only Box 2.0 Pullover Sudaderas  Hombre  Obsidian  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCVVFLN/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'Hurley M One&Only Box 2.0 Pullover Sudad'
 ---
 
 Está [Hurley M One&Only Box 2.0 Pullover Sudaderas  Hombre  Obsidian  XXL](https://www.amazon.es/dp/B07KCVVFLN/?tag=tolees-21) con 40.02 de descuento por 29.99 EUR (original: 50 EUR) en el siguiente enlace!

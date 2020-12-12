@@ -17,6 +17,9 @@ comparePrice: 13.5 EUR
 inStock: true
 prodname: 'Nestlé Fitness Delice - Barritas de Cereales con chocolate negro - 6 cajas de 6 barritas de cereales  36 barritas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XC6QX6F/?tag=tolees-21'
+descuento: '30.67'
+titulo: 'Nestlé Fitness Delice - Barritas de Cere'
 ---
 
 Tienes [Nestlé Fitness Delice - Barritas de Cereales con chocolate negro - 6 cajas de 6 barritas de cereales  36 barritas ](https://www.amazon.es/dp/B06XC6QX6F/?tag=tolees-21) con un 30.67 % de descuento con precio de oferta de 9.36 EUR (original: 13.5 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Vans  Zapatillas Altas Unisex Adulto  Negro  Black/Black   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001EZXODK/?tag=tolees-21'
+descuento: '37.21'
+titulo: 'Vans  Zapatillas Altas Unisex Adulto  Ne'
 ---
 
 Está [Vans  Zapatillas Altas Unisex Adulto  Negro  Black/Black   38 EU](https://www.amazon.es/dp/B001EZXODK/?tag=tolees-21) con 37.21 de descuento por 53.37 EUR (original: 85 EUR) en el siguiente enlace!

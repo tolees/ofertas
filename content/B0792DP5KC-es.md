@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Reebok Workout Clean Ultk  Zapatillas de Gimnasia Unisex Adulto  Marrón Burnt Slennawhite  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792DP5KC/?tag=tolees-21'
+descuento: '80.18'
+titulo: 'Reebok Workout Clean Ultk  Zapatillas de'
 ---
 
 Ahora mismo tienes [Reebok Workout Clean Ultk  Zapatillas de Gimnasia Unisex Adulto  Marrón Burnt Slennawhite  39 EU](https://www.amazon.es/dp/B0792DP5KC/?tag=tolees-21) a 21.79 EUR (original: 109.95 EUR) (80.18 %  de descuento) en el siguiente enlace!

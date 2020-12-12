@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Puma Mega NRGY Turbo  Zapatillas para Mujer  Negro  Black-White   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071L9XHYL/?tag=tolees-21'
+descuento: '65.23'
+titulo: 'Puma Mega NRGY Turbo  Zapatillas para Mu'
 ---
 
 Ahora mismo tienes [Puma Mega NRGY Turbo  Zapatillas para Mujer  Negro  Black-White   38 EU](https://www.amazon.es/dp/B071L9XHYL/?tag=tolees-21) a 26.06 EUR (original: 74.95 EUR) (65.23 %  de descuento) en el siguiente enlace!

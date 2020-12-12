@@ -17,6 +17,9 @@ comparePrice: 47 EUR
 inStock: true
 prodname: 'Asics Aaron GS - Zapatillas de Tiempo Libre y Sportwear para Hombre  Talla 40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00F1GQDLS/?tag=tolees-21'
+descuento: '40.43'
+titulo: 'Asics Aaron GS - Zapatillas de Tiempo Li'
 ---
 
 Está [Asics Aaron GS - Zapatillas de Tiempo Libre y Sportwear para Hombre  Talla 40](https://www.amazon.es/dp/B00F1GQDLS/?tag=tolees-21) con 40.43 de descuento por 28 EUR (original: 47 EUR) en el siguiente enlace!

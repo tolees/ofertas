@@ -17,6 +17,9 @@ comparePrice: 34 EUR
 inStock: true
 prodname: 'FIND Pantalón Vaquero Skinny Hombre  Negro  Black   W30/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0757ZBTL6/?tag=tolees-21'
+descuento: '40.68'
+titulo: 'FIND Pantalón Vaquero Skinny Hombre  Neg'
 ---
 
 Está [FIND Pantalón Vaquero Skinny Hombre  Negro  Black   W30/L30](https://www.amazon.es/dp/B0757ZBTL6/?tag=tolees-21) con 40.68 de descuento por 20.17 EUR (original: 34 EUR) en el siguiente enlace!

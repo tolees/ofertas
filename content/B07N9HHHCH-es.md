@@ -17,6 +17,9 @@ comparePrice: 169 EUR
 inStock: true
 prodname: 'Samsonite Spark SNG Maleta  Negro  Negro  - 115770/1041'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N9HHHCH/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Samsonite Spark SNG Maleta  Negro  Negro'
 ---
 
 Está [Samsonite Spark SNG Maleta  Negro  Negro  - 115770/1041](https://www.amazon.es/dp/B07N9HHHCH/?tag=tolees-21) con 30.00 de descuento por 118.3 EUR (original: 169 EUR) en el siguiente enlace!

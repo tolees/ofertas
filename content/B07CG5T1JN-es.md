@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Regent Vaqueros Slim  Azul  Denim CF5   26W / 32L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CG5T1JN/?tag=tolees-21'
+descuento: '48.35'
+titulo: 'Pepe Jeans Regent Vaqueros Slim  Azul  D'
 ---
 
 Está [Pepe Jeans Regent Vaqueros Slim  Azul  Denim CF5   26W / 32L para Mujer](https://www.amazon.es/dp/B07CG5T1JN/?tag=tolees-21) con 48.35 de descuento por 46.43 EUR (original: 89.9 EUR) en el siguiente enlace!

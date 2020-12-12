@@ -17,6 +17,9 @@ comparePrice: 95.99 EUR
 inStock: true
 prodname: 'Tidylife Freidora sin Aceite  3.5L Freidora de Aire con Control de Temperatura y Temporizador  AF-1834 Freidora con Libro de Cocina  1500W  Cesta Antiadherente  Apagado Automático  Libre de BPA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C73VZSL/?tag=tolees-21'
+descuento: '41.68'
+titulo: 'Tidylife Freidora sin Aceite  3.5L Freid'
 ---
 
 Ahora mismo tienes [Tidylife Freidora sin Aceite  3.5L Freidora de Aire con Control de Temperatura y Temporizador  AF-1834 Freidora con Libro de Cocina  1500W  Cesta Antiadherente  Apagado Automático  Libre de BPA](https://www.amazon.es/dp/B07C73VZSL/?tag=tolees-21) a 55.98 EUR (original: 95.99 EUR) (41.68 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 94.9 EUR
 inStock: true
 prodname: 'Tommy Hiliger O1285XLEY 7R  Botas Chelsea Hombre^Mujer  Decadent Chocolate/Noce  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FXYZIEU/?tag=tolees-21'
+descuento: '62.54'
+titulo: 'Tommy Hiliger O1285XLEY 7R  Botas Chelse'
 ---
 
 Está [Tommy Hiliger O1285XLEY 7R  Botas Chelsea Hombre^Mujer  Decadent Chocolate/Noce  41 EU](https://www.amazon.es/dp/B01FXYZIEU/?tag=tolees-21) con 62.54 de descuento por 35.55 EUR (original: 94.9 EUR) en el siguiente enlace!

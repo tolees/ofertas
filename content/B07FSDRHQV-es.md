@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Clarks Step Maro Wave  Zapatillas para Hombre  Rojo  Red Textile-   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSDRHQV/?tag=tolees-21'
+descuento: '56.71'
+titulo: 'Clarks Step Maro Wave  Zapatillas para H'
 ---
 
 Está [Clarks Step Maro Wave  Zapatillas para Hombre  Rojo  Red Textile-   41.5 EU](https://www.amazon.es/dp/B07FSDRHQV/?tag=tolees-21) con 56.71 de descuento por 30.28 EUR (original: 69.95 EUR) en el siguiente enlace!

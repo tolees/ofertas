@@ -17,6 +17,9 @@ comparePrice: 219 EUR
 inStock: true
 prodname: 'Toyota SUPERJ15 - Máquina de coser  65 W  15 programas  especial tejanos  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0065HGLNC/?tag=tolees-21'
+descuento: '39.31'
+titulo: 'Toyota SUPERJ15 - Máquina de coser  65 W'
 ---
 
 Ahora mismo tienes [Toyota SUPERJ15 - Máquina de coser  65 W  15 programas  especial tejanos  color negro](https://www.amazon.es/dp/B0065HGLNC/?tag=tolees-21) a 132.91 EUR (original: 219 EUR) (39.31 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.9 EUR
 inStock: true
 prodname: 'Sixty Seven 79786  Zapatos de tacón con Punta Cerrada para Mujer   Cachemir Negro C43572   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQ5QB85/?tag=tolees-21'
+descuento: '76.73'
+titulo: 'Sixty Seven 79786  Zapatos de tacón con '
 ---
 
 Está [Sixty Seven 79786  Zapatos de tacón con Punta Cerrada para Mujer   Cachemir Negro C43572   37 EU](https://www.amazon.es/dp/B07DQ5QB85/?tag=tolees-21) con 76.73 de descuento por 15.1 EUR (original: 64.9 EUR) en el siguiente enlace!

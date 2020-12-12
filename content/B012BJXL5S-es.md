@@ -17,6 +17,9 @@ comparePrice: 74.9 EUR
 inStock: true
 prodname: 'Impresora Multifuncional Canon PIXMA MG3650 Blanca Wifi de inyección de tinta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012BJXL5S/?tag=tolees-21'
+descuento: '33.78'
+titulo: 'Impresora Multifuncional Canon PIXMA MG3'
 ---
 
 Ahora mismo tienes [Impresora Multifuncional Canon PIXMA MG3650 Blanca Wifi de inyección de tinta](https://www.amazon.es/dp/B012BJXL5S/?tag=tolees-21) a 49.6 EUR (original: 74.9 EUR) (33.78 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Skechers Upgrades  Sandalias de Plataforma para Mujer  Dorado  Rose Gold   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076TG4Q5J/?tag=tolees-21'
+descuento: '29.93'
+titulo: 'Skechers Upgrades  Sandalias de Platafor'
 ---
 
 Está [Skechers Upgrades  Sandalias de Plataforma para Mujer  Dorado  Rose Gold   36 EU](https://www.amazon.es/dp/B076TG4Q5J/?tag=tolees-21) con 29.93 de descuento por 35 EUR (original: 49.95 EUR) en el siguiente enlace!

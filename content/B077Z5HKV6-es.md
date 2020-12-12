@@ -17,6 +17,9 @@ comparePrice: 16.95 EUR
 inStock: true
 prodname: 'HIKARO AMA HAYAND camisetas  Gris  Light Grey   40  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Z5HKV6/?tag=tolees-21'
+descuento: '47.67'
+titulo: 'HIKARO AMA HAYAND camisetas  Gris  Light'
 ---
 
 Está [HIKARO AMA HAYAND camisetas  Gris  Light Grey   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077Z5HKV6/?tag=tolees-21) con 47.67 de descuento por 8.87 EUR (original: 16.95 EUR) en el siguiente enlace!

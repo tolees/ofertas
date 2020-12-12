@@ -17,6 +17,9 @@ comparePrice: 851.99 EUR
 inStock: true
 prodname: 'Brother RJ-2140 - Impresora portátil 203 x 203 dpi  térmica Directa  6 IPS  152 mm/s '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MS4H6GJ/?tag=tolees-21'
+descuento: '44.60'
+titulo: 'Brother RJ-2140 - Impresora portátil 203'
 ---
 
 Ahora mismo tienes [Brother RJ-2140 - Impresora portátil 203 x 203 dpi  térmica Directa  6 IPS  152 mm/s ](https://www.amazon.es/dp/B01MS4H6GJ/?tag=tolees-21) a 472 EUR (original: 851.99 EUR) (44.60 %  de descuento) en el siguiente enlace!

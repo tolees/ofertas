@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Quiksilver Stomped On T-Shirt  Hombre  White  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJT9Q2T/?tag=tolees-21'
+descuento: '38.82'
+titulo: 'Quiksilver Stomped On T-Shirt  Hombre  W'
 ---
 
 Tienes [Quiksilver Stomped On T-Shirt  Hombre  White  XL](https://www.amazon.es/dp/B07KJT9Q2T/?tag=tolees-21) con un 38.82 % de descuento con precio de oferta de 15.9 EUR (original: 25.99 EUR) en el siguiente enlace!

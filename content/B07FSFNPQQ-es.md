@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Clarks Step Maro Sol  Zapatillas para Hombre  Gris  Grey-   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSFNPQQ/?tag=tolees-21'
+descuento: '54.35'
+titulo: 'Clarks Step Maro Sol  Zapatillas para Ho'
 ---
 
 Está [Clarks Step Maro Sol  Zapatillas para Hombre  Gris  Grey-   47 EU](https://www.amazon.es/dp/B07FSFNPQQ/?tag=tolees-21) con 54.35 de descuento por 31.93 EUR (original: 69.95 EUR) en el siguiente enlace!

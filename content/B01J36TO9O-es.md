@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'BaByliss F210E - Aparato de pedicura'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01J36TO9O/?tag=tolees-21'
+descuento: '74.96'
+titulo: 'BaByliss F210E - Aparato de pedicura'
 ---
 
 Está [BaByliss F210E - Aparato de pedicura](https://www.amazon.es/dp/B01J36TO9O/?tag=tolees-21) con 74.96 de descuento por 9.99 EUR (original: 39.9 EUR) en el siguiente enlace!

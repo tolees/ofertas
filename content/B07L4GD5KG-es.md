@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'iTrunk Paquete de 2 Bolsas de Cultivo de Papa  Bolsa de 7 galones para Plantas con Ventana de Velcro para visualizar y Asas  contenedor de macetas de Tela no Tejida Patata  Zanahoria  Tomate'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L4GD5KG/?tag=tolees-21'
+descuento: '59.28'
+titulo: 'iTrunk Paquete de 2 Bolsas de Cultivo de'
 ---
 
 Está [iTrunk Paquete de 2 Bolsas de Cultivo de Papa  Bolsa de 7 galones para Plantas con Ventana de Velcro para visualizar y Asas  contenedor de macetas de Tela no Tejida Patata  Zanahoria  Tomate](https://www.amazon.es/dp/B07L4GD5KG/?tag=tolees-21) con 59.28 de descuento por 10.99 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Real Fantasy Vibrador Consolador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BZVSX1H/?tag=tolees-21'
+descuento: '59.62'
+titulo: 'Real Fantasy Vibrador Consolador'
 ---
 
 Ahora mismo tienes [Real Fantasy Vibrador Consolador](https://www.amazon.es/dp/B07BZVSX1H/?tag=tolees-21) a 20.17 EUR (original: 49.95 EUR) (59.62 %  de descuento) en el siguiente enlace!

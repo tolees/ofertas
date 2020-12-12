@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 41rd004  Botas Militar para Hombre  Negro  Schwarz 100   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJBNYVC/?tag=tolees-21'
+descuento: '64.35'
+titulo: 'Dockers by Gerli 41rd004  Botas Militar '
 ---
 
 Está [Dockers by Gerli 41rd004  Botas Militar para Hombre  Negro  Schwarz 100   42 EU](https://www.amazon.es/dp/B07DJBNYVC/?tag=tolees-21) con 64.35 de descuento por 28.5 EUR (original: 79.95 EUR) en el siguiente enlace!

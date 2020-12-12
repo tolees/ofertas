@@ -17,6 +17,9 @@ comparePrice: 60.99 EUR
 inStock: true
 prodname: 'Philips BodyGroom TT2039/32 - Afeitadora corporal inalámbrica  con cabezal de recorte y de afeitado  50 min de uso/8 h de carga  negro y naranja'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007JI7VUS/?tag=tolees-21'
+descuento: '42.61'
+titulo: 'Philips BodyGroom TT2039/32 - Afeitadora'
 ---
 
 Ahora mismo tienes [Philips BodyGroom TT2039/32 - Afeitadora corporal inalámbrica  con cabezal de recorte y de afeitado  50 min de uso/8 h de carga  negro y naranja](https://www.amazon.es/dp/B007JI7VUS/?tag=tolees-21) a 35 EUR (original: 60.99 EUR) (42.61 %  de descuento) en el siguiente enlace!

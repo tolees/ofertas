@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'MTNG 84056  Zapatillas para Hombre  Marrón  Pila Osaka Cuero C45541   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MN8X1MN/?tag=tolees-21'
+descuento: '30.73'
+titulo: 'MTNG 84056  Zapatillas para Hombre  Marr'
 ---
 
 Está [MTNG 84056  Zapatillas para Hombre  Marrón  Pila Osaka Cuero C45541   42 EU](https://www.amazon.es/dp/B07MN8X1MN/?tag=tolees-21) con 30.73 de descuento por 27.7 EUR (original: 39.99 EUR) en el siguiente enlace!

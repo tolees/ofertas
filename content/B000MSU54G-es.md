@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Birkenstock Madrid - Mules Hombre  Negro  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000MSU54G/?tag=tolees-21'
+descuento: '65.22'
+titulo: 'Birkenstock Madrid - Mules Hombre  Negro'
 ---
 
 Tienes [Birkenstock Madrid - Mules Hombre  Negro  43 EU](https://www.amazon.es/dp/B000MSU54G/?tag=tolees-21) con un 65.22 % de descuento con precio de oferta de 20.87 EUR (original: 60 EUR) en el siguiente enlace!

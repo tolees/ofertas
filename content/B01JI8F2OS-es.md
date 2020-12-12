@@ -17,6 +17,9 @@ comparePrice: 82.99 EUR
 inStock: true
 prodname: '5BILLION Anillos de Gimnasia de Madera-Anillos de Gimnasio Olímpico con Hebillas Ajustables Correas-Entrenamiento para Gimnasia en Casa  Levantamientos Musculares y Entrenamiento de Fuerza  32mm Dia '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JI8F2OS/?tag=tolees-21'
+descuento: '53.02'
+titulo: '5BILLION Anillos de Gimnasia de Madera-A'
 ---
 
 Ahora mismo tienes [5BILLION Anillos de Gimnasia de Madera-Anillos de Gimnasio Olímpico con Hebillas Ajustables Correas-Entrenamiento para Gimnasia en Casa  Levantamientos Musculares y Entrenamiento de Fuerza  32mm Dia ](https://www.amazon.es/dp/B01JI8F2OS/?tag=tolees-21) a 38.99 EUR (original: 82.99 EUR) (53.02 %  de descuento) en el siguiente enlace!

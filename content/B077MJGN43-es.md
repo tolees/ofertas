@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Nrgy Dynamo  Zapatillas de Cross para Hombre  Negro Black-Asphalt  47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MJGN43/?tag=tolees-21'
+descuento: '50.51'
+titulo: 'Puma Nrgy Dynamo  Zapatillas de Cross pa'
 ---
 
 Tienes [Puma Nrgy Dynamo  Zapatillas de Cross para Hombre  Negro Black-Asphalt  47 EU](https://www.amazon.es/dp/B077MJGN43/?tag=tolees-21) con un 50.51 % de descuento con precio de oferta de 29.67 EUR (original: 59.95 EUR) en el siguiente enlace!

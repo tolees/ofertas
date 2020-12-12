@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Pedro Del Hierro 5505933  Jersey para Mujer  Azul Marino  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BLMWTK4/?tag=tolees-21'
+descuento: '79.45'
+titulo: 'Pedro Del Hierro 5505933  Jersey para Mu'
 ---
 
 Ahora mismo tienes [Pedro Del Hierro 5505933  Jersey para Mujer  Azul Marino  L](https://www.amazon.es/dp/B01BLMWTK4/?tag=tolees-21) a 23.63 EUR (original: 115 EUR) (79.45 %  de descuento) en el siguiente enlace!

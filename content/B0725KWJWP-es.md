@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Evopower Vigor 4 Graphic It  Zapatillas de Fútbol para Hombre  Negro  Black-Silver-Fiery Coral   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0725KWJWP/?tag=tolees-21'
+descuento: '27.73'
+titulo: 'Puma Evopower Vigor 4 Graphic It  Zapati'
 ---
 
 Ahora mismo tienes [Puma Evopower Vigor 4 Graphic It  Zapatillas de Fútbol para Hombre  Negro  Black-Silver-Fiery Coral   44 EU](https://www.amazon.es/dp/B0725KWJWP/?tag=tolees-21) a 36.1 EUR (original: 49.95 EUR) (27.73 %  de descuento) en el siguiente enlace!

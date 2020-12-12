@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Rosegal Sudadera Mujer con Capucha y Cremallera Chaqueta Corta Casual y De Moda Sudadera Deportiva Lace Up Largas Mangas  Gris Oscuro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07968HXCN/?tag=tolees-21'
+descuento: '29.99'
+titulo: 'Rosegal Sudadera Mujer con Capucha y Cre'
 ---
 
 Tienes [Rosegal Sudadera Mujer con Capucha y Cremallera Chaqueta Corta Casual y De Moda Sudadera Deportiva Lace Up Largas Mangas  Gris Oscuro  L](https://www.amazon.es/dp/B07968HXCN/?tag=tolees-21) con un 29.99 % de descuento con precio de oferta de 35 EUR (original: 49.99 EUR) en el siguiente enlace!

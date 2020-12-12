@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Carro Portamangueras  para Mangueras de 1/2"  hasta 45M  Carro de Manguera Flexible  Ajusta la Altura del Mango（59CM-80CM）  Movimiento Flexible  Estructura Triangular  Plástico Duro - TACKLIFE GWRC2B'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHDZ2MT/?tag=tolees-21'
+descuento: '39.14'
+titulo: 'Carro Portamangueras  para Mangueras de '
 ---
 
 Tienes [Carro Portamangueras  para Mangueras de 1/2"  hasta 45M  Carro de Manguera Flexible  Ajusta la Altura del Mango（59CM-80CM）  Movimiento Flexible  Estructura Triangular  Plástico Duro - TACKLIFE GWRC2B](https://www.amazon.es/dp/B07DHDZ2MT/?tag=tolees-21) con un 39.14 % de descuento con precio de oferta de 27.99 EUR (original: 45.99 EUR) en el siguiente enlace!

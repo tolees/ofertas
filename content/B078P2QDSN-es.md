@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Nike JR Superfly 6 Academy GS TF  Zapatillas de fútbol Sala Unisex niño  Negro Black 001  35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078P2QDSN/?tag=tolees-21'
+descuento: '26.88'
+titulo: 'Nike JR Superfly 6 Academy GS TF  Zapati'
 ---
 
 Ahora mismo tienes [Nike JR Superfly 6 Academy GS TF  Zapatillas de fútbol Sala Unisex niño  Negro Black 001  35 EU](https://www.amazon.es/dp/B078P2QDSN/?tag=tolees-21) a 51.18 EUR (original: 69.99 EUR) (26.88 %  de descuento) en el siguiente enlace!

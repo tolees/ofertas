@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 5B Slim Wash Pv19  Pantalones para Hombre  Rojo  Gama Gales 88     Tamaño del Fabricante:30 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ26Z2M/?tag=tolees-21'
+descuento: '46.68'
+titulo: 'Springfield 5B Slim Wash Pv19  Pantalone'
 ---
 
 Ahora mismo tienes [Springfield 5B Slim Wash Pv19  Pantalones para Hombre  Rojo  Gama Gales 88     Tamaño del Fabricante:30 ](https://www.amazon.es/dp/B07KZ26Z2M/?tag=tolees-21) a 15.99 EUR (original: 29.99 EUR) (46.68 %  de descuento) en el siguiente enlace!

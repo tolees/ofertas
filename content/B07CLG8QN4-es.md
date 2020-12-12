@@ -17,6 +17,9 @@ comparePrice: 21 EUR
 inStock: true
 prodname: 'INTEY Centrifugadora Ensalada  Centrifugadora de Lechugas  Diseño Refinado para Hogar  Diámetro 23 5 cm sin Tapa   Capacidad de 5 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CLG8QN4/?tag=tolees-21'
+descuento: '28.62'
+titulo: 'INTEY Centrifugadora Ensalada  Centrifug'
 ---
 
 Está [INTEY Centrifugadora Ensalada  Centrifugadora de Lechugas  Diseño Refinado para Hogar  Diámetro 23 5 cm sin Tapa   Capacidad de 5 L](https://www.amazon.es/dp/B07CLG8QN4/?tag=tolees-21) con 28.62 de descuento por 14.99 EUR (original: 21 EUR) en el siguiente enlace!

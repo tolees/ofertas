@@ -17,6 +17,9 @@ comparePrice: 86.54 EUR
 inStock: true
 prodname: 'The North Face Litewave Fastpack Gore-Tex  Zapatillas de Senderismo para Mujer  Gris  Phantom Grey/Blue Stone 5ut   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB42QP6/?tag=tolees-21'
+descuento: '30.70'
+titulo: 'The North Face Litewave Fastpack Gore-Te'
 ---
 
 Está [The North Face Litewave Fastpack Gore-Tex  Zapatillas de Senderismo para Mujer  Gris  Phantom Grey/Blue Stone 5ut   38 EU](https://www.amazon.es/dp/B07BB42QP6/?tag=tolees-21) con 30.70 de descuento por 59.97 EUR (original: 86.54 EUR) en el siguiente enlace!

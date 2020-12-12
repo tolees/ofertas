@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma ESS Logo Pants  Mujer  Dark Gray Heather  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DDCDTW6/?tag=tolees-21'
+descuento: '26.81'
+titulo: 'Puma ESS Logo Pants  Mujer  Dark Gray He'
 ---
 
 Está [Puma ESS Logo Pants  Mujer  Dark Gray Heather  S](https://www.amazon.es/dp/B07DDCDTW6/?tag=tolees-21) con 26.81 de descuento por 21.92 EUR (original: 29.95 EUR) en el siguiente enlace!

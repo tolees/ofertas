@@ -17,6 +17,9 @@ comparePrice: 36 EUR
 inStock: true
 prodname: 'find. Phrl3000b Jersey Hombre Azul  Blue  50  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H9R8RWB/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'find. Phrl3000b Jersey Hombre Azul  Blue'
 ---
 
 Tienes [find. Phrl3000b Jersey Hombre Azul  Blue  50  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07H9R8RWB/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 25.2 EUR (original: 36 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Timberland Flyroam Leather Hiker  Zapatillas de Senderismo Unisex Niños  Azul  Navy Nubuck P01   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074Q69WGP/?tag=tolees-21'
+descuento: '38.46'
+titulo: 'Timberland Flyroam Leather Hiker  Zapati'
 ---
 
 Ahora mismo tienes [Timberland Flyroam Leather Hiker  Zapatillas de Senderismo Unisex Niños  Azul  Navy Nubuck P01   37 EU](https://www.amazon.es/dp/B074Q69WGP/?tag=tolees-21) a 49.23 EUR (original: 80 EUR) (38.46 %  de descuento) en el siguiente enlace!

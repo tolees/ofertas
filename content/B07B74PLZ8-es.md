@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Cruz v2 Deconstructed  Zapatillas de Running para Mujer  Negro  Black/Magnet/Nimbus Cloud Lb2   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B74PLZ8/?tag=tolees-21'
+descuento: '69.55'
+titulo: 'New Balance Fresh Foam Cruz v2 Deconstru'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Cruz v2 Deconstructed  Zapatillas de Running para Mujer  Negro  Black/Magnet/Nimbus Cloud Lb2   36.5 EU](https://www.amazon.es/dp/B07B74PLZ8/?tag=tolees-21) a 24.36 EUR (original: 80 EUR) (69.55 %  de descuento) en el siguiente enlace!

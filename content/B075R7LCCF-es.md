@@ -17,6 +17,9 @@ comparePrice: 59.94 EUR
 inStock: true
 prodname: 'New Balance Fuel Core Coast v4  Zapatillas para Hombre  Negro  Black/White Lb4   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R7LCCF/?tag=tolees-21'
+descuento: '50.12'
+titulo: 'New Balance Fuel Core Coast v4  Zapatill'
 ---
 
 Está [New Balance Fuel Core Coast v4  Zapatillas para Hombre  Negro  Black/White Lb4   40.5 EU](https://www.amazon.es/dp/B075R7LCCF/?tag=tolees-21) con 50.12 de descuento por 29.9 EUR (original: 59.94 EUR) en el siguiente enlace!

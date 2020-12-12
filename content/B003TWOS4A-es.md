@@ -17,6 +17,9 @@ comparePrice: 58.69 EUR
 inStock: true
 prodname: 'Bosch Professional - Disco de corte de diamante Best for Ceramic Extra-Clean Turbo  125 x 22.23 x 1.4 x 7 mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003TWOS4A/?tag=tolees-21'
+descuento: '76.52'
+titulo: 'Bosch Professional - Disco de corte de d'
 ---
 
 Está [Bosch Professional - Disco de corte de diamante Best for Ceramic Extra-Clean Turbo  125 x 22.23 x 1.4 x 7 mm](https://www.amazon.es/dp/B003TWOS4A/?tag=tolees-21) con 76.52 de descuento por 13.78 EUR (original: 58.69 EUR) en el siguiente enlace!

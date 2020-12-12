@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Nike Legend 7 Academy TF  Zapatillas de Fútbol Unisex Adulto  Negro  Black/Pure Platinum/Lt Crimson 006   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078FGJW6M/?tag=tolees-21'
+descuento: '45.46'
+titulo: 'Nike Legend 7 Academy TF  Zapatillas de '
 ---
 
 Tienes [Nike Legend 7 Academy TF  Zapatillas de Fútbol Unisex Adulto  Negro  Black/Pure Platinum/Lt Crimson 006   42 EU](https://www.amazon.es/dp/B078FGJW6M/?tag=tolees-21) con un 45.46 % de descuento con precio de oferta de 35.45 EUR (original: 65 EUR) en el siguiente enlace!

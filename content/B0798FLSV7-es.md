@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'G-Star RAW Strett Lace Up Zapatillas Mujer  Negro  Black   38 EU  5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0798FLSV7/?tag=tolees-21'
+descuento: '67.12'
+titulo: 'G-Star RAW Strett Lace Up Zapatillas Muj'
 ---
 
 Está [G-Star RAW Strett Lace Up Zapatillas Mujer  Negro  Black   38 EU  5 UK ](https://www.amazon.es/dp/B0798FLSV7/?tag=tolees-21) con 67.12 de descuento por 26.29 EUR (original: 79.95 EUR) en el siguiente enlace!

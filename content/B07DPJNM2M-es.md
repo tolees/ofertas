@@ -17,6 +17,9 @@ comparePrice: 216 EUR
 inStock: true
 prodname: 'Love Moschino - Borsa Pu  Bolsos totes Mujer  Negro  Nero   13x40x36 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPJNM2M/?tag=tolees-21'
+descuento: '64.66'
+titulo: 'Love Moschino - Borsa Pu  Bolsos totes M'
 ---
 
 Tienes [Love Moschino - Borsa Pu  Bolsos totes Mujer  Negro  Nero   13x40x36 cm  B x H T ](https://www.amazon.es/dp/B07DPJNM2M/?tag=tolees-21) con un 64.66 % de descuento con precio de oferta de 76.33 EUR (original: 216 EUR) en el siguiente enlace!

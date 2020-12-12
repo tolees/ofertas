@@ -17,6 +17,9 @@ comparePrice: 320.25 EUR
 inStock: true
 prodname: 'Invicta 26011 Marvel Reloj para Hombre acero inoxidable quarzo Esfera oro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JNJTYQ5/?tag=tolees-21'
+descuento: '28.57'
+titulo: 'Invicta 26011 Marvel Reloj para Hombre a'
 ---
 
 Tienes [Invicta 26011 Marvel Reloj para Hombre acero inoxidable quarzo Esfera oro](https://www.amazon.es/dp/B07JNJTYQ5/?tag=tolees-21) con un 28.57 % de descuento con precio de oferta de 228.77 EUR (original: 320.25 EUR) en el siguiente enlace!

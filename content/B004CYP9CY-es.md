@@ -17,6 +17,9 @@ comparePrice: 7.9 EUR
 inStock: true
 prodname: 'Speedo 8069201288 Manguitos  Unisex niños  Naranja  2-6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004CYP9CY/?tag=tolees-21'
+descuento: '36.08'
+titulo: 'Speedo 8069201288 Manguitos  Unisex niño'
 ---
 
 Está [Speedo 8069201288 Manguitos  Unisex niños  Naranja  2-6](https://www.amazon.es/dp/B004CYP9CY/?tag=tolees-21) con 36.08 de descuento por 5.05 EUR (original: 7.9 EUR) en el siguiente enlace!

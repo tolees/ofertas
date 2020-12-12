@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Under Armour UA Charged 24/7 Low Exp  Zapatillas de Entrenamiento para Hombre  Negro  Black 001   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XMQL13L/?tag=tolees-21'
+descuento: '48.85'
+titulo: 'Under Armour UA Charged 24/7 Low Exp  Za'
 ---
 
 Está [Under Armour UA Charged 24/7 Low Exp  Zapatillas de Entrenamiento para Hombre  Negro  Black 001   42 EU](https://www.amazon.es/dp/B06XMQL13L/?tag=tolees-21) con 48.85 de descuento por 51.15 EUR (original: 100 EUR) en el siguiente enlace!

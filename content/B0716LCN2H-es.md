@@ -17,6 +17,9 @@ comparePrice: 20.6 EUR
 inStock: true
 prodname: 'Disney Juego de 2 botellas de agua Mickey y Minnie Mouse mirando Tritan Hydro Flip Top Set  Blue Mickey Mouse & Red Minnie Mouse'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0716LCN2H/?tag=tolees-21'
+descuento: '49.03'
+titulo: 'Disney Juego de 2 botellas de agua Micke'
 ---
 
 Está [Disney Juego de 2 botellas de agua Mickey y Minnie Mouse mirando Tritan Hydro Flip Top Set  Blue Mickey Mouse & Red Minnie Mouse](https://www.amazon.es/dp/B0716LCN2H/?tag=tolees-21) con 49.03 de descuento por 10.5 EUR (original: 20.6 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 23.48 EUR
 inStock: true
 prodname: 'BRA PRIOR - Cazo  16 cm  aluminio fundido con antiadherente Teflon Classic  apto para todo tipo de cocinas incluida inducción y horno.Libre de PFOA.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UQOHV8O/?tag=tolees-21'
+descuento: '36.29'
+titulo: 'BRA PRIOR - Cazo  16 cm  aluminio fundid'
 ---
 
 Ahora mismo tienes [BRA PRIOR - Cazo  16 cm  aluminio fundido con antiadherente Teflon Classic  apto para todo tipo de cocinas incluida inducción y horno.Libre de PFOA.](https://www.amazon.es/dp/B00UQOHV8O/?tag=tolees-21) a 14.96 EUR (original: 23.48 EUR) (36.29 %  de descuento) en el siguiente enlace!

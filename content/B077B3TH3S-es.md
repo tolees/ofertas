@@ -17,6 +17,9 @@ comparePrice: 13.35 EUR
 inStock: true
 prodname: 'w  Toy 38295 – Balines Soffici Blister  30 Piezas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077B3TH3S/?tag=tolees-21'
+descuento: '72.21'
+titulo: 'w  Toy 38295 – Balines Soffici Blister  '
 ---
 
 Ahora mismo tienes [w  Toy 38295 – Balines Soffici Blister  30 Piezas](https://www.amazon.es/dp/B077B3TH3S/?tag=tolees-21) a 3.71 EUR (original: 13.35 EUR) (72.21 %  de descuento) en el siguiente enlace!

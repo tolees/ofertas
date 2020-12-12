@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Geox D Thymar E  Zapatillas para Mujer   Dk Grey/Black C0062   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792DV3GL/?tag=tolees-21'
+descuento: '70.73'
+titulo: 'Geox D Thymar E  Zapatillas para Mujer  '
 ---
 
 Tienes [Geox D Thymar E  Zapatillas para Mujer   Dk Grey/Black C0062   37 EU](https://www.amazon.es/dp/B0792DV3GL/?tag=tolees-21) con un 70.73 % de descuento con precio de oferta de 36.59 EUR (original: 125 EUR) en el siguiente enlace!

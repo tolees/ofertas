@@ -17,6 +17,9 @@ comparePrice: 46.11 EUR
 inStock: true
 prodname: 'Smartick 3D Album de Fotos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K7JWGPD/?tag=tolees-21'
+descuento: '37.13'
+titulo: 'Smartick 3D Album de Fotos'
 ---
 
 Ahora mismo tienes [Smartick 3D Album de Fotos](https://www.amazon.es/dp/B07K7JWGPD/?tag=tolees-21) a 28.99 EUR (original: 46.11 EUR) (37.13 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 27.13 EUR
 inStock: true
 prodname: 'mithos titanium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01D4WUJ6A/?tag=tolees-21'
+descuento: '50.24'
+titulo: 'mithos titanium'
 ---
 
 Ahora mismo tienes [mithos titanium](https://www.amazon.es/dp/B01D4WUJ6A/?tag=tolees-21) a 13.5 EUR (original: 27.13 EUR) (50.24 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 38.3 EUR
 inStock: true
 prodname: 'Fleshjack Consolador Hombre - 300 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007XHK69S/?tag=tolees-21'
+descuento: '41.15'
+titulo: 'Fleshjack Consolador Hombre - 300 gr'
 ---
 
 Está [Fleshjack Consolador Hombre - 300 gr](https://www.amazon.es/dp/B007XHK69S/?tag=tolees-21) con 41.15 de descuento por 22.54 EUR (original: 38.3 EUR) en el siguiente enlace!

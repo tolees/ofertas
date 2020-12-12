@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance - ML574ETB - ML574ETB - El Color: Azul Marino - Talla: 41.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFJB4MQ/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'New Balance - ML574ETB - ML574ETB - El C'
 ---
 
 Ahora mismo tienes [New Balance - ML574ETB - ML574ETB - El Color: Azul Marino - Talla: 41.5](https://www.amazon.es/dp/B07FFJB4MQ/?tag=tolees-21) a 63 EUR (original: 90 EUR) (30.00 %  de descuento) en el siguiente enlace!

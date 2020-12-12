@@ -17,6 +17,9 @@ comparePrice: 262.2 EUR
 inStock: true
 prodname: 'AJAX Kit de alarma AJHUBK - Kit antirrobo inalámbrico  GSM + Ethernet  hasta 100 dispositivos  compuesto de centralita  detector PIR  contacto magnético y mando a distancia -  blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2JDDWY/?tag=tolees-21'
+descuento: '29.37'
+titulo: 'AJAX Kit de alarma AJHUBK - Kit antirrob'
 ---
 
 Tienes [AJAX Kit de alarma AJHUBK - Kit antirrobo inalámbrico  GSM + Ethernet  hasta 100 dispositivos  compuesto de centralita  detector PIR  contacto magnético y mando a distancia -  blanco ](https://www.amazon.es/dp/B07H2JDDWY/?tag=tolees-21) con un 29.37 % de descuento con precio de oferta de 185.2 EUR (original: 262.2 EUR) en el siguiente enlace!

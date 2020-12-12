@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Columbia Fire Venture Low Waterproof  Zapatillas de Deporte Exterior para Mujer  Negro  Black  Burnt Henna 010Black  Burnt Henna 010   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0183LXMAW/?tag=tolees-21'
+descuento: '45.50'
+titulo: 'Columbia Fire Venture Low Waterproof  Za'
 ---
 
 Tienes [Columbia Fire Venture Low Waterproof  Zapatillas de Deporte Exterior para Mujer  Negro  Black  Burnt Henna 010Black  Burnt Henna 010   39 EU](https://www.amazon.es/dp/B0183LXMAW/?tag=tolees-21) con un 45.50 % de descuento con precio de oferta de 59.95 EUR (original: 109.99 EUR) en el siguiente enlace!

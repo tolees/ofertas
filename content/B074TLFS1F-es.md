@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'AmazonBasics - Balón medicinal  6 kg'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074TLFS1F/?tag=tolees-21'
+descuento: '28.90'
+titulo: 'AmazonBasics - Balón medicinal  6 kg'
 ---
 
 Tienes [AmazonBasics - Balón medicinal  6 kg](https://www.amazon.es/dp/B074TLFS1F/?tag=tolees-21) con un 28.90 % de descuento con precio de oferta de 31.99 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 105 EUR
 inStock: true
 prodname: 'Element Dulcey Chaquetas  Niños  Negro  Flint Black htr   16'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1XP5V6/?tag=tolees-21'
+descuento: '41.24'
+titulo: 'Element Dulcey Chaquetas  Niños  Negro  '
 ---
 
 Está [Element Dulcey Chaquetas  Niños  Negro  Flint Black htr   16](https://www.amazon.es/dp/B07F1XP5V6/?tag=tolees-21) con 41.24 de descuento por 61.7 EUR (original: 105 EUR) en el siguiente enlace!

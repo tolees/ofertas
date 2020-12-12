@@ -17,6 +17,9 @@ comparePrice: 6.99 EUR
 inStock: true
 prodname: 'Maybelline Base de Maquillaje Fit Me  Mate y Sin poros   Tono 124 Soft Sand - 30 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078J4SZ7V/?tag=tolees-21'
+descuento: '32.05'
+titulo: 'Maybelline Base de Maquillaje Fit Me  Ma'
 ---
 
 Ahora mismo tienes [Maybelline Base de Maquillaje Fit Me  Mate y Sin poros   Tono 124 Soft Sand - 30 ml](https://www.amazon.es/dp/B078J4SZ7V/?tag=tolees-21) a 4.75 EUR (original: 6.99 EUR) (32.05 %  de descuento) en el siguiente enlace!

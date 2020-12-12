@@ -17,6 +17,9 @@ comparePrice: 86 EUR
 inStock: true
 prodname: 'Munich 705001  Bolsa para Portátil para Hombre  Negro  Black   10x45x45 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0781YXHFW/?tag=tolees-21'
+descuento: '56.66'
+titulo: 'Munich 705001  Bolsa para Portátil para '
 ---
 
 Está [Munich 705001  Bolsa para Portátil para Hombre  Negro  Black   10x45x45 cm  W x H x L ](https://www.amazon.es/dp/B0781YXHFW/?tag=tolees-21) con 56.66 de descuento por 37.27 EUR (original: 86 EUR) en el siguiente enlace!

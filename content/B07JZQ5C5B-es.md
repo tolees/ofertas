@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Elly Vaqueros Straight  Azul  Blue Drop Em   30W / 35L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZQ5C5B/?tag=tolees-21'
+descuento: '57.49'
+titulo: 'Lee Elly Vaqueros Straight  Azul  Blue D'
 ---
 
 Ahora mismo tienes [Lee Elly Vaqueros Straight  Azul  Blue Drop Em   30W / 35L para Mujer](https://www.amazon.es/dp/B07JZQ5C5B/?tag=tolees-21) a 42.49 EUR (original: 99.95 EUR) (57.49 %  de descuento) en el siguiente enlace!

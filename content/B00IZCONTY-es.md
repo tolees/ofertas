@@ -17,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'G.O.L. - Traje para niño  color blau  navy 1   talla 10 años  140 cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IZCONTY/?tag=tolees-21'
+descuento: '77.89'
+titulo: 'G.O.L. - Traje para niño  color blau  na'
 ---
 
 Tienes [G.O.L. - Traje para niño  color blau  navy 1   talla 10 años  140 cm ](https://www.amazon.es/dp/B00IZCONTY/?tag=tolees-21) con un 77.89 % de descuento con precio de oferta de 33.15 EUR (original: 149.95 EUR) en el siguiente enlace!

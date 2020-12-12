@@ -17,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'Desigual Girl Knit Dress Short Sleeve  Vest_souix  Vestido  Azul  Navy 5000   116  Talla del Fabricante: 5/6  para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GZ54Q7P/?tag=tolees-21'
+descuento: '40.78'
+titulo: 'Desigual Girl Knit Dress Short Sleeve  V'
 ---
 
 Ahora mismo tienes [Desigual Girl Knit Dress Short Sleeve  Vest_souix  Vestido  Azul  Navy 5000   116  Talla del Fabricante: 5/6  para Niñas](https://www.amazon.es/dp/B07GZ54Q7P/?tag=tolees-21) a 27.21 EUR (original: 45.95 EUR) (40.78 %  de descuento) en el siguiente enlace!

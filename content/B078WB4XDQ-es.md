@@ -17,6 +17,9 @@ comparePrice: 499 EUR
 inStock: true
 prodname: 'Samsung Galaxy A8 - Smartphone de 5.6"  4G  WiFi  Bluetooth 5.0  Exynos 7885 Octa Core  32 GB Memoria Interna  4 GB de RAM  cámara 16 MP  Android 7.0  versión española: Incluye Samsung Pay  Oro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WB4XDQ/?tag=tolees-21'
+descuento: '31.38'
+titulo: 'Samsung Galaxy A8 - Smartphone de 5.6"  '
 ---
 
 Está [Samsung Galaxy A8 - Smartphone de 5.6"  4G  WiFi  Bluetooth 5.0  Exynos 7885 Octa Core  32 GB Memoria Interna  4 GB de RAM  cámara 16 MP  Android 7.0  versión española: Incluye Samsung Pay  Oro](https://www.amazon.es/dp/B078WB4XDQ/?tag=tolees-21) con 31.38 de descuento por 342.43 EUR (original: 499 EUR) en el siguiente enlace!

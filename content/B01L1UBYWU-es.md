@@ -17,6 +17,9 @@ comparePrice: 24.9 EUR
 inStock: true
 prodname: 'Gloss - caja de baño  caja de regalo para mujeres - bañera con escarcha - El oro me lo permiten'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L1UBYWU/?tag=tolees-21'
+descuento: '27.71'
+titulo: 'Gloss - caja de baño  caja de regalo par'
 ---
 
 Ahora mismo tienes [Gloss - caja de baño  caja de regalo para mujeres - bañera con escarcha - El oro me lo permiten](https://www.amazon.es/dp/B01L1UBYWU/?tag=tolees-21) a 18 EUR (original: 24.9 EUR) (27.71 %  de descuento) en el siguiente enlace!

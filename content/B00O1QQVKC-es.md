@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Calvin Klein Herren Regular Fit Business Hemd CANNES SPREAD FITTED FTC  Black  Cuello: 38  Talla fabricante: 38 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00O1QQVKC/?tag=tolees-21'
+descuento: '51.56'
+titulo: 'Calvin Klein Herren Regular Fit Business'
 ---
 
 Está [Calvin Klein Herren Regular Fit Business Hemd CANNES SPREAD FITTED FTC  Black  Cuello: 38  Talla fabricante: 38 ](https://www.amazon.es/dp/B00O1QQVKC/?tag=tolees-21) con 51.56 de descuento por 33.86 EUR (original: 69.9 EUR) en el siguiente enlace!

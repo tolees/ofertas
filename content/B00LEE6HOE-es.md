@@ -17,6 +17,9 @@ comparePrice: 16.55 EUR
 inStock: true
 prodname: 'Gloss - caja de baño  caja de regalo para mujeres - Estuche de Baño Regalo - Glitzy Glam - Sugarberry'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LEE6HOE/?tag=tolees-21'
+descuento: '54.56'
+titulo: 'Gloss - caja de baño  caja de regalo par'
 ---
 
 Tienes [Gloss - caja de baño  caja de regalo para mujeres - Estuche de Baño Regalo - Glitzy Glam - Sugarberry](https://www.amazon.es/dp/B00LEE6HOE/?tag=tolees-21) con un 54.56 % de descuento con precio de oferta de 7.52 EUR (original: 16.55 EUR) en el siguiente enlace!

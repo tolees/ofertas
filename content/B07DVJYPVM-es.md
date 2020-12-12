@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 574v2  Entrenadores para Hombre  Negro Black/Red  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVJYPVM/?tag=tolees-21'
+descuento: '45.06'
+titulo: 'New Balance 574v2  Entrenadores para Hom'
 ---
 
 Está [New Balance 574v2  Entrenadores para Hombre  Negro Black/Red  43 EU](https://www.amazon.es/dp/B07DVJYPVM/?tag=tolees-21) con 45.06 de descuento por 49.45 EUR (original: 90 EUR) en el siguiente enlace!

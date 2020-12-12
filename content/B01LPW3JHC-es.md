@@ -17,6 +17,9 @@ comparePrice: 51.64 EUR
 inStock: true
 prodname: 'Pepe Jeans London - Zapatillas Mujer  Plateado  Silver   36  EU '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LPW3JHC/?tag=tolees-21'
+descuento: '66.52'
+titulo: 'Pepe Jeans London - Zapatillas Mujer  Pl'
 ---
 
 Está [Pepe Jeans London - Zapatillas Mujer  Plateado  Silver   36  EU ](https://www.amazon.es/dp/B01LPW3JHC/?tag=tolees-21) con 66.52 de descuento por 17.29 EUR (original: 51.64 EUR) en el siguiente enlace!

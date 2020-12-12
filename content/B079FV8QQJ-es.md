@@ -17,6 +17,9 @@ comparePrice: 76.95 EUR
 inStock: true
 prodname: 'Bugatti 3.11625E+11  Botas Clasicas para Hombre  Azul  Dark Blue 4100   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079FV8QQJ/?tag=tolees-21'
+descuento: '30.25'
+titulo: 'Bugatti 3.11625E+11  Botas Clasicas para'
 ---
 
 Tienes [Bugatti 3.11625E+11  Botas Clasicas para Hombre  Azul  Dark Blue 4100   44 EU](https://www.amazon.es/dp/B079FV8QQJ/?tag=tolees-21) con un 30.25 % de descuento con precio de oferta de 53.67 EUR (original: 76.95 EUR) en el siguiente enlace!

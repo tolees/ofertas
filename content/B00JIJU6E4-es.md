@@ -17,6 +17,9 @@ comparePrice: 140.33 EUR
 inStock: true
 prodname: 'Transcend TS16GJMA524H JetMemory - Kit de memoria RAM de 16 GB para Apple iMac 2012  204 pin SO-DIMM  DDR3 SDRAM  1600 MHz  4 x 4 GB  1Rx8 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JIJU6E4/?tag=tolees-21'
+descuento: '62.78'
+titulo: 'Transcend TS16GJMA524H JetMemory - Kit d'
 ---
 
 Está [Transcend TS16GJMA524H JetMemory - Kit de memoria RAM de 16 GB para Apple iMac 2012  204 pin SO-DIMM  DDR3 SDRAM  1600 MHz  4 x 4 GB  1Rx8 ](https://www.amazon.es/dp/B00JIJU6E4/?tag=tolees-21) con 62.78 de descuento por 52.23 EUR (original: 140.33 EUR) en el siguiente enlace!

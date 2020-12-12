@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Clarks Comet Frost  Botas Chelsea para Niñas  Marrón  Burgundy Leather   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BFS8VNG/?tag=tolees-21'
+descuento: '49.32'
+titulo: 'Clarks Comet Frost  Botas Chelsea para N'
 ---
 
 Tienes [Clarks Comet Frost  Botas Chelsea para Niñas  Marrón  Burgundy Leather   28 EU](https://www.amazon.es/dp/B07BFS8VNG/?tag=tolees-21) con un 49.32 % de descuento con precio de oferta de 35.45 EUR (original: 69.95 EUR) en el siguiente enlace!

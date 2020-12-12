@@ -17,6 +17,9 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'Nike Vapor 12 Academy MG  Zapatillas de Fútbol Unisex Adulto  Verde  Volt/Black 701   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCJ5FQ7/?tag=tolees-21'
+descuento: '55.65'
+titulo: 'Nike Vapor 12 Academy MG  Zapatillas de '
 ---
 
 Está [Nike Vapor 12 Academy MG  Zapatillas de Fútbol Unisex Adulto  Verde  Volt/Black 701   40.5 EU](https://www.amazon.es/dp/B07DCJ5FQ7/?tag=tolees-21) con 55.65 de descuento por 33.26 EUR (original: 74.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Aigostar Speedy 30JIL - Batidora de mano de 800W de potencia  control graduable de velocidad y turbo  antisalpicadura. Motor DC  cuchillas de acero inoxidable 304. Incluye vaso de 700ml. Libre de BPA.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071WN8ZCJ/?tag=tolees-21'
+descuento: '57.16'
+titulo: 'Aigostar Speedy 30JIL - Batidora de mano'
 ---
 
 Está [Aigostar Speedy 30JIL - Batidora de mano de 800W de potencia  control graduable de velocidad y turbo  antisalpicadura. Motor DC  cuchillas de acero inoxidable 304. Incluye vaso de 700ml. Libre de BPA.](https://www.amazon.es/dp/B071WN8ZCJ/?tag=tolees-21) con 57.16 de descuento por 14.99 EUR (original: 34.99 EUR) en el siguiente enlace!

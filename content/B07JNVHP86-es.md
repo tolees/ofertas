@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcojames Sweat Hood Camp Capucha  Verde  Evergreen Detail: Melange   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JNVHP86/?tag=tolees-21'
+descuento: '62.69'
+titulo: 'JACK & JONES Jcojames Sweat Hood Camp Ca'
 ---
 
 Tienes [JACK & JONES Jcojames Sweat Hood Camp Capucha  Verde  Evergreen Detail: Melange   X-Large para Hombre](https://www.amazon.es/dp/B07JNVHP86/?tag=tolees-21) con un 62.69 % de descuento con precio de oferta de 11.19 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Lee Basic Crew Sudadera  Marfil  Black 01   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTPXNS6/?tag=tolees-21'
+descuento: '75.63'
+titulo: 'Lee Basic Crew Sudadera  Marfil  Black 0'
 ---
 
 Está [Lee Basic Crew Sudadera  Marfil  Black 01   Small para Hombre](https://www.amazon.es/dp/B07FTPXNS6/?tag=tolees-21) con 75.63 de descuento por 14.61 EUR (original: 59.95 EUR) en el siguiente enlace!

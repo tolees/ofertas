@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'PIECES Pcmelga Velvet Jumpsuit FF  Mono Mujer  Rosa  Rugby Tan Rugby Tan   40  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MT5LFOB/?tag=tolees-21'
+descuento: '79.94'
+titulo: 'PIECES Pcmelga Velvet Jumpsuit FF  Mono '
 ---
 
 Tienes [PIECES Pcmelga Velvet Jumpsuit FF  Mono Mujer  Rosa  Rugby Tan Rugby Tan   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01MT5LFOB/?tag=tolees-21) con un 79.94 % de descuento con precio de oferta de 11.03 EUR (original: 54.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Keepsakes 2.0  Botas Efecto Arrugado para Mujer  Marrón  Chesnut Csnt   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4YHJYH/?tag=tolees-21'
+descuento: '64.10'
+titulo: 'Skechers Keepsakes 2.0  Botas Efecto Arr'
 ---
 
 Ahora mismo tienes [Skechers Keepsakes 2.0  Botas Efecto Arrugado para Mujer  Marrón  Chesnut Csnt   37 EU](https://www.amazon.es/dp/B07B4YHJYH/?tag=tolees-21) a 21.52 EUR (original: 59.95 EUR) (64.10 %  de descuento) en el siguiente enlace!

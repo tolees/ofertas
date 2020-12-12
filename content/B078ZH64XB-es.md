@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Irrigador Dental Hyggeland Irrigador Bucal Irrigador Oral'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078ZH64XB/?tag=tolees-21'
+descuento: '52.86'
+titulo: 'Irrigador Dental Hyggeland Irrigador Buc'
 ---
 
 Está [Irrigador Dental Hyggeland Irrigador Bucal Irrigador Oral](https://www.amazon.es/dp/B078ZH64XB/?tag=tolees-21) con 52.86 de descuento por 32.99 EUR (original: 69.99 EUR) en el siguiente enlace!

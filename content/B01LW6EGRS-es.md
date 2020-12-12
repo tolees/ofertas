@@ -17,6 +17,9 @@ comparePrice: 34.26 EUR
 inStock: true
 prodname: 'LANGRIA Armario Modular  Estantería por Módulos  Armario de Almacenaje  para Ropa  Zapatos  Juguetes y Libros  Panel Repujado  6 Cubos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LW6EGRS/?tag=tolees-21'
+descuento: '32.90'
+titulo: 'LANGRIA Armario Modular  Estantería por '
 ---
 
 Está [LANGRIA Armario Modular  Estantería por Módulos  Armario de Almacenaje  para Ropa  Zapatos  Juguetes y Libros  Panel Repujado  6 Cubos](https://www.amazon.es/dp/B01LW6EGRS/?tag=tolees-21) con 32.90 de descuento por 22.99 EUR (original: 34.26 EUR) en el siguiente enlace!

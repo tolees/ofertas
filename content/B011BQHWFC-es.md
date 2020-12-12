@@ -17,6 +17,9 @@ comparePrice: 33.38 EUR
 inStock: true
 prodname: 'Zapatos de trabajo de seguridad Alto de piel negro S3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011BQHWFC/?tag=tolees-21'
+descuento: '41.34'
+titulo: 'Zapatos de trabajo de seguridad Alto de '
 ---
 
 Ahora mismo tienes [Zapatos de trabajo de seguridad Alto de piel negro S3](https://www.amazon.es/dp/B011BQHWFC/?tag=tolees-21) a 19.58 EUR (original: 33.38 EUR) (41.34 %  de descuento) en el siguiente enlace!

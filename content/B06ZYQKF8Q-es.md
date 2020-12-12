@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Cookmii Batidora Amasadora Repostería  Amasadoras de pan Práctica  Robot de cocina Multifuncional  Amasadoras de pan Profesional Estable Rápido  6 Velocidades 5.5L Solid Max 1090W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06ZYQKF8Q/?tag=tolees-21'
+descuento: '30.77'
+titulo: 'Cookmii Batidora Amasadora Repostería  A'
 ---
 
 Ahora mismo tienes [Cookmii Batidora Amasadora Repostería  Amasadoras de pan Práctica  Robot de cocina Multifuncional  Amasadoras de pan Profesional Estable Rápido  6 Velocidades 5.5L Solid Max 1090W](https://www.amazon.es/dp/B06ZYQKF8Q/?tag=tolees-21) a 89.99 EUR (original: 129.99 EUR) (30.77 %  de descuento) en el siguiente enlace!

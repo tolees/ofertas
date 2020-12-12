@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Severin KM 3873 - Molinillo de café  150 W  temporizador  mecanismo triturador cónico  color blanco plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004QXJNYG/?tag=tolees-21'
+descuento: '26.66'
+titulo: 'Severin KM 3873 - Molinillo de café  150'
 ---
 
 Está [Severin KM 3873 - Molinillo de café  150 W  temporizador  mecanismo triturador cónico  color blanco plateado](https://www.amazon.es/dp/B004QXJNYG/?tag=tolees-21) con 26.66 de descuento por 66 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'BOSS tee 7 Camiseta  Blanco  White 100   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KK3BB89/?tag=tolees-21'
+descuento: '65.57'
+titulo: 'BOSS tee 7 Camiseta  Blanco  White 100  '
 ---
 
 Tienes [BOSS tee 7 Camiseta  Blanco  White 100   XX-Large para Hombre](https://www.amazon.es/dp/B07KK3BB89/?tag=tolees-21) con un 65.57 % de descuento con precio de oferta de 20.64 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour UA HG Arm Shorty Metallic WB Pantalón Corto  Mujer  Gris  019   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0728BPJW1/?tag=tolees-21'
+descuento: '32.35'
+titulo: 'Under Armour UA HG Arm Shorty Metallic W'
 ---
 
 Tienes [Under Armour UA HG Arm Shorty Metallic WB Pantalón Corto  Mujer  Gris  019   S](https://www.amazon.es/dp/B0728BPJW1/?tag=tolees-21) con un 32.35 % de descuento con precio de oferta de 17.59 EUR (original: 26 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Superga 2750-PUMETW  Zapatillas para Mujer  Dorado  Yellow Gold 174   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N4LDF1B/?tag=tolees-21'
+descuento: '47.46'
+titulo: 'Superga 2750-PUMETW  Zapatillas para Muj'
 ---
 
 Tienes [Superga 2750-PUMETW  Zapatillas para Mujer  Dorado  Yellow Gold 174   36 EU](https://www.amazon.es/dp/B07N4LDF1B/?tag=tolees-21) con un 47.46 % de descuento con precio de oferta de 36.25 EUR (original: 69 EUR) en el siguiente enlace!

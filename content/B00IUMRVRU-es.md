@@ -17,6 +17,9 @@ comparePrice: 22.94 EUR
 inStock: true
 prodname: 'Continental Ultra Sport II  Cubierta  Unisex Adulto  Negro/Blanco  700 x 23C  23-622 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IUMRVRU/?tag=tolees-21'
+descuento: '34.83'
+titulo: 'Continental Ultra Sport II  Cubierta  Un'
 ---
 
 Tienes [Continental Ultra Sport II  Cubierta  Unisex Adulto  Negro/Blanco  700 x 23C  23-622 ](https://www.amazon.es/dp/B00IUMRVRU/?tag=tolees-21) con un 34.83 % de descuento con precio de oferta de 14.95 EUR (original: 22.94 EUR) en el siguiente enlace!

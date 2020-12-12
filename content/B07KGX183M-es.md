@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Under Armour Armour Fly Fast Capri  Mujer  Rosa Mojo Pink/Reflective 641  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGX183M/?tag=tolees-21'
+descuento: '52.74'
+titulo: 'Under Armour Armour Fly Fast Capri  Muje'
 ---
 
 Está [Under Armour Armour Fly Fast Capri  Mujer  Rosa Mojo Pink/Reflective 641  M](https://www.amazon.es/dp/B07KGX183M/?tag=tolees-21) con 52.74 de descuento por 25.99 EUR (original: 54.99 EUR) en el siguiente enlace!

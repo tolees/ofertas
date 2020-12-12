@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Camry Báscula Digital de Cocina Balanza Electrónica para Alimentos 5kg / 11lbs  Peso de Cocina de Acero Inoxidable  Pantalla LCD  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XYNS5R/?tag=tolees-21'
+descuento: '53.35'
+titulo: 'Camry Báscula Digital de Cocina Balanza '
 ---
 
 Está [Camry Báscula Digital de Cocina Balanza Electrónica para Alimentos 5kg / 11lbs  Peso de Cocina de Acero Inoxidable  Pantalla LCD  Negro ](https://www.amazon.es/dp/B077XYNS5R/?tag=tolees-21) con 53.35 de descuento por 13.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'GORE BIKE WEAR Pantalones Ciclismo Cortos hasa la Rodilla  Hombre  Super Ligero  Stretch  GORE Selected Fabrics  Talla L  negro  TELESP990005'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MK07QVE/?tag=tolees-21'
+descuento: '58.64'
+titulo: 'GORE BIKE WEAR Pantalones Ciclismo Corto'
 ---
 
 Está [GORE BIKE WEAR Pantalones Ciclismo Cortos hasa la Rodilla  Hombre  Super Ligero  Stretch  GORE Selected Fabrics  Talla L  negro  TELESP990005](https://www.amazon.es/dp/B00MK07QVE/?tag=tolees-21) con 58.64 de descuento por 37.2 EUR (original: 89.95 EUR) en el siguiente enlace!

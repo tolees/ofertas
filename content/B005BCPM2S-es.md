@@ -17,6 +17,9 @@ comparePrice: 29.29 EUR
 inStock: true
 prodname: 'Bully: Scholarship Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005BCPM2S/?tag=tolees-21'
+descuento: '38.58'
+titulo: 'Bully: Scholarship Edition'
 ---
 
 Está [Bully: Scholarship Edition](https://www.amazon.es/dp/B005BCPM2S/?tag=tolees-21) con 38.58 de descuento por 17.99 EUR (original: 29.29 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Timberland Union Wharf 2-Eye Oxford  Náuticos para Hombre  Marrón  Burnt Brick F6S   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FH9YJNN/?tag=tolees-21'
+descuento: '33.98'
+titulo: 'Timberland Union Wharf 2-Eye Oxford  Náu'
 ---
 
 Está [Timberland Union Wharf 2-Eye Oxford  Náuticos para Hombre  Marrón  Burnt Brick F6S   42 EU](https://www.amazon.es/dp/B07FH9YJNN/?tag=tolees-21) con 33.98 de descuento por 42.91 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 139.9 EUR
 inStock: true
 prodname: 'Superdry Arctic Hood Print Popzip Wndch  Chaqueta Deportiva para Hombre   Camo Blur/Orange Uk6   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLKXZ5D/?tag=tolees-21'
+descuento: '60.52'
+titulo: 'Superdry Arctic Hood Print Popzip Wndch '
 ---
 
 Tienes [Superdry Arctic Hood Print Popzip Wndch  Chaqueta Deportiva para Hombre   Camo Blur/Orange Uk6   Small](https://www.amazon.es/dp/B07FLKXZ5D/?tag=tolees-21) con un 60.52 % de descuento con precio de oferta de 55.23 EUR (original: 139.9 EUR) en el siguiente enlace!

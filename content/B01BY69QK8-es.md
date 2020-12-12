@@ -17,6 +17,9 @@ comparePrice: 14.25 EUR
 inStock: true
 prodname: 'E-Vitta PCS71109EVBP001002 - Mochila para Ordenador portátil de hasta 16"'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BY69QK8/?tag=tolees-21'
+descuento: '50.95'
+titulo: 'E-Vitta PCS71109EVBP001002 - Mochila par'
 ---
 
 Tienes [E-Vitta PCS71109EVBP001002 - Mochila para Ordenador portátil de hasta 16"](https://www.amazon.es/dp/B01BY69QK8/?tag=tolees-21) con un 50.95 % de descuento con precio de oferta de 6.99 EUR (original: 14.25 EUR) en el siguiente enlace!

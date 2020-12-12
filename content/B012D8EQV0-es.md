@@ -17,6 +17,9 @@ comparePrice: 232.94 EUR
 inStock: true
 prodname: 'FRANC-TEXTIL  Kivik 3-Plazas Sofá Funda Kivik  ETNA  Beige/Gris  1 Unidad '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012D8EQV0/?tag=tolees-21'
+descuento: '61.25'
+titulo: 'FRANC-TEXTIL  Kivik 3-Plazas Sofá Funda '
 ---
 
 Ahora mismo tienes [FRANC-TEXTIL  Kivik 3-Plazas Sofá Funda Kivik  ETNA  Beige/Gris  1 Unidad ](https://www.amazon.es/dp/B012D8EQV0/?tag=tolees-21) a 90.27 EUR (original: 232.94 EUR) (61.25 %  de descuento) en el siguiente enlace!

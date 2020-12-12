@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'Vibram Five Fingers Spyridon Mr  Zapatillas Hombre  Negro  Black/Grey   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DYYS1CI/?tag=tolees-21'
+descuento: '53.14'
+titulo: 'Vibram Five Fingers Spyridon Mr  Zapatil'
 ---
 
 Está [Vibram Five Fingers Spyridon Mr  Zapatillas Hombre  Negro  Black/Grey   40 EU](https://www.amazon.es/dp/B00DYYS1CI/?tag=tolees-21) con 53.14 de descuento por 65.14 EUR (original: 139 EUR) en el siguiente enlace!

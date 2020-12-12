@@ -17,6 +17,9 @@ comparePrice: 36 EUR
 inStock: true
 prodname: 'Rollo Envasado Vacío 3 Rollos Bolsas de vacío 20x300cm y 3 Rollos Bolsas de vacío 28x300cm  no necesita tijeras  de Grado Comercial para el Ahorrador de Alimentos y Sous Vide Cocina …'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GQMD2J7/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Rollo Envasado Vacío 3 Rollos Bolsas de '
 ---
 
 Está [Rollo Envasado Vacío 3 Rollos Bolsas de vacío 20x300cm y 3 Rollos Bolsas de vacío 28x300cm  no necesita tijeras  de Grado Comercial para el Ahorrador de Alimentos y Sous Vide Cocina …](https://www.amazon.es/dp/B07GQMD2J7/?tag=tolees-21) con 50.03 de descuento por 17.99 EUR (original: 36 EUR) en el siguiente enlace!

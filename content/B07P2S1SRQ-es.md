@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'LIGE Relojes para Hombre Moda Impermeable Deportes Reloj de Cuarzo Esfera Negra Reloj de Pulsera de Cuero Cronógrafo Calendario Reloj de Negocios para Hombres'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P2S1SRQ/?tag=tolees-21'
+descuento: '66.67'
+titulo: 'LIGE Relojes para Hombre Moda Impermeabl'
 ---
 
 Está [LIGE Relojes para Hombre Moda Impermeable Deportes Reloj de Cuarzo Esfera Negra Reloj de Pulsera de Cuero Cronógrafo Calendario Reloj de Negocios para Hombres](https://www.amazon.es/dp/B07P2S1SRQ/?tag=tolees-21) con 66.67 de descuento por 29.99 EUR (original: 89.99 EUR) en el siguiente enlace!

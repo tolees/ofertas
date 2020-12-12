@@ -17,6 +17,9 @@ comparePrice: 209 EUR
 inStock: true
 prodname: 'Philips Monitores 276E7QDAB/00 - Monitor de 27"  resolución 1920 x 1080 pixels  tecnología WLED  contraste 1000:1  5 ms  VGA   color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HZRG478/?tag=tolees-21'
+descuento: '40.05'
+titulo: 'Philips Monitores 276E7QDAB/00 - Monitor'
 ---
 
 Ahora mismo tienes [Philips Monitores 276E7QDAB/00 - Monitor de 27"  resolución 1920 x 1080 pixels  tecnología WLED  contraste 1000:1  5 ms  VGA   color negro](https://www.amazon.es/dp/B01HZRG478/?tag=tolees-21) a 125.3 EUR (original: 209 EUR) (40.05 %  de descuento) en el siguiente enlace!

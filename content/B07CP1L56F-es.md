@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Diesel 00SHEB  Camiseta para Hombre   Gris 912   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CP1L56F/?tag=tolees-21'
+descuento: '70.72'
+titulo: 'Diesel 00SHEB  Camiseta para Hombre   Gr'
 ---
 
 Está [Diesel 00SHEB  Camiseta para Hombre   Gris 912   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07CP1L56F/?tag=tolees-21) con 70.72 de descuento por 35.14 EUR (original: 120 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 126 EUR
 inStock: true
 prodname: 'Saucony Peregrine ISO - Zapatillas de Running para Hombre  Naranja  Orange/Black  46.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MDJKJRM/?tag=tolees-21'
+descuento: '33.33'
+titulo: 'Saucony Peregrine ISO - Zapatillas de Ru'
 ---
 
 Está [Saucony Peregrine ISO - Zapatillas de Running para Hombre  Naranja  Orange/Black  46.5 EU](https://www.amazon.es/dp/B07MDJKJRM/?tag=tolees-21) con 33.33 de descuento por 84 EUR (original: 126 EUR) en el siguiente enlace!

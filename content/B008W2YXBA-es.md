@@ -17,6 +17,9 @@ comparePrice: 33.75 EUR
 inStock: true
 prodname: 'Pipedream Pinzas Pezones  Color Plata - 1 Pinzas Pezones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008W2YXBA/?tag=tolees-21'
+descuento: '52.44'
+titulo: 'Pipedream Pinzas Pezones  Color Plata - '
 ---
 
 Está [Pipedream Pinzas Pezones  Color Plata - 1 Pinzas Pezones](https://www.amazon.es/dp/B008W2YXBA/?tag=tolees-21) con 52.44 de descuento por 16.05 EUR (original: 33.75 EUR) en el siguiente enlace!

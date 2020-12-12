@@ -17,6 +17,9 @@ comparePrice: 32 EUR
 inStock: true
 prodname: 'find. Lace Up Capucha Para Mujer  Verde  Khaki   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTYXKU4/?tag=tolees-21'
+descuento: '65.44'
+titulo: 'find. Lace Up Capucha Para Mujer  Verde '
 ---
 
 Ahora mismo tienes [find. Lace Up Capucha Para Mujer  Verde  Khaki   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01MTYXKU4/?tag=tolees-21) a 11.06 EUR (original: 32 EUR) (65.44 %  de descuento) en el siguiente enlace!

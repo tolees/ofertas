@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'New Balance 247v2  Zapatillas para Mujer  Negro  Black/Himalayan Pink Coral   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XQJZ1S/?tag=tolees-21'
+descuento: '61.47'
+titulo: 'New Balance 247v2  Zapatillas para Mujer'
 ---
 
 Tienes [New Balance 247v2  Zapatillas para Mujer  Negro  Black/Himalayan Pink Coral   36.5 EU](https://www.amazon.es/dp/B077XQJZ1S/?tag=tolees-21) con un 61.47 % de descuento con precio de oferta de 36.6 EUR (original: 95 EUR) en el siguiente enlace!

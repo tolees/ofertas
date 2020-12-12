@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Quiksilver CLCACAI M BKPK BPG6 Mochila Mediana  Hombre  Dark Forest  One Size'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F6SYL78/?tag=tolees-21'
+descuento: '60.63'
+titulo: 'Quiksilver CLCACAI M BKPK BPG6 Mochila M'
 ---
 
 Está [Quiksilver CLCACAI M BKPK BPG6 Mochila Mediana  Hombre  Dark Forest  One Size](https://www.amazon.es/dp/B07F6SYL78/?tag=tolees-21) con 60.63 de descuento por 7.87 EUR (original: 19.99 EUR) en el siguiente enlace!

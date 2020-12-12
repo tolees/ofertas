@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'FREESOO Base de Conexión Docking Station Aluminio USB 3.0 UASP con Función de Clon Offline y 2 Bahias para Discos Duros con 3 Puertos Hub SATA I/II/III HDD y SSD DE 2 5/3 5 Pulgadas hasta 2 x 10TB'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJBWJST/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'FREESOO Base de Conexión Docking Station'
 ---
 
 Está [FREESOO Base de Conexión Docking Station Aluminio USB 3.0 UASP con Función de Clon Offline y 2 Bahias para Discos Duros con 3 Puertos Hub SATA I/II/III HDD y SSD DE 2 5/3 5 Pulgadas hasta 2 x 10TB](https://www.amazon.es/dp/B07DJBWJST/?tag=tolees-21) con 60.01 de descuento por 39.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjepaulos Polo SS Noos  Rojo  Brick Red Detail: Slim Fit   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079C8RP9Z/?tag=tolees-21'
+descuento: '42.72'
+titulo: 'JACK & JONES Jjepaulos Polo SS Noos  Roj'
 ---
 
 Tienes [JACK & JONES Jjepaulos Polo SS Noos  Rojo  Brick Red Detail: Slim Fit   XX-Large para Hombre](https://www.amazon.es/dp/B079C8RP9Z/?tag=tolees-21) con un 42.72 % de descuento con precio de oferta de 11.45 EUR (original: 19.99 EUR) en el siguiente enlace!

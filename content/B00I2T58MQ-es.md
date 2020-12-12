@@ -17,6 +17,9 @@ comparePrice: 69.28 EUR
 inStock: true
 prodname: 'Andador muy ligero| Ayuda para las personas de movilidad reducida| Patas fijas traseras y ruedas delanteras| Forma anatómica  ajustable en altura| Acero inoxidable| Materiales de calidad certificada'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I2T58MQ/?tag=tolees-21'
+descuento: '30.72'
+titulo: 'Andador muy ligero| Ayuda para las perso'
 ---
 
 Tienes [Andador muy ligero| Ayuda para las personas de movilidad reducida| Patas fijas traseras y ruedas delanteras| Forma anatómica  ajustable en altura| Acero inoxidable| Materiales de calidad certificada](https://www.amazon.es/dp/B00I2T58MQ/?tag=tolees-21) con un 30.72 % de descuento con precio de oferta de 48 EUR (original: 69.28 EUR) en el siguiente enlace!

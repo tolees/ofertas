@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Columbia Gorra unisex  Columbia Mesh Ballcap  Algodón  Verde  Cypress   Talla: S/M  1495921'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F29VCQV/?tag=tolees-21'
+descuento: '43.55'
+titulo: 'Columbia Gorra unisex  Columbia Mesh Bal'
 ---
 
 Tienes [Columbia Gorra unisex  Columbia Mesh Ballcap  Algodón  Verde  Cypress   Talla: S/M  1495921](https://www.amazon.es/dp/B07F29VCQV/?tag=tolees-21) con un 43.55 % de descuento con precio de oferta de 15.8 EUR (original: 27.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 32.9 EUR
 inStock: true
 prodname: 'D-Link DIR-605L - Router WiFi  Cloud N300  hasta 300 Mbps  4 puertos de red RJ-45 10/100 Mbps  botón WPS  accesible por app gratuita '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007QD5XOM/?tag=tolees-21'
+descuento: '36.50'
+titulo: 'D-Link DIR-605L - Router WiFi  Cloud N30'
 ---
 
 Tienes [D-Link DIR-605L - Router WiFi  Cloud N300  hasta 300 Mbps  4 puertos de red RJ-45 10/100 Mbps  botón WPS  accesible por app gratuita ](https://www.amazon.es/dp/B007QD5XOM/?tag=tolees-21) con un 36.50 % de descuento con precio de oferta de 20.89 EUR (original: 32.9 EUR) en el siguiente enlace!

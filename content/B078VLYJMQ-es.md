@@ -17,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'Only Onlnova Solid Vis Wide Sleeve Top Wvn  Blusa Mujer  Blanco  Cloud Dancer Cloud Dancer   42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078VLYJMQ/?tag=tolees-21'
+descuento: '28.26'
+titulo: 'Only Onlnova Solid Vis Wide Sleeve Top W'
 ---
 
 Tienes [Only Onlnova Solid Vis Wide Sleeve Top Wvn  Blusa Mujer  Blanco  Cloud Dancer Cloud Dancer   42](https://www.amazon.es/dp/B078VLYJMQ/?tag=tolees-21) con un 28.26 % de descuento con precio de oferta de 17.21 EUR (original: 23.99 EUR) en el siguiente enlace!

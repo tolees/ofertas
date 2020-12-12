@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'GreeSuit Animal-WC inodoro perros bandeja sostenedor del cojín de malla del entrenamiento de la malla de la bandeja del retrete para el entrenamiento del orinal  Naranja '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071GTNSRG/?tag=tolees-21'
+descuento: '25.91'
+titulo: 'GreeSuit Animal-WC inodoro perros bandej'
 ---
 
 Ahora mismo tienes [GreeSuit Animal-WC inodoro perros bandeja sostenedor del cojín de malla del entrenamiento de la malla de la bandeja del retrete para el entrenamiento del orinal  Naranja ](https://www.amazon.es/dp/B071GTNSRG/?tag=tolees-21) a 22.22 EUR (original: 29.99 EUR) (25.91 %  de descuento) en el siguiente enlace!

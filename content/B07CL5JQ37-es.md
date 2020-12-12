@@ -17,6 +17,9 @@ comparePrice: 44.9 EUR
 inStock: true
 prodname: 'Kipling Alvar S  Bolsa bandolera para Mujer  Beige  Pastel Beige   2x18.5x18 cm  B x H x T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CL5JQ37/?tag=tolees-21'
+descuento: '39.06'
+titulo: 'Kipling Alvar S  Bolsa bandolera para Mu'
 ---
 
 Está [Kipling Alvar S  Bolsa bandolera para Mujer  Beige  Pastel Beige   2x18.5x18 cm  B x H x T ](https://www.amazon.es/dp/B07CL5JQ37/?tag=tolees-21) con 39.06 de descuento por 27.36 EUR (original: 44.9 EUR) en el siguiente enlace!

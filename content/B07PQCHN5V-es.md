@@ -17,6 +17,9 @@ comparePrice: 47.82 EUR
 inStock: true
 prodname: 'Cortador de inglete multiángulo  herramientas de mano  tijeras de ángulo ajustable de 45 a 135 grados  herramientas de recorte de tijeras'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PQCHN5V/?tag=tolees-21'
+descuento: '70.97'
+titulo: 'Cortador de inglete multiángulo  herrami'
 ---
 
 Tienes [Cortador de inglete multiángulo  herramientas de mano  tijeras de ángulo ajustable de 45 a 135 grados  herramientas de recorte de tijeras](https://www.amazon.es/dp/B07PQCHN5V/?tag=tolees-21) con un 70.97 % de descuento con precio de oferta de 13.88 EUR (original: 47.82 EUR) en el siguiente enlace!

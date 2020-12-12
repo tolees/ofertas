@@ -17,6 +17,9 @@ comparePrice: 25.5 EUR
 inStock: true
 prodname: 'David Jones - 5970-3  Bolsos bandolera Mujer  Azul  Blue   9x18x23 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCMT3ZQ/?tag=tolees-21'
+descuento: '67.25'
+titulo: 'David Jones - 5970-3  Bolsos bandolera M'
 ---
 
 Está [David Jones - 5970-3  Bolsos bandolera Mujer  Azul  Blue   9x18x23 cm  W x H L ](https://www.amazon.es/dp/B07KCMT3ZQ/?tag=tolees-21) con 67.25 de descuento por 8.35 EUR (original: 25.5 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Linterna Oriental de Metal y Cristal Liyana 30 cm de Altura Azul | Luces de Viento marroquí | Faro de Cristal para Interior | Lámpara para Exterior | Linterna de jardín'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HRVX51Y/?tag=tolees-21'
+descuento: '40.28'
+titulo: 'Linterna Oriental de Metal y Cristal Liy'
 ---
 
 Está [Linterna Oriental de Metal y Cristal Liyana 30 cm de Altura Azul | Luces de Viento marroquí | Faro de Cristal para Interior | Lámpara para Exterior | Linterna de jardín](https://www.amazon.es/dp/B07HRVX51Y/?tag=tolees-21) con 40.28 de descuento por 14.9 EUR (original: 24.95 EUR) en el siguiente enlace!

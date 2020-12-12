@@ -17,6 +17,9 @@ comparePrice: 19.08 EUR
 inStock: true
 prodname: 'Licor del Polo Dentífrico Frozen Senses Frescor Purificante - 12 x 75 ml  Total: 900 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071KCBGVB/?tag=tolees-21'
+descuento: '37.11'
+titulo: 'Licor del Polo Dentífrico Frozen Senses '
 ---
 
 Ahora mismo tienes [Licor del Polo Dentífrico Frozen Senses Frescor Purificante - 12 x 75 ml  Total: 900 ml](https://www.amazon.es/dp/B071KCBGVB/?tag=tolees-21) a 12 EUR (original: 19.08 EUR) (37.11 %  de descuento) en el siguiente enlace!

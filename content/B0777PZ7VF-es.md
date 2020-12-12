@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre Original Triblend  Camiseta Manga Corta  Rojo  Formula One 645  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0777PZ7VF/?tag=tolees-21'
+descuento: '34.66'
+titulo: 'Tommy Jeans Hombre Original Triblend  Ca'
 ---
 
 Está [Tommy Jeans Hombre Original Triblend  Camiseta Manga Corta  Rojo  Formula One 645  Medium](https://www.amazon.es/dp/B0777PZ7VF/?tag=tolees-21) con 34.66 de descuento por 18.95 EUR (original: 29 EUR) en el siguiente enlace!

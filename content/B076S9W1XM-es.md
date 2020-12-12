@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Under Armour UA W Surge  Zapatillas de Running para Mujer  Negro  Black/White/Venetian Blue   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076S9W1XM/?tag=tolees-21'
+descuento: '51.18'
+titulo: 'Under Armour UA W Surge  Zapatillas de R'
 ---
 
 Ahora mismo tienes [Under Armour UA W Surge  Zapatillas de Running para Mujer  Negro  Black/White/Venetian Blue   37.5 EU](https://www.amazon.es/dp/B076S9W1XM/?tag=tolees-21) a 29.29 EUR (original: 60 EUR) (51.18 %  de descuento) en el siguiente enlace!

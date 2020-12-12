@@ -17,6 +17,9 @@ comparePrice: 38.99 EUR
 inStock: true
 prodname: 'Bluedio T5 - Auriculares inalámbricos Bluetooth con cancelación de Ruido y micrófono para teléfonos y música  Color Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BXGNZPT/?tag=tolees-21'
+descuento: '48.73'
+titulo: 'Bluedio T5 - Auriculares inalámbricos Bl'
 ---
 
 Está [Bluedio T5 - Auriculares inalámbricos Bluetooth con cancelación de Ruido y micrófono para teléfonos y música  Color Rojo](https://www.amazon.es/dp/B07BXGNZPT/?tag=tolees-21) con 48.73 de descuento por 19.99 EUR (original: 38.99 EUR) en el siguiente enlace!

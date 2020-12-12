@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slhnewseason SS Polo W Noos  Hombre  Verde Burnt Olive  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B46NQXM/?tag=tolees-21'
+descuento: '59.42'
+titulo: 'SELECTED HOMME Slhnewseason SS Polo W No'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhnewseason SS Polo W Noos  Hombre  Verde Burnt Olive  Large](https://www.amazon.es/dp/B07B46NQXM/?tag=tolees-21) a 10.14 EUR (original: 24.99 EUR) (59.42 %  de descuento) en el siguiente enlace!

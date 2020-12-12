@@ -17,6 +17,9 @@ comparePrice: 44.9 EUR
 inStock: true
 prodname: 'Trigger Point Performance The Grid - Rodillo de espuma para entrenamiento y masajes  color Verde lima  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008YPZQCU/?tag=tolees-21'
+descuento: '35.50'
+titulo: 'Trigger Point Performance The Grid - Rod'
 ---
 
 Ahora mismo tienes [Trigger Point Performance The Grid - Rodillo de espuma para entrenamiento y masajes  color Verde lima  Talla única](https://www.amazon.es/dp/B008YPZQCU/?tag=tolees-21) a 28.96 EUR (original: 44.9 EUR) (35.50 %  de descuento) en el siguiente enlace!

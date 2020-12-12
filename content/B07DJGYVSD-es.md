@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 43ra203  Botas Chukka para Mujer  Beige  Tan 440   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJGYVSD/?tag=tolees-21'
+descuento: '67.51'
+titulo: 'Dockers by Gerli 43ra203  Botas Chukka p'
 ---
 
 Está [Dockers by Gerli 43ra203  Botas Chukka para Mujer  Beige  Tan 440   41 EU](https://www.amazon.es/dp/B07DJGYVSD/?tag=tolees-21) con 67.51 de descuento por 19.48 EUR (original: 59.95 EUR) en el siguiente enlace!

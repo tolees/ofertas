@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma Suede Heart EP  Zapatillas para Mujer  Negro Black-Metallic Beige  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MMWGGG/?tag=tolees-21'
+descuento: '71.99'
+titulo: 'Puma Suede Heart EP  Zapatillas para Muj'
 ---
 
 Ahora mismo tienes [Puma Suede Heart EP  Zapatillas para Mujer  Negro Black-Metallic Beige  40 EU](https://www.amazon.es/dp/B077MMWGGG/?tag=tolees-21) a 28 EUR (original: 99.95 EUR) (71.99 %  de descuento) en el siguiente enlace!

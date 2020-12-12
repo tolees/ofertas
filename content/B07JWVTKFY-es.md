@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'PUMA ftblNXT Adjustable Cap Gorra  Sin género  Black  OSFA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JWVTKFY/?tag=tolees-21'
+descuento: '39.44'
+titulo: 'PUMA ftblNXT Adjustable Cap Gorra  Sin g'
 ---
 
 Está [PUMA ftblNXT Adjustable Cap Gorra  Sin género  Black  OSFA](https://www.amazon.es/dp/B07JWVTKFY/?tag=tolees-21) con 39.44 de descuento por 10.87 EUR (original: 17.95 EUR) en el siguiente enlace!

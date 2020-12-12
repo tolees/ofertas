@@ -17,6 +17,9 @@ comparePrice: 23.23 EUR
 inStock: true
 prodname: 'YUECHAO Rodillera de compresión  1 Par   Rodillera de Soporte de Punto con Tiras de Gel para Correr  Deportes  Baloncesto  Desgarro de Meniscos  Artritis  Alivio para el Dolor en Las Articulaciones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R39H4HK/?tag=tolees-21'
+descuento: '31.17'
+titulo: 'YUECHAO Rodillera de compresión  1 Par  '
 ---
 
 Ahora mismo tienes [YUECHAO Rodillera de compresión  1 Par   Rodillera de Soporte de Punto con Tiras de Gel para Correr  Deportes  Baloncesto  Desgarro de Meniscos  Artritis  Alivio para el Dolor en Las Articulaciones](https://www.amazon.es/dp/B07R39H4HK/?tag=tolees-21) a 15.99 EUR (original: 23.23 EUR) (31.17 %  de descuento) en el siguiente enlace!

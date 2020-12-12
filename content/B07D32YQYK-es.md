@@ -17,6 +17,9 @@ comparePrice: 19.98 EUR
 inStock: true
 prodname: 'Gancho Pared Planta Soporte Colgante para Colgar las Cestas de Flores De Hierro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D32YQYK/?tag=tolees-21'
+descuento: '40.49'
+titulo: 'Gancho Pared Planta Soporte Colgante par'
 ---
 
 Tienes [Gancho Pared Planta Soporte Colgante para Colgar las Cestas de Flores De Hierro](https://www.amazon.es/dp/B07D32YQYK/?tag=tolees-21) con un 40.49 % de descuento con precio de oferta de 11.89 EUR (original: 19.98 EUR) en el siguiente enlace!

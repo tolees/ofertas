@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'SKLZ Accupoint - Masajeador ergonómico para tejidos blandos y columna'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008ERUSV2/?tag=tolees-21'
+descuento: '42.26'
+titulo: 'SKLZ Accupoint - Masajeador ergonómico p'
 ---
 
 Está [SKLZ Accupoint - Masajeador ergonómico para tejidos blandos y columna](https://www.amazon.es/dp/B008ERUSV2/?tag=tolees-21) con 42.26 de descuento por 14.43 EUR (original: 24.99 EUR) en el siguiente enlace!

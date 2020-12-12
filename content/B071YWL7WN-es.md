@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Under Armour UA BGS Lightning 2  Zapatillas de Running para Niños  Verde  Arena Green   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071YWL7WN/?tag=tolees-21'
+descuento: '64.63'
+titulo: 'Under Armour UA BGS Lightning 2  Zapatil'
 ---
 
 Tienes [Under Armour UA BGS Lightning 2  Zapatillas de Running para Niños  Verde  Arena Green   38 EU](https://www.amazon.es/dp/B071YWL7WN/?tag=tolees-21) con un 64.63 % de descuento con precio de oferta de 22.99 EUR (original: 65 EUR) en el siguiente enlace!

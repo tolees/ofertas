@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'PUMA Modern Sports Boyfriend TeeG Camiseta  Niñas  Blanco White  104'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHW6ZPW/?tag=tolees-21'
+descuento: '58.48'
+titulo: 'PUMA Modern Sports Boyfriend TeeG Camise'
 ---
 
 Está [PUMA Modern Sports Boyfriend TeeG Camiseta  Niñas  Blanco White  104](https://www.amazon.es/dp/B07JHW6ZPW/?tag=tolees-21) con 58.48 de descuento por 10.36 EUR (original: 24.95 EUR) en el siguiente enlace!

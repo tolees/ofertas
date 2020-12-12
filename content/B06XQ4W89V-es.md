@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Desigual CINT_to The Office Cinturón  Negro 2000  90 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XQ4W89V/?tag=tolees-21'
+descuento: '31.75'
+titulo: 'Desigual CINT_to The Office Cinturón  Ne'
 ---
 
 Tienes [Desigual CINT_to The Office Cinturón  Negro 2000  90 para Mujer](https://www.amazon.es/dp/B06XQ4W89V/?tag=tolees-21) con un 31.75 % de descuento con precio de oferta de 20.44 EUR (original: 29.95 EUR) en el siguiente enlace!

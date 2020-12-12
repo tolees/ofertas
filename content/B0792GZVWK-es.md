@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Quiksilver Contrasted Chaqueta  Niños  Dark Grey Heather  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792GZVWK/?tag=tolees-21'
+descuento: '43.77'
+titulo: 'Quiksilver Contrasted Chaqueta  Niños  D'
 ---
 
 Tienes [Quiksilver Contrasted Chaqueta  Niños  Dark Grey Heather  S](https://www.amazon.es/dp/B0792GZVWK/?tag=tolees-21) con un 43.77 % de descuento con precio de oferta de 28.11 EUR (original: 49.99 EUR) en el siguiente enlace!

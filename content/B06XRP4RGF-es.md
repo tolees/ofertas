@@ -17,6 +17,9 @@ comparePrice: 50.99 EUR
 inStock: true
 prodname: 'deAO Fuerzas Armadas Unidad de Defensa Militar Figuras de Acción Coleccionable Playset - 33 Piezas en Total'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XRP4RGF/?tag=tolees-21'
+descuento: '31.38'
+titulo: 'deAO Fuerzas Armadas Unidad de Defensa M'
 ---
 
 Está [deAO Fuerzas Armadas Unidad de Defensa Militar Figuras de Acción Coleccionable Playset - 33 Piezas en Total](https://www.amazon.es/dp/B06XRP4RGF/?tag=tolees-21) con 31.38 de descuento por 34.99 EUR (original: 50.99 EUR) en el siguiente enlace!

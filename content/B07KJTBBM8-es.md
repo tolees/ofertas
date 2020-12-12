@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Quiksilver Get Bizzy Camiseta  Hombre  Negro  Black   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJTBBM8/?tag=tolees-21'
+descuento: '32.13'
+titulo: 'Quiksilver Get Bizzy Camiseta  Hombre  N'
 ---
 
 Tienes [Quiksilver Get Bizzy Camiseta  Hombre  Negro  Black   M](https://www.amazon.es/dp/B07KJTBBM8/?tag=tolees-21) con un 32.13 % de descuento con precio de oferta de 17.64 EUR (original: 25.99 EUR) en el siguiente enlace!

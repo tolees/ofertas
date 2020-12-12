@@ -17,6 +17,9 @@ comparePrice: 56.45 EUR
 inStock: true
 prodname: 'Calvin Klein - Beauty - Eau de parfum para mujer - 30 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0042A0SYM/?tag=tolees-21'
+descuento: '54.10'
+titulo: 'Calvin Klein - Beauty - Eau de parfum pa'
 ---
 
 Tienes [Calvin Klein - Beauty - Eau de parfum para mujer - 30 ml](https://www.amazon.es/dp/B0042A0SYM/?tag=tolees-21) con un 54.10 % de descuento con precio de oferta de 25.91 EUR (original: 56.45 EUR) en el siguiente enlace!

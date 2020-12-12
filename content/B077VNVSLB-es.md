@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Pokemon JCC- Colección Poderes Supremos de Leyendas Luminosas  The Pokémon Company POGXPR01 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077VNVSLB/?tag=tolees-21'
+descuento: '51.31'
+titulo: 'Pokemon JCC- Colección Poderes Supremos '
 ---
 
 Ahora mismo tienes [Pokemon JCC- Colección Poderes Supremos de Leyendas Luminosas  The Pokémon Company POGXPR01 ](https://www.amazon.es/dp/B077VNVSLB/?tag=tolees-21) a 29.21 EUR (original: 59.99 EUR) (51.31 %  de descuento) en el siguiente enlace!

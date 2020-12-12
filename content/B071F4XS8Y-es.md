@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmgaltine LS Ruffle Blouse suéter  Rosa  Rose Cloud Detail:Melange   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071F4XS8Y/?tag=tolees-21'
+descuento: '57.89'
+titulo: 'Vero Moda Vmgaltine LS Ruffle Blouse sué'
 ---
 
 Ahora mismo tienes [Vero Moda Vmgaltine LS Ruffle Blouse suéter  Rosa  Rose Cloud Detail:Melange   Large para Mujer](https://www.amazon.es/dp/B071F4XS8Y/?tag=tolees-21) a 12.63 EUR (original: 29.99 EUR) (57.89 %  de descuento) en el siguiente enlace!

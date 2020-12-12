@@ -17,6 +17,9 @@ comparePrice: 470.99 EUR
 inStock: true
 prodname: 'HyperX Fury - Memoria RAM de 32 GB  DDR4  Kit 4 x 8 GB  2400 MHz  CL15  DIMM XMP  HX424C15FW2K4/32  Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XNQS9TP/?tag=tolees-21'
+descuento: '68.22'
+titulo: 'HyperX Fury - Memoria RAM de 32 GB  DDR4'
 ---
 
 Tienes [HyperX Fury - Memoria RAM de 32 GB  DDR4  Kit 4 x 8 GB  2400 MHz  CL15  DIMM XMP  HX424C15FW2K4/32  Color Blanco](https://www.amazon.es/dp/B06XNQS9TP/?tag=tolees-21) con un 68.22 % de descuento con precio de oferta de 149.69 EUR (original: 470.99 EUR) en el siguiente enlace!

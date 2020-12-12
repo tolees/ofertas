@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 1413945  Jersey para Hombre  Azul  Small  Tamaño del fabricante:2 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H89VGM/?tag=tolees-21'
+descuento: '74.42'
+titulo: 'Springfield 1413945  Jersey para Hombre '
 ---
 
 Ahora mismo tienes [Springfield 1413945  Jersey para Hombre  Azul  Small  Tamaño del fabricante:2 ](https://www.amazon.es/dp/B078H89VGM/?tag=tolees-21) a 7.67 EUR (original: 29.99 EUR) (74.42 %  de descuento) en el siguiente enlace!

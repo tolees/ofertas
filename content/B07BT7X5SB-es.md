@@ -17,6 +17,9 @@ comparePrice: 53.99 EUR
 inStock: true
 prodname: 'Terryfy Mujeres Hombro Fuera Blusas de Manga Larga 40 Rosado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BT7X5SB/?tag=tolees-21'
+descuento: '37.04'
+titulo: 'Terryfy Mujeres Hombro Fuera Blusas de M'
 ---
 
 Está [Terryfy Mujeres Hombro Fuera Blusas de Manga Larga 40 Rosado](https://www.amazon.es/dp/B07BT7X5SB/?tag=tolees-21) con 37.04 de descuento por 33.99 EUR (original: 53.99 EUR) en el siguiente enlace!

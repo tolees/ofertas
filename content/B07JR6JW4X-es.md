@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Alfawise A32 - Tarjeta de memoria 32GB Micro SD Clase 10 UHS-1 Tarjeta de memoria Transferencia de datos súper rápida de alta velocidad lectura 80MB / s'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JR6JW4X/?tag=tolees-21'
+descuento: '75.04'
+titulo: 'Alfawise A32 - Tarjeta de memoria 32GB M'
 ---
 
 Ahora mismo tienes [Alfawise A32 - Tarjeta de memoria 32GB Micro SD Clase 10 UHS-1 Tarjeta de memoria Transferencia de datos súper rápida de alta velocidad lectura 80MB / s](https://www.amazon.es/dp/B07JR6JW4X/?tag=tolees-21) a 4.99 EUR (original: 19.99 EUR) (75.04 %  de descuento) en el siguiente enlace!

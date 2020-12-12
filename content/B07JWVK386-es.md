@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'PUMA Rebel Basic tee Camiseta  Hombre  Blanco White  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JWVK386/?tag=tolees-21'
+descuento: '69.94'
+titulo: 'PUMA Rebel Basic tee Camiseta  Hombre  B'
 ---
 
 Tienes [PUMA Rebel Basic tee Camiseta  Hombre  Blanco White  XXL](https://www.amazon.es/dp/B07JWVK386/?tag=tolees-21) con un 69.94 % de descuento con precio de oferta de 7.5 EUR (original: 24.95 EUR) en el siguiente enlace!

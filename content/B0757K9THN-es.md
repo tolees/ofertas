@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Casco Bicicleta/Casco Bicic con Luz LED Certificado CE Casco Ciclismo con Visera y Forro Desmontable Especializado con Luz de Seguridad Super Light Casco Bici para Skateboarding Ski & Snowboard'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0757K9THN/?tag=tolees-21'
+descuento: '71.61'
+titulo: 'Casco Bicicleta/Casco Bicic con Luz LED '
 ---
 
 Está [Casco Bicicleta/Casco Bicic con Luz LED Certificado CE Casco Ciclismo con Visera y Forro Desmontable Especializado con Luz de Seguridad Super Light Casco Bici para Skateboarding Ski & Snowboard](https://www.amazon.es/dp/B0757K9THN/?tag=tolees-21) con 71.61 de descuento por 25.55 EUR (original: 89.99 EUR) en el siguiente enlace!

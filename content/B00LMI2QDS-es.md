@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Quiksilver Herren Monkey Wrench Sandals  Sandalias de Punta Descubierta para Hombre  Negro Black/Brown XCKC  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LMI2QDS/?tag=tolees-21'
+descuento: '35.00'
+titulo: 'Quiksilver Herren Monkey Wrench Sandals '
 ---
 
 Ahora mismo tienes [Quiksilver Herren Monkey Wrench Sandals  Sandalias de Punta Descubierta para Hombre  Negro Black/Brown XCKC  43 EU](https://www.amazon.es/dp/B00LMI2QDS/?tag=tolees-21) a 19.5 EUR (original: 30 EUR) (35.00 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 16.5 EUR
 inStock: true
 prodname: 'L Oréal Paris Máscara de Pestañas Unlimited'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DSW4LN1/?tag=tolees-21'
+descuento: '31.33'
+titulo: 'L Oréal Paris Máscara de Pestañas Unlimi'
 ---
 
 Tienes [L Oréal Paris Máscara de Pestañas Unlimited](https://www.amazon.es/dp/B07DSW4LN1/?tag=tolees-21) con un 31.33 % de descuento con precio de oferta de 11.33 EUR (original: 16.5 EUR) en el siguiente enlace!

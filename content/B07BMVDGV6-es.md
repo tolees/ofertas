@@ -17,6 +17,9 @@ comparePrice: 54.54 EUR
 inStock: true
 prodname: 'Vans_Apparel Classic Pullover Hoodie Capucha  Azul  Corsair-Khaki Rqb   128  Talla del Fabricante: Small  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BMVDGV6/?tag=tolees-21'
+descuento: '67.09'
+titulo: 'Vans_Apparel Classic Pullover Hoodie Cap'
 ---
 
 Está [Vans_Apparel Classic Pullover Hoodie Capucha  Azul  Corsair-Khaki Rqb   128  Talla del Fabricante: Small  para Niños](https://www.amazon.es/dp/B07BMVDGV6/?tag=tolees-21) con 67.09 de descuento por 17.95 EUR (original: 54.54 EUR) en el siguiente enlace!

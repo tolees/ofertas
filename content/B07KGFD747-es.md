@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'BOSS Trunk 3P CO/EL Bóxer   Open Miscellaneous 986   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGFD747/?tag=tolees-21'
+descuento: '35.57'
+titulo: 'BOSS Trunk 3P CO/EL Bóxer   Open Miscell'
 ---
 
 Está [BOSS Trunk 3P CO/EL Bóxer   Open Miscellaneous 986   XX-Large para Hombre](https://www.amazon.es/dp/B07KGFD747/?tag=tolees-21) con 35.57 de descuento por 25.74 EUR (original: 39.95 EUR) en el siguiente enlace!

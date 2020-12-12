@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans Cane  Vaqueros Slim para Hombre  Azul  11Oz Streaky Vintage Used M84   W28/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MG69QM2/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Pepe Jeans Cane  Vaqueros Slim para Homb'
 ---
 
 Tienes [Pepe Jeans Cane  Vaqueros Slim para Hombre  Azul  11Oz Streaky Vintage Used M84   W28/L32](https://www.amazon.es/dp/B01MG69QM2/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 38 EUR (original: 95 EUR) en el siguiente enlace!

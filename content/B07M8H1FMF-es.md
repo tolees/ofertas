@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'The North Face SS Raglan Easy tee Camiseta  Hombre  Rojo  Fiery Red   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8H1FMF/?tag=tolees-21'
+descuento: '45.86'
+titulo: 'The North Face SS Raglan Easy tee Camise'
 ---
 
 Está [The North Face SS Raglan Easy tee Camiseta  Hombre  Rojo  Fiery Red   S](https://www.amazon.es/dp/B07M8H1FMF/?tag=tolees-21) con 45.86 de descuento por 18.95 EUR (original: 35 EUR) en el siguiente enlace!

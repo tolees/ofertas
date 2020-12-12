@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Salomon XA Cap Gorra de Malla Impermeable  Unisex Adulto  Morado  Maverick   L/XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2QZKR9/?tag=tolees-21'
+descuento: '44.20'
+titulo: 'Salomon XA Cap Gorra de Malla Impermeabl'
 ---
 
 Tienes [Salomon XA Cap Gorra de Malla Impermeable  Unisex Adulto  Morado  Maverick   L/XL](https://www.amazon.es/dp/B07F2QZKR9/?tag=tolees-21) con un 44.20 % de descuento con precio de oferta de 13.95 EUR (original: 25 EUR) en el siguiente enlace!

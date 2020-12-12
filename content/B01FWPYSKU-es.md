@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Nike Magista Ola Ii Fg  Botas de Fútbol para Hombre  Naranja  Total Crimson / Black-Brt Mango   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FWPYSKU/?tag=tolees-21'
+descuento: '39.18'
+titulo: 'Nike Magista Ola Ii Fg  Botas de Fútbol '
 ---
 
 Está [Nike Magista Ola Ii Fg  Botas de Fútbol para Hombre  Naranja  Total Crimson / Black-Brt Mango   44.5 EU](https://www.amazon.es/dp/B01FWPYSKU/?tag=tolees-21) con 39.18 de descuento por 30.41 EUR (original: 50 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Palm Candid  Sandalia con Pulsera para Mujer  Verde  Olive Nubuck-   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSPZT4Z/?tag=tolees-21'
+descuento: '62.35'
+titulo: 'Clarks Palm Candid  Sandalia con Pulsera'
 ---
 
 Ahora mismo tienes [Clarks Palm Candid  Sandalia con Pulsera para Mujer  Verde  Olive Nubuck-   41.5 EU](https://www.amazon.es/dp/B07FSPZT4Z/?tag=tolees-21) a 41.41 EUR (original: 110 EUR) (62.35 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Salomon XA Lite GTX W  Zapatillas de Trail Running para Mujer  Violeta  Grape Juice/Acai/Phantom   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071Y5FWTD/?tag=tolees-21'
+descuento: '58.15'
+titulo: 'Salomon XA Lite GTX W  Zapatillas de Tra'
 ---
 
 Está [Salomon XA Lite GTX W  Zapatillas de Trail Running para Mujer  Violeta  Grape Juice/Acai/Phantom   36 EU](https://www.amazon.es/dp/B071Y5FWTD/?tag=tolees-21) con 58.15 de descuento por 58.57 EUR (original: 139.95 EUR) en el siguiente enlace!

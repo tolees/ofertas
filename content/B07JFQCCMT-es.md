@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Lacoste Sport Yj5413 Polo  Azul  Marine/Blanc 525   6 años  Talla del Fabricante: 6A  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JFQCCMT/?tag=tolees-21'
+descuento: '40.41'
+titulo: 'Lacoste Sport Yj5413 Polo  Azul  Marine/'
 ---
 
 Está [Lacoste Sport Yj5413 Polo  Azul  Marine/Blanc 525   6 años  Talla del Fabricante: 6A  para Niños](https://www.amazon.es/dp/B07JFQCCMT/?tag=tolees-21) con 40.41 de descuento por 35.16 EUR (original: 59 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Mustang Schnür-Booty  Botas Clasicas para Hombre  Marrón  Cognac 307   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9YSD9T/?tag=tolees-21'
+descuento: '69.98'
+titulo: 'Mustang Schnür-Booty  Botas Clasicas par'
 ---
 
 Está [Mustang Schnür-Booty  Botas Clasicas para Hombre  Marrón  Cognac 307   41 EU](https://www.amazon.es/dp/B07D9YSD9T/?tag=tolees-21) con 69.98 de descuento por 24 EUR (original: 79.95 EUR) en el siguiente enlace!

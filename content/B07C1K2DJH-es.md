@@ -17,6 +17,9 @@ comparePrice: 19.05 EUR
 inStock: true
 prodname: 'PRODG Samoa-Carpeta Anillas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C1K2DJH/?tag=tolees-21'
+descuento: '61.26'
+titulo: 'PRODG Samoa-Carpeta Anillas'
 ---
 
 Está [PRODG Samoa-Carpeta Anillas](https://www.amazon.es/dp/B07C1K2DJH/?tag=tolees-21) con 61.26 de descuento por 7.38 EUR (original: 19.05 EUR) en el siguiente enlace!

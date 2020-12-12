@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Hajo Pullover  suéter para Mujer  Gris  Graumelange 104   50  Talla del Fabricante: 48 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7QF9Z9/?tag=tolees-21'
+descuento: '83.92'
+titulo: 'Hajo Pullover  suéter para Mujer  Gris  '
 ---
 
 Ahora mismo tienes [Hajo Pullover  suéter para Mujer  Gris  Graumelange 104   50  Talla del Fabricante: 48 ](https://www.amazon.es/dp/B07F7QF9Z9/?tag=tolees-21) a 11.25 EUR (original: 69.95 EUR) (83.92 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Volden-Fandom  Zapatillas para Hombre  Negro  Black Blk   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078YYNV3G/?tag=tolees-21'
+descuento: '58.68'
+titulo: 'Skechers Volden-Fandom  Zapatillas para '
 ---
 
 Tienes [Skechers Volden-Fandom  Zapatillas para Hombre  Negro  Black Blk   42 EU](https://www.amazon.es/dp/B078YYNV3G/?tag=tolees-21) con un 58.68 % de descuento con precio de oferta de 26.84 EUR (original: 64.95 EUR) en el siguiente enlace!

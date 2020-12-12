@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko Pop! - Ron Herbology Figura de Vinilo 29501'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079YC41DM/?tag=tolees-21'
+descuento: '43.63'
+titulo: 'Funko Pop! - Ron Herbology Figura de Vin'
 ---
 
 Tienes [Funko Pop! - Ron Herbology Figura de Vinilo 29501](https://www.amazon.es/dp/B079YC41DM/?tag=tolees-21) con un 43.63 % de descuento con precio de oferta de 8.45 EUR (original: 14.99 EUR) en el siguiente enlace!

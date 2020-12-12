@@ -17,6 +17,9 @@ comparePrice: 65.58 EUR
 inStock: true
 prodname: 'SADES R7 Auricular con micrófono  USB auricular Gaming auriculares compatible con virtual 7.1 sonido surround con micrófono retráctil EQ Bass Boost para portátil PC y Mac  negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076K8XNTC/?tag=tolees-21'
+descuento: '80.19'
+titulo: 'SADES R7 Auricular con micrófono  USB au'
 ---
 
 Tienes [SADES R7 Auricular con micrófono  USB auricular Gaming auriculares compatible con virtual 7.1 sonido surround con micrófono retráctil EQ Bass Boost para portátil PC y Mac  negro ](https://www.amazon.es/dp/B076K8XNTC/?tag=tolees-21) con un 80.19 % de descuento con precio de oferta de 12.99 EUR (original: 65.58 EUR) en el siguiente enlace!

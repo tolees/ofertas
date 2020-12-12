@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance X-90  Zapatillas para Hombre  Gris  Castlerock/Moroccan Tile Gr   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFSDXK7/?tag=tolees-21'
+descuento: '73.75'
+titulo: 'New Balance X-90  Zapatillas para Hombre'
 ---
 
 Ahora mismo tienes [New Balance X-90  Zapatillas para Hombre  Gris  Castlerock/Moroccan Tile Gr   42.5 EU](https://www.amazon.es/dp/B07DFSDXK7/?tag=tolees-21) a 28.87 EUR (original: 110 EUR) (73.75 %  de descuento) en el siguiente enlace!

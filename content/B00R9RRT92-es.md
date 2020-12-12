@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'P-L-D-M by Palladium - Bailarinas de cuero para mujer  Pink  Asiago   36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00R9RRT92/?tag=tolees-21'
+descuento: '81.80'
+titulo: 'P-L-D-M by Palladium - Bailarinas de cue'
 ---
 
 Ahora mismo tienes [P-L-D-M by Palladium - Bailarinas de cuero para mujer  Pink  Asiago   36](https://www.amazon.es/dp/B00R9RRT92/?tag=tolees-21) a 16.2 EUR (original: 89 EUR) (81.80 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'XLS Detox - Ayuda a eliminar toxinas  al metabolismo de la grasa y favorece una digestión saludable. Detoxifica tu cuerpo antes de perder peso - 8 sobres'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB9C3X8/?tag=tolees-21'
+descuento: '28.05'
+titulo: 'XLS Detox - Ayuda a eliminar toxinas  al'
 ---
 
 Tienes [XLS Detox - Ayuda a eliminar toxinas  al metabolismo de la grasa y favorece una digestión saludable. Detoxifica tu cuerpo antes de perder peso - 8 sobres](https://www.amazon.es/dp/B07BB9C3X8/?tag=tolees-21) con un 28.05 % de descuento con precio de oferta de 21.55 EUR (original: 29.95 EUR) en el siguiente enlace!

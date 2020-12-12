@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers You Define-Passion  Zapatillas sin Cordones para Mujer  Morado  Mauve MVE   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GN8QJD/?tag=tolees-21'
+descuento: '48.41'
+titulo: 'Skechers You Define-Passion  Zapatillas '
 ---
 
 Ahora mismo tienes [Skechers You Define-Passion  Zapatillas sin Cordones para Mujer  Morado  Mauve MVE   37.5 EU](https://www.amazon.es/dp/B078GN8QJD/?tag=tolees-21) a 30.93 EUR (original: 59.95 EUR) (48.41 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 238.87 EUR
 inStock: true
 prodname: 'Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable EFS-S520CBL-1AUEF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079ZN5KJZ/?tag=tolees-21'
+descuento: '44.61'
+titulo: 'Casio Reloj Analógico para Hombre de Cua'
 ---
 
 Tienes [Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable EFS-S520CBL-1AUEF](https://www.amazon.es/dp/B079ZN5KJZ/?tag=tolees-21) con un 44.61 % de descuento con precio de oferta de 132.3 EUR (original: 238.87 EUR) en el siguiente enlace!

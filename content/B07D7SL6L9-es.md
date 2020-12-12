@@ -17,6 +17,9 @@ comparePrice: 14.66 EUR
 inStock: true
 prodname: 'AmazonBasics - Cable macho de USB 2.0 C a USB 3.1 A  1 ª generación  de nailon con trenzado doble | 0 3 m  Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7SL6L9/?tag=tolees-21'
+descuento: '48.91'
+titulo: 'AmazonBasics - Cable macho de USB 2.0 C '
 ---
 
 Ahora mismo tienes [AmazonBasics - Cable macho de USB 2.0 C a USB 3.1 A  1 ª generación  de nailon con trenzado doble | 0 3 m  Rojo](https://www.amazon.es/dp/B07D7SL6L9/?tag=tolees-21) a 7.49 EUR (original: 14.66 EUR) (48.91 %  de descuento) en el siguiente enlace!

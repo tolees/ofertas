@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Eachy Compatible con Cristal Templado para Samsung Galaxy A8 2018 Vidrio Templado  [2 Unidades] Protector de Pantalla para Samsung Galaxy A8 2018  SM-A530  Cobertura Completa 5 6 Pulgadas-Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQ9YQZS/?tag=tolees-21'
+descuento: '62.03'
+titulo: 'Eachy Compatible con Cristal Templado pa'
 ---
 
 Está [Eachy Compatible con Cristal Templado para Samsung Galaxy A8 2018 Vidrio Templado  [2 Unidades] Protector de Pantalla para Samsung Galaxy A8 2018  SM-A530  Cobertura Completa 5 6 Pulgadas-Negro](https://www.amazon.es/dp/B07KQ9YQZS/?tag=tolees-21) con 62.03 de descuento por 7.59 EUR (original: 19.99 EUR) en el siguiente enlace!

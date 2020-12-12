@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Grapadora Eléctrica con Capacidad para 20 Hojas  CNASA Grapadora Electrónica Batería Automática o AC Operada Para la Oficina y La Escuela en el Hogar  enchufe de la UE incluido '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GDRXK6O/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Grapadora Eléctrica con Capacidad para 2'
 ---
 
 Está [Grapadora Eléctrica con Capacidad para 20 Hojas  CNASA Grapadora Electrónica Batería Automática o AC Operada Para la Oficina y La Escuela en el Hogar  enchufe de la UE incluido ](https://www.amazon.es/dp/B01GDRXK6O/?tag=tolees-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

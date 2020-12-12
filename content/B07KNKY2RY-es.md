@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Adidas Predator 19.3 FG J  Botas de fútbol Unisex niño   Rojact/Rojsol/Negbás 000   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KNKY2RY/?tag=tolees-21'
+descuento: '40.03'
+titulo: 'Adidas Predator 19.3 FG J  Botas de fútb'
 ---
 
 Tienes [Adidas Predator 19.3 FG J  Botas de fútbol Unisex niño   Rojact/Rojsol/Negbás 000   35 EU](https://www.amazon.es/dp/B07KNKY2RY/?tag=tolees-21) con un 40.03 % de descuento con precio de oferta de 35.95 EUR (original: 59.95 EUR) en el siguiente enlace!

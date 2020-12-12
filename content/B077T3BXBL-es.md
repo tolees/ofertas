@@ -17,6 +17,9 @@ comparePrice: 42 EUR
 inStock: true
 prodname: 'HOM Bond Trunk  Bañador Hombre  Negro  Noir   X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077T3BXBL/?tag=tolees-21'
+descuento: '69.38'
+titulo: 'HOM Bond Trunk  Bañador Hombre  Negro  N'
 ---
 
 Ahora mismo tienes [HOM Bond Trunk  Bañador Hombre  Negro  Noir   X-Small](https://www.amazon.es/dp/B077T3BXBL/?tag=tolees-21) a 12.86 EUR (original: 42 EUR) (69.38 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 57 EUR
 inStock: true
 prodname: 'Clinique  Mascarilla hidratante y rejuvenecedora para la cara - 125 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8ZJ83G/?tag=tolees-21'
+descuento: '41.88'
+titulo: 'Clinique  Mascarilla hidratante y rejuve'
 ---
 
 Ahora mismo tienes [Clinique  Mascarilla hidratante y rejuvenecedora para la cara - 125 ml.](https://www.amazon.es/dp/B07F8ZJ83G/?tag=tolees-21) a 33.13 EUR (original: 57 EUR) (41.88 %  de descuento) en el siguiente enlace!

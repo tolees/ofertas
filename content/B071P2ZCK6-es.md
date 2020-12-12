@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Under Armour UA Heat Seeker  Zapatos de Baloncesto para Hombre  Negro  Anthracite 101   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071P2ZCK6/?tag=tolees-21'
+descuento: '53.65'
+titulo: 'Under Armour UA Heat Seeker  Zapatos de '
 ---
 
 Está [Under Armour UA Heat Seeker  Zapatos de Baloncesto para Hombre  Negro  Anthracite 101   47 EU](https://www.amazon.es/dp/B071P2ZCK6/?tag=tolees-21) con 53.65 de descuento por 50.99 EUR (original: 110 EUR) en el siguiente enlace!

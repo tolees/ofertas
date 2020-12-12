@@ -17,6 +17,9 @@ comparePrice: 64.9 EUR
 inStock: true
 prodname: 'Supra Vaider  Zapatillas Altas Unisex Niños  Negro  Black/Teal-White 056   35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07934QSXV/?tag=tolees-21'
+descuento: '82.70'
+titulo: 'Supra Vaider  Zapatillas Altas Unisex Ni'
 ---
 
 Ahora mismo tienes [Supra Vaider  Zapatillas Altas Unisex Niños  Negro  Black/Teal-White 056   35.5 EU](https://www.amazon.es/dp/B07934QSXV/?tag=tolees-21) a 11.23 EUR (original: 64.9 EUR) (82.70 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'adidas COURT70S  Zapatillas de Deporte para Hombre  Negro Negbás/Gum5 0  44 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GYPC6TD/?tag=tolees-21'
+descuento: '48.71'
+titulo: 'adidas COURT70S  Zapatillas de Deporte p'
 ---
 
 Está [adidas COURT70S  Zapatillas de Deporte para Hombre  Negro Negbás/Gum5 0  44 2/3 EU](https://www.amazon.es/dp/B07GYPC6TD/?tag=tolees-21) con 48.71 de descuento por 38.44 EUR (original: 74.95 EUR) en el siguiente enlace!

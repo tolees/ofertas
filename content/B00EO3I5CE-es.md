@@ -17,6 +17,9 @@ comparePrice: 33 EUR
 inStock: true
 prodname: 'Clinique Superdefense CC Crema Tono Light Medium - 40 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00EO3I5CE/?tag=tolees-21'
+descuento: '30.91'
+titulo: 'Clinique Superdefense CC Crema Tono Ligh'
 ---
 
 Ahora mismo tienes [Clinique Superdefense CC Crema Tono Light Medium - 40 ml](https://www.amazon.es/dp/B00EO3I5CE/?tag=tolees-21) a 22.8 EUR (original: 33 EUR) (30.91 %  de descuento) en el siguiente enlace!

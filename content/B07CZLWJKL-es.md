@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Under Armour UA Vanish Mid Bra Sujetador  Mujer  Morado  Purple Prime/Black 521   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZLWJKL/?tag=tolees-21'
+descuento: '59.32'
+titulo: 'Under Armour UA Vanish Mid Bra Sujetador'
 ---
 
 Está [Under Armour UA Vanish Mid Bra Sujetador  Mujer  Morado  Purple Prime/Black 521   L](https://www.amazon.es/dp/B07CZLWJKL/?tag=tolees-21) con 59.32 de descuento por 18.3 EUR (original: 44.99 EUR) en el siguiente enlace!

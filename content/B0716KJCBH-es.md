@@ -17,6 +17,9 @@ comparePrice: 34.06 EUR
 inStock: true
 prodname: 'SELECTED HOMME Shnholes Belt Noos  Cinturón Hombre  Negro  Black   95'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0716KJCBH/?tag=tolees-21'
+descuento: '65.97'
+titulo: 'SELECTED HOMME Shnholes Belt Noos  Cintu'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Shnholes Belt Noos  Cinturón Hombre  Negro  Black   95](https://www.amazon.es/dp/B0716KJCBH/?tag=tolees-21) a 11.59 EUR (original: 34.06 EUR) (65.97 %  de descuento) en el siguiente enlace!

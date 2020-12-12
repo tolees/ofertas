@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Mustang Schnür-Booty  Botines para Mujer  Azul  Navy 820   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9YQ23T/?tag=tolees-21'
+descuento: '72.74'
+titulo: 'Mustang Schnür-Booty  Botines para Mujer'
 ---
 
 Tienes [Mustang Schnür-Booty  Botines para Mujer  Azul  Navy 820   36 EU](https://www.amazon.es/dp/B07D9YQ23T/?tag=tolees-21) con un 72.74 % de descuento con precio de oferta de 20.43 EUR (original: 74.95 EUR) en el siguiente enlace!

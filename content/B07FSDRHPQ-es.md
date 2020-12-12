@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Clarks Step Isle Crew  Zapatos de Cordones Derby para Hombre  Negro  Black-   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSDRHPQ/?tag=tolees-21'
+descuento: '57.73'
+titulo: 'Clarks Step Isle Crew  Zapatos de Cordon'
 ---
 
 Está [Clarks Step Isle Crew  Zapatos de Cordones Derby para Hombre  Negro  Black-   44.5 EU](https://www.amazon.es/dp/B07FSDRHPQ/?tag=tolees-21) con 57.73 de descuento por 29.57 EUR (original: 69.95 EUR) en el siguiente enlace!

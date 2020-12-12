@@ -17,6 +17,9 @@ comparePrice: 105 EUR
 inStock: true
 prodname: 'Corioliss C1 - Plancha de pelo profesional  tecnología de titanio  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004L5XBAQ/?tag=tolees-21'
+descuento: '27.42'
+titulo: 'Corioliss C1 - Plancha de pelo profesion'
 ---
 
 Tienes [Corioliss C1 - Plancha de pelo profesional  tecnología de titanio  color negro](https://www.amazon.es/dp/B004L5XBAQ/?tag=tolees-21) con un 27.42 % de descuento con precio de oferta de 76.21 EUR (original: 105 EUR) en el siguiente enlace!

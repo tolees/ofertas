@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Oakland Lace  Zapatos de Cordones Derby para Hombre  Marrón  Dark Brown Leather   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B94LQKN/?tag=tolees-21'
+descuento: '45.40'
+titulo: 'Clarks Oakland Lace  Zapatos de Cordones'
 ---
 
 Ahora mismo tienes [Clarks Oakland Lace  Zapatos de Cordones Derby para Hombre  Marrón  Dark Brown Leather   42 EU](https://www.amazon.es/dp/B07B94LQKN/?tag=tolees-21) a 60.06 EUR (original: 110 EUR) (45.40 %  de descuento) en el siguiente enlace!

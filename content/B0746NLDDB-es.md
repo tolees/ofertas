@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Skechers Twinkle Breeze 2.0-Character  Zapatillas para Niñas   Hot Pink/Multicolour   33 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0746NLDDB/?tag=tolees-21'
+descuento: '35.49'
+titulo: 'Skechers Twinkle Breeze 2.0-Character  Z'
 ---
 
 Ahora mismo tienes [Skechers Twinkle Breeze 2.0-Character  Zapatillas para Niñas   Hot Pink/Multicolour   33 EU](https://www.amazon.es/dp/B0746NLDDB/?tag=tolees-21) a 35.45 EUR (original: 54.95 EUR) (35.49 %  de descuento) en el siguiente enlace!

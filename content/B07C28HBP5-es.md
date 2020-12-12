@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjejeans Sweat Hood Noos  Capucha para Hombre  Gris  White Detail:Reg Fit-Melange   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C28HBP5/?tag=tolees-21'
+descuento: '43.48'
+titulo: 'JACK & JONES Jjejeans Sweat Hood Noos  C'
 ---
 
 Está [JACK & JONES Jjejeans Sweat Hood Noos  Capucha para Hombre  Gris  White Detail:Reg Fit-Melange   X-Large](https://www.amazon.es/dp/B07C28HBP5/?tag=tolees-21) con 43.48 de descuento por 16.95 EUR (original: 29.99 EUR) en el siguiente enlace!

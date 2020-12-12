@@ -17,6 +17,9 @@ comparePrice: 50.59 EUR
 inStock: true
 prodname: 'New Look Trim Lined 5545424  Parka para Mujer  Beige  Stone 16  34  Talla del Fabricante: 6 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2F4JDL/?tag=tolees-21'
+descuento: '78.85'
+titulo: 'New Look Trim Lined 5545424  Parka para '
 ---
 
 Está [New Look Trim Lined 5545424  Parka para Mujer  Beige  Stone 16  34  Talla del Fabricante: 6 ](https://www.amazon.es/dp/B07K2F4JDL/?tag=tolees-21) con 78.85 de descuento por 10.7 EUR (original: 50.59 EUR) en el siguiente enlace!

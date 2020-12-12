@@ -17,6 +17,9 @@ comparePrice: 23.6 EUR
 inStock: true
 prodname: 'Schwarzkopf Professional Silhouette Espuma de Fijación Extra Fuerte - 500 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005UM7RE0/?tag=tolees-21'
+descuento: '49.03'
+titulo: 'Schwarzkopf Professional Silhouette Espu'
 ---
 
 Tienes [Schwarzkopf Professional Silhouette Espuma de Fijación Extra Fuerte - 500 ml](https://www.amazon.es/dp/B005UM7RE0/?tag=tolees-21) con un 49.03 % de descuento con precio de oferta de 12.03 EUR (original: 23.6 EUR) en el siguiente enlace!

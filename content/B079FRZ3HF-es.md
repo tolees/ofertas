@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'J.Rosée Pendientes Mujer Plata de Ley 925 [Belleza de Lo Simple] Regalos Originales  Regalos Navidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079FRZ3HF/?tag=tolees-21'
+descuento: '81.25'
+titulo: 'J.Rosée Pendientes Mujer Plata de Ley 92'
 ---
 
 Está [J.Rosée Pendientes Mujer Plata de Ley 925 [Belleza de Lo Simple] Regalos Originales  Regalos Navidad](https://www.amazon.es/dp/B079FRZ3HF/?tag=tolees-21) con 81.25 de descuento por 16.87 EUR (original: 89.99 EUR) en el siguiente enlace!

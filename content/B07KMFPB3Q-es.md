@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'adidas W E Lin Slim Tk Tank Top  Mujer  Black/White  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KMFPB3Q/?tag=tolees-21'
+descuento: '36.67'
+titulo: 'adidas W E Lin Slim Tk Tank Top  Mujer  '
 ---
 
 Está [adidas W E Lin Slim Tk Tank Top  Mujer  Black/White  S](https://www.amazon.es/dp/B07KMFPB3Q/?tag=tolees-21) con 36.67 de descuento por 12.66 EUR (original: 19.99 EUR) en el siguiente enlace!

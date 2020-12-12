@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Pack: Dragon Ball Fighterz + Dragon Ball Xenoverse 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HG7RM36/?tag=tolees-21'
+descuento: '32.19'
+titulo: 'Pack: Dragon Ball Fighterz + Dragon Ball'
 ---
 
 Ahora mismo tienes [Pack: Dragon Ball Fighterz + Dragon Ball Xenoverse 2](https://www.amazon.es/dp/B07HG7RM36/?tag=tolees-21) a 40.68 EUR (original: 59.99 EUR) (32.19 %  de descuento) en el siguiente enlace!

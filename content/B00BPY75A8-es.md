@@ -17,6 +17,9 @@ comparePrice: 19.7 EUR
 inStock: true
 prodname: 'Salerm Tratamiento de Eliminación de Pigmentos Artificiales - 2 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BPY75A8/?tag=tolees-21'
+descuento: '30.30'
+titulo: 'Salerm Tratamiento de Eliminación de Pig'
 ---
 
 Ahora mismo tienes [Salerm Tratamiento de Eliminación de Pigmentos Artificiales - 2 Unidades](https://www.amazon.es/dp/B00BPY75A8/?tag=tolees-21) a 13.73 EUR (original: 19.7 EUR) (30.30 %  de descuento) en el siguiente enlace!

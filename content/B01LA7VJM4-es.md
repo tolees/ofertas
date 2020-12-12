@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'CamelBak Chute – Botella libre de BPA  color multicolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LA7VJM4/?tag=tolees-21'
+descuento: '26.35'
+titulo: 'CamelBak Chute – Botella libre de BPA  c'
 ---
 
 Tienes [CamelBak Chute – Botella libre de BPA  color multicolor](https://www.amazon.es/dp/B01LA7VJM4/?tag=tolees-21) con un 26.35 % de descuento con precio de oferta de 13.22 EUR (original: 17.95 EUR) en el siguiente enlace!

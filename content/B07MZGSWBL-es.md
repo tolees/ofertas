@@ -17,6 +17,9 @@ comparePrice: 196.46 EUR
 inStock: true
 prodname: 'Diesel J-coreli Jacket Chaqueta  Negro  Black 900   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZGSWBL/?tag=tolees-21'
+descuento: '51.92'
+titulo: 'Diesel J-coreli Jacket Chaqueta  Negro  '
 ---
 
 Está [Diesel J-coreli Jacket Chaqueta  Negro  Black 900   Small para Hombre](https://www.amazon.es/dp/B07MZGSWBL/?tag=tolees-21) con 51.92 de descuento por 94.45 EUR (original: 196.46 EUR) en el siguiente enlace!

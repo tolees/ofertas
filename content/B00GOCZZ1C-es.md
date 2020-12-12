@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Superga S002J20 Lamej - Zapatillas  Unisex infantil  Dorado  24 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GOCZZ1C/?tag=tolees-21'
+descuento: '69.90'
+titulo: 'Superga S002J20 Lamej - Zapatillas  Unis'
 ---
 
 Está [Superga S002J20 Lamej - Zapatillas  Unisex infantil  Dorado  24 EU](https://www.amazon.es/dp/B00GOCZZ1C/?tag=tolees-21) con 69.90 de descuento por 17.76 EUR (original: 59 EUR) en el siguiente enlace!

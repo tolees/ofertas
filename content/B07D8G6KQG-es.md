@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Cruz Sockfit  Zapatillas para Hombre  Verde  Faded Rosin/Rain Cloud/Mineral Green Lg2   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8G6KQG/?tag=tolees-21'
+descuento: '66.12'
+titulo: 'New Balance Fresh Foam Cruz Sockfit  Zap'
 ---
 
 Tienes [New Balance Fresh Foam Cruz Sockfit  Zapatillas para Hombre  Verde  Faded Rosin/Rain Cloud/Mineral Green Lg2   43 EU](https://www.amazon.es/dp/B07D8G6KQG/?tag=tolees-21) con un 66.12 % de descuento con precio de oferta de 33.88 EUR (original: 100 EUR) en el siguiente enlace!

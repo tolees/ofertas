@@ -17,6 +17,9 @@ comparePrice: 38.99 EUR
 inStock: true
 prodname: 'GUARD & REVIVAL TREAT Cuerda Saltar de Velocidad Profesional  Jump Rope Giro de 360 Grados y Fácil Ajustable  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GZBDZKJ/?tag=tolees-21'
+descuento: '56.42'
+titulo: 'GUARD & REVIVAL TREAT Cuerda Saltar de V'
 ---
 
 Está [GUARD & REVIVAL TREAT Cuerda Saltar de Velocidad Profesional  Jump Rope Giro de 360 Grados y Fácil Ajustable  Rojo ](https://www.amazon.es/dp/B07GZBDZKJ/?tag=tolees-21) con 56.42 de descuento por 16.99 EUR (original: 38.99 EUR) en el siguiente enlace!

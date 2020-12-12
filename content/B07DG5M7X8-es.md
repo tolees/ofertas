@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Gioseppo Botas Clasicas para Hombre   Negro 46398-P   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG5M7X8/?tag=tolees-21'
+descuento: '59.73'
+titulo: 'Gioseppo Botas Clasicas para Hombre   Ne'
 ---
 
 Tienes [Gioseppo Botas Clasicas para Hombre   Negro 46398-P   42 EU](https://www.amazon.es/dp/B07DG5M7X8/?tag=tolees-21) con un 59.73 % de descuento con precio de oferta de 30.18 EUR (original: 74.95 EUR) en el siguiente enlace!

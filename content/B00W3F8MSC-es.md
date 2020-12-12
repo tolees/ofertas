@@ -17,6 +17,9 @@ comparePrice: 149.14 EUR
 inStock: true
 prodname: 'Pierre Cardin PC106952F09 - Reloj de cuarzo para mujer  Swiss Made'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00W3F8MSC/?tag=tolees-21'
+descuento: '35.65'
+titulo: 'Pierre Cardin PC106952F09 - Reloj de cua'
 ---
 
 Ahora mismo tienes [Pierre Cardin PC106952F09 - Reloj de cuarzo para mujer  Swiss Made](https://www.amazon.es/dp/B00W3F8MSC/?tag=tolees-21) a 95.97 EUR (original: 149.14 EUR) (35.65 %  de descuento) en el siguiente enlace!

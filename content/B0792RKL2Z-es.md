@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas CF Racer TR  Zapatillas de Running para Hombre  Blanco Core Black/FTWR White  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792RKL2Z/?tag=tolees-21'
+descuento: '42.30'
+titulo: 'adidas CF Racer TR  Zapatillas de Runnin'
 ---
 
 Ahora mismo tienes [adidas CF Racer TR  Zapatillas de Running para Hombre  Blanco Core Black/FTWR White  36 EU](https://www.amazon.es/dp/B0792RKL2Z/?tag=tolees-21) a 40.36 EUR (original: 69.95 EUR) (42.30 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Under Armour Crossfade tee Camiseta  Niños  Negro  Black/Steel/Stealth Gray 001   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XSMSH3/?tag=tolees-21'
+descuento: '47.57'
+titulo: 'Under Armour Crossfade tee Camiseta  Niñ'
 ---
 
 Ahora mismo tienes [Under Armour Crossfade tee Camiseta  Niños  Negro  Black/Steel/Stealth Gray 001   L](https://www.amazon.es/dp/B077XSMSH3/?tag=tolees-21) a 10.48 EUR (original: 19.99 EUR) (47.57 %  de descuento) en el siguiente enlace!

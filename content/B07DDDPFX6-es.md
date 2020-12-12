@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Altavoz Bluetooth PURIDEA Mini i6+ Subwoofer Inalámbrico Portátil con 300 Minutos de Emisión Continua Manos Libres，360 °Sonido Envolvente Estéreo con HD Sonido y Bluetooth V4.2 -Negro 2PACK'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DDDPFX6/?tag=tolees-21'
+descuento: '71.26'
+titulo: 'Altavoz Bluetooth PURIDEA Mini i6+ Subwo'
 ---
 
 Está [Altavoz Bluetooth PURIDEA Mini i6+ Subwoofer Inalámbrico Portátil con 300 Minutos de Emisión Continua Manos Libres，360 °Sonido Envolvente Estéreo con HD Sonido y Bluetooth V4.2 -Negro 2PACK](https://www.amazon.es/dp/B07DDDPFX6/?tag=tolees-21) con 71.26 de descuento por 22.99 EUR (original: 79.99 EUR) en el siguiente enlace!

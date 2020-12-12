@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Depiladora Mujer  Xpreen Depiladora Facial de Vello para Mujer EléCtrica Afeitadora Femenina Recortadora Eliminador de Vello Silkepil sin Dolor para Labio  Rostro  Axilas y Cuerpo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QRR18YV/?tag=tolees-21'
+descuento: '63.35'
+titulo: 'Depiladora Mujer  Xpreen Depiladora Faci'
 ---
 
 Está [Depiladora Mujer  Xpreen Depiladora Facial de Vello para Mujer EléCtrica Afeitadora Femenina Recortadora Eliminador de Vello Silkepil sin Dolor para Labio  Rostro  Axilas y Cuerpo](https://www.amazon.es/dp/B07QRR18YV/?tag=tolees-21) con 63.35 de descuento por 10.99 EUR (original: 29.99 EUR) en el siguiente enlace!

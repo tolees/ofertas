@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Columbia Wave TrainTM  Sandalias para Mujer  Negro  Black  White   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RNGTN8/?tag=tolees-21'
+descuento: '35.07'
+titulo: 'Columbia Wave TrainTM  Sandalias para Mu'
 ---
 
 Tienes [Columbia Wave TrainTM  Sandalias para Mujer  Negro  Black  White   37 EU](https://www.amazon.es/dp/B073RNGTN8/?tag=tolees-21) con un 35.07 % de descuento con precio de oferta de 38.95 EUR (original: 59.99 EUR) en el siguiente enlace!

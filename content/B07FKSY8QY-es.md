@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Only Onljoelle L/s Stripe Pullover Knt  suéter Mujer   Cayenne Night Sky/Misty Rose/Lurex/Mood Indigo   44  Talla del Fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKSY8QY/?tag=tolees-21'
+descuento: '67.52'
+titulo: 'Only Onljoelle L/s Stripe Pullover Knt  '
 ---
 
 Tienes [Only Onljoelle L/s Stripe Pullover Knt  suéter Mujer   Cayenne Night Sky/Misty Rose/Lurex/Mood Indigo   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07FKSY8QY/?tag=tolees-21) con un 67.52 % de descuento con precio de oferta de 9.74 EUR (original: 29.99 EUR) en el siguiente enlace!

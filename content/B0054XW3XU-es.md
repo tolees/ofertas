@@ -17,6 +17,9 @@ comparePrice: 18.1 EUR
 inStock: true
 prodname: 'Sola 69021101 Delta SM - Nivel de burbuja  800 mm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0054XW3XU/?tag=tolees-21'
+descuento: '62.76'
+titulo: 'Sola 69021101 Delta SM - Nivel de burbuj'
 ---
 
 Tienes [Sola 69021101 Delta SM - Nivel de burbuja  800 mm ](https://www.amazon.es/dp/B0054XW3XU/?tag=tolees-21) con un 62.76 % de descuento con precio de oferta de 6.74 EUR (original: 18.1 EUR) en el siguiente enlace!

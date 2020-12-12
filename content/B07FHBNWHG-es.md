@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Levi s SS Set-in Sunset Pocket  Camiseta para Hombre  Marrón  Fig Purple Heather 0055  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FHBNWHG/?tag=tolees-21'
+descuento: '51.83'
+titulo: 'Levi s SS Set-in Sunset Pocket  Camiseta'
 ---
 
 Está [Levi s SS Set-in Sunset Pocket  Camiseta para Hombre  Marrón  Fig Purple Heather 0055  Large](https://www.amazon.es/dp/B07FHBNWHG/?tag=tolees-21) con 51.83 de descuento por 14.45 EUR (original: 30 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Celio Afower Vaqueros Straight  Blue Black  W32/L32  Talla del Fabricante: 42  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5Q14VW/?tag=tolees-21'
+descuento: '77.80'
+titulo: 'Celio Afower Vaqueros Straight  Blue Bla'
 ---
 
 Ahora mismo tienes [Celio Afower Vaqueros Straight  Blue Black  W32/L32  Talla del Fabricante: 42  para Hombre](https://www.amazon.es/dp/B07D5Q14VW/?tag=tolees-21) a 15.54 EUR (original: 69.99 EUR) (77.80 %  de descuento) en el siguiente enlace!

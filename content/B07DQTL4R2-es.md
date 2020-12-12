@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'MTNG Collection 57561  Zapatos de Cordones Oxford para Mujer   Antil Negro C35442   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQTL4R2/?tag=tolees-21'
+descuento: '68.63'
+titulo: 'MTNG Collection 57561  Zapatos de Cordon'
 ---
 
 Está [MTNG Collection 57561  Zapatos de Cordones Oxford para Mujer   Antil Negro C35442   40 EU](https://www.amazon.es/dp/B07DQTL4R2/?tag=tolees-21) con 68.63 de descuento por 11.29 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Lego Reloj Analógico para Unisex Niños de Cuarzo con Correa en Plástico 8020837'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYPMCLY/?tag=tolees-21'
+descuento: '43.68'
+titulo: 'Lego Reloj Analógico para Unisex Niños d'
 ---
 
 Está [Lego Reloj Analógico para Unisex Niños de Cuarzo con Correa en Plástico 8020837](https://www.amazon.es/dp/B01MYPMCLY/?tag=tolees-21) con 43.68 de descuento por 16.89 EUR (original: 29.99 EUR) en el siguiente enlace!

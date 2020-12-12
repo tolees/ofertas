@@ -17,6 +17,9 @@ comparePrice: 168 EUR
 inStock: true
 prodname: 'Ray-Ban Clubmaster  Monturas de Gafas Unisex Adulto  Marrón  Brown/Grey Stripped   51'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075MPYZ8D/?tag=tolees-21'
+descuento: '45.96'
+titulo: 'Ray-Ban Clubmaster  Monturas de Gafas Un'
 ---
 
 Ahora mismo tienes [Ray-Ban Clubmaster  Monturas de Gafas Unisex Adulto  Marrón  Brown/Grey Stripped   51](https://www.amazon.es/dp/B075MPYZ8D/?tag=tolees-21) a 90.79 EUR (original: 168 EUR) (45.96 %  de descuento) en el siguiente enlace!

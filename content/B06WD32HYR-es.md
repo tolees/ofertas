@@ -17,6 +17,9 @@ comparePrice: 219.99 EUR
 inStock: true
 prodname: 'ILIFE A6 Robot Aspirador y Limpieza de Suelos  Negro Piano'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WD32HYR/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'ILIFE A6 Robot Aspirador y Limpieza de S'
 ---
 
 Ahora mismo tienes [ILIFE A6 Robot Aspirador y Limpieza de Suelos  Negro Piano](https://www.amazon.es/dp/B06WD32HYR/?tag=tolees-21) a 164.99 EUR (original: 219.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

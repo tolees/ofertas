@@ -17,6 +17,9 @@ comparePrice: 38.7 EUR
 inStock: true
 prodname: 'Monkey Donkey Fehn - Móvil de cuna musical  diseño de monos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00C7MN3ZI/?tag=tolees-21'
+descuento: '27.60'
+titulo: 'Monkey Donkey Fehn - Móvil de cuna music'
 ---
 
 Está [Monkey Donkey Fehn - Móvil de cuna musical  diseño de monos](https://www.amazon.es/dp/B00C7MN3ZI/?tag=tolees-21) con 27.60 de descuento por 28.02 EUR (original: 38.7 EUR) en el siguiente enlace!

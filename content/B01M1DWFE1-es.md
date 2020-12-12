@@ -17,6 +17,9 @@ comparePrice: 9.48 EUR
 inStock: true
 prodname: 'Coca-Cola - Zero  Botella de Plástico 500 ml - [pack de 12]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M1DWFE1/?tag=tolees-21'
+descuento: '68.35'
+titulo: 'Coca-Cola - Zero  Botella de Plástico 50'
 ---
 
 Tienes [Coca-Cola - Zero  Botella de Plástico 500 ml - [pack de 12]](https://www.amazon.es/dp/B01M1DWFE1/?tag=tolees-21) con un 68.35 % de descuento con precio de oferta de 3 EUR (original: 9.48 EUR) en el siguiente enlace!

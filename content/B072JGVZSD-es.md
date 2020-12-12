@@ -17,6 +17,9 @@ comparePrice: 229 EUR
 inStock: true
 prodname: 'Panasonic SC-SB1 - Barra de Sonido compacta 2.1  40 W  Dolby Digital  ARC  HDMI CEC  Bluetooth  Entrada analógica  USB  Mini-Jack 3.5 mm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072JGVZSD/?tag=tolees-21'
+descuento: '37.99'
+titulo: 'Panasonic SC-SB1 - Barra de Sonido compa'
 ---
 
 Tienes [Panasonic SC-SB1 - Barra de Sonido compacta 2.1  40 W  Dolby Digital  ARC  HDMI CEC  Bluetooth  Entrada analógica  USB  Mini-Jack 3.5 mm ](https://www.amazon.es/dp/B072JGVZSD/?tag=tolees-21) con un 37.99 % de descuento con precio de oferta de 142 EUR (original: 229 EUR) en el siguiente enlace!

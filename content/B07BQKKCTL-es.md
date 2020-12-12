@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'New Balance 997H  Zapatillas Unisex Niños  Blanco  White/Laser Blue   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQKKCTL/?tag=tolees-21'
+descuento: '57.92'
+titulo: 'New Balance 997H  Zapatillas Unisex Niño'
 ---
 
 Está [New Balance 997H  Zapatillas Unisex Niños  Blanco  White/Laser Blue   32 EU](https://www.amazon.es/dp/B07BQKKCTL/?tag=tolees-21) con 57.92 de descuento por 27.35 EUR (original: 65 EUR) en el siguiente enlace!

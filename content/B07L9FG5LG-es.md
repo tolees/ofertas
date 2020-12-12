@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Frank Pressie 5 Piezas de Tope de Puerta Gris Goma Antideslizante de Cuña Para Piso y Paquete de 5 Protectores de Pared Paragolpes Autoadhesivos sin Taladrar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9FG5LG/?tag=tolees-21'
+descuento: '41.20'
+titulo: 'Frank Pressie 5 Piezas de Tope de Puerta'
 ---
 
 Tienes [Frank Pressie 5 Piezas de Tope de Puerta Gris Goma Antideslizante de Cuña Para Piso y Paquete de 5 Protectores de Pared Paragolpes Autoadhesivos sin Taladrar](https://www.amazon.es/dp/B07L9FG5LG/?tag=tolees-21) con un 41.20 % de descuento con precio de oferta de 9.99 EUR (original: 16.99 EUR) en el siguiente enlace!

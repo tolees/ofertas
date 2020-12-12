@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'FIND Leather Apron Botas Chukka  Marrón Tan  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWSDCXZ/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'FIND Leather Apron Botas Chukka  Marrón '
 ---
 
 Está [FIND Leather Apron Botas Chukka  Marrón Tan  40 EU](https://www.amazon.es/dp/B07DWSDCXZ/?tag=tolees-21) con 40.00 de descuento por 42 EUR (original: 70 EUR) en el siguiente enlace!

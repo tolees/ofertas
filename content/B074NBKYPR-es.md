@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Diesel 00SV9U  Bañador para Hombre  Azul  Navy/Blue 89d  Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074NBKYPR/?tag=tolees-21'
+descuento: '58.58'
+titulo: 'Diesel 00SV9U  Bañador para Hombre  Azul'
 ---
 
 Ahora mismo tienes [Diesel 00SV9U  Bañador para Hombre  Azul  Navy/Blue 89d  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B074NBKYPR/?tag=tolees-21) a 20.71 EUR (original: 50 EUR) (58.58 %  de descuento) en el siguiente enlace!

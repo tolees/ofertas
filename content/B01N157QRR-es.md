@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Tazón Olla Harry Potter'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N157QRR/?tag=tolees-21'
+descuento: '72.21'
+titulo: 'Tazón Olla Harry Potter'
 ---
 
 Ahora mismo tienes [Tazón Olla Harry Potter](https://www.amazon.es/dp/B01N157QRR/?tag=tolees-21) a 5 EUR (original: 17.99 EUR) (72.21 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'adidas CF Lite Racer  Zapatillas para Hombre  Blanco Footwear White/Clear Onix 0  44 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1UIZCZ/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas CF Lite Racer  Zapatillas para Ho'
 ---
 
 Ahora mismo tienes [adidas CF Lite Racer  Zapatillas para Hombre  Blanco Footwear White/Clear Onix 0  44 2/3 EU](https://www.amazon.es/dp/B01N1UIZCZ/?tag=tolees-21) a 32.48 EUR (original: 64.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

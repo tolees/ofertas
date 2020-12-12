@@ -17,6 +17,9 @@ comparePrice: 33.01 EUR
 inStock: true
 prodname: 'ydkj AV Varita Mágica Cargador USB Clásico G-Spot Stick Vibrador Productos Sexuales Masajeador Vibrador Juguetes Sexuales para Mujeres'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKH1ZBV/?tag=tolees-21'
+descuento: '82.70'
+titulo: 'ydkj AV Varita Mágica Cargador USB Clási'
 ---
 
 Ahora mismo tienes [ydkj AV Varita Mágica Cargador USB Clásico G-Spot Stick Vibrador Productos Sexuales Masajeador Vibrador Juguetes Sexuales para Mujeres](https://www.amazon.es/dp/B07KKH1ZBV/?tag=tolees-21) a 5.71 EUR (original: 33.01 EUR) (82.70 %  de descuento) en el siguiente enlace!

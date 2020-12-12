@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Calzado de Trabajo Hombre Mujer Zapatillas de Seguridad con Puntera de Acero Antideslizante Transpirables Unisex Ejército Verde 40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQVHVN5/?tag=tolees-21'
+descuento: '34.09'
+titulo: 'Calzado de Trabajo Hombre Mujer Zapatill'
 ---
 
 Tienes [Calzado de Trabajo Hombre Mujer Zapatillas de Seguridad con Puntera de Acero Antideslizante Transpirables Unisex Ejército Verde 40](https://www.amazon.es/dp/B07BQVHVN5/?tag=tolees-21) con un 34.09 % de descuento con precio de oferta de 32.95 EUR (original: 49.99 EUR) en el siguiente enlace!

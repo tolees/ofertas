@@ -17,6 +17,9 @@ comparePrice: 189 EUR
 inStock: true
 prodname: 'PANAMA JACK Tamara - Botas cortas de piel para mujer  color marrón  talla 39'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Y0R1NAU/?tag=tolees-21'
+descuento: '70.90'
+titulo: 'PANAMA JACK Tamara - Botas cortas de pie'
 ---
 
 Está [PANAMA JACK Tamara - Botas cortas de piel para mujer  color marrón  talla 39](https://www.amazon.es/dp/B00Y0R1NAU/?tag=tolees-21) con 70.90 de descuento por 54.99 EUR (original: 189 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 1.18 EUR
 inStock: true
 prodname: 'Coca-Cola - Refresco sabor cereza   1 Unidad de 330 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002O0ERAI/?tag=tolees-21'
+descuento: '36.44'
+titulo: 'Coca-Cola - Refresco sabor cereza   1 Un'
 ---
 
 Ahora mismo tienes [Coca-Cola - Refresco sabor cereza   1 Unidad de 330 ml](https://www.amazon.es/dp/B002O0ERAI/?tag=tolees-21) a 0.75 EUR (original: 1.18 EUR) (36.44 %  de descuento) en el siguiente enlace!

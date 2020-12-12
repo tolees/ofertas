@@ -17,6 +17,9 @@ comparePrice: 50.36 EUR
 inStock: true
 prodname: 'Skechers Reggae Fest-Dory  Zapatillas sin Cordones para Mujer  Gris  Grey   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HR3TUYE/?tag=tolees-21'
+descuento: '40.47'
+titulo: 'Skechers Reggae Fest-Dory  Zapatillas si'
 ---
 
 Está [Skechers Reggae Fest-Dory  Zapatillas sin Cordones para Mujer  Gris  Grey   36 EU](https://www.amazon.es/dp/B01HR3TUYE/?tag=tolees-21) con 40.47 de descuento por 29.98 EUR (original: 50.36 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans Soho  Pantalones para Mujer  Azul  Ocean 588  29W / 30L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C445ZJX/?tag=tolees-21'
+descuento: '47.69'
+titulo: 'Pepe Jeans Soho  Pantalones para Mujer  '
 ---
 
 Ahora mismo tienes [Pepe Jeans Soho  Pantalones para Mujer  Azul  Ocean 588  29W / 30L](https://www.amazon.es/dp/B07C445ZJX/?tag=tolees-21) a 34 EUR (original: 65 EUR) (47.69 %  de descuento) en el siguiente enlace!

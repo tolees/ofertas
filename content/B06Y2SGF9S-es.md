@@ -17,6 +17,9 @@ comparePrice: 129.9 EUR
 inStock: true
 prodname: 'Geox D Aneko B  Zapatillas para Mujer  Rojo  Cigar  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y2SGF9S/?tag=tolees-21'
+descuento: '69.65'
+titulo: 'Geox D Aneko B  Zapatillas para Mujer  R'
 ---
 
 Ahora mismo tienes [Geox D Aneko B  Zapatillas para Mujer  Rojo  Cigar  37 EU](https://www.amazon.es/dp/B06Y2SGF9S/?tag=tolees-21) a 39.43 EUR (original: 129.9 EUR) (69.65 %  de descuento) en el siguiente enlace!

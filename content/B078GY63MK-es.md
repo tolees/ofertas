@@ -17,6 +17,9 @@ comparePrice: 25.95 EUR
 inStock: true
 prodname: 'Trucco TT15AF1  Camiseta para Mujer   Blanco Crudo   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GY63MK/?tag=tolees-21'
+descuento: '64.74'
+titulo: 'Trucco TT15AF1  Camiseta para Mujer   Bl'
 ---
 
 Tienes [Trucco TT15AF1  Camiseta para Mujer   Blanco Crudo   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078GY63MK/?tag=tolees-21) con un 64.74 % de descuento con precio de oferta de 9.15 EUR (original: 25.95 EUR) en el siguiente enlace!

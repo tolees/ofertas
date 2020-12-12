@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Levi s 501 Hemmed  Pantalones Cortos para Hombre  Azul  Bleu Eyes Short 0061  W31'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D755RSG/?tag=tolees-21'
+descuento: '60.09'
+titulo: 'Levi s 501 Hemmed  Pantalones Cortos par'
 ---
 
 Tienes [Levi s 501 Hemmed  Pantalones Cortos para Hombre  Azul  Bleu Eyes Short 0061  W31](https://www.amazon.es/dp/B07D755RSG/?tag=tolees-21) con un 60.09 % de descuento con precio de oferta de 21.95 EUR (original: 55 EUR) en el siguiente enlace!

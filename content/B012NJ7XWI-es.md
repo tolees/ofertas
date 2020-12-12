@@ -17,6 +17,9 @@ comparePrice: 92.83 EUR
 inStock: true
 prodname: 'Dolce & Gabbana The One Essence Perfume Mujer - 40 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012NJ7XWI/?tag=tolees-21'
+descuento: '60.14'
+titulo: 'Dolce & Gabbana The One Essence Perfume '
 ---
 
 Está [Dolce & Gabbana The One Essence Perfume Mujer - 40 ml](https://www.amazon.es/dp/B012NJ7XWI/?tag=tolees-21) con 60.14 de descuento por 37 EUR (original: 92.83 EUR) en el siguiente enlace!

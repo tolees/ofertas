@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'flintronic ® Cinturón Cuero Hombre  Cinturones Piel con Hebilla Automática Cinturón de Negocios 3.5cm * 130cm  con Portachiavi y Confezione Regalo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MS7R41V/?tag=tolees-21'
+descuento: '26.33'
+titulo: 'flintronic ® Cinturón Cuero Hombre  Cint'
 ---
 
 Está [flintronic ® Cinturón Cuero Hombre  Cinturones Piel con Hebilla Automática Cinturón de Negocios 3.5cm * 130cm  con Portachiavi y Confezione Regalo](https://www.amazon.es/dp/B07MS7R41V/?tag=tolees-21) con 26.33 de descuento por 13.99 EUR (original: 18.99 EUR) en el siguiente enlace!

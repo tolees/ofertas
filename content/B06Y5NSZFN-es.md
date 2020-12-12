@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Pikolinos Baqueira W9m_i17  Botas para Mujer  Marrón  Moss   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y5NSZFN/?tag=tolees-21'
+descuento: '56.62'
+titulo: 'Pikolinos Baqueira W9m_i17  Botas para M'
 ---
 
 Ahora mismo tienes [Pikolinos Baqueira W9m_i17  Botas para Mujer  Marrón  Moss   39 EU](https://www.amazon.es/dp/B06Y5NSZFN/?tag=tolees-21) a 51.62 EUR (original: 119 EUR) (56.62 %  de descuento) en el siguiente enlace!

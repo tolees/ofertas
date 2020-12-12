@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmjulie LS O-Neck Slit Blouse Boo  suéter Mujer  Rosa  Rose Shadow   36  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074ZRLMLG/?tag=tolees-21'
+descuento: '76.17'
+titulo: 'Vero Moda Vmjulie LS O-Neck Slit Blouse '
 ---
 
 Ahora mismo tienes [Vero Moda Vmjulie LS O-Neck Slit Blouse Boo  suéter Mujer  Rosa  Rose Shadow   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B074ZRLMLG/?tag=tolees-21) a 9.53 EUR (original: 39.99 EUR) (76.17 %  de descuento) en el siguiente enlace!

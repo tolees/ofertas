@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Escaper Tech Zapatillas de deporte Unisex adulto  Negro  Puma Black-Puma White-Flame Scarlet   42.5 EU  8.5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B43KZSD/?tag=tolees-21'
+descuento: '29.95'
+titulo: 'Puma Escaper Tech Zapatillas de deporte '
 ---
 
 Ahora mismo tienes [Puma Escaper Tech Zapatillas de deporte Unisex adulto  Negro  Puma Black-Puma White-Flame Scarlet   42.5 EU  8.5 UK ](https://www.amazon.es/dp/B07B43KZSD/?tag=tolees-21) a 34.99 EUR (original: 49.95 EUR) (29.95 %  de descuento) en el siguiente enlace!

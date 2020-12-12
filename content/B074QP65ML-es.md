@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'El Ganso 1100s180036  Polo para Hombre  Verde  XX-Large  Tamaño del Fabricante:XXL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074QP65ML/?tag=tolees-21'
+descuento: '60.42'
+titulo: 'El Ganso 1100s180036  Polo para Hombre  '
 ---
 
 Está [El Ganso 1100s180036  Polo para Hombre  Verde  XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B074QP65ML/?tag=tolees-21) con 60.42 de descuento por 21.77 EUR (original: 55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 26.57 EUR
 inStock: true
 prodname: 'Approx APPNBBUNDLE4 - Mochila para portátil de hasta 15 6” + ratón óptico USB  Color Negro y Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016AQLVZU/?tag=tolees-21'
+descuento: '41.85'
+titulo: 'Approx APPNBBUNDLE4 - Mochila para portá'
 ---
 
 Está [Approx APPNBBUNDLE4 - Mochila para portátil de hasta 15 6” + ratón óptico USB  Color Negro y Azul](https://www.amazon.es/dp/B016AQLVZU/?tag=tolees-21) con 41.85 de descuento por 15.45 EUR (original: 26.57 EUR) en el siguiente enlace!

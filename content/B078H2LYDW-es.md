@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjichop Jjcargo Shorts AKM 429 STS  Pantalones Cortos para Hombre  Verde Olive Night  54  Talla del Fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H2LYDW/?tag=tolees-21'
+descuento: '70.09'
+titulo: 'JACK & JONES Jjichop Jjcargo Shorts AKM '
 ---
 
 Ahora mismo tienes [JACK & JONES Jjichop Jjcargo Shorts AKM 429 STS  Pantalones Cortos para Hombre  Verde Olive Night  54  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B078H2LYDW/?tag=tolees-21) a 14.95 EUR (original: 49.99 EUR) (70.09 %  de descuento) en el siguiente enlace!

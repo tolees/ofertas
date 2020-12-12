@@ -17,6 +17,9 @@ comparePrice: 65.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 26241-21  Botas de Nieve para Mujer  Blanco  Ice Comb 119   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D95D8RN/?tag=tolees-21'
+descuento: '73.12'
+titulo: 'Marco Tozzi 26241-21  Botas de Nieve par'
 ---
 
 Ahora mismo tienes [Marco Tozzi 26241-21  Botas de Nieve para Mujer  Blanco  Ice Comb 119   38 EU](https://www.amazon.es/dp/B07D95D8RN/?tag=tolees-21) a 17.73 EUR (original: 65.95 EUR) (73.12 %  de descuento) en el siguiente enlace!

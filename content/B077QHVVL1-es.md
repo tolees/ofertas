@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Asics GT-1000 6  Zapatillas de Running para Mujer  Rosa  Seashell Begonia Pink/White 1706   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077QHVVL1/?tag=tolees-21'
+descuento: '69.50'
+titulo: 'Asics GT-1000 6  Zapatillas de Running p'
 ---
 
 Tienes [Asics GT-1000 6  Zapatillas de Running para Mujer  Rosa  Seashell Begonia Pink/White 1706   37.5 EU](https://www.amazon.es/dp/B077QHVVL1/?tag=tolees-21) con un 69.50 % de descuento con precio de oferta de 36.6 EUR (original: 120 EUR) en el siguiente enlace!

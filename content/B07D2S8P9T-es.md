@@ -17,6 +17,9 @@ comparePrice: 189 EUR
 inStock: true
 prodname: 'Gant O3. Lambswool Cable Poncho  Mujer  Azul  Marine  40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2S8P9T/?tag=tolees-21'
+descuento: '64.03'
+titulo: 'Gant O3. Lambswool Cable Poncho  Mujer  '
 ---
 
 Ahora mismo tienes [Gant O3. Lambswool Cable Poncho  Mujer  Azul  Marine  40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07D2S8P9T/?tag=tolees-21) a 67.98 EUR (original: 189 EUR) (64.03 %  de descuento) en el siguiente enlace!

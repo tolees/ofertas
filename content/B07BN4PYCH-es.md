@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Vans Atwood Synthetic Leather  Zapatillas para Hombre  Negro   Classic Tumble  Black/White U0m   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BN4PYCH/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Vans Atwood Synthetic Leather  Zapatilla'
 ---
 
 Ahora mismo tienes [Vans Atwood Synthetic Leather  Zapatillas para Hombre  Negro   Classic Tumble  Black/White U0m   46 EU](https://www.amazon.es/dp/B07BN4PYCH/?tag=tolees-21) a 35 EUR (original: 70 EUR) (50.00 %  de descuento) en el siguiente enlace!

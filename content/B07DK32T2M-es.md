@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Geox J Android Boy C  Zapatillas para Niños   Grey/Red C0051   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK32T2M/?tag=tolees-21'
+descuento: '54.17'
+titulo: 'Geox J Android Boy C  Zapatillas para Ni'
 ---
 
 Ahora mismo tienes [Geox J Android Boy C  Zapatillas para Niños   Grey/Red C0051   32 EU](https://www.amazon.es/dp/B07DK32T2M/?tag=tolees-21) a 27.45 EUR (original: 59.9 EUR) (54.17 %  de descuento) en el siguiente enlace!

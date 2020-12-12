@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Only Onlfelia S/s Dress Box ESS  Vestido Mujer   Cloud Dancer Stripes:Black   38  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9SZJUL/?tag=tolees-21'
+descuento: '67.91'
+titulo: 'Only Onlfelia S/s Dress Box ESS  Vestido'
 ---
 
 Está [Only Onlfelia S/s Dress Box ESS  Vestido Mujer   Cloud Dancer Stripes:Black   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N9SZJUL/?tag=tolees-21) con 67.91 de descuento por 8.66 EUR (original: 26.99 EUR) en el siguiente enlace!

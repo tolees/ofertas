@@ -17,6 +17,9 @@ comparePrice: 43.99 EUR
 inStock: true
 prodname: '* beforya Paris * almendra 22 mm Color Violet AB – La exclusiva – Pendientes plata 925 Schön – Pendientes con Cristales de Swarovski Elements – Fantástica Pendientes ba/39'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSHQT5C/?tag=tolees-21'
+descuento: '45.01'
+titulo: '* beforya Paris * almendra 22 mm Color V'
 ---
 
 Tienes [* beforya Paris * almendra 22 mm Color Violet AB – La exclusiva – Pendientes plata 925 Schön – Pendientes con Cristales de Swarovski Elements – Fantástica Pendientes ba/39](https://www.amazon.es/dp/B07KSHQT5C/?tag=tolees-21) con un 45.01 % de descuento con precio de oferta de 24.19 EUR (original: 43.99 EUR) en el siguiente enlace!

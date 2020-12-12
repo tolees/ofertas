@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Superga 2750-velvetchenillew  Zapatillas de Gimnasia para Mujer  Rojo  Red Tabasco 417   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078Y5Q8YD/?tag=tolees-21'
+descuento: '66.49'
+titulo: 'Superga 2750-velvetchenillew  Zapatillas'
 ---
 
 Está [Superga 2750-velvetchenillew  Zapatillas de Gimnasia para Mujer  Rojo  Red Tabasco 417   37 EU](https://www.amazon.es/dp/B078Y5Q8YD/?tag=tolees-21) con 66.49 de descuento por 26.47 EUR (original: 79 EUR) en el siguiente enlace!

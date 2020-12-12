@@ -17,6 +17,9 @@ comparePrice: 54.18 EUR
 inStock: true
 prodname: 'Urtekram - Gel de Baño Sin Perfume Urtekram  500ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0029FOMFS/?tag=tolees-21'
+descuento: '77.30'
+titulo: 'Urtekram - Gel de Baño Sin Perfume Urtek'
 ---
 
 Ahora mismo tienes [Urtekram - Gel de Baño Sin Perfume Urtekram  500ml](https://www.amazon.es/dp/B0029FOMFS/?tag=tolees-21) a 12.3 EUR (original: 54.18 EUR) (77.30 %  de descuento) en el siguiente enlace!

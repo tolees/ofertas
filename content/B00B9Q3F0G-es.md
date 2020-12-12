@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Linksys WAP300N-EU - Punto de acceso inalámbrico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00B9Q3F0G/?tag=tolees-21'
+descuento: '42.21'
+titulo: 'Linksys WAP300N-EU - Punto de acceso ina'
 ---
 
 Tienes [Linksys WAP300N-EU - Punto de acceso inalámbrico](https://www.amazon.es/dp/B00B9Q3F0G/?tag=tolees-21) con un 42.21 % de descuento con precio de oferta de 40.45 EUR (original: 69.99 EUR) en el siguiente enlace!

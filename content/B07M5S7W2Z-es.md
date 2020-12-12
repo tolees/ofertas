@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'BOSS Rumba_Tenn_sd2  Zapatillas para Hombre  Azul  Dark Blue 401   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M5S7W2Z/?tag=tolees-21'
+descuento: '67.00'
+titulo: 'BOSS Rumba_Tenn_sd2  Zapatillas para Hom'
 ---
 
 Tienes [BOSS Rumba_Tenn_sd2  Zapatillas para Hombre  Azul  Dark Blue 401   44 EU](https://www.amazon.es/dp/B07M5S7W2Z/?tag=tolees-21) con un 67.00 % de descuento con precio de oferta de 56.1 EUR (original: 170 EUR) en el siguiente enlace!

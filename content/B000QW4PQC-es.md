@@ -17,6 +17,9 @@ comparePrice: 35.64 EUR
 inStock: true
 prodname: 'Sharpie  S0811100  Rotulador permanente de dos puntas  caja de 12  tinta negra'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000QW4PQC/?tag=tolees-21'
+descuento: '26.49'
+titulo: 'Sharpie  S0811100  Rotulador permanente '
 ---
 
 Está [Sharpie  S0811100  Rotulador permanente de dos puntas  caja de 12  tinta negra](https://www.amazon.es/dp/B000QW4PQC/?tag=tolees-21) con 26.49 de descuento por 26.2 EUR (original: 35.64 EUR) en el siguiente enlace!

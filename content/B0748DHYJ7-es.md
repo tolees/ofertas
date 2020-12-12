@@ -17,6 +17,9 @@ comparePrice: 20.98 EUR
 inStock: true
 prodname: 'ZKCREATION Bombillas a Pilas LED luz Camping Uso Interior y Exterior Acampada y Senderismo Pesca Luces para Acampada Resistente al Agua luz portatil LED 4 Piezas-sin incluir la batería '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0748DHYJ7/?tag=tolees-21'
+descuento: '47.66'
+titulo: 'ZKCREATION Bombillas a Pilas LED luz Cam'
 ---
 
 Ahora mismo tienes [ZKCREATION Bombillas a Pilas LED luz Camping Uso Interior y Exterior Acampada y Senderismo Pesca Luces para Acampada Resistente al Agua luz portatil LED 4 Piezas-sin incluir la batería ](https://www.amazon.es/dp/B0748DHYJ7/?tag=tolees-21) a 10.98 EUR (original: 20.98 EUR) (47.66 %  de descuento) en el siguiente enlace!

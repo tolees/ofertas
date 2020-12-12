@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Tuscany Silver 8.14.7156 - Collar de plata de ley  925/1000   sin gema'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00EU34Q0I/?tag=tolees-21'
+descuento: '66.39'
+titulo: 'Tuscany Silver 8.14.7156 - Collar de pla'
 ---
 
 Está [Tuscany Silver 8.14.7156 - Collar de plata de ley  925/1000   sin gema](https://www.amazon.es/dp/B00EU34Q0I/?tag=tolees-21) con 66.39 de descuento por 39.99 EUR (original: 119 EUR) en el siguiente enlace!

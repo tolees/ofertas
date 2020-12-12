@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Joma Tropical Malla Corta  Mujer  Morado  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MY8YCY1/?tag=tolees-21'
+descuento: '54.77'
+titulo: 'Joma Tropical Malla Corta  Mujer  Morado'
 ---
 
 Está [Joma Tropical Malla Corta  Mujer  Morado  M](https://www.amazon.es/dp/B01MY8YCY1/?tag=tolees-21) con 54.77 de descuento por 9.95 EUR (original: 22 EUR) en el siguiente enlace!

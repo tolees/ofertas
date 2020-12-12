@@ -17,6 +17,9 @@ comparePrice: 10.95 EUR
 inStock: true
 prodname: 'Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Azul Royal/Blanco   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X97KZX6/?tag=tolees-21'
+descuento: '54.06'
+titulo: 'Joma Tokio II Pantalones Cortos  Hombre '
 ---
 
 Está [Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Azul Royal/Blanco   L](https://www.amazon.es/dp/B06X97KZX6/?tag=tolees-21) con 54.06 de descuento por 5.03 EUR (original: 10.95 EUR) en el siguiente enlace!

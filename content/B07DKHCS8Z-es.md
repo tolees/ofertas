@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Travelite Corner 4 Rollen Hartschalenkoffer Trolley Roll-Koffer in 3 Größen  55cm 67cm 75cm  und Farben Equipaje de Mano  55 cm  40 Liters  Rosa  Beere '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKHCS8Z/?tag=tolees-21'
+descuento: '67.17'
+titulo: 'Travelite Corner 4 Rollen Hartschalenkof'
 ---
 
 Tienes [Travelite Corner 4 Rollen Hartschalenkoffer Trolley Roll-Koffer in 3 Größen  55cm 67cm 75cm  und Farben Equipaje de Mano  55 cm  40 Liters  Rosa  Beere ](https://www.amazon.es/dp/B07DKHCS8Z/?tag=tolees-21) con un 67.17 % de descuento con precio de oferta de 29.53 EUR (original: 89.95 EUR) en el siguiente enlace!

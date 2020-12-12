@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma Future 2.3 Netfit FG/AG  Zapatillas de Fútbol para Hombre  Negro Black 03  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9TMPGK/?tag=tolees-21'
+descuento: '51.28'
+titulo: 'Puma Future 2.3 Netfit FG/AG  Zapatillas'
 ---
 
 Está [Puma Future 2.3 Netfit FG/AG  Zapatillas de Fútbol para Hombre  Negro Black 03  40 EU](https://www.amazon.es/dp/B07D9TMPGK/?tag=tolees-21) con 51.28 de descuento por 38.95 EUR (original: 79.95 EUR) en el siguiente enlace!

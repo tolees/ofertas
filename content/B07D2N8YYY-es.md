@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Reebok Express Runner 2.0  Zapatillas de Entrenamiento para Hombre  Negro  Black/Silver/Ash Grey/White 0   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2N8YYY/?tag=tolees-21'
+descuento: '41.80'
+titulo: 'Reebok Express Runner 2.0  Zapatillas de'
 ---
 
 Ahora mismo tienes [Reebok Express Runner 2.0  Zapatillas de Entrenamiento para Hombre  Negro  Black/Silver/Ash Grey/White 0   42 EU](https://www.amazon.es/dp/B07D2N8YYY/?tag=tolees-21) a 29.07 EUR (original: 49.95 EUR) (41.80 %  de descuento) en el siguiente enlace!

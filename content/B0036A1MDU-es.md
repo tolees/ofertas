@@ -17,6 +17,9 @@ comparePrice: 9.95 EUR
 inStock: true
 prodname: 'Amor Mista Condones Color Fruta - 12 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0036A1MDU/?tag=tolees-21'
+descuento: '50.25'
+titulo: 'Amor Mista Condones Color Fruta - 12 Uni'
 ---
 
 Está [Amor Mista Condones Color Fruta - 12 Unidades](https://www.amazon.es/dp/B0036A1MDU/?tag=tolees-21) con 50.25 de descuento por 4.95 EUR (original: 9.95 EUR) en el siguiente enlace!

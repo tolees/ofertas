@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Gant 3-Pack Trunk Seasonal Solid Camiseta sin Mangas  Rojo  Cardinal Red 658   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPQ3S9Q/?tag=tolees-21'
+descuento: '47.19'
+titulo: 'Gant 3-Pack Trunk Seasonal Solid Camiset'
 ---
 
 Está [Gant 3-Pack Trunk Seasonal Solid Camiseta sin Mangas  Rojo  Cardinal Red 658   Large para Hombre](https://www.amazon.es/dp/B07KPQ3S9Q/?tag=tolees-21) con 47.19 de descuento por 21.12 EUR (original: 39.99 EUR) en el siguiente enlace!

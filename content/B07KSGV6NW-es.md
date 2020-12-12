@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Columbia Mujer Chaqueta impermeable  Pouring Adventure II Jacket  Nailon  Negro  Talla: XL  1760071'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSGV6NW/?tag=tolees-21'
+descuento: '51.77'
+titulo: 'Columbia Mujer Chaqueta impermeable  Pou'
 ---
 
 Está [Columbia Mujer Chaqueta impermeable  Pouring Adventure II Jacket  Nailon  Negro  Talla: XL  1760071](https://www.amazon.es/dp/B07KSGV6NW/?tag=tolees-21) con 51.77 de descuento por 43.4 EUR (original: 89.99 EUR) en el siguiente enlace!

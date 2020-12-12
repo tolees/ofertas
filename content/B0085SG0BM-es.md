@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Jack & Jones Storm Sweat - Camiseta de manga larga con cuello redondo para hombre  Grau  LIGHT GREY MELANGE JJ LIGHT GREY MELANGE   50'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0085SG0BM/?tag=tolees-21'
+descuento: '56.86'
+titulo: 'Jack & Jones Storm Sweat - Camiseta de m'
 ---
 
 Está [Jack & Jones Storm Sweat - Camiseta de manga larga con cuello redondo para hombre  Grau  LIGHT GREY MELANGE JJ LIGHT GREY MELANGE   50](https://www.amazon.es/dp/B0085SG0BM/?tag=tolees-21) con 56.86 de descuento por 6.45 EUR (original: 14.95 EUR) en el siguiente enlace!

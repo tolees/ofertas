@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers On-The-go Joy-Bundle Up  Botines para Mujer  Marrón  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B9SSFHB/?tag=tolees-21'
+descuento: '60.59'
+titulo: 'Skechers On-The-go Joy-Bundle Up  Botine'
 ---
 
 Está [Skechers On-The-go Joy-Bundle Up  Botines para Mujer  Marrón  38 EU](https://www.amazon.es/dp/B07B9SSFHB/?tag=tolees-21) con 60.59 de descuento por 27.57 EUR (original: 69.95 EUR) en el siguiente enlace!

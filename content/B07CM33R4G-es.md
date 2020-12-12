@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Protector de Tacón Alto  URAQT Tacos para Tacones 12 Pares  Protectores Zapatos de Mujer para Razas  Bodas  Ocasiones Formales - Transparente'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CM33R4G/?tag=tolees-21'
+descuento: '43.56'
+titulo: 'Protector de Tacón Alto  URAQT Tacos par'
 ---
 
 Ahora mismo tienes [Protector de Tacón Alto  URAQT Tacos para Tacones 12 Pares  Protectores Zapatos de Mujer para Razas  Bodas  Ocasiones Formales - Transparente](https://www.amazon.es/dp/B07CM33R4G/?tag=tolees-21) a 9.59 EUR (original: 16.99 EUR) (43.56 %  de descuento) en el siguiente enlace!

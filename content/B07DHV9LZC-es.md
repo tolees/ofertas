@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Quiksilver Everyday Sudadera con Capucha y Cremallera  Hombre  Gris  Dark Grey Heather   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHV9LZC/?tag=tolees-21'
+descuento: '47.76'
+titulo: 'Quiksilver Everyday Sudadera con Capucha'
 ---
 
 Está [Quiksilver Everyday Sudadera con Capucha y Cremallera  Hombre  Gris  Dark Grey Heather   XXL](https://www.amazon.es/dp/B07DHV9LZC/?tag=tolees-21) con 47.76 de descuento por 31.34 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Pepe Jeans Journey PM210971 Pantalones  Verde  Surplus 720   30W / 34L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XT6LLWY/?tag=tolees-21'
+descuento: '64.80'
+titulo: 'Pepe Jeans Journey PM210971 Pantalones  '
 ---
 
 Tienes [Pepe Jeans Journey PM210971 Pantalones  Verde  Surplus 720   30W / 34L para Hombre](https://www.amazon.es/dp/B06XT6LLWY/?tag=tolees-21) con un 64.80 % de descuento con precio de oferta de 34.85 EUR (original: 99 EUR) en el siguiente enlace!

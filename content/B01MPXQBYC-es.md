@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'DC Super Hero Girls Muñeca de acción Katana  Mattel FDJ30 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MPXQBYC/?tag=tolees-21'
+descuento: '34.80'
+titulo: 'DC Super Hero Girls Muñeca de acción Kat'
 ---
 
 Está [DC Super Hero Girls Muñeca de acción Katana  Mattel FDJ30 ](https://www.amazon.es/dp/B01MPXQBYC/?tag=tolees-21) con 34.80 de descuento por 14.99 EUR (original: 22.99 EUR) en el siguiente enlace!

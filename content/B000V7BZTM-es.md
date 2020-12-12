@@ -17,6 +17,9 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'Spirella colección Fish  Cortina de Ducha Textil 180 x 200  100% Polyester  PVC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000V7BZTM/?tag=tolees-21'
+descuento: '51.74'
+titulo: 'Spirella colección Fish  Cortina de Duch'
 ---
 
 Está [Spirella colección Fish  Cortina de Ducha Textil 180 x 200  100% Polyester  PVC](https://www.amazon.es/dp/B000V7BZTM/?tag=tolees-21) con 51.74 de descuento por 13.99 EUR (original: 28.99 EUR) en el siguiente enlace!

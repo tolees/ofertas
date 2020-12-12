@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Balon FC Barcelona Camuflaje Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079TLMNCF/?tag=tolees-21'
+descuento: '50.25'
+titulo: 'Balon FC Barcelona Camuflaje Azul'
 ---
 
 Está [Balon FC Barcelona Camuflaje Azul](https://www.amazon.es/dp/B079TLMNCF/?tag=tolees-21) con 50.25 de descuento por 9.95 EUR (original: 20 EUR) en el siguiente enlace!

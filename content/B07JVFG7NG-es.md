@@ -17,6 +17,9 @@ comparePrice: 50.99 EUR
 inStock: true
 prodname: 'Godmorn Tostadora 2 Rebanadas  Ranuras de Acero Inoxidable Tostadora pan Automática Descongelación y Temperatura ajustable  Pared Fria 750 W  Libre de BPA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JVFG7NG/?tag=tolees-21'
+descuento: '45.11'
+titulo: 'Godmorn Tostadora 2 Rebanadas  Ranuras d'
 ---
 
 Ahora mismo tienes [Godmorn Tostadora 2 Rebanadas  Ranuras de Acero Inoxidable Tostadora pan Automática Descongelación y Temperatura ajustable  Pared Fria 750 W  Libre de BPA](https://www.amazon.es/dp/B07JVFG7NG/?tag=tolees-21) a 27.99 EUR (original: 50.99 EUR) (45.11 %  de descuento) en el siguiente enlace!

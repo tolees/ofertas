@@ -17,6 +17,9 @@ comparePrice: 4.99 EUR
 inStock: true
 prodname: 'Dixan Duo Caps Detergente en Cápsulas - 14 lavados'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IVHRW9K/?tag=tolees-21'
+descuento: '40.08'
+titulo: 'Dixan Duo Caps Detergente en Cápsulas - '
 ---
 
 Está [Dixan Duo Caps Detergente en Cápsulas - 14 lavados](https://www.amazon.es/dp/B01IVHRW9K/?tag=tolees-21) con 40.08 de descuento por 2.99 EUR (original: 4.99 EUR) en el siguiente enlace!

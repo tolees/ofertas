@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'ECHILUCK Escobilla para Inodoro y Cepillo de plástico para Inodoro  con Mango de Acero Inoxidable y Cabeza de Cepillo Intercambiable  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BWB9N15/?tag=tolees-21'
+descuento: '64.54'
+titulo: 'ECHILUCK Escobilla para Inodoro y Cepill'
 ---
 
 Está [ECHILUCK Escobilla para Inodoro y Cepillo de plástico para Inodoro  con Mango de Acero Inoxidable y Cabeza de Cepillo Intercambiable  Blanco ](https://www.amazon.es/dp/B07BWB9N15/?tag=tolees-21) con 64.54 de descuento por 10.99 EUR (original: 30.99 EUR) en el siguiente enlace!

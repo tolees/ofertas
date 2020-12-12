@@ -17,6 +17,9 @@ comparePrice: 36.9 EUR
 inStock: true
 prodname: 'Orbegozo SV 2625 2625-Plancha de Vapor  función Auto-Limpieza  2600 W  Rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007ASCQ6G/?tag=tolees-21'
+descuento: '48.08'
+titulo: 'Orbegozo SV 2625 2625-Plancha de Vapor  '
 ---
 
 Está [Orbegozo SV 2625 2625-Plancha de Vapor  función Auto-Limpieza  2600 W  Rosa](https://www.amazon.es/dp/B007ASCQ6G/?tag=tolees-21) con 48.08 de descuento por 19.16 EUR (original: 36.9 EUR) en el siguiente enlace!

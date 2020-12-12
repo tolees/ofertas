@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Science4you - Química 1000 - Juguete Científico y Educativo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BE00DQ6/?tag=tolees-21'
+descuento: '43.02'
+titulo: 'Science4you - Química 1000 - Juguete Cie'
 ---
 
 Tienes [Science4you - Química 1000 - Juguete Científico y Educativo](https://www.amazon.es/dp/B00BE00DQ6/?tag=tolees-21) con un 43.02 % de descuento con precio de oferta de 11.39 EUR (original: 19.99 EUR) en el siguiente enlace!

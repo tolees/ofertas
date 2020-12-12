@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Levi s Graphic Po Hoodie-B Capucha  Gris  Hm Pop Oscuro Mid Tone Heather Grey 0037   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9T2VGV/?tag=tolees-21'
+descuento: '57.00'
+titulo: 'Levi s Graphic Po Hoodie-B Capucha  Gris'
 ---
 
 Tienes [Levi s Graphic Po Hoodie-B Capucha  Gris  Hm Pop Oscuro Mid Tone Heather Grey 0037   Small para Hombre](https://www.amazon.es/dp/B07D9T2VGV/?tag=tolees-21) con un 57.00 % de descuento con precio de oferta de 27.95 EUR (original: 65 EUR) en el siguiente enlace!

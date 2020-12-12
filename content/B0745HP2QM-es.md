@@ -17,6 +17,9 @@ comparePrice: 30.85 EUR
 inStock: true
 prodname: 'SLOMG - Piedras que brillan en la oscuridad  300 unidades  para estanques  jardín  exteriores  acuarios etc.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0745HP2QM/?tag=tolees-21'
+descuento: '38.44'
+titulo: 'SLOMG - Piedras que brillan en la oscuri'
 ---
 
 Tienes [SLOMG - Piedras que brillan en la oscuridad  300 unidades  para estanques  jardín  exteriores  acuarios etc.](https://www.amazon.es/dp/B0745HP2QM/?tag=tolees-21) con un 38.44 % de descuento con precio de oferta de 18.99 EUR (original: 30.85 EUR) en el siguiente enlace!

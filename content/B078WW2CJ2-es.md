@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Munich One Indoor  Zapatillas de Deporte Unisex Adulto  Multicolor  Black/Orange 013   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WW2CJ2/?tag=tolees-21'
+descuento: '42.09'
+titulo: 'Munich One Indoor  Zapatillas de Deporte'
 ---
 
 Está [Munich One Indoor  Zapatillas de Deporte Unisex Adulto  Multicolor  Black/Orange 013   44 EU](https://www.amazon.es/dp/B078WW2CJ2/?tag=tolees-21) con 42.09 de descuento por 31.82 EUR (original: 54.95 EUR) en el siguiente enlace!

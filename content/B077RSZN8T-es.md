@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'BILLABONG All Day LB 16 Bañador  Hombre  Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077RSZN8T/?tag=tolees-21'
+descuento: '39.00'
+titulo: 'BILLABONG All Day LB 16 Bañador  Hombre '
 ---
 
 Está [BILLABONG All Day LB 16 Bañador  Hombre  Black  M](https://www.amazon.es/dp/B077RSZN8T/?tag=tolees-21) con 39.00 de descuento por 21.35 EUR (original: 35 EUR) en el siguiente enlace!

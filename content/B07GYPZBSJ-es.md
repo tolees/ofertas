@@ -17,6 +17,9 @@ comparePrice: 51.96 EUR
 inStock: true
 prodname: 'BESTEEL Plata 925 Pendientes para Hombres Mujeres Niñas Pendientes de aro Plumas Colgar Hoja Regalo espumoso Con caja'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GYPZBSJ/?tag=tolees-21'
+descuento: '75.00'
+titulo: 'BESTEEL Plata 925 Pendientes para Hombre'
 ---
 
 Está [BESTEEL Plata 925 Pendientes para Hombres Mujeres Niñas Pendientes de aro Plumas Colgar Hoja Regalo espumoso Con caja](https://www.amazon.es/dp/B07GYPZBSJ/?tag=tolees-21) con 75.00 de descuento por 12.99 EUR (original: 51.96 EUR) en el siguiente enlace!

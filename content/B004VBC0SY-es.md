@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'Kong Pelota Maciza Extreme M-L  Medium/Large  7 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004VBC0SY/?tag=tolees-21'
+descuento: '43.40'
+titulo: 'Kong Pelota Maciza Extreme M-L  Medium/L'
 ---
 
 Está [Kong Pelota Maciza Extreme M-L  Medium/Large  7 cm](https://www.amazon.es/dp/B004VBC0SY/?tag=tolees-21) con 43.40 de descuento por 8.49 EUR (original: 15 EUR) en el siguiente enlace!

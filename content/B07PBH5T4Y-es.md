@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Antena Interior TV  Antena de TV de Rango Amplificado de 120 Millas Antena TDT con Amplificador de Señal y Cable Coaxial de 12.1 FT  Digital HDTV Antena Portatil para DVB-T'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PBH5T4Y/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Antena Interior TV  Antena de TV de Rang'
 ---
 
 Está [Antena Interior TV  Antena de TV de Rango Amplificado de 120 Millas Antena TDT con Amplificador de Señal y Cable Coaxial de 12.1 FT  Digital HDTV Antena Portatil para DVB-T](https://www.amazon.es/dp/B07PBH5T4Y/?tag=tolees-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

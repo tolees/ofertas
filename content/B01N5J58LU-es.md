@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance 247v1  Zapatillas para Hombre  Verde  Green/White No   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5J58LU/?tag=tolees-21'
+descuento: '37.31'
+titulo: 'New Balance 247v1  Zapatillas para Hombr'
 ---
 
 Está [New Balance 247v1  Zapatillas para Hombre  Verde  Green/White No   44.5 EU](https://www.amazon.es/dp/B01N5J58LU/?tag=tolees-21) con 37.31 de descuento por 68.96 EUR (original: 110 EUR) en el siguiente enlace!

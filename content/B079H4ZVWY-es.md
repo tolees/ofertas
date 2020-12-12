@@ -17,6 +17,9 @@ comparePrice: 86 EUR
 inStock: true
 prodname: 'Kingston SDS/128GB - Tarjeta de Memoria SD  Micro SDS  128 GB  UHS-I  Clase 10  hasta 80 MB/s '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079H4ZVWY/?tag=tolees-21'
+descuento: '67.99'
+titulo: 'Kingston SDS/128GB - Tarjeta de Memoria '
 ---
 
 Ahora mismo tienes [Kingston SDS/128GB - Tarjeta de Memoria SD  Micro SDS  128 GB  UHS-I  Clase 10  hasta 80 MB/s ](https://www.amazon.es/dp/B079H4ZVWY/?tag=tolees-21) a 27.53 EUR (original: 86 EUR) (67.99 %  de descuento) en el siguiente enlace!

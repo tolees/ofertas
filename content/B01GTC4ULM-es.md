@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'DKNY Intimates Nightfall-Sheer Lace Sujetador sin aro  Negro  Black/Skinny Dip Tl3     Talla del Fabricante: Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GTC4ULM/?tag=tolees-21'
+descuento: '50.99'
+titulo: 'DKNY Intimates Nightfall-Sheer Lace Suje'
 ---
 
 Ahora mismo tienes [DKNY Intimates Nightfall-Sheer Lace Sujetador sin aro  Negro  Black/Skinny Dip Tl3     Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B01GTC4ULM/?tag=tolees-21) a 22.03 EUR (original: 44.95 EUR) (50.99 %  de descuento) en el siguiente enlace!

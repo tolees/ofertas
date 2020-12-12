@@ -17,6 +17,9 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'LEGO Tanya Camiseta de Manga Larga  Niños  Azul  Blue 541   5 años  Tamaño del Fabricante:110 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077PVLC3S/?tag=tolees-21'
+descuento: '73.33'
+titulo: 'LEGO Tanya Camiseta de Manga Larga  Niño'
 ---
 
 Ahora mismo tienes [LEGO Tanya Camiseta de Manga Larga  Niños  Azul  Blue 541   5 años  Tamaño del Fabricante:110 ](https://www.amazon.es/dp/B077PVLC3S/?tag=tolees-21) a 6.12 EUR (original: 22.95 EUR) (73.33 %  de descuento) en el siguiente enlace!

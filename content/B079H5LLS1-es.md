@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Guess GU0130F-61C39  Gafas de Sol para Hombre  Black/Grey Blue 61'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079H5LLS1/?tag=tolees-21'
+descuento: '72.20'
+titulo: 'Guess GU0130F-61C39  Gafas de Sol para H'
 ---
 
 Está [Guess GU0130F-61C39  Gafas de Sol para Hombre  Black/Grey Blue 61](https://www.amazon.es/dp/B079H5LLS1/?tag=tolees-21) con 72.20 de descuento por 33.08 EUR (original: 119 EUR) en el siguiente enlace!

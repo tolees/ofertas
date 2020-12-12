@@ -17,6 +17,9 @@ comparePrice: 24.32 EUR
 inStock: true
 prodname: 'Y-Step - Papel pintado 3D impermeable  autoadhesivo  0 45 x 10 m'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FDYD4LN/?tag=tolees-21'
+descuento: '35.03'
+titulo: 'Y-Step - Papel pintado 3D impermeable  a'
 ---
 
 Ahora mismo tienes [Y-Step - Papel pintado 3D impermeable  autoadhesivo  0 45 x 10 m](https://www.amazon.es/dp/B07FDYD4LN/?tag=tolees-21) a 15.8 EUR (original: 24.32 EUR) (35.03 %  de descuento) en el siguiente enlace!

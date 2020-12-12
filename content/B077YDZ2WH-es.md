@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'HIKARO Camiseta con Botones Hombre  Blanco  White   50  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YDZ2WH/?tag=tolees-21'
+descuento: '56.66'
+titulo: 'HIKARO Camiseta con Botones Hombre  Blan'
 ---
 
 Está [HIKARO Camiseta con Botones Hombre  Blanco  White   50  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YDZ2WH/?tag=tolees-21) con 56.66 de descuento por 7.78 EUR (original: 17.95 EUR) en el siguiente enlace!

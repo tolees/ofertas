@@ -17,6 +17,9 @@ comparePrice: 21.95 EUR
 inStock: true
 prodname: 'VERO MODA VMPENELOPE LS BLOUSE T  suéter Mujer  Gris  Moonbeam   38  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GA5FQWU/?tag=tolees-21'
+descuento: '45.69'
+titulo: 'VERO MODA VMPENELOPE LS BLOUSE T  suéter'
 ---
 
 Tienes [VERO MODA VMPENELOPE LS BLOUSE T  suéter Mujer  Gris  Moonbeam   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01GA5FQWU/?tag=tolees-21) con un 45.69 % de descuento con precio de oferta de 11.92 EUR (original: 21.95 EUR) en el siguiente enlace!

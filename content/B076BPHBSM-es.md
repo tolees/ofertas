@@ -17,6 +17,9 @@ comparePrice: 176.43 EUR
 inStock: true
 prodname: 'Dalstrong Carnicería rompiendo Cimitar cuchillo - serie 10" cortadora de Gladiador - HC alemán acero - protector de vaina incluida'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076BPHBSM/?tag=tolees-21'
+descuento: '77.40'
+titulo: 'Dalstrong Carnicería rompiendo Cimitar c'
 ---
 
 Está [Dalstrong Carnicería rompiendo Cimitar cuchillo - serie 10" cortadora de Gladiador - HC alemán acero - protector de vaina incluida](https://www.amazon.es/dp/B076BPHBSM/?tag=tolees-21) con 77.40 de descuento por 39.88 EUR (original: 176.43 EUR) en el siguiente enlace!

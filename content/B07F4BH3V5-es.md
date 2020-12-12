@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'Sebago Boot Suede W  Botines para Mujer   Chameau Beige 906   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F4BH3V5/?tag=tolees-21'
+descuento: '82.09'
+titulo: 'Sebago Boot Suede W  Botines para Mujer '
 ---
 
 Está [Sebago Boot Suede W  Botines para Mujer   Chameau Beige 906   38 EU](https://www.amazon.es/dp/B07F4BH3V5/?tag=tolees-21) con 82.09 de descuento por 32.24 EUR (original: 180 EUR) en el siguiente enlace!

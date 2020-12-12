@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma SHOKU Non-Knit BT  Zapatillas Unisex Adulto  Gris  Gray Violet-Peacoat   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1RGXS/?tag=tolees-21'
+descuento: '68.63'
+titulo: 'Puma SHOKU Non-Knit BT  Zapatillas Unise'
 ---
 
 Ahora mismo tienes [Puma SHOKU Non-Knit BT  Zapatillas Unisex Adulto  Gris  Gray Violet-Peacoat   38 EU](https://www.amazon.es/dp/B07DC1RGXS/?tag=tolees-21) a 31.35 EUR (original: 99.95 EUR) (68.63 %  de descuento) en el siguiente enlace!

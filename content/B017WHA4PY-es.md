@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Columbia Flashback Cortavientos Impermeable  Aislamiento térmico sintético Hi-Loft  Hombre  Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017WHA4PY/?tag=tolees-21'
+descuento: '43.15'
+titulo: 'Columbia Flashback Cortavientos Impermea'
 ---
 
 Tienes [Columbia Flashback Cortavientos Impermeable  Aislamiento térmico sintético Hi-Loft  Hombre  Black  M](https://www.amazon.es/dp/B017WHA4PY/?tag=tolees-21) con un 43.15 % de descuento con precio de oferta de 28.42 EUR (original: 49.99 EUR) en el siguiente enlace!

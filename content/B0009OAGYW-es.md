@@ -17,6 +17,9 @@ comparePrice: 83 EUR
 inStock: true
 prodname: 'Yves Saint Laurent - Opium - Eau de Toilette para mujer - 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0009OAGYW/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Yves Saint Laurent - Opium - Eau de Toil'
 ---
 
 Tienes [Yves Saint Laurent - Opium - Eau de Toilette para mujer - 50 ml](https://www.amazon.es/dp/B0009OAGYW/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 49.8 EUR (original: 83 EUR) en el siguiente enlace!

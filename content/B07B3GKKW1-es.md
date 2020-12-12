@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma Final Sideline Jacket  Hombre  Pepper Green/Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B3GKKW1/?tag=tolees-21'
+descuento: '66.34'
+titulo: 'Puma Final Sideline Jacket  Hombre  Pepp'
 ---
 
 Ahora mismo tienes [Puma Final Sideline Jacket  Hombre  Pepper Green/Black  S](https://www.amazon.es/dp/B07B3GKKW1/?tag=tolees-21) a 21.86 EUR (original: 64.95 EUR) (66.34 %  de descuento) en el siguiente enlace!

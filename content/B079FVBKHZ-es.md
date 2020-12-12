@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Energy Sistem Phone MAX 4G - Smartphone de 5in  4G LTE  IPS HD con antihuellas  Quad Core  16 GB  Cámaras de 8 MPx y 5MPx  1 GB de RAM  Dual Sim  Android 5.1  Color Negro  Reacondicionado '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079FVBKHZ/?tag=tolees-21'
+descuento: '40.61'
+titulo: 'Energy Sistem Phone MAX 4G - Smartphone '
 ---
 
 Está [Energy Sistem Phone MAX 4G - Smartphone de 5in  4G LTE  IPS HD con antihuellas  Quad Core  16 GB  Cámaras de 8 MPx y 5MPx  1 GB de RAM  Dual Sim  Android 5.1  Color Negro  Reacondicionado ](https://www.amazon.es/dp/B079FVBKHZ/?tag=tolees-21) con 40.61 de descuento por 88.49 EUR (original: 149 EUR) en el siguiente enlace!

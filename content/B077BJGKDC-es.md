@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Gioseppo 43589  Zapatillas para Hombre  Verde  Kaki   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077BJGKDC/?tag=tolees-21'
+descuento: '66.11'
+titulo: 'Gioseppo 43589  Zapatillas para Hombre  '
 ---
 
 Ahora mismo tienes [Gioseppo 43589  Zapatillas para Hombre  Verde  Kaki   44 EU](https://www.amazon.es/dp/B077BJGKDC/?tag=tolees-21) a 20.32 EUR (original: 59.95 EUR) (66.11 %  de descuento) en el siguiente enlace!

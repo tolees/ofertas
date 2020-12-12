@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Tank-Top  Camiseta sin Mangas para Mujer  Azul  Black Iris 13c   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HJXHTD/?tag=tolees-21'
+descuento: '59.45'
+titulo: 'United Colors of Benetton Tank-Top  Cami'
 ---
 
 Tienes [United Colors of Benetton Tank-Top  Camiseta sin Mangas para Mujer  Azul  Black Iris 13c   Large](https://www.amazon.es/dp/B078HJXHTD/?tag=tolees-21) con un 59.45 % de descuento con precio de oferta de 8.09 EUR (original: 19.95 EUR) en el siguiente enlace!

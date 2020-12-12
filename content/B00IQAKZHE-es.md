@@ -17,6 +17,9 @@ comparePrice: 23.6 EUR
 inStock: true
 prodname: 'Shiseido 57105 - Cuidado capilar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IQAKZHE/?tag=tolees-21'
+descuento: '55.51'
+titulo: 'Shiseido 57105 - Cuidado capilar'
 ---
 
 Tienes [Shiseido 57105 - Cuidado capilar](https://www.amazon.es/dp/B00IQAKZHE/?tag=tolees-21) con un 55.51 % de descuento con precio de oferta de 10.5 EUR (original: 23.6 EUR) en el siguiente enlace!

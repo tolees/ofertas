@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Sweater L/s  suéter Hombre  Azul  Dark Blue 616   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHZQBV4/?tag=tolees-21'
+descuento: '79.66'
+titulo: 'United Colors of Benetton Sweater L/s  s'
 ---
 
 Ahora mismo tienes [United Colors of Benetton Sweater L/s  suéter Hombre  Azul  Dark Blue 616   Small](https://www.amazon.es/dp/B07DHZQBV4/?tag=tolees-21) a 10.16 EUR (original: 49.95 EUR) (79.66 %  de descuento) en el siguiente enlace!

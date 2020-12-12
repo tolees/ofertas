@@ -17,6 +17,9 @@ comparePrice: 335.35 EUR
 inStock: true
 prodname: 'FeiyuTech G5 2 Recargable de 3 Ejes Handheld Gimbal Estabilizador de Gopro cámara de acción  splashpr Impermeable para Hero5  Hero4'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y3Y2TN8/?tag=tolees-21'
+descuento: '73.70'
+titulo: 'FeiyuTech G5 2 Recargable de 3 Ejes Hand'
 ---
 
 Está [FeiyuTech G5 2 Recargable de 3 Ejes Handheld Gimbal Estabilizador de Gopro cámara de acción  splashpr Impermeable para Hero5  Hero4](https://www.amazon.es/dp/B06Y3Y2TN8/?tag=tolees-21) con 73.70 de descuento por 88.21 EUR (original: 335.35 EUR) en el siguiente enlace!

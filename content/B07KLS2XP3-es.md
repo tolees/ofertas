@@ -17,6 +17,9 @@ comparePrice: 26.72 EUR
 inStock: true
 prodname: 'Venom  BD 3D + BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KLS2XP3/?tag=tolees-21'
+descuento: '53.22'
+titulo: 'Venom  BD 3D + BD  [Blu-ray]'
 ---
 
 Tienes [Venom  BD 3D + BD  [Blu-ray]](https://www.amazon.es/dp/B07KLS2XP3/?tag=tolees-21) con un 53.22 % de descuento con precio de oferta de 12.5 EUR (original: 26.72 EUR) en el siguiente enlace!

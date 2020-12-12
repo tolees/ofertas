@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Quiksilver Estate Snow Pant  Hombre  Grape Leaf  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHSQZHQ/?tag=tolees-21'
+descuento: '76.14'
+titulo: 'Quiksilver Estate Snow Pant  Hombre  Gra'
 ---
 
 Está [Quiksilver Estate Snow Pant  Hombre  Grape Leaf  L](https://www.amazon.es/dp/B07DHSQZHQ/?tag=tolees-21) con 76.14 de descuento por 31.02 EUR (original: 129.99 EUR) en el siguiente enlace!

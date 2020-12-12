@@ -17,6 +17,9 @@ comparePrice: 11.1 EUR
 inStock: true
 prodname: 'Rotulador punta fina STABILO point 88 - Caja con 10 unidades - Color rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000KJOBPG/?tag=tolees-21'
+descuento: '53.33'
+titulo: 'Rotulador punta fina STABILO point 88 - '
 ---
 
 Tienes [Rotulador punta fina STABILO point 88 - Caja con 10 unidades - Color rosa](https://www.amazon.es/dp/B000KJOBPG/?tag=tolees-21) con un 53.33 % de descuento con precio de oferta de 5.18 EUR (original: 11.1 EUR) en el siguiente enlace!

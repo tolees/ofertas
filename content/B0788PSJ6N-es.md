@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Asics Patriot 9  Zapatillas de Entrenamiento para Mujer  Rosa  Begonia Pink/White/Seashell Pi 0601   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0788PSJ6N/?tag=tolees-21'
+descuento: '31.47'
+titulo: 'Asics Patriot 9  Zapatillas de Entrenami'
 ---
 
 Ahora mismo tienes [Asics Patriot 9  Zapatillas de Entrenamiento para Mujer  Rosa  Begonia Pink/White/Seashell Pi 0601   37.5 EU](https://www.amazon.es/dp/B0788PSJ6N/?tag=tolees-21) a 41.12 EUR (original: 60 EUR) (31.47 %  de descuento) en el siguiente enlace!

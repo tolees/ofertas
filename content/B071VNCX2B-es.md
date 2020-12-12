@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma FlexT1  Zapatillas Unisex Adulto  Naranja  Nrgy Peach-White-Gray Violet   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VNCX2B/?tag=tolees-21'
+descuento: '63.45'
+titulo: 'Puma FlexT1  Zapatillas Unisex Adulto  N'
 ---
 
 Está [Puma FlexT1  Zapatillas Unisex Adulto  Naranja  Nrgy Peach-White-Gray Violet   37 EU](https://www.amazon.es/dp/B071VNCX2B/?tag=tolees-21) con 63.45 de descuento por 21.91 EUR (original: 59.95 EUR) en el siguiente enlace!

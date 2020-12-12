@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Munich Massana  Zapatillas Unisex Adulto   Marron 293   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8FK7C5/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Munich Massana  Zapatillas Unisex Adulto'
 ---
 
 Tienes [Munich Massana  Zapatillas Unisex Adulto   Marron 293   44 EU](https://www.amazon.es/dp/B07D8FK7C5/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 54.5 EUR (original: 109 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Under Armour UA Performance Polo  Hombre  Gris  True Gray Heather/Black 025   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DCBNWWM/?tag=tolees-21'
+descuento: '39.01'
+titulo: 'Under Armour UA Performance Polo  Hombre'
 ---
 
 Tienes [Under Armour UA Performance Polo  Hombre  Gris  True Gray Heather/Black 025   L](https://www.amazon.es/dp/B00DCBNWWM/?tag=tolees-21) con un 39.01 % de descuento con precio de oferta de 30.49 EUR (original: 49.99 EUR) en el siguiente enlace!

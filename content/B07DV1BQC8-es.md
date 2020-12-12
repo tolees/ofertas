@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Lacoste Sj9102  Sudadera para Niñas  Azul  Navy Blue 166  8 años  Talla del Fabricante: 8A '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DV1BQC8/?tag=tolees-21'
+descuento: '63.95'
+titulo: 'Lacoste Sj9102  Sudadera para Niñas  Azu'
 ---
 
 Está [Lacoste Sj9102  Sudadera para Niñas  Azul  Navy Blue 166  8 años  Talla del Fabricante: 8A ](https://www.amazon.es/dp/B07DV1BQC8/?tag=tolees-21) con 63.95 de descuento por 27.04 EUR (original: 75 EUR) en el siguiente enlace!

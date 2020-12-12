@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'DAKINE Campus Mochila  Hombre  Gris  laurelwood   25 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BSPD64V/?tag=tolees-21'
+descuento: '56.75'
+titulo: 'DAKINE Campus Mochila  Hombre  Gris  lau'
 ---
 
 Ahora mismo tienes [DAKINE Campus Mochila  Hombre  Gris  laurelwood   25 L](https://www.amazon.es/dp/B07BSPD64V/?tag=tolees-21) a 25.95 EUR (original: 60 EUR) (56.75 %  de descuento) en el siguiente enlace!

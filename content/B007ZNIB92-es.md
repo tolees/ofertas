@@ -17,6 +17,9 @@ comparePrice: 429 EUR
 inStock: true
 prodname: 'Suunto - Core Alu Pure White - SS018735000 - Reloj de exterior para todas las altitudes  sumergible  30 m   con altímetro  barómetro - Esfera de aluminio - Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007ZNIB92/?tag=tolees-21'
+descuento: '48.95'
+titulo: 'Suunto - Core Alu Pure White - SS0187350'
 ---
 
 Tienes [Suunto - Core Alu Pure White - SS018735000 - Reloj de exterior para todas las altitudes  sumergible  30 m   con altímetro  barómetro - Esfera de aluminio - Blanco](https://www.amazon.es/dp/B007ZNIB92/?tag=tolees-21) con un 48.95 % de descuento con precio de oferta de 219 EUR (original: 429 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Beurer il-35 - Lámpara infrarrojos  150 W  LED  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KOC3NW0/?tag=tolees-21'
+descuento: '33.24'
+titulo: 'Beurer il-35 - Lámpara infrarrojos  150 '
 ---
 
 Está [Beurer il-35 - Lámpara infrarrojos  150 W  LED  color blanco](https://www.amazon.es/dp/B01KOC3NW0/?tag=tolees-21) con 33.24 de descuento por 39.99 EUR (original: 59.9 EUR) en el siguiente enlace!

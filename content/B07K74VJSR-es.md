@@ -17,6 +17,9 @@ comparePrice: 51.74 EUR
 inStock: true
 prodname: 'Asics Jolt 2  Zapatillas de Running para Hombre  Rojo Classic Red 600  43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K74VJSR/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Asics Jolt 2  Zapatillas de Running para'
 ---
 
 Tienes [Asics Jolt 2  Zapatillas de Running para Hombre  Rojo Classic Red 600  43.5 EU](https://www.amazon.es/dp/B07K74VJSR/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 31.04 EUR (original: 51.74 EUR) en el siguiente enlace!

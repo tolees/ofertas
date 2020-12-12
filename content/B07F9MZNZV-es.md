@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F16826/D'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F9MZNZV/?tag=tolees-21'
+descuento: '47.54'
+titulo: 'Festina Reloj Cronógrafo para Hombre de '
 ---
 
 Está [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F16826/D](https://www.amazon.es/dp/B07F9MZNZV/?tag=tolees-21) con 47.54 de descuento por 72.92 EUR (original: 139 EUR) en el siguiente enlace!

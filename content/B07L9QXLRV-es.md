@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Napapijri Elios Polo  Azul  Dark Denim Bd1   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9QXLRV/?tag=tolees-21'
+descuento: '42.46'
+titulo: 'Napapijri Elios Polo  Azul  Dark Denim B'
 ---
 
 Está [Napapijri Elios Polo  Azul  Dark Denim Bd1   X-Large para Hombre](https://www.amazon.es/dp/B07L9QXLRV/?tag=tolees-21) con 42.46 de descuento por 33.95 EUR (original: 59 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 18.9 EUR
 inStock: true
 prodname: 'Revlon UniqOne Classic Pack de Spray y Champú  150ml y 300ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072VFJG21/?tag=tolees-21'
+descuento: '41.85'
+titulo: 'Revlon UniqOne Classic Pack de Spray y C'
 ---
 
 Tienes [Revlon UniqOne Classic Pack de Spray y Champú  150ml y 300ml](https://www.amazon.es/dp/B072VFJG21/?tag=tolees-21) con un 41.85 % de descuento con precio de oferta de 10.99 EUR (original: 18.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 249 EUR
 inStock: true
 prodname: 'Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3841'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077SN2BJB/?tag=tolees-21'
+descuento: '50.74'
+titulo: 'Michael Kors Reloj Analogico para Mujer '
 ---
 
 Está [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3841](https://www.amazon.es/dp/B077SN2BJB/?tag=tolees-21) con 50.74 de descuento por 122.65 EUR (original: 249 EUR) en el siguiente enlace!

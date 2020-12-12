@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Adidas Predator 19.4 TF J  Botas de fútbol Unisex niño  000  36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYYRPV3/?tag=tolees-21'
+descuento: '31.26'
+titulo: 'Adidas Predator 19.4 TF J  Botas de fútb'
 ---
 
 Está [Adidas Predator 19.4 TF J  Botas de fútbol Unisex niño  000  36.5 EU](https://www.amazon.es/dp/B07KYYRPV3/?tag=tolees-21) con 31.26 de descuento por 30.9 EUR (original: 44.95 EUR) en el siguiente enlace!

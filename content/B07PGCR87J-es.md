@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Lector CD DVD Externo USB 3.0 con Type C PIAEK Lector Grabadora Unidad Reproductor de DVD CD Portátil CD-RW/DVD-RW CD RW Row Rewriter Burner para Macbook OS con Windows PC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PGCR87J/?tag=tolees-21'
+descuento: '58.34'
+titulo: 'Lector CD DVD Externo USB 3.0 con Type C'
 ---
 
 Está [Lector CD DVD Externo USB 3.0 con Type C PIAEK Lector Grabadora Unidad Reproductor de DVD CD Portátil CD-RW/DVD-RW CD RW Row Rewriter Burner para Macbook OS con Windows PC](https://www.amazon.es/dp/B07PGCR87J/?tag=tolees-21) con 58.34 de descuento por 24.99 EUR (original: 59.99 EUR) en el siguiente enlace!

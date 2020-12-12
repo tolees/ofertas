@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Geox B Kilwi Boy E  Zapatillas para Bebés  Azul  Navy/Dk Orange C4218   20 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJZHGRF/?tag=tolees-21'
+descuento: '56.61'
+titulo: 'Geox B Kilwi Boy E  Zapatillas para Bebé'
 ---
 
 Está [Geox B Kilwi Boy E  Zapatillas para Bebés  Azul  Navy/Dk Orange C4218   20 EU](https://www.amazon.es/dp/B07DJZHGRF/?tag=tolees-21) con 56.61 de descuento por 21.65 EUR (original: 49.9 EUR) en el siguiente enlace!

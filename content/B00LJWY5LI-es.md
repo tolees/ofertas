@@ -17,6 +17,9 @@ comparePrice: 101 EUR
 inStock: true
 prodname: 'Pulsar Reloj analogico para Mujer de Cuarzo con Correa en Acero Inoxidable PH7382X1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LJWY5LI/?tag=tolees-21'
+descuento: '56.64'
+titulo: 'Pulsar Reloj analogico para Mujer de Cua'
 ---
 
 Ahora mismo tienes [Pulsar Reloj analogico para Mujer de Cuarzo con Correa en Acero Inoxidable PH7382X1](https://www.amazon.es/dp/B00LJWY5LI/?tag=tolees-21) a 43.79 EUR (original: 101 EUR) (56.64 %  de descuento) en el siguiente enlace!

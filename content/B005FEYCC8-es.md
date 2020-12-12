@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Casio Reloj de Pulsera W-734-2AVEF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005FEYCC8/?tag=tolees-21'
+descuento: '57.39'
+titulo: 'Casio Reloj de Pulsera W-734-2AVEF'
 ---
 
 Está [Casio Reloj de Pulsera W-734-2AVEF](https://www.amazon.es/dp/B005FEYCC8/?tag=tolees-21) con 57.39 de descuento por 17 EUR (original: 39.9 EUR) en el siguiente enlace!

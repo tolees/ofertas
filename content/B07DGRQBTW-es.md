@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'ALDO Ybilaclya  Botas Militar para Mujer  Negro  Jet Black 97   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGRQBTW/?tag=tolees-21'
+descuento: '79.17'
+titulo: 'ALDO Ybilaclya  Botas Militar para Mujer'
 ---
 
 Está [ALDO Ybilaclya  Botas Militar para Mujer  Negro  Jet Black 97   39 EU](https://www.amazon.es/dp/B07DGRQBTW/?tag=tolees-21) con 79.17 de descuento por 25 EUR (original: 120 EUR) en el siguiente enlace!

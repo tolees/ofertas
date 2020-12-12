@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'New Look Velvet Kimono Sleeve Playsuit  Mono para Mujer  Burdeos  ES 42  DE 40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZHMPMQ/?tag=tolees-21'
+descuento: '90.18'
+titulo: 'New Look Velvet Kimono Sleeve Playsuit  '
 ---
 
 Está [New Look Velvet Kimono Sleeve Playsuit  Mono para Mujer  Burdeos  ES 42  DE 40 ](https://www.amazon.es/dp/B01LZHMPMQ/?tag=tolees-21) con 90.18 de descuento por 3.93 EUR (original: 40 EUR) en el siguiente enlace!

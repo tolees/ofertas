@@ -17,6 +17,9 @@ comparePrice: 88 EUR
 inStock: true
 prodname: 'Calvin Klein Debby Velvet  Zapatillas para Mujer  Azul  Blue   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07141CMYW/?tag=tolees-21'
+descuento: '65.36'
+titulo: 'Calvin Klein Debby Velvet  Zapatillas pa'
 ---
 
 Está [Calvin Klein Debby Velvet  Zapatillas para Mujer  Azul  Blue   37 EU](https://www.amazon.es/dp/B07141CMYW/?tag=tolees-21) con 65.36 de descuento por 30.48 EUR (original: 88 EUR) en el siguiente enlace!

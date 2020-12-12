@@ -17,6 +17,9 @@ comparePrice: 35.94 EUR
 inStock: true
 prodname: 'NIVEA Aceite en Loción Flor de cerezo & Aceite de Jojoba - 400 ml - 6 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GSPTGJJ/?tag=tolees-21'
+descuento: '43.60'
+titulo: 'NIVEA Aceite en Loción Flor de cerezo & '
 ---
 
 Está [NIVEA Aceite en Loción Flor de cerezo & Aceite de Jojoba - 400 ml - 6 unidades](https://www.amazon.es/dp/B07GSPTGJJ/?tag=tolees-21) con 43.60 de descuento por 20.27 EUR (original: 35.94 EUR) en el siguiente enlace!

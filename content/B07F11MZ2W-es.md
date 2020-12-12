@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Billabong Guardiant Tee SS  - Camiseta  Hombre  Gris  Lt Grey Heather 454   38-39 ES  Tamaño del fabricante:XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F11MZ2W/?tag=tolees-21'
+descuento: '42.45'
+titulo: 'Billabong Guardiant Tee SS  - Camiseta  '
 ---
 
 Ahora mismo tienes [Billabong Guardiant Tee SS  - Camiseta  Hombre  Gris  Lt Grey Heather 454   38-39 ES  Tamaño del fabricante:XS ](https://www.amazon.es/dp/B07F11MZ2W/?tag=tolees-21) a 11.51 EUR (original: 20 EUR) (42.45 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15.89 EUR
 inStock: true
 prodname: 'Flexi Design S Cordon 5m. Verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VOAY0I8/?tag=tolees-21'
+descuento: '55.13'
+titulo: 'Flexi Design S Cordon 5m. Verde'
 ---
 
 Ahora mismo tienes [Flexi Design S Cordon 5m. Verde](https://www.amazon.es/dp/B00VOAY0I8/?tag=tolees-21) a 7.13 EUR (original: 15.89 EUR) (55.13 %  de descuento) en el siguiente enlace!

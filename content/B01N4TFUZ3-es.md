@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'This Is The Police'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4TFUZ3/?tag=tolees-21'
+descuento: '50.23'
+titulo: 'This Is The Police'
 ---
 
 Ahora mismo tienes [This Is The Police](https://www.amazon.es/dp/B01N4TFUZ3/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!

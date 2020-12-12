@@ -17,6 +17,9 @@ comparePrice: 13.3 EUR
 inStock: true
 prodname: 'Panter 370101616 - TLALOC ANTIGRASA ALTA BLANCO -CE- Talla: 41'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017LDESEW/?tag=tolees-21'
+descuento: '53.53'
+titulo: 'Panter 370101616 - TLALOC ANTIGRASA ALTA'
 ---
 
 Ahora mismo tienes [Panter 370101616 - TLALOC ANTIGRASA ALTA BLANCO -CE- Talla: 41](https://www.amazon.es/dp/B017LDESEW/?tag=tolees-21) a 6.18 EUR (original: 13.3 EUR) (53.53 %  de descuento) en el siguiente enlace!

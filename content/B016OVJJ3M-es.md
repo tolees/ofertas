@@ -17,6 +17,9 @@ comparePrice: 15.65 EUR
 inStock: true
 prodname: 'Cointreau Licores - 700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016OVJJ3M/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Cointreau Licores - 700 ml'
 ---
 
 Está [Cointreau Licores - 700 ml](https://www.amazon.es/dp/B016OVJJ3M/?tag=tolees-21) con 60.00 de descuento por 6.26 EUR (original: 15.65 EUR) en el siguiente enlace!

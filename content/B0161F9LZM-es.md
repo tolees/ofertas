@@ -17,6 +17,9 @@ comparePrice: 215 EUR
 inStock: true
 prodname: 'Bresser Conjunto Nº4 accesorios de flash de estudio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0161F9LZM/?tag=tolees-21'
+descuento: '82.16'
+titulo: 'Bresser Conjunto Nº4 accesorios de flash'
 ---
 
 Ahora mismo tienes [Bresser Conjunto Nº4 accesorios de flash de estudio](https://www.amazon.es/dp/B0161F9LZM/?tag=tolees-21) a 38.35 EUR (original: 215 EUR) (82.16 %  de descuento) en el siguiente enlace!

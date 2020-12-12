@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Only Onlbette Logo LS Swt Sudadera  Negro  Black Print:White   34  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073MVMDH5/?tag=tolees-21'
+descuento: '65.69'
+titulo: 'Only Onlbette Logo LS Swt Sudadera  Negr'
 ---
 
 Tienes [Only Onlbette Logo LS Swt Sudadera  Negro  Black Print:White   34  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B073MVMDH5/?tag=tolees-21) con un 65.69 % de descuento con precio de oferta de 9.26 EUR (original: 26.99 EUR) en el siguiente enlace!

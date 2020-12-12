@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'BILLABONG All Day Zip Hood Jersey  Hombre  Rojo  Rustic Red 4446   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1CNCP5/?tag=tolees-21'
+descuento: '58.78'
+titulo: 'BILLABONG All Day Zip Hood Jersey  Hombr'
 ---
 
 Está [BILLABONG All Day Zip Hood Jersey  Hombre  Rojo  Rustic Red 4446   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07F1CNCP5/?tag=tolees-21) con 58.78 de descuento por 26.79 EUR (original: 65 EUR) en el siguiente enlace!

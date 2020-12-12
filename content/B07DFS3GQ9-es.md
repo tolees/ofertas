@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Varsity Cover Up T-Shirt  Mujer  Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFS3GQ9/?tag=tolees-21'
+descuento: '50.86'
+titulo: 'Puma Varsity Cover Up T-Shirt  Mujer  Bl'
 ---
 
 Está [Puma Varsity Cover Up T-Shirt  Mujer  Black  S](https://www.amazon.es/dp/B07DFS3GQ9/?tag=tolees-21) con 50.86 de descuento por 34.37 EUR (original: 69.95 EUR) en el siguiente enlace!

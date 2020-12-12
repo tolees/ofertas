@@ -17,6 +17,9 @@ comparePrice: 124.99 EUR
 inStock: true
 prodname: 'San Ignacio Cacerola Apta para Inducción  Cromado  28 cm. diámetro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C569RGK/?tag=tolees-21'
+descuento: '72.14'
+titulo: 'San Ignacio Cacerola Apta para Inducción'
 ---
 
 Tienes [San Ignacio Cacerola Apta para Inducción  Cromado  28 cm. diámetro](https://www.amazon.es/dp/B07C569RGK/?tag=tolees-21) con un 72.14 % de descuento con precio de oferta de 34.82 EUR (original: 124.99 EUR) en el siguiente enlace!

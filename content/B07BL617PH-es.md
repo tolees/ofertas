@@ -17,6 +17,9 @@ comparePrice: 10.8 EUR
 inStock: true
 prodname: 'AXE Desodorante Bodyspray Marine - 3 Paquetes de 150 ml - Total: 450 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL617PH/?tag=tolees-21'
+descuento: '30.56'
+titulo: 'AXE Desodorante Bodyspray Marine - 3 Paq'
 ---
 
 Tienes [AXE Desodorante Bodyspray Marine - 3 Paquetes de 150 ml - Total: 450 ml](https://www.amazon.es/dp/B07BL617PH/?tag=tolees-21) con un 30.56 % de descuento con precio de oferta de 7.5 EUR (original: 10.8 EUR) en el siguiente enlace!

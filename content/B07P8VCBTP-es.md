@@ -17,6 +17,9 @@ comparePrice: 299 EUR
 inStock: true
 prodname: 'OUKITEL U18 – 4G Teléfono Móvil Lbres Libre DE 5.85" 21:9 Full HD Pantalla  SIM Doble Octa-Core 4 + 64 GB Face ID 4000mAh Batería Android 7.0 Versión Española  Oro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P8VCBTP/?tag=tolees-21'
+descuento: '56.53'
+titulo: 'OUKITEL U18 – 4G Teléfono Móvil Lbres Li'
 ---
 
 Tienes [OUKITEL U18 – 4G Teléfono Móvil Lbres Libre DE 5.85" 21:9 Full HD Pantalla  SIM Doble Octa-Core 4 + 64 GB Face ID 4000mAh Batería Android 7.0 Versión Española  Oro](https://www.amazon.es/dp/B07P8VCBTP/?tag=tolees-21) con un 56.53 % de descuento con precio de oferta de 129.99 EUR (original: 299 EUR) en el siguiente enlace!

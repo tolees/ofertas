@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Pique Polo Camiseta  Hombre  Blanco  White   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GKV9MQR/?tag=tolees-21'
+descuento: '56.19'
+titulo: 'Puma Pique Polo Camiseta  Hombre  Blanco'
 ---
 
 Está [Puma Pique Polo Camiseta  Hombre  Blanco  White   S](https://www.amazon.es/dp/B07GKV9MQR/?tag=tolees-21) con 56.19 de descuento por 13.12 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans Candy PL401524 Chaqueta  Negro  Black 999   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079WJCCMQ/?tag=tolees-21'
+descuento: '48.18'
+titulo: 'Pepe Jeans Candy PL401524 Chaqueta  Negr'
 ---
 
 Está [Pepe Jeans Candy PL401524 Chaqueta  Negro  Black 999   Large para Mujer](https://www.amazon.es/dp/B079WJCCMQ/?tag=tolees-21) con 48.18 de descuento por 49.23 EUR (original: 95 EUR) en el siguiente enlace!

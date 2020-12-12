@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Merrell Bare Access Flex 2  Zapatillas Deportivas para Interior para Hombre  Gris Turbulence/Flame  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYFDJ6X/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Merrell Bare Access Flex 2  Zapatillas D'
 ---
 
 Está [Merrell Bare Access Flex 2  Zapatillas Deportivas para Interior para Hombre  Gris Turbulence/Flame  42 EU](https://www.amazon.es/dp/B07DYFDJ6X/?tag=tolees-21) con 40.01 de descuento por 59.99 EUR (original: 100 EUR) en el siguiente enlace!

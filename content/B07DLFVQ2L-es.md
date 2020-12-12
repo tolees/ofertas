@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield Check Vichy Melange B.S  Camisa Casual para Hombre   Gama Gales 82  X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLFVQ2L/?tag=tolees-21'
+descuento: '65.87'
+titulo: 'Springfield Check Vichy Melange B.S  Cam'
 ---
 
 Tienes [Springfield Check Vichy Melange B.S  Camisa Casual para Hombre   Gama Gales 82  X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLFVQ2L/?tag=tolees-21) con un 65.87 % de descuento con precio de oferta de 8.87 EUR (original: 25.99 EUR) en el siguiente enlace!

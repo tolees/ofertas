@@ -17,6 +17,9 @@ comparePrice: 64.68 EUR
 inStock: true
 prodname: 'Auriculares Diadema Bluetooth Inalambricos  30hrs de Duración de la Batería  Hi-Fi Sonido Estéreo con Conexión a Bluetooth Inalámbrico y Audio Cable con Micrófono para Movil  PC  Tablet negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CJRGB97/?tag=tolees-21'
+descuento: '58.27'
+titulo: 'Auriculares Diadema Bluetooth Inalambric'
 ---
 
 Ahora mismo tienes [Auriculares Diadema Bluetooth Inalambricos  30hrs de Duración de la Batería  Hi-Fi Sonido Estéreo con Conexión a Bluetooth Inalámbrico y Audio Cable con Micrófono para Movil  PC  Tablet negro](https://www.amazon.es/dp/B07CJRGB97/?tag=tolees-21) a 26.99 EUR (original: 64.68 EUR) (58.27 %  de descuento) en el siguiente enlace!

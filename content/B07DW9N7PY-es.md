@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Columbia Youth Drainmaker IV  Zapatillas Unisex Niños  Violeta  Graphite  Northern Lights   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DW9N7PY/?tag=tolees-21'
+descuento: '43.87'
+titulo: 'Columbia Youth Drainmaker IV  Zapatillas'
 ---
 
 Ahora mismo tienes [Columbia Youth Drainmaker IV  Zapatillas Unisex Niños  Violeta  Graphite  Northern Lights   32 EU](https://www.amazon.es/dp/B07DW9N7PY/?tag=tolees-21) a 33.67 EUR (original: 59.99 EUR) (43.87 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.43 EUR
 inStock: true
 prodname: 'El Puente De Los Espías [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0198KK4HG/?tag=tolees-21'
+descuento: '58.88'
+titulo: 'El Puente De Los Espías [Blu-ray]'
 ---
 
 Está [El Puente De Los Espías [Blu-ray]](https://www.amazon.es/dp/B0198KK4HG/?tag=tolees-21) con 58.88 de descuento por 7.99 EUR (original: 19.43 EUR) en el siguiente enlace!

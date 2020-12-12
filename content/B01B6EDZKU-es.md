@@ -17,6 +17,9 @@ comparePrice: 178 EUR
 inStock: true
 prodname: 'Ryobi RSDS750-K'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B6EDZKU/?tag=tolees-21'
+descuento: '49.44'
+titulo: 'Ryobi RSDS750-K'
 ---
 
 Está [Ryobi RSDS750-K](https://www.amazon.es/dp/B01B6EDZKU/?tag=tolees-21) con 49.44 de descuento por 89.99 EUR (original: 178 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Hybrid NX Jr  Zapatillas Unisex Niños  Rosa  Fuchsia Purple White Black   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC22B6W/?tag=tolees-21'
+descuento: '57.81'
+titulo: 'Puma Hybrid NX Jr  Zapatillas Unisex Niñ'
 ---
 
 Ahora mismo tienes [Puma Hybrid NX Jr  Zapatillas Unisex Niños  Rosa  Fuchsia Purple White Black   39 EU](https://www.amazon.es/dp/B07DC22B6W/?tag=tolees-21) a 29.51 EUR (original: 69.95 EUR) (57.81 %  de descuento) en el siguiente enlace!

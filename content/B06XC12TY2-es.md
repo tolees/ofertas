@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'find. 70290 vestidos mujer  Multicolor  Black   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XC12TY2/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'find. 70290 vestidos mujer  Multicolor  '
 ---
 
 Ahora mismo tienes [find. 70290 vestidos mujer  Multicolor  Black   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06XC12TY2/?tag=tolees-21) a 16 EUR (original: 40 EUR) (60.00 %  de descuento) en el siguiente enlace!

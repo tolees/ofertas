@@ -17,6 +17,9 @@ comparePrice: 41 EUR
 inStock: true
 prodname: 'KELME Polo Paseo 18/19 Hercules C.F'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SCS36LV/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'KELME Polo Paseo 18/19 Hercules C.F'
 ---
 
 Está [KELME Polo Paseo 18/19 Hercules C.F](https://www.amazon.es/dp/B07SCS36LV/?tag=tolees-21) con 50.00 de descuento por 20.5 EUR (original: 41 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Solenny Silla Plegable  azul  90x64x15 cm  50001072720118'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BWSVH6W/?tag=tolees-21'
+descuento: '25.11'
+titulo: 'Solenny Silla Plegable  azul  90x64x15 c'
 ---
 
 Está [Solenny Silla Plegable  azul  90x64x15 cm  50001072720118](https://www.amazon.es/dp/B07BWSVH6W/?tag=tolees-21) con 25.11 de descuento por 29.92 EUR (original: 39.95 EUR) en el siguiente enlace!

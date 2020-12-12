@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'High Peak 10073 Texel 3  Tienda de campaña  3 personas  color ciruela/gris claro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006J68FUG/?tag=tolees-21'
+descuento: '36.02'
+titulo: 'High Peak 10073 Texel 3  Tienda de campa'
 ---
 
 Ahora mismo tienes [High Peak 10073 Texel 3  Tienda de campaña  3 personas  color ciruela/gris claro](https://www.amazon.es/dp/B006J68FUG/?tag=tolees-21) a 47.95 EUR (original: 74.95 EUR) (36.02 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 5.05 EUR
 inStock: true
 prodname: 'IDC COLOR  Maquillaje corrector ojeras'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FFITQRO/?tag=tolees-21'
+descuento: '40.79'
+titulo: 'IDC COLOR  Maquillaje corrector ojeras'
 ---
 
 Está [IDC COLOR  Maquillaje corrector ojeras](https://www.amazon.es/dp/B01FFITQRO/?tag=tolees-21) con 40.79 de descuento por 2.99 EUR (original: 5.05 EUR) en el siguiente enlace!

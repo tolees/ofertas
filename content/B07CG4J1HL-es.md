@@ -17,6 +17,9 @@ comparePrice: 47.02 EUR
 inStock: true
 prodname: 'Handiy LM101 - Medidor de distancia láser'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CG4J1HL/?tag=tolees-21'
+descuento: '73.44'
+titulo: 'Handiy LM101 - Medidor de distancia láse'
 ---
 
 Tienes [Handiy LM101 - Medidor de distancia láser](https://www.amazon.es/dp/B07CG4J1HL/?tag=tolees-21) con un 73.44 % de descuento con precio de oferta de 12.49 EUR (original: 47.02 EUR) en el siguiente enlace!

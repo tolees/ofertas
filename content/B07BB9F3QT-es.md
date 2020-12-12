@@ -17,6 +17,9 @@ comparePrice: 55.95 EUR
 inStock: true
 prodname: 'Softline 25262-21  Botas Militar para Mujer  Azul  Jeans 846   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB9F3QT/?tag=tolees-21'
+descuento: '61.38'
+titulo: 'Softline 25262-21  Botas Militar para Mu'
 ---
 
 Está [Softline 25262-21  Botas Militar para Mujer  Azul  Jeans 846   37 EU](https://www.amazon.es/dp/B07BB9F3QT/?tag=tolees-21) con 61.38 de descuento por 21.61 EUR (original: 55.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Escala de grasa de cuerpo de Bluetooth THZY Escala de baño de peso de cuerpo digital  Escala de pantalla retroiluminada grande inteligente para Peso de cuerpo  Grasa de cuerpo  Agua  Masa muscular  IMC  BMR  Masa ósea y Grasa visceral  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073ZBQLMW/?tag=tolees-21'
+descuento: '68.01'
+titulo: 'Escala de grasa de cuerpo de Bluetooth T'
 ---
 
 Está [Escala de grasa de cuerpo de Bluetooth THZY Escala de baño de peso de cuerpo digital  Escala de pantalla retroiluminada grande inteligente para Peso de cuerpo  Grasa de cuerpo  Agua  Masa muscular  IMC  BMR  Masa ósea y Grasa visceral  Blanco ](https://www.amazon.es/dp/B073ZBQLMW/?tag=tolees-21) con 68.01 de descuento por 15.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'IMITOR Calcetines de Senderismo para Hombre y Mujere Algodón Transpirable Calcetines de Trekking Calcetines para Actividades al Aire Libre Ciclismo Correr Escalar 3 Pares  Blanco Gris '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KK5MM87/?tag=tolees-21'
+descuento: '65.04'
+titulo: 'IMITOR Calcetines de Senderismo para Hom'
 ---
 
 Tienes [IMITOR Calcetines de Senderismo para Hombre y Mujere Algodón Transpirable Calcetines de Trekking Calcetines para Actividades al Aire Libre Ciclismo Correr Escalar 3 Pares  Blanco Gris ](https://www.amazon.es/dp/B07KK5MM87/?tag=tolees-21) con un 65.04 % de descuento con precio de oferta de 13.98 EUR (original: 39.99 EUR) en el siguiente enlace!

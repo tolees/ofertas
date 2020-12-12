@@ -17,6 +17,9 @@ comparePrice: 30.88 EUR
 inStock: true
 prodname: 'Auriculares Bluetooth Inalámbricos  Joytime IP8 Auriculares Inalámbricos V5.0 Deportivos Estéreos con Micrófono  cascos bluetooth inalámbricos Carga para iPhone y Android'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079CML1NH/?tag=tolees-21'
+descuento: '25.91'
+titulo: 'Auriculares Bluetooth Inalámbricos  Joyt'
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth Inalámbricos  Joytime IP8 Auriculares Inalámbricos V5.0 Deportivos Estéreos con Micrófono  cascos bluetooth inalámbricos Carga para iPhone y Android](https://www.amazon.es/dp/B079CML1NH/?tag=tolees-21) a 22.88 EUR (original: 30.88 EUR) (25.91 %  de descuento) en el siguiente enlace!

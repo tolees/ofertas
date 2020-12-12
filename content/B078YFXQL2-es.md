@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Lorus Reloj Analogico para Mujer de Cuarzo con Correa en Bañada en Oro RG202NX9'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078YFXQL2/?tag=tolees-21'
+descuento: '54.65'
+titulo: 'Lorus Reloj Analogico para Mujer de Cuar'
 ---
 
 Ahora mismo tienes [Lorus Reloj Analogico para Mujer de Cuarzo con Correa en Bañada en Oro RG202NX9](https://www.amazon.es/dp/B078YFXQL2/?tag=tolees-21) a 31.29 EUR (original: 69 EUR) (54.65 %  de descuento) en el siguiente enlace!

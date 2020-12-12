@@ -17,6 +17,9 @@ comparePrice: 12.24 EUR
 inStock: true
 prodname: 'Estrella limpahogar con lejía y detergente azul 1 5L [Pack de 6]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LWIN721/?tag=tolees-21'
+descuento: '34.80'
+titulo: 'Estrella limpahogar con lejía y detergen'
 ---
 
 Ahora mismo tienes [Estrella limpahogar con lejía y detergente azul 1 5L [Pack de 6]](https://www.amazon.es/dp/B01LWIN721/?tag=tolees-21) a 7.98 EUR (original: 12.24 EUR) (34.80 %  de descuento) en el siguiente enlace!

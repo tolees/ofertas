@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Columbia Cascade Pass Waterproof  Botas de Senderismo para Hombre  Marrón  Major/Bright Copper   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HDNU08I/?tag=tolees-21'
+descuento: '53.91'
+titulo: 'Columbia Cascade Pass Waterproof  Botas '
 ---
 
 Tienes [Columbia Cascade Pass Waterproof  Botas de Senderismo para Hombre  Marrón  Major/Bright Copper   44 EU](https://www.amazon.es/dp/B01HDNU08I/?tag=tolees-21) con un 53.91 % de descuento con precio de oferta de 55.28 EUR (original: 119.95 EUR) en el siguiente enlace!

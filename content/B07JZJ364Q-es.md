@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jornico Shirt Org  Camisa para Hombre   Fiery Red Fit: Slim   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZJ364Q/?tag=tolees-21'
+descuento: '60.69'
+titulo: 'JACK & JONES Jornico Shirt Org  Camisa p'
 ---
 
 Ahora mismo tienes [JACK & JONES Jornico Shirt Org  Camisa para Hombre   Fiery Red Fit: Slim   X-Large](https://www.amazon.es/dp/B07JZJ364Q/?tag=tolees-21) a 11.79 EUR (original: 29.99 EUR) (60.69 %  de descuento) en el siguiente enlace!

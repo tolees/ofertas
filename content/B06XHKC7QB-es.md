@@ -17,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'Luanvi Olimpia - Polo de manga corta Hombre  Verde  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHKC7QB/?tag=tolees-21'
+descuento: '55.61'
+titulo: 'Luanvi Olimpia - Polo de manga corta Hom'
 ---
 
 Está [Luanvi Olimpia - Polo de manga corta Hombre  Verde  L](https://www.amazon.es/dp/B06XHKC7QB/?tag=tolees-21) con 55.61 de descuento por 7.99 EUR (original: 18 EUR) en el siguiente enlace!

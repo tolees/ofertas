@@ -17,6 +17,9 @@ comparePrice: 18.34 EUR
 inStock: true
 prodname: 'Softee Equipment 0002360 Balón Micro Celular 0  Unisex  Blanco  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00H8XHNSY/?tag=tolees-21'
+descuento: '28.14'
+titulo: 'Softee Equipment 0002360 Balón Micro Cel'
 ---
 
 Ahora mismo tienes [Softee Equipment 0002360 Balón Micro Celular 0  Unisex  Blanco  S](https://www.amazon.es/dp/B00H8XHNSY/?tag=tolees-21) a 13.18 EUR (original: 18.34 EUR) (28.14 %  de descuento) en el siguiente enlace!

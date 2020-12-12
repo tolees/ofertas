@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Saco de dormir con cremallera y saco de compresión  ligero viaje y hoja de camping para exteriores  albergues  mochileros  picnic  aviones  trenes para evitar la suciedad  30 pulgadas x 85 pulgadas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MTTNRHJ/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Saco de dormir con cremallera y saco de '
 ---
 
 Está [Saco de dormir con cremallera y saco de compresión  ligero viaje y hoja de camping para exteriores  albergues  mochileros  picnic  aviones  trenes para evitar la suciedad  30 pulgadas x 85 pulgadas ](https://www.amazon.es/dp/B07MTTNRHJ/?tag=tolees-21) con 50.01 de descuento por 17.99 EUR (original: 35.99 EUR) en el siguiente enlace!

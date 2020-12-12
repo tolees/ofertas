@@ -17,6 +17,9 @@ comparePrice: 27.95 EUR
 inStock: true
 prodname: 'Lower East Camiseta Manga Corta Hombre  Pack de 5  Blanco  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N3THF7G/?tag=tolees-21'
+descuento: '29.98'
+titulo: 'Lower East Camiseta Manga Corta Hombre  '
 ---
 
 Está [Lower East Camiseta Manga Corta Hombre  Pack de 5  Blanco  S](https://www.amazon.es/dp/B00N3THF7G/?tag=tolees-21) con 29.98 de descuento por 19.57 EUR (original: 27.95 EUR) en el siguiente enlace!

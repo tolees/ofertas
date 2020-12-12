@@ -17,6 +17,9 @@ comparePrice: 12.39 EUR
 inStock: true
 prodname: 'Purebesi Cesta de Paja Estilo nórdico Color que empareja la cesta de Plegable Tejida a Mano Cesta de Mimbre Cesta de Pasto Marino almacenamiento hecha a mano plegable Cesta de lavadero'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7PVX4M/?tag=tolees-21'
+descuento: '40.36'
+titulo: 'Purebesi Cesta de Paja Estilo nórdico Co'
 ---
 
 Tienes [Purebesi Cesta de Paja Estilo nórdico Color que empareja la cesta de Plegable Tejida a Mano Cesta de Mimbre Cesta de Pasto Marino almacenamiento hecha a mano plegable Cesta de lavadero](https://www.amazon.es/dp/B07F7PVX4M/?tag=tolees-21) con un 40.36 % de descuento con precio de oferta de 7.39 EUR (original: 12.39 EUR) en el siguiente enlace!

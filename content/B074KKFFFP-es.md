@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Maison & White Tassimo 60 Pod Holder | Cajón de cápsulas y soporte para máquina de café Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074KKFFFP/?tag=tolees-21'
+descuento: '43.35'
+titulo: 'Maison & White Tassimo 60 Pod Holder | C'
 ---
 
 Ahora mismo tienes [Maison & White Tassimo 60 Pod Holder | Cajón de cápsulas y soporte para máquina de café Negro](https://www.amazon.es/dp/B074KKFFFP/?tag=tolees-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 166.99 EUR
 inStock: true
 prodname: 'Bosch 06033D1200 Aspiradora verde 1200 W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XTB2L21/?tag=tolees-21'
+descuento: '36.32'
+titulo: 'Bosch 06033D1200 Aspiradora verde 1200 W'
 ---
 
 Ahora mismo tienes [Bosch 06033D1200 Aspiradora verde 1200 W](https://www.amazon.es/dp/B06XTB2L21/?tag=tolees-21) a 106.34 EUR (original: 166.99 EUR) (36.32 %  de descuento) en el siguiente enlace!

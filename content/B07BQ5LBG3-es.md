@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Luke Vaqueros Tapered  Azul  Greenway Et   W33/L34 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQ5LBG3/?tag=tolees-21'
+descuento: '72.96'
+titulo: 'Lee Luke Vaqueros Tapered  Azul  Greenwa'
 ---
 
 Tienes [Lee Luke Vaqueros Tapered  Azul  Greenway Et   W33/L34 para Hombre](https://www.amazon.es/dp/B07BQ5LBG3/?tag=tolees-21) con un 72.96 % de descuento con precio de oferta de 27.03 EUR (original: 99.95 EUR) en el siguiente enlace!

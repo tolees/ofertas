@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Kempa Gecko Balón de Juego y Entrenamiento  niños  Verde  Flash  /  Azul Deep   0'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5PEKZ8/?tag=tolees-21'
+descuento: '50.15'
+titulo: 'Kempa Gecko Balón de Juego y Entrenamien'
 ---
 
 Ahora mismo tienes [Kempa Gecko Balón de Juego y Entrenamiento  niños  Verde  Flash  /  Azul Deep   0](https://www.amazon.es/dp/B01N5PEKZ8/?tag=tolees-21) a 14.95 EUR (original: 29.99 EUR) (50.15 %  de descuento) en el siguiente enlace!

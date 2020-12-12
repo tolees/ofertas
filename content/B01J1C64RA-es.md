@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES PREMIUM JPRMARK KNIT CREW NECK NOOS  suéter Hombre  Gris  Grey Melange   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01J1C64RA/?tag=tolees-21'
+descuento: '85.18'
+titulo: 'JACK & JONES PREMIUM JPRMARK KNIT CREW N'
 ---
 
 Tienes [JACK & JONES PREMIUM JPRMARK KNIT CREW NECK NOOS  suéter Hombre  Gris  Grey Melange   Medium](https://www.amazon.es/dp/B01J1C64RA/?tag=tolees-21) con un 85.18 % de descuento con precio de oferta de 7.41 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  Medium Aged Restored 8969-9114   25W / 34L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ6CCH5/?tag=tolees-21'
+descuento: '80.84'
+titulo: 'G-STAR RAW Lynn Mid-Waist Skinny Vaquero'
 ---
 
 Tienes [G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  Medium Aged Restored 8969-9114   25W / 34L para Mujer](https://www.amazon.es/dp/B07CZ6CCH5/?tag=tolees-21) con un 80.84 % de descuento con precio de oferta de 26.81 EUR (original: 139.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'XTI 48161  Zapatos de Cordones Oxford para Hombre  Negro  Black   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCBM735/?tag=tolees-21'
+descuento: '45.46'
+titulo: 'XTI 48161  Zapatos de Cordones Oxford pa'
 ---
 
 Está [XTI 48161  Zapatos de Cordones Oxford para Hombre  Negro  Black   43 EU](https://www.amazon.es/dp/B07DCBM735/?tag=tolees-21) con 45.46 de descuento por 21.79 EUR (original: 39.95 EUR) en el siguiente enlace!

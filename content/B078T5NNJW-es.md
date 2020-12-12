@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Cargador Inalámbrico Rápido Compatible con Samsung S8  S8+  S7  S7 Edge  S6 de RAVPower 10W Anti-Deslizamiento Diseño Compatible con Samsung y Teléfonos Qi-Enabled'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078T5NNJW/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'Cargador Inalámbrico Rápido Compatible c'
 ---
 
 Ahora mismo tienes [Cargador Inalámbrico Rápido Compatible con Samsung S8  S8+  S7  S7 Edge  S6 de RAVPower 10W Anti-Deslizamiento Diseño Compatible con Samsung y Teléfonos Qi-Enabled](https://www.amazon.es/dp/B078T5NNJW/?tag=tolees-21) a 14.99 EUR (original: 24.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

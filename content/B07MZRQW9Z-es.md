@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Purebesi Aspirador de Coche sin Cable 120W /12V Aspirador de Coche Potente inalambrico Potente Aspirador de Coche con bateria'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZRQW9Z/?tag=tolees-21'
+descuento: '41.95'
+titulo: 'Purebesi Aspirador de Coche sin Cable 12'
 ---
 
 Está [Purebesi Aspirador de Coche sin Cable 120W /12V Aspirador de Coche Potente inalambrico Potente Aspirador de Coche con bateria](https://www.amazon.es/dp/B07MZRQW9Z/?tag=tolees-21) con 41.95 de descuento por 17.99 EUR (original: 30.99 EUR) en el siguiente enlace!

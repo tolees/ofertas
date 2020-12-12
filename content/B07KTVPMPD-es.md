@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Columbia Oak Bowery - Mochila  Unisex Adulto  Collegiate Navy Heather  O/S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTVPMPD/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Columbia Oak Bowery - Mochila  Unisex Ad'
 ---
 
 Está [Columbia Oak Bowery - Mochila  Unisex Adulto  Collegiate Navy Heather  O/S](https://www.amazon.es/dp/B07KTVPMPD/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

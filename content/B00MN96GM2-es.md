@@ -17,6 +17,9 @@ comparePrice: 449 EUR
 inStock: true
 prodname: 'Suunto - Ambit3 Peak Sapphire HR - SS020673000 - Reloj GPS Multideporte + Cinturón de frecuencia cardiaca  Talla M  - Sumergible 50 m - Negro y gris - Cristal Zafiro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MN96GM2/?tag=tolees-21'
+descuento: '35.86'
+titulo: 'Suunto - Ambit3 Peak Sapphire HR - SS020'
 ---
 
 Ahora mismo tienes [Suunto - Ambit3 Peak Sapphire HR - SS020673000 - Reloj GPS Multideporte + Cinturón de frecuencia cardiaca  Talla M  - Sumergible 50 m - Negro y gris - Cristal Zafiro](https://www.amazon.es/dp/B00MN96GM2/?tag=tolees-21) a 287.99 EUR (original: 449 EUR) (35.86 %  de descuento) en el siguiente enlace!

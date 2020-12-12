@@ -17,6 +17,9 @@ comparePrice: 54.55 EUR
 inStock: true
 prodname: 'Reebok El Ts Woven Chándal  Mujer  Morado  Vicvlt   2XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073DG6H2F/?tag=tolees-21'
+descuento: '80.66'
+titulo: 'Reebok El Ts Woven Chándal  Mujer  Morad'
 ---
 
 Tienes [Reebok El Ts Woven Chándal  Mujer  Morado  Vicvlt   2XS](https://www.amazon.es/dp/B073DG6H2F/?tag=tolees-21) con un 80.66 % de descuento con precio de oferta de 10.55 EUR (original: 54.55 EUR) en el siguiente enlace!

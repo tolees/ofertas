@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma RS-0 Tracks  Zapatillas Unisex Adulto  Gris  Gray Violet New Navy   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC7MY7Q/?tag=tolees-21'
+descuento: '47.86'
+titulo: 'Puma RS-0 Tracks  Zapatillas Unisex Adul'
 ---
 
 Tienes [Puma RS-0 Tracks  Zapatillas Unisex Adulto  Gris  Gray Violet New Navy   46 EU](https://www.amazon.es/dp/B07DC7MY7Q/?tag=tolees-21) con un 47.86 % de descuento con precio de oferta de 52.11 EUR (original: 99.95 EUR) en el siguiente enlace!

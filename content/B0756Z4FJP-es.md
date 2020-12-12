@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Garmin Vívofit Jr. 2 - Monitor de actividad para niños  Minnie Mouse  Banda elástica   Edad 4+'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0756Z4FJP/?tag=tolees-21'
+descuento: '27.78'
+titulo: 'Garmin Vívofit Jr. 2 - Monitor de activi'
 ---
 
 Está [Garmin Vívofit Jr. 2 - Monitor de actividad para niños  Minnie Mouse  Banda elástica   Edad 4+](https://www.amazon.es/dp/B0756Z4FJP/?tag=tolees-21) con 27.78 de descuento por 64.99 EUR (original: 89.99 EUR) en el siguiente enlace!

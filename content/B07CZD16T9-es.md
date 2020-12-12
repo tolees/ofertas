@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Lacoste Straightset 318 2 Caw  Zapatillas para Mujer  Rosa  Lt Pnk/Wht 208   35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZD16T9/?tag=tolees-21'
+descuento: '45.91'
+titulo: 'Lacoste Straightset 318 2 Caw  Zapatilla'
 ---
 
 Ahora mismo tienes [Lacoste Straightset 318 2 Caw  Zapatillas para Mujer  Rosa  Lt Pnk/Wht 208   35.5 EU](https://www.amazon.es/dp/B07CZD16T9/?tag=tolees-21) a 58.96 EUR (original: 109 EUR) (45.91 %  de descuento) en el siguiente enlace!

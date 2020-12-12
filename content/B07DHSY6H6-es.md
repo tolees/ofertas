@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'DC Shoes EDYFB03055_XXL Pants  Hombre  Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHSY6H6/?tag=tolees-21'
+descuento: '60.27'
+titulo: 'DC Shoes EDYFB03055_XXL Pants  Hombre  B'
 ---
 
 Está [DC Shoes EDYFB03055_XXL Pants  Hombre  Black](https://www.amazon.es/dp/B07DHSY6H6/?tag=tolees-21) con 60.27 de descuento por 19.86 EUR (original: 49.99 EUR) en el siguiente enlace!

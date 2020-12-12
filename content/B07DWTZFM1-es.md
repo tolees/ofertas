@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Odlo Zeroweight X-Warm Chaleco  Hombre  Azul  Jewel/Poseidon   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWTZFM1/?tag=tolees-21'
+descuento: '76.08'
+titulo: 'Odlo Zeroweight X-Warm Chaleco  Hombre  '
 ---
 
 Ahora mismo tienes [Odlo Zeroweight X-Warm Chaleco  Hombre  Azul  Jewel/Poseidon   S](https://www.amazon.es/dp/B07DWTZFM1/?tag=tolees-21) a 31.08 EUR (original: 129.95 EUR) (76.08 %  de descuento) en el siguiente enlace!

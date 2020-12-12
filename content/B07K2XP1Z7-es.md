@@ -17,6 +17,9 @@ comparePrice: 49.88 EUR
 inStock: true
 prodname: 'HIP TEC Faro Trabajo Led 5"72W Super Brighty Potentes Focos Led Coches 6000K IP67 Impermeable de Faros Para off-road Tractor Camión，Barco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2XP1Z7/?tag=tolees-21'
+descuento: '40.10'
+titulo: 'HIP TEC Faro Trabajo Led 5"72W Super Bri'
 ---
 
 Ahora mismo tienes [HIP TEC Faro Trabajo Led 5"72W Super Brighty Potentes Focos Led Coches 6000K IP67 Impermeable de Faros Para off-road Tractor Camión，Barco](https://www.amazon.es/dp/B07K2XP1Z7/?tag=tolees-21) a 29.88 EUR (original: 49.88 EUR) (40.10 %  de descuento) en el siguiente enlace!

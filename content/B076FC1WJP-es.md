@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'PIECES - Pcroberta Shopper  Mujer  Rot  Port Royale   18x29x51 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076FC1WJP/?tag=tolees-21'
+descuento: '64.39'
+titulo: 'PIECES - Pcroberta Shopper  Mujer  Rot  '
 ---
 
 Ahora mismo tienes [PIECES - Pcroberta Shopper  Mujer  Rot  Port Royale   18x29x51 cm  B x H T ](https://www.amazon.es/dp/B076FC1WJP/?tag=tolees-21) a 14.24 EUR (original: 39.99 EUR) (64.39 %  de descuento) en el siguiente enlace!

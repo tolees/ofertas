@@ -17,6 +17,9 @@ comparePrice: 230 EUR
 inStock: true
 prodname: 'Burton Evergreen Down Insulator Chaqueta Funcional  Hombre  Negro  True   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F89X8GP/?tag=tolees-21'
+descuento: '70.36'
+titulo: 'Burton Evergreen Down Insulator Chaqueta'
 ---
 
 Ahora mismo tienes [Burton Evergreen Down Insulator Chaqueta Funcional  Hombre  Negro  True   L](https://www.amazon.es/dp/B07F89X8GP/?tag=tolees-21) a 68.17 EUR (original: 230 EUR) (70.36 %  de descuento) en el siguiente enlace!

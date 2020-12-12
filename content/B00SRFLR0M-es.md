@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Hugo Boss 61474 - Gel de ducha'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SRFLR0M/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'Hugo Boss 61474 - Gel de ducha'
 ---
 
 Tienes [Hugo Boss 61474 - Gel de ducha](https://www.amazon.es/dp/B00SRFLR0M/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 9 EUR (original: 30 EUR) en el siguiente enlace!

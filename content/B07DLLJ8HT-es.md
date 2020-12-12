@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Springfield INT. Plumas Largo Abrigo  Mujer  Dorado  Tostado 50   40  Tamaño del Fabricante:40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLLJ8HT/?tag=tolees-21'
+descuento: '77.96'
+titulo: 'Springfield INT. Plumas Largo Abrigo  Mu'
 ---
 
 Tienes [Springfield INT. Plumas Largo Abrigo  Mujer  Dorado  Tostado 50   40  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B07DLLJ8HT/?tag=tolees-21) con un 77.96 % de descuento con precio de oferta de 19.83 EUR (original: 89.99 EUR) en el siguiente enlace!

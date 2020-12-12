@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'New Caro Pantalón Pantalón Azul Medio ES 40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B1CZVN6/?tag=tolees-21'
+descuento: '83.38'
+titulo: 'New Caro Pantalón Pantalón Azul Medio ES'
 ---
 
 Ahora mismo tienes [New Caro Pantalón Pantalón Azul Medio ES 40](https://www.amazon.es/dp/B01B1CZVN6/?tag=tolees-21) a 8.31 EUR (original: 49.99 EUR) (83.38 %  de descuento) en el siguiente enlace!

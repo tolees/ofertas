@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Levi s Levis 200sf Aloha Print Boxer Brief 2p  Negro  Caviar 703   Small  Pack de 2 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GWSZB5M/?tag=tolees-21'
+descuento: '51.86'
+titulo: 'Levi s Levis 200sf Aloha Print Boxer Bri'
 ---
 
 Tienes [Levi s Levis 200sf Aloha Print Boxer Brief 2p  Negro  Caviar 703   Small  Pack de 2 para Hombre](https://www.amazon.es/dp/B07GWSZB5M/?tag=tolees-21) con un 51.86 % de descuento con precio de oferta de 12.03 EUR (original: 24.99 EUR) en el siguiente enlace!

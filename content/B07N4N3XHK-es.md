@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Superga 2790-synglossysnakej  Zapatillas de Gimnasia para Niñas  Rosa  Pink Quartz 940   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N4N3XHK/?tag=tolees-21'
+descuento: '53.71'
+titulo: 'Superga 2790-synglossysnakej  Zapatillas'
 ---
 
 Ahora mismo tienes [Superga 2790-synglossysnakej  Zapatillas de Gimnasia para Niñas  Rosa  Pink Quartz 940   28 EU](https://www.amazon.es/dp/B07N4N3XHK/?tag=tolees-21) a 31.94 EUR (original: 69 EUR) (53.71 %  de descuento) en el siguiente enlace!

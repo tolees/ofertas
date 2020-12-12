@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'GORE WEAR C3 Punteras unisex GORE WINDSTOPPER  Talla: 42-47  Color: amarillo neón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075S3HZW5/?tag=tolees-21'
+descuento: '27.11'
+titulo: 'GORE WEAR C3 Punteras unisex GORE WINDST'
 ---
 
 Ahora mismo tienes [GORE WEAR C3 Punteras unisex GORE WINDSTOPPER  Talla: 42-47  Color: amarillo neón](https://www.amazon.es/dp/B075S3HZW5/?tag=tolees-21) a 21.83 EUR (original: 29.95 EUR) (27.11 %  de descuento) en el siguiente enlace!

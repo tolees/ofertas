@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Under Armour Mk1 Terry Jogger Pantalones  Hombre  Negro  Black/Jet Gray 001   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZBYY48/?tag=tolees-21'
+descuento: '45.95'
+titulo: 'Under Armour Mk1 Terry Jogger Pantalones'
 ---
 
 Está [Under Armour Mk1 Terry Jogger Pantalones  Hombre  Negro  Black/Jet Gray 001   L](https://www.amazon.es/dp/B07CZBYY48/?tag=tolees-21) con 45.95 de descuento por 29.72 EUR (original: 54.99 EUR) en el siguiente enlace!

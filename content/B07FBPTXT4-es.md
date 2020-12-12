@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Meridian-charted  Zapatillas para Mujer   White Multi Wmlt   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FBPTXT4/?tag=tolees-21'
+descuento: '47.78'
+titulo: 'Skechers Meridian-charted  Zapatillas pa'
 ---
 
 Ahora mismo tienes [Skechers Meridian-charted  Zapatillas para Mujer   White Multi Wmlt   40 EU](https://www.amazon.es/dp/B07FBPTXT4/?tag=tolees-21) a 36.53 EUR (original: 69.95 EUR) (47.78 %  de descuento) en el siguiente enlace!

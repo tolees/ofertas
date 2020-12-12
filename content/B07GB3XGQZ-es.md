@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Marca Amazon - Happy Belly Ristretto Café UTZ molido de tueste natural en cápsulas  compostables  compatibles con Nespresso  50 cápsulas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GB3XGQZ/?tag=tolees-21'
+descuento: '35.67'
+titulo: 'Marca Amazon - Happy Belly Ristretto Caf'
 ---
 
 Está [Marca Amazon - Happy Belly Ristretto Café UTZ molido de tueste natural en cápsulas  compostables  compatibles con Nespresso  50 cápsulas](https://www.amazon.es/dp/B07GB3XGQZ/?tag=tolees-21) con 35.67 de descuento por 9 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'New Look Washed Biker  Vaquero Skinny Para Hombre  Negro  32 Short'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYLP0LD/?tag=tolees-21'
+descuento: '51.19'
+titulo: 'New Look Washed Biker  Vaquero Skinny Pa'
 ---
 
 Está [New Look Washed Biker  Vaquero Skinny Para Hombre  Negro  32 Short](https://www.amazon.es/dp/B01LYLP0LD/?tag=tolees-21) con 51.19 de descuento por 21.96 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Nike Air Zoom Vapor X HC  Zapatillas de Deporte para Niños  Black/Vast Grey/Summit White 101  35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G7G6YLT/?tag=tolees-21'
+descuento: '81.00'
+titulo: 'Nike Air Zoom Vapor X HC  Zapatillas de '
 ---
 
 Ahora mismo tienes [Nike Air Zoom Vapor X HC  Zapatillas de Deporte para Niños  Black/Vast Grey/Summit White 101  35.5 EU](https://www.amazon.es/dp/B07G7G6YLT/?tag=tolees-21) a 26.6 EUR (original: 140 EUR) (81.00 %  de descuento) en el siguiente enlace!

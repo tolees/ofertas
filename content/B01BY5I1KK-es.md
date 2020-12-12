@@ -17,6 +17,9 @@ comparePrice: 549 EUR
 inStock: true
 prodname: 'ASUS Zenfone ZOOM - Smartphone libre Android  pantalla 5.5"  cámara 13 Mp con zoom óptico  64 GB  Atom Z3 2.3GHz  4 GB de RAM   negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BY5I1KK/?tag=tolees-21'
+descuento: '67.94'
+titulo: 'ASUS Zenfone ZOOM - Smartphone libre And'
 ---
 
 Está [ASUS Zenfone ZOOM - Smartphone libre Android  pantalla 5.5"  cámara 13 Mp con zoom óptico  64 GB  Atom Z3 2.3GHz  4 GB de RAM   negro](https://www.amazon.es/dp/B01BY5I1KK/?tag=tolees-21) con 67.94 de descuento por 175.99 EUR (original: 549 EUR) en el siguiente enlace!

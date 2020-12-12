@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance 411  Zapatillas para Hombre  Negro  Black Bk2   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00V3MLOPY/?tag=tolees-21'
+descuento: '33.89'
+titulo: 'New Balance 411  Zapatillas para Hombre '
 ---
 
 Tienes [New Balance 411  Zapatillas para Hombre  Negro  Black Bk2   42 EU](https://www.amazon.es/dp/B00V3MLOPY/?tag=tolees-21) con un 33.89 % de descuento con precio de oferta de 46.28 EUR (original: 70 EUR) en el siguiente enlace!

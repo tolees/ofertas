@@ -17,6 +17,9 @@ comparePrice: 8.44 EUR
 inStock: true
 prodname: 'Homyl Altavoz Estéreo Inalámbrico Portátil De Rugby TF/USB Para Los Diversos Dispositivos - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG11GG7/?tag=tolees-21'
+descuento: '44.43'
+titulo: 'Homyl Altavoz Estéreo Inalámbrico Portát'
 ---
 
 Está [Homyl Altavoz Estéreo Inalámbrico Portátil De Rugby TF/USB Para Los Diversos Dispositivos - Negro](https://www.amazon.es/dp/B07DG11GG7/?tag=tolees-21) con 44.43 de descuento por 4.69 EUR (original: 8.44 EUR) en el siguiente enlace!

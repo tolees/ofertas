@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: '!Solid Jermin Chaqueta  Hombre  Azul  Navy Mela 1991   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7KMWBP/?tag=tolees-21'
+descuento: '65.40'
+titulo: '!Solid Jermin Chaqueta  Hombre  Azul  Na'
 ---
 
 Ahora mismo tienes [!Solid Jermin Chaqueta  Hombre  Azul  Navy Mela 1991   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07D7KMWBP/?tag=tolees-21) a 24.2 EUR (original: 69.95 EUR) (65.40 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Columbia Bugaboo Beanie Gorro  Unisex  Azul  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077KG21SX/?tag=tolees-21'
+descuento: '40.82'
+titulo: 'Columbia Bugaboo Beanie Gorro  Unisex  A'
 ---
 
 Ahora mismo tienes [Columbia Bugaboo Beanie Gorro  Unisex  Azul  Talla única](https://www.amazon.es/dp/B077KG21SX/?tag=tolees-21) a 11.83 EUR (original: 19.99 EUR) (40.82 %  de descuento) en el siguiente enlace!

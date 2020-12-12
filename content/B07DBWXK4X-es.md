@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Puma Rise XT Fuse 1  Zapatillas de Deporte Interior Unisex Adults o  Azul  Bleu Azur-Red Blast Black   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBWXK4X/?tag=tolees-21'
+descuento: '51.45'
+titulo: 'Puma Rise XT Fuse 1  Zapatillas de Depor'
 ---
 
 Ahora mismo tienes [Puma Rise XT Fuse 1  Zapatillas de Deporte Interior Unisex Adults o  Azul  Bleu Azur-Red Blast Black   47 EU](https://www.amazon.es/dp/B07DBWXK4X/?tag=tolees-21) a 67.95 EUR (original: 139.95 EUR) (51.45 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'SALOMON Pearl Casco de esquí y Snowboard para Mujer  Carcasa In-Mould  Interior de Espuma EPS 4D  Circunferencia: 53-56 cm  Blanco  Talla S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JJT1U2Y/?tag=tolees-21'
+descuento: '27.92'
+titulo: 'SALOMON Pearl Casco de esquí y Snowboard'
 ---
 
 Está [SALOMON Pearl Casco de esquí y Snowboard para Mujer  Carcasa In-Mould  Interior de Espuma EPS 4D  Circunferencia: 53-56 cm  Blanco  Talla S](https://www.amazon.es/dp/B01JJT1U2Y/?tag=tolees-21) con 27.92 de descuento por 57.66 EUR (original: 79.99 EUR) en el siguiente enlace!

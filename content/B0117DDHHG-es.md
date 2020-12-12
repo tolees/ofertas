@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'MiniSun - Preciosa pantalla de lámpara de techo colgante  Azteca  - redonda a 3 niveles de tela en turquesa  gris y blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0117DDHHG/?tag=tolees-21'
+descuento: '45.01'
+titulo: 'MiniSun - Preciosa pantalla de lámpara d'
 ---
 
 Tienes [MiniSun - Preciosa pantalla de lámpara de techo colgante  Azteca  - redonda a 3 niveles de tela en turquesa  gris y blanco](https://www.amazon.es/dp/B0117DDHHG/?tag=tolees-21) con un 45.01 % de descuento con precio de oferta de 21.99 EUR (original: 39.99 EUR) en el siguiente enlace!

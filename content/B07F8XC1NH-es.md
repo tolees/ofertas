@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Kickers Tampa  Zapatillas para Hombre   Gris/Marine 121   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8XC1NH/?tag=tolees-21'
+descuento: '45.94'
+titulo: 'Kickers Tampa  Zapatillas para Hombre   '
 ---
 
 Está [Kickers Tampa  Zapatillas para Hombre   Gris/Marine 121   44 EU](https://www.amazon.es/dp/B07F8XC1NH/?tag=tolees-21) con 45.94 de descuento por 42.71 EUR (original: 79 EUR) en el siguiente enlace!

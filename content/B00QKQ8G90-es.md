@@ -17,6 +17,9 @@ comparePrice: 60.1 EUR
 inStock: true
 prodname: 'Ar K1Pp040B4Bb01 - Kit 5 Estant.Bricol 40 180X90X40 Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00QKQ8G90/?tag=tolees-21'
+descuento: '41.85'
+titulo: 'Ar K1Pp040B4Bb01 - Kit 5 Estant.Bricol 4'
 ---
 
 Ahora mismo tienes [Ar K1Pp040B4Bb01 - Kit 5 Estant.Bricol 40 180X90X40 Blanco](https://www.amazon.es/dp/B00QKQ8G90/?tag=tolees-21) a 34.95 EUR (original: 60.1 EUR) (41.85 %  de descuento) en el siguiente enlace!

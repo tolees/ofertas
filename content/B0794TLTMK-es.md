@@ -17,6 +17,9 @@ comparePrice: 76 EUR
 inStock: true
 prodname: 'Nike Air Jordan 1 Low GS  Zapatillas Unisex Niños  Negro  Black/White/Black 006   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0794TLTMK/?tag=tolees-21'
+descuento: '50.13'
+titulo: 'Nike Air Jordan 1 Low GS  Zapatillas Uni'
 ---
 
 Ahora mismo tienes [Nike Air Jordan 1 Low GS  Zapatillas Unisex Niños  Negro  Black/White/Black 006   38.5 EU](https://www.amazon.es/dp/B0794TLTMK/?tag=tolees-21) a 37.9 EUR (original: 76 EUR) (50.13 %  de descuento) en el siguiente enlace!

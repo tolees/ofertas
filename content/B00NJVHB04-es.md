@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko Pop!- Bobble: Marvel: X-Men: Magneto  4469 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NJVHB04/?tag=tolees-21'
+descuento: '46.63'
+titulo: 'Funko Pop!- Bobble: Marvel: X-Men: Magne'
 ---
 
 Está [Funko Pop!- Bobble: Marvel: X-Men: Magneto  4469 ](https://www.amazon.es/dp/B00NJVHB04/?tag=tolees-21) con 46.63 de descuento por 8 EUR (original: 14.99 EUR) en el siguiente enlace!

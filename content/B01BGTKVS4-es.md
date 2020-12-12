@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 5620 3D Super Slim  Vaqueros para Hombre  Gris  Dark Aged Cobler   W31/L38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BGTKVS4/?tag=tolees-21'
+descuento: '40.69'
+titulo: 'G-STAR RAW 5620 3D Super Slim  Vaqueros '
 ---
 
 Ahora mismo tienes [G-STAR RAW 5620 3D Super Slim  Vaqueros para Hombre  Gris  Dark Aged Cobler   W31/L38](https://www.amazon.es/dp/B01BGTKVS4/?tag=tolees-21) a 83 EUR (original: 139.95 EUR) (40.69 %  de descuento) en el siguiente enlace!

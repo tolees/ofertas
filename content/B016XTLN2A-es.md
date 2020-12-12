@@ -17,6 +17,9 @@ comparePrice: 83.87 EUR
 inStock: true
 prodname: 'Razer Mercenary - Mochila'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016XTLN2A/?tag=tolees-21'
+descuento: '40.44'
+titulo: 'Razer Mercenary - Mochila'
 ---
 
 Tienes [Razer Mercenary - Mochila](https://www.amazon.es/dp/B016XTLN2A/?tag=tolees-21) con un 40.44 % de descuento con precio de oferta de 49.95 EUR (original: 83.87 EUR) en el siguiente enlace!

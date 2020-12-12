@@ -17,6 +17,9 @@ comparePrice: 19 EUR
 inStock: true
 prodname: 'Renberg Utensilios de Cocina  Nailon  Negro  35 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTQZ3WG/?tag=tolees-21'
+descuento: '43.05'
+titulo: 'Renberg Utensilios de Cocina  Nailon  Ne'
 ---
 
 Está [Renberg Utensilios de Cocina  Nailon  Negro  35 cm](https://www.amazon.es/dp/B01MTQZ3WG/?tag=tolees-21) con 43.05 de descuento por 10.82 EUR (original: 19 EUR) en el siguiente enlace!

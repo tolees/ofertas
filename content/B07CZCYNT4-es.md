@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Under Armour Armour Mid Crossback Bra Sujetador Deportivo  Mujer  Rosa Purple Ace/Mojo Pink 641  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZCYNT4/?tag=tolees-21'
+descuento: '46.76'
+titulo: 'Under Armour Armour Mid Crossback Bra Su'
 ---
 
 Ahora mismo tienes [Under Armour Armour Mid Crossback Bra Sujetador Deportivo  Mujer  Rosa Purple Ace/Mojo Pink 641  L](https://www.amazon.es/dp/B07CZCYNT4/?tag=tolees-21) a 18.63 EUR (original: 34.99 EUR) (46.76 %  de descuento) en el siguiente enlace!

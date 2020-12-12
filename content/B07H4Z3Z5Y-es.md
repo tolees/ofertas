@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Desigual - Bag Landscape Nimbus Capri Max Women  Shoppers y bolsos de hombro Mujer  Azul  Azul Marea   13x28x30 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H4Z3Z5Y/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Desigual - Bag Landscape Nimbus Capri Ma'
 ---
 
 Está [Desigual - Bag Landscape Nimbus Capri Max Women  Shoppers y bolsos de hombro Mujer  Azul  Azul Marea   13x28x30 cm  B x H T ](https://www.amazon.es/dp/B07H4Z3Z5Y/?tag=tolees-21) con 50.03 de descuento por 39.95 EUR (original: 79.95 EUR) en el siguiente enlace!

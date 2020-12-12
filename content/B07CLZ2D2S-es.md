@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: '90LEDs 1000 Lúmenes Focos Solares con Sensor de Movimiento  Impermeable  Gran Ángulo 120°  Proporcionar hasta 12 HORAS Con 3 Modos Rango de Sensor 8-10m [Clase de eficiencia energética A++]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CLZ2D2S/?tag=tolees-21'
+descuento: '73.35'
+titulo: '90LEDs 1000 Lúmenes Focos Solares con Se'
 ---
 
 Ahora mismo tienes [90LEDs 1000 Lúmenes Focos Solares con Sensor de Movimiento  Impermeable  Gran Ángulo 120°  Proporcionar hasta 12 HORAS Con 3 Modos Rango de Sensor 8-10m [Clase de eficiencia energética A++]](https://www.amazon.es/dp/B07CLZ2D2S/?tag=tolees-21) a 15.99 EUR (original: 59.99 EUR) (73.35 %  de descuento) en el siguiente enlace!

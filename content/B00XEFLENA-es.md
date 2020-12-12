@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Hyperkin - Consola Retron 3  Color Azul + 2 Mandos Wireless  SNES/NES/Genesis '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XEFLENA/?tag=tolees-21'
+descuento: '40.37'
+titulo: 'Hyperkin - Consola Retron 3  Color Azul '
 ---
 
 Tienes [Hyperkin - Consola Retron 3  Color Azul + 2 Mandos Wireless  SNES/NES/Genesis ](https://www.amazon.es/dp/B00XEFLENA/?tag=tolees-21) con un 40.37 % de descuento con precio de oferta de 53.66 EUR (original: 89.99 EUR) en el siguiente enlace!

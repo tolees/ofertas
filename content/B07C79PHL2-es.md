@@ -17,6 +17,9 @@ comparePrice: 48.99 EUR
 inStock: true
 prodname: 'Cecotec ForceSilence 1010 ExtremeFlow Ventilador de pie  40 cm/16"  10 aspas  60W  AC  3 velocidades  Temporizador 2h  Regulable  Motor de Cobre  Color Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C79PHL2/?tag=tolees-21'
+descuento: '28.58'
+titulo: 'Cecotec ForceSilence 1010 ExtremeFlow Ve'
 ---
 
 Está [Cecotec ForceSilence 1010 ExtremeFlow Ventilador de pie  40 cm/16"  10 aspas  60W  AC  3 velocidades  Temporizador 2h  Regulable  Motor de Cobre  Color Blanco](https://www.amazon.es/dp/B07C79PHL2/?tag=tolees-21) con 28.58 de descuento por 34.99 EUR (original: 48.99 EUR) en el siguiente enlace!

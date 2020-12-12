@@ -17,6 +17,9 @@ comparePrice: 13.63 EUR
 inStock: true
 prodname: 'Axe Black - Set de 6 geles de ducha  6 x 250 ml '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PAWJMOI/?tag=tolees-21'
+descuento: '42.19'
+titulo: 'Axe Black - Set de 6 geles de ducha  6 x'
 ---
 
 Tienes [Axe Black - Set de 6 geles de ducha  6 x 250 ml ](https://www.amazon.es/dp/B00PAWJMOI/?tag=tolees-21) con un 42.19 % de descuento con precio de oferta de 7.88 EUR (original: 13.63 EUR) en el siguiente enlace!

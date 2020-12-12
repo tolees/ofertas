@@ -17,6 +17,9 @@ comparePrice: 139.9 EUR
 inStock: true
 prodname: 'Geox D New Lucinda A  Botines para Mujer   Black C9999   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792GXBS5/?tag=tolees-21'
+descuento: '49.96'
+titulo: 'Geox D New Lucinda A  Botines para Mujer'
 ---
 
 Ahora mismo tienes [Geox D New Lucinda A  Botines para Mujer   Black C9999   38 EU](https://www.amazon.es/dp/B0792GXBS5/?tag=tolees-21) a 70 EUR (original: 139.9 EUR) (49.96 %  de descuento) en el siguiente enlace!

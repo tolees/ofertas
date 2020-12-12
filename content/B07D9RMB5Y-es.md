@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Adidas RUN70S  Zapatillas de Running para Hombre  Gris Three F17/Ftwr White One F17 Grey  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9RMB5Y/?tag=tolees-21'
+descuento: '55.81'
+titulo: 'Adidas RUN70S  Zapatillas de Running par'
 ---
 
 Tienes [Adidas RUN70S  Zapatillas de Running para Hombre  Gris Three F17/Ftwr White One F17 Grey  45 EU](https://www.amazon.es/dp/B07D9RMB5Y/?tag=tolees-21) con un 55.81 % de descuento con precio de oferta de 30.91 EUR (original: 69.95 EUR) en el siguiente enlace!

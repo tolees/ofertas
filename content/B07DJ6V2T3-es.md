@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance X-90  Zapatillas para Mujer  Blanco  Nimbus Cloud/Team Away Grey PB   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ6V2T3/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'New Balance X-90  Zapatillas para Mujer '
 ---
 
 Tienes [New Balance X-90  Zapatillas para Mujer  Blanco  Nimbus Cloud/Team Away Grey PB   44 EU](https://www.amazon.es/dp/B07DJ6V2T3/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 55 EUR (original: 110 EUR) en el siguiente enlace!

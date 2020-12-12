@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'BaronHong Sport Bra Chest Binder Transpirable Malla Corset para Tomboy Trans Lesbianas  Negro  XXXL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y6JFWYJ/?tag=tolees-21'
+descuento: '57.51'
+titulo: 'BaronHong Sport Bra Chest Binder Transpi'
 ---
 
 Tienes [BaronHong Sport Bra Chest Binder Transpirable Malla Corset para Tomboy Trans Lesbianas  Negro  XXXL ](https://www.amazon.es/dp/B06Y6JFWYJ/?tag=tolees-21) con un 57.51 % de descuento con precio de oferta de 16.99 EUR (original: 39.99 EUR) en el siguiente enlace!

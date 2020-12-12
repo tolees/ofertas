@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Reebok Fithex Tr  Zapatillas de Deporte para Mujer  Negro  Black / White   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RM6LSN/?tag=tolees-21'
+descuento: '42.38'
+titulo: 'Reebok Fithex Tr  Zapatillas de Deporte '
 ---
 
 Está [Reebok Fithex Tr  Zapatillas de Deporte para Mujer  Negro  Black / White   40 EU](https://www.amazon.es/dp/B073RM6LSN/?tag=tolees-21) con 42.38 de descuento por 28.78 EUR (original: 49.95 EUR) en el siguiente enlace!

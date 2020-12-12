@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Police Sonnenbrille SPL160M Gafas de Sol  Marrón  Braun   51.0 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y2JND8L/?tag=tolees-21'
+descuento: '45.86'
+titulo: 'Police Sonnenbrille SPL160M Gafas de Sol'
 ---
 
 Está [Police Sonnenbrille SPL160M Gafas de Sol  Marrón  Braun   51.0 para Hombre](https://www.amazon.es/dp/B06Y2JND8L/?tag=tolees-21) con 45.86 de descuento por 75.8 EUR (original: 140 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel Blusa  Beige  Crudo 96   L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WTB57G/?tag=tolees-21'
+descuento: '70.55'
+titulo: 'Cortefiel Blusa  Beige  Crudo 96   L par'
 ---
 
 Tienes [Cortefiel Blusa  Beige  Crudo 96   L para Mujer](https://www.amazon.es/dp/B078WTB57G/?tag=tolees-21) con un 70.55 % de descuento con precio de oferta de 14.72 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jfwolly Nubuck Anthracite Noos  Zapatillas para Hombre  Gris  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CV6PQDN/?tag=tolees-21'
+descuento: '66.36'
+titulo: 'JACK & JONES Jfwolly Nubuck Anthracite N'
 ---
 
 Está [JACK & JONES Jfwolly Nubuck Anthracite Noos  Zapatillas para Hombre  Gris  41 EU](https://www.amazon.es/dp/B07CV6PQDN/?tag=tolees-21) con 66.36 de descuento por 20.18 EUR (original: 59.99 EUR) en el siguiente enlace!

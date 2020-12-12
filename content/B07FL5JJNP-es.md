@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Superdry Falster Fairisle Crew Suéter  Gris  Dark Charcoal 6q4   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FL5JJNP/?tag=tolees-21'
+descuento: '74.33'
+titulo: 'Superdry Falster Fairisle Crew Suéter  G'
 ---
 
 Tienes [Superdry Falster Fairisle Crew Suéter  Gris  Dark Charcoal 6q4   X-Large para Hombre](https://www.amazon.es/dp/B07FL5JJNP/?tag=tolees-21) con un 74.33 % de descuento con precio de oferta de 25.64 EUR (original: 99.9 EUR) en el siguiente enlace!

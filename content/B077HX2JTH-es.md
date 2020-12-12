@@ -17,6 +17,9 @@ comparePrice: 33 EUR
 inStock: true
 prodname: 'Under Armour UA Raid 8 Short Pantalón Corto  Hombre  Azul  Royal/Steel 400   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HX2JTH/?tag=tolees-21'
+descuento: '44.30'
+titulo: 'Under Armour UA Raid 8 Short Pantalón Co'
 ---
 
 Está [Under Armour UA Raid 8 Short Pantalón Corto  Hombre  Azul  Royal/Steel 400   S](https://www.amazon.es/dp/B077HX2JTH/?tag=tolees-21) con 44.30 de descuento por 18.38 EUR (original: 33 EUR) en el siguiente enlace!

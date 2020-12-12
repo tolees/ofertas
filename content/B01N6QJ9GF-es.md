@@ -17,6 +17,9 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Dolores Promesas PV17 2047 Pantalones  Mujer  Verde  40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6QJ9GF/?tag=tolees-21'
+descuento: '48.90'
+titulo: 'Dolores Promesas PV17 2047 Pantalones  M'
 ---
 
 Está [Dolores Promesas PV17 2047 Pantalones  Mujer  Verde  40](https://www.amazon.es/dp/B01N6QJ9GF/?tag=tolees-21) con 48.90 de descuento por 61.27 EUR (original: 119.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 116 EUR
 inStock: true
 prodname: 'Saucony Shadow Original Ripstop  Zapatillas de Running para Hombre  Carbón/Gris Oscuro  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005BDUCJ0/?tag=tolees-21'
+descuento: '51.32'
+titulo: 'Saucony Shadow Original Ripstop  Zapatil'
 ---
 
 Ahora mismo tienes [Saucony Shadow Original Ripstop  Zapatillas de Running para Hombre  Carbón/Gris Oscuro  44.5 EU](https://www.amazon.es/dp/B005BDUCJ0/?tag=tolees-21) a 56.47 EUR (original: 116 EUR) (51.32 %  de descuento) en el siguiente enlace!

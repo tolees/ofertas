@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour Micro G Pursuit Se  Zapatillas de Running para Hombre  Azul  Academy White 401   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTN7WTN/?tag=tolees-21'
+descuento: '54.21'
+titulo: 'Under Armour Micro G Pursuit Se  Zapatil'
 ---
 
 Ahora mismo tienes [Under Armour Micro G Pursuit Se  Zapatillas de Running para Hombre  Azul  Academy White 401   41 EU](https://www.amazon.es/dp/B07CTN7WTN/?tag=tolees-21) a 32.05 EUR (original: 70 EUR) (54.21 %  de descuento) en el siguiente enlace!

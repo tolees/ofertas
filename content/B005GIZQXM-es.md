@@ -17,6 +17,9 @@ comparePrice: 14.5 EUR
 inStock: true
 prodname: 'NGS MSX6 Pro - Auriculares de diadema cerrados  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005GIZQXM/?tag=tolees-21'
+descuento: '38.62'
+titulo: 'NGS MSX6 Pro - Auriculares de diadema ce'
 ---
 
 Ahora mismo tienes [NGS MSX6 Pro - Auriculares de diadema cerrados  color blanco](https://www.amazon.es/dp/B005GIZQXM/?tag=tolees-21) a 8.9 EUR (original: 14.5 EUR) (38.62 %  de descuento) en el siguiente enlace!

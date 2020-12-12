@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'EasyToys Vibe Collection ET265PNK Pink Charm - 284 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BVDD2U4/?tag=tolees-21'
+descuento: '39.86'
+titulo: 'EasyToys Vibe Collection ET265PNK Pink C'
 ---
 
 Está [EasyToys Vibe Collection ET265PNK Pink Charm - 284 gr](https://www.amazon.es/dp/B01BVDD2U4/?tag=tolees-21) con 39.86 de descuento por 21.02 EUR (original: 34.95 EUR) en el siguiente enlace!

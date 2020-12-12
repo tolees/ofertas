@@ -17,6 +17,9 @@ comparePrice: 33.95 EUR
 inStock: true
 prodname: 'ThunderX3 TM30- Ratón gaming profesional- Sensor óptico AVAGO 3310  Retroiluminación LED  Switch Omron mecánico  Personalización absoluta  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GEOM5R6/?tag=tolees-21'
+descuento: '71.87'
+titulo: 'ThunderX3 TM30- Ratón gaming profesional'
 ---
 
 Tienes [ThunderX3 TM30- Ratón gaming profesional- Sensor óptico AVAGO 3310  Retroiluminación LED  Switch Omron mecánico  Personalización absoluta  Color Negro](https://www.amazon.es/dp/B01GEOM5R6/?tag=tolees-21) con un 71.87 % de descuento con precio de oferta de 9.55 EUR (original: 33.95 EUR) en el siguiente enlace!

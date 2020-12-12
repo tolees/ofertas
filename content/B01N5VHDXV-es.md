@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Smash! Yancy  Vestido Casual para Mujer  Morado  Violeta  46  Tamaño del Fabricante:XXL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5VHDXV/?tag=tolees-21'
+descuento: '80.82'
+titulo: 'Smash! Yancy  Vestido Casual para Mujer '
 ---
 
 Tienes [Smash! Yancy  Vestido Casual para Mujer  Morado  Violeta  46  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B01N5VHDXV/?tag=tolees-21) con un 80.82 % de descuento con precio de oferta de 11.5 EUR (original: 59.95 EUR) en el siguiente enlace!

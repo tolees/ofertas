@@ -17,6 +17,9 @@ comparePrice: 92.77 EUR
 inStock: true
 prodname: 'Asics Onitsuka Tiger California 78 Ex  Zapatillas Unisex Adulto  Blanco  Cream/Directoire Blue 100   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZGQ7S7/?tag=tolees-21'
+descuento: '61.25'
+titulo: 'Asics Onitsuka Tiger California 78 Ex  Z'
 ---
 
 Tienes [Asics Onitsuka Tiger California 78 Ex  Zapatillas Unisex Adulto  Blanco  Cream/Directoire Blue 100   39 EU](https://www.amazon.es/dp/B07CZGQ7S7/?tag=tolees-21) con un 61.25 % de descuento con precio de oferta de 35.95 EUR (original: 92.77 EUR) en el siguiente enlace!

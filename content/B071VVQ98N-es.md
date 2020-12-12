@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'The North Face W Back-To-Berk Redux  Botas para Mujer  Multicolor  Tnf Black/vintage White   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VVQ98N/?tag=tolees-21'
+descuento: '41.90'
+titulo: 'The North Face W Back-To-Berk Redux  Bot'
 ---
 
 Está [The North Face W Back-To-Berk Redux  Botas para Mujer  Multicolor  Tnf Black/vintage White   36.5 EU](https://www.amazon.es/dp/B071VVQ98N/?tag=tolees-21) con 41.90 de descuento por 81.34 EUR (original: 140 EUR) en el siguiente enlace!

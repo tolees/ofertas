@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Rebel Block FL cl Pants  Hombre  Cotton Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFRV1XT/?tag=tolees-21'
+descuento: '43.56'
+titulo: 'Puma Rebel Block FL cl Pants  Hombre  Co'
 ---
 
 Ahora mismo tienes [Puma Rebel Block FL cl Pants  Hombre  Cotton Black  L](https://www.amazon.es/dp/B07DFRV1XT/?tag=tolees-21) a 28.19 EUR (original: 49.95 EUR) (43.56 %  de descuento) en el siguiente enlace!

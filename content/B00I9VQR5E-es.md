@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'PRINCE Antivibrador Logo P Damp  Jar 50  Varios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I9VQR5E/?tag=tolees-21'
+descuento: '94.55'
+titulo: 'PRINCE Antivibrador Logo P Damp  Jar 50 '
 ---
 
 Ahora mismo tienes [PRINCE Antivibrador Logo P Damp  Jar 50  Varios](https://www.amazon.es/dp/B00I9VQR5E/?tag=tolees-21) a 5.45 EUR (original: 100 EUR) (94.55 %  de descuento) en el siguiente enlace!

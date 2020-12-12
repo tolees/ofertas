@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Postquam - Criogel | Gel Efecto Frio para Triple Uso - Anticelulitico  Reafirmante y Relajante de piernas - 1000 Ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BJHEYKU/?tag=tolees-21'
+descuento: '73.07'
+titulo: 'Postquam - Criogel | Gel Efecto Frio par'
 ---
 
 Tienes [Postquam - Criogel | Gel Efecto Frio para Triple Uso - Anticelulitico  Reafirmante y Relajante de piernas - 1000 Ml](https://www.amazon.es/dp/B00BJHEYKU/?tag=tolees-21) con un 73.07 % de descuento con precio de oferta de 26.9 EUR (original: 99.9 EUR) en el siguiente enlace!

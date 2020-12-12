@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Scuba III  Zapatillas para Hombre  Verde  Smoke Green 2688   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07846VYBR/?tag=tolees-21'
+descuento: '70.04'
+titulo: 'G-STAR RAW Scuba III  Zapatillas para Ho'
 ---
 
 Está [G-STAR RAW Scuba III  Zapatillas para Hombre  Verde  Smoke Green 2688   42 EU](https://www.amazon.es/dp/B07846VYBR/?tag=tolees-21) con 70.04 de descuento por 29.95 EUR (original: 99.95 EUR) en el siguiente enlace!

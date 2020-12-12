@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Marrón Burnt Henna  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYR2K8T/?tag=tolees-21'
+descuento: '30.04'
+titulo: 'Merrell Trail Glove 5  Zapatillas Deport'
 ---
 
 Ahora mismo tienes [Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Marrón Burnt Henna  42 EU](https://www.amazon.es/dp/B07DYR2K8T/?tag=tolees-21) a 83.95 EUR (original: 120 EUR) (30.04 %  de descuento) en el siguiente enlace!

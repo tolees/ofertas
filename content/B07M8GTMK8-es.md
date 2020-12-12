@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'The North Face 100 Glacier Full Zip Chaqueta  Mujer  Juicy Red Stripe  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8GTMK8/?tag=tolees-21'
+descuento: '61.73'
+titulo: 'The North Face 100 Glacier Full Zip Chaq'
 ---
 
 Ahora mismo tienes [The North Face 100 Glacier Full Zip Chaqueta  Mujer  Juicy Red Stripe  S](https://www.amazon.es/dp/B07M8GTMK8/?tag=tolees-21) a 28.7 EUR (original: 75 EUR) (61.73 %  de descuento) en el siguiente enlace!

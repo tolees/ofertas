@@ -17,6 +17,9 @@ comparePrice: 29.48 EUR
 inStock: true
 prodname: 'Burberry  Perfume sólido - 150 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HSR0V6Q/?tag=tolees-21'
+descuento: '54.21'
+titulo: 'Burberry  Perfume sólido - 150 ml.'
 ---
 
 Tienes [Burberry  Perfume sólido - 150 ml.](https://www.amazon.es/dp/B00HSR0V6Q/?tag=tolees-21) con un 54.21 % de descuento con precio de oferta de 13.5 EUR (original: 29.48 EUR) en el siguiente enlace!

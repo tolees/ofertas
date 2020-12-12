@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Top Back Brace para mujeres y hombres ortopédico Slouching  corrector de postura Full Lumbar cinturón para el cuello  mejorar mala postura Thoracic Kyphosis  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MCBWMY3/?tag=tolees-21'
+descuento: '42.05'
+titulo: 'Top Back Brace para mujeres y hombres or'
 ---
 
 Está [Top Back Brace para mujeres y hombres ortopédico Slouching  corrector de postura Full Lumbar cinturón para el cuello  mejorar mala postura Thoracic Kyphosis  negro](https://www.amazon.es/dp/B07MCBWMY3/?tag=tolees-21) con 42.05 de descuento por 26.65 EUR (original: 45.99 EUR) en el siguiente enlace!

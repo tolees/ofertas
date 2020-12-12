@@ -17,6 +17,9 @@ comparePrice: 175 EUR
 inStock: true
 prodname: 'Sebago FGL  Botas Chelsea para Hombre  Marrón  Brun Foncé 901   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F4BDF48/?tag=tolees-21'
+descuento: '53.99'
+titulo: 'Sebago FGL  Botas Chelsea para Hombre  M'
 ---
 
 Ahora mismo tienes [Sebago FGL  Botas Chelsea para Hombre  Marrón  Brun Foncé 901   44.5 EU](https://www.amazon.es/dp/B07F4BDF48/?tag=tolees-21) a 80.51 EUR (original: 175 EUR) (53.99 %  de descuento) en el siguiente enlace!

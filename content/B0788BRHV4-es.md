@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Converse Lifestyle Star Player Ox Suede  Zapatillas de Deporte Unisex Niño  Negro  Black/Cool Grey/White 001   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0788BRHV4/?tag=tolees-21'
+descuento: '66.27'
+titulo: 'Converse Lifestyle Star Player Ox Suede '
 ---
 
 Tienes [Converse Lifestyle Star Player Ox Suede  Zapatillas de Deporte Unisex Niño  Negro  Black/Cool Grey/White 001   36.5 EU](https://www.amazon.es/dp/B0788BRHV4/?tag=tolees-21) con un 66.27 % de descuento con precio de oferta de 25.3 EUR (original: 75 EUR) en el siguiente enlace!

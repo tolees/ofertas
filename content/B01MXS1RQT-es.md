@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Adidas Vs Pace  Zapatillas para Hombre  Negro  Core Black/Footwear White/Scarlet 0   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXS1RQT/?tag=tolees-21'
+descuento: '27.03'
+titulo: 'Adidas Vs Pace  Zapatillas para Hombre  '
 ---
 
 Ahora mismo tienes [Adidas Vs Pace  Zapatillas para Hombre  Negro  Core Black/Footwear White/Scarlet 0   44 EU](https://www.amazon.es/dp/B01MXS1RQT/?tag=tolees-21) a 36.45 EUR (original: 49.95 EUR) (27.03 %  de descuento) en el siguiente enlace!

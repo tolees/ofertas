@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmbrilliant LS V-Neck Blouse Noos suéter  Negro  Black Detail: Melange   38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ4G4JJ/?tag=tolees-21'
+descuento: '67.39'
+titulo: 'Vero Moda Vmbrilliant LS V-Neck Blouse N'
 ---
 
 Tienes [Vero Moda Vmbrilliant LS V-Neck Blouse Noos suéter  Negro  Black Detail: Melange   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07DJ4G4JJ/?tag=tolees-21) con un 67.39 % de descuento con precio de oferta de 9.78 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma Turin II  Zapatillas de Deporte Unisex Adults’o  Blanco White  46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZFZS9T/?tag=tolees-21'
+descuento: '57.58'
+titulo: 'Puma Turin II  Zapatillas de Deporte Uni'
 ---
 
 Está [Puma Turin II  Zapatillas de Deporte Unisex Adults’o  Blanco White  46 EU](https://www.amazon.es/dp/B07CZFZS9T/?tag=tolees-21) con 57.58 de descuento por 23.31 EUR (original: 54.95 EUR) en el siguiente enlace!

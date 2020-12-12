@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'GU5.3/MR16 Bombilla Wifi Inteligente  Avatar Controls Inalambrica Dimmable 5w RGB LED Lámpara Control Remoto Compatible con Amazon Alexa / Google Assistant / IFTTT  2 paquetes '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZX5T84/?tag=tolees-21'
+descuento: '47.84'
+titulo: 'GU5.3/MR16 Bombilla Wifi Inteligente  Av'
 ---
 
 Tienes [GU5.3/MR16 Bombilla Wifi Inteligente  Avatar Controls Inalambrica Dimmable 5w RGB LED Lámpara Control Remoto Compatible con Amazon Alexa / Google Assistant / IFTTT  2 paquetes ](https://www.amazon.es/dp/B07CZX5T84/?tag=tolees-21) con un 47.84 % de descuento con precio de oferta de 23.99 EUR (original: 45.99 EUR) en el siguiente enlace!

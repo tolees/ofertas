@@ -17,6 +17,9 @@ comparePrice: 13.45 EUR
 inStock: true
 prodname: 'Gillette Mach3 Turbo - Cuchillas de Recambio Para Maquinilla de Afeitar - 4 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LNQB1XY/?tag=tolees-21'
+descuento: '27.36'
+titulo: 'Gillette Mach3 Turbo - Cuchillas de Reca'
 ---
 
 Ahora mismo tienes [Gillette Mach3 Turbo - Cuchillas de Recambio Para Maquinilla de Afeitar - 4 Unidades](https://www.amazon.es/dp/B01LNQB1XY/?tag=tolees-21) a 9.77 EUR (original: 13.45 EUR) (27.36 %  de descuento) en el siguiente enlace!

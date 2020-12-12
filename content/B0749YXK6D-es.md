@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Camper Pursuit  Zapatillas para Niña  Rosa  Medium Pink 660   34 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0749YXK6D/?tag=tolees-21'
+descuento: '63.56'
+titulo: 'Camper Pursuit  Zapatillas para Niña  Ro'
 ---
 
 Ahora mismo tienes [Camper Pursuit  Zapatillas para Niña  Rosa  Medium Pink 660   34 EU](https://www.amazon.es/dp/B0749YXK6D/?tag=tolees-21) a 21.5 EUR (original: 59 EUR) (63.56 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 241.99 EUR
 inStock: true
 prodname: 'Philips Optimal Temp GC8650/80 - Centro de Planchado de 6.2 bares  Autonomia Ilimitada  Golpe de Vapor 330 g  Suela Tionic Glide  Planchado Sin Ajustes de Temperatura  Calentamiento Rapido y Autoapagado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JFQVFHM/?tag=tolees-21'
+descuento: '42.56'
+titulo: 'Philips Optimal Temp GC8650/80 - Centro '
 ---
 
 Tienes [Philips Optimal Temp GC8650/80 - Centro de Planchado de 6.2 bares  Autonomia Ilimitada  Golpe de Vapor 330 g  Suela Tionic Glide  Planchado Sin Ajustes de Temperatura  Calentamiento Rapido y Autoapagado](https://www.amazon.es/dp/B00JFQVFHM/?tag=tolees-21) con un 42.56 % de descuento con precio de oferta de 139 EUR (original: 241.99 EUR) en el siguiente enlace!

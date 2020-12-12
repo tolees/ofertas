@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorknox Shirt LS Camisa   Rosette Fit:Slim   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L1DG3HD/?tag=tolees-21'
+descuento: '75.94'
+titulo: 'JACK & JONES Jorknox Shirt LS Camisa   R'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorknox Shirt LS Camisa   Rosette Fit:Slim   Medium para Hombre](https://www.amazon.es/dp/B07L1DG3HD/?tag=tolees-21) a 9.62 EUR (original: 39.99 EUR) (75.94 %  de descuento) en el siguiente enlace!

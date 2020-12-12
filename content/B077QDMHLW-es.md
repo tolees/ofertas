@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance W420V4  Zapatillas de Running para Mujer  Rosa  Pink/Black   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077QDMHLW/?tag=tolees-21'
+descuento: '64.36'
+titulo: 'New Balance W420V4  Zapatillas de Runnin'
 ---
 
 Ahora mismo tienes [New Balance W420V4  Zapatillas de Running para Mujer  Rosa  Pink/Black   36.5 EU](https://www.amazon.es/dp/B077QDMHLW/?tag=tolees-21) a 24.95 EUR (original: 70 EUR) (64.36 %  de descuento) en el siguiente enlace!

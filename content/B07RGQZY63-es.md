@@ -17,6 +17,9 @@ comparePrice: 31.92 EUR
 inStock: true
 prodname: 'Pato - Active Clean colgador para inodoro  frescor intenso  perfuma y desinfecta  aroma Lima  1 ud. [Pack de 8]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RGQZY63/?tag=tolees-21'
+descuento: '59.43'
+titulo: 'Pato - Active Clean colgador para inodor'
 ---
 
 Está [Pato - Active Clean colgador para inodoro  frescor intenso  perfuma y desinfecta  aroma Lima  1 ud. [Pack de 8]](https://www.amazon.es/dp/B07RGQZY63/?tag=tolees-21) con 59.43 de descuento por 12.95 EUR (original: 31.92 EUR) en el siguiente enlace!

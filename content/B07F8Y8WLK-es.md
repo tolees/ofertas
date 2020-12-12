@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcoearth Parka  Hombre  Gris  Light Grey Melange  XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8Y8WLK/?tag=tolees-21'
+descuento: '52.62'
+titulo: 'JACK & JONES Jcoearth Parka  Hombre  Gri'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcoearth Parka  Hombre  Gris  Light Grey Melange  XX-Large](https://www.amazon.es/dp/B07F8Y8WLK/?tag=tolees-21) a 37.9 EUR (original: 79.99 EUR) (52.62 %  de descuento) en el siguiente enlace!

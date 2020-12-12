@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Litthing Cortina de baño Impermeable  a Prueba de Polvo y fácil de Limpiar con Gancho  Hoja de Arce '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQHWFX8/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Litthing Cortina de baño Impermeable  a '
 ---
 
 Tienes [Litthing Cortina de baño Impermeable  a Prueba de Polvo y fácil de Limpiar con Gancho  Hoja de Arce ](https://www.amazon.es/dp/B07FQHWFX8/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 58.39 EUR
 inStock: true
 prodname: 'Timex Reloj de Pulsera TW5M27000'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3CQK89/?tag=tolees-21'
+descuento: '46.28'
+titulo: 'Timex Reloj de Pulsera TW5M27000'
 ---
 
 Tienes [Timex Reloj de Pulsera TW5M27000](https://www.amazon.es/dp/B07N3CQK89/?tag=tolees-21) con un 46.28 % de descuento con precio de oferta de 31.37 EUR (original: 58.39 EUR) en el siguiente enlace!

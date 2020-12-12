@@ -17,6 +17,9 @@ comparePrice: 57.25 EUR
 inStock: true
 prodname: 'arena Spiky 2 Large Mochila  Unisex Adulto  Azul  Royal/Team   36x24x45 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01INPXWDA/?tag=tolees-21'
+descuento: '32.47'
+titulo: 'arena Spiky 2 Large Mochila  Unisex Adul'
 ---
 
 Está [arena Spiky 2 Large Mochila  Unisex Adulto  Azul  Royal/Team   36x24x45 cm  W x H x L ](https://www.amazon.es/dp/B01INPXWDA/?tag=tolees-21) con 32.47 de descuento por 38.66 EUR (original: 57.25 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'CRZ YOGA Mujer Naked Feeling Leggings Deportivas Cintura Alta Yoga Fitness Pantalones Con Bolsillo Violeta Claro New2 XL 44 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PHW918T/?tag=tolees-21'
+descuento: '58.46'
+titulo: 'CRZ YOGA Mujer Naked Feeling Leggings De'
 ---
 
 Está [CRZ YOGA Mujer Naked Feeling Leggings Deportivas Cintura Alta Yoga Fitness Pantalones Con Bolsillo Violeta Claro New2 XL 44 ](https://www.amazon.es/dp/B07PHW918T/?tag=tolees-21) con 58.46 de descuento por 27 EUR (original: 65 EUR) en el siguiente enlace!

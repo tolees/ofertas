@@ -17,6 +17,9 @@ comparePrice: 8.6 EUR
 inStock: true
 prodname: 'Joma Combi Camiseta  Hombre  Naranja  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00L36TS6M/?tag=tolees-21'
+descuento: '30.81'
+titulo: 'Joma Combi Camiseta  Hombre  Naranja  XL'
 ---
 
 Tienes [Joma Combi Camiseta  Hombre  Naranja  XL](https://www.amazon.es/dp/B00L36TS6M/?tag=tolees-21) con un 30.81 % de descuento con precio de oferta de 5.95 EUR (original: 8.6 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas RUN70S  Zapatillas de Deporte para Hombre   Gritre/Ftwbla/Griuno 000   42 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9SK5JH/?tag=tolees-21'
+descuento: '55.50'
+titulo: 'adidas RUN70S  Zapatillas de Deporte par'
 ---
 
 Tienes [adidas RUN70S  Zapatillas de Deporte para Hombre   Gritre/Ftwbla/Griuno 000   42 2/3 EU](https://www.amazon.es/dp/B07D9SK5JH/?tag=tolees-21) con un 55.50 % de descuento con precio de oferta de 31.13 EUR (original: 69.95 EUR) en el siguiente enlace!

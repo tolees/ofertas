@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Under Armour HG Armour Graphic Legging Leggings  Mujer  Gris  Pitch Gray Light Heather/Black 012   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZCTWKY/?tag=tolees-21'
+descuento: '45.81'
+titulo: 'Under Armour HG Armour Graphic Legging L'
 ---
 
 Está [Under Armour HG Armour Graphic Legging Leggings  Mujer  Gris  Pitch Gray Light Heather/Black 012   M](https://www.amazon.es/dp/B07CZCTWKY/?tag=tolees-21) con 45.81 de descuento por 29.8 EUR (original: 54.99 EUR) en el siguiente enlace!

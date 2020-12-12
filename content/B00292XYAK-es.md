@@ -17,6 +17,9 @@ comparePrice: 386.94 EUR
 inStock: true
 prodname: 'APC - AP9630 - Tarjeta de administración de redes de SAI 2  Gestión de Red'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00292XYAK/?tag=tolees-21'
+descuento: '57.76'
+titulo: 'APC - AP9630 - Tarjeta de administración'
 ---
 
 Está [APC - AP9630 - Tarjeta de administración de redes de SAI 2  Gestión de Red](https://www.amazon.es/dp/B00292XYAK/?tag=tolees-21) con 57.76 de descuento por 163.46 EUR (original: 386.94 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Burton 2018 Neceser de Viaje  24 cm  1 litro  Verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K83KDL3/?tag=tolees-21'
+descuento: '52.91'
+titulo: 'Burton 2018 Neceser de Viaje  24 cm  1 l'
 ---
 
 Tienes [Burton 2018 Neceser de Viaje  24 cm  1 litro  Verde](https://www.amazon.es/dp/B07K83KDL3/?tag=tolees-21) con un 52.91 % de descuento con precio de oferta de 10.36 EUR (original: 22 EUR) en el siguiente enlace!

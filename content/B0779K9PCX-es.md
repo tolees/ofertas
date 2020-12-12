@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Pepe Jeans Cash Short PM800074  Bañador para Hombre  Azul  Lt Used Mb4  36 W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0779K9PCX/?tag=tolees-21'
+descuento: '40.87'
+titulo: 'Pepe Jeans Cash Short PM800074  Bañador '
 ---
 
 Ahora mismo tienes [Pepe Jeans Cash Short PM800074  Bañador para Hombre  Azul  Lt Used Mb4  36 W](https://www.amazon.es/dp/B0779K9PCX/?tag=tolees-21) a 35.45 EUR (original: 59.95 EUR) (40.87 %  de descuento) en el siguiente enlace!

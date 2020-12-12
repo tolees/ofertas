@@ -17,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'Volcom Hernan Chaqueta  Hombre  Verde  Military   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072S1B8KD/?tag=tolees-21'
+descuento: '55.96'
+titulo: 'Volcom Hernan Chaqueta  Hombre  Verde  M'
 ---
 
 Tienes [Volcom Hernan Chaqueta  Hombre  Verde  Military   M](https://www.amazon.es/dp/B072S1B8KD/?tag=tolees-21) con un 55.96 % de descuento con precio de oferta de 59.45 EUR (original: 135 EUR) en el siguiente enlace!

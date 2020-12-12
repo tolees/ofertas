@@ -17,6 +17,9 @@ comparePrice: 14.48 EUR
 inStock: true
 prodname: 'Colon Detergente Vanish Whites 60 dosis'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHZNQT6/?tag=tolees-21'
+descuento: '31.98'
+titulo: 'Colon Detergente Vanish Whites 60 dosis'
 ---
 
 Está [Colon Detergente Vanish Whites 60 dosis](https://www.amazon.es/dp/B07BHZNQT6/?tag=tolees-21) con 31.98 de descuento por 9.85 EUR (original: 14.48 EUR) en el siguiente enlace!

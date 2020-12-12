@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Levi s Fowler  Botas Biker para Hombre  Marrón  Dark Brown 29   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CBPV4PP/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'Levi s Fowler  Botas Biker para Hombre  '
 ---
 
 Ahora mismo tienes [Levi s Fowler  Botas Biker para Hombre  Marrón  Dark Brown 29   41 EU](https://www.amazon.es/dp/B07CBPV4PP/?tag=tolees-21) a 49.95 EUR (original: 100 EUR) (50.05 %  de descuento) en el siguiente enlace!

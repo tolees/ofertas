@@ -17,6 +17,9 @@ comparePrice: 171.75 EUR
 inStock: true
 prodname: 'Clatronic MWG 775 H Microondas con grill y horno convección 1300 W  23 litros  Acero inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001LF3TOW/?tag=tolees-21'
+descuento: '27.49'
+titulo: 'Clatronic MWG 775 H Microondas con grill'
 ---
 
 Está [Clatronic MWG 775 H Microondas con grill y horno convección 1300 W  23 litros  Acero inoxidable](https://www.amazon.es/dp/B001LF3TOW/?tag=tolees-21) con 27.49 de descuento por 124.53 EUR (original: 171.75 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Beurer LB-88 Humificador de aire 280 W  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00EODLWVK/?tag=tolees-21'
+descuento: '37.22'
+titulo: 'Beurer LB-88 Humificador de aire 280 W  '
 ---
 
 Tienes [Beurer LB-88 Humificador de aire 280 W  Negro](https://www.amazon.es/dp/B00EODLWVK/?tag=tolees-21) con un 37.22 % de descuento con precio de oferta de 69 EUR (original: 109.9 EUR) en el siguiente enlace!

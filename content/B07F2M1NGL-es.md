@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Helly Hansen HP Ocean FZ Hoodie  Hombre  Grey Mélange  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2M1NGL/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Helly Hansen HP Ocean FZ Hoodie  Hombre '
 ---
 
 Está [Helly Hansen HP Ocean FZ Hoodie  Hombre  Grey Mélange  M](https://www.amazon.es/dp/B07F2M1NGL/?tag=tolees-21) con 40.00 de descuento por 72 EUR (original: 120 EUR) en el siguiente enlace!

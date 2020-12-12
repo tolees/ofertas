@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmamanda Jive 3/4 Oversize Boatneck Bo suéter  Negro  Black Detail:Melange   38  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072XQBG7D/?tag=tolees-21'
+descuento: '73.59'
+titulo: 'Vero Moda Vmamanda Jive 3/4 Oversize Boa'
 ---
 
 Está [Vero Moda Vmamanda Jive 3/4 Oversize Boatneck Bo suéter  Negro  Black Detail:Melange   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B072XQBG7D/?tag=tolees-21) con 73.59 de descuento por 5.28 EUR (original: 19.99 EUR) en el siguiente enlace!

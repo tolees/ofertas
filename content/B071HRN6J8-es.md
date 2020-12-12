@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma Basket Classic Velour VR  Zapatillas para Mujer  Negro  Black-icelandicblue   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HRN6J8/?tag=tolees-21'
+descuento: '75.41'
+titulo: 'Puma Basket Classic Velour VR  Zapatilla'
 ---
 
 Está [Puma Basket Classic Velour VR  Zapatillas para Mujer  Negro  Black-icelandicblue   40 EU](https://www.amazon.es/dp/B071HRN6J8/?tag=tolees-21) con 75.41 de descuento por 24.58 EUR (original: 99.95 EUR) en el siguiente enlace!

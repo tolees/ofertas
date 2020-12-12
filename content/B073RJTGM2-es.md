@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Reebok Trainflex  Zapatillas de Gimnasia Mujer  Morado  Lilac Shadow / White / Lucid Lilac   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RJTGM2/?tag=tolees-21'
+descuento: '67.18'
+titulo: 'Reebok Trainflex  Zapatillas de Gimnasia'
 ---
 
 Tienes [Reebok Trainflex  Zapatillas de Gimnasia Mujer  Morado  Lilac Shadow / White / Lucid Lilac   39 EU](https://www.amazon.es/dp/B073RJTGM2/?tag=tolees-21) con un 67.18 % de descuento con precio de oferta de 26.24 EUR (original: 79.95 EUR) en el siguiente enlace!

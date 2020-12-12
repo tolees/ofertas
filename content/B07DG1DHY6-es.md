@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Discos de Lijado  iTrunk 70PCS Lijadora Almohadillas de Lijado Hojas de Papel Papel de Gancho de Arena y Discos de Lazo 40 60 80 120 180 240 400 Grits Papel de Lija'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG1DHY6/?tag=tolees-21'
+descuento: '42.32'
+titulo: 'Discos de Lijado  iTrunk 70PCS Lijadora '
 ---
 
 Ahora mismo tienes [Discos de Lijado  iTrunk 70PCS Lijadora Almohadillas de Lijado Hojas de Papel Papel de Gancho de Arena y Discos de Lazo 40 60 80 120 180 240 400 Grits Papel de Lija](https://www.amazon.es/dp/B07DG1DHY6/?tag=tolees-21) a 14.99 EUR (original: 25.99 EUR) (42.32 %  de descuento) en el siguiente enlace!

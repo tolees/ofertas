@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Salomon Agile SS Tee T-Shirt  Hombre  Rojo  Fiery Red   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2NX48D/?tag=tolees-21'
+descuento: '37.11'
+titulo: 'Salomon Agile SS Tee T-Shirt  Hombre  Ro'
 ---
 
 Tienes [Salomon Agile SS Tee T-Shirt  Hombre  Rojo  Fiery Red   L](https://www.amazon.es/dp/B07F2NX48D/?tag=tolees-21) con un 37.11 % de descuento con precio de oferta de 22.01 EUR (original: 35 EUR) en el siguiente enlace!

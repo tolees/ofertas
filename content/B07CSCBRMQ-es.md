@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Puma Explode 1  Zapatillas de Balonmano para Hombre  Blanco White-Quarry-Shocking Orange  46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSCBRMQ/?tag=tolees-21'
+descuento: '68.95'
+titulo: 'Puma Explode 1  Zapatillas de Balonmano '
 ---
 
 Está [Puma Explode 1  Zapatillas de Balonmano para Hombre  Blanco White-Quarry-Shocking Orange  46 EU](https://www.amazon.es/dp/B07CSCBRMQ/?tag=tolees-21) con 68.95 de descuento por 37.25 EUR (original: 119.95 EUR) en el siguiente enlace!

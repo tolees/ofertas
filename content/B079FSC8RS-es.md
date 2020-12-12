@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Pacer Next SB WTR  Zapatillas Altas Unisex Adulto  Verde  Forest Night Black-Whisper White 02   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079FSC8RS/?tag=tolees-21'
+descuento: '59.66'
+titulo: 'Puma Pacer Next SB WTR  Zapatillas Altas'
 ---
 
 Tienes [Puma Pacer Next SB WTR  Zapatillas Altas Unisex Adulto  Verde  Forest Night Black-Whisper White 02   42 EU](https://www.amazon.es/dp/B079FSC8RS/?tag=tolees-21) con un 59.66 % de descuento con precio de oferta de 36.29 EUR (original: 89.95 EUR) en el siguiente enlace!

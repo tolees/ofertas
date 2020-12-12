@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'REPLAY Luz Coin Zip  Vaqueros Skinny Mujer  Negro  Black 98   W23/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CD9VCG6/?tag=tolees-21'
+descuento: '78.08'
+titulo: 'REPLAY Luz Coin Zip  Vaqueros Skinny Muj'
 ---
 
 Está [REPLAY Luz Coin Zip  Vaqueros Skinny Mujer  Negro  Black 98   W23/L30](https://www.amazon.es/dp/B07CD9VCG6/?tag=tolees-21) con 78.08 de descuento por 30.47 EUR (original: 139 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 17.5 EUR
 inStock: true
 prodname: 'Schwarzkopf [3D] Men -  Cera para cabello  hombre  100ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JKWONJS/?tag=tolees-21'
+descuento: '57.71'
+titulo: 'Schwarzkopf [3D] Men -  Cera para cabell'
 ---
 
 Tienes [Schwarzkopf [3D] Men -  Cera para cabello  hombre  100ml](https://www.amazon.es/dp/B00JKWONJS/?tag=tolees-21) con un 57.71 % de descuento con precio de oferta de 7.4 EUR (original: 17.5 EUR) en el siguiente enlace!

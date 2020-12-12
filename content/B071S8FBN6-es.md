@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Under Armour Press 2  Zapatillas de Deporte para Mujer  Rosa Korall/Weiß  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071S8FBN6/?tag=tolees-21'
+descuento: '58.31'
+titulo: 'Under Armour Press 2  Zapatillas de Depo'
 ---
 
 Está [Under Armour Press 2  Zapatillas de Deporte para Mujer  Rosa Korall/Weiß  39 EU](https://www.amazon.es/dp/B071S8FBN6/?tag=tolees-21) con 58.31 de descuento por 31.25 EUR (original: 74.95 EUR) en el siguiente enlace!

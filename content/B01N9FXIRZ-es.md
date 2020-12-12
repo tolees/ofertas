@@ -17,6 +17,9 @@ comparePrice: 52.99 EUR
 inStock: true
 prodname: 'Justice League Batmóvil con lanzamisiles Mattel Spain FGG58'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9FXIRZ/?tag=tolees-21'
+descuento: '53.01'
+titulo: 'Justice League Batmóvil con lanzamisiles'
 ---
 
 Está [Justice League Batmóvil con lanzamisiles Mattel Spain FGG58](https://www.amazon.es/dp/B01N9FXIRZ/?tag=tolees-21) con 53.01 de descuento por 24.9 EUR (original: 52.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15.49 EUR
 inStock: true
 prodname: 'ROC - Tónico Perfeccionador  200ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004QM7JJ8/?tag=tolees-21'
+descuento: '41.96'
+titulo: 'ROC - Tónico Perfeccionador  200ml'
 ---
 
 Está [ROC - Tónico Perfeccionador  200ml](https://www.amazon.es/dp/B004QM7JJ8/?tag=tolees-21) con 41.96 de descuento por 8.99 EUR (original: 15.49 EUR) en el siguiente enlace!

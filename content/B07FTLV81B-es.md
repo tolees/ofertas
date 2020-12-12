@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slhtwist SS Polo W Noos  Rojo  Brick Red Detail:Twisted with Egret   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTLV81B/?tag=tolees-21'
+descuento: '61.09'
+titulo: 'SELECTED HOMME Slhtwist SS Polo W Noos  '
 ---
 
 Está [SELECTED HOMME Slhtwist SS Polo W Noos  Rojo  Brick Red Detail:Twisted with Egret   Small para Hombre](https://www.amazon.es/dp/B07FTLV81B/?tag=tolees-21) con 61.09 de descuento por 11.67 EUR (original: 29.99 EUR) en el siguiente enlace!

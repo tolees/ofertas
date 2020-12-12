@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 5Ba C/Red Coderas Gg12 Jersey  Hombre  Dorado  Tostado 50   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL7GRW1/?tag=tolees-21'
+descuento: '69.33'
+titulo: 'Springfield 5Ba C/Red Coderas Gg12 Jerse'
 ---
 
 Tienes [Springfield 5Ba C/Red Coderas Gg12 Jersey  Hombre  Dorado  Tostado 50   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DL7GRW1/?tag=tolees-21) con un 69.33 % de descuento con precio de oferta de 7.97 EUR (original: 25.99 EUR) en el siguiente enlace!

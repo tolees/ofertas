@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Zapatillas Puma RS-X Toys Negro Hombre 42 Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGDFT7K/?tag=tolees-21'
+descuento: '33.68'
+titulo: 'Zapatillas Puma RS-X Toys Negro Hombre 4'
 ---
 
 Ahora mismo tienes [Zapatillas Puma RS-X Toys Negro Hombre 42 Negro](https://www.amazon.es/dp/B07KGDFT7K/?tag=tolees-21) a 72.95 EUR (original: 110 EUR) (33.68 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15.21 EUR
 inStock: true
 prodname: 'Continental  0181881 -  Cámara de Ciclismo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0068FAYZM/?tag=tolees-21'
+descuento: '34.58'
+titulo: 'Continental  0181881 -  Cámara de Ciclis'
 ---
 
 Ahora mismo tienes [Continental  0181881 -  Cámara de Ciclismo](https://www.amazon.es/dp/B0068FAYZM/?tag=tolees-21) a 9.95 EUR (original: 15.21 EUR) (34.58 %  de descuento) en el siguiente enlace!

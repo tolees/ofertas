@@ -17,6 +17,9 @@ comparePrice: 39.33 EUR
 inStock: true
 prodname: 'Dalber Dinos - Lámpara Colgante E27  Multicolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07171QRBS/?tag=tolees-21'
+descuento: '29.52'
+titulo: 'Dalber Dinos - Lámpara Colgante E27  Mul'
 ---
 
 Está [Dalber Dinos - Lámpara Colgante E27  Multicolor](https://www.amazon.es/dp/B07171QRBS/?tag=tolees-21) con 29.52 de descuento por 27.72 EUR (original: 39.33 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 43.88 EUR
 inStock: true
 prodname: 'Casio Collection F-201W-1AEF  Reloj Rectangular  Correa de Resina  Unisex  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005F35ZNE/?tag=tolees-21'
+descuento: '62.63'
+titulo: 'Casio Collection F-201W-1AEF  Reloj Rect'
 ---
 
 Está [Casio Collection F-201W-1AEF  Reloj Rectangular  Correa de Resina  Unisex  Negro](https://www.amazon.es/dp/B005F35ZNE/?tag=tolees-21) con 62.63 de descuento por 16.4 EUR (original: 43.88 EUR) en el siguiente enlace!

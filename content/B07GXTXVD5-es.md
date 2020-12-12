@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'bugatti 341725016900  Zapatillas para Hombre  Rojo  Dark Red 3100   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GXTXVD5/?tag=tolees-21'
+descuento: '68.55'
+titulo: 'bugatti 341725016900  Zapatillas para Ho'
 ---
 
 Tienes [bugatti 341725016900  Zapatillas para Hombre  Rojo  Dark Red 3100   40 EU](https://www.amazon.es/dp/B07GXTXVD5/?tag=tolees-21) con un 68.55 % de descuento con precio de oferta de 22 EUR (original: 69.95 EUR) en el siguiente enlace!

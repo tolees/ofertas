@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'The North Face Polo Piquet  Hombre  Negro  TNF Black   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IZPOG3Y/?tag=tolees-21'
+descuento: '40.10'
+titulo: 'The North Face Polo Piquet  Hombre  Negr'
 ---
 
 Tienes [The North Face Polo Piquet  Hombre  Negro  TNF Black   XL](https://www.amazon.es/dp/B00IZPOG3Y/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 29.95 EUR (original: 50 EUR) en el siguiente enlace!

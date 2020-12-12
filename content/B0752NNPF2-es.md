@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW D-staq 5-pkt Mid Skinny Wmn  Vaqueros Mujer  Negro  Rinsed   W23/L32  Talla del fabricante: 23/32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0752NNPF2/?tag=tolees-21'
+descuento: '84.95'
+titulo: 'G-STAR RAW D-staq 5-pkt Mid Skinny Wmn  '
 ---
 
 Está [G-STAR RAW D-staq 5-pkt Mid Skinny Wmn  Vaqueros Mujer  Negro  Rinsed   W23/L32  Talla del fabricante: 23/32 ](https://www.amazon.es/dp/B0752NNPF2/?tag=tolees-21) con 84.95 de descuento por 15.04 EUR (original: 99.95 EUR) en el siguiente enlace!

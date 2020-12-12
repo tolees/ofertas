@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Bombillas LED Gu10 5W Azhien  Lampara de Led  Blanco Cálido 2700K  LED de luz Cálido 400lm  Lampara Halogenos Equivalentes a 50 Watt 36 Ángulo Casquillos led gu 10 CRI>82  Pack de 6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C2RPRD7/?tag=tolees-21'
+descuento: '32.01'
+titulo: 'Bombillas LED Gu10 5W Azhien  Lampara de'
 ---
 
 Está [Bombillas LED Gu10 5W Azhien  Lampara de Led  Blanco Cálido 2700K  LED de luz Cálido 400lm  Lampara Halogenos Equivalentes a 50 Watt 36 Ángulo Casquillos led gu 10 CRI>82  Pack de 6](https://www.amazon.es/dp/B07C2RPRD7/?tag=tolees-21) con 32.01 de descuento por 16.99 EUR (original: 24.99 EUR) en el siguiente enlace!

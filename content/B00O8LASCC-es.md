@@ -17,6 +17,9 @@ comparePrice: 249 EUR
 inStock: true
 prodname: 'Onkyo CS-265-LB - Sistema mini  Bluetooth  NFC  USB frontal  color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00O8LASCC/?tag=tolees-21'
+descuento: '48.19'
+titulo: 'Onkyo CS-265-LB - Sistema mini  Bluetoot'
 ---
 
 Ahora mismo tienes [Onkyo CS-265-LB - Sistema mini  Bluetooth  NFC  USB frontal  color azul](https://www.amazon.es/dp/B00O8LASCC/?tag=tolees-21) a 129 EUR (original: 249 EUR) (48.19 %  de descuento) en el siguiente enlace!

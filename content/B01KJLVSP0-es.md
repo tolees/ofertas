@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Vans Chapman Lite  Zapatillas Para Hombre  Azul  Mesh Blue/White   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KJLVSP0/?tag=tolees-21'
+descuento: '74.69'
+titulo: 'Vans Chapman Lite  Zapatillas Para Hombr'
 ---
 
 Está [Vans Chapman Lite  Zapatillas Para Hombre  Azul  Mesh Blue/White   40.5 EU](https://www.amazon.es/dp/B01KJLVSP0/?tag=tolees-21) con 74.69 de descuento por 20.25 EUR (original: 80 EUR) en el siguiente enlace!

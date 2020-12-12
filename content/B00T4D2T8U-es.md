@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Feber Jumper - Triciclo para niños  Famosa 800009780 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00T4D2T8U/?tag=tolees-21'
+descuento: '76.93'
+titulo: 'Feber Jumper - Triciclo para niños  Famo'
 ---
 
 Ahora mismo tienes [Feber Jumper - Triciclo para niños  Famosa 800009780 ](https://www.amazon.es/dp/B00T4D2T8U/?tag=tolees-21) a 29.99 EUR (original: 129.99 EUR) (76.93 %  de descuento) en el siguiente enlace!

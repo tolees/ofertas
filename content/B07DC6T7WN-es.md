@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Leadcat  Chanclas Unisex Adulto  Verde Olivine 18  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC6T7WN/?tag=tolees-21'
+descuento: '48.10'
+titulo: 'Puma Leadcat  Chanclas Unisex Adulto  Ve'
 ---
 
 Ahora mismo tienes [Puma Leadcat  Chanclas Unisex Adulto  Verde Olivine 18  44.5 EU](https://www.amazon.es/dp/B07DC6T7WN/?tag=tolees-21) a 12.95 EUR (original: 24.95 EUR) (48.10 %  de descuento) en el siguiente enlace!

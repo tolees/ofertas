@@ -17,6 +17,9 @@ comparePrice: 49.6 EUR
 inStock: true
 prodname: 'MAURER - Mantel Hule Rollo 140cmx20m Flores Color'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NL7PJGY/?tag=tolees-21'
+descuento: '68.15'
+titulo: 'MAURER - Mantel Hule Rollo 140cmx20m Flo'
 ---
 
 Está [MAURER - Mantel Hule Rollo 140cmx20m Flores Color](https://www.amazon.es/dp/B00NL7PJGY/?tag=tolees-21) con 68.15 de descuento por 15.8 EUR (original: 49.6 EUR) en el siguiente enlace!

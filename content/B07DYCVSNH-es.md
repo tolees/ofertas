@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Nike Jr Majestry FG  Zapatillas de Fútbol Unisex Niños  Rojo  University Red/Black 600   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYCVSNH/?tag=tolees-21'
+descuento: '58.91'
+titulo: 'Nike Jr Majestry FG  Zapatillas de Fútbo'
 ---
 
 Está [Nike Jr Majestry FG  Zapatillas de Fútbol Unisex Niños  Rojo  University Red/Black 600   37.5 EU](https://www.amazon.es/dp/B07DYCVSNH/?tag=tolees-21) con 58.91 de descuento por 14.38 EUR (original: 35 EUR) en el siguiente enlace!

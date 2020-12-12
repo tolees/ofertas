@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Mexx Schwarz  Black 001  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LF3FQEU/?tag=tolees-21'
+descuento: '82.86'
+titulo: 'Mexx Schwarz  Black 001  M'
 ---
 
 Está [Mexx Schwarz  Black 001  M](https://www.amazon.es/dp/B01LF3FQEU/?tag=tolees-21) con 82.86 de descuento por 13.71 EUR (original: 79.99 EUR) en el siguiente enlace!

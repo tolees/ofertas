@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Leadcat Suede  Zapatos de Playa y Piscina Unisex Adulto  Rosa  Pale Pink Team Gold   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1P24Z/?tag=tolees-21'
+descuento: '63.45'
+titulo: 'Puma Leadcat Suede  Zapatos de Playa y P'
 ---
 
 Ahora mismo tienes [Puma Leadcat Suede  Zapatos de Playa y Piscina Unisex Adulto  Rosa  Pale Pink Team Gold   43 EU](https://www.amazon.es/dp/B07DC1P24Z/?tag=tolees-21) a 14.6 EUR (original: 39.95 EUR) (63.45 %  de descuento) en el siguiente enlace!

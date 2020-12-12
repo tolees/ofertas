@@ -17,6 +17,9 @@ comparePrice: 147.5 EUR
 inStock: true
 prodname: 'Parlux 3800 - Secador de pelo profesional de cerámica con iones  respetuoso con el medio ambiente  color plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003XNS9VS/?tag=tolees-21'
+descuento: '59.33'
+titulo: 'Parlux 3800 - Secador de pelo profesiona'
 ---
 
 Tienes [Parlux 3800 - Secador de pelo profesional de cerámica con iones  respetuoso con el medio ambiente  color plateado](https://www.amazon.es/dp/B003XNS9VS/?tag=tolees-21) con un 59.33 % de descuento con precio de oferta de 59.99 EUR (original: 147.5 EUR) en el siguiente enlace!

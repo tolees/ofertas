@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'ELINKUME 10X G9 7W 104SMD 3014 Bombilla LED AC220V G9 7W llevó la lámpara LED de las bombillas 220V del bulbo del proyector G9 en lámpara de cristal  blanco caliente'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N5NVQDE/?tag=tolees-21'
+descuento: '36.70'
+titulo: 'ELINKUME 10X G9 7W 104SMD 3014 Bombilla '
 ---
 
 Ahora mismo tienes [ELINKUME 10X G9 7W 104SMD 3014 Bombilla LED AC220V G9 7W llevó la lámpara LED de las bombillas 220V del bulbo del proyector G9 en lámpara de cristal  blanco caliente](https://www.amazon.es/dp/B00N5NVQDE/?tag=tolees-21) a 18.99 EUR (original: 30 EUR) (36.70 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 138 EUR
 inStock: true
 prodname: 'JBL Synchros Reflect I - Auriculares in-ear para dispositivos iOS y Android  resistentes al sudor  control de 3 botones volumen/micro/pista   color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JQ75A8A/?tag=tolees-21'
+descuento: '72.67'
+titulo: 'JBL Synchros Reflect I - Auriculares in-'
 ---
 
 Ahora mismo tienes [JBL Synchros Reflect I - Auriculares in-ear para dispositivos iOS y Android  resistentes al sudor  control de 3 botones volumen/micro/pista   color azul](https://www.amazon.es/dp/B00JQ75A8A/?tag=tolees-21) a 37.71 EUR (original: 138 EUR) (72.67 %  de descuento) en el siguiente enlace!

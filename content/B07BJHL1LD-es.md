@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Halgen Core Hooded Sw L/s  Capucha para Hombre  Azul  Imperial Blue Htr 2211   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJHL1LD/?tag=tolees-21'
+descuento: '57.62'
+titulo: 'G-STAR RAW Halgen Core Hooded Sw L/s  Ca'
 ---
 
 Ahora mismo tienes [G-STAR RAW Halgen Core Hooded Sw L/s  Capucha para Hombre  Azul  Imperial Blue Htr 2211   Small](https://www.amazon.es/dp/B07BJHL1LD/?tag=tolees-21) a 38.12 EUR (original: 89.95 EUR) (57.62 %  de descuento) en el siguiente enlace!

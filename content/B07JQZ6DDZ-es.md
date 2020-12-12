@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'adidas Adizero Boston 7 M  Zapatillas de Entrenamiento para Hombre  Schwarz  Core Black/Footwear White/Carbon 0   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQZ6DDZ/?tag=tolees-21'
+descuento: '53.57'
+titulo: 'adidas Adizero Boston 7 M  Zapatillas de'
 ---
 
 Está [adidas Adizero Boston 7 M  Zapatillas de Entrenamiento para Hombre  Schwarz  Core Black/Footwear White/Carbon 0   42 EU](https://www.amazon.es/dp/B07JQZ6DDZ/?tag=tolees-21) con 53.57 de descuento por 64.98 EUR (original: 139.95 EUR) en el siguiente enlace!

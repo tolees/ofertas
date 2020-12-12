@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Koogeek Electroestimulador Digital Masaje EMS Control por app de IOS y Android Múltiples Modos  Décimo Nivel Ajustable USB Recargable  Reduce Dolor de Espalda  Cuello  Hombro  Nervio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GVBMCKT/?tag=tolees-21'
+descuento: '33.28'
+titulo: 'Koogeek Electroestimulador Digital Masaj'
 ---
 
 Está [Koogeek Electroestimulador Digital Masaje EMS Control por app de IOS y Android Múltiples Modos  Décimo Nivel Ajustable USB Recargable  Reduce Dolor de Espalda  Cuello  Hombro  Nervio](https://www.amazon.es/dp/B07GVBMCKT/?tag=tolees-21) con 33.28 de descuento por 29.99 EUR (original: 44.95 EUR) en el siguiente enlace!

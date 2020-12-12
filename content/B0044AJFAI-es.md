@@ -17,6 +17,9 @@ comparePrice: 5.49 EUR
 inStock: true
 prodname: 'Panasonic RP-HV104E-K - Auriculares de botón  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0044AJFAI/?tag=tolees-21'
+descuento: '28.05'
+titulo: 'Panasonic RP-HV104E-K - Auriculares de b'
 ---
 
 Ahora mismo tienes [Panasonic RP-HV104E-K - Auriculares de botón  negro](https://www.amazon.es/dp/B0044AJFAI/?tag=tolees-21) a 3.95 EUR (original: 5.49 EUR) (28.05 %  de descuento) en el siguiente enlace!

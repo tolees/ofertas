@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Letook Maillots Ciclismo Hombre Conjunto de Ropa Verano Bicicleta Manga Corta +Pantalones Cortos Culotte M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL18RD2/?tag=tolees-21'
+descuento: '34.56'
+titulo: 'Letook Maillots Ciclismo Hombre Conjunto'
 ---
 
 Tienes [Letook Maillots Ciclismo Hombre Conjunto de Ropa Verano Bicicleta Manga Corta +Pantalones Cortos Culotte M ](https://www.amazon.es/dp/B07DL18RD2/?tag=tolees-21) con un 34.56 % de descuento con precio de oferta de 35.99 EUR (original: 55 EUR) en el siguiente enlace!

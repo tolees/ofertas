@@ -17,6 +17,9 @@ comparePrice: 17.69 EUR
 inStock: true
 prodname: 'Saco/Cosy Toes Compatible con paseo Quinny Moodd océano azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016MZ6CYY/?tag=tolees-21'
+descuento: '66.87'
+titulo: 'Saco/Cosy Toes Compatible con paseo Quin'
 ---
 
 Está [Saco/Cosy Toes Compatible con paseo Quinny Moodd océano azul](https://www.amazon.es/dp/B016MZ6CYY/?tag=tolees-21) con 66.87 de descuento por 5.86 EUR (original: 17.69 EUR) en el siguiente enlace!

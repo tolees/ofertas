@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'RianGor 3 en 1 Lote Black Fasteners Tether Gag Tool Links Parejas  mujer  cerca de la melodía'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HQJPG66/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'RianGor 3 en 1 Lote Black Fasteners Teth'
 ---
 
 Está [RianGor 3 en 1 Lote Black Fasteners Tether Gag Tool Links Parejas  mujer  cerca de la melodía](https://www.amazon.es/dp/B07HQJPG66/?tag=tolees-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

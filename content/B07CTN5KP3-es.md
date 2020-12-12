@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Under Armour Surge Se  Zapatillas de Running para Mujer  Morado  Purple Prime/White/Mojito Pink 500   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTN5KP3/?tag=tolees-21'
+descuento: '59.20'
+titulo: 'Under Armour Surge Se  Zapatillas de Run'
 ---
 
 Tienes [Under Armour Surge Se  Zapatillas de Running para Mujer  Morado  Purple Prime/White/Mojito Pink 500   43 EU](https://www.amazon.es/dp/B07CTN5KP3/?tag=tolees-21) con un 59.20 % de descuento con precio de oferta de 26.52 EUR (original: 65 EUR) en el siguiente enlace!

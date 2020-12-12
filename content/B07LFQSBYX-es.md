@@ -17,6 +17,9 @@ comparePrice: 194.9 EUR
 inStock: true
 prodname: 'Dolores Promesas PV19 2052AZUL Vestido   Azul 00    Tamaño del Fabricante:38  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LFQSBYX/?tag=tolees-21'
+descuento: '52.79'
+titulo: 'Dolores Promesas PV19 2052AZUL Vestido  '
 ---
 
 Está [Dolores Promesas PV19 2052AZUL Vestido   Azul 00    Tamaño del Fabricante:38  para Mujer](https://www.amazon.es/dp/B07LFQSBYX/?tag=tolees-21) con 52.79 de descuento por 92.01 EUR (original: 194.9 EUR) en el siguiente enlace!

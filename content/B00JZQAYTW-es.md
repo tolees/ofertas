@@ -17,6 +17,9 @@ comparePrice: 19.94 EUR
 inStock: true
 prodname: 'Schiesser - Sujetador para niña  Color Blau  Nachtblau 804   Talla Talla Alemana: 70b  herstellergröße: 070b '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JZQAYTW/?tag=tolees-21'
+descuento: '62.69'
+titulo: 'Schiesser - Sujetador para niña  Color B'
 ---
 
 Tienes [Schiesser - Sujetador para niña  Color Blau  Nachtblau 804   Talla Talla Alemana: 70b  herstellergröße: 070b ](https://www.amazon.es/dp/B00JZQAYTW/?tag=tolees-21) con un 62.69 % de descuento con precio de oferta de 7.44 EUR (original: 19.94 EUR) en el siguiente enlace!

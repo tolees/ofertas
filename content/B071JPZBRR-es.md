@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Merrell Vapor Glove 3  Zapatillas Deportivas para Interior para Mujer  Azul Baja Blue  37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JPZBRR/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'Merrell Vapor Glove 3  Zapatillas Deport'
 ---
 
 Ahora mismo tienes [Merrell Vapor Glove 3  Zapatillas Deportivas para Interior para Mujer  Azul Baja Blue  37.5 EU](https://www.amazon.es/dp/B071JPZBRR/?tag=tolees-21) a 49.95 EUR (original: 100 EUR) (50.05 %  de descuento) en el siguiente enlace!

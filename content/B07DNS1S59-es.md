@@ -17,6 +17,9 @@ comparePrice: 35.63 EUR
 inStock: true
 prodname: 'XIHAMA Garmin Fenix 5X Correa  Acero Inoxidable 26 mm Recambio de Anclaje Rápido Ajustable Pulsera Compatible con Fenix 5X/ 5X Plus/Fenix 3 / Fenix 3 HR'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNS1S59/?tag=tolees-21'
+descuento: '55.12'
+titulo: 'XIHAMA Garmin Fenix 5X Correa  Acero Ino'
 ---
 
 Está [XIHAMA Garmin Fenix 5X Correa  Acero Inoxidable 26 mm Recambio de Anclaje Rápido Ajustable Pulsera Compatible con Fenix 5X/ 5X Plus/Fenix 3 / Fenix 3 HR](https://www.amazon.es/dp/B07DNS1S59/?tag=tolees-21) con 55.12 de descuento por 15.99 EUR (original: 35.63 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 379 EUR
 inStock: true
 prodname: 'Tommy Hilfiger New Cynthia 2 In 1 Long Parka  Mujer  Azul  Midnight 403  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7Q3C7M/?tag=tolees-21'
+descuento: '50.13'
+titulo: 'Tommy Hilfiger New Cynthia 2 In 1 Long P'
 ---
 
 Tienes [Tommy Hilfiger New Cynthia 2 In 1 Long Parka  Mujer  Azul  Midnight 403  X-Large](https://www.amazon.es/dp/B07F7Q3C7M/?tag=tolees-21) con un 50.13 % de descuento con precio de oferta de 189 EUR (original: 379 EUR) en el siguiente enlace!

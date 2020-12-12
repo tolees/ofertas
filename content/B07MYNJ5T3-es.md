@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'AIJEESI Auriculares Bluetooth CS 4.1 In-Ear Inalámbricos con Mic Duración 10 Horas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MYNJ5T3/?tag=tolees-21'
+descuento: '73.75'
+titulo: 'AIJEESI Auriculares Bluetooth CS 4.1 In-'
 ---
 
 Tienes [AIJEESI Auriculares Bluetooth CS 4.1 In-Ear Inalámbricos con Mic Duración 10 Horas](https://www.amazon.es/dp/B07MYNJ5T3/?tag=tolees-21) con un 73.75 % de descuento con precio de oferta de 25.99 EUR (original: 99 EUR) en el siguiente enlace!

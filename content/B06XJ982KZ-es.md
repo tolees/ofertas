@@ -17,6 +17,9 @@ comparePrice: 314.59 EUR
 inStock: true
 prodname: 'Ballistix Sport LT BLS4C8G4D26BFSBK/BLS4K8G4D26BFSBK - Kit de Memoria RAM de 32GB  8GB x 4  DDR4  2666 MT/s  PC4-21300  Single Rank x8  DIMM  288-Pin  gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XJ982KZ/?tag=tolees-21'
+descuento: '39.23'
+titulo: 'Ballistix Sport LT BLS4C8G4D26BFSBK/BLS4'
 ---
 
 Está [Ballistix Sport LT BLS4C8G4D26BFSBK/BLS4K8G4D26BFSBK - Kit de Memoria RAM de 32GB  8GB x 4  DDR4  2666 MT/s  PC4-21300  Single Rank x8  DIMM  288-Pin  gris](https://www.amazon.es/dp/B06XJ982KZ/?tag=tolees-21) con 39.23 de descuento por 191.17 EUR (original: 314.59 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Merrell Trail Glove 3 - Zapatillas de Running para Asfalto Hombre  Azul  navy/racer blue   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00RAP4X4C/?tag=tolees-21'
+descuento: '50.30'
+titulo: 'Merrell Trail Glove 3 - Zapatillas de Ru'
 ---
 
 Ahora mismo tienes [Merrell Trail Glove 3 - Zapatillas de Running para Asfalto Hombre  Azul  navy/racer blue   40 EU](https://www.amazon.es/dp/B00RAP4X4C/?tag=tolees-21) a 59.64 EUR (original: 120 EUR) (50.30 %  de descuento) en el siguiente enlace!

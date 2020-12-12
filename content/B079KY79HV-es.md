@@ -17,6 +17,9 @@ comparePrice: 564.57 EUR
 inStock: true
 prodname: 'Hot Mom Multi cochecito cochecito 2 en 1 con buggy 2018 nuevo diseño  Asiento para bebé vendido por separado - Green'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079KY79HV/?tag=tolees-21'
+descuento: '70.07'
+titulo: 'Hot Mom Multi cochecito cochecito 2 en 1'
 ---
 
 Ahora mismo tienes [Hot Mom Multi cochecito cochecito 2 en 1 con buggy 2018 nuevo diseño  Asiento para bebé vendido por separado - Green](https://www.amazon.es/dp/B079KY79HV/?tag=tolees-21) a 169 EUR (original: 564.57 EUR) (70.07 %  de descuento) en el siguiente enlace!

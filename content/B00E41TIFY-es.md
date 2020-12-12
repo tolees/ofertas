@@ -17,6 +17,9 @@ comparePrice: 155 EUR
 inStock: true
 prodname: 'CAMPER Pelotas Ariel - Oxford Hombre  Negro  black   47'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00E41TIFY/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'CAMPER Pelotas Ariel - Oxford Hombre  Ne'
 ---
 
 Ahora mismo tienes [CAMPER Pelotas Ariel - Oxford Hombre  Negro  black   47](https://www.amazon.es/dp/B00E41TIFY/?tag=tolees-21) a 108.5 EUR (original: 155 EUR) (30.00 %  de descuento) en el siguiente enlace!

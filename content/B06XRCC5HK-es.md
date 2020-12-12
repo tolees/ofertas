@@ -17,6 +17,9 @@ comparePrice: 35.53 EUR
 inStock: true
 prodname: 'Onshine Coloreados Bloques de Construcción de Tráfico Transporte Urbano Juguetes Madera 62 Piezas de Juegos Educativos Puzzle para Niños Más de 3 Años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XRCC5HK/?tag=tolees-21'
+descuento: '44.13'
+titulo: 'Onshine Coloreados Bloques de Construcci'
 ---
 
 Ahora mismo tienes [Onshine Coloreados Bloques de Construcción de Tráfico Transporte Urbano Juguetes Madera 62 Piezas de Juegos Educativos Puzzle para Niños Más de 3 Años](https://www.amazon.es/dp/B06XRCC5HK/?tag=tolees-21) a 19.85 EUR (original: 35.53 EUR) (44.13 %  de descuento) en el siguiente enlace!

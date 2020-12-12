@@ -17,6 +17,9 @@ comparePrice: 50.43 EUR
 inStock: true
 prodname: 'Silicon Power Blaze B20 - Memoria USB 3.0 de 128 GB  lectura/escritura 55/20 MB/s  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KZL4TJ2/?tag=tolees-21'
+descuento: '62.94'
+titulo: 'Silicon Power Blaze B20 - Memoria USB 3.'
 ---
 
 Tienes [Silicon Power Blaze B20 - Memoria USB 3.0 de 128 GB  lectura/escritura 55/20 MB/s  color negro](https://www.amazon.es/dp/B00KZL4TJ2/?tag=tolees-21) con un 62.94 % de descuento con precio de oferta de 18.69 EUR (original: 50.43 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Nike W NK Dry tee DFC Crew T-Shirt  Mujer  White/htr/Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GX9YG32/?tag=tolees-21'
+descuento: '50.36'
+titulo: 'Nike W NK Dry tee DFC Crew T-Shirt  Muje'
 ---
 
 Tienes [Nike W NK Dry tee DFC Crew T-Shirt  Mujer  White/htr/Black  L](https://www.amazon.es/dp/B07GX9YG32/?tag=tolees-21) con un 50.36 % de descuento con precio de oferta de 12.41 EUR (original: 25 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Smash V2 L Zapatillas Unisex adulto  Negro  Puma Black-Puma White   45 EU  10.5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077M96ZHJ/?tag=tolees-21'
+descuento: '40.08'
+titulo: 'Puma Smash V2 L Zapatillas Unisex adulto'
 ---
 
 Ahora mismo tienes [Puma Smash V2 L Zapatillas Unisex adulto  Negro  Puma Black-Puma White   45 EU  10.5 UK ](https://www.amazon.es/dp/B077M96ZHJ/?tag=tolees-21) a 29.93 EUR (original: 49.95 EUR) (40.08 %  de descuento) en el siguiente enlace!

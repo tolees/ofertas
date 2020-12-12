@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Copa Gloro 19.2 Fg  Botas de Fútbol para Hombre  Multicolor  Negbás/Negbás/Grisei 000   41 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LH9Y3WV/?tag=tolees-21'
+descuento: '32.46'
+titulo: 'adidas Copa Gloro 19.2 Fg  Botas de Fútb'
 ---
 
 Está [adidas Copa Gloro 19.2 Fg  Botas de Fútbol para Hombre  Multicolor  Negbás/Negbás/Grisei 000   41 1/3 EU](https://www.amazon.es/dp/B07LH9Y3WV/?tag=tolees-21) con 32.46 de descuento por 67.51 EUR (original: 99.95 EUR) en el siguiente enlace!

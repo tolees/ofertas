@@ -17,6 +17,9 @@ comparePrice: 75.99 EUR
 inStock: true
 prodname: 'DC Shoes Glenridge Fleece Top  Hombre  Black Iris  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPRG9CL/?tag=tolees-21'
+descuento: '48.52'
+titulo: 'DC Shoes Glenridge Fleece Top  Hombre  B'
 ---
 
 Está [DC Shoes Glenridge Fleece Top  Hombre  Black Iris  XXL](https://www.amazon.es/dp/B07KPRG9CL/?tag=tolees-21) con 48.52 de descuento por 39.12 EUR (original: 75.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 175 EUR
 inStock: true
 prodname: 'Beoplay P2 de Bang & Olufsen - Altavoz Bluetooth portátil con micrófono incorporado  royal blue'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XYS8Q5X/?tag=tolees-21'
+descuento: '64.02'
+titulo: 'Beoplay P2 de Bang & Olufsen - Altavoz B'
 ---
 
 Está [Beoplay P2 de Bang & Olufsen - Altavoz Bluetooth portátil con micrófono incorporado  royal blue](https://www.amazon.es/dp/B06XYS8Q5X/?tag=tolees-21) con 64.02 de descuento por 62.96 EUR (original: 175 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 48.99 EUR
 inStock: true
 prodname: 'Cargador solar  vivostar 20000 mAh portable Power Banco Externo Pack de baterías doble salida USB  2.1 A  Cargador de panel solar con luz LED para iPhone  Samsung Galaxy  iPad  cámara GoPro  GPS y más'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077R9LKCJ/?tag=tolees-21'
+descuento: '69.40'
+titulo: 'Cargador solar  vivostar 20000 mAh porta'
 ---
 
 Ahora mismo tienes [Cargador solar  vivostar 20000 mAh portable Power Banco Externo Pack de baterías doble salida USB  2.1 A  Cargador de panel solar con luz LED para iPhone  Samsung Galaxy  iPad  cámara GoPro  GPS y más](https://www.amazon.es/dp/B077R9LKCJ/?tag=tolees-21) a 14.99 EUR (original: 48.99 EUR) (69.40 %  de descuento) en el siguiente enlace!

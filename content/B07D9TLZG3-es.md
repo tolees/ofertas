@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma Future 2.3 Netfit TT  Zapatillas de Fútbol para Hombre  Plateado Silver-Peacoat 04  42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9TLZG3/?tag=tolees-21'
+descuento: '54.90'
+titulo: 'Puma Future 2.3 Netfit TT  Zapatillas de'
 ---
 
 Está [Puma Future 2.3 Netfit TT  Zapatillas de Fútbol para Hombre  Plateado Silver-Peacoat 04  42.5 EU](https://www.amazon.es/dp/B07D9TLZG3/?tag=tolees-21) con 54.90 de descuento por 36.06 EUR (original: 79.95 EUR) en el siguiente enlace!

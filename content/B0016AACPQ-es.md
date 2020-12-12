@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Dickies Multi 13"Mlti Pkt W/Srt  Pantalones Cortos de Trabajo Para Hombre  Marina oscuro  Dark navy DN   44 Waist x Regular'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0016AACPQ/?tag=tolees-21'
+descuento: '61.29'
+titulo: 'Dickies Multi 13"Mlti Pkt W/Srt  Pantalo'
 ---
 
 Está [Dickies Multi 13"Mlti Pkt W/Srt  Pantalones Cortos de Trabajo Para Hombre  Marina oscuro  Dark navy DN   44 Waist x Regular](https://www.amazon.es/dp/B0016AACPQ/?tag=tolees-21) con 61.29 de descuento por 17.42 EUR (original: 45 EUR) en el siguiente enlace!

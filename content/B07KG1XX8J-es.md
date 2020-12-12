@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Esprit 019ee2k014  Polo para Hombre  Blanco  White 100   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KG1XX8J/?tag=tolees-21'
+descuento: '65.80'
+titulo: 'Esprit 019ee2k014  Polo para Hombre  Bla'
 ---
 
 Está [Esprit 019ee2k014  Polo para Hombre  Blanco  White 100   Large](https://www.amazon.es/dp/B07KG1XX8J/?tag=tolees-21) con 65.80 de descuento por 12.31 EUR (original: 35.99 EUR) en el siguiente enlace!

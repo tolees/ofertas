@@ -17,6 +17,9 @@ comparePrice: 26.68 EUR
 inStock: true
 prodname: 'Only & Sons Onsdan Structure Crew Neck Noos  suéter para Hombre  Azul  Dress Blues  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSWM91Z/?tag=tolees-21'
+descuento: '43.85'
+titulo: 'Only & Sons Onsdan Structure Crew Neck N'
 ---
 
 Está [Only & Sons Onsdan Structure Crew Neck Noos  suéter para Hombre  Azul  Dress Blues  Small](https://www.amazon.es/dp/B06XSWM91Z/?tag=tolees-21) con 43.85 de descuento por 14.98 EUR (original: 26.68 EUR) en el siguiente enlace!

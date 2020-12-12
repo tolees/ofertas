@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 's.Oliver 5-5-25203-38  Botas Chukka Mujer  Azul  NAVY 805   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MQGEBQO/?tag=tolees-21'
+descuento: '76.60'
+titulo: 's.Oliver 5-5-25203-38  Botas Chukka Muje'
 ---
 
 Está [s.Oliver 5-5-25203-38  Botas Chukka Mujer  Azul  NAVY 805   39 EU](https://www.amazon.es/dp/B01MQGEBQO/?tag=tolees-21) con 76.60 de descuento por 18.71 EUR (original: 79.95 EUR) en el siguiente enlace!

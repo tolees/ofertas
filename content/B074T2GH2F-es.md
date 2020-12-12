@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Hurley M DRI-FIT Breathe 19  Bermudas  Hombre  Khaki  32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074T2GH2F/?tag=tolees-21'
+descuento: '49.29'
+titulo: 'Hurley M DRI-FIT Breathe 19  Bermudas  H'
 ---
 
 Tienes [Hurley M DRI-FIT Breathe 19  Bermudas  Hombre  Khaki  32](https://www.amazon.es/dp/B074T2GH2F/?tag=tolees-21) con un 49.29 % de descuento con precio de oferta de 27.89 EUR (original: 55 EUR) en el siguiente enlace!

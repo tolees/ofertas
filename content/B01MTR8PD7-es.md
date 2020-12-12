@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Pepe Jeans Vera  Pantalones Mujer  Multicolor  Multi   38  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTR8PD7/?tag=tolees-21'
+descuento: '72.00'
+titulo: 'Pepe Jeans Vera  Pantalones Mujer  Multi'
 ---
 
 Está [Pepe Jeans Vera  Pantalones Mujer  Multicolor  Multi   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B01MTR8PD7/?tag=tolees-21) con 72.00 de descuento por 21 EUR (original: 75 EUR) en el siguiente enlace!

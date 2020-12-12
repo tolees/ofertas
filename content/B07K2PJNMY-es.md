@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'The Equalizer 2  4K UHD + BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2PJNMY/?tag=tolees-21'
+descuento: '37.64'
+titulo: 'The Equalizer 2  4K UHD + BD  [Blu-ray]'
 ---
 
 Tienes [The Equalizer 2  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07K2PJNMY/?tag=tolees-21) con un 37.64 % de descuento con precio de oferta de 16.83 EUR (original: 26.99 EUR) en el siguiente enlace!

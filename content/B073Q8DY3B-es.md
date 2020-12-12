@@ -17,6 +17,9 @@ comparePrice: 37.99 EUR
 inStock: true
 prodname: 'AmazonBasics - Wok en hierro fundido pretratado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073Q8DY3B/?tag=tolees-21'
+descuento: '82.10'
+titulo: 'AmazonBasics - Wok en hierro fundido pre'
 ---
 
 Tienes [AmazonBasics - Wok en hierro fundido pretratado](https://www.amazon.es/dp/B073Q8DY3B/?tag=tolees-21) con un 82.10 % de descuento con precio de oferta de 6.8 EUR (original: 37.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Dickies Slim Straight Work Pant Pantalones  Hombre  Amarillo  Dusk Yellow YLD    Tamaño del Fabricante:34/32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078TQP9MP/?tag=tolees-21'
+descuento: '62.78'
+titulo: 'Dickies Slim Straight Work Pant Pantalon'
 ---
 
 Tienes [Dickies Slim Straight Work Pant Pantalones  Hombre  Amarillo  Dusk Yellow YLD    Tamaño del Fabricante:34/32 ](https://www.amazon.es/dp/B078TQP9MP/?tag=tolees-21) con un 62.78 % de descuento con precio de oferta de 20.47 EUR (original: 55 EUR) en el siguiente enlace!

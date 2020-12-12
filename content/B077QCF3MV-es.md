@@ -17,6 +17,9 @@ comparePrice: 299 EUR
 inStock: true
 prodname: 'M MEGAWHEELS Scooter-Patinete Eléctrico Hoverboard  6.5 Pulgadas con Bluetooth - Motor eléctrico 500w  Velocidad 10-12 Km/h.  Yellow '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077QCF3MV/?tag=tolees-21'
+descuento: '46.82'
+titulo: 'M MEGAWHEELS Scooter-Patinete Eléctrico '
 ---
 
 Ahora mismo tienes [M MEGAWHEELS Scooter-Patinete Eléctrico Hoverboard  6.5 Pulgadas con Bluetooth - Motor eléctrico 500w  Velocidad 10-12 Km/h.  Yellow ](https://www.amazon.es/dp/B077QCF3MV/?tag=tolees-21) a 159 EUR (original: 299 EUR) (46.82 %  de descuento) en el siguiente enlace!

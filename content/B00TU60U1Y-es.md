@@ -17,6 +17,9 @@ comparePrice: 45.32 EUR
 inStock: true
 prodname: 'Nike Elite  PS  - Zapatillas de material sintético para niño  Black/White-Anthracite-Gym Red  27.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TU60U1Y/?tag=tolees-21'
+descuento: '54.37'
+titulo: 'Nike Elite  PS  - Zapatillas de material'
 ---
 
 Está [Nike Elite  PS  - Zapatillas de material sintético para niño  Black/White-Anthracite-Gym Red  27.5](https://www.amazon.es/dp/B00TU60U1Y/?tag=tolees-21) con 54.37 de descuento por 20.68 EUR (original: 45.32 EUR) en el siguiente enlace!

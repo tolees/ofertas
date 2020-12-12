@@ -17,6 +17,9 @@ comparePrice: 39.75 EUR
 inStock: true
 prodname: 'Superdry Vintage Logo 1ST Raglan tee Camiseta  Blanco  Optic 01c   XS para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZHYL3L/?tag=tolees-21'
+descuento: '47.30'
+titulo: 'Superdry Vintage Logo 1ST Raglan tee Cam'
 ---
 
 Está [Superdry Vintage Logo 1ST Raglan tee Camiseta  Blanco  Optic 01c   XS para Hombre](https://www.amazon.es/dp/B07MZHYL3L/?tag=tolees-21) con 47.30 de descuento por 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'RIP CURL Big Mama Hz Sudadera  Niños  Negro  14'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FP1LLYM/?tag=tolees-21'
+descuento: '46.73'
+titulo: 'RIP CURL Big Mama Hz Sudadera  Niños  Ne'
 ---
 
 Ahora mismo tienes [RIP CURL Big Mama Hz Sudadera  Niños  Negro  14](https://www.amazon.es/dp/B07FP1LLYM/?tag=tolees-21) a 26.63 EUR (original: 49.99 EUR) (46.73 %  de descuento) en el siguiente enlace!

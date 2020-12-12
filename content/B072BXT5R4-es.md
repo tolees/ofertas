@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Helly Hansen W Long Belfast Jacket  Mujer  White  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BXT5R4/?tag=tolees-21'
+descuento: '48.32'
+titulo: 'Helly Hansen W Long Belfast Jacket  Muje'
 ---
 
 Tienes [Helly Hansen W Long Belfast Jacket  Mujer  White  M](https://www.amazon.es/dp/B072BXT5R4/?tag=tolees-21) con un 48.32 % de descuento con precio de oferta de 82.68 EUR (original: 160 EUR) en el siguiente enlace!

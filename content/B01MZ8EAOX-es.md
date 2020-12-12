@@ -17,6 +17,9 @@ comparePrice: 169 EUR
 inStock: true
 prodname: 'DELSEY Paris U-Lite Classic 2 Maleta  79 cm  100 Liters  Rojo  Rouge '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZ8EAOX/?tag=tolees-21'
+descuento: '43.79'
+titulo: 'DELSEY Paris U-Lite Classic 2 Maleta  79'
 ---
 
 Tienes [DELSEY Paris U-Lite Classic 2 Maleta  79 cm  100 Liters  Rojo  Rouge ](https://www.amazon.es/dp/B01MZ8EAOX/?tag=tolees-21) con un 43.79 % de descuento con precio de oferta de 95 EUR (original: 169 EUR) en el siguiente enlace!

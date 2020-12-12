@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'INTEY Purificador de Aire  5 Velocidades-Limpiador de Aire  Tríple Filtración con Filtro HEPA  Compacto  Carbón Activo  Temporizador Ajustable  Elimina el 99% del Formaldehido  Microbio  Alérgeno'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MVXNKXJ/?tag=tolees-21'
+descuento: '62.00'
+titulo: 'INTEY Purificador de Aire  5 Velocidades'
 ---
 
 Está [INTEY Purificador de Aire  5 Velocidades-Limpiador de Aire  Tríple Filtración con Filtro HEPA  Compacto  Carbón Activo  Temporizador Ajustable  Elimina el 99% del Formaldehido  Microbio  Alérgeno](https://www.amazon.es/dp/B07MVXNKXJ/?tag=tolees-21) con 62.00 de descuento por 75.99 EUR (original: 199.99 EUR) en el siguiente enlace!

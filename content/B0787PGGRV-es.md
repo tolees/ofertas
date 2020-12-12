@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Columbia Meadows Shorty Omni-Heat 3D  Zapatillas de Senderismo para Mujer  Beige  Ancient Fossil  Bright Copper   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0787PGGRV/?tag=tolees-21'
+descuento: '65.98'
+titulo: 'Columbia Meadows Shorty Omni-Heat 3D  Za'
 ---
 
 Está [Columbia Meadows Shorty Omni-Heat 3D  Zapatillas de Senderismo para Mujer  Beige  Ancient Fossil  Bright Copper   37.5 EU](https://www.amazon.es/dp/B0787PGGRV/?tag=tolees-21) con 65.98 de descuento por 40.82 EUR (original: 119.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.06 EUR
 inStock: true
 prodname: 'GIPLAM 21 x 26 x 42 cm Surtido de Juguete de mar  10 Piezas  Talla única '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DY30VBM/?tag=tolees-21'
+descuento: '63.68'
+titulo: 'GIPLAM 21 x 26 x 42 cm Surtido de Juguet'
 ---
 
 Está [GIPLAM 21 x 26 x 42 cm Surtido de Juguete de mar  10 Piezas  Talla única ](https://www.amazon.es/dp/B01DY30VBM/?tag=tolees-21) con 63.68 de descuento por 12.37 EUR (original: 34.06 EUR) en el siguiente enlace!

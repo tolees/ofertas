@@ -17,6 +17,9 @@ comparePrice: 85.42 EUR
 inStock: true
 prodname: 'Polaroid IX2020 – Videocámara compacta  1080 píxeles  20 Mpx '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GFGXDH4/?tag=tolees-21'
+descuento: '34.59'
+titulo: 'Polaroid IX2020 – Videocámara compacta  '
 ---
 
 Ahora mismo tienes [Polaroid IX2020 – Videocámara compacta  1080 píxeles  20 Mpx ](https://www.amazon.es/dp/B01GFGXDH4/?tag=tolees-21) a 55.87 EUR (original: 85.42 EUR) (34.59 %  de descuento) en el siguiente enlace!

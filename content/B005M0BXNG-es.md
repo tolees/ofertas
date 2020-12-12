@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Oliphante - Coyote  Juego de Mesa en español  K0002 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005M0BXNG/?tag=tolees-21'
+descuento: '32.27'
+titulo: 'Oliphante - Coyote  Juego de Mesa en esp'
 ---
 
 Ahora mismo tienes [Oliphante - Coyote  Juego de Mesa en español  K0002 ](https://www.amazon.es/dp/B005M0BXNG/?tag=tolees-21) a 14.9 EUR (original: 22 EUR) (32.27 %  de descuento) en el siguiente enlace!

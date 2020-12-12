@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'MTNG Attitude 69360  Zapatillas para Mujer  Beige  Soft Breo Baluva Nude C43411   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQTL62K/?tag=tolees-21'
+descuento: '30.26'
+titulo: 'MTNG Attitude 69360  Zapatillas para Muj'
 ---
 
 Tienes [MTNG Attitude 69360  Zapatillas para Mujer  Beige  Soft Breo Baluva Nude C43411   40 EU](https://www.amazon.es/dp/B07DQTL62K/?tag=tolees-21) con un 30.26 % de descuento con precio de oferta de 27.89 EUR (original: 39.99 EUR) en el siguiente enlace!

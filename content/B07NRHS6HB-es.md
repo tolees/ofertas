@@ -17,6 +17,9 @@ comparePrice: 8.85 EUR
 inStock: true
 prodname: 'Gliss Long & Sublime Acondicionador para Cabello Largo de Schwarzkopf - 3 uds de 200 ml  total 600ml '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NRHS6HB/?tag=tolees-21'
+descuento: '37.18'
+titulo: 'Gliss Long & Sublime Acondicionador para'
 ---
 
 Está [Gliss Long & Sublime Acondicionador para Cabello Largo de Schwarzkopf - 3 uds de 200 ml  total 600ml ](https://www.amazon.es/dp/B07NRHS6HB/?tag=tolees-21) con 37.18 de descuento por 5.56 EUR (original: 8.85 EUR) en el siguiente enlace!

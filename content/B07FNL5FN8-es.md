@@ -17,6 +17,9 @@ comparePrice: 92.77 EUR
 inStock: true
 prodname: 'Asics Gel-Lyte Hikari  Zapatillas para Hombre  Gris  Dark Grey/Black 020   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNL5FN8/?tag=tolees-21'
+descuento: '71.73'
+titulo: 'Asics Gel-Lyte Hikari  Zapatillas para H'
 ---
 
 Ahora mismo tienes [Asics Gel-Lyte Hikari  Zapatillas para Hombre  Gris  Dark Grey/Black 020   45 EU](https://www.amazon.es/dp/B07FNL5FN8/?tag=tolees-21) a 26.23 EUR (original: 92.77 EUR) (71.73 %  de descuento) en el siguiente enlace!

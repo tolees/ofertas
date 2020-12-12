@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Campus Reporter PU Bolsa Deporte  Unisex Adulto  Ponderosa Pine/Gold/Metallic  OSFA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHJCY1L/?tag=tolees-21'
+descuento: '35.04'
+titulo: 'Puma Campus Reporter PU Bolsa Deporte  U'
 ---
 
 Ahora mismo tienes [Puma Campus Reporter PU Bolsa Deporte  Unisex Adulto  Ponderosa Pine/Gold/Metallic  OSFA](https://www.amazon.es/dp/B07JHJCY1L/?tag=tolees-21) a 25.95 EUR (original: 39.95 EUR) (35.04 %  de descuento) en el siguiente enlace!

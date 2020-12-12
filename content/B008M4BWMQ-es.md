@@ -17,6 +17,9 @@ comparePrice: 33.39 EUR
 inStock: true
 prodname: 'Clontarf Trinity Irish Whiskey  1 x 0.6 l '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008M4BWMQ/?tag=tolees-21'
+descuento: '43.28'
+titulo: 'Clontarf Trinity Irish Whiskey  1 x 0.6 '
 ---
 
 Tienes [Clontarf Trinity Irish Whiskey  1 x 0.6 l ](https://www.amazon.es/dp/B008M4BWMQ/?tag=tolees-21) con un 43.28 % de descuento con precio de oferta de 18.94 EUR (original: 33.39 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'adidas Tiro 19 Camiseta Entrenamiento  Hombre  Negro  Black/White   3XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K28BKD3/?tag=tolees-21'
+descuento: '42.55'
+titulo: 'adidas Tiro 19 Camiseta Entrenamiento  H'
 ---
 
 Ahora mismo tienes [adidas Tiro 19 Camiseta Entrenamiento  Hombre  Negro  Black/White   3XL](https://www.amazon.es/dp/B07K28BKD3/?tag=tolees-21) a 22.95 EUR (original: 39.95 EUR) (42.55 %  de descuento) en el siguiente enlace!

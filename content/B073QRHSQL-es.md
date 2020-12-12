@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'find. Textured Zip Through  Cazadora de Punto Hombre  Negro  Schwarz   56  Talla del fabricante: XX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QRHSQL/?tag=tolees-21'
+descuento: '58.76'
+titulo: 'find. Textured Zip Through  Cazadora de '
 ---
 
 Está [find. Textured Zip Through  Cazadora de Punto Hombre  Negro  Schwarz   56  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B073QRHSQL/?tag=tolees-21) con 58.76 de descuento por 18.56 EUR (original: 45 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 208.69 EUR
 inStock: true
 prodname: 'MC Racing 12 Silla de Gaming/Oficina/Escritorio con Asiento Deportivo  Poliéster  Negro y Naranja  58x69x125 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZILNRA/?tag=tolees-21'
+descuento: '37.87'
+titulo: 'MC Racing 12 Silla de Gaming/Oficina/Esc'
 ---
 
 Está [MC Racing 12 Silla de Gaming/Oficina/Escritorio con Asiento Deportivo  Poliéster  Negro y Naranja  58x69x125 cm](https://www.amazon.es/dp/B01LZILNRA/?tag=tolees-21) con 37.87 de descuento por 129.66 EUR (original: 208.69 EUR) en el siguiente enlace!

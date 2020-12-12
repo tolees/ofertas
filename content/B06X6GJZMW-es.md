@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Tamaris 25100  Botas para Mujer  Negro  Black   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X6GJZMW/?tag=tolees-21'
+descuento: '63.22'
+titulo: 'Tamaris 25100  Botas para Mujer  Negro  '
 ---
 
 Tienes [Tamaris 25100  Botas para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B06X6GJZMW/?tag=tolees-21) con un 63.22 % de descuento con precio de oferta de 18.37 EUR (original: 49.95 EUR) en el siguiente enlace!

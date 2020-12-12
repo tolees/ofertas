@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Drirelease Graphic tee Camiseta  Hombre  Gris  Light Gray Heather   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0786RDRL6/?tag=tolees-21'
+descuento: '39.10'
+titulo: 'Puma Drirelease Graphic tee Camiseta  Ho'
 ---
 
 Tienes [Puma Drirelease Graphic tee Camiseta  Hombre  Gris  Light Gray Heather   L](https://www.amazon.es/dp/B0786RDRL6/?tag=tolees-21) con un 39.10 % de descuento con precio de oferta de 24.33 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance Fuel Core 5000  Zapatillas de Running para Hombre  Negro Magnet/White BW Black  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075XM6LZY/?tag=tolees-21'
+descuento: '44.44'
+titulo: 'New Balance Fuel Core 5000  Zapatillas d'
 ---
 
 Tienes [New Balance Fuel Core 5000  Zapatillas de Running para Hombre  Negro Magnet/White BW Black  43 EU](https://www.amazon.es/dp/B075XM6LZY/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 50 EUR (original: 90 EUR) en el siguiente enlace!

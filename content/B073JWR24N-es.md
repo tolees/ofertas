@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Reebok Astroride Duo Edge  Zapatillas de Running para Hombre  Azul  Smoky Indigo/Energy Orange/White/Alloy   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073JWR24N/?tag=tolees-21'
+descuento: '48.78'
+titulo: 'Reebok Astroride Duo Edge  Zapatillas de'
 ---
 
 Está [Reebok Astroride Duo Edge  Zapatillas de Running para Hombre  Azul  Smoky Indigo/Energy Orange/White/Alloy   42 EU](https://www.amazon.es/dp/B073JWR24N/?tag=tolees-21) con 48.78 de descuento por 35.83 EUR (original: 69.95 EUR) en el siguiente enlace!

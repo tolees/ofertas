@@ -17,6 +17,9 @@ comparePrice: 399.95 EUR
 inStock: true
 prodname: 'Bose SoundTouch 20 Serie III  - Altavoz Inalámbrico con WiFi y Bluetooth  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0117RGPV2/?tag=tolees-21'
+descuento: '26.91'
+titulo: 'Bose SoundTouch 20 Serie III  - Altavoz '
 ---
 
 Ahora mismo tienes [Bose SoundTouch 20 Serie III  - Altavoz Inalámbrico con WiFi y Bluetooth  Blanco](https://www.amazon.es/dp/B0117RGPV2/?tag=tolees-21) a 292.33 EUR (original: 399.95 EUR) (26.91 %  de descuento) en el siguiente enlace!

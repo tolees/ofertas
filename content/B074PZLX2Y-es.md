@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Osram Smart Pulsador  Blanco  Lote de 1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074PZLX2Y/?tag=tolees-21'
+descuento: '31.99'
+titulo: 'Osram Smart Pulsador  Blanco  Lote de 1'
 ---
 
 Está [Osram Smart Pulsador  Blanco  Lote de 1](https://www.amazon.es/dp/B074PZLX2Y/?tag=tolees-21) con 31.99 de descuento por 34 EUR (original: 49.99 EUR) en el siguiente enlace!

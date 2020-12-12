@@ -17,6 +17,9 @@ comparePrice: 424.99 EUR
 inStock: true
 prodname: 'Philips Serie 2000 HD8652/51 - Cafetera Súper Automática  2 Bebidas de Café  Jarra de Leche Externa  Molinillo Ceramico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CJOTDPC/?tag=tolees-21'
+descuento: '43.91'
+titulo: 'Philips Serie 2000 HD8652/51 - Cafetera '
 ---
 
 Está [Philips Serie 2000 HD8652/51 - Cafetera Súper Automática  2 Bebidas de Café  Jarra de Leche Externa  Molinillo Ceramico](https://www.amazon.es/dp/B01CJOTDPC/?tag=tolees-21) con 43.91 de descuento por 238.39 EUR (original: 424.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Sony DSX-A212UI - Receptor Multimedia de Coche  Extra Bass  4X 55 W  Ecualizador de 10 Bandas  función Karaoke  USB  AOA 2.0  MP3 y FLAC  Interfaz Verde   Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074DXK5NL/?tag=tolees-21'
+descuento: '33.21'
+titulo: 'Sony DSX-A212UI - Receptor Multimedia de'
 ---
 
 Está [Sony DSX-A212UI - Receptor Multimedia de Coche  Extra Bass  4X 55 W  Ecualizador de 10 Bandas  función Karaoke  USB  AOA 2.0  MP3 y FLAC  Interfaz Verde   Color Negro](https://www.amazon.es/dp/B074DXK5NL/?tag=tolees-21) con 33.21 de descuento por 46.75 EUR (original: 70 EUR) en el siguiente enlace!

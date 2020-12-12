@@ -17,6 +17,9 @@ comparePrice: 2788 EUR
 inStock: true
 prodname: 'Campagnolo Bora Ultra Dark 50 - Set de ruedas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OIRU7TA/?tag=tolees-21'
+descuento: '32.47'
+titulo: 'Campagnolo Bora Ultra Dark 50 - Set de r'
 ---
 
 Está [Campagnolo Bora Ultra Dark 50 - Set de ruedas](https://www.amazon.es/dp/B00OIRU7TA/?tag=tolees-21) con 32.47 de descuento por 1882.71 EUR (original: 2788 EUR) en el siguiente enlace!

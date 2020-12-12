@@ -17,6 +17,9 @@ comparePrice: 77 EUR
 inStock: true
 prodname: 'D Issey Colonia - 100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017RBPL0S/?tag=tolees-21'
+descuento: '53.64'
+titulo: 'D Issey Colonia - 100 ml'
 ---
 
 Ahora mismo tienes [D Issey Colonia - 100 ml](https://www.amazon.es/dp/B017RBPL0S/?tag=tolees-21) a 35.7 EUR (original: 77 EUR) (53.64 %  de descuento) en el siguiente enlace!

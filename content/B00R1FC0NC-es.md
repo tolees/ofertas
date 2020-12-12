@@ -17,6 +17,9 @@ comparePrice: 24.65 EUR
 inStock: true
 prodname: 'MSV Set Ceramica 3 Piezas Taupe  16.5x7x7 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00R1FC0NC/?tag=tolees-21'
+descuento: '51.36'
+titulo: 'MSV Set Ceramica 3 Piezas Taupe  16.5x7x'
 ---
 
 Está [MSV Set Ceramica 3 Piezas Taupe  16.5x7x7 cm](https://www.amazon.es/dp/B00R1FC0NC/?tag=tolees-21) con 51.36 de descuento por 11.99 EUR (original: 24.65 EUR) en el siguiente enlace!

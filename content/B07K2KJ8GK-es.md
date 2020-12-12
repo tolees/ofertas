@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Galaxy 4  Zapatillas de Running para Mujer  Rosso Core Black/Real Magenta  36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2KJ8GK/?tag=tolees-21'
+descuento: '44.54'
+titulo: 'adidas Galaxy 4  Zapatillas de Running p'
 ---
 
 Ahora mismo tienes [adidas Galaxy 4  Zapatillas de Running para Mujer  Rosso Core Black/Real Magenta  36.5 EU](https://www.amazon.es/dp/B07K2KJ8GK/?tag=tolees-21) a 27.7 EUR (original: 49.95 EUR) (44.54 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Lacoste Sport L1230  Polo para Hombre  Azul  Neottia Ad0  Medium  Talla del Fabricante: 4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGC7T5J/?tag=tolees-21'
+descuento: '44.06'
+titulo: 'Lacoste Sport L1230  Polo para Hombre  A'
 ---
 
 Está [Lacoste Sport L1230  Polo para Hombre  Azul  Neottia Ad0  Medium  Talla del Fabricante: 4 ](https://www.amazon.es/dp/B07JGC7T5J/?tag=tolees-21) con 44.06 de descuento por 44.19 EUR (original: 79 EUR) en el siguiente enlace!

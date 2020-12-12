@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma Axis Plus 90s  Zapatillas de Deporte Unisex Adulto  Negro Black  40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGGLNR9/?tag=tolees-21'
+descuento: '61.68'
+titulo: 'Puma Axis Plus 90s  Zapatillas de Deport'
 ---
 
 Está [Puma Axis Plus 90s  Zapatillas de Deporte Unisex Adulto  Negro Black  40.5 EU](https://www.amazon.es/dp/B07JGGLNR9/?tag=tolees-21) con 61.68 de descuento por 24.89 EUR (original: 64.95 EUR) en el siguiente enlace!

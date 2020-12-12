@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Devil May Cry 5 Lenticular Edition  Edición Exclusiva Amazon '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCTSWLG/?tag=tolees-21'
+descuento: '33.49'
+titulo: 'Devil May Cry 5 Lenticular Edition  Edic'
 ---
 
 Está [Devil May Cry 5 Lenticular Edition  Edición Exclusiva Amazon ](https://www.amazon.es/dp/B07KCTSWLG/?tag=tolees-21) con 33.49 de descuento por 39.9 EUR (original: 59.99 EUR) en el siguiente enlace!

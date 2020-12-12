@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'La Llegada [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5GKI55/?tag=tolees-21'
+descuento: '49.95'
+titulo: 'La Llegada [Blu-ray]'
 ---
 
 Está [La Llegada [Blu-ray]](https://www.amazon.es/dp/B01N5GKI55/?tag=tolees-21) con 49.95 de descuento por 5 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma 365 FF CT  Zapatillas de Deporte Interior para Hombre  Rojo  Red Blast White Black   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCBYZ44/?tag=tolees-21'
+descuento: '62.00'
+titulo: 'Puma 365 FF CT  Zapatillas de Deporte In'
 ---
 
 Tienes [Puma 365 FF CT  Zapatillas de Deporte Interior para Hombre  Rojo  Red Blast White Black   46 EU](https://www.amazon.es/dp/B07DCBYZ44/?tag=tolees-21) con un 62.00 % de descuento con precio de oferta de 22.78 EUR (original: 59.95 EUR) en el siguiente enlace!

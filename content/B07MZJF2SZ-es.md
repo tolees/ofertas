@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Superdry Parachute Cargo Short Bañador  Negro  Washed Black AFB   42 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZJF2SZ/?tag=tolees-21'
+descuento: '47.78'
+titulo: 'Superdry Parachute Cargo Short Bañador  '
 ---
 
 Tienes [Superdry Parachute Cargo Short Bañador  Negro  Washed Black AFB   42 para Hombre](https://www.amazon.es/dp/B07MZJF2SZ/?tag=tolees-21) con un 47.78 % de descuento con precio de oferta de 46.95 EUR (original: 89.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 239 EUR
 inStock: true
 prodname: 'Napapijri Rainforest Camou  Chaqueta   Fantasy F84   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079JXZ4FW/?tag=tolees-21'
+descuento: '60.45'
+titulo: 'Napapijri Rainforest Camou  Chaqueta   F'
 ---
 
 Ahora mismo tienes [Napapijri Rainforest Camou  Chaqueta   Fantasy F84   Small para Hombre](https://www.amazon.es/dp/B079JXZ4FW/?tag=tolees-21) a 94.53 EUR (original: 239 EUR) (60.45 %  de descuento) en el siguiente enlace!

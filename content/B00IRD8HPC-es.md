@@ -17,6 +17,9 @@ comparePrice: 41.91 EUR
 inStock: true
 prodname: 'Senscience Champú - 1000 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IRD8HPC/?tag=tolees-21'
+descuento: '59.03'
+titulo: 'Senscience Champú - 1000 ml'
 ---
 
 Ahora mismo tienes [Senscience Champú - 1000 ml](https://www.amazon.es/dp/B00IRD8HPC/?tag=tolees-21) a 17.17 EUR (original: 41.91 EUR) (59.03 %  de descuento) en el siguiente enlace!

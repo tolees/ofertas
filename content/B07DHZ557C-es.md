@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Sweater L/s  suéter para Hombre  Azul  Avio Blue 67r  XX-Large  Talla del Fabricante: EL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHZ557C/?tag=tolees-21'
+descuento: '66.17'
+titulo: 'United Colors of Benetton Sweater L/s  s'
 ---
 
 Tienes [United Colors of Benetton Sweater L/s  suéter para Hombre  Azul  Avio Blue 67r  XX-Large  Talla del Fabricante: EL ](https://www.amazon.es/dp/B07DHZ557C/?tag=tolees-21) con un 66.17 % de descuento con precio de oferta de 20.28 EUR (original: 59.95 EUR) en el siguiente enlace!

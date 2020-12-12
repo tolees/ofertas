@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Adidas Aerobounce ST w  Zapatillas de Trail Running para Mujer  Azul  Aeroaz/Azutiz/Azutra 000   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077SY18PH/?tag=tolees-21'
+descuento: '70.51'
+titulo: 'Adidas Aerobounce ST w  Zapatillas de Tr'
 ---
 
 Ahora mismo tienes [Adidas Aerobounce ST w  Zapatillas de Trail Running para Mujer  Azul  Aeroaz/Azutiz/Azutra 000   36 EU](https://www.amazon.es/dp/B077SY18PH/?tag=tolees-21) a 29.48 EUR (original: 99.95 EUR) (70.51 %  de descuento) en el siguiente enlace!

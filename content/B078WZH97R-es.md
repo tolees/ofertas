@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 111776  Pantalones Cortos para Hombre  Azul  Mazarine 23233  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WZH97R/?tag=tolees-21'
+descuento: '62.53'
+titulo: 'Emporio Armani Underwear 111776  Pantalo'
 ---
 
 Está [Emporio Armani Underwear 111776  Pantalones Cortos para Hombre  Azul  Mazarine 23233  X-Large](https://www.amazon.es/dp/B078WZH97R/?tag=tolees-21) con 62.53 de descuento por 11.24 EUR (original: 30 EUR) en el siguiente enlace!

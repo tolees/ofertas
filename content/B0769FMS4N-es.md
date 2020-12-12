@@ -17,6 +17,9 @@ comparePrice: 50.6 EUR
 inStock: true
 prodname: 'SEWOR reloj para Personal médico colgante reloj de bolsillo - con profundo azul marca piel caja gran regalo  Oro rosa '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0769FMS4N/?tag=tolees-21'
+descuento: '59.78'
+titulo: 'SEWOR reloj para Personal médico colgant'
 ---
 
 Ahora mismo tienes [SEWOR reloj para Personal médico colgante reloj de bolsillo - con profundo azul marca piel caja gran regalo  Oro rosa ](https://www.amazon.es/dp/B0769FMS4N/?tag=tolees-21) a 20.35 EUR (original: 50.6 EUR) (59.78 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Pepe Jeans Nash JR  Suéter para Niños  Gris  Dk Grey 975   3 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RT2S1C/?tag=tolees-21'
+descuento: '69.22'
+titulo: 'Pepe Jeans Nash JR  Suéter para Niños  G'
 ---
 
 Está [Pepe Jeans Nash JR  Suéter para Niños  Gris  Dk Grey 975   3 años](https://www.amazon.es/dp/B079RT2S1C/?tag=tolees-21) con 69.22 de descuento por 16.93 EUR (original: 55 EUR) en el siguiente enlace!

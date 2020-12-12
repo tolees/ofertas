@@ -17,6 +17,9 @@ comparePrice: 51.5 EUR
 inStock: true
 prodname: 'Jean Paul Gaultier  Agua de colonia para hombres - 40 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075C9LGM6/?tag=tolees-21'
+descuento: '41.84'
+titulo: 'Jean Paul Gaultier  Agua de colonia para'
 ---
 
 Tienes [Jean Paul Gaultier  Agua de colonia para hombres - 40 ml.](https://www.amazon.es/dp/B075C9LGM6/?tag=tolees-21) con un 41.84 % de descuento con precio de oferta de 29.95 EUR (original: 51.5 EUR) en el siguiente enlace!

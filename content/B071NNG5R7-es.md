@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Creative Labs Muvo 2c - Altavoz portátil con Bluetooth  Color Naranja'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NNG5R7/?tag=tolees-21'
+descuento: '75.12'
+titulo: 'Creative Labs Muvo 2c - Altavoz portátil'
 ---
 
 Ahora mismo tienes [Creative Labs Muvo 2c - Altavoz portátil con Bluetooth  Color Naranja](https://www.amazon.es/dp/B071NNG5R7/?tag=tolees-21) a 9.95 EUR (original: 39.99 EUR) (75.12 %  de descuento) en el siguiente enlace!

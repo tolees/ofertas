@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Adidas VL Court 2.0  Zapatillas de Deporte para Hombre  Azuosc/Gritre 000  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9BTZ3B/?tag=tolees-21'
+descuento: '61.97'
+titulo: 'Adidas VL Court 2.0  Zapatillas de Depor'
 ---
 
 Está [Adidas VL Court 2.0  Zapatillas de Deporte para Hombre  Azuosc/Gritre 000  44 EU](https://www.amazon.es/dp/B07M9BTZ3B/?tag=tolees-21) con 61.97 de descuento por 24.7 EUR (original: 64.95 EUR) en el siguiente enlace!

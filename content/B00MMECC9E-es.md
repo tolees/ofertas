@@ -17,6 +17,9 @@ comparePrice: 207.99 EUR
 inStock: true
 prodname: 'Ultrasport Cama elástica de jardín Jumper Set de Trampolin  Incl. Superficie de Salto  Seguridad  Postes Acolchados para la Red Y Revestimiento para Borde  hasta 120Kg  Unisex  Verde  251 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MMECC9E/?tag=tolees-21'
+descuento: '42.31'
+titulo: 'Ultrasport Cama elástica de jardín Jumpe'
 ---
 
 Tienes [Ultrasport Cama elástica de jardín Jumper Set de Trampolin  Incl. Superficie de Salto  Seguridad  Postes Acolchados para la Red Y Revestimiento para Borde  hasta 120Kg  Unisex  Verde  251 cm](https://www.amazon.es/dp/B00MMECC9E/?tag=tolees-21) con un 42.31 % de descuento con precio de oferta de 119.99 EUR (original: 207.99 EUR) en el siguiente enlace!

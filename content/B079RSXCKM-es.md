@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Lucia PL303139  Blusa para Mujer  Negro  Black 999   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RSXCKM/?tag=tolees-21'
+descuento: '79.41'
+titulo: 'Pepe Jeans Lucia PL303139  Blusa para Mu'
 ---
 
 Está [Pepe Jeans Lucia PL303139  Blusa para Mujer  Negro  Black 999   Large](https://www.amazon.es/dp/B079RSXCKM/?tag=tolees-21) con 79.41 de descuento por 14.39 EUR (original: 69.9 EUR) en el siguiente enlace!

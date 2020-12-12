@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 22435-31  Zapatos de Tacón para Mujer  Marrón  Muscat Multi 338   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D72XVTR/?tag=tolees-21'
+descuento: '74.54'
+titulo: 'Marco Tozzi 22435-31  Zapatos de Tacón p'
 ---
 
 Está [Marco Tozzi 22435-31  Zapatos de Tacón para Mujer  Marrón  Muscat Multi 338   38 EU](https://www.amazon.es/dp/B07D72XVTR/?tag=tolees-21) con 74.54 de descuento por 10.17 EUR (original: 39.95 EUR) en el siguiente enlace!

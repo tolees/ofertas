@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Renberg Pk1180 Set 12 Mugs  Multicolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H8JF3CJ/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Renberg Pk1180 Set 12 Mugs  Multicolor'
 ---
 
 Tienes [Renberg Pk1180 Set 12 Mugs  Multicolor](https://www.amazon.es/dp/B07H8JF3CJ/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Pepe Jeans Aviary  Chaqueta para Hombre  Azul  XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C3TPT93/?tag=tolees-21'
+descuento: '63.33'
+titulo: 'Pepe Jeans Aviary  Chaqueta para Hombre '
 ---
 
 Está [Pepe Jeans Aviary  Chaqueta para Hombre  Azul  XX-Large](https://www.amazon.es/dp/B07C3TPT93/?tag=tolees-21) con 63.33 de descuento por 44 EUR (original: 120 EUR) en el siguiente enlace!

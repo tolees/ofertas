@@ -17,6 +17,9 @@ comparePrice: 64.99 EUR
 inStock: true
 prodname: 'Columbia Silver Ridge 2.0 Manga Larga  Mujer  Blanco  White   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRMDBGR/?tag=tolees-21'
+descuento: '53.85'
+titulo: 'Columbia Silver Ridge 2.0 Manga Larga  M'
 ---
 
 Está [Columbia Silver Ridge 2.0 Manga Larga  Mujer  Blanco  White   XL](https://www.amazon.es/dp/B07KRMDBGR/?tag=tolees-21) con 53.85 de descuento por 29.99 EUR (original: 64.99 EUR) en el siguiente enlace!

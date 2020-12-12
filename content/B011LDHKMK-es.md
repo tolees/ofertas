@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'adidas Superstar J  Zapatillas Unisex Niños  Blanco Footwear White/Metallic Silver-Solid 0  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011LDHKMK/?tag=tolees-21'
+descuento: '34.22'
+titulo: 'adidas Superstar J  Zapatillas Unisex Ni'
 ---
 
 Ahora mismo tienes [adidas Superstar J  Zapatillas Unisex Niños  Blanco Footwear White/Metallic Silver-Solid 0  38 EU](https://www.amazon.es/dp/B011LDHKMK/?tag=tolees-21) a 52.56 EUR (original: 79.9 EUR) (34.22 %  de descuento) en el siguiente enlace!

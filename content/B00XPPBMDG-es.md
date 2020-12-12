@@ -17,6 +17,9 @@ comparePrice: 12.48 EUR
 inStock: true
 prodname: 'Intelishake - Multi-Compartimento Proteínas / Entrenamiento / Jugo Botella  2 x 500ml  agitadora con filtro de carbón para Deportes  Ejercicio y Gimnasio - bosque negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XPPBMDG/?tag=tolees-21'
+descuento: '60.02'
+titulo: 'Intelishake - Multi-Compartimento Proteí'
 ---
 
 Tienes [Intelishake - Multi-Compartimento Proteínas / Entrenamiento / Jugo Botella  2 x 500ml  agitadora con filtro de carbón para Deportes  Ejercicio y Gimnasio - bosque negro](https://www.amazon.es/dp/B00XPPBMDG/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 4.99 EUR (original: 12.48 EUR) en el siguiente enlace!

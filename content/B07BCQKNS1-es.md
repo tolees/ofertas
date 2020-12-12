@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Cabrini Cove  Botas de Nieve para Mujer  Gris  Khaki   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BCQKNS1/?tag=tolees-21'
+descuento: '76.88'
+titulo: 'Clarks Cabrini Cove  Botas de Nieve para'
 ---
 
 Ahora mismo tienes [Clarks Cabrini Cove  Botas de Nieve para Mujer  Gris  Khaki   39.5 EU](https://www.amazon.es/dp/B07BCQKNS1/?tag=tolees-21) a 23.11 EUR (original: 99.95 EUR) (76.88 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 9.82 EUR
 inStock: true
 prodname: 'TRULIL 2 Unidades Mini Auto Cenicero con Tapa Acero Inoxidable Cenicero portátil con Llavero Encendedor de cenicero portátil con pitillera Redonda de Acero Inoxidable para Exteriores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L8BSYR7/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'TRULIL 2 Unidades Mini Auto Cenicero con'
 ---
 
 Está [TRULIL 2 Unidades Mini Auto Cenicero con Tapa Acero Inoxidable Cenicero portátil con Llavero Encendedor de cenicero portátil con pitillera Redonda de Acero Inoxidable para Exteriores](https://www.amazon.es/dp/B07L8BSYR7/?tag=tolees-21) con 40.02 de descuento por 5.89 EUR (original: 9.82 EUR) en el siguiente enlace!

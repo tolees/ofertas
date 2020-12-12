@@ -17,6 +17,9 @@ comparePrice: 180.93 EUR
 inStock: true
 prodname: 'Lorus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero RT396FX9'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075ZP8CFM/?tag=tolees-21'
+descuento: '62.27'
+titulo: 'Lorus Reloj Cronógrafo para Hombre de Cu'
 ---
 
 Ahora mismo tienes [Lorus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero RT396FX9](https://www.amazon.es/dp/B075ZP8CFM/?tag=tolees-21) a 68.26 EUR (original: 180.93 EUR) (62.27 %  de descuento) en el siguiente enlace!

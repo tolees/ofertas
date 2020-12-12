@@ -17,6 +17,9 @@ comparePrice: 9.18 EUR
 inStock: true
 prodname: 'The Canton Godfather. Gangster Para Un Pequeño Milagro [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21'
+descuento: '45.53'
+titulo: 'The Canton Godfather. Gangster Para Un P'
 ---
 
 Ahora mismo tienes [The Canton Godfather. Gangster Para Un Pequeño Milagro [Blu-ray]](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21) a 5 EUR (original: 9.18 EUR) (45.53 %  de descuento) en el siguiente enlace!

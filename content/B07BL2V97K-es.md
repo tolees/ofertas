@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance Solvi  Zapatillas de Running para Mujer  Morado  Voltage Violet/Black Rz1   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL2V97K/?tag=tolees-21'
+descuento: '69.30'
+titulo: 'New Balance Solvi  Zapatillas de Running'
 ---
 
 Está [New Balance Solvi  Zapatillas de Running para Mujer  Morado  Voltage Violet/Black Rz1   37.5 EU](https://www.amazon.es/dp/B07BL2V97K/?tag=tolees-21) con 69.30 de descuento por 33.77 EUR (original: 110 EUR) en el siguiente enlace!

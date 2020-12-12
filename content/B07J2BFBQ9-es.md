@@ -17,6 +17,9 @@ comparePrice: 249 EUR
 inStock: true
 prodname: 'Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3976'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J2BFBQ9/?tag=tolees-21'
+descuento: '50.75'
+titulo: 'Michael Kors Reloj Analógico para Mujer '
 ---
 
 Tienes [Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3976](https://www.amazon.es/dp/B07J2BFBQ9/?tag=tolees-21) con un 50.75 % de descuento con precio de oferta de 122.63 EUR (original: 249 EUR) en el siguiente enlace!

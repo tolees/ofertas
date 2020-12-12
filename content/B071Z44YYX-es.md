@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Asics T7B8N4890  Zapatillas de Running para Mujer  Morado  Blue Purple/Black/Flash Coral   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071Z44YYX/?tag=tolees-21'
+descuento: '58.18'
+titulo: 'Asics T7B8N4890  Zapatillas de Running p'
 ---
 
 Está [Asics T7B8N4890  Zapatillas de Running para Mujer  Morado  Blue Purple/Black/Flash Coral   36 EU](https://www.amazon.es/dp/B071Z44YYX/?tag=tolees-21) con 58.18 de descuento por 58.55 EUR (original: 140 EUR) en el siguiente enlace!

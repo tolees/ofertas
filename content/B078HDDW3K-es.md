@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Springfield Camiseta Manga Corta Camiseta  Mujer  Azul  Azul Marino   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HDDW3K/?tag=tolees-21'
+descuento: '63.54'
+titulo: 'Springfield Camiseta Manga Corta Camiset'
 ---
 
 Tienes [Springfield Camiseta Manga Corta Camiseta  Mujer  Azul  Azul Marino   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B078HDDW3K/?tag=tolees-21) con un 63.54 % de descuento con precio de oferta de 5.83 EUR (original: 15.99 EUR) en el siguiente enlace!

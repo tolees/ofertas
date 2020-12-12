@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Dickies Cornwell Abrigo Impermeable  Verde  Olive Green   XX-Large  Tamaño del Fabricante:XXLge  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013RCUB3S/?tag=tolees-21'
+descuento: '77.77'
+titulo: 'Dickies Cornwell Abrigo Impermeable  Ver'
 ---
 
 Está [Dickies Cornwell Abrigo Impermeable  Verde  Olive Green   XX-Large  Tamaño del Fabricante:XXLge  para Hombre](https://www.amazon.es/dp/B013RCUB3S/?tag=tolees-21) con 77.77 de descuento por 17.56 EUR (original: 79 EUR) en el siguiente enlace!

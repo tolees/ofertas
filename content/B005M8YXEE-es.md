@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Umbra 299330-491 Colgador de joyas Trigem Nickel'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005M8YXEE/?tag=tolees-21'
+descuento: '31.90'
+titulo: 'Umbra 299330-491 Colgador de joyas Trige'
 ---
 
 Está [Umbra 299330-491 Colgador de joyas Trigem Nickel](https://www.amazon.es/dp/B005M8YXEE/?tag=tolees-21) con 31.90 de descuento por 20.43 EUR (original: 30 EUR) en el siguiente enlace!

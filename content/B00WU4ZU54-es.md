@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'KangaROOS Woodhollow Light  Botas de Nieve Unisex Adulto   Negro 500   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WU4ZU54/?tag=tolees-21'
+descuento: '71.83'
+titulo: 'KangaROOS Woodhollow Light  Botas de Nie'
 ---
 
 Está [KangaROOS Woodhollow Light  Botas de Nieve Unisex Adulto   Negro 500   42 EU](https://www.amazon.es/dp/B00WU4ZU54/?tag=tolees-21) con 71.83 de descuento por 25.34 EUR (original: 89.95 EUR) en el siguiente enlace!

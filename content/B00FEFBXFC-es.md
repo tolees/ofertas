@@ -17,6 +17,9 @@ comparePrice: 9.95 EUR
 inStock: true
 prodname: 'Medidor de pH 3 en 1 Bestway'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FEFBXFC/?tag=tolees-21'
+descuento: '50.75'
+titulo: 'Medidor de pH 3 en 1 Bestway'
 ---
 
 Tienes [Medidor de pH 3 en 1 Bestway](https://www.amazon.es/dp/B00FEFBXFC/?tag=tolees-21) con un 50.75 % de descuento con precio de oferta de 4.9 EUR (original: 9.95 EUR) en el siguiente enlace!

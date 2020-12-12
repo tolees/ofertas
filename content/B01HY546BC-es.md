@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 410  Zapatillas de Running Unisex Adulto   Grey 030   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HY546BC/?tag=tolees-21'
+descuento: '66.96'
+titulo: 'New Balance 410  Zapatillas de Running U'
 ---
 
 Está [New Balance 410  Zapatillas de Running Unisex Adulto   Grey 030   37 EU](https://www.amazon.es/dp/B01HY546BC/?tag=tolees-21) con 66.96 de descuento por 29.74 EUR (original: 90 EUR) en el siguiente enlace!

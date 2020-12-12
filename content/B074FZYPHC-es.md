@@ -17,6 +17,9 @@ comparePrice: 19 EUR
 inStock: true
 prodname: 'Pendientes de mujer finos de 18 K en oro blanco con circonita'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074FZYPHC/?tag=tolees-21'
+descuento: '48.42'
+titulo: 'Pendientes de mujer finos de 18 K en oro'
 ---
 
 Ahora mismo tienes [Pendientes de mujer finos de 18 K en oro blanco con circonita](https://www.amazon.es/dp/B074FZYPHC/?tag=tolees-21) a 9.8 EUR (original: 19 EUR) (48.42 %  de descuento) en el siguiente enlace!

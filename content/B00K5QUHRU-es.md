@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Wrangler Regular Fit Straight Leg Vaqueros  Azul  Stonewash   35W / 34L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00K5QUHRU/?tag=tolees-21'
+descuento: '51.47'
+titulo: 'Wrangler Regular Fit Straight Leg Vaquer'
 ---
 
 Ahora mismo tienes [Wrangler Regular Fit Straight Leg Vaqueros  Azul  Stonewash   35W / 34L para Hombre](https://www.amazon.es/dp/B00K5QUHRU/?tag=tolees-21) a 33.95 EUR (original: 69.95 EUR) (51.47 %  de descuento) en el siguiente enlace!

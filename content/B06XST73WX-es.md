@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY Body Abierto Moldeador Mujer  Beige  Pastel Rose Tan   8  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XST73WX/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'IRIS & LILLY Body Abierto Moldeador Muje'
 ---
 
 Está [IRIS & LILLY Body Abierto Moldeador Mujer  Beige  Pastel Rose Tan   8  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B06XST73WX/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

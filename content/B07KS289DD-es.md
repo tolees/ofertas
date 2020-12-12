@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'hummel First Seamless Leggings  Mujer  Negro  XS/S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KS289DD/?tag=tolees-21'
+descuento: '54.56'
+titulo: 'hummel First Seamless Leggings  Mujer  N'
 ---
 
 Ahora mismo tienes [hummel First Seamless Leggings  Mujer  Negro  XS/S](https://www.amazon.es/dp/B07KS289DD/?tag=tolees-21) a 13.61 EUR (original: 29.95 EUR) (54.56 %  de descuento) en el siguiente enlace!

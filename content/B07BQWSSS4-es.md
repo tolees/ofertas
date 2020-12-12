@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'New Balance Fuel Core NERGIZE  Zapatillas Deportivas para Interior para Mujer  Rosa  Cashmere/Munsell Pearlized White Hp1   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQWSSS4/?tag=tolees-21'
+descuento: '43.33'
+titulo: 'New Balance Fuel Core NERGIZE  Zapatilla'
 ---
 
 Ahora mismo tienes [New Balance Fuel Core NERGIZE  Zapatillas Deportivas para Interior para Mujer  Rosa  Cashmere/Munsell Pearlized White Hp1   37 EU](https://www.amazon.es/dp/B07BQWSSS4/?tag=tolees-21) a 42.5 EUR (original: 75 EUR) (43.33 %  de descuento) en el siguiente enlace!

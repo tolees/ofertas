@@ -17,6 +17,9 @@ comparePrice: 58.88 EUR
 inStock: true
 prodname: 'Reebok Royal Complete CLN  Zapatillas de Deporte para Hombre   Collegiate Burgundy/Tin Grey/White 000   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FMFZNM1/?tag=tolees-21'
+descuento: '57.46'
+titulo: 'Reebok Royal Complete CLN  Zapatillas de'
 ---
 
 Ahora mismo tienes [Reebok Royal Complete CLN  Zapatillas de Deporte para Hombre   Collegiate Burgundy/Tin Grey/White 000   44 EU](https://www.amazon.es/dp/B07FMFZNM1/?tag=tolees-21) a 25.05 EUR (original: 58.88 EUR) (57.46 %  de descuento) en el siguiente enlace!

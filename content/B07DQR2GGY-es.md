@@ -17,6 +17,9 @@ comparePrice: 76.46 EUR
 inStock: true
 prodname: 'adidas Supernova JKT Jacket  Hombre  Black/Colored Heather  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQR2GGY/?tag=tolees-21'
+descuento: '44.44'
+titulo: 'adidas Supernova JKT Jacket  Hombre  Bla'
 ---
 
 Tienes [adidas Supernova JKT Jacket  Hombre  Black/Colored Heather  XS](https://www.amazon.es/dp/B07DQR2GGY/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 42.48 EUR (original: 76.46 EUR) en el siguiente enlace!

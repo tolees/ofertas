@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance Flash V2  Zapatillas de Running para Hombre  Azul  Blue/Black   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077QNK9BP/?tag=tolees-21'
+descuento: '45.01'
+titulo: 'New Balance Flash V2  Zapatillas de Runn'
 ---
 
 Ahora mismo tienes [New Balance Flash V2  Zapatillas de Running para Hombre  Azul  Blue/Black   41.5 EU](https://www.amazon.es/dp/B077QNK9BP/?tag=tolees-21) a 38.49 EUR (original: 70 EUR) (45.01 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 220 EUR
 inStock: true
 prodname: 'Marmot Minimalist Chaqueta Hard Shell Impermeable con Capucha Ajustable  Mujer  Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WGK39M/?tag=tolees-21'
+descuento: '48.67'
+titulo: 'Marmot Minimalist Chaqueta Hard Shell Im'
 ---
 
 Tienes [Marmot Minimalist Chaqueta Hard Shell Impermeable con Capucha Ajustable  Mujer  Negro  L](https://www.amazon.es/dp/B078WGK39M/?tag=tolees-21) con un 48.67 % de descuento con precio de oferta de 112.93 EUR (original: 220 EUR) en el siguiente enlace!

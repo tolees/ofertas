@@ -17,6 +17,9 @@ comparePrice: 349 EUR
 inStock: true
 prodname: 'Sony Xperia C5 Ultra - Smartphone de 6"  Full HD  4G  MT6752  1.7 GHz Octa Core  2 GB RAM  16 GB  cámara de 13 MP  Android 5.1  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013GCKA8U/?tag=tolees-21'
+descuento: '60.86'
+titulo: 'Sony Xperia C5 Ultra - Smartphone de 6" '
 ---
 
 Tienes [Sony Xperia C5 Ultra - Smartphone de 6"  Full HD  4G  MT6752  1.7 GHz Octa Core  2 GB RAM  16 GB  cámara de 13 MP  Android 5.1  color negro](https://www.amazon.es/dp/B013GCKA8U/?tag=tolees-21) con un 60.86 % de descuento con precio de oferta de 136.61 EUR (original: 349 EUR) en el siguiente enlace!

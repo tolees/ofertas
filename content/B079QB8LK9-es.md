@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans London Collie Warm  Botas para Mujer  Negro  Black 999   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QB8LK9/?tag=tolees-21'
+descuento: '72.42'
+titulo: 'Pepe Jeans London Collie Warm  Botas par'
 ---
 
 Tienes [Pepe Jeans London Collie Warm  Botas para Mujer  Negro  Black 999   41 EU](https://www.amazon.es/dp/B079QB8LK9/?tag=tolees-21) con un 72.42 % de descuento con precio de oferta de 26.2 EUR (original: 95 EUR) en el siguiente enlace!

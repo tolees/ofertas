@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Puma Ignite 7  Pants  Hombre  Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFRHCW4/?tag=tolees-21'
+descuento: '30.04'
+titulo: 'Puma Ignite 7  Pants  Hombre  Black  S'
 ---
 
 Ahora mismo tienes [Puma Ignite 7  Pants  Hombre  Black  S](https://www.amazon.es/dp/B07DFRHCW4/?tag=tolees-21) a 24.45 EUR (original: 34.95 EUR) (30.04 %  de descuento) en el siguiente enlace!

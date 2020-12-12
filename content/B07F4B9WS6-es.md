@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Sebago Plaza Tassel W  Mocasines para Mujer  Negro  Noir 902   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F4B9WS6/?tag=tolees-21'
+descuento: '79.56'
+titulo: 'Sebago Plaza Tassel W  Mocasines para Mu'
 ---
 
 Ahora mismo tienes [Sebago Plaza Tassel W  Mocasines para Mujer  Negro  Noir 902   38.5 EU](https://www.amazon.es/dp/B07F4B9WS6/?tag=tolees-21) a 28.61 EUR (original: 140 EUR) (79.56 %  de descuento) en el siguiente enlace!

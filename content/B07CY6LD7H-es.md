@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike Court Royale AC  Zapatillas para Mujer  Negro  Black/White 001   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CY6LD7H/?tag=tolees-21'
+descuento: '52.78'
+titulo: 'Nike Court Royale AC  Zapatillas para Mu'
 ---
 
 Ahora mismo tienes [Nike Court Royale AC  Zapatillas para Mujer  Negro  Black/White 001   37.5 EU](https://www.amazon.es/dp/B07CY6LD7H/?tag=tolees-21) a 28.33 EUR (original: 60 EUR) (52.78 %  de descuento) en el siguiente enlace!

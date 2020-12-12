@@ -17,6 +17,9 @@ comparePrice: 749.99 EUR
 inStock: true
 prodname: 'HP Lap Dock - Soporte para Elite X3  pantalla 12 5    FHD  teclado completo y clickpad  conexión por Wifi o cable USB-C   [Teclado Alemán]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYS71IY/?tag=tolees-21'
+descuento: '54.49'
+titulo: 'HP Lap Dock - Soporte para Elite X3  pan'
 ---
 
 Tienes [HP Lap Dock - Soporte para Elite X3  pantalla 12 5    FHD  teclado completo y clickpad  conexión por Wifi o cable USB-C   [Teclado Alemán]](https://www.amazon.es/dp/B01LYS71IY/?tag=tolees-21) con un 54.49 % de descuento con precio de oferta de 341.31 EUR (original: 749.99 EUR) en el siguiente enlace!

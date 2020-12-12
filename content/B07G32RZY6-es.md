@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Gabor - Franzi  Shoppers y bolsos de hombro Mujer  Negro  Schwarz   40x30x9 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G32RZY6/?tag=tolees-21'
+descuento: '61.45'
+titulo: 'Gabor - Franzi  Shoppers y bolsos de hom'
 ---
 
 Tienes [Gabor - Franzi  Shoppers y bolsos de hombro Mujer  Negro  Schwarz   40x30x9 cm  B x H T ](https://www.amazon.es/dp/B07G32RZY6/?tag=tolees-21) con un 61.45 % de descuento con precio de oferta de 26.98 EUR (original: 69.99 EUR) en el siguiente enlace!

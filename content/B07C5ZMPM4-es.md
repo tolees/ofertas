@@ -17,6 +17,9 @@ comparePrice: 37.99 EUR
 inStock: true
 prodname: 'Oneconcept Sunshard Set x 4 • Lámparas de jardín Solar • Iluminación con Cambio de Color RGB • Luces LED • Resistente Agua • Batería integrada • Independiente Gracias al Panel Solar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C5ZMPM4/?tag=tolees-21'
+descuento: '26.32'
+titulo: 'Oneconcept Sunshard Set x 4 • Lámparas d'
 ---
 
 Está [Oneconcept Sunshard Set x 4 • Lámparas de jardín Solar • Iluminación con Cambio de Color RGB • Luces LED • Resistente Agua • Batería integrada • Independiente Gracias al Panel Solar](https://www.amazon.es/dp/B07C5ZMPM4/?tag=tolees-21) con 26.32 de descuento por 27.99 EUR (original: 37.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 85.95 EUR
 inStock: true
 prodname: 'Tamaris 25700  Botas para Mujer  Verde  Dk Bottle   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0721TBZSB/?tag=tolees-21'
+descuento: '76.09'
+titulo: 'Tamaris 25700  Botas para Mujer  Verde  '
 ---
 
 Está [Tamaris 25700  Botas para Mujer  Verde  Dk Bottle   37 EU](https://www.amazon.es/dp/B0721TBZSB/?tag=tolees-21) con 76.09 de descuento por 20.55 EUR (original: 85.95 EUR) en el siguiente enlace!

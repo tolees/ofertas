@@ -17,6 +17,9 @@ comparePrice: 12.77 EUR
 inStock: true
 prodname: 'tacklife pcw2 Disco de corte Set 10 piezas universal Disco de corte para corte de metal  Diámetro 125 mm  para amoladora de ángulo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLVQVRM/?tag=tolees-21'
+descuento: '42.36'
+titulo: 'tacklife pcw2 Disco de corte Set 10 piez'
 ---
 
 Está [tacklife pcw2 Disco de corte Set 10 piezas universal Disco de corte para corte de metal  Diámetro 125 mm  para amoladora de ángulo ](https://www.amazon.es/dp/B07DLVQVRM/?tag=tolees-21) con 42.36 de descuento por 7.36 EUR (original: 12.77 EUR) en el siguiente enlace!

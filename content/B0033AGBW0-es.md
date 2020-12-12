@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'OMRON BF 511 - Báscula de composición corporal  color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0033AGBW0/?tag=tolees-21'
+descuento: '49.45'
+titulo: 'OMRON BF 511 - Báscula de composición co'
 ---
 
 Tienes [OMRON BF 511 - Báscula de composición corporal  color azul](https://www.amazon.es/dp/B0033AGBW0/?tag=tolees-21) con un 49.45 % de descuento con precio de oferta de 44.99 EUR (original: 89 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Hackett London New Classic  Polo para Niños  Azul 13 Años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BYZXHN3/?tag=tolees-21'
+descuento: '66.63'
+titulo: 'Hackett London New Classic  Polo para Ni'
 ---
 
 Está [Hackett London New Classic  Polo para Niños  Azul 13 Años](https://www.amazon.es/dp/B07BYZXHN3/?tag=tolees-21) con 66.63 de descuento por 16.35 EUR (original: 49 EUR) en el siguiente enlace!

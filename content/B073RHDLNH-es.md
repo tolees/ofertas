@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Adidas Adizero Tempo 9 Aktiv  Zapatillas de Deporte Unisex Adulto  Negro Negbas/Roalre 000  40 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RHDLNH/?tag=tolees-21'
+descuento: '46.87'
+titulo: 'Adidas Adizero Tempo 9 Aktiv  Zapatillas'
 ---
 
 Está [Adidas Adizero Tempo 9 Aktiv  Zapatillas de Deporte Unisex Adulto  Negro Negbas/Roalre 000  40 2/3 EU](https://www.amazon.es/dp/B073RHDLNH/?tag=tolees-21) con 46.87 de descuento por 74.36 EUR (original: 139.95 EUR) en el siguiente enlace!

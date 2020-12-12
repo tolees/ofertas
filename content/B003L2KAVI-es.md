@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'HP WU676AA#ABB - Maletín para portátil de 14"'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003L2KAVI/?tag=tolees-21'
+descuento: '52.75'
+titulo: 'HP WU676AA#ABB - Maletín para portátil d'
 ---
 
 Ahora mismo tienes [HP WU676AA#ABB - Maletín para portátil de 14"](https://www.amazon.es/dp/B003L2KAVI/?tag=tolees-21) a 10.39 EUR (original: 21.99 EUR) (52.75 %  de descuento) en el siguiente enlace!

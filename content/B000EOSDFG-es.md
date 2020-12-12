@@ -17,6 +17,9 @@ comparePrice: 61.5 EUR
 inStock: true
 prodname: 'TFA 40.2003 Neptun - Termómetro para piscinas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000EOSDFG/?tag=tolees-21'
+descuento: '53.56'
+titulo: 'TFA 40.2003 Neptun - Termómetro para pis'
 ---
 
 Tienes [TFA 40.2003 Neptun - Termómetro para piscinas](https://www.amazon.es/dp/B000EOSDFG/?tag=tolees-21) con un 53.56 % de descuento con precio de oferta de 28.56 EUR (original: 61.5 EUR) en el siguiente enlace!

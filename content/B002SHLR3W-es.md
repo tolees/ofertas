@@ -17,6 +17,9 @@ comparePrice: 13.3 EUR
 inStock: true
 prodname: 'Stanley 269264 - Juego de llaves métricas  8 piezas en estuche plegable '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002SHLR3W/?tag=tolees-21'
+descuento: '30.83'
+titulo: 'Stanley 269264 - Juego de llaves métrica'
 ---
 
 Ahora mismo tienes [Stanley 269264 - Juego de llaves métricas  8 piezas en estuche plegable ](https://www.amazon.es/dp/B002SHLR3W/?tag=tolees-21) a 9.2 EUR (original: 13.3 EUR) (30.83 %  de descuento) en el siguiente enlace!

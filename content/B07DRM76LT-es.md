@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Kipling CLAS SEOUL Mochila escolar  45 cm  25 liters  Rojo  Active Red Bl '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DRM76LT/?tag=tolees-21'
+descuento: '54.79'
+titulo: 'Kipling CLAS SEOUL Mochila escolar  45 c'
 ---
 
 Ahora mismo tienes [Kipling CLAS SEOUL Mochila escolar  45 cm  25 liters  Rojo  Active Red Bl ](https://www.amazon.es/dp/B07DRM76LT/?tag=tolees-21) a 42.95 EUR (original: 95 EUR) (54.79 %  de descuento) en el siguiente enlace!

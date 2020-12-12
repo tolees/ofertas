@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Geox J Xunday Boy H  Botas Chukka para Niños   Navy/Black C0045   33 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RYZLMR/?tag=tolees-21'
+descuento: '69.85'
+titulo: 'Geox J Xunday Boy H  Botas Chukka para N'
 ---
 
 Está [Geox J Xunday Boy H  Botas Chukka para Niños   Navy/Black C0045   33 EU](https://www.amazon.es/dp/B079RYZLMR/?tag=tolees-21) con 69.85 de descuento por 19.6 EUR (original: 65 EUR) en el siguiente enlace!

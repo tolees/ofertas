@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'BEPER VE.620 Mosquitera Eléctrica Aluminio  Unica'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016YS2G9O/?tag=tolees-21'
+descuento: '66.81'
+titulo: 'BEPER VE.620 Mosquitera Eléctrica Alumin'
 ---
 
 Tienes [BEPER VE.620 Mosquitera Eléctrica Aluminio  Unica](https://www.amazon.es/dp/B016YS2G9O/?tag=tolees-21) con un 66.81 % de descuento con precio de oferta de 24.89 EUR (original: 75 EUR) en el siguiente enlace!

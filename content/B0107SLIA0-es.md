@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Joma Crew m/c  Camiseta Polo para Hombre  Celeste  6XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0107SLIA0/?tag=tolees-21'
+descuento: '55.71'
+titulo: 'Joma Crew m/c  Camiseta Polo para Hombre'
 ---
 
 Ahora mismo tienes [Joma Crew m/c  Camiseta Polo para Hombre  Celeste  6XS](https://www.amazon.es/dp/B0107SLIA0/?tag=tolees-21) a 7.95 EUR (original: 17.95 EUR) (55.71 %  de descuento) en el siguiente enlace!

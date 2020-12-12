@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Burton Society Pantalón de Snowboard  Mujer  Verde  Balsam Heather   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJ6PFV9/?tag=tolees-21'
+descuento: '70.91'
+titulo: 'Burton Society Pantalón de Snowboard  Mu'
 ---
 
 Está [Burton Society Pantalón de Snowboard  Mujer  Verde  Balsam Heather   S](https://www.amazon.es/dp/B07FJ6PFV9/?tag=tolees-21) con 70.91 de descuento por 46.54 EUR (original: 160 EUR) en el siguiente enlace!

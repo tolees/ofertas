@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Barbecook 223.9870.000 Caja Ahumadora Universal para Barbacoas de Gas Gris 10x4.5x36.30 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UTS1JU8/?tag=tolees-21'
+descuento: '48.28'
+titulo: 'Barbecook 223.9870.000 Caja Ahumadora Un'
 ---
 
 Tienes [Barbecook 223.9870.000 Caja Ahumadora Universal para Barbacoas de Gas Gris 10x4.5x36.30 cm](https://www.amazon.es/dp/B00UTS1JU8/?tag=tolees-21) con un 48.28 % de descuento con precio de oferta de 15 EUR (original: 29 EUR) en el siguiente enlace!

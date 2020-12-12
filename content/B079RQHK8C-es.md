@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Pepe Jeans Legacy PM505967  Camiseta para Hombre  Azul  Indigo 561  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RQHK8C/?tag=tolees-21'
+descuento: '68.02'
+titulo: 'Pepe Jeans Legacy PM505967  Camiseta par'
 ---
 
 Tienes [Pepe Jeans Legacy PM505967  Camiseta para Hombre  Azul  Indigo 561  X-Large](https://www.amazon.es/dp/B079RQHK8C/?tag=tolees-21) con un 68.02 % de descuento con precio de oferta de 14.39 EUR (original: 45 EUR) en el siguiente enlace!

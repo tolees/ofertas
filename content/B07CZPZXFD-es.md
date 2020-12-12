@@ -17,6 +17,9 @@ comparePrice: 41.95 EUR
 inStock: true
 prodname: 'BOSS Boxer Brief 2p Print  Azul  Dark Blue 401   X-Large  Pack de 2 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZPZXFD/?tag=tolees-21'
+descuento: '53.61'
+titulo: 'BOSS Boxer Brief 2p Print  Azul  Dark Bl'
 ---
 
 Está [BOSS Boxer Brief 2p Print  Azul  Dark Blue 401   X-Large  Pack de 2 para Hombre](https://www.amazon.es/dp/B07CZPZXFD/?tag=tolees-21) con 53.61 de descuento por 19.46 EUR (original: 41.95 EUR) en el siguiente enlace!

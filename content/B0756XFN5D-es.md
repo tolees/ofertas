@@ -17,6 +17,9 @@ comparePrice: 22.48 EUR
 inStock: true
 prodname: 'Cartera de Mano para Mujer Bolso de Fiesta Boda Salidas Bolso de Satén tipo clutch  rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0756XFN5D/?tag=tolees-21'
+descuento: '33.32'
+titulo: 'Cartera de Mano para Mujer Bolso de Fies'
 ---
 
 Ahora mismo tienes [Cartera de Mano para Mujer Bolso de Fiesta Boda Salidas Bolso de Satén tipo clutch  rojo ](https://www.amazon.es/dp/B0756XFN5D/?tag=tolees-21) a 14.99 EUR (original: 22.48 EUR) (33.32 %  de descuento) en el siguiente enlace!

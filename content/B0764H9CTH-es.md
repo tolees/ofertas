@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'New Balance Furon v4 Dispatch FG  Botas de fútbol Unisex Niños  Naranja  Flame/Aztec Gold/Galaxy Fa4   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0764H9CTH/?tag=tolees-21'
+descuento: '40.91'
+titulo: 'New Balance Furon v4 Dispatch FG  Botas '
 ---
 
 Ahora mismo tienes [New Balance Furon v4 Dispatch FG  Botas de fútbol Unisex Niños  Naranja  Flame/Aztec Gold/Galaxy Fa4   28 EU](https://www.amazon.es/dp/B0764H9CTH/?tag=tolees-21) a 32.5 EUR (original: 55 EUR) (40.91 %  de descuento) en el siguiente enlace!

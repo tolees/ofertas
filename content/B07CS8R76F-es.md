@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Clifford Camisa    Indigo 561   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CS8R76F/?tag=tolees-21'
+descuento: '76.98'
+titulo: 'Pepe Jeans Clifford Camisa    Indigo 561'
 ---
 
 Está [Pepe Jeans Clifford Camisa    Indigo 561   Large para Hombre](https://www.amazon.es/dp/B07CS8R76F/?tag=tolees-21) con 76.98 de descuento por 18.39 EUR (original: 79.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Breaker Suede  Zapatillas Unisex Adulto  Gris White-Charcoal Gray  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCK33Z7/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Puma Breaker Suede  Zapatillas Unisex Ad'
 ---
 
 Ahora mismo tienes [Puma Breaker Suede  Zapatillas Unisex Adulto  Gris White-Charcoal Gray  39 EU](https://www.amazon.es/dp/B07DCK33Z7/?tag=tolees-21) a 35.98 EUR (original: 89.95 EUR) (60.00 %  de descuento) en el siguiente enlace!

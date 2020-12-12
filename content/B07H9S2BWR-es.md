@@ -17,6 +17,9 @@ comparePrice: 48 EUR
 inStock: true
 prodname: 'SYROKAN-Sujetador Deportivo de Alto Impacto Copas Moldeadas para Mujer Gris Oscuro - A262 ES:100B  EU 85B '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H9S2BWR/?tag=tolees-21'
+descuento: '52.10'
+titulo: 'SYROKAN-Sujetador Deportivo de Alto Impa'
 ---
 
 Tienes [SYROKAN-Sujetador Deportivo de Alto Impacto Copas Moldeadas para Mujer Gris Oscuro - A262 ES:100B  EU 85B ](https://www.amazon.es/dp/B07H9S2BWR/?tag=tolees-21) con un 52.10 % de descuento con precio de oferta de 22.99 EUR (original: 48 EUR) en el siguiente enlace!

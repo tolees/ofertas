@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Pioneer SE-MJ722T-T - Auriculares  Color Blanco y marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019YZI12U/?tag=tolees-21'
+descuento: '64.07'
+titulo: 'Pioneer SE-MJ722T-T - Auriculares  Color'
 ---
 
 Está [Pioneer SE-MJ722T-T - Auriculares  Color Blanco y marrón](https://www.amazon.es/dp/B019YZI12U/?tag=tolees-21) con 64.07 de descuento por 17.96 EUR (original: 49.99 EUR) en el siguiente enlace!

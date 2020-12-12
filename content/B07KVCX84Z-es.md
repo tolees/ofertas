@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Tom Tailor Denim Chino Mit Gürtel  Pantalones Hombre  Gris  Structured Zig Zag Grey 14226   W34/L32  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KVCX84Z/?tag=tolees-21'
+descuento: '51.67'
+titulo: 'Tom Tailor Denim Chino Mit Gürtel  Panta'
 ---
 
 Está [Tom Tailor Denim Chino Mit Gürtel  Pantalones Hombre  Gris  Structured Zig Zag Grey 14226   W34/L32  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07KVCX84Z/?tag=tolees-21) con 51.67 de descuento por 24.16 EUR (original: 49.99 EUR) en el siguiente enlace!

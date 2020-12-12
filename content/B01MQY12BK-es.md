@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Bruzzzler 1146 Ahumador  Plata 23.5x9x4.5 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MQY12BK/?tag=tolees-21'
+descuento: '28.25'
+titulo: 'Bruzzzler 1146 Ahumador  Plata 23.5x9x4.'
 ---
 
 Está [Bruzzzler 1146 Ahumador  Plata 23.5x9x4.5 cm](https://www.amazon.es/dp/B01MQY12BK/?tag=tolees-21) con 28.25 de descuento por 9.32 EUR (original: 12.99 EUR) en el siguiente enlace!

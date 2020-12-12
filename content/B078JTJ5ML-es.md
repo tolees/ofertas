@@ -17,6 +17,9 @@ comparePrice: 74.97 EUR
 inStock: true
 prodname: 'Munich Zapatillas G 3 Phylon 748  Deporte Unisex Adulto   3110748 Blanco   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078JTJ5ML/?tag=tolees-21'
+descuento: '58.82'
+titulo: 'Munich Zapatillas G 3 Phylon 748  Deport'
 ---
 
 Ahora mismo tienes [Munich Zapatillas G 3 Phylon 748  Deporte Unisex Adulto   3110748 Blanco   45 EU](https://www.amazon.es/dp/B078JTJ5ML/?tag=tolees-21) a 30.87 EUR (original: 74.97 EUR) (58.82 %  de descuento) en el siguiente enlace!

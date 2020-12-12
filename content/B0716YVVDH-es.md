@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Smurfs Figura de Vinilo Papa Smurf Funko 20120'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0716YVVDH/?tag=tolees-21'
+descuento: '46.49'
+titulo: 'Smurfs Figura de Vinilo Papa Smurf Funko'
 ---
 
 Ahora mismo tienes [Smurfs Figura de Vinilo Papa Smurf Funko 20120](https://www.amazon.es/dp/B0716YVVDH/?tag=tolees-21) a 8 EUR (original: 14.95 EUR) (46.49 %  de descuento) en el siguiente enlace!

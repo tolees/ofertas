@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Nike Accessories - Lean Arm Band'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01J34NTNI/?tag=tolees-21'
+descuento: '65.25'
+titulo: 'Nike Accessories - Lean Arm Band'
 ---
 
 Ahora mismo tienes [Nike Accessories - Lean Arm Band](https://www.amazon.es/dp/B01J34NTNI/?tag=tolees-21) a 6.95 EUR (original: 20 EUR) (65.25 %  de descuento) en el siguiente enlace!

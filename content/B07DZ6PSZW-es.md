@@ -17,6 +17,9 @@ comparePrice: 179.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta con Capucha para Mujer  Windgates Hooded Insulated Jacket  Azul  Nocturnal Heather   Talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DZ6PSZW/?tag=tolees-21'
+descuento: '42.11'
+titulo: 'Columbia Chaqueta con Capucha para Mujer'
 ---
 
 Está [Columbia Chaqueta con Capucha para Mujer  Windgates Hooded Insulated Jacket  Azul  Nocturnal Heather   Talla L](https://www.amazon.es/dp/B07DZ6PSZW/?tag=tolees-21) con 42.11 de descuento por 104.2 EUR (original: 179.99 EUR) en el siguiente enlace!

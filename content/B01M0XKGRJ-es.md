@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'New Balance 410  Zapatillas para Mujer  Negro  Black/White Bl   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M0XKGRJ/?tag=tolees-21'
+descuento: '33.35'
+titulo: 'New Balance 410  Zapatillas para Mujer  '
 ---
 
 Está [New Balance 410  Zapatillas para Mujer  Negro  Black/White Bl   38 EU](https://www.amazon.es/dp/B01M0XKGRJ/?tag=tolees-21) con 33.35 de descuento por 49.99 EUR (original: 75 EUR) en el siguiente enlace!

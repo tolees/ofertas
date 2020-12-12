@@ -17,6 +17,9 @@ comparePrice: 43.9 EUR
 inStock: true
 prodname: 'Agatha Ruiz de la Prada 181980  Botas Slouch para Niñas  Plateado  181980/B/Amz Plata  Textil   25 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BBVLGBZ/?tag=tolees-21'
+descuento: '58.41'
+titulo: 'Agatha Ruiz de la Prada 181980  Botas Sl'
 ---
 
 Está [Agatha Ruiz de la Prada 181980  Botas Slouch para Niñas  Plateado  181980/B/Amz Plata  Textil   25 EU](https://www.amazon.es/dp/B07BBVLGBZ/?tag=tolees-21) con 58.41 de descuento por 18.26 EUR (original: 43.9 EUR) en el siguiente enlace!

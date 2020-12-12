@@ -17,6 +17,9 @@ comparePrice: 58.95 EUR
 inStock: true
 prodname: 'Anal Fantasy Anal Adventure Kit Erótico - 269 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GD64DYY/?tag=tolees-21'
+descuento: '56.64'
+titulo: 'Anal Fantasy Anal Adventure Kit Erótico '
 ---
 
 Está [Anal Fantasy Anal Adventure Kit Erótico - 269 gr](https://www.amazon.es/dp/B00GD64DYY/?tag=tolees-21) con 56.64 de descuento por 25.56 EUR (original: 58.95 EUR) en el siguiente enlace!

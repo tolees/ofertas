@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Gore Wear C3 Windstopper Chaleco  Hombre   Amarillo Neon /Negro  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075S3ZJ6F/?tag=tolees-21'
+descuento: '52.80'
+titulo: 'Gore Wear C3 Windstopper Chaleco  Hombre'
 ---
 
 Tienes [Gore Wear C3 Windstopper Chaleco  Hombre   Amarillo Neon /Negro  S](https://www.amazon.es/dp/B075S3ZJ6F/?tag=tolees-21) con un 52.80 % de descuento con precio de oferta de 47.18 EUR (original: 99.95 EUR) en el siguiente enlace!

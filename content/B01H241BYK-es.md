@@ -17,6 +17,9 @@ comparePrice: 9.7 EUR
 inStock: true
 prodname: 'Organic Shop Soufflé Corporal Nutritivo Chocolate Real - 450 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H241BYK/?tag=tolees-21'
+descuento: '28.25'
+titulo: 'Organic Shop Soufflé Corporal Nutritivo '
 ---
 
 Ahora mismo tienes [Organic Shop Soufflé Corporal Nutritivo Chocolate Real - 450 ml](https://www.amazon.es/dp/B01H241BYK/?tag=tolees-21) a 6.96 EUR (original: 9.7 EUR) (28.25 %  de descuento) en el siguiente enlace!

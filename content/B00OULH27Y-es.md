@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Taurus Tropicano 3CR Ceramic 947.424  1500 W  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OULH27Y/?tag=tolees-21'
+descuento: '75.48'
+titulo: 'Taurus Tropicano 3CR Ceramic 947.424  15'
 ---
 
 Tienes [Taurus Tropicano 3CR Ceramic 947.424  1500 W  Blanco](https://www.amazon.es/dp/B00OULH27Y/?tag=tolees-21) con un 75.48 % de descuento con precio de oferta de 11.03 EUR (original: 44.99 EUR) en el siguiente enlace!

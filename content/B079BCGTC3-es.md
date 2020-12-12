@@ -17,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Puma Ligas Pants  Hombre  Silver Lake Blue/White  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079BCGTC3/?tag=tolees-21'
+descuento: '58.27'
+titulo: 'Puma Ligas Pants  Hombre  Silver Lake Bl'
 ---
 
 Está [Puma Ligas Pants  Hombre  Silver Lake Blue/White  L](https://www.amazon.es/dp/B079BCGTC3/?tag=tolees-21) con 58.27 de descuento por 7.49 EUR (original: 17.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Shock Absorber Active Legging Mallas de Entrenamiento  Negro  L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YPKPBW/?tag=tolees-21'
+descuento: '64.72'
+titulo: 'Shock Absorber Active Legging Mallas de '
 ---
 
 Ahora mismo tienes [Shock Absorber Active Legging Mallas de Entrenamiento  Negro  L para Mujer](https://www.amazon.es/dp/B077YPKPBW/?tag=tolees-21) a 17.62 EUR (original: 49.95 EUR) (64.72 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 269 EUR
 inStock: true
 prodname: 'Seiko Reloj Analogico para Hombre de Automático con Correa en Acero Inoxidable SRPB87K1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SZLZNS/?tag=tolees-21'
+descuento: '43.08'
+titulo: 'Seiko Reloj Analogico para Hombre de Aut'
 ---
 
 Tienes [Seiko Reloj Analogico para Hombre de Automático con Correa en Acero Inoxidable SRPB87K1](https://www.amazon.es/dp/B078SZLZNS/?tag=tolees-21) con un 43.08 % de descuento con precio de oferta de 153.11 EUR (original: 269 EUR) en el siguiente enlace!

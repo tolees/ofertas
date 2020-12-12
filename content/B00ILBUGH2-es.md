@@ -17,6 +17,9 @@ comparePrice: 18.55 EUR
 inStock: true
 prodname: 'Matrix 60933 - Mascarilla capilar  150 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ILBUGH2/?tag=tolees-21'
+descuento: '51.21'
+titulo: 'Matrix 60933 - Mascarilla capilar  150 m'
 ---
 
 Ahora mismo tienes [Matrix 60933 - Mascarilla capilar  150 ml](https://www.amazon.es/dp/B00ILBUGH2/?tag=tolees-21) a 9.05 EUR (original: 18.55 EUR) (51.21 %  de descuento) en el siguiente enlace!

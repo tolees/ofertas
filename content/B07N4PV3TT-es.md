@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Superga 2750-FABRICLAMEFLOWERW  Zapatillas para Mujer  Azul  Blue-White A25   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N4PV3TT/?tag=tolees-21'
+descuento: '54.49'
+titulo: 'Superga 2750-FABRICLAMEFLOWERW  Zapatill'
 ---
 
 Ahora mismo tienes [Superga 2750-FABRICLAMEFLOWERW  Zapatillas para Mujer  Azul  Blue-White A25   40 EU](https://www.amazon.es/dp/B07N4PV3TT/?tag=tolees-21) a 38.68 EUR (original: 85 EUR) (54.49 %  de descuento) en el siguiente enlace!

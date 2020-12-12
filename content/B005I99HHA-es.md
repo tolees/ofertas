@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Reebok Classic Nylon  Zapatillas de Trail Running para Mujer  Negro  Black/White 0   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005I99HHA/?tag=tolees-21'
+descuento: '48.33'
+titulo: 'Reebok Classic Nylon  Zapatillas de Trai'
 ---
 
 Ahora mismo tienes [Reebok Classic Nylon  Zapatillas de Trail Running para Mujer  Negro  Black/White 0   42 EU](https://www.amazon.es/dp/B005I99HHA/?tag=tolees-21) a 36.14 EUR (original: 69.95 EUR) (48.33 %  de descuento) en el siguiente enlace!

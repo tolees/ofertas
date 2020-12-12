@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Asics Gt-2000 6  Zapatillas de Entrenamiento para Hombre   Dark Grey/Black/Fiery Red 9590   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0788B9JZL/?tag=tolees-21'
+descuento: '42.86'
+titulo: 'Asics Gt-2000 6  Zapatillas de Entrenami'
 ---
 
 Ahora mismo tienes [Asics Gt-2000 6  Zapatillas de Entrenamiento para Hombre   Dark Grey/Black/Fiery Red 9590   44.5 EU](https://www.amazon.es/dp/B0788B9JZL/?tag=tolees-21) a 79.99 EUR (original: 140 EUR) (42.86 %  de descuento) en el siguiente enlace!

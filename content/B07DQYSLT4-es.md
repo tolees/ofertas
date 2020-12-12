@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Volcom Sngl STN DIV P/O Sudadera  Hombre  Azul  Midnight Blue   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQYSLT4/?tag=tolees-21'
+descuento: '62.99'
+titulo: 'Volcom Sngl STN DIV P/O Sudadera  Hombre'
 ---
 
 Ahora mismo tienes [Volcom Sngl STN DIV P/O Sudadera  Hombre  Azul  Midnight Blue   M](https://www.amazon.es/dp/B07DQYSLT4/?tag=tolees-21) a 25.91 EUR (original: 70 EUR) (62.99 %  de descuento) en el siguiente enlace!

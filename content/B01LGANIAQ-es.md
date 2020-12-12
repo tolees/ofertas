@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Asics Gel-cumulus 18 G-tx   Zapatillas de running Mujer  Multicolor  Black / Silver / Flash Coral   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LGANIAQ/?tag=tolees-21'
+descuento: '59.77'
+titulo: 'Asics Gel-cumulus 18 G-tx   Zapatillas d'
 ---
 
 Está [Asics Gel-cumulus 18 G-tx   Zapatillas de running Mujer  Multicolor  Black / Silver / Flash Coral   37 EU](https://www.amazon.es/dp/B01LGANIAQ/?tag=tolees-21) con 59.77 de descuento por 60.35 EUR (original: 150 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 85.99 EUR
 inStock: true
 prodname: 'Quiksilver Amphibian Plus  Zapatillas de Deporte para Hombre  Negro Black/Grey/White Xksw  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXMQJSB/?tag=tolees-21'
+descuento: '35.69'
+titulo: 'Quiksilver Amphibian Plus  Zapatillas de'
 ---
 
 Está [Quiksilver Amphibian Plus  Zapatillas de Deporte para Hombre  Negro Black/Grey/White Xksw  43 EU](https://www.amazon.es/dp/B01MXMQJSB/?tag=tolees-21) con 35.69 de descuento por 55.3 EUR (original: 85.99 EUR) en el siguiente enlace!

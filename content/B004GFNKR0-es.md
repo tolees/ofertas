@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'POP! Vinilo - Movies: Gremlins'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004GFNKR0/?tag=tolees-21'
+descuento: '45.30'
+titulo: 'POP! Vinilo - Movies: Gremlins'
 ---
 
 Está [POP! Vinilo - Movies: Gremlins](https://www.amazon.es/dp/B004GFNKR0/?tag=tolees-21) con 45.30 de descuento por 8.2 EUR (original: 14.99 EUR) en el siguiente enlace!

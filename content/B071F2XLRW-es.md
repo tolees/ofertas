@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Arishi Sport  Zapatillas para Mujer  Azul  Light Porcelain Blue/Reflection Lg1   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071F2XLRW/?tag=tolees-21'
+descuento: '71.53'
+titulo: 'New Balance Fresh Foam Arishi Sport  Zap'
 ---
 
 Está [New Balance Fresh Foam Arishi Sport  Zapatillas para Mujer  Azul  Light Porcelain Blue/Reflection Lg1   37 EU](https://www.amazon.es/dp/B071F2XLRW/?tag=tolees-21) con 71.53 de descuento por 24.2 EUR (original: 85 EUR) en el siguiente enlace!

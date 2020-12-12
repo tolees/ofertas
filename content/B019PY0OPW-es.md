@@ -17,6 +17,9 @@ comparePrice: 155.95 EUR
 inStock: true
 prodname: 'Kingston MobileLite Wireless Pro MLWG3/64ER - Lector inalámbrico de Tarjetas y USB  64 GB Almacenamiento Incorporado y Respaldo móvil '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019PY0OPW/?tag=tolees-21'
+descuento: '72.43'
+titulo: 'Kingston MobileLite Wireless Pro MLWG3/6'
 ---
 
 Está [Kingston MobileLite Wireless Pro MLWG3/64ER - Lector inalámbrico de Tarjetas y USB  64 GB Almacenamiento Incorporado y Respaldo móvil ](https://www.amazon.es/dp/B019PY0OPW/?tag=tolees-21) con 72.43 de descuento por 42.99 EUR (original: 155.95 EUR) en el siguiente enlace!

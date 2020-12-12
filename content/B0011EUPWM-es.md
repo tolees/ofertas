@@ -17,6 +17,9 @@ comparePrice: 140.4 EUR
 inStock: true
 prodname: 'Caterpillar Colorado  Botas para Hombre  Beige  Dark Beige   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0011EUPWM/?tag=tolees-21'
+descuento: '46.15'
+titulo: 'Caterpillar Colorado  Botas para Hombre '
 ---
 
 Ahora mismo tienes [Caterpillar Colorado  Botas para Hombre  Beige  Dark Beige   45 EU](https://www.amazon.es/dp/B0011EUPWM/?tag=tolees-21) a 75.6 EUR (original: 140.4 EUR) (46.15 %  de descuento) en el siguiente enlace!

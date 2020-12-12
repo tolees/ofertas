@@ -17,6 +17,9 @@ comparePrice: 10.5 EUR
 inStock: true
 prodname: 'Scitec L-Leucina - 100 cápsulas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004EPYCR4/?tag=tolees-21'
+descuento: '31.43'
+titulo: 'Scitec L-Leucina - 100 cápsulas'
 ---
 
 Ahora mismo tienes [Scitec L-Leucina - 100 cápsulas](https://www.amazon.es/dp/B004EPYCR4/?tag=tolees-21) a 7.2 EUR (original: 10.5 EUR) (31.43 %  de descuento) en el siguiente enlace!

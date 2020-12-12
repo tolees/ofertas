@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Hurley TRISTER PRM tee SS Camisetas  Hombre  White  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCWSYTT/?tag=tolees-21'
+descuento: '48.93'
+titulo: 'Hurley TRISTER PRM tee SS Camisetas  Hom'
 ---
 
 Está [Hurley TRISTER PRM tee SS Camisetas  Hombre  White  M](https://www.amazon.es/dp/B07KCWSYTT/?tag=tolees-21) con 48.93 de descuento por 15.32 EUR (original: 30 EUR) en el siguiente enlace!

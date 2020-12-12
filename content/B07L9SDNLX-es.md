@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'Benq BL2381T Pantalla para PC 57 1 cm  22.5"  Full HD+ LED Plana Negro - Monitor  57 1 cm  22.5"   1920 x 1200 Pixeles  Full HD+  LED  5 ms  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9SDNLX/?tag=tolees-21'
+descuento: '33.83'
+titulo: 'Benq BL2381T Pantalla para PC 57 1 cm  2'
 ---
 
 Está [Benq BL2381T Pantalla para PC 57 1 cm  22.5"  Full HD+ LED Plana Negro - Monitor  57 1 cm  22.5"   1920 x 1200 Pixeles  Full HD+  LED  5 ms  Negro ](https://www.amazon.es/dp/B07L9SDNLX/?tag=tolees-21) con 33.83 de descuento por 119.11 EUR (original: 180 EUR) en el siguiente enlace!

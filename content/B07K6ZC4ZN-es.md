@@ -17,6 +17,9 @@ comparePrice: 43.69 EUR
 inStock: true
 prodname: 'Asics Patriot 10 GS  Zapatillas de Running para Niños   Imperial/White 402   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K6ZC4ZN/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Asics Patriot 10 GS  Zapatillas de Runni'
 ---
 
 Ahora mismo tienes [Asics Patriot 10 GS  Zapatillas de Running para Niños   Imperial/White 402   39 EU](https://www.amazon.es/dp/B07K6ZC4ZN/?tag=tolees-21) a 21.84 EUR (original: 43.69 EUR) (50.01 %  de descuento) en el siguiente enlace!

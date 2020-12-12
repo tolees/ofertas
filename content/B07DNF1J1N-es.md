@@ -17,6 +17,9 @@ comparePrice: 25.95 EUR
 inStock: true
 prodname: 'DANISH ENDURANCE Calcetines Performance Crew  Gris - 3 Pares  EU 39-42 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNF1J1N/?tag=tolees-21'
+descuento: '50.10'
+titulo: 'DANISH ENDURANCE Calcetines Performance '
 ---
 
 Tienes [DANISH ENDURANCE Calcetines Performance Crew  Gris - 3 Pares  EU 39-42 ](https://www.amazon.es/dp/B07DNF1J1N/?tag=tolees-21) con un 50.10 % de descuento con precio de oferta de 12.95 EUR (original: 25.95 EUR) en el siguiente enlace!

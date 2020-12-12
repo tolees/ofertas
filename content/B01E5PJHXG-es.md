@@ -17,6 +17,9 @@ comparePrice: 21.95 EUR
 inStock: true
 prodname: 'Miami Beach Swimwear Rosa  Bikini Mujer  Rojo  fusion red   40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01E5PJHXG/?tag=tolees-21'
+descuento: '51.85'
+titulo: 'Miami Beach Swimwear Rosa  Bikini Mujer '
 ---
 
 Tienes [Miami Beach Swimwear Rosa  Bikini Mujer  Rojo  fusion red   40](https://www.amazon.es/dp/B01E5PJHXG/?tag=tolees-21) con un 51.85 % de descuento con precio de oferta de 10.57 EUR (original: 21.95 EUR) en el siguiente enlace!

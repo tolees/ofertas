@@ -17,6 +17,9 @@ comparePrice: 15.23 EUR
 inStock: true
 prodname: 'Burlington Lord Calcetines  Hombre  Rot  Ruby 8371   40/46'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079SQ18CZ/?tag=tolees-21'
+descuento: '60.60'
+titulo: 'Burlington Lord Calcetines  Hombre  Rot '
 ---
 
 Está [Burlington Lord Calcetines  Hombre  Rot  Ruby 8371   40/46](https://www.amazon.es/dp/B079SQ18CZ/?tag=tolees-21) con 60.60 de descuento por 6 EUR (original: 15.23 EUR) en el siguiente enlace!

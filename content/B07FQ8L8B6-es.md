@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jacpeter Trunks Noos. Bóxer  Azul Navy Blazer  XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQ8L8B6/?tag=tolees-21'
+descuento: '54.20'
+titulo: 'JACK & JONES Jacpeter Trunks Noos. Bóxer'
 ---
 
 Ahora mismo tienes [JACK & JONES Jacpeter Trunks Noos. Bóxer  Azul Navy Blazer  XX-Large para Hombre](https://www.amazon.es/dp/B07FQ8L8B6/?tag=tolees-21) a 5.95 EUR (original: 12.99 EUR) (54.20 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Pepe Jeans PIXLETTE Eco PG200753  Jeans para Niñas  Azul  Wiser Wash 000  8 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0779JST7R/?tag=tolees-21'
+descuento: '69.10'
+titulo: 'Pepe Jeans PIXLETTE Eco PG200753  Jeans '
 ---
 
 Tienes [Pepe Jeans PIXLETTE Eco PG200753  Jeans para Niñas  Azul  Wiser Wash 000  8 años](https://www.amazon.es/dp/B0779JST7R/?tag=tolees-21) con un 69.10 % de descuento con precio de oferta de 24.69 EUR (original: 79.9 EUR) en el siguiente enlace!

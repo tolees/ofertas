@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Dogar Tabac Mesita 3 cajones  Pino  Wengue  63x43x35 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FKW9UBS/?tag=tolees-21'
+descuento: '31.44'
+titulo: 'Dogar Tabac Mesita 3 cajones  Pino  Weng'
 ---
 
 Tienes [Dogar Tabac Mesita 3 cajones  Pino  Wengue  63x43x35 cm](https://www.amazon.es/dp/B00FKW9UBS/?tag=tolees-21) con un 31.44 % de descuento con precio de oferta de 37.71 EUR (original: 55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 16 EUR
 inStock: true
 prodname: 'Tabac Anti-Perspirant Desodorante - 200 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002ORWFIM/?tag=tolees-21'
+descuento: '31.50'
+titulo: 'Tabac Anti-Perspirant Desodorante - 200 '
 ---
 
 Ahora mismo tienes [Tabac Anti-Perspirant Desodorante - 200 ml](https://www.amazon.es/dp/B002ORWFIM/?tag=tolees-21) a 10.96 EUR (original: 16 EUR) (31.50 %  de descuento) en el siguiente enlace!

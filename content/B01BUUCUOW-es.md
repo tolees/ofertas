@@ -17,6 +17,9 @@ comparePrice: 27.5 EUR
 inStock: true
 prodname: 'Muse M-172BT Radio Reloj Bluetooth/NFC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BUUCUOW/?tag=tolees-21'
+descuento: '56.36'
+titulo: 'Muse M-172BT Radio Reloj Bluetooth/NFC'
 ---
 
 Está [Muse M-172BT Radio Reloj Bluetooth/NFC](https://www.amazon.es/dp/B01BUUCUOW/?tag=tolees-21) con 56.36 de descuento por 12 EUR (original: 27.5 EUR) en el siguiente enlace!

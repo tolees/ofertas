@@ -17,6 +17,9 @@ comparePrice: 350 EUR
 inStock: true
 prodname: 'NOX Ultra Carbon Amarillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077N5LJZK/?tag=tolees-21'
+descuento: '71.71'
+titulo: 'NOX Ultra Carbon Amarillo'
 ---
 
 Está [NOX Ultra Carbon Amarillo](https://www.amazon.es/dp/B077N5LJZK/?tag=tolees-21) con 71.71 de descuento por 99 EUR (original: 350 EUR) en el siguiente enlace!

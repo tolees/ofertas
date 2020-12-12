@@ -17,6 +17,9 @@ comparePrice: 124.9 EUR
 inStock: true
 prodname: 'Foscam Fosbaby P1 - Vigilabebés para interior  función P2P  720p  WiFi  color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014WMCRHU/?tag=tolees-21'
+descuento: '44.76'
+titulo: 'Foscam Fosbaby P1 - Vigilabebés para int'
 ---
 
 Ahora mismo tienes [Foscam Fosbaby P1 - Vigilabebés para interior  función P2P  720p  WiFi  color azul](https://www.amazon.es/dp/B014WMCRHU/?tag=tolees-21) a 69 EUR (original: 124.9 EUR) (44.76 %  de descuento) en el siguiente enlace!

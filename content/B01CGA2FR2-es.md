@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Breville VKJ944 Hervidor  color blanco 3000 W  1.7 litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CGA2FR2/?tag=tolees-21'
+descuento: '40.07'
+titulo: 'Breville VKJ944 Hervidor  color blanco 3'
 ---
 
 Ahora mismo tienes [Breville VKJ944 Hervidor  color blanco 3000 W  1.7 litros](https://www.amazon.es/dp/B01CGA2FR2/?tag=tolees-21) a 35.9 EUR (original: 59.9 EUR) (40.07 %  de descuento) en el siguiente enlace!

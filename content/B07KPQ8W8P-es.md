@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Gant O2. Madras Colorful Reg BD SS Camisa  Azul  Persian Blue 423   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPQ8W8P/?tag=tolees-21'
+descuento: '58.03'
+titulo: 'Gant O2. Madras Colorful Reg BD SS Camis'
 ---
 
 Ahora mismo tienes [Gant O2. Madras Colorful Reg BD SS Camisa  Azul  Persian Blue 423   Small para Hombre](https://www.amazon.es/dp/B07KPQ8W8P/?tag=tolees-21) a 37.77 EUR (original: 89.99 EUR) (58.03 %  de descuento) en el siguiente enlace!

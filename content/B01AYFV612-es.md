@@ -17,6 +17,9 @@ comparePrice: 341.48 EUR
 inStock: true
 prodname: 'Huawei MediaPad M2 Tableta  16GB  3G 4G  pantalla de 10"  IEEE 802.11ac  Android  Pizarra  color plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AYFV612/?tag=tolees-21'
+descuento: '31.52'
+titulo: 'Huawei MediaPad M2 Tableta  16GB  3G 4G '
 ---
 
 Está [Huawei MediaPad M2 Tableta  16GB  3G 4G  pantalla de 10"  IEEE 802.11ac  Android  Pizarra  color plata](https://www.amazon.es/dp/B01AYFV612/?tag=tolees-21) con 31.52 de descuento por 233.84 EUR (original: 341.48 EUR) en el siguiente enlace!

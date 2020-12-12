@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Medisana 40423 - Báscula digital de baño personal con función de análisis corporal y Bluetooth  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00G915YFA/?tag=tolees-21'
+descuento: '41.06'
+titulo: 'Medisana 40423 - Báscula digital de baño'
 ---
 
 Tienes [Medisana 40423 - Báscula digital de baño personal con función de análisis corporal y Bluetooth  color negro](https://www.amazon.es/dp/B00G915YFA/?tag=tolees-21) con un 41.06 % de descuento con precio de oferta de 58.91 EUR (original: 99.95 EUR) en el siguiente enlace!

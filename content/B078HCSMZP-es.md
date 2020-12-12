@@ -17,6 +17,9 @@ comparePrice: 102.5 EUR
 inStock: true
 prodname: 'Froddo Kids Boots G3160082  Botas de Nieve Unisex para Niños  Azul  Dark Blue I17   31 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HCSMZP/?tag=tolees-21'
+descuento: '85.06'
+titulo: 'Froddo Kids Boots G3160082  Botas de Nie'
 ---
 
 Tienes [Froddo Kids Boots G3160082  Botas de Nieve Unisex para Niños  Azul  Dark Blue I17   31 EU](https://www.amazon.es/dp/B078HCSMZP/?tag=tolees-21) con un 85.06 % de descuento con precio de oferta de 15.31 EUR (original: 102.5 EUR) en el siguiente enlace!

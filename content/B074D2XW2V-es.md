@@ -17,6 +17,9 @@ comparePrice: 118.8 EUR
 inStock: true
 prodname: 'Deuter Fox 40  Mochila Unisex Adulto  Rojo  Cranberry/Steel   24x36x45 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074D2XW2V/?tag=tolees-21'
+descuento: '33.50'
+titulo: 'Deuter Fox 40  Mochila Unisex Adulto  Ro'
 ---
 
 Tienes [Deuter Fox 40  Mochila Unisex Adulto  Rojo  Cranberry/Steel   24x36x45 cm  W x H x L ](https://www.amazon.es/dp/B074D2XW2V/?tag=tolees-21) con un 33.50 % de descuento con precio de oferta de 79 EUR (original: 118.8 EUR) en el siguiente enlace!

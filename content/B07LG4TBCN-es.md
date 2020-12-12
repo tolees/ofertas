@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Reloj Digital Calendario LCD.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LG4TBCN/?tag=tolees-21'
+descuento: '33.18'
+titulo: 'Reloj Digital Calendario LCD.'
 ---
 
 Ahora mismo tienes [Reloj Digital Calendario LCD.](https://www.amazon.es/dp/B07LG4TBCN/?tag=tolees-21) a 13.33 EUR (original: 19.95 EUR) (33.18 %  de descuento) en el siguiente enlace!

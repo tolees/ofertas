@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Burton Friston Camisetas  Hombre  Pelican  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGXMQZS/?tag=tolees-21'
+descuento: '41.60'
+titulo: 'Burton Friston Camisetas  Hombre  Pelica'
 ---
 
 Está [Burton Friston Camisetas  Hombre  Pelican  M](https://www.amazon.es/dp/B07KGXMQZS/?tag=tolees-21) con 41.60 de descuento por 20.44 EUR (original: 35 EUR) en el siguiente enlace!

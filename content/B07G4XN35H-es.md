@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Birkenstock Arran Men  Zapatillas Hommes  Noir  Aviator Aviation Black   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4XN35H/?tag=tolees-21'
+descuento: '53.32'
+titulo: 'Birkenstock Arran Men  Zapatillas Hommes'
 ---
 
 Está [Birkenstock Arran Men  Zapatillas Hommes  Noir  Aviator Aviation Black   40 EU](https://www.amazon.es/dp/B07G4XN35H/?tag=tolees-21) con 53.32 de descuento por 70.02 EUR (original: 150 EUR) en el siguiente enlace!

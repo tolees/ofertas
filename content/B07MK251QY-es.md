@@ -17,6 +17,9 @@ comparePrice: 66.99 EUR
 inStock: true
 prodname: 'gracosy Sandalias Cuero Deportivas para Hombre Verano Exterior con Punta Abierta Sandalias de Playa Zapatillas de Montaña Senderismo Zapatos Playa Marrón Verde Café 2019'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MK251QY/?tag=tolees-21'
+descuento: '46.28'
+titulo: 'gracosy Sandalias Cuero Deportivas para '
 ---
 
 Tienes [gracosy Sandalias Cuero Deportivas para Hombre Verano Exterior con Punta Abierta Sandalias de Playa Zapatillas de Montaña Senderismo Zapatos Playa Marrón Verde Café 2019](https://www.amazon.es/dp/B07MK251QY/?tag=tolees-21) con un 46.28 % de descuento con precio de oferta de 35.99 EUR (original: 66.99 EUR) en el siguiente enlace!

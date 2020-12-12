@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Only Onlpi 7/8 Wrap Pullover Knt  suéter Mujer  Gris  Pumice Stone Detail:w. Melange   36  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071WFPV19/?tag=tolees-21'
+descuento: '55.21'
+titulo: 'Only Onlpi 7/8 Wrap Pullover Knt  suéter'
 ---
 
 Tienes [Only Onlpi 7/8 Wrap Pullover Knt  suéter Mujer  Gris  Pumice Stone Detail:w. Melange   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B071WFPV19/?tag=tolees-21) con un 55.21 % de descuento con precio de oferta de 12.09 EUR (original: 26.99 EUR) en el siguiente enlace!

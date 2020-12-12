@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Benetton 2BA2532W5  Chaqueta para Mujer  Negro  40 ES  10 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IP7XLUK/?tag=tolees-21'
+descuento: '74.88'
+titulo: 'Benetton 2BA2532W5  Chaqueta para Mujer '
 ---
 
 Ahora mismo tienes [Benetton 2BA2532W5  Chaqueta para Mujer  Negro  40 ES  10 UK ](https://www.amazon.es/dp/B01IP7XLUK/?tag=tolees-21) a 32.4 EUR (original: 129 EUR) (74.88 %  de descuento) en el siguiente enlace!

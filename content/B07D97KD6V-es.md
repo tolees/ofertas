@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'XTI 48375  Botines para Mujer  Negro  Black   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D97KD6V/?tag=tolees-21'
+descuento: '65.61'
+titulo: 'XTI 48375  Botines para Mujer  Negro  Bl'
 ---
 
 Ahora mismo tienes [XTI 48375  Botines para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B07D97KD6V/?tag=tolees-21) a 17.18 EUR (original: 49.95 EUR) (65.61 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'AURIQUE Camiseta Deportiva Mujer  Gris  Grey Marl   38  Talla del fabricante: S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CPV6YPL/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'AURIQUE Camiseta Deportiva Mujer  Gris  '
 ---
 
 Está [AURIQUE Camiseta Deportiva Mujer  Gris  Grey Marl   38  Talla del fabricante: S ](https://www.amazon.es/dp/B07CPV6YPL/?tag=tolees-21) con 30.00 de descuento por 12.6 EUR (original: 18 EUR) en el siguiente enlace!

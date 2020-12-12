@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Blend 20705356  Polo para Hombre  Rosa  Rose Red  XX-Large  Tamaño del Fabricante:XXL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076CKP23F/?tag=tolees-21'
+descuento: '72.26'
+titulo: 'Blend 20705356  Polo para Hombre  Rosa  '
 ---
 
 Tienes [Blend 20705356  Polo para Hombre  Rosa  Rose Red  XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B076CKP23F/?tag=tolees-21) con un 72.26 % de descuento con precio de oferta de 6.92 EUR (original: 24.95 EUR) en el siguiente enlace!

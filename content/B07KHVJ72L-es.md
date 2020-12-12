@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Fila Upl Wilmet Sweat Pants Pantalones de Deporte  Gris  Light Grey Mel B13   W35/L33  Talla del Fabricante: Large  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KHVJ72L/?tag=tolees-21'
+descuento: '44.32'
+titulo: 'Fila Upl Wilmet Sweat Pants Pantalones d'
 ---
 
 Está [Fila Upl Wilmet Sweat Pants Pantalones de Deporte  Gris  Light Grey Mel B13   W35/L33  Talla del Fabricante: Large  para Hombre](https://www.amazon.es/dp/B07KHVJ72L/?tag=tolees-21) con 44.32 de descuento por 27.81 EUR (original: 49.95 EUR) en el siguiente enlace!

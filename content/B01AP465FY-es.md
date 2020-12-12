@@ -17,6 +17,9 @@ comparePrice: 65.13 EUR
 inStock: true
 prodname: 'Geox Jr Federico M  Zapatos de Cordones Derby para Niños  Negro  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AP465FY/?tag=tolees-21'
+descuento: '30.28'
+titulo: 'Geox Jr Federico M  Zapatos de Cordones '
 ---
 
 Está [Geox Jr Federico M  Zapatos de Cordones Derby para Niños  Negro  42 EU](https://www.amazon.es/dp/B01AP465FY/?tag=tolees-21) con 30.28 de descuento por 45.41 EUR (original: 65.13 EUR) en el siguiente enlace!

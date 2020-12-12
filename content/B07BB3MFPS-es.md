@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Iris & Lilly Top de Pijama con Detalle de Encaje Mujer  Negro  Black Beauty   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB3MFPS/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Iris & Lilly Top de Pijama con Detalle d'
 ---
 
 Está [Iris & Lilly Top de Pijama con Detalle de Encaje Mujer  Negro  Black Beauty   Small](https://www.amazon.es/dp/B07BB3MFPS/?tag=tolees-21) con 30.02 de descuento por 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!

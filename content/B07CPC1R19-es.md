@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Crocs Classic II Slide  Sandalias de Punta Descubierta Unisex Adulto  Verde  Army Green 309   38/39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CPC1R19/?tag=tolees-21'
+descuento: '31.47'
+titulo: 'Crocs Classic II Slide  Sandalias de Pun'
 ---
 
 Tienes [Crocs Classic II Slide  Sandalias de Punta Descubierta Unisex Adulto  Verde  Army Green 309   38/39 EU](https://www.amazon.es/dp/B07CPC1R19/?tag=tolees-21) con un 31.47 % de descuento con precio de oferta de 13.7 EUR (original: 19.99 EUR) en el siguiente enlace!

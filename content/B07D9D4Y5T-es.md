@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'XTI 48572  Botas Biker para Mujer  Negro  Black   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9D4Y5T/?tag=tolees-21'
+descuento: '55.31'
+titulo: 'XTI 48572  Botas Biker para Mujer  Negro'
 ---
 
 Está [XTI 48572  Botas Biker para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B07D9D4Y5T/?tag=tolees-21) con 55.31 de descuento por 26.79 EUR (original: 59.95 EUR) en el siguiente enlace!

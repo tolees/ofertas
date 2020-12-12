@@ -17,6 +17,9 @@ comparePrice: 10 EUR
 inStock: true
 prodname: 'Bella Aurora M7 Crema de Manos Anti-Manchas SPF 15 - 75 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009K0GGPO/?tag=tolees-21'
+descuento: '33.30'
+titulo: 'Bella Aurora M7 Crema de Manos Anti-Manc'
 ---
 
 Tienes [Bella Aurora M7 Crema de Manos Anti-Manchas SPF 15 - 75 ml.](https://www.amazon.es/dp/B009K0GGPO/?tag=tolees-21) con un 33.30 % de descuento con precio de oferta de 6.67 EUR (original: 10 EUR) en el siguiente enlace!

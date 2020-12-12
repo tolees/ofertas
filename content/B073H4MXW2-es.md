@@ -17,6 +17,9 @@ comparePrice: 27.16 EUR
 inStock: true
 prodname: 'Inside 4SVES32&  Vestido Casual para Mujer  Negro  Negro   Small  Tamaño del fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073H4MXW2/?tag=tolees-21'
+descuento: '50.29'
+titulo: 'Inside 4SVES32&  Vestido Casual para Muj'
 ---
 
 Está [Inside 4SVES32&  Vestido Casual para Mujer  Negro  Negro   Small  Tamaño del fabricante:S ](https://www.amazon.es/dp/B073H4MXW2/?tag=tolees-21) con 50.29 de descuento por 13.5 EUR (original: 27.16 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 12.9 EUR
 inStock: true
 prodname: 'USB C Jack USB Tipo C Jack 3.5 mm Audio et Carga rápida para Xiaomi 6/Xiaomi Mix 2/Note 3  Huawei Mate 10 Pro/P20 Moto Z  Letv Teléfonos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K89BJCW/?tag=tolees-21'
+descuento: '38.06'
+titulo: 'USB C Jack USB Tipo C Jack 3.5 mm Audio '
 ---
 
 Tienes [USB C Jack USB Tipo C Jack 3.5 mm Audio et Carga rápida para Xiaomi 6/Xiaomi Mix 2/Note 3  Huawei Mate 10 Pro/P20 Moto Z  Letv Teléfonos](https://www.amazon.es/dp/B07K89BJCW/?tag=tolees-21) con un 38.06 % de descuento con precio de oferta de 7.99 EUR (original: 12.9 EUR) en el siguiente enlace!

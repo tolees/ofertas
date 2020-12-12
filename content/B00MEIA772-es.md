@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Sennheiser CX 1.00 - Auriculares in-Ear  reducción de Ruido   Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MEIA772/?tag=tolees-21'
+descuento: '37.37'
+titulo: 'Sennheiser CX 1.00 - Auriculares in-Ear '
 ---
 
 Está [Sennheiser CX 1.00 - Auriculares in-Ear  reducción de Ruido   Blanco](https://www.amazon.es/dp/B00MEIA772/?tag=tolees-21) con 37.37 de descuento por 24.99 EUR (original: 39.9 EUR) en el siguiente enlace!

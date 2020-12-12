@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'HP 400 Conjunto de Altavoces 2.1 Canales 8 W Negro - Set de Altavoces  2.1 Canales  8 W  Universal  De 1 vía  4 W  4 W '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075XW2VMV/?tag=tolees-21'
+descuento: '39.39'
+titulo: 'HP 400 Conjunto de Altavoces 2.1 Canales'
 ---
 
 Ahora mismo tienes [HP 400 Conjunto de Altavoces 2.1 Canales 8 W Negro - Set de Altavoces  2.1 Canales  8 W  Universal  De 1 vía  4 W  4 W ](https://www.amazon.es/dp/B075XW2VMV/?tag=tolees-21) a 30.3 EUR (original: 49.99 EUR) (39.39 %  de descuento) en el siguiente enlace!

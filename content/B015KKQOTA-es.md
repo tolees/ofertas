@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Kappa Speed II  Zapatillas Unisex Adulto  Gris  1410 LŽgrey/White   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015KKQOTA/?tag=tolees-21'
+descuento: '51.01'
+titulo: 'Kappa Speed II  Zapatillas Unisex Adulto'
 ---
 
 Tienes [Kappa Speed II  Zapatillas Unisex Adulto  Gris  1410 LŽgrey/White   41 EU](https://www.amazon.es/dp/B015KKQOTA/?tag=tolees-21) con un 51.01 % de descuento con precio de oferta de 29.37 EUR (original: 59.95 EUR) en el siguiente enlace!

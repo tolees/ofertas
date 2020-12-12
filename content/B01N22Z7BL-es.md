@@ -17,6 +17,9 @@ comparePrice: 36.15 EUR
 inStock: true
 prodname: 'Urban Classics Light Bomber Jacket  Chaqueta Hombre  Gris  Darkgrey 94  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N22Z7BL/?tag=tolees-21'
+descuento: '44.67'
+titulo: 'Urban Classics Light Bomber Jacket  Chaq'
 ---
 
 Tienes [Urban Classics Light Bomber Jacket  Chaqueta Hombre  Gris  Darkgrey 94  Medium](https://www.amazon.es/dp/B01N22Z7BL/?tag=tolees-21) con un 44.67 % de descuento con precio de oferta de 20 EUR (original: 36.15 EUR) en el siguiente enlace!

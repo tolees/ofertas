@@ -17,6 +17,9 @@ comparePrice: 20.46 EUR
 inStock: true
 prodname: 'Pack Objetivo La Casa Blanca + Objetivo Londres [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HQVVD0Q/?tag=tolees-21'
+descuento: '51.17'
+titulo: 'Pack Objetivo La Casa Blanca + Objetivo '
 ---
 
 Está [Pack Objetivo La Casa Blanca + Objetivo Londres [Blu-ray]](https://www.amazon.es/dp/B01HQVVD0Q/?tag=tolees-21) con 51.17 de descuento por 9.99 EUR (original: 20.46 EUR) en el siguiente enlace!

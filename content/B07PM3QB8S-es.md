@@ -17,6 +17,9 @@ comparePrice: 39.69 EUR
 inStock: true
 prodname: 'Louviva Mini Masajeador Portátil  Diámetro Interno 3.5cm，10 Modos  Recargable - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PM3QB8S/?tag=tolees-21'
+descuento: '74.83'
+titulo: 'Louviva Mini Masajeador Portátil  Diámet'
 ---
 
 Tienes [Louviva Mini Masajeador Portátil  Diámetro Interno 3.5cm，10 Modos  Recargable - Negro](https://www.amazon.es/dp/B07PM3QB8S/?tag=tolees-21) con un 74.83 % de descuento con precio de oferta de 9.99 EUR (original: 39.69 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Guess - Bobbi  Bolsos totes Mujer  Multicolor  Green Camo   42.5x35x12.5 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FCHTX4V/?tag=tolees-21'
+descuento: '66.09'
+titulo: 'Guess - Bobbi  Bolsos totes Mujer  Multi'
 ---
 
 Ahora mismo tienes [Guess - Bobbi  Bolsos totes Mujer  Multicolor  Green Camo   42.5x35x12.5 cm  W x H L ](https://www.amazon.es/dp/B07FCHTX4V/?tag=tolees-21) a 47.48 EUR (original: 140 EUR) (66.09 %  de descuento) en el siguiente enlace!

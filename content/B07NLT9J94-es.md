@@ -17,6 +17,9 @@ comparePrice: 20.69 EUR
 inStock: true
 prodname: 'Camela - Rebobinando  CD '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NLT9J94/?tag=tolees-21'
+descuento: '27.55'
+titulo: 'Camela - Rebobinando  CD '
 ---
 
 Ahora mismo tienes [Camela - Rebobinando  CD ](https://www.amazon.es/dp/B07NLT9J94/?tag=tolees-21) a 14.99 EUR (original: 20.69 EUR) (27.55 %  de descuento) en el siguiente enlace!

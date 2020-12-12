@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'Asics Gel-Nimbus 20  Zapatillas de Entrenamiento para Mujer  Gris Carbon 020  39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1GRRST/?tag=tolees-21'
+descuento: '42.14'
+titulo: 'Asics Gel-Nimbus 20  Zapatillas de Entre'
 ---
 
 Ahora mismo tienes [Asics Gel-Nimbus 20  Zapatillas de Entrenamiento para Mujer  Gris Carbon 020  39.5 EU](https://www.amazon.es/dp/B07D1GRRST/?tag=tolees-21) a 104.15 EUR (original: 180 EUR) (42.14 %  de descuento) en el siguiente enlace!

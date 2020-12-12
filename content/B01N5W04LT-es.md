@@ -17,6 +17,9 @@ comparePrice: 90.99 EUR
 inStock: true
 prodname: 'San Ignacio Juego de Sartenes y Utensilios de Cocina  Acero Inoxidable  Negro  24 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5W04LT/?tag=tolees-21'
+descuento: '63.18'
+titulo: 'San Ignacio Juego de Sartenes y Utensili'
 ---
 
 Está [San Ignacio Juego de Sartenes y Utensilios de Cocina  Acero Inoxidable  Negro  24 cm](https://www.amazon.es/dp/B01N5W04LT/?tag=tolees-21) con 63.18 de descuento por 33.5 EUR (original: 90.99 EUR) en el siguiente enlace!

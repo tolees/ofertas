@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Gant Tonal Shield Full Zip Hoodie  Capucha Mujer  Azul  Evening Blue   42  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2Q2LFC/?tag=tolees-21'
+descuento: '40.75'
+titulo: 'Gant Tonal Shield Full Zip Hoodie  Capuc'
 ---
 
 Ahora mismo tienes [Gant Tonal Shield Full Zip Hoodie  Capucha Mujer  Azul  Evening Blue   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07D2Q2LFC/?tag=tolees-21) a 88.28 EUR (original: 149 EUR) (40.75 %  de descuento) en el siguiente enlace!

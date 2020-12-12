@@ -17,6 +17,9 @@ comparePrice: 29.12 EUR
 inStock: true
 prodname: 'New Look Wide Foot Deena  Botines para Mujer  Beige  Tan 18   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDL8NG5/?tag=tolees-21'
+descuento: '46.77'
+titulo: 'New Look Wide Foot Deena  Botines para M'
 ---
 
 Ahora mismo tienes [New Look Wide Foot Deena  Botines para Mujer  Beige  Tan 18   40 EU](https://www.amazon.es/dp/B07GDL8NG5/?tag=tolees-21) a 15.5 EUR (original: 29.12 EUR) (46.77 %  de descuento) en el siguiente enlace!

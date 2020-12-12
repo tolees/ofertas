@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Victoria Inglesa Lona 6613  Zapatillas de Tela Unisex  Rojo  Red   35'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BGB4NEQ/?tag=tolees-21'
+descuento: '55.24'
+titulo: 'Victoria Inglesa Lona 6613  Zapatillas d'
 ---
 
 Está [Victoria Inglesa Lona 6613  Zapatillas de Tela Unisex  Rojo  Red   35](https://www.amazon.es/dp/B00BGB4NEQ/?tag=tolees-21) con 55.24 de descuento por 12.98 EUR (original: 29 EUR) en el siguiente enlace!

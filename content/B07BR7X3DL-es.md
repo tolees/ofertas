@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Levi s Marshy Red Tab Beanie Gorro de Punto  Azul  Navy Blue 17   única  Talla del Fabricante: UN  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BR7X3DL/?tag=tolees-21'
+descuento: '58.76'
+titulo: 'Levi s Marshy Red Tab Beanie Gorro de Pu'
 ---
 
 Ahora mismo tienes [Levi s Marshy Red Tab Beanie Gorro de Punto  Azul  Navy Blue 17   única  Talla del Fabricante: UN  para Hombre](https://www.amazon.es/dp/B07BR7X3DL/?tag=tolees-21) a 10.31 EUR (original: 25 EUR) (58.76 %  de descuento) en el siguiente enlace!

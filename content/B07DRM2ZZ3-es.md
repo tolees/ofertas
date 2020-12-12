@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Adidas Fortarun AC I  Zapatillas de Gimnasia Unisex bebé  Azul Collegiate Navy/Blue/FTWR White  22 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DRM2ZZ3/?tag=tolees-21'
+descuento: '37.20'
+titulo: 'Adidas Fortarun AC I  Zapatillas de Gimn'
 ---
 
 Tienes [Adidas Fortarun AC I  Zapatillas de Gimnasia Unisex bebé  Azul Collegiate Navy/Blue/FTWR White  22 EU](https://www.amazon.es/dp/B07DRM2ZZ3/?tag=tolees-21) con un 37.20 % de descuento con precio de oferta de 21.95 EUR (original: 34.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Tom Tailor Denim  NOS  Basic Slim Chino Hose  Pantalones para Hombre  Gris  Eiffel Tower 10383   W36/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KWPLMFS/?tag=tolees-21'
+descuento: '47.15'
+titulo: 'Tom Tailor Denim  NOS  Basic Slim Chino '
 ---
 
 Está [Tom Tailor Denim  NOS  Basic Slim Chino Hose  Pantalones para Hombre  Gris  Eiffel Tower 10383   W36/L34](https://www.amazon.es/dp/B07KWPLMFS/?tag=tolees-21) con 47.15 de descuento por 26.42 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Merrell MOAB Mid GTX  Botas de Senderismo para Mujer  Grey/Periwinkle  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000RJ2BNS/?tag=tolees-21'
+descuento: '31.62'
+titulo: 'Merrell MOAB Mid GTX  Botas de Senderism'
 ---
 
 Ahora mismo tienes [Merrell MOAB Mid GTX  Botas de Senderismo para Mujer  Grey/Periwinkle  39 EU](https://www.amazon.es/dp/B000RJ2BNS/?tag=tolees-21) a 95.73 EUR (original: 140 EUR) (31.62 %  de descuento) en el siguiente enlace!

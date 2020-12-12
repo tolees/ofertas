@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Nike JR Vapor 12 Club GS IC  Zapatillas de fútbol Sala Unisex niño   Wolf Grey/Lt Crimson/Black 060   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G5MFMSS/?tag=tolees-21'
+descuento: '26.50'
+titulo: 'Nike JR Vapor 12 Club GS IC  Zapatillas '
 ---
 
 Tienes [Nike JR Vapor 12 Club GS IC  Zapatillas de fútbol Sala Unisex niño   Wolf Grey/Lt Crimson/Black 060   35 EU](https://www.amazon.es/dp/B07G5MFMSS/?tag=tolees-21) con un 26.50 % de descuento con precio de oferta de 29.4 EUR (original: 40 EUR) en el siguiente enlace!

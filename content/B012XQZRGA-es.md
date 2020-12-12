@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New BalanceMX624AB4 - Zapatillas Deportivas para Interior hombre  color negro  talla 43  talla fabricante: 9 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012XQZRGA/?tag=tolees-21'
+descuento: '59.37'
+titulo: 'New BalanceMX624AB4 - Zapatillas Deporti'
 ---
 
 Tienes [New BalanceMX624AB4 - Zapatillas Deportivas para Interior hombre  color negro  talla 43  talla fabricante: 9 UK ](https://www.amazon.es/dp/B012XQZRGA/?tag=tolees-21) con un 59.37 % de descuento con precio de oferta de 28.44 EUR (original: 70 EUR) en el siguiente enlace!

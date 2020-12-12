@@ -17,6 +17,9 @@ comparePrice: 25.32 EUR
 inStock: true
 prodname: 'GVS Filter Technology DME3021 FFP3 - Máscara de polvo moldeada con válvula  10 unidades '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7Y5NWA/?tag=tolees-21'
+descuento: '86.18'
+titulo: 'GVS Filter Technology DME3021 FFP3 - Más'
 ---
 
 Está [GVS Filter Technology DME3021 FFP3 - Máscara de polvo moldeada con válvula  10 unidades ](https://www.amazon.es/dp/B01N7Y5NWA/?tag=tolees-21) con 86.18 de descuento por 3.5 EUR (original: 25.32 EUR) en el siguiente enlace!

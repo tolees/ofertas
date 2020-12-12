@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'The North Face T934V2 Chaquetas  Niñas  Mid Grey  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078QSRK85/?tag=tolees-21'
+descuento: '78.38'
+titulo: 'The North Face T934V2 Chaquetas  Niñas  '
 ---
 
 Está [The North Face T934V2 Chaquetas  Niñas  Mid Grey  S](https://www.amazon.es/dp/B078QSRK85/?tag=tolees-21) con 78.38 de descuento por 21.62 EUR (original: 100 EUR) en el siguiente enlace!

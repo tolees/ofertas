@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Fluchos Richfield  Náuticos para Hombre  Marrón  Castaño 000   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072M2PYWC/?tag=tolees-21'
+descuento: '46.92'
+titulo: 'Fluchos Richfield  Náuticos para Hombre '
 ---
 
 Ahora mismo tienes [Fluchos Richfield  Náuticos para Hombre  Marrón  Castaño 000   41 EU](https://www.amazon.es/dp/B072M2PYWC/?tag=tolees-21) a 53.03 EUR (original: 99.9 EUR) (46.92 %  de descuento) en el siguiente enlace!

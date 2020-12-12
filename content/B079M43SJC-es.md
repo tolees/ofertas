@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Protest Craig Bañador  Negro  True Black 290   Medium  Tamaño del Fabricante:M  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079M43SJC/?tag=tolees-21'
+descuento: '73.51'
+titulo: 'Protest Craig Bañador  Negro  True Black'
 ---
 
 Ahora mismo tienes [Protest Craig Bañador  Negro  True Black 290   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B079M43SJC/?tag=tolees-21) a 11.92 EUR (original: 44.99 EUR) (73.51 %  de descuento) en el siguiente enlace!

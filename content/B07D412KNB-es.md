@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Nike Revolution 4  GS   Zapatillas de Running para Niños  Azul Hero/Pure Platinum-Blue Glow-Black 401  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D412KNB/?tag=tolees-21'
+descuento: '35.78'
+titulo: 'Nike Revolution 4  GS   Zapatillas de Ru'
 ---
 
 Ahora mismo tienes [Nike Revolution 4  GS   Zapatillas de Running para Niños  Azul Hero/Pure Platinum-Blue Glow-Black 401  38 EU](https://www.amazon.es/dp/B07D412KNB/?tag=tolees-21) a 28.9 EUR (original: 45 EUR) (35.78 %  de descuento) en el siguiente enlace!

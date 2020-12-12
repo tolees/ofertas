@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Tommee Tippee Sangenic Tec - Contenedor de pañales  color gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074XBQMR7/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Tommee Tippee Sangenic Tec - Contenedor '
 ---
 
 Tienes [Tommee Tippee Sangenic Tec - Contenedor de pañales  color gris](https://www.amazon.es/dp/B074XBQMR7/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

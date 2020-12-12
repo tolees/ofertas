@@ -17,6 +17,9 @@ comparePrice: 162.59 EUR
 inStock: true
 prodname: 'Mil-Tec – Chaqueta de protección contra la Humedad con Forro Polar  Hombre  Camuflaje  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0058HTGB4/?tag=tolees-21'
+descuento: '47.24'
+titulo: 'Mil-Tec – Chaqueta de protección contra '
 ---
 
 Ahora mismo tienes [Mil-Tec – Chaqueta de protección contra la Humedad con Forro Polar  Hombre  Camuflaje  Talla única](https://www.amazon.es/dp/B0058HTGB4/?tag=tolees-21) a 85.78 EUR (original: 162.59 EUR) (47.24 %  de descuento) en el siguiente enlace!

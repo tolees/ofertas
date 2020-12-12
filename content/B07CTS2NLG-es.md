@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'LiFashion LF Pulsera personalizada de identificación de cuero trenzado de acero inoxidable para hombre regalo de San Valentín día de padres grabado gratuito personalizado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTS2NLG/?tag=tolees-21'
+descuento: '72.52'
+titulo: 'LiFashion LF Pulsera personalizada de id'
 ---
 
 Tienes [LiFashion LF Pulsera personalizada de identificación de cuero trenzado de acero inoxidable para hombre regalo de San Valentín día de padres grabado gratuito personalizado](https://www.amazon.es/dp/B07CTS2NLG/?tag=tolees-21) con un 72.52 % de descuento con precio de oferta de 10.99 EUR (original: 39.99 EUR) en el siguiente enlace!

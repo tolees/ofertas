@@ -17,6 +17,9 @@ comparePrice: 89.69 EUR
 inStock: true
 prodname: 'Collar de Entrenamiento de Perro  Recargable e Impermeable electrónico Perro Entrenador de la operación de Ciego Collar controlado con Tono/vibración /Light'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CYY6MGD/?tag=tolees-21'
+descuento: '51.00'
+titulo: 'Collar de Entrenamiento de Perro  Recarg'
 ---
 
 Está [Collar de Entrenamiento de Perro  Recargable e Impermeable electrónico Perro Entrenador de la operación de Ciego Collar controlado con Tono/vibración /Light](https://www.amazon.es/dp/B07CYY6MGD/?tag=tolees-21) con 51.00 de descuento por 43.95 EUR (original: 89.69 EUR) en el siguiente enlace!

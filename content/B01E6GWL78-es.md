@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'DC Super Hero Girls Muñeca Starfire  Mattel DVG20 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01E6GWL78/?tag=tolees-21'
+descuento: '45.48'
+titulo: 'DC Super Hero Girls Muñeca Starfire  Mat'
 ---
 
 Está [DC Super Hero Girls Muñeca Starfire  Mattel DVG20 ](https://www.amazon.es/dp/B01E6GWL78/?tag=tolees-21) con 45.48 de descuento por 11.99 EUR (original: 21.99 EUR) en el siguiente enlace!

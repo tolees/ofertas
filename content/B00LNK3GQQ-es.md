@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'MarBlue Atlas Plus - Funda para Fire HD 6  4ª generación - modelo de 2014   color rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LNK3GQQ/?tag=tolees-21'
+descuento: '75.04'
+titulo: 'MarBlue Atlas Plus - Funda para Fire HD '
 ---
 
 Tienes [MarBlue Atlas Plus - Funda para Fire HD 6  4ª generación - modelo de 2014   color rojo](https://www.amazon.es/dp/B00LNK3GQQ/?tag=tolees-21) con un 75.04 % de descuento con precio de oferta de 4.99 EUR (original: 19.99 EUR) en el siguiente enlace!

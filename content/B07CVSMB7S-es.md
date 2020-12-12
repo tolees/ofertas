@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Under Armour Spawn Low  Zapatos de Baloncesto para Hombre  Blanco White/Ash Taupe 100  40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVSMB7S/?tag=tolees-21'
+descuento: '56.23'
+titulo: 'Under Armour Spawn Low  Zapatos de Balon'
 ---
 
 Ahora mismo tienes [Under Armour Spawn Low  Zapatos de Baloncesto para Hombre  Blanco White/Ash Taupe 100  40.5 EU](https://www.amazon.es/dp/B07CVSMB7S/?tag=tolees-21) a 48.15 EUR (original: 110 EUR) (56.23 %  de descuento) en el siguiente enlace!

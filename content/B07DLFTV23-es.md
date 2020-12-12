@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield Jeans Slim Grey Pantalones  Hombre  Gris  Gris Oscuro 40   36  Tamaño del Fabricante:36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLFTV23/?tag=tolees-21'
+descuento: '49.18'
+titulo: 'Springfield Jeans Slim Grey Pantalones  '
 ---
 
 Tienes [Springfield Jeans Slim Grey Pantalones  Hombre  Gris  Gris Oscuro 40   36  Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B07DLFTV23/?tag=tolees-21) con un 49.18 % de descuento con precio de oferta de 15.24 EUR (original: 29.99 EUR) en el siguiente enlace!

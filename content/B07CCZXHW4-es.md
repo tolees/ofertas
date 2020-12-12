@@ -17,6 +17,9 @@ comparePrice: 18.89 EUR
 inStock: true
 prodname: 'Loving Vincent - Edición Especial Coleccionista [DVD + Blu-ray + Banda Sonora + Postales] [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CCZXHW4/?tag=tolees-21'
+descuento: '35.94'
+titulo: 'Loving Vincent - Edición Especial Colecc'
 ---
 
 Ahora mismo tienes [Loving Vincent - Edición Especial Coleccionista [DVD + Blu-ray + Banda Sonora + Postales] [Blu-ray]](https://www.amazon.es/dp/B07CCZXHW4/?tag=tolees-21) a 12.1 EUR (original: 18.89 EUR) (35.94 %  de descuento) en el siguiente enlace!

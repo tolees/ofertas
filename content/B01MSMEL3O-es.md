@@ -17,6 +17,9 @@ comparePrice: 8.12 EUR
 inStock: true
 prodname: 'Knorr - Salsa Envase Bechamel Ambiente 500 ml - [Pack de 4]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MSMEL3O/?tag=tolees-21'
+descuento: '44.95'
+titulo: 'Knorr - Salsa Envase Bechamel Ambiente 5'
 ---
 
 Está [Knorr - Salsa Envase Bechamel Ambiente 500 ml - [Pack de 4]](https://www.amazon.es/dp/B01MSMEL3O/?tag=tolees-21) con 44.95 de descuento por 4.47 EUR (original: 8.12 EUR) en el siguiente enlace!

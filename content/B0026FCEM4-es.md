@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'WMF Profi Plus Espátula para Crepe  Acero Inoxidable Pulido  Centimeters'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0026FCEM4/?tag=tolees-21'
+descuento: '39.90'
+titulo: 'WMF Profi Plus Espátula para Crepe  Acer'
 ---
 
 Tienes [WMF Profi Plus Espátula para Crepe  Acero Inoxidable Pulido  Centimeters](https://www.amazon.es/dp/B0026FCEM4/?tag=tolees-21) con un 39.90 % de descuento con precio de oferta de 11.99 EUR (original: 19.95 EUR) en el siguiente enlace!

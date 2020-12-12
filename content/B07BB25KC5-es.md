@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Merrell Siren Edge Q2 WP  Zapatillas de Senderismo para Mujer  Verde Jungle  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB25KC5/?tag=tolees-21'
+descuento: '46.69'
+titulo: 'Merrell Siren Edge Q2 WP  Zapatillas de '
 ---
 
 Está [Merrell Siren Edge Q2 WP  Zapatillas de Senderismo para Mujer  Verde Jungle  41 EU](https://www.amazon.es/dp/B07BB25KC5/?tag=tolees-21) con 46.69 de descuento por 58.64 EUR (original: 110 EUR) en el siguiente enlace!

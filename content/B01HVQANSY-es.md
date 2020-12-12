@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Quiksilver AQBB700004 - Botas para niños  color Negro  Solid Black   talla 36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HVQANSY/?tag=tolees-21'
+descuento: '73.98'
+titulo: 'Quiksilver AQBB700004 - Botas para niños'
 ---
 
 Está [Quiksilver AQBB700004 - Botas para niños  color Negro  Solid Black   talla 36 EU](https://www.amazon.es/dp/B01HVQANSY/?tag=tolees-21) con 73.98 de descuento por 20.8 EUR (original: 79.95 EUR) en el siguiente enlace!

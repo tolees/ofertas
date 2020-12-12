@@ -17,6 +17,9 @@ comparePrice: 96 EUR
 inStock: true
 prodname: 'Munich Osaka  Zapatillas Unisex Adulto   Gris 357   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D86QYCH/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Munich Osaka  Zapatillas Unisex Adulto  '
 ---
 
 Tienes [Munich Osaka  Zapatillas Unisex Adulto   Gris 357   40 EU](https://www.amazon.es/dp/B07D86QYCH/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 48 EUR (original: 96 EUR) en el siguiente enlace!

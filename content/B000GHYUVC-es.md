@@ -17,6 +17,9 @@ comparePrice: 69.4 EUR
 inStock: true
 prodname: 'Guerlain Agua de Perfume - 30 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000GHYUVC/?tag=tolees-21'
+descuento: '32.39'
+titulo: 'Guerlain Agua de Perfume - 30 ml'
 ---
 
 Tienes [Guerlain Agua de Perfume - 30 ml](https://www.amazon.es/dp/B000GHYUVC/?tag=tolees-21) con un 32.39 % de descuento con precio de oferta de 46.92 EUR (original: 69.4 EUR) en el siguiente enlace!

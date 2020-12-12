@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Nike sx7069 – 904 – Calcetines para Mujer  Mujer  Color Blk Rp /Blk V /Blk LPB   tamaño FR : S  Taille Fabricant : S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WHMXKK/?tag=tolees-21'
+descuento: '35.52'
+titulo: 'Nike sx7069 – 904 – Calcetines para Muje'
 ---
 
 Tienes [Nike sx7069 – 904 – Calcetines para Mujer  Mujer  Color Blk Rp /Blk V /Blk LPB   tamaño FR : S  Taille Fabricant : S ](https://www.amazon.es/dp/B078WHMXKK/?tag=tolees-21) con un 35.52 % de descuento con precio de oferta de 9.64 EUR (original: 14.95 EUR) en el siguiente enlace!

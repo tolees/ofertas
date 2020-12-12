@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'LELO Set Regalo de Bodas  Vibrador/Anillo/Venda '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DF10ZW4/?tag=tolees-21'
+descuento: '78.73'
+titulo: 'LELO Set Regalo de Bodas  Vibrador/Anill'
 ---
 
 Ahora mismo tienes [LELO Set Regalo de Bodas  Vibrador/Anillo/Venda ](https://www.amazon.es/dp/B00DF10ZW4/?tag=tolees-21) a 42.32 EUR (original: 199 EUR) (78.73 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'MochilaTucano Loop 15 6" Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H5J1N8G/?tag=tolees-21'
+descuento: '51.76'
+titulo: 'MochilaTucano Loop 15 6" Negro'
 ---
 
 Tienes [MochilaTucano Loop 15 6" Negro](https://www.amazon.es/dp/B01H5J1N8G/?tag=tolees-21) con un 51.76 % de descuento con precio de oferta de 14.95 EUR (original: 30.99 EUR) en el siguiente enlace!

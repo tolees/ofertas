@@ -17,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Kipling SILEN  Bolso bandolera para Mujer  Azul  True Navy  24x18x11 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0764KV9HZ/?tag=tolees-21'
+descuento: '31.66'
+titulo: 'Kipling SILEN  Bolso bandolera para Muje'
 ---
 
 Ahora mismo tienes [Kipling SILEN  Bolso bandolera para Mujer  Azul  True Navy  24x18x11 cm](https://www.amazon.es/dp/B0764KV9HZ/?tag=tolees-21) a 54.6 EUR (original: 79.9 EUR) (31.66 %  de descuento) en el siguiente enlace!

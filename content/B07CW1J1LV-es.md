@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Skechers Dynamight 2.0 to Eye  Zapatillas para Mujer  Negro  Black BBK   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CW1J1LV/?tag=tolees-21'
+descuento: '30.03'
+titulo: 'Skechers Dynamight 2.0 to Eye  Zapatilla'
 ---
 
 Tienes [Skechers Dynamight 2.0 to Eye  Zapatillas para Mujer  Negro  Black BBK   36 EU](https://www.amazon.es/dp/B07CW1J1LV/?tag=tolees-21) con un 30.03 % de descuento con precio de oferta de 34.95 EUR (original: 49.95 EUR) en el siguiente enlace!

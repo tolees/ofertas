@@ -17,6 +17,9 @@ comparePrice: 26.77 EUR
 inStock: true
 prodname: 'Apli 04128 - Papel Apli camisetas blancas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0011Z9UKE/?tag=tolees-21'
+descuento: '38.36'
+titulo: 'Apli 04128 - Papel Apli camisetas blanca'
 ---
 
 Ahora mismo tienes [Apli 04128 - Papel Apli camisetas blancas](https://www.amazon.es/dp/B0011Z9UKE/?tag=tolees-21) a 16.5 EUR (original: 26.77 EUR) (38.36 %  de descuento) en el siguiente enlace!

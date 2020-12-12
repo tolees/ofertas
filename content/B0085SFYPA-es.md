@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Jack & Jones Jones - Camiseta de manga corta con cuello pico para hombre  Black C N 010  L / 52'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0085SFYPA/?tag=tolees-21'
+descuento: '50.19'
+titulo: 'Jack & Jones Jones - Camiseta de manga c'
 ---
 
 Está [Jack & Jones Jones - Camiseta de manga corta con cuello pico para hombre  Black C N 010  L / 52](https://www.amazon.es/dp/B0085SFYPA/?tag=tolees-21) con 50.19 de descuento por 6.45 EUR (original: 12.95 EUR) en el siguiente enlace!

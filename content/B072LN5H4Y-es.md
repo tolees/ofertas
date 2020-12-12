@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Under Armour UA W Ultimate Speed  Zapatillas de Deporte para Mujer  Gris  Tin 102   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LN5H4Y/?tag=tolees-21'
+descuento: '74.51'
+titulo: 'Under Armour UA W Ultimate Speed  Zapati'
 ---
 
 Tienes [Under Armour UA W Ultimate Speed  Zapatillas de Deporte para Mujer  Gris  Tin 102   37.5 EU](https://www.amazon.es/dp/B072LN5H4Y/?tag=tolees-21) con un 74.51 % de descuento con precio de oferta de 25.49 EUR (original: 100 EUR) en el siguiente enlace!

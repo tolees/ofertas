@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Guaiboshi Tiras de Luz LED Strip 3M 5M Tira LED de Luces Iluminación Kit Completo para el hogar  jardín  decoración  3M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076BCHKHP/?tag=tolees-21'
+descuento: '55.59'
+titulo: 'Guaiboshi Tiras de Luz LED Strip 3M 5M T'
 ---
 
 Está [Guaiboshi Tiras de Luz LED Strip 3M 5M Tira LED de Luces Iluminación Kit Completo para el hogar  jardín  decoración  3M ](https://www.amazon.es/dp/B076BCHKHP/?tag=tolees-21) con 55.59 de descuento por 7.99 EUR (original: 17.99 EUR) en el siguiente enlace!

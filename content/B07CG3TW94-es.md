@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Imixcity Verano Camiseta de Manga Corta Blusas Tops V Cuello Básica Camiseta Casual Túnica Tops con Dobladillo Irregular y Abertura Lateral para Mujer  M  Beige '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CG3TW94/?tag=tolees-21'
+descuento: '58.86'
+titulo: 'Imixcity Verano Camiseta de Manga Corta '
 ---
 
 Ahora mismo tienes [Imixcity Verano Camiseta de Manga Corta Blusas Tops V Cuello Básica Camiseta Casual Túnica Tops con Dobladillo Irregular y Abertura Lateral para Mujer  M  Beige ](https://www.amazon.es/dp/B07CG3TW94/?tag=tolees-21) a 6.99 EUR (original: 16.99 EUR) (58.86 %  de descuento) en el siguiente enlace!

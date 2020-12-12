@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'The North Face Back-to-Berkeley Redux Leather  Botas de Senderismo para Hombre  Negro TNF Black Kx8  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2UDXR2/?tag=tolees-21'
+descuento: '44.70'
+titulo: 'The North Face Back-to-Berkeley Redux Le'
 ---
 
 Ahora mismo tienes [The North Face Back-to-Berkeley Redux Leather  Botas de Senderismo para Hombre  Negro TNF Black Kx8  41 EU](https://www.amazon.es/dp/B01N2UDXR2/?tag=tolees-21) a 82.95 EUR (original: 150 EUR) (44.70 %  de descuento) en el siguiente enlace!

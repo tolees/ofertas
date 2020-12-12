@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcoexplore tee SS Crew Neck Camiseta  Blanco  White Fit:Reg   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L1DK3NG/?tag=tolees-21'
+descuento: '42.52'
+titulo: 'JACK & JONES Jcoexplore tee SS Crew Neck'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcoexplore tee SS Crew Neck Camiseta  Blanco  White Fit:Reg   Large para Hombre](https://www.amazon.es/dp/B07L1DK3NG/?tag=tolees-21) a 10.34 EUR (original: 17.99 EUR) (42.52 %  de descuento) en el siguiente enlace!

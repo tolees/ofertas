@@ -17,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'FIND 17 03 850 camisetas  Negro  Schwarz   44  Talla del Fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072K6NR9G/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND 17 03 850 camisetas  Negro  Schwarz'
 ---
 
 Tienes [FIND 17 03 850 camisetas  Negro  Schwarz   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B072K6NR9G/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 5.4 EUR (original: 18 EUR) en el siguiente enlace!

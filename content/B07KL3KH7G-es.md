@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Nike M TM CLUB19 SS Polo Shirt  Hombre  University Red/ White   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KL3KH7G/?tag=tolees-21'
+descuento: '33.33'
+titulo: 'Nike M TM CLUB19 SS Polo Shirt  Hombre  '
 ---
 
 Ahora mismo tienes [Nike M TM CLUB19 SS Polo Shirt  Hombre  University Red/ White   XL](https://www.amazon.es/dp/B07KL3KH7G/?tag=tolees-21) a 20 EUR (original: 30 EUR) (33.33 %  de descuento) en el siguiente enlace!

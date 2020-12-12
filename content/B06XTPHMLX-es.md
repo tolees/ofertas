@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Pepe Jeans Schank PM540960  Polo para Hombre  Azul  Dk Blue 581  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XTPHMLX/?tag=tolees-21'
+descuento: '59.45'
+titulo: 'Pepe Jeans Schank PM540960  Polo para Ho'
 ---
 
 Tienes [Pepe Jeans Schank PM540960  Polo para Hombre  Azul  Dk Blue 581  Small](https://www.amazon.es/dp/B06XTPHMLX/?tag=tolees-21) con un 59.45 % de descuento con precio de oferta de 22.3 EUR (original: 55 EUR) en el siguiente enlace!

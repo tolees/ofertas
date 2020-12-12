@@ -17,6 +17,9 @@ comparePrice: 31 EUR
 inStock: true
 prodname: 'Tommy Hilfiger New Danny Belt  Cinturón para Mujer  Cognac  80'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XDYNGEW/?tag=tolees-21'
+descuento: '29.03'
+titulo: 'Tommy Hilfiger New Danny Belt  Cinturón '
 ---
 
 Tienes [Tommy Hilfiger New Danny Belt  Cinturón para Mujer  Cognac  80](https://www.amazon.es/dp/B00XDYNGEW/?tag=tolees-21) con un 29.03 % de descuento con precio de oferta de 22 EUR (original: 31 EUR) en el siguiente enlace!

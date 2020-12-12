@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Adela  Zapatillas para Mujer  Azul Fair Aqua  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1P29T/?tag=tolees-21'
+descuento: '58.42'
+titulo: 'Puma Adela  Zapatillas para Mujer  Azul '
 ---
 
 Está [Puma Adela  Zapatillas para Mujer  Azul Fair Aqua  40 EU](https://www.amazon.es/dp/B07DC1P29T/?tag=tolees-21) con 58.42 de descuento por 24.93 EUR (original: 59.95 EUR) en el siguiente enlace!

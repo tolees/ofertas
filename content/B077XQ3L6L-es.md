@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Armour Ua Tech Tee 2.0 Camiseta de manga corta  Hombre  Azul  Deceit/Techno Teal   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XQ3L6L/?tag=tolees-21'
+descuento: '58.00'
+titulo: 'Under Armour Ua Tech Tee 2.0 Camiseta de'
 ---
 
 Ahora mismo tienes [Under Armour Ua Tech Tee 2.0 Camiseta de manga corta  Hombre  Azul  Deceit/Techno Teal   XXL](https://www.amazon.es/dp/B077XQ3L6L/?tag=tolees-21) a 11.76 EUR (original: 28 EUR) (58.00 %  de descuento) en el siguiente enlace!

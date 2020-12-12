@@ -17,6 +17,9 @@ comparePrice: 299.99 EUR
 inStock: true
 prodname: 'Leathario Bolso de Cuero Multifuncionales Maletínes Portátiles Sencillo Moda para Hombres Diseñado para Negocio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016D7VGBU/?tag=tolees-21'
+descuento: '66.67'
+titulo: 'Leathario Bolso de Cuero Multifuncionale'
 ---
 
 Ahora mismo tienes [Leathario Bolso de Cuero Multifuncionales Maletínes Portátiles Sencillo Moda para Hombres Diseñado para Negocio](https://www.amazon.es/dp/B016D7VGBU/?tag=tolees-21) a 99.99 EUR (original: 299.99 EUR) (66.67 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 7.07 EUR
 inStock: true
 prodname: 'Philips 12961B2 Lámpara Piloto de Matrícula'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00O9A89XW/?tag=tolees-21'
+descuento: '75.25'
+titulo: 'Philips 12961B2 Lámpara Piloto de Matríc'
 ---
 
 Ahora mismo tienes [Philips 12961B2 Lámpara Piloto de Matrícula](https://www.amazon.es/dp/B00O9A89XW/?tag=tolees-21) a 1.75 EUR (original: 7.07 EUR) (75.25 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorjames Knit Crew Neck  suéter para Hombre  Gris  Light Grey Melange Detail:Knit Fit  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F44NK8M/?tag=tolees-21'
+descuento: '70.92'
+titulo: 'JACK & JONES Jorjames Knit Crew Neck  su'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorjames Knit Crew Neck  suéter para Hombre  Gris  Light Grey Melange Detail:Knit Fit  Medium](https://www.amazon.es/dp/B07F44NK8M/?tag=tolees-21) a 11.63 EUR (original: 39.99 EUR) (70.92 %  de descuento) en el siguiente enlace!

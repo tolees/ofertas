@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmjakuri 3/4 Pleated Top D2-2  suéter Mujer  Rosa  Azalea Pattern:Melange   38  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076DJ9M5C/?tag=tolees-21'
+descuento: '49.98'
+titulo: 'Vero Moda Vmjakuri 3/4 Pleated Top D2-2 '
 ---
 
 Tienes [Vero Moda Vmjakuri 3/4 Pleated Top D2-2  suéter Mujer  Rosa  Azalea Pattern:Melange   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B076DJ9M5C/?tag=tolees-21) con un 49.98 % de descuento con precio de oferta de 11 EUR (original: 21.99 EUR) en el siguiente enlace!

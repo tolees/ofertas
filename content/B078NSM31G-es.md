@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Nike Revolution 4  GS   Zapatillas de Running para Niños  Gris  Ashen Slate/Flash Crimson-Diffused Blue 400   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078NSM31G/?tag=tolees-21'
+descuento: '35.78'
+titulo: 'Nike Revolution 4  GS   Zapatillas de Ru'
 ---
 
 Está [Nike Revolution 4  GS   Zapatillas de Running para Niños  Gris  Ashen Slate/Flash Crimson-Diffused Blue 400   37.5 EU](https://www.amazon.es/dp/B078NSM31G/?tag=tolees-21) con 35.78 de descuento por 28.9 EUR (original: 45 EUR) en el siguiente enlace!

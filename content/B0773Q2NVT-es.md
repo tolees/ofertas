@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'homgeek Cuchillos de Cocina  Cuchillo Cocinero 7" + Cuchillo Santoku 8"  Germany Stainless Steel  Ergonomic Handle'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0773Q2NVT/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'homgeek Cuchillos de Cocina  Cuchillo Co'
 ---
 
 Está [homgeek Cuchillos de Cocina  Cuchillo Cocinero 7" + Cuchillo Santoku 8"  Germany Stainless Steel  Ergonomic Handle](https://www.amazon.es/dp/B0773Q2NVT/?tag=tolees-21) con 50.01 de descuento por 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

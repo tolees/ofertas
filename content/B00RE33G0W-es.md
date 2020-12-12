@@ -17,6 +17,9 @@ comparePrice: 84.9 EUR
 inStock: true
 prodname: 'Crocs Santa Cruz 2 Luxe Leather Men  Hombre Mocasín  Negro  Black/Black   41-42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00RE33G0W/?tag=tolees-21'
+descuento: '57.66'
+titulo: 'Crocs Santa Cruz 2 Luxe Leather Men  Hom'
 ---
 
 Tienes [Crocs Santa Cruz 2 Luxe Leather Men  Hombre Mocasín  Negro  Black/Black   41-42 EU](https://www.amazon.es/dp/B00RE33G0W/?tag=tolees-21) con un 57.66 % de descuento con precio de oferta de 35.95 EUR (original: 84.9 EUR) en el siguiente enlace!

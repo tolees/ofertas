@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'The North Face T92S7FNXD.M - Camiseta para mujer  color Amarillo  Jaune Soleil   talla X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ND15OH5/?tag=tolees-21'
+descuento: '44.14'
+titulo: 'The North Face T92S7FNXD.M - Camiseta pa'
 ---
 
 Tienes [The North Face T92S7FNXD.M - Camiseta para mujer  color Amarillo  Jaune Soleil   talla X-Small](https://www.amazon.es/dp/B01ND15OH5/?tag=tolees-21) con un 44.14 % de descuento con precio de oferta de 19.55 EUR (original: 35 EUR) en el siguiente enlace!

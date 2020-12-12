@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Amaza 15 Piezas Linda & Gran Flotabilidad Posavasos Flotadores Set con 1 Bomba de Aire Libre para Piscina Hot Tub Luau Party'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNQK9JJ/?tag=tolees-21'
+descuento: '32.17'
+titulo: 'Amaza 15 Piezas Linda & Gran Flotabilida'
 ---
 
 Está [Amaza 15 Piezas Linda & Gran Flotabilidad Posavasos Flotadores Set con 1 Bomba de Aire Libre para Piscina Hot Tub Luau Party](https://www.amazon.es/dp/B07DNQK9JJ/?tag=tolees-21) con 32.17 de descuento por 12.88 EUR (original: 18.99 EUR) en el siguiente enlace!

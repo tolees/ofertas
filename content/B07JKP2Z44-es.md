@@ -17,6 +17,9 @@ comparePrice: 68.99 EUR
 inStock: true
 prodname: 'Amoladora Eléctrica  Tacklife-RTD36AC Herramienta Rotativa 200W con 63 accesorios y 4 juntos  Dial de 6 velocidades ideal para grabado  corte  pulido  lijado  taladrado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JKP2Z44/?tag=tolees-21'
+descuento: '37.69'
+titulo: 'Amoladora Eléctrica  Tacklife-RTD36AC He'
 ---
 
 Ahora mismo tienes [Amoladora Eléctrica  Tacklife-RTD36AC Herramienta Rotativa 200W con 63 accesorios y 4 juntos  Dial de 6 velocidades ideal para grabado  corte  pulido  lijado  taladrado](https://www.amazon.es/dp/B07JKP2Z44/?tag=tolees-21) a 42.99 EUR (original: 68.99 EUR) (37.69 %  de descuento) en el siguiente enlace!

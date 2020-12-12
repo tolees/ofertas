@@ -17,6 +17,9 @@ comparePrice: 179.99 EUR
 inStock: true
 prodname: 'Reloj de Pulsera Deportivo para Hombre  analógico  Digital  Resistente al Agua  cronógrafo  con Banda de Silicona Negra'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SHS6CTF/?tag=tolees-21'
+descuento: '82.78'
+titulo: 'Reloj de Pulsera Deportivo para Hombre  '
 ---
 
 Está [Reloj de Pulsera Deportivo para Hombre  analógico  Digital  Resistente al Agua  cronógrafo  con Banda de Silicona Negra](https://www.amazon.es/dp/B07SHS6CTF/?tag=tolees-21) con 82.78 de descuento por 30.99 EUR (original: 179.99 EUR) en el siguiente enlace!

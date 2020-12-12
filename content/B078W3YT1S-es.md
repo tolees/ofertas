@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Vans Ultrarange  Zapatillas Unisex Adulto   Breeze   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078W3YT1S/?tag=tolees-21'
+descuento: '72.84'
+titulo: 'Vans Ultrarange  Zapatillas Unisex Adult'
 ---
 
 Está [Vans Ultrarange  Zapatillas Unisex Adulto   Breeze   35 EU](https://www.amazon.es/dp/B078W3YT1S/?tag=tolees-21) con 72.84 de descuento por 29.88 EUR (original: 110 EUR) en el siguiente enlace!

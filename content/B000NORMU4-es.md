@@ -17,6 +17,9 @@ comparePrice: 63.3 EUR
 inStock: true
 prodname: 'SHIMANO PD-M324 Pedales Unisex  Plateado Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000NORMU4/?tag=tolees-21'
+descuento: '39.26'
+titulo: 'SHIMANO PD-M324 Pedales Unisex  Plateado'
 ---
 
 Está [SHIMANO PD-M324 Pedales Unisex  Plateado Talla Única](https://www.amazon.es/dp/B000NORMU4/?tag=tolees-21) con 39.26 de descuento por 38.45 EUR (original: 63.3 EUR) en el siguiente enlace!

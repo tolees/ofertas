@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Urban Classics Hombre Block Swim Shorts Bañador Not Applicable  Verde  Olive/Olive 00834   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NATT312/?tag=tolees-21'
+descuento: '34.92'
+titulo: 'Urban Classics Hombre Block Swim Shorts '
 ---
 
 Está [Urban Classics Hombre Block Swim Shorts Bañador Not Applicable  Verde  Olive/Olive 00834   Large](https://www.amazon.es/dp/B01NATT312/?tag=tolees-21) con 34.92 de descuento por 12.95 EUR (original: 19.9 EUR) en el siguiente enlace!

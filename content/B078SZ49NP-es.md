@@ -17,6 +17,9 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'Columbia Youth Peakfreak XCRSN Mid WP  Botas de Senderismo Unisex para Niños  Azul  Mountain  Camellia Rose   34 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SZ49NP/?tag=tolees-21'
+descuento: '49.03'
+titulo: 'Columbia Youth Peakfreak XCRSN Mid WP  B'
 ---
 
 Está [Columbia Youth Peakfreak XCRSN Mid WP  Botas de Senderismo Unisex para Niños  Azul  Mountain  Camellia Rose   34 EU](https://www.amazon.es/dp/B078SZ49NP/?tag=tolees-21) con 49.03 de descuento por 38.22 EUR (original: 74.99 EUR) en el siguiente enlace!

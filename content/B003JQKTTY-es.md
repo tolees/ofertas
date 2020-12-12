@@ -17,6 +17,9 @@ comparePrice: 16.88 EUR
 inStock: true
 prodname: 'Nivea men - Extra soothing moisture  crema hidratante  pack de 2  2x75 ml  - Version importada  UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003JQKTTY/?tag=tolees-21'
+descuento: '25.18'
+titulo: 'Nivea men - Extra soothing moisture  cre'
 ---
 
 Tienes [Nivea men - Extra soothing moisture  crema hidratante  pack de 2  2x75 ml  - Version importada  UK ](https://www.amazon.es/dp/B003JQKTTY/?tag=tolees-21) con un 25.18 % de descuento con precio de oferta de 12.63 EUR (original: 16.88 EUR) en el siguiente enlace!

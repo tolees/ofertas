@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko-6223 Figura de Vinilo First Order Snowtrooper Color Negro  Blanco Estándar  6223'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013G0IR0A/?tag=tolees-21'
+descuento: '33.62'
+titulo: 'Funko-6223 Figura de Vinilo First Order '
 ---
 
 Está [Funko-6223 Figura de Vinilo First Order Snowtrooper Color Negro  Blanco Estándar  6223](https://www.amazon.es/dp/B013G0IR0A/?tag=tolees-21) con 33.62 de descuento por 9.95 EUR (original: 14.99 EUR) en el siguiente enlace!

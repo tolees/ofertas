@@ -17,6 +17,9 @@ comparePrice: 20.16 EUR
 inStock: true
 prodname: 'LOOK by crewcuts Falda de Punto con Volante Niña  rosa  XX-Large  14 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQXLZQR/?tag=tolees-21'
+descuento: '30.56'
+titulo: 'LOOK by crewcuts Falda de Punto con Vola'
 ---
 
 Está [LOOK by crewcuts Falda de Punto con Volante Niña  rosa  XX-Large  14 ](https://www.amazon.es/dp/B07KQXLZQR/?tag=tolees-21) con 30.56 de descuento por 14 EUR (original: 20.16 EUR) en el siguiente enlace!

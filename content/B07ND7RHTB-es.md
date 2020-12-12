@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Lee Rider Short Bañador  Azul  Jaded EU   28W para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ND7RHTB/?tag=tolees-21'
+descuento: '53.88'
+titulo: 'Lee Rider Short Bañador  Azul  Jaded EU '
 ---
 
 Ahora mismo tienes [Lee Rider Short Bañador  Azul  Jaded EU   28W para Hombre](https://www.amazon.es/dp/B07ND7RHTB/?tag=tolees-21) a 29.98 EUR (original: 65 EUR) (53.88 %  de descuento) en el siguiente enlace!

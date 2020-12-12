@@ -17,6 +17,9 @@ comparePrice: 25.5 EUR
 inStock: true
 prodname: 'David Jones - Cm5034  Bolsos totes Mujer  Rosa  Pink   14x27x30 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCMD9GF/?tag=tolees-21'
+descuento: '60.20'
+titulo: 'David Jones - Cm5034  Bolsos totes Mujer'
 ---
 
 Está [David Jones - Cm5034  Bolsos totes Mujer  Rosa  Pink   14x27x30 cm  W x H L ](https://www.amazon.es/dp/B07KCMD9GF/?tag=tolees-21) con 60.20 de descuento por 10.15 EUR (original: 25.5 EUR) en el siguiente enlace!

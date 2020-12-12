@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield DS Oxford Daily Smart  Camisa Casual para Hombre   Gama Azules 11   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL79RDC/?tag=tolees-21'
+descuento: '77.03'
+titulo: 'Springfield DS Oxford Daily Smart  Camis'
 ---
 
 Ahora mismo tienes [Springfield DS Oxford Daily Smart  Camisa Casual para Hombre   Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DL79RDC/?tag=tolees-21) a 6.89 EUR (original: 29.99 EUR) (77.03 %  de descuento) en el siguiente enlace!

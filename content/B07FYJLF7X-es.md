@@ -17,6 +17,9 @@ comparePrice: 26.6 EUR
 inStock: true
 prodname: 'PIECES Pcjane LS Wool Knit Noos suéter  Azul  Ponderosa Pine Detail: Melange   44  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYJLF7X/?tag=tolees-21'
+descuento: '74.25'
+titulo: 'PIECES Pcjane LS Wool Knit Noos suéter  '
 ---
 
 Ahora mismo tienes [PIECES Pcjane LS Wool Knit Noos suéter  Azul  Ponderosa Pine Detail: Melange   44  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B07FYJLF7X/?tag=tolees-21) a 6.85 EUR (original: 26.6 EUR) (74.25 %  de descuento) en el siguiente enlace!

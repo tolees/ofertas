@@ -17,6 +17,9 @@ comparePrice: 69.75 EUR
 inStock: true
 prodname: 'Superdry Core Cargo Lite Short Bañador Verde  Burnt Sage Zh4  42  Tallas De Fabricante:32  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZHP8PD/?tag=tolees-21'
+descuento: '44.16'
+titulo: 'Superdry Core Cargo Lite Short Bañador V'
 ---
 
 Tienes [Superdry Core Cargo Lite Short Bañador Verde  Burnt Sage Zh4  42  Tallas De Fabricante:32  para Hombre](https://www.amazon.es/dp/B07MZHP8PD/?tag=tolees-21) con un 44.16 % de descuento con precio de oferta de 38.95 EUR (original: 69.75 EUR) en el siguiente enlace!

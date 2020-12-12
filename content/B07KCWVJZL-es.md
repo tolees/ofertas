@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Hurley M Phantom Overspray 18  BAÑADORES  Hombre  Orange Peel  38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCWVJZL/?tag=tolees-21'
+descuento: '38.75'
+titulo: 'Hurley M Phantom Overspray 18  BAÑADORES'
 ---
 
 Está [Hurley M Phantom Overspray 18  BAÑADORES  Hombre  Orange Peel  38](https://www.amazon.es/dp/B07KCWVJZL/?tag=tolees-21) con 38.75 de descuento por 36.75 EUR (original: 60 EUR) en el siguiente enlace!

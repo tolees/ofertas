@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Protector Asiento Coche  Protector de Asiento Organizador Coche Kick Mats  Funda Protección para Asientos Trasero de Coche Back con Soporte de iPad de Coche Bebe  1Pc '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PMV4T1C/?tag=tolees-21'
+descuento: '48.04'
+titulo: 'Protector Asiento Coche  Protector de As'
 ---
 
 Tienes [Protector Asiento Coche  Protector de Asiento Organizador Coche Kick Mats  Funda Protección para Asientos Trasero de Coche Back con Soporte de iPad de Coche Bebe  1Pc ](https://www.amazon.es/dp/B07PMV4T1C/?tag=tolees-21) con un 48.04 % de descuento con precio de oferta de 12.99 EUR (original: 25 EUR) en el siguiente enlace!

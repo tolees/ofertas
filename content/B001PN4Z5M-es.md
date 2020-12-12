@@ -17,6 +17,9 @@ comparePrice: 31.78 EUR
 inStock: true
 prodname: 'Rubbermaid Commercial Products 8101-386 Papelera  Capacidad de 9 L  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001PN4Z5M/?tag=tolees-21'
+descuento: '73.69'
+titulo: 'Rubbermaid Commercial Products 8101-386 '
 ---
 
 Está [Rubbermaid Commercial Products 8101-386 Papelera  Capacidad de 9 L  Blanco](https://www.amazon.es/dp/B001PN4Z5M/?tag=tolees-21) con 73.69 de descuento por 8.36 EUR (original: 31.78 EUR) en el siguiente enlace!

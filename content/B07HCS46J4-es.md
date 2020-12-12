@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Tommy Essential Leather Sneaker  Zapatillas para Mujer  Blanco  White 100   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HCS46J4/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Tommy Hilfiger Tommy Essential Leather S'
 ---
 
 Tienes [Tommy Hilfiger Tommy Essential Leather Sneaker  Zapatillas para Mujer  Blanco  White 100   38 EU](https://www.amazon.es/dp/B07HCS46J4/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 49.95 EUR (original: 99.9 EUR) en el siguiente enlace!

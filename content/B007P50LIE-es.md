@@ -17,6 +17,9 @@ comparePrice: 65.75 EUR
 inStock: true
 prodname: 'Tommy Hilfiger 34545 - Agua de colonia  100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007P50LIE/?tag=tolees-21'
+descuento: '61.06'
+titulo: 'Tommy Hilfiger 34545 - Agua de colonia  '
 ---
 
 Tienes [Tommy Hilfiger 34545 - Agua de colonia  100 ml](https://www.amazon.es/dp/B007P50LIE/?tag=tolees-21) con un 61.06 % de descuento con precio de oferta de 25.6 EUR (original: 65.75 EUR) en el siguiente enlace!

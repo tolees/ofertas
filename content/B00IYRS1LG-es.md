@@ -17,6 +17,9 @@ comparePrice: 41.95 EUR
 inStock: true
 prodname: 'Doc Johnson Xtend It Kit Funda para el Pene Color Marrón - 270 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IYRS1LG/?tag=tolees-21'
+descuento: '36.90'
+titulo: 'Doc Johnson Xtend It Kit Funda para el P'
 ---
 
 Está [Doc Johnson Xtend It Kit Funda para el Pene Color Marrón - 270 gr](https://www.amazon.es/dp/B00IYRS1LG/?tag=tolees-21) con 36.90 de descuento por 26.47 EUR (original: 41.95 EUR) en el siguiente enlace!

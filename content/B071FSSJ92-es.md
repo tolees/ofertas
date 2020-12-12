@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour UA Raid TR  Zapatillas de Deporte para Hombre  Negro Black/White 002  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071FSSJ92/?tag=tolees-21'
+descuento: '53.79'
+titulo: 'Under Armour UA Raid TR  Zapatillas de D'
 ---
 
 Está [Under Armour UA Raid TR  Zapatillas de Deporte para Hombre  Negro Black/White 002  40 EU](https://www.amazon.es/dp/B071FSSJ92/?tag=tolees-21) con 53.79 de descuento por 32.35 EUR (original: 70 EUR) en el siguiente enlace!

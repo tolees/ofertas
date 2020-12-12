@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Escaper Mesh Jr  Zapatillas Unisex para Niños  Rosa Bud White-Bright Peach  35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCHP2WK/?tag=tolees-21'
+descuento: '60.15'
+titulo: 'Puma Escaper Mesh Jr  Zapatillas Unisex '
 ---
 
 Tienes [Puma Escaper Mesh Jr  Zapatillas Unisex para Niños  Rosa Bud White-Bright Peach  35.5 EU](https://www.amazon.es/dp/B07DCHP2WK/?tag=tolees-21) con un 60.15 % de descuento con precio de oferta de 15.92 EUR (original: 39.95 EUR) en el siguiente enlace!

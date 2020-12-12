@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance 373  Zapatillas para Hombre  Azul  Pigment/Burgundy Bup   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ2FGQB/?tag=tolees-21'
+descuento: '29.64'
+titulo: 'New Balance 373  Zapatillas para Hombre '
 ---
 
 Tienes [New Balance 373  Zapatillas para Hombre  Azul  Pigment/Burgundy Bup   44 EU](https://www.amazon.es/dp/B07DJ2FGQB/?tag=tolees-21) con un 29.64 % de descuento con precio de oferta de 56.29 EUR (original: 80 EUR) en el siguiente enlace!

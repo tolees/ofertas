@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'FIXKIT Casco Soldadura de Oscurecimiento Automático con Protección UV  Gran Campo de Visión  96 x 48 mm  y 6 Lentes'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHNKN18/?tag=tolees-21'
+descuento: '26.09'
+titulo: 'FIXKIT Casco Soldadura de Oscurecimiento'
 ---
 
 Está [FIXKIT Casco Soldadura de Oscurecimiento Automático con Protección UV  Gran Campo de Visión  96 x 48 mm  y 6 Lentes](https://www.amazon.es/dp/B07BHNKN18/?tag=tolees-21) con 26.09 de descuento por 33.99 EUR (original: 45.99 EUR) en el siguiente enlace!

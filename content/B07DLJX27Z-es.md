@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield Frq Strech Sport Camisa Casual  Hombre  Azul  Gama Azules 11   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLJX27Z/?tag=tolees-21'
+descuento: '62.92'
+titulo: 'Springfield Frq Strech Sport Camisa Casu'
 ---
 
 Está [Springfield Frq Strech Sport Camisa Casual  Hombre  Azul  Gama Azules 11   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLJX27Z/?tag=tolees-21) con 62.92 de descuento por 11.12 EUR (original: 29.99 EUR) en el siguiente enlace!

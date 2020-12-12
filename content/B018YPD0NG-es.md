@@ -17,6 +17,9 @@ comparePrice: 9.68 EUR
 inStock: true
 prodname: 'BOSCH 2608601520 - Disco abrasivo de corte recto Expert Inox: 76x10x1mm: 5 ud'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018YPD0NG/?tag=tolees-21'
+descuento: '34.19'
+titulo: 'BOSCH 2608601520 - Disco abrasivo de cor'
 ---
 
 Tienes [BOSCH 2608601520 - Disco abrasivo de corte recto Expert Inox: 76x10x1mm: 5 ud](https://www.amazon.es/dp/B018YPD0NG/?tag=tolees-21) con un 34.19 % de descuento con precio de oferta de 6.37 EUR (original: 9.68 EUR) en el siguiente enlace!

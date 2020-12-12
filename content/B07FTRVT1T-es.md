@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Lee Ultimate Pocket Tee  Camiseta Hombre  Rojo  Bright Red Ef   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTRVT1T/?tag=tolees-21'
+descuento: '48.41'
+titulo: 'Lee Ultimate Pocket Tee  Camiseta Hombre'
 ---
 
 Ahora mismo tienes [Lee Ultimate Pocket Tee  Camiseta Hombre  Rojo  Bright Red Ef   X-Large](https://www.amazon.es/dp/B07FTRVT1T/?tag=tolees-21) a 15.45 EUR (original: 29.95 EUR) (48.41 %  de descuento) en el siguiente enlace!

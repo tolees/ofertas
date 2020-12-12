@@ -17,6 +17,9 @@ comparePrice: 12.9 EUR
 inStock: true
 prodname: 'Beurer MG16 - Masajeador Mini aparato Vibratorio  con luz LED  color blanco y rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002KFZW4M/?tag=tolees-21'
+descuento: '25.58'
+titulo: 'Beurer MG16 - Masajeador Mini aparato Vi'
 ---
 
 Tienes [Beurer MG16 - Masajeador Mini aparato Vibratorio  con luz LED  color blanco y rojo](https://www.amazon.es/dp/B002KFZW4M/?tag=tolees-21) con un 25.58 % de descuento con precio de oferta de 9.6 EUR (original: 12.9 EUR) en el siguiente enlace!

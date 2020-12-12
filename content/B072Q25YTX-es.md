@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Columbia Silver Ridge II Vest Chaleco para Senderismo  Aislamiento térmico sintético Hi-Loft  Hombre  Gris  Grill   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072Q25YTX/?tag=tolees-21'
+descuento: '75.47'
+titulo: 'Columbia Silver Ridge II Vest Chaleco pa'
 ---
 
 Está [Columbia Silver Ridge II Vest Chaleco para Senderismo  Aislamiento térmico sintético Hi-Loft  Hombre  Gris  Grill   XL](https://www.amazon.es/dp/B072Q25YTX/?tag=tolees-21) con 75.47 de descuento por 19.62 EUR (original: 79.99 EUR) en el siguiente enlace!

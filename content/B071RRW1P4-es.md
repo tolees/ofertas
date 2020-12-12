@@ -17,6 +17,9 @@ comparePrice: 219 EUR
 inStock: true
 prodname: 'WENGER Reloj Analogico para Unisex de Cuarzo con Correa en Acero Inoxidable 01.1721.103'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071RRW1P4/?tag=tolees-21'
+descuento: '72.29'
+titulo: 'WENGER Reloj Analogico para Unisex de Cu'
 ---
 
 Está [WENGER Reloj Analogico para Unisex de Cuarzo con Correa en Acero Inoxidable 01.1721.103](https://www.amazon.es/dp/B071RRW1P4/?tag=tolees-21) con 72.29 de descuento por 60.68 EUR (original: 219 EUR) en el siguiente enlace!

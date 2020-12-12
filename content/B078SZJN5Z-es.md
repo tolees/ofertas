@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Maison & White Manteles de pizarra natural con posavasos | Rectangular | Tablemats de corte fino | Menaje de cocina contemporáneo de calidad 16pc'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SZJN5Z/?tag=tolees-21'
+descuento: '42.44'
+titulo: 'Maison & White Manteles de pizarra natur'
 ---
 
 Ahora mismo tienes [Maison & White Manteles de pizarra natural con posavasos | Rectangular | Tablemats de corte fino | Menaje de cocina contemporáneo de calidad 16pc](https://www.amazon.es/dp/B078SZJN5Z/?tag=tolees-21) a 18.99 EUR (original: 32.99 EUR) (42.44 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'San Ignacio PK1176 Hogar Cocina 3 Sartenes Y Set 6 Mugs  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H8LD3HX/?tag=tolees-21'
+descuento: '46.67'
+titulo: 'San Ignacio PK1176 Hogar Cocina 3 Sarten'
 ---
 
 Tienes [San Ignacio PK1176 Hogar Cocina 3 Sartenes Y Set 6 Mugs  Azul](https://www.amazon.es/dp/B07H8LD3HX/?tag=tolees-21) con un 46.67 % de descuento con precio de oferta de 31.99 EUR (original: 59.99 EUR) en el siguiente enlace!

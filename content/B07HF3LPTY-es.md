@@ -17,6 +17,9 @@ comparePrice: 135.99 EUR
 inStock: true
 prodname: 'TV Box Android 8.1 - YANCHI HK1mini Smart TV Box Quad Core  2GB RAM & 16GB ROM  4K*2K UHD H.265  HDMI  USB*2  WiFi Media Player  Android Set-Top Box [Versión Mejorada]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HF3LPTY/?tag=tolees-21'
+descuento: '79.51'
+titulo: 'TV Box Android 8.1 - YANCHI HK1mini Smar'
 ---
 
 Está [TV Box Android 8.1 - YANCHI HK1mini Smart TV Box Quad Core  2GB RAM & 16GB ROM  4K*2K UHD H.265  HDMI  USB*2  WiFi Media Player  Android Set-Top Box [Versión Mejorada]](https://www.amazon.es/dp/B07HF3LPTY/?tag=tolees-21) con 79.51 de descuento por 27.86 EUR (original: 135.99 EUR) en el siguiente enlace!

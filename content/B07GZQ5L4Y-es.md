@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Pintura Cara Niños Pinturas al Agua Belly Painting Pintura Facial y Corporales Pinturas Cuerpo Maquillaje Profesional Principiantes Fosforescente por Fiestas Cumpleaños  Halloween  Navidad  Año nuevo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GZQ5L4Y/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Pintura Cara Niños Pinturas al Agua Bell'
 ---
 
 Está [Pintura Cara Niños Pinturas al Agua Belly Painting Pintura Facial y Corporales Pinturas Cuerpo Maquillaje Profesional Principiantes Fosforescente por Fiestas Cumpleaños  Halloween  Navidad  Año nuevo](https://www.amazon.es/dp/B07GZQ5L4Y/?tag=tolees-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

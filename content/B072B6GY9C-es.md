@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'INTEY 3 N1 Detector De Pared Detector Cables Rojo para Detecta Madera  AC Y Metal Stud Pinpoint'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072B6GY9C/?tag=tolees-21'
+descuento: '61.56'
+titulo: 'INTEY 3 N1 Detector De Pared Detector Ca'
 ---
 
 Tienes [INTEY 3 N1 Detector De Pared Detector Cables Rojo para Detecta Madera  AC Y Metal Stud Pinpoint](https://www.amazon.es/dp/B072B6GY9C/?tag=tolees-21) con un 61.56 % de descuento con precio de oferta de 9.99 EUR (original: 25.99 EUR) en el siguiente enlace!

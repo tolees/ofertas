@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Asics Gel-Sonoma 3 G-TX  Zapatillas de Running para Asfalto para Mujer  Gris  Stone Grey/Pixel Pink 020   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1LCN6P/?tag=tolees-21'
+descuento: '32.11'
+titulo: 'Asics Gel-Sonoma 3 G-TX  Zapatillas de R'
 ---
 
 Ahora mismo tienes [Asics Gel-Sonoma 3 G-TX  Zapatillas de Running para Asfalto para Mujer  Gris  Stone Grey/Pixel Pink 020   39.5 EU](https://www.amazon.es/dp/B07D1LCN6P/?tag=tolees-21) a 67.89 EUR (original: 100 EUR) (32.11 %  de descuento) en el siguiente enlace!

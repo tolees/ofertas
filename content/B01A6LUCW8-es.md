@@ -17,6 +17,9 @@ comparePrice: 54.9 EUR
 inStock: true
 prodname: 'Crocs Classic Lined Clog  Zuecos Unisex Adulto  Azul  Navy/Charcoal   46/47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01A6LUCW8/?tag=tolees-21'
+descuento: '52.73'
+titulo: 'Crocs Classic Lined Clog  Zuecos Unisex '
 ---
 
 Tienes [Crocs Classic Lined Clog  Zuecos Unisex Adulto  Azul  Navy/Charcoal   46/47 EU](https://www.amazon.es/dp/B01A6LUCW8/?tag=tolees-21) con un 52.73 % de descuento con precio de oferta de 25.95 EUR (original: 54.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Urban Classics Chaqueta Gris L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DTST27C/?tag=tolees-21'
+descuento: '81.14'
+titulo: 'Urban Classics Chaqueta Gris L'
 ---
 
 Tienes [Urban Classics Chaqueta Gris L](https://www.amazon.es/dp/B00DTST27C/?tag=tolees-21) con un 81.14 % de descuento con precio de oferta de 9.41 EUR (original: 49.9 EUR) en el siguiente enlace!

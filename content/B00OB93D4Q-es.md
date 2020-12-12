@@ -17,6 +17,9 @@ comparePrice: 19.74 EUR
 inStock: true
 prodname: 'Ballantine s Finest Blended Scotch Whisky in Tin Box - 700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OB93D4Q/?tag=tolees-21'
+descuento: '37.44'
+titulo: 'Ballantine s Finest Blended Scotch Whisk'
 ---
 
 Está [Ballantine s Finest Blended Scotch Whisky in Tin Box - 700 ml](https://www.amazon.es/dp/B00OB93D4Q/?tag=tolees-21) con 37.44 de descuento por 12.35 EUR (original: 19.74 EUR) en el siguiente enlace!

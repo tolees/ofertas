@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Insurge Mesh  Zapatillas de Deporte Unisex Adulto  Gris  Asphalt-Light Sky White   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCBLVZN/?tag=tolees-21'
+descuento: '39.20'
+titulo: 'Puma Insurge Mesh  Zapatillas de Deporte'
 ---
 
 Está [Puma Insurge Mesh  Zapatillas de Deporte Unisex Adulto  Gris  Asphalt-Light Sky White   40.5 EU](https://www.amazon.es/dp/B07DCBLVZN/?tag=tolees-21) con 39.20 de descuento por 36.45 EUR (original: 59.95 EUR) en el siguiente enlace!

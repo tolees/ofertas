@@ -17,6 +17,9 @@ comparePrice: 22.9 EUR
 inStock: true
 prodname: 'Dim AD0068M  Slip para Hombre   Gris 5w2   Large  Tamaño del Fabricante:4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0797JMM5C/?tag=tolees-21'
+descuento: '51.88'
+titulo: 'Dim AD0068M  Slip para Hombre   Gris 5w2'
 ---
 
 Está [Dim AD0068M  Slip para Hombre   Gris 5w2   Large  Tamaño del Fabricante:4 ](https://www.amazon.es/dp/B0797JMM5C/?tag=tolees-21) con 51.88 de descuento por 11.02 EUR (original: 22.9 EUR) en el siguiente enlace!

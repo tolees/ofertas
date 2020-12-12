@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Mujer Acero Inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MS41G7Q/?tag=tolees-21'
+descuento: '35.00'
+titulo: 'Tommy Hilfiger Mujer Acero Inoxidable'
 ---
 
 Está [Tommy Hilfiger Mujer Acero Inoxidable](https://www.amazon.es/dp/B01MS41G7Q/?tag=tolees-21) con 35.00 de descuento por 44.85 EUR (original: 69 EUR) en el siguiente enlace!

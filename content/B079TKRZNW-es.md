@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Yoku’s Island Express'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079TKRZNW/?tag=tolees-21'
+descuento: '57.25'
+titulo: 'Yoku’s Island Express'
 ---
 
 Está [Yoku’s Island Express](https://www.amazon.es/dp/B079TKRZNW/?tag=tolees-21) con 57.25 de descuento por 12.82 EUR (original: 29.99 EUR) en el siguiente enlace!

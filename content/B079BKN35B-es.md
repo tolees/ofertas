@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Atomizador Perfume Recargable  Vaporizador Perfume Portatil para Viaje  Botella de Spray Perfume con Mini Embudos  Prueba de Fugas  1Pcs 20ML'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079BKN35B/?tag=tolees-21'
+descuento: '28.59'
+titulo: 'Atomizador Perfume Recargable  Vaporizad'
 ---
 
 Tienes [Atomizador Perfume Recargable  Vaporizador Perfume Portatil para Viaje  Botella de Spray Perfume con Mini Embudos  Prueba de Fugas  1Pcs 20ML](https://www.amazon.es/dp/B079BKN35B/?tag=tolees-21) con un 28.59 % de descuento con precio de oferta de 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

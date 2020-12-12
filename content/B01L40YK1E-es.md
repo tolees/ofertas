@@ -17,6 +17,9 @@ comparePrice: 17.9 EUR
 inStock: true
 prodname: 'Havaianas Top  Chanclas para Unisex Adulto  Verde  Green Olive   37/38 EU  35/36 Brazilian '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L40YK1E/?tag=tolees-21'
+descuento: '36.09'
+titulo: 'Havaianas Top  Chanclas para Unisex Adul'
 ---
 
 Tienes [Havaianas Top  Chanclas para Unisex Adulto  Verde  Green Olive   37/38 EU  35/36 Brazilian ](https://www.amazon.es/dp/B01L40YK1E/?tag=tolees-21) con un 36.09 % de descuento con precio de oferta de 11.44 EUR (original: 17.9 EUR) en el siguiente enlace!

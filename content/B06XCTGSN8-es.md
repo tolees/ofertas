@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Cortefiel Negro S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCTGSN8/?tag=tolees-21'
+descuento: '64.79'
+titulo: 'Cortefiel Negro S'
 ---
 
 Ahora mismo tienes [Cortefiel Negro S](https://www.amazon.es/dp/B06XCTGSN8/?tag=tolees-21) a 10.56 EUR (original: 29.99 EUR) (64.79 %  de descuento) en el siguiente enlace!

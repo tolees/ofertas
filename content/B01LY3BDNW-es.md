@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'CAMPER Runner Four  Zapatillas para Hombre  Weiß  White Natural 100   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LY3BDNW/?tag=tolees-21'
+descuento: '37.34'
+titulo: 'CAMPER Runner Four  Zapatillas para Homb'
 ---
 
 Está [CAMPER Runner Four  Zapatillas para Hombre  Weiß  White Natural 100   42 EU](https://www.amazon.es/dp/B01LY3BDNW/?tag=tolees-21) con 37.34 de descuento por 68.93 EUR (original: 110 EUR) en el siguiente enlace!

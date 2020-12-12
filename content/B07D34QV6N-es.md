@@ -17,6 +17,9 @@ comparePrice: 59.13 EUR
 inStock: true
 prodname: 'Yoleo - Plegable Negro Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D34QV6N/?tag=tolees-21'
+descuento: '84.15'
+titulo: 'Yoleo - Plegable Negro Negro'
 ---
 
 Ahora mismo tienes [Yoleo - Plegable Negro Negro](https://www.amazon.es/dp/B07D34QV6N/?tag=tolees-21) a 9.37 EUR (original: 59.13 EUR) (84.15 %  de descuento) en el siguiente enlace!

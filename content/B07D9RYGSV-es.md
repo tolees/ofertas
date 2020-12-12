@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'adidas Energy Cloud 2  Zapatillas de Deporte para Hombre   Gricin/Ftwbla/Gris 000   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9RYGSV/?tag=tolees-21'
+descuento: '36.70'
+titulo: 'adidas Energy Cloud 2  Zapatillas de Dep'
 ---
 
 Está [adidas Energy Cloud 2  Zapatillas de Deporte para Hombre   Gricin/Ftwbla/Gris 000   40 EU](https://www.amazon.es/dp/B07D9RYGSV/?tag=tolees-21) con 36.70 de descuento por 37.95 EUR (original: 59.95 EUR) en el siguiente enlace!

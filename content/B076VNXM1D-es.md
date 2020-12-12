@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Under Armour Remix Fw18  Zapatillas de Running para Hombre  Negro Steel/Black 001  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VNXM1D/?tag=tolees-21'
+descuento: '57.83'
+titulo: 'Under Armour Remix Fw18  Zapatillas de R'
 ---
 
 Ahora mismo tienes [Under Armour Remix Fw18  Zapatillas de Running para Hombre  Negro Steel/Black 001  41 EU](https://www.amazon.es/dp/B076VNXM1D/?tag=tolees-21) a 31.63 EUR (original: 75 EUR) (57.83 %  de descuento) en el siguiente enlace!

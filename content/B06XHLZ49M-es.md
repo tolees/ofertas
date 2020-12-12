@@ -17,6 +17,9 @@ comparePrice: 169.95 EUR
 inStock: true
 prodname: 'Fitbit Alta HR Pulsera de Actividad  Unisex Adulto  Rosa  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHLZ49M/?tag=tolees-21'
+descuento: '41.17'
+titulo: 'Fitbit Alta HR Pulsera de Actividad  Uni'
 ---
 
 Está [Fitbit Alta HR Pulsera de Actividad  Unisex Adulto  Rosa  L](https://www.amazon.es/dp/B06XHLZ49M/?tag=tolees-21) con 41.17 de descuento por 99.99 EUR (original: 169.95 EUR) en el siguiente enlace!

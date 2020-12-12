@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Reebok Royal Classic Jog 2Tm  Zapatillas de Trail Running para Hombre   Blue Beam/Primal Red/Black/White   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MY14ED8/?tag=tolees-21'
+descuento: '55.61'
+titulo: 'Reebok Royal Classic Jog 2Tm  Zapatillas'
 ---
 
 Ahora mismo tienes [Reebok Royal Classic Jog 2Tm  Zapatillas de Trail Running para Hombre   Blue Beam/Primal Red/Black/White   41 EU](https://www.amazon.es/dp/B01MY14ED8/?tag=tolees-21) a 26.61 EUR (original: 59.95 EUR) (55.61 %  de descuento) en el siguiente enlace!

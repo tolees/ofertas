@@ -17,6 +17,9 @@ comparePrice: 99.81 EUR
 inStock: true
 prodname: 'Chicco Balloon 2017 - Hamaca de 0 a 18 kg  con luces y sonidos  color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JS9F85U/?tag=tolees-21'
+descuento: '29.67'
+titulo: 'Chicco Balloon 2017 - Hamaca de 0 a 18 k'
 ---
 
 Ahora mismo tienes [Chicco Balloon 2017 - Hamaca de 0 a 18 kg  con luces y sonidos  color azul](https://www.amazon.es/dp/B01JS9F85U/?tag=tolees-21) a 70.2 EUR (original: 99.81 EUR) (29.67 %  de descuento) en el siguiente enlace!

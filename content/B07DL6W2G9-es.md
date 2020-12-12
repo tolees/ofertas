@@ -17,6 +17,9 @@ comparePrice: 7.49 EUR
 inStock: true
 prodname: 'Crema Proteica de cacao con avellanas y sin azúcar añadido – Crema de Chocolate y Avellanas – Protein Creme para untar – Queenella Swirly Duo – 250 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL6W2G9/?tag=tolees-21'
+descuento: '54.61'
+titulo: 'Crema Proteica de cacao con avellanas y '
 ---
 
 Tienes [Crema Proteica de cacao con avellanas y sin azúcar añadido – Crema de Chocolate y Avellanas – Protein Creme para untar – Queenella Swirly Duo – 250 g](https://www.amazon.es/dp/B07DL6W2G9/?tag=tolees-21) con un 54.61 % de descuento con precio de oferta de 3.4 EUR (original: 7.49 EUR) en el siguiente enlace!

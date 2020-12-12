@@ -17,6 +17,9 @@ comparePrice: 79.96 EUR
 inStock: true
 prodname: 'adidas Messi 16.3 FG Botas de fútbol  Hombre  Dorado/ Cobmet/Negbas/Versol  000  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5XVJO3/?tag=tolees-21'
+descuento: '70.70'
+titulo: 'adidas Messi 16.3 FG Botas de fútbol  Ho'
 ---
 
 Tienes [adidas Messi 16.3 FG Botas de fútbol  Hombre  Dorado/ Cobmet/Negbas/Versol  000  42 EU](https://www.amazon.es/dp/B01N5XVJO3/?tag=tolees-21) con un 70.70 % de descuento con precio de oferta de 23.43 EUR (original: 79.96 EUR) en el siguiente enlace!

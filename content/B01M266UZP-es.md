@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Devir Tragedy Looper: Regreso a la tragedia Miscelanea BGTRALO'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M266UZP/?tag=tolees-21'
+descuento: '55.02'
+titulo: 'Devir Tragedy Looper: Regreso a la trage'
 ---
 
 Tienes [Devir Tragedy Looper: Regreso a la tragedia Miscelanea BGTRALO](https://www.amazon.es/dp/B01M266UZP/?tag=tolees-21) con un 55.02 % de descuento con precio de oferta de 17.99 EUR (original: 40 EUR) en el siguiente enlace!

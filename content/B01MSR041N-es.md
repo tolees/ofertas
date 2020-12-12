@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'HP 24ea – Monitor para PC Desktop  de 24’’  FHD  1920 x 1080 a 60 Hz  IPS con retroiluminación LED   Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MSR041N/?tag=tolees-21'
+descuento: '29.70'
+titulo: 'HP 24ea – Monitor para PC Desktop  de 24'
 ---
 
 Tienes [HP 24ea – Monitor para PC Desktop  de 24’’  FHD  1920 x 1080 a 60 Hz  IPS con retroiluminación LED   Blanco](https://www.amazon.es/dp/B01MSR041N/?tag=tolees-21) con un 29.70 % de descuento con precio de oferta de 139.9 EUR (original: 199 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Monopoly Valencia CF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4BS0CM/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'Monopoly Valencia CF'
 ---
 
 Ahora mismo tienes [Monopoly Valencia CF](https://www.amazon.es/dp/B01N4BS0CM/?tag=tolees-21) a 19.95 EUR (original: 39.95 EUR) (50.06 %  de descuento) en el siguiente enlace!

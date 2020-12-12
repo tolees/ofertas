@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Prismáticos 10x42-Binoculares Profesionales HD compactos con Soporte para teléfono Inteligente para observación de Aves  Camping-BAK4 Prisma Lente FMC con Correa para el Cuello ...  Black7 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NKLRWXJ/?tag=tolees-21'
+descuento: '63.64'
+titulo: 'Prismáticos 10x42-Binoculares Profesiona'
 ---
 
 Está [Prismáticos 10x42-Binoculares Profesionales HD compactos con Soporte para teléfono Inteligente para observación de Aves  Camping-BAK4 Prisma Lente FMC con Correa para el Cuello ...  Black7 ](https://www.amazon.es/dp/B07NKLRWXJ/?tag=tolees-21) con 63.64 de descuento por 39.99 EUR (original: 109.99 EUR) en el siguiente enlace!

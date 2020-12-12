@@ -17,6 +17,9 @@ comparePrice: 45.9 EUR
 inStock: true
 prodname: 'Trueno Kids'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07S94KR8J/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Trueno Kids'
 ---
 
 Está [Trueno Kids](https://www.amazon.es/dp/B07S94KR8J/?tag=tolees-21) con 30.00 de descuento por 32.13 EUR (original: 45.9 EUR) en el siguiente enlace!

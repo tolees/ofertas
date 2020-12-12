@@ -17,6 +17,9 @@ comparePrice: 28.1 EUR
 inStock: true
 prodname: 'King Love silicona anal bolas Largo anal Cadena anal plug 6 Balls'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NBKS63P/?tag=tolees-21'
+descuento: '68.79'
+titulo: 'King Love silicona anal bolas Largo anal'
 ---
 
 Está [King Love silicona anal bolas Largo anal Cadena anal plug 6 Balls](https://www.amazon.es/dp/B01NBKS63P/?tag=tolees-21) con 68.79 de descuento por 8.77 EUR (original: 28.1 EUR) en el siguiente enlace!

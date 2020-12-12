@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Biotin MGM - Cinturón unisex  talla 110 - talla alemana  color marrón  braun geflammt '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009C5RSH2/?tag=tolees-21'
+descuento: '44.36'
+titulo: 'Biotin MGM - Cinturón unisex  talla 110 '
 ---
 
 Está [Biotin MGM - Cinturón unisex  talla 110 - talla alemana  color marrón  braun geflammt ](https://www.amazon.es/dp/B009C5RSH2/?tag=tolees-21) con 44.36 de descuento por 22.2 EUR (original: 39.9 EUR) en el siguiente enlace!

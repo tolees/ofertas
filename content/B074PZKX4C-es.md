@@ -17,6 +17,9 @@ comparePrice: 46.49 EUR
 inStock: true
 prodname: 'Osram Smart Bombilla Inteligente y Reflectora Casquillo con Cambio de Color GU10  6 W  Multicolor  Lote de 1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074PZKX4C/?tag=tolees-21'
+descuento: '35.49'
+titulo: 'Osram Smart Bombilla Inteligente y Refle'
 ---
 
 Tienes [Osram Smart Bombilla Inteligente y Reflectora Casquillo con Cambio de Color GU10  6 W  Multicolor  Lote de 1](https://www.amazon.es/dp/B074PZKX4C/?tag=tolees-21) con un 35.49 % de descuento con precio de oferta de 29.99 EUR (original: 46.49 EUR) en el siguiente enlace!

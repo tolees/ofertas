@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'Olaplex  Mascarilla de pelo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TUGVHHK/?tag=tolees-21'
+descuento: '52.78'
+titulo: 'Olaplex  Mascarilla de pelo'
 ---
 
 Tienes [Olaplex  Mascarilla de pelo](https://www.amazon.es/dp/B00TUGVHHK/?tag=tolees-21) con un 52.78 % de descuento con precio de oferta de 85 EUR (original: 180 EUR) en el siguiente enlace!

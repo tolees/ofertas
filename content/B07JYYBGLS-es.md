@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcojames Sweat Hood Camp Capucha  Gris  Light Grey Detail: Melange   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JYYBGLS/?tag=tolees-21'
+descuento: '69.99'
+titulo: 'JACK & JONES Jcojames Sweat Hood Camp Ca'
 ---
 
 Está [JACK & JONES Jcojames Sweat Hood Camp Capucha  Gris  Light Grey Detail: Melange   X-Large para Hombre](https://www.amazon.es/dp/B07JYYBGLS/?tag=tolees-21) con 69.99 de descuento por 9 EUR (original: 29.99 EUR) en el siguiente enlace!

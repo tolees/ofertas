@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Geox U Walee B  Zapatillas para Hombre  Azul  Blue   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076X7FBM5/?tag=tolees-21'
+descuento: '57.94'
+titulo: 'Geox U Walee B  Zapatillas para Hombre  '
 ---
 
 Está [Geox U Walee B  Zapatillas para Hombre  Azul  Blue   42 EU](https://www.amazon.es/dp/B076X7FBM5/?tag=tolees-21) con 57.94 de descuento por 35.75 EUR (original: 85 EUR) en el siguiente enlace!

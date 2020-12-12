@@ -17,6 +17,9 @@ comparePrice: 33.58 EUR
 inStock: true
 prodname: 'Kempa Teamline - Bolsa de Deportes Negro y Azul Talla:Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00V5LQB06/?tag=tolees-21'
+descuento: '49.52'
+titulo: 'Kempa Teamline - Bolsa de Deportes Negro'
 ---
 
 Ahora mismo tienes [Kempa Teamline - Bolsa de Deportes Negro y Azul Talla:Large](https://www.amazon.es/dp/B00V5LQB06/?tag=tolees-21) a 16.95 EUR (original: 33.58 EUR) (49.52 %  de descuento) en el siguiente enlace!

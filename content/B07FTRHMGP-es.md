@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Lee Rider Shirt  Camisa Hombre  Marfil  Faded Green Lf   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTRHMGP/?tag=tolees-21'
+descuento: '75.03'
+titulo: 'Lee Rider Shirt  Camisa Hombre  Marfil  '
 ---
 
 Está [Lee Rider Shirt  Camisa Hombre  Marfil  Faded Green Lf   Small](https://www.amazon.es/dp/B07FTRHMGP/?tag=tolees-21) con 75.03 de descuento por 14.97 EUR (original: 59.95 EUR) en el siguiente enlace!

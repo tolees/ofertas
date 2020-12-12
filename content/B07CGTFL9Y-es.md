@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'JOTO 29XL Cartuchos de Tinta para Epson 29XL 29 Alta Capacidad Compatible con Epson Expression Home XP-342 XP-332 XP-345 XP-442 XP-445 XP-432 XP-247 XP-335 XP-235 XP-245 XP-435'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CGTFL9Y/?tag=tolees-21'
+descuento: '40.76'
+titulo: 'JOTO 29XL Cartuchos de Tinta para Epson '
 ---
 
 Está [JOTO 29XL Cartuchos de Tinta para Epson 29XL 29 Alta Capacidad Compatible con Epson Expression Home XP-342 XP-332 XP-345 XP-442 XP-445 XP-432 XP-247 XP-335 XP-235 XP-245 XP-435](https://www.amazon.es/dp/B07CGTFL9Y/?tag=tolees-21) con 40.76 de descuento por 15.99 EUR (original: 26.99 EUR) en el siguiente enlace!

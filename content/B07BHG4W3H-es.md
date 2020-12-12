@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Blazblue Cross Tag Battle Day One'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHG4W3H/?tag=tolees-21'
+descuento: '37.73'
+titulo: 'Blazblue Cross Tag Battle Day One'
 ---
 
 Ahora mismo tienes [Blazblue Cross Tag Battle Day One](https://www.amazon.es/dp/B07BHG4W3H/?tag=tolees-21) a 24.9 EUR (original: 39.99 EUR) (37.73 %  de descuento) en el siguiente enlace!

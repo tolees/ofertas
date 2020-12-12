@@ -17,6 +17,9 @@ comparePrice: 20.89 EUR
 inStock: true
 prodname: 'Auntwhale Bebé infante Asiento de cochecito de bebé Silla de paseo Cochecito La seguridad Cojín de algodón suave Alfombrilla almohadilla'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BGZ5K84/?tag=tolees-21'
+descuento: '25.37'
+titulo: 'Auntwhale Bebé infante Asiento de cochec'
 ---
 
 Tienes [Auntwhale Bebé infante Asiento de cochecito de bebé Silla de paseo Cochecito La seguridad Cojín de algodón suave Alfombrilla almohadilla](https://www.amazon.es/dp/B07BGZ5K84/?tag=tolees-21) con un 25.37 % de descuento con precio de oferta de 15.59 EUR (original: 20.89 EUR) en el siguiente enlace!

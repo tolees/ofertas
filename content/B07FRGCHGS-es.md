@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Naf Naf Jhnp51j Vaqueros Hombre Ajustados  Gris  Grey 455   W36  Talla del Fabricante: 36  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FRGCHGS/?tag=tolees-21'
+descuento: '70.52'
+titulo: 'Naf Naf Jhnp51j Vaqueros Hombre Ajustado'
 ---
 
 Está [Naf Naf Jhnp51j Vaqueros Hombre Ajustados  Gris  Grey 455   W36  Talla del Fabricante: 36  para Mujer](https://www.amazon.es/dp/B07FRGCHGS/?tag=tolees-21) con 70.52 de descuento por 16.21 EUR (original: 54.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 12.25 EUR
 inStock: true
 prodname: 'Érase Una Vez En China I Blu-Ray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UICJFUG/?tag=tolees-21'
+descuento: '51.02'
+titulo: 'Érase Una Vez En China I Blu-Ray [Blu-ra'
 ---
 
 Tienes [Érase Una Vez En China I Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00UICJFUG/?tag=tolees-21) con un 51.02 % de descuento con precio de oferta de 6 EUR (original: 12.25 EUR) en el siguiente enlace!

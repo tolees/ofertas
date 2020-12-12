@@ -17,6 +17,9 @@ comparePrice: 51 EUR
 inStock: true
 prodname: 'hummel HUMMEL SLIMMER STADIL LOW - Zapatos de caña baja de lona unisex  Negro - Schwarz  Black/Blue/Red/Gum 2640   36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FLR3QMQ/?tag=tolees-21'
+descuento: '46.82'
+titulo: 'hummel HUMMEL SLIMMER STADIL LOW - Zapat'
 ---
 
 Tienes [hummel HUMMEL SLIMMER STADIL LOW - Zapatos de caña baja de lona unisex  Negro - Schwarz  Black/Blue/Red/Gum 2640   36](https://www.amazon.es/dp/B00FLR3QMQ/?tag=tolees-21) con un 46.82 % de descuento con precio de oferta de 27.12 EUR (original: 51 EUR) en el siguiente enlace!

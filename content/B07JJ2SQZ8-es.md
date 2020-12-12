@@ -17,6 +17,9 @@ comparePrice: 0.14 EUR
 inStock: true
 prodname: '1 par de proteína de colágeno Mascarilla para ojos Eliminación de parches oculares Círculo oscuro Antienvejecimiento Antiarrugas Hidratante Facial Reafirmante Cuidado de los ojos - Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJ2SQZ8/?tag=tolees-21'
+descuento: '28.57'
+titulo: '1 par de proteína de colágeno Mascarilla'
 ---
 
 Ahora mismo tienes [1 par de proteína de colágeno Mascarilla para ojos Eliminación de parches oculares Círculo oscuro Antienvejecimiento Antiarrugas Hidratante Facial Reafirmante Cuidado de los ojos - Rojo](https://www.amazon.es/dp/B07JJ2SQZ8/?tag=tolees-21) a 0.1 EUR (original: 0.14 EUR) (28.57 %  de descuento) en el siguiente enlace!

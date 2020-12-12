@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slhslim-Yard Deep Depths Pants W Noos Pantalones  Negro  W32/L34  Talla del Fabricante: 32  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTYR28Y/?tag=tolees-21'
+descuento: '73.81'
+titulo: 'SELECTED HOMME Slhslim-Yard Deep Depths '
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhslim-Yard Deep Depths Pants W Noos Pantalones  Negro  W32/L34  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B07FTYR28Y/?tag=tolees-21) a 15.71 EUR (original: 59.99 EUR) (73.81 %  de descuento) en el siguiente enlace!

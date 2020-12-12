@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Calcetines Invisibles Hombre Calcetines Cortos de Algodón  Hombre Calcetines Barco Respirable  Antideslizantes  5 Pares'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PCSDTXT/?tag=tolees-21'
+descuento: '42.87'
+titulo: 'Calcetines Invisibles Hombre Calcetines '
 ---
 
 Está [Calcetines Invisibles Hombre Calcetines Cortos de Algodón  Hombre Calcetines Barco Respirable  Antideslizantes  5 Pares](https://www.amazon.es/dp/B07PCSDTXT/?tag=tolees-21) con 42.87 de descuento por 15.99 EUR (original: 27.99 EUR) en el siguiente enlace!

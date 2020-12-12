@@ -17,6 +17,9 @@ comparePrice: 124.9 EUR
 inStock: true
 prodname: 'Adidas Supernova Glide 8 W S80277  Zapatillas de Entrenamiento para Mujer  Blanco  White  37 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GR9N8LA/?tag=tolees-21'
+descuento: '28.05'
+titulo: 'Adidas Supernova Glide 8 W S80277  Zapat'
 ---
 
 Tienes [Adidas Supernova Glide 8 W S80277  Zapatillas de Entrenamiento para Mujer  Blanco  White  37 1/3 EU](https://www.amazon.es/dp/B01GR9N8LA/?tag=tolees-21) con un 28.05 % de descuento con precio de oferta de 89.86 EUR (original: 124.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Sylvie Flirty Swimwear Babett  Parte de Arriba de Bikini para Mujer  Rojo  Red/White Stripes 4300   42  Talla del fabricante: 40A '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YMBJJZ/?tag=tolees-21'
+descuento: '84.46'
+titulo: 'Sylvie Flirty Swimwear Babett  Parte de '
 ---
 
 Ahora mismo tienes [Sylvie Flirty Swimwear Babett  Parte de Arriba de Bikini para Mujer  Rojo  Red/White Stripes 4300   42  Talla del fabricante: 40A ](https://www.amazon.es/dp/B077YMBJJZ/?tag=tolees-21) a 8.54 EUR (original: 54.95 EUR) (84.46 %  de descuento) en el siguiente enlace!

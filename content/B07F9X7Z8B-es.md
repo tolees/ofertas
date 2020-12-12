@@ -17,6 +17,9 @@ comparePrice: 11.98 EUR
 inStock: true
 prodname: 'Joma Winner Camisetas Caballero  Hombre  Marino/Blanco  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F9X7Z8B/?tag=tolees-21'
+descuento: '29.47'
+titulo: 'Joma Winner Camisetas Caballero  Hombre '
 ---
 
 Está [Joma Winner Camisetas Caballero  Hombre  Marino/Blanco  M](https://www.amazon.es/dp/B07F9X7Z8B/?tag=tolees-21) con 29.47 de descuento por 8.45 EUR (original: 11.98 EUR) en el siguiente enlace!

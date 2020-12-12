@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Under Armour UA Pantalón Corto  Hombre  Ropa Deportiva con Logotipo  Ligera y Transpirable  Academy/Steel  409   MD'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XNKV23/?tag=tolees-21'
+descuento: '48.80'
+titulo: 'Under Armour UA Pantalón Corto  Hombre  '
 ---
 
 Está [Under Armour UA Pantalón Corto  Hombre  Ropa Deportiva con Logotipo  Ligera y Transpirable  Academy/Steel  409   MD](https://www.amazon.es/dp/B077XNKV23/?tag=tolees-21) con 48.80 de descuento por 14.33 EUR (original: 27.99 EUR) en el siguiente enlace!

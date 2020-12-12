@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Puma Active Big Logo tee Camiseta  Hombre  Gris  Medium Gray Heather   2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GT5RXDM/?tag=tolees-21'
+descuento: '41.15'
+titulo: 'Puma Active Big Logo tee Camiseta  Hombr'
 ---
 
 Tienes [Puma Active Big Logo tee Camiseta  Hombre  Gris  Medium Gray Heather   2XL](https://www.amazon.es/dp/B07GT5RXDM/?tag=tolees-21) con un 41.15 % de descuento con precio de oferta de 11.74 EUR (original: 19.95 EUR) en el siguiente enlace!

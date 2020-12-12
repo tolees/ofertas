@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Goula- MIA  cose tu muñeca  Diset 52028.0 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LY69CBO/?tag=tolees-21'
+descuento: '25.73'
+titulo: 'Goula- MIA  cose tu muñeca  Diset 52028.'
 ---
 
 Está [Goula- MIA  cose tu muñeca  Diset 52028.0 ](https://www.amazon.es/dp/B01LY69CBO/?tag=tolees-21) con 25.73 de descuento por 7.42 EUR (original: 9.99 EUR) en el siguiente enlace!

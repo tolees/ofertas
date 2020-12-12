@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'AICOOK Batidora de Vaso  Batidora para Smoothie  4 Botellas Tritan sin BPA  con 2 Bases de Cuchilla de Acero Inoxidable  900W  Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1P6FD4/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'AICOOK Batidora de Vaso  Batidora para S'
 ---
 
 Tienes [AICOOK Batidora de Vaso  Batidora para Smoothie  4 Botellas Tritan sin BPA  con 2 Bases de Cuchilla de Acero Inoxidable  900W  Gris](https://www.amazon.es/dp/B07F1P6FD4/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!

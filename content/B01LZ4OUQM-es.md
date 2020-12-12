@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'LANGRIA Caja Joyero Octogonal de Piel Sintética  Cierre con Llave  Revestimiento de Terciopelo y con Espejo  Estuche Tama?o Compacto de Viaje para Joyas  Bisuter¨ªa  Accesorios  Maquillaje  Gris '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZ4OUQM/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'LANGRIA Caja Joyero Octogonal de Piel Si'
 ---
 
 Ahora mismo tienes [LANGRIA Caja Joyero Octogonal de Piel Sintética  Cierre con Llave  Revestimiento de Terciopelo y con Espejo  Estuche Tama?o Compacto de Viaje para Joyas  Bisuter¨ªa  Accesorios  Maquillaje  Gris ](https://www.amazon.es/dp/B01LZ4OUQM/?tag=tolees-21) a 12.99 EUR (original: 25.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

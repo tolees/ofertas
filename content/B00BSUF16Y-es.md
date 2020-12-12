@@ -17,6 +17,9 @@ comparePrice: 27.23 EUR
 inStock: true
 prodname: 'edding 4500-02 - Caja de 10 marcadores textiles  trazo 2-3 mm  color rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BSUF16Y/?tag=tolees-21'
+descuento: '52.55'
+titulo: 'edding 4500-02 - Caja de 10 marcadores t'
 ---
 
 Está [edding 4500-02 - Caja de 10 marcadores textiles  trazo 2-3 mm  color rojo](https://www.amazon.es/dp/B00BSUF16Y/?tag=tolees-21) con 52.55 de descuento por 12.92 EUR (original: 27.23 EUR) en el siguiente enlace!

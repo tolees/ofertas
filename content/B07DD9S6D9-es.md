@@ -17,6 +17,9 @@ comparePrice: 43.9 EUR
 inStock: true
 prodname: 'boboli Hooded Raincoat For Baby Boy  Abrigo Impermeable Bebé-para Niños  9916  68  Tamaño del Fabricante:6M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DD9S6D9/?tag=tolees-21'
+descuento: '70.77'
+titulo: 'boboli Hooded Raincoat For Baby Boy  Abr'
 ---
 
 Está [boboli Hooded Raincoat For Baby Boy  Abrigo Impermeable Bebé-para Niños  9916  68  Tamaño del Fabricante:6M ](https://www.amazon.es/dp/B07DD9S6D9/?tag=tolees-21) con 70.77 de descuento por 12.83 EUR (original: 43.9 EUR) en el siguiente enlace!

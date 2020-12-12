@@ -17,6 +17,9 @@ comparePrice: 294 EUR
 inStock: true
 prodname: 'Fender Squier Affinity Stratocaster Maple Fingerboard Guitarra Eléctrica'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0002H0KGU/?tag=tolees-21'
+descuento: '32.35'
+titulo: 'Fender Squier Affinity Stratocaster Mapl'
 ---
 
 Ahora mismo tienes [Fender Squier Affinity Stratocaster Maple Fingerboard Guitarra Eléctrica](https://www.amazon.es/dp/B0002H0KGU/?tag=tolees-21) a 198.89 EUR (original: 294 EUR) (32.35 %  de descuento) en el siguiente enlace!

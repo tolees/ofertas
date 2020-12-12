@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Puma Suede Classic  Zapatillas Unisex Adults’o  Rosa  Pale Pink White   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBWWHN5/?tag=tolees-21'
+descuento: '53.03'
+titulo: 'Puma Suede Classic  Zapatillas Unisex Ad'
 ---
 
 Tienes [Puma Suede Classic  Zapatillas Unisex Adults’o  Rosa  Pale Pink White   44 EU](https://www.amazon.es/dp/B07DBWWHN5/?tag=tolees-21) con un 53.03 % de descuento con precio de oferta de 39.9 EUR (original: 84.95 EUR) en el siguiente enlace!

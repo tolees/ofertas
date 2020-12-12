@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 42ma204-700921  Zapatillas para Mujer  Dorado  Gold/Schwarz 921   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078X2KGL4/?tag=tolees-21'
+descuento: '51.64'
+titulo: 'Dockers by Gerli 42ma204-700921  Zapatil'
 ---
 
 Tienes [Dockers by Gerli 42ma204-700921  Zapatillas para Mujer  Dorado  Gold/Schwarz 921   40 EU](https://www.amazon.es/dp/B078X2KGL4/?tag=tolees-21) con un 51.64 % de descuento con precio de oferta de 19.32 EUR (original: 39.95 EUR) en el siguiente enlace!

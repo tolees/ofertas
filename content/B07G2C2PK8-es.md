@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'SUAOKI Cargador de Batería de Coche/Motocicleta 1Amp 6/12V  Cargador de batería portátil Mantenedor con indicadores de carga LED inteligentes  protección múltiple automática para Coche ATV Moto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G2C2PK8/?tag=tolees-21'
+descuento: '43.35'
+titulo: 'SUAOKI Cargador de Batería de Coche/Moto'
 ---
 
 Está [SUAOKI Cargador de Batería de Coche/Motocicleta 1Amp 6/12V  Cargador de batería portátil Mantenedor con indicadores de carga LED inteligentes  protección múltiple automática para Coche ATV Moto](https://www.amazon.es/dp/B07G2C2PK8/?tag=tolees-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

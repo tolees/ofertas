@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 343374  Camisa Casual para Hombre   Gamma Azules   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HLVMT5/?tag=tolees-21'
+descuento: '53.79'
+titulo: 'Springfield 343374  Camisa Casual para H'
 ---
 
 Ahora mismo tienes [Springfield 343374  Camisa Casual para Hombre   Gamma Azules   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078HLVMT5/?tag=tolees-21) a 12.01 EUR (original: 25.99 EUR) (53.79 %  de descuento) en el siguiente enlace!

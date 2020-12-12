@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Puma Core-Run 3/4 Tight Pantalones  Hombre  Negro  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4BOIBG/?tag=tolees-21'
+descuento: '45.56'
+titulo: 'Puma Core-Run 3/4 Tight Pantalones  Homb'
 ---
 
 Ahora mismo tienes [Puma Core-Run 3/4 Tight Pantalones  Hombre  Negro  M](https://www.amazon.es/dp/B01N4BOIBG/?tag=tolees-21) a 24.47 EUR (original: 44.95 EUR) (45.56 %  de descuento) en el siguiente enlace!

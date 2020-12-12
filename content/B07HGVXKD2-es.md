@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Kit Cuidado de Barba de Anjou 1x Aceite para Barba 1x Bálsamo para Barba & 1x Cepillo de Cerda de Jabalí para Barba -100% Puro Kit Natural de Aseo con Mantequilla Con Vitamina E Regalo para Hombres'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HGVXKD2/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Kit Cuidado de Barba de Anjou 1x Aceite '
 ---
 
 Tienes [Kit Cuidado de Barba de Anjou 1x Aceite para Barba 1x Bálsamo para Barba & 1x Cepillo de Cerda de Jabalí para Barba -100% Puro Kit Natural de Aseo con Mantequilla Con Vitamina E Regalo para Hombres](https://www.amazon.es/dp/B07HGVXKD2/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

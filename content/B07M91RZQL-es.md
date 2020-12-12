@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'The North Face S/S Simple Dome Camiseta de Manga Corta  Hombre  Urban Navy/Fiery Red  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M91RZQL/?tag=tolees-21'
+descuento: '38.20'
+titulo: 'The North Face S/S Simple Dome Camiseta '
 ---
 
 Ahora mismo tienes [The North Face S/S Simple Dome Camiseta de Manga Corta  Hombre  Urban Navy/Fiery Red  S](https://www.amazon.es/dp/B07M91RZQL/?tag=tolees-21) a 15.45 EUR (original: 25 EUR) (38.20 %  de descuento) en el siguiente enlace!

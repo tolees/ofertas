@@ -17,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'Playshoes Raincoat Stars  Chaqueta Impermeable para Niñas  Azul  Marine 11  128'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HMN9PR5/?tag=tolees-21'
+descuento: '68.26'
+titulo: 'Playshoes Raincoat Stars  Chaqueta Imper'
 ---
 
 Tienes [Playshoes Raincoat Stars  Chaqueta Impermeable para Niñas  Azul  Marine 11  128](https://www.amazon.es/dp/B07HMN9PR5/?tag=tolees-21) con un 68.26 % de descuento con precio de oferta de 11.74 EUR (original: 36.99 EUR) en el siguiente enlace!

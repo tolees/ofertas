@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Color Baby - Tabla para surf hinchable decorada  112 x 62 cm  58165    Modelos/colores Surtidos  1 Unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004FEEQXY/?tag=tolees-21'
+descuento: '53.81'
+titulo: 'Color Baby - Tabla para surf hinchable d'
 ---
 
 Está [Color Baby - Tabla para surf hinchable decorada  112 x 62 cm  58165    Modelos/colores Surtidos  1 Unidad](https://www.amazon.es/dp/B004FEEQXY/?tag=tolees-21) con 53.81 de descuento por 6 EUR (original: 12.99 EUR) en el siguiente enlace!

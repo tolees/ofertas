@@ -17,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'GORE WEAR M Gorra unisex GORE-TEX   Talla: única  Color: amarillo neón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075QLXZ2Y/?tag=tolees-21'
+descuento: '25.09'
+titulo: 'GORE WEAR M Gorra unisex GORE-TEX   Tall'
 ---
 
 Ahora mismo tienes [GORE WEAR M Gorra unisex GORE-TEX   Talla: única  Color: amarillo neón](https://www.amazon.es/dp/B075QLXZ2Y/?tag=tolees-21) a 34.42 EUR (original: 45.95 EUR) (25.09 %  de descuento) en el siguiente enlace!

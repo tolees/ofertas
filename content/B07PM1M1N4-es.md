@@ -17,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'alvorog Cosméticos Organizador Transparente Organizador del Maquillaje  360 Grados Que Giran  la Joyería Ajustable y el Soporte de Exhibición Cosmético  Ordinario'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PM1M1N4/?tag=tolees-21'
+descuento: '57.19'
+titulo: 'alvorog Cosméticos Organizador Transpare'
 ---
 
 Está [alvorog Cosméticos Organizador Transparente Organizador del Maquillaje  360 Grados Que Giran  la Joyería Ajustable y el Soporte de Exhibición Cosmético  Ordinario](https://www.amazon.es/dp/B07PM1M1N4/?tag=tolees-21) con 57.19 de descuento por 23.54 EUR (original: 54.99 EUR) en el siguiente enlace!

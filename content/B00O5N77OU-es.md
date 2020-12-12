@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike Stefan Janoski  GS   Zapatillas de Skateboard para Niños  Azul Blue Void/Black/Summit 409  36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00O5N77OU/?tag=tolees-21'
+descuento: '58.80'
+titulo: 'Nike Stefan Janoski  GS   Zapatillas de '
 ---
 
 Está [Nike Stefan Janoski  GS   Zapatillas de Skateboard para Niños  Azul Blue Void/Black/Summit 409  36.5 EU](https://www.amazon.es/dp/B00O5N77OU/?tag=tolees-21) con 58.80 de descuento por 24.72 EUR (original: 60 EUR) en el siguiente enlace!

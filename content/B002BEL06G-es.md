@@ -17,6 +17,9 @@ comparePrice: 34.41 EUR
 inStock: true
 prodname: 'BIC Clic Stic ECOlutions bolígrafos Retráctiles punta media  1 0 mm  - Negro  Caja de 50 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002BEL06G/?tag=tolees-21'
+descuento: '31.12'
+titulo: 'BIC Clic Stic ECOlutions bolígrafos Retr'
 ---
 
 Ahora mismo tienes [BIC Clic Stic ECOlutions bolígrafos Retráctiles punta media  1 0 mm  - Negro  Caja de 50 unidades](https://www.amazon.es/dp/B002BEL06G/?tag=tolees-21) a 23.7 EUR (original: 34.41 EUR) (31.12 %  de descuento) en el siguiente enlace!

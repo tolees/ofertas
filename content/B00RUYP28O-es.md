@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'The North Face Chaqueta Quest  Hombre  Negro  TNF Black   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00RUYP28O/?tag=tolees-21'
+descuento: '40.64'
+titulo: 'The North Face Chaqueta Quest  Hombre  N'
 ---
 
 Está [The North Face Chaqueta Quest  Hombre  Negro  TNF Black   XS](https://www.amazon.es/dp/B00RUYP28O/?tag=tolees-21) con 40.64 de descuento por 59.36 EUR (original: 100 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 154 EUR
 inStock: true
 prodname: 'Diesel Y01448  Zapatillas para Mujer  Negro  H1145   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N32UFD2/?tag=tolees-21'
+descuento: '54.55'
+titulo: 'Diesel Y01448  Zapatillas para Mujer  Ne'
 ---
 
 Ahora mismo tienes [Diesel Y01448  Zapatillas para Mujer  Negro  H1145   38 EU](https://www.amazon.es/dp/B01N32UFD2/?tag=tolees-21) a 69.99 EUR (original: 154 EUR) (54.55 %  de descuento) en el siguiente enlace!

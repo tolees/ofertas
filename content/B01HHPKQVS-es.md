@@ -17,6 +17,9 @@ comparePrice: 149.9 EUR
 inStock: true
 prodname: 'Corsair K70 LUX - Teclado mecánico Gaming  retroiluminación LED roja  Marrón  Cherry MX Brown  - [QWERTY Español]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HHPKQVS/?tag=tolees-21'
+descuento: '39.97'
+titulo: 'Corsair K70 LUX - Teclado mecánico Gamin'
 ---
 
 Está [Corsair K70 LUX - Teclado mecánico Gaming  retroiluminación LED roja  Marrón  Cherry MX Brown  - [QWERTY Español]](https://www.amazon.es/dp/B01HHPKQVS/?tag=tolees-21) con 39.97 de descuento por 89.99 EUR (original: 149.9 EUR) en el siguiente enlace!

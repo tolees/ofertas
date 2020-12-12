@@ -17,6 +17,9 @@ comparePrice: 86.87 EUR
 inStock: true
 prodname: 'HyperX Fury - Memoria RAM de 8 GB  DDR4  3466 MHz  CL19  DIMM XMP  HX434C19FR2/8  Color Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJJR59Q/?tag=tolees-21'
+descuento: '26.17'
+titulo: 'HyperX Fury - Memoria RAM de 8 GB  DDR4 '
 ---
 
 Tienes [HyperX Fury - Memoria RAM de 8 GB  DDR4  3466 MHz  CL19  DIMM XMP  HX434C19FR2/8  Color Rojo](https://www.amazon.es/dp/B07BJJR59Q/?tag=tolees-21) con un 26.17 % de descuento con precio de oferta de 64.14 EUR (original: 86.87 EUR) en el siguiente enlace!

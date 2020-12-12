@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'FLOWood Llama Solar Luces Solares Antorcha，Antorcha Solar Efecto Fuego 2pcs Impermeable Iluminación Inalámbrica Calle de Parpadeo Baile Simulan Efecto Llamas de Patio Decoración  Jardín  Fiesta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDG3TWK/?tag=tolees-21'
+descuento: '28.01'
+titulo: 'FLOWood Llama Solar Luces Solares Antorc'
 ---
 
 Está [FLOWood Llama Solar Luces Solares Antorcha，Antorcha Solar Efecto Fuego 2pcs Impermeable Iluminación Inalámbrica Calle de Parpadeo Baile Simulan Efecto Llamas de Patio Decoración  Jardín  Fiesta](https://www.amazon.es/dp/B07GDG3TWK/?tag=tolees-21) con 28.01 de descuento por 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!

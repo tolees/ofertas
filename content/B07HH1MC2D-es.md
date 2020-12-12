@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Tommy Jeans Mujer SOFT JERSEY Camiseta Manga Corta  Azul  Black Iris 002  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HH1MC2D/?tag=tolees-21'
+descuento: '38.10'
+titulo: 'Tommy Jeans Mujer SOFT JERSEY Camiseta M'
 ---
 
 Está [Tommy Jeans Mujer SOFT JERSEY Camiseta Manga Corta  Azul  Black Iris 002  Large](https://www.amazon.es/dp/B07HH1MC2D/?tag=tolees-21) con 38.10 de descuento por 17.95 EUR (original: 29 EUR) en el siguiente enlace!

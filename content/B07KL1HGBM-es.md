@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Naf Naf Kenr34d Vestido  Azul  Bleu Marine 567   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KL1HGBM/?tag=tolees-21'
+descuento: '50.35'
+titulo: 'Naf Naf Kenr34d Vestido  Azul  Bleu Mari'
 ---
 
 Ahora mismo tienes [Naf Naf Kenr34d Vestido  Azul  Bleu Marine 567   Large para Mujer](https://www.amazon.es/dp/B07KL1HGBM/?tag=tolees-21) a 29.79 EUR (original: 60 EUR) (50.35 %  de descuento) en el siguiente enlace!

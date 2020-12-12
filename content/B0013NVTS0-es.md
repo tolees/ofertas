@@ -17,6 +17,9 @@ comparePrice: 2.04 EUR
 inStock: true
 prodname: 'Smiffy s Corbatín de satén de Cuentos de la antigua Inglaterra  negro  con tira del cuello con goma Color  única 25223'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0013NVTS0/?tag=tolees-21'
+descuento: '31.86'
+titulo: 'Smiffy s Corbatín de satén de Cuentos de'
 ---
 
 Está [Smiffy s Corbatín de satén de Cuentos de la antigua Inglaterra  negro  con tira del cuello con goma Color  única 25223](https://www.amazon.es/dp/B0013NVTS0/?tag=tolees-21) con 31.86 de descuento por 1.39 EUR (original: 2.04 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Gazelle S&T  Zapatillas para Hombre  Beige Pale Nude/Off White 0  39 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D6YP2ND/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Gazelle S&T  Zapatillas para Homb'
 ---
 
 Tienes [adidas Gazelle S&T  Zapatillas para Hombre  Beige Pale Nude/Off White 0  39 1/3 EU](https://www.amazon.es/dp/B07D6YP2ND/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 49.98 EUR (original: 99.95 EUR) en el siguiente enlace!

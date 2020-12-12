@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Dockers 35FN701  Botas Militar Infantil  Marron  Cafe 320   33 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WVW2BYS/?tag=tolees-21'
+descuento: '73.51'
+titulo: 'Dockers 35FN701  Botas Militar Infantil '
 ---
 
 Ahora mismo tienes [Dockers 35FN701  Botas Militar Infantil  Marron  Cafe 320   33 EU](https://www.amazon.es/dp/B00WVW2BYS/?tag=tolees-21) a 13.23 EUR (original: 49.95 EUR) (73.51 %  de descuento) en el siguiente enlace!

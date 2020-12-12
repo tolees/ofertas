@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'AGM Velas Electrónicas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C31D6RV/?tag=tolees-21'
+descuento: '54.86'
+titulo: 'AGM Velas Electrónicas'
 ---
 
 Ahora mismo tienes [AGM Velas Electrónicas](https://www.amazon.es/dp/B07C31D6RV/?tag=tolees-21) a 13.99 EUR (original: 30.99 EUR) (54.86 %  de descuento) en el siguiente enlace!

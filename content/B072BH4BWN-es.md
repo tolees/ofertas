@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Deconstructed Slim Jeans  Azul  3D Cobler Processed 8968-8960   40W / 34L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BH4BWN/?tag=tolees-21'
+descuento: '74.34'
+titulo: 'G-STAR RAW 3301 Deconstructed Slim Jeans'
 ---
 
 Está [G-STAR RAW 3301 Deconstructed Slim Jeans  Azul  3D Cobler Processed 8968-8960   40W / 34L para Hombre](https://www.amazon.es/dp/B072BH4BWN/?tag=tolees-21) con 74.34 de descuento por 28.21 EUR (original: 109.95 EUR) en el siguiente enlace!

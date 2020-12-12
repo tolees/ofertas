@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Amour Exagerar Pantalones Cortos  Mujer  Gris  True Heather  / Azul  Infinity   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MFA9FF2/?tag=tolees-21'
+descuento: '45.46'
+titulo: 'Under Amour Exagerar Pantalones Cortos  '
 ---
 
 Tienes [Under Amour Exagerar Pantalones Cortos  Mujer  Gris  True Heather  / Azul  Infinity   S](https://www.amazon.es/dp/B01MFA9FF2/?tag=tolees-21) con un 45.46 % de descuento con precio de oferta de 15.27 EUR (original: 28 EUR) en el siguiente enlace!

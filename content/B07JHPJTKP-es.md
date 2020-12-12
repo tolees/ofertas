@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jfwsputnik Fusion Leather Anthracite STS  Zapatillas para Hombre  Gris  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHPJTKP/?tag=tolees-21'
+descuento: '65.55'
+titulo: 'JACK & JONES Jfwsputnik Fusion Leather A'
 ---
 
 Está [JACK & JONES Jfwsputnik Fusion Leather Anthracite STS  Zapatillas para Hombre  Gris  42 EU](https://www.amazon.es/dp/B07JHPJTKP/?tag=tolees-21) con 65.55 de descuento por 24.11 EUR (original: 69.99 EUR) en el siguiente enlace!

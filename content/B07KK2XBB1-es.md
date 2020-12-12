@@ -17,6 +17,9 @@ comparePrice: 22.48 EUR
 inStock: true
 prodname: 'New Look Faux Fur6035021  estola para Mujer  Rosa  Mid Pink 73   única  Talla del Fabricante: 99 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KK2XBB1/?tag=tolees-21'
+descuento: '29.63'
+titulo: 'New Look Faux Fur6035021  estola para Mu'
 ---
 
 Está [New Look Faux Fur6035021  estola para Mujer  Rosa  Mid Pink 73   única  Talla del Fabricante: 99 ](https://www.amazon.es/dp/B07KK2XBB1/?tag=tolees-21) con 29.63 de descuento por 15.82 EUR (original: 22.48 EUR) en el siguiente enlace!

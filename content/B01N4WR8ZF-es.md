@@ -17,6 +17,9 @@ comparePrice: 155 EUR
 inStock: true
 prodname: 'CAMPER Neuman  Botas Desert para Hombre  Braun  Dark Brown 200   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4WR8ZF/?tag=tolees-21'
+descuento: '50.14'
+titulo: 'CAMPER Neuman  Botas Desert para Hombre '
 ---
 
 Está [CAMPER Neuman  Botas Desert para Hombre  Braun  Dark Brown 200   45 EU](https://www.amazon.es/dp/B01N4WR8ZF/?tag=tolees-21) con 50.14 de descuento por 77.29 EUR (original: 155 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Synergy-Scene Stealer  Zapatillas para Mujer  NVPK  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01034VVJG/?tag=tolees-21'
+descuento: '57.09'
+titulo: 'Skechers Synergy-Scene Stealer  Zapatill'
 ---
 
 Ahora mismo tienes [Skechers Synergy-Scene Stealer  Zapatillas para Mujer  NVPK  39 EU](https://www.amazon.es/dp/B01034VVJG/?tag=tolees-21) a 27.87 EUR (original: 64.95 EUR) (57.09 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 95.42 EUR
 inStock: true
 prodname: 'Clarks Unnature Time  Zapatos de Cordones Derby para Hombre  Marrón  Dark TanLea   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075PHC4YK/?tag=tolees-21'
+descuento: '55.46'
+titulo: 'Clarks Unnature Time  Zapatos de Cordone'
 ---
 
 Está [Clarks Unnature Time  Zapatos de Cordones Derby para Hombre  Marrón  Dark TanLea   44 EU](https://www.amazon.es/dp/B075PHC4YK/?tag=tolees-21) con 55.46 de descuento por 42.5 EUR (original: 95.42 EUR) en el siguiente enlace!

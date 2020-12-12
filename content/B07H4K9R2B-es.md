@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Gant O2. Collarless Padded Jacket Chaqueta  Azul  Marine 410   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H4K9R2B/?tag=tolees-21'
+descuento: '50.81'
+titulo: 'Gant O2. Collarless Padded Jacket Chaque'
 ---
 
 Está [Gant O2. Collarless Padded Jacket Chaqueta  Azul  Marine 410   42  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07H4K9R2B/?tag=tolees-21) con 50.81 de descuento por 97.88 EUR (original: 199 EUR) en el siguiente enlace!

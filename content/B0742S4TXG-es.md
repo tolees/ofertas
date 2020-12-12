@@ -17,6 +17,9 @@ comparePrice: 9.75 EUR
 inStock: true
 prodname: 'Popsockets - Soporte y Agarre  No Intercambiable  para Teléfonos Móviles y Tabletas - Opal'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0742S4TXG/?tag=tolees-21'
+descuento: '28.21'
+titulo: 'Popsockets - Soporte y Agarre  No Interc'
 ---
 
 Ahora mismo tienes [Popsockets - Soporte y Agarre  No Intercambiable  para Teléfonos Móviles y Tabletas - Opal](https://www.amazon.es/dp/B0742S4TXG/?tag=tolees-21) a 7 EUR (original: 9.75 EUR) (28.21 %  de descuento) en el siguiente enlace!

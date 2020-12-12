@@ -17,6 +17,9 @@ comparePrice: 38.74 EUR
 inStock: true
 prodname: 'HomeIdeas - Zapatillas de Estar por casa para Mujer  Color Rosa  Talla 40/41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4LUM2Z/?tag=tolees-21'
+descuento: '53.74'
+titulo: 'HomeIdeas - Zapatillas de Estar por casa'
 ---
 
 Está [HomeIdeas - Zapatillas de Estar por casa para Mujer  Color Rosa  Talla 40/41 EU](https://www.amazon.es/dp/B01N4LUM2Z/?tag=tolees-21) con 53.74 de descuento por 17.92 EUR (original: 38.74 EUR) en el siguiente enlace!

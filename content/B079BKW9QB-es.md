@@ -17,6 +17,9 @@ comparePrice: 53.98 EUR
 inStock: true
 prodname: 'Homyl Detener Ladrido de Perros Ultrasonido Probado de Seguridad Portable Accesoior de Mascotas - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079BKW9QB/?tag=tolees-21'
+descuento: '44.44'
+titulo: 'Homyl Detener Ladrido de Perros Ultrason'
 ---
 
 Está [Homyl Detener Ladrido de Perros Ultrasonido Probado de Seguridad Portable Accesoior de Mascotas - Negro](https://www.amazon.es/dp/B079BKW9QB/?tag=tolees-21) con 44.44 de descuento por 29.99 EUR (original: 53.98 EUR) en el siguiente enlace!

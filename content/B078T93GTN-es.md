@@ -17,6 +17,9 @@ comparePrice: 95.7 EUR
 inStock: true
 prodname: 'Babolat 2018 Pure Drive 25 Raqueta de Tenis Junior –  b140227 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078T93GTN/?tag=tolees-21'
+descuento: '40.54'
+titulo: 'Babolat 2018 Pure Drive 25 Raqueta de Te'
 ---
 
 Tienes [Babolat 2018 Pure Drive 25 Raqueta de Tenis Junior –  b140227 ](https://www.amazon.es/dp/B078T93GTN/?tag=tolees-21) con un 40.54 % de descuento con precio de oferta de 56.9 EUR (original: 95.7 EUR) en el siguiente enlace!

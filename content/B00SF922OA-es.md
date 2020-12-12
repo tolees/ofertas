@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW ARC 3D Slim Jeans  Azul  Medium Aged 6090-071   34W / 30L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SF922OA/?tag=tolees-21'
+descuento: '61.03'
+titulo: 'G-STAR RAW ARC 3D Slim Jeans  Azul  Medi'
 ---
 
 Está [G-STAR RAW ARC 3D Slim Jeans  Azul  Medium Aged 6090-071   34W / 30L para Hombre](https://www.amazon.es/dp/B00SF922OA/?tag=tolees-21) con 61.03 de descuento por 46.74 EUR (original: 119.95 EUR) en el siguiente enlace!

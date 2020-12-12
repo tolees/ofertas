@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'JIM HALO Gafas de Sol Aviador Redondas Clásico Lente de Cristal de Alta Calidad Plano Metal Anteojos Hombre Mujer Dorado/Verde '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BN8ZQJ7/?tag=tolees-21'
+descuento: '57.71'
+titulo: 'JIM HALO Gafas de Sol Aviador Redondas C'
 ---
 
 Está [JIM HALO Gafas de Sol Aviador Redondas Clásico Lente de Cristal de Alta Calidad Plano Metal Anteojos Hombre Mujer Dorado/Verde ](https://www.amazon.es/dp/B07BN8ZQJ7/?tag=tolees-21) con 57.71 de descuento por 10.99 EUR (original: 25.99 EUR) en el siguiente enlace!

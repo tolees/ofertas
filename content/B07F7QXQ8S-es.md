@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Hajo Shirt  Camisa Manga Larga para Mujer  Rojo  Granatrot 326  50  Talla del Fabricante: 48 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7QXQ8S/?tag=tolees-21'
+descuento: '85.69'
+titulo: 'Hajo Shirt  Camisa Manga Larga para Muje'
 ---
 
 Está [Hajo Shirt  Camisa Manga Larga para Mujer  Rojo  Granatrot 326  50  Talla del Fabricante: 48 ](https://www.amazon.es/dp/B07F7QXQ8S/?tag=tolees-21) con 85.69 de descuento por 7.15 EUR (original: 49.95 EUR) en el siguiente enlace!

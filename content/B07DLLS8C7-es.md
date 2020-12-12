@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Women s Secret D1 Pink Sello PJ FR Conjuntos de Pijama Rosa 77  Small  Tamaño del Fabricante:S  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLLS8C7/?tag=tolees-21'
+descuento: '71.29'
+titulo: 'Women s Secret D1 Pink Sello PJ FR Conju'
 ---
 
 Está [Women s Secret D1 Pink Sello PJ FR Conjuntos de Pijama Rosa 77  Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B07DLLS8C7/?tag=tolees-21) con 71.29 de descuento por 8.61 EUR (original: 29.99 EUR) en el siguiente enlace!

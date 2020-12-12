@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'HUGO Errik Camisa  Blanco  Open White 199   X-Large  Talla del Fabricante: 44  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKVTFPB/?tag=tolees-21'
+descuento: '62.20'
+titulo: 'HUGO Errik Camisa  Blanco  Open White 19'
 ---
 
 Está [HUGO Errik Camisa  Blanco  Open White 199   X-Large  Talla del Fabricante: 44  para Hombre](https://www.amazon.es/dp/B07KKVTFPB/?tag=tolees-21) con 62.20 de descuento por 30.22 EUR (original: 79.95 EUR) en el siguiente enlace!

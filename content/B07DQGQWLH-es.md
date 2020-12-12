@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Cepillo de Limpieza Facial  Cepillo de Limpieza Eléctrico Cepillo Facial de Sonic Cepillo de Masaje  Cabeza Vibrante con 3 Cabezales de Cepillo Resistente al Agua'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQGQWLH/?tag=tolees-21'
+descuento: '87.52'
+titulo: 'Cepillo de Limpieza Facial  Cepillo de L'
 ---
 
 Está [Cepillo de Limpieza Facial  Cepillo de Limpieza Eléctrico Cepillo Facial de Sonic Cepillo de Masaje  Cabeza Vibrante con 3 Cabezales de Cepillo Resistente al Agua](https://www.amazon.es/dp/B07DQGQWLH/?tag=tolees-21) con 87.52 de descuento por 4.99 EUR (original: 39.99 EUR) en el siguiente enlace!

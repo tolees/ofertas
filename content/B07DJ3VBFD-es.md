@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Geox D Jaysen a  Zapatillas para Mujer  Negro  Gun/Black C1223   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ3VBFD/?tag=tolees-21'
+descuento: '73.86'
+titulo: 'Geox D Jaysen a  Zapatillas para Mujer  '
 ---
 
 Está [Geox D Jaysen a  Zapatillas para Mujer  Negro  Gun/Black C1223   38 EU](https://www.amazon.es/dp/B07DJ3VBFD/?tag=tolees-21) con 73.86 de descuento por 24.83 EUR (original: 95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Lico Recent Indoor Kids V  Zapatillas de Deporte Interior Unisex Adulto  Azul Blau/Schwarz/Lemon  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FDT12ZC/?tag=tolees-21'
+descuento: '62.60'
+titulo: 'Lico Recent Indoor Kids V  Zapatillas de'
 ---
 
 Está [Lico Recent Indoor Kids V  Zapatillas de Deporte Interior Unisex Adulto  Azul Blau/Schwarz/Lemon  41 EU](https://www.amazon.es/dp/B07FDT12ZC/?tag=tolees-21) con 62.60 de descuento por 11.2 EUR (original: 29.95 EUR) en el siguiente enlace!

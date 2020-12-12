@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Victoria'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21'
+descuento: '71.64'
+titulo: 'Victoria'
 ---
 
 Ahora mismo tienes [Victoria](https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21) a 6.24 EUR (original: 22 EUR) (71.64 %  de descuento) en el siguiente enlace!

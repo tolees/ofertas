@@ -17,6 +17,9 @@ comparePrice: 5.8 EUR
 inStock: true
 prodname: 'Keep Out Gaming R2 - Alfombrilla  320x270x3 mm  Color Negro y Verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HFOFQ8K/?tag=tolees-21'
+descuento: '65.52'
+titulo: 'Keep Out Gaming R2 - Alfombrilla  320x27'
 ---
 
 Ahora mismo tienes [Keep Out Gaming R2 - Alfombrilla  320x270x3 mm  Color Negro y Verde](https://www.amazon.es/dp/B00HFOFQ8K/?tag=tolees-21) a 2 EUR (original: 5.8 EUR) (65.52 %  de descuento) en el siguiente enlace!

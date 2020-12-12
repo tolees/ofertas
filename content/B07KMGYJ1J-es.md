@@ -17,6 +17,9 @@ comparePrice: 99.01 EUR
 inStock: true
 prodname: 'Superdry International Quilted Jacket Chaqueta Deportiva  Azul  Navy 11S   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KMGYJ1J/?tag=tolees-21'
+descuento: '57.63'
+titulo: 'Superdry International Quilted Jacket Ch'
 ---
 
 Ahora mismo tienes [Superdry International Quilted Jacket Chaqueta Deportiva  Azul  Navy 11S   Small para Hombre](https://www.amazon.es/dp/B07KMGYJ1J/?tag=tolees-21) a 41.95 EUR (original: 99.01 EUR) (57.63 %  de descuento) en el siguiente enlace!

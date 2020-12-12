@@ -17,6 +17,9 @@ comparePrice: 26.11 EUR
 inStock: true
 prodname: 'Dim Slip Generous Classique X2 Braguita   Imprimé Nocturne 77v   40  Pack de 2 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNX2ZWF/?tag=tolees-21'
+descuento: '77.56'
+titulo: 'Dim Slip Generous Classique X2 Braguita '
 ---
 
 Tienes [Dim Slip Generous Classique X2 Braguita   Imprimé Nocturne 77v   40  Pack de 2 para Mujer](https://www.amazon.es/dp/B07DNX2ZWF/?tag=tolees-21) con un 77.56 % de descuento con precio de oferta de 5.86 EUR (original: 26.11 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Rowenta Expertise TN3400F0 Barbero Experto recargable  para usar incluso en la ducha  cuchillas de recubrimiento de titanio  uso sin cable  autonomía 45 minutos  un peine'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01C8ONXMM/?tag=tolees-21'
+descuento: '48.90'
+titulo: 'Rowenta Expertise TN3400F0 Barbero Exper'
 ---
 
 Tienes [Rowenta Expertise TN3400F0 Barbero Experto recargable  para usar incluso en la ducha  cuchillas de recubrimiento de titanio  uso sin cable  autonomía 45 minutos  un peine](https://www.amazon.es/dp/B01C8ONXMM/?tag=tolees-21) con un 48.90 % de descuento con precio de oferta de 22.99 EUR (original: 44.99 EUR) en el siguiente enlace!

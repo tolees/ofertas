@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'HYPE - Matte Foil  Mochilas Unisex adulto  Multicolor  Red   30x41x15 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DD7MDTK/?tag=tolees-21'
+descuento: '73.76'
+titulo: 'HYPE - Matte Foil  Mochilas Unisex adult'
 ---
 
 Ahora mismo tienes [HYPE - Matte Foil  Mochilas Unisex adulto  Multicolor  Red   30x41x15 cm  W x H L ](https://www.amazon.es/dp/B07DD7MDTK/?tag=tolees-21) a 11.81 EUR (original: 45 EUR) (73.76 %  de descuento) en el siguiente enlace!

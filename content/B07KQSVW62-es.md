@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas TT Chaqueta  Mujer  Negro  40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQSVW62/?tag=tolees-21'
+descuento: '37.17'
+titulo: 'adidas TT Chaqueta  Mujer  Negro  40'
 ---
 
 Tienes [adidas TT Chaqueta  Mujer  Negro  40](https://www.amazon.es/dp/B07KQSVW62/?tag=tolees-21) con un 37.17 % de descuento con precio de oferta de 43.95 EUR (original: 69.95 EUR) en el siguiente enlace!

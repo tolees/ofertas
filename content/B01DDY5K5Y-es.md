@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Jack & JonesGobi - Botines hombre  Azul  Navy Blazer   41'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DDY5K5Y/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'Jack & JonesGobi - Botines hombre  Azul'
 ---
 
 Ahora mismo tienes [Jack & JonesGobi - Botines hombre  Azul  Navy Blazer   41](https://www.amazon.es/dp/B01DDY5K5Y/?tag=tolees-21) a 30 EUR (original: 59.99 EUR) (49.99 %  de descuento) en el siguiente enlace!

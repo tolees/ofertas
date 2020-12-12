@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'adidas Parma 16 SHO Sport Shorts  Niño  White/Black  13-14Y'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016REI2XE/?tag=tolees-21'
+descuento: '40.13'
+titulo: 'adidas Parma 16 SHO Sport Shorts  Niño  '
 ---
 
 Tienes [adidas Parma 16 SHO Sport Shorts  Niño  White/Black  13-14Y](https://www.amazon.es/dp/B016REI2XE/?tag=tolees-21) con un 40.13 % de descuento con precio de oferta de 8.95 EUR (original: 14.95 EUR) en el siguiente enlace!

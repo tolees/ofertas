@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'GBlife RC Juguete Vehículo Anfibioanfibio RC Coche conla rotación de 360 Grados de 2.4GHz 6 Canales Regalo Ideal'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F66ZTHG/?tag=tolees-21'
+descuento: '37.99'
+titulo: 'GBlife RC Juguete Vehículo Anfibioanfibi'
 ---
 
 Está [GBlife RC Juguete Vehículo Anfibioanfibio RC Coche conla rotación de 360 Grados de 2.4GHz 6 Canales Regalo Ideal](https://www.amazon.es/dp/B07F66ZTHG/?tag=tolees-21) con 37.99 de descuento por 31 EUR (original: 49.99 EUR) en el siguiente enlace!

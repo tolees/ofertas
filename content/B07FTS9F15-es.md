@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Morton Vaqueros Rectos  Azul  Spritz Is   W32/L36 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTS9F15/?tag=tolees-21'
+descuento: '77.02'
+titulo: 'Lee Morton Vaqueros Rectos  Azul  Spritz'
 ---
 
 Está [Lee Morton Vaqueros Rectos  Azul  Spritz Is   W32/L36 para Hombre](https://www.amazon.es/dp/B07FTS9F15/?tag=tolees-21) con 77.02 de descuento por 22.97 EUR (original: 99.95 EUR) en el siguiente enlace!

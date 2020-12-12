@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Varta De Pilas Alcalinas  Aa  Aa  Lr06  1.5V De Alta Energía  Menor De La Caja  24-Pack '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00J9BO0MA/?tag=tolees-21'
+descuento: '25.27'
+titulo: 'Varta De Pilas Alcalinas  Aa  Aa  Lr06  '
 ---
 
 Tienes [Varta De Pilas Alcalinas  Aa  Aa  Lr06  1.5V De Alta Energía  Menor De La Caja  24-Pack ](https://www.amazon.es/dp/B00J9BO0MA/?tag=tolees-21) con un 25.27 % de descuento con precio de oferta de 11.95 EUR (original: 15.99 EUR) en el siguiente enlace!

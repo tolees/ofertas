@@ -17,6 +17,9 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'Nike Futbol Arm Band 2.0 Cinta  Hombre   Volt/Negro   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FX1E8L2/?tag=tolees-21'
+descuento: '27.66'
+titulo: 'Nike Futbol Arm Band 2.0 Cinta  Hombre  '
 ---
 
 Tienes [Nike Futbol Arm Band 2.0 Cinta  Hombre   Volt/Negro   Talla Única](https://www.amazon.es/dp/B01FX1E8L2/?tag=tolees-21) con un 27.66 % de descuento con precio de oferta de 7.95 EUR (original: 10.99 EUR) en el siguiente enlace!

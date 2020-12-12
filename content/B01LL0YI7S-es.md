@@ -17,6 +17,9 @@ comparePrice: 13.82 EUR
 inStock: true
 prodname: 'Wolfcraft 7122000 Brocas vástago hexagonal espirales de madera  0 V  gris  Set de 5 Piezas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LL0YI7S/?tag=tolees-21'
+descuento: '29.02'
+titulo: 'Wolfcraft 7122000 Brocas vástago hexagon'
 ---
 
 Ahora mismo tienes [Wolfcraft 7122000 Brocas vástago hexagonal espirales de madera  0 V  gris  Set de 5 Piezas](https://www.amazon.es/dp/B01LL0YI7S/?tag=tolees-21) a 9.81 EUR (original: 13.82 EUR) (29.02 %  de descuento) en el siguiente enlace!

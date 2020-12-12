@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Roundhouly 2en1 Vibradores para Mujer Consolador Estimulación del Clítoris y Punto G 10Modos USB Recargable Impermeable Masajeador Juguetes Sexuales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R6J4FLV/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'Roundhouly 2en1 Vibradores para Mujer Co'
 ---
 
 Ahora mismo tienes [Roundhouly 2en1 Vibradores para Mujer Consolador Estimulación del Clítoris y Punto G 10Modos USB Recargable Impermeable Masajeador Juguetes Sexuales](https://www.amazon.es/dp/B07R6J4FLV/?tag=tolees-21) a 11.99 EUR (original: 19.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

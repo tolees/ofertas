@@ -17,6 +17,9 @@ comparePrice: 104 EUR
 inStock: true
 prodname: 'Munich Massana Sky  Zapatillas Unisex Adulto   Negro 82   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8B9M9X/?tag=tolees-21'
+descuento: '59.06'
+titulo: 'Munich Massana Sky  Zapatillas Unisex Ad'
 ---
 
 Tienes [Munich Massana Sky  Zapatillas Unisex Adulto   Negro 82   39 EU](https://www.amazon.es/dp/B07D8B9M9X/?tag=tolees-21) con un 59.06 % de descuento con precio de oferta de 42.58 EUR (original: 104 EUR) en el siguiente enlace!

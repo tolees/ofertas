@@ -17,6 +17,9 @@ comparePrice: 54.9 EUR
 inStock: true
 prodname: 'Carrera Boxer Nbx  Zapatillas de Cross para Hombre  Verde  Catfish 02   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GJKDH81/?tag=tolees-21'
+descuento: '58.18'
+titulo: 'Carrera Boxer Nbx  Zapatillas de Cross p'
 ---
 
 Está [Carrera Boxer Nbx  Zapatillas de Cross para Hombre  Verde  Catfish 02   42 EU](https://www.amazon.es/dp/B07GJKDH81/?tag=tolees-21) con 58.18 de descuento por 22.96 EUR (original: 54.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Helly Hansen Sport II Salvavidas  Unisex Adulto  Rojo  Red/Ebony   50/60 kg'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0072E5TNK/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Helly Hansen Sport II Salvavidas  Unisex'
 ---
 
 Ahora mismo tienes [Helly Hansen Sport II Salvavidas  Unisex Adulto  Rojo  Red/Ebony   50/60 kg](https://www.amazon.es/dp/B0072E5TNK/?tag=tolees-21) a 24 EUR (original: 40 EUR) (40.00 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'PUMA One Protect 3 JR Guantes De Portero Unisex niños  Bleu Azur/Red Blast Black  5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHTJ6XX/?tag=tolees-21'
+descuento: '36.20'
+titulo: 'PUMA One Protect 3 JR Guantes De Portero'
 ---
 
 Está [PUMA One Protect 3 JR Guantes De Portero Unisex niños  Bleu Azur/Red Blast Black  5](https://www.amazon.es/dp/B07JHTJ6XX/?tag=tolees-21) con 36.20 de descuento por 25.49 EUR (original: 39.95 EUR) en el siguiente enlace!

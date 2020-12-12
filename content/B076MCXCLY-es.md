@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Iris & Lilly AM8525 sujetadores push up  Negro  Black   85A  Talla del fabricante: 32A   Pack de 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076MCXCLY/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'Iris & Lilly AM8525 sujetadores push up '
 ---
 
 Está [Iris & Lilly AM8525 sujetadores push up  Negro  Black   85A  Talla del fabricante: 32A   Pack de 2](https://www.amazon.es/dp/B076MCXCLY/?tag=tolees-21) con 30.01 de descuento por 18.19 EUR (original: 25.99 EUR) en el siguiente enlace!

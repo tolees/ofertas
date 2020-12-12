@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'edc by Esprit 108cc2g016  Chaqueta para Hombre  Azul  Navy 400   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNVX1DT/?tag=tolees-21'
+descuento: '57.15'
+titulo: 'edc by Esprit 108cc2g016  Chaqueta para '
 ---
 
 Ahora mismo tienes [edc by Esprit 108cc2g016  Chaqueta para Hombre  Azul  Navy 400   Medium](https://www.amazon.es/dp/B07FNVX1DT/?tag=tolees-21) a 59.99 EUR (original: 139.99 EUR) (57.15 %  de descuento) en el siguiente enlace!

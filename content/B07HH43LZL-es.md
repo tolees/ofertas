@@ -17,6 +17,9 @@ comparePrice: 12.88 EUR
 inStock: true
 prodname: 'Amazon Essentials Loose-Fit Short-Sleeve Stripe Crewneck T-Shirts Fashion  Aguamarina/blanco  US  EU XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HH43LZL/?tag=tolees-21'
+descuento: '25.47'
+titulo: 'Amazon Essentials Loose-Fit Short-Sleeve'
 ---
 
 Ahora mismo tienes [Amazon Essentials Loose-Fit Short-Sleeve Stripe Crewneck T-Shirts Fashion  Aguamarina/blanco  US  EU XS ](https://www.amazon.es/dp/B07HH43LZL/?tag=tolees-21) a 9.6 EUR (original: 12.88 EUR) (25.47 %  de descuento) en el siguiente enlace!

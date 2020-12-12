@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'SteamWorld Dig 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BBBXFCP/?tag=tolees-21'
+descuento: '33.48'
+titulo: 'SteamWorld Dig 2'
 ---
 
 Está [SteamWorld Dig 2](https://www.amazon.es/dp/B07BBBXFCP/?tag=tolees-21) con 33.48 de descuento por 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!

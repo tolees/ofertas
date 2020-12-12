@@ -17,6 +17,9 @@ comparePrice: 84.99 EUR
 inStock: true
 prodname: 'JBL 106413 - Auriculares Deportivos de botón  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZK7H0Z/?tag=tolees-21'
+descuento: '54.11'
+titulo: 'JBL 106413 - Auriculares Deportivos de b'
 ---
 
 Ahora mismo tienes [JBL 106413 - Auriculares Deportivos de botón  Color Negro](https://www.amazon.es/dp/B01LZK7H0Z/?tag=tolees-21) a 39 EUR (original: 84.99 EUR) (54.11 %  de descuento) en el siguiente enlace!

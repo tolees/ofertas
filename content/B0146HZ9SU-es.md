@@ -17,6 +17,9 @@ comparePrice: 13.08 EUR
 inStock: true
 prodname: 'Schneider Electric A9K17625 Interruptor Automático Magnetotérmico  Ik60N  1P+N  25 A  Curva C'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0146HZ9SU/?tag=tolees-21'
+descuento: '48.78'
+titulo: 'Schneider Electric A9K17625 Interruptor '
 ---
 
 Ahora mismo tienes [Schneider Electric A9K17625 Interruptor Automático Magnetotérmico  Ik60N  1P+N  25 A  Curva C](https://www.amazon.es/dp/B0146HZ9SU/?tag=tolees-21) a 6.7 EUR (original: 13.08 EUR) (48.78 %  de descuento) en el siguiente enlace!

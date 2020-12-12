@@ -17,6 +17,9 @@ comparePrice: 18.65 EUR
 inStock: true
 prodname: 'Finish Pastillas De Lavavajillas Powerball Cuánticos  18 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N1T08RC/?tag=tolees-21'
+descuento: '41.29'
+titulo: 'Finish Pastillas De Lavavajillas Powerba'
 ---
 
 Tienes [Finish Pastillas De Lavavajillas Powerball Cuánticos  18 ](https://www.amazon.es/dp/B00N1T08RC/?tag=tolees-21) con un 41.29 % de descuento con precio de oferta de 10.95 EUR (original: 18.65 EUR) en el siguiente enlace!

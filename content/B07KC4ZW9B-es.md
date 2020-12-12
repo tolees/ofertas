@@ -17,6 +17,9 @@ comparePrice: 31.99 EUR
 inStock: true
 prodname: 'CYOUH Raqueta Mosquitos Recargable  Raqueta Mosquitos Electrica con Luces USB Recargable Asesino de Mosquitos、Insectos y Moscas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KC4ZW9B/?tag=tolees-21'
+descuento: '31.26'
+titulo: 'CYOUH Raqueta Mosquitos Recargable  Raqu'
 ---
 
 Ahora mismo tienes [CYOUH Raqueta Mosquitos Recargable  Raqueta Mosquitos Electrica con Luces USB Recargable Asesino de Mosquitos、Insectos y Moscas](https://www.amazon.es/dp/B07KC4ZW9B/?tag=tolees-21) a 21.99 EUR (original: 31.99 EUR) (31.26 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 27.95 EUR
 inStock: true
 prodname: 'Buff Nera Trucker Gorra  Mujer  Naranja  Pale Peach   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNSH6GH/?tag=tolees-21'
+descuento: '49.73'
+titulo: 'Buff Nera Trucker Gorra  Mujer  Naranja '
 ---
 
 Está [Buff Nera Trucker Gorra  Mujer  Naranja  Pale Peach   Talla Única](https://www.amazon.es/dp/B07FNSH6GH/?tag=tolees-21) con 49.73 de descuento por 14.05 EUR (original: 27.95 EUR) en el siguiente enlace!

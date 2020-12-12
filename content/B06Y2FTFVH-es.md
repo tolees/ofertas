@@ -17,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'Geox D New Virna D  Botas Chelsea para Mujer  Negro  Black   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y2FTFVH/?tag=tolees-21'
+descuento: '58.36'
+titulo: 'Geox D New Virna D  Botas Chelsea para M'
 ---
 
 Ahora mismo tienes [Geox D New Virna D  Botas Chelsea para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B06Y2FTFVH/?tag=tolees-21) a 56.22 EUR (original: 135 EUR) (58.36 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 375 EUR
 inStock: true
 prodname: 'Piquadro Trolley para portátiles  74 cm  75 L  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UFQXTMK/?tag=tolees-21'
+descuento: '30.84'
+titulo: 'Piquadro Trolley para portátiles  74 cm '
 ---
 
 Tienes [Piquadro Trolley para portátiles  74 cm  75 L  Azul](https://www.amazon.es/dp/B00UFQXTMK/?tag=tolees-21) con un 30.84 % de descuento con precio de oferta de 259.35 EUR (original: 375 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'Mujer Pantalones Anchos Palazzo Alta División para Yoga Danza Ganduleado Fitness Pilates Verde Oscuro S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C3ZYNRQ/?tag=tolees-21'
+descuento: '54.60'
+titulo: 'Mujer Pantalones Anchos Palazzo Alta Div'
 ---
 
 Está [Mujer Pantalones Anchos Palazzo Alta División para Yoga Danza Ganduleado Fitness Pilates Verde Oscuro S](https://www.amazon.es/dp/B07C3ZYNRQ/?tag=tolees-21) con 54.60 de descuento por 4.99 EUR (original: 10.99 EUR) en el siguiente enlace!

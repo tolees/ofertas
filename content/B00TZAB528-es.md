@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Kempa Camiseta Manga Corta Core Logo Blanco 2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TZAB528/?tag=tolees-21'
+descuento: '67.59'
+titulo: 'Kempa Camiseta Manga Corta Core Logo Bla'
 ---
 
 Tienes [Kempa Camiseta Manga Corta Core Logo Blanco 2XL](https://www.amazon.es/dp/B00TZAB528/?tag=tolees-21) con un 67.59 % de descuento con precio de oferta de 7.45 EUR (original: 22.99 EUR) en el siguiente enlace!

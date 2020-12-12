@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Vans Authentic  Zapatillas de Entrenamiento Unisex Niños  Verde  Mono Print   33 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1SDV5F/?tag=tolees-21'
+descuento: '59.27'
+titulo: 'Vans Authentic  Zapatillas de Entrenamie'
 ---
 
 Está [Vans Authentic  Zapatillas de Entrenamiento Unisex Niños  Verde  Mono Print   33 EU](https://www.amazon.es/dp/B01N1SDV5F/?tag=tolees-21) con 59.27 de descuento por 18.33 EUR (original: 45 EUR) en el siguiente enlace!

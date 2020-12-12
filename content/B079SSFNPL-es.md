@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Desigual TS_Flavia  Camiseta Mujer   Negro 2000 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079SSFNPL/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'Desigual TS_Flavia  Camiseta Mujer   Neg'
 ---
 
 Está [Desigual TS_Flavia  Camiseta Mujer   Negro 2000 ](https://www.amazon.es/dp/B079SSFNPL/?tag=tolees-21) con 50.04 de descuento por 29.95 EUR (original: 59.95 EUR) en el siguiente enlace!

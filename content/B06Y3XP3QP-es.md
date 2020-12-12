@@ -17,6 +17,9 @@ comparePrice: 33.86 EUR
 inStock: true
 prodname: 'Gola Shingle 3  Sandalias Atléticas para Hombre  Beige  Taupe/Black/Orange   48 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y3XP3QP/?tag=tolees-21'
+descuento: '33.82'
+titulo: 'Gola Shingle 3  Sandalias Atléticas para'
 ---
 
 Tienes [Gola Shingle 3  Sandalias Atléticas para Hombre  Beige  Taupe/Black/Orange   48 EU](https://www.amazon.es/dp/B06Y3XP3QP/?tag=tolees-21) con un 33.82 % de descuento con precio de oferta de 22.41 EUR (original: 33.86 EUR) en el siguiente enlace!

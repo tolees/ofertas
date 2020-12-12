@@ -17,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'Eastpak Oval Single Estuche  22 cm  Negro  Leaves Black '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B42HN3S/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Eastpak Oval Single Estuche  22 cm  Negr'
 ---
 
 Está [Eastpak Oval Single Estuche  22 cm  Negro  Leaves Black ](https://www.amazon.es/dp/B07B42HN3S/?tag=tolees-21) con 40.00 de descuento por 10.8 EUR (original: 18 EUR) en el siguiente enlace!

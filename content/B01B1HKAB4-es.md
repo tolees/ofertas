@@ -17,6 +17,9 @@ comparePrice: 39.1 EUR
 inStock: true
 prodname: 'USAG U00920119 - Juego de 5 Destornilladores Slim para tornillos ranurados y Phillips'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B1HKAB4/?tag=tolees-21'
+descuento: '69.97'
+titulo: 'USAG U00920119 - Juego de 5 Destornillad'
 ---
 
 Tienes [USAG U00920119 - Juego de 5 Destornilladores Slim para tornillos ranurados y Phillips](https://www.amazon.es/dp/B01B1HKAB4/?tag=tolees-21) con un 69.97 % de descuento con precio de oferta de 11.74 EUR (original: 39.1 EUR) en el siguiente enlace!

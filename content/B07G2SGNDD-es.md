@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Levi s Ultimate Western Blusa  Azul  Radio Starr  1  0000   X-Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G2SGNDD/?tag=tolees-21'
+descuento: '37.56'
+titulo: 'Levi s Ultimate Western Blusa  Azul  Rad'
 ---
 
 Tienes [Levi s Ultimate Western Blusa  Azul  Radio Starr  1  0000   X-Large para Mujer](https://www.amazon.es/dp/B07G2SGNDD/?tag=tolees-21) con un 37.56 % de descuento con precio de oferta de 49.95 EUR (original: 80 EUR) en el siguiente enlace!

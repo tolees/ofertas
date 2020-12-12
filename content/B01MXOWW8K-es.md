@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Pepe Jeans Suzane  Blusa Mujer  Multicolor  Multi   38  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXOWW8K/?tag=tolees-21'
+descuento: '75.83'
+titulo: 'Pepe Jeans Suzane  Blusa Mujer  Multicol'
 ---
 
 Tienes [Pepe Jeans Suzane  Blusa Mujer  Multicolor  Multi   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B01MXOWW8K/?tag=tolees-21) con un 75.83 % de descuento con precio de oferta de 16.92 EUR (original: 70 EUR) en el siguiente enlace!

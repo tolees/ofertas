@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Levi s 502 Regular Taper  Vaqueros Tapered para Hombre  Azul  Zonkey Adapt 0312   W40/L34  Talla del fabricante: 40/34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F27SSZP/?tag=tolees-21'
+descuento: '61.33'
+titulo: 'Levi s 502 Regular Taper  Vaqueros Taper'
 ---
 
 Está [Levi s 502 Regular Taper  Vaqueros Tapered para Hombre  Azul  Zonkey Adapt 0312   W40/L34  Talla del fabricante: 40/34 ](https://www.amazon.es/dp/B07F27SSZP/?tag=tolees-21) con 61.33 de descuento por 42.54 EUR (original: 110 EUR) en el siguiente enlace!

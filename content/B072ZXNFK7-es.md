@@ -17,6 +17,9 @@ comparePrice: 79.96 EUR
 inStock: true
 prodname: 'Reebok BS5135  Zapatillas de Running Mujer  Negro  Black / Chalk / Vicious Violet / Vital Blue   35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072ZXNFK7/?tag=tolees-21'
+descuento: '54.50'
+titulo: 'Reebok BS5135  Zapatillas de Running Muj'
 ---
 
 Está [Reebok BS5135  Zapatillas de Running Mujer  Negro  Black / Chalk / Vicious Violet / Vital Blue   35.5 EU](https://www.amazon.es/dp/B072ZXNFK7/?tag=tolees-21) con 54.50 de descuento por 36.38 EUR (original: 79.96 EUR) en el siguiente enlace!

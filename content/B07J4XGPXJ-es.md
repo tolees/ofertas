@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Nike Legend 7 Club SG  Zapatillas de Fútbol Unisex Adulto   Racer Blue/Black/Wolf Grey 400   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J4XGPXJ/?tag=tolees-21'
+descuento: '56.50'
+titulo: 'Nike Legend 7 Club SG  Zapatillas de Fút'
 ---
 
 Ahora mismo tienes [Nike Legend 7 Club SG  Zapatillas de Fútbol Unisex Adulto   Racer Blue/Black/Wolf Grey 400   39 EU](https://www.amazon.es/dp/B07J4XGPXJ/?tag=tolees-21) a 21.75 EUR (original: 50 EUR) (56.50 %  de descuento) en el siguiente enlace!

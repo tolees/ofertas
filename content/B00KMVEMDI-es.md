@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta Cortavientos para Hombre  Cascade Ridge II Softshell  Negro  Black   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KMVEMDI/?tag=tolees-21'
+descuento: '40.06'
+titulo: 'Columbia Chaqueta Cortavientos para Homb'
 ---
 
 Tienes [Columbia Chaqueta Cortavientos para Hombre  Cascade Ridge II Softshell  Negro  Black   M](https://www.amazon.es/dp/B00KMVEMDI/?tag=tolees-21) con un 40.06 % de descuento con precio de oferta de 59.93 EUR (original: 99.99 EUR) en el siguiente enlace!

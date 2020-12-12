@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Anima Gate Of Memories - Arcane Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GSS6FMJ/?tag=tolees-21'
+descuento: '25.11'
+titulo: 'Anima Gate Of Memories - Arcane Edition'
 ---
 
 Está [Anima Gate Of Memories - Arcane Edition](https://www.amazon.es/dp/B07GSS6FMJ/?tag=tolees-21) con 25.11 de descuento por 29.95 EUR (original: 39.99 EUR) en el siguiente enlace!

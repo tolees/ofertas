@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'adidas Predator 18.3 AG J  Botas de fútbol Unisex Adulto  Amarillo  Amasol/Negbás/Rojsol 000   38 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7J7GCQ/?tag=tolees-21'
+descuento: '63.05'
+titulo: 'adidas Predator 18.3 AG J  Botas de fútb'
 ---
 
 Tienes [adidas Predator 18.3 AG J  Botas de fútbol Unisex Adulto  Amarillo  Amasol/Negbás/Rojsol 000   38 2/3 EU](https://www.amazon.es/dp/B07D7J7GCQ/?tag=tolees-21) con un 63.05 % de descuento con precio de oferta de 24 EUR (original: 64.95 EUR) en el siguiente enlace!

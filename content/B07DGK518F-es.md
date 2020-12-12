@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'State Of Mind'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGK518F/?tag=tolees-21'
+descuento: '52.56'
+titulo: 'State Of Mind'
 ---
 
 Tienes [State Of Mind](https://www.amazon.es/dp/B07DGK518F/?tag=tolees-21) con un 52.56 % de descuento con precio de oferta de 18.97 EUR (original: 39.99 EUR) en el siguiente enlace!

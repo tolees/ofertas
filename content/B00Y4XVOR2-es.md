@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Lacoste PH4012  Polo Para Hombre  Gris  Argent Chine   X-Small  Talla del fabricante: 2 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Y4XVOR2/?tag=tolees-21'
+descuento: '44.26'
+titulo: 'Lacoste PH4012  Polo Para Hombre  Gris  '
 ---
 
 Tienes [Lacoste PH4012  Polo Para Hombre  Gris  Argent Chine   X-Small  Talla del fabricante: 2 ](https://www.amazon.es/dp/B00Y4XVOR2/?tag=tolees-21) con un 44.26 % de descuento con precio de oferta de 52.95 EUR (original: 95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Puma Suede Classic  Zapatillas Unisex Adults o  Azul  Peacoat-Blazing Yellow   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCCZH4D/?tag=tolees-21'
+descuento: '57.65'
+titulo: 'Puma Suede Classic  Zapatillas Unisex Ad'
 ---
 
 Ahora mismo tienes [Puma Suede Classic  Zapatillas Unisex Adults o  Azul  Peacoat-Blazing Yellow   40.5 EU](https://www.amazon.es/dp/B07DCCZH4D/?tag=tolees-21) a 35.98 EUR (original: 84.95 EUR) (57.65 %  de descuento) en el siguiente enlace!

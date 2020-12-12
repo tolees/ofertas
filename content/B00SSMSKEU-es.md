@@ -17,6 +17,9 @@ comparePrice: 44.5 EUR
 inStock: true
 prodname: 'The Feathery Blended Highland Sherry Malt Scotch Whisky - 700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SSMSKEU/?tag=tolees-21'
+descuento: '45.62'
+titulo: 'The Feathery Blended Highland Sherry Mal'
 ---
 
 Tienes [The Feathery Blended Highland Sherry Malt Scotch Whisky - 700 ml](https://www.amazon.es/dp/B00SSMSKEU/?tag=tolees-21) con un 45.62 % de descuento con precio de oferta de 24.2 EUR (original: 44.5 EUR) en el siguiente enlace!

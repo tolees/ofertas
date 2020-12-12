@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma Smash v2  Zapatillas Unisex Adulto  Beige Pebble   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MF57HD/?tag=tolees-21'
+descuento: '35.07'
+titulo: 'Puma Smash v2  Zapatillas Unisex Adulto '
 ---
 
 Ahora mismo tienes [Puma Smash v2  Zapatillas Unisex Adulto  Beige Pebble   40 EU](https://www.amazon.es/dp/B077MF57HD/?tag=tolees-21) a 35.68 EUR (original: 54.95 EUR) (35.07 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 94.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Feminine Mid Wedge Sandal Basic  Sandalias con Plataforma para Mujer  Verde  Dusty Olive 011   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3FQQ65/?tag=tolees-21'
+descuento: '26.34'
+titulo: 'Tommy Hilfiger Feminine Mid Wedge Sandal'
 ---
 
 Tienes [Tommy Hilfiger Feminine Mid Wedge Sandal Basic  Sandalias con Plataforma para Mujer  Verde  Dusty Olive 011   40 EU](https://www.amazon.es/dp/B07L3FQQ65/?tag=tolees-21) con un 26.34 % de descuento con precio de oferta de 69.9 EUR (original: 94.9 EUR) en el siguiente enlace!

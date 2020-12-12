@@ -17,6 +17,9 @@ comparePrice: 72 EUR
 inStock: true
 prodname: 'Tous Rosa Eau Légère Agua de Colonia - 90 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KHVBTEI/?tag=tolees-21'
+descuento: '46.44'
+titulo: 'Tous Rosa Eau Légère Agua de Colonia - 9'
 ---
 
 Tienes [Tous Rosa Eau Légère Agua de Colonia - 90 ml](https://www.amazon.es/dp/B00KHVBTEI/?tag=tolees-21) con un 46.44 % de descuento con precio de oferta de 38.56 EUR (original: 72 EUR) en el siguiente enlace!

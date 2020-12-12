@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'El Ganso Canvas Lavado  Pantalones para Hombre  Azul  Marino   Tamaño del Fabricante:42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WGLH54W/?tag=tolees-21'
+descuento: '50.59'
+titulo: 'El Ganso Canvas Lavado  Pantalones para '
 ---
 
 Tienes [El Ganso Canvas Lavado  Pantalones para Hombre  Azul  Marino   Tamaño del Fabricante:42](https://www.amazon.es/dp/B06WGLH54W/?tag=tolees-21) con un 50.59 % de descuento con precio de oferta de 42 EUR (original: 85 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Columbia Silver Ridge Cargo Short AL4596 Shorts  Mujer  Azul  Atoll   12'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0772VK1MV/?tag=tolees-21'
+descuento: '41.86'
+titulo: 'Columbia Silver Ridge Cargo Short AL4596'
 ---
 
 Ahora mismo tienes [Columbia Silver Ridge Cargo Short AL4596 Shorts  Mujer  Azul  Atoll   12](https://www.amazon.es/dp/B0772VK1MV/?tag=tolees-21) a 31.95 EUR (original: 54.95 EUR) (41.86 %  de descuento) en el siguiente enlace!

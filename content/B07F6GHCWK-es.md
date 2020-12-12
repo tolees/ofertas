@@ -17,6 +17,9 @@ comparePrice: 20.08 EUR
 inStock: true
 prodname: 'Bañador Tiger M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F6GHCWK/?tag=tolees-21'
+descuento: '29.53'
+titulo: 'Bañador Tiger M'
 ---
 
 Está [Bañador Tiger M](https://www.amazon.es/dp/B07F6GHCWK/?tag=tolees-21) con 29.53 de descuento por 14.15 EUR (original: 20.08 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'ID Italian Design - Secador de Pelo Pequeño 2 Modos de Calor  2 Velocidades de Color Blanco - 1400W '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CBDFBWS/?tag=tolees-21'
+descuento: '71.29'
+titulo: 'ID Italian Design - Secador de Pelo Pequ'
 ---
 
 Está [ID Italian Design - Secador de Pelo Pequeño 2 Modos de Calor  2 Velocidades de Color Blanco - 1400W ](https://www.amazon.es/dp/B07CBDFBWS/?tag=tolees-21) con 71.29 de descuento por 39.9 EUR (original: 139 EUR) en el siguiente enlace!

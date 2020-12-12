@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Sweater L/s  suéter para Hombre  Marrón  Camel 9c7  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHW8FVT/?tag=tolees-21'
+descuento: '71.81'
+titulo: 'United Colors of Benetton Sweater L/s  s'
 ---
 
 Tienes [United Colors of Benetton Sweater L/s  suéter para Hombre  Marrón  Camel 9c7  X-Large](https://www.amazon.es/dp/B07DHW8FVT/?tag=tolees-21) con un 71.81 % de descuento con precio de oferta de 14.08 EUR (original: 49.95 EUR) en el siguiente enlace!

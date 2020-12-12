@@ -17,6 +17,9 @@ comparePrice: 169 EUR
 inStock: true
 prodname: 'BenQ BL2405PT - Monitor Profesional de 24" Full HD  1920x1080  16:9  LED  2ms  HDMI  DisplayPort  VGA  altavoces  altura y rotación ajustable  Eye-care  Flicker-free   color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JIQ8KKS/?tag=tolees-21'
+descuento: '44.62'
+titulo: 'BenQ BL2405PT - Monitor Profesional de 2'
 ---
 
 Tienes [BenQ BL2405PT - Monitor Profesional de 24" Full HD  1920x1080  16:9  LED  2ms  HDMI  DisplayPort  VGA  altavoces  altura y rotación ajustable  Eye-care  Flicker-free   color negro](https://www.amazon.es/dp/B01JIQ8KKS/?tag=tolees-21) con un 44.62 % de descuento con precio de oferta de 93.59 EUR (original: 169 EUR) en el siguiente enlace!

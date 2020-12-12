@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'POP! Bobble - Star Wars: C-3PO'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005F1PPX6/?tag=tolees-21'
+descuento: '43.63'
+titulo: 'POP! Bobble - Star Wars: C-3PO'
 ---
 
 Tienes [POP! Bobble - Star Wars: C-3PO](https://www.amazon.es/dp/B005F1PPX6/?tag=tolees-21) con un 43.63 % de descuento con precio de oferta de 8.45 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 136.44 EUR
 inStock: true
 prodname: 'Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina G-7700-1ER'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000VE5X4S/?tag=tolees-21'
+descuento: '50.89'
+titulo: 'Casio Reloj Digital para Hombre de Cuarz'
 ---
 
 Tienes [Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina G-7700-1ER](https://www.amazon.es/dp/B000VE5X4S/?tag=tolees-21) con un 50.89 % de descuento con precio de oferta de 67 EUR (original: 136.44 EUR) en el siguiente enlace!

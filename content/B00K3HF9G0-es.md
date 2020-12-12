@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Trust Gaming XL Endurance GXT 330 - Auriculares Gaming con Almohadillas Suaves y Grandes y Potentes Bajos  Diseñados para PC y Consolas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00K3HF9G0/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Trust Gaming XL Endurance GXT 330 - Auri'
 ---
 
 Tienes [Trust Gaming XL Endurance GXT 330 - Auriculares Gaming con Almohadillas Suaves y Grandes y Potentes Bajos  Diseñados para PC y Consolas](https://www.amazon.es/dp/B00K3HF9G0/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

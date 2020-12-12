@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Levi s kids Short Sleeves Batwin T-Shirt  Camiseta para Niños  Blanco  White 01   12 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015W9LP3Y/?tag=tolees-21'
+descuento: '28.07'
+titulo: 'Levi s kids Short Sleeves Batwin T-Shirt'
 ---
 
 Tienes [Levi s kids Short Sleeves Batwin T-Shirt  Camiseta para Niños  Blanco  White 01   12 años](https://www.amazon.es/dp/B015W9LP3Y/?tag=tolees-21) con un 28.07 % de descuento con precio de oferta de 14.35 EUR (original: 19.95 EUR) en el siguiente enlace!

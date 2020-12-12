@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Cressi Perla & Gamma Kit de máscara y Tubo  Unisex Adulto  Transparente/Amarillo  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9ENPJH/?tag=tolees-21'
+descuento: '26.01'
+titulo: 'Cressi Perla & Gamma Kit de máscara y Tu'
 ---
 
 Está [Cressi Perla & Gamma Kit de máscara y Tubo  Unisex Adulto  Transparente/Amarillo  Talla Única](https://www.amazon.es/dp/B01N9ENPJH/?tag=tolees-21) con 26.01 de descuento por 18.46 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 268.85 EUR
 inStock: true
 prodname: 'Gigabyte GV-RX580AORUS-4GD Radeon RX 580 4GB GDDR5 - Tarjeta gráfica  AMD  Radeon RX 580  7680 x 4320 Pixeles  1380 MHz  2-Way CrossFireX  7680 x 4320 Pixeles '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06ZYC3ZWB/?tag=tolees-21'
+descuento: '31.56'
+titulo: 'Gigabyte GV-RX580AORUS-4GD Radeon RX 580'
 ---
 
 Tienes [Gigabyte GV-RX580AORUS-4GD Radeon RX 580 4GB GDDR5 - Tarjeta gráfica  AMD  Radeon RX 580  7680 x 4320 Pixeles  1380 MHz  2-Way CrossFireX  7680 x 4320 Pixeles ](https://www.amazon.es/dp/B06ZYC3ZWB/?tag=tolees-21) con un 31.56 % de descuento con precio de oferta de 184 EUR (original: 268.85 EUR) en el siguiente enlace!

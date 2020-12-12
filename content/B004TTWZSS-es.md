@@ -17,6 +17,9 @@ comparePrice: 9.86 EUR
 inStock: true
 prodname: 'Ratón óptico de Silueta de Manhattan 177627 pc Ratón  PC/Mac  2-Maneras'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004TTWZSS/?tag=tolees-21'
+descuento: '42.29'
+titulo: 'Ratón óptico de Silueta de Manhattan 177'
 ---
 
 Está [Ratón óptico de Silueta de Manhattan 177627 pc Ratón  PC/Mac  2-Maneras](https://www.amazon.es/dp/B004TTWZSS/?tag=tolees-21) con 42.29 de descuento por 5.69 EUR (original: 9.86 EUR) en el siguiente enlace!

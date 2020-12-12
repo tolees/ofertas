@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Levi s 514 Vaqueros Straight  Azul  Covered Up T2 1075   W31/L34  Talla del Fabricante: 31 34  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F27M7RX/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'Levi s 514 Vaqueros Straight  Azul  Cove'
 ---
 
 Ahora mismo tienes [Levi s 514 Vaqueros Straight  Azul  Covered Up T2 1075   W31/L34  Talla del Fabricante: 31 34  para Hombre](https://www.amazon.es/dp/B07F27M7RX/?tag=tolees-21) a 39.95 EUR (original: 80 EUR) (50.06 %  de descuento) en el siguiente enlace!

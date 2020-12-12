@@ -17,6 +17,9 @@ comparePrice: 29.71 EUR
 inStock: true
 prodname: 'Philips Regleta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003JD2KBM/?tag=tolees-21'
+descuento: '73.17'
+titulo: 'Philips Regleta'
 ---
 
 Ahora mismo tienes [Philips Regleta](https://www.amazon.es/dp/B003JD2KBM/?tag=tolees-21) a 7.97 EUR (original: 29.71 EUR) (73.17 %  de descuento) en el siguiente enlace!

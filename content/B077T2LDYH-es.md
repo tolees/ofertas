@@ -17,6 +17,9 @@ comparePrice: 340 EUR
 inStock: true
 prodname: 'Royal Padel M27 Hybrid 2018 Palas  Unisex Adulto  Naranja  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077T2LDYH/?tag=tolees-21'
+descuento: '48.54'
+titulo: 'Royal Padel M27 Hybrid 2018 Palas  Unise'
 ---
 
 Está [Royal Padel M27 Hybrid 2018 Palas  Unisex Adulto  Naranja  Talla Única](https://www.amazon.es/dp/B077T2LDYH/?tag=tolees-21) con 48.54 de descuento por 174.95 EUR (original: 340 EUR) en el siguiente enlace!

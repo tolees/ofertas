@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Volcom Frickin Modern Stret Pantalones  Hombre  Marrón  Dark Khaki   36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013VME5FY/?tag=tolees-21'
+descuento: '57.40'
+titulo: 'Volcom Frickin Modern Stret Pantalones  '
 ---
 
 Tienes [Volcom Frickin Modern Stret Pantalones  Hombre  Marrón  Dark Khaki   36](https://www.amazon.es/dp/B013VME5FY/?tag=tolees-21) con un 57.40 % de descuento con precio de oferta de 31.95 EUR (original: 75 EUR) en el siguiente enlace!

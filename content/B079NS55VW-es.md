@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Wilson Raqueta de tenis  Milos 100  Principiantes y jugadores intermedios  Verde/Negro  Tamaño de empuñadura L3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079NS55VW/?tag=tolees-21'
+descuento: '31.75'
+titulo: 'Wilson Raqueta de tenis  Milos 100  Prin'
 ---
 
 Ahora mismo tienes [Wilson Raqueta de tenis  Milos 100  Principiantes y jugadores intermedios  Verde/Negro  Tamaño de empuñadura L3](https://www.amazon.es/dp/B079NS55VW/?tag=tolees-21) a 40.95 EUR (original: 60 EUR) (31.75 %  de descuento) en el siguiente enlace!

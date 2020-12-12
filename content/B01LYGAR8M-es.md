@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Levi s Levis 300ls Striped Chambray Woven Boxer 2p  Hombre  Rojo  Red 072   Small  Talla del Fabricante: 010   Pack de 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYGAR8M/?tag=tolees-21'
+descuento: '33.48'
+titulo: 'Levi s Levis 300ls Striped Chambray Wove'
 ---
 
 Tienes [Levi s Levis 300ls Striped Chambray Woven Boxer 2p  Hombre  Rojo  Red 072   Small  Talla del Fabricante: 010   Pack de 2](https://www.amazon.es/dp/B01LYGAR8M/?tag=tolees-21) con un 33.48 % de descuento con precio de oferta de 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!

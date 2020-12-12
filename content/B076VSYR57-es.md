@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Rovic Zip Relaxed 1\\2-Length Shorts  Pantalones Cortos Hombre  Negro  Dune 239   W30  Talla del Fabricante: 30W '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VSYR57/?tag=tolees-21'
+descuento: '61.11'
+titulo: 'G-STAR RAW Rovic Zip Relaxed 1\\2-Length'
 ---
 
 Está [G-STAR RAW Rovic Zip Relaxed 1\\2-Length Shorts  Pantalones Cortos Hombre  Negro  Dune 239   W30  Talla del Fabricante: 30W ](https://www.amazon.es/dp/B076VSYR57/?tag=tolees-21) con 61.11 de descuento por 34.98 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma Nrgy Neko Engineer Knit  Zapatillas de running para Hombre  Blanco White Black 8  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1B7GR/?tag=tolees-21'
+descuento: '48.88'
+titulo: 'Puma Nrgy Neko Engineer Knit  Zapatillas'
 ---
 
 Tienes [Puma Nrgy Neko Engineer Knit  Zapatillas de running para Hombre  Blanco White Black 8  41 EU](https://www.amazon.es/dp/B07DC1B7GR/?tag=tolees-21) con un 48.88 % de descuento con precio de oferta de 40.87 EUR (original: 79.95 EUR) en el siguiente enlace!

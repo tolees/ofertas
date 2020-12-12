@@ -17,6 +17,9 @@ comparePrice: 77 EUR
 inStock: true
 prodname: 'Lili Gaufrette Gn33022 302 All In One Shortie  Conjunto para Niñas  Rosa  Blush   18-24 Meses  Talla del Fabricante: 2A '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQ2D3HB/?tag=tolees-21'
+descuento: '76.68'
+titulo: 'Lili Gaufrette Gn33022 302 All In One Sh'
 ---
 
 Tienes [Lili Gaufrette Gn33022 302 All In One Shortie  Conjunto para Niñas  Rosa  Blush   18-24 Meses  Talla del Fabricante: 2A ](https://www.amazon.es/dp/B07KQ2D3HB/?tag=tolees-21) con un 76.68 % de descuento con precio de oferta de 17.96 EUR (original: 77 EUR) en el siguiente enlace!

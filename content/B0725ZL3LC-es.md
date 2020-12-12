@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Pepa Loves Fancy Buttons Cardigan Brown  Marrón  38  Tamaño del Fabricante:S  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0725ZL3LC/?tag=tolees-21'
+descuento: '61.00'
+titulo: 'Pepa Loves Fancy Buttons Cardigan Brown '
 ---
 
 Ahora mismo tienes [Pepa Loves Fancy Buttons Cardigan Brown  Marrón  38  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B0725ZL3LC/?tag=tolees-21) a 23.36 EUR (original: 59.9 EUR) (61.00 %  de descuento) en el siguiente enlace!

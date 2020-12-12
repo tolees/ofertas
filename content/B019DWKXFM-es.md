@@ -17,6 +17,9 @@ comparePrice: 33.99 EUR
 inStock: true
 prodname: 'Russell Hobbs Colours Cream - Hervidor de agua compacto  1L  resistencia oculta  2200 W  acero inoxidable color crema - ref. 20194-70'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019DWKXFM/?tag=tolees-21'
+descuento: '32.63'
+titulo: 'Russell Hobbs Colours Cream - Hervidor d'
 ---
 
 Está [Russell Hobbs Colours Cream - Hervidor de agua compacto  1L  resistencia oculta  2200 W  acero inoxidable color crema - ref. 20194-70](https://www.amazon.es/dp/B019DWKXFM/?tag=tolees-21) con 32.63 de descuento por 22.9 EUR (original: 33.99 EUR) en el siguiente enlace!

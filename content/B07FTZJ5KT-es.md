@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmblumi Balloon LS Open Cardigan  Abrigo para Mujer  Gris  Dark Grey Melange   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTZJ5KT/?tag=tolees-21'
+descuento: '82.42'
+titulo: 'Vero Moda Vmblumi Balloon LS Open Cardig'
 ---
 
 Tienes [Vero Moda Vmblumi Balloon LS Open Cardigan  Abrigo para Mujer  Gris  Dark Grey Melange   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07FTZJ5KT/?tag=tolees-21) con un 82.42 % de descuento con precio de oferta de 8.79 EUR (original: 49.99 EUR) en el siguiente enlace!

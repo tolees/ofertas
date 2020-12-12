@@ -17,6 +17,9 @@ comparePrice: 278.91 EUR
 inStock: true
 prodname: 'Leds-c4 borneo - Luminaria colgante ventilador borneo e27 2x13/60wpatine'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CM36AO8/?tag=tolees-21'
+descuento: '42.38'
+titulo: 'Leds-c4 borneo - Luminaria colgante vent'
 ---
 
 Ahora mismo tienes [Leds-c4 borneo - Luminaria colgante ventilador borneo e27 2x13/60wpatine](https://www.amazon.es/dp/B00CM36AO8/?tag=tolees-21) a 160.72 EUR (original: 278.91 EUR) (42.38 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR Revend Super Slim  - Slander indigo superstretch - Vaqueros para hombre  Azul  Dark Aged   W32/L32  talla fabricante: 32/32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SF8F2B6/?tag=tolees-21'
+descuento: '30.33'
+titulo: 'G-STAR Revend Super Slim  - Slander indi'
 ---
 
 Está [G-STAR Revend Super Slim  - Slander indigo superstretch - Vaqueros para hombre  Azul  Dark Aged   W32/L32  talla fabricante: 32/32 ](https://www.amazon.es/dp/B00SF8F2B6/?tag=tolees-21) con 30.33 de descuento por 69.64 EUR (original: 99.95 EUR) en el siguiente enlace!

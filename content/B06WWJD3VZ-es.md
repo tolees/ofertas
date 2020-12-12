@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Go Step Lite  Entrenadores para Mujer  Azul  Navy White   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WWJD3VZ/?tag=tolees-21'
+descuento: '55.75'
+titulo: 'Skechers Go Step Lite  Entrenadores para'
 ---
 
 Tienes [Skechers Go Step Lite  Entrenadores para Mujer  Azul  Navy White   35 EU](https://www.amazon.es/dp/B06WWJD3VZ/?tag=tolees-21) con un 55.75 % de descuento con precio de oferta de 26.53 EUR (original: 59.95 EUR) en el siguiente enlace!

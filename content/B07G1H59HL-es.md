@@ -17,6 +17,9 @@ comparePrice: 47.1 EUR
 inStock: true
 prodname: 'Reebok Speedlux 3.0  Zapatillas de Trail Running para Hombre   We/Vital Blue/Black/White 000   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G1H59HL/?tag=tolees-21'
+descuento: '47.75'
+titulo: 'Reebok Speedlux 3.0  Zapatillas de Trail'
 ---
 
 Está [Reebok Speedlux 3.0  Zapatillas de Trail Running para Hombre   We/Vital Blue/Black/White 000   41 EU](https://www.amazon.es/dp/B07G1H59HL/?tag=tolees-21) con 47.75 de descuento por 24.61 EUR (original: 47.1 EUR) en el siguiente enlace!

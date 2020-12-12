@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'TOM TAILOR Sommerkleid elegant summer dress  vestido Mujer  Rojo  velvet red   38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JZ6CDQ8/?tag=tolees-21'
+descuento: '76.50'
+titulo: 'TOM TAILOR Sommerkleid elegant summer dr'
 ---
 
 Tienes [TOM TAILOR Sommerkleid elegant summer dress  vestido Mujer  Rojo  velvet red   38](https://www.amazon.es/dp/B01JZ6CDQ8/?tag=tolees-21) con un 76.50 % de descuento con precio de oferta de 16.45 EUR (original: 69.99 EUR) en el siguiente enlace!

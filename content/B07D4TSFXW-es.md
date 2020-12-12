@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Kappa Solid Tex  Botas Clasicas Unisex Niños  Azul  Dk.Navy/Lime 6833   29 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4TSFXW/?tag=tolees-21'
+descuento: '70.37'
+titulo: 'Kappa Solid Tex  Botas Clasicas Unisex N'
 ---
 
 Ahora mismo tienes [Kappa Solid Tex  Botas Clasicas Unisex Niños  Azul  Dk.Navy/Lime 6833   29 EU](https://www.amazon.es/dp/B07D4TSFXW/?tag=tolees-21) a 16.28 EUR (original: 54.95 EUR) (70.37 %  de descuento) en el siguiente enlace!

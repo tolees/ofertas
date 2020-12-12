@@ -17,6 +17,9 @@ comparePrice: 99.98 EUR
 inStock: true
 prodname: 'Taladro Atornillador bergwerk T005 3.8V  Taladro Inalámbrico con la Función de Percutor  Máximo Par 4 Nm  LUZ LED  30 Brocas y 1 Biela  Bloqueo de Seguridad '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K3WFDRB/?tag=tolees-21'
+descuento: '79.01'
+titulo: 'Taladro Atornillador bergwerk T005 3.8V '
 ---
 
 Está [Taladro Atornillador bergwerk T005 3.8V  Taladro Inalámbrico con la Función de Percutor  Máximo Par 4 Nm  LUZ LED  30 Brocas y 1 Biela  Bloqueo de Seguridad ](https://www.amazon.es/dp/B07K3WFDRB/?tag=tolees-21) con 79.01 de descuento por 20.99 EUR (original: 99.98 EUR) en el siguiente enlace!

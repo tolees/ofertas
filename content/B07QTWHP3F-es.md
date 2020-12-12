@@ -17,6 +17,9 @@ comparePrice: 22.98 EUR
 inStock: true
 prodname: 'Joinfun Mujeres Camisetas sin Mangas Tank Top  botón Strappy Sexy Casual sin Mangas Blusa Cami Camisas Camiseta Chaleco Tops para Mujeres Dama  Negro  XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QTWHP3F/?tag=tolees-21'
+descuento: '34.81'
+titulo: 'Joinfun Mujeres Camisetas sin Mangas Tan'
 ---
 
 Está [Joinfun Mujeres Camisetas sin Mangas Tank Top  botón Strappy Sexy Casual sin Mangas Blusa Cami Camisas Camiseta Chaleco Tops para Mujeres Dama  Negro  XL ](https://www.amazon.es/dp/B07QTWHP3F/?tag=tolees-21) con 34.81 de descuento por 14.98 EUR (original: 22.98 EUR) en el siguiente enlace!

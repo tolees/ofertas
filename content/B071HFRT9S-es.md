@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 41ch304  Botas Estilo Motero para Mujer  Beige  Tan 440   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HFRT9S/?tag=tolees-21'
+descuento: '55.90'
+titulo: 'Dockers by Gerli 41ch304  Botas Estilo M'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 41ch304  Botas Estilo Motero para Mujer  Beige  Tan 440   38 EU](https://www.amazon.es/dp/B071HFRT9S/?tag=tolees-21) a 26.44 EUR (original: 59.95 EUR) (55.90 %  de descuento) en el siguiente enlace!

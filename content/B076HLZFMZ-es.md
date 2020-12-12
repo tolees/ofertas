@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Oflamn Mochilas Portátil 14 Pulgadas - Maletín para Portátiles de Negocios Resistente al Agua - Water Resistant Business Laptop Backpack  black '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076HLZFMZ/?tag=tolees-21'
+descuento: '41.31'
+titulo: 'Oflamn Mochilas Portátil 14 Pulgadas - M'
 ---
 
 Está [Oflamn Mochilas Portátil 14 Pulgadas - Maletín para Portátiles de Negocios Resistente al Agua - Water Resistant Business Laptop Backpack  black ](https://www.amazon.es/dp/B076HLZFMZ/?tag=tolees-21) con 41.31 de descuento por 26.99 EUR (original: 45.99 EUR) en el siguiente enlace!

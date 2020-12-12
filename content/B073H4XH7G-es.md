@@ -17,6 +17,9 @@ comparePrice: 105 EUR
 inStock: true
 prodname: 'Hush Puppies Charity Catelyn  Botas para Mujer  Negro  Black   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073H4XH7G/?tag=tolees-21'
+descuento: '71.88'
+titulo: 'Hush Puppies Charity Catelyn  Botas para'
 ---
 
 Tienes [Hush Puppies Charity Catelyn  Botas para Mujer  Negro  Black   38 EU](https://www.amazon.es/dp/B073H4XH7G/?tag=tolees-21) con un 71.88 % de descuento con precio de oferta de 29.53 EUR (original: 105 EUR) en el siguiente enlace!

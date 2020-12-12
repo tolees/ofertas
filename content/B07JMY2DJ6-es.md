@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'ZADIG&VOLTAIRE Robe Vestido   Bleu Blanc V21   5 años  Talla del Fabricante: 05A  para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMY2DJ6/?tag=tolees-21'
+descuento: '77.78'
+titulo: 'ZADIG&VOLTAIRE Robe Vestido   Bleu Blanc'
 ---
 
 Tienes [ZADIG&VOLTAIRE Robe Vestido   Bleu Blanc V21   5 años  Talla del Fabricante: 05A  para Niñas](https://www.amazon.es/dp/B07JMY2DJ6/?tag=tolees-21) con un 77.78 % de descuento con precio de oferta de 13.11 EUR (original: 59 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 55.45 EUR
 inStock: true
 prodname: 's.Oliver mit Struktur Pantalones de Traje  Azul  Blue 5920   42 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018I1XGEY/?tag=tolees-21'
+descuento: '82.02'
+titulo: 's.Oliver mit Struktur Pantalones de Traj'
 ---
 
 Está [s.Oliver mit Struktur Pantalones de Traje  Azul  Blue 5920   42 para Hombre](https://www.amazon.es/dp/B018I1XGEY/?tag=tolees-21) con 82.02 de descuento por 9.97 EUR (original: 55.45 EUR) en el siguiente enlace!

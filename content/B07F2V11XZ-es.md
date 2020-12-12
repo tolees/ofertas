@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Columbia Fast Trek II Jacket Forro Polar  Mujer  Rosa  Cactus Pink   Talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2V11XZ/?tag=tolees-21'
+descuento: '44.51'
+titulo: 'Columbia Fast Trek II Jacket Forro Polar'
 ---
 
 Ahora mismo tienes [Columbia Fast Trek II Jacket Forro Polar  Mujer  Rosa  Cactus Pink   Talla M](https://www.amazon.es/dp/B07F2V11XZ/?tag=tolees-21) a 27.74 EUR (original: 49.99 EUR) (44.51 %  de descuento) en el siguiente enlace!

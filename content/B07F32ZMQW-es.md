@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Salomon XA Short  Mujer  Negro  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F32ZMQW/?tag=tolees-21'
+descuento: '35.10'
+titulo: 'Salomon XA Short  Mujer  Negro  XL'
 ---
 
 Tienes [Salomon XA Short  Mujer  Negro  XL](https://www.amazon.es/dp/B07F32ZMQW/?tag=tolees-21) con un 35.10 % de descuento con precio de oferta de 32.45 EUR (original: 50 EUR) en el siguiente enlace!

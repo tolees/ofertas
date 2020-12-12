@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Leathario Mochila de Mujer de Piel Bolsa Señorita Bandolera para Diario Marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BLQYFZ7/?tag=tolees-21'
+descuento: '37.50'
+titulo: 'Leathario Mochila de Mujer de Piel Bolsa'
 ---
 
 Ahora mismo tienes [Leathario Mochila de Mujer de Piel Bolsa Señorita Bandolera para Diario Marrón](https://www.amazon.es/dp/B07BLQYFZ7/?tag=tolees-21) a 49.99 EUR (original: 79.99 EUR) (37.50 %  de descuento) en el siguiente enlace!

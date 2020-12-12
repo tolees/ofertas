@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Schlesinger Hormas Para Zapatos de Hombre en Madera de Cedro para Controlar Olores y Absorber Humedad - Conserva tu Lujoso Calzado de Piel en Perfectas Condiciones - Tallas 35 a 52 / Modelo Kaiser'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00K04SU8K/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Schlesinger Hormas Para Zapatos de Hombr'
 ---
 
 Tienes [Schlesinger Hormas Para Zapatos de Hombre en Madera de Cedro para Controlar Olores y Absorber Humedad - Conserva tu Lujoso Calzado de Piel en Perfectas Condiciones - Tallas 35 a 52 / Modelo Kaiser](https://www.amazon.es/dp/B00K04SU8K/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 29.95 EUR (original: 59.9 EUR) en el siguiente enlace!

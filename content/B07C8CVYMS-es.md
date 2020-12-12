@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Vehemo Cascos Gaming Auriculares Profesionales Headset para PS4 PC Xbox One Mac Cancelación de Ruido con Micrófono Luz LED Estéreo Juego  GH-S7 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C8CVYMS/?tag=tolees-21'
+descuento: '27.29'
+titulo: 'Vehemo Cascos Gaming Auriculares Profesi'
 ---
 
 Tienes [Vehemo Cascos Gaming Auriculares Profesionales Headset para PS4 PC Xbox One Mac Cancelación de Ruido con Micrófono Luz LED Estéreo Juego  GH-S7 ](https://www.amazon.es/dp/B07C8CVYMS/?tag=tolees-21) con un 27.29 % de descuento con precio de oferta de 15.99 EUR (original: 21.99 EUR) en el siguiente enlace!

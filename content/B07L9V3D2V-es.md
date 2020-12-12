@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Reebok CL Leather MU  Zapatillas de Running para Hombre   estl-Black/True Grey CN7107   48.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9V3D2V/?tag=tolees-21'
+descuento: '51.67'
+titulo: 'Reebok CL Leather MU  Zapatillas de Runn'
 ---
 
 Tienes [Reebok CL Leather MU  Zapatillas de Running para Hombre   estl-Black/True Grey CN7107   48.5 EU](https://www.amazon.es/dp/B07L9V3D2V/?tag=tolees-21) con un 51.67 % de descuento con precio de oferta de 43.47 EUR (original: 89.95 EUR) en el siguiente enlace!

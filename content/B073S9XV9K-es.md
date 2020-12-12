@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcocarter Jacket Chaqueta  Azul  Sky Captain Fit:One   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073S9XV9K/?tag=tolees-21'
+descuento: '70.93'
+titulo: 'JACK & JONES Jcocarter Jacket Chaqueta  '
 ---
 
 Está [JACK & JONES Jcocarter Jacket Chaqueta  Azul  Sky Captain Fit:One   X-Large para Hombre](https://www.amazon.es/dp/B073S9XV9K/?tag=tolees-21) con 70.93 de descuento por 26.16 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 24.04 EUR
 inStock: true
 prodname: 'St. Germain Licores - 700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002E2QJG6/?tag=tolees-21'
+descuento: '54.24'
+titulo: 'St. Germain Licores - 700 ml'
 ---
 
 Está [St. Germain Licores - 700 ml](https://www.amazon.es/dp/B002E2QJG6/?tag=tolees-21) con 54.24 de descuento por 11 EUR (original: 24.04 EUR) en el siguiente enlace!

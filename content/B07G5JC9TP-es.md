@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'EGEYI Electroestimulador Muscular Abdominales Cinturón Masajeador Eléctrico Cinturón con USB EMS Ejercitador del Cuerpo de los Músculos de Brazos y piernas para Hombre Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G5JC9TP/?tag=tolees-21'
+descuento: '55.17'
+titulo: 'EGEYI Electroestimulador Muscular Abdomi'
 ---
 
 Tienes [EGEYI Electroestimulador Muscular Abdominales Cinturón Masajeador Eléctrico Cinturón con USB EMS Ejercitador del Cuerpo de los Músculos de Brazos y piernas para Hombre Mujer](https://www.amazon.es/dp/B07G5JC9TP/?tag=tolees-21) con un 55.17 % de descuento con precio de oferta de 39.9 EUR (original: 89 EUR) en el siguiente enlace!

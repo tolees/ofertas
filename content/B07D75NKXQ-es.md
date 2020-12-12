@@ -17,6 +17,9 @@ comparePrice: 124.56 EUR
 inStock: true
 prodname: 'adidas EQT Support SK PK W  Zapatillas para Mujer  Negro  Core Black/Footwear White/Clear Mint 0   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D75NKXQ/?tag=tolees-21'
+descuento: '39.12'
+titulo: 'adidas EQT Support SK PK W  Zapatillas p'
 ---
 
 Está [adidas EQT Support SK PK W  Zapatillas para Mujer  Negro  Core Black/Footwear White/Clear Mint 0   40 EU](https://www.amazon.es/dp/B07D75NKXQ/?tag=tolees-21) con 39.12 de descuento por 75.83 EUR (original: 124.56 EUR) en el siguiente enlace!

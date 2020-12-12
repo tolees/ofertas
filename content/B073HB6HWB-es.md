@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Pro Training II Bolsa Deportiva  Unisex  New Navy  UA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073HB6HWB/?tag=tolees-21'
+descuento: '29.92'
+titulo: 'Puma Pro Training II Bolsa Deportiva  Un'
 ---
 
 Está [Puma Pro Training II Bolsa Deportiva  Unisex  New Navy  UA](https://www.amazon.es/dp/B073HB6HWB/?tag=tolees-21) con 29.92 de descuento por 20.99 EUR (original: 29.95 EUR) en el siguiente enlace!

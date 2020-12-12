@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Samsung -  Cargador Rápido   Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BSOPVDM/?tag=tolees-21'
+descuento: '40.58'
+titulo: 'Samsung -  Cargador Rápido   Negro'
 ---
 
 Está [Samsung -  Cargador Rápido   Negro](https://www.amazon.es/dp/B01BSOPVDM/?tag=tolees-21) con 40.58 de descuento por 35.59 EUR (original: 59.9 EUR) en el siguiente enlace!

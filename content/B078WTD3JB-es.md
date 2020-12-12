@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Cortefiel Polo Básico Manga Corta  Hombre   Gama Azules 12   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WTD3JB/?tag=tolees-21'
+descuento: '67.10'
+titulo: 'Cortefiel Polo Básico Manga Corta  Hombr'
 ---
 
 Tienes [Cortefiel Polo Básico Manga Corta  Hombre   Gama Azules 12   Medium](https://www.amazon.es/dp/B078WTD3JB/?tag=tolees-21) con un 67.10 % de descuento con precio de oferta de 11.84 EUR (original: 35.99 EUR) en el siguiente enlace!

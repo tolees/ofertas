@@ -17,6 +17,9 @@ comparePrice: 45.35 EUR
 inStock: true
 prodname: 'Calvin Klein 4040 - After shave  125 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000JL5MGC/?tag=tolees-21'
+descuento: '56.82'
+titulo: 'Calvin Klein 4040 - After shave  125 ml'
 ---
 
 Ahora mismo tienes [Calvin Klein 4040 - After shave  125 ml](https://www.amazon.es/dp/B000JL5MGC/?tag=tolees-21) a 19.58 EUR (original: 45.35 EUR) (56.82 %  de descuento) en el siguiente enlace!

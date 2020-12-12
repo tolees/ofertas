@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Pandora Abalorios Mujer plata - 792138EN93'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y4C1SXX/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Pandora Abalorios Mujer plata - 792138EN'
 ---
 
 Ahora mismo tienes [Pandora Abalorios Mujer plata - 792138EN93](https://www.amazon.es/dp/B06Y4C1SXX/?tag=tolees-21) a 35.4 EUR (original: 59 EUR) (40.00 %  de descuento) en el siguiente enlace!

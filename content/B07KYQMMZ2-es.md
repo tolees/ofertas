@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Springfield 3 Pack Basicos Bóxer   Gama Grises 43   X-Large  Tamaño del Fabricante:XL  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYQMMZ2/?tag=tolees-21'
+descuento: '53.13'
+titulo: 'Springfield 3 Pack Basicos Bóxer   Gama '
 ---
 
 Tienes [Springfield 3 Pack Basicos Bóxer   Gama Grises 43   X-Large  Tamaño del Fabricante:XL  para Hombre](https://www.amazon.es/dp/B07KYQMMZ2/?tag=tolees-21) con un 53.13 % de descuento con precio de oferta de 9.37 EUR (original: 19.99 EUR) en el siguiente enlace!

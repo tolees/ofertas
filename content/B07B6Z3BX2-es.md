@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'New Balance Fresh Faom Cruz v2 Hygge Pack  Zapatillas para Hombre  Naranja  Canyon/Hemp/Faded Birch Ho2   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B6Z3BX2/?tag=tolees-21'
+descuento: '65.42'
+titulo: 'New Balance Fresh Faom Cruz v2 Hygge Pac'
 ---
 
 Tienes [New Balance Fresh Faom Cruz v2 Hygge Pack  Zapatillas para Hombre  Naranja  Canyon/Hemp/Faded Birch Ho2   41.5 EU](https://www.amazon.es/dp/B07B6Z3BX2/?tag=tolees-21) con un 65.42 % de descuento con precio de oferta de 32.85 EUR (original: 95 EUR) en el siguiente enlace!

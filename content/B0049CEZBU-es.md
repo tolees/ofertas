@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Bering Ceramic - Reloj analógico de caballero de cuarzo con correa de piel blanca - sumergible a 50 metros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0049CEZBU/?tag=tolees-21'
+descuento: '60.04'
+titulo: 'Bering Ceramic - Reloj analógico de caba'
 ---
 
 Está [Bering Ceramic - Reloj analógico de caballero de cuarzo con correa de piel blanca - sumergible a 50 metros](https://www.amazon.es/dp/B0049CEZBU/?tag=tolees-21) con 60.04 de descuento por 79.52 EUR (original: 199 EUR) en el siguiente enlace!

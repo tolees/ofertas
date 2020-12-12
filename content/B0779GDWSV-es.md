@@ -17,6 +17,9 @@ comparePrice: 54.75 EUR
 inStock: true
 prodname: 'Little Band Estuche nacimiento gorro/zapatillas/peluche'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0779GDWSV/?tag=tolees-21'
+descuento: '52.99'
+titulo: 'Little Band Estuche nacimiento gorro/zap'
 ---
 
 Ahora mismo tienes [Little Band Estuche nacimiento gorro/zapatillas/peluche](https://www.amazon.es/dp/B0779GDWSV/?tag=tolees-21) a 25.74 EUR (original: 54.75 EUR) (52.99 %  de descuento) en el siguiente enlace!

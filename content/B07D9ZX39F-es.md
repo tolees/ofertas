@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Escaper SL Jr  Zapatillas Unisex Niños  Gris  Gray Violet-Orchid 08   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9ZX39F/?tag=tolees-21'
+descuento: '54.14'
+titulo: 'Puma Escaper SL Jr  Zapatillas Unisex Ni'
 ---
 
 Está [Puma Escaper SL Jr  Zapatillas Unisex Niños  Gris  Gray Violet-Orchid 08   36 EU](https://www.amazon.es/dp/B07D9ZX39F/?tag=tolees-21) con 54.14 de descuento por 18.32 EUR (original: 39.95 EUR) en el siguiente enlace!

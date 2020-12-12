@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Quiksilver Molokai Nitro  Zapatos de Playa y Piscina para Hombre  Azul Blue/Black Xkbk  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DY8VNYP/?tag=tolees-21'
+descuento: '25.21'
+titulo: 'Quiksilver Molokai Nitro  Zapatos de Pla'
 ---
 
 Tienes [Quiksilver Molokai Nitro  Zapatos de Playa y Piscina para Hombre  Azul Blue/Black Xkbk  41 EU](https://www.amazon.es/dp/B07DY8VNYP/?tag=tolees-21) con un 25.21 % de descuento con precio de oferta de 14.95 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 27.32 EUR
 inStock: true
 prodname: 'Kempa Core 2.0 Camiseta de Oberbekleidung  Primavera/Verano  Unisex  Color weiß  tamaño XXXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0798BGBMF/?tag=tolees-21'
+descuento: '50.77'
+titulo: 'Kempa Core 2.0 Camiseta de Oberbekleidun'
 ---
 
 Tienes [Kempa Core 2.0 Camiseta de Oberbekleidung  Primavera/Verano  Unisex  Color weiß  tamaño XXXL](https://www.amazon.es/dp/B0798BGBMF/?tag=tolees-21) con un 50.77 % de descuento con precio de oferta de 13.45 EUR (original: 27.32 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 48.99 EUR
 inStock: true
 prodname: 'Lovey Angel Anillo pene vi-brador de 11 Patrones de vibración  Estimulador Masculino para Prolongar Placer   masajeador Hombre de silicona médica  Lila'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GB4HBYN/?tag=tolees-21'
+descuento: '53.07'
+titulo: 'Lovey Angel Anillo pene vi-brador de 11 '
 ---
 
 Ahora mismo tienes [Lovey Angel Anillo pene vi-brador de 11 Patrones de vibración  Estimulador Masculino para Prolongar Placer   masajeador Hombre de silicona médica  Lila](https://www.amazon.es/dp/B07GB4HBYN/?tag=tolees-21) a 22.99 EUR (original: 48.99 EUR) (53.07 %  de descuento) en el siguiente enlace!

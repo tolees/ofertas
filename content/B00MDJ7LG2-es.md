@@ -17,6 +17,9 @@ comparePrice: 42.55 EUR
 inStock: true
 prodname: 'Tesa Assa Abloy 20304Rhn Cerradura De Embutir Para Puertas De Madera  Niquelado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MDJ7LG2/?tag=tolees-21'
+descuento: '85.88'
+titulo: 'Tesa Assa Abloy 20304Rhn Cerradura De Em'
 ---
 
 Tienes [Tesa Assa Abloy 20304Rhn Cerradura De Embutir Para Puertas De Madera  Niquelado](https://www.amazon.es/dp/B00MDJ7LG2/?tag=tolees-21) con un 85.88 % de descuento con precio de oferta de 6.01 EUR (original: 42.55 EUR) en el siguiente enlace!

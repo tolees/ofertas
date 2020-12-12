@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance Cypher Run  Zapatillas para Mujer  Gris  Grey   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0751SDLV7/?tag=tolees-21'
+descuento: '81.35'
+titulo: 'New Balance Cypher Run  Zapatillas para '
 ---
 
 Ahora mismo tienes [New Balance Cypher Run  Zapatillas para Mujer  Gris  Grey   35 EU](https://www.amazon.es/dp/B0751SDLV7/?tag=tolees-21) a 18.65 EUR (original: 100 EUR) (81.35 %  de descuento) en el siguiente enlace!

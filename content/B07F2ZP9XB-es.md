@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'KEEPOW 5 Recambios de Paños Lavables para Aspiradora Cecotec Conga Excellence 990 Robot Aspiradora y Aspiradora ILIFE V3 V3s V5 V5s V5spro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2ZP9XB/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'KEEPOW 5 Recambios de Paños Lavables par'
 ---
 
 Tienes [KEEPOW 5 Recambios de Paños Lavables para Aspiradora Cecotec Conga Excellence 990 Robot Aspiradora y Aspiradora ILIFE V3 V3s V5 V5s V5spro](https://www.amazon.es/dp/B07F2ZP9XB/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

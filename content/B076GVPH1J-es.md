@@ -17,6 +17,9 @@ comparePrice: 57.49 EUR
 inStock: true
 prodname: 'Reebok Trailgrip 6.0  Zapatillas de Senderismo para Mujer  Gris  Ash Grey/Black/Overtly Pink 000   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076GVPH1J/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Reebok Trailgrip 6.0  Zapatillas de Send'
 ---
 
 Ahora mismo tienes [Reebok Trailgrip 6.0  Zapatillas de Senderismo para Mujer  Gris  Ash Grey/Black/Overtly Pink 000   38.5 EU](https://www.amazon.es/dp/B076GVPH1J/?tag=tolees-21) a 22.99 EUR (original: 57.49 EUR) (60.01 %  de descuento) en el siguiente enlace!

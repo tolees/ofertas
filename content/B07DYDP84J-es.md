@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Mujer  Sunny Lime  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYDP84J/?tag=tolees-21'
+descuento: '44.53'
+titulo: 'Merrell Trail Glove 5  Zapatillas Deport'
 ---
 
 Está [Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Mujer  Sunny Lime  37 EU](https://www.amazon.es/dp/B07DYDP84J/?tag=tolees-21) con 44.53 de descuento por 66.56 EUR (original: 120 EUR) en el siguiente enlace!

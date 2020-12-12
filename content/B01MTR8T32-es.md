@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Pepe Jeans Vagabond  Mujer  Azul  Denim   W29'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTR8T32/?tag=tolees-21'
+descuento: '78.62'
+titulo: 'Pepe Jeans Vagabond  Mujer  Azul  Denim '
 ---
 
 Ahora mismo tienes [Pepe Jeans Vagabond  Mujer  Azul  Denim   W29](https://www.amazon.es/dp/B01MTR8T32/?tag=tolees-21) a 25.65 EUR (original: 120 EUR) (78.62 %  de descuento) en el siguiente enlace!

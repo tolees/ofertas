@@ -17,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Pepe Jeans EDES PM506073  Camiseta para Hombre  Blanco  Off White 803  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RSG7VN/?tag=tolees-21'
+descuento: '59.53'
+titulo: 'Pepe Jeans EDES PM506073  Camiseta para '
 ---
 
 Ahora mismo tienes [Pepe Jeans EDES PM506073  Camiseta para Hombre  Blanco  Off White 803  Large](https://www.amazon.es/dp/B079RSG7VN/?tag=tolees-21) a 12.1 EUR (original: 29.9 EUR) (59.53 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas Run70s Zapatillas de Running Mujer  Naranja  Clear Orange/Dust Pink/Grey Three F17 Clear Orange/Dust Pink/Grey Three F17   38 EU  5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K29MZS9/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'adidas Run70s Zapatillas de Running Muje'
 ---
 
 Tienes [adidas Run70s Zapatillas de Running Mujer  Naranja  Clear Orange/Dust Pink/Grey Three F17 Clear Orange/Dust Pink/Grey Three F17   38 EU  5 UK ](https://www.amazon.es/dp/B07K29MZS9/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 34.98 EUR (original: 69.95 EUR) en el siguiente enlace!

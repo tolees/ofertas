@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Helly Hansen Tokyo T-Shirt  Hombre  White  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KWQ3GD9/?tag=tolees-21'
+descuento: '38.63'
+titulo: 'Helly Hansen Tokyo T-Shirt  Hombre  Whit'
 ---
 
 Está [Helly Hansen Tokyo T-Shirt  Hombre  White  XL](https://www.amazon.es/dp/B07KWQ3GD9/?tag=tolees-21) con 38.63 de descuento por 18.41 EUR (original: 30 EUR) en el siguiente enlace!

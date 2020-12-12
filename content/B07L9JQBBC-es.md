@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Napapijri Elbas 2 Polo  Morado  Orchid Violet V26   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9JQBBC/?tag=tolees-21'
+descuento: '58.75'
+titulo: 'Napapijri Elbas 2 Polo  Morado  Orchid V'
 ---
 
 Está [Napapijri Elbas 2 Polo  Morado  Orchid Violet V26   Small para Hombre](https://www.amazon.es/dp/B07L9JQBBC/?tag=tolees-21) con 58.75 de descuento por 24.34 EUR (original: 59 EUR) en el siguiente enlace!

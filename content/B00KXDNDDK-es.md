@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Armour Cc Left Chest Lockup  Camiseta para Hombre  Rojo  Red/Steel   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KXDNDDK/?tag=tolees-21'
+descuento: '38.82'
+titulo: 'Under Armour Cc Left Chest Lockup  Camis'
 ---
 
 Tienes [Under Armour Cc Left Chest Lockup  Camiseta para Hombre  Rojo  Red/Steel   L](https://www.amazon.es/dp/B00KXDNDDK/?tag=tolees-21) con un 38.82 % de descuento con precio de oferta de 17.13 EUR (original: 28 EUR) en el siguiente enlace!

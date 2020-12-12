@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Maquina Cortar Pelo Afeitadora Corporal inalámbrica para hombres  con lámina cerámica de aleación de titanio  pantalla LED  batería de litio  soporte de carga  USB recargable # Hatteker RFC-6618'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074QC9VPX/?tag=tolees-21'
+descuento: '57.16'
+titulo: 'Maquina Cortar Pelo Afeitadora Corporal '
 ---
 
 Ahora mismo tienes [Maquina Cortar Pelo Afeitadora Corporal inalámbrica para hombres  con lámina cerámica de aleación de titanio  pantalla LED  batería de litio  soporte de carga  USB recargable # Hatteker RFC-6618](https://www.amazon.es/dp/B074QC9VPX/?tag=tolees-21) a 29.99 EUR (original: 70 EUR) (57.16 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Puma Jaab XT TZ Wn s  Zapatillas de Deporte para Mujer  Verde  Ponderosa Pine White   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC832QX/?tag=tolees-21'
+descuento: '71.55'
+titulo: 'Puma Jaab XT TZ Wn s  Zapatillas de Depo'
 ---
 
 Ahora mismo tienes [Puma Jaab XT TZ Wn s  Zapatillas de Deporte para Mujer  Verde  Ponderosa Pine White   39 EU](https://www.amazon.es/dp/B07DC832QX/?tag=tolees-21) a 24.17 EUR (original: 84.95 EUR) (71.55 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Under Armour UA Undeniable Duffle 3.0 SM Bolsa Deportiva  Unisex Adulto  Rojo  Red/Graphite/Silver 600   Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KLV4T40/?tag=tolees-21'
+descuento: '42.51'
+titulo: 'Under Armour UA Undeniable Duffle 3.0 SM'
 ---
 
 Tienes [Under Armour UA Undeniable Duffle 3.0 SM Bolsa Deportiva  Unisex Adulto  Rojo  Red/Graphite/Silver 600   Talla única](https://www.amazon.es/dp/B01KLV4T40/?tag=tolees-21) con un 42.51 % de descuento con precio de oferta de 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!

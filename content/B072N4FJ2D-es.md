@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Vans Old Skool  Zapatillas Unisex Niños  Gris  C/Yellow   31 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072N4FJ2D/?tag=tolees-21'
+descuento: '54.13'
+titulo: 'Vans Old Skool  Zapatillas Unisex Niños '
 ---
 
 Tienes [Vans Old Skool  Zapatillas Unisex Niños  Gris  C/Yellow   31 EU](https://www.amazon.es/dp/B072N4FJ2D/?tag=tolees-21) con un 54.13 % de descuento con precio de oferta de 25.23 EUR (original: 55 EUR) en el siguiente enlace!

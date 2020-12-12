@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Orofluido  ASIA 70987  - Máscara para pelo  500 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZOR0PAY/?tag=tolees-21'
+descuento: '64.46'
+titulo: 'Orofluido  ASIA 70987  - Máscara para pe'
 ---
 
 Tienes [Orofluido  ASIA 70987  - Máscara para pelo  500 ml](https://www.amazon.es/dp/B00ZOR0PAY/?tag=tolees-21) con un 64.46 % de descuento con precio de oferta de 17.77 EUR (original: 50 EUR) en el siguiente enlace!

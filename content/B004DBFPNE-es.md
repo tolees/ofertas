@@ -17,6 +17,9 @@ comparePrice: 4.83 EUR
 inStock: true
 prodname: 'BIC Cristal Original - Caja de 10 unidades  bolígrafos punta media  1 0 mm   color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004DBFPNE/?tag=tolees-21'
+descuento: '51.97'
+titulo: 'BIC Cristal Original - Caja de 10 unidad'
 ---
 
 Está [BIC Cristal Original - Caja de 10 unidades  bolígrafos punta media  1 0 mm   color azul](https://www.amazon.es/dp/B004DBFPNE/?tag=tolees-21) con 51.97 de descuento por 2.32 EUR (original: 4.83 EUR) en el siguiente enlace!

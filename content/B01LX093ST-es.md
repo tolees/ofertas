@@ -17,6 +17,9 @@ comparePrice: 134.8 EUR
 inStock: true
 prodname: 'Trotec 1410000083 - Soplador calefactor eléctrico TDS 29 E  Max. 5 kW '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LX093ST/?tag=tolees-21'
+descuento: '48.11'
+titulo: 'Trotec 1410000083 - Soplador calefactor '
 ---
 
 Está [Trotec 1410000083 - Soplador calefactor eléctrico TDS 29 E  Max. 5 kW ](https://www.amazon.es/dp/B01LX093ST/?tag=tolees-21) con 48.11 de descuento por 69.95 EUR (original: 134.8 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcopossible tee SS Crew Neck  Camiseta para Hombre  Verde  Rosin Fit:Reg   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F42S2ZJ/?tag=tolees-21'
+descuento: '28.48'
+titulo: 'JACK & JONES Jcopossible tee SS Crew Nec'
 ---
 
 Tienes [JACK & JONES Jcopossible tee SS Crew Neck  Camiseta para Hombre  Verde  Rosin Fit:Reg   Large](https://www.amazon.es/dp/B07F42S2ZJ/?tag=tolees-21) con un 28.48 % de descuento con precio de oferta de 9.29 EUR (original: 12.99 EUR) en el siguiente enlace!

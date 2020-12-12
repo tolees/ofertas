@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: '40W LED Color Blanco de pared Arriba Abajo Lámpara de pared interior Aplique de pared Accesorios de iluminación para la sala de estar Dormitorio Baño Cocina Comedor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GBVVSN3/?tag=tolees-21'
+descuento: '81.65'
+titulo: '40W LED Color Blanco de pared Arriba Aba'
 ---
 
 Está [40W LED Color Blanco de pared Arriba Abajo Lámpara de pared interior Aplique de pared Accesorios de iluminación para la sala de estar Dormitorio Baño Cocina Comedor](https://www.amazon.es/dp/B07GBVVSN3/?tag=tolees-21) con 81.65 de descuento por 8.99 EUR (original: 49 EUR) en el siguiente enlace!

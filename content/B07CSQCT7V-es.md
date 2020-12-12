@@ -17,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'Syming Mochila Senderismo con Cubierta De Lluvia para Aventura Al Aire Libre Viaje Camping Impermeable  50L Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSQCT7V/?tag=tolees-21'
+descuento: '59.48'
+titulo: 'Syming Mochila Senderismo con Cubierta D'
 ---
 
 Ahora mismo tienes [Syming Mochila Senderismo con Cubierta De Lluvia para Aventura Al Aire Libre Viaje Camping Impermeable  50L Azul ](https://www.amazon.es/dp/B07CSQCT7V/?tag=tolees-21) a 14.99 EUR (original: 36.99 EUR) (59.48 %  de descuento) en el siguiente enlace!

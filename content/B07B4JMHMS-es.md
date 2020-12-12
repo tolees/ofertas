@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Hurley Lowrider Portside Bermudas  Mujer  Negro  S/5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4JMHMS/?tag=tolees-21'
+descuento: '62.53'
+titulo: 'Hurley Lowrider Portside Bermudas  Mujer'
 ---
 
 Ahora mismo tienes [Hurley Lowrider Portside Bermudas  Mujer  Negro  S/5](https://www.amazon.es/dp/B07B4JMHMS/?tag=tolees-21) a 20.61 EUR (original: 55 EUR) (62.53 %  de descuento) en el siguiente enlace!

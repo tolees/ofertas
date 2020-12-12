@@ -17,6 +17,9 @@ comparePrice: 31.15 EUR
 inStock: true
 prodname: 'Bestway 58242 Cobertor Solar para Piscinas  100x45x115 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FQD5FSS/?tag=tolees-21'
+descuento: '67.90'
+titulo: 'Bestway 58242 Cobertor Solar para Piscin'
 ---
 
 Ahora mismo tienes [Bestway 58242 Cobertor Solar para Piscinas  100x45x115 cm](https://www.amazon.es/dp/B00FQD5FSS/?tag=tolees-21) a 10 EUR (original: 31.15 EUR) (67.90 %  de descuento) en el siguiente enlace!

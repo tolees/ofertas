@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Reloj Chronostar Watches - Mujer R3753258504'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M0JNXWH/?tag=tolees-21'
+descuento: '68.73'
+titulo: 'Reloj Chronostar Watches - Mujer R375325'
 ---
 
 Está [Reloj Chronostar Watches - Mujer R3753258504](https://www.amazon.es/dp/B01M0JNXWH/?tag=tolees-21) con 68.73 de descuento por 18.45 EUR (original: 59 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 132.98 EUR
 inStock: true
 prodname: 'Nokia 5 - Smartphone 5.2" IPS LCD  Qualcomm Snapdragon 430  2 GB RAM  Memoria Interna 16 GB Ampliable con Tarjeta SD hasta 128 GB  cámara 13 MPX con autofocus  Android   Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0721MD4KX/?tag=tolees-21'
+descuento: '30.09'
+titulo: 'Nokia 5 - Smartphone 5.2" IPS LCD  Qualc'
 ---
 
 Ahora mismo tienes [Nokia 5 - Smartphone 5.2" IPS LCD  Qualcomm Snapdragon 430  2 GB RAM  Memoria Interna 16 GB Ampliable con Tarjeta SD hasta 128 GB  cámara 13 MPX con autofocus  Android   Azul](https://www.amazon.es/dp/B0721MD4KX/?tag=tolees-21) a 92.96 EUR (original: 132.98 EUR) (30.09 %  de descuento) en el siguiente enlace!

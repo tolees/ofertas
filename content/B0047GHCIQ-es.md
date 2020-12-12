@@ -17,6 +17,9 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'Nalgene OTF - Bidón de acampada y senderismo  color rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0047GHCIQ/?tag=tolees-21'
+descuento: '28.67'
+titulo: 'Nalgene OTF - Bidón de acampada y sender'
 ---
 
 Ahora mismo tienes [Nalgene OTF - Bidón de acampada y senderismo  color rojo](https://www.amazon.es/dp/B0047GHCIQ/?tag=tolees-21) a 9.95 EUR (original: 13.95 EUR) (28.67 %  de descuento) en el siguiente enlace!

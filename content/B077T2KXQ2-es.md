@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Aireador de vino decantador vino del respiradero decantador aireador decantador de vino jarra con torre de decantación de vino Set  Set de regalo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077T2KXQ2/?tag=tolees-21'
+descuento: '46.05'
+titulo: 'Aireador de vino decantador vino del res'
 ---
 
 Tienes [Aireador de vino decantador vino del respiradero decantador aireador decantador de vino jarra con torre de decantación de vino Set  Set de regalo](https://www.amazon.es/dp/B077T2KXQ2/?tag=tolees-21) con un 46.05 % de descuento con precio de oferta de 26.97 EUR (original: 49.99 EUR) en el siguiente enlace!

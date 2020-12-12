@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Blau  Blue E12   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N4J9MRP/?tag=tolees-21'
+descuento: '39.49'
+titulo: 'Superga 2750-cotu Classic  Zapatillas de'
 ---
 
 Ahora mismo tienes [Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Blau  Blue E12   39.5 EU](https://www.amazon.es/dp/B07N4J9MRP/?tag=tolees-21) a 35.7 EUR (original: 59 EUR) (39.49 %  de descuento) en el siguiente enlace!

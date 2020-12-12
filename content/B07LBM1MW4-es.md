@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger New Chiara Str Pq Polo SS  Amarillo  Gradient STP/Golden Haze 797   Small  Talla del Fabricante: SM  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBM1MW4/?tag=tolees-21'
+descuento: '60.60'
+titulo: 'Tommy Hilfiger New Chiara Str Pq Polo SS'
 ---
 
 Tienes [Tommy Hilfiger New Chiara Str Pq Polo SS  Amarillo  Gradient STP/Golden Haze 797   Small  Talla del Fabricante: SM  para Mujer](https://www.amazon.es/dp/B07LBM1MW4/?tag=tolees-21) con un 60.60 % de descuento con precio de oferta de 27.54 EUR (original: 69.9 EUR) en el siguiente enlace!

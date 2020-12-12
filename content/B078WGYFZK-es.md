@@ -17,6 +17,9 @@ comparePrice: 15.7 EUR
 inStock: true
 prodname: 'Inside 5SFD35& Camiseta sin Mangas  Mujer  Negro  Negro 1   X-Small  Tamaño del Fabricante:XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WGYFZK/?tag=tolees-21'
+descuento: '64.20'
+titulo: 'Inside 5SFD35& Camiseta sin Mangas  Muje'
 ---
 
 Tienes [Inside 5SFD35& Camiseta sin Mangas  Mujer  Negro  Negro 1   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B078WGYFZK/?tag=tolees-21) con un 64.20 % de descuento con precio de oferta de 5.62 EUR (original: 15.7 EUR) en el siguiente enlace!

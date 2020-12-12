@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Berg Outdoor URRA Softshell Jacket  Hombre  Steel Grey  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GT9T1FF/?tag=tolees-21'
+descuento: '72.74'
+titulo: 'Berg Outdoor URRA Softshell Jacket  Homb'
 ---
 
 Ahora mismo tienes [Berg Outdoor URRA Softshell Jacket  Hombre  Steel Grey  S](https://www.amazon.es/dp/B07GT9T1FF/?tag=tolees-21) a 27.25 EUR (original: 99.95 EUR) (72.74 %  de descuento) en el siguiente enlace!

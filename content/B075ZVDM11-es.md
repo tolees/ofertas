@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'SPC Smartee Pop - Smartwatch de 1.3"  IPS  Linux  Bluetooth 4.0 BLE  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075ZVDM11/?tag=tolees-21'
+descuento: '40.85'
+titulo: 'SPC Smartee Pop - Smartwatch de 1.3"  IP'
 ---
 
 Ahora mismo tienes [SPC Smartee Pop - Smartwatch de 1.3"  IPS  Linux  Bluetooth 4.0 BLE  Azul](https://www.amazon.es/dp/B075ZVDM11/?tag=tolees-21) a 53.18 EUR (original: 89.9 EUR) (40.85 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 6.3 EUR
 inStock: true
 prodname: 'Flower 40556 40556-Cristal Concentrado  100 g  No No Aplica  10.3x3.7x14.5 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DAQFDPM/?tag=tolees-21'
+descuento: '54.44'
+titulo: 'Flower 40556 40556-Cristal Concentrado  '
 ---
 
 Está [Flower 40556 40556-Cristal Concentrado  100 g  No No Aplica  10.3x3.7x14.5 cm](https://www.amazon.es/dp/B01DAQFDPM/?tag=tolees-21) con 54.44 de descuento por 2.87 EUR (original: 6.3 EUR) en el siguiente enlace!

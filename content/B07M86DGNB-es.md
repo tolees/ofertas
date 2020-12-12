@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'The North Face Surgent Halfdome Sudadera con Capucha  Hombre  Azul  Urban Navy Heather   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M86DGNB/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face Surgent Halfdome Sudadera'
 ---
 
 Tienes [The North Face Surgent Halfdome Sudadera con Capucha  Hombre  Azul  Urban Navy Heather   L](https://www.amazon.es/dp/B07M86DGNB/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 35 EUR (original: 70 EUR) en el siguiente enlace!

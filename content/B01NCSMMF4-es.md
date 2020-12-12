@@ -17,6 +17,9 @@ comparePrice: 54.75 EUR
 inStock: true
 prodname: 'FERM RSM1019 Sierra recíproca  710W '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NCSMMF4/?tag=tolees-21'
+descuento: '32.58'
+titulo: 'FERM RSM1019 Sierra recíproca  710W '
 ---
 
 Ahora mismo tienes [FERM RSM1019 Sierra recíproca  710W ](https://www.amazon.es/dp/B01NCSMMF4/?tag=tolees-21) a 36.91 EUR (original: 54.75 EUR) (32.58 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'SpringPear® 12x Impermeable del Tatuaje Temporal de la Bandera de Alemania para la Copa Mundial 2018 Competiciones Internacionales  12 Piezas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CW1X5XW/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'SpringPear® 12x Impermeable del Tatuaje '
 ---
 
 Está [SpringPear® 12x Impermeable del Tatuaje Temporal de la Bandera de Alemania para la Copa Mundial 2018 Competiciones Internacionales  12 Piezas ](https://www.amazon.es/dp/B07CW1X5XW/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

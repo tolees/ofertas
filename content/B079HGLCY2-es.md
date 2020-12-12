@@ -17,6 +17,9 @@ comparePrice: 37.11 EUR
 inStock: true
 prodname: 'PROSTEEL Collar de Cuero Genuino para Hombre  3mm Cadena de Cuero con Cierre de Acero Inoxidable Collar Básico  46cm/50cm/55cm/61cm/66cm  66.00  3mm Ancho '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079HGLCY2/?tag=tolees-21'
+descuento: '65.00'
+titulo: 'PROSTEEL Collar de Cuero Genuino para Ho'
 ---
 
 Tienes [PROSTEEL Collar de Cuero Genuino para Hombre  3mm Cadena de Cuero con Cierre de Acero Inoxidable Collar Básico  46cm/50cm/55cm/61cm/66cm  66.00  3mm Ancho ](https://www.amazon.es/dp/B079HGLCY2/?tag=tolees-21) con un 65.00 % de descuento con precio de oferta de 12.99 EUR (original: 37.11 EUR) en el siguiente enlace!

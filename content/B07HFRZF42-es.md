@@ -17,6 +17,9 @@ comparePrice: 34.24 EUR
 inStock: true
 prodname: 'iMucci. Bolsas de cosméticos de viaje  con cordón  bolsa de almacenamiento para maquillaje + bolsa de almacenamiento portátil a prueba de golpes  a prueba de polvo y anti caída para dispositivos digitales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFRZF42/?tag=tolees-21'
+descuento: '64.98'
+titulo: 'iMucci. Bolsas de cosméticos de viaje  c'
 ---
 
 Está [iMucci. Bolsas de cosméticos de viaje  con cordón  bolsa de almacenamiento para maquillaje + bolsa de almacenamiento portátil a prueba de golpes  a prueba de polvo y anti caída para dispositivos digitales](https://www.amazon.es/dp/B07HFRZF42/?tag=tolees-21) con 64.98 de descuento por 11.99 EUR (original: 34.24 EUR) en el siguiente enlace!

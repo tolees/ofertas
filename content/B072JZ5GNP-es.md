@@ -17,6 +17,9 @@ comparePrice: 32.4 EUR
 inStock: true
 prodname: 'TRESemmé Mascarilla Liso Keratina  300 ml - Paquete de 6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072JZ5GNP/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'TRESemmé Mascarilla Liso Keratina  300 m'
 ---
 
 Ahora mismo tienes [TRESemmé Mascarilla Liso Keratina  300 ml - Paquete de 6](https://www.amazon.es/dp/B072JZ5GNP/?tag=tolees-21) a 24.3 EUR (original: 32.4 EUR) (25.00 %  de descuento) en el siguiente enlace!

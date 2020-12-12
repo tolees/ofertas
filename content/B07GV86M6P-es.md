@@ -17,6 +17,9 @@ comparePrice: 11.18 EUR
 inStock: true
 prodname: 'FLAMEER Etiqueta Engomada Duradera De La Cinta Protectora De La Cabeza del Guardia De La Raqueta De Tenis del Bádminton - Negro  como se Describe'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GV86M6P/?tag=tolees-21'
+descuento: '37.48'
+titulo: 'FLAMEER Etiqueta Engomada Duradera De La'
 ---
 
 Tienes [FLAMEER Etiqueta Engomada Duradera De La Cinta Protectora De La Cabeza del Guardia De La Raqueta De Tenis del Bádminton - Negro  como se Describe](https://www.amazon.es/dp/B07GV86M6P/?tag=tolees-21) con un 37.48 % de descuento con precio de oferta de 6.99 EUR (original: 11.18 EUR) en el siguiente enlace!

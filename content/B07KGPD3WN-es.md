@@ -17,6 +17,9 @@ comparePrice: 21.95 EUR
 inStock: true
 prodname: 'Buff R-Effect Logo Gorra  Unisex Adulto  Multi  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGPD3WN/?tag=tolees-21'
+descuento: '27.61'
+titulo: 'Buff R-Effect Logo Gorra  Unisex Adulto '
 ---
 
 Está [Buff R-Effect Logo Gorra  Unisex Adulto  Multi  Talla única](https://www.amazon.es/dp/B07KGPD3WN/?tag=tolees-21) con 27.61 de descuento por 15.89 EUR (original: 21.95 EUR) en el siguiente enlace!

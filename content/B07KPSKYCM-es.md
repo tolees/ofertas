@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'DC Shoes Star Zip Fleece Top  Hombre  Amazon  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPSKYCM/?tag=tolees-21'
+descuento: '55.78'
+titulo: 'DC Shoes Star Zip Fleece Top  Hombre  Am'
 ---
 
 Está [DC Shoes Star Zip Fleece Top  Hombre  Amazon  M](https://www.amazon.es/dp/B07KPSKYCM/?tag=tolees-21) con 55.78 de descuento por 30.95 EUR (original: 69.99 EUR) en el siguiente enlace!

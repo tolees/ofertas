@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans London Tourist Basic 4.0  Alpargata Hombre  Azul  Navy   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZS0SYQ/?tag=tolees-21'
+descuento: '50.08'
+titulo: 'Pepe Jeans London Tourist Basic 4.0  Alp'
 ---
 
 Está [Pepe Jeans London Tourist Basic 4.0  Alpargata Hombre  Azul  Navy   46 EU](https://www.amazon.es/dp/B01LZS0SYQ/?tag=tolees-21) con 50.08 de descuento por 32.45 EUR (original: 65 EUR) en el siguiente enlace!

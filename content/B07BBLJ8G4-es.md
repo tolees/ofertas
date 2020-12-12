@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'LANGRIA Taburete de Trabajo sin Respaldo con Ruedas Asiento Circular Acolchado con Altura Regulable y Tapizado de Piel Sintética para Sala Tatuaje Clínica Dentista Oficina Masaje  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BBLJ8G4/?tag=tolees-21'
+descuento: '38.34'
+titulo: 'LANGRIA Taburete de Trabajo sin Respaldo'
 ---
 
 Está [LANGRIA Taburete de Trabajo sin Respaldo con Ruedas Asiento Circular Acolchado con Altura Regulable y Tapizado de Piel Sintética para Sala Tatuaje Clínica Dentista Oficina Masaje  Negro ](https://www.amazon.es/dp/B07BBLJ8G4/?tag=tolees-21) con 38.34 de descuento por 36.99 EUR (original: 59.99 EUR) en el siguiente enlace!

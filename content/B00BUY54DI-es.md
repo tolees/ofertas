@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'POP! Vinilo - Movies: Alien'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BUY54DI/?tag=tolees-21'
+descuento: '35.42'
+titulo: 'POP! Vinilo - Movies: Alien'
 ---
 
 Tienes [POP! Vinilo - Movies: Alien](https://www.amazon.es/dp/B00BUY54DI/?tag=tolees-21) con un 35.42 % de descuento con precio de oferta de 9.68 EUR (original: 14.99 EUR) en el siguiente enlace!

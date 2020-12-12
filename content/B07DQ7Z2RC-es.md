@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'MTNG Collection Bled  Bolso Bandolera para Mujer   Antelina Negro   5.5 x 17.5 x 25 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQ7Z2RC/?tag=tolees-21'
+descuento: '50.75'
+titulo: 'MTNG Collection Bled  Bolso Bandolera pa'
 ---
 
 Está [MTNG Collection Bled  Bolso Bandolera para Mujer   Antelina Negro   5.5 x 17.5 x 25 cm](https://www.amazon.es/dp/B07DQ7Z2RC/?tag=tolees-21) con 50.75 de descuento por 14.77 EUR (original: 29.99 EUR) en el siguiente enlace!

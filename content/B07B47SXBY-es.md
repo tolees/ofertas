@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Eastpak Padded Pak R Mochila  40 cm  24 L  Marrón  Bizar Brown '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B47SXBY/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Eastpak Padded Pak R Mochila  40 cm  24 '
 ---
 
 Tienes [Eastpak Padded Pak R Mochila  40 cm  24 L  Marrón  Bizar Brown ](https://www.amazon.es/dp/B07B47SXBY/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 25 EUR (original: 50 EUR) en el siguiente enlace!

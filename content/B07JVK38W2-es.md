@@ -17,6 +17,9 @@ comparePrice: 229.48 EUR
 inStock: true
 prodname: 'Lámpara de sal Himalaya  Relassy regulable  lámpara de sal con altavoz Bluetooth  interruptor táctil y 4 bombillas de 5 W intercambiables para dormitorio  estudio  textiles del hogar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JVK38W2/?tag=tolees-21'
+descuento: '75.60'
+titulo: 'Lámpara de sal Himalaya  Relassy regulab'
 ---
 
 Ahora mismo tienes [Lámpara de sal Himalaya  Relassy regulable  lámpara de sal con altavoz Bluetooth  interruptor táctil y 4 bombillas de 5 W intercambiables para dormitorio  estudio  textiles del hogar](https://www.amazon.es/dp/B07JVK38W2/?tag=tolees-21) a 55.99 EUR (original: 229.48 EUR) (75.60 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25.98 EUR
 inStock: true
 prodname: 'Sérum Ácido Hialurónico Eclat - Hidratante de Ácido Hialurónico puro 100% Sérum Antiedad para Eliminar Líneas de Expresión y Arrugas Hidratación Suave y Fácil Absorción Para Rostro y Ojos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P8ZN5JS/?tag=tolees-21'
+descuento: '61.59'
+titulo: 'Sérum Ácido Hialurónico Eclat - Hidratan'
 ---
 
 Ahora mismo tienes [Sérum Ácido Hialurónico Eclat - Hidratante de Ácido Hialurónico puro 100% Sérum Antiedad para Eliminar Líneas de Expresión y Arrugas Hidratación Suave y Fácil Absorción Para Rostro y Ojos](https://www.amazon.es/dp/B07P8ZN5JS/?tag=tolees-21) a 9.98 EUR (original: 25.98 EUR) (61.59 %  de descuento) en el siguiente enlace!

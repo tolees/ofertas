@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Mustang Schnür-Boot  Botas Clasicas para Hombre  Marrón  Dunkelbraun 32   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9TMPD7/?tag=tolees-21'
+descuento: '66.33'
+titulo: 'Mustang Schnür-Boot  Botas Clasicas para'
 ---
 
 Ahora mismo tienes [Mustang Schnür-Boot  Botas Clasicas para Hombre  Marrón  Dunkelbraun 32   42 EU](https://www.amazon.es/dp/B07D9TMPD7/?tag=tolees-21) a 33.65 EUR (original: 99.95 EUR) (66.33 %  de descuento) en el siguiente enlace!

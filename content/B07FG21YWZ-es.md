@@ -17,6 +17,9 @@ comparePrice: 25.76 EUR
 inStock: true
 prodname: 'Reebok DN1529 Act Core S Grip Bolsa de Deporte  25 cm  24 litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FG21YWZ/?tag=tolees-21'
+descuento: '28.49'
+titulo: 'Reebok DN1529 Act Core S Grip Bolsa de D'
 ---
 
 Está [Reebok DN1529 Act Core S Grip Bolsa de Deporte  25 cm  24 litros](https://www.amazon.es/dp/B07FG21YWZ/?tag=tolees-21) con 28.49 de descuento por 18.42 EUR (original: 25.76 EUR) en el siguiente enlace!

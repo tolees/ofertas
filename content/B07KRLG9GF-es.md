@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'REPLAY Zeumar Pantalones  Marrón  Mud 70   W27/L30  Talla del Fabricante: 27  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRLG9GF/?tag=tolees-21'
+descuento: '75.74'
+titulo: 'REPLAY Zeumar Pantalones  Marrón  Mud 70'
 ---
 
 Está [REPLAY Zeumar Pantalones  Marrón  Mud 70   W27/L30  Talla del Fabricante: 27  para Hombre](https://www.amazon.es/dp/B07KRLG9GF/?tag=tolees-21) con 75.74 de descuento por 33.72 EUR (original: 139 EUR) en el siguiente enlace!

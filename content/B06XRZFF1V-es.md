@@ -17,6 +17,9 @@ comparePrice: 41.73 EUR
 inStock: true
 prodname: 'Prismáticos Binoculares  SGODDE Impermeables al Aire Libre VS8x25S Powerview Compacto Foco Fácil con el Caso para el Senderismo al Aire Libre  Tirando  Viajando  Observación de Pájaros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XRZFF1V/?tag=tolees-21'
+descuento: '44.91'
+titulo: 'Prismáticos Binoculares  SGODDE Impermea'
 ---
 
 Está [Prismáticos Binoculares  SGODDE Impermeables al Aire Libre VS8x25S Powerview Compacto Foco Fácil con el Caso para el Senderismo al Aire Libre  Tirando  Viajando  Observación de Pájaros](https://www.amazon.es/dp/B06XRZFF1V/?tag=tolees-21) con 44.91 de descuento por 22.99 EUR (original: 41.73 EUR) en el siguiente enlace!

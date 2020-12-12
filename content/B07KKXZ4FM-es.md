@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Burton Vault Sudaderas  Hombre  Gray Heather  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKXZ4FM/?tag=tolees-21'
+descuento: '61.18'
+titulo: 'Burton Vault Sudaderas  Hombre  Gray Hea'
 ---
 
 Ahora mismo tienes [Burton Vault Sudaderas  Hombre  Gray Heather  XXL](https://www.amazon.es/dp/B07KKXZ4FM/?tag=tolees-21) a 23.29 EUR (original: 60 EUR) (61.18 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 33.68 EUR
 inStock: true
 prodname: 'Safta Bolsa De Deporte Benetton Boy Oficial 500x250x250mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792MSSX9/?tag=tolees-21'
+descuento: '48.19'
+titulo: 'Safta Bolsa De Deporte Benetton Boy Ofic'
 ---
 
 Tienes [Safta Bolsa De Deporte Benetton Boy Oficial 500x250x250mm](https://www.amazon.es/dp/B0792MSSX9/?tag=tolees-21) con un 48.19 % de descuento con precio de oferta de 17.45 EUR (original: 33.68 EUR) en el siguiente enlace!

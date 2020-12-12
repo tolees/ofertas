@@ -17,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'Oniche Alicates Uñas  Cortauñas de Precisión para Uñas Gruesas con Hongos Incrustadas  Tijeras Uñas Preciso y Seguro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P7SJCDX/?tag=tolees-21'
+descuento: '62.53'
+titulo: 'Oniche Alicates Uñas  Cortauñas de Preci'
 ---
 
 Ahora mismo tienes [Oniche Alicates Uñas  Cortauñas de Precisión para Uñas Gruesas con Hongos Incrustadas  Tijeras Uñas Preciso y Seguro](https://www.amazon.es/dp/B07P7SJCDX/?tag=tolees-21) a 8.99 EUR (original: 23.99 EUR) (62.53 %  de descuento) en el siguiente enlace!

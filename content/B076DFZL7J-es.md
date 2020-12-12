@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Resident Evil VII: Biohazard - Gold Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076DFZL7J/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Resident Evil VII: Biohazard - Gold Edit'
 ---
 
 Ahora mismo tienes [Resident Evil VII: Biohazard - Gold Edition](https://www.amazon.es/dp/B076DFZL7J/?tag=tolees-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

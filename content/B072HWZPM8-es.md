@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Under Armour Play Up Capri-Twist Leggings  Mujer  Negro  001   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072HWZPM8/?tag=tolees-21'
+descuento: '53.10'
+titulo: 'Under Armour Play Up Capri-Twist Legging'
 ---
 
 Ahora mismo tienes [Under Armour Play Up Capri-Twist Leggings  Mujer  Negro  001   M](https://www.amazon.es/dp/B072HWZPM8/?tag=tolees-21) a 18.76 EUR (original: 40 EUR) (53.10 %  de descuento) en el siguiente enlace!

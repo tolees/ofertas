@@ -17,6 +17,9 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'Adidas Energy Boost W  Zapatillas de Trail Running para Mujer  Azul  Indnob/Aeroaz/Naalre 000   37 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0786MQNLT/?tag=tolees-21'
+descuento: '46.23'
+titulo: 'Adidas Energy Boost W  Zapatillas de Tra'
 ---
 
 Tienes [Adidas Energy Boost W  Zapatillas de Trail Running para Mujer  Azul  Indnob/Aeroaz/Naalre 000   37 1/3 EU](https://www.amazon.es/dp/B0786MQNLT/?tag=tolees-21) con un 46.23 % de descuento con precio de oferta de 86.01 EUR (original: 159.95 EUR) en el siguiente enlace!

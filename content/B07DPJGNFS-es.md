@@ -17,6 +17,9 @@ comparePrice: 41.32 EUR
 inStock: true
 prodname: 'Symiu Juguetes de Madera Bloques Figuras Geometricas Rompecabezas Niños Montessori Juguetes Tablero para Apilar y Clasificar para Niños 18 Meses +'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPJGNFS/?tag=tolees-21'
+descuento: '63.96'
+titulo: 'Symiu Juguetes de Madera Bloques Figuras'
 ---
 
 Está [Symiu Juguetes de Madera Bloques Figuras Geometricas Rompecabezas Niños Montessori Juguetes Tablero para Apilar y Clasificar para Niños 18 Meses +](https://www.amazon.es/dp/B07DPJGNFS/?tag=tolees-21) con 63.96 de descuento por 14.89 EUR (original: 41.32 EUR) en el siguiente enlace!

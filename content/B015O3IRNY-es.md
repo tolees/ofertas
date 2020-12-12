@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Superga 2750 Cotu Classic - Zapatillas Mujer  Verde  Green  Green Teal    37'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015O3IRNY/?tag=tolees-21'
+descuento: '25.71'
+titulo: 'Superga 2750 Cotu Classic - Zapatillas M'
 ---
 
 Tienes [Superga 2750 Cotu Classic - Zapatillas Mujer  Verde  Green  Green Teal    37](https://www.amazon.es/dp/B015O3IRNY/?tag=tolees-21) con un 25.71 % de descuento con precio de oferta de 43.83 EUR (original: 59 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 37.19 EUR
 inStock: true
 prodname: 'Agatha Ruiz de la Prada-16859 Mochila Grande  pilares  Miquel-Rius 16859 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CGLF6VX/?tag=tolees-21'
+descuento: '56.20'
+titulo: 'Agatha Ruiz de la Prada-16859 Mochila Gr'
 ---
 
 Está [Agatha Ruiz de la Prada-16859 Mochila Grande  pilares  Miquel-Rius 16859 ](https://www.amazon.es/dp/B07CGLF6VX/?tag=tolees-21) con 56.20 de descuento por 16.29 EUR (original: 37.19 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'DC Shoes Empire Henge T-Shirt  Niños  Bright White-Solid  10/S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078XMY9Z2/?tag=tolees-21'
+descuento: '44.38'
+titulo: 'DC Shoes Empire Henge T-Shirt  Niños  Br'
 ---
 
 Ahora mismo tienes [DC Shoes Empire Henge T-Shirt  Niños  Bright White-Solid  10/S](https://www.amazon.es/dp/B078XMY9Z2/?tag=tolees-21) a 13.9 EUR (original: 24.99 EUR) (44.38 %  de descuento) en el siguiente enlace!

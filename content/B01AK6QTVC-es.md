@@ -17,6 +17,9 @@ comparePrice: 57.49 EUR
 inStock: true
 prodname: 'Adidas Vs Advantage  Zapatillas de Deporte para Hombre  Negro  Core Black Footwear White 0   47 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AK6QTVC/?tag=tolees-21'
+descuento: '39.17'
+titulo: 'Adidas Vs Advantage  Zapatillas de Depor'
 ---
 
 Está [Adidas Vs Advantage  Zapatillas de Deporte para Hombre  Negro  Core Black Footwear White 0   47 1/3 EU](https://www.amazon.es/dp/B01AK6QTVC/?tag=tolees-21) con 39.17 de descuento por 34.97 EUR (original: 57.49 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'K-Swiss Aeronaut  Zapatillas para Mujer  Rosa  Peaches N  Cream/Alloy 655   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075V4M3SW/?tag=tolees-21'
+descuento: '54.33'
+titulo: 'K-Swiss Aeronaut  Zapatillas para Mujer '
 ---
 
 Está [K-Swiss Aeronaut  Zapatillas para Mujer  Rosa  Peaches N  Cream/Alloy 655   37.5 EU](https://www.amazon.es/dp/B075V4M3SW/?tag=tolees-21) con 54.33 de descuento por 27.4 EUR (original: 59.99 EUR) en el siguiente enlace!

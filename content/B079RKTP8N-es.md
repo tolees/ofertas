@@ -17,6 +17,9 @@ comparePrice: 21.42 EUR
 inStock: true
 prodname: 'Levi s Levis 200SF Vintage Stripe 0312 Boxer Brief 2P  Hombre  Schwarz  Red/Black 786  XL Pack de 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RKTP8N/?tag=tolees-21'
+descuento: '37.21'
+titulo: 'Levi s Levis 200SF Vintage Stripe 0312 B'
 ---
 
 Tienes [Levi s Levis 200SF Vintage Stripe 0312 Boxer Brief 2P  Hombre  Schwarz  Red/Black 786  XL Pack de 2](https://www.amazon.es/dp/B079RKTP8N/?tag=tolees-21) con un 37.21 % de descuento con precio de oferta de 13.45 EUR (original: 21.42 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Clarks Botanic Ivy  Sandalia con Pulsera para Mujer  Azul  Navy Canvas-   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FR7FRNJ/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Clarks Botanic Ivy  Sandalia con Pulsera'
 ---
 
 Ahora mismo tienes [Clarks Botanic Ivy  Sandalia con Pulsera para Mujer  Azul  Navy Canvas-   38 EU](https://www.amazon.es/dp/B07FR7FRNJ/?tag=tolees-21) a 44.95 EUR (original: 89.95 EUR) (50.03 %  de descuento) en el siguiente enlace!

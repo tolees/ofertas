@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Telefunken TM28.1 Classy - Móvil de Teclas Grandes  2.4"  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M026PRE/?tag=tolees-21'
+descuento: '50.39'
+titulo: 'Telefunken TM28.1 Classy - Móvil de Tecl'
 ---
 
 Tienes [Telefunken TM28.1 Classy - Móvil de Teclas Grandes  2.4"  Color Negro](https://www.amazon.es/dp/B01M026PRE/?tag=tolees-21) con un 50.39 % de descuento con precio de oferta de 24.8 EUR (original: 49.99 EUR) en el siguiente enlace!

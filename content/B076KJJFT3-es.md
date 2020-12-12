@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'edc by Esprit 127cc1b047 Pantalones  Negro  Black 001   34 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076KJJFT3/?tag=tolees-21'
+descuento: '52.59'
+titulo: 'edc by Esprit 127cc1b047 Pantalones  Neg'
 ---
 
 Está [edc by Esprit 127cc1b047 Pantalones  Negro  Black 001   34 para Mujer](https://www.amazon.es/dp/B076KJJFT3/?tag=tolees-21) con 52.59 de descuento por 23.7 EUR (original: 49.99 EUR) en el siguiente enlace!

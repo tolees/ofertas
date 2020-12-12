@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Nike Ebernon Mid  Zapatillas Altas para Mujer  Blanco White 100  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCDKBY7/?tag=tolees-21'
+descuento: '29.76'
+titulo: 'Nike Ebernon Mid  Zapatillas Altas para '
 ---
 
 Ahora mismo tienes [Nike Ebernon Mid  Zapatillas Altas para Mujer  Blanco White 100  42 EU](https://www.amazon.es/dp/B07DCDKBY7/?tag=tolees-21) a 49.17 EUR (original: 70 EUR) (29.76 %  de descuento) en el siguiente enlace!

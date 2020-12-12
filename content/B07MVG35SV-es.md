@@ -17,6 +17,9 @@ comparePrice: 45.1 EUR
 inStock: true
 prodname: 'Mandolina de Cocina Multiusos con Espiralizador Prep Naturals - Cortadores de Verduras y Ralladores Ajustables para Cortar en Rodajas  Juliana  Espiral y Rallar - Con Recipiente y Guanto de Protección'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MVG35SV/?tag=tolees-21'
+descuento: '66.85'
+titulo: 'Mandolina de Cocina Multiusos con Espira'
 ---
 
 Tienes [Mandolina de Cocina Multiusos con Espiralizador Prep Naturals - Cortadores de Verduras y Ralladores Ajustables para Cortar en Rodajas  Juliana  Espiral y Rallar - Con Recipiente y Guanto de Protección](https://www.amazon.es/dp/B07MVG35SV/?tag=tolees-21) con un 66.85 % de descuento con precio de oferta de 14.95 EUR (original: 45.1 EUR) en el siguiente enlace!

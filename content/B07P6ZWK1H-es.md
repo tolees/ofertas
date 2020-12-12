@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Amzdeal Grifo Termostático Ducha Termostato de Ducha con 38°C Control  Plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P6ZWK1H/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Amzdeal Grifo Termostático Ducha Termost'
 ---
 
 Ahora mismo tienes [Amzdeal Grifo Termostático Ducha Termostato de Ducha con 38°C Control  Plateado](https://www.amazon.es/dp/B07P6ZWK1H/?tag=tolees-21) a 39.99 EUR (original: 59.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

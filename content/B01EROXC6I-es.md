@@ -17,6 +17,9 @@ comparePrice: 21.95 EUR
 inStock: true
 prodname: 'Joma Free 900218 Short  Mujer  Burdeos  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EROXC6I/?tag=tolees-21'
+descuento: '52.16'
+titulo: 'Joma Free 900218 Short  Mujer  Burdeos  '
 ---
 
 Está [Joma Free 900218 Short  Mujer  Burdeos  S](https://www.amazon.es/dp/B01EROXC6I/?tag=tolees-21) con 52.16 de descuento por 10.5 EUR (original: 21.95 EUR) en el siguiente enlace!

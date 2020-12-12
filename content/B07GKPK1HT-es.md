@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Levi s Big and Tall 514 B&t Vaqueros Straight  Azul  Road Rinse 4-Waxy 0014   W50/L32 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GKPK1HT/?tag=tolees-21'
+descuento: '50.23'
+titulo: 'Levi s Big and Tall 514 B&t Vaqueros Str'
 ---
 
 Ahora mismo tienes [Levi s Big and Tall 514 B&t Vaqueros Straight  Azul  Road Rinse 4-Waxy 0014   W50/L32 para Hombre](https://www.amazon.es/dp/B07GKPK1HT/?tag=tolees-21) a 49.77 EUR (original: 100 EUR) (50.23 %  de descuento) en el siguiente enlace!

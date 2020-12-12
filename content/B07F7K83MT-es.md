@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Puma explosiva Box - Camiseta  Mujer  516756  Winsome Orchid  Extra-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7K83MT/?tag=tolees-21'
+descuento: '57.27'
+titulo: 'Puma explosiva Box - Camiseta  Mujer  51'
 ---
 
 Está [Puma explosiva Box - Camiseta  Mujer  516756  Winsome Orchid  Extra-Large](https://www.amazon.es/dp/B07F7K83MT/?tag=tolees-21) con 57.27 de descuento por 14.95 EUR (original: 34.99 EUR) en el siguiente enlace!

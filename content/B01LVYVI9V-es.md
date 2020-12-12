@@ -17,6 +17,9 @@ comparePrice: 20.9 EUR
 inStock: true
 prodname: 'Luxburg - Nuevo diseño Funda de Neopreno Suave Bolsa de Funda para portátil de 10/portátil/Tablet - Bandera Pirata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LVYVI9V/?tag=tolees-21'
+descuento: '52.63'
+titulo: 'Luxburg - Nuevo diseño Funda de Neopreno'
 ---
 
 Está [Luxburg - Nuevo diseño Funda de Neopreno Suave Bolsa de Funda para portátil de 10/portátil/Tablet - Bandera Pirata](https://www.amazon.es/dp/B01LVYVI9V/?tag=tolees-21) con 52.63 de descuento por 9.9 EUR (original: 20.9 EUR) en el siguiente enlace!

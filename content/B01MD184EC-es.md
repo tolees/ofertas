@@ -17,6 +17,9 @@ comparePrice: 259.99 EUR
 inStock: true
 prodname: 'Caso Centro Sous Vide Cocina al vacío  1200 W  Acero Inoxidable  Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MD184EC/?tag=tolees-21'
+descuento: '63.42'
+titulo: 'Caso Centro Sous Vide Cocina al vacío  1'
 ---
 
 Ahora mismo tienes [Caso Centro Sous Vide Cocina al vacío  1200 W  Acero Inoxidable  Gris](https://www.amazon.es/dp/B01MD184EC/?tag=tolees-21) a 95.11 EUR (original: 259.99 EUR) (63.42 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'MTNG Attitude 56406  Zapatillas para Mujer   Raspe Nylon Minerva Negro C42957   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQSTZ92/?tag=tolees-21'
+descuento: '34.07'
+titulo: 'MTNG Attitude 56406  Zapatillas para Muj'
 ---
 
 Tienes [MTNG Attitude 56406  Zapatillas para Mujer   Raspe Nylon Minerva Negro C42957   36 EU](https://www.amazon.es/dp/B07DQSTZ92/?tag=tolees-21) con un 34.07 % de descuento con precio de oferta de 23.73 EUR (original: 35.99 EUR) en el siguiente enlace!

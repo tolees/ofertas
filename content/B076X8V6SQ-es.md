@@ -17,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Geox U Avery A  Zapatillas para Hombre  Negro  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076X8V6SQ/?tag=tolees-21'
+descuento: '54.39'
+titulo: 'Geox U Avery A  Zapatillas para Hombre  '
 ---
 
 Tienes [Geox U Avery A  Zapatillas para Hombre  Negro  43 EU](https://www.amazon.es/dp/B076X8V6SQ/?tag=tolees-21) con un 54.39 % de descuento con precio de oferta de 50.12 EUR (original: 109.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'hummel Slimmer Stadil HB High  Zapatillas Altas para Mujer  Gris  Alloy 1100   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BR393VJ/?tag=tolees-21'
+descuento: '71.57'
+titulo: 'hummel Slimmer Stadil HB High  Zapatilla'
 ---
 
 Está [hummel Slimmer Stadil HB High  Zapatillas Altas para Mujer  Gris  Alloy 1100   37 EU](https://www.amazon.es/dp/B07BR393VJ/?tag=tolees-21) con 71.57 de descuento por 22.73 EUR (original: 79.95 EUR) en el siguiente enlace!

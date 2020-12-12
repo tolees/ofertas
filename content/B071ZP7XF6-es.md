@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Joyhero Eléctrico Laser Infrarrojo Termómetro/pirómetro - Medidor de temperatura  de 50 a + 400 °c  con LCD Retroiluminación'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071ZP7XF6/?tag=tolees-21'
+descuento: '67.52'
+titulo: 'Joyhero Eléctrico Laser Infrarrojo Termó'
 ---
 
 Tienes [Joyhero Eléctrico Laser Infrarrojo Termómetro/pirómetro - Medidor de temperatura  de 50 a + 400 °c  con LCD Retroiluminación](https://www.amazon.es/dp/B071ZP7XF6/?tag=tolees-21) con un 67.52 % de descuento con precio de oferta de 12.99 EUR (original: 39.99 EUR) en el siguiente enlace!

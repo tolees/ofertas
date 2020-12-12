@@ -17,6 +17,9 @@ comparePrice: 179.99 EUR
 inStock: true
 prodname: 'Canon IXUS 190 - Cámara compacta de 20 MP  Pantalla de 2.7"  20x ZoomPlus  Modo Smart Auto  Date Button  Easy Auto  Creative Filter  Canon Camera Connect  WiFi  Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NAR8O1I/?tag=tolees-21'
+descuento: '25.38'
+titulo: 'Canon IXUS 190 - Cámara compacta de 20 M'
 ---
 
 Está [Canon IXUS 190 - Cámara compacta de 20 MP  Pantalla de 2.7"  20x ZoomPlus  Modo Smart Auto  Date Button  Easy Auto  Creative Filter  Canon Camera Connect  WiFi  Plata](https://www.amazon.es/dp/B01NAR8O1I/?tag=tolees-21) con 25.38 de descuento por 134.3 EUR (original: 179.99 EUR) en el siguiente enlace!

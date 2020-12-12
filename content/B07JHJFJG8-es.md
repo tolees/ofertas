@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Sobrenatural Temporada 13 Blu-Ray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHJFJG8/?tag=tolees-21'
+descuento: '45.01'
+titulo: 'Sobrenatural Temporada 13 Blu-Ray [Blu-r'
 ---
 
 Tienes [Sobrenatural Temporada 13 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07JHJFJG8/?tag=tolees-21) con un 45.01 % de descuento con precio de oferta de 19.79 EUR (original: 35.99 EUR) en el siguiente enlace!

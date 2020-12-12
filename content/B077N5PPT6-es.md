@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'POLO NOX NILY BLANCO'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077N5PPT6/?tag=tolees-21'
+descuento: '76.21'
+titulo: 'POLO NOX NILY BLANCO'
 ---
 
 Está [POLO NOX NILY BLANCO](https://www.amazon.es/dp/B077N5PPT6/?tag=tolees-21) con 76.21 de descuento por 6.9 EUR (original: 29 EUR) en el siguiente enlace!

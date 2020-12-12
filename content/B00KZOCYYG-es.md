@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Merrell All Out Blaze Sieve Zapatillas Impermeables Hombre  Marrón  Brindle/B. Scotch   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KZOCYYG/?tag=tolees-21'
+descuento: '29.54'
+titulo: 'Merrell All Out Blaze Sieve Zapatillas I'
 ---
 
 Tienes [Merrell All Out Blaze Sieve Zapatillas Impermeables Hombre  Marrón  Brindle/B. Scotch   42 EU](https://www.amazon.es/dp/B00KZOCYYG/?tag=tolees-21) con un 29.54 % de descuento con precio de oferta de 81.03 EUR (original: 115 EUR) en el siguiente enlace!

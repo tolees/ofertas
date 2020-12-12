@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Puma Escaper Tech Zapatillas de deporte Unisex adulto  Blanco  Puma White-Silver-High Risk Red   39 EU  6 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCM5TFP/?tag=tolees-21'
+descuento: '56.68'
+titulo: 'Puma Escaper Tech Zapatillas de deporte '
 ---
 
 Tienes [Puma Escaper Tech Zapatillas de deporte Unisex adulto  Blanco  Puma White-Silver-High Risk Red   39 EU  6 UK ](https://www.amazon.es/dp/B07DCM5TFP/?tag=tolees-21) con un 56.68 % de descuento con precio de oferta de 21.64 EUR (original: 49.95 EUR) en el siguiente enlace!

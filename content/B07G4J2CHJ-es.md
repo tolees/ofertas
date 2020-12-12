@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'BOSS Pike  Pantalones Cortos Hombre  Negro  Black 007   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4J2CHJ/?tag=tolees-21'
+descuento: '46.25'
+titulo: 'BOSS Pike  Pantalones Cortos Hombre  Neg'
 ---
 
 Está [BOSS Pike  Pantalones Cortos Hombre  Negro  Black 007   Small](https://www.amazon.es/dp/B07G4J2CHJ/?tag=tolees-21) con 46.25 de descuento por 37.6 EUR (original: 69.95 EUR) en el siguiente enlace!

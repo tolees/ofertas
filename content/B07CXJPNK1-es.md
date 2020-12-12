@@ -17,6 +17,9 @@ comparePrice: 19 EUR
 inStock: true
 prodname: 'Vaptio N1 Pro 240W Mod Cigarrillos electrónicos E-Cigarette TPD Cumple  Sin Tabaco y Sin Nicotina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CXJPNK1/?tag=tolees-21'
+descuento: '26.37'
+titulo: 'Vaptio N1 Pro 240W Mod Cigarrillos elect'
 ---
 
 Ahora mismo tienes [Vaptio N1 Pro 240W Mod Cigarrillos electrónicos E-Cigarette TPD Cumple  Sin Tabaco y Sin Nicotina](https://www.amazon.es/dp/B07CXJPNK1/?tag=tolees-21) a 13.99 EUR (original: 19 EUR) (26.37 %  de descuento) en el siguiente enlace!

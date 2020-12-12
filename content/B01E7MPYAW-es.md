@@ -17,6 +17,9 @@ comparePrice: 11.9 EUR
 inStock: true
 prodname: 'Lékué Espátula Smart Tool  Silicona  Azul  0 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01E7MPYAW/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Lékué Espátula Smart Tool  Silicona  Azu'
 ---
 
 Ahora mismo tienes [Lékué Espátula Smart Tool  Silicona  Azul  0 cm](https://www.amazon.es/dp/B01E7MPYAW/?tag=tolees-21) a 5.95 EUR (original: 11.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

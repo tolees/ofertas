@@ -17,6 +17,9 @@ comparePrice: 25.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton L/s Sweater  suéter Niños  Beige  Beige 1k3   92  Talla del Fabricante: 1y '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBCRLNT/?tag=tolees-21'
+descuento: '68.48'
+titulo: 'United Colors of Benetton L/s Sweater  s'
 ---
 
 Está [United Colors of Benetton L/s Sweater  suéter Niños  Beige  Beige 1k3   92  Talla del Fabricante: 1y ](https://www.amazon.es/dp/B07DBCRLNT/?tag=tolees-21) con 68.48 de descuento por 8.18 EUR (original: 25.95 EUR) en el siguiente enlace!

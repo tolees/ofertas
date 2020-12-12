@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Hush Puppies Mytee Marloe  Botas para Mujer  Marrón  Tan   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073H2CNYW/?tag=tolees-21'
+descuento: '75.66'
+titulo: 'Hush Puppies Mytee Marloe  Botas para Mu'
 ---
 
 Tienes [Hush Puppies Mytee Marloe  Botas para Mujer  Marrón  Tan   41 EU](https://www.amazon.es/dp/B073H2CNYW/?tag=tolees-21) con un 75.66 % de descuento con precio de oferta de 24.34 EUR (original: 100 EUR) en el siguiente enlace!

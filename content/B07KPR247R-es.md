@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Gant TG Breton Striped Jersey Dress Vestido  Azul  Evening Blue 433   152  Talla del Fabricante: 146/152  para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPR247R/?tag=tolees-21'
+descuento: '55.06'
+titulo: 'Gant TG Breton Striped Jersey Dress Vest'
 ---
 
 Ahora mismo tienes [Gant TG Breton Striped Jersey Dress Vestido  Azul  Evening Blue 433   152  Talla del Fabricante: 146/152  para Niñas](https://www.amazon.es/dp/B07KPR247R/?tag=tolees-21) a 35.95 EUR (original: 79.99 EUR) (55.06 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65.1 EUR
 inStock: true
 prodname: 'S&M 94884 - Programador Estaciones Modelo Ultra 4 Zonas  Gris  6 5 x 23 5x 15 5 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00D78NMFM/?tag=tolees-21'
+descuento: '53.92'
+titulo: 'S&M 94884 - Programador Estaciones Model'
 ---
 
 Tienes [S&M 94884 - Programador Estaciones Modelo Ultra 4 Zonas  Gris  6 5 x 23 5x 15 5 cm](https://www.amazon.es/dp/B00D78NMFM/?tag=tolees-21) con un 53.92 % de descuento con precio de oferta de 30 EUR (original: 65.1 EUR) en el siguiente enlace!

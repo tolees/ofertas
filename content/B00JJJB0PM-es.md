@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Swarovski Stone Bracciale rigido  Bianco  placcatura rodio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JJJB0PM/?tag=tolees-21'
+descuento: '59.71'
+titulo: 'Swarovski Stone Bracciale rigido  Bianco'
 ---
 
 Tienes [Swarovski Stone Bracciale rigido  Bianco  placcatura rodio](https://www.amazon.es/dp/B00JJJB0PM/?tag=tolees-21) con un 59.71 % de descuento con precio de oferta de 47.95 EUR (original: 119 EUR) en el siguiente enlace!

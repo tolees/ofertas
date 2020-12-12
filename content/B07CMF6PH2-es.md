@@ -17,6 +17,9 @@ comparePrice: 279 EUR
 inStock: true
 prodname: 'Sony Xperia Ear Duo – Auricular inalámbrico bluetooth Open Ear  color dorado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CMF6PH2/?tag=tolees-21'
+descuento: '30.61'
+titulo: 'Sony Xperia Ear Duo – Auricular inalámbr'
 ---
 
 Tienes [Sony Xperia Ear Duo – Auricular inalámbrico bluetooth Open Ear  color dorado](https://www.amazon.es/dp/B07CMF6PH2/?tag=tolees-21) con un 30.61 % de descuento con precio de oferta de 193.61 EUR (original: 279 EUR) en el siguiente enlace!

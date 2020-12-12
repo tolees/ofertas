@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Reebok Instalite Pro  Zapatillas de Trail Running para Mujer  Negro  Black/Ash Grey/White 000   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074MVLJR8/?tag=tolees-21'
+descuento: '64.70'
+titulo: 'Reebok Instalite Pro  Zapatillas de Trai'
 ---
 
 Está [Reebok Instalite Pro  Zapatillas de Trail Running para Mujer  Negro  Black/Ash Grey/White 000   38 EU](https://www.amazon.es/dp/B074MVLJR8/?tag=tolees-21) con 64.70 de descuento por 21.16 EUR (original: 59.95 EUR) en el siguiente enlace!

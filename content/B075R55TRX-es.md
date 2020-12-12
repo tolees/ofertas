@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'LANGRIA Carrito Auxiliar de 4 Baldas Metálicas con Ruedas y Pies Intercambiables 2 Ganchos Laterales para Colgar Trapos 40 kg Capacidad Máxima para Organizar Cocina Baño Salón  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R55TRX/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'LANGRIA Carrito Auxiliar de 4 Baldas Met'
 ---
 
 Está [LANGRIA Carrito Auxiliar de 4 Baldas Metálicas con Ruedas y Pies Intercambiables 2 Ganchos Laterales para Colgar Trapos 40 kg Capacidad Máxima para Organizar Cocina Baño Salón  Negro ](https://www.amazon.es/dp/B075R55TRX/?tag=tolees-21) con 33.34 de descuento por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!

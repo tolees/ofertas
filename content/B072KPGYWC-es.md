@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Salewa Ms Ultra Train 2  Zapatillas de Senderismo para Hombre  Azul  Dark Denim/Royal Blue 3424   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072KPGYWC/?tag=tolees-21'
+descuento: '54.70'
+titulo: 'Salewa Ms Ultra Train 2  Zapatillas de S'
 ---
 
 Tienes [Salewa Ms Ultra Train 2  Zapatillas de Senderismo para Hombre  Azul  Dark Denim/Royal Blue 3424   42 EU](https://www.amazon.es/dp/B072KPGYWC/?tag=tolees-21) con un 54.70 % de descuento con precio de oferta de 67.95 EUR (original: 150 EUR) en el siguiente enlace!

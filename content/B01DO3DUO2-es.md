@@ -17,6 +17,9 @@ comparePrice: 229 EUR
 inStock: true
 prodname: 'Reloj Hugo BOSS para Mujer 1502386'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DO3DUO2/?tag=tolees-21'
+descuento: '47.59'
+titulo: 'Reloj Hugo BOSS para Mujer 1502386'
 ---
 
 Tienes [Reloj Hugo BOSS para Mujer 1502386](https://www.amazon.es/dp/B01DO3DUO2/?tag=tolees-21) con un 47.59 % de descuento con precio de oferta de 120.03 EUR (original: 229 EUR) en el siguiente enlace!

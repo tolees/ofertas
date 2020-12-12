@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 43lr004  Zapatillas Altas para Hombre  Marrón  Cafe 320   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJLNT7M/?tag=tolees-21'
+descuento: '59.17'
+titulo: 'Dockers by Gerli 43lr004  Zapatillas Alt'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 43lr004  Zapatillas Altas para Hombre  Marrón  Cafe 320   43 EU](https://www.amazon.es/dp/B07DJLNT7M/?tag=tolees-21) a 24.48 EUR (original: 59.95 EUR) (59.17 %  de descuento) en el siguiente enlace!

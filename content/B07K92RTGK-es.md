@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Esprit Kids Kleid Vestido  Rosa  Dark Pink 326   Talla del Fabricante: 116+ para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K92RTGK/?tag=tolees-21'
+descuento: '58.35'
+titulo: 'Esprit Kids Kleid Vestido  Rosa  Dark Pi'
 ---
 
 Tienes [Esprit Kids Kleid Vestido  Rosa  Dark Pink 326   Talla del Fabricante: 116+ para Niñas](https://www.amazon.es/dp/B07K92RTGK/?tag=tolees-21) con un 58.35 % de descuento con precio de oferta de 14.99 EUR (original: 35.99 EUR) en el siguiente enlace!

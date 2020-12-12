@@ -17,6 +17,9 @@ comparePrice: 23 EUR
 inStock: true
 prodname: 'BILLABONG Unity tee SS Camiseta  Hombre  Azul  Aqua Blue 529   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGTVGDC/?tag=tolees-21'
+descuento: '30.22'
+titulo: 'BILLABONG Unity tee SS Camiseta  Hombre '
 ---
 
 Está [BILLABONG Unity tee SS Camiseta  Hombre  Azul  Aqua Blue 529   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KGTVGDC/?tag=tolees-21) con 30.22 de descuento por 16.05 EUR (original: 23 EUR) en el siguiente enlace!

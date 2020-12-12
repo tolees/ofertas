@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Skechers Flex Advantage 2.0  Zapatillas Altas para Hombre  Negro  Black   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01G4F7BS8/?tag=tolees-21'
+descuento: '38.77'
+titulo: 'Skechers Flex Advantage 2.0  Zapatillas '
 ---
 
 Ahora mismo tienes [Skechers Flex Advantage 2.0  Zapatillas Altas para Hombre  Negro  Black   42 EU](https://www.amazon.es/dp/B01G4F7BS8/?tag=tolees-21) a 48.95 EUR (original: 79.95 EUR) (38.77 %  de descuento) en el siguiente enlace!

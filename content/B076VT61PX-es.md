@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301.5  Pantalones Cortos Hombre  Azul  Lt Aged 424   36  Talla del Fabricante: 34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VT61PX/?tag=tolees-21'
+descuento: '53.07'
+titulo: 'G-STAR RAW 3301.5  Pantalones Cortos Hom'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301.5  Pantalones Cortos Hombre  Azul  Lt Aged 424   36  Talla del Fabricante: 34 ](https://www.amazon.es/dp/B076VT61PX/?tag=tolees-21) a 32.83 EUR (original: 69.95 EUR) (53.07 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 41.5 EUR
 inStock: true
 prodname: 'Logitech M330 Silent Plus - Ratón inalámbrico silencioso con Seguimiento óptico  Alcance 10 m  1 x Pila AA  Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01K7GEA3O/?tag=tolees-21'
+descuento: '51.83'
+titulo: 'Logitech M330 Silent Plus - Ratón inalám'
 ---
 
 Ahora mismo tienes [Logitech M330 Silent Plus - Ratón inalámbrico silencioso con Seguimiento óptico  Alcance 10 m  1 x Pila AA  Rojo](https://www.amazon.es/dp/B01K7GEA3O/?tag=tolees-21) a 19.99 EUR (original: 41.5 EUR) (51.83 %  de descuento) en el siguiente enlace!

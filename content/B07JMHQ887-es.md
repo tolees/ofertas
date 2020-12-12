@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'XTI 48920  Sandalias con Plataforma para Mujer  Negro  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMHQ887/?tag=tolees-21'
+descuento: '36.35'
+titulo: 'XTI 48920  Sandalias con Plataforma para'
 ---
 
 Tienes [XTI 48920  Sandalias con Plataforma para Mujer  Negro  40 EU](https://www.amazon.es/dp/B07JMHQ887/?tag=tolees-21) con un 36.35 % de descuento con precio de oferta de 25.43 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'find. 17 04 159 camisetas  Negro  Black   36  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074FXR94M/?tag=tolees-21'
+descuento: '51.18'
+titulo: 'find. 17 04 159 camisetas  Negro  Black '
 ---
 
 Tienes [find. 17 04 159 camisetas  Negro  Black   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B074FXR94M/?tag=tolees-21) con un 51.18 % de descuento con precio de oferta de 10.74 EUR (original: 22 EUR) en el siguiente enlace!

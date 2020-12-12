@@ -17,6 +17,9 @@ comparePrice: 26.78 EUR
 inStock: true
 prodname: 'adidas Parma II SHT WO - Pantalón corto para hombre  color rojo/blanco  talla XXS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000G4T0PG/?tag=tolees-21'
+descuento: '47.72'
+titulo: 'adidas Parma II SHT WO - Pantalón corto '
 ---
 
 Está [adidas Parma II SHT WO - Pantalón corto para hombre  color rojo/blanco  talla XXS](https://www.amazon.es/dp/B000G4T0PG/?tag=tolees-21) con 47.72 de descuento por 14 EUR (original: 26.78 EUR) en el siguiente enlace!

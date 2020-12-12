@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Yogini Lux Strappy Top Corto  Mujer  Fucsia  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0733L7VGL/?tag=tolees-21'
+descuento: '37.12'
+titulo: 'Puma Yogini Lux Strappy Top Corto  Mujer'
 ---
 
 Ahora mismo tienes [Puma Yogini Lux Strappy Top Corto  Mujer  Fucsia  L](https://www.amazon.es/dp/B0733L7VGL/?tag=tolees-21) a 25.12 EUR (original: 39.95 EUR) (37.12 %  de descuento) en el siguiente enlace!

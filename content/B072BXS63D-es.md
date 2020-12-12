@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Under Armour Playmaker Fix SL  Zapatos de Playa y Piscina para Mujer  Negro  Black//Cerise 001   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BXS63D/?tag=tolees-21'
+descuento: '45.20'
+titulo: 'Under Armour Playmaker Fix SL  Zapatos d'
 ---
 
 Tienes [Under Armour Playmaker Fix SL  Zapatos de Playa y Piscina para Mujer  Negro  Black//Cerise 001   43 EU](https://www.amazon.es/dp/B072BXS63D/?tag=tolees-21) con un 45.20 % de descuento con precio de oferta de 16.44 EUR (original: 30 EUR) en el siguiente enlace!

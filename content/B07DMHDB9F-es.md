@@ -17,6 +17,9 @@ comparePrice: 25.11 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 9p729 Bañador  Verde  Kaki 01981   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DMHDB9F/?tag=tolees-21'
+descuento: '50.26'
+titulo: 'Emporio Armani Underwear 9p729 Bañador  '
 ---
 
 Está [Emporio Armani Underwear 9p729 Bañador  Verde  Kaki 01981   XX-Large para Hombre](https://www.amazon.es/dp/B07DMHDB9F/?tag=tolees-21) con 50.26 de descuento por 12.49 EUR (original: 25.11 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Go Walk 4  Zapatillas para Mujer  Morado  Mauve MVE   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CW2DN6R/?tag=tolees-21'
+descuento: '57.31'
+titulo: 'Skechers Go Walk 4  Zapatillas para Muje'
 ---
 
 Tienes [Skechers Go Walk 4  Zapatillas para Mujer  Morado  Mauve MVE   39.5 EU](https://www.amazon.es/dp/B07CW2DN6R/?tag=tolees-21) con un 57.31 % de descuento con precio de oferta de 27.73 EUR (original: 64.95 EUR) en el siguiente enlace!

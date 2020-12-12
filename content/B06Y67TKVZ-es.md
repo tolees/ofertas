@@ -17,6 +17,9 @@ comparePrice: 11.85 EUR
 inStock: true
 prodname: 'Palette Intense Cream Coloration Intensive Coloración del Cabello 6 Rubio Oscuro - Pack de 3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y67TKVZ/?tag=tolees-21'
+descuento: '44.64'
+titulo: 'Palette Intense Cream Coloration Intensi'
 ---
 
 Está [Palette Intense Cream Coloration Intensive Coloración del Cabello 6 Rubio Oscuro - Pack de 3](https://www.amazon.es/dp/B06Y67TKVZ/?tag=tolees-21) con 44.64 de descuento por 6.56 EUR (original: 11.85 EUR) en el siguiente enlace!

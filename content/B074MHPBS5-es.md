@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Star Wars Pack de Mini Tazas  Cerámica  5.5 cm  4 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074MHPBS5/?tag=tolees-21'
+descuento: '39.88'
+titulo: 'Star Wars Pack de Mini Tazas  Cerámica  '
 ---
 
 Está [Star Wars Pack de Mini Tazas  Cerámica  5.5 cm  4 Unidades](https://www.amazon.es/dp/B074MHPBS5/?tag=tolees-21) con 39.88 de descuento por 15 EUR (original: 24.95 EUR) en el siguiente enlace!

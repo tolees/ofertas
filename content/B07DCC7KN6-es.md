@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma NRGY Neko Sport Wn s  Zapatillas de Running para Mujer  Azul  Peacoat-Lilac Sachet White   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCC7KN6/?tag=tolees-21'
+descuento: '61.02'
+titulo: 'Puma NRGY Neko Sport Wn s  Zapatillas de'
 ---
 
 Ahora mismo tienes [Puma NRGY Neko Sport Wn s  Zapatillas de Running para Mujer  Azul  Peacoat-Lilac Sachet White   37.5 EU](https://www.amazon.es/dp/B07DCC7KN6/?tag=tolees-21) a 27.27 EUR (original: 69.95 EUR) (61.02 %  de descuento) en el siguiente enlace!

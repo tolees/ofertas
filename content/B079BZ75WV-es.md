@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Wonyered 12 pares Calcetines de Algodón Antideslizantes para Bebés Chicos y Chicas 1-36 Meses para 4 estaciones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079BZ75WV/?tag=tolees-21'
+descuento: '55.58'
+titulo: 'Wonyered 12 pares Calcetines de Algodón '
 ---
 
 Está [Wonyered 12 pares Calcetines de Algodón Antideslizantes para Bebés Chicos y Chicas 1-36 Meses para 4 estaciones](https://www.amazon.es/dp/B079BZ75WV/?tag=tolees-21) con 55.58 de descuento por 11.99 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Geox D Deynna E  Zapatillas para Mujer  Morado  Coffee/Prune   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y1BLHLJ/?tag=tolees-21'
+descuento: '55.93'
+titulo: 'Geox D Deynna E  Zapatillas para Mujer  '
 ---
 
 Está [Geox D Deynna E  Zapatillas para Mujer  Morado  Coffee/Prune   39 EU](https://www.amazon.es/dp/B06Y1BLHLJ/?tag=tolees-21) con 55.93 de descuento por 37.46 EUR (original: 85 EUR) en el siguiente enlace!

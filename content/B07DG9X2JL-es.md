@@ -17,6 +17,9 @@ comparePrice: 42.95 EUR
 inStock: true
 prodname: 'Gioseppo Zapatillas para Hombre  Azul  Marino 45569-P   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG9X2JL/?tag=tolees-21'
+descuento: '55.90'
+titulo: 'Gioseppo Zapatillas para Hombre  Azul  M'
 ---
 
 Tienes [Gioseppo Zapatillas para Hombre  Azul  Marino 45569-P   42 EU](https://www.amazon.es/dp/B07DG9X2JL/?tag=tolees-21) con un 55.90 % de descuento con precio de oferta de 18.94 EUR (original: 42.95 EUR) en el siguiente enlace!

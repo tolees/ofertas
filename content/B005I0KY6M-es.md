@@ -17,6 +17,9 @@ comparePrice: 67.14 EUR
 inStock: true
 prodname: 'Fleshjack Masturbadores Él - 1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005I0KY6M/?tag=tolees-21'
+descuento: '42.08'
+titulo: 'Fleshjack Masturbadores Él - 1 unidad'
 ---
 
 Ahora mismo tienes [Fleshjack Masturbadores Él - 1 unidad](https://www.amazon.es/dp/B005I0KY6M/?tag=tolees-21) a 38.89 EUR (original: 67.14 EUR) (42.08 %  de descuento) en el siguiente enlace!

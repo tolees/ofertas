@@ -17,6 +17,9 @@ comparePrice: 11.69 EUR
 inStock: true
 prodname: 'Amazon Essentials Regular-Fit 3/4 Sleeve Baseball T-Shirt novelty-t-shirts  azul claro y blanco  US  EU XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HJ94C6T/?tag=tolees-21'
+descuento: '29.43'
+titulo: 'Amazon Essentials Regular-Fit 3/4 Sleeve'
 ---
 
 Ahora mismo tienes [Amazon Essentials Regular-Fit 3/4 Sleeve Baseball T-Shirt novelty-t-shirts  azul claro y blanco  US  EU XS ](https://www.amazon.es/dp/B07HJ94C6T/?tag=tolees-21) a 8.25 EUR (original: 11.69 EUR) (29.43 %  de descuento) en el siguiente enlace!

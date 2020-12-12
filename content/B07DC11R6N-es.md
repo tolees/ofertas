@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma Flourish Wn s  Zapatillas de Running para Mujer  Negro Black-Metallic Gold  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC11R6N/?tag=tolees-21'
+descuento: '26.17'
+titulo: 'Puma Flourish Wn s  Zapatillas de Runnin'
 ---
 
 Tienes [Puma Flourish Wn s  Zapatillas de Running para Mujer  Negro Black-Metallic Gold  37 EU](https://www.amazon.es/dp/B07DC11R6N/?tag=tolees-21) con un 26.17 % de descuento con precio de oferta de 47.95 EUR (original: 64.95 EUR) en el siguiente enlace!

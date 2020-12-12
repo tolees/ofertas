@@ -17,6 +17,9 @@ comparePrice: 17.9 EUR
 inStock: true
 prodname: 'Havaianas Top  Chanclas para Unisex Adulto  Blanco  White   49/50 EU  47/48 Brazilian '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001OI3MR0/?tag=tolees-21'
+descuento: '58.21'
+titulo: 'Havaianas Top  Chanclas para Unisex Adul'
 ---
 
 Está [Havaianas Top  Chanclas para Unisex Adulto  Blanco  White   49/50 EU  47/48 Brazilian ](https://www.amazon.es/dp/B001OI3MR0/?tag=tolees-21) con 58.21 de descuento por 7.48 EUR (original: 17.9 EUR) en el siguiente enlace!

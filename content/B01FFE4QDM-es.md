@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Rieker 30932  Zapatillas Altas para Hombre  Gris  Granit/Grau / 45   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FFE4QDM/?tag=tolees-21'
+descuento: '63.73'
+titulo: 'Rieker 30932  Zapatillas Altas para Homb'
 ---
 
 Ahora mismo tienes [Rieker 30932  Zapatillas Altas para Hombre  Gris  Granit/Grau / 45   44 EU](https://www.amazon.es/dp/B01FFE4QDM/?tag=tolees-21) a 23.56 EUR (original: 64.95 EUR) (63.73 %  de descuento) en el siguiente enlace!

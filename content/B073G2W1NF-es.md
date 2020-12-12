@@ -17,6 +17,9 @@ comparePrice: 23 EUR
 inStock: true
 prodname: 'Siux Pantalon Corto CALIXTO Blanco Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073G2W1NF/?tag=tolees-21'
+descuento: '41.30'
+titulo: 'Siux Pantalon Corto CALIXTO Blanco Negro'
 ---
 
 Está [Siux Pantalon Corto CALIXTO Blanco Negro](https://www.amazon.es/dp/B073G2W1NF/?tag=tolees-21) con 41.30 de descuento por 13.5 EUR (original: 23 EUR) en el siguiente enlace!

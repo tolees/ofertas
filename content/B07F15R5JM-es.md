@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Mustang High Top Sneaker  Zapatillas Altas para Mujer  Gris  Graphite 259   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F15R5JM/?tag=tolees-21'
+descuento: '72.59'
+titulo: 'Mustang High Top Sneaker  Zapatillas Alt'
 ---
 
 Tienes [Mustang High Top Sneaker  Zapatillas Altas para Mujer  Gris  Graphite 259   40 EU](https://www.amazon.es/dp/B07F15R5JM/?tag=tolees-21) con un 72.59 % de descuento con precio de oferta de 19.17 EUR (original: 69.95 EUR) en el siguiente enlace!

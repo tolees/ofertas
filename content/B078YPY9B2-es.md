@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Carpeta para documentos A4  carpeta archivadora  veyette Oficina Nou carpeta Ampliación - Archivador Carpeta  24 bolsillos '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078YPY9B2/?tag=tolees-21'
+descuento: '47.85'
+titulo: 'Carpeta para documentos A4  carpeta arch'
 ---
 
 Ahora mismo tienes [Carpeta para documentos A4  carpeta archivadora  veyette Oficina Nou carpeta Ampliación - Archivador Carpeta  24 bolsillos ](https://www.amazon.es/dp/B078YPY9B2/?tag=tolees-21) a 11.99 EUR (original: 22.99 EUR) (47.85 %  de descuento) en el siguiente enlace!

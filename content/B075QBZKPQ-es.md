@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'SRICAM SP015 Cámara de Vigilancia IP con IR Vision Nocturna  IP66 Impermeable Seguridad Inalámbrica HD 720P IP Cámara Web CAM Detección de Movimiento  EU Enchufe'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075QBZKPQ/?tag=tolees-21'
+descuento: '51.61'
+titulo: 'SRICAM SP015 Cámara de Vigilancia IP con'
 ---
 
 Tienes [SRICAM SP015 Cámara de Vigilancia IP con IR Vision Nocturna  IP66 Impermeable Seguridad Inalámbrica HD 720P IP Cámara Web CAM Detección de Movimiento  EU Enchufe](https://www.amazon.es/dp/B075QBZKPQ/?tag=tolees-21) con un 51.61 % de descuento con precio de oferta de 62.9 EUR (original: 129.99 EUR) en el siguiente enlace!

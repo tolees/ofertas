@@ -17,6 +17,9 @@ comparePrice: 159.99 EUR
 inStock: true
 prodname: 'Multímetro Digital Profesional  LOMVUM DM68 Rango Manual Polimetro Digital 6000 Cuentas y 2000uF Tester Digital'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MQ98LRB/?tag=tolees-21'
+descuento: '85.63'
+titulo: 'Multímetro Digital Profesional  LOMVUM D'
 ---
 
 Tienes [Multímetro Digital Profesional  LOMVUM DM68 Rango Manual Polimetro Digital 6000 Cuentas y 2000uF Tester Digital](https://www.amazon.es/dp/B07MQ98LRB/?tag=tolees-21) con un 85.63 % de descuento con precio de oferta de 22.99 EUR (original: 159.99 EUR) en el siguiente enlace!

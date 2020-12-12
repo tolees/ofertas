@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW D-STAQ 5-Pocket Mid Waist Skinny Vaqueros  Azul  Medium Aged Restored 9136-8918   24W / 28L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0752BGFZK/?tag=tolees-21'
+descuento: '80.72'
+titulo: 'G-STAR RAW D-STAQ 5-Pocket Mid Waist Ski'
 ---
 
 Ahora mismo tienes [G-STAR RAW D-STAQ 5-Pocket Mid Waist Skinny Vaqueros  Azul  Medium Aged Restored 9136-8918   24W / 28L para Mujer](https://www.amazon.es/dp/B0752BGFZK/?tag=tolees-21) a 23.13 EUR (original: 119.95 EUR) (80.72 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Burton Vista Sudaderas  Hombre  Gray Heather  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKYB4KX/?tag=tolees-21'
+descuento: '43.87'
+titulo: 'Burton Vista Sudaderas  Hombre  Gray Hea'
 ---
 
 Ahora mismo tienes [Burton Vista Sudaderas  Hombre  Gray Heather  XS](https://www.amazon.es/dp/B07KKYB4KX/?tag=tolees-21) a 33.68 EUR (original: 60 EUR) (43.87 %  de descuento) en el siguiente enlace!

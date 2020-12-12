@@ -17,6 +17,9 @@ comparePrice: 159.99 EUR
 inStock: true
 prodname: 'Homgeek Picadoras de Carne 1200w Salchicha y Máquina de Carne Eléctrica con 3 Accesorios de Corte Diferentes en Acero Inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071ZPPLKV/?tag=tolees-21'
+descuento: '58.75'
+titulo: 'Homgeek Picadoras de Carne 1200w Salchic'
 ---
 
 Ahora mismo tienes [Homgeek Picadoras de Carne 1200w Salchicha y Máquina de Carne Eléctrica con 3 Accesorios de Corte Diferentes en Acero Inoxidable](https://www.amazon.es/dp/B071ZPPLKV/?tag=tolees-21) a 65.99 EUR (original: 159.99 EUR) (58.75 %  de descuento) en el siguiente enlace!

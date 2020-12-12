@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Only Onljuliana L/s Pullover Knt  suéter Mujer   Strawberry Ice Detail:w.Flame Scarlet   34  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075GQ2P6D/?tag=tolees-21'
+descuento: '75.36'
+titulo: 'Only Onljuliana L/s Pullover Knt  suéter'
 ---
 
 Ahora mismo tienes [Only Onljuliana L/s Pullover Knt  suéter Mujer   Strawberry Ice Detail:w.Flame Scarlet   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B075GQ2P6D/?tag=tolees-21) a 6.65 EUR (original: 26.99 EUR) (75.36 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 71.07 EUR
 inStock: true
 prodname: 'Orbegozo 16717 Ventilador de pie SERIE OVAL  60 W  Negro y plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01D4YVY9Y/?tag=tolees-21'
+descuento: '33.88'
+titulo: 'Orbegozo 16717 Ventilador de pie SERIE O'
 ---
 
 Ahora mismo tienes [Orbegozo 16717 Ventilador de pie SERIE OVAL  60 W  Negro y plateado](https://www.amazon.es/dp/B01D4YVY9Y/?tag=tolees-21) a 46.99 EUR (original: 71.07 EUR) (33.88 %  de descuento) en el siguiente enlace!

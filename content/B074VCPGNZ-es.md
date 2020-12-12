@@ -17,6 +17,9 @@ comparePrice: 76.8 EUR
 inStock: true
 prodname: 'STAR WARS Figura de Base de Aventura Playskool Heroes Galactic BB-8'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074VCPGNZ/?tag=tolees-21'
+descuento: '55.48'
+titulo: 'STAR WARS Figura de Base de Aventura Pla'
 ---
 
 Ahora mismo tienes [STAR WARS Figura de Base de Aventura Playskool Heroes Galactic BB-8](https://www.amazon.es/dp/B074VCPGNZ/?tag=tolees-21) a 34.19 EUR (original: 76.8 EUR) (55.48 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Dynasty Warriors 9'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TDFCDM/?tag=tolees-21'
+descuento: '75.78'
+titulo: 'Dynasty Warriors 9'
 ---
 
 Ahora mismo tienes [Dynasty Warriors 9](https://www.amazon.es/dp/B077TDFCDM/?tag=tolees-21) a 16.95 EUR (original: 69.99 EUR) (75.78 %  de descuento) en el siguiente enlace!

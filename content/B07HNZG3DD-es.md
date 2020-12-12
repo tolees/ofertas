@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Levi s Free  Cinturón para Hombre  Marrón  Medium Brown 28  90'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HNZG3DD/?tag=tolees-21'
+descuento: '50.57'
+titulo: 'Levi s Free  Cinturón para Hombre  Marró'
 ---
 
 Está [Levi s Free  Cinturón para Hombre  Marrón  Medium Brown 28  90](https://www.amazon.es/dp/B07HNZG3DD/?tag=tolees-21) con 50.57 de descuento por 17.3 EUR (original: 35 EUR) en el siguiente enlace!

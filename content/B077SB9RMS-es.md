@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'New Balance 420  Zapatillas para Mujer  Verde  Green NBB   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077SB9RMS/?tag=tolees-21'
+descuento: '67.57'
+titulo: 'New Balance 420  Zapatillas para Mujer  '
 ---
 
 Ahora mismo tienes [New Balance 420  Zapatillas para Mujer  Verde  Green NBB   36 EU](https://www.amazon.es/dp/B077SB9RMS/?tag=tolees-21) a 29.17 EUR (original: 89.95 EUR) (67.57 %  de descuento) en el siguiente enlace!

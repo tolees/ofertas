@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Eastpak Talky Riñonera  23 cm  2 L  Azul  Double Denim '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HQYE5D6/?tag=tolees-21'
+descuento: '37.68'
+titulo: 'Eastpak Talky Riñonera  23 cm  2 L  Azul'
 ---
 
 Ahora mismo tienes [Eastpak Talky Riñonera  23 cm  2 L  Azul  Double Denim ](https://www.amazon.es/dp/B00HQYE5D6/?tag=tolees-21) a 17.45 EUR (original: 28 EUR) (37.68 %  de descuento) en el siguiente enlace!

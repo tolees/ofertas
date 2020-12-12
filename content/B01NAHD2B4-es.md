@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Timberland Adventure 2.0 Cupsole  Botas Chukka para Hombre  Marrón  Glazed Ginger Roughcut   49 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NAHD2B4/?tag=tolees-21'
+descuento: '47.53'
+titulo: 'Timberland Adventure 2.0 Cupsole  Botas '
 ---
 
 Está [Timberland Adventure 2.0 Cupsole  Botas Chukka para Hombre  Marrón  Glazed Ginger Roughcut   49 EU](https://www.amazon.es/dp/B01NAHD2B4/?tag=tolees-21) con 47.53 de descuento por 73.46 EUR (original: 140 EUR) en el siguiente enlace!

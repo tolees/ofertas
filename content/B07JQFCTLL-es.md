@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcoscales Polo SS Camiseta  Blanco  White Fit: Slim   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQFCTLL/?tag=tolees-21'
+descuento: '43.02'
+titulo: 'JACK & JONES Jcoscales Polo SS Camiseta '
 ---
 
 Está [JACK & JONES Jcoscales Polo SS Camiseta  Blanco  White Fit: Slim   Medium para Hombre](https://www.amazon.es/dp/B07JQFCTLL/?tag=tolees-21) con 43.02 de descuento por 11.39 EUR (original: 19.99 EUR) en el siguiente enlace!

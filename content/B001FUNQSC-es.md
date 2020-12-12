@@ -17,6 +17,9 @@ comparePrice: 19.96 EUR
 inStock: true
 prodname: 'Mexx  Agua de colonia para hombres - 150 gr.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001FUNQSC/?tag=tolees-21'
+descuento: '38.63'
+titulo: 'Mexx  Agua de colonia para hombres - 150'
 ---
 
 Está [Mexx  Agua de colonia para hombres - 150 gr.](https://www.amazon.es/dp/B001FUNQSC/?tag=tolees-21) con 38.63 de descuento por 12.25 EUR (original: 19.96 EUR) en el siguiente enlace!

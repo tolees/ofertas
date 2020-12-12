@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjiglenn Jjfox Bl 820 Noos Vaqueros Slim  Azul Blue Denim  W32/L36 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNGNTDH/?tag=tolees-21'
+descuento: '43.04'
+titulo: 'JACK & JONES Jjiglenn Jjfox Bl 820 Noos '
 ---
 
 Está [JACK & JONES Jjiglenn Jjfox Bl 820 Noos Vaqueros Slim  Azul Blue Denim  W32/L36 para Hombre](https://www.amazon.es/dp/B07FNGNTDH/?tag=tolees-21) con 43.04 de descuento por 56.95 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Performance Go Run-Mojo  Zapatillas de Entrenamiento para Mujer  Gris  Charcoal   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MUAQ2TR/?tag=tolees-21'
+descuento: '63.85'
+titulo: 'Skechers Performance Go Run-Mojo  Zapati'
 ---
 
 Tienes [Skechers Performance Go Run-Mojo  Zapatillas de Entrenamiento para Mujer  Gris  Charcoal   40 EU](https://www.amazon.es/dp/B01MUAQ2TR/?tag=tolees-21) con un 63.85 % de descuento con precio de oferta de 23.48 EUR (original: 64.95 EUR) en el siguiente enlace!

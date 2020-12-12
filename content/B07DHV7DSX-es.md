@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Quiksilver Estate Snow Pant  Hombre  Black Heather  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHV7DSX/?tag=tolees-21'
+descuento: '56.23'
+titulo: 'Quiksilver Estate Snow Pant  Hombre  Bla'
 ---
 
 Ahora mismo tienes [Quiksilver Estate Snow Pant  Hombre  Black Heather  L](https://www.amazon.es/dp/B07DHV7DSX/?tag=tolees-21) a 61.28 EUR (original: 139.99 EUR) (56.23 %  de descuento) en el siguiente enlace!

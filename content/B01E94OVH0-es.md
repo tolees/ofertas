@@ -17,6 +17,9 @@ comparePrice: 14.19 EUR
 inStock: true
 prodname: 'Desconocido H & H H & H 2041 Nadia Taza TE con Plato 0.20 CC  Porcelana  Multicolor y Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01E94OVH0/?tag=tolees-21'
+descuento: '56.80'
+titulo: 'Desconocido H & H H & H 2041 Nadia Taza '
 ---
 
 Ahora mismo tienes [Desconocido H & H H & H 2041 Nadia Taza TE con Plato 0.20 CC  Porcelana  Multicolor y Blanco](https://www.amazon.es/dp/B01E94OVH0/?tag=tolees-21) a 6.13 EUR (original: 14.19 EUR) (56.80 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'The North Face Play Hard Camiseta de Tirantes con Estampado  Mujer  Gris  Light Grey Heather   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPR8RMR/?tag=tolees-21'
+descuento: '71.43'
+titulo: 'The North Face Play Hard Camiseta de Tir'
 ---
 
 Tienes [The North Face Play Hard Camiseta de Tirantes con Estampado  Mujer  Gris  Light Grey Heather   XS](https://www.amazon.es/dp/B07FPR8RMR/?tag=tolees-21) con un 71.43 % de descuento con precio de oferta de 10 EUR (original: 35 EUR) en el siguiente enlace!

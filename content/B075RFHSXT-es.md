@@ -17,6 +17,9 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'GORE Wear Slip transpirable de hombre  L  Blanco  100053'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RFHSXT/?tag=tolees-21'
+descuento: '44.01'
+titulo: 'GORE Wear Slip transpirable de hombre  L'
 ---
 
 Tienes [GORE Wear Slip transpirable de hombre  L  Blanco  100053](https://www.amazon.es/dp/B075RFHSXT/?tag=tolees-21) con un 44.01 % de descuento con precio de oferta de 12.85 EUR (original: 22.95 EUR) en el siguiente enlace!

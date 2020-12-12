@@ -17,6 +17,9 @@ comparePrice: 25.95 EUR
 inStock: true
 prodname: 'DANISH ENDURANCE Calcetines Performance Crew  Blanco - 3 Pares  EU 39-42 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNDQNKD/?tag=tolees-21'
+descuento: '50.10'
+titulo: 'DANISH ENDURANCE Calcetines Performance '
 ---
 
 Está [DANISH ENDURANCE Calcetines Performance Crew  Blanco - 3 Pares  EU 39-42 ](https://www.amazon.es/dp/B07DNDQNKD/?tag=tolees-21) con 50.10 de descuento por 12.95 EUR (original: 25.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Ultranatura Korfu Plus 20010001112A-Taburete  reposapiés Plegable de Aluminio  Color  Anthracite  40x40x36 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GIDHBTU/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Ultranatura Korfu Plus 20010001112A-Tabu'
 ---
 
 Está [Ultranatura Korfu Plus 20010001112A-Taburete  reposapiés Plegable de Aluminio  Color  Anthracite  40x40x36 cm](https://www.amazon.es/dp/B01GIDHBTU/?tag=tolees-21) con 25.01 de descuento por 26.99 EUR (original: 35.99 EUR) en el siguiente enlace!

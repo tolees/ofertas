@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Selene Judith Sujetador con Push-up  Mujer  Blanco  Blanco   90  Tamaño del Fabricante:B.90 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077THHWVG/?tag=tolees-21'
+descuento: '52.95'
+titulo: 'Selene Judith Sujetador con Push-up  Muj'
 ---
 
 Ahora mismo tienes [Selene Judith Sujetador con Push-up  Mujer  Blanco  Blanco   90  Tamaño del Fabricante:B.90 ](https://www.amazon.es/dp/B077THHWVG/?tag=tolees-21) a 11.74 EUR (original: 24.95 EUR) (52.95 %  de descuento) en el siguiente enlace!

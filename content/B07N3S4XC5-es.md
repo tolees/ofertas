@@ -17,6 +17,9 @@ comparePrice: 10 EUR
 inStock: true
 prodname: 'Gliss - Mascarilla Mini Total Repair - 10 uds de 20ml - Formato Viaje - Schwarzkopf'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3S4XC5/?tag=tolees-21'
+descuento: '35.70'
+titulo: 'Gliss - Mascarilla Mini Total Repair - 1'
 ---
 
 Está [Gliss - Mascarilla Mini Total Repair - 10 uds de 20ml - Formato Viaje - Schwarzkopf](https://www.amazon.es/dp/B07N3S4XC5/?tag=tolees-21) con 35.70 de descuento por 6.43 EUR (original: 10 EUR) en el siguiente enlace!

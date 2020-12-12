@@ -17,6 +17,9 @@ comparePrice: 320 EUR
 inStock: true
 prodname: 'adidas REAL POWER CTRL LTD'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BCHTX1C/?tag=tolees-21'
+descuento: '69.06'
+titulo: 'adidas REAL POWER CTRL LTD'
 ---
 
 Ahora mismo tienes [adidas REAL POWER CTRL LTD](https://www.amazon.es/dp/B07BCHTX1C/?tag=tolees-21) a 99 EUR (original: 320 EUR) (69.06 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 11.08 EUR
 inStock: true
 prodname: 'Natrol Biotin 10000mcg Fast Dissolve Standard - 60 Cápsulas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JKK3MAG/?tag=tolees-21'
+descuento: '42.33'
+titulo: 'Natrol Biotin 10000mcg Fast Dissolve Sta'
 ---
 
 Tienes [Natrol Biotin 10000mcg Fast Dissolve Standard - 60 Cápsulas](https://www.amazon.es/dp/B00JKK3MAG/?tag=tolees-21) con un 42.33 % de descuento con precio de oferta de 6.39 EUR (original: 11.08 EUR) en el siguiente enlace!

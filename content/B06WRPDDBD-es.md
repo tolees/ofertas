@@ -17,6 +17,9 @@ comparePrice: 28.49 EUR
 inStock: true
 prodname: 'AmazonBasics - Sábana bajera ajustable  algodón satén 400 hilos  antiarrugas  Azul marino - 150 x 200 x 30 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WRPDDBD/?tag=tolees-21'
+descuento: '41.38'
+titulo: 'AmazonBasics - Sábana bajera ajustable  '
 ---
 
 Tienes [AmazonBasics - Sábana bajera ajustable  algodón satén 400 hilos  antiarrugas  Azul marino - 150 x 200 x 30 cm](https://www.amazon.es/dp/B06WRPDDBD/?tag=tolees-21) con un 41.38 % de descuento con precio de oferta de 16.7 EUR (original: 28.49 EUR) en el siguiente enlace!

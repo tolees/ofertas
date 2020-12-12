@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Tazon 6 FM Black Silver  Zapatillas de Running para Hombre  Negro  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H4CW8EC/?tag=tolees-21'
+descuento: '31.23'
+titulo: 'Puma Tazon 6 FM Black Silver  Zapatillas'
 ---
 
 Está [Puma Tazon 6 FM Black Silver  Zapatillas de Running para Hombre  Negro  40 EU](https://www.amazon.es/dp/B01H4CW8EC/?tag=tolees-21) con 31.23 de descuento por 41.23 EUR (original: 59.95 EUR) en el siguiente enlace!

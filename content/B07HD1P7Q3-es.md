@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Prensa Ajo - Acero Inoxidable Prensa de Ajo/Ajo Mincer/Ajo Peeler/Jengibre Press/Abrelatas de Nuez，con Dos Ganchos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HD1P7Q3/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'Prensa Ajo - Acero Inoxidable Prensa de '
 ---
 
 Tienes [Prensa Ajo - Acero Inoxidable Prensa de Ajo/Ajo Mincer/Ajo Peeler/Jengibre Press/Abrelatas de Nuez，con Dos Ganchos](https://www.amazon.es/dp/B07HD1P7Q3/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 42 EUR
 inStock: true
 prodname: 'Zippo Fragrances 72254 - Agua de colonia  50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005MQNYCI/?tag=tolees-21'
+descuento: '69.74'
+titulo: 'Zippo Fragrances 72254 - Agua de colonia'
 ---
 
 Ahora mismo tienes [Zippo Fragrances 72254 - Agua de colonia  50 ml](https://www.amazon.es/dp/B005MQNYCI/?tag=tolees-21) a 12.71 EUR (original: 42 EUR) (69.74 %  de descuento) en el siguiente enlace!

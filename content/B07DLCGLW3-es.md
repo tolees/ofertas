@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Springfield FR Dare To Break Sudadera  Hombre  Gris  Gama Grises 44   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLCGLW3/?tag=tolees-21'
+descuento: '56.68'
+titulo: 'Springfield FR Dare To Break Sudadera  H'
 ---
 
 Está [Springfield FR Dare To Break Sudadera  Hombre  Gris  Gama Grises 44   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLCGLW3/?tag=tolees-21) con 56.68 de descuento por 8.66 EUR (original: 19.99 EUR) en el siguiente enlace!

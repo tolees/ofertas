@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Geox J Android Girl a  Zapatillas para Niñas  Rosa  White/Pink C0406   34 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK1W17R/?tag=tolees-21'
+descuento: '62.40'
+titulo: 'Geox J Android Girl a  Zapatillas para N'
 ---
 
 Está [Geox J Android Girl a  Zapatillas para Niñas  Rosa  White/Pink C0406   34 EU](https://www.amazon.es/dp/B07DK1W17R/?tag=tolees-21) con 62.40 de descuento por 22.52 EUR (original: 59.9 EUR) en el siguiente enlace!

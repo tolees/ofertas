@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Esprit 128ee1j008  Sudadera Mujer  Rosa  Old Pink 680   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GZ51T6J/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Esprit 128ee1j008  Sudadera Mujer  Rosa '
 ---
 
 Está [Esprit 128ee1j008  Sudadera Mujer  Rosa  Old Pink 680   XX-Large](https://www.amazon.es/dp/B07GZ51T6J/?tag=tolees-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Encaje Sexy Braguita Tangas Pantalones de Mujer sin Costuras Señoras Bragas  Pack de 6 S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKG47DQ/?tag=tolees-21'
+descuento: '33.37'
+titulo: 'Encaje Sexy Braguita Tangas Pantalones d'
 ---
 
 Tienes [Encaje Sexy Braguita Tangas Pantalones de Mujer sin Costuras Señoras Bragas  Pack de 6 S](https://www.amazon.es/dp/B07FKG47DQ/?tag=tolees-21) con un 33.37 % de descuento con precio de oferta de 19.99 EUR (original: 30 EUR) en el siguiente enlace!

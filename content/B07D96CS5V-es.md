@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'XTI 55845  Zapatillas para Niños  Blanco  White   33 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D96CS5V/?tag=tolees-21'
+descuento: '33.39'
+titulo: 'XTI 55845  Zapatillas para Niños  Blanco'
 ---
 
 Tienes [XTI 55845  Zapatillas para Niños  Blanco  White   33 EU](https://www.amazon.es/dp/B07D96CS5V/?tag=tolees-21) con un 33.39 % de descuento con precio de oferta de 19.95 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Levi s LEVIS FOOTWEAR AND ACCESSORIES Free Metal Cinturón  Negro  R Black 59   105 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075NKYDRS/?tag=tolees-21'
+descuento: '38.94'
+titulo: 'Levi s LEVIS FOOTWEAR AND ACCESSORIES Fr'
 ---
 
 Tienes [Levi s LEVIS FOOTWEAR AND ACCESSORIES Free Metal Cinturón  Negro  R Black 59   105 para Hombre](https://www.amazon.es/dp/B075NKYDRS/?tag=tolees-21) con un 38.94 % de descuento con precio de oferta de 21.37 EUR (original: 35 EUR) en el siguiente enlace!

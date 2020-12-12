@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Laura Vita - 2592  Bolsos maletín Mujer  Verde  Vert D    11.0x20.0x29.0 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GG38XNQ/?tag=tolees-21'
+descuento: '81.53'
+titulo: 'Laura Vita - 2592  Bolsos maletín Mujer '
 ---
 
 Tienes [Laura Vita - 2592  Bolsos maletín Mujer  Verde  Vert D    11.0x20.0x29.0 cm  W x H L ](https://www.amazon.es/dp/B07GG38XNQ/?tag=tolees-21) con un 81.53 % de descuento con precio de oferta de 16.62 EUR (original: 90 EUR) en el siguiente enlace!

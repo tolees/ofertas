@@ -17,6 +17,9 @@ comparePrice: 247.5 EUR
 inStock: true
 prodname: 'Reloj Jacob Jensen - Mujer JJ153'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0721QZQVX/?tag=tolees-21'
+descuento: '55.01'
+titulo: 'Reloj Jacob Jensen - Mujer JJ153'
 ---
 
 Está [Reloj Jacob Jensen - Mujer JJ153](https://www.amazon.es/dp/B0721QZQVX/?tag=tolees-21) con 55.01 de descuento por 111.36 EUR (original: 247.5 EUR) en el siguiente enlace!

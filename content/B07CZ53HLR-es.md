@@ -17,6 +17,9 @@ comparePrice: 123.69 EUR
 inStock: true
 prodname: 'Asics Gel-Lyte  Zapatillas Unisex Adulto  Negro Black 001  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ53HLR/?tag=tolees-21'
+descuento: '72.26'
+titulo: 'Asics Gel-Lyte  Zapatillas Unisex Adulto'
 ---
 
 Tienes [Asics Gel-Lyte  Zapatillas Unisex Adulto  Negro Black 001  44.5 EU](https://www.amazon.es/dp/B07CZ53HLR/?tag=tolees-21) con un 72.26 % de descuento con precio de oferta de 34.31 EUR (original: 123.69 EUR) en el siguiente enlace!

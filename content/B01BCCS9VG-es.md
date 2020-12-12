@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Urban Classics Stretch Turnup Chino Shorts Bañador  Marfil  Sand   50 ES  Talla de Fabricante: 36  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BCCS9VG/?tag=tolees-21'
+descuento: '62.08'
+titulo: 'Urban Classics Stretch Turnup Chino Shor'
 ---
 
 Está [Urban Classics Stretch Turnup Chino Shorts Bañador  Marfil  Sand   50 ES  Talla de Fabricante: 36  para Hombre](https://www.amazon.es/dp/B01BCCS9VG/?tag=tolees-21) con 62.08 de descuento por 15.13 EUR (original: 39.9 EUR) en el siguiente enlace!

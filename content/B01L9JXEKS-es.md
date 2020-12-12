@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Pandora Abalorios Mujer chapado en oro - 781015'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L9JXEKS/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Pandora Abalorios Mujer chapado en oro -'
 ---
 
 Está [Pandora Abalorios Mujer chapado en oro - 781015](https://www.amazon.es/dp/B01L9JXEKS/?tag=tolees-21) con 50.00 de descuento por 22.5 EUR (original: 45 EUR) en el siguiente enlace!

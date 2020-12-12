@@ -17,6 +17,9 @@ comparePrice: 8.81 EUR
 inStock: true
 prodname: 'REPSOL MOTO SCOOTER 2T'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYV6SJO/?tag=tolees-21'
+descuento: '37.57'
+titulo: 'REPSOL MOTO SCOOTER 2T'
 ---
 
 Está [REPSOL MOTO SCOOTER 2T](https://www.amazon.es/dp/B01MYV6SJO/?tag=tolees-21) con 37.57 de descuento por 5.5 EUR (original: 8.81 EUR) en el siguiente enlace!

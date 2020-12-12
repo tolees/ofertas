@@ -17,6 +17,9 @@ comparePrice: 35.83 EUR
 inStock: true
 prodname: 'Mini Batman Gotham City'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07745MBMB/?tag=tolees-21'
+descuento: '29.72'
+titulo: 'Mini Batman Gotham City'
 ---
 
 Ahora mismo tienes [Mini Batman Gotham City](https://www.amazon.es/dp/B07745MBMB/?tag=tolees-21) a 25.18 EUR (original: 35.83 EUR) (29.72 %  de descuento) en el siguiente enlace!

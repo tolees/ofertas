@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'SANNCE Kit de seguridad Inalámbrica 4 Cámaras de vigilancia  Onvif H.264 CCTV 4CH 1080P NVR wifi y 4 cámaras 1.0MP -sin HDD'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NCN6QT3/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'SANNCE Kit de seguridad Inalámbrica 4 Cá'
 ---
 
 Está [SANNCE Kit de seguridad Inalámbrica 4 Cámaras de vigilancia  Onvif H.264 CCTV 4CH 1080P NVR wifi y 4 cámaras 1.0MP -sin HDD](https://www.amazon.es/dp/B01NCN6QT3/?tag=tolees-21) con 25.00 de descuento por 149.99 EUR (original: 199.99 EUR) en el siguiente enlace!

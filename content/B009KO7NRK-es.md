@@ -17,6 +17,9 @@ comparePrice: 14.51 EUR
 inStock: true
 prodname: 'Joma Cannes - Pantalón Largo Deportivo Unisex  Color Azul Royal  Talla XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009KO7NRK/?tag=tolees-21'
+descuento: '38.32'
+titulo: 'Joma Cannes - Pantalón Largo Deportivo U'
 ---
 
 Está [Joma Cannes - Pantalón Largo Deportivo Unisex  Color Azul Royal  Talla XXL](https://www.amazon.es/dp/B009KO7NRK/?tag=tolees-21) con 38.32 de descuento por 8.95 EUR (original: 14.51 EUR) en el siguiente enlace!

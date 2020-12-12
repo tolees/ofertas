@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Alcachofa de ducha Guguda Mano la Cabeza de Ducha 5 Modos Ahorro de Agua Cabezal de Ducha de Masaje Universal Extraíble de Cromo Ducha'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CWLW6NV/?tag=tolees-21'
+descuento: '55.03'
+titulo: 'Alcachofa de ducha Guguda Mano la Cabeza'
 ---
 
 Está [Alcachofa de ducha Guguda Mano la Cabeza de Ducha 5 Modos Ahorro de Agua Cabezal de Ducha de Masaje Universal Extraíble de Cromo Ducha](https://www.amazon.es/dp/B07CWLW6NV/?tag=tolees-21) con 55.03 de descuento por 8.99 EUR (original: 19.99 EUR) en el siguiente enlace!

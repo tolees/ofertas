@@ -17,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Versa 18550655 - Azucarero  color verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FQFVY1S/?tag=tolees-21'
+descuento: '55.20'
+titulo: 'Versa 18550655 - Azucarero  color verde'
 ---
 
 Está [Versa 18550655 - Azucarero  color verde](https://www.amazon.es/dp/B00FQFVY1S/?tag=tolees-21) con 55.20 de descuento por 8.96 EUR (original: 20 EUR) en el siguiente enlace!

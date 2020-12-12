@@ -17,6 +17,9 @@ comparePrice: 319 EUR
 inStock: true
 prodname: 'LG 17MB15T-B - Monitor LCD de 17"  1280x1024 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I00L9UM/?tag=tolees-21'
+descuento: '25.71'
+titulo: 'LG 17MB15T-B - Monitor LCD de 17"  1280x'
 ---
 
 Tienes [LG 17MB15T-B - Monitor LCD de 17"  1280x1024 ](https://www.amazon.es/dp/B00I00L9UM/?tag=tolees-21) con un 25.71 % de descuento con precio de oferta de 236.99 EUR (original: 319 EUR) en el siguiente enlace!

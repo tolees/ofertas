@@ -17,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'Springfield 3 Pack Granates Gaviotas Bóxer  Hombre  Rojo  Gama Rojo 68   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1T5NB/?tag=tolees-21'
+descuento: '58.36'
+titulo: 'Springfield 3 Pack Granates Gaviotas Bóx'
 ---
 
 Está [Springfield 3 Pack Granates Gaviotas Bóxer  Hombre  Rojo  Gama Rojo 68   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KZ1T5NB/?tag=tolees-21) con 58.36 de descuento por 9.99 EUR (original: 23.99 EUR) en el siguiente enlace!

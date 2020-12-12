@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre Original Fine Pique   Polo Manga Corta  Negro  Tommy Black 078  X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0776ZRJ4Z/?tag=tolees-21'
+descuento: '46.35'
+titulo: 'Tommy Jeans Hombre Original Fine Pique  '
 ---
 
 Tienes [Tommy Jeans Hombre Original Fine Pique   Polo Manga Corta  Negro  Tommy Black 078  X-Small](https://www.amazon.es/dp/B0776ZRJ4Z/?tag=tolees-21) con un 46.35 % de descuento con precio de oferta de 29.51 EUR (original: 55 EUR) en el siguiente enlace!

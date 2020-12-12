@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Salomon XA Lite GTX  Calzado de Trail Running  Impermeable para Mujer  Morado  Dark Potent Violet/Hollyhock   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ7C4TQ/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Salomon XA Lite GTX  Calzado de Trail Ru'
 ---
 
 Tienes [Salomon XA Lite GTX  Calzado de Trail Running  Impermeable para Mujer  Morado  Dark Potent Violet/Hollyhock   38 EU](https://www.amazon.es/dp/B07CZ7C4TQ/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 64.95 EUR (original: 129.95 EUR) en el siguiente enlace!

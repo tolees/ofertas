@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Under Armour UA BGS Torch Mid  Zapatos de Baloncesto para Niños  Azul  Team Royal/Taxi/Academy   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076ZPNR13/?tag=tolees-21'
+descuento: '29.95'
+titulo: 'Under Armour UA BGS Torch Mid  Zapatos d'
 ---
 
 Ahora mismo tienes [Under Armour UA BGS Torch Mid  Zapatos de Baloncesto para Niños  Azul  Team Royal/Taxi/Academy   36.5 EU](https://www.amazon.es/dp/B076ZPNR13/?tag=tolees-21) a 52.54 EUR (original: 75 EUR) (29.95 %  de descuento) en el siguiente enlace!

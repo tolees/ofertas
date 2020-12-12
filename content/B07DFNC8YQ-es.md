@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas 18/19 Real Madrid Away Kit-Lfp Badge Conjunto  Unisex niños  Gris  ónitéc/onifue/Blanco   140'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFNC8YQ/?tag=tolees-21'
+descuento: '55.03'
+titulo: 'adidas 18/19 Real Madrid Away Kit-Lfp Ba'
 ---
 
 Tienes [adidas 18/19 Real Madrid Away Kit-Lfp Badge Conjunto  Unisex niños  Gris  ónitéc/onifue/Blanco   140](https://www.amazon.es/dp/B07DFNC8YQ/?tag=tolees-21) con un 55.03 % de descuento con precio de oferta de 44.95 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 23.38 EUR
 inStock: true
 prodname: 'VSADEY 16Pcs Almohadillas Desmaquillantes Reutilizables Discos Desmaquillantes de Bambú y Algodón  Almohadillas Cosméticas de Maquillaje Lavables Desmaquillador Make Up Limpieza Facial Pad-4 Colores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P5KX1M1/?tag=tolees-21'
+descuento: '40.16'
+titulo: 'VSADEY 16Pcs Almohadillas Desmaquillante'
 ---
 
 Ahora mismo tienes [VSADEY 16Pcs Almohadillas Desmaquillantes Reutilizables Discos Desmaquillantes de Bambú y Algodón  Almohadillas Cosméticas de Maquillaje Lavables Desmaquillador Make Up Limpieza Facial Pad-4 Colores](https://www.amazon.es/dp/B07P5KX1M1/?tag=tolees-21) a 13.99 EUR (original: 23.38 EUR) (40.16 %  de descuento) en el siguiente enlace!

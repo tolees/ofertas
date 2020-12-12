@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Kappa Kickoff  Zapatillas para Niñas  Rosa  Pink/White   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EYJ6J16/?tag=tolees-21'
+descuento: '62.03'
+titulo: 'Kappa Kickoff  Zapatillas para Niñas  Ro'
 ---
 
 Ahora mismo tienes [Kappa Kickoff  Zapatillas para Niñas  Rosa  Pink/White   39 EU](https://www.amazon.es/dp/B01EYJ6J16/?tag=tolees-21) a 15.15 EUR (original: 39.9 EUR) (62.03 %  de descuento) en el siguiente enlace!

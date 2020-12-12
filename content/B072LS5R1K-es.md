@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Escaper SL V Inf  Zapatillas Unisex Niños  Negro Black White 01  20 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LS5R1K/?tag=tolees-21'
+descuento: '33.56'
+titulo: 'Puma Escaper SL V Inf  Zapatillas Unisex'
 ---
 
 Tienes [Puma Escaper SL V Inf  Zapatillas Unisex Niños  Negro Black White 01  20 EU](https://www.amazon.es/dp/B072LS5R1K/?tag=tolees-21) con un 33.56 % de descuento con precio de oferta de 19.9 EUR (original: 29.95 EUR) en el siguiente enlace!

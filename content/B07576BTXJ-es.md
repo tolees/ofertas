@@ -17,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'HOMTOM S8 Teléfono Inteligente 4G Teléfono FDD-LTE Android 7.0 4GB RAM 64GB ROM 5.7inc HD + Pantalla 720 * 1440pixel MTK6750T Octa-core 16.0MP + 5.0MP Dual Rear 13.0MP Frente 3400mAh'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07576BTXJ/?tag=tolees-21'
+descuento: '28.57'
+titulo: 'HOMTOM S8 Teléfono Inteligente 4G Teléfo'
 ---
 
 Está [HOMTOM S8 Teléfono Inteligente 4G Teléfono FDD-LTE Android 7.0 4GB RAM 64GB ROM 5.7inc HD + Pantalla 720 * 1440pixel MTK6750T Octa-core 16.0MP + 5.0MP Dual Rear 13.0MP Frente 3400mAh](https://www.amazon.es/dp/B07576BTXJ/?tag=tolees-21) con 28.57 de descuento por 99.99 EUR (original: 139.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 599 EUR
 inStock: true
 prodname: 'Lenovo Ideapad 520S-14IKB - Ordenador portátil 14" FullHD  Intel Core I3-7130U  4GB RAM  128GB SSD  Intel HD Graphics  Windows 10  gris mineral - Teclado QWERTY Español'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0774ZHCCZ/?tag=tolees-21'
+descuento: '33.39'
+titulo: 'Lenovo Ideapad 520S-14IKB - Ordenador po'
 ---
 
 Tienes [Lenovo Ideapad 520S-14IKB - Ordenador portátil 14" FullHD  Intel Core I3-7130U  4GB RAM  128GB SSD  Intel HD Graphics  Windows 10  gris mineral - Teclado QWERTY Español](https://www.amazon.es/dp/B0774ZHCCZ/?tag=tolees-21) con un 33.39 % de descuento con precio de oferta de 399 EUR (original: 599 EUR) en el siguiente enlace!

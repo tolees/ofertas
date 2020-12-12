@@ -17,6 +17,9 @@ comparePrice: 38 EUR
 inStock: true
 prodname: 'Semoo Saco de Dormir Impermeable  de 10-22ºC  190T  Encapuchado para Adultos  con Bolsa de compresión  Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYL0G9X/?tag=tolees-21'
+descuento: '41.55'
+titulo: 'Semoo Saco de Dormir Impermeable  de 10-'
 ---
 
 Está [Semoo Saco de Dormir Impermeable  de 10-22ºC  190T  Encapuchado para Adultos  con Bolsa de compresión  Azul ](https://www.amazon.es/dp/B01LYL0G9X/?tag=tolees-21) con 41.55 de descuento por 22.21 EUR (original: 38 EUR) en el siguiente enlace!

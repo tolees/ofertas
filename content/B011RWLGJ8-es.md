@@ -17,6 +17,9 @@ comparePrice: 12 EUR
 inStock: true
 prodname: 'Star Wars Mochila Preescolar  Color Negro  5.75 litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011RWLGJ8/?tag=tolees-21'
+descuento: '47.50'
+titulo: 'Star Wars Mochila Preescolar  Color Negr'
 ---
 
 Está [Star Wars Mochila Preescolar  Color Negro  5.75 litros](https://www.amazon.es/dp/B011RWLGJ8/?tag=tolees-21) con 47.50 de descuento por 6.3 EUR (original: 12 EUR) en el siguiente enlace!

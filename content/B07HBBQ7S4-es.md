@@ -17,6 +17,9 @@ comparePrice: 252.98 EUR
 inStock: true
 prodname: 'KAREN MILLEN Fashions Limited Above-Ankle Boots  Botas De Vaquero para Mujer  Negro  Black 01   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HBBQ7S4/?tag=tolees-21'
+descuento: '54.49'
+titulo: 'KAREN MILLEN Fashions Limited Above-Ankl'
 ---
 
 Tienes [KAREN MILLEN Fashions Limited Above-Ankle Boots  Botas De Vaquero para Mujer  Negro  Black 01   38 EU](https://www.amazon.es/dp/B07HBBQ7S4/?tag=tolees-21) con un 54.49 % de descuento con precio de oferta de 115.12 EUR (original: 252.98 EUR) en el siguiente enlace!

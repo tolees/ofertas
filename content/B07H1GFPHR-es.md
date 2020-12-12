@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Esky - Inalámbrico RF Item Finder Llave Visor con Mando a Distancia  1 RF transmisor y 5 Recargables Receptor  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H1GFPHR/?tag=tolees-21'
+descuento: '35.01'
+titulo: 'Esky - Inalámbrico RF Item Finder Llave '
 ---
 
 Ahora mismo tienes [Esky - Inalámbrico RF Item Finder Llave Visor con Mando a Distancia  1 RF transmisor y 5 Recargables Receptor  Negro](https://www.amazon.es/dp/B07H1GFPHR/?tag=tolees-21) a 25.99 EUR (original: 39.99 EUR) (35.01 %  de descuento) en el siguiente enlace!

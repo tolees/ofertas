@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Ultrasport Ski Guantes  Mujer  Morado/Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0055QL2WY/?tag=tolees-21'
+descuento: '75.08'
+titulo: 'Ultrasport Ski Guantes  Mujer  Morado/Ne'
 ---
 
 Tienes [Ultrasport Ski Guantes  Mujer  Morado/Negro  L](https://www.amazon.es/dp/B0055QL2WY/?tag=tolees-21) con un 75.08 % de descuento con precio de oferta de 14.94 EUR (original: 59.95 EUR) en el siguiente enlace!

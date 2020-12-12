@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'JACK & JONES JJIPAUL JJWARNER AKM 168 NOOS  Pantalones Hombre  Verde  Olive Night   W28/L30  Talla del fabricante: 28 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FF8KF9C/?tag=tolees-21'
+descuento: '65.76'
+titulo: 'JACK & JONES JJIPAUL JJWARNER AKM 168 NO'
 ---
 
 Tienes [JACK & JONES JJIPAUL JJWARNER AKM 168 NOOS  Pantalones Hombre  Verde  Olive Night   W28/L30  Talla del fabricante: 28 ](https://www.amazon.es/dp/B01FF8KF9C/?tag=tolees-21) con un 65.76 % de descuento con precio de oferta de 23.95 EUR (original: 69.95 EUR) en el siguiente enlace!

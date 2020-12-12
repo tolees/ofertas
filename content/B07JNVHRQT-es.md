@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jormetallica tee SS Crew Neck  Camiseta para Hombre  Gris  Tap Shoe Box Fit   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JNVHRQT/?tag=tolees-21'
+descuento: '48.63'
+titulo: 'JACK & JONES Jormetallica tee SS Crew Ne'
 ---
 
 Está [JACK & JONES Jormetallica tee SS Crew Neck  Camiseta para Hombre  Gris  Tap Shoe Box Fit   Large](https://www.amazon.es/dp/B07JNVHRQT/?tag=tolees-21) con 48.63 de descuento por 11.81 EUR (original: 22.99 EUR) en el siguiente enlace!

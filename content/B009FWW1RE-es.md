@@ -17,6 +17,9 @@ comparePrice: 34.85 EUR
 inStock: true
 prodname: 'Ciroc Coconut Vodka - 700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009FWW1RE/?tag=tolees-21'
+descuento: '30.16'
+titulo: 'Ciroc Coconut Vodka - 700 ml'
 ---
 
 Está [Ciroc Coconut Vodka - 700 ml](https://www.amazon.es/dp/B009FWW1RE/?tag=tolees-21) con 30.16 de descuento por 24.34 EUR (original: 34.85 EUR) en el siguiente enlace!

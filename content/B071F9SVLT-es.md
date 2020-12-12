@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour Magnetico Select FG Jr  Botas de fútbol Unisex Niños  Negro  Black//Metallic Silver 001   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071F9SVLT/?tag=tolees-21'
+descuento: '79.74'
+titulo: 'Under Armour Magnetico Select FG Jr  Bot'
 ---
 
 Ahora mismo tienes [Under Armour Magnetico Select FG Jr  Botas de fútbol Unisex Niños  Negro  Black//Metallic Silver 001   36.5 EU](https://www.amazon.es/dp/B071F9SVLT/?tag=tolees-21) a 14.18 EUR (original: 70 EUR) (79.74 %  de descuento) en el siguiente enlace!

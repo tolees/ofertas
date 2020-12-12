@@ -17,6 +17,9 @@ comparePrice: 45.42 EUR
 inStock: true
 prodname: 'OxyLED luces de armario luces LED inalámbricas de batería con luz nocturna con control remoto luces de escalera en cualquier parte del pasillo Luces de seguridad para pasillo baño dormitorio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GDL6D1R/?tag=tolees-21'
+descuento: '78.01'
+titulo: 'OxyLED luces de armario luces LED inalám'
 ---
 
 Ahora mismo tienes [OxyLED luces de armario luces LED inalámbricas de batería con luz nocturna con control remoto luces de escalera en cualquier parte del pasillo Luces de seguridad para pasillo baño dormitorio](https://www.amazon.es/dp/B07GDL6D1R/?tag=tolees-21) a 9.99 EUR (original: 45.42 EUR) (78.01 %  de descuento) en el siguiente enlace!

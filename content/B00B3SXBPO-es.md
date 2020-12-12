@@ -17,6 +17,9 @@ comparePrice: 43.88 EUR
 inStock: true
 prodname: 'BRA Terra - Sartén 30 cm  aluminio fundido con antiadherente Teflon Selectaptas para todo tipo de cocinas incluida inducción'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00B3SXBPO/?tag=tolees-21'
+descuento: '36.21'
+titulo: 'BRA Terra - Sartén 30 cm  aluminio fundi'
 ---
 
 Tienes [BRA Terra - Sartén 30 cm  aluminio fundido con antiadherente Teflon Selectaptas para todo tipo de cocinas incluida inducción](https://www.amazon.es/dp/B00B3SXBPO/?tag=tolees-21) con un 36.21 % de descuento con precio de oferta de 27.99 EUR (original: 43.88 EUR) en el siguiente enlace!

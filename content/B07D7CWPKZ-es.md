@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'New Balance 574S v2  Zapatillas para Hombre  Negro  Black/NB White NSE   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D7CWPKZ/?tag=tolees-21'
+descuento: '63.76'
+titulo: 'New Balance 574S v2  Zapatillas para Hom'
 ---
 
 Ahora mismo tienes [New Balance 574S v2  Zapatillas para Hombre  Negro  Black/NB White NSE   44.5 EU](https://www.amazon.es/dp/B07D7CWPKZ/?tag=tolees-21) a 36.24 EUR (original: 100 EUR) (63.76 %  de descuento) en el siguiente enlace!

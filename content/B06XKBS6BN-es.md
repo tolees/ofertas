@@ -17,6 +17,9 @@ comparePrice: 24 EUR
 inStock: true
 prodname: 'Candelabro De Pared Del Estilo Retro  Candelabro Creativo De La Vela Del Hierro  Decoración De La Pared Del Jardín Casero'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XKBS6BN/?tag=tolees-21'
+descuento: '40.33'
+titulo: 'Candelabro De Pared Del Estilo Retro  Ca'
 ---
 
 Tienes [Candelabro De Pared Del Estilo Retro  Candelabro Creativo De La Vela Del Hierro  Decoración De La Pared Del Jardín Casero](https://www.amazon.es/dp/B06XKBS6BN/?tag=tolees-21) con un 40.33 % de descuento con precio de oferta de 14.32 EUR (original: 24 EUR) en el siguiente enlace!

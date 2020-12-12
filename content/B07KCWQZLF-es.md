@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Hurley M Phantom Dot Rise 18  BAÑADORES  Hombre  Obsidian  38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCWQZLF/?tag=tolees-21'
+descuento: '62.92'
+titulo: 'Hurley M Phantom Dot Rise 18  BAÑADORES '
 ---
 
 Está [Hurley M Phantom Dot Rise 18  BAÑADORES  Hombre  Obsidian  38](https://www.amazon.es/dp/B07KCWQZLF/?tag=tolees-21) con 62.92 de descuento por 22.25 EUR (original: 60 EUR) en el siguiente enlace!

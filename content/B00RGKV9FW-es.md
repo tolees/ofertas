@@ -17,6 +17,9 @@ comparePrice: 36.9 EUR
 inStock: true
 prodname: 'Bomann VL 1139 S CB Ventilador de pie oscilante  40 cm  45 W  Metal  3 Velocidades  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00RGKV9FW/?tag=tolees-21'
+descuento: '29.49'
+titulo: 'Bomann VL 1139 S CB Ventilador de pie os'
 ---
 
 Tienes [Bomann VL 1139 S CB Ventilador de pie oscilante  40 cm  45 W  Metal  3 Velocidades  Blanco](https://www.amazon.es/dp/B00RGKV9FW/?tag=tolees-21) con un 29.49 % de descuento con precio de oferta de 26.02 EUR (original: 36.9 EUR) en el siguiente enlace!

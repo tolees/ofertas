@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Merrell All Out Blaze Aero Sport Zapatillas de senderismo Hombre  Azul  Slate   42 EU  8 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VTVH88/?tag=tolees-21'
+descuento: '54.23'
+titulo: 'Merrell All Out Blaze Aero Sport Zapatil'
 ---
 
 Tienes [Merrell All Out Blaze Aero Sport Zapatillas de senderismo Hombre  Azul  Slate   42 EU  8 UK ](https://www.amazon.es/dp/B071VTVH88/?tag=tolees-21) con un 54.23 % de descuento con precio de oferta de 52.64 EUR (original: 115 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 369 EUR
 inStock: true
 prodname: 'Michael Kors MKT5046 - Smartwatch'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFQ4Z3X/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Michael Kors MKT5046 - Smartwatch'
 ---
 
 Ahora mismo tienes [Michael Kors MKT5046 - Smartwatch](https://www.amazon.es/dp/B07FFQ4Z3X/?tag=tolees-21) a 221.4 EUR (original: 369 EUR) (40.00 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'NEEGO Alfombra de Playa Anti-arena 195x150CM Toallas de Playa Grande Manta de Playa Anti-arena Alfombras de Playa Impermeable Manta de Picnic Portátil Toallas de Playa 195x150CM'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CLVRWDS/?tag=tolees-21'
+descuento: '46.68'
+titulo: 'NEEGO Alfombra de Playa Anti-arena 195x1'
 ---
 
 Está [NEEGO Alfombra de Playa Anti-arena 195x150CM Toallas de Playa Grande Manta de Playa Anti-arena Alfombras de Playa Impermeable Manta de Picnic Portátil Toallas de Playa 195x150CM](https://www.amazon.es/dp/B07CLVRWDS/?tag=tolees-21) con 46.68 de descuento por 15.99 EUR (original: 29.99 EUR) en el siguiente enlace!

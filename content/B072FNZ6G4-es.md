@@ -17,6 +17,9 @@ comparePrice: 24.06 EUR
 inStock: true
 prodname: 'Head Solid Last Traje De Baño Olimpico  Niñas  4'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072FNZ6G4/?tag=tolees-21'
+descuento: '62.80'
+titulo: 'Head Solid Last Traje De Baño Olimpico  '
 ---
 
 Está [Head Solid Last Traje De Baño Olimpico  Niñas  4](https://www.amazon.es/dp/B072FNZ6G4/?tag=tolees-21) con 62.80 de descuento por 8.95 EUR (original: 24.06 EUR) en el siguiente enlace!

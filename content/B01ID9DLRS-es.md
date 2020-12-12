@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Timberland Flannery 6incanteen Escape  Botas Estilo Motero para Mujer  Marrón  Canteen  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ID9DLRS/?tag=tolees-21'
+descuento: '54.86'
+titulo: 'Timberland Flannery 6incanteen Escape  B'
 ---
 
 Está [Timberland Flannery 6incanteen Escape  Botas Estilo Motero para Mujer  Marrón  Canteen  39 EU](https://www.amazon.es/dp/B01ID9DLRS/?tag=tolees-21) con 54.86 de descuento por 58.68 EUR (original: 130 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 12.58 EUR
 inStock: true
 prodname: 'Lacor Classic 39060 - Set 6 cuchillos chuleteros  dentados'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000SKJF58/?tag=tolees-21'
+descuento: '72.34'
+titulo: 'Lacor Classic 39060 - Set 6 cuchillos ch'
 ---
 
 Está [Lacor Classic 39060 - Set 6 cuchillos chuleteros  dentados](https://www.amazon.es/dp/B000SKJF58/?tag=tolees-21) con 72.34 de descuento por 3.48 EUR (original: 12.58 EUR) en el siguiente enlace!

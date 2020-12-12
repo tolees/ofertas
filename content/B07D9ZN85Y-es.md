@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Puma Tsugi Cage Dazzle  Zapatillas Unisex Adulto  Gris  Quarry-Gray Violet White 05   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9ZN85Y/?tag=tolees-21'
+descuento: '72.38'
+titulo: 'Puma Tsugi Cage Dazzle  Zapatillas Unise'
 ---
 
 Ahora mismo tienes [Puma Tsugi Cage Dazzle  Zapatillas Unisex Adulto  Gris  Quarry-Gray Violet White 05   44 EU](https://www.amazon.es/dp/B07D9ZN85Y/?tag=tolees-21) a 33.13 EUR (original: 119.95 EUR) (72.38 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Dockers by Gerli 35pr201  Botas Militar para Mujer  Gris  Stone 420   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJKSCLQ/?tag=tolees-21'
+descuento: '79.52'
+titulo: 'Dockers by Gerli 35pr201  Botas Militar '
 ---
 
 Está [Dockers by Gerli 35pr201  Botas Militar para Mujer  Gris  Stone 420   39 EU](https://www.amazon.es/dp/B07DJKSCLQ/?tag=tolees-21) con 79.52 de descuento por 16.37 EUR (original: 79.95 EUR) en el siguiente enlace!

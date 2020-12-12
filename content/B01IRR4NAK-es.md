@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Helly Hansen Crew HH Classic LS Polo SS Polo  Hombre  Red  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IRR4NAK/?tag=tolees-21'
+descuento: '49.31'
+titulo: 'Helly Hansen Crew HH Classic LS Polo SS '
 ---
 
 Ahora mismo tienes [Helly Hansen Crew HH Classic LS Polo SS Polo  Hombre  Red  L](https://www.amazon.es/dp/B01IRR4NAK/?tag=tolees-21) a 32.95 EUR (original: 65 EUR) (49.31 %  de descuento) en el siguiente enlace!

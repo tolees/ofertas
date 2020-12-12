@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Morado  Indigo White   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC75JHY/?tag=tolees-21'
+descuento: '77.91'
+titulo: 'Puma Basket Heart Patent Wn s  Zapatilla'
 ---
 
 Está [Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Morado  Indigo White   39 EU](https://www.amazon.es/dp/B07DC75JHY/?tag=tolees-21) con 77.91 de descuento por 19.87 EUR (original: 89.95 EUR) en el siguiente enlace!

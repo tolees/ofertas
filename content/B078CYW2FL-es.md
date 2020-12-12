@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Superga 2750-MESHU  Zapatillas Unisex Adulto  Verde  Green Hedge 075   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078CYW2FL/?tag=tolees-21'
+descuento: '47.35'
+titulo: 'Superga 2750-MESHU  Zapatillas Unisex Ad'
 ---
 
 Ahora mismo tienes [Superga 2750-MESHU  Zapatillas Unisex Adulto  Verde  Green Hedge 075   40 EU](https://www.amazon.es/dp/B078CYW2FL/?tag=tolees-21) a 39.49 EUR (original: 75 EUR) (47.35 %  de descuento) en el siguiente enlace!

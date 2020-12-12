@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Pepe Jeans London Aberlady Daisy  Zapatillas para Mujer  Naranja  Peach   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0787HCK3G/?tag=tolees-21'
+descuento: '58.00'
+titulo: 'Pepe Jeans London Aberlady Daisy  Zapati'
 ---
 
 Está [Pepe Jeans London Aberlady Daisy  Zapatillas para Mujer  Naranja  Peach   37 EU](https://www.amazon.es/dp/B0787HCK3G/?tag=tolees-21) con 58.00 de descuento por 23.1 EUR (original: 55 EUR) en el siguiente enlace!

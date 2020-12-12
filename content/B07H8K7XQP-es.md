@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Masterpro PK1181 Set cubertería 24 Piezas Tenedores y Cuchillos  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H8K7XQP/?tag=tolees-21'
+descuento: '65.55'
+titulo: 'Masterpro PK1181 Set cubertería 24 Pieza'
 ---
 
 Está [Masterpro PK1181 Set cubertería 24 Piezas Tenedores y Cuchillos  Negro](https://www.amazon.es/dp/B07H8K7XQP/?tag=tolees-21) con 65.55 de descuento por 31 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 240.54 EUR
 inStock: true
 prodname: 'Makita DKP180Z - Cepillo Makita'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HYEAN4I/?tag=tolees-21'
+descuento: '43.14'
+titulo: 'Makita DKP180Z - Cepillo Makita'
 ---
 
 Está [Makita DKP180Z - Cepillo Makita](https://www.amazon.es/dp/B00HYEAN4I/?tag=tolees-21) con 43.14 de descuento por 136.77 EUR (original: 240.54 EUR) en el siguiente enlace!

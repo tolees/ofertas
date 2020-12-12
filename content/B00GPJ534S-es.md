@@ -17,6 +17,9 @@ comparePrice: 31.2 EUR
 inStock: true
 prodname: 'Samsonite ColorShield 15.6" - Funda  Funda  39 6 cm  15.6"   300 g  Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GPJ534S/?tag=tolees-21'
+descuento: '43.01'
+titulo: 'Samsonite ColorShield 15.6" - Funda  Fun'
 ---
 
 Tienes [Samsonite ColorShield 15.6" - Funda  Funda  39 6 cm  15.6"   300 g  Azul ](https://www.amazon.es/dp/B00GPJ534S/?tag=tolees-21) con un 43.01 % de descuento con precio de oferta de 17.78 EUR (original: 31.2 EUR) en el siguiente enlace!

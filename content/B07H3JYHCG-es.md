@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'PUBG 1.0 - Playerunknown s Battlegrounds'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H3JYHCG/?tag=tolees-21'
+descuento: '73.36'
+titulo: 'PUBG 1.0 - Playerunknown s Battlegrounds'
 ---
 
 Está [PUBG 1.0 - Playerunknown s Battlegrounds](https://www.amazon.es/dp/B07H3JYHCG/?tag=tolees-21) con 73.36 de descuento por 7.99 EUR (original: 29.99 EUR) en el siguiente enlace!

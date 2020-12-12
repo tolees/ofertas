@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Blue Bird A1400 Programador de Grifo para riego automático'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CBGY7K5/?tag=tolees-21'
+descuento: '43.27'
+titulo: 'Blue Bird A1400 Programador de Grifo par'
 ---
 
 Está [Blue Bird A1400 Programador de Grifo para riego automático](https://www.amazon.es/dp/B07CBGY7K5/?tag=tolees-21) con 43.27 de descuento por 16.99 EUR (original: 29.95 EUR) en el siguiente enlace!

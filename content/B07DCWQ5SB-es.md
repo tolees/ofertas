@@ -17,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'WMF 662866040 baric Sommelier Set  5 Piezas en Caja de Madera de Nogal  sacacorchos  Cortador  Botella Cierre  decantador de Vino  abrebotellas  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCWQ5SB/?tag=tolees-21'
+descuento: '35.86'
+titulo: 'WMF 662866040 baric Sommelier Set  5 Pie'
 ---
 
 Tienes [WMF 662866040 baric Sommelier Set  5 Piezas en Caja de Madera de Nogal  sacacorchos  Cortador  Botella Cierre  decantador de Vino  abrebotellas  Color Negro](https://www.amazon.es/dp/B07DCWQ5SB/?tag=tolees-21) con un 35.86 % de descuento con precio de oferta de 69.91 EUR (original: 109 EUR) en el siguiente enlace!

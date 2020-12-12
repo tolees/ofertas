@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma 655319 03 Pantalones  Hombre   Azul Electrico Lemonade/Blanco   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077SHQQYQ/?tag=tolees-21'
+descuento: '51.54'
+titulo: 'Puma 655319 03 Pantalones  Hombre   Azul'
 ---
 
 Ahora mismo tienes [Puma 655319 03 Pantalones  Hombre   Azul Electrico Lemonade/Blanco   M](https://www.amazon.es/dp/B077SHQQYQ/?tag=tolees-21) a 19.36 EUR (original: 39.95 EUR) (51.54 %  de descuento) en el siguiente enlace!

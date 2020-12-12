@@ -17,6 +17,9 @@ comparePrice: 8 EUR
 inStock: true
 prodname: 'Medisana TM700 77040  Termómetro Digital  con sonda flexible'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FKQOCJ4/?tag=tolees-21'
+descuento: '25.12'
+titulo: 'Medisana TM700 77040  Termómetro Digital'
 ---
 
 Está [Medisana TM700 77040  Termómetro Digital  con sonda flexible](https://www.amazon.es/dp/B00FKQOCJ4/?tag=tolees-21) con 25.12 de descuento por 5.99 EUR (original: 8 EUR) en el siguiente enlace!

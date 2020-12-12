@@ -17,6 +17,9 @@ comparePrice: 44.42 EUR
 inStock: true
 prodname: 'Reebok G Elem Ft TS Conjunto Deportivo  Niñas  Gris  brgrin   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8YF6V5/?tag=tolees-21'
+descuento: '67.40'
+titulo: 'Reebok G Elem Ft TS Conjunto Deportivo  '
 ---
 
 Ahora mismo tienes [Reebok G Elem Ft TS Conjunto Deportivo  Niñas  Gris  brgrin   S](https://www.amazon.es/dp/B07F8YF6V5/?tag=tolees-21) a 14.48 EUR (original: 44.42 EUR) (67.40 %  de descuento) en el siguiente enlace!

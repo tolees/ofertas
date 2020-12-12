@@ -17,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'Casio Reloj Despertador DQ-543B-1EF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000NG67SU/?tag=tolees-21'
+descuento: '30.78'
+titulo: 'Casio Reloj Despertador DQ-543B-1EF'
 ---
 
 Está [Casio Reloj Despertador DQ-543B-1EF](https://www.amazon.es/dp/B000NG67SU/?tag=tolees-21) con 30.78 de descuento por 12.46 EUR (original: 18 EUR) en el siguiente enlace!

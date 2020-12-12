@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Aingoo Cama de Metal Cama Individual con Listones Marco para Dormitorio  Blanco   90_x_190_cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CM3G64G/?tag=tolees-21'
+descuento: '28.34'
+titulo: 'Aingoo Cama de Metal Cama Individual con'
 ---
 
 Ahora mismo tienes [Aingoo Cama de Metal Cama Individual con Listones Marco para Dormitorio  Blanco   90_x_190_cm ](https://www.amazon.es/dp/B07CM3G64G/?tag=tolees-21) a 85.99 EUR (original: 119.99 EUR) (28.34 %  de descuento) en el siguiente enlace!

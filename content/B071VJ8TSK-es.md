@@ -17,6 +17,9 @@ comparePrice: 164.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger J1285ill 4c  Botas Chukka para Mujer  Negro  Black   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VJ8TSK/?tag=tolees-21'
+descuento: '84.97'
+titulo: 'Tommy Hilfiger J1285ill 4c  Botas Chukka'
 ---
 
 Está [Tommy Hilfiger J1285ill 4c  Botas Chukka para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B071VJ8TSK/?tag=tolees-21) con 84.97 de descuento por 24.78 EUR (original: 164.9 EUR) en el siguiente enlace!

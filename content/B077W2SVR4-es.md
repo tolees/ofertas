@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'K-Swiss Court Cheswick SDE  Zapatillas de Estar por casa para Hombre  Gris  Charcoal/White 087   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077W2SVR4/?tag=tolees-21'
+descuento: '55.08'
+titulo: 'K-Swiss Court Cheswick SDE  Zapatillas d'
 ---
 
 Ahora mismo tienes [K-Swiss Court Cheswick SDE  Zapatillas de Estar por casa para Hombre  Gris  Charcoal/White 087   42 EU](https://www.amazon.es/dp/B077W2SVR4/?tag=tolees-21) a 26.95 EUR (original: 59.99 EUR) (55.08 %  de descuento) en el siguiente enlace!

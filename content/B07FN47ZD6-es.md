@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Homcom Rodillo Magnético de Ciclismo Rodillo Entrenamiento Bicicleta Plegable Resistencia Ajustable 54.5x47.2x39.1cm Acero'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FN47ZD6/?tag=tolees-21'
+descuento: '45.46'
+titulo: 'Homcom Rodillo Magnético de Ciclismo Rod'
 ---
 
 Tienes [Homcom Rodillo Magnético de Ciclismo Rodillo Entrenamiento Bicicleta Plegable Resistencia Ajustable 54.5x47.2x39.1cm Acero](https://www.amazon.es/dp/B07FN47ZD6/?tag=tolees-21) con un 45.46 % de descuento con precio de oferta de 59.99 EUR (original: 109.99 EUR) en el siguiente enlace!

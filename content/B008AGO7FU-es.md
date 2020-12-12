@@ -17,6 +17,9 @@ comparePrice: 62.99 EUR
 inStock: true
 prodname: 'Ultrasport Everest  Chaqueta Softshell para hombre  Negro/Azul Victoria  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008AGO7FU/?tag=tolees-21'
+descuento: '38.10'
+titulo: 'Ultrasport Everest  Chaqueta Softshell p'
 ---
 
 Tienes [Ultrasport Everest  Chaqueta Softshell para hombre  Negro/Azul Victoria  M](https://www.amazon.es/dp/B008AGO7FU/?tag=tolees-21) con un 38.10 % de descuento con precio de oferta de 38.99 EUR (original: 62.99 EUR) en el siguiente enlace!

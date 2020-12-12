@@ -17,6 +17,9 @@ comparePrice: 48.99 EUR
 inStock: true
 prodname: 'URCERI Pistola de Pintura  600W  1200ml/min  pulverizadora eléctrica  HVLP con 3 Modos de Pintura  4 boquillas y 1000ml contenedor desechable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GXM9XTR/?tag=tolees-21'
+descuento: '26.54'
+titulo: 'URCERI Pistola de Pintura  600W  1200ml/'
 ---
 
 Está [URCERI Pistola de Pintura  600W  1200ml/min  pulverizadora eléctrica  HVLP con 3 Modos de Pintura  4 boquillas y 1000ml contenedor desechable](https://www.amazon.es/dp/B07GXM9XTR/?tag=tolees-21) con 26.54 de descuento por 35.99 EUR (original: 48.99 EUR) en el siguiente enlace!

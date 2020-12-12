@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Trucco - Vestido casual para mujer  color rojo oscuro  talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075TDWKZQ/?tag=tolees-21'
+descuento: '79.05'
+titulo: 'Trucco - Vestido casual para mujer  colo'
 ---
 
 Tienes [Trucco - Vestido casual para mujer  color rojo oscuro  talla M](https://www.amazon.es/dp/B075TDWKZQ/?tag=tolees-21) con un 79.05 % de descuento con precio de oferta de 12.56 EUR (original: 59.95 EUR) en el siguiente enlace!

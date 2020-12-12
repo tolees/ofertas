@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Puma Pacer Next Cage Zapatillas Unisex adulto  Gris  Elephant Skin-Elephant Skin-Whisper White 6   45 EU  10.5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ15B9J/?tag=tolees-21'
+descuento: '57.23'
+titulo: 'Puma Pacer Next Cage Zapatillas Unisex a'
 ---
 
 Está [Puma Pacer Next Cage Zapatillas Unisex adulto  Gris  Elephant Skin-Elephant Skin-Whisper White 6   45 EU  10.5 UK ](https://www.amazon.es/dp/B07CZ15B9J/?tag=tolees-21) con 57.23 de descuento por 36.33 EUR (original: 84.95 EUR) en el siguiente enlace!

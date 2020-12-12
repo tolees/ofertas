@@ -17,6 +17,9 @@ comparePrice: 66.52 EUR
 inStock: true
 prodname: 'Philips OneBlade Set Recorte Facial - 800 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XXFG9SS/?tag=tolees-21'
+descuento: '43.48'
+titulo: 'Philips OneBlade Set Recorte Facial - 80'
 ---
 
 Tienes [Philips OneBlade Set Recorte Facial - 800 gr](https://www.amazon.es/dp/B06XXFG9SS/?tag=tolees-21) con un 43.48 % de descuento con precio de oferta de 37.6 EUR (original: 66.52 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Maxmer Gancho de Pared Percha Perchero Acero Inoxidable Colgador Fuerte Capacidad de Carga'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GCFJ1F6/?tag=tolees-21'
+descuento: '80.01'
+titulo: 'Maxmer Gancho de Pared Percha Perchero A'
 ---
 
 Ahora mismo tienes [Maxmer Gancho de Pared Percha Perchero Acero Inoxidable Colgador Fuerte Capacidad de Carga](https://www.amazon.es/dp/B01GCFJ1F6/?tag=tolees-21) a 11.99 EUR (original: 59.99 EUR) (80.01 %  de descuento) en el siguiente enlace!

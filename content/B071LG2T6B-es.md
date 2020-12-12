@@ -17,6 +17,9 @@ comparePrice: 32.95 EUR
 inStock: true
 prodname: 'DANISH ENDURANCE Calcetines de Deporte Low Cut  Negro - Paquete de 3  EU 39-42 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071LG2T6B/?tag=tolees-21'
+descuento: '54.63'
+titulo: 'DANISH ENDURANCE Calcetines de Deporte L'
 ---
 
 Está [DANISH ENDURANCE Calcetines de Deporte Low Cut  Negro - Paquete de 3  EU 39-42 ](https://www.amazon.es/dp/B071LG2T6B/?tag=tolees-21) con 54.63 de descuento por 14.95 EUR (original: 32.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Kappa Savigno Tks Chándal Deportivo  Niños   Green/Black   8Y'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OHD09YI/?tag=tolees-21'
+descuento: '31.37'
+titulo: 'Kappa Savigno Tks Chándal Deportivo  Niñ'
 ---
 
 Tienes [Kappa Savigno Tks Chándal Deportivo  Niños   Green/Black   8Y](https://www.amazon.es/dp/B00OHD09YI/?tag=tolees-21) con un 31.37 % de descuento con precio de oferta de 27.45 EUR (original: 40 EUR) en el siguiente enlace!

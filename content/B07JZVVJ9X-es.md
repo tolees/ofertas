@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorantwon tee SS Crew Neck Camiseta  Azul  Surf The Web Fit: Slim Org   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZVVJ9X/?tag=tolees-21'
+descuento: '36.10'
+titulo: 'JACK & JONES Jorantwon tee SS Crew Neck '
 ---
 
 Está [JACK & JONES Jorantwon tee SS Crew Neck Camiseta  Azul  Surf The Web Fit: Slim Org   XX-Large para Hombre](https://www.amazon.es/dp/B07JZVVJ9X/?tag=tolees-21) con 36.10 de descuento por 8.3 EUR (original: 12.99 EUR) en el siguiente enlace!

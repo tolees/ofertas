@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Hombre Waistcoat Chaleco Not Applicable  Gris  Grigio 22p   Talla única  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTF49ST/?tag=tolees-21'
+descuento: '30.18'
+titulo: 'United Colors of Benetton Hombre Waistco'
 ---
 
 Ahora mismo tienes [United Colors of Benetton Hombre Waistcoat Chaleco Not Applicable  Gris  Grigio 22p   Talla única  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07KTF49ST/?tag=tolees-21) a 48.84 EUR (original: 69.95 EUR) (30.18 %  de descuento) en el siguiente enlace!

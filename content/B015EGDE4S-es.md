@@ -17,6 +17,9 @@ comparePrice: 145 EUR
 inStock: true
 prodname: 'Diesel Sonnenbrille DL0163 5991F Gafas de Sol  Marrón  Braun   59 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015EGDE4S/?tag=tolees-21'
+descuento: '81.70'
+titulo: 'Diesel Sonnenbrille DL0163 5991F Gafas d'
 ---
 
 Está [Diesel Sonnenbrille DL0163 5991F Gafas de Sol  Marrón  Braun   59 para Hombre](https://www.amazon.es/dp/B015EGDE4S/?tag=tolees-21) con 81.70 de descuento por 26.53 EUR (original: 145 EUR) en el siguiente enlace!

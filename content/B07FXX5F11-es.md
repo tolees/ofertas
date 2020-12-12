@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Seidensticker Tailored Langarm Mit Kent Kragen Bügelfrei Kariert  Camisa Hombre  Azul  Hellblau 11   39'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FXX5F11/?tag=tolees-21'
+descuento: '56.14'
+titulo: 'Seidensticker Tailored Langarm Mit Kent '
 ---
 
 Ahora mismo tienes [Seidensticker Tailored Langarm Mit Kent Kragen Bügelfrei Kariert  Camisa Hombre  Azul  Hellblau 11   39](https://www.amazon.es/dp/B07FXX5F11/?tag=tolees-21) a 26.31 EUR (original: 59.99 EUR) (56.14 %  de descuento) en el siguiente enlace!

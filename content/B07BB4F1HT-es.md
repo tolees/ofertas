@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'The North Face M L/S Ones tee Camiseta  Hombre  New Taupe Green  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB4F1HT/?tag=tolees-21'
+descuento: '36.65'
+titulo: 'The North Face M L/S Ones tee Camiseta  '
 ---
 
 Tienes [The North Face M L/S Ones tee Camiseta  Hombre  New Taupe Green  L](https://www.amazon.es/dp/B07BB4F1HT/?tag=tolees-21) con un 36.65 % de descuento con precio de oferta de 25.34 EUR (original: 40 EUR) en el siguiente enlace!

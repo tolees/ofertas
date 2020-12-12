@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Skechers Performance Go Run 6  Zapatillas Deportivas para Interior para Mujer  Rosa  Pink   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074HTPZ9W/?tag=tolees-21'
+descuento: '77.00'
+titulo: 'Skechers Performance Go Run 6  Zapatilla'
 ---
 
 Ahora mismo tienes [Skechers Performance Go Run 6  Zapatillas Deportivas para Interior para Mujer  Rosa  Pink   36 EU](https://www.amazon.es/dp/B074HTPZ9W/?tag=tolees-21) a 25.29 EUR (original: 109.95 EUR) (77.00 %  de descuento) en el siguiente enlace!

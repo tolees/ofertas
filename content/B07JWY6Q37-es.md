@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Lacoste Sport Tj5374 Camiseta  Blanc/Marine 522  4 años  Talla del Fabricante: 4A  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JWY6Q37/?tag=tolees-21'
+descuento: '43.33'
+titulo: 'Lacoste Sport Tj5374 Camiseta  Blanc/Mar'
 ---
 
 Ahora mismo tienes [Lacoste Sport Tj5374 Camiseta  Blanc/Marine 522  4 años  Talla del Fabricante: 4A  para Niños](https://www.amazon.es/dp/B07JWY6Q37/?tag=tolees-21) a 17 EUR (original: 30 EUR) (43.33 %  de descuento) en el siguiente enlace!

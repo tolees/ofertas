@@ -17,6 +17,9 @@ comparePrice: 16.56 EUR
 inStock: true
 prodname: 'Purina Gourmet Gold Soufflé comida para gatos con Salmón 24 x 85 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HLZ96B/?tag=tolees-21'
+descuento: '45.71'
+titulo: 'Purina Gourmet Gold Soufflé comida para '
 ---
 
 Ahora mismo tienes [Purina Gourmet Gold Soufflé comida para gatos con Salmón 24 x 85 g](https://www.amazon.es/dp/B071HLZ96B/?tag=tolees-21) a 8.99 EUR (original: 16.56 EUR) (45.71 %  de descuento) en el siguiente enlace!

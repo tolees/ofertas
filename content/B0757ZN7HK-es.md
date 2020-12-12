@@ -17,6 +17,9 @@ comparePrice: 34 EUR
 inStock: true
 prodname: 'find. Vaqueros Estrechos Hombre  Azul  W42/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0757ZN7HK/?tag=tolees-21'
+descuento: '60.74'
+titulo: 'find. Vaqueros Estrechos Hombre  Azul  W'
 ---
 
 Ahora mismo tienes [find. Vaqueros Estrechos Hombre  Azul  W42/L32](https://www.amazon.es/dp/B0757ZN7HK/?tag=tolees-21) a 13.35 EUR (original: 34 EUR) (60.74 %  de descuento) en el siguiente enlace!

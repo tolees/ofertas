@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'JBL E25BT  - Auriculares intraaurales inalámbricos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MDMSQQ7/?tag=tolees-21'
+descuento: '42.86'
+titulo: 'JBL E25BT  - Auriculares intraaurales in'
 ---
 
 Ahora mismo tienes [JBL E25BT  - Auriculares intraaurales inalámbricos](https://www.amazon.es/dp/B01MDMSQQ7/?tag=tolees-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

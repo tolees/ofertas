@@ -17,6 +17,9 @@ comparePrice: 124.99 EUR
 inStock: true
 prodname: 'Kickers KICKSTONER  Zapatillas de Estar por casa para Hombre  Negro  Noir Perm 8   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GREND7E/?tag=tolees-21'
+descuento: '50.44'
+titulo: 'Kickers KICKSTONER  Zapatillas de Estar '
 ---
 
 Ahora mismo tienes [Kickers KICKSTONER  Zapatillas de Estar por casa para Hombre  Negro  Noir Perm 8   45 EU](https://www.amazon.es/dp/B01GREND7E/?tag=tolees-21) a 61.95 EUR (original: 124.99 EUR) (50.44 %  de descuento) en el siguiente enlace!

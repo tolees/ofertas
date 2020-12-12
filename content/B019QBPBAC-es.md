@@ -17,6 +17,9 @@ comparePrice: 9.95 EUR
 inStock: true
 prodname: 'Philips Linterna 717679916  0.3 W  Negro  LED'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019QBPBAC/?tag=tolees-21'
+descuento: '62.01'
+titulo: 'Philips Linterna 717679916  0.3 W  Negro'
 ---
 
 Está [Philips Linterna 717679916  0.3 W  Negro  LED](https://www.amazon.es/dp/B019QBPBAC/?tag=tolees-21) con 62.01 de descuento por 3.78 EUR (original: 9.95 EUR) en el siguiente enlace!

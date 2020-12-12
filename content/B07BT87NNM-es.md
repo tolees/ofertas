@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'MYCARBON Mosquitera Puerta Magnetica Corredera Cortina 120 * 220'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BT87NNM/?tag=tolees-21'
+descuento: '32.27'
+titulo: 'MYCARBON Mosquitera Puerta Magnetica Cor'
 ---
 
 Está [MYCARBON Mosquitera Puerta Magnetica Corredera Cortina 120 * 220](https://www.amazon.es/dp/B07BT87NNM/?tag=tolees-21) con 32.27 de descuento por 20.99 EUR (original: 30.99 EUR) en el siguiente enlace!

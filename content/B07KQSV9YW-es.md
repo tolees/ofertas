@@ -17,6 +17,9 @@ comparePrice: 18.75 EUR
 inStock: true
 prodname: 'Dim Slip Generous Limited Edition Braguita   Imprime Rose Plumetis Dore 80a   44 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQSV9YW/?tag=tolees-21'
+descuento: '38.67'
+titulo: 'Dim Slip Generous Limited Edition Bragui'
 ---
 
 Está [Dim Slip Generous Limited Edition Braguita   Imprime Rose Plumetis Dore 80a   44 para Mujer](https://www.amazon.es/dp/B07KQSV9YW/?tag=tolees-21) con 38.67 de descuento por 11.5 EUR (original: 18.75 EUR) en el siguiente enlace!

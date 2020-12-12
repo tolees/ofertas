@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Under Armour UA HG Armour Ankle Crop Capri  Mujer  Gris  Charcoal Light Heather/Black/Metallic Silver 019   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NW7CKM/?tag=tolees-21'
+descuento: '59.15'
+titulo: 'Under Armour UA HG Armour Ankle Crop Cap'
 ---
 
 Tienes [Under Armour UA HG Armour Ankle Crop Capri  Mujer  Gris  Charcoal Light Heather/Black/Metallic Silver 019   M](https://www.amazon.es/dp/B071NW7CKM/?tag=tolees-21) con un 59.15 % de descuento con precio de oferta de 18.38 EUR (original: 44.99 EUR) en el siguiente enlace!

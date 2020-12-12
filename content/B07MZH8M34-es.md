@@ -17,6 +17,9 @@ comparePrice: 39.75 EUR
 inStock: true
 prodname: 'Superdry Super 23 Hawaii Entry tee Camiseta  Blanco  Rodeo White Snowy Xq6   S tamaño Fabricante 10  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZH8M34/?tag=tolees-21'
+descuento: '47.30'
+titulo: 'Superdry Super 23 Hawaii Entry tee Camis'
 ---
 
 Está [Superdry Super 23 Hawaii Entry tee Camiseta  Blanco  Rodeo White Snowy Xq6   S tamaño Fabricante 10  para Mujer](https://www.amazon.es/dp/B07MZH8M34/?tag=tolees-21) con 47.30 de descuento por 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!

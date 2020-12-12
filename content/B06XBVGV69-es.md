@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'MYCARBON Envasadora al Vacio Comida Húmedo en Conserva Alimentos Maquina de Vacio Envasadora al Vacio Domestica Incluye 5 Bolsa de Aluminio Bolsa de 5 m'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XBVGV69/?tag=tolees-21'
+descuento: '30.77'
+titulo: 'MYCARBON Envasadora al Vacio Comida Húme'
 ---
 
 Tienes [MYCARBON Envasadora al Vacio Comida Húmedo en Conserva Alimentos Maquina de Vacio Envasadora al Vacio Domestica Incluye 5 Bolsa de Aluminio Bolsa de 5 m](https://www.amazon.es/dp/B06XBVGV69/?tag=tolees-21) con un 30.77 % de descuento con precio de oferta de 89.99 EUR (original: 129.99 EUR) en el siguiente enlace!

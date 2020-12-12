@@ -17,6 +17,9 @@ comparePrice: 849.99 EUR
 inStock: true
 prodname: 'NETGEAR ReadyNAS RN422E2-100NES - Dispositivo de Almacenamiento en Red RN422 de sobremesa  2 bahías de instalación sin Herramientas  2 x 2 TB Desktop HDD'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HS9TVL/?tag=tolees-21'
+descuento: '85.15'
+titulo: 'NETGEAR ReadyNAS RN422E2-100NES - Dispos'
 ---
 
 Ahora mismo tienes [NETGEAR ReadyNAS RN422E2-100NES - Dispositivo de Almacenamiento en Red RN422 de sobremesa  2 bahías de instalación sin Herramientas  2 x 2 TB Desktop HDD](https://www.amazon.es/dp/B071HS9TVL/?tag=tolees-21) a 126.26 EUR (original: 849.99 EUR) (85.15 %  de descuento) en el siguiente enlace!

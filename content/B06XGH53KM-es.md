@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'FIND  Zapatillas de Tela para Hombre  Negro  Black   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XGH53KM/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'FIND  Zapatillas de Tela para Hombre  Ne'
 ---
 
 Ahora mismo tienes [FIND  Zapatillas de Tela para Hombre  Negro  Black   44 EU](https://www.amazon.es/dp/B06XGH53KM/?tag=tolees-21) a 17.5 EUR (original: 25 EUR) (30.00 %  de descuento) en el siguiente enlace!

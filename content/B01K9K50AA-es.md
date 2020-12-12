@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Funny Dream  Zapatos de Cordones Derby para Mujer  Azul  Navy Interest   36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01K9K50AA/?tag=tolees-21'
+descuento: '67.88'
+titulo: 'Clarks Funny Dream  Zapatos de Cordones '
 ---
 
 Tienes [Clarks Funny Dream  Zapatos de Cordones Derby para Mujer  Azul  Navy Interest   36](https://www.amazon.es/dp/B01K9K50AA/?tag=tolees-21) con un 67.88 % de descuento con precio de oferta de 32.1 EUR (original: 99.95 EUR) en el siguiente enlace!

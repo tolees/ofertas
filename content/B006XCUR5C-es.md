@@ -17,6 +17,9 @@ comparePrice: 30.23 EUR
 inStock: true
 prodname: 'Vichy LIFTACTIV OJOS 15ML'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006XCUR5C/?tag=tolees-21'
+descuento: '31.03'
+titulo: 'Vichy LIFTACTIV OJOS 15ML'
 ---
 
 Ahora mismo tienes [Vichy LIFTACTIV OJOS 15ML](https://www.amazon.es/dp/B006XCUR5C/?tag=tolees-21) a 20.85 EUR (original: 30.23 EUR) (31.03 %  de descuento) en el siguiente enlace!

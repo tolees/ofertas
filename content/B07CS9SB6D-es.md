@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Pepe Jeans Gracy Sudadera  Marfil  Mousse   Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CS9SB6D/?tag=tolees-21'
+descuento: '76.17'
+titulo: 'Pepe Jeans Gracy Sudadera  Marfil  Mouss'
 ---
 
 Está [Pepe Jeans Gracy Sudadera  Marfil  Mousse   Small para Mujer](https://www.amazon.es/dp/B07CS9SB6D/?tag=tolees-21) con 76.17 de descuento por 17.87 EUR (original: 75 EUR) en el siguiente enlace!

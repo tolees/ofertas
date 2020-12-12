@@ -17,6 +17,9 @@ comparePrice: 18.47 EUR
 inStock: true
 prodname: 'New Look Lina Stripe Camiseta  Blanco  White Pattern 19   46  Talla del Fabricante: 18  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QDNDRTK/?tag=tolees-21'
+descuento: '56.69'
+titulo: 'New Look Lina Stripe Camiseta  Blanco  W'
 ---
 
 Está [New Look Lina Stripe Camiseta  Blanco  White Pattern 19   46  Talla del Fabricante: 18  para Mujer](https://www.amazon.es/dp/B07QDNDRTK/?tag=tolees-21) con 56.69 de descuento por 8 EUR (original: 18.47 EUR) en el siguiente enlace!

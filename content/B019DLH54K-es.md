@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance 99 Training  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White 048   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019DLH54K/?tag=tolees-21'
+descuento: '70.90'
+titulo: 'New Balance 99 Training  Zapatillas Depo'
 ---
 
 Está [New Balance 99 Training  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White 048   40 EU](https://www.amazon.es/dp/B019DLH54K/?tag=tolees-21) con 70.90 de descuento por 23.28 EUR (original: 80 EUR) en el siguiente enlace!

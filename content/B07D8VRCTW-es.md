@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'DANISH ENDURANCE Merino Wool Light Cushion Socks  3 Pares  EU 39-42  De Varios Colores  1 x Gris  1 x Verde  1 x Amarillo  '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8VRCTW/?tag=tolees-21'
+descuento: '60.04'
+titulo: 'DANISH ENDURANCE Merino Wool Light Cushi'
 ---
 
 Tienes [DANISH ENDURANCE Merino Wool Light Cushion Socks  3 Pares  EU 39-42  De Varios Colores  1 x Gris  1 x Verde  1 x Amarillo  ](https://www.amazon.es/dp/B07D8VRCTW/?tag=tolees-21) con un 60.04 % de descuento con precio de oferta de 27.95 EUR (original: 69.95 EUR) en el siguiente enlace!

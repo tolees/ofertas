@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Columbia Midweight Stretch Half Zip Camiseta técnica con Media Cremallera  Poliéster  Rojo  Red Camellia   Talla XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYX9MYB/?tag=tolees-21'
+descuento: '42.02'
+titulo: 'Columbia Midweight Stretch Half Zip Cami'
 ---
 
 Está [Columbia Midweight Stretch Half Zip Camiseta técnica con Media Cremallera  Poliéster  Rojo  Red Camellia   Talla XL](https://www.amazon.es/dp/B07DYX9MYB/?tag=tolees-21) con 42.02 de descuento por 34.78 EUR (original: 59.99 EUR) en el siguiente enlace!

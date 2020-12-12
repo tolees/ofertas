@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 3BA Basica Abierta Capucha 3Ply Jersey   Gama Verdes 22   Large  Tamaño del Fabricante:L  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ27H3R/?tag=tolees-21'
+descuento: '78.73'
+titulo: 'Springfield 3BA Basica Abierta Capucha 3'
 ---
 
 Está [Springfield 3BA Basica Abierta Capucha 3Ply Jersey   Gama Verdes 22   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07KZ27H3R/?tag=tolees-21) con 78.73 de descuento por 6.38 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Helly Hansen Hh Duffel Bag 2 Bolsa de viaje  Multicolor  Ebony   50 centimeters'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB5LBVV/?tag=tolees-21'
+descuento: '54.34'
+titulo: 'Helly Hansen Hh Duffel Bag 2 Bolsa de vi'
 ---
 
 Tienes [Helly Hansen Hh Duffel Bag 2 Bolsa de viaje  Multicolor  Ebony   50 centimeters](https://www.amazon.es/dp/B07BB5LBVV/?tag=tolees-21) con un 54.34 % de descuento con precio de oferta de 36.53 EUR (original: 80 EUR) en el siguiente enlace!

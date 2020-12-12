@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcojames Sweat Hood Camp  Capucha Hombre  Verde  Evergreen Detail: Melange   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQBNCBG/?tag=tolees-21'
+descuento: '30.31'
+titulo: 'JACK & JONES Jcojames Sweat Hood Camp  C'
 ---
 
 Está [JACK & JONES Jcojames Sweat Hood Camp  Capucha Hombre  Verde  Evergreen Detail: Melange   Medium](https://www.amazon.es/dp/B07JQBNCBG/?tag=tolees-21) con 30.31 de descuento por 20.9 EUR (original: 29.99 EUR) en el siguiente enlace!

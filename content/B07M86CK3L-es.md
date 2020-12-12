@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'The North Face Base Camp Duffel Bolsa de Deporte  Unisex Adulto  Verde  Camuflaje   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M86CK3L/?tag=tolees-21'
+descuento: '47.10'
+titulo: 'The North Face Base Camp Duffel Bolsa de'
 ---
 
 Tienes [The North Face Base Camp Duffel Bolsa de Deporte  Unisex Adulto  Verde  Camuflaje   S](https://www.amazon.es/dp/B07M86CK3L/?tag=tolees-21) con un 47.10 % de descuento con precio de oferta de 60.83 EUR (original: 115 EUR) en el siguiente enlace!

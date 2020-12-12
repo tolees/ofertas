@@ -17,6 +17,9 @@ comparePrice: 279 EUR
 inStock: true
 prodname: 'HUGO Bill1831  Chaqueta Hombre  Negro  Black 001   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079ZCR6XV/?tag=tolees-21'
+descuento: '68.14'
+titulo: 'HUGO Bill1831  Chaqueta Hombre  Negro  B'
 ---
 
 Está [HUGO Bill1831  Chaqueta Hombre  Negro  Black 001   X-Large](https://www.amazon.es/dp/B079ZCR6XV/?tag=tolees-21) con 68.14 de descuento por 88.88 EUR (original: 279 EUR) en el siguiente enlace!

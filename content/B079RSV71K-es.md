@@ -17,6 +17,9 @@ comparePrice: 290 EUR
 inStock: true
 prodname: 'Pepe Jeans Keith Chaqueta  Negro  Black 999   XXL para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RSV71K/?tag=tolees-21'
+descuento: '56.56'
+titulo: 'Pepe Jeans Keith Chaqueta  Negro  Black '
 ---
 
 Tienes [Pepe Jeans Keith Chaqueta  Negro  Black 999   XXL para Hombre](https://www.amazon.es/dp/B079RSV71K/?tag=tolees-21) con un 56.56 % de descuento con precio de oferta de 125.98 EUR (original: 290 EUR) en el siguiente enlace!

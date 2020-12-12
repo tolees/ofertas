@@ -17,6 +17,9 @@ comparePrice: 230 EUR
 inStock: true
 prodname: 'Burton Breach Chaqueta de Snowboard  Hombre  Rojo  Bitters/Chestnut Waxed   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7K98ZC/?tag=tolees-21'
+descuento: '64.63'
+titulo: 'Burton Breach Chaqueta de Snowboard  Hom'
 ---
 
 Está [Burton Breach Chaqueta de Snowboard  Hombre  Rojo  Bitters/Chestnut Waxed   M](https://www.amazon.es/dp/B07F7K98ZC/?tag=tolees-21) con 64.63 de descuento por 81.35 EUR (original: 230 EUR) en el siguiente enlace!

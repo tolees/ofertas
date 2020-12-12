@@ -17,6 +17,9 @@ comparePrice: 19.4 EUR
 inStock: true
 prodname: 'Integral XPRESSION 32GB USB 2.0 Type-A Multi Unidad Flash USB - Memoria USB  32 GB  USB 2.0  Type-A  Tapa  23 mm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HF49YGY/?tag=tolees-21'
+descuento: '44.74'
+titulo: 'Integral XPRESSION 32GB USB 2.0 Type-A M'
 ---
 
 Ahora mismo tienes [Integral XPRESSION 32GB USB 2.0 Type-A Multi Unidad Flash USB - Memoria USB  32 GB  USB 2.0  Type-A  Tapa  23 mm ](https://www.amazon.es/dp/B01HF49YGY/?tag=tolees-21) a 10.72 EUR (original: 19.4 EUR) (44.74 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Columbia Sweet As II Chaqueta  Hombre  Negro  Black   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GEE8GDY/?tag=tolees-21'
+descuento: '46.07'
+titulo: 'Columbia Sweet As II Chaqueta  Hombre  N'
 ---
 
 Ahora mismo tienes [Columbia Sweet As II Chaqueta  Hombre  Negro  Black   XXL](https://www.amazon.es/dp/B00GEE8GDY/?tag=tolees-21) a 53.92 EUR (original: 99.99 EUR) (46.07 %  de descuento) en el siguiente enlace!

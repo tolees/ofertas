@@ -17,6 +17,9 @@ comparePrice: 41.2 EUR
 inStock: true
 prodname: 'Reebok Royal Comp CLN 2V  Zapatillas de Deporte para Niños   Outdoor/White/Dark Gum 000   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYRY8HC/?tag=tolees-21'
+descuento: '68.40'
+titulo: 'Reebok Royal Comp CLN 2V  Zapatillas de '
 ---
 
 Tienes [Reebok Royal Comp CLN 2V  Zapatillas de Deporte para Niños   Outdoor/White/Dark Gum 000   36 EU](https://www.amazon.es/dp/B07FYRY8HC/?tag=tolees-21) con un 68.40 % de descuento con precio de oferta de 13.02 EUR (original: 41.2 EUR) en el siguiente enlace!

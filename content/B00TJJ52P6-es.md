@@ -17,6 +17,9 @@ comparePrice: 42 EUR
 inStock: true
 prodname: 'Samsonite Guardit Office Case 16" Maletines  12 L  Color Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TJJ52P6/?tag=tolees-21'
+descuento: '40.71'
+titulo: 'Samsonite Guardit Office Case 16" Maleti'
 ---
 
 Está [Samsonite Guardit Office Case 16" Maletines  12 L  Color Gris](https://www.amazon.es/dp/B00TJJ52P6/?tag=tolees-21) con 40.71 de descuento por 24.9 EUR (original: 42 EUR) en el siguiente enlace!

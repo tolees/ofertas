@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Hush Puppies Saige Olivya  Botas para Mujer  Marrón  Camel   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073H8BZSX/?tag=tolees-21'
+descuento: '85.26'
+titulo: 'Hush Puppies Saige Olivya  Botas para Mu'
 ---
 
 Tienes [Hush Puppies Saige Olivya  Botas para Mujer  Marrón  Camel   41 EU](https://www.amazon.es/dp/B073H8BZSX/?tag=tolees-21) con un 85.26 % de descuento con precio de oferta de 18.43 EUR (original: 125 EUR) en el siguiente enlace!

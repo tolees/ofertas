@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'adidas Estro 19 JSY T-Shirt  Hombre  Bold Green  2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZH891J/?tag=tolees-21'
+descuento: '40.13'
+titulo: 'adidas Estro 19 JSY T-Shirt  Hombre  Bol'
 ---
 
 Está [adidas Estro 19 JSY T-Shirt  Hombre  Bold Green  2XL](https://www.amazon.es/dp/B07JZH891J/?tag=tolees-21) con 40.13 de descuento por 8.95 EUR (original: 14.95 EUR) en el siguiente enlace!

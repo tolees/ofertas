@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Hugo Boss Orange 1513417 - Reloj de pulsera para hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JLIS3JQ/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Hugo Boss Orange 1513417 - Reloj de puls'
 ---
 
 Está [Hugo Boss Orange 1513417 - Reloj de pulsera para hombre](https://www.amazon.es/dp/B01JLIS3JQ/?tag=tolees-21) con 30.00 de descuento por 70 EUR (original: 100 EUR) en el siguiente enlace!

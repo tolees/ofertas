@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance 574S  Zapatillas para Hombre  Negro  Black/White FCB   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075R7QGC3/?tag=tolees-21'
+descuento: '66.37'
+titulo: 'New Balance 574S  Zapatillas para Hombre'
 ---
 
 Está [New Balance 574S  Zapatillas para Hombre  Negro  Black/White FCB   44 EU](https://www.amazon.es/dp/B075R7QGC3/?tag=tolees-21) con 66.37 de descuento por 36.99 EUR (original: 110 EUR) en el siguiente enlace!

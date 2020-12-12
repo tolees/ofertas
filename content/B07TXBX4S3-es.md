@@ -17,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Awroutdoor Tarea Pesada Ganchos de Techo  Anclaje de Techo con SUS304 Acero Inoxidable 360 ° Girar 4 Tornillos para Hormigón y Madera Yoga  Hamacas  Sillón Colgante  Sacos de Boxeo  Capacidad 450Kg'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TXBX4S3/?tag=tolees-21'
+descuento: '25.81'
+titulo: 'Awroutdoor Tarea Pesada Ganchos de Techo'
 ---
 
 Ahora mismo tienes [Awroutdoor Tarea Pesada Ganchos de Techo  Anclaje de Techo con SUS304 Acero Inoxidable 360 ° Girar 4 Tornillos para Hormigón y Madera Yoga  Hamacas  Sillón Colgante  Sacos de Boxeo  Capacidad 450Kg](https://www.amazon.es/dp/B07TXBX4S3/?tag=tolees-21) a 22.99 EUR (original: 30.99 EUR) (25.81 %  de descuento) en el siguiente enlace!

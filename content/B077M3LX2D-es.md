@@ -17,6 +17,9 @@ comparePrice: 69.89 EUR
 inStock: true
 prodname: 'Curren hombres reloj de cuarzo analógico  reloj de pulsera de estilo militar multifunción  resistente al agua  con correa de cuero y pantalla de fecha 8301  blue '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077M3LX2D/?tag=tolees-21'
+descuento: '65.82'
+titulo: 'Curren hombres reloj de cuarzo analógico'
 ---
 
 Está [Curren hombres reloj de cuarzo analógico  reloj de pulsera de estilo militar multifunción  resistente al agua  con correa de cuero y pantalla de fecha 8301  blue ](https://www.amazon.es/dp/B077M3LX2D/?tag=tolees-21) con 65.82 de descuento por 23.89 EUR (original: 69.89 EUR) en el siguiente enlace!

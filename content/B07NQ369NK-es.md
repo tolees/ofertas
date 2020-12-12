@@ -17,6 +17,9 @@ comparePrice: 38.99 EUR
 inStock: true
 prodname: 'SILIK Womens Sports Gym Shorts Entrenamiento Transpirable Correr Fitness Leggings Coral Rojo M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NQ369NK/?tag=tolees-21'
+descuento: '48.73'
+titulo: 'SILIK Womens Sports Gym Shorts Entrenami'
 ---
 
 Está [SILIK Womens Sports Gym Shorts Entrenamiento Transpirable Correr Fitness Leggings Coral Rojo M](https://www.amazon.es/dp/B07NQ369NK/?tag=tolees-21) con 48.73 de descuento por 19.99 EUR (original: 38.99 EUR) en el siguiente enlace!

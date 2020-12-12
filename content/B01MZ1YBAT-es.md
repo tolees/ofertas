@@ -17,6 +17,9 @@ comparePrice: 85.9 EUR
 inStock: true
 prodname: 'Mammut Neon Speed Mochila  Unisex Adulto  Negro  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZ1YBAT/?tag=tolees-21'
+descuento: '33.92'
+titulo: 'Mammut Neon Speed Mochila  Unisex Adulto'
 ---
 
 Ahora mismo tienes [Mammut Neon Speed Mochila  Unisex Adulto  Negro  Talla Única](https://www.amazon.es/dp/B01MZ1YBAT/?tag=tolees-21) a 56.76 EUR (original: 85.9 EUR) (33.92 %  de descuento) en el siguiente enlace!

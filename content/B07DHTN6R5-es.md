@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Quiksilver Estate Pantalones de Nieve  Hombre  Verde  Grape Leaf   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHTN6R5/?tag=tolees-21'
+descuento: '63.01'
+titulo: 'Quiksilver Estate Pantalones de Nieve  H'
 ---
 
 Tienes [Quiksilver Estate Pantalones de Nieve  Hombre  Verde  Grape Leaf   XL](https://www.amazon.es/dp/B07DHTN6R5/?tag=tolees-21) con un 63.01 % de descuento con precio de oferta de 48.08 EUR (original: 129.99 EUR) en el siguiente enlace!

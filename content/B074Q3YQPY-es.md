@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face Y Box S/S tee Camiseta  Niños  TNF White  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074Q3YQPY/?tag=tolees-21'
+descuento: '33.50'
+titulo: 'The North Face Y Box S/S tee Camiseta  N'
 ---
 
 Ahora mismo tienes [The North Face Y Box S/S tee Camiseta  Niños  TNF White  XL](https://www.amazon.es/dp/B074Q3YQPY/?tag=tolees-21) a 19.95 EUR (original: 30 EUR) (33.50 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jacchris Trunks 3 Pack  Bóxer Hombre   Grey Melange Detail: True Blue Black   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0791DNLFW/?tag=tolees-21'
+descuento: '49.10'
+titulo: 'JACK & JONES Jacchris Trunks 3 Pack  Bóx'
 ---
 
 Ahora mismo tienes [JACK & JONES Jacchris Trunks 3 Pack  Bóxer Hombre   Grey Melange Detail: True Blue Black   XX-Large](https://www.amazon.es/dp/B0791DNLFW/?tag=tolees-21) a 12.72 EUR (original: 24.99 EUR) (49.10 %  de descuento) en el siguiente enlace!

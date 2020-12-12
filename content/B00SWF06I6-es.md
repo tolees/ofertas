@@ -17,6 +17,9 @@ comparePrice: 9.98 EUR
 inStock: true
 prodname: 'Joma Toledo Pantalones Cortos Deportivos  Hombre  Azul Marino  4XS-3XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SWF06I6/?tag=tolees-21'
+descuento: '30.36'
+titulo: 'Joma Toledo Pantalones Cortos Deportivos'
 ---
 
 Tienes [Joma Toledo Pantalones Cortos Deportivos  Hombre  Azul Marino  4XS-3XS](https://www.amazon.es/dp/B00SWF06I6/?tag=tolees-21) con un 30.36 % de descuento con precio de oferta de 6.95 EUR (original: 9.98 EUR) en el siguiente enlace!

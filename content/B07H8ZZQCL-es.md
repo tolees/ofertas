@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'YouthUnion Estación Meteorológica Multifuncional  Inalámbrica Interior y Exterior con Pantalla LCD  Barómetro  Alarma Dual Humedad y Temperatura  Pronóstico del Tiempo  Despertador  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H8ZZQCL/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'YouthUnion Estación Meteorológica Multif'
 ---
 
 Tienes [YouthUnion Estación Meteorológica Multifuncional  Inalámbrica Interior y Exterior con Pantalla LCD  Barómetro  Alarma Dual Humedad y Temperatura  Pronóstico del Tiempo  Despertador  Blanco ](https://www.amazon.es/dp/B07H8ZZQCL/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 23.99 EUR (original: 35.99 EUR) en el siguiente enlace!

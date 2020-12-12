@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Clarks Demi Beat  Botas Estilo Motero para Mujer  Gris  Dark Grey Interest-   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSF3R1M/?tag=tolees-21'
+descuento: '57.11'
+titulo: 'Clarks Demi Beat  Botas Estilo Motero pa'
 ---
 
 Ahora mismo tienes [Clarks Demi Beat  Botas Estilo Motero para Mujer  Gris  Dark Grey Interest-   42 EU](https://www.amazon.es/dp/B07FSF3R1M/?tag=tolees-21) a 51.47 EUR (original: 120 EUR) (57.11 %  de descuento) en el siguiente enlace!

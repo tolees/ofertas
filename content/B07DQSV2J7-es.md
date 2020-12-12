@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'MTNG Attitude 69360  Zapatillas para Mujer  Verde  Soft Kaky/Breo Baluva Oro C43412   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQSV2J7/?tag=tolees-21'
+descuento: '52.64'
+titulo: 'MTNG Attitude 69360  Zapatillas para Muj'
 ---
 
 Está [MTNG Attitude 69360  Zapatillas para Mujer  Verde  Soft Kaky/Breo Baluva Oro C43412   38 EU](https://www.amazon.es/dp/B07DQSV2J7/?tag=tolees-21) con 52.64 de descuento por 18.94 EUR (original: 39.99 EUR) en el siguiente enlace!

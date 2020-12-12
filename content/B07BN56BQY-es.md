@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Vans Chapman Mid Textile  Zapatillas Altas para Niños  Negro   MTE  Denim Ug5   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BN56BQY/?tag=tolees-21'
+descuento: '77.26'
+titulo: 'Vans Chapman Mid Textile  Zapatillas Alt'
 ---
 
 Tienes [Vans Chapman Mid Textile  Zapatillas Altas para Niños  Negro   MTE  Denim Ug5   38 EU](https://www.amazon.es/dp/B07BN56BQY/?tag=tolees-21) con un 77.26 % de descuento con precio de oferta de 14.78 EUR (original: 65 EUR) en el siguiente enlace!

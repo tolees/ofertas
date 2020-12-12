@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'adidas Rev Crzy Exp SH Pantalón  Hombre  Rojo  Rojpot/Blanco   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071KFFR2K/?tag=tolees-21'
+descuento: '44.86'
+titulo: 'adidas Rev Crzy Exp SH Pantalón  Hombre '
 ---
 
 Está [adidas Rev Crzy Exp SH Pantalón  Hombre  Rojo  Rojpot/Blanco   M](https://www.amazon.es/dp/B071KFFR2K/?tag=tolees-21) con 44.86 de descuento por 13.78 EUR (original: 24.99 EUR) en el siguiente enlace!

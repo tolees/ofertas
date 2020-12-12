@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Diadora T3ch Run Wn  Zapatillas de Gimnasia para Mujer  Negro  Nero Corvo 80008   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFYC7K7/?tag=tolees-21'
+descuento: '72.75'
+titulo: 'Diadora T3ch Run Wn  Zapatillas de Gimna'
 ---
 
 Tienes [Diadora T3ch Run Wn  Zapatillas de Gimnasia para Mujer  Negro  Nero Corvo 80008   39 EU](https://www.amazon.es/dp/B07FFYC7K7/?tag=tolees-21) con un 72.75 % de descuento con precio de oferta de 16.35 EUR (original: 60 EUR) en el siguiente enlace!

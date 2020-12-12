@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Women s Secret MF MF Dont Disturb Nd Camisón  Mujer   Varios 98   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLCWRGR/?tag=tolees-21'
+descuento: '55.58'
+titulo: 'Women s Secret MF MF Dont Disturb Nd Cam'
 ---
 
 Está [Women s Secret MF MF Dont Disturb Nd Camisón  Mujer   Varios 98   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLCWRGR/?tag=tolees-21) con 55.58 de descuento por 11.1 EUR (original: 24.99 EUR) en el siguiente enlace!

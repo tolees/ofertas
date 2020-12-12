@@ -17,6 +17,9 @@ comparePrice: 81.8 EUR
 inStock: true
 prodname: 'Editions Oberthur Kaporal Boy Primaire Bolsa Escolar  43 cm  Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJD8C7Z/?tag=tolees-21'
+descuento: '65.54'
+titulo: 'Editions Oberthur Kaporal Boy Primaire B'
 ---
 
 Está [Editions Oberthur Kaporal Boy Primaire Bolsa Escolar  43 cm  Gris](https://www.amazon.es/dp/B07BJD8C7Z/?tag=tolees-21) con 65.54 de descuento por 28.19 EUR (original: 81.8 EUR) en el siguiente enlace!

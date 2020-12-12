@@ -17,6 +17,9 @@ comparePrice: 269.0 EUR
 inStock: true
 prodname: 'Xiaomi Redmi Note 9S  Pantalla de 6 67" FHD+  DotDisplay  6GB+128GB  Cámara cuádruple de 48MP  Snapdragon 720G  5020mAh con Carga de 18W  Blanco Glacial [Versión Internacional]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B085S4LC4V/?tag=tolees-21'
+descuento: '25.69'
+titulo: 'Xiaomi Redmi Note 9S  Pantalla de 6 67" '
 ---
 
 Tienes [Xiaomi Redmi Note 9S  Pantalla de 6 67" FHD+  DotDisplay  6GB+128GB  Cámara cuádruple de 48MP  Snapdragon 720G  5020mAh con Carga de 18W  Blanco Glacial [Versión Internacional]](https://www.amazon.es/dp/B085S4LC4V/?tag=tolees-21) con un 25.69 % de descuento con precio de oferta de 199.89 EUR (original: 269.0 EUR) en el siguiente enlace!
@@ -25,9 +28,9 @@ Tienes [Xiaomi Redmi Note 9S  Pantalla de 6 67" FHD+  DotDisplay  6GB+128GB  Cá
 
 Características principales:
 
-- Procesador Snapdragon 720G 2.3 GHz
-- Pantalla de 6.67", 1080 x 2400 pixeles
 - Cámara cuádruple 48 MP + 8 MP +5 MP + 2 MP
+- Pantalla de 6.67", 1080 x 2400 pixeles
+- Procesador Snapdragon 720G 2.3 GHz
 - Sistema operativo Android 10
 - Batería de 5020 mAh
 

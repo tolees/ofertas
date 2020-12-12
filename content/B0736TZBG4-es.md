@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Basico 1 Man Camisa Casual  Blanco  Bianco 101   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0736TZBG4/?tag=tolees-21'
+descuento: '53.56'
+titulo: 'United Colors of Benetton Basico 1 Man C'
 ---
 
 Ahora mismo tienes [United Colors of Benetton Basico 1 Man Camisa Casual  Blanco  Bianco 101   X-Large para Hombre](https://www.amazon.es/dp/B0736TZBG4/?tag=tolees-21) a 13.91 EUR (original: 29.95 EUR) (53.56 %  de descuento) en el siguiente enlace!

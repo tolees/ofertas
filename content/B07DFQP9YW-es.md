@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma 4Keeps Bra Top  Mujer  Black/Bronze  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFQP9YW/?tag=tolees-21'
+descuento: '51.75'
+titulo: 'Puma 4Keeps Bra Top  Mujer  Black/Bronze'
 ---
 
 Está [Puma 4Keeps Bra Top  Mujer  Black/Bronze  XS](https://www.amazon.es/dp/B07DFQP9YW/?tag=tolees-21) con 51.75 de descuento por 14.45 EUR (original: 29.95 EUR) en el siguiente enlace!

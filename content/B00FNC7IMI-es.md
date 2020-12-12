@@ -17,6 +17,9 @@ comparePrice: 84.99 EUR
 inStock: true
 prodname: 'Tristar RADIADOR Abierto KA-5113 1500W 7 Elementos  1500 W  Blanco y gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FNC7IMI/?tag=tolees-21'
+descuento: '29.46'
+titulo: 'Tristar RADIADOR Abierto KA-5113 1500W 7'
 ---
 
 Está [Tristar RADIADOR Abierto KA-5113 1500W 7 Elementos  1500 W  Blanco y gris](https://www.amazon.es/dp/B00FNC7IMI/?tag=tolees-21) con 29.46 de descuento por 59.95 EUR (original: 84.99 EUR) en el siguiente enlace!

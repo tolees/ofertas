@@ -17,6 +17,9 @@ comparePrice: 10.2 EUR
 inStock: true
 prodname: 'Dragon Ball Z Battle Of Gods - Edición Extendida [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AU00QEY/?tag=tolees-21'
+descuento: '50.98'
+titulo: 'Dragon Ball Z Battle Of Gods - Edición E'
 ---
 
 Está [Dragon Ball Z Battle Of Gods - Edición Extendida [Blu-ray]](https://www.amazon.es/dp/B01AU00QEY/?tag=tolees-21) con 50.98 de descuento por 5 EUR (original: 10.2 EUR) en el siguiente enlace!

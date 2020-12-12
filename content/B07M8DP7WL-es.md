@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'The North Face Cyclone 2 HDY - Chaqueta con capucha  Hombre  Citrine Yellow/TNF Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8DP7WL/?tag=tolees-21'
+descuento: '48.31'
+titulo: 'The North Face Cyclone 2 HDY - Chaqueta '
 ---
 
 Está [The North Face Cyclone 2 HDY - Chaqueta con capucha  Hombre  Citrine Yellow/TNF Black  M](https://www.amazon.es/dp/B07M8DP7WL/?tag=tolees-21) con 48.31 de descuento por 43.94 EUR (original: 85 EUR) en el siguiente enlace!

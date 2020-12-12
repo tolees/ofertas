@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Straight Tapered Jeans  Azul  lt aged 6541-424   34W / 36L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MKJH87H/?tag=tolees-21'
+descuento: '63.05'
+titulo: 'G-STAR RAW 3301 Straight Tapered Jeans  '
 ---
 
 Está [G-STAR RAW 3301 Straight Tapered Jeans  Azul  lt aged 6541-424   34W / 36L para Hombre](https://www.amazon.es/dp/B07MKJH87H/?tag=tolees-21) con 63.05 de descuento por 44.32 EUR (original: 119.95 EUR) en el siguiente enlace!

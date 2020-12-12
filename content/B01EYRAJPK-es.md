@@ -17,6 +17,9 @@ comparePrice: 15.75 EUR
 inStock: true
 prodname: 'Renberg Vaso ISOTERMICO  Acero Inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EYRAJPK/?tag=tolees-21'
+descuento: '43.75'
+titulo: 'Renberg Vaso ISOTERMICO  Acero Inoxidabl'
 ---
 
 Está [Renberg Vaso ISOTERMICO  Acero Inoxidable](https://www.amazon.es/dp/B01EYRAJPK/?tag=tolees-21) con 43.75 de descuento por 8.86 EUR (original: 15.75 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'The North Face Equipment TNF Bolsa con tapa enrollable Flyweight  Unisex adulto  Brit Blue/Urban Navy  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072YZC51Q/?tag=tolees-21'
+descuento: '54.76'
+titulo: 'The North Face Equipment TNF Bolsa con t'
 ---
 
 Tienes [The North Face Equipment TNF Bolsa con tapa enrollable Flyweight  Unisex adulto  Brit Blue/Urban Navy  Talla única](https://www.amazon.es/dp/B072YZC51Q/?tag=tolees-21) con un 54.76 % de descuento con precio de oferta de 20.36 EUR (original: 45 EUR) en el siguiente enlace!

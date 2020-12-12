@@ -17,6 +17,9 @@ comparePrice: 41 EUR
 inStock: true
 prodname: 'COMIFORT – Estantes Pared Juego de 3 Estanterías Librería Moderna En Colores Blanca  Wengue  Roble  Nordic  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PXXW8QX/?tag=tolees-21'
+descuento: '48.78'
+titulo: 'COMIFORT – Estantes Pared Juego de 3 Est'
 ---
 
 Tienes [COMIFORT – Estantes Pared Juego de 3 Estanterías Librería Moderna En Colores Blanca  Wengue  Roble  Nordic  Blanco ](https://www.amazon.es/dp/B07PXXW8QX/?tag=tolees-21) con un 48.78 % de descuento con precio de oferta de 21 EUR (original: 41 EUR) en el siguiente enlace!

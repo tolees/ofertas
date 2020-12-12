@@ -17,6 +17,9 @@ comparePrice: 81.86 EUR
 inStock: true
 prodname: 'Makita P-71772 - Porta bolsa con correa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004Z55NNA/?tag=tolees-21'
+descuento: '40.61'
+titulo: 'Makita P-71772 - Porta bolsa con correa'
 ---
 
 Ahora mismo tienes [Makita P-71772 - Porta bolsa con correa](https://www.amazon.es/dp/B004Z55NNA/?tag=tolees-21) a 48.62 EUR (original: 81.86 EUR) (40.61 %  de descuento) en el siguiente enlace!

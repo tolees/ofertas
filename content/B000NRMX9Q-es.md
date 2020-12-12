@@ -17,6 +17,9 @@ comparePrice: 22.1 EUR
 inStock: true
 prodname: 'Cressi Rondinella Aletas  Unisex  Azul  39-40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000NRMX9Q/?tag=tolees-21'
+descuento: '50.45'
+titulo: 'Cressi Rondinella Aletas  Unisex  Azul  '
 ---
 
 Tienes [Cressi Rondinella Aletas  Unisex  Azul  39-40](https://www.amazon.es/dp/B000NRMX9Q/?tag=tolees-21) con un 50.45 % de descuento con precio de oferta de 10.95 EUR (original: 22.1 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 26.72 EUR
 inStock: true
 prodname: 'adidas Pro 2Pc TP AOP Parte Superior Bikini  Mujer   Marley   40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KT4VL82/?tag=tolees-21'
+descuento: '53.41'
+titulo: 'adidas Pro 2Pc TP AOP Parte Superior Bik'
 ---
 
 Tienes [adidas Pro 2Pc TP AOP Parte Superior Bikini  Mujer   Marley   40](https://www.amazon.es/dp/B07KT4VL82/?tag=tolees-21) con un 53.41 % de descuento con precio de oferta de 12.45 EUR (original: 26.72 EUR) en el siguiente enlace!

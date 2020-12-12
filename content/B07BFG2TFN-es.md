@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Deconstructed Skinny  Jeans para Hombre  Azul  Medium Vintage Aged 9136-4970  34W / 34L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BFG2TFN/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'G-STAR RAW 3301 Deconstructed Skinny  Je'
 ---
 
 Tienes [G-STAR RAW 3301 Deconstructed Skinny  Jeans para Hombre  Azul  Medium Vintage Aged 9136-4970  34W / 34L](https://www.amazon.es/dp/B07BFG2TFN/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 59.95 EUR (original: 99.95 EUR) en el siguiente enlace!

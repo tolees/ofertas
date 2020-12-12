@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Bomba de Bicicleta  ID MAX Portátil Mini Bicicleta Bomba pie Activada Inflador Bomba de Neumáticos con Indicador de Presión Aguja de Inflado y Dispositivo Inflable Compatible Presta y Válvula Schrader'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KFY1TTP/?tag=tolees-21'
+descuento: '26.51'
+titulo: 'Bomba de Bicicleta  ID MAX Portátil Mini'
 ---
 
 Ahora mismo tienes [Bomba de Bicicleta  ID MAX Portátil Mini Bicicleta Bomba pie Activada Inflador Bomba de Neumáticos con Indicador de Presión Aguja de Inflado y Dispositivo Inflable Compatible Presta y Válvula Schrader](https://www.amazon.es/dp/B07KFY1TTP/?tag=tolees-21) a 14.69 EUR (original: 19.99 EUR) (26.51 %  de descuento) en el siguiente enlace!

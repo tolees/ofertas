@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Salomon TRAILSTER W  Zapatillas de Trail Running para Mujer  Azul  Bluebird/Deep Lagoon/Beach Glass   43 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SY9TZK/?tag=tolees-21'
+descuento: '60.31'
+titulo: 'Salomon TRAILSTER W  Zapatillas de Trail'
 ---
 
 Tienes [Salomon TRAILSTER W  Zapatillas de Trail Running para Mujer  Azul  Bluebird/Deep Lagoon/Beach Glass   43 1/3 EU](https://www.amazon.es/dp/B078SY9TZK/?tag=tolees-21) con un 60.31 % de descuento con precio de oferta de 39.67 EUR (original: 99.95 EUR) en el siguiente enlace!

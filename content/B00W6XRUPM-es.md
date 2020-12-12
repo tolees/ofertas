@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Gant N Haven Gant Chino  Pantalones para Hombre  Beige  Dark Khaki 248   W40/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00W6XRUPM/?tag=tolees-21'
+descuento: '52.06'
+titulo: 'Gant N Haven Gant Chino  Pantalones para'
 ---
 
 Tienes [Gant N Haven Gant Chino  Pantalones para Hombre  Beige  Dark Khaki 248   W40/L34](https://www.amazon.es/dp/B00W6XRUPM/?tag=tolees-21) con un 52.06 % de descuento con precio de oferta de 47.92 EUR (original: 99.95 EUR) en el siguiente enlace!

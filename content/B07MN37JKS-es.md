@@ -17,6 +17,9 @@ comparePrice: 80.99 EUR
 inStock: true
 prodname: 'Masajeador de Cuello y Hombros  iFanze Masajeador Electrico Espalda y Cervical  Masajeador Cervical Hombros Espalda Piernas Pies  Intensidad Regulable  6 Programa  Portátil  Alimentado por Teléfono'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MN37JKS/?tag=tolees-21'
+descuento: '82.78'
+titulo: 'Masajeador de Cuello y Hombros  iFanze M'
 ---
 
 Ahora mismo tienes [Masajeador de Cuello y Hombros  iFanze Masajeador Electrico Espalda y Cervical  Masajeador Cervical Hombros Espalda Piernas Pies  Intensidad Regulable  6 Programa  Portátil  Alimentado por Teléfono](https://www.amazon.es/dp/B07MN37JKS/?tag=tolees-21) a 13.95 EUR (original: 80.99 EUR) (82.78 %  de descuento) en el siguiente enlace!

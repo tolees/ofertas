@@ -17,6 +17,9 @@ comparePrice: 225 EUR
 inStock: true
 prodname: 'Michael Kors - Ava Extra-small Leather Crossbody  Bolsos bandolera Mujer  Marrón  Acorn   7.6x13.3x20.3 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DM48JNM/?tag=tolees-21'
+descuento: '50.22'
+titulo: 'Michael Kors - Ava Extra-small Leather C'
 ---
 
 Está [Michael Kors - Ava Extra-small Leather Crossbody  Bolsos bandolera Mujer  Marrón  Acorn   7.6x13.3x20.3 cm  B x H T ](https://www.amazon.es/dp/B07DM48JNM/?tag=tolees-21) con 50.22 de descuento por 112 EUR (original: 225 EUR) en el siguiente enlace!

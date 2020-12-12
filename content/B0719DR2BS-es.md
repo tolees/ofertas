@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'FIND Vestido Ajustable para Mujer   Azul  Blau   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0719DR2BS/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND Vestido Ajustable para Mujer   Azul'
 ---
 
 Está [FIND Vestido Ajustable para Mujer   Azul  Blau   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B0719DR2BS/?tag=tolees-21) con 70.00 de descuento por 7.8 EUR (original: 26 EUR) en el siguiente enlace!

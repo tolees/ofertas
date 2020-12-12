@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Under Armour Boys Armour Select Duffel Mochila  Niños  Negro Black/White 001  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071P2NZ8Y/?tag=tolees-21'
+descuento: '42.52'
+titulo: 'Under Armour Boys Armour Select Duffel M'
 ---
 
 Tienes [Under Armour Boys Armour Select Duffel Mochila  Niños  Negro Black/White 001  Talla única](https://www.amazon.es/dp/B071P2NZ8Y/?tag=tolees-21) con un 42.52 % de descuento con precio de oferta de 22.99 EUR (original: 40 EUR) en el siguiente enlace!

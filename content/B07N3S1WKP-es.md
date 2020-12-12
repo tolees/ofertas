@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Hackett Archive Hkt PNL Polo  Azul  Navy 595   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3S1WKP/?tag=tolees-21'
+descuento: '53.02'
+titulo: 'Hackett Archive Hkt PNL Polo  Azul  Navy'
 ---
 
 Ahora mismo tienes [Hackett Archive Hkt PNL Polo  Azul  Navy 595   X-Large para Hombre](https://www.amazon.es/dp/B07N3S1WKP/?tag=tolees-21) a 56.38 EUR (original: 120 EUR) (53.02 %  de descuento) en el siguiente enlace!

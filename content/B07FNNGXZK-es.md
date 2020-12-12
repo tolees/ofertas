@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jacpeter Trunks Noos  Bóxer para Hombre  Gris Grey Melange  XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNNGXZK/?tag=tolees-21'
+descuento: '61.51'
+titulo: 'JACK & JONES Jacpeter Trunks Noos  Bóxer'
 ---
 
 Está [JACK & JONES Jacpeter Trunks Noos  Bóxer para Hombre  Gris Grey Melange  XX-Large](https://www.amazon.es/dp/B07FNNGXZK/?tag=tolees-21) con 61.51 de descuento por 5 EUR (original: 12.99 EUR) en el siguiente enlace!

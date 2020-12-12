@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Reebok Astroride Soul  Zapatillas de Senderismo para Mujer  Gris  Stark Grey/Desert Glow/White 000   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TVYLZ3/?tag=tolees-21'
+descuento: '64.00'
+titulo: 'Reebok Astroride Soul  Zapatillas de Sen'
 ---
 
 Ahora mismo tienes [Reebok Astroride Soul  Zapatillas de Senderismo para Mujer  Gris  Stark Grey/Desert Glow/White 000   39 EU](https://www.amazon.es/dp/B077TVYLZ3/?tag=tolees-21) a 21.58 EUR (original: 59.95 EUR) (64.00 %  de descuento) en el siguiente enlace!

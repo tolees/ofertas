@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Cartera delgada con bloqueo de identificación por radio frecuencia  RFID   tarjetero minimalista para tarjetas de crédito  con capacidad de hasta 7 tarjetas y billetes.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K1C7FH2/?tag=tolees-21'
+descuento: '40.18'
+titulo: 'Cartera delgada con bloqueo de identific'
 ---
 
 Ahora mismo tienes [Cartera delgada con bloqueo de identificación por radio frecuencia  RFID   tarjetero minimalista para tarjetas de crédito  con capacidad de hasta 7 tarjetas y billetes.](https://www.amazon.es/dp/B07K1C7FH2/?tag=tolees-21) a 14.95 EUR (original: 24.99 EUR) (40.18 %  de descuento) en el siguiente enlace!

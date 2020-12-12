@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Mars Gaming MHBC - Auriculares del FC Barcelona Lassa  plegable  40mm neodimio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BYZ99MH/?tag=tolees-21'
+descuento: '65.91'
+titulo: 'Mars Gaming MHBC - Auriculares del FC Ba'
 ---
 
 Está [Mars Gaming MHBC - Auriculares del FC Barcelona Lassa  plegable  40mm neodimio](https://www.amazon.es/dp/B07BYZ99MH/?tag=tolees-21) con 65.91 de descuento por 10.21 EUR (original: 29.95 EUR) en el siguiente enlace!

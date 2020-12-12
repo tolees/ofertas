@@ -17,6 +17,9 @@ comparePrice: 159.98 EUR
 inStock: true
 prodname: 'Decen Batidora de vaso  Batidora profesional  Alta Potencia 1200W y Calentador 800W  1.75 litros con 8 Cuchillos de Acero Inoxidable  8 Programas 24 000 RPM  sin BPA '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B8VBCZM/?tag=tolees-21'
+descuento: '43.76'
+titulo: 'Decen Batidora de vaso  Batidora profesi'
 ---
 
 Tienes [Decen Batidora de vaso  Batidora profesional  Alta Potencia 1200W y Calentador 800W  1.75 litros con 8 Cuchillos de Acero Inoxidable  8 Programas 24 000 RPM  sin BPA ](https://www.amazon.es/dp/B07B8VBCZM/?tag=tolees-21) con un 43.76 % de descuento con precio de oferta de 89.98 EUR (original: 159.98 EUR) en el siguiente enlace!

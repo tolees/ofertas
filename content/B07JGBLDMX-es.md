@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Liga Medium Bag Bolsa Deporte  Unisex Adulto  Black/Azure Blue/Red Blast  UA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGBLDMX/?tag=tolees-21'
+descuento: '37.45'
+titulo: 'Puma Liga Medium Bag Bolsa Deporte  Unis'
 ---
 
 Está [Puma Liga Medium Bag Bolsa Deporte  Unisex Adulto  Black/Azure Blue/Red Blast  UA](https://www.amazon.es/dp/B07JGBLDMX/?tag=tolees-21) con 37.45 de descuento por 24.99 EUR (original: 39.95 EUR) en el siguiente enlace!

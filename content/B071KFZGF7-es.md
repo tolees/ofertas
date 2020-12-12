@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko Pop! - Television: Stranger Things S2 Figura de Vinilo Eleven 21784'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071KFZGF7/?tag=tolees-21'
+descuento: '45.16'
+titulo: 'Funko Pop! - Television: Stranger Things'
 ---
 
 Tienes [Funko Pop! - Television: Stranger Things S2 Figura de Vinilo Eleven 21784](https://www.amazon.es/dp/B071KFZGF7/?tag=tolees-21) con un 45.16 % de descuento con precio de oferta de 8.22 EUR (original: 14.99 EUR) en el siguiente enlace!

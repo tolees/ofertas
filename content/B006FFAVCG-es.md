@@ -17,6 +17,9 @@ comparePrice: 18.9 EUR
 inStock: true
 prodname: 'Biotin MGM - Cinturón para mujer  talla 75 cm  color Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006FFAVCG/?tag=tolees-21'
+descuento: '75.29'
+titulo: 'Biotin MGM - Cinturón para mujer  talla '
 ---
 
 Tienes [Biotin MGM - Cinturón para mujer  talla 75 cm  color Azul](https://www.amazon.es/dp/B006FFAVCG/?tag=tolees-21) con un 75.29 % de descuento con precio de oferta de 4.67 EUR (original: 18.9 EUR) en el siguiente enlace!

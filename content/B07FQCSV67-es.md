@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjiclark Jjoriginal Zip JJ 913 Noos  Vaqueros Straight para Hombre  Gris Grey Denim  W32/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQCSV67/?tag=tolees-21'
+descuento: '73.37'
+titulo: 'JACK & JONES Jjiclark Jjoriginal Zip JJ '
 ---
 
 Ahora mismo tienes [JACK & JONES Jjiclark Jjoriginal Zip JJ 913 Noos  Vaqueros Straight para Hombre  Gris Grey Denim  W32/L30](https://www.amazon.es/dp/B07FQCSV67/?tag=tolees-21) a 21.3 EUR (original: 79.99 EUR) (73.37 %  de descuento) en el siguiente enlace!

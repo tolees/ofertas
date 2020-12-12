@@ -17,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Crazy Dog Tshirts - Mens Iron Man Science T Shirt Cool Novelty Funny Superhero tee For Guys  Red  - XL - Camiseta Divertidas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GPSISXW/?tag=tolees-21'
+descuento: '41.70'
+titulo: 'Crazy Dog Tshirts - Mens Iron Man Scienc'
 ---
 
 Tienes [Crazy Dog Tshirts - Mens Iron Man Science T Shirt Cool Novelty Funny Superhero tee For Guys  Red  - XL - Camiseta Divertidas](https://www.amazon.es/dp/B00GPSISXW/?tag=tolees-21) con un 41.70 % de descuento con precio de oferta de 6.99 EUR (original: 11.99 EUR) en el siguiente enlace!

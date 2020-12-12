@@ -17,6 +17,9 @@ comparePrice: 46 EUR
 inStock: true
 prodname: 'Oflamn Mochila para Mochila portátil Bolsa de Escuela de Lona Unisex Vintage Daypack para Hombres y Mujeres  Colegio y niños  3.0 Blue/White '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BHBXYPG/?tag=tolees-21'
+descuento: '76.11'
+titulo: 'Oflamn Mochila para Mochila portátil Bol'
 ---
 
 Está [Oflamn Mochila para Mochila portátil Bolsa de Escuela de Lona Unisex Vintage Daypack para Hombres y Mujeres  Colegio y niños  3.0 Blue/White ](https://www.amazon.es/dp/B07BHBXYPG/?tag=tolees-21) con 76.11 de descuento por 10.99 EUR (original: 46 EUR) en el siguiente enlace!

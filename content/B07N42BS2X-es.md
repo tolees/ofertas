@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'HKT by Hackett London Hkt Hoody Capucha  Gris  Grey Marl 933   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N42BS2X/?tag=tolees-21'
+descuento: '55.08'
+titulo: 'HKT by Hackett London Hkt Hoody Capucha '
 ---
 
 Tienes [HKT by Hackett London Hkt Hoody Capucha  Gris  Grey Marl 933   Small para Hombre](https://www.amazon.es/dp/B07N42BS2X/?tag=tolees-21) con un 55.08 % de descuento con precio de oferta de 39.98 EUR (original: 89 EUR) en el siguiente enlace!

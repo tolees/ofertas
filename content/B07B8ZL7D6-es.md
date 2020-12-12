@@ -17,6 +17,9 @@ comparePrice: 145 EUR
 inStock: true
 prodname: 'Geox U Jaylon G  Botas Clasicas para Hombre   Black C9999   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B8ZL7D6/?tag=tolees-21'
+descuento: '60.66'
+titulo: 'Geox U Jaylon G  Botas Clasicas para Hom'
 ---
 
 Está [Geox U Jaylon G  Botas Clasicas para Hombre   Black C9999   41 EU](https://www.amazon.es/dp/B07B8ZL7D6/?tag=tolees-21) con 60.66 de descuento por 57.05 EUR (original: 145 EUR) en el siguiente enlace!

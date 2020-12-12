@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Adidas Gazelle W  Zapatillas de Deporte para Mujer  Verde  Vercen/Ftwbla/Tinazu 000   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078MK1W7G/?tag=tolees-21'
+descuento: '69.45'
+titulo: 'Adidas Gazelle W  Zapatillas de Deporte '
 ---
 
 Ahora mismo tienes [Adidas Gazelle W  Zapatillas de Deporte para Mujer  Verde  Vercen/Ftwbla/Tinazu 000   38 EU](https://www.amazon.es/dp/B078MK1W7G/?tag=tolees-21) a 30.53 EUR (original: 99.95 EUR) (69.45 %  de descuento) en el siguiente enlace!

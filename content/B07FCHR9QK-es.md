@@ -17,6 +17,9 @@ comparePrice: 230 EUR
 inStock: true
 prodname: 'Guess - Peony  Shoppers y bolsos de hombro Mujer  Marrón  Camel   56x16.5x33 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FCHR9QK/?tag=tolees-21'
+descuento: '55.34'
+titulo: 'Guess - Peony  Shoppers y bolsos de homb'
 ---
 
 Está [Guess - Peony  Shoppers y bolsos de hombro Mujer  Marrón  Camel   56x16.5x33 cm  W x H L ](https://www.amazon.es/dp/B07FCHR9QK/?tag=tolees-21) con 55.34 de descuento por 102.72 EUR (original: 230 EUR) en el siguiente enlace!

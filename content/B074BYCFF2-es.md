@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Pepe Jeans Gen  Vaqueros Rectos para Mujer  Negro  Washed Black S98   W27/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074BYCFF2/?tag=tolees-21'
+descuento: '41.40'
+titulo: 'Pepe Jeans Gen  Vaqueros Rectos para Muj'
 ---
 
 Está [Pepe Jeans Gen  Vaqueros Rectos para Mujer  Negro  Washed Black S98   W27/L32](https://www.amazon.es/dp/B074BYCFF2/?tag=tolees-21) con 41.40 de descuento por 43.95 EUR (original: 75 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 37.99 EUR
 inStock: true
 prodname: 'Vestidos De Cóctel Bohemios Manga Larga Floral Otoño Fiesta Maxi Vestido De Mujer Amarillo XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KK9P57F/?tag=tolees-21'
+descuento: '60.54'
+titulo: 'Vestidos De Cóctel Bohemios Manga Larga '
 ---
 
 Está [Vestidos De Cóctel Bohemios Manga Larga Floral Otoño Fiesta Maxi Vestido De Mujer Amarillo XL](https://www.amazon.es/dp/B07KK9P57F/?tag=tolees-21) con 60.54 de descuento por 14.99 EUR (original: 37.99 EUR) en el siguiente enlace!

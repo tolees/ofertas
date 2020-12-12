@@ -17,6 +17,9 @@ comparePrice: 62.51 EUR
 inStock: true
 prodname: 'Base de teclado HP Pro 10 EE G1 - Español'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00T1EDNQ4/?tag=tolees-21'
+descuento: '85.55'
+titulo: 'Base de teclado HP Pro 10 EE G1 - Españo'
 ---
 
 Ahora mismo tienes [Base de teclado HP Pro 10 EE G1 - Español](https://www.amazon.es/dp/B00T1EDNQ4/?tag=tolees-21) a 9.03 EUR (original: 62.51 EUR) (85.55 %  de descuento) en el siguiente enlace!

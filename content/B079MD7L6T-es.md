@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Pepe Jeans Fabio Neceser de Viaje  22 cm  1.32 litros  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079MD7L6T/?tag=tolees-21'
+descuento: '40.34'
+titulo: 'Pepe Jeans Fabio Neceser de Viaje  22 cm'
 ---
 
 Ahora mismo tienes [Pepe Jeans Fabio Neceser de Viaje  22 cm  1.32 litros  Azul](https://www.amazon.es/dp/B079MD7L6T/?tag=tolees-21) a 7.75 EUR (original: 12.99 EUR) (40.34 %  de descuento) en el siguiente enlace!

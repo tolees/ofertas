@@ -17,6 +17,9 @@ comparePrice: 149.85 EUR
 inStock: true
 prodname: 'Asics Noosa FF  Zapatillas de Deporte para Mujer  Azul  Aquarium / Flash Coral / Safety Yellow   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6ZJCSS/?tag=tolees-21'
+descuento: '46.11'
+titulo: 'Asics Noosa FF  Zapatillas de Deporte pa'
 ---
 
 Está [Asics Noosa FF  Zapatillas de Deporte para Mujer  Azul  Aquarium / Flash Coral / Safety Yellow   40.5 EU](https://www.amazon.es/dp/B01N6ZJCSS/?tag=tolees-21) con 46.11 de descuento por 80.76 EUR (original: 149.85 EUR) en el siguiente enlace!

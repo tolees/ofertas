@@ -17,6 +17,9 @@ comparePrice: 12.2 EUR
 inStock: true
 prodname: 'BB Colorete Nude Magique Blush de L Oréal Paris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CN88MNY/?tag=tolees-21'
+descuento: '59.02'
+titulo: 'BB Colorete Nude Magique Blush de L Oréa'
 ---
 
 Está [BB Colorete Nude Magique Blush de L Oréal Paris](https://www.amazon.es/dp/B00CN88MNY/?tag=tolees-21) con 59.02 de descuento por 5 EUR (original: 12.2 EUR) en el siguiente enlace!

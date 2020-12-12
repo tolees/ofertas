@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Nike Air Zoom Resistance  Zapatillas de Deporte para Hombre  Negro  Black/White 010   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003IR9KDK/?tag=tolees-21'
+descuento: '43.99'
+titulo: 'Nike Air Zoom Resistance  Zapatillas de '
 ---
 
 Tienes [Nike Air Zoom Resistance  Zapatillas de Deporte para Hombre  Negro  Black/White 010   46 EU](https://www.amazon.es/dp/B003IR9KDK/?tag=tolees-21) con un 43.99 % de descuento con precio de oferta de 39.21 EUR (original: 70 EUR) en el siguiente enlace!

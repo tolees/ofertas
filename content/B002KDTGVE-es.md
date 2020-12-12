@@ -17,6 +17,9 @@ comparePrice: 21.2 EUR
 inStock: true
 prodname: 'Heliocare Gel SPF50-50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002KDTGVE/?tag=tolees-21'
+descuento: '30.66'
+titulo: 'Heliocare Gel SPF50-50 ml'
 ---
 
 Ahora mismo tienes [Heliocare Gel SPF50-50 ml](https://www.amazon.es/dp/B002KDTGVE/?tag=tolees-21) a 14.7 EUR (original: 21.2 EUR) (30.66 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'AmazonBasics - Limpiacristales para coche en espray con disparador  500 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FW8J8Q2/?tag=tolees-21'
+descuento: '40.16'
+titulo: 'AmazonBasics - Limpiacristales para coch'
 ---
 
 Está [AmazonBasics - Limpiacristales para coche en espray con disparador  500 ml](https://www.amazon.es/dp/B07FW8J8Q2/?tag=tolees-21) con 40.16 de descuento por 5.38 EUR (original: 8.99 EUR) en el siguiente enlace!

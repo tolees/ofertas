@@ -17,6 +17,9 @@ comparePrice: 134.21 EUR
 inStock: true
 prodname: 'Metabo DS 125 - Esmeriladora doble  discos 125 mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003VRBA3K/?tag=tolees-21'
+descuento: '42.00'
+titulo: 'Metabo DS 125 - Esmeriladora doble  disc'
 ---
 
 Tienes [Metabo DS 125 - Esmeriladora doble  discos 125 mm](https://www.amazon.es/dp/B003VRBA3K/?tag=tolees-21) con un 42.00 % de descuento con precio de oferta de 77.84 EUR (original: 134.21 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 106.02 EUR
 inStock: true
 prodname: 'Reebok Flexagon  Zapatillas de Deporte para Hombre   Rustic Wine/Black/Cranberry Red/White 000   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DS9WTPT/?tag=tolees-21'
+descuento: '75.15'
+titulo: 'Reebok Flexagon  Zapatillas de Deporte p'
 ---
 
 Está [Reebok Flexagon  Zapatillas de Deporte para Hombre   Rustic Wine/Black/Cranberry Red/White 000   44.5 EU](https://www.amazon.es/dp/B07DS9WTPT/?tag=tolees-21) con 75.15 de descuento por 26.35 EUR (original: 106.02 EUR) en el siguiente enlace!

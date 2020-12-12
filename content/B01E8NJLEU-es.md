@@ -17,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'Energy Tablet Pro 3  Ocho núcleos  Pantalla IPS HD DE 10.1"  2 GB de RAM  16 GB de Memoria Interna  Android 6  Doble cámara  - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01E8NJLEU/?tag=tolees-21'
+descuento: '37.74'
+titulo: 'Energy Tablet Pro 3  Ocho núcleos  Panta'
 ---
 
 Tienes [Energy Tablet Pro 3  Ocho núcleos  Pantalla IPS HD DE 10.1"  2 GB de RAM  16 GB de Memoria Interna  Android 6  Doble cámara  - Negro](https://www.amazon.es/dp/B01E8NJLEU/?tag=tolees-21) con un 37.74 % de descuento con precio de oferta de 99 EUR (original: 159 EUR) en el siguiente enlace!

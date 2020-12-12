@@ -17,6 +17,9 @@ comparePrice: 450 EUR
 inStock: true
 prodname: 'Sony HT-MT500 - Barra de Sonido compacta  2.1 Canales  WiFi  Bluetooth  NFC  S-Force Pro Front Surround  subwoofer inalámbrico  Compatible con Hi-Res Audio  Wireless Surround y multiroom '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6O3GCA/?tag=tolees-21'
+descuento: '26.89'
+titulo: 'Sony HT-MT500 - Barra de Sonido compacta'
 ---
 
 Está [Sony HT-MT500 - Barra de Sonido compacta  2.1 Canales  WiFi  Bluetooth  NFC  S-Force Pro Front Surround  subwoofer inalámbrico  Compatible con Hi-Res Audio  Wireless Surround y multiroom ](https://www.amazon.es/dp/B01N6O3GCA/?tag=tolees-21) con 26.89 de descuento por 329 EUR (original: 450 EUR) en el siguiente enlace!

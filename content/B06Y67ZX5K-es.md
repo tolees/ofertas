@@ -17,6 +17,9 @@ comparePrice: 159.99 EUR
 inStock: true
 prodname: 'Taurus Horizon 30 Horno potencia de 1500 W  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y67ZX5K/?tag=tolees-21'
+descuento: '68.78'
+titulo: 'Taurus Horizon 30 Horno potencia de 1500'
 ---
 
 Tienes [Taurus Horizon 30 Horno potencia de 1500 W  Negro](https://www.amazon.es/dp/B06Y67ZX5K/?tag=tolees-21) con un 68.78 % de descuento con precio de oferta de 49.95 EUR (original: 159.99 EUR) en el siguiente enlace!

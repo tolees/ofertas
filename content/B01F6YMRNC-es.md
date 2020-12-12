@@ -17,6 +17,9 @@ comparePrice: 25.05 EUR
 inStock: true
 prodname: 'Zapf Creation 821183 - Baby Born para bebés Activity muñeca'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01F6YMRNC/?tag=tolees-21'
+descuento: '65.39'
+titulo: 'Zapf Creation 821183 - Baby Born para be'
 ---
 
 Está [Zapf Creation 821183 - Baby Born para bebés Activity muñeca](https://www.amazon.es/dp/B01F6YMRNC/?tag=tolees-21) con 65.39 de descuento por 8.67 EUR (original: 25.05 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Esprit 997ee2i801  suéter Hombre  Azul  Navy 400   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071XV7M2C/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Esprit 997ee2i801  suéter Hombre  Azul  '
 ---
 
 Ahora mismo tienes [Esprit 997ee2i801  suéter Hombre  Azul  Navy 400   Small](https://www.amazon.es/dp/B071XV7M2C/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

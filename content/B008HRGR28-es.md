@@ -17,6 +17,9 @@ comparePrice: 102.49 EUR
 inStock: true
 prodname: 'Bosch 2608642530 Lame de scie circulaire expert for wood 254 x 30 x 2 4 mm 60'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008HRGR28/?tag=tolees-21'
+descuento: '65.95'
+titulo: 'Bosch 2608642530 Lame de scie circulaire'
 ---
 
 Tienes [Bosch 2608642530 Lame de scie circulaire expert for wood 254 x 30 x 2 4 mm 60](https://www.amazon.es/dp/B008HRGR28/?tag=tolees-21) con un 65.95 % de descuento con precio de oferta de 34.9 EUR (original: 102.49 EUR) en el siguiente enlace!

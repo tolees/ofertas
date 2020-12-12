@@ -17,6 +17,9 @@ comparePrice: 48 EUR
 inStock: true
 prodname: 'Hi-Tec Hopkins  Chaqueta para Hombre  Negro  Black   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FZLS04W/?tag=tolees-21'
+descuento: '40.19'
+titulo: 'Hi-Tec Hopkins  Chaqueta para Hombre  Ne'
 ---
 
 Está [Hi-Tec Hopkins  Chaqueta para Hombre  Negro  Black   XL](https://www.amazon.es/dp/B00FZLS04W/?tag=tolees-21) con 40.19 de descuento por 28.71 EUR (original: 48 EUR) en el siguiente enlace!

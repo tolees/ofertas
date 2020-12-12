@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Nike Wmns Air MAX Sasha Satin  Zapatillas de Running para Mujer   Black/Metallic 001   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071DT2Z2X/?tag=tolees-21'
+descuento: '62.78'
+titulo: 'Nike Wmns Air MAX Sasha Satin  Zapatilla'
 ---
 
 Tienes [Nike Wmns Air MAX Sasha Satin  Zapatillas de Running para Mujer   Black/Metallic 001   40 EU](https://www.amazon.es/dp/B071DT2Z2X/?tag=tolees-21) con un 62.78 % de descuento con precio de oferta de 35.36 EUR (original: 95 EUR) en el siguiente enlace!

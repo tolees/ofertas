@@ -17,6 +17,9 @@ comparePrice: 48.95 EUR
 inStock: true
 prodname: 'DROP SHOT Vulcano - Paletero  60 x 35 x 33 cm  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8ZR1W7/?tag=tolees-21'
+descuento: '46.99'
+titulo: 'DROP SHOT Vulcano - Paletero  60 x 35 x '
 ---
 
 Ahora mismo tienes [DROP SHOT Vulcano - Paletero  60 x 35 x 33 cm  Negro](https://www.amazon.es/dp/B07F8ZR1W7/?tag=tolees-21) a 25.95 EUR (original: 48.95 EUR) (46.99 %  de descuento) en el siguiente enlace!

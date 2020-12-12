@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Core Tommy Slim Polo  Gris  Cloud Htr 501   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079Y9FLXQ/?tag=tolees-21'
+descuento: '51.36'
+titulo: 'Tommy Hilfiger Core Tommy Slim Polo  Gri'
 ---
 
 Está [Tommy Hilfiger Core Tommy Slim Polo  Gris  Cloud Htr 501   Medium para Hombre](https://www.amazon.es/dp/B079Y9FLXQ/?tag=tolees-21) con 51.36 de descuento por 34 EUR (original: 69.9 EUR) en el siguiente enlace!

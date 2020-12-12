@@ -17,6 +17,9 @@ comparePrice: 33.15 EUR
 inStock: true
 prodname: 'New Look Charm  Botines para Mujer  Negro  Black 1   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M6ZSD71/?tag=tolees-21'
+descuento: '59.37'
+titulo: 'New Look Charm  Botines para Mujer  Negr'
 ---
 
 Tienes [New Look Charm  Botines para Mujer  Negro  Black 1   38 EU](https://www.amazon.es/dp/B07M6ZSD71/?tag=tolees-21) con un 59.37 % de descuento con precio de oferta de 13.47 EUR (original: 33.15 EUR) en el siguiente enlace!

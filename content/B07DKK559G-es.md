@@ -17,6 +17,9 @@ comparePrice: 599.95 EUR
 inStock: true
 prodname: 'Dainese Toga72 Leather Jacket  Negro  Talla 54'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DKK559G/?tag=tolees-21'
+descuento: '65.53'
+titulo: 'Dainese Toga72 Leather Jacket  Negro  Ta'
 ---
 
 Ahora mismo tienes [Dainese Toga72 Leather Jacket  Negro  Talla 54](https://www.amazon.es/dp/B07DKK559G/?tag=tolees-21) a 206.79 EUR (original: 599.95 EUR) (65.53 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 55.2 EUR
 inStock: true
 prodname: 'Las Mulas Cabernet Sauvignon  Vino Tinto  6 botellas de 75 cl - Total: 450 cl'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MQLWN3V/?tag=tolees-21'
+descuento: '56.52'
+titulo: 'Las Mulas Cabernet Sauvignon  Vino Tinto'
 ---
 
 Está [Las Mulas Cabernet Sauvignon  Vino Tinto  6 botellas de 75 cl - Total: 450 cl](https://www.amazon.es/dp/B01MQLWN3V/?tag=tolees-21) con 56.52 de descuento por 24 EUR (original: 55.2 EUR) en el siguiente enlace!

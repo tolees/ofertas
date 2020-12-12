@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'The North Face W HH Fp LTE II GTX  Botas de Senderismo para Mujer   Dark Shadow Grey/Violet   41/42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5W9LNP/?tag=tolees-21'
+descuento: '52.34'
+titulo: 'The North Face W HH Fp LTE II GTX  Botas'
 ---
 
 Tienes [The North Face W HH Fp LTE II GTX  Botas de Senderismo para Mujer   Dark Shadow Grey/Violet   41/42 EU](https://www.amazon.es/dp/B01N5W9LNP/?tag=tolees-21) con un 52.34 % de descuento con precio de oferta de 61.96 EUR (original: 130 EUR) en el siguiente enlace!

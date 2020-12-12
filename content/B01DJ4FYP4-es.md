@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Olso  Botas Chelsea para Mujer  Marrón  Tan Suede   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DJ4FYP4/?tag=tolees-21'
+descuento: '68.55'
+titulo: 'Clarks Olso  Botas Chelsea para Mujer  M'
 ---
 
 Tienes [Clarks Olso  Botas Chelsea para Mujer  Marrón  Tan Suede   39.5 EU](https://www.amazon.es/dp/B01DJ4FYP4/?tag=tolees-21) con un 68.55 % de descuento con precio de oferta de 34.6 EUR (original: 110 EUR) en el siguiente enlace!

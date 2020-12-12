@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma SHOKU Non-Knit BT  Zapatillas Unisex Adulto  Blanco White  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC22B1V/?tag=tolees-21'
+descuento: '71.11'
+titulo: 'Puma SHOKU Non-Knit BT  Zapatillas Unise'
 ---
 
 Tienes [Puma SHOKU Non-Knit BT  Zapatillas Unisex Adulto  Blanco White  44 EU](https://www.amazon.es/dp/B07DC22B1V/?tag=tolees-21) con un 71.11 % de descuento con precio de oferta de 28.88 EUR (original: 99.95 EUR) en el siguiente enlace!

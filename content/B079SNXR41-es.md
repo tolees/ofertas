@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'Desigual TS_Utah  Camiseta para Niñas   Blanco 1000   152  Talla del Fabricante: 11/12 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079SNXR41/?tag=tolees-21'
+descuento: '30.04'
+titulo: 'Desigual TS_Utah  Camiseta para Niñas   '
 ---
 
 Tienes [Desigual TS_Utah  Camiseta para Niñas   Blanco 1000   152  Talla del Fabricante: 11/12 ](https://www.amazon.es/dp/B079SNXR41/?tag=tolees-21) con un 30.04 % de descuento con precio de oferta de 25.15 EUR (original: 35.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'L-RUN Mujeres Botas de Nieve para Hombre Slip On Winter Boots Botines Zapatos al Aire Libre Brown 5 UK/EU 39'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GZGXD9G/?tag=tolees-21'
+descuento: '38.48'
+titulo: 'L-RUN Mujeres Botas de Nieve para Hombre'
 ---
 
 Está [L-RUN Mujeres Botas de Nieve para Hombre Slip On Winter Boots Botines Zapatos al Aire Libre Brown 5 UK/EU 39](https://www.amazon.es/dp/B07GZGXD9G/?tag=tolees-21) con 38.48 de descuento por 15.99 EUR (original: 25.99 EUR) en el siguiente enlace!

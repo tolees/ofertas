@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Pioneer SE-CL502-L  Intra Auriculares  Stereo  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EHPZK9E/?tag=tolees-21'
+descuento: '50.45'
+titulo: 'Pioneer SE-CL502-L  Intra Auriculares  S'
 ---
 
 Está [Pioneer SE-CL502-L  Intra Auriculares  Stereo  Azul](https://www.amazon.es/dp/B01EHPZK9E/?tag=tolees-21) con 50.45 de descuento por 4.95 EUR (original: 9.99 EUR) en el siguiente enlace!

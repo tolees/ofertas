@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Lacoste Lerond Bl 1 CAM  Zapatillas para Hombre  Azul  Nvy 003   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8TJESK/?tag=tolees-21'
+descuento: '53.29'
+titulo: 'Lacoste Lerond Bl 1 CAM  Zapatillas para'
 ---
 
 Tienes [Lacoste Lerond Bl 1 CAM  Zapatillas para Hombre  Azul  Nvy 003   44.5 EU](https://www.amazon.es/dp/B01N8TJESK/?tag=tolees-21) con un 53.29 % de descuento con precio de oferta de 41.99 EUR (original: 89.9 EUR) en el siguiente enlace!

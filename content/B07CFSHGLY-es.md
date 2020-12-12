@@ -17,6 +17,9 @@ comparePrice: 154.9 EUR
 inStock: true
 prodname: 'MSI X470 GAMING PRO - Placa Base Performance'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CFSHGLY/?tag=tolees-21'
+descuento: '95.20'
+titulo: 'MSI X470 GAMING PRO - Placa Base Perform'
 ---
 
 Está [MSI X470 GAMING PRO - Placa Base Performance](https://www.amazon.es/dp/B07CFSHGLY/?tag=tolees-21) con 95.20 de descuento por 7.43 EUR (original: 154.9 EUR) en el siguiente enlace!

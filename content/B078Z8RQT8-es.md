@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Mochila Plegable Mochila Compacta Ligera Resistente al Agua Para Viajes Colegio Deportes Aire Libre Nueva 2018 Macuto Empacable Impermeable Ultraligero de Diario para Hombres Mujeres Estudiantes 18L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078Z8RQT8/?tag=tolees-21'
+descuento: '53.76'
+titulo: 'Mochila Plegable Mochila Compacta Ligera'
 ---
 
 Está [Mochila Plegable Mochila Compacta Ligera Resistente al Agua Para Viajes Colegio Deportes Aire Libre Nueva 2018 Macuto Empacable Impermeable Ultraligero de Diario para Hombres Mujeres Estudiantes 18L](https://www.amazon.es/dp/B078Z8RQT8/?tag=tolees-21) con 53.76 de descuento por 18.49 EUR (original: 39.99 EUR) en el siguiente enlace!

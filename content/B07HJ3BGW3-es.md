@@ -17,6 +17,9 @@ comparePrice: 2 EUR
 inStock: true
 prodname: 'ToGames-ES Práctico budín de Magdalenas de 3 Niveles  Molde de Pastel de Chocolate  Molde para Hornear  Fiesta de Molde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HJ3BGW3/?tag=tolees-21'
+descuento: '95.00'
+titulo: 'ToGames-ES Práctico budín de Magdalenas '
 ---
 
 Está [ToGames-ES Práctico budín de Magdalenas de 3 Niveles  Molde de Pastel de Chocolate  Molde para Hornear  Fiesta de Molde](https://www.amazon.es/dp/B07HJ3BGW3/?tag=tolees-21) con 95.00 de descuento por 0.1 EUR (original: 2 EUR) en el siguiente enlace!

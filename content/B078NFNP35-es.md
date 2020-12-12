@@ -17,6 +17,9 @@ comparePrice: 117.8 EUR
 inStock: true
 prodname: 'Deuter XV 2 SL  Mochila Unisex Adulto  Negro  Black   24x36x45 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078NFNP35/?tag=tolees-21'
+descuento: '69.53'
+titulo: 'Deuter XV 2 SL  Mochila Unisex Adulto  N'
 ---
 
 Ahora mismo tienes [Deuter XV 2 SL  Mochila Unisex Adulto  Negro  Black   24x36x45 cm  W x H x L ](https://www.amazon.es/dp/B078NFNP35/?tag=tolees-21) a 35.89 EUR (original: 117.8 EUR) (69.53 %  de descuento) en el siguiente enlace!

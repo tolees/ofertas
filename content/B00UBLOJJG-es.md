@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Anker A7114011 - Cable Lightning a USB de nylon con cabezal de aluminio termo resistente para iPhone  iPod e iPad  1.8 m  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UBLOJJG/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Anker A7114011 - Cable Lightning a USB d'
 ---
 
 Tienes [Anker A7114011 - Cable Lightning a USB de nylon con cabezal de aluminio termo resistente para iPhone  iPod e iPad  1.8 m  color negro](https://www.amazon.es/dp/B00UBLOJJG/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!

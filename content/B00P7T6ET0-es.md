@@ -17,6 +17,9 @@ comparePrice: 16.85 EUR
 inStock: true
 prodname: 'MSV Funda DE Planchado 100% Algodon con Cordones 125X43CM  Morado  125x43x0.5 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00P7T6ET0/?tag=tolees-21'
+descuento: '32.28'
+titulo: 'MSV Funda DE Planchado 100% Algodon con '
 ---
 
 Está [MSV Funda DE Planchado 100% Algodon con Cordones 125X43CM  Morado  125x43x0.5 cm](https://www.amazon.es/dp/B00P7T6ET0/?tag=tolees-21) con 32.28 de descuento por 11.41 EUR (original: 16.85 EUR) en el siguiente enlace!

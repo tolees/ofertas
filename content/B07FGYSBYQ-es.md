@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta Impermeable con Capucha para Hombre  Powder Lite Hooded Jacket  Rojo  Red Element/Bright Copper   Talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FGYSBYQ/?tag=tolees-21'
+descuento: '59.27'
+titulo: 'Columbia Chaqueta Impermeable con Capuch'
 ---
 
 Está [Columbia Chaqueta Impermeable con Capucha para Hombre  Powder Lite Hooded Jacket  Rojo  Red Element/Bright Copper   Talla M](https://www.amazon.es/dp/B07FGYSBYQ/?tag=tolees-21) con 59.27 de descuento por 52.94 EUR (original: 129.99 EUR) en el siguiente enlace!

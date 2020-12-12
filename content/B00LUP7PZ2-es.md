@@ -17,6 +17,9 @@ comparePrice: 469 EUR
 inStock: true
 prodname: 'Samyang F1120406101 - Objetivo fotográfico DSLR para Sony E  Distancia Focal Fija 10mm  Apertura f/2.8-22 ED AS NCS CS   Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LUP7PZ2/?tag=tolees-21'
+descuento: '36.25'
+titulo: 'Samyang F1120406101 - Objetivo fotográfi'
 ---
 
 Tienes [Samyang F1120406101 - Objetivo fotográfico DSLR para Sony E  Distancia Focal Fija 10mm  Apertura f/2.8-22 ED AS NCS CS   Negro](https://www.amazon.es/dp/B00LUP7PZ2/?tag=tolees-21) con un 36.25 % de descuento con precio de oferta de 298.98 EUR (original: 469 EUR) en el siguiente enlace!

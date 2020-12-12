@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Esprit 117ee1i004  suéter Mujer  Morado  Mauve 5 554   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074WH4JVY/?tag=tolees-21'
+descuento: '77.31'
+titulo: 'Esprit 117ee1i004  suéter Mujer  Morado '
 ---
 
 Tienes [Esprit 117ee1i004  suéter Mujer  Morado  Mauve 5 554   Small](https://www.amazon.es/dp/B074WH4JVY/?tag=tolees-21) con un 77.31 % de descuento con precio de oferta de 13.61 EUR (original: 59.99 EUR) en el siguiente enlace!

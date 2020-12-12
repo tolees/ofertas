@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Philips SHB4405BK/00 - Auriculares inálambricos Over Ear con Bluetooth  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LWJ6EB7/?tag=tolees-21'
+descuento: '60.03'
+titulo: 'Philips SHB4405BK/00 - Auriculares inála'
 ---
 
 Ahora mismo tienes [Philips SHB4405BK/00 - Auriculares inálambricos Over Ear con Bluetooth  Color Negro](https://www.amazon.es/dp/B01LWJ6EB7/?tag=tolees-21) a 19.98 EUR (original: 49.99 EUR) (60.03 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Pop! South Park - Figura de Vinilo Kenny'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFCCFRG/?tag=tolees-21'
+descuento: '46.71'
+titulo: 'Pop! South Park - Figura de Vinilo Kenny'
 ---
 
 Está [Pop! South Park - Figura de Vinilo Kenny](https://www.amazon.es/dp/B07DFCCFRG/?tag=tolees-21) con 46.71 de descuento por 8.5 EUR (original: 15.95 EUR) en el siguiente enlace!

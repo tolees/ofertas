@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'O³ Discos Desmaquillantes Reutilizables 16 Unidades Lola Pink + Bolsa De Lavar  De Almacenamiento + Cinta De Pelo - Discos Desmaquillantes Ecologicos De Algodon'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PT3FF81/?tag=tolees-21'
+descuento: '63.49'
+titulo: 'O³ Discos Desmaquillantes Reutilizables '
 ---
 
 Está [O³ Discos Desmaquillantes Reutilizables 16 Unidades Lola Pink + Bolsa De Lavar  De Almacenamiento + Cinta De Pelo - Discos Desmaquillantes Ecologicos De Algodon](https://www.amazon.es/dp/B07PT3FF81/?tag=tolees-21) con 63.49 de descuento por 10.95 EUR (original: 29.99 EUR) en el siguiente enlace!

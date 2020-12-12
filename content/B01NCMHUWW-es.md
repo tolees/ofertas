@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'FIND Jersey de Rayas con Cuello en V Mujer  Rojo  Sports Red/white   42  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NCMHUWW/?tag=tolees-21'
+descuento: '50.16'
+titulo: 'FIND Jersey de Rayas con Cuello en V Muj'
 ---
 
 Está [FIND Jersey de Rayas con Cuello en V Mujer  Rojo  Sports Red/white   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01NCMHUWW/?tag=tolees-21) con 50.16 de descuento por 12.46 EUR (original: 25 EUR) en el siguiente enlace!

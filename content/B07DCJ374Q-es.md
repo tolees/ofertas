@@ -17,6 +17,9 @@ comparePrice: 91 EUR
 inStock: true
 prodname: 'Nike Air MAX Axis Se  GS   Zapatillas de Running para Niños  Rojo Silt Red/White 600  38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCJ374Q/?tag=tolees-21'
+descuento: '40.44'
+titulo: 'Nike Air MAX Axis Se  GS   Zapatillas de'
 ---
 
 Tienes [Nike Air MAX Axis Se  GS   Zapatillas de Running para Niños  Rojo Silt Red/White 600  38.5 EU](https://www.amazon.es/dp/B07DCJ374Q/?tag=tolees-21) con un 40.44 % de descuento con precio de oferta de 54.2 EUR (original: 91 EUR) en el siguiente enlace!

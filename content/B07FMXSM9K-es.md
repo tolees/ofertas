@@ -17,6 +17,9 @@ comparePrice: 85.99 EUR
 inStock: true
 prodname: 'URCERI Mini Sierra Circular 500W  230-240V  7 000rpm con guía láser  85mm. mango de agarre cómodo  Profundidad de corte ajustable  máxima hasta 25 mm  hojas HSS de 80/20 dientes  TCT'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FMXSM9K/?tag=tolees-21'
+descuento: '30.24'
+titulo: 'URCERI Mini Sierra Circular 500W  230-24'
 ---
 
 Está [URCERI Mini Sierra Circular 500W  230-240V  7 000rpm con guía láser  85mm. mango de agarre cómodo  Profundidad de corte ajustable  máxima hasta 25 mm  hojas HSS de 80/20 dientes  TCT](https://www.amazon.es/dp/B07FMXSM9K/?tag=tolees-21) con 30.24 de descuento por 59.99 EUR (original: 85.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'adidas Camo tee Utiblk Camiseta  Hombre  Negro  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSKNDZY/?tag=tolees-21'
+descuento: '49.98'
+titulo: 'adidas Camo tee Utiblk Camiseta  Hombre '
 ---
 
 Está [adidas Camo tee Utiblk Camiseta  Hombre  Negro  XL](https://www.amazon.es/dp/B07KSKNDZY/?tag=tolees-21) con 49.98 de descuento por 14.98 EUR (original: 29.95 EUR) en el siguiente enlace!

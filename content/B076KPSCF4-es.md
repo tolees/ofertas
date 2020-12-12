@@ -17,6 +17,9 @@ comparePrice: 16 EUR
 inStock: true
 prodname: 'Thermals Performance Compression  camiseta térmica para Hombre  Gris  Mid Grey   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076KPSCF4/?tag=tolees-21'
+descuento: '56.19'
+titulo: 'Thermals Performance Compression  camise'
 ---
 
 Ahora mismo tienes [Thermals Performance Compression  camiseta térmica para Hombre  Gris  Mid Grey   Large](https://www.amazon.es/dp/B076KPSCF4/?tag=tolees-21) a 7.01 EUR (original: 16 EUR) (56.19 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 74.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Textile Lace Up Espadrille  Zapatillas para Hombre  Azul  Midnight 403   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078T7M9YV/?tag=tolees-21'
+descuento: '68.02'
+titulo: 'Tommy Hilfiger Textile Lace Up Espadrill'
 ---
 
 Está [Tommy Hilfiger Textile Lace Up Espadrille  Zapatillas para Hombre  Azul  Midnight 403   45 EU](https://www.amazon.es/dp/B078T7M9YV/?tag=tolees-21) con 68.02 de descuento por 23.95 EUR (original: 74.9 EUR) en el siguiente enlace!

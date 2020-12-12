@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Springfield 5Ba Liso Slim Gris Sudadera  Hombre  Gris  Gama Grises 43   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL7GRJ7/?tag=tolees-21'
+descuento: '53.08'
+titulo: 'Springfield 5Ba Liso Slim Gris Sudadera '
 ---
 
 Tienes [Springfield 5Ba Liso Slim Gris Sudadera  Hombre  Gris  Gama Grises 43   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DL7GRJ7/?tag=tolees-21) con un 53.08 % de descuento con precio de oferta de 9.38 EUR (original: 19.99 EUR) en el siguiente enlace!

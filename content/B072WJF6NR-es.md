@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'The North Face Base Camp Duffel S  Mochila impermeable color Tnf Red/ Tnf Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072WJF6NR/?tag=tolees-21'
+descuento: '29.61'
+titulo: 'The North Face Base Camp Duffel S  Mochi'
 ---
 
 Tienes [The North Face Base Camp Duffel S  Mochila impermeable color Tnf Red/ Tnf Black](https://www.amazon.es/dp/B072WJF6NR/?tag=tolees-21) con un 29.61 % de descuento con precio de oferta de 80.95 EUR (original: 115 EUR) en el siguiente enlace!

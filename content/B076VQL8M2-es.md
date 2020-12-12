@@ -17,6 +17,9 @@ comparePrice: 124.9 EUR
 inStock: true
 prodname: 'Under Armour Threadborne Blur 3000008-3  Zapatillas de Entrenamiento para Hombre  Azul  Blue 3000008/303   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VQL8M2/?tag=tolees-21'
+descuento: '54.94'
+titulo: 'Under Armour Threadborne Blur 3000008-3 '
 ---
 
 Ahora mismo tienes [Under Armour Threadborne Blur 3000008-3  Zapatillas de Entrenamiento para Hombre  Azul  Blue 3000008/303   47 EU](https://www.amazon.es/dp/B076VQL8M2/?tag=tolees-21) a 56.28 EUR (original: 124.9 EUR) (54.94 %  de descuento) en el siguiente enlace!

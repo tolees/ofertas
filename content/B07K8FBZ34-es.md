@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'TV Box Android 7.1 - VIDEN W1 Smart TV Box Amlogic S905X Quad Core  1GB RAM & 8GB ROM  4K*2K UHD H.265  HDMI  WiFi Media Player  Android Set-Top Box  Mini Teclado Inalámbrico [Versión Mejorada]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K8FBZ34/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'TV Box Android 7.1 - VIDEN W1 Smart TV B'
 ---
 
 Está [TV Box Android 7.1 - VIDEN W1 Smart TV Box Amlogic S905X Quad Core  1GB RAM & 8GB ROM  4K*2K UHD H.265  HDMI  WiFi Media Player  Android Set-Top Box  Mini Teclado Inalámbrico [Versión Mejorada]](https://www.amazon.es/dp/B07K8FBZ34/?tag=tolees-21) con 30.02 de descuento por 41.99 EUR (original: 60 EUR) en el siguiente enlace!

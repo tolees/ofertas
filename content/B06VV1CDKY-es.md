@@ -17,6 +17,9 @@ comparePrice: 68.99 EUR
 inStock: true
 prodname: 'Hi-Tec Quadra Classic - Zapatillas de Senderismo para Mujer  Beige  Taupe/Lt Taupe/Jadette   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06VV1CDKY/?tag=tolees-21'
+descuento: '71.68'
+titulo: 'Hi-Tec Quadra Classic - Zapatillas de Se'
 ---
 
 Está [Hi-Tec Quadra Classic - Zapatillas de Senderismo para Mujer  Beige  Taupe/Lt Taupe/Jadette   39 EU](https://www.amazon.es/dp/B06VV1CDKY/?tag=tolees-21) con 71.68 de descuento por 19.54 EUR (original: 68.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'HUGO Drick Sudadera  Azul  Open Blue 461   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y84WLB/?tag=tolees-21'
+descuento: '59.46'
+titulo: 'HUGO Drick Sudadera  Azul  Open Blue 461'
 ---
 
 Ahora mismo tienes [HUGO Drick Sudadera  Azul  Open Blue 461   Large para Hombre](https://www.amazon.es/dp/B077Y84WLB/?tag=tolees-21) a 36.08 EUR (original: 89 EUR) (59.46 %  de descuento) en el siguiente enlace!

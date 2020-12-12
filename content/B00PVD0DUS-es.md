@@ -17,6 +17,9 @@ comparePrice: 512.9 EUR
 inStock: true
 prodname: 'D-Link DSR-1000AC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PVD0DUS/?tag=tolees-21'
+descuento: '29.24'
+titulo: 'D-Link DSR-1000AC'
 ---
 
 Tienes [D-Link DSR-1000AC](https://www.amazon.es/dp/B00PVD0DUS/?tag=tolees-21) con un 29.24 % de descuento con precio de oferta de 362.92 EUR (original: 512.9 EUR) en el siguiente enlace!

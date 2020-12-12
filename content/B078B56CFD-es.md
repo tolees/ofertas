@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Athl ID BP  Mochila Unisex Adulto  Marrón  Cartra/Carbon/Carbon   24x36x45 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078B56CFD/?tag=tolees-21'
+descuento: '54.27'
+titulo: 'adidas Athl ID BP  Mochila Unisex Adulto'
 ---
 
 Ahora mismo tienes [adidas Athl ID BP  Mochila Unisex Adulto  Marrón  Cartra/Carbon/Carbon   24x36x45 cm  W x H x L ](https://www.amazon.es/dp/B078B56CFD/?tag=tolees-21) a 22.84 EUR (original: 49.95 EUR) (54.27 %  de descuento) en el siguiente enlace!

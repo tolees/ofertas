@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Speedo Biofuse Sea Squad Mask Infants Gafas de natación  Unisex bebé  Verde/Rosa  One Size'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00C1E0IF0/?tag=tolees-21'
+descuento: '27.39'
+titulo: 'Speedo Biofuse Sea Squad Mask Infants Ga'
 ---
 
 Está [Speedo Biofuse Sea Squad Mask Infants Gafas de natación  Unisex bebé  Verde/Rosa  One Size](https://www.amazon.es/dp/B00C1E0IF0/?tag=tolees-21) con 27.39 de descuento por 14.45 EUR (original: 19.9 EUR) en el siguiente enlace!

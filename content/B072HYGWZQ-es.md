@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Salomon RX Slide 3.0 Unisex  Zapatillas para Interior Adulto  Blanco White/Silver Metallic-x  44 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072HYGWZQ/?tag=tolees-21'
+descuento: '60.05'
+titulo: 'Salomon RX Slide 3.0 Unisex  Zapatillas '
 ---
 
 Tienes [Salomon RX Slide 3.0 Unisex  Zapatillas para Interior Adulto  Blanco White/Silver Metallic-x  44 2/3 EU](https://www.amazon.es/dp/B072HYGWZQ/?tag=tolees-21) con un 60.05 % de descuento con precio de oferta de 25.95 EUR (original: 64.95 EUR) en el siguiente enlace!

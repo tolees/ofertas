@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'DAKINE Eq Duffle Mochila  Unisex Adulto  Gris  Carbon   50 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078VGDVCV/?tag=tolees-21'
+descuento: '60.10'
+titulo: 'DAKINE Eq Duffle Mochila  Unisex Adulto '
 ---
 
 Tienes [DAKINE Eq Duffle Mochila  Unisex Adulto  Gris  Carbon   50 L](https://www.amazon.es/dp/B078VGDVCV/?tag=tolees-21) con un 60.10 % de descuento con precio de oferta de 19.95 EUR (original: 50 EUR) en el siguiente enlace!

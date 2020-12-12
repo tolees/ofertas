@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face Ascentials TNF Gorro  Unisex adulto  Multicolor  Brtolvgndsrptcm   Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WGDQGK/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'The North Face Ascentials TNF Gorro  Uni'
 ---
 
 Tienes [The North Face Ascentials TNF Gorro  Unisex adulto  Multicolor  Brtolvgndsrptcm   Talla única](https://www.amazon.es/dp/B078WGDQGK/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 18 EUR (original: 30 EUR) en el siguiente enlace!

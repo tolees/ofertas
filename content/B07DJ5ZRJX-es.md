@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance 373  Zapatillas para Hombre  Rojo  Burgundy/Pigment Pbg   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ5ZRJX/?tag=tolees-21'
+descuento: '26.06'
+titulo: 'New Balance 373  Zapatillas para Hombre '
 ---
 
 Tienes [New Balance 373  Zapatillas para Hombre  Rojo  Burgundy/Pigment Pbg   42.5 EU](https://www.amazon.es/dp/B07DJ5ZRJX/?tag=tolees-21) con un 26.06 % de descuento con precio de oferta de 59.15 EUR (original: 80 EUR) en el siguiente enlace!

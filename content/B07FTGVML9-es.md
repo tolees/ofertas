@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Daren Zip Fly  Vaqueros Rectos para Hombre  Gris  Grau Used Xz  W30/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTGVML9/?tag=tolees-21'
+descuento: '77.94'
+titulo: 'Lee Daren Zip Fly  Vaqueros Rectos para '
 ---
 
 Está [Lee Daren Zip Fly  Vaqueros Rectos para Hombre  Gris  Grau Used Xz  W30/L34](https://www.amazon.es/dp/B07FTGVML9/?tag=tolees-21) con 77.94 de descuento por 22.05 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 10.75 EUR
 inStock: true
 prodname: 'Naturalium PACK Higiene Corporal Limón - Kit Gel de Ducha Hidratante 500 ml + Loción Dermonutritiva 370 ml + Spray Perfumado 200 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GPWH2R7/?tag=tolees-21'
+descuento: '45.21'
+titulo: 'Naturalium PACK Higiene Corporal Limón -'
 ---
 
 Está [Naturalium PACK Higiene Corporal Limón - Kit Gel de Ducha Hidratante 500 ml + Loción Dermonutritiva 370 ml + Spray Perfumado 200 ml](https://www.amazon.es/dp/B07GPWH2R7/?tag=tolees-21) con 45.21 de descuento por 5.89 EUR (original: 10.75 EUR) en el siguiente enlace!

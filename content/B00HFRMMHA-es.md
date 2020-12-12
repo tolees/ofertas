@@ -17,6 +17,9 @@ comparePrice: 400 EUR
 inStock: true
 prodname: 'MARSHALL Stanmore - Altavoz activo estéreo de 80W  Bluetooth V4.0 + EDR  entrada óptica  RCA y 3.5 mm   crema'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HFRMMHA/?tag=tolees-21'
+descuento: '39.77'
+titulo: 'MARSHALL Stanmore - Altavoz activo estér'
 ---
 
 Tienes [MARSHALL Stanmore - Altavoz activo estéreo de 80W  Bluetooth V4.0 + EDR  entrada óptica  RCA y 3.5 mm   crema](https://www.amazon.es/dp/B00HFRMMHA/?tag=tolees-21) con un 39.77 % de descuento con precio de oferta de 240.94 EUR (original: 400 EUR) en el siguiente enlace!

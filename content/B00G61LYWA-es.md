@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Lacoste L2692 001 54 Monturas de gafas  Rectangulares  54  Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00G61LYWA/?tag=tolees-21'
+descuento: '38.63'
+titulo: 'Lacoste L2692 001 54 Monturas de gafas  '
 ---
 
 Está [Lacoste L2692 001 54 Monturas de gafas  Rectangulares  54  Black](https://www.amazon.es/dp/B00G61LYWA/?tag=tolees-21) con 38.63 de descuento por 70.58 EUR (original: 115 EUR) en el siguiente enlace!

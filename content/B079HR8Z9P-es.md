@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Puma - FS PUMA GAVETTO II Sala BL/AZ Hombre Color: Blanco Talla: 39'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079HR8Z9P/?tag=tolees-21'
+descuento: '55.51'
+titulo: 'Puma - FS PUMA GAVETTO II Sala BL/AZ Hom'
 ---
 
 Tienes [Puma - FS PUMA GAVETTO II Sala BL/AZ Hombre Color: Blanco Talla: 39](https://www.amazon.es/dp/B079HR8Z9P/?tag=tolees-21) con un 55.51 % de descuento con precio de oferta de 20 EUR (original: 44.95 EUR) en el siguiente enlace!

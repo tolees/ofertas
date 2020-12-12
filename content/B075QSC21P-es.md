@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'GORE WEAR C3 Cubrezapato para ciclismo unisex Partial GORE WINDSTOPPER  Talla: 42-44  Color: amarillo neón/negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075QSC21P/?tag=tolees-21'
+descuento: '43.58'
+titulo: 'GORE WEAR C3 Cubrezapato para ciclismo u'
 ---
 
 Tienes [GORE WEAR C3 Cubrezapato para ciclismo unisex Partial GORE WINDSTOPPER  Talla: 42-44  Color: amarillo neón/negro](https://www.amazon.es/dp/B075QSC21P/?tag=tolees-21) con un 43.58 % de descuento con precio de oferta de 28.18 EUR (original: 49.95 EUR) en el siguiente enlace!

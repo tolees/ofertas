@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Samsung Book - Funda Galaxy Tab II  rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009AAA7CC/?tag=tolees-21'
+descuento: '49.90'
+titulo: 'Samsung Book - Funda Galaxy Tab II  rosa'
 ---
 
 Está [Samsung Book - Funda Galaxy Tab II  rosa](https://www.amazon.es/dp/B009AAA7CC/?tag=tolees-21) con 49.90 de descuento por 19.99 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Superga 4524 Cotu - Zapatillas Unisex adulto  Rosso  Geranium   40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TKM1DF0/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Superga 4524 Cotu - Zapatillas Unisex ad'
 ---
 
 Está [Superga 4524 Cotu - Zapatillas Unisex adulto  Rosso  Geranium   40](https://www.amazon.es/dp/B00TKM1DF0/?tag=tolees-21) con 50.00 de descuento por 15 EUR (original: 30 EUR) en el siguiente enlace!

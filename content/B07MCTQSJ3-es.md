@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Maison & White Soporte de bandeja de 5 capas | Organizador de sartén de nivel versátil | Solución de almacenamiento de la cocina de ahorro de espacio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MCTQSJ3/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Maison & White Soporte de bandeja de 5 c'
 ---
 
 Está [Maison & White Soporte de bandeja de 5 capas | Organizador de sartén de nivel versátil | Solución de almacenamiento de la cocina de ahorro de espacio](https://www.amazon.es/dp/B07MCTQSJ3/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

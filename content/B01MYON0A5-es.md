@@ -17,6 +17,9 @@ comparePrice: 14.46 EUR
 inStock: true
 prodname: 'Levi s Levis 168SF Regular Cut Micro Stripe 2P  Calcetines para Hombre  Negro  Jet Black 884   43-46 Pack de 2 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYON0A5/?tag=tolees-21'
+descuento: '31.88'
+titulo: 'Levi s Levis 168SF Regular Cut Micro Str'
 ---
 
 Tienes [Levi s Levis 168SF Regular Cut Micro Stripe 2P  Calcetines para Hombre  Negro  Jet Black 884   43-46 Pack de 2 ](https://www.amazon.es/dp/B01MYON0A5/?tag=tolees-21) con un 31.88 % de descuento con precio de oferta de 9.85 EUR (original: 14.46 EUR) en el siguiente enlace!

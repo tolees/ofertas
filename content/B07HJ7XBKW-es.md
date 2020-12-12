@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Calvin Klein Hombre 3.5cm Adj.belt Cinturón Not Applicable  Marrón  Turkish Coffee 201   125  Talla del fabricante: 110 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HJ7XBKW/?tag=tolees-21'
+descuento: '53.02'
+titulo: 'Calvin Klein Hombre 3.5cm Adj.belt Cintu'
 ---
 
 Ahora mismo tienes [Calvin Klein Hombre 3.5cm Adj.belt Cinturón Not Applicable  Marrón  Turkish Coffee 201   125  Talla del fabricante: 110 ](https://www.amazon.es/dp/B07HJ7XBKW/?tag=tolees-21) a 27.72 EUR (original: 59 EUR) (53.02 %  de descuento) en el siguiente enlace!

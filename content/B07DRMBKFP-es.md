@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Under Armour Rival Wordmark Hoody Parte Superior del Calentamiento  Niños  Verde  Batik/Neo Turquoise 366   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DRMBKFP/?tag=tolees-21'
+descuento: '64.59'
+titulo: 'Under Armour Rival Wordmark Hoody Parte '
 ---
 
 Está [Under Armour Rival Wordmark Hoody Parte Superior del Calentamiento  Niños  Verde  Batik/Neo Turquoise 366   M](https://www.amazon.es/dp/B07DRMBKFP/?tag=tolees-21) con 64.59 de descuento por 15.93 EUR (original: 44.99 EUR) en el siguiente enlace!

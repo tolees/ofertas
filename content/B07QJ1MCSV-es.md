@@ -17,6 +17,9 @@ comparePrice: 30.02 EUR
 inStock: true
 prodname: 'New Look Cosy Shirt Mono  Negro  Black 1   42  Talla del Fabricante: 14  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QJ1MCSV/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'New Look Cosy Shirt Mono  Negro  Black 1'
 ---
 
 Ahora mismo tienes [New Look Cosy Shirt Mono  Negro  Black 1   42  Talla del Fabricante: 14  para Mujer](https://www.amazon.es/dp/B07QJ1MCSV/?tag=tolees-21) a 15 EUR (original: 30.02 EUR) (50.03 %  de descuento) en el siguiente enlace!

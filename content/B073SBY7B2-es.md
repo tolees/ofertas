@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'T-Shirts  Camisa Clásica Estampada para Hombre  Blanco  White 100   X-Large  Talla del fabricante: 17 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073SBY7B2/?tag=tolees-21'
+descuento: '64.77'
+titulo: 'T-Shirts  Camisa Clásica Estampada para '
 ---
 
 Está [T-Shirts  Camisa Clásica Estampada para Hombre  Blanco  White 100   X-Large  Talla del fabricante: 17 ](https://www.amazon.es/dp/B073SBY7B2/?tag=tolees-21) con 64.77 de descuento por 7.75 EUR (original: 22 EUR) en el siguiente enlace!

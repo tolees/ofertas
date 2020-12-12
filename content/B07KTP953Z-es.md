@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Sweater W/Hood  Sudadera Deportiva para Hombre  Azul  Bluette 26f   única  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTP953Z/?tag=tolees-21'
+descuento: '68.44'
+titulo: 'United Colors of Benetton Sweater W/Hood'
 ---
 
 Tienes [United Colors of Benetton Sweater W/Hood  Sudadera Deportiva para Hombre  Azul  Bluette 26f   única  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07KTP953Z/?tag=tolees-21) con un 68.44 % de descuento con precio de oferta de 12.61 EUR (original: 39.95 EUR) en el siguiente enlace!

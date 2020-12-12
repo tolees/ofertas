@@ -17,6 +17,9 @@ comparePrice: 165 EUR
 inStock: true
 prodname: 'Guess Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero W0829L4'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L14GVXS/?tag=tolees-21'
+descuento: '57.69'
+titulo: 'Guess Reloj Análogo clásico para Mujer d'
 ---
 
 Tienes [Guess Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero W0829L4](https://www.amazon.es/dp/B01L14GVXS/?tag=tolees-21) con un 57.69 % de descuento con precio de oferta de 69.81 EUR (original: 165 EUR) en el siguiente enlace!

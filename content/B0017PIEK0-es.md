@@ -17,6 +17,9 @@ comparePrice: 40.99 EUR
 inStock: true
 prodname: 'Philips FS3 - Auriculares de diadema abiertos  40 mW   blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0017PIEK0/?tag=tolees-21'
+descuento: '59.87'
+titulo: 'Philips FS3 - Auriculares de diadema abi'
 ---
 
 Ahora mismo tienes [Philips FS3 - Auriculares de diadema abiertos  40 mW   blanco](https://www.amazon.es/dp/B0017PIEK0/?tag=tolees-21) a 16.45 EUR (original: 40.99 EUR) (59.87 %  de descuento) en el siguiente enlace!

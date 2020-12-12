@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Vibrador Dual Masajeador con 96 Modos Recargable de USB para Relajación  Púrpura '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BTBZ5XD/?tag=tolees-21'
+descuento: '66.68'
+titulo: 'Vibrador Dual Masajeador con 96 Modos Re'
 ---
 
 Tienes [Vibrador Dual Masajeador con 96 Modos Recargable de USB para Relajación  Púrpura ](https://www.amazon.es/dp/B07BTBZ5XD/?tag=tolees-21) con un 66.68 % de descuento con precio de oferta de 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!

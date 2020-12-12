@@ -17,6 +17,9 @@ comparePrice: 33 EUR
 inStock: true
 prodname: 'Under Armour Men s Original Series 6” Boxerjock 2 PK  Ropa interior para hombre  Varios colores  Midnight Navy/Bottle Green   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014VCRAE6/?tag=tolees-21'
+descuento: '25.58'
+titulo: 'Under Armour Men s Original Series 6” Bo'
 ---
 
 Ahora mismo tienes [Under Armour Men s Original Series 6” Boxerjock 2 PK  Ropa interior para hombre  Varios colores  Midnight Navy/Bottle Green   L](https://www.amazon.es/dp/B014VCRAE6/?tag=tolees-21) a 24.56 EUR (original: 33 EUR) (25.58 %  de descuento) en el siguiente enlace!

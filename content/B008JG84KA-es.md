@@ -17,6 +17,9 @@ comparePrice: 18.3 EUR
 inStock: true
 prodname: 'SW-Stahl profesional alicates 180 mm  con Griffschutzisolation 40450L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008JG84KA/?tag=tolees-21'
+descuento: '74.37'
+titulo: 'SW-Stahl profesional alicates 180 mm  co'
 ---
 
 Ahora mismo tienes [SW-Stahl profesional alicates 180 mm  con Griffschutzisolation 40450L](https://www.amazon.es/dp/B008JG84KA/?tag=tolees-21) a 4.69 EUR (original: 18.3 EUR) (74.37 %  de descuento) en el siguiente enlace!

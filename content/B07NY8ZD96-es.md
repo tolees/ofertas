@@ -17,6 +17,9 @@ comparePrice: 47.95 EUR
 inStock: true
 prodname: 'Shijo - Sudadera - Redondo - para Hombre Gris M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NY8ZD96/?tag=tolees-21'
+descuento: '81.11'
+titulo: 'Shijo - Sudadera - Redondo - para Hombre'
 ---
 
 Tienes [Shijo - Sudadera - Redondo - para Hombre Gris M](https://www.amazon.es/dp/B07NY8ZD96/?tag=tolees-21) con un 81.11 % de descuento con precio de oferta de 9.06 EUR (original: 47.95 EUR) en el siguiente enlace!

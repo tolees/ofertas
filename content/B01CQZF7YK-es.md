@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Clarks Lawes  Botines para Hombre  Negro  Black Warm Lined Lea   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CQZF7YK/?tag=tolees-21'
+descuento: '61.18'
+titulo: 'Clarks Lawes  Botines para Hombre  Negro'
 ---
 
 Ahora mismo tienes [Clarks Lawes  Botines para Hombre  Negro  Black Warm Lined Lea   43 EU](https://www.amazon.es/dp/B01CQZF7YK/?tag=tolees-21) a 50.46 EUR (original: 130 EUR) (61.18 %  de descuento) en el siguiente enlace!

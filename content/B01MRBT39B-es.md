@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'K-Swiss Aero Trainer Liberty  Zapatillas para Mujer  Negro  Black/White   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MRBT39B/?tag=tolees-21'
+descuento: '77.74'
+titulo: 'K-Swiss Aero Trainer Liberty  Zapatillas'
 ---
 
 Está [K-Swiss Aero Trainer Liberty  Zapatillas para Mujer  Negro  Black/White   39 EU](https://www.amazon.es/dp/B01MRBT39B/?tag=tolees-21) con 77.74 de descuento por 20.03 EUR (original: 89.99 EUR) en el siguiente enlace!

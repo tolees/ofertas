@@ -17,6 +17,9 @@ comparePrice: 9.15 EUR
 inStock: true
 prodname: 'DURABLE - 832712 - JOJO STYLE CON MOSQUETÓN. Cordón extensible con mosquetón. Longitud: 80 cm. Color: lila.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005VP8TWA/?tag=tolees-21'
+descuento: '55.52'
+titulo: 'DURABLE - 832712 - JOJO STYLE CON MOSQUE'
 ---
 
 Está [DURABLE - 832712 - JOJO STYLE CON MOSQUETÓN. Cordón extensible con mosquetón. Longitud: 80 cm. Color: lila.](https://www.amazon.es/dp/B005VP8TWA/?tag=tolees-21) con 55.52 de descuento por 4.07 EUR (original: 9.15 EUR) en el siguiente enlace!

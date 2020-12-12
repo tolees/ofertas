@@ -17,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Cortabordes  28V TECCPO 4.0Ah Cortabordes Eléctrico  Diámetro de Corte Ajustable 280mm-330mm  Sistema de Liberación de Línea Automática  La Cabeza Gira 90 °  Mango Expande y Contrae - TDLT03G'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DR8BFM1/?tag=tolees-21'
+descuento: '55.00'
+titulo: 'Cortabordes  28V TECCPO 4.0Ah Cortaborde'
 ---
 
 Está [Cortabordes  28V TECCPO 4.0Ah Cortabordes Eléctrico  Diámetro de Corte Ajustable 280mm-330mm  Sistema de Liberación de Línea Automática  La Cabeza Gira 90 °  Mango Expande y Contrae - TDLT03G](https://www.amazon.es/dp/B07DR8BFM1/?tag=tolees-21) con 55.00 de descuento por 89.99 EUR (original: 199.99 EUR) en el siguiente enlace!

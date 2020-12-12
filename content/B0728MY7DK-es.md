@@ -17,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'G-STAR RAW ARC 3D Low Waist Boyfriend Vaqueros   Dk Aged Restored 106 7351   27W / 36L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0728MY7DK/?tag=tolees-21'
+descuento: '74.55'
+titulo: 'G-STAR RAW ARC 3D Low Waist Boyfriend Va'
 ---
 
 Tienes [G-STAR RAW ARC 3D Low Waist Boyfriend Vaqueros   Dk Aged Restored 106 7351   27W / 36L para Mujer](https://www.amazon.es/dp/B0728MY7DK/?tag=tolees-21) con un 74.55 % de descuento con precio de oferta de 38.16 EUR (original: 149.95 EUR) en el siguiente enlace!

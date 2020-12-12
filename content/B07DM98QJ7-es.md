@@ -17,6 +17,9 @@ comparePrice: 34.02 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 9p715 Bóxers Hombre  Paquete de 2  Multicolor  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DM98QJ7/?tag=tolees-21'
+descuento: '61.29'
+titulo: 'Emporio Armani Underwear 9p715 Bóxers Ho'
 ---
 
 Está [Emporio Armani Underwear 9p715 Bóxers Hombre  Paquete de 2  Multicolor  Small](https://www.amazon.es/dp/B07DM98QJ7/?tag=tolees-21) con 61.29 de descuento por 13.17 EUR (original: 34.02 EUR) en el siguiente enlace!

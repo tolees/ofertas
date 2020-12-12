@@ -17,6 +17,9 @@ comparePrice: 31 EUR
 inStock: true
 prodname: 'edc by ESPRIT 996CC2J904  sudadera Hombre  Azul  NAVY   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HTVPJJ4/?tag=tolees-21'
+descuento: '64.84'
+titulo: 'edc by ESPRIT 996CC2J904  sudadera Hombr'
 ---
 
 Ahora mismo tienes [edc by ESPRIT 996CC2J904  sudadera Hombre  Azul  NAVY   Small](https://www.amazon.es/dp/B01HTVPJJ4/?tag=tolees-21) a 10.9 EUR (original: 31 EUR) (64.84 %  de descuento) en el siguiente enlace!

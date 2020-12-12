@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Under Armour UA HG Armr Ankle CP Leggings Capri  Mujer  Azul  408   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072J35XPY/?tag=tolees-21'
+descuento: '58.46'
+titulo: 'Under Armour UA HG Armr Ankle CP Legging'
 ---
 
 Ahora mismo tienes [Under Armour UA HG Armr Ankle CP Leggings Capri  Mujer  Azul  408   XL](https://www.amazon.es/dp/B072J35XPY/?tag=tolees-21) a 20.77 EUR (original: 50 EUR) (58.46 %  de descuento) en el siguiente enlace!

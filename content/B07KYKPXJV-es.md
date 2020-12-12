@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield 3.Gym.MD.Midi Boto Vestido  Gama Marrones 36  Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYKPXJV/?tag=tolees-21'
+descuento: '47.98'
+titulo: 'Springfield 3.Gym.MD.Midi Boto Vestido  '
 ---
 
 Está [Springfield 3.Gym.MD.Midi Boto Vestido  Gama Marrones 36  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07KYKPXJV/?tag=tolees-21) con 47.98 de descuento por 15.6 EUR (original: 29.99 EUR) en el siguiente enlace!

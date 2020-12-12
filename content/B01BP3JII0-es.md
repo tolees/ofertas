@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Clarks Spye Astro  Botines para Mujer  Beige  Sand Suede   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BP3JII0/?tag=tolees-21'
+descuento: '63.62'
+titulo: 'Clarks Spye Astro  Botines para Mujer  B'
 ---
 
 Está [Clarks Spye Astro  Botines para Mujer  Beige  Sand Suede   40 EU](https://www.amazon.es/dp/B01BP3JII0/?tag=tolees-21) con 63.62 de descuento por 43.66 EUR (original: 120 EUR) en el siguiente enlace!

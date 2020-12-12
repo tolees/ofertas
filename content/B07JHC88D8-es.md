@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Twist It Logo Tank Camiseta De Tirantes  Mujer  Rosa  Pale Pink Heather   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHC88D8/?tag=tolees-21'
+descuento: '56.76'
+titulo: 'Puma Twist It Logo Tank Camiseta De Tira'
 ---
 
 Está [Puma Twist It Logo Tank Camiseta De Tirantes  Mujer  Rosa  Pale Pink Heather   M](https://www.amazon.es/dp/B07JHC88D8/?tag=tolees-21) con 56.76 de descuento por 12.95 EUR (original: 29.95 EUR) en el siguiente enlace!

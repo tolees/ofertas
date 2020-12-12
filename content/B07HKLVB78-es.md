@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Mayoral 4440-30-4 Sudadera con Capucha  Niños  Verde  Kale 30   4 años  Tamaño del Fabricante:4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HKLVB78/?tag=tolees-21'
+descuento: '67.41'
+titulo: 'Mayoral 4440-30-4 Sudadera con Capucha  '
 ---
 
 Está [Mayoral 4440-30-4 Sudadera con Capucha  Niños  Verde  Kale 30   4 años  Tamaño del Fabricante:4 ](https://www.amazon.es/dp/B07HKLVB78/?tag=tolees-21) con 67.41 de descuento por 8.47 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'G-Star RAW Rovulc HB Low  Zapatillas para Hombre  Blanco  White 110   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NBRV93G/?tag=tolees-21'
+descuento: '44.39'
+titulo: 'G-Star RAW Rovulc HB Low  Zapatillas par'
 ---
 
 Está [G-Star RAW Rovulc HB Low  Zapatillas para Hombre  Blanco  White 110   41 EU](https://www.amazon.es/dp/B01NBRV93G/?tag=tolees-21) con 44.39 de descuento por 38.9 EUR (original: 69.95 EUR) en el siguiente enlace!

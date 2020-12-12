@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'homgeek  Batidora de Mano  Licuadora 4 en 1 y con 5 velocidades Ajustables  6 Cuchillas de Acero Inoxidable  800W  Negro [2019 Nueva versión]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QYMZGLX/?tag=tolees-21'
+descuento: '62.52'
+titulo: 'homgeek  Batidora de Mano  Licuadora 4 e'
 ---
 
 Está [homgeek  Batidora de Mano  Licuadora 4 en 1 y con 5 velocidades Ajustables  6 Cuchillas de Acero Inoxidable  800W  Negro [2019 Nueva versión]](https://www.amazon.es/dp/B07QYMZGLX/?tag=tolees-21) con 62.52 de descuento por 29.98 EUR (original: 79.99 EUR) en el siguiente enlace!

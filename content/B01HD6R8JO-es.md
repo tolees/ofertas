@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Salomon XA Pro 3D  Zapatillas de Trail Running para Hombre  Verde  Chive/Black/Beluga   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HD6R8JO/?tag=tolees-21'
+descuento: '34.71'
+titulo: 'Salomon XA Pro 3D  Zapatillas de Trail R'
 ---
 
 Tienes [Salomon XA Pro 3D  Zapatillas de Trail Running para Hombre  Verde  Chive/Black/Beluga   46 EU](https://www.amazon.es/dp/B01HD6R8JO/?tag=tolees-21) con un 34.71 % de descuento con precio de oferta de 84.85 EUR (original: 129.95 EUR) en el siguiente enlace!

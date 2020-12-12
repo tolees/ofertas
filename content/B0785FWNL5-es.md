@@ -17,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Under Armour UA Tech 2.0 SS tee Camiseta  Hombre  Rojo  Red/Graphite 600   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0785FWNL5/?tag=tolees-21'
+descuento: '69.99'
+titulo: 'Under Armour UA Tech 2.0 SS tee Camiseta'
 ---
 
 Está [Under Armour UA Tech 2.0 SS tee Camiseta  Hombre  Rojo  Red/Graphite 600   XL](https://www.amazon.es/dp/B0785FWNL5/?tag=tolees-21) con 69.99 de descuento por 8.4 EUR (original: 27.99 EUR) en el siguiente enlace!

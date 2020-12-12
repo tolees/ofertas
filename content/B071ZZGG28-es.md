@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'New Balance Flash  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Team Royal   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071ZZGG28/?tag=tolees-21'
+descuento: '37.34'
+titulo: 'New Balance Flash  Zapatillas Deportivas'
 ---
 
 Tienes [New Balance Flash  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Team Royal   44.5 EU](https://www.amazon.es/dp/B071ZZGG28/?tag=tolees-21) con un 37.34 % de descuento con precio de oferta de 43.86 EUR (original: 70 EUR) en el siguiente enlace!

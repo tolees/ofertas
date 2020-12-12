@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Asics Gel-kenun Lyte MX  Zapatillas de Entrenamiento para Mujer  Gris Stone Grey 020  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZB22RZ/?tag=tolees-21'
+descuento: '70.96'
+titulo: 'Asics Gel-kenun Lyte MX  Zapatillas de E'
 ---
 
 Ahora mismo tienes [Asics Gel-kenun Lyte MX  Zapatillas de Entrenamiento para Mujer  Gris Stone Grey 020  39 EU](https://www.amazon.es/dp/B07CZB22RZ/?tag=tolees-21) a 31.94 EUR (original: 110 EUR) (70.96 %  de descuento) en el siguiente enlace!

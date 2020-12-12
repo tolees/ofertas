@@ -17,6 +17,9 @@ comparePrice: 308 EUR
 inStock: true
 prodname: 'Gucci GG0064SK Gafas de sol  Black-Grey  55 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XFWJ2S6/?tag=tolees-21'
+descuento: '60.61'
+titulo: 'Gucci GG0064SK Gafas de sol  Black-Grey '
 ---
 
 Ahora mismo tienes [Gucci GG0064SK Gafas de sol  Black-Grey  55 para Hombre](https://www.amazon.es/dp/B06XFWJ2S6/?tag=tolees-21) a 121.31 EUR (original: 308 EUR) (60.61 %  de descuento) en el siguiente enlace!

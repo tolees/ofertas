@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Falcon  Zapatillas de Entrenamiento para Hombre  FTWR White/Core Black F36199  46 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2PCVR2/?tag=tolees-21'
+descuento: '36.62'
+titulo: 'adidas Falcon  Zapatillas de Entrenamien'
 ---
 
 Ahora mismo tienes [adidas Falcon  Zapatillas de Entrenamiento para Hombre  FTWR White/Core Black F36199  46 2/3 EU](https://www.amazon.es/dp/B07K2PCVR2/?tag=tolees-21) a 31.66 EUR (original: 49.95 EUR) (36.62 %  de descuento) en el siguiente enlace!

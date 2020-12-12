@@ -17,6 +17,9 @@ comparePrice: 43.89 EUR
 inStock: true
 prodname: 'Batidora de Vaso SURPEER Mini Batidora Smoothie 2 Vasos Portátil Libre de BPA Batidora Licuadora Vaso Licuadoras para Verduras y Frutas 350W Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C5WKZ89/?tag=tolees-21'
+descuento: '60.24'
+titulo: 'Batidora de Vaso SURPEER Mini Batidora S'
 ---
 
 Ahora mismo tienes [Batidora de Vaso SURPEER Mini Batidora Smoothie 2 Vasos Portátil Libre de BPA Batidora Licuadora Vaso Licuadoras para Verduras y Frutas 350W Blanco](https://www.amazon.es/dp/B07C5WKZ89/?tag=tolees-21) a 17.45 EUR (original: 43.89 EUR) (60.24 %  de descuento) en el siguiente enlace!

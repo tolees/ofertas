@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Gardena Aspersor oscilante Polo Classic Alcance Ajustable en Continuo Superficie de riego: 90 MAX. 220 m2  Estándar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004Z54YSA/?tag=tolees-21'
+descuento: '32.23'
+titulo: 'Gardena Aspersor oscilante Polo Classic '
 ---
 
 Está [Gardena Aspersor oscilante Polo Classic Alcance Ajustable en Continuo Superficie de riego: 90 MAX. 220 m2  Estándar](https://www.amazon.es/dp/B004Z54YSA/?tag=tolees-21) con 32.23 de descuento por 13.52 EUR (original: 19.95 EUR) en el siguiente enlace!

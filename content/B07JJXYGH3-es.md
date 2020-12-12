@@ -17,6 +17,9 @@ comparePrice: 205.2 EUR
 inStock: true
 prodname: 'IFOYO - Mesa de Ping Pong portátil para Mesa de Ping Pong  Mesa de Ping Pong compacta para Espacio pequeño  Mesa de Ping Pong Plegable con Red para niños  fácil de Montar  1 5 m'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJXYGH3/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'IFOYO - Mesa de Ping Pong portátil para '
 ---
 
 Está [IFOYO - Mesa de Ping Pong portátil para Mesa de Ping Pong  Mesa de Ping Pong compacta para Espacio pequeño  Mesa de Ping Pong Plegable con Red para niños  fácil de Montar  1 5 m](https://www.amazon.es/dp/B07JJXYGH3/?tag=tolees-21) con 60.00 de descuento por 82.07 EUR (original: 205.2 EUR) en el siguiente enlace!

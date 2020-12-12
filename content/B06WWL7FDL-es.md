@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Go Step Lite  Entrenadores para Mujer  Negro  Black/Grey   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WWL7FDL/?tag=tolees-21'
+descuento: '55.10'
+titulo: 'Skechers Go Step Lite  Entrenadores para'
 ---
 
 Está [Skechers Go Step Lite  Entrenadores para Mujer  Negro  Black/Grey   36 EU](https://www.amazon.es/dp/B06WWL7FDL/?tag=tolees-21) con 55.10 de descuento por 26.92 EUR (original: 59.95 EUR) en el siguiente enlace!

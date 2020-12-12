@@ -17,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'New Balance Rubix  Zapatillas de Running para Mujer  Gris  Lead/Voltage Violet/Steel GB   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C2JXVRN/?tag=tolees-21'
+descuento: '86.11'
+titulo: 'New Balance Rubix  Zapatillas de Running'
 ---
 
 Tienes [New Balance Rubix  Zapatillas de Running para Mujer  Gris  Lead/Voltage Violet/Steel GB   37.5 EU](https://www.amazon.es/dp/B07C2JXVRN/?tag=tolees-21) con un 86.11 % de descuento con precio de oferta de 25.01 EUR (original: 180 EUR) en el siguiente enlace!

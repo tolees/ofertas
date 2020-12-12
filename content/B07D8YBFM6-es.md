@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Medium Drawstring  Bañador para Hombre  Rosa  Ultramarine Blue-Tango Red 799   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8YBFM6/?tag=tolees-21'
+descuento: '30.59'
+titulo: 'Tommy Hilfiger Medium Drawstring  Bañado'
 ---
 
 Tienes [Tommy Hilfiger Medium Drawstring  Bañador para Hombre  Rosa  Ultramarine Blue-Tango Red 799   Large](https://www.amazon.es/dp/B07D8YBFM6/?tag=tolees-21) con un 30.59 % de descuento con precio de oferta de 40.95 EUR (original: 59 EUR) en el siguiente enlace!

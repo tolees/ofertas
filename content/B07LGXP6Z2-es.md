@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face Flex II S/S Camiseta de Manga Corta para Hombre  TNF Red  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LGXP6Z2/?tag=tolees-21'
+descuento: '52.00'
+titulo: 'The North Face Flex II S/S Camiseta de M'
 ---
 
 Tienes [The North Face Flex II S/S Camiseta de Manga Corta para Hombre  TNF Red  L](https://www.amazon.es/dp/B07LGXP6Z2/?tag=tolees-21) con un 52.00 % de descuento con precio de oferta de 14.4 EUR (original: 30 EUR) en el siguiente enlace!

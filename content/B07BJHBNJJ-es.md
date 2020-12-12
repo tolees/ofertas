@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Revend Skinny Jeans  Negro  rinsed 8970-082   34W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJHBNJJ/?tag=tolees-21'
+descuento: '54.98'
+titulo: 'G-STAR RAW Revend Skinny Jeans  Negro  r'
 ---
 
 Está [G-STAR RAW Revend Skinny Jeans  Negro  rinsed 8970-082   34W / 32L para Hombre](https://www.amazon.es/dp/B07BJHBNJJ/?tag=tolees-21) con 54.98 de descuento por 45 EUR (original: 99.95 EUR) en el siguiente enlace!

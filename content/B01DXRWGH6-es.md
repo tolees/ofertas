@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'DC Comics Sudadera con Capucha Flash Distress Rojo XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DXRWGH6/?tag=tolees-21'
+descuento: '60.13'
+titulo: 'DC Comics Sudadera con Capucha Flash Dis'
 ---
 
 Está [DC Comics Sudadera con Capucha Flash Distress Rojo XL](https://www.amazon.es/dp/B01DXRWGH6/?tag=tolees-21) con 60.13 de descuento por 29.9 EUR (original: 75 EUR) en el siguiente enlace!

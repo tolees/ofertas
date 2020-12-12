@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'SHANA 73833  Vestido Para Mujer  Azul  Indigo Oscuro   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RFYCNT/?tag=tolees-21'
+descuento: '74.44'
+titulo: 'SHANA 73833  Vestido Para Mujer  Azul  I'
 ---
 
 Tienes [SHANA 73833  Vestido Para Mujer  Azul  Indigo Oscuro   Medium](https://www.amazon.es/dp/B075RFYCNT/?tag=tolees-21) con un 74.44 % de descuento con precio de oferta de 5.11 EUR (original: 19.99 EUR) en el siguiente enlace!

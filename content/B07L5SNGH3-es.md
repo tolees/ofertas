@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Charles Wilson Sudadera con Capucha Peso Intermedio para Hombre  Medium  Dark Green '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L5SNGH3/?tag=tolees-21'
+descuento: '60.09'
+titulo: 'Charles Wilson Sudadera con Capucha Peso'
 ---
 
 Tienes [Charles Wilson Sudadera con Capucha Peso Intermedio para Hombre  Medium  Dark Green ](https://www.amazon.es/dp/B07L5SNGH3/?tag=tolees-21) con un 60.09 % de descuento con precio de oferta de 13.95 EUR (original: 34.95 EUR) en el siguiente enlace!

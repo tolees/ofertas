@@ -17,6 +17,9 @@ comparePrice: 44 EUR
 inStock: true
 prodname: 'Samsung Wallet Flip - Funda para móvil Galaxy Note 3  Incluye bolsillo interior para tarjeta   blanco- Versión Extranjera'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00F2GQQ50/?tag=tolees-21'
+descuento: '79.55'
+titulo: 'Samsung Wallet Flip - Funda para móvil G'
 ---
 
 Está [Samsung Wallet Flip - Funda para móvil Galaxy Note 3  Incluye bolsillo interior para tarjeta   blanco- Versión Extranjera](https://www.amazon.es/dp/B00F2GQQ50/?tag=tolees-21) con 79.55 de descuento por 9 EUR (original: 44 EUR) en el siguiente enlace!

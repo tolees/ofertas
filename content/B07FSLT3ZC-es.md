@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Un Adorn Lo  Zapatos de Cordones Derby para Mujer  Azul  Blue Grey-   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSLT3ZC/?tag=tolees-21'
+descuento: '68.85'
+titulo: 'Clarks Un Adorn Lo  Zapatos de Cordones '
 ---
 
 Está [Clarks Un Adorn Lo  Zapatos de Cordones Derby para Mujer  Azul  Blue Grey-   41.5 EU](https://www.amazon.es/dp/B07FSLT3ZC/?tag=tolees-21) con 68.85 de descuento por 34.27 EUR (original: 110 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45.91 EUR
 inStock: true
 prodname: 'Soporte elevado para la pantalla del ordenador  altura ajustable  56 cm de largo x 24 cm ancho x 9 cm alto  de crital transparente  de Ttap'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0773V1GHW/?tag=tolees-21'
+descuento: '70.64'
+titulo: 'Soporte elevado para la pantalla del ord'
 ---
 
 Tienes [Soporte elevado para la pantalla del ordenador  altura ajustable  56 cm de largo x 24 cm ancho x 9 cm alto  de crital transparente  de Ttap](https://www.amazon.es/dp/B0773V1GHW/?tag=tolees-21) con un 70.64 % de descuento con precio de oferta de 13.48 EUR (original: 45.91 EUR) en el siguiente enlace!

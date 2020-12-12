@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Geox Jr Shadow A  Bailarinas Para Niñas  Negro  BLACKC9999   26 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00T945RDS/?tag=tolees-21'
+descuento: '48.10'
+titulo: 'Geox Jr Shadow A  Bailarinas Para Niñas '
 ---
 
 Tienes [Geox Jr Shadow A  Bailarinas Para Niñas  Negro  BLACKC9999   26 EU](https://www.amazon.es/dp/B00T945RDS/?tag=tolees-21) con un 48.10 % de descuento con precio de oferta de 25.9 EUR (original: 49.9 EUR) en el siguiente enlace!

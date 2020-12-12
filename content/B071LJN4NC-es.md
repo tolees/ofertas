@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Camper Pelotas K400220-001 Sneakers Mujer 39'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071LJN4NC/?tag=tolees-21'
+descuento: '59.89'
+titulo: 'Camper Pelotas K400220-001 Sneakers Muje'
 ---
 
 Tienes [Camper Pelotas K400220-001 Sneakers Mujer 39](https://www.amazon.es/dp/B071LJN4NC/?tag=tolees-21) con un 59.89 % de descuento con precio de oferta de 56.16 EUR (original: 140 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Juego de 11 bandas de resistencia para ejercicio  incluye 5 bandas apilables para ejercicio  anclaje de puerta  asas  correas de tobillo y bolsa de transporte'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPB4RTN/?tag=tolees-21'
+descuento: '77.80'
+titulo: 'Juego de 11 bandas de resistencia para e'
 ---
 
 Ahora mismo tienes [Juego de 11 bandas de resistencia para ejercicio  incluye 5 bandas apilables para ejercicio  anclaje de puerta  asas  correas de tobillo y bolsa de transporte](https://www.amazon.es/dp/B07FPB4RTN/?tag=tolees-21) a 9.99 EUR (original: 44.99 EUR) (77.80 %  de descuento) en el siguiente enlace!

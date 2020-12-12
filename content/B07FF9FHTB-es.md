@@ -17,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Bollé Freeze Máscaras  Unisex Adulto  Navy Mate  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FF9FHTB/?tag=tolees-21'
+descuento: '65.76'
+titulo: 'Bollé Freeze Máscaras  Unisex Adulto  Na'
 ---
 
 Está [Bollé Freeze Máscaras  Unisex Adulto  Navy Mate  M](https://www.amazon.es/dp/B07FF9FHTB/?tag=tolees-21) con 65.76 de descuento por 9.93 EUR (original: 29 EUR) en el siguiente enlace!

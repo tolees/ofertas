@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Levi s 501 Original Fit Vaqueros  Azul  Snoot 2744   W32/L36 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K7PMQTJ/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'Levi s 501 Original Fit Vaqueros  Azul  '
 ---
 
 Ahora mismo tienes [Levi s 501 Original Fit Vaqueros  Azul  Snoot 2744   W32/L36 para Hombre](https://www.amazon.es/dp/B07K7PMQTJ/?tag=tolees-21) a 49.95 EUR (original: 100 EUR) (50.05 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'COOAU Grabadora de Voz Digital Portátil  8GB 1536Kbps  Recargable Grabadora de audio y sonido con Reproductor de MP3  Micrófono Incorporado  Reducción de Ruido  Grabación con un botón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZWRPWK/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'COOAU Grabadora de Voz Digital Portátil '
 ---
 
 Está [COOAU Grabadora de Voz Digital Portátil  8GB 1536Kbps  Recargable Grabadora de audio y sonido con Reproductor de MP3  Micrófono Incorporado  Reducción de Ruido  Grabación con un botón](https://www.amazon.es/dp/B07MZWRPWK/?tag=tolees-21) con 50.01 de descuento por 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!

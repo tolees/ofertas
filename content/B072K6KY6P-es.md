@@ -17,6 +17,9 @@ comparePrice: 1279 EUR
 inStock: true
 prodname: 'Apple iPad Pro  10 5 pulgadas y 512GB con Wi-Fi + Cellular  - Oro rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072K6KY6P/?tag=tolees-21'
+descuento: '29.71'
+titulo: 'Apple iPad Pro  10 5 pulgadas y 512GB co'
 ---
 
 Tienes [Apple iPad Pro  10 5 pulgadas y 512GB con Wi-Fi + Cellular  - Oro rosa](https://www.amazon.es/dp/B072K6KY6P/?tag=tolees-21) con un 29.71 % de descuento con precio de oferta de 899 EUR (original: 1279 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'The North Face Borealis Classic Mochila  Unisex Adulto  New Taupe Green  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8QPQ38/?tag=tolees-21'
+descuento: '40.05'
+titulo: 'The North Face Borealis Classic Mochila '
 ---
 
 Ahora mismo tienes [The North Face Borealis Classic Mochila  Unisex Adulto  New Taupe Green  Talla Única](https://www.amazon.es/dp/B07M8QPQ38/?tag=tolees-21) a 56.95 EUR (original: 95 EUR) (40.05 %  de descuento) en el siguiente enlace!

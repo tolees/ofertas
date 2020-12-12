@@ -17,6 +17,9 @@ comparePrice: 112.42 EUR
 inStock: true
 prodname: 'DADYPET Secador para Perros Temperatura Velocidad Ajustable 2400W Estándar Europeo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQK99DW/?tag=tolees-21'
+descuento: '27.07'
+titulo: 'DADYPET Secador para Perros Temperatura '
 ---
 
 Está [DADYPET Secador para Perros Temperatura Velocidad Ajustable 2400W Estándar Europeo](https://www.amazon.es/dp/B07DQK99DW/?tag=tolees-21) con 27.07 de descuento por 81.99 EUR (original: 112.42 EUR) en el siguiente enlace!

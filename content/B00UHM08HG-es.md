@@ -17,6 +17,9 @@ comparePrice: 76.66 EUR
 inStock: true
 prodname: 'Enermax EMP700AGT - Fuente de alimentación ATX  700W  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UHM08HG/?tag=tolees-21'
+descuento: '28.27'
+titulo: 'Enermax EMP700AGT - Fuente de alimentaci'
 ---
 
 Ahora mismo tienes [Enermax EMP700AGT - Fuente de alimentación ATX  700W  Color Negro](https://www.amazon.es/dp/B00UHM08HG/?tag=tolees-21) a 54.99 EUR (original: 76.66 EUR) (28.27 %  de descuento) en el siguiente enlace!

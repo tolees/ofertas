@@ -17,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Superdry Worldwide Tickettype Splat tee  Camiseta de Tirantes Hombre  Azul  Nautical Navy 09s   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FL98C3Z/?tag=tolees-21'
+descuento: '72.53'
+titulo: 'Superdry Worldwide Tickettype Splat tee '
 ---
 
 Tienes [Superdry Worldwide Tickettype Splat tee  Camiseta de Tirantes Hombre  Azul  Nautical Navy 09s   Large](https://www.amazon.es/dp/B07FL98C3Z/?tag=tolees-21) con un 72.53 % de descuento con precio de oferta de 10.96 EUR (original: 39.9 EUR) en el siguiente enlace!

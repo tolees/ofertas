@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma RS-150 Wn s  Zapatillas para Mujer  Rosa Mauve Morn  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC19BZ2/?tag=tolees-21'
+descuento: '73.78'
+titulo: 'Puma RS-150 Wn s  Zapatillas para Mujer '
 ---
 
 Está [Puma RS-150 Wn s  Zapatillas para Mujer  Rosa Mauve Morn  38 EU](https://www.amazon.es/dp/B07DC19BZ2/?tag=tolees-21) con 73.78 de descuento por 26.21 EUR (original: 99.95 EUR) en el siguiente enlace!

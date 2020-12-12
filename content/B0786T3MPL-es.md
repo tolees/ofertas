@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'BILLABONG All Day Geo LB 16 Bañador  Hombre  Gris  Char 2061   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0786T3MPL/?tag=tolees-21'
+descuento: '57.69'
+titulo: 'BILLABONG All Day Geo LB 16 Bañador  Hom'
 ---
 
 Tienes [BILLABONG All Day Geo LB 16 Bañador  Hombre  Gris  Char 2061   Medium](https://www.amazon.es/dp/B0786T3MPL/?tag=tolees-21) con un 57.69 % de descuento con precio de oferta de 19.04 EUR (original: 45 EUR) en el siguiente enlace!

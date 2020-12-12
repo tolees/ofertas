@@ -17,6 +17,9 @@ comparePrice: 149.9 EUR
 inStock: true
 prodname: 'LIU JO Shoes Patty 02-Sandal Kid Suede Geranium  Sandalias con Punta Abierta para Mujer  Rojo 81945  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L6RTD7W/?tag=tolees-21'
+descuento: '65.56'
+titulo: 'LIU JO Shoes Patty 02-Sandal Kid Suede G'
 ---
 
 Ahora mismo tienes [LIU JO Shoes Patty 02-Sandal Kid Suede Geranium  Sandalias con Punta Abierta para Mujer  Rojo 81945  38 EU](https://www.amazon.es/dp/B07L6RTD7W/?tag=tolees-21) a 51.63 EUR (original: 149.9 EUR) (65.56 %  de descuento) en el siguiente enlace!

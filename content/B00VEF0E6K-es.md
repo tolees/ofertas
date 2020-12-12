@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JVC HA-SR225-R-E - Auriculares de diadema cerrados  diseño portátil  control remoto y micrófono  reproducción de sonido superior  rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VEF0E6K/?tag=tolees-21'
+descuento: '50.24'
+titulo: 'JVC HA-SR225-R-E - Auriculares de diadem'
 ---
 
 Tienes [JVC HA-SR225-R-E - Auriculares de diadema cerrados  diseño portátil  control remoto y micrófono  reproducción de sonido superior  rojo](https://www.amazon.es/dp/B00VEF0E6K/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 19.9 EUR (original: 39.99 EUR) en el siguiente enlace!

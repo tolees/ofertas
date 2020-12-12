@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorchris Shirt LS One Pocket  Camisa para Hombre  Azul  Total Eclipse Fit:Slim/Solid  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DXTQNHJ/?tag=tolees-21'
+descuento: '60.52'
+titulo: 'JACK & JONES Jorchris Shirt LS One Pocke'
 ---
 
 Está [JACK & JONES Jorchris Shirt LS One Pocket  Camisa para Hombre  Azul  Total Eclipse Fit:Slim/Solid  Small](https://www.amazon.es/dp/B07DXTQNHJ/?tag=tolees-21) con 60.52 de descuento por 11.84 EUR (original: 29.99 EUR) en el siguiente enlace!

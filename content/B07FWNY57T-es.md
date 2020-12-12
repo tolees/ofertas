@@ -17,6 +17,9 @@ comparePrice: 24 EUR
 inStock: true
 prodname: 'Canforrales Pack de Vino "Experiencia"  - Paquete de 6 x 750 ml - Total: 4500 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FWNY57T/?tag=tolees-21'
+descuento: '26.46'
+titulo: 'Canforrales Pack de Vino "Experiencia"  '
 ---
 
 Está [Canforrales Pack de Vino "Experiencia"  - Paquete de 6 x 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B07FWNY57T/?tag=tolees-21) con 26.46 de descuento por 17.65 EUR (original: 24 EUR) en el siguiente enlace!

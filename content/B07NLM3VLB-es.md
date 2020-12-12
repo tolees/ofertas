@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Luz Delantera Bicicleta Luz Bici USB Rechargeable Súper Brillante 450LM con 5 Modos IP65 Impermeable Luz LED Bicicleta y Luz Trasera para Carretera y Montaña'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NLM3VLB/?tag=tolees-21'
+descuento: '78.35'
+titulo: 'Luz Delantera Bicicleta Luz Bici USB Rec'
 ---
 
 Está [Luz Delantera Bicicleta Luz Bici USB Rechargeable Súper Brillante 450LM con 5 Modos IP65 Impermeable Luz LED Bicicleta y Luz Trasera para Carretera y Montaña](https://www.amazon.es/dp/B07NLM3VLB/?tag=tolees-21) con 78.35 de descuento por 12.99 EUR (original: 59.99 EUR) en el siguiente enlace!

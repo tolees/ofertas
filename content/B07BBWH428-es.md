@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Starkon R T S\s  Camiseta Hombre  Azul  Sartho Blue 6067   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BBWH428/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'G-STAR RAW Starkon R T S\s  Camiseta Hom'
 ---
 
 Tienes [G-STAR RAW Starkon R T S\s  Camiseta Hombre  Azul  Sartho Blue 6067   Small](https://www.amazon.es/dp/B07BBWH428/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.97 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Timberland Surfer Bañador de natación  Negro  Black 09b   4 años  Talla del Fabricante: 04A  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JG5LQB4/?tag=tolees-21'
+descuento: '50.17'
+titulo: 'Timberland Surfer Bañador de natación  N'
 ---
 
 Está [Timberland Surfer Bañador de natación  Negro  Black 09b   4 años  Talla del Fabricante: 04A  para Niños](https://www.amazon.es/dp/B07JG5LQB4/?tag=tolees-21) con 50.17 de descuento por 17.44 EUR (original: 35 EUR) en el siguiente enlace!

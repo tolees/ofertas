@@ -17,6 +17,9 @@ comparePrice: 109.8 EUR
 inStock: true
 prodname: 'MetJakt Mujer  Plata de ley  925/1000   plata de ley chapada en oro amarillo talla baguette     '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BGGBNSF/?tag=tolees-21'
+descuento: '75.52'
+titulo: 'MetJakt Mujer  Plata de ley  925/1000   '
 ---
 
 Está [MetJakt Mujer  Plata de ley  925/1000   plata de ley chapada en oro amarillo talla baguette     ](https://www.amazon.es/dp/B07BGGBNSF/?tag=tolees-21) con 75.52 de descuento por 26.88 EUR (original: 109.8 EUR) en el siguiente enlace!

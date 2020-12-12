@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'CAMPER Match  Sandalias con Punta Abierta para Hombre  Negro  Black 1   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MH327BF/?tag=tolees-21'
+descuento: '39.77'
+titulo: 'CAMPER Match  Sandalias con Punta Abiert'
 ---
 
 Está [CAMPER Match  Sandalias con Punta Abierta para Hombre  Negro  Black 1   45 EU](https://www.amazon.es/dp/B07MH327BF/?tag=tolees-21) con 39.77 de descuento por 45.17 EUR (original: 75 EUR) en el siguiente enlace!

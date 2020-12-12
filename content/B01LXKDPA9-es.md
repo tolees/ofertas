@@ -17,6 +17,9 @@ comparePrice: 15.39 EUR
 inStock: true
 prodname: 'Indicode 40-149-Camiseta Hombre Negro  Black  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXKDPA9/?tag=tolees-21'
+descuento: '65.50'
+titulo: 'Indicode 40-149-Camiseta Hombre Negro  B'
 ---
 
 Está [Indicode 40-149-Camiseta Hombre Negro  Black  XXL](https://www.amazon.es/dp/B01LXKDPA9/?tag=tolees-21) con 65.50 de descuento por 5.31 EUR (original: 15.39 EUR) en el siguiente enlace!

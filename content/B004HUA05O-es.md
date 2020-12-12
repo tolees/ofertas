@@ -17,6 +17,9 @@ comparePrice: 845 EUR
 inStock: true
 prodname: 'Piquadro Maletín de piloto  45 L  Marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004HUA05O/?tag=tolees-21'
+descuento: '43.31'
+titulo: 'Piquadro Maletín de piloto  45 L  Marrón'
 ---
 
 Tienes [Piquadro Maletín de piloto  45 L  Marrón](https://www.amazon.es/dp/B004HUA05O/?tag=tolees-21) con un 43.31 % de descuento con precio de oferta de 479 EUR (original: 845 EUR) en el siguiente enlace!

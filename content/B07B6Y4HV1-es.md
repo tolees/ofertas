@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Rojo  NB Burgundy/Black/White Combo   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B6Y4HV1/?tag=tolees-21'
+descuento: '49.73'
+titulo: 'New Balance Fresh Foam Lazr Sport  Zapat'
 ---
 
 Tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Rojo  NB Burgundy/Black/White Combo   42 EU](https://www.amazon.es/dp/B07B6Y4HV1/?tag=tolees-21) con un 49.73 % de descuento con precio de oferta de 45.24 EUR (original: 90 EUR) en el siguiente enlace!

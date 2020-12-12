@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'DoGeek-Látex Natural ballet elástico banda para danza Ballet y gimnasia ejercicio estiramiento flexibilidad formación en casa o en el gimnasio 1 pc Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075JDXX7R/?tag=tolees-21'
+descuento: '43.50'
+titulo: 'DoGeek-Látex Natural ballet elástico ban'
 ---
 
 Está [DoGeek-Látex Natural ballet elástico banda para danza Ballet y gimnasia ejercicio estiramiento flexibilidad formación en casa o en el gimnasio 1 pc Negro](https://www.amazon.es/dp/B075JDXX7R/?tag=tolees-21) con 43.50 de descuento por 12.99 EUR (original: 22.99 EUR) en el siguiente enlace!

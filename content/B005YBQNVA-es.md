@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Lee Brooklyn Straight  Vaqueros para Hombre  Azul  Mid Stonewash   W34/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005YBQNVA/?tag=tolees-21'
+descuento: '34.18'
+titulo: 'Lee Brooklyn Straight  Vaqueros para Hom'
 ---
 
 Ahora mismo tienes [Lee Brooklyn Straight  Vaqueros para Hombre  Azul  Mid Stonewash   W34/L34](https://www.amazon.es/dp/B005YBQNVA/?tag=tolees-21) a 55.95 EUR (original: 85 EUR) (34.18 %  de descuento) en el siguiente enlace!

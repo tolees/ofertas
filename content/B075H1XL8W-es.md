@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'LEGO Juniors - Spider-Man vs. Escorpión: Batalla callejera  10754 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075H1XL8W/?tag=tolees-21'
+descuento: '25.77'
+titulo: 'LEGO Juniors - Spider-Man vs. Escorpión:'
 ---
 
 Tienes [LEGO Juniors - Spider-Man vs. Escorpión: Batalla callejera  10754 ](https://www.amazon.es/dp/B075H1XL8W/?tag=tolees-21) con un 25.77 % de descuento con precio de oferta de 18.55 EUR (original: 24.99 EUR) en el siguiente enlace!

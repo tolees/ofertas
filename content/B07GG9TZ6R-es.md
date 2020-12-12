@@ -17,6 +17,9 @@ comparePrice: 49.85 EUR
 inStock: true
 prodname: 'Champion Freedom Seamless X2  Sujetador Deportivo para Mujer  Negro  Noir 3am   Medium Pack de 2 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GG9TZ6R/?tag=tolees-21'
+descuento: '63.29'
+titulo: 'Champion Freedom Seamless X2  Sujetador '
 ---
 
 Está [Champion Freedom Seamless X2  Sujetador Deportivo para Mujer  Negro  Noir 3am   Medium Pack de 2 ](https://www.amazon.es/dp/B07GG9TZ6R/?tag=tolees-21) con 63.29 de descuento por 18.3 EUR (original: 49.85 EUR) en el siguiente enlace!

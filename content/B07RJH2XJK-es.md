@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Redmi Airdots Auriculares  TWS Bluetooth 5.0 Auriculares Estéreo Bajo Auricular Inalámbrico Caja de Sonido Estéreo Mini Auriculares  Bluetooth Auriculares Antitranspiración IPX4 con Micrófono'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RJH2XJK/?tag=tolees-21'
+descuento: '54.01'
+titulo: 'Redmi Airdots Auriculares  TWS Bluetooth'
 ---
 
 Tienes [Redmi Airdots Auriculares  TWS Bluetooth 5.0 Auriculares Estéreo Bajo Auricular Inalámbrico Caja de Sonido Estéreo Mini Auriculares  Bluetooth Auriculares Antitranspiración IPX4 con Micrófono](https://www.amazon.es/dp/B07RJH2XJK/?tag=tolees-21) con un 54.01 % de descuento con precio de oferta de 22.99 EUR (original: 49.99 EUR) en el siguiente enlace!

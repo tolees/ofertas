@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Belkin F8M967btWHT - Kit de carga para viajeros internacionales  2 4 A  6 variedades regionales de enchufes  diseñado para smartphones y tablets   blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00V7UVLXM/?tag=tolees-21'
+descuento: '44.16'
+titulo: 'Belkin F8M967btWHT - Kit de carga para v'
 ---
 
 Está [Belkin F8M967btWHT - Kit de carga para viajeros internacionales  2 4 A  6 variedades regionales de enchufes  diseñado para smartphones y tablets   blanco](https://www.amazon.es/dp/B00V7UVLXM/?tag=tolees-21) con 44.16 de descuento por 22.33 EUR (original: 39.99 EUR) en el siguiente enlace!

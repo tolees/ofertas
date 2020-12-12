@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Gre Y28 - Piscina infantil tubular Ø 160 x 40 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DYSKKJ6/?tag=tolees-21'
+descuento: '30.22'
+titulo: 'Gre Y28 - Piscina infantil tubular Ø 160'
 ---
 
 Tienes [Gre Y28 - Piscina infantil tubular Ø 160 x 40 cm](https://www.amazon.es/dp/B00DYSKKJ6/?tag=tolees-21) con un 30.22 % de descuento con precio de oferta de 34.19 EUR (original: 49 EUR) en el siguiente enlace!

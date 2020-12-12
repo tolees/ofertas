@@ -17,6 +17,9 @@ comparePrice: 109.2 EUR
 inStock: true
 prodname: 'Chanel Coco Agua de Colonia Spray - 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0002JMM9Q/?tag=tolees-21'
+descuento: '64.78'
+titulo: 'Chanel Coco Agua de Colonia Spray - 50 m'
 ---
 
 Ahora mismo tienes [Chanel Coco Agua de Colonia Spray - 50 ml](https://www.amazon.es/dp/B0002JMM9Q/?tag=tolees-21) a 38.46 EUR (original: 109.2 EUR) (64.78 %  de descuento) en el siguiente enlace!

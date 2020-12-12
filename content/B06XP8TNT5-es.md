@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Desigual Abrig_cardedeu  Niñas  Morado  Flox 3125  128  Talla del Fabricante: 7/8 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XP8TNT5/?tag=tolees-21'
+descuento: '61.50'
+titulo: 'Desigual Abrig_cardedeu  Niñas  Morado  '
 ---
 
 Está [Desigual Abrig_cardedeu  Niñas  Morado  Flox 3125  128  Talla del Fabricante: 7/8 ](https://www.amazon.es/dp/B06XP8TNT5/?tag=tolees-21) con 61.50 de descuento por 30.78 EUR (original: 79.95 EUR) en el siguiente enlace!

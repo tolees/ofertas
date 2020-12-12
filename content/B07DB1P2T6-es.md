@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Puma Future 2.4 FG/AG Jr  Zapatillas de Fútbol Unisex Niños  Plateado Silver-Peacoat 03  29 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DB1P2T6/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'Puma Future 2.4 FG/AG Jr  Zapatillas de '
 ---
 
 Está [Puma Future 2.4 FG/AG Jr  Zapatillas de Fútbol Unisex Niños  Plateado Silver-Peacoat 03  29 EU](https://www.amazon.es/dp/B07DB1P2T6/?tag=tolees-21) con 50.06 de descuento por 22.45 EUR (original: 44.95 EUR) en el siguiente enlace!

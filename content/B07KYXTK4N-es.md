@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Springfield 5.Pa.Falda Larga Lisa Circular Falda  Mujer  Verde  Gama Verdes 23   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYXTK4N/?tag=tolees-21'
+descuento: '59.53'
+titulo: 'Springfield 5.Pa.Falda Larga Lisa Circul'
 ---
 
 Ahora mismo tienes [Springfield 5.Pa.Falda Larga Lisa Circular Falda  Mujer  Verde  Gama Verdes 23   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KYXTK4N/?tag=tolees-21) a 7.28 EUR (original: 17.99 EUR) (59.53 %  de descuento) en el siguiente enlace!

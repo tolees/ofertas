@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Harsen-Arbor  Zapatillas para Hombre  Negro  Black Blk   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CSL197B/?tag=tolees-21'
+descuento: '51.88'
+titulo: 'Skechers Harsen-Arbor  Zapatillas para H'
 ---
 
 Tienes [Skechers Harsen-Arbor  Zapatillas para Hombre  Negro  Black Blk   43 EU](https://www.amazon.es/dp/B07CSL197B/?tag=tolees-21) con un 51.88 % de descuento con precio de oferta de 33.66 EUR (original: 69.95 EUR) en el siguiente enlace!

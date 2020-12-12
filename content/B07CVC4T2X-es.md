@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Under Armour Surge Se  Zapatillas de Running para Hombre  Gris  Jet Gray/White/Barn 101   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVC4T2X/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Under Armour Surge Se  Zapatillas de Run'
 ---
 
 Está [Under Armour Surge Se  Zapatillas de Running para Hombre  Gris  Jet Gray/White/Barn 101   42.5 EU](https://www.amazon.es/dp/B07CVC4T2X/?tag=tolees-21) con 50.00 de descuento por 32.5 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Geox U Keilan D  Zapatillas para Hombre   Navy/Anthracite Cf49a   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792NTXMH/?tag=tolees-21'
+descuento: '72.28'
+titulo: 'Geox U Keilan D  Zapatillas para Hombre '
 ---
 
 Tienes [Geox U Keilan D  Zapatillas para Hombre   Navy/Anthracite Cf49a   41 EU](https://www.amazon.es/dp/B0792NTXMH/?tag=tolees-21) con un 72.28 % de descuento con precio de oferta de 27.69 EUR (original: 99.9 EUR) en el siguiente enlace!

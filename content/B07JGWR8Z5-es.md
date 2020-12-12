@@ -17,6 +17,9 @@ comparePrice: 29.89 EUR
 inStock: true
 prodname: 'Aigital Repetidor Extensor de Rango Inalámbrico de 300 Mbps 2.4GHz WPS 2 x Antenas Externas  Enrutador inalámbrico Repetidor de WiFi Amplificador Compatible con los Routers y ADSL Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGWR8Z5/?tag=tolees-21'
+descuento: '29.78'
+titulo: 'Aigital Repetidor Extensor de Rango Inal'
 ---
 
 Ahora mismo tienes [Aigital Repetidor Extensor de Rango Inalámbrico de 300 Mbps 2.4GHz WPS 2 x Antenas Externas  Enrutador inalámbrico Repetidor de WiFi Amplificador Compatible con los Routers y ADSL Negro ](https://www.amazon.es/dp/B07JGWR8Z5/?tag=tolees-21) a 20.99 EUR (original: 29.89 EUR) (29.78 %  de descuento) en el siguiente enlace!

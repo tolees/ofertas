@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Temfly OBD2  OBD2 WiFi Diagnosis Coche Auto Diagnóstico OBDII Diagnostico Coche Conectado con iOS  Android  Windows-Conveniente para La Mayoría de Los Coches'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QST8SMR/?tag=tolees-21'
+descuento: '66.02'
+titulo: 'Temfly OBD2  OBD2 WiFi Diagnosis Coche A'
 ---
 
 Tienes [Temfly OBD2  OBD2 WiFi Diagnosis Coche Auto Diagnóstico OBDII Diagnostico Coche Conectado con iOS  Android  Windows-Conveniente para La Mayoría de Los Coches](https://www.amazon.es/dp/B07QST8SMR/?tag=tolees-21) con un 66.02 % de descuento con precio de oferta de 13.59 EUR (original: 39.99 EUR) en el siguiente enlace!

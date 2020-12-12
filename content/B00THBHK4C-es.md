@@ -17,6 +17,9 @@ comparePrice: 24.4 EUR
 inStock: true
 prodname: 'Uhlsport Essential Pantalones/Shorts de Entrenamiento  Hombre  Azul Marino  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00THBHK4C/?tag=tolees-21'
+descuento: '77.50'
+titulo: 'Uhlsport Essential Pantalones/Shorts de '
 ---
 
 Está [Uhlsport Essential Pantalones/Shorts de Entrenamiento  Hombre  Azul Marino  S](https://www.amazon.es/dp/B00THBHK4C/?tag=tolees-21) con 77.50 de descuento por 5.49 EUR (original: 24.4 EUR) en el siguiente enlace!

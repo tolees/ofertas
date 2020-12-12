@@ -17,6 +17,9 @@ comparePrice: 506.51 EUR
 inStock: true
 prodname: 'PG700WU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B7NMW61/?tag=tolees-21'
+descuento: '41.10'
+titulo: 'PG700WU'
 ---
 
 Tienes [PG700WU](https://www.amazon.es/dp/B07B7NMW61/?tag=tolees-21) con un 41.10 % de descuento con precio de oferta de 298.32 EUR (original: 506.51 EUR) en el siguiente enlace!

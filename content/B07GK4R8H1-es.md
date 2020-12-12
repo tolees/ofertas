@@ -17,6 +17,9 @@ comparePrice: 60.36 EUR
 inStock: true
 prodname: 'bugatti 321480075400  Zapatillas para Hombre  Azul  Dark Blue 4100   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GK4R8H1/?tag=tolees-21'
+descuento: '53.69'
+titulo: 'bugatti 321480075400  Zapatillas para Ho'
 ---
 
 Ahora mismo tienes [bugatti 321480075400  Zapatillas para Hombre  Azul  Dark Blue 4100   44 EU](https://www.amazon.es/dp/B07GK4R8H1/?tag=tolees-21) a 27.95 EUR (original: 60.36 EUR) (53.69 %  de descuento) en el siguiente enlace!

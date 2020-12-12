@@ -17,6 +17,9 @@ comparePrice: 7.9 EUR
 inStock: true
 prodname: 'Smiffys Pico de Pato de Color Amarillo de Goma EVA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06X9LQBBV/?tag=tolees-21'
+descuento: '64.68'
+titulo: 'Smiffys Pico de Pato de Color Amarillo d'
 ---
 
 Tienes [Smiffys Pico de Pato de Color Amarillo de Goma EVA](https://www.amazon.es/dp/B06X9LQBBV/?tag=tolees-21) con un 64.68 % de descuento con precio de oferta de 2.79 EUR (original: 7.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Hackett Tack Stitch H Keeper Cinturón  Marrón  Tan 869   40W para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MQ5ZTCF/?tag=tolees-21'
+descuento: '47.11'
+titulo: 'Hackett Tack Stitch H Keeper Cinturón  M'
 ---
 
 Tienes [Hackett Tack Stitch H Keeper Cinturón  Marrón  Tan 869   40W para Hombre](https://www.amazon.es/dp/B07MQ5ZTCF/?tag=tolees-21) con un 47.11 % de descuento con precio de oferta de 50.25 EUR (original: 95 EUR) en el siguiente enlace!

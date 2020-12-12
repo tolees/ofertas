@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Nike W NK Team Duffle Bolsa de Gimnasio  Mujeres  Indigo Force/Black/White  One Size'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00K366OWE/?tag=tolees-21'
+descuento: '41.33'
+titulo: 'Nike W NK Team Duffle Bolsa de Gimnasio '
 ---
 
 Tienes [Nike W NK Team Duffle Bolsa de Gimnasio  Mujeres  Indigo Force/Black/White  One Size](https://www.amazon.es/dp/B00K366OWE/?tag=tolees-21) con un 41.33 % de descuento con precio de oferta de 17.6 EUR (original: 30 EUR) en el siguiente enlace!

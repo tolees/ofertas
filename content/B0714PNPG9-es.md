@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Calvin Klein Obsessed For Women Eau De Perfume Spray 50Ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0714PNPG9/?tag=tolees-21'
+descuento: '66.73'
+titulo: 'Calvin Klein Obsessed For Women Eau De P'
 ---
 
 Tienes [Calvin Klein Obsessed For Women Eau De Perfume Spray 50Ml](https://www.amazon.es/dp/B0714PNPG9/?tag=tolees-21) con un 66.73 % de descuento con precio de oferta de 24.95 EUR (original: 75 EUR) en el siguiente enlace!

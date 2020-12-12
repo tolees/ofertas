@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma ST Runner v2 NL  Zapatillas de Deporte Unisex Adulto  Blanco White-Peach Bud  46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JWQ8PSS/?tag=tolees-21'
+descuento: '40.64'
+titulo: 'Puma ST Runner v2 NL  Zapatillas de Depo'
 ---
 
 Tienes [Puma ST Runner v2 NL  Zapatillas de Deporte Unisex Adulto  Blanco White-Peach Bud  46 EU](https://www.amazon.es/dp/B07JWQ8PSS/?tag=tolees-21) con un 40.64 % de descuento con precio de oferta de 32.62 EUR (original: 54.95 EUR) en el siguiente enlace!

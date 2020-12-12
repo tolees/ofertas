@@ -17,6 +17,9 @@ comparePrice: 199.95 EUR
 inStock: true
 prodname: 'Puma One 19.1 FG/AG  Zapatillas de Fútbol para Hombre  Azul  Bleu Azur-Red Blast Black   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCDJC17/?tag=tolees-21'
+descuento: '65.86'
+titulo: 'Puma One 19.1 FG/AG  Zapatillas de Fútbo'
 ---
 
 Tienes [Puma One 19.1 FG/AG  Zapatillas de Fútbol para Hombre  Azul  Bleu Azur-Red Blast Black   40 EU](https://www.amazon.es/dp/B07DCDJC17/?tag=tolees-21) con un 65.86 % de descuento con precio de oferta de 68.27 EUR (original: 199.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 40.24 EUR
 inStock: true
 prodname: 'Asics Gel-Zaraca 5 GS  Zapatillas de Deporte Infantil  Rosa  Diva Pink/Sun/Dark Purple   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N671SUH/?tag=tolees-21'
+descuento: '57.16'
+titulo: 'Asics Gel-Zaraca 5 GS  Zapatillas de Dep'
 ---
 
 Tienes [Asics Gel-Zaraca 5 GS  Zapatillas de Deporte Infantil  Rosa  Diva Pink/Sun/Dark Purple   39 EU](https://www.amazon.es/dp/B01N671SUH/?tag=tolees-21) con un 57.16 % de descuento con precio de oferta de 17.24 EUR (original: 40.24 EUR) en el siguiente enlace!

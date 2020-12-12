@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'SHANA 73885 Jersey  Gris Perla    Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RFNW2V/?tag=tolees-21'
+descuento: '53.60'
+titulo: 'SHANA 73885 Jersey  Gris Perla    Tamaño'
 ---
 
 Ahora mismo tienes [SHANA 73885 Jersey  Gris Perla    Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B075RFNW2V/?tag=tolees-21) a 7.42 EUR (original: 15.99 EUR) (53.60 %  de descuento) en el siguiente enlace!

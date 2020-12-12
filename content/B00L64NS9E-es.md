@@ -17,6 +17,9 @@ comparePrice: 15.9 EUR
 inStock: true
 prodname: 'Corsair SP140 LED Ventilador de PC  140 mm  iluminación LED Blanco  Paquete Soltero'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00L64NS9E/?tag=tolees-21'
+descuento: '46.54'
+titulo: 'Corsair SP140 LED Ventilador de PC  140 '
 ---
 
 Está [Corsair SP140 LED Ventilador de PC  140 mm  iluminación LED Blanco  Paquete Soltero](https://www.amazon.es/dp/B00L64NS9E/?tag=tolees-21) con 46.54 de descuento por 8.5 EUR (original: 15.9 EUR) en el siguiente enlace!

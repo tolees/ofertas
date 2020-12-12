@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Desigual - Bols_orleans To The Office. 2000. U  Mujer  Negro  6x16.7x23.5 cm  b x h t '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XPX16G1/?tag=tolees-21'
+descuento: '53.67'
+titulo: 'Desigual - Bols_orleans To The Office. 2'
 ---
 
 Ahora mismo tienes [Desigual - Bols_orleans To The Office. 2000. U  Mujer  Negro  6x16.7x23.5 cm  b x h t ](https://www.amazon.es/dp/B06XPX16G1/?tag=tolees-21) a 23.14 EUR (original: 49.95 EUR) (53.67 %  de descuento) en el siguiente enlace!

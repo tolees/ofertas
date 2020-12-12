@@ -17,6 +17,9 @@ comparePrice: 34.9 EUR
 inStock: true
 prodname: 'Kayhan Hombre Camisa  TwoFace Blue S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZQ4NDMW/?tag=tolees-21'
+descuento: '42.72'
+titulo: 'Kayhan Hombre Camisa  TwoFace Blue S'
 ---
 
 Está [Kayhan Hombre Camisa  TwoFace Blue S](https://www.amazon.es/dp/B00ZQ4NDMW/?tag=tolees-21) con 42.72 de descuento por 19.99 EUR (original: 34.9 EUR) en el siguiente enlace!

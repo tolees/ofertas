@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Luces de Proyector de Navidad  Luz de Proyección NACATIN 9W LED Bajo Consumo IP65 Impermeable con Control Remoto  Brillo y Velocidad ajustable 180 Rotación  Versión Mejorada 2018 …'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FT8LCYY/?tag=tolees-21'
+descuento: '44.68'
+titulo: 'Luces de Proyector de Navidad  Luz de Pr'
 ---
 
 Tienes [Luces de Proyector de Navidad  Luz de Proyección NACATIN 9W LED Bajo Consumo IP65 Impermeable con Control Remoto  Brillo y Velocidad ajustable 180 Rotación  Versión Mejorada 2018 …](https://www.amazon.es/dp/B07FT8LCYY/?tag=tolees-21) con un 44.68 % de descuento con precio de oferta de 16.59 EUR (original: 29.99 EUR) en el siguiente enlace!

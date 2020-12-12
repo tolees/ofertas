@@ -17,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Marsno M1 Metal con Cable en Auriculares Auriculares de Aislamiento de Ruido con Bajo Estéreo con Micrófono y Control remoto Proporcionan Sonido Estéreo y Cristalino Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071WJH8L5/?tag=tolees-21'
+descuento: '91.32'
+titulo: 'Marsno M1 Metal con Cable en Auriculares'
 ---
 
 Tienes [Marsno M1 Metal con Cable en Auriculares Auriculares de Aislamiento de Ruido con Bajo Estéreo con Micrófono y Control remoto Proporcionan Sonido Estéreo y Cristalino Azul ](https://www.amazon.es/dp/B071WJH8L5/?tag=tolees-21) con un 91.32 % de descuento con precio de oferta de 3.99 EUR (original: 45.99 EUR) en el siguiente enlace!

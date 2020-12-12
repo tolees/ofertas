@@ -17,6 +17,9 @@ comparePrice: 24.2 EUR
 inStock: true
 prodname: 'OCB Papel de Fumar  Azul  25 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015ZSY2LY/?tag=tolees-21'
+descuento: '52.56'
+titulo: 'OCB Papel de Fumar  Azul  25 Unidades'
 ---
 
 Ahora mismo tienes [OCB Papel de Fumar  Azul  25 Unidades](https://www.amazon.es/dp/B015ZSY2LY/?tag=tolees-21) a 11.48 EUR (original: 24.2 EUR) (52.56 %  de descuento) en el siguiente enlace!

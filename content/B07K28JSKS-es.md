@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'adidas Prophere  Zapatillas de Gimnasia para Hombre  Negro Core Black/FTWR White  41 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K28JSKS/?tag=tolees-21'
+descuento: '42.52'
+titulo: 'adidas Prophere  Zapatillas de Gimnasia '
 ---
 
 Ahora mismo tienes [adidas Prophere  Zapatillas de Gimnasia para Hombre  Negro Core Black/FTWR White  41 1/3 EU](https://www.amazon.es/dp/B07K28JSKS/?tag=tolees-21) a 68.95 EUR (original: 119.95 EUR) (42.52 %  de descuento) en el siguiente enlace!

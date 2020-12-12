@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Zippo Royal Flush Mechero  Metal  Street Chrome  1x3.5x5.5 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IF5RAKA/?tag=tolees-21'
+descuento: '45.36'
+titulo: 'Zippo Royal Flush Mechero  Metal  Street'
 ---
 
 Ahora mismo tienes [Zippo Royal Flush Mechero  Metal  Street Chrome  1x3.5x5.5 cm](https://www.amazon.es/dp/B00IF5RAKA/?tag=tolees-21) a 24.59 EUR (original: 45 EUR) (45.36 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 42.48 EUR
 inStock: true
 prodname: 'Atlético de Madrid Bolsa Deporte Bolso de Viaje 50 cm.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FZQ8GND/?tag=tolees-21'
+descuento: '25.52'
+titulo: 'Atlético de Madrid Bolsa Deporte Bolso d'
 ---
 
 Tienes [Atlético de Madrid Bolsa Deporte Bolso de Viaje 50 cm.](https://www.amazon.es/dp/B07FZQ8GND/?tag=tolees-21) con un 25.52 % de descuento con precio de oferta de 31.64 EUR (original: 42.48 EUR) en el siguiente enlace!

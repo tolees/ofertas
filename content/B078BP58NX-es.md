@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Superga 2750-cotbumpj  Zapatillas Unisex Niños  Rosa  Pink   25 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078BP58NX/?tag=tolees-21'
+descuento: '52.76'
+titulo: 'Superga 2750-cotbumpj  Zapatillas Unisex'
 ---
 
 Está [Superga 2750-cotbumpj  Zapatillas Unisex Niños  Rosa  Pink   25 EU](https://www.amazon.es/dp/B078BP58NX/?tag=tolees-21) con 52.76 de descuento por 23.15 EUR (original: 49 EUR) en el siguiente enlace!

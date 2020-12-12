@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face S/S Camiseta Flex  Mujer  Negro  TNF Black   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0753XDSF3/?tag=tolees-21'
+descuento: '49.03'
+titulo: 'The North Face S/S Camiseta Flex  Mujer '
 ---
 
 Tienes [The North Face S/S Camiseta Flex  Mujer  Negro  TNF Black   L](https://www.amazon.es/dp/B0753XDSF3/?tag=tolees-21) con un 49.03 % de descuento con precio de oferta de 15.29 EUR (original: 30 EUR) en el siguiente enlace!

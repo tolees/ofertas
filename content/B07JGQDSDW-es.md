@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Lacoste Sport Yh7900  Polo Hombre  Plateado  Argent Chiné/Marine-Blanc 5kc   Medium  Talla del Fabricante: 4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGQDSDW/?tag=tolees-21'
+descuento: '39.40'
+titulo: 'Lacoste Sport Yh7900  Polo Hombre  Plate'
 ---
 
 Está [Lacoste Sport Yh7900  Polo Hombre  Plateado  Argent Chiné/Marine-Blanc 5kc   Medium  Talla del Fabricante: 4 ](https://www.amazon.es/dp/B07JGQDSDW/?tag=tolees-21) con 39.40 de descuento por 45.45 EUR (original: 75 EUR) en el siguiente enlace!

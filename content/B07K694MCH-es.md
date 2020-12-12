@@ -17,6 +17,9 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'L Oréal Paris Rouge Signature 117 I Stand Pintalabios Mate Permanente Nude - 7 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K694MCH/?tag=tolees-21'
+descuento: '36.20'
+titulo: 'L Oréal Paris Rouge Signature 117 I Stan'
 ---
 
 Ahora mismo tienes [L Oréal Paris Rouge Signature 117 I Stand Pintalabios Mate Permanente Nude - 7 ml](https://www.amazon.es/dp/B07K694MCH/?tag=tolees-21) a 8.9 EUR (original: 13.95 EUR) (36.20 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'Kempa Niños Classic Pantalones Cortos Pantalones  Primavera/Verano  Infantil  Color limonengelb  tamaño 164'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0797GJY9B/?tag=tolees-21'
+descuento: '28.67'
+titulo: 'Kempa Niños Classic Pantalones Cortos Pa'
 ---
 
 Ahora mismo tienes [Kempa Niños Classic Pantalones Cortos Pantalones  Primavera/Verano  Infantil  Color limonengelb  tamaño 164](https://www.amazon.es/dp/B0797GJY9B/?tag=tolees-21) a 9.95 EUR (original: 13.95 EUR) (28.67 %  de descuento) en el siguiente enlace!

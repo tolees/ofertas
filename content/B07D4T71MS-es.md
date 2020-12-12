@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Kappa Nanook  Zapatillas Altas Unisex Niños  Azul  Navy/Lime 6733   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4T71MS/?tag=tolees-21'
+descuento: '74.88'
+titulo: 'Kappa Nanook  Zapatillas Altas Unisex Ni'
 ---
 
 Está [Kappa Nanook  Zapatillas Altas Unisex Niños  Azul  Navy/Lime 6733   28 EU](https://www.amazon.es/dp/B07D4T71MS/?tag=tolees-21) con 74.88 de descuento por 11.29 EUR (original: 44.95 EUR) en el siguiente enlace!

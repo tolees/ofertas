@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Lee Logo tee Camiseta  Marfil  Bright White LJ   46  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FT1N4CQ/?tag=tolees-21'
+descuento: '56.12'
+titulo: 'Lee Logo tee Camiseta  Marfil  Bright Wh'
 ---
 
 Tienes [Lee Logo tee Camiseta  Marfil  Bright White LJ   46  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B07FT1N4CQ/?tag=tolees-21) con un 56.12 % de descuento con precio de oferta de 10.97 EUR (original: 25 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 52.99 EUR
 inStock: true
 prodname: 'Kupton Accesorios para Xiaomi Yi 4K/Yi 4K+ /Yi Lite/YI Discovery Kit de Iniciación para Cámara Acción: Carcasa Impermeable+Correa Cabeza+Arné Pecho+Ventosa Coche+Soporte Manillar Bici+Agarre Flotad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HRJI38M/?tag=tolees-21'
+descuento: '50.95'
+titulo: 'Kupton Accesorios para Xiaomi Yi 4K/Yi 4'
 ---
 
 Tienes [Kupton Accesorios para Xiaomi Yi 4K/Yi 4K+ /Yi Lite/YI Discovery Kit de Iniciación para Cámara Acción: Carcasa Impermeable+Correa Cabeza+Arné Pecho+Ventosa Coche+Soporte Manillar Bici+Agarre Flotad](https://www.amazon.es/dp/B01HRJI38M/?tag=tolees-21) con un 50.95 % de descuento con precio de oferta de 25.99 EUR (original: 52.99 EUR) en el siguiente enlace!

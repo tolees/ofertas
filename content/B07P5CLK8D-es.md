@@ -17,6 +17,9 @@ comparePrice: 7.98 EUR
 inStock: true
 prodname: 'OurLeeme Presentador inalámbrico  presentación de control remoto de Powerpoint a 2.4 GHz con punteros rojos Clicker Presenter Flip Pen para PPT'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P5CLK8D/?tag=tolees-21'
+descuento: '43.73'
+titulo: 'OurLeeme Presentador inalámbrico  presen'
 ---
 
 Ahora mismo tienes [OurLeeme Presentador inalámbrico  presentación de control remoto de Powerpoint a 2.4 GHz con punteros rojos Clicker Presenter Flip Pen para PPT](https://www.amazon.es/dp/B07P5CLK8D/?tag=tolees-21) a 4.49 EUR (original: 7.98 EUR) (43.73 %  de descuento) en el siguiente enlace!

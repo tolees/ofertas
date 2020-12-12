@@ -17,6 +17,9 @@ comparePrice: 18.69 EUR
 inStock: true
 prodname: 'WAVLINK N300 Ultra-Mini WiFi Repetidor Extender de Alcance Wireless-N Router Punto/Signal Booster con 2 × 3dBi Antenas internas y WPS Protección-Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GNF7F6Y/?tag=tolees-21'
+descuento: '46.55'
+titulo: 'WAVLINK N300 Ultra-Mini WiFi Repetidor E'
 ---
 
 Ahora mismo tienes [WAVLINK N300 Ultra-Mini WiFi Repetidor Extender de Alcance Wireless-N Router Punto/Signal Booster con 2 × 3dBi Antenas internas y WPS Protección-Negro](https://www.amazon.es/dp/B07GNF7F6Y/?tag=tolees-21) a 9.99 EUR (original: 18.69 EUR) (46.55 %  de descuento) en el siguiente enlace!

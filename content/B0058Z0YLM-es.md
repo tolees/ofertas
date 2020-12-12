@@ -17,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Columbia Mujer Pantalón Convertible  Silver Ridge  Beige  Fossil   Talla: 38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0058Z0YLM/?tag=tolees-21'
+descuento: '41.36'
+titulo: 'Columbia Mujer Pantalón Convertible  Sil'
 ---
 
 Está [Columbia Mujer Pantalón Convertible  Silver Ridge  Beige  Fossil   Talla: 38](https://www.amazon.es/dp/B0058Z0YLM/?tag=tolees-21) con 41.36 de descuento por 43.95 EUR (original: 74.95 EUR) en el siguiente enlace!

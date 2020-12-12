@@ -17,6 +17,9 @@ comparePrice: 17 EUR
 inStock: true
 prodname: 'Grace Cole  Regalo para el cuidado de la piel - 500 gr.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075V2VYPZ/?tag=tolees-21'
+descuento: '56.88'
+titulo: 'Grace Cole  Regalo para el cuidado de la'
 ---
 
 Ahora mismo tienes [Grace Cole  Regalo para el cuidado de la piel - 500 gr.](https://www.amazon.es/dp/B075V2VYPZ/?tag=tolees-21) a 7.33 EUR (original: 17 EUR) (56.88 %  de descuento) en el siguiente enlace!

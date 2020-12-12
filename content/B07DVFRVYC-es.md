@@ -17,6 +17,9 @@ comparePrice: 90.99 EUR
 inStock: true
 prodname: 'AFBEST Aspirador de Mano Sin Cable  Aspiradora de Coche  Potente 100W 6000PA  Hogar Ligera y Portátil  con Filtro Lavable 3 Boquillas para Pelos  Liquido  Cocina y Coche  Migas de Pan'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVFRVYC/?tag=tolees-21'
+descuento: '53.85'
+titulo: 'AFBEST Aspirador de Mano Sin Cable  Aspi'
 ---
 
 Está [AFBEST Aspirador de Mano Sin Cable  Aspiradora de Coche  Potente 100W 6000PA  Hogar Ligera y Portátil  con Filtro Lavable 3 Boquillas para Pelos  Liquido  Cocina y Coche  Migas de Pan](https://www.amazon.es/dp/B07DVFRVYC/?tag=tolees-21) con 53.85 de descuento por 41.99 EUR (original: 90.99 EUR) en el siguiente enlace!

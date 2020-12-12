@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'FEIYU CREATIVE máscara de Buceo Dual snokel'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QZ19SWG/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'FEIYU CREATIVE máscara de Buceo Dual sno'
 ---
 
 Ahora mismo tienes [FEIYU CREATIVE máscara de Buceo Dual snokel](https://www.amazon.es/dp/B07QZ19SWG/?tag=tolees-21) a 27.99 EUR (original: 39.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

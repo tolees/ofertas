@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'MSI Clutch GM60 - Ratón  Ambidextro  Óptico  USB  10800 dpi  0 33 ms  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0745ZPB3S/?tag=tolees-21'
+descuento: '33.31'
+titulo: 'MSI Clutch GM60 - Ratón  Ambidextro  Ópt'
 ---
 
 Está [MSI Clutch GM60 - Ratón  Ambidextro  Óptico  USB  10800 dpi  0 33 ms  Negro ](https://www.amazon.es/dp/B0745ZPB3S/?tag=tolees-21) con 33.31 de descuento por 59.99 EUR (original: 89.95 EUR) en el siguiente enlace!

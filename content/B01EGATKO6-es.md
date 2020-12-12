@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Vans Van Doren III Backpack Mochila Tipo Casual  52 cm  29 Liters  Gris  Heather Suiting '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EGATKO6/?tag=tolees-21'
+descuento: '50.10'
+titulo: 'Vans Van Doren III Backpack Mochila Tipo'
 ---
 
 Está [Vans Van Doren III Backpack Mochila Tipo Casual  52 cm  29 Liters  Gris  Heather Suiting ](https://www.amazon.es/dp/B01EGATKO6/?tag=tolees-21) con 50.10 de descuento por 24.95 EUR (original: 50 EUR) en el siguiente enlace!

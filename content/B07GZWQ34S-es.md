@@ -17,6 +17,9 @@ comparePrice: 9.05 EUR
 inStock: true
 prodname: 'Magefesa Korinto Sartén 22 cm de Aluminio con Antiadherente bicapa  Color Vino Exterior. Apta para Todo Tipo de cocinas  incluida inducción  Borgoña'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GZWQ34S/?tag=tolees-21'
+descuento: '32.38'
+titulo: 'Magefesa Korinto Sartén 22 cm de Alumini'
 ---
 
 Ahora mismo tienes [Magefesa Korinto Sartén 22 cm de Aluminio con Antiadherente bicapa  Color Vino Exterior. Apta para Todo Tipo de cocinas  incluida inducción  Borgoña](https://www.amazon.es/dp/B07GZWQ34S/?tag=tolees-21) a 6.12 EUR (original: 9.05 EUR) (32.38 %  de descuento) en el siguiente enlace!

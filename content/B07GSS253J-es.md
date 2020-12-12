@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'SUNLU Tablet de Escritura LCD  9 Pulgadas de Dibujo electrónico y Tablero de Escritura  portatil de Escritura de Manos  Regalo para niños y Adultos  se Puede Utilizar en casa  Escuela y Oficina Verde '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GSS253J/?tag=tolees-21'
+descuento: '55.01'
+titulo: 'SUNLU Tablet de Escritura LCD  9 Pulgada'
 ---
 
 Ahora mismo tienes [SUNLU Tablet de Escritura LCD  9 Pulgadas de Dibujo electrónico y Tablero de Escritura  portatil de Escritura de Manos  Regalo para niños y Adultos  se Puede Utilizar en casa  Escuela y Oficina Verde ](https://www.amazon.es/dp/B07GSS253J/?tag=tolees-21) a 17.99 EUR (original: 39.99 EUR) (55.01 %  de descuento) en el siguiente enlace!

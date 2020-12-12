@@ -17,6 +17,9 @@ comparePrice: 56 EUR
 inStock: true
 prodname: 'Juana Barranco Retro Vestido Casual  Mujer  Azul  Azul Marino   46  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XFC1GYY/?tag=tolees-21'
+descuento: '78.39'
+titulo: 'Juana Barranco Retro Vestido Casual  Muj'
 ---
 
 Está [Juana Barranco Retro Vestido Casual  Mujer  Azul  Azul Marino   46  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B06XFC1GYY/?tag=tolees-21) con 78.39 de descuento por 12.1 EUR (original: 56 EUR) en el siguiente enlace!

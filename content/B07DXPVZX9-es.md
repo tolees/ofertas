@@ -17,6 +17,9 @@ comparePrice: 29.1 EUR
 inStock: true
 prodname: 'Bolsa para Proyector 25 x 21 x 11cm Estuche de Proyector Portátil Mini Bolsas Acolchada para GEARGO HD Proyector'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DXPVZX9/?tag=tolees-21'
+descuento: '75.98'
+titulo: 'Bolsa para Proyector 25 x 21 x 11cm Estu'
 ---
 
 Está [Bolsa para Proyector 25 x 21 x 11cm Estuche de Proyector Portátil Mini Bolsas Acolchada para GEARGO HD Proyector](https://www.amazon.es/dp/B07DXPVZX9/?tag=tolees-21) con 75.98 de descuento por 6.99 EUR (original: 29.1 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Nike - Zapatillas de deporte  Hombre  Blanco  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001NGIYFI/?tag=tolees-21'
+descuento: '40.05'
+titulo: 'Nike - Zapatillas de deporte  Hombre  Bl'
 ---
 
 Está [Nike - Zapatillas de deporte  Hombre  Blanco  41 EU](https://www.amazon.es/dp/B001NGIYFI/?tag=tolees-21) con 40.05 de descuento por 59.95 EUR (original: 100 EUR) en el siguiente enlace!

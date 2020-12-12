@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Reebok Royal Glide  Zapatillas de Gimnasia para Hombre  Negro Black/Flint Grey/White/Honor  42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K7VNQHV/?tag=tolees-21'
+descuento: '54.57'
+titulo: 'Reebok Royal Glide  Zapatillas de Gimnas'
 ---
 
 Ahora mismo tienes [Reebok Royal Glide  Zapatillas de Gimnasia para Hombre  Negro Black/Flint Grey/White/Honor  42.5 EU](https://www.amazon.es/dp/B07K7VNQHV/?tag=tolees-21) a 29.51 EUR (original: 64.95 EUR) (54.57 %  de descuento) en el siguiente enlace!

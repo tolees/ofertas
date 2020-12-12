@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Women secret Da-Big Navy Vty Neceser de Viaje  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLKJXP5/?tag=tolees-21'
+descuento: '56.53'
+titulo: 'Women secret Da-Big Navy Vty Neceser de '
 ---
 
 Tienes [Women secret Da-Big Navy Vty Neceser de Viaje  Azul](https://www.amazon.es/dp/B07DLKJXP5/?tag=tolees-21) con un 56.53 % de descuento con precio de oferta de 8.69 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'Camara Acuatica Sumergible Full HD 1080P para Snorkeling 24.0 MP Camara Acuatica Pantalla Dual Camaras Fotograficas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NN6FFPT/?tag=tolees-21'
+descuento: '40.75'
+titulo: 'Camara Acuatica Sumergible Full HD 1080P'
 ---
 
 Está [Camara Acuatica Sumergible Full HD 1080P para Snorkeling 24.0 MP Camara Acuatica Pantalla Dual Camaras Fotograficas](https://www.amazon.es/dp/B07NN6FFPT/?tag=tolees-21) con 40.75 de descuento por 79.99 EUR (original: 135 EUR) en el siguiente enlace!

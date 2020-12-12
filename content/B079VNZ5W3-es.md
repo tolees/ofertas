@@ -17,6 +17,9 @@ comparePrice: 23.95 EUR
 inStock: true
 prodname: 'Black Panther [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079VNZ5W3/?tag=tolees-21'
+descuento: '59.33'
+titulo: 'Black Panther [Blu-ray]'
 ---
 
 Tienes [Black Panther [Blu-ray]](https://www.amazon.es/dp/B079VNZ5W3/?tag=tolees-21) con un 59.33 % de descuento con precio de oferta de 9.74 EUR (original: 23.95 EUR) en el siguiente enlace!

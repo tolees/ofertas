@@ -17,6 +17,9 @@ comparePrice: 129.42 EUR
 inStock: true
 prodname: 'ROYAL SLEEP Colchón viscoelástico 105x190 de máxima Calidad  cconfort  firmeza y adaptabilidad Alta  Altura 18cm - Colchones Xfresh Plus'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9CR7ZJ/?tag=tolees-21'
+descuento: '28.00'
+titulo: 'ROYAL SLEEP Colchón viscoelástico 105x19'
 ---
 
 Ahora mismo tienes [ROYAL SLEEP Colchón viscoelástico 105x190 de máxima Calidad  cconfort  firmeza y adaptabilidad Alta  Altura 18cm - Colchones Xfresh Plus](https://www.amazon.es/dp/B07L9CR7ZJ/?tag=tolees-21) a 93.18 EUR (original: 129.42 EUR) (28.00 %  de descuento) en el siguiente enlace!

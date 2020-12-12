@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Kappa Trust  Zapatillas Unisex Adulto  Negro  1111 Black   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M07XZCO/?tag=tolees-21'
+descuento: '52.84'
+titulo: 'Kappa Trust  Zapatillas Unisex Adulto  N'
 ---
 
 Ahora mismo tienes [Kappa Trust  Zapatillas Unisex Adulto  Negro  1111 Black   38 EU](https://www.amazon.es/dp/B01M07XZCO/?tag=tolees-21) a 18.84 EUR (original: 39.95 EUR) (52.84 %  de descuento) en el siguiente enlace!

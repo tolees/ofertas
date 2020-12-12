@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Bollé Schuss Máscaras  Unisex Adulto  Verde neón Mate  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7M8RR3/?tag=tolees-21'
+descuento: '77.67'
+titulo: 'Bollé Schuss Máscaras  Unisex Adulto  Ve'
 ---
 
 Está [Bollé Schuss Máscaras  Unisex Adulto  Verde neón Mate  M](https://www.amazon.es/dp/B07F7M8RR3/?tag=tolees-21) con 77.67 de descuento por 8.71 EUR (original: 39 EUR) en el siguiente enlace!

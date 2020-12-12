@@ -17,6 +17,9 @@ comparePrice: 24 EUR
 inStock: true
 prodname: 'Bergner Q1932 Bolsa Almuerzo  Tela  Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LY8YWEF/?tag=tolees-21'
+descuento: '54.17'
+titulo: 'Bergner Q1932 Bolsa Almuerzo  Tela  Rojo'
 ---
 
 Tienes [Bergner Q1932 Bolsa Almuerzo  Tela  Rojo](https://www.amazon.es/dp/B01LY8YWEF/?tag=tolees-21) con un 54.17 % de descuento con precio de oferta de 11 EUR (original: 24 EUR) en el siguiente enlace!

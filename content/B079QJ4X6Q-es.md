@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Rockport Dustyn Slipon Shoe  Mocasines para Hombre  Negro  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QJ4X6Q/?tag=tolees-21'
+descuento: '49.65'
+titulo: 'Rockport Dustyn Slipon Shoe  Mocasines p'
 ---
 
 Ahora mismo tienes [Rockport Dustyn Slipon Shoe  Mocasines para Hombre  Negro  44.5 EU](https://www.amazon.es/dp/B079QJ4X6Q/?tag=tolees-21) a 57.9 EUR (original: 115 EUR) (49.65 %  de descuento) en el siguiente enlace!

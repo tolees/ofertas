@@ -17,6 +17,9 @@ comparePrice: 26.67 EUR
 inStock: true
 prodname: 'Juego de martillo portátil multiusos Ax y mini alicates multifuncionales con LED apto para supervivencia al aire libre/camping.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BF7H65T/?tag=tolees-21'
+descuento: '73.79'
+titulo: 'Juego de martillo portátil multiusos Ax '
 ---
 
 Está [Juego de martillo portátil multiusos Ax y mini alicates multifuncionales con LED apto para supervivencia al aire libre/camping.](https://www.amazon.es/dp/B07BF7H65T/?tag=tolees-21) con 73.79 de descuento por 6.99 EUR (original: 26.67 EUR) en el siguiente enlace!

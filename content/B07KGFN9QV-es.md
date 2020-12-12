@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'BOSS Mooneye Bañador  Azul  Navy 413   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGFN9QV/?tag=tolees-21'
+descuento: '40.04'
+titulo: 'BOSS Mooneye Bañador  Azul  Navy 413   L'
 ---
 
 Está [BOSS Mooneye Bañador  Azul  Navy 413   Large para Hombre](https://www.amazon.es/dp/B07KGFN9QV/?tag=tolees-21) con 40.04 de descuento por 26.95 EUR (original: 44.95 EUR) en el siguiente enlace!

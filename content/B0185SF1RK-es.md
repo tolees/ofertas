@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'ReebokClassic Leather - Zapatillas de Running Niños  Beige  Ecru/Navy   36.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0185SF1RK/?tag=tolees-21'
+descuento: '74.22'
+titulo: 'ReebokClassic Leather - Zapatillas de Ru'
 ---
 
 Tienes [ReebokClassic Leather - Zapatillas de Running Niños  Beige  Ecru/Navy   36.5](https://www.amazon.es/dp/B0185SF1RK/?tag=tolees-21) con un 74.22 % de descuento con precio de oferta de 23.19 EUR (original: 89.95 EUR) en el siguiente enlace!

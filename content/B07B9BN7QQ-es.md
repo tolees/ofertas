@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Vargo Mid  Zapatos de Cordones Derby para Hombre  Verde  Olive Leather   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B9BN7QQ/?tag=tolees-21'
+descuento: '43.98'
+titulo: 'Clarks Vargo Mid  Zapatos de Cordones De'
 ---
 
 Ahora mismo tienes [Clarks Vargo Mid  Zapatos de Cordones Derby para Hombre  Verde  Olive Leather   42.5 EU](https://www.amazon.es/dp/B07B9BN7QQ/?tag=tolees-21) a 55.99 EUR (original: 99.95 EUR) (43.98 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Volcom Frickin SNT Dry 21" Shorts  Hombre  Black  29'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074CRJS1R/?tag=tolees-21'
+descuento: '56.11'
+titulo: 'Volcom Frickin SNT Dry 21" Shorts  Hombr'
 ---
 
 Tienes [Volcom Frickin SNT Dry 21" Shorts  Hombre  Black  29](https://www.amazon.es/dp/B074CRJS1R/?tag=tolees-21) con un 56.11 % de descuento con precio de oferta de 30.72 EUR (original: 70 EUR) en el siguiente enlace!

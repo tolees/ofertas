@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Osram 810709 Bombilla LED E27  9 W  Blanco  9 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QSYMMC/?tag=tolees-21'
+descuento: '79.21'
+titulo: 'Osram 810709 Bombilla LED E27  9 W  Blan'
 ---
 
 Está [Osram 810709 Bombilla LED E27  9 W  Blanco  9 Unidades](https://www.amazon.es/dp/B073QSYMMC/?tag=tolees-21) con 79.21 de descuento por 18.71 EUR (original: 89.99 EUR) en el siguiente enlace!

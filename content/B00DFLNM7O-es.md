@@ -17,6 +17,9 @@ comparePrice: 117.9 EUR
 inStock: true
 prodname: 'Gre AR1020P - Ducha Solar Exterior de PVC Negro  Capacidad de 20 Litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DFLNM7O/?tag=tolees-21'
+descuento: '49.11'
+titulo: 'Gre AR1020P - Ducha Solar Exterior de PV'
 ---
 
 Está [Gre AR1020P - Ducha Solar Exterior de PVC Negro  Capacidad de 20 Litros](https://www.amazon.es/dp/B00DFLNM7O/?tag=tolees-21) con 49.11 de descuento por 60 EUR (original: 117.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 239.99 EUR
 inStock: true
 prodname: 'Ficmax Talla Grande Silla de Juegos de Coches Silla giratoriacon con Masaje Soporte Lumbar y reposapiés Ajustable  Azul/Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XXZLCD2/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Ficmax Talla Grande Silla de Juegos de C'
 ---
 
 Ahora mismo tienes [Ficmax Talla Grande Silla de Juegos de Coches Silla giratoriacon con Masaje Soporte Lumbar y reposapiés Ajustable  Azul/Rojo](https://www.amazon.es/dp/B06XXZLCD2/?tag=tolees-21) a 179.99 EUR (original: 239.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

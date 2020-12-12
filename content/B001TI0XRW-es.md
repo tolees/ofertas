@@ -17,6 +17,9 @@ comparePrice: 6.96 EUR
 inStock: true
 prodname: 'Kong JU03156 Pelota Air Grande - 2 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001TI0XRW/?tag=tolees-21'
+descuento: '42.67'
+titulo: 'Kong JU03156 Pelota Air Grande - 2 Unida'
 ---
 
 Está [Kong JU03156 Pelota Air Grande - 2 Unidades](https://www.amazon.es/dp/B001TI0XRW/?tag=tolees-21) con 42.67 de descuento por 3.99 EUR (original: 6.96 EUR) en el siguiente enlace!

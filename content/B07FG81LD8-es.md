@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Gioseppo 46447-P  Zapatos de Cordones Oxford para Mujer  Negro  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FG81LD8/?tag=tolees-21'
+descuento: '79.36'
+titulo: 'Gioseppo 46447-P  Zapatos de Cordones Ox'
 ---
 
 Tienes [Gioseppo 46447-P  Zapatos de Cordones Oxford para Mujer  Negro  40 EU](https://www.amazon.es/dp/B07FG81LD8/?tag=tolees-21) con un 79.36 % de descuento con precio de oferta de 14.44 EUR (original: 69.95 EUR) en el siguiente enlace!

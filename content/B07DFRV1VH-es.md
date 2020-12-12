@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Puma Active 3/4 Pantalones  Mujer  Negro Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFRV1VH/?tag=tolees-21'
+descuento: '49.79'
+titulo: 'Puma Active 3/4 Pantalones  Mujer  Negro'
 ---
 
 Ahora mismo tienes [Puma Active 3/4 Pantalones  Mujer  Negro Black  L](https://www.amazon.es/dp/B07DFRV1VH/?tag=tolees-21) a 17.55 EUR (original: 34.95 EUR) (49.79 %  de descuento) en el siguiente enlace!

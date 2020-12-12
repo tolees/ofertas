@@ -17,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans London Ramsy Chelsea  Botas para Mujer  Rojo  Burgundy   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HQXGXM/?tag=tolees-21'
+descuento: '75.05'
+titulo: 'Pepe Jeans London Ramsy Chelsea  Botas p'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Ramsy Chelsea  Botas para Mujer  Rojo  Burgundy   38 EU](https://www.amazon.es/dp/B071HQXGXM/?tag=tolees-21) a 23.7 EUR (original: 95 EUR) (75.05 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.93 EUR
 inStock: true
 prodname: 'San Jamón Vino Tinto Rioja Toro Tierra de Castilla y León - Paquete de 6 x 750 ml - Total: 4500 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CMC6WYQ/?tag=tolees-21'
+descuento: '56.45'
+titulo: 'San Jamón Vino Tinto Rioja Toro Tierra d'
 ---
 
 Está [San Jamón Vino Tinto Rioja Toro Tierra de Castilla y León - Paquete de 6 x 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B07CMC6WYQ/?tag=tolees-21) con 56.45 de descuento por 17.39 EUR (original: 39.93 EUR) en el siguiente enlace!

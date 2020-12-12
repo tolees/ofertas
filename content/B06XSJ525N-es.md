@@ -17,6 +17,9 @@ comparePrice: 199.9 EUR
 inStock: true
 prodname: 'Long Island Multifunct FL Li Cruiserboard  Unisex Adulto  36"'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSJ525N/?tag=tolees-21'
+descuento: '79.04'
+titulo: 'Long Island Multifunct FL Li Cruiserboar'
 ---
 
 Tienes [Long Island Multifunct FL Li Cruiserboard  Unisex Adulto  36"](https://www.amazon.es/dp/B06XSJ525N/?tag=tolees-21) con un 79.04 % de descuento con precio de oferta de 41.89 EUR (original: 199.9 EUR) en el siguiente enlace!

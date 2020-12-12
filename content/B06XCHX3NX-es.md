@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Slim  Jeans para Hombre  Gris  Dk Aged Cobler 7863-3143   32W/30L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCHX3NX/?tag=tolees-21'
+descuento: '46.90'
+titulo: 'G-STAR RAW 3301 Slim  Jeans para Hombre '
 ---
 
 Tienes [G-STAR RAW 3301 Slim  Jeans para Hombre  Gris  Dk Aged Cobler 7863-3143   32W/30L](https://www.amazon.es/dp/B06XCHX3NX/?tag=tolees-21) con un 46.90 % de descuento con precio de oferta de 69 EUR (original: 129.95 EUR) en el siguiente enlace!

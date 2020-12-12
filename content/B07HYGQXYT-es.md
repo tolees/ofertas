@@ -17,6 +17,9 @@ comparePrice: 67.94 EUR
 inStock: true
 prodname: 'Bergner Q2921 Set 5pc batería de cocina aluminio forjado  inducción  Orion  Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HYGQXYT/?tag=tolees-21'
+descuento: '29.36'
+titulo: 'Bergner Q2921 Set 5pc batería de cocina '
 ---
 
 Está [Bergner Q2921 Set 5pc batería de cocina aluminio forjado  inducción  Orion  Gris](https://www.amazon.es/dp/B07HYGQXYT/?tag=tolees-21) con 29.36 de descuento por 47.99 EUR (original: 67.94 EUR) en el siguiente enlace!

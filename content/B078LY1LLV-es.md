@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Easy Vulc 2.0  Zapatillas de Skateboard para Hombre  Negro Core Black/FTWR White/Grey Three F17  43 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078LY1LLV/?tag=tolees-21'
+descuento: '35.82'
+titulo: 'adidas Easy Vulc 2.0  Zapatillas de Skat'
 ---
 
 Está [adidas Easy Vulc 2.0  Zapatillas de Skateboard para Hombre  Negro Core Black/FTWR White/Grey Three F17  43 1/3 EU](https://www.amazon.es/dp/B078LY1LLV/?tag=tolees-21) con 35.82 de descuento por 32.06 EUR (original: 49.95 EUR) en el siguiente enlace!

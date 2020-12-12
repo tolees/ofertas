@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Rider Jacket  Chaqueta vaquera Mujer  Azul  Super Stonewash 66   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077PBGCXF/?tag=tolees-21'
+descuento: '67.56'
+titulo: 'Lee Rider Jacket  Chaqueta vaquera Mujer'
 ---
 
 Ahora mismo tienes [Lee Rider Jacket  Chaqueta vaquera Mujer  Azul  Super Stonewash 66   Small](https://www.amazon.es/dp/B077PBGCXF/?tag=tolees-21) a 32.42 EUR (original: 99.95 EUR) (67.56 %  de descuento) en el siguiente enlace!

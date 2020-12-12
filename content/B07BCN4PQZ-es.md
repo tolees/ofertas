@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Clarks Tri Fern GTX  Botas de Nieve para Mujer  Morado  Aubergine   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BCN4PQZ/?tag=tolees-21'
+descuento: '69.99'
+titulo: 'Clarks Tri Fern GTX  Botas de Nieve para'
 ---
 
 Ahora mismo tienes [Clarks Tri Fern GTX  Botas de Nieve para Mujer  Morado  Aubergine   39.5 EU](https://www.amazon.es/dp/B07BCN4PQZ/?tag=tolees-21) a 48.01 EUR (original: 160 EUR) (69.99 %  de descuento) en el siguiente enlace!

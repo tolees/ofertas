@@ -17,6 +17,9 @@ comparePrice: 49.94 EUR
 inStock: true
 prodname: 'B. Young Hadina Blouse 2 - Blusa Mujer  Blanco  38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013FYWAGY/?tag=tolees-21'
+descuento: '81.60'
+titulo: 'B. Young Hadina Blouse 2 - Blusa Mujer  '
 ---
 
 Está [B. Young Hadina Blouse 2 - Blusa Mujer  Blanco  38](https://www.amazon.es/dp/B013FYWAGY/?tag=tolees-21) con 81.60 de descuento por 9.19 EUR (original: 49.94 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Viz Runner  Zapatillas de Running para Hombre  Azul  Peacoat-Quarry   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MTMBQ8/?tag=tolees-21'
+descuento: '31.24'
+titulo: 'Puma Viz Runner  Zapatillas de Running p'
 ---
 
 Está [Puma Viz Runner  Zapatillas de Running para Hombre  Azul  Peacoat-Quarry   42 EU](https://www.amazon.es/dp/B077MTMBQ8/?tag=tolees-21) con 31.24 de descuento por 41.22 EUR (original: 59.95 EUR) en el siguiente enlace!

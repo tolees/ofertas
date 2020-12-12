@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Reebok Royal Glide  Zapatillas de Trail Running para Hombre   White/Collegiate Navy/Honor 000   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJJ13GH/?tag=tolees-21'
+descuento: '62.05'
+titulo: 'Reebok Royal Glide  Zapatillas de Trail '
 ---
 
 Ahora mismo tienes [Reebok Royal Glide  Zapatillas de Trail Running para Hombre   White/Collegiate Navy/Honor 000   38.5 EU](https://www.amazon.es/dp/B07KJJ13GH/?tag=tolees-21) a 24.65 EUR (original: 64.95 EUR) (62.05 %  de descuento) en el siguiente enlace!

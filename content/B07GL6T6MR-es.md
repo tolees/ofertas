@@ -17,6 +17,9 @@ comparePrice: 299 EUR
 inStock: true
 prodname: 'Fossil Smartwatch FTW6012'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GL6T6MR/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Fossil Smartwatch FTW6012'
 ---
 
 Está [Fossil Smartwatch FTW6012](https://www.amazon.es/dp/B07GL6T6MR/?tag=tolees-21) con 40.00 de descuento por 179.4 EUR (original: 299 EUR) en el siguiente enlace!

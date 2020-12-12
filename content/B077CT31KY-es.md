@@ -17,6 +17,9 @@ comparePrice: 23.77 EUR
 inStock: true
 prodname: 'Kit Blanqueador Dental - MY LITTLE BEAUTY - Blanqueador de Dientes con Carbón Activado y Cepillo Incluido - Menta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077CT31KY/?tag=tolees-21'
+descuento: '45.35'
+titulo: 'Kit Blanqueador Dental - MY LITTLE BEAUT'
 ---
 
 Tienes [Kit Blanqueador Dental - MY LITTLE BEAUTY - Blanqueador de Dientes con Carbón Activado y Cepillo Incluido - Menta](https://www.amazon.es/dp/B077CT31KY/?tag=tolees-21) con un 45.35 % de descuento con precio de oferta de 12.99 EUR (original: 23.77 EUR) en el siguiente enlace!

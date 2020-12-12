@@ -17,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Salomon Speedcross Vario 2 GTX Calzado de Trail Running  Hombre  Azul  Sky Diver/Indigo Bunting/Navy Blazer   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZX4VDG/?tag=tolees-21'
+descuento: '51.44'
+titulo: 'Salomon Speedcross Vario 2 GTX Calzado d'
 ---
 
 Ahora mismo tienes [Salomon Speedcross Vario 2 GTX Calzado de Trail Running  Hombre  Azul  Sky Diver/Indigo Bunting/Navy Blazer   42 EU](https://www.amazon.es/dp/B07CZX4VDG/?tag=tolees-21) a 67.96 EUR (original: 139.95 EUR) (51.44 %  de descuento) en el siguiente enlace!

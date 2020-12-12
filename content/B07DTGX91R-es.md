@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Puma Active Hoody Sudadera  Mujer  Negro  Black   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DTGX91R/?tag=tolees-21'
+descuento: '49.06'
+titulo: 'Puma Active Hoody Sudadera  Mujer  Negro'
 ---
 
 Ahora mismo tienes [Puma Active Hoody Sudadera  Mujer  Negro  Black   XS](https://www.amazon.es/dp/B07DTGX91R/?tag=tolees-21) a 20.35 EUR (original: 39.95 EUR) (49.06 %  de descuento) en el siguiente enlace!

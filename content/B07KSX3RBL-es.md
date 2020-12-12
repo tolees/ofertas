@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Adidas Altarun K  Zapatillas de Deporte Unisex Adulto  Magrea/Ftwbla 000  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSX3RBL/?tag=tolees-21'
+descuento: '27.64'
+titulo: 'Adidas Altarun K  Zapatillas de Deporte '
 ---
 
 Está [Adidas Altarun K  Zapatillas de Deporte Unisex Adulto  Magrea/Ftwbla 000  40 EU](https://www.amazon.es/dp/B07KSX3RBL/?tag=tolees-21) con 27.64 de descuento por 25.29 EUR (original: 34.95 EUR) en el siguiente enlace!

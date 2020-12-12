@@ -17,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'STAR WARS Mochila Junior'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GVGQWQ2/?tag=tolees-21'
+descuento: '55.51'
+titulo: 'STAR WARS Mochila Junior'
 ---
 
 Tienes [STAR WARS Mochila Junior](https://www.amazon.es/dp/B01GVGQWQ2/?tag=tolees-21) con un 55.51 % de descuento con precio de oferta de 4 EUR (original: 8.99 EUR) en el siguiente enlace!

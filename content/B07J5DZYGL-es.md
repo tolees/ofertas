@@ -17,6 +17,9 @@ comparePrice: 322.76 EUR
 inStock: true
 prodname: '7artisans 12 mm f2.8 Ultra Gran Angular APS-C sin Espejo Cámaras de Lente'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J5DZYGL/?tag=tolees-21'
+descuento: '60.00'
+titulo: '7artisans 12 mm f2.8 Ultra Gran Angular '
 ---
 
 Tienes [7artisans 12 mm f2.8 Ultra Gran Angular APS-C sin Espejo Cámaras de Lente](https://www.amazon.es/dp/B07J5DZYGL/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 129.1 EUR (original: 322.76 EUR) en el siguiente enlace!

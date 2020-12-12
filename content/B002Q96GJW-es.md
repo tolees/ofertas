@@ -17,6 +17,9 @@ comparePrice: 18.05 EUR
 inStock: true
 prodname: 'Targus AMU76EU - Ratón óptico retráctil con diseño ergonómico  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002Q96GJW/?tag=tolees-21'
+descuento: '44.65'
+titulo: 'Targus AMU76EU - Ratón óptico retráctil '
 ---
 
 Ahora mismo tienes [Targus AMU76EU - Ratón óptico retráctil con diseño ergonómico  Color Negro](https://www.amazon.es/dp/B002Q96GJW/?tag=tolees-21) a 9.99 EUR (original: 18.05 EUR) (44.65 %  de descuento) en el siguiente enlace!

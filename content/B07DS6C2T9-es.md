@@ -17,6 +17,9 @@ comparePrice: 70.66 EUR
 inStock: true
 prodname: 'Reebok PT Prime Runner FC  Zapatillas de Trail Running para Hombre   Tin Foggy Grey/Coal/Chalk Green/Whi 000   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DS6C2T9/?tag=tolees-21'
+descuento: '61.49'
+titulo: 'Reebok PT Prime Runner FC  Zapatillas de'
 ---
 
 Tienes [Reebok PT Prime Runner FC  Zapatillas de Trail Running para Hombre   Tin Foggy Grey/Coal/Chalk Green/Whi 000   43 EU](https://www.amazon.es/dp/B07DS6C2T9/?tag=tolees-21) con un 61.49 % de descuento con precio de oferta de 27.21 EUR (original: 70.66 EUR) en el siguiente enlace!

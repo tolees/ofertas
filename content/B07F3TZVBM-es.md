@@ -17,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'INTEY Silla de Oficina  Silla de Escritorio Cómodo  Confiable Cuero e Impermeable  Diseño Ergónomico para Los Europeos  Estilo Moderno  Elevable y Reclinable - Carga Máxima 120kg / 260lb'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F3TZVBM/?tag=tolees-21'
+descuento: '38.01'
+titulo: 'INTEY Silla de Oficina  Silla de Escrito'
 ---
 
 Está [INTEY Silla de Oficina  Silla de Escritorio Cómodo  Confiable Cuero e Impermeable  Diseño Ergónomico para Los Europeos  Estilo Moderno  Elevable y Reclinable - Carga Máxima 120kg / 260lb](https://www.amazon.es/dp/B07F3TZVBM/?tag=tolees-21) con 38.01 de descuento por 92.99 EUR (original: 150 EUR) en el siguiente enlace!

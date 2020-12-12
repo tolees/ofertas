@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: '16 En 1 Juego de Destornilladores de Precisión  Tacklife HPSD1A Herramientas Profesional Phillips Hex Cabeza de Zócalo con Caja'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07424JRSB/?tag=tolees-21'
+descuento: '25.03'
+titulo: '16 En 1 Juego de Destornilladores de Pre'
 ---
 
 Ahora mismo tienes [16 En 1 Juego de Destornilladores de Precisión  Tacklife HPSD1A Herramientas Profesional Phillips Hex Cabeza de Zócalo con Caja](https://www.amazon.es/dp/B07424JRSB/?tag=tolees-21) a 7.49 EUR (original: 9.99 EUR) (25.03 %  de descuento) en el siguiente enlace!

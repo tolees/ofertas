@@ -17,6 +17,9 @@ comparePrice: 115.05 EUR
 inStock: true
 prodname: 'LTB Jeans ZOHEKE Coat  Chaqueta para Mujer  Azul  Navy 301   42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073BL6GTH/?tag=tolees-21'
+descuento: '82.11'
+titulo: 'LTB Jeans ZOHEKE Coat  Chaqueta para Muj'
 ---
 
 Está [LTB Jeans ZOHEKE Coat  Chaqueta para Mujer  Azul  Navy 301   42](https://www.amazon.es/dp/B073BL6GTH/?tag=tolees-21) con 82.11 de descuento por 20.58 EUR (original: 115.05 EUR) en el siguiente enlace!

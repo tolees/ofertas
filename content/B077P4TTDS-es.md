@@ -17,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'Nautica Water Resist Carcoat  Abrigo Impermeable para Hombre  Beige  True Khaki 2tk  Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077P4TTDS/?tag=tolees-21'
+descuento: '75.99'
+titulo: 'Nautica Water Resist Carcoat  Abrigo Imp'
 ---
 
 Tienes [Nautica Water Resist Carcoat  Abrigo Impermeable para Hombre  Beige  True Khaki 2tk  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B077P4TTDS/?tag=tolees-21) con un 75.99 % de descuento con precio de oferta de 38.18 EUR (original: 159 EUR) en el siguiente enlace!

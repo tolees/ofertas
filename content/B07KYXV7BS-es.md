@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Springfield 2.T.Ap.Pv19.Flor Print Camiseta  Rojo  Gama Rojos 65   Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYXV7BS/?tag=tolees-21'
+descuento: '57.81'
+titulo: 'Springfield 2.T.Ap.Pv19.Flor Print Camis'
 ---
 
 Ahora mismo tienes [Springfield 2.T.Ap.Pv19.Flor Print Camiseta  Rojo  Gama Rojos 65   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07KYXV7BS/?tag=tolees-21) a 5.48 EUR (original: 12.99 EUR) (57.81 %  de descuento) en el siguiente enlace!

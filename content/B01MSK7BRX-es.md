@@ -17,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Trust Gaming GXT 754 - Alfombrilla para ratón  L   Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MSK7BRX/?tag=tolees-21'
+descuento: '41.70'
+titulo: 'Trust Gaming GXT 754 - Alfombrilla para '
 ---
 
 Ahora mismo tienes [Trust Gaming GXT 754 - Alfombrilla para ratón  L   Color Negro](https://www.amazon.es/dp/B01MSK7BRX/?tag=tolees-21) a 6.99 EUR (original: 11.99 EUR) (41.70 %  de descuento) en el siguiente enlace!

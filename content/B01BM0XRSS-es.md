@@ -17,6 +17,9 @@ comparePrice: 249.99 EUR
 inStock: true
 prodname: 'Nespresso EN270.SAE Cafetera  1150-1260 W  capacidad 0 8 l  eyección automática de cápsulas  19 bares de presión 1260 W  0.8 litros  Plástico  Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BM0XRSS/?tag=tolees-21'
+descuento: '60.40'
+titulo: 'Nespresso EN270.SAE Cafetera  1150-1260 '
 ---
 
 Está [Nespresso EN270.SAE Cafetera  1150-1260 W  capacidad 0 8 l  eyección automática de cápsulas  19 bares de presión 1260 W  0.8 litros  Plástico  Plata](https://www.amazon.es/dp/B01BM0XRSS/?tag=tolees-21) con 60.40 de descuento por 99 EUR (original: 249.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'VAUDE Me Strathcona Pro Pantalón  Hombre  Negro/Black  56-Long'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0725FXNX8/?tag=tolees-21'
+descuento: '45.28'
+titulo: 'VAUDE Me Strathcona Pro Pantalón  Hombre'
 ---
 
 Está [VAUDE Me Strathcona Pro Pantalón  Hombre  Negro/Black  56-Long](https://www.amazon.es/dp/B0725FXNX8/?tag=tolees-21) con 45.28 de descuento por 76.61 EUR (original: 140 EUR) en el siguiente enlace!

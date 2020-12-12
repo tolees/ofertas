@@ -17,6 +17,9 @@ comparePrice: 444.99 EUR
 inStock: true
 prodname: 'Bosch Ingletadora PCM 8 SD con función de tracción  4x prolongaciones laterales  hoja de sierra  pinza  saco para el polvo  en caja de cartón  1200 W  diámetro nominal de la hoja de sierra: 216 mm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IBQMQFG/?tag=tolees-21'
+descuento: '59.56'
+titulo: 'Bosch Ingletadora PCM 8 SD con función d'
 ---
 
 Está [Bosch Ingletadora PCM 8 SD con función de tracción  4x prolongaciones laterales  hoja de sierra  pinza  saco para el polvo  en caja de cartón  1200 W  diámetro nominal de la hoja de sierra: 216 mm ](https://www.amazon.es/dp/B01IBQMQFG/?tag=tolees-21) con 59.56 de descuento por 179.95 EUR (original: 444.99 EUR) en el siguiente enlace!

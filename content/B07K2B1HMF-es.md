@@ -17,6 +17,9 @@ comparePrice: 57.48 EUR
 inStock: true
 prodname: 'Auriculares Bluetooth Deportivos Impermeable IPX7 Cascos Inalambricos  Auricular Running Deporte Correr con Micrófono 10 hrs de Reproduccion Cancelación de Ruido CVC 6.0 para iPhone Android'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2B1HMF/?tag=tolees-21'
+descuento: '79.14'
+titulo: 'Auriculares Bluetooth Deportivos Imperme'
 ---
 
 Está [Auriculares Bluetooth Deportivos Impermeable IPX7 Cascos Inalambricos  Auricular Running Deporte Correr con Micrófono 10 hrs de Reproduccion Cancelación de Ruido CVC 6.0 para iPhone Android](https://www.amazon.es/dp/B07K2B1HMF/?tag=tolees-21) con 79.14 de descuento por 11.99 EUR (original: 57.48 EUR) en el siguiente enlace!

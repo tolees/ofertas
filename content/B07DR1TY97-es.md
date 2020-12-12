@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'MTNG Collection 57620  Botines para Mujer   Karma Negro C27784   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DR1TY97/?tag=tolees-21'
+descuento: '64.89'
+titulo: 'MTNG Collection 57620  Botines para Muje'
 ---
 
 Tienes [MTNG Collection 57620  Botines para Mujer   Karma Negro C27784   38 EU](https://www.amazon.es/dp/B07DR1TY97/?tag=tolees-21) con un 64.89 % de descuento con precio de oferta de 17.55 EUR (original: 49.99 EUR) en el siguiente enlace!

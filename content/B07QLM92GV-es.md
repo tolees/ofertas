@@ -17,6 +17,9 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'SLIMBELLE Mujer Camiseta de Tirantes con Sujetador sin Tirantes Ajustable Camiseta Correas Cruzadas Invisible Incorporado Parte Inferior sin Costuras Cuello Redondo Chaleco Blanco Crema Básico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QLM92GV/?tag=tolees-21'
+descuento: '57.17'
+titulo: 'SLIMBELLE Mujer Camiseta de Tirantes con'
 ---
 
 Tienes [SLIMBELLE Mujer Camiseta de Tirantes con Sujetador sin Tirantes Ajustable Camiseta Correas Cruzadas Invisible Incorporado Parte Inferior sin Costuras Cuello Redondo Chaleco Blanco Crema Básico](https://www.amazon.es/dp/B07QLM92GV/?tag=tolees-21) con un 57.17 % de descuento con precio de oferta de 8.99 EUR (original: 20.99 EUR) en el siguiente enlace!

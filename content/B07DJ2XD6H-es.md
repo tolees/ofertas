@@ -17,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Geox U Damian A  Zapatillas para Hombre  Azul  Navy C4002   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ2XD6H/?tag=tolees-21'
+descuento: '64.00'
+titulo: 'Geox U Damian A  Zapatillas para Hombre '
 ---
 
 Tienes [Geox U Damian A  Zapatillas para Hombre  Azul  Navy C4002   46 EU](https://www.amazon.es/dp/B07DJ2XD6H/?tag=tolees-21) con un 64.00 % de descuento con precio de oferta de 32.36 EUR (original: 89.9 EUR) en el siguiente enlace!

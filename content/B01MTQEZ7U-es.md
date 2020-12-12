@@ -17,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Puma Blaze Ignite Plus Breathe  Zapatillas Unisex Adulto  Negro Schwarz  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTQEZ7U/?tag=tolees-21'
+descuento: '74.02'
+titulo: 'Puma Blaze Ignite Plus Breathe  Zapatill'
 ---
 
 Ahora mismo tienes [Puma Blaze Ignite Plus Breathe  Zapatillas Unisex Adulto  Negro Schwarz  43 EU](https://www.amazon.es/dp/B01MTQEZ7U/?tag=tolees-21) a 28.56 EUR (original: 109.95 EUR) (74.02 %  de descuento) en el siguiente enlace!

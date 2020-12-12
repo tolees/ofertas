@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Trucco TT03BA1  Camisa para Mujer   Amarillo Oscuro   One Size  Tamaño del Fabricante:U '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GQPRPR/?tag=tolees-21'
+descuento: '67.93'
+titulo: 'Trucco TT03BA1  Camisa para Mujer   Amar'
 ---
 
 Tienes [Trucco TT03BA1  Camisa para Mujer   Amarillo Oscuro   One Size  Tamaño del Fabricante:U ](https://www.amazon.es/dp/B078GQPRPR/?tag=tolees-21) con un 67.93 % de descuento con precio de oferta de 12.81 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 249 EUR
 inStock: true
 prodname: 'Sennheiser Momentum 2.0 ON-Ear Wireless - Auriculares de Diadema Cerrados inalámbricos  BT APTX/NFC  cancelación de Ruido   Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TKH1AQC/?tag=tolees-21'
+descuento: '42.84'
+titulo: 'Sennheiser Momentum 2.0 ON-Ear Wireless '
 ---
 
 Está [Sennheiser Momentum 2.0 ON-Ear Wireless - Auriculares de Diadema Cerrados inalámbricos  BT APTX/NFC  cancelación de Ruido   Color Negro](https://www.amazon.es/dp/B00TKH1AQC/?tag=tolees-21) con 42.84 de descuento por 142.32 EUR (original: 249 EUR) en el siguiente enlace!

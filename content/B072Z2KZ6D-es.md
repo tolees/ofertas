@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Marvel- Figura de Vinilo Thor  Funko 13763 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072Z2KZ6D/?tag=tolees-21'
+descuento: '48.59'
+titulo: 'Marvel- Figura de Vinilo Thor  Funko 137'
 ---
 
 Ahora mismo tienes [Marvel- Figura de Vinilo Thor  Funko 13763 ](https://www.amazon.es/dp/B072Z2KZ6D/?tag=tolees-21) a 8.2 EUR (original: 15.95 EUR) (48.59 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 769.95 EUR
 inStock: true
 prodname: 'VIBOX Ultra 11SW - Ordenador para Gaming  AMD A8-7600  16 GB de RAM  1 TB de Disco Duro  AMD Radeon R7  Windows 10  Color neón Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JWW04G2/?tag=tolees-21'
+descuento: '77.27'
+titulo: 'VIBOX Ultra 11SW - Ordenador para Gaming'
 ---
 
 Tienes [VIBOX Ultra 11SW - Ordenador para Gaming  AMD A8-7600  16 GB de RAM  1 TB de Disco Duro  AMD Radeon R7  Windows 10  Color neón Azul](https://www.amazon.es/dp/B00JWW04G2/?tag=tolees-21) con un 77.27 % de descuento con precio de oferta de 175 EUR (original: 769.95 EUR) en el siguiente enlace!

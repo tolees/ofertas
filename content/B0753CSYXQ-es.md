@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'ION Audio Digital LP - Tocadiscos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0753CSYXQ/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'ION Audio Digital LP - Tocadiscos'
 ---
 
 Tienes [ION Audio Digital LP - Tocadiscos](https://www.amazon.es/dp/B0753CSYXQ/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 74.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'LE COQ SPORTIF Alpha II  Zapatillas para Hombre  Negro Black/Ebony  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DW3KDD9/?tag=tolees-21'
+descuento: '50.44'
+titulo: 'LE COQ SPORTIF Alpha II  Zapatillas para'
 ---
 
 Está [LE COQ SPORTIF Alpha II  Zapatillas para Hombre  Negro Black/Ebony  42 EU](https://www.amazon.es/dp/B07DW3KDD9/?tag=tolees-21) con 50.44 de descuento por 37.17 EUR (original: 75 EUR) en el siguiente enlace!

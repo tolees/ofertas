@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma Q4 BND Tech Trackster Pants  Hombre  Black Heather  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG24GTS/?tag=tolees-21'
+descuento: '45.03'
+titulo: 'Puma Q4 BND Tech Trackster Pants  Hombre'
 ---
 
 Está [Puma Q4 BND Tech Trackster Pants  Hombre  Black Heather  XL](https://www.amazon.es/dp/B07DG24GTS/?tag=tolees-21) con 45.03 de descuento por 38.45 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 319.9 EUR
 inStock: true
 prodname: 'Corsair Vengeance LPX - Módulo de Memoria XMP 2.0 de 32 Gb  2 X 16 Gb  DDR4  3000 MHz  C15   Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014UYPEXE/?tag=tolees-21'
+descuento: '51.92'
+titulo: 'Corsair Vengeance LPX - Módulo de Memori'
 ---
 
 Ahora mismo tienes [Corsair Vengeance LPX - Módulo de Memoria XMP 2.0 de 32 Gb  2 X 16 Gb  DDR4  3000 MHz  C15   Negro](https://www.amazon.es/dp/B014UYPEXE/?tag=tolees-21) a 153.82 EUR (original: 319.9 EUR) (51.92 %  de descuento) en el siguiente enlace!

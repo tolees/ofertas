@@ -17,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Nike Hypervenomx Phelon III IC  Botas de fútbol para Hombre  Naranja  Laser Orange Black/Volt Whit   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZ27EKT/?tag=tolees-21'
+descuento: '46.97'
+titulo: 'Nike Hypervenomx Phelon III IC  Botas de'
 ---
 
 Está [Nike Hypervenomx Phelon III IC  Botas de fútbol para Hombre  Naranja  Laser Orange Black/Volt Whit   42.5 EU](https://www.amazon.es/dp/B01MZ27EKT/?tag=tolees-21) con 46.97 de descuento por 39.77 EUR (original: 75 EUR) en el siguiente enlace!

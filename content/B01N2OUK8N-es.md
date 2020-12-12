@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Under Armour Rapid  Zapatillas de Running para Hombre  Azul  Midnight Navy White 410   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2OUK8N/?tag=tolees-21'
+descuento: '39.84'
+titulo: 'Under Armour Rapid  Zapatillas de Runnin'
 ---
 
 Ahora mismo tienes [Under Armour Rapid  Zapatillas de Running para Hombre  Azul  Midnight Navy White 410   44 EU](https://www.amazon.es/dp/B01N2OUK8N/?tag=tolees-21) a 33.09 EUR (original: 55 EUR) (39.84 %  de descuento) en el siguiente enlace!

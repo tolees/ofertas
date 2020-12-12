@@ -17,6 +17,9 @@ comparePrice: 7.95 EUR
 inStock: true
 prodname: 'Gioteck - Cable De Carga Dual Para Mandos  PS4  Xbox One '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IDCAEIO/?tag=tolees-21'
+descuento: '74.97'
+titulo: 'Gioteck - Cable De Carga Dual Para Mando'
 ---
 
 Está [Gioteck - Cable De Carga Dual Para Mandos  PS4  Xbox One ](https://www.amazon.es/dp/B01IDCAEIO/?tag=tolees-21) con 74.97 de descuento por 1.99 EUR (original: 7.95 EUR) en el siguiente enlace!

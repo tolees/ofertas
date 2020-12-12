@@ -17,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Diesel 00SH0I  Camiseta para Hombre   Gris 912   X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C56ZWVL/?tag=tolees-21'
+descuento: '48.44'
+titulo: 'Diesel 00SH0I  Camiseta para Hombre   Gr'
 ---
 
 Tienes [Diesel 00SH0I  Camiseta para Hombre   Gris 912   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07C56ZWVL/?tag=tolees-21) con un 48.44 % de descuento con precio de oferta de 30.42 EUR (original: 59 EUR) en el siguiente enlace!

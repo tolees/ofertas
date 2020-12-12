@@ -17,6 +17,9 @@ comparePrice: 97.5 EUR
 inStock: true
 prodname: 'Munich Osaka  Zapatillas Unisex Adulto  Multicolor  Gris 308   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WWG8TT/?tag=tolees-21'
+descuento: '54.36'
+titulo: 'Munich Osaka  Zapatillas Unisex Adulto  '
 ---
 
 Ahora mismo tienes [Munich Osaka  Zapatillas Unisex Adulto  Multicolor  Gris 308   38 EU](https://www.amazon.es/dp/B078WWG8TT/?tag=tolees-21) a 44.5 EUR (original: 97.5 EUR) (54.36 %  de descuento) en el siguiente enlace!

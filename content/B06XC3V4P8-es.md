@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Pepe Jeans Becket  Jeans Slim para Niños  Azul  10Oz Md Used Ess Y39   2 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XC3V4P8/?tag=tolees-21'
+descuento: '64.73'
+titulo: 'Pepe Jeans Becket  Jeans Slim para Niños'
 ---
 
 Tienes [Pepe Jeans Becket  Jeans Slim para Niños  Azul  10Oz Md Used Ess Y39   2 años](https://www.amazon.es/dp/B06XC3V4P8/?tag=tolees-21) con un 64.73 % de descuento con precio de oferta de 19.4 EUR (original: 55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 4 EUR
 inStock: true
 prodname: 'COMVIP Mujeres Cuerda Adultos Multi-Wrap Nylon Pulseras Ajustables Brazalete Morado Oscuro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FM1JDW6/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'COMVIP Mujeres Cuerda Adultos Multi-Wrap'
 ---
 
 Ahora mismo tienes [COMVIP Mujeres Cuerda Adultos Multi-Wrap Nylon Pulseras Ajustables Brazalete Morado Oscuro](https://www.amazon.es/dp/B07FM1JDW6/?tag=tolees-21) a 2 EUR (original: 4 EUR) (50.00 %  de descuento) en el siguiente enlace!

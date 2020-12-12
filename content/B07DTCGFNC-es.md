@@ -17,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Luanvi Triple Bermuda Reversible de Basket de Baloncesto  Unisex Adulto  Verde y Blanco  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DTCGFNC/?tag=tolees-21'
+descuento: '39.62'
+titulo: 'Luanvi Triple Bermuda Reversible de Bask'
 ---
 
 Está [Luanvi Triple Bermuda Reversible de Basket de Baloncesto  Unisex Adulto  Verde y Blanco  S](https://www.amazon.es/dp/B07DTCGFNC/?tag=tolees-21) con 39.62 de descuento por 7.24 EUR (original: 11.99 EUR) en el siguiente enlace!

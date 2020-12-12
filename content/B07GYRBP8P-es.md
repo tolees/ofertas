@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'LOVORDS Brazalete Abierto Elástica Mujer Grabado Plata de Ley 925 Corazón Perla Cultivada Blanca de Agua Dulce 6.0mm Regalo Madre Mamá'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GYRBP8P/?tag=tolees-21'
+descuento: '75.01'
+titulo: 'LOVORDS Brazalete Abierto Elástica Mujer'
 ---
 
 Tienes [LOVORDS Brazalete Abierto Elástica Mujer Grabado Plata de Ley 925 Corazón Perla Cultivada Blanca de Agua Dulce 6.0mm Regalo Madre Mamá](https://www.amazon.es/dp/B07GYRBP8P/?tag=tolees-21) con un 75.01 % de descuento con precio de oferta de 24.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 240 EUR
 inStock: true
 prodname: 'Burton Moto Boa Botas de Snowboard  Hombres  Black  7.0'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWDFRM8/?tag=tolees-21'
+descuento: '44.34'
+titulo: 'Burton Moto Boa Botas de Snowboard  Homb'
 ---
 
 Tienes [Burton Moto Boa Botas de Snowboard  Hombres  Black  7.0](https://www.amazon.es/dp/B07DWDFRM8/?tag=tolees-21) con un 44.34 % de descuento con precio de oferta de 133.58 EUR (original: 240 EUR) en el siguiente enlace!

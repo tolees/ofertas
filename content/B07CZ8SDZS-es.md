@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Under Armour UA Tech 2.0 Tank Tanque  Hombre  Azul  Dust/Batik 416   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ8SDZS/?tag=tolees-21'
+descuento: '33.55'
+titulo: 'Under Armour UA Tech 2.0 Tank Tanque  Ho'
 ---
 
 Tienes [Under Armour UA Tech 2.0 Tank Tanque  Hombre  Azul  Dust/Batik 416   S](https://www.amazon.es/dp/B07CZ8SDZS/?tag=tolees-21) con un 33.55 % de descuento con precio de oferta de 17.27 EUR (original: 25.99 EUR) en el siguiente enlace!

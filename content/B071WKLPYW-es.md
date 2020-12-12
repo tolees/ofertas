@@ -17,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'Police Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 15240JSBBN/02'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071WKLPYW/?tag=tolees-21'
+descuento: '46.43'
+titulo: 'Police Reloj Análogo clásico para Hombre'
 ---
 
 Ahora mismo tienes [Police Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 15240JSBBN/02](https://www.amazon.es/dp/B071WKLPYW/?tag=tolees-21) a 74.46 EUR (original: 139 EUR) (46.43 %  de descuento) en el siguiente enlace!

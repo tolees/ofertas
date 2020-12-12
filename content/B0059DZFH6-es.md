@@ -17,6 +17,9 @@ comparePrice: 15.33 EUR
 inStock: true
 prodname: 'Cuenta conmigo [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0059DZFH6/?tag=tolees-21'
+descuento: '42.66'
+titulo: 'Cuenta conmigo [Blu-ray]'
 ---
 
 Ahora mismo tienes [Cuenta conmigo [Blu-ray]](https://www.amazon.es/dp/B0059DZFH6/?tag=tolees-21) a 8.79 EUR (original: 15.33 EUR) (42.66 %  de descuento) en el siguiente enlace!

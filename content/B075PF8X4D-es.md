@@ -17,6 +17,9 @@ comparePrice: 38 EUR
 inStock: true
 prodname: 'Vans_Apparel Vans Clan  Camiseta para Mujer  Negro  Black   6  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075PF8X4D/?tag=tolees-21'
+descuento: '55.13'
+titulo: 'Vans_Apparel Vans Clan  Camiseta para Mu'
 ---
 
 Tienes [Vans_Apparel Vans Clan  Camiseta para Mujer  Negro  Black   6  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B075PF8X4D/?tag=tolees-21) con un 55.13 % de descuento con precio de oferta de 17.05 EUR (original: 38 EUR) en el siguiente enlace!

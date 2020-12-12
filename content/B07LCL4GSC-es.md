@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Aingoo Escritorio de Esquina en Forma de L  Escritorio de la computadora de la Oficina en casa Estación de Trabajo con Mesa portátil para PC  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LCL4GSC/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Aingoo Escritorio de Esquina en Forma de'
 ---
 
 Ahora mismo tienes [Aingoo Escritorio de Esquina en Forma de L  Escritorio de la computadora de la Oficina en casa Estación de Trabajo con Mesa portátil para PC  Negro](https://www.amazon.es/dp/B07LCL4GSC/?tag=tolees-21) a 79.99 EUR (original: 119.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

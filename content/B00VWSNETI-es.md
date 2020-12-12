@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Kappa Cammy  Botas Clasicas Niñas  Azul-Blau  6744 Navy/Orange   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VWSNETI/?tag=tolees-21'
+descuento: '65.90'
+titulo: 'Kappa Cammy  Botas Clasicas Niñas  Azul-'
 ---
 
 Tienes [Kappa Cammy  Botas Clasicas Niñas  Azul-Blau  6744 Navy/Orange   28 EU](https://www.amazon.es/dp/B00VWSNETI/?tag=tolees-21) con un 65.90 % de descuento con precio de oferta de 15.33 EUR (original: 44.95 EUR) en el siguiente enlace!

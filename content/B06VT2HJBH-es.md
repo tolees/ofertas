@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Lorenay LN-1115 - Cepillo de dientes electrico con dos cabezales y pila  estampado Paw Patrol'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06VT2HJBH/?tag=tolees-21'
+descuento: '46.96'
+titulo: 'Lorenay LN-1115 - Cepillo de dientes ele'
 ---
 
 Ahora mismo tienes [Lorenay LN-1115 - Cepillo de dientes electrico con dos cabezales y pila  estampado Paw Patrol](https://www.amazon.es/dp/B06VT2HJBH/?tag=tolees-21) a 7.95 EUR (original: 14.99 EUR) (46.96 %  de descuento) en el siguiente enlace!

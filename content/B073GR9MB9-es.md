@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'find. Camisa Asimétrica Oversize de Rayas para Mujer   Multicolor  Blue/white Stripe   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073GR9MB9/?tag=tolees-21'
+descuento: '56.66'
+titulo: 'find. Camisa Asimétrica Oversize de Raya'
 ---
 
 Está [find. Camisa Asimétrica Oversize de Rayas para Mujer   Multicolor  Blue/white Stripe   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B073GR9MB9/?tag=tolees-21) con 56.66 de descuento por 15.17 EUR (original: 35 EUR) en el siguiente enlace!

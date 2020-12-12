@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Napapijri Vail 2 Bañador   Fantasy F11   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9Q6CK6/?tag=tolees-21'
+descuento: '56.75'
+titulo: 'Napapijri Vail 2 Bañador   Fantasy F11  '
 ---
 
 Está [Napapijri Vail 2 Bañador   Fantasy F11   Small para Hombre](https://www.amazon.es/dp/B07L9Q6CK6/?tag=tolees-21) con 56.75 de descuento por 29.84 EUR (original: 69 EUR) en el siguiente enlace!

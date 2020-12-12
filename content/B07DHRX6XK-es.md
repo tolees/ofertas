@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'ALDO Ocelia  Bailarinas para Mujer  Beige  Rugby Tan 34   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHRX6XK/?tag=tolees-21'
+descuento: '73.65'
+titulo: 'ALDO Ocelia  Bailarinas para Mujer  Beig'
 ---
 
 Está [ALDO Ocelia  Bailarinas para Mujer  Beige  Rugby Tan 34   38 EU](https://www.amazon.es/dp/B07DHRX6XK/?tag=tolees-21) con 73.65 de descuento por 15.81 EUR (original: 60 EUR) en el siguiente enlace!

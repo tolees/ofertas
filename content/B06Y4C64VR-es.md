@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'edc by Esprit 067cc2c008  Pantalones Cortos Hombre  Azul  Navy 400   46  Talla del Fabricante: 29 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y4C64VR/?tag=tolees-21'
+descuento: '66.59'
+titulo: 'edc by Esprit 067cc2c008  Pantalones Cor'
 ---
 
 Ahora mismo tienes [edc by Esprit 067cc2c008  Pantalones Cortos Hombre  Azul  Navy 400   46  Talla del Fabricante: 29 ](https://www.amazon.es/dp/B06Y4C64VR/?tag=tolees-21) a 13.36 EUR (original: 39.99 EUR) (66.59 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Desigual Jers_paty suéter    Negro 2000   X-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079SS8RR8/?tag=tolees-21'
+descuento: '57.80'
+titulo: 'Desigual Jers_paty suéter    Negro 2000 '
 ---
 
 Ahora mismo tienes [Desigual Jers_paty suéter    Negro 2000   X-Small para Mujer](https://www.amazon.es/dp/B079SS8RR8/?tag=tolees-21) a 25.3 EUR (original: 59.95 EUR) (57.80 %  de descuento) en el siguiente enlace!

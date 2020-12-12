@@ -17,6 +17,9 @@ comparePrice: 58.55 EUR
 inStock: true
 prodname: 'Sculpby Rizador - 1600 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LN0RTYG/?tag=tolees-21'
+descuento: '43.28'
+titulo: 'Sculpby Rizador - 1600 gr'
 ---
 
 Tienes [Sculpby Rizador - 1600 gr](https://www.amazon.es/dp/B00LN0RTYG/?tag=tolees-21) con un 43.28 % de descuento con precio de oferta de 33.21 EUR (original: 58.55 EUR) en el siguiente enlace!

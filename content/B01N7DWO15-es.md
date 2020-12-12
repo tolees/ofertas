@@ -17,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'AmazonBasics - Set de 2 soportes ajustables de techo - Níquel'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7DWO15/?tag=tolees-21'
+descuento: '27.86'
+titulo: 'AmazonBasics - Set de 2 soportes ajustab'
 ---
 
 Ahora mismo tienes [AmazonBasics - Set de 2 soportes ajustables de techo - Níquel](https://www.amazon.es/dp/B01N7DWO15/?tag=tolees-21) a 8.65 EUR (original: 11.99 EUR) (27.86 %  de descuento) en el siguiente enlace!

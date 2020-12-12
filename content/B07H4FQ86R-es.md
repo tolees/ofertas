@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'hdcool Sonic Electric Toothbrush  3 en 1 Rechargeable Toothbrush for Complete Oral Care  with Charging Travel Case  3 Modes  and 3 Brush Heads  Silver '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H4FQ86R/?tag=tolees-21'
+descuento: '75.02'
+titulo: 'hdcool Sonic Electric Toothbrush  3 en 1'
 ---
 
 Está [hdcool Sonic Electric Toothbrush  3 en 1 Rechargeable Toothbrush for Complete Oral Care  with Charging Travel Case  3 Modes  and 3 Brush Heads  Silver ](https://www.amazon.es/dp/B07H4FQ86R/?tag=tolees-21) con 75.02 de descuento por 9.99 EUR (original: 39.99 EUR) en el siguiente enlace!

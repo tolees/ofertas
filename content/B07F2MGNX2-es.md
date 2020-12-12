@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Levi s The Jacket  Chaqueta Vaquera para Hombre  Azul  Common Blue Cord Trucker 0318  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2MGNX2/?tag=tolees-21'
+descuento: '53.32'
+titulo: 'Levi s The Jacket  Chaqueta Vaquera para'
 ---
 
 Ahora mismo tienes [Levi s The Jacket  Chaqueta Vaquera para Hombre  Azul  Common Blue Cord Trucker 0318  Medium](https://www.amazon.es/dp/B07F2MGNX2/?tag=tolees-21) a 51.35 EUR (original: 110 EUR) (53.32 %  de descuento) en el siguiente enlace!

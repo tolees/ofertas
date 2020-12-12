@@ -17,6 +17,9 @@ comparePrice: 70.97 EUR
 inStock: true
 prodname: 'RAU AMROS0333 Alfombrillas de Coche sin FijaciÃ³n  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007BBBLYU/?tag=tolees-21'
+descuento: '76.68'
+titulo: 'RAU AMROS0333 Alfombrillas de Coche sin '
 ---
 
 Está [RAU AMROS0333 Alfombrillas de Coche sin FijaciÃ³n  Color Negro](https://www.amazon.es/dp/B007BBBLYU/?tag=tolees-21) con 76.68 de descuento por 16.55 EUR (original: 70.97 EUR) en el siguiente enlace!

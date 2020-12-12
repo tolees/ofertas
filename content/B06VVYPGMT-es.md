@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Esprit 057ee1f037  Blusa Mujer   Navy   36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06VVYPGMT/?tag=tolees-21'
+descuento: '69.63'
+titulo: 'Esprit 057ee1f037  Blusa Mujer   Navy   '
 ---
 
 Tienes [Esprit 057ee1f037  Blusa Mujer   Navy   36](https://www.amazon.es/dp/B06VVYPGMT/?tag=tolees-21) con un 69.63 % de descuento con precio de oferta de 10.93 EUR (original: 35.99 EUR) en el siguiente enlace!

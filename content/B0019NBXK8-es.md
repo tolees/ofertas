@@ -17,6 +17,9 @@ comparePrice: 15.03 EUR
 inStock: true
 prodname: 'Royal & Langnickel RSET-9154 - Set de brochas de cerdas cilíndricas y planas  8 piezas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0019NBXK8/?tag=tolees-21'
+descuento: '48.04'
+titulo: 'Royal & Langnickel RSET-9154 - Set de br'
 ---
 
 Tienes [Royal & Langnickel RSET-9154 - Set de brochas de cerdas cilíndricas y planas  8 piezas ](https://www.amazon.es/dp/B0019NBXK8/?tag=tolees-21) con un 48.04 % de descuento con precio de oferta de 7.81 EUR (original: 15.03 EUR) en el siguiente enlace!

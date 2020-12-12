@@ -17,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Quiksilver Estate Snow Pant  Hombre  Flame  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHSPRTX/?tag=tolees-21'
+descuento: '52.97'
+titulo: 'Quiksilver Estate Snow Pant  Hombre  Fla'
 ---
 
 Está [Quiksilver Estate Snow Pant  Hombre  Flame  S](https://www.amazon.es/dp/B07DHSPRTX/?tag=tolees-21) con 52.97 de descuento por 61.14 EUR (original: 129.99 EUR) en el siguiente enlace!

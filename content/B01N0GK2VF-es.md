@@ -17,6 +17,9 @@ comparePrice: 145 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Vongo V2  Zapatillas de Running para Hombre  Blanco  White/vivid Cobalt   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0GK2VF/?tag=tolees-21'
+descuento: '43.38'
+titulo: 'New Balance Fresh Foam Vongo V2  Zapatil'
 ---
 
 Tienes [New Balance Fresh Foam Vongo V2  Zapatillas de Running para Hombre  Blanco  White/vivid Cobalt   45 EU](https://www.amazon.es/dp/B01N0GK2VF/?tag=tolees-21) con un 43.38 % de descuento con precio de oferta de 82.1 EUR (original: 145 EUR) en el siguiente enlace!

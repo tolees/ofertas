@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Wrangler Sign Off Sweat Sudadera  Azul  Navy A35   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FXK7N2C/?tag=tolees-21'
+descuento: '78.53'
+titulo: 'Wrangler Sign Off Sweat Sudadera  Azul  '
 ---
 
 Está [Wrangler Sign Off Sweat Sudadera  Azul  Navy A35   Small para Hombre](https://www.amazon.es/dp/B07FXK7N2C/?tag=tolees-21) con 78.53 de descuento por 12.87 EUR (original: 59.95 EUR) en el siguiente enlace!

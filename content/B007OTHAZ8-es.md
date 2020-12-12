@@ -17,6 +17,9 @@ comparePrice: 26.96 EUR
 inStock: true
 prodname: 'JOSE CUERVO REPOSADO DORADO 1L.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007OTHAZ8/?tag=tolees-21'
+descuento: '37.87'
+titulo: 'JOSE CUERVO REPOSADO DORADO 1L.'
 ---
 
 Tienes [JOSE CUERVO REPOSADO DORADO 1L.](https://www.amazon.es/dp/B007OTHAZ8/?tag=tolees-21) con un 37.87 % de descuento con precio de oferta de 16.75 EUR (original: 26.96 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15.1 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Vestido de Estilo Deportivo con Inscripción  Gris  ES 40 / M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XXRDY3G/?tag=tolees-21'
+descuento: '60.93'
+titulo: 'oodji Ultra Mujer Vestido de Estilo Depo'
 ---
 
 Tienes [oodji Ultra Mujer Vestido de Estilo Deportivo con Inscripción  Gris  ES 40 / M](https://www.amazon.es/dp/B06XXRDY3G/?tag=tolees-21) con un 60.93 % de descuento con precio de oferta de 5.9 EUR (original: 15.1 EUR) en el siguiente enlace!

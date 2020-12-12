@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Pepe Jeans Checks Bañador de natación   Multi 0Aa   2 años  Talla del Fabricante: 2  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NCB62KW/?tag=tolees-21'
+descuento: '50.20'
+titulo: 'Pepe Jeans Checks Bañador de natación   '
 ---
 
 Tienes [Pepe Jeans Checks Bañador de natación   Multi 0Aa   2 años  Talla del Fabricante: 2  para Niños](https://www.amazon.es/dp/B07NCB62KW/?tag=tolees-21) con un 50.20 % de descuento con precio de oferta de 17.43 EUR (original: 35 EUR) en el siguiente enlace!

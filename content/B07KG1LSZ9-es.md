@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Cookjoy Parrilla Grill electrica Antiadherente， Barbacoa  1800W  Plancha eléctrica con Placa Reversible Desmontable Temperatura Ajustable sandwichera  panini  Libre de BPA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KG1LSZ9/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Cookjoy Parrilla Grill electrica Antiadh'
 ---
 
 Ahora mismo tienes [Cookjoy Parrilla Grill electrica Antiadherente， Barbacoa  1800W  Plancha eléctrica con Placa Reversible Desmontable Temperatura Ajustable sandwichera  panini  Libre de BPA](https://www.amazon.es/dp/B07KG1LSZ9/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

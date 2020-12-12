@@ -17,6 +17,9 @@ comparePrice: 33.99 EUR
 inStock: true
 prodname: 'Aicok Hervidor de Agua Eléctrico  Apagado Automatic y Tetera Para Viaje   Libre De BPA  120V/220-240V   0 5 Litros  650W  Negra'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073Q1RP3B/?tag=tolees-21'
+descuento: '41.19'
+titulo: 'Aicok Hervidor de Agua Eléctrico  Apagad'
 ---
 
 Ahora mismo tienes [Aicok Hervidor de Agua Eléctrico  Apagado Automatic y Tetera Para Viaje   Libre De BPA  120V/220-240V   0 5 Litros  650W  Negra](https://www.amazon.es/dp/B073Q1RP3B/?tag=tolees-21) a 19.99 EUR (original: 33.99 EUR) (41.19 %  de descuento) en el siguiente enlace!

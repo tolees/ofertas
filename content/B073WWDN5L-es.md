@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Crosstour Cámara Deportiva Impermeable 4K Ultra HD Wi-Fi 12MP Acción 2" LCD Ángulo 170 Grados con 2 Baterías 1050mAh Impermeable 30m y 18 Accesorios Multifuncionales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073WWDN5L/?tag=tolees-21'
+descuento: '50.72'
+titulo: 'Crosstour Cámara Deportiva Impermeable 4'
 ---
 
 Tienes [Crosstour Cámara Deportiva Impermeable 4K Ultra HD Wi-Fi 12MP Acción 2" LCD Ángulo 170 Grados con 2 Baterías 1050mAh Impermeable 30m y 18 Accesorios Multifuncionales](https://www.amazon.es/dp/B073WWDN5L/?tag=tolees-21) con un 50.72 % de descuento con precio de oferta de 34.49 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.94 EUR
 inStock: true
 prodname: 'Rexona Invisible Diamond  Desodorante Antitranspirante  200 ml  6 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0767DVZTN/?tag=tolees-21'
+descuento: '26.44'
+titulo: 'Rexona Invisible Diamond  Desodorante An'
 ---
 
 Ahora mismo tienes [Rexona Invisible Diamond  Desodorante Antitranspirante  200 ml  6 Unidades](https://www.amazon.es/dp/B0767DVZTN/?tag=tolees-21) a 10.99 EUR (original: 14.94 EUR) (26.44 %  de descuento) en el siguiente enlace!

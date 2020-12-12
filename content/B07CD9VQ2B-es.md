@@ -17,6 +17,9 @@ comparePrice: 24.98 EUR
 inStock: true
 prodname: 'Silverline 953656 Comprobador de Compresión para Motores A Gasolina  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CD9VQ2B/?tag=tolees-21'
+descuento: '29.70'
+titulo: 'Silverline 953656 Comprobador de Compres'
 ---
 
 Tienes [Silverline 953656 Comprobador de Compresión para Motores A Gasolina  Negro](https://www.amazon.es/dp/B07CD9VQ2B/?tag=tolees-21) con un 29.70 % de descuento con precio de oferta de 17.56 EUR (original: 24.98 EUR) en el siguiente enlace!

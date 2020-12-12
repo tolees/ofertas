@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Elegear Gafas de Sol Hombre Polarizadas Gafas Deportivas Súper Ligero y Cómodo Anti UVA UV Marco TR90 Lente Espejo con REVO Gafas Hombre y Mujer Ciclismo MTB Running Coche Moto Montaña-Gafas Azules'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D6JVL1C/?tag=tolees-21'
+descuento: '53.08'
+titulo: 'Elegear Gafas de Sol Hombre Polarizadas '
 ---
 
 Ahora mismo tienes [Elegear Gafas de Sol Hombre Polarizadas Gafas Deportivas Súper Ligero y Cómodo Anti UVA UV Marco TR90 Lente Espejo con REVO Gafas Hombre y Mujer Ciclismo MTB Running Coche Moto Montaña-Gafas Azules](https://www.amazon.es/dp/B07D6JVL1C/?tag=tolees-21) a 22.99 EUR (original: 49 EUR) (53.08 %  de descuento) en el siguiente enlace!

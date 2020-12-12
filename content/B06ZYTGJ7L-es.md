@@ -17,6 +17,9 @@ comparePrice: 26.83 EUR
 inStock: true
 prodname: 'Jocel JVP030610 Ventilador de Pie  45 W  Plástico  3 Velocidades  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06ZYTGJ7L/?tag=tolees-21'
+descuento: '40.40'
+titulo: 'Jocel JVP030610 Ventilador de Pie  45 W '
 ---
 
 Está [Jocel JVP030610 Ventilador de Pie  45 W  Plástico  3 Velocidades  Blanco](https://www.amazon.es/dp/B06ZYTGJ7L/?tag=tolees-21) con 40.40 de descuento por 15.99 EUR (original: 26.83 EUR) en el siguiente enlace!

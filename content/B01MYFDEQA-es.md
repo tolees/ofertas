@@ -17,6 +17,9 @@ comparePrice: 15.42 EUR
 inStock: true
 prodname: '1898: Los Últimos De Filipinas [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYFDEQA/?tag=tolees-21'
+descuento: '64.40'
+titulo: '1898: Los Últimos De Filipinas [Blu-ray]'
 ---
 
 Está [1898: Los Últimos De Filipinas [Blu-ray]](https://www.amazon.es/dp/B01MYFDEQA/?tag=tolees-21) con 64.40 de descuento por 5.49 EUR (original: 15.42 EUR) en el siguiente enlace!

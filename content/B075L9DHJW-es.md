@@ -17,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Protector Pala de Padel ZRZ SPORTS Basico  Morado '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075L9DHJW/?tag=tolees-21'
+descuento: '38.61'
+titulo: 'Protector Pala de Padel ZRZ SPORTS Basic'
 ---
 
 Tienes [Protector Pala de Padel ZRZ SPORTS Basico  Morado ](https://www.amazon.es/dp/B075L9DHJW/?tag=tolees-21) con un 38.61 % de descuento con precio de oferta de 7.95 EUR (original: 12.95 EUR) en el siguiente enlace!

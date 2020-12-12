@@ -17,6 +17,9 @@ comparePrice: 23.1 EUR
 inStock: true
 prodname: 'Johnson s Vita-Rich Revitalizante Uvas Loción Corporal - 6 Recipientes de 400 ml - Total: 2400 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VD5LF2/?tag=tolees-21'
+descuento: '30.65'
+titulo: 'Johnson s Vita-Rich Revitalizante Uvas L'
 ---
 
 Tienes [Johnson s Vita-Rich Revitalizante Uvas Loción Corporal - 6 Recipientes de 400 ml - Total: 2400 ml](https://www.amazon.es/dp/B071VD5LF2/?tag=tolees-21) con un 30.65 % de descuento con precio de oferta de 16.02 EUR (original: 23.1 EUR) en el siguiente enlace!

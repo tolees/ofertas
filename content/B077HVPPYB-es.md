@@ -17,6 +17,9 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'Funko Pop!- Stranger Things: 6" Demogorgon  28633 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HVPPYB/?tag=tolees-21'
+descuento: '39.65'
+titulo: 'Funko Pop!- Stranger Things: 6" Demogorg'
 ---
 
 Ahora mismo tienes [Funko Pop!- Stranger Things: 6" Demogorgon  28633 ](https://www.amazon.es/dp/B077HVPPYB/?tag=tolees-21) a 13.85 EUR (original: 22.95 EUR) (39.65 %  de descuento) en el siguiente enlace!

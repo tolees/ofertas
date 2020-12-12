@@ -17,6 +17,9 @@ comparePrice: 36.95 EUR
 inStock: true
 prodname: 'Lower East Le222 Pantalones  Negro  Schwarz   W30/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9D1WDE/?tag=tolees-21'
+descuento: '51.07'
+titulo: 'Lower East Le222 Pantalones  Negro  Schw'
 ---
 
 Ahora mismo tienes [Lower East Le222 Pantalones  Negro  Schwarz   W30/L32](https://www.amazon.es/dp/B01N9D1WDE/?tag=tolees-21) a 18.08 EUR (original: 36.95 EUR) (51.07 %  de descuento) en el siguiente enlace!

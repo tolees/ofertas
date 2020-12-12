@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Puma Equipe Stone Wash 12  Zapatillas de Running para Mujer  Morado  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015OC0ETU/?tag=tolees-21'
+descuento: '81.14'
+titulo: 'Puma Equipe Stone Wash 12  Zapatillas de'
 ---
 
 Tienes [Puma Equipe Stone Wash 12  Zapatillas de Running para Mujer  Morado  38 EU](https://www.amazon.es/dp/B015OC0ETU/?tag=tolees-21) con un 81.14 % de descuento con precio de oferta de 24.52 EUR (original: 130 EUR) en el siguiente enlace!

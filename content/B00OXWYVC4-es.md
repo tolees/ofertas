@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Wahl Color Pro Combo - Kit de cortapelos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OXWYVC4/?tag=tolees-21'
+descuento: '46.65'
+titulo: 'Wahl Color Pro Combo - Kit de cortapelos'
 ---
 
 Está [Wahl Color Pro Combo - Kit de cortapelos](https://www.amazon.es/dp/B00OXWYVC4/?tag=tolees-21) con 46.65 de descuento por 16 EUR (original: 29.99 EUR) en el siguiente enlace!

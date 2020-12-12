@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Wilson  Raqueta de tenis para niños  Burn Pink 23  Rosa/Negro  Para niños con altura de 115 a 130 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018YNAM52/?tag=tolees-21'
+descuento: '25.86'
+titulo: 'Wilson  Raqueta de tenis para niños  Bur'
 ---
 
 Está [Wilson  Raqueta de tenis para niños  Burn Pink 23  Rosa/Negro  Para niños con altura de 115 a 130 cm](https://www.amazon.es/dp/B018YNAM52/?tag=tolees-21) con 25.86 de descuento por 25.95 EUR (original: 35 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Skechers Go Vulc 2  Zapatillas Altas para Hombre  Negro  Black Blk   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CW1Y9VD/?tag=tolees-21'
+descuento: '51.37'
+titulo: 'Skechers Go Vulc 2  Zapatillas Altas par'
 ---
 
 Ahora mismo tienes [Skechers Go Vulc 2  Zapatillas Altas para Hombre  Negro  Black Blk   42 EU](https://www.amazon.es/dp/B07CW1Y9VD/?tag=tolees-21) a 38.88 EUR (original: 79.95 EUR) (51.37 %  de descuento) en el siguiente enlace!

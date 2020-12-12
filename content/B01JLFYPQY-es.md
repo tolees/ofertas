@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Aicok Batidora de Mano de Varilla Eléctrica Minipimer con Alfombrilla Antideslizante y Vaso Medidor  Cuchillas de Acero Inoxidable  color Negro  700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JLFYPQY/?tag=tolees-21'
+descuento: '65.72'
+titulo: 'Aicok Batidora de Mano de Varilla Eléctr'
 ---
 
 Está [Aicok Batidora de Mano de Varilla Eléctrica Minipimer con Alfombrilla Antideslizante y Vaso Medidor  Cuchillas de Acero Inoxidable  color Negro  700 ml](https://www.amazon.es/dp/B01JLFYPQY/?tag=tolees-21) con 65.72 de descuento por 23.99 EUR (original: 69.99 EUR) en el siguiente enlace!

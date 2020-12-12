@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas Duramo 8 M  Zapatillas de Running para Hombre  Gris  Grey Five/Grey Two/Grey Two 0   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077PSJXHQ/?tag=tolees-21'
+descuento: '47.51'
+titulo: 'adidas Duramo 8 M  Zapatillas de Running'
 ---
 
 Ahora mismo tienes [adidas Duramo 8 M  Zapatillas de Running para Hombre  Gris  Grey Five/Grey Two/Grey Two 0   42 EU](https://www.amazon.es/dp/B077PSJXHQ/?tag=tolees-21) a 36.72 EUR (original: 69.95 EUR) (47.51 %  de descuento) en el siguiente enlace!

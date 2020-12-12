@@ -17,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'ZADO - Bondage'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0026JHRMC/?tag=tolees-21'
+descuento: '26.80'
+titulo: 'ZADO - Bondage'
 ---
 
 Ahora mismo tienes [ZADO - Bondage](https://www.amazon.es/dp/B0026JHRMC/?tag=tolees-21) a 87.8 EUR (original: 119.95 EUR) (26.80 %  de descuento) en el siguiente enlace!

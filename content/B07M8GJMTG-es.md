@@ -17,6 +17,9 @@ comparePrice: 7.45 EUR
 inStock: true
 prodname: 'Mickey Mouse True-Bolígrafo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8GJMTG/?tag=tolees-21'
+descuento: '81.48'
+titulo: 'Mickey Mouse True-Bolígrafo'
 ---
 
 Tienes [Mickey Mouse True-Bolígrafo](https://www.amazon.es/dp/B07M8GJMTG/?tag=tolees-21) con un 81.48 % de descuento con precio de oferta de 1.38 EUR (original: 7.45 EUR) en el siguiente enlace!

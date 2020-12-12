@@ -17,6 +17,9 @@ comparePrice: 145.79 EUR
 inStock: true
 prodname: 'Tesa Assa Abloy MCHV700CM Manilla con teclado digital Code Handle para ventana  cromado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTFLQKD/?tag=tolees-21'
+descuento: '45.16'
+titulo: 'Tesa Assa Abloy MCHV700CM Manilla con te'
 ---
 
 Está [Tesa Assa Abloy MCHV700CM Manilla con teclado digital Code Handle para ventana  cromado](https://www.amazon.es/dp/B01MTFLQKD/?tag=tolees-21) con 45.16 de descuento por 79.95 EUR (original: 145.79 EUR) en el siguiente enlace!

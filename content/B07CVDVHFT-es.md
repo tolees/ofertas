@@ -17,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Anni 1080P IP cámara Sistema  WiFi 2.0MP Interior cámaras de Seguridad  Night Vision  P2P  Tarjeta de TF de Apoyo/Sistema de vigilancia de Audio de Dos vías  Detección Inteligente de Movimiento'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVDVHFT/?tag=tolees-21'
+descuento: '90.92'
+titulo: 'Anni 1080P IP cámara Sistema  WiFi 2.0MP'
 ---
 
 Está [Anni 1080P IP cámara Sistema  WiFi 2.0MP Interior cámaras de Seguridad  Night Vision  P2P  Tarjeta de TF de Apoyo/Sistema de vigilancia de Audio de Dos vías  Detección Inteligente de Movimiento](https://www.amazon.es/dp/B07CVDVHFT/?tag=tolees-21) con 90.92 de descuento por 9.99 EUR (original: 109.99 EUR) en el siguiente enlace!

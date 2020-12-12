@@ -17,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Low Waist Super Skinny Vaquero  Azul  lt Aged 7048-424   31W / 32L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SF8RNK4/?tag=tolees-21'
+descuento: '75.38'
+titulo: 'G-STAR RAW 3301 Low Waist Super Skinny V'
 ---
 
 Tienes [G-STAR RAW 3301 Low Waist Super Skinny Vaquero  Azul  lt Aged 7048-424   31W / 32L para Mujer](https://www.amazon.es/dp/B00SF8RNK4/?tag=tolees-21) con un 75.38 % de descuento con precio de oferta de 31.99 EUR (original: 129.95 EUR) en el siguiente enlace!

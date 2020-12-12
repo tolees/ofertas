@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Enesco Disney Traditions Figurita Cálidos Deseos Mickey Y Minnie Mouse  Resina  11x11x13 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N35LD9P/?tag=tolees-21'
+descuento: '45.67'
+titulo: 'Enesco Disney Traditions Figurita Cálido'
 ---
 
 Tienes [Enesco Disney Traditions Figurita Cálidos Deseos Mickey Y Minnie Mouse  Resina  11x11x13 cm](https://www.amazon.es/dp/B01N35LD9P/?tag=tolees-21) con un 45.67 % de descuento con precio de oferta de 27.14 EUR (original: 49.95 EUR) en el siguiente enlace!

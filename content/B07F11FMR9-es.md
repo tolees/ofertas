@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Levi s Modern Hm Hoodie Capucha  Azul  Campanula 0000   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F11FMR9/?tag=tolees-21'
+descuento: '50.79'
+titulo: 'Levi s Modern Hm Hoodie Capucha  Azul  C'
 ---
 
 Tienes [Levi s Modern Hm Hoodie Capucha  Azul  Campanula 0000   Small para Hombre](https://www.amazon.es/dp/B07F11FMR9/?tag=tolees-21) con un 50.79 % de descuento con precio de oferta de 34.45 EUR (original: 70 EUR) en el siguiente enlace!

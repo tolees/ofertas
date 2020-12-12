@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance 220  Zapatillas para Hombre  Negro Black TD  40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D86P5ZT/?tag=tolees-21'
+descuento: '46.88'
+titulo: 'New Balance 220  Zapatillas para Hombre '
 ---
 
 Ahora mismo tienes [New Balance 220  Zapatillas para Hombre  Negro Black TD  40.5 EU](https://www.amazon.es/dp/B07D86P5ZT/?tag=tolees-21) a 42.5 EUR (original: 80 EUR) (46.88 %  de descuento) en el siguiente enlace!

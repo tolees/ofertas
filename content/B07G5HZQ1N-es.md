@@ -17,6 +17,9 @@ comparePrice: 72.99 EUR
 inStock: true
 prodname: 'Eono Essentials - Humidor de viaje para puros hermético  resistente y a prueba de golpes  hecho de madera de cedro impermeable con capacidad para 3 puros  negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G5HZQ1N/?tag=tolees-21'
+descuento: '47.95'
+titulo: 'Eono Essentials - Humidor de viaje para '
 ---
 
 Está [Eono Essentials - Humidor de viaje para puros hermético  resistente y a prueba de golpes  hecho de madera de cedro impermeable con capacidad para 3 puros  negro ](https://www.amazon.es/dp/B07G5HZQ1N/?tag=tolees-21) con 47.95 de descuento por 37.99 EUR (original: 72.99 EUR) en el siguiente enlace!

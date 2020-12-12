@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Performance Go Run Fast  Zapatillas Deportivas para Interior para Hombre  Negro  Black   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076QN4G1X/?tag=tolees-21'
+descuento: '45.95'
+titulo: 'Skechers Performance Go Run Fast  Zapati'
 ---
 
 Tienes [Skechers Performance Go Run Fast  Zapatillas Deportivas para Interior para Hombre  Negro  Black   45 EU](https://www.amazon.es/dp/B076QN4G1X/?tag=tolees-21) con un 45.95 % de descuento con precio de oferta de 32.4 EUR (original: 59.95 EUR) en el siguiente enlace!

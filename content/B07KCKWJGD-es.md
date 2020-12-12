@@ -17,6 +17,9 @@ comparePrice: 37.5 EUR
 inStock: true
 prodname: 'David Jones - 5911-2  Bolsos totes Mujer  Verde  P.Green   13x29x37 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCKWJGD/?tag=tolees-21'
+descuento: '42.24'
+titulo: 'David Jones - 5911-2  Bolsos totes Mujer'
 ---
 
 Está [David Jones - 5911-2  Bolsos totes Mujer  Verde  P.Green   13x29x37 cm  W x H L ](https://www.amazon.es/dp/B07KCKWJGD/?tag=tolees-21) con 42.24 de descuento por 21.66 EUR (original: 37.5 EUR) en el siguiente enlace!

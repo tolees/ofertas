@@ -17,6 +17,9 @@ comparePrice: 86 EUR
 inStock: true
 prodname: 'Diesel Bad Eau de toilette 125ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JMCWBW6/?tag=tolees-21'
+descuento: '36.10'
+titulo: 'Diesel Bad Eau de toilette 125ml'
 ---
 
 Está [Diesel Bad Eau de toilette 125ml](https://www.amazon.es/dp/B01JMCWBW6/?tag=tolees-21) con 36.10 de descuento por 54.95 EUR (original: 86 EUR) en el siguiente enlace!

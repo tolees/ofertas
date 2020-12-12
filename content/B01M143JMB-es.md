@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Paranix Protect. Tratamiento Preventivo para Piojos y Liendres - Sin insecticidas - 100 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M143JMB/?tag=tolees-21'
+descuento: '61.20'
+titulo: 'Paranix Protect. Tratamiento Preventivo '
 ---
 
 Tienes [Paranix Protect. Tratamiento Preventivo para Piojos y Liendres - Sin insecticidas - 100 ml](https://www.amazon.es/dp/B01M143JMB/?tag=tolees-21) con un 61.20 % de descuento con precio de oferta de 5.8 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'SYROKAN - Sujetador Deportivo Malla Cremallera Delantera con Relleno para Mujer Blanco ES:95C  EU 80C '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0BSJEO/?tag=tolees-21'
+descuento: '44.47'
+titulo: 'SYROKAN - Sujetador Deportivo Malla Crem'
 ---
 
 Está [SYROKAN - Sujetador Deportivo Malla Cremallera Delantera con Relleno para Mujer Blanco ES:95C  EU 80C ](https://www.amazon.es/dp/B01N0BSJEO/?tag=tolees-21) con 44.47 de descuento por 24.99 EUR (original: 45 EUR) en el siguiente enlace!

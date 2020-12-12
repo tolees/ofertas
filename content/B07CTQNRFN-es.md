@@ -17,6 +17,9 @@ comparePrice: 9 EUR
 inStock: true
 prodname: 'FIND - Choco Rush  Lápiz iluminador de cejas con brocha kabuki n.3 + Máscara de cejas n.3 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTQNRFN/?tag=tolees-21'
+descuento: '47.11'
+titulo: 'FIND - Choco Rush  Lápiz iluminador de c'
 ---
 
 Está [FIND - Choco Rush  Lápiz iluminador de cejas con brocha kabuki n.3 + Máscara de cejas n.3 ](https://www.amazon.es/dp/B07CTQNRFN/?tag=tolees-21) con 47.11 de descuento por 4.76 EUR (original: 9 EUR) en el siguiente enlace!

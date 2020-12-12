@@ -17,6 +17,9 @@ comparePrice: 8.83 EUR
 inStock: true
 prodname: 'Natural Honey  Aceite corporal - 300 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G8CYGLH/?tag=tolees-21'
+descuento: '66.14'
+titulo: 'Natural Honey  Aceite corporal - 300 ml.'
 ---
 
 Tienes [Natural Honey  Aceite corporal - 300 ml.](https://www.amazon.es/dp/B07G8CYGLH/?tag=tolees-21) con un 66.14 % de descuento con precio de oferta de 2.99 EUR (original: 8.83 EUR) en el siguiente enlace!

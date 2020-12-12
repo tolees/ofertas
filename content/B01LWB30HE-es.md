@@ -17,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Timberland Leighland  Botas para Mujer  Marrón  Trapper Tan   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LWB30HE/?tag=tolees-21'
+descuento: '54.86'
+titulo: 'Timberland Leighland  Botas para Mujer  '
 ---
 
 Está [Timberland Leighland  Botas para Mujer  Marrón  Trapper Tan   41.5 EU](https://www.amazon.es/dp/B01LWB30HE/?tag=tolees-21) con 54.86 de descuento por 72.22 EUR (original: 160 EUR) en el siguiente enlace!

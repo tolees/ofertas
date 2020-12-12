@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'PIECES Pcdonchen LS Knit suéter  Gris  Dark Grey Melange   38  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0734ZWWD8/?tag=tolees-21'
+descuento: '61.32'
+titulo: 'PIECES Pcdonchen LS Knit suéter  Gris  D'
 ---
 
 Está [PIECES Pcdonchen LS Knit suéter  Gris  Dark Grey Melange   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B0734ZWWD8/?tag=tolees-21) con 61.32 de descuento por 10.44 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Auriculares In-Ear Creative Outlier One inalámbricos Bluetooth 4.1 Resistentes a la transpiración con IPX4 Nano Cobertura y micrófono Integrado  9.5 Horas de batería y Cable sin enredos  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RWRJQF/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Auriculares In-Ear Creative Outlier One '
 ---
 
 Tienes [Auriculares In-Ear Creative Outlier One inalámbricos Bluetooth 4.1 Resistentes a la transpiración con IPX4 Nano Cobertura y micrófono Integrado  9.5 Horas de batería y Cable sin enredos  Negro ](https://www.amazon.es/dp/B075RWRJQF/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

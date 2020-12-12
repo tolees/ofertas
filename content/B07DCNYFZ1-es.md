@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma Smash v2  Zapatillas Unisex Adulto  Verde  Ponderosa Pine Team Gold-Whisper White 26   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCNYFZ1/?tag=tolees-21'
+descuento: '45.50'
+titulo: 'Puma Smash v2  Zapatillas Unisex Adulto '
 ---
 
 Ahora mismo tienes [Puma Smash v2  Zapatillas Unisex Adulto  Verde  Ponderosa Pine Team Gold-Whisper White 26   40.5 EU](https://www.amazon.es/dp/B07DCNYFZ1/?tag=tolees-21) a 29.95 EUR (original: 54.95 EUR) (45.50 %  de descuento) en el siguiente enlace!

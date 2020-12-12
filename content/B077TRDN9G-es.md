@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Reebok Cn1794  Zapatillas de Running para Hombre  Negro  Blackwhiteelectric Flashpewter   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TRDN9G/?tag=tolees-21'
+descuento: '50.26'
+titulo: 'Reebok Cn1794  Zapatillas de Running par'
 ---
 
 Ahora mismo tienes [Reebok Cn1794  Zapatillas de Running para Hombre  Negro  Blackwhiteelectric Flashpewter   44 EU](https://www.amazon.es/dp/B077TRDN9G/?tag=tolees-21) a 27.33 EUR (original: 54.95 EUR) (50.26 %  de descuento) en el siguiente enlace!

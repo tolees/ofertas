@@ -17,6 +17,9 @@ comparePrice: 229.75 EUR
 inStock: true
 prodname: 'InnovaGoods Depiladora Facial Indolora con LED - 1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SMKRSGH/?tag=tolees-21'
+descuento: '88.47'
+titulo: 'InnovaGoods Depiladora Facial Indolora c'
 ---
 
 Está [InnovaGoods Depiladora Facial Indolora con LED - 1 unidad](https://www.amazon.es/dp/B07SMKRSGH/?tag=tolees-21) con 88.47 de descuento por 26.5 EUR (original: 229.75 EUR) en el siguiente enlace!

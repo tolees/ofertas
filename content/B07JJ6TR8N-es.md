@@ -17,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Lacoste Ph4241 Polo  Azul  Farine Blanc-Marin Az7   XXXX-Large  Talla del Fabricante: 9  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJ6TR8N/?tag=tolees-21'
+descuento: '38.50'
+titulo: 'Lacoste Ph4241 Polo  Azul  Farine Blanc-'
 ---
 
 Tienes [Lacoste Ph4241 Polo  Azul  Farine Blanc-Marin Az7   XXXX-Large  Talla del Fabricante: 9  para Hombre](https://www.amazon.es/dp/B07JJ6TR8N/?tag=tolees-21) con un 38.50 % de descuento con precio de oferta de 73.8 EUR (original: 120 EUR) en el siguiente enlace!

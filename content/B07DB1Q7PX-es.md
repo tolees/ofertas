@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Puma Suede Classic Wn s  Zapatillas para Mujer  Rosa  Magenta Haze White 79   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DB1Q7PX/?tag=tolees-21'
+descuento: '70.65'
+titulo: 'Puma Suede Classic Wn s  Zapatillas para'
 ---
 
 Tienes [Puma Suede Classic Wn s  Zapatillas para Mujer  Rosa  Magenta Haze White 79   40 EU](https://www.amazon.es/dp/B07DB1Q7PX/?tag=tolees-21) con un 70.65 % de descuento con precio de oferta de 24.93 EUR (original: 84.95 EUR) en el siguiente enlace!

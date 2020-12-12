@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Vemingo Cartera de Viaje Parta Pasaporte Cartera Pasaporte con Bloqueo RFID Organizador de Documentos 2 Pasaportes  Tarjeta de Crédito  Billetes de Avión para Hombre Mujer  Negro  Pequeño '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JM7MB64/?tag=tolees-21'
+descuento: '42.32'
+titulo: 'Vemingo Cartera de Viaje Parta Pasaporte'
 ---
 
 Tienes [Vemingo Cartera de Viaje Parta Pasaporte Cartera Pasaporte con Bloqueo RFID Organizador de Documentos 2 Pasaportes  Tarjeta de Crédito  Billetes de Avión para Hombre Mujer  Negro  Pequeño ](https://www.amazon.es/dp/B07JM7MB64/?tag=tolees-21) con un 42.32 % de descuento con precio de oferta de 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

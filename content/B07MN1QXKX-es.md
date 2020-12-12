@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'The North Face Polo Piquet  Hombre  Beige  Kelp Tan   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MN1QXKX/?tag=tolees-21'
+descuento: '34.80'
+titulo: 'The North Face Polo Piquet  Hombre  Beig'
 ---
 
 Ahora mismo tienes [The North Face Polo Piquet  Hombre  Beige  Kelp Tan   L](https://www.amazon.es/dp/B07MN1QXKX/?tag=tolees-21) a 32.6 EUR (original: 50 EUR) (34.80 %  de descuento) en el siguiente enlace!

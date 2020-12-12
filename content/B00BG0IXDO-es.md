@@ -17,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Nike Benassi Jdi  Chanclas Unisex Adulto  Azul  Midnight Navy/Windchill   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BG0IXDO/?tag=tolees-21'
+descuento: '41.18'
+titulo: 'Nike Benassi Jdi  Chanclas Unisex Adulto'
 ---
 
 Tienes [Nike Benassi Jdi  Chanclas Unisex Adulto  Azul  Midnight Navy/Windchill   42.5 EU](https://www.amazon.es/dp/B00BG0IXDO/?tag=tolees-21) con un 41.18 % de descuento con precio de oferta de 16.47 EUR (original: 28 EUR) en el siguiente enlace!

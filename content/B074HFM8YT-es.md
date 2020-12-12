@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-Star RAW Scuba Ii  Zapatillas para Hombre  Negro  Black 990   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074HFM8YT/?tag=tolees-21'
+descuento: '50.82'
+titulo: 'G-Star RAW Scuba Ii  Zapatillas para Hom'
 ---
 
 Está [G-Star RAW Scuba Ii  Zapatillas para Hombre  Negro  Black 990   42 EU](https://www.amazon.es/dp/B074HFM8YT/?tag=tolees-21) con 50.82 de descuento por 49.16 EUR (original: 99.95 EUR) en el siguiente enlace!

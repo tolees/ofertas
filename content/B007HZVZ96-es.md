@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Aha 101421 - Estuche para portátiles de hasta 12 1 pulgadas  color verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007HZVZ96/?tag=tolees-21'
+descuento: '85.83'
+titulo: 'Aha 101421 - Estuche para portátiles de '
 ---
 
 Está [Aha 101421 - Estuche para portátiles de hasta 12 1 pulgadas  color verde](https://www.amazon.es/dp/B007HZVZ96/?tag=tolees-21) con 85.83 de descuento por 2.82 EUR (original: 19.9 EUR) en el siguiente enlace!

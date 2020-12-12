@@ -17,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Pepe Jeans New Doors Tarjetero  11 cm  0.09 litros  Marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0759NBMSV/?tag=tolees-21'
+descuento: '32.42'
+titulo: 'Pepe Jeans New Doors Tarjetero  11 cm  0'
 ---
 
 Tienes [Pepe Jeans New Doors Tarjetero  11 cm  0.09 litros  Marrón](https://www.amazon.es/dp/B0759NBMSV/?tag=tolees-21) con un 32.42 % de descuento con precio de oferta de 17.57 EUR (original: 26 EUR) en el siguiente enlace!

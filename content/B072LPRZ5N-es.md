@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Evostripe Basic tee Camiseta  Hombre  Verde  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LPRZ5N/?tag=tolees-21'
+descuento: '65.78'
+titulo: 'Puma Evostripe Basic tee Camiseta  Hombr'
 ---
 
 Ahora mismo tienes [Puma Evostripe Basic tee Camiseta  Hombre  Verde  S](https://www.amazon.es/dp/B072LPRZ5N/?tag=tolees-21) a 10.25 EUR (original: 29.95 EUR) (65.78 %  de descuento) en el siguiente enlace!

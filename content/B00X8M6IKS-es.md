@@ -17,6 +17,9 @@ comparePrice: 69.91 EUR
 inStock: true
 prodname: 'Master Series Ass Anchor control Remoto Anal Vibrating Plug - 320 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00X8M6IKS/?tag=tolees-21'
+descuento: '76.77'
+titulo: 'Master Series Ass Anchor control Remoto '
 ---
 
 Ahora mismo tienes [Master Series Ass Anchor control Remoto Anal Vibrating Plug - 320 gr](https://www.amazon.es/dp/B00X8M6IKS/?tag=tolees-21) a 16.24 EUR (original: 69.91 EUR) (76.77 %  de descuento) en el siguiente enlace!

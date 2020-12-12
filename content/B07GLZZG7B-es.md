@@ -17,6 +17,9 @@ comparePrice: 20.04 EUR
 inStock: true
 prodname: 'New Look Mock Horn Scuba  Falda para Mujer  Negro  Black  36  Talla del Fabricante: 8 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GLZZG7B/?tag=tolees-21'
+descuento: '62.13'
+titulo: 'New Look Mock Horn Scuba  Falda para Muj'
 ---
 
 Ahora mismo tienes [New Look Mock Horn Scuba  Falda para Mujer  Negro  Black  36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07GLZZG7B/?tag=tolees-21) a 7.59 EUR (original: 20.04 EUR) (62.13 %  de descuento) en el siguiente enlace!

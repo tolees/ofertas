@@ -17,6 +17,9 @@ comparePrice: 16.34 EUR
 inStock: true
 prodname: 'Cytelium locion 100 ml ducray'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005EMOCBC/?tag=tolees-21'
+descuento: '27.97'
+titulo: 'Cytelium locion 100 ml ducray'
 ---
 
 Ahora mismo tienes [Cytelium locion 100 ml ducray](https://www.amazon.es/dp/B005EMOCBC/?tag=tolees-21) a 11.77 EUR (original: 16.34 EUR) (27.97 %  de descuento) en el siguiente enlace!

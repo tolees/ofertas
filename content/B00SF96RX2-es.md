@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-Star Raw Defend Super Slim - Vaqueros para hombre  color lt aged destroy-1243  talla 29/30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SF96RX2/?tag=tolees-21'
+descuento: '53.06'
+titulo: 'G-Star Raw Defend Super Slim - Vaqueros '
 ---
 
 Ahora mismo tienes [G-Star Raw Defend Super Slim - Vaqueros para hombre  color lt aged destroy-1243  talla 29/30](https://www.amazon.es/dp/B00SF96RX2/?tag=tolees-21) a 46.92 EUR (original: 99.95 EUR) (53.06 %  de descuento) en el siguiente enlace!

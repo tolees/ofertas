@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Aicok Picadora de Carne Eléctrica  Máquina Picadoras de Carne de Acero Inoxidable y Embutidora de salchichas  Función reversible   Accesorios para Embutir Salchichas  Kubbe  Domésticos y Comerciales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0733BF5VZ/?tag=tolees-21'
+descuento: '28.58'
+titulo: 'Aicok Picadora de Carne Eléctrica  Máqui'
 ---
 
 Tienes [Aicok Picadora de Carne Eléctrica  Máquina Picadoras de Carne de Acero Inoxidable y Embutidora de salchichas  Función reversible   Accesorios para Embutir Salchichas  Kubbe  Domésticos y Comerciales](https://www.amazon.es/dp/B0733BF5VZ/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

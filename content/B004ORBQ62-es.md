@@ -17,6 +17,9 @@ comparePrice: 606.05 EUR
 inStock: true
 prodname: 'Oki  Impresora Matricial Ml-3320eco  9 Agujas  240x216ppp  435 c/s  Usb'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004ORBQ62/?tag=tolees-21'
+descuento: '35.16'
+titulo: 'Oki  Impresora Matricial Ml-3320eco  9 A'
 ---
 
 Tienes [Oki  Impresora Matricial Ml-3320eco  9 Agujas  240x216ppp  435 c/s  Usb](https://www.amazon.es/dp/B004ORBQ62/?tag=tolees-21) con un 35.16 % de descuento con precio de oferta de 392.95 EUR (original: 606.05 EUR) en el siguiente enlace!

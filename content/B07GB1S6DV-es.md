@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'DlandHome 60 * 40 cm Ajustable Mesa de Ordenador Portatil con Ruedas Sofá Mesa Mesas de Centro  Roble'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GB1S6DV/?tag=tolees-21'
+descuento: '58.57'
+titulo: 'DlandHome 60 * 40 cm Ajustable Mesa de O'
 ---
 
 Ahora mismo tienes [DlandHome 60 * 40 cm Ajustable Mesa de Ordenador Portatil con Ruedas Sofá Mesa Mesas de Centro  Roble](https://www.amazon.es/dp/B07GB1S6DV/?tag=tolees-21) a 29 EUR (original: 70 EUR) (58.57 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Vans ISO 1.5  Zapatillas Unisex Adulto  Beige  Mesh/Suede   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078W3BTQN/?tag=tolees-21'
+descuento: '72.29'
+titulo: 'Vans ISO 1.5  Zapatillas Unisex Adulto  '
 ---
 
 Tienes [Vans ISO 1.5  Zapatillas Unisex Adulto  Beige  Mesh/Suede   36 EU](https://www.amazon.es/dp/B078W3BTQN/?tag=tolees-21) con un 72.29 % de descuento con precio de oferta de 24.94 EUR (original: 90 EUR) en el siguiente enlace!

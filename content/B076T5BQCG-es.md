@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 23708  Zapatillas para Mujer  Rosa  Rose   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076T5BQCG/?tag=tolees-21'
+descuento: '75.46'
+titulo: 'Marco Tozzi 23708  Zapatillas para Mujer'
 ---
 
 Tienes [Marco Tozzi 23708  Zapatillas para Mujer  Rosa  Rose   41 EU](https://www.amazon.es/dp/B076T5BQCG/?tag=tolees-21) con un 75.46 % de descuento con precio de oferta de 12.26 EUR (original: 49.95 EUR) en el siguiente enlace!

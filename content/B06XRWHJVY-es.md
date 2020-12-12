@@ -17,6 +17,9 @@ comparePrice: 45.92 EUR
 inStock: true
 prodname: 'GGMM Auriculares In-Ear  Sonido Estéreo Auriculares con Microfono  Diseño Ergonómico Cómodo para iPhone  Huawei  XiaoMi y MP3 -Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XRWHJVY/?tag=tolees-21'
+descuento: '78.24'
+titulo: 'GGMM Auriculares In-Ear  Sonido Estéreo '
 ---
 
 Tienes [GGMM Auriculares In-Ear  Sonido Estéreo Auriculares con Microfono  Diseño Ergonómico Cómodo para iPhone  Huawei  XiaoMi y MP3 -Blanco](https://www.amazon.es/dp/B06XRWHJVY/?tag=tolees-21) con un 78.24 % de descuento con precio de oferta de 9.99 EUR (original: 45.92 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'G-STAR RAW ARC 3D Relaxed Tapered Fit Jeans  Azul  Dk Aged 9785-89   26W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ3SV39/?tag=tolees-21'
+descuento: '84.19'
+titulo: 'G-STAR RAW ARC 3D Relaxed Tapered Fit Je'
 ---
 
 Está [G-STAR RAW ARC 3D Relaxed Tapered Fit Jeans  Azul  Dk Aged 9785-89   26W / 32L para Hombre](https://www.amazon.es/dp/B07CZ3SV39/?tag=tolees-21) con 84.19 de descuento por 23.7 EUR (original: 149.95 EUR) en el siguiente enlace!

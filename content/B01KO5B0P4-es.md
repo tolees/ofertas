@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Panama Jack Panama 03 Igloo  Botas Militar para Hombre  Marrón  Cuero C11   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KO5B0P4/?tag=tolees-21'
+descuento: '48.91'
+titulo: 'Panama Jack Panama 03 Igloo  Botas Milit'
 ---
 
 Está [Panama Jack Panama 03 Igloo  Botas Militar para Hombre  Marrón  Cuero C11   45 EU](https://www.amazon.es/dp/B01KO5B0P4/?tag=tolees-21) con 48.91 de descuento por 101.66 EUR (original: 199 EUR) en el siguiente enlace!

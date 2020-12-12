@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'HIKARO Sudadera con Capucha Hombre  Azul  Aqua   48  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YP6V2M/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HIKARO Sudadera con Capucha Hombre  Azul'
 ---
 
 Está [HIKARO Sudadera con Capucha Hombre  Azul  Aqua   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B077YP6V2M/?tag=tolees-21) con 40.00 de descuento por 17.97 EUR (original: 29.95 EUR) en el siguiente enlace!

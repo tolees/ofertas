@@ -17,6 +17,9 @@ comparePrice: 89.6 EUR
 inStock: true
 prodname: 'AmazonBasics - Cable USB A con conector Lightning  colección premium  0 9 m  Pack de 12 - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DWD5BWL/?tag=tolees-21'
+descuento: '82.15'
+titulo: 'AmazonBasics - Cable USB A con conector '
 ---
 
 Tienes [AmazonBasics - Cable USB A con conector Lightning  colección premium  0 9 m  Pack de 12 - Negro](https://www.amazon.es/dp/B07DWD5BWL/?tag=tolees-21) con un 82.15 % de descuento con precio de oferta de 15.99 EUR (original: 89.6 EUR) en el siguiente enlace!

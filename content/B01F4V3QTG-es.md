@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Pepe Jeans Blake  camisa Mujer  Blanco  White 800   42  Talla del fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01F4V3QTG/?tag=tolees-21'
+descuento: '73.58'
+titulo: 'Pepe Jeans Blake  camisa Mujer  Blanco  '
 ---
 
 Ahora mismo tienes [Pepe Jeans Blake  camisa Mujer  Blanco  White 800   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B01F4V3QTG/?tag=tolees-21) a 21.14 EUR (original: 80 EUR) (73.58 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'adidas Altasport K  Zapatillas de Gimnasia Unisex Niños  Negro FTWR White/Core Black  29 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K12LLJR/?tag=tolees-21'
+descuento: '60.60'
+titulo: 'adidas Altasport K  Zapatillas de Gimnas'
 ---
 
 Está [adidas Altasport K  Zapatillas de Gimnasia Unisex Niños  Negro FTWR White/Core Black  29 EU](https://www.amazon.es/dp/B07K12LLJR/?tag=tolees-21) con 60.60 de descuento por 13.77 EUR (original: 34.95 EUR) en el siguiente enlace!

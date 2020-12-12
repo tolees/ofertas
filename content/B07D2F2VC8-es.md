@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Ice-Watch - Ice Sunset Azulsh - Reloj Blanco para Mujer con Correa de Silicone - 15744  Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2F2VC8/?tag=tolees-21'
+descuento: '34.34'
+titulo: 'Ice-Watch - Ice Sunset Azulsh - Reloj Bl'
 ---
 
 Está [Ice-Watch - Ice Sunset Azulsh - Reloj Blanco para Mujer con Correa de Silicone - 15744  Small ](https://www.amazon.es/dp/B07D2F2VC8/?tag=tolees-21) con 34.34 de descuento por 65 EUR (original: 99 EUR) en el siguiente enlace!

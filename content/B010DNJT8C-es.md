@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Gant Light Weight Cotton V-Neck suéter  Rojo  Watermelon Red Melange 699   XL para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B010DNJT8C/?tag=tolees-21'
+descuento: '49.24'
+titulo: 'Gant Light Weight Cotton V-Neck suéter  '
 ---
 
 Tienes [Gant Light Weight Cotton V-Neck suéter  Rojo  Watermelon Red Melange 699   XL para Hombre](https://www.amazon.es/dp/B010DNJT8C/?tag=tolees-21) con un 49.24 % de descuento con precio de oferta de 50.75 EUR (original: 99.99 EUR) en el siguiente enlace!

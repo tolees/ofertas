@@ -17,6 +17,9 @@ comparePrice: 35.33 EUR
 inStock: true
 prodname: 'HHG Vestido Camisero Blanco S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BFB007A/?tag=tolees-21'
+descuento: '61.02'
+titulo: 'HHG Vestido Camisero Blanco S'
 ---
 
 Ahora mismo tienes [HHG Vestido Camisero Blanco S](https://www.amazon.es/dp/B01BFB007A/?tag=tolees-21) a 13.77 EUR (original: 35.33 EUR) (61.02 %  de descuento) en el siguiente enlace!

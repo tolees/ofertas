@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Juego de 2 sartenes antiadherentes "Moon Red" con doble capa en Multiclad súper resistentes y antirrayas con asas de acero profesionales Parte inferior adecuada para gas y inducción 1172'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DM5K1J2/?tag=tolees-21'
+descuento: '85.04'
+titulo: 'Juego de 2 sartenes antiadherentes "Moon'
 ---
 
 Tienes [Juego de 2 sartenes antiadherentes "Moon Red" con doble capa en Multiclad súper resistentes y antirrayas con asas de acero profesionales Parte inferior adecuada para gas y inducción 1172](https://www.amazon.es/dp/B07DM5K1J2/?tag=tolees-21) con un 85.04 % de descuento con precio de oferta de 14.95 EUR (original: 99.9 EUR) en el siguiente enlace!

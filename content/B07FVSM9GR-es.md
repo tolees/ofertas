@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'ILICO Sujetador Deportivo  Talla: L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FVSM9GR/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'ILICO Sujetador Deportivo  Talla: L '
 ---
 
 Está [ILICO Sujetador Deportivo  Talla: L ](https://www.amazon.es/dp/B07FVSM9GR/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

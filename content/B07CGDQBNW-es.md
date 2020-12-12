@@ -17,6 +17,9 @@ comparePrice: 299.99 EUR
 inStock: true
 prodname: 'OMORC Batidora al Vacío  B atidora automático con Pantalla LED  4 Modo de Mezcla  Multifuncional 3 en 1  Regalo un Vaso de almacenaje 800ml  Batidora de Vaso  Máquina de envasado al vacío'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CGDQBNW/?tag=tolees-21'
+descuento: '56.67'
+titulo: 'OMORC Batidora al Vacío  B atidora autom'
 ---
 
 Está [OMORC Batidora al Vacío  B atidora automático con Pantalla LED  4 Modo de Mezcla  Multifuncional 3 en 1  Regalo un Vaso de almacenaje 800ml  Batidora de Vaso  Máquina de envasado al vacío](https://www.amazon.es/dp/B07CGDQBNW/?tag=tolees-21) con 56.67 de descuento por 129.99 EUR (original: 299.99 EUR) en el siguiente enlace!

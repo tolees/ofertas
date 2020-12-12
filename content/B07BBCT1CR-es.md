@@ -17,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Auntwhale 100 semillas de fresas trepadoras'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BBCT1CR/?tag=tolees-21'
+descuento: '66.59'
+titulo: 'Auntwhale 100 semillas de fresas trepado'
 ---
 
 Ahora mismo tienes [Auntwhale 100 semillas de fresas trepadoras](https://www.amazon.es/dp/B07BBCT1CR/?tag=tolees-21) a 4.34 EUR (original: 12.99 EUR) (66.59 %  de descuento) en el siguiente enlace!

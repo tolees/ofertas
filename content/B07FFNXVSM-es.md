@@ -17,6 +17,9 @@ comparePrice: 58.88 EUR
 inStock: true
 prodname: 'Reebok Royal Complete CLN  Zapatillas de Deporte para Hombre   Tin Terrain Grey/White 000   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFNXVSM/?tag=tolees-21'
+descuento: '49.71'
+titulo: 'Reebok Royal Complete CLN  Zapatillas de'
 ---
 
 Está [Reebok Royal Complete CLN  Zapatillas de Deporte para Hombre   Tin Terrain Grey/White 000   44 EU](https://www.amazon.es/dp/B07FFNXVSM/?tag=tolees-21) con 49.71 de descuento por 29.61 EUR (original: 58.88 EUR) en el siguiente enlace!

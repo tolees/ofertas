@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjitim Jjoriginal Jos 318 STS  Vaqueros Slim Hombre  Azul  Blue Denim   W34/L32  Talla del Fabricante: 34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C269RTB/?tag=tolees-21'
+descuento: '60.44'
+titulo: 'JACK & JONES Jjitim Jjoriginal Jos 318 S'
 ---
 
 Tienes [JACK & JONES Jjitim Jjoriginal Jos 318 STS  Vaqueros Slim Hombre  Azul  Blue Denim   W34/L32  Talla del Fabricante: 34 ](https://www.amazon.es/dp/B07C269RTB/?tag=tolees-21) con un 60.44 % de descuento con precio de oferta de 27.69 EUR (original: 69.99 EUR) en el siguiente enlace!

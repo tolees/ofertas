@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Lacoste Masters 119 3 SMA  Zapatillas para Hombre  Marfil  Off Wht/Nvy Wn1   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHYJWMD/?tag=tolees-21'
+descuento: '44.95'
+titulo: 'Lacoste Masters 119 3 SMA  Zapatillas pa'
 ---
 
 Está [Lacoste Masters 119 3 SMA  Zapatillas para Hombre  Marfil  Off Wht/Nvy Wn1   42.5 EU](https://www.amazon.es/dp/B07DHYJWMD/?tag=tolees-21) con 44.95 de descuento por 54.5 EUR (original: 99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'HANPURE Adaptador de WLAN  WiFi Stick 1200Mbps  Banda Dual  USB Stick inalámbrico Compatible con Mac OS  Win10 / 8.1/8 / 7 / Vista/XP'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K6FFC3X/?tag=tolees-21'
+descuento: '47.51'
+titulo: 'HANPURE Adaptador de WLAN  WiFi Stick 12'
 ---
 
 Está [HANPURE Adaptador de WLAN  WiFi Stick 1200Mbps  Banda Dual  USB Stick inalámbrico Compatible con Mac OS  Win10 / 8.1/8 / 7 / Vista/XP](https://www.amazon.es/dp/B07K6FFC3X/?tag=tolees-21) con 47.51 de descuento por 20.99 EUR (original: 39.99 EUR) en el siguiente enlace!

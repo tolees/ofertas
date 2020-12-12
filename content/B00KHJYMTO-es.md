@@ -17,6 +17,9 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'Puma 231011001  Calcetines Unisex Adulto  Multicolor  460   35-38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KHJYMTO/?tag=tolees-21'
+descuento: '25.53'
+titulo: 'Puma 231011001  Calcetines Unisex Adulto'
 ---
 
 Tienes [Puma 231011001  Calcetines Unisex Adulto  Multicolor  460   35-38](https://www.amazon.es/dp/B00KHJYMTO/?tag=tolees-21) con un 25.53 % de descuento con precio de oferta de 5.95 EUR (original: 7.99 EUR) en el siguiente enlace!

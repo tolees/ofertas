@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Feob Batería Externa para Móvil  Power Bank 25800mAh Cargador portátil【Puede Tomar el Avion】 Batería de Emergencia 2 Puertos Salidas USB Alta Velocidad Batería para Smartphone Tabletas y Más'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PQXP5PL/?tag=tolees-21'
+descuento: '71.01'
+titulo: 'Feob Batería Externa para Móvil  Power B'
 ---
 
 Tienes [Feob Batería Externa para Móvil  Power Bank 25800mAh Cargador portátil【Puede Tomar el Avion】 Batería de Emergencia 2 Puertos Salidas USB Alta Velocidad Batería para Smartphone Tabletas y Más](https://www.amazon.es/dp/B07PQXP5PL/?tag=tolees-21) con un 71.01 % de descuento con precio de oferta de 28.99 EUR (original: 100 EUR) en el siguiente enlace!

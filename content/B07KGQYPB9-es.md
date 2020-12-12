@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Burton Timkey Camisetas  Mujer  Ochre  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGQYPB9/?tag=tolees-21'
+descuento: '60.97'
+titulo: 'Burton Timkey Camisetas  Mujer  Ochre  L'
 ---
 
 Está [Burton Timkey Camisetas  Mujer  Ochre  L](https://www.amazon.es/dp/B07KGQYPB9/?tag=tolees-21) con 60.97 de descuento por 13.66 EUR (original: 35 EUR) en el siguiente enlace!

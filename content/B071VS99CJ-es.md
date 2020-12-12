@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Pulse Ignite XT VR  Zapatillas Deportivas para Interior para Mujer  Rosa  Love Potion-Whisper White   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VS99CJ/?tag=tolees-21'
+descuento: '72.70'
+titulo: 'Puma Pulse Ignite XT VR  Zapatillas Depo'
 ---
 
 Ahora mismo tienes [Puma Pulse Ignite XT VR  Zapatillas Deportivas para Interior para Mujer  Rosa  Love Potion-Whisper White   38.5 EU](https://www.amazon.es/dp/B071VS99CJ/?tag=tolees-21) a 24.56 EUR (original: 89.95 EUR) (72.70 %  de descuento) en el siguiente enlace!

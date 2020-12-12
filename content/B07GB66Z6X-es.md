@@ -17,6 +17,9 @@ comparePrice: 21.8 EUR
 inStock: true
 prodname: 'Enchantimals Muñeca con Accesorios y Mascota Felixity Fox Vamos A Pintar  Mattel GBX03 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GB66Z6X/?tag=tolees-21'
+descuento: '31.24'
+titulo: 'Enchantimals Muñeca con Accesorios y Mas'
 ---
 
 Está [Enchantimals Muñeca con Accesorios y Mascota Felixity Fox Vamos A Pintar  Mattel GBX03 ](https://www.amazon.es/dp/B07GB66Z6X/?tag=tolees-21) con 31.24 de descuento por 14.99 EUR (original: 21.8 EUR) en el siguiente enlace!

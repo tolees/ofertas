@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Ess No.1 Leggings W- Pantalón  mujer  Gris  Dark Grey Heather  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYO5MHH/?tag=tolees-21'
+descuento: '31.99'
+titulo: 'Puma Ess No.1 Leggings W- Pantalón  muje'
 ---
 
 Tienes [Puma Ess No.1 Leggings W- Pantalón  mujer  Gris  Dark Grey Heather  L](https://www.amazon.es/dp/B01MYO5MHH/?tag=tolees-21) con un 31.99 % de descuento con precio de oferta de 20.37 EUR (original: 29.95 EUR) en el siguiente enlace!

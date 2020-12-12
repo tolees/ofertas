@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Lámpara Proyector  Proyector LED de Luz Océano con 45 Grados de Rotación y 8 Modos  Luz del Sueño con Reproductor de Música para Niños  Novia  Cumpleaños y Fiesta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D49T4NL/?tag=tolees-21'
+descuento: '64.49'
+titulo: 'Lámpara Proyector  Proyector LED de Luz '
 ---
 
 Tienes [Lámpara Proyector  Proyector LED de Luz Océano con 45 Grados de Rotación y 8 Modos  Luz del Sueño con Reproductor de Música para Niños  Novia  Cumpleaños y Fiesta](https://www.amazon.es/dp/B07D49T4NL/?tag=tolees-21) con un 64.49 % de descuento con precio de oferta de 12.78 EUR (original: 35.99 EUR) en el siguiente enlace!

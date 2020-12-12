@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Nike Air MAX Alpha Trainer  Zapatillas de Gimnasia para Hombre  Azul  Blue Force/Wolf Grey 400   47.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0789RKC6P/?tag=tolees-21'
+descuento: '40.06'
+titulo: 'Nike Air MAX Alpha Trainer  Zapatillas d'
 ---
 
 Tienes [Nike Air MAX Alpha Trainer  Zapatillas de Gimnasia para Hombre  Azul  Blue Force/Wolf Grey 400   47.5 EU](https://www.amazon.es/dp/B0789RKC6P/?tag=tolees-21) con un 40.06 % de descuento con precio de oferta de 47.95 EUR (original: 80 EUR) en el siguiente enlace!

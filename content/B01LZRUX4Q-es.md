@@ -17,6 +17,9 @@ comparePrice: 16.9 EUR
 inStock: true
 prodname: 'Dorina Phoebe Soutien-Gorge Emboitant Sujetador con Aros  Negro  Black V00   85D para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZRUX4Q/?tag=tolees-21'
+descuento: '61.95'
+titulo: 'Dorina Phoebe Soutien-Gorge Emboitant Su'
 ---
 
 Ahora mismo tienes [Dorina Phoebe Soutien-Gorge Emboitant Sujetador con Aros  Negro  Black V00   85D para Mujer](https://www.amazon.es/dp/B01LZRUX4Q/?tag=tolees-21) a 6.43 EUR (original: 16.9 EUR) (61.95 %  de descuento) en el siguiente enlace!

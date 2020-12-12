@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers You  Zapatillas sin cordones para Mujer  Rojo  Burgundy   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MG8EQ7K/?tag=tolees-21'
+descuento: '40.11'
+titulo: 'Skechers You  Zapatillas sin cordones pa'
 ---
 
 Está [Skechers You  Zapatillas sin cordones para Mujer  Rojo  Burgundy   38 EU](https://www.amazon.es/dp/B01MG8EQ7K/?tag=tolees-21) con 40.11 de descuento por 38.9 EUR (original: 64.95 EUR) en el siguiente enlace!

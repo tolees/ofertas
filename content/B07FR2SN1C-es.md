@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Naf Naf Jhnr79d Vestido  Negro  Noir 625   42 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FR2SN1C/?tag=tolees-21'
+descuento: '46.94'
+titulo: 'Naf Naf Jhnr79d Vestido  Negro  Noir 625'
 ---
 
 Está [Naf Naf Jhnr79d Vestido  Negro  Noir 625   42 para Mujer](https://www.amazon.es/dp/B07FR2SN1C/?tag=tolees-21) con 46.94 de descuento por 31.83 EUR (original: 59.99 EUR) en el siguiente enlace!

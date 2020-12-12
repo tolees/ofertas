@@ -17,6 +17,9 @@ comparePrice: 27.9 EUR
 inStock: true
 prodname: 'Teekar [Upgraded Tipo Cortina Interruptor de Pared WiFi Compatible con Alexa Echo y Google Assistant  Interruptor de Reloj de Obturador para Motor de Obturador de Motor Tubular'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H9P57SZ/?tag=tolees-21'
+descuento: '25.45'
+titulo: 'Teekar [Upgraded Tipo Cortina Interrupto'
 ---
 
 Está [Teekar [Upgraded Tipo Cortina Interruptor de Pared WiFi Compatible con Alexa Echo y Google Assistant  Interruptor de Reloj de Obturador para Motor de Obturador de Motor Tubular](https://www.amazon.es/dp/B07H9P57SZ/?tag=tolees-21) con 25.45 de descuento por 20.8 EUR (original: 27.9 EUR) en el siguiente enlace!

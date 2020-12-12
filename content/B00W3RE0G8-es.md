@@ -17,6 +17,9 @@ comparePrice: 19.5 EUR
 inStock: true
 prodname: 'Joma Gala Sudadera  Hombre  Rojo  Vino   3XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00W3RE0G8/?tag=tolees-21'
+descuento: '45.95'
+titulo: 'Joma Gala Sudadera  Hombre  Rojo  Vino  '
 ---
 
 Ahora mismo tienes [Joma Gala Sudadera  Hombre  Rojo  Vino   3XS](https://www.amazon.es/dp/B00W3RE0G8/?tag=tolees-21) a 10.54 EUR (original: 19.5 EUR) (45.95 %  de descuento) en el siguiente enlace!

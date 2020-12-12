@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'James & Nicholson Mens Running Tights Pantalones de Deporte  Hombre  Rojo  Iron Grey/Grenadine   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KK084TY/?tag=tolees-21'
+descuento: '83.89'
+titulo: 'James & Nicholson Mens Running Tights Pa'
 ---
 
 Tienes [James & Nicholson Mens Running Tights Pantalones de Deporte  Hombre  Rojo  Iron Grey/Grenadine   XL](https://www.amazon.es/dp/B00KK084TY/?tag=tolees-21) con un 83.89 % de descuento con precio de oferta de 8.85 EUR (original: 54.95 EUR) en el siguiente enlace!

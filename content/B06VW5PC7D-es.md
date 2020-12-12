@@ -17,6 +17,9 @@ comparePrice: 31.99 EUR
 inStock: true
 prodname: 'Garden pic-Nic - Cubo Basura con Tapa 50l Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06VW5PC7D/?tag=tolees-21'
+descuento: '69.83'
+titulo: 'Garden pic-Nic - Cubo Basura con Tapa 50'
 ---
 
 Tienes [Garden pic-Nic - Cubo Basura con Tapa 50l Negro](https://www.amazon.es/dp/B06VW5PC7D/?tag=tolees-21) con un 69.83 % de descuento con precio de oferta de 9.65 EUR (original: 31.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 93.63 EUR
 inStock: true
 prodname: 'Ubiquiti UAP Punto de Acceso'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00V1QT6SY/?tag=tolees-21'
+descuento: '27.37'
+titulo: 'Ubiquiti UAP Punto de Acceso'
 ---
 
 Está [Ubiquiti UAP Punto de Acceso](https://www.amazon.es/dp/B00V1QT6SY/?tag=tolees-21) con 27.37 de descuento por 68 EUR (original: 93.63 EUR) en el siguiente enlace!

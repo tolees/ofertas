@@ -17,6 +17,9 @@ comparePrice: 407.85 EUR
 inStock: true
 prodname: 'Makita DHR243Z - Martillo ligero 18V Litio 24mm BL  portabrocas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HOD3AJY/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Makita DHR243Z - Martillo ligero 18V Lit'
 ---
 
 Tienes [Makita DHR243Z - Martillo ligero 18V Litio 24mm BL  portabrocas ](https://www.amazon.es/dp/B00HOD3AJY/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 203.9 EUR (original: 407.85 EUR) en el siguiente enlace!

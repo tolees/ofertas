@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero EQ0603-08PE'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0117DN8MK/?tag=tolees-21'
+descuento: '62.91'
+titulo: 'Citizen Reloj Analógico para Hombre de C'
 ---
 
 Ahora mismo tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero EQ0603-08PE](https://www.amazon.es/dp/B0117DN8MK/?tag=tolees-21) a 36.72 EUR (original: 99 EUR) (62.91 %  de descuento) en el siguiente enlace!

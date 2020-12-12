@@ -17,6 +17,9 @@ comparePrice: 32 EUR
 inStock: true
 prodname: 'Playtex 24h Soft Sujetador con aros  Beige  Arena   110D para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00913PCNW/?tag=tolees-21'
+descuento: '46.88'
+titulo: 'Playtex 24h Soft Sujetador con aros  Bei'
 ---
 
 Está [Playtex 24h Soft Sujetador con aros  Beige  Arena   110D para Mujer](https://www.amazon.es/dp/B00913PCNW/?tag=tolees-21) con 46.88 de descuento por 17 EUR (original: 32 EUR) en el siguiente enlace!

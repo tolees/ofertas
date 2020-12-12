@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjichop Jjcargo Shorts AKM 429 STS  Pantalones Cortos para Hombre  Beige Kelp  48  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H75GJS/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'JACK & JONES Jjichop Jjcargo Shorts AKM '
 ---
 
 Tienes [JACK & JONES Jjichop Jjcargo Shorts AKM 429 STS  Pantalones Cortos para Hombre  Beige Kelp  48  Talla del Fabricante: Small ](https://www.amazon.es/dp/B078H75GJS/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!

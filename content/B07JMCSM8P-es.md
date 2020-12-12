@@ -17,6 +17,9 @@ comparePrice: 30.33 EUR
 inStock: true
 prodname: 'Dim Slip Generous Mod X2 Braguita   Rouge Carmin + Noir Eg8   40  Pack de 2 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMCSM8P/?tag=tolees-21'
+descuento: '45.40'
+titulo: 'Dim Slip Generous Mod X2 Braguita   Roug'
 ---
 
 Tienes [Dim Slip Generous Mod X2 Braguita   Rouge Carmin + Noir Eg8   40  Pack de 2 para Mujer](https://www.amazon.es/dp/B07JMCSM8P/?tag=tolees-21) con un 45.40 % de descuento con precio de oferta de 16.56 EUR (original: 30.33 EUR) en el siguiente enlace!

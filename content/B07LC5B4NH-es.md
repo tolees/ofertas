@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Only Onllive Love Legging JRS Leggings  Negro  Black Detail:Red Panel   W  Talla de Fabricante : M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LC5B4NH/?tag=tolees-21'
+descuento: '68.28'
+titulo: 'Only Onllive Love Legging JRS Leggings  '
 ---
 
 Está [Only Onllive Love Legging JRS Leggings  Negro  Black Detail:Red Panel   W  Talla de Fabricante : M  para Mujer](https://www.amazon.es/dp/B07LC5B4NH/?tag=tolees-21) con 68.28 de descuento por 5.39 EUR (original: 16.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.8 EUR
 inStock: true
 prodname: 'Guerlain 19116 - Agua de colonia'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001BSIZ16/?tag=tolees-21'
+descuento: '31.83'
+titulo: 'Guerlain 19116 - Agua de colonia'
 ---
 
 Ahora mismo tienes [Guerlain 19116 - Agua de colonia](https://www.amazon.es/dp/B001BSIZ16/?tag=tolees-21) a 54.4 EUR (original: 79.8 EUR) (31.83 %  de descuento) en el siguiente enlace!

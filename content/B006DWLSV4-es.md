@@ -17,6 +17,9 @@ comparePrice: 72 EUR
 inStock: true
 prodname: 'Superga Lamew  Zapatillas de Tela Mujer  Negro  Full Black   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006DWLSV4/?tag=tolees-21'
+descuento: '59.79'
+titulo: 'Superga Lamew  Zapatillas de Tela Mujer '
 ---
 
 Está [Superga Lamew  Zapatillas de Tela Mujer  Negro  Full Black   38 EU](https://www.amazon.es/dp/B006DWLSV4/?tag=tolees-21) con 59.79 de descuento por 28.95 EUR (original: 72 EUR) en el siguiente enlace!

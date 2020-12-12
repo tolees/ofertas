@@ -17,6 +17,9 @@ comparePrice: 69.93 EUR
 inStock: true
 prodname: 'Skechers Flex Appeal 3.0  Zapatillas para Mujer  Gris  Grey CCLB   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B155YYQ/?tag=tolees-21'
+descuento: '35.08'
+titulo: 'Skechers Flex Appeal 3.0  Zapatillas par'
 ---
 
 Tienes [Skechers Flex Appeal 3.0  Zapatillas para Mujer  Gris  Grey CCLB   37.5 EU](https://www.amazon.es/dp/B07B155YYQ/?tag=tolees-21) con un 35.08 % de descuento con precio de oferta de 45.4 EUR (original: 69.93 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 32.91 EUR
 inStock: true
 prodname: 'Reebok Road Supreme  Zapatillas de Entrenamiento para Niñas  Rosa  Twisted Light Pink/White 0   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2NR3M9/?tag=tolees-21'
+descuento: '31.84'
+titulo: 'Reebok Road Supreme  Zapatillas de Entre'
 ---
 
 Tienes [Reebok Road Supreme  Zapatillas de Entrenamiento para Niñas  Rosa  Twisted Light Pink/White 0   37 EU](https://www.amazon.es/dp/B07D2NR3M9/?tag=tolees-21) con un 31.84 % de descuento con precio de oferta de 22.43 EUR (original: 32.91 EUR) en el siguiente enlace!

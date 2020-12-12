@@ -17,6 +17,9 @@ comparePrice: 37 EUR
 inStock: true
 prodname: 'Volcom Pen BSC LS Camiseta  Hombre  Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQYVXKJ/?tag=tolees-21'
+descuento: '48.78'
+titulo: 'Volcom Pen BSC LS Camiseta  Hombre  Negr'
 ---
 
 Está [Volcom Pen BSC LS Camiseta  Hombre  Negro  L](https://www.amazon.es/dp/B07DQYVXKJ/?tag=tolees-21) con 48.78 de descuento por 18.95 EUR (original: 37 EUR) en el siguiente enlace!

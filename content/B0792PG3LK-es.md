@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Geox J Djrock Girl A  Zapatillas sin Cordones para Niñas   Dk Rose C8007   33 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792PG3LK/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Geox J Djrock Girl A  Zapatillas sin Cor'
 ---
 
 Tienes [Geox J Djrock Girl A  Zapatillas sin Cordones para Niñas   Dk Rose C8007   33 EU](https://www.amazon.es/dp/B0792PG3LK/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 29.95 EUR (original: 59.9 EUR) en el siguiente enlace!

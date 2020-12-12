@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Nike Jr Superfly 6 Academy GS IC  Zapatillas de Fútbol Unisex Niños  Gris Gr/Rot  37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTJ51MV/?tag=tolees-21'
+descuento: '31.24'
+titulo: 'Nike Jr Superfly 6 Academy GS IC  Zapati'
 ---
 
 Está [Nike Jr Superfly 6 Academy GS IC  Zapatillas de Fútbol Unisex Niños  Gris Gr/Rot  37.5 EU](https://www.amazon.es/dp/B07FTJ51MV/?tag=tolees-21) con 31.24 de descuento por 48.1 EUR (original: 69.95 EUR) en el siguiente enlace!

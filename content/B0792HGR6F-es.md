@@ -17,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'Geox D Asheely B  Botas Estilo Motero para Mujer   Blue C4000   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792HGR6F/?tag=tolees-21'
+descuento: '61.34'
+titulo: 'Geox D Asheely B  Botas Estilo Motero pa'
 ---
 
 Tienes [Geox D Asheely B  Botas Estilo Motero para Mujer   Blue C4000   37 EU](https://www.amazon.es/dp/B0792HGR6F/?tag=tolees-21) con un 61.34 % de descuento con precio de oferta de 52.19 EUR (original: 135 EUR) en el siguiente enlace!

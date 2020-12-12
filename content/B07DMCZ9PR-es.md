@@ -17,6 +17,9 @@ comparePrice: 28.08 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 9p516 Bañador  Blanco  Bianco 00010   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DMCZ9PR/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Emporio Armani Underwear 9p516 Bañador  '
 ---
 
 Está [Emporio Armani Underwear 9p516 Bañador  Blanco  Bianco 00010   X-Large para Hombre](https://www.amazon.es/dp/B07DMCZ9PR/?tag=tolees-21) con 50.00 de descuento por 14.04 EUR (original: 28.08 EUR) en el siguiente enlace!

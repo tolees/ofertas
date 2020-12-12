@@ -17,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Swarovski Brazalete Crystaldust  Gris  Acero Inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LQ731BK/?tag=tolees-21'
+descuento: '28.99'
+titulo: 'Swarovski Brazalete Crystaldust  Gris  A'
 ---
 
 Tienes [Swarovski Brazalete Crystaldust  Gris  Acero Inoxidable](https://www.amazon.es/dp/B01LQ731BK/?tag=tolees-21) con un 28.99 % de descuento con precio de oferta de 49 EUR (original: 69 EUR) en el siguiente enlace!

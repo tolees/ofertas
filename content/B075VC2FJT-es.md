@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Filomatic Filo3 Maquinilla de Afeitar - 30 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075VC2FJT/?tag=tolees-21'
+descuento: '50.16'
+titulo: 'Filomatic Filo3 Maquinilla de Afeitar - '
 ---
 
 Ahora mismo tienes [Filomatic Filo3 Maquinilla de Afeitar - 30 Unidades](https://www.amazon.es/dp/B075VC2FJT/?tag=tolees-21) a 12.46 EUR (original: 25 EUR) (50.16 %  de descuento) en el siguiente enlace!

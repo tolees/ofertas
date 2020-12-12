@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Cell Viper  Zapatillas Unisex Adulto  Negro Black White  47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1L7MH/?tag=tolees-21'
+descuento: '68.38'
+titulo: 'Puma Cell Viper  Zapatillas Unisex Adult'
 ---
 
 Tienes [Puma Cell Viper  Zapatillas Unisex Adulto  Negro Black White  47 EU](https://www.amazon.es/dp/B07DC1L7MH/?tag=tolees-21) con un 68.38 % de descuento con precio de oferta de 28.44 EUR (original: 89.95 EUR) en el siguiente enlace!

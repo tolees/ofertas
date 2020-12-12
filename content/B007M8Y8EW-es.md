@@ -17,6 +17,9 @@ comparePrice: 42.99 EUR
 inStock: true
 prodname: 'Smiffy s Smiffys-21622XL Halloween Disfraz Hombre radiografía Segunda Piel  con Traje Entero  Cremallera escondida  Color Azul y Negro  XL - Tamaño 46"-48" 21622XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007M8Y8EW/?tag=tolees-21'
+descuento: '61.99'
+titulo: 'Smiffy s Smiffys-21622XL Halloween Disfr'
 ---
 
 Ahora mismo tienes [Smiffy s Smiffys-21622XL Halloween Disfraz Hombre radiografía Segunda Piel  con Traje Entero  Cremallera escondida  Color Azul y Negro  XL - Tamaño 46"-48" 21622XL](https://www.amazon.es/dp/B007M8Y8EW/?tag=tolees-21) a 16.34 EUR (original: 42.99 EUR) (61.99 %  de descuento) en el siguiente enlace!

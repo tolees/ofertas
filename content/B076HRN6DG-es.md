@@ -17,6 +17,9 @@ comparePrice: 12 EUR
 inStock: true
 prodname: 'Cewaal Micro Mini Energía Solar Células 5V 0.15W 30mA Módulo de bricolaje Para el cargador de batería de Toy Cells'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076HRN6DG/?tag=tolees-21'
+descuento: '73.67'
+titulo: 'Cewaal Micro Mini Energía Solar Células '
 ---
 
 Está [Cewaal Micro Mini Energía Solar Células 5V 0.15W 30mA Módulo de bricolaje Para el cargador de batería de Toy Cells](https://www.amazon.es/dp/B076HRN6DG/?tag=tolees-21) con 73.67 de descuento por 3.16 EUR (original: 12 EUR) en el siguiente enlace!

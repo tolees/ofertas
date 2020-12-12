@@ -17,6 +17,9 @@ comparePrice: 229 EUR
 inStock: true
 prodname: 'Panasonic MJ-L500NXE - Exprimidor de velocidad lenta  motor de alta eficiencia 150 W  45 rpm a baja velocidad  accesorio para helados   color dorado  gold '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CG9H6A4/?tag=tolees-21'
+descuento: '42.65'
+titulo: 'Panasonic MJ-L500NXE - Exprimidor de vel'
 ---
 
 Ahora mismo tienes [Panasonic MJ-L500NXE - Exprimidor de velocidad lenta  motor de alta eficiencia 150 W  45 rpm a baja velocidad  accesorio para helados   color dorado  gold ](https://www.amazon.es/dp/B01CG9H6A4/?tag=tolees-21) a 131.34 EUR (original: 229 EUR) (42.65 %  de descuento) en el siguiente enlace!

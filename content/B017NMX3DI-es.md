@@ -17,6 +17,9 @@ comparePrice: 1599.99 EUR
 inStock: true
 prodname: 'Netgear RN31842E-100NES - Dispositivo de Almacenamiento en Red ReadyNas en Formato Rack con Capacidad para 32 TB  Incluye 4 HDD de 2 TB '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017NMX3DI/?tag=tolees-21'
+descuento: '66.90'
+titulo: 'Netgear RN31842E-100NES - Dispositivo de'
 ---
 
 Ahora mismo tienes [Netgear RN31842E-100NES - Dispositivo de Almacenamiento en Red ReadyNas en Formato Rack con Capacidad para 32 TB  Incluye 4 HDD de 2 TB ](https://www.amazon.es/dp/B017NMX3DI/?tag=tolees-21) a 529.6 EUR (original: 1599.99 EUR) (66.90 %  de descuento) en el siguiente enlace!

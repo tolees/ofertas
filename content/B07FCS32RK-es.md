@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'find. Lapel Detail Tie Waist Mono Negro  Black  48  Talla del Fabricante: XXX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FCS32RK/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'find. Lapel Detail Tie Waist Mono Negro '
 ---
 
 Tienes [find. Lapel Detail Tie Waist Mono Negro  Black  48  Talla del Fabricante: XXX-Large ](https://www.amazon.es/dp/B07FCS32RK/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 15 EUR (original: 50 EUR) en el siguiente enlace!

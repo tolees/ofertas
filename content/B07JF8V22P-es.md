@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Alitoo Auriculares Bluetooth Inalámbricos Cascos Bluetooth Plegable con Micrófono Manos Libres y Hi-Fi Sonido Estéreo 12 Horas Reproducción de Música Orejeras de Memoria Suave Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JF8V22P/?tag=tolees-21'
+descuento: '65.01'
+titulo: 'Alitoo Auriculares Bluetooth Inalámbrico'
 ---
 
 Está [Alitoo Auriculares Bluetooth Inalámbricos Cascos Bluetooth Plegable con Micrófono Manos Libres y Hi-Fi Sonido Estéreo 12 Horas Reproducción de Música Orejeras de Memoria Suave Negro ](https://www.amazon.es/dp/B07JF8V22P/?tag=tolees-21) con 65.01 de descuento por 20.99 EUR (original: 59.99 EUR) en el siguiente enlace!

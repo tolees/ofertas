@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Springfield 2.1.J.MD.G.Pañuelo Jersey Gama Azules 19  Small  Tamaño del Fabricante:S  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYNT9JJ/?tag=tolees-21'
+descuento: '76.62'
+titulo: 'Springfield 2.1.J.MD.G.Pañuelo Jersey Ga'
 ---
 
 Está [Springfield 2.1.J.MD.G.Pañuelo Jersey Gama Azules 19  Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B07KYNT9JJ/?tag=tolees-21) con 76.62 de descuento por 6.31 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 169.95 EUR
 inStock: true
 prodname: 'Sistema de Sonido de la Barra de Sonido Majority Ben Nevis II+ 150W - Subwoofer inalámbrico - Bluetooth - ARC HDMI - Control Remoto Grande - AUX - USB - Radio UKW - Entrada óptica - Cable RCA  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MW47Q4P/?tag=tolees-21'
+descuento: '64.72'
+titulo: 'Sistema de Sonido de la Barra de Sonido '
 ---
 
 Está [Sistema de Sonido de la Barra de Sonido Majority Ben Nevis II+ 150W - Subwoofer inalámbrico - Bluetooth - ARC HDMI - Control Remoto Grande - AUX - USB - Radio UKW - Entrada óptica - Cable RCA  Negro ](https://www.amazon.es/dp/B07MW47Q4P/?tag=tolees-21) con 64.72 de descuento por 59.95 EUR (original: 169.95 EUR) en el siguiente enlace!

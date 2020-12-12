@@ -17,6 +17,9 @@ comparePrice: 18.36 EUR
 inStock: true
 prodname: 'Puma Iconic Racer Back Bra 1P Ropa Interior  Mujer  Azul Oscuro  Extra-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NALDZ2P/?tag=tolees-21'
+descuento: '34.91'
+titulo: 'Puma Iconic Racer Back Bra 1P Ropa Inter'
 ---
 
 Tienes [Puma Iconic Racer Back Bra 1P Ropa Interior  Mujer  Azul Oscuro  Extra-Large](https://www.amazon.es/dp/B01NALDZ2P/?tag=tolees-21) con un 34.91 % de descuento con precio de oferta de 11.95 EUR (original: 18.36 EUR) en el siguiente enlace!

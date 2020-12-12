@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Puma Active 3/4 Pants  Mujer  Black  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFQGQPH/?tag=tolees-21'
+descuento: '27.41'
+titulo: 'Puma Active 3/4 Pants  Mujer  Black  XXL'
 ---
 
 Está [Puma Active 3/4 Pants  Mujer  Black  XXL](https://www.amazon.es/dp/B07DFQGQPH/?tag=tolees-21) con 27.41 de descuento por 25.37 EUR (original: 34.95 EUR) en el siguiente enlace!

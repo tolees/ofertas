@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Munchen  Zapatillas de Deporte para Hombre  Azul  Azuhie/Ftwbla/Dormet   46 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071GNG2BX/?tag=tolees-21'
+descuento: '54.54'
+titulo: 'adidas Munchen  Zapatillas de Deporte pa'
 ---
 
 Está [adidas Munchen  Zapatillas de Deporte para Hombre  Azul  Azuhie/Ftwbla/Dormet   46 2/3 EU](https://www.amazon.es/dp/B071GNG2BX/?tag=tolees-21) con 54.54 de descuento por 45.44 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 42.54 EUR
 inStock: true
 prodname: 'Parker - Bolígrafo de punta de bola y caja  adornos en cromado   color plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001BYFBDK/?tag=tolees-21'
+descuento: '35.99'
+titulo: 'Parker - Bolígrafo de punta de bola y ca'
 ---
 
 Está [Parker - Bolígrafo de punta de bola y caja  adornos en cromado   color plateado](https://www.amazon.es/dp/B001BYFBDK/?tag=tolees-21) con 35.99 de descuento por 27.23 EUR (original: 42.54 EUR) en el siguiente enlace!

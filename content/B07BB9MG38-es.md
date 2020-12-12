@@ -17,6 +17,9 @@ comparePrice: 55.95 EUR
 inStock: true
 prodname: 'Softline 25461-21  Botines para Mujer  Marrón  Chestnut 328   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB9MG38/?tag=tolees-21'
+descuento: '77.10'
+titulo: 'Softline 25461-21  Botines para Mujer  M'
 ---
 
 Tienes [Softline 25461-21  Botines para Mujer  Marrón  Chestnut 328   38 EU](https://www.amazon.es/dp/B07BB9MG38/?tag=tolees-21) con un 77.10 % de descuento con precio de oferta de 12.81 EUR (original: 55.95 EUR) en el siguiente enlace!

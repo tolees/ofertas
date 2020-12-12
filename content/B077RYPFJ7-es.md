@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'BILLABONG Tribong OG Print 17 Bañador  Hombre   Bright Rojo 800   X/Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077RYPFJ7/?tag=tolees-21'
+descuento: '56.78'
+titulo: 'BILLABONG Tribong OG Print 17 Bañador  H'
 ---
 
 Tienes [BILLABONG Tribong OG Print 17 Bañador  Hombre   Bright Rojo 800   X/Small](https://www.amazon.es/dp/B077RYPFJ7/?tag=tolees-21) con un 56.78 % de descuento con precio de oferta de 25.93 EUR (original: 60 EUR) en el siguiente enlace!

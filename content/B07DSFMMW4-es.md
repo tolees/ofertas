@@ -17,6 +17,9 @@ comparePrice: 66 EUR
 inStock: true
 prodname: 'Nike MD Runner 2 19  Zapatillas de Running para Hombre  Gris  Atmosphere White/Thunder Grey 002   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DSFMMW4/?tag=tolees-21'
+descuento: '46.98'
+titulo: 'Nike MD Runner 2 19  Zapatillas de Runni'
 ---
 
 Ahora mismo tienes [Nike MD Runner 2 19  Zapatillas de Running para Hombre  Gris  Atmosphere White/Thunder Grey 002   44.5 EU](https://www.amazon.es/dp/B07DSFMMW4/?tag=tolees-21) a 34.99 EUR (original: 66 EUR) (46.98 %  de descuento) en el siguiente enlace!

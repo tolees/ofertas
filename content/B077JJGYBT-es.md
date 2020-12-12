@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Volcom Cresticle Gorra  Hombre  Beige  O/S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077JJGYBT/?tag=tolees-21'
+descuento: '48.60'
+titulo: 'Volcom Cresticle Gorra  Hombre  Beige  O'
 ---
 
 Ahora mismo tienes [Volcom Cresticle Gorra  Hombre  Beige  O/S](https://www.amazon.es/dp/B077JJGYBT/?tag=tolees-21) a 17.99 EUR (original: 35 EUR) (48.60 %  de descuento) en el siguiente enlace!

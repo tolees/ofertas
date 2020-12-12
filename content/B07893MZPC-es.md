@@ -17,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'Helly Hansen Crew Hooded Midlayer Jacket  Hombre  Graphite Blue  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07893MZPC/?tag=tolees-21'
+descuento: '58.30'
+titulo: 'Helly Hansen Crew Hooded Midlayer Jacket'
 ---
 
 Tienes [Helly Hansen Crew Hooded Midlayer Jacket  Hombre  Graphite Blue  L](https://www.amazon.es/dp/B07893MZPC/?tag=tolees-21) con un 58.30 % de descuento con precio de oferta de 70.89 EUR (original: 170 EUR) en el siguiente enlace!

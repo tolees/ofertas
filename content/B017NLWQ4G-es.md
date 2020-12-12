@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Morgan Blusa Crudo ES 40  FR 40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017NLWQ4G/?tag=tolees-21'
+descuento: '45.73'
+titulo: 'Morgan Blusa Crudo ES 40  FR 40 '
 ---
 
 Tienes [Morgan Blusa Crudo ES 40  FR 40 ](https://www.amazon.es/dp/B017NLWQ4G/?tag=tolees-21) con un 45.73 % de descuento con precio de oferta de 24.42 EUR (original: 45 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Geox U Dublin B  Zapatos de Cordones Brogue para Hombre  Azul  Navy   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ3G9R3/?tag=tolees-21'
+descuento: '63.52'
+titulo: 'Geox U Dublin B  Zapatos de Cordones Bro'
 ---
 
 Está [Geox U Dublin B  Zapatos de Cordones Brogue para Hombre  Azul  Navy   42 EU](https://www.amazon.es/dp/B07DJ3G9R3/?tag=tolees-21) con 63.52 de descuento por 36.44 EUR (original: 99.9 EUR) en el siguiente enlace!

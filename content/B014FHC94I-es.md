@@ -17,6 +17,9 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'Bestway 57277 - Piscina Desmontable Autoportante Bestway Fast Set  366 x 91 cm  - Capacidad de 6.665 litros  altura regulable  y depuradora de cartucho'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014FHC94I/?tag=tolees-21'
+descuento: '31.23'
+titulo: 'Bestway 57277 - Piscina Desmontable Auto'
 ---
 
 Tienes [Bestway 57277 - Piscina Desmontable Autoportante Bestway Fast Set  366 x 91 cm  - Capacidad de 6.665 litros  altura regulable  y depuradora de cartucho](https://www.amazon.es/dp/B014FHC94I/?tag=tolees-21) con un 31.23 % de descuento con precio de oferta de 110 EUR (original: 159.95 EUR) en el siguiente enlace!

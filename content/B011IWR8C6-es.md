@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Levi s 18195-0055  Polo para Hombre  Azul  Indigo X 9   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011IWR8C6/?tag=tolees-21'
+descuento: '60.11'
+titulo: 'Levi s 18195-0055  Polo para Hombre  Azu'
 ---
 
 Está [Levi s 18195-0055  Polo para Hombre  Azul  Indigo X 9   Large](https://www.amazon.es/dp/B011IWR8C6/?tag=tolees-21) con 60.11 de descuento por 17.95 EUR (original: 45 EUR) en el siguiente enlace!

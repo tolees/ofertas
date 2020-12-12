@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Soporte de papel higiénico  WisFox Nuevo tejido de papel autoadhesivo de montaje en pared de estilo conciso con 2 ganchos y estantes para el almacenamiento de jabón en teléfonos móviles'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQPWDZ7/?tag=tolees-21'
+descuento: '58.48'
+titulo: 'Soporte de papel higiénico  WisFox Nuevo'
 ---
 
 Ahora mismo tienes [Soporte de papel higiénico  WisFox Nuevo tejido de papel autoadhesivo de montaje en pared de estilo conciso con 2 ganchos y estantes para el almacenamiento de jabón en teléfonos móviles](https://www.amazon.es/dp/B07JQPWDZ7/?tag=tolees-21) a 7.47 EUR (original: 17.99 EUR) (58.48 %  de descuento) en el siguiente enlace!

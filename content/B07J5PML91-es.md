@@ -17,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Flydo Traje de Cosplay del Traje de Cosplay de Lenceria Sexy Mujer  Traje de mucama Ropa Erótica Mujer Sexy Lencería De Dormir'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J5PML91/?tag=tolees-21'
+descuento: '40.04'
+titulo: 'Flydo Traje de Cosplay del Traje de Cosp'
 ---
 
 Está [Flydo Traje de Cosplay del Traje de Cosplay de Lenceria Sexy Mujer  Traje de mucama Ropa Erótica Mujer Sexy Lencería De Dormir](https://www.amazon.es/dp/B07J5PML91/?tag=tolees-21) con 40.04 de descuento por 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!

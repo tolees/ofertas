@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Puma RS-0 Trophy  Zapatillas Unisex Adulto  Morado  Elderberry White   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC18T8Y/?tag=tolees-21'
+descuento: '71.60'
+titulo: 'Puma RS-0 Trophy  Zapatillas Unisex Adul'
 ---
 
 Tienes [Puma RS-0 Trophy  Zapatillas Unisex Adulto  Morado  Elderberry White   41 EU](https://www.amazon.es/dp/B07DC18T8Y/?tag=tolees-21) con un 71.60 % de descuento con precio de oferta de 28.39 EUR (original: 99.95 EUR) en el siguiente enlace!

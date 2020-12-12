@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Termómetro Digital Bebé  JUSALE Termómetro Frente y Oído-Termómetro Infrarrojo Médico de 2 Modos para Bebé Niño Adulto con Función de Lectura Instantánea Alerta de Fiebre Certificación CE'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JDNZZ8Q/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Termómetro Digital Bebé  JUSALE Termómet'
 ---
 
 Tienes [Termómetro Digital Bebé  JUSALE Termómetro Frente y Oído-Termómetro Infrarrojo Médico de 2 Modos para Bebé Niño Adulto con Función de Lectura Instantánea Alerta de Fiebre Certificación CE](https://www.amazon.es/dp/B07JDNZZ8Q/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

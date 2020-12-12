@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Mogao Caves Calcetines de Dedos Mujer Calcetines Cinco Dedos de Deporte Algodón separados pies calcetines suave y transpirable EU 36-42 4/5 pares'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBNF6JJ/?tag=tolees-21'
+descuento: '37.05'
+titulo: 'Mogao Caves Calcetines de Dedos Mujer Ca'
 ---
 
 Está [Mogao Caves Calcetines de Dedos Mujer Calcetines Cinco Dedos de Deporte Algodón separados pies calcetines suave y transpirable EU 36-42 4/5 pares](https://www.amazon.es/dp/B07LBNF6JJ/?tag=tolees-21) con 37.05 de descuento por 16.99 EUR (original: 26.99 EUR) en el siguiente enlace!

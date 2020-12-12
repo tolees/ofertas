@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour 1289538-003  Zapatillas de Fútbol Hombre  Multicolor  Noi/Vert Vipere   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y62DFY4/?tag=tolees-21'
+descuento: '76.57'
+titulo: 'Under Armour 1289538-003  Zapatillas de '
 ---
 
 Tienes [Under Armour 1289538-003  Zapatillas de Fútbol Hombre  Multicolor  Noi/Vert Vipere   42 EU](https://www.amazon.es/dp/B06Y62DFY4/?tag=tolees-21) con un 76.57 % de descuento con precio de oferta de 16.4 EUR (original: 70 EUR) en el siguiente enlace!

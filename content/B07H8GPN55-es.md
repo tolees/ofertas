@@ -17,6 +17,9 @@ comparePrice: 134.99 EUR
 inStock: true
 prodname: 'Pioneer MVH-S210DAB - Sintonizador RDS y Radio Digital Dab/Dab+  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H8GPN55/?tag=tolees-21'
+descuento: '26.66'
+titulo: 'Pioneer MVH-S210DAB - Sintonizador RDS y'
 ---
 
 Está [Pioneer MVH-S210DAB - Sintonizador RDS y Radio Digital Dab/Dab+  Color Negro](https://www.amazon.es/dp/B07H8GPN55/?tag=tolees-21) con 26.66 de descuento por 99 EUR (original: 134.99 EUR) en el siguiente enlace!

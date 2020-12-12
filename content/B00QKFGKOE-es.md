@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Bladestorm: Nightmare [Importación Inglesa]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00QKFGKOE/?tag=tolees-21'
+descuento: '58.36'
+titulo: 'Bladestorm: Nightmare [Importación Ingle'
 ---
 
 Tienes [Bladestorm: Nightmare [Importación Inglesa]](https://www.amazon.es/dp/B00QKFGKOE/?tag=tolees-21) con un 58.36 % de descuento con precio de oferta de 24.98 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 9.84 EUR
 inStock: true
 prodname: 'Desperados Cerveza - Pack de 12 Botellas x 250 ml -Total: 3 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CNQ5GPM/?tag=tolees-21'
+descuento: '49.19'
+titulo: 'Desperados Cerveza - Pack de 12 Botellas'
 ---
 
 Tienes [Desperados Cerveza - Pack de 12 Botellas x 250 ml -Total: 3 L](https://www.amazon.es/dp/B07CNQ5GPM/?tag=tolees-21) con un 49.19 % de descuento con precio de oferta de 5 EUR (original: 9.84 EUR) en el siguiente enlace!

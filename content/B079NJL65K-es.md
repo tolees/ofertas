@@ -17,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'Trucco TT16BN1 Jersey  Mujer  Naranja  Claro J1   38  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079NJL65K/?tag=tolees-21'
+descuento: '69.62'
+titulo: 'Trucco TT16BN1 Jersey  Mujer  Naranja  C'
 ---
 
 Tienes [Trucco TT16BN1 Jersey  Mujer  Naranja  Claro J1   38  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B079NJL65K/?tag=tolees-21) con un 69.62 % de descuento con precio de oferta de 10.92 EUR (original: 35.95 EUR) en el siguiente enlace!

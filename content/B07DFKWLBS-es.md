@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'adidas Real Madrid Minikit  Unisex bebé  Blanco  86'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFKWLBS/?tag=tolees-21'
+descuento: '50.09'
+titulo: 'adidas Real Madrid Minikit  Unisex bebé '
 ---
 
 Está [adidas Real Madrid Minikit  Unisex bebé  Blanco  86](https://www.amazon.es/dp/B07DFKWLBS/?tag=tolees-21) con 50.09 de descuento por 27.45 EUR (original: 55 EUR) en el siguiente enlace!

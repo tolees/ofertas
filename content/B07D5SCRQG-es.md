@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Active Logo tee T-Shirt  Mujer  Blanco  White/Cotton Black   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D5SCRQG/?tag=tolees-21'
+descuento: '52.10'
+titulo: 'Puma Active Logo tee T-Shirt  Mujer  Bla'
 ---
 
 Tienes [Puma Active Logo tee T-Shirt  Mujer  Blanco  White/Cotton Black   XS](https://www.amazon.es/dp/B07D5SCRQG/?tag=tolees-21) con un 52.10 % de descuento con precio de oferta de 11.95 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Dewanxin 2019 Xiaomi MI Band 4  Pulsera Actividad a Color Reloj Inteligente con Gran Pantalla de Colores LED  50M Impermeable  Bluetooth5.0'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07T242QDH/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Dewanxin 2019 Xiaomi MI Band 4  Pulsera '
 ---
 
 Tienes [Dewanxin 2019 Xiaomi MI Band 4  Pulsera Actividad a Color Reloj Inteligente con Gran Pantalla de Colores LED  50M Impermeable  Bluetooth5.0](https://www.amazon.es/dp/B07T242QDH/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 35.99 EUR (original: 59.99 EUR) en el siguiente enlace!

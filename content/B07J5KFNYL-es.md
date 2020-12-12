@@ -17,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY Kt106 bañadores  Negro  Black   40  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J5KFNYL/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'IRIS & LILLY Kt106 bañadores  Negro  Bla'
 ---
 
 Tienes [IRIS & LILLY Kt106 bañadores  Negro  Black   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B07J5KFNYL/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 16.09 EUR (original: 22.99 EUR) en el siguiente enlace!

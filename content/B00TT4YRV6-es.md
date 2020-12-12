@@ -17,6 +17,9 @@ comparePrice: 21.21 EUR
 inStock: true
 prodname: 'Bahco 1031-4 - Formon Bahco 4 Mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TT4YRV6/?tag=tolees-21'
+descuento: '62.71'
+titulo: 'Bahco 1031-4 - Formon Bahco 4 Mm'
 ---
 
 Está [Bahco 1031-4 - Formon Bahco 4 Mm](https://www.amazon.es/dp/B00TT4YRV6/?tag=tolees-21) con 62.71 de descuento por 7.91 EUR (original: 21.21 EUR) en el siguiente enlace!

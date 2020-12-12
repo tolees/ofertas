@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Geox Strada H  Sandalias con Punta Abierta para Hombre  Beige  Sand/Orange C0704   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ2X9N6/?tag=tolees-21'
+descuento: '48.50'
+titulo: 'Geox Strada H  Sandalias con Punta Abier'
 ---
 
 Tienes [Geox Strada H  Sandalias con Punta Abierta para Hombre  Beige  Sand/Orange C0704   47 EU](https://www.amazon.es/dp/B07DJ2X9N6/?tag=tolees-21) con un 48.50 % de descuento con precio de oferta de 36 EUR (original: 69.9 EUR) en el siguiente enlace!

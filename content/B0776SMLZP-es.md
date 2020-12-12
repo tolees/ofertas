@@ -17,6 +17,9 @@ comparePrice: 35.0 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Original Rib Camisa  Negro  Tommy Black 078   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0776SMLZP/?tag=tolees-21'
+descuento: '31.46'
+titulo: 'Tommy Hilfiger Original Rib Camisa  Negr'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Original Rib Camisa  Negro  Tommy Black 078   X-Large para Hombre](https://www.amazon.es/dp/B0776SMLZP/?tag=tolees-21) a 23.99 EUR (original: 35.0 EUR) (31.46 %  de descuento) en el siguiente enlace!
@@ -25,11 +28,11 @@ Ahora mismo tienes [Tommy Hilfiger Original Rib Camisa  Negro  Tommy Black 078  
 
 Características:
 
-- Puro algodón orgánico
 - Corte slim
-- Cuello redondo
-- Logo de Tommy Jeans bordado en el pecho
 - Detalles distintivos de Tommy Jeans
+- Cuello redondo
+- Puro algodón orgánico
+- Logo de Tommy Jeans bordado en el pecho
 
 [Visítala!!!](https://www.amazon.es/dp/B0776SMLZP/?tag=tolees-21)
 

@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'The North Face Blocked FZ HD Sudadera con Capucha  Cremallera Integral y Colores en Bloque  Hombre  Asphalt Grey/Storm Blue  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9CLJVP/?tag=tolees-21'
+descuento: '30.06'
+titulo: 'The North Face Blocked FZ HD Sudadera co'
 ---
 
 Está [The North Face Blocked FZ HD Sudadera con Capucha  Cremallera Integral y Colores en Bloque  Hombre  Asphalt Grey/Storm Blue  M](https://www.amazon.es/dp/B07M9CLJVP/?tag=tolees-21) con 30.06 de descuento por 59.45 EUR (original: 85 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'deAO Lanzador de Cohetes Infantil Salta y Lanza Cohetes Playset Conjunto Juego de Ciencia Incluye Cohetes de Goma Espuma para Interiores y Exteriores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BWHKRMB/?tag=tolees-21'
+descuento: '37.52'
+titulo: 'deAO Lanzador de Cohetes Infantil Salta '
 ---
 
 Está [deAO Lanzador de Cohetes Infantil Salta y Lanza Cohetes Playset Conjunto Juego de Ciencia Incluye Cohetes de Goma Espuma para Interiores y Exteriores](https://www.amazon.es/dp/B07BWHKRMB/?tag=tolees-21) con 37.52 de descuento por 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

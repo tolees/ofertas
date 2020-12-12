@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Merrell Momentous  Zapatillas de Running para Asfalto para Hombre  Lime Punch  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYDP97H/?tag=tolees-21'
+descuento: '53.71'
+titulo: 'Merrell Momentous  Zapatillas de Running'
 ---
 
 Ahora mismo tienes [Merrell Momentous  Zapatillas de Running para Asfalto para Hombre  Lime Punch  42 EU](https://www.amazon.es/dp/B07DYDP97H/?tag=tolees-21) a 60.18 EUR (original: 130 EUR) (53.71 %  de descuento) en el siguiente enlace!

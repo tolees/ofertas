@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Charles Wilson Paquete 4 Camisetas Cuello Redondo Lisas  Medium  Graphite '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PVBQD3Y/?tag=tolees-21'
+descuento: '62.58'
+titulo: 'Charles Wilson Paquete 4 Camisetas Cuell'
 ---
 
 Está [Charles Wilson Paquete 4 Camisetas Cuello Redondo Lisas  Medium  Graphite ](https://www.amazon.es/dp/B07PVBQD3Y/?tag=tolees-21) con 62.58 de descuento por 14.95 EUR (original: 39.95 EUR) en el siguiente enlace!

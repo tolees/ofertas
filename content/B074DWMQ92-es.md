@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Versace 1969 Hombres Albornoz  Gris  Medium - Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074DWMQ92/?tag=tolees-21'
+descuento: '85.43'
+titulo: 'Versace 1969 Hombres Albornoz  Gris  Med'
 ---
 
 Está [Versace 1969 Hombres Albornoz  Gris  Medium - Large](https://www.amazon.es/dp/B074DWMQ92/?tag=tolees-21) con 85.43 de descuento por 29 EUR (original: 199 EUR) en el siguiente enlace!

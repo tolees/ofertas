@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'YoRiBo Grapadora Eléctrica Papel con útil Quitagrapas  Capacidad para 16-20 Hojas  USB Cable Operada para la Oficina Eficiente y La Escuela en el Hogar  color Rosso  USB cable incluido '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZ8SSVW/?tag=tolees-21'
+descuento: '67.52'
+titulo: 'YoRiBo Grapadora Eléctrica Papel con úti'
 ---
 
 Tienes [YoRiBo Grapadora Eléctrica Papel con útil Quitagrapas  Capacidad para 16-20 Hojas  USB Cable Operada para la Oficina Eficiente y La Escuela en el Hogar  color Rosso  USB cable incluido ](https://www.amazon.es/dp/B07JZ8SSVW/?tag=tolees-21) con un 67.52 % de descuento con precio de oferta de 12.99 EUR (original: 39.99 EUR) en el siguiente enlace!

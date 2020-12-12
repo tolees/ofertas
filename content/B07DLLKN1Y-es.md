@@ -17,6 +17,9 @@ comparePrice: 55.99 EUR
 inStock: true
 prodname: 'Springfield Abrigo Franq Paño  Negro 1    Tamaño del Fabricante:40  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLLKN1Y/?tag=tolees-21'
+descuento: '59.49'
+titulo: 'Springfield Abrigo Franq Paño  Negro 1  '
 ---
 
 Ahora mismo tienes [Springfield Abrigo Franq Paño  Negro 1    Tamaño del Fabricante:40  para Mujer](https://www.amazon.es/dp/B07DLLKN1Y/?tag=tolees-21) a 22.68 EUR (original: 55.99 EUR) (59.49 %  de descuento) en el siguiente enlace!

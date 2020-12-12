@@ -17,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Nike Air Huarache Run PRM  Zapatillas para Hombre  Rojo  University Red/Sail-Blackened Blue 602   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002VELG0Q/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Nike Air Huarache Run PRM  Zapatillas pa'
 ---
 
 Ahora mismo tienes [Nike Air Huarache Run PRM  Zapatillas para Hombre  Rojo  University Red/Sail-Blackened Blue 602   43 EU](https://www.amazon.es/dp/B002VELG0Q/?tag=tolees-21) a 62.5 EUR (original: 125 EUR) (50.00 %  de descuento) en el siguiente enlace!

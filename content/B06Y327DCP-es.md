@@ -17,6 +17,9 @@ comparePrice: 18.19 EUR
 inStock: true
 prodname: 'Pingko Podómetro portátil con precisión para correr en pistas deportivas  contador de distancias  contador fitness  contador de calorías.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y327DCP/?tag=tolees-21'
+descuento: '50.58'
+titulo: 'Pingko Podómetro portátil con precisión '
 ---
 
 Tienes [Pingko Podómetro portátil con precisión para correr en pistas deportivas  contador de distancias  contador fitness  contador de calorías.](https://www.amazon.es/dp/B06Y327DCP/?tag=tolees-21) con un 50.58 % de descuento con precio de oferta de 8.99 EUR (original: 18.19 EUR) en el siguiente enlace!

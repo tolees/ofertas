@@ -17,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Adaptadores de Manguera Bestway. Diámetro 38 mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FEKZS58/?tag=tolees-21'
+descuento: '47.09'
+titulo: 'Adaptadores de Manguera Bestway. Diámetr'
 ---
 
 Está [Adaptadores de Manguera Bestway. Diámetro 38 mm](https://www.amazon.es/dp/B00FEKZS58/?tag=tolees-21) con 47.09 de descuento por 7.91 EUR (original: 14.95 EUR) en el siguiente enlace!

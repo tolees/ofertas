@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Tamaris 25881  Botines para Mujer  Marrón  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016SPW9MM/?tag=tolees-21'
+descuento: '64.45'
+titulo: 'Tamaris 25881  Botines para Mujer  Marró'
 ---
 
 Está [Tamaris 25881  Botines para Mujer  Marrón  39 EU](https://www.amazon.es/dp/B016SPW9MM/?tag=tolees-21) con 64.45 de descuento por 24.87 EUR (original: 69.95 EUR) en el siguiente enlace!

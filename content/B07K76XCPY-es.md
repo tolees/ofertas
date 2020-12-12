@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Levi s SS tee Camiseta   Colorblock Quiet Shade/White/Dress BLU 0006   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K76XCPY/?tag=tolees-21'
+descuento: '46.83'
+titulo: 'Levi s SS tee Camiseta   Colorblock Quie'
 ---
 
 Ahora mismo tienes [Levi s SS tee Camiseta   Colorblock Quiet Shade/White/Dress BLU 0006   Medium para Hombre](https://www.amazon.es/dp/B07K76XCPY/?tag=tolees-21) a 15.95 EUR (original: 30 EUR) (46.83 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Leathario cinturon de lona para hombre y mujer de la pretina correa ocasional hebilla de metal longitud 112cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L1KOCTC/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Leathario cinturon de lona para hombre y'
 ---
 
 Ahora mismo tienes [Leathario cinturon de lona para hombre y mujer de la pretina correa ocasional hebilla de metal longitud 112cm](https://www.amazon.es/dp/B01L1KOCTC/?tag=tolees-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

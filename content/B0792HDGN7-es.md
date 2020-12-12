@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Roxy Dakota Dreaming Camiseta de Diseño Técnico  Mujer  Azul/Solid  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792HDGN7/?tag=tolees-21'
+descuento: '70.34'
+titulo: 'Roxy Dakota Dreaming Camiseta de Diseño '
 ---
 
 Está [Roxy Dakota Dreaming Camiseta de Diseño Técnico  Mujer  Azul/Solid  M](https://www.amazon.es/dp/B0792HDGN7/?tag=tolees-21) con 70.34 de descuento por 11.86 EUR (original: 39.99 EUR) en el siguiente enlace!

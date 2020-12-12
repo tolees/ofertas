@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Giftgarden Virgen María con Figuras de la Estatua de Jesús del bebé Ornamentos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FHQ19H4/?tag=tolees-21'
+descuento: '25.94'
+titulo: 'Giftgarden Virgen María con Figuras de l'
 ---
 
 Tienes [Giftgarden Virgen María con Figuras de la Estatua de Jesús del bebé Ornamentos](https://www.amazon.es/dp/B01FHQ19H4/?tag=tolees-21) con un 25.94 % de descuento con precio de oferta de 19.99 EUR (original: 26.99 EUR) en el siguiente enlace!

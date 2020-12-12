@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Levi s Essential V Neck  Camiseta para Mujer  Negro  Black 0003  X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076X4BBZF/?tag=tolees-21'
+descuento: '37.27'
+titulo: 'Levi s Essential V Neck  Camiseta para M'
 ---
 
 Ahora mismo tienes [Levi s Essential V Neck  Camiseta para Mujer  Negro  Black 0003  X-Small](https://www.amazon.es/dp/B076X4BBZF/?tag=tolees-21) a 18.82 EUR (original: 30 EUR) (37.27 %  de descuento) en el siguiente enlace!

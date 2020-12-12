@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'DESCUENTO 15%! Moringa + Acai Vegavero® | Producto BIO | Testado en Laboratorio | 120 Cápsulas | Tensión + Colesterol + Antioxidante | Vegano'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00YNHUP74/?tag=tolees-21'
+descuento: '25.13'
+titulo: 'DESCUENTO 15%! Moringa + Acai Vegavero® '
 ---
 
 Ahora mismo tienes [DESCUENTO 15%! Moringa + Acai Vegavero® | Producto BIO | Testado en Laboratorio | 120 Cápsulas | Tensión + Colesterol + Antioxidante | Vegano](https://www.amazon.es/dp/B00YNHUP74/?tag=tolees-21) a 14.9 EUR (original: 19.9 EUR) (25.13 %  de descuento) en el siguiente enlace!

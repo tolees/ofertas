@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Kappa Deft  Zapatillas Unisex Adulto  Negro  Black 242684-1110   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRG44RV/?tag=tolees-21'
+descuento: '46.56'
+titulo: 'Kappa Deft  Zapatillas Unisex Adulto  Ne'
 ---
 
 Tienes [Kappa Deft  Zapatillas Unisex Adulto  Negro  Black 242684-1110   42 EU](https://www.amazon.es/dp/B07KRG44RV/?tag=tolees-21) con un 46.56 % de descuento con precio de oferta de 21.37 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 4.9 EUR
 inStock: true
 prodname: 'Displayschutz BigBen Protection Kit [Importación alemana]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NCXFQAN/?tag=tolees-21'
+descuento: '89.80'
+titulo: 'Displayschutz BigBen Protection Kit [Imp'
 ---
 
 Está [Displayschutz BigBen Protection Kit [Importación alemana]](https://www.amazon.es/dp/B01NCXFQAN/?tag=tolees-21) con 89.80 de descuento por 0.5 EUR (original: 4.9 EUR) en el siguiente enlace!

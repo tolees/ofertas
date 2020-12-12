@@ -17,6 +17,9 @@ comparePrice: 34.3 EUR
 inStock: true
 prodname: 'AUSHEN Luces de Espejo de Tocador LED Kit 10 Bombillas Regulables Luces Para Maquillaje Hollywood Espejo de Maquillaje Lámpara Para Maquillaje Tabla de Aparador Baño'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J33YXGX/?tag=tolees-21'
+descuento: '41.72'
+titulo: 'AUSHEN Luces de Espejo de Tocador LED Ki'
 ---
 
 Está [AUSHEN Luces de Espejo de Tocador LED Kit 10 Bombillas Regulables Luces Para Maquillaje Hollywood Espejo de Maquillaje Lámpara Para Maquillaje Tabla de Aparador Baño](https://www.amazon.es/dp/B07J33YXGX/?tag=tolees-21) con 41.72 de descuento por 19.99 EUR (original: 34.3 EUR) en el siguiente enlace!

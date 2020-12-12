@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Jacket  Chaqueta para Hombre  Rojo  Red 005  Small  Talla del Fabricante: 42 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHZPYRD/?tag=tolees-21'
+descuento: '59.19'
+titulo: 'United Colors of Benetton Jacket  Chaque'
 ---
 
 Está [United Colors of Benetton Jacket  Chaqueta para Hombre  Rojo  Red 005  Small  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07DHZPYRD/?tag=tolees-21) con 59.19 de descuento por 28.55 EUR (original: 69.95 EUR) en el siguiente enlace!

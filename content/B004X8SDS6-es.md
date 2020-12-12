@@ -17,6 +17,9 @@ comparePrice: 50.27 EUR
 inStock: true
 prodname: 'Millecroquette 20000 - Porcionadora de croquetas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004X8SDS6/?tag=tolees-21'
+descuento: '25.44'
+titulo: 'Millecroquette 20000 - Porcionadora de c'
 ---
 
 Tienes [Millecroquette 20000 - Porcionadora de croquetas](https://www.amazon.es/dp/B004X8SDS6/?tag=tolees-21) con un 25.44 % de descuento con precio de oferta de 37.48 EUR (original: 50.27 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.58 EUR
 inStock: true
 prodname: 'NPET BARRA MASAJEADORA DE MANO DE 16 VELOCIDADES MASAJE ELÉCTRICO PARA PIE  CUELLO  PIERNAS  ESPALDA  HOMBROS  CUERPO - NEGRO'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074TDXNR6/?tag=tolees-21'
+descuento: '50.46'
+titulo: 'NPET BARRA MASAJEADORA DE MANO DE 16 VEL'
 ---
 
 Ahora mismo tienes [NPET BARRA MASAJEADORA DE MANO DE 16 VELOCIDADES MASAJE ELÉCTRICO PARA PIE  CUELLO  PIERNAS  ESPALDA  HOMBROS  CUERPO - NEGRO](https://www.amazon.es/dp/B074TDXNR6/?tag=tolees-21) a 17.13 EUR (original: 34.58 EUR) (50.46 %  de descuento) en el siguiente enlace!

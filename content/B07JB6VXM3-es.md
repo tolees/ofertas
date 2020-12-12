@@ -17,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'BLOOMWIN Bombillas de Vela LED E14 3W Reemplazo 1500K Blanco cálido LED Efecto de llama Fuego Bombillas de bajo consumo Candelabro Decoración Halloween Navidad Boda Fiesta Jardín  1PCS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JB6VXM3/?tag=tolees-21'
+descuento: '69.72'
+titulo: 'BLOOMWIN Bombillas de Vela LED E14 3W Re'
 ---
 
 Está [BLOOMWIN Bombillas de Vela LED E14 3W Reemplazo 1500K Blanco cálido LED Efecto de llama Fuego Bombillas de bajo consumo Candelabro Decoración Halloween Navidad Boda Fiesta Jardín  1PCS ](https://www.amazon.es/dp/B07JB6VXM3/?tag=tolees-21) con 69.72 de descuento por 9.99 EUR (original: 32.99 EUR) en el siguiente enlace!

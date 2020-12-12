@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Nike MD Runner 2 PE  GS   Zapatillas de Running para Bebés  Gris White/Mineral Spruce 300  38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JP5BWZS/?tag=tolees-21'
+descuento: '40.10'
+titulo: 'Nike MD Runner 2 PE  GS   Zapatillas de '
 ---
 
 Tienes [Nike MD Runner 2 PE  GS   Zapatillas de Running para Bebés  Gris White/Mineral Spruce 300  38.5 EU](https://www.amazon.es/dp/B07JP5BWZS/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 29.95 EUR (original: 50 EUR) en el siguiente enlace!

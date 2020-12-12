@@ -17,6 +17,9 @@ comparePrice: 36 EUR
 inStock: true
 prodname: 'Lancome Maquillaje - 15 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AWGLOPQ/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Lancome Maquillaje - 15 ml'
 ---
 
 Está [Lancome Maquillaje - 15 ml](https://www.amazon.es/dp/B01AWGLOPQ/?tag=tolees-21) con 30.00 de descuento por 25.2 EUR (original: 36 EUR) en el siguiente enlace!

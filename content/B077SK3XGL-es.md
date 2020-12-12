@@ -17,6 +17,9 @@ comparePrice: 169 EUR
 inStock: true
 prodname: 'Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable FS5412'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077SK3XGL/?tag=tolees-21'
+descuento: '35.59'
+titulo: 'Fossil Reloj Analogico para Hombre de Cu'
 ---
 
 Ahora mismo tienes [Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable FS5412](https://www.amazon.es/dp/B077SK3XGL/?tag=tolees-21) a 108.85 EUR (original: 169 EUR) (35.59 %  de descuento) en el siguiente enlace!

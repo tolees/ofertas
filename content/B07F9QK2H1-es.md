@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Escalera Asiento Adjustable Asiento Orinal Formación Bebé Asiento con Escalera Orinal Silla Escalera del Tocador de Niños para WC con Escalón Plegable Orinal Formación  Verde '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F9QK2H1/?tag=tolees-21'
+descuento: '52.86'
+titulo: 'Escalera Asiento Adjustable Asiento Orin'
 ---
 
 Está [Escalera Asiento Adjustable Asiento Orinal Formación Bebé Asiento con Escalera Orinal Silla Escalera del Tocador de Niños para WC con Escalón Plegable Orinal Formación  Verde ](https://www.amazon.es/dp/B07F9QK2H1/?tag=tolees-21) con 52.86 de descuento por 32.99 EUR (original: 69.99 EUR) en el siguiente enlace!

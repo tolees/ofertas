@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'GORE RUNNING WEAR  Mallas de correr  Hombre  GORE Selected Fabrics  ESSENTIAL Tights  Talla M  Negro  TESSEN'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y5D7HKZ/?tag=tolees-21'
+descuento: '57.22'
+titulo: 'GORE RUNNING WEAR  Mallas de correr  Hom'
 ---
 
 Tienes [GORE RUNNING WEAR  Mallas de correr  Hombre  GORE Selected Fabrics  ESSENTIAL Tights  Talla M  Negro  TESSEN](https://www.amazon.es/dp/B06Y5D7HKZ/?tag=tolees-21) con un 57.22 % de descuento con precio de oferta de 34.2 EUR (original: 79.95 EUR) en el siguiente enlace!

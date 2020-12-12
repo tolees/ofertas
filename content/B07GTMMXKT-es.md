@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'hummel Classic Bee Ci Seamless Top  Mujer  Negro Melange  M/L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GTMMXKT/?tag=tolees-21'
+descuento: '56.93'
+titulo: 'hummel Classic Bee Ci Seamless Top  Muje'
 ---
 
 Está [hummel Classic Bee Ci Seamless Top  Mujer  Negro Melange  M/L](https://www.amazon.es/dp/B07GTMMXKT/?tag=tolees-21) con 56.93 de descuento por 12.9 EUR (original: 29.95 EUR) en el siguiente enlace!

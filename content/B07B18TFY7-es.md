@@ -17,6 +17,9 @@ comparePrice: 38.16 EUR
 inStock: true
 prodname: 'Affligem Blond Cerveza - Caja de 24 Botellas x 300 ml  - Total: 7.20 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B18TFY7/?tag=tolees-21'
+descuento: '57.60'
+titulo: 'Affligem Blond Cerveza - Caja de 24 Bote'
 ---
 
 Ahora mismo tienes [Affligem Blond Cerveza - Caja de 24 Botellas x 300 ml  - Total: 7.20 L](https://www.amazon.es/dp/B07B18TFY7/?tag=tolees-21) a 16.18 EUR (original: 38.16 EUR) (57.60 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Merrell Moab 2 Vent  Zapatillas de Senderismo para Hombre  Marrón  Earth   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HFAAA3E/?tag=tolees-21'
+descuento: '32.87'
+titulo: 'Merrell Moab 2 Vent  Zapatillas de Sende'
 ---
 
 Está [Merrell Moab 2 Vent  Zapatillas de Senderismo para Hombre  Marrón  Earth   42 EU](https://www.amazon.es/dp/B01HFAAA3E/?tag=tolees-21) con 32.87 de descuento por 73.84 EUR (original: 110 EUR) en el siguiente enlace!

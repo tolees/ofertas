@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Ropa Interior Mujer Lencería Sexy Ropa Erótica Encaje Ropa Dormir Transparente Babydoll Corto Conjunto Sexy con Tangas Rojo M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MHV6YPN/?tag=tolees-21'
+descuento: '56.69'
+titulo: 'Ropa Interior Mujer Lencería Sexy Ropa E'
 ---
 
 Está [Ropa Interior Mujer Lencería Sexy Ropa Erótica Encaje Ropa Dormir Transparente Babydoll Corto Conjunto Sexy con Tangas Rojo M](https://www.amazon.es/dp/B07MHV6YPN/?tag=tolees-21) con 56.69 de descuento por 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

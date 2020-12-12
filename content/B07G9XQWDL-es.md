@@ -17,6 +17,9 @@ comparePrice: 299 EUR
 inStock: true
 prodname: 'Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Tela AR11154'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G9XQWDL/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Emporio Armani Reloj Analógico para Homb'
 ---
 
 Está [Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Tela AR11154](https://www.amazon.es/dp/B07G9XQWDL/?tag=tolees-21) con 60.00 de descuento por 119.6 EUR (original: 299 EUR) en el siguiente enlace!

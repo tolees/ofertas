@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance 420  Zapatillas de Running Unisex Adulto   Beige 268   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ETNYTXW/?tag=tolees-21'
+descuento: '66.23'
+titulo: 'New Balance 420  Zapatillas de Running U'
 ---
 
 Está [New Balance 420  Zapatillas de Running Unisex Adulto   Beige 268   38 EU](https://www.amazon.es/dp/B01ETNYTXW/?tag=tolees-21) con 66.23 de descuento por 30.39 EUR (original: 90 EUR) en el siguiente enlace!

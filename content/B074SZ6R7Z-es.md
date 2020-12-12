@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Hurley Phantom One&Only 18 Bañador  Hombre  Negro  M/33'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074SZ6R7Z/?tag=tolees-21'
+descuento: '50.93'
+titulo: 'Hurley Phantom One&Only 18 Bañador  Homb'
 ---
 
 Tienes [Hurley Phantom One&Only 18 Bañador  Hombre  Negro  M/33](https://www.amazon.es/dp/B074SZ6R7Z/?tag=tolees-21) con un 50.93 % de descuento con precio de oferta de 26.99 EUR (original: 55 EUR) en el siguiente enlace!

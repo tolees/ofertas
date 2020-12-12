@@ -17,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Merrell Agility Synthesis Flex  Zapatillas de Running para Asfalto para Hombre  Negro Orca  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078N6WQCK/?tag=tolees-21'
+descuento: '49.57'
+titulo: 'Merrell Agility Synthesis Flex  Zapatill'
 ---
 
 Tienes [Merrell Agility Synthesis Flex  Zapatillas de Running para Asfalto para Hombre  Negro Orca  43 EU](https://www.amazon.es/dp/B078N6WQCK/?tag=tolees-21) con un 49.57 % de descuento con precio de oferta de 57.99 EUR (original: 115 EUR) en el siguiente enlace!

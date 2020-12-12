@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcovincent Sweat Hood Capucha  Azul Sky Captain  Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCC2KKX/?tag=tolees-21'
+descuento: '65.16'
+titulo: 'JACK & JONES Jcovincent Sweat Hood Capuc'
 ---
 
 Tienes [JACK & JONES Jcovincent Sweat Hood Capucha  Azul Sky Captain  Large para Hombre](https://www.amazon.es/dp/B07DCC2KKX/?tag=tolees-21) con un 65.16 % de descuento con precio de oferta de 10.45 EUR (original: 29.99 EUR) en el siguiente enlace!

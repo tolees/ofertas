@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Dickies Cornwell  Abrigo impermeable para Hombre  Verde  Olive Green   X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013RCU8O0/?tag=tolees-21'
+descuento: '71.71'
+titulo: 'Dickies Cornwell  Abrigo impermeable par'
 ---
 
 Tienes [Dickies Cornwell  Abrigo impermeable para Hombre  Verde  Olive Green   X-Small](https://www.amazon.es/dp/B013RCU8O0/?tag=tolees-21) con un 71.71 % de descuento con precio de oferta de 22.35 EUR (original: 79 EUR) en el siguiente enlace!

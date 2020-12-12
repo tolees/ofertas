@@ -17,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Power Deluxx Camping Cubiertos de Acampada'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FY9YQRV/?tag=tolees-21'
+descuento: '82.87'
+titulo: 'Power Deluxx Camping Cubiertos de Acampa'
 ---
 
 Está [Power Deluxx Camping Cubiertos de Acampada](https://www.amazon.es/dp/B07FY9YQRV/?tag=tolees-21) con 82.87 de descuento por 11.99 EUR (original: 69.99 EUR) en el siguiente enlace!

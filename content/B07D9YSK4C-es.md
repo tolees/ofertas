@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'adidas RUN80S  Zapatillas para Hombre  Negro  Core Black/Footwear White/Grey 0   46 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9YSK4C/?tag=tolees-21'
+descuento: '55.93'
+titulo: 'adidas RUN80S  Zapatillas para Hombre  N'
 ---
 
 Ahora mismo tienes [adidas RUN80S  Zapatillas para Hombre  Negro  Core Black/Footwear White/Grey 0   46 2/3 EU](https://www.amazon.es/dp/B07D9YSK4C/?tag=tolees-21) a 35.23 EUR (original: 79.95 EUR) (55.93 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Salomon Skin Pro 10 Set Backpack  Unisex Adulto  Negro  Black/Bright Red   10 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014EBQRHA/?tag=tolees-21'
+descuento: '43.89'
+titulo: 'Salomon Skin Pro 10 Set Backpack  Unisex'
 ---
 
 Ahora mismo tienes [Salomon Skin Pro 10 Set Backpack  Unisex Adulto  Negro  Black/Bright Red   10 L](https://www.amazon.es/dp/B014EBQRHA/?tag=tolees-21) a 78.55 EUR (original: 140 EUR) (43.89 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Springfield 5 Pack Negros Bóxer  Hombre  Negro  Negro 1   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1V1VK/?tag=tolees-21'
+descuento: '47.04'
+titulo: 'Springfield 5 Pack Negros Bóxer  Hombre '
 ---
 
 Tienes [Springfield 5 Pack Negros Bóxer  Hombre  Negro  Negro 1   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KZ1V1VK/?tag=tolees-21) con un 47.04 % de descuento con precio de oferta de 18.53 EUR (original: 34.99 EUR) en el siguiente enlace!

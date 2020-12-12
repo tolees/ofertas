@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'SUNMEET Gafas de sol Hombre Polarizadas Clásico Retro Gafas de sol para Hombre UV400 Protection S1001 Verde/Pistola '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7WFF6R/?tag=tolees-21'
+descuento: '60.02'
+titulo: 'SUNMEET Gafas de sol Hombre Polarizadas '
 ---
 
 Ahora mismo tienes [SUNMEET Gafas de sol Hombre Polarizadas Clásico Retro Gafas de sol para Hombre UV400 Protection S1001 Verde/Pistola ](https://www.amazon.es/dp/B07F7WFF6R/?tag=tolees-21) a 15.99 EUR (original: 39.99 EUR) (60.02 %  de descuento) en el siguiente enlace!

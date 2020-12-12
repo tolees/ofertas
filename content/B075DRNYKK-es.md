@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Desigual Vest_dsgl-Original Vestido  Negro  Black 2000   Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075DRNYKK/?tag=tolees-21'
+descuento: '28.57'
+titulo: 'Desigual Vest_dsgl-Original Vestido  Neg'
 ---
 
 Tienes [Desigual Vest_dsgl-Original Vestido  Negro  Black 2000   Small para Mujer](https://www.amazon.es/dp/B075DRNYKK/?tag=tolees-21) con un 28.57 % de descuento con precio de oferta de 35 EUR (original: 49 EUR) en el siguiente enlace!

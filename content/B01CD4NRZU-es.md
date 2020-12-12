@@ -17,6 +17,9 @@ comparePrice: 209 EUR
 inStock: true
 prodname: 'Marckonfort Cabezal Partido tapizado Lyon 160X95 con Tachuelas Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CD4NRZU/?tag=tolees-21'
+descuento: '47.37'
+titulo: 'Marckonfort Cabezal Partido tapizado Lyo'
 ---
 
 Ahora mismo tienes [Marckonfort Cabezal Partido tapizado Lyon 160X95 con Tachuelas Blanco](https://www.amazon.es/dp/B01CD4NRZU/?tag=tolees-21) a 109.99 EUR (original: 209 EUR) (47.37 %  de descuento) en el siguiente enlace!

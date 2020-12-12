@@ -17,6 +17,9 @@ comparePrice: 33.35 EUR
 inStock: true
 prodname: 'Juego Cuchillos Royalty Rl6mstk Set 6+ Soporte Neg'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ND72QI6/?tag=tolees-21'
+descuento: '40.06'
+titulo: 'Juego Cuchillos Royalty Rl6mstk Set 6+ S'
 ---
 
 Tienes [Juego Cuchillos Royalty Rl6mstk Set 6+ Soporte Neg](https://www.amazon.es/dp/B00ND72QI6/?tag=tolees-21) con un 40.06 % de descuento con precio de oferta de 19.99 EUR (original: 33.35 EUR) en el siguiente enlace!

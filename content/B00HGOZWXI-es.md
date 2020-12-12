@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Joma Gladiator - Pantalón largo brillante para hombre  color Azul Royal  talla XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HGOZWXI/?tag=tolees-21'
+descuento: '59.65'
+titulo: 'Joma Gladiator - Pantalón largo brillant'
 ---
 
 Tienes [Joma Gladiator - Pantalón largo brillante para hombre  color Azul Royal  talla XL](https://www.amazon.es/dp/B00HGOZWXI/?tag=tolees-21) con un 59.65 % de descuento con precio de oferta de 8.05 EUR (original: 19.95 EUR) en el siguiente enlace!

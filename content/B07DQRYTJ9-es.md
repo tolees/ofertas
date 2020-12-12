@@ -17,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'adidas Supernova  Camiseta para Mujer  Azul /  Mystery Ink f17/Raw Grey s18  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQRYTJ9/?tag=tolees-21'
+descuento: '61.57'
+titulo: 'adidas Supernova  Camiseta para Mujer  A'
 ---
 
 Está [adidas Supernova  Camiseta para Mujer  Azul /  Mystery Ink f17/Raw Grey s18  M](https://www.amazon.es/dp/B07DQRYTJ9/?tag=tolees-21) con 61.57 de descuento por 13.43 EUR (original: 34.95 EUR) en el siguiente enlace!

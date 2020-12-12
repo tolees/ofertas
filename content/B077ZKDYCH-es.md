@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'edc by Esprit 028cc1e024  Vestido para Mujer  Blanco  Off White 110   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077ZKDYCH/?tag=tolees-21'
+descuento: '50.09'
+titulo: 'edc by Esprit 028cc1e024  Vestido para M'
 ---
 
 Ahora mismo tienes [edc by Esprit 028cc1e024  Vestido para Mujer  Blanco  Off White 110   Small](https://www.amazon.es/dp/B077ZKDYCH/?tag=tolees-21) a 24.95 EUR (original: 49.99 EUR) (50.09 %  de descuento) en el siguiente enlace!

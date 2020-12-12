@@ -17,6 +17,9 @@ comparePrice: 20.15 EUR
 inStock: true
 prodname: 'Star Wars The Force Mochila Preescolar  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013WWOIU0/?tag=tolees-21'
+descuento: '67.64'
+titulo: 'Star Wars The Force Mochila Preescolar  '
 ---
 
 Está [Star Wars The Force Mochila Preescolar  Color Negro](https://www.amazon.es/dp/B013WWOIU0/?tag=tolees-21) con 67.64 de descuento por 6.52 EUR (original: 20.15 EUR) en el siguiente enlace!

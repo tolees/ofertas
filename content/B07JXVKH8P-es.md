@@ -17,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'DAM Q19 - Brazalete Inteligente Bluetooth 4.0  Color Rojo y Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JXVKH8P/?tag=tolees-21'
+descuento: '69.28'
+titulo: 'DAM Q19 - Brazalete Inteligente Bluetoot'
 ---
 
 Tienes [DAM Q19 - Brazalete Inteligente Bluetooth 4.0  Color Rojo y Negro](https://www.amazon.es/dp/B07JXVKH8P/?tag=tolees-21) con un 69.28 % de descuento con precio de oferta de 54.99 EUR (original: 179 EUR) en el siguiente enlace!

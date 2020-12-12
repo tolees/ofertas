@@ -17,6 +17,9 @@ comparePrice: 49.89 EUR
 inStock: true
 prodname: 'Alfombrillas de ratón DaSinKo gaming mouse pad XXL 900 x 400mm  impermeable base de caucho，Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WWBYL5V/?tag=tolees-21'
+descuento: '76.59'
+titulo: 'Alfombrillas de ratón DaSinKo gaming mou'
 ---
 
 Ahora mismo tienes [Alfombrillas de ratón DaSinKo gaming mouse pad XXL 900 x 400mm  impermeable base de caucho，Negro](https://www.amazon.es/dp/B06WWBYL5V/?tag=tolees-21) a 11.68 EUR (original: 49.89 EUR) (76.59 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas 3-Stripes Crew Sweatshirt  Hombre  Legend Marine  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KQV4TZP/?tag=tolees-21'
+descuento: '29.99'
+titulo: 'adidas 3-Stripes Crew Sweatshirt  Hombre'
 ---
 
 Ahora mismo tienes [adidas 3-Stripes Crew Sweatshirt  Hombre  Legend Marine  L](https://www.amazon.es/dp/B07KQV4TZP/?tag=tolees-21) a 34.97 EUR (original: 49.95 EUR) (29.99 %  de descuento) en el siguiente enlace!

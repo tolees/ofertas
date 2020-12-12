@@ -17,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Puma Suede Classic+  Zapatillas Unisex Adulto  Rojo  Burnt Ochre White   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077PF3NZ1/?tag=tolees-21'
+descuento: '29.49'
+titulo: 'Puma Suede Classic+  Zapatillas Unisex A'
 ---
 
 Tienes [Puma Suede Classic+  Zapatillas Unisex Adulto  Rojo  Burnt Ochre White   41 EU](https://www.amazon.es/dp/B077PF3NZ1/?tag=tolees-21) con un 29.49 % de descuento con precio de oferta de 59.9 EUR (original: 84.95 EUR) en el siguiente enlace!

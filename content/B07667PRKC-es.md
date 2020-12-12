@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Rieker L59g4  Zapatillas para Mujer  Rosa  Rose   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07667PRKC/?tag=tolees-21'
+descuento: '73.41'
+titulo: 'Rieker L59g4  Zapatillas para Mujer  Ros'
 ---
 
 Ahora mismo tienes [Rieker L59g4  Zapatillas para Mujer  Rosa  Rose   36 EU](https://www.amazon.es/dp/B07667PRKC/?tag=tolees-21) a 15.94 EUR (original: 59.95 EUR) (73.41 %  de descuento) en el siguiente enlace!

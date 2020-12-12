@@ -17,6 +17,9 @@ comparePrice: 209.87 EUR
 inStock: true
 prodname: 'Giochi Preziosi OFR8200400 Triciclo Smart Trike Explorer 5-en-1 de Agua Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00X3FS2W2/?tag=tolees-21'
+descuento: '49.18'
+titulo: 'Giochi Preziosi OFR8200400 Triciclo Smar'
 ---
 
 Está [Giochi Preziosi OFR8200400 Triciclo Smart Trike Explorer 5-en-1 de Agua Azul](https://www.amazon.es/dp/B00X3FS2W2/?tag=tolees-21) con 49.18 de descuento por 106.65 EUR (original: 209.87 EUR) en el siguiente enlace!

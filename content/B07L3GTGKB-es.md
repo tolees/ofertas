@@ -17,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Tommy Slim Polo  Verde  Dusty Olive 308   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3GTGKB/?tag=tolees-21'
+descuento: '29.97'
+titulo: 'Tommy Hilfiger Tommy Slim Polo  Verde  D'
 ---
 
 Está [Tommy Hilfiger Tommy Slim Polo  Verde  Dusty Olive 308   Small para Hombre](https://www.amazon.es/dp/B07L3GTGKB/?tag=tolees-21) con 29.97 de descuento por 48.95 EUR (original: 69.9 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Guess Conjunto de Cadena y Colgante UBN21605'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SOX4BFA/?tag=tolees-21'
+descuento: '58.90'
+titulo: 'Guess Conjunto de Cadena y Colgante UBN2'
 ---
 
 Está [Guess Conjunto de Cadena y Colgante UBN21605](https://www.amazon.es/dp/B00SOX4BFA/?tag=tolees-21) con 58.90 de descuento por 41.06 EUR (original: 99.9 EUR) en el siguiente enlace!

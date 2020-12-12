@@ -17,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Nike Lightweight Crew  Pack de 3 Calcetines Unisex para Adulto  Negro  42-46  L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00B7GPVSM/?tag=tolees-21'
+descuento: '25.35'
+titulo: 'Nike Lightweight Crew  Pack de 3 Calceti'
 ---
 
 Está [Nike Lightweight Crew  Pack de 3 Calcetines Unisex para Adulto  Negro  42-46  L ](https://www.amazon.es/dp/B00B7GPVSM/?tag=tolees-21) con 25.35 de descuento por 8.95 EUR (original: 11.99 EUR) en el siguiente enlace!

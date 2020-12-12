@@ -17,6 +17,9 @@ comparePrice: 144 EUR
 inStock: true
 prodname: 'Loewe 32910 - Eau de toilette para hombre  150 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002A3HS5K/?tag=tolees-21'
+descuento: '54.31'
+titulo: 'Loewe 32910 - Eau de toilette para hombr'
 ---
 
 Está [Loewe 32910 - Eau de toilette para hombre  150 ml](https://www.amazon.es/dp/B002A3HS5K/?tag=tolees-21) con 54.31 de descuento por 65.8 EUR (original: 144 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Vaso  Zapatillas para Mujer  Negro  Black Blk   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTP9R2Q/?tag=tolees-21'
+descuento: '49.96'
+titulo: 'Skechers Vaso  Zapatillas para Mujer  Ne'
 ---
 
 Tienes [Skechers Vaso  Zapatillas para Mujer  Negro  Black Blk   37 EU](https://www.amazon.es/dp/B07CTP9R2Q/?tag=tolees-21) con un 49.96 % de descuento con precio de oferta de 32.5 EUR (original: 64.95 EUR) en el siguiente enlace!

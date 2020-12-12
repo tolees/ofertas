@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcocutters tee SS Crew Neck Camiseta  Negro  Black Fit:Slim   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L13MDKJ/?tag=tolees-21'
+descuento: '62.64'
+titulo: 'JACK & JONES Jcocutters tee SS Crew Neck'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcocutters tee SS Crew Neck Camiseta  Negro  Black Fit:Slim   Medium para Hombre](https://www.amazon.es/dp/B07L13MDKJ/?tag=tolees-21) a 5.6 EUR (original: 14.99 EUR) (62.64 %  de descuento) en el siguiente enlace!

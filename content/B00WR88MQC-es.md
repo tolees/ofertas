@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Trust GXT 247 - Base de Carga Doble para gamepads de Xbox One'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WR88MQC/?tag=tolees-21'
+descuento: '44.87'
+titulo: 'Trust GXT 247 - Base de Carga Doble para'
 ---
 
 Está [Trust GXT 247 - Base de Carga Doble para gamepads de Xbox One](https://www.amazon.es/dp/B00WR88MQC/?tag=tolees-21) con 44.87 de descuento por 19.29 EUR (original: 34.99 EUR) en el siguiente enlace!

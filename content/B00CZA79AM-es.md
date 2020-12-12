@@ -17,6 +17,9 @@ comparePrice: 284.9 EUR
 inStock: true
 prodname: 'Foppapedretti Isodinamik  Silla de coche grupo 1/2/3 Isofix  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CZA79AM/?tag=tolees-21'
+descuento: '52.56'
+titulo: 'Foppapedretti Isodinamik  Silla de coche'
 ---
 
 Está [Foppapedretti Isodinamik  Silla de coche grupo 1/2/3 Isofix  Negro](https://www.amazon.es/dp/B00CZA79AM/?tag=tolees-21) con 52.56 de descuento por 135.16 EUR (original: 284.9 EUR) en el siguiente enlace!

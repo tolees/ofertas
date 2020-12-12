@@ -17,6 +17,9 @@ comparePrice: 299.84 EUR
 inStock: true
 prodname: 'Hansgrohe 31815000 Focus grifo de cocina con ducha extraíble  cromo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FK3XNW4/?tag=tolees-21'
+descuento: '51.08'
+titulo: 'Hansgrohe 31815000 Focus grifo de cocina'
 ---
 
 Está [Hansgrohe 31815000 Focus grifo de cocina con ducha extraíble  cromo](https://www.amazon.es/dp/B00FK3XNW4/?tag=tolees-21) con 51.08 de descuento por 146.67 EUR (original: 299.84 EUR) en el siguiente enlace!

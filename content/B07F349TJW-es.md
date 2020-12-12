@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Vans Rutland III Sudadera  Gris  White Heather Tqa   X-Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F349TJW/?tag=tolees-21'
+descuento: '56.28'
+titulo: 'Vans Rutland III Sudadera  Gris  White H'
 ---
 
 Ahora mismo tienes [Vans Rutland III Sudadera  Gris  White Heather Tqa   X-Small para Hombre](https://www.amazon.es/dp/B07F349TJW/?tag=tolees-21) a 26.23 EUR (original: 60 EUR) (56.28 %  de descuento) en el siguiente enlace!

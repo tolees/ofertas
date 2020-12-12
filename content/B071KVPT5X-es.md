@@ -17,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Trolley  equipaje de mano Sammyy  43 litros  55 x 35 x 20 cm  apto para vuelos Low Cost  Equipaje de cabina Ryanair Morado violeta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071KVPT5X/?tag=tolees-21'
+descuento: '30.06'
+titulo: 'Trolley  equipaje de mano Sammyy  43 lit'
 ---
 
 Está [Trolley  equipaje de mano Sammyy  43 litros  55 x 35 x 20 cm  apto para vuelos Low Cost  Equipaje de cabina Ryanair Morado violeta](https://www.amazon.es/dp/B071KVPT5X/?tag=tolees-21) con 30.06 de descuento por 34.9 EUR (original: 49.9 EUR) en el siguiente enlace!

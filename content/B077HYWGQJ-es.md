@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'SCHEFFLER-Home Lena 2 Fundas de sillas  Estirable Cubiertas de la sillas  extraíble elástica Funda  con Banda elástica  Ajuste Universal  Altura del Asiento 20-24 cm - Azúl'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HYWGQJ/?tag=tolees-21'
+descuento: '40.91'
+titulo: 'SCHEFFLER-Home Lena 2 Fundas de sillas  '
 ---
 
 Ahora mismo tienes [SCHEFFLER-Home Lena 2 Fundas de sillas  Estirable Cubiertas de la sillas  extraíble elástica Funda  con Banda elástica  Ajuste Universal  Altura del Asiento 20-24 cm - Azúl](https://www.amazon.es/dp/B077HYWGQJ/?tag=tolees-21) a 13 EUR (original: 22 EUR) (40.91 %  de descuento) en el siguiente enlace!

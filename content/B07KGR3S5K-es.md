@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Burton Underhill Camisetas  Hombre  Stout White  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGR3S5K/?tag=tolees-21'
+descuento: '53.53'
+titulo: 'Burton Underhill Camisetas  Hombre  Stou'
 ---
 
 Tienes [Burton Underhill Camisetas  Hombre  Stout White  L](https://www.amazon.es/dp/B07KGR3S5K/?tag=tolees-21) con un 53.53 % de descuento con precio de oferta de 13.94 EUR (original: 30 EUR) en el siguiente enlace!

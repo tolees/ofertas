@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Curington Rise  Botas Chelsea para Hombre  Marrón  Tan Leather   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B97MNDG/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Clarks Curington Rise  Botas Chelsea par'
 ---
 
 Ahora mismo tienes [Clarks Curington Rise  Botas Chelsea para Hombre  Marrón  Tan Leather   46 EU](https://www.amazon.es/dp/B07B97MNDG/?tag=tolees-21) a 49.95 EUR (original: 99.95 EUR) (50.03 %  de descuento) en el siguiente enlace!

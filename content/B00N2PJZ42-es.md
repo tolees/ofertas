@@ -17,6 +17,9 @@ comparePrice: 26.18 EUR
 inStock: true
 prodname: 'Approx APPKBBT02B - Teclado Universal Bluetooth 3.0  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N2PJZ42/?tag=tolees-21'
+descuento: '65.62'
+titulo: 'Approx APPKBBT02B - Teclado Universal Bl'
 ---
 
 Ahora mismo tienes [Approx APPKBBT02B - Teclado Universal Bluetooth 3.0  Color Negro](https://www.amazon.es/dp/B00N2PJZ42/?tag=tolees-21) a 9 EUR (original: 26.18 EUR) (65.62 %  de descuento) en el siguiente enlace!

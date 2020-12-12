@@ -17,6 +17,9 @@ comparePrice: 229 EUR
 inStock: true
 prodname: 'rainforest'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075QH11SR/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'rainforest'
 ---
 
 Ahora mismo tienes [rainforest](https://www.amazon.es/dp/B075QH11SR/?tag=tolees-21) a 160.3 EUR (original: 229 EUR) (30.00 %  de descuento) en el siguiente enlace!

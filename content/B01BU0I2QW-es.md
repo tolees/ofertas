@@ -17,6 +17,9 @@ comparePrice: 169.95 EUR
 inStock: true
 prodname: 'DeWalt DPSB2IN1-XJ 2en1: Clavadora Brad de acabado 18Ga para puntas de 1-1  Amarillo 1 Piezas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BU0I2QW/?tag=tolees-21'
+descuento: '48.81'
+titulo: 'DeWalt DPSB2IN1-XJ 2en1: Clavadora Brad '
 ---
 
 Tienes [DeWalt DPSB2IN1-XJ 2en1: Clavadora Brad de acabado 18Ga para puntas de 1-1  Amarillo 1 Piezas](https://www.amazon.es/dp/B01BU0I2QW/?tag=tolees-21) con un 48.81 % de descuento con precio de oferta de 87 EUR (original: 169.95 EUR) en el siguiente enlace!

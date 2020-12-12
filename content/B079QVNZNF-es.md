@@ -17,6 +17,9 @@ comparePrice: 24.35 EUR
 inStock: true
 prodname: 'Papermania Capsule  Moroccan Haze  Craft Tape  4 x 5m '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QVNZNF/?tag=tolees-21'
+descuento: '59.22'
+titulo: 'Papermania Capsule  Moroccan Haze  Craft'
 ---
 
 Está [Papermania Capsule  Moroccan Haze  Craft Tape  4 x 5m ](https://www.amazon.es/dp/B079QVNZNF/?tag=tolees-21) con 59.22 de descuento por 9.93 EUR (original: 24.35 EUR) en el siguiente enlace!

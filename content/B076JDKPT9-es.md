@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Bugatti 321467611500  Mocasines para Hombre  Azul  Dark Blue   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076JDKPT9/?tag=tolees-21'
+descuento: '45.32'
+titulo: 'Bugatti 321467611500  Mocasines para Hom'
 ---
 
 Está [Bugatti 321467611500  Mocasines para Hombre  Azul  Dark Blue   41 EU](https://www.amazon.es/dp/B076JDKPT9/?tag=tolees-21) con 45.32 de descuento por 43.72 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 295 EUR
 inStock: true
 prodname: 'Hackett London PEMBRIDGE Rev Gilet  Chaleco para Hombre   Navy/Grey 5CY  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BYZXHKT/?tag=tolees-21'
+descuento: '25.33'
+titulo: 'Hackett London PEMBRIDGE Rev Gilet  Chal'
 ---
 
 Está [Hackett London PEMBRIDGE Rev Gilet  Chaleco para Hombre   Navy/Grey 5CY  XL](https://www.amazon.es/dp/B07BYZXHKT/?tag=tolees-21) con 25.33 de descuento por 220.28 EUR (original: 295 EUR) en el siguiente enlace!

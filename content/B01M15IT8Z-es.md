@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Sony CDX-G3200UV - Reproductor CD para Coche Extra Bass  USB  amplificación de 55W x 4 Salidas  Ecualizador de 10 Bandas  Dos Tipos de iluminación  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M15IT8Z/?tag=tolees-21'
+descuento: '35.67'
+titulo: 'Sony CDX-G3200UV - Reproductor CD para C'
 ---
 
 Tienes [Sony CDX-G3200UV - Reproductor CD para Coche Extra Bass  USB  amplificación de 55W x 4 Salidas  Ecualizador de 10 Bandas  Dos Tipos de iluminación  Negro](https://www.amazon.es/dp/B01M15IT8Z/?tag=tolees-21) con un 35.67 % de descuento con precio de oferta de 70.76 EUR (original: 110 EUR) en el siguiente enlace!

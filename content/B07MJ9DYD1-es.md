@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'INBIKE Guantes Ciclismo para Hombre  Guantes Gel De Dedo Medio Verano para MTB Bicicleta Bici Negro L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MJ9DYD1/?tag=tolees-21'
+descuento: '46.68'
+titulo: 'INBIKE Guantes Ciclismo para Hombre  Gua'
 ---
 
 Ahora mismo tienes [INBIKE Guantes Ciclismo para Hombre  Guantes Gel De Dedo Medio Verano para MTB Bicicleta Bici Negro L ](https://www.amazon.es/dp/B07MJ9DYD1/?tag=tolees-21) a 15.99 EUR (original: 29.99 EUR) (46.68 %  de descuento) en el siguiente enlace!

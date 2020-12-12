@@ -17,6 +17,9 @@ comparePrice: 16.95 EUR
 inStock: true
 prodname: 'Relec Pulsera Repelente Antimosquitos Superhéroes Superman - 1 Unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B44J5KK/?tag=tolees-21'
+descuento: '26.25'
+titulo: 'Relec Pulsera Repelente Antimosquitos Su'
 ---
 
 Ahora mismo tienes [Relec Pulsera Repelente Antimosquitos Superhéroes Superman - 1 Unidad](https://www.amazon.es/dp/B07B44J5KK/?tag=tolees-21) a 12.5 EUR (original: 16.95 EUR) (26.25 %  de descuento) en el siguiente enlace!

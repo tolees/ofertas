@@ -17,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Only & Sons Onsgrigori Entry Sweatshorts  Pantalones para Hombre  Gris Light Grey Melange  54  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077X7LXNN/?tag=tolees-21'
+descuento: '62.15'
+titulo: 'Only & Sons Onsgrigori Entry Sweatshorts'
 ---
 
 Tienes [Only & Sons Onsgrigori Entry Sweatshorts  Pantalones para Hombre  Gris Light Grey Melange  54  Talla del Fabricante: Large ](https://www.amazon.es/dp/B077X7LXNN/?tag=tolees-21) con un 62.15 % de descuento con precio de oferta de 6.43 EUR (original: 16.99 EUR) en el siguiente enlace!

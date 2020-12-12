@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Sloggi for Men SLM Start Midi C3p Bóxer  Negro  Black 04   Large  Talla del Fabricante: 6  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075YX2FYH/?tag=tolees-21'
+descuento: '60.36'
+titulo: 'Sloggi for Men SLM Start Midi C3p Bóxer '
 ---
 
 Ahora mismo tienes [Sloggi for Men SLM Start Midi C3p Bóxer  Negro  Black 04   Large  Talla del Fabricante: 6  para Hombre](https://www.amazon.es/dp/B075YX2FYH/?tag=tolees-21) a 9.89 EUR (original: 24.95 EUR) (60.36 %  de descuento) en el siguiente enlace!

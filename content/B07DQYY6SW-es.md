@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'MTNG Attitude 84096  Zapatillas para Hombre   Ultra Oil Vertigo Marron/Textil Tape Marino C42649   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQYY6SW/?tag=tolees-21'
+descuento: '45.73'
+titulo: 'MTNG Attitude 84096  Zapatillas para Hom'
 ---
 
 Está [MTNG Attitude 84096  Zapatillas para Hombre   Ultra Oil Vertigo Marron/Textil Tape Marino C42649   44 EU](https://www.amazon.es/dp/B07DQYY6SW/?tag=tolees-21) con 45.73 de descuento por 19.53 EUR (original: 35.99 EUR) en el siguiente enlace!

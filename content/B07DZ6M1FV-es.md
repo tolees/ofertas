@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Columbia Chillin Fleece Non Hooded Chaqueta Polar  Mujer  Negro  Black   Talla XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DZ6M1FV/?tag=tolees-21'
+descuento: '65.61'
+titulo: 'Columbia Chillin Fleece Non Hooded Chaqu'
 ---
 
 Ahora mismo tienes [Columbia Chillin Fleece Non Hooded Chaqueta Polar  Mujer  Negro  Black   Talla XS](https://www.amazon.es/dp/B07DZ6M1FV/?tag=tolees-21) a 30.95 EUR (original: 89.99 EUR) (65.61 %  de descuento) en el siguiente enlace!

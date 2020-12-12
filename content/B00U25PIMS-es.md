@@ -17,6 +17,9 @@ comparePrice: 23.39 EUR
 inStock: true
 prodname: 'Kempa - Classic Shorts  Color Azul  Talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U25PIMS/?tag=tolees-21'
+descuento: '57.46'
+titulo: 'Kempa - Classic Shorts  Color Azul  Tall'
 ---
 
 Está [Kempa - Classic Shorts  Color Azul  Talla L](https://www.amazon.es/dp/B00U25PIMS/?tag=tolees-21) con 57.46 de descuento por 9.95 EUR (original: 23.39 EUR) en el siguiente enlace!

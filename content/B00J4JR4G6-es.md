@@ -17,6 +17,9 @@ comparePrice: 335.68 EUR
 inStock: true
 prodname: 'Hitachi DH24PH - Martillo perforador SDS plus 730W 2 7J + maletin'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00J4JR4G6/?tag=tolees-21'
+descuento: '54.72'
+titulo: 'Hitachi DH24PH - Martillo perforador SDS'
 ---
 
 Ahora mismo tienes [Hitachi DH24PH - Martillo perforador SDS plus 730W 2 7J + maletin](https://www.amazon.es/dp/B00J4JR4G6/?tag=tolees-21) a 152 EUR (original: 335.68 EUR) (54.72 %  de descuento) en el siguiente enlace!

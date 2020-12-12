@@ -17,6 +17,9 @@ comparePrice: 103.99 EUR
 inStock: true
 prodname: 'Salming Chaussures Adder Men Cyan/Jaune'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GRQGU2C/?tag=tolees-21'
+descuento: '35.58'
+titulo: 'Salming Chaussures Adder Men Cyan/Jaune'
 ---
 
 Tienes [Salming Chaussures Adder Men Cyan/Jaune](https://www.amazon.es/dp/B01GRQGU2C/?tag=tolees-21) con un 35.58 % de descuento con precio de oferta de 66.99 EUR (original: 103.99 EUR) en el siguiente enlace!

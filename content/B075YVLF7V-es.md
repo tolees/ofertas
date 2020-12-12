@@ -17,6 +17,9 @@ comparePrice: 48.53 EUR
 inStock: true
 prodname: 'Diesel UMBX-KORYTHREEPACK Boxer Slip   Schwarz/Weiß/Grau 01   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075YVLF7V/?tag=tolees-21'
+descuento: '60.95'
+titulo: 'Diesel UMBX-KORYTHREEPACK Boxer Slip   S'
 ---
 
 Está [Diesel UMBX-KORYTHREEPACK Boxer Slip   Schwarz/Weiß/Grau 01   Large para Hombre](https://www.amazon.es/dp/B075YVLF7V/?tag=tolees-21) con 60.95 de descuento por 18.95 EUR (original: 48.53 EUR) en el siguiente enlace!

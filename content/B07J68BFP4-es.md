@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas RUN70S  Zapatillas de Deporte para Hombre  Azuosc/Gridos 000  40 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J68BFP4/?tag=tolees-21'
+descuento: '54.38'
+titulo: 'adidas RUN70S  Zapatillas de Deporte par'
 ---
 
 Está [adidas RUN70S  Zapatillas de Deporte para Hombre  Azuosc/Gridos 000  40 2/3 EU](https://www.amazon.es/dp/B07J68BFP4/?tag=tolees-21) con 54.38 de descuento por 31.91 EUR (original: 69.95 EUR) en el siguiente enlace!

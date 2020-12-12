@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Volcom Crisp Stone BSC SS Camiseta  Hombre  Negro  Dark Kelly   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQZCHYS/?tag=tolees-21'
+descuento: '54.57'
+titulo: 'Volcom Crisp Stone BSC SS Camiseta  Homb'
 ---
 
 Está [Volcom Crisp Stone BSC SS Camiseta  Hombre  Negro  Dark Kelly   XL](https://www.amazon.es/dp/B07DQZCHYS/?tag=tolees-21) con 54.57 de descuento por 13.63 EUR (original: 30 EUR) en el siguiente enlace!

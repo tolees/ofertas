@@ -17,6 +17,9 @@ comparePrice: 8.76 EUR
 inStock: true
 prodname: 'Luminarc Pure Box Active - Recipiente hermético de vidrio  redondo  tamaño 0 67 litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JM6KM4C/?tag=tolees-21'
+descuento: '46.12'
+titulo: 'Luminarc Pure Box Active - Recipiente he'
 ---
 
 Está [Luminarc Pure Box Active - Recipiente hermético de vidrio  redondo  tamaño 0 67 litros](https://www.amazon.es/dp/B00JM6KM4C/?tag=tolees-21) con 46.12 de descuento por 4.72 EUR (original: 8.76 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: '3ª equipación Réplica - Real Betis Balompié  2018/2019 - Kappa Kombat Replica Third - Niño 6 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HSCJVK2/?tag=tolees-21'
+descuento: '31.65'
+titulo: '3ª equipación Réplica - Real Betis Balom'
 ---
 
 Tienes [3ª equipación Réplica - Real Betis Balompié  2018/2019 - Kappa Kombat Replica Third - Niño 6 años](https://www.amazon.es/dp/B07HSCJVK2/?tag=tolees-21) con un 31.65 % de descuento con precio de oferta de 41.01 EUR (original: 60 EUR) en el siguiente enlace!

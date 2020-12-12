@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Fitbit Flex 2 - Brazalete para Fitbit Flex 2 de acero inoxidable pulido  talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KH2MDA0/?tag=tolees-21'
+descuento: '56.64'
+titulo: 'Fitbit Flex 2 - Brazalete para Fitbit Fl'
 ---
 
 Tienes [Fitbit Flex 2 - Brazalete para Fitbit Flex 2 de acero inoxidable pulido  talla L](https://www.amazon.es/dp/B01KH2MDA0/?tag=tolees-21) con un 56.64 % de descuento con precio de oferta de 39 EUR (original: 89.95 EUR) en el siguiente enlace!

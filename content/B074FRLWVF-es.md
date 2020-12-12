@@ -17,6 +17,9 @@ comparePrice: 57.99 EUR
 inStock: true
 prodname: 'Eshow Bolso Bandolera Hombre a Hombro de Tela de Lona para Hombres  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074FRLWVF/?tag=tolees-21'
+descuento: '68.98'
+titulo: 'Eshow Bolso Bandolera Hombre a Hombro de'
 ---
 
 Ahora mismo tienes [Eshow Bolso Bandolera Hombre a Hombro de Tela de Lona para Hombres  Negro ](https://www.amazon.es/dp/B074FRLWVF/?tag=tolees-21) a 17.99 EUR (original: 57.99 EUR) (68.98 %  de descuento) en el siguiente enlace!

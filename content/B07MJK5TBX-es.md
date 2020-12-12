@@ -17,6 +17,9 @@ comparePrice: 40.96 EUR
 inStock: true
 prodname: 'Pablosky 462500 - Sandalias para Niñas  Blanco  32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MJK5TBX/?tag=tolees-21'
+descuento: '25.78'
+titulo: 'Pablosky 462500 - Sandalias para Niñas  '
 ---
 
 Tienes [Pablosky 462500 - Sandalias para Niñas  Blanco  32 EU](https://www.amazon.es/dp/B07MJK5TBX/?tag=tolees-21) con un 25.78 % de descuento con precio de oferta de 30.4 EUR (original: 40.96 EUR) en el siguiente enlace!

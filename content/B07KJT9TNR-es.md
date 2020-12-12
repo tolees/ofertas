@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Quiksilver Art Tickle Camiseta  Hombre  Azul  Stone Wash   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJT9TNR/?tag=tolees-21'
+descuento: '46.33'
+titulo: 'Quiksilver Art Tickle Camiseta  Hombre  '
 ---
 
 Está [Quiksilver Art Tickle Camiseta  Hombre  Azul  Stone Wash   L](https://www.amazon.es/dp/B07KJT9TNR/?tag=tolees-21) con 46.33 de descuento por 13.95 EUR (original: 25.99 EUR) en el siguiente enlace!

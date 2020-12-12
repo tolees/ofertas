@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Puma Modern Sports FoldUp Leggins  Mujer  Verde  Ponderosa Pine   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHL4KCH/?tag=tolees-21'
+descuento: '42.27'
+titulo: 'Puma Modern Sports FoldUp Leggins  Mujer'
 ---
 
 Ahora mismo tienes [Puma Modern Sports FoldUp Leggins  Mujer  Verde  Ponderosa Pine   M](https://www.amazon.es/dp/B07JHL4KCH/?tag=tolees-21) a 25.95 EUR (original: 44.95 EUR) (42.27 %  de descuento) en el siguiente enlace!

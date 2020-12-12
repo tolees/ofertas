@@ -17,6 +17,9 @@ comparePrice: 6.99 EUR
 inStock: true
 prodname: 'Vernel Suprême Perfume Pearls potenciador de perfume para la ropa Fresh Joy - 260 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WXBNQQ/?tag=tolees-21'
+descuento: '52.07'
+titulo: 'Vernel Suprême Perfume Pearls potenciado'
 ---
 
 Tienes [Vernel Suprême Perfume Pearls potenciador de perfume para la ropa Fresh Joy - 260 gr](https://www.amazon.es/dp/B078WXBNQQ/?tag=tolees-21) con un 52.07 % de descuento con precio de oferta de 3.35 EUR (original: 6.99 EUR) en el siguiente enlace!

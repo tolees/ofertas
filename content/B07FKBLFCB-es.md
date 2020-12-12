@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Nike W NP SPRT DSTRT TGHT Pants  Mujer  Black/Anthracite/White  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKBLFCB/?tag=tolees-21'
+descuento: '30.06'
+titulo: 'Nike W NP SPRT DSTRT TGHT Pants  Mujer  '
 ---
 
 Está [Nike W NP SPRT DSTRT TGHT Pants  Mujer  Black/Anthracite/White  M](https://www.amazon.es/dp/B07FKBLFCB/?tag=tolees-21) con 30.06 de descuento por 34.97 EUR (original: 50 EUR) en el siguiente enlace!

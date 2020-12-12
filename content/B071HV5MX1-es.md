@@ -17,6 +17,9 @@ comparePrice: 55.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 26213  Botas para Mujer  Amarillo  Corn Antic Com   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071HV5MX1/?tag=tolees-21'
+descuento: '81.73'
+titulo: 'Marco Tozzi 26213  Botas para Mujer  Ama'
 ---
 
 Ahora mismo tienes [Marco Tozzi 26213  Botas para Mujer  Amarillo  Corn Antic Com   38 EU](https://www.amazon.es/dp/B071HV5MX1/?tag=tolees-21) a 10.22 EUR (original: 55.95 EUR) (81.73 %  de descuento) en el siguiente enlace!

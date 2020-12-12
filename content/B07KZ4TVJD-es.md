@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel C2Bcc Estructura Azul T-S  Camisa Casual para Hombre   Gama 12   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ4TVJD/?tag=tolees-21'
+descuento: '64.01'
+titulo: 'Cortefiel C2Bcc Estructura Azul T-S  Cam'
 ---
 
 Ahora mismo tienes [Cortefiel C2Bcc Estructura Azul T-S  Camisa Casual para Hombre   Gama 12   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KZ4TVJD/?tag=tolees-21) a 17.99 EUR (original: 49.99 EUR) (64.01 %  de descuento) en el siguiente enlace!

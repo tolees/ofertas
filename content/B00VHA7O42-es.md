@@ -17,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Dickies TW357 Sudadera con Capucha  Negro  Black   X-Large  Tamaño del Fabricante:XL  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VHA7O42/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Dickies TW357 Sudadera con Capucha  Negr'
 ---
 
 Está [Dickies TW357 Sudadera con Capucha  Negro  Black   X-Large  Tamaño del Fabricante:XL  para Hombre](https://www.amazon.es/dp/B00VHA7O42/?tag=tolees-21) con 50.00 de descuento por 44.5 EUR (original: 89 EUR) en el siguiente enlace!

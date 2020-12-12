@@ -17,6 +17,9 @@ comparePrice: 230 EUR
 inStock: true
 prodname: 'The North Face Jacket Chaqueta Trevail  Mujer  Negro  TNF Black   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073XY5TWZ/?tag=tolees-21'
+descuento: '41.32'
+titulo: 'The North Face Jacket Chaqueta Trevail  '
 ---
 
 Tienes [The North Face Jacket Chaqueta Trevail  Mujer  Negro  TNF Black   L](https://www.amazon.es/dp/B073XY5TWZ/?tag=tolees-21) con un 41.32 % de descuento con precio de oferta de 134.96 EUR (original: 230 EUR) en el siguiente enlace!

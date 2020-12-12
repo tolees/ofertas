@@ -17,6 +17,9 @@ comparePrice: 55.5 EUR
 inStock: true
 prodname: 'Umbro Greenfield  Zapatillas de Tenis para Hombre  Negro  227 Noir/Mure   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JAXTUZE/?tag=tolees-21'
+descuento: '79.62'
+titulo: 'Umbro Greenfield  Zapatillas de Tenis pa'
 ---
 
 Tienes [Umbro Greenfield  Zapatillas de Tenis para Hombre  Negro  227 Noir/Mure   43 EU](https://www.amazon.es/dp/B00JAXTUZE/?tag=tolees-21) con un 79.62 % de descuento con precio de oferta de 11.31 EUR (original: 55.5 EUR) en el siguiente enlace!

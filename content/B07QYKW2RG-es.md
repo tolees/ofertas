@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Songlela Set de Botellas de Viaje de Silicona  Libre de BPA  Reutilizables y Plegable TSA aprobó la Botella de Viaje a Prueba de Fugas para Champús  Lociones y Artículos de Tocador  4 Pack 37ml #3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QYKW2RG/?tag=tolees-21'
+descuento: '72.52'
+titulo: 'Songlela Set de Botellas de Viaje de Sil'
 ---
 
 Tienes [Songlela Set de Botellas de Viaje de Silicona  Libre de BPA  Reutilizables y Plegable TSA aprobó la Botella de Viaje a Prueba de Fugas para Champús  Lociones y Artículos de Tocador  4 Pack 37ml #3](https://www.amazon.es/dp/B07QYKW2RG/?tag=tolees-21) con un 72.52 % de descuento con precio de oferta de 10.99 EUR (original: 39.99 EUR) en el siguiente enlace!

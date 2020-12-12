@@ -17,6 +17,9 @@ comparePrice: 12 EUR
 inStock: true
 prodname: 'Tescoma 420516 - Pinza cocina  multifunción'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CTMN572/?tag=tolees-21'
+descuento: '37.75'
+titulo: 'Tescoma 420516 - Pinza cocina  multifunc'
 ---
 
 Ahora mismo tienes [Tescoma 420516 - Pinza cocina  multifunción](https://www.amazon.es/dp/B00CTMN572/?tag=tolees-21) a 7.47 EUR (original: 12 EUR) (37.75 %  de descuento) en el siguiente enlace!

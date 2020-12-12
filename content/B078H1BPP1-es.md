@@ -17,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Springfield 6883672  Falda Para Mujer  Marfil  Marfil   34  Tamaño del fabricante: 34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H1BPP1/?tag=tolees-21'
+descuento: '53.17'
+titulo: 'Springfield 6883672  Falda Para Mujer  M'
 ---
 
 Ahora mismo tienes [Springfield 6883672  Falda Para Mujer  Marfil  Marfil   34  Tamaño del fabricante: 34 ](https://www.amazon.es/dp/B078H1BPP1/?tag=tolees-21) a 12.64 EUR (original: 26.99 EUR) (53.17 %  de descuento) en el siguiente enlace!

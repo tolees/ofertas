@@ -17,6 +17,9 @@ comparePrice: 35.89 EUR
 inStock: true
 prodname: 'STTLZMC Polo para Hombre de Manga Corta Casual Trabajar 100% Puro Algodón Slim Camisas Tennis Azul XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CQHBQ7C/?tag=tolees-21'
+descuento: '72.16'
+titulo: 'STTLZMC Polo para Hombre de Manga Corta '
 ---
 
 Ahora mismo tienes [STTLZMC Polo para Hombre de Manga Corta Casual Trabajar 100% Puro Algodón Slim Camisas Tennis Azul XL](https://www.amazon.es/dp/B07CQHBQ7C/?tag=tolees-21) a 9.99 EUR (original: 35.89 EUR) (72.16 %  de descuento) en el siguiente enlace!

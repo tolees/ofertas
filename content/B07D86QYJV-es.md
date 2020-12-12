@@ -17,6 +17,9 @@ comparePrice: 84 EUR
 inStock: true
 prodname: 'Munich BARRU  Zapatillas Unisex Adulto   Verde/Negro 36   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D86QYJV/?tag=tolees-21'
+descuento: '54.26'
+titulo: 'Munich BARRU  Zapatillas Unisex Adulto  '
 ---
 
 Tienes [Munich BARRU  Zapatillas Unisex Adulto   Verde/Negro 36   44 EU](https://www.amazon.es/dp/B07D86QYJV/?tag=tolees-21) con un 54.26 % de descuento con precio de oferta de 38.42 EUR (original: 84 EUR) en el siguiente enlace!

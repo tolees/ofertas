@@ -17,6 +17,9 @@ comparePrice: 3299 EUR
 inStock: true
 prodname: 'Petsure Cama para Perros Medianos 80x60x15cm M  Negro - Sofá Súper Acogedor y Cómodo para Perros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MT4GWGR/?tag=tolees-21'
+descuento: '99.15'
+titulo: 'Petsure Cama para Perros Medianos 80x60x'
 ---
 
 Ahora mismo tienes [Petsure Cama para Perros Medianos 80x60x15cm M  Negro - Sofá Súper Acogedor y Cómodo para Perros](https://www.amazon.es/dp/B07MT4GWGR/?tag=tolees-21) a 27.99 EUR (original: 3299 EUR) (99.15 %  de descuento) en el siguiente enlace!

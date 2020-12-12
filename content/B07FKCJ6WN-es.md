@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Nike Gym Club Bolso de Mano  Unisex Adulto  Gris  Grey   23x30x56 centímetros  B x H x T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKCJ6WN/?tag=tolees-21'
+descuento: '25.14'
+titulo: 'Nike Gym Club Bolso de Mano  Unisex Adul'
 ---
 
 Está [Nike Gym Club Bolso de Mano  Unisex Adulto  Gris  Grey   23x30x56 centímetros  B x H x T ](https://www.amazon.es/dp/B07FKCJ6WN/?tag=tolees-21) con 25.14 de descuento por 22.45 EUR (original: 29.99 EUR) en el siguiente enlace!

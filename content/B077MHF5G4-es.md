@@ -17,6 +17,9 @@ comparePrice: 19.65 EUR
 inStock: true
 prodname: 'CamelBak Chute Mag Universal Replacement Cap  Black'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MHF5G4/?tag=tolees-21'
+descuento: '82.09'
+titulo: 'CamelBak Chute Mag Universal Replacement'
 ---
 
 Ahora mismo tienes [CamelBak Chute Mag Universal Replacement Cap  Black](https://www.amazon.es/dp/B077MHF5G4/?tag=tolees-21) a 3.52 EUR (original: 19.65 EUR) (82.09 %  de descuento) en el siguiente enlace!

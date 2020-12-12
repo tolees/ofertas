@@ -17,6 +17,9 @@ comparePrice: 34.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger LS tee Logo  Top de Pijama para Hombre  Rosa  Pomegranate 696   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D8YB1HW/?tag=tolees-21'
+descuento: '55.24'
+titulo: 'Tommy Hilfiger LS tee Logo  Top de Pijam'
 ---
 
 Está [Tommy Hilfiger LS tee Logo  Top de Pijama para Hombre  Rosa  Pomegranate 696   Medium](https://www.amazon.es/dp/B07D8YB1HW/?tag=tolees-21) con 55.24 de descuento por 15.62 EUR (original: 34.9 EUR) en el siguiente enlace!

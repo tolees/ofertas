@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Uprise Mesh  Zapatillas Unisex Adults’o  Azul  Peacoat White   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ5HZCH/?tag=tolees-21'
+descuento: '66.11'
+titulo: 'Puma Uprise Mesh  Zapatillas Unisex Adul'
 ---
 
 Tienes [Puma Uprise Mesh  Zapatillas Unisex Adults’o  Azul  Peacoat White   44.5 EU](https://www.amazon.es/dp/B07CZ5HZCH/?tag=tolees-21) con un 66.11 % de descuento con precio de oferta de 30.48 EUR (original: 89.95 EUR) en el siguiente enlace!

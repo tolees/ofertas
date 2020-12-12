@@ -17,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Pocket POP! Keychain - DC: Superman'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01F75UIRW/?tag=tolees-21'
+descuento: '66.76'
+titulo: 'Pocket POP! Keychain - DC: Superman'
 ---
 
 Está [Pocket POP! Keychain - DC: Superman](https://www.amazon.es/dp/B01F75UIRW/?tag=tolees-21) con 66.76 de descuento por 4.65 EUR (original: 13.99 EUR) en el siguiente enlace!

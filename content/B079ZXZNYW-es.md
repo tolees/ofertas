@@ -17,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Skechers Flex Appeal 3.0-Finest Hour  Zapatillas sin Cordones para Mujer  Negro  Black BBK  36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079ZXZNYW/?tag=tolees-21'
+descuento: '57.81'
+titulo: 'Skechers Flex Appeal 3.0-Finest Hour  Za'
 ---
 
 Está [Skechers Flex Appeal 3.0-Finest Hour  Zapatillas sin Cordones para Mujer  Negro  Black BBK  36.5 EU](https://www.amazon.es/dp/B079ZXZNYW/?tag=tolees-21) con 57.81 de descuento por 29.51 EUR (original: 69.95 EUR) en el siguiente enlace!

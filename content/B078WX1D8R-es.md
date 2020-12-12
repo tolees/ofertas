@@ -17,6 +17,9 @@ comparePrice: 38.04 EUR
 inStock: true
 prodname: 'Reebok Act Enh Grip 32L Mochila  Unisex Adulto  Negro  25 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WX1D8R/?tag=tolees-21'
+descuento: '33.70'
+titulo: 'Reebok Act Enh Grip 32L Mochila  Unisex '
 ---
 
 Tienes [Reebok Act Enh Grip 32L Mochila  Unisex Adulto  Negro  25 cm](https://www.amazon.es/dp/B078WX1D8R/?tag=tolees-21) con un 33.70 % de descuento con precio de oferta de 25.22 EUR (original: 38.04 EUR) en el siguiente enlace!

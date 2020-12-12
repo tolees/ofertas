@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'FIND Blusa Metalizada para Mujer   Plateado  Silber   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071Z3N8CK/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND Blusa Metalizada para Mujer   Plate'
 ---
 
 Está [FIND Blusa Metalizada para Mujer   Plateado  Silber   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B071Z3N8CK/?tag=tolees-21) con 70.00 de descuento por 9 EUR (original: 30 EUR) en el siguiente enlace!

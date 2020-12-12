@@ -17,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Rise  Zapatillas de Running para Hombre  Azul Blue/Black UV  42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BL2XPDS/?tag=tolees-21'
+descuento: '60.83'
+titulo: 'New Balance Fresh Foam Rise  Zapatillas '
 ---
 
 Tienes [New Balance Fresh Foam Rise  Zapatillas de Running para Hombre  Azul Blue/Black UV  42.5 EU](https://www.amazon.es/dp/B07BL2XPDS/?tag=tolees-21) con un 60.83 % de descuento con precio de oferta de 35.25 EUR (original: 90 EUR) en el siguiente enlace!

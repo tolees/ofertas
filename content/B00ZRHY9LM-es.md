@@ -17,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Kingston DataTraveler Micro 3.1 DTMC3/64GB Llave USB 3.1 Ultra Pequeña  Ligera  sin Tapa  Metal'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZRHY9LM/?tag=tolees-21'
+descuento: '64.99'
+titulo: 'Kingston DataTraveler Micro 3.1 DTMC3/64'
 ---
 
 Tienes [Kingston DataTraveler Micro 3.1 DTMC3/64GB Llave USB 3.1 Ultra Pequeña  Ligera  sin Tapa  Metal](https://www.amazon.es/dp/B00ZRHY9LM/?tag=tolees-21) con un 64.99 % de descuento con precio de oferta de 20.99 EUR (original: 59.95 EUR) en el siguiente enlace!

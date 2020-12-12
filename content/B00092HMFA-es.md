@@ -17,6 +17,9 @@ comparePrice: 169 EUR
 inStock: true
 prodname: 'Cross Townsend rodio Bolígrafo - Laca Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00092HMFA/?tag=tolees-21'
+descuento: '63.51'
+titulo: 'Cross Townsend rodio Bolígrafo - Laca Ne'
 ---
 
 Ahora mismo tienes [Cross Townsend rodio Bolígrafo - Laca Negro](https://www.amazon.es/dp/B00092HMFA/?tag=tolees-21) a 61.67 EUR (original: 169 EUR) (63.51 %  de descuento) en el siguiente enlace!

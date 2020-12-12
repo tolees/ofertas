@@ -17,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Osprey Tempest 30 Women s Hiking Pack - Iris Blue  WS/WM '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IQIE02G/?tag=tolees-21'
+descuento: '31.78'
+titulo: 'Osprey Tempest 30 Women s Hiking Pack - '
 ---
 
 Tienes [Osprey Tempest 30 Women s Hiking Pack - Iris Blue  WS/WM ](https://www.amazon.es/dp/B01IQIE02G/?tag=tolees-21) con un 31.78 % de descuento con precio de oferta de 88.68 EUR (original: 130 EUR) en el siguiente enlace!

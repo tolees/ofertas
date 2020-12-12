@@ -17,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Wangel Adhesivo Fuerte Toalleros de Barra 40cm  Pegamento Patentado + Autoadhesivo  Acero Inoxidable  Acabado Pulido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0771HDFMB/?tag=tolees-21'
+descuento: '44.46'
+titulo: 'Wangel Adhesivo Fuerte Toalleros de Barr'
 ---
 
 Tienes [Wangel Adhesivo Fuerte Toalleros de Barra 40cm  Pegamento Patentado + Autoadhesivo  Acero Inoxidable  Acabado Pulido](https://www.amazon.es/dp/B0771HDFMB/?tag=tolees-21) con un 44.46 % de descuento con precio de oferta de 19.99 EUR (original: 35.99 EUR) en el siguiente enlace!

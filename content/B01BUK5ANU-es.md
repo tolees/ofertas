@@ -17,6 +17,9 @@ comparePrice: 46.09 EUR
 inStock: true
 prodname: 'Paranoia Agent - Edición Coleccionista [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BUK5ANU/?tag=tolees-21'
+descuento: '56.63'
+titulo: 'Paranoia Agent - Edición Coleccionista ['
 ---
 
 Tienes [Paranoia Agent - Edición Coleccionista [Blu-ray]](https://www.amazon.es/dp/B01BUK5ANU/?tag=tolees-21) con un 56.63 % de descuento con precio de oferta de 19.99 EUR (original: 46.09 EUR) en el siguiente enlace!

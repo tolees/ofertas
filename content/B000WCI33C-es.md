@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Stanley FatMax Micro Tough - Juego de llave de carraca y puntas de vaso  0 63 cm  17 piezas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000WCI33C/?tag=tolees-21'
+descuento: '32.85'
+titulo: 'Stanley FatMax Micro Tough - Juego de ll'
 ---
 
 Tienes [Stanley FatMax Micro Tough - Juego de llave de carraca y puntas de vaso  0 63 cm  17 piezas ](https://www.amazon.es/dp/B000WCI33C/?tag=tolees-21) con un 32.85 % de descuento con precio de oferta de 33.57 EUR (original: 49.99 EUR) en el siguiente enlace!

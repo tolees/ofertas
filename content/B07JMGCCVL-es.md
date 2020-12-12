@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Bagotte Palo Selfie Tripode  Bluetooth Palo Selfie Movil con Control remoto  Tripode Para Movil iPhone Huawei Xiaomi  Camara y Camara Deportiva'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMGCCVL/?tag=tolees-21'
+descuento: '26.33'
+titulo: 'Bagotte Palo Selfie Tripode  Bluetooth P'
 ---
 
 Está [Bagotte Palo Selfie Tripode  Bluetooth Palo Selfie Movil con Control remoto  Tripode Para Movil iPhone Huawei Xiaomi  Camara y Camara Deportiva](https://www.amazon.es/dp/B07JMGCCVL/?tag=tolees-21) con 26.33 de descuento por 13.99 EUR (original: 18.99 EUR) en el siguiente enlace!

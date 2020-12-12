@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma St Trainer Evo Sd Zapatillas de running Unisex adulto   Negro  black/black   44.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015OCUNYG/?tag=tolees-21'
+descuento: '73.58'
+titulo: 'Puma St Trainer Evo Sd Zapatillas de run'
 ---
 
 Tienes [Puma St Trainer Evo Sd Zapatillas de running Unisex adulto   Negro  black/black   44.5](https://www.amazon.es/dp/B015OCUNYG/?tag=tolees-21) con un 73.58 % de descuento con precio de oferta de 17.16 EUR (original: 64.95 EUR) en el siguiente enlace!

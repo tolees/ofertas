@@ -17,6 +17,9 @@ comparePrice: 119.88 EUR
 inStock: true
 prodname: 'Asics Gt-1000 5  Zapatillas de Deporte para Mujer  Gris  Midgrey/white/diva Pink   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N42TW4W/?tag=tolees-21'
+descuento: '72.33'
+titulo: 'Asics Gt-1000 5  Zapatillas de Deporte p'
 ---
 
 Ahora mismo tienes [Asics Gt-1000 5  Zapatillas de Deporte para Mujer  Gris  Midgrey/white/diva Pink   37 EU](https://www.amazon.es/dp/B01N42TW4W/?tag=tolees-21) a 33.17 EUR (original: 119.88 EUR) (72.33 %  de descuento) en el siguiente enlace!

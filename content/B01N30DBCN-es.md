@@ -17,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Sony MDR-XB510ASB - Auriculares intraurales Extra Bass  diseño Lavable Resistente al Agua IPX5/7  micrófono con Mando Integrado Compatible con Smartphones  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N30DBCN/?tag=tolees-21'
+descuento: '33.88'
+titulo: 'Sony MDR-XB510ASB - Auriculares intraura'
 ---
 
 Está [Sony MDR-XB510ASB - Auriculares intraurales Extra Bass  diseño Lavable Resistente al Agua IPX5/7  micrófono con Mando Integrado Compatible con Smartphones  Color Negro](https://www.amazon.es/dp/B01N30DBCN/?tag=tolees-21) con 33.88 de descuento por 26.45 EUR (original: 40 EUR) en el siguiente enlace!

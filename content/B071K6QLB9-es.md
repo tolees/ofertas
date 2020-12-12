@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Ubisoft - Rabbids Mario Figura  8 Cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071K6QLB9/?tag=tolees-21'
+descuento: '85.21'
+titulo: 'Ubisoft - Rabbids Mario Figura  8 Cm'
 ---
 
 Ahora mismo tienes [Ubisoft - Rabbids Mario Figura  8 Cm](https://www.amazon.es/dp/B071K6QLB9/?tag=tolees-21) a 2.95 EUR (original: 19.95 EUR) (85.21 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'ROBOTIME Laser Cut Puzzle de Madera | Kit de construcción Set Model | Juego de Puzzle en 3D  Waterwheel Coaster '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BFSP8FV/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'ROBOTIME Laser Cut Puzzle de Madera | Ki'
 ---
 
 Tienes [ROBOTIME Laser Cut Puzzle de Madera | Kit de construcción Set Model | Juego de Puzzle en 3D  Waterwheel Coaster ](https://www.amazon.es/dp/B07BFSP8FV/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorxmaspocket tee SS Crew Neck  Camiseta Hombre   Cloud Dancer Cloud Dancer   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQ92L1D/?tag=tolees-21'
+descuento: '70.51'
+titulo: 'JACK & JONES Jorxmaspocket tee SS Crew N'
 ---
 
 Está [JACK & JONES Jorxmaspocket tee SS Crew Neck  Camiseta Hombre   Cloud Dancer Cloud Dancer   X-Large](https://www.amazon.es/dp/B07FQ92L1D/?tag=tolees-21) con 70.51 de descuento por 4.42 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 15.42 EUR
 inStock: true
 prodname: 'Kick Ass: Listo para machacar [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0055KOLL4/?tag=tolees-21'
+descuento: '35.21'
+titulo: 'Kick Ass: Listo para machacar [Blu-ray]'
 ---
 
 Ahora mismo tienes [Kick Ass: Listo para machacar [Blu-ray]](https://www.amazon.es/dp/B0055KOLL4/?tag=tolees-21) a 9.99 EUR (original: 15.42 EUR) (35.21 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma Enzo Nf Mid  Zapatillas de Cross para Hombre  Blanco White-Quarry  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MTN8H9/?tag=tolees-21'
+descuento: '65.27'
+titulo: 'Puma Enzo Nf Mid  Zapatillas de Cross pa'
 ---
 
 Está [Puma Enzo Nf Mid  Zapatillas de Cross para Hombre  Blanco White-Quarry  44.5 EU](https://www.amazon.es/dp/B077MTN8H9/?tag=tolees-21) con 65.27 de descuento por 27.77 EUR (original: 79.95 EUR) en el siguiente enlace!

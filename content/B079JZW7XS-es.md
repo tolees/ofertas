@@ -17,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Napapijri Tame  Suéter para Hombre  Negro  Black 041  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079JZW7XS/?tag=tolees-21'
+descuento: '66.68'
+titulo: 'Napapijri Tame  Suéter para Hombre  Negr'
 ---
 
 Ahora mismo tienes [Napapijri Tame  Suéter para Hombre  Negro  Black 041  X-Large](https://www.amazon.es/dp/B079JZW7XS/?tag=tolees-21) a 39.65 EUR (original: 119 EUR) (66.68 %  de descuento) en el siguiente enlace!

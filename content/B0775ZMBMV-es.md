@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour UA Commit TR X NM  Zapatillas de Deporte para Hombre  Gris  Steel/White   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0775ZMBMV/?tag=tolees-21'
+descuento: '26.88'
+titulo: 'Under Armour UA Commit TR X NM  Zapatill'
 ---
 
 Está [Under Armour UA Commit TR X NM  Zapatillas de Deporte para Hombre  Gris  Steel/White   45 EU](https://www.amazon.es/dp/B0775ZMBMV/?tag=tolees-21) con 26.88 de descuento por 58.5 EUR (original: 80 EUR) en el siguiente enlace!

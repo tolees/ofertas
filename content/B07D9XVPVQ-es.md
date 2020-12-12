@@ -17,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Dremel 7020-PGK - Manicura para mascotas  4x limas  en caja de cartón '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9XVPVQ/?tag=tolees-21'
+descuento: '30.19'
+titulo: 'Dremel 7020-PGK - Manicura para mascotas'
 ---
 
 Está [Dremel 7020-PGK - Manicura para mascotas  4x limas  en caja de cartón ](https://www.amazon.es/dp/B07D9XVPVQ/?tag=tolees-21) con 30.19 de descuento por 34.9 EUR (original: 49.99 EUR) en el siguiente enlace!

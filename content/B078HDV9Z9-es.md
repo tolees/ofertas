@@ -17,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield Sudadera Flor Posicionada  Mujer   Azul Marino   X-Small  Tamaño del Fabricante:XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HDV9Z9/?tag=tolees-21'
+descuento: '57.46'
+titulo: 'Springfield Sudadera Flor Posicionada  M'
 ---
 
 Tienes [Springfield Sudadera Flor Posicionada  Mujer   Azul Marino   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B078HDV9Z9/?tag=tolees-21) con un 57.46 % de descuento con precio de oferta de 10.63 EUR (original: 24.99 EUR) en el siguiente enlace!

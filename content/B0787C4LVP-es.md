@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Columbia MARAGAL Slip WP  Botas de Nieve para Mujer  Marrón  Elk  Ancient Fossil   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0787C4LVP/?tag=tolees-21'
+descuento: '71.84'
+titulo: 'Columbia MARAGAL Slip WP  Botas de Nieve'
 ---
 
 Ahora mismo tienes [Columbia MARAGAL Slip WP  Botas de Nieve para Mujer  Marrón  Elk  Ancient Fossil   41 EU](https://www.amazon.es/dp/B0787C4LVP/?tag=tolees-21) a 33.79 EUR (original: 119.99 EUR) (71.84 %  de descuento) en el siguiente enlace!

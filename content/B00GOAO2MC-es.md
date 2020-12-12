@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Under Armour Rival Fitted Full Zip Sudadera  Hombre  Negro Black/Graphite 001  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GOAO2MC/?tag=tolees-21'
+descuento: '28.42'
+titulo: 'Under Armour Rival Fitted Full Zip Sudad'
 ---
 
 Ahora mismo tienes [Under Armour Rival Fitted Full Zip Sudadera  Hombre  Negro Black/Graphite 001  XXL](https://www.amazon.es/dp/B00GOAO2MC/?tag=tolees-21) a 39.37 EUR (original: 55 EUR) (28.42 %  de descuento) en el siguiente enlace!

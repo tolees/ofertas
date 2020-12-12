@@ -17,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'NIVEA MEN Estuche de regalo 2 productos en un pack para hombre con colonia masculina y desodorante en spray  caja de regalo con una fragancia exclusiva'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YDHXV4/?tag=tolees-21'
+descuento: '38.33'
+titulo: 'NIVEA MEN Estuche de regalo 2 productos '
 ---
 
 Tienes [NIVEA MEN Estuche de regalo 2 productos en un pack para hombre con colonia masculina y desodorante en spray  caja de regalo con una fragancia exclusiva](https://www.amazon.es/dp/B077YDHXV4/?tag=tolees-21) con un 38.33 % de descuento con precio de oferta de 9.25 EUR (original: 15 EUR) en el siguiente enlace!

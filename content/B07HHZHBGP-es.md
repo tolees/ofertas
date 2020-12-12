@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Taladro Atornillador  TECCPO Professional Taladro Inalambrico  27 Accesorios  2 Baterias 2.0Ah  27Nm Par Maximo  10mm Mandril  Ajuste de Par 20+1  1 Horas de Carga Rapida  Luz LED - TDCD02P'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HHZHBGP/?tag=tolees-21'
+descuento: '75.17'
+titulo: 'Taladro Atornillador  TECCPO Professiona'
 ---
 
 Está [Taladro Atornillador  TECCPO Professional Taladro Inalambrico  27 Accesorios  2 Baterias 2.0Ah  27Nm Par Maximo  10mm Mandril  Ajuste de Par 20+1  1 Horas de Carga Rapida  Luz LED - TDCD02P](https://www.amazon.es/dp/B07HHZHBGP/?tag=tolees-21) con 75.17 de descuento por 29.79 EUR (original: 119.99 EUR) en el siguiente enlace!

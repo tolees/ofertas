@@ -17,6 +17,9 @@ comparePrice: 609.99 EUR
 inStock: true
 prodname: 'Ommani Calefactor  Cerámica Calefactor PTC 950 W Calienta en 2 Segundos  con Doble Protección Frente al Calentamiento  Calefactor de Bajo Consumo  Oscilación Máxima de 90°  para Oficina y Hogar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRXVMK2/?tag=tolees-21'
+descuento: '94.10'
+titulo: 'Ommani Calefactor  Cerámica Calefactor P'
 ---
 
 Tienes [Ommani Calefactor  Cerámica Calefactor PTC 950 W Calienta en 2 Segundos  con Doble Protección Frente al Calentamiento  Calefactor de Bajo Consumo  Oscilación Máxima de 90°  para Oficina y Hogar](https://www.amazon.es/dp/B07KRXVMK2/?tag=tolees-21) con un 94.10 % de descuento con precio de oferta de 35.99 EUR (original: 609.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'fawova Gafas Running Hombre con Aluminio Ultraligero  Gafas Sol Deportivas Polarizadas con Espejo Azul para Conducir Ciclismo  UV400  Cat.3 70mm  Negro  70 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2WN5BJ/?tag=tolees-21'
+descuento: '36.73'
+titulo: 'fawova Gafas Running Hombre con Aluminio'
 ---
 
 Ahora mismo tienes [fawova Gafas Running Hombre con Aluminio Ultraligero  Gafas Sol Deportivas Polarizadas con Espejo Azul para Conducir Ciclismo  UV400  Cat.3 70mm  Negro  70 ](https://www.amazon.es/dp/B07H2WN5BJ/?tag=tolees-21) a 18.98 EUR (original: 30 EUR) (36.73 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Under Armour UA Boxed Sportstyle SS Camiseta  Hombre  Rojo  Red/Steel 600   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078BJTPN6/?tag=tolees-21'
+descuento: '55.94'
+titulo: 'Under Armour UA Boxed Sportstyle SS Cami'
 ---
 
 Tienes [Under Armour UA Boxed Sportstyle SS Camiseta  Hombre  Rojo  Red/Steel 600   XXL](https://www.amazon.es/dp/B078BJTPN6/?tag=tolees-21) con un 55.94 % de descuento con precio de oferta de 11.45 EUR (original: 25.99 EUR) en el siguiente enlace!

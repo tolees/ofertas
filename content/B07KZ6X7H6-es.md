@@ -17,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Cortefiel C1Bcc Canutillo Coolmax Pantalones Deportivos  Hombre  Azul  Gama Azules 12   46  Tamaño del Fabricante:46 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ6X7H6/?tag=tolees-21'
+descuento: '64.68'
+titulo: 'Cortefiel C1Bcc Canutillo Coolmax Pantal'
 ---
 
 Ahora mismo tienes [Cortefiel C1Bcc Canutillo Coolmax Pantalones Deportivos  Hombre  Azul  Gama Azules 12   46  Tamaño del Fabricante:46 ](https://www.amazon.es/dp/B07KZ6X7H6/?tag=tolees-21) a 21.19 EUR (original: 59.99 EUR) (64.68 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Asics Aaron  Zapatillas para Hombre  Gris  Midgrey/Blue Heaven    Talla 41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7NF22B/?tag=tolees-21'
+descuento: '56.71'
+titulo: 'Asics Aaron  Zapatillas para Hombre  Gri'
 ---
 
 Tienes [Asics Aaron  Zapatillas para Hombre  Gris  Midgrey/Blue Heaven    Talla 41.5 EU](https://www.amazon.es/dp/B01N7NF22B/?tag=tolees-21) con un 56.71 % de descuento con precio de oferta de 30.3 EUR (original: 70 EUR) en el siguiente enlace!

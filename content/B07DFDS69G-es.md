@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Funko – Disney Color Wreck-It-Ralph 2 Color Pop 8   33418 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFDS69G/?tag=tolees-21'
+descuento: '37.62'
+titulo: 'Funko – Disney Color Wreck-It-Ralph 2 Co'
 ---
 
 Está [Funko – Disney Color Wreck-It-Ralph 2 Color Pop 8   33418 ](https://www.amazon.es/dp/B07DFDS69G/?tag=tolees-21) con 37.62 de descuento por 9.95 EUR (original: 15.95 EUR) en el siguiente enlace!

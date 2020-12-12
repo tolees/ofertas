@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'MyGica Geniatech DVB-T2/T USB sintonizador de TV HEVC/H.265/H.264 Full HD Stick Tuner'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0746LMSFN/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'MyGica Geniatech DVB-T2/T USB sintonizad'
 ---
 
 Ahora mismo tienes [MyGica Geniatech DVB-T2/T USB sintonizador de TV HEVC/H.265/H.264 Full HD Stick Tuner](https://www.amazon.es/dp/B0746LMSFN/?tag=tolees-21) a 29.95 EUR (original: 39.95 EUR) (25.03 %  de descuento) en el siguiente enlace!

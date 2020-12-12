@@ -17,6 +17,9 @@ comparePrice: 14.75 EUR
 inStock: true
 prodname: 'Nike Nk Brsla Gmsk Bolsa de Cuerdas  Hombre  Azul  Game Royal/Black/White   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GWLI7LE/?tag=tolees-21'
+descuento: '32.54'
+titulo: 'Nike Nk Brsla Gmsk Bolsa de Cuerdas  Hom'
 ---
 
 Ahora mismo tienes [Nike Nk Brsla Gmsk Bolsa de Cuerdas  Hombre  Azul  Game Royal/Black/White   Talla Única](https://www.amazon.es/dp/B01GWLI7LE/?tag=tolees-21) a 9.95 EUR (original: 14.75 EUR) (32.54 %  de descuento) en el siguiente enlace!

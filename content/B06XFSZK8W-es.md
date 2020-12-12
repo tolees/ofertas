@@ -17,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'LEVIS FOOTWEAR AND ACCESSORIES New Duncan Cinturón  Marrón  Dark Brown   95 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XFSZK8W/?tag=tolees-21'
+descuento: '25.14'
+titulo: 'LEVIS FOOTWEAR AND ACCESSORIES New Dunca'
 ---
 
 Ahora mismo tienes [LEVIS FOOTWEAR AND ACCESSORIES New Duncan Cinturón  Marrón  Dark Brown   95 para Hombre](https://www.amazon.es/dp/B06XFSZK8W/?tag=tolees-21) a 26.2 EUR (original: 35 EUR) (25.14 %  de descuento) en el siguiente enlace!

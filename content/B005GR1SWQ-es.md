@@ -17,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Brother LC1220M - Cartucho de tinta magenta  duración estimada: hasta 300 páginas según ISO/IEC 24711 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005GR1SWQ/?tag=tolees-21'
+descuento: '51.54'
+titulo: 'Brother LC1220M - Cartucho de tinta mage'
 ---
 
 Tienes [Brother LC1220M - Cartucho de tinta magenta  duración estimada: hasta 300 páginas según ISO/IEC 24711 ](https://www.amazon.es/dp/B005GR1SWQ/?tag=tolees-21) con un 51.54 % de descuento con precio de oferta de 5.81 EUR (original: 11.99 EUR) en el siguiente enlace!

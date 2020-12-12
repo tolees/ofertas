@@ -17,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Levi s  ® Graphic Set-In Neck 2 Camiseta Photo Wht'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GF263KJ/?tag=tolees-21'
+descuento: '43.18'
+titulo: 'Levi s  ® Graphic Set-In Neck 2 Camiseta'
 ---
 
 Tienes [Levi s  ® Graphic Set-In Neck 2 Camiseta Photo Wht](https://www.amazon.es/dp/B07GF263KJ/?tag=tolees-21) con un 43.18 % de descuento con precio de oferta de 12.5 EUR (original: 22 EUR) en el siguiente enlace!

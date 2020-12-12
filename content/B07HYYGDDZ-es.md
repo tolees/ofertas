@@ -17,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Nike Flex Experience RN 7  GS   Zapatillas de Deporte para Hombre  Void Force/Diffused Blue 402  38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HYYGDDZ/?tag=tolees-21'
+descuento: '57.24'
+titulo: 'Nike Flex Experience RN 7  GS   Zapatill'
 ---
 
 Está [Nike Flex Experience RN 7  GS   Zapatillas de Deporte para Hombre  Void Force/Diffused Blue 402  38.5 EU](https://www.amazon.es/dp/B07HYYGDDZ/?tag=tolees-21) con 57.24 de descuento por 23.52 EUR (original: 55 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 9.49 EUR
 inStock: true
 prodname: 'KabelDirekt 4m Cable HDMI 4K  compatible con  HDMI 2.0a/b  2.0  1.4a  4K Ultra HD  3D  Full HD 1080p  HDR  ARC High Speed con Ethernet  PS4  XBOX  HDTV   TOP Series'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FK0YGLO/?tag=tolees-21'
+descuento: '48.47'
+titulo: 'KabelDirekt 4m Cable HDMI 4K  compatible'
 ---
 
 Tienes [KabelDirekt 4m Cable HDMI 4K  compatible con  HDMI 2.0a/b  2.0  1.4a  4K Ultra HD  3D  Full HD 1080p  HDR  ARC High Speed con Ethernet  PS4  XBOX  HDTV   TOP Series](https://www.amazon.es/dp/B00FK0YGLO/?tag=tolees-21) con un 48.47 % de descuento con precio de oferta de 4.89 EUR (original: 9.49 EUR) en el siguiente enlace!

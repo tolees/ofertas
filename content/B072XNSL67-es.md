@@ -17,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmbrilliant LS Cowlneck Blouse Boo  suéter Mujer  Azul  Navy Blazer Detail:Melange   38  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072XNSL67/?tag=tolees-21'
+descuento: '66.73'
+titulo: 'Vero Moda Vmbrilliant LS Cowlneck Blouse'
 ---
 
 Está [Vero Moda Vmbrilliant LS Cowlneck Blouse Boo  suéter Mujer  Azul  Navy Blazer Detail:Melange   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B072XNSL67/?tag=tolees-21) con 66.73 de descuento por 11.64 EUR (original: 34.99 EUR) en el siguiente enlace!

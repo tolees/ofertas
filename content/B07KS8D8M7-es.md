@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Hummel HMLMATEO  Hoodies Hombre  Negro  2001   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KS8D8M7/?tag=tolees-21'
+descuento: '58.96'
+titulo: 'Hummel HMLMATEO  Hoodies Hombre  Negro  '
 ---
 
 Tienes [Hummel HMLMATEO  Hoodies Hombre  Negro  2001   L](https://www.amazon.es/dp/B07KS8D8M7/?tag=tolees-21) con un 58.96 % de descuento con precio de oferta de 20.5 EUR (original: 49.95 EUR) en el siguiente enlace!

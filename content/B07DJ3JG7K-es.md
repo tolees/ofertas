@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Geox U Kaven A  Zapatillas para Hombre  Marrón  Browncotto/Cognac C6G6N   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ3JG7K/?tag=tolees-21'
+descuento: '30.79'
+titulo: 'Geox U Kaven A  Zapatillas para Hombre  '
 ---
 
 Ahora mismo tienes [Geox U Kaven A  Zapatillas para Hombre  Marrón  Browncotto/Cognac C6G6N   40 EU](https://www.amazon.es/dp/B07DJ3JG7K/?tag=tolees-21) a 44.95 EUR (original: 64.95 EUR) (30.79 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Diesel S-Gir-ya Sweat-Shirt Capucha  Negro  Black 900   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G457JJH/?tag=tolees-21'
+descuento: '52.58'
+titulo: 'Diesel S-Gir-ya Sweat-Shirt Capucha  Neg'
 ---
 
 Ahora mismo tienes [Diesel S-Gir-ya Sweat-Shirt Capucha  Negro  Black 900   XX-Large para Hombre](https://www.amazon.es/dp/B07G457JJH/?tag=tolees-21) a 46.95 EUR (original: 99 EUR) (52.58 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 70.82 EUR
 inStock: true
 prodname: 'RIOGOO 4pcs-Pack Pesos para Carpas Bolsas Pesadas de Arena Cosida de Grado Industrial para Trabajo Pesado  Pesas de piernas para Pop-up Canopy Carpa Pies Cargados'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PP15ZBL/?tag=tolees-21'
+descuento: '76.01'
+titulo: 'RIOGOO 4pcs-Pack Pesos para Carpas Bolsa'
 ---
 
 Está [RIOGOO 4pcs-Pack Pesos para Carpas Bolsas Pesadas de Arena Cosida de Grado Industrial para Trabajo Pesado  Pesas de piernas para Pop-up Canopy Carpa Pies Cargados](https://www.amazon.es/dp/B07PP15ZBL/?tag=tolees-21) con 76.01 de descuento por 16.99 EUR (original: 70.82 EUR) en el siguiente enlace!

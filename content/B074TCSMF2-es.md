@@ -17,6 +17,9 @@ comparePrice: 68.5 EUR
 inStock: true
 prodname: 'AONIJIE Mochila Hidratación Mochila Ligera 10 L Impermeable para Viajes  Senderismo  Camping，Correr，Caminar，Escalada， Actividades al Aire Libre  para vejiga de agua de 2L   negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074TCSMF2/?tag=tolees-21'
+descuento: '32.92'
+titulo: 'AONIJIE Mochila Hidratación Mochila Lige'
 ---
 
 Está [AONIJIE Mochila Hidratación Mochila Ligera 10 L Impermeable para Viajes  Senderismo  Camping，Correr，Caminar，Escalada， Actividades al Aire Libre  para vejiga de agua de 2L   negro ](https://www.amazon.es/dp/B074TCSMF2/?tag=tolees-21) con 32.92 de descuento por 45.95 EUR (original: 68.5 EUR) en el siguiente enlace!

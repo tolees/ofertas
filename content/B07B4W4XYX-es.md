@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Surenhap Máquina de Coser portátil  Mini Costura Profesional de Costura inalámbrica Herramienta Manual portátil - Herramienta de Puntada rápida para Tela  Ropa o Tela para niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4W4XYX/?tag=tolees-21'
+descuento: '53.35'
+titulo: 'Surenhap Máquina de Coser portátil  Mini'
 ---
 
 Tienes [Surenhap Máquina de Coser portátil  Mini Costura Profesional de Costura inalámbrica Herramienta Manual portátil - Herramienta de Puntada rápida para Tela  Ropa o Tela para niños](https://www.amazon.es/dp/B07B4W4XYX/?tag=tolees-21) con un 53.35 % de descuento con precio de oferta de 13.99 EUR (original: 29.99 EUR) en el siguiente enlace!

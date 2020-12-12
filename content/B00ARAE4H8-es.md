@@ -17,6 +17,9 @@ comparePrice: 14.06 EUR
 inStock: true
 prodname: 'BIC Velleda Pocket rotuladores de Pizarra punta media - Azul  Caja de 12 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ARAE4H8/?tag=tolees-21'
+descuento: '35.70'
+titulo: 'BIC Velleda Pocket rotuladores de Pizarr'
 ---
 
 Tienes [BIC Velleda Pocket rotuladores de Pizarra punta media - Azul  Caja de 12 unidades](https://www.amazon.es/dp/B00ARAE4H8/?tag=tolees-21) con un 35.70 % de descuento con precio de oferta de 9.04 EUR (original: 14.06 EUR) en el siguiente enlace!

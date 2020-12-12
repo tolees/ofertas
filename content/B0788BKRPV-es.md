@@ -17,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Columbia Bajada III Winter  Zapatillas de Trail Running para Hombre  Azul  Phoenix Blue  Beta 489   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0788BKRPV/?tag=tolees-21'
+descuento: '49.04'
+titulo: 'Columbia Bajada III Winter  Zapatillas d'
 ---
 
 Ahora mismo tienes [Columbia Bajada III Winter  Zapatillas de Trail Running para Hombre  Azul  Phoenix Blue  Beta 489   45 EU](https://www.amazon.es/dp/B0788BKRPV/?tag=tolees-21) a 61.15 EUR (original: 119.99 EUR) (49.04 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'New Balance Strobe V1  Zapatillas de Running para Hombre  Azul  Blue   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FSDZHLK/?tag=tolees-21'
+descuento: '61.01'
+titulo: 'New Balance Strobe V1  Zapatillas de Run'
 ---
 
 Está [New Balance Strobe V1  Zapatillas de Running para Hombre  Azul  Blue   44 EU](https://www.amazon.es/dp/B01FSDZHLK/?tag=tolees-21) con 61.01 de descuento por 42.89 EUR (original: 110 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 167.33 EUR
 inStock: true
 prodname: 'Makita RT0700C - Fresadora eléctrica  710 Watios '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007NZHNX2/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Makita RT0700C - Fresadora eléctrica  71'
 ---
 
 Tienes [Makita RT0700C - Fresadora eléctrica  710 Watios ](https://www.amazon.es/dp/B007NZHNX2/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 111.55 EUR (original: 167.33 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Burton Hilltop Chaqueta de Snowboard  Hombre  Azul  Vallarta Blue   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F87D9ZK/?tag=tolees-21'
+descuento: '73.30'
+titulo: 'Burton Hilltop Chaqueta de Snowboard  Ho'
 ---
 
 Está [Burton Hilltop Chaqueta de Snowboard  Hombre  Azul  Vallarta Blue   S](https://www.amazon.es/dp/B07F87D9ZK/?tag=tolees-21) con 73.30 de descuento por 53.41 EUR (original: 200 EUR) en el siguiente enlace!

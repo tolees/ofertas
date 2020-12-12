@@ -17,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'ENKEEO Patinete Plegable Scooter Kick con Manillar Ajustable  Ruedas Extra-Grande  Sistema de Frenos Inteligente y Seguro  176 lbs/80 kg de Capacidad  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J2SK2SH/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'ENKEEO Patinete Plegable Scooter Kick co'
 ---
 
 Ahora mismo tienes [ENKEEO Patinete Plegable Scooter Kick con Manillar Ajustable  Ruedas Extra-Grande  Sistema de Frenos Inteligente y Seguro  176 lbs/80 kg de Capacidad  Azul](https://www.amazon.es/dp/B07J2SK2SH/?tag=tolees-21) a 39.99 EUR (original: 79.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'LEGO Tallys 701 L/S Camiseta  Niñas  Blanco  Off White   110  Tamaño del Fabricante:110 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0723BT9RD/?tag=tolees-21'
+descuento: '67.12'
+titulo: 'LEGO Tallys 701 L/S Camiseta  Niñas  Bla'
 ---
 
 Tienes [LEGO Tallys 701 L/S Camiseta  Niñas  Blanco  Off White   110  Tamaño del Fabricante:110 ](https://www.amazon.es/dp/B0723BT9RD/?tag=tolees-21) con un 67.12 % de descuento con precio de oferta de 6.56 EUR (original: 19.95 EUR) en el siguiente enlace!

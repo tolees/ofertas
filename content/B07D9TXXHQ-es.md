@@ -17,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Puma Future 2.4 It  Zapatillas de Fútbol para Hombre  Negro Black-Shocking Orange 02  42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9TXXHQ/?tag=tolees-21'
+descuento: '50.12'
+titulo: 'Puma Future 2.4 It  Zapatillas de Fútbol'
 ---
 
 Está [Puma Future 2.4 It  Zapatillas de Fútbol para Hombre  Negro Black-Shocking Orange 02  42.5 EU](https://www.amazon.es/dp/B07D9TXXHQ/?tag=tolees-21) con 50.12 de descuento por 27.41 EUR (original: 54.95 EUR) en el siguiente enlace!

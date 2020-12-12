@@ -17,6 +17,9 @@ comparePrice: 21.1 EUR
 inStock: true
 prodname: 'Crush Vibrador - 100 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VO4CLWQ/?tag=tolees-21'
+descuento: '64.60'
+titulo: 'Crush Vibrador - 100 gr'
 ---
 
 Está [Crush Vibrador - 100 gr](https://www.amazon.es/dp/B00VO4CLWQ/?tag=tolees-21) con 64.60 de descuento por 7.47 EUR (original: 21.1 EUR) en el siguiente enlace!

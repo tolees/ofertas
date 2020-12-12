@@ -17,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'BQ Easy Go - Filamento PLA de 1.75 mm  100% PLA  resistente a la acetona  rápido endurecimiento  color bottle green'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078G9TJD1/?tag=tolees-21'
+descuento: '34.52'
+titulo: 'BQ Easy Go - Filamento PLA de 1.75 mm  1'
 ---
 
 Está [BQ Easy Go - Filamento PLA de 1.75 mm  100% PLA  resistente a la acetona  rápido endurecimiento  color bottle green](https://www.amazon.es/dp/B078G9TJD1/?tag=tolees-21) con 34.52 de descuento por 13.03 EUR (original: 19.9 EUR) en el siguiente enlace!

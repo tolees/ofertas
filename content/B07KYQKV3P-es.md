@@ -17,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcooval tee SS Crew Neck Camiseta  Azul  Maritime Blue Fit:Reg   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYQKV3P/?tag=tolees-21'
+descuento: '51.83'
+titulo: 'JACK & JONES Jcooval tee SS Crew Neck Ca'
 ---
 
 Está [JACK & JONES Jcooval tee SS Crew Neck Camiseta  Azul  Maritime Blue Fit:Reg   Small para Hombre](https://www.amazon.es/dp/B07KYQKV3P/?tag=tolees-21) con 51.83 de descuento por 7.22 EUR (original: 14.99 EUR) en el siguiente enlace!

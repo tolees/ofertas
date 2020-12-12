@@ -17,6 +17,9 @@ comparePrice: 58.48 EUR
 inStock: true
 prodname: 'Colours of California Espadrille EVA Sole Printed Canvas  Alpargatas para Mujer  Azul  Navy   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076CQ2W8V/?tag=tolees-21'
+descuento: '77.67'
+titulo: 'Colours of California Espadrille EVA Sol'
 ---
 
 Ahora mismo tienes [Colours of California Espadrille EVA Sole Printed Canvas  Alpargatas para Mujer  Azul  Navy   37 EU](https://www.amazon.es/dp/B076CQ2W8V/?tag=tolees-21) a 13.06 EUR (original: 58.48 EUR) (77.67 %  de descuento) en el siguiente enlace!

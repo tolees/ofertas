@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'The North Face Quest Pantalón  Mujer  TNF Black  SHT10'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MCY9G87/?tag=tolees-21'
+descuento: '58.18'
+titulo: 'The North Face Quest Pantalón  Mujer  TN'
 ---
 
 Está [The North Face Quest Pantalón  Mujer  TNF Black  SHT10](https://www.amazon.es/dp/B07MCY9G87/?tag=tolees-21) con 58.18 de descuento por 25.09 EUR (original: 60 EUR) en el siguiente enlace!

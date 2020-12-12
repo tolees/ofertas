@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Liga Baselayer Short Tight Pantalones Cortos  Hombre  Amarillo  Cyber Yellow   2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077SHQS5R/?tag=tolees-21'
+descuento: '38.83'
+titulo: 'Puma Liga Baselayer Short Tight Pantalon'
 ---
 
 Está [Puma Liga Baselayer Short Tight Pantalones Cortos  Hombre  Amarillo  Cyber Yellow   2XL](https://www.amazon.es/dp/B077SHQS5R/?tag=tolees-21) con 38.83 de descuento por 18.32 EUR (original: 29.95 EUR) en el siguiente enlace!

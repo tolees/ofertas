@@ -17,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Finether-Centro de Planchado Plancha a Vapor Manual Plancha de Ropa  Suela de Nanocerámica Anti-Escaldadura  con Vapor Extrafino 9 Niveles de Vapor  1.1L  2.8-4.0 Bar  1200-1400W  3 Accesorios  2 en 1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079BNW2GR/?tag=tolees-21'
+descuento: '88.50'
+titulo: 'Finether-Centro de Planchado Plancha a V'
 ---
 
 Tienes [Finether-Centro de Planchado Plancha a Vapor Manual Plancha de Ropa  Suela de Nanocerámica Anti-Escaldadura  con Vapor Extrafino 9 Niveles de Vapor  1.1L  2.8-4.0 Bar  1200-1400W  3 Accesorios  2 en 1](https://www.amazon.es/dp/B079BNW2GR/?tag=tolees-21) con un 88.50 % de descuento con precio de oferta de 22.99 EUR (original: 200 EUR) en el siguiente enlace!

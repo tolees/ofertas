@@ -17,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Deyard Estuche para DJI Mavic Pro Dron y Control Remoto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XGX1YYH/?tag=tolees-21'
+descuento: '31.83'
+titulo: 'Deyard Estuche para DJI Mavic Pro Dron y'
 ---
 
 Está [Deyard Estuche para DJI Mavic Pro Dron y Control Remoto](https://www.amazon.es/dp/B06XGX1YYH/?tag=tolees-21) con 31.83 de descuento por 14.99 EUR (original: 21.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'FIND Botines de Puntera con Cordones para Mujer  Negro  Black   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QS7CYG/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'FIND Botines de Puntera con Cordones par'
 ---
 
 Ahora mismo tienes [FIND Botines de Puntera con Cordones para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B073QS7CYG/?tag=tolees-21) a 55.3 EUR (original: 79 EUR) (30.00 %  de descuento) en el siguiente enlace!

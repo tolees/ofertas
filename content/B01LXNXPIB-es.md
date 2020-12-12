@@ -17,6 +17,9 @@ comparePrice: 53.99 EUR
 inStock: true
 prodname: 'Ruicer Toallero Barra Acero Inoxidable Fijar Sin Taladrar 55cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXNXPIB/?tag=tolees-21'
+descuento: '66.68'
+titulo: 'Ruicer Toallero Barra Acero Inoxidable F'
 ---
 
 Está [Ruicer Toallero Barra Acero Inoxidable Fijar Sin Taladrar 55cm](https://www.amazon.es/dp/B01LXNXPIB/?tag=tolees-21) con 66.68 de descuento por 17.99 EUR (original: 53.99 EUR) en el siguiente enlace!

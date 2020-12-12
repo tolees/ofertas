@@ -17,6 +17,9 @@ comparePrice: 62.24 EUR
 inStock: true
 prodname: 'Adidas VL Court 2.0 B43816  Zapatillas para Hombre  Negro  Black  46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G8WGFJN/?tag=tolees-21'
+descuento: '53.89'
+titulo: 'Adidas VL Court 2.0 B43816  Zapatillas p'
 ---
 
 Tienes [Adidas VL Court 2.0 B43816  Zapatillas para Hombre  Negro  Black  46 EU](https://www.amazon.es/dp/B07G8WGFJN/?tag=tolees-21) con un 53.89 % de descuento con precio de oferta de 28.7 EUR (original: 62.24 EUR) en el siguiente enlace!

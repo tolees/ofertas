@@ -17,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Orinoco Club  Botas Chelsea para Mujer  Marrón  Brown Snuff   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004YOAJNQ/?tag=tolees-21'
+descuento: '66.82'
+titulo: 'Clarks Orinoco Club  Botas Chelsea para '
 ---
 
 Está [Clarks Orinoco Club  Botas Chelsea para Mujer  Marrón  Brown Snuff   42 EU](https://www.amazon.es/dp/B004YOAJNQ/?tag=tolees-21) con 66.82 de descuento por 36.5 EUR (original: 110 EUR) en el siguiente enlace!

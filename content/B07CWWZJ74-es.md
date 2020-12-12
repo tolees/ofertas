@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Puma Nrgy Neko Engineer Knit  Zapatillas de running para Hombre  Negro Black-Iron Gate 1  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CWWZJ74/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Puma Nrgy Neko Engineer Knit  Zapatillas'
 ---
 
 Tienes [Puma Nrgy Neko Engineer Knit  Zapatillas de running para Hombre  Negro Black-Iron Gate 1  44 EU](https://www.amazon.es/dp/B07CWWZJ74/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 39.95 EUR (original: 79.95 EUR) en el siguiente enlace!

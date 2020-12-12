@@ -17,6 +17,9 @@ comparePrice: 20.62 EUR
 inStock: true
 prodname: 'Panasonic Eneloop Níquel Metal hidruro 750mAh - Batería/Pila Recargable  Níquel Metal hidruro  Universal  AAA '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019M0GP6G/?tag=tolees-21'
+descuento: '52.28'
+titulo: 'Panasonic Eneloop Níquel Metal hidruro 7'
 ---
 
 Está [Panasonic Eneloop Níquel Metal hidruro 750mAh - Batería/Pila Recargable  Níquel Metal hidruro  Universal  AAA ](https://www.amazon.es/dp/B019M0GP6G/?tag=tolees-21) con 52.28 de descuento por 9.84 EUR (original: 20.62 EUR) en el siguiente enlace!

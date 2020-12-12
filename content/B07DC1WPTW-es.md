@@ -17,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Zeta Suede  Zapatillas Unisex Adulto  Gris  Glacier Gray-Peacoat   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DC1WPTW/?tag=tolees-21'
+descuento: '74.16'
+titulo: 'Puma Zeta Suede  Zapatillas Unisex Adult'
 ---
 
 Ahora mismo tienes [Puma Zeta Suede  Zapatillas Unisex Adulto  Gris  Glacier Gray-Peacoat   36 EU](https://www.amazon.es/dp/B07DC1WPTW/?tag=tolees-21) a 23.24 EUR (original: 89.95 EUR) (74.16 %  de descuento) en el siguiente enlace!

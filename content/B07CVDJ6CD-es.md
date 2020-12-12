@@ -17,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour Micro G Pursuit Se  Zapatillas de Running para Hombre  Negro  Black 003   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVDJ6CD/?tag=tolees-21'
+descuento: '31.96'
+titulo: 'Under Armour Micro G Pursuit Se  Zapatil'
 ---
 
 Está [Under Armour Micro G Pursuit Se  Zapatillas de Running para Hombre  Negro  Black 003   41 EU](https://www.amazon.es/dp/B07CVDJ6CD/?tag=tolees-21) con 31.96 de descuento por 47.63 EUR (original: 70 EUR) en el siguiente enlace!

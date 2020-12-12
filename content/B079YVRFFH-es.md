@@ -17,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Timberland Perkins Row 2-Strap  Sandalias de Punta Descubierta Unisex niños  Azul  Nebulas Blue   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079YVRFFH/?tag=tolees-21'
+descuento: '64.10'
+titulo: 'Timberland Perkins Row 2-Strap  Sandalia'
 ---
 
 Está [Timberland Perkins Row 2-Strap  Sandalias de Punta Descubierta Unisex niños  Azul  Nebulas Blue   36 EU](https://www.amazon.es/dp/B079YVRFFH/?tag=tolees-21) con 64.10 de descuento por 17.95 EUR (original: 50 EUR) en el siguiente enlace!

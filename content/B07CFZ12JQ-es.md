@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans Sloane Pantalones  Marrón  Toffee 896   W31/L34 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CFZ12JQ/?tag=tolees-21'
+descuento: '61.85'
+titulo: 'Pepe Jeans Sloane Pantalones  Marrón  To'
 ---
 
 Está [Pepe Jeans Sloane Pantalones  Marrón  Toffee 896   W31/L34 para Hombre](https://www.amazon.es/dp/B07CFZ12JQ/?tag=tolees-21) con 61.85 de descuento por 24.8 EUR (original: 65 EUR) en el siguiente enlace!

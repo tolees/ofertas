@@ -17,6 +17,9 @@ comparePrice: 54 EUR
 inStock: true
 prodname: 'Topmo-plus 12w lámpara de pared LED impermeable IP65 moderno apliques aluminio apliques llevó exterior Arriba y Abajo Diseño Bañadore de vestíbulo 1320LM  Blanco frío / blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077VVDQCT/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Topmo-plus 12w lámpara de pared LED impe'
 ---
 
 Ahora mismo tienes [Topmo-plus 12w lámpara de pared LED impermeable IP65 moderno apliques aluminio apliques llevó exterior Arriba y Abajo Diseño Bañadore de vestíbulo 1320LM  Blanco frío / blanco ](https://www.amazon.es/dp/B077VVDQCT/?tag=tolees-21) a 26.99 EUR (original: 54 EUR) (50.02 %  de descuento) en el siguiente enlace!

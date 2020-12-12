@@ -17,6 +17,9 @@ comparePrice: 50.98 EUR
 inStock: true
 prodname: 'KEXIN 4GB Memoria USB 2.0 Pendrive 4GB Flash Drive Memory Stick para Computadoras  Tabletas y Otros Dispositivos [5 Unidades ] Color de Azul Claro  Verde  Amarillo  Rosa  Púrpura'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MRX9SG7/?tag=tolees-21'
+descuento: '49.02'
+titulo: 'KEXIN 4GB Memoria USB 2.0 Pendrive 4GB F'
 ---
 
 Ahora mismo tienes [KEXIN 4GB Memoria USB 2.0 Pendrive 4GB Flash Drive Memory Stick para Computadoras  Tabletas y Otros Dispositivos [5 Unidades ] Color de Azul Claro  Verde  Amarillo  Rosa  Púrpura](https://www.amazon.es/dp/B01MRX9SG7/?tag=tolees-21) a 25.99 EUR (original: 50.98 EUR) (49.02 %  de descuento) en el siguiente enlace!

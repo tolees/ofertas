@@ -17,6 +17,9 @@ comparePrice: 376 EUR
 inStock: true
 prodname: 'BOSS Casual Oriol-d  Chaqueta Hombre  Azul  Dark Blue 404   Large  Talla del Fabricante: 52 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GBDBFX/?tag=tolees-21'
+descuento: '74.18'
+titulo: 'BOSS Casual Oriol-d  Chaqueta Hombre  Az'
 ---
 
 Tienes [BOSS Casual Oriol-d  Chaqueta Hombre  Azul  Dark Blue 404   Large  Talla del Fabricante: 52 ](https://www.amazon.es/dp/B078GBDBFX/?tag=tolees-21) con un 74.18 % de descuento con precio de oferta de 97.09 EUR (original: 376 EUR) en el siguiente enlace!

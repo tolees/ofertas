@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Aster Vi-brador con Función de Ca-lefacción y Mo-tor Dual  Vi-brador de Silicona 21.5cm para Relajar el Cuerpo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DNZJ7DZ/?tag=tolees-21'
+descuento: '65.02'
+titulo: 'Aster Vi-brador con Función de Ca-lefacc'
 ---
 
 Ahora mismo tienes [Aster Vi-brador con Función de Ca-lefacción y Mo-tor Dual  Vi-brador de Silicona 21.5cm para Relajar el Cuerpo](https://www.amazon.es/dp/B07DNZJ7DZ/?tag=tolees-21) a 13.99 EUR (original: 39.99 EUR) (65.02 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 68.99 EUR
 inStock: true
 prodname: 'Lifewit Bolsa de Herramientas Gran Capacidad con Amplia Apertura de Cremallera Impermeable Nylon Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKZWJVV/?tag=tolees-21'
+descuento: '42.04'
+titulo: 'Lifewit Bolsa de Herramientas Gran Capac'
 ---
 
 Está [Lifewit Bolsa de Herramientas Gran Capacidad con Amplia Apertura de Cremallera Impermeable Nylon Negro](https://www.amazon.es/dp/B07FKZWJVV/?tag=tolees-21) con 42.04 de descuento por 39.99 EUR (original: 68.99 EUR) en el siguiente enlace!

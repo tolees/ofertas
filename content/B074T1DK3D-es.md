@@ -17,6 +17,9 @@ comparePrice: 72 EUR
 inStock: true
 prodname: 'Havaianas PARATY/M UZ 22D 50  Gafas de Sol Unisex Adulto  Marrón Ochre/Brown'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074T1DK3D/?tag=tolees-21'
+descuento: '57.40'
+titulo: 'Havaianas PARATY/M UZ 22D 50  Gafas de S'
 ---
 
 Tienes [Havaianas PARATY/M UZ 22D 50  Gafas de Sol Unisex Adulto  Marrón Ochre/Brown](https://www.amazon.es/dp/B074T1DK3D/?tag=tolees-21) con un 57.40 % de descuento con precio de oferta de 30.67 EUR (original: 72 EUR) en el siguiente enlace!

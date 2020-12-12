@@ -17,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Cressi Big Eyes - Gafas de Buceo  Color Transparente/Amarillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000SUDWUW/?tag=tolees-21'
+descuento: '53.82'
+titulo: 'Cressi Big Eyes - Gafas de Buceo  Color '
 ---
 
 Tienes [Cressi Big Eyes - Gafas de Buceo  Color Transparente/Amarillo](https://www.amazon.es/dp/B000SUDWUW/?tag=tolees-21) con un 53.82 % de descuento con precio de oferta de 20.76 EUR (original: 44.95 EUR) en el siguiente enlace!

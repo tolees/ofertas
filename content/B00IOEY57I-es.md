@@ -17,6 +17,9 @@ comparePrice: 67.72 EUR
 inStock: true
 prodname: 'Masterplug OMF25164SL-PX - Enrollacable color Verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IOEY57I/?tag=tolees-21'
+descuento: '48.46'
+titulo: 'Masterplug OMF25164SL-PX - Enrollacable '
 ---
 
 Tienes [Masterplug OMF25164SL-PX - Enrollacable color Verde](https://www.amazon.es/dp/B00IOEY57I/?tag=tolees-21) con un 48.46 % de descuento con precio de oferta de 34.9 EUR (original: 67.72 EUR) en el siguiente enlace!

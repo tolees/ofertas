@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'MODERN LIFE Soporte de Pared Fijo para TV de 15-42" Pulgadas  38-106cm   VESA 50x50-200x200mm  Carga hasta 45kg  para Televisores de Pantalla Plana LED LCD Plasma Curvada  Nivel de Burbujas Incluido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KWSW166/?tag=tolees-21'
+descuento: '42.13'
+titulo: 'MODERN LIFE Soporte de Pared Fijo para T'
 ---
 
 Ahora mismo tienes [MODERN LIFE Soporte de Pared Fijo para TV de 15-42" Pulgadas  38-106cm   VESA 50x50-200x200mm  Carga hasta 45kg  para Televisores de Pantalla Plana LED LCD Plasma Curvada  Nivel de Burbujas Incluido](https://www.amazon.es/dp/B07KWSW166/?tag=tolees-21) a 10.99 EUR (original: 18.99 EUR) (42.13 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 206.83 EUR
 inStock: true
 prodname: 'Final Fantasy XII HD: The Zodiac Age  Edición Collectors'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073WFFMCQ/?tag=tolees-21'
+descuento: '41.99'
+titulo: 'Final Fantasy XII HD: The Zodiac Age  Ed'
 ---
 
 Está [Final Fantasy XII HD: The Zodiac Age  Edición Collectors](https://www.amazon.es/dp/B073WFFMCQ/?tag=tolees-21) con 41.99 de descuento por 119.99 EUR (original: 206.83 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Under Armour SpeedPocket Prntd Run Tight Leggings  Mujer  Negro  001   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074J67WCL/?tag=tolees-21'
+descuento: '51.70'
+titulo: 'Under Armour SpeedPocket Prntd Run Tight'
 ---
 
 Tienes [Under Armour SpeedPocket Prntd Run Tight Leggings  Mujer  Negro  001   S](https://www.amazon.es/dp/B074J67WCL/?tag=tolees-21) con un 51.70 % de descuento con precio de oferta de 48.3 EUR (original: 100 EUR) en el siguiente enlace!

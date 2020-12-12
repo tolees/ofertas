@@ -17,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Pequeña Bolsa de Viaje Bolsa Fin de Semana - Bolsa de Deporte para Mujeres y Hombres - Travel Duffel Bag & Sports Gym Bag  2.0 azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BGW1KFX/?tag=tolees-21'
+descuento: '77.80'
+titulo: 'Pequeña Bolsa de Viaje Bolsa Fin de Sema'
 ---
 
 Ahora mismo tienes [Pequeña Bolsa de Viaje Bolsa Fin de Semana - Bolsa de Deporte para Mujeres y Hombres - Travel Duffel Bag & Sports Gym Bag  2.0 azul ](https://www.amazon.es/dp/B07BGW1KFX/?tag=tolees-21) a 9.99 EUR (original: 45 EUR) (77.80 %  de descuento) en el siguiente enlace!

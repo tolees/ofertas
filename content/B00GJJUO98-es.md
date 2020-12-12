@@ -17,6 +17,9 @@ comparePrice: 18.55 EUR
 inStock: true
 prodname: 'La Cabaña En El Bosque [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GJJUO98/?tag=tolees-21'
+descuento: '51.54'
+titulo: 'La Cabaña En El Bosque [Blu-ray]'
 ---
 
 Ahora mismo tienes [La Cabaña En El Bosque [Blu-ray]](https://www.amazon.es/dp/B00GJJUO98/?tag=tolees-21) a 8.99 EUR (original: 18.55 EUR) (51.54 %  de descuento) en el siguiente enlace!

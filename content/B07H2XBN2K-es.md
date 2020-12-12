@@ -17,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Hoidokly Cargador Inalámbrico Rápido Qi  10W Fast Wireless Charger para iPhone XS/XS MAX/XR/X/8 /8Plus  Samsung Galaxy S9 /S8 /S7/S6/S6 Edge/Note 8/ Note 9'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2XBN2K/?tag=tolees-21'
+descuento: '61.62'
+titulo: 'Hoidokly Cargador Inalámbrico Rápido Qi '
 ---
 
 Ahora mismo tienes [Hoidokly Cargador Inalámbrico Rápido Qi  10W Fast Wireless Charger para iPhone XS/XS MAX/XR/X/8 /8Plus  Samsung Galaxy S9 /S8 /S7/S6/S6 Edge/Note 8/ Note 9](https://www.amazon.es/dp/B07H2XBN2K/?tag=tolees-21) a 11.51 EUR (original: 29.99 EUR) (61.62 %  de descuento) en el siguiente enlace!

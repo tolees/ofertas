@@ -17,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'New Balance ML373  Zapatillas para Hombre  Rojo  Burgundy/Silver   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXQ1QO1/?tag=tolees-21'
+descuento: '45.06'
+titulo: 'New Balance ML373  Zapatillas para Hombr'
 ---
 
 Tienes [New Balance ML373  Zapatillas para Hombre  Rojo  Burgundy/Silver   44 EU](https://www.amazon.es/dp/B01MXQ1QO1/?tag=tolees-21) con un 45.06 % de descuento con precio de oferta de 43.95 EUR (original: 80 EUR) en el siguiente enlace!

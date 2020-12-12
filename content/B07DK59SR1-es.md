@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Geox JR Sandal Strada A  Sandalias con Punta Abierta para Niños  Blue  Navy/Grey C0661   34 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK59SR1/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Geox JR Sandal Strada A  Sandalias con P'
 ---
 
 Está [Geox JR Sandal Strada A  Sandalias con Punta Abierta para Niños  Blue  Navy/Grey C0661   34 EU](https://www.amazon.es/dp/B07DK59SR1/?tag=tolees-21) con 50.00 de descuento por 29.95 EUR (original: 59.9 EUR) en el siguiente enlace!

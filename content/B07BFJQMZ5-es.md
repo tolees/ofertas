@@ -17,6 +17,9 @@ comparePrice: 31.08 EUR
 inStock: true
 prodname: 'Golden Organic Gelatina Vegetal Ecológica de Piña con Trozos - Paquete de 12 x 240 gr - Total: 2880 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BFJQMZ5/?tag=tolees-21'
+descuento: '40.77'
+titulo: 'Golden Organic Gelatina Vegetal Ecológic'
 ---
 
 Tienes [Golden Organic Gelatina Vegetal Ecológica de Piña con Trozos - Paquete de 12 x 240 gr - Total: 2880 gr](https://www.amazon.es/dp/B07BFJQMZ5/?tag=tolees-21) con un 40.77 % de descuento con precio de oferta de 18.41 EUR (original: 31.08 EUR) en el siguiente enlace!

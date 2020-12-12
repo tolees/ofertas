@@ -17,6 +17,9 @@ comparePrice: 18.8 EUR
 inStock: true
 prodname: 'Malditos Vecinos [DVD]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KAZXMG4/?tag=tolees-21'
+descuento: '64.89'
+titulo: 'Malditos Vecinos [DVD]'
 ---
 
 Está [Malditos Vecinos [DVD]](https://www.amazon.es/dp/B00KAZXMG4/?tag=tolees-21) con 64.89 de descuento por 6.6 EUR (original: 18.8 EUR) en el siguiente enlace!

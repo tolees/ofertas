@@ -17,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'WINGLESCOUT Electroestimulador Muscular  Cinturon Abdominal Electroestimulador Abdominales/Brazo/Piernas/Cintura Entrenador Muscular para Hombre Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FB16RN5/?tag=tolees-21'
+descuento: '45.01'
+titulo: 'WINGLESCOUT Electroestimulador Muscular '
 ---
 
 Está [WINGLESCOUT Electroestimulador Muscular  Cinturon Abdominal Electroestimulador Abdominales/Brazo/Piernas/Cintura Entrenador Muscular para Hombre Mujer](https://www.amazon.es/dp/B07FB16RN5/?tag=tolees-21) con 45.01 de descuento por 21.99 EUR (original: 39.99 EUR) en el siguiente enlace!

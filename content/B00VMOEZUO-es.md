@@ -17,6 +17,9 @@ comparePrice: 19.93 EUR
 inStock: true
 prodname: 'Jako Striker KA - Camiseta de fútbol Negro/Blanco Talla:Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VMOEZUO/?tag=tolees-21'
+descuento: '49.82'
+titulo: 'Jako Striker KA - Camiseta de fútbol Neg'
 ---
 
 Tienes [Jako Striker KA - Camiseta de fútbol Negro/Blanco Talla:Large](https://www.amazon.es/dp/B00VMOEZUO/?tag=tolees-21) con un 49.82 % de descuento con precio de oferta de 10 EUR (original: 19.93 EUR) en el siguiente enlace!

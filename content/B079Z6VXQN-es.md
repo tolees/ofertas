@@ -17,6 +17,9 @@ comparePrice: 18.22 EUR
 inStock: true
 prodname: 'Chicco 09006469000000-030  Camiseta Unisex bebé  Blanco  Naturale 030  68 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079Z6VXQN/?tag=tolees-21'
+descuento: '72.50'
+titulo: 'Chicco 09006469000000-030  Camiseta Unis'
 ---
 
 Está [Chicco 09006469000000-030  Camiseta Unisex bebé  Blanco  Naturale 030  68 cm](https://www.amazon.es/dp/B079Z6VXQN/?tag=tolees-21) con 72.50 de descuento por 5.01 EUR (original: 18.22 EUR) en el siguiente enlace!

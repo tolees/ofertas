@@ -17,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'McHaus MAA0500G Árbol Rascador para Gatos con Plataforma y Bola de Juego 50cm de Altura'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079X3BWHZ/?tag=tolees-21'
+descuento: '61.56'
+titulo: 'McHaus MAA0500G Árbol Rascador para Gato'
 ---
 
 Está [McHaus MAA0500G Árbol Rascador para Gatos con Plataforma y Bola de Juego 50cm de Altura](https://www.amazon.es/dp/B079X3BWHZ/?tag=tolees-21) con 61.56 de descuento por 14.99 EUR (original: 39 EUR) en el siguiente enlace!

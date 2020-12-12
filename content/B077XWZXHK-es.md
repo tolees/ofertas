@@ -17,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Superga 2750-COTJSTRAP Classic  Zapatillas Unisex Niños  Rosa  Pink Peach X7Z   EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XWZXHK/?tag=tolees-21'
+descuento: '58.96'
+titulo: 'Superga 2750-COTJSTRAP Classic  Zapatill'
 ---
 
 Ahora mismo tienes [Superga 2750-COTJSTRAP Classic  Zapatillas Unisex Niños  Rosa  Pink Peach X7Z   EU](https://www.amazon.es/dp/B077XWZXHK/?tag=tolees-21) a 20.11 EUR (original: 49 EUR) (58.96 %  de descuento) en el siguiente enlace!

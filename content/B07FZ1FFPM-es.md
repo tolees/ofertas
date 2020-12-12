@@ -17,6 +17,9 @@ comparePrice: 41.2 EUR
 inStock: true
 prodname: 'Reebok Reebok Royal Cljog 2 Kc Zapatillas de deporte Infantil  Multicolor  Moose/Dark Brown/Sahara/Cream 000   25 EU  8 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FZ1FFPM/?tag=tolees-21'
+descuento: '36.89'
+titulo: 'Reebok Reebok Royal Cljog 2 Kc Zapatilla'
 ---
 
 Ahora mismo tienes [Reebok Reebok Royal Cljog 2 Kc Zapatillas de deporte Infantil  Multicolor  Moose/Dark Brown/Sahara/Cream 000   25 EU  8 UK ](https://www.amazon.es/dp/B07FZ1FFPM/?tag=tolees-21) a 26 EUR (original: 41.2 EUR) (36.89 %  de descuento) en el siguiente enlace!

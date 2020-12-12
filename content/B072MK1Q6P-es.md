@@ -17,6 +17,9 @@ comparePrice: 21.6 EUR
 inStock: true
 prodname: 'TRESemmé Acondicionador Liso Keratina  675 ml - Paquete de 4'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072MK1Q6P/?tag=tolees-21'
+descuento: '53.70'
+titulo: 'TRESemmé Acondicionador Liso Keratina  6'
 ---
 
 Está [TRESemmé Acondicionador Liso Keratina  675 ml - Paquete de 4](https://www.amazon.es/dp/B072MK1Q6P/?tag=tolees-21) con 53.70 de descuento por 10 EUR (original: 21.6 EUR) en el siguiente enlace!

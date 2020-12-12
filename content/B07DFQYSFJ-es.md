@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Evostripe Warm T-Shirt  Hombre  Sodalite Blue  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFQYSFJ/?tag=tolees-21'
+descuento: '58.44'
+titulo: 'Puma Evostripe Warm T-Shirt  Hombre  Sod'
 ---
 
 Está [Puma Evostripe Warm T-Shirt  Hombre  Sodalite Blue  XL](https://www.amazon.es/dp/B07DFQYSFJ/?tag=tolees-21) con 58.44 de descuento por 10.37 EUR (original: 24.95 EUR) en el siguiente enlace!

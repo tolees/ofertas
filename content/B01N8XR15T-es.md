@@ -17,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'Umbro Torch Pantalón Corto  Hombre  Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8XR15T/?tag=tolees-21'
+descuento: '39.17'
+titulo: 'Umbro Torch Pantalón Corto  Hombre  Negr'
 ---
 
 Tienes [Umbro Torch Pantalón Corto  Hombre  Negro  L](https://www.amazon.es/dp/B01N8XR15T/?tag=tolees-21) con un 39.17 % de descuento con precio de oferta de 10.95 EUR (original: 18 EUR) en el siguiente enlace!

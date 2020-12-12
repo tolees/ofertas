@@ -17,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'lodi IDAIRA  Sandalias con Punta Abierta para Mujer  Rosa  Ginger Rubor   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077T11KPM/?tag=tolees-21'
+descuento: '60.72'
+titulo: 'lodi IDAIRA  Sandalias con Punta Abierta'
 ---
 
 Está [lodi IDAIRA  Sandalias con Punta Abierta para Mujer  Rosa  Ginger Rubor   40 EU](https://www.amazon.es/dp/B077T11KPM/?tag=tolees-21) con 60.72 de descuento por 58.53 EUR (original: 149 EUR) en el siguiente enlace!

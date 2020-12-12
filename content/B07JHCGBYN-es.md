@@ -17,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma 4Keeps M Sujetador Deportivo  Mujer  Azul  Fair Aqua/Silver  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHCGBYN/?tag=tolees-21'
+descuento: '50.08'
+titulo: 'Puma 4Keeps M Sujetador Deportivo  Mujer'
 ---
 
 Está [Puma 4Keeps M Sujetador Deportivo  Mujer  Azul  Fair Aqua/Silver  S](https://www.amazon.es/dp/B07JHCGBYN/?tag=tolees-21) con 50.08 de descuento por 14.95 EUR (original: 29.95 EUR) en el siguiente enlace!

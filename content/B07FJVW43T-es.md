@@ -17,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Deline II  Zapatillas para Mujer  Beige  Bisque 205   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJVW43T/?tag=tolees-21'
+descuento: '42.05'
+titulo: 'G-STAR RAW Deline II  Zapatillas para Mu'
 ---
 
 Ahora mismo tienes [G-STAR RAW Deline II  Zapatillas para Mujer  Beige  Bisque 205   38 EU](https://www.amazon.es/dp/B07FJVW43T/?tag=tolees-21) a 57.92 EUR (original: 99.95 EUR) (42.05 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Tanburo Báscula Digital para Baño  Alta Medición Precisa 180 kg  28 ST/400 lb  con Gran Plataforma y LCD Digital  Vidrio Transparente  Peso Digital Escalas de Cuerpo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CPMJ28L/?tag=tolees-21'
+descuento: '49.50'
+titulo: 'Tanburo Báscula Digital para Baño  Alta '
 ---
 
 Ahora mismo tienes [Tanburo Báscula Digital para Baño  Alta Medición Precisa 180 kg  28 ST/400 lb  con Gran Plataforma y LCD Digital  Vidrio Transparente  Peso Digital Escalas de Cuerpo](https://www.amazon.es/dp/B07CPMJ28L/?tag=tolees-21) a 9.59 EUR (original: 18.99 EUR) (49.50 %  de descuento) en el siguiente enlace!

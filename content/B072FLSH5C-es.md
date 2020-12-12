@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Puma Essential Runner  Zapatillas de Deporte para Exterior Mujer  Azul  Lapis Blue/White/Nrgy Peach   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072FLSH5C/?tag=tolees-21'
+descuento: '58.57'
+titulo: 'Puma Essential Runner  Zapatillas de Dep'
 ---
 
 Ahora mismo tienes [Puma Essential Runner  Zapatillas de Deporte para Exterior Mujer  Azul  Lapis Blue/White/Nrgy Peach   37 EU](https://www.amazon.es/dp/B072FLSH5C/?tag=tolees-21) a 26.91 EUR (original: 64.95 EUR) (58.57 %  de descuento) en el siguiente enlace!

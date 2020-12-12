@@ -17,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Pepa Loves Dots Cardigan Black  Negro  38  Tamaño del Fabricante:S  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0725ZL3KS/?tag=tolees-21'
+descuento: '71.35'
+titulo: 'Pepa Loves Dots Cardigan Black  Negro  3'
 ---
 
 Ahora mismo tienes [Pepa Loves Dots Cardigan Black  Negro  38  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B0725ZL3KS/?tag=tolees-21) a 17.16 EUR (original: 59.9 EUR) (71.35 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Tous BANDOLERA M. LIZ FUCSIA'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SG4HS2X/?tag=tolees-21'
+descuento: '50.25'
+titulo: 'Tous BANDOLERA M. LIZ FUCSIA'
 ---
 
 Está [Tous BANDOLERA M. LIZ FUCSIA](https://www.amazon.es/dp/B07SG4HS2X/?tag=tolees-21) con 50.25 de descuento por 99 EUR (original: 199 EUR) en el siguiente enlace!

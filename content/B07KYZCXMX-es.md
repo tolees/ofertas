@@ -17,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Springfield 7.R.T.Ap.Pv19.Polo AOP Jersey   Gama Azules 17   Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYZCXMX/?tag=tolees-21'
+descuento: '44.47'
+titulo: 'Springfield 7.R.T.Ap.Pv19.Polo AOP Jerse'
 ---
 
 Está [Springfield 7.R.T.Ap.Pv19.Polo AOP Jersey   Gama Azules 17   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07KYZCXMX/?tag=tolees-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

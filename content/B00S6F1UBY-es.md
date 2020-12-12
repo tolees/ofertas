@@ -17,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'SYLVANIAN FAMILIES- Seaside Cruiser House Boat Mini muñecas y Accesorios   Epoch para Imaginar 5206 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00S6F1UBY/?tag=tolees-21'
+descuento: '32.83'
+titulo: 'SYLVANIAN FAMILIES- Seaside Cruiser Hous'
 ---
 
 Está [SYLVANIAN FAMILIES- Seaside Cruiser House Boat Mini muñecas y Accesorios   Epoch para Imaginar 5206 ](https://www.amazon.es/dp/B00S6F1UBY/?tag=tolees-21) con 32.83 de descuento por 60.45 EUR (original: 89.99 EUR) en el siguiente enlace!

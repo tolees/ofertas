@@ -17,6 +17,9 @@ comparePrice: 44 EUR
 inStock: true
 prodname: 'Carita  Spray de perfume para el cuerpo - 200 ml.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071Y2CKGM/?tag=tolees-21'
+descuento: '38.64'
+titulo: 'Carita  Spray de perfume para el cuerpo '
 ---
 
 Está [Carita  Spray de perfume para el cuerpo - 200 ml.](https://www.amazon.es/dp/B071Y2CKGM/?tag=tolees-21) con 38.64 de descuento por 27 EUR (original: 44 EUR) en el siguiente enlace!

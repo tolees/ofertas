@@ -17,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Pop! Titanic - Figura de Vinilo Rose'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HB4YKVG/?tag=tolees-21'
+descuento: '45.20'
+titulo: 'Pop! Titanic - Figura de Vinilo Rose'
 ---
 
 Ahora mismo tienes [Pop! Titanic - Figura de Vinilo Rose](https://www.amazon.es/dp/B07HB4YKVG/?tag=tolees-21) a 8.74 EUR (original: 15.95 EUR) (45.20 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 40.08 EUR
 inStock: true
 prodname: 'Bed Head by TIGI Acondicionador Resurrection Urban Antidotes 750 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004T19PBG/?tag=tolees-21'
+descuento: '70.01'
+titulo: 'Bed Head by TIGI Acondicionador Resurrec'
 ---
 
 Ahora mismo tienes [Bed Head by TIGI Acondicionador Resurrection Urban Antidotes 750 ml](https://www.amazon.es/dp/B004T19PBG/?tag=tolees-21) a 12.02 EUR (original: 40.08 EUR) (70.01 %  de descuento) en el siguiente enlace!

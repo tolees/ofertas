@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Dunda Polo S/s  Hombre  Azul  Sartho Blue 6067   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0771FCWC8/?tag=tolees-21'
+descuento: '40.04'
+titulo: 'G-STAR RAW Dunda Polo S/s  Hombre  Azul '
 ---
 
 Ahora mismo tienes [G-STAR RAW Dunda Polo S/s  Hombre  Azul  Sartho Blue 6067   X-Large](https://www.amazon.es/dp/B0771FCWC8/?tag=tolees-21) a 29.95 EUR (original: 49.95 EUR) (40.04 %  de descuento) en el siguiente enlace!

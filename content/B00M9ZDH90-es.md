@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Casio Reloj de Pulsera GA-400-1AER'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00M9ZDH90/?tag=tolees-21'
+descuento: '38.27'
+titulo: 'Casio Reloj de Pulsera GA-400-1AER'
 ---
 
 Tienes [Casio Reloj de Pulsera GA-400-1AER](https://www.amazon.es/dp/B00M9ZDH90/?tag=tolees-21) con un 38.27 % de descuento con precio de oferta de 79.63 EUR (original: 129 EUR) en el siguiente enlace!

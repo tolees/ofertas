@@ -17,6 +17,9 @@ comparePrice: 23 EUR
 inStock: true
 prodname: 'Pigro Felice 921995 Bomba  Negro  117x117x72 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L73BMNC/?tag=tolees-21'
+descuento: '58.87'
+titulo: 'Pigro Felice 921995 Bomba  Negro  117x11'
 ---
 
 Ahora mismo tienes [Pigro Felice 921995 Bomba  Negro  117x117x72 cm](https://www.amazon.es/dp/B01L73BMNC/?tag=tolees-21) a 9.46 EUR (original: 23 EUR) (58.87 %  de descuento) en el siguiente enlace!

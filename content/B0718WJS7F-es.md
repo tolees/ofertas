@@ -17,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Maidenform Casual Comfort-Convertible  Sujetador Estilo Bralette para Mujer  Negro  Black Xbk  90D  Talla del Fabricante: 34D '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0718WJS7F/?tag=tolees-21'
+descuento: '70.51'
+titulo: 'Maidenform Casual Comfort-Convertible  S'
 ---
 
 Ahora mismo tienes [Maidenform Casual Comfort-Convertible  Sujetador Estilo Bralette para Mujer  Negro  Black Xbk  90D  Talla del Fabricante: 34D ](https://www.amazon.es/dp/B0718WJS7F/?tag=tolees-21) a 11.78 EUR (original: 39.95 EUR) (70.51 %  de descuento) en el siguiente enlace!

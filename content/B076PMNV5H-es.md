@@ -17,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Tacoma / Bloque de cuchillos universal  gran capacidad  lavable  goma plástica  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076PMNV5H/?tag=tolees-21'
+descuento: '57.61'
+titulo: 'Tacoma / Bloque de cuchillos universal  '
 ---
 
 Tienes [Tacoma / Bloque de cuchillos universal  gran capacidad  lavable  goma plástica  negro](https://www.amazon.es/dp/B076PMNV5H/?tag=tolees-21) con un 57.61 % de descuento con precio de oferta de 19.07 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 31.74 EUR
 inStock: true
 prodname: 'Bahco 319 ARCO DE SIERRA PARA METALES'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000U3PZM0/?tag=tolees-21'
+descuento: '25.74'
+titulo: 'Bahco 319 ARCO DE SIERRA PARA METALES'
 ---
 
 Tienes [Bahco 319 ARCO DE SIERRA PARA METALES](https://www.amazon.es/dp/B000U3PZM0/?tag=tolees-21) con un 25.74 % de descuento con precio de oferta de 23.57 EUR (original: 31.74 EUR) en el siguiente enlace!

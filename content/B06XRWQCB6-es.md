@@ -17,6 +17,9 @@ comparePrice: 131 EUR
 inStock: true
 prodname: 'Nike Air Max Prime  Zapatillas Hombre  Blanco  White/white-pure Platinum-black   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XRWQCB6/?tag=tolees-21'
+descuento: '51.69'
+titulo: 'Nike Air Max Prime  Zapatillas Hombre  B'
 ---
 
 Tienes [Nike Air Max Prime  Zapatillas Hombre  Blanco  White/white-pure Platinum-black   38.5 EU](https://www.amazon.es/dp/B06XRWQCB6/?tag=tolees-21) con un 51.69 % de descuento con precio de oferta de 63.29 EUR (original: 131 EUR) en el siguiente enlace!

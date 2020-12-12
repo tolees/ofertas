@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Desigual - Bag Dark Amber Imperia Women  Bolsos bandolera Mujer  Negro  10x16x23 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GV2GNW3/?tag=tolees-21'
+descuento: '39.94'
+titulo: 'Desigual - Bag Dark Amber Imperia Women '
 ---
 
 Tienes [Desigual - Bag Dark Amber Imperia Women  Bolsos bandolera Mujer  Negro  10x16x23 cm  B x H T ](https://www.amazon.es/dp/B07GV2GNW3/?tag=tolees-21) con un 39.94 % de descuento con precio de oferta de 30 EUR (original: 49.95 EUR) en el siguiente enlace!

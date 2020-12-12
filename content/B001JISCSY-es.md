@@ -17,6 +17,9 @@ comparePrice: 8.5 EUR
 inStock: true
 prodname: 'Goobay 51822 - Cable conexión HDMI  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001JISCSY/?tag=tolees-21'
+descuento: '25.29'
+titulo: 'Goobay 51822 - Cable conexión HDMI  Colo'
 ---
 
 Está [Goobay 51822 - Cable conexión HDMI  Color Negro](https://www.amazon.es/dp/B001JISCSY/?tag=tolees-21) con 25.29 de descuento por 6.35 EUR (original: 8.5 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Superdry Orange Label Ziphood  suéter para Hombre  Negro  Low Light Black Grit Vwo   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLCZYX9/?tag=tolees-21'
+descuento: '55.00'
+titulo: 'Superdry Orange Label Ziphood  suéter pa'
 ---
 
 Está [Superdry Orange Label Ziphood  suéter para Hombre  Negro  Low Light Black Grit Vwo   Small](https://www.amazon.es/dp/B07FLCZYX9/?tag=tolees-21) con 55.00 de descuento por 38.25 EUR (original: 85 EUR) en el siguiente enlace!

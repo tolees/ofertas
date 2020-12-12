@@ -17,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Element Vertical SS tee Shirt  Hombre  Flint Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRMVVDY/?tag=tolees-21'
+descuento: '46.00'
+titulo: 'Element Vertical SS tee Shirt  Hombre  F'
 ---
 
 Está [Element Vertical SS tee Shirt  Hombre  Flint Black  S](https://www.amazon.es/dp/B07KRMVVDY/?tag=tolees-21) con 46.00 de descuento por 13.5 EUR (original: 25 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Timezone GerritTZ - Vaqueros para Hombre  Color Blau  Light Blue Wash 3828   Talla W33/ L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XK3FAWM/?tag=tolees-21'
+descuento: '60.59'
+titulo: 'Timezone GerritTZ - Vaqueros para Hombre'
 ---
 
 Tienes [Timezone GerritTZ - Vaqueros para Hombre  Color Blau  Light Blue Wash 3828   Talla W33/ L30](https://www.amazon.es/dp/B00XK3FAWM/?tag=tolees-21) con un 60.59 % de descuento con precio de oferta de 31.51 EUR (original: 79.95 EUR) en el siguiente enlace!

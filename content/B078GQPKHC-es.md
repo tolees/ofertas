@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers You-Prominence  Zapatillas sin Cordones para Mujer  Gris  Grey Gry   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GQPKHC/?tag=tolees-21'
+descuento: '63.28'
+titulo: 'Skechers You-Prominence  Zapatillas sin '
 ---
 
 Tienes [Skechers You-Prominence  Zapatillas sin Cordones para Mujer  Gris  Grey Gry   40 EU](https://www.amazon.es/dp/B078GQPKHC/?tag=tolees-21) con un 63.28 % de descuento con precio de oferta de 23.85 EUR (original: 64.95 EUR) en el siguiente enlace!

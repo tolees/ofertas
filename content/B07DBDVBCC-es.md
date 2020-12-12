@@ -17,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Jacket  Chaqueta para Niños  Negro  Black 901  134  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBDVBCC/?tag=tolees-21'
+descuento: '70.07'
+titulo: 'United Colors of Benetton Jacket  Chaque'
 ---
 
 Está [United Colors of Benetton Jacket  Chaqueta para Niños  Negro  Black 901  134  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07DBDVBCC/?tag=tolees-21) con 70.07 de descuento por 14.95 EUR (original: 49.95 EUR) en el siguiente enlace!

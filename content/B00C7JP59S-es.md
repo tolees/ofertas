@@ -17,6 +17,9 @@ comparePrice: 7.95 EUR
 inStock: true
 prodname: 'Astor Soft Sensation Chubby Barra de Labios Tono 2 Full Of Red - 17 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00C7JP59S/?tag=tolees-21'
+descuento: '30.82'
+titulo: 'Astor Soft Sensation Chubby Barra de Lab'
 ---
 
 Tienes [Astor Soft Sensation Chubby Barra de Labios Tono 2 Full Of Red - 17 gr](https://www.amazon.es/dp/B00C7JP59S/?tag=tolees-21) con un 30.82 % de descuento con precio de oferta de 5.5 EUR (original: 7.95 EUR) en el siguiente enlace!

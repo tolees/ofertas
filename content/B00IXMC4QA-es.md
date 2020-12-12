@@ -17,6 +17,9 @@ comparePrice: 8.07 EUR
 inStock: true
 prodname: 'Joma Nobel Pantalón de equipación  Blanco  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IXMC4QA/?tag=tolees-21'
+descuento: '26.27'
+titulo: 'Joma Nobel Pantalón de equipación  Blanc'
 ---
 
 Está [Joma Nobel Pantalón de equipación  Blanco  S](https://www.amazon.es/dp/B00IXMC4QA/?tag=tolees-21) con 26.27 de descuento por 5.95 EUR (original: 8.07 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Under Armour Grade School Pursuit  Zapatillas de Running para Niños  Negro Black/Anthracite 102  35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0714DMRQ7/?tag=tolees-21'
+descuento: '64.05'
+titulo: 'Under Armour Grade School Pursuit  Zapat'
 ---
 
 Está [Under Armour Grade School Pursuit  Zapatillas de Running para Niños  Negro Black/Anthracite 102  35.5 EU](https://www.amazon.es/dp/B0714DMRQ7/?tag=tolees-21) con 64.05 de descuento por 21.57 EUR (original: 60 EUR) en el siguiente enlace!

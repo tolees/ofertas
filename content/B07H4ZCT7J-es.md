@@ -17,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Desigual Shoes  Flip Flop_Tropical   Chanclas para Mujer   Blanco 1000   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H4ZCT7J/?tag=tolees-21'
+descuento: '30.08'
+titulo: 'Desigual Shoes  Flip Flop_Tropical   Cha'
 ---
 
 Tienes [Desigual Shoes  Flip Flop_Tropical   Chanclas para Mujer   Blanco 1000   39 EU](https://www.amazon.es/dp/B07H4ZCT7J/?tag=tolees-21) con un 30.08 % de descuento con precio de oferta de 13.95 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 13.38 EUR
 inStock: true
 prodname: 'PRORTX - Polo Modelo Pro Pique para Hombre  XS   Amarillo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQ5CVQM/?tag=tolees-21'
+descuento: '48.06'
+titulo: 'PRORTX - Polo Modelo Pro Pique para Homb'
 ---
 
 Tienes [PRORTX - Polo Modelo Pro Pique para Hombre  XS   Amarillo ](https://www.amazon.es/dp/B07FQ5CVQM/?tag=tolees-21) con un 48.06 % de descuento con precio de oferta de 6.95 EUR (original: 13.38 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 94.95 EUR
 inStock: true
 prodname: 'Puma One Grip 1 Hybrid Pro Goalkeeper Gloves  Unisex Adulto  White/Shocking Orange/Black/Silver  8.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DD9WQ34/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'Puma One Grip 1 Hybrid Pro Goalkeeper Gl'
 ---
 
 Ahora mismo tienes [Puma One Grip 1 Hybrid Pro Goalkeeper Gloves  Unisex Adulto  White/Shocking Orange/Black/Silver  8.5](https://www.amazon.es/dp/B07DD9WQ34/?tag=tolees-21) a 56.95 EUR (original: 94.95 EUR) (40.02 %  de descuento) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Superdry - Print Edition Montana  Mochilas Mujer  Verde  Dark Marl Lime   30x45x13 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FN353TL/?tag=tolees-21'
+descuento: '47.77'
+titulo: 'Superdry - Print Edition Montana  Mochil'
 ---
 
 Tienes [Superdry - Print Edition Montana  Mochilas Mujer  Verde  Dark Marl Lime   30x45x13 cm  W x H L ](https://www.amazon.es/dp/B07FN353TL/?tag=tolees-21) con un 47.77 % de descuento con precio de oferta de 33.95 EUR (original: 65 EUR) en el siguiente enlace!

@@ -17,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Energy Lights BLK  Zapatillas Altas para Niños  Negro  Black   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FTYOHNW/?tag=tolees-21'
+descuento: '52.99'
+titulo: 'Skechers Energy Lights BLK  Zapatillas A'
 ---
 
 Está [Skechers Energy Lights BLK  Zapatillas Altas para Niños  Negro  Black   32 EU](https://www.amazon.es/dp/B01FTYOHNW/?tag=tolees-21) con 52.99 de descuento por 30.53 EUR (original: 64.95 EUR) en el siguiente enlace!

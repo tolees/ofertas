@@ -17,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Tuscany Silver 8.28.1994 - Pulsera de plata de ley  925/1000 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004RETWJU/?tag=tolees-21'
+descuento: '71.50'
+titulo: 'Tuscany Silver 8.28.1994 - Pulsera de pl'
 ---
 
 Está [Tuscany Silver 8.28.1994 - Pulsera de plata de ley  925/1000 ](https://www.amazon.es/dp/B004RETWJU/?tag=tolees-21) con 71.50 de descuento por 36.77 EUR (original: 129 EUR) en el siguiente enlace!

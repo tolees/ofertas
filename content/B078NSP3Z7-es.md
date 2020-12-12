@@ -17,6 +17,9 @@ comparePrice: 19.37 EUR
 inStock: true
 prodname: 'ECHOICE Ciclocomputador Bicicleta Inalámbrico  Cuentakilómetros Bicicleta Carretera y Montaña MTB con Luz  Velocimetro Bicicleta Sin Cable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078NSP3Z7/?tag=tolees-21'
+descuento: '32.94'
+titulo: 'ECHOICE Ciclocomputador Bicicleta Inalám'
 ---
 
 Está [ECHOICE Ciclocomputador Bicicleta Inalámbrico  Cuentakilómetros Bicicleta Carretera y Montaña MTB con Luz  Velocimetro Bicicleta Sin Cable](https://www.amazon.es/dp/B078NSP3Z7/?tag=tolees-21) con 32.94 de descuento por 12.99 EUR (original: 19.37 EUR) en el siguiente enlace!

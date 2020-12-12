@@ -17,6 +17,9 @@ comparePrice: 10.49 EUR
 inStock: true
 prodname: 'JACK & JONES Jcomax tee SS Crewneck Camiseta  Gris  Light Grey Melange Fit:Slim   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078XXCGJ7/?tag=tolees-21'
+descuento: '33.84'
+titulo: 'JACK & JONES Jcomax tee SS Crewneck Cami'
 ---
 
 Está [JACK & JONES Jcomax tee SS Crewneck Camiseta  Gris  Light Grey Melange Fit:Slim   Medium para Hombre](https://www.amazon.es/dp/B078XXCGJ7/?tag=tolees-21) con 33.84 de descuento por 6.94 EUR (original: 10.49 EUR) en el siguiente enlace!

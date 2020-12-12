@@ -17,6 +17,9 @@ comparePrice: 39.96 EUR
 inStock: true
 prodname: 'VIALMAN Colcha  Gris  Cama 90 : 180 CM X 270 CM'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XWN74CG/?tag=tolees-21'
+descuento: '27.15'
+titulo: 'VIALMAN Colcha  Gris  Cama 90 : 180 CM X'
 ---
 
 Ahora mismo tienes [VIALMAN Colcha  Gris  Cama 90 : 180 CM X 270 CM](https://www.amazon.es/dp/B06XWN74CG/?tag=tolees-21) a 29.11 EUR (original: 39.96 EUR) (27.15 %  de descuento) en el siguiente enlace!
