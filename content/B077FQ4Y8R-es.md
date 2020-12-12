@@ -30,9 +30,9 @@ Características:
 
 - Respetuoso con el medio ambiente, protección de los ojos .: la tableta de escritura es reutilizable con función de borrado electrónico. Fácil de borrar imágenes o palabras con un solo botón. Se puede borrar más de 50000 veces. Reducción de desperdicio de papel. Escriba o dibuje en un lugar brillante porque no hay luz de fondo en el pizarrón.
 - Portátil y duradero: la tableta de dibujo está hecha de material ABS. Muy ligero y delgado. Alimentado por una batería de botón. Diminuto pero funcional. La tableta de escritura también es una pequeña herramienta para que los adultos la utilicen como bloc de notas, memorando reutilizable.
-- Ordenado y ordenado: la tableta de escritura es pequeña y divertida. Diferente con pluma y papeles tradicionales. No necesita tintas u otros pigmentos. No hay que preocuparse de que los niños se manchen o ensucian la habitación con Graffiti.
-- Lápiz óptico de doble extremo: el lápiz de doble extremo puede dibujar líneas de diferentes tamaños. Las líneas más ricas te ayudan a terminar más cosas. Puede colocar el bolígrafo en la ranura antipérdida para guardarlo después de usarlo. Muy conveniente.
 - Tableta de escritura LCD: ¡El tablero de escritura es un buen regalo para que los niños aprendan a escribir y dibujar! Diviértete mucho en un lugar luminoso. Mantenga a los niños alejados de los dispositivos electrónicos, evite los adictos a los videojuegos.
+- Lápiz óptico de doble extremo: el lápiz de doble extremo puede dibujar líneas de diferentes tamaños. Las líneas más ricas te ayudan a terminar más cosas. Puede colocar el bolígrafo en la ranura antipérdida para guardarlo después de usarlo. Muy conveniente.
+- Ordenado y ordenado: la tableta de escritura es pequeña y divertida. Diferente con pluma y papeles tradicionales. No necesita tintas u otros pigmentos. No hay que preocuparse de que los niños se manchen o ensucian la habitación con Graffiti.
 
 [Visítala!!!](https://www.amazon.es/dp/B077FQ4Y8R/?tag=tolees-21)
 
