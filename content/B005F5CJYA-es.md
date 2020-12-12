@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Xstream Breeze - Base de refrigera al 44.52 % de descuento'
-date: 2020-12-03 21:15:51
+date: 2020-12-12 19:45:26
 image: 'https://m.media-amazon.com/images/I/41WsOlMeChL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Está [Trust Xstream Breeze - Base de refrigeración para Ordenador portátil ha
 
 ℹ️:
 
+- Ventiladores alimentados por USB: no requiere conexión a la corriente eléctrica
+- Protectores de caucho para evitar que el ordenador se deslice y se raye
+- Refrigera el ordenador con mayor nivel de eficacia y protege su mobiliario o piernas del calor
+- El enchufe y el cable USB pueden colocarse dentro del soporte cuando no se estén utilizando
+- Ideal para cualquier ordenador portátil, netbook o MacBook con tamaños de pantalla de hasta 16"
 
 [Ver la oferta!!](https://www.amazon.es/dp/B005F5CJYA/?tag=tolees-21)

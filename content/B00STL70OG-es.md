@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Monopoly Juego de Viaje  v al 56.20 % de descuento'
-date: 2020-12-11 08:47:50
+date: 2020-12-12 19:15:54
 image: 'https://m.media-amazon.com/images/I/51ZE3RURucL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.38 % en adidas Advantage C  Zapatillas de Tenis '
-date: 2020-12-04 17:01:49
+date: 2020-12-12 19:01:36
 image: 'https://m.media-amazon.com/images/I/41DbDKOyOcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Tienes [adidas Advantage C  Zapatillas de Tenis Unisex niños  Multicolor Ftwbla
 
 ℹ️:
 
+- , Forro: Tela
+- , Cierre: Velcro
+- , Suela: Caucho
+- , Perforado De Lado 3Stripes
+- Exterior: Cuero Sintético
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QD9Y8B9/?tag=tolees-21)
