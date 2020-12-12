@@ -29,10 +29,10 @@ Ahora mismo tienes [Lacoste Carnaby EVO 120 7 US SMA  Zapatillas Hombre  Blanco 
 Características:
 
 - Tirador de talón de color
-- Suela de goma
-- Cocodrilo grabado en la lengüeta
 - Tirador de talón de color
+- Cocodrilo grabado en la lengüeta
 - Empeine de piel
+- Suela de goma
 
 [Visítala!!!](https://www.amazon.es/dp/B07SNG574L/?tag=tolees-21)
 

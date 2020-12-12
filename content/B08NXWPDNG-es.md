@@ -28,10 +28,10 @@ Ahora mismo tienes [Cepillo de Limpieza Facial  Masajeador Facial y Dispositivo 
 
 Características:
 
-- ➤ Suitable for all skin types ★ The facial cleansing brush has three different cleaning modes. You can choose your own cleansing mode according to your skin and facial cleanser. For example, if you have sensitive skin or use it for the first time, you can choose soft mode. You can also choose the normal mode for daily cleaning or deep cleansing for oily skin, etc.
-- ➤ Multiple Functions ★ The brush head has three zones. It can massage the skin and promote blood circulation. It can also be used to clean stuck pores, blackheads and cuticle, reduce fine lines and acne. Removes fat, blackheads and softens pores.
-- ➤ Small and beautiful ★ The sponge is exquisite and small, a good travel companion
 - ➤Absolute safety ★ Food grade soft silicone and water resistant (IPX7). The right choice for you.
+- ➤ Suitable for all skin types ★ The facial cleansing brush has three different cleaning modes. You can choose your own cleansing mode according to your skin and facial cleanser. For example, if you have sensitive skin or use it for the first time, you can choose soft mode. You can also choose the normal mode for daily cleaning or deep cleansing for oily skin, etc.
+- ➤ Small and beautiful ★ The sponge is exquisite and small, a good travel companion
+- ➤ Multiple Functions ★ The brush head has three zones. It can massage the skin and promote blood circulation. It can also be used to clean stuck pores, blackheads and cuticle, reduce fine lines and acne. Removes fat, blackheads and softens pores.
 
 [Visítala!!!](https://www.amazon.es/dp/B08NXWPDNG/?tag=tolees-21)
 
