@@ -28,13 +28,13 @@ Está [Reloj Scuderia Ferrari para Hombre 0830387  Negro  Rojo/Negro ](https://w
 
 Principales características:
 
-- Cristal mineral duradero contra arañazos
-- Visualización análogico clásico
-- Movimiento de cuarzo cronógrafo
-- Forma del producto: redondo
 - Caja de acero negro con revestimiento iónico
+- Forma del producto: redondo
+- Cristal mineral duradero contra arañazos
 - Sumergible en agua hasta 50 m/5 atm
 - Correa de piel negra
+- Movimiento de cuarzo cronógrafo
+- Visualización análogico clásico
 - Cierre: hebilla
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MT6BASO/?tag=tolees-21)

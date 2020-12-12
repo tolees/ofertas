@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Barbero MG7770/15 Recortador de  al 33.34 % de descuento'
-date: 2020-12-10 12:30:58
+date: 2020-12-12 11:38:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Qw-5Rs2aL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41Qw-5Rs2aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Qw-5Rs2aL._SL200_.jpg' ]
@@ -28,6 +28,11 @@ Ahora mismo tienes [Philips Barbero MG7770/15 Recortador de barba y pelo  óptim
 
 Características:
 
+- Up to five hours of battery life with two hours of charging, quick charge
+- Travel case
+- Combs - Two shading combs, one adjustable beard comb (3-7mm), two short beard combs (1-2mm), four hair combs (4-9-12-16mm), two body combs (3-5mm)
+- Accessories: metal trimmer, body razor, hair clipper, precision razor, precision trimmer and nose and ear trimmer
+- 18 in 1 Waterproof Beard, Hair & Body Kit
 
 [Visítala!!!](https://www.amazon.es/dp/B0743KVCJD/?tag=tolees-21)
 

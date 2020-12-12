@@ -28,12 +28,12 @@ Ahora mismo tienes [Samyang F1110808101 - Objetivo fotográfico DSLR para Samsun
 
 Características:
 
-- Compatible con filtros de 77mm
 - Con revestimiento UMC anti-reflectante
-- Enfoque manual
-- Incluye parasol extraíble
 - Gran angular para cámaras con sensor Full Frame o APS-C
+- Compatible con filtros de 77mm
+- Enfoque manual
 - Montura para Samsung NX
+- Incluye parasol extraíble
 
 [Visítala!!!](https://www.amazon.es/dp/B007A1KO3A/?tag=tolees-21)
 

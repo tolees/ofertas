@@ -28,11 +28,11 @@ Está [LG DP132 - Reproductor de DVD  Dolby Digital  USB  MP3   color negro](htt
 
 Principales características:
 
-- Reproductor de DVD
 - Con función de reproducción de audio Dolby Digital
+- Con función de Control Parental
+- Reproductor de DVD
 - Con puerto USB 2.0 para conectar la cámara digital, reproductor de MP3 o una memoria USB
 - Formatos de audio compatibles: MP3, WMA
-- Con función de Control Parental
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00FW7ATEI/?tag=tolees-21)
 

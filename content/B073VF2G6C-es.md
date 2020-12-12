@@ -28,9 +28,9 @@ Tienes [Nacon - Controlador Gaming  Color Rojo  Windows XP  Vista  7  8  10 ](ht
 
 Características principales:
 
-- Presenta mangos de goma
-- Tiene dos motores de vibración
 - Compatible con todos los juegos de PC
+- Tiene dos motores de vibración
+- Presenta mangos de goma
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073VF2G6C/?tag=tolees-21)
 

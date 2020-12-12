@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPPO A5 2020 - Smartphone de 6.5" HD+  4 al 35.18 % de descuento'
-date: 2020-12-11 10:20:28
+date: 2020-12-12 10:59:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41skCD9hxzL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41skCD9hxzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41skCD9hxzL._SL200_.jpg' ]
@@ -28,11 +28,11 @@ Está [OPPO A5 2020 - Smartphone de 6.5" HD+  4G Dual SIM  3 GB/ 64 GB  Qualcomm
 
 Principales características:
 
-- 3gb ram + 64gb rom
-- Pantalla waterdrop 6 5" hd+
-- Modo gaming (game boost 2 0) + dolby atmos + sonido estéreo
-- Batería 5000mah + carga flash vooc
 - Cámara cuádruple (12mp + 8mp + 2mp + 2mp)
+- Modo gaming (game boost 2 0) + dolby atmos + sonido estéreo
+- 3gb ram + 64gb rom
+- Batería 5000mah + carga flash vooc
+- Pantalla waterdrop 6 5" hd+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Z6W2CB7/?tag=tolees-21)
 

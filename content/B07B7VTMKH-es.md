@@ -28,9 +28,9 @@ Ahora mismo tienes [W7 Spaced Out Galactic Glimmers Eye Contour Palette  3.5 oz 
 
 Características:
 
-- Paleta de sombra de ojos Galactic On-Trend
 - Marca: W7 (W Siete)
 - 12 piezas
+- Paleta de sombra de ojos Galactic On-Trend
 
 [Visítala!!!](https://www.amazon.es/dp/B07B7VTMKH/?tag=tolees-21)
 

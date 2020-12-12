@@ -28,9 +28,9 @@ Tienes [Eukanuba Alimento seco para perros adultos de razas medianas con pollo 1
 
 Características principales:
 
+- Brillo: contribuye a una piel saludable y un pelo brillante gracias a su proporción clínicamente probada de ácidos grasos omega 6 y 3
 - Sin sabores artificiales, sin colorantes, sin OGM
 - L-carnitina para ayudar a metabolizar grasa
-- Brillo: contribuye a una piel saludable y un pelo brillante gracias a su proporción clínicamente probada de ácidos grasos omega 6 y 3
 - Prebióticos FOS y pulpa de remolacha para favorecer una digestión saludable
 - Alimento seco para perros medianos de 1 a 7 años / Rico en pollo fresco
 

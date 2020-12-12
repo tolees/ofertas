@@ -30,9 +30,9 @@ Características:
 
 - Colección Red Rev
 - 5 ATM de resistencia al agua
-- Correa de silicona
 - Bisel de aluminio
 - Esfera negra de diseño apanalado
+- Correa de silicona
 
 [Visítala!!!](https://www.amazon.es/dp/B078YHB8VW/?tag=tolees-21)
 

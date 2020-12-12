@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash Wns V2 L  Zapatillas Mujer  B al 34.23 % de descuento'
-date: 2020-12-11 10:34:37
+date: 2020-12-12 11:06:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CtiC1XhuL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31CtiC1XhuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CtiC1XhuL._SL200_.jpg' ]
@@ -28,12 +28,12 @@ Ahora mismo tienes [PUMA Smash Wns V2 L  Zapatillas Mujer  Blanco White White  3
 
 Características:
 
-- Material de la suela: Goma
-- Composición: Leder
-- Cierre: Cordones
 - Material exterior: Cuero
 - Revestimiento: Sintético
+- Material de la suela: Goma
+- Cierre: Cordones
 - Tipo de tacón: Plano
+- Composición: Leder
 
 [Visítala!!!](https://www.amazon.es/dp/B077MJJM3W/?tag=tolees-21)
 

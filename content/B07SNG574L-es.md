@@ -30,8 +30,8 @@ Características:
 
 - Tirador de talón de color
 - Tirador de talón de color
-- Suela de goma
 - Cocodrilo grabado en la lengüeta
+- Suela de goma
 - Empeine de piel
 
 [Visítala!!!](https://www.amazon.es/dp/B07SNG574L/?tag=tolees-21)

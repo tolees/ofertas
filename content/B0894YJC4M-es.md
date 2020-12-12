@@ -28,11 +28,11 @@ Está [Delineador de ojos Líquid  Delineador de ojos Negro  Delineador de ojos 
 
 Principales características:
 
-- RÁPIDO Y DURADERO: Black Eyeliner agrega ingredientes de secado rápido y se seca rápidamente. El color duradero no elimina el maquillaje y le da un aspecto limpio y hermoso.
 - DELINEADOR NEGRO LISO: el delineador líquido está hecho de tóner negro, liso y fácil de colorear, para que pueda completar la hermosa línea de ojos sin problemas.
-- CUMPLA PERFECTAMENTE SUS NECESIDADES: la punta delgada del delineador de ojos de fieltro garantiza una línea de delineador absolutamente precisa, independientemente de si el ojo de gato o los ojos ahumados, el manejo fácil también es adecuado para principiantes
 - SIRENA DELINEADOR OJOS NEGRO SET: maquillaje suave y sedoso es una experiencia lujosa, el grosor del delineador varía según la presión en el ojo. Viene con un hermoso cepillo de pestañas, resalta tus ojos tiernos en la multitud
 - FÁCIL DE RETIRAR DELINEADOR IMPERMEABLE Este delineador no solo es resistente al agua y el sudor no es fácil de florecer, sino que resuelve los problemas con el aceite del párpado del maquillaje. El desmaquillante también es muy simple. Use una almohadilla de algodón para quitar el desmaquillante y retire suavemente el maquillaje sin dejar residuos.
+- CUMPLA PERFECTAMENTE SUS NECESIDADES: la punta delgada del delineador de ojos de fieltro garantiza una línea de delineador absolutamente precisa, independientemente de si el ojo de gato o los ojos ahumados, el manejo fácil también es adecuado para principiantes
+- RÁPIDO Y DURADERO: Black Eyeliner agrega ingredientes de secado rápido y se seca rápidamente. El color duradero no elimina el maquillaje y le da un aspecto limpio y hermoso.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0894YJC4M/?tag=tolees-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASENNO NVMe M.2 Internal SSD  NVMe 256GB al 25.74 % de descuento'
-date: 2020-12-10 22:43:02
+date: 2020-12-12 10:35:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IFm5hD5NL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41IFm5hD5NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IFm5hD5NL._SL200_.jpg' ]

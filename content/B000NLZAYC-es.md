@@ -28,8 +28,8 @@ Tienes [Rapesco Documentos - Carpeta portafolios A4+ horizontal  en varios color
 
 Características principales:
 
-- Colores Surtidos
 - Soporte para bolígrafo bajo solapa
+- Colores Surtidos
 - Pack: 5 unidades con tamaño A4+
 - Solapa con broche de color para mantener el contenido seguro
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.49 % en Orbegozo MS4200 MS 4200-Cortadora  3 vel'
-date: 2020-12-11 10:12:22
+date: 2020-12-12 10:40:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31oDG64xuPL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31oDG64xuPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31oDG64xuPL._SL200_.jpg' ]
@@ -28,10 +28,10 @@ Tienes [Orbegozo MS4200 MS 4200-Cortadora  3 velocidades  Color Blanco  150 W  P
 
 Características principales:
 
-- Potencia: 150 W
-- Cuchilla de acero inoxidable
 - Deslizador seguro y extraíble
 - Botón con 3 velocidades
+- Cuchilla de acero inoxidable
+- Potencia: 150 W
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B007EMFM2I/?tag=tolees-21)
 

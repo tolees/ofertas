@@ -28,11 +28,11 @@ Ahora mismo tienes [Max Factor  Maquillaje corrector  Tono: 004 Deep  Pieles Osc
 
 Características:
 
-- Corrector Radiant Lift de Max Factor de larga duración y acabado luminoso
-- Textura ligera y cómoda en la piel
-- Crea tu look de rostro perfecto con la base de maquillaje Radiant Lift
 - Cuida tu piel con vitaminas C y e
 - Oculta los signos de fatiga y minimiza las líneas finas de expresión con acción anti-edad
+- Crea tu look de rostro perfecto con la base de maquillaje Radiant Lift
+- Textura ligera y cómoda en la piel
+- Corrector Radiant Lift de Max Factor de larga duración y acabado luminoso
 
 [Visítala!!!](https://www.amazon.es/dp/B07G57JY1H/?tag=tolees-21)
 

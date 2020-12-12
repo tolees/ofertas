@@ -28,11 +28,11 @@ Ahora mismo tienes [Hackett London Slim Fit Logo Polo  Verde  665green 665   X-S
 
 Características:
 
-- Estilo del cuello: Polo
-- Cuello y puños elásticos
-- Lavar a máquina agua fría (30 ° max)
-- 100% Algodón
 - Suave y cómodo en la piel
+- 100% Algodón
+- Estilo del cuello: Polo
+- Lavar a máquina agua fría (30 ° max)
+- Cuello y puños elásticos
 
 [Visítala!!!](https://www.amazon.es/dp/B07VG97Y3M/?tag=tolees-21)
 

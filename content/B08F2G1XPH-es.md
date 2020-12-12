@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD My Passport SSD 1TB - tecnología NVMe al 30.37 % de descuento'
-date: 2020-12-09 20:53:03
+date: 2020-12-12 11:01:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jczZXBCcL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41jczZXBCcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jczZXBCcL._SL200_.jpg' ]
@@ -28,6 +28,11 @@ Ahora mismo tienes [WD My Passport SSD 1TB - tecnología NVMe  USB-C  velocidad 
 
 Características:
 
+- La tecnología NVMe sorprendentemente rápida con velocidades de lectura de hasta 1050 MB/s y velocidades de escritura de hasta 1000 MB/s
+- Cifrado de hardware AES de 256 bits habilitado mediante contraseña
+- Resistente a golpes y vibraciones. Resistente a caídas de hasta 2 metros
+- Copia de seguridad sencilla
+- Diseño elegante y compacto. USB 3.2 Gen. 2 de compatibilidad cruzada y USB-C (USB-A para sistemas más antiguos)
 
 [Visítala!!!](https://www.amazon.es/dp/B08F2G1XPH/?tag=tolees-21)
 

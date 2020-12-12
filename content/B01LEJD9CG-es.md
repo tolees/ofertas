@@ -28,9 +28,9 @@ Está [POP! Bobble - Daredevil: Elektra](https://www.amazon.es/dp/B01LEJD9CG/?ta
 
 Principales características:
 
+- Material 100% vinilo
 - Viene embalado en una caja con ventanas ilustrada
 - Cada personaje mide alrededor de 9 cm de altura
-- Material 100% vinilo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LEJD9CG/?tag=tolees-21)
 

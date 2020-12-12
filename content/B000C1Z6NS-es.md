@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Halloween EDT 100 ml al 62.65 % de descuento'
-date: 2020-12-11 09:57:52
+date: 2020-12-12 10:27:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AGSrDPLuL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41AGSrDPLuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AGSrDPLuL._SL200_.jpg' ]
@@ -28,8 +28,8 @@ Está [Halloween EDT 100 ml](https://www.amazon.es/dp/B000C1Z6NS/?tag=tolees-21)
 
 Principales características:
 
-- Notas de salida: Violetas, lima verde de Cozumel, banana de Bokhol.
 - Notas de fondo: Sándalo de Misora,incienso de Djouba, mirra de Tana y vainilla de Madagascar.
+- Notas de salida: Violetas, lima verde de Cozumel, banana de Bokhol.
 - Notas de corazón: Magnolias de Casablanca, violetas de Arezzo, mugquet de Camarga, tuberosa de Yunnan, pimienta rosa de Aruba.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000C1Z6NS/?tag=tolees-21)

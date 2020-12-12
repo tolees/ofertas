@@ -29,10 +29,10 @@ Tienes [Jebester Naruto Leaf Village - Diadema para Disfraz de Ninja  2 Unidades
 Características principales:
 
 - Gran artículo de cosplay. Combina perfectamente con tu disfraz de ninja.
-- Sin riesgos: la satisfacción del cliente es de suma importancia. Si nuestro producto no satisface sus necesidades, sin duda cumpliremos una garantía de devolución de 30 días. Cualquier pregunta, no dude en ponerse en contacto con nosotros, le contactaremos lo más pronto y le haremos satisfecho.
 - Tamaño de la tela: 99 x 5 cm; Tamaño del metal: 10 x 3,8 cm.
-- Con Tobi, Uchiha Obito, Kakashi, Minato, Naruto, etc. Este artículo incluye 1 diadema de hojas y 1 diadema antihojas.
 - Material: metal y tela.
+- Con Tobi, Uchiha Obito, Kakashi, Minato, Naruto, etc. Este artículo incluye 1 diadema de hojas y 1 diadema antihojas.
+- Sin riesgos: la satisfacción del cliente es de suma importancia. Si nuestro producto no satisface sus necesidades, sin duda cumpliremos una garantía de devolución de 30 días. Cualquier pregunta, no dude en ponerse en contacto con nosotros, le contactaremos lo más pronto y le haremos satisfecho.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07T9PRD8B/?tag=tolees-21)
 

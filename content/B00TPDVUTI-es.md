@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.98 % en L Oréal Paris Infalible Primer  PreBase '
-date: 2020-12-11 10:23:12
+date: 2020-12-12 10:51:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CFnu-HYCL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31CFnu-HYCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CFnu-HYCL._SL200_.jpg' ]
@@ -28,10 +28,10 @@ Tienes [L Oréal Paris Infalible Primer  PreBase Alisadora de Maquillaje Larga D
 
 Características principales:
 
+- Permite que el maquillaje aguante intacto por más tiempo
 - Pre base de maquillaje matificante Infalible
 - Textura gel transparente ligero de rápida absorción
 - Prepara la piel para aplicar el maquillaje, alisando los poros
-- Permite que el maquillaje aguante intacto por más tiempo
 - Aplicar por todo el rostro en movimientos circulares para preparar y alisar la superficie de la piel
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TPDVUTI/?tag=tolees-21)

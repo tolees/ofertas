@@ -29,10 +29,10 @@ Está [deAO Juegos de Imitación Maletín y Taburete 2 en 1 Conjunto Portátil c
 Principales características:
 
 - Accesorios incluidos: tuercas y tornillos, destornillador, llave inglesa, pinza, sierra, martillo y más!
-- Espacio adicional debajo de la superficie y dos estantes para mantenerlo todo ordenado. Fácil de llevar, con un hermoso diseño. Fuerte, estable y robusto y durable.
-- Medidas: Cerrado 32cm x 19cm x 24cm / Abierto 48cm x 36cm x 24cm (Vea imágenes para más detalle). POR FAVOR REVISE MEDIDAS ANTES DE COMPRAR
 - Edad recomendada: A partir de 3 años (debido a piezas pequeñas). Peso máximo 30-35kg
 - Kit Taller Mecánico con Herramientas de Juguete – Taburete / Maletín portable con mesa de trabajo incrustada y accesorios.
+- Medidas: Cerrado 32cm x 19cm x 24cm / Abierto 48cm x 36cm x 24cm (Vea imágenes para más detalle). POR FAVOR REVISE MEDIDAS ANTES DE COMPRAR
+- Espacio adicional debajo de la superficie y dos estantes para mantenerlo todo ordenado. Fácil de llevar, con un hermoso diseño. Fuerte, estable y robusto y durable.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00M3I1OG6/?tag=tolees-21)
 

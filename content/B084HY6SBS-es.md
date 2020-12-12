@@ -30,8 +30,8 @@ Características principales:
 
 - Puntera terminada a mano para evitar molestias
 - Algodón peinado para proporcionar una sensación de suavidad
-- Combinación clásica con motivo de ojo de perdiz de base
 - Caja de regalo metálica de edición limitada
+- Combinación clásica con motivo de ojo de perdiz de base
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084HY6SBS/?tag=tolees-21)
 

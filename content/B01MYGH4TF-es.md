@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Licor del Polo - Pasta de dientes 2 en 1 al 25.64 % de descuento'
-date: 2020-12-03 06:14:19
+date: 2020-12-12 11:59:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uX6mmgNsL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41uX6mmgNsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uX6mmgNsL._SL200_.jpg' ]
@@ -28,6 +28,11 @@ Ahora mismo tienes [Licor del Polo - Pasta de dientes 2 en 1 Acción 3 - Protecc
 
 Características:
 
+- Es formulado con micro-granulos
+- Combate la placa entre los dientes
+- Tiene acción blanqueadora
+- Tiene un aliento fresco
+- Ofrece protección anticaries
 
 [Visítala!!!](https://www.amazon.es/dp/B01MYGH4TF/?tag=tolees-21)
 

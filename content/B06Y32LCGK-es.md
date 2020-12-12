@@ -30,8 +30,8 @@ Características:
 
 - Tiene un ajuste óptimo
 - Hecho 100 % de poliéster
-- Pantalón corto con bolsillos
 - Cintura elástica con cordón
+- Pantalón corto con bolsillos
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y32LCGK/?tag=tolees-21)
 

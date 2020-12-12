@@ -29,12 +29,12 @@ Ahora mismo tienes [Duracell Plus AAA - Pilas Alcalinas Paquete de 12  1.5 Volti
 Características:
 
 - Everyone knows the endurance of the Duracell Bunny
-- SAFETY: the Superior Nylon top closure helps prevent leakage and protects all familys favourite everyday devices such as torch, remote control, clock, toys, Arlo security camera, etc
-- *Longevity performance compared to the Minimum Average Duration of the 2015 IEC AAA Motorized Toy test. Results may vary by device or usage pattern
 - DURABILITY: Duralock technology keeps the full energy of your unused Duracell batteries for up to 10 years in their packaging (ambient storage)
-- Manufactured in Belgium. Available in AA, AAA, C, D, 4.5 V and 9 V sizes
-- POWER AND LONGEVITY: Duracell Plus AAA batteries provide reliable and long-lasting energy to power all your devices with up to 50 Percent more power*
+- *Longevity performance compared to the Minimum Average Duration of the 2015 IEC AAA Motorized Toy test. Results may vary by device or usage pattern
 - ICONIC: Duracell and its famous Bunny have been offering high performance batteries for over 50 years. In 1969, Duracell was part of the Apollo 11 mission and became the first battery on the moon
+- SAFETY: the Superior Nylon top closure helps prevent leakage and protects all familys favourite everyday devices such as torch, remote control, clock, toys, Arlo security camera, etc
+- POWER AND LONGEVITY: Duracell Plus AAA batteries provide reliable and long-lasting energy to power all your devices with up to 50 Percent more power*
+- Manufactured in Belgium. Available in AA, AAA, C, D, 4.5 V and 9 V sizes
 
 [Visítala!!!](https://www.amazon.es/dp/B005EJFLEM/?tag=tolees-21)
 

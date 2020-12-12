@@ -28,10 +28,10 @@ Está [1.2.3 Camión de Construcción](https://www.amazon.es/dp/B07P6FPTTZ/?tag=
 
 Principales características:
 
-- Transporte los bloques de construcción junto con la trabajadora de la construcción
-- Camión de basura con volquete y accesorios
 - Desarrolla la imaginación y la creatividad
+- Transporte los bloques de construcción junto con la trabajadora de la construcción
 - Con función basculante
+- Camión de basura con volquete y accesorios
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07P6FPTTZ/?tag=tolees-21)
 

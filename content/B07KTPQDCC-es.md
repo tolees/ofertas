@@ -28,11 +28,11 @@ Está [Hugo BOSS Reloj de pulsera 1513705](https://www.amazon.es/dp/B07KTPQDCC/?
 
 Principales características:
 
+- Esfera gris
 - Pulsera de dos tonos de acero inoxidable y de chapado en oro rosa
 - Movimiento cronógrafo
 - 10 ATM de resistencia al agua
 - Grosor de la caja de 12,00 mm
-- Esfera gris
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTPQDCC/?tag=tolees-21)
 

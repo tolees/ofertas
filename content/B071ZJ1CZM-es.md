@@ -30,8 +30,8 @@ Características principales:
 
 - ( 5 ) Sobrecolchón Suave Tamaño-150 *200 * 5CM
 - ( 2 ) Confortable experiencia de dormir - colchón topper de Espuma de soporte de alta densidad, perfectamente compatible con una experiencia de sueño sin peso.
-- ( 3 ) Multifunción: colchoncillo viscoelástico per adultos, niños.
 - ( 1 ) Memory Foam: cubrecolchón de espuma con memoria relaje al cuerpo para un sueño saludable.
+- ( 3 ) Multifunción: colchoncillo viscoelástico per adultos, niños.
 - ( 4 ) Espuma viscoelástica colchón topper toma alrededor de 4-48 horas para recuperar su forma original.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B071ZJ1CZM/?tag=tolees-21)

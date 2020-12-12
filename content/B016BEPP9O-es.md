@@ -28,10 +28,10 @@ Está [Kingston DataTraveler 100 G3 -DT100G3/128GB  USB 3.0  Flash Drive  128 GB
 
 Principales características:
 
-- Capacidad de la memoria: 128 GB
-- Velocidad de lectura: 100 MB/s
 - Un dispositivo de almacenamiento USB 3.0
+- Capacidad de la memoria: 128 GB
 - Diseño elegante en negro y tapa deslizante
+- Velocidad de lectura: 100 MB/s
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016BEPP9O/?tag=tolees-21)
 

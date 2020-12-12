@@ -28,10 +28,10 @@ Está [Daniel Wellington Petite Melrose  Reloj Oro Rosado  28mm  Metálico  para
 
 Principales características:
 
-- Longitud de la correa ajustable: (Min - Max) 150-205mm
 - Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
-- Tamaño de Esfera: 28 mm
 - Correa intercambiable
+- Longitud de la correa ajustable: (Min - Max) 150-205mm
+- Tamaño de Esfera: 28 mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076HCCR3Y/?tag=tolees-21)
 

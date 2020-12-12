@@ -28,8 +28,8 @@ Está [Corsair MM300 Alfombrilla de ratón para juego superficie paño antidezga
 
 Principales características:
 
-- Sin desgaste, sin problemas: bordes rodeados con costuras que protegen la superficie y evitan que se pele para la óptima durabilidad
 - Control superior: superficie tejida pensada para una precisión extrema y un rastreo de baja fricción
+- Sin desgaste, sin problemas: bordes rodeados con costuras que protegen la superficie y evitan que se pele para la óptima durabilidad
 - Exactitud y precisión: optimizada para ratones ópticos y láser para juegos
 - Sin deslizamiento: la base de caucho antideslizante la mantiene fija en su sitio
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Un Trail Form  Derbys Derby  Brau al 46.37 % de descuento'
-date: 2020-12-11 10:27:11
+date: 2020-12-12 11:12:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GuLSXLg1L._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41GuLSXLg1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GuLSXLg1L._SL200_.jpg' ]
@@ -28,8 +28,8 @@ Está [Clarks Un Trail Form  Derbys Derby  Braun  Mahogany Leather Mahogany Leat
 
 Principales características:
 
-- Color Exacto: Cuero Caoba
 - Único Material: Caucho
+- Color Exacto: Cuero Caoba
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TXDZ72C/?tag=tolees-21)
 

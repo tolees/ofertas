@@ -30,8 +30,8 @@ Principales características:
 
 - Hecho de tela Climacool transpirable que te mantiene fresco y seco
 - Prácticos puños con cremallera
-- Bolsillos ocultos en las costuras laterales
 - Cintura elástica con cordón
+- Bolsillos ocultos en las costuras laterales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076HPCPVY/?tag=tolees-21)
 

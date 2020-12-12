@@ -28,8 +28,8 @@ Está [Guess Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidabl
 
 Principales características:
 
-- Reloj Guess oro W1070L2
 - Esfera beige.
+- Reloj Guess oro W1070L2
 - Pulsera de acero inoxidable.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079NRQRKJ/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [adidas Lite Racer CLN  Sneaker  Legend Ink/Footwear White/Signal Green  3
 
 Principales características:
 
-- Ajuste regular
 - Tejido superior de punto
 - Cordones de zapatos
+- Ajuste regular
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08BX8J9WT/?tag=tolees-21)
 

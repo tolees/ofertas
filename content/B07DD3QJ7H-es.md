@@ -28,11 +28,11 @@ Ahora mismo tienes [Hasbro Gaming Juego The Game Of Life  Juego De Mesa Para La 
 
 Características:
 
-- Puedes adoptar mascotas en esta edición
-- Juega con la familia y amigos
-- El juego Game of Life está lleno de sorpresas
-- Elige el camino para una vida de acción, aventura y sorpresas inesperadas
 - Empieza a tomar tus propias decisiones mientras recorres las diferentes etapas de la vida
+- Juega con la familia y amigos
+- Elige el camino para una vida de acción, aventura y sorpresas inesperadas
+- El juego Game of Life está lleno de sorpresas
+- Puedes adoptar mascotas en esta edición
 
 [Visítala!!!](https://www.amazon.es/dp/B07DD3QJ7H/?tag=tolees-21)
 

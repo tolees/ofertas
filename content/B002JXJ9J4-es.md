@@ -28,9 +28,9 @@ Tienes [Tous Baby Agua de Colonia Vaporizador - 100 ml](https://www.amazon.es/dp
 
 Características principales:
 
-- Familias Olfativas: Cítrica, Floral, Frutal
-- Diseñadores: Shyamala Maisondieu y Michel Girard
 - Fecha lanzamiento: 2007
+- Diseñadores: Shyamala Maisondieu y Michel Girard
+- Familias Olfativas: Cítrica, Floral, Frutal
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B002JXJ9J4/?tag=tolees-21)
 

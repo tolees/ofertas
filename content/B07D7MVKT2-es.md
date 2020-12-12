@@ -28,11 +28,11 @@ Está [HUAWEI Wi-Fi WS5200 AC1200 - Router inalámbrico Gigabit  Dual-Band  4 Pu
 
 Principales características:
 
-- Router WiFi de largo alcance con 4 antenas ampliadas y un algoritmo de corrección de señal débil para una señal fuerte en toda la casa.
-- Aumento del 20% en la velocidad de WiFi con la tecnología mu-mimo. El router WS5200 de Huawei puede comunicar diferentes dispositivos simultáneamente y proporciona una velocidad WiFi más rápida para cada dispositivo.
 - Identificación automática de su modo de acceso a internet (PPPOE / DHCP); no se requiere operación manual.
+- Aumento del 20% en la velocidad de WiFi con la tecnología mu-mimo. El router WS5200 de Huawei puede comunicar diferentes dispositivos simultáneamente y proporciona una velocidad WiFi más rápida para cada dispositivo.
 - Velocidad máxima con 5 GHz. Configura un SSID y el router WS5200 de Huawei conectará tus dispositivos a 5GHz preferentemente, con cambio automático a 2.4GHz al alejarse.
 - Router WiFi Gigabit de doble banda AC 1200 Mbps (N300 + AC900) perfecto para Internet en casa, especialmente para transmisión en 4k o juegos.
+- Router WiFi de largo alcance con 4 antenas ampliadas y un algoritmo de corrección de señal débil para una señal fuerte en toda la casa.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07D7MVKT2/?tag=tolees-21)
 

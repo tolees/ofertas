@@ -28,11 +28,11 @@ Ahora mismo tienes [WMF El Principito - Cubertería para niños 4 piezas  tenedo
 
 Características:
 
-- Material: Cromargan stainless steel 18/10 polished. Rust-free, dishwasher safe, dimensionally stable, sanitary, acid resistant and indestructible. The colourful silverware motifs are scratch resistant, food safe and colour safe.
-- Content: 1 each fork, table knife, spoon and small spoon. | Item number: 1294056040
 - For children 6 years and up: The size of the silverware set is designed for school children and is a perfect intermediate step before eating with silverware for adults.
+- Material: Cromargan stainless steel 18/10 polished. Rust-free, dishwasher safe, dimensionally stable, sanitary, acid resistant and indestructible. The colourful silverware motifs are scratch resistant, food safe and colour safe.
 - The childrens silverware is ideal as a baptism gift or for the birth of a child with personal individual engraving.
 - As a German brand WMF is known for its versatile stylish range of products and reliability in quality and finish. For over 160 years WMF has been making cooking, dining and drinking a real experience whilst maintaining professional standards and progressing manufacturing technologies.
+- Content: 1 each fork, table knife, spoon and small spoon. | Item number: 1294056040
 
 [Visítala!!!](https://www.amazon.es/dp/B00X3LFPQ2/?tag=tolees-21)
 

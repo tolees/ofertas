@@ -30,10 +30,10 @@ Principales características:
 
 - Aluminio fundido con espesor de 6 mm; y recubrimiento antiadherente de la calidad tricapa teflón platinum plus sin pfoa
 - Sartén 20 cm-Diámetro base: 130mm / Sartén 24 cm-Diámetro base: 165 mm. / Sartén 28 cm-Diámetro base: 195 mm
-- Mango ergonómico y apilable de color naranja
-- Fondo difusor uniforme de eficiencia (save energía sistema)
 - Fondo full induction compatible con todas las fuentes de calor incluida la inducción
+- Mango ergonómico y apilable de color naranja
 - Tecnología eco+: 100 % libres de pfoa, salvaguardando de esta manera el medioambiente y eliminando cualquier posible efecto nocivo de dicho elemento para el ser humano o el planeta
+- Fondo difusor uniforme de eficiencia (save energía sistema)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FD6ZYHT/?tag=tolees-21)
 

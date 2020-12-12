@@ -28,11 +28,11 @@ Tienes [Medisana BU 530 connect Tensiómetro para el brazo  pantalla de arritmia
 
 Características principales:
 
+- En casa o de viaje: El tensiómetro BU 530 se suministra con una práctica bolsa de almacenamiento para su transporte fácil y seguro.
+- Para el brazo: El manguito se ajusta a circunferencias de brazo de 22 a 36 cm. Una gran pantalla presenta los valores de sístole, diástole y pulso, así como la fecha y la hora
+- Indicador de arritmia: El BU 530 puede indicar posibles arritmias cardíacas. Solo su médico puede evaluar el tipo y la gravedad de una arritmia
 - Producto médico: Control de la presión arterial con escala de colores tipo semáforo de la OMS para clasificar los resultados de la medición. También mide el pulso
 - Función de memoria: El tensiómetro para el brazo cuenta con una memoria interna que permite almacenar 120 resultados de mediciones para 2 usuarios.
-- Indicador de arritmia: El BU 530 puede indicar posibles arritmias cardíacas. Solo su médico puede evaluar el tipo y la gravedad de una arritmia
-- Para el brazo: El manguito se ajusta a circunferencias de brazo de 22 a 36 cm. Una gran pantalla presenta los valores de sístole, diástole y pulso, así como la fecha y la hora
-- En casa o de viaje: El tensiómetro BU 530 se suministra con una práctica bolsa de almacenamiento para su transporte fácil y seguro.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015SUBGUY/?tag=tolees-21)
 

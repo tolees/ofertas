@@ -29,11 +29,11 @@ Tienes [Ariston 3700509 Termo Eléctrico  1800 W  50V  Slim 50 L](https://www.am
 Características principales:
 
 - Máximo ahorro energético
-- Memoriza tus consumos y se adapta a tus necesidades
-- Sistema de máxima seguridad para garantizar agua caliente
 - Aconsejado para el uso de viviendas donde vivan 1 o 2 personas.
-- Display inteligente con LED indicadores de temperatura
+- Sistema de máxima seguridad para garantizar agua caliente
 - Tamaño reducido
+- Memoriza tus consumos y se adapta a tus necesidades
+- Display inteligente con LED indicadores de temperatura
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N02XQ9G/?tag=tolees-21)
 

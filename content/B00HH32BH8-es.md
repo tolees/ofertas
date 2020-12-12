@@ -28,8 +28,8 @@ Está [Rotulador STABILO Pen 68 - Estuche con 30 colores](https://www.amazon.es/
 
 Principales características:
 
-- Calidad Alemana
 - Hasta 24 horas destapado sin secarse
+- Calidad Alemana
 - Gama de 46 colores
 - Gran diversidad de estuches
 

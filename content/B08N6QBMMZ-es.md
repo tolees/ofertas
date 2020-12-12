@@ -28,8 +28,8 @@ Ahora mismo tienes [IKOHS WARMTOW - Toallero Eléctrico Bajo Consumo  500 W  Cal
 
 Características:
 
-- Puedes usarlo de forma continua como calentador, o usar el programa para calentar las toallas 2hrs antes de usarlas.
 - Confort de bajo consumo: con una potencia de 500W.
+- Puedes usarlo de forma continua como calentador, o usar el programa para calentar las toallas 2hrs antes de usarlas.
 - Fácil de instalar, basta con colgarlo a la pared y enchufarlo.
 - Se controla digitalmente y puedes revisar la temperatura en su pequeña pantalla LCD.
 - 3 en 1: Secador de toallas, calentador de prendas y estufa de baño o vestidor.

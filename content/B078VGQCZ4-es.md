@@ -30,10 +30,10 @@ Principales características:
 
 - Cancelación digital de ruido se ajusta a tu entorno gracias a la función AINC con una sola pulsación
 - Transmisión inalámbrica Bluetooth mediante NFC con un solo toque
-- Perfiles compatible con Bluetooth: A2DP (Perfil de Distribución de Audio Avanzado); AVRCP (Perfil de control remoto de audio y video)
-- Escucha con mayor detalle con la unidad de diafragma de 40 mm
-- La compatibilidad con Smartphone te permite realizar llamadas con manos libres y utilizar el asistente de voz
 - Escucha duradera con hasta 35 horas de duración de batería y carga rápida
+- Escucha con mayor detalle con la unidad de diafragma de 40 mm
+- Perfiles compatible con Bluetooth: A2DP (Perfil de Distribución de Audio Avanzado); AVRCP (Perfil de control remoto de audio y video)
+- La compatibilidad con Smartphone te permite realizar llamadas con manos libres y utilizar el asistente de voz
 
 [Ver la oferta!!](https://www.amazon.es/dp/B078VGQCZ4/?tag=tolees-21)
 

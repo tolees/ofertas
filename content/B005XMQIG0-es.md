@@ -28,9 +28,9 @@ Ahora mismo tienes [DIM Pack x 3 Braguitas Les Pockets Coton Slips Gris / Antrac
 
 Características:
 
+- Cintura y acabados planos para invisibilidad debajo de la ropa
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 15.25€
 - Cintura con el logotipo de DIM
-- Cintura y acabados planos para invisibilidad debajo de la ropa
 - Divertidos, cómodos y modernos
 
 [Visítala!!!](https://www.amazon.es/dp/B005XMQIG0/?tag=tolees-21)

@@ -28,11 +28,11 @@ Está [PETG Filamento para impresora 3D 1 75 mm  tolerancia de diámetro +/- 0 0
 
 Principales características:
 
-- TRONXY PETG filamento para impresora 3D sellado al vacío con desecante.
-- Diámetro de la bobina: 20,32 cm. Ancho de la bobina: 6,35 cm. Diámetro del agujero del buje de la bobina: 5,2 cm. Diámetro del círculo interior: 8,9 cm.
-- Filamento neto de 1 kg (aproximadamente 1 kg) con bobina negra.
 - Temperatura recomendada de extrusión/boquilla: 230 °C a 250 °C.
+- Diámetro de la bobina: 20,32 cm. Ancho de la bobina: 6,35 cm. Diámetro del agujero del buje de la bobina: 5,2 cm. Diámetro del círculo interior: 8,9 cm.
 - Diámetro del filamento de 1,75 mm (precisión dimensional +/- 0,05 mm).
+- TRONXY PETG filamento para impresora 3D sellado al vacío con desecante.
+- Filamento neto de 1 kg (aproximadamente 1 kg) con bobina negra.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PMHPJXS/?tag=tolees-21)
 

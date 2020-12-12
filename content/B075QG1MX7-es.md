@@ -30,9 +30,9 @@ Características:
 
 - Este relleno nórdico es totalmente transpirable
 - Fácil mantenimiento: lavable en lavadora y secable en secadora a temperatura baja
+- Para habitaciones con temperaturas medias
 - Protección contra los ácaros - mejora la higiene del producto
 - Hipoalergénico; La microfibra  ayuda a disminuir los síntomas de alergia
-- Para habitaciones con temperaturas medias
 
 [Visítala!!!](https://www.amazon.es/dp/B075QG1MX7/?tag=tolees-21)
 

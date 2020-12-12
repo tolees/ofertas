@@ -28,9 +28,9 @@ Está [Bellies- Disfraces reversibles Mariposa  Famosa 700015550 ](https://www.a
 
 Principales características:
 
-- Set de ropita de los muñecos Bellies de 17 cm
-- Lavable en agua fría
 - Por un aldo ropita colorida y por el otro, disfraz de mariposa
+- Lavable en agua fría
+- Set de ropita de los muñecos Bellies de 17 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084JN4YNW/?tag=tolees-21)
 

@@ -28,11 +28,11 @@ Está [Lacoste Reloj Analógico para Unisex Niños de Cuarzo con Correa en Silic
 
 Principales características:
 
-- Esfera rosa
 - Grosor de la caja de 9,85 mm
-- Correa de silicona rosa y diseño impreso
-- Tres manecillas
 - 5 ATM de resistencia al agua
+- Esfera rosa
+- Tres manecillas
+- Correa de silicona rosa y diseño impreso
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07G4FV8SH/?tag=tolees-21)
 

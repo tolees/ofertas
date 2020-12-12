@@ -29,10 +29,10 @@ Está [BRA Prior - Juego de 2 Sartenes de Aluminio + 1 Tapa Protectora  20 y 24 
 Principales características:
 
 - Mango ergonómico y apilable
-- Fondo difusor uniforme de gran eficiencia (Save energy system)
 - Recubrimiento antiadherente de alta calidad tricapa Teflon Classic sin PFOA
-- Apta para todo tipo de cocinas, incluido inducción
 - Aluminio fundido
+- Apta para todo tipo de cocinas, incluido inducción
+- Fondo difusor uniforme de gran eficiencia (Save energy system)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00PLS49RQ/?tag=tolees-21)
 

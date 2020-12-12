@@ -29,8 +29,8 @@ Está [Royal Canin C-11500 Educ Sobres  50 gr  1 unidad](https://www.amazon.es/d
 Principales características:
 
 - Premio bajo en calorías y vitaminado
-- Perros
 - Golosina
+- Perros
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004RATTUG/?tag=tolees-21)
 

@@ -28,11 +28,11 @@ Tienes [Columbia Silver Ridge II Short  Hombre  Gris  City Grey   W38/L8](https:
 
 Características principales:
 
-- Pantalones cortos de senderismo para días soleados con una precisa combinación de material resistente y ventilación
-- 1x Columbia Silver Ridge II, Pantalones cortos para hombre, Fibra sintética, Gris (City Grey), W38/L8, Art. 1794931
-- Ajuste y circulación óptimos gracias a los bolsillos de malla, Cintura parcialmente elástica, Cinturón extraíble integrado y detalle de refuerzo bien colocado
 - Fiable nylon ripstop para más sensación de seguridad por los senderos, Control de humedad Omni-Wick para la sequedad, Protección solar Omni Shade UPF 50
+- 1x Columbia Silver Ridge II, Pantalones cortos para hombre, Fibra sintética, Gris (City Grey), W38/L8, Art. 1794931
 - Dos bolsillos de mano, Dos bolsillos de atrás y un bolsillo de seguridad con cierre de cremallera para un amplio almacenamiento
+- Pantalones cortos de senderismo para días soleados con una precisa combinación de material resistente y ventilación
+- Ajuste y circulación óptimos gracias a los bolsillos de malla, Cintura parcialmente elástica, Cinturón extraíble integrado y detalle de refuerzo bien colocado
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0817FS5WR/?tag=tolees-21)
 

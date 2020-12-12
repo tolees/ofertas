@@ -29,10 +29,10 @@ Está [NOFFA - Cubrecolchón de Espuma viscoelástica para Cama de Matrimonio  1
 Principales características:
 
 - Se adapta a tu cuerpo: colchón de espuma viscoelástica para cama doble con la capacidad de suavizar gradualmente para adaptarse a tu cuerpo. 2 colchones de espuma viscoelástica 5 cm más comodidad y apoyo, reduciendo el impacto de tus movimientos al absorber los golpes. ¡Puedes moverte sin molestar a la persona que comparte tu cama!
-- La garantía de NOFFA: con el fin de proporcionar una experiencia de sueño premium, si cualquiera de las colchonetas de espuma de cama doble NOFFA no te da satisfacción completa, se puede devolver en 30 días para un reembolso completo, sin condiciones.
-- Dimensiones del producto: 140 x 200 x 5 cm. Topper de espuma viscoelástica extremadamente suave y transpirable.
 - Forma de espuma viscoelástica: doble de memoria para distribuir uniformemente la presión.
+- La garantía de NOFFA: con el fin de proporcionar una experiencia de sueño premium, si cualquiera de las colchonetas de espuma de cama doble NOFFA no te da satisfacción completa, se puede devolver en 30 días para un reembolso completo, sin condiciones.
 - Comodidad: la cubierta de espuma viscoelástica proporciona un apoyo óptimo al reducir los puntos de presión en tu cuerpo y alinear adecuadamente tu columna vertebral durante la noche.
+- Dimensiones del producto: 140 x 200 x 5 cm. Topper de espuma viscoelástica extremadamente suave y transpirable.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NQBGK9C/?tag=tolees-21)
 

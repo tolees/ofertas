@@ -29,9 +29,9 @@ Está [Instituto Español - Pieles Atópicas - Crema cuidado integral - 50 ml](h
 Principales características:
 
 - Hipoalergénico
-- No irrita
 - Acción anti-sequedad
 - Especial piel atópica
+- No irrita
 - Regenera progresivamente la piel
 - Calma el picor
 

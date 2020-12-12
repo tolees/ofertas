@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Homb
 
 Características:
 
-- 100% poliéster piqué
 - Construidos para mantenerlo seco y cómodo para que pueda concentrarse en perfeccionar sus habilidades
+- 100% poliéster piqué
 - Cordón en la cintura elástica
 - La tela climalite barre el sudor de la piel
 

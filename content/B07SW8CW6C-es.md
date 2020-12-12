@@ -29,10 +29,10 @@ Tienes [20 Piezas Cuentas Redondas Sueltas de Madera Natura con Orificio Espacia
 Características principales:
 
 - * Las cuentas sin terminar hacen tus propias cuentas de madera personalizadas para decoración o artesanía.
-- * Cuentas redondas de madera natural con un orificio, bien pulidas y se pueden garabatear o colorear.
+- * Puede ser utilizado para hacer collar, pulsera o cualquier pieza de joyería.
 - * Perfecto para hacer bisutería de joyería u otros proyectos artesanales.
 - * También, perfecto para trabajar la madera, hacer muñecas, macramé, decorar o lo que sea que su imaginación pueda imaginar.
-- * Puede ser utilizado para hacer collar, pulsera o cualquier pieza de joyería.
+- * Cuentas redondas de madera natural con un orificio, bien pulidas y se pueden garabatear o colorear.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SW8CW6C/?tag=tolees-21)
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Gazelle  Zapatillas Hombre  Rojo  Collegiate Burgundy
 
 Características:
 
-- adulto
 - Rojo
+- adulto
 
 [Visítala!!!](https://www.amazon.es/dp/B07D6ZJQ7Q/?tag=tolees-21)
 

@@ -28,11 +28,11 @@ Está [FITTOO Mallas Leggings Mujer Pantalones Deportivos Yoga Alta Cintura Elá
 
 Principales características:
 
-- 【Material Excelente】: 88% poliéster 12% spandex
-- 【Rango】： Ajuste delgado que se ajusta a través del cuerpo y los brazos.
-- 【Característica】： Los leggings sin costura；tela tacado suave de alta elasticidad y durable. Las telas altamente elásticas proporciona soporte estable y alivian el impacto del ejercicio.
 - 【Diseño】：Diseño de moda，Exquisita impresión o malla múltiples estilos se pueden combinar con una variedad de pantalones de ropa deportiva y que le hace más atractiva
+- 【Característica】： Los leggings sin costura；tela tacado suave de alta elasticidad y durable. Las telas altamente elásticas proporciona soporte estable y alivian el impacto del ejercicio.
+- 【Material Excelente】: 88% poliéster 12% spandex
 - 【Atención】： Por favor seleccione en la última foto la talla que de cada serie de productos es distinta.
+- 【Rango】： Ajuste delgado que se ajusta a través del cuerpo y los brazos.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VZMMF9C/?tag=tolees-21)
 

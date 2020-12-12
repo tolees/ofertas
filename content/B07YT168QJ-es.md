@@ -28,11 +28,11 @@ Está [Razer Cynosa Lite - Teclado de juegos tipo Membrana  Gaming  con interrup
 
 Principales características:
 
-- Teclas totalmente programables: cada tecla individual se puede asignar para que se le pueda asignar una función diferente o puede tener la función de varias teclas simultáneamente usando una macro
-- Diseño robusto a prueba de salpicaduras: no se preocupe si la reacción a un partido violento es demasiado violenta; gracias a la carcasa a prueba de salpicaduras, los líquidos derramados accidentalmente Razer Cynosa Lite no causan ningún problema, lo que optimiza la vida útil del teclado
 - Admite Razer Synapse: Finalmente, un teclado adecuado; con Razer Synapse, los botones se pueden reasignar, asignar macros, personalizar la iluminación y personalizar completamente el juego; con esta herramienta unificada para la configuración del hardware, no hay límites en lo que respecta al diseño personal
 - Teclas de calidad de torneo: Ofrecen comodidad, de modo que cada pulsación de tecla se sienta; cada vez que presiona un botón, puede sentir todo el recorrido de la tecla y la retroalimentación táctil, para obtener la precisión en el calor del momento
 - Desarrollado por Razer Chroma: 16.8 millones de opciones de color aseguran una experiencia de juego absolutamente individual, fácil de ajustar con Razer Synapse; rollover de 10 teclas
+- Teclas totalmente programables: cada tecla individual se puede asignar para que se le pueda asignar una función diferente o puede tener la función de varias teclas simultáneamente usando una macro
+- Diseño robusto a prueba de salpicaduras: no se preocupe si la reacción a un partido violento es demasiado violenta; gracias a la carcasa a prueba de salpicaduras, los líquidos derramados accidentalmente Razer Cynosa Lite no causan ningún problema, lo que optimiza la vida útil del teclado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YT168QJ/?tag=tolees-21)
 

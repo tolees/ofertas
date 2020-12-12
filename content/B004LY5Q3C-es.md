@@ -28,10 +28,10 @@ Tienes [Singer Maquina de Coser Talent 3323  Blanco  45 7 x 22 2 x 35 6](https:/
 
 Características principales:
 
-- Cordoncillo para uniones y bordes y ojal automático en un tiempo
-- Máquina automática con 30 diseños de costura
-- Con pespunte central de largo variable y pespunte central elástico
 - Dispone de 5 puntadas para decoraciones y 11 puntadas elásticas
+- Máquina automática con 30 diseños de costura
+- Cordoncillo para uniones y bordes y ojal automático en un tiempo
+- Con pespunte central de largo variable y pespunte central elástico
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B004LY5Q3C/?tag=tolees-21)
 

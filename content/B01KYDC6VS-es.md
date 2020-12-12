@@ -28,11 +28,11 @@ Está [Asmodee Story Cubes Doctor Who - Más versiones disponibles  Multilenguaj
 
 Principales características:
 
+- Ergonómico carcasa de plástico para mantener su storycubes seguro mientras que sobre la marcha.
 - Tamaño de bolsillo generador de historia creativa que alienta a la imaginación y la creatividad.
 - Rollo los nueve cubos, vea las imágenes y crear diversión sin límites, doctor who historias con millones de combinaciones.
-- Mezcla tu set de doctor who con otros conjuntos de rory s story cubes para crear su última historia.
-- Ergonómico carcasa de plástico para mantener su storycubes seguro mientras que sobre la marcha.
 - El regalo perfecto para el fan de doctor who que quiere para extender su tiempo lord collection.
+- Mezcla tu set de doctor who con otros conjuntos de rory s story cubes para crear su última historia.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01KYDC6VS/?tag=tolees-21)
 

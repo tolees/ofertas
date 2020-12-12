@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.66 % en Invicta Reloj Cronógrafo para Hombre de '
-date: 2020-12-09 13:36:38
+date: 2020-12-12 11:17:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IqwerdihL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51IqwerdihL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IqwerdihL._SL200_.jpg' ]
@@ -28,6 +28,11 @@ Tienes [Invicta Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inox
 
 Características principales:
 
+- El Invicta 14878 tiene una caja de acier inoxydable de 45 milímetros con una esfera negro
+- 2 años de garantía Invicta
+- Este modelo funciona con un movimiento de Cuarzo preciso
+- Este modelo es parte de la colección Invicta Specialty
+- Resistencia a la presión de agua de 5 bares. Tipo de Corona: empujar.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00EJISEBQ/?tag=tolees-21)
 

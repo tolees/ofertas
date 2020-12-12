@@ -28,10 +28,10 @@ Está [Funko Pop! TV: Game of Thrones - Crystal Night King w/Dagger in Chest  Mu
 
 Principales características:
 
-- El producto se envía en una caja ilustrada con ventana
 - El artículo es adecuado para todos los fanáticos de Game of Thrones
 - Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
+- El producto se envía en una caja ilustrada con ventana
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RMBCFPC/?tag=tolees-21)
 
