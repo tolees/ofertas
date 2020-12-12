@@ -24,10 +24,10 @@ Ahora mismo tienes [Einhell VARRITO Herramienta Sin Cable Multifunción  18 V co
 
 🔎:
 
-- Portaherramientas de 12 enganches para un posicionamiento flexible de los accesorios
 - Soporte de batería aislado contra las oscilaciones para reducir la vibración
-- Se suministra sin batería ni cargador (se venden por separado)
+- Portaherramientas de 12 enganches para un posicionamiento flexible de los accesorios
 - Incluye placa de lijado triangular, 9 lijas (3 de p60/3 de p80/3 de p120), raspador, hoja de sierra para madera y plástico (HCS), hoja de sierra adicional bim para metal, hoja de sierra de segmentos para madera, plástico y metal blando (HSS), hoja de sierra de segmentos de diamante para juntas de azulejos
 - Cierre de liberación rápida para cambiar accesorios sin necesidad de herramientas
+- Se suministra sin batería ni cargador (se venden por separado)
 
 [Visítala!!!](https://www.amazon.es/dp/B07DF4XQJG/?tag=tolees-21)

@@ -26,7 +26,7 @@ Tienes [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/32GB Class 10 con Ada
 
 - Velocidades de UHS-I Clase 10 de hasta 100 MB/s
 - Tipo de tarjeta flash: MicroSDHC
-- Funciones de protección: resistente a golpes, resistente a las vibraciones, a prueba de rayos X
 - Optimizadas para uso con dispositivos Android
+- Funciones de protección: resistente a golpes, resistente a las vibraciones, a prueba de rayos X
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07YGZ7FY7/?tag=tolees-21)

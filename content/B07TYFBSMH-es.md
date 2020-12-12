@@ -24,10 +24,10 @@ Está [5 Pares/Set Uso Duradero 5.5x2.1mm Macho + Hembra Conector DC Enchufe Con
 
 ℹ️:
 
-- Es muy duradero para su uso.
-- Fácil de usar, perfecta señal sin pérdida, plug and play.
-- Chaquetas de alambre negro y rojo indican polaridad.
 - Tamaño portátil, fácil de llevar y usar.
+- Es muy duradero para su uso.
+- Chaquetas de alambre negro y rojo indican polaridad.
+- Fácil de usar, perfecta señal sin pérdida, plug and play.
 - Este cable de alimentación CC conecta sus cámaras de seguridad a su caja de alimentación / adaptador de alimentación.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TYFBSMH/?tag=tolees-21)

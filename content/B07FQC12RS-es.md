@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjitim Jjoriginal Am 781 50 al 52.89 % de descuento'
-date: 2020-12-11 16:42:02
+date: 2020-12-12 16:55:04
 image: 'https://m.media-amazon.com/images/I/31AbwP031EL._SL200_.jpg'
 comments: true
 category: ofertas
