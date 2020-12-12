@@ -24,11 +24,11 @@ Ahora mismo tienes [Crocs Classic Clog  Zuecos Unisex Adulto  Negro  Black 001  
 
 🔎:
 
-- Revestimiento: Sin forro
-- Tipo de tacón: Plano
-- Composición: Sintético
 - Material exterior: Espuma
+- Tipo de tacón: Plano
+- Revestimiento: Sin forro
 - Material de la suela: Sintético
 - Cierre: Tira de tobillo
+- Composición: Sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B0014BYHGC/?tag=tolees-21)

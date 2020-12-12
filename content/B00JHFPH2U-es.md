@@ -24,9 +24,9 @@ Ahora mismo tienes [Sesderma C-Vit Liposomal Serum - 30 ml](https://www.amazon.e
 
 🔎:
 
-- Tipo de piel: sensible
 - Indicada para prevenir y tratar el foto envejecimiento cutáneo provocado por el sol, estrés, tabaco, una alimentación poco equilibrada, dormir poco
 - Indicado para todo tipo de pieles. Limpie y tonifique la piel. A continuación aplique C-Vit liposomal serum, preferiblemente dos veces al día con un suave masaje
+- Tipo de piel: sensible
 - Vitamina C estabilizada (3-O-Ethyl ascorbic acid), Antiox booster system (ginkgo biloba, Pterostilbeno, Quercetina), Palmitoyl tripeptido-5, ácido hialurónico, Extracto de morus alba (mora)
 
 [Visítala!!!](https://www.amazon.es/dp/B00JHFPH2U/?tag=tolees-21)

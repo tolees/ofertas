@@ -24,8 +24,8 @@ Tienes [Trangoworld Arkan Ft Pant. Largo  Hombre  Sombra Oscuro  2XL](https://ww
 
 ℹ️:
 
-- Interior ligeramente cardado para un tacto suave y agradable
 - Repelente al agua
+- Interior ligeramente cardado para un tacto suave y agradable
 - Transpirable
 - Tejido bielástico maximiza confort y libertad de movimiento
 - Diseño funcional y técnico

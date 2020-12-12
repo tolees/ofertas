@@ -24,9 +24,9 @@ Está [Nike Court Borough Low 2  Sneaker Baby-Boys  Black/Black-Black  19.5 EU](
 
 ℹ️:
 
-- Importado
-- Suave de Llevar
-- De la marca Nike
 - Cordones de Zapatos
+- Importado
+- De la marca Nike
+- Suave de Llevar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YQJ33R9/?tag=tolees-21)

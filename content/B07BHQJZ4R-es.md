@@ -26,8 +26,8 @@ Ahora mismo tienes [Cenote Tequila Reposado - 700 ml](https://www.amazon.es/dp/B
 
 - Reposado en barricas de roble americano durante 3 meses para adquirir sus notas de vainilla y roble y su sabor balanceado.
 - Maestro destilador con más de 45 años de experiencia.
+- Inspirado en la belleza de la península de Yucatán, ensamblando cada botella manualmente por los artesanos de la destilería.
 - Tequila Reposado Ultra Premium 100% Agave Azul producido en Jalisco, México.
 - Ideal para ser disfrutado solo o en alta coctelería como una Margarita Premium: 1 y ½ parte de Cenote Reposado, ½ parte de licor de naranja, 1 parte de jugo de lima y decorar con sal.
-- Inspirado en la belleza de la península de Yucatán, ensamblando cada botella manualmente por los artesanos de la destilería.
 
 [Visítala!!!](https://www.amazon.es/dp/B07BHQJZ4R/?tag=tolees-21)
