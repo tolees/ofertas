@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.79 % en Dymo LabelWriter 450 Turbo Impresora de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415fA6-hwKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415fA6-hwKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415fA6-hwKL._SL200_.jpg' ]
 comments: true
 category: ofertas

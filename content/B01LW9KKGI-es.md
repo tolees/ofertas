@@ -3,6 +3,7 @@ layout: post
 title: 'Mick Morrison Vinko  sudadera Hombre  Ne al 69.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hLn%2Brf0BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hLn%2Brf0BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hLn%2Brf0BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.74 % en Trucco TT15AF1  Camiseta para Mujer   Bl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NPur82PgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NPur82PgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NPur82PgL._SL200_.jpg' ]
 comments: true
 category: ofertas

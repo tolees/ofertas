@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Bluetooth 4.1 SoundPEATS Cas al 29.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bLd7eDXVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bLd7eDXVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bLd7eDXVL._SL200_.jpg' ]
 comments: true
 category: ofertas

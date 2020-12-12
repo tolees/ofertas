@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones  Jjebasic Polo SS Noos - Ca al 46.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31b%2Bb9mutCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31b%2Bb9mutCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31b%2Bb9mutCL._SL200_.jpg' ]
 comments: true
 category: ofertas

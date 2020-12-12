@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Alphabounce Instinct M  Zapatilla al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QjMpp2%2ByL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QjMpp2%2ByL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QjMpp2%2ByL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Faro Barcelona Galapago 33301 - Ventilad al 51.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NiHJ5I87L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NiHJ5I87L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NiHJ5I87L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Teryei Funda Samsung Galaxy S8 / S8 Plus al 33.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318UNuwZiNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318UNuwZiNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318UNuwZiNL._SL200_.jpg' ]
 comments: true
 category: ofertas

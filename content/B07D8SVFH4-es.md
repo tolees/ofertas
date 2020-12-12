@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger SPW Flag Cap  Gorra de bé al 51.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K779afvBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K779afvBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K779afvBL._SL200_.jpg' ]
 comments: true
 category: ofertas

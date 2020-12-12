@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.21 % en Under Armour UA HG Racer Tank Camiseta s'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nsVdr4tNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nsVdr4tNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nsVdr4tNL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Calcetines Invisibles Hombre Calcetines  al 42.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419z-TNR9%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419z-TNR9%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419z-TNR9%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

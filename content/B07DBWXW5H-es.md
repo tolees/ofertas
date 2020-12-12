@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.18 % en Puma BMW MMS Future Cat Ultra  Zapatilla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316MWozCvWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316MWozCvWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316MWozCvWL._SL200_.jpg' ]
 comments: true
 category: ofertas

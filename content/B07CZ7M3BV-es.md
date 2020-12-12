@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste L.30 Slide 318 1 CAM  Chanclas p al 49.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IBfeS%2B9JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IBfeS%2B9JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IBfeS%2B9JL._SL200_.jpg' ]
 comments: true
 category: ofertas

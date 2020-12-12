@@ -3,6 +3,7 @@ layout: post
 title: 'Zapatos de cuero casual de los hombres Z al 61.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t8NczeD6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t8NczeD6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t8NczeD6L._SL200_.jpg' ]
 comments: true
 category: ofertas

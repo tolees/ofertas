@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Sublite Xt Cushion 2.0 Mt  Zapati al 56.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fLmUj9c8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fLmUj9c8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fLmUj9c8L._SL200_.jpg' ]
 comments: true
 category: ofertas

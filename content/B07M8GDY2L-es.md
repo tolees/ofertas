@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Attitude 84217  Zapatillas para Hom al 39.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jyING-xbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jyING-xbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jyING-xbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.17 % en The North Face Equipment TNF Bolso Base '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WPqRud5AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WPqRud5AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WPqRud5AL._SL200_.jpg' ]
 comments: true
 category: ofertas

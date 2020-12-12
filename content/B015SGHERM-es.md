@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.76 % en Havaianas You Metallic  Sandalias para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a11nNEbbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a11nNEbbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a11nNEbbL._SL200_.jpg' ]
 comments: true
 category: ofertas

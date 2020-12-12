@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver 23630  Zapatillas para Mujer  R al 67.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416UT3Auv0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416UT3Auv0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416UT3Auv0L._SL200_.jpg' ]
 comments: true
 category: ofertas

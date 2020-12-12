@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Club C 85 SS  Zapatillas de Depor al 70.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518Ui%2B5cJ7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518Ui%2B5cJ7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518Ui%2B5cJ7L._SL200_.jpg' ]
 comments: true
 category: ofertas

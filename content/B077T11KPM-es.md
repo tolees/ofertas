@@ -3,6 +3,7 @@ layout: post
 title: 'lodi IDAIRA  Sandalias con Punta Abierta al 60.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E3YA-yXhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E3YA-yXhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E3YA-yXhL._SL200_.jpg' ]
 comments: true
 category: ofertas

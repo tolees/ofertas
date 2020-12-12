@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.29 % en THE BLUEBEARDS REVENGE THE ULTIMATE mach'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312N12Os7DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312N12Os7DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312N12Os7DL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans TJM Tape Hoodie Sudadera con al 50.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lR-80YMjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lR-80YMjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lR-80YMjL._SL200_.jpg' ]
 comments: true
 category: ofertas

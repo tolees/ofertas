@@ -3,6 +3,7 @@ layout: post
 title: 'adidas I-5923 W  Zapatillas de Deporte p al 46.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NrnK0bflL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NrnK0bflL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NrnK0bflL._SL200_.jpg' ]
 comments: true
 category: ofertas

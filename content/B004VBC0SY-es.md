@@ -3,6 +3,7 @@ layout: post
 title: 'Kong Pelota Maciza Extreme M-L  Medium/L al 43.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qecsbjkcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qecsbjkcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qecsbjkcL._SL200_.jpg' ]
 comments: true
 category: ofertas

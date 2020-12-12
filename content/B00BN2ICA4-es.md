@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.58 % en McDavid Hex Thudd  Pantalones Cortos de '
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

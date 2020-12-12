@@ -3,6 +3,7 @@ layout: post
 title: 'Anker Power Drive 2 Elite 24 W 2 Port -  al 65.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418edYBfVSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418edYBfVSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418edYBfVSL._SL200_.jpg' ]
 comments: true
 category: ofertas

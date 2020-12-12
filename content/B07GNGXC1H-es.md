@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorart Muller Sweat Hood  C al 63.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417mtudYLjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417mtudYLjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417mtudYLjL._SL200_.jpg' ]
 comments: true
 category: ofertas

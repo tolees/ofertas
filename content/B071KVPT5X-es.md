@@ -3,6 +3,7 @@ layout: post
 title: 'Trolley  equipaje de mano Sammyy  43 lit al 30.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31J0ncM2mtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31J0ncM2mtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31J0ncM2mtL._SL200_.jpg' ]
 comments: true
 category: ofertas

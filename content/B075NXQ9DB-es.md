@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.78 % en GORE WEAR C3 Calcetines para ciclismo un'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YfWb40fWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YfWb40fWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YfWb40fWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Royal Smash SDE  Zapatillas para  al 55.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DtncKy6ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DtncKy6ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DtncKy6ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

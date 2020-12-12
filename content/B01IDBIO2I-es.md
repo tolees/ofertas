@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.63 % en Nike Nightgazer  GS   Zapatillas de Runn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2Bw85toYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2Bw85toYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2Bw85toYL._SL200_.jpg' ]
 comments: true
 category: ofertas

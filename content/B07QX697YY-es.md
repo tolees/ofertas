@@ -3,6 +3,7 @@ layout: post
 title: 'Kealive Rizador de Pelo Automatico  Riza al 61.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51x6rmm2OLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51x6rmm2OLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51x6rmm2OLL._SL200_.jpg' ]
 comments: true
 category: ofertas

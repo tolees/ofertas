@@ -3,6 +3,7 @@ layout: post
 title: 'Puma One 4 Syn AG  Zapatillas de Fútbol  al 63.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41boMLz672L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41boMLz672L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41boMLz672L._SL200_.jpg' ]
 comments: true
 category: ofertas

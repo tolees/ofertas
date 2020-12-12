@@ -3,6 +3,7 @@ layout: post
 title: 'ALDO Faulia  Zapatillas para Mujer  Negr al 66.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310lW9alV3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310lW9alV3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310lW9alV3L._SL200_.jpg' ]
 comments: true
 category: ofertas

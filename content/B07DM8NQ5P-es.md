@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES Pcfortuna LS Wool Knit Noos  suét al 64.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41roGpNsa3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41roGpNsa3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41roGpNsa3L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Bolsa organizadora de almacenamiento de  al 77.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51He5AxNQEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51He5AxNQEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51He5AxNQEL._SL200_.jpg' ]
 comments: true
 category: ofertas

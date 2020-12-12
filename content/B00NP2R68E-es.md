@@ -3,6 +3,7 @@ layout: post
 title: 'HomCom Armario Móvil con Ruedas de 4 Est al 49.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jfTyZrzIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jfTyZrzIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jfTyZrzIL._SL200_.jpg' ]
 comments: true
 category: ofertas

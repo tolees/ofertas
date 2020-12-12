@@ -3,6 +3,7 @@ layout: post
 title: 'morpilot Faja Deportiva  Faja Reductora  al 28.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gYzgnu91L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gYzgnu91L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gYzgnu91L._SL200_.jpg' ]
 comments: true
 category: ofertas

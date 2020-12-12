@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.81 % en Highlander Sleephaven  Sacos de Dormir  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i-FTLEspL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i-FTLEspL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i-FTLEspL._SL200_.jpg' ]
 comments: true
 category: ofertas

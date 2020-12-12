@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans JIN JR PG501964  Camiseta par al 56.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413hO5-ipOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413hO5-ipOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413hO5-ipOL._SL200_.jpg' ]
 comments: true
 category: ofertas

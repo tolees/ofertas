@@ -3,6 +3,7 @@ layout: post
 title: 'Funko- Blue Ranger Figura de Vinilo  123 al 41.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sSOa56hKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sSOa56hKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sSOa56hKL._SL200_.jpg' ]
 comments: true
 category: ofertas

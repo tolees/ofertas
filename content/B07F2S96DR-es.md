@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Vans Spicoli 4 Shades Gafas de Sol  Blan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310DfSETJNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310DfSETJNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310DfSETJNL._SL200_.jpg' ]
 comments: true
 category: ofertas

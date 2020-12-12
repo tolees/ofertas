@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Vinto A  Zapatillas para Hombre   al 66.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mmzcBNGwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mmzcBNGwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mmzcBNGwL._SL200_.jpg' ]
 comments: true
 category: ofertas

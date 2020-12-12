@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.16 % en JACK & JONES Jcovincent Sweat Hood Capuc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UL8CzNrLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UL8CzNrLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UL8CzNrLL._SL200_.jpg' ]
 comments: true
 category: ofertas

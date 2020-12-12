@@ -3,6 +3,7 @@ layout: post
 title: 'Nokia Lumia 520 - Smartphone libre Windo al 60.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yRTVBgaYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yRTVBgaYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yRTVBgaYL._SL200_.jpg' ]
 comments: true
 category: ofertas

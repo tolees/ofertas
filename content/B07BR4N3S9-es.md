@@ -3,6 +3,7 @@ layout: post
 title: 'Dickies Flex Work Pant Pantalones  Hombr al 67.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fOQPtNNaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fOQPtNNaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fOQPtNNaL._SL200_.jpg' ]
 comments: true
 category: ofertas

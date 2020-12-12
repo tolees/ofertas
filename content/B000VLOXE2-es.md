@@ -3,6 +3,7 @@ layout: post
 title: 'Cressi Reaction - Aletas de buceo de sur al 30.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G3Lof6PhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G3Lof6PhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G3Lof6PhL._SL200_.jpg' ]
 comments: true
 category: ofertas

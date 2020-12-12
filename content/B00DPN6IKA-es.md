@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.12 % en Juego Pro Team 300 - Maletín de poker I '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OJYteb%2BXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OJYteb%2BXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OJYteb%2BXL._SL200_.jpg' ]
 comments: true
 category: ofertas

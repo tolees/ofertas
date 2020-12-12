@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Speed Fusefit  Zapatillas de Entren al 61.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418PgyLbd6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418PgyLbd6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418PgyLbd6L._SL200_.jpg' ]
 comments: true
 category: ofertas

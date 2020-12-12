@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.46 % en Motorkit LIM10326 Lavaparabrisas Anticon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cafUBkq5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cafUBkq5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cafUBkq5L._SL200_.jpg' ]
 comments: true
 category: ofertas

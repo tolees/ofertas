@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.80 % en Davidoff Silver Shadow Eau de Toilette V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e4bXgQRbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e4bXgQRbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e4bXgQRbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'No Label 5388040 Felpudo 50 x 25 cm – 10 al 58.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416uVbGgXYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416uVbGgXYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416uVbGgXYL._SL200_.jpg' ]
 comments: true
 category: ofertas

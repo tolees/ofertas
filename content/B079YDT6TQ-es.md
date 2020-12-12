@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver 5-5-25320-21  Botines para Muje al 69.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31waSkdpw5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31waSkdpw5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31waSkdpw5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.94 % en Devolo dLAN 1000 duo+ Starter Kit - Kit '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Yw8MkeIlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Yw8MkeIlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Yw8MkeIlL._SL200_.jpg' ]
 comments: true
 category: ofertas

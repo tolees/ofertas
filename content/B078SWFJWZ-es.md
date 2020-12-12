@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.62 % en Gant The Rough Weather Slicker  Chaqueta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4190sQQ1ApL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4190sQQ1ApL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4190sQQ1ApL._SL200_.jpg' ]
 comments: true
 category: ofertas

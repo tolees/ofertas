@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.43 % en X-Men Apocalipsis Digibook Blu-Ray [Blu-'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BV59UENBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BV59UENBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BV59UENBL._SL200_.jpg' ]
 comments: true
 category: ofertas

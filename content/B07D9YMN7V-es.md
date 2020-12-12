@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Hoops 2.0 Mid  Zapatillas de Gimn al 52.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LtSI9%2BtSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LtSI9%2BtSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LtSI9%2BtSL._SL200_.jpg' ]
 comments: true
 category: ofertas

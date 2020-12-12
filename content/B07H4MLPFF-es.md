@@ -3,6 +3,7 @@ layout: post
 title: 'Envasadora al Vacío  Padi Home  Maquina  al 70.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511PgWIGqmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511PgWIGqmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511PgWIGqmL._SL200_.jpg' ]
 comments: true
 category: ofertas

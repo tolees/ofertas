@@ -3,6 +3,7 @@ layout: post
 title: 'Medisana LC 860 - Peine eléctrico para p al 66.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21a2uT6RN4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21a2uT6RN4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21a2uT6RN4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'bass3d 41573  Zapatillas para Mujer  Gri al 75.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415H3qZ-ceL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415H3qZ-ceL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415H3qZ-ceL._SL200_.jpg' ]
 comments: true
 category: ofertas

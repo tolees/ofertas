@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.55 % en Triumph Modern Finesse W02 Sujetador con'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iPUkuDrmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iPUkuDrmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iPUkuDrmL._SL200_.jpg' ]
 comments: true
 category: ofertas

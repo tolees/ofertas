@@ -3,6 +3,7 @@ layout: post
 title: 'Casio Reloj de Pulsera AW-80D-1AVES al 39.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QvZkqQhcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QvZkqQhcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QvZkqQhcL._SL200_.jpg' ]
 comments: true
 category: ofertas

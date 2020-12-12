@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.73 % en Suecos Skoll  Zuecos de Trabajo Unisex A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aAmkJHlzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aAmkJHlzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aAmkJHlzL._SL200_.jpg' ]
 comments: true
 category: ofertas

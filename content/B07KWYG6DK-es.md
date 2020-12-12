@@ -3,6 +3,7 @@ layout: post
 title: 'HALOViE Bolsas de Aseo Impermeable Neces al 42.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YiLgnQ6%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YiLgnQ6%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YiLgnQ6%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

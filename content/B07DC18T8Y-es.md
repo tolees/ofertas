@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.60 % en Puma RS-0 Trophy  Zapatillas Unisex Adul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YHp00UZZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YHp00UZZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YHp00UZZL._SL200_.jpg' ]
 comments: true
 category: ofertas

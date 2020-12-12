@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 098cc1j008 Sudadera  Negro al 48.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51g%2BdB-BR7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51g%2BdB-BR7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51g%2BdB-BR7L._SL200_.jpg' ]
 comments: true
 category: ofertas

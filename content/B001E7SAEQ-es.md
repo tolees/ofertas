@@ -3,6 +3,7 @@ layout: post
 title: 'Armand Basi  Agua de perfume para mujere al 49.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jwcWVS7TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jwcWVS7TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jwcWVS7TL._SL200_.jpg' ]
 comments: true
 category: ofertas

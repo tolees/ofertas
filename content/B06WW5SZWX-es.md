@@ -3,6 +3,7 @@ layout: post
 title: 'KRF Feel The Enemy 0016086 Bolsa Profesi al 40.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gEgW3UkZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gEgW3UkZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gEgW3UkZL._SL200_.jpg' ]
 comments: true
 category: ofertas

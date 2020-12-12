@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.07 % en Puma ESS Sweat TR Chándal  Hombre  Gris '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jNPkTVknL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jNPkTVknL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jNPkTVknL._SL200_.jpg' ]
 comments: true
 category: ofertas

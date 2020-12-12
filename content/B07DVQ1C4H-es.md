@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.71 % en Volcom Classic Stone DD SS Camisa  Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pw6SMFjVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pw6SMFjVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pw6SMFjVL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Zippo Royal Flush Mechero  Metal  Street al 45.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512KAXFL0EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512KAXFL0EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512KAXFL0EL._SL200_.jpg' ]
 comments: true
 category: ofertas

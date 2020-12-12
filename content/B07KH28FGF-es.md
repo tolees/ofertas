@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Men s Golf Headline 2.0 Cap al 37.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UTLBA9JkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UTLBA9JkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UTLBA9JkL._SL200_.jpg' ]
 comments: true
 category: ofertas

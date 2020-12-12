@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.54 % en Relaxdays – Mesa Baja  2 estantes  Crist'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31klR04CXFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31klR04CXFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31klR04CXFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.37 % en MTNG Carmela  Botas Mujer  Negro  Suede '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TV8d98IoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TV8d98IoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TV8d98IoL._SL200_.jpg' ]
 comments: true
 category: ofertas

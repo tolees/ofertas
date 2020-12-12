@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Elsa  Botas Mujer  Marrón  Suede Ch al 74.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FIDPp8YdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FIDPp8YdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FIDPp8YdL._SL200_.jpg' ]
 comments: true
 category: ofertas

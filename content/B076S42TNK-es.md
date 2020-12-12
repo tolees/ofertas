@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Jet Mid  Zapatos de Balo al 46.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAdkP54%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAdkP54%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAdkP54%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

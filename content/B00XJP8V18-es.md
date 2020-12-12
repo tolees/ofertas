@@ -3,6 +3,7 @@ layout: post
 title: 'NIVEA Hyaluron Cellular Filler Cuidado d al 33.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x7fqeN8yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31x7fqeN8yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x7fqeN8yL._SL200_.jpg' ]
 comments: true
 category: ofertas

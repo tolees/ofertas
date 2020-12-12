@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.61 % en The North Face Base Camp Duffel S  Mochi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MiS2fbX1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MiS2fbX1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MiS2fbX1L._SL200_.jpg' ]
 comments: true
 category: ofertas

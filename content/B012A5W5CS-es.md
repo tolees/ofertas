@@ -3,6 +3,7 @@ layout: post
 title: 'Prem 235302 Lijaora orbital 135w  135 W  al 27.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bTA2ANnUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bTA2ANnUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bTA2ANnUL._SL200_.jpg' ]
 comments: true
 category: ofertas

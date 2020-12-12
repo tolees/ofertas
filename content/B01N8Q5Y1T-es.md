@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.45 % en LANGRIA Cama Temática Infantil Coche de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417jMaf5EIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417jMaf5EIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417jMaf5EIL._SL200_.jpg' ]
 comments: true
 category: ofertas

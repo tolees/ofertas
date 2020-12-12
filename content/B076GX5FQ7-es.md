@@ -3,6 +3,7 @@ layout: post
 title: 'Coches Miniatura Vehículos de Juguete Me al 60.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/610YCwnHVsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/610YCwnHVsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/610YCwnHVsL._SL200_.jpg' ]
 comments: true
 category: ofertas

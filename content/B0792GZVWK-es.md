@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.77 % en Quiksilver Contrasted Chaqueta  Niños  D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61EgIH8uVkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61EgIH8uVkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61EgIH8uVkL._SL200_.jpg' ]
 comments: true
 category: ofertas

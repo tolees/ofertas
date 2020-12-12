@@ -3,6 +3,7 @@ layout: post
 title: 'Tamron A010E - Objetivo para Canon  Esta al 50.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gwFZ9p6sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gwFZ9p6sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gwFZ9p6sL._SL200_.jpg' ]
 comments: true
 category: ofertas

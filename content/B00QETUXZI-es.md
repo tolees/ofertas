@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.20 % en NOX Pstingerjr2 - Pala de pádel  Color N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41153ToW9SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41153ToW9SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41153ToW9SL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.89 % en Umbro King Jnr Pantalones de Fútbol  Niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517HPBTLN2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517HPBTLN2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517HPBTLN2L._SL200_.jpg' ]
 comments: true
 category: ofertas

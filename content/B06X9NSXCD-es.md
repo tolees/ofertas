@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.70 % en BOSS Orange24 Barcelona  Pantalones Vaqu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EbzzQWEXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EbzzQWEXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EbzzQWEXL._SL200_.jpg' ]
 comments: true
 category: ofertas

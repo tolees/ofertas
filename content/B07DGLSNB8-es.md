@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.63 % en DC Shoes Lynnfield  Zapatillas de Skateb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310Vx%2Bi-pKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310Vx%2Bi-pKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310Vx%2Bi-pKL._SL200_.jpg' ]
 comments: true
 category: ofertas

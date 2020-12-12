@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.38 % en X-TIGER Culote Bicicleta Hombre Invierno'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416yhwHcKeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416yhwHcKeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416yhwHcKeL._SL200_.jpg' ]
 comments: true
 category: ofertas

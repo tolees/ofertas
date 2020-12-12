@@ -3,6 +3,7 @@ layout: post
 title: 'Tenga Masturbador Masculino - 1 unidad al 47.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4170mTbxCHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4170mTbxCHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4170mTbxCHL._SL200_.jpg' ]
 comments: true
 category: ofertas

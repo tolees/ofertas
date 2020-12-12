@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.86 % en victoria 6651_Anthracite - Zapatillas pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RC6oql8lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RC6oql8lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RC6oql8lL._SL200_.jpg' ]
 comments: true
 category: ofertas

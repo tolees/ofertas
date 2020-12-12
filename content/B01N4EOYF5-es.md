@@ -3,6 +3,7 @@ layout: post
 title: 'VERO MODA Vmabby 3/4 Top Dnm  Blusa para al 55.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bMEJvVBGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bMEJvVBGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bMEJvVBGL._SL200_.jpg' ]
 comments: true
 category: ofertas

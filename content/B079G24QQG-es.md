@@ -3,6 +3,7 @@ layout: post
 title: 'boboli Stretch Fleece Leggings Floral Fo al 33.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ETJ9Gf%2BGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ETJ9Gf%2BGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ETJ9Gf%2BGL._SL200_.jpg' ]
 comments: true
 category: ofertas

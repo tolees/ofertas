@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Slides UA Locker III Chancl al 36.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dMknW8y%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dMknW8y%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dMknW8y%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

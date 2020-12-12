@@ -3,6 +3,7 @@ layout: post
 title: 'T6 2000LM Linterna táctica de bolsillo   al 37.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-DREUgl4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-DREUgl4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-DREUgl4L._SL200_.jpg' ]
 comments: true
 category: ofertas

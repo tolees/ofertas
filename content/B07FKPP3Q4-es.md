@@ -3,6 +3,7 @@ layout: post
 title: 'Morgan 162-bara.n Camiseta sin Mangas  B al 71.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a8JGsjQnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a8JGsjQnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a8JGsjQnL._SL200_.jpg' ]
 comments: true
 category: ofertas

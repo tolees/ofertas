@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Miami Bermuda Deporte de Tenis  Hom al 30.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R9ZcAQWML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R9ZcAQWML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R9ZcAQWML._SL200_.jpg' ]
 comments: true
 category: ofertas

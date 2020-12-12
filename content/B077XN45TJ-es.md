@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour 1309661-448 - Sudadera de R al 73.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61s-rulqdlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61s-rulqdlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61s-rulqdlL._SL200_.jpg' ]
 comments: true
 category: ofertas

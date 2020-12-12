@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.87 % en Gioteck - TX30 Stereo Gaming & Go Headse'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X8dbwTguL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X8dbwTguL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X8dbwTguL._SL200_.jpg' ]
 comments: true
 category: ofertas

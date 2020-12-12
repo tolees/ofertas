@@ -3,6 +3,7 @@ layout: post
 title: 'Brother DCP-J105 1200 x 600DPI Inyección al 52.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412k0uFjhRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412k0uFjhRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412k0uFjhRL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.54 % en Puma Play CITI  Zapatillas Unisex Adulto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lyEepIhpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lyEepIhpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lyEepIhpL._SL200_.jpg' ]
 comments: true
 category: ofertas

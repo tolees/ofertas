@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.80 % en DANISH ENDURANCE Calcetines Performance '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H59Nr2xSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H59Nr2xSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H59Nr2xSL._SL200_.jpg' ]
 comments: true
 category: ofertas

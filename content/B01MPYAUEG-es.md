@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste BF2288  Chaqueta para Mujer  Azu al 68.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QsKTGamdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QsKTGamdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QsKTGamdL._SL200_.jpg' ]
 comments: true
 category: ofertas

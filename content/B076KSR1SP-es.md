@@ -3,6 +3,7 @@ layout: post
 title: 'VAUDE Cluster 10+3 Mochila  Unisex Adult al 58.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GsHuR040L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GsHuR040L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GsHuR040L._SL200_.jpg' ]
 comments: true
 category: ofertas

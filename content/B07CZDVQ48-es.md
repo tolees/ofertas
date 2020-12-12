@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Speedcross Vario 2 GTX Calzado d al 47.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U-M%2BkZOBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U-M%2BkZOBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U-M%2BkZOBL._SL200_.jpg' ]
 comments: true
 category: ofertas

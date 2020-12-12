@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste 2010886 - Reloj de pulsera para  al 48.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4134HAswizL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4134HAswizL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4134HAswizL._SL200_.jpg' ]
 comments: true
 category: ofertas

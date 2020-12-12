@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.02 % en Pepe Jeans Legacy PM505967  Camiseta par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p2Q9VH-bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p2Q9VH-bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p2Q9VH-bL._SL200_.jpg' ]
 comments: true
 category: ofertas

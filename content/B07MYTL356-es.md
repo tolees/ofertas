@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.68 % en Sin Parpadeo Bombillas LED G9  Lightone '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512oii-KwPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512oii-KwPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512oii-KwPL._SL200_.jpg' ]
 comments: true
 category: ofertas

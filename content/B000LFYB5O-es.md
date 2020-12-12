@@ -3,6 +3,7 @@ layout: post
 title: 'Silverline 675062 - Clavadora neumática  al 40.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BO5T0d8ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BO5T0d8ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BO5T0d8ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

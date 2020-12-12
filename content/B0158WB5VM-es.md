@@ -3,6 +3,7 @@ layout: post
 title: 'Nintendo - Figura Amiibo Totakeke  K.K.  al 54.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51X%2Bu1jsStL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51X%2Bu1jsStL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51X%2Bu1jsStL._SL200_.jpg' ]
 comments: true
 category: ofertas

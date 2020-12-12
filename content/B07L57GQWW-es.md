@@ -3,6 +3,7 @@ layout: post
 title: 'Blackview BV9500 Moviles Resistentes（201 al 28.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519cDax3QUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519cDax3QUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519cDax3QUL._SL200_.jpg' ]
 comments: true
 category: ofertas

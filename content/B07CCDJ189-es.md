@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Coat with Hearth Shaped Bu al 44.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VbF8KcPvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VbF8KcPvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VbF8KcPvL._SL200_.jpg' ]
 comments: true
 category: ofertas

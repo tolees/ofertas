@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.45 % en Tommy Hilfiger P2285atrick 1n1  Botas Mi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WvkGroYzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WvkGroYzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WvkGroYzL._SL200_.jpg' ]
 comments: true
 category: ofertas

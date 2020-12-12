@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi Premio 2-2-25209-31  Botas M al 80.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tW3M7JXlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tW3M7JXlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tW3M7JXlL._SL200_.jpg' ]
 comments: true
 category: ofertas

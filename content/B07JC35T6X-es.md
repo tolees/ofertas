@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en G-STAR RAW Graphic 2 Camiseta  Verde  lt'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BABGnycL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BABGnycL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BABGnycL._SL200_.jpg' ]
 comments: true
 category: ofertas

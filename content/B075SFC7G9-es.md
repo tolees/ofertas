@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 1282573  Cárdigan Mujer  Mul al 58.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mmW6dr04L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mmW6dr04L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mmW6dr04L._SL200_.jpg' ]
 comments: true
 category: ofertas

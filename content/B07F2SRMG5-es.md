@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Finale18fcb Cpt Ball  Machine-Sti al 32.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CqspVWcCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CqspVWcCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CqspVWcCL._SL200_.jpg' ]
 comments: true
 category: ofertas

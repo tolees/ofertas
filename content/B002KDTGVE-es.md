@@ -3,6 +3,7 @@ layout: post
 title: 'Heliocare Gel SPF50-50 ml al 30.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j8DVS9GBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j8DVS9GBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j8DVS9GBL._SL200_.jpg' ]
 comments: true
 category: ofertas

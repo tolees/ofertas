@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.02 % en Science4you - Química 1000 - Juguete Cie'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y-mvv4MtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51y-mvv4MtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y-mvv4MtL._SL200_.jpg' ]
 comments: true
 category: ofertas

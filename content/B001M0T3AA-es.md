@@ -3,6 +3,7 @@ layout: post
 title: 'Trio 5914011-42 Serie 5914 - Sobremesa   al 40.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S8bbCkvzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S8bbCkvzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S8bbCkvzL._SL200_.jpg' ]
 comments: true
 category: ofertas

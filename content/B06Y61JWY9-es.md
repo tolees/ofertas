@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Crew II Camiseta de Juego Manga Cor al 50.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V0ni%2BAvCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V0ni%2BAvCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V0ni%2BAvCL._SL200_.jpg' ]
 comments: true
 category: ofertas

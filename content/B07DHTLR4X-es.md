@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Verant  Zapatillas para Hombr al 58.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mytlMV9ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mytlMV9ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mytlMV9ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.85 % en morpilot [4 en 1 Cargador de Coche para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P0nqzg%2BKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P0nqzg%2BKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P0nqzg%2BKL._SL200_.jpg' ]
 comments: true
 category: ofertas

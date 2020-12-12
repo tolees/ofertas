@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.29 % en BabyBjörn Babero Blando 2 uni.  Color Na'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FMeFD4ubL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FMeFD4ubL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FMeFD4ubL._SL200_.jpg' ]
 comments: true
 category: ofertas

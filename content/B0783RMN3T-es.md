@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.67 % en Only Onltitania L/s Pullover CC Knt suét'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iG4MC2p9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iG4MC2p9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iG4MC2p9L._SL200_.jpg' ]
 comments: true
 category: ofertas

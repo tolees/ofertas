@@ -3,6 +3,7 @@ layout: post
 title: 'Bahco MR227L - Tijera Para Chapa Tradici al 73.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41edg4OY0EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41edg4OY0EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41edg4OY0EL._SL200_.jpg' ]
 comments: true
 category: ofertas

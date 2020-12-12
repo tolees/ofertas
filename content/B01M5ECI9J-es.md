@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.87 % en Lenovo Yoga Tab3 Pro-X90F  Tablet de 10.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O2G5ONw9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31O2G5ONw9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O2G5ONw9L._SL200_.jpg' ]
 comments: true
 category: ofertas

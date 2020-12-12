@@ -3,6 +3,7 @@ layout: post
 title: 'tacklife pcw2 Disco de corte Set 10 piez al 42.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61heIv-%2BM6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61heIv-%2BM6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61heIv-%2BM6L._SL200_.jpg' ]
 comments: true
 category: ofertas

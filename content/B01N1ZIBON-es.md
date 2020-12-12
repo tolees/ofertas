@@ -3,6 +3,7 @@ layout: post
 title: 'Puma BVB Entrenamiento Temporada 2017/20 al 55.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vHjEyxanL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vHjEyxanL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vHjEyxanL._SL200_.jpg' ]
 comments: true
 category: ofertas

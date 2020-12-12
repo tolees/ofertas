@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Crew  Camiseta para Hombre  Roj al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412KR21O5LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412KR21O5LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412KR21O5LL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.19 % en Adidas CF QT Racer  Zapatillas para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n3TMYnsKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n3TMYnsKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n3TMYnsKL._SL200_.jpg' ]
 comments: true
 category: ofertas

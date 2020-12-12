@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.94 % en edc by Esprit 037cc1k014  Camisa Manga L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yHnL0BV1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yHnL0BV1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yHnL0BV1L._SL200_.jpg' ]
 comments: true
 category: ofertas

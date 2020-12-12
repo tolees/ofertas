@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.70 % en New Balance 411  Zapatillas de Running p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dgQp%2B6ZPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dgQp%2B6ZPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dgQp%2B6ZPL._SL200_.jpg' ]
 comments: true
 category: ofertas

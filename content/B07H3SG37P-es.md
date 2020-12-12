@@ -3,6 +3,7 @@ layout: post
 title: '【Salud y Portátil】Tensiómetro de muñeca  al 46.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zvDjvdFaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zvDjvdFaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zvDjvdFaL._SL200_.jpg' ]
 comments: true
 category: ofertas

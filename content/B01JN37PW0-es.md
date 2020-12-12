@@ -3,6 +3,7 @@ layout: post
 title: 'Vertagear Silla para Juegos S-Line 4000  al 41.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411l85pUliL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411l85pUliL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411l85pUliL._SL200_.jpg' ]
 comments: true
 category: ofertas

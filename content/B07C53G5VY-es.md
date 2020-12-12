@@ -3,6 +3,7 @@ layout: post
 title: 'San Ignacio Cazo Apta para Inducción  Ro al 69.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BKvUA9AbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BKvUA9AbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BKvUA9AbL._SL200_.jpg' ]
 comments: true
 category: ofertas

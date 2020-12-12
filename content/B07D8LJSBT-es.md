@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.73 % en BOSS Paule  Polo para Hombre  Negro  Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-nYTcHhzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-nYTcHhzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-nYTcHhzL._SL200_.jpg' ]
 comments: true
 category: ofertas

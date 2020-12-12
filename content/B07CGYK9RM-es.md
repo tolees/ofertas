@@ -3,6 +3,7 @@ layout: post
 title: 'Maybelline New York Máscara de pestañas  al 25.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Df1%2BB%2B88L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Df1%2BB%2B88L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Df1%2BB%2B88L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas DT4823  Bolso bandolera Unisex Ad al 45.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HJVSv4ArL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HJVSv4ArL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HJVSv4ArL._SL200_.jpg' ]
 comments: true
 category: ofertas

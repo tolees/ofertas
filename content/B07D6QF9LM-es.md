@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Demi Beat  Botas Estilo Motero pa al 72.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a-H%2Bx7jPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a-H%2Bx7jPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a-H%2Bx7jPL._SL200_.jpg' ]
 comments: true
 category: ofertas

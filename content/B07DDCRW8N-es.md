@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.19 % en HYPE - Space Hues Box Bag  Mochilas Unis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a1QUhTouL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51a1QUhTouL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a1QUhTouL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Geox U Kaven C  Zapatillas para Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hVNnA2WpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hVNnA2WpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hVNnA2WpL._SL200_.jpg' ]
 comments: true
 category: ofertas

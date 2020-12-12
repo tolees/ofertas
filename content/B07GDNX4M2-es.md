@@ -3,6 +3,7 @@ layout: post
 title: 'Gioteck - HC-X1 Stereo Gaming Headset  X al 53.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LLWgaCL1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LLWgaCL1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LLWgaCL1L._SL200_.jpg' ]
 comments: true
 category: ofertas

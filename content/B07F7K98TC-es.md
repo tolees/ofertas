@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Retro Mountain Shortsleeve Camise al 68.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lFu5226DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lFu5226DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lFu5226DL._SL200_.jpg' ]
 comments: true
 category: ofertas

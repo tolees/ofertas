@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri NOTO 2 Pantalones Cortos Verde al 49.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QIy9OFiaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QIy9OFiaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QIy9OFiaL._SL200_.jpg' ]
 comments: true
 category: ofertas

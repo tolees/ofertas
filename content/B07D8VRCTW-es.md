@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.04 % en DANISH ENDURANCE Merino Wool Light Cushi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5174lHgtrOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5174lHgtrOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5174lHgtrOL._SL200_.jpg' ]
 comments: true
 category: ofertas

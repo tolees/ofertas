@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.49 % en Plancha Ropa Vapor Vertical  Aicok Planc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eAe2VPiGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eAe2VPiGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eAe2VPiGL._SL200_.jpg' ]
 comments: true
 category: ofertas

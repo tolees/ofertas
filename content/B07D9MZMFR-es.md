@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Duramo 9  Zapatillas de Entrenami al 44.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TkTioULbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TkTioULbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TkTioULbL._SL200_.jpg' ]
 comments: true
 category: ofertas

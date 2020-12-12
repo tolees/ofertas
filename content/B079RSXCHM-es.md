@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Dani PL503849 Camiseta  Gris  al 60.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W4KinZfaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W4KinZfaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W4KinZfaL._SL200_.jpg' ]
 comments: true
 category: ofertas

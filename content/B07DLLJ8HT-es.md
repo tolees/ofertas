@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.96 % en Springfield INT. Plumas Largo Abrigo  Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31p8nPxxX6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31p8nPxxX6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31p8nPxxX6L._SL200_.jpg' ]
 comments: true
 category: ofertas

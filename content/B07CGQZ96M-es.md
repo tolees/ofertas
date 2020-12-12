@@ -3,6 +3,7 @@ layout: post
 title: 'Alcatel 3L - Smartphone DE 5.5"  Memoria al 37.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a8HZZyFmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a8HZZyFmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a8HZZyFmL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'iiniim Atractiva Mujer Sexy Cinturón Cue al 34.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C5cj1osnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C5cj1osnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C5cj1osnL._SL200_.jpg' ]
 comments: true
 category: ofertas

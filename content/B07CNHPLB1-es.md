@@ -3,6 +3,7 @@ layout: post
 title: 'LOBKIN Set de regalo de 12 bombas de bañ al 78.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fZmVe8dZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fZmVe8dZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fZmVe8dZL._SL200_.jpg' ]
 comments: true
 category: ofertas

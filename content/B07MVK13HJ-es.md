@@ -3,6 +3,7 @@ layout: post
 title: 'Safta Real Madrid Monedero  12 cm  Negro al 38.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j9swEcbmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51j9swEcbmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j9swEcbmL._SL200_.jpg' ]
 comments: true
 category: ofertas

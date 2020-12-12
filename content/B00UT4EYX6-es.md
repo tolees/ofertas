@@ -3,6 +3,7 @@ layout: post
 title: 'OAKLEY Jawbreaker OO9290 Gafas de sol pa al 42.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UrNT4QVPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UrNT4QVPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UrNT4QVPL._SL200_.jpg' ]
 comments: true
 category: ofertas

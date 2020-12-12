@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans London Jayden 2.1 Essentials  al 49.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CPOYZVVBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CPOYZVVBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CPOYZVVBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Royal Cmplt CLN LX  Zapatillas de al 48.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QXW2bAWmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QXW2bAWmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QXW2bAWmL._SL200_.jpg' ]
 comments: true
 category: ofertas

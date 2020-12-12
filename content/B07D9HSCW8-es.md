@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.46 % en Adidas X 18.3 FG  Zapatillas de Fútbol p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ls2n-airL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ls2n-airL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ls2n-airL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'CLUB CUBANA Camisa Hawaiana Floral Manga al 56.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513lJLPgrIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513lJLPgrIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513lJLPgrIL._SL200_.jpg' ]
 comments: true
 category: ofertas

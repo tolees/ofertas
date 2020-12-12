@@ -3,6 +3,7 @@ layout: post
 title: 'Kingston MobileLite Wireless Pro MLWG3/6 al 72.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nAbCzMlAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nAbCzMlAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nAbCzMlAL._SL200_.jpg' ]
 comments: true
 category: ofertas

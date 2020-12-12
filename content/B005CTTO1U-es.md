@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.69 % en Schott NYC 210-Vint Chaqueta  Verde  Sag'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ipxic5T-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ipxic5T-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ipxic5T-L._SL200_.jpg' ]
 comments: true
 category: ofertas

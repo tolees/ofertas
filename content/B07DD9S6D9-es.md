@@ -3,6 +3,7 @@ layout: post
 title: 'boboli Hooded Raincoat For Baby Boy  Abr al 70.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OS8ET4bIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OS8ET4bIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OS8ET4bIL._SL200_.jpg' ]
 comments: true
 category: ofertas

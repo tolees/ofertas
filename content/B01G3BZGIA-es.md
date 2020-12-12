@@ -3,6 +3,7 @@ layout: post
 title: 'vidaXL Bomba de vacío de una etapa aire  al 40.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jz3nLxYmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jz3nLxYmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jz3nLxYmL._SL200_.jpg' ]
 comments: true
 category: ofertas

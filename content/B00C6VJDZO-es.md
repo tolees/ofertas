@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.08 % en Seiko SNN237P1 - Reloj analógico de Cuar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DmefznG6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DmefznG6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DmefznG6L._SL200_.jpg' ]
 comments: true
 category: ofertas

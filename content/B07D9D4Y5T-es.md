@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48572  Botas Biker para Mujer  Negro al 55.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31k5AkDHvkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31k5AkDHvkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31k5AkDHvkL._SL200_.jpg' ]
 comments: true
 category: ofertas

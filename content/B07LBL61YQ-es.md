@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger SF Medium Drawstring Pant al 31.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PsyxIHMHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PsyxIHMHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PsyxIHMHL._SL200_.jpg' ]
 comments: true
 category: ofertas

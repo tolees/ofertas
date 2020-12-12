@@ -3,6 +3,7 @@ layout: post
 title: 'Dr. Martens Calamuslos1p  Zapatos de Seg al 42.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ULtfMyOGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ULtfMyOGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ULtfMyOGL._SL200_.jpg' ]
 comments: true
 category: ofertas

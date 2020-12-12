@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.74 % en Puma Turin II  Zapatillas de Deporte Uni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QNiOz8W5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QNiOz8W5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QNiOz8W5L._SL200_.jpg' ]
 comments: true
 category: ofertas

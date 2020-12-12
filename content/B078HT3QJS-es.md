@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.52 % en SUPREMO Garmin Fenix 5 Watch Band  ajust'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-C2GQo%2BuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-C2GQo%2BuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-C2GQo%2BuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Garcia B90206 Camiseta   Bosphorus 2864  al 59.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Lk3hRvl5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Lk3hRvl5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Lk3hRvl5L._SL200_.jpg' ]
 comments: true
 category: ofertas

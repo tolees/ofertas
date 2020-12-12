@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW D-STAQ 5-Pocket Slim  Jeans   al 45.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Tn-b7nQiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Tn-b7nQiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Tn-b7nQiL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.23 % en The North Face Horizon Convertible Panta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eQ6uM7%2BWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eQ6uM7%2BWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eQ6uM7%2BWL._SL200_.jpg' ]
 comments: true
 category: ofertas

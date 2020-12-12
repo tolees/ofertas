@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 410  Zapatillas Unisex Adult al 52.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OJPm-eNJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OJPm-eNJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OJPm-eNJL._SL200_.jpg' ]
 comments: true
 category: ofertas

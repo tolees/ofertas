@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Academy Athletics tee Camiseta  al 53.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z4MmQ7uKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z4MmQ7uKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z4MmQ7uKL._SL200_.jpg' ]
 comments: true
 category: ofertas

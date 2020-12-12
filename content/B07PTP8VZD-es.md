@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.66 % en Bañador Reductor de Mujer Traje de Baño '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419ZjaH8aLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419ZjaH8aLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419ZjaH8aLL._SL200_.jpg' ]
 comments: true
 category: ofertas

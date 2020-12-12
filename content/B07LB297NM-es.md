@@ -3,6 +3,7 @@ layout: post
 title: 'Louviva Masajeador - 3D Realístita  Médi al 65.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m3l0L7gfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m3l0L7gfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m3l0L7gfL._SL200_.jpg' ]
 comments: true
 category: ofertas

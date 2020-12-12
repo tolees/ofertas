@@ -3,6 +3,7 @@ layout: post
 title: 'EL FLAMENCO PANTALÓN Caballero Slim 5 Bo al 65.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nEOeGhi8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nEOeGhi8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nEOeGhi8L._SL200_.jpg' ]
 comments: true
 category: ofertas

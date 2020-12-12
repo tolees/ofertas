@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Blocked FZ HD Sudadera co al 30.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fh1kTYvGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fh1kTYvGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fh1kTYvGL._SL200_.jpg' ]
 comments: true
 category: ofertas

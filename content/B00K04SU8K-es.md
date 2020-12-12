@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Schlesinger Hormas Para Zapatos de Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E--YBW%2BKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E--YBW%2BKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E--YBW%2BKL._SL200_.jpg' ]
 comments: true
 category: ofertas

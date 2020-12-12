@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.33 % en Mexifoods  Pane con harina integral enva'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Y3y2D1biL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y3y2D1biL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Y3y2D1biL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel 0858D-00S54W L.34  Jeans para Muj al 69.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417m7Qr422L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417m7Qr422L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417m7Qr422L._SL200_.jpg' ]
 comments: true
 category: ofertas

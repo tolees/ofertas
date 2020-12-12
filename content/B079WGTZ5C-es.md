@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.96 % en Pepe Jeans Track Vaqueros  Azul  Black W'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F5ShsaQoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F5ShsaQoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F5ShsaQoL._SL200_.jpg' ]
 comments: true
 category: ofertas

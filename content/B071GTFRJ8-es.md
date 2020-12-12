@@ -3,6 +3,7 @@ layout: post
 title: 'adidas TV Down JK Chaqueta Línea Real Ma al 43.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bb20rWXfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bb20rWXfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bb20rWXfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.39 % en Puma Cabana Racer SL V PS  Zapatillas Un'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31N-XzBPoxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31N-XzBPoxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31N-XzBPoxL._SL200_.jpg' ]
 comments: true
 category: ofertas

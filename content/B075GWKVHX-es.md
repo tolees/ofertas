@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.31 % en Adidas Cosmic 2 m  Zapatillas de Deporte'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BaR1FmDRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BaR1FmDRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BaR1FmDRL._SL200_.jpg' ]
 comments: true
 category: ofertas

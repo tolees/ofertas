@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Sk8-hi 46 MTE DX  Zapatillas Unisex al 78.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516ZEDw5XuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516ZEDw5XuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516ZEDw5XuL._SL200_.jpg' ]
 comments: true
 category: ofertas

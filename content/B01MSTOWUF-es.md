@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Drift 2  Zapatillas de R al 63.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vi8MnI7eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vi8MnI7eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vi8MnI7eL._SL200_.jpg' ]
 comments: true
 category: ofertas

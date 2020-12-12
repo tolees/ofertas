@@ -3,6 +3,7 @@ layout: post
 title: 'Arnés-Bozal Entrenam. Top Trainer XL-cor al 54.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cci3kTO6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cci3kTO6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cci3kTO6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.73 % en New Look Falda Negro ES 36  UK 8 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vJIVL3vML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vJIVL3vML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vJIVL3vML._SL200_.jpg' ]
 comments: true
 category: ofertas

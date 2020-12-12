@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual TS_shasa  Camiseta para Mujer   al 46.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xHOFF2VyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xHOFF2VyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xHOFF2VyL._SL200_.jpg' ]
 comments: true
 category: ofertas

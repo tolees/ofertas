@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.02 % en Solac Squissita New CE4491 Cafetera Expr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qDudL3c-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qDudL3c-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qDudL3c-L._SL200_.jpg' ]
 comments: true
 category: ofertas

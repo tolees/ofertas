@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.76 % en Boston Tech BE-104 - Espejo de Maquillaj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d2jBZrJuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d2jBZrJuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d2jBZrJuL._SL200_.jpg' ]
 comments: true
 category: ofertas

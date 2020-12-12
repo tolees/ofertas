@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 2.1.J.MD.G.Pañuelo Jersey Ga al 76.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41393S77RaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41393S77RaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41393S77RaL._SL200_.jpg' ]
 comments: true
 category: ofertas

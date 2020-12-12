@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.94 % en CIARRA Campana Extractora de Pared Crist'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uAX%2BbvYbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uAX%2BbvYbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uAX%2BbvYbL._SL200_.jpg' ]
 comments: true
 category: ofertas

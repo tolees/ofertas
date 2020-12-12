@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.84 % en GORE WEAR R3 Mallas 3/4 de hombre  L  ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-l2ibDNYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-l2ibDNYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-l2ibDNYL._SL200_.jpg' ]
 comments: true
 category: ofertas

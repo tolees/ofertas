@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.26 % en Clarks Tunsil Ace  Zapatillas para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31trHKl2dsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31trHKl2dsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31trHKl2dsL._SL200_.jpg' ]
 comments: true
 category: ofertas

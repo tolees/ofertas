@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Active 3/4 Pants  Mujer  Black  XXL al 27.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pPLAWXLBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pPLAWXLBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pPLAWXLBL._SL200_.jpg' ]
 comments: true
 category: ofertas

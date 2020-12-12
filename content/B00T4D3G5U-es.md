@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 86.31 % en Renberg Set de de 5 Cuchillos de Acero I'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oH3TxXIFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oH3TxXIFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oH3TxXIFL._SL200_.jpg' ]
 comments: true
 category: ofertas

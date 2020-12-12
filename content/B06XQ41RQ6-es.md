@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Nebula A  Zapatillas para Mujer   al 47.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412upKk7rRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412upKk7rRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412upKk7rRL._SL200_.jpg' ]
 comments: true
 category: ofertas

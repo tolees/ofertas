@@ -3,6 +3,7 @@ layout: post
 title: 'Converse Accesorios 10003330-A03 Mochila al 32.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412COuN6YLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412COuN6YLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412COuN6YLL._SL200_.jpg' ]
 comments: true
 category: ofertas

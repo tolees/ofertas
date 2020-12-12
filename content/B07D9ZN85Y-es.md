@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Tsugi Cage Dazzle  Zapatillas Unise al 72.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fctGAaOVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fctGAaOVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fctGAaOVL._SL200_.jpg' ]
 comments: true
 category: ofertas

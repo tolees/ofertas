@@ -3,6 +3,7 @@ layout: post
 title: 'X96mini TV Box  Android 7.1.2  RAM 2GB+R al 71.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519ZMoB456L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519ZMoB456L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519ZMoB456L._SL200_.jpg' ]
 comments: true
 category: ofertas

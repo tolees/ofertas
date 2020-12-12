@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Heritage Classic Hood Sudadera  al 55.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41df8R-EAFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41df8R-EAFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41df8R-EAFL._SL200_.jpg' ]
 comments: true
 category: ofertas

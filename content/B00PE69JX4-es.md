@@ -3,6 +3,7 @@ layout: post
 title: 'Meltin Pot Markus  Vaqueros para Hombre  al 64.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DDktpfp1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DDktpfp1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DDktpfp1L._SL200_.jpg' ]
 comments: true
 category: ofertas

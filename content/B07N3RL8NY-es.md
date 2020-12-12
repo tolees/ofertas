@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en SYOSS - Hair Mascara - Cubre Canas - Col'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3189VIj06RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3189VIj06RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3189VIj06RL._SL200_.jpg' ]
 comments: true
 category: ofertas

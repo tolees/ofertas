@@ -3,6 +3,7 @@ layout: post
 title: 'BROOKS BROTHERS Denim Slim Lunghi Red Fl al 44.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nz6KYDWCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nz6KYDWCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nz6KYDWCL._SL200_.jpg' ]
 comments: true
 category: ofertas

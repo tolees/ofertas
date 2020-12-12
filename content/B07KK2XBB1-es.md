@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Faux Fur6035021  estola para Mu al 29.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LgiUTq9mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LgiUTq9mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LgiUTq9mL._SL200_.jpg' ]
 comments: true
 category: ofertas

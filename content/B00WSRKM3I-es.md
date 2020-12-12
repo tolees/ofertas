@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.80 % en HOGAR24 ES Colchón Viscoelástico Viscore'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e7DOH7jXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e7DOH7jXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e7DOH7jXL._SL200_.jpg' ]
 comments: true
 category: ofertas

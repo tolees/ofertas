@@ -3,6 +3,7 @@ layout: post
 title: 'Dickies Lined Eisenhower-Chaqueta Hombre al 60.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LieptXuvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LieptXuvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LieptXuvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Sports 028ei1k010 Camiseta Deport al 68.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412irglF9hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412irglF9hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412irglF9hL._SL200_.jpg' ]
 comments: true
 category: ofertas

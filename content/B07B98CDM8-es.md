@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Jaylon E  Botas Clasicas para Hom al 73.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31T%2BcNH7TgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31T%2BcNH7TgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31T%2BcNH7TgL._SL200_.jpg' ]
 comments: true
 category: ofertas

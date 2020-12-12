@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.28 % en XTI 86112  Bolso Bolera para Mujer   Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lxCqsL04L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lxCqsL04L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lxCqsL04L._SL200_.jpg' ]
 comments: true
 category: ofertas

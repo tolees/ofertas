@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Recent-Meroso  Zapatillas para  al 59.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GyFVsY9rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GyFVsY9rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GyFVsY9rL._SL200_.jpg' ]
 comments: true
 category: ofertas

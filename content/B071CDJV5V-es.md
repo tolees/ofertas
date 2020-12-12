@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Anbass Hyperflex Pantalones Vaque al 52.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ibKRfyFJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ibKRfyFJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ibKRfyFJL._SL200_.jpg' ]
 comments: true
 category: ofertas

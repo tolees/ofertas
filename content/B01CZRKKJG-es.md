@@ -3,6 +3,7 @@ layout: post
 title: 'Kempa Bekleidung Teamsport Sweathose Neg al 45.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rr726VewL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rr726VewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rr726VewL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'One For All WM2111  Soporte de pared par al 49.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411Nu6y9Y5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411Nu6y9Y5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411Nu6y9Y5L._SL200_.jpg' ]
 comments: true
 category: ofertas

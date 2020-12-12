@@ -3,6 +3,7 @@ layout: post
 title: 'Aerobath 2019 Filtro para Ducha Universa al 48.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hj9tbhWFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hj9tbhWFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hj9tbhWFL._SL200_.jpg' ]
 comments: true
 category: ofertas

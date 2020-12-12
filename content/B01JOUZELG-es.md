@@ -3,6 +3,7 @@ layout: post
 title: 'MICTUNING DC 6.5 – 100 V 0 – 100 A panta al 29.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tGW-R0eML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tGW-R0eML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tGW-R0eML._SL200_.jpg' ]
 comments: true
 category: ofertas

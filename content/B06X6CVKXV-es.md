@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.35 % en Laken RF75P Botella Flexible y Plegable '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w4NhL2A4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w4NhL2A4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w4NhL2A4L._SL200_.jpg' ]
 comments: true
 category: ofertas

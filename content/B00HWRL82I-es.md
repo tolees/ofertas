@@ -3,6 +3,7 @@ layout: post
 title: 'Maurer 2321815 Formon Mango Bimaterial 1 al 58.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jwzlXMTqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jwzlXMTqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jwzlXMTqL._SL200_.jpg' ]
 comments: true
 category: ofertas

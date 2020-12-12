@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.66 % en iRegro 35L Mochila Plegable 300D Nylon R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mTlNAyr8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mTlNAyr8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mTlNAyr8L._SL200_.jpg' ]
 comments: true
 category: ofertas

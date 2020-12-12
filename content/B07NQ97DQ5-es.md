@@ -3,6 +3,7 @@ layout: post
 title: 'Morkka Bloques de construcción de Bloque al 65.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BYHb8EgGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BYHb8EgGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BYHb8EgGL._SL200_.jpg' ]
 comments: true
 category: ofertas

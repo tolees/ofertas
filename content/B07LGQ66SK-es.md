@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas PV19 1017  Sudadera par al 60.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V-Jk4BVcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V-Jk4BVcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V-Jk4BVcL._SL200_.jpg' ]
 comments: true
 category: ofertas

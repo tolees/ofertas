@@ -3,6 +3,7 @@ layout: post
 title: 'Smiffy s Corbatín de satén de Cuentos de al 31.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nm2iNMy2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nm2iNMy2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nm2iNMy2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares inalámbricos Bluetooth  TWS  al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GS1-9haPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GS1-9haPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GS1-9haPL._SL200_.jpg' ]
 comments: true
 category: ofertas

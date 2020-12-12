@@ -3,6 +3,7 @@ layout: post
 title: 'Boston Tech HK-102  6 filtros de Agua pa al 48.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417CSZs7dwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417CSZs7dwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417CSZs7dwL._SL200_.jpg' ]
 comments: true
 category: ofertas

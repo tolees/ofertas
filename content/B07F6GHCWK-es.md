@@ -3,6 +3,7 @@ layout: post
 title: 'Bañador Tiger M al 29.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61KCpweqbyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61KCpweqbyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61KCpweqbyL._SL200_.jpg' ]
 comments: true
 category: ofertas

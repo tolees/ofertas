@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.46 % en Under Amour Exagerar Pantalones Cortos  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vtRr2TP4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vtRr2TP4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vtRr2TP4L._SL200_.jpg' ]
 comments: true
 category: ofertas

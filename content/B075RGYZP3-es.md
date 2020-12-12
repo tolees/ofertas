@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.97 % en Double Agent 87270 Sudadera  Gris Vigore'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TNo5exAKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TNo5exAKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TNo5exAKL._SL200_.jpg' ]
 comments: true
 category: ofertas

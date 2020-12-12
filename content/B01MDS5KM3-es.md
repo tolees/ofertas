@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.92 % en Levi s Woods 794  Zapatillas para Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vqHGh5yWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vqHGh5yWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vqHGh5yWL._SL200_.jpg' ]
 comments: true
 category: ofertas

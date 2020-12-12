@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Flite Hyprlite SHB4205WT - Auric al 67.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KFmgV2P4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KFmgV2P4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KFmgV2P4L._SL200_.jpg' ]
 comments: true
 category: ofertas

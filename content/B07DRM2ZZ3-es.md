@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.20 % en Adidas Fortarun AC I  Zapatillas de Gimn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HlazQOPQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HlazQOPQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HlazQOPQL._SL200_.jpg' ]
 comments: true
 category: ofertas

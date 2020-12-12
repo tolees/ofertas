@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.06 % en PRORTX - Polo Modelo Pro Pique para Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JsTumrVuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JsTumrVuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JsTumrVuL._SL200_.jpg' ]
 comments: true
 category: ofertas

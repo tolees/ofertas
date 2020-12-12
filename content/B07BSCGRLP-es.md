@@ -3,6 +3,7 @@ layout: post
 title: 'OCYCLONE Cargador Inalambrico Rápido  [2 al 39.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YytbwASIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YytbwASIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YytbwASIL._SL200_.jpg' ]
 comments: true
 category: ofertas

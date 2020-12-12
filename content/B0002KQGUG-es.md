@@ -3,6 +3,7 @@ layout: post
 title: 'Moschino Cheap & Chic Agua de Colonia -  al 33.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r4M0zOExL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r4M0zOExL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r4M0zOExL._SL200_.jpg' ]
 comments: true
 category: ofertas

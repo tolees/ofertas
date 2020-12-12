@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.36 % en Bosch 2 608 584 061 - Set de 7 sierras d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kb9xmogtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kb9xmogtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kb9xmogtL._SL200_.jpg' ]
 comments: true
 category: ofertas

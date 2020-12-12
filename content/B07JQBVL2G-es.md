@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.73 % en Superdry Vintage Logo Glitter Crack Ent '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pKZvCkKuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pKZvCkKuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pKZvCkKuL._SL200_.jpg' ]
 comments: true
 category: ofertas

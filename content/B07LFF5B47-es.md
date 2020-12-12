@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas PV19 1036VERDE Sudadera al 45.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yIqG%2B6loL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yIqG%2B6loL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yIqG%2B6loL._SL200_.jpg' ]
 comments: true
 category: ofertas

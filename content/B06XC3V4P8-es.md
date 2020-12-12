@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.73 % en Pepe Jeans Becket  Jeans Slim para Niños'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A5Imj7ZyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A5Imj7ZyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A5Imj7ZyL._SL200_.jpg' ]
 comments: true
 category: ofertas

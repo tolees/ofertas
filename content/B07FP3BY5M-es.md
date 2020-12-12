@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.35 % en Only Nos Onlmila Lacy L/S Knt Noos  Jers'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AlN2fE6AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AlN2fE6AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AlN2fE6AL._SL200_.jpg' ]
 comments: true
 category: ofertas

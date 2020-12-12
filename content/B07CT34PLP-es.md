@@ -3,6 +3,7 @@ layout: post
 title: 'Gigabyte  Sabre15Wv8 GP-C106F516-ES-002  al 43.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XQ9gBM0DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XQ9gBM0DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XQ9gBM0DL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.65 % en BONAI Bateria Externa 20000mAh Power Ban'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41opa81-NCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41opa81-NCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41opa81-NCL._SL200_.jpg' ]
 comments: true
 category: ofertas

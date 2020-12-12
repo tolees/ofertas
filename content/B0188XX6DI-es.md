@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face S/S Dome Camiseta De Mang al 34.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YUyoNJ%2B3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YUyoNJ%2B3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YUyoNJ%2B3L._SL200_.jpg' ]
 comments: true
 category: ofertas

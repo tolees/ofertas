@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fresh Foam Veniz  Zapatillas al 70.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w7yn0v%2BqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w7yn0v%2BqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w7yn0v%2BqL._SL200_.jpg' ]
 comments: true
 category: ofertas

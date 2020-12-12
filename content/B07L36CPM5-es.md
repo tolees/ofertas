@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.24 % en Tommy Hilfiger Badge Textile Beach Sanda'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tp06HeHbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tp06HeHbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tp06HeHbL._SL200_.jpg' ]
 comments: true
 category: ofertas

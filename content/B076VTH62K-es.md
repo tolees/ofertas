@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.84 % en Escobilla para baño con cepillo SALOVES '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S9lYwyDaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S9lYwyDaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S9lYwyDaL._SL200_.jpg' ]
 comments: true
 category: ofertas

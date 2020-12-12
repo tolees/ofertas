@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.04 % en Skechers TWI-Lites-Twinkle Starz  Zapati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cjV77CnbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cjV77CnbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cjV77CnbL._SL200_.jpg' ]
 comments: true
 category: ofertas

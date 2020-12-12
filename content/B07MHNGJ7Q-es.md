@@ -3,6 +3,7 @@ layout: post
 title: 'Productos de Adultos  Anillo de Bloqueo  al 37.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fD7Lw9gWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fD7Lw9gWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fD7Lw9gWL._SL200_.jpg' ]
 comments: true
 category: ofertas

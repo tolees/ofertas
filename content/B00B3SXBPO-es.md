@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.21 % en BRA Terra - Sartén 30 cm  aluminio fundi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EsWZSDvFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EsWZSDvFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EsWZSDvFL._SL200_.jpg' ]
 comments: true
 category: ofertas

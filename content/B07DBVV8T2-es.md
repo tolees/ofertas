@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Defy Wn s Zapatillas de Deporte Muj al 59.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bWq0q8Q6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bWq0q8Q6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bWq0q8Q6L._SL200_.jpg' ]
 comments: true
 category: ofertas

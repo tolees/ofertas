@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.68 % en ENKEEO Casco de Esquí Unisex  14 Salidas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OXyC8zsnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OXyC8zsnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OXyC8zsnL._SL200_.jpg' ]
 comments: true
 category: ofertas

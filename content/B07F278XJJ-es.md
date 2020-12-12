@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.47 % en Celio Mosatin  Pantalones para Hombre  N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316LebECQRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316LebECQRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316LebECQRL._SL200_.jpg' ]
 comments: true
 category: ofertas

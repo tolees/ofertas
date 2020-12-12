@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.75 % en Proyector 1800 lumens  Smartphone/Tablet'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IpN2Nk7JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IpN2Nk7JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IpN2Nk7JL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'erima Classic 5 Cubos Pantalón Corto  Un al 50.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cZB9TYZiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cZB9TYZiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cZB9TYZiL._SL200_.jpg' ]
 comments: true
 category: ofertas

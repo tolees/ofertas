@@ -3,6 +3,7 @@ layout: post
 title: 'Klarstein VariCook Slim • Cocina • Placa al 45.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pw%2BM7mn0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pw%2BM7mn0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pw%2BM7mn0L._SL200_.jpg' ]
 comments: true
 category: ofertas

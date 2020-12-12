@@ -3,6 +3,7 @@ layout: post
 title: 'HALOViE Bebés Saco de Dormir Sacos de ab al 28.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k8suJ9WcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k8suJ9WcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k8suJ9WcL._SL200_.jpg' ]
 comments: true
 category: ofertas

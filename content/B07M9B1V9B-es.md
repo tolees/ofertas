@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Borealis Classic Mochila  al 42.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YZ95k0RlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YZ95k0RlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YZ95k0RlL._SL200_.jpg' ]
 comments: true
 category: ofertas

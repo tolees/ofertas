@@ -3,6 +3,7 @@ layout: post
 title: 'OFERTAS DEL DÍA - 180 Cosmetics - EL MEJ al 55.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J%2BzsBWoZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J%2BzsBWoZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J%2BzsBWoZL._SL200_.jpg' ]
 comments: true
 category: ofertas

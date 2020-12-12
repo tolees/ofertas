@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.87 % en Buff Brassite Tubular Reversible Polar  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BXTFZ9%2BLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BXTFZ9%2BLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BXTFZ9%2BLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Club C 85  Zapatillas de Gimnasia al 76.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wS3UWdP8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wS3UWdP8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wS3UWdP8L._SL200_.jpg' ]
 comments: true
 category: ofertas

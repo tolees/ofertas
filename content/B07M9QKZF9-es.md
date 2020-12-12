@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Swando Graphic T-Shirt Camise al 66.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311DkKKJDML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311DkKKJDML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311DkKKJDML._SL200_.jpg' ]
 comments: true
 category: ofertas

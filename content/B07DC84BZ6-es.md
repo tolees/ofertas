@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Alpha Inf Sport  Botas Un al 50.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413G4wg%2BmxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413G4wg%2BmxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413G4wg%2BmxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.77 % en Fly London Leal689fly  Botines para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WJdw7X-AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WJdw7X-AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WJdw7X-AL._SL200_.jpg' ]
 comments: true
 category: ofertas

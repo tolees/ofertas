@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.14 % en MiniSun – Set de 2 lámparas modernas de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z0He4AXhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z0He4AXhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z0He4AXhL._SL200_.jpg' ]
 comments: true
 category: ofertas

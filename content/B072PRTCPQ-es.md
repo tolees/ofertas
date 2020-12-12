@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.42 % en Buff Tip Logo ThermoNet Tubular  Unisex '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U9mg9LbzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U9mg9LbzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U9mg9LbzL._SL200_.jpg' ]
 comments: true
 category: ofertas

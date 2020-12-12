@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Fierce Lace Wn s  Zapatillas Deport al 76.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wVNXWLgvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wVNXWLgvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wVNXWLgvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.07 % en Only Onldarice Wool Coat Otw Abrigo  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xyCQQKLRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xyCQQKLRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xyCQQKLRL._SL200_.jpg' ]
 comments: true
 category: ofertas

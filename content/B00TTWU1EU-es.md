@@ -3,6 +3,7 @@ layout: post
 title: 'Farmatint Gel 8N Rubio Claro. Tinte perm al 38.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JDxIlKKWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JDxIlKKWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JDxIlKKWL._SL200_.jpg' ]
 comments: true
 category: ofertas

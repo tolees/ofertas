@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.28 % en Quiksilver Carver Suede M Sndl Sandalias'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8EATZT2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8EATZT2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q8EATZT2L._SL200_.jpg' ]
 comments: true
 category: ofertas

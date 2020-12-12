@@ -3,6 +3,7 @@ layout: post
 title: 'Sulion Young Flexo LED con Pantalla LCD  al 52.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21rOOhcvGlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21rOOhcvGlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21rOOhcvGlL._SL200_.jpg' ]
 comments: true
 category: ofertas

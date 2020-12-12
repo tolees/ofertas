@@ -3,6 +3,7 @@ layout: post
 title: 'Diadora Swan + 2 W  Zapatillas de Runnin al 68.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zrjTUaf1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zrjTUaf1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zrjTUaf1L._SL200_.jpg' ]
 comments: true
 category: ofertas

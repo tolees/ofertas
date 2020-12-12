@@ -3,6 +3,7 @@ layout: post
 title: 'SOS Arroz Especial para Paellas - Paquet al 37.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nYq47Rt4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nYq47Rt4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nYq47Rt4L._SL200_.jpg' ]
 comments: true
 category: ofertas

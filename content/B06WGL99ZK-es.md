@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.72 % en Bóboli 114118  Pelele para Bebé-Niños  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bNqRFVpgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bNqRFVpgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bNqRFVpgL._SL200_.jpg' ]
 comments: true
 category: ofertas

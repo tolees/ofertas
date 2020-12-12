@@ -3,6 +3,7 @@ layout: post
 title: 'Kérastase  Cuidado del pelo y del cuero  al 44.24 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

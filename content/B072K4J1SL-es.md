@@ -3,6 +3,7 @@ layout: post
 title: 'Neck & Neck 17I13604.26  Pantalones para al 64.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lRU1nMZCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lRU1nMZCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lRU1nMZCL._SL200_.jpg' ]
 comments: true
 category: ofertas

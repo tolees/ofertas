@@ -3,6 +3,7 @@ layout: post
 title: 'TOPELEK Bandeja de Cubitos de Hielo con  al 25.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CPggJ16HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CPggJ16HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CPggJ16HL._SL200_.jpg' ]
 comments: true
 category: ofertas

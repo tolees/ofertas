@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Bolsa  Talla Única  Mineral Spruce/ al 47.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z59KK-BAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z59KK-BAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z59KK-BAL._SL200_.jpg' ]
 comments: true
 category: ofertas

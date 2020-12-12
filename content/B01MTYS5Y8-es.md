@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange Reloj de Mujer AX5444 al 28.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415pqmF1zTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415pqmF1zTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415pqmF1zTL._SL200_.jpg' ]
 comments: true
 category: ofertas

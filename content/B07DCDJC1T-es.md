@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Nova 90 s Bloc Wn s  Zapatillas par al 39.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vcxnFg2mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vcxnFg2mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vcxnFg2mL._SL200_.jpg' ]
 comments: true
 category: ofertas

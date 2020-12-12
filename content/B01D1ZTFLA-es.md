@@ -3,6 +3,7 @@ layout: post
 title: 'S.Oliver Denim 40.607.21.5880 - Camiseta al 76.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517ytUdap5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517ytUdap5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517ytUdap5L._SL200_.jpg' ]
 comments: true
 category: ofertas

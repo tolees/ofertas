@@ -3,6 +3,7 @@ layout: post
 title: 'Envasadoras al vacío  Padi Home El Apara al 72.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i1I%2BB%2BQvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51i1I%2BB%2BQvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i1I%2BB%2BQvL._SL200_.jpg' ]
 comments: true
 category: ofertas

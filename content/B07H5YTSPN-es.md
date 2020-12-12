@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.42 % en Esprit 019ee1k022  Camisa Manga Larga Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fANN2TQxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fANN2TQxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fANN2TQxL._SL200_.jpg' ]
 comments: true
 category: ofertas

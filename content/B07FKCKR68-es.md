@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.60 % en Nike SB Check Suede  PS   Zapatillas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KtFBIbEpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KtFBIbEpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KtFBIbEpL._SL200_.jpg' ]
 comments: true
 category: ofertas

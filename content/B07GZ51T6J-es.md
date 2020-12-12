@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 128ee1j008  Sudadera Mujer  Rosa  al 40.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lX0lI0PYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lX0lI0PYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lX0lI0PYL._SL200_.jpg' ]
 comments: true
 category: ofertas

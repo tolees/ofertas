@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.87 % en Puma Athletics Pants TR cl Pantalones  H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U1ve9tVHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U1ve9tVHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U1ve9tVHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Happy Home Perchero de Pie con 8 Ganchos al 64.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lQ3FjnvXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lQ3FjnvXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lQ3FjnvXL._SL200_.jpg' ]
 comments: true
 category: ofertas

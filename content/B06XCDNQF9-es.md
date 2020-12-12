@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.01 % en G-Star Raw 3301 Deconstructed Super Slim'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CfrLFs-oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CfrLFs-oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CfrLFs-oL._SL200_.jpg' ]
 comments: true
 category: ofertas

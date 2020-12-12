@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en adidas Superstar 80s  Zapatillas de Gimn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414OQC6LaWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414OQC6LaWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414OQC6LaWL._SL200_.jpg' ]
 comments: true
 category: ofertas

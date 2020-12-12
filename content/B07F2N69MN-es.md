@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.01 % en Ymiko Fieltro Letter Board  Tablero de L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51G8qEvUCCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51G8qEvUCCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51G8qEvUCCL._SL200_.jpg' ]
 comments: true
 category: ofertas

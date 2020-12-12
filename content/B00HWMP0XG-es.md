@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.79 % en Olympus M.ZUIKO Digital - Objetivo  9/7 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P35QJC62L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P35QJC62L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P35QJC62L._SL200_.jpg' ]
 comments: true
 category: ofertas

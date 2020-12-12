@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.92 % en Puma ftblNXT Graphic Shirt Core Camiseta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411kebKIrzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411kebKIrzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411kebKIrzL._SL200_.jpg' ]
 comments: true
 category: ofertas

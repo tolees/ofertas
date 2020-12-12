@@ -3,6 +3,7 @@ layout: post
 title: 'Fundas para sillas Pack de 4 Fundas sill al 52.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BQOkNioHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BQOkNioHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BQOkNioHL._SL200_.jpg' ]
 comments: true
 category: ofertas

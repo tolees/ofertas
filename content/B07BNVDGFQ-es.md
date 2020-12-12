@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Tahina B  Zapatillas sin Cordones al 74.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Fi%2BQ8-ecL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Fi%2BQ8-ecL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Fi%2BQ8-ecL._SL200_.jpg' ]
 comments: true
 category: ofertas

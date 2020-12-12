@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.86 % en adidas X 18.3 AG J  Botas de fútbol Unis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MnghThYSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MnghThYSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MnghThYSL._SL200_.jpg' ]
 comments: true
 category: ofertas

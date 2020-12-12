@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.91 % en D-Link DAP-1365 - Repetidor WiFi N300 co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TX5vL84rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TX5vL84rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TX5vL84rL._SL200_.jpg' ]
 comments: true
 category: ofertas

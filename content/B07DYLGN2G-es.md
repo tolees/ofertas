@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.24 % en Merrell Vapor Glove 4  Zapatillas Deport'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dDV91XT6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dDV91XT6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dDV91XT6L._SL200_.jpg' ]
 comments: true
 category: ofertas

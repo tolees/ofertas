@@ -3,6 +3,7 @@ layout: post
 title: 'Bugatti V71301  Botines para Mujer  Negr al 78.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419ojjQ8jeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419ojjQ8jeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419ojjQ8jeL._SL200_.jpg' ]
 comments: true
 category: ofertas

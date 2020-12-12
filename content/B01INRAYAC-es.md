@@ -3,6 +3,7 @@ layout: post
 title: 'ION Audio Tailgater Go - Altavoz inalámb al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51L2mY5J%2BZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51L2mY5J%2BZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51L2mY5J%2BZL._SL200_.jpg' ]
 comments: true
 category: ofertas

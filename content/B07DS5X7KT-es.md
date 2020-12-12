@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Ad Swiftway Run  Zapatillas de De al 52.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XLeUZE0nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XLeUZE0nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XLeUZE0nL._SL200_.jpg' ]
 comments: true
 category: ofertas

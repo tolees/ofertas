@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 89.63 % en Leds-c4 multidir - Downlight cuadrado mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iIadxICYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iIadxICYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iIadxICYL._SL200_.jpg' ]
 comments: true
 category: ofertas

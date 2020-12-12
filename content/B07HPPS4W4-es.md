@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.16 % en Asics Op Sweat Shorts  Pantalones Cortos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OBZv%2BHOrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OBZv%2BHOrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OBZv%2BHOrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Climacool M  Zapatillas de Trail  al 58.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O9xs6BxxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51O9xs6BxxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O9xs6BxxL._SL200_.jpg' ]
 comments: true
 category: ofertas

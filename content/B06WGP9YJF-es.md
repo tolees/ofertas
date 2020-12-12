@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.88 % en Soggy Doggy Juego  Perro Que Moja  Gioch'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61r6y9x3qpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61r6y9x3qpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61r6y9x3qpL._SL200_.jpg' ]
 comments: true
 category: ofertas

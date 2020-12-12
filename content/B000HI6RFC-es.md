@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.35 % en Bushnell 10x50mm Legacy - Prismático  re'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kHjKwaadL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kHjKwaadL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kHjKwaadL._SL200_.jpg' ]
 comments: true
 category: ofertas

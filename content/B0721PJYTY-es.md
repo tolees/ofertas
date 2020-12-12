@@ -3,6 +3,7 @@ layout: post
 title: 'Arlo VMA4600-10000S Panel Solar diseñado al 30.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QoucUW8yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QoucUW8yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QoucUW8yL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlnew Dia Faux Leather Bonded Bike al 62.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E4iAtSvnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E4iAtSvnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E4iAtSvnL._SL200_.jpg' ]
 comments: true
 category: ofertas

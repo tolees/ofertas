@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi 26298-21  Botines para Mujer al 79.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mw6RKuR6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mw6RKuR6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mw6RKuR6L._SL200_.jpg' ]
 comments: true
 category: ofertas

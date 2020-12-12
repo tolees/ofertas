@@ -3,6 +3,7 @@ layout: post
 title: 'Gioseppo 44870  Shopper para Mujer   Mul al 41.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eifghEruL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eifghEruL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eifghEruL._SL200_.jpg' ]
 comments: true
 category: ofertas

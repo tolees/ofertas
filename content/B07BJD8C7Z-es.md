@@ -3,6 +3,7 @@ layout: post
 title: 'Editions Oberthur Kaporal Boy Primaire B al 65.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s0U1y%2B37L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51s0U1y%2B37L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s0U1y%2B37L._SL200_.jpg' ]
 comments: true
 category: ofertas

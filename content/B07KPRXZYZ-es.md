@@ -3,6 +3,7 @@ layout: post
 title: 'Magic Wand Massager 100% Impermeable  Ja al 63.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4141dzVWI3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4141dzVWI3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4141dzVWI3L._SL200_.jpg' ]
 comments: true
 category: ofertas

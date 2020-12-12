@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Acid Wash-Camisa de Deporte Hom al 61.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313w3iaYMEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313w3iaYMEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313w3iaYMEL._SL200_.jpg' ]
 comments: true
 category: ofertas

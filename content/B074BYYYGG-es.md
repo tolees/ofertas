@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Ultra Flex-Capsule  Zapatillas  al 54.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2Bd6SXpjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2Bd6SXpjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H%2Bd6SXpjL._SL200_.jpg' ]
 comments: true
 category: ofertas

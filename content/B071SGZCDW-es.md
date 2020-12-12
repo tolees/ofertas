@@ -3,6 +3,7 @@ layout: post
 title: 'Giorgio Armani Stronger With You Homme E al 54.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ch6pjbWyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ch6pjbWyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ch6pjbWyL._SL200_.jpg' ]
 comments: true
 category: ofertas

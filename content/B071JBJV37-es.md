@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.40 % en Sunspeed Luz Trasera de Bicicleta Recarg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VMIUnqbrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VMIUnqbrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VMIUnqbrL._SL200_.jpg' ]
 comments: true
 category: ofertas

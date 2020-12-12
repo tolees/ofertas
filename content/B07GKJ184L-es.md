@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera Salvador Mix  Zapatillas de Cros al 56.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GomUvu73L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GomUvu73L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GomUvu73L._SL200_.jpg' ]
 comments: true
 category: ofertas

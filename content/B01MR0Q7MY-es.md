@@ -3,6 +3,7 @@ layout: post
 title: 'Bugatti 422291605050  Zapatillas para Mu al 65.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Svdq2E0DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Svdq2E0DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Svdq2E0DL._SL200_.jpg' ]
 comments: true
 category: ofertas

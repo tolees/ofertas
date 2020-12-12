@@ -3,6 +3,7 @@ layout: post
 title: 'WOSTOO Barbacoa portátil Charcoal  minib al 62.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kRnHzwhZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kRnHzwhZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kRnHzwhZL._SL200_.jpg' ]
 comments: true
 category: ofertas

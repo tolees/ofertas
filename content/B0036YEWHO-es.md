@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.64 % en Pioneer TS- WX210A - Subwoofers para Coc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i-GOYL3hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i-GOYL3hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i-GOYL3hL._SL200_.jpg' ]
 comments: true
 category: ofertas

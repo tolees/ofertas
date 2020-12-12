@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s kids Nn23597 46 Trousers Jeans  A al 47.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I3b3cfnsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I3b3cfnsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I3b3cfnsL._SL200_.jpg' ]
 comments: true
 category: ofertas

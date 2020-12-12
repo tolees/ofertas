@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.76 % en SYROKAN - Sujetador Deportivo Talla Gran'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yiGT-57iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yiGT-57iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yiGT-57iL._SL200_.jpg' ]
 comments: true
 category: ofertas

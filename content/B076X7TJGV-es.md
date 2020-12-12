@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Smart B  Zapatillas para Hombre   al 63.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iy3%2BQuELL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iy3%2BQuELL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iy3%2BQuELL._SL200_.jpg' ]
 comments: true
 category: ofertas

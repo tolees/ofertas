@@ -3,6 +3,7 @@ layout: post
 title: 'Versace Bright Crystal Gel De Ducha 200  al 48.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IDPyOPdrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IDPyOPdrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IDPyOPdrL._SL200_.jpg' ]
 comments: true
 category: ofertas

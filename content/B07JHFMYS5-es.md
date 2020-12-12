@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.56 % en KINTRADE Ceramic Buddha Backflow Horno d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WVbOh9zGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WVbOh9zGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WVbOh9zGL._SL200_.jpg' ]
 comments: true
 category: ofertas

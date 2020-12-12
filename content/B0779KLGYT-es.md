@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Brent  Camiseta Mujer  Negro  al 52.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kE2zXWMyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kE2zXWMyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kE2zXWMyL._SL200_.jpg' ]
 comments: true
 category: ofertas

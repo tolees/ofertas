@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.17 % en 60 pieza Neodimio Imán,Mini Imanes Neodi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HJ-UG8x5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HJ-UG8x5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HJ-UG8x5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Mufly Weld - Delantal de piel de vaca pa al 61.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41imIw6DZNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41imIw6DZNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41imIw6DZNL._SL200_.jpg' ]
 comments: true
 category: ofertas

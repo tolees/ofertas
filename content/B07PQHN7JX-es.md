@@ -3,6 +3,7 @@ layout: post
 title: 'Mujer Bikini Dos Piezas Tiras Traje de b al 57.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zkuhWJspL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zkuhWJspL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zkuhWJspL._SL200_.jpg' ]
 comments: true
 category: ofertas

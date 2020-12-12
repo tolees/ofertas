@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.45 % en Inneov Densilogy Alpha - Suplemento para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51owAE9cH6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51owAE9cH6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51owAE9cH6L._SL200_.jpg' ]
 comments: true
 category: ofertas

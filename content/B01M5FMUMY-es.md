@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.83 % en Big Buck Hunter Arcade'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-MgqgQfbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-MgqgQfbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-MgqgQfbL._SL200_.jpg' ]
 comments: true
 category: ofertas

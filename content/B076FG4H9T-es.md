@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley M DRI-FIT Breathe 19  Bermudas  H al 48.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rQ0rMtFfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rQ0rMtFfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rQ0rMtFfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Olymp  Zapatillas Unisex Adulto  N al 63.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411MvEJyATL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411MvEJyATL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411MvEJyATL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'find. Pantalones Regular Fit Hombre Negr al 51.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21ZoTiEbULL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21ZoTiEbULL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21ZoTiEbULL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pedales de MTB  Shimano M520  SPD  blanc al 42.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k9M2do33L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k9M2do33L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k9M2do33L._SL200_.jpg' ]
 comments: true
 category: ofertas

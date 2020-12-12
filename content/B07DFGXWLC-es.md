@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Cy5615 Monedero  15 cm  Ónitéc /  al 50.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510LjQfNEGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510LjQfNEGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510LjQfNEGL._SL200_.jpg' ]
 comments: true
 category: ofertas

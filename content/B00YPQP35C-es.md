@@ -3,6 +3,7 @@ layout: post
 title: 'AEG SB2500 Batidora de Vaso Good To Go   al 27.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mstgncItL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mstgncItL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mstgncItL._SL200_.jpg' ]
 comments: true
 category: ofertas

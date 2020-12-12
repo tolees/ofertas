@@ -3,6 +3,7 @@ layout: post
 title: 'Gfas De Sol Mujer Gato Ojos  Grande Over al 80.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nOgbZzv-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nOgbZzv-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nOgbZzv-L._SL200_.jpg' ]
 comments: true
 category: ofertas

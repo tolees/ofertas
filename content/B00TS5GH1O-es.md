@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.90 % en Karrimor Toledo Weathertite - Low Rise H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51obgy3OP6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51obgy3OP6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51obgy3OP6L._SL200_.jpg' ]
 comments: true
 category: ofertas

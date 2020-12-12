@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.08 % en Salomon RX Moc 4.0  Calzado de recuperac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v59gEz08L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v59gEz08L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v59gEz08L._SL200_.jpg' ]
 comments: true
 category: ofertas

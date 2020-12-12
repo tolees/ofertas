@@ -3,6 +3,7 @@ layout: post
 title: 'Taurus 935.026 Rabat-Emisor térmico  600 al 34.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tTRfj0UvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tTRfj0UvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tTRfj0UvL._SL200_.jpg' ]
 comments: true
 category: ofertas

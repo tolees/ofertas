@@ -3,6 +3,7 @@ layout: post
 title: 'Selene Judith Sujetador con Push-up  Muj al 52.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4174gcyXhDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4174gcyXhDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4174gcyXhDL._SL200_.jpg' ]
 comments: true
 category: ofertas

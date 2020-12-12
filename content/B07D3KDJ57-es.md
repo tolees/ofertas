@@ -3,6 +3,7 @@ layout: post
 title: 'SunTop Papel de Lija de 60 piezas ø76 mm al 33.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515lPX15xwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515lPX15xwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515lPX15xwL._SL200_.jpg' ]
 comments: true
 category: ofertas

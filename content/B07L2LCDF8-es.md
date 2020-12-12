@@ -3,6 +3,7 @@ layout: post
 title: 'Cocoda Soporte para Echo Dot  3.ª Genera al 40.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pGVCaWeqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pGVCaWeqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pGVCaWeqL._SL200_.jpg' ]
 comments: true
 category: ofertas

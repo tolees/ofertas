@@ -3,6 +3,7 @@ layout: post
 title: 'Casio Reloj de Pulsera LTP-1302PD-7A1VEF al 37.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nIXdWlDzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nIXdWlDzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nIXdWlDzL._SL200_.jpg' ]
 comments: true
 category: ofertas

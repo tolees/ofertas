@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.92 % en Springfield 6Re Organic Structure  Camis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yRmRRXNBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yRmRRXNBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yRmRRXNBL._SL200_.jpg' ]
 comments: true
 category: ofertas

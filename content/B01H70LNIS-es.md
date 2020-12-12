@@ -3,6 +3,7 @@ layout: post
 title: 'crocs 203998  Chanclas Mujer  Negro  Bla al 55.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pUXUZIx4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pUXUZIx4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pUXUZIx4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Tech 3In 2 Pack Ropa Interi al 28.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xFzCfvP7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xFzCfvP7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xFzCfvP7L._SL200_.jpg' ]
 comments: true
 category: ofertas

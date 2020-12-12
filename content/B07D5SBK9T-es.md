@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.27 % en Puma Active Interlock Chándal  Hombre  B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dbKO6F52L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dbKO6F52L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dbKO6F52L._SL200_.jpg' ]
 comments: true
 category: ofertas

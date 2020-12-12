@@ -3,6 +3,7 @@ layout: post
 title: 'Farmatint Spray instantáneo capilar Stop al 25.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41159xjZC0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41159xjZC0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41159xjZC0L._SL200_.jpg' ]
 comments: true
 category: ofertas

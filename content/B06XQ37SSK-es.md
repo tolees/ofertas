@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual Jers_arraga Chaqueta Punto  Gri al 55.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ItwHlHQsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ItwHlHQsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ItwHlHQsL._SL200_.jpg' ]
 comments: true
 category: ofertas

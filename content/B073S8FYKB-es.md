@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.03 % en El quinto elemento [Blu-ray]'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ilyjg85oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ilyjg85oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ilyjg85oL._SL200_.jpg' ]
 comments: true
 category: ofertas

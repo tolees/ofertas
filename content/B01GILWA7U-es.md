@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Demi  Sujetador para Mujer  al 79.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JD%2BtjNpPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JD%2BtjNpPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JD%2BtjNpPL._SL200_.jpg' ]
 comments: true
 category: ofertas

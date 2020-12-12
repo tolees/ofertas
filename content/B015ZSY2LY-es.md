@@ -3,6 +3,7 @@ layout: post
 title: 'OCB Papel de Fumar  Azul  25 Unidades al 52.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Gw86YwxkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Gw86YwxkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Gw86YwxkL._SL200_.jpg' ]
 comments: true
 category: ofertas

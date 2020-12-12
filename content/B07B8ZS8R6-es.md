@@ -3,6 +3,7 @@ layout: post
 title: 'SSD 128GB A80 1600/1000 MB/s PCIe M.2 al 54.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h1ySt8vSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h1ySt8vSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h1ySt8vSL._SL200_.jpg' ]
 comments: true
 category: ofertas

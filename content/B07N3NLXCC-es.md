@@ -3,6 +3,7 @@ layout: post
 title: 'Killypo EU WiFi Enchufe Inteligente Toma al 29.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mwpDGhSrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mwpDGhSrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mwpDGhSrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.30 % en Blackview P10000 Pro - Smartphone de 6.0'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hLasPPgyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hLasPPgyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hLasPPgyL._SL200_.jpg' ]
 comments: true
 category: ofertas

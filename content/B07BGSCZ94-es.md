@@ -3,6 +3,7 @@ layout: post
 title: 'Pequeña Bolsa de Viaje Bolsa Fin de Sema al 73.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z0ArHoXYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z0ArHoXYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z0ArHoXYL._SL200_.jpg' ]
 comments: true
 category: ofertas

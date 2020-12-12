@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.28 % en BIC Gel-ocity Original - Caja de 12 unid'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oaYgx0LhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oaYgx0LhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oaYgx0LhL._SL200_.jpg' ]
 comments: true
 category: ofertas

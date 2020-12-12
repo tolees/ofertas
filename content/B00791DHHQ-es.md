@@ -3,6 +3,7 @@ layout: post
 title: 'Orbegozo TRSL 1400 Termo para sólido y l al 77.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KozRSg%2BZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KozRSg%2BZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KozRSg%2BZL._SL200_.jpg' ]
 comments: true
 category: ofertas

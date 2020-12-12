@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.06 % en Puma St Runner V2 NL V PS  Zapatillas Un'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AQur4k90L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AQur4k90L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AQur4k90L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Wmns Air Vapormax 2019  Zapatillas  al 69.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LC2SFEtVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LC2SFEtVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LC2SFEtVL._SL200_.jpg' ]
 comments: true
 category: ofertas

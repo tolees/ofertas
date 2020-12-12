@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.18 % en BOSS Casual Oriol-d  Chaqueta Hombre  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oqUVm69lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oqUVm69lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oqUVm69lL._SL200_.jpg' ]
 comments: true
 category: ofertas

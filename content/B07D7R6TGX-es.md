@@ -3,6 +3,7 @@ layout: post
 title: 'ALEX AND ANI Brazalete Mujer latón - A18 al 26.47 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

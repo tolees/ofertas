@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.01 % en Magichome Vibrador Masajeador para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-R6y%2BQUlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-R6y%2BQUlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-R6y%2BQUlL._SL200_.jpg' ]
 comments: true
 category: ofertas

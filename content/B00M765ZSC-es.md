@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.96 % en Funko 4048  Pop!  Vinyl: Game of Thrones'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41owtyqDj9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41owtyqDj9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41owtyqDj9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.68 % en 5BILLION Juego de Bandas de Ejercicio de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411O5upY%2BLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411O5upY%2BLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411O5upY%2BLL._SL200_.jpg' ]
 comments: true
 category: ofertas

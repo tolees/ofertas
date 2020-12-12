@@ -3,6 +3,7 @@ layout: post
 title: 'Versa 18550655 - Azucarero  color verde al 55.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jtBlb8yNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jtBlb8yNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jtBlb8yNL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Philips myLiving Nister - Lámpara de mes al 36.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eO3rqRKpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eO3rqRKpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eO3rqRKpL._SL200_.jpg' ]
 comments: true
 category: ofertas

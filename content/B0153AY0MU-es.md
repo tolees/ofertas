@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.00 % en Bosch 0 603 9B0 301 Atornillador taladra'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BYboSK72L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BYboSK72L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BYboSK72L._SL200_.jpg' ]
 comments: true
 category: ofertas

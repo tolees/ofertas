@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.75 % en Bolso Pecho Hombre Mujer Bolsos Bandoler'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3100CpsHxuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3100CpsHxuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3100CpsHxuL._SL200_.jpg' ]
 comments: true
 category: ofertas

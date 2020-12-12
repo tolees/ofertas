@@ -3,6 +3,7 @@ layout: post
 title: 'Chatham Faraday  Náuticos para Hombre  A al 80.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31793YRc55L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31793YRc55L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31793YRc55L._SL200_.jpg' ]
 comments: true
 category: ofertas

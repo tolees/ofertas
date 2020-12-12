@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.42 % en Princess 282984 Picadora de Hielo  55 W '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411-ezt2adL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411-ezt2adL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411-ezt2adL._SL200_.jpg' ]
 comments: true
 category: ofertas

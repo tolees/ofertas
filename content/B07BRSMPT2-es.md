@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.27 % en GreeSuit Discos Deslizantesde Ejercicios'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SJGwqB9QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SJGwqB9QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SJGwqB9QL._SL200_.jpg' ]
 comments: true
 category: ofertas

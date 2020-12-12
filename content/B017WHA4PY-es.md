@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.15 % en Columbia Flashback Cortavientos Impermea'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Iw0QDqKUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Iw0QDqKUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Iw0QDqKUL._SL200_.jpg' ]
 comments: true
 category: ofertas

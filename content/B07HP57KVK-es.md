@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Men s Lido Volley 16" Boardshorts al 60.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316xsB-piOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316xsB-piOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316xsB-piOL._SL200_.jpg' ]
 comments: true
 category: ofertas

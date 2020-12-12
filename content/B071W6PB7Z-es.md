@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.43 % en Tommy Hilfiger J1285ill 3c  Botas para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n1V5qjOCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n1V5qjOCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n1V5qjOCL._SL200_.jpg' ]
 comments: true
 category: ofertas

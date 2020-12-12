@@ -3,6 +3,7 @@ layout: post
 title: 'RED WAGON Vestido con Volante Niñas  Azu al 58.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RHdThDg1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RHdThDg1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RHdThDg1L._SL200_.jpg' ]
 comments: true
 category: ofertas

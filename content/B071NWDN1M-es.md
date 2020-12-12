@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.21 % en Under Armour Armour Fly Fast Capri Leggi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nfT4Pf49L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nfT4Pf49L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nfT4Pf49L._SL200_.jpg' ]
 comments: true
 category: ofertas

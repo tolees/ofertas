@@ -3,6 +3,7 @@ layout: post
 title: 'Creative Labs 51MF8250AA003 - Altavoz co al 80.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q8gxJcPXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q8gxJcPXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Q8gxJcPXL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lenovo Ideacentre AIO 330-20AST - Ordena al 39.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AzMVasmRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AzMVasmRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AzMVasmRL._SL200_.jpg' ]
 comments: true
 category: ofertas

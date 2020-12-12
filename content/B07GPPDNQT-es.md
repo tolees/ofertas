@@ -3,6 +3,7 @@ layout: post
 title: 'Mexx Mexx-70455 Pantalones  Negro  Jet B al 86.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GVAkIepKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GVAkIepKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GVAkIepKL._SL200_.jpg' ]
 comments: true
 category: ofertas

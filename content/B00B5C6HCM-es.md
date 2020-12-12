@@ -3,6 +3,7 @@ layout: post
 title: 'Peppa Pig 229STARE92 - Guantes y bufanda al 79.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qDD0dfl8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qDD0dfl8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qDD0dfl8L._SL200_.jpg' ]
 comments: true
 category: ofertas

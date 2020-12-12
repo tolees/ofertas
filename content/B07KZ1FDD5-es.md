@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.Pc.Collar Beads Jersey  Mu al 63.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41enPD9Nd3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41enPD9Nd3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41enPD9Nd3L._SL200_.jpg' ]
 comments: true
 category: ofertas

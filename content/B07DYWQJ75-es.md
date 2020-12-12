@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Fast Trek II Full Zip Fleece Ch al 43.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GZ505zmaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GZ505zmaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GZ505zmaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Bandai Figura Articulada  Anime  Marvel  al 54.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418NtnBjTJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418NtnBjTJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418NtnBjTJL._SL200_.jpg' ]
 comments: true
 category: ofertas

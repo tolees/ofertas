@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.60 % en Joma Campus II Camiseta de Juego Manga C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31enyrnEaxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31enyrnEaxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31enyrnEaxL._SL200_.jpg' ]
 comments: true
 category: ofertas

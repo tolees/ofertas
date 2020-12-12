@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.31 % en Trucco - camiseta para mujer  color blan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K1jXt94dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K1jXt94dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K1jXt94dL._SL200_.jpg' ]
 comments: true
 category: ofertas

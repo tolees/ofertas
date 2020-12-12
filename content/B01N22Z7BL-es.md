@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.67 % en Urban Classics Light Bomber Jacket  Chaq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AtcQlWveL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AtcQlWveL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AtcQlWveL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.53 % en adidas DJ1422 Mochila  Unisex Adulto  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AzbKwVacL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AzbKwVacL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AzbKwVacL._SL200_.jpg' ]
 comments: true
 category: ofertas

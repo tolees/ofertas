@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.68 % en Trigema 574096-Pantalones Mujer Blau  Bl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Tej9JvkbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Tej9JvkbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Tej9JvkbL._SL200_.jpg' ]
 comments: true
 category: ofertas

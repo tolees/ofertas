@@ -3,6 +3,7 @@ layout: post
 title: 'TOTU Paraguas Paraguas de Viaje Plegable al 28.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PcQdZNEjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PcQdZNEjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PcQdZNEjL._SL200_.jpg' ]
 comments: true
 category: ofertas

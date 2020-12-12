@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.25 % en Samyang F1120406101 - Objetivo fotográfi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mSrb%2BjBRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mSrb%2BjBRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mSrb%2BjBRL._SL200_.jpg' ]
 comments: true
 category: ofertas

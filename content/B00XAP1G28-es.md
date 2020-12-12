@@ -3,6 +3,7 @@ layout: post
 title: 'Haribo Discos Negros  2kg  al 38.40 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B00XAP1G28.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B00XAP1G28.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B00XAP1G28.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

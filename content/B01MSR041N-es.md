@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.70 % en HP 24ea – Monitor para PC Desktop  de 24'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tYrgWz7aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tYrgWz7aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tYrgWz7aL._SL200_.jpg' ]
 comments: true
 category: ofertas

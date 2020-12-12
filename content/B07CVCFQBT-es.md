@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Surge Se 3021231-001  Zapat al 52.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OACJ6bc5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OACJ6bc5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OACJ6bc5L._SL200_.jpg' ]
 comments: true
 category: ofertas

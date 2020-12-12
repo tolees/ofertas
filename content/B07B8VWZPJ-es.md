@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.21 % en Clarks Korik Rise GTX  Botas Chelsea par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414%2BIKk1hLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414%2BIKk1hLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414%2BIKk1hLL._SL200_.jpg' ]
 comments: true
 category: ofertas

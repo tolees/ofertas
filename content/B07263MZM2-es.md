@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Stan Smith CF I  Zapatillas Unise al 34.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fu18P2dwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fu18P2dwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fu18P2dwL._SL200_.jpg' ]
 comments: true
 category: ofertas

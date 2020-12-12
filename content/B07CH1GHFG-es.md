@@ -3,6 +3,7 @@ layout: post
 title: 'Xiaomi Bedside 10W Oro  Plata lámpara de al 31.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21FM2F-77nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21FM2F-77nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21FM2F-77nL._SL200_.jpg' ]
 comments: true
 category: ofertas

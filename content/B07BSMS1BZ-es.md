@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Joi  Vaqueros Skinny Mujer  Gris  al 77.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZPyoHASHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZPyoHASHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZPyoHASHL._SL200_.jpg' ]
 comments: true
 category: ofertas

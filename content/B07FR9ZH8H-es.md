@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.82 % en Clarks Dalia Rose  Zapatos de Tacón para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y7w-cUlGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y7w-cUlGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y7w-cUlGL._SL200_.jpg' ]
 comments: true
 category: ofertas

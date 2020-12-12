@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Mary Short Bañador  Azul  Des al 42.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-1aB-QJUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-1aB-QJUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-1aB-QJUL._SL200_.jpg' ]
 comments: true
 category: ofertas

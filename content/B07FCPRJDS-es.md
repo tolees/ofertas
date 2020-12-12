@@ -3,6 +3,7 @@ layout: post
 title: 'Colhogar Papel Higiénico Just 1 5 capas  al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zDj4t6gZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zDj4t6gZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zDj4t6gZL._SL200_.jpg' ]
 comments: true
 category: ofertas

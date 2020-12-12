@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.08 % en Bollé Inuk Máscaras  Unisex niños  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qDW-c3xYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qDW-c3xYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qDW-c3xYL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'LOBKIN Luces LED Kit de Espejo con 10 Bo al 76.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YEHiGqD0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YEHiGqD0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YEHiGqD0L._SL200_.jpg' ]
 comments: true
 category: ofertas

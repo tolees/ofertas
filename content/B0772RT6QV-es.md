@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Reloj Análogo clásico para Hombr al 41.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GYDff%2BQyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GYDff%2BQyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GYDff%2BQyL._SL200_.jpg' ]
 comments: true
 category: ofertas

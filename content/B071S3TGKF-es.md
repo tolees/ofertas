@@ -3,6 +3,7 @@ layout: post
 title: 'Puma One 17.4 SG  Zapatillas de Fútbol p al 60.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tnEBzSeRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tnEBzSeRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tnEBzSeRL._SL200_.jpg' ]
 comments: true
 category: ofertas

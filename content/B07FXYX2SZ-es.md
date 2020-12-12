@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.96 % en Champion The Curvy Sujetador Deportivo  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kj17612mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kj17612mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kj17612mL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf ECRI  Vestido para Mujer  Schwar al 78.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z6oer%2BU-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31z6oer%2BU-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z6oer%2BU-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pedro del Hierro Sandalias de tacón Rosa al 62.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-kgGKIfFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-kgGKIfFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-kgGKIfFL._SL200_.jpg' ]
 comments: true
 category: ofertas

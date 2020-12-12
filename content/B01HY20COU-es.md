@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.89 % en ESPRIT Kajal LU Bootie  Botas Chukka par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41611fIxBkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41611fIxBkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41611fIxBkL._SL200_.jpg' ]
 comments: true
 category: ofertas

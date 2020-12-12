@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans New Brooke Vaqueros  Azul  De al 82.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412eZ7J4fmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412eZ7J4fmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412eZ7J4fmL._SL200_.jpg' ]
 comments: true
 category: ofertas

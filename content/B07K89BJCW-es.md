@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.06 % en USB C Jack USB Tipo C Jack 3.5 mm Audio '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418kwHk1K7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418kwHk1K7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418kwHk1K7L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Buffalo London 9681-525 Nappa 98586 - Za al 73.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nzRxIJPHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nzRxIJPHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nzRxIJPHL._SL200_.jpg' ]
 comments: true
 category: ofertas

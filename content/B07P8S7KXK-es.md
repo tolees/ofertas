@@ -3,6 +3,7 @@ layout: post
 title: 'Splash About Go Chaleco de Natación  niñ al 36.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51amJXkOaFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51amJXkOaFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51amJXkOaFL._SL200_.jpg' ]
 comments: true
 category: ofertas

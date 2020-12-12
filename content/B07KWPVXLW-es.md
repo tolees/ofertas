@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Tokyo Hoodie  Hombre  Graph al 54.60 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

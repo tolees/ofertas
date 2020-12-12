@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein - Ck Mono Cardholder  Tarje al 54.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61G0VDsdqpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61G0VDsdqpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61G0VDsdqpL._SL200_.jpg' ]
 comments: true
 category: ofertas

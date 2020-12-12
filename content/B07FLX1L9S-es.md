@@ -3,6 +3,7 @@ layout: post
 title: 'Bata 7996322  Zapatos de tacón con Punta al 72.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z%2BRuGBJiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31z%2BRuGBJiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z%2BRuGBJiL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Fujifilm Instax Mini 9 - Kit Completo  C al 40.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mY50Z5XvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mY50Z5XvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mY50Z5XvL._SL200_.jpg' ]
 comments: true
 category: ofertas

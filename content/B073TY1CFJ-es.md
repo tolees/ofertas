@@ -3,6 +3,7 @@ layout: post
 title: 'Swarovski Reloj Crystalline Oval  dorado al 38.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B7yOWgLqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B7yOWgLqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B7yOWgLqL._SL200_.jpg' ]
 comments: true
 category: ofertas

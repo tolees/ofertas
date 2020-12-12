@@ -3,6 +3,7 @@ layout: post
 title: 'David Jones - Cm5034  Bolsos totes Mujer al 60.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WzFdlxJFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WzFdlxJFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WzFdlxJFL._SL200_.jpg' ]
 comments: true
 category: ofertas

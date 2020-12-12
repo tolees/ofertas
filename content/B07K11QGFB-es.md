@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.17 % en adidas I-5923 W  Zapatillas de Gimnasia '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TEcMHXGAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TEcMHXGAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TEcMHXGAL._SL200_.jpg' ]
 comments: true
 category: ofertas

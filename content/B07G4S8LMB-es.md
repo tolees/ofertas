@@ -3,6 +3,7 @@ layout: post
 title: 'Only & Sons Onsal PU Noos Otw  Chaqueta  al 27.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410wiloMAGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410wiloMAGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410wiloMAGL._SL200_.jpg' ]
 comments: true
 category: ofertas

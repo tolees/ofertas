@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.79 % en Salomon XA Pro 3D CSWP J  Calzado de Tra'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51L-AOdej2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51L-AOdej2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51L-AOdej2L._SL200_.jpg' ]
 comments: true
 category: ofertas

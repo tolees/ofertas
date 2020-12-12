@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Lula Pantalones  Azul  Dulwic al 49.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hWP2Ygm8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hWP2Ygm8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hWP2Ygm8L._SL200_.jpg' ]
 comments: true
 category: ofertas

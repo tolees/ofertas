@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjelogo Sweat Crew Neck Two al 50.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410sRqvPVIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410sRqvPVIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410sRqvPVIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Targus AMU76EU - Ratón óptico retráctil  al 44.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Wa-0iOCTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Wa-0iOCTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Wa-0iOCTL._SL200_.jpg' ]
 comments: true
 category: ofertas

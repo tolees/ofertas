@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Della Fall Mid Jacket Chaqueta  al 55.29 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

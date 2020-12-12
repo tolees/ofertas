@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.78 % en Puma Enzo Nf Mid  Zapatillas de Cross pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CPddSJGkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CPddSJGkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CPddSJGkL._SL200_.jpg' ]
 comments: true
 category: ofertas

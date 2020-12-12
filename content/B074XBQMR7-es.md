@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.02 % en Tommee Tippee Sangenic Tec - Contenedor '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s%2BG7nER9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s%2BG7nER9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s%2BG7nER9L._SL200_.jpg' ]
 comments: true
 category: ofertas

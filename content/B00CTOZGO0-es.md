@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.41 % en Deyard electrónica dinamómetro la Fuerza'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zw%2BOJE7ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zw%2BOJE7ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zw%2BOJE7ML._SL200_.jpg' ]
 comments: true
 category: ofertas

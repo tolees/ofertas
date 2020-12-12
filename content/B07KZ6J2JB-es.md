@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.47 % en Cortefiel C7Ck Popelin Peach Vichy Camis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s3XWtumHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51s3XWtumHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s3XWtumHL._SL200_.jpg' ]
 comments: true
 category: ofertas

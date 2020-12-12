@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.20 % en Atril Plegable de Altura Portátil Pequeñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417qtDoxENL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417qtDoxENL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417qtDoxENL._SL200_.jpg' ]
 comments: true
 category: ofertas

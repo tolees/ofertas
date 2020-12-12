@@ -3,6 +3,7 @@ layout: post
 title: 'LANGRIA Colchoncillo Topper 5 cm de Gros al 35.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hbtfB%2BCoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hbtfB%2BCoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hbtfB%2BCoL._SL200_.jpg' ]
 comments: true
 category: ofertas

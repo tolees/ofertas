@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.06 % en adidas Counterblast Bounce  Zapatillas d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FNWVgehwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FNWVgehwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FNWVgehwL._SL200_.jpg' ]
 comments: true
 category: ofertas

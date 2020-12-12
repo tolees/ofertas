@@ -3,6 +3,7 @@ layout: post
 title: 'Advanced ShareMe Tech Auriculares  Mixcd al 39.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kWxttvaCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kWxttvaCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kWxttvaCL._SL200_.jpg' ]
 comments: true
 category: ofertas

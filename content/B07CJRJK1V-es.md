@@ -3,6 +3,7 @@ layout: post
 title: 'LG 32LK6100PLB - Smart TV de 32"  LED  F al 38.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21HoHi8igZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21HoHi8igZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21HoHi8igZL._SL200_.jpg' ]
 comments: true
 category: ofertas

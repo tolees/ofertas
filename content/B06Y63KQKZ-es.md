@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.78 % en REPLAY Grover Hyperflex  Jeans Rectos pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o0BrGsqwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o0BrGsqwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o0BrGsqwL._SL200_.jpg' ]
 comments: true
 category: ofertas

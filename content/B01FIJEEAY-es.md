@@ -3,6 +3,7 @@ layout: post
 title: 'BigBen TW10 - Equipo de Home Cinema  120 al 53.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3123cN%2Bdd3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3123cN%2Bdd3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3123cN%2Bdd3L._SL200_.jpg' ]
 comments: true
 category: ofertas

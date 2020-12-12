@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj ESPRIT para Mujer ES109232001 al 53.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S87aV3pNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51S87aV3pNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S87aV3pNL._SL200_.jpg' ]
 comments: true
 category: ofertas

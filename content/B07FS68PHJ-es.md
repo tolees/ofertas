@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.95 % en SELECTED HOMME Slharo SS Embroidery Polo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QhL1TXZgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QhL1TXZgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QhL1TXZgL._SL200_.jpg' ]
 comments: true
 category: ofertas

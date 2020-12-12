@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.87 % en SKYEE [3 Unidades Adaptador USB C a USB '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sGh8%2BadCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sGh8%2BadCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sGh8%2BadCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.72 % en Cámara IP WiFi 1080P Cámara de Vigilanci'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511Vu9M2MQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511Vu9M2MQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511Vu9M2MQL._SL200_.jpg' ]
 comments: true
 category: ofertas

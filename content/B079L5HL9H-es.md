@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.15 % en 1home Supporto da Parete Inclinabile e G'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512HojEnYtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512HojEnYtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512HojEnYtL._SL200_.jpg' ]
 comments: true
 category: ofertas

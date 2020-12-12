@@ -3,6 +3,7 @@ layout: post
 title: 'APC Surge Arrest Performance - PL8VT3-DE al 50.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AjlZnH1UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AjlZnH1UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AjlZnH1UL._SL200_.jpg' ]
 comments: true
 category: ofertas

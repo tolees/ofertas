@@ -3,6 +3,7 @@ layout: post
 title: 'Maquina de afeitar electrica para hombre al 67.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aIh6WDWkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aIh6WDWkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aIh6WDWkL._SL200_.jpg' ]
 comments: true
 category: ofertas

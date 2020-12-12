@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.50 % en BOSS Hugo Kingfish 10194145 01  Bañador '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fkPKKJaFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fkPKKJaFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fkPKKJaFL._SL200_.jpg' ]
 comments: true
 category: ofertas

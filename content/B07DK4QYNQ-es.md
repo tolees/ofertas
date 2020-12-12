@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Jr Wader  Sandalias Punta Cerrada p al 33.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UvmpivMzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UvmpivMzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UvmpivMzL._SL200_.jpg' ]
 comments: true
 category: ofertas

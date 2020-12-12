@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.88 % en Atlético de Madrid- Futbolín  Proyectum '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P06DCvMQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51P06DCvMQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P06DCvMQL._SL200_.jpg' ]
 comments: true
 category: ofertas

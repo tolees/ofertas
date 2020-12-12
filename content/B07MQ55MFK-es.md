@@ -3,6 +3,7 @@ layout: post
 title: 'Kingmate - Vajilla de fibra de bambú  di al 56.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41odoZEf-RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41odoZEf-RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41odoZEf-RL._SL200_.jpg' ]
 comments: true
 category: ofertas

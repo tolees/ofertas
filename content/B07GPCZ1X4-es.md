@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.51 % en Mymahdi Reproductor de MP3  Bluetooth si'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nwFmjLKgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nwFmjLKgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nwFmjLKgL._SL200_.jpg' ]
 comments: true
 category: ofertas

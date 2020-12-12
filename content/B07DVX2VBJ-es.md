@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.71 % en Hummel Hmlmyleneshirt Sudadera  Unisex n'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DyacrcapL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DyacrcapL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DyacrcapL._SL200_.jpg' ]
 comments: true
 category: ofertas

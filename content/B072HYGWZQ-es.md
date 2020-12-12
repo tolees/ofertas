@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.05 % en Salomon RX Slide 3.0 Unisex  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417nt-QbSmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417nt-QbSmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417nt-QbSmL._SL200_.jpg' ]
 comments: true
 category: ofertas

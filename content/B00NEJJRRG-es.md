@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.13 % en Rangement & Cie RAN7130-Percha para Cint'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W3u2zYTlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W3u2zYTlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W3u2zYTlL._SL200_.jpg' ]
 comments: true
 category: ofertas

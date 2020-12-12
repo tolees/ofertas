@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Mega NRGY Turbo  Zapatillas De Depo al 66.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51A%2BLkuIplL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51A%2BLkuIplL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51A%2BLkuIplL._SL200_.jpg' ]
 comments: true
 category: ofertas

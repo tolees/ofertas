@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.47 % en SISMIURRA Collar Mujer Plata de Ley 925 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415WKneeeaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415WKneeeaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415WKneeeaL._SL200_.jpg' ]
 comments: true
 category: ofertas

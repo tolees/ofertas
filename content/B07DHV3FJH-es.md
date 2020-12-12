@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy Here You Are Mix Mochila Mediana  M al 32.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r6L1j-HmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r6L1j-HmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r6L1j-HmL._SL200_.jpg' ]
 comments: true
 category: ofertas

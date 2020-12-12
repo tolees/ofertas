@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en Viñas Del Vero Gewurztraminer Colección '
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B0156UCWIG.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B0156UCWIG.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B0156UCWIG.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

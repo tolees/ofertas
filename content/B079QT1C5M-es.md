@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley Paradise Volley 17" Bermudas  Hom al 59.47 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

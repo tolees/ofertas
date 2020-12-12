@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.29 % en Inalámbrico On-Ear Auriculares Bluetooth'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-L9fwNjOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-L9fwNjOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-L9fwNjOL._SL200_.jpg' ]
 comments: true
 category: ofertas

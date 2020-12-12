@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Katy - Camiseta para Mujer  Color A al 53.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g7kFgSWiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g7kFgSWiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g7kFgSWiL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Rexona Desodorante Antitranspirante Invi al 26.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XL3Tcg-cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XL3Tcg-cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XL3Tcg-cL._SL200_.jpg' ]
 comments: true
 category: ofertas

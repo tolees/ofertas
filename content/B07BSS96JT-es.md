@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Brigade Casco de esquí y Snowboa al 44.84 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

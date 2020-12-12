@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Woven Graphic Wordmark Shor al 60.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e7IX%2Bu4%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e7IX%2Bu4%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e7IX%2Bu4%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

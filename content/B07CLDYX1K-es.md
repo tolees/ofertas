@@ -3,6 +3,7 @@ layout: post
 title: 'Lunnis de Leyenda- Lupita Peluche con Vo al 66.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410-wYH2YoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410-wYH2YoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410-wYH2YoL._SL200_.jpg' ]
 comments: true
 category: ofertas

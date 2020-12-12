@@ -3,6 +3,7 @@ layout: post
 title: 'Ralph Lauren RALPH BY 0Ra5226 Gafas de s al 60.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KDDxFh6ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KDDxFh6ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KDDxFh6ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

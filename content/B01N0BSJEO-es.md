@@ -3,6 +3,7 @@ layout: post
 title: 'SYROKAN - Sujetador Deportivo Malla Crem al 44.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413P7WX7q4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413P7WX7q4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413P7WX7q4L._SL200_.jpg' ]
 comments: true
 category: ofertas

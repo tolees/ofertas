@@ -3,6 +3,7 @@ layout: post
 title: 'Tom Tailor 5872306  Botas Slouch para Ni al 75.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PGxprUBrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PGxprUBrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PGxprUBrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Asics C740N4358  Zapatillas de Running U al 66.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v0G2oSOlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51v0G2oSOlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v0G2oSOlL._SL200_.jpg' ]
 comments: true
 category: ofertas

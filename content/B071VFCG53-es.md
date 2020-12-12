@@ -3,6 +3,7 @@ layout: post
 title: 'Cars- Juego Carrera Loca  37.1 x 27.2 x  al 55.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/615lT0rH13L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/615lT0rH13L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/615lT0rH13L._SL200_.jpg' ]
 comments: true
 category: ofertas

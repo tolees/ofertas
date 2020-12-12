@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Sabanalia - Juego de sábanas estampadas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51A%2BgDRxC1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51A%2BgDRxC1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51A%2BgDRxC1L._SL200_.jpg' ]
 comments: true
 category: ofertas

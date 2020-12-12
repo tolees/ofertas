@@ -3,6 +3,7 @@ layout: post
 title: 'Fjällräven 23510 2018 Mochila tipo casua al 29.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jafUNrYpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jafUNrYpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jafUNrYpL._SL200_.jpg' ]
 comments: true
 category: ofertas

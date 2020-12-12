@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.62 % en IJP Design - Ian Poulter - Pantalón Tech'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B3PtqXG7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B3PtqXG7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B3PtqXG7L._SL200_.jpg' ]
 comments: true
 category: ofertas

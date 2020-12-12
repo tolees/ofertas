@@ -3,6 +3,7 @@ layout: post
 title: 'meross Interruptor táctil de Pared Wi-Fi al 47.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mMY4HWZ6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mMY4HWZ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mMY4HWZ6L._SL200_.jpg' ]
 comments: true
 category: ofertas

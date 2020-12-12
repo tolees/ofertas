@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Pod-S3.1 W  Zapatillas de Gimnasi al 67.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417ks1JMqoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417ks1JMqoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417ks1JMqoL._SL200_.jpg' ]
 comments: true
 category: ofertas

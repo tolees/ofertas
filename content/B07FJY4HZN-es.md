@@ -3,6 +3,7 @@ layout: post
 title: 'ONLY Onlstarlight Long Fur Parka Cc Otw  al 78.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417C5dfTinL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417C5dfTinL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417C5dfTinL._SL200_.jpg' ]
 comments: true
 category: ofertas

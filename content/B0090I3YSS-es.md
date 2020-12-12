@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.12 % en Diplomatico Rum Reserva Excl 70cl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Fo%2BSbrxLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fo%2BSbrxLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Fo%2BSbrxLL._SL200_.jpg' ]
 comments: true
 category: ofertas

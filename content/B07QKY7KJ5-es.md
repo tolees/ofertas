@@ -3,6 +3,7 @@ layout: post
 title: 'Báscula de Cocina Digital  UPOPA HERO Es al 28.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZlL2pVsCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZlL2pVsCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZlL2pVsCL._SL200_.jpg' ]
 comments: true
 category: ofertas

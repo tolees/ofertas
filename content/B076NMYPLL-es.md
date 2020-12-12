@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett Vaqueros Skinny  Azul  Stru al 73.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CiIJgNhiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CiIJgNhiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CiIJgNhiL._SL200_.jpg' ]
 comments: true
 category: ofertas

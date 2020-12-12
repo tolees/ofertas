@@ -3,6 +3,7 @@ layout: post
 title: 'Ultrasport Advanced Chaqueta de plumas d al 28.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W2oaaaWJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W2oaaaWJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W2oaaaWJL._SL200_.jpg' ]
 comments: true
 category: ofertas

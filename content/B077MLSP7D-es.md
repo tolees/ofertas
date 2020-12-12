@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.13 % en ESPRIT Sports 018ei1j009 - Cardigan Logo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xN30hxi-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xN30hxi-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xN30hxi-L._SL200_.jpg' ]
 comments: true
 category: ofertas

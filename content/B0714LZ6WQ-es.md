@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.41 % en Nano Cable 10.15.3603 - Cable de Alta Ve'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ucVa8jobL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ucVa8jobL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ucVa8jobL._SL200_.jpg' ]
 comments: true
 category: ofertas

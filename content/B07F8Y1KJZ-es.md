@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES PREMIUM Jprmorten Wool Coat al 42.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-w2chF8WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-w2chF8WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-w2chF8WL._SL200_.jpg' ]
 comments: true
 category: ofertas

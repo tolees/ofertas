@@ -3,6 +3,7 @@ layout: post
 title: 'Kinetic Sand - Playset  Castillo  Bizak  al 26.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JoW4%2B3hdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JoW4%2B3hdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JoW4%2B3hdL._SL200_.jpg' ]
 comments: true
 category: ofertas

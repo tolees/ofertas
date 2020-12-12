@@ -3,6 +3,7 @@ layout: post
 title: 'Dim Slip Generous Limited Edition Bragui al 38.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B0c94%2BnFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B0c94%2BnFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B0c94%2BnFL._SL200_.jpg' ]
 comments: true
 category: ofertas

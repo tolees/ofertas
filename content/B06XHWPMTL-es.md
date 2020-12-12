@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.67 % en AMIBOT Spirit H2O - Robot aspirador y li'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dh8-9PffL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dh8-9PffL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dh8-9PffL._SL200_.jpg' ]
 comments: true
 category: ofertas

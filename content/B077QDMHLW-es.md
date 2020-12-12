@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance W420V4  Zapatillas de Runnin al 64.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DBB9IgPZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DBB9IgPZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DBB9IgPZL._SL200_.jpg' ]
 comments: true
 category: ofertas

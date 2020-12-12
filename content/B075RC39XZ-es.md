@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.99 % en Carrera 149/S W6 J5G 65  Gafas de Sol Un'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31k4WWV1C9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31k4WWV1C9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31k4WWV1C9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Zulia Mono  Rojo  Francois Re al 48.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NqxgqK1%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NqxgqK1%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NqxgqK1%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

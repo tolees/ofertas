@@ -3,6 +3,7 @@ layout: post
 title: 'Morgan 191-dmust.n Camiseta  Negro Noir  al 39.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310i9HKaixL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310i9HKaixL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310i9HKaixL._SL200_.jpg' ]
 comments: true
 category: ofertas

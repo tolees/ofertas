@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.95 % en Rieker 15253  Mocasines para Hombre  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f5FmpwiRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f5FmpwiRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f5FmpwiRL._SL200_.jpg' ]
 comments: true
 category: ofertas

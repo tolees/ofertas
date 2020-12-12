@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Vintage Logo Camo Infill tee Ca al 47.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OiVAlfYiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OiVAlfYiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OiVAlfYiL._SL200_.jpg' ]
 comments: true
 category: ofertas

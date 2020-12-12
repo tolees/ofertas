@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Tri Fern GTX  Botas de Nieve para al 69.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bzsajxIHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bzsajxIHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bzsajxIHL._SL200_.jpg' ]
 comments: true
 category: ofertas

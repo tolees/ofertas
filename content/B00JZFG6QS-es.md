@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.64 % en TP-LINK Archer C5 - Router AC1200 Mbps B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4109v7b2aeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4109v7b2aeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4109v7b2aeL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Aurelie Pantalones    Blue 55 al 79.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tNas1Q43L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tNas1Q43L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tNas1Q43L._SL200_.jpg' ]
 comments: true
 category: ofertas

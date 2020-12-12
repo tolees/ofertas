@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Military Flex  Gorra Hombre  Mar al 47.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5136s8l02oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5136s8l02oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5136s8l02oL._SL200_.jpg' ]
 comments: true
 category: ofertas

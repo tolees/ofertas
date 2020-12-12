@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.77 % en Women’secret Sujetador con Push-up para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ee4pXLL3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ee4pXLL3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ee4pXLL3L._SL200_.jpg' ]
 comments: true
 category: ofertas

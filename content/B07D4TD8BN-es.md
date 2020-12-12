@@ -3,6 +3,7 @@ layout: post
 title: 'Only & Sons Onskirk LS Dip Dyed Check Sh al 70.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4176XqFfxyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4176XqFfxyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4176XqFfxyL._SL200_.jpg' ]
 comments: true
 category: ofertas

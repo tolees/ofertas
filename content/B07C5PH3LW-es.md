@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.62 % en El Naturalista Soft Grain  Botines para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y7OJBSXsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y7OJBSXsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y7OJBSXsL._SL200_.jpg' ]
 comments: true
 category: ofertas

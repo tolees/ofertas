@@ -3,6 +3,7 @@ layout: post
 title: 'CNASA for iRobot Roomba de la Serie 800  al 58.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fgmYghUXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fgmYghUXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fgmYghUXL._SL200_.jpg' ]
 comments: true
 category: ofertas

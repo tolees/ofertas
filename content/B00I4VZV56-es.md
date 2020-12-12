@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.49 % en ROCKS-OFF 10RO120PP - Vibrador  color do'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q3VUNMYQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q3VUNMYQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q3VUNMYQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.18 % en Quiksilver Sierra Snow Jacket  Hombre  L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ynjYM3zbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ynjYM3zbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ynjYM3zbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Sword Art Online II - Temporada 2. Parte al 48.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61X5gKdITGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61X5gKdITGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61X5gKdITGL._SL200_.jpg' ]
 comments: true
 category: ofertas

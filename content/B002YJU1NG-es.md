@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.43 % en Trixie Lámpara Calefactante Infrarrojo  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5108EbiEwoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5108EbiEwoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5108EbiEwoL._SL200_.jpg' ]
 comments: true
 category: ofertas

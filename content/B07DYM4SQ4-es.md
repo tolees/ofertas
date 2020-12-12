@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.19 % en LOSMILE Mujer Bolsos mochila Bolsos de m'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cF9Pez5UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cF9Pez5UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cF9Pez5UL._SL200_.jpg' ]
 comments: true
 category: ofertas

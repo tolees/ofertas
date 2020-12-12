@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 2.Gym.Vestido Jaquard SPO Ve al 51.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D%2BTu5Xe%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31D%2BTu5Xe%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D%2BTu5Xe%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

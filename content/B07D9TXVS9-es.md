@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Suede Heart Street 2 Wn s  Zapatill al 79.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dLvhM%2BfhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dLvhM%2BfhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dLvhM%2BfhL._SL200_.jpg' ]
 comments: true
 category: ofertas

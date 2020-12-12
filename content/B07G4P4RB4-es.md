@@ -3,6 +3,7 @@ layout: post
 title: 'Michael Kors Reloj Analógico para Hombre al 55.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419j8bOzRmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419j8bOzRmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419j8bOzRmL._SL200_.jpg' ]
 comments: true
 category: ofertas

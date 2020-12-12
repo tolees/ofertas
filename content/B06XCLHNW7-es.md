@@ -3,6 +3,7 @@ layout: post
 title: 'Funko - Dave Tourist figura de vinilo  c al 38.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cM0MwjNIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cM0MwjNIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cM0MwjNIL._SL200_.jpg' ]
 comments: true
 category: ofertas

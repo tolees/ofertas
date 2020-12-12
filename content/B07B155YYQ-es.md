@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.08 % en Skechers Flex Appeal 3.0  Zapatillas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yUBG5r5hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yUBG5r5hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yUBG5r5hL._SL200_.jpg' ]
 comments: true
 category: ofertas

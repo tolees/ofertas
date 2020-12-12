@@ -3,6 +3,7 @@ layout: post
 title: 'Kärcher Programador de riego WT 4  2.645 al 40.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lDy5xm0AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lDy5xm0AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lDy5xm0AL._SL200_.jpg' ]
 comments: true
 category: ofertas

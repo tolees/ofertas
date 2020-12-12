@@ -3,6 +3,7 @@ layout: post
 title: 'Linterna LED Recargable Morpilot  1000 L al 65.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pFRv-h7%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pFRv-h7%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pFRv-h7%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.88 % en Eono Essentials - Chaqueta de senderismo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xh%2B%2ByK0sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xh%2B%2ByK0sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xh%2B%2ByK0sL._SL200_.jpg' ]
 comments: true
 category: ofertas

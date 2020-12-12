@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Hilstone Wide NP ABX C  Botas Cla al 45.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pa3OMwSRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pa3OMwSRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pa3OMwSRL._SL200_.jpg' ]
 comments: true
 category: ofertas

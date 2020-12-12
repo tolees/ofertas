@@ -3,6 +3,7 @@ layout: post
 title: 'American Tourister Bon Air Equipaje de m al 28.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RZcAVZWcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RZcAVZWcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RZcAVZWcL._SL200_.jpg' ]
 comments: true
 category: ofertas

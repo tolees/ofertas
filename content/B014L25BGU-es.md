@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.74 % en Lixada Lámparas Apliques de Pared Luces '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419t3ethPvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419t3ethPvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419t3ethPvL._SL200_.jpg' ]
 comments: true
 category: ofertas

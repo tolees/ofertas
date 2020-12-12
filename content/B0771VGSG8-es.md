@@ -3,6 +3,7 @@ layout: post
 title: 'Art 1300 Memphis Black/I Explore  Sandal al 33.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QJO89HHTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QJO89HHTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QJO89HHTL._SL200_.jpg' ]
 comments: true
 category: ofertas

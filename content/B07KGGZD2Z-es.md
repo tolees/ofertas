@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.98 % en BOSS J21 Vaqueros Slim Fit para Mujer  T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dZLY4pZ4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dZLY4pZ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dZLY4pZ4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.89 % en ibowin® 10.1 Pulgadas 2G RAM 32G ROM 3G '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aEtdvW%2BmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aEtdvW%2BmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aEtdvW%2BmL._SL200_.jpg' ]
 comments: true
 category: ofertas

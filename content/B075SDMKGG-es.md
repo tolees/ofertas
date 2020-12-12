@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.43 % en Springfield 1402773 Jersey  Gris  Grey  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VjI547BPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VjI547BPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VjI547BPL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Square Star Sweat Fleece Top  H al 55.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R9OG9FmwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R9OG9FmwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R9OG9FmwL._SL200_.jpg' ]
 comments: true
 category: ofertas

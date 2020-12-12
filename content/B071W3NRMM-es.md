@@ -3,6 +3,7 @@ layout: post
 title: 'Dei Mille Sissy  Botas para Mujer  Azul  al 89.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514TNopPmlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514TNopPmlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514TNopPmlL._SL200_.jpg' ]
 comments: true
 category: ofertas

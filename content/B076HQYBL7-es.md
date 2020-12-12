@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Core18 TR Sudadera  Hombre  Rojo/ al 57.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZduBwrWnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZduBwrWnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZduBwrWnL._SL200_.jpg' ]
 comments: true
 category: ofertas

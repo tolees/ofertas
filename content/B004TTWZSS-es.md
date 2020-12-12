@@ -3,6 +3,7 @@ layout: post
 title: 'Ratón óptico de Silueta de Manhattan 177 al 42.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CGyoAYwwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CGyoAYwwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CGyoAYwwL._SL200_.jpg' ]
 comments: true
 category: ofertas

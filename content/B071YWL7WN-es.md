@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.63 % en Under Armour UA BGS Lightning 2  Zapatil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ePWjpouL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-ePWjpouL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ePWjpouL._SL200_.jpg' ]
 comments: true
 category: ofertas

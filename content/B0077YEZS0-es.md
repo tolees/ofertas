@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Silver Ridge Pant Pantalón de S al 48.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BiTl-UavL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BiTl-UavL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BiTl-UavL._SL200_.jpg' ]
 comments: true
 category: ofertas

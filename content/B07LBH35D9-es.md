@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.46 % en Love Moschino Scarpad. Gomma30 Nappa PU '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4130IHCxlML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4130IHCxlML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4130IHCxlML._SL200_.jpg' ]
 comments: true
 category: ofertas

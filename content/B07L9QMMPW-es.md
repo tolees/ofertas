@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri K Rainforest Sum 1 Freesia Yel al 58.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419yan-PFfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419yan-PFfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419yan-PFfL._SL200_.jpg' ]
 comments: true
 category: ofertas

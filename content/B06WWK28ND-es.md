@@ -3,6 +3,7 @@ layout: post
 title: 'Emsa Clip&Go Snack - Recipiente hermétic al 44.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iJkptNSzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iJkptNSzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iJkptNSzL._SL200_.jpg' ]
 comments: true
 category: ofertas

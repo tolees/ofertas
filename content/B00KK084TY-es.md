@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.89 % en James & Nicholson Mens Running Tights Pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eDooZ2%2BOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eDooZ2%2BOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eDooZ2%2BOL._SL200_.jpg' ]
 comments: true
 category: ofertas

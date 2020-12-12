@@ -3,6 +3,7 @@ layout: post
 title: 'Scitec Nutrition Monohidrato de Creatina al 41.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vZd4-VyDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vZd4-VyDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vZd4-VyDL._SL200_.jpg' ]
 comments: true
 category: ofertas

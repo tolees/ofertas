@@ -3,6 +3,7 @@ layout: post
 title: 'Rascador Gato Altura 112cm Arbol Poste p al 51.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LswBpS0uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LswBpS0uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LswBpS0uL._SL200_.jpg' ]
 comments: true
 category: ofertas

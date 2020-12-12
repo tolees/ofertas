@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.35 % en ARTESANIA CERDA Gorra Premium Mickey  Ni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ij%2BaEDfLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ij%2BaEDfLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ij%2BaEDfLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Button Down  Camisa para Hombre  Mar al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MNUOFjsGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MNUOFjsGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MNUOFjsGL._SL200_.jpg' ]
 comments: true
 category: ofertas

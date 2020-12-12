@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Pico 3.2 - Memoria USB de 32 GB al 64.55 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

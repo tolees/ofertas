@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.21 % en Under Armour Vanish Woven Short Pantalón'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GE%2B-6xh8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GE%2B-6xh8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GE%2B-6xh8L._SL200_.jpg' ]
 comments: true
 category: ofertas

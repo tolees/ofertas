@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.28 % en New Balance Gw500v1  Zapatillas de Depor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Fa%2BYiXGkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Fa%2BYiXGkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Fa%2BYiXGkL._SL200_.jpg' ]
 comments: true
 category: ofertas

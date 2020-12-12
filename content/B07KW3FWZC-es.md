@@ -3,6 +3,7 @@ layout: post
 title: 'Hoidokly USB C a HDMI Adaptador  4K@60Hz al 42.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-oPAwXJpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-oPAwXJpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-oPAwXJpL._SL200_.jpg' ]
 comments: true
 category: ofertas

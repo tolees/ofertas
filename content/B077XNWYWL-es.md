@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour - Camiseta de Tirantes para al 45.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gwq05RKKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gwq05RKKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gwq05RKKL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Sandalias Mujer Verano 2019 SHOBDW Rebaj al 50.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f8c4xJ7lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f8c4xJ7lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f8c4xJ7lL._SL200_.jpg' ]
 comments: true
 category: ofertas

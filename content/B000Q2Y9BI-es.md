@@ -3,6 +3,7 @@ layout: post
 title: 'Méthode Jeanne Piaubert Masaje tonifican al 31.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z4Yb9lctL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31z4Yb9lctL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z4Yb9lctL._SL200_.jpg' ]
 comments: true
 category: ofertas

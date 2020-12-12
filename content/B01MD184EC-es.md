@@ -3,6 +3,7 @@ layout: post
 title: 'Caso Centro Sous Vide Cocina al vacío  1 al 63.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JVOSF3E%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JVOSF3E%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JVOSF3E%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

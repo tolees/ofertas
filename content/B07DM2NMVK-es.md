@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.69 % en Professional Chef Platinum - Juego de 3 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51na53eM4BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51na53eM4BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51na53eM4BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.63 % en Birkenstock Gizeh  Zapatillas de estar p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pFg7OhqjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pFg7OhqjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pFg7OhqjL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.03 % en Aeg KM4000 Robot Amasador  Luz Led  Múlt'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Gik%2BFtyUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Gik%2BFtyUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Gik%2BFtyUL._SL200_.jpg' ]
 comments: true
 category: ofertas

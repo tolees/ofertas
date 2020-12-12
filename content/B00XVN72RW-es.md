@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en NGS Grid 500 - Regleta con 5 enchufes'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wPKbuEHHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wPKbuEHHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wPKbuEHHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.03 % en Gant O2. Herringbone Texture Halfzip sué'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z7moOgufL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z7moOgufL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z7moOgufL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pato - Wc Frescor  Producto para inodoro al 27.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512oVZp8SjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512oVZp8SjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512oVZp8SjL._SL200_.jpg' ]
 comments: true
 category: ofertas

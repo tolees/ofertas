@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.66 % en YPLANG Pantalla Táctil Reemplazo para iP'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RdIteTyYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RdIteTyYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RdIteTyYL._SL200_.jpg' ]
 comments: true
 category: ofertas

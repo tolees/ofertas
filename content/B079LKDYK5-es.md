@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.96 % en BILLABONG S.Searcher 1 Piece Traje de ba'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CnPA3SMmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CnPA3SMmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CnPA3SMmL._SL200_.jpg' ]
 comments: true
 category: ofertas

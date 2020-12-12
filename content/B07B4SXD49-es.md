@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.67 % en G-STAR RAW Bronson Pleated Relaxed Taper'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wu5lQ06EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wu5lQ06EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wu5lQ06EL._SL200_.jpg' ]
 comments: true
 category: ofertas

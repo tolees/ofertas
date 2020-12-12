@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Edward Monk  Mocasines para Hombr al 63.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ebQygXebL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ebQygXebL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ebQygXebL._SL200_.jpg' ]
 comments: true
 category: ofertas

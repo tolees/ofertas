@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Cn1794  Zapatillas de Running par al 50.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O9ESl1QAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O9ESl1QAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O9ESl1QAL._SL200_.jpg' ]
 comments: true
 category: ofertas

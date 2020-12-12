@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.01 % en IRIS & LILLY Sh191018 bañadores  Multico'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NgWz0eRQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NgWz0eRQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NgWz0eRQL._SL200_.jpg' ]
 comments: true
 category: ofertas

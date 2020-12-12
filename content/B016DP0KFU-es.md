@@ -3,6 +3,7 @@ layout: post
 title: 'Fendi Brillengestelle FF 0067 NER/21-47- al 36.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XtUP7vuZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XtUP7vuZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XtUP7vuZL._SL200_.jpg' ]
 comments: true
 category: ofertas

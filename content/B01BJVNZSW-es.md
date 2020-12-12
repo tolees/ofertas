@@ -3,6 +3,7 @@ layout: post
 title: 'Jako Chaqueta De Presentación de Striker al 73.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5106m%2Bh0ZJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5106m%2Bh0ZJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5106m%2Bh0ZJL._SL200_.jpg' ]
 comments: true
 category: ofertas

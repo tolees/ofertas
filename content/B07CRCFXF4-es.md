@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Cashed Jeans  Azul  Denim CK6 al 50.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TY2PNvOIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TY2PNvOIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TY2PNvOIL._SL200_.jpg' ]
 comments: true
 category: ofertas

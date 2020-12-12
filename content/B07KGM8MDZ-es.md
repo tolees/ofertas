@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.75 % en BOSS Twell Camiseta  Azul  Open Blue 491'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JkRGFXvgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JkRGFXvgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JkRGFXvgL._SL200_.jpg' ]
 comments: true
 category: ofertas

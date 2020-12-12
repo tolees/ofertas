@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Boyfit 5pockets Denim Trou al 47.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pvUUT6u6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pvUUT6u6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pvUUT6u6L._SL200_.jpg' ]
 comments: true
 category: ofertas

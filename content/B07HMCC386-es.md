@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.59 % en Mayoral 4818-56-2 Chaqueta Deportiva  Ni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mJbMxnTAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mJbMxnTAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mJbMxnTAL._SL200_.jpg' ]
 comments: true
 category: ofertas

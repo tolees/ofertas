@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.06 % en Urban Classic Ladies Short Spaghetti Jum'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eSo%2BcyfaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eSo%2BcyfaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eSo%2BcyfaL._SL200_.jpg' ]
 comments: true
 category: ofertas

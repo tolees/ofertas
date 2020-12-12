@@ -3,6 +3,7 @@ layout: post
 title: '- Vivid Purse Lh12f  Carteras Mujer  Azu al 61.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ypRGZ40vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ypRGZ40vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ypRGZ40vL._SL200_.jpg' ]
 comments: true
 category: ofertas

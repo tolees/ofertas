@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Ignite Flash Luxe Wn s  Zapatillas  al 64.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DHjt1vmSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DHjt1vmSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DHjt1vmSL._SL200_.jpg' ]
 comments: true
 category: ofertas

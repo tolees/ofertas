@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.56 % en Bosch 2 608 584 667 sierras de corona  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413S0oHe2oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413S0oHe2oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413S0oHe2oL._SL200_.jpg' ]
 comments: true
 category: ofertas

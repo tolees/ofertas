@@ -3,6 +3,7 @@ layout: post
 title: 'SESDERMA C-Vit Fluido Luminoso 50 ml al 25.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319Fy9VHRmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319Fy9VHRmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319Fy9VHRmL._SL200_.jpg' ]
 comments: true
 category: ofertas

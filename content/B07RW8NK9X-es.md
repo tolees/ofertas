@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en NOUDOO Tableta de Escritura LCD  21 Pulg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411Q6-boSnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411Q6-boSnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411Q6-boSnL._SL200_.jpg' ]
 comments: true
 category: ofertas

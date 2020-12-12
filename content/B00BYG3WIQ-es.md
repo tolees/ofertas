@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.98 % en Nike T-Lite XI  Zapatillas de Cross Trai'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zzd3YaNYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zzd3YaNYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zzd3YaNYL._SL200_.jpg' ]
 comments: true
 category: ofertas

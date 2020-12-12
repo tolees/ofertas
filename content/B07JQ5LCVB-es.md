@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.20 % en Levi s SS Original Hm tee Camiseta  Gris'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lVdud4POL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lVdud4POL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lVdud4POL._SL200_.jpg' ]
 comments: true
 category: ofertas

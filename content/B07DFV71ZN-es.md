@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.56 % en Mochila Bullpadel X-Compact Silver'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vc7c81MJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vc7c81MJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vc7c81MJL._SL200_.jpg' ]
 comments: true
 category: ofertas

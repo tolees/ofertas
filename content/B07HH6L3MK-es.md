@@ -3,6 +3,7 @@ layout: post
 title: 'Hilfiger Denim Funny Faux Fur Sneaker  Z al 44.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BSwIflRJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BSwIflRJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BSwIflRJL._SL200_.jpg' ]
 comments: true
 category: ofertas

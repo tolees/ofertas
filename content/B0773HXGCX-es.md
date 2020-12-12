@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Malibu S  Zapatillas para Mujer   al 40.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LukOr3FGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LukOr3FGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LukOr3FGL._SL200_.jpg' ]
 comments: true
 category: ofertas

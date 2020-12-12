@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.98 % en L Oréal Paris 47418  Polvo bronceador'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Se3IQN1FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Se3IQN1FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Se3IQN1FL._SL200_.jpg' ]
 comments: true
 category: ofertas

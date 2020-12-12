@@ -3,6 +3,7 @@ layout: post
 title: 'ElegantPark HP1560IAC Mujer Plataforma P al 31.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51E%2BPxikZsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51E%2BPxikZsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51E%2BPxikZsL._SL200_.jpg' ]
 comments: true
 category: ofertas

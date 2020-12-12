@@ -3,6 +3,7 @@ layout: post
 title: 'Libid Toys Vibrador  17 Cm  Resistente A al 62.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dl9Pq1nyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dl9Pq1nyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dl9Pq1nyL._SL200_.jpg' ]
 comments: true
 category: ofertas

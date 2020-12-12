@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Ason Neceser de viaje  22 cm  al 26.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ww%2BCn%2BK%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ww%2BCn%2BK%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ww%2BCn%2BK%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

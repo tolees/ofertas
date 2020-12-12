@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.84 % en Crocs Swiftwater Flip W  Zapatos de Play'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZAjmxR5wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZAjmxR5wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZAjmxR5wL._SL200_.jpg' ]
 comments: true
 category: ofertas

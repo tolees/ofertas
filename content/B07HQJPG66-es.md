@@ -3,6 +3,7 @@ layout: post
 title: 'RianGor 3 en 1 Lote Black Fasteners Teth al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gQPp3ruCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gQPp3ruCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gQPp3ruCL._SL200_.jpg' ]
 comments: true
 category: ofertas

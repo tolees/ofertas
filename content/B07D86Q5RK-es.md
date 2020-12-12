@@ -3,6 +3,7 @@ layout: post
 title: 'Gocco Jersey Ochos  Niños   Azul AC   2- al 75.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D8Rs3T6lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D8Rs3T6lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D8Rs3T6lL._SL200_.jpg' ]
 comments: true
 category: ofertas

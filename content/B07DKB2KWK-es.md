@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.84 % en Kipling - Earthbeat S  Bolsos bandolera '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XuM0lWYSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XuM0lWYSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XuM0lWYSL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas N-5923  Zapatillas de Gimnasia pa al 71.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SL498gAdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SL498gAdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SL498gAdL._SL200_.jpg' ]
 comments: true
 category: ofertas

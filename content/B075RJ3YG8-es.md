@@ -3,6 +3,7 @@ layout: post
 title: 'New Style Boutique 3: Estilismo para cel al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61tY5zZ7RiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61tY5zZ7RiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61tY5zZ7RiL._SL200_.jpg' ]
 comments: true
 category: ofertas

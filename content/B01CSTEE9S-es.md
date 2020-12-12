@@ -3,6 +3,7 @@ layout: post
 title: 'Joma 900248.200 Camiseta  Mujer  Blanco  al 34.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31v6a3h%2BDKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31v6a3h%2BDKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31v6a3h%2BDKL._SL200_.jpg' ]
 comments: true
 category: ofertas

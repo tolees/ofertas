@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Zone 3 NM  Zapatillas de al 50.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BshAc25kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BshAc25kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BshAc25kL._SL200_.jpg' ]
 comments: true
 category: ofertas

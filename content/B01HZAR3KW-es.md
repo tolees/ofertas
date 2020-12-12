@@ -3,6 +3,7 @@ layout: post
 title: 'Care Babi1  Bufanda Bebé-Niños  Rosa  Ho al 69.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512TwjoIgKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512TwjoIgKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512TwjoIgKL._SL200_.jpg' ]
 comments: true
 category: ofertas

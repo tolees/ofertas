@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.93 % en oodji Ultra Mujer Vestido de Estilo Depo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UJvw4U4LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UJvw4U4LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UJvw4U4LL._SL200_.jpg' ]
 comments: true
 category: ofertas

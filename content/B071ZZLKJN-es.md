@@ -3,6 +3,7 @@ layout: post
 title: 'Police Reloj Análogo clásico para Hombre al 42.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i9i5UfrAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51i9i5UfrAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i9i5UfrAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.97 % en Pepe Jeans LYS JR PG210571  Pantalones p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21xtibLU4sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21xtibLU4sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21xtibLU4sL._SL200_.jpg' ]
 comments: true
 category: ofertas

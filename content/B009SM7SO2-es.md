@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.47 % en Multidermol Pomada Infantil - 50 gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R61G3oKXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R61G3oKXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R61G3oKXL._SL200_.jpg' ]
 comments: true
 category: ofertas

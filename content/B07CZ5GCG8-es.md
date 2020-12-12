@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon RX Break 4.0  Zapatillas de Trai al 30.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318LHcnLkQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318LHcnLkQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318LHcnLkQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.11 % en Le Coq Sportif Omega X W Mesh  Entrenado'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NL7JezyeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NL7JezyeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NL7JezyeL._SL200_.jpg' ]
 comments: true
 category: ofertas

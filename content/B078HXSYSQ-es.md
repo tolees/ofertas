@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.82 % en edc by Esprit 038cc2b003  Pantalones Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rU1UzW7LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rU1UzW7LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rU1UzW7LL._SL200_.jpg' ]
 comments: true
 category: ofertas

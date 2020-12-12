@@ -3,6 +3,7 @@ layout: post
 title: 'Crucial CT4G4SFS624A Memoria RAM de 4 GB al 28.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51esjcOy79L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51esjcOy79L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51esjcOy79L._SL200_.jpg' ]
 comments: true
 category: ofertas

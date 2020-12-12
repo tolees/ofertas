@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.46 % en Homyl USB2.0 Unidad Flash Drive PenDrive'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313JpYLzrsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313JpYLzrsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313JpYLzrsL._SL200_.jpg' ]
 comments: true
 category: ofertas

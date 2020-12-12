@@ -3,6 +3,7 @@ layout: post
 title: 'Nautica Open Water  Camiseta para Hombre al 78.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412fl60mk4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412fl60mk4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412fl60mk4L._SL200_.jpg' ]
 comments: true
 category: ofertas

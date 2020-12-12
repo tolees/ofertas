@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid IX2020 – Videocámara compacta   al 34.59 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

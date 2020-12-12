@@ -3,6 +3,7 @@ layout: post
 title: 'Julius k9 16IDC-Ant-0 IDC Power Harness  al 56.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qflS4M5eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qflS4M5eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qflS4M5eL._SL200_.jpg' ]
 comments: true
 category: ofertas

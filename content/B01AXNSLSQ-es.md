@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Korfu  Sandalias de Punta Descubie al 59.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NW8JOgBfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NW8JOgBfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NW8JOgBfL._SL200_.jpg' ]
 comments: true
 category: ofertas

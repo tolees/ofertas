@@ -3,6 +3,7 @@ layout: post
 title: 'Relaxdays Mesa Auxiliar Y Taburete Hexag al 51.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411%2BdhL6T6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411%2BdhL6T6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411%2BdhL6T6L._SL200_.jpg' ]
 comments: true
 category: ofertas

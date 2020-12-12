@@ -3,6 +3,7 @@ layout: post
 title: 'MODERN LIFE Soporte de Pared Fijo para T al 42.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414FQm4Rl2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414FQm4Rl2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414FQm4Rl2L._SL200_.jpg' ]
 comments: true
 category: ofertas

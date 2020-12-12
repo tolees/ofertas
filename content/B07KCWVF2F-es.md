@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.13 % en Hurley TRISTER PRM tee SS Camisetas  Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415cgWXLUhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415cgWXLUhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415cgWXLUhL._SL200_.jpg' ]
 comments: true
 category: ofertas

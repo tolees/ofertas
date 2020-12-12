@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Elly Vaqueros Slim  Azul  Crosby Blu al 83.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cOQIxa1eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cOQIxa1eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cOQIxa1eL._SL200_.jpg' ]
 comments: true
 category: ofertas

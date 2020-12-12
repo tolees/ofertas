@@ -3,6 +3,7 @@ layout: post
 title: 'NWOUIIAY 4 Modelos 16PCS Cabezales Cepil al 60.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iHU2WzFOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iHU2WzFOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iHU2WzFOL._SL200_.jpg' ]
 comments: true
 category: ofertas

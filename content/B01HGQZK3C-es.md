@@ -3,6 +3,7 @@ layout: post
 title: 'Nike M NSW Short JSY Club Shorts  Hombre al 48.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pHq2BnUCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pHq2BnUCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pHq2BnUCL._SL200_.jpg' ]
 comments: true
 category: ofertas

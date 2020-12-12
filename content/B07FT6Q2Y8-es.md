@@ -3,6 +3,7 @@ layout: post
 title: 'EVERPEAKZ Cuchillo Para Chef Damasco  67 al 74.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31stgYQcBmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31stgYQcBmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31stgYQcBmL._SL200_.jpg' ]
 comments: true
 category: ofertas

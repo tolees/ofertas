@@ -3,6 +3,7 @@ layout: post
 title: 'G Skill F4-2133C15S-4GIS - Tarjeta de Me al 33.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ES-VHEooL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ES-VHEooL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ES-VHEooL._SL200_.jpg' ]
 comments: true
 category: ofertas

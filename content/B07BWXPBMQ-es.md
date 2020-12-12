@@ -3,6 +3,7 @@ layout: post
 title: 'CMP Rigel  Zapatos de Low Rise Senderism al 49.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411W7j0JCAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411W7j0JCAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411W7j0JCAL._SL200_.jpg' ]
 comments: true
 category: ofertas

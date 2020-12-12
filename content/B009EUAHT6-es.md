@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.04 % en Arena Hydrosoft - Sandalia piscina para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416kluMdgaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416kluMdgaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416kluMdgaL._SL200_.jpg' ]
 comments: true
 category: ofertas

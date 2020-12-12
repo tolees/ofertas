@@ -3,6 +3,7 @@ layout: post
 title: 'Adolfo Dominguez 10-07507 Agua Fresca Ex al 41.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xkPIm1ihL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xkPIm1ihL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xkPIm1ihL._SL200_.jpg' ]
 comments: true
 category: ofertas

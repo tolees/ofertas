@@ -3,6 +3,7 @@ layout: post
 title: 'Aire Acondicionado Johnson JT09K 2200 Fr al 27.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516ZnY1V7sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516ZnY1V7sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516ZnY1V7sL._SL200_.jpg' ]
 comments: true
 category: ofertas

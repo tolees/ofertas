@@ -3,6 +3,7 @@ layout: post
 title: 'San Ignacio Q2390 Sartén Aluminio  Cobre al 58.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gXg4fa-zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gXg4fa-zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gXg4fa-zL._SL200_.jpg' ]
 comments: true
 category: ofertas

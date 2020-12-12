@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Medium Impact Sujetador  Mujer   al 63.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IJyE-7a3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IJyE-7a3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IJyE-7a3L._SL200_.jpg' ]
 comments: true
 category: ofertas

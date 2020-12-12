@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance W530  Botines para Mujer  Ne al 71.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uqq9GCtQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uqq9GCtQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uqq9GCtQL._SL200_.jpg' ]
 comments: true
 category: ofertas

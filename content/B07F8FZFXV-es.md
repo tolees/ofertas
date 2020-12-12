@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.32 % en Max Factor Lasting Performance Spray Fij'
 date: 2020-12-11 22:37:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31reU-jk0JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31reU-jk0JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31reU-jk0JL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -24,10 +25,10 @@ Tienes [Max Factor Lasting Performance Spray Fijador  100 ml](https://www.amazon
 
 Características principales:
 
-- Refresca la piel, la hidrata y despeja instantáneamente
 - Aumenta la durabilidad del maquillaje evitando que se transfiera el maquillaje
 - Aplícalo las veces que lo necesites durante el día para un look fresco y cómodo en la piel
 - Look intenso durante todo el día
+- Refresca la piel, la hidrata y despeja instantáneamente
 - Fija durante 8 horas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F8FZFXV/?tag=tolees-21)

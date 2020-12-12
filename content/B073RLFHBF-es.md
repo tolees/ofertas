@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Questar Tnd  Zapatillas para Homb al 62.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417GXTP%2B%2BFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417GXTP%2B%2BFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417GXTP%2B%2BFL._SL200_.jpg' ]
 comments: true
 category: ofertas

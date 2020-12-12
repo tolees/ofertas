@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.98 % en TFA 40.2005  110 x 110 x 140 mm  180 g -'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X592KtTxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X592KtTxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X592KtTxL._SL200_.jpg' ]
 comments: true
 category: ofertas

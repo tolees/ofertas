@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.96 % en Springfield Cárdigan Jacquard  Gama Azul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-m1pskcIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-m1pskcIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-m1pskcIL._SL200_.jpg' ]
 comments: true
 category: ofertas

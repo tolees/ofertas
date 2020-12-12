@@ -3,6 +3,7 @@ layout: post
 title: 'G. Skill 16 GB DDR4 RAM F4-3200C16D-16GT al 50.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nJku6qqGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nJku6qqGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nJku6qqGL._SL200_.jpg' ]
 comments: true
 category: ofertas

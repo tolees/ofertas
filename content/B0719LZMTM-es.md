@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour - Camiseta sin Mangas para  al 68.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ODJHIGSUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ODJHIGSUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ODJHIGSUL._SL200_.jpg' ]
 comments: true
 category: ofertas

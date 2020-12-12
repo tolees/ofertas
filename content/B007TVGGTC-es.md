@@ -3,6 +3,7 @@ layout: post
 title: 'SHIMANO 80098551 Cable de Freno  Adultos al 29.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GPmU2P6jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GPmU2P6jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GPmU2P6jL._SL200_.jpg' ]
 comments: true
 category: ofertas

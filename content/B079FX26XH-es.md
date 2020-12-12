@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.93 % en Under Armour Sportstyle Cotton Graphic S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4154f4v-XwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4154f4v-XwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4154f4v-XwL._SL200_.jpg' ]
 comments: true
 category: ofertas

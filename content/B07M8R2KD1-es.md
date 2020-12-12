@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.69 % en MTNG Attitude 84225  Zapatillas para Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GDkAZPJoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GDkAZPJoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GDkAZPJoL._SL200_.jpg' ]
 comments: true
 category: ofertas

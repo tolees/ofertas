@@ -3,6 +3,7 @@ layout: post
 title: 'Regla de Medición Herramienta de Plantil al 31.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518F6piOAwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518F6piOAwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518F6piOAwL._SL200_.jpg' ]
 comments: true
 category: ofertas

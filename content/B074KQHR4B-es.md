@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.28 % en The North Face M HH Hike GTX II  Zapatil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wmb9w27NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wmb9w27NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wmb9w27NL._SL200_.jpg' ]
 comments: true
 category: ofertas

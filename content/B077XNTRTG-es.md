@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour HG 2.0 3/4 Leggin  Hombre   al 64.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xgohqz24L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xgohqz24L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xgohqz24L._SL200_.jpg' ]
 comments: true
 category: ofertas

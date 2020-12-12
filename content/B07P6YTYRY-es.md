@@ -3,6 +3,7 @@ layout: post
 title: 'Weiao Marcos de Fotos Marco para Foto Ma al 47.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y3-lJxFcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y3-lJxFcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y3-lJxFcL._SL200_.jpg' ]
 comments: true
 category: ofertas

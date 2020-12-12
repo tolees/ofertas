@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers D Lites-Biggest Fan  11930   Za al 29.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n7m0GJlbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n7m0GJlbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n7m0GJlbL._SL200_.jpg' ]
 comments: true
 category: ofertas

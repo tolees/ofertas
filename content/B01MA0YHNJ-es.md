@@ -3,6 +3,7 @@ layout: post
 title: 'EVGA 08G-P4-6178-KR - Tarjeta gráfica  G al 40.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518rBwuOrML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518rBwuOrML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518rBwuOrML._SL200_.jpg' ]
 comments: true
 category: ofertas

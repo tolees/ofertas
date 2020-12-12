@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.18 % en Bugatti 3.13521E+11  Zapatos de Cordones'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vypLoW0GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vypLoW0GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vypLoW0GL._SL200_.jpg' ]
 comments: true
 category: ofertas

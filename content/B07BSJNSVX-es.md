@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Vapor 12 Academy Cr7 MG  Zapatillas al 45.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41osRObcYFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41osRObcYFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41osRObcYFL._SL200_.jpg' ]
 comments: true
 category: ofertas

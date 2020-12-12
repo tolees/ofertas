@@ -3,6 +3,7 @@ layout: post
 title: 'iWork - L-82-362 - Compresor de Aire Por al 30.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GnQSBab1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GnQSBab1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GnQSBab1L._SL200_.jpg' ]
 comments: true
 category: ofertas

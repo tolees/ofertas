@@ -3,6 +3,7 @@ layout: post
 title: 'Gossard Egoboost Tankini - Traje de baño al 83.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416f6svONBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416f6svONBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416f6svONBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'HP Focus Topload 15.6" Negro - Funda  39 al 32.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BRx-6PPOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BRx-6PPOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BRx-6PPOL._SL200_.jpg' ]
 comments: true
 category: ofertas

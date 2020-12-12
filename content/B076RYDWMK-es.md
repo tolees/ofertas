@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Lockdown 3  Zapatos de Balo al 54.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LLmTu4ZuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LLmTu4ZuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LLmTu4ZuL._SL200_.jpg' ]
 comments: true
 category: ofertas

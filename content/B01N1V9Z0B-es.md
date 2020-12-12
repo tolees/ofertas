@@ -3,6 +3,7 @@ layout: post
 title: 'RED WAGON Mermaid Stripe Swimsuit Baño p al 59.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uvQaWY6GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uvQaWY6GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uvQaWY6GL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SuenosZzz Confort MAX Sillon DE Relax co al 60.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ok-P8xsuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ok-P8xsuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ok-P8xsuL._SL200_.jpg' ]
 comments: true
 category: ofertas

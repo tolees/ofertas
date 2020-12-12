@@ -3,6 +3,7 @@ layout: post
 title: 'Mochila Plegable Mochila Compacta Ligera al 53.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5196d1SUYEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5196d1SUYEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5196d1SUYEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.99 % en Blend 20705356 Polo  Rosa  Rose Red   La'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jAqZapsbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jAqZapsbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jAqZapsbL._SL200_.jpg' ]
 comments: true
 category: ofertas

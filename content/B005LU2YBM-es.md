@@ -3,6 +3,7 @@ layout: post
 title: 'Walk on Water Bogart 15" 38 1 cm  15"  B al 90.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wDdWqW%2BOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wDdWqW%2BOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wDdWqW%2BOL._SL200_.jpg' ]
 comments: true
 category: ofertas

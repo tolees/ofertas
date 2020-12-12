@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Deck Gym Bag  Unisex Adulto  Black  al 27.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4168ABP0AXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4168ABP0AXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4168ABP0AXL._SL200_.jpg' ]
 comments: true
 category: ofertas

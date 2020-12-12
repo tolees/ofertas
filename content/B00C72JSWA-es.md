@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.76 % en Lego City: Undercover - The Chase Begins'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61osYoqoTWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61osYoqoTWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61osYoqoTWL._SL200_.jpg' ]
 comments: true
 category: ofertas

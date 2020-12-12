@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.03 % en Star Wars - Stormtrooper  Puzzle 3D Escu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AAul-fSyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AAul-fSyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AAul-fSyL._SL200_.jpg' ]
 comments: true
 category: ofertas

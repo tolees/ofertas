@@ -3,6 +3,7 @@ layout: post
 title: 'Pop Movies: IT: Chapter 1- 10" Pennywise al 37.67 % de descuento'
 date: 2020-12-11 22:30:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/416zPdE5mGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416zPdE5mGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416zPdE5mGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -24,10 +25,10 @@ Está [Pop Movies: IT: Chapter 1- 10" Pennywise w/ Boat](https://www.amazon.es/d
 
 Principales características:
 
+- Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de la película It
 - El producto se envía en una caja ilustrada con ventana
-- Recomendado para niños a partir de 3 años
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RSGHCCV/?tag=tolees-21)
 

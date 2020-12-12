@@ -3,6 +3,7 @@ layout: post
 title: 'Tadeo Jones - Walkie Talkie  Cefa Toys 0 al 55.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413Y44kt-tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413Y44kt-tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413Y44kt-tL._SL200_.jpg' ]
 comments: true
 category: ofertas

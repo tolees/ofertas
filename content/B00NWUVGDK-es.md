@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.46 % en Medisana BW310 51070  Tensiómetro de Muñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IrTRM0FbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IrTRM0FbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IrTRM0FbL._SL200_.jpg' ]
 comments: true
 category: ofertas

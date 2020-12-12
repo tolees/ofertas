@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.54 % en adidas Response tee M  Camiseta de Tiran'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416qjz-XUeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416qjz-XUeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416qjz-XUeL._SL200_.jpg' ]
 comments: true
 category: ofertas

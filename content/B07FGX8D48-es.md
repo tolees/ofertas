@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.10 % en Columbia Gate Racer Chaqueta Softshell p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aUiDycB8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aUiDycB8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aUiDycB8L._SL200_.jpg' ]
 comments: true
 category: ofertas

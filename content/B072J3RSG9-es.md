@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.08 % en Under Armour UA Heat Seeker  Zapatos de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NoPjp5AWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NoPjp5AWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NoPjp5AWL._SL200_.jpg' ]
 comments: true
 category: ofertas

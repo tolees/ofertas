@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.94 % en Giftgarden Virgen María con Figuras de l'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xIoPGg5VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xIoPGg5VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xIoPGg5VL._SL200_.jpg' ]
 comments: true
 category: ofertas

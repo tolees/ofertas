@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.03 % en Luzoeo Bañador Hombre Pantalon Corto de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vx86VzKOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vx86VzKOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vx86VzKOL._SL200_.jpg' ]
 comments: true
 category: ofertas

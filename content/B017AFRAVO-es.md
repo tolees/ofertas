@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 3015/S JY OGL Gafas de sol  al 49.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g9iZ%2ByH-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31g9iZ%2ByH-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g9iZ%2ByH-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.27 % en Dn67 Jesse 8581-MM-G503 Confort Regular '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410YpHw1GDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410YpHw1GDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410YpHw1GDL._SL200_.jpg' ]
 comments: true
 category: ofertas

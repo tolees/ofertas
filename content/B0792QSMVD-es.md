@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.10 % en Napapijri Bags Mochila Tipo Casual  40 c'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

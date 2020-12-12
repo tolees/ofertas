@@ -3,6 +3,7 @@ layout: post
 title: 'Cámara de Video Digital HD-100 Full HD 1 al 60.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f2gg16JrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f2gg16JrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f2gg16JrL._SL200_.jpg' ]
 comments: true
 category: ofertas

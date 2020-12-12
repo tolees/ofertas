@@ -3,6 +3,7 @@ layout: post
 title: 'Licor del Polo Dentífrico Frozen Senses  al 37.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61xIYVKeRgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61xIYVKeRgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61xIYVKeRgL._SL200_.jpg' ]
 comments: true
 category: ofertas

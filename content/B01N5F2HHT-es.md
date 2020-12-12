@@ -3,6 +3,7 @@ layout: post
 title: 'Klipsch RSB-14 - Barra de Sonido  Negro al 39.13 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

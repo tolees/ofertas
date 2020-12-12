@@ -3,6 +3,7 @@ layout: post
 title: 'Rocks-Off Vibrador - 200 gr al 63.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hbFEXPHrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hbFEXPHrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hbFEXPHrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48375  Botines para Mujer  Negro  Bl al 65.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S31DGOaPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S31DGOaPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S31DGOaPL._SL200_.jpg' ]
 comments: true
 category: ofertas

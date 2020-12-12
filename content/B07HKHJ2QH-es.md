@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.34 % en Collar de adiestramiento para Perros con'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ErRD5rlXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ErRD5rlXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ErRD5rlXL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Podspeakers Micropod SE MK III - Altavoz al 32.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Wbhb4RvcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Wbhb4RvcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Wbhb4RvcL._SL200_.jpg' ]
 comments: true
 category: ofertas

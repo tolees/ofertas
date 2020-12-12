@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Regent Vaqueros Pitillo Hombr al 73.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411072hQ9nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411072hQ9nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411072hQ9nL._SL200_.jpg' ]
 comments: true
 category: ofertas

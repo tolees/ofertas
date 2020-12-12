@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY M3594 .000.2660  Camiseta para Ho al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jECn1cxlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jECn1cxlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jECn1cxlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.68 % en Under Armour Ua Magnetico Select Hybrid '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319QE3eJFQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319QE3eJFQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319QE3eJFQL._SL200_.jpg' ]
 comments: true
 category: ofertas

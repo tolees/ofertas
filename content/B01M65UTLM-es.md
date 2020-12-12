@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.80 % en Apple iPhone 7 SIM única 4G 32GB Oro - S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21mD7dxuv-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21mD7dxuv-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21mD7dxuv-L._SL200_.jpg' ]
 comments: true
 category: ofertas

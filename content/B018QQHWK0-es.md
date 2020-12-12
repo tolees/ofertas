@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.28 % en Limar - Casco de Bicicleta 360 Grados  T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s%2BPLTclEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s%2BPLTclEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s%2BPLTclEL._SL200_.jpg' ]
 comments: true
 category: ofertas

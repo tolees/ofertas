@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch 1 618 661 000 - Cincel pala con in al 59.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Lhw4cYFyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21Lhw4cYFyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Lhw4cYFyL._SL200_.jpg' ]
 comments: true
 category: ofertas

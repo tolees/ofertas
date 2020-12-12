@@ -3,6 +3,7 @@ layout: post
 title: 'Eferri 0JV5716  Bolso Bandolera para Muj al 76.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Fh3yi%2BKBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Fh3yi%2BKBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Fh3yi%2BKBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.07 % en Calvin Klein Jeans Ondo 1 Essential Bomb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415fMuTXekL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415fMuTXekL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415fMuTXekL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.03 % en Emma & Giovanni - Leggins Algodon Made i'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B%2BRkXUWCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B%2BRkXUWCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B%2BRkXUWCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.36 % en Calvin Klein 2pk Trunks  Bóxer Niños  Gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410wXQ1TeRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410wXQ1TeRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410wXQ1TeRL._SL200_.jpg' ]
 comments: true
 category: ofertas

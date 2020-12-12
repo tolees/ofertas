@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 91.32 % en Marsno M1 Metal con Cable en Auriculares'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oJLOooPGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oJLOooPGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oJLOooPGL._SL200_.jpg' ]
 comments: true
 category: ofertas

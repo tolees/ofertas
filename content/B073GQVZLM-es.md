@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 097ee1i004 suéter   Dusty Green 3 al 74.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41POWBxYrqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41POWBxYrqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41POWBxYrqL._SL200_.jpg' ]
 comments: true
 category: ofertas

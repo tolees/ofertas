@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.46 % en Superga 2750-PUMETW  Zapatillas para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xF%2BwSoBUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xF%2BwSoBUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xF%2BwSoBUL._SL200_.jpg' ]
 comments: true
 category: ofertas

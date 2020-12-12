@@ -3,6 +3,7 @@ layout: post
 title: 'HUGO Elisha01  Camisa Hombre  Blanco  Op al 45.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WYDviWdVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WYDviWdVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WYDviWdVL._SL200_.jpg' ]
 comments: true
 category: ofertas

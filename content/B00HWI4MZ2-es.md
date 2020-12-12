@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.50 % en Intex 29021 - Cobertor solar para piscin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gu5fKJ1AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gu5fKJ1AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gu5fKJ1AL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.77 % en Android Tablet 10 Pulgadas  2GB + 32GB  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAcywqTSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAcywqTSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAcywqTSL._SL200_.jpg' ]
 comments: true
 category: ofertas

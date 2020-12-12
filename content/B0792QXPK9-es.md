@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.53 % en Grsta Botella de Agua Deporte 1000ml  Ec'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qI8JcUQyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qI8JcUQyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qI8JcUQyL._SL200_.jpg' ]
 comments: true
 category: ofertas

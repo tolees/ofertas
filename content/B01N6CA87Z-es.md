@@ -3,6 +3,7 @@ layout: post
 title: 'ONLY & SONS Onswarp Light Blue 6666 Pk N al 68.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wa3yNu-hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wa3yNu-hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wa3yNu-hL._SL200_.jpg' ]
 comments: true
 category: ofertas

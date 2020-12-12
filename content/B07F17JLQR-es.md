@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.01 % en Mustang High Top Sneaker  Zapatillas Alt'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MVkOjK5CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MVkOjK5CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MVkOjK5CL._SL200_.jpg' ]
 comments: true
 category: ofertas

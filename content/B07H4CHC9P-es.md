@@ -3,6 +3,7 @@ layout: post
 title: 'LG Q7 - Smartphone de 5.5"  Octa Core 1. al 49.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31N%2Bv5cdX3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31N%2Bv5cdX3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31N%2Bv5cdX3L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.55 % en Pepe Jeans Saturn Vaqueros Straight  Neg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g-LTTgrlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31g-LTTgrlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g-LTTgrlL._SL200_.jpg' ]
 comments: true
 category: ofertas

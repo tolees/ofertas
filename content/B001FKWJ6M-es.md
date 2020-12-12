@@ -3,6 +3,7 @@ layout: post
 title: 'Regatta Stormbreak - Chaqueta para hombr al 27.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V8015Yj%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V8015Yj%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V8015Yj%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

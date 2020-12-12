@@ -3,6 +3,7 @@ layout: post
 title: 'Geox B Kilwi Girl J  Bailarinas para Beb al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31d29ScWCXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31d29ScWCXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31d29ScWCXL._SL200_.jpg' ]
 comments: true
 category: ofertas

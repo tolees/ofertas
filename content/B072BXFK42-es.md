@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.62 % en WWE Figura Jericho Old School Funko 1425'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VxuOIrivL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VxuOIrivL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VxuOIrivL._SL200_.jpg' ]
 comments: true
 category: ofertas

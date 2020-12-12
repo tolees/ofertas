@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.31 % en Sine Mora EX'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ihL--LTbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ihL--LTbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ihL--LTbL._SL200_.jpg' ]
 comments: true
 category: ofertas

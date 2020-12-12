@@ -3,6 +3,7 @@ layout: post
 title: 'Scitec Nutrition Whey Protein Profession al 27.29 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B00J8OP6GW.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B00J8OP6GW.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B00J8OP6GW.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

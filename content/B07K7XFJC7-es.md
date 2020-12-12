@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.78 % en Reebok Almotio 4.0 2V  Zapatillas de Gim'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UShJ5ifaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UShJ5ifaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UShJ5ifaL._SL200_.jpg' ]
 comments: true
 category: ofertas

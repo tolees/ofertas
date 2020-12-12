@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 500v1  Entrenadores para Hom al 44.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uhKXrj3EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uhKXrj3EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uhKXrj3EL._SL200_.jpg' ]
 comments: true
 category: ofertas

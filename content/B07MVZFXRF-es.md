@@ -3,6 +3,7 @@ layout: post
 title: 'WOSTOO Crayones  12 Colores Crayones de  al 80.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H6KJ3iHvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51H6KJ3iHvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H6KJ3iHvL._SL200_.jpg' ]
 comments: true
 category: ofertas

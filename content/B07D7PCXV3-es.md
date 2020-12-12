@@ -3,6 +3,7 @@ layout: post
 title: 'Nautica - Zapatillas para Hombre  Color  al 59.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YfLjTEM0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YfLjTEM0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YfLjTEM0L._SL200_.jpg' ]
 comments: true
 category: ofertas

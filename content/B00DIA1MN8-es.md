@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.04 % en Columbia sábado Trail II Mujeres Rodilla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rm0dxddzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rm0dxddzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rm0dxddzL._SL200_.jpg' ]
 comments: true
 category: ofertas

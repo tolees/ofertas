@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Core Jacket Chaqueta Vaquera  al 45.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ju4dq0sAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ju4dq0sAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ju4dq0sAL._SL200_.jpg' ]
 comments: true
 category: ofertas

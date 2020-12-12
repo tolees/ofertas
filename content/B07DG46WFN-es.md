@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino T-Shirts Camiseta  Gris  M al 60.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K95nP1-%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K95nP1-%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K95nP1-%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

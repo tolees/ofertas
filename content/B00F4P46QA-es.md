@@ -3,6 +3,7 @@ layout: post
 title: 'Inflador Manual Bestway Air Hammer Infla al 30.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DgHERFhrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DgHERFhrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DgHERFhrL._SL200_.jpg' ]
 comments: true
 category: ofertas

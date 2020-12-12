@@ -3,6 +3,7 @@ layout: post
 title: 'EMPO Toalla Grande Microfibra de 140cm x al 40.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yldWlUvqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yldWlUvqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yldWlUvqL._SL200_.jpg' ]
 comments: true
 category: ofertas

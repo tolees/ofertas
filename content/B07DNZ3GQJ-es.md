@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Herren Glaze Lowp Tbsd  Zapatillas  al 60.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nPfT8Nz6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nPfT8Nz6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nPfT8Nz6L._SL200_.jpg' ]
 comments: true
 category: ofertas

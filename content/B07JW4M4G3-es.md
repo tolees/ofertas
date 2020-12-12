@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.95 % en Venom - Edición Limitada Metal  BD 3D + '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qGGzqtpWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qGGzqtpWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qGGzqtpWL._SL200_.jpg' ]
 comments: true
 category: ofertas

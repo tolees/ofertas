@@ -3,6 +3,7 @@ layout: post
 title: 'Gant G2. Classic Tailored Coat  Abrigo M al 49.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x1KSXRI%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31x1KSXRI%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x1KSXRI%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

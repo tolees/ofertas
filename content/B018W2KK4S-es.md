@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.31 % en Pikolin Home - Protector de colchón rizo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yRYOgFMYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yRYOgFMYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yRYOgFMYL._SL200_.jpg' ]
 comments: true
 category: ofertas

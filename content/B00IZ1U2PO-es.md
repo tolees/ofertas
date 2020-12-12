@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en Gardena Manguera Flex Ø 15 mm Rollo de 2'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AWK2OqT8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AWK2OqT8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AWK2OqT8L._SL200_.jpg' ]
 comments: true
 category: ofertas

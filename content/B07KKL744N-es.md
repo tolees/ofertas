@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Kenr55d  Vestido para Mujer  Ros al 61.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311%2BbcXtRKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311%2BbcXtRKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311%2BbcXtRKL._SL200_.jpg' ]
 comments: true
 category: ofertas

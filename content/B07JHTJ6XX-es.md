@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA One Protect 3 JR Guantes De Portero al 36.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IEbEaQOgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IEbEaQOgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IEbEaQOgL._SL200_.jpg' ]
 comments: true
 category: ofertas

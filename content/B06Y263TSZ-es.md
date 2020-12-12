@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J Casey M  Zapatos de Cordones Derb al 66.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zy9ot4s9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zy9ot4s9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zy9ot4s9L._SL200_.jpg' ]
 comments: true
 category: ofertas

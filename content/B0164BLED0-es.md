@@ -3,6 +3,7 @@ layout: post
 title: 'Twinzee Pro - Pelador Dual de Verduras e al 48.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pB23yG1ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pB23yG1ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pB23yG1ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

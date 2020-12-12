@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.87 % en Nike Wmns Downshifter 8  Zapatillas de R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C1km%2B3FCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C1km%2B3FCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C1km%2B3FCL._SL200_.jpg' ]
 comments: true
 category: ofertas

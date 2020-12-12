@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Tunsil Mid  Zapatillas Altas para al 51.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tTqwVLQyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tTqwVLQyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tTqwVLQyL._SL200_.jpg' ]
 comments: true
 category: ofertas

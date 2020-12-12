@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen 67188 Bolso de Mano  Unisex al 44.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s5gPsOTEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s5gPsOTEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s5gPsOTEL._SL200_.jpg' ]
 comments: true
 category: ofertas

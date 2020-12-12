@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Oakland Lace  Zapatos de Cordones al 45.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318zPVG5l0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318zPVG5l0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318zPVG5l0L._SL200_.jpg' ]
 comments: true
 category: ofertas

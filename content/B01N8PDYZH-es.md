@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.10 % en Bugatti J97033  Zapatillas Altas para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-LC3DbWuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-LC3DbWuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-LC3DbWuL._SL200_.jpg' ]
 comments: true
 category: ofertas

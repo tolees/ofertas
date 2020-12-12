@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Challenger II Knit Short Pa al 51.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V-jfQlPJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V-jfQlPJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V-jfQlPJL._SL200_.jpg' ]
 comments: true
 category: ofertas

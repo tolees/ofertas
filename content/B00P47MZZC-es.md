@@ -3,6 +3,7 @@ layout: post
 title: 'Aigostar - Bombilla LED A5 G45  E27  5 W al 28.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411XNWUmX6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411XNWUmX6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411XNWUmX6L._SL200_.jpg' ]
 comments: true
 category: ofertas

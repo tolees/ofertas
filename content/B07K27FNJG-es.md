@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley M Phantom One & Only 18  BAÑADORE al 63.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VFsNF7x2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VFsNF7x2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VFsNF7x2L._SL200_.jpg' ]
 comments: true
 category: ofertas

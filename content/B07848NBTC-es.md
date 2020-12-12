@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.30 % en Puma Future 18.3 TT  Zapatillas de Fútbo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PA1iyoi5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PA1iyoi5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PA1iyoi5L._SL200_.jpg' ]
 comments: true
 category: ofertas

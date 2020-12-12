@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.14 % en New Balance 590  Zapatillas de Running  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nka%2Bk1c-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nka%2Bk1c-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nka%2Bk1c-L._SL200_.jpg' ]
 comments: true
 category: ofertas

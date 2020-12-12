@@ -3,6 +3,7 @@ layout: post
 title: 'Manfrotto MT057C4-G - Trípode  4 seccion al 29.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417A4wooY4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417A4wooY4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417A4wooY4L._SL200_.jpg' ]
 comments: true
 category: ofertas

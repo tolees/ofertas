@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en Timberland Milan Flavor Sneaker  Zapatos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411PYAu3dUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411PYAu3dUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411PYAu3dUL._SL200_.jpg' ]
 comments: true
 category: ofertas

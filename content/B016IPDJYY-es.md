@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Daren Zip  Jeans Hombre  Azul  Dark  al 36.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Oy5nuApzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Oy5nuApzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Oy5nuApzL._SL200_.jpg' ]
 comments: true
 category: ofertas

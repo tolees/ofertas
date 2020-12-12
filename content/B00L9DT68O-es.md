@@ -3,6 +3,7 @@ layout: post
 title: 'DC Trase TX M  Zapatillas de Skateboard  al 44.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jPNFhZV-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jPNFhZV-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jPNFhZV-L._SL200_.jpg' ]
 comments: true
 category: ofertas

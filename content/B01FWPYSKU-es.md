@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Magista Ola Ii Fg  Botas de Fútbol  al 39.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41--7wbekaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41--7wbekaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41--7wbekaL._SL200_.jpg' ]
 comments: true
 category: ofertas

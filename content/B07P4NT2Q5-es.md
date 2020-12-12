@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.23 % en Invicta Reloj de Pulsera 29378'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

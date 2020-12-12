@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.59 % en Napapijri Sevilla  Camiseta para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xts0mZ6gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xts0mZ6gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xts0mZ6gL._SL200_.jpg' ]
 comments: true
 category: ofertas

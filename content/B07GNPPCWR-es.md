@@ -3,6 +3,7 @@ layout: post
 title: 'find. Rib Cardigan Chaqueta Punto Gris G al 37.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tVeDkTa4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tVeDkTa4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tVeDkTa4L._SL200_.jpg' ]
 comments: true
 category: ofertas

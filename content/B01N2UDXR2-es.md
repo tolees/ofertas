@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Back-to-Berkeley Redux Le al 44.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41--C73plEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41--C73plEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41--C73plEL._SL200_.jpg' ]
 comments: true
 category: ofertas

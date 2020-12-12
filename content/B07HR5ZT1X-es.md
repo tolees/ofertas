@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Hombre Jjiglenn Jjicon JJ 3 al 50.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NiRrQ2nkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NiRrQ2nkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NiRrQ2nkL._SL200_.jpg' ]
 comments: true
 category: ofertas

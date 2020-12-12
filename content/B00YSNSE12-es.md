@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.69 % en Terry - Armario plástico exterior  68 x '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CLUV6xJ3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CLUV6xJ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CLUV6xJ3L._SL200_.jpg' ]
 comments: true
 category: ofertas

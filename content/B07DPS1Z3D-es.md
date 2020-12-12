@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Performance Polo Novelty  N al 55.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TP6EV4MmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TP6EV4MmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TP6EV4MmL._SL200_.jpg' ]
 comments: true
 category: ofertas

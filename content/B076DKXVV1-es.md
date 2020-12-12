@@ -3,6 +3,7 @@ layout: post
 title: 'Women secret 4682661  Conjuntos de Pijam al 73.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310KQG9vw4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310KQG9vw4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310KQG9vw4L._SL200_.jpg' ]
 comments: true
 category: ofertas

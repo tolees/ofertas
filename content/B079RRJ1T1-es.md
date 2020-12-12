@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.04 % en Pepe Jeans Pia JR PG210574  Pantalones p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41szYN7PZ9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41szYN7PZ9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41szYN7PZ9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Triple Canyon Pantalón Corto de al 46.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ma0mht%2BxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ma0mht%2BxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ma0mht%2BxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas ESS Allcap Oh H  Sudadera para Mu al 55.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NNAufNlwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NNAufNlwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NNAufNlwL._SL200_.jpg' ]
 comments: true
 category: ofertas

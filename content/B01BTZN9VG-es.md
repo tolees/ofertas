@@ -3,6 +3,7 @@ layout: post
 title: '5 uds de cabezales para cepillos de dien al 37.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yrNROWVEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yrNROWVEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yrNROWVEL._SL200_.jpg' ]
 comments: true
 category: ofertas

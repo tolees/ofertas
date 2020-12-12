@@ -3,6 +3,7 @@ layout: post
 title: 'Petrol Industries M-FW18-JAC104  Chaquet al 82.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VGsZmPPAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VGsZmPPAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VGsZmPPAL._SL200_.jpg' ]
 comments: true
 category: ofertas

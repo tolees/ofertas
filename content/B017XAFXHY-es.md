@@ -3,6 +3,7 @@ layout: post
 title: 'Kärcher Pistola de riego Premium metal   al 38.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bhWt%2BosfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bhWt%2BosfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bhWt%2BosfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.01 % en SGILE Robot Juguete Control Remoto para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qVZ98jJrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qVZ98jJrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qVZ98jJrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Simone JR PB580773  Sudadera  al 45.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C-8Am4wML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51C-8Am4wML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C-8Am4wML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Fitbit Charge 2 Pulsera de Actividad fís al 37.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4179NnGjjJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4179NnGjjJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4179NnGjjJL._SL200_.jpg' ]
 comments: true
 category: ofertas

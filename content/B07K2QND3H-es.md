@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.07 % en adidas V Racer 2.0  Zapatillas de Runnin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319uxRt4S7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319uxRt4S7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319uxRt4S7L._SL200_.jpg' ]
 comments: true
 category: ofertas

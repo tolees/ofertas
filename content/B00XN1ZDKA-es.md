@@ -3,6 +3,7 @@ layout: post
 title: 'Tatay Cubo de Basura con Tapa abatible O al 69.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j5b4J3RDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31j5b4J3RDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j5b4J3RDL._SL200_.jpg' ]
 comments: true
 category: ofertas

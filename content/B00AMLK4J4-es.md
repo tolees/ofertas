@@ -3,6 +3,7 @@ layout: post
 title: 'Philips FM32FD05B - Memoria USB de 32 GB al 46.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oXegTGfLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oXegTGfLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oXegTGfLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.14 % en Bolsa Deporte Bolsa Gimnasio de Viaje Im'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41itvWxw44L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41itvWxw44L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41itvWxw44L._SL200_.jpg' ]
 comments: true
 category: ofertas

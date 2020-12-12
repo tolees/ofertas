@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Kingston Zip  Vaqueros Regula al 40.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cUVgjd5-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cUVgjd5-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cUVgjd5-L._SL200_.jpg' ]
 comments: true
 category: ofertas

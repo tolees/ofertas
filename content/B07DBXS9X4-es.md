@@ -3,6 +3,7 @@ layout: post
 title: 'Puma California  Zapatillas Unisex Adult al 77.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A5rIFS-bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A5rIFS-bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A5rIFS-bL._SL200_.jpg' ]
 comments: true
 category: ofertas

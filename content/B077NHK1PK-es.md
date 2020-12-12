@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.29 % en Lana de fieltro 36 colores 5g/colore Fuy'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XqYq5kVpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XqYq5kVpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XqYq5kVpL._SL200_.jpg' ]
 comments: true
 category: ofertas

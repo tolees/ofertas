@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.39 % en Guerlain Agua de Perfume - 30 ml'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RIRhyinLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RIRhyinLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RIRhyinLL._SL200_.jpg' ]
 comments: true
 category: ofertas

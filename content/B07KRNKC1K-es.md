@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Amun II  Zapatillas Unisex Adulto  al 63.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kXM9xjwWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kXM9xjwWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kXM9xjwWL._SL200_.jpg' ]
 comments: true
 category: ofertas

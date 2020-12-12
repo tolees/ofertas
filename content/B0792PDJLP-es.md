@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.03 % en Geox D Theragon C  Zapatillas para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a7ecuzBzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a7ecuzBzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a7ecuzBzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'MYMAHDI Reproductor de MP3 portátil de 8 al 62.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O0RP152KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51O0RP152KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O0RP152KL._SL200_.jpg' ]
 comments: true
 category: ofertas

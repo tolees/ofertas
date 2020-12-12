@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.44 % en Masajeador de mano negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LZKiXIMYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LZKiXIMYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LZKiXIMYL._SL200_.jpg' ]
 comments: true
 category: ofertas

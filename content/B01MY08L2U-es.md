@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Ww 420 Noos  Pantalones par al 41.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zDrCjtGtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zDrCjtGtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zDrCjtGtL._SL200_.jpg' ]
 comments: true
 category: ofertas

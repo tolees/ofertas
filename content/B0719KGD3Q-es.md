@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Armour Mid Keyhole Big Logo al 57.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dBb865J4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dBb865J4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dBb865J4L._SL200_.jpg' ]
 comments: true
 category: ofertas

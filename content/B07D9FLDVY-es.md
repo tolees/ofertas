@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 30952  Botines para Mujer  Negro  Bl al 69.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TucXe3aQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TucXe3aQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TucXe3aQL._SL200_.jpg' ]
 comments: true
 category: ofertas

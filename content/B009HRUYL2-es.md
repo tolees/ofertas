@@ -3,6 +3,7 @@ layout: post
 title: 'Susa - Sujetador para Mujer  Talla 110E  al 62.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oUo-B2ZQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oUo-B2ZQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oUo-B2ZQL._SL200_.jpg' ]
 comments: true
 category: ofertas

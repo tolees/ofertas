@@ -3,6 +3,7 @@ layout: post
 title: 'San Ignacio Professional Chef Copper Set al 61.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GH%2B0sISAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GH%2B0sISAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GH%2B0sISAL._SL200_.jpg' ]
 comments: true
 category: ofertas

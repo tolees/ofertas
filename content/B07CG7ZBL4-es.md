@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.01 % en Iris & Lilly Bañador con Espalda Cruzada'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-9JzJx%2BJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-9JzJx%2BJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-9JzJx%2BJL._SL200_.jpg' ]
 comments: true
 category: ofertas

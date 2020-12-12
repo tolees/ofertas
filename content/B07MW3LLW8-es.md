@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.31 % en Hifuture Plancha de Vapor eléctrica Mano'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gCJtSL5OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gCJtSL5OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gCJtSL5OL._SL200_.jpg' ]
 comments: true
 category: ofertas

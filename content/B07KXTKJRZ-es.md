@@ -3,6 +3,7 @@ layout: post
 title: 'Eastpak Padded PAK R Mochila Tipo Casual al 35.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3189V0s40LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3189V0s40LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3189V0s40LL._SL200_.jpg' ]
 comments: true
 category: ofertas

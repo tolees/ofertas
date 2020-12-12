@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmmanja LS Placket Shirt Wvn B al 68.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ofxy1UoWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ofxy1UoWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ofxy1UoWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Graphic Tee  Camiseta Hombre  Rojo   al 57.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iwp35ZSXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iwp35ZSXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iwp35ZSXL._SL200_.jpg' ]
 comments: true
 category: ofertas

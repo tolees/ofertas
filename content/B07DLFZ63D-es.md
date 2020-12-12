@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield INT. Real Down 3/4 Abrigo    al 74.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dfZguaw%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dfZguaw%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dfZguaw%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

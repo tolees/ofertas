@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.75 % en Cortefiel C8CK OX Rojo Azulón T-BD Camis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51A0sv1XTfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51A0sv1XTfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51A0sv1XTfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland 6 In Premium Waterproof  Bota al 61.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413KLdwRhmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413KLdwRhmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413KLdwRhmL._SL200_.jpg' ]
 comments: true
 category: ofertas

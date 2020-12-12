@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.87 % en Puma Modern Sports Logo tee Camiseta  Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N9DDjuklL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41N9DDjuklL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N9DDjuklL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Bolsas de Vacío 12 pack 20x500cm Bolsas  al 40.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AHPrmZ0TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AHPrmZ0TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AHPrmZ0TL._SL200_.jpg' ]
 comments: true
 category: ofertas

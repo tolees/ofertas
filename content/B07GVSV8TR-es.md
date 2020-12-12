@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.45 % en Kipling - Moyelle  Bolsos bandolera Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZvkTNIrsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZvkTNIrsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZvkTNIrsL._SL200_.jpg' ]
 comments: true
 category: ofertas

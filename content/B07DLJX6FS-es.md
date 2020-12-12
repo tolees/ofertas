@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Pack 3 Tela Lisos Bóxer  Hom al 56.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZV%2B-GLkYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZV%2B-GLkYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZV%2B-GLkYL._SL200_.jpg' ]
 comments: true
 category: ofertas

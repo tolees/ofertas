@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.09 % en The North Face M S/S Rag Red Box Te Cami'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41piMsMvyEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41piMsMvyEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41piMsMvyEL._SL200_.jpg' ]
 comments: true
 category: ofertas

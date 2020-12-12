@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.16 % en Skechers Empress-Solo Mood  Zapatillas s'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mb2ovE2xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mb2ovE2xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mb2ovE2xL._SL200_.jpg' ]
 comments: true
 category: ofertas

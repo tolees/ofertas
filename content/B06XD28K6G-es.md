@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel 6717470  Vestido para Mujer  N al 73.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t8n66FwKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t8n66FwKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t8n66FwKL._SL200_.jpg' ]
 comments: true
 category: ofertas

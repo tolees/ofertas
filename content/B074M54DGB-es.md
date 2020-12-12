@@ -3,6 +3,7 @@ layout: post
 title: 'Anillo pene vibrador Cockring Silicona   al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gawnKzSDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gawnKzSDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gawnKzSDL._SL200_.jpg' ]
 comments: true
 category: ofertas

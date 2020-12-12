@@ -3,6 +3,7 @@ layout: post
 title: 'SUNUV Lámpara Secador de Uñas  24W LED U al 68.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310P3KekjBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310P3KekjBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310P3KekjBL._SL200_.jpg' ]
 comments: true
 category: ofertas

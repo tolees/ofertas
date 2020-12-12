@@ -3,6 +3,7 @@ layout: post
 title: 'Urtekram - Gel de Baño Sin Perfume Urtek al 77.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41liD7BhehL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41liD7BhehL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41liD7BhehL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.72 % en Famatel 19068.1 - Base toma tierra later'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XFrFRPE1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XFrFRPE1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XFrFRPE1L._SL200_.jpg' ]
 comments: true
 category: ofertas

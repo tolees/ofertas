@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.41 % en Alfombrista Diseño 23 Alfombra Moderna A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ZemaIXMFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61ZemaIXMFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ZemaIXMFL._SL200_.jpg' ]
 comments: true
 category: ofertas

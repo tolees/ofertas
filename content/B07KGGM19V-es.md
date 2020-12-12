@@ -3,6 +3,7 @@ layout: post
 title: 'Buff Effect Logo Gorra Pack Bike  Unisex al 32.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E74hwbvBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E74hwbvBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E74hwbvBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.49 % en Nike Air MAX Vision  Zapatillas de Gimna'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kK1qmKfCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kK1qmKfCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kK1qmKfCL._SL200_.jpg' ]
 comments: true
 category: ofertas

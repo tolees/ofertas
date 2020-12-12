@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Go 600-fun Run  Zapatillas para al 26.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417kkJVaH3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417kkJVaH3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417kkJVaH3L._SL200_.jpg' ]
 comments: true
 category: ofertas

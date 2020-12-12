@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.81 % en Nasjac 1920 Flapper Set de accesorios de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y3M%2B9x%2BIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y3M%2B9x%2BIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y3M%2B9x%2BIL._SL200_.jpg' ]
 comments: true
 category: ofertas

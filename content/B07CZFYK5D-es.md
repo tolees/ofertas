@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.02 % en Under Armour Sportstyle tee Camiseta  Ni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XdoRORE0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XdoRORE0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XdoRORE0L._SL200_.jpg' ]
 comments: true
 category: ofertas

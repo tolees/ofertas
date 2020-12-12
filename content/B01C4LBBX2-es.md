@@ -3,6 +3,7 @@ layout: post
 title: 'Double Agent Falda Crepe Tintada En Pren al 85.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414O6q9rljL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414O6q9rljL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414O6q9rljL._SL200_.jpg' ]
 comments: true
 category: ofertas

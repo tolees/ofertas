@@ -3,6 +3,7 @@ layout: post
 title: 'Pack: The Equalizer 1 + The Equalizer 2  al 49.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jdqm%2BEDnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jdqm%2BEDnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jdqm%2BEDnL._SL200_.jpg' ]
 comments: true
 category: ofertas

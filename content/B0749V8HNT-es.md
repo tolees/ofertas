@@ -3,6 +3,7 @@ layout: post
 title: 'Dickies Maysville Pantalones Cortos Depo al 49.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hGKe-p7SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hGKe-p7SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hGKe-p7SL._SL200_.jpg' ]
 comments: true
 category: ofertas

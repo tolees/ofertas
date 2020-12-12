@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.44 % en Adidas Altarun CF K  Zapatillas de Runni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318FW2aFBbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318FW2aFBbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318FW2aFBbL._SL200_.jpg' ]
 comments: true
 category: ofertas

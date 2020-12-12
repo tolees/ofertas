@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.28 % en Calvin Klein Sleek - Bikini para mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o19KHuihL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o19KHuihL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o19KHuihL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA W Slingflex Mid  Zapatil al 74.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P2OmGJLQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P2OmGJLQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P2OmGJLQL._SL200_.jpg' ]
 comments: true
 category: ofertas

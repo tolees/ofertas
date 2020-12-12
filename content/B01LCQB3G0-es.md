@@ -3,6 +3,7 @@ layout: post
 title: 'Star Wars - Vehículo Medio Episodio 7  M al 43.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wyFYc6MsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wyFYc6MsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wyFYc6MsL._SL200_.jpg' ]
 comments: true
 category: ofertas

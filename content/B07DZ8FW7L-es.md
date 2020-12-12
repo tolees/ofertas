@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Powder Lite Chaqueta Resistente al 41.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qtHEja9LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qtHEja9LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qtHEja9LL._SL200_.jpg' ]
 comments: true
 category: ofertas

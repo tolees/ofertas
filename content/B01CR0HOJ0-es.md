@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban 0rx 7078 5599 51 Monturas de Gaf al 60.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zVm24nDhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zVm24nDhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zVm24nDhL._SL200_.jpg' ]
 comments: true
 category: ofertas

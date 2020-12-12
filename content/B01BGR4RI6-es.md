@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera 5029NS 9A RFE Gafas de sol  Marr al 35.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BOLCte9sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BOLCte9sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BOLCte9sL._SL200_.jpg' ]
 comments: true
 category: ofertas

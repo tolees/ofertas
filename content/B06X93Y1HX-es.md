@@ -3,6 +3,7 @@ layout: post
 title: 'Pierre Cardin PC106042S02 - Reloj de cua al 73.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DRXzsr7zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DRXzsr7zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DRXzsr7zL._SL200_.jpg' ]
 comments: true
 category: ofertas

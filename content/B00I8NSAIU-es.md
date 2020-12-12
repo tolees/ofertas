@@ -3,6 +3,7 @@ layout: post
 title: 'California Exotics Apollo Estimulador de al 29.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ztatq3owL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ztatq3owL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ztatq3owL._SL200_.jpg' ]
 comments: true
 category: ofertas

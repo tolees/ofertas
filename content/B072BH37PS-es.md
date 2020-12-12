@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Base R T S/s 2-Pack Camiseta  al 45.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yzwPURQiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yzwPURQiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yzwPURQiL._SL200_.jpg' ]
 comments: true
 category: ofertas

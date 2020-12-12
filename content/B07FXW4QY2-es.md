@@ -3,6 +3,7 @@ layout: post
 title: 'Cúter profesional Powerdelux Cúter Plega al 80.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gp0WnxzmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gp0WnxzmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gp0WnxzmL._SL200_.jpg' ]
 comments: true
 category: ofertas

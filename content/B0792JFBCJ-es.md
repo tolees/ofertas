@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.25 % en Geox U Uvet E  Botas Clasicas para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rtCDjAzaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rtCDjAzaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rtCDjAzaL._SL200_.jpg' ]
 comments: true
 category: ofertas

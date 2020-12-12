@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Milano 16 Sock - Medias para homb al 31.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wC6BQ3q5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wC6BQ3q5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wC6BQ3q5L._SL200_.jpg' ]
 comments: true
 category: ofertas

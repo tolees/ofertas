@@ -3,6 +3,7 @@ layout: post
 title: 'Purebesi Aspirador de Coche sin Cable 12 al 41.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HnsiZHRgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HnsiZHRgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HnsiZHRgL._SL200_.jpg' ]
 comments: true
 category: ofertas

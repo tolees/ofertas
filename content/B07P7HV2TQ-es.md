@@ -3,6 +3,7 @@ layout: post
 title: 'San Ignacio PK1324 Sartenes VINUM-Ø20/24 al 69.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T1RY3rqkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51T1RY3rqkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T1RY3rqkL._SL200_.jpg' ]
 comments: true
 category: ofertas

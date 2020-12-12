@@ -3,6 +3,7 @@ layout: post
 title: 'Sigma Sport ID Sigma Reloj Deportivo GPS al 58.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pyKQLNt6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pyKQLNt6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pyKQLNt6L._SL200_.jpg' ]
 comments: true
 category: ofertas

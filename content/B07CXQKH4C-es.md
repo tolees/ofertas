@@ -3,6 +3,7 @@ layout: post
 title: '14" FHD | Core i5-8250U | 2X 4GB | 256GB al 28.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fSr4qzYrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fSr4qzYrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fSr4qzYrL._SL200_.jpg' ]
 comments: true
 category: ofertas

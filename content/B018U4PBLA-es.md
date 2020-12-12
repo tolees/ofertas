@@ -3,6 +3,7 @@ layout: post
 title: 'Cofan 10391041 - Rollo plástico cubretod al 50.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C9Z%2B7mXAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31C9Z%2B7mXAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C9Z%2B7mXAL._SL200_.jpg' ]
 comments: true
 category: ofertas

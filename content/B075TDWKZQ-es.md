@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.05 % en Trucco - Vestido casual para mujer  colo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n8kJplDbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31n8kJplDbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n8kJplDbL._SL200_.jpg' ]
 comments: true
 category: ofertas

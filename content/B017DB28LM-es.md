@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.45 % en L Oréal Paris Labial Infalible Matte Max'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31f4sWOgW7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31f4sWOgW7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31f4sWOgW7L._SL200_.jpg' ]
 comments: true
 category: ofertas

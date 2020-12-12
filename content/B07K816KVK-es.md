@@ -3,6 +3,7 @@ layout: post
 title: 'Afeitadora Eléctrica Rotativa Máquina de al 35.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fnvH6cf0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fnvH6cf0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fnvH6cf0L._SL200_.jpg' ]
 comments: true
 category: ofertas

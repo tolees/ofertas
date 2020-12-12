@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.73 % en S.Oliver Reloj Analógico de Cuarzo para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513LNzc8NYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513LNzc8NYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513LNzc8NYL._SL200_.jpg' ]
 comments: true
 category: ofertas

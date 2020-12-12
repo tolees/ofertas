@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Air Zoom Pegasus 35  Zapatillas de  al 41.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sh86GGYFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Sh86GGYFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sh86GGYFL._SL200_.jpg' ]
 comments: true
 category: ofertas

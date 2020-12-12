@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Luke - Jeans Hombre  azul  raven Blu al 66.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419oFNKSbBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419oFNKSbBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419oFNKSbBL._SL200_.jpg' ]
 comments: true
 category: ofertas

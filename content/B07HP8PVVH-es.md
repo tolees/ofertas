@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.08 % en Ballistix Sport LT BLS8G4D30BESBK - Memo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-gjikzY4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-gjikzY4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-gjikzY4L._SL200_.jpg' ]
 comments: true
 category: ofertas

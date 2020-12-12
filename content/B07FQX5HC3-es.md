@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.04 % en Clarks Un Trail Form  Zapatos de Cordone'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TBWvXCxAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TBWvXCxAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TBWvXCxAL._SL200_.jpg' ]
 comments: true
 category: ofertas

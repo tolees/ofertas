@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en HAWKERS · LAX · Gold · Rose Gold · Gafas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yLFyRX3aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yLFyRX3aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yLFyRX3aL._SL200_.jpg' ]
 comments: true
 category: ofertas

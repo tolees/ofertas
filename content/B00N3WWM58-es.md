@@ -3,6 +3,7 @@ layout: post
 title: 'Sony MDRZX110NAB.CE7 - Auricular Plegabl al 50.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VVLYI2oNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VVLYI2oNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VVLYI2oNL._SL200_.jpg' ]
 comments: true
 category: ofertas

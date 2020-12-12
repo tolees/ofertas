@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers by Gerli 39si308-302720  Botas D al 75.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v9dxZor8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51v9dxZor8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v9dxZor8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'LIU JO Shoes Karlie 14-Sneaker Met Leath al 64.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4152iZQBzaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4152iZQBzaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4152iZQBzaL._SL200_.jpg' ]
 comments: true
 category: ofertas

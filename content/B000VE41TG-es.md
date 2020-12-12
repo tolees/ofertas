@@ -3,6 +3,7 @@ layout: post
 title: 'Casio Reloj de Pulsera LTP-1282PD-7AEF al 34.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41trlIJ%2BtnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41trlIJ%2BtnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41trlIJ%2BtnL._SL200_.jpg' ]
 comments: true
 category: ofertas

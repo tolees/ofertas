@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.37 % en Auntwhale Bebé infante Asiento de cochec'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K9rdt8YAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K9rdt8YAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K9rdt8YAL._SL200_.jpg' ]
 comments: true
 category: ofertas

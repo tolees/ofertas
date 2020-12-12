@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Mujer Pantalón  Silver Ridge  C al 61.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rgx99ybbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rgx99ybbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rgx99ybbL._SL200_.jpg' ]
 comments: true
 category: ofertas

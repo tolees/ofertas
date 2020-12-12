@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Perfume para Mujeres - 50 m al 58.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aeVS998PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aeVS998PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aeVS998PL._SL200_.jpg' ]
 comments: true
 category: ofertas

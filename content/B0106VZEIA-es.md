@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Saturday Trail II Pantalón Conv al 40.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E45%2BZPzwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E45%2BZPzwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E45%2BZPzwL._SL200_.jpg' ]
 comments: true
 category: ofertas

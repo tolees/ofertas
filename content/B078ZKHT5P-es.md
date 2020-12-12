@@ -3,6 +3,7 @@ layout: post
 title: 'Supra Factor  Zapatillas para Hombre  Gr al 72.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SLUca%2BhuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SLUca%2BhuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SLUca%2BhuL._SL200_.jpg' ]
 comments: true
 category: ofertas

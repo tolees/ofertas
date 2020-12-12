@@ -3,6 +3,7 @@ layout: post
 title: 'Enfriador de vino BOQO Aireador Decantad al 63.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L19brGRIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L19brGRIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L19brGRIL._SL200_.jpg' ]
 comments: true
 category: ofertas

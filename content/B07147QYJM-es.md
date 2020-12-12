@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans London Ramsy Bootie  Botas pa al 74.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Tjst8hyEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Tjst8hyEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Tjst8hyEL._SL200_.jpg' ]
 comments: true
 category: ofertas

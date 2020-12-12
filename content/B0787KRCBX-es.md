@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Irvington II Chukka LTR WP  Bot al 70.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DlUEWqi3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DlUEWqi3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DlUEWqi3L._SL200_.jpg' ]
 comments: true
 category: ofertas

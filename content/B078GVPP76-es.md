@@ -3,6 +3,7 @@ layout: post
 title: 'Kimba Cama de Viaje de Lujo y Lavable pa al 62.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51F5bZ32zQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51F5bZ32zQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51F5bZ32zQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Amp XT Wn s  Zapatillas de Deporte  al 55.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z4lbUwXRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z4lbUwXRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z4lbUwXRL._SL200_.jpg' ]
 comments: true
 category: ofertas

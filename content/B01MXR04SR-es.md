@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 027cc1b032  Pantalones par al 74.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ifO206k5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ifO206k5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ifO206k5L._SL200_.jpg' ]
 comments: true
 category: ofertas

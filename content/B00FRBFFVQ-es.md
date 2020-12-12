@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.18 % en Pierre Lannier Reloj de Pulsera 212D434'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51z0ZOvbbpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51z0ZOvbbpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51z0ZOvbbpL._SL200_.jpg' ]
 comments: true
 category: ofertas

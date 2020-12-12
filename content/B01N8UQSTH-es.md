@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.01 % en 58MM Fisheye - [Ultra Claro] Beschoi Len'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dJu8PsA7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dJu8PsA7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dJu8PsA7L._SL200_.jpg' ]
 comments: true
 category: ofertas

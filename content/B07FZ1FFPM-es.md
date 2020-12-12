@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Reebok Royal Cljog 2 Kc Zapatilla al 36.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B9cq6sjEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B9cq6sjEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B9cq6sjEL._SL200_.jpg' ]
 comments: true
 category: ofertas

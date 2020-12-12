@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.86 % en Roll Road India'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Rho9NcxgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Rho9NcxgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Rho9NcxgL._SL200_.jpg' ]
 comments: true
 category: ofertas

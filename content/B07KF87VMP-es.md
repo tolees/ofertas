@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Housemark Polo  Negro  Mineral Bl al 26.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xg4uMpe9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xg4uMpe9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xg4uMpe9L._SL200_.jpg' ]
 comments: true
 category: ofertas

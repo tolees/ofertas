@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 86082  Bolso de mano para Mujer   Bl al 64.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ziCFnSxxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ziCFnSxxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ziCFnSxxL._SL200_.jpg' ]
 comments: true
 category: ofertas

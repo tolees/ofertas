@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.77 % en Earthfall - Deluxe Edition'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ffX8XMTcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ffX8XMTcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ffX8XMTcL._SL200_.jpg' ]
 comments: true
 category: ofertas

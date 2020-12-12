@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.92 % en Geox Jr Snake Moc Boy a  Mocasines para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U00AN4dsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U00AN4dsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U00AN4dsL._SL200_.jpg' ]
 comments: true
 category: ofertas

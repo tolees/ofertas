@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.93 % en Marcapiuma - Almohada de Látex Modelo Ja'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LWi8r6e5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LWi8r6e5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LWi8r6e5L._SL200_.jpg' ]
 comments: true
 category: ofertas

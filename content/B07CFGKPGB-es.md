@@ -3,6 +3,7 @@ layout: post
 title: 'Rieker - H1325  Bolso Mujer  Gris  Rauch al 50.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B7NqvF8rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B7NqvF8rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B7NqvF8rL._SL200_.jpg' ]
 comments: true
 category: ofertas

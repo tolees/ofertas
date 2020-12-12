@@ -3,6 +3,7 @@ layout: post
 title: 'Bourjois City Radiance Base de Maquillaj al 53.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NXNa1-v5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NXNa1-v5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NXNa1-v5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlboomerang 3/4 Stud Unicorn Jrs   al 59.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WJ5Ba8MJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WJ5Ba8MJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WJ5Ba8MJL._SL200_.jpg' ]
 comments: true
 category: ofertas

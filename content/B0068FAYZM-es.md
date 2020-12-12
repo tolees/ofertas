@@ -3,6 +3,7 @@ layout: post
 title: 'Continental  0181881 -  Cámara de Ciclis al 34.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bz0IaPC8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bz0IaPC8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bz0IaPC8L._SL200_.jpg' ]
 comments: true
 category: ofertas

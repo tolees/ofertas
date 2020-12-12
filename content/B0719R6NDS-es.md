@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Lido Liney Mod 21 Bañador  Hombre al 56.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lhgZHmtjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lhgZHmtjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lhgZHmtjL._SL200_.jpg' ]
 comments: true
 category: ofertas

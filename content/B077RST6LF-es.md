@@ -3,6 +3,7 @@ layout: post
 title: 'find. Sandalias Planas de Tiras Mujer  V al 61.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319iMKC3u1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319iMKC3u1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319iMKC3u1L._SL200_.jpg' ]
 comments: true
 category: ofertas

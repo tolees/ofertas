@@ -3,6 +3,7 @@ layout: post
 title: 'Vila Clothes Viril L/s V-Neck Knit Top-N al 54.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vy9VrBd7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vy9VrBd7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vy9VrBd7L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Coast Jenn Vestido  Negro  Black   38  T al 83.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rq%2BoczLKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rq%2BoczLKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rq%2BoczLKL._SL200_.jpg' ]
 comments: true
 category: ofertas

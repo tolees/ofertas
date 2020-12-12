@@ -3,6 +3,7 @@ layout: post
 title: 'FITIBEST Sujetador sin Tirantes Invisibl al 40.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DHw5hz8KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DHw5hz8KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DHw5hz8KL._SL200_.jpg' ]
 comments: true
 category: ofertas

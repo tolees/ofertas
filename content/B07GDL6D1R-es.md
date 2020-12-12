@@ -3,6 +3,7 @@ layout: post
 title: 'OxyLED luces de armario luces LED inalám al 78.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tArUSK6vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tArUSK6vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tArUSK6vL._SL200_.jpg' ]
 comments: true
 category: ofertas

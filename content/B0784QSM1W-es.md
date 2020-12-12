@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 028ee1i044 suéter  Rosa  Light Pi al 60.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vZx4hfSYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vZx4hfSYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vZx4hfSYL._SL200_.jpg' ]
 comments: true
 category: ofertas

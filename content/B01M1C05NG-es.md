@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorsapa Sweat Crew Neck  Su al 52.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y6%2BQOihBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y6%2BQOihBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y6%2BQOihBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy Tahiti Vi  Zapatos de Playa y Pisci al 45.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uzt2kUFIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uzt2kUFIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uzt2kUFIL._SL200_.jpg' ]
 comments: true
 category: ofertas

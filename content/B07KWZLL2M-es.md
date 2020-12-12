@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.54 % en TOPsic Garmin Fenix 5 Banda  Silicona Re'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FNiLAWs9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FNiLAWs9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FNiLAWs9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Hugo Boss Orange 1513417 - Reloj de puls al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RJdvpy47L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RJdvpy47L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RJdvpy47L._SL200_.jpg' ]
 comments: true
 category: ofertas

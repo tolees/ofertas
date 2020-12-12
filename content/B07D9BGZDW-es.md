@@ -3,6 +3,7 @@ layout: post
 title: 'Nike FCB Y Nk BRT Stad JSY SS Hm Camiset al 47.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TTTKzGJuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TTTKzGJuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TTTKzGJuL._SL200_.jpg' ]
 comments: true
 category: ofertas

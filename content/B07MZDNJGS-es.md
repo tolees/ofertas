@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Core Cargo Lite Short Pantalone al 38.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v1Z835DML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51v1Z835DML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v1Z835DML._SL200_.jpg' ]
 comments: true
 category: ofertas

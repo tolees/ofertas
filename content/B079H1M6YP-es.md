@@ -3,6 +3,7 @@ layout: post
 title: 'Tom Tailor 5880806  Botas Clasicas para  al 50.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b%2BXqBc--L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b%2BXqBc--L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b%2BXqBc--L._SL200_.jpg' ]
 comments: true
 category: ofertas

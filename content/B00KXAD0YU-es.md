@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.53 % en Under Armour UA Raid SS Camiseta  Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sCMH6%2B6QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sCMH6%2B6QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sCMH6%2B6QL._SL200_.jpg' ]
 comments: true
 category: ofertas

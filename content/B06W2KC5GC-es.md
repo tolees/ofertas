@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Star Wars - Chewbacca  75530  al 34.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61WV3MwvJ7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61WV3MwvJ7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61WV3MwvJ7L._SL200_.jpg' ]
 comments: true
 category: ofertas

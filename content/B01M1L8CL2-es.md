@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.52 % en ESPRIT 116EE1I030  suéter Mujer  Multico'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Nsqhi6xkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Nsqhi6xkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Nsqhi6xkL._SL200_.jpg' ]
 comments: true
 category: ofertas

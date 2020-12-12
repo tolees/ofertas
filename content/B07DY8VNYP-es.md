@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.21 % en Quiksilver Molokai Nitro  Zapatos de Pla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W0OVBwEwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W0OVBwEwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W0OVBwEwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en BenQ GL2250HM - Monitor de 21 5" Full HD'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413AKFl-WNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413AKFl-WNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413AKFl-WNL._SL200_.jpg' ]
 comments: true
 category: ofertas

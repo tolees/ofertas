@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Pursuit Full Zip Hoody S al 59.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JyVsJHSQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JyVsJHSQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JyVsJHSQL._SL200_.jpg' ]
 comments: true
 category: ofertas

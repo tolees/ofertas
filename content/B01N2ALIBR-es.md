@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.70 % en Severin Barbacoa Grill PG 8528 - Barbaco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vhihyQPiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vhihyQPiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vhihyQPiL._SL200_.jpg' ]
 comments: true
 category: ofertas

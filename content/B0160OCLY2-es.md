@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.76 % en Lico - Bailarinas de Cuero Niñas  Color '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gIb-T%2BcIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gIb-T%2BcIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gIb-T%2BcIL._SL200_.jpg' ]
 comments: true
 category: ofertas

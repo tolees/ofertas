@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.20 % en MARIA MARE Mariamare Bianca  Shopper par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H6LA%2BNioL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H6LA%2BNioL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H6LA%2BNioL._SL200_.jpg' ]
 comments: true
 category: ofertas

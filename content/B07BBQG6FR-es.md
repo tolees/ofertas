@@ -3,6 +3,7 @@ layout: post
 title: 'Corsair Vengeance 16 GB  DDR4  2666 MHz  al 27.58 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B07BBQG6FR.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B07BBQG6FR.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B07BBQG6FR.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Beurer il-35 - Lámpara infrarrojos  150  al 33.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-VpqIblgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-VpqIblgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-VpqIblgL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.36 % en New Balance 99 - Zapatillas de Running p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gp4Zjt4tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gp4Zjt4tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gp4Zjt4tL._SL200_.jpg' ]
 comments: true
 category: ofertas

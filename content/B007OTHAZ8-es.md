@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.87 % en JOSE CUERVO REPOSADO DORADO 1L.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317Cj0do5sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317Cj0do5sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317Cj0do5sL._SL200_.jpg' ]
 comments: true
 category: ofertas

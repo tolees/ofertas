@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.82 % en Vero Moda Vmmattea LS O-Neck Blouse  sué'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eME-v1DcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eME-v1DcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eME-v1DcL._SL200_.jpg' ]
 comments: true
 category: ofertas

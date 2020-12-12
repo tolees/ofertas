@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.37 % en Under Armour HG Armour 2.0 Long Short Pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WuY7nj9RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WuY7nj9RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WuY7nj9RL._SL200_.jpg' ]
 comments: true
 category: ofertas

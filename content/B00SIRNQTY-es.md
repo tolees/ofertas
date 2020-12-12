@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.26 % en b.young Lucy V Neck-Jersey Mujer  Blau  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P8%2BaccvEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51P8%2BaccvEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P8%2BaccvEL._SL200_.jpg' ]
 comments: true
 category: ofertas

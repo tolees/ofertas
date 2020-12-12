@@ -3,6 +3,7 @@ layout: post
 title: 'Hilfiger Denim Logo Classic Tommy Jeans  al 51.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z5BKwSWtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z5BKwSWtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Z5BKwSWtL._SL200_.jpg' ]
 comments: true
 category: ofertas

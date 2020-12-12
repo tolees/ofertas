@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.90 % en BOSS Marc Rs Colours Cc  Calcetines Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419SnFW8zBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419SnFW8zBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419SnFW8zBL._SL200_.jpg' ]
 comments: true
 category: ofertas

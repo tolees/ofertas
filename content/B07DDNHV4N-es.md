@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Popcat  Zapatos de Playa y Piscina  al 35.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nVYx1rTEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nVYx1rTEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nVYx1rTEL._SL200_.jpg' ]
 comments: true
 category: ofertas

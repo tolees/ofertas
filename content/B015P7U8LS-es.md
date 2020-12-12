@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.44 % en Concord  Silla de coche grupo 3 Isofix  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CqdYkeMVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CqdYkeMVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CqdYkeMVL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lovable Open Modal  Pijama Mujer  Rojo   al 48.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Vk6UV-WRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vk6UV-WRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Vk6UV-WRL._SL200_.jpg' ]
 comments: true
 category: ofertas

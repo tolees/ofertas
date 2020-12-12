@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.97 % en Smiffys Disfraz Deluxe de Cazadora Zombi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T3CdnHCGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T3CdnHCGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T3CdnHCGL._SL200_.jpg' ]
 comments: true
 category: ofertas

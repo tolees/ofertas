@@ -3,6 +3,7 @@ layout: post
 title: 'KRAFTWERK 3787-61pzs. 1/4 pulgada al 85.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51667qVCPFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51667qVCPFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51667qVCPFL._SL200_.jpg' ]
 comments: true
 category: ofertas

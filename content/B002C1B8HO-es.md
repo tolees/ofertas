@@ -3,6 +3,7 @@ layout: post
 title: 'Weider Thermo - 120 Capsulas al 37.48 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B002C1B8HO.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B002C1B8HO.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B002C1B8HO.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

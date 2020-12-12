@@ -3,6 +3,7 @@ layout: post
 title: 'American Tourister Sonicsurfer - Upright al 40.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312eZ0t-SNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312eZ0t-SNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312eZ0t-SNL._SL200_.jpg' ]
 comments: true
 category: ofertas

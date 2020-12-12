@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.11 % en Dockers by Gerli 42sw602-700100  Zapatil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CN9xcwdIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CN9xcwdIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CN9xcwdIL._SL200_.jpg' ]
 comments: true
 category: ofertas

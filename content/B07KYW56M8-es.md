@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel C1Bcc Caja Mallas Cargada  Jer al 65.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412Vm0bMIHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412Vm0bMIHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412Vm0bMIHL._SL200_.jpg' ]
 comments: true
 category: ofertas

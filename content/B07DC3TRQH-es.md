@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Deauville Sport Optical W al 35.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41swD%2BpJZ4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41swD%2BpJZ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41swD%2BpJZ4L._SL200_.jpg' ]
 comments: true
 category: ofertas

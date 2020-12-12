@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.97 % en Braun Series 5 5090cc - Afeitadora eléct'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I8ywtxoQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I8ywtxoQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I8ywtxoQL._SL200_.jpg' ]
 comments: true
 category: ofertas

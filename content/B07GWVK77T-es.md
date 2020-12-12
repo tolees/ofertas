@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.03 % en Hurley M Surf Check All Day Suéter  Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fMiDu1c2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fMiDu1c2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fMiDu1c2L._SL200_.jpg' ]
 comments: true
 category: ofertas

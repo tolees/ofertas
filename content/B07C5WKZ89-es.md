@@ -3,6 +3,7 @@ layout: post
 title: 'Batidora de Vaso SURPEER Mini Batidora S al 60.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j5VZukZhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51j5VZukZhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j5VZukZhL._SL200_.jpg' ]
 comments: true
 category: ofertas

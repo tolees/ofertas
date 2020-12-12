@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Lee Western Ss Shirt  Camisa Hombre  al 39.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i9f54wezL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51i9f54wezL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i9f54wezL._SL200_.jpg' ]
 comments: true
 category: ofertas

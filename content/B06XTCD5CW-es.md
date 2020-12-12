@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Malibu Beach S  Zapatillas para M al 31.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jxv5pVASL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jxv5pVASL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jxv5pVASL._SL200_.jpg' ]
 comments: true
 category: ofertas

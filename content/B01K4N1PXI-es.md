@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.85 % en Sennheiser HD 4.30i - Microauriculares d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tgxtUwz1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tgxtUwz1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tgxtUwz1L._SL200_.jpg' ]
 comments: true
 category: ofertas

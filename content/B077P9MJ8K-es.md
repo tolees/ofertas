@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Scuba III  Zapatillas para Ho al 75.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rycwDPBJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rycwDPBJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rycwDPBJL._SL200_.jpg' ]
 comments: true
 category: ofertas

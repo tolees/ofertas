@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.64 % en 3 Pommes 3n31134 Dress  Vestido para Niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mKBLinNhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mKBLinNhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mKBLinNhL._SL200_.jpg' ]
 comments: true
 category: ofertas

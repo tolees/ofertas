@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fuel Core Coast v4  Zapatill al 58.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-S64H28dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-S64H28dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-S64H28dL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.02 % en Luz de Libro LED [Nueva Versión]  Toolov'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yHdBVZ14L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yHdBVZ14L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yHdBVZ14L._SL200_.jpg' ]
 comments: true
 category: ofertas

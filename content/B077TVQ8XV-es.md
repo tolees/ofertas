@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Flexile  Zapatillas de Deporte pa al 39.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414AMZrSXUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414AMZrSXUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414AMZrSXUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 8863792  Camisa para Mujer   al 57.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tpKtlq1QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tpKtlq1QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tpKtlq1QL._SL200_.jpg' ]
 comments: true
 category: ofertas

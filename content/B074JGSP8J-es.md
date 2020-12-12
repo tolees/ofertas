@@ -3,6 +3,7 @@ layout: post
 title: 'Fred Perry Twin Tipped Shirt  Polo para  al 51.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Eua1-LTmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Eua1-LTmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Eua1-LTmL._SL200_.jpg' ]
 comments: true
 category: ofertas

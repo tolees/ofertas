@@ -3,6 +3,7 @@ layout: post
 title: 'Recoil - Pistola Spitfire RK45  Juego de al 62.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s8jTrqtLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51s8jTrqtLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s8jTrqtLL._SL200_.jpg' ]
 comments: true
 category: ofertas

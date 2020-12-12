@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.99 % en Aigostar Spin 30HLV - Batidora de vaso a'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412c3WvgeEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412c3WvgeEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412c3WvgeEL._SL200_.jpg' ]
 comments: true
 category: ofertas

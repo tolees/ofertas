@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch 2 609 256 989 - Juego variado Uneo al 42.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XQOkqlBoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XQOkqlBoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XQOkqlBoL._SL200_.jpg' ]
 comments: true
 category: ofertas

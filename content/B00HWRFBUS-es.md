@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.14 % en Maurer 19041415 Linterna LED  72  con Co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JN4ApoGfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JN4ApoGfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JN4ApoGfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.41 % en Nike Viale  Zapatillas para Hombre  Negr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JUriJA3FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JUriJA3FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JUriJA3FL._SL200_.jpg' ]
 comments: true
 category: ofertas

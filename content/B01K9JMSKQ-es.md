@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Kendra Sienna  Zapatos de Tacón p al 78.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51af8ZrpXZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51af8ZrpXZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51af8ZrpXZL._SL200_.jpg' ]
 comments: true
 category: ofertas

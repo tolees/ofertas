@@ -3,6 +3,7 @@ layout: post
 title: 'COACH Coach Tasche 28631 OLBLK Bolso Ban al 29.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x9YP9AZLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x9YP9AZLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x9YP9AZLL._SL200_.jpg' ]
 comments: true
 category: ofertas

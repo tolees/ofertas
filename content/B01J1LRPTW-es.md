@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Crocband II Sandal Kids  Sandalias al 50.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kptmCz5mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kptmCz5mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kptmCz5mL._SL200_.jpg' ]
 comments: true
 category: ofertas

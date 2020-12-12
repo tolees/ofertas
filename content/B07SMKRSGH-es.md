@@ -3,6 +3,7 @@ layout: post
 title: 'InnovaGoods Depiladora Facial Indolora c al 88.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Km9CFGwEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Km9CFGwEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Km9CFGwEL._SL200_.jpg' ]
 comments: true
 category: ofertas

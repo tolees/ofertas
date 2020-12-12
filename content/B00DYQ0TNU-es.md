@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.85 % en Sheridan s Coffee layered Likör - 1 x 0.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417PWbyqjyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417PWbyqjyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417PWbyqjyL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel 00SV9U  Bañador para Hombre  Azul al 58.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ICJzOg5PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ICJzOg5PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ICJzOg5PL._SL200_.jpg' ]
 comments: true
 category: ofertas

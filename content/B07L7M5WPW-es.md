@@ -3,6 +3,7 @@ layout: post
 title: 'DAMIGRAM Bluetooth Karaoke Micrófono  Po al 84.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QNNFG5lbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QNNFG5lbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QNNFG5lbL._SL200_.jpg' ]
 comments: true
 category: ofertas

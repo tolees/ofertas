@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.44 % en Reebok Royal CMPLT 2 PX  Zapatillas de D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xNH9KFV%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xNH9KFV%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xNH9KFV%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

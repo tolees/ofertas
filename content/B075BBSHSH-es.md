@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.39 % en Calvin Klein - Metropolitan Large Zip Ar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510-ZBotcFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510-ZBotcFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510-ZBotcFL._SL200_.jpg' ]
 comments: true
 category: ofertas

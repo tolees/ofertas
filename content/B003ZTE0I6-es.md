@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.54 % en Nike Air Precision II Aa7069-001  Zapato'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BMLOs8QgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BMLOs8QgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BMLOs8QgL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid Unisex adulto PLD 6018/S 94 SKF al 71.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31U9LFEa2RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31U9LFEa2RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31U9LFEa2RL._SL200_.jpg' ]
 comments: true
 category: ofertas

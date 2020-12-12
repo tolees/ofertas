@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.14 % en Bascula Cocina Digital SURPEER Peso Coci'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LrB4kJ9GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LrB4kJ9GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LrB4kJ9GL._SL200_.jpg' ]
 comments: true
 category: ofertas

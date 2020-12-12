@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.30 % en Pack Conjuring: Annabelle 1 + 2 + Expedi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T5wUENuML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51T5wUENuML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T5wUENuML._SL200_.jpg' ]
 comments: true
 category: ofertas

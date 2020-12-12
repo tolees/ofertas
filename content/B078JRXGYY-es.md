@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.00 % en Swatch Reloj Analógico para Hombre de Cu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uMqVU5UAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uMqVU5UAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uMqVU5UAL._SL200_.jpg' ]
 comments: true
 category: ofertas

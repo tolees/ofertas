@@ -3,6 +3,7 @@ layout: post
 title: 'Izas Lee Pantalón Corto  Mujer  Gris  Da al 72.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41agIC7U8uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41agIC7U8uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41agIC7U8uL._SL200_.jpg' ]
 comments: true
 category: ofertas

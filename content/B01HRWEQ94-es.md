@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Unity-Go Big  Entrenadores para al 64.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gqHy7JuOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gqHy7JuOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gqHy7JuOL._SL200_.jpg' ]
 comments: true
 category: ofertas

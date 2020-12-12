@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.20 % en Munich G-3 Kid Glow  Zapatillas de Depor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NoNr%2BpavL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NoNr%2BpavL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NoNr%2BpavL._SL200_.jpg' ]
 comments: true
 category: ofertas

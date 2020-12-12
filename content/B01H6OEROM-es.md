@@ -3,6 +3,7 @@ layout: post
 title: 'Merrell Ridgepass Bolt  Zapatos de Low R al 66.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gg4TqhqFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gg4TqhqFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gg4TqhqFL._SL200_.jpg' ]
 comments: true
 category: ofertas

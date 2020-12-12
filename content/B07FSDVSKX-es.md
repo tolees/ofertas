@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Funny Dream  Zapatos de Cordones  al 76.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GR8b4gMeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GR8b4gMeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GR8b4gMeL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'bugatti 3.42658E+11  Zapatillas para Hom al 61.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p--sOXOAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p--sOXOAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p--sOXOAL._SL200_.jpg' ]
 comments: true
 category: ofertas

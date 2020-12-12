@@ -3,6 +3,7 @@ layout: post
 title: 'Ultrasport F-Rider Entrenamiento fitness al 25.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31m24KN4yML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31m24KN4yML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31m24KN4yML._SL200_.jpg' ]
 comments: true
 category: ofertas

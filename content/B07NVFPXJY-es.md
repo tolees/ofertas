@@ -3,6 +3,7 @@ layout: post
 title: 'SUAOKI P6 arrancador de Coche 800A Bater al 39.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fcv8MB7jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fcv8MB7jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fcv8MB7jL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Newskill Atami Speed Tamaño L - Alfombri al 40.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319%2BVa7EgEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319%2BVa7EgEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319%2BVa7EgEL._SL200_.jpg' ]
 comments: true
 category: ofertas

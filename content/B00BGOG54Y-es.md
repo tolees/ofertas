@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.07 % en Altabebe AL7010-03 - Parasol con protecc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IK9a6Oq5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IK9a6Oq5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IK9a6Oq5L._SL200_.jpg' ]
 comments: true
 category: ofertas

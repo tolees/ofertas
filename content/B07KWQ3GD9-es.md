@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Tokyo T-Shirt  Hombre  Whit al 38.63 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

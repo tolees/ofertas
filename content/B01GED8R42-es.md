@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.86 % en Black Crevice Chaqueta Azul Marino ES 58'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510pZbZq4LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510pZbZq4LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510pZbZq4LL._SL200_.jpg' ]
 comments: true
 category: ofertas

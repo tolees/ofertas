@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.67 % en Clarins Lift Fermete Crema 200 ml'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41teMi2UBCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41teMi2UBCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41teMi2UBCL._SL200_.jpg' ]
 comments: true
 category: ofertas

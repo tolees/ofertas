@@ -3,6 +3,7 @@ layout: post
 title: 'KEXIN 64GB Memoria USB 2.0 Pendrive 64GB al 33.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BVYCE3J%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BVYCE3J%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BVYCE3J%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Wmns Ebernon Mid Prem  Zapatos de B al 69.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z0vGj2xpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z0vGj2xpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z0vGj2xpL._SL200_.jpg' ]
 comments: true
 category: ofertas

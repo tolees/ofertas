@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.38 % en Armani Exchange Knitted Lace Up Sneaker '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UGTaNFlML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UGTaNFlML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UGTaNFlML._SL200_.jpg' ]
 comments: true
 category: ofertas

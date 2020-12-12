@@ -3,6 +3,7 @@ layout: post
 title: 'Merrell Vapor Guante 3 Zapatilla De Corr al 44.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416BJL3x91L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416BJL3x91L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416BJL3x91L._SL200_.jpg' ]
 comments: true
 category: ofertas

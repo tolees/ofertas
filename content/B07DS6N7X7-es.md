@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.91 % en Leebei Alfombras de Cocina Alfombrilla d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PeL1GrsaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PeL1GrsaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PeL1GrsaL._SL200_.jpg' ]
 comments: true
 category: ofertas

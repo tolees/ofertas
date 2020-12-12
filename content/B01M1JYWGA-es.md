@@ -3,6 +3,7 @@ layout: post
 title: 'MONTIS ALPIZ Air 30 - Mochila de Senderi al 31.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416ooEUhaaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416ooEUhaaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416ooEUhaaL._SL200_.jpg' ]
 comments: true
 category: ofertas

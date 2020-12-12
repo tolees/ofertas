@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.89 % en Ulla Popken Longjacke Mit Kapuze Chaquet'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UqyPUlCcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UqyPUlCcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UqyPUlCcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.43 % en Lampara de Pie 3 en 1  72 LED Ojos-Prote'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZIJbd8pEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZIJbd8pEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZIJbd8pEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Varta High Energy 4906 - Baterías  AA 4B al 59.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MpLVw74DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MpLVw74DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MpLVw74DL._SL200_.jpg' ]
 comments: true
 category: ofertas

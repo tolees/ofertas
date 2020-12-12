@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.03 % en Skechers Dynamight 2.0 to Eye  Zapatilla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FWxb2-7KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FWxb2-7KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FWxb2-7KL._SL200_.jpg' ]
 comments: true
 category: ofertas

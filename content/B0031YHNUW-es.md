@@ -3,6 +3,7 @@ layout: post
 title: 'Fellowes Apex - Pack de 100 fundas de pl al 33.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TDKPbKUEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TDKPbKUEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TDKPbKUEL._SL200_.jpg' ]
 comments: true
 category: ofertas

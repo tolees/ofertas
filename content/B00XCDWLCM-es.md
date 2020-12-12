@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.28 % en SADES SA906 7.1 Stereo Surround Sound Pr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YZ3qMSewL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YZ3qMSewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YZ3qMSewL._SL200_.jpg' ]
 comments: true
 category: ofertas

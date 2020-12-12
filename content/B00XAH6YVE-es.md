@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Fixpray 7203475000 - Laca normal  400 ml'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dE9Za4V1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dE9Za4V1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dE9Za4V1L._SL200_.jpg' ]
 comments: true
 category: ofertas

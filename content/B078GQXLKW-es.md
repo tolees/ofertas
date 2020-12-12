@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.62 % en Ultrasport Advanced Loke Chaqueta Inform'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nmG3OQCfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nmG3OQCfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nmG3OQCfL._SL200_.jpg' ]
 comments: true
 category: ofertas

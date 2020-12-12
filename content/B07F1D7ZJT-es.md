@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.90 % en Armani Exchange - Womans Shopping Bag  B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410jDZjX0-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410jDZjX0-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410jDZjX0-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.08 % en The North Face Horizon Peak Pantalón Cor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410WLLtqyrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410WLLtqyrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410WLLtqyrL._SL200_.jpg' ]
 comments: true
 category: ofertas

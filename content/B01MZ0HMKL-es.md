@@ -3,6 +3,7 @@ layout: post
 title: 'Break and Walk HV217321  Sandalias con C al 67.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4177Vq6seDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4177Vq6seDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4177Vq6seDL._SL200_.jpg' ]
 comments: true
 category: ofertas

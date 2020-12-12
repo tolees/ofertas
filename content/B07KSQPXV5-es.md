@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.75 % en Columbia Powder Lite - Chaqueta con capu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bDDBmqMrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bDDBmqMrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bDDBmqMrL._SL200_.jpg' ]
 comments: true
 category: ofertas

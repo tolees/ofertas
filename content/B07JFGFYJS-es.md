@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Tf3049 Camiseta  Marfil  Napolit al 49.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h2pm8ocmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h2pm8ocmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h2pm8ocmL._SL200_.jpg' ]
 comments: true
 category: ofertas

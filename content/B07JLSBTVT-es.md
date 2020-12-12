@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48921  Sandalias con Plataforma para al 47.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413ByzYLrXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413ByzYLrXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413ByzYLrXL._SL200_.jpg' ]
 comments: true
 category: ofertas

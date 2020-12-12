@@ -3,6 +3,7 @@ layout: post
 title: 'Asus AMD AM4 X370 ATX - Placa con ilumin al 32.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KYJqydi1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KYJqydi1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KYJqydi1L._SL200_.jpg' ]
 comments: true
 category: ofertas

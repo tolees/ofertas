@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.50 % en BOSS Green - Pixel R_ns Zip  Shoppers y '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514uRNq6rML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514uRNq6rML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514uRNq6rML._SL200_.jpg' ]
 comments: true
 category: ofertas

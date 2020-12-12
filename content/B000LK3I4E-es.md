@@ -3,6 +3,7 @@ layout: post
 title: 'Rosa Faia 5490  Sujetador para Mujer  Bl al 82.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Y6jiaE30L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y6jiaE30L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Y6jiaE30L._SL200_.jpg' ]
 comments: true
 category: ofertas

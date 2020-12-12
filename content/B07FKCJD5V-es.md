@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.60 % en The North Face Kanga Riñonera  Kelp Tan '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413P1N3%2B8zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413P1N3%2B8zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413P1N3%2B8zL._SL200_.jpg' ]
 comments: true
 category: ofertas

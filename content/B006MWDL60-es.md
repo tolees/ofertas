@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.14 % en Gardena 8872-20 Recortasetos  18 W  18 V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lzKXTkQDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lzKXTkQDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lzKXTkQDL._SL200_.jpg' ]
 comments: true
 category: ofertas

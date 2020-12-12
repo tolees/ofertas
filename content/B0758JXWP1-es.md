@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.02 % en Clarks Vennor Walk  Zapatos de Cordones '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z7S%2BNLi1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z7S%2BNLi1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z7S%2BNLi1L._SL200_.jpg' ]
 comments: true
 category: ofertas

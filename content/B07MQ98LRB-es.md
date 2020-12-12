@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.63 % en Multímetro Digital Profesional  LOMVUM D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S6bCQYL4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51S6bCQYL4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S6bCQYL4L._SL200_.jpg' ]
 comments: true
 category: ofertas

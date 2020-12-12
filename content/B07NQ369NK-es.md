@@ -3,6 +3,7 @@ layout: post
 title: 'SILIK Womens Sports Gym Shorts Entrenami al 48.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312WDfM6yQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312WDfM6yQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312WDfM6yQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star RAW Rovulc Mid Aop  Zapatillas Al al 41.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JsFf56WYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JsFf56WYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JsFf56WYL._SL200_.jpg' ]
 comments: true
 category: ofertas

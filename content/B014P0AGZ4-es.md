@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.58 % en Pepe Jeans London Cash  Vaqueros para Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d1TTMa%2BiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d1TTMa%2BiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d1TTMa%2BiL._SL200_.jpg' ]
 comments: true
 category: ofertas

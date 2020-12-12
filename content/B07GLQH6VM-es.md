@@ -3,6 +3,7 @@ layout: post
 title: 'Zanmini Decantador Eléctrico de Vino  De al 26.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qxd2-fITL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qxd2-fITL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qxd2-fITL._SL200_.jpg' ]
 comments: true
 category: ofertas

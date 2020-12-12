@@ -3,6 +3,7 @@ layout: post
 title: 'Wangel Adhesivo Fuerte Doble Toalleros d al 60.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T-AQaNhRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51T-AQaNhRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T-AQaNhRL._SL200_.jpg' ]
 comments: true
 category: ofertas

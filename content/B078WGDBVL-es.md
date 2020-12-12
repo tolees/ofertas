@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.59 % en The North Face Cyclone 2 HDY Chaqueta co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y6PPAzztL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y6PPAzztL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y6PPAzztL._SL200_.jpg' ]
 comments: true
 category: ofertas

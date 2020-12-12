@@ -3,6 +3,7 @@ layout: post
 title: 'I-D-C CID Vd-pe15301t  Camiseta de Tiran al 36.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DZl1IMcRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DZl1IMcRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DZl1IMcRL._SL200_.jpg' ]
 comments: true
 category: ofertas

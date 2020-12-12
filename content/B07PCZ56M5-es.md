@@ -3,6 +3,7 @@ layout: post
 title: 'RIP CURL Switch 19   Boardshort Bañador  al 46.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KK5ZiiYYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KK5ZiiYYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KK5ZiiYYL._SL200_.jpg' ]
 comments: true
 category: ofertas

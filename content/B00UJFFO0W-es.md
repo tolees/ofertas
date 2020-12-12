@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.71 % en Neutrogena Visible Renew Crema De Manos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G5wchTi0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G5wchTi0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G5wchTi0L._SL200_.jpg' ]
 comments: true
 category: ofertas

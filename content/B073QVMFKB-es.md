@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Gilman Lace  Zapatos de Cordones  al 50.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311d-3ZXs8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311d-3ZXs8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311d-3ZXs8L._SL200_.jpg' ]
 comments: true
 category: ofertas

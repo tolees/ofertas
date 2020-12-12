@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.51 % en Puma Nrgy Dynamo  Zapatillas de Cross pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F1cQa4AiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F1cQa4AiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F1cQa4AiL._SL200_.jpg' ]
 comments: true
 category: ofertas

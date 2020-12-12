@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.99 % en Sailor Moon- Figura  Bandai BDISM856104 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l8PwK9LTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l8PwK9LTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l8PwK9LTL._SL200_.jpg' ]
 comments: true
 category: ofertas

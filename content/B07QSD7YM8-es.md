@@ -3,6 +3,7 @@ layout: post
 title: 'BRONAX Zapatillas Hombres Deporte Runnin al 61.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51idJZ3%2BJpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51idJZ3%2BJpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51idJZ3%2BJpL._SL200_.jpg' ]
 comments: true
 category: ofertas

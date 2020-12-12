@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield DS EC+Strech Print Camisa Ca al 61.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xPaovg3uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xPaovg3uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xPaovg3uL._SL200_.jpg' ]
 comments: true
 category: ofertas

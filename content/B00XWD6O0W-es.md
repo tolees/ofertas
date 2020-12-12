@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.66 % en Balmain 1015800 Homme Agua de Colonia - '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hQcFNnukL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hQcFNnukL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hQcFNnukL._SL200_.jpg' ]
 comments: true
 category: ofertas

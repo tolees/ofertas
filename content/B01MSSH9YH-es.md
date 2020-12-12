@@ -3,6 +3,7 @@ layout: post
 title: 'AEG STM3400 Batidora de mano  600W  2 ve al 42.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316LztgU-LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316LztgU-LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316LztgU-LL._SL200_.jpg' ]
 comments: true
 category: ofertas

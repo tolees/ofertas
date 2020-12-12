@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.23 % en Joma Katy Camiseta de tirantes  Mujer  A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZuZEiQ62L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZuZEiQ62L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZuZEiQ62L._SL200_.jpg' ]
 comments: true
 category: ofertas

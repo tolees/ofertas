@@ -3,6 +3,7 @@ layout: post
 title: 'Pulsera de Reloj Flor de Aleación Diaman al 44.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a24c9jA7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51a24c9jA7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a24c9jA7L._SL200_.jpg' ]
 comments: true
 category: ofertas

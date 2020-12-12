@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.41 % en Geox Jr Sofia J  Zapatos de Cordones Der'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414arB9NFuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414arB9NFuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414arB9NFuL._SL200_.jpg' ]
 comments: true
 category: ofertas

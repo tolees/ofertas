@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Ignite Evoknit Lo VR  Zapatillas De al 63.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PxZUC50nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PxZUC50nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PxZUC50nL._SL200_.jpg' ]
 comments: true
 category: ofertas

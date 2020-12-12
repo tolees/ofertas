@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Cash Short PM800074  Bañador  al 40.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4152uDQpjvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4152uDQpjvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4152uDQpjvL._SL200_.jpg' ]
 comments: true
 category: ofertas

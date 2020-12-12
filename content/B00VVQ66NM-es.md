@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.12 % en Samsung EF-BT550BSEG - Protector tipo li'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VG3--areL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VG3--areL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VG3--areL._SL200_.jpg' ]
 comments: true
 category: ofertas

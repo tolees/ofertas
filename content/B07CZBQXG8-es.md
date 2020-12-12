@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.95 % en Under Armour Boy s Printed Blitzing 3.0 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LyktcqrOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LyktcqrOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LyktcqrOL._SL200_.jpg' ]
 comments: true
 category: ofertas

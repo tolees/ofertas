@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.07 % en Quiksilver Grebe  Botas Slouch para Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414kQNu1qhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414kQNu1qhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414kQNu1qhL._SL200_.jpg' ]
 comments: true
 category: ofertas

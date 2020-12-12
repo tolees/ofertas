@@ -3,6 +3,7 @@ layout: post
 title: 'Erima GmbH Razor 2.0 Polo de Tenis  Unis al 34.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hw89G3RFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hw89G3RFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hw89G3RFL._SL200_.jpg' ]
 comments: true
 category: ofertas

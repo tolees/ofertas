@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.59 % en Movil Antigolpes  Blackview BV9000 Smart'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410DX%2B-638L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410DX%2B-638L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410DX%2B-638L._SL200_.jpg' ]
 comments: true
 category: ofertas

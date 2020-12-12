@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.78 % en HHG Vestido Blanco/Negro S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fQBowEk%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fQBowEk%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fQBowEk%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

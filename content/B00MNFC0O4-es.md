@@ -3,6 +3,7 @@ layout: post
 title: 'Swiss Military Hanowa 06-7230.04.007 - R al 40.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O1OjYxTBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O1OjYxTBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O1OjYxTBL._SL200_.jpg' ]
 comments: true
 category: ofertas

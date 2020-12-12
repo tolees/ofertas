@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.52 % en Nike sx7069 – 904 – Calcetines para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kawLVCcjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kawLVCcjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kawLVCcjL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.25 % en HELLA 1AL 354 684-011 Xenón Projecteur p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kbKV-iF3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kbKV-iF3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kbKV-iF3L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.72 % en Auriculares Bluetooth Audífonos inalámbr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Cu4eW1PJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cu4eW1PJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Cu4eW1PJL._SL200_.jpg' ]
 comments: true
 category: ofertas

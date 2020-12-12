@@ -3,6 +3,7 @@ layout: post
 title: 'POP! Vinilo - Harry Potter: Neville Long al 45.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m2xczfzgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51m2xczfzgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m2xczfzgL._SL200_.jpg' ]
 comments: true
 category: ofertas

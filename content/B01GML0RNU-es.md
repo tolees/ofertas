@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Volley Elite 3 MT  Zapatillas  al 56.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Lqyj0OVkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Lqyj0OVkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Lqyj0OVkL._SL200_.jpg' ]
 comments: true
 category: ofertas

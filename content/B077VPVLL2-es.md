@@ -3,6 +3,7 @@ layout: post
 title: 'KEXIN 16GB Memoria USB 2.0 Pendrive 16GB al 47.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eQfV-2e6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eQfV-2e6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eQfV-2e6L._SL200_.jpg' ]
 comments: true
 category: ofertas

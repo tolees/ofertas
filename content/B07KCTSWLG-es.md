@@ -3,6 +3,7 @@ layout: post
 title: 'Devil May Cry 5 Lenticular Edition  Edic al 33.49 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B07KCTSWLG.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B07KCTSWLG.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B07KCTSWLG.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

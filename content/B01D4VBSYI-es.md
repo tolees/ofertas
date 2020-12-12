@@ -3,6 +3,7 @@ layout: post
 title: 'bollé Tsar Máscaras  Unisex Adulto  Rojo al 86.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318NSKHYxxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318NSKHYxxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318NSKHYxxL._SL200_.jpg' ]
 comments: true
 category: ofertas

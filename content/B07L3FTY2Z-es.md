@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.27 % en Hilfiger Denim Lifestyle Basket Sneaker '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZcKqP6MoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZcKqP6MoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZcKqP6MoL._SL200_.jpg' ]
 comments: true
 category: ofertas

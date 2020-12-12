@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.27 % en Pack: Cómo Entrenar A Tu Dragon 1-2 [DVD'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513JP7B34IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513JP7B34IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513JP7B34IL._SL200_.jpg' ]
 comments: true
 category: ofertas

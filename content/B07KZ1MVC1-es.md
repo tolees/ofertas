@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.50 % en Springfield 5DS Mao S.Jersey Jersey  Gam'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31t58TykXCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31t58TykXCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31t58TykXCL._SL200_.jpg' ]
 comments: true
 category: ofertas

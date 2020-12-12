@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.04 % en Columbia Chaqueta Polar con Media Cremal'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GEVVHPHeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GEVVHPHeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GEVVHPHeL._SL200_.jpg' ]
 comments: true
 category: ofertas

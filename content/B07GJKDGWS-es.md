@@ -3,6 +3,7 @@ layout: post
 title: 'Sergio Tacchini Focus Nbx  Zapatillas de al 47.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QqDx8-iYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QqDx8-iYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QqDx8-iYL._SL200_.jpg' ]
 comments: true
 category: ofertas

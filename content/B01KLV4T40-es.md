@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.51 % en Under Armour UA Undeniable Duffle 3.0 SM'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LNoETkkgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LNoETkkgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LNoETkkgL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'All Black Dildo Fisting  35 cm - 1 unida al 40.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Lv7TT0IGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Lv7TT0IGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Lv7TT0IGL._SL200_.jpg' ]
 comments: true
 category: ofertas

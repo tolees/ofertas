@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorglave Light Track Jacket al 57.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K50iR2mQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K50iR2mQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K50iR2mQL._SL200_.jpg' ]
 comments: true
 category: ofertas

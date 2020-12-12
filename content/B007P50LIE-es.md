@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.06 % en Tommy Hilfiger 34545 - Agua de colonia  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ouj7I7xwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ouj7I7xwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ouj7I7xwL._SL200_.jpg' ]
 comments: true
 category: ofertas

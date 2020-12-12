@@ -3,6 +3,7 @@ layout: post
 title: 'Taladro Atornillador  TECCPO Professiona al 75.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510xKAIuZTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510xKAIuZTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510xKAIuZTL._SL200_.jpg' ]
 comments: true
 category: ofertas

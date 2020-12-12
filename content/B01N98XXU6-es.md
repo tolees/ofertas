@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.20 % en Camiseta Nox Granate-M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tdDNHySjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tdDNHySjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tdDNHySjL._SL200_.jpg' ]
 comments: true
 category: ofertas

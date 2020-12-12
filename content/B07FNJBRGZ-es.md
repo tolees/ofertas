@@ -3,6 +3,7 @@ layout: post
 title: '2018 Última versión-Mini M8S Pro Android al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CAfDG-YuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CAfDG-YuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CAfDG-YuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.03 % en INTEY Discos Deslizantes para Fitness Do'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519dHCJ7XnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519dHCJ7XnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519dHCJ7XnL._SL200_.jpg' ]
 comments: true
 category: ofertas

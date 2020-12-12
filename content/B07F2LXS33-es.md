@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.73 % en Helly Hansen Crew Chaqueta  Hombre  Grap'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IFZa3VanL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IFZa3VanL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IFZa3VanL._SL200_.jpg' ]
 comments: true
 category: ofertas

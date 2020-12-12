@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.46 % en Tous 995960262  Monedero para Mujer   Ma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nHBuYvyoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nHBuYvyoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nHBuYvyoL._SL200_.jpg' ]
 comments: true
 category: ofertas

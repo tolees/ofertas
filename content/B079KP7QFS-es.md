@@ -3,6 +3,7 @@ layout: post
 title: 'Remington Pro Power Titanium HC7130 - Má al 31.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nIIATk50L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nIIATk50L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nIIATk50L._SL200_.jpg' ]
 comments: true
 category: ofertas

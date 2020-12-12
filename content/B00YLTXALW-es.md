@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.44 % en adidas per Ankle T 3Pp Calcetines  Unise'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B6ufLgvKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B6ufLgvKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B6ufLgvKL._SL200_.jpg' ]
 comments: true
 category: ofertas

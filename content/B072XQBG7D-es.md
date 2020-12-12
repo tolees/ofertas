@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmamanda Jive 3/4 Oversize Boa al 73.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511cuQnF2lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511cuQnF2lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511cuQnF2lL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Cárdigan Chenilla Cárdigan   al 47.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KoRuulSLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KoRuulSLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KoRuulSLL._SL200_.jpg' ]
 comments: true
 category: ofertas

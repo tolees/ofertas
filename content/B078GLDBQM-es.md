@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.71 % en Armani Exchange 1st To Be Noticed Sweat '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411tVjXWJkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411tVjXWJkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411tVjXWJkL._SL200_.jpg' ]
 comments: true
 category: ofertas

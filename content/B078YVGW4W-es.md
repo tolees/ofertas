@@ -3,6 +3,7 @@ layout: post
 title: 'IBRA Cable Auxiliar Espiral 1M 2 Pack    al 58.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dPlYmLRpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dPlYmLRpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dPlYmLRpL._SL200_.jpg' ]
 comments: true
 category: ofertas

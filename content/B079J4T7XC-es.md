@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.07 % en Asics Comutora MX  Zapatillas de Entrena'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pbqq7ureL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pbqq7ureL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pbqq7ureL._SL200_.jpg' ]
 comments: true
 category: ofertas

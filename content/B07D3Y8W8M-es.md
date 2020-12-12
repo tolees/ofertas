@@ -3,6 +3,7 @@ layout: post
 title: 'Rizador Pelo  Planchas Del Pelo  Kealive al 50.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311PJGCna3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311PJGCna3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311PJGCna3L._SL200_.jpg' ]
 comments: true
 category: ofertas

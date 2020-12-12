@@ -3,6 +3,7 @@ layout: post
 title: 'Detector de Metales  TACKLIFE-MMD03-Dete al 31.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BoMdlFPvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BoMdlFPvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BoMdlFPvL._SL200_.jpg' ]
 comments: true
 category: ofertas

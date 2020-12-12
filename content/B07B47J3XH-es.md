@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.52 % en New Look Rain  Impermeable para Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WpZdWM7QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WpZdWM7QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WpZdWM7QL._SL200_.jpg' ]
 comments: true
 category: ofertas

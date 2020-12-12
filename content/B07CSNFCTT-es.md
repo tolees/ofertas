@@ -3,6 +3,7 @@ layout: post
 title: 'ValueHall Broca Escalonada 3 Piezas Paso al 58.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4166GKyC%2BhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4166GKyC%2BhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4166GKyC%2BhL._SL200_.jpg' ]
 comments: true
 category: ofertas

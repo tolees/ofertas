@@ -3,6 +3,7 @@ layout: post
 title: 'Cressi Silicone Kids Cap Shark Gorro de  al 32.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41czC80yuGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41czC80yuGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41czC80yuGL._SL200_.jpg' ]
 comments: true
 category: ofertas

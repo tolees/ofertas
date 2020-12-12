@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.56 % en Geox B Rishon Boy B  Zapatillas para Beb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fO0UWim%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fO0UWim%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fO0UWim%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Hombre Graphic 9 R T S\\s Cam al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416pfHz0bpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416pfHz0bpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416pfHz0bpL._SL200_.jpg' ]
 comments: true
 category: ofertas

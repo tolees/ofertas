@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley M Icon Stretch Chino 19  Bermudas al 49.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VMoUJ6vcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VMoUJ6vcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VMoUJ6vcL._SL200_.jpg' ]
 comments: true
 category: ofertas

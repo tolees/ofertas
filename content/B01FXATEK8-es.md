@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.39 % en Tamaris 25125  Botas Militar para Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lbnOxxjgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lbnOxxjgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lbnOxxjgL._SL200_.jpg' ]
 comments: true
 category: ofertas

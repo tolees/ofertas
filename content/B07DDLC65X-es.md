@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.86 % en Deshidratador Alimentos 500W Aicook  Des'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lpqgwnj7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Lpqgwnj7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lpqgwnj7L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Yacikos Solar Light - Lámpara Solar Exte al 43.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uawFUIpZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uawFUIpZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uawFUIpZL._SL200_.jpg' ]
 comments: true
 category: ofertas

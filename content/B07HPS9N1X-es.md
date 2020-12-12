@@ -3,6 +3,7 @@ layout: post
 title: 'Mayoral 3444  Chaleco para Niños   Azul  al 61.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O9jwTY6IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31O9jwTY6IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O9jwTY6IL._SL200_.jpg' ]
 comments: true
 category: ofertas

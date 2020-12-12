@@ -3,6 +3,7 @@ layout: post
 title: 'Edge Entertainment- Origami   EEDVOR01  al 29.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Nl-JvOimL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Nl-JvOimL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Nl-JvOimL._SL200_.jpg' ]
 comments: true
 category: ofertas

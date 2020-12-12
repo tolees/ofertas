@@ -3,6 +3,7 @@ layout: post
 title: 'Nike MD Runner 2  Zapatillas de Gimnasia al 32.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cbdTAaZBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cbdTAaZBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cbdTAaZBL._SL200_.jpg' ]
 comments: true
 category: ofertas

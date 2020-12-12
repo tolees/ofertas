@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Zackie  Vaqueros Skinny para Muje al 78.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kk77lqkmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kk77lqkmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kk77lqkmL._SL200_.jpg' ]
 comments: true
 category: ofertas

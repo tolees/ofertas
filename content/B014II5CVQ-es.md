@@ -3,6 +3,7 @@ layout: post
 title: 'Dolce & Gabbana Junior DG4238 298987 - g al 66.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eg4abA7UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eg4abA7UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eg4abA7UL._SL200_.jpg' ]
 comments: true
 category: ofertas

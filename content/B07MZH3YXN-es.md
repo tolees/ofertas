@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Classic Pique Polo  Azul  Sea S al 48.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fxl4XEOuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fxl4XEOuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fxl4XEOuL._SL200_.jpg' ]
 comments: true
 category: ofertas

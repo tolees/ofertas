@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Men s Launch AV - Gorra  Ho al 41.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Pm5CtYoBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Pm5CtYoBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Pm5CtYoBL._SL200_.jpg' ]
 comments: true
 category: ofertas

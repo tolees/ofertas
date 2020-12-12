@@ -3,6 +3,7 @@ layout: post
 title: 'BaByliss E824E - Kit cortapelos con 8 fu al 34.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d0Y5dmUjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d0Y5dmUjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d0Y5dmUjL._SL200_.jpg' ]
 comments: true
 category: ofertas

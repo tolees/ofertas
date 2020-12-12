@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.49 % en KAREN MILLEN Fashions Limited Above-Ankl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vKfOnEVtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vKfOnEVtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vKfOnEVtL._SL200_.jpg' ]
 comments: true
 category: ofertas

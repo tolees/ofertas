@@ -3,6 +3,7 @@ layout: post
 title: 'Botines Hombre Invierno Forrado Lace Up  al 45.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IUBBufX5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IUBBufX5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IUBBufX5L._SL200_.jpg' ]
 comments: true
 category: ofertas

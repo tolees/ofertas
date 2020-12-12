@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.84 % en Desigual Bols_tantra  Shoppers y bolsos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G%2Bf%2BxrLXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G%2Bf%2BxrLXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G%2Bf%2BxrLXL._SL200_.jpg' ]
 comments: true
 category: ofertas

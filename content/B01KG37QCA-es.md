@@ -3,6 +3,7 @@ layout: post
 title: 'Izas Dimasa Chaqueta de Punto  Mujer  Mo al 76.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Lco5qPVeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Lco5qPVeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Lco5qPVeL._SL200_.jpg' ]
 comments: true
 category: ofertas

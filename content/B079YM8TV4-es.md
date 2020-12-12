@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop! - Disney: The Incredibles 2 F al 69.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I27XCvwWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I27XCvwWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I27XCvwWL._SL200_.jpg' ]
 comments: true
 category: ofertas

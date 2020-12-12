@@ -3,6 +3,7 @@ layout: post
 title: 'Supra Hammer Run  Zapatillas para Hombre al 52.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f2iP9v33L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f2iP9v33L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f2iP9v33L._SL200_.jpg' ]
 comments: true
 category: ofertas

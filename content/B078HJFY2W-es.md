@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Buster L.32 Vaqueros Straight  Az al 46.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oseeSngzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oseeSngzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oseeSngzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.67 % en Let S Sing 11 - Edición Estándar Con 2 M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51W43zWWNyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51W43zWWNyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51W43zWWNyL._SL200_.jpg' ]
 comments: true
 category: ofertas

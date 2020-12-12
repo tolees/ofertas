@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS tee 7 Camiseta  Azul  Navy 121   XX al 65.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-gZZyKqsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-gZZyKqsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-gZZyKqsL._SL200_.jpg' ]
 comments: true
 category: ofertas

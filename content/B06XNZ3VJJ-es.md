@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.26 % en Joma Bali II Polo  Hombre  Gris  XL'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-aWIYf8lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-aWIYf8lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-aWIYf8lL._SL200_.jpg' ]
 comments: true
 category: ofertas

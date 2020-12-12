@@ -3,6 +3,7 @@ layout: post
 title: 'Ferrari 0830360 Speciale Evo - Reloj de  al 40.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mrNsPte2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mrNsPte2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mrNsPte2L._SL200_.jpg' ]
 comments: true
 category: ofertas

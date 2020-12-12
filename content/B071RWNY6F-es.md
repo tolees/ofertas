@@ -3,6 +3,7 @@ layout: post
 title: 'Hackett London Ashby Chino Pantalones  A al 71.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FXC2CCHhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FXC2CCHhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FXC2CCHhL._SL200_.jpg' ]
 comments: true
 category: ofertas

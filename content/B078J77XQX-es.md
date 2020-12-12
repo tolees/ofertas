@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Zoom Winflo 5  Zapatillas de Runnin al 35.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4168HMfqiSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4168HMfqiSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4168HMfqiSL._SL200_.jpg' ]
 comments: true
 category: ofertas

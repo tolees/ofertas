@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.07 % en L OR BARISTA Doble Descafeinado - Intens'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cpmG287uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cpmG287uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cpmG287uL._SL200_.jpg' ]
 comments: true
 category: ofertas

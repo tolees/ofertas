@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit Mujer 019cc1k007 Camisa Ma al 73.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GSbLZsyIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GSbLZsyIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GSbLZsyIL._SL200_.jpg' ]
 comments: true
 category: ofertas

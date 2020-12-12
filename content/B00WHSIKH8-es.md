@@ -3,6 +3,7 @@ layout: post
 title: 'Las bolas chinas"SingleBall" de AMOR Vib al 50.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M3wSyO0hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M3wSyO0hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M3wSyO0hL._SL200_.jpg' ]
 comments: true
 category: ofertas

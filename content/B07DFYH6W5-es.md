@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.41 % en Burton Menswear London Hombre Navy Crew '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XtOQatiGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XtOQatiGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XtOQatiGL._SL200_.jpg' ]
 comments: true
 category: ofertas

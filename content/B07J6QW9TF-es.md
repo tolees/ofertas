@@ -3,6 +3,7 @@ layout: post
 title: 'Liu Jo - Tiberina  cartera Mujer  Azul   al 45.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B4WCMPOFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B4WCMPOFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B4WCMPOFL._SL200_.jpg' ]
 comments: true
 category: ofertas

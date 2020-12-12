@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.45 % en Cressi Rondinella Aletas  Unisex  Azul  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LYI5LskZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LYI5LskZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LYI5LskZL._SL200_.jpg' ]
 comments: true
 category: ofertas

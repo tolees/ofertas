@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.12 % en G-STAR RAW Lynn D-Mid Waist Super Skinny'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rdXo026bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rdXo026bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rdXo026bL._SL200_.jpg' ]
 comments: true
 category: ofertas

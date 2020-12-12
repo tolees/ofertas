@@ -3,6 +3,7 @@ layout: post
 title: 'Bella Aurora Bio10 Tratamiento Facial An al 32.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lGFNokUTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lGFNokUTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lGFNokUTL._SL200_.jpg' ]
 comments: true
 category: ofertas

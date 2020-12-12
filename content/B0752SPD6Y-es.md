@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Midge Saddle Mid Straight Wmn al 64.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DF4P85F1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DF4P85F1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DF4P85F1L._SL200_.jpg' ]
 comments: true
 category: ofertas

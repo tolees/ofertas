@@ -3,6 +3,7 @@ layout: post
 title: 'Thomas Sabo - Charm con Cierre para Muje al 30.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PdtoNuldL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PdtoNuldL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PdtoNuldL._SL200_.jpg' ]
 comments: true
 category: ofertas

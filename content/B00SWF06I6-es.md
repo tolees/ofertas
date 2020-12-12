@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.36 % en Joma Toledo Pantalones Cortos Deportivos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WL7ZYdHRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WL7ZYdHRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WL7ZYdHRL._SL200_.jpg' ]
 comments: true
 category: ofertas

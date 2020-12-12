@@ -3,6 +3,7 @@ layout: post
 title: 'Agatha Ruiz de la Prada 181980  Botas Sl al 58.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p5k3ZruhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p5k3ZruhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p5k3ZruhL._SL200_.jpg' ]
 comments: true
 category: ofertas

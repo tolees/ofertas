@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.77 % en Sony ZS-PS50 - Boomboxon CD y Radio Am/F'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515fEuWoMxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515fEuWoMxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515fEuWoMxL._SL200_.jpg' ]
 comments: true
 category: ofertas

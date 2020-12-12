@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Hoodie Sudadera con Capuc al 39.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tN3koh5YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tN3koh5YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tN3koh5YL._SL200_.jpg' ]
 comments: true
 category: ofertas

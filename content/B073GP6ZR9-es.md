@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Lite Racer  Zapatillas  Negro  Ne al 31.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31klAWU50NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31klAWU50NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31klAWU50NL._SL200_.jpg' ]
 comments: true
 category: ofertas

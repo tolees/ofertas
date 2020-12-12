@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.92 % en S&M 94884 - Programador Estaciones Model'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wBnToXICL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wBnToXICL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wBnToXICL._SL200_.jpg' ]
 comments: true
 category: ofertas

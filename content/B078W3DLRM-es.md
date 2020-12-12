@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.51 % en Vans Chauffeur SF  Zapatillas Unisex Adu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417m-Xnz1mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417m-Xnz1mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417m-Xnz1mL._SL200_.jpg' ]
 comments: true
 category: ofertas

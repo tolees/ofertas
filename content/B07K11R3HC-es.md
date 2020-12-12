@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.05 % en adidas Gazelle  Zapatillas de Gimnasia p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413a%2B22b-nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413a%2B22b-nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413a%2B22b-nL._SL200_.jpg' ]
 comments: true
 category: ofertas

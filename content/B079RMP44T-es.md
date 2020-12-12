@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.89 % en Pepe Jeans Lupe Suéter  Gris  Grey Marl '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nAeWWKJaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nAeWWKJaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nAeWWKJaL._SL200_.jpg' ]
 comments: true
 category: ofertas

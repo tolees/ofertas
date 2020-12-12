@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Mujer Pantalón Convertible  Sil al 41.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BvNE3R%2BrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BvNE3R%2BrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BvNE3R%2BrL._SL200_.jpg' ]
 comments: true
 category: ofertas

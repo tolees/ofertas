@@ -3,6 +3,7 @@ layout: post
 title: 'adidas W E Lin FZ HD Sudadera  Mujer  br al 49.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wE0Zd6DNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wE0Zd6DNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wE0Zd6DNL._SL200_.jpg' ]
 comments: true
 category: ofertas

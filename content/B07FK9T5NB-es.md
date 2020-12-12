@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.26 % en Vans Ward Hi Suede  Zapatillas Altas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qiqgnShAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qiqgnShAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qiqgnShAL._SL200_.jpg' ]
 comments: true
 category: ofertas

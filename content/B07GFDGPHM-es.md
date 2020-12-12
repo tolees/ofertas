@@ -3,6 +3,7 @@ layout: post
 title: 'NAIXUES Pulsera Actividad Inteligente Pa al 67.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514qGmP3eDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514qGmP3eDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514qGmP3eDL._SL200_.jpg' ]
 comments: true
 category: ofertas

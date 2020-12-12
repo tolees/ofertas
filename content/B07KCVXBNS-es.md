@@ -3,6 +3,7 @@ layout: post
 title: 'Cybex Gold - Capazo Cot S  desde el naci al 31.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EILrQXq0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EILrQXq0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EILrQXq0L._SL200_.jpg' ]
 comments: true
 category: ofertas

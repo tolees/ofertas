@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Tephoto Camiseta  Blanco  White 100 al 40.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Fui8FZ5IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Fui8FZ5IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Fui8FZ5IL._SL200_.jpg' ]
 comments: true
 category: ofertas

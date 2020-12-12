@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.40 % en Gant Printed Shift Dress Vestido  Azul  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wLyr1vjWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wLyr1vjWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wLyr1vjWL._SL200_.jpg' ]
 comments: true
 category: ofertas

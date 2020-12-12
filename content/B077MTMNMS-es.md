@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Ignite Flash Evoknit Satin EP Wn s  al 69.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jFsZ4stOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jFsZ4stOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jFsZ4stOL._SL200_.jpg' ]
 comments: true
 category: ofertas

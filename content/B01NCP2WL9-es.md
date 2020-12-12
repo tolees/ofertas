@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.73 % en New Look Slim Suit Trouser  Pantalones d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rjFWe3JgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rjFWe3JgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rjFWe3JgL._SL200_.jpg' ]
 comments: true
 category: ofertas

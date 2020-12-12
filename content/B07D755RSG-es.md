@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.09 % en Levi s 501 Hemmed  Pantalones Cortos par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sgFMObmKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sgFMObmKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sgFMObmKL._SL200_.jpg' ]
 comments: true
 category: ofertas

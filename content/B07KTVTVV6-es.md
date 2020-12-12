@@ -3,6 +3,7 @@ layout: post
 title: 'adidas SPT Full Zip Sudadera  Hombre  Ma al 30.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b9k7Ml3HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b9k7Ml3HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b9k7Ml3HL._SL200_.jpg' ]
 comments: true
 category: ofertas

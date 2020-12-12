@@ -3,6 +3,7 @@ layout: post
 title: 'Medisana HP 625 61140  Almohadilla Térmi al 57.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31b5-97%2BC-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31b5-97%2BC-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31b5-97%2BC-L._SL200_.jpg' ]
 comments: true
 category: ofertas

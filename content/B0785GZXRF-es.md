@@ -3,6 +3,7 @@ layout: post
 title: 'Gore Wear 100355 Mallas  Mujer  Negro  H al 39.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313duz6AEXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313duz6AEXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313duz6AEXL._SL200_.jpg' ]
 comments: true
 category: ofertas

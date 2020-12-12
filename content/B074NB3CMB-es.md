@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 107cc1i047 suéter  Gris  L al 77.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e1c8LoedL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e1c8LoedL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e1c8LoedL._SL200_.jpg' ]
 comments: true
 category: ofertas

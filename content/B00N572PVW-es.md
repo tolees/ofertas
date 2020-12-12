@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Y NK Dry Acdmy K Pantalones Cortos  al 27.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BedkR40rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BedkR40rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BedkR40rL._SL200_.jpg' ]
 comments: true
 category: ofertas

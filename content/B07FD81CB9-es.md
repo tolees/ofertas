@@ -3,6 +3,7 @@ layout: post
 title: 'Cocoda Cortapelos Nariz  Recortador de V al 49.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4151xt6EpqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4151xt6EpqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4151xt6EpqL._SL200_.jpg' ]
 comments: true
 category: ofertas

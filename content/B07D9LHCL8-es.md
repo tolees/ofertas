@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.94 % en Bresser – Prismáticos de 10 x 34 con Fas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lrY7UrYnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lrY7UrYnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lrY7UrYnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.12 % en Suplemento de Aceite de Cáñamo por Nutri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415BVlwbMxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415BVlwbMxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415BVlwbMxL._SL200_.jpg' ]
 comments: true
 category: ofertas

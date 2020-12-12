@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.00 % en find. Vestido de Punto Ajustado para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CKD4F-GVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CKD4F-GVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CKD4F-GVL._SL200_.jpg' ]
 comments: true
 category: ofertas

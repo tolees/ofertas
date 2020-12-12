@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Altarun K  Zapatillas de Deporte  al 27.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315lvadCl%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315lvadCl%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315lvadCl%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

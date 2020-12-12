@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.18 % en Clarks Stafford Park5 - Zapatos Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uhMQx6Z9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uhMQx6Z9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uhMQx6Z9L._SL200_.jpg' ]
 comments: true
 category: ofertas

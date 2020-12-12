@@ -3,6 +3,7 @@ layout: post
 title: 'Splitter de Adaptador de Interfaz Dual 2 al 55.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BCIc9FgRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BCIc9FgRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BCIc9FgRL._SL200_.jpg' ]
 comments: true
 category: ofertas

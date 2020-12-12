@@ -3,6 +3,7 @@ layout: post
 title: 'Emporio Armani 5229T3 Gafas de sol  Blac al 47.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F%2BwLLyYyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F%2BwLLyYyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F%2BwLLyYyL._SL200_.jpg' ]
 comments: true
 category: ofertas

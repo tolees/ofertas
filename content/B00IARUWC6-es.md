@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.78 % en MAGLITE RL4019 Linterna  Unisex Adulto  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vkm0ycZ%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vkm0ycZ%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vkm0ycZ%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

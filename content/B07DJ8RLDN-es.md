@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.48 % en Geox U Vincit C  Zapatillas para Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mP9I6FdmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mP9I6FdmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mP9I6FdmL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.02 % en AJOXEL Banda Reflectante 4 Luz Running B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413i%2BF1NnQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413i%2BF1NnQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413i%2BF1NnQL._SL200_.jpg' ]
 comments: true
 category: ofertas

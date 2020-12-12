@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.54 % en dji Spark Fly More Combo - Dron cuadricó'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416eoYqo5EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416eoYqo5EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416eoYqo5EL._SL200_.jpg' ]
 comments: true
 category: ofertas

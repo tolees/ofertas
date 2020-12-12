@@ -3,6 +3,7 @@ layout: post
 title: 'Los Increíbles [DVD] al 68.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51G9EKnoQ8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51G9EKnoQ8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51G9EKnoQ8L._SL200_.jpg' ]
 comments: true
 category: ofertas

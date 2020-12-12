@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.44 % en Whiskas Temptations Premios para Gatos S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R8n8Ch2GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R8n8Ch2GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R8n8Ch2GL._SL200_.jpg' ]
 comments: true
 category: ofertas

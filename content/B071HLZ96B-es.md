@@ -3,6 +3,7 @@ layout: post
 title: 'Purina Gourmet Gold Soufflé comida para  al 45.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41REHbKR6ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41REHbKR6ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41REHbKR6ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

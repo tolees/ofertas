@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel Otoman Coderas Mujer  Azul  Bl al 39.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-EEGMO19L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-EEGMO19L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-EEGMO19L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.72 % en Helly Hansen Seven J Shell Jacket  Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K2pF4h1RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K2pF4h1RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K2pF4h1RL._SL200_.jpg' ]
 comments: true
 category: ofertas

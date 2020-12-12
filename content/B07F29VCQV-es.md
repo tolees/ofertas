@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.55 % en Columbia Gorra unisex  Columbia Mesh Bal'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U3bagGHEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U3bagGHEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U3bagGHEL._SL200_.jpg' ]
 comments: true
 category: ofertas

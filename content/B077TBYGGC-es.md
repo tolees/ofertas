@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 64303  Sandalias con Punta Abier al 71.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ri2QhubrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ri2QhubrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ri2QhubrL._SL200_.jpg' ]
 comments: true
 category: ofertas

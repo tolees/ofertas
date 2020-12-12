@@ -3,6 +3,7 @@ layout: post
 title: 'Calibre Digital Acero Inoxidable  Colour al 34.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416%2B8XvvItL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416%2B8XvvItL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416%2B8XvvItL._SL200_.jpg' ]
 comments: true
 category: ofertas

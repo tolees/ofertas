@@ -3,6 +3,7 @@ layout: post
 title: 'Sharpie  S0811100  Rotulador permanente  al 26.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zhLFJqlXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zhLFJqlXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zhLFJqlXL._SL200_.jpg' ]
 comments: true
 category: ofertas

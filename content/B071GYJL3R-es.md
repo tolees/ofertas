@@ -3,6 +3,7 @@ layout: post
 title: 'Apple iPad Pro  10 5 pulgadas y 512GB co al 28.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p3qWPPfML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p3qWPPfML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p3qWPPfML._SL200_.jpg' ]
 comments: true
 category: ofertas

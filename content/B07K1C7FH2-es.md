@@ -3,6 +3,7 @@ layout: post
 title: 'Cartera delgada con bloqueo de identific al 40.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AQ0FYKeHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AQ0FYKeHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AQ0FYKeHL._SL200_.jpg' ]
 comments: true
 category: ofertas

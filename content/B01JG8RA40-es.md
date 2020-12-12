@@ -3,6 +3,7 @@ layout: post
 title: 'erima 318609 Calcetines de Deporte  Unis al 32.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vGty4hutL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vGty4hutL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vGty4hutL._SL200_.jpg' ]
 comments: true
 category: ofertas

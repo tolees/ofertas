@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.93 % en Reebok DA1670 Mochila  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51G6iK8eZGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51G6iK8eZGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51G6iK8eZGL._SL200_.jpg' ]
 comments: true
 category: ofertas

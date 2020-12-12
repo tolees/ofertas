@@ -3,6 +3,7 @@ layout: post
 title: 'YHmall 20 Piezas de Todas Las Pulseras r al 31.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m2wLYqBIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51m2wLYqBIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m2wLYqBIL._SL200_.jpg' ]
 comments: true
 category: ofertas

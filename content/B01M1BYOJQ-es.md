@@ -3,6 +3,7 @@ layout: post
 title: 'Suunto - Spartan Ultra Cooper - SS022945 al 44.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FSd%2BgoreL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FSd%2BgoreL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FSd%2BgoreL._SL200_.jpg' ]
 comments: true
 category: ofertas

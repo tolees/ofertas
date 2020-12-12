@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.09 % en Columbia Silver Ridge II Short Pantalón '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CCumSXSRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CCumSXSRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CCumSXSRL._SL200_.jpg' ]
 comments: true
 category: ofertas

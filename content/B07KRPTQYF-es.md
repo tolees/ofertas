@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Hombre Chaqueta Polar con Crema al 50.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HCLpvEPrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HCLpvEPrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HCLpvEPrL._SL200_.jpg' ]
 comments: true
 category: ofertas

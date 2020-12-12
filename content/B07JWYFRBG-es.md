@@ -3,6 +3,7 @@ layout: post
 title: 'Carrément Beau Robe Vestido  Marfil  Off al 81.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31024vkXveL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31024vkXveL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31024vkXveL._SL200_.jpg' ]
 comments: true
 category: ofertas

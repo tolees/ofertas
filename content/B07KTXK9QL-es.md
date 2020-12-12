@@ -3,6 +3,7 @@ layout: post
 title: 'adidas WTS Hoody&Tight Chándal  Mujer  N al 49.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ux%2B3k-IoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ux%2B3k-IoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ux%2B3k-IoL._SL200_.jpg' ]
 comments: true
 category: ofertas

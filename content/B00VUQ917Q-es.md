@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Trust 241981-1110  Zapatillas Unis al 49.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

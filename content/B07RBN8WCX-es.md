@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.78 % en LIGE Unisexo Hombre Relojes Impermeable '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511Rm2QbTzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511Rm2QbTzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511Rm2QbTzL._SL200_.jpg' ]
 comments: true
 category: ofertas

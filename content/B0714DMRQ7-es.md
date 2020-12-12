@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Grade School Pursuit  Zapat al 64.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w%2B1-8O6BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w%2B1-8O6BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w%2B1-8O6BL._SL200_.jpg' ]
 comments: true
 category: ofertas

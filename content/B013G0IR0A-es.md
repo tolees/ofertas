@@ -3,6 +3,7 @@ layout: post
 title: 'Funko-6223 Figura de Vinilo First Order  al 33.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vdevr1iLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vdevr1iLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vdevr1iLL._SL200_.jpg' ]
 comments: true
 category: ofertas

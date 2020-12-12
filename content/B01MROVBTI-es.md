@@ -3,6 +3,7 @@ layout: post
 title: 'Pioneer SE-MS5T-K - Auriculares de tipo  al 36.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y2jKsN3rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y2jKsN3rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y2jKsN3rL._SL200_.jpg' ]
 comments: true
 category: ofertas

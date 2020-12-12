@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Hexaffect Run 5.0  Zapatillas de  al 52.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h-VvO2DKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h-VvO2DKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h-VvO2DKL._SL200_.jpg' ]
 comments: true
 category: ofertas

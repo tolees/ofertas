@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.87 % en Ray-Ban Aviator Gafas de sol  Gunmetal  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zQVyrRkBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zQVyrRkBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zQVyrRkBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SD Games Zorros al Corral SDGZORCOR01 al 43.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61AF%2BK2gKoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61AF%2BK2gKoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61AF%2BK2gKoL._SL200_.jpg' ]
 comments: true
 category: ofertas

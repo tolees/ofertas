@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen W Crewline Short  Mujer  Na al 52.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dye0glMyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dye0glMyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dye0glMyL._SL200_.jpg' ]
 comments: true
 category: ofertas

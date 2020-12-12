@@ -3,6 +3,7 @@ layout: post
 title: 'Call It Spring EU - Frelang  Bolsos moch al 62.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ncNAD0oBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ncNAD0oBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ncNAD0oBL._SL200_.jpg' ]
 comments: true
 category: ofertas

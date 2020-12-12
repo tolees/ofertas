@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.01 % en HUION H610Pro 8192 Niveles Presión del L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pHGZ92-EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pHGZ92-EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pHGZ92-EL._SL200_.jpg' ]
 comments: true
 category: ofertas

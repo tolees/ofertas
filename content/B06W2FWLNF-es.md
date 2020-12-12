@@ -3,6 +3,7 @@ layout: post
 title: 'boboli 424088 Camiseta de Manga Larga  N al 51.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/6196J6LsC3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/6196J6LsC3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/6196J6LsC3L._SL200_.jpg' ]
 comments: true
 category: ofertas

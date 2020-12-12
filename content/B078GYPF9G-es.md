@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.95 % en Trucco TT16BF1 Jersey  Blanco  Medium  T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VG2ze7yXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VG2ze7yXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VG2ze7yXL._SL200_.jpg' ]
 comments: true
 category: ofertas

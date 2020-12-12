@@ -3,6 +3,7 @@ layout: post
 title: 'Wurko 11060003 - Manguera  Color Amarill al 27.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T%2Bxgdo3FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51T%2Bxgdo3FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T%2Bxgdo3FL._SL200_.jpg' ]
 comments: true
 category: ofertas

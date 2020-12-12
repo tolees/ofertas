@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.15 % en Puma Active Big Logo tee Camiseta  Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vUNKNj62L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUNKNj62L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vUNKNj62L._SL200_.jpg' ]
 comments: true
 category: ofertas

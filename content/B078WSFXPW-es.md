@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.40 % en OnePlus 5T  - Smartphone  SIM doble 4G  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XYob8WegL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XYob8WegL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XYob8WegL._SL200_.jpg' ]
 comments: true
 category: ofertas

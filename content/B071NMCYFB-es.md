@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers by Gerli 41ce307-613100  Zapatil al 71.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VpoUTzTaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VpoUTzTaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VpoUTzTaL._SL200_.jpg' ]
 comments: true
 category: ofertas

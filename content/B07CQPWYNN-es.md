@@ -3,6 +3,7 @@ layout: post
 title: 'MSI Infinite 8RB-093XEU - Ordenador de s al 32.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415omz6jZZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415omz6jZZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415omz6jZZL._SL200_.jpg' ]
 comments: true
 category: ofertas

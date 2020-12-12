@@ -3,6 +3,7 @@ layout: post
 title: 'Lafuma Lautaret - Bastón de Senderismo   al 75.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41unbH5nBSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41unbH5nBSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41unbH5nBSL._SL200_.jpg' ]
 comments: true
 category: ofertas

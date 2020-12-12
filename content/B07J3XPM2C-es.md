@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.04 % en Dim Body Mod  Negro  Noir 0Hz   38  Tall'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B3LW0vCvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B3LW0vCvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B3LW0vCvL._SL200_.jpg' ]
 comments: true
 category: ofertas

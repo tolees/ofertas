@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.92 % en Geox Jr Sofia C  Botas Estilo Motero par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417D6OG5JKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417D6OG5JKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417D6OG5JKL._SL200_.jpg' ]
 comments: true
 category: ofertas

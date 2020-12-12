@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Pack  Camiseta para Hombre  Azu al 41.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LMbDx2n6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LMbDx2n6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LMbDx2n6L._SL200_.jpg' ]
 comments: true
 category: ofertas

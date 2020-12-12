@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung EVO+ - Tarjeta de Memoria microS al 47.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YqzCAB4ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YqzCAB4ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YqzCAB4ML._SL200_.jpg' ]
 comments: true
 category: ofertas

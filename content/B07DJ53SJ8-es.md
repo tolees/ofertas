@@ -3,6 +3,7 @@ layout: post
 title: 'adidas 18/19 Real Madrid Home - Camiseta al 66.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31k0iPMrusL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31k0iPMrusL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31k0iPMrusL._SL200_.jpg' ]
 comments: true
 category: ofertas

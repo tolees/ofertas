@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.27 % en Mr.Van LED Plegable Espejo  Espejo Portá'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cKdSObrPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cKdSObrPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cKdSObrPL._SL200_.jpg' ]
 comments: true
 category: ofertas

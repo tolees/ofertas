@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.27 % en adidas Easy Vulc 2.0  Zapatillas de Skat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cbImOL-xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cbImOL-xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cbImOL-xL._SL200_.jpg' ]
 comments: true
 category: ofertas

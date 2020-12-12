@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Kaven A  Zapatillas para Hombre   al 30.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8UpX8MQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8UpX8MQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q8UpX8MQL._SL200_.jpg' ]
 comments: true
 category: ofertas

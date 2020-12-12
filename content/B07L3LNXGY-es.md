@@ -3,6 +3,7 @@ layout: post
 title: 'Charmast®Batería Externa 10000mAh Cargad al 46.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412JpGYJ6aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412JpGYJ6aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412JpGYJ6aL._SL200_.jpg' ]
 comments: true
 category: ofertas

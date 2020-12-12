@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.75 % en Only Onlroxanne L/s Pullover CC Knt suét'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LSYB%2BPyVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LSYB%2BPyVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LSYB%2BPyVL._SL200_.jpg' ]
 comments: true
 category: ofertas

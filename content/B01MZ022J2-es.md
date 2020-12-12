@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Lace Trim Cami Top para Mujer  Negr al 70.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414x24lgvAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414x24lgvAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414x24lgvAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en LOFIR Chaqueta de Mezclilla para niñas c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aDPbB6T-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aDPbB6T-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aDPbB6T-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.60 % en Pour Moi? 36025-Tops de Bikini Mujer Neg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S4BmKdouL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S4BmKdouL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S4BmKdouL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange - Flat Cross-body Bag  B al 63.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OpzCH8jEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31OpzCH8jEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OpzCH8jEL._SL200_.jpg' ]
 comments: true
 category: ofertas

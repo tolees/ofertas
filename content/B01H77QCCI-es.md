@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.56 % en Trio Shogun - Plafón con LED SMD  integr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wT4Z3iK6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wT4Z3iK6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wT4Z3iK6L._SL200_.jpg' ]
 comments: true
 category: ofertas

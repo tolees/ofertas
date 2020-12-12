@@ -3,6 +3,7 @@ layout: post
 title: 'Sorel Joan of Arctic  Botas para Mujer   al 40.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413kr0yV9GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413kr0yV9GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413kr0yV9GL._SL200_.jpg' ]
 comments: true
 category: ofertas

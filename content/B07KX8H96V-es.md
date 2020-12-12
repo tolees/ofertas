@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.81 % en Love Moschino Heart Shaped Back Pocket S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21c4Cjox3LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21c4Cjox3LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21c4Cjox3LL._SL200_.jpg' ]
 comments: true
 category: ofertas

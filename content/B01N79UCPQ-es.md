@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Copa Tango 17.2 TR  Botas de Fútb al 66.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TvAY%2B7GUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TvAY%2B7GUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TvAY%2B7GUL._SL200_.jpg' ]
 comments: true
 category: ofertas

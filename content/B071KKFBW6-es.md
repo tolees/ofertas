@@ -3,6 +3,7 @@ layout: post
 title: 'ELINKUME Lámpara de escritorio solar LED al 44.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419bB6uek7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419bB6uek7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419bB6uek7L._SL200_.jpg' ]
 comments: true
 category: ofertas

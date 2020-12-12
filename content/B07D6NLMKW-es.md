@@ -3,6 +3,7 @@ layout: post
 title: 'SIMYJOY Cobra Kai Retro Camiseta Karate  al 62.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S06815wQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S06815wQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S06815wQL._SL200_.jpg' ]
 comments: true
 category: ofertas

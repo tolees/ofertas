@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Sprint TR  Zapatillas de Deporte  al 47.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E941D3F7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E941D3F7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E941D3F7L._SL200_.jpg' ]
 comments: true
 category: ofertas

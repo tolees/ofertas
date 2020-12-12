@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.27 % en Smiffy S 31126S Disfraz Fever De Boxeado'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y19UmQifL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31y19UmQifL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y19UmQifL._SL200_.jpg' ]
 comments: true
 category: ofertas

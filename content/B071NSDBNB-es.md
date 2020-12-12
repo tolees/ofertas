@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES - Pcnadeen Leather Cross Body  Bo al 74.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QVn7U%2BXML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QVn7U%2BXML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QVn7U%2BXML._SL200_.jpg' ]
 comments: true
 category: ofertas

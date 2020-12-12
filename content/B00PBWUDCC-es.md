@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.52 % en Dockers by Gerli 36BR001-120100  Zuecos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31M1Y--0FNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31M1Y--0FNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31M1Y--0FNL._SL200_.jpg' ]
 comments: true
 category: ofertas

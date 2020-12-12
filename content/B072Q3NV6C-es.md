@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.69 % en Reebok Instalite Run  Zapatillas de Runn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U9E4dG8%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U9E4dG8%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U9E4dG8%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

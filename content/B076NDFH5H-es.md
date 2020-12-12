@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.40 % en K2 F.I.T. 80 Boa – Patines en línea negr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y0iRoBy0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y0iRoBy0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y0iRoBy0L._SL200_.jpg' ]
 comments: true
 category: ofertas

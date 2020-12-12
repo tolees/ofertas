@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.86 % en New Balance 574TBK  Zapatillas de Runnin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W1k5nqcVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W1k5nqcVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W1k5nqcVL._SL200_.jpg' ]
 comments: true
 category: ofertas

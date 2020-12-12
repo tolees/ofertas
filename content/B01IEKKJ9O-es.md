@@ -3,6 +3,7 @@ layout: post
 title: 'Curver Rectangular L ~19L  Blanco Oasis  al 46.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sXI719DyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sXI719DyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sXI719DyL._SL200_.jpg' ]
 comments: true
 category: ofertas

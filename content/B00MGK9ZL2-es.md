@@ -3,6 +3,7 @@ layout: post
 title: 'Rimmel Provocalips 16hr beso Lip Color P al 61.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iF5mc4hNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iF5mc4hNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iF5mc4hNL._SL200_.jpg' ]
 comments: true
 category: ofertas

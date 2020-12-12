@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia XO0665 Camisa de Excursionismo  al 40.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m3cpHLTBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m3cpHLTBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m3cpHLTBL._SL200_.jpg' ]
 comments: true
 category: ofertas

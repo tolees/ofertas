@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange 3D City Graphic Camiseta al 59.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uugBCMgUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uugBCMgUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uugBCMgUL._SL200_.jpg' ]
 comments: true
 category: ofertas

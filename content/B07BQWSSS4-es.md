@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fuel Core NERGIZE  Zapatilla al 43.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GGvWBmKjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GGvWBmKjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GGvWBmKjL._SL200_.jpg' ]
 comments: true
 category: ofertas

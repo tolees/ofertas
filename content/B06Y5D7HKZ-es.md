@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.22 % en GORE RUNNING WEAR  Mallas de correr  Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WE%2BkgBreL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WE%2BkgBreL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WE%2BkgBreL._SL200_.jpg' ]
 comments: true
 category: ofertas

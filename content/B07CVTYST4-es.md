@@ -3,6 +3,7 @@ layout: post
 title: 'Rackaphile - Sacacorchos Eléctrico Inalá al 66.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ytYb85W0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ytYb85W0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ytYb85W0L._SL200_.jpg' ]
 comments: true
 category: ofertas

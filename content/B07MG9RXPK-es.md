@@ -3,6 +3,7 @@ layout: post
 title: 'Gifort Barbacoa Portátil Barbacoa Portát al 56.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LTZsSrWkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LTZsSrWkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LTZsSrWkL._SL200_.jpg' ]
 comments: true
 category: ofertas

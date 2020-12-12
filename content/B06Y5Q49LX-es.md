@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.33 % en Pikolinos Segovia W1j_i17  Botas para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HNtPZ2vfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HNtPZ2vfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HNtPZ2vfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: '1898: Los Últimos De Filipinas [Blu-ray] al 64.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61u73Ub8jFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61u73Ub8jFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61u73Ub8jFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'AX BOXING Zapatillas Hombres Deporte Run al 43.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z9UlbkrQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z9UlbkrQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z9UlbkrQL._SL200_.jpg' ]
 comments: true
 category: ofertas

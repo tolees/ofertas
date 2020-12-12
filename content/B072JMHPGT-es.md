@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.16 % en Only Onlnew Lorca Short Canvas Parka CC '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rEKdsLbxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rEKdsLbxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rEKdsLbxL._SL200_.jpg' ]
 comments: true
 category: ofertas

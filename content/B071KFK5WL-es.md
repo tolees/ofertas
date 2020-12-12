@@ -3,6 +3,7 @@ layout: post
 title: 'STAR WARS- Figura de Titanio Han Solo    al 64.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J%2BeBynMJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J%2BeBynMJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J%2BeBynMJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.19 % en Star Wars - Disfraz de Yoda Deluxe para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d%2BDis5P0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d%2BDis5P0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d%2BDis5P0L._SL200_.jpg' ]
 comments: true
 category: ofertas

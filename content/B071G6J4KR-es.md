@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.01 % en Tommy Hilfiger TH ATH Ebony Tank  Top pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41egydlZ3rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41egydlZ3rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41egydlZ3rL._SL200_.jpg' ]
 comments: true
 category: ofertas

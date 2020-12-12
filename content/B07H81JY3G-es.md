@@ -3,6 +3,7 @@ layout: post
 title: 'firesara Gafas de natación para niños pr al 91.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41okdJWGG2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41okdJWGG2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41okdJWGG2L._SL200_.jpg' ]
 comments: true
 category: ofertas

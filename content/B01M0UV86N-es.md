@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.13 % en KLIM Bungee - Extensión para ratón - 3 x'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hYMBa%2BtKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hYMBa%2BtKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hYMBa%2BtKL._SL200_.jpg' ]
 comments: true
 category: ofertas

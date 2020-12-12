@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Graphic 9 T-Shirt  Camiseta p al 51.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416pfHz0bpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416pfHz0bpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416pfHz0bpL._SL200_.jpg' ]
 comments: true
 category: ofertas

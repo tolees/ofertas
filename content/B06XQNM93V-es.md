@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.90 % en Skechers Go Walk 4-Sporty Starz  Entrena'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516I6MZsSvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516I6MZsSvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516I6MZsSvL._SL200_.jpg' ]
 comments: true
 category: ofertas

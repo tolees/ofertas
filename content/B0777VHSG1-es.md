@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiglenn Jjpage Bl 795 Indi al 62.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UUK9vH6AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UUK9vH6AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UUK9vH6AL._SL200_.jpg' ]
 comments: true
 category: ofertas

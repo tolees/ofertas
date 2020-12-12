@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.03 % en adidas 18/19 Real Madrid Away Kit-Lfp Ba'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cx9-7Ap-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cx9-7Ap-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cx9-7Ap-L._SL200_.jpg' ]
 comments: true
 category: ofertas

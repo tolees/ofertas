@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Skech-Ascent-Sherrod  Zapatilla al 54.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s5mDSRggL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s5mDSRggL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s5mDSRggL._SL200_.jpg' ]
 comments: true
 category: ofertas

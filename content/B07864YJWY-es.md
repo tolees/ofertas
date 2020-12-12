@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA 655646 01 Camiseta de Equipación  N al 58.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n2-IVLPQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51n2-IVLPQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n2-IVLPQL._SL200_.jpg' ]
 comments: true
 category: ofertas

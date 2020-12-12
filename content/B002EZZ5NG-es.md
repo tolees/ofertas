@@ -3,6 +3,7 @@ layout: post
 title: 'Braun MobileShave M-90 - Afeitadora eléc al 26.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cqVU67szL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cqVU67szL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cqVU67szL._SL200_.jpg' ]
 comments: true
 category: ofertas

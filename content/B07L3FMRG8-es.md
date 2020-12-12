@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.20 % en Hilfiger Denim Tommy Jeans Icon Sneaker '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31W9f%2B1d0JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31W9f%2B1d0JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31W9f%2B1d0JL._SL200_.jpg' ]
 comments: true
 category: ofertas

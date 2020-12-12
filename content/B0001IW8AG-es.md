@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.24 % en Stanley STA084114 - Juego de tenazas y a'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h2VfVyXkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h2VfVyXkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h2VfVyXkL._SL200_.jpg' ]
 comments: true
 category: ofertas

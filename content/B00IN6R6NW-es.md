@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.41 % en X-Loop Aurora Gafas de Sol Polarizadas -'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hmNhP02bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hmNhP02bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hmNhP02bL._SL200_.jpg' ]
 comments: true
 category: ofertas

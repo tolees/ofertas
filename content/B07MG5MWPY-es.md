@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.80 % en G-Star Raw 3301 Straight  Jeans Dritto U'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dVa-PLYKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dVa-PLYKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dVa-PLYKL._SL200_.jpg' ]
 comments: true
 category: ofertas

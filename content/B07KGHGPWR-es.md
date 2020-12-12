@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Relegant_1 Camisa  Morado  Bright P al 60.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412z8jSozDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412z8jSozDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412z8jSozDL._SL200_.jpg' ]
 comments: true
 category: ofertas

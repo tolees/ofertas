@@ -3,6 +3,7 @@ layout: post
 title: 'oodji Ultra Mujer Camiseta Estampada de  al 57.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cpoPULnVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cpoPULnVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cpoPULnVL._SL200_.jpg' ]
 comments: true
 category: ofertas

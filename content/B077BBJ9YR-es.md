@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour MK1 Terry Graphic Hoodie Su al 58.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uaXzMBtJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uaXzMBtJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uaXzMBtJL._SL200_.jpg' ]
 comments: true
 category: ofertas

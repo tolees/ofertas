@@ -3,6 +3,7 @@ layout: post
 title: 'Fossil Reloj Analógico para Mujer de Cua al 59.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41alL9LvGjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41alL9LvGjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41alL9LvGjL._SL200_.jpg' ]
 comments: true
 category: ofertas

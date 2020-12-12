@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans James Shield PM210987 Pantalo al 56.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XloWqNynL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XloWqNynL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XloWqNynL._SL200_.jpg' ]
 comments: true
 category: ofertas

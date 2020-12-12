@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.96 % en Volcom Hernan Chaqueta  Hombre  Verde  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zRdPDvoOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zRdPDvoOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zRdPDvoOL._SL200_.jpg' ]
 comments: true
 category: ofertas

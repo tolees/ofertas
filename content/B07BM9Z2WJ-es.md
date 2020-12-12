@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.63 % en NIVEA Gel de Ducha Sunshine - Paquete de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417LzO%2B7sAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417LzO%2B7sAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417LzO%2B7sAL._SL200_.jpg' ]
 comments: true
 category: ofertas

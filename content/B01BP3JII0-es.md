@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Spye Astro  Botines para Mujer  B al 63.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UKOaA5-SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UKOaA5-SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UKOaA5-SL._SL200_.jpg' ]
 comments: true
 category: ofertas

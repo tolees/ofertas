@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.87 % en Mini 3D Magia Laberinto Puzzle Ball Cube'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mteF9TBqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mteF9TBqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mteF9TBqL._SL200_.jpg' ]
 comments: true
 category: ofertas

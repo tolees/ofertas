@@ -3,6 +3,7 @@ layout: post
 title: 'LANGRIA Manta Suave de Franela Tacto Agr al 63.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vOtXCibjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vOtXCibjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vOtXCibjL._SL200_.jpg' ]
 comments: true
 category: ofertas

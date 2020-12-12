@@ -3,6 +3,7 @@ layout: post
 title: 'Festina Tour de Inglaterra edición 2015  al 44.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZWdeXjzqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZWdeXjzqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZWdeXjzqL._SL200_.jpg' ]
 comments: true
 category: ofertas

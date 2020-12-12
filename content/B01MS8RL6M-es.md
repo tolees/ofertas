@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.97 % en Ocean ASA5399  Bóxers para Hombre  Morad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TwlKwKJlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TwlKwKJlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TwlKwKJlL._SL200_.jpg' ]
 comments: true
 category: ofertas

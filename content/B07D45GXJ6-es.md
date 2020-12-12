@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Smart Zapatos de Cordones Brogue  M al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V6bVhcOFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31V6bVhcOFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V6bVhcOFL._SL200_.jpg' ]
 comments: true
 category: ofertas

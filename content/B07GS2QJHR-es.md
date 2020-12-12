@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.02 % en Karen Millen Conversational Star Print B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s%2BqS-PMuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51s%2BqS-PMuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s%2BqS-PMuL._SL200_.jpg' ]
 comments: true
 category: ofertas

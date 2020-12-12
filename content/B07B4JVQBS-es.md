@@ -3,6 +3,7 @@ layout: post
 title: 'Nixon Reloj Analógico para Unisex Adulto al 47.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d%2BOBOmsfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d%2BOBOmsfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d%2BOBOmsfL._SL200_.jpg' ]
 comments: true
 category: ofertas

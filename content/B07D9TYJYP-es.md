@@ -3,6 +3,7 @@ layout: post
 title: 'Mustang Schnür-Booty  Botas Clasicas Uni al 66.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KdlGTHR8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KdlGTHR8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KdlGTHR8L._SL200_.jpg' ]
 comments: true
 category: ofertas

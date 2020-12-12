@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.59 % en COFIT 3 en 1 Bolsa de Manillar para Bici'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FhGAIJGNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FhGAIJGNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FhGAIJGNL._SL200_.jpg' ]
 comments: true
 category: ofertas

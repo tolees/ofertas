@@ -3,6 +3,7 @@ layout: post
 title: 'Inside @CBE20 Pantalones Cortos Deportiv al 56.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416I62S7AzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416I62S7AzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416I62S7AzL._SL200_.jpg' ]
 comments: true
 category: ofertas

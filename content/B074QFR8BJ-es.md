@@ -3,6 +3,7 @@ layout: post
 title: 'Lámpara de Techo I Lámpara para baño I Ø al 50.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M8NkK6faL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51M8NkK6faL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M8NkK6faL._SL200_.jpg' ]
 comments: true
 category: ofertas

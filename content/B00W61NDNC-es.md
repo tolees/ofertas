@@ -3,6 +3,7 @@ layout: post
 title: 'KidKraft 65179 Casa de muñecas de madera al 35.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KenyTw0bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KenyTw0bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KenyTw0bL._SL200_.jpg' ]
 comments: true
 category: ofertas

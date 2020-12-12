@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.80 % en Asics Gel-kenun Lyte MX  Zapatillas de E'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wj6GQZS%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wj6GQZS%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wj6GQZS%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

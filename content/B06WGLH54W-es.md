@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.59 % en El Ganso Canvas Lavado  Pantalones para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hy%2BVqNqpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hy%2BVqNqpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hy%2BVqNqpL._SL200_.jpg' ]
 comments: true
 category: ofertas

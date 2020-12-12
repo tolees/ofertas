@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.33 % en Nike W NK Team Duffle Bolsa de Gimnasio '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UKOeSZFxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UKOeSZFxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UKOeSZFxL._SL200_.jpg' ]
 comments: true
 category: ofertas

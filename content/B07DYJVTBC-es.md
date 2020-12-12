@@ -3,6 +3,7 @@ layout: post
 title: 'Swarovski Pulsera Angelic  Mediana  Rojo al 32.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aSPih0UIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aSPih0UIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aSPih0UIL._SL200_.jpg' ]
 comments: true
 category: ofertas

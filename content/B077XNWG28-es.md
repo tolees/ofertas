@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.11 % en Under Armour - Sudadera con Capucha para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314PvyUy3cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314PvyUy3cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314PvyUy3cL._SL200_.jpg' ]
 comments: true
 category: ofertas

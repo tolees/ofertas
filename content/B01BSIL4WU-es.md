@@ -3,6 +3,7 @@ layout: post
 title: 'Acer H7 H277HU 27" Wide Quad HD IPS Plat al 35.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xCiBsnrOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xCiBsnrOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xCiBsnrOL._SL200_.jpg' ]
 comments: true
 category: ofertas

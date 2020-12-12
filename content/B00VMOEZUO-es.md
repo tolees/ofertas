@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.82 % en Jako Striker KA - Camiseta de fútbol Neg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bO3ZhMkEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bO3ZhMkEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bO3ZhMkEL._SL200_.jpg' ]
 comments: true
 category: ofertas

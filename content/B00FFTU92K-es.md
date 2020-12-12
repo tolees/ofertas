@@ -3,6 +3,7 @@ layout: post
 title: 'Braun TS505 - Plancha ropa vapor  2000w  al 62.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415TdaxBupL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415TdaxBupL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415TdaxBupL._SL200_.jpg' ]
 comments: true
 category: ofertas

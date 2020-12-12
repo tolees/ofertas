@@ -3,6 +3,7 @@ layout: post
 title: 'Solenny Silla Plegable  azul  90x64x15 c al 25.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jhzdkZZCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jhzdkZZCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jhzdkZZCL._SL200_.jpg' ]
 comments: true
 category: ofertas

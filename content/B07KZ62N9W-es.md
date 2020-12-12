@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.91 % en Cortefiel C1Cbc Americana Estructur  Ver'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pFSzZf5TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pFSzZf5TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pFSzZf5TL._SL200_.jpg' ]
 comments: true
 category: ofertas

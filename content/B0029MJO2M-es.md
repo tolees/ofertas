@@ -3,6 +3,7 @@ layout: post
 title: 'Sony MS-MT4GN - Tarjeta de Memoria Sony  al 41.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z4dkIh5bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z4dkIh5bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z4dkIh5bL._SL200_.jpg' ]
 comments: true
 category: ofertas

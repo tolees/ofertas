@@ -3,6 +3,7 @@ layout: post
 title: 'SUAOKI 20A Controlador de Carga Solar  c al 45.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414nxdyKzDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414nxdyKzDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414nxdyKzDL._SL200_.jpg' ]
 comments: true
 category: ofertas

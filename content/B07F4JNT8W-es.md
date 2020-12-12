@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Ftblnxt Baselayer LS Camisa  Hombre al 60.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TR4kqbUZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TR4kqbUZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TR4kqbUZL._SL200_.jpg' ]
 comments: true
 category: ofertas

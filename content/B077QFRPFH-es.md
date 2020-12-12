@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 220v1  Zapatillas para Mujer al 55.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fnqAydpvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fnqAydpvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fnqAydpvL._SL200_.jpg' ]
 comments: true
 category: ofertas

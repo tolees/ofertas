@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.37 % en BIO-OIL 125 ml'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OiWvXeLfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OiWvXeLfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OiWvXeLfL._SL200_.jpg' ]
 comments: true
 category: ofertas

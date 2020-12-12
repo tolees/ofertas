@@ -3,6 +3,7 @@ layout: post
 title: 'Michael Kors Reloj Analogico para Mujer  al 50.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VvStUISEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VvStUISEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VvStUISEL._SL200_.jpg' ]
 comments: true
 category: ofertas

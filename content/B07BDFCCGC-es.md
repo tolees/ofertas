@@ -3,6 +3,7 @@ layout: post
 title: 'RFIVER 2 Taburetes Plegables de Metal y  al 80.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41InjoK5nEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41InjoK5nEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41InjoK5nEL._SL200_.jpg' ]
 comments: true
 category: ofertas

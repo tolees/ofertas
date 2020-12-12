@@ -3,6 +3,7 @@ layout: post
 title: 'Oral-B CrossAction Black - Pack de 3 Cab al 29.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41azH6PYUYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41azH6PYUYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41azH6PYUYL._SL200_.jpg' ]
 comments: true
 category: ofertas

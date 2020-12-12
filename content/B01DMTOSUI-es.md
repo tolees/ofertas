@@ -3,6 +3,7 @@ layout: post
 title: 'Q/S designed by 45.899.71.0415 Jeans  Az al 80.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-S6nh-D%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-S6nh-D%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-S6nh-D%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

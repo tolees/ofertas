@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.46 % en YaYuu Gear Fit 2 Pro/Fit 2 Correa de Rel'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qV%2Bj43psL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qV%2Bj43psL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qV%2Bj43psL._SL200_.jpg' ]
 comments: true
 category: ofertas

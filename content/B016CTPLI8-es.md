@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.02 % en Cadena de Luces - Guirnalda Luces 10M 10'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IMZd-JZwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IMZd-JZwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IMZd-JZwL._SL200_.jpg' ]
 comments: true
 category: ofertas

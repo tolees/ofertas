@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.12 % en Faber-Castell 117538 - Estuche estudio c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S0P6iJHGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S0P6iJHGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S0P6iJHGL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'David Jones - 5915-3  Bolsos de mano Muj al 59.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y7DloXbQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y7DloXbQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y7DloXbQL._SL200_.jpg' ]
 comments: true
 category: ofertas

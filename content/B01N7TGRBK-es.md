@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 047ee1k013 Camiseta   Light Pink  al 54.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416VJ7celiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416VJ7celiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416VJ7celiL._SL200_.jpg' ]
 comments: true
 category: ofertas

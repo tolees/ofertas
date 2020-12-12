@@ -3,6 +3,7 @@ layout: post
 title: 'Playmobil - Satélite con láser para los  al 28.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61-qL12uh%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61-qL12uh%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61-qL12uh%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

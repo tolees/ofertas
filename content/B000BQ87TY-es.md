@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.52 % en Sorel Conquest  Botas para Hombre  Marró'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412fJ0%2Byp9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412fJ0%2Byp9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412fJ0%2Byp9L._SL200_.jpg' ]
 comments: true
 category: ofertas

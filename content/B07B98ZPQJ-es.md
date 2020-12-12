@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.98 % en Clarks Vargo Mid  Zapatos de Cordones De'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315mIWbCIhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315mIWbCIhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315mIWbCIhL._SL200_.jpg' ]
 comments: true
 category: ofertas

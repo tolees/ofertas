@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Geox B Kilwi Girl B  Zapatillas para Beb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-p3MghMuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-p3MghMuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-p3MghMuL._SL200_.jpg' ]
 comments: true
 category: ofertas

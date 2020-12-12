@@ -3,6 +3,7 @@ layout: post
 title: 'Cefa Toys Clan Smartwatch Color Azul Tal al 45.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q%2Bi-cqO6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q%2Bi-cqO6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Q%2Bi-cqO6L._SL200_.jpg' ]
 comments: true
 category: ofertas

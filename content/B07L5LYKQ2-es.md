@@ -3,6 +3,7 @@ layout: post
 title: 'ZEMOJ DSFSD - Herramienta 18 en 1 para a al 81.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZLDEgVd5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZLDEgVd5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZLDEgVd5L._SL200_.jpg' ]
 comments: true
 category: ofertas

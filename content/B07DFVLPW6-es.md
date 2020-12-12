@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver SCHOOLIEII M BKPK KVJ0 Mochil al 36.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BeF9yfFvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BeF9yfFvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BeF9yfFvL._SL200_.jpg' ]
 comments: true
 category: ofertas

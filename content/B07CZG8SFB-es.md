@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.23 % en Puma Pacer Next Cage Zapatillas Unisex a'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZwJ7kmUUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZwJ7kmUUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZwJ7kmUUL._SL200_.jpg' ]
 comments: true
 category: ofertas

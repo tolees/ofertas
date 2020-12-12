@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Copa Gloro 19.2 Fg  Botas de Fútb al 32.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31p%2B6u%2B3gvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31p%2B6u%2B3gvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31p%2B6u%2B3gvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en TUXWANG 18/10 Perchas de Acero Inoxidabl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5170gEhm2CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5170gEhm2CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5170gEhm2CL._SL200_.jpg' ]
 comments: true
 category: ofertas

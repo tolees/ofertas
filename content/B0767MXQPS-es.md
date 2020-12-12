@@ -3,6 +3,7 @@ layout: post
 title: 'Pack: Narcos 1 + Narcos 2  4 BDs  [Blu-r al 32.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I-pOZlY4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I-pOZlY4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I-pOZlY4L._SL200_.jpg' ]
 comments: true
 category: ofertas

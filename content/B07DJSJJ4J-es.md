@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers by Gerli 41ce314  Zapatillas Alt al 75.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CxMeoL1wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CxMeoL1wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CxMeoL1wL._SL200_.jpg' ]
 comments: true
 category: ofertas

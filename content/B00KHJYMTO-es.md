@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.53 % en Puma 231011001  Calcetines Unisex Adulto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AXn%2BmoJ4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AXn%2BmoJ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AXn%2BmoJ4L._SL200_.jpg' ]
 comments: true
 category: ofertas

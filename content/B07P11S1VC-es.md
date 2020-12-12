@@ -3,6 +3,7 @@ layout: post
 title: 'Alarma Personal 3 PCS 140dB Alto Decibel al 55.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51u3UXBKBsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51u3UXBKBsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51u3UXBKBsL._SL200_.jpg' ]
 comments: true
 category: ofertas

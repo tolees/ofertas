@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas 107346  Pantalones para al 60.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SEgzGYTxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SEgzGYTxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SEgzGYTxL._SL200_.jpg' ]
 comments: true
 category: ofertas

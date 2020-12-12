@@ -3,6 +3,7 @@ layout: post
 title: 'Casio Reloj de Pulsera A159WGEA-1EF al 59.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519y3YIxmAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519y3YIxmAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519y3YIxmAL._SL200_.jpg' ]
 comments: true
 category: ofertas

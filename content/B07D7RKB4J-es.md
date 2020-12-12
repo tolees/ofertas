@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.21 % en Saucony Ride ISO  Zapatillas de Running '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4146ZUV9QXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4146ZUV9QXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4146ZUV9QXL._SL200_.jpg' ]
 comments: true
 category: ofertas

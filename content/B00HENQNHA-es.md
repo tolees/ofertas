@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.85 % en BHR 50131 Casco Modular  Color Negro Mat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413teRSz7VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413teRSz7VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413teRSz7VL._SL200_.jpg' ]
 comments: true
 category: ofertas

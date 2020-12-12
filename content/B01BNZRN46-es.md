@@ -3,6 +3,7 @@ layout: post
 title: 'Dakine  - Mochila Atlas  49 x 30 x 20 cm al 63.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fiNhOTMTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fiNhOTMTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fiNhOTMTL._SL200_.jpg' ]
 comments: true
 category: ofertas

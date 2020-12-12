@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.30 % en Napapijri Villa 2 Bañador  Verde  Alhamb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f1TFwSBgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f1TFwSBgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f1TFwSBgL._SL200_.jpg' ]
 comments: true
 category: ofertas

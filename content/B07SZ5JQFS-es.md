@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.35 % en Organizador de Equipaje de Viaje  7 Piez'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tLw4asb7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tLw4asb7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tLw4asb7L._SL200_.jpg' ]
 comments: true
 category: ofertas

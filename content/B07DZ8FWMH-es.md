@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.62 % en Columbia Lake 22 Jacket Chaqueta  Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415wZ9-FUYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415wZ9-FUYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415wZ9-FUYL._SL200_.jpg' ]
 comments: true
 category: ofertas

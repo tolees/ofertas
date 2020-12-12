@@ -3,6 +3,7 @@ layout: post
 title: 'Keter -  Mini huerto en casa G-Row con b al 37.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oblD%2BT7-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oblD%2BT7-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oblD%2BT7-L._SL200_.jpg' ]
 comments: true
 category: ofertas

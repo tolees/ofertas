@@ -3,6 +3,7 @@ layout: post
 title: 'Krom Karry Movistar Riders 15.6" Mochila al 57.26 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

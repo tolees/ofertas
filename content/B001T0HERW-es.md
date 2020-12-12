@@ -3,6 +3,7 @@ layout: post
 title: 'Abus 787 Cofre guardallaves  Blanco y ne al 30.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41neIlocEuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41neIlocEuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41neIlocEuL._SL200_.jpg' ]
 comments: true
 category: ofertas

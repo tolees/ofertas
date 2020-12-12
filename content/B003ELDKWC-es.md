@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.21 % en Piz Buin - Protección Solar  Loción alle'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R0iuWoQhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R0iuWoQhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R0iuWoQhL._SL200_.jpg' ]
 comments: true
 category: ofertas

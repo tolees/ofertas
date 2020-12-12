@@ -3,6 +3,7 @@ layout: post
 title: 'Easy Camp Porter 60 – Bolsa Gris  60 L al 68.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mN2AhnY6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mN2AhnY6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mN2AhnY6L._SL200_.jpg' ]
 comments: true
 category: ofertas

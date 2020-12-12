@@ -3,6 +3,7 @@ layout: post
 title: 'Duracell CR15H270 Baterías de litio CR2  al 56.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ImJ9t%2BOZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ImJ9t%2BOZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ImJ9t%2BOZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Teresa PL580535  Sudadera par al 60.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yaygx%2BR8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yaygx%2BR8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yaygx%2BR8L._SL200_.jpg' ]
 comments: true
 category: ofertas

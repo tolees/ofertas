@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.42 % en Springfield 273554 Camisa Casual  Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412MOLKc9sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412MOLKc9sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412MOLKc9sL._SL200_.jpg' ]
 comments: true
 category: ofertas

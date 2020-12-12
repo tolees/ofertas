@@ -3,6 +3,7 @@ layout: post
 title: 'TP-Link TL-ANT24EC5S - Cable alargador d al 25.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410NbeXUxvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410NbeXUxvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410NbeXUxvL._SL200_.jpg' ]
 comments: true
 category: ofertas

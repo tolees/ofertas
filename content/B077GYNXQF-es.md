@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Amsterdam Big Logo SS T Cam al 40.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HOMBb6aeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HOMBb6aeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HOMBb6aeL._SL200_.jpg' ]
 comments: true
 category: ofertas

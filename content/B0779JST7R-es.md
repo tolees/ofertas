@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.10 % en Pepe Jeans PIXLETTE Eco PG200753  Jeans '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rzGwXOioL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rzGwXOioL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rzGwXOioL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Nemeziz 18.2 FG  Zapatillas de Fú al 68.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cTqDrNlaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cTqDrNlaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cTqDrNlaL._SL200_.jpg' ]
 comments: true
 category: ofertas

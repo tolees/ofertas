@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.78 % en LELO TOR 2 Anillo Vibrador para el Pene '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zt6XSSU8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zt6XSSU8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zt6XSSU8L._SL200_.jpg' ]
 comments: true
 category: ofertas

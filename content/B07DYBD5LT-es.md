@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.23 % en Roxy Viva Glitter IV  Zapatos de Playa y'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mz9bIc9iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Mz9bIc9iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Mz9bIc9iL._SL200_.jpg' ]
 comments: true
 category: ofertas

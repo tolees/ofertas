@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit Accessoires - 019ea1o040  Bolso M al 48.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hQuL3f3OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hQuL3f3OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hQuL3f3OL._SL200_.jpg' ]
 comments: true
 category: ofertas

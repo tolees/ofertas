@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - Happy Belly Mango deshidr al 35.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H2J%2BgYadL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51H2J%2BgYadL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H2J%2BgYadL._SL200_.jpg' ]
 comments: true
 category: ofertas

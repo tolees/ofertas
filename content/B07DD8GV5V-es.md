@@ -3,6 +3,7 @@ layout: post
 title: 'adidas 18/19 Real Madrid Home with Lfp B al 67.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ktwXA%2BCFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ktwXA%2BCFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ktwXA%2BCFL._SL200_.jpg' ]
 comments: true
 category: ofertas

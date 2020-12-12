@@ -3,6 +3,7 @@ layout: post
 title: 'GRACE KARIN Falda Plisada Estampada de A al 48.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fMvTpsr1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fMvTpsr1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fMvTpsr1L._SL200_.jpg' ]
 comments: true
 category: ofertas

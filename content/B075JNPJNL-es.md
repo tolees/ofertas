@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.44 % en Philips Sonicare Diamond Clean - Cepillo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S78iQ81SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S78iQ81SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S78iQ81SL._SL200_.jpg' ]
 comments: true
 category: ofertas

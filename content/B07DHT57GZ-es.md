@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Mission Snow Jacket  Hombre   al 45.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j7StXCowL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j7StXCowL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j7StXCowL._SL200_.jpg' ]
 comments: true
 category: ofertas

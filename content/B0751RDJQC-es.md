@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Mlazrv1  Zapatillas para Hom al 70.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415P0gpD%2ByL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415P0gpD%2ByL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415P0gpD%2ByL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'United Colors of Benetton Wide Leg Trous al 79.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tJtrteyQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tJtrteyQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tJtrteyQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Vikky Ribbon P  Zapatillas para Muj al 31.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V9ilSE5GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V9ilSE5GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V9ilSE5GL._SL200_.jpg' ]
 comments: true
 category: ofertas

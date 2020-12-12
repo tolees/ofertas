@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.33 % en Auriculares Bluetooth  Syllable Q3 Auric'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XMVSOmEML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XMVSOmEML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XMVSOmEML._SL200_.jpg' ]
 comments: true
 category: ofertas

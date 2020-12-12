@@ -3,6 +3,7 @@ layout: post
 title: 'SUMGOTT Purificador de Aire  Filtro HEPA al 36.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ggJfDUPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411ggJfDUPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ggJfDUPL._SL200_.jpg' ]
 comments: true
 category: ofertas

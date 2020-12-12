@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.16 % en Zodiac WR000147 Vortex OV 3480 - Limpiaf'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sm%2Bp-aU5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sm%2Bp-aU5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sm%2Bp-aU5L._SL200_.jpg' ]
 comments: true
 category: ofertas

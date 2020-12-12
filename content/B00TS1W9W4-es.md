@@ -3,6 +3,7 @@ layout: post
 title: 'Hummel HUMMEL Crosslite - Zapatillas Dep al 77.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CC4wauCQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CC4wauCQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CC4wauCQL._SL200_.jpg' ]
 comments: true
 category: ofertas

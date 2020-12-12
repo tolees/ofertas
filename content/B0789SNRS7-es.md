@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Legend 7 Academy TF  Zapatillas de  al 45.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ln5RqDR6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ln5RqDR6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ln5RqDR6L._SL200_.jpg' ]
 comments: true
 category: ofertas

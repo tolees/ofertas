@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.68 % en Seiko Reloj Analógico para Mujer de Cuar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NznzWFLpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NznzWFLpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NznzWFLpL._SL200_.jpg' ]
 comments: true
 category: ofertas

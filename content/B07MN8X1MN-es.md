@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG 84056  Zapatillas para Hombre  Marr al 30.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u0CvJLonL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u0CvJLonL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u0CvJLonL._SL200_.jpg' ]
 comments: true
 category: ofertas

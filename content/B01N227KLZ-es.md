@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.77 % en Double Agent Cheerleader Pleated  Falda '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LBXUIYK2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LBXUIYK2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LBXUIYK2L._SL200_.jpg' ]
 comments: true
 category: ofertas

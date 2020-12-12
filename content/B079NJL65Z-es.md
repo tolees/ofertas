@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.34 % en Trucco TT20CA1 Vestido  Mujer  Azul  Osc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xc3NG8loL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xc3NG8loL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xc3NG8loL._SL200_.jpg' ]
 comments: true
 category: ofertas

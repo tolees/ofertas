@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Dress Vestido  Negro  Blac al 70.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2PZv8mFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2PZv8mFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2PZv8mFL._SL200_.jpg' ]
 comments: true
 category: ofertas

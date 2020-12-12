@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 574S v2  Zapatillas para Hom al 63.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zxe3f51-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zxe3f51-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zxe3f51-L._SL200_.jpg' ]
 comments: true
 category: ofertas

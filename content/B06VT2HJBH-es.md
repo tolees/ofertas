@@ -3,6 +3,7 @@ layout: post
 title: 'Lorenay LN-1115 - Cepillo de dientes ele al 46.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415H4oKbQ5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415H4oKbQ5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415H4oKbQ5L._SL200_.jpg' ]
 comments: true
 category: ofertas

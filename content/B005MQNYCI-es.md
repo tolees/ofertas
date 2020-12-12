@@ -3,6 +3,7 @@ layout: post
 title: 'Zippo Fragrances 72254 - Agua de colonia al 69.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dFTOpWZAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dFTOpWZAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dFTOpWZAL._SL200_.jpg' ]
 comments: true
 category: ofertas

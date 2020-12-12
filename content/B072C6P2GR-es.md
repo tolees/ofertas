@@ -3,6 +3,7 @@ layout: post
 title: 'Invicta Reloj de Pulsera 24760 al 28.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mnFvwXhNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mnFvwXhNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mnFvwXhNL._SL200_.jpg' ]
 comments: true
 category: ofertas

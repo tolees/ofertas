@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlcarmen Reg SK ANK JNS Rea19541 N al 76.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41htGf-flAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41htGf-flAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41htGf-flAL._SL200_.jpg' ]
 comments: true
 category: ofertas

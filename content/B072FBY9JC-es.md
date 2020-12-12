@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.16 % en Vero Moda Vmmilan Nille 3/4 Deep V-Neck '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FpxtJNdpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FpxtJNdpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FpxtJNdpL._SL200_.jpg' ]
 comments: true
 category: ofertas

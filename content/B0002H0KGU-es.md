@@ -3,6 +3,7 @@ layout: post
 title: 'Fender Squier Affinity Stratocaster Mapl al 32.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HWk%2BspoLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HWk%2BspoLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HWk%2BspoLL._SL200_.jpg' ]
 comments: true
 category: ofertas

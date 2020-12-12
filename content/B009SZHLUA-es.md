@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.94 % en Yaktrax Run Crampones  Hombre  Gris  XL'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RWuuORE%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RWuuORE%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RWuuORE%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

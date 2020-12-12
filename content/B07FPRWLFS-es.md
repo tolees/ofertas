@@ -3,6 +3,7 @@ layout: post
 title: 'Real Madrid 611854672 2018 Bolso Bandole al 33.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419n0WdCu4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419n0WdCu4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419n0WdCu4L._SL200_.jpg' ]
 comments: true
 category: ofertas

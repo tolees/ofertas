@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.44 % en Probios Compota para Untar con Naranja y'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rx28xmG7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rx28xmG7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rx28xmG7L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face W FZ Jacket Chaqueta con  al 65.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tHX6htTTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tHX6htTTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tHX6htTTL._SL200_.jpg' ]
 comments: true
 category: ofertas

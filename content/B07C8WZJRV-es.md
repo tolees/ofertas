@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.63 % en Vans_Apparel Classic  Camiseta para Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i0W%2BAU6BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i0W%2BAU6BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i0W%2BAU6BL._SL200_.jpg' ]
 comments: true
 category: ofertas

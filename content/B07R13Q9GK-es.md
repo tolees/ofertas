@@ -3,6 +3,7 @@ layout: post
 title: 'Zapatos de Seguridad para Hombre con Pun al 40.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mm3W9GbXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mm3W9GbXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mm3W9GbXL._SL200_.jpg' ]
 comments: true
 category: ofertas

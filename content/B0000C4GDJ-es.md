@@ -3,6 +3,7 @@ layout: post
 title: 'Canon EW-75II - Parasol para objetivos C al 47.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21lL-2VQstL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21lL-2VQstL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21lL-2VQstL._SL200_.jpg' ]
 comments: true
 category: ofertas

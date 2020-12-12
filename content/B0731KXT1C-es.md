@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.48 % en Reebok Royal Complete 2LW  Zapatillas pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bp6QAf3gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bp6QAf3gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bp6QAf3gL._SL200_.jpg' ]
 comments: true
 category: ofertas

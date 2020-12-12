@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.30 % en LEGO Teo 755 L/S Camiseta  Niños  Blanco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-y8nlRTpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-y8nlRTpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-y8nlRTpL._SL200_.jpg' ]
 comments: true
 category: ofertas

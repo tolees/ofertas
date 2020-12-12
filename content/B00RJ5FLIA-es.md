@@ -3,6 +3,7 @@ layout: post
 title: 'VAUDE Valdipino Poncho - Chubasquero Imp al 64.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qupk3uvNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qupk3uvNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qupk3uvNL._SL200_.jpg' ]
 comments: true
 category: ofertas

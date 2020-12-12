@@ -3,6 +3,7 @@ layout: post
 title: 'Blend 20705881  Pantalones para Hombre   al 67.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419XjpaZTsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419XjpaZTsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419XjpaZTsL._SL200_.jpg' ]
 comments: true
 category: ofertas

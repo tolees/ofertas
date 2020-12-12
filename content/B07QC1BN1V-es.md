@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.44 % en Zapatillas Hombres De Deporte Sin Cordon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51k5W3usonL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51k5W3usonL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51k5W3usonL._SL200_.jpg' ]
 comments: true
 category: ofertas

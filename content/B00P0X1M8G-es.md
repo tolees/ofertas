@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.31 % en Zanvic Jardinera C/Patas Mod Rato Jh 600'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JMiqrkAAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JMiqrkAAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JMiqrkAAL._SL200_.jpg' ]
 comments: true
 category: ofertas

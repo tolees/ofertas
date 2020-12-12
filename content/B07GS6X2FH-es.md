@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.55 % en Garmin Vívomove HR-Smartwatch  Color Oro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h5y-3wkEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h5y-3wkEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h5y-3wkEL._SL200_.jpg' ]
 comments: true
 category: ofertas

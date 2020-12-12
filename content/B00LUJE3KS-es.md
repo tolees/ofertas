@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.71 % en Ultranatura 200100000407 - Caballete par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P0Q%2BCZhxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P0Q%2BCZhxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P0Q%2BCZhxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SYOSIN Taladro Juguete con Destornillado al 99.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dLZ%2BWbCIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dLZ%2BWbCIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dLZ%2BWbCIL._SL200_.jpg' ]
 comments: true
 category: ofertas

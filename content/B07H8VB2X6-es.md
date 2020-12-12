@@ -3,6 +3,7 @@ layout: post
 title: 'Wonderbra Fabulous Feel Padde Sans Armat al 78.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b6Qnn7AkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b6Qnn7AkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b6Qnn7AkL._SL200_.jpg' ]
 comments: true
 category: ofertas

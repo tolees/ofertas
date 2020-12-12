@@ -3,6 +3,7 @@ layout: post
 title: 'Women s Secret CP Flower Sbup  Sujetador al 50.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LsfswA8XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LsfswA8XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LsfswA8XL._SL200_.jpg' ]
 comments: true
 category: ofertas

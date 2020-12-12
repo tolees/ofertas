@@ -3,6 +3,7 @@ layout: post
 title: 'Pistola de Dinero  Juguete de Money Gun  al 29.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51edAfgH9JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51edAfgH9JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51edAfgH9JL._SL200_.jpg' ]
 comments: true
 category: ofertas

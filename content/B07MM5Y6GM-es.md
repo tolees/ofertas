@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.41 % en Westt® Storm · Casco Moto Integral Motoc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xILz3km9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xILz3km9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xILz3km9L._SL200_.jpg' ]
 comments: true
 category: ofertas

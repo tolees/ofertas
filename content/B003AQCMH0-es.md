@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.19 % en Birkenstock Milano  Sandalias con Correa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lvaCqy3xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lvaCqy3xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lvaCqy3xL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'O Neill PM Original Cali Bermudas  Hombr al 28.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bv3G1HM3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bv3G1HM3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bv3G1HM3L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'PUPPYOO WP521 Aspiradora Sin Saco Gran P al 63.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o5N5qsdKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o5N5qsdKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o5N5qsdKL._SL200_.jpg' ]
 comments: true
 category: ofertas

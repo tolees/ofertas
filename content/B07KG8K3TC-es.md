@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.65 % en Asmuse™ 5W Mini Amplificador Combo para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H2NrCI75L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H2NrCI75L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H2NrCI75L._SL200_.jpg' ]
 comments: true
 category: ofertas

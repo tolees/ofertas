@@ -3,6 +3,7 @@ layout: post
 title: 'LANGRIA Almohada Cervical Ergonómica de  al 86.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5142fnm6J3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5142fnm6J3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5142fnm6J3L._SL200_.jpg' ]
 comments: true
 category: ofertas

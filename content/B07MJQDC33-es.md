@@ -3,6 +3,7 @@ layout: post
 title: 'Aleumdr Mujer Pantalones Rectos Jeans Ci al 25.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iIGS9NIpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iIGS9NIpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iIGS9NIpL._SL200_.jpg' ]
 comments: true
 category: ofertas

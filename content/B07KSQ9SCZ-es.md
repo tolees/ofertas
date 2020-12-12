@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Silver Ridge II Camisa de Manga al 44.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413BtGbFtLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413BtGbFtLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413BtGbFtLL._SL200_.jpg' ]
 comments: true
 category: ofertas

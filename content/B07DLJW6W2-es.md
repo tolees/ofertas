@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.52 % en Springfield 4Wo Abierta Hacker Team Suda'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xctDMAsUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xctDMAsUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xctDMAsUL._SL200_.jpg' ]
 comments: true
 category: ofertas

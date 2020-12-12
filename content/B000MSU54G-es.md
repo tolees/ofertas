@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.22 % en Birkenstock Madrid - Mules Hombre  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31b11N-xKFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31b11N-xKFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31b11N-xKFL._SL200_.jpg' ]
 comments: true
 category: ofertas

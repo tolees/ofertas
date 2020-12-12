@@ -3,6 +3,7 @@ layout: post
 title: 'Jennyfer 00dida  Abrigo para Mujer  Marf al 74.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rxjA8LcpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rxjA8LcpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rxjA8LcpL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.32 % en SUENOSZZZ - Asiento cojin para palets  2'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pNSykzEQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pNSykzEQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pNSykzEQL._SL200_.jpg' ]
 comments: true
 category: ofertas

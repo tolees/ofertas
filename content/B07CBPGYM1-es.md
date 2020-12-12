@@ -3,6 +3,7 @@ layout: post
 title: 'Triumph Amourette Charm N  Sujetador sin al 30.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UU6K-fMBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UU6K-fMBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UU6K-fMBL._SL200_.jpg' ]
 comments: true
 category: ofertas

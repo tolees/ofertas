@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.44 % en SHANA 73833  Vestido Para Mujer  Azul  I'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oL2jS5XaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oL2jS5XaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oL2jS5XaL._SL200_.jpg' ]
 comments: true
 category: ofertas

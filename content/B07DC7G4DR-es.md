@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.62 % en Puma Te- KU  Zapatillas Unisex Adulto  B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ziHjMj57L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ziHjMj57L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ziHjMj57L._SL200_.jpg' ]
 comments: true
 category: ofertas

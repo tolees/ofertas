@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.70 % en Hori - Funda Rígida con cremallera Yo-Ka'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mSvAKGLxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mSvAKGLxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mSvAKGLxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'KAREN MILLEN Fashions Limited Suede Bloc al 59.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31woo7XUETL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31woo7XUETL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31woo7XUETL._SL200_.jpg' ]
 comments: true
 category: ofertas

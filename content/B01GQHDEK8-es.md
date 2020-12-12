@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.86 % en Simon & Tom - PURE HYDRA - Crema facial '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fdx1o5ncL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fdx1o5ncL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fdx1o5ncL._SL200_.jpg' ]
 comments: true
 category: ofertas

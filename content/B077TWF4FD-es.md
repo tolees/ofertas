@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.36 % en Reebok F/S Hi  Zapatillas Altas para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pyz8bZL%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pyz8bZL%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pyz8bZL%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

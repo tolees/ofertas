@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Almayer Lite  Zapatillas para Hom al 29.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nVD1P7agL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nVD1P7agL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nVD1P7agL._SL200_.jpg' ]
 comments: true
 category: ofertas

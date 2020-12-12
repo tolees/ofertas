@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.37 % en Shiseido Men Total Revitalizer Eye'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KgElgo0NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KgElgo0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KgElgo0NL._SL200_.jpg' ]
 comments: true
 category: ofertas

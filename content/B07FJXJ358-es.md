@@ -3,6 +3,7 @@ layout: post
 title: 'GEARGO Licuadora para Verduras y Frutas  al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FTE%2BnxSKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FTE%2BnxSKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FTE%2BnxSKL._SL200_.jpg' ]
 comments: true
 category: ofertas

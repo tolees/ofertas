@@ -3,6 +3,7 @@ layout: post
 title: 'Tous EDP 90ML al 48.11 % de descuento'
 date: 2020-12-11 22:27:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ARxqqv8xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ARxqqv8xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ARxqqv8xL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -25,8 +26,8 @@ Ahora mismo tienes [Tous EDP 90ML](https://www.amazon.es/dp/B000VON5JS/?tag=tole
 Características:
 
 - Salida: hojas de casis, violeta, bergamota y coriandro.
-- Fondo: Musc blanco, cedro de marruecos e iris
 - Corazón: Jazmon blanco,, peonia amarilla, rosa y gardenia
+- Fondo: Musc blanco, cedro de marruecos e iris
 
 [Visítala!!!](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21)
 

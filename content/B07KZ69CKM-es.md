@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel C2Bcc Print Flor Turquesa Cami al 45.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZSUMY9C4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZSUMY9C4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZSUMY9C4L._SL200_.jpg' ]
 comments: true
 category: ofertas

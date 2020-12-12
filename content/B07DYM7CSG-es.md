@@ -3,6 +3,7 @@ layout: post
 title: 'Souarts - Varilla de soldadura  20 unida al 95.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s5uJLIloL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51s5uJLIloL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s5uJLIloL._SL200_.jpg' ]
 comments: true
 category: ofertas

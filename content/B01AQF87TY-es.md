@@ -3,6 +3,7 @@ layout: post
 title: 'Spin Master Paw Patrol Popper Game Niños al 44.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61W3FHgNcpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61W3FHgNcpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61W3FHgNcpL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.02 % en Iris & Lilly Sujetador Reductor con Aros'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sL1nHEgaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sL1nHEgaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sL1nHEgaL._SL200_.jpg' ]
 comments: true
 category: ofertas

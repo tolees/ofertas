@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Articage  Chaqueta  Azul  Medi al 57.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NytkZG3lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NytkZG3lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NytkZG3lL._SL200_.jpg' ]
 comments: true
 category: ofertas

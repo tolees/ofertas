@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.02 % en Puma One 3 Illuminate FG  Zapatillas de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V7inmYusL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V7inmYusL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V7inmYusL._SL200_.jpg' ]
 comments: true
 category: ofertas

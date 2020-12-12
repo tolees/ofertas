@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.43 % en Vegkey Repelente Ultrasónico Mosquitos  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r4tb9aX8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r4tb9aX8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r4tb9aX8L._SL200_.jpg' ]
 comments: true
 category: ofertas

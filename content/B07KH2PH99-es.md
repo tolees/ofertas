@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.63 % en Under Armour Storm Midlayer Parte Superi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JV9h8P2NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JV9h8P2NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JV9h8P2NL._SL200_.jpg' ]
 comments: true
 category: ofertas

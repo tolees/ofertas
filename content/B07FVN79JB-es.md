@@ -3,6 +3,7 @@ layout: post
 title: 'Aspiradora de Puntos Negros  Aspiradora  al 42.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HYhxXE9YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HYhxXE9YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HYhxXE9YL._SL200_.jpg' ]
 comments: true
 category: ofertas

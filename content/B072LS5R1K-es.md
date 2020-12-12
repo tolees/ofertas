@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.56 % en Puma Escaper SL V Inf  Zapatillas Unisex'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uNhkdJCQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uNhkdJCQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uNhkdJCQL._SL200_.jpg' ]
 comments: true
 category: ofertas

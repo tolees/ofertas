@@ -3,6 +3,7 @@ layout: post
 title: 'adidas - Mochila Unisex adulto  Azul  Bl al 50.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZDKmDdFHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZDKmDdFHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZDKmDdFHL._SL200_.jpg' ]
 comments: true
 category: ofertas

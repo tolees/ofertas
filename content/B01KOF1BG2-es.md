@@ -3,6 +3,7 @@ layout: post
 title: 'BaByliss H100E - Plancha de pelo mini de al 44.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rJTasqmNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rJTasqmNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rJTasqmNL._SL200_.jpg' ]
 comments: true
 category: ofertas

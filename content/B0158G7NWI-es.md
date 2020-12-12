@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.93 % en ASUS ZenFone Go ZE500TG - Smartphone Lib'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n1Q5q3SGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n1Q5q3SGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n1Q5q3SGL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Predator 19.4 In Sala J  Botas de al 40.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R8g3-csGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R8g3-csGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R8g3-csGL._SL200_.jpg' ]
 comments: true
 category: ofertas

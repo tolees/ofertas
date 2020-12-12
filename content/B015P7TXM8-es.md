@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.11 % en Concord Transformer Pro  Silla de coche '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LqjEHQQlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LqjEHQQlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LqjEHQQlL._SL200_.jpg' ]
 comments: true
 category: ofertas

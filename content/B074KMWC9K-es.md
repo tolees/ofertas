@@ -3,6 +3,7 @@ layout: post
 title: 'Supra Stacks II Vulc  Zapatillas para Ho al 64.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411HlszyBvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411HlszyBvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411HlszyBvL._SL200_.jpg' ]
 comments: true
 category: ofertas

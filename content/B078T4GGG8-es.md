@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.39 % en Women’secret Bañador  Negro  Black 1   4'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQOUtVPHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQOUtVPHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZQOUtVPHL._SL200_.jpg' ]
 comments: true
 category: ofertas

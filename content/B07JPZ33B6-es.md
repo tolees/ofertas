@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcofade Sweat Crew Neck Sud al 78.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DI3OPEJLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DI3OPEJLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DI3OPEJLL._SL200_.jpg' ]
 comments: true
 category: ofertas

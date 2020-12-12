@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Universal II IT - Zapatillas Deport al 63.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412ARgVfvvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412ARgVfvvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412ARgVfvvL._SL200_.jpg' ]
 comments: true
 category: ofertas

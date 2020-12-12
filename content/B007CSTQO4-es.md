@@ -3,6 +3,7 @@ layout: post
 title: 'Remington PG180 Pilot - Cortadora para b al 66.02 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B007CSTQO4.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B007CSTQO4.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B007CSTQO4.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'GEOX J Casey Girl  Botas Militar para Ni al 50.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Y-1%2BV-jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419Y-1%2BV-jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Y-1%2BV-jL._SL200_.jpg' ]
 comments: true
 category: ofertas

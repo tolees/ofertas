@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.28 % en HyperX Predator DDR4 - Memoria RAM de 64'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KU3UpGwIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KU3UpGwIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KU3UpGwIL._SL200_.jpg' ]
 comments: true
 category: ofertas

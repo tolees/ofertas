@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Men s Gorra  Hombre  Verde  al 39.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tMUBx3aTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tMUBx3aTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tMUBx3aTL._SL200_.jpg' ]
 comments: true
 category: ofertas

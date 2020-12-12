@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.62 % en Vans Authentic  Zapatillas De Lona Infan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rfKhUhGOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rfKhUhGOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rfKhUhGOL._SL200_.jpg' ]
 comments: true
 category: ofertas

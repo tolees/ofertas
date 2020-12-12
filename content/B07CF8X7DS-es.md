@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Skinner  Zapatillas para Hombre   al 45.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x2j06O5NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31x2j06O5NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x2j06O5NL._SL200_.jpg' ]
 comments: true
 category: ofertas

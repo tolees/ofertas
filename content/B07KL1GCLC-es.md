@@ -3,6 +3,7 @@ layout: post
 title: 'Safety 1st PEPS+CAPOTA  Black Chic  - Si al 44.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fb5F92VxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fb5F92VxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fb5F92VxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling - Firefly Up  Mochilas Mujer  Ma al 49.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41754uD8x2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41754uD8x2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41754uD8x2L._SL200_.jpg' ]
 comments: true
 category: ofertas

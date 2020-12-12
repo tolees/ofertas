@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.30 % en LYNCA LYN-251Z Correa de hombro cuello p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lTzVtm5QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lTzVtm5QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lTzVtm5QL._SL200_.jpg' ]
 comments: true
 category: ofertas

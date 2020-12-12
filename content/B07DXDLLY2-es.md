@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.45 % en anbiwangluo Código Da Vinci Mini Cryptex'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xMzwn5W7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xMzwn5W7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xMzwn5W7L._SL200_.jpg' ]
 comments: true
 category: ofertas

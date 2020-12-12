@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Trailgrip 6.0  Zapatillas de Send al 60.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LGs10RWKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LGs10RWKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LGs10RWKL._SL200_.jpg' ]
 comments: true
 category: ofertas

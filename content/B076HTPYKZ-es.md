@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Core18 Hoody Sudadera con Capucha al 25.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Zl8W%2BcVdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Zl8W%2BcVdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Zl8W%2BcVdL._SL200_.jpg' ]
 comments: true
 category: ofertas

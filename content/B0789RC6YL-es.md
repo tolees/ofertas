@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.87 % en Sades R4 Juego de Auriculares para Xbox '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5183rePWmNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5183rePWmNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5183rePWmNL._SL200_.jpg' ]
 comments: true
 category: ofertas

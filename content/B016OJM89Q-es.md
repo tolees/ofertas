@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.61 % en NAOKO Vestido At21 Violeta S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512nFWft7lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512nFWft7lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512nFWft7lL._SL200_.jpg' ]
 comments: true
 category: ofertas

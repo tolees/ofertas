@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES Pcmusthave 3/4 Top Noos Camisa Ma al 63.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413H%2BLhK1ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413H%2BLhK1ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413H%2BLhK1ML._SL200_.jpg' ]
 comments: true
 category: ofertas

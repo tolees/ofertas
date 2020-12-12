@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.19 % en Puma Evospeed 17.5 It  Botas de fútbol p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415TCtzzseL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415TCtzzseL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415TCtzzseL._SL200_.jpg' ]
 comments: true
 category: ofertas

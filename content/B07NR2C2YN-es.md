@@ -3,6 +3,7 @@ layout: post
 title: 'ITACA - Maleta Cabina de Viaje Rígida 4  al 39.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BVtn98IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BVtn98IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BVtn98IL._SL200_.jpg' ]
 comments: true
 category: ofertas

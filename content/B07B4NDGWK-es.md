@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Wayfarer Eye  Gafas de sol Unisex al 59.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Jfz%2B6OyQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Jfz%2B6OyQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Jfz%2B6OyQL._SL200_.jpg' ]
 comments: true
 category: ofertas

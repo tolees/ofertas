@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Fuzetora  Zapatillas de Running pa al 60.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4187fb1471L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4187fb1471L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4187fb1471L._SL200_.jpg' ]
 comments: true
 category: ofertas

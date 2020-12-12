@@ -3,6 +3,7 @@ layout: post
 title: 'Color Life Set Taza De Cafe con Plato 6  al 34.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EANmG%2BOUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EANmG%2BOUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EANmG%2BOUL._SL200_.jpg' ]
 comments: true
 category: ofertas

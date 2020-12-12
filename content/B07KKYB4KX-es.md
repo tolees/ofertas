@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Vista Sudaderas  Hombre  Gray Hea al 43.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ROi7tejaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ROi7tejaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ROi7tejaL._SL200_.jpg' ]
 comments: true
 category: ofertas

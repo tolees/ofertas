@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Wildshire Bolso Bandolera  20 al 40.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511YGhefFxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511YGhefFxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511YGhefFxL._SL200_.jpg' ]
 comments: true
 category: ofertas

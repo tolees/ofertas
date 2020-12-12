@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.83 % en LOBKIN Hub USB-C 8 en 1 con Carga PD  Fa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X7czFCtAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X7czFCtAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X7czFCtAL._SL200_.jpg' ]
 comments: true
 category: ofertas

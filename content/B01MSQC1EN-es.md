@@ -3,6 +3,7 @@ layout: post
 title: 'Wenger Reloj Analogico para Hombre de Cu al 62.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412p8Hj19AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412p8Hj19AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412p8Hj19AL._SL200_.jpg' ]
 comments: true
 category: ofertas

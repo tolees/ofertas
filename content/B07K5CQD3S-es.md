@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.99 % en 1Pc Adaptador de Soporte de Montaje de E'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41avfbFKPuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41avfbFKPuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41avfbFKPuL._SL200_.jpg' ]
 comments: true
 category: ofertas

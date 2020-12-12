@@ -3,6 +3,7 @@ layout: post
 title: 'Blend Sabbi Dr  Vestido para Mujer  Rojo al 80.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GhTGNZMgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GhTGNZMgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GhTGNZMgL._SL200_.jpg' ]
 comments: true
 category: ofertas

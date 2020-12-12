@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Business Hannover_oxfr_buwt  Zapato al 49.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P-L5AWsWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31P-L5AWsWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31P-L5AWsWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.34 % en Only Onllara LS Short Dress Box Wvn  Ves'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CGevXhgYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CGevXhgYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CGevXhgYL._SL200_.jpg' ]
 comments: true
 category: ofertas

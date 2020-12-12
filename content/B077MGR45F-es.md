@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlmaia L/s Smock Top Gingham Wvn B al 74.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qmMxMXa3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qmMxMXa3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qmMxMXa3L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'HyperX Predator HX429C15PB3A/8 - Kit Mem al 56.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BKlZ8qRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BKlZ8qRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BKlZ8qRL._SL200_.jpg' ]
 comments: true
 category: ofertas

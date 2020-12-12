@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Mujer Pantalón convertible  SAT al 44.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uDSbyZlOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uDSbyZlOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uDSbyZlOL._SL200_.jpg' ]
 comments: true
 category: ofertas

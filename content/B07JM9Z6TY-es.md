@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Shirt Shop tee Camiseta de Tira al 58.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fdSCGcm9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fdSCGcm9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fdSCGcm9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.44 % en SLOMG - Piedras que brillan en la oscuri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61I-K6rg1yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61I-K6rg1yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61I-K6rg1yL._SL200_.jpg' ]
 comments: true
 category: ofertas

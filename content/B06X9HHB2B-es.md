@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Bonded Crew Sudadera  Hombre  Mon al 56.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ylmb15EvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ylmb15EvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ylmb15EvL._SL200_.jpg' ]
 comments: true
 category: ofertas

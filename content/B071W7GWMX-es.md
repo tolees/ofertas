@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.88 % en Skechers Bobs B-Loved-Spring Blossom  Za'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418ljYYN2vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418ljYYN2vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418ljYYN2vL._SL200_.jpg' ]
 comments: true
 category: ofertas

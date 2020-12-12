@@ -3,6 +3,7 @@ layout: post
 title: 'Dreamsy Bolsa de Almacenamiento Colgante al 33.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51L2xAYs6yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51L2xAYs6yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51L2xAYs6yL._SL200_.jpg' ]
 comments: true
 category: ofertas

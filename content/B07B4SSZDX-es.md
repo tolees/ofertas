@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Lanc 3D Tapered  Jeans para H al 37.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hWMvpBQoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hWMvpBQoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hWMvpBQoL._SL200_.jpg' ]
 comments: true
 category: ofertas

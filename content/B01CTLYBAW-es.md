@@ -3,6 +3,7 @@ layout: post
 title: 'Spalding NBA Player Stephen Curry Sz.5   al 35.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61DNKgbDHAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61DNKgbDHAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61DNKgbDHAL._SL200_.jpg' ]
 comments: true
 category: ofertas

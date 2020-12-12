@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.02 % en Carpeta para Archivo CNASA Archivador de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EwHbT8RBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EwHbT8RBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EwHbT8RBL._SL200_.jpg' ]
 comments: true
 category: ofertas

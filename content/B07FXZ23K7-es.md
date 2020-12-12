@@ -3,6 +3,7 @@ layout: post
 title: 'Champion Performance Ankle  Calcetines d al 31.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fHjY5ltWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fHjY5ltWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fHjY5ltWL._SL200_.jpg' ]
 comments: true
 category: ofertas

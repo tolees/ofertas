@@ -3,6 +3,7 @@ layout: post
 title: 'Mondaine SBB Evo Automatic 40mm A1323034 al 37.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EdVyT8oqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EdVyT8oqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EdVyT8oqL._SL200_.jpg' ]
 comments: true
 category: ofertas

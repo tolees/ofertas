@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Royal Complete Pmw  Zapatillas Al al 72.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eVy3puygL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eVy3puygL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eVy3puygL._SL200_.jpg' ]
 comments: true
 category: ofertas

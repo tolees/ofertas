@@ -3,6 +3,7 @@ layout: post
 title: 'Trixie Set Comed.Cerám+Pie  2x0.6 l  ø15 al 55.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GNl0lfh-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GNl0lfh-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GNl0lfh-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Suzaki Moto Zip Through Knit  al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412KYEOf98L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412KYEOf98L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412KYEOf98L._SL200_.jpg' ]
 comments: true
 category: ofertas

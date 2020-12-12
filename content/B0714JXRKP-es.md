@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.61 % en Head Princess Traje De Baño Olimpico  Ni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Fy91OHWQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fy91OHWQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Fy91OHWQL._SL200_.jpg' ]
 comments: true
 category: ofertas

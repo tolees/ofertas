@@ -3,6 +3,7 @@ layout: post
 title: 'perfk 18650 Recargable Batería de Litio  al 37.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yvyiXFahL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yvyiXFahL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yvyiXFahL._SL200_.jpg' ]
 comments: true
 category: ofertas

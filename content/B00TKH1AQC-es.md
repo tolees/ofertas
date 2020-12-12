@@ -3,6 +3,7 @@ layout: post
 title: 'Sennheiser Momentum 2.0 ON-Ear Wireless  al 42.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EEP7Fyf4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EEP7Fyf4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EEP7Fyf4L._SL200_.jpg' ]
 comments: true
 category: ofertas

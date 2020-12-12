@@ -3,6 +3,7 @@ layout: post
 title: 'Lifewit Neceser Maquillaje 2 Pisos Bolso al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513viZwt9bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513viZwt9bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513viZwt9bL._SL200_.jpg' ]
 comments: true
 category: ofertas

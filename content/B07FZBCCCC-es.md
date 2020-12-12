@@ -3,6 +3,7 @@ layout: post
 title: 'RIP CURL Yarn DYED Stripe HZ Fleece Suda al 50.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YCeU3zVcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YCeU3zVcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YCeU3zVcL._SL200_.jpg' ]
 comments: true
 category: ofertas

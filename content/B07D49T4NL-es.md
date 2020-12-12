@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.49 % en Lámpara Proyector  Proyector LED de Luz '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BQ6RxF7vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BQ6RxF7vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BQ6RxF7vL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Los extraños: Cacería nocturna [Blu-ray] al 30.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516Q7bmJu0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516Q7bmJu0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516Q7bmJu0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Sennheiser Momentum  M2-AEBT Ivory - Aur al 53.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wn0ilEdRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wn0ilEdRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wn0ilEdRL._SL200_.jpg' ]
 comments: true
 category: ofertas

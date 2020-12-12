@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.36 % en smartect Protector de Pantalla para ASUS'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e9M76FqRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e9M76FqRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e9M76FqRL._SL200_.jpg' ]
 comments: true
 category: ofertas

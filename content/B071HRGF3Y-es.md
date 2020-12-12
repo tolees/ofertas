@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 26712  Botas Militar para Mujer  al 77.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BrPdLhU1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BrPdLhU1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BrPdLhU1L._SL200_.jpg' ]
 comments: true
 category: ofertas

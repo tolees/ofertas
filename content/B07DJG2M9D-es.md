@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.99 % en Dockers by Gerli 41bb109  Botas Militar '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HmqxymIDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HmqxymIDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HmqxymIDL._SL200_.jpg' ]
 comments: true
 category: ofertas

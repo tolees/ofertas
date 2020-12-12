@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.54 % en Adidas Hoops 2.0  Zapatillas de Deporte '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4189RthcwmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4189RthcwmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4189RthcwmL._SL200_.jpg' ]
 comments: true
 category: ofertas

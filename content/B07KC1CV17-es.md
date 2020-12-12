@@ -3,6 +3,7 @@ layout: post
 title: 'Palazen Organizador de Ropa Interior Ple al 30.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RRu5NY3xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RRu5NY3xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RRu5NY3xL._SL200_.jpg' ]
 comments: true
 category: ofertas

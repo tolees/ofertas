@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.86 % en Puma Breaker Suede  Zapatillas Unisex Ad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fP%2B720lGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fP%2B720lGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fP%2B720lGL._SL200_.jpg' ]
 comments: true
 category: ofertas

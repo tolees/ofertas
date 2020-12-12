@@ -3,6 +3,7 @@ layout: post
 title: 'Formex 4 Speed 72511.708 - Reloj analógi al 51.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K-UeogvkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K-UeogvkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K-UeogvkL._SL200_.jpg' ]
 comments: true
 category: ofertas

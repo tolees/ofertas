@@ -3,6 +3,7 @@ layout: post
 title: 'Yamato 7020507 Esmeriladora de banco 200 al 38.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DioZjdZkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DioZjdZkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DioZjdZkL._SL200_.jpg' ]
 comments: true
 category: ofertas

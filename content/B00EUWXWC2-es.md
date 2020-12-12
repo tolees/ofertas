@@ -3,6 +3,7 @@ layout: post
 title: 'Anal Fantasy AFC Flexa Pleaser Power Bea al 60.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nRkkX5swL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nRkkX5swL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nRkkX5swL._SL200_.jpg' ]
 comments: true
 category: ofertas

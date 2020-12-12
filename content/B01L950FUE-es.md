@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.23 % en Gioseppo 37049  Mocasines para Niños   N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313-iO84h4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313-iO84h4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313-iO84h4L._SL200_.jpg' ]
 comments: true
 category: ofertas

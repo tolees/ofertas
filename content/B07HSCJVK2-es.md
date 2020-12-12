@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.65 % en 3ª equipación Réplica - Real Betis Balom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tETI9j-AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tETI9j-AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tETI9j-AL._SL200_.jpg' ]
 comments: true
 category: ofertas

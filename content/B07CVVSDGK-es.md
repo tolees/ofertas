@@ -3,6 +3,7 @@ layout: post
 title: 'RAOYI Memoria Flash USB de 16GB USB 2.0  al 48.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ES9RnR4gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ES9RnR4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ES9RnR4gL._SL200_.jpg' ]
 comments: true
 category: ofertas

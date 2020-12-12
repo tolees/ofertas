@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.01 % en Himaly Limpiador de Poros Eliminador de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4186erRXQNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4186erRXQNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4186erRXQNL._SL200_.jpg' ]
 comments: true
 category: ofertas

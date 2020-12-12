@@ -3,6 +3,7 @@ layout: post
 title: '!Solid Sweat - Simon-Sudadera Hombre Gra al 76.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yATVMAeGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yATVMAeGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yATVMAeGL._SL200_.jpg' ]
 comments: true
 category: ofertas

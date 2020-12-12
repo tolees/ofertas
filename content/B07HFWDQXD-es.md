@@ -3,6 +3,7 @@ layout: post
 title: 'Guantes de Invierno Cooolla Cálidos guan al 54.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VJTLTC9mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VJTLTC9mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VJTLTC9mL._SL200_.jpg' ]
 comments: true
 category: ofertas

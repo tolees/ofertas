@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.19 % en BOSCH 2608601520 - Disco abrasivo de cor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61bsho62JjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61bsho62JjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61bsho62JjL._SL200_.jpg' ]
 comments: true
 category: ofertas

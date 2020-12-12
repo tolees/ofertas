@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.69 % en Reebok Run Supreme 3.0  Zapatillas de Ru'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jeWejj%2BcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jeWejj%2BcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jeWejj%2BcL._SL200_.jpg' ]
 comments: true
 category: ofertas

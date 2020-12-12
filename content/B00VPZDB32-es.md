@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Bodywear Stripe 15 - Bóxer para hom al 44.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IAJwkzYYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IAJwkzYYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IAJwkzYYL._SL200_.jpg' ]
 comments: true
 category: ofertas

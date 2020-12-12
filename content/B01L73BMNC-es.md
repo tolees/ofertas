@@ -3,6 +3,7 @@ layout: post
 title: 'Pigro Felice 921995 Bomba  Negro  117x11 al 58.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wUHw5E40L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wUHw5E40L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wUHw5E40L._SL200_.jpg' ]
 comments: true
 category: ofertas

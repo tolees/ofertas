@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.23 % en Jungle King Gran Capacidad 30 L Agua Den'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511NVooeLIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511NVooeLIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511NVooeLIL._SL200_.jpg' ]
 comments: true
 category: ofertas

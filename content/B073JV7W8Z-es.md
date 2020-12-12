@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Sudadera con Capucha y Cremallera H al 70.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-ksjnve%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-ksjnve%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-ksjnve%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

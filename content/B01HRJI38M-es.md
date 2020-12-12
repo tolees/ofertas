@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.95 % en Kupton Accesorios para Xiaomi Yi 4K/Yi 4'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KoExIrh8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KoExIrh8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KoExIrh8L._SL200_.jpg' ]
 comments: true
 category: ofertas

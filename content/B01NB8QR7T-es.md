@@ -3,6 +3,7 @@ layout: post
 title: 'L Oréal Paris Colorista Coloración Tempo al 28.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D8hz67UUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D8hz67UUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D8hz67UUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 690 Naming SPF Org Tricol Ca al 47.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EGXBrcGkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EGXBrcGkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EGXBrcGkL._SL200_.jpg' ]
 comments: true
 category: ofertas

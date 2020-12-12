@@ -3,6 +3,7 @@ layout: post
 title: 'Undercover Mochila Infantil  Rojo  Negro al 55.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RCN1srJAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RCN1srJAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RCN1srJAL._SL200_.jpg' ]
 comments: true
 category: ofertas

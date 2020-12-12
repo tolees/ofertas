@@ -3,6 +3,7 @@ layout: post
 title: 'ZZLAY Sombrero de los pasamontañas de lo al 31.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KZisQbpjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KZisQbpjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KZisQbpjL._SL200_.jpg' ]
 comments: true
 category: ofertas

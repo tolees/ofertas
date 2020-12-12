@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Track Pm201100wc6  Vaqueros s al 43.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F5ShsaQoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F5ShsaQoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F5ShsaQoL._SL200_.jpg' ]
 comments: true
 category: ofertas

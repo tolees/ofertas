@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Dinah Keer  Zapatos de Tacón para al 68.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ApgG2TqtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ApgG2TqtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ApgG2TqtL._SL200_.jpg' ]
 comments: true
 category: ofertas

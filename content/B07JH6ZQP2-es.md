@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.06 % en Canterbury Over The Head Oficial de la R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31W3akiJIwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31W3akiJIwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31W3akiJIwL._SL200_.jpg' ]
 comments: true
 category: ofertas

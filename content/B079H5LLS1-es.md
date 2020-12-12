@@ -3,6 +3,7 @@ layout: post
 title: 'Guess GU0130F-61C39  Gafas de Sol para H al 72.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317FnlU12rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317FnlU12rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317FnlU12rL._SL200_.jpg' ]
 comments: true
 category: ofertas

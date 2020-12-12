@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.03 % en Tristar FR-6941 Freidora 1 5L con termos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31m%2BZYkaBgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31m%2BZYkaBgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31m%2BZYkaBgL._SL200_.jpg' ]
 comments: true
 category: ofertas

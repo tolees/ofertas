@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.99 % en Samyang F1110810101 - Objetivo fotográfi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BZBKgKB9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BZBKgKB9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BZBKgKB9L._SL200_.jpg' ]
 comments: true
 category: ofertas

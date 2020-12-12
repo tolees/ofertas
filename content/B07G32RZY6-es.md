@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.45 % en Gabor - Franzi  Shoppers y bolsos de hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vaCzI50GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vaCzI50GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vaCzI50GL._SL200_.jpg' ]
 comments: true
 category: ofertas

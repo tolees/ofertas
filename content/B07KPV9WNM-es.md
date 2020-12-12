@@ -3,6 +3,7 @@ layout: post
 title: 'Gant O1. The Panel Down Jacket Chaqueta  al 68.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4131pF2G1jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4131pF2G1jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4131pF2G1jL._SL200_.jpg' ]
 comments: true
 category: ofertas

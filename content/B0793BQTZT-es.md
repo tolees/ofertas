@@ -3,6 +3,7 @@ layout: post
 title: 'BABYBJÖRN  One Air- Mochila Porta Bebé   al 25.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Bvz3FwQ2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Bvz3FwQ2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Bvz3FwQ2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lacor - 65118 - Cafetera Luxe Inox. 1 80 al 79.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oc16D0UBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oc16D0UBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oc16D0UBL._SL200_.jpg' ]
 comments: true
 category: ofertas

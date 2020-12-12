@@ -3,6 +3,7 @@ layout: post
 title: 'Destiny 2: Los Renegados Colección Legen al 63.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NDY8Ag3AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NDY8Ag3AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NDY8Ag3AL._SL200_.jpg' ]
 comments: true
 category: ofertas

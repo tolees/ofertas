@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.07 % en MTNG Attitude 56406  Zapatillas para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41amdSCB9cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41amdSCB9cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41amdSCB9cL._SL200_.jpg' ]
 comments: true
 category: ofertas

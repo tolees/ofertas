@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.90 % en Invicta Reloj de Pulsera 8938'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T9K3QeydL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T9K3QeydL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T9K3QeydL._SL200_.jpg' ]
 comments: true
 category: ofertas

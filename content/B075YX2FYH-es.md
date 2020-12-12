@@ -3,6 +3,7 @@ layout: post
 title: 'Sloggi for Men SLM Start Midi C3p Bóxer  al 60.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zwxaz3F4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zwxaz3F4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zwxaz3F4L._SL200_.jpg' ]
 comments: true
 category: ofertas

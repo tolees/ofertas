@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Walk Ultra 6 DMX MAX  Zapatillas  al 65.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tYvbMm98L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tYvbMm98L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tYvbMm98L._SL200_.jpg' ]
 comments: true
 category: ofertas

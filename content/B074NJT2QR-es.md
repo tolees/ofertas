@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop!- Movies Figura de Vinilo Papa al 63.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TMTXPzqkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TMTXPzqkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TMTXPzqkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.95 % en Bellfield Vaquero Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T9aUvSYJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T9aUvSYJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T9aUvSYJL._SL200_.jpg' ]
 comments: true
 category: ofertas

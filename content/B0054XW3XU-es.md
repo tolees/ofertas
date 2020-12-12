@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.76 % en Sola 69021101 Delta SM - Nivel de burbuj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y%2BWv4OXsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31y%2BWv4OXsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y%2BWv4OXsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Android TV Box-M8R TV Box Quad Core 2GB  al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XwF-w%2B58L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XwF-w%2B58L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XwF-w%2B58L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.61 % en Reloj Scuderia Ferrari para Hombre 83048'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IkgosQXYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IkgosQXYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IkgosQXYL._SL200_.jpg' ]
 comments: true
 category: ofertas

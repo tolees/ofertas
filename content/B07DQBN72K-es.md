@@ -3,6 +3,7 @@ layout: post
 title: 'DADYPET Cama Gato  Hamaca Gato Ventana 6 al 34.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4173VkQ-5ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4173VkQ-5ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4173VkQ-5ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

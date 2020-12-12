@@ -3,6 +3,7 @@ layout: post
 title: 'Pop! South Park - Figura de Vinilo Kenny al 46.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u1v7c9IjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31u1v7c9IjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u1v7c9IjL._SL200_.jpg' ]
 comments: true
 category: ofertas

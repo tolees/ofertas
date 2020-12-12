@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.45 % en 3DS Fire Emblem Echoes: Shadows of Valen'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61eX1BLUx3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61eX1BLUx3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61eX1BLUx3L._SL200_.jpg' ]
 comments: true
 category: ofertas

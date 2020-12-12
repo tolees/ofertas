@@ -3,6 +3,7 @@ layout: post
 title: 'Canon cartucho 718 de tóner original mag al 53.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nOeq0AqZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nOeq0AqZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nOeq0AqZL._SL200_.jpg' ]
 comments: true
 category: ofertas

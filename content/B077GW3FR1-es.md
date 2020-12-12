@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.29 % en Desires 9188107 Pantalones  Negro  Black'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ganspvcSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ganspvcSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ganspvcSL._SL200_.jpg' ]
 comments: true
 category: ofertas

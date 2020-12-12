@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.60 % en BILLABONG Craftman SS Camiseta  Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t1jat6tqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t1jat6tqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t1jat6tqL._SL200_.jpg' ]
 comments: true
 category: ofertas

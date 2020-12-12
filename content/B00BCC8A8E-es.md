@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Avent SCF696/17 - Biberón  tetin al 35.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-GxK%2Bc%2BPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-GxK%2Bc%2BPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-GxK%2Bc%2BPL._SL200_.jpg' ]
 comments: true
 category: ofertas

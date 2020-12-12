@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Wmns Blazer Mid Lth Vntg  Zapatilla al 84.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sUshclyfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sUshclyfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sUshclyfL._SL200_.jpg' ]
 comments: true
 category: ofertas

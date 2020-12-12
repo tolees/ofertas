@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.99 % en Desigual Denim_refriposas  Slim para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H2dQtFlmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H2dQtFlmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H2dQtFlmL._SL200_.jpg' ]
 comments: true
 category: ofertas

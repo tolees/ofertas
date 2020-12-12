@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.93 % en Pendrive 4GB 20 Piezas KEXIN Memoria USB'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CLBfmL%2BuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CLBfmL%2BuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CLBfmL%2BuL._SL200_.jpg' ]
 comments: true
 category: ofertas

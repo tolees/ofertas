@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.33 % en Hoover IronJet TIM2500EU TIM2500EU-Planc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZtqQV5NmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZtqQV5NmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZtqQV5NmL._SL200_.jpg' ]
 comments: true
 category: ofertas

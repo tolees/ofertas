@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi Premio 26248-31  Botas Milit al 70.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zTL%2B7s78L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zTL%2B7s78L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zTL%2B7s78L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Bolsa de Viaje Grande Tamaño XL - Maleta al 27.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TQFvArdfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TQFvArdfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TQFvArdfL._SL200_.jpg' ]
 comments: true
 category: ofertas

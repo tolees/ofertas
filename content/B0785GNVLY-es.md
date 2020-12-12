@@ -3,6 +3,7 @@ layout: post
 title: 'Gore Wear 100336 Culote  Hombre  Negro   al 54.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319v2jJEytL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319v2jJEytL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319v2jJEytL._SL200_.jpg' ]
 comments: true
 category: ofertas

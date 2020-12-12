@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.19 % en The North Face Horizon Plus Pantalones  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B5M-AdnsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B5M-AdnsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B5M-AdnsL._SL200_.jpg' ]
 comments: true
 category: ofertas

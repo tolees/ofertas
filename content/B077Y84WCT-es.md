@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Camiseta Manga Corta Hombre  Verd al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y-6ZNKMUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y-6ZNKMUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y-6ZNKMUL._SL200_.jpg' ]
 comments: true
 category: ofertas

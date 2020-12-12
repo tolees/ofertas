@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.39 % en Carrera Must Mid  Zapatillas de Cross pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B10LrYyxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B10LrYyxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B10LrYyxL._SL200_.jpg' ]
 comments: true
 category: ofertas

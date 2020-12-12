@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.63 % en Funko Pop! - Ron Herbology Figura de Vin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rHPnrsLmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rHPnrsLmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rHPnrsLmL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'oodji Ultra Mujer Sujetador Bikini Bande al 59.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ulmR5zXPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ulmR5zXPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ulmR5zXPL._SL200_.jpg' ]
 comments: true
 category: ofertas

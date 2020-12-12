@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.04 % en 14 en 1 Protoboard con Soporte RAB para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5173d%2B8WtyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5173d%2B8WtyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5173d%2B8WtyL._SL200_.jpg' ]
 comments: true
 category: ofertas

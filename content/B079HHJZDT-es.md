@@ -3,6 +3,7 @@ layout: post
 title: 'Gant O1. Cott/ELA Boatneck Top Camiseta  al 51.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oaB0nHzEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oaB0nHzEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oaB0nHzEL._SL200_.jpg' ]
 comments: true
 category: ofertas

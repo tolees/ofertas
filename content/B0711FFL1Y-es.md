@@ -3,6 +3,7 @@ layout: post
 title: 'Inside @ STCN35 Jersey  Morado  Burdeos  al 55.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iOUUEj0VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iOUUEj0VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iOUUEj0VL._SL200_.jpg' ]
 comments: true
 category: ofertas

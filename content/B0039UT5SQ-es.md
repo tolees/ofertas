@@ -3,6 +3,7 @@ layout: post
 title: 'Casio Reloj de Pulsera MTP-1302PSG-7AVEF al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u9FQFrAvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u9FQFrAvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u9FQFrAvL._SL200_.jpg' ]
 comments: true
 category: ofertas

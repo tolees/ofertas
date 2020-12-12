@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.35 % en Hurley - Sudadera con capucha para hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kBUd78dIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kBUd78dIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kBUd78dIL._SL200_.jpg' ]
 comments: true
 category: ofertas

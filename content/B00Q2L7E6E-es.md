@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.18 % en Rocksoff Ro-Jira - 450 gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CAwH5geML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CAwH5geML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CAwH5geML._SL200_.jpg' ]
 comments: true
 category: ofertas

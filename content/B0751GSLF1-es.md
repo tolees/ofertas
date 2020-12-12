@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 1400v6 Racing Running  Zapat al 51.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5107cq%2BZ5GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5107cq%2BZ5GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5107cq%2BZ5GL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'edc by ESPRIT 086CC1B026  Pantalones Muj al 68.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yeLNtuuUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yeLNtuuUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yeLNtuuUL._SL200_.jpg' ]
 comments: true
 category: ofertas

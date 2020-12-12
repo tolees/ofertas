@@ -3,6 +3,7 @@ layout: post
 title: 'Izas Mijares Camiseta  Mujer  Fucsia  L al 49.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kq%2BXMiwcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kq%2BXMiwcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kq%2BXMiwcL._SL200_.jpg' ]
 comments: true
 category: ofertas

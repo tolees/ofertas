@@ -3,6 +3,7 @@ layout: post
 title: 'CamelBak 1121602900 Bolsa de hidratación al 34.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VhPhZ4GeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VhPhZ4GeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VhPhZ4GeL._SL200_.jpg' ]
 comments: true
 category: ofertas

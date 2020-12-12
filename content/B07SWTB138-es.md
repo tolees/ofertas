@@ -3,6 +3,7 @@ layout: post
 title: 'Lamtwheel Scooter Eléctrico Motor De 120 al 48.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YugvPV0RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YugvPV0RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YugvPV0RL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.39 % en FIND NEWSTW048 vaqueros mujer cintura al'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iVmeVXX9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iVmeVXX9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iVmeVXX9L._SL200_.jpg' ]
 comments: true
 category: ofertas

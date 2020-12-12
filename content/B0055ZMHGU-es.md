@@ -3,6 +3,7 @@ layout: post
 title: 'JATA PP468 - Plancha pelo titanio 90x30  al 51.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fQjrWlYSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fQjrWlYSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fQjrWlYSL._SL200_.jpg' ]
 comments: true
 category: ofertas

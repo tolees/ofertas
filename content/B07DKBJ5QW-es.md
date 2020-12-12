@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.56 % en Uten Kitchen - Báscula electrónica Digit'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GIhnpgBuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GIhnpgBuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GIhnpgBuL._SL200_.jpg' ]
 comments: true
 category: ofertas

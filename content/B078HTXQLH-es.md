@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.15 % en JACK & JONES Jjivega Jjtrash WW Dark Gre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q0G2OWHWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q0G2OWHWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q0G2OWHWL._SL200_.jpg' ]
 comments: true
 category: ofertas

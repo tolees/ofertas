@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.65 % en Skechers Go Walk 4-Elect  Zapatillas de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wEY8GiEWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wEY8GiEWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wEY8GiEWL._SL200_.jpg' ]
 comments: true
 category: ofertas

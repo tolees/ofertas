@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 91.44 % en Ifecco aumentado el proyector de la onda'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41toTz894PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41toTz894PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41toTz894PL._SL200_.jpg' ]
 comments: true
 category: ofertas

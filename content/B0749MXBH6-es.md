@@ -3,6 +3,7 @@ layout: post
 title: '24 Rotuladores Acuarelables y 1 Aqua Bru al 40.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rA4Xfg0PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rA4Xfg0PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rA4Xfg0PL._SL200_.jpg' ]
 comments: true
 category: ofertas

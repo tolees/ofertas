@@ -3,6 +3,7 @@ layout: post
 title: 'Brrnoo Cuello Masajeador con Calor infra al 58.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519Mss18FbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519Mss18FbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519Mss18FbL._SL200_.jpg' ]
 comments: true
 category: ofertas

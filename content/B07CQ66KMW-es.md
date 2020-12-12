@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett High  Vaqueros Skinny para  al 66.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FNnuYdv4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FNnuYdv4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FNnuYdv4L._SL200_.jpg' ]
 comments: true
 category: ofertas

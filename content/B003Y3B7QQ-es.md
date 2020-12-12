@@ -3,6 +3,7 @@ layout: post
 title: 'Toughees Shoes Zapatos  Niño  Negro  19 al 68.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t--eahgkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t--eahgkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t--eahgkL._SL200_.jpg' ]
 comments: true
 category: ofertas

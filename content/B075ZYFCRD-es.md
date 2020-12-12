@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.82 % en Nike Lunarsolo  Zapatillas de Running pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nn-BhItUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nn-BhItUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nn-BhItUL._SL200_.jpg' ]
 comments: true
 category: ofertas

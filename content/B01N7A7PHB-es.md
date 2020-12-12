@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.50 % en adidas 6P 3S Cotto Gorra  Hombre  Negro/'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xHZA9WvOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xHZA9WvOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xHZA9WvOL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.04 % en WMF Diadem Plus Olla Baja  Acero Inoxida'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LK-pOD2-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LK-pOD2-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LK-pOD2-L._SL200_.jpg' ]
 comments: true
 category: ofertas

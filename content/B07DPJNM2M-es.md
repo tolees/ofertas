@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.66 % en Love Moschino - Borsa Pu  Bolsos totes M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413YFH%2BoI2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413YFH%2BoI2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413YFH%2BoI2L._SL200_.jpg' ]
 comments: true
 category: ofertas

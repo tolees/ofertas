@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex A al 47.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R-zp9%2Bv-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R-zp9%2Bv-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R-zp9%2Bv-L._SL200_.jpg' ]
 comments: true
 category: ofertas

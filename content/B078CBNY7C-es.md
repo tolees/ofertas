@@ -3,6 +3,7 @@ layout: post
 title: 'Tuc Tuc Bermuda POPELÍN MAUI Island Pant al 77.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PDHhxXb3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PDHhxXb3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PDHhxXb3L._SL200_.jpg' ]
 comments: true
 category: ofertas

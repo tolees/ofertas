@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Granada Polo  Hombre  Vino  S al 72.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419fQ-ffTQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419fQ-ffTQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419fQ-ffTQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.00 % en FIND Vestido con Cintura Anudada para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZoK1FWoFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZoK1FWoFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZoK1FWoFL._SL200_.jpg' ]
 comments: true
 category: ofertas

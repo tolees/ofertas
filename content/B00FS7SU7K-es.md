@@ -3,6 +3,7 @@ layout: post
 title: 'Parrot AR.Drone 2.0 Elite Edition Snow - al 80.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TjYR3zY3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TjYR3zY3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TjYR3zY3L._SL200_.jpg' ]
 comments: true
 category: ofertas

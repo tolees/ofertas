@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Venture 2 Chaqueta  Mujer al 52.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418G2R0vbLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418G2R0vbLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418G2R0vbLL._SL200_.jpg' ]
 comments: true
 category: ofertas

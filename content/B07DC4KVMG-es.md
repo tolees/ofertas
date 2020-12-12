@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Courtset Inf Dino  Botas  al 47.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n-rSV%2BkPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n-rSV%2BkPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n-rSV%2BkPL._SL200_.jpg' ]
 comments: true
 category: ofertas

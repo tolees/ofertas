@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Alpha Sport  Zapatillas p al 54.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rvGjKj8sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rvGjKj8sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rvGjKj8sL._SL200_.jpg' ]
 comments: true
 category: ofertas

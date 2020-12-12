@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Reloj de Hombre con Correa de Piel al 76.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Y0LWiJsUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y0LWiJsUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Y0LWiJsUL._SL200_.jpg' ]
 comments: true
 category: ofertas

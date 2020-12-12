@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Platform Kiss ATH Lux Wn s  Zapatil al 81.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2BbHmZkoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2BbHmZkoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U%2BbHmZkoL._SL200_.jpg' ]
 comments: true
 category: ofertas

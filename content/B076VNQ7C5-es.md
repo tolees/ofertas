@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG NEWCAMELIA  Zapatos de Cordones Oxf al 64.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sl6aqLkFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sl6aqLkFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sl6aqLkFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.16 % en Inuyasha Box 3 Episodios 67 A 99 Blu-Ray'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Vv4fABijL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Vv4fABijL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Vv4fABijL._SL200_.jpg' ]
 comments: true
 category: ofertas

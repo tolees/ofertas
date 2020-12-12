@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en AURIQUE Leggings de Deporte sin Costuras'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jdZ0U7zKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jdZ0U7zKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jdZ0U7zKL._SL200_.jpg' ]
 comments: true
 category: ofertas

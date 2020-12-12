@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmnicky L/s Tie Top D2-1  Blus al 55.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5192N2ecDhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5192N2ecDhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5192N2ecDhL._SL200_.jpg' ]
 comments: true
 category: ofertas

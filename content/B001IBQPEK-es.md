@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch 2 607 225 322 - Cargador rápido Li al 42.66 % de descuento'
 date: 
 thumbnailImage: 'None._SL200_'
+image: 'None._SL200_'
 images: [ 'None._SL200_' ]
 comments: true
 category: ofertas

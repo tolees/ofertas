@@ -3,6 +3,7 @@ layout: post
 title: 'Mustang Kurzschaftstiefel  Botines para  al 68.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414f-Xw0MiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414f-Xw0MiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414f-Xw0MiL._SL200_.jpg' ]
 comments: true
 category: ofertas

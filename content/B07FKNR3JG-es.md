@@ -3,6 +3,7 @@ layout: post
 title: 'O Neill FM Profile Logo Chanclas  Hombre al 44.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s2yBA2z8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s2yBA2z8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s2yBA2z8L._SL200_.jpg' ]
 comments: true
 category: ofertas

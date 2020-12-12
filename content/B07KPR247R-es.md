@@ -3,6 +3,7 @@ layout: post
 title: 'Gant TG Breton Striped Jersey Dress Vest al 55.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419HwZaJVML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419HwZaJVML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419HwZaJVML._SL200_.jpg' ]
 comments: true
 category: ofertas

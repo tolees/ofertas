@@ -3,6 +3,7 @@ layout: post
 title: 'Urban Classics Ladies Soft Sherpa Coat   al 84.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AW-8tb7bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AW-8tb7bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AW-8tb7bL._SL200_.jpg' ]
 comments: true
 category: ofertas

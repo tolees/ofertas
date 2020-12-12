@@ -3,6 +3,7 @@ layout: post
 title: 'Kitchen Artist CS109273 - Máquina para h al 34.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XVVYX5BxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XVVYX5BxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XVVYX5BxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlsiff L/s Long Cardigan CC Knt  C al 62.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410YYlgjTlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410YYlgjTlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410YYlgjTlL._SL200_.jpg' ]
 comments: true
 category: ofertas

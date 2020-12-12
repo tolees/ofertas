@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers On The Go 600 15316-bbk  Sandal al 30.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319VYKORKIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319VYKORKIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319VYKORKIL._SL200_.jpg' ]
 comments: true
 category: ofertas

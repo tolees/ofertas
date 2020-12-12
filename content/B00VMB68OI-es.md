@@ -3,6 +3,7 @@ layout: post
 title: 'Ice-Watch Reloj Cronógrafo para Hombre d al 64.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fh94JoH1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fh94JoH1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fh94JoH1L._SL200_.jpg' ]
 comments: true
 category: ofertas

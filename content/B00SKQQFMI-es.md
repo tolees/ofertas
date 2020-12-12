@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.63 % en Cressi Alpha Ultra Dry Snorkel de Silico'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mcBh6lJoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mcBh6lJoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mcBh6lJoL._SL200_.jpg' ]
 comments: true
 category: ofertas

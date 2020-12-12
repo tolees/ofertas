@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.12 % en WMF Premium One - Batería de cocina 4 pi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411CITUztpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411CITUztpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411CITUztpL._SL200_.jpg' ]
 comments: true
 category: ofertas

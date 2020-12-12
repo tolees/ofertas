@@ -3,6 +3,7 @@ layout: post
 title: 'Morgan 191-rtuly.n  Vestido Fiesta Mujer al 47.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SuBpRN8IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SuBpRN8IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SuBpRN8IL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Daren Zip Fly  Vaqueros Straight par al 60.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412bzam1gNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412bzam1gNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412bzam1gNL._SL200_.jpg' ]
 comments: true
 category: ofertas

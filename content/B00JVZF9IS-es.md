@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.97 % en Jacques Lemans Reloj Analógico para Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ikm5AUWBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ikm5AUWBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ikm5AUWBL._SL200_.jpg' ]
 comments: true
 category: ofertas

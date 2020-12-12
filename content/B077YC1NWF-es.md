@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.99 % en edc by Esprit 028cc2b008 Vaqueros Slim  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rJEM9Dn6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rJEM9Dn6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rJEM9Dn6L._SL200_.jpg' ]
 comments: true
 category: ofertas

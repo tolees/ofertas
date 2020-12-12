@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.60 % en Joma Tokio II Pantalones Cortos  Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413VsaB283L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413VsaB283L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413VsaB283L._SL200_.jpg' ]
 comments: true
 category: ofertas

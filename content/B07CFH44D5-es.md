@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiliam Jjoriginal Am 741 N al 52.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DToq%2B3Q-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DToq%2B3Q-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DToq%2B3Q-L._SL200_.jpg' ]
 comments: true
 category: ofertas

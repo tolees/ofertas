@@ -3,6 +3,7 @@ layout: post
 title: 'Anal Fantasy Vibrador Anal - 1 unidad al 27.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uuTprwCTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uuTprwCTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uuTprwCTL._SL200_.jpg' ]
 comments: true
 category: ofertas

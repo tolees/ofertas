@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.18 % en melysEU Bluetooth para Auriculares estér'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bhg-tOBiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bhg-tOBiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bhg-tOBiL._SL200_.jpg' ]
 comments: true
 category: ofertas

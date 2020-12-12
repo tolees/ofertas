@@ -3,6 +3,7 @@ layout: post
 title: 'CamelBak 1110001900 Pack de hidratación  al 36.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413M3AgV6VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413M3AgV6VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413M3AgV6VL._SL200_.jpg' ]
 comments: true
 category: ofertas

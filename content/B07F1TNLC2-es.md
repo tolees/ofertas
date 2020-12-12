@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange - Fabric Round Zip  Cart al 42.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v%2BvTR2keL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v%2BvTR2keL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v%2BvTR2keL._SL200_.jpg' ]
 comments: true
 category: ofertas

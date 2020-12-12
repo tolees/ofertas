@@ -3,6 +3,7 @@ layout: post
 title: 'Mandarina Duck - Hunter Minuteria  Carte al 55.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QvIuf2gGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QvIuf2gGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QvIuf2gGL._SL200_.jpg' ]
 comments: true
 category: ofertas

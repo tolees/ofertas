@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.98 % en Esprit 057ee1k045  Camiseta Mujer   Navy'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HTpuKq3qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HTpuKq3qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HTpuKq3qL._SL200_.jpg' ]
 comments: true
 category: ofertas

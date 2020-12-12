@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.29 % en Vans ISO 1.5  Zapatillas Unisex Adulto  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418e7c5Q9DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418e7c5Q9DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418e7c5Q9DL._SL200_.jpg' ]
 comments: true
 category: ofertas

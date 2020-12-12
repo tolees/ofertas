@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.64 % en Superdry Classic Standard Hood  Sudadera'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f1Yo8s%2BSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51f1Yo8s%2BSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f1Yo8s%2BSL._SL200_.jpg' ]
 comments: true
 category: ofertas

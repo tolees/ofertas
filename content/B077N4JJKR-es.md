@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.74 % en Asics Fuzex Rush Adapt  Zapatillas de En'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H3d7V4IjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51H3d7V4IjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H3d7V4IjL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.32 % en Helly Hansen HH LIFA MAX 1/2 Zip Camiset'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zIWZiV6OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zIWZiV6OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zIWZiV6OL._SL200_.jpg' ]
 comments: true
 category: ofertas

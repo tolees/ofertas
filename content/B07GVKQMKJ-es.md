@@ -3,6 +3,7 @@ layout: post
 title: 'Donix Vibrador Mujer de 27 Modos de Sili al 84.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413FhninloL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413FhninloL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413FhninloL._SL200_.jpg' ]
 comments: true
 category: ofertas

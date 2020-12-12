@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.26 % en Salomon XA Pro 3D GTX  Calzado de Trail '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IkDPxgGfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IkDPxgGfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IkDPxgGfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.71 % en Funko Aqua Man Figura de Vinilo 14662'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M3r9ZfpWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51M3r9ZfpWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M3r9ZfpWL._SL200_.jpg' ]
 comments: true
 category: ofertas

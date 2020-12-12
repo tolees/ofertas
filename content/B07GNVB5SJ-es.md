@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.88 % en JACK & JONES Jcoten Shirt LS One Pocket '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZPx%2BzJt3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZPx%2BzJt3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZPx%2BzJt3L._SL200_.jpg' ]
 comments: true
 category: ofertas

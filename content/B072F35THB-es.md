@@ -3,6 +3,7 @@ layout: post
 title: 'Munich Massana 233  Zapatillas de Sender al 52.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cSfoVIunL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cSfoVIunL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cSfoVIunL._SL200_.jpg' ]
 comments: true
 category: ofertas

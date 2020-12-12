@@ -3,6 +3,7 @@ layout: post
 title: 'XAED - Camiseta térmica de esquí para mu al 30.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nDezHpt-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nDezHpt-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nDezHpt-L._SL200_.jpg' ]
 comments: true
 category: ofertas

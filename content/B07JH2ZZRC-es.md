@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.56 % en Puma Always On Solid 7/8 Tight Mallas De'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VPxjb73%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VPxjb73%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VPxjb73%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

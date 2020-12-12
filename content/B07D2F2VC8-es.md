@@ -3,6 +3,7 @@ layout: post
 title: 'Ice-Watch - Ice Sunset Azulsh - Reloj Bl al 34.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BvjMyNH5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BvjMyNH5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BvjMyNH5L._SL200_.jpg' ]
 comments: true
 category: ofertas

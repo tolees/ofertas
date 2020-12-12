@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.49 % en Messi Training System MET05000  Football'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LuxF8KdYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LuxF8KdYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LuxF8KdYL._SL200_.jpg' ]
 comments: true
 category: ofertas

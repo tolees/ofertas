@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.72 % en SHOE THE BEAR Asta  Botines para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rui5yahqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rui5yahqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rui5yahqL._SL200_.jpg' ]
 comments: true
 category: ofertas

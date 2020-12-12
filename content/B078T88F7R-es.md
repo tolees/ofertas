@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Youth Minx Mid III WP Omni-Heat al 50.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JxocS%2BP4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JxocS%2BP4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JxocS%2BP4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.44 % en Fujifilm FinePix XP120 - Cámara acuatíca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O9BtueSGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51O9BtueSGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O9BtueSGL._SL200_.jpg' ]
 comments: true
 category: ofertas

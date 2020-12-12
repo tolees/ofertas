@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.68 % en eDriveTech – Unidad DVD Externa Grabador'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V8gMoVKsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V8gMoVKsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V8gMoVKsL._SL200_.jpg' ]
 comments: true
 category: ofertas

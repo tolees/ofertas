@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.70 % en Marco Tozzi 25054  Botas Chelsea para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oiNAl6YcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oiNAl6YcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oiNAl6YcL._SL200_.jpg' ]
 comments: true
 category: ofertas

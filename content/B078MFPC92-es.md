@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Noosa Ff 2  Zapatillas de Entrenam al 70.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LqpbRATzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LqpbRATzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LqpbRATzL._SL200_.jpg' ]
 comments: true
 category: ofertas

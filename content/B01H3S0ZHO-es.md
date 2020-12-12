@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Galaxy Tab S2 8" Wi-Fi  SM-T713N al 41.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kZ3QEyDAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kZ3QEyDAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kZ3QEyDAL._SL200_.jpg' ]
 comments: true
 category: ofertas

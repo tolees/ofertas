@@ -3,6 +3,7 @@ layout: post
 title: 'ELINKUME 10X G9 7W 104SMD 3014 Bombilla  al 36.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iqhC%2BqeaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iqhC%2BqeaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iqhC%2BqeaL._SL200_.jpg' ]
 comments: true
 category: ofertas

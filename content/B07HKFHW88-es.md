@@ -3,6 +3,7 @@ layout: post
 title: 'Rhodesy Madera de Cedro Antipolillas  Bl al 33.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yD%2BYzgrUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yD%2BYzgrUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yD%2BYzgrUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.62 % en MTNG 84056  Zapatillas para Hombre  Rojo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IfX-UIfkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IfX-UIfkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IfX-UIfkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Enfield Coco  Botas Slouch para M al 72.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mcmJ8lf8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mcmJ8lf8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mcmJ8lf8L._SL200_.jpg' ]
 comments: true
 category: ofertas

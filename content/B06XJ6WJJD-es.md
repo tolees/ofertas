@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.22 % en Ballistix Sport LT BLS4K8G4D240FSBK - Ki'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J1lVd6xSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J1lVd6xSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J1lVd6xSL._SL200_.jpg' ]
 comments: true
 category: ofertas

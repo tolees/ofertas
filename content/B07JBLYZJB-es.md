@@ -3,6 +3,7 @@ layout: post
 title: 'PRUNUS Radio Transistor FM Am SW SD USB  al 38.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HNIcm5H8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HNIcm5H8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HNIcm5H8L._SL200_.jpg' ]
 comments: true
 category: ofertas

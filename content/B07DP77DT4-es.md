@@ -3,6 +3,7 @@ layout: post
 title: 'Eastpak Stand + Bolsa de Viaje  53 cm  3 al 35.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hfj7YX7xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hfj7YX7xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hfj7YX7xL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Luanvi Walk Bermudas de Tenis  Hombre  A al 42.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41plvOwCfoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41plvOwCfoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41plvOwCfoL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 26336  Botas para Mujer  Gris  A al 80.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nS0ug5ckL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nS0ug5ckL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nS0ug5ckL._SL200_.jpg' ]
 comments: true
 category: ofertas

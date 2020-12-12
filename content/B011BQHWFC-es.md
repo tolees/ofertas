@@ -3,6 +3,7 @@ layout: post
 title: 'Zapatos de trabajo de seguridad Alto de  al 41.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IZxeZQ14L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IZxeZQ14L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IZxeZQ14L._SL200_.jpg' ]
 comments: true
 category: ofertas

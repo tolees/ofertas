@@ -3,6 +3,7 @@ layout: post
 title: 'LEDMO Foco Led 50W 6000k Focos Led Exter al 36.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xhFDFgGiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xhFDFgGiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xhFDFgGiL._SL200_.jpg' ]
 comments: true
 category: ofertas

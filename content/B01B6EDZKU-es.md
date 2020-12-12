@@ -3,6 +3,7 @@ layout: post
 title: 'Ryobi RSDS750-K al 49.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CxqAJ6gBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CxqAJ6gBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CxqAJ6gBL._SL200_.jpg' ]
 comments: true
 category: ofertas

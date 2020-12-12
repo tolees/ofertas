@@ -3,6 +3,7 @@ layout: post
 title: 'HyperX Impact 16GB DDR4 2133MHz Kit 16GB al 31.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519ZK9ilurL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519ZK9ilurL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519ZK9ilurL._SL200_.jpg' ]
 comments: true
 category: ofertas

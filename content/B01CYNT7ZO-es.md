@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Champion II - Polo para niño de 14  al 67.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eBNyop0AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eBNyop0AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eBNyop0AL._SL200_.jpg' ]
 comments: true
 category: ofertas

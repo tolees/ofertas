@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.55 % en Sony WISP600NP.CE7 - Auriculares deporti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CNF7HaOAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CNF7HaOAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CNF7HaOAL._SL200_.jpg' ]
 comments: true
 category: ofertas

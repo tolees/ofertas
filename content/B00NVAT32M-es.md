@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Norlin Slip-on Men  Hombre Zapatil al 71.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31m7FddO08L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31m7FddO08L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31m7FddO08L._SL200_.jpg' ]
 comments: true
 category: ofertas

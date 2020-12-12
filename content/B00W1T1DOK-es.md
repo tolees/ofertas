@@ -3,6 +3,7 @@ layout: post
 title: 'ROC Soleil Protect - Fluido Iluminador   al 34.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4165IwAd5VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4165IwAd5VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4165IwAd5VL._SL200_.jpg' ]
 comments: true
 category: ofertas

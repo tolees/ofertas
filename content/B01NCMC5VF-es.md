@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.18 % en Bruetting Domain  Zapatillas Unisex Niño'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PNyVqqywL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PNyVqqywL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PNyVqqywL._SL200_.jpg' ]
 comments: true
 category: ofertas

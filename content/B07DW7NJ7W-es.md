@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.13 % en ISENPENK 3X Cartuchos de Filtros  Kit de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iKNZelsiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iKNZelsiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iKNZelsiL._SL200_.jpg' ]
 comments: true
 category: ofertas

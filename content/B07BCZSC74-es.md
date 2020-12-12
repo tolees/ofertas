@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.94 % en Auriculares Inalámbricos Auricular Bluet'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41msD2Bc8JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41msD2Bc8JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41msD2Bc8JL._SL200_.jpg' ]
 comments: true
 category: ofertas

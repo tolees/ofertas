@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual Jers_Call Chaqueta Punto  Negro al 33.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Fopxaz83L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Fopxaz83L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Fopxaz83L._SL200_.jpg' ]
 comments: true
 category: ofertas

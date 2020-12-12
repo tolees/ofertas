@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.62 % en Puma Prowl  Zapatillas Deportivas para I'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oWGq0utwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oWGq0utwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oWGq0utwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.79 % en AFTER SHAVE EUCALIPTO 400 ML.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ilv%2BjBp2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ilv%2BjBp2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ilv%2BjBp2L._SL200_.jpg' ]
 comments: true
 category: ofertas

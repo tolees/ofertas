@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.03 % en LYMBIT Neumático sólido antideslizante r'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51va0deG4eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51va0deG4eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51va0deG4eL._SL200_.jpg' ]
 comments: true
 category: ofertas

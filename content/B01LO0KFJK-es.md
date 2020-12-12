@@ -3,6 +3,7 @@ layout: post
 title: 'Lékué Bagels  Silicona  Marron  10.3 cm  al 39.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yy67gZGTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yy67gZGTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yy67gZGTL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.10 % en Nike Indy Bra Sujetador Deportivo  Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wI%2B3sI7AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wI%2B3sI7AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wI%2B3sI7AL._SL200_.jpg' ]
 comments: true
 category: ofertas

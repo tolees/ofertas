@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.04 % en G.Skill F4-2800C16Q - Memoria RAM  4 x 4'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mlV05ho-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mlV05ho-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mlV05ho-L._SL200_.jpg' ]
 comments: true
 category: ofertas

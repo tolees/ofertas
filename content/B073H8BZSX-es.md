@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.26 % en Hush Puppies Saige Olivya  Botas para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qts8GNP6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qts8GNP6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qts8GNP6L._SL200_.jpg' ]
 comments: true
 category: ofertas

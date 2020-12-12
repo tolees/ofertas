@@ -3,6 +3,7 @@ layout: post
 title: 'Converse Chuck Taylor All Star Ii Hi - g al 66.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414Y7A7ZRBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414Y7A7ZRBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414Y7A7ZRBL._SL200_.jpg' ]
 comments: true
 category: ofertas

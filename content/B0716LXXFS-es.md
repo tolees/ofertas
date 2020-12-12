@@ -3,6 +3,7 @@ layout: post
 title: 'Juegos de Laberintos Motricidad Fina Ába al 66.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d7W4BK0XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51d7W4BK0XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d7W4BK0XL._SL200_.jpg' ]
 comments: true
 category: ofertas

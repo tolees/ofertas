@@ -3,6 +3,7 @@ layout: post
 title: 'Only & Sons Onswarp Black Damage PK 9884 al 46.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Fb7v4wNxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fb7v4wNxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Fb7v4wNxL._SL200_.jpg' ]
 comments: true
 category: ofertas

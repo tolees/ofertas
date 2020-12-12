@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en KRISP 6610-WINBLK-08  Vestido Corto Frun'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FXM2EjwxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FXM2EjwxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FXM2EjwxL._SL200_.jpg' ]
 comments: true
 category: ofertas

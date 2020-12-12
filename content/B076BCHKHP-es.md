@@ -3,6 +3,7 @@ layout: post
 title: 'Guaiboshi Tiras de Luz LED Strip 3M 5M T al 55.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61%2B11d4oVLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61%2B11d4oVLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61%2B11d4oVLL._SL200_.jpg' ]
 comments: true
 category: ofertas

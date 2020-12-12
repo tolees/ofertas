@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.91 % en New Balance Furon v4 Dispatch FG  Botas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tYgnoWJFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tYgnoWJFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tYgnoWJFL._SL200_.jpg' ]
 comments: true
 category: ofertas

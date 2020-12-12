@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.32 % en Diesel 0BAMK  Slip de Baño Para Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rnpf2p-yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rnpf2p-yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rnpf2p-yL._SL200_.jpg' ]
 comments: true
 category: ofertas

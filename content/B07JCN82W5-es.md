@@ -3,6 +3,7 @@ layout: post
 title: 'PHMAX Guantes Ciclismo MTB Dedo Medio Gu al 49.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419FjIUn9WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419FjIUn9WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419FjIUn9WL._SL200_.jpg' ]
 comments: true
 category: ofertas

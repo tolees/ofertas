@@ -3,6 +3,7 @@ layout: post
 title: 'Sebago Boot Suede W  Botines para Mujer  al 82.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sduzf7v0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sduzf7v0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sduzf7v0L._SL200_.jpg' ]
 comments: true
 category: ofertas

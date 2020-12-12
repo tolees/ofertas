@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.52 % en Lámpara de Fuego Solar  99 Bajo Consumo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-2ayUdhuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-2ayUdhuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-2ayUdhuL._SL200_.jpg' ]
 comments: true
 category: ofertas

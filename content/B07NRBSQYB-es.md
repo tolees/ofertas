@@ -3,6 +3,7 @@ layout: post
 title: 'FitBeast Hand Grip Strengthener Agarre d al 50.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fo0wo7YjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fo0wo7YjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fo0wo7YjL._SL200_.jpg' ]
 comments: true
 category: ofertas

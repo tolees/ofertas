@@ -3,6 +3,7 @@ layout: post
 title: 'Nautica French Terry Sudadera  Azul  Nav al 72.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V6ISMOHzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V6ISMOHzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V6ISMOHzL._SL200_.jpg' ]
 comments: true
 category: ofertas

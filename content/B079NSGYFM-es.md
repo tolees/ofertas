@@ -3,6 +3,7 @@ layout: post
 title: 'Polti Forzaspira Lecologico Aqua Allergy al 26.85 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B079NSGYFM.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B079NSGYFM.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B079NSGYFM.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

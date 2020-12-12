@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Highline Kaimana 16" Bañador  al 54.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SR3oMAxwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SR3oMAxwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SR3oMAxwL._SL200_.jpg' ]
 comments: true
 category: ofertas

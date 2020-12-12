@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.02 % en Springfield 3Yl Classic Denim Pocket Cam'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

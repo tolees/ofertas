@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.35 % en FIND 16 11 RB 026 camisetas  Blanco  Whi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yfzp4O4%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yfzp4O4%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yfzp4O4%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

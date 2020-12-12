@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.04 % en Merrell Trail Glove 4  Zapatillas Deport'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NtDPT0UZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NtDPT0UZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NtDPT0UZL._SL200_.jpg' ]
 comments: true
 category: ofertas

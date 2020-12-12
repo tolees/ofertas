@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Star Wars - Boba Fett  75533  al 31.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61k%2BI%2B0Bm2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61k%2BI%2B0Bm2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61k%2BI%2B0Bm2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Note 8 Led View Cover - Funda pa al 67.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wCIYbk3FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wCIYbk3FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wCIYbk3FL._SL200_.jpg' ]
 comments: true
 category: ofertas

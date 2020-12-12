@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Core Art Hooded Sw L/s Capuch al 60.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yJEI9W7dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yJEI9W7dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yJEI9W7dL._SL200_.jpg' ]
 comments: true
 category: ofertas

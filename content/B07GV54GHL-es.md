@@ -3,6 +3,7 @@ layout: post
 title: 'Wetoph - Controlador para Wii U GX03 ina al 77.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cyIX9quVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cyIX9quVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cyIX9quVL._SL200_.jpg' ]
 comments: true
 category: ofertas

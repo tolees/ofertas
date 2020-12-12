@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.03 % en BOSS Paddy Polo  Gris  Light/Pastel Grey'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i7ww0ttYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i7ww0ttYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i7ww0ttYL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.76 % en No Game  No Life - Temporada 1  Edición '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/612Rd1s2-TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/612Rd1s2-TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/612Rd1s2-TL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Outdoors Ultra  Botas Estilo Mo al 75.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NPDhRSGbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NPDhRSGbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NPDhRSGbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Geox J Perth Boy C  Zapatillas Altas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sTUR0WRhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sTUR0WRhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sTUR0WRhL._SL200_.jpg' ]
 comments: true
 category: ofertas

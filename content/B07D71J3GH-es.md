@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.08 % en Levi s Deconstructed Skirt Falda  Azul  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y9WWWRUwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y9WWWRUwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y9WWWRUwL._SL200_.jpg' ]
 comments: true
 category: ofertas

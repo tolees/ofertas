@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Grade School Pursuit Ng  Za al 70.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EHt90Q86L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EHt90Q86L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EHt90Q86L._SL200_.jpg' ]
 comments: true
 category: ofertas

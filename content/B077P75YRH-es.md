@@ -3,6 +3,7 @@ layout: post
 title: 'NAME IT Nmfpolly Dnmbunira 2022 Pant  Je al 59.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TY-PZgNtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TY-PZgNtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TY-PZgNtL._SL200_.jpg' ]
 comments: true
 category: ofertas

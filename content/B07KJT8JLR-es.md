@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.79 % en REPLAY Luz Coin Zip Vaqueros Skinny  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oEBQ0fXoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oEBQ0fXoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oEBQ0fXoL._SL200_.jpg' ]
 comments: true
 category: ofertas

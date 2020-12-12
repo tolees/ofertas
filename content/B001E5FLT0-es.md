@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.59 % en Zippo Brush Chrome Encendedor  Metal  Cr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4141RQhd8yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4141RQhd8yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4141RQhd8yL._SL200_.jpg' ]
 comments: true
 category: ofertas

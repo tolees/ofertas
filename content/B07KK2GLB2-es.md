@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG New Order Chino Pantalones Cor al 51.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319b2G0HkWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319b2G0HkWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319b2G0HkWL._SL200_.jpg' ]
 comments: true
 category: ofertas

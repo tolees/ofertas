@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley M Phantom Zen Volley 17  BAÑADORE al 48.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GDfXytp9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GDfXytp9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GDfXytp9L._SL200_.jpg' ]
 comments: true
 category: ofertas

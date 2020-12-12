@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.89 % en Diesel P-boxie Shorts Pantalones Cortos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tX-JU7%2BAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tX-JU7%2BAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tX-JU7%2BAL._SL200_.jpg' ]
 comments: true
 category: ofertas

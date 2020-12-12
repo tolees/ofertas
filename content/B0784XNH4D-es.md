@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 64216  Botines para Mujer  Dorad al 60.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zUvqb6JxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zUvqb6JxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zUvqb6JxL._SL200_.jpg' ]
 comments: true
 category: ofertas

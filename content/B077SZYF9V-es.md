@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 64216  Botines para Mujer  Marró al 49.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oRCRQPYtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oRCRQPYtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oRCRQPYtL._SL200_.jpg' ]
 comments: true
 category: ofertas

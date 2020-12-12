@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.75 % en Timberland Authentic 6" - Botas para Niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411tMgnsGyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411tMgnsGyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411tMgnsGyL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.24 % en Babyliss 8480E  Maleta con set manicura/'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21U7PIHygoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21U7PIHygoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21U7PIHygoL._SL200_.jpg' ]
 comments: true
 category: ofertas

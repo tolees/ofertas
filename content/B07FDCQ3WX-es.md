@@ -3,6 +3,7 @@ layout: post
 title: 'Osram Lunetta Round Luz de Noche  0.5 W  al 27.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Yy3D2jmiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Yy3D2jmiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Yy3D2jmiL._SL200_.jpg' ]
 comments: true
 category: ofertas

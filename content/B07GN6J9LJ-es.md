@@ -3,6 +3,7 @@ layout: post
 title: 'Dispensador de Pasta de Dientes y Conjun al 52.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eZcpBbFxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eZcpBbFxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eZcpBbFxL._SL200_.jpg' ]
 comments: true
 category: ofertas

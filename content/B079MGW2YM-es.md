@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.08 % en Pepe Jeans Denise Mochila Escolar  45 cm'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517JnkNa%2BBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517JnkNa%2BBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517JnkNa%2BBL._SL200_.jpg' ]
 comments: true
 category: ofertas

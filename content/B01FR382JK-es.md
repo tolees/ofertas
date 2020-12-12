@@ -3,6 +3,7 @@ layout: post
 title: 'Panasonic ES-WH90 Luz pulsada intensa  I al 60.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pIYTUx1dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pIYTUx1dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pIYTUx1dL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.02 % en Caja de luces LED  paquete de 2  + ÍTEMS'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o40ffisIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51o40ffisIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51o40ffisIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Ubiquiti UAP Punto de Acceso al 27.37 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

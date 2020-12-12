@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.46 % en Benetton 2KN553395  Chaqueta Mujer  Azul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e8Lg2QmIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e8Lg2QmIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e8Lg2QmIL._SL200_.jpg' ]
 comments: true
 category: ofertas

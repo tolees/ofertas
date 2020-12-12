@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.60 % en Arcos Serie Latina - Cuchillo chuletero '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21JXnla971L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21JXnla971L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21JXnla971L._SL200_.jpg' ]
 comments: true
 category: ofertas

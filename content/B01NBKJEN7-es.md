@@ -3,6 +3,7 @@ layout: post
 title: 'Simon & Tom - Serum nutritivo para contr al 67.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D2hEQszsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51D2hEQszsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D2hEQszsL._SL200_.jpg' ]
 comments: true
 category: ofertas

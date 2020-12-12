@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.71 % en Kärcher Kit de adaptadores para la mangu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pkHfDzy1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pkHfDzy1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pkHfDzy1L._SL200_.jpg' ]
 comments: true
 category: ofertas

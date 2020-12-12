@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en Makita DHR243Z - Martillo ligero 18V Lit'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BOJGFlX7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BOJGFlX7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BOJGFlX7L._SL200_.jpg' ]
 comments: true
 category: ofertas

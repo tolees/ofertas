@@ -3,6 +3,7 @@ layout: post
 title: 'Superga Lamew  Zapatillas de Tela Mujer  al 59.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HVT9ja%2BSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HVT9ja%2BSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HVT9ja%2BSL._SL200_.jpg' ]
 comments: true
 category: ofertas

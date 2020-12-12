@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.50 % en sikiwind Coctelera Set de 7 Piezas de Ac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Ydgiz%2BdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418Ydgiz%2BdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Ydgiz%2BdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas 6pcap Ltwgt Emb Gorra  Unisex niñ al 36.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mQhsL3UYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mQhsL3UYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mQhsL3UYL._SL200_.jpg' ]
 comments: true
 category: ofertas

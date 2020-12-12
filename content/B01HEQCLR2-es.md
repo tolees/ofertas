@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.12 % en Tsing Auriculares Gaming Cascos PS4  Mic'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GDxAH62ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GDxAH62ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GDxAH62ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

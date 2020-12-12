@@ -3,6 +3,7 @@ layout: post
 title: 'Eono Essentials - Camiseta de fútbol par al 39.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qw2YNvyBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qw2YNvyBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qw2YNvyBL._SL200_.jpg' ]
 comments: true
 category: ofertas

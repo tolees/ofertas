@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Sense Pro 1 Par de Calcetines To al 68.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iSsAqMQ6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iSsAqMQ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iSsAqMQ6L._SL200_.jpg' ]
 comments: true
 category: ofertas

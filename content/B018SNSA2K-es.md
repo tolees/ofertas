@@ -3,6 +3,7 @@ layout: post
 title: 'Medion MD 15709 - Tostador  1.400 vatios al 29.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wKjLF7f7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wKjLF7f7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wKjLF7f7L._SL200_.jpg' ]
 comments: true
 category: ofertas

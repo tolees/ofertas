@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.06 % en Only Onlnew Maye L/S Ruffle Dress Cc Knt'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qh6YTpngL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qh6YTpngL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qh6YTpngL._SL200_.jpg' ]
 comments: true
 category: ofertas

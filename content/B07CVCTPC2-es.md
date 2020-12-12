@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.06 % en Under Armour Grade School Charged Rogue '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V0vmqwz8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V0vmqwz8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V0vmqwz8L._SL200_.jpg' ]
 comments: true
 category: ofertas

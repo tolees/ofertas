@@ -3,6 +3,7 @@ layout: post
 title: 'SYROKAN Sujetador Deportivo Pecho Cintur al 43.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w3m3pLkwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51w3m3pLkwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w3m3pLkwL._SL200_.jpg' ]
 comments: true
 category: ofertas

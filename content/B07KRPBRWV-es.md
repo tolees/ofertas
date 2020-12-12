@@ -3,6 +3,7 @@ layout: post
 title: 'Gioseppo 44276  Shopper para Mujer   Neg al 63.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iJbkS5npL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iJbkS5npL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iJbkS5npL._SL200_.jpg' ]
 comments: true
 category: ofertas

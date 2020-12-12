@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.98 % en Mick Morrison Mapari Sudadera  Negro  Sc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fgicvhuoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fgicvhuoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fgicvhuoL._SL200_.jpg' ]
 comments: true
 category: ofertas

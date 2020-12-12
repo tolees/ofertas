@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Galaxy Tab S2 - Tablet de 9.7" 2 al 47.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414GVmxB41L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414GVmxB41L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414GVmxB41L._SL200_.jpg' ]
 comments: true
 category: ofertas

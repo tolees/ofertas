@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.37 % en Kärcher Lanza Vario Power Jet Full Contr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qw7-i8kBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qw7-i8kBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qw7-i8kBL._SL200_.jpg' ]
 comments: true
 category: ofertas

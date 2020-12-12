@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Active Woven Pants  Hombre  Black   al 32.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313OzXc4DEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313OzXc4DEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313OzXc4DEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Gancho multifuncional de gravedad de KZK al 70.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5186NMT1hgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5186NMT1hgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5186NMT1hgL._SL200_.jpg' ]
 comments: true
 category: ofertas

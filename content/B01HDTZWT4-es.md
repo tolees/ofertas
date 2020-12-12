@@ -3,6 +3,7 @@ layout: post
 title: 'Steep al 66.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mszPd4waL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mszPd4waL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mszPd4waL._SL200_.jpg' ]
 comments: true
 category: ofertas

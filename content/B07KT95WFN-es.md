@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.92 % en Saucony Freedom ISO - Zapatillas de Fitn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318Y9fPCuqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318Y9fPCuqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318Y9fPCuqL._SL200_.jpg' ]
 comments: true
 category: ofertas

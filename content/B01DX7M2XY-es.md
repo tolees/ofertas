@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel 00SAB2-0AAMU  Calzoncillos para H al 54.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t1ldUzXIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t1ldUzXIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t1ldUzXIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.77 % en Philips myKidsRoom Avigo - Lámpara colga'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nLM08JvuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nLM08JvuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nLM08JvuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Basong Lámpara de Pie LED con Luz Cálida al 53.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21wVSMm%2BFaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21wVSMm%2BFaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21wVSMm%2BFaL._SL200_.jpg' ]
 comments: true
 category: ofertas

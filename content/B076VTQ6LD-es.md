@@ -3,6 +3,7 @@ layout: post
 title: 'Medion Akoya S22001  MD 34036  - Mini Or al 63.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cnp4KwqCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cnp4KwqCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cnp4KwqCL._SL200_.jpg' ]
 comments: true
 category: ofertas

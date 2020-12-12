@@ -3,6 +3,7 @@ layout: post
 title: 'XP-Pen 22 Pro HD IPS Monitor de Dibujo c al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hE5oYQpUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hE5oYQpUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hE5oYQpUL._SL200_.jpg' ]
 comments: true
 category: ofertas

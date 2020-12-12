@@ -3,6 +3,7 @@ layout: post
 title: 'Adelheid - Gut  v  erzogen Kinderrucksac al 50.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e0L0AN4KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51e0L0AN4KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e0L0AN4KL._SL200_.jpg' ]
 comments: true
 category: ofertas

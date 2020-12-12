@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.36 % en Soporte Smartphone para Coche RHINO ★ 1 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KIOWVIVML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KIOWVIVML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KIOWVIVML._SL200_.jpg' ]
 comments: true
 category: ofertas

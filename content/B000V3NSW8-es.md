@@ -3,6 +3,7 @@ layout: post
 title: 'CEB - Calzado de protecciÃ³n de cuero pa al 69.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410J%2BCGyUEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410J%2BCGyUEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410J%2BCGyUEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.08 % en Desigual Vest_achille  vestido Mujer  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zf44Wjv1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zf44Wjv1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zf44Wjv1L._SL200_.jpg' ]
 comments: true
 category: ofertas

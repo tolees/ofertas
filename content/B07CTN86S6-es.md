@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.91 % en Under Armour Micro G Pursuit Se  Zapatil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KlW1o01HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KlW1o01HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KlW1o01HL._SL200_.jpg' ]
 comments: true
 category: ofertas

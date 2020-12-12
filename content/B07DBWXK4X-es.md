@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Rise XT Fuse 1  Zapatillas de Depor al 51.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FwH6fUCbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FwH6fUCbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FwH6fUCbL._SL200_.jpg' ]
 comments: true
 category: ofertas

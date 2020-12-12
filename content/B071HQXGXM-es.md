@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans London Ramsy Chelsea  Botas p al 75.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418YOn8bT%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418YOn8bT%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418YOn8bT%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

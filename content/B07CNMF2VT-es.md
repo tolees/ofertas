@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.85 % en Calvin Klein Reloj Analógico para Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z-6wXzANL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z-6wXzANL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z-6wXzANL._SL200_.jpg' ]
 comments: true
 category: ofertas

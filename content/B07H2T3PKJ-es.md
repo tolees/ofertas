@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.58 % en TagoBee TB08 IP67 Reloj Smartwatch Desbl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iOLhU%2BSEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iOLhU%2BSEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iOLhU%2BSEL._SL200_.jpg' ]
 comments: true
 category: ofertas

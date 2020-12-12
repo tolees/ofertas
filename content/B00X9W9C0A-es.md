@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.50 % en L Oréal Paris Men Expert Gel Limpiador C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4143wuVMs7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4143wuVMs7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4143wuVMs7L._SL200_.jpg' ]
 comments: true
 category: ofertas

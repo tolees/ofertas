@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.00 % en Pepe Jeans Jamison  Vaqueros Slim para N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aqn2i5vFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aqn2i5vFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aqn2i5vFL._SL200_.jpg' ]
 comments: true
 category: ofertas

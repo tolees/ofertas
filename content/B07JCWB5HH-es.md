@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.24 % en YZPUSI 32 GB Memoria USB  2 en 1 USB 2.0'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ToTjSPhuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ToTjSPhuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ToTjSPhuL._SL200_.jpg' ]
 comments: true
 category: ofertas

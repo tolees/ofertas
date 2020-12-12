@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.75 % en SEMOON Ropa para Mascotas Perros Inviern'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gKkTEIggL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gKkTEIggL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gKkTEIggL._SL200_.jpg' ]
 comments: true
 category: ofertas

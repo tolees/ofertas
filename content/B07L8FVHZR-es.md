@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.01 % en Pulsera de Actividad Inteligente Pantall'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517L4S1GsGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517L4S1GsGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517L4S1GsGL._SL200_.jpg' ]
 comments: true
 category: ofertas

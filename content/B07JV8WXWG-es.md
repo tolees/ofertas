@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.58 % en Mac Jeans Arne Pipe Vaqueros Straight  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BD%2BAlpWoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BD%2BAlpWoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BD%2BAlpWoL._SL200_.jpg' ]
 comments: true
 category: ofertas

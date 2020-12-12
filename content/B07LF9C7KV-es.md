@@ -3,6 +3,7 @@ layout: post
 title: 'Grabadora de Voz Digital ADOKEY 8GB Dict al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411I2LOssPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411I2LOssPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411I2LOssPL._SL200_.jpg' ]
 comments: true
 category: ofertas

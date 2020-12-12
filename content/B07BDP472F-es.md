@@ -3,6 +3,7 @@ layout: post
 title: 'Miquel Rius Miquelrius-16950 Mochila Dob al 73.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iwHhOuC%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iwHhOuC%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iwHhOuC%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

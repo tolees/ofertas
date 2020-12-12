@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange 8nze74 Chaqueta Punto  A al 27.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418a0dj0x1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418a0dj0x1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418a0dj0x1L._SL200_.jpg' ]
 comments: true
 category: ofertas

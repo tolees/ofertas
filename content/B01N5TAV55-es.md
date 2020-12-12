@@ -3,6 +3,7 @@ layout: post
 title: 'Head Vision Corpo Camiseta Deporte  Homb al 55.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UerAwMxdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UerAwMxdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UerAwMxdL._SL200_.jpg' ]
 comments: true
 category: ofertas

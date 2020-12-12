@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.24 % en G-Star RAW Shona  Botas Chelsea para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410BvGUcZUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410BvGUcZUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410BvGUcZUL._SL200_.jpg' ]
 comments: true
 category: ofertas

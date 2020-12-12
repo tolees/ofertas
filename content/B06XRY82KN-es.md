@@ -3,6 +3,7 @@ layout: post
 title: '3D Pluma de Impresión  Bolígrafo de Este al 36.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nea-YoIuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nea-YoIuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nea-YoIuL._SL200_.jpg' ]
 comments: true
 category: ofertas

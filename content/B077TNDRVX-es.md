@@ -3,6 +3,7 @@ layout: post
 title: 'Suunto - Spartan Trainer Wrist HR - SS02 al 39.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LOpG80EGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LOpG80EGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LOpG80EGL._SL200_.jpg' ]
 comments: true
 category: ofertas

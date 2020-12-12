@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Skech-Air Ultra Flex  Zapatilla al 59.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yZP3IfbrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yZP3IfbrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yZP3IfbrL._SL200_.jpg' ]
 comments: true
 category: ofertas

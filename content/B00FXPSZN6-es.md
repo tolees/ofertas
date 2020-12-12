@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.17 % en Bruetting Summit Low - Zapatos de sender'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410AmDhCqsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410AmDhCqsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410AmDhCqsL._SL200_.jpg' ]
 comments: true
 category: ofertas

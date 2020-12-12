@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.69 % en Guess Reloj Análogo clásico para Mujer d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lNt1IlLVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lNt1IlLVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lNt1IlLVL._SL200_.jpg' ]
 comments: true
 category: ofertas

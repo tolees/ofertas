@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.79 % en Tacklife EST02 Avanzado comprobador de e'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s%2BLAPfCZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s%2BLAPfCZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s%2BLAPfCZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Tf3924  Camiseta Mujer  Azul  Ma al 29.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RFD63V-7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RFD63V-7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RFD63V-7L._SL200_.jpg' ]
 comments: true
 category: ofertas

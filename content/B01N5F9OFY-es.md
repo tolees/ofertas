@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.18 % en adidas Essentials Classics Polo de Tenis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DzkCJ5UcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DzkCJ5UcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DzkCJ5UcL._SL200_.jpg' ]
 comments: true
 category: ofertas

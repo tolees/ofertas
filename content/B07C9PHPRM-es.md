@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Luz  Vaqueros Skinny Mujer  Gris  al 80.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nk7QlDeUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nk7QlDeUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nk7QlDeUL._SL200_.jpg' ]
 comments: true
 category: ofertas

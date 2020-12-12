@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.90 % en Kappa Cammy  Botas Clasicas Niñas  Azul-'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hG3VXMI0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hG3VXMI0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hG3VXMI0L._SL200_.jpg' ]
 comments: true
 category: ofertas

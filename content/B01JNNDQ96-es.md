@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Kinkade Pantalones  Hombre  Azul  al 47.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s1yo5FIYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s1yo5FIYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s1yo5FIYL._SL200_.jpg' ]
 comments: true
 category: ofertas

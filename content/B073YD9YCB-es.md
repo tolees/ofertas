@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 107ee1i014  suéter Mujer  Azul  L al 52.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iwspCnZ1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iwspCnZ1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iwspCnZ1L._SL200_.jpg' ]
 comments: true
 category: ofertas

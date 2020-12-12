@@ -3,6 +3,7 @@ layout: post
 title: 'Puma One 19.2 FG/AG  Zapatillas de Fútbo al 83.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oqTLUH5BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oqTLUH5BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oqTLUH5BL._SL200_.jpg' ]
 comments: true
 category: ofertas

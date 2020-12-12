@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.83 % en JACK & JONES Bolton Dean WH. Pepper Org '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d%2BnkqUA8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d%2BnkqUA8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d%2BnkqUA8L._SL200_.jpg' ]
 comments: true
 category: ofertas

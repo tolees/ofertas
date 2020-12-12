@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jfwgobi Suede Sand  Botas D al 55.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oSjuykrbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oSjuykrbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oSjuykrbL._SL200_.jpg' ]
 comments: true
 category: ofertas

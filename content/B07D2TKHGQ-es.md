@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.62 % en Mizuno Monarcida Neo MD  Zapatillas de F'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cOjqqq9tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cOjqqq9tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cOjqqq9tL._SL200_.jpg' ]
 comments: true
 category: ofertas

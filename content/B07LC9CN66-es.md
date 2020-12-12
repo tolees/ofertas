@@ -3,6 +3,7 @@ layout: post
 title: 'Kounga Yoga Mat ComfiPro 8 Esterilla  Un al 63.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410URFQcyJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410URFQcyJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410URFQcyJL._SL200_.jpg' ]
 comments: true
 category: ofertas

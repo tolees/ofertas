@@ -3,6 +3,7 @@ layout: post
 title: 'Eono Essentials - Culote corto de ciclis al 30.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WwX6F7GbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WwX6F7GbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WwX6F7GbL._SL200_.jpg' ]
 comments: true
 category: ofertas

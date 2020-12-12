@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.10 % en Asics Jolt 2  Zapatillas de Running para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RhYn1LZML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RhYn1LZML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RhYn1LZML._SL200_.jpg' ]
 comments: true
 category: ofertas

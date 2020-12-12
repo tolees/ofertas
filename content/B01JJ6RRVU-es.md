@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Foraker  Botas para Hombre  M al 41.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pgg%2B2giwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pgg%2B2giwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pgg%2B2giwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED FEMME Sfpana LS Knit O-Neck  su al 84.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vk%2BnuBIYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vk%2BnuBIYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vk%2BnuBIYL._SL200_.jpg' ]
 comments: true
 category: ofertas

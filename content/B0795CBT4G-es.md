@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Liga Jersey T-Shirt  Hombre  Cyber  al 27.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iYVeFGfIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iYVeFGfIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iYVeFGfIL._SL200_.jpg' ]
 comments: true
 category: ofertas

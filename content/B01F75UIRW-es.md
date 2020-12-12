@@ -3,6 +3,7 @@ layout: post
 title: 'Pocket POP! Keychain - DC: Superman al 66.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lSA7HjZ1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lSA7HjZ1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lSA7HjZ1L._SL200_.jpg' ]
 comments: true
 category: ofertas

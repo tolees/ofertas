@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Thong 3PK Tanga  Schwarz  P al 38.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i1A6AzBSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i1A6AzBSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i1A6AzBSL._SL200_.jpg' ]
 comments: true
 category: ofertas

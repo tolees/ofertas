@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.04 % en Black+Decker NVB-115-JL Recogetodo cicló'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414zADiP%2BQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414zADiP%2BQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414zADiP%2BQL._SL200_.jpg' ]
 comments: true
 category: ofertas

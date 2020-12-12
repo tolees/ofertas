@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.66 % en SHOE THE BEAR Alberte S  Sandalias con P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x3Q8yaKgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x3Q8yaKgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x3Q8yaKgL._SL200_.jpg' ]
 comments: true
 category: ofertas

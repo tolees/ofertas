@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Luke Vaqueros Tapered  Negro  Black  al 60.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413dapDmiNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413dapDmiNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413dapDmiNL._SL200_.jpg' ]
 comments: true
 category: ofertas

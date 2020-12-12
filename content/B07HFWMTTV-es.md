@@ -3,6 +3,7 @@ layout: post
 title: 'URCERI Limpiacristales  2 en 1 windomati al 39.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BpP862KqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BpP862KqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BpP862KqL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.59 % en HORIZONTAL Mini 2.4Ghz Touchpad teclado '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51K1BIqtGzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51K1BIqtGzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51K1BIqtGzL._SL200_.jpg' ]
 comments: true
 category: ofertas

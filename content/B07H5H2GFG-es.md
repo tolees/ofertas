@@ -3,6 +3,7 @@ layout: post
 title: 'Estera de Barbacoa  3 Piezas Láminas de  al 55.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YfhySRujL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YfhySRujL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YfhySRujL._SL200_.jpg' ]
 comments: true
 category: ofertas

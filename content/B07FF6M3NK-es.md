@@ -3,6 +3,7 @@ layout: post
 title: 'Cybex Gold - Capazo S Scuderia Ferrari   al 51.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WJi4HuFvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WJi4HuFvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WJi4HuFvL._SL200_.jpg' ]
 comments: true
 category: ofertas

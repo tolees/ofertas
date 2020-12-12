@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.07 % en Reef Contour Cushion Le  Chanclas para H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bcdz03%2BTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bcdz03%2BTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bcdz03%2BTL._SL200_.jpg' ]
 comments: true
 category: ofertas

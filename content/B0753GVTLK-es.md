@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.41 % en Parasol Hjuns. Parasol para parabrisas f'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31e4pIBrTBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31e4pIBrTBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31e4pIBrTBL._SL200_.jpg' ]
 comments: true
 category: ofertas

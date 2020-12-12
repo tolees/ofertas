@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.41 % en MTNG 84086 - Zapatillas para Hombre  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314dfusEySL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314dfusEySL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314dfusEySL._SL200_.jpg' ]
 comments: true
 category: ofertas

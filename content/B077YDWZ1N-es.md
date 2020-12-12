@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.75 % en HIKARO AMA SHIPLEY camisetas  Azul  Aqua'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eu9oacZGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eu9oacZGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eu9oacZGL._SL200_.jpg' ]
 comments: true
 category: ofertas

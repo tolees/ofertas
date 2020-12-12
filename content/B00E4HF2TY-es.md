@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.39 % en Case Logic FSG1103K - Funda para Tablet'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zoyGQW64L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zoyGQW64L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zoyGQW64L._SL200_.jpg' ]
 comments: true
 category: ofertas

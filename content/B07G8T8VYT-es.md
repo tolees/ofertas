@@ -3,6 +3,7 @@ layout: post
 title: 'Xnuoyo Mochila Antirrobo de Portátil  17 al 56.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415L2Ql%2BYFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415L2Ql%2BYFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415L2Ql%2BYFL._SL200_.jpg' ]
 comments: true
 category: ofertas

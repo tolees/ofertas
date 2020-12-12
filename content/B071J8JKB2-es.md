@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.34 % en Tommy Hilfiger FW0FW01530  Botas Cortas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jb8auLUrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jb8auLUrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jb8auLUrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.38 % en Orbegozo BA 3500 3500-Batidora amasadora'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lgTUlM8VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lgTUlM8VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lgTUlM8VL._SL200_.jpg' ]
 comments: true
 category: ofertas

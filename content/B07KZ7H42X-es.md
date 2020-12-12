@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel C7Cc Indigo T-BD Camisa Casual al 74.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vvdq63P8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vvdq63P8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vvdq63P8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Pique  Polo para Hombre  Azul  Dippe al 49.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PQoh4td%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PQoh4td%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PQoh4td%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

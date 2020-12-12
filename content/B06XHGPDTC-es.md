@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.30 % en Helly Hansen Verglas Hooded Down Insulat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oJ7N1NsxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oJ7N1NsxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oJ7N1NsxL._SL200_.jpg' ]
 comments: true
 category: ofertas

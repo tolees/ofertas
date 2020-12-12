@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.71 % en LED Net Lights USB 5V Led Luces de caden'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61VUU3IyYfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61VUU3IyYfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61VUU3IyYfL._SL200_.jpg' ]
 comments: true
 category: ofertas

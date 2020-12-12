@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.01 % en adidas Solar Boost M  Zapatillas de Runn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z5yliETnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z5yliETnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z5yliETnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Milla JR  Chaqueta para Niñas al 65.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M4DobUszL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M4DobUszL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M4DobUszL._SL200_.jpg' ]
 comments: true
 category: ofertas

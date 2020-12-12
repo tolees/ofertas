@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.96 % en CookJoy Candado de Bicicleta Antirrobo c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410EUExiKQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410EUExiKQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410EUExiKQL._SL200_.jpg' ]
 comments: true
 category: ofertas

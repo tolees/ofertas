@@ -3,6 +3,7 @@ layout: post
 title: 'AstroAI Compresor de Aire para Coche 12V al 52.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PWnRk3FcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PWnRk3FcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PWnRk3FcL._SL200_.jpg' ]
 comments: true
 category: ofertas

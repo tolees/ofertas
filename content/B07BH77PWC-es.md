@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.97 % en Mr. Wonderful MRW15 - Planificador'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dKoBKYOxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dKoBKYOxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dKoBKYOxL._SL200_.jpg' ]
 comments: true
 category: ofertas

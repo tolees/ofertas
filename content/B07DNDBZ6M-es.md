@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 098ee1i001 suéter  Azul  Bright B al 53.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412Lc2QqArL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412Lc2QqArL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412Lc2QqArL._SL200_.jpg' ]
 comments: true
 category: ofertas

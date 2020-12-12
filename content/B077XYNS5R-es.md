@@ -3,6 +3,7 @@ layout: post
 title: 'Camry Báscula Digital de Cocina Balanza  al 53.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xBkVYPc7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xBkVYPc7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xBkVYPc7L._SL200_.jpg' ]
 comments: true
 category: ofertas

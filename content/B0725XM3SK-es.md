@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Saxton 751 Sudadera  Rojo  Red   Ta al 55.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QzkecMdVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QzkecMdVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QzkecMdVL._SL200_.jpg' ]
 comments: true
 category: ofertas

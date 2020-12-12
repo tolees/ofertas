@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Tekware TNF Jersey 100 Gl al 36.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IdG1Z7u5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IdG1Z7u5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IdG1Z7u5L._SL200_.jpg' ]
 comments: true
 category: ofertas

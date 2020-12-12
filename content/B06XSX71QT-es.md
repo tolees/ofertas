@@ -3,6 +3,7 @@ layout: post
 title: 'Only & Sons Onsloom Med Blue 6968 Pa Noo al 47.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KCyDjSv5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KCyDjSv5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KCyDjSv5L._SL200_.jpg' ]
 comments: true
 category: ofertas

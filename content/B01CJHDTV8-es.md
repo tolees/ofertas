@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.86 % en POWER GUIDANCE Barbell Squat Pad Protect'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

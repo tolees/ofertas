@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.37 % en Persol Gafas de sol 0PO3134S Black 95/31'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jq3fDznyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jq3fDznyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jq3fDznyL._SL200_.jpg' ]
 comments: true
 category: ofertas

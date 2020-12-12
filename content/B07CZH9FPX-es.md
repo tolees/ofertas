@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon XA Pro 3D GTX  Zapatillas de Run al 48.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sY%2Bjk6EpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sY%2Bjk6EpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sY%2Bjk6EpL._SL200_.jpg' ]
 comments: true
 category: ofertas

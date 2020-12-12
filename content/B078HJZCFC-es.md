@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.46 % en Springfield 963801  Mochila para Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hJ1HKMt-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hJ1HKMt-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hJ1HKMt-L._SL200_.jpg' ]
 comments: true
 category: ofertas

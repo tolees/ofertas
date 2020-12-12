@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.92 % en Samsonite Rewind  Bolsa de viaje  55 cm '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3138-09mKtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3138-09mKtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3138-09mKtL._SL200_.jpg' ]
 comments: true
 category: ofertas

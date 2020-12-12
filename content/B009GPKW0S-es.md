@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.37 % en REDKEN CURVACEOUS ringlet 180 ml'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Fa7y4z-LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fa7y4z-LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Fa7y4z-LL._SL200_.jpg' ]
 comments: true
 category: ofertas

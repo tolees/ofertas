@@ -3,6 +3,7 @@ layout: post
 title: 'James & Nicholson Laufhose Jogging  Pant al 68.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FLU09A3cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FLU09A3cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FLU09A3cL._SL200_.jpg' ]
 comments: true
 category: ofertas

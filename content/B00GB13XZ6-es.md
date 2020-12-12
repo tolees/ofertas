@@ -3,6 +3,7 @@ layout: post
 title: 'Candide - Sábana bajera para cama de beb al 53.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31itqvA3E9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31itqvA3E9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31itqvA3E9L._SL200_.jpg' ]
 comments: true
 category: ofertas

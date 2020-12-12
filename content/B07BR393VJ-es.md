@@ -3,6 +3,7 @@ layout: post
 title: 'hummel Slimmer Stadil HB High  Zapatilla al 71.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41erZpE2SDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41erZpE2SDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41erZpE2SDL._SL200_.jpg' ]
 comments: true
 category: ofertas

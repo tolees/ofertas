@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Reago Pulse  Zapatillas de Deport al 65.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pCGYa0IWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pCGYa0IWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pCGYa0IWL._SL200_.jpg' ]
 comments: true
 category: ofertas

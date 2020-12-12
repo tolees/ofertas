@@ -3,6 +3,7 @@ layout: post
 title: 'Touchlines Evolution Fussball  Camiseta  al 66.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g3ed4-7ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g3ed4-7ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g3ed4-7ML._SL200_.jpg' ]
 comments: true
 category: ofertas

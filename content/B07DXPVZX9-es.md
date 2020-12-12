@@ -3,6 +3,7 @@ layout: post
 title: 'Bolsa para Proyector 25 x 21 x 11cm Estu al 75.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NDAHUtqKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NDAHUtqKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NDAHUtqKL._SL200_.jpg' ]
 comments: true
 category: ofertas

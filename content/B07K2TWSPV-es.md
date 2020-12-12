@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.42 % en Adidas Kanadia Trail F36056  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316iv3SWpmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316iv3SWpmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316iv3SWpmL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Avent Magic - Taza antigoteo de  al 55.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415N1yvCKtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415N1yvCKtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415N1yvCKtL._SL200_.jpg' ]
 comments: true
 category: ofertas

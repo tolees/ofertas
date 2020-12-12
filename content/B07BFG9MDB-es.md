@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star Bristum Shirt L/s  Camisa Hombre  al 52.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YTwAX-ymL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YTwAX-ymL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YTwAX-ymL._SL200_.jpg' ]
 comments: true
 category: ofertas

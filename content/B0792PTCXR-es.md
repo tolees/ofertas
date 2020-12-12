@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.40 % en QUN FENG Mini Drone para Niños y Adultos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tjNz%2BxMPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tjNz%2BxMPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tjNz%2BxMPL._SL200_.jpg' ]
 comments: true
 category: ofertas

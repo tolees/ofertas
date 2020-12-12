@@ -3,6 +3,7 @@ layout: post
 title: 'Bolín Bolón 1019094012200 - Saco de carr al 82.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w3gesbOML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w3gesbOML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w3gesbOML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Frozen Perfume Consumo Niños - 150 ml al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C-TK2jaSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C-TK2jaSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C-TK2jaSL._SL200_.jpg' ]
 comments: true
 category: ofertas

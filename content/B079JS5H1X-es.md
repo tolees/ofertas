@@ -3,6 +3,7 @@ layout: post
 title: 'Lenovo Ideapad Y520-15IKBN - Ordenador p al 27.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vd4DOWWSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vd4DOWWSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vd4DOWWSL._SL200_.jpg' ]
 comments: true
 category: ofertas

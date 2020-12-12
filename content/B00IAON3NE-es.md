@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.60 % en Nike Court Royale  GS   Zapatillas de Gi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vwFPjttzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vwFPjttzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vwFPjttzL._SL200_.jpg' ]
 comments: true
 category: ofertas

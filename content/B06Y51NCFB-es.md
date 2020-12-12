@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.98 % en oodji Ultra Mujer Top de Tejido Texturiz'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uFYqsQYtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uFYqsQYtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uFYqsQYtL._SL200_.jpg' ]
 comments: true
 category: ofertas

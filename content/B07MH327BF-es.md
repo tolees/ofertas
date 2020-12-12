@@ -3,6 +3,7 @@ layout: post
 title: 'CAMPER Match  Sandalias con Punta Abiert al 39.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Jvcmw6GuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Jvcmw6GuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Jvcmw6GuL._SL200_.jpg' ]
 comments: true
 category: ofertas

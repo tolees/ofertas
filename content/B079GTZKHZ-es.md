@@ -3,6 +3,7 @@ layout: post
 title: 'Marcos de fotos acrílicas 15 x 20 cm  Ma al 45.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h8c3IL6sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h8c3IL6sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h8c3IL6sL._SL200_.jpg' ]
 comments: true
 category: ofertas

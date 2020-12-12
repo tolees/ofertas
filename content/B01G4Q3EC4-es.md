@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.43 % en LANGRIA Estantería Metálica de Almacenam'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ACg-CG%2BCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ACg-CG%2BCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ACg-CG%2BCL._SL200_.jpg' ]
 comments: true
 category: ofertas

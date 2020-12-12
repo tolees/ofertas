@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.49 % en HUGO Migor2 Abrigo  Azul  Navy 410   Med'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416p1mZ5zFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416p1mZ5zFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416p1mZ5zFL._SL200_.jpg' ]
 comments: true
 category: ofertas

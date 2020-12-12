@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.91 % en SELECTED HOMME Slhslim-Carlo Pants B Noo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JwVpOkFYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JwVpOkFYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JwVpOkFYL._SL200_.jpg' ]
 comments: true
 category: ofertas

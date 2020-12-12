@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.75 % en Jack & Jones NOS Jjizack Jjonix JJ 137 5'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310EMTetSXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310EMTetSXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310EMTetSXL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en New Balance Fresh Foam Cruz V2 Mcruzkr2 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UOO%2BLC3-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UOO%2BLC3-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UOO%2BLC3-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.65 % en LOHOTEK Flyknit Zapatillas Hombres Zapat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41et9ii9UoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41et9ii9UoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41et9ii9UoL._SL200_.jpg' ]
 comments: true
 category: ofertas

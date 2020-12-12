@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.56 % en Bestway Lay- Z-Spa Miami Spa Hinchable'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DGnfptLjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DGnfptLjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DGnfptLjL._SL200_.jpg' ]
 comments: true
 category: ofertas

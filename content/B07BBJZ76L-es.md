@@ -3,6 +3,7 @@ layout: post
 title: 'Softline 25461-21  Botines para Mujer  A al 76.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411TEj%2ByTKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411TEj%2ByTKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411TEj%2ByTKL._SL200_.jpg' ]
 comments: true
 category: ofertas

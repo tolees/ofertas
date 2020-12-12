@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 593826 Bañador  Gama Verdes  al 42.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eTQgvcTML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eTQgvcTML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eTQgvcTML._SL200_.jpg' ]
 comments: true
 category: ofertas

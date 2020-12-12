@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.50 % en Asics GT-1000 6  Zapatillas de Running p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GcBcUBfuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GcBcUBfuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GcBcUBfuL._SL200_.jpg' ]
 comments: true
 category: ofertas

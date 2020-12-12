@@ -3,6 +3,7 @@ layout: post
 title: 'adidas 3-Stripes Crew Sudadera  Hombre   al 29.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HVSdUYwYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HVSdUYwYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HVSdUYwYL._SL200_.jpg' ]
 comments: true
 category: ofertas

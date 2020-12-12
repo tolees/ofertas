@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen HP Ocean FZ Hoodie  Hombre  al 40.00 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

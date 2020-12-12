@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 998eo1k806 Camisa Mang al 61.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51syRqPHhqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51syRqPHhqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51syRqPHhqL._SL200_.jpg' ]
 comments: true
 category: ofertas

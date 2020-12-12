@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Aerobounce St W  Zapatillas de Ru al 49.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51foUmz0LTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51foUmz0LTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51foUmz0LTL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.97 % en DIMO-TEX Sun -Conjuntos de Bikini Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xAJGKBciL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xAJGKBciL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xAJGKBciL._SL200_.jpg' ]
 comments: true
 category: ofertas

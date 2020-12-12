@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.37 % en Lenovo Ideapad 330-15ICH - Ordenador Por'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G2gQ8EHJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G2gQ8EHJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G2gQ8EHJL._SL200_.jpg' ]
 comments: true
 category: ofertas

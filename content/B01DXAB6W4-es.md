@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Authentic  Zapatillas Unisex Adulto al 52.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sf%2B4AdCdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sf%2B4AdCdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sf%2B4AdCdL._SL200_.jpg' ]
 comments: true
 category: ofertas

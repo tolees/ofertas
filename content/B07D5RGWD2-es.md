@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Rebel Block Basic T-Shirt  Hombre   al 56.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E2ecMFa0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E2ecMFa0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E2ecMFa0L._SL200_.jpg' ]
 comments: true
 category: ofertas

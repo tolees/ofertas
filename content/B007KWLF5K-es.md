@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.23 % en Audio-Technica ATH-ANC9 - Auriculares  r'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Xb8Nar0yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Xb8Nar0yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Xb8Nar0yL._SL200_.jpg' ]
 comments: true
 category: ofertas

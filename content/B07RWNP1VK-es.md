@@ -3,6 +3,7 @@ layout: post
 title: 'NIVEA SUN crema solar facial FP50  + Pro al 33.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JdTGgE2XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JdTGgE2XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JdTGgE2XL._SL200_.jpg' ]
 comments: true
 category: ofertas

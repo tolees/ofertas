@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.50 % en JACK & JONES Jjejeans Print tee SS Crew '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JhshZ7XSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JhshZ7XSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JhshZ7XSL._SL200_.jpg' ]
 comments: true
 category: ofertas

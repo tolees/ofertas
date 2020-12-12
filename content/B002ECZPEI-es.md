@@ -3,6 +3,7 @@ layout: post
 title: 'Grohe Skate Cosmopolitan - Escudo dual   al 34.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dcjFuQrUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dcjFuQrUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dcjFuQrUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en URCERI Detector de Pared Encontrar Stud '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f4KpZqmyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f4KpZqmyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f4KpZqmyL._SL200_.jpg' ]
 comments: true
 category: ofertas

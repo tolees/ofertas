@@ -3,6 +3,7 @@ layout: post
 title: 'LIZA LINE BAÚL de MADERA  Color Topo   B al 50.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DERKJ0zkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DERKJ0zkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DERKJ0zkL._SL200_.jpg' ]
 comments: true
 category: ofertas

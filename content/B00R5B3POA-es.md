@@ -3,6 +3,7 @@ layout: post
 title: 'Crema facial anti-edad por Derma-nu - Me al 35.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pqLCR8QnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pqLCR8QnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pqLCR8QnL._SL200_.jpg' ]
 comments: true
 category: ofertas

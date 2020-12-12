@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.44 % en JACK & JONES Jjitim Jjoriginal Jos 318 S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KIQS3BFeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KIQS3BFeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KIQS3BFeL._SL200_.jpg' ]
 comments: true
 category: ofertas

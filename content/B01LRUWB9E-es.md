@@ -3,6 +3,7 @@ layout: post
 title: 'Hauck Rapid 4 - Sillita compacta y depor al 33.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I66Z1F6-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I66Z1F6-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I66Z1F6-L._SL200_.jpg' ]
 comments: true
 category: ofertas

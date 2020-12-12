@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmlolly LS V-Neck Blouse Boo s al 77.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41be4nV-W2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41be4nV-W2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41be4nV-W2L._SL200_.jpg' ]
 comments: true
 category: ofertas

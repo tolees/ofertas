@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.50 % en Salomon X Radiant GTX W  Zapatillas de S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418GrE%2BWnEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418GrE%2BWnEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418GrE%2BWnEL._SL200_.jpg' ]
 comments: true
 category: ofertas

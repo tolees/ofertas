@@ -3,6 +3,7 @@ layout: post
 title: 'Newskill Kuraokami - Silla Gaming Profes al 29.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AE9lpc%2BnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AE9lpc%2BnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AE9lpc%2BnL._SL200_.jpg' ]
 comments: true
 category: ofertas

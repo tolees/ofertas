@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Trust  Zapatillas Unisex Adulto  N al 52.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DiBe4xQDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DiBe4xQDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DiBe4xQDL._SL200_.jpg' ]
 comments: true
 category: ofertas

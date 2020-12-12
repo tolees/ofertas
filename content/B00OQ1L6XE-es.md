@@ -3,6 +3,7 @@ layout: post
 title: 'AIR OPTIX Lentes de contacto multifocale al 46.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a%2BwZWCZ6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a%2BwZWCZ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a%2BwZWCZ6L._SL200_.jpg' ]
 comments: true
 category: ofertas

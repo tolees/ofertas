@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Solin LS  Camiseta  Hombre  Ve al 59.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DUSA5D6TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DUSA5D6TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DUSA5D6TL._SL200_.jpg' ]
 comments: true
 category: ofertas

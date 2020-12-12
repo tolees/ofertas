@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.45 % en Tuscany Silver 8.37.0320 - Pulsera de pl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kVCksTHNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kVCksTHNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kVCksTHNL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.43 % en adidas Vs ADV Cl CMF C  Zapatillas de De'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411vnb2cGQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411vnb2cGQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411vnb2cGQL._SL200_.jpg' ]
 comments: true
 category: ofertas

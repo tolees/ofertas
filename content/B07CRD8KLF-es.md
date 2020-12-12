@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.97 % en Pepe Jeans Mack Camiseta    Grey Marl 93'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QEir05OML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QEir05OML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QEir05OML._SL200_.jpg' ]
 comments: true
 category: ofertas

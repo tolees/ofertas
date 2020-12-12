@@ -3,6 +3,7 @@ layout: post
 title: 'Bolsos cruzados de lona  Bolso de viaje  al 62.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RXG1Xa2AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RXG1Xa2AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RXG1Xa2AL._SL200_.jpg' ]
 comments: true
 category: ofertas

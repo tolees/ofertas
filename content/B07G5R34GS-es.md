@@ -3,6 +3,7 @@ layout: post
 title: 'Vernee Thor Móviles Libres  Android 7.0  al 33.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hENWok%2BcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hENWok%2BcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hENWok%2BcL._SL200_.jpg' ]
 comments: true
 category: ofertas

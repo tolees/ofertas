@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmlou LS Top A  Blusa Mujer  B al 52.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hb3%2BNvf1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hb3%2BNvf1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hb3%2BNvf1L._SL200_.jpg' ]
 comments: true
 category: ofertas

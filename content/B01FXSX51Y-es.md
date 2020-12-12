@@ -3,6 +3,7 @@ layout: post
 title: 'ThunderX3 TK50RD- Teclado gaming mecánic al 26.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vu2zU4zYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vu2zU4zYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vu2zU4zYL._SL200_.jpg' ]
 comments: true
 category: ofertas

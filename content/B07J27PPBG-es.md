@@ -3,6 +3,7 @@ layout: post
 title: 'Multiusos Cortador de Verduras  13 en 1  al 65.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QxgoA8vLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QxgoA8vLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QxgoA8vLL._SL200_.jpg' ]
 comments: true
 category: ofertas

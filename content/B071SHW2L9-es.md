@@ -3,6 +3,7 @@ layout: post
 title: 'Pepa Loves Fancy Buttons Cardigan Bronze al 72.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vulqs4RkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vulqs4RkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vulqs4RkL._SL200_.jpg' ]
 comments: true
 category: ofertas

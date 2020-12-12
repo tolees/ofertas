@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.07 % en DC Apparel Star Hoody Sweat Fleece Top  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t3uUnMUiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t3uUnMUiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t3uUnMUiL._SL200_.jpg' ]
 comments: true
 category: ofertas

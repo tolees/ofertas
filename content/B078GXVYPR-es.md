@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.68 % en Trucco TT16AQ1 Jersey  Blanco Crudo  Lar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yeMhAfrLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yeMhAfrLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yeMhAfrLL._SL200_.jpg' ]
 comments: true
 category: ofertas

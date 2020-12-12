@@ -3,6 +3,7 @@ layout: post
 title: '66LEDs Focos Solares con Sensor de Movim al 69.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CrigrLZHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CrigrLZHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CrigrLZHL._SL200_.jpg' ]
 comments: true
 category: ofertas

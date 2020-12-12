@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.32 % en Fominaya 0144191110 Grifo silencioso Lat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cVuY11ezL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cVuY11ezL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cVuY11ezL._SL200_.jpg' ]
 comments: true
 category: ofertas

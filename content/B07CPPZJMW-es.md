@@ -3,6 +3,7 @@ layout: post
 title: 'REAYOU Pet Portátil plegable Playpen Por al 59.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AJ1rS%2BgYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AJ1rS%2BgYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AJ1rS%2BgYL._SL200_.jpg' ]
 comments: true
 category: ofertas

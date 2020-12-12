@@ -3,6 +3,7 @@ layout: post
 title: 'Crazy Dog Tshirts - Womens Mom Battery L al 33.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IcWj5e%2BvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IcWj5e%2BvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IcWj5e%2BvL._SL200_.jpg' ]
 comments: true
 category: ofertas

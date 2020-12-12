@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.02 % en BENTOBEN Funda iPhone 6s Plus  Funda iPh'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ju86iRyZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ju86iRyZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ju86iRyZL._SL200_.jpg' ]
 comments: true
 category: ofertas

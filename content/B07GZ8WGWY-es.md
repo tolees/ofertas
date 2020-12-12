@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.60 % en esonmus 6 Ganchos Autoadhesivas Juego de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UbB9KTmoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UbB9KTmoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UbB9KTmoL._SL200_.jpg' ]
 comments: true
 category: ofertas

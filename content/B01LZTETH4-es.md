@@ -3,6 +3,7 @@ layout: post
 title: 'Double Agent  Basic Print Top - Camiseta al 68.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eKqTO%2BSzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eKqTO%2BSzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eKqTO%2BSzL._SL200_.jpg' ]
 comments: true
 category: ofertas

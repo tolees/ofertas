@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.58 % en Columbia Silver Ridge Cargo Pant AM8007 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ofekTpNlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ofekTpNlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ofekTpNlL._SL200_.jpg' ]
 comments: true
 category: ofertas

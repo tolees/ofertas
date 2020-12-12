@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.32 % en Tommy Hilfiger 2p Trunk Bóxer  Rosa  Tan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gCUu3pD8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gCUu3pD8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gCUu3pD8L._SL200_.jpg' ]
 comments: true
 category: ofertas

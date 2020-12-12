@@ -3,6 +3,7 @@ layout: post
 title: 'MERAKI Regular Camiseta de Manga Corta c al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zH%2BQkh-PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zH%2BQkh-PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zH%2BQkh-PL._SL200_.jpg' ]
 comments: true
 category: ofertas

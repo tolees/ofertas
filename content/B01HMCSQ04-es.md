@@ -3,6 +3,7 @@ layout: post
 title: 'VERO MODA VMNORAH LS BLOUSE DNM T  Jerse al 61.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kH6K6xAQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kH6K6xAQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kH6K6xAQL._SL200_.jpg' ]
 comments: true
 category: ofertas

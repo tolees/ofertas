@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.96 % en Geox J Jensea E  Zapatillas para Niñas  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZVSti7-WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZVSti7-WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZVSti7-WL._SL200_.jpg' ]
 comments: true
 category: ofertas

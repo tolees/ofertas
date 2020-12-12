@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.38 % en Pepe Jeans Amadea Sudadera    Deep Sea 5'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pp0J04uIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pp0J04uIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pp0J04uIL._SL200_.jpg' ]
 comments: true
 category: ofertas

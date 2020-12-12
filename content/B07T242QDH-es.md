@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en Dewanxin 2019 Xiaomi MI Band 4  Pulsera '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nfw3yA6JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nfw3yA6JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nfw3yA6JL._SL200_.jpg' ]
 comments: true
 category: ofertas

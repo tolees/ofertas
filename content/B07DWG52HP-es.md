@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Contrast Panel Zapatos de Cordones  al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FgA2i7AHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FgA2i7AHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FgA2i7AHL._SL200_.jpg' ]
 comments: true
 category: ofertas

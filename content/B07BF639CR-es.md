@@ -3,6 +3,7 @@ layout: post
 title: 'Pluma 3D Fede  Lápiz 3D con[12 Rollo Fil al 58.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JEvoV1vSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JEvoV1vSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JEvoV1vSL._SL200_.jpg' ]
 comments: true
 category: ofertas

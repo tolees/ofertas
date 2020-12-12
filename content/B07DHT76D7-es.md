@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Quiksilver Keller Sudadera con Capucha  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415r4IqkFHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415r4IqkFHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415r4IqkFHL._SL200_.jpg' ]
 comments: true
 category: ofertas

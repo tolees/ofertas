@@ -3,6 +3,7 @@ layout: post
 title: 'Cressi 1946 Aqua Shoes Zapatos Deportivo al 57.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ve2qcVEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411ve2qcVEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ve2qcVEL._SL200_.jpg' ]
 comments: true
 category: ofertas

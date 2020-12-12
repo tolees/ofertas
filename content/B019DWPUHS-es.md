@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U AILAND A  Zapatillas para Hombre  al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41huzQd6LoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41huzQd6LoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41huzQd6LoL._SL200_.jpg' ]
 comments: true
 category: ofertas

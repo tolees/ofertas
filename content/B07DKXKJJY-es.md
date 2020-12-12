@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Schooner Bank Cachalot - Gorra  al 46.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tp8da46jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tp8da46jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tp8da46jL._SL200_.jpg' ]
 comments: true
 category: ofertas

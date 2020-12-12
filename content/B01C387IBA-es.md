@@ -3,6 +3,7 @@ layout: post
 title: 'Novadiet Complemento Alimenticio - 320 g al 42.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dq8PoS1AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dq8PoS1AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dq8PoS1AL._SL200_.jpg' ]
 comments: true
 category: ofertas

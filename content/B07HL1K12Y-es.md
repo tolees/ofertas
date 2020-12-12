@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi 2-2-23772-22  Zapatillas par al 50.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Been5DTQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Been5DTQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Been5DTQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Garcia Z1115 Pantalones  Azul  Dark Moon al 83.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fb3gE5afL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fb3gE5afL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fb3gE5afL._SL200_.jpg' ]
 comments: true
 category: ofertas

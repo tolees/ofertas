@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.01 % en IRIS & LILLY Kt122 Bikini  Azul  Blue/Wh'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4147qOi0fkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4147qOi0fkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4147qOi0fkL._SL200_.jpg' ]
 comments: true
 category: ofertas

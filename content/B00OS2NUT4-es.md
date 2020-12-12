@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.87 % en The North Face Borealis Mochila   Negro '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KnE4rjF-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KnE4rjF-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KnE4rjF-L._SL200_.jpg' ]
 comments: true
 category: ofertas

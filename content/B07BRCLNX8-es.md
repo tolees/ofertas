@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.96 % en Nike Air MAX 90  Zapatillas de Gimnasia '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gIfFJ8gcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gIfFJ8gcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gIfFJ8gcL._SL200_.jpg' ]
 comments: true
 category: ofertas

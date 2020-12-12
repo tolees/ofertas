@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.29 % en AEG BMG 5610 - Tensiómetro de muñeca  60'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X1syns08L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X1syns08L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X1syns08L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'bntteam 5 paquetes 2.1M  2.4m  3.0m  3.6 al 64.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516VyoTT2JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516VyoTT2JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516VyoTT2JL._SL200_.jpg' ]
 comments: true
 category: ofertas

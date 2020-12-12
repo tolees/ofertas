@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.05 % en Springfield 7Ba Jacquard Posici. Gg7 Jer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gPakYrWHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gPakYrWHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gPakYrWHL._SL200_.jpg' ]
 comments: true
 category: ofertas

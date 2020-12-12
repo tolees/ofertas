@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face W Back-To-Berk Redux  Bot al 41.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aLbpI75yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aLbpI75yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aLbpI75yL._SL200_.jpg' ]
 comments: true
 category: ofertas

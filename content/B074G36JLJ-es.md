@@ -3,6 +3,7 @@ layout: post
 title: 'Nanos 1818255547  Jersey para Bebés   Az al 66.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51W5vfB49RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51W5vfB49RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51W5vfB49RL._SL200_.jpg' ]
 comments: true
 category: ofertas

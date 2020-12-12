@@ -3,6 +3,7 @@ layout: post
 title: 'YaYuu Banda de Reloj para Suunto Core  C al 46.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yq3QwPO0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yq3QwPO0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yq3QwPO0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Smartwares CL-1474 – Reloj despertador   al 25.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419RJQ-1T7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419RJQ-1T7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419RJQ-1T7L._SL200_.jpg' ]
 comments: true
 category: ofertas

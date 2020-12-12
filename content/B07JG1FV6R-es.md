@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Tj3294 Camiseta  Rojo  Salvia Ad al 48.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417ccMrUfML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417ccMrUfML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417ccMrUfML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Hot Mom Silla de paseo Reversibilidad ro al 49.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FC8J8mEeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FC8J8mEeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FC8J8mEeL._SL200_.jpg' ]
 comments: true
 category: ofertas

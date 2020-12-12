@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Monocromo - Memoria USB 3.0 de 3 al 38.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419NuT8FDHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419NuT8FDHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419NuT8FDHL._SL200_.jpg' ]
 comments: true
 category: ofertas

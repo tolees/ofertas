@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy Jetty Guantes  Niñas  Azul  Crown B al 29.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lTixgoaPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lTixgoaPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lTixgoaPL._SL200_.jpg' ]
 comments: true
 category: ofertas

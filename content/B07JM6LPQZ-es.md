@@ -3,6 +3,7 @@ layout: post
 title: 'YIWENTEC USB C a Mini Displayport Adapta al 27.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lgxGZ25hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lgxGZ25hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lgxGZ25hL._SL200_.jpg' ]
 comments: true
 category: ofertas

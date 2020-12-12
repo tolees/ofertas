@@ -3,6 +3,7 @@ layout: post
 title: 'Marmot Eldridge SS Camisa  Hombre  Azul  al 47.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vUioox2pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vUioox2pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vUioox2pL._SL200_.jpg' ]
 comments: true
 category: ofertas

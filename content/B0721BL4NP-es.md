@@ -3,6 +3,7 @@ layout: post
 title: 'Crucial CT2C8G4S24AM - Kit de Memoria pa al 52.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P8Wf6rerL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P8Wf6rerL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P8Wf6rerL._SL200_.jpg' ]
 comments: true
 category: ofertas

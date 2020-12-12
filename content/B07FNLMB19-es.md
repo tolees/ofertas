@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjeoxford Shirt L/s Noos  C al 63.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RNW0m-nPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RNW0m-nPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RNW0m-nPL._SL200_.jpg' ]
 comments: true
 category: ofertas

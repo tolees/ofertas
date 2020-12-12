@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.30 % en Ray-Ban RB 3016 Gafas de sol  Shiny Red/'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310sD5cqSML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310sD5cqSML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310sD5cqSML._SL200_.jpg' ]
 comments: true
 category: ofertas

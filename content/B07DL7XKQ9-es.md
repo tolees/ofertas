@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6.T.Ap.Daily. Tweed Bimateri al 59.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qqUZdrS3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qqUZdrS3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qqUZdrS3L._SL200_.jpg' ]
 comments: true
 category: ofertas

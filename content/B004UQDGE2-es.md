@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.39 % en Superga 2750  Zapatillas Unisex Adulto  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aT3dJDDSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aT3dJDDSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aT3dJDDSL._SL200_.jpg' ]
 comments: true
 category: ofertas

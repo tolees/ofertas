@@ -3,6 +3,7 @@ layout: post
 title: 'Maybelline New York Paleta de Labios Cri al 38.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XF8dqt02L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XF8dqt02L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XF8dqt02L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.49 % en Contact LXCDU1 - Cargador de RED  con US'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xZ2vW1FWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xZ2vW1FWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xZ2vW1FWL._SL200_.jpg' ]
 comments: true
 category: ofertas

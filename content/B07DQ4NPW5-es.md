@@ -3,6 +3,7 @@ layout: post
 title: 'Urban Classics Ladies Oversize Turtlenec al 65.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M26vgaksL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51M26vgaksL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M26vgaksL._SL200_.jpg' ]
 comments: true
 category: ofertas

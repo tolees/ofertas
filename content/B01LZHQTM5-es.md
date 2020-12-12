@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.10 % en Seagate Backup Plus Slim - Disco duro ex'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FH%2BWD%2Bo-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FH%2BWD%2Bo-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FH%2BWD%2Bo-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.85 % en Divoom timebox Minialtavoz Bluetooth 5- '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LAdvK3cRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LAdvK3cRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LAdvK3cRL._SL200_.jpg' ]
 comments: true
 category: ofertas

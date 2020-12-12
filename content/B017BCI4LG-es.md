@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.93 % en Toallitas Olay para Limpieza Facial  pie'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o401N2NhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o401N2NhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o401N2NhL._SL200_.jpg' ]
 comments: true
 category: ofertas

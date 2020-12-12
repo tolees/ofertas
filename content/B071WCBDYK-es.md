@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiliam Jjoriginal Am 502 L al 49.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y4I2KV4gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y4I2KV4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y4I2KV4gL._SL200_.jpg' ]
 comments: true
 category: ofertas

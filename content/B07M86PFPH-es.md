@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.02 % en Reloj Digital para Niños Niños Niñas 50M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AKsgWT15L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AKsgWT15L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AKsgWT15L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.76 % en Spalding Bekleidung Teamsport MVP Tank T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I50Oumt4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I50Oumt4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I50Oumt4L._SL200_.jpg' ]
 comments: true
 category: ofertas

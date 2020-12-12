@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Vengeful M  Zapatillas de Running al 54.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UgP-Bl%2BWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UgP-Bl%2BWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UgP-Bl%2BWL._SL200_.jpg' ]
 comments: true
 category: ofertas

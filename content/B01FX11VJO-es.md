@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Under Armour Tech Short 2.0 Twist Pantal'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TSGxvObsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TSGxvObsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TSGxvObsL._SL200_.jpg' ]
 comments: true
 category: ofertas

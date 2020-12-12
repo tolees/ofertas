@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.45 % en SKYSPER 40L Mochila de Senderismo Imperm'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RL090tAWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RL090tAWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RL090tAWL._SL200_.jpg' ]
 comments: true
 category: ofertas

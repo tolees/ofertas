@@ -3,6 +3,7 @@ layout: post
 title: 'Kitchen Artist Soporte de utensilios de  al 80.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WkYG4Va7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WkYG4Va7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WkYG4Va7L._SL200_.jpg' ]
 comments: true
 category: ofertas

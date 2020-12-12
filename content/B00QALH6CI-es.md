@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.67 % en Brother RJ3050 - Impresora portátil de T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JcLtGVbSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JcLtGVbSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JcLtGVbSL._SL200_.jpg' ]
 comments: true
 category: ofertas

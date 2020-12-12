@@ -3,6 +3,7 @@ layout: post
 title: 'Bloch Kids Girls Arabella Animal 168430- al 94.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sZEn1%2BkcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sZEn1%2BkcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sZEn1%2BkcL._SL200_.jpg' ]
 comments: true
 category: ofertas

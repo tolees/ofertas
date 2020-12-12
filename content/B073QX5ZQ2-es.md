@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 501 - Vaqueros Tapered para Hombr al 55.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41znA5uzAUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41znA5uzAUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41znA5uzAUL._SL200_.jpg' ]
 comments: true
 category: ofertas

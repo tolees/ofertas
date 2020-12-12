@@ -3,6 +3,7 @@ layout: post
 title: 'Riñonera Running Deportiva PORTHOLIC Riñ al 37.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21dHL07DqUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21dHL07DqUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21dHL07DqUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Xylazel M93822 - Aceite teca 750 ml teca al 47.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xI95WJxrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xI95WJxrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xI95WJxrL._SL200_.jpg' ]
 comments: true
 category: ofertas

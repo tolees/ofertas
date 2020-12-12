@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.98 % en Kingston DataTraveler SE9 G2 - Memoria 1'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UfXeVT7oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UfXeVT7oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UfXeVT7oL._SL200_.jpg' ]
 comments: true
 category: ofertas

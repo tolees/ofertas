@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.08 % en Pancake Cupcake Batter Dispenser Tool - '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aadtL4rOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aadtL4rOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aadtL4rOL._SL200_.jpg' ]
 comments: true
 category: ofertas

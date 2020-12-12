@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Shark Plain  Sandalias con Pl al 56.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MUR7LJq-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MUR7LJq-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MUR7LJq-L._SL200_.jpg' ]
 comments: true
 category: ofertas

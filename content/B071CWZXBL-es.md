@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 997ee2i801  suéter Hombre  Marrón al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415lmt0qmsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415lmt0qmsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415lmt0qmsL._SL200_.jpg' ]
 comments: true
 category: ofertas

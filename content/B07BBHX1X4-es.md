@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.12 % en Softline 25469-21  Botines para Mujer  V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cjrRX3noL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cjrRX3noL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cjrRX3noL._SL200_.jpg' ]
 comments: true
 category: ofertas

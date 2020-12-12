@@ -3,6 +3,7 @@ layout: post
 title: 'FIND W13768M t shirt  Blue  18  Manufact al 61.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pCj3fnk3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pCj3fnk3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pCj3fnk3L._SL200_.jpg' ]
 comments: true
 category: ofertas

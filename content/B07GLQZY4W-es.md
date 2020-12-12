@@ -3,6 +3,7 @@ layout: post
 title: 'My-My Best 6-12 Years Old Boys Regalos   al 40.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410BcZtlsbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410BcZtlsbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410BcZtlsbL._SL200_.jpg' ]
 comments: true
 category: ofertas

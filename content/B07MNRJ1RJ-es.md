@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 Slim Jeans  Azul  Vintag al 74.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xcf1XCmcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xcf1XCmcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xcf1XCmcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.18 % en Dim Socq Ecodim X12 Calcetines  30 DEN  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g3mPzEviL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31g3mPzEviL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g3mPzEviL._SL200_.jpg' ]
 comments: true
 category: ofertas

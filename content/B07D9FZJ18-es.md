@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48608  Botines para Mujer  Negro Plo al 65.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o6NELlj6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o6NELlj6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o6NELlj6L._SL200_.jpg' ]
 comments: true
 category: ofertas

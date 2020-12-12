@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Covert Chaqueta de Snowboard  Niñ al 53.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQM2ATTJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQM2ATTJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZQM2ATTJL._SL200_.jpg' ]
 comments: true
 category: ofertas

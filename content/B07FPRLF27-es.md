@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks - The Malton  Bolsos mochila Muje al 54.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pfxHFCiCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pfxHFCiCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pfxHFCiCL._SL200_.jpg' ]
 comments: true
 category: ofertas

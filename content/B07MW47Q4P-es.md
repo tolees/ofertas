@@ -3,6 +3,7 @@ layout: post
 title: 'Sistema de Sonido de la Barra de Sonido  al 64.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gAvT2jdKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gAvT2jdKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gAvT2jdKL._SL200_.jpg' ]
 comments: true
 category: ofertas

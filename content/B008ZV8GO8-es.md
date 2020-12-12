@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.17 % en Dreamlove Baci Set Tanga y Accesorio Mon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417orCsut5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417orCsut5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417orCsut5L._SL200_.jpg' ]
 comments: true
 category: ofertas

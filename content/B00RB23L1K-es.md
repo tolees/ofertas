@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.28 % en SKYSPER 12BB 6.3:1 izquierda/derecha int'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OcQDSrpjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OcQDSrpjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OcQDSrpjL._SL200_.jpg' ]
 comments: true
 category: ofertas

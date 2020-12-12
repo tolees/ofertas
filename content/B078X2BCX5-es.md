@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers by Gerli 40aa214-610650  Zapatil al 44.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HAhHkE68L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HAhHkE68L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HAhHkE68L._SL200_.jpg' ]
 comments: true
 category: ofertas

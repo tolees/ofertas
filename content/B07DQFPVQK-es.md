@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj para Hombre WONBEE - Reloj Empresa al 74.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517Msv3gJwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517Msv3gJwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517Msv3gJwL._SL200_.jpg' ]
 comments: true
 category: ofertas

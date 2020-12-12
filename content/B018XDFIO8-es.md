@@ -3,6 +3,7 @@ layout: post
 title: 'LEORX Face Contour Kit marcador maquilla al 29.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BSVZ2or9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BSVZ2or9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BSVZ2or9L._SL200_.jpg' ]
 comments: true
 category: ofertas

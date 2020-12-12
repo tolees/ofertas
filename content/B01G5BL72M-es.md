@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.02 % en Tamaris 26243  Botas Chukka para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BlYHM0-3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BlYHM0-3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BlYHM0-3L._SL200_.jpg' ]
 comments: true
 category: ofertas

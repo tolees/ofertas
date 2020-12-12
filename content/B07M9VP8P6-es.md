@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.69 % en Cuaderno De Cuero Rellenable  Cuaderno d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413w8BkYUIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413w8BkYUIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413w8BkYUIL._SL200_.jpg' ]
 comments: true
 category: ofertas

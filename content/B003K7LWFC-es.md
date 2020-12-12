@@ -3,6 +3,7 @@ layout: post
 title: 'Powerbar Natural Energy Cereal Bar + Mag al 95.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aMo%2Bhd-wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aMo%2Bhd-wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aMo%2Bhd-wL._SL200_.jpg' ]
 comments: true
 category: ofertas

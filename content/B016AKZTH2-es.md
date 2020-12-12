@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.08 % en Fendi FF 0137/S CN NT2 Gafas de sol  Neg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31a1ZURyJXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31a1ZURyJXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31a1ZURyJXL._SL200_.jpg' ]
 comments: true
 category: ofertas

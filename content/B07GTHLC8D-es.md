@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.51 % en New Look Deli  Botines para Mujer  Beige'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BaCCUKQ6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BaCCUKQ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BaCCUKQ6L._SL200_.jpg' ]
 comments: true
 category: ofertas

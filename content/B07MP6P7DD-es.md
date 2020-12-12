@@ -3,6 +3,7 @@ layout: post
 title: 'NIVEA  Mousse corporal  Frambuesa  - 6 d al 28.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EpPl30pmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EpPl30pmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EpPl30pmL._SL200_.jpg' ]
 comments: true
 category: ofertas

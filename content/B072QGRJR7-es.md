@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Element Refresh 3 W  Zapatillas d al 44.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ho34VdJAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ho34VdJAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ho34VdJAL._SL200_.jpg' ]
 comments: true
 category: ofertas

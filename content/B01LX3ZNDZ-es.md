@@ -3,6 +3,7 @@ layout: post
 title: 'Samsonite Sideways Laptop Bag 15.6" Bols al 50.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BnHKummnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BnHKummnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BnHKummnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 997H Core  Zapatillas para H al 26.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UKG1TXNiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UKG1TXNiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UKG1TXNiL._SL200_.jpg' ]
 comments: true
 category: ofertas

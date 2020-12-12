@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.42 % en Vans Herren Classic Crew Sweatshirt  Sch'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n5ZVg6fhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n5ZVg6fhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n5ZVg6fhL._SL200_.jpg' ]
 comments: true
 category: ofertas

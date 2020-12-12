@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.37 % en XTI 48429  Botines para Mujer  Verde Kak'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419JVwP8gtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419JVwP8gtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419JVwP8gtL._SL200_.jpg' ]
 comments: true
 category: ofertas

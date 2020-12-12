@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.01 % en eecoo Fuente Gatos de 2L Silencioso Bebe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41csnN-ahyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41csnN-ahyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41csnN-ahyL._SL200_.jpg' ]
 comments: true
 category: ofertas

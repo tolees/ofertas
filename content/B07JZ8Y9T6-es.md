@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.52 % en YoRiBo Grapadora Eléctrica Oficina con ú'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413vQ7-tYnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413vQ7-tYnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413vQ7-tYnL._SL200_.jpg' ]
 comments: true
 category: ofertas

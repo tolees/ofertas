@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Chino Short  Pantalones Cortos para  al 69.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419tvhdbTSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419tvhdbTSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419tvhdbTSL._SL200_.jpg' ]
 comments: true
 category: ofertas

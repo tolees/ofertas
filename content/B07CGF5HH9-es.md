@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.52 % en JACK & JONES PREMIUM Jprblackpool Shirt '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c09l%2BBi3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51c09l%2BBi3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c09l%2BBi3L._SL200_.jpg' ]
 comments: true
 category: ofertas

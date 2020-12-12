@@ -3,6 +3,7 @@ layout: post
 title: 'FIYAPOO WiFi Endoscopio 2M  2.0MP  HD 12 al 55.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZGQOT%2BYOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZGQOT%2BYOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZGQOT%2BYOL._SL200_.jpg' ]
 comments: true
 category: ofertas

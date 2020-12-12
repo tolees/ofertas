@@ -3,6 +3,7 @@ layout: post
 title: 'Pepaloves Tabata  Vestido Casual para Mu al 84.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LGdfV7GgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LGdfV7GgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LGdfV7GgL._SL200_.jpg' ]
 comments: true
 category: ofertas

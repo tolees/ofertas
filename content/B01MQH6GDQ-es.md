@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Chapman Stripe  Zapatillas Unisex N al 50.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t%2BwtL5AZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t%2BwtL5AZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t%2BwtL5AZL._SL200_.jpg' ]
 comments: true
 category: ofertas

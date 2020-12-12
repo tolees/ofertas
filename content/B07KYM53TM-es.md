@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.03 % en Springfield 9Ba Camiseta Cintas Hombro  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RBu6y%2BcHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RBu6y%2BcHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RBu6y%2BcHL._SL200_.jpg' ]
 comments: true
 category: ofertas

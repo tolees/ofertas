@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.09 % en Salomon Agile Camiseta sin Mangas  Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vmGnuwvNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vmGnuwvNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vmGnuwvNL._SL200_.jpg' ]
 comments: true
 category: ofertas

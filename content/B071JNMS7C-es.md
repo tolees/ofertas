@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.83 % en Kemei 3 en 1 kit de recorte de pelo de o'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lmSNQzgwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lmSNQzgwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lmSNQzgwL._SL200_.jpg' ]
 comments: true
 category: ofertas

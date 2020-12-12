@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.37 % en New Look Charm  Botines para Mujer  Negr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413Rfl7bUcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413Rfl7bUcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413Rfl7bUcL._SL200_.jpg' ]
 comments: true
 category: ofertas

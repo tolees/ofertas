@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.69 % en New Look Sprite Tea Vestido  Azul  Light'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PtKZjeboL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PtKZjeboL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PtKZjeboL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Tropical Falda Pantalón  Mujer  Mor al 65.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61BPKxr8rML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61BPKxr8rML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61BPKxr8rML._SL200_.jpg' ]
 comments: true
 category: ofertas

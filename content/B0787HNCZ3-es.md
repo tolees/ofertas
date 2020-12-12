@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Fire Venture Mid Waterproof  Za al 50.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512S0QZdPDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512S0QZdPDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512S0QZdPDL._SL200_.jpg' ]
 comments: true
 category: ofertas

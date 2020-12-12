@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.91 % en Aobosi Smokeless Barbecue Charcoal Grill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mdJvCdNGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mdJvCdNGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mdJvCdNGL._SL200_.jpg' ]
 comments: true
 category: ofertas

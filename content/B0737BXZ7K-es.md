@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.54 % en Reebok Bs8008  Zapatillas de Gimnasia pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513jBVHhndL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513jBVHhndL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513jBVHhndL._SL200_.jpg' ]
 comments: true
 category: ofertas

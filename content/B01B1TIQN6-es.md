@@ -3,6 +3,7 @@ layout: post
 title: 'Medieval Castle 3D Puzzle al 50.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pAiEhWZsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pAiEhWZsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pAiEhWZsL._SL200_.jpg' ]
 comments: true
 category: ofertas

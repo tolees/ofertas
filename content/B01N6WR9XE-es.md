@@ -3,6 +3,7 @@ layout: post
 title: 'Oakley Gafas de sol Evzero Stride Polish al 57.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31e6Y7Pi44L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31e6Y7Pi44L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31e6Y7Pi44L._SL200_.jpg' ]
 comments: true
 category: ofertas

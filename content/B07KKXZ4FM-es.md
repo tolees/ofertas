@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Vault Sudaderas  Hombre  Gray Hea al 61.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x4A898W9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x4A898W9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x4A898W9L._SL200_.jpg' ]
 comments: true
 category: ofertas

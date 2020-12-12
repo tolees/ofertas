@@ -3,6 +3,7 @@ layout: post
 title: 'Timex Reloj Análogo clásico para Hombre  al 48.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aR35bV1PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aR35bV1PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aR35bV1PL._SL200_.jpg' ]
 comments: true
 category: ofertas

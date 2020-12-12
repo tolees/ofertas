@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.71 % en NGS  DRAGONFLYKIT Wireless  Kit multimed'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EAdj6sHQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EAdj6sHQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EAdj6sHQL._SL200_.jpg' ]
 comments: true
 category: ofertas

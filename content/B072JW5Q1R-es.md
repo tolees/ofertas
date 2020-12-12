@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.79 % en Jana 25206  Botas Militar para Mujer  Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TsAroKp9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TsAroKp9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TsAroKp9L._SL200_.jpg' ]
 comments: true
 category: ofertas

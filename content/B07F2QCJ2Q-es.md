@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen HH Logo Hoodie  Hombre  Pep al 34.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f%2BCsS%2BHML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f%2BCsS%2BHML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f%2BCsS%2BHML._SL200_.jpg' ]
 comments: true
 category: ofertas

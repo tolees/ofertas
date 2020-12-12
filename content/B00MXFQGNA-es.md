@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.17 % en Nike AH5548  Sudadera para Hombre   Negr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314gwc8zwmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314gwc8zwmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314gwc8zwmL._SL200_.jpg' ]
 comments: true
 category: ofertas

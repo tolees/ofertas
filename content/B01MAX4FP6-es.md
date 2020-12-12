@@ -3,6 +3,7 @@ layout: post
 title: 'JBL E15 - Auriculares Intraaurales con U al 45.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21f0vkoJb3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21f0vkoJb3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21f0vkoJb3L._SL200_.jpg' ]
 comments: true
 category: ofertas

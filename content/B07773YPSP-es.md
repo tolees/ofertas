@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.84 % en Tommy Jeans Hombre  Tapered Steve  Vaque'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412r%2BjR%2BmvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412r%2BjR%2BmvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412r%2BjR%2BmvL._SL200_.jpg' ]
 comments: true
 category: ofertas

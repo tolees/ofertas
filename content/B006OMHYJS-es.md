@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.66 % en Bosch AHS 70-34 - Cortasetos  240 V  700'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UsCHxJGTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UsCHxJGTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UsCHxJGTL._SL200_.jpg' ]
 comments: true
 category: ofertas

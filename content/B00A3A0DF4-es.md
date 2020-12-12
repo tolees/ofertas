@@ -3,6 +3,7 @@ layout: post
 title: 'Chord Stereo Minijack To 2 Mono Jack Lea al 54.05 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

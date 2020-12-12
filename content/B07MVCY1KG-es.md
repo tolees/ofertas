@@ -3,6 +3,7 @@ layout: post
 title: 'Chanclas Flip Flop Playa y Piscina para  al 70.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qwkG2OQzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qwkG2OQzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qwkG2OQzL._SL200_.jpg' ]
 comments: true
 category: ofertas

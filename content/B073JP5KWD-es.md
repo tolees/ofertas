@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.00 % en FIND Textured Overhead  Sudadera con Cap'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ohgdaJ59L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ohgdaJ59L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ohgdaJ59L._SL200_.jpg' ]
 comments: true
 category: ofertas

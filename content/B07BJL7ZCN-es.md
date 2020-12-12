@@ -3,6 +3,7 @@ layout: post
 title: 'Geomag- Gravity Motor   169 Piezas  773  al 43.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ThTQYfwtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ThTQYfwtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ThTQYfwtL._SL200_.jpg' ]
 comments: true
 category: ofertas

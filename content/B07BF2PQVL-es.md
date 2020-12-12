@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.01 % en Mazinger Z Infinity Blu-Ray Edición Cole'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514u8562V4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514u8562V4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514u8562V4L._SL200_.jpg' ]
 comments: true
 category: ofertas

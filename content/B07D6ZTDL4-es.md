@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Type 3 Sherpa Trucker Chaqueta  B al 50.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jzzhE%2BdFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jzzhE%2BdFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jzzhE%2BdFL._SL200_.jpg' ]
 comments: true
 category: ofertas

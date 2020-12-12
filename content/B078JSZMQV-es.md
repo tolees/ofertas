@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.66 % en HQQNUO Pista de Coches de Juguete  360pc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pCPMOQ-EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pCPMOQ-EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pCPMOQ-EL._SL200_.jpg' ]
 comments: true
 category: ofertas

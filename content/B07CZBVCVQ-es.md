@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Zinger Short Sleeve Polo  M al 48.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4170zWlWLmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4170zWlWLmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4170zWlWLmL._SL200_.jpg' ]
 comments: true
 category: ofertas

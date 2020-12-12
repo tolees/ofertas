@@ -3,6 +3,7 @@ layout: post
 title: 'Jocel JVP030610 Ventilador de Pie  45 W  al 40.40 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

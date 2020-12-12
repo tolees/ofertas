@@ -3,6 +3,7 @@ layout: post
 title: 'Banpresto 80553   Super Master Stars Dio al 59.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511hCQGwS8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511hCQGwS8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511hCQGwS8L._SL200_.jpg' ]
 comments: true
 category: ofertas

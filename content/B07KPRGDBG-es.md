@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Circle Star tee-Shirt  Hombre   al 55.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bGmZfQNVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bGmZfQNVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bGmZfQNVL._SL200_.jpg' ]
 comments: true
 category: ofertas

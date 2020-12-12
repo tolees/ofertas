@@ -3,6 +3,7 @@ layout: post
 title: 'Lancome Maquillaje - 15 ml al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kJDnYuCfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kJDnYuCfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kJDnYuCfL._SL200_.jpg' ]
 comments: true
 category: ofertas

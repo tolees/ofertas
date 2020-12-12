@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.28 % en Puma Future Pulse Ball  Unisex Adulto  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mpRxeEUeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mpRxeEUeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mpRxeEUeL._SL200_.jpg' ]
 comments: true
 category: ofertas

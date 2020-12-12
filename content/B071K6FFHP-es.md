@@ -3,6 +3,7 @@ layout: post
 title: 'Vovoly bolsas para zapatos Set de 10 con al 67.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HPB-IT%2BcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HPB-IT%2BcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HPB-IT%2BcL._SL200_.jpg' ]
 comments: true
 category: ofertas

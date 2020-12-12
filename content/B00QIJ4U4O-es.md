@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver 14.503.11.3687 - Blusa para Muj al 85.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pr86-PeRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pr86-PeRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pr86-PeRL._SL200_.jpg' ]
 comments: true
 category: ofertas

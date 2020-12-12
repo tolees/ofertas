@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en American Tourister Holiday Heat - Uprigh'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BNENnYOYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BNENnYOYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BNENnYOYL._SL200_.jpg' ]
 comments: true
 category: ofertas

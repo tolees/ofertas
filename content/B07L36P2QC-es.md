@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.67 % en Tommy Hilfiger Essential Flag Detail Sne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a3Emn7d7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a3Emn7d7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a3Emn7d7L._SL200_.jpg' ]
 comments: true
 category: ofertas

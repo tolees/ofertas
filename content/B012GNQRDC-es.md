@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.21 % en Kingston SD10VG2/128GB - Tarjeta SD UHS-'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Oth3jm3LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Oth3jm3LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Oth3jm3LL._SL200_.jpg' ]
 comments: true
 category: ofertas

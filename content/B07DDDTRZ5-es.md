@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.23 % en Odlo Niños SUW Bottom Pant Active Origin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wG6qkjxBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wG6qkjxBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wG6qkjxBL._SL200_.jpg' ]
 comments: true
 category: ofertas

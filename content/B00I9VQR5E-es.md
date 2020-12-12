@@ -3,6 +3,7 @@ layout: post
 title: 'PRINCE Antivibrador Logo P Damp  Jar 50  al 94.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OsTbze5pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OsTbze5pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OsTbze5pL._SL200_.jpg' ]
 comments: true
 category: ofertas

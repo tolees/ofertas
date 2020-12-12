@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Bluetooth  ELEGIANT Cascos I al 38.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BrcoxjauL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BrcoxjauL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BrcoxjauL._SL200_.jpg' ]
 comments: true
 category: ofertas

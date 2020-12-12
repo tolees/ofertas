@@ -3,6 +3,7 @@ layout: post
 title: 'KAITT Furia Mate 2018 al 63.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411%2BGLZbEYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411%2BGLZbEYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411%2BGLZbEYL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Head Tour Team Padel Paletero de Tenis   al 37.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y-gxtMh5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51y-gxtMh5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y-gxtMh5L._SL200_.jpg' ]
 comments: true
 category: ofertas

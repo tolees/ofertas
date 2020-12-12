@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Flex Advantage 2.0-The Happs  Z al 50.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rTPS%2B%2B57L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rTPS%2B%2B57L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rTPS%2B%2B57L._SL200_.jpg' ]
 comments: true
 category: ofertas

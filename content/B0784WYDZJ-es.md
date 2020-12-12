@@ -3,6 +3,7 @@ layout: post
 title: 'SUPORE Garmin Fenix 3 Correa de Reloj  r al 77.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G%2B-e5OrlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G%2B-e5OrlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G%2B-e5OrlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.42 % en Puma Pulse Ignite XT Swan Wn s  Zapatill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AejF-dlQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AejF-dlQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AejF-dlQL._SL200_.jpg' ]
 comments: true
 category: ofertas

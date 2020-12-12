@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley M PHANTOM ALPHA TRAINER 18  BERMU al 55.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FpjwGhGoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FpjwGhGoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FpjwGhGoL._SL200_.jpg' ]
 comments: true
 category: ofertas

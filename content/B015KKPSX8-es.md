@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Milla  Zapatillas para Mujer  Negr al 51.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BvAeI0SUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BvAeI0SUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BvAeI0SUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 108cc2f006  Camisa Hombre  al 75.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y2jfOy%2B3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51y2jfOy%2B3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y2jfOy%2B3L._SL200_.jpg' ]
 comments: true
 category: ofertas

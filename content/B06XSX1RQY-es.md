@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Pixlette Vaqueros  Azul  9Oz  al 87.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319SmuXWVYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319SmuXWVYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319SmuXWVYL._SL200_.jpg' ]
 comments: true
 category: ofertas

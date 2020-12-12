@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein  Agua de colonia para mujer al 38.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lIqYIv5NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lIqYIv5NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lIqYIv5NL._SL200_.jpg' ]
 comments: true
 category: ofertas

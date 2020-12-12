@@ -3,6 +3,7 @@ layout: post
 title: 'Luz Trasera para Bicicleta Recargable US al 47.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QStDxSkiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QStDxSkiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QStDxSkiL._SL200_.jpg' ]
 comments: true
 category: ofertas

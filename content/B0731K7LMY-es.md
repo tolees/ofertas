@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.02 % en CM-7 Auriculares Inalámbricos Bluetooth '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315AltUrMmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315AltUrMmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315AltUrMmL._SL200_.jpg' ]
 comments: true
 category: ofertas

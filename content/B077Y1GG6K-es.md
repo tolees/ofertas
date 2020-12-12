@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Superga 2790-COTCOLOROPEW  Zapatillas pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JMO%2BDjMZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JMO%2BDjMZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JMO%2BDjMZL._SL200_.jpg' ]
 comments: true
 category: ofertas

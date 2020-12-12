@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Time Box Woven Top  Hombre  B al 55.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4111E-YK4IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4111E-YK4IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4111E-YK4IL._SL200_.jpg' ]
 comments: true
 category: ofertas

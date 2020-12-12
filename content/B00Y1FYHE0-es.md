@@ -3,6 +3,7 @@ layout: post
 title: 'El Chino  The Young Master  Blu-Ray [Blu al 45.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j6r8yOaaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51j6r8yOaaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j6r8yOaaL._SL200_.jpg' ]
 comments: true
 category: ofertas

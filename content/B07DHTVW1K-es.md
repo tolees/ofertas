@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Everyday Zip Top  Niños  Dark al 60.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51E1fuFsesL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51E1fuFsesL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51E1fuFsesL._SL200_.jpg' ]
 comments: true
 category: ofertas

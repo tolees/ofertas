@@ -3,6 +3,7 @@ layout: post
 title: 'Royal Canin C-11500 Educ Sobres  50 gr   al 85.86 % de descuento'
 date: 2020-12-11 21:28:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/513epgY2FVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513epgY2FVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513epgY2FVL._SL200_.jpg' ]
 comments: true
 category: ofertas

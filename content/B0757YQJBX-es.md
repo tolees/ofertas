@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Vaqueros Recto Hombre   Gris  Grey  al 29.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UbmlI7akL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UbmlI7akL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UbmlI7akL._SL200_.jpg' ]
 comments: true
 category: ofertas

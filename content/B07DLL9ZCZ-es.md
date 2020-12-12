@@ -3,6 +3,7 @@ layout: post
 title: 'Ecco Soft 1 Men s  Zapatillas para Hombr al 57.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AusHviRzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AusHviRzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AusHviRzL._SL200_.jpg' ]
 comments: true
 category: ofertas

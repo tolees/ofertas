@@ -3,6 +3,7 @@ layout: post
 title: 'HALOViE 12 piezas Bombas de Baño Eferves al 47.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zcn80mW%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zcn80mW%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zcn80mW%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

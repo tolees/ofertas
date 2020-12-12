@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Classic Mountain High Camisetas   al 60.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31E4Z309WcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31E4Z309WcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31E4Z309WcL._SL200_.jpg' ]
 comments: true
 category: ofertas

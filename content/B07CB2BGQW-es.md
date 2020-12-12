@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.07 % en Vital Home - BATERÍA DE Cocina 8PZAS Ace'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YCKsHlavL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YCKsHlavL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YCKsHlavL._SL200_.jpg' ]
 comments: true
 category: ofertas

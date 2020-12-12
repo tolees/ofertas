@@ -3,6 +3,7 @@ layout: post
 title: 'LAPASA Pantalón Deportivo de Mujer con B al 26.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qju4TpvGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qju4TpvGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qju4TpvGL._SL200_.jpg' ]
 comments: true
 category: ofertas

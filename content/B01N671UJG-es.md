@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.17 % en Asics Gel-kayano Trainer Knit - Zapatos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XY18KzewL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XY18KzewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XY18KzewL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Ashwagandha Orgánica 500mg KSM 66 Suplem al 30.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61gZDCYkkyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61gZDCYkkyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61gZDCYkkyL._SL200_.jpg' ]
 comments: true
 category: ofertas

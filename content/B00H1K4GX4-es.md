@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Nenuco Baby - Nuco Aprendizaje  Famosa 7'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r7Pei2V5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r7Pei2V5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r7Pei2V5L._SL200_.jpg' ]
 comments: true
 category: ofertas

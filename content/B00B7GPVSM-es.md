@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Lightweight Crew  Pack de 3 Calceti al 25.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VmfiiEFWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VmfiiEFWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VmfiiEFWL._SL200_.jpg' ]
 comments: true
 category: ofertas

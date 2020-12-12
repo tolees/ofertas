@@ -3,6 +3,7 @@ layout: post
 title: 'Lenovo Tab4 10 LTE- Tablet de 10.1" HD   al 60.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xnRW0KKCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xnRW0KKCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xnRW0KKCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Gargantia Soporte de Espalda y Hombros C al 42.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qL7alPjLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qL7alPjLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qL7alPjLL._SL200_.jpg' ]
 comments: true
 category: ofertas

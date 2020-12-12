@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.58 % en Pepe Jeans Saturn  Vaqueros para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41876%2BsBVVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41876%2BsBVVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41876%2BsBVVL._SL200_.jpg' ]
 comments: true
 category: ofertas

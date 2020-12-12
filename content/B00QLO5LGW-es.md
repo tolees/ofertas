@@ -3,6 +3,7 @@ layout: post
 title: 'Selected Homme Five Rico 1364 Jeans I  V al 86.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cELnqp6OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cELnqp6OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cELnqp6OL._SL200_.jpg' ]
 comments: true
 category: ofertas

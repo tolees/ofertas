@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.04 % en Rayen 2010 - Colgador de Bolsos  33 x 11'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YbBm0r3AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YbBm0r3AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YbBm0r3AL._SL200_.jpg' ]
 comments: true
 category: ofertas

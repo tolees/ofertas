@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.68 % en Skechers Escape Plan 2.0  Zapatillas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kJj6lD1FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kJj6lD1FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kJj6lD1FL._SL200_.jpg' ]
 comments: true
 category: ofertas

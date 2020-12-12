@@ -3,6 +3,7 @@ layout: post
 title: 'Trlyc Cinturón para vestido de novia con al 66.14 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

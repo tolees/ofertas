@@ -3,6 +3,7 @@ layout: post
 title: 'Lunvon 1L / 35 oz Mejor Deportes Botella al 64.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DVGN6btuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DVGN6btuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DVGN6btuL._SL200_.jpg' ]
 comments: true
 category: ofertas

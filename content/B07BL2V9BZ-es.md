@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.55 % en New Balance X-90  Zapatillas para Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bp6f3pukL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bp6f3pukL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bp6f3pukL._SL200_.jpg' ]
 comments: true
 category: ofertas

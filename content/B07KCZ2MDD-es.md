@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.36 % en YZPUSI Bluetooth 3.0 Inalámbrico Wireles'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jdxSJw8sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jdxSJw8sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jdxSJw8sL._SL200_.jpg' ]
 comments: true
 category: ofertas

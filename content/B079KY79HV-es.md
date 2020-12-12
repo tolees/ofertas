@@ -3,6 +3,7 @@ layout: post
 title: 'Hot Mom Multi cochecito cochecito 2 en 1 al 70.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vNUSIOAJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vNUSIOAJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vNUSIOAJL._SL200_.jpg' ]
 comments: true
 category: ofertas

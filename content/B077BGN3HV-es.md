@@ -3,6 +3,7 @@ layout: post
 title: 'Gioseppo 43598  Zapatos de Cordones Derb al 56.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417nrpYdCJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417nrpYdCJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417nrpYdCJL._SL200_.jpg' ]
 comments: true
 category: ofertas

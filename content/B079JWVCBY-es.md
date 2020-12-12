@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Articage  Chaqueta  Hombre  Az al 59.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4144LHEhF6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4144LHEhF6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4144LHEhF6L._SL200_.jpg' ]
 comments: true
 category: ofertas

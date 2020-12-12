@@ -3,6 +3,7 @@ layout: post
 title: '433 MHz RF 4 canales clonación Duplicato al 31.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A0RlYctYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A0RlYctYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A0RlYctYL._SL200_.jpg' ]
 comments: true
 category: ofertas

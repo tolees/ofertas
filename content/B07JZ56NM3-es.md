@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 99.34 % en Bovon Luz Solar  55 LED Foco Solar con S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rpbvYvuTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rpbvYvuTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rpbvYvuTL._SL200_.jpg' ]
 comments: true
 category: ofertas

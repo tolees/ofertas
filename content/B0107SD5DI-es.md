@@ -3,6 +3,7 @@ layout: post
 title: 'Joma - Camiseta Record Rosa Fluor-Negro  al 53.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s5Jl2IOhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s5Jl2IOhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s5Jl2IOhL._SL200_.jpg' ]
 comments: true
 category: ofertas

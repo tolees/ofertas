@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.30 % en Phoenix VELA DEPOSIT 51L Acero Grafito  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511FOZHcAjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511FOZHcAjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511FOZHcAjL._SL200_.jpg' ]
 comments: true
 category: ofertas

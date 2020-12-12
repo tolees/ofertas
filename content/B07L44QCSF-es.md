@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.08 % en Asics Aaron  Zapatillas de Gimnasia para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ggMw%2BMW-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ggMw%2BMW-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ggMw%2BMW-L._SL200_.jpg' ]
 comments: true
 category: ofertas

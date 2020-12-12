@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.20 % en The North Face S/S Simple Dome Camiseta '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3148u95AfxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3148u95AfxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3148u95AfxL._SL200_.jpg' ]
 comments: true
 category: ofertas

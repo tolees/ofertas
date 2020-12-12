@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.12 % en The North Face T93 Chaqueta Ambition  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VCulk1ITL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VCulk1ITL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VCulk1ITL._SL200_.jpg' ]
 comments: true
 category: ofertas

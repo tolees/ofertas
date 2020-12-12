@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiglenn Jjfox Bl 683 Noos  al 44.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HS4b6bMoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HS4b6bMoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HS4b6bMoL._SL200_.jpg' ]
 comments: true
 category: ofertas

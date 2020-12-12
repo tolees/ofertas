@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.01 % en Hervidor de agua Eléctrico de cristal co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SvbJzhonL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SvbJzhonL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SvbJzhonL._SL200_.jpg' ]
 comments: true
 category: ofertas

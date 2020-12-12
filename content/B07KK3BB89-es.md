@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.57 % en BOSS tee 7 Camiseta  Blanco  White 100  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cOSSjz-8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cOSSjz-8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cOSSjz-8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 Slim  Vaqueros slim Homb al 43.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416XogKw5-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416XogKw5-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416XogKw5-L._SL200_.jpg' ]
 comments: true
 category: ofertas

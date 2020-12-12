@@ -3,6 +3,7 @@ layout: post
 title: 'Aigital Repetidor Extensor de Rango Inal al 29.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JXq73NmHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JXq73NmHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JXq73NmHL._SL200_.jpg' ]
 comments: true
 category: ofertas

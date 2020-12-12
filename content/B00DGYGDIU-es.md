@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.87 % en Spalding 4her Shorts cyanblau Negro Noir'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZUDK%2Bq8SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZUDK%2Bq8SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZUDK%2Bq8SL._SL200_.jpg' ]
 comments: true
 category: ofertas

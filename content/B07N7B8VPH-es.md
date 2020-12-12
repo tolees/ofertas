@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Predator 19.4 in Sala H&l J  Bota al 42.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4146aPCngvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4146aPCngvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4146aPCngvL._SL200_.jpg' ]
 comments: true
 category: ofertas

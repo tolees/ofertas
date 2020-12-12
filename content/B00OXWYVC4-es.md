@@ -3,6 +3,7 @@ layout: post
 title: 'Wahl Color Pro Combo - Kit de cortapelos al 46.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412n83Ky7%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412n83Ky7%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412n83Ky7%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

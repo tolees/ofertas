@@ -3,6 +3,7 @@ layout: post
 title: 'Pop! La Casa De Papel - Figura de Vinilo al 28.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411uVSI2bEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411uVSI2bEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411uVSI2bEL._SL200_.jpg' ]
 comments: true
 category: ofertas

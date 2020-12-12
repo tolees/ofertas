@@ -3,6 +3,7 @@ layout: post
 title: 'arena Spiky 2 Large Mochila  Unisex Adul al 45.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uM0w68h4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uM0w68h4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uM0w68h4L._SL200_.jpg' ]
 comments: true
 category: ofertas

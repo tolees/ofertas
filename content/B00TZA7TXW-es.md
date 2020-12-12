@@ -3,6 +3,7 @@ layout: post
 title: 'Kempa Emotion Shorts Pantalones cortos   al 72.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zaCuHVauL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zaCuHVauL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zaCuHVauL._SL200_.jpg' ]
 comments: true
 category: ofertas

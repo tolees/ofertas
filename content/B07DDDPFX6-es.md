@@ -3,6 +3,7 @@ layout: post
 title: 'Altavoz Bluetooth PURIDEA Mini i6+ Subwo al 71.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512CKVhq7uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512CKVhq7uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512CKVhq7uL._SL200_.jpg' ]
 comments: true
 category: ofertas

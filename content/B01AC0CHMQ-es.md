@@ -3,6 +3,7 @@ layout: post
 title: 'Nike 725984  Camiseta Para Niños  Blanco al 34.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vjw-8lL-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vjw-8lL-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vjw-8lL-L._SL200_.jpg' ]
 comments: true
 category: ofertas

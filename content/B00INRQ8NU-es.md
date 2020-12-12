@@ -3,6 +3,7 @@ layout: post
 title: '1776 Bourbon Whiskey 50% - 700 ml  1er P al 36.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Prd4U73L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417Prd4U73L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Prd4U73L._SL200_.jpg' ]
 comments: true
 category: ofertas

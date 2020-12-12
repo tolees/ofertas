@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS Track FL Sudadera  Mujer  Negro al 47.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314L-xG1OBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314L-xG1OBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314L-xG1OBL._SL200_.jpg' ]
 comments: true
 category: ofertas

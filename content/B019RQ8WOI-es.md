@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Jaula Madera 115x60 5x58cm 3 Ventanas Pl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oCwfpAo-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oCwfpAo-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oCwfpAo-L._SL200_.jpg' ]
 comments: true
 category: ofertas

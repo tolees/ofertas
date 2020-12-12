@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Diadema Bluetooth Inalambric al 58.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P4E5Gj%2B7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P4E5Gj%2B7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P4E5Gj%2B7L._SL200_.jpg' ]
 comments: true
 category: ofertas

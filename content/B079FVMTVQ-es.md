@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Tech-Twist - Camiseta de Ma al 66.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yqh4bN0mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yqh4bN0mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yqh4bN0mL._SL200_.jpg' ]
 comments: true
 category: ofertas

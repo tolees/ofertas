@@ -3,6 +3,7 @@ layout: post
 title: 'ROSENICE 10 Unids Adultos Niños Parche d al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n4Dl0-ttL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n4Dl0-ttL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n4Dl0-ttL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma NRGY Neko Sport  Zapatillas de Runn al 52.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZreVKbY2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZreVKbY2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZreVKbY2L._SL200_.jpg' ]
 comments: true
 category: ofertas

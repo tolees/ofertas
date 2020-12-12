@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.50 % en FIND vaqueros pitillo hombre  Gris  Wash'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YmZ%2B3Ep2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YmZ%2B3Ep2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YmZ%2B3Ep2L._SL200_.jpg' ]
 comments: true
 category: ofertas

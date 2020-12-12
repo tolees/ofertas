@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.48 % en RioRiva Calcetines cortos De Algodón Cal'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w1kfzE30L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51w1kfzE30L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w1kfzE30L._SL200_.jpg' ]
 comments: true
 category: ofertas

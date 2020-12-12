@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.31 % en Nike M PO FLC TM Club19 - Sudadera con C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DWqiTBj4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DWqiTBj4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DWqiTBj4L._SL200_.jpg' ]
 comments: true
 category: ofertas

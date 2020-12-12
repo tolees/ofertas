@@ -3,6 +3,7 @@ layout: post
 title: 'LETI AT-4 Crema Corporal 200ML al 34.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419D-QjNZLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419D-QjNZLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419D-QjNZLL._SL200_.jpg' ]
 comments: true
 category: ofertas

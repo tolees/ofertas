@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.94 % en Adidas Nemeziz 18.4 TF  Botas de fútbol '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jv0Z3NqSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jv0Z3NqSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jv0Z3NqSL._SL200_.jpg' ]
 comments: true
 category: ofertas

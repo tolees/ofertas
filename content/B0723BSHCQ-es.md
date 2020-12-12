@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.92 % en Volcom Lido Block Mod 21 Bañador  Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OMkX9WmGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OMkX9WmGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OMkX9WmGL._SL200_.jpg' ]
 comments: true
 category: ofertas

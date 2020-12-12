@@ -3,6 +3,7 @@ layout: post
 title: 'Smiffy s Smiffys-44351X2 Disfraz de Bruj al 77.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uSqiJSWZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uSqiJSWZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uSqiJSWZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.01 % en Aster vibrador con 10 modos para mujeres'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gA2vI%2BlPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gA2vI%2BlPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gA2vI%2BlPL._SL200_.jpg' ]
 comments: true
 category: ofertas

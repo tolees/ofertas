@@ -3,6 +3,7 @@ layout: post
 title: 'Skyscraper: El Rascacielos - Edición Met al 33.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51darH8ZdZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51darH8ZdZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51darH8ZdZL._SL200_.jpg' ]
 comments: true
 category: ofertas

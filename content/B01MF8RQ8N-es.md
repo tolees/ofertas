@@ -3,6 +3,7 @@ layout: post
 title: 'Escuadrón Suicida  4K Ultra HD + Blu-ray al 61.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5173G3Jq8RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5173G3Jq8RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5173G3Jq8RL._SL200_.jpg' ]
 comments: true
 category: ofertas

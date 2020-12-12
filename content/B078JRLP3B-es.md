@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.62 % en Nike Odyssey React  Zapatillas de Gimnas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vp-yWDt2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vp-yWDt2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vp-yWDt2L._SL200_.jpg' ]
 comments: true
 category: ofertas

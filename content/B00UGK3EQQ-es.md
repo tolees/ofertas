@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.30 % en L Oréal Expert Vitamino Color A-Ox Color'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TW%2Be9O3QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TW%2Be9O3QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TW%2Be9O3QL._SL200_.jpg' ]
 comments: true
 category: ofertas

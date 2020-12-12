@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.47 % en New Balance 247v2  Zapatillas para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Iu--8Vz-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Iu--8Vz-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Iu--8Vz-L._SL200_.jpg' ]
 comments: true
 category: ofertas

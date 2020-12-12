@@ -3,6 +3,7 @@ layout: post
 title: '120W Focos de Coche LED 7 Pulgadas  2pcs al 30.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bIjaq17wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bIjaq17wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bIjaq17wL._SL200_.jpg' ]
 comments: true
 category: ofertas

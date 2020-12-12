@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Downshifter 8  GS   Zapatillas de R al 40.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AsGqlIfzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AsGqlIfzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AsGqlIfzL._SL200_.jpg' ]
 comments: true
 category: ofertas

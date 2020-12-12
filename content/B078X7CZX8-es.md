@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.09 % en PIECES Pcingeborg 2/4 Sweat Dress  Vesti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yPMwDdeeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yPMwDdeeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yPMwDdeeL._SL200_.jpg' ]
 comments: true
 category: ofertas

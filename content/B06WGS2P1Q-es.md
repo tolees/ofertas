@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.32 % en Stardew Valley CollectorŽs Edition'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512JknvM73L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512JknvM73L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512JknvM73L._SL200_.jpg' ]
 comments: true
 category: ofertas

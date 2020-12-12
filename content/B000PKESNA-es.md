@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.42 % en Tom Ford Negro Orquídea 30 ml spray de E'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UVX-naTsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UVX-naTsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UVX-naTsL._SL200_.jpg' ]
 comments: true
 category: ofertas

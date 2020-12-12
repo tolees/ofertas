@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 128eo1d004 Falda  Azul al 83.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G08hUKy1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G08hUKy1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G08hUKy1L._SL200_.jpg' ]
 comments: true
 category: ofertas

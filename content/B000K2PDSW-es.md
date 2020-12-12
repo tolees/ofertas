@@ -3,6 +3,7 @@ layout: post
 title: 'Mannesmann - M27405 - Juego de llaves de al 37.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lNtyYHnTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lNtyYHnTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lNtyYHnTL._SL200_.jpg' ]
 comments: true
 category: ofertas

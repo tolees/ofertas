@@ -3,6 +3,7 @@ layout: post
 title: 'Women Secret ME Embroidery Tunic Blusa   al 63.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LLz2IEymL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LLz2IEymL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LLz2IEymL._SL200_.jpg' ]
 comments: true
 category: ofertas

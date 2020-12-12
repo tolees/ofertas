@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch Professional GBH 18 V-EC - Martill al 40.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51u4KleQ7zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51u4KleQ7zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51u4KleQ7zL._SL200_.jpg' ]
 comments: true
 category: ofertas

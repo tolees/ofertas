@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.58 % en Charles Wilson Sudadera con Cremallera C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v2VS3kTjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v2VS3kTjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v2VS3kTjL._SL200_.jpg' ]
 comments: true
 category: ofertas

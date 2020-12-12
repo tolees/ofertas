@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.93 % en Hurley Phantom One&Only 18 Bañador  Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413Du4EydnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413Du4EydnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413Du4EydnL._SL200_.jpg' ]
 comments: true
 category: ofertas

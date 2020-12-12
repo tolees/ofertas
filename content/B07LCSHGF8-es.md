@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.63 % en Birkenstock Arizona EVA  Sandalias de Pu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311cdxzqCvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311cdxzqCvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311cdxzqCvL._SL200_.jpg' ]
 comments: true
 category: ofertas

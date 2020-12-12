@@ -3,6 +3,7 @@ layout: post
 title: 'Amazon FreeTime - Funda infantil para Fi al 28.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DPeaFtBAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DPeaFtBAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DPeaFtBAL._SL200_.jpg' ]
 comments: true
 category: ofertas

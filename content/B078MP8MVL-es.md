@@ -3,6 +3,7 @@ layout: post
 title: 'Kamik Quinn3gtx  Botas de Nieve para Niñ al 81.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51obIdDHEIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51obIdDHEIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51obIdDHEIL._SL200_.jpg' ]
 comments: true
 category: ofertas

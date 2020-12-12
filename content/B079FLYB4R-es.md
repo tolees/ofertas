@@ -3,6 +3,7 @@ layout: post
 title: 'South Park: La Vara De La Verdad al 50.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jX3GEISdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jX3GEISdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jX3GEISdL._SL200_.jpg' ]
 comments: true
 category: ofertas

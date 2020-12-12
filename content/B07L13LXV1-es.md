@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.56 % en JACK & JONES Jorcolby Shirt LS Camisa   '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QSCa2v95L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QSCa2v95L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QSCa2v95L._SL200_.jpg' ]
 comments: true
 category: ofertas

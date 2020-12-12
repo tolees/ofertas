@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.02 % en 8 uds  2x4  de cabezales de recambio par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pXBg1xNaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pXBg1xNaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pXBg1xNaL._SL200_.jpg' ]
 comments: true
 category: ofertas

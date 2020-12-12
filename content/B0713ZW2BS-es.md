@@ -3,6 +3,7 @@ layout: post
 title: 'Vibrador multifuncional  3 velocidades + al 91.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XDpvJtxeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XDpvJtxeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XDpvJtxeL._SL200_.jpg' ]
 comments: true
 category: ofertas

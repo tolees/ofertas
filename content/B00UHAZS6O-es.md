@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.36 % en Cisco SG110-24 No administrado L2 Gigabi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LjoW-W3gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LjoW-W3gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LjoW-W3gL._SL200_.jpg' ]
 comments: true
 category: ofertas

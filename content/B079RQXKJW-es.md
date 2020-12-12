@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Monument Suéter  Gris  Grey M al 67.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eQL6cd7XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eQL6cd7XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eQL6cd7XL._SL200_.jpg' ]
 comments: true
 category: ofertas

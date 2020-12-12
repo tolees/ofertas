@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Ml373bss  Zapatillas para Ho al 37.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fzHFhqsgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fzHFhqsgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fzHFhqsgL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.37 % en Bosch BBH52550 Aspirador Athlet  50 min '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nmuj1b0nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nmuj1b0nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nmuj1b0nL._SL200_.jpg' ]
 comments: true
 category: ofertas

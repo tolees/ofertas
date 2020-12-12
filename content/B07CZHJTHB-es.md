@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Graphic 16 Core Hooded Sweat  al 65.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WjVl9dJWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WjVl9dJWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WjVl9dJWL._SL200_.jpg' ]
 comments: true
 category: ofertas

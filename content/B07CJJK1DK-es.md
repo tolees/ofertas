@@ -3,6 +3,7 @@ layout: post
 title: 'Astan Hogar automático Exprimidor Eléctr al 45.49 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

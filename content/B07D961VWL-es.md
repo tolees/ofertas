@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop! Disney: Gargoyles - Demona Fi al 43.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gh6Q%2Bv6JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gh6Q%2Bv6JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gh6Q%2Bv6JL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.23 % en Collistar 32417 - Lápiz de ojos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KcATAmh5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KcATAmh5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KcATAmh5L._SL200_.jpg' ]
 comments: true
 category: ofertas

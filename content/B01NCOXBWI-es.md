@@ -3,6 +3,7 @@ layout: post
 title: 'LANGRIA Manta de Sofá y Cama de Microfib al 35.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TDikv6JHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TDikv6JHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TDikv6JHL._SL200_.jpg' ]
 comments: true
 category: ofertas

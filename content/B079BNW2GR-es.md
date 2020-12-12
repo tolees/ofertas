@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 88.50 % en Finether-Centro de Planchado Plancha a V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S7c2uVyVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S7c2uVyVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S7c2uVyVL._SL200_.jpg' ]
 comments: true
 category: ofertas

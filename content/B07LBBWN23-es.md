@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.80 % en Napapijri Nakuro 2 Pantalones Cortos  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y6yGwc2JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Y6yGwc2JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y6yGwc2JL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.58 % en NAKOSITE PB 2433 es el Mejor Monitor de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41djJlo8mHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41djJlo8mHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41djJlo8mHL._SL200_.jpg' ]
 comments: true
 category: ofertas

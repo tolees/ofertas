@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.07 % en Columbia Peakfreak XCRSN WP  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dCgqYkgBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dCgqYkgBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dCgqYkgBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'IP cámara WiFi cámara IP Szsinocam cámar al 55.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Uv0LWRWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416Uv0LWRWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Uv0LWRWL._SL200_.jpg' ]
 comments: true
 category: ofertas

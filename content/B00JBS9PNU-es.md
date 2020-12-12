@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.03 % en Kempa T-Shirt Core Trainings - Camiseta '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VFfAYZsqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VFfAYZsqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VFfAYZsqL._SL200_.jpg' ]
 comments: true
 category: ofertas

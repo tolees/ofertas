@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.03 % en Maison & White Organizador de racks de h'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rYFmCQQAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rYFmCQQAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rYFmCQQAL._SL200_.jpg' ]
 comments: true
 category: ofertas

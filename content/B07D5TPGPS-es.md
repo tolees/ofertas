@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.25 % en Marvel CD-21-2266 2018 Mochila Tipo Casu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/612vk-AY-WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/612vk-AY-WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/612vk-AY-WL._SL200_.jpg' ]
 comments: true
 category: ofertas

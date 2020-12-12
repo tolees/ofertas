@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.03 % en Levi s Sweater Sudadera con Capucha  Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ebtQAj1NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ebtQAj1NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ebtQAj1NL._SL200_.jpg' ]
 comments: true
 category: ofertas

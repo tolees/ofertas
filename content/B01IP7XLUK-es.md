@@ -3,6 +3,7 @@ layout: post
 title: 'Benetton 2BA2532W5  Chaqueta para Mujer  al 74.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dlmc46xHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dlmc46xHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dlmc46xHL._SL200_.jpg' ]
 comments: true
 category: ofertas

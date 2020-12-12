@@ -3,6 +3,7 @@ layout: post
 title: 'Tuscany Silver Pendientes de mujer con p al 68.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312w621J4jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312w621J4jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312w621J4jL._SL200_.jpg' ]
 comments: true
 category: ofertas

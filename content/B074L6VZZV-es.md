@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlreverse L/s Hood No Raw Edge Swt al 62.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DJSENA0TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DJSENA0TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DJSENA0TL._SL200_.jpg' ]
 comments: true
 category: ofertas

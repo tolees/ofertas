@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.42 % en Cortefiel 6217788  Jersey para Mujer  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LAa0Anu3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LAa0Anu3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LAa0Anu3L._SL200_.jpg' ]
 comments: true
 category: ofertas

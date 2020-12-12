@@ -3,6 +3,7 @@ layout: post
 title: 'Dim Soutien-Gorge Triangle Sans Armature al 47.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SVE44vJ3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SVE44vJ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SVE44vJ3L._SL200_.jpg' ]
 comments: true
 category: ofertas

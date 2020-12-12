@@ -3,6 +3,7 @@ layout: post
 title: 'Sabrent – Soporte universal magnético pa al 30.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F5P-wuInL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F5P-wuInL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F5P-wuInL._SL200_.jpg' ]
 comments: true
 category: ofertas

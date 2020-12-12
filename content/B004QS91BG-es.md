@@ -3,6 +3,7 @@ layout: post
 title: 'Cross Jeans Pantalón Vaquero Adriana Ski al 86.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314PTzhD31L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314PTzhD31L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314PTzhD31L._SL200_.jpg' ]
 comments: true
 category: ofertas

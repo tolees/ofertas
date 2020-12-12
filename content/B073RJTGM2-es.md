@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.18 % en Reebok Trainflex  Zapatillas de Gimnasia'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wQjW0%2BScL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wQjW0%2BScL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wQjW0%2BScL._SL200_.jpg' ]
 comments: true
 category: ofertas

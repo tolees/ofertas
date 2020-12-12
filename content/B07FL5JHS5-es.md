@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Vintage Logo Entry tee  Camiset al 64.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PWqqnFhdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PWqqnFhdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PWqqnFhdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.29 % en edc by Esprit 038cc1k020  Camiseta para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519YJK28PUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519YJK28PUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519YJK28PUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Miss Selfridge - Bucket  Bolsos bandoler al 48.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GxsD3J60L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GxsD3J60L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GxsD3J60L._SL200_.jpg' ]
 comments: true
 category: ofertas

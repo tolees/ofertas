@@ -3,6 +3,7 @@ layout: post
 title: 'Schleich DC Comics - Set 2 figuras  Batm al 51.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c6Z%2Bs2wWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51c6Z%2Bs2wWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c6Z%2Bs2wWL._SL200_.jpg' ]
 comments: true
 category: ofertas

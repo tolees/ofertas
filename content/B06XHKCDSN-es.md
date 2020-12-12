@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.12 % en Luanvi Gama Polo  Hombre  Azul Marino  X'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EdBqVFM9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EdBqVFM9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EdBqVFM9L._SL200_.jpg' ]
 comments: true
 category: ofertas

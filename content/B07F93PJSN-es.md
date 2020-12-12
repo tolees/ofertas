@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcoten Jacket  Chaqueta par al 75.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41160yjKI8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41160yjKI8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41160yjKI8L._SL200_.jpg' ]
 comments: true
 category: ofertas

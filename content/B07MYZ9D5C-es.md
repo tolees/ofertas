@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.64 % en Rollos de Sellador al Vacío con Caja Cút'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rwhG3nmTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rwhG3nmTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rwhG3nmTL._SL200_.jpg' ]
 comments: true
 category: ofertas

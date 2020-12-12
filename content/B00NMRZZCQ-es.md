@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.14 % en Lush Decor Giselle Window Panel  84 by 5'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zDa2ZNW9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zDa2ZNW9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zDa2ZNW9L._SL200_.jpg' ]
 comments: true
 category: ofertas

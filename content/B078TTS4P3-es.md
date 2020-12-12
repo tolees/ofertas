@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Superstar 80S Decon  Zapatillas p al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gz7ttBipL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gz7ttBipL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gz7ttBipL._SL200_.jpg' ]
 comments: true
 category: ofertas

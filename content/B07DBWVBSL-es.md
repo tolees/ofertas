@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Escaper Mesh Jr  Zapatillas Unisex  al 57.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M43WKYLBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M43WKYLBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M43WKYLBL._SL200_.jpg' ]
 comments: true
 category: ofertas

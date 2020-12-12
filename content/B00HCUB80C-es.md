@@ -3,6 +3,7 @@ layout: post
 title: 'The Journey So Far - the Best of + CD Li al 45.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DKrzZStGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DKrzZStGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DKrzZStGL._SL200_.jpg' ]
 comments: true
 category: ofertas

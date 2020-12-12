@@ -3,6 +3,7 @@ layout: post
 title: 'No Label – Juego de 3 Pelotas de Tenis A al 25.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-rKFucYHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-rKFucYHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-rKFucYHL._SL200_.jpg' ]
 comments: true
 category: ofertas

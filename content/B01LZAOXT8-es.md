@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.02 % en HS Rice Paper Vietnamese - Paquete de 40'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5181Y5R0krL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5181Y5R0krL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5181Y5R0krL._SL200_.jpg' ]
 comments: true
 category: ofertas

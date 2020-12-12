@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.92 % en Bambino Mio  pañal de aprendizaje  niño '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t%2Br38u%2B2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51t%2Br38u%2B2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t%2Br38u%2B2L._SL200_.jpg' ]
 comments: true
 category: ofertas

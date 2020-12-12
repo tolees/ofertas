@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Luke Jeans  Azul  Solid Blue Kt   W3 al 77.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NEOlaVNJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NEOlaVNJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NEOlaVNJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.81 % en !Solid Knit - Madden Jersey  Hombre  Ver'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4164H-VCTjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4164H-VCTjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4164H-VCTjL._SL200_.jpg' ]
 comments: true
 category: ofertas

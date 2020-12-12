@@ -3,6 +3,7 @@ layout: post
 title: 'arena Athena Woman Hook Zapatos de Playa al 44.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AZeB1UEfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AZeB1UEfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AZeB1UEfL._SL200_.jpg' ]
 comments: true
 category: ofertas

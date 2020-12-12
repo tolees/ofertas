@@ -3,6 +3,7 @@ layout: post
 title: 'TV Box Android 6.0 SAMMIX R95S Smart TV  al 53.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fbLeua2LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fbLeua2LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fbLeua2LL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.44 % en Handiy LM101 - Medidor de distancia láse'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GP%2BItuFnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GP%2BItuFnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GP%2BItuFnL._SL200_.jpg' ]
 comments: true
 category: ofertas

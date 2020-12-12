@@ -3,6 +3,7 @@ layout: post
 title: 'TRUTH & FABLE ACB042 vestido dama de hon al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nozAFtL5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nozAFtL5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nozAFtL5L._SL200_.jpg' ]
 comments: true
 category: ofertas

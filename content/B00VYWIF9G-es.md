@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.07 % en Limit Active Men s Multifunction Digital'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rKfeDjUHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rKfeDjUHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rKfeDjUHL._SL200_.jpg' ]
 comments: true
 category: ofertas

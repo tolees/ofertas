@@ -3,6 +3,7 @@ layout: post
 title: 'Replay Joi Vaqueros Skinny  Azul  Dark B al 82.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31botKny4PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31botKny4PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31botKny4PL._SL200_.jpg' ]
 comments: true
 category: ofertas

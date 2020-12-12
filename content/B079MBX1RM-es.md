@@ -3,6 +3,7 @@ layout: post
 title: 'MERAKI Camiseta de Rayas de Manga Corta  al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yA%2B8IuR5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yA%2B8IuR5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yA%2B8IuR5L._SL200_.jpg' ]
 comments: true
 category: ofertas

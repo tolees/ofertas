@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.01 % en ENGSWA Collar Mujer Grabado Colgante con'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ccaVqZNuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ccaVqZNuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ccaVqZNuL._SL200_.jpg' ]
 comments: true
 category: ofertas

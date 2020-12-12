@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 087ee1f008  Blusa Mujer  Azul  Na al 76.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ydlOFpfUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ydlOFpfUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ydlOFpfUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.04 % en TANBURO Grifo de Lavabo Cocina  Grifo Fr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SvyYy-DdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SvyYy-DdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SvyYy-DdL._SL200_.jpg' ]
 comments: true
 category: ofertas

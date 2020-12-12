@@ -3,6 +3,7 @@ layout: post
 title: 'amzdeal Caja para Gafas de Sol Caja de A al 40.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513UcUpXiTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513UcUpXiTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513UcUpXiTL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'VARTA CR 2450 - Pack de 2 Pilas  Litio   al 28.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dKWvPspiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dKWvPspiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dKWvPspiL._SL200_.jpg' ]
 comments: true
 category: ofertas

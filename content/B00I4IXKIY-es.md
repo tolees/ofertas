@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO - Intercepción Infernal  Juego de c al 67.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513A8d0R2HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513A8d0R2HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513A8d0R2HL._SL200_.jpg' ]
 comments: true
 category: ofertas

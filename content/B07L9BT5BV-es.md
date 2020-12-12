@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.02 % en Dorothy Perkins Check Shift Dress  Vesti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FnZnUTWBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FnZnUTWBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FnZnUTWBL._SL200_.jpg' ]
 comments: true
 category: ofertas

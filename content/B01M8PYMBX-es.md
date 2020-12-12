@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.73 % en adidas Messi 16.4 Tf J - Zapatillas de f'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m73UAagyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m73UAagyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m73UAagyL._SL200_.jpg' ]
 comments: true
 category: ofertas

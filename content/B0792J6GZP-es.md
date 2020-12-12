@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.21 % en Roxy Easy Game Camiseta sin Mangas de Di'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gLT26OHDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gLT26OHDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gLT26OHDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'QacQoc 7 En 1 Hub USB C a HDMI  Adaptado al 42.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419OuYcTnEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419OuYcTnEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419OuYcTnEL._SL200_.jpg' ]
 comments: true
 category: ofertas

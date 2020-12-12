@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.50 % en Lacoste Ph4241 Polo  Azul  Farine Blanc-'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pDrxERfhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pDrxERfhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pDrxERfhL._SL200_.jpg' ]
 comments: true
 category: ofertas

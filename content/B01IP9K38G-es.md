@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.35 % en Aigostar USMixer 30HLY - Batidora de dob'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418EyrhncfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418EyrhncfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418EyrhncfL._SL200_.jpg' ]
 comments: true
 category: ofertas

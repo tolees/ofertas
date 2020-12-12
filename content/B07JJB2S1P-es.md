@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange Cavalry Pantalones  Negr al 69.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Eg4-rtF2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Eg4-rtF2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Eg4-rtF2L._SL200_.jpg' ]
 comments: true
 category: ofertas

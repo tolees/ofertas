@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley M One&Only Push-Through tee Camis al 48.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yQcSgWaKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yQcSgWaKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yQcSgWaKL._SL200_.jpg' ]
 comments: true
 category: ofertas

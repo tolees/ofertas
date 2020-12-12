@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.89 % en Under Armour Play Up 2.0 - Pantalón Cort'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BPItgb05L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BPItgb05L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BPItgb05L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.60 % en Kingston KVR1333D3S9/8G - Memoria RAM DD'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bKiP%2BKGbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bKiP%2BKGbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bKiP%2BKGbL._SL200_.jpg' ]
 comments: true
 category: ofertas

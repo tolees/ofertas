@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.89 % en The North Face Y Crew Jersey Box Drew Pe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419BMeUlzpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419BMeUlzpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419BMeUlzpL._SL200_.jpg' ]
 comments: true
 category: ofertas

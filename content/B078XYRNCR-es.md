@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.57 % en Auto Companion - Indicador digital de pr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g80rle7qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g80rle7qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g80rle7qL._SL200_.jpg' ]
 comments: true
 category: ofertas

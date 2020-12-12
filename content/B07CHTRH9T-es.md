@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Casual Teedog 2  Camiseta Hombre  B al 54.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qw2%2BjD8FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qw2%2BjD8FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qw2%2BjD8FL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.70 % en Levi s Levis Frankenstein Boxer Brief 2p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51K5o0H5nfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51K5o0H5nfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51K5o0H5nfL._SL200_.jpg' ]
 comments: true
 category: ofertas

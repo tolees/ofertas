@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.23 % en Superdry Merino Crew  Sudadera Deportiva'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ukcD5D5lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ukcD5D5lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ukcD5D5lL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Vintage Edison Bombilla  Bombilla de Fil al 41.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vt-M8NHVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vt-M8NHVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vt-M8NHVL._SL200_.jpg' ]
 comments: true
 category: ofertas

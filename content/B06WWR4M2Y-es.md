@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.57 % en Trio Lighting Lugano Plafón  Níquel Mate'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31voINeL3IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31voINeL3IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31voINeL3IL._SL200_.jpg' ]
 comments: true
 category: ofertas

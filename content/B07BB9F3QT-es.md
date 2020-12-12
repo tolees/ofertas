@@ -3,6 +3,7 @@ layout: post
 title: 'Softline 25262-21  Botas Militar para Mu al 61.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417vQ1ZS9jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417vQ1ZS9jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417vQ1ZS9jL._SL200_.jpg' ]
 comments: true
 category: ofertas

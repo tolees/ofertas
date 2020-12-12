@@ -3,6 +3,7 @@ layout: post
 title: 'Pandora Abalorios Mujer plata - 792138EN al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gtbe0W2RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gtbe0W2RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gtbe0W2RL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.91 % en Levi s kids Nn26587 Short Bañador  Blanc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315LOHy8HyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315LOHy8HyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315LOHy8HyL._SL200_.jpg' ]
 comments: true
 category: ofertas

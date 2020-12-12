@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.89 % en Gant Barstripe Pique Rugger  Polo para H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XB9hNs%2BbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XB9hNs%2BbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XB9hNs%2BbL._SL200_.jpg' ]
 comments: true
 category: ofertas

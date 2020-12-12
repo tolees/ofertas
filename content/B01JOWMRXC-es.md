@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmcozy Copenhagen Nice LS Card al 63.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4191aUgDeoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4191aUgDeoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4191aUgDeoL._SL200_.jpg' ]
 comments: true
 category: ofertas

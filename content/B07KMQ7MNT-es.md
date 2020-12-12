@@ -3,6 +3,7 @@ layout: post
 title: 'L Oréal Paris Rouge Signature 103 I Enjo al 36.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31my4ex6TeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31my4ex6TeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31my4ex6TeL._SL200_.jpg' ]
 comments: true
 category: ofertas

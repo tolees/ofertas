@@ -3,6 +3,7 @@ layout: post
 title: 'Globe Sprout Mid  Zapatillas de Deporte  al 73.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sbYxrQcVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sbYxrQcVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sbYxrQcVL._SL200_.jpg' ]
 comments: true
 category: ofertas

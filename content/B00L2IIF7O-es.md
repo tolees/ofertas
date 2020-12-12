@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.94 % en Astan Hogar Ventilador De Pie Nápoles Fa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21FuBlSjl6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21FuBlSjl6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21FuBlSjl6L._SL200_.jpg' ]
 comments: true
 category: ofertas

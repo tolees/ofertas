@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.44 % en OKI C612N - Impresora con tecnología las'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417mSwYnEoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417mSwYnEoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417mSwYnEoL._SL200_.jpg' ]
 comments: true
 category: ofertas

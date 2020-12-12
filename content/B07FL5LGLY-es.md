@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.74 % en Skechers Go Walk Evolution Ultra-Reach  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KDG6I8YIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KDG6I8YIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KDG6I8YIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Sony SCR24 - Funda para móvil Sony Xperi al 90.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GgaP93IFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GgaP93IFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GgaP93IFL._SL200_.jpg' ]
 comments: true
 category: ofertas

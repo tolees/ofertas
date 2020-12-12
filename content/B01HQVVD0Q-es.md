@@ -3,6 +3,7 @@ layout: post
 title: 'Pack Objetivo La Casa Blanca + Objetivo  al 51.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61lancrPlCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61lancrPlCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61lancrPlCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri K Rainforest S Op 1 Black Chaq al 64.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3106iKL1tZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3106iKL1tZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3106iKL1tZL._SL200_.jpg' ]
 comments: true
 category: ofertas

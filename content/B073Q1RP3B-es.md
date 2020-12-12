@@ -3,6 +3,7 @@ layout: post
 title: 'Aicok Hervidor de Agua Eléctrico  Apagad al 41.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ilSK9VXaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ilSK9VXaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ilSK9VXaL._SL200_.jpg' ]
 comments: true
 category: ofertas

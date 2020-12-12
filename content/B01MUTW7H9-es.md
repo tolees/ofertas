@@ -3,6 +3,7 @@ layout: post
 title: 'Severin Barbacoa Grill PG 8532 - Barbaco al 30.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41orA3P3ZeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41orA3P3ZeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41orA3P3ZeL._SL200_.jpg' ]
 comments: true
 category: ofertas

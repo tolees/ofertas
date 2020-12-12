@@ -3,6 +3,7 @@ layout: post
 title: 'find. Pantalón con Estampado de Flores M al 57.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M6rbRgfSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M6rbRgfSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M6rbRgfSL._SL200_.jpg' ]
 comments: true
 category: ofertas

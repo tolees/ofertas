@@ -3,6 +3,7 @@ layout: post
 title: 'Nest T3010IT Termostato  Acero al 47.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kHAxV1MIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kHAxV1MIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kHAxV1MIL._SL200_.jpg' ]
 comments: true
 category: ofertas

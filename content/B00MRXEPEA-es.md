@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.89 % en Ray-Ban 0rx 5184 2479 54 Monturas de gaf'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413TIiATb3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413TIiATb3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413TIiATb3L._SL200_.jpg' ]
 comments: true
 category: ofertas

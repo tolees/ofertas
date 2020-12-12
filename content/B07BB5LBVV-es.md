@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.34 % en Helly Hansen Hh Duffel Bag 2 Bolsa de vi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U5L%2BwKV3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U5L%2BwKV3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U5L%2BwKV3L._SL200_.jpg' ]
 comments: true
 category: ofertas

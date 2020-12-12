@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.57 % en Adidas Nemeziz 18.3 TF J  Botas de fútbo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LC%2BYvj28L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LC%2BYvj28L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LC%2BYvj28L._SL200_.jpg' ]
 comments: true
 category: ofertas

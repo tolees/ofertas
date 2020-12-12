@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.17 % en Geox Jr Sandal Giglio A  Sandalias con T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ccXy3u%2BNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ccXy3u%2BNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ccXy3u%2BNL._SL200_.jpg' ]
 comments: true
 category: ofertas

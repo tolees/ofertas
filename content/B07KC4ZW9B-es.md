@@ -3,6 +3,7 @@ layout: post
 title: 'CYOUH Raqueta Mosquitos Recargable  Raqu al 31.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rP75GuBgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rP75GuBgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rP75GuBgL._SL200_.jpg' ]
 comments: true
 category: ofertas

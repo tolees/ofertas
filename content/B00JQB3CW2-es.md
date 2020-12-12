@@ -3,6 +3,7 @@ layout: post
 title: 'Comfortabel 630508 - Mocasines  Color Sc al 64.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xTtPfw%2BDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xTtPfw%2BDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xTtPfw%2BDL._SL200_.jpg' ]
 comments: true
 category: ofertas

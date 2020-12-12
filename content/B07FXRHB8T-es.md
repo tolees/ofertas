@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.67 % en NaturGreen Paté Campestre a base de Verd'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qC%2BZOMdKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qC%2BZOMdKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qC%2BZOMdKL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers by Gerli 41bn004-240  Botas Dese al 68.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419nMvKN%2BgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419nMvKN%2BgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419nMvKN%2BgL._SL200_.jpg' ]
 comments: true
 category: ofertas

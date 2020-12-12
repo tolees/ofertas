@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.49 % en Corsair Vengeance RGB Pro - Kit de Memor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iU5vqzvbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iU5vqzvbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iU5vqzvbL._SL200_.jpg' ]
 comments: true
 category: ofertas

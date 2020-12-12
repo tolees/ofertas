@@ -3,6 +3,7 @@ layout: post
 title: 'Simply Be Novelty Sequin Flamingo Xmas T al 77.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UK49Wz2iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UK49Wz2iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UK49Wz2iL._SL200_.jpg' ]
 comments: true
 category: ofertas

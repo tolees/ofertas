@@ -3,6 +3,7 @@ layout: post
 title: 'Frederick s of Hollywood Lujoso Recargab al 73.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AmjhS%2BRlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AmjhS%2BRlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AmjhS%2BRlL._SL200_.jpg' ]
 comments: true
 category: ofertas

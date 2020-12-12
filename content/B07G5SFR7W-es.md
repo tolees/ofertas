@@ -3,6 +3,7 @@ layout: post
 title: 'Nike W Af1 Jester XX  Zapatillas de Balo al 25.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jfwIrJtqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jfwIrJtqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jfwIrJtqL._SL200_.jpg' ]
 comments: true
 category: ofertas

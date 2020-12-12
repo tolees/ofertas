@@ -3,6 +3,7 @@ layout: post
 title: 'Amazon - Funda para Fire 7  tablet de 7  al 32.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51F2-OLiDIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51F2-OLiDIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51F2-OLiDIL._SL200_.jpg' ]
 comments: true
 category: ofertas

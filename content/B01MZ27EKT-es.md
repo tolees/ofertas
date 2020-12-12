@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Hypervenomx Phelon III IC  Botas de al 46.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RxD8Vz46L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RxD8Vz46L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RxD8Vz46L._SL200_.jpg' ]
 comments: true
 category: ofertas

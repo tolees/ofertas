@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.09 % en Bosch Sierra circular PKS 40  tope paral'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sygumA5yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sygumA5yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sygumA5yL._SL200_.jpg' ]
 comments: true
 category: ofertas

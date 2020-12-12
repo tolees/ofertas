@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.86 % en Under Armour UA Charged Spark  Zapatilla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rg4N89SLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rg4N89SLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rg4N89SLL._SL200_.jpg' ]
 comments: true
 category: ofertas

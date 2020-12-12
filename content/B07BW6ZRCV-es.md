@@ -3,6 +3,7 @@ layout: post
 title: 'seQoya - Iceberg | Reloj de Piedra Hecho al 38.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GZy6Eb2wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GZy6Eb2wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GZy6Eb2wL._SL200_.jpg' ]
 comments: true
 category: ofertas

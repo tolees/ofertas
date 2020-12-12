@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Teo 625 Camiseta de Manga Larga  Gr al 71.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JnCZqjW1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JnCZqjW1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JnCZqjW1L._SL200_.jpg' ]
 comments: true
 category: ofertas

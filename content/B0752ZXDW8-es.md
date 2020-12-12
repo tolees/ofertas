@@ -3,6 +3,7 @@ layout: post
 title: 'Power A - Joy-Con Comfort Grip  Zelda BO al 49.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Sskz4ejnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Sskz4ejnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Sskz4ejnL._SL200_.jpg' ]
 comments: true
 category: ofertas

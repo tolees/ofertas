@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.78 % en Marc by Marc Jacobs MMJ 451/S Mv Gafas d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-RMJW3sHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-RMJW3sHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-RMJW3sHL._SL200_.jpg' ]
 comments: true
 category: ofertas

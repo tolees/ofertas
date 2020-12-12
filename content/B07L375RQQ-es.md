@@ -3,6 +3,7 @@ layout: post
 title: 'ACTÍVATE – CAFEÍNA + TAURINA + ELEUTEROC al 57.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pG0GkgcCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pG0GkgcCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pG0GkgcCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'MAMALICIOUS Mlkassandra 3/4 Woven KL Dre al 66.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J9TfVIDyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J9TfVIDyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J9TfVIDyL._SL200_.jpg' ]
 comments: true
 category: ofertas

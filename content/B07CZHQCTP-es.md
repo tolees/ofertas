@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 Straight  Vaqueros strai al 57.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PL-vldtpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PL-vldtpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PL-vldtpL._SL200_.jpg' ]
 comments: true
 category: ofertas

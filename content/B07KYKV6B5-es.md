@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.44 % en P Prettyia Lámpara Lupa de Sobremesa Amp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31I1vKbuOTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31I1vKbuOTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31I1vKbuOTL._SL200_.jpg' ]
 comments: true
 category: ofertas

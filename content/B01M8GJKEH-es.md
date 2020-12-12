@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.75 % en Geox D Giyo  Zapatillas Altas para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yFE5tGDeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yFE5tGDeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yFE5tGDeL._SL200_.jpg' ]
 comments: true
 category: ofertas

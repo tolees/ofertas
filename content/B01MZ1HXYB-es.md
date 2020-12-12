@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones Jorjohan Shirt Ls  Camisa p al 71.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519EK0BiGoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519EK0BiGoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519EK0BiGoL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas 107343  Falda para Muje al 70.43 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

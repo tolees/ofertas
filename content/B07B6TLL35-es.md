@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.90 % en Burton 1St Layer Set Conjuntos Térmicos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cAm0ItPQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cAm0ItPQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cAm0ItPQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pikolinos Viena W3n_i17  Botas para Muje al 50.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eQID%2BT60L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eQID%2BT60L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eQID%2BT60L._SL200_.jpg' ]
 comments: true
 category: ofertas

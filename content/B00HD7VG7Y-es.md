@@ -3,6 +3,7 @@ layout: post
 title: 'Wenger 600665 Developer - Mochila con co al 57.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ygTrkFulL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ygTrkFulL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ygTrkFulL._SL200_.jpg' ]
 comments: true
 category: ofertas

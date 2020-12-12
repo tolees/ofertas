@@ -3,6 +3,7 @@ layout: post
 title: 'SUAOKI - Mini Linterna Camping LED Solar al 25.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I3miD5%2BEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I3miD5%2BEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I3miD5%2BEL._SL200_.jpg' ]
 comments: true
 category: ofertas

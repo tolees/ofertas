@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.83 % en The North Face S/S Flash T Camiseta  Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tuMpM4IkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tuMpM4IkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tuMpM4IkL._SL200_.jpg' ]
 comments: true
 category: ofertas

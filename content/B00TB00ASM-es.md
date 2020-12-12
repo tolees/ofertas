@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.06 % en Batiste Champú en Seco Blush - 200 ml'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tbSEZrBOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tbSEZrBOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tbSEZrBOL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pandora Abalorios Mujer plata - 792053CZ al 43.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dDUKq%2BFRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dDUKq%2BFRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dDUKq%2BFRL._SL200_.jpg' ]
 comments: true
 category: ofertas

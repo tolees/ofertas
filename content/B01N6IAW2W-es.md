@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.87 % en Columbia Saturday Trail II Knee Pant AL8'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GZ%2BZIdZRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GZ%2BZIdZRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GZ%2BZIdZRL._SL200_.jpg' ]
 comments: true
 category: ofertas

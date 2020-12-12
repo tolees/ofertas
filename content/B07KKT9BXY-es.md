@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy Arecibo Non-Denim Shorts  Mujer  Du al 28.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x-4prQOdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x-4prQOdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x-4prQOdL._SL200_.jpg' ]
 comments: true
 category: ofertas

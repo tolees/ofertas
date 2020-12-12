@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.92 % en OKI 43324408 - Cartucho de tóner'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31K0ul16xhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31K0ul16xhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31K0ul16xhL._SL200_.jpg' ]
 comments: true
 category: ofertas

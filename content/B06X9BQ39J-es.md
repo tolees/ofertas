@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.49 % en Spiuk Binomio Gafas  Unisex Adulto  Blan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D1fDWxiVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31D1fDWxiVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D1fDWxiVL._SL200_.jpg' ]
 comments: true
 category: ofertas

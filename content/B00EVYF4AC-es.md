@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Free RN 2017  GS   Zapatillas de En al 48.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517jkZDj7lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517jkZDj7lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517jkZDj7lL._SL200_.jpg' ]
 comments: true
 category: ofertas

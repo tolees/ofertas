@@ -3,6 +3,7 @@ layout: post
 title: 'Anself Pistola de pegar con 50 Barra De  al 38.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dyik5Ao0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dyik5Ao0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dyik5Ao0L._SL200_.jpg' ]
 comments: true
 category: ofertas

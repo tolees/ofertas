@@ -3,6 +3,7 @@ layout: post
 title: 'SUNLU 3D Printer Filament PLA Plus Grey  al 60.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b7FMSVgJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51b7FMSVgJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b7FMSVgJL._SL200_.jpg' ]
 comments: true
 category: ofertas

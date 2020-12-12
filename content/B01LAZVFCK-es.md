@@ -3,6 +3,7 @@ layout: post
 title: 'Silverline 537366 Plataforma de Aluminio al 37.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tbHca66IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tbHca66IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tbHca66IL._SL200_.jpg' ]
 comments: true
 category: ofertas

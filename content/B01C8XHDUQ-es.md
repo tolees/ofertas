@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.30 % en BOXEUR DES RUES BXT-T100 Chándal Deporti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LKLtUxcgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LKLtUxcgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LKLtUxcgL._SL200_.jpg' ]
 comments: true
 category: ofertas

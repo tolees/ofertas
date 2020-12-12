@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Uomo Sandal Strada a  Sandalias con al 46.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JIPmVzbiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JIPmVzbiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JIPmVzbiL._SL200_.jpg' ]
 comments: true
 category: ofertas

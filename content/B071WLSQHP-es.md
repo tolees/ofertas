@@ -3,6 +3,7 @@ layout: post
 title: 'adidas X 17.2 FG  Botas de fútbol para H al 70.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519my6RW2RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519my6RW2RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519my6RW2RL._SL200_.jpg' ]
 comments: true
 category: ofertas

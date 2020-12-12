@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.10 % en Lacoste 2000954 Lacoste.12.12 Lady - Rel'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V1YIUEjML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31V1YIUEjML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V1YIUEjML._SL200_.jpg' ]
 comments: true
 category: ofertas

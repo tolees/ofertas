@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Stomped On Camiseta  Niños  A al 46.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HLAPxCo8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HLAPxCo8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HLAPxCo8L._SL200_.jpg' ]
 comments: true
 category: ofertas

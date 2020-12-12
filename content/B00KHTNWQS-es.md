@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.39 % en Under Armour UA HG Armour LS Camiseta  H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sb6DCOP2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sb6DCOP2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sb6DCOP2L._SL200_.jpg' ]
 comments: true
 category: ofertas

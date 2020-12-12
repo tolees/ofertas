@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Varsity Cover Up T-Shirt  Mujer  Bl al 58.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mAz47FMoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mAz47FMoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mAz47FMoL._SL200_.jpg' ]
 comments: true
 category: ofertas

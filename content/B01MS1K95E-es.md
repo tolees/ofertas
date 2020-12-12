@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Dynaflyte  Zapatillas de Running p al 54.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aRQi5rOyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aRQi5rOyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aRQi5rOyL._SL200_.jpg' ]
 comments: true
 category: ofertas

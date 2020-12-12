@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.54 % en El Ganso P. Esmerilado  Camisa Casual pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OC8QPkXwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OC8QPkXwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OC8QPkXwL._SL200_.jpg' ]
 comments: true
 category: ofertas

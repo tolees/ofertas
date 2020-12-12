@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 1332171  Jersey para Mujer   al 45.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wpt8SHzBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wpt8SHzBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wpt8SHzBL._SL200_.jpg' ]
 comments: true
 category: ofertas

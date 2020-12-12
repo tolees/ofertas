@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.59 % en Funko Pop! - Dr. Ian Malcolm Figura de V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NNYWl3nHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NNYWl3nHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NNYWl3nHL._SL200_.jpg' ]
 comments: true
 category: ofertas

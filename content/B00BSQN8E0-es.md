@@ -3,6 +3,7 @@ layout: post
 title: 'Fehn - Burro de peluche  Fehn & Co. 8129 al 45.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vq2rbr%2BmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vq2rbr%2BmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vq2rbr%2BmL._SL200_.jpg' ]
 comments: true
 category: ofertas

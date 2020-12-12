@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.66 % en Puma Liga Casuals Polo  Hombre  White/Bl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uDVaz2dtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uDVaz2dtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uDVaz2dtL._SL200_.jpg' ]
 comments: true
 category: ofertas

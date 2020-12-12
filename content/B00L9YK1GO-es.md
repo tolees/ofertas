@@ -3,6 +3,7 @@ layout: post
 title: 'TOPELEK Grabadora CD Externa  Lector de  al 36.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nZSqXSQ-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nZSqXSQ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nZSqXSQ-L._SL200_.jpg' ]
 comments: true
 category: ofertas

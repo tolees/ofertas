@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.63 % en NEXGADGET Calefactor Cerámico PTC 950W C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41soW3K6lRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41soW3K6lRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41soW3K6lRL._SL200_.jpg' ]
 comments: true
 category: ofertas

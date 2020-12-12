@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.12 % en Springfield 3283240 Camiseta  Hombre  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-lvgrH0nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-lvgrH0nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-lvgrH0nL._SL200_.jpg' ]
 comments: true
 category: ofertas

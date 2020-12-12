@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.91 % en Adidas Essential Star 3 M  Zapatillas de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X3YhFK2pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X3YhFK2pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X3YhFK2pL._SL200_.jpg' ]
 comments: true
 category: ofertas

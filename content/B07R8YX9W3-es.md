@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.10 % en NUBILY Bolso Bandolera Impermeable Bolso'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MZc5%2BG3aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MZc5%2BG3aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MZc5%2BG3aL._SL200_.jpg' ]
 comments: true
 category: ofertas

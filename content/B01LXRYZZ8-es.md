@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.91 % en ASUS VA32AQ 31.5" 2K Ultra HD LED Plana '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DcdowY5PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DcdowY5PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DcdowY5PL._SL200_.jpg' ]
 comments: true
 category: ofertas

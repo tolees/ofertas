@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.39 % en BigBen TW9KEEPCALM - Torre de Sonido Blu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4130rYBlfEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4130rYBlfEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4130rYBlfEL._SL200_.jpg' ]
 comments: true
 category: ofertas

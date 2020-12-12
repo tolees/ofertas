@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.30 % en Scotch & Soda Maison S/S Tee In Various '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-q2OuTmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-q2OuTmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-q2OuTmL._SL200_.jpg' ]
 comments: true
 category: ofertas

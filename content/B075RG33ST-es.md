@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.95 % en Double Agent 87311 Camiseta  Negro  Blue'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419XHtQOB8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419XHtQOB8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419XHtQOB8L._SL200_.jpg' ]
 comments: true
 category: ofertas

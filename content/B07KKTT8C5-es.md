@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Keng9 Chaqueta Punto  Negro  Noi al 62.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WzOfe%2Bc2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WzOfe%2Bc2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WzOfe%2Bc2L._SL200_.jpg' ]
 comments: true
 category: ofertas

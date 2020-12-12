@@ -3,6 +3,7 @@ layout: post
 title: 'adidas CON18 PES JKT Jacket  Hombre  Neg al 28.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CrzEfuo5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CrzEfuo5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CrzEfuo5L._SL200_.jpg' ]
 comments: true
 category: ofertas

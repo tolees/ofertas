@@ -3,6 +3,7 @@ layout: post
 title: 'Shiseido Crema Ultra Hidratante para Hom al 37.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419poOA7-PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419poOA7-PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419poOA7-PL._SL200_.jpg' ]
 comments: true
 category: ofertas

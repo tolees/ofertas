@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Avance HR3752/00 - Batidora Amer al 51.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iY4f2iPcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iY4f2iPcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iY4f2iPcL._SL200_.jpg' ]
 comments: true
 category: ofertas

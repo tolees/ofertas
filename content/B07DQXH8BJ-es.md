@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.65 % en hummel HB Team  Zapatillas para Mujer  R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JrvR0AytL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JrvR0AytL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JrvR0AytL._SL200_.jpg' ]
 comments: true
 category: ofertas

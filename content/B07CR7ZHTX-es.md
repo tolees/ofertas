@@ -3,6 +3,7 @@ layout: post
 title: 'MY LITTLE BEAUTY Exfoliante Pies  Peelin al 47.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MuiKQD8JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MuiKQD8JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MuiKQD8JL._SL200_.jpg' ]
 comments: true
 category: ofertas

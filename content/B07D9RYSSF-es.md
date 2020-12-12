@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Advantage Cl QT  Zapatillas para  al 53.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uLw8OA9HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uLw8OA9HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uLw8OA9HL._SL200_.jpg' ]
 comments: true
 category: ofertas

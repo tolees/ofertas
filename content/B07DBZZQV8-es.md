@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.46 % en Puma Escaper Tech Zapatillas de deporte '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YIz3prPML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YIz3prPML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YIz3prPML._SL200_.jpg' ]
 comments: true
 category: ofertas

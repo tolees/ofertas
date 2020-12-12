@@ -3,6 +3,7 @@ layout: post
 title: 'MSI B360M PRO-VD - Placa Base PRO Series al 88.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cjq%2BnVNSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cjq%2BnVNSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cjq%2BnVNSL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.07 % en Philips Avent SCF151/02 - Set de 2 chupe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oc0e63q4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oc0e63q4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oc0e63q4L._SL200_.jpg' ]
 comments: true
 category: ofertas

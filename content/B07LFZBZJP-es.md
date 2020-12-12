@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans North Court  Zapatillas para  al 46.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ifPVgSFpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ifPVgSFpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ifPVgSFpL._SL200_.jpg' ]
 comments: true
 category: ofertas

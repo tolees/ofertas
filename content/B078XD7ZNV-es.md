@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Supernova Ctrl 1.8 al 50.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b24Fab5LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b24Fab5LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b24Fab5LL._SL200_.jpg' ]
 comments: true
 category: ofertas

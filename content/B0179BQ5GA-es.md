@@ -3,6 +3,7 @@ layout: post
 title: 'Reef Stuyak II  Sandalias Flip-Flop para al 50.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HNWdobcBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HNWdobcBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HNWdobcBL._SL200_.jpg' ]
 comments: true
 category: ofertas

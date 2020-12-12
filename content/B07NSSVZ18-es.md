@@ -3,6 +3,7 @@ layout: post
 title: 'Teclast M20- Phablet4G Tablet 10.1 Pulga al 60.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qLf0bd7qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qLf0bd7qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qLf0bd7qL._SL200_.jpg' ]
 comments: true
 category: ofertas

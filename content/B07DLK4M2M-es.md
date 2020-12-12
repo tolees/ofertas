@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6.J.Ap.T.Bimateria Bordad Je al 50.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415HcsPqYFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415HcsPqYFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415HcsPqYFL._SL200_.jpg' ]
 comments: true
 category: ofertas

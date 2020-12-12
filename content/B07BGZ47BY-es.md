@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.37 % en CUBOT X18 Plus 4G Teléfono Móvil 5 .99 P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z%2BMp9tyKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z%2BMp9tyKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z%2BMp9tyKL._SL200_.jpg' ]
 comments: true
 category: ofertas

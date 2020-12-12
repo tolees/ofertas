@@ -3,6 +3,7 @@ layout: post
 title: 'Prismáticos Binoculares  SGODDE Impermea al 44.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IhgZ-8MML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IhgZ-8MML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IhgZ-8MML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.88 % en Gifort Automatic Maquina Burbujas máquin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XP5C3wHxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XP5C3wHxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XP5C3wHxL._SL200_.jpg' ]
 comments: true
 category: ofertas

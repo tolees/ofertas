@@ -3,6 +3,7 @@ layout: post
 title: 'BRA Efficient Orange Sartén de 20 cm  al al 42.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HBYmpSGdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HBYmpSGdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HBYmpSGdL._SL200_.jpg' ]
 comments: true
 category: ofertas

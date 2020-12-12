@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.00 % en DlandHome L Escritorio de la computadora'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Be5tRF0pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Be5tRF0pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Be5tRF0pL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.57 % en Invicta 26011 Marvel Reloj para Hombre a'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oG2y4JRIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oG2y4JRIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oG2y4JRIL._SL200_.jpg' ]
 comments: true
 category: ofertas

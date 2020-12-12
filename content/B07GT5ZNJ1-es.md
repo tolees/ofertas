@@ -3,6 +3,7 @@ layout: post
 title: 'Berg Outdoor Estrela Hooded Sweatshirt   al 74.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417389wz8FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417389wz8FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417389wz8FL._SL200_.jpg' ]
 comments: true
 category: ofertas

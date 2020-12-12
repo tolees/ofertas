@@ -3,6 +3,7 @@ layout: post
 title: 'Gant Tonal Shield Full Zip Hoodie  Capuc al 40.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412ydBozh9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412ydBozh9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412ydBozh9L._SL200_.jpg' ]
 comments: true
 category: ofertas

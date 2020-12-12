@@ -3,6 +3,7 @@ layout: post
 title: 'Medisana TM700 77040  Termómetro Digital al 25.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DQvs6%2Bd1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DQvs6%2Bd1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DQvs6%2Bd1L._SL200_.jpg' ]
 comments: true
 category: ofertas

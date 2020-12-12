@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.03 % en Centenario 9 Years Old Commemorative Rum'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KG-NFA5nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KG-NFA5nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KG-NFA5nL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Vitaldiet  ACEITE DE ALMENDRAS PURO-250  al 56.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BEBNcvOaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BEBNcvOaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BEBNcvOaL._SL200_.jpg' ]
 comments: true
 category: ofertas

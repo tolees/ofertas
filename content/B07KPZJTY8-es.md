@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.34 % en Asics Patriot 10 SP  Zapatillas de Runni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LlX9s8gPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LlX9s8gPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LlX9s8gPL._SL200_.jpg' ]
 comments: true
 category: ofertas

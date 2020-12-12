@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.64 % en 4pcs toalla de deporte refrescante KAKOO'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61yll9otm7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61yll9otm7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61yll9otm7L._SL200_.jpg' ]
 comments: true
 category: ofertas

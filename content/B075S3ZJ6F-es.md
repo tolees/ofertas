@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.80 % en Gore Wear C3 Windstopper Chaleco  Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ohgDSUi0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ohgDSUi0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ohgDSUi0L._SL200_.jpg' ]
 comments: true
 category: ofertas

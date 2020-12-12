@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.06 % en Toni & Guy 79400204387 acondicionador - '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yYOrDndoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yYOrDndoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yYOrDndoL._SL200_.jpg' ]
 comments: true
 category: ofertas

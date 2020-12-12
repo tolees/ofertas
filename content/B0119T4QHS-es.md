@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.99 % en Triax TDS 88 Antracita - Antena  38 8 dB'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jSvJCCVvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jSvJCCVvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jSvJCCVvL._SL200_.jpg' ]
 comments: true
 category: ofertas

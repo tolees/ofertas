@@ -3,6 +3,7 @@ layout: post
 title: 'Pack: Sicario 1 + Sicario 2 [Blu-ray] al 54.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DmfVojb2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DmfVojb2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DmfVojb2L._SL200_.jpg' ]
 comments: true
 category: ofertas

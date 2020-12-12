@@ -3,6 +3,7 @@ layout: post
 title: 'Bugatti 411434603400  Bailarinas para Mu al 72.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wHf8CxYML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wHf8CxYML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wHf8CxYML._SL200_.jpg' ]
 comments: true
 category: ofertas

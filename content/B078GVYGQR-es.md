@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.82 % en Trucco TT15AD1 Camiseta  Mujer  Azul  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LaVAb5d4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LaVAb5d4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LaVAb5d4L._SL200_.jpg' ]
 comments: true
 category: ofertas

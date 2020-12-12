@@ -3,6 +3,7 @@ layout: post
 title: 'Inside 5SPPC01 Chaqueta Impermeable  Muj al 57.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ldmi0Jt5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ldmi0Jt5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ldmi0Jt5L._SL200_.jpg' ]
 comments: true
 category: ofertas

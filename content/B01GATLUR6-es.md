@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 501 Short  Pantalones Cortos para al 34.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lJ0VSTd9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lJ0VSTd9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lJ0VSTd9L._SL200_.jpg' ]
 comments: true
 category: ofertas

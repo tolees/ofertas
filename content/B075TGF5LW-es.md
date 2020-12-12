@@ -3,6 +3,7 @@ layout: post
 title: 'Asus Zenfone 4 - Smartphone de 5.5" Full al 27.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u2juhy9FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u2juhy9FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u2juhy9FL._SL200_.jpg' ]
 comments: true
 category: ofertas

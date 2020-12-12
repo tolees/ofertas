@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Chaqueta Sangro  Mujer  N al 50.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OVZxgRAkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OVZxgRAkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OVZxgRAkL._SL200_.jpg' ]
 comments: true
 category: ofertas

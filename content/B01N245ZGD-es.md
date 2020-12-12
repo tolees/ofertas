@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.94 % en Intel NUC NUC6CAYSAJ 1.50GHz J3455 Negro'
 date: 2020-12-11 22:49:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lqh3Ld7TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lqh3Ld7TL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lqh3Ld7TL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -24,11 +25,11 @@ Tienes [Intel NUC NUC6CAYSAJ 1.50GHz J3455 Negro  Gris Mini PC - Ordenador de so
 
 Características principales:
 
-- Unidad: no disponible
+- Disco duro: 32 GB
 - Caja: Caja HTPC
 - Memoria: 2048 MB
+- Unidad: no disponible
 - Color: plateado
-- Disco duro: 32 GB
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N245ZGD/?tag=tolees-21)
 

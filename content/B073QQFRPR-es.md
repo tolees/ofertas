@@ -3,6 +3,7 @@ layout: post
 title: 'find. Jersey con Textura de Cuadros para al 66.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419d6nBwJWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419d6nBwJWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419d6nBwJWL._SL200_.jpg' ]
 comments: true
 category: ofertas

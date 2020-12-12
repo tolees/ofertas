@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Go Run 600-Farrox  Zapatillas p al 60.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KxXvdvjpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KxXvdvjpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KxXvdvjpL._SL200_.jpg' ]
 comments: true
 category: ofertas

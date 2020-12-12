@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Sport L1230  Polo para Hombre  A al 44.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vemhr2SdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vemhr2SdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vemhr2SdL._SL200_.jpg' ]
 comments: true
 category: ofertas

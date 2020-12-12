@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.95 % en Trust Primo - Maletín DE 17.3" para Orde'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uHCQvlJ3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uHCQvlJ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uHCQvlJ3L._SL200_.jpg' ]
 comments: true
 category: ofertas

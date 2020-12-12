@@ -3,6 +3,7 @@ layout: post
 title: 'HDMI Switcher 4K  AiYun HDMI Switch Spli al 46.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yFkg-itFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yFkg-itFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yFkg-itFL._SL200_.jpg' ]
 comments: true
 category: ofertas

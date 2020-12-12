@@ -3,6 +3,7 @@ layout: post
 title: 'David Jones - 5940-1a  Shoppers y bolsos al 70.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w4JxtocPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w4JxtocPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w4JxtocPL._SL200_.jpg' ]
 comments: true
 category: ofertas

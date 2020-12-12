@@ -3,6 +3,7 @@ layout: post
 title: 'The Balm  Sombra de ojos - 1 unidad al 46.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bp2rirsSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bp2rirsSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bp2rirsSL._SL200_.jpg' ]
 comments: true
 category: ofertas

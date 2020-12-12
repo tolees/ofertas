@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.40 % en Puma Future 2.4 MG  Zapatillas de Fútbol'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n-40lfPxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n-40lfPxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n-40lfPxL._SL200_.jpg' ]
 comments: true
 category: ofertas

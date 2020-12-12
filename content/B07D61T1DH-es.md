@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.77 % en Asics Gel-Quest FF  Zapatillas de Runnin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wR10Yw1wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wR10Yw1wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wR10Yw1wL._SL200_.jpg' ]
 comments: true
 category: ofertas

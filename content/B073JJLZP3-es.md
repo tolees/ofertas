@@ -3,6 +3,7 @@ layout: post
 title: 'Philips 8718696706350 Bombilla LED Vela  al 33.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21zwV0RML%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21zwV0RML%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21zwV0RML%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.41 % en Shayson Ventilador de Mano Portátil Vent'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nPnEKn%2B7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nPnEKn%2B7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nPnEKn%2B7L._SL200_.jpg' ]
 comments: true
 category: ofertas

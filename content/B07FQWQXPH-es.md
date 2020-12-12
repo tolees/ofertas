@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcokarl tee SS Crew Neck  C al 47.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416ew6FQjbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416ew6FQjbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416ew6FQjbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Zeumar Pantalones  Marrón  Mud 70 al 75.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZWLJMGsXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZWLJMGsXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZWLJMGsXL._SL200_.jpg' ]
 comments: true
 category: ofertas

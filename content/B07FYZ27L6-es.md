@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Royal Techque T  Zapatillas de De al 77.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mbqvIfRFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mbqvIfRFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mbqvIfRFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.14 % en FIND YG8 camisetas  Verde  Leaf   38  Ta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414wx5SAREL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414wx5SAREL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414wx5SAREL._SL200_.jpg' ]
 comments: true
 category: ofertas

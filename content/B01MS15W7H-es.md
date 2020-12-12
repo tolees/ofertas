@@ -3,6 +3,7 @@ layout: post
 title: 'Jean Bellecour Reloj Analógico para Unis al 91.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zNeW0u39L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zNeW0u39L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zNeW0u39L._SL200_.jpg' ]
 comments: true
 category: ofertas

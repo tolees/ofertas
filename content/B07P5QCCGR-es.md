@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.01 % en EleLight 2Pack Luz Solar de Antorcha  96'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cv6lViu%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cv6lViu%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cv6lViu%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Zapf Creation 821183 - Baby Born para be al 65.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PrZM3618L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PrZM3618L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PrZM3618L._SL200_.jpg' ]
 comments: true
 category: ofertas

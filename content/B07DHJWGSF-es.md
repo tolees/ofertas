@@ -3,6 +3,7 @@ layout: post
 title: 'Luces de Jardín Solar  Hisome IP65 Imper al 35.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kOMTFu9IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kOMTFu9IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kOMTFu9IL._SL200_.jpg' ]
 comments: true
 category: ofertas

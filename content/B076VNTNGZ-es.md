@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Men s Micro G Pursuit Runni al 57.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VF3mX11yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VF3mX11yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VF3mX11yL._SL200_.jpg' ]
 comments: true
 category: ofertas

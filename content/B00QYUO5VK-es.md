@@ -3,6 +3,7 @@ layout: post
 title: 'Thermic Dynamics Eco Class Heaters GH Es al 47.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VEUrYumXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VEUrYumXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VEUrYumXL._SL200_.jpg' ]
 comments: true
 category: ofertas

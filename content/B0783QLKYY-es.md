@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.42 % en Puma Mega Nrgy Knit Wn s  Zapatillas de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410KOH0izAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410KOH0izAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410KOH0izAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.35 % en Lego Jurassic World - Classics'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EKr8CjEhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EKr8CjEhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EKr8CjEhL._SL200_.jpg' ]
 comments: true
 category: ofertas

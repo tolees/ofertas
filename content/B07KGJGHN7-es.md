@@ -3,6 +3,7 @@ layout: post
 title: 'Buff R-Loom Gorra  Unisex Adulto  Talla  al 45.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y2oX0cu7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y2oX0cu7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y2oX0cu7L._SL200_.jpg' ]
 comments: true
 category: ofertas

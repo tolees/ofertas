@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.90 % en Crocs Modi Sport Flip  Chanclas Unisex A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KAgXnFFhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KAgXnFFhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KAgXnFFhL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiclark Jjoriginal Jos 317 al 43.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417nO2ySuWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417nO2ySuWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417nO2ySuWL._SL200_.jpg' ]
 comments: true
 category: ofertas

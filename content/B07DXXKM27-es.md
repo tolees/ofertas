@@ -3,6 +3,7 @@ layout: post
 title: 'Play-Doh - Cacas Divertidas  Hasbro E581 al 31.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uGTfQ5jwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uGTfQ5jwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uGTfQ5jwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pikolinos Salamanca W3q_i17  Botas para  al 63.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cyq1uQp1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cyq1uQp1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cyq1uQp1L._SL200_.jpg' ]
 comments: true
 category: ofertas

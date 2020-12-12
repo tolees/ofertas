@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.73 % en Buff Arrows Gorra Baseball  Niños  Denim'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FZrGE6jPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FZrGE6jPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FZrGE6jPL._SL200_.jpg' ]
 comments: true
 category: ofertas

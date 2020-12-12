@@ -3,6 +3,7 @@ layout: post
 title: 'Gant O1. Rose C-Neck SS T-Shirt Camiseta al 54.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ADF2Yqs6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ADF2Yqs6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ADF2Yqs6L._SL200_.jpg' ]
 comments: true
 category: ofertas

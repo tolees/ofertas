@@ -3,6 +3,7 @@ layout: post
 title: 'Halo Wars 2 - Standard Edition  Xbox One al 75.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xZlBky2QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xZlBky2QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xZlBky2QL._SL200_.jpg' ]
 comments: true
 category: ofertas

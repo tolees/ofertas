@@ -3,6 +3,7 @@ layout: post
 title: 'K-Swiss Aero Trainer Liberty  Zapatillas al 77.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fUxbVtykL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fUxbVtykL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fUxbVtykL._SL200_.jpg' ]
 comments: true
 category: ofertas

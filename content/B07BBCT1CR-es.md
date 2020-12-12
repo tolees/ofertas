@@ -3,6 +3,7 @@ layout: post
 title: 'Auntwhale 100 semillas de fresas trepado al 66.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61kGCqp-19L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61kGCqp-19L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61kGCqp-19L._SL200_.jpg' ]
 comments: true
 category: ofertas

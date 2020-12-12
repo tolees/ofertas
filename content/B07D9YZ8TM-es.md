@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.49 % en adidas Galaxy 4  Zapatillas de Entrenami'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tr00OryBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tr00OryBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tr00OryBL._SL200_.jpg' ]
 comments: true
 category: ofertas

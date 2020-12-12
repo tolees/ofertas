@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.64 % en Fila FU5016/2  Bóxer para Hombre  Negro '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yT2ERFtLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yT2ERFtLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yT2ERFtLL._SL200_.jpg' ]
 comments: true
 category: ofertas

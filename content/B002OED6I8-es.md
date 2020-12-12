@@ -3,6 +3,7 @@ layout: post
 title: 'KidKraft 65079 Casa de muñecas de madera al 30.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61qB4Lh30ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61qB4Lh30ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61qB4Lh30ML._SL200_.jpg' ]
 comments: true
 category: ofertas

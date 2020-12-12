@@ -3,6 +3,7 @@ layout: post
 title: 'Hellmann S Mayonesa Light - Paquete de 1 al 31.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xGRP82p9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xGRP82p9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xGRP82p9L._SL200_.jpg' ]
 comments: true
 category: ofertas

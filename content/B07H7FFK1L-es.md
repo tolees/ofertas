@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.01 % en zociko Electroestimulador Muscular Abdom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kUN8LXU7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kUN8LXU7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kUN8LXU7L._SL200_.jpg' ]
 comments: true
 category: ofertas

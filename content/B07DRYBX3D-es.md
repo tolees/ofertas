@@ -3,6 +3,7 @@ layout: post
 title: 'Diadora Game S  Zapatillas de Gimnasia U al 70.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41exd1h2e5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41exd1h2e5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41exd1h2e5L._SL200_.jpg' ]
 comments: true
 category: ofertas

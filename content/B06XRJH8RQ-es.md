@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver 26115  Botas para Mujer  Verde  al 77.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JwsAMh0aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JwsAMh0aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JwsAMh0aL._SL200_.jpg' ]
 comments: true
 category: ofertas

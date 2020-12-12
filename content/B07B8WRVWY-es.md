@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.82 % en Clarks Caddell Sloane  Botas Slouch para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ozIcqsztL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ozIcqsztL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ozIcqsztL._SL200_.jpg' ]
 comments: true
 category: ofertas

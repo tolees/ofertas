@@ -3,6 +3,7 @@ layout: post
 title: 'Tryone Soporte Tablet Coche  Soporte Rep al 48.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511mqc6bfZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511mqc6bfZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511mqc6bfZL._SL200_.jpg' ]
 comments: true
 category: ofertas

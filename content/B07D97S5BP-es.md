@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi 26860-21  Botas de Nieve par al 80.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-lOdVZWnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-lOdVZWnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-lOdVZWnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 92.82 % en DAMIGRAM Perros Pecho de Arnés  Reflecta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VG3Z8aepL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VG3Z8aepL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VG3Z8aepL._SL200_.jpg' ]
 comments: true
 category: ofertas

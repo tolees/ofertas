@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.08 % en Only & Sons Onsfiske Sweat Pants Brushed'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uXNhNi%2BtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uXNhNi%2BtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uXNhNi%2BtL._SL200_.jpg' ]
 comments: true
 category: ofertas

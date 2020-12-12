@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.89 % en Dim 6563140-RA Sujetador  Rosa  Peach 30'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Uo0KefTdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Uo0KefTdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Uo0KefTdL._SL200_.jpg' ]
 comments: true
 category: ofertas

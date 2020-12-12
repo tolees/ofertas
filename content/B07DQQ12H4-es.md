@@ -3,6 +3,7 @@ layout: post
 title: 'TECCPO Soplador de Hojas  18V 2.0Ah Sopl al 64.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lJHui1ucL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lJHui1ucL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lJHui1ucL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'VIBOX Vision 2 - Ordenador para gaming   al 47.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SZMplXEUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SZMplXEUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SZMplXEUL._SL200_.jpg' ]
 comments: true
 category: ofertas

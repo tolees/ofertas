@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch 2 609 256 561 - Disco de fieltro d al 51.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3185PkQ600L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3185PkQ600L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3185PkQ600L._SL200_.jpg' ]
 comments: true
 category: ofertas

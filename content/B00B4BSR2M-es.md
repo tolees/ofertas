@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.37 % en Urban Classics 5 Pocket Pants  Pantalone'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JVZmHQWsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JVZmHQWsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JVZmHQWsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Viz Runner  Zapatillas de Running p al 30.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416jom-bGpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416jom-bGpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416jom-bGpL._SL200_.jpg' ]
 comments: true
 category: ofertas

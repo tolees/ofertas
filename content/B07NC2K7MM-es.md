@@ -3,6 +3,7 @@ layout: post
 title: 'Tous Clutch Carlata Plata-Rosa  Bolso de al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PItKNqcML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PItKNqcML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PItKNqcML._SL200_.jpg' ]
 comments: true
 category: ofertas

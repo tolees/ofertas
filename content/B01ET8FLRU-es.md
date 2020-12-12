@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.02 % en Star Ibaby Noa - Trona de bebes evolutiv'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bme%2BugMxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bme%2BugMxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bme%2BugMxL._SL200_.jpg' ]
 comments: true
 category: ofertas

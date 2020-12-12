@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Mochila ligera  10 L  para runni al 52.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4147QPW%2B7mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4147QPW%2B7mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4147QPW%2B7mL._SL200_.jpg' ]
 comments: true
 category: ofertas

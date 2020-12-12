@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.15 % en AQUA CONTROL Pistola bimateria con 8 For'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xVkuodPSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xVkuodPSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xVkuodPSL._SL200_.jpg' ]
 comments: true
 category: ofertas

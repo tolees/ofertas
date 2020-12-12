@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.58 % en Pingko Podómetro portátil con precisión '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RFMdhlLdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RFMdhlLdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RFMdhlLdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.06 % en JACK & JONES Jacstyle 2 Trunks 3 Pack Bó'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r4vPxjskL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51r4vPxjskL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r4vPxjskL._SL200_.jpg' ]
 comments: true
 category: ofertas

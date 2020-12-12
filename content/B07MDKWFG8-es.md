@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.12 % en ShinePick Cascos PS4 Camuflaje  Auricula'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DgNfHIUeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DgNfHIUeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DgNfHIUeL._SL200_.jpg' ]
 comments: true
 category: ofertas

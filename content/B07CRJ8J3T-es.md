@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.05 % en Pepe Jeans Cindy PG301107 Blusa    Multi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vgkYTMmIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vgkYTMmIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vgkYTMmIL._SL200_.jpg' ]
 comments: true
 category: ofertas

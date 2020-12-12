@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en New Balance 247v2  Zapatillas para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p1oSyPAsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p1oSyPAsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p1oSyPAsL._SL200_.jpg' ]
 comments: true
 category: ofertas

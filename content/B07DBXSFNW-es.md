@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Adela Jr  Zapatillas para Niñas  Ro al 50.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qWLlCSY1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qWLlCSY1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qWLlCSY1L._SL200_.jpg' ]
 comments: true
 category: ofertas

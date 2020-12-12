@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.00 % en Levis Footwear and Accessories Cypress  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WuhBbTqxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WuhBbTqxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WuhBbTqxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia MARAGAL Mid WP  Botas de Nieve  al 62.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O-2Oq4rjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O-2Oq4rjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O-2Oq4rjL._SL200_.jpg' ]
 comments: true
 category: ofertas

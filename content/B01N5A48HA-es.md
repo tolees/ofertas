@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.28 % en RED WAGON Gingham Dress Vestido para Niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SPoBw7F1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SPoBw7F1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SPoBw7F1L._SL200_.jpg' ]
 comments: true
 category: ofertas

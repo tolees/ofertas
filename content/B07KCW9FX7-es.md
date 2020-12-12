@@ -3,6 +3,7 @@ layout: post
 title: 'Amzdeal Soporte de Fondo 2 * 3m con 3 Fo al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EL9k6ixsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EL9k6ixsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EL9k6ixsL._SL200_.jpg' ]
 comments: true
 category: ofertas

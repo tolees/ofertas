@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS tee Camiseta  Hombre  Verde  La al 52.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X1MTgMWSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X1MTgMWSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X1MTgMWSL._SL200_.jpg' ]
 comments: true
 category: ofertas

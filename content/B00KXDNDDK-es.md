@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.82 % en Under Armour Cc Left Chest Lockup  Camis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zI3pNwY4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zI3pNwY4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zI3pNwY4L._SL200_.jpg' ]
 comments: true
 category: ofertas

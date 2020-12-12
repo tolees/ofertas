@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.99 % en Medisana MBH 88375 - Alfombra de Hidroma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rU2rUUH8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rU2rUUH8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rU2rUUH8L._SL200_.jpg' ]
 comments: true
 category: ofertas

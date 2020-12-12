@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.22 % en adidas CF1587 Camiseta  Hombre  Negro  X'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XMvhArFFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XMvhArFFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XMvhArFFL._SL200_.jpg' ]
 comments: true
 category: ofertas

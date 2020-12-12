@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.34 % en Burton Moto Boa Botas de Snowboard  Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tl7dBGe3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tl7dBGe3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tl7dBGe3L._SL200_.jpg' ]
 comments: true
 category: ofertas

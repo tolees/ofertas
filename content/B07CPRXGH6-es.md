@@ -3,6 +3,7 @@ layout: post
 title: 'Guess - Jade  Shoppers y bolsos de hombr al 40.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OEnA-MWZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OEnA-MWZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OEnA-MWZL._SL200_.jpg' ]
 comments: true
 category: ofertas

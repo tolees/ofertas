@@ -3,6 +3,7 @@ layout: post
 title: 'Only & Sons Onsloom Dk Blue Dcc 0442 Noo al 64.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tPzxg58NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tPzxg58NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tPzxg58NL._SL200_.jpg' ]
 comments: true
 category: ofertas

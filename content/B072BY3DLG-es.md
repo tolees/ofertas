@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.38 % en Under Armour Fly by Short Pantalón Corto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QoSJ5uglL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QoSJ5uglL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QoSJ5uglL._SL200_.jpg' ]
 comments: true
 category: ofertas

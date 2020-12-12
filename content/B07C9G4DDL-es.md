@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks - Teddington Way  Bolsos bandoler al 72.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zixfs9MxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zixfs9MxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zixfs9MxL._SL200_.jpg' ]
 comments: true
 category: ofertas

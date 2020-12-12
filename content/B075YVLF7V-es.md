@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel UMBX-KORYTHREEPACK Boxer Slip   S al 60.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZNEo1v%2B6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZNEo1v%2B6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZNEo1v%2B6L._SL200_.jpg' ]
 comments: true
 category: ofertas

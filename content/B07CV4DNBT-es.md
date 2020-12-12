@@ -3,6 +3,7 @@ layout: post
 title: 'Lahtak Toalla Playa Grande - Toalla Micr al 28.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tKhwdnygL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tKhwdnygL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tKhwdnygL._SL200_.jpg' ]
 comments: true
 category: ofertas

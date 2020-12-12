@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.38 % en Love Moschino - Borsa Calf Pu Avorio  Sh'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417zJQpaXlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417zJQpaXlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417zJQpaXlL._SL200_.jpg' ]
 comments: true
 category: ofertas

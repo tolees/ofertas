@@ -3,6 +3,7 @@ layout: post
 title: 'ANSIO Perchas Antideslizantes de Terciop al 38.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gIxGRE0CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gIxGRE0CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gIxGRE0CL._SL200_.jpg' ]
 comments: true
 category: ofertas

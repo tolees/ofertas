@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.53 % en LEGO Duplo Town - Puesto de Tiro al Blan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NU5jUSKwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NU5jUSKwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NU5jUSKwL._SL200_.jpg' ]
 comments: true
 category: ofertas

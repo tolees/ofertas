@@ -3,6 +3,7 @@ layout: post
 title: '20pcs / set Protector de Esquinas Protec al 37.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515Ymy9n43L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515Ymy9n43L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515Ymy9n43L._SL200_.jpg' ]
 comments: true
 category: ofertas

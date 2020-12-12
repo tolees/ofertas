@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.50 % en Helly Hansen Logo Cap - Gorra unisex  co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vUwa0Zf5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUwa0Zf5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vUwa0Zf5L._SL200_.jpg' ]
 comments: true
 category: ofertas

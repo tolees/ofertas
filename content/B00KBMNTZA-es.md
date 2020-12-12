@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.07 % en Leitz Minialtavoz portátil con Bluetooth'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HohzGNudL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HohzGNudL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HohzGNudL._SL200_.jpg' ]
 comments: true
 category: ofertas

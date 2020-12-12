@@ -3,6 +3,7 @@ layout: post
 title: 'Piz Buin - Proteccion Solar  Protect & C al 79.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QLZ2p-HJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QLZ2p-HJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QLZ2p-HJL._SL200_.jpg' ]
 comments: true
 category: ofertas

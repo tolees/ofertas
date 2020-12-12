@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.29 % en Timberland Exeter River Basic Crew Sudad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oNh-5Z9%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oNh-5Z9%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oNh-5Z9%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

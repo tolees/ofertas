@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.18 % en NK HAYWARD FUTURA BKPK - SOLID'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ON9VZdf0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ON9VZdf0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ON9VZdf0L._SL200_.jpg' ]
 comments: true
 category: ofertas

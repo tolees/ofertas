@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.47 % en Skechers You-Spirit  Zapatillas sin Cord'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qx9ffO4dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qx9ffO4dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qx9ffO4dL._SL200_.jpg' ]
 comments: true
 category: ofertas

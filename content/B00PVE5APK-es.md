@@ -3,6 +3,7 @@ layout: post
 title: 'D-Link DAP-1635 - Repetidor Amplificador al 49.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31e1QmB5rgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31e1QmB5rgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31e1QmB5rgL._SL200_.jpg' ]
 comments: true
 category: ofertas

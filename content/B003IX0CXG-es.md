@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.95 % en Wenko Toallero  Acero  Plateado  20x41x8'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Rtls8mo0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Rtls8mo0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Rtls8mo0L._SL200_.jpg' ]
 comments: true
 category: ofertas

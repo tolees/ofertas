@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.90 % en Sinner Gear Gancho anal con pelota - Jug'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gdT0pMTyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gdT0pMTyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gdT0pMTyL._SL200_.jpg' ]
 comments: true
 category: ofertas

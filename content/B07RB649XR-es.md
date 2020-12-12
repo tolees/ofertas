@@ -3,6 +3,7 @@ layout: post
 title: 'Alcachofa de Ducha LED  3 Modos Masaje C al 58.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FFl6hSs9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FFl6hSs9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FFl6hSs9L._SL200_.jpg' ]
 comments: true
 category: ofertas

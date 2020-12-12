@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.24 % en Only Onlvictory Contrast Bomber CC Otw C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PogL5xmwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PogL5xmwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PogL5xmwL._SL200_.jpg' ]
 comments: true
 category: ofertas

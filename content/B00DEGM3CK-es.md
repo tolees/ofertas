@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.02 % en Domiva 1900488 Set de 2 sábanas bajeras'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OBYQCuD7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31OBYQCuD7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OBYQCuD7L._SL200_.jpg' ]
 comments: true
 category: ofertas

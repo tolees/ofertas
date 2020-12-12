@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.01 % en XXL Set 3x250ml - Lubricante médico Play'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51euk49Zr2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51euk49Zr2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51euk49Zr2L._SL200_.jpg' ]
 comments: true
 category: ofertas

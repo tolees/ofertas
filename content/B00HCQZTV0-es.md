@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.54 % en Kerastase Elixir Ultime Masque À L Huile'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yloBkUKnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yloBkUKnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yloBkUKnL._SL200_.jpg' ]
 comments: true
 category: ofertas

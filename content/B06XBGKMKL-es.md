@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.42 % en Burton Space  Funda Snowboard Unisex Adu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Dujggb4tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Dujggb4tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Dujggb4tL._SL200_.jpg' ]
 comments: true
 category: ofertas

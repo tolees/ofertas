@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.33 % en Philips Plafón 71761/30/16  Azul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cS1xpMFeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cS1xpMFeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cS1xpMFeL._SL200_.jpg' ]
 comments: true
 category: ofertas

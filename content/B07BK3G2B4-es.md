@@ -3,6 +3,7 @@ layout: post
 title: 'Muzili Pulsera de Actividad Inteligente  al 56.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LI5n3o-XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LI5n3o-XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LI5n3o-XL._SL200_.jpg' ]
 comments: true
 category: ofertas

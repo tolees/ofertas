@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Graphic 78 T-Shirt Camiseta   al 59.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ayTXyMYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411ayTXyMYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ayTXyMYL._SL200_.jpg' ]
 comments: true
 category: ofertas

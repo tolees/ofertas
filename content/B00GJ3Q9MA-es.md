@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.48 % en Keter Excellence Armario bajo  Arena/Gri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WmLc99%2BAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WmLc99%2BAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WmLc99%2BAL._SL200_.jpg' ]
 comments: true
 category: ofertas

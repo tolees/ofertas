@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.63 % en Clarks Newkirk Top  Botines para Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RCffXBu2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RCffXBu2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RCffXBu2L._SL200_.jpg' ]
 comments: true
 category: ofertas

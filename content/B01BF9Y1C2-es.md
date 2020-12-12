@@ -3,6 +3,7 @@ layout: post
 title: 'HHG Falda Morado/Blanco S al 61.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RzCYTEo7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RzCYTEo7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RzCYTEo7L._SL200_.jpg' ]
 comments: true
 category: ofertas

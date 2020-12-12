@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.33 % en CREMA TATUAJE PREMIUM  Crema Tattoo espe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y9xxZSJeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Y9xxZSJeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y9xxZSJeL._SL200_.jpg' ]
 comments: true
 category: ofertas

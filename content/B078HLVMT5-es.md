@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 343374  Camisa Casual para H al 53.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qI4-S1iPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qI4-S1iPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qI4-S1iPL._SL200_.jpg' ]
 comments: true
 category: ofertas

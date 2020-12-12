@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.02 % en Women secret 4022823  Sujetador con Tira'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cg97WU-mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cg97WU-mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cg97WU-mL._SL200_.jpg' ]
 comments: true
 category: ofertas

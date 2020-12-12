@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG 73X Stripe 19 Bañador  Hombre  al 50.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MdkMF5MUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MdkMF5MUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MdkMF5MUL._SL200_.jpg' ]
 comments: true
 category: ofertas

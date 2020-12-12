@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.77 % en ONLY onlBARBARA PARKA JACKET OTW  Chaque'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VlwA7p98L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VlwA7p98L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VlwA7p98L._SL200_.jpg' ]
 comments: true
 category: ofertas

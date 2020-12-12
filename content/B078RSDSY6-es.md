@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.46 % en Nike Air MAX Nostalgic  Zapatillas de Gi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jPufL-haL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jPufL-haL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jPufL-haL._SL200_.jpg' ]
 comments: true
 category: ofertas

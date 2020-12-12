@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.86 % en Bollé Freeze Máscaras  Unisex Adulto  Bl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OCugmYXRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31OCugmYXRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OCugmYXRL._SL200_.jpg' ]
 comments: true
 category: ofertas

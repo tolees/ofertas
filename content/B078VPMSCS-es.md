@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.18 % en Asics Gel-Kayano Trainer EVO  Zapatillas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JJFGMk%2BBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JJFGMk%2BBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JJFGMk%2BBL._SL200_.jpg' ]
 comments: true
 category: ofertas

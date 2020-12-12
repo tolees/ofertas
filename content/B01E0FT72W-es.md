@@ -3,6 +3,7 @@ layout: post
 title: 'Garmin Zumo 345 LM Western - Navegador G al 25.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518BOeUI3GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518BOeUI3GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518BOeUI3GL._SL200_.jpg' ]
 comments: true
 category: ofertas

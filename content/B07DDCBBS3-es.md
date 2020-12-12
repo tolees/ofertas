@@ -3,6 +3,7 @@ layout: post
 title: 'Young & Ming Xiaomi Redmi Note 5 Funda   al 59.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510DNg6ULlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510DNg6ULlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510DNg6ULlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'DoGeek Chaussure Aquatique Zapatos de Ag al 43.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dE7wkIlgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dE7wkIlgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dE7wkIlgL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'FIND - Choco Rush  Lápiz iluminador de c al 47.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vaQ%2BqX1xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vaQ%2BqX1xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vaQ%2BqX1xL._SL200_.jpg' ]
 comments: true
 category: ofertas

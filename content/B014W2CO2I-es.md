@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.99 % en Bébé Confort Citi  Silla de coche grupo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uR3AXuOCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uR3AXuOCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uR3AXuOCL._SL200_.jpg' ]
 comments: true
 category: ofertas

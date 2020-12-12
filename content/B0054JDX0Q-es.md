@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.47 % en Highlander - Mochila de excursión Dublin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yl5dgpn6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yl5dgpn6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yl5dgpn6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Jamara Hillriser Crawler 4WD  2.4 GHz 41 al 39.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q5MLq2btL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q5MLq2btL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q5MLq2btL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SEVERIN Emulsionador de Leche  Calentado al 45.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310zWUEOVML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310zWUEOVML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310zWUEOVML._SL200_.jpg' ]
 comments: true
 category: ofertas

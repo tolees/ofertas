@@ -3,6 +3,7 @@ layout: post
 title: 'Orbegozo 16716 Ventilador de pie  45 W   al 32.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316mxND4v3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316mxND4v3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316mxND4v3L._SL200_.jpg' ]
 comments: true
 category: ofertas

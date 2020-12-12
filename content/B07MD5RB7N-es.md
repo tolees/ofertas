@@ -3,6 +3,7 @@ layout: post
 title: 'Beelink N41 Mini PC RAM 4GB ROM DDR4 64G al 66.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z%2B2SyWi1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31z%2B2SyWi1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z%2B2SyWi1L._SL200_.jpg' ]
 comments: true
 category: ofertas

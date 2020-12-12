@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.32 % en Sedeta Par de 5V de calefacción eléctric'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C2UCmQs1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C2UCmQs1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C2UCmQs1L._SL200_.jpg' ]
 comments: true
 category: ofertas

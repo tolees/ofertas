@@ -3,6 +3,7 @@ layout: post
 title: 'El potenciador de crecimiento de pestaña al 71.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n6ZHYqT3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n6ZHYqT3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n6ZHYqT3L._SL200_.jpg' ]
 comments: true
 category: ofertas

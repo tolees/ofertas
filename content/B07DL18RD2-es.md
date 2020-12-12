@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.56 % en Letook Maillots Ciclismo Hombre Conjunto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oEf2x2fqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oEf2x2fqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oEf2x2fqL._SL200_.jpg' ]
 comments: true
 category: ofertas

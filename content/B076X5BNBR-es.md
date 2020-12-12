@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.44 % en Geox U Mansel A  Zapatilla Baja para Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O%2Ba%2B4ZYWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O%2Ba%2B4ZYWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O%2Ba%2B4ZYWL._SL200_.jpg' ]
 comments: true
 category: ofertas

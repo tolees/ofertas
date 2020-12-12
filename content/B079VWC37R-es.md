@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler ARIZONA-W12OHY32D Vaqueros  Azu al 45.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HpoD%2By6iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HpoD%2By6iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HpoD%2By6iL._SL200_.jpg' ]
 comments: true
 category: ofertas

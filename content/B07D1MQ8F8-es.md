@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.35 % en Asics Aaron  Zapatillas para Hombre  Gri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O128UWs-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O128UWs-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O128UWs-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.22 % en Ocean Eye Gafas de Sol   Marrone   58 Un'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EJ9iR604L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EJ9iR604L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EJ9iR604L._SL200_.jpg' ]
 comments: true
 category: ofertas

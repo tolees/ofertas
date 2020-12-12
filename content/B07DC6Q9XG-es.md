@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Louise Sport  Zapatillas  al 70.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zLGiF3lpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zLGiF3lpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zLGiF3lpL._SL200_.jpg' ]
 comments: true
 category: ofertas

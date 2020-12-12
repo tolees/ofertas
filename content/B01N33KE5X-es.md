@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.55 % en Guzack Brazalete Deportivo para Moviles '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j5zWjim1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51j5zWjim1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j5zWjim1L._SL200_.jpg' ]
 comments: true
 category: ofertas

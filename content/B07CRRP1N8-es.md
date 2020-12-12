@@ -3,6 +3,7 @@ layout: post
 title: 'Selene Dalia Sujetador con Aros  Mujer   al 53.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bK8t%2BGorL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bK8t%2BGorL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bK8t%2BGorL._SL200_.jpg' ]
 comments: true
 category: ofertas

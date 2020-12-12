@@ -3,6 +3,7 @@ layout: post
 title: 'ToGames-ES Práctico budín de Magdalenas  al 95.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pvQY9SGwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pvQY9SGwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pvQY9SGwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'AmazonBasics - Juego de fundas de edredó al 25.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tRjH%2BuOFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tRjH%2BuOFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tRjH%2BuOFL._SL200_.jpg' ]
 comments: true
 category: ofertas

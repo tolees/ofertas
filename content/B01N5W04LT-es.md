@@ -3,6 +3,7 @@ layout: post
 title: 'San Ignacio Juego de Sartenes y Utensili al 63.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L-vtY4i6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L-vtY4i6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L-vtY4i6L._SL200_.jpg' ]
 comments: true
 category: ofertas

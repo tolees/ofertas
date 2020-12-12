@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Sellary Camiseta   Fantasy F14 al 49.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y9AyKPS0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y9AyKPS0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y9AyKPS0L._SL200_.jpg' ]
 comments: true
 category: ofertas

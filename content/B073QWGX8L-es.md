@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.25 % en Reebok Trainflex Lite  Zapatillas de Dep'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4109LrK96XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4109LrK96XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4109LrK96XL._SL200_.jpg' ]
 comments: true
 category: ofertas

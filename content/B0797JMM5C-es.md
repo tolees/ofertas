@@ -3,6 +3,7 @@ layout: post
 title: 'Dim AD0068M  Slip para Hombre   Gris 5w2 al 51.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XWsDDWh5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XWsDDWh5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XWsDDWh5L._SL200_.jpg' ]
 comments: true
 category: ofertas

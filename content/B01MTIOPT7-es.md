@@ -3,6 +3,7 @@ layout: post
 title: 'Thermaltake C1000 - Refrigerante Opaco   al 48.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TC9tb5-nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TC9tb5-nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TC9tb5-nL._SL200_.jpg' ]
 comments: true
 category: ofertas

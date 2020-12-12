@@ -3,6 +3,7 @@ layout: post
 title: 'Smartick 3D Album de Fotos al 37.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R0X%2Blw7VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51R0X%2Blw7VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51R0X%2Blw7VL._SL200_.jpg' ]
 comments: true
 category: ofertas

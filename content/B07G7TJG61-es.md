@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.23 % en Nike The Premier II  Zapatillas de fútbo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jmcPCI8LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jmcPCI8LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jmcPCI8LL._SL200_.jpg' ]
 comments: true
 category: ofertas

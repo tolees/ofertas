@@ -3,6 +3,7 @@ layout: post
 title: 'Izas Mijares Camiseta  Mujer  Blanco  S al 27.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ko5i-l1hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ko5i-l1hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ko5i-l1hL._SL200_.jpg' ]
 comments: true
 category: ofertas

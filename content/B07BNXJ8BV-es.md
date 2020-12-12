@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.66 % en ALDO Veassi  Zapatillas para Mujer  Negr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MAKgG39OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MAKgG39OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MAKgG39OL._SL200_.jpg' ]
 comments: true
 category: ofertas

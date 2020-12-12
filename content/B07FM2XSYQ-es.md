@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.95 % en COMVIP Mujeres Cuerda Adultos Multi-Wrap'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JSq1gtOPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JSq1gtOPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JSq1gtOPL._SL200_.jpg' ]
 comments: true
 category: ofertas

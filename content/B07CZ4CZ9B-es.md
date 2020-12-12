@@ -3,6 +3,7 @@ layout: post
 title: 'Puma TSUGI Cage  Zapatillas Unisex Adult al 78.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Esyrpdn1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Esyrpdn1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Esyrpdn1L._SL200_.jpg' ]
 comments: true
 category: ofertas

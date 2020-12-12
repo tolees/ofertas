@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Field Retro tee  Camiseta de Ti al 77.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kjFp5NrHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kjFp5NrHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kjFp5NrHL._SL200_.jpg' ]
 comments: true
 category: ofertas

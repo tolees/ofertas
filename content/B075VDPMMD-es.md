@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.53 % en resol Rita Set Infantil  1 Mesa Azul + 4'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jmtuwl3ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jmtuwl3ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jmtuwl3ML._SL200_.jpg' ]
 comments: true
 category: ofertas

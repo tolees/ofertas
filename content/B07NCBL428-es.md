@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.73 % en Pepe Jeans Art Camiseta  Gris  Grey Marl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4131LHn6-8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4131LHn6-8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4131LHn6-8L._SL200_.jpg' ]
 comments: true
 category: ofertas

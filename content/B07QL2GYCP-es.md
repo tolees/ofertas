@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.49 % en Adidas Ultraboost 19 Zapatillas para Cor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vu%2B67r8oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vu%2B67r8oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vu%2B67r8oL._SL200_.jpg' ]
 comments: true
 category: ofertas

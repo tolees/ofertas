@@ -3,6 +3,7 @@ layout: post
 title: 'Women s Secret SF Satin Soft Robe Vestid al 64.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Kc78cL5uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Kc78cL5uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Kc78cL5uL._SL200_.jpg' ]
 comments: true
 category: ofertas

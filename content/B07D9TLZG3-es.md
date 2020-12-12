@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Future 2.3 Netfit TT  Zapatillas de al 54.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l-2P4H-JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l-2P4H-JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l-2P4H-JL._SL200_.jpg' ]
 comments: true
 category: ofertas

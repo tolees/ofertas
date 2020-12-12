@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Yves Saint Laurent - Opium - Eau de Toil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qDGCWz3tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qDGCWz3tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qDGCWz3tL._SL200_.jpg' ]
 comments: true
 category: ofertas

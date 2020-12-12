@@ -3,6 +3,7 @@ layout: post
 title: 'NETGEAR ReadyNAS RN422E2-100NES - Dispos al 85.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qh5zMq%2BwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qh5zMq%2BwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qh5zMq%2BwL._SL200_.jpg' ]
 comments: true
 category: ofertas

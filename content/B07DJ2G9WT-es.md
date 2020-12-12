@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.40 % en New Balance 220  Zapatillas Unisex Adult'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f65bZi8IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f65bZi8IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f65bZi8IL._SL200_.jpg' ]
 comments: true
 category: ofertas

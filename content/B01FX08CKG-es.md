@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.34 % en Marco Tozzi Premio 23708  Zapatos de Cor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AvKSvycIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AvKSvycIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AvKSvycIL._SL200_.jpg' ]
 comments: true
 category: ofertas

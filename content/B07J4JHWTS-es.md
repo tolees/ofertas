@@ -3,6 +3,7 @@ layout: post
 title: 'OROPY Pajitas de Acero Inoxidable 2 cepi al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OyuFGnP3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OyuFGnP3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OyuFGnP3L._SL200_.jpg' ]
 comments: true
 category: ofertas

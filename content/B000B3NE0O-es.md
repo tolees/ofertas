@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.97 % en Etnies Kingpin - Zapatillas de skate par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wrGsHfzRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wrGsHfzRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wrGsHfzRL._SL200_.jpg' ]
 comments: true
 category: ofertas

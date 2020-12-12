@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Swift Run PK W CG4134  Zapatillas al 60.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TD610tLaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TD610tLaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TD610tLaL._SL200_.jpg' ]
 comments: true
 category: ofertas

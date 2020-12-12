@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.57 % en Pepe Jeans Saturn Vaqueros  Azul  10Oz S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PF7crqbNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PF7crqbNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PF7crqbNL._SL200_.jpg' ]
 comments: true
 category: ofertas

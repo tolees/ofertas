@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Tri Blend Tank Camiseta sin al 51.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GN2fyi09L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GN2fyi09L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GN2fyi09L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.94 % en Desigual - Bag Dark Amber Imperia Women '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Cd0TmCKXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Cd0TmCKXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Cd0TmCKXL._SL200_.jpg' ]
 comments: true
 category: ofertas

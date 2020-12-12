@@ -3,6 +3,7 @@ layout: post
 title: 'KSMYZX-Delantal  denim negro S-XXL multi al 54.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rkoZu-E4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rkoZu-E4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rkoZu-E4L._SL200_.jpg' ]
 comments: true
 category: ofertas

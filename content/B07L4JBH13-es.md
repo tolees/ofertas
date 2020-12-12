@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.15 % en FIND Suede Wallabee Mocasines  Azul Navy'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3191KpPQHgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3191KpPQHgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3191KpPQHgL._SL200_.jpg' ]
 comments: true
 category: ofertas

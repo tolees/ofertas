@@ -3,6 +3,7 @@ layout: post
 title: 'Johnson s -  Vita-Rich Gel de Ducha Reco al 39.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M-pmwzNpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M-pmwzNpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M-pmwzNpL._SL200_.jpg' ]
 comments: true
 category: ofertas

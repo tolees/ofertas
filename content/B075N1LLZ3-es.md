@@ -3,6 +3,7 @@ layout: post
 title: 'AGM Lámpara Solar Pared Exterior 12 LED  al 60.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TTv4mPmSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TTv4mPmSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TTv4mPmSL._SL200_.jpg' ]
 comments: true
 category: ofertas

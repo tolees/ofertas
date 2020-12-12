@@ -3,6 +3,7 @@ layout: post
 title: 'Zindoo Vinilos para Cristales Vinilo Ven al 37.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uKE2SVweL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uKE2SVweL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uKE2SVweL._SL200_.jpg' ]
 comments: true
 category: ofertas

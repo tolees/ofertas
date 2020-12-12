@@ -3,6 +3,7 @@ layout: post
 title: 'Lonely And Blue + At The Rock House + 7  al 62.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61d2DDRz-1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61d2DDRz-1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61d2DDRz-1L._SL200_.jpg' ]
 comments: true
 category: ofertas

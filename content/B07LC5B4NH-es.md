@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onllive Love Legging JRS Leggings   al 68.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319pm%2Bi6LLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319pm%2Bi6LLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319pm%2Bi6LLL._SL200_.jpg' ]
 comments: true
 category: ofertas

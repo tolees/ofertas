@@ -3,6 +3,7 @@ layout: post
 title: 'RH 170160 Martillo Peña Hr M/Fibra Cabez al 28.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lES1xvddL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lES1xvddL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lES1xvddL._SL200_.jpg' ]
 comments: true
 category: ofertas

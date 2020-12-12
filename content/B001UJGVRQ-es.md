@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Trunk_0000U2662G  Bóxer par al 57.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d-18sKAhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d-18sKAhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d-18sKAhL._SL200_.jpg' ]
 comments: true
 category: ofertas

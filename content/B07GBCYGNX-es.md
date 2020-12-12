@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Tepphar L.32 Pantaloni  Vaqueros  al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L8D8VmfkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L8D8VmfkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L8D8VmfkL._SL200_.jpg' ]
 comments: true
 category: ofertas

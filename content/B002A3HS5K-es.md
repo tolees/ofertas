@@ -3,6 +3,7 @@ layout: post
 title: 'Loewe 32910 - Eau de toilette para hombr al 54.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BrgIsdymL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BrgIsdymL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BrgIsdymL._SL200_.jpg' ]
 comments: true
 category: ofertas

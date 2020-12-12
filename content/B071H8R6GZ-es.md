@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiglenn Jjfelix Am 458 Pcw al 45.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311QfYN4GAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311QfYN4GAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311QfYN4GAL._SL200_.jpg' ]
 comments: true
 category: ofertas

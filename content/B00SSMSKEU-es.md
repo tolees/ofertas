@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.62 % en The Feathery Blended Highland Sherry Mal'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51x0E8AR%2BQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51x0E8AR%2BQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51x0E8AR%2BQL._SL200_.jpg' ]
 comments: true
 category: ofertas

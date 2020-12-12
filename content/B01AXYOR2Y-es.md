@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.86 % en Joma 900140.206 - Camiseta para Mujer  C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315YjdOXzlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315YjdOXzlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315YjdOXzlL._SL200_.jpg' ]
 comments: true
 category: ofertas

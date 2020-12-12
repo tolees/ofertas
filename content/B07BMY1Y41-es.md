@@ -3,6 +3,7 @@ layout: post
 title: 'Indeca - Bolsa 3DS Coca - Cola  Nintendo al 70.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UJIVQxh3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UJIVQxh3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UJIVQxh3L._SL200_.jpg' ]
 comments: true
 category: ofertas

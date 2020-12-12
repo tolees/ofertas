@@ -3,6 +3,7 @@ layout: post
 title: 'Ratón inalámbrico  Inphic Slim Silent Cl al 53.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QPaxoyrDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QPaxoyrDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QPaxoyrDL._SL200_.jpg' ]
 comments: true
 category: ofertas

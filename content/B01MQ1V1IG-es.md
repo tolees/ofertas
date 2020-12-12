@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.35 % en Lacoste Sport SH2128  Sudadera para Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419%2Bll3azuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419%2Bll3azuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419%2Bll3azuL._SL200_.jpg' ]
 comments: true
 category: ofertas

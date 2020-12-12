@@ -3,6 +3,7 @@ layout: post
 title: 'Ballistix Elite BLE8G4D34AEEAK - Memoria al 59.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51muizbo7RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51muizbo7RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51muizbo7RL._SL200_.jpg' ]
 comments: true
 category: ofertas

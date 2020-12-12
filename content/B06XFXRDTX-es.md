@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.24 % en Optoma dh401 – Proyector DLP  1080P Proy'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eySfDFzxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eySfDFzxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eySfDFzxL._SL200_.jpg' ]
 comments: true
 category: ofertas

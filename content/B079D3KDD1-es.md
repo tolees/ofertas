@@ -3,6 +3,7 @@ layout: post
 title: 'Little Trees mtr0076 Tropical Fragancia  al 29.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e6DO6KBDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e6DO6KBDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e6DO6KBDL._SL200_.jpg' ]
 comments: true
 category: ofertas

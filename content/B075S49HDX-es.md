@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Pantalón Corto de Deporte Hombre  N al 70.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411yMbZTcIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411yMbZTcIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411yMbZTcIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.60 % en Pdx Toyz Pipedream Extreme Masturbador F'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HnBXbGK6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HnBXbGK6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HnBXbGK6L._SL200_.jpg' ]
 comments: true
 category: ofertas

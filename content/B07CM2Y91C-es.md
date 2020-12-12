@@ -3,6 +3,7 @@ layout: post
 title: 'SYROKAN Sujetador Deportivo Gran Capacid al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CREBl7b0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CREBl7b0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CREBl7b0L._SL200_.jpg' ]
 comments: true
 category: ofertas

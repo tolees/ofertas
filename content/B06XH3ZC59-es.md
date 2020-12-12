@@ -3,6 +3,7 @@ layout: post
 title: 'find. Sandalias de Piel Abiertas para Mu al 66.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XjvkMu62L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XjvkMu62L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XjvkMu62L._SL200_.jpg' ]
 comments: true
 category: ofertas

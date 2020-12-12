@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Hombre M3666 .000.21842 Sudadera  al 64.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sff3BLdqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sff3BLdqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sff3BLdqL._SL200_.jpg' ]
 comments: true
 category: ofertas

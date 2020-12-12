@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Pique Polo  Verde  Faded Green Lf    al 49.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p2F9jascL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p2F9jascL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p2F9jascL._SL200_.jpg' ]
 comments: true
 category: ofertas

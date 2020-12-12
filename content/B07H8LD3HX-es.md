@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.67 % en San Ignacio PK1176 Hogar Cocina 3 Sarten'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ncsFRBXqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ncsFRBXqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ncsFRBXqL._SL200_.jpg' ]
 comments: true
 category: ofertas

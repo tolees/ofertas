@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Piro Polo  Gris  Medium Grey 037    al 30.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C9r6UfNcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31C9r6UfNcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C9r6UfNcL._SL200_.jpg' ]
 comments: true
 category: ofertas

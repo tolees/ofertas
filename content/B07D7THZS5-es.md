@@ -3,6 +3,7 @@ layout: post
 title: 'Lunvon Bombilla Bluetooth Inalámbrica Bl al 69.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411VyYlVBTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411VyYlVBTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411VyYlVBTL._SL200_.jpg' ]
 comments: true
 category: ofertas

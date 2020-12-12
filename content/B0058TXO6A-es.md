@@ -3,6 +3,7 @@ layout: post
 title: 'Portería Hinchable Bestway Water Polo al 35.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HNFX2Cm2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HNFX2Cm2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HNFX2Cm2L._SL200_.jpg' ]
 comments: true
 category: ofertas

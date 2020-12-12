@@ -3,6 +3,7 @@ layout: post
 title: 'VAUDE Pecki 14 Mochila  Unisex Niños   M al 36.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CpGNFlAjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CpGNFlAjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CpGNFlAjL._SL200_.jpg' ]
 comments: true
 category: ofertas

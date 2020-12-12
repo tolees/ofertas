@@ -3,6 +3,7 @@ layout: post
 title: 'Speedo Pool Side Bag Mochila  Unisex Adu al 28.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jqNnBM0bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jqNnBM0bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jqNnBM0bL._SL200_.jpg' ]
 comments: true
 category: ofertas

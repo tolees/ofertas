@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Modern Sports Boyfriend TeeG Camise al 58.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dQmUb1YrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dQmUb1YrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dQmUb1YrL._SL200_.jpg' ]
 comments: true
 category: ofertas

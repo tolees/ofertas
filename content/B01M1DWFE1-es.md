@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.35 % en Coca-Cola - Zero  Botella de Plástico 50'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416lCze1%2BHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416lCze1%2BHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416lCze1%2BHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.84 % en Funko Pop!- BTVS 25th: Giles  25199 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j12ydMVPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j12ydMVPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j12ydMVPL._SL200_.jpg' ]
 comments: true
 category: ofertas

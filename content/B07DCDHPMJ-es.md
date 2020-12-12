@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48155  Botas Clasicas para Hombre  N al 62.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kNN-qw1mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kNN-qw1mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kNN-qw1mL._SL200_.jpg' ]
 comments: true
 category: ofertas

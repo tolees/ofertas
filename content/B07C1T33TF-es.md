@@ -3,6 +3,7 @@ layout: post
 title: 'Ecco Bella  Botines para Mujer  Schwarz  al 57.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IoEI89eXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IoEI89eXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IoEI89eXL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Wx624Wb4 - entrenamiento/cor al 65.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dPBXfUYeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dPBXfUYeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dPBXfUYeL._SL200_.jpg' ]
 comments: true
 category: ofertas

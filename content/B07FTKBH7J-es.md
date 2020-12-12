@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett Cropped Vaqueros Skinny  Ma al 64.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ww-OoSf9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ww-OoSf9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ww-OoSf9L._SL200_.jpg' ]
 comments: true
 category: ofertas

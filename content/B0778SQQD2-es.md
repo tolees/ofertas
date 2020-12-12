@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.74 % en XTI 30704  Sandalia con Pulsera para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dqJm7eBaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dqJm7eBaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dqJm7eBaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Bergner Pk833 Infinity Chefs-Set de Cazo al 51.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514-ZHKJ-hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514-ZHKJ-hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514-ZHKJ-hL._SL200_.jpg' ]
 comments: true
 category: ofertas

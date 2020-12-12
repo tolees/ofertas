@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.28 % en H&B HB PY4303 RC Coche Trepador Control '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fZ7edjj3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fZ7edjj3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fZ7edjj3L._SL200_.jpg' ]
 comments: true
 category: ofertas

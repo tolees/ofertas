@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 6017/S Q2 TIZ 60  Gafas de  al 68.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RhMnlrknL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RhMnlrknL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RhMnlrknL._SL200_.jpg' ]
 comments: true
 category: ofertas

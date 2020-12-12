@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.95 % en Tommy Hilfiger Stretch Slim Fit tee Cami'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pnheaqYbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pnheaqYbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pnheaqYbL._SL200_.jpg' ]
 comments: true
 category: ofertas

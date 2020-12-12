@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.88 % en Philips Avent SCD620/01 - Vigilabebés co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414TBNIDiaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414TBNIDiaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414TBNIDiaL._SL200_.jpg' ]
 comments: true
 category: ofertas

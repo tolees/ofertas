@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy Da Rock Estuche Escolar  Mujer  Ver al 46.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4176zdy6jgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4176zdy6jgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4176zdy6jgL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Ziu Smart Items - Sevilla Fútbol Club  A al 49.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dl-UdHlvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dl-UdHlvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dl-UdHlvL._SL200_.jpg' ]
 comments: true
 category: ofertas

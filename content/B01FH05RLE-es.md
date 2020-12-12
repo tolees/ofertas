@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.95 % en Under Armour UA International Jacket Cha'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PHYxQ8OTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PHYxQ8OTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PHYxQ8OTL._SL200_.jpg' ]
 comments: true
 category: ofertas

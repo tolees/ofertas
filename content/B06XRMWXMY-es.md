@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.57 % en Panasonic ES-WE22-P503 - Lima electrica '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Jr-dPV0aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Jr-dPV0aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Jr-dPV0aL._SL200_.jpg' ]
 comments: true
 category: ofertas

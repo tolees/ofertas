@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Alaska Down Slim Hedley Wmn C al 78.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G8Vr4w1hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G8Vr4w1hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G8Vr4w1hL._SL200_.jpg' ]
 comments: true
 category: ofertas

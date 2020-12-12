@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.65 % en Puma Basket Platform VR  Zapatillas para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FE4SzI95L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FE4SzI95L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FE4SzI95L._SL200_.jpg' ]
 comments: true
 category: ofertas

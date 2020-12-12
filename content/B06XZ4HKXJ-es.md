@@ -3,6 +3,7 @@ layout: post
 title: 'Ukelele  Hricane Ukelele Soprano 21 Pulg al 62.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tIvaIDGSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tIvaIDGSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tIvaIDGSL._SL200_.jpg' ]
 comments: true
 category: ofertas

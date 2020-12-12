@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.91 % en Springfield Camiseta Bolsillo Lentejuela'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512e-Sv8JiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512e-Sv8JiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512e-Sv8JiL._SL200_.jpg' ]
 comments: true
 category: ofertas

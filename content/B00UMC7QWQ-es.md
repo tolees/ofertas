@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera - Gafas de sol Rectangulares 502 al 64.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WoZhJJlAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WoZhJJlAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WoZhJJlAL._SL200_.jpg' ]
 comments: true
 category: ofertas

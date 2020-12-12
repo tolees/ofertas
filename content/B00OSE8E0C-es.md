@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Vault Mochila  Unisex Adu al 39.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4196aW%2BW52L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4196aW%2BW52L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4196aW%2BW52L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.11 % en Columbia Canyon Cortavientos  Hombre  Co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I87-Zg0oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I87-Zg0oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I87-Zg0oL._SL200_.jpg' ]
 comments: true
 category: ofertas

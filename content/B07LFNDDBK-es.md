@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas PV19 1034GRIS Sudadera  al 45.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hNVt60ZoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hNVt60ZoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hNVt60ZoL._SL200_.jpg' ]
 comments: true
 category: ofertas

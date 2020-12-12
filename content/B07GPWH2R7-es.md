@@ -3,6 +3,7 @@ layout: post
 title: 'Naturalium PACK Higiene Corporal Limón - al 45.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L2ZQg%2BSnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L2ZQg%2BSnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L2ZQg%2BSnL._SL200_.jpg' ]
 comments: true
 category: ofertas

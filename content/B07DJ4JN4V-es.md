@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.33 % en United Colors of Benetton Jacket  Chaque'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h7RVuOshL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h7RVuOshL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h7RVuOshL._SL200_.jpg' ]
 comments: true
 category: ofertas

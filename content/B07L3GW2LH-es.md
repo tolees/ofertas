@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.55 % en AiHom Toalleros de Barra 550mm Autoadhes'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j1JelIhRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31j1JelIhRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j1JelIhRL._SL200_.jpg' ]
 comments: true
 category: ofertas

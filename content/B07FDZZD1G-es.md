@@ -3,6 +3,7 @@ layout: post
 title: 'Vodool Aspirador Inalámbrico  2 en 1 Asp al 40.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BKb0629IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BKb0629IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BKb0629IL._SL200_.jpg' ]
 comments: true
 category: ofertas

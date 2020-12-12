@@ -3,6 +3,7 @@ layout: post
 title: 'Homelody Extraíble Alcachofa de Cocina d al 33.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BUrOXOdAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BUrOXOdAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BUrOXOdAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas 107390 Vestido  Amarill al 54.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HvAI29%2BoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HvAI29%2BoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HvAI29%2BoL._SL200_.jpg' ]
 comments: true
 category: ofertas

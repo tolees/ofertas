@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.79 % en The North Face Y Jkt Chaqueta Snow Quest'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L9KlqTy2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L9KlqTy2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L9KlqTy2L._SL200_.jpg' ]
 comments: true
 category: ofertas

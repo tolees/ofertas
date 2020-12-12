@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en The North Face Ascentials TNF Gorro  Uni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jsu4xSVCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jsu4xSVCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jsu4xSVCL._SL200_.jpg' ]
 comments: true
 category: ofertas

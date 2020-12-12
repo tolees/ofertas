@@ -3,6 +3,7 @@ layout: post
 title: 'KICCOLY [3 pares] Cordones elásticos  co al 32.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P5Qig2RDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P5Qig2RDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P5Qig2RDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'DeWalt DWE4237-QS Mini-Amoladora 125 mm  al 33.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-DKnenJyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-DKnenJyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-DKnenJyL._SL200_.jpg' ]
 comments: true
 category: ofertas

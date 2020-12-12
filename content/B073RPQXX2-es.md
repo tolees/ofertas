@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.20 % en Helly Hansen HH Classic Wash Bag Organiz'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vlMi7F2-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vlMi7F2-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vlMi7F2-L._SL200_.jpg' ]
 comments: true
 category: ofertas

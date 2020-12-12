@@ -3,6 +3,7 @@ layout: post
 title: 'Antorcha LED  OxyLED Long Tube Recargabl al 77.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JH3ne9wtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JH3ne9wtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JH3ne9wtL._SL200_.jpg' ]
 comments: true
 category: ofertas

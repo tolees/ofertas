@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Energy Tech Tight Pantalones  Hombr al 56.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hSEza61dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hSEza61dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hSEza61dL._SL200_.jpg' ]
 comments: true
 category: ofertas

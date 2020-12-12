@@ -3,6 +3,7 @@ layout: post
 title: 'Cámara Polaroid 600 al 27.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BHWpf5ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BHWpf5ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BHWpf5ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

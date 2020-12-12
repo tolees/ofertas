@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.98 % en Cbx Etu 518002487 Silla de Paseo  0-15 k'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fU1sAA4oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fU1sAA4oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fU1sAA4oL._SL200_.jpg' ]
 comments: true
 category: ofertas

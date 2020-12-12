@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.00 % en FIND Frill Overlay Sudadera para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ekPwG8rAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ekPwG8rAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ekPwG8rAL._SL200_.jpg' ]
 comments: true
 category: ofertas

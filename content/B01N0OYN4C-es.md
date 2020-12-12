@@ -3,6 +3,7 @@ layout: post
 title: 'Retro Gaming - Player S Kit 6 En 1  PS4  al 63.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MCZFLH-RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MCZFLH-RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MCZFLH-RL._SL200_.jpg' ]
 comments: true
 category: ofertas

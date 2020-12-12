@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.08 % en Under Armour UA Tech Graphic Short Panta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UUqy6wLQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UUqy6wLQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UUqy6wLQL._SL200_.jpg' ]
 comments: true
 category: ofertas

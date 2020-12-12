@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.12 % en Alcatel A3 - Tablet de 10.1   HD IPS  Wi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R5G1VVgFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R5G1VVgFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R5G1VVgFL._SL200_.jpg' ]
 comments: true
 category: ofertas

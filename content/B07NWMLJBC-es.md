@@ -3,6 +3,7 @@ layout: post
 title: '[12 Piezas] Cerradura de Seguridad para  al 70.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SYNcq8B4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SYNcq8B4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SYNcq8B4L._SL200_.jpg' ]
 comments: true
 category: ofertas

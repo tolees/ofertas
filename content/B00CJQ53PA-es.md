@@ -3,6 +3,7 @@ layout: post
 title: 'Star Wars - Disfraz de Darth Vader para  al 75.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rrucYPwBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rrucYPwBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rrucYPwBL._SL200_.jpg' ]
 comments: true
 category: ofertas

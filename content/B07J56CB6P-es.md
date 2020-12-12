@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.75 % en Dockers Alpha Core Short Pantalones Cort'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PFtz0oXGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PFtz0oXGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PFtz0oXGL._SL200_.jpg' ]
 comments: true
 category: ofertas

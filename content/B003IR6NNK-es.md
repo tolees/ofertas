@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.63 % en APC Smart-UPS 750VA -  SMT750I - Sistema'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5122YqsNSyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5122YqsNSyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5122YqsNSyL._SL200_.jpg' ]
 comments: true
 category: ofertas

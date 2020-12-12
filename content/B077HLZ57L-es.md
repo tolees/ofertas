@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS Pique Polo Camiseta  Hombre  Ne al 45.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xsEW2wb9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xsEW2wb9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xsEW2wb9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.83 % en ROC Pro Renove - Fluido Anti Edad  Unifi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/214ahf5gLLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/214ahf5gLLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/214ahf5gLLL._SL200_.jpg' ]
 comments: true
 category: ofertas

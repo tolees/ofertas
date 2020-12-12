@@ -3,6 +3,7 @@ layout: post
 title: 'Muvit I/O MIOVRC001 - Gafas de Realidad  al 33.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wLHvO8qYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wLHvO8qYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wLHvO8qYL._SL200_.jpg' ]
 comments: true
 category: ofertas

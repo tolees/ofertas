@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Clamber Backpack Mochila Tipo Casua al 62.53 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

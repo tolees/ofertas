@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Express Runner 2.0  Zapatillas de al 41.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dMwvF9cGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dMwvF9cGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dMwvF9cGL._SL200_.jpg' ]
 comments: true
 category: ofertas

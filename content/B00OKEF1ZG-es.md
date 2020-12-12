@@ -3,6 +3,7 @@ layout: post
 title: 'Beautyblender Esponja Tono Black - 100 g al 30.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Sus1uAJzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Sus1uAJzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Sus1uAJzL._SL200_.jpg' ]
 comments: true
 category: ofertas

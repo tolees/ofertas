@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Mega NRGY Heather Knit Jr  Zapatill al 57.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dhpc-kSsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dhpc-kSsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dhpc-kSsL._SL200_.jpg' ]
 comments: true
 category: ofertas

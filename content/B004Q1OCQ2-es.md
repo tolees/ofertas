@@ -3,6 +3,7 @@ layout: post
 title: 'Vichy LIFTACTIV NOCHE 50ML al 33.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IhS%2B-QoxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IhS%2B-QoxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IhS%2B-QoxL._SL200_.jpg' ]
 comments: true
 category: ofertas

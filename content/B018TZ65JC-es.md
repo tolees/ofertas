@@ -3,6 +3,7 @@ layout: post
 title: 'Dormio - Colchón de Eliocel  140 x 190 x al 27.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bHvsuelbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bHvsuelbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bHvsuelbL._SL200_.jpg' ]
 comments: true
 category: ofertas

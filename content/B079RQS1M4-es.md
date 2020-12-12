@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.13 % en Pepe Jeans LUPPE PL952408  Vestido para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QUMC086cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QUMC086cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QUMC086cL._SL200_.jpg' ]
 comments: true
 category: ofertas

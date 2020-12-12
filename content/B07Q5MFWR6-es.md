@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.97 % en Lige Reloj de Los Hombres Moda Reloj de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZGMj6h6sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZGMj6h6sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZGMj6h6sL._SL200_.jpg' ]
 comments: true
 category: ofertas

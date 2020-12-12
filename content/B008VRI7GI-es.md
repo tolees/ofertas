@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.06 % en Clarins Blue Orchid - Tratamiento facial'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ao-AqiLKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ao-AqiLKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ao-AqiLKL._SL200_.jpg' ]
 comments: true
 category: ofertas

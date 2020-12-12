@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Ignite V2 Zapatillas de Running  Mu al 72.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519T5qDrXJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519T5qDrXJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519T5qDrXJL._SL200_.jpg' ]
 comments: true
 category: ofertas

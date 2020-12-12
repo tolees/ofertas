@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.86 % en Puma RS-0 Tracks  Zapatillas Unisex Adul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41toSKV0LWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41toSKV0LWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41toSKV0LWL._SL200_.jpg' ]
 comments: true
 category: ofertas

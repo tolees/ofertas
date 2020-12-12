@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.92 % en Only Onlindia 7/8 Pullover Knt  suéter M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kD01maUbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kD01maUbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kD01maUbL._SL200_.jpg' ]
 comments: true
 category: ofertas

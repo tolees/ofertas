@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit Accessoires 108ea1s005  Cinturón  al 82.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IqQjCKXDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IqQjCKXDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IqQjCKXDL._SL200_.jpg' ]
 comments: true
 category: ofertas

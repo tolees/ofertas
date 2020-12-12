@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.43 % en ⭐Sabana Bajera Ajustable 100% Poliéster '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RMpmSX6CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RMpmSX6CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RMpmSX6CL._SL200_.jpg' ]
 comments: true
 category: ofertas

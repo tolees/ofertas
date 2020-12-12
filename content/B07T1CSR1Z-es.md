@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.08 % en Funda Huawei Enjoy 6s/P9 Lite Smart/Nova'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WtzEbH8zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WtzEbH8zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WtzEbH8zL._SL200_.jpg' ]
 comments: true
 category: ofertas

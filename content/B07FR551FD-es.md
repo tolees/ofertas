@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.97 % en Clarks Dancer Nolin Zapatos de Tacón Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j6sXbQZYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31j6sXbQZYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j6sXbQZYL._SL200_.jpg' ]
 comments: true
 category: ofertas

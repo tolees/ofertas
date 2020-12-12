@@ -3,6 +3,7 @@ layout: post
 title: 'Champion Low Cut Shoe 1980 PU  Zapatilla al 39.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VmOW2bX5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VmOW2bX5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VmOW2bX5L._SL200_.jpg' ]
 comments: true
 category: ofertas

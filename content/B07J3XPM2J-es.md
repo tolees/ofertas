@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.70 % en Dim Shorty Sublim Mod Bañador  Rojo  Rou'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419hbnrvuML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419hbnrvuML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419hbnrvuML._SL200_.jpg' ]
 comments: true
 category: ofertas

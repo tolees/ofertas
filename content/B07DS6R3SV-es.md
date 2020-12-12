@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Workout Ready Knitted Pantalón Co al 48.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Etl-WIolL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Etl-WIolL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Etl-WIolL._SL200_.jpg' ]
 comments: true
 category: ofertas

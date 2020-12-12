@@ -3,6 +3,7 @@ layout: post
 title: 'Bugatti 4.32636E+11  Zapatillas Altas pa al 63.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4123Z1Fn69L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4123Z1Fn69L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4123Z1Fn69L._SL200_.jpg' ]
 comments: true
 category: ofertas

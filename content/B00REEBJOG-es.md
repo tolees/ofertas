@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.40 % en Piquadro CA3349P15 Mochila  Diseño de Po'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KwIRf3z9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KwIRf3z9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KwIRf3z9L._SL200_.jpg' ]
 comments: true
 category: ofertas

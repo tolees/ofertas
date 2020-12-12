@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Jersey Rayas Botones Hombros al 64.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ef67u6B5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ef67u6B5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ef67u6B5L._SL200_.jpg' ]
 comments: true
 category: ofertas

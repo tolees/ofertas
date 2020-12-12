@@ -3,6 +3,7 @@ layout: post
 title: 'AGM Luz Solar Pared 12 LED Lámpara de Pa al 58.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z7uDWcDpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z7uDWcDpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z7uDWcDpL._SL200_.jpg' ]
 comments: true
 category: ofertas

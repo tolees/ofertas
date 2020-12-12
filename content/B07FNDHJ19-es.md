@@ -3,6 +3,7 @@ layout: post
 title: 'Organizador Zapatos  HOBFU 10 PACKS Crea al 25.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zgTjyNcDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zgTjyNcDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zgTjyNcDL._SL200_.jpg' ]
 comments: true
 category: ofertas

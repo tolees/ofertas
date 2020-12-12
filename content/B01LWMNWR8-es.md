@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en Aspirador De Mano Inalámbrica Versión Me'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Rhoh5Tm1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Rhoh5Tm1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Rhoh5Tm1L._SL200_.jpg' ]
 comments: true
 category: ofertas

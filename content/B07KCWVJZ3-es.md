@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley W One & Only Rashguard L/S LYCRAS al 63.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314ePGVSH5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314ePGVSH5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314ePGVSH5L._SL200_.jpg' ]
 comments: true
 category: ofertas

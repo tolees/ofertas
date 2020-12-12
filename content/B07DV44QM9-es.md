@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.07 % en Columbia Wayfinder  Zapatillas de Sender'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lf88S25xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Lf88S25xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lf88S25xL._SL200_.jpg' ]
 comments: true
 category: ofertas

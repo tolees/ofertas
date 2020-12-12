@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.39 % en Toshiba CT1368-PH - Memoria USB de 32 GB'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tNFv7KP9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tNFv7KP9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tNFv7KP9L._SL200_.jpg' ]
 comments: true
 category: ofertas

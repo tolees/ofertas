@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.04 % en Colgate Pasta de dientes - 75 ml.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nxwyXAhaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nxwyXAhaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nxwyXAhaL._SL200_.jpg' ]
 comments: true
 category: ofertas

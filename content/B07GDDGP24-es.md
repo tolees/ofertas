@@ -3,6 +3,7 @@ layout: post
 title: 'DECMAY Cortinas de Baño Resistente al Ag al 66.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Xav5kwJYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Xav5kwJYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Xav5kwJYL._SL200_.jpg' ]
 comments: true
 category: ofertas

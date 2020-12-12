@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.79 % en Qomolo Lámpara Anti Mosquitos  Mata Mosq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SVPjCdeML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SVPjCdeML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SVPjCdeML._SL200_.jpg' ]
 comments: true
 category: ofertas

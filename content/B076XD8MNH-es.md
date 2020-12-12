@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.78 % en Geox J Alonisso F  Zapatillas Altas para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oNVG6L5lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oNVG6L5lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oNVG6L5lL._SL200_.jpg' ]
 comments: true
 category: ofertas

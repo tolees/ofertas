@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.01 % en Helly Hansen Crew Chaqueta  Hombre   Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RAX1VbyzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RAX1VbyzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RAX1VbyzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 005  Zapatillas de Running p al 65.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ca15UwRqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ca15UwRqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ca15UwRqL._SL200_.jpg' ]
 comments: true
 category: ofertas

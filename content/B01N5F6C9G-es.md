@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.64 % en Under Armour Basketball Shoes Ua Drive 4'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JnyrxrDhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JnyrxrDhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JnyrxrDhL._SL200_.jpg' ]
 comments: true
 category: ofertas

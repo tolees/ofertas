@@ -3,6 +3,7 @@ layout: post
 title: 'Alex Perry collares mujer cadena de plat al 100.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XV1RqU1jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XV1RqU1jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XV1RqU1jL._SL200_.jpg' ]
 comments: true
 category: ofertas

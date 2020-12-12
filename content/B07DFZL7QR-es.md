@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmfreeze Brush Parka Noos  Muj al 66.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BGPHUr4FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BGPHUr4FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BGPHUr4FL._SL200_.jpg' ]
 comments: true
 category: ofertas

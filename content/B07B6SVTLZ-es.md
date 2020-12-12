@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Midweight Crew Camiseta Térmica   al 56.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QwRu6ybIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QwRu6ybIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QwRu6ybIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Rieker 21083  Sandalias de Punta Descubi al 34.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BQgV4exuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BQgV4exuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BQgV4exuL._SL200_.jpg' ]
 comments: true
 category: ofertas

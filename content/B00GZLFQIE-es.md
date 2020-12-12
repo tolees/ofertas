@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.39 % en Bosch 06008A5C01 Cutting Edge Wireless P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AWn0KAyQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AWn0KAyQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AWn0KAyQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.10 % en Nike Team Hustle D 8  GS   Zapatos de Ba'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cuifrkk6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cuifrkk6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cuifrkk6L._SL200_.jpg' ]
 comments: true
 category: ofertas

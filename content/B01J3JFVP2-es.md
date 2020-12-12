@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.25 % en Columbia Sudadera CSC Check The Buffalo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-3Wx%2Bq8cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-3Wx%2Bq8cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-3Wx%2Bq8cL._SL200_.jpg' ]
 comments: true
 category: ofertas

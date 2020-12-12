@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 92.18 % en Abeba Crawler Zapatos/Blanco Gris S1 Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MpPWhtvLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MpPWhtvLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MpPWhtvLL._SL200_.jpg' ]
 comments: true
 category: ofertas

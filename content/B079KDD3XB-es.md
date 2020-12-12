@@ -3,6 +3,7 @@ layout: post
 title: 'ROCONTRIP Máscara de Buceo  Máscara de S al 49.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z71YBpD3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z71YBpD3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z71YBpD3L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Sport 3P - Calcetines unisex  Gris  al 25.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Az7KP8zGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Az7KP8zGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Az7KP8zGL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.47 % en Portatodo Los Vengadores Marvel Team cil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yGC55wsbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yGC55wsbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yGC55wsbL._SL200_.jpg' ]
 comments: true
 category: ofertas

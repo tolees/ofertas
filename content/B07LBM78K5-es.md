@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.84 % en Napapijri NOTO 2 Pantalones Cortos Azul '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j4F-gdAdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31j4F-gdAdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j4F-gdAdL._SL200_.jpg' ]
 comments: true
 category: ofertas

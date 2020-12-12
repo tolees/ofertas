@@ -3,6 +3,7 @@ layout: post
 title: 'Philips 12961B2 Lámpara Piloto de Matríc al 75.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412vXeyvcJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412vXeyvcJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412vXeyvcJL._SL200_.jpg' ]
 comments: true
 category: ofertas

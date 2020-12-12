@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Levis 200sf Denim Brief 2p Bóxer  al 38.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510FSeROGjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510FSeROGjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510FSeROGjL._SL200_.jpg' ]
 comments: true
 category: ofertas

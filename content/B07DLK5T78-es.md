@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.21 % en Springfield 4.2.T.MD.Falda Botonadura Fa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-akxEL2lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-akxEL2lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-akxEL2lL._SL200_.jpg' ]
 comments: true
 category: ofertas

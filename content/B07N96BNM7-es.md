@@ -3,6 +3,7 @@ layout: post
 title: 'ASUS ROG Strix Scar II GL504GM-ES327T -  al 33.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J94AepzJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J94AepzJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J94AepzJL._SL200_.jpg' ]
 comments: true
 category: ofertas

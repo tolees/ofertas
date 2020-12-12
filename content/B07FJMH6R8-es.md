@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.00 % en Zanmini Vaporera de verduras  Vaporera v'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412x-b9jcSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412x-b9jcSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412x-b9jcSL._SL200_.jpg' ]
 comments: true
 category: ofertas

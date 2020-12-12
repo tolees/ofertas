@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.59 % en Funko Pop!- Tron Figura de Vinilo   Stan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z-8DtOlyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z-8DtOlyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z-8DtOlyL._SL200_.jpg' ]
 comments: true
 category: ofertas

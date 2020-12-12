@@ -3,6 +3,7 @@ layout: post
 title: 'Linksys EA6350-EJ - Router inalámbrico S al 60.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DTBKM9c4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DTBKM9c4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DTBKM9c4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SHOE THE BEAR Ellen Fur L  Botas para Mu al 66.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NV7GXDX7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NV7GXDX7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NV7GXDX7L._SL200_.jpg' ]
 comments: true
 category: ofertas

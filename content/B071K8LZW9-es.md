@@ -3,6 +3,7 @@ layout: post
 title: 'Hoppe 10760880hoppe Ventana Mango Atlant al 41.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311NvLs2HgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311NvLs2HgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311NvLs2HgL._SL200_.jpg' ]
 comments: true
 category: ofertas

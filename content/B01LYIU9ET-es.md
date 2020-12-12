@@ -3,6 +3,7 @@ layout: post
 title: '3 Claveles 12566 Tijera Peluquería de 5. al 32.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Gd%2BkukhYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Gd%2BkukhYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Gd%2BkukhYL._SL200_.jpg' ]
 comments: true
 category: ofertas

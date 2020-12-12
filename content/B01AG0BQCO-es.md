@@ -3,6 +3,7 @@ layout: post
 title: 'Abus 60/50 KA6054 - Candado latón de 50m al 69.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WRs%2Bl5tqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WRs%2Bl5tqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WRs%2Bl5tqL._SL200_.jpg' ]
 comments: true
 category: ofertas

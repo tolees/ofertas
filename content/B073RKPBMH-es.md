@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlriga Utility Shirt Solid Wvn  Bl al 71.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o5I5QhwqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o5I5QhwqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o5I5QhwqL._SL200_.jpg' ]
 comments: true
 category: ofertas

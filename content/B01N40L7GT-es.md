@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.96 % en IRIS & LILLY Camiseta de Tirantes Body N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wSZFxDbQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wSZFxDbQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wSZFxDbQL._SL200_.jpg' ]
 comments: true
 category: ofertas

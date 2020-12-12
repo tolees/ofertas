@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.01 % en Calzado de Trabajo Hombre Mujer Zapatill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gG3ahqmQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gG3ahqmQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gG3ahqmQL._SL200_.jpg' ]
 comments: true
 category: ofertas

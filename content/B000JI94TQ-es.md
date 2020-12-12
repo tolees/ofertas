@@ -3,6 +3,7 @@ layout: post
 title: 'Burg-Wächter 3877Ni Buzón de Acero Inoxi al 31.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K53WG1A1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K53WG1A1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K53WG1A1L._SL200_.jpg' ]
 comments: true
 category: ofertas

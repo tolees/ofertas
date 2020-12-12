@@ -3,6 +3,7 @@ layout: post
 title: 'Shuzhen Dispensador de Agua para Mascota al 27.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fCg3O9eHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fCg3O9eHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fCg3O9eHL._SL200_.jpg' ]
 comments: true
 category: ofertas

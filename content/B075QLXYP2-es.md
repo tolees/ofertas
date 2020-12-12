@@ -3,6 +3,7 @@ layout: post
 title: 'Vampirina-78085 Spokylele   78085  al 77.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51juiWqVf0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51juiWqVf0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51juiWqVf0L._SL200_.jpg' ]
 comments: true
 category: ofertas

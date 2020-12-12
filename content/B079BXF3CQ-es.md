@@ -3,6 +3,7 @@ layout: post
 title: 'Millet Elevation GTX  Botas de Senderism al 63.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ttg5BvkKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ttg5BvkKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ttg5BvkKL._SL200_.jpg' ]
 comments: true
 category: ofertas

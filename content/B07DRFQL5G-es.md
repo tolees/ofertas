@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.56 % en Kipling Wearable Set Organizador de Bols'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hRq9HTQ4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hRq9HTQ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hRq9HTQ4L._SL200_.jpg' ]
 comments: true
 category: ofertas

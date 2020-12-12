@@ -3,6 +3,7 @@ layout: post
 title: 'Rizador de Pelo  Plancha Rizadora  Keali al 40.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EX8GSv8aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EX8GSv8aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EX8GSv8aL._SL200_.jpg' ]
 comments: true
 category: ofertas

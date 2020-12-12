@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.28 % en Pepe Jeans Raury  Camiseta para Niños  R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4148iROS19L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4148iROS19L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4148iROS19L._SL200_.jpg' ]
 comments: true
 category: ofertas

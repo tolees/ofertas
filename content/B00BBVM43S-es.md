@@ -3,6 +3,7 @@ layout: post
 title: 'Beppi Casual  Mocasines para Hombre  Azu al 64.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t4wWKFx-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t4wWKFx-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t4wWKFx-L._SL200_.jpg' ]
 comments: true
 category: ofertas

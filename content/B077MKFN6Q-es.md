@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlecco Short Emb. Utility Jacket O al 82.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VVuq%2B0r1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VVuq%2B0r1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VVuq%2B0r1L._SL200_.jpg' ]
 comments: true
 category: ofertas

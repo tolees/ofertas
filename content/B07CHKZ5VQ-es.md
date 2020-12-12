@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.18 % en BOSS Mypop Camisa Blanco  White 100  Med'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41533etMYXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41533etMYXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41533etMYXL._SL200_.jpg' ]
 comments: true
 category: ofertas

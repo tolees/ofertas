@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.51 % en Bestrans Traductor de Voz Inteligente  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cpkI-merL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cpkI-merL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cpkI-merL._SL200_.jpg' ]
 comments: true
 category: ofertas

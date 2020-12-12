@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.00 % en Metabo DS 125 - Esmeriladora doble  disc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ssVc2IhSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ssVc2IhSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ssVc2IhSL._SL200_.jpg' ]
 comments: true
 category: ofertas

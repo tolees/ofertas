@@ -3,6 +3,7 @@ layout: post
 title: 'Abus 592225 FG110 B - Manilla con Cerroj al 32.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XbaY6qOcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XbaY6qOcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XbaY6qOcL._SL200_.jpg' ]
 comments: true
 category: ofertas

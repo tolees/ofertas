@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.84 % en Suaoki - Pulsioxímetro de Dedo Oxímetro '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p9DKNBM7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p9DKNBM7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p9DKNBM7L._SL200_.jpg' ]
 comments: true
 category: ofertas

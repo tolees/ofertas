@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.52 % en Joma Nobel Pantalón de equipación  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rzaiUwzIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rzaiUwzIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rzaiUwzIL._SL200_.jpg' ]
 comments: true
 category: ofertas

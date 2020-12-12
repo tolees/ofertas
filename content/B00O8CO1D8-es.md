@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Brama Classic - Camiseta térmica de al 54.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PghLLATtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PghLLATtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PghLLATtL._SL200_.jpg' ]
 comments: true
 category: ofertas

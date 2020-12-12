@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.40 % en Optimum Nutrition Gold Standard 100% Whe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510uQFDCAKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510uQFDCAKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510uQFDCAKL._SL200_.jpg' ]
 comments: true
 category: ofertas

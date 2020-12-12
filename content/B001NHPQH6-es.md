@@ -3,6 +3,7 @@ layout: post
 title: 'Hoffmann 0013344  - Beeboo bola de segui al 50.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sjd2Ti1AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sjd2Ti1AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sjd2Ti1AL._SL200_.jpg' ]
 comments: true
 category: ofertas

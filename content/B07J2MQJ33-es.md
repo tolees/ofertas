@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 86.68 % en ASICS Light Jersey Pants Pantalones de D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319bVBJ8RZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319bVBJ8RZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319bVBJ8RZL._SL200_.jpg' ]
 comments: true
 category: ofertas

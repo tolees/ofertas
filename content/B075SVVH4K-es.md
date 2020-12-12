@@ -3,6 +3,7 @@ layout: post
 title: 'Omars USB C Hub 8 en 1 HDMI  Ethernet RJ al 58.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51l9anV-OrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51l9anV-OrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51l9anV-OrL._SL200_.jpg' ]
 comments: true
 category: ofertas

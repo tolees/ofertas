@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.80 % en Volcom Men s Frickin Modern Stretch Chin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316Kd6TB9AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316Kd6TB9AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316Kd6TB9AL._SL200_.jpg' ]
 comments: true
 category: ofertas

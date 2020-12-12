@@ -3,6 +3,7 @@ layout: post
 title: 'American Crew Gel De Afeitar - 150 ml. al 27.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416eviHTxSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416eviHTxSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416eviHTxSL._SL200_.jpg' ]
 comments: true
 category: ofertas

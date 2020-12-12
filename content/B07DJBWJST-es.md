@@ -3,6 +3,7 @@ layout: post
 title: 'FREESOO Base de Conexión Docking Station al 60.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41arEy820JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41arEy820JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41arEy820JL._SL200_.jpg' ]
 comments: true
 category: ofertas

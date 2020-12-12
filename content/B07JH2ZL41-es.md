@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Evostripe Evoknit tee Camiseta  Hom al 59.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1t-ReC7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1t-ReC7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y1t-ReC7L._SL200_.jpg' ]
 comments: true
 category: ofertas

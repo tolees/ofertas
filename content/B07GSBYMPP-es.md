@@ -3,6 +3,7 @@ layout: post
 title: 'Cepillo de ducha exfoliante a prueba de  al 61.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KgcD57rhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KgcD57rhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KgcD57rhL._SL200_.jpg' ]
 comments: true
 category: ofertas

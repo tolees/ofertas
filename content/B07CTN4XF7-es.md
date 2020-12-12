@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.38 % en HUGO Elisha01 Camisa  Azul  Navy 413   X'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Vd4Dw2BsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Vd4Dw2BsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Vd4Dw2BsL._SL200_.jpg' ]
 comments: true
 category: ofertas

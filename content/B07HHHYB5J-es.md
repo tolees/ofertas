@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.20 % en Lee Rider Vaqueros Slim  Gris  Birch DE '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H7WznsifL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H7WznsifL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H7WznsifL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'RENBERG TWISTER- SET 15 BOLES CRISTAL -  al 60.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m2t0jmHqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51m2t0jmHqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m2t0jmHqL._SL200_.jpg' ]
 comments: true
 category: ofertas

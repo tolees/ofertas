@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Go Walk 4-Reward  Entrenadores  al 43.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412K-wYfnkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412K-wYfnkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412K-wYfnkL._SL200_.jpg' ]
 comments: true
 category: ofertas

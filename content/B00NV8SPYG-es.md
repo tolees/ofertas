@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Pantalón Gris Oscuro ES 38 al 76.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31E3op2v4xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31E3op2v4xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31E3op2v4xL._SL200_.jpg' ]
 comments: true
 category: ofertas

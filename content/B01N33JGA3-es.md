@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi 25119  Botas Chukka para Muj al 79.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yp%2B5lYj8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yp%2B5lYj8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yp%2B5lYj8L._SL200_.jpg' ]
 comments: true
 category: ofertas

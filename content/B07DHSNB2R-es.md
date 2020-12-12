@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.44 % en DC Shoes Star Sudadera  Hombre  Verde  P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t68OgTSwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t68OgTSwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t68OgTSwL._SL200_.jpg' ]
 comments: true
 category: ofertas

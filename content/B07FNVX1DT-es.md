@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 108cc2g016  Chaqueta para  al 57.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419YdH7fRYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419YdH7fRYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419YdH7fRYL._SL200_.jpg' ]
 comments: true
 category: ofertas

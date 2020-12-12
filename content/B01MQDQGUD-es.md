@@ -3,6 +3,7 @@ layout: post
 title: 'Gardena 18424-20 - Manguera espiral  10  al 30.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mmC4JVzLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mmC4JVzLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mmC4JVzLL._SL200_.jpg' ]
 comments: true
 category: ofertas

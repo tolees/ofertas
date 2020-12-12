@@ -3,6 +3,7 @@ layout: post
 title: 'Linksys WUSB6300-EJ - Adaptador USB Wire al 88.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Y-X2TvhZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21Y-X2TvhZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Y-X2TvhZL._SL200_.jpg' ]
 comments: true
 category: ofertas

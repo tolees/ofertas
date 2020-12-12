@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste L2692 001 54 Monturas de gafas   al 38.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317gg7%2BNcEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317gg7%2BNcEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317gg7%2BNcEL._SL200_.jpg' ]
 comments: true
 category: ofertas

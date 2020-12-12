@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.21 % en Tommy Hilfiger Big Scale Relaxed Fit tee'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u8ZcdZkbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31u8ZcdZkbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u8ZcdZkbL._SL200_.jpg' ]
 comments: true
 category: ofertas

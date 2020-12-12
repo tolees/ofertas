@@ -3,6 +3,7 @@ layout: post
 title: 'Rompecabezas Puzzles Infantiles Mosaicos al 47.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Pwy0152uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Pwy0152uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Pwy0152uL._SL200_.jpg' ]
 comments: true
 category: ofertas

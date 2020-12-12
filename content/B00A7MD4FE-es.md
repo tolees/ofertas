@@ -3,6 +3,7 @@ layout: post
 title: 'Legrand LEG50651 - Regleta de 4 enchufes al 28.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ttqZ3ycCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ttqZ3ycCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ttqZ3ycCL._SL200_.jpg' ]
 comments: true
 category: ofertas

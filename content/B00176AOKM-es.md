@@ -3,6 +3,7 @@ layout: post
 title: 'Umbra 020390-390 Aquala Bandeja para bañ al 37.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415K%2BAqeE4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415K%2BAqeE4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415K%2BAqeE4L._SL200_.jpg' ]
 comments: true
 category: ofertas

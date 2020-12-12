@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.57 % en Dynasty Warriors 9'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61CKIGhjCJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61CKIGhjCJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61CKIGhjCJL._SL200_.jpg' ]
 comments: true
 category: ofertas

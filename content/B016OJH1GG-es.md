@@ -3,6 +3,7 @@ layout: post
 title: 'NAOKO Vestido At10 Caqui/Verde/Marrón S al 86.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dETss1EUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dETss1EUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dETss1EUL._SL200_.jpg' ]
 comments: true
 category: ofertas

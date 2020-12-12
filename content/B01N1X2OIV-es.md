@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Messi 16.3 AG  Botas de fútbol pa al 59.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41imv-1oahL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41imv-1oahL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41imv-1oahL._SL200_.jpg' ]
 comments: true
 category: ofertas

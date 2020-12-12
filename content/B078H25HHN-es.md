@@ -3,6 +3,7 @@ layout: post
 title: 'Trucco TT16AH1 Jersey  Verde Medio  Medi al 75.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jRmORevqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jRmORevqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jRmORevqL._SL200_.jpg' ]
 comments: true
 category: ofertas

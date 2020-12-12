@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Gambix  Sandalias de Punta Desc al 40.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LX8pCLCWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LX8pCLCWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LX8pCLCWL._SL200_.jpg' ]
 comments: true
 category: ofertas

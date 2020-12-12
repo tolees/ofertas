@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcorotto Sweat Hood Capucha al 60.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ur4OFe3VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ur4OFe3VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ur4OFe3VL._SL200_.jpg' ]
 comments: true
 category: ofertas

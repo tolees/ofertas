@@ -3,6 +3,7 @@ layout: post
 title: 'Sony MDR-1AM2S - Auriculares inalámbrico al 44.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bkR39ZwdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bkR39ZwdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bkR39ZwdL._SL200_.jpg' ]
 comments: true
 category: ofertas

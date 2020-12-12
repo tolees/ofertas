@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.88 % en Levi s Levis 168SF Regular Cut Micro Str'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zoIYlFDlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zoIYlFDlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zoIYlFDlL._SL200_.jpg' ]
 comments: true
 category: ofertas

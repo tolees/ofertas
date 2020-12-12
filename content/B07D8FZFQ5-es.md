@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel 084Uj  Vaqueros Skinny para Hombr al 51.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hRLswH5QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hRLswH5QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hRLswH5QL._SL200_.jpg' ]
 comments: true
 category: ofertas

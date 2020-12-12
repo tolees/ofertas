@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face M Tanken Full Zip Chaquet al 63.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BrSV7rFSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BrSV7rFSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BrSV7rFSL._SL200_.jpg' ]
 comments: true
 category: ofertas

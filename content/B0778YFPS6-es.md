@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 47942  Sandalias con Punta Abierta p al 48.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mmOtUaUAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mmOtUaUAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mmOtUaUAL._SL200_.jpg' ]
 comments: true
 category: ofertas

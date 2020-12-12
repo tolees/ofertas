@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.42 % en Skechers Side Street-Ostmoor  Zapatillas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319P15gonoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319P15gonoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319P15gonoL._SL200_.jpg' ]
 comments: true
 category: ofertas

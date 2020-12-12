@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi Premio 23733  Zapatos de Ves al 80.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-sm5G6sgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-sm5G6sgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-sm5G6sgL._SL200_.jpg' ]
 comments: true
 category: ofertas

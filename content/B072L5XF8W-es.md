@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit - 087ea1o067  Shoppers y bolsos d al 73.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BJAnAt1WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BJAnAt1WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BJAnAt1WL._SL200_.jpg' ]
 comments: true
 category: ofertas

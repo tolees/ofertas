@@ -3,6 +3,7 @@ layout: post
 title: 'Thomas Earnshaw Smart Watch Armbanduhr E al 68.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fHR4pWhFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fHR4pWhFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fHR4pWhFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.88 % en Puma Sport Cush Crew 6P  Calcetines Unis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sRyL7d1UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sRyL7d1UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sRyL7d1UL._SL200_.jpg' ]
 comments: true
 category: ofertas

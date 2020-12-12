@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Lyte Hikari  Zapatillas para H al 65.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317kbZEADbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317kbZEADbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317kbZEADbL._SL200_.jpg' ]
 comments: true
 category: ofertas

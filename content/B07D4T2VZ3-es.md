@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Nanook Teens  Zapatillas Altas Uni al 51.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Fg8cb2BnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Fg8cb2BnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Fg8cb2BnL._SL200_.jpg' ]
 comments: true
 category: ofertas

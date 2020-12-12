@@ -3,6 +3,7 @@ layout: post
 title: 'Bra Efficient Cuchillo de pan  Acero Ino al 26.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21hFxSF-hqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21hFxSF-hqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21hFxSF-hqL._SL200_.jpg' ]
 comments: true
 category: ofertas

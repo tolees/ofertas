@@ -3,6 +3,7 @@ layout: post
 title: 'Gant TB.The Denim Shirt  Camisa para Niñ al 65.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iwdtvof%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iwdtvof%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iwdtvof%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

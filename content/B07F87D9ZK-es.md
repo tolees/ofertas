@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Hilltop Chaqueta de Snowboard  Ho al 73.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l4FQoMEZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l4FQoMEZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l4FQoMEZL._SL200_.jpg' ]
 comments: true
 category: ofertas

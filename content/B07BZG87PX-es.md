@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Jax  Botas Desert para Hombre  Ma al 40.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EaXUir%2BoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EaXUir%2BoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EaXUir%2BoL._SL200_.jpg' ]
 comments: true
 category: ofertas

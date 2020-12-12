@@ -3,6 +3,7 @@ layout: post
 title: 'Zagzog Auriculares Bluetooth Inalámbrico al 63.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bjo6k5VvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bjo6k5VvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bjo6k5VvL._SL200_.jpg' ]
 comments: true
 category: ofertas

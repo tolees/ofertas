@@ -3,6 +3,7 @@ layout: post
 title: 'Perfumes  4  Pack Full Man para Hombre.  al 32.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51G%2B7%2B7BUHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51G%2B7%2B7BUHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51G%2B7%2B7BUHL._SL200_.jpg' ]
 comments: true
 category: ofertas

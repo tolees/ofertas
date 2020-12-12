@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Atwood Textile  Zapatillas para Niñ al 51.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414H-ppNlWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414H-ppNlWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414H-ppNlWL._SL200_.jpg' ]
 comments: true
 category: ofertas

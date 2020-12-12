@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel 1236628  Pantalón Chino para H al 70.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311Jl6EWowL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311Jl6EWowL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311Jl6EWowL._SL200_.jpg' ]
 comments: true
 category: ofertas

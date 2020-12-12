@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Exploration Pantalón  Hom al 38.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412mM9qtieL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412mM9qtieL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412mM9qtieL._SL200_.jpg' ]
 comments: true
 category: ofertas

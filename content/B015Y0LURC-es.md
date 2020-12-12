@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.12 % en Le Coq Sportif Louisa Mid - Zapatilla al'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u1YqLiwsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u1YqLiwsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u1YqLiwsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.02 % en Calcetines Divertidos Mujer Calcetines C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xu1n2FFjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xu1n2FFjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xu1n2FFjL._SL200_.jpg' ]
 comments: true
 category: ofertas

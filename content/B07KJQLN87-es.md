@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Mack Vi Cartera de Doble Hoja al 47.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HIUAuhbKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HIUAuhbKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HIUAuhbKL._SL200_.jpg' ]
 comments: true
 category: ofertas

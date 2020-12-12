@@ -3,6 +3,7 @@ layout: post
 title: 'Nokia 7.1 - Smartphone de 5.84"  Qualcom al 43.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41StAw43xML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41StAw43xML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41StAw43xML._SL200_.jpg' ]
 comments: true
 category: ofertas

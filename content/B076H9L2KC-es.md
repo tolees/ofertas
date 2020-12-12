@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.78 % en Kipling Bizzy Boo  Bolso Mochila para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w6ELsIAqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w6ELsIAqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w6ELsIAqL._SL200_.jpg' ]
 comments: true
 category: ofertas

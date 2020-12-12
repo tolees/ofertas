@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Gazelle J  Zapatillas de Gimnasia al 49.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4132X4FN%2BCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4132X4FN%2BCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4132X4FN%2BCL._SL200_.jpg' ]
 comments: true
 category: ofertas

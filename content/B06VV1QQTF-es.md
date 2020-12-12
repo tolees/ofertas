@@ -3,6 +3,7 @@ layout: post
 title: 'MAMALICIOUS Mlnicki 3/4 Tencel Above Kne al 70.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KFw5POIPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KFw5POIPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KFw5POIPL._SL200_.jpg' ]
 comments: true
 category: ofertas

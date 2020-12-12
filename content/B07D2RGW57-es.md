@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en Reebok Cl Leather II  Zapatillas para Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TWTOPaUWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TWTOPaUWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TWTOPaUWL._SL200_.jpg' ]
 comments: true
 category: ofertas

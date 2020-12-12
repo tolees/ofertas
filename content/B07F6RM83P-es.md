@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.22 % en Only & Sons Onsomas 7 Crew Neck Knit  su'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ygItSKMUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ygItSKMUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ygItSKMUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.15 % en Only & Sons Onsgrigori Entry Sweatshorts'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aTCIbuczL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aTCIbuczL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aTCIbuczL._SL200_.jpg' ]
 comments: true
 category: ofertas

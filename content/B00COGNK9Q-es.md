@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.07 % en Pasabahce Breeze Copas para Vino Rojo  V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21LK0sTt1oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21LK0sTt1oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21LK0sTt1oL._SL200_.jpg' ]
 comments: true
 category: ofertas

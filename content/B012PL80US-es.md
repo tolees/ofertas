@@ -3,6 +3,7 @@ layout: post
 title: 'Tarjetas Lexar Professional 633x 32GB  2 al 37.42 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.83 % en Curver Nevera Portátil  32 L  Azul'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

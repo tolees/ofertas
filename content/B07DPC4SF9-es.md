@@ -3,6 +3,7 @@ layout: post
 title: 'Puma 4Keeps Bra M Top  Mujer  Rosa  Orch al 47.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qeCFUb-2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qeCFUb-2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qeCFUb-2L._SL200_.jpg' ]
 comments: true
 category: ofertas

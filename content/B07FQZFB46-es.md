@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Jhnu80 suéter  Gris Chine Aamu   al 51.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fq1lkIKIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fq1lkIKIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fq1lkIKIL._SL200_.jpg' ]
 comments: true
 category: ofertas

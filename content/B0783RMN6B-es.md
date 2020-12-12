@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.56 % en Only Onllina Nylon Parka Jacket Otw  Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XJLSHjwJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XJLSHjwJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XJLSHjwJL._SL200_.jpg' ]
 comments: true
 category: ofertas

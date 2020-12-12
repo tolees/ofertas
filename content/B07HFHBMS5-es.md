@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.95 % en Tommy Hilfiger Vertical Stripe Shirt L/s'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412glD1sihL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412glD1sihL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412glD1sihL._SL200_.jpg' ]
 comments: true
 category: ofertas

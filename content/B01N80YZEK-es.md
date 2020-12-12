@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.48 % en Camper Peu Cami  Botas altas para Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ux%2BCvdsRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ux%2BCvdsRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ux%2BCvdsRL._SL200_.jpg' ]
 comments: true
 category: ofertas

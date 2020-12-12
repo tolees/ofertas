@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.95 % en Aigostar Windmill 30KPW - Batidora ameri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517b%2BMF5g1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517b%2BMF5g1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517b%2BMF5g1L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.69 % en New Look Fluffy 59515  Camiseta Mujer  R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gUXOHt4yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gUXOHt4yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gUXOHt4yL._SL200_.jpg' ]
 comments: true
 category: ofertas

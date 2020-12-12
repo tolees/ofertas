@@ -3,6 +3,7 @@ layout: post
 title: 'L Oréal Paris Men Expert Hydra Energetic al 54.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d4vY00l8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d4vY00l8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d4vY00l8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Wangel Portarrollo para Papel Higiénico  al 58.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fNtU4%2BijL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fNtU4%2BijL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fNtU4%2BijL._SL200_.jpg' ]
 comments: true
 category: ofertas

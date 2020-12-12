@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.35 % en Kit Blanqueador Dental - MY LITTLE BEAUT'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516f7XMGi6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516f7XMGi6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516f7XMGi6L._SL200_.jpg' ]
 comments: true
 category: ofertas

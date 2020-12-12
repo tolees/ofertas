@@ -3,6 +3,7 @@ layout: post
 title: 'Festina Reloj Cronógrafo para Hombre de  al 47.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k0QG2KaBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k0QG2KaBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k0QG2KaBL._SL200_.jpg' ]
 comments: true
 category: ofertas

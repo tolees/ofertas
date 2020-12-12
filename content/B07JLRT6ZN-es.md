@@ -3,6 +3,7 @@ layout: post
 title: 'Juego de Ollas  Batería de cocina de ace al 75.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EdD-Gq6%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EdD-Gq6%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EdD-Gq6%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

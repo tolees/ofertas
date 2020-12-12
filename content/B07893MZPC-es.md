@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.30 % en Helly Hansen Crew Hooded Midlayer Jacket'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eKoLp0hNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eKoLp0hNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eKoLp0hNL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.66 % en Under Armour Rival Full Zip Parte Superi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bmOWRpmYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bmOWRpmYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bmOWRpmYL._SL200_.jpg' ]
 comments: true
 category: ofertas

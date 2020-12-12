@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Trunk 2pk  Bóxer Hombre  Ro al 49.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cjdw6crEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cjdw6crEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cjdw6crEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Cassie Colourblock6095964  Chaq al 39.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WKWj7nYqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WKWj7nYqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WKWj7nYqL._SL200_.jpg' ]
 comments: true
 category: ofertas

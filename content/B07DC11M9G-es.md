@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.73 % en Puma Vista  Zapatillas de Deporte Unisex'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414CDgnZUfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414CDgnZUfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414CDgnZUfL._SL200_.jpg' ]
 comments: true
 category: ofertas

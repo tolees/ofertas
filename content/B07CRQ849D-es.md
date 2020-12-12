@@ -3,6 +3,7 @@ layout: post
 title: 'Neutrogena Aqua Spray Corporal Express H al 28.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dIdO3GVhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dIdO3GVhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dIdO3GVhL._SL200_.jpg' ]
 comments: true
 category: ofertas

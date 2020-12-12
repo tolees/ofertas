@@ -3,6 +3,7 @@ layout: post
 title: 'VAUDE Tecowrap II Accesorio  Unisex Adul al 52.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LYtq6ga-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LYtq6ga-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LYtq6ga-L._SL200_.jpg' ]
 comments: true
 category: ofertas

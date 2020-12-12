@@ -3,6 +3,7 @@ layout: post
 title: 'Aicook Gofrera Belga 950W  Gofreras Acer al 100.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kiSks0gFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kiSks0gFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kiSks0gFL._SL200_.jpg' ]
 comments: true
 category: ofertas

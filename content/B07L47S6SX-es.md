@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en AURIQUE Capri Stripe Leggings Deporte Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Q5d74jvTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Q5d74jvTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Q5d74jvTL._SL200_.jpg' ]
 comments: true
 category: ofertas

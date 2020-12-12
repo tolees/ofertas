@@ -3,6 +3,7 @@ layout: post
 title: 'Trust Gaming GXT 754 - Alfombrilla para  al 41.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-2gmGEr1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-2gmGEr1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-2gmGEr1L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.72 % en Vero Moda Vmpernille 3/4 Parka  Abrigo M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oAzfb3ZQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oAzfb3ZQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oAzfb3ZQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.86 % en New Balance 520v5  Zapatillas de Running'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JddvEAHHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JddvEAHHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JddvEAHHL._SL200_.jpg' ]
 comments: true
 category: ofertas

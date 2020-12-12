@@ -3,6 +3,7 @@ layout: post
 title: 'Potensic Drone con cámara HD  Quadcopter al 39.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419UKWGLxJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419UKWGLxJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419UKWGLxJL._SL200_.jpg' ]
 comments: true
 category: ofertas

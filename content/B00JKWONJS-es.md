@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.71 % en Schwarzkopf [3D] Men -  Cera para cabell'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nAYZl512L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nAYZl512L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nAYZl512L._SL200_.jpg' ]
 comments: true
 category: ofertas

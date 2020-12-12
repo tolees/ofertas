@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.38 % en Tuc Tuc Prenda Vaquera Graphic Falda  Ni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sDMns-CYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sDMns-CYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sDMns-CYL._SL200_.jpg' ]
 comments: true
 category: ofertas

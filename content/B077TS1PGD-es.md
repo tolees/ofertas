@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.83 % en Reebok Work N Cushion 3.0  Zapatillas de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HAtEJ8raL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HAtEJ8raL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HAtEJ8raL._SL200_.jpg' ]
 comments: true
 category: ofertas

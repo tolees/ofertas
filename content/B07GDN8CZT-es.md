@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.09 % en Mochila de la cámara，Mochila Fotografía '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RiFzvWl6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RiFzvWl6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RiFzvWl6L._SL200_.jpg' ]
 comments: true
 category: ofertas

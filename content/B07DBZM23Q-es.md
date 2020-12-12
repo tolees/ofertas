@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.19 % en Puma Nrgy Neko Engineer Knit  Zapatillas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wzu5n6C8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wzu5n6C8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wzu5n6C8L._SL200_.jpg' ]
 comments: true
 category: ofertas

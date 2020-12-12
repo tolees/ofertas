@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley M Phantom Alpha Trainer Camo 18   al 51.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lmxkWdxYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lmxkWdxYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lmxkWdxYL._SL200_.jpg' ]
 comments: true
 category: ofertas

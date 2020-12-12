@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.31 % en Stella Maris STMB605-03 - Bolso para muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ifKzgPvuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ifKzgPvuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ifKzgPvuL._SL200_.jpg' ]
 comments: true
 category: ofertas

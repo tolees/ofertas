@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.46 % en Palette Intense - Tono XL4 Rubio Oscuro '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rIep%2BjiVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rIep%2BjiVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rIep%2BjiVL._SL200_.jpg' ]
 comments: true
 category: ofertas

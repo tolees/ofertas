@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.56 % en Lancôme  Autobronceador facial  SPF 50  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gWD6EouWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gWD6EouWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gWD6EouWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'NGS Gaming Keyboard GKX-300 - Teclado Ga al 34.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qTP4CVMbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qTP4CVMbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qTP4CVMbL._SL200_.jpg' ]
 comments: true
 category: ofertas

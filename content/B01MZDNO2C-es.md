@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.02 % en hummel Core Cotton Hoodies  Unisex Adult'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VZs-69sDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VZs-69sDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VZs-69sDL._SL200_.jpg' ]
 comments: true
 category: ofertas

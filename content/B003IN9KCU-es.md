@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.31 % en Sub Sports Dual Base Layer Kurzarm - Pre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ysljxwhZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ysljxwhZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ysljxwhZL._SL200_.jpg' ]
 comments: true
 category: ofertas

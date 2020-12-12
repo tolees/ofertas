@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Rebel Sweat Suit Cl. Chándal  Hombr al 75.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nmcE2BYRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nmcE2BYRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nmcE2BYRL._SL200_.jpg' ]
 comments: true
 category: ofertas

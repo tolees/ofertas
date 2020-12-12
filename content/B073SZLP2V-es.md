@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.10 % en find. Pantalones de Terciopelo para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sq3RbLCUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Sq3RbLCUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sq3RbLCUL._SL200_.jpg' ]
 comments: true
 category: ofertas

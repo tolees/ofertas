@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.82 % en Reebok Zprint 3D  Zapatillas de Running '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eoga2yYrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eoga2yYrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eoga2yYrL._SL200_.jpg' ]
 comments: true
 category: ofertas

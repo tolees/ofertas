@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.26 % en Saucony Xodus ISO 3  Zapatillas de Runni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J3udB%2BCHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J3udB%2BCHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J3udB%2BCHL._SL200_.jpg' ]
 comments: true
 category: ofertas

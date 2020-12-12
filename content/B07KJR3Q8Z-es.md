@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.34 % en Quiksilver Principle Belts  Hombre  Blue'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oI6%2B%2BZvVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oI6%2B%2BZvVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oI6%2B%2BZvVL._SL200_.jpg' ]
 comments: true
 category: ofertas

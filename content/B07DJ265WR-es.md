@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Flash v3  Zapatillas de Runn al 59.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411-StBO22L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411-StBO22L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411-StBO22L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.30 % en Marc O Polo Blusa Negro/Azul ES 38  DE 3'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C9R0rez9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51C9R0rez9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C9R0rez9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Wera 950 PKL/9 BM N Juego de llaves acod al 54.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UYcKZpYSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UYcKZpYSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UYcKZpYSL._SL200_.jpg' ]
 comments: true
 category: ofertas

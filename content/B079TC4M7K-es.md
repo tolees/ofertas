@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.15 % en Russell Hobbs 25081-56 - Tostadora Bubbl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511DtYwg41L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511DtYwg41L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511DtYwg41L._SL200_.jpg' ]
 comments: true
 category: ofertas

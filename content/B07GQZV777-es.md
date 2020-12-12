@@ -3,6 +3,7 @@ layout: post
 title: 'Mujer Bata Albornoz Larga Señoras Bata B al 45.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A60jcRjDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A60jcRjDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A60jcRjDL._SL200_.jpg' ]
 comments: true
 category: ofertas

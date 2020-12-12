@@ -3,6 +3,7 @@ layout: post
 title: 'Android 8.1 TV Box  Android Box 4 GB RAM al 26.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rWJUCul7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rWJUCul7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rWJUCul7L._SL200_.jpg' ]
 comments: true
 category: ofertas

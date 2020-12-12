@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.87 % en Puma Icra Trainer SD Zapatillas  Unisex '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rfJYhGh7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rfJYhGh7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rfJYhGh7L._SL200_.jpg' ]
 comments: true
 category: ofertas

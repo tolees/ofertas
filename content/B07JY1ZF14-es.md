@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 998eo2f801 Camisa  Azu al 79.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L74Au1sZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31L74Au1sZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L74Au1sZL._SL200_.jpg' ]
 comments: true
 category: ofertas

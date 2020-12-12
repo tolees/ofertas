@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.67 % en LANGRIA Silla Racing de Oficina Giratori'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4168i3W1CPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4168i3W1CPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4168i3W1CPL._SL200_.jpg' ]
 comments: true
 category: ofertas

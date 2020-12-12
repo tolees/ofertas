@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.71 % en Emma & Giovanni - T-Shirt Algodón Manga '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c6p0K55zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51c6p0K55zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c6p0K55zL._SL200_.jpg' ]
 comments: true
 category: ofertas

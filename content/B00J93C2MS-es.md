@@ -3,6 +3,7 @@ layout: post
 title: 'Lowepro Passport Messenger - Bolsa para  al 45.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mB4b4tEmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mB4b4tEmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mB4b4tEmL._SL200_.jpg' ]
 comments: true
 category: ofertas

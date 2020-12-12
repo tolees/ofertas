@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.80 % en New Balance 574S v2  Zapatillas para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412F-g1mZrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412F-g1mZrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412F-g1mZrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Fendi FF 0191/S O7 DDB  Gafas de Sol par al 52.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IHOGcNLTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IHOGcNLTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IHOGcNLTL._SL200_.jpg' ]
 comments: true
 category: ofertas

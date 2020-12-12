@@ -3,6 +3,7 @@ layout: post
 title: 'Oakley Frogskins Oo9013 9013B2 55 Mm Gaf al 39.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NNN3jxZ4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NNN3jxZ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NNN3jxZ4L._SL200_.jpg' ]
 comments: true
 category: ofertas

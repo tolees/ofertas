@@ -3,6 +3,7 @@ layout: post
 title: 'JANE Mini Goumi - Robot de cocina  unise al 41.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WGvYFIikL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WGvYFIikL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WGvYFIikL._SL200_.jpg' ]
 comments: true
 category: ofertas

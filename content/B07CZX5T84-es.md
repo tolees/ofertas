@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.84 % en GU5.3/MR16 Bombilla Wifi Inteligente  Av'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kK07F%2B6rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kK07F%2B6rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kK07F%2B6rL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'lingvi 30L Mochila de Senderismo a Prueb al 67.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C4WwDNprL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51C4WwDNprL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C4WwDNprL._SL200_.jpg' ]
 comments: true
 category: ofertas

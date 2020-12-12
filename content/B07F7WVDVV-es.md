@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger 3p Trunk  Bóxers para Hom al 54.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4116yq4bxLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4116yq4bxLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4116yq4bxLL._SL200_.jpg' ]
 comments: true
 category: ofertas

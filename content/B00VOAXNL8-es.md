@@ -3,6 +3,7 @@ layout: post
 title: 'Flexi Design S Cinta 5m. Azul al 50.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jo-mrbPlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jo-mrbPlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jo-mrbPlL._SL200_.jpg' ]
 comments: true
 category: ofertas

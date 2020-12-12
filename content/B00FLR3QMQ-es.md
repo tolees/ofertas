@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.82 % en hummel HUMMEL SLIMMER STADIL LOW - Zapat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XIscc1loL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XIscc1loL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XIscc1loL._SL200_.jpg' ]
 comments: true
 category: ofertas

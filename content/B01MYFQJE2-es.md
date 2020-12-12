@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.99 % en Panasonic Wings RP-BTS10E-A - Auriculare'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317nO17ki7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317nO17ki7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317nO17ki7L._SL200_.jpg' ]
 comments: true
 category: ofertas

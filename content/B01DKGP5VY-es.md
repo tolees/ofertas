@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en House of Marley Get Together Mini Sistem'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419TYqMATwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419TYqMATwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419TYqMATwL._SL200_.jpg' ]
 comments: true
 category: ofertas

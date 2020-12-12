@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.99 % en FLEX Colchón muelles continuos Habana  1'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fuYSnHEWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fuYSnHEWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fuYSnHEWL._SL200_.jpg' ]
 comments: true
 category: ofertas

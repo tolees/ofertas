@@ -3,6 +3,7 @@ layout: post
 title: 'Marvel. Ultimate Heroes  Pack 6 película al 41.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5175C2RZyXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5175C2RZyXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5175C2RZyXL._SL200_.jpg' ]
 comments: true
 category: ofertas

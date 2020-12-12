@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.98 % en COMIFORT Mesa de Centro Elevable Moderna'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ALs5MXogL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ALs5MXogL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ALs5MXogL._SL200_.jpg' ]
 comments: true
 category: ofertas

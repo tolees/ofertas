@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.69 % en Playtex Invisible Elegance  Sujetador Co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZoOXCoVlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZoOXCoVlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZoOXCoVlL._SL200_.jpg' ]
 comments: true
 category: ofertas

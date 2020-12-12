@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Performance 15200  Zapatillas D al 67.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dNNuFiEEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dNNuFiEEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dNNuFiEEL._SL200_.jpg' ]
 comments: true
 category: ofertas

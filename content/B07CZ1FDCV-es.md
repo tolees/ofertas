@@ -3,6 +3,7 @@ layout: post
 title: 'MarsGaming MRB - Consola Retro Portátil  al 30.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x-Y84wSOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x-Y84wSOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x-Y84wSOL._SL200_.jpg' ]
 comments: true
 category: ofertas

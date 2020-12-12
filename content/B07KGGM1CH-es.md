@@ -3,6 +3,7 @@ layout: post
 title: 'Buff Arrow Braga De Cuello  Unisex Adult al 47.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JVp88vlvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JVp88vlvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JVp88vlvL._SL200_.jpg' ]
 comments: true
 category: ofertas

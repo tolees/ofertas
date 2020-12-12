@@ -3,6 +3,7 @@ layout: post
 title: 'DDP F4WEAM7-Blusa Mujer Negro  Talla del al 83.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WeCCennbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WeCCennbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WeCCennbL._SL200_.jpg' ]
 comments: true
 category: ofertas

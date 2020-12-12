@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.46 % en Acrylic Paint Set By Color Technik  Prof'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516EZW9QJ4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516EZW9QJ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516EZW9QJ4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Slabo Powerbank Y para Smartphone / Tabl al 50.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q7lAwQTXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q7lAwQTXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q7lAwQTXL._SL200_.jpg' ]
 comments: true
 category: ofertas

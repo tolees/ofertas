@@ -3,6 +3,7 @@ layout: post
 title: 'AOKULASIC Mens Moda cronógrafo Cuarzo Re al 71.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gOCxMa4RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gOCxMa4RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gOCxMa4RL._SL200_.jpg' ]
 comments: true
 category: ofertas

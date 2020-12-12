@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Kent Low Footwear Men  Zapatillas  al 42.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QlL606jRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QlL606jRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QlL606jRL._SL200_.jpg' ]
 comments: true
 category: ofertas

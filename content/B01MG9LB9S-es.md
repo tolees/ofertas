@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Energy Lights-Eliptic  Zapatill al 59.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dpz7P%2B6QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dpz7P%2B6QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dpz7P%2B6QL._SL200_.jpg' ]
 comments: true
 category: ofertas

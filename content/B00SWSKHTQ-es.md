@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 87.11 % en Closet Structured Pleated Jumpsuit  Mono'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jrmKmurkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jrmKmurkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jrmKmurkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Marc O Polo Body & Beach Beach W-Tankini al 90.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KOa1FoIAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KOa1FoIAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KOa1FoIAL._SL200_.jpg' ]
 comments: true
 category: ofertas

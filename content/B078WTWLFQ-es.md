@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.91 % en Calvin Klein Unlined Bralette Sujetador '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ruO9OdHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411ruO9OdHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ruO9OdHL._SL200_.jpg' ]
 comments: true
 category: ofertas

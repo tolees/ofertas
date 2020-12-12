@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Future 2.4 MG Jr  Zapatillas de Fút al 43.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oJA4hqWvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oJA4hqWvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oJA4hqWvL._SL200_.jpg' ]
 comments: true
 category: ofertas

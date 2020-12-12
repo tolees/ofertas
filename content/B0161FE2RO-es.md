@@ -3,6 +3,7 @@ layout: post
 title: 'Bresser SS-28 Carpa de Foto + Power Soft al 73.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YqniNrBvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YqniNrBvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YqniNrBvL._SL200_.jpg' ]
 comments: true
 category: ofertas

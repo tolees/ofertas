@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.38 % en Revlon Nutri Color Creme Rubísimos  Tint'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BKhOZOUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BKhOZOUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BKhOZOUL._SL200_.jpg' ]
 comments: true
 category: ofertas

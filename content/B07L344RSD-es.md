@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.05 % en Hilfiger Denim EM0EM00253 Hombre  Gris  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zh2R9I7JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zh2R9I7JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zh2R9I7JL._SL200_.jpg' ]
 comments: true
 category: ofertas

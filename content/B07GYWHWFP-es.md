@@ -3,6 +3,7 @@ layout: post
 title: 'Mustang 1/1Slv_0/P_K  Camisa casual para al 63.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415pnUVQ0OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415pnUVQ0OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415pnUVQ0OL._SL200_.jpg' ]
 comments: true
 category: ofertas

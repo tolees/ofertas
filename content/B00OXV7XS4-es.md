@@ -3,6 +3,7 @@ layout: post
 title: 'Worlds Apart Disney - Violetta  Micropho al 70.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uUGztj7JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uUGztj7JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uUGztj7JL._SL200_.jpg' ]
 comments: true
 category: ofertas

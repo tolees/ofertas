@@ -3,6 +3,7 @@ layout: post
 title: 'Emporio Armani Underwear 9p504 Bañador   al 67.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dXJX4Gn-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dXJX4Gn-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dXJX4Gn-L._SL200_.jpg' ]
 comments: true
 category: ofertas

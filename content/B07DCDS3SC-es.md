@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Future 19.4 FG/AG  Zapatillas de Fú al 29.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ta6wb3twL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ta6wb3twL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ta6wb3twL._SL200_.jpg' ]
 comments: true
 category: ofertas

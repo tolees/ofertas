@@ -3,6 +3,7 @@ layout: post
 title: 'Shiseido 57095 - Cuidado capilar  150 ml al 53.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315X8BiiufL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315X8BiiufL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315X8BiiufL._SL200_.jpg' ]
 comments: true
 category: ofertas

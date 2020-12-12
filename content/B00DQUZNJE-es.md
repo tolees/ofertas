@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.70 % en Onkyo TX-8020-B - Receptor esterero  90 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qhA0L2-8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qhA0L2-8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qhA0L2-8L._SL200_.jpg' ]
 comments: true
 category: ofertas

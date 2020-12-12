@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans West Sir Camiseta  Azul  Fren al 46.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FrwUzcBhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FrwUzcBhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FrwUzcBhL._SL200_.jpg' ]
 comments: true
 category: ofertas

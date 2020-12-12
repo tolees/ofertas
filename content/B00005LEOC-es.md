@@ -3,6 +3,7 @@ layout: post
 title: 'Nikon AF-Nikkor 20mm F2.8 D - Objetivo c al 30.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3118SSH64FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3118SSH64FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3118SSH64FL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.56 % en Only Onlsmilla L/s Button Cardigan Knt  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HinZoh8mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HinZoh8mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HinZoh8mL._SL200_.jpg' ]
 comments: true
 category: ofertas

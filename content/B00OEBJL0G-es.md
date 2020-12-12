@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.04 % en Summer Infant Izabel - Bolso cambiador  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513VzoObhmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513VzoObhmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513VzoObhmL._SL200_.jpg' ]
 comments: true
 category: ofertas

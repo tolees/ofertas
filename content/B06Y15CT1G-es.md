@@ -3,6 +3,7 @@ layout: post
 title: 'Suenoszzz - Cabecero Canada  Cama90  100 al 66.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWZOnWYLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWZOnWYLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWZOnWYLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Vs Coneo Qt W B74554  Zapatillas  al 51.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ylNCrOKML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ylNCrOKML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ylNCrOKML._SL200_.jpg' ]
 comments: true
 category: ofertas

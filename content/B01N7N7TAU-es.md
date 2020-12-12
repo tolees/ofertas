@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.31 % en Asics Gel-Lyte Iii  Zapatillas Unisex Ad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411sCo8WytL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411sCo8WytL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411sCo8WytL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jconewlinn Sweat Hood Capuc al 48.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YR-pluonL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YR-pluonL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YR-pluonL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'CAMPER TWS Kids  Merceditas para Niñas   al 40.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417v1yWPBLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417v1yWPBLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417v1yWPBLL._SL200_.jpg' ]
 comments: true
 category: ofertas

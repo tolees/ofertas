@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.12 % en New Balance Fresh Foam Cruz Hoody Pack  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BwtklSMzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BwtklSMzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BwtklSMzL._SL200_.jpg' ]
 comments: true
 category: ofertas

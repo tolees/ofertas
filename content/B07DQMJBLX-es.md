@@ -3,6 +3,7 @@ layout: post
 title: 'Wolfenstein: The Youngblood al 25.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qQHFIGJvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qQHFIGJvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qQHFIGJvL._SL200_.jpg' ]
 comments: true
 category: ofertas

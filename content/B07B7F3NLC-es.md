@@ -3,6 +3,7 @@ layout: post
 title: 'LUDOS FLAMMA Ratón Gaming RGB 10.000 DPI al 35.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bpUgDH0TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bpUgDH0TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bpUgDH0TL._SL200_.jpg' ]
 comments: true
 category: ofertas

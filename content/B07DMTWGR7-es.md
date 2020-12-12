@@ -3,6 +3,7 @@ layout: post
 title: 'SYCOTEK Reposapiés Inflable Portable 1 A al 62.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BAPDFC%2BML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BAPDFC%2BML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BAPDFC%2BML._SL200_.jpg' ]
 comments: true
 category: ofertas

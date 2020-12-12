@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.57 % en THE NORTH FACE M Litewave Fastpack II GT'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vDx8J0xZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vDx8J0xZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vDx8J0xZL._SL200_.jpg' ]
 comments: true
 category: ofertas

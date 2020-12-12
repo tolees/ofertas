@@ -3,6 +3,7 @@ layout: post
 title: 'New Look F Bermuda Btn Front Romper Jsu  al 51.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X6cTVQv0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31X6cTVQv0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X6cTVQv0L._SL200_.jpg' ]
 comments: true
 category: ofertas

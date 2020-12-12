@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 037eo1k012 Camiseta  R al 48.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4108ohSuF4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4108ohSuF4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4108ohSuF4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Riley JR PB301600  Blusa para al 77.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o9eZVfV2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o9eZVfV2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o9eZVfV2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Jr Magistax Onda II DF IC  Botas de al 52.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cWQO7lPCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cWQO7lPCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cWQO7lPCL._SL200_.jpg' ]
 comments: true
 category: ofertas

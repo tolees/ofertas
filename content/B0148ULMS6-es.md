@@ -3,6 +3,7 @@ layout: post
 title: 'Gund - Pusheen Almohada De 2 Latos  Mult al 34.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CVvdDZzAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CVvdDZzAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CVvdDZzAL._SL200_.jpg' ]
 comments: true
 category: ofertas

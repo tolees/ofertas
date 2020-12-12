@@ -3,6 +3,7 @@ layout: post
 title: 'Disney Infinity 3.0 - Figura Asco  Del R al 40.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ej0odK9ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ej0odK9ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ej0odK9ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Illa bc3620 cazo con lo Especial Revesti al 44.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21pi7SzqR%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21pi7SzqR%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21pi7SzqR%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

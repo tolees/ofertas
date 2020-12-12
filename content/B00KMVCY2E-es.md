@@ -3,6 +3,7 @@ layout: post
 title: 'AEG Voxtel M320 - Móvil libre con pantal al 41.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HQUFANOYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HQUFANOYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HQUFANOYL._SL200_.jpg' ]
 comments: true
 category: ofertas

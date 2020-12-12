@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.28 % en Barbecook 223.9870.000 Caja Ahumadora Un'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41od62gCY7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41od62gCY7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41od62gCY7L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'LYCAON Bike Grips Puños de manillar de b al 42.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UHkBch36L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UHkBch36L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UHkBch36L._SL200_.jpg' ]
 comments: true
 category: ofertas

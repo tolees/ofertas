@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.39 % en Pepe Jeans Flag Logo LS  Camiseta de Man'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uqhAnOVUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uqhAnOVUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uqhAnOVUL._SL200_.jpg' ]
 comments: true
 category: ofertas

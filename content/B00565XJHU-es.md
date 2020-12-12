@@ -3,6 +3,7 @@ layout: post
 title: 'Ultrasport Softshell Jacket Serfaus Chaq al 36.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C0H-1IlVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C0H-1IlVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C0H-1IlVL._SL200_.jpg' ]
 comments: true
 category: ofertas

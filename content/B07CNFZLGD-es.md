@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel T-Daria  Camiseta para Mujer  Bla al 52.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31U%2B6WXCz6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31U%2B6WXCz6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31U%2B6WXCz6L._SL200_.jpg' ]
 comments: true
 category: ofertas

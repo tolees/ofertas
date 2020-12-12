@@ -3,6 +3,7 @@ layout: post
 title: 'Alfawise A32 - Tarjeta de memoria 32GB M al 75.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jov%2BX907L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jov%2BX907L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jov%2BX907L._SL200_.jpg' ]
 comments: true
 category: ofertas

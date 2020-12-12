@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.29 % en Under Armour UA W Rapid  Zapatillas de R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u8OpwL5GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31u8OpwL5GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u8OpwL5GL._SL200_.jpg' ]
 comments: true
 category: ofertas

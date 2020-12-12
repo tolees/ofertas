@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.76 % en Bestway - Piscina de Juegos  52212 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jni0SehaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jni0SehaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jni0SehaL._SL200_.jpg' ]
 comments: true
 category: ofertas

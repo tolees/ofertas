@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Side Street  Zapatillas para Mu al 65.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-q3Ntj6qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-q3Ntj6qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-q3Ntj6qL._SL200_.jpg' ]
 comments: true
 category: ofertas

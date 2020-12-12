@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.81 % en Levi s 511 Slim Fit  Vaqueros para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZtiaD0NyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZtiaD0NyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZtiaD0NyL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.59 % en Armani Exchange 8nyj01 Vaqueros Skinny  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t1Wxsx0bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t1Wxsx0bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t1Wxsx0bL._SL200_.jpg' ]
 comments: true
 category: ofertas

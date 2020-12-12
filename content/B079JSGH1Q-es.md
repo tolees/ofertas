@@ -3,6 +3,7 @@ layout: post
 title: 'Far Cry 5 - Edición Limited  Edición Exc al 62.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61l%2B%2BGqexlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61l%2B%2BGqexlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61l%2B%2BGqexlL._SL200_.jpg' ]
 comments: true
 category: ofertas

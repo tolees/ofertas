@@ -3,6 +3,7 @@ layout: post
 title: 'Gerry Weber Bluse 1/1 Arm  Rosa  Rot 606 al 70.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zi8CDPK5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zi8CDPK5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zi8CDPK5L._SL200_.jpg' ]
 comments: true
 category: ofertas

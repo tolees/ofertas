@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.68 % en Rieker Kinder K2266 Sandalias con Cuña N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wrFDi7V3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wrFDi7V3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wrFDi7V3L._SL200_.jpg' ]
 comments: true
 category: ofertas

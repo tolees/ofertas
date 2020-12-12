@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Hi-Lite  Entrenadores para Muje al 60.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419GvYlBtZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419GvYlBtZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419GvYlBtZL._SL200_.jpg' ]
 comments: true
 category: ofertas

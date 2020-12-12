@@ -3,6 +3,7 @@ layout: post
 title: 'Suavinex Bienvenido Boy Paquete de 4 bot al 44.39 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

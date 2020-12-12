@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.51 % en Superdry Low Pro Hiker  Zapatillas de Gi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L7Qh36e9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L7Qh36e9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L7Qh36e9L._SL200_.jpg' ]
 comments: true
 category: ofertas

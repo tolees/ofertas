@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.93 % en Geox D Ophira B  Zapatillas para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HveEJvL2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HveEJvL2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HveEJvL2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Munich 3110876  Zapatillas de Deporte Un al 29.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414%2Bgp5GEDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414%2Bgp5GEDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414%2Bgp5GEDL._SL200_.jpg' ]
 comments: true
 category: ofertas

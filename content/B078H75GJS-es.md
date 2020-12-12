@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.01 % en JACK & JONES Jjichop Jjcargo Shorts AKM '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KEB0lubdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KEB0lubdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KEB0lubdL._SL200_.jpg' ]
 comments: true
 category: ofertas

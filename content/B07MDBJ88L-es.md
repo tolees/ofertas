@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Civita Slim T-Shirt Camiseta  al 65.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ac4j4wKqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ac4j4wKqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ac4j4wKqL._SL200_.jpg' ]
 comments: true
 category: ofertas

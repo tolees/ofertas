@@ -3,6 +3,7 @@ layout: post
 title: 'LANGRIA Cortinas Bloqueo de Luz sin Arru al 85.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ppUTkskdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ppUTkskdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ppUTkskdL._SL200_.jpg' ]
 comments: true
 category: ofertas

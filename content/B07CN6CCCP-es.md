@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Classic Clog  Zuecos Unisex Adulto al 52.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gtw1hp6yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gtw1hp6yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gtw1hp6yL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.94 % en Under Armour UA Boxed Sportstyle SS Cami'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YLvUh3SjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YLvUh3SjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YLvUh3SjL._SL200_.jpg' ]
 comments: true
 category: ofertas

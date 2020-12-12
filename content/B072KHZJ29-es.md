@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Orange Cattitude  Camisa Manga Larg al 75.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aMcSpepkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aMcSpepkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aMcSpepkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.64 % en New Balance MS X90 TBH de la Zapatilla d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41erZLdSqnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41erZLdSqnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41erZLdSqnL._SL200_.jpg' ]
 comments: true
 category: ofertas

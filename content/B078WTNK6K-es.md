@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.79 % en Cortefiel Falda Corta  Gama Verdes 21  X'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PaFqdpAFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PaFqdpAFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PaFqdpAFL._SL200_.jpg' ]
 comments: true
 category: ofertas

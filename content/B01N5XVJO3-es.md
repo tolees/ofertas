@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.70 % en adidas Messi 16.3 FG Botas de fútbol  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lZnLU10AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lZnLU10AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lZnLU10AL._SL200_.jpg' ]
 comments: true
 category: ofertas

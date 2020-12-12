@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.08 % en JACK & JONES Jjiglenn Jjicon JJ 257 50sp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I--JlL6EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I--JlL6EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I--JlL6EL._SL200_.jpg' ]
 comments: true
 category: ofertas

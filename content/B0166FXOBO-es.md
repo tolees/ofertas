@@ -3,6 +3,7 @@ layout: post
 title: 'Sol Cerveza - Paquete de 24 Botellas x 3 al 33.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5138NnzU3pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5138NnzU3pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5138NnzU3pL._SL200_.jpg' ]
 comments: true
 category: ofertas

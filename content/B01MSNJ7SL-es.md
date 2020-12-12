@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Archive Logo tee Camiseta  Hombre   al 50.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rohEh4GkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rohEh4GkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rohEh4GkL._SL200_.jpg' ]
 comments: true
 category: ofertas

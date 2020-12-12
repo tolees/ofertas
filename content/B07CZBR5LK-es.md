@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.56 % en Under Armour UA Own The Gym Duffel Bolsa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311uSGv2T2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311uSGv2T2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311uSGv2T2L._SL200_.jpg' ]
 comments: true
 category: ofertas

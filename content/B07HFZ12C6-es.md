@@ -3,6 +3,7 @@ layout: post
 title: 'HEOYSN Cómodo Casa para Mascotas  Cama p al 38.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XXjvQz1vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XXjvQz1vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XXjvQz1vL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Logitech Silent M590 - Ratón inalámbrico al 34.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rF5mwVQBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rF5mwVQBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rF5mwVQBL._SL200_.jpg' ]
 comments: true
 category: ofertas

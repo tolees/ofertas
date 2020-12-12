@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Parton-Wilcon  Zapatos de Cordo al 45.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kOODvCTVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kOODvCTVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kOODvCTVL._SL200_.jpg' ]
 comments: true
 category: ofertas

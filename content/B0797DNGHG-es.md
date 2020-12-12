@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Jones Ridge Jacket Chaqueta Imp al 53.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2BA%2Bb35iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2BA%2Bb35iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S%2BA%2Bb35iL._SL200_.jpg' ]
 comments: true
 category: ofertas

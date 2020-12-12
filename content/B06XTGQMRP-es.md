@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.21 % en MyWave Capri - Batidora Americana de Vas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314CTx-qw5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314CTx-qw5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314CTx-qw5L._SL200_.jpg' ]
 comments: true
 category: ofertas

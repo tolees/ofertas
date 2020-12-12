@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Sport L.Ight 318 3 SPM  Zapatill al 50.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417o0wEgoIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417o0wEgoIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417o0wEgoIL._SL200_.jpg' ]
 comments: true
 category: ofertas

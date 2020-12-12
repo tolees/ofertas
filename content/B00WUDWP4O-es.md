@@ -3,6 +3,7 @@ layout: post
 title: 'Grace Bebida Aloe Vera con Mango - Paque al 63.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-umPDFn4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-umPDFn4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-umPDFn4L._SL200_.jpg' ]
 comments: true
 category: ofertas

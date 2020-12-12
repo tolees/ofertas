@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.31 % en s.Oliver 23620  Zapatillas para Mujer  V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UaUgk9e-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UaUgk9e-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UaUgk9e-L._SL200_.jpg' ]
 comments: true
 category: ofertas

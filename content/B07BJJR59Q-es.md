@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.17 % en HyperX Fury - Memoria RAM de 8 GB  DDR4 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CSFRF4GGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CSFRF4GGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CSFRF4GGL._SL200_.jpg' ]
 comments: true
 category: ofertas

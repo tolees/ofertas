@@ -3,6 +3,7 @@ layout: post
 title: 'Skil F0150755AA Tijeras 0755AA 3.6 W  3. al 49.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417ZGFZHSbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417ZGFZHSbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417ZGFZHSbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Cozime Grifo Lavabo Monomando Cascada  G al 49.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s0akiBXlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s0akiBXlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s0akiBXlL._SL200_.jpg' ]
 comments: true
 category: ofertas

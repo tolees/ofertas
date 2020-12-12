@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.99 % en Symiu Domino Madera Bloques Madera Iinfa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51krK9cbH0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51krK9cbH0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51krK9cbH0L._SL200_.jpg' ]
 comments: true
 category: ofertas

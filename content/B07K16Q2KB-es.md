@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Estro 19 JSY T-Shirt  Hombre  Mar al 27.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZgBZDsWeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZgBZDsWeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZgBZDsWeL._SL200_.jpg' ]
 comments: true
 category: ofertas

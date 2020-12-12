@@ -3,6 +3,7 @@ layout: post
 title: 'Urban Classics Stretch Turnup Chino Shor al 62.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b7KZygzsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b7KZygzsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b7KZygzsL._SL200_.jpg' ]
 comments: true
 category: ofertas

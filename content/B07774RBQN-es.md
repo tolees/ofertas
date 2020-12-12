@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans Hombre Ryan Original  Vaquer al 60.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l8NUFM5sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l8NUFM5sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l8NUFM5sL._SL200_.jpg' ]
 comments: true
 category: ofertas

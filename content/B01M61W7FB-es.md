@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.06 % en SPC Breeze Tower - Torre de Sonido  10W '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CvrKHnz4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CvrKHnz4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CvrKHnz4L._SL200_.jpg' ]
 comments: true
 category: ofertas

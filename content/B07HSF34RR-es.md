@@ -3,6 +3,7 @@ layout: post
 title: 'Camiseta de algodón de manga corta - Rea al 25.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31l1pJFtHxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31l1pJFtHxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31l1pJFtHxL._SL200_.jpg' ]
 comments: true
 category: ofertas

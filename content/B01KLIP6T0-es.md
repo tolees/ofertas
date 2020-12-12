@@ -3,6 +3,7 @@ layout: post
 title: 'HP Officejet Impresora Pro 8218 - Impres al 60.65 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B01KLIP6T0.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B01KLIP6T0.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B01KLIP6T0.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

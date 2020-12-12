@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.83 % en OMRON BF 511 - Báscula de análisis corpo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o2o9oM3GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o2o9oM3GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o2o9oM3GL._SL200_.jpg' ]
 comments: true
 category: ofertas

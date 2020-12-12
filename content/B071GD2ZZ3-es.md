@@ -3,6 +3,7 @@ layout: post
 title: 'FIND 17 05 829 camisetas  Negro  Schwarz al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f8695EYdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f8695EYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f8695EYdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.54 % en Tommy Hilfiger TJM Tommy Classics Stretc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415wzvKtCjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415wzvKtCjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415wzvKtCjL._SL200_.jpg' ]
 comments: true
 category: ofertas

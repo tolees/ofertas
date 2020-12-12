@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.00 % en Quiksilver 3/2mm Prologue L/SL Fullsuit '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mppWjOFpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mppWjOFpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mppWjOFpL._SL200_.jpg' ]
 comments: true
 category: ofertas

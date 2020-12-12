@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.91 % en BLDEN Gafas de Sol Polarizadas Mujer  Mo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417kAcUuyfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417kAcUuyfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417kAcUuyfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'LPB Woman - Sac  Bolsos totes Mujer  Gri al 70.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wL8-q6B1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wL8-q6B1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wL8-q6B1L._SL200_.jpg' ]
 comments: true
 category: ofertas

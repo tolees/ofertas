@@ -3,6 +3,7 @@ layout: post
 title: 'Afeitadora Eléctrica Hombre 4 en 1 Recar al 60.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A06Lva4ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A06Lva4ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A06Lva4ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'ASUS Lyra Trio - Kit de 2 Sistemas de Re al 46.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VIV6znY9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VIV6znY9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VIV6znY9L._SL200_.jpg' ]
 comments: true
 category: ofertas

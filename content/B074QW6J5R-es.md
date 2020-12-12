@@ -3,6 +3,7 @@ layout: post
 title: 'El Ganso 1050s180055  Camisa Casual para al 37.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hnlWF-3cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hnlWF-3cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hnlWF-3cL._SL200_.jpg' ]
 comments: true
 category: ofertas

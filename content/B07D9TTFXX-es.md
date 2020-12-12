@@ -3,6 +3,7 @@ layout: post
 title: 'Mustang Schnür-Stiefelette  Botines para al 75.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZXtmG2D2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZXtmG2D2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZXtmG2D2L._SL200_.jpg' ]
 comments: true
 category: ofertas

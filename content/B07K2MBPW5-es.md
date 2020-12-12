@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Heart and Logo_Knitted Lon al 56.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i4s21r4GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i4s21r4GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i4s21r4GL._SL200_.jpg' ]
 comments: true
 category: ofertas

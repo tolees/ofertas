@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.03 % en JACK & JONES Jjiglenn Jjoriginal Jj 981 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MVU9tD%2BEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MVU9tD%2BEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MVU9tD%2BEL._SL200_.jpg' ]
 comments: true
 category: ofertas

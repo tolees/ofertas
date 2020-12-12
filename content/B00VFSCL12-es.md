@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.64 % en Uhlsport Stream 3.0 Classic Pantalones  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XMOOE2p%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XMOOE2p%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XMOOE2p%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Jet Mid 3020623-003  Zapato al 55.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yTM8auIbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yTM8auIbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yTM8auIbL._SL200_.jpg' ]
 comments: true
 category: ofertas

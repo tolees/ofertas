@@ -3,6 +3,7 @@ layout: post
 title: 'BANLVS Humidificador Aromaterapia Ultras al 35.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CJeiWV%2BWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CJeiWV%2BWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CJeiWV%2BWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.94 % en Clarks - The Reed  Shoppers y bolsos de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TYXsqlpZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TYXsqlpZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TYXsqlpZL._SL200_.jpg' ]
 comments: true
 category: ofertas

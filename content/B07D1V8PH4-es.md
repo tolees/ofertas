@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED HOMME Slhslim-Yard T. Shell Pan al 77.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sasMtfb-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sasMtfb-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sasMtfb-L._SL200_.jpg' ]
 comments: true
 category: ofertas

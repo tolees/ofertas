@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.82 % en Asics Gel-Cumulus 19  Zapatillas de Runn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c6mAzidJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51c6mAzidJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c6mAzidJL._SL200_.jpg' ]
 comments: true
 category: ofertas

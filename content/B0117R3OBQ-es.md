@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en Set de 6 Perfumes de Primera Calidad en '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61IYqF7wsdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61IYqF7wsdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61IYqF7wsdL._SL200_.jpg' ]
 comments: true
 category: ofertas

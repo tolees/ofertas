@@ -3,6 +3,7 @@ layout: post
 title: 'BQ Aquaris X5 - Smartphone de 5 pulgadas al 44.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w2dHN6WJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w2dHN6WJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w2dHN6WJL._SL200_.jpg' ]
 comments: true
 category: ofertas

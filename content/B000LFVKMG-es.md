@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.96 % en Silverline 633470 - Llaves combinadas  2'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j%2BVps98UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51j%2BVps98UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j%2BVps98UL._SL200_.jpg' ]
 comments: true
 category: ofertas

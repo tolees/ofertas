@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Duramo 8 M  Zapatillas de Running al 47.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BxoVY5QkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BxoVY5QkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BxoVY5QkL._SL200_.jpg' ]
 comments: true
 category: ofertas

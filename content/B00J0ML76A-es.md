@@ -3,6 +3,7 @@ layout: post
 title: 'Spalding Bekleidung Teamsport 4her II Sh al 65.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O9COEa%2BVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O9COEa%2BVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O9COEa%2BVL._SL200_.jpg' ]
 comments: true
 category: ofertas

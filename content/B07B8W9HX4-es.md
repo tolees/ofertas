@@ -3,6 +3,7 @@ layout: post
 title: 'Purina ProPlan pienso para Gato Esterili al 32.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EiwSMhzBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EiwSMhzBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EiwSMhzBL._SL200_.jpg' ]
 comments: true
 category: ofertas

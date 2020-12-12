@@ -3,6 +3,7 @@ layout: post
 title: 'Limpiador de Poros  Xpreen Pore Cleaner  al 58.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418g6CaYZqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418g6CaYZqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418g6CaYZqL._SL200_.jpg' ]
 comments: true
 category: ofertas

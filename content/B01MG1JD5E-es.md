@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Rapunzel Iluminación infantil  L al 45.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NFQu0IZ1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NFQu0IZ1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NFQu0IZ1L._SL200_.jpg' ]
 comments: true
 category: ofertas

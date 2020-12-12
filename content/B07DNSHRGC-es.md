@@ -3,6 +3,7 @@ layout: post
 title: 'Oregon RRA-320-PNX - Radio reloj proyect al 34.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eYSXX37BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eYSXX37BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eYSXX37BL._SL200_.jpg' ]
 comments: true
 category: ofertas

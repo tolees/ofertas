@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.09 % en Springfield 5.Pa.Falda Larga Lisa Circul'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

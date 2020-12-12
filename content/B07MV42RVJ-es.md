@@ -3,6 +3,7 @@ layout: post
 title: 'Sricam SP018 Cámara WiFi IP HD de Seguri al 34.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41exbIWx76L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41exbIWx76L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41exbIWx76L._SL200_.jpg' ]
 comments: true
 category: ofertas

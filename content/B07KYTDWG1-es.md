@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.Pc.Mono Poly Lavado Mono L al 51.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hAD%2B2zbhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hAD%2B2zbhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hAD%2B2zbhL._SL200_.jpg' ]
 comments: true
 category: ofertas

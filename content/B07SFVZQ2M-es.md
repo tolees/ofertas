@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.01 % en Ayzaw Carrier Hand Gorilla Gripper - Fur'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419vyaQOMmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419vyaQOMmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419vyaQOMmL._SL200_.jpg' ]
 comments: true
 category: ofertas

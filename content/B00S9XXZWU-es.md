@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.71 % en Lamberts Vitamina C 1000 mg - 180 Tablet'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iDaTVZB5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iDaTVZB5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iDaTVZB5L._SL200_.jpg' ]
 comments: true
 category: ofertas

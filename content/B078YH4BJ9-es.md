@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Classic Salina Stars Camiseta al 46.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ekqTnY9PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ekqTnY9PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ekqTnY9PL._SL200_.jpg' ]
 comments: true
 category: ofertas

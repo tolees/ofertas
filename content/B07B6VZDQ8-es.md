@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.54 % en Columbia Camden Chukka  Botas Casual par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517majT45xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517majT45xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517majT45xL._SL200_.jpg' ]
 comments: true
 category: ofertas

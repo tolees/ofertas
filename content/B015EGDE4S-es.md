@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Sonnenbrille DL0163 5991F Gafas d al 81.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31a5fiNoglL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31a5fiNoglL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31a5fiNoglL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.39 % en Casio Reloj de Pulsera AE-1300WH-2AVEF'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d%2Bn1PIvML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51d%2Bn1PIvML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d%2Bn1PIvML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Tech 2.0 1/2 Zip Parte S al 59.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j5r0xEHoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31j5r0xEHoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j5r0xEHoL._SL200_.jpg' ]
 comments: true
 category: ofertas

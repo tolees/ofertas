@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.57 % en Kenwood MG360 Picadora de carne  3 disco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31euN3C71CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31euN3C71CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31euN3C71CL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'AIni Mujer Verano De Playa Vestido De Li al 99.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VLD1uCTgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VLD1uCTgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VLD1uCTgL._SL200_.jpg' ]
 comments: true
 category: ofertas

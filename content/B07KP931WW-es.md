@@ -3,6 +3,7 @@ layout: post
 title: 'Seguridad 3 Combinación de viaje Maleta  al 90.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31q%2BurbBE5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31q%2BurbBE5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31q%2BurbBE5L._SL200_.jpg' ]
 comments: true
 category: ofertas

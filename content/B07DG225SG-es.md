@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 800  Zapatillas Unisex Niños al 63.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ccxih9lqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ccxih9lqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ccxih9lqL._SL200_.jpg' ]
 comments: true
 category: ofertas

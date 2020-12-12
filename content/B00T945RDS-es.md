@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.10 % en Geox Jr Shadow A  Bailarinas Para Niñas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sbkd0ovUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Sbkd0ovUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sbkd0ovUL._SL200_.jpg' ]
 comments: true
 category: ofertas

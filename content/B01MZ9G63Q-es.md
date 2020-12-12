@@ -3,6 +3,7 @@ layout: post
 title: 'Brazalete Deportivo Running para Móviles al 47.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51l9LmU3ljL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51l9LmU3ljL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51l9LmU3ljL._SL200_.jpg' ]
 comments: true
 category: ofertas

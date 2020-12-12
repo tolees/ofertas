@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.93 % en Derbystar Funktionsshirt Lang - Top de M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CTicWItHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CTicWItHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CTicWItHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Liu Jo Bottom Up Ruffle Vaqueros Skinny  al 40.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CbUYRRxML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CbUYRRxML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CbUYRRxML._SL200_.jpg' ]
 comments: true
 category: ofertas

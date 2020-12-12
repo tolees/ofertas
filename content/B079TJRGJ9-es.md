@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 058eo1k008  Camiseta M al 77.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qbIqTGnwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qbIqTGnwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qbIqTGnwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.83 % en Reebok Speedlux 3.0  Zapatillas de Trail'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hGzmR55mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hGzmR55mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hGzmR55mL._SL200_.jpg' ]
 comments: true
 category: ofertas

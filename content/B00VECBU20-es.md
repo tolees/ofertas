@@ -3,6 +3,7 @@ layout: post
 title: '17 L macetero  500 mm de ratán  color gr al 66.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fUDR0UdLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fUDR0UdLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fUDR0UdLL._SL200_.jpg' ]
 comments: true
 category: ofertas

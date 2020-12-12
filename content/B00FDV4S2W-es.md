@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.97 % en Bestway 58036 - Cobertor Protector de PV'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h87EZ5yuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31h87EZ5yuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h87EZ5yuL._SL200_.jpg' ]
 comments: true
 category: ofertas

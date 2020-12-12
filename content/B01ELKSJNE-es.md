@@ -3,6 +3,7 @@ layout: post
 title: 'Mondial FT06 Freidora  2000 W  3.5 litro al 40.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416eZX5A6kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416eZX5A6kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416eZX5A6kL._SL200_.jpg' ]
 comments: true
 category: ofertas

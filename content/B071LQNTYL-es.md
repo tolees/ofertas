@@ -3,6 +3,7 @@ layout: post
 title: 'Puma BVB Poly Camiseta de equipación  Ho al 71.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dHOcp%2BJDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dHOcp%2BJDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dHOcp%2BJDL._SL200_.jpg' ]
 comments: true
 category: ofertas

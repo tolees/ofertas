@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jacnew Camo Trunks 3 Pack B al 35.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lTUJz8z7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lTUJz8z7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lTUJz8z7L._SL200_.jpg' ]
 comments: true
 category: ofertas

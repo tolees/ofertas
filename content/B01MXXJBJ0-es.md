@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA W Micro G Fuel RN  Zapat al 50.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vYul5YwgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vYul5YwgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vYul5YwgL._SL200_.jpg' ]
 comments: true
 category: ofertas

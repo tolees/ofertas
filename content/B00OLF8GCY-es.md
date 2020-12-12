@@ -3,6 +3,7 @@ layout: post
 title: 'KangaROOS K-Vulca 5054 - zapatilla depor al 46.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mreQxQ2oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mreQxQ2oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mreQxQ2oL._SL200_.jpg' ]
 comments: true
 category: ofertas

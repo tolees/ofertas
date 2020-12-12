@@ -3,6 +3,7 @@ layout: post
 title: 'adidas X 18.4 FG  Zapatillas de Fútbol p al 43.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411yWMy7GHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411yWMy7GHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411yWMy7GHL._SL200_.jpg' ]
 comments: true
 category: ofertas

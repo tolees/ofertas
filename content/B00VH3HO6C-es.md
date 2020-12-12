@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.19 % en Asus MG279Q - Monitor gaming 27"  2K WQH'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tq5%2BQOYiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tq5%2BQOYiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tq5%2BQOYiL._SL200_.jpg' ]
 comments: true
 category: ofertas

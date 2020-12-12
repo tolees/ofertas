@@ -3,6 +3,7 @@ layout: post
 title: 'Kärcher Limpiacristales RM 500  6.295-77 al 31.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ljZY39XjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ljZY39XjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ljZY39XjL._SL200_.jpg' ]
 comments: true
 category: ofertas

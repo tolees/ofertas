@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.01 % en LOVORDS Brazalete Abierto Elástica Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MZmr34PpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MZmr34PpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MZmr34PpL._SL200_.jpg' ]
 comments: true
 category: ofertas

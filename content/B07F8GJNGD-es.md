@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.48 % en Burton Gloria Insulator Pantalón de Snow'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QjAQhbsKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QjAQhbsKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QjAQhbsKL._SL200_.jpg' ]
 comments: true
 category: ofertas

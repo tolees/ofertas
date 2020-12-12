@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.62 % en Trucco TT16BN1 Jersey  Mujer  Naranja  C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OrCufY1CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OrCufY1CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OrCufY1CL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG Essential Zh Sudadera con Capu al 63.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OwgG%2B8GBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OwgG%2B8GBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OwgG%2B8GBL._SL200_.jpg' ]
 comments: true
 category: ofertas

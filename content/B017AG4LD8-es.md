@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid P0300 Y2 MZ9 43  Gafas de Sol U al 55.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TkmtCSojL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TkmtCSojL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TkmtCSojL._SL200_.jpg' ]
 comments: true
 category: ofertas

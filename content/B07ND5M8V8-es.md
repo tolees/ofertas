@@ -3,6 +3,7 @@ layout: post
 title: 'RIP CURL Summer Lovin Trucka Cap Gorra   al 28.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4115ekBZHvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4115ekBZHvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4115ekBZHvL._SL200_.jpg' ]
 comments: true
 category: ofertas

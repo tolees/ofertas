@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Palm Candid  Sandalia con Pulsera al 62.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412O9lZo5UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412O9lZo5UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412O9lZo5UL._SL200_.jpg' ]
 comments: true
 category: ofertas

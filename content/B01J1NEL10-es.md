@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.02 % en Wolf & Whistle Bronze and Black Lace Ves'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yi1QFnX6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yi1QFnX6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yi1QFnX6L._SL200_.jpg' ]
 comments: true
 category: ofertas

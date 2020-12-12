@@ -3,6 +3,7 @@ layout: post
 title: 'VAUDE Men s Tamaro Shorts Pantalones  Ho al 69.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kSJxjrgML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kSJxjrgML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kSJxjrgML._SL200_.jpg' ]
 comments: true
 category: ofertas

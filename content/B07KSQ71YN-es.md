@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.07 % en Columbia Hombre Chaqueta impermeable  In'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bBzHt6JGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bBzHt6JGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bBzHt6JGL._SL200_.jpg' ]
 comments: true
 category: ofertas

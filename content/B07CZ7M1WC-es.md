@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.76 % en Lacoste Sport Fit 318 3 SPW  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bs2R%2Bof4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bs2R%2Bof4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bs2R%2Bof4L._SL200_.jpg' ]
 comments: true
 category: ofertas

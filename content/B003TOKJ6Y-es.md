@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.80 % en BRA Efficient - Sartén 20 cm  aluminio f'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O2xukUpIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31O2xukUpIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O2xukUpIL._SL200_.jpg' ]
 comments: true
 category: ofertas

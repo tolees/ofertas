@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en AURIQUE Bal009 Camiseta Deportiva Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qyMBXYPnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qyMBXYPnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qyMBXYPnL._SL200_.jpg' ]
 comments: true
 category: ofertas

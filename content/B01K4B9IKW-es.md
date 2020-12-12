@@ -3,6 +3,7 @@ layout: post
 title: 'Thule Atmos X3 - Funda para iPhone 7 Plu al 66.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hvi6qHYcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hvi6qHYcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hvi6qHYcL._SL200_.jpg' ]
 comments: true
 category: ofertas

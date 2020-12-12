@@ -3,6 +3,7 @@ layout: post
 title: 'Emporio Armani Underwear 111357  Pantalo al 54.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ekkh1Ag6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ekkh1Ag6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ekkh1Ag6L._SL200_.jpg' ]
 comments: true
 category: ofertas

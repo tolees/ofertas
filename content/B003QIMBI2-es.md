@@ -3,6 +3,7 @@ layout: post
 title: 'LELO INTIMA Antifaz de Seda Pura Purple: al 84.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qYcR3TvbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qYcR3TvbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qYcR3TvbL._SL200_.jpg' ]
 comments: true
 category: ofertas

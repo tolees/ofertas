@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.02 % en Geox JR Sandal Roxanne C  Sandalias con '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AUuYHsm2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AUuYHsm2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AUuYHsm2L._SL200_.jpg' ]
 comments: true
 category: ofertas

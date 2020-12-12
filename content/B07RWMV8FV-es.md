@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.58 % en NIVEA SUN Spray Solar Niños FP50 + Prote'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sAdyrJ6ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sAdyrJ6ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sAdyrJ6ML._SL200_.jpg' ]
 comments: true
 category: ofertas

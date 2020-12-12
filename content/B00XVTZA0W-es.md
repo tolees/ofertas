@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.10 % en Dockers 35CP308-620430  Botas de Motoris'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ofirm31hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ofirm31hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ofirm31hL._SL200_.jpg' ]
 comments: true
 category: ofertas

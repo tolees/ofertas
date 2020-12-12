@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.32 % en Eachy iPhone XR Cristal Templado  [3 Uni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D4CpDJ1CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D4CpDJ1CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D4CpDJ1CL._SL200_.jpg' ]
 comments: true
 category: ofertas

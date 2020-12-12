@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.43 % en Hugo Boss 13398 - Agua de perfume'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314yV6Rb7GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314yV6Rb7GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314yV6Rb7GL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.30 % en Bluedio T5 Auriculares Bluetooth inalámb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dh5hE6%2BJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dh5hE6%2BJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dh5hE6%2BJL._SL200_.jpg' ]
 comments: true
 category: ofertas

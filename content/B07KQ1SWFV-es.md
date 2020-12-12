@@ -3,6 +3,7 @@ layout: post
 title: 'DC Apparel Vertigo Cap  Hombre  Black  1 al 55.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wdwTSnRiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wdwTSnRiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wdwTSnRiL._SL200_.jpg' ]
 comments: true
 category: ofertas

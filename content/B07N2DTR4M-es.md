@@ -3,6 +3,7 @@ layout: post
 title: 'Fossil Reloj Analógico para Hombre de Cu al 53.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CO28Jd6aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CO28Jd6aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CO28Jd6aL._SL200_.jpg' ]
 comments: true
 category: ofertas

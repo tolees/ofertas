@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Giorgio 0AR8065H 502613 52 Gafas  al 81.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Re0ktiphL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Re0ktiphL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Re0ktiphL._SL200_.jpg' ]
 comments: true
 category: ofertas

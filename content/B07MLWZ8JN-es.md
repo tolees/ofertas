@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.15 % en Camisetas sin Mangas Mujer SHOBDW Moda D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e4AdxOACL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51e4AdxOACL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e4AdxOACL._SL200_.jpg' ]
 comments: true
 category: ofertas

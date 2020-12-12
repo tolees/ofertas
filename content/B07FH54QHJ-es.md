@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG Barlow Trucker Chaqueta  Hombr al 68.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412vL7NMjaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412vL7NMjaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412vL7NMjaL._SL200_.jpg' ]
 comments: true
 category: ofertas

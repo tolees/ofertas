@@ -3,6 +3,7 @@ layout: post
 title: 'JOTO 29XL Cartuchos de Tinta para Epson  al 40.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bSK5uhJ6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bSK5uhJ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bSK5uhJ6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'QUBABOBO Hamaca de Yoga Tafetán de Nailo al 30.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hIEYpbCwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hIEYpbCwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hIEYpbCwL._SL200_.jpg' ]
 comments: true
 category: ofertas

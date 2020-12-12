@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.60 % en Fossil - Herren Geldbörse ? Cody Rfid Bi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61-OEQFzD0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61-OEQFzD0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61-OEQFzD0L._SL200_.jpg' ]
 comments: true
 category: ofertas

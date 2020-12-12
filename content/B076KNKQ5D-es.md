@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.81 % en Esprit 038ee1i002  suéter para Mujer   M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QCn-K60sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QCn-K60sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QCn-K60sL._SL200_.jpg' ]
 comments: true
 category: ofertas

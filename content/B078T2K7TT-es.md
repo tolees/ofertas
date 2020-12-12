@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.55 % en Women’secret Bañador Bañador  Mujer  Bei'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gtwobpvWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gtwobpvWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gtwobpvWL._SL200_.jpg' ]
 comments: true
 category: ofertas

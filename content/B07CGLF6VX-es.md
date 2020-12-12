@@ -3,6 +3,7 @@ layout: post
 title: 'Agatha Ruiz de la Prada-16859 Mochila Gr al 56.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wKrx07BXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wKrx07BXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wKrx07BXL._SL200_.jpg' ]
 comments: true
 category: ofertas

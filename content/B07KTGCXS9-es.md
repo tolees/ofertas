@@ -3,6 +3,7 @@ layout: post
 title: 'United Colors of Benetton Hombre Sweater al 73.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Z7Q0%2B3QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416Z7Q0%2B3QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Z7Q0%2B3QL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.23 % en Uncharted 4: A Thief s End [Importación '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61NZWk38csL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61NZWk38csL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61NZWk38csL._SL200_.jpg' ]
 comments: true
 category: ofertas

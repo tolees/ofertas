@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.75 % en Call Of Duty: Infinite Warfare - Legacy '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SK-uJtuNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SK-uJtuNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SK-uJtuNL._SL200_.jpg' ]
 comments: true
 category: ofertas

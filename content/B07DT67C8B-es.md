@@ -3,6 +3,7 @@ layout: post
 title: 'HP Envy x360 13-ag0002ns - Ordenador Por al 29.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qXFETLCFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qXFETLCFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qXFETLCFL._SL200_.jpg' ]
 comments: true
 category: ofertas

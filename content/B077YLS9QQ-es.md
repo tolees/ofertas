@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Pantalón Capri Estilo Jogger Muje al 62.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kkJcR8j0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kkJcR8j0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kkJcR8j0L._SL200_.jpg' ]
 comments: true
 category: ofertas

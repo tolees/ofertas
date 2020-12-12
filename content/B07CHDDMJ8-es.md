@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.10 % en Nike Revolution 4  EU   Zapatillas de Ru'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N8vSlZ68L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41N8vSlZ68L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N8vSlZ68L._SL200_.jpg' ]
 comments: true
 category: ofertas

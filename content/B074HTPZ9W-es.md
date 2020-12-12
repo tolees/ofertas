@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Performance Go Run 6  Zapatilla al 77.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RWC7P%2BUEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RWC7P%2BUEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RWC7P%2BUEL._SL200_.jpg' ]
 comments: true
 category: ofertas

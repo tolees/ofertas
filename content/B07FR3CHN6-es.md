@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Un Trek Part  Sandalias de Talón  al 37.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zvX038JRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zvX038JRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zvX038JRL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.47 % en Scotch & Soda 135101-Slim  Estrechos  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WJJ86ugEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WJJ86ugEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WJJ86ugEL._SL200_.jpg' ]
 comments: true
 category: ofertas

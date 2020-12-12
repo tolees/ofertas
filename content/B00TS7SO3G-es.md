@@ -3,6 +3,7 @@ layout: post
 title: 'Uhlsport Basic Line 2.0 - Bolsa para Bot al 46.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RTUGOTu1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RTUGOTu1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RTUGOTu1L._SL200_.jpg' ]
 comments: true
 category: ofertas

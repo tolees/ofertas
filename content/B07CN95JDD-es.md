@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.62 % en HOM Autumn Temptation Trunk  Bañador par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4162FFMvt%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4162FFMvt%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4162FFMvt%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

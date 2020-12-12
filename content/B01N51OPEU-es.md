@@ -3,6 +3,7 @@ layout: post
 title: 'Córdoba Jewels | Conjunto de Gargantilla al 71.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UXUFm2EqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UXUFm2EqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UXUFm2EqL._SL200_.jpg' ]
 comments: true
 category: ofertas

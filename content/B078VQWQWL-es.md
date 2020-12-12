@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.34 % en Volcom Sound BSC SS Camiseta Manga Corta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b9fy7lckL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b9fy7lckL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b9fy7lckL._SL200_.jpg' ]
 comments: true
 category: ofertas

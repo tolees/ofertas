@@ -3,6 +3,7 @@ layout: post
 title: 'Scotch & Soda Regular Fit-Classic All-Ov al 63.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2BOOpnr2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2BOOpnr2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U%2BOOpnr2L._SL200_.jpg' ]
 comments: true
 category: ofertas

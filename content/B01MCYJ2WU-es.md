@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 86.77 % en MAMALICIOUS Mlmadelyn LS Knit Dress  Ves'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bcyykc%2BmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bcyykc%2BmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bcyykc%2BmL._SL200_.jpg' ]
 comments: true
 category: ofertas

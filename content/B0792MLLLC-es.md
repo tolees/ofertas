@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.36 % en Safta Bolsa De Deporte Benetton "Geometr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iK0%2BQCjhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iK0%2BQCjhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iK0%2BQCjhL._SL200_.jpg' ]
 comments: true
 category: ofertas

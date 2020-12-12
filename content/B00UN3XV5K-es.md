@@ -3,6 +3,7 @@ layout: post
 title: 'Nissin Di700A + Commander Air 1 - Flash  al 33.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4174UrUv3pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4174UrUv3pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4174UrUv3pL._SL200_.jpg' ]
 comments: true
 category: ofertas

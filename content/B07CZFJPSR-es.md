@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Tech Polo  Hombre  Azul  Th al 42.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JYll5golL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JYll5golL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JYll5golL._SL200_.jpg' ]
 comments: true
 category: ofertas

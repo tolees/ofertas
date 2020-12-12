@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.15 % en adidas Advantage Adapt  Zapatillas para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-lpGwcmYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-lpGwcmYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-lpGwcmYL._SL200_.jpg' ]
 comments: true
 category: ofertas

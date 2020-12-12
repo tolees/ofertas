@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Sh6382 Sudadera  Verde  Vert 132 al 45.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418dqP4HyuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418dqP4HyuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418dqP4HyuL._SL200_.jpg' ]
 comments: true
 category: ofertas

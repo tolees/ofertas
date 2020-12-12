@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.56 % en Gre ET1200 - Escalera standard tipo tije'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

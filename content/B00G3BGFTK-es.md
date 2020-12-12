@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.90 % en Ridge Retro 27 Skateboard  Unisex  Verde'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415jtbMn4CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415jtbMn4CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415jtbMn4CL._SL200_.jpg' ]
 comments: true
 category: ofertas

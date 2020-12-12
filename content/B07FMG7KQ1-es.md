@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.35 % en Only Nos NOS Onlmila Lacy L/s Pullover K'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SldG-9klL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SldG-9klL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SldG-9klL._SL200_.jpg' ]
 comments: true
 category: ofertas

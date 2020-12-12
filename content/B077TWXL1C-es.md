@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.62 % en Reebok Cm9606  Zapatillas de Gimnasia pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ufFaDbELL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ufFaDbELL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ufFaDbELL._SL200_.jpg' ]
 comments: true
 category: ofertas

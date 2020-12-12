@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.31 % en Star Wars abypel003 35 cm cojín de peluc'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onladah L/s Blazer Jrs Chaqueta de  al 65.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518sVfxa8UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518sVfxa8UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518sVfxa8UL._SL200_.jpg' ]
 comments: true
 category: ofertas

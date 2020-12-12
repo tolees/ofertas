@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.23 % en Columbia Heather Canyon Cortavientos  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eGM5WzywL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eGM5WzywL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eGM5WzywL._SL200_.jpg' ]
 comments: true
 category: ofertas

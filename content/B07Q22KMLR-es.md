@@ -3,6 +3,7 @@ layout: post
 title: '120 Cápsulas Nespresso Surtido Compatibl al 46.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JJfaT-ZfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JJfaT-ZfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JJfaT-ZfL._SL200_.jpg' ]
 comments: true
 category: ofertas

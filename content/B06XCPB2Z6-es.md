@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers On-The-go City 2  Botas para Mu al 38.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W66t75%2BlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W66t75%2BlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W66t75%2BlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Dremel 7020-PGK - Manicura para mascotas al 30.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o-T5ji-6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31o-T5ji-6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o-T5ji-6L._SL200_.jpg' ]
 comments: true
 category: ofertas

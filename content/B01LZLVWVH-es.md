@@ -3,6 +3,7 @@ layout: post
 title: 'Eddie Bauer Langarmhemd Kariert Camisa   al 88.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tFarcHqjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tFarcHqjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tFarcHqjL._SL200_.jpg' ]
 comments: true
 category: ofertas

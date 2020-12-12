@@ -3,6 +3,7 @@ layout: post
 title: 'Brooks Brothers Gilet Trapuntato - Chale al 53.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Biso6O8hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Biso6O8hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Biso6O8hL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Annytah Moc C  Mocasines para Muj al 71.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4131SDc1BkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4131SDc1BkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4131SDc1BkL._SL200_.jpg' ]
 comments: true
 category: ofertas

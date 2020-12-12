@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.03 % en Nike Superfly 6 Club FG/MG  Zapatillas d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RVc8cHiCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RVc8cHiCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RVc8cHiCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes New Star Sherpa Sudadera  Hombr al 57.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Qf0KadzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416Qf0KadzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Qf0KadzL._SL200_.jpg' ]
 comments: true
 category: ofertas

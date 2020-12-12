@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.27 % en Gembird MHS 001 - Auriculares con micróf'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hyk2rQSKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hyk2rQSKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hyk2rQSKL._SL200_.jpg' ]
 comments: true
 category: ofertas

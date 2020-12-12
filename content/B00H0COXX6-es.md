@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.25 % en Nike Tournament Knit Falda  Mujer  Blanc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H0780FuiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H0780FuiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H0780FuiL._SL200_.jpg' ]
 comments: true
 category: ofertas

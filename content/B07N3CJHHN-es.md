@@ -3,6 +3,7 @@ layout: post
 title: 'Munich Sapporo  Zapatillas Unisex Adulto al 50.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BKYtbI-PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BKYtbI-PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BKYtbI-PL._SL200_.jpg' ]
 comments: true
 category: ofertas

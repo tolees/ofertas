@@ -3,6 +3,7 @@ layout: post
 title: 'Nike M Hoodie Po FLC TM Club19 Sweatshir al 44.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DWqiTBj4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DWqiTBj4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DWqiTBj4L._SL200_.jpg' ]
 comments: true
 category: ofertas

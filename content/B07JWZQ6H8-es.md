@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.98 % en Armani Exchange Blinking Logo V-Neck Sud'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sxrUyG2FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sxrUyG2FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sxrUyG2FL._SL200_.jpg' ]
 comments: true
 category: ofertas

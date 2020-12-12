@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.1.T.Ap. All Over Flores  V al 27.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M9dLGlnpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M9dLGlnpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M9dLGlnpL._SL200_.jpg' ]
 comments: true
 category: ofertas

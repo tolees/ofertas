@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2750 Cotu Classic  Zapatillas Un al 74.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YQ9cq71PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YQ9cq71PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YQ9cq71PL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SuenosZzz Sillón Relax Repaldo y Reposap al 62.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TTXWFa%2BXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TTXWFa%2BXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TTXWFa%2BXL._SL200_.jpg' ]
 comments: true
 category: ofertas

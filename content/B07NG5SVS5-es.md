@@ -3,6 +3,7 @@ layout: post
 title: 'Move Base de batería portátil para Googl al 37.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C5n0AlIcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C5n0AlIcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C5n0AlIcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.80 % en Munvot- Mujer Leggins y Mallas de Cintur'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rRDPH62pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rRDPH62pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rRDPH62pL._SL200_.jpg' ]
 comments: true
 category: ofertas

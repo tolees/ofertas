@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY M4006 .000.80279a Camisa  Azul  A al 69.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GB%2BD82ixL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GB%2BD82ixL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GB%2BD82ixL._SL200_.jpg' ]
 comments: true
 category: ofertas

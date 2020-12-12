@@ -3,6 +3,7 @@ layout: post
 title: 'BERSIGAR Hombre Negro Esfera Acero Inoxi al 57.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Me%2BuLPGjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Me%2BuLPGjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Me%2BuLPGjL._SL200_.jpg' ]
 comments: true
 category: ofertas

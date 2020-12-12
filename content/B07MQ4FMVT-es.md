@@ -3,6 +3,7 @@ layout: post
 title: 'Plextone 24 colores impermeable sensor d al 67.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Eq-gk%2BhGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Eq-gk%2BhGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Eq-gk%2BhGL._SL200_.jpg' ]
 comments: true
 category: ofertas

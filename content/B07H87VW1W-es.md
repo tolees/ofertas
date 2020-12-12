@@ -3,6 +3,7 @@ layout: post
 title: 'Finether Licuadora al Vacío 3 en 1  Licu al 75.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XHCoE9RcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XHCoE9RcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XHCoE9RcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.89 % en Adidas VL Court 2.0 B43816  Zapatillas p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dwvz1YIFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dwvz1YIFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dwvz1YIFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.28 % en adidas Crazytrain 2 CF M  Zapatillas de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SZLqfklaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SZLqfklaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SZLqfklaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjirick Jjicon Shorts GE 44 al 37.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pbOe8caJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pbOe8caJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pbOe8caJL._SL200_.jpg' ]
 comments: true
 category: ofertas

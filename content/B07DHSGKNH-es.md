@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Backstack  Mochila Mediana para al 47.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z-YLmJ6FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31z-YLmJ6FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z-YLmJ6FL._SL200_.jpg' ]
 comments: true
 category: ofertas

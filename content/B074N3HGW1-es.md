@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.52 % en YONE Hebilla de cinturón Rock Punk Skull'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PG48BYtwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PG48BYtwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PG48BYtwL._SL200_.jpg' ]
 comments: true
 category: ofertas

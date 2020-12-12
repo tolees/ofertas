@@ -3,6 +3,7 @@ layout: post
 title: 'Bolso cruzado al pecho de algodón en 40  al 44.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IarsofWyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IarsofWyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IarsofWyL._SL200_.jpg' ]
 comments: true
 category: ofertas

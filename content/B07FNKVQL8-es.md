@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.44 % en edc by Esprit 108cc2i015  suéter para Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qOM14WghL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qOM14WghL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qOM14WghL._SL200_.jpg' ]
 comments: true
 category: ofertas

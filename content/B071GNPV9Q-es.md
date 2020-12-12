@@ -3,6 +3,7 @@ layout: post
 title: 'Apple iPad Pro - Tablet de 10.5"  64 GB  al 32.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DS%2BFqUeIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DS%2BFqUeIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DS%2BFqUeIL._SL200_.jpg' ]
 comments: true
 category: ofertas

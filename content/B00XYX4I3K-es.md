@@ -3,6 +3,7 @@ layout: post
 title: 'Tantra Leather Espadrille Wedge Sandals  al 92.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EDQY%2B40oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EDQY%2B40oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EDQY%2B40oL._SL200_.jpg' ]
 comments: true
 category: ofertas

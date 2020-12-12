@@ -3,6 +3,7 @@ layout: post
 title: 'Moma Bikes Bicicleta Infantil 20" SHIMAN al 35.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oK937gyoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oK937gyoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oK937gyoL._SL200_.jpg' ]
 comments: true
 category: ofertas

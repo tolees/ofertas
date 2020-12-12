@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.57 % en Guess Pendientes Statement Mujer latón -'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A1ypAX3kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A1ypAX3kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A1ypAX3kL._SL200_.jpg' ]
 comments: true
 category: ofertas

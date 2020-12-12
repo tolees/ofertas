@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Poppy  Pantalones Cortos Para al 65.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XebnkrcBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XebnkrcBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XebnkrcBL._SL200_.jpg' ]
 comments: true
 category: ofertas

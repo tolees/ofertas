@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.77 % en Greenworks 3820037 Motosierra Eléctrica '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FV00CUMCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FV00CUMCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FV00CUMCL._SL200_.jpg' ]
 comments: true
 category: ofertas

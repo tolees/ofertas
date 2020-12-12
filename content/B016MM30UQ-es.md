@@ -3,6 +3,7 @@ layout: post
 title: 'Tattu Batería LiPo 1800mAh 14.8V 45C 4S  al 25.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513w9C5VCQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513w9C5VCQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513w9C5VCQL._SL200_.jpg' ]
 comments: true
 category: ofertas

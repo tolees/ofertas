@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en Anillo vibrador para pene de silicona su'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31k3aP7EqsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31k3aP7EqsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31k3aP7EqsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.20 % en Burton Kettle Mochila  Mujer  Negro  Fad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FI461McbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FI461McbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FI461McbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Cascade Explorer Pantalón Conve al 44.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jbf0oYfQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jbf0oYfQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jbf0oYfQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Cooper  Suéter para Hombre  R al 61.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dor3SbfFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dor3SbfFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dor3SbfFL._SL200_.jpg' ]
 comments: true
 category: ofertas

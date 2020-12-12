@@ -3,6 +3,7 @@ layout: post
 title: 'Ipanema Classic Brasil II Kids  Chanclas al 31.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n7NnPZYEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n7NnPZYEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n7NnPZYEL._SL200_.jpg' ]
 comments: true
 category: ofertas

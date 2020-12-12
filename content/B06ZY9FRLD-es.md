@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.29 % en Calvin Klein Hip Brief Slip  Negro  Blac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pu7ScXEhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pu7ScXEhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pu7ScXEhL._SL200_.jpg' ]
 comments: true
 category: ofertas

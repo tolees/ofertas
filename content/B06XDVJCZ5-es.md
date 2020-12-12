@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen W Marion  Botas para Mujer  al 59.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uO9qchT3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uO9qchT3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uO9qchT3L._SL200_.jpg' ]
 comments: true
 category: ofertas

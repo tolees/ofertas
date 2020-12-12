@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Fast Trek II Full Zip Forro Pol al 50.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XTrCODD9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XTrCODD9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XTrCODD9L._SL200_.jpg' ]
 comments: true
 category: ofertas

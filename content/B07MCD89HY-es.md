@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.64 % en XOMAX XM-2R421 Radio de Coche con Blueto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e7q9jx5WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51e7q9jx5WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e7q9jx5WL._SL200_.jpg' ]
 comments: true
 category: ofertas

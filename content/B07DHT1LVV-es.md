@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Defy Youth Chaqueta  Niños  Ver al 45.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i%2BLYTiRwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51i%2BLYTiRwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i%2BLYTiRwL._SL200_.jpg' ]
 comments: true
 category: ofertas

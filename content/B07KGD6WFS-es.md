@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS tee 7 Camiseta  Negro  Black 101    al 69.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZRMzR0PHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZRMzR0PHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZRMzR0PHL._SL200_.jpg' ]
 comments: true
 category: ofertas

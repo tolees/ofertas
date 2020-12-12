@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 410 Hook and Loop  Zapatilla al 71.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-ReV-SPSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-ReV-SPSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-ReV-SPSL._SL200_.jpg' ]
 comments: true
 category: ofertas

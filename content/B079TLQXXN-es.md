@@ -3,6 +3,7 @@ layout: post
 title: 'Baby Jogger City Go  Silla de coche grup al 57.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X0EBuRBSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X0EBuRBSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X0EBuRBSL._SL200_.jpg' ]
 comments: true
 category: ofertas

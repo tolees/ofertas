@@ -3,6 +3,7 @@ layout: post
 title: 'SGODDE Colchón Hinchable  Estante Inflab al 50.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PjYlxLrxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PjYlxLrxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PjYlxLrxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Indicode 40-149-Camiseta Hombre Negro  B al 65.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GoC6-w7tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GoC6-w7tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GoC6-w7tL._SL200_.jpg' ]
 comments: true
 category: ofertas

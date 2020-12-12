@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.87 % en Michael Kors 1-29-19-02 - EDP Spray  100'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319TUMQed-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319TUMQed-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319TUMQed-L._SL200_.jpg' ]
 comments: true
 category: ofertas

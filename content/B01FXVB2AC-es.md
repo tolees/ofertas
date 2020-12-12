@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.03 % en Ultrasport - Cinturón con luz LED y Bols'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416coK3lkXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416coK3lkXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416coK3lkXL._SL200_.jpg' ]
 comments: true
 category: ofertas

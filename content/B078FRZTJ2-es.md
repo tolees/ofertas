@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Go Run 400-Fast Pace  Zapatilla al 46.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vDcYNr-kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vDcYNr-kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vDcYNr-kL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Got2b Laca Volumaniac - 3 Unidades de 30 al 59.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pWAyQw8GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pWAyQw8GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pWAyQw8GL._SL200_.jpg' ]
 comments: true
 category: ofertas

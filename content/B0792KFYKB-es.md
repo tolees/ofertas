@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.07 % en Quiksilver - Camisa de Manga Corta - Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410ef7C0NqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410ef7C0NqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410ef7C0NqL._SL200_.jpg' ]
 comments: true
 category: ofertas

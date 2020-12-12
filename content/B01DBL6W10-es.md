@@ -3,6 +3,7 @@ layout: post
 title: 'Noppies Dress 3/4 Silje  Vestido Para Mu al 92.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iCneXPPFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iCneXPPFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iCneXPPFL._SL200_.jpg' ]
 comments: true
 category: ofertas

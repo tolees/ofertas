@@ -3,6 +3,7 @@ layout: post
 title: 'James & Nicholson Sofshell Mens Sailing  al 90.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z%2BmjPFwzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z%2BmjPFwzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z%2BmjPFwzL._SL200_.jpg' ]
 comments: true
 category: ofertas

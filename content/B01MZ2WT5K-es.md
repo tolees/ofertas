@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Hugo Brief 3p Co/el  Bañador Hombre al 55.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B9dFD-K4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B9dFD-K4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B9dFD-K4L._SL200_.jpg' ]
 comments: true
 category: ofertas

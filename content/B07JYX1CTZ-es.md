@@ -3,6 +3,7 @@ layout: post
 title: 'OCYCLONE Champú Sólido 3 PACK  Gengibre  al 46.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eLv5jRO5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eLv5jRO5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eLv5jRO5L._SL200_.jpg' ]
 comments: true
 category: ofertas

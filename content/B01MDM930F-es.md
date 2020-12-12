@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS T-Shirt VN 3P CO  Camiseta para Hom al 33.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uxB3BZCZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uxB3BZCZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uxB3BZCZL._SL200_.jpg' ]
 comments: true
 category: ofertas

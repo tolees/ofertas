@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Crewline Qd Short  Hombre   al 53.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411A9mn4EGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411A9mn4EGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411A9mn4EGL._SL200_.jpg' ]
 comments: true
 category: ofertas

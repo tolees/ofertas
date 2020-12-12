@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.10 % en ASICS Tight Mallas  Sin género  Negro  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RVRWcd8wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RVRWcd8wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RVRWcd8wL._SL200_.jpg' ]
 comments: true
 category: ofertas

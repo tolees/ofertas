@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Collection 57401  Botines para Muje al 66.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DqAlnLXpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DqAlnLXpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DqAlnLXpL._SL200_.jpg' ]
 comments: true
 category: ofertas

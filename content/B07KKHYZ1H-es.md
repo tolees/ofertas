@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Kenu42 Camiseta de Manga Larga   al 53.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yNoDFYpcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yNoDFYpcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yNoDFYpcL._SL200_.jpg' ]
 comments: true
 category: ofertas

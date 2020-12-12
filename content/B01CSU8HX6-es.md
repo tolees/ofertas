@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.57 % en Joma 900038.671 - Camiseta para Mujer  C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314gurjHGuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314gurjHGuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314gurjHGuL._SL200_.jpg' ]
 comments: true
 category: ofertas

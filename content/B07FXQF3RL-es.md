@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Filmore Suede/Canvas  Zapatillas pa al 42.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CKpC6DV8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CKpC6DV8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CKpC6DV8L._SL200_.jpg' ]
 comments: true
 category: ofertas

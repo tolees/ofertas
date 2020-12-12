@@ -3,6 +3,7 @@ layout: post
 title: 'Ultima Pienso para Perros Medium Maxi Ju al 47.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hBVnobjFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hBVnobjFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hBVnobjFL._SL200_.jpg' ]
 comments: true
 category: ofertas

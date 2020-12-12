@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit - 087ea1v030  Carteras Mujer  Rot al 62.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QVL8X7ddL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QVL8X7ddL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QVL8X7ddL._SL200_.jpg' ]
 comments: true
 category: ofertas

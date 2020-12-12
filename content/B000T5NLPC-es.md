@@ -3,6 +3,7 @@ layout: post
 title: 'Royal Canin C-08980 S.N. Shih Tzu 24 - 5 al 40.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k66L5PqgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k66L5PqgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k66L5PqgL._SL200_.jpg' ]
 comments: true
 category: ofertas

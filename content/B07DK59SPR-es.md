@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.98 % en Geox J Pavel Girl a  Zapatillas para Niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-Nv-RoMTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-Nv-RoMTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-Nv-RoMTL._SL200_.jpg' ]
 comments: true
 category: ofertas

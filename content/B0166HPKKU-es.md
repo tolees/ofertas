@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Type C 3D Skinny  Jeans  Azul al 40.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oS1lX43uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oS1lX43uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oS1lX43uL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 7.J.Ap.Gym.Topos Chenilla Je al 54.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416RDcJcJVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416RDcJcJVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416RDcJcJVL._SL200_.jpg' ]
 comments: true
 category: ofertas

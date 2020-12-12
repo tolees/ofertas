@@ -3,6 +3,7 @@ layout: post
 title: 'SENSILIS Pure Perfection Crema Antiedad  al 39.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KfHrAf-3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KfHrAf-3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KfHrAf-3L._SL200_.jpg' ]
 comments: true
 category: ofertas

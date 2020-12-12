@@ -3,6 +3,7 @@ layout: post
 title: 'Cacharel Anais Anais Premier Delice Eau  al 41.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4173pCK49wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4173pCK49wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4173pCK49wL._SL200_.jpg' ]
 comments: true
 category: ofertas

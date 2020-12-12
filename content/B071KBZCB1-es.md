@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.01 % en SELECTED FEMME Sftilla LS Top Ex  Blusa '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mxwlQMOvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mxwlQMOvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mxwlQMOvL._SL200_.jpg' ]
 comments: true
 category: ofertas

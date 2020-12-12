@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Fuzetora Twist  Zapatillas de Runn al 59.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412SKaQWUsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412SKaQWUsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412SKaQWUsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.01 % en NACATIN Telescopio Astronómico  90x Zoom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417A7cq0DML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417A7cq0DML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417A7cq0DML._SL200_.jpg' ]
 comments: true
 category: ofertas

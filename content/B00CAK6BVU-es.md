@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.26 % en Aigle BENYL M  Botas de Goma de Trabajo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NNEt0rxhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NNEt0rxhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NNEt0rxhL._SL200_.jpg' ]
 comments: true
 category: ofertas

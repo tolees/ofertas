@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Un Karely Sun  Chanclas para Muje al 43.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FbbkRRybL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FbbkRRybL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FbbkRRybL._SL200_.jpg' ]
 comments: true
 category: ofertas

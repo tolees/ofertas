@@ -3,6 +3,7 @@ layout: post
 title: 'Invicta 22774 Disney Limited Edition - M al 30.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XKbkq2AUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XKbkq2AUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XKbkq2AUL._SL200_.jpg' ]
 comments: true
 category: ofertas

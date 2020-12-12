@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.06 % en Pepe Jeans Joris Camiseta    Off White 8'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vnWQycWyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vnWQycWyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vnWQycWyL._SL200_.jpg' ]
 comments: true
 category: ofertas

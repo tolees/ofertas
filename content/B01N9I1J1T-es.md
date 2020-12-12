@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.81 % en Merrell Moab Adventure Lace Waterproof  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kOJiQ7bWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kOJiQ7bWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kOJiQ7bWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star Raw 3301 Contour High Straight  V al 81.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9jYp1NBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9jYp1NBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9jYp1NBL._SL200_.jpg' ]
 comments: true
 category: ofertas

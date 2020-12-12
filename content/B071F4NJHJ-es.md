@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.00 % en Puma Basket Platform Patent  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519JlzTZv3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519JlzTZv3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519JlzTZv3L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.99 % en Kingston DataTraveler Micro 3.1 DTMC3/64'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Zf5zTzIFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21Zf5zTzIFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Zf5zTzIFL._SL200_.jpg' ]
 comments: true
 category: ofertas

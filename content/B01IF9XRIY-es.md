@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face S/S Camiseta De Manga Cor al 38.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fW3uWyrhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fW3uWyrhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fW3uWyrhL._SL200_.jpg' ]
 comments: true
 category: ofertas

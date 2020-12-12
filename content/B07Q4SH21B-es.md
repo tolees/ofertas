@@ -3,6 +3,7 @@ layout: post
 title: 'TOPERSUN 2 en 1 Cepillo para Mascotas Ce al 66.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YZDD3ZnUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YZDD3ZnUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YZDD3ZnUL._SL200_.jpg' ]
 comments: true
 category: ofertas

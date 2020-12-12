@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.44 % en Geox J Android C  Zapatillas para Niños '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FRQGbcgnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FRQGbcgnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FRQGbcgnL._SL200_.jpg' ]
 comments: true
 category: ofertas

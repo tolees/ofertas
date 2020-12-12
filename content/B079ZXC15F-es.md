@@ -3,6 +3,7 @@ layout: post
 title: 'Star vie Basalto 2018 Pala de pádel  Hom al 55.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J7CtHLTsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J7CtHLTsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J7CtHLTsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'TrendVital Carbón Activado Para Blanquea al 37.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QYR5KofML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QYR5KofML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QYR5KofML._SL200_.jpg' ]
 comments: true
 category: ofertas

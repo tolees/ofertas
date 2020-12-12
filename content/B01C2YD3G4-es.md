@@ -3,6 +3,7 @@ layout: post
 title: 'Disney Mickey Comic Bolso Bandolera  0.4 al 27.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61M8pFUrbtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61M8pFUrbtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61M8pFUrbtL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.44 % en Dogar Tabac Mesita 3 cajones  Pino  Weng'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DOLb21ySL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DOLb21ySL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DOLb21ySL._SL200_.jpg' ]
 comments: true
 category: ofertas

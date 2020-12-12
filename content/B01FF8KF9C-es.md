@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.76 % en JACK & JONES JJIPAUL JJWARNER AKM 168 NO'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419%2BW5-jKVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419%2BW5-jKVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419%2BW5-jKVL._SL200_.jpg' ]
 comments: true
 category: ofertas

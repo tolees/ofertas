@@ -3,6 +3,7 @@ layout: post
 title: 'Apple iPhone X - Smartphone de 5.8"  256 al 25.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DblSBnVyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DblSBnVyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DblSBnVyL._SL200_.jpg' ]
 comments: true
 category: ofertas

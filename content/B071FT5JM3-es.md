@@ -3,6 +3,7 @@ layout: post
 title: 'Manfrotto Messenger Manhattan Speedy 10  al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U6mish1uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U6mish1uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U6mish1uL._SL200_.jpg' ]
 comments: true
 category: ofertas

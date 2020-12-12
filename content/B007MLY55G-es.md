@@ -3,6 +3,7 @@ layout: post
 title: 'Derbystar Uni - Camiseta de equipación   al 62.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s3ynEXLJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s3ynEXLJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s3ynEXLJL._SL200_.jpg' ]
 comments: true
 category: ofertas

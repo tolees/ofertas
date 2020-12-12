@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.90 % en Weck 10074  Juntas para ollas y tarros  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MqHchjyZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MqHchjyZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MqHchjyZL._SL200_.jpg' ]
 comments: true
 category: ofertas

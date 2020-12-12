@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.73 % en Fortnite Pack 2 Figuras Pint Size Heroes'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nOl06tD%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nOl06tD%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nOl06tD%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

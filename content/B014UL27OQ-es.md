@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch SilentMixx MMB65G0M - Batidora de  al 54.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AirKDCkyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AirKDCkyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AirKDCkyL._SL200_.jpg' ]
 comments: true
 category: ofertas

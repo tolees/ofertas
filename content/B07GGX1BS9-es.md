@@ -3,6 +3,7 @@ layout: post
 title: 'GBlife 1:18 RC Coche 4WD Teledirigido Re al 48.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5164tIt0OhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5164tIt0OhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5164tIt0OhL._SL200_.jpg' ]
 comments: true
 category: ofertas

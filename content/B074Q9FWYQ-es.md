@@ -3,6 +3,7 @@ layout: post
 title: 'Etnies Jameson 2 Eco  Zapatillas de Skat al 48.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SO4VHrnHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SO4VHrnHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SO4VHrnHL._SL200_.jpg' ]
 comments: true
 category: ofertas

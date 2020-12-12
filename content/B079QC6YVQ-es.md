@@ -3,6 +3,7 @@ layout: post
 title: 'Converse Star Chevron Graphic Crew  Suda al 56.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WD9qFNxGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WD9qFNxGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WD9qFNxGL._SL200_.jpg' ]
 comments: true
 category: ofertas

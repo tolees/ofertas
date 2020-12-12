@@ -3,6 +3,7 @@ layout: post
 title: 'Mayoral 4028  Camiseta de Manga Larga pa al 47.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cNrdsSPuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cNrdsSPuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cNrdsSPuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Mochila ligera para running 3L   al 41.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-UJwtSjSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-UJwtSjSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-UJwtSjSL._SL200_.jpg' ]
 comments: true
 category: ofertas

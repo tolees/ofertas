@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Jaab XT Wn s  Zapatillas de Deporte al 64.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ruEW-8aZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ruEW-8aZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ruEW-8aZL._SL200_.jpg' ]
 comments: true
 category: ofertas

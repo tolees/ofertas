@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Balboa Short PL800695  Pantal al 28.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IroANDiwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IroANDiwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IroANDiwL._SL200_.jpg' ]
 comments: true
 category: ofertas

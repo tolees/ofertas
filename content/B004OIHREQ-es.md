@@ -3,6 +3,7 @@ layout: post
 title: 'Am-Tech - Surtido de termorretráctil  12 al 34.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EIenxZZuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EIenxZZuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EIenxZZuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste L1212  Polo Para Hombre  Gris  P al 41.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WUrVk1EoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WUrVk1EoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WUrVk1EoL._SL200_.jpg' ]
 comments: true
 category: ofertas

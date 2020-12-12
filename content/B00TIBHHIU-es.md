@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.00 % en Targus Topload Prospect TBT258EU - Malet'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31glCS5FRxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31glCS5FRxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31glCS5FRxL._SL200_.jpg' ]
 comments: true
 category: ofertas

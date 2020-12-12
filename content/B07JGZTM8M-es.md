@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.04 % en Superdry Low Roller tee Camiseta  Azul  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EbfC56jaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EbfC56jaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EbfC56jaL._SL200_.jpg' ]
 comments: true
 category: ofertas

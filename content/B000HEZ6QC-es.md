@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.92 % en Nobo 1901954 - Pantalla proyección portá'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xTBtylCyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xTBtylCyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xTBtylCyL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Tuc Tuc Playground  Americana para Niñas al 71.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aU4x4uQML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aU4x4uQML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aU4x4uQML._SL200_.jpg' ]
 comments: true
 category: ofertas

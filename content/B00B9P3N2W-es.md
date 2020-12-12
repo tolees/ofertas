@@ -3,6 +3,7 @@ layout: post
 title: 'Rotary AGB00074/W/04 - Reloj analógico d al 26.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R2PWaj0sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R2PWaj0sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R2PWaj0sL._SL200_.jpg' ]
 comments: true
 category: ofertas

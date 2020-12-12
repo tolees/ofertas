@@ -3,6 +3,7 @@ layout: post
 title: '2 piezas Cadena de luces LED De pilas 5m al 64.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/618mByxUzKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/618mByxUzKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/618mByxUzKL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'TedGem WiFi Display Dongle  2.4G 5G HDMI al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nTUdzbr-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nTUdzbr-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nTUdzbr-L._SL200_.jpg' ]
 comments: true
 category: ofertas

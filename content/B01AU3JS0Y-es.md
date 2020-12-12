@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Ck2 Vaporizador Agua de Col al 63.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EuGs8-zeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EuGs8-zeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EuGs8-zeL._SL200_.jpg' ]
 comments: true
 category: ofertas

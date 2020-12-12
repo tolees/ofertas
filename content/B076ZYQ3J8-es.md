@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.43 % en SELECTED HOMME Shnslim-Leon 6111 Mid St '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l7GYpYSBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l7GYpYSBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l7GYpYSBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lacor 90000 - Batería 8 piezas Gourmet e al 75.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-nCLddLJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-nCLddLJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-nCLddLJL._SL200_.jpg' ]
 comments: true
 category: ofertas

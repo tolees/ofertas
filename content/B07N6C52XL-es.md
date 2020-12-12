@@ -3,6 +3,7 @@ layout: post
 title: 'OfficeWorld 16XL Reemplazo para Epson 16 al 27.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yea0q4FLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yea0q4FLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yea0q4FLL._SL200_.jpg' ]
 comments: true
 category: ofertas

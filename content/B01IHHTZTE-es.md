@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel Traje Hombre Azul Marino ES 52 al 76.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31belr4EtlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31belr4EtlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31belr4EtlL._SL200_.jpg' ]
 comments: true
 category: ofertas

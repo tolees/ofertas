@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO-40061730 Caja de Almacenaje Apilabl al 50.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hWwnUezQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hWwnUezQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hWwnUezQL._SL200_.jpg' ]
 comments: true
 category: ofertas

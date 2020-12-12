@@ -3,6 +3,7 @@ layout: post
 title: 'ThorFire C8S - Linternas LED Alta Potenc al 44.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xMFzvinlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xMFzvinlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xMFzvinlL._SL200_.jpg' ]
 comments: true
 category: ofertas

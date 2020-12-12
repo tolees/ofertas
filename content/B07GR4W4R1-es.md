@@ -3,6 +3,7 @@ layout: post
 title: 'Hiboy Pack Patinete Rosa con Asiento Kar al 53.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z-S3wt2yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z-S3wt2yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z-S3wt2yL._SL200_.jpg' ]
 comments: true
 category: ofertas

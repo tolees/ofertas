@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.31 % en XTI 85988  Shopper para Mujer  Marrón  C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zC6JFI6lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zC6JFI6lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zC6JFI6lL._SL200_.jpg' ]
 comments: true
 category: ofertas

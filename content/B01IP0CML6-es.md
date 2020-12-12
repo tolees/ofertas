@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Originals Gazelle  Zapatillas Uni al 52.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sGiSEG42L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sGiSEG42L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sGiSEG42L._SL200_.jpg' ]
 comments: true
 category: ofertas

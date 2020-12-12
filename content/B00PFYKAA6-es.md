@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.67 % en Braun Minipimer 5 MQ5037WH Puree and sau'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516cRpX%2BwfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516cRpX%2BwfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516cRpX%2BwfL._SL200_.jpg' ]
 comments: true
 category: ofertas

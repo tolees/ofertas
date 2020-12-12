@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.51 % en K-Swiss Aero Trainer  Zapatillas para Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417uNaALNZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417uNaALNZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417uNaALNZL._SL200_.jpg' ]
 comments: true
 category: ofertas

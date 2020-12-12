@@ -3,6 +3,7 @@ layout: post
 title: 'erima Jacke Club 1900 Trainingssweat - T al 64.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AZYOAWcsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AZYOAWcsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AZYOAWcsL._SL200_.jpg' ]
 comments: true
 category: ofertas

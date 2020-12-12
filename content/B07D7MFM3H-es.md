@@ -3,6 +3,7 @@ layout: post
 title: 'FM London Racer Back  Camiseta Deportiva al 52.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZRvMW-ICL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZRvMW-ICL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZRvMW-ICL._SL200_.jpg' ]
 comments: true
 category: ofertas

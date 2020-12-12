@@ -3,6 +3,7 @@ layout: post
 title: 'JBL Club 5020 Altavoces Coaxiales 6"x9"  al 31.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EBLhdVYNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EBLhdVYNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EBLhdVYNL._SL200_.jpg' ]
 comments: true
 category: ofertas

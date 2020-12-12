@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.60 % en Double Agent Short Skirt with Opening ON'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JUCWAPrHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JUCWAPrHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JUCWAPrHL._SL200_.jpg' ]
 comments: true
 category: ofertas

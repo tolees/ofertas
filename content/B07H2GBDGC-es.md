@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.50 % en TiaoBug 4Pcs Disfraz de Anime Mujer Cosp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EdNEIYkML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EdNEIYkML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EdNEIYkML._SL200_.jpg' ]
 comments: true
 category: ofertas

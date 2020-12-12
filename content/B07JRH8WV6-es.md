@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.41 % en UMIDIGI One Smartphone Libre Android 8.1'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tDzCEOFcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tDzCEOFcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tDzCEOFcL._SL200_.jpg' ]
 comments: true
 category: ofertas

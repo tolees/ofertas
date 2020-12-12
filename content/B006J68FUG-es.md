@@ -3,6 +3,7 @@ layout: post
 title: 'High Peak 10073 Texel 3  Tienda de campa al 36.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412xnMzUgEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412xnMzUgEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412xnMzUgEL._SL200_.jpg' ]
 comments: true
 category: ofertas

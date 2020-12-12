@@ -3,6 +3,7 @@ layout: post
 title: 'TOOHUI Set de 2 Red de Canasta  Red Tric al 37.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tEDbXxMPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tEDbXxMPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tEDbXxMPL._SL200_.jpg' ]
 comments: true
 category: ofertas

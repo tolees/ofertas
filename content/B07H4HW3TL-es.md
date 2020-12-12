@@ -3,6 +3,7 @@ layout: post
 title: 'Pack.It Maleta Ligera de Carcasa Dura de al 50.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qjm0Km7bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qjm0Km7bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qjm0Km7bL._SL200_.jpg' ]
 comments: true
 category: ofertas

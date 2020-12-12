@@ -3,6 +3,7 @@ layout: post
 title: 'Ready 2 Robot Serie 1 - Battle Pack caps al 49.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mquTLycqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mquTLycqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mquTLycqL._SL200_.jpg' ]
 comments: true
 category: ofertas

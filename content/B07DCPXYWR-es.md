@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Basket Badge Wn s  Zapatillas para  al 82.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sSQWzAkdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sSQWzAkdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sSQWzAkdL._SL200_.jpg' ]
 comments: true
 category: ofertas

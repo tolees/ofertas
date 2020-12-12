@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.80 % en Rimmel London Super Gel Esmalte de Uñas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a8rn2eNAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a8rn2eNAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a8rn2eNAL._SL200_.jpg' ]
 comments: true
 category: ofertas

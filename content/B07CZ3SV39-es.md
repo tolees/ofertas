@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW ARC 3D Relaxed Tapered Fit Je al 84.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SH9HZRySL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SH9HZRySL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SH9HZRySL._SL200_.jpg' ]
 comments: true
 category: ofertas

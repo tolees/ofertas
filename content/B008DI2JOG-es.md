@@ -3,6 +3,7 @@ layout: post
 title: 'STANLEY FATMAX FMHT6-70418 - Pistola de  al 25.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pkbHbrhyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pkbHbrhyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pkbHbrhyL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.94 % en Kealive Callus Remover Herramientas de p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g05B%2BdhTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g05B%2BdhTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g05B%2BdhTL._SL200_.jpg' ]
 comments: true
 category: ofertas

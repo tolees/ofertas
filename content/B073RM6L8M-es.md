@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.94 % en Reebok Express Runner SL  Zapatillas de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4112ClzegAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4112ClzegAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4112ClzegAL._SL200_.jpg' ]
 comments: true
 category: ofertas

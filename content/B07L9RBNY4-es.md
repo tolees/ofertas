@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Sachu Camiseta  Azul  BLU Mari al 30.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Awu8y%2BTCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Awu8y%2BTCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Awu8y%2BTCL._SL200_.jpg' ]
 comments: true
 category: ofertas

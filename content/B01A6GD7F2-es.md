@@ -3,6 +3,7 @@ layout: post
 title: 'AUKEY Altavoz Bluetooth 4.0 al Aire Libr al 50.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bScfpEyAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bScfpEyAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bScfpEyAL._SL200_.jpg' ]
 comments: true
 category: ofertas

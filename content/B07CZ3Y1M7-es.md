@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.00 % en Asics Patriot 10 GS  Zapatillas de Entre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rC-D4nNSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rC-D4nNSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rC-D4nNSL._SL200_.jpg' ]
 comments: true
 category: ofertas

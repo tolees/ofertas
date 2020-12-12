@@ -3,6 +3,7 @@ layout: post
 title: 'Nerf - Elite Dual Strike  Hasbro B4620EU al 54.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jyYfhJ2bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jyYfhJ2bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jyYfhJ2bL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'ZADO - Bondage al 26.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512pEzX78FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512pEzX78FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512pEzX78FL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 624  Zapatillas de Deporte E al 57.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HKFnUdotL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HKFnUdotL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HKFnUdotL._SL200_.jpg' ]
 comments: true
 category: ofertas

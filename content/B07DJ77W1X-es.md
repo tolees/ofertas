@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Nebula a  Zapatillas para Hombre  al 72.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gQdziRuYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gQdziRuYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gQdziRuYL._SL200_.jpg' ]
 comments: true
 category: ofertas

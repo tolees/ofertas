@@ -3,6 +3,7 @@ layout: post
 title: 'Einhell GC- HM 40  - Cortacesped manual  al 28.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LD3Wy%2BMOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LD3Wy%2BMOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LD3Wy%2BMOL._SL200_.jpg' ]
 comments: true
 category: ofertas

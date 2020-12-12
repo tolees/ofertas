@@ -3,6 +3,7 @@ layout: post
 title: 'Urban Classics Ladies Inset Striped Crew al 63.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yvzze2ITL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yvzze2ITL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yvzze2ITL._SL200_.jpg' ]
 comments: true
 category: ofertas

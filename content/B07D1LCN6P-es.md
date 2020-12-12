@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Sonoma 3 G-TX  Zapatillas de R al 32.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KSfMI3dVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KSfMI3dVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KSfMI3dVL._SL200_.jpg' ]
 comments: true
 category: ofertas

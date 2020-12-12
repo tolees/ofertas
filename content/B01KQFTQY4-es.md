@@ -3,6 +3,7 @@ layout: post
 title: 'Dreamlove Plug Extra Largo Rojo con Diam al 58.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YvxlK6ySL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YvxlK6ySL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YvxlK6ySL._SL200_.jpg' ]
 comments: true
 category: ofertas

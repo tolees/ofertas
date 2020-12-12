@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.41 % en Under Armour Commit TR Ex  Zapatillas De'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PU5A0mCyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PU5A0mCyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PU5A0mCyL._SL200_.jpg' ]
 comments: true
 category: ofertas

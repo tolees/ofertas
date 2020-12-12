@@ -3,6 +3,7 @@ layout: post
 title: 'Walimex Pro 14 mm 1:2.8 - Objetivo para  al 57.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cEtkIze%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cEtkIze%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cEtkIze%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

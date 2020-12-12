@@ -3,6 +3,7 @@ layout: post
 title: 'Britax Römer Advansafix III SICT  Silla  al 51.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o-tbszuhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51o-tbszuhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51o-tbszuhL._SL200_.jpg' ]
 comments: true
 category: ofertas

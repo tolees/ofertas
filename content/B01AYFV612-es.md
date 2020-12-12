@@ -3,6 +3,7 @@ layout: post
 title: 'Huawei MediaPad M2 Tableta  16GB  3G 4G  al 31.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vWfNuaXhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vWfNuaXhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vWfNuaXhL._SL200_.jpg' ]
 comments: true
 category: ofertas

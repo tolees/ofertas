@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Tech Jogger Pantalón Largo  al 77.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uZV3k-idL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uZV3k-idL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uZV3k-idL._SL200_.jpg' ]
 comments: true
 category: ofertas

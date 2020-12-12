@@ -3,6 +3,7 @@ layout: post
 title: 'adidas X_PLR J  Zapatillas Unisex Niños  al 58.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dlp-QY1dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dlp-QY1dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dlp-QY1dL._SL200_.jpg' ]
 comments: true
 category: ofertas

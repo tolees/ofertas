@@ -3,6 +3,7 @@ layout: post
 title: 'Oakley Flak Draft Gafas de Sol  Navy  67 al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315SA6smn1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315SA6smn1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315SA6smn1L._SL200_.jpg' ]
 comments: true
 category: ofertas

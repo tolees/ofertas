@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.03 % en Versa Patchwork Taburete Cuadrado  Mader'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Huta8nBXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Huta8nBXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Huta8nBXL._SL200_.jpg' ]
 comments: true
 category: ofertas

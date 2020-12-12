@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en Crocs Crocband - Sandalias/Chancletas pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ztAOENsJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ztAOENsJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ztAOENsJL._SL200_.jpg' ]
 comments: true
 category: ofertas

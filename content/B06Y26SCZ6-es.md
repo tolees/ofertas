@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J Kalispera Girl I  Zapatillas Alta al 44.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Y%2B2ZxRqbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y%2B2ZxRqbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Y%2B2ZxRqbL._SL200_.jpg' ]
 comments: true
 category: ofertas

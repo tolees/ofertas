@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.04 % en Timberland Chocorua Trail Goretex Waterp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OLFg6UYAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OLFg6UYAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OLFg6UYAL._SL200_.jpg' ]
 comments: true
 category: ofertas

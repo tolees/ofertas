@@ -3,6 +3,7 @@ layout: post
 title: 'ZEP Caracas Red Portafotos Múltiple  Roj al 29.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vl7a03uuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vl7a03uuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vl7a03uuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Sukie a  Zapatillas para Mujer  B al 33.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C-D%2BGPCdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C-D%2BGPCdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C-D%2BGPCdL._SL200_.jpg' ]
 comments: true
 category: ofertas

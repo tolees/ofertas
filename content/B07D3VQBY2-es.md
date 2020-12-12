@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.57 % en edc by Esprit Rubine Wireless Soft  Suje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51V8a2veH7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51V8a2veH7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51V8a2veH7L._SL200_.jpg' ]
 comments: true
 category: ofertas

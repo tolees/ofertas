@@ -3,6 +3,7 @@ layout: post
 title: 'TV Box Android 7.1 - VIDEN W2 Smart TV B al 26.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SkJ0FHgPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SkJ0FHgPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SkJ0FHgPL._SL200_.jpg' ]
 comments: true
 category: ofertas

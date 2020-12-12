@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Mix&Match LS Shirt R  Camiseta de M al 49.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jc-5irs5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jc-5irs5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jc-5irs5L._SL200_.jpg' ]
 comments: true
 category: ofertas

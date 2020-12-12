@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face M Jacket Chaqueta Stratos al 46.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pe%2BfFYcYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pe%2BfFYcYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pe%2BfFYcYL._SL200_.jpg' ]
 comments: true
 category: ofertas

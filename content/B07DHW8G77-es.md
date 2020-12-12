@@ -3,6 +3,7 @@ layout: post
 title: 'CMP 38W0637_U901_50 Chaqueta  Hombre  Ne al 62.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wuiE57TlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wuiE57TlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wuiE57TlL._SL200_.jpg' ]
 comments: true
 category: ofertas

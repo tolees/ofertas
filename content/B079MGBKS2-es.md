@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.51 % en Fisher-Price Perrito pequeño doctor  jug'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BphalwZjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BphalwZjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BphalwZjL._SL200_.jpg' ]
 comments: true
 category: ofertas

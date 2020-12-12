@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.34 % en Lovelysi Mujers Moda Retro Chunky Zapati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KyqE-jWQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KyqE-jWQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KyqE-jWQL._SL200_.jpg' ]
 comments: true
 category: ofertas

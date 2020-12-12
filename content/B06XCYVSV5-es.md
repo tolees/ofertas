@@ -3,6 +3,7 @@ layout: post
 title: 'Galaxy S5 Funda  iDoer Retro Flor PU Cue al 77.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61Tln3Xf0EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61Tln3Xf0EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61Tln3Xf0EL._SL200_.jpg' ]
 comments: true
 category: ofertas

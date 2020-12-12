@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en FUSHITON Zapatos de Agua para Buceo Snor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tY3bfcB5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tY3bfcB5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tY3bfcB5L._SL200_.jpg' ]
 comments: true
 category: ofertas

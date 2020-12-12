@@ -3,6 +3,7 @@ layout: post
 title: 'mopita Roccia Viva 24 cm/9.45 "antiadher al 27.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xAHsKqptL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xAHsKqptL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xAHsKqptL._SL200_.jpg' ]
 comments: true
 category: ofertas

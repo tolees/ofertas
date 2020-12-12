@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.41 % en adidas Pro 2Pc TP AOP Parte Superior Bik'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51K7KO-lN0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51K7KO-lN0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51K7KO-lN0L._SL200_.jpg' ]
 comments: true
 category: ofertas

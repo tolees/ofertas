@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.80 % en Ban Presto - Figurina Dragon Ball Z Sher'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515hFB%2BzCuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515hFB%2BzCuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515hFB%2BzCuL._SL200_.jpg' ]
 comments: true
 category: ofertas

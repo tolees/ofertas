@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.14 % en Scotch & Soda Classic Boxer Short In Pri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZpaE15LrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZpaE15LrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZpaE15LrL._SL200_.jpg' ]
 comments: true
 category: ofertas

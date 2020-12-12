@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.18 % en Blend 20705146  Camisa Para Hombre  Mult'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jh1Eqq4XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jh1Eqq4XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jh1Eqq4XL._SL200_.jpg' ]
 comments: true
 category: ofertas

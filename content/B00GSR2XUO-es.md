@@ -3,6 +3,7 @@ layout: post
 title: 'Weider 32% Protein Bar  Plátano - 24 Bar al 35.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-fYdkm79L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-fYdkm79L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-fYdkm79L._SL200_.jpg' ]
 comments: true
 category: ofertas

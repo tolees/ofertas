@@ -3,6 +3,7 @@ layout: post
 title: 'Mickey Mouse Mochila Cremallera Frontal  al 36.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ez8WO-XAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ez8WO-XAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ez8WO-XAL._SL200_.jpg' ]
 comments: true
 category: ofertas

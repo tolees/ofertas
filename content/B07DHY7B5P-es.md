@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Double Loop Cinturón  Negro  Bl al 66.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lAuyG-V0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lAuyG-V0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lAuyG-V0L._SL200_.jpg' ]
 comments: true
 category: ofertas

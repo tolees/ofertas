@@ -3,6 +3,7 @@ layout: post
 title: 'LANGRIA Manta de Punto con Ondas y Fleco al 76.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uzG2yRrrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uzG2yRrrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uzG2yRrrL._SL200_.jpg' ]
 comments: true
 category: ofertas

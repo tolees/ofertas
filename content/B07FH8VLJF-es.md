@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.79 % en K-Swiss Bridgeport II  Zapatillas Unisex'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319g6G52FcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319g6G52FcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319g6G52FcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.09 % en MyKronoz ZeTime Premium Reloj Inteligent'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bm-%2B%2BhJLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bm-%2B%2BhJLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bm-%2B%2BhJLL._SL200_.jpg' ]
 comments: true
 category: ofertas

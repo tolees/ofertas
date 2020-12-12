@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.12 % en Rieker - Botines de caño bajo de Materia'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t0KneounL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t0KneounL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t0KneounL._SL200_.jpg' ]
 comments: true
 category: ofertas

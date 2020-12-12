@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.47 % en Fjällräven Kanken Mochila tipo casual  3'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hUrkec1JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hUrkec1JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hUrkec1JL._SL200_.jpg' ]
 comments: true
 category: ofertas

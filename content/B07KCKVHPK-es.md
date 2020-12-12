@@ -3,6 +3,7 @@ layout: post
 title: 'David Jones - 5728-2a  Bolsos de mano Mu al 44.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F5%2BzcT-zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F5%2BzcT-zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F5%2BzcT-zL._SL200_.jpg' ]
 comments: true
 category: ofertas

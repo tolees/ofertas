@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.11 % en Nike Vapor 12 Club NJR FG/MG  Zapatillas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ppiBA9RXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ppiBA9RXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ppiBA9RXL._SL200_.jpg' ]
 comments: true
 category: ofertas

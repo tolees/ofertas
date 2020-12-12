@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste L.30 Slide 118 1 Caw  Chanclas p al 55.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SvCd5RMtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SvCd5RMtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SvCd5RMtL._SL200_.jpg' ]
 comments: true
 category: ofertas

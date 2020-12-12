@@ -3,6 +3,7 @@ layout: post
 title: 'Ultrasport Endurance Cruz Concord Printe al 53.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fugUk8o1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fugUk8o1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fugUk8o1L._SL200_.jpg' ]
 comments: true
 category: ofertas

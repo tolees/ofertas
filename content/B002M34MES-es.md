@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.81 % en Pontec MultiClear Set 5000 - Filtro comp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yLhgwztBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yLhgwztBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yLhgwztBL._SL200_.jpg' ]
 comments: true
 category: ofertas

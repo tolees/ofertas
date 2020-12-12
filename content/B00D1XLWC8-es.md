@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.69 % en Kerastase 54061 - Cuidado capilar  150 m'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-%2BtVrtI1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-%2BtVrtI1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-%2BtVrtI1L._SL200_.jpg' ]
 comments: true
 category: ofertas

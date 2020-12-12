@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.78 % en Gel Separadores de Dedos  Correctores de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nktFYorVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nktFYorVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nktFYorVL._SL200_.jpg' ]
 comments: true
 category: ofertas

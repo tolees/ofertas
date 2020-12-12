@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.24 % en New Balance 720v4  Zapatillas Deportivas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kg53DHTfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kg53DHTfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kg53DHTfL._SL200_.jpg' ]
 comments: true
 category: ofertas

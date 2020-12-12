@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.31 % en deAO Esqueleto Fósil de Dinosaurio Kit d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515BWW%2BCcuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515BWW%2BCcuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515BWW%2BCcuL._SL200_.jpg' ]
 comments: true
 category: ofertas

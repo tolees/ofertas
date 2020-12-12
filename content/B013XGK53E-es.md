@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.02 % en Sabrent HB-R3MC Nodo - Concentrador  USB'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414B9sO7BzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414B9sO7BzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414B9sO7BzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Cloudfoam Lite W Aw4201  Zapatill al 48.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Fi1%2BUuWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419Fi1%2BUuWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Fi1%2BUuWL._SL200_.jpg' ]
 comments: true
 category: ofertas

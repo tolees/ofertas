@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Crisp Stone BSC SS Camiseta  Homb al 26.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HQ0wo9qSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HQ0wo9qSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HQ0wo9qSL._SL200_.jpg' ]
 comments: true
 category: ofertas

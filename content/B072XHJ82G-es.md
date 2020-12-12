@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES Pcjackie LS Turtleneck Wool Knit  al 74.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51q42rOuGpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51q42rOuGpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51q42rOuGpL._SL200_.jpg' ]
 comments: true
 category: ofertas

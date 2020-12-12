@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Side Street-Core-Set  Zapatilla al 53.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w-lOfx52L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w-lOfx52L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w-lOfx52L._SL200_.jpg' ]
 comments: true
 category: ofertas

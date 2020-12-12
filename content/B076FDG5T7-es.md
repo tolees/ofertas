@@ -3,6 +3,7 @@ layout: post
 title: 'Assassination Classroom - Temporada 1 Pa al 47.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DVng7qIXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DVng7qIXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DVng7qIXL._SL200_.jpg' ]
 comments: true
 category: ofertas

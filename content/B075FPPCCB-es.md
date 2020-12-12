@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.99 % en Nightaste Ropa Interior Tanga de Algodón'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JQ%2B8R5lSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JQ%2B8R5lSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JQ%2B8R5lSL._SL200_.jpg' ]
 comments: true
 category: ofertas

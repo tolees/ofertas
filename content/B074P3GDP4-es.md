@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.06 % en HUION KAMVAS GT-221 Pro HD IPS Tableta G'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51studVEDCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51studVEDCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51studVEDCL._SL200_.jpg' ]
 comments: true
 category: ofertas

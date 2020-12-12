@@ -3,6 +3,7 @@ layout: post
 title: 'Lifewit Bolsa Térmica Porta Alimentos Bo al 57.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513uMTJ8tUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513uMTJ8tUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513uMTJ8tUL._SL200_.jpg' ]
 comments: true
 category: ofertas

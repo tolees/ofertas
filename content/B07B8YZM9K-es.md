@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.29 % en Clarks Original Desert - Botas  para Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mksrEoLWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mksrEoLWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mksrEoLWL._SL200_.jpg' ]
 comments: true
 category: ofertas

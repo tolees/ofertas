@@ -3,6 +3,7 @@ layout: post
 title: 'VERO MODA VMTEA 7/8 SHORT DRESS DNM  ves al 49.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dgvh7Lr4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dgvh7Lr4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dgvh7Lr4L._SL200_.jpg' ]
 comments: true
 category: ofertas

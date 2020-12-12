@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.81 % en BEPER VE.620 Mosquitera Eléctrica Alumin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513k2SlDfML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513k2SlDfML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513k2SlDfML._SL200_.jpg' ]
 comments: true
 category: ofertas

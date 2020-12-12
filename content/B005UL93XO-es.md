@@ -3,6 +3,7 @@ layout: post
 title: 'Barts Nylon Mitts  Guantes para Niñas  N al 51.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E2ED0OOQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E2ED0OOQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E2ED0OOQL._SL200_.jpg' ]
 comments: true
 category: ofertas

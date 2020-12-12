@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.78 % en Nike Wmns Air MAX Sasha Satin  Zapatilla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cj6dLL8gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cj6dLL8gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cj6dLL8gL._SL200_.jpg' ]
 comments: true
 category: ofertas

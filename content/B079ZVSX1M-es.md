@@ -3,6 +3,7 @@ layout: post
 title: 'VAIRO Short Columns Negro  S  al 28.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZDiDZ%2BPSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZDiDZ%2BPSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZDiDZ%2BPSL._SL200_.jpg' ]
 comments: true
 category: ofertas

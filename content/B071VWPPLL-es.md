@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Mercurial Vortex III NJR FG  Zapati al 50.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mAkQ%2BWfDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mAkQ%2BWfDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mAkQ%2BWfDL._SL200_.jpg' ]
 comments: true
 category: ofertas

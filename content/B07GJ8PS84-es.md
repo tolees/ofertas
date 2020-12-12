@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.58 % en Última Android 7.1 TV Box- TICTID AX9 MA'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oFTM5As0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oFTM5As0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oFTM5As0L._SL200_.jpg' ]
 comments: true
 category: ofertas

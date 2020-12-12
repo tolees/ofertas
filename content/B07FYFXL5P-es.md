@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.51 % en OtterBox Symmetry Clear - Funda Anti caí'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nIlH-S3hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nIlH-S3hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nIlH-S3hL._SL200_.jpg' ]
 comments: true
 category: ofertas

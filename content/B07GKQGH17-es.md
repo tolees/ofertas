@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.67 % en M MEGAWHEELS 6.5" Monopatin Electrico co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DcoKF7cUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DcoKF7cUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DcoKF7cUL._SL200_.jpg' ]
 comments: true
 category: ofertas

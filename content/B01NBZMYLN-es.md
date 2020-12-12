@@ -3,6 +3,7 @@ layout: post
 title: 'Erima GmbH Club 1900 2.0 Chaqueta  Unise al 68.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YneGb9UyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YneGb9UyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YneGb9UyL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'FULARR 16 en 1 Mini Herramienta Reparaci al 41.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w6oWYva1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51w6oWYva1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w6oWYva1L._SL200_.jpg' ]
 comments: true
 category: ofertas

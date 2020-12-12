@@ -3,6 +3,7 @@ layout: post
 title: 'FM London Slim Fit Fleece Brushed Jogger al 66.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3147vUX5hDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3147vUX5hDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3147vUX5hDL._SL200_.jpg' ]
 comments: true
 category: ofertas

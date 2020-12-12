@@ -3,6 +3,7 @@ layout: post
 title: 'MaaMgic Bañador Hombres Troncos de Natac al 58.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519ejQx3MeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519ejQx3MeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519ejQx3MeL._SL200_.jpg' ]
 comments: true
 category: ofertas

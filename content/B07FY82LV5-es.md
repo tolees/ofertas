@@ -3,6 +3,7 @@ layout: post
 title: 'Zubita Set de Cortapizza  2 en 1 de Acer al 47.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41saFl%2BdFdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41saFl%2BdFdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41saFl%2BdFdL._SL200_.jpg' ]
 comments: true
 category: ofertas

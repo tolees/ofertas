@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.34 % en Sierra Circular  TECCPO 1500W 5800 RPM S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IHoTjiIZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IHoTjiIZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IHoTjiIZL._SL200_.jpg' ]
 comments: true
 category: ofertas

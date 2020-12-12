@@ -3,6 +3,7 @@ layout: post
 title: 'HYPE - Matte Foil  Mochilas Unisex adult al 73.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jXq6C0RHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jXq6C0RHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jXq6C0RHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Daily 2.0  Zapatos de Baloncesto  al 49.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pCgg4jZBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pCgg4jZBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pCgg4jZBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.24 % en PIECES PCRAYA ROUND NECK BLOUSE NOOS  Ca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AUfOUuoHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AUfOUuoHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AUfOUuoHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.73 % en UMIDIGI Z2 Smartphone de 6.2" 4G Volte  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZUXTtRDpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZUXTtRDpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZUXTtRDpL._SL200_.jpg' ]
 comments: true
 category: ofertas

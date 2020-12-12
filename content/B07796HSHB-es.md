@@ -3,6 +3,7 @@ layout: post
 title: 'Miquelrius Miquelrius 16815 - Mochila Ac al 72.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ja5ITLM4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ja5ITLM4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ja5ITLM4L._SL200_.jpg' ]
 comments: true
 category: ofertas

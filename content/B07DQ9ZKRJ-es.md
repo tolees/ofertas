@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Lelah Chaqueta de Snowboard  Muje al 67.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QrQdbiJZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QrQdbiJZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QrQdbiJZL._SL200_.jpg' ]
 comments: true
 category: ofertas

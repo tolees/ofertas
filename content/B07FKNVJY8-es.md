@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 89.10 % en JACK & JONES Jcoround Puffer Jacket  Cha'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZeV%2B21l%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZeV%2B21l%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZeV%2B21l%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

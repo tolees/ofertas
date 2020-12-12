@@ -3,6 +3,7 @@ layout: post
 title: 'La Tierra-Media: Sombras De Guerra al 82.00 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B06XFHLX8Y.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B06XFHLX8Y.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B06XFHLX8Y.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

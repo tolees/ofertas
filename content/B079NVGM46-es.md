@@ -3,6 +3,7 @@ layout: post
 title: 'AMASAVA Maletín para Maquillaje  Estuche al 26.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xEvpa03rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xEvpa03rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xEvpa03rL._SL200_.jpg' ]
 comments: true
 category: ofertas

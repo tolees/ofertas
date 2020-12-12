@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.71 % en URCERI Amoladora angular con 5 discos de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wsgg3BLEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wsgg3BLEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wsgg3BLEL._SL200_.jpg' ]
 comments: true
 category: ofertas

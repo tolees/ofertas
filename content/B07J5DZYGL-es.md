@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.00 % en 7artisans 12 mm f2.8 Ultra Gran Angular '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vhw81q5KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vhw81q5KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vhw81q5KL._SL200_.jpg' ]
 comments: true
 category: ofertas

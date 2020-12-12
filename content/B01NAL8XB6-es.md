@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.00 % en FIND Cazadora de Beísbol con Manga Rangl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gwAMKafFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gwAMKafFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gwAMKafFL._SL200_.jpg' ]
 comments: true
 category: ofertas

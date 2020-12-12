@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.39 % en JACK & JONES Jcoslice Sweat Crew Neck  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6KeTAVFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6KeTAVFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y6KeTAVFL._SL200_.jpg' ]
 comments: true
 category: ofertas

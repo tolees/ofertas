@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.45 % en Vans Old SKOOL Plus Backpack Mochila Tip'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uN6P5SmLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uN6P5SmLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uN6P5SmLL._SL200_.jpg' ]
 comments: true
 category: ofertas

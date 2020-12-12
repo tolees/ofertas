@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.86 % en b.young Elis Jacket  Abrigo para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IimX-BycL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IimX-BycL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IimX-BycL._SL200_.jpg' ]
 comments: true
 category: ofertas

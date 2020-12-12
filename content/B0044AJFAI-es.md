@@ -3,6 +3,7 @@ layout: post
 title: 'Panasonic RP-HV104E-K - Auriculares de b al 28.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2ByoxfndcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2ByoxfndcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2ByoxfndcL._SL200_.jpg' ]
 comments: true
 category: ofertas

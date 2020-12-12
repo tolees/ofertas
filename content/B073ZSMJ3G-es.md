@@ -3,6 +3,7 @@ layout: post
 title: 'Gant The Oxford Shirt Reg BD Camisa  Roj al 57.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t2pV8s87L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t2pV8s87L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t2pV8s87L._SL200_.jpg' ]
 comments: true
 category: ofertas

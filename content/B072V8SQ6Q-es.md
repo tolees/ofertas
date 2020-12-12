@@ -3,6 +3,7 @@ layout: post
 title: 'TopEUR 10 piezas de bloqueo de mosquetón al 38.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lKsXVaQKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lKsXVaQKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lKsXVaQKL._SL200_.jpg' ]
 comments: true
 category: ofertas

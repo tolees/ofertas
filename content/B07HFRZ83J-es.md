@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.90 % en Wonderbra Sexy Triangle Bralette  Sujeta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aT8OxlGrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aT8OxlGrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aT8OxlGrL._SL200_.jpg' ]
 comments: true
 category: ofertas

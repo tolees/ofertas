@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Vntge Logo Star AOP Entry Hood  al 67.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lP8fbAaKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lP8fbAaKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lP8fbAaKL._SL200_.jpg' ]
 comments: true
 category: ofertas

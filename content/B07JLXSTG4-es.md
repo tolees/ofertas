@@ -3,6 +3,7 @@ layout: post
 title: 'Joy.J Sets de Ping Pong  2 Raquetas de P al 31.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51X8XuUh1YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51X8XuUh1YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51X8XuUh1YL._SL200_.jpg' ]
 comments: true
 category: ofertas

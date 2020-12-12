@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Phase Backpack II Mochilla  Unisex  al 39.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OK3KpzJSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OK3KpzJSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OK3KpzJSL._SL200_.jpg' ]
 comments: true
 category: ofertas

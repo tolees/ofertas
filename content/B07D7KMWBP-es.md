@@ -3,6 +3,7 @@ layout: post
 title: '!Solid Jermin Chaqueta  Hombre  Azul  Na al 65.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BHsY3IuZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BHsY3IuZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BHsY3IuZL._SL200_.jpg' ]
 comments: true
 category: ofertas

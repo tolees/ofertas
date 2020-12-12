@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.04 % en Juego de 2 sartenes antiadherentes "Moon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-bL5HaqqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-bL5HaqqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-bL5HaqqL._SL200_.jpg' ]
 comments: true
 category: ofertas

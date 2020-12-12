@@ -3,6 +3,7 @@ layout: post
 title: 'THE NORTH FACE M Litewave Fastpack II  Z al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41omeEk9n0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41omeEk9n0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41omeEk9n0L._SL200_.jpg' ]
 comments: true
 category: ofertas

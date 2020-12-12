@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.09 % en Lumaland Beanbag PUF otomano sillón Niño'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31l46k2xWML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31l46k2xWML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31l46k2xWML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'DANISH ENDURANCE Calcetines de Compresió al 60.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ar5qxeqAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ar5qxeqAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ar5qxeqAL._SL200_.jpg' ]
 comments: true
 category: ofertas

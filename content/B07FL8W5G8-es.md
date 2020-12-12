@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Technical Hooded Pop Zip Windc  al 64.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eOjbIy2ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eOjbIy2ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eOjbIy2ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

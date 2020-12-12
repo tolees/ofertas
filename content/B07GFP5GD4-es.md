@@ -3,6 +3,7 @@ layout: post
 title: 'CAMEL CROWN Calzado Deportivo Hombre Cor al 26.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u3f4wNyOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u3f4wNyOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u3f4wNyOL._SL200_.jpg' ]
 comments: true
 category: ofertas

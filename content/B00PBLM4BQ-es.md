@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 1015/S H8 V08 53 Gafas de S al 50.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sGDJI6BrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sGDJI6BrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sGDJI6BrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'IRIS & LILLY Parte de Arriba de Bikini a al 30.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MbrMGqwZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MbrMGqwZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MbrMGqwZL._SL200_.jpg' ]
 comments: true
 category: ofertas

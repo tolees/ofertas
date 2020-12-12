@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.46 % en Springfield 6792944 Camisa  Azul  Blue  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fo%2Bbjq8tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fo%2Bbjq8tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fo%2Bbjq8tL._SL200_.jpg' ]
 comments: true
 category: ofertas

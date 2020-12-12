@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.38 % en G-STAR RAW Dirik  Bañador para Hombre  N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pv1%2BNmWVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pv1%2BNmWVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pv1%2BNmWVL._SL200_.jpg' ]
 comments: true
 category: ofertas

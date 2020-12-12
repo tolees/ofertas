@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Aaron GS - Zapatillas de Tiempo Li al 40.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yXK%2BF1m3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yXK%2BF1m3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yXK%2BF1m3L._SL200_.jpg' ]
 comments: true
 category: ofertas

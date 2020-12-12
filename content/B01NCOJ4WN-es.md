@@ -3,6 +3,7 @@ layout: post
 title: 'Converse Chuck Taylor CTAS WP Boot Hi  Z al 77.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cH%2BLI8tnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cH%2BLI8tnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cH%2BLI8tnL._SL200_.jpg' ]
 comments: true
 category: ofertas

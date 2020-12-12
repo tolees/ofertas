@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 86125  Bolso de mano para Mujer   Ne al 32.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QdnFv2OrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QdnFv2OrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QdnFv2OrL._SL200_.jpg' ]
 comments: true
 category: ofertas

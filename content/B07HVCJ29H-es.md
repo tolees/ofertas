@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.09 % en Adidas N-5923  Zapatillas de Gimnasia pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414gqHFQ7uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414gqHFQ7uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414gqHFQ7uL._SL200_.jpg' ]
 comments: true
 category: ofertas

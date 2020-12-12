@@ -3,6 +3,7 @@ layout: post
 title: 'Collistar Perfect Hair Volumizing Shampo al 52.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31suD8eGWiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31suD8eGWiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31suD8eGWiL._SL200_.jpg' ]
 comments: true
 category: ofertas

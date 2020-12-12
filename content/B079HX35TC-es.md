@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.92 % en Tom Tailor 5870503  Botines para Niñas  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417f5iYQDqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417f5iYQDqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417f5iYQDqL._SL200_.jpg' ]
 comments: true
 category: ofertas

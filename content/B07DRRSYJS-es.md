@@ -3,6 +3,7 @@ layout: post
 title: 'Diadora Action +3  Zapatillas de Running al 62.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OZuIkrbnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OZuIkrbnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OZuIkrbnL._SL200_.jpg' ]
 comments: true
 category: ofertas

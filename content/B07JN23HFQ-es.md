@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.97 % en Morgan 191-tito.n Camiseta  Negro Night '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pw5sUjzhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pw5sUjzhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pw5sUjzhL._SL200_.jpg' ]
 comments: true
 category: ofertas

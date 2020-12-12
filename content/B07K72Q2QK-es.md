@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.57 % en Levi s 312 Shaping Slim Vaqueros  Azul  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AVM-6qYKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AVM-6qYKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AVM-6qYKL._SL200_.jpg' ]
 comments: true
 category: ofertas

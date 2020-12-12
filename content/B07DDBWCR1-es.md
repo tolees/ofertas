@@ -3,6 +3,7 @@ layout: post
 title: 'Puma One Laser Ball  Unisex Adulto  Silv al 27.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419BuDylbEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419BuDylbEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419BuDylbEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Biotin MGM - Cinturón unisex  talla 110  al 44.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yBdC48DoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yBdC48DoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yBdC48DoL._SL200_.jpg' ]
 comments: true
 category: ofertas

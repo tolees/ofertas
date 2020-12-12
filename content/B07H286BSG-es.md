@@ -3,6 +3,7 @@ layout: post
 title: 'Lima de Pies Doble Cara  Eliminador de C al 28.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FeriUQnAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FeriUQnAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FeriUQnAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.98 % en TRULIL - 6 Posavasos Redondos de Piel si'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51L3JQn%2BpXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51L3JQn%2BpXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51L3JQn%2BpXL._SL200_.jpg' ]
 comments: true
 category: ofertas

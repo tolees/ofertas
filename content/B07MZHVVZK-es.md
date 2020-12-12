@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Shirt Shop Duo tee Camiseta  BL al 47.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bv2wXyQlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bv2wXyQlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bv2wXyQlL._SL200_.jpg' ]
 comments: true
 category: ofertas

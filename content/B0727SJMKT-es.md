@@ -3,6 +3,7 @@ layout: post
 title: 'Melvin & HamiltonJack 7 - Mocasines Homb al 47.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4150vIftnQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4150vIftnQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4150vIftnQL._SL200_.jpg' ]
 comments: true
 category: ofertas

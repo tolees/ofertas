@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.64 % en Fujifilm Instax Mini 9 - Cámara instantá'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-rnCvu7zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-rnCvu7zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-rnCvu7zL._SL200_.jpg' ]
 comments: true
 category: ofertas

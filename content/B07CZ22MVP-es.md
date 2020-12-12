@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Pulse 10 G-TX  Zapatillas de E al 37.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414QCpXTfcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414QCpXTfcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414QCpXTfcL._SL200_.jpg' ]
 comments: true
 category: ofertas

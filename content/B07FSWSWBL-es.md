@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Step Cali Cove  Zapatillas para M al 48.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iCNe%2BOAbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iCNe%2BOAbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iCNe%2BOAbL._SL200_.jpg' ]
 comments: true
 category: ofertas

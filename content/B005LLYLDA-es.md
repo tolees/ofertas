@@ -3,6 +3,7 @@ layout: post
 title: 'Matinique - Pantalón para hombre  color  al 87.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JIG-oKcBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JIG-oKcBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JIG-oKcBL._SL200_.jpg' ]
 comments: true
 category: ofertas

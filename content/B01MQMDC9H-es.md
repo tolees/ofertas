@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Speed 100 R Ignite  Zapatillas de R al 77.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J4Scr2NQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J4Scr2NQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J4Scr2NQL._SL200_.jpg' ]
 comments: true
 category: ofertas

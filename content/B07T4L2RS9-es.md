@@ -3,6 +3,7 @@ layout: post
 title: 'Lomogo Funda Galaxy J7  2017  / J7 Pro   al 60.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VYmQ5-nLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VYmQ5-nLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VYmQ5-nLL._SL200_.jpg' ]
 comments: true
 category: ofertas

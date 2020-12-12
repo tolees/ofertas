@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Evotouch 1 FG Jr  Botas de fútbol I al 86.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zCkSn4%2BAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zCkSn4%2BAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zCkSn4%2BAL._SL200_.jpg' ]
 comments: true
 category: ofertas

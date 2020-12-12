@@ -3,6 +3,7 @@ layout: post
 title: 'Hitachi DH24PH - Martillo perforador SDS al 54.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CHvLFxVjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CHvLFxVjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CHvLFxVjL._SL200_.jpg' ]
 comments: true
 category: ofertas

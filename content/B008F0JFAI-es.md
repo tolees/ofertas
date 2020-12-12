@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Tennissocken Cushion Crew 3Er Pack  al 29.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b8sn9vLLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51b8sn9vLLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b8sn9vLLL._SL200_.jpg' ]
 comments: true
 category: ofertas

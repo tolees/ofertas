@@ -3,6 +3,7 @@ layout: post
 title: 'Finocam Urban Slim - Maletín Profesional al 59.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BhlnUP2GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BhlnUP2GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BhlnUP2GL._SL200_.jpg' ]
 comments: true
 category: ofertas

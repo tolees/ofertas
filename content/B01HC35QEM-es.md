@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.78 % en WeTek Hub Android y Smart TV box Bluetoo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MaBEDgoOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MaBEDgoOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MaBEDgoOL._SL200_.jpg' ]
 comments: true
 category: ofertas

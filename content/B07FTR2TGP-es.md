@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.62 % en Lee Rider Shirt  Camisa Hombre  Marfil  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w4JMQV8ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w4JMQV8ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w4JMQV8ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 6018/S Z7 TN5 Gafas de sol  al 72.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wY0ex1HdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wY0ex1HdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wY0ex1HdL._SL200_.jpg' ]
 comments: true
 category: ofertas

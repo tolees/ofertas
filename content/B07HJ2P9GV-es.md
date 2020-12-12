@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.35 % en DOACT 2 pcs Rodillera Patella Correa  Co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cEqgYJUqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cEqgYJUqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cEqgYJUqL._SL200_.jpg' ]
 comments: true
 category: ofertas

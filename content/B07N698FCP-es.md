@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.08 % en USB Rechargeable Lighter Encendedor Reca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416LT81mz-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416LT81mz-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416LT81mz-L._SL200_.jpg' ]
 comments: true
 category: ofertas

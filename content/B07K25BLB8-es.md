@@ -3,6 +3,7 @@ layout: post
 title: 'Fortnite Camiseta para Niños  12 años  B al 31.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YoZDbtC-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YoZDbtC-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YoZDbtC-L._SL200_.jpg' ]
 comments: true
 category: ofertas

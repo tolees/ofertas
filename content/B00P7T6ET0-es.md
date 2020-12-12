@@ -3,6 +3,7 @@ layout: post
 title: 'MSV Funda DE Planchado 100% Algodon con  al 32.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314rPOiIxaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314rPOiIxaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314rPOiIxaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.23 % en Bosch V-Line Titanio - Maletín de 48 uni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b0WkgliQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51b0WkgliQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b0WkgliQL._SL200_.jpg' ]
 comments: true
 category: ofertas

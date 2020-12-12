@@ -3,6 +3,7 @@ layout: post
 title: 'Arcama DN05 Escalera domestica  GRIS PLA al 34.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ePmC-o3yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ePmC-o3yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ePmC-o3yL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Casio Reloj Analógico-Digital para Mujer al 31.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SRYBgsYCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SRYBgsYCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SRYBgsYCL._SL200_.jpg' ]
 comments: true
 category: ofertas

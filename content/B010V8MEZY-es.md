@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.29 % en Steve Madden OCTAGON - Botas para mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S-7OCeQyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S-7OCeQyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S-7OCeQyL._SL200_.jpg' ]
 comments: true
 category: ofertas

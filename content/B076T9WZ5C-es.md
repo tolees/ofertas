@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.52 % en Bra Efficient Cuchillo Santoku  Acero In'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21mas%2BWvLlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21mas%2BWvLlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21mas%2BWvLlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.27 % en Jack Daniels Frank Sinatra Whisky - 1000'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XTnraTTsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XTnraTTsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XTnraTTsL._SL200_.jpg' ]
 comments: true
 category: ofertas

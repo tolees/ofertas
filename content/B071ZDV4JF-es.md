@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.86 % en Puma Evotrg Tech Pantalones Bordados  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VmW743v-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VmW743v-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VmW743v-L._SL200_.jpg' ]
 comments: true
 category: ofertas

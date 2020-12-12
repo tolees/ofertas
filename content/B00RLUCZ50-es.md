@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2790-COTJ  Zapatillas para Niñas al 81.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PD0bdFbEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PD0bdFbEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PD0bdFbEL._SL200_.jpg' ]
 comments: true
 category: ofertas

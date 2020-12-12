@@ -3,6 +3,7 @@ layout: post
 title: 'B.Young Chaqueta Larga Azul Única al 84.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aoOXhAMJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aoOXhAMJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aoOXhAMJL._SL200_.jpg' ]
 comments: true
 category: ofertas

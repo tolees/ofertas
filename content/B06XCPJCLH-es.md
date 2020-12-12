@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.77 % en Cortefiel 8101221  Vaquero para Mujer  A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QQ3Z1s8%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QQ3Z1s8%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QQ3Z1s8%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

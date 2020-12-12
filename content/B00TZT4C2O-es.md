@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.54 % en marckonfort Colchón Viscoelástico Paris '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LMZwFhRJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LMZwFhRJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LMZwFhRJL._SL200_.jpg' ]
 comments: true
 category: ofertas

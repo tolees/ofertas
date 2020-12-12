@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjespace Melange Sweat Hood al 61.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BkEnkcPSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BkEnkcPSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BkEnkcPSL._SL200_.jpg' ]
 comments: true
 category: ofertas

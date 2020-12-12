@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Secret Ingredient T-Shirt  Ho al 45.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IIuphbQDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IIuphbQDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IIuphbQDL._SL200_.jpg' ]
 comments: true
 category: ofertas

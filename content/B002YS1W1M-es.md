@@ -3,6 +3,7 @@ layout: post
 title: 'Nayblan Fox 40 - Silbato 15300  color ro al 25.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L2xxyb6CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L2xxyb6CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L2xxyb6CL._SL200_.jpg' ]
 comments: true
 category: ofertas

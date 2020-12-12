@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Baby Kilwi Girl  Zapatillas para Be al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415DxXxwFML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415DxXxwFML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415DxXxwFML._SL200_.jpg' ]
 comments: true
 category: ofertas

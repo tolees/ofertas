@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.14 % en Clementoni – 13489 – Lotería Frozen'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517TXa8GhoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517TXa8GhoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517TXa8GhoL._SL200_.jpg' ]
 comments: true
 category: ofertas

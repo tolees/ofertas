@@ -3,6 +3,7 @@ layout: post
 title: 'adidas X Tango 18.3 TF  Zapatillas de Fú al 54.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414vEow6RpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414vEow6RpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414vEow6RpL._SL200_.jpg' ]
 comments: true
 category: ofertas

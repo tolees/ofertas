@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.11 % en Crocs Sanrah Strappy Wedge  Zuecos para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DO1acdPuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DO1acdPuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DO1acdPuL._SL200_.jpg' ]
 comments: true
 category: ofertas

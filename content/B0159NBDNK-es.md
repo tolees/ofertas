@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.99 % en Tamaño Jumbo  diseño plegable  Tela grue'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/6162PNDjuhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/6162PNDjuhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/6162PNDjuhL._SL200_.jpg' ]
 comments: true
 category: ofertas

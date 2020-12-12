@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Tiro 19 Camiseta Entrenamiento  H al 52.57 % de descuento'
 date: 2020-12-11 22:11:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41alNoq+VBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41alNoq+VBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41alNoq+VBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -25,9 +26,9 @@ Ahora mismo tienes [adidas Tiro 19 Camiseta Entrenamiento  Hombre  Negro  Black/
 Características:
 
 - Ventilación estratégica Climacool; diseño FreeLift; inserciones de malla en los costados
+- Cuello de pico de canalé; Manga corta raglán
 - Corte clásico más ancho y silueta recta
 - Esta prenda se ha confeccionado con poliéster reciclado para ahorrar recursos y reducir emisiones
-- Cuello de pico de canalé; Manga corta raglán
 
 [Visítala!!!](https://www.amazon.es/dp/B07JQDP1HB/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.25 % en Ultrasport Basic Noam Camiseta de compre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q67oFj8XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q67oFj8XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q67oFj8XL._SL200_.jpg' ]
 comments: true
 category: ofertas

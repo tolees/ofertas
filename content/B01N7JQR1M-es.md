@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.00 % en Avaner Grande Reloj de Hombre Militar De'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sHQsNarAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sHQsNarAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sHQsNarAL._SL200_.jpg' ]
 comments: true
 category: ofertas

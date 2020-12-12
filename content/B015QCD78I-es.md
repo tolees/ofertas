@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.40 % en Astan Hogar Parrilla Eléctrica Multigril'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hV76KVavL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hV76KVavL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hV76KVavL._SL200_.jpg' ]
 comments: true
 category: ofertas

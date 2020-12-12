@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.59 % en JACK & JONES Jcostanford Knit Crew Neck '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416szU1heoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416szU1heoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416szU1heoL._SL200_.jpg' ]
 comments: true
 category: ofertas

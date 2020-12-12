@@ -3,6 +3,7 @@ layout: post
 title: 'AmazonBasics - Cable HDMI flexible  de 3 al 43.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nPYaWA%2BML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nPYaWA%2BML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nPYaWA%2BML._SL200_.jpg' ]
 comments: true
 category: ofertas

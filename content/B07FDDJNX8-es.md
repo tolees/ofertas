@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.44 % en Blend Jeans Without Trash Vaqueros Slim '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WkXlrA2wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WkXlrA2wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WkXlrA2wL._SL200_.jpg' ]
 comments: true
 category: ofertas

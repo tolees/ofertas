@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Woven Graphic Short Pant al 49.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31a6fdrgxaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31a6fdrgxaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31a6fdrgxaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'FeiyuTech G5 2 Recargable de 3 Ejes Hand al 73.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EwYNo4wLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EwYNo4wLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EwYNo4wLL._SL200_.jpg' ]
 comments: true
 category: ofertas

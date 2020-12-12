@@ -3,6 +3,7 @@ layout: post
 title: 'DROP SHOT Briguitte Paletero Pádel  Adul al 61.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411Nz42cjTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411Nz42cjTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411Nz42cjTL._SL200_.jpg' ]
 comments: true
 category: ofertas

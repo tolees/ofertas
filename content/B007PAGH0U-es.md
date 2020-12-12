@@ -3,6 +3,7 @@ layout: post
 title: 'Motorola S1202 Duo - Teléfono fijo inalá al 34.71 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

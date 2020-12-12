@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.68 % en Vibrador Dual Masajeador con 96 Modos Re'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5188SkI4bxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5188SkI4bxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5188SkI4bxL._SL200_.jpg' ]
 comments: true
 category: ofertas

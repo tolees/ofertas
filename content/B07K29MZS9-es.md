@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.99 % en adidas Run70s Zapatillas de Running Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oDWwlSXJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oDWwlSXJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oDWwlSXJL._SL200_.jpg' ]
 comments: true
 category: ofertas

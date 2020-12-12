@@ -3,6 +3,7 @@ layout: post
 title: 'UniAuto Cadenas para Nieve Universales C al 55.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5156ESGwvCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5156ESGwvCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5156ESGwvCL._SL200_.jpg' ]
 comments: true
 category: ofertas

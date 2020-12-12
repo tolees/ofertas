@@ -3,6 +3,7 @@ layout: post
 title: 'Noppies - Pantalón premamá Slim fit para al 88.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uCYqrVQ4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uCYqrVQ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uCYqrVQ4L._SL200_.jpg' ]
 comments: true
 category: ofertas

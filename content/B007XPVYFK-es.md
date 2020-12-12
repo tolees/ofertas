@@ -3,6 +3,7 @@ layout: post
 title: 'Speedo Solid Leisure - Bañador de nataci al 56.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31My8A0djmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31My8A0djmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31My8A0djmL._SL200_.jpg' ]
 comments: true
 category: ofertas

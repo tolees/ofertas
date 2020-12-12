@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.82 % en LSP Oat King Energy Bar Cappuccino - 10 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GyvQK0-8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GyvQK0-8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GyvQK0-8L._SL200_.jpg' ]
 comments: true
 category: ofertas

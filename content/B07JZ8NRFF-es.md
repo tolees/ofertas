@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.09 % en Toyvian 2 unids Truco mágico Dedos Dedos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vtr0f6%2BDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vtr0f6%2BDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vtr0f6%2BDL._SL200_.jpg' ]
 comments: true
 category: ofertas

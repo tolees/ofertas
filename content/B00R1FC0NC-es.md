@@ -3,6 +3,7 @@ layout: post
 title: 'MSV Set Ceramica 3 Piezas Taupe  16.5x7x al 51.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QXIEHPqpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QXIEHPqpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QXIEHPqpL._SL200_.jpg' ]
 comments: true
 category: ofertas

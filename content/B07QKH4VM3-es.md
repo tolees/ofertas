@@ -3,6 +3,7 @@ layout: post
 title: 'Correa Para Perros  5 FT Strong Dog Lead al 25.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MJB2vu2pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MJB2vu2pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MJB2vu2pL._SL200_.jpg' ]
 comments: true
 category: ofertas

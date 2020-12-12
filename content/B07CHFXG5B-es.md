@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.01 % en Bluetooth Báscula de Grasa Corporal  ISE'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NlI0pi4ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NlI0pi4ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NlI0pi4ML._SL200_.jpg' ]
 comments: true
 category: ofertas

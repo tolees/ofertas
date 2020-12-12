@@ -3,6 +3,7 @@ layout: post
 title: 'Blend 20701278  Jersey para Hombre  Blac al 74.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nsJp0PJQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nsJp0PJQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nsJp0PJQL._SL200_.jpg' ]
 comments: true
 category: ofertas

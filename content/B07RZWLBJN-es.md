@@ -3,6 +3,7 @@ layout: post
 title: 'CNFIO - Elegante Vestido de Playa para M al 39.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31knrbIr6FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31knrbIr6FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31knrbIr6FL._SL200_.jpg' ]
 comments: true
 category: ofertas

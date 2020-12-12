@@ -3,6 +3,7 @@ layout: post
 title: 'ONLY 15136161  Parka Para Mujer  Verde   al 78.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QJvoksELL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QJvoksELL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QJvoksELL._SL200_.jpg' ]
 comments: true
 category: ofertas

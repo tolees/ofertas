@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.32 % en GORE WEAR C3 Peto corto de hombre con ba'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rdhoku7RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rdhoku7RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rdhoku7RL._SL200_.jpg' ]
 comments: true
 category: ofertas

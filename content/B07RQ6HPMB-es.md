@@ -3,6 +3,7 @@ layout: post
 title: 'SIMPORDS Abalorio Charm Infinito con Cor al 78.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bX53puE4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bX53puE4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bX53puE4L._SL200_.jpg' ]
 comments: true
 category: ofertas

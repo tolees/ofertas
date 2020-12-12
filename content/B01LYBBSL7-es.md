@@ -3,6 +3,7 @@ layout: post
 title: 'One Punch Man Temporada 1 Ep. 1 A 12. Bl al 48.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61q3L%2BGfZQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61q3L%2BGfZQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61q3L%2BGfZQL._SL200_.jpg' ]
 comments: true
 category: ofertas

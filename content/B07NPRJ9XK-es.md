@@ -3,6 +3,7 @@ layout: post
 title: 'Bamoer Reparador de arañazos para Coche  al 26.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sEdG4OKkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sEdG4OKkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sEdG4OKkL._SL200_.jpg' ]
 comments: true
 category: ofertas

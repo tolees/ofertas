@@ -3,6 +3,7 @@ layout: post
 title: 'Orbegozo VT 610 Vinoteca 6 botellas  17  al 33.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LPnz0a0PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LPnz0a0PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LPnz0a0PL._SL200_.jpg' ]
 comments: true
 category: ofertas

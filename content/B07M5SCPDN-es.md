@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.17 % en BOSS Oracle_Derb_sdct  Zapatos de Cordon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Qcil2JlwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Qcil2JlwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Qcil2JlwL._SL200_.jpg' ]
 comments: true
 category: ofertas

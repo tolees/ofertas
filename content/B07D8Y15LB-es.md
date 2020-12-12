@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.72 % en Tommy Hilfiger LS tee Logo Top de Pijama'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Hq%2BQduX7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Hq%2BQduX7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Hq%2BQduX7L._SL200_.jpg' ]
 comments: true
 category: ofertas

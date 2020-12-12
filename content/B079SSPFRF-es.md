@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual TS_Joana  Camiseta para Niños   al 60.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HNeJG8ntL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HNeJG8ntL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HNeJG8ntL._SL200_.jpg' ]
 comments: true
 category: ofertas

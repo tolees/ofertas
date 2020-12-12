@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.06 % en Reebok Fusion Flexweave  Zapatillas de T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B1x3smivL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B1x3smivL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B1x3smivL._SL200_.jpg' ]
 comments: true
 category: ofertas

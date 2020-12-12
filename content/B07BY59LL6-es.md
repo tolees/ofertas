@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.36 % en YaYuu para Fitbit Versa Bandas  Milanese'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51x5YjAx1DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51x5YjAx1DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51x5YjAx1DL._SL200_.jpg' ]
 comments: true
 category: ofertas

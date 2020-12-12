@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - Happy Belly Café descafei al 32.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nJJn4vOQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nJJn4vOQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nJJn4vOQL._SL200_.jpg' ]
 comments: true
 category: ofertas

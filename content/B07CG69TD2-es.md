@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.70 % en Collar de madre e hijo Koooper  Te amo  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d10yXOT0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d10yXOT0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d10yXOT0L._SL200_.jpg' ]
 comments: true
 category: ofertas

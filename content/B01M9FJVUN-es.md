@@ -3,6 +3,7 @@ layout: post
 title: 'Wissper - Muñeca de Trapo  38 cm  Simba  al 67.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41accoWmYLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41accoWmYLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41accoWmYLL._SL200_.jpg' ]
 comments: true
 category: ofertas

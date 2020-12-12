@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.76 % en Tuc Tuc Prenda Tricot Parfum Vestido   A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gX6w4vr-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gX6w4vr-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gX6w4vr-L._SL200_.jpg' ]
 comments: true
 category: ofertas

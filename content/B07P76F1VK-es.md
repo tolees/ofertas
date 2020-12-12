@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.70 % en Diesel Thommer L.30 Trousers Vaqueros Sl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BfDBXglML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BfDBXglML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BfDBXglML._SL200_.jpg' ]
 comments: true
 category: ofertas

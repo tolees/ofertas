@@ -3,6 +3,7 @@ layout: post
 title: 'Historias De Fantasmas¿Blu-Ray [Blu-ray] al 35.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i-b7L1wOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51i-b7L1wOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i-b7L1wOL._SL200_.jpg' ]
 comments: true
 category: ofertas

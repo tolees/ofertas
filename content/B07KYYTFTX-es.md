@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.T.Ap.Pv19.Tunica Blusa  Ga al 66.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uctZ8lx8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uctZ8lx8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uctZ8lx8L._SL200_.jpg' ]
 comments: true
 category: ofertas

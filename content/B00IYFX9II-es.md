@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.56 % en Redken shape factor 22 sculpture cream 5'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HIO90lEGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HIO90lEGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HIO90lEGL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'E27 Bombilla Vintage Retro 4W Equivalent al 35.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mlyCHuOgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mlyCHuOgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mlyCHuOgL._SL200_.jpg' ]
 comments: true
 category: ofertas

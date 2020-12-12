@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung AR09NXFPEWQNEU sistema de - Aire al 32.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CZoCbmxPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CZoCbmxPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CZoCbmxPL._SL200_.jpg' ]
 comments: true
 category: ofertas

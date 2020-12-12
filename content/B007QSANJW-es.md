@@ -3,6 +3,7 @@ layout: post
 title: 'Dainese Action Short EVO Protecciones de al 27.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Tyq2rtxbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Tyq2rtxbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Tyq2rtxbL._SL200_.jpg' ]
 comments: true
 category: ofertas

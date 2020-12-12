@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.95 % en YaYuu Compatible para Apple Watch Correa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K3WvN9MyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K3WvN9MyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K3WvN9MyL._SL200_.jpg' ]
 comments: true
 category: ofertas

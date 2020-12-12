@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 365  Zapatillas Deportivas p al 62.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XIn-x%2BgzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XIn-x%2BgzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XIn-x%2BgzL._SL200_.jpg' ]
 comments: true
 category: ofertas

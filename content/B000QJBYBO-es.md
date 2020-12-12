@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.65 % en Merrell Waterpro Maipo 2  Zapatillas Imp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NyO3Gz5wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NyO3Gz5wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NyO3Gz5wL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'HARRY POTTER Figura de Vinilo Peter Pett al 48.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jfC8KDr4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jfC8KDr4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jfC8KDr4L._SL200_.jpg' ]
 comments: true
 category: ofertas

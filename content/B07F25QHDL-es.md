@@ -3,6 +3,7 @@ layout: post
 title: 'K-Swiss Court Clarkson S Se  Zapatillas  al 57.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c%2BwnO-qiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31c%2BwnO-qiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c%2BwnO-qiL._SL200_.jpg' ]
 comments: true
 category: ofertas

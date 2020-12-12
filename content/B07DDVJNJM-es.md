@@ -3,6 +3,7 @@ layout: post
 title: 'Converse Chuck Taylor All Star Street  Z al 62.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M1KJ%2BPbGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M1KJ%2BPbGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M1KJ%2BPbGL._SL200_.jpg' ]
 comments: true
 category: ofertas

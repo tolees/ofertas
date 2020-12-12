@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.71 % en Lacoste Sideline 119 1 Cfa  Zapatillas p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qSUxhsX%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qSUxhsX%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qSUxhsX%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

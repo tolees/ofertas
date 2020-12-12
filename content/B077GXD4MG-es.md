@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.04 % en Under Armour UA Split Fragment Logo SS T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B4sjWkmGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B4sjWkmGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B4sjWkmGL._SL200_.jpg' ]
 comments: true
 category: ofertas

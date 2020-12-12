@@ -3,6 +3,7 @@ layout: post
 title: 'Osprey Tempest 40 Women s Hiking Pack -  al 42.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KnPC82NEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KnPC82NEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KnPC82NEL._SL200_.jpg' ]
 comments: true
 category: ofertas

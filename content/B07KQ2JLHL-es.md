@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.30 % en DC Apparel Right Way 18" Walk Shorts  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NhBwMZCLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NhBwMZCLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NhBwMZCLL._SL200_.jpg' ]
 comments: true
 category: ofertas

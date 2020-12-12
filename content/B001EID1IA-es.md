@@ -3,6 +3,7 @@ layout: post
 title: 'Shimano 1DS98010 - Plato 32D M440/510 De al 30.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2B%2BvhOEDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2B%2BvhOEDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j%2B%2BvhOEDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'MARIA MARE Mariamare ABY  Shopper para M al 56.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u0f8BlMsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31u0f8BlMsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u0f8BlMsL._SL200_.jpg' ]
 comments: true
 category: ofertas

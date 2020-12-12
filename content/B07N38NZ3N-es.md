@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en The North Face W Litewave Fastpack II  Z'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wnh0vOKjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wnh0vOKjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wnh0vOKjL._SL200_.jpg' ]
 comments: true
 category: ofertas

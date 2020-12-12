@@ -3,6 +3,7 @@ layout: post
 title: '500W Inversor De Energía DC 12V A AC 220 al 57.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lKXxsv1XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lKXxsv1XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lKXxsv1XL._SL200_.jpg' ]
 comments: true
 category: ofertas

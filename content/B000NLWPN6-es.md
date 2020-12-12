@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.42 % en Casio Reloj Digital para Mujer de Cuarzo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OZV0OSNxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OZV0OSNxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OZV0OSNxL._SL200_.jpg' ]
 comments: true
 category: ofertas

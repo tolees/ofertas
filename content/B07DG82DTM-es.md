@@ -3,6 +3,7 @@ layout: post
 title: 'FLAMEER Rueda De Acero Rueda Libre 34mm  al 37.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zWS3djQmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zWS3djQmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zWS3djQmL._SL200_.jpg' ]
 comments: true
 category: ofertas

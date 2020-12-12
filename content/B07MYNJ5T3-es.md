@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.75 % en AIJEESI Auriculares Bluetooth CS 4.1 In-'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BmPfgKUuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BmPfgKUuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BmPfgKUuL._SL200_.jpg' ]
 comments: true
 category: ofertas

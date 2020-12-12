@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.14 % en Natural Honey  Aceite corporal - 300 ml.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3165l1GBdOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3165l1GBdOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3165l1GBdOL._SL200_.jpg' ]
 comments: true
 category: ofertas

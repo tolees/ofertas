@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Sport Yh7900  Polo Hombre  Plate al 39.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JmYr%2B1oQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JmYr%2B1oQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JmYr%2B1oQL._SL200_.jpg' ]
 comments: true
 category: ofertas

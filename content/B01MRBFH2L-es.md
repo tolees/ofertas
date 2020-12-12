@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.45 % en Ewent EW7044 Carcasa para Discos Duros H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TH%2BwsL7VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TH%2BwsL7VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TH%2BwsL7VL._SL200_.jpg' ]
 comments: true
 category: ofertas

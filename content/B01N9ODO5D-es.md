@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.57 % en Salomon ADV Skin 5 Set Mochila Ligera de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YsrX7rYlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YsrX7rYlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YsrX7rYlL._SL200_.jpg' ]
 comments: true
 category: ofertas

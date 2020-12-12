@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 057cc1i002  suéter Mujer   al 78.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BclvKDIIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BclvKDIIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BclvKDIIL._SL200_.jpg' ]
 comments: true
 category: ofertas

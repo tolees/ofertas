@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.13 % en Helly Hansen HH LIFA Active Light LS T-S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BAVZg6GlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BAVZg6GlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BAVZg6GlL._SL200_.jpg' ]
 comments: true
 category: ofertas

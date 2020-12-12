@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual - Bag Orangina Piadena Women  C al 36.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CWyZ%2B0hpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CWyZ%2B0hpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CWyZ%2B0hpL._SL200_.jpg' ]
 comments: true
 category: ofertas

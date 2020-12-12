@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Deportivo Digital para Hombre  par al 70.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YeIRdpZIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YeIRdpZIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YeIRdpZIL._SL200_.jpg' ]
 comments: true
 category: ofertas

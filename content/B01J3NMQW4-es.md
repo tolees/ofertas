@@ -3,6 +3,7 @@ layout: post
 title: 'Zestaw przyborów szkolnych w puszce Star al 64.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h-%2BSrqJbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51h-%2BSrqJbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h-%2BSrqJbL._SL200_.jpg' ]
 comments: true
 category: ofertas

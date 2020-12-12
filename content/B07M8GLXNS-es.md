@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.13 % en Camara Acuatica 1080P Camara acuatica Su'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O66hYdtlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51O66hYdtlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O66hYdtlL._SL200_.jpg' ]
 comments: true
 category: ofertas

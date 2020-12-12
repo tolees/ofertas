@@ -3,6 +3,7 @@ layout: post
 title: 'Rieker 17866  Mocasines para Hombre  Azu al 45.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nciPkj-fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nciPkj-fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nciPkj-fL._SL200_.jpg' ]
 comments: true
 category: ofertas

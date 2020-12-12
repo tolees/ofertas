@@ -3,6 +3,7 @@ layout: post
 title: 'Cressi Flosse Reation Pro Aletas  Unisex al 31.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iSzvUOjLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iSzvUOjLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iSzvUOjLL._SL200_.jpg' ]
 comments: true
 category: ofertas

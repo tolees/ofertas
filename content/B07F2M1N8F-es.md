@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.37 % en Helly Hansen Daybreaker 1/2 Zip Chaqueta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n%2B2lSAy8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31n%2B2lSAy8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n%2B2lSAy8L._SL200_.jpg' ]
 comments: true
 category: ofertas

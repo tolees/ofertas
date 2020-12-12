@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.18 % en Twinzen ⭐Juego de 4 Toallas de Manos y 2'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h2mvWe87L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51h2mvWe87L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h2mvWe87L._SL200_.jpg' ]
 comments: true
 category: ofertas

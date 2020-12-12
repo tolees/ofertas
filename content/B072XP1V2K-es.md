@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.18 % en Vero Moda Vmamanda Jive 3/4 Oversize Boa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515scrTlIfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515scrTlIfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515scrTlIfL._SL200_.jpg' ]
 comments: true
 category: ofertas

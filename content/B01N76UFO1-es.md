@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Puma Evopower Vigor 4 TT Jr  Botas de fú'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418QdvpuiuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418QdvpuiuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418QdvpuiuL._SL200_.jpg' ]
 comments: true
 category: ofertas

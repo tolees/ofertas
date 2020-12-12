@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.10 % en Samsonite Uplite Duffle/WH 55 cm Bolsa d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41917zGGkNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41917zGGkNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41917zGGkNL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.15 % en Tom Tailor Sweathoody Mit Kaputze Und Dr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-9nld%2Bk-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-9nld%2Bk-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-9nld%2Bk-L._SL200_.jpg' ]
 comments: true
 category: ofertas

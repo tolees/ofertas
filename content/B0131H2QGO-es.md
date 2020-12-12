@@ -3,6 +3,7 @@ layout: post
 title: 'MSV SUPLEMENTO WC  Polietileno  Blanco   al 58.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KfPB1G0iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KfPB1G0iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KfPB1G0iL._SL200_.jpg' ]
 comments: true
 category: ofertas

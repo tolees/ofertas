@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.03 % en Cesta de regalo para él ~ Super Rich Man'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s-SKRNIuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s-SKRNIuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s-SKRNIuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.70 % en Champion Low Cut Shoe Lyte PU  Zapatilla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VXg7Nfo2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VXg7Nfo2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VXg7Nfo2L._SL200_.jpg' ]
 comments: true
 category: ofertas

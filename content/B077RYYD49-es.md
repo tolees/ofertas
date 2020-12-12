@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.74 % en lavera Leche Corporal Reafirmante con Gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IiuVaJ%2BkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IiuVaJ%2BkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IiuVaJ%2BkL._SL200_.jpg' ]
 comments: true
 category: ofertas

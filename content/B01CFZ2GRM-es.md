@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.97 % en Berydale Clutch de satén con borde de es'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51U1UXbnLwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51U1UXbnLwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51U1UXbnLwL._SL200_.jpg' ]
 comments: true
 category: ofertas

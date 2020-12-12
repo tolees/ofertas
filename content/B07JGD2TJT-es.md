@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.29 % en Puma Clean Sweat Suit CL Chándal  Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IYtWUx27L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IYtWUx27L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IYtWUx27L._SL200_.jpg' ]
 comments: true
 category: ofertas

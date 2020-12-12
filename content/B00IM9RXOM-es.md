@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.41 % en Seac Flipper Gafas de natación para Pisc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vdjvm8LKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vdjvm8LKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vdjvm8LKL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'DoreKim Slim Fit Yoga Pantalones de cint al 51.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31b8xmgpBqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31b8xmgpBqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31b8xmgpBqL._SL200_.jpg' ]
 comments: true
 category: ofertas

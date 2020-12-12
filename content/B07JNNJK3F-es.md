@@ -3,6 +3,7 @@ layout: post
 title: 'Curren Original para Mujer  Deportes  De al 33.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bBy9zwgPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bBy9zwgPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bBy9zwgPL._SL200_.jpg' ]
 comments: true
 category: ofertas

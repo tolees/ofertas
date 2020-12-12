@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.36 % en McDou Palos magnéticos  Palos magnéticos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XFe2j7XjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XFe2j7XjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XFe2j7XjL._SL200_.jpg' ]
 comments: true
 category: ofertas

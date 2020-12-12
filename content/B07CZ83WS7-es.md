@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 5620 Elwood 3D Slim Jeans  Va al 52.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OFFBrGm7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OFFBrGm7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OFFBrGm7L._SL200_.jpg' ]
 comments: true
 category: ofertas

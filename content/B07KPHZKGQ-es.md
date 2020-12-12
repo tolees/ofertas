@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Luz Vaqueros Skinny  Azul  Dark B al 80.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416UT8WCOtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416UT8WCOtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416UT8WCOtL._SL200_.jpg' ]
 comments: true
 category: ofertas

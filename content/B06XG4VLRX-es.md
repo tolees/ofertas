@@ -3,6 +3,7 @@ layout: post
 title: 'Le Coq Sportif LCS R Flow W Suede/Satin  al 72.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413qNgvIaUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413qNgvIaUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413qNgvIaUL._SL200_.jpg' ]
 comments: true
 category: ofertas

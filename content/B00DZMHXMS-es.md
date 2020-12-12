@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.38 % en Prasco FD9347003 Espejo retrovisor de co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rwAFKEGrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rwAFKEGrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rwAFKEGrL._SL200_.jpg' ]
 comments: true
 category: ofertas

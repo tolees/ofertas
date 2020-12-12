@@ -3,6 +3,7 @@ layout: post
 title: 'GUESS GU6865-5801A  Gafas de Sol para Ho al 72.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mM%2B9eMVzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mM%2B9eMVzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mM%2B9eMVzL._SL200_.jpg' ]
 comments: true
 category: ofertas

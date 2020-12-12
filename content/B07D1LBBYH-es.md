@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Phoenix 9  Zapatillas de Entre al 45.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ApMBU2BOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ApMBU2BOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ApMBU2BOL._SL200_.jpg' ]
 comments: true
 category: ofertas

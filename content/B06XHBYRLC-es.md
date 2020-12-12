@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.64 % en Helly Hansen HH LIFA Merino Crew LS Base'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EPOAd-xZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EPOAd-xZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EPOAd-xZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.48 % en Hollister Wave 2 for him eau de toilette'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H9kLlttDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H9kLlttDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H9kLlttDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Miami Beach Swimwear Rob Bañador  Azul   al 46.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414TsT%2BKYcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414TsT%2BKYcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414TsT%2BKYcL._SL200_.jpg' ]
 comments: true
 category: ofertas

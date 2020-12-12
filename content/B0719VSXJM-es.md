@@ -3,6 +3,7 @@ layout: post
 title: 'Blend 20703822 Vaqueros Skinny  Gris  De al 64.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KedBNJ8UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KedBNJ8UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KedBNJ8UL._SL200_.jpg' ]
 comments: true
 category: ofertas

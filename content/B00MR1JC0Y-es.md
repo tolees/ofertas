@@ -3,6 +3,7 @@ layout: post
 title: 'STEVE MADDEN DONDDI - Sandalias clásicas al 82.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41USsVh4ArL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41USsVh4ArL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41USsVh4ArL._SL200_.jpg' ]
 comments: true
 category: ofertas

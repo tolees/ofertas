@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.86 % en Auriculares Bluetooth  Mini Auriculares '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jswf50VwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jswf50VwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jswf50VwL._SL200_.jpg' ]
 comments: true
 category: ofertas

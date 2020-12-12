@@ -3,6 +3,7 @@ layout: post
 title: 'Simon - 75251-39 conmutador cruce s-75 R al 31.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o7eDoJ2ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o7eDoJ2ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o7eDoJ2ML._SL200_.jpg' ]
 comments: true
 category: ofertas

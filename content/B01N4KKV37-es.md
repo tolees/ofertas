@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.66 % en Tom Tailor Floyd Summer Print Shirt  Cam'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KxgC9YpdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KxgC9YpdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KxgC9YpdL._SL200_.jpg' ]
 comments: true
 category: ofertas

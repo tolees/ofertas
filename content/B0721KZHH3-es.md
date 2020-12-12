@@ -3,6 +3,7 @@ layout: post
 title: 'Reef Machado Day Prints Olive Coral  Cha al 42.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PcrHKTvgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PcrHKTvgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PcrHKTvgL._SL200_.jpg' ]
 comments: true
 category: ofertas

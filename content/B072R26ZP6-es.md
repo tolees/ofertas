@@ -3,6 +3,7 @@ layout: post
 title: 'SYROKAN - Sujetador Deportivo con Aros P al 44.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BNeNKdPVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BNeNKdPVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BNeNKdPVL._SL200_.jpg' ]
 comments: true
 category: ofertas

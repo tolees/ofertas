@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Stabil Bounce  Zapatillas de Balo al 45.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IvWOHYTfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IvWOHYTfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IvWOHYTfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: '87 en 1 kit Destornillador de precisión  al 70.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h0knP8ltL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51h0knP8ltL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h0knP8ltL._SL200_.jpg' ]
 comments: true
 category: ofertas

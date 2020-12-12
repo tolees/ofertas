@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.03 % en Kingston DataTraveler 104  USB 2.0 Flash'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31f1xdZaQ-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31f1xdZaQ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31f1xdZaQ-L._SL200_.jpg' ]
 comments: true
 category: ofertas

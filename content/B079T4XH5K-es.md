@@ -3,6 +3,7 @@ layout: post
 title: 'Roccat Horde AIMO - Teclado Gaming Membr al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gd%2BXnCBHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gd%2BXnCBHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gd%2BXnCBHL._SL200_.jpg' ]
 comments: true
 category: ofertas

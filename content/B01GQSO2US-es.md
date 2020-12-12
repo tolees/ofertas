@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 87.21 % en Cartoon 8434/7483 Blusa  Cielo  ES ES 36'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uPx0PewTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uPx0PewTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uPx0PewTL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Athletics 24/7 W  Zapatillas de D al 68.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ilCxIwXlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ilCxIwXlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ilCxIwXlL._SL200_.jpg' ]
 comments: true
 category: ofertas

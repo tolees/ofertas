@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.82 % en Montse Interiors Funda nórdica Estampada'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418rUZD-ikL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418rUZD-ikL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418rUZD-ikL._SL200_.jpg' ]
 comments: true
 category: ofertas

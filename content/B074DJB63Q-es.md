@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel 00SV9U  Bañador para Hombre  Gris al 61.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413-19Olr8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413-19Olr8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413-19Olr8L._SL200_.jpg' ]
 comments: true
 category: ofertas

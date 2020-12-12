@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.05 % en Tommy Jeans Hombre  Scanton Cobco Vaquer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hnS-GjShL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hnS-GjShL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hnS-GjShL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'CMP Hose Softshell - Pantalones para muj al 56.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412sj2Rn3OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412sj2Rn3OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412sj2Rn3OL._SL200_.jpg' ]
 comments: true
 category: ofertas

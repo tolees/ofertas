@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.75 % en SELECTED HOMME Slhslimpen-Pelle Shirt LS'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yhTXmu6HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yhTXmu6HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yhTXmu6HL._SL200_.jpg' ]
 comments: true
 category: ofertas

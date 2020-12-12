@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.70 % en AMEITECH Marcos de Foto Acrílicos  9x13 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415KwdY3WCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415KwdY3WCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415KwdY3WCL._SL200_.jpg' ]
 comments: true
 category: ofertas

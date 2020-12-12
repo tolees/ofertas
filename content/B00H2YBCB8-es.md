@@ -3,6 +3,7 @@ layout: post
 title: 'Xylazel M91402 - Intemperie incoloro 750 al 25.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WYFVnBviL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WYFVnBviL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WYFVnBviL._SL200_.jpg' ]
 comments: true
 category: ofertas

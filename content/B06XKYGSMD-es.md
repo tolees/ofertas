@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.77 % en LEGO Teo 615 Camiseta de Manga Larga  Ni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412cBN%2BO2rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412cBN%2BO2rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412cBN%2BO2rL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Papillon 8130175 Set Barbacoa 3 Piezas. al 61.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H6owXxLkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H6owXxLkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H6owXxLkL._SL200_.jpg' ]
 comments: true
 category: ofertas

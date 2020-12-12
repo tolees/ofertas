@@ -3,6 +3,7 @@ layout: post
 title: 'bugatti 321480075400  Zapatillas para Ho al 53.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411SqgBuEIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411SqgBuEIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411SqgBuEIL._SL200_.jpg' ]
 comments: true
 category: ofertas

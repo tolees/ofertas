@@ -3,6 +3,7 @@ layout: post
 title: 'Pyramid International Deadpool Face-Llav al 44.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SjfE4xTDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjfE4xTDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SjfE4xTDL._SL200_.jpg' ]
 comments: true
 category: ofertas

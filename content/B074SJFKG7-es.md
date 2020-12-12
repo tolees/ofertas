@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.38 % en oodji Ultra Mujer Vestido de Silueta Aju'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Fzh-Yg%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416Fzh-Yg%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Fzh-Yg%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

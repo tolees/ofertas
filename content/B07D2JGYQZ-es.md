@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.60 % en Levi s The tee  Camiseta para Mujer  Roj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m8XbflLWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m8XbflLWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m8XbflLWL._SL200_.jpg' ]
 comments: true
 category: ofertas

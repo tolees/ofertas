@@ -3,6 +3,7 @@ layout: post
 title: 'Habitdesign 004605BO - Mesa de despacho  al 30.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31a11KUO9UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31a11KUO9UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31a11KUO9UL._SL200_.jpg' ]
 comments: true
 category: ofertas

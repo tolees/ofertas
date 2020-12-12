@@ -3,6 +3,7 @@ layout: post
 title: 'Redken Champú - 1000 ml al 46.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mqxIiGtKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mqxIiGtKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mqxIiGtKL._SL200_.jpg' ]
 comments: true
 category: ofertas

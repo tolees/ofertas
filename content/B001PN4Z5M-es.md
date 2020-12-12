@@ -3,6 +3,7 @@ layout: post
 title: 'Rubbermaid Commercial Products 8101-386  al 73.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31koe9jFisL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31koe9jFisL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31koe9jFisL._SL200_.jpg' ]
 comments: true
 category: ofertas

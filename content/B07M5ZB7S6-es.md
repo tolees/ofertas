@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Tacoma Straight Flare Shirt D al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uT5HzOSLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uT5HzOSLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uT5HzOSLL._SL200_.jpg' ]
 comments: true
 category: ofertas

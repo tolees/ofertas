@@ -3,6 +3,7 @@ layout: post
 title: 'Guess - Kamryn  Bolsos bandolera Mujer   al 59.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5121Cm6MxqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5121Cm6MxqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5121Cm6MxqL._SL200_.jpg' ]
 comments: true
 category: ofertas

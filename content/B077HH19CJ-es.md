@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.70 % en Puma ftblNXT Casuals T-Shirt  Hombre  Wh'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zMlVyG-QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zMlVyG-QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zMlVyG-QL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'NBA 2k19 [Importación italiana] al 42.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61hh3hJIJuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61hh3hJIJuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61hh3hJIJuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Salewa MS Speed Beat GTX  Zapatillas de  al 45.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QUmPWVgmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QUmPWVgmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QUmPWVgmL._SL200_.jpg' ]
 comments: true
 category: ofertas

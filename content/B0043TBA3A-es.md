@@ -3,6 +3,7 @@ layout: post
 title: 'Nalgene Everyday OTF - Cantimplora  0 7  al 28.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RH3pYTaUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RH3pYTaUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RH3pYTaUL._SL200_.jpg' ]
 comments: true
 category: ofertas

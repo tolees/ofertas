@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA CF Force 3.0 TF  Zapatil al 41.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L8BcaVKWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L8BcaVKWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L8BcaVKWL._SL200_.jpg' ]
 comments: true
 category: ofertas

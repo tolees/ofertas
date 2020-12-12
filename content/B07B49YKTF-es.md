@@ -3,6 +3,7 @@ layout: post
 title: 'Astan Hogar sandwichera Duo Pack hottix  al 52.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313a9OtwacL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313a9OtwacL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313a9OtwacL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.42 % en JACK & JONES Jorchris Shirt LS One Pocke'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OZlUxTSOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31OZlUxTSOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OZlUxTSOL._SL200_.jpg' ]
 comments: true
 category: ofertas

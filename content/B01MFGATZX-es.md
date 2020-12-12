@@ -3,6 +3,7 @@ layout: post
 title: 'Vinilo autoadhesivo efecto 3D al 80.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516C6FvhnYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516C6FvhnYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516C6FvhnYL._SL200_.jpg' ]
 comments: true
 category: ofertas

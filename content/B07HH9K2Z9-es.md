@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.35 % en Tommy Hilfiger Perniane Mock-nk Swtr  su'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hHC4LSbHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hHC4LSbHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hHC4LSbHL._SL200_.jpg' ]
 comments: true
 category: ofertas

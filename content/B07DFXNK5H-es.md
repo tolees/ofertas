@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.90 % en Puma RBR Speedcat EVO T-Shirt  Hombre  W'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SnfWmcDnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SnfWmcDnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SnfWmcDnL._SL200_.jpg' ]
 comments: true
 category: ofertas

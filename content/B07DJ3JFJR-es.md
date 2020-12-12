@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Theragon a  Zapatillas para Mujer al 74.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AkQWciOeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AkQWciOeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AkQWciOeL._SL200_.jpg' ]
 comments: true
 category: ofertas

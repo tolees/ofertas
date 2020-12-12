@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.00 % en Armani Exchange - Texturized Round Zip W'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UCMMtsGBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UCMMtsGBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UCMMtsGBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual Vest_Justine Vestido  Azul  Mar al 49.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jak%2BhADyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jak%2BhADyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jak%2BhADyL._SL200_.jpg' ]
 comments: true
 category: ofertas

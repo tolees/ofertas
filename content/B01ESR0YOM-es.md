@@ -3,6 +3,7 @@ layout: post
 title: 'STAR WARS Camiseta Manga Corta Chewie Ma al 31.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pD0wZBcQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pD0wZBcQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pD0wZBcQL._SL200_.jpg' ]
 comments: true
 category: ofertas

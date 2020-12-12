@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes The Locker Backpack  Hombre  Na al 27.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3GQ7bVlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3GQ7bVlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q3GQ7bVlL._SL200_.jpg' ]
 comments: true
 category: ofertas

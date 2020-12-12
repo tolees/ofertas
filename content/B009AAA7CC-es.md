@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Book - Funda Galaxy Tab II  rosa al 49.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410PgIXs3kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410PgIXs3kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410PgIXs3kL._SL200_.jpg' ]
 comments: true
 category: ofertas

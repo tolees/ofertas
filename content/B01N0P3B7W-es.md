@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Sudadera Oversized con Volantes par al 61.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415BajCIAgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415BajCIAgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415BajCIAgL._SL200_.jpg' ]
 comments: true
 category: ofertas

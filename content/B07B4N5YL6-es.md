@@ -3,6 +3,7 @@ layout: post
 title: 'IRIS 9700 HD 02 - Receptor de TV por sat al 63.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jl7Ud4lJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jl7Ud4lJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jl7Ud4lJL._SL200_.jpg' ]
 comments: true
 category: ofertas

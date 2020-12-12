@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.97 % en Pantalón de Trabajo de Algodón Con Banda'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qCZPyrkXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qCZPyrkXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qCZPyrkXL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlhollie L/s Pullover Knit - Box   al 61.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417e2VFyReL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417e2VFyReL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417e2VFyReL._SL200_.jpg' ]
 comments: true
 category: ofertas

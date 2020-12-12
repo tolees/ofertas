@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.25 % en Biotherm Homme Day Control Antiperspiran'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YGEiIkxHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YGEiIkxHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YGEiIkxHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Gre AR1020P - Ducha Solar Exterior de PV al 49.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21ywlhKJcCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21ywlhKJcCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21ywlhKJcCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Luz Delantera Bicicleta Luz Bici USB Rec al 78.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CrNlOANBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CrNlOANBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CrNlOANBL._SL200_.jpg' ]
 comments: true
 category: ofertas

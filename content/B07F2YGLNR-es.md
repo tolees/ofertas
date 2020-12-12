@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.98 % en Puma Cilia  Zapatillas para Mujer  Gris '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410fI5yyMFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410fI5yyMFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410fI5yyMFL._SL200_.jpg' ]
 comments: true
 category: ofertas

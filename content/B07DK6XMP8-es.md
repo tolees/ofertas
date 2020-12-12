@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.13 % en htovila Cortina Ducha de Polietileno  H2'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T9Qbxcg8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51T9Qbxcg8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T9Qbxcg8L._SL200_.jpg' ]
 comments: true
 category: ofertas

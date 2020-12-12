@@ -3,6 +3,7 @@ layout: post
 title: 'find. Tie-Up Side Suéter para Mujer  Bla al 62.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pGYpWB2WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pGYpWB2WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pGYpWB2WL._SL200_.jpg' ]
 comments: true
 category: ofertas

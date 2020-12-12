@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Adultos Run gurteltasche  Raw ámb al 50.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417SmQVSVwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417SmQVSVwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417SmQVSVwL._SL200_.jpg' ]
 comments: true
 category: ofertas

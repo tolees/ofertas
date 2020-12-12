@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.88 % en boboli 424123 Vestido  Niñas  Azul  Atla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YO5rXYz8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YO5rXYz8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YO5rXYz8L._SL200_.jpg' ]
 comments: true
 category: ofertas

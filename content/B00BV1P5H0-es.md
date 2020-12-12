@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.75 % en Funko - Figurine Disney - Mary Poppins P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VSIx4Y8xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VSIx4Y8xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VSIx4Y8xL._SL200_.jpg' ]
 comments: true
 category: ofertas

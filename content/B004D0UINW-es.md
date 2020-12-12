@@ -3,6 +3,7 @@ layout: post
 title: 'Integral IN1T1GNSKCI - Memoria RAM de 1  al 85.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412D2CDDIuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412D2CDDIuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412D2CDDIuL._SL200_.jpg' ]
 comments: true
 category: ofertas

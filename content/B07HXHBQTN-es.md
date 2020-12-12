@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Galaxy J4+ - Smartphone de 6"  Q al 32.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417FBrs6MNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417FBrs6MNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417FBrs6MNL._SL200_.jpg' ]
 comments: true
 category: ofertas

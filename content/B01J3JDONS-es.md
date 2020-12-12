@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia CSC Basic Logo Camiseta de Mang al 40.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e%2Bh-F01FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e%2Bh-F01FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e%2Bh-F01FL._SL200_.jpg' ]
 comments: true
 category: ofertas

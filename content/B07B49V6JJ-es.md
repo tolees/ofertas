@@ -3,6 +3,7 @@ layout: post
 title: 'Relec Pulsera Repelente Antimosquitos Su al 58.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SIEIrdGFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SIEIrdGFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SIEIrdGFL._SL200_.jpg' ]
 comments: true
 category: ofertas

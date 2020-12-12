@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.37 % en Versa 19501329 Sillón tapizado Rhune  89'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BXOCsHIqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BXOCsHIqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BXOCsHIqL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.53 % en Love Moschino Heart Logo_Short Sleeve Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b7ekkpcfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b7ekkpcfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b7ekkpcfL._SL200_.jpg' ]
 comments: true
 category: ofertas

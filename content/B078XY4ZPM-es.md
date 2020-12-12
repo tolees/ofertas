@@ -3,6 +3,7 @@ layout: post
 title: 'BRA Advanced Sartén  24 cm  aluminio fun al 41.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313NQfmf46L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313NQfmf46L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313NQfmf46L._SL200_.jpg' ]
 comments: true
 category: ofertas

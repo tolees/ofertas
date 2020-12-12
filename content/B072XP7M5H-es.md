@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.84 % en Vero Moda Vmhappy LS V-Neck Blouse Boo  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BvTP3HjfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BvTP3HjfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BvTP3HjfL._SL200_.jpg' ]
 comments: true
 category: ofertas

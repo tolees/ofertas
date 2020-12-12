@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.01 % en Mini Ventilador USB Portátil con Tempori'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aX1ECWuXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aX1ECWuXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aX1ECWuXL._SL200_.jpg' ]
 comments: true
 category: ofertas

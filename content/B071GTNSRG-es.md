@@ -3,6 +3,7 @@ layout: post
 title: 'GreeSuit Animal-WC inodoro perros bandej al 25.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515mPd-sUGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515mPd-sUGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515mPd-sUGL._SL200_.jpg' ]
 comments: true
 category: ofertas

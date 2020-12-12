@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.02 % en Salomon Trailster  Zaptillas de Running '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t69bMiMGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t69bMiMGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t69bMiMGL._SL200_.jpg' ]
 comments: true
 category: ofertas

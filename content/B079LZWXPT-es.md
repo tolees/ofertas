@@ -3,6 +3,7 @@ layout: post
 title: 'Dunlop FLASH PRO - Pala de pádel 38mm  2 al 85.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EsE1D3utL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EsE1D3utL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EsE1D3utL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onllive Love Peplum 3/4 Top  Camisa al 53.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vDb96Qo6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vDb96Qo6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vDb96Qo6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.56 % en AXE Desodorante Bodyspray Marine - 3 Paq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F88TSIGAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F88TSIGAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F88TSIGAL._SL200_.jpg' ]
 comments: true
 category: ofertas

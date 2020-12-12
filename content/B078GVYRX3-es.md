@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.73 % en Springfield 6763634  Camiseta de Manga L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512pSaG2o3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512pSaG2o3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512pSaG2o3L._SL200_.jpg' ]
 comments: true
 category: ofertas

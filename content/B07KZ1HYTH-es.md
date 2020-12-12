@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 5.Pa.Corto Liso M/C Lace Ves al 75.83 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

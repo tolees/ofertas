@@ -3,6 +3,7 @@ layout: post
 title: 'PIKOLIN Colchón viscoelástico 105x190 fi al 28.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yN2lIaAEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yN2lIaAEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yN2lIaAEL._SL200_.jpg' ]
 comments: true
 category: ofertas

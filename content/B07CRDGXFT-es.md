@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Explode 2 Zapatillas de Balonmano H al 54.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LkGMSUm%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LkGMSUm%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LkGMSUm%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

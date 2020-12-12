@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.01 % en Feob Batería Externa para Móvil  Power B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314u%2Bfqw-hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314u%2Bfqw-hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314u%2Bfqw-hL._SL200_.jpg' ]
 comments: true
 category: ofertas

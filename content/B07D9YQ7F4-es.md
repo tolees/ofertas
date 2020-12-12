@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.62 % en Mustang Schnür-Stiefelette  Botines para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZXtmG2D2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZXtmG2D2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZXtmG2D2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.68 % en Faber-Castell 183526 – Sacapuntas doble '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cy3pVNbeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cy3pVNbeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cy3pVNbeL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adaptador USB C a Micro USB  5x Lucklyst al 90.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HvU82izGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HvU82izGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HvU82izGL._SL200_.jpg' ]
 comments: true
 category: ofertas

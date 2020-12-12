@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Future 19.4 FG/AG Jr  Zapatillas de al 37.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cW0Ni5l7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cW0Ni5l7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cW0Ni5l7L._SL200_.jpg' ]
 comments: true
 category: ofertas

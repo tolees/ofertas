@@ -3,6 +3,7 @@ layout: post
 title: 'Hilfiger Denim Tommy Jeans Casual Sneake al 55.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pwBj6aoFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pwBj6aoFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pwBj6aoFL._SL200_.jpg' ]
 comments: true
 category: ofertas

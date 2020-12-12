@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.01 % en INTEY Detector de Pared con Pantalla LCD'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412WMbB%2BpBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412WMbB%2BpBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412WMbB%2BpBL._SL200_.jpg' ]
 comments: true
 category: ofertas

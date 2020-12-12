@@ -3,6 +3,7 @@ layout: post
 title: 'Redskins Junior Cardiff  Chaqueta para N al 79.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S5aBwkcvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51S5aBwkcvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S5aBwkcvL._SL200_.jpg' ]
 comments: true
 category: ofertas

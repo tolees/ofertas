@@ -3,6 +3,7 @@ layout: post
 title: 'Laura Biagiotti DOLLS Botas Biker para N al 77.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tw5U953xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tw5U953xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tw5U953xL._SL200_.jpg' ]
 comments: true
 category: ofertas

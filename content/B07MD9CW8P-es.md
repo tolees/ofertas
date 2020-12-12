@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en Auriculares bluetooth  Auriculares inalá'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a%2By4e-rAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a%2By4e-rAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a%2By4e-rAL._SL200_.jpg' ]
 comments: true
 category: ofertas

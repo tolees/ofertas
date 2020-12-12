@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Armour Sport Mesh Swing Tan al 31.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YbT4uo2YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YbT4uo2YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YbT4uo2YL._SL200_.jpg' ]
 comments: true
 category: ofertas

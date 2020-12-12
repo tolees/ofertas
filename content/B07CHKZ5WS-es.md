@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.37 % en BOSS Jaysee Chaqueta  Marrón  Dark Brown'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iuBJwiuGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iuBJwiuGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iuBJwiuGL._SL200_.jpg' ]
 comments: true
 category: ofertas

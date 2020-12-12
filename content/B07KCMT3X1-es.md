@@ -3,6 +3,7 @@ layout: post
 title: 'David Jones - 5964-1  Bolsos bandolera M al 40.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P1%2BiAszNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P1%2BiAszNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P1%2BiAszNL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.61 % en edc by Esprit 027cc2f005  Camisa Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516%2BWf8Y8GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516%2BWf8Y8GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516%2BWf8Y8GL._SL200_.jpg' ]
 comments: true
 category: ofertas

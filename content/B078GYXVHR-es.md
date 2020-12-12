@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.92 % en Springfield 3083152  Pantalones Cortos p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412xeOOXcnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412xeOOXcnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412xeOOXcnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Cache Cache TUTOBBY Blusa  Blanco  Cloud al 54.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r2t-GR25L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r2t-GR25L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r2t-GR25L._SL200_.jpg' ]
 comments: true
 category: ofertas

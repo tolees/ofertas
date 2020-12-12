@@ -3,6 +3,7 @@ layout: post
 title: 'LANGRIA Manta de Bebé Unisex Reversible  al 83.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vNuO5mqHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vNuO5mqHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vNuO5mqHL._SL200_.jpg' ]
 comments: true
 category: ofertas

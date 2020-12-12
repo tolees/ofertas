@@ -3,6 +3,7 @@ layout: post
 title: 'Blend 20705545  Bañador para Hombre  Bla al 65.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4151ePEfftL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4151ePEfftL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4151ePEfftL._SL200_.jpg' ]
 comments: true
 category: ofertas

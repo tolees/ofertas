@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.07 % en Black+Decker 51686 Aspiradora  1600 W  c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wB2h4ajTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wB2h4ajTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wB2h4ajTL._SL200_.jpg' ]
 comments: true
 category: ofertas

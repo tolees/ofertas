@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.94 % en Cynthia 6.5 Pulgadas Grande LED Digital '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EndqY6wpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EndqY6wpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EndqY6wpL._SL200_.jpg' ]
 comments: true
 category: ofertas

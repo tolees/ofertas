@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.81 % en Flower 70567 70567-Abono orgánico césped'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jLjNv3-JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jLjNv3-JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jLjNv3-JL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.85 % en Revlon UniqOne Classic Pack de Spray y C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z1bLYzU9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z1bLYzU9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z1bLYzU9L._SL200_.jpg' ]
 comments: true
 category: ofertas

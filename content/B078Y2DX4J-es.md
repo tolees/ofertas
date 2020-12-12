@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.01 % en Surface Pro 4 Cargador AUKEH 65W 15V 4A '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I4fHsukcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I4fHsukcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I4fHsukcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Alloyseed Compresor de Aire Portátil Dig al 67.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pfoMjL9AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pfoMjL9AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pfoMjL9AL._SL200_.jpg' ]
 comments: true
 category: ofertas

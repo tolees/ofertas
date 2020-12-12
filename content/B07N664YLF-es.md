@@ -3,6 +3,7 @@ layout: post
 title: 'Lijadora Eléctrica  200W 12000RPM TOVORK al 43.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jgj4kzImL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jgj4kzImL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jgj4kzImL._SL200_.jpg' ]
 comments: true
 category: ofertas

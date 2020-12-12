@@ -3,6 +3,7 @@ layout: post
 title: 'Lovey Angel Anillo pene vi-brador de 11  al 53.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nvm6eOPqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nvm6eOPqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nvm6eOPqL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.18 % en THE COSMETIC REPUBLIC - Keratin Fibers R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sJFFv9XML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sJFFv9XML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sJFFv9XML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.00 % en Biotherm - Contorno de ojos aquapower fr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21WXwluwL3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21WXwluwL3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21WXwluwL3L._SL200_.jpg' ]
 comments: true
 category: ofertas

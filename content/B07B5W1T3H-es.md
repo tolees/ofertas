@@ -3,6 +3,7 @@ layout: post
 title: 'Street Fighter - 30th Anniversary al 32.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vbyao9q3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vbyao9q3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vbyao9q3L._SL200_.jpg' ]
 comments: true
 category: ofertas

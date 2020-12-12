@@ -3,6 +3,7 @@ layout: post
 title: 'Recortador vello nariz  Recortador de ca al 79.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nVI4OEDPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nVI4OEDPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nVI4OEDPL._SL200_.jpg' ]
 comments: true
 category: ofertas

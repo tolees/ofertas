@@ -3,6 +3,7 @@ layout: post
 title: 'Pato - Active Clean colgador para inodor al 59.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oxfI8A0EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oxfI8A0EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oxfI8A0EL._SL200_.jpg' ]
 comments: true
 category: ofertas

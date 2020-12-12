@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.52 % en Game Of Thrones Heat Changing Mug'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gPDeRZ5CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gPDeRZ5CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gPDeRZ5CL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.54 % en Paquete de 6 Piezas de Ropa Interior de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iCxS6l1zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iCxS6l1zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iCxS6l1zL._SL200_.jpg' ]
 comments: true
 category: ofertas

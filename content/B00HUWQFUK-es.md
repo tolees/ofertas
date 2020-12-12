@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.17 % en Fendi Brillengestelle FF 0003 7PE/16-52-'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jj61sacdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jj61sacdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jj61sacdL._SL200_.jpg' ]
 comments: true
 category: ofertas

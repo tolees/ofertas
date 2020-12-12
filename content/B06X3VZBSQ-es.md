@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.50 % en Wilson Fusion XL Raqueta  Unisex Adulto '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Mz3oIAEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419Mz3oIAEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Mz3oIAEL._SL200_.jpg' ]
 comments: true
 category: ofertas

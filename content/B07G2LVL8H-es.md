@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Predator Tango 18.3 In  Zapatilla al 48.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TG9GWTS%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TG9GWTS%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TG9GWTS%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.43 % en STEPS Refugio de Supervivencia de Emerge'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nxGo4BiAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nxGo4BiAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nxGo4BiAL._SL200_.jpg' ]
 comments: true
 category: ofertas

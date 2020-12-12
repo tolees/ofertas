@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.70 % en Ariston 3100552 Termo Eléctrico  Andris '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lDaPn4gLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lDaPn4gLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lDaPn4gLL._SL200_.jpg' ]
 comments: true
 category: ofertas

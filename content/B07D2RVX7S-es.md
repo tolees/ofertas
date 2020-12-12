@@ -3,6 +3,7 @@ layout: post
 title: 'Gant Henley  Top de Pijama Hombre  Azul  al 46.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319XJc7WdCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319XJc7WdCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319XJc7WdCL._SL200_.jpg' ]
 comments: true
 category: ofertas

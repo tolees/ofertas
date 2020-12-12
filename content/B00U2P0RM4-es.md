@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.02 % en KRISP 6610-CORBLK-16  Vestido Corto Pati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KHgz-tpCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KHgz-tpCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KHgz-tpCL._SL200_.jpg' ]
 comments: true
 category: ofertas

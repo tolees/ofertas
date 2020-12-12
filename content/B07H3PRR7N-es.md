@@ -3,6 +3,7 @@ layout: post
 title: 'SKM Silla Plegable Camping  Portátil con al 46.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kKYjUejAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kKYjUejAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kKYjUejAL._SL200_.jpg' ]
 comments: true
 category: ofertas

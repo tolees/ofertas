@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Burgundy Tile Print 6053063  Ca al 62.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51274JnO5BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51274JnO5BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51274JnO5BL._SL200_.jpg' ]
 comments: true
 category: ofertas

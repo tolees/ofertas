@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Mega Nrgy Turbo 2  Zapatillas de Ru al 56.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412XK8lOVwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412XK8lOVwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412XK8lOVwL._SL200_.jpg' ]
 comments: true
 category: ofertas

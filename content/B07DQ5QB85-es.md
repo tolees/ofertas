@@ -3,6 +3,7 @@ layout: post
 title: 'Sixty Seven 79786  Zapatos de tacón con  al 76.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h4o0JQmpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31h4o0JQmpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h4o0JQmpL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'URCERI Mini Sierra Circular 500W  230-24 al 30.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hverSeqvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hverSeqvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hverSeqvL._SL200_.jpg' ]
 comments: true
 category: ofertas

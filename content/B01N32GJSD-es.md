@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.70 % en Geographical Norway Pantalón Deporte Dou'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b0mVsZLoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b0mVsZLoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b0mVsZLoL._SL200_.jpg' ]
 comments: true
 category: ofertas

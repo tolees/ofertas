@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Camiseta Mensaje para Hombre  Blanc al 57.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dyfU8vL8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dyfU8vL8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dyfU8vL8L._SL200_.jpg' ]
 comments: true
 category: ofertas

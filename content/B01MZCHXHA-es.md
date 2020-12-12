@@ -3,6 +3,7 @@ layout: post
 title: 'BESTEK Cargador USB Cargador Escritorio  al 60.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513B34bT85L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513B34bT85L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513B34bT85L._SL200_.jpg' ]
 comments: true
 category: ofertas

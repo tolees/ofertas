@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 097cc1k047  Camisa Manga L al 58.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-lHtE61VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-lHtE61VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-lHtE61VL._SL200_.jpg' ]
 comments: true
 category: ofertas

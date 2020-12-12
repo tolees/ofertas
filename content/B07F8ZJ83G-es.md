@@ -3,6 +3,7 @@ layout: post
 title: 'Clinique  Mascarilla hidratante y rejuve al 41.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yHv4VwLSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yHv4VwLSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yHv4VwLSL._SL200_.jpg' ]
 comments: true
 category: ofertas

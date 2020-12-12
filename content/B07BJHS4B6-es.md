@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Midge Saddle Mid-Waist Straig al 82.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BX4kPgCWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BX4kPgCWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BX4kPgCWL._SL200_.jpg' ]
 comments: true
 category: ofertas

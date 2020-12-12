@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.88 % en Torras - Papel paperbox 5 Paquetes x 500'
 date: 
 thumbnailImage: 'None._SL200_'
+image: 'None._SL200_'
 images: [ 'None._SL200_' ]
 comments: true
 category: ofertas

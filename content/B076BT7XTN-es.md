@@ -3,6 +3,7 @@ layout: post
 title: 'AURIQUE Camiseta Deportiva Mujer  Negro  al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BaApvMOvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BaApvMOvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BaApvMOvL._SL200_.jpg' ]
 comments: true
 category: ofertas

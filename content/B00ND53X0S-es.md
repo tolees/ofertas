@@ -3,6 +3,7 @@ layout: post
 title: 'Chocolate Amatller Flors - Bombones de c al 50.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519by71XoeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519by71XoeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519by71XoeL._SL200_.jpg' ]
 comments: true
 category: ofertas

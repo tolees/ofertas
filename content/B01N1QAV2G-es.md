@@ -3,6 +3,7 @@ layout: post
 title: 'Reef Rover Low  Zapatillas para Mujer  G al 80.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mBkkyGosL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mBkkyGosL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mBkkyGosL._SL200_.jpg' ]
 comments: true
 category: ofertas

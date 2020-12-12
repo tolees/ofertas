@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.01 % en Reloj Inteligente mujer ZKCREATION Fitne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413uMK20UsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413uMK20UsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413uMK20UsL._SL200_.jpg' ]
 comments: true
 category: ofertas

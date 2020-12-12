@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.45 % en Columbia Davenport Chukka Waterproof Lea'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n0nbHcbTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n0nbHcbTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n0nbHcbTL._SL200_.jpg' ]
 comments: true
 category: ofertas

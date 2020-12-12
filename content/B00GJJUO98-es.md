@@ -3,6 +3,7 @@ layout: post
 title: 'La Cabaña En El Bosque [Blu-ray] al 51.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v%2BxFkrjeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51v%2BxFkrjeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v%2BxFkrjeL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.36 % en Levi s LS Waffle Crewneck  Sudadera para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Eu8bOkpwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Eu8bOkpwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Eu8bOkpwL._SL200_.jpg' ]
 comments: true
 category: ofertas

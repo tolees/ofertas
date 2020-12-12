@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Abrigo Azul Oscuro L al 76.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NbdAtbBdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NbdAtbBdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NbdAtbBdL._SL200_.jpg' ]
 comments: true
 category: ofertas

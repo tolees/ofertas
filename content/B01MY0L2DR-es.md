@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.04 % en Rowenta Premio BS1220V0 - Báscula Digita'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313%2BOyiZFuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313%2BOyiZFuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313%2BOyiZFuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'El Ganso Oxford Bandera Camisa Casual  H al 55.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y27lue4fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31y27lue4fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y27lue4fL._SL200_.jpg' ]
 comments: true
 category: ofertas

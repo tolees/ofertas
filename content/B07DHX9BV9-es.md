@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Larkee-beex SP  Vaqueros Straight al 76.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LOglbJ8PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LOglbJ8PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LOglbJ8PL._SL200_.jpg' ]
 comments: true
 category: ofertas

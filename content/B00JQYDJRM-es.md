@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.08 % en MAPED FORBICE UNIVERSAL CM 18 ASIM'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n77qCmxkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n77qCmxkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n77qCmxkL._SL200_.jpg' ]
 comments: true
 category: ofertas

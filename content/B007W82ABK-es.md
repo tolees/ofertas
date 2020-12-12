@@ -3,6 +3,7 @@ layout: post
 title: 'Cooler Master IC-Essential E1 - Pasta té al 33.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w7XVbNPJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w7XVbNPJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w7XVbNPJL._SL200_.jpg' ]
 comments: true
 category: ofertas

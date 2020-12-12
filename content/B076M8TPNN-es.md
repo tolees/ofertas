@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.39 % en Pour Moi? Mardi Gras Underwired Padded T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RhVc127WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RhVc127WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RhVc127WL._SL200_.jpg' ]
 comments: true
 category: ofertas

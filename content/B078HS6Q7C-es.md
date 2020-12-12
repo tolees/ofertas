@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Onitsuka Tiger California 78 Ex  Z al 56.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XMJcCBbNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XMJcCBbNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XMJcCBbNL._SL200_.jpg' ]
 comments: true
 category: ofertas

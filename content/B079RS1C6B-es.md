@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Groot PM505962 Camiseta  Azul al 34.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4148ITB1%2BsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4148ITB1%2BsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4148ITB1%2BsL._SL200_.jpg' ]
 comments: true
 category: ofertas

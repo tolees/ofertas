@@ -3,6 +3,7 @@ layout: post
 title: 'Merrell Moab 2 Mid GTX  Botas de Senderi al 33.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fW-6Rjc0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fW-6Rjc0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fW-6Rjc0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.24 % en Cortefiel C5Bck Polo Oxford Polo  Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BfeNjNGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BfeNjNGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BfeNjNGL._SL200_.jpg' ]
 comments: true
 category: ofertas

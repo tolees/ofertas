@@ -3,6 +3,7 @@ layout: post
 title: 'POP! Vinilo - Games: Street Fighter: Bal al 50.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mz2DiUspL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mz2DiUspL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mz2DiUspL._SL200_.jpg' ]
 comments: true
 category: ofertas

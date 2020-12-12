@@ -3,6 +3,7 @@ layout: post
 title: 'Fendi Brillengestelle FF 0072/F NZO/14-5 al 48.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z3LFDGpFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z3LFDGpFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Z3LFDGpFL._SL200_.jpg' ]
 comments: true
 category: ofertas

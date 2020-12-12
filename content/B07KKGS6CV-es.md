@@ -3,6 +3,7 @@ layout: post
 title: 'RenFox E-lšªquido 12x10ml Set E-Lšªquido al 31.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61UokC5uurL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61UokC5uurL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61UokC5uurL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lico Fondation  Zapatillas Unisex Adulto al 75.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319haC9SFDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319haC9SFDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319haC9SFDL._SL200_.jpg' ]
 comments: true
 category: ofertas

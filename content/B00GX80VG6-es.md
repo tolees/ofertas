@@ -3,6 +3,7 @@ layout: post
 title: 'High School Of The Dead - Serie Completa al 49.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61K22eenR4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61K22eenR4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61K22eenR4L._SL200_.jpg' ]
 comments: true
 category: ofertas

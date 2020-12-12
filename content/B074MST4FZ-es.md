@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.36 % en find. Jersey Largo de Punto Mujer  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413GS0bi27L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413GS0bi27L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413GS0bi27L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.80 % en Morgan 191-reine.n  Vestido Fiesta Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sHJtaAMSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sHJtaAMSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sHJtaAMSL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3283208  Camiseta para Hombr al 58.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oLzZ6PC4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oLzZ6PC4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oLzZ6PC4L._SL200_.jpg' ]
 comments: true
 category: ofertas

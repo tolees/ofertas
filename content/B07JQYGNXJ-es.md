@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Football Street GYMBAG Gym Sack   al 51.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zP4XTI6FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zP4XTI6FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zP4XTI6FL._SL200_.jpg' ]
 comments: true
 category: ofertas

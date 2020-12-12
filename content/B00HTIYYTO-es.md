@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.22 % en Trust GXT 207 - Alfombrilla de ratón  Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I7jlOXMeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I7jlOXMeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I7jlOXMeL._SL200_.jpg' ]
 comments: true
 category: ofertas

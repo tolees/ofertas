@@ -3,6 +3,7 @@ layout: post
 title: 'Head Alpha Elite Pala de Pádel  Hombre   al 58.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ikFbUnSHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ikFbUnSHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ikFbUnSHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.60 % en Pepe Jeans Cane  Vaqueros Slim para Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D4a3e3-SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D4a3e3-SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D4a3e3-SL._SL200_.jpg' ]
 comments: true
 category: ofertas

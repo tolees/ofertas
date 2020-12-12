@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Levis 200SF CALEIDOSCOPE Boxer Br al 57.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lE6oY5k6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lE6oY5k6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lE6oY5k6L._SL200_.jpg' ]
 comments: true
 category: ofertas

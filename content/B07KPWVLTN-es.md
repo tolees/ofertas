@@ -3,6 +3,7 @@ layout: post
 title: 'adidas C Linear Brush Graphic tee  Short al 43.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BBUseqdLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BBUseqdLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BBUseqdLL._SL200_.jpg' ]
 comments: true
 category: ofertas

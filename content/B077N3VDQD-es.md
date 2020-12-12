@@ -3,6 +3,7 @@ layout: post
 title: 'ThunderX3 AK7CHR - Teclado gaming mecáni al 49.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZO6MeQYqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZO6MeQYqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZO6MeQYqL._SL200_.jpg' ]
 comments: true
 category: ofertas

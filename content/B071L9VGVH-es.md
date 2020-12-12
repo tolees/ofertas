@@ -3,6 +3,7 @@ layout: post
 title: 'yoptote Laberinto de Cuentas Juguetes de al 48.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lGQLQr-HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lGQLQr-HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lGQLQr-HL._SL200_.jpg' ]
 comments: true
 category: ofertas

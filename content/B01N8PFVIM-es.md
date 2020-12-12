@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.13 % en Bugatti J97011  Zapatillas para Mujer  D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415j7FFSQ0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415j7FFSQ0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415j7FFSQ0L._SL200_.jpg' ]
 comments: true
 category: ofertas

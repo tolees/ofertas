@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Donna Meldi Stivali  Botas Camperas al 62.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HYber8JdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HYber8JdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HYber8JdL._SL200_.jpg' ]
 comments: true
 category: ofertas

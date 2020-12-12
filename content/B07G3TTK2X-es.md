@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.44 % en Homyl 1x Reloj de Entrenamiento con GPS '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413Oquu9T3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413Oquu9T3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413Oquu9T3L._SL200_.jpg' ]
 comments: true
 category: ofertas

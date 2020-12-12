@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.65 % en Only Onljanna L/s Short Hood Swt  Sudade'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xvR-N7TTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xvR-N7TTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xvR-N7TTL._SL200_.jpg' ]
 comments: true
 category: ofertas

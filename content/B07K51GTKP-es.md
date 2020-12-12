@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s kids Nn15527 Sweat Shirt  Sudader al 58.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e7po5SuAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e7po5SuAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e7po5SuAL._SL200_.jpg' ]
 comments: true
 category: ofertas

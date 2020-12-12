@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.39 % en Springfield INT.3.Plumas Light Chaqueta '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nc3e2ejpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nc3e2ejpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nc3e2ejpL._SL200_.jpg' ]
 comments: true
 category: ofertas

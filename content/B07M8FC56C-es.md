@@ -3,6 +3,7 @@ layout: post
 title: 'SONGMICS Tumbona  Silla con Reposacabeza al 27.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-CizMG%2BJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-CizMG%2BJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-CizMG%2BJL._SL200_.jpg' ]
 comments: true
 category: ofertas

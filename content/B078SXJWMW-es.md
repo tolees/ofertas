@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.96 % en Timberland Wild Dunes Synthetic Chanclas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4129yMY1fPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4129yMY1fPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4129yMY1fPL._SL200_.jpg' ]
 comments: true
 category: ofertas

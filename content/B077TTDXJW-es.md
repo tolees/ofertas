@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Astroride Future  Zapatillas de T al 60.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vxWYutvsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vxWYutvsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vxWYutvsL._SL200_.jpg' ]
 comments: true
 category: ofertas

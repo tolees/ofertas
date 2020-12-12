@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.91 % en Funda Huawei P20  Carcasa Huawei P20 Lit'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xsYSw3MoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xsYSw3MoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xsYSw3MoL._SL200_.jpg' ]
 comments: true
 category: ofertas

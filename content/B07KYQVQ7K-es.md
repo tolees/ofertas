@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4 90 Gingham Check Mel Camis al 42.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hj1EBqGxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hj1EBqGxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hj1EBqGxL._SL200_.jpg' ]
 comments: true
 category: ofertas

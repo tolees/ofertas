@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual - Bag Landscape Nimbus Imperia  al 37.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c%2Bhwl21kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c%2Bhwl21kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c%2Bhwl21kL._SL200_.jpg' ]
 comments: true
 category: ofertas

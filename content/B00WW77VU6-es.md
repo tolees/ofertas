@@ -3,6 +3,7 @@ layout: post
 title: '2TWO Handi  Vestido para Mujer  Negro  3 al 84.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xKnXPA%2B0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xKnXPA%2B0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xKnXPA%2B0L._SL200_.jpg' ]
 comments: true
 category: ofertas

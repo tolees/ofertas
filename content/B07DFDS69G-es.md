@@ -3,6 +3,7 @@ layout: post
 title: 'Funko – Disney Color Wreck-It-Ralph 2 Co al 37.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3140u5-grHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3140u5-grHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3140u5-grHL._SL200_.jpg' ]
 comments: true
 category: ofertas

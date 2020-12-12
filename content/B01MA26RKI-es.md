@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.05 % en Asmodee- Baaaaa! - Español  Color  BAA01'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XnWlccjML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XnWlccjML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XnWlccjML._SL200_.jpg' ]
 comments: true
 category: ofertas

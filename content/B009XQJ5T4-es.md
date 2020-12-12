@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.40 % en Princess 01.103020.01.403 - Table Grill '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416jDXoz2iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416jDXoz2iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416jDXoz2iL._SL200_.jpg' ]
 comments: true
 category: ofertas

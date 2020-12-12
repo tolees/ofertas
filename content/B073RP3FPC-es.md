@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Adventure 2.0 Alpine Chukka   al 55.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412b2jEOoWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412b2jEOoWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412b2jEOoWL._SL200_.jpg' ]
 comments: true
 category: ofertas

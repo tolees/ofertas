@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Go Run 600-Haddox  Zapatillas p al 44.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BNCxizML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BNCxizML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BNCxizML._SL200_.jpg' ]
 comments: true
 category: ofertas

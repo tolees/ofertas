@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.12 % en Skip Ultimate Triple Poder Cuidado del C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k1Vmy9uJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k1Vmy9uJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k1Vmy9uJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Atwood  Zapatillas para Niñas  Azul al 62.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419acT2Z93L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419acT2Z93L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419acT2Z93L._SL200_.jpg' ]
 comments: true
 category: ofertas

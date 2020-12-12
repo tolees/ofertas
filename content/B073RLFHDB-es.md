@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Cosmic 2  Zapatillas de Entrenami al 47.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518c3krUNKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518c3krUNKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518c3krUNKL._SL200_.jpg' ]
 comments: true
 category: ofertas

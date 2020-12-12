@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s N91005H  Camiseta para Niños  Azu al 39.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WK9kLbaaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WK9kLbaaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WK9kLbaaL._SL200_.jpg' ]
 comments: true
 category: ofertas

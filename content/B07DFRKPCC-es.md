@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ftblNXT Graphic Core Shirt  Hombre  al 74.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DcCVBG8KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DcCVBG8KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DcCVBG8KL._SL200_.jpg' ]
 comments: true
 category: ofertas

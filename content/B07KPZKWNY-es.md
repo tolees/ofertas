@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Zeke Destroyer Waist Pack  Homb al 30.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fllvfbSHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fllvfbSHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fllvfbSHL._SL200_.jpg' ]
 comments: true
 category: ofertas

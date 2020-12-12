@@ -3,6 +3,7 @@ layout: post
 title: 'Puma One Star Ball Balón de Fútbol  Unis al 33.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N8irTjpuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51N8irTjpuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N8irTjpuL._SL200_.jpg' ]
 comments: true
 category: ofertas

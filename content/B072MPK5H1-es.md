@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.90 % en Vikingos - Temporada 1 a 4 [Blu-ray]'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512vVryMiPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512vVryMiPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512vVryMiPL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'gracosy Sandalias Planas Verano Mujer Es al 59.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YFIx5A5lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YFIx5A5lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YFIx5A5lL._SL200_.jpg' ]
 comments: true
 category: ofertas

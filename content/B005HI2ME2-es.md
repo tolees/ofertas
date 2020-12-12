@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.21 % en Plantronics CS540/A - Auriculares con mi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XRXvEJg8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XRXvEJg8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XRXvEJg8L._SL200_.jpg' ]
 comments: true
 category: ofertas

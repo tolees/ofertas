@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Lightweight No-Show  Calcetines  Ho al 46.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BW%2BNcwtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BW%2BNcwtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BW%2BNcwtL._SL200_.jpg' ]
 comments: true
 category: ofertas

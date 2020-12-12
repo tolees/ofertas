@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.32 % en Venom - Edición Especial Figura  4K UHD '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LCh0RObFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LCh0RObFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LCh0RObFL._SL200_.jpg' ]
 comments: true
 category: ofertas

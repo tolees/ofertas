@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Windom  Botas para Mujer  Negro al 40.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w0dad8sjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w0dad8sjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w0dad8sjL._SL200_.jpg' ]
 comments: true
 category: ofertas

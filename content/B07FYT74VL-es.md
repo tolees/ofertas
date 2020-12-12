@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.30 % en Wrangler Kabel tee Camiseta  Azul  Turki'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zxXej1ALL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zxXej1ALL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zxXej1ALL._SL200_.jpg' ]
 comments: true
 category: ofertas

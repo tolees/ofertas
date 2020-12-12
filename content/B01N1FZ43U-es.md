@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.69 % en Puma Evostripe Spaceknit Pants Pantalone'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4192MFXeFUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4192MFXeFUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4192MFXeFUL._SL200_.jpg' ]
 comments: true
 category: ofertas

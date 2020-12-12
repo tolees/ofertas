@@ -3,6 +3,7 @@ layout: post
 title: 'Arlo Accesorio oficial - Kit de 3 Fundas al 30.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315fKcmrAzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315fKcmrAzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315fKcmrAzL._SL200_.jpg' ]
 comments: true
 category: ofertas

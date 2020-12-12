@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers 11936  Zapatillas para Mujer  B al 25.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415S7jJLKcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415S7jJLKcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415S7jJLKcL._SL200_.jpg' ]
 comments: true
 category: ofertas

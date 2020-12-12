@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Scuba Belted 6061870  Vestido p al 51.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311Qjcc5r7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311Qjcc5r7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311Qjcc5r7L._SL200_.jpg' ]
 comments: true
 category: ofertas

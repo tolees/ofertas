@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.35 % en edc by ESPRIT 027CC1B020  Pantalones Par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vwgt1W1nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vwgt1W1nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vwgt1W1nL._SL200_.jpg' ]
 comments: true
 category: ofertas

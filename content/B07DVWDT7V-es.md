@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Kalis Lite Se  Zapatillas de Sk al 68.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412L5xjlXgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412L5xjlXgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412L5xjlXgL._SL200_.jpg' ]
 comments: true
 category: ofertas

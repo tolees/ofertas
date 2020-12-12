@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Cl Lthr Ripple  Zapatillas de Gim al 71.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317b4UPiAxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317b4UPiAxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317b4UPiAxL._SL200_.jpg' ]
 comments: true
 category: ofertas

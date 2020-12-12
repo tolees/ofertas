@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.75 % en Phoenix Technologies PHGP102 - Funda  Fu'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

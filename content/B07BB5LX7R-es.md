@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face T0A3P7 Camiseta Easy  Hom al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4137IBRnsuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4137IBRnsuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4137IBRnsuL._SL200_.jpg' ]
 comments: true
 category: ofertas

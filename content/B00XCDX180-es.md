@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.00 % en Sades A60 Auriculares  7.1 USB  sonido e'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IkRhT2A8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IkRhT2A8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IkRhT2A8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO TEO 613 - T-Shirt S/S Camiseta  Niñ al 70.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518CTCgxUCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518CTCgxUCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518CTCgxUCL._SL200_.jpg' ]
 comments: true
 category: ofertas

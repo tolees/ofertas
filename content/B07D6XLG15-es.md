@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Always On Solid 3/4 Tight Pants  Mu al 48.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sK3kAqSiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sK3kAqSiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sK3kAqSiL._SL200_.jpg' ]
 comments: true
 category: ofertas

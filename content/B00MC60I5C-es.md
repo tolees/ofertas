@@ -3,6 +3,7 @@ layout: post
 title: 'deAO - Robot "Beast Ares" con Múltiples  al 65.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51na2I4guZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51na2I4guZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51na2I4guZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Gorra de béisbol unisex  Silver al 42.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RogD5HHcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RogD5HHcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RogD5HHcL._SL200_.jpg' ]
 comments: true
 category: ofertas

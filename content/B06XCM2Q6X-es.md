@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel 8880700  Vaquero para Mujer  A al 66.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A0gI7WvsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A0gI7WvsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A0gI7WvsL._SL200_.jpg' ]
 comments: true
 category: ofertas

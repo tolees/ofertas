@@ -3,6 +3,7 @@ layout: post
 title: 'Ozone Argon Ocelote World - Ratón Gaming al 55.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312miXnUX7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312miXnUX7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312miXnUX7L._SL200_.jpg' ]
 comments: true
 category: ofertas

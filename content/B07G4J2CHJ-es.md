@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Pike  Pantalones Cortos Hombre  Neg al 46.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lyHRC9x-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lyHRC9x-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lyHRC9x-L._SL200_.jpg' ]
 comments: true
 category: ofertas

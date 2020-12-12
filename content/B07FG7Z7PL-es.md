@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.08 % en Ipanema Anat Temas VIII Fem  Chanclas pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WFHeqAMIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WFHeqAMIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WFHeqAMIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Orange Label Neon tee Camiseta  al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31l9Frzo3eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31l9Frzo3eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31l9Frzo3eL._SL200_.jpg' ]
 comments: true
 category: ofertas

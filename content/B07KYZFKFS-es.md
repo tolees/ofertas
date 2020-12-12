@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 5.T.Ap.Pv19.Panadera FK Blus al 44.57 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

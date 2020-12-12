@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Elite Cargo Pantalón de Snowboard al 57.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31J9h64QIDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31J9h64QIDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31J9h64QIDL._SL200_.jpg' ]
 comments: true
 category: ofertas

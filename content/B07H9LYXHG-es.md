@@ -3,6 +3,7 @@ layout: post
 title: 'TRUTH & FABLE Jcm40478 Vestidos de Fiest al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318F0eODzqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318F0eODzqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318F0eODzqL._SL200_.jpg' ]
 comments: true
 category: ofertas

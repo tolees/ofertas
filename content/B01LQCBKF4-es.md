@@ -3,6 +3,7 @@ layout: post
 title: 'Buff Original  113264.555.10.00 Tubular  al 42.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51q-lgRTh2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51q-lgRTh2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51q-lgRTh2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.75 % en Tabac  Agua de perfume para mujeres - 29'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RPg7WE8DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RPg7WE8DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RPg7WE8DL._SL200_.jpg' ]
 comments: true
 category: ofertas

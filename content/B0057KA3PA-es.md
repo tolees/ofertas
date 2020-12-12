@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.69 % en Justin Bieber Someday Agua de Perfume - '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DWe5aAmoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DWe5aAmoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DWe5aAmoL._SL200_.jpg' ]
 comments: true
 category: ofertas

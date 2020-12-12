@@ -3,6 +3,7 @@ layout: post
 title: 'Juego de 11 bandas de resistencia para e al 77.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51E%2BIpjdcvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51E%2BIpjdcvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51E%2BIpjdcvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Roadstar CLR-2618 - Radio despertador MW al 60.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PO3a6qvqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PO3a6qvqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PO3a6qvqL._SL200_.jpg' ]
 comments: true
 category: ofertas

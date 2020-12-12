@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.29 % en X-TIGER Guantes Ciclismo MTB Dedo Medio '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YOrFf0XtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YOrFf0XtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YOrFf0XtL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.95 % en Innovadora Pala para Pizza de Aluminio. '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r%2BhOgZ3JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51r%2BhOgZ3JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r%2BhOgZ3JL._SL200_.jpg' ]
 comments: true
 category: ofertas

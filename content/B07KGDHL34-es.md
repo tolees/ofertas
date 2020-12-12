@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Mooneye Bañador  Azul  Navy 413   X al 25.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dv8CUeTAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dv8CUeTAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dv8CUeTAL._SL200_.jpg' ]
 comments: true
 category: ofertas

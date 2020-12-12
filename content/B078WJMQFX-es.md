@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.02 % en BILLABONG All Day X Print 18 Bañador  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zA8qP14GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zA8qP14GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zA8qP14GL._SL200_.jpg' ]
 comments: true
 category: ofertas

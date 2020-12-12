@@ -3,6 +3,7 @@ layout: post
 title: 'RFIVER Soporte Giratorio de Suelo para T al 65.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wLOUJz0kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wLOUJz0kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wLOUJz0kL._SL200_.jpg' ]
 comments: true
 category: ofertas

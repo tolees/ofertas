@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 029ee1d016  Falda Mujer  Azul  Na al 52.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-E7qsr3AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-E7qsr3AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-E7qsr3AL._SL200_.jpg' ]
 comments: true
 category: ofertas

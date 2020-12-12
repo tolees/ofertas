@@ -3,6 +3,7 @@ layout: post
 title: 'Acer ES1-132-C9NX - Ordenador Portátil d al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fMp2sR%2BbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fMp2sR%2BbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fMp2sR%2BbL._SL200_.jpg' ]
 comments: true
 category: ofertas

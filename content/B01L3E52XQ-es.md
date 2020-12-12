@@ -3,6 +3,7 @@ layout: post
 title: 'Geographical Norway Tansa Lady  Chaqueta al 77.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mH7y3%2B77L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mH7y3%2B77L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mH7y3%2B77L._SL200_.jpg' ]
 comments: true
 category: ofertas

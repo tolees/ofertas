@@ -3,6 +3,7 @@ layout: post
 title: 'Bombilla LED Esférica Casquillo E27  12W al 50.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dUS9wDUDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dUS9wDUDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dUS9wDUDL._SL200_.jpg' ]
 comments: true
 category: ofertas

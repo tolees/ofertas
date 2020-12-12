@@ -3,6 +3,7 @@ layout: post
 title: 'Invicta Reloj de Pulsera 29394 al 36.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hjIW14KAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hjIW14KAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hjIW14KAL._SL200_.jpg' ]
 comments: true
 category: ofertas

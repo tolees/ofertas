@@ -3,6 +3,7 @@ layout: post
 title: 'TGI TGI52U - Afinador digital con enganc al 54.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vAj5poSML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vAj5poSML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vAj5poSML._SL200_.jpg' ]
 comments: true
 category: ofertas

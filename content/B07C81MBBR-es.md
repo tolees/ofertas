@@ -3,6 +3,7 @@ layout: post
 title: 'Inside 6spgc06  Capucha Mujer  Marfil  O al 48.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GoA57t4uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GoA57t4uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GoA57t4uL._SL200_.jpg' ]
 comments: true
 category: ofertas

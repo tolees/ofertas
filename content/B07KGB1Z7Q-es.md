@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.66 % en BOSS Boxer Brief 2p Solid  Naranja  Dark'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eHTQZpPjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eHTQZpPjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eHTQZpPjL._SL200_.jpg' ]
 comments: true
 category: ofertas

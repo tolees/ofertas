@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.94 % en PIECES Pcmelga Velvet Jumpsuit FF  Mono '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XMkyYw7CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XMkyYw7CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XMkyYw7CL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Wilson Falda de tenis  W Team 12.5 Skirt al 33.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qS-WA73XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qS-WA73XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qS-WA73XL._SL200_.jpg' ]
 comments: true
 category: ofertas

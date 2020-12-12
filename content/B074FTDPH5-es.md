@@ -3,6 +3,7 @@ layout: post
 title: 'Pioneer Rayz - Auriculares con Cable Lig al 74.65 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

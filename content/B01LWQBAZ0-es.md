@@ -3,6 +3,7 @@ layout: post
 title: 'Betty & Co 0150/0837  Vestido Casual par al 74.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n-sml4ynL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n-sml4ynL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n-sml4ynL._SL200_.jpg' ]
 comments: true
 category: ofertas

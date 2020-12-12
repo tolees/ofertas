@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.94 % en G-STAR RAW Revend Vaqueros skinny para H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qAZ7CFGqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qAZ7CFGqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qAZ7CFGqL._SL200_.jpg' ]
 comments: true
 category: ofertas

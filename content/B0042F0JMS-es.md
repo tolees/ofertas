@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.47 % en APC Back-UPS PRO 900VA - BR900GI - Siste'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o39Q0lygL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o39Q0lygL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o39Q0lygL._SL200_.jpg' ]
 comments: true
 category: ofertas

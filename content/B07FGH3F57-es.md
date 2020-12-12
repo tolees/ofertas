@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Trase TX  Zapatillas de Skatebo al 66.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L%2BvWkqJPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L%2BvWkqJPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L%2BvWkqJPL._SL200_.jpg' ]
 comments: true
 category: ofertas

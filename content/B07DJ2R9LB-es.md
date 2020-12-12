@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.08 % en Geox U Kennet B  Zapatillas para Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310x5Eii-oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310x5Eii-oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310x5Eii-oL._SL200_.jpg' ]
 comments: true
 category: ofertas

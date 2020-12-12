@@ -3,6 +3,7 @@ layout: post
 title: 'Dodot Sensitive - Pañales Talla 3  56 Pa al 26.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LaFCTgDuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LaFCTgDuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LaFCTgDuL._SL200_.jpg' ]
 comments: true
 category: ofertas

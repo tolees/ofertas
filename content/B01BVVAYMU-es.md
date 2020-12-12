@@ -3,6 +3,7 @@ layout: post
 title: 'Bed Head by TIGI Champú ReEnergize 750 m al 65.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418wVmOzF1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418wVmOzF1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418wVmOzF1L._SL200_.jpg' ]
 comments: true
 category: ofertas

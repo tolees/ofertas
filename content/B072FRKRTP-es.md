@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.45 % en JACK & JONES 12134002 Bóxer   Black Deta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QtW1MKpOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QtW1MKpOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QtW1MKpOL._SL200_.jpg' ]
 comments: true
 category: ofertas

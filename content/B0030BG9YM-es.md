@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.17 % en Coleman Saco de Dormir  Schlafsack Hampt'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bUqu7X4WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bUqu7X4WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bUqu7X4WL._SL200_.jpg' ]
 comments: true
 category: ofertas

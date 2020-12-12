@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR arc 3d slim - hydrite denim - Vaq al 54.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdtqxIMdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdtqxIMdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZdtqxIMdL._SL200_.jpg' ]
 comments: true
 category: ofertas

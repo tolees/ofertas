@@ -3,6 +3,7 @@ layout: post
 title: 'Chopard Brilliant Wish Agua de perfume s al 51.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JKstFZGML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JKstFZGML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JKstFZGML._SL200_.jpg' ]
 comments: true
 category: ofertas

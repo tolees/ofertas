@@ -3,6 +3,7 @@ layout: post
 title: 'Ferrari 0830261 - Reloj analógico de pul al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MxrYfl45L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MxrYfl45L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MxrYfl45L._SL200_.jpg' ]
 comments: true
 category: ofertas

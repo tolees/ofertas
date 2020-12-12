@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.14 % en Urban Classics Chaqueta Gris L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e5tbsEdTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51e5tbsEdTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e5tbsEdTL._SL200_.jpg' ]
 comments: true
 category: ofertas

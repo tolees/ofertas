@@ -3,6 +3,7 @@ layout: post
 title: 'StillCool Saco de dormir fácil de llevar al 27.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oHk44NWIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oHk44NWIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oHk44NWIL._SL200_.jpg' ]
 comments: true
 category: ofertas

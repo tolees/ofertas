@@ -3,6 +3,7 @@ layout: post
 title: 'Lamaze - Jacques el pavo real juega y cr al 39.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BN2oaoNoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BN2oaoNoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BN2oaoNoL._SL200_.jpg' ]
 comments: true
 category: ofertas

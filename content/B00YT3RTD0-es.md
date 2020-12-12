@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.94 % en Targarian Conjunto de Collar y Pendiente'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513OIC7%2BK6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513OIC7%2BK6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513OIC7%2BK6L._SL200_.jpg' ]
 comments: true
 category: ofertas

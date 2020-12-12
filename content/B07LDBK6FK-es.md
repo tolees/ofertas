@@ -3,6 +3,7 @@ layout: post
 title: 'Baoblaze 2pcs Bocina de Bicicleta Recta  al 44.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eji78H1KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eji78H1KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eji78H1KL._SL200_.jpg' ]
 comments: true
 category: ofertas

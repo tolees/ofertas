@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Wardor Sudadera sin Capucha  Azul   al 55.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OMmCdS5CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OMmCdS5CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OMmCdS5CL._SL200_.jpg' ]
 comments: true
 category: ofertas

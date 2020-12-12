@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.52 % en Cortefiel Zaino Rosso'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LR095Uo9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LR095Uo9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LR095Uo9L._SL200_.jpg' ]
 comments: true
 category: ofertas

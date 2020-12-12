@@ -3,6 +3,7 @@ layout: post
 title: 'Maslighting Flexo LED al 75.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/215cS3E0ITL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/215cS3E0ITL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/215cS3E0ITL._SL200_.jpg' ]
 comments: true
 category: ofertas

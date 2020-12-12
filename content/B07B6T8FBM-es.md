@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.84 % en Burton Jet Set Chaqueta de Snowboard  Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wnaECgijL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wnaECgijL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wnaECgijL._SL200_.jpg' ]
 comments: true
 category: ofertas

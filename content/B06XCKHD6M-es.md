@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.88 % en Springfield Top Blanco S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pkpZU1RRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pkpZU1RRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pkpZU1RRL._SL200_.jpg' ]
 comments: true
 category: ofertas

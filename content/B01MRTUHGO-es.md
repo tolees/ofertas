@@ -3,6 +3,7 @@ layout: post
 title: 'Skagen Brazalete Mujer acero inoxidable  al 34.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PZSwVq-KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PZSwVq-KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PZSwVq-KL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Silverline WR50 Llave Inglesa Ajustable  al 33.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B%2BH2IpcwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31B%2BH2IpcwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B%2BH2IpcwL._SL200_.jpg' ]
 comments: true
 category: ofertas

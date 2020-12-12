@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.56 % en Toallas de lujo de 6 piezas blanco - 2 t'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415Vm18PZ3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415Vm18PZ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415Vm18PZ3L._SL200_.jpg' ]
 comments: true
 category: ofertas

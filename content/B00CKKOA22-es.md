@@ -3,6 +3,7 @@ layout: post
 title: 'SportPlus Banco de Sentadillas – Banco P al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N4f%2Bin78L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41N4f%2Bin78L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N4f%2Bin78L._SL200_.jpg' ]
 comments: true
 category: ofertas

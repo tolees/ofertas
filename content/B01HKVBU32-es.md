@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.35 % en Colchoncillo de 7 62 cm para colchón  ig'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21cMj7K-zRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21cMj7K-zRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21cMj7K-zRL._SL200_.jpg' ]
 comments: true
 category: ofertas

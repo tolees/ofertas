@@ -3,6 +3,7 @@ layout: post
 title: 'ZADIG&VOLTAIRE Robe Vestido   Bleu ROI 8 al 81.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kkw1Cy75L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kkw1Cy75L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kkw1Cy75L._SL200_.jpg' ]
 comments: true
 category: ofertas

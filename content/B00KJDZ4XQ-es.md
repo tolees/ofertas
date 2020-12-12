@@ -3,6 +3,7 @@ layout: post
 title: 'Suarez Hashtag A7 Zapatero 2 baldas  mel al 43.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5155%2Bxc2FwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5155%2Bxc2FwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5155%2Bxc2FwL._SL200_.jpg' ]
 comments: true
 category: ofertas

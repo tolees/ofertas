@@ -3,6 +3,7 @@ layout: post
 title: 'StarTech.com UUSBHAUB1 - Cable Adaptador al 33.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BzjhUJajL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BzjhUJajL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BzjhUJajL._SL200_.jpg' ]
 comments: true
 category: ofertas

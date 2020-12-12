@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.19 % en Cortefiel C6K Estruc Nat-Strch S-Ca Cami'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

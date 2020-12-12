@@ -3,6 +3,7 @@ layout: post
 title: 'Inside 6sves21&  Vestido para Mujer  Neg al 43.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NGzno41FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NGzno41FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NGzno41FL._SL200_.jpg' ]
 comments: true
 category: ofertas

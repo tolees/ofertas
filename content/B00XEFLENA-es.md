@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.37 % en Hyperkin - Consola Retron 3  Color Azul '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rjhqFm33L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rjhqFm33L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rjhqFm33L._SL200_.jpg' ]
 comments: true
 category: ofertas

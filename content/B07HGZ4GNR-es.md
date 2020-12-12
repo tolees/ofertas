@@ -3,6 +3,7 @@ layout: post
 title: 'AEVOBAS Molinillo de Café Eléctrico  Mol al 30.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c-VJTcINL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c-VJTcINL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c-VJTcINL._SL200_.jpg' ]
 comments: true
 category: ofertas

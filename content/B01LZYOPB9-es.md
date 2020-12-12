@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 106cc1k016  Camiseta Mujer al 84.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t6TSCsbaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t6TSCsbaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t6TSCsbaL._SL200_.jpg' ]
 comments: true
 category: ofertas

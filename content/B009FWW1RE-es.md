@@ -3,6 +3,7 @@ layout: post
 title: 'Ciroc Coconut Vodka - 700 ml al 30.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JoRvBSZyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JoRvBSZyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JoRvBSZyL._SL200_.jpg' ]
 comments: true
 category: ofertas

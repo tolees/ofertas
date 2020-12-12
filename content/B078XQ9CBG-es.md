@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.20 % en Bovon - Soporte Móvil Multiángulo  Ajust'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xQTNctmGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xQTNctmGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xQTNctmGL._SL200_.jpg' ]
 comments: true
 category: ofertas

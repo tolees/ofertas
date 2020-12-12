@@ -3,6 +3,7 @@ layout: post
 title: 'Gafas VR  HAMSWAN Gafas de Realidad Virt al 47.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZoVMDPVtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZoVMDPVtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZoVMDPVtL._SL200_.jpg' ]
 comments: true
 category: ofertas

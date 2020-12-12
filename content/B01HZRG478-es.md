@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Monitores 276E7QDAB/00 - Monitor al 40.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5192EvbI5dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5192EvbI5dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5192EvbI5dL._SL200_.jpg' ]
 comments: true
 category: ofertas

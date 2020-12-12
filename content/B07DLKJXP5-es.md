@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.53 % en Women secret Da-Big Navy Vty Neceser de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kMVkLjzjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kMVkLjzjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kMVkLjzjL._SL200_.jpg' ]
 comments: true
 category: ofertas

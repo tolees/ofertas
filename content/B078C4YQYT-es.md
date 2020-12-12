@@ -3,6 +3,7 @@ layout: post
 title: 'UDIRC Drone VR con Cámara Profesional 72 al 53.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514MF9z3jsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514MF9z3jsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514MF9z3jsL._SL200_.jpg' ]
 comments: true
 category: ofertas

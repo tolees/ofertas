@@ -3,6 +3,7 @@ layout: post
 title: 'Homyl 1 Pieza de Sombrero Gorra de Algod al 44.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ECLZ-IMeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ECLZ-IMeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ECLZ-IMeL._SL200_.jpg' ]
 comments: true
 category: ofertas

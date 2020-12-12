@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Prestyn B  Zapatos de Vestir para al 72.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MtD4TJRhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MtD4TJRhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MtD4TJRhL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Ziane Sneaker 119 3 Cfa  Zapatil al 59.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31b29SZ9eCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31b29SZ9eCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31b29SZ9eCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.11 % en Vodka crystal head 70cl 40º'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AwxjeKTpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AwxjeKTpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AwxjeKTpL._SL200_.jpg' ]
 comments: true
 category: ofertas

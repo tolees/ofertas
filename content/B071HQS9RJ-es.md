@@ -3,6 +3,7 @@ layout: post
 title: 'Taurus DH101 Deshumificador de aire por  al 40.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dyfRr%2BW1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dyfRr%2BW1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dyfRr%2BW1L._SL200_.jpg' ]
 comments: true
 category: ofertas

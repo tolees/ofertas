@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.48 % en Dockers by Gerli 43ha303  Botas Chukka p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41el9o7b0ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41el9o7b0ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41el9o7b0ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

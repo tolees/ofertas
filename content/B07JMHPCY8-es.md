@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.79 % en XTI 32055  Zapatos con Tira de Tobillo p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K-62vA3UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K-62vA3UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K-62vA3UL._SL200_.jpg' ]
 comments: true
 category: ofertas

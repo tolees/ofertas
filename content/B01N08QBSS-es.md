@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.47 % en Grenade Carb Killa RTD Chocolate Mint - '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61PpKyNTeuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61PpKyNTeuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61PpKyNTeuL._SL200_.jpg' ]
 comments: true
 category: ofertas

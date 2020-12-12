@@ -3,6 +3,7 @@ layout: post
 title: 'Explore Scientific al 43.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GKLrtXbzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GKLrtXbzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GKLrtXbzL._SL200_.jpg' ]
 comments: true
 category: ofertas

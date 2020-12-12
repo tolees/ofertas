@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.22 % en Gre Y28 - Piscina infantil tubular Ø 160'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

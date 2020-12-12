@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.13 % en Kenwood Blend X-Pro Batidora  30.000 RPM'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PhGrrQArL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PhGrrQArL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PhGrrQArL._SL200_.jpg' ]
 comments: true
 category: ofertas

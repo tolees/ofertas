@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.42 % en Springfield 1753851 Vaqueros Slim  Gama '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418xiuGNZ8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418xiuGNZ8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418xiuGNZ8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2750-macramew  Zapatillas de Gim al 51.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TaT7-0VBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TaT7-0VBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TaT7-0VBL._SL200_.jpg' ]
 comments: true
 category: ofertas

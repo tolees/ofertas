@@ -3,6 +3,7 @@ layout: post
 title: 'Doact Corrector de Postura - Ajustable S al 65.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wiPkjlIsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wiPkjlIsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wiPkjlIsL._SL200_.jpg' ]
 comments: true
 category: ofertas

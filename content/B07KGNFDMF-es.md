@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Schino-Slim Pantalones  Azul  Dark  al 27.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3155EHfXVaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3155EHfXVaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3155EHfXVaL._SL200_.jpg' ]
 comments: true
 category: ofertas

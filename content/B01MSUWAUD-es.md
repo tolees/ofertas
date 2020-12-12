@@ -3,6 +3,7 @@ layout: post
 title: 'Cecotec 04046  Power Titanium - Batidora al 27.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A2jB1u1iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A2jB1u1iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A2jB1u1iL._SL200_.jpg' ]
 comments: true
 category: ofertas

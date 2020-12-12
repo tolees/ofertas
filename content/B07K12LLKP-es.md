@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Copa 19.4 FG  Zapatillas de Fútbo al 41.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qMR1VowHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qMR1VowHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qMR1VowHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Cartera de Mano para Mujer Bolso de Fies al 33.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-u4quxYHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-u4quxYHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-u4quxYHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.33 % en Victorio & Lucchino Agua Rocio de Tocado'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314uyICNLwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314uyICNLwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314uyICNLwL._SL200_.jpg' ]
 comments: true
 category: ofertas

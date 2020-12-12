@@ -3,6 +3,7 @@ layout: post
 title: 'Iris & Lilly Mallas Deportivas por Media al 56.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41avdWXpyfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41avdWXpyfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41avdWXpyfL._SL200_.jpg' ]
 comments: true
 category: ofertas

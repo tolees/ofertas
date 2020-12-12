@@ -3,6 +3,7 @@ layout: post
 title: 'Grabadora voz digital ELEGIANTE 1536Kbps al 56.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E3L22FZXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E3L22FZXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E3L22FZXL._SL200_.jpg' ]
 comments: true
 category: ofertas

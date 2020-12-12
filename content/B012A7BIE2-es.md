@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.36 % en DKNY Intimates Modern Lights-Mesh Litewe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WnsGT7twL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WnsGT7twL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WnsGT7twL._SL200_.jpg' ]
 comments: true
 category: ofertas

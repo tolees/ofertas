@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.30 % en Invicta Reloj de Pulsera 22062'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IcvBiL%2BAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IcvBiL%2BAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IcvBiL%2BAL._SL200_.jpg' ]
 comments: true
 category: ofertas

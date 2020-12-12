@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.43 % en UZOPI Receptor Transmisor Bluetooth 5.0 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pSBBhST7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pSBBhST7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pSBBhST7L._SL200_.jpg' ]
 comments: true
 category: ofertas

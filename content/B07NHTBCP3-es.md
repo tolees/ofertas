@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcobooster Sweat Hood March al 55.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o7k3wn%2BoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o7k3wn%2BoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o7k3wn%2BoL._SL200_.jpg' ]
 comments: true
 category: ofertas

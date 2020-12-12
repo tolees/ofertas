@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.76 % en The North Face Equipment TNF Bolsa con t'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BgM4Fh7jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BgM4Fh7jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BgM4Fh7jL._SL200_.jpg' ]
 comments: true
 category: ofertas

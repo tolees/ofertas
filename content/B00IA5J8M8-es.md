@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.98 % en Ubiquiti Networks Edge - Router  10 100 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MhTRv9AML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MhTRv9AML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MhTRv9AML._SL200_.jpg' ]
 comments: true
 category: ofertas

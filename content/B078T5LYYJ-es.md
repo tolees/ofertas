@@ -3,6 +3,7 @@ layout: post
 title: 'Munich Gresca 08  Zapatillas de Deporte  al 51.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jgAg4AC%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jgAg4AC%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jgAg4AC%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

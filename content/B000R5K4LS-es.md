@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.56 % en Bosch Home and Garden 2 605 510 224 Bosc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nebi6p-JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nebi6p-JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nebi6p-JL._SL200_.jpg' ]
 comments: true
 category: ofertas

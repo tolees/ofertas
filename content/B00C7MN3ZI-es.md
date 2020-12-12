@@ -3,6 +3,7 @@ layout: post
 title: 'Monkey Donkey Fehn - Móvil de cuna music al 27.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jvXTeO9fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jvXTeO9fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jvXTeO9fL._SL200_.jpg' ]
 comments: true
 category: ofertas

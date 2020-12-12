@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.58 % en Fendi FF 0125/S LL X6H  Gafas de sol par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31J5ZD8MC6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31J5ZD8MC6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31J5ZD8MC6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling Mini Backpack  Mochila para Muje al 38.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NnfYHBukL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NnfYHBukL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NnfYHBukL._SL200_.jpg' ]
 comments: true
 category: ofertas

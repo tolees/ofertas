@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Un Adorn Strap  Mocasines para Mu al 68.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iH6d1P0dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iH6d1P0dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iH6d1P0dL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Nk Brsla Gmsk Bolsa de Cuerdas  Hom al 32.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RIc%2B4O%2BYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RIc%2B4O%2BYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RIc%2B4O%2BYL._SL200_.jpg' ]
 comments: true
 category: ofertas

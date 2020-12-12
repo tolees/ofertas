@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.89 % en Superga 2754 COTU - Zapatillas Unisex  N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vYNLMrPlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vYNLMrPlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vYNLMrPlL._SL200_.jpg' ]
 comments: true
 category: ofertas

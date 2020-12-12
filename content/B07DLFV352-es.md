@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Wo Oxford Polera Camisa Casu al 49.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31t%2B7BgTjLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31t%2B7BgTjLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31t%2B7BgTjLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.53 % en Puma Vikky v2 Ribbon Core  Zapatillas pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qDqw%2Btc3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qDqw%2Btc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qDqw%2Btc3L._SL200_.jpg' ]
 comments: true
 category: ofertas

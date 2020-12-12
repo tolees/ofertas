@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Suede Heart Pebble Wn s  Zapatillas al 69.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v61bDGLxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v61bDGLxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v61bDGLxL._SL200_.jpg' ]
 comments: true
 category: ofertas

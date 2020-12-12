@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.63 % en SHOLOV Sujetador Deportivo para Mujeres '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c-TALmzzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51c-TALmzzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c-TALmzzL._SL200_.jpg' ]
 comments: true
 category: ofertas

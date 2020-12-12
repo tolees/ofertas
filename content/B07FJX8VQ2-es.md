@@ -3,6 +3,7 @@ layout: post
 title: 'Gioseppo 46292-P  Botas de Agua para Muj al 58.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415efZ5AnVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415efZ5AnVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415efZ5AnVL._SL200_.jpg' ]
 comments: true
 category: ofertas

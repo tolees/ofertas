@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Core Corporate Seasonal S al 51.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VlGbjbUsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VlGbjbUsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VlGbjbUsL._SL200_.jpg' ]
 comments: true
 category: ofertas

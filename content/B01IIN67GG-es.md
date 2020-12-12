@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Twin Pack Crew  Camiseta para Hombre al 49.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kd4nV5nVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kd4nV5nVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kd4nV5nVL._SL200_.jpg' ]
 comments: true
 category: ofertas

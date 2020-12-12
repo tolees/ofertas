@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.91 % en LucaSng lámina protectora del espejo ret'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y83IZlwAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51y83IZlwAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y83IZlwAL._SL200_.jpg' ]
 comments: true
 category: ofertas

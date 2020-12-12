@@ -3,6 +3,7 @@ layout: post
 title: 'Softline 22360-21  Zapatos de Tacón para al 49.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jIZ4v0NpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jIZ4v0NpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jIZ4v0NpL._SL200_.jpg' ]
 comments: true
 category: ofertas

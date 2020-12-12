@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Casio para Hombre MRW-200HC-7BVEF al 37.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515Wy2rjG3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515Wy2rjG3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515Wy2rjG3L._SL200_.jpg' ]
 comments: true
 category: ofertas

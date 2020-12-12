@@ -3,6 +3,7 @@ layout: post
 title: 'Junior Joy 6149PI - Hoja de franela para al 65.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qp7qac3IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qp7qac3IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qp7qac3IL._SL200_.jpg' ]
 comments: true
 category: ofertas

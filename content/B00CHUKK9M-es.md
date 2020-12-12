@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.51 % en caseable - Funda para Kindle y Kindle Pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D-5ZgcvxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51D-5ZgcvxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D-5ZgcvxL._SL200_.jpg' ]
 comments: true
 category: ofertas

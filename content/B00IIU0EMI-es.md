@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.98 % en SHISEIDO SENSCIENCE volume boost styling'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Tyf-rogDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Tyf-rogDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Tyf-rogDL._SL200_.jpg' ]
 comments: true
 category: ofertas

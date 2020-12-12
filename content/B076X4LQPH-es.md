@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Damocle A  Zapatos de Cordones De al 71.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FdA8-lplL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FdA8-lplL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FdA8-lplL._SL200_.jpg' ]
 comments: true
 category: ofertas

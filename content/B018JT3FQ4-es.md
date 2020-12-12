@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 200Sf Boxer Brief 2P  Hombre  Gri al 44.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419mi8LGVzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419mi8LGVzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419mi8LGVzL._SL200_.jpg' ]
 comments: true
 category: ofertas

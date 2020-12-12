@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual Shoes_Swan Tigers  Sandalias co al 58.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5174WZfNDUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5174WZfNDUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5174WZfNDUL._SL200_.jpg' ]
 comments: true
 category: ofertas

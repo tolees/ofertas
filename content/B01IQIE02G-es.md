@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.78 % en Osprey Tempest 30 Women s Hiking Pack - '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EfKFhSlsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EfKFhSlsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EfKFhSlsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW New Classic Regular R T S/s   al 41.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JNtWb78fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JNtWb78fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JNtWb78fL._SL200_.jpg' ]
 comments: true
 category: ofertas

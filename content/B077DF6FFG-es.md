@@ -3,6 +3,7 @@ layout: post
 title: 'SD toys Set de Mini Tazas Café Diseño St al 59.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gqg2wGwCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gqg2wGwCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gqg2wGwCL._SL200_.jpg' ]
 comments: true
 category: ofertas

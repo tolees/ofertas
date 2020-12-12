@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.74 % en UMI. Single Resistance Band  Exercise Tu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zE2eN6oPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zE2eN6oPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zE2eN6oPL._SL200_.jpg' ]
 comments: true
 category: ofertas

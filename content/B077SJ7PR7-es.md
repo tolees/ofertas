@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Drirelease Graphic tee Camiseta  Ho al 53.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xJuu0wV6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xJuu0wV6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xJuu0wV6L._SL200_.jpg' ]
 comments: true
 category: ofertas

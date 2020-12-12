@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.85 % en Armani Exchange Good Vibes Loose Fit Sco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414XSWXra8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414XSWXra8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414XSWXra8L._SL200_.jpg' ]
 comments: true
 category: ofertas

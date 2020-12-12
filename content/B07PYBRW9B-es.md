@@ -3,6 +3,7 @@ layout: post
 title: 'Moma Bikes Top Class 2 Bicicleta  Adulto al 45.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412Qu-dFFgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412Qu-dFFgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412Qu-dFFgL._SL200_.jpg' ]
 comments: true
 category: ofertas

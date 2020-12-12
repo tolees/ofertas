@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Galaxy A8 - Smartphone de 5.6"   al 31.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L26Zt%2BbSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31L26Zt%2BbSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L26Zt%2BbSL._SL200_.jpg' ]
 comments: true
 category: ofertas

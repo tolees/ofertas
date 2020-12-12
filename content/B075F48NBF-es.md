@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.85 % en MonTrüe Cojines para sillas | Cojin Ergo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QxogL4MTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QxogL4MTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QxogL4MTL._SL200_.jpg' ]
 comments: true
 category: ofertas

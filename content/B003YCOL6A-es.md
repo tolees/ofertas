@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.16 % en Bosch 0.603.205.100 Cortadora universal '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ckQ3duweL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ckQ3duweL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ckQ3duweL._SL200_.jpg' ]
 comments: true
 category: ofertas

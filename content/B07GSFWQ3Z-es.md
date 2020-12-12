@@ -3,6 +3,7 @@ layout: post
 title: 'NIVEA Aceite en Loción Rosa & Aceite de  al 42.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31E7JVvrYHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31E7JVvrYHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31E7JVvrYHL._SL200_.jpg' ]
 comments: true
 category: ofertas

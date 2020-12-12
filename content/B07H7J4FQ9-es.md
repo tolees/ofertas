@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.05 % en Hush Puppies Runner MOCC Lace  Mocasines'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311zgdnPD3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311zgdnPD3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311zgdnPD3L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Asus VK278Q - Monitor de 27"  con tecnol al 42.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i4HsRcRNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i4HsRcRNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i4HsRcRNL._SL200_.jpg' ]
 comments: true
 category: ofertas

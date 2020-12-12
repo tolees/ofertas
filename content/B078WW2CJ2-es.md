@@ -3,6 +3,7 @@ layout: post
 title: 'Munich One Indoor  Zapatillas de Deporte al 42.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nVqDY9fcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nVqDY9fcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nVqDY9fcL._SL200_.jpg' ]
 comments: true
 category: ofertas

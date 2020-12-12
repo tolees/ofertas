@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Challenger II Training Pant al 47.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nNjG8WChL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nNjG8WChL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nNjG8WChL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED FEMME SFDYNELLA LS SHIRT  Blusa al 84.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XTHAyDgpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XTHAyDgpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XTHAyDgpL._SL200_.jpg' ]
 comments: true
 category: ofertas

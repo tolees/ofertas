@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Nemeziz 18.1 FG  Botas de fútbol  al 63.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31esZfPv2kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31esZfPv2kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31esZfPv2kL._SL200_.jpg' ]
 comments: true
 category: ofertas

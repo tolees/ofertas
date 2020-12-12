@@ -3,6 +3,7 @@ layout: post
 title: 'smartect Protector de Pantalla para Moto al 33.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kk5DYpCuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kk5DYpCuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kk5DYpCuL._SL200_.jpg' ]
 comments: true
 category: ofertas

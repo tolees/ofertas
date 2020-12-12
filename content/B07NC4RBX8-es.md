@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Legend 7 Academy Fg Zapatillas de F al 58.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31USNm77MGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31USNm77MGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31USNm77MGL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SALOVES Ropa para Mascotas Perros Imperm al 36.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317Stz4ppZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317Stz4ppZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317Stz4ppZL._SL200_.jpg' ]
 comments: true
 category: ofertas

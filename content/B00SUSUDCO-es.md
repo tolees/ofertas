@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.49 % en POP! Bobble - Marvel: Avengers AOU: Hulk'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NgG67iM4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NgG67iM4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NgG67iM4L._SL200_.jpg' ]
 comments: true
 category: ofertas

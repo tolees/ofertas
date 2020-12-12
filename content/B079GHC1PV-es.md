@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Garibaldi V3  Botas de Niev al 47.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412a1sWBByL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412a1sWBByL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412a1sWBByL._SL200_.jpg' ]
 comments: true
 category: ofertas

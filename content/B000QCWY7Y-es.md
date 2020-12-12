@@ -3,6 +3,7 @@ layout: post
 title: 'Bahco 4211-14-6T - Serruchos P/Podar 14 al 72.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YVfq5kXYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YVfq5kXYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YVfq5kXYL._SL200_.jpg' ]
 comments: true
 category: ofertas

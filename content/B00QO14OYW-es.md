@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Giorgio 0AR6017TK 30848E 54 Gafas al 71.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3176LT4Zr4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3176LT4Zr4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3176LT4Zr4L._SL200_.jpg' ]
 comments: true
 category: ofertas

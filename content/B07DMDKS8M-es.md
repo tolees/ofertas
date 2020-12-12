@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.35 % en Emporio Armani Underwear 9p715 Bañador  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1LKj2pAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1LKj2pAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y1LKj2pAL._SL200_.jpg' ]
 comments: true
 category: ofertas

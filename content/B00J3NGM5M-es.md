@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Zapatillas MD Runner 2 Black  Depor al 52.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YNC3var8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YNC3var8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YNC3var8L._SL200_.jpg' ]
 comments: true
 category: ofertas

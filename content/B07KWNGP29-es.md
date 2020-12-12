@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.82 % en New Look Snap Through Shacket5896197  Ch'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N7CpVB-oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41N7CpVB-oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N7CpVB-oL._SL200_.jpg' ]
 comments: true
 category: ofertas

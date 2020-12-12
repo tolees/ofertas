@@ -3,6 +3,7 @@ layout: post
 title: 'L Oreal Paris Make-up Designer Pintalabi al 57.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FR%2B9vFxRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FR%2B9vFxRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FR%2B9vFxRL._SL200_.jpg' ]
 comments: true
 category: ofertas

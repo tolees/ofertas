@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 097ee1b022  Pantalones Mujer  Azu al 60.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414yhAOUu1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414yhAOUu1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414yhAOUu1L._SL200_.jpg' ]
 comments: true
 category: ofertas

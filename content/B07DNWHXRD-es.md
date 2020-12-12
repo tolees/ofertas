@@ -3,6 +3,7 @@ layout: post
 title: 'Dim Slip 100% Coton 3+1  Braguita para H al 31.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eTKxw248L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eTKxw248L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eTKxw248L._SL200_.jpg' ]
 comments: true
 category: ofertas

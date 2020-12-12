@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.03 % en oodji Ultra Hombre Polo de Algodón con B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516sFFIk79L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516sFFIk79L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516sFFIk79L._SL200_.jpg' ]
 comments: true
 category: ofertas

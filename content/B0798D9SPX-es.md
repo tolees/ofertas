@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.77 % en Kelme Charles  Zapatillas Unisex Adulto '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OalCYD%2B5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OalCYD%2B5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OalCYD%2B5L._SL200_.jpg' ]
 comments: true
 category: ofertas

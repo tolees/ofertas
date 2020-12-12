@@ -3,6 +3,7 @@ layout: post
 title: 'Women s Secret D1 Indigo Sello PJ FR Con al 53.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gm%2BY%2BPAHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gm%2BY%2BPAHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gm%2BY%2BPAHL._SL200_.jpg' ]
 comments: true
 category: ofertas

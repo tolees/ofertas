@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 91.62 % en Roblue Silla Plegable Exterior Taburete '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418kJddQe5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418kJddQe5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418kJddQe5L._SL200_.jpg' ]
 comments: true
 category: ofertas

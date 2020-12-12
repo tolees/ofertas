@@ -3,6 +3,7 @@ layout: post
 title: 'Caterpillar Colorado  Botas para Hombre  al 46.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517si4FbKYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517si4FbKYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517si4FbKYL._SL200_.jpg' ]
 comments: true
 category: ofertas

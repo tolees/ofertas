@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.72 % en JACK & JONES Jjisunset Swim Shorts AKM N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gd2DHEv6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gd2DHEv6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gd2DHEv6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3 Pack Woven Palm Bóxer  Hom al 70.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RCE6n6SXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RCE6n6SXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RCE6n6SXL._SL200_.jpg' ]
 comments: true
 category: ofertas

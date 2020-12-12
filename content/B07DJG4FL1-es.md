@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.45 % en Dockers by Gerli 39cl013  Botas Mocasine'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L8KY0nCAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L8KY0nCAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L8KY0nCAL._SL200_.jpg' ]
 comments: true
 category: ofertas

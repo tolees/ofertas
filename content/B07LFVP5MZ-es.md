@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.87 % en Limpiador de Poros NaCot Eliminador de p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4105aDewX1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4105aDewX1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4105aDewX1L._SL200_.jpg' ]
 comments: true
 category: ofertas

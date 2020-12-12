@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.46 % en Michael Kors Irving Lace Up  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rclkNb-eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rclkNb-eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rclkNb-eL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Rizador eléctrico profesional IYUTtech p al 74.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Yt2s5hjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418Yt2s5hjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Yt2s5hjL._SL200_.jpg' ]
 comments: true
 category: ofertas

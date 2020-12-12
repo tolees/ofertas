@@ -3,6 +3,7 @@ layout: post
 title: 'AFBEST Purificador de Aire con filtros H al 46.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51glKvAM9OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51glKvAM9OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51glKvAM9OL._SL200_.jpg' ]
 comments: true
 category: ofertas

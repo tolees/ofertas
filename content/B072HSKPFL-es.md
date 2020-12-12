@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.64 % en Gel-a-Peel - Set estación de diseño  Cif'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61La6G8UeSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61La6G8UeSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61La6G8UeSL._SL200_.jpg' ]
 comments: true
 category: ofertas

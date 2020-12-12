@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Bad Eau de toilette 125ml al 36.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ef12IDAxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ef12IDAxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ef12IDAxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.17 % en Apple Funda Leather Case  para el iPhone'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315y9oUicHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315y9oUicHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315y9oUicHL._SL200_.jpg' ]
 comments: true
 category: ofertas

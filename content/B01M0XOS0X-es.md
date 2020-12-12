@@ -3,6 +3,7 @@ layout: post
 title: 'American Tourister City Drift Bolsa Port al 39.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yG3HZ%2BkTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yG3HZ%2BkTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yG3HZ%2BkTL._SL200_.jpg' ]
 comments: true
 category: ofertas

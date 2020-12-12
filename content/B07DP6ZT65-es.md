@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.08 % en Eastpak Provider Mochila Infantil  44 cm'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TCabKZv1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TCabKZv1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TCabKZv1L._SL200_.jpg' ]
 comments: true
 category: ofertas

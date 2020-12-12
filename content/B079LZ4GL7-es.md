@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.55 % en American Tourister - Soundbox Spinner 67'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rR-OLTqvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rR-OLTqvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rR-OLTqvL._SL200_.jpg' ]
 comments: true
 category: ofertas

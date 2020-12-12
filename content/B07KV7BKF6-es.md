@@ -3,6 +3,7 @@ layout: post
 title: 'Weekend Peninsula 5 Pares Calcetines Run al 53.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XZLI-ev1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XZLI-ev1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XZLI-ev1L._SL200_.jpg' ]
 comments: true
 category: ofertas

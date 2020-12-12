@@ -3,6 +3,7 @@ layout: post
 title: 'WMF Lineo Batidora de Varillas  350 W  A al 48.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kzcbmyYNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kzcbmyYNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kzcbmyYNL._SL200_.jpg' ]
 comments: true
 category: ofertas

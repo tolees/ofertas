@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.15 % en Pepaloves Sweater Pointelle Black  Jerse'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414H1VMXYRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414H1VMXYRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414H1VMXYRL._SL200_.jpg' ]
 comments: true
 category: ofertas

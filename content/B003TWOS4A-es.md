@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch Professional - Disco de corte de d al 76.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H9NRdGq%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51H9NRdGq%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H9NRdGq%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

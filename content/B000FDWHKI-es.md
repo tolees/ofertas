@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.00 % en Marmot 41260-001-5 Pantalón con Cremalle'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UZPZzJKIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UZPZzJKIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UZPZzJKIL._SL200_.jpg' ]
 comments: true
 category: ofertas

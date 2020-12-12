@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.30 % en Pepe Jeans Finly Jeans  Azul  Rinse Deni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A%2BAyv-28L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31A%2BAyv-28L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A%2BAyv-28L._SL200_.jpg' ]
 comments: true
 category: ofertas

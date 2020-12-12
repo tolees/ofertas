@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.02 % en Érase Una Vez En China I Blu-Ray [Blu-ra'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517Tpr5-9gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517Tpr5-9gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517Tpr5-9gL._SL200_.jpg' ]
 comments: true
 category: ofertas

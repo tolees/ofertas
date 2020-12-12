@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.29 % en Puma BVB Local Temporada 2017/2018 Camis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JJqpkNxGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JJqpkNxGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JJqpkNxGL._SL200_.jpg' ]
 comments: true
 category: ofertas

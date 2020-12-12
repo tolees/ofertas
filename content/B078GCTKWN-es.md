@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.78 % en BQ Easy Go - Filamento PLA de 1.75 mm  1'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BYf10htCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BYf10htCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BYf10htCL._SL200_.jpg' ]
 comments: true
 category: ofertas

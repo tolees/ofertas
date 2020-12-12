@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.09 % en Asics Gel-Lyte  Zapatillas Unisex Niños '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2qHFkNPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2qHFkNPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2qHFkNPL._SL200_.jpg' ]
 comments: true
 category: ofertas

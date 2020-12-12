@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 25742  Botas para Mujer  Negro   al 77.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BufJihMCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BufJihMCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BufJihMCL._SL200_.jpg' ]
 comments: true
 category: ofertas

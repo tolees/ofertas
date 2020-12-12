@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.65 % en Munich TIGA Indoor  Zapatillas de Deport'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jzoX7CJ4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jzoX7CJ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jzoX7CJ4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.98 % en Anne Möller Hydragps Gel Hydratant Mat -'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qvRQUHQNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qvRQUHQNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qvRQUHQNL._SL200_.jpg' ]
 comments: true
 category: ofertas

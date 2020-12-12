@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.57 % en PIECES Pcsanni LS Wool Knit Cardigan Noo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fZ8qSQ-EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fZ8qSQ-EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fZ8qSQ-EL._SL200_.jpg' ]
 comments: true
 category: ofertas

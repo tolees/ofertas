@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.03 % en YVSoo Gimnasio Bebés Piano Pataditas  Ma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FbobmprBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FbobmprBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FbobmprBL._SL200_.jpg' ]
 comments: true
 category: ofertas

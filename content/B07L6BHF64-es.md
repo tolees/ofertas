@@ -3,6 +3,7 @@ layout: post
 title: 'Aobosi Slow Juicer Licuadora para Fruta  al 52.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vdz5xmkKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vdz5xmkKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vdz5xmkKL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Mini Tenacilla Profesional Con Placas Ce al 47.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41urjkvn%2BNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41urjkvn%2BNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41urjkvn%2BNL._SL200_.jpg' ]
 comments: true
 category: ofertas

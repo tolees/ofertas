@@ -3,6 +3,7 @@ layout: post
 title: 'Wilson  Raqueta de tenis para niños  Bur al 25.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8M2OQPaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8M2OQPaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q8M2OQPaL._SL200_.jpg' ]
 comments: true
 category: ofertas

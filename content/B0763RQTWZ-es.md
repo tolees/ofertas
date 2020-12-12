@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Zoom Fly  Zapatillas de Running par al 46.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41axSfhSgtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41axSfhSgtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41axSfhSgtL._SL200_.jpg' ]
 comments: true
 category: ofertas

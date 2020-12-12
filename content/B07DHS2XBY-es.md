@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.74 % en Quiksilver Everyday Zip Sudadera con Cap'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xfaLFW0sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xfaLFW0sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xfaLFW0sL._SL200_.jpg' ]
 comments: true
 category: ofertas

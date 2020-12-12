@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Adisyon Straight Deep V T 1/2 al 50.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uLnL3k2qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uLnL3k2qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uLnL3k2qL._SL200_.jpg' ]
 comments: true
 category: ofertas

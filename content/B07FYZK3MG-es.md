@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Denim Short Pantalones Cortos   al 61.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aTKa312IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aTKa312IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aTKa312IL._SL200_.jpg' ]
 comments: true
 category: ofertas

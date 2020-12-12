@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi 26241-21  Botas de Nieve par al 73.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZG6C4aygL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZG6C4aygL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZG6C4aygL._SL200_.jpg' ]
 comments: true
 category: ofertas

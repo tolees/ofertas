@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.79 % en Adidas V Racer 2.0  Zapatillas de Deport'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nXlHzEaaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nXlHzEaaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nXlHzEaaL._SL200_.jpg' ]
 comments: true
 category: ofertas

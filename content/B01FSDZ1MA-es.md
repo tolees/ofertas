@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Flash Run V1  Zapatillas Dep al 62.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WD6j0m3OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WD6j0m3OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WD6j0m3OL._SL200_.jpg' ]
 comments: true
 category: ofertas

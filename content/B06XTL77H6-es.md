@@ -3,6 +3,7 @@ layout: post
 title: 'Licor del Polo - Enjuague Bucal Non-Stop al 33.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418SMc9AXVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418SMc9AXVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418SMc9AXVL._SL200_.jpg' ]
 comments: true
 category: ofertas

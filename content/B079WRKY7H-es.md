@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Finsbury Vaqueros  Azul  Medi al 61.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u4d%2B3sFxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u4d%2B3sFxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u4d%2B3sFxL._SL200_.jpg' ]
 comments: true
 category: ofertas

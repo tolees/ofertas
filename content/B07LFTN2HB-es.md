@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.78 % en Pepe Jeans David Tech  Zapatillas para N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q17rzTyGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q17rzTyGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q17rzTyGL._SL200_.jpg' ]
 comments: true
 category: ofertas

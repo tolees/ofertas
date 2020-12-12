@@ -3,6 +3,7 @@ layout: post
 title: 'Parrot BEBOP 2 - Dron cuadricóptero  Ful al 31.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oYQQTK6BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oYQQTK6BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oYQQTK6BL._SL200_.jpg' ]
 comments: true
 category: ofertas

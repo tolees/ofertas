@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.41 % en B BIDEN Retro Gafas de Sol Cuadradas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w%2BpKDy1TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31w%2BpKDy1TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31w%2BpKDy1TL._SL200_.jpg' ]
 comments: true
 category: ofertas

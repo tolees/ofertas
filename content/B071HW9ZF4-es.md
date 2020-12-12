@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.55 % en Under Armour Mk1 Short 7In. Pantalón Cor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nMMZl1oTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nMMZl1oTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nMMZl1oTL._SL200_.jpg' ]
 comments: true
 category: ofertas

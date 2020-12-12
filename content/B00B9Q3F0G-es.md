@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.21 % en Linksys WAP300N-EU - Punto de acceso ina'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31E3PkSLz-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31E3PkSLz-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31E3PkSLz-L._SL200_.jpg' ]
 comments: true
 category: ofertas

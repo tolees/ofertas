@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance WT83563 Sudadera con Capucha al 55.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ktsidsgML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ktsidsgML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ktsidsgML._SL200_.jpg' ]
 comments: true
 category: ofertas

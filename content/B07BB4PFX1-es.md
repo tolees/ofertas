@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.09 % en The North Face Y Gorro Surgent Beanie  U'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312CJMYJlOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312CJMYJlOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312CJMYJlOL._SL200_.jpg' ]
 comments: true
 category: ofertas

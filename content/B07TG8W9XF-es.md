@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.29 % en Champu Solido  Natural Herbal Champú par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xMj5CZ%2BgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xMj5CZ%2BgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xMj5CZ%2BgL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Sony HT-MT500 - Barra de Sonido compacta al 26.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aORF-nIzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aORF-nIzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aORF-nIzL._SL200_.jpg' ]
 comments: true
 category: ofertas

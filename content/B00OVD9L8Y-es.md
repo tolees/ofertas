@@ -3,6 +3,7 @@ layout: post
 title: 'HOMCOM Remolque Infantil para Bicicleta  al 43.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w6kGLnaWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w6kGLnaWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w6kGLnaWL._SL200_.jpg' ]
 comments: true
 category: ofertas

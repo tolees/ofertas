@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s SS Original Hm tee Camiseta   Tri al 25.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ooT5qICEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ooT5qICEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ooT5qICEL._SL200_.jpg' ]
 comments: true
 category: ofertas

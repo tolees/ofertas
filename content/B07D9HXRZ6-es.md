@@ -3,6 +3,7 @@ layout: post
 title: 'VGROUND USB WiFi Dongle 600Mbps 802.11ac al 44.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JINNLZFqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JINNLZFqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JINNLZFqL._SL200_.jpg' ]
 comments: true
 category: ofertas

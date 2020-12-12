@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.03 % en Tayg 21070037 Gaveta apilable nº55  336 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413I3RnVSmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413I3RnVSmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413I3RnVSmL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Berglander Juego de utensilios de cocina al 31.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BV-RCLsBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BV-RCLsBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BV-RCLsBL._SL200_.jpg' ]
 comments: true
 category: ofertas

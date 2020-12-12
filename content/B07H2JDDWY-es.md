@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.37 % en AJAX Kit de alarma AJHUBK - Kit antirrob'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4176oFVLLbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4176oFVLLbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4176oFVLLbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.01 % en Xiaomi Mi Power Bank 2S  Batería Portáti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313EbGLsrQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313EbGLsrQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313EbGLsrQL._SL200_.jpg' ]
 comments: true
 category: ofertas

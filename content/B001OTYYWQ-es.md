@@ -3,6 +3,7 @@ layout: post
 title: 'Sorel Falcon Ridge  Zapatillas para Homb al 50.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S1aNkmLbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S1aNkmLbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S1aNkmLbL._SL200_.jpg' ]
 comments: true
 category: ofertas

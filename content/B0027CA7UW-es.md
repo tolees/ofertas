@@ -3,6 +3,7 @@ layout: post
 title: 'Kingston SDC4/8GBSP - Tarjeta Micro SDHC al 64.10 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

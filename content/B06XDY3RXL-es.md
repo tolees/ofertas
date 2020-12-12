@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.53 % en Conjunto de Cubiertos de Madera Desechab'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OVAyPEDdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OVAyPEDdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OVAyPEDdL._SL200_.jpg' ]
 comments: true
 category: ofertas

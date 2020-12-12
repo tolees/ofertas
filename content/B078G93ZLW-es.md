@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.31 % en BQ Aquaris U2 - Smartphone de 5.2"  Blue'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IpQ5ytlSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IpQ5ytlSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IpQ5ytlSL._SL200_.jpg' ]
 comments: true
 category: ofertas

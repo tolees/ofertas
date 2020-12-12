@@ -3,6 +3,7 @@ layout: post
 title: 'LANSKIRT_Bikinis Bikini Mujer Push Up La al 38.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Dggi4IrpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Dggi4IrpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Dggi4IrpL._SL200_.jpg' ]
 comments: true
 category: ofertas

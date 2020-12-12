@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Kids 191480583463 FC St. Pa al 73.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GHVDJb4WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GHVDJb4WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GHVDJb4WL._SL200_.jpg' ]
 comments: true
 category: ofertas

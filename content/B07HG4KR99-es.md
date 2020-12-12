@@ -3,6 +3,7 @@ layout: post
 title: 'Geekper 1:16 4WD Coche RC Eléctrico Todo al 60.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jjj9xPFGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jjj9xPFGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jjj9xPFGL._SL200_.jpg' ]
 comments: true
 category: ofertas

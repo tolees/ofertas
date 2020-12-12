@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Charged Bandit 3 Ombre   al 48.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KO5jl45OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KO5jl45OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KO5jl45OL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.12 % en Liu Jo Lj684S 218 55  Gafas de sol para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SkSXAgbaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SkSXAgbaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SkSXAgbaL._SL200_.jpg' ]
 comments: true
 category: ofertas

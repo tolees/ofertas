@@ -3,6 +3,7 @@ layout: post
 title: 'Pedro Del Hierro 5505933  Jersey para Mu al 79.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vSjWKqnxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vSjWKqnxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vSjWKqnxL._SL200_.jpg' ]
 comments: true
 category: ofertas

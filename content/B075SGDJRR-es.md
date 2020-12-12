@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.12 % en Springfield 8232407 Parka  Azul  Blue   '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411DLG%2Boz7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411DLG%2Boz7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411DLG%2Boz7L._SL200_.jpg' ]
 comments: true
 category: ofertas

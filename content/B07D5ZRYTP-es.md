@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.04 % en Asics As001  Zapatillas de Deporte Unise'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XiFWi-ARL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XiFWi-ARL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XiFWi-ARL._SL200_.jpg' ]
 comments: true
 category: ofertas

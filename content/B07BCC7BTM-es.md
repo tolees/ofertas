@@ -3,6 +3,7 @@ layout: post
 title: 'Pandora Abalorios Mujer plata - 797037 al 44.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XImiWxGTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XImiWxGTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XImiWxGTL._SL200_.jpg' ]
 comments: true
 category: ofertas

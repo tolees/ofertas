@@ -3,6 +3,7 @@ layout: post
 title: 'SET 7 en 1 Herramientas de Jardinería Co al 53.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ztzDw5oFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ztzDw5oFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ztzDw5oFL._SL200_.jpg' ]
 comments: true
 category: ofertas

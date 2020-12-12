@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.14 % en David Jones - Cm3808  Bolsos totes Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414VfLFBwOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414VfLFBwOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414VfLFBwOL._SL200_.jpg' ]
 comments: true
 category: ofertas

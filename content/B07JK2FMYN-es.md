@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.74 % en Liga De La Justicia Ed. 2018 Blu-Ray [Bl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KO8UzoL2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KO8UzoL2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KO8UzoL2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.37 % en Bosch 2609256B61 - Plato de soporte para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C8JTifbkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C8JTifbkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C8JTifbkL._SL200_.jpg' ]
 comments: true
 category: ofertas

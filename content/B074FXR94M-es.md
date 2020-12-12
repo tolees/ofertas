@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.18 % en find. 17 04 159 camisetas  Negro  Black '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XSw-vNzvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XSw-vNzvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XSw-vNzvL._SL200_.jpg' ]
 comments: true
 category: ofertas

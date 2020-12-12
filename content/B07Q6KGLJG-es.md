@@ -3,6 +3,7 @@ layout: post
 title: 'TerraMaster F2-210 Servidor NAS Multimed al 30.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fVq02XIPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fVq02XIPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fVq02XIPL._SL200_.jpg' ]
 comments: true
 category: ofertas

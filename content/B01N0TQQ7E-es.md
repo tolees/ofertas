@@ -3,6 +3,7 @@ layout: post
 title: 'Blend  20702534 - Bermuda para Hombre  C al 68.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-8EFS-FzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-8EFS-FzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-8EFS-FzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom FORZEE P/O Suéter  Hombre  Navy   al 59.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gBuyZsu5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gBuyZsu5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gBuyZsu5L._SL200_.jpg' ]
 comments: true
 category: ofertas

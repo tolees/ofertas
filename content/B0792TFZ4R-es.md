@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Jr Gregg B  Zapatillas Altas para N al 53.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yFULnyWdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yFULnyWdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yFULnyWdL._SL200_.jpg' ]
 comments: true
 category: ofertas

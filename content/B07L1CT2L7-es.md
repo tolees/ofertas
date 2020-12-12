@@ -3,6 +3,7 @@ layout: post
 title: 'AMEU 12 - Herramienta Chaflán de Biselad al 35.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YCCajdy8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YCCajdy8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YCCajdy8L._SL200_.jpg' ]
 comments: true
 category: ofertas

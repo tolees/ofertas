@@ -3,6 +3,7 @@ layout: post
 title: 'Esponja Maquillaje Microfibra Velvet Spo al 60.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412Mv6v5PSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412Mv6v5PSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412Mv6v5PSL._SL200_.jpg' ]
 comments: true
 category: ofertas

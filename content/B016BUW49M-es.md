@@ -3,6 +3,7 @@ layout: post
 title: 'BUFFALO LONDON ES 30689 Flash  Botas de  al 76.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QlHc0bpgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QlHc0bpgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QlHc0bpgL._SL200_.jpg' ]
 comments: true
 category: ofertas

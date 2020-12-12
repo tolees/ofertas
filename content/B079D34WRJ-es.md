@@ -3,6 +3,7 @@ layout: post
 title: 'Little Trees mtr0077 Ciudad Estilo Fraga al 34.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41COLJ2Ht6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41COLJ2Ht6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41COLJ2Ht6L._SL200_.jpg' ]
 comments: true
 category: ofertas

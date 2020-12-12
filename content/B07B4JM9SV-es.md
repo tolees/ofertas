@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star 07 R T S/s  Camiseta para Hombre  al 34.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z4VgMJBsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z4VgMJBsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z4VgMJBsL._SL200_.jpg' ]
 comments: true
 category: ofertas

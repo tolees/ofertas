@@ -3,6 +3,7 @@ layout: post
 title: 'Hoover CA2IN1D 011 STEAM CAPSULE  Vapore al 56.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tfruozldL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tfruozldL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tfruozldL._SL200_.jpg' ]
 comments: true
 category: ofertas

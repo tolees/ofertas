@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.75 % en Fruit of the Loom Value T  Camiseta Niño'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412sqTxnD5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412sqTxnD5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412sqTxnD5L._SL200_.jpg' ]
 comments: true
 category: ofertas

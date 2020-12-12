@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.35 % en Springfield 6.T.Ap. Biker Doble Faz  Cha'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Csaf%2BrhGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Csaf%2BrhGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Csaf%2BrhGL._SL200_.jpg' ]
 comments: true
 category: ofertas

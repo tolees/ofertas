@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.83 % en Pepe Jeans Ryan PM581118  Sudadera para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415DiDoj3ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415DiDoj3ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415DiDoj3ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.95 % en Black Crevice Chaqueta Antracita ES 48'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sH0SYD1rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sH0SYD1rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sH0SYD1rL._SL200_.jpg' ]
 comments: true
 category: ofertas

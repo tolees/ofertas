@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.15 % en Omiera Acdue Acne Tratamiento para cicat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fZbPFDKEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fZbPFDKEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fZbPFDKEL._SL200_.jpg' ]
 comments: true
 category: ofertas

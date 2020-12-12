@@ -3,6 +3,7 @@ layout: post
 title: 'Think Fun- Roller Coaster Challenge Jueg al 25.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61rgH9XLGvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61rgH9XLGvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61rgH9XLGvL._SL200_.jpg' ]
 comments: true
 category: ofertas

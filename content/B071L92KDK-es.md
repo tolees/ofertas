@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star RAW Grount Sock  Zapatillas para  al 70.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iEgdXK2RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iEgdXK2RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iEgdXK2RL._SL200_.jpg' ]
 comments: true
 category: ofertas

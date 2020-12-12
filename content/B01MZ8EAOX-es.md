@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.79 % en DELSEY Paris U-Lite Classic 2 Maleta  79'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xgb2-pEKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xgb2-pEKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xgb2-pEKL._SL200_.jpg' ]
 comments: true
 category: ofertas

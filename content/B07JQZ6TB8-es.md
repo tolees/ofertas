@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.56 % en adidas Ultraboost Laceless W  Zapatillas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U1-LvGwIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U1-LvGwIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U1-LvGwIL._SL200_.jpg' ]
 comments: true
 category: ofertas

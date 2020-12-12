@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Ahiga V3 Hydropower  Náutic al 35.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g720-pd3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g720-pd3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g720-pd3L._SL200_.jpg' ]
 comments: true
 category: ofertas

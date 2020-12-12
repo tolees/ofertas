@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.21 % en Trucco - Camiseta para mujer  color negr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31t4tp6WWfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31t4tp6WWfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31t4tp6WWfL._SL200_.jpg' ]
 comments: true
 category: ofertas

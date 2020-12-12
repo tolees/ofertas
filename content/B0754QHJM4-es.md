@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Agile Chaleco  Hombre  Azul  Sur al 31.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dS2cOUIBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dS2cOUIBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dS2cOUIBL._SL200_.jpg' ]
 comments: true
 category: ofertas

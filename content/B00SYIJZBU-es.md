@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.16 % en Blaze y los Monster Machines- Monstruos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QOeXnCXCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QOeXnCXCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QOeXnCXCL._SL200_.jpg' ]
 comments: true
 category: ofertas

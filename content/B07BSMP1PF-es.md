@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Jacksy  Vaqueros Straight Mujer   al 86.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OPvod%2B2IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OPvod%2B2IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OPvod%2B2IL._SL200_.jpg' ]
 comments: true
 category: ofertas

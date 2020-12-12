@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Polo Piquet  Hombre  Beig al 34.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ldpZVWayL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ldpZVWayL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ldpZVWayL._SL200_.jpg' ]
 comments: true
 category: ofertas

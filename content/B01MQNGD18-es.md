@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Ua Thrill 3 Zapatillas de R al 28.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413dhuJhuTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413dhuJhuTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413dhuJhuTL._SL200_.jpg' ]
 comments: true
 category: ofertas

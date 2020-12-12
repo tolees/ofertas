@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.08 % en Ultrasport Ski Guantes  Mujer  Morado/Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o9rZcBLnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51o9rZcBLnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51o9rZcBLnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Bali II Polo  Hombre  Marino  S al 49.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uu7hLODOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uu7hLODOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uu7hLODOL._SL200_.jpg' ]
 comments: true
 category: ofertas

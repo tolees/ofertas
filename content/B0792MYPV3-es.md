@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.09 % en Geox J Xunday Boy A  Botas Chukka para N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415CNL6v1uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415CNL6v1uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415CNL6v1uL._SL200_.jpg' ]
 comments: true
 category: ofertas

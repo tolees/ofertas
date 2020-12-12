@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.02 % en Bruzzzler 1157 - encendedor de chimenea '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BdI5ss0OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BdI5ss0OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BdI5ss0OL._SL200_.jpg' ]
 comments: true
 category: ofertas

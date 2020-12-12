@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA HG Armour 3/4 Leg Nov Le al 44.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gUzzrb%2B4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gUzzrb%2B4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gUzzrb%2B4L._SL200_.jpg' ]
 comments: true
 category: ofertas

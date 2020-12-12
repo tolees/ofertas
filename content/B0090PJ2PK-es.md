@@ -3,6 +3,7 @@ layout: post
 title: 'Curver 193009 - Cesta de ropa Natural St al 28.60 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

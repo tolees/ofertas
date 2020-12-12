@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.14 % en G-Star RAW Rovulc Mid  Zapatillas Altas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dwZEhHeJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dwZEhHeJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dwZEhHeJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Mascot 50403 – 869-a32 – 90 C54 Fafe Jea al 87.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L9xtWy6NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L9xtWy6NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L9xtWy6NL._SL200_.jpg' ]
 comments: true
 category: ofertas

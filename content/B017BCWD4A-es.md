@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.26 % en Lupin vs. Detective Conan - Edición Cole'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61jOXUCbvDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61jOXUCbvDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61jOXUCbvDL._SL200_.jpg' ]
 comments: true
 category: ofertas

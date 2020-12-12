@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.77 % en FIND DC1930L vaqueros mujer  Azul  Indig'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XvISqw8-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XvISqw8-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XvISqw8-L._SL200_.jpg' ]
 comments: true
 category: ofertas

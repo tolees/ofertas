@@ -3,6 +3,7 @@ layout: post
 title: 'WELQUIC Detector de Metales con Pinpoint al 55.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412eIdplz1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412eIdplz1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412eIdplz1L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi 2-2-23202-21  Zapatos de Cor al 70.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ppxh-MQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411ppxh-MQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ppxh-MQL._SL200_.jpg' ]
 comments: true
 category: ofertas

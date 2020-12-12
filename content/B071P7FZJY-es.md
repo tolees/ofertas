@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.51 % en Purefly Almohada de viaje con soporte de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512d7v5zuAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512d7v5zuAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512d7v5zuAL._SL200_.jpg' ]
 comments: true
 category: ofertas

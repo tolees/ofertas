@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.40 % en Vaello 500 - Quemador de gas  Paellero  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LI-ViyhFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LI-ViyhFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LI-ViyhFL._SL200_.jpg' ]
 comments: true
 category: ofertas

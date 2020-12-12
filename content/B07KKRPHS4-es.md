@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Kenc32 Blusa  Marfil  Écru 333   al 27.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uPB5IGCdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uPB5IGCdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uPB5IGCdL._SL200_.jpg' ]
 comments: true
 category: ofertas

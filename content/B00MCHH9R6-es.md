@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.87 % en Barbie Collector  muñeca Novia 2017  Mat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k8zgI8ZUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k8zgI8ZUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k8zgI8ZUL._SL200_.jpg' ]
 comments: true
 category: ofertas

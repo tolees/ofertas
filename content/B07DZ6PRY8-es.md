@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.79 % en Columbia Chaqueta de plumón con Capucha '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y%2BZ3IZt4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y%2BZ3IZt4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y%2BZ3IZt4L._SL200_.jpg' ]
 comments: true
 category: ofertas

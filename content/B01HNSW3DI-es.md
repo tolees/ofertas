@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy ARJB700349 - Botas de invierno para al 77.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51E1i3MoikL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51E1i3MoikL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51E1i3MoikL._SL200_.jpg' ]
 comments: true
 category: ofertas

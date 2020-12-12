@@ -3,6 +3,7 @@ layout: post
 title: 'find. Jersey con Cuello de Pico para Hom al 68.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KlDLSXkfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KlDLSXkfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KlDLSXkfL._SL200_.jpg' ]
 comments: true
 category: ofertas

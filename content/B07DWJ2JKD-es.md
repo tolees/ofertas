@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.22 % en hummel hmlclio Zip Chaqueta  Mujer  2016'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z4Sn5vZzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31z4Sn5vZzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z4Sn5vZzL._SL200_.jpg' ]
 comments: true
 category: ofertas

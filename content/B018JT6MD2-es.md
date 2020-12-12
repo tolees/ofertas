@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Levis 300LS Long Sleeve Henley 1P al 25.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411V1EO0lmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411V1EO0lmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411V1EO0lmL._SL200_.jpg' ]
 comments: true
 category: ofertas

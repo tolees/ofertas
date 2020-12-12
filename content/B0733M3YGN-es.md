@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Heather Cat tee Camiseta  Mujer  Na al 52.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M976p2qPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M976p2qPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M976p2qPL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual - Mone_always Macau  Carteras M al 49.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lu3xdIzrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lu3xdIzrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lu3xdIzrL._SL200_.jpg' ]
 comments: true
 category: ofertas

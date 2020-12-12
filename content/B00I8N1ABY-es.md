@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.72 % en Makita DUH523Z - Cortasetos 18V Litio 52'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311Iz2JbsVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311Iz2JbsVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311Iz2JbsVL._SL200_.jpg' ]
 comments: true
 category: ofertas

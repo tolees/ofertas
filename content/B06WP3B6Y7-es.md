@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver 25312  Botas para Mujer  Beige  al 69.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L3Et-cuZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L3Et-cuZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L3Et-cuZL._SL200_.jpg' ]
 comments: true
 category: ofertas

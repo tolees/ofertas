@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.30 % en Panama Jack Panama 03 Wool  Zapatos de C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410w6-T4CLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410w6-T4CLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410w6-T4CLL._SL200_.jpg' ]
 comments: true
 category: ofertas

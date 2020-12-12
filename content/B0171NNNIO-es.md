@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.24 % en Philips HP6393/00 cortadora de pelo y ma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21oAEyrA6sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21oAEyrA6sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21oAEyrA6sL._SL200_.jpg' ]
 comments: true
 category: ofertas

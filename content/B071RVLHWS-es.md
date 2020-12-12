@@ -3,6 +3,7 @@ layout: post
 title: 'STAR WARS- Funko Pop Joven Figura de Vin al 50.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416e5PmH5WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416e5PmH5WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416e5PmH5WL._SL200_.jpg' ]
 comments: true
 category: ofertas

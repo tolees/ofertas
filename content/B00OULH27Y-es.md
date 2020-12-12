@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.48 % en Taurus Tropicano 3CR Ceramic 947.424  15'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eFnNcZyrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eFnNcZyrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eFnNcZyrL._SL200_.jpg' ]
 comments: true
 category: ofertas

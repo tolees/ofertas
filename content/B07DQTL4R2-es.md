@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Collection 57561  Zapatos de Cordon al 68.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tWnEIRk6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tWnEIRk6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tWnEIRk6L._SL200_.jpg' ]
 comments: true
 category: ofertas

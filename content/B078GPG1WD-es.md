@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 93033 Sudadera   Rosa Morado al 73.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J6qzBzCLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J6qzBzCLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J6qzBzCLL._SL200_.jpg' ]
 comments: true
 category: ofertas

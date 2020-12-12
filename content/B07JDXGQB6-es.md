@@ -3,6 +3,7 @@ layout: post
 title: 'Amazon Echo  2.ª generación   tela de co al 34.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tSZkj1f7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tSZkj1f7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tSZkj1f7L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Vikky Platform Elastic  Zapatillas  al 45.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MNIoD%2Bf7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MNIoD%2Bf7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MNIoD%2Bf7L._SL200_.jpg' ]
 comments: true
 category: ofertas

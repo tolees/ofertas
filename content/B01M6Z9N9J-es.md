@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Big Logo Slash Tank Cami al 55.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E2K7m0NaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E2K7m0NaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E2K7m0NaL._SL200_.jpg' ]
 comments: true
 category: ofertas

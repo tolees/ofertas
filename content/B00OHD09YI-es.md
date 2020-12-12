@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.37 % en Kappa Savigno Tks Chándal Deportivo  Niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g1UeBxbLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31g1UeBxbLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g1UeBxbLL._SL200_.jpg' ]
 comments: true
 category: ofertas

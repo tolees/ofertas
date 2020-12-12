@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.17 % en Zhiyun Crane 2 - Estabilizador de 3 ejes'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jR5IXBAHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jR5IXBAHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jR5IXBAHL._SL200_.jpg' ]
 comments: true
 category: ofertas

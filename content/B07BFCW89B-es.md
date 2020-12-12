@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.67 % en Fit-Force Bici Spinning X24KG con Volant'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51A-ZMa2glL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51A-ZMa2glL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51A-ZMa2glL._SL200_.jpg' ]
 comments: true
 category: ofertas

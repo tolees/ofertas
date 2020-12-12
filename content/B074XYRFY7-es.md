@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.93 % en BOSS Trunk 2p Gift Co/el Bóxer  Azul  Op'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418pxpm-adL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418pxpm-adL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418pxpm-adL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Cife - Trendy Lights Selfie con accesori al 71.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R1ZV%2BsMsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51R1ZV%2BsMsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51R1ZV%2BsMsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.98 % en Under Armour BGS Jet 2018 3020948-002  Z'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BeApbe8HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BeApbe8HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BeApbe8HL._SL200_.jpg' ]
 comments: true
 category: ofertas

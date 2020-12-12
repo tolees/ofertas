@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.18 % en Gurren-Lagann - Edición Coleccionistas  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61PjSjeFq5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61PjSjeFq5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61PjSjeFq5L._SL200_.jpg' ]
 comments: true
 category: ofertas

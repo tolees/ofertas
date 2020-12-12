@@ -3,6 +3,7 @@ layout: post
 title: 'Trust Gaming - Silla para Juegos GXT 705 al 41.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418UVO%2BwUqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418UVO%2BwUqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418UVO%2BwUqL._SL200_.jpg' ]
 comments: true
 category: ofertas

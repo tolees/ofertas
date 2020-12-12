@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.75 % en Geox U Kaven A  Zapatillas para Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u6c5alheL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u6c5alheL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u6c5alheL._SL200_.jpg' ]
 comments: true
 category: ofertas

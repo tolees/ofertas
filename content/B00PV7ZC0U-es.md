@@ -3,6 +3,7 @@ layout: post
 title: 'Platinum Premium The Delight Vibrating P al 80.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BI0lsJwkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BI0lsJwkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BI0lsJwkL._SL200_.jpg' ]
 comments: true
 category: ofertas

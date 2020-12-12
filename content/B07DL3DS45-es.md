@@ -3,6 +3,7 @@ layout: post
 title: 'Android Tablet 7 Pulgadas Quad Core 8G M al 64.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vim2Wv5DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vim2Wv5DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vim2Wv5DL._SL200_.jpg' ]
 comments: true
 category: ofertas

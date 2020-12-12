@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.69 % en Moschino Funny Agua de Tocador Vaporizad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tKMrXSycL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tKMrXSycL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tKMrXSycL._SL200_.jpg' ]
 comments: true
 category: ofertas

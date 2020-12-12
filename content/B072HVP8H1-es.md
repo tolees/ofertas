@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.35 % en Leathario Hombres Cinturón de Cuero Corr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uZ-pF49OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uZ-pF49OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uZ-pF49OL._SL200_.jpg' ]
 comments: true
 category: ofertas

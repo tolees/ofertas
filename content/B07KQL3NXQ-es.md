@@ -3,6 +3,7 @@ layout: post
 title: 'hummel Hmlarena Pelota  Unisex  Blanco   al 45.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417oy1DQEcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417oy1DQEcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417oy1DQEcL._SL200_.jpg' ]
 comments: true
 category: ofertas

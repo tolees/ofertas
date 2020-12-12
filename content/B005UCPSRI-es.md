@@ -3,6 +3,7 @@ layout: post
 title: 'Canon 729 Bk Cartucho de toner original  al 61.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XIGlKYwkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XIGlKYwkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XIGlKYwkL._SL200_.jpg' ]
 comments: true
 category: ofertas

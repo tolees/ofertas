@@ -3,6 +3,7 @@ layout: post
 title: 'Gant Premium Trunk Yarn-dyed Stripe  Bañ al 74.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z4kEJTuSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z4kEJTuSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z4kEJTuSL._SL200_.jpg' ]
 comments: true
 category: ofertas

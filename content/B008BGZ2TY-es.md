@@ -3,6 +3,7 @@ layout: post
 title: 'Stanley 1-84-280 tijeras de electricista al 56.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g8bgvj%2BkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g8bgvj%2BkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g8bgvj%2BkL._SL200_.jpg' ]
 comments: true
 category: ofertas

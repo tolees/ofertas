@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.76 % en GLAMOURIC Calefactor de Cerámica  PTC Ca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415PC%2B%2BiHnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415PC%2B%2BiHnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415PC%2B%2BiHnL._SL200_.jpg' ]
 comments: true
 category: ofertas

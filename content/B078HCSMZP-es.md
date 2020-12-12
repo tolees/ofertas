@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.06 % en Froddo Kids Boots G3160082  Botas de Nie'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410uXMgKDRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410uXMgKDRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410uXMgKDRL._SL200_.jpg' ]
 comments: true
 category: ofertas

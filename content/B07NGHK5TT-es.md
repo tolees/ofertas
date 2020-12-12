@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.74 % en Hasbro- Nerf Elite Microshots Pistola la'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BxhiCftbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BxhiCftbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BxhiCftbL._SL200_.jpg' ]
 comments: true
 category: ofertas

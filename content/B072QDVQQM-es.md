@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.71 % en Merrell All out Crush 2  Zapatillas de R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SrbHQ36rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SrbHQ36rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SrbHQ36rL._SL200_.jpg' ]
 comments: true
 category: ofertas

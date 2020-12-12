@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.62 % en REPLAY Anbass  Pantalones Vaqueros Delga'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h-ZMyOJvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h-ZMyOJvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h-ZMyOJvL._SL200_.jpg' ]
 comments: true
 category: ofertas

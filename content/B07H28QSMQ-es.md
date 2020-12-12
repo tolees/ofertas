@@ -3,6 +3,7 @@ layout: post
 title: 'ZAFUL Suéter Mujer de Cuello Alto Sueter al 51.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lgcKb0P9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lgcKb0P9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lgcKb0P9L._SL200_.jpg' ]
 comments: true
 category: ofertas

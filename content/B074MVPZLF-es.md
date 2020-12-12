@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Print Lite Rush  Zapatillas de Tr al 67.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X5ocBjPVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X5ocBjPVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X5ocBjPVL._SL200_.jpg' ]
 comments: true
 category: ofertas

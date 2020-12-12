@@ -3,6 +3,7 @@ layout: post
 title: 'ADIDAS Campus Stitch and T  Zapatillas d al 49.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gqWQGQwRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gqWQGQwRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gqWQGQwRL._SL200_.jpg' ]
 comments: true
 category: ofertas

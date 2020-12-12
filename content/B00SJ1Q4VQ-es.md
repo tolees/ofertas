@@ -3,6 +3,7 @@ layout: post
 title: 'Bestway - Set de Ayuda Aprendizaje natac al 51.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wjr3rF6pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wjr3rF6pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wjr3rF6pL._SL200_.jpg' ]
 comments: true
 category: ofertas

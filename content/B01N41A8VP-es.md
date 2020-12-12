@@ -3,6 +3,7 @@ layout: post
 title: 'Knorr - Pesto - Nueva receta  24% más de al 51.73 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B01N41A8VP.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B01N41A8VP.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B01N41A8VP.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

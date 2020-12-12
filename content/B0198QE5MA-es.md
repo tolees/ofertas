@@ -3,6 +3,7 @@ layout: post
 title: 'Memoria Flash USB inalámbrica SanDisk Co al 37.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3127mQ6nxoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3127mQ6nxoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3127mQ6nxoL._SL200_.jpg' ]
 comments: true
 category: ofertas

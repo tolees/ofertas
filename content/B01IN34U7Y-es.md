@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.49 % en adidas Stan Smith  Zapatillas para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qMIhs0CSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qMIhs0CSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qMIhs0CSL._SL200_.jpg' ]
 comments: true
 category: ofertas

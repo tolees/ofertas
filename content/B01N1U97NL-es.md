@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.77 % en Police Reloj Analógico para Hombre de Cu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5144x5BGNqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5144x5BGNqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5144x5BGNqL._SL200_.jpg' ]
 comments: true
 category: ofertas

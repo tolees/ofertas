@@ -3,6 +3,7 @@ layout: post
 title: 'Taza de Café para llevar con Tapa  Mug C al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QFYED%2BP0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QFYED%2BP0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QFYED%2BP0L._SL200_.jpg' ]
 comments: true
 category: ofertas

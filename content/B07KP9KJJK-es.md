@@ -3,6 +3,7 @@ layout: post
 title: 'Cámara de Coche  Dash CAM  TOGUARD 4K Cá al 31.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vd3MvwPfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vd3MvwPfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vd3MvwPfL._SL200_.jpg' ]
 comments: true
 category: ofertas

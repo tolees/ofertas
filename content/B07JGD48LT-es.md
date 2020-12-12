@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS Logo tee Camiseta  Mujer  Rosa  al 40.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CeGrZhI7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CeGrZhI7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CeGrZhI7L._SL200_.jpg' ]
 comments: true
 category: ofertas

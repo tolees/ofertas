@@ -3,6 +3,7 @@ layout: post
 title: 'Knorr - Salsa Envase Bechamel Ambiente 5 al 44.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w8k2HGn-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51w8k2HGn-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w8k2HGn-L._SL200_.jpg' ]
 comments: true
 category: ofertas

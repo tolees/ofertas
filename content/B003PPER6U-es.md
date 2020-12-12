@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.63 % en Ambiance Nature 507098 - Escurreplatos d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mno6lwDJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mno6lwDJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mno6lwDJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.29 % en Biotin MGM - Cinturón para mujer  talla '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TNUkuCLRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TNUkuCLRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TNUkuCLRL._SL200_.jpg' ]
 comments: true
 category: ofertas

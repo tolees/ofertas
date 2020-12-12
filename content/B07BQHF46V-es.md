@@ -3,6 +3,7 @@ layout: post
 title: 'Nike 930149 Camiseta de Manga Larga  Ros al 80.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KEhwEZXxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KEhwEZXxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KEhwEZXxL._SL200_.jpg' ]
 comments: true
 category: ofertas

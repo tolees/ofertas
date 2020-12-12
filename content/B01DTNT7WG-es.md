@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger TH 1380 QEE 48 Gafas de S al 30.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x7-RXkGeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31x7-RXkGeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x7-RXkGeL._SL200_.jpg' ]
 comments: true
 category: ofertas

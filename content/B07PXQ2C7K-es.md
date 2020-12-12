@@ -3,6 +3,7 @@ layout: post
 title: 'Funda para Xiaomi Mi 9/Mi 9 SE Teléfono  al 32.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dsA7pd8HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dsA7pd8HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dsA7pd8HL._SL200_.jpg' ]
 comments: true
 category: ofertas

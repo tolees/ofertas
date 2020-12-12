@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.65 % en The North Face M L/S Ones tee Camiseta  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZuVfCTk5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZuVfCTk5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZuVfCTk5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.63 % en Timberland Pokey Pine 6-Inch  Botas Clas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K3v-0RIbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K3v-0RIbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K3v-0RIbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'edc by ESPRIT 126CC1K074  Camisa Manga L al 59.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xM5gT-lOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xM5gT-lOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xM5gT-lOL._SL200_.jpg' ]
 comments: true
 category: ofertas

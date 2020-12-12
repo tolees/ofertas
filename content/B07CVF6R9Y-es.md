@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Equalizer 3.0  Zapatillas para  al 58.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413m1hJLAvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413m1hJLAvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413m1hJLAvL._SL200_.jpg' ]
 comments: true
 category: ofertas

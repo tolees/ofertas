@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.48 % en Silicon Power Jewel J80 - Memoria USB 3.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gbWlYFuAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gbWlYFuAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gbWlYFuAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG 84086  Zapatillas para Hombre  Rojo al 52.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F8YtEhyOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F8YtEhyOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F8YtEhyOL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Panama Jack Vera Snake  Sandalia con Pul al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y4TvrYsvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y4TvrYsvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y4TvrYsvL._SL200_.jpg' ]
 comments: true
 category: ofertas

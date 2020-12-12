@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2730-COTROPEW  Zapatillas para M al 46.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LyH40j9lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LyH40j9lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LyH40j9lL._SL200_.jpg' ]
 comments: true
 category: ofertas

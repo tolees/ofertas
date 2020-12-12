@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.30 % en Pikolin Home - Almohada viscoelástica  d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21r45q0wJLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21r45q0wJLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21r45q0wJLL._SL200_.jpg' ]
 comments: true
 category: ofertas

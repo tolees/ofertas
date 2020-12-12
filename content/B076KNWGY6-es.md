@@ -3,6 +3,7 @@ layout: post
 title: 'Cepillo de Limpieza Facial  Limpiador de al 45.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e96zz96AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e96zz96AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e96zz96AL._SL200_.jpg' ]
 comments: true
 category: ofertas

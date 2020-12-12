@@ -3,6 +3,7 @@ layout: post
 title: 'smartect Protector de Pantalla para Nint al 33.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QEQe38S7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QEQe38S7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QEQe38S7L._SL200_.jpg' ]
 comments: true
 category: ofertas

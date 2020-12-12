@@ -3,6 +3,7 @@ layout: post
 title: 'adidas M PT Pants  Hombre  zne htr/Black al 40.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DkREGoxAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DkREGoxAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DkREGoxAL._SL200_.jpg' ]
 comments: true
 category: ofertas

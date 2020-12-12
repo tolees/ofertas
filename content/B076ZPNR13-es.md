@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA BGS Torch Mid  Zapatos d al 29.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eSp5IpC6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eSp5IpC6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eSp5IpC6L._SL200_.jpg' ]
 comments: true
 category: ofertas

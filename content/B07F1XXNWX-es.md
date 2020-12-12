@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange - Round Zip Wallet  Cart al 62.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514vIv9ATCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514vIv9ATCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514vIv9ATCL._SL200_.jpg' ]
 comments: true
 category: ofertas

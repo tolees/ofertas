@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Box Logo SS Camiseta  Niños al 57.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qtgqi3%2B3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qtgqi3%2B3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qtgqi3%2B3L._SL200_.jpg' ]
 comments: true
 category: ofertas

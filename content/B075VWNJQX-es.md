@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en Shave it - Kit de maquinilla de afeitar '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B4ULL1AYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31B4ULL1AYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B4ULL1AYL._SL200_.jpg' ]
 comments: true
 category: ofertas

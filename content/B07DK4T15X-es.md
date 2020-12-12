@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J Borealis Boy B  Sandalias Punta C al 31.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wJdhO%2BOJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wJdhO%2BOJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wJdhO%2BOJL._SL200_.jpg' ]
 comments: true
 category: ofertas

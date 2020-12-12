@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.01 % en Anokay aluminio Bandeja de horno rectang'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61Zu%2Bly7tDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61Zu%2Bly7tDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61Zu%2Bly7tDL._SL200_.jpg' ]
 comments: true
 category: ofertas

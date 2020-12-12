@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.99 % en Valentino by Mario ValentinoDivinaMujerC'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XRBW0WdvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XRBW0WdvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XRBW0WdvL._SL200_.jpg' ]
 comments: true
 category: ofertas

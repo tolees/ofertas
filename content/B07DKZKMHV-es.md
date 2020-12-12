@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Gorro unisex  Pine Mountain Buc al 36.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vA29D-jwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vA29D-jwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vA29D-jwL._SL200_.jpg' ]
 comments: true
 category: ofertas

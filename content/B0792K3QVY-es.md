@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.87 % en Quiksilver - Camiseta - Niños 8-16 - Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bh5vkWnDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bh5vkWnDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bh5vkWnDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Marantz Professional MPM1000 - Micrófono al 34.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O7GV9uZmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O7GV9uZmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O7GV9uZmL._SL200_.jpg' ]
 comments: true
 category: ofertas

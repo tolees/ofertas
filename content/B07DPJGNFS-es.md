@@ -3,6 +3,7 @@ layout: post
 title: 'Symiu Juguetes de Madera Bloques Figuras al 63.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pWr0U%2Bm1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pWr0U%2Bm1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pWr0U%2Bm1L._SL200_.jpg' ]
 comments: true
 category: ofertas

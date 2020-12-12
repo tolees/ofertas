@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.93 % en Menton Ezil Love Encounter` con Cristale'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q4W%2B1SRBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q4W%2B1SRBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q4W%2B1SRBL._SL200_.jpg' ]
 comments: true
 category: ofertas

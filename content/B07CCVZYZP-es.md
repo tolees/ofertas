@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Luke Vaqueros Tapered  Azul  Vintage al 73.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wsMTm5c-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wsMTm5c-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wsMTm5c-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.04 % en Puma NRGY Comet  Zapatillas de Entrenami'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SHHii4BHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SHHii4BHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SHHii4BHL._SL200_.jpg' ]
 comments: true
 category: ofertas

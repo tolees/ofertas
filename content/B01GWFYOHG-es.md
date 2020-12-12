@@ -3,6 +3,7 @@ layout: post
 title: 'Christian Dior VERYDIOR1N T7 VV6  Gafas  al 73.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AQXvU2yAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AQXvU2yAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AQXvU2yAL._SL200_.jpg' ]
 comments: true
 category: ofertas

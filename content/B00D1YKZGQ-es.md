@@ -3,6 +3,7 @@ layout: post
 title: 'MyProtein Creapure Creatina Monohidrato  al 40.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xng7sNsmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xng7sNsmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xng7sNsmL._SL200_.jpg' ]
 comments: true
 category: ofertas

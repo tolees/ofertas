@@ -3,6 +3,7 @@ layout: post
 title: 'BaByliss F210E - Aparato de pedicura al 74.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-gW%2B2ZGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-gW%2B2ZGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-gW%2B2ZGL._SL200_.jpg' ]
 comments: true
 category: ofertas

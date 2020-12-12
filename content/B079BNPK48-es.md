@@ -3,6 +3,7 @@ layout: post
 title: 'ASSIST Cúter de Cuchillas Retractable  C al 75.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418DoIBjS2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418DoIBjS2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418DoIBjS2L._SL200_.jpg' ]
 comments: true
 category: ofertas

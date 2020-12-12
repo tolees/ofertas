@@ -3,6 +3,7 @@ layout: post
 title: 'Moleskine DHB12DC3Y19 - Diario 12m grand al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HPTgWtYRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HPTgWtYRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HPTgWtYRL._SL200_.jpg' ]
 comments: true
 category: ofertas

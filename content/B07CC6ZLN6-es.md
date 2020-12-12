@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans West Sir LS  Camiseta para Ho al 58.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PcLMoanrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PcLMoanrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PcLMoanrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Evara Sport 119 1 CMA  Zapatilla al 51.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s7k9-iAiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31s7k9-iAiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s7k9-iAiL._SL200_.jpg' ]
 comments: true
 category: ofertas

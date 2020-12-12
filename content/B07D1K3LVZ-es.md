@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gt-2000 6  Zapatillas de Entrenami al 48.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zl0wl0c7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zl0wl0c7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zl0wl0c7L._SL200_.jpg' ]
 comments: true
 category: ofertas

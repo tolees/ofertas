@@ -3,6 +3,7 @@ layout: post
 title: 'pediped Estella - Merceditas de sintétic al 69.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OpAjYTj3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OpAjYTj3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OpAjYTj3L._SL200_.jpg' ]
 comments: true
 category: ofertas

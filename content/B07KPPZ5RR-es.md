@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.08 % en Gant O1. TP Royal OXF Reg BD Camisa  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qZQpMCYjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qZQpMCYjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qZQpMCYjL._SL200_.jpg' ]
 comments: true
 category: ofertas

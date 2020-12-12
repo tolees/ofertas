@@ -3,6 +3,7 @@ layout: post
 title: 'Skagen Reloj Analógico para Mujer de Cua al 40.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ivh922zXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ivh922zXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ivh922zXL._SL200_.jpg' ]
 comments: true
 category: ofertas

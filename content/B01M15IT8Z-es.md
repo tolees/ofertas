@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.67 % en Sony CDX-G3200UV - Reproductor CD para C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TxSW%2BnIRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TxSW%2BnIRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TxSW%2BnIRL._SL200_.jpg' ]
 comments: true
 category: ofertas

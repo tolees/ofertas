@@ -3,6 +3,7 @@ layout: post
 title: 'Geox JR AXEL BOY A - Botas para niños  B al 75.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cVfOTKU4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cVfOTKU4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cVfOTKU4L._SL200_.jpg' ]
 comments: true
 category: ofertas

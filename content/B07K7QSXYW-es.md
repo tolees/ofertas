@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Royal Complete 2LL  Zapatillas de al 41.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Hs88bSg1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Hs88bSg1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Hs88bSg1L._SL200_.jpg' ]
 comments: true
 category: ofertas

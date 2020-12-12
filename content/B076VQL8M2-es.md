@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Threadborne Blur 3000008-3  al 54.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TDM5R4VXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TDM5R4VXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TDM5R4VXL._SL200_.jpg' ]
 comments: true
 category: ofertas

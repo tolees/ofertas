@@ -3,6 +3,7 @@ layout: post
 title: 'Regalos Cumpleaños Niños 3-12 años  DMba al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4164-N8kItL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4164-N8kItL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4164-N8kItL._SL200_.jpg' ]
 comments: true
 category: ofertas

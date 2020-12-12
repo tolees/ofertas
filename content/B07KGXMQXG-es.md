@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Nightcrawler Chaquetas  Hombre  T al 60.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PPkCIb1gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PPkCIb1gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PPkCIb1gL._SL200_.jpg' ]
 comments: true
 category: ofertas

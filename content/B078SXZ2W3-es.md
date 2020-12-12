@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon X-Mission 3  Zapatillas de Trail al 50.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wH%2B7yn2AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wH%2B7yn2AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wH%2B7yn2AL._SL200_.jpg' ]
 comments: true
 category: ofertas

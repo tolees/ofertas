@@ -3,6 +3,7 @@ layout: post
 title: 'poetryer Cama para Perros  Cama Gato Nid al 39.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FmlbfmrRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FmlbfmrRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FmlbfmrRL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Natec Genesis GX57 - Ratón láser  4000 d al 71.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-efpgbHLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-efpgbHLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-efpgbHLL._SL200_.jpg' ]
 comments: true
 category: ofertas

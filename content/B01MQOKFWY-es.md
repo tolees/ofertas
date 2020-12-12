@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Jeans Dora Canvas  Zapatill al 57.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W40%2BcvqqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W40%2BcvqqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W40%2BcvqqL._SL200_.jpg' ]
 comments: true
 category: ofertas

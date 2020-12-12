@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.89 % en Fendi Brillengestelle FF 0011 7SU/17-53-'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Wn0TxQ6fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21Wn0TxQ6fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Wn0TxQ6fL._SL200_.jpg' ]
 comments: true
 category: ofertas

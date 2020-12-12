@@ -3,6 +3,7 @@ layout: post
 title: 'Women s Secret Fe Geo Lace BB  Braguita  al 47.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419y8Mh6siL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419y8Mh6siL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419y8Mh6siL._SL200_.jpg' ]
 comments: true
 category: ofertas

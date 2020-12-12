@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Ignite 3/4 Tight Pants  Hombre  Bla al 55.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312q81LkTEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312q81LkTEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312q81LkTEL._SL200_.jpg' ]
 comments: true
 category: ofertas

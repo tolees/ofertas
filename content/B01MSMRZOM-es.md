@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi 25101  Botas Militar para Mu al 73.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516Ua6bpBYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516Ua6bpBYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516Ua6bpBYL._SL200_.jpg' ]
 comments: true
 category: ofertas

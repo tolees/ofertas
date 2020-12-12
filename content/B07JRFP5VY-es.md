@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.78 % en Máquina de Niebla  Amzdeal - Máquina de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ATOHyoq%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ATOHyoq%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ATOHyoq%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

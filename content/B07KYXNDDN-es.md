@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Copa 19.3 TF  Botas de fútbol par al 30.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cXjG2x%2BcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cXjG2x%2BcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cXjG2x%2BcL._SL200_.jpg' ]
 comments: true
 category: ofertas

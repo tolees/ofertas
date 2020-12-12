@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.56 % en Altavoz Bluetooth Portatil  COMISO Ture '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZsIb45-pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZsIb45-pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZsIb45-pL._SL200_.jpg' ]
 comments: true
 category: ofertas

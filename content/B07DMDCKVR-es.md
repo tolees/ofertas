@@ -3,6 +3,7 @@ layout: post
 title: 'LAUNCH CRP429 Herramienta Multimarca OBD al 54.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NwUQNzTCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NwUQNzTCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NwUQNzTCL._SL200_.jpg' ]
 comments: true
 category: ofertas

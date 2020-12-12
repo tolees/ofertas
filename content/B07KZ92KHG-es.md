@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.25 % en Enchufe wifi inteligente  Mini Smart plu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aTDAS59dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aTDAS59dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aTDAS59dL._SL200_.jpg' ]
 comments: true
 category: ofertas

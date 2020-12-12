@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 027eo1f001  Blusa Muje al 78.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oo7g4LMjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oo7g4LMjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oo7g4LMjL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.94 % en Munich Tiga Football  Zapatillas de Depo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vfHg5lJ9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vfHg5lJ9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vfHg5lJ9L._SL200_.jpg' ]
 comments: true
 category: ofertas

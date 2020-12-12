@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Gazelle J  Zapatillas Unisex Niño al 28.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ecASCTQWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ecASCTQWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ecASCTQWL._SL200_.jpg' ]
 comments: true
 category: ofertas

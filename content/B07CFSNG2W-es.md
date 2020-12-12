@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.48 % en Marco Tozzi 2-2-23722-31  Zapatillas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y5AY6TwyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y5AY6TwyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y5AY6TwyL._SL200_.jpg' ]
 comments: true
 category: ofertas

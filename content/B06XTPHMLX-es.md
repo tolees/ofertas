@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.45 % en Pepe Jeans Schank PM540960  Polo para Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xrRD0X2DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xrRD0X2DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xrRD0X2DL._SL200_.jpg' ]
 comments: true
 category: ofertas

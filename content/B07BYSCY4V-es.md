@@ -3,6 +3,7 @@ layout: post
 title: 'Sloggi Women Move Fly Capri  Ropa Interi al 82.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419oS2GG37L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419oS2GG37L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419oS2GG37L._SL200_.jpg' ]
 comments: true
 category: ofertas

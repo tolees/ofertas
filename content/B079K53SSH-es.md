@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.52 % en G-STAR RAW Rackam Scuba Wmn  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y6aDC0vKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31y6aDC0vKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y6aDC0vKL._SL200_.jpg' ]
 comments: true
 category: ofertas

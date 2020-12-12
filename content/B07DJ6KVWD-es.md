@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 373  Zapatillas Unisex Niños al 49.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BQhU-61TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BQhU-61TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BQhU-61TL._SL200_.jpg' ]
 comments: true
 category: ofertas

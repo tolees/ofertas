@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS Pique Polo T-Shirt  Hombre  Cot al 58.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vk3PqtgaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vk3PqtgaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vk3PqtgaL._SL200_.jpg' ]
 comments: true
 category: ofertas

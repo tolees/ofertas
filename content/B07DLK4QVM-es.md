@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.T.BS.Jegging Basic Vaquero al 61.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z-psBmfoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31z-psBmfoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z-psBmfoL._SL200_.jpg' ]
 comments: true
 category: ofertas

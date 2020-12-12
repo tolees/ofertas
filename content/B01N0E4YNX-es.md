@@ -3,6 +3,7 @@ layout: post
 title: 'Memoria flash Ultra 64GB USB Dual Drive  al 47.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Mk52OlJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419Mk52OlJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Mk52OlJL._SL200_.jpg' ]
 comments: true
 category: ofertas

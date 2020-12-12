@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Gaming PS4  [2019 Versión] E al 78.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qXwLLFSBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qXwLLFSBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qXwLLFSBL._SL200_.jpg' ]
 comments: true
 category: ofertas

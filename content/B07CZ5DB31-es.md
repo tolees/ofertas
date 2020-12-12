@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Nrgy Dynamo Futuro  Zapatillas de E al 46.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EsOuYG8EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EsOuYG8EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EsOuYG8EL._SL200_.jpg' ]
 comments: true
 category: ofertas

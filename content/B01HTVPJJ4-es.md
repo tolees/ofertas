@@ -3,6 +3,7 @@ layout: post
 title: 'edc by ESPRIT 996CC2J904  sudadera Hombr al 64.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512WNOrGV3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512WNOrGV3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512WNOrGV3L._SL200_.jpg' ]
 comments: true
 category: ofertas

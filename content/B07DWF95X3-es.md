@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.02 % en Call It Spring EU - Chrome  Bolsos totes'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uY-9agQ3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uY-9agQ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uY-9agQ3L._SL200_.jpg' ]
 comments: true
 category: ofertas

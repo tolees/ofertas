@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 98.30 % en iwill CREATE PRO Gran Bolsa de Almacenam'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jkv9J9g3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jkv9J9g3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jkv9J9g3L._SL200_.jpg' ]
 comments: true
 category: ofertas

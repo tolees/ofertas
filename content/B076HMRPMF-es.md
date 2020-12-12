@@ -3,6 +3,7 @@ layout: post
 title: 'adidas CORE18 Y Sweatshirt  Unisex Niños al 40.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iUM4dinSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iUM4dinSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iUM4dinSL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen W Blume Chaqueta  Mujer   V al 72.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TL5plEBXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TL5plEBXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TL5plEBXL._SL200_.jpg' ]
 comments: true
 category: ofertas

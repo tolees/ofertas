@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Vigor Mono  Zapatillas de Running p al 63.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NMbrSZnmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NMbrSZnmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NMbrSZnmL._SL200_.jpg' ]
 comments: true
 category: ofertas

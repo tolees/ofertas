@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.32 % en The North Face Jacket Chaqueta Trevail  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AhoMCdG0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AhoMCdG0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AhoMCdG0L._SL200_.jpg' ]
 comments: true
 category: ofertas

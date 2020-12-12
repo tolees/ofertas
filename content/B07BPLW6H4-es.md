@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver 24612-31  Mocasines para Mujer  al 60.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BW91JBJ7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BW91JBJ7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BW91JBJ7L._SL200_.jpg' ]
 comments: true
 category: ofertas

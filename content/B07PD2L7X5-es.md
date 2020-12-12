@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.74 % en Juguetes Baño Bebe  Tiburon Juguete Bañe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vmTF4p2XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vmTF4p2XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vmTF4p2XL._SL200_.jpg' ]
 comments: true
 category: ofertas

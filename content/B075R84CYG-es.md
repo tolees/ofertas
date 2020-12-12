@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.44 % en New Balance Country Spike  Zapatillas de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o%2Bh4aNuiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o%2Bh4aNuiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o%2Bh4aNuiL._SL200_.jpg' ]
 comments: true
 category: ofertas

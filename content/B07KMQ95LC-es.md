@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.22 % en Superdry Core Cargo Short Pantalones Cor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4105bWasO8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4105bWasO8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4105bWasO8L._SL200_.jpg' ]
 comments: true
 category: ofertas

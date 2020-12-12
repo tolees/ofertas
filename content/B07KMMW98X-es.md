@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.40 % en Roxy Feel Happy - Petate Deportivo Media'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ovJQmdvEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ovJQmdvEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ovJQmdvEL._SL200_.jpg' ]
 comments: true
 category: ofertas

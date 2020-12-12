@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Short Sleeve T-Shirt with  al 63.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M053JO0pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M053JO0pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M053JO0pL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Tom Tailor 5890101  Botines para Mujer   al 67.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HtVyt23AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HtVyt23AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HtVyt23AL._SL200_.jpg' ]
 comments: true
 category: ofertas

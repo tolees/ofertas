@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48161  Zapatos de Cordones Oxford pa al 45.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415ssil6rCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415ssil6rCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415ssil6rCL._SL200_.jpg' ]
 comments: true
 category: ofertas

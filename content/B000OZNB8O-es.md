@@ -3,6 +3,7 @@ layout: post
 title: 'Rotulador puntafina STABILO point 88 min al 27.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BEdFo3UzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BEdFo3UzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BEdFo3UzL._SL200_.jpg' ]
 comments: true
 category: ofertas

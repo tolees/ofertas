@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.71 % en LG 17MB15T-B - Monitor LCD de 17"  1280x'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31clNkleMEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31clNkleMEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31clNkleMEL._SL200_.jpg' ]
 comments: true
 category: ofertas

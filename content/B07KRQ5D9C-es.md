@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.12 % en Columbia Silver Ridge 2.0 Pantalón de Se'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vJw1cIiWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vJw1cIiWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vJw1cIiWL._SL200_.jpg' ]
 comments: true
 category: ofertas

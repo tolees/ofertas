@@ -3,6 +3,7 @@ layout: post
 title: 'Bluedio TM Auriculares Bluetooth 5.0 ina al 68.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vmqhLByIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vmqhLByIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vmqhLByIL._SL200_.jpg' ]
 comments: true
 category: ofertas

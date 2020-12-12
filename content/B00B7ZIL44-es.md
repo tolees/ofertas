@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.94 % en Schneider Electric A9E16067 - Rele tempo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rRCjv-JzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rRCjv-JzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rRCjv-JzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 490 Fotographic Camara 90 Ca al 57.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WcdXk1D3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WcdXk1D3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WcdXk1D3L._SL200_.jpg' ]
 comments: true
 category: ofertas

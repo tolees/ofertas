@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Men s Headline 3.0 Cap Gorr al 40.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Jk3HCbnQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Jk3HCbnQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Jk3HCbnQL._SL200_.jpg' ]
 comments: true
 category: ofertas

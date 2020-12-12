@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.66 % en X-bet MAGNET ™ - Imanes industriales de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512J0mN7qRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512J0mN7qRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512J0mN7qRL._SL200_.jpg' ]
 comments: true
 category: ofertas

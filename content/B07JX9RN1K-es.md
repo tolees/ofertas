@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 86080  Bolso Mochila para Mujer  Mar al 61.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SzJwIBhNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SzJwIBhNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SzJwIBhNL._SL200_.jpg' ]
 comments: true
 category: ofertas

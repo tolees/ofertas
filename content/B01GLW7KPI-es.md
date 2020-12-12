@@ -3,6 +3,7 @@ layout: post
 title: 'Twins Schlafstrampler Dino - Pijama para al 69.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R-mMKvVRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51R-mMKvVRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51R-mMKvVRL._SL200_.jpg' ]
 comments: true
 category: ofertas

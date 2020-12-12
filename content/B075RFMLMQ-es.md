@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.28 % en Double Agent 86884  Jersey para Mujer   '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S0BqM3S4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S0BqM3S4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S0BqM3S4L._SL200_.jpg' ]
 comments: true
 category: ofertas

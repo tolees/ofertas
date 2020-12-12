@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.91 % en RED WAGON Zapatillas Altas para Niños  V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411tSSQl4FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411tSSQl4FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411tSSQl4FL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Sailnovo Antorcha de jardín con 96 LED a al 83.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yHzRfKtzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yHzRfKtzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yHzRfKtzL._SL200_.jpg' ]
 comments: true
 category: ofertas

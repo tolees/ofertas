@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.13 % en Original Buff 113262.555.10.00 Tubular d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b7x1atT7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51b7x1atT7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b7x1atT7L._SL200_.jpg' ]
 comments: true
 category: ofertas

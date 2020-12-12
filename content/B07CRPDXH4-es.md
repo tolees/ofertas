@@ -3,6 +3,7 @@ layout: post
 title: 'MICAMAMELLAMA Colchón Viscoelástico VISC al 27.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4101Q9S8e9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4101Q9S8e9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4101Q9S8e9L._SL200_.jpg' ]
 comments: true
 category: ofertas

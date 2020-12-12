@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Flare Crop  Pantalones Vaqueros Aca al 54.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b3wklQeYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b3wklQeYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b3wklQeYL._SL200_.jpg' ]
 comments: true
 category: ofertas

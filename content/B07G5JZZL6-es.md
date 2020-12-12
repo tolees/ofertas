@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.79 % en Nike 932316 Camiseta  Negro 010  Medium '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xycwBm2HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xycwBm2HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xycwBm2HL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'HOMIEE Mochila para Pañales Multi-Funcio al 38.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lQ6N4eA%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lQ6N4eA%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lQ6N4eA%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

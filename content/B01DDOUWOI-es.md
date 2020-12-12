@@ -3,6 +3,7 @@ layout: post
 title: 'Fransa Diline 1 Cardigan  Chaqueta para  al 79.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BFcClxAdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BFcClxAdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BFcClxAdL._SL200_.jpg' ]
 comments: true
 category: ofertas

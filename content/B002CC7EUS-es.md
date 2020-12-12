@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.50 % en Nike - Zapatillas de baloncesto AIR FORC'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ukf9pvLVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ukf9pvLVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ukf9pvLVL._SL200_.jpg' ]
 comments: true
 category: ofertas

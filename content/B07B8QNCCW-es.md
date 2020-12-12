@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.22 % en Iris & Lilly Basic Printed Legging Pijam'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JVGA5yL%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JVGA5yL%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JVGA5yL%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

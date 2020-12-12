@@ -3,6 +3,7 @@ layout: post
 title: 'eleMar Tankini Bikini  Mujer  Negro  Sch al 83.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515KpvQ8ygL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515KpvQ8ygL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515KpvQ8ygL._SL200_.jpg' ]
 comments: true
 category: ofertas

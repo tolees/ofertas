@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS No.1 Leggings W Pants  Female   al 36.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uOZ2kK4xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uOZ2kK4xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uOZ2kK4xL._SL200_.jpg' ]
 comments: true
 category: ofertas

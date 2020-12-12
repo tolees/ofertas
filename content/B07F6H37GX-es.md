@@ -3,6 +3,7 @@ layout: post
 title: 'Nocilla  Chocolate para untar  Postres   al 28.47 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B07F6H37GX.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B07F6H37GX.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B07F6H37GX.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas REAL POWER ATTK LTD al 69.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h7n-8aOUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h7n-8aOUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h7n-8aOUL._SL200_.jpg' ]
 comments: true
 category: ofertas

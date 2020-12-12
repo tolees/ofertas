@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s  2 Pack Crew - Camiseta para Homb al 35.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fU5uBoUSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fU5uBoUSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fU5uBoUSL._SL200_.jpg' ]
 comments: true
 category: ofertas

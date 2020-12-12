@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.17 % en Portadocumentos para Viajes - IntiPal Bi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413u9fEiVwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413u9fEiVwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413u9fEiVwL._SL200_.jpg' ]
 comments: true
 category: ofertas

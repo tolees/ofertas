@@ -3,6 +3,7 @@ layout: post
 title: 'BRA Terra - Sartén 24 cm  aluminio fundi al 37.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DniYYsJ4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DniYYsJ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DniYYsJ4L._SL200_.jpg' ]
 comments: true
 category: ofertas

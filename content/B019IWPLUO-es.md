@@ -3,6 +3,7 @@ layout: post
 title: 'Mexx MX3021172 Women Dress - vestido Muj al 74.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ScuyL-9gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ScuyL-9gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ScuyL-9gL._SL200_.jpg' ]
 comments: true
 category: ofertas

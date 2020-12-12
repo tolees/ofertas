@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.42 % en New Balance Fresh Foam Arishi Luxe  Zapa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cz8y1vJaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cz8y1vJaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cz8y1vJaL._SL200_.jpg' ]
 comments: true
 category: ofertas

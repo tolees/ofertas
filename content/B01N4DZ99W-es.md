@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Driftline Polo  Polo para H al 60.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414d6B-uQVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414d6B-uQVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414d6B-uQVL._SL200_.jpg' ]
 comments: true
 category: ofertas

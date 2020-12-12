@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Berthow Logo Crew  Sudadera  V al 27.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b2lL6rLWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b2lL6rLWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b2lL6rLWL._SL200_.jpg' ]
 comments: true
 category: ofertas

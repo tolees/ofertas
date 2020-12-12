@@ -3,6 +3,7 @@ layout: post
 title: 'Rotary Reloj de Pulsera GB05017/04 al 52.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JK9sbf69L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JK9sbf69L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JK9sbf69L._SL200_.jpg' ]
 comments: true
 category: ofertas

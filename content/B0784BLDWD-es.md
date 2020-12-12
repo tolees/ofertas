@@ -3,6 +3,7 @@ layout: post
 title: 'Cuerda saltar ajustable Electro-weidewor al 52.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qP5yoB-FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qP5yoB-FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qP5yoB-FL._SL200_.jpg' ]
 comments: true
 category: ofertas

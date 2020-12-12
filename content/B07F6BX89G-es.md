@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.74 % en Geox J Kilwi Girl N  Zapatillas para Niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FxsvExqyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FxsvExqyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FxsvExqyL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Sloane Pm210564  Pantalones H al 61.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414lxF8UtKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414lxF8UtKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414lxF8UtKL._SL200_.jpg' ]
 comments: true
 category: ofertas

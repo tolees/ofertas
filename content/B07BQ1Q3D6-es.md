@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Banner tee  Camiseta para Hombre  Bl al 42.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TjorvWsRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TjorvWsRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TjorvWsRL._SL200_.jpg' ]
 comments: true
 category: ofertas

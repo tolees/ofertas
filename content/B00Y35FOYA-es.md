@@ -3,6 +3,7 @@ layout: post
 title: 'TANTRA  Wild Tshirt - Camiseta para Muje al 85.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YF7yPF1oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YF7yPF1oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YF7yPF1oL._SL200_.jpg' ]
 comments: true
 category: ofertas

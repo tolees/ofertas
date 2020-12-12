@@ -3,6 +3,7 @@ layout: post
 title: 'Adrianna Papell Vestido Negro ES 38  UK  al 86.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v3mahmsZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v3mahmsZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v3mahmsZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.69 % en Litchi Batidora de Mano 4 en 1 con Varil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yXIfFYJ0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yXIfFYJ0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yXIfFYJ0L._SL200_.jpg' ]
 comments: true
 category: ofertas

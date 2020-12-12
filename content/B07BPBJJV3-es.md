@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Greensboro Straight Leg 2 Vaque al 63.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mN9GsHDxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mN9GsHDxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mN9GsHDxL._SL200_.jpg' ]
 comments: true
 category: ofertas

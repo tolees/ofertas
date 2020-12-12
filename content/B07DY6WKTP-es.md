@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Mfo Training Verbiage 4 - C al 43.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Qovwi6ybL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Qovwi6ybL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Qovwi6ybL._SL200_.jpg' ]
 comments: true
 category: ofertas

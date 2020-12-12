@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.08 % en New Look 915 Jamie Oriental Vestido  Ver'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QBfl4xlkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QBfl4xlkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QBfl4xlkL._SL200_.jpg' ]
 comments: true
 category: ofertas

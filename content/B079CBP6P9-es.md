@@ -3,6 +3,7 @@ layout: post
 title: 'Paladone PP4140PS  Lámpara "PlayStation" al 37.19 % de descuento'
 date: 2020-12-11 22:45:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31eUAfuyDSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eUAfuyDSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31eUAfuyDSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -25,10 +26,10 @@ Está [Paladone PP4140PS  Lámpara "PlayStation"  Multicolor](https://www.amazon
 Principales características:
 
 - El embalaje puede variar de cualquier imagen mostrada
-- Cuenta con 3 modos; iluminación estándar, fase de color y música reactiva
 - Mercancía 100% con licencia oficial
-- Requiere 3 x pilas aaa (no incluidas)
 - Medidas aprox. 30cm (w) x 5.6cm (d) x 9.5cm (h)
+- Requiere 3 x pilas aaa (no incluidas)
+- Cuenta con 3 modos; iluminación estándar, fase de color y música reactiva
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079CBP6P9/?tag=tolees-21)
 

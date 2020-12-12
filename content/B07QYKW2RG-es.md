@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.52 % en Songlela Set de Botellas de Viaje de Sil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rIBqyP4zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rIBqyP4zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rIBqyP4zL._SL200_.jpg' ]
 comments: true
 category: ofertas

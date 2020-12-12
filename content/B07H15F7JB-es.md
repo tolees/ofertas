@@ -3,6 +3,7 @@ layout: post
 title: 'Dafor Riazor AG  Talla: 40  al 28.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417nfmqWq1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417nfmqWq1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417nfmqWq1L._SL200_.jpg' ]
 comments: true
 category: ofertas

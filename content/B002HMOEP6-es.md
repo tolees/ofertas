@@ -3,6 +3,7 @@ layout: post
 title: 'Bahco 808050L - Destornillador Carraca C al 66.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HYgR%2BX49L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HYgR%2BX49L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HYgR%2BX49L._SL200_.jpg' ]
 comments: true
 category: ofertas

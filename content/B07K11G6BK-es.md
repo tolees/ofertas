@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.24 % en Schneider Electric sc5st933u1 W - Alarga'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315jgInbXmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315jgInbXmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315jgInbXmL._SL200_.jpg' ]
 comments: true
 category: ofertas

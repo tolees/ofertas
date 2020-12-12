@@ -3,6 +3,7 @@ layout: post
 title: 'Maison & White Paquete de 4 cajones de c al 33.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319lNhtz9cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319lNhtz9cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319lNhtz9cL._SL200_.jpg' ]
 comments: true
 category: ofertas

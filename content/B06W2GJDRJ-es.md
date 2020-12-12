@@ -3,6 +3,7 @@ layout: post
 title: 'Corsair HX1200 - Fuente de Alimentación  al 34.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gTtXTyYLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gTtXTyYLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gTtXTyYLL._SL200_.jpg' ]
 comments: true
 category: ofertas

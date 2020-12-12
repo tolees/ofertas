@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 88.99 % en Sylvie Flirty Swimwear Brix  Parte de Ar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GAtRcZUxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GAtRcZUxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GAtRcZUxL._SL200_.jpg' ]
 comments: true
 category: ofertas

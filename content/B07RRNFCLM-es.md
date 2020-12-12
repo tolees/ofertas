@@ -3,6 +3,7 @@ layout: post
 title: 'SHOBDW Las Mujeres de Moda señora de la  al 75.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ULzdFgqGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ULzdFgqGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ULzdFgqGL._SL200_.jpg' ]
 comments: true
 category: ofertas

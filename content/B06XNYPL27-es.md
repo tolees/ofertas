@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.78 % en Joma Tenis 80 Polo  Mujer  Marino  L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-jGU2AhoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-jGU2AhoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-jGU2AhoL._SL200_.jpg' ]
 comments: true
 category: ofertas

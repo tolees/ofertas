@@ -3,6 +3,7 @@ layout: post
 title: 'Antena de TV  Antena Interior HDTV con A al 71.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o9rQbc17L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o9rQbc17L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o9rQbc17L._SL200_.jpg' ]
 comments: true
 category: ofertas

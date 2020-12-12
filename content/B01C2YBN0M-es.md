@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.65 % en Marvel Avengers Street Bolsa de Viaje  2'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61jR6VxVkFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61jR6VxVkFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61jR6VxVkFL._SL200_.jpg' ]
 comments: true
 category: ofertas

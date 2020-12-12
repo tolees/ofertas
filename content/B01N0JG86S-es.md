@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.06 % en GlobeEncore-2  Zapatillas de Skateboard '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418eHOqj4eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418eHOqj4eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418eHOqj4eL._SL200_.jpg' ]
 comments: true
 category: ofertas

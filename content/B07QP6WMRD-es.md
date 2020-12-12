@@ -3,6 +3,7 @@ layout: post
 title: 'GotechoD Desafío de la Gravedad Coche de al 66.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iOkiwRHhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iOkiwRHhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iOkiwRHhL._SL200_.jpg' ]
 comments: true
 category: ofertas

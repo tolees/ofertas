@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmnicky 3/4 Collar Wrap Top D2 al 55.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XLSLA3FuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XLSLA3FuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XLSLA3FuL._SL200_.jpg' ]
 comments: true
 category: ofertas

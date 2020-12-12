@@ -3,6 +3,7 @@ layout: post
 title: 'Camper Pursuit  Zapatillas para Niña  Ro al 63.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411wor9EfVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411wor9EfVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411wor9EfVL._SL200_.jpg' ]
 comments: true
 category: ofertas

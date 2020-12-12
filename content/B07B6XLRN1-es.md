@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Nitrel v2  Zapatillas de Run al 50.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bLSZQ8tzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bLSZQ8tzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bLSZQ8tzL._SL200_.jpg' ]
 comments: true
 category: ofertas

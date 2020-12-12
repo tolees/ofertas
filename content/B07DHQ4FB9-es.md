@@ -3,6 +3,7 @@ layout: post
 title: 'Sharplace Juguetes De Hojalata Vintage N al 44.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pL19Wga7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pL19Wga7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pL19Wga7L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.51 % en Mayoral 4434  Sudadera con Capucha para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ken4mk6bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ken4mk6bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ken4mk6bL._SL200_.jpg' ]
 comments: true
 category: ofertas

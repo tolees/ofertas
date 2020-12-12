@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.68 % en PETG 3D filament SUNLU 1.75mm 1KG 2.2lb '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NzI7wdTyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NzI7wdTyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NzI7wdTyL._SL200_.jpg' ]
 comments: true
 category: ofertas

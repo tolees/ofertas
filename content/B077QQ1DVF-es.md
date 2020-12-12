@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.61 % en CASTORLAND B-27453-1 Puzzle - Rompecabez'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61kLO03VnkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61kLO03VnkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61kLO03VnkL._SL200_.jpg' ]
 comments: true
 category: ofertas

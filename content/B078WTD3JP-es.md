@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.27 % en Cortefiel Camisa Lisa en Lino/Algodón Ca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NqFTEDUwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NqFTEDUwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NqFTEDUwL._SL200_.jpg' ]
 comments: true
 category: ofertas

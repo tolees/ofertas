@@ -3,6 +3,7 @@ layout: post
 title: 'Nike MD Runner 2 19  Zapatillas de Runni al 46.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417xcz3kQhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417xcz3kQhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417xcz3kQhL._SL200_.jpg' ]
 comments: true
 category: ofertas

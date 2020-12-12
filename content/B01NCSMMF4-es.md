@@ -3,6 +3,7 @@ layout: post
 title: 'FERM RSM1019 Sierra recíproca  710W  al 32.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BSYmlPTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BSYmlPTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BSYmlPTL._SL200_.jpg' ]
 comments: true
 category: ofertas

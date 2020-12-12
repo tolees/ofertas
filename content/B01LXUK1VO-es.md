@@ -3,6 +3,7 @@ layout: post
 title: 'DKNY Intimates Classic Lace  Sujetador E al 52.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lN3Xn00aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lN3Xn00aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lN3Xn00aL._SL200_.jpg' ]
 comments: true
 category: ofertas

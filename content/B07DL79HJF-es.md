@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Frq Gingham Melange  Camisa  al 72.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kvH8kzFrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kvH8kzFrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kvH8kzFrL._SL200_.jpg' ]
 comments: true
 category: ofertas

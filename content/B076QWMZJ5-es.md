@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.14 % en Under Armour UA Drift RN Mineral  Zapati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kN%2B3CmhlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kN%2B3CmhlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kN%2B3CmhlL._SL200_.jpg' ]
 comments: true
 category: ofertas

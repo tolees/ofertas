@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Elly  Vaqueros Slim  Mujer  Azul  Fr al 79.25 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

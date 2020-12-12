@@ -3,6 +3,7 @@ layout: post
 title: 'Mesko MS4403- Máquina de café al 39.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51k2Rz92pCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51k2Rz92pCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51k2Rz92pCL._SL200_.jpg' ]
 comments: true
 category: ofertas

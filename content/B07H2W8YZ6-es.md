@@ -3,6 +3,7 @@ layout: post
 title: 'Knorrtoys 68211 Stars White – Saco de As al 32.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QF%2B-zMUGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QF%2B-zMUGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QF%2B-zMUGL._SL200_.jpg' ]
 comments: true
 category: ofertas

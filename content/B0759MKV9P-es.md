@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.15 % en Asics Gel-Kayano 24  Zapatillas de Runni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GghbI%2BjTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GghbI%2BjTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GghbI%2BjTL._SL200_.jpg' ]
 comments: true
 category: ofertas

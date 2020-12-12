@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas X_PLR J  Zapatillas de Deporte Un al 57.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uAJr1WUKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uAJr1WUKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uAJr1WUKL._SL200_.jpg' ]
 comments: true
 category: ofertas

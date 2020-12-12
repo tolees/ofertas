@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Curreo II  Zapatillas de Running p al 30.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UmciikChL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UmciikChL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UmciikChL._SL200_.jpg' ]
 comments: true
 category: ofertas

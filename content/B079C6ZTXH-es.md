@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjebas tee SS U-Neck Noos C al 53.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316NdcRdRDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316NdcRdRDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316NdcRdRDL._SL200_.jpg' ]
 comments: true
 category: ofertas

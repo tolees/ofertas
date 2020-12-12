@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett Vaqueros Skinny  Negro  Bla al 75.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vyVp7zvmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vyVp7zvmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vyVp7zvmL._SL200_.jpg' ]
 comments: true
 category: ofertas

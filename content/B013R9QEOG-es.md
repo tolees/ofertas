@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Triplehall 4 0  Zapatillas de Run al 35.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4199m423pFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4199m423pFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4199m423pFL._SL200_.jpg' ]
 comments: true
 category: ofertas

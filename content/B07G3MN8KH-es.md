@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.84 % en Hurley M One&Only Box 2.0 Pullover Sudad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rRZrct00L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rRZrct00L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rRZrct00L._SL200_.jpg' ]
 comments: true
 category: ofertas

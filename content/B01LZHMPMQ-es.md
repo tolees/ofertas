@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Velvet Kimono Sleeve Playsuit   al 90.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zNfzkdA7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zNfzkdA7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zNfzkdA7L._SL200_.jpg' ]
 comments: true
 category: ofertas

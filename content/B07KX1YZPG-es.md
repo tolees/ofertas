@@ -3,6 +3,7 @@ layout: post
 title: 'find. Phrm3557 Jersey Premama Gris  Silv al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JGB%2BizzqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JGB%2BizzqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JGB%2BizzqL._SL200_.jpg' ]
 comments: true
 category: ofertas

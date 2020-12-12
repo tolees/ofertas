@@ -3,6 +3,7 @@ layout: post
 title: 'RFIVER Taburetes de Bar de PU con Ruedas al 71.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gdaC2t9cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gdaC2t9cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gdaC2t9cL._SL200_.jpg' ]
 comments: true
 category: ofertas

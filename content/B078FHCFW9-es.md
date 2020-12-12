@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.36 % en Beurer MG16 Universal Rojo  Color blanco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M69TyFKXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M69TyFKXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M69TyFKXL._SL200_.jpg' ]
 comments: true
 category: ofertas

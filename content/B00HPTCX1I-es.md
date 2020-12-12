@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Orange BO 0127/S HD 1NP Gafas de So al 65.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Mk11zOeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417Mk11zOeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Mk11zOeL._SL200_.jpg' ]
 comments: true
 category: ofertas

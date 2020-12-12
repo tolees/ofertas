@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.67 % en Reebok CL Leather MU  Zapatillas de Runn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31r8XeAGgqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31r8XeAGgqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31r8XeAGgqL._SL200_.jpg' ]
 comments: true
 category: ofertas

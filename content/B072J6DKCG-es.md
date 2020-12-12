@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.74 % en Puma Smash Sd  Zapatillas Unisex Adulto '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W2XjIQeDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W2XjIQeDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W2XjIQeDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.94 % en Philips HC9450/20 - Cortapelos con cuchi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ag4P2KBtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ag4P2KBtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ag4P2KBtL._SL200_.jpg' ]
 comments: true
 category: ofertas

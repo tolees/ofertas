@@ -3,6 +3,7 @@ layout: post
 title: 'CamelBak 1115404000 - Packs y bolsas de  al 30.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yopvCcgXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yopvCcgXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yopvCcgXL._SL200_.jpg' ]
 comments: true
 category: ofertas

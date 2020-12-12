@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.74 % en Springfield 6793754 Camisa  Mujer  Azul '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MYxAMVoHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MYxAMVoHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MYxAMVoHL._SL200_.jpg' ]
 comments: true
 category: ofertas

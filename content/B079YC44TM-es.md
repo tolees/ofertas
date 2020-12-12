@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.89 % en s.Oliver 5-5-23612-21 098  Zapatillas pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BGy9aLt-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BGy9aLt-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BGy9aLt-L._SL200_.jpg' ]
 comments: true
 category: ofertas

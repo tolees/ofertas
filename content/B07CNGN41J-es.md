@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.05 % en PUMA Liga Training Pants Pro Jr Pantalon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O5oTLLBpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31O5oTLLBpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O5oTLLBpL._SL200_.jpg' ]
 comments: true
 category: ofertas

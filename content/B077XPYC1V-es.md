@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.81 % en Under Armour Baseline FLC - Sudadera con'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rJ1-3zVmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rJ1-3zVmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rJ1-3zVmL._SL200_.jpg' ]
 comments: true
 category: ofertas

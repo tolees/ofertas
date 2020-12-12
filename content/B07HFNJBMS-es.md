@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Solid Texture Badge LS Re al 36.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Mp9AG4YpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Mp9AG4YpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Mp9AG4YpL._SL200_.jpg' ]
 comments: true
 category: ofertas

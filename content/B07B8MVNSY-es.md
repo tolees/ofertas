@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.04 % en Funda Impermeable  Funda Totalmente sell'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516UdRzOLjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516UdRzOLjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516UdRzOLjL._SL200_.jpg' ]
 comments: true
 category: ofertas

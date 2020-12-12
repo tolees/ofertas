@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.76 % en HP 22kd 21.5" - Monitor de 22    1920 x '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jzr7d0lvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jzr7d0lvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jzr7d0lvL._SL200_.jpg' ]
 comments: true
 category: ofertas

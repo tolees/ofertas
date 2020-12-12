@@ -3,6 +3,7 @@ layout: post
 title: 'adidas RUN70S  Zapatillas de Running par al 28.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i762m6ycL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i762m6ycL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i762m6ycL._SL200_.jpg' ]
 comments: true
 category: ofertas

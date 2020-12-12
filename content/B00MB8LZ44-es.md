@@ -3,6 +3,7 @@ layout: post
 title: 'Kenwood HDP308WH Batidora de brazo con a al 39.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pFS%2BSfSoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pFS%2BSfSoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pFS%2BSfSoL._SL200_.jpg' ]
 comments: true
 category: ofertas

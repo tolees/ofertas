@@ -3,6 +3,7 @@ layout: post
 title: 'Morgan Top  Camiseta para Mujer  Gris Ac al 55.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n8gCsBC3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n8gCsBC3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n8gCsBC3L._SL200_.jpg' ]
 comments: true
 category: ofertas

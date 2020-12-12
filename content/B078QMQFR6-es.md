@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.58 % en The North Face Kids TNF Chaquetas  Niñas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-x3c9TeeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-x3c9TeeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-x3c9TeeL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'URCERI Lijadora Eléctrica Orbital de 5 p al 32.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Jz1icNNFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Jz1icNNFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Jz1icNNFL._SL200_.jpg' ]
 comments: true
 category: ofertas

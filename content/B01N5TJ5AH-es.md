@@ -3,6 +3,7 @@ layout: post
 title: 'Ballistix Sport LT BLS2C8G4D26BFSEK/BLS2 al 39.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gmAwMOskL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gmAwMOskL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gmAwMOskL._SL200_.jpg' ]
 comments: true
 category: ofertas

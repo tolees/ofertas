@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.83 % en Transmisor FM Bluetooth  Cocoda Adaptado'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mNVf47QuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mNVf47QuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mNVf47QuL._SL200_.jpg' ]
 comments: true
 category: ofertas

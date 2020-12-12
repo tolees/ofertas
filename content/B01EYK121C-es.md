@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Modern Western  Blusa para Mujer  al 46.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4102bv4y%2BcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4102bv4y%2BcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4102bv4y%2BcL._SL200_.jpg' ]
 comments: true
 category: ofertas

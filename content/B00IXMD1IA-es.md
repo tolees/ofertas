@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Victory 9016S13 Sudadera  Niños  Na al 57.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qr3QRM9CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qr3QRM9CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qr3QRM9CL._SL200_.jpg' ]
 comments: true
 category: ofertas

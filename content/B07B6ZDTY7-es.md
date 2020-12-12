@@ -3,6 +3,7 @@ layout: post
 title: 'Nestlé Yogolino Postre lácteo Bolsitas c al 30.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t7Cj3AxCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51t7Cj3AxCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t7Cj3AxCL._SL200_.jpg' ]
 comments: true
 category: ofertas

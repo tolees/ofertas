@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.27 % en Louviva Masajeador Portátil Eléctrica Re'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vwr9pKDfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vwr9pKDfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vwr9pKDfL._SL200_.jpg' ]
 comments: true
 category: ofertas

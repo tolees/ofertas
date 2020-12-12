@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.84 % en Reebok Road Supreme  Zapatillas de Entre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w2G2aS7kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w2G2aS7kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w2G2aS7kL._SL200_.jpg' ]
 comments: true
 category: ofertas

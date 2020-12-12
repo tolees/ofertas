@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Moleskine DPE12WN2Y19 - Libreta semanal '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mHrBZ7nvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mHrBZ7nvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mHrBZ7nvL._SL200_.jpg' ]
 comments: true
 category: ofertas

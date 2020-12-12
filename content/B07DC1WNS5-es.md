@@ -3,6 +3,7 @@ layout: post
 title: 'Puma St Runner V2 Nl  Zapatillas de Cros al 42.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DE-69eYQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DE-69eYQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DE-69eYQL._SL200_.jpg' ]
 comments: true
 category: ofertas

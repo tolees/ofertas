@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.33 % en Garnier Original Remedies Mascarilla Tes'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZxrREyEGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZxrREyEGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZxrREyEGL._SL200_.jpg' ]
 comments: true
 category: ofertas

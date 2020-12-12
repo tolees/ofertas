@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.98 % en Volcom stence BSC SS - Camiseta  Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iO1sIlZBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iO1sIlZBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iO1sIlZBL._SL200_.jpg' ]
 comments: true
 category: ofertas

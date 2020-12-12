@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.78 % en Diesel 00SMNQ Bañador  Hombre  Negro  Bl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413z9G-fs1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413z9G-fs1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413z9G-fs1L._SL200_.jpg' ]
 comments: true
 category: ofertas

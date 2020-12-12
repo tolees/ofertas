@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.72 % en Pistola de Aire Caliente 2000W 2 Tempera'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yX5oV5rxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yX5oV5rxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yX5oV5rxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Suede Bow Hexamesh Wn s  Zapatillas al 77.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EfRdJOlWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EfRdJOlWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EfRdJOlWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera 113-S-003-HD  Gafas de sol Unise al 66.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GM76miOXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GM76miOXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GM76miOXL._SL200_.jpg' ]
 comments: true
 category: ofertas

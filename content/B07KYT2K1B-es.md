@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel C0Cbb Americana Punto Piqué  A al 59.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wQzUNGqEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wQzUNGqEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wQzUNGqEL._SL200_.jpg' ]
 comments: true
 category: ofertas

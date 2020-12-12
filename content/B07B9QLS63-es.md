@@ -3,6 +3,7 @@ layout: post
 title: 'Versa 20270208 Sujetapuertas Cactus Tela al 25.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gHp2E2P6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gHp2E2P6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gHp2E2P6L._SL200_.jpg' ]
 comments: true
 category: ofertas

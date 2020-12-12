@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Suede Heart EP  Zapatillas para Muj al 71.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aPw6qhwNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aPw6qhwNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aPw6qhwNL._SL200_.jpg' ]
 comments: true
 category: ofertas

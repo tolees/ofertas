@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.09 % en Skechers Delson-Clenton  Zapatos de Cord'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RBkAizbfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RBkAizbfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RBkAizbfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Silverline 273220 - Juego de coronas bim al 30.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515DHnpcU4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515DHnpcU4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515DHnpcU4L._SL200_.jpg' ]
 comments: true
 category: ofertas

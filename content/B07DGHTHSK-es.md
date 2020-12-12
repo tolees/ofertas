@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Crisis High Winter  Zapatillas  al 70.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O0%2BHjpQ5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O0%2BHjpQ5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O0%2BHjpQ5L._SL200_.jpg' ]
 comments: true
 category: ofertas

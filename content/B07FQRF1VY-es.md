@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjemark Knit Crew Neck Noos al 78.54 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

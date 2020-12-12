@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.77 % en The North Face Maleta  53 cm  40 litros '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21W6ris5BbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21W6ris5BbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21W6ris5BbL._SL200_.jpg' ]
 comments: true
 category: ofertas

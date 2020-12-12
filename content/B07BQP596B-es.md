@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.53 % en LOHAS Home 23 cm Reloj de Pared de Cuarz'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ih3qv-HjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ih3qv-HjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ih3qv-HjL._SL200_.jpg' ]
 comments: true
 category: ofertas

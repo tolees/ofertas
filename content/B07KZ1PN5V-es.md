@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.T.Ap.Asas Cadena Azul  Car al 65.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lKzwgfK9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lKzwgfK9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lKzwgfK9L._SL200_.jpg' ]
 comments: true
 category: ofertas

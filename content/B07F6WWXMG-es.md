@@ -3,6 +3,7 @@ layout: post
 title: 'Nike M NK Dry Leg Camo SWSH Camiseta  Ho al 40.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41px3v2V48L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41px3v2V48L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41px3v2V48L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Sports 028ei1g001  Chaqueta Mujer al 81.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cWB25Mc8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cWB25Mc8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cWB25Mc8L._SL200_.jpg' ]
 comments: true
 category: ofertas

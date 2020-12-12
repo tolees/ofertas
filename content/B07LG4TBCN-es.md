@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Digital Calendario LCD. al 33.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eVVlxA%2BaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eVVlxA%2BaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eVVlxA%2BaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Parrot AR.Drone 2.0 Elite Edition Jungle al 74.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gUoRsawiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gUoRsawiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gUoRsawiL._SL200_.jpg' ]
 comments: true
 category: ofertas

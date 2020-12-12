@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 69819  Botines para Mujer  Blanc al 65.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kUC4fUyvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kUC4fUyvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kUC4fUyvL._SL200_.jpg' ]
 comments: true
 category: ofertas

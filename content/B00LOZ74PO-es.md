@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Full Stone Calcetines  Hombre  Bl al 39.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319DCOx7B-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319DCOx7B-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319DCOx7B-L._SL200_.jpg' ]
 comments: true
 category: ofertas

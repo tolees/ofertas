@@ -3,6 +3,7 @@ layout: post
 title: 'Aigostar Rob 30IGQ - Hervidor de agua de al 41.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nGrxVSZUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nGrxVSZUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nGrxVSZUL._SL200_.jpg' ]
 comments: true
 category: ofertas

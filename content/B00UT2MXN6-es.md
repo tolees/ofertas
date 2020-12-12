@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Cotton Pant Iconic - Pant al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vH2zjP1%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vH2zjP1%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vH2zjP1%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

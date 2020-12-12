@@ -3,6 +3,7 @@ layout: post
 title: 'Cressi XDB100011 Gafas de Sol  Unisex Ad al 25.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4177QH3%2B92L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4177QH3%2B92L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4177QH3%2B92L._SL200_.jpg' ]
 comments: true
 category: ofertas

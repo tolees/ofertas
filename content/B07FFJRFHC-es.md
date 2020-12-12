@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2790-suew  Zapatillas de Gimnasi al 43.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41icujM4CiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41icujM4CiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41icujM4CiL._SL200_.jpg' ]
 comments: true
 category: ofertas

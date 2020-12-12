@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6.J.Ap.T.Studs All Granat Je al 63.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pN1VIG%2BPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pN1VIG%2BPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pN1VIG%2BPL._SL200_.jpg' ]
 comments: true
 category: ofertas

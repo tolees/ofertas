@@ -3,6 +3,7 @@ layout: post
 title: 'LENBEST Máscara de Buceo  Máscara de Sno al 41.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XcOJLgtFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XcOJLgtFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XcOJLgtFL._SL200_.jpg' ]
 comments: true
 category: ofertas

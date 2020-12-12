@@ -3,6 +3,7 @@ layout: post
 title: 'Ant-Man - Edición Coleccionista [Blu-ray al 29.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D5%2B2t%2B4uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51D5%2B2t%2B4uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D5%2B2t%2B4uL._SL200_.jpg' ]
 comments: true
 category: ofertas

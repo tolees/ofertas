@@ -3,6 +3,7 @@ layout: post
 title: 'Grohe 23355000 StartLoop monomando baño  al 43.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LNf-x9H2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LNf-x9H2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LNf-x9H2L._SL200_.jpg' ]
 comments: true
 category: ofertas

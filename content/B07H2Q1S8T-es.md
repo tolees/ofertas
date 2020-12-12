@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.90 % en Echo Dot  3.ª generación   tela de color'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v1MN-MXdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v1MN-MXdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v1MN-MXdL._SL200_.jpg' ]
 comments: true
 category: ofertas

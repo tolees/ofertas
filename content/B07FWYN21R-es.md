@@ -3,6 +3,7 @@ layout: post
 title: 'Luces Solares Jardín LED Hovast [10 Paqu al 57.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415O4wTwLLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415O4wTwLLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415O4wTwLLL._SL200_.jpg' ]
 comments: true
 category: ofertas

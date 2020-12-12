@@ -3,6 +3,7 @@ layout: post
 title: 'HOM Exotic #2 Boxer Briefs Ho1 Pack X 2  al 47.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yd3WRcRUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yd3WRcRUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yd3WRcRUL._SL200_.jpg' ]
 comments: true
 category: ofertas

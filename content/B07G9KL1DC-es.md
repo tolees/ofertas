@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 118ee2i013  suéter Hombre  Blanco al 81.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41awPmZyIQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41awPmZyIQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41awPmZyIQL._SL200_.jpg' ]
 comments: true
 category: ofertas

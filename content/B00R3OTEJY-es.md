@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en PDP - Cargador Energizer 2 Mandos  Color'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VjhLvkzgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VjhLvkzgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VjhLvkzgL._SL200_.jpg' ]
 comments: true
 category: ofertas

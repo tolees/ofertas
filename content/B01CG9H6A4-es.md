@@ -3,6 +3,7 @@ layout: post
 title: 'Panasonic MJ-L500NXE - Exprimidor de vel al 42.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zirIN949L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zirIN949L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zirIN949L._SL200_.jpg' ]
 comments: true
 category: ofertas

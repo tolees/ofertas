@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy Costas  Zapatos de Playa y Piscina  al 50.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H4Tu6WHCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H4Tu6WHCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H4Tu6WHCL._SL200_.jpg' ]
 comments: true
 category: ofertas

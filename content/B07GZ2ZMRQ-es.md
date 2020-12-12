@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en  Grundig DTR 5000 2.0 BT Dab + Web All-i'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EqDZCHu0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EqDZCHu0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EqDZCHu0L._SL200_.jpg' ]
 comments: true
 category: ofertas

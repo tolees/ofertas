@@ -3,6 +3,7 @@ layout: post
 title: 'Optimum Nutrition Serious Mass Ganador   al 41.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zYX4VumAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zYX4VumAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zYX4VumAL._SL200_.jpg' ]
 comments: true
 category: ofertas

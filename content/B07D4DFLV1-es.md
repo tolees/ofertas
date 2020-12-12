@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.01 % en Guirnaldas de Luces Solar LED 30 Farolil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512uSj%2BZvML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512uSj%2BZvML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512uSj%2BZvML._SL200_.jpg' ]
 comments: true
 category: ofertas

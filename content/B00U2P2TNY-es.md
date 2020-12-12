@@ -3,6 +3,7 @@ layout: post
 title: 'Kit inicial recién nacido Medela con com al 49.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xxftafsWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xxftafsWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xxftafsWL._SL200_.jpg' ]
 comments: true
 category: ofertas

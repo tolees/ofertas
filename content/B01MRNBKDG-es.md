@@ -3,6 +3,7 @@ layout: post
 title: 'Kaspersky Small Office Security - Softwa al 46.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uEPwF0c-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uEPwF0c-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uEPwF0c-L._SL200_.jpg' ]
 comments: true
 category: ofertas

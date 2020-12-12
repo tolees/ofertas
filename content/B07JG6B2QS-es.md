@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.40 % en Puma Axis Plus 90s  Zapatillas de Deport'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411e7JFckTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411e7JFckTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411e7JFckTL._SL200_.jpg' ]
 comments: true
 category: ofertas

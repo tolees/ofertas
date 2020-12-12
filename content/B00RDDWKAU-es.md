@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.62 % en Negro y Blanco ferocidad tigre con ojos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61u%2BjnWn7iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61u%2BjnWn7iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61u%2BjnWn7iL._SL200_.jpg' ]
 comments: true
 category: ofertas

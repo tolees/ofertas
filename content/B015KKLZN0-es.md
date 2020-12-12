@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.86 % en Kappa Sunrise Light  Zapatillas Unisex A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41acZDEhI0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41acZDEhI0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41acZDEhI0L._SL200_.jpg' ]
 comments: true
 category: ofertas

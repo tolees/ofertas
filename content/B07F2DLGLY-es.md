@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.31 % en Puma One 5 – Espinilleras  otoño/Inviern'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n2kBfOPoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n2kBfOPoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n2kBfOPoL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.97 % en XTI 49105  Sandalias con Plataforma para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QGK1-QpoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QGK1-QpoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QGK1-QpoL._SL200_.jpg' ]
 comments: true
 category: ofertas

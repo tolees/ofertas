@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Bh3330 Chaqueta  Rojo Rouge-Mari al 43.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TR8Rt1lAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TR8Rt1lAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TR8Rt1lAL._SL200_.jpg' ]
 comments: true
 category: ofertas

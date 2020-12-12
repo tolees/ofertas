@@ -3,6 +3,7 @@ layout: post
 title: 'JOGVELO Guantes Ciclismo  Guantes MTB Co al 46.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MQBrQ4xCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MQBrQ4xCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MQBrQ4xCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pikolin Home - Protector de colchón/Cubr al 37.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yPn-zeLFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yPn-zeLFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yPn-zeLFL._SL200_.jpg' ]
 comments: true
 category: ofertas

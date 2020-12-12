@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.06 % en BILLABONG Eye Sea Sky Camiseta de Manga '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V1llTvemL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V1llTvemL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V1llTvemL._SL200_.jpg' ]
 comments: true
 category: ofertas

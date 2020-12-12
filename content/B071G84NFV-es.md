@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver 26245  Botas Militar para Mujer al 67.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iUt%2BO5ndL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iUt%2BO5ndL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iUt%2BO5ndL._SL200_.jpg' ]
 comments: true
 category: ofertas

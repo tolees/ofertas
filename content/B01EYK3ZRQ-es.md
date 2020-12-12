@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Sunset 1 Pocket  Camisa Casual Pa al 68.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5199N7avJ4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5199N7avJ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5199N7avJ4L._SL200_.jpg' ]
 comments: true
 category: ofertas

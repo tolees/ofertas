@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.16 % en Tally Weijl Sudadera SSWCOGOOD Arena M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BfoMIuxCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BfoMIuxCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BfoMIuxCL._SL200_.jpg' ]
 comments: true
 category: ofertas

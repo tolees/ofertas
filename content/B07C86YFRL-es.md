@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.75 % en Fly London Afem366fly  Mocasines para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31G8-z5tyuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31G8-z5tyuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31G8-z5tyuL._SL200_.jpg' ]
 comments: true
 category: ofertas

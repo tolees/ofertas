@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Serena Slide Women  Sandalias de P al 35.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21xKm7hSoXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21xKm7hSoXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21xKm7hSoXL._SL200_.jpg' ]
 comments: true
 category: ofertas

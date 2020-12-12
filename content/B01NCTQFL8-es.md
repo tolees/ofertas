@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.36 % en Curcumina Optimizada Longvida 500 mg  al'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ggt70DRCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ggt70DRCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ggt70DRCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Aerobounce ST w  Zapatillas de Tr al 70.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CfTGPccXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CfTGPccXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CfTGPccXL._SL200_.jpg' ]
 comments: true
 category: ofertas

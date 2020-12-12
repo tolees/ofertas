@@ -3,6 +3,7 @@ layout: post
 title: 'Yep by Jonak Aceline - Bailarinas para n al 79.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MSpNWW56L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MSpNWW56L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MSpNWW56L._SL200_.jpg' ]
 comments: true
 category: ofertas

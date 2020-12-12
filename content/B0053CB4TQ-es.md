@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.72 % en Celda 211  Caja métalica  [DVD]'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318QxmPYYVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318QxmPYYVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318QxmPYYVL._SL200_.jpg' ]
 comments: true
 category: ofertas

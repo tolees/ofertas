@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Malene  camisa Mujer  Multico al 56.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IHPk5nscL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IHPk5nscL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IHPk5nscL._SL200_.jpg' ]
 comments: true
 category: ofertas

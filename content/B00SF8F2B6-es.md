@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR Revend Super Slim  - Slander indi al 30.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I%2BKRo2FIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I%2BKRo2FIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I%2BKRo2FIL._SL200_.jpg' ]
 comments: true
 category: ofertas

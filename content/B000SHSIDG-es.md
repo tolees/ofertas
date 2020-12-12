@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.66 % en Rexel Office Pencil - Pack de 144 lápice'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5151mZ4wvxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5151mZ4wvxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5151mZ4wvxL._SL200_.jpg' ]
 comments: true
 category: ofertas

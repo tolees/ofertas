@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.88 % en Bourjois Effect 3d Gloss Gloss Tono 20 R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dekm1MTbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dekm1MTbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dekm1MTbL._SL200_.jpg' ]
 comments: true
 category: ofertas

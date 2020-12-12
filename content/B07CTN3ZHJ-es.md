@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Aura Trainer  Zapatillas De al 44.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Dx47vVsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419Dx47vVsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Dx47vVsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Apli 04128 - Papel Apli camisetas blanca al 38.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bMGwaJpnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bMGwaJpnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bMGwaJpnL._SL200_.jpg' ]
 comments: true
 category: ofertas

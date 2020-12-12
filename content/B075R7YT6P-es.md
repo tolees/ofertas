@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fresh Foam Cruz v2  Zapatill al 66.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z8LLB2XML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z8LLB2XML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z8LLB2XML._SL200_.jpg' ]
 comments: true
 category: ofertas

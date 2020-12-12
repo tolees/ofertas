@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.28 % en Sculpby Rizador - 1600 gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315iWepjS4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315iWepjS4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315iWepjS4L._SL200_.jpg' ]
 comments: true
 category: ofertas

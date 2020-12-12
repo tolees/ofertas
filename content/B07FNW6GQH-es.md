@@ -3,6 +3,7 @@ layout: post
 title: 'Buff Block Camo Cinta Windproof L/XL  Mu al 62.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OWrW6fpAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OWrW6fpAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OWrW6fpAL._SL200_.jpg' ]
 comments: true
 category: ofertas

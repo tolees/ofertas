@@ -3,6 +3,7 @@ layout: post
 title: 'Somatoline Detox Reductor Noche - 400 ml al 66.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NpFYaWg9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NpFYaWg9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NpFYaWg9L._SL200_.jpg' ]
 comments: true
 category: ofertas

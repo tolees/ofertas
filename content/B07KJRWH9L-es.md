@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY M4953p.000.71670 Camisa   White/L al 76.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41it01dQrDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41it01dQrDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41it01dQrDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.37 % en Adidas Supernova W  Zapatillas de Trail '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ho4yALCEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ho4yALCEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ho4yALCEL._SL200_.jpg' ]
 comments: true
 category: ofertas

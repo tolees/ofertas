@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.56 % en TFA 40.2003 Neptun - Termómetro para pis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kXjgYLNuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kXjgYLNuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kXjgYLNuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 127cc1k093 Camiseta  Blanc al 57.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KfDqq8QNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KfDqq8QNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KfDqq8QNL._SL200_.jpg' ]
 comments: true
 category: ofertas

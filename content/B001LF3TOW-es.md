@@ -3,6 +3,7 @@ layout: post
 title: 'Clatronic MWG 775 H Microondas con grill al 27.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aZzV15esL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aZzV15esL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aZzV15esL._SL200_.jpg' ]
 comments: true
 category: ofertas

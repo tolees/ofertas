@@ -3,6 +3,7 @@ layout: post
 title: 'Tuc Tuc People - Peluche suave para niña al 47.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h40Xz3PrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h40Xz3PrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h40Xz3PrL._SL200_.jpg' ]
 comments: true
 category: ofertas

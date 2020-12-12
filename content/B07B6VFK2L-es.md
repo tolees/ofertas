@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.28 % en Nestlé Naturnes Bio Bolsita de puré de P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ORmfMBAmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ORmfMBAmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ORmfMBAmL._SL200_.jpg' ]
 comments: true
 category: ofertas

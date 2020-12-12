@@ -3,6 +3,7 @@ layout: post
 title: 'Onkyo LS5200-W - Conjunto de Altavoces   al 53.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AiN7fYJdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AiN7fYJdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AiN7fYJdL._SL200_.jpg' ]
 comments: true
 category: ofertas

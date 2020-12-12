@@ -3,6 +3,7 @@ layout: post
 title: 'NEEGO Alfombra de Playa Anti-arena 195x1 al 46.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414GU4WEtSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414GU4WEtSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414GU4WEtSL._SL200_.jpg' ]
 comments: true
 category: ofertas

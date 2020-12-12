@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.19 % en XTI 49073  Sandalias con Plataforma para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LHE9cIJGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LHE9cIJGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LHE9cIJGL._SL200_.jpg' ]
 comments: true
 category: ofertas

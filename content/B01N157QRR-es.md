@@ -3,6 +3,7 @@ layout: post
 title: 'Tazón Olla Harry Potter al 72.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S1Wwo%2BE%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S1Wwo%2BE%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S1Wwo%2BE%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

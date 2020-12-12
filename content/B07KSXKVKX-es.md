@@ -3,6 +3,7 @@ layout: post
 title: 'X96 MAX TV Box Android 8.1 RAM 2GB + ROM al 55.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P4c7IbTSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P4c7IbTSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P4c7IbTSL._SL200_.jpg' ]
 comments: true
 category: ofertas

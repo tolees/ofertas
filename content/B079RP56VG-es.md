@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.28 % en Trineo Sensory PARQUET SO50PAR'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aW4uLFDrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aW4uLFDrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aW4uLFDrL._SL200_.jpg' ]
 comments: true
 category: ofertas

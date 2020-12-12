@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.32 % en Puma Esito 4 Polo  Hombre  Esito 4 Polo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412kDDxrliL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412kDDxrliL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412kDDxrliL._SL200_.jpg' ]
 comments: true
 category: ofertas

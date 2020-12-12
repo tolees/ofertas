@@ -3,6 +3,7 @@ layout: post
 title: 'PodoWell Patrouille  Zapatillas Unisex A al 45.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KIFyOw6uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KIFyOw6uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KIFyOw6uL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.15 % en Geox Donna Brogue B  Zapatos de Cordones'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31U0JSo6h6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31U0JSo6h6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31U0JSo6h6L._SL200_.jpg' ]
 comments: true
 category: ofertas

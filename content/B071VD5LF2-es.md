@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.65 % en Johnson s Vita-Rich Revitalizante Uvas L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MOpBgsKvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MOpBgsKvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MOpBgsKvL._SL200_.jpg' ]
 comments: true
 category: ofertas

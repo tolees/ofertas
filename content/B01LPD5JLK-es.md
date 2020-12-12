@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.00 % en Under Armour UA CF Force 3.0 FG Jr  Zapa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BDD%2BrViEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BDD%2BrViEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BDD%2BrViEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.70 % en Bosch GDR 12V-105 Professional - Atornil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i9cHHxEJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i9cHHxEJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i9cHHxEJL._SL200_.jpg' ]
 comments: true
 category: ofertas

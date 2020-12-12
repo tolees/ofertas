@@ -3,6 +3,7 @@ layout: post
 title: 'Siemens VS06B112A - Aspirador con bolsa  al 34.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B3IuwagzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B3IuwagzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B3IuwagzL._SL200_.jpg' ]
 comments: true
 category: ofertas

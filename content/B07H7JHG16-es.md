@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.72 % en Asics Light Stretch Woven Colour Blockin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZlBh7GKGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZlBh7GKGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZlBh7GKGL._SL200_.jpg' ]
 comments: true
 category: ofertas

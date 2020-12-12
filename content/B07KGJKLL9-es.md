@@ -3,6 +3,7 @@ layout: post
 title: 'Buff Rinmann Sombrero Travel Bucket  Uni al 45.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Jm4vF9XcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Jm4vF9XcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Jm4vF9XcL._SL200_.jpg' ]
 comments: true
 category: ofertas

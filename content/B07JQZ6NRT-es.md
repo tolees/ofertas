@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Court Stabil Jr Zapatillas de Bal al 49.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gU%2BaSS2xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gU%2BaSS2xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gU%2BaSS2xL._SL200_.jpg' ]
 comments: true
 category: ofertas

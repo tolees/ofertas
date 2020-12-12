@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.08 % en Puma Minions Backpack  Unisex niños  Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oh945OrEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oh945OrEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oh945OrEL._SL200_.jpg' ]
 comments: true
 category: ofertas

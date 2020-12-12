@@ -3,6 +3,7 @@ layout: post
 title: 'oodji Ultra Mujer Jersey Estampado de Ma al 48.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EkVC8zdXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EkVC8zdXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EkVC8zdXL._SL200_.jpg' ]
 comments: true
 category: ofertas

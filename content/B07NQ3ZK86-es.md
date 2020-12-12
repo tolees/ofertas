@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.52 % en Bombilla LED GU5.3 MR16 12V 5W Blanco Ca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-Mo2B5hqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-Mo2B5hqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-Mo2B5hqL._SL200_.jpg' ]
 comments: true
 category: ofertas

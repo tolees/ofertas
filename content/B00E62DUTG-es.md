@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Sonicare Diamond Clean HX9352/04 al 31.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411LJ6Buo%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411LJ6Buo%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411LJ6Buo%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

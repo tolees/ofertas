@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour HG Armour 2.0 Comp Short Pa al 30.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VBXQo1baL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VBXQo1baL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VBXQo1baL._SL200_.jpg' ]
 comments: true
 category: ofertas

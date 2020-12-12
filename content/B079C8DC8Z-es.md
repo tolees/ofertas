@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjepaulos Polo SS Noos  Roj al 42.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410X9xKsF5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410X9xKsF5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410X9xKsF5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.82 % en Clarks Bay Primrose  Sandalia con Pulser'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31E8H5vwa6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31E8H5vwa6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31E8H5vwa6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.68 % en El Ganso Caja Alta  Pantalones Para Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MD1zS7b-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MD1zS7b-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MD1zS7b-L._SL200_.jpg' ]
 comments: true
 category: ofertas

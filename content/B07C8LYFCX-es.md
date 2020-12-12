@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.79 % en Arnette 0AN4227 01/22 57 Gafas de sol Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31I5qehBmVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31I5qehBmVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31I5qehBmVL._SL200_.jpg' ]
 comments: true
 category: ofertas

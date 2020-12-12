@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.12 % en Skechers Performance Go Run-Mojo  Zapati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41btJhLApBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41btJhLApBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41btJhLApBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Whistler Geo tee Camiseta  Rosa al 36.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wEn0W0GbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wEn0W0GbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wEn0W0GbL._SL200_.jpg' ]
 comments: true
 category: ofertas

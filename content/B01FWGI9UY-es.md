@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi 25340  Botas Chelsea para Mu al 67.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tVWUyGopL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tVWUyGopL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tVWUyGopL._SL200_.jpg' ]
 comments: true
 category: ofertas

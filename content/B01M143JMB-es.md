@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.20 % en Paranix Protect. Tratamiento Preventivo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KWZl71DBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KWZl71DBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KWZl71DBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Merrell Helixer Scape  Zapatillas Deport al 70.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l5umR8LBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l5umR8LBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l5umR8LBL._SL200_.jpg' ]
 comments: true
 category: ofertas

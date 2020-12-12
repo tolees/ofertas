@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.71 % en Kärcher 1.673-121.0 Limpiadora K 2 Compa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tl%2BxQRsSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tl%2BxQRsSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tl%2BxQRsSL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.28 % en edc by Esprit 029CC1K036 Camiseta  Azul '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518X013CAKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518X013CAKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518X013CAKL._SL200_.jpg' ]
 comments: true
 category: ofertas

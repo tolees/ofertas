@@ -3,6 +3,7 @@ layout: post
 title: 'MASTER LOCK Caja fuerte para llaves [Ext al 33.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fWXwXN%2BlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fWXwXN%2BlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fWXwXN%2BlL._SL200_.jpg' ]
 comments: true
 category: ofertas

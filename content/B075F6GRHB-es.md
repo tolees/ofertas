@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.58 % en Sony XZ1 Compact - Smartphone de 4.6" (B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MMgYwRgHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MMgYwRgHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MMgYwRgHL._SL200_.jpg' ]
 comments: true
 category: ofertas

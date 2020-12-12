@@ -3,6 +3,7 @@ layout: post
 title: 'Logitech M150 - Ratón USB  color blanco al 39.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SbdnoeQdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SbdnoeQdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SbdnoeQdL._SL200_.jpg' ]
 comments: true
 category: ofertas

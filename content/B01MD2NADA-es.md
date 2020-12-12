@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.44 % en Taurus Laurent-Microondas  900 W  25 lit'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410AuZi3dML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410AuZi3dML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410AuZi3dML._SL200_.jpg' ]
 comments: true
 category: ofertas

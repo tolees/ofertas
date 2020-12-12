@@ -3,6 +3,7 @@ layout: post
 title: 'MetJakt Mujer  Plata de ley  925/1000    al 75.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HnmyEmthL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HnmyEmthL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HnmyEmthL._SL200_.jpg' ]
 comments: true
 category: ofertas

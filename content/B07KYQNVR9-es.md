@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6BA Mao Tira Oxford  Jersey  al 53.10 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

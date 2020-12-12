@@ -3,6 +3,7 @@ layout: post
 title: 'Vibrador Mariposa con Función de Calenta al 27.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419P7c4TgkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419P7c4TgkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419P7c4TgkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Nike W Blazer Low SD  Zapatos de Balonce al 59.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zhRX5PaRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zhRX5PaRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zhRX5PaRL._SL200_.jpg' ]
 comments: true
 category: ofertas

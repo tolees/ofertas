@@ -3,6 +3,7 @@ layout: post
 title: 'Disney Mickey 4809 Pijama  Blanc  5 años al 47.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WW3QV-I%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WW3QV-I%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WW3QV-I%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

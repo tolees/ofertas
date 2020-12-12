@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.01 % en Etekcity PulsiOxímetro de Dedo y Monitor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B1bjWnO0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B1bjWnO0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B1bjWnO0L._SL200_.jpg' ]
 comments: true
 category: ofertas

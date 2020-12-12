@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Trooper Light Sun  Zapatillas Unis al 36.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ioUbWY38L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ioUbWY38L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ioUbWY38L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA PS Unlimited AC  Zapatil al 48.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z-yC-NdQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z-yC-NdQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z-yC-NdQL._SL200_.jpg' ]
 comments: true
 category: ofertas

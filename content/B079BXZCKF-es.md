@@ -3,6 +3,7 @@ layout: post
 title: 'Sandalias Punta Cerrada para Niños Zapat al 38.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q4KQjNGQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q4KQjNGQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Q4KQjNGQL._SL200_.jpg' ]
 comments: true
 category: ofertas

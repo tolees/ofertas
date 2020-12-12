@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.30 % en Auriculares para niños  con conexión par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410YhJfJUlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410YhJfJUlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410YhJfJUlL._SL200_.jpg' ]
 comments: true
 category: ofertas

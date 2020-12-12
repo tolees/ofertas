@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.34 % en Reebok Cl Lthr  Zapatillas para Mujer  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YMjzxYoML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YMjzxYoML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YMjzxYoML._SL200_.jpg' ]
 comments: true
 category: ofertas

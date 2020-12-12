@@ -3,6 +3,7 @@ layout: post
 title: 'Carpeta Archivadora Acordeon  Carpeta pa al 37.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41802%2BSNpkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41802%2BSNpkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41802%2BSNpkL._SL200_.jpg' ]
 comments: true
 category: ofertas

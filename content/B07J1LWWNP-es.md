@@ -3,6 +3,7 @@ layout: post
 title: 'LuckyGirls Zapatillas de Correr Malla Jo al 98.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-2Ph6ltyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-2Ph6ltyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-2Ph6ltyL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'YaYuu Garmin Fenix 3/Fenix 5 x Reloj Ban al 65.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qD9UIkLOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qD9UIkLOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qD9UIkLOL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Classic Nylon  Zapatillas para Ho al 70.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qLQH2ttTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qLQH2ttTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qLQH2ttTL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Dove  Kit para baños - 5 piezas al 32.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M4QdEl--L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M4QdEl--L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M4QdEl--L._SL200_.jpg' ]
 comments: true
 category: ofertas

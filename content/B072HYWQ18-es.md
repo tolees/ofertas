@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.44 % en Puma Basket Platform Strapvr  Zapatillas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i5P073l2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i5P073l2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i5P073l2L._SL200_.jpg' ]
 comments: true
 category: ofertas

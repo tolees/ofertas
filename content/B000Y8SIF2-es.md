@@ -3,6 +3,7 @@ layout: post
 title: 'RST - R.s.t. tacto suave bordeadora llan al 64.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SwQz46JbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SwQz46JbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SwQz46JbL._SL200_.jpg' ]
 comments: true
 category: ofertas

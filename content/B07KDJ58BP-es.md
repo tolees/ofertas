@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Stanley Pantalones  Verde  Da al 64.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312TenzD5TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312TenzD5TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312TenzD5TL._SL200_.jpg' ]
 comments: true
 category: ofertas

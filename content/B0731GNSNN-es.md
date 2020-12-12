@@ -3,6 +3,7 @@ layout: post
 title: 'Vila Clothes Vibless 7/8 Sleeve Knit Car al 71.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418U0xEG5vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418U0xEG5vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418U0xEG5vL._SL200_.jpg' ]
 comments: true
 category: ofertas

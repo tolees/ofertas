@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.70 % en Under Armour Ua Tech Graphic  Camisa par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ROtLwYNHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ROtLwYNHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ROtLwYNHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 64404  Sandalias con Punta Abier al 59.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kvNgT%2BIrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kvNgT%2BIrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kvNgT%2BIrL._SL200_.jpg' ]
 comments: true
 category: ofertas

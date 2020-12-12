@@ -3,6 +3,7 @@ layout: post
 title: 'ASUS Zenfone ZOOM - Smartphone libre And al 67.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r4utNyBWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r4utNyBWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r4utNyBWL._SL200_.jpg' ]
 comments: true
 category: ofertas

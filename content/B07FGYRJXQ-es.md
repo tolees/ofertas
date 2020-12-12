@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Northern Comfort II Hoodie Suda al 44.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z-pSG58vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z-pSG58vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z-pSG58vL._SL200_.jpg' ]
 comments: true
 category: ofertas

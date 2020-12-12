@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 5622 3D High Waist Boyfriend  al 89.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zA0MC4RWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zA0MC4RWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zA0MC4RWL._SL200_.jpg' ]
 comments: true
 category: ofertas

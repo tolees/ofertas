@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.02 % en Tosel 64869 estructura lámpara Tissue ma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-4aEE-gFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-4aEE-gFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-4aEE-gFL._SL200_.jpg' ]
 comments: true
 category: ofertas

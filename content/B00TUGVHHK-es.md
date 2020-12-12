@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.78 % en Olaplex  Mascarilla de pelo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lw3ItQhnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Lw3ItQhnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lw3ItQhnL._SL200_.jpg' ]
 comments: true
 category: ofertas

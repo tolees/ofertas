@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.09 % en Geox Jr Dakin  Zapatillas para Niños  Ve'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413TM-vYpoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413TM-vYpoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413TM-vYpoL._SL200_.jpg' ]
 comments: true
 category: ofertas

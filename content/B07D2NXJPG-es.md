@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.35 % en Reebok Almotio 4.0 2V  Zapatillas de Run'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41417GqyIML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41417GqyIML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41417GqyIML._SL200_.jpg' ]
 comments: true
 category: ofertas

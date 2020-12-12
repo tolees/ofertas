@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.97 % en Selene Almudena Sujetador con Aros  Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41azhvmzPWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41azhvmzPWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41azhvmzPWL._SL200_.jpg' ]
 comments: true
 category: ofertas

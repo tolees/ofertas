@@ -3,6 +3,7 @@ layout: post
 title: 'HP ProBook 430 G5 - Ordenador Portátil P al 43.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ftdysDqVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ftdysDqVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ftdysDqVL._SL200_.jpg' ]
 comments: true
 category: ofertas

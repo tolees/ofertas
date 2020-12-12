@@ -3,6 +3,7 @@ layout: post
 title: 'Dickies Multi 13"Mlti Pkt W/Srt  Pantalo al 52.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D3lA2UemL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31D3lA2UemL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D3lA2UemL._SL200_.jpg' ]
 comments: true
 category: ofertas

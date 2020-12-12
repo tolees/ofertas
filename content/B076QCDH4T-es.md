@@ -3,6 +3,7 @@ layout: post
 title: 'Versa 10330112 Estantería 4 baldas  Made al 32.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mwg9yhUqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Mwg9yhUqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Mwg9yhUqL._SL200_.jpg' ]
 comments: true
 category: ofertas

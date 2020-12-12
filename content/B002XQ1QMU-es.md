@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.97 % en Hugo Boss Orange Eau de Toilette Vaporiz'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jdujck%2B0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jdujck%2B0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jdujck%2B0L._SL200_.jpg' ]
 comments: true
 category: ofertas

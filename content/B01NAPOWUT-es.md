@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Go Step Lite-Ultrasock  Entrena al 64.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R2wUUv0kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R2wUUv0kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R2wUUv0kL._SL200_.jpg' ]
 comments: true
 category: ofertas

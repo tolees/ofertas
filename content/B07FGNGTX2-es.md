@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.93 % en Emporio Armani Underwear Men s Pyjamas  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IQ555M0LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IQ555M0LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IQ555M0LL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.18 % en Puma One 18.4 FG  Zapatillas de Fútbol p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pcTrpH2eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pcTrpH2eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pcTrpH2eL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Siux Pantalon Corto CALIXTO Blanco Negro al 41.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NHm4gv7GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NHm4gv7GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NHm4gv7GL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'ENKEEO Cojín Lumbar Grueso Núcleo de Esp al 28.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TYSetIo6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TYSetIo6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TYSetIo6L._SL200_.jpg' ]
 comments: true
 category: ofertas

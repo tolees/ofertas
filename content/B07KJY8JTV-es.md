@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.22 % en Quiksilver Quik Pool Camiseta de Manga C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gobenVuoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gobenVuoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gobenVuoL._SL200_.jpg' ]
 comments: true
 category: ofertas

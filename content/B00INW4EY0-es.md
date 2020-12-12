@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Synergy - Instant Reactio Zapat al 39.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XClvb67aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XClvb67aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XClvb67aL._SL200_.jpg' ]
 comments: true
 category: ofertas

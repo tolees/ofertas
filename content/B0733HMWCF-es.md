@@ -3,6 +3,7 @@ layout: post
 title: 'Desires Kunta 2 Pantalones  Negro  Black al 69.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4103oA%2B30aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4103oA%2B30aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4103oA%2B30aL._SL200_.jpg' ]
 comments: true
 category: ofertas

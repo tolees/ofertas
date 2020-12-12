@@ -3,6 +3,7 @@ layout: post
 title: 'Olympus OM-D E-M1 - Cámara Evil de 16.3  al 37.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nlByMJDKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nlByMJDKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nlByMJDKL._SL200_.jpg' ]
 comments: true
 category: ofertas

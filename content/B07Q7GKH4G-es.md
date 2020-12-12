@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.84 % en ANYCALL Amplificadores de Señal Móvil  T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sw7uATI0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sw7uATI0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sw7uATI0L._SL200_.jpg' ]
 comments: true
 category: ofertas

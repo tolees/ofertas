@@ -3,6 +3,7 @@ layout: post
 title: 'GEEKHOM Hamacas Colgantes  Tienda de Cam al 52.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ry3WOSIhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ry3WOSIhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ry3WOSIhL._SL200_.jpg' ]
 comments: true
 category: ofertas

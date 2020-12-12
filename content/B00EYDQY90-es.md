@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.02 % en De Longhi EO20312 Horno De Sobremesa  13'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418iDj09HWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418iDj09HWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418iDj09HWL._SL200_.jpg' ]
 comments: true
 category: ofertas

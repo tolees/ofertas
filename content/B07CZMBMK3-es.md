@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Sc30 Initials SS Camiseta   al 46.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31weKCbVwEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31weKCbVwEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31weKCbVwEL._SL200_.jpg' ]
 comments: true
 category: ofertas

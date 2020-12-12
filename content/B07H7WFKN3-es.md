@@ -3,6 +3,7 @@ layout: post
 title: 'Hush Puppies Shilo Heeled Boot  Botines  al 59.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311OTu4tX5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311OTu4tX5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311OTu4tX5L._SL200_.jpg' ]
 comments: true
 category: ofertas

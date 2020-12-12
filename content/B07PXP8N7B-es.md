@@ -3,6 +3,7 @@ layout: post
 title: 'ASUS TUF Gaming FX705DY-AU017T - Portáti al 29.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417vpWf6%2B1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417vpWf6%2B1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417vpWf6%2B1L._SL200_.jpg' ]
 comments: true
 category: ofertas

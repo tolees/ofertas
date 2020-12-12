@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.69 % en Venganza 1+2+3 Colección Vintage  Funda '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61OSQ1-BgwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61OSQ1-BgwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61OSQ1-BgwL._SL200_.jpg' ]
 comments: true
 category: ofertas

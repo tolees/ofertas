@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.05 % en Fendi FF 0041/S VQ 9F6 Gafas de Sol  Ros'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YHRjDdzHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YHRjDdzHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YHRjDdzHL._SL200_.jpg' ]
 comments: true
 category: ofertas

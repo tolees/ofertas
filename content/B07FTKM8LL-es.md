@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.85 % en Lee Rider  Vaqueros Slim para Hombre  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-wail2zML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-wail2zML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-wail2zML._SL200_.jpg' ]
 comments: true
 category: ofertas

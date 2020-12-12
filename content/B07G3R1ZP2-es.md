@@ -3,6 +3,7 @@ layout: post
 title: 'Porsche Design Business Backpack BackPac al 30.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cQeci4meL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cQeci4meL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cQeci4meL._SL200_.jpg' ]
 comments: true
 category: ofertas

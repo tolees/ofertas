@@ -3,6 +3,7 @@ layout: post
 title: 'Hawiton Pantalones de Pijama Mujer Corto al 42.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41po-AR2KIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41po-AR2KIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41po-AR2KIL._SL200_.jpg' ]
 comments: true
 category: ofertas

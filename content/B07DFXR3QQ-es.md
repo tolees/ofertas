@@ -3,6 +3,7 @@ layout: post
 title: 'Puma A.C.E. Woven Pants  Hombre  Black   al 31.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VrC7iENxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VrC7iENxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VrC7iENxL._SL200_.jpg' ]
 comments: true
 category: ofertas

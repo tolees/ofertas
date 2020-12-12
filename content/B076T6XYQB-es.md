@@ -3,6 +3,7 @@ layout: post
 title: 'MERAKI Camiseta Mujer de Tirantes  Pack  al 29.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QHuVxy5sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QHuVxy5sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QHuVxy5sL._SL200_.jpg' ]
 comments: true
 category: ofertas

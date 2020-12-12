@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.57 % en ESPRIT 106EE1K021  Camisa Manga Larga Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Kkd4MbvBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Kkd4MbvBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Kkd4MbvBL._SL200_.jpg' ]
 comments: true
 category: ofertas

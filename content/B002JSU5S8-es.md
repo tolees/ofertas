@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.58 % en Zeller 17970 Caja de almacenaje de cartó'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516oLtPYANL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516oLtPYANL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516oLtPYANL._SL200_.jpg' ]
 comments: true
 category: ofertas

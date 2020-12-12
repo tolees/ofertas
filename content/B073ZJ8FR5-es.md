@@ -3,6 +3,7 @@ layout: post
 title: 'Walden Farms  Salsa roja para aperitivo  al 58.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t2hhPHVEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t2hhPHVEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t2hhPHVEL._SL200_.jpg' ]
 comments: true
 category: ofertas

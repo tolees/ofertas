@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera Junior CARRERINO 16 JI D28  Gafa al 80.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313KFMDynwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313KFMDynwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313KFMDynwL._SL200_.jpg' ]
 comments: true
 category: ofertas

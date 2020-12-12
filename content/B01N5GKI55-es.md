@@ -3,6 +3,7 @@ layout: post
 title: 'La Llegada [Blu-ray] al 49.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51se1rtSO6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51se1rtSO6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51se1rtSO6L._SL200_.jpg' ]
 comments: true
 category: ofertas

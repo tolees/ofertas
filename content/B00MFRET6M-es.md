@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.09 % en Lee MARION STRAIGHT ONE WASH - Vaqueros '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kCmDvRF1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kCmDvRF1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kCmDvRF1L._SL200_.jpg' ]
 comments: true
 category: ofertas

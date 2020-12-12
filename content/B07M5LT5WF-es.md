@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 029CC1K036 Camiseta  Blanc al 57.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R0n5FUT9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R0n5FUT9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R0n5FUT9L._SL200_.jpg' ]
 comments: true
 category: ofertas

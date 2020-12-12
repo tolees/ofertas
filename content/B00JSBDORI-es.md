@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.65 % en Jersey de Cuello Alto Con Cremallera de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418LqPbHGsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418LqPbHGsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418LqPbHGsL._SL200_.jpg' ]
 comments: true
 category: ofertas

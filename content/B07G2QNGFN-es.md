@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.32 % en KIWI design Batería Soporte de Montaje e'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dPRspIl2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dPRspIl2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dPRspIl2L._SL200_.jpg' ]
 comments: true
 category: ofertas

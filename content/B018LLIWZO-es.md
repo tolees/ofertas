@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.94 % en Tommy Hilfiger Core Hilfiger Regular Pol'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r6Jq6DiWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r6Jq6DiWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r6Jq6DiWL._SL200_.jpg' ]
 comments: true
 category: ofertas

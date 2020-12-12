@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.52 % en Hummel Hmljaki S/S Camiseta  Unisex niño'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CDMDSlSEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CDMDSlSEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CDMDSlSEL._SL200_.jpg' ]
 comments: true
 category: ofertas

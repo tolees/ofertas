@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.76 % en DC Hombre Layle 20 Bañador para Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51koOq%2BBGDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51koOq%2BBGDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51koOq%2BBGDL._SL200_.jpg' ]
 comments: true
 category: ofertas

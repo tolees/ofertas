@@ -3,6 +3,7 @@ layout: post
 title: 'Spiderman 2100001996 Mochila Infantil al 34.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n18kh%2B2xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n18kh%2B2xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n18kh%2B2xL._SL200_.jpg' ]
 comments: true
 category: ofertas

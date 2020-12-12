@@ -3,6 +3,7 @@ layout: post
 title: 'Lifewit Bolsa Térmica para Llevar Lasaña al 70.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513ZiFBQQ3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513ZiFBQQ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513ZiFBQQ3L._SL200_.jpg' ]
 comments: true
 category: ofertas

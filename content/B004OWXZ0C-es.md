@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s  2 Pack V Neck  Camiseta Para Hom al 32.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mqMH3VQTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mqMH3VQTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mqMH3VQTL._SL200_.jpg' ]
 comments: true
 category: ofertas

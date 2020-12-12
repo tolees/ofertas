@@ -3,6 +3,7 @@ layout: post
 title: 'Apple iPad Pro - Tablet de 10.5"  512 GB al 32.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OrOw0lqUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OrOw0lqUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OrOw0lqUL._SL200_.jpg' ]
 comments: true
 category: ofertas

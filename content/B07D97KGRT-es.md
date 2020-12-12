@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 55886  Botines para Niñas  Negro  Bl al 79.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LS7JkYOaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LS7JkYOaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LS7JkYOaL._SL200_.jpg' ]
 comments: true
 category: ofertas

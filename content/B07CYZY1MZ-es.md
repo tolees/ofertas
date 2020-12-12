@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Zapatillas de Deporte Unisex Adulto al 35.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAO0fl3eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAO0fl3eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAO0fl3eL._SL200_.jpg' ]
 comments: true
 category: ofertas

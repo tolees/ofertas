@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.00 % en Ultrasport Fahrradhose Pantalones  Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413OlWWRLRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413OlWWRLRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413OlWWRLRL._SL200_.jpg' ]
 comments: true
 category: ofertas

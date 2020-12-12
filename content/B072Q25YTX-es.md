@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Silver Ridge II Vest Chaleco pa al 75.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416NqNhCT6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416NqNhCT6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416NqNhCT6L._SL200_.jpg' ]
 comments: true
 category: ofertas

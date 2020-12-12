@@ -3,6 +3,7 @@ layout: post
 title: 'deAO RC Carrera a Coches de Choque Teled al 30.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ryz2GcAnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ryz2GcAnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ryz2GcAnL._SL200_.jpg' ]
 comments: true
 category: ofertas

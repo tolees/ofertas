@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Patriot 10 Zapatillas de Running H al 33.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rYak4lA2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rYak4lA2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rYak4lA2L._SL200_.jpg' ]
 comments: true
 category: ofertas

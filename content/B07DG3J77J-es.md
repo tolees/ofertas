@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.56 % en Fallout 76 para Xbox One - Edición Están'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Kbb2OUmPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Kbb2OUmPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Kbb2OUmPL._SL200_.jpg' ]
 comments: true
 category: ofertas

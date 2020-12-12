@@ -3,6 +3,7 @@ layout: post
 title: 'Nike M Nkct Dry Polo Solid Pq Camiseta d al 38.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411sId3zE2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411sId3zE2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411sId3zE2L._SL200_.jpg' ]
 comments: true
 category: ofertas

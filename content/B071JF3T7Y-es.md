@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.48 % en adidas Crazytrain Pro W  Zapatillas de D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BImQ6-FqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BImQ6-FqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BImQ6-FqL._SL200_.jpg' ]
 comments: true
 category: ofertas

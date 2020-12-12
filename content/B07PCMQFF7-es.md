@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Button Through Tea Vestido  Neg al 32.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RzvOKcbcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RzvOKcbcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RzvOKcbcL._SL200_.jpg' ]
 comments: true
 category: ofertas

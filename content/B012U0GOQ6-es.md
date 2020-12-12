@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.39 % en Casa de Alba Fine Food Paleta Ibérica de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VKa0O8coL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VKa0O8coL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VKa0O8coL._SL200_.jpg' ]
 comments: true
 category: ofertas

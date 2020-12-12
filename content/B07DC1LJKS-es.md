@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Basket Heart Patent Wn s  Zapatilla al 80.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t9X51qaWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t9X51qaWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t9X51qaWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Piscinas Toi 3153 Piscina Infantil Cuadr al 25.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KyUi-MR8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KyUi-MR8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KyUi-MR8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 30702  Zapatos con Tacon y Correa de al 63.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416-0PO9HzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416-0PO9HzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416-0PO9HzL._SL200_.jpg' ]
 comments: true
 category: ofertas

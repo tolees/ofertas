@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Inteligente Smartwatch SN07 Redond al 61.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L6OHPRXFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L6OHPRXFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L6OHPRXFL._SL200_.jpg' ]
 comments: true
 category: ofertas

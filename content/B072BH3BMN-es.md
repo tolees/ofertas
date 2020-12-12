@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.14 % en G-STAR RAW Base Htr R T S/s 2-Pack Camis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UFrJnlapL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UFrJnlapL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UFrJnlapL._SL200_.jpg' ]
 comments: true
 category: ofertas

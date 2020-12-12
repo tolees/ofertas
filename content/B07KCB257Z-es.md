@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en Barra de Sonido  MeihuaTu Altavoz de Aud'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sV7oA2v-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sV7oA2v-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sV7oA2v-L._SL200_.jpg' ]
 comments: true
 category: ofertas

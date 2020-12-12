@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.75 % en Helly Hansen Hh Logo Crew Sweat  Sudader'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LZ1ISn4zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LZ1ISn4zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LZ1ISn4zL._SL200_.jpg' ]
 comments: true
 category: ofertas

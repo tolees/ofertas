@@ -3,6 +3,7 @@ layout: post
 title: 'Converse Chuck Taylor All Star Season Ox al 52.90 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

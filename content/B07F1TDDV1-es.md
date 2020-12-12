@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.09 % en Celio Meff  Chaleco para Hombre  Azul Na'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QfK0u4AQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QfK0u4AQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QfK0u4AQL._SL200_.jpg' ]
 comments: true
 category: ofertas

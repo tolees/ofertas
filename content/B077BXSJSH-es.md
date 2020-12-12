@@ -3,6 +3,7 @@ layout: post
 title: 'Gioseppo 43524  Zapatillas para Hombre   al 69.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413cZ4Xsn5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413cZ4Xsn5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413cZ4Xsn5L._SL200_.jpg' ]
 comments: true
 category: ofertas

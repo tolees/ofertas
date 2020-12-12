@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Levis 200sf Triple Vintage Stripe al 47.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h8%2BrAIgdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51h8%2BrAIgdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h8%2BrAIgdL._SL200_.jpg' ]
 comments: true
 category: ofertas

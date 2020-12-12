@@ -3,6 +3,7 @@ layout: post
 title: 'M MEGAWHEELS Scooter-Patinete Eléctrico  al 64.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q2-xtwUbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q2-xtwUbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q2-xtwUbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Hanbaili 5V 2W 25MA Paneles solares de s al 87.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tBnjngkuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tBnjngkuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tBnjngkuL._SL200_.jpg' ]
 comments: true
 category: ofertas

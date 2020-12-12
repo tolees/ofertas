@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Scaly Chaqueta  Niños  Azul   al 45.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mc2ZyBqrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mc2ZyBqrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mc2ZyBqrL._SL200_.jpg' ]
 comments: true
 category: ofertas

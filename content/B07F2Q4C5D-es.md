@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.87 % en Helly Hansen Hp Ocean Fz Hoodie  Sudader'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZOBhSjWoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZOBhSjWoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZOBhSjWoL._SL200_.jpg' ]
 comments: true
 category: ofertas

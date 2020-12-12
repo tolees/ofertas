@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.77 % en YoYoFit Rock Pulsómetros Pulsera de Acti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xxmNKVNmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xxmNKVNmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xxmNKVNmL._SL200_.jpg' ]
 comments: true
 category: ofertas

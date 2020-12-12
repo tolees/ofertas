@@ -3,6 +3,7 @@ layout: post
 title: 'Wilson Raqueta de Tenis  Six.One Team 95 al 40.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TjWK0L3eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TjWK0L3eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TjWK0L3eL._SL200_.jpg' ]
 comments: true
 category: ofertas

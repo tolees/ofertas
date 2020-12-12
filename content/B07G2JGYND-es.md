@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.91 % en Enchufe Inteligente Wifi  OxaOxe Enchufe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dsIeu8-yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dsIeu8-yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dsIeu8-yL._SL200_.jpg' ]
 comments: true
 category: ofertas

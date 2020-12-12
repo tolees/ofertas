@@ -3,6 +3,7 @@ layout: post
 title: 'Teekar [Upgraded Tipo Cortina Interrupto al 25.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yxNnCgxrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yxNnCgxrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yxNnCgxrL._SL200_.jpg' ]
 comments: true
 category: ofertas

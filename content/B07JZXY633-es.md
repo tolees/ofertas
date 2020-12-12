@@ -3,6 +3,7 @@ layout: post
 title: 'Emporio Armani 9P421  Bañador para Hombr al 31.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41agyAerA6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41agyAerA6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41agyAerA6L._SL200_.jpg' ]
 comments: true
 category: ofertas

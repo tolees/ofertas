@@ -3,6 +3,7 @@ layout: post
 title: 'Glitter Gel Pens by Color Technik  Set o al 57.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61BvpN-ZtFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61BvpN-ZtFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61BvpN-ZtFL._SL200_.jpg' ]
 comments: true
 category: ofertas

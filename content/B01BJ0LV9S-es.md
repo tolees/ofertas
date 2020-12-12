@@ -3,6 +3,7 @@ layout: post
 title: 'MONRAY PASSENGER - Maletín 40 6 cm  16"  al 42.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Mt-U-ZA0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Mt-U-ZA0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Mt-U-ZA0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 6018/S JY TNY  Gafas de sol al 72.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319gYQjvNaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319gYQjvNaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319gYQjvNaL._SL200_.jpg' ]
 comments: true
 category: ofertas

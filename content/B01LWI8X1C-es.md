@@ -3,6 +3,7 @@ layout: post
 title: 'VERO MODA VMORCHIDA 3/4 SHORT BLOUSE LOC al 86.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51evMVWz4pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51evMVWz4pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51evMVWz4pL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en VATOS Juguetes para Bebés para 1~4 años '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514WPx8GPdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514WPx8GPdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514WPx8GPdL._SL200_.jpg' ]
 comments: true
 category: ofertas

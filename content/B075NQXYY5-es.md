@@ -3,6 +3,7 @@ layout: post
 title: 'Trangoworld Linth Pantalón Largo  Mujer  al 54.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31N-m1n9bDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31N-m1n9bDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31N-m1n9bDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Flexagon  Zapatillas de Deporte p al 75.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JOmR1zheL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JOmR1zheL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JOmR1zheL._SL200_.jpg' ]
 comments: true
 category: ofertas

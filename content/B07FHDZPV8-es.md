@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Vans Checker Co. II Camiseta  Gris  Ash '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w%2BqjOsC%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w%2BqjOsC%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w%2BqjOsC%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

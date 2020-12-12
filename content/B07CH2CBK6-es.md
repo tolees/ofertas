@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.05 % en HZHY Cinturón Para Hombres  100% Cuero G'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d1zcs4PcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51d1zcs4PcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d1zcs4PcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'find. Cotton Utility Abrigos Negro 52  T al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-CrsS63OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-CrsS63OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-CrsS63OL._SL200_.jpg' ]
 comments: true
 category: ofertas

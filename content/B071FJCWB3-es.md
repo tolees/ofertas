@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Mono Asimétrico para Mujer  Rojo  R al 67.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EdjBnDzEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EdjBnDzEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EdjBnDzEL._SL200_.jpg' ]
 comments: true
 category: ofertas

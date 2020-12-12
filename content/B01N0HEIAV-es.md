@@ -3,6 +3,7 @@ layout: post
 title: 'Merrell Ml-b Moab Fst Low Waterpoof Zapa al 64.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41luHRMAKiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41luHRMAKiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41luHRMAKiL._SL200_.jpg' ]
 comments: true
 category: ofertas

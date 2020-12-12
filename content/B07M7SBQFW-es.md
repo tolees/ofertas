@@ -3,6 +3,7 @@ layout: post
 title: 'ELINKUME 5M Luces LED de 20 años Luces d al 49.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415J85LEmFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415J85LEmFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415J85LEmFL._SL200_.jpg' ]
 comments: true
 category: ofertas

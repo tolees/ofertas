@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Pike  Pantalones Cortos Hombre  Azu al 63.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4148pIQ2KGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4148pIQ2KGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4148pIQ2KGL._SL200_.jpg' ]
 comments: true
 category: ofertas

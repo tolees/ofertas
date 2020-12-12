@@ -3,6 +3,7 @@ layout: post
 title: 'Joma - Set Basket Space Marino-Turquesa  al 54.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HTbS63U8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HTbS63U8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HTbS63U8L._SL200_.jpg' ]
 comments: true
 category: ofertas

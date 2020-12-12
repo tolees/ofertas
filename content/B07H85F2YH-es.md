@@ -3,6 +3,7 @@ layout: post
 title: 'LiBatter 2X Filtros Lavables Pre Motor p al 80.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512jqZG-IKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512jqZG-IKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512jqZG-IKL._SL200_.jpg' ]
 comments: true
 category: ofertas

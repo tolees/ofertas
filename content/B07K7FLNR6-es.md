@@ -3,6 +3,7 @@ layout: post
 title: 'Reflector GreeSuit-Super brillante de 20 al 28.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JIof%2BkG1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JIof%2BkG1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JIof%2BkG1L._SL200_.jpg' ]
 comments: true
 category: ofertas

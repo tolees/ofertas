@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas 107353  Chaqueta de Tra al 85.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31deftBMCdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31deftBMCdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31deftBMCdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance - ML574ETB - ML574ETB - El C al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vRK9mKxzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vRK9mKxzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vRK9mKxzL._SL200_.jpg' ]
 comments: true
 category: ofertas

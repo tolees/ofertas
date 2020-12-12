@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance M420V4  Zapatillas de Deport al 56.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BbkEBbVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BbkEBbVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BbkEBbVL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SUAOKI 1A 6V/12V Cargador de Batería Por al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517Rse%2BG5RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517Rse%2BG5RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517Rse%2BG5RL._SL200_.jpg' ]
 comments: true
 category: ofertas

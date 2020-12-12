@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.41 % en Springfield Camisa Manga Corta Camisa Ca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d5MJU3OBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51d5MJU3OBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d5MJU3OBL._SL200_.jpg' ]
 comments: true
 category: ofertas

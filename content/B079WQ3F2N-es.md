@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.56 % en adidas Indoor Super  Zapatos de Squash p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-s%2BcovIbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-s%2BcovIbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-s%2BcovIbL._SL200_.jpg' ]
 comments: true
 category: ofertas

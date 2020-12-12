@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.04 % en Desigual - Bag Dark Amber Cabo Women  Ca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41shz54rdXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41shz54rdXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41shz54rdXL._SL200_.jpg' ]
 comments: true
 category: ofertas

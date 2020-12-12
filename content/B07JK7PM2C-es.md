@@ -3,6 +3,7 @@ layout: post
 title: 'Tableta Gráfica  VEIKK-A30 Tableta Gráfi al 43.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KmeXwJu0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KmeXwJu0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KmeXwJu0L._SL200_.jpg' ]
 comments: true
 category: ofertas

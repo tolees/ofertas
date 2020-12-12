@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.82 % en JACK & JONES Jjiglenn Jjoriginal Am 431 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NO-Pw56QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NO-Pw56QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NO-Pw56QL._SL200_.jpg' ]
 comments: true
 category: ofertas

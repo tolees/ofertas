@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler LS 2pkt Flap Shir Camisa  Rojo  al 78.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51chPS8duzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51chPS8duzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51chPS8duzL._SL200_.jpg' ]
 comments: true
 category: ofertas

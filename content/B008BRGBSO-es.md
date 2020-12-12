@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Ledino Foco 56454/17/16 - Punto  al 87.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mtPD52EIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mtPD52EIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mtPD52EIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.06 % en Adidas NMD_r1  Zapatos de Cordones Derby'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XrPQUtkLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XrPQUtkLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XrPQUtkLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'AIM - Teclado mecánico Gaming  RGB  19 E al 25.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512mdzhIF5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512mdzhIF5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512mdzhIF5L._SL200_.jpg' ]
 comments: true
 category: ofertas

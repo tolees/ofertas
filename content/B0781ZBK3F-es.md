@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Duramo Lite 2.0  Zapatillas de En al 32.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-ce16cDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-ce16cDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-ce16cDL._SL200_.jpg' ]
 comments: true
 category: ofertas

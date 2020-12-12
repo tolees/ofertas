@@ -3,6 +3,7 @@ layout: post
 title: 'Solac SW8230 Cotton 16.0 Máquina de Cose al 38.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41npvUoEskL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41npvUoEskL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41npvUoEskL._SL200_.jpg' ]
 comments: true
 category: ofertas

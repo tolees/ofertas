@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en DELSEY Paris U-Lite Classic 2 Equipaje d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q9GkOON8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q9GkOON8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q9GkOON8L._SL200_.jpg' ]
 comments: true
 category: ofertas

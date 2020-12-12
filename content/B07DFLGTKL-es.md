@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Cy5606 Bolsa de Deporte Infantil  al 57.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Htvk1nmcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Htvk1nmcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Htvk1nmcL._SL200_.jpg' ]
 comments: true
 category: ofertas

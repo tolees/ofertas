@@ -3,6 +3,7 @@ layout: post
 title: 'Amazon Essentials 2-Pack Short-Sleeve Ac al 51.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H3rmeob3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51H3rmeob3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H3rmeob3L._SL200_.jpg' ]
 comments: true
 category: ofertas

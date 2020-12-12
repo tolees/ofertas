@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Viale  Zapatillas de Running para H al 44.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GPU3xvdgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GPU3xvdgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GPU3xvdgL._SL200_.jpg' ]
 comments: true
 category: ofertas

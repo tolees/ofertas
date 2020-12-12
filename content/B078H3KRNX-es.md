@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.18 % en COMVIP Hombres Sin fisuras cráneo Impres'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uNQV7%2BViL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uNQV7%2BViL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uNQV7%2BViL._SL200_.jpg' ]
 comments: true
 category: ofertas

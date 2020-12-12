@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.75 % en DKNY Intimates Basic Tights medias  Negr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21PGdYrikKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21PGdYrikKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21PGdYrikKL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Carson 2 Nature Knit Wn s  Zapatill al 55.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f9wYSAG8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51f9wYSAG8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f9wYSAG8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Bellota 951-20 CM - RASTRILLO JARDIN al 37.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316j5ftEa-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316j5ftEa-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316j5ftEa-L._SL200_.jpg' ]
 comments: true
 category: ofertas

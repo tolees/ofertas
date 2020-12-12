@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.99 % en Springfield 433535  Pantalones Cortos De'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mM1OUdKxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mM1OUdKxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mM1OUdKxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.41 % en Guess W0076G2 - Reloj cronógrafo de cuar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pCyTV4s%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pCyTV4s%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pCyTV4s%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

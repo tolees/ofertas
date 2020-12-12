@@ -3,6 +3,7 @@ layout: post
 title: 'The Division al 66.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61bjiY1Di%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61bjiY1Di%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61bjiY1Di%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

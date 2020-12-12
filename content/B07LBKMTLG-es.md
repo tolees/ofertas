@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Elfie Lace Open-nk Top 1/ al 50.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zVkgW7JKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zVkgW7JKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zVkgW7JKL._SL200_.jpg' ]
 comments: true
 category: ofertas

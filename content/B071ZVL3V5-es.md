@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Climacool Cw  Zapatillas de runni al 58.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UrJp4FK6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UrJp4FK6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UrJp4FK6L._SL200_.jpg' ]
 comments: true
 category: ofertas

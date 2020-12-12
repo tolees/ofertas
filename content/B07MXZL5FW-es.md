@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.87 % en Salomon Blend Logo SS tee T-Shirt  Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ktbekBroL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ktbekBroL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ktbekBroL._SL200_.jpg' ]
 comments: true
 category: ofertas

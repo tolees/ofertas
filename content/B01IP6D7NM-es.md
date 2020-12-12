@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Attitude - Zapatillas para hombre   al 67.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hPOqif2mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hPOqif2mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hPOqif2mL._SL200_.jpg' ]
 comments: true
 category: ofertas

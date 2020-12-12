@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2730-nappaleau  Zapatillas de Gi al 70.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lmhYak1XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lmhYak1XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lmhYak1XL._SL200_.jpg' ]
 comments: true
 category: ofertas

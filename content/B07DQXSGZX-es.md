@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Attitude 84091  Zapatillas para Hom al 35.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SUfkA8JsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SUfkA8JsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SUfkA8JsL._SL200_.jpg' ]
 comments: true
 category: ofertas

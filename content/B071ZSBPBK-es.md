@@ -3,6 +3,7 @@ layout: post
 title: 'adidas CF Hoops Mid WTR W  Zapatillas Al al 66.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cATQnfj2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cATQnfj2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cATQnfj2L._SL200_.jpg' ]
 comments: true
 category: ofertas

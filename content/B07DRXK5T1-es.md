@@ -3,6 +3,7 @@ layout: post
 title: 'Diadora Game Low S  Zapatillas de Gimnas al 50.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jgVngCtFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jgVngCtFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jgVngCtFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Vihaan Impex Ropa de Mujer Ropa India Ve al 46.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513en%2BNy9sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513en%2BNy9sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513en%2BNy9sL._SL200_.jpg' ]
 comments: true
 category: ofertas

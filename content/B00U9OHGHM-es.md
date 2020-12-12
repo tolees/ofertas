@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.00 % en Reloj Nautica - Hombre NAI22507G'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ee9HB8tzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ee9HB8tzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ee9HB8tzL._SL200_.jpg' ]
 comments: true
 category: ofertas

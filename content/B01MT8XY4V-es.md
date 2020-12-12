@@ -3,6 +3,7 @@ layout: post
 title: 'PDP - Starter Kit Zelda Link Tunic Editi al 71.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZAIx8CzxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZAIx8CzxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZAIx8CzxL._SL200_.jpg' ]
 comments: true
 category: ofertas

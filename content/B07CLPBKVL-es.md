@@ -3,6 +3,7 @@ layout: post
 title: 'CMP Fleece Knit Tech Sudadera Forro Pola al 55.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hUEm3XP4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hUEm3XP4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hUEm3XP4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: '992/5000 Kealive Nose Hair Trimmer  Remo al 57.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R552Zz-jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R552Zz-jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R552Zz-jL._SL200_.jpg' ]
 comments: true
 category: ofertas

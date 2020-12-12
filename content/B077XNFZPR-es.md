@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Raid 3/4 Leggin  Niños  Bla al 64.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315mILufLML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315mILufLML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315mILufLML._SL200_.jpg' ]
 comments: true
 category: ofertas

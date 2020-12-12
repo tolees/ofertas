@@ -3,6 +3,7 @@ layout: post
 title: 'Seagate Barracuda ST1000DM003 - Disco du al 25.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jzvyPoV6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jzvyPoV6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jzvyPoV6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Relaxdays Iluminación E27  40 W al 30.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BurKO1m3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BurKO1m3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BurKO1m3L._SL200_.jpg' ]
 comments: true
 category: ofertas

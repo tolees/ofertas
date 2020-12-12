@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.81 % en G-STAR RAW 3301 Slim  Jeans para Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pZb%2BZWyQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pZb%2BZWyQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pZb%2BZWyQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjichris Jjtool Shorts JJ 1 al 73.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WMGebc0CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WMGebc0CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WMGebc0CL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.45 % en Puma Suede Classic +  Zapatillas Unisex '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l823IzyEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l823IzyEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l823IzyEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jfwvision Chambray Mix SS A al 29.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zoEU%2BGgGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zoEU%2BGgGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zoEU%2BGgGL._SL200_.jpg' ]
 comments: true
 category: ofertas

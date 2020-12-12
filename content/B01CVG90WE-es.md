@@ -3,6 +3,7 @@ layout: post
 title: 'Tribe - Juguete Educativos de madera y p al 36.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a0fkdda-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51a0fkdda-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a0fkdda-L._SL200_.jpg' ]
 comments: true
 category: ofertas

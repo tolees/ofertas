@@ -3,6 +3,7 @@ layout: post
 title: 'L Oreal Paris Dermo Expertise Leche Prot al 59.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rDtII59yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rDtII59yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rDtII59yL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.15 % en Akokie -  Puzzle Dinosaurios  Dmontaesr '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51czuSPPMqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51czuSPPMqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51czuSPPMqL._SL200_.jpg' ]
 comments: true
 category: ofertas

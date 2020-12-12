@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face W HH Hike II MD GTX  Bota al 62.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M7b1A%2BwML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51M7b1A%2BwML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M7b1A%2BwML._SL200_.jpg' ]
 comments: true
 category: ofertas

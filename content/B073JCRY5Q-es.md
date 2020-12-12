@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.87 % en Cortefiel 1.T.M.P Fluido Pantalones  Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qiDNt5s8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qiDNt5s8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qiDNt5s8L._SL200_.jpg' ]
 comments: true
 category: ofertas

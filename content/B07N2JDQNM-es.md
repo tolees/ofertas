@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.02 % en NWOUIIAY 8Pcs 17-C Cepillo Cabezales Cep'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41brWwPWsaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41brWwPWsaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41brWwPWsaL._SL200_.jpg' ]
 comments: true
 category: ofertas

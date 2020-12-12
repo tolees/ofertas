@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.46 % en Auriculares Bluetooth  Mixcder Shareme 7'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CyVr-pf7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CyVr-pf7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CyVr-pf7L._SL200_.jpg' ]
 comments: true
 category: ofertas

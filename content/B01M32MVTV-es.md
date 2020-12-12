@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.28 % en Jimmy Choo Lash/S  Gafas de Sol para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GuoP17VaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GuoP17VaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GuoP17VaL._SL200_.jpg' ]
 comments: true
 category: ofertas

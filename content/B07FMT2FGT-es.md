@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.78 % en Bolso porta mascotas sling  mascotas pro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SFAJkB-LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SFAJkB-LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SFAJkB-LL._SL200_.jpg' ]
 comments: true
 category: ofertas

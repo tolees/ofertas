@@ -3,6 +3,7 @@ layout: post
 title: 'Bomba de Bicicleta  ID MAX Portátil Mini al 26.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416CroHPHGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416CroHPHGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416CroHPHGL._SL200_.jpg' ]
 comments: true
 category: ofertas

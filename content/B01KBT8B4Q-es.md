@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Sport Straightset Bl 1 Spj  Zapa al 48.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ht537tVsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ht537tVsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ht537tVsL._SL200_.jpg' ]
 comments: true
 category: ofertas

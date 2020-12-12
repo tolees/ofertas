@@ -3,6 +3,7 @@ layout: post
 title: 'Final Fantasy XIV Complete Edition al 45.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61qTVf9-naL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61qTVf9-naL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61qTVf9-naL._SL200_.jpg' ]
 comments: true
 category: ofertas

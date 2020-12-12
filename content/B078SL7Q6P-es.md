@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Reloj Digital para Hombre de Cuar al 36.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51W0UqB10vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51W0UqB10vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51W0UqB10vL._SL200_.jpg' ]
 comments: true
 category: ofertas

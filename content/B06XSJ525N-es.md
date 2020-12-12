@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.04 % en Long Island Multifunct FL Li Cruiserboar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M5Ks0G05L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M5Ks0G05L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M5Ks0G05L._SL200_.jpg' ]
 comments: true
 category: ofertas

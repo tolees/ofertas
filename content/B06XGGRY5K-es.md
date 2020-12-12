@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Jaden JR PB501315  Top de Man al 65.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LWzCh8vAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LWzCh8vAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LWzCh8vAL._SL200_.jpg' ]
 comments: true
 category: ofertas

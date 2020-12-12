@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.02 % en Temfly OBD2  OBD2 WiFi Diagnosis Coche A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WnaHyo-ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WnaHyo-ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WnaHyo-ML._SL200_.jpg' ]
 comments: true
 category: ofertas

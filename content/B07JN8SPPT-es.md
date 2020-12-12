@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.59 % en Guess Romana Jacket Abrigo  Negro  Jet B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hTKqqu93L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hTKqqu93L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hTKqqu93L._SL200_.jpg' ]
 comments: true
 category: ofertas

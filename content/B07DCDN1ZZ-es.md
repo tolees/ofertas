@@ -3,6 +3,7 @@ layout: post
 title: 'Nike W Internationalist Heat  Zapatillas al 43.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XommRo5ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XommRo5ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XommRo5ML._SL200_.jpg' ]
 comments: true
 category: ofertas

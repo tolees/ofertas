@@ -3,6 +3,7 @@ layout: post
 title: 'El Ganso 1020s180039 Pantalones  Hombre  al 78.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Al25T8JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417Al25T8JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Al25T8JL._SL200_.jpg' ]
 comments: true
 category: ofertas

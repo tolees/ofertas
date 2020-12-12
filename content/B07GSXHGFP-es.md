@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual - Bag Cronos Gela Women  Bolsos al 30.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5165Id8iUrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5165Id8iUrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5165Id8iUrL._SL200_.jpg' ]
 comments: true
 category: ofertas

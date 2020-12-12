@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.84 % en Only Onlterra 3/4 Kimono Wvn  Chaqueta M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511ymQt8pUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511ymQt8pUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511ymQt8pUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.51 % en Medidor de Azúcar GrandBeing Refractómet'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sekQE07uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sekQE07uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sekQE07uL._SL200_.jpg' ]
 comments: true
 category: ofertas

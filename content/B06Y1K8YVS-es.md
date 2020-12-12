@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.22 % en Wrangler Western Denim Shirt  Camisa Vaq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gw6ay6QiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gw6ay6QiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gw6ay6QiL._SL200_.jpg' ]
 comments: true
 category: ofertas

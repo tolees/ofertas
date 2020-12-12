@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.00 % en SIMPORDS Abalorio Charm Trébol de Cuatro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515%2Bxf8N1HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515%2Bxf8N1HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515%2Bxf8N1HL._SL200_.jpg' ]
 comments: true
 category: ofertas

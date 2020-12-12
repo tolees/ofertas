@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.19 % en Desperados Cerveza - Pack de 12 Botellas'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B07CNQ5GPM.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B07CNQ5GPM.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B07CNQ5GPM.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

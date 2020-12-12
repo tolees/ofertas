@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.24 % en BOSS Maine-Shorts BC-l-p Pantalones Cort'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mjfKqOcZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mjfKqOcZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mjfKqOcZL._SL200_.jpg' ]
 comments: true
 category: ofertas

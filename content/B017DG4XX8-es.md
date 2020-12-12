@@ -3,6 +3,7 @@ layout: post
 title: 'ToyJoy Luminate Vibrador Negro - 314 gr al 82.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fs%2Bhp%2By6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fs%2Bhp%2By6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fs%2Bhp%2By6L._SL200_.jpg' ]
 comments: true
 category: ofertas

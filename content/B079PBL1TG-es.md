@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Rider Vaqueros Slim  Negro  Black Wo al 85.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wpo8dCE3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wpo8dCE3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wpo8dCE3L._SL200_.jpg' ]
 comments: true
 category: ofertas

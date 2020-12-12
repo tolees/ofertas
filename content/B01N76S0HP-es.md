@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Basket Patent Iced Glitter Jr  Zapa al 63.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415qHKWfiUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415qHKWfiUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415qHKWfiUL._SL200_.jpg' ]
 comments: true
 category: ofertas

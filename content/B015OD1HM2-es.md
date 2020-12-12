@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.00 % en Puma Aril Blaze Geometric  Hombre Zapati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CewM2XLOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CewM2XLOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CewM2XLOL._SL200_.jpg' ]
 comments: true
 category: ofertas

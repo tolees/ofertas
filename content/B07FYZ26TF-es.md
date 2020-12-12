@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.73 % en Reebok Flexile  Zapatillas de Deporte pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415LN5FCYzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415LN5FCYzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415LN5FCYzL._SL200_.jpg' ]
 comments: true
 category: ofertas

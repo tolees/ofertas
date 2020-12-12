@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.75 % en El Ganso Big Checks Cuello Botón Camisa '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xJXPTrnbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xJXPTrnbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xJXPTrnbL._SL200_.jpg' ]
 comments: true
 category: ofertas

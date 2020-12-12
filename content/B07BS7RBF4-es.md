@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.21 % en DEERWORD Para mujer Carteras de mano Bol'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TpJ3-sErL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TpJ3-sErL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TpJ3-sErL._SL200_.jpg' ]
 comments: true
 category: ofertas

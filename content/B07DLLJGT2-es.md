@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.63 % en Springfield 6.J.MD.T.Lavanda Jersey  Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rk%2BACuNhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rk%2BACuNhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rk%2BACuNhL._SL200_.jpg' ]
 comments: true
 category: ofertas

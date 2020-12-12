@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.05 % en Puma Evostripe Move Hooded Jacket Sudade'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416NP2I0vwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416NP2I0vwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416NP2I0vwL._SL200_.jpg' ]
 comments: true
 category: ofertas

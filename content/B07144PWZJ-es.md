@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Ua W Lightning 2 Zapatillas al 63.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rb2Zp0JjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rb2Zp0JjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rb2Zp0JjL._SL200_.jpg' ]
 comments: true
 category: ofertas

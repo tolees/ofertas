@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.35 % en Monster S Ball - Edición Coleccionista ['
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r60Ga4QDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51r60Ga4QDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r60Ga4QDL._SL200_.jpg' ]
 comments: true
 category: ofertas

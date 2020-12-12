@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.03 % en Desigual Sweat_Cintia  Sudadera para Niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xNc4IXzlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xNc4IXzlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xNc4IXzlL._SL200_.jpg' ]
 comments: true
 category: ofertas

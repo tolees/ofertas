@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.55 % en EBL 004 Linterna LED de Mano Resistente '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xoAW28vbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xoAW28vbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xoAW28vbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Nike MD Runner 2 19-ao0265  Zapatillas d al 48.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QvPiQ6G8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QvPiQ6G8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QvPiQ6G8L._SL200_.jpg' ]
 comments: true
 category: ofertas

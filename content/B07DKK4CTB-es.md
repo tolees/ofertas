@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling - Earthbeat M  Bolsos bandolera  al 54.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516aDgPYFVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516aDgPYFVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516aDgPYFVL._SL200_.jpg' ]
 comments: true
 category: ofertas

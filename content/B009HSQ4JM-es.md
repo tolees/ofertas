@@ -3,6 +3,7 @@ layout: post
 title: 'Hama Fine Art - Álbum de fotos  50 págin al 40.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417OE0rzwtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417OE0rzwtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417OE0rzwtL._SL200_.jpg' ]
 comments: true
 category: ofertas

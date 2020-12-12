@@ -3,6 +3,7 @@ layout: post
 title: 'HUGO Dicago-u3  Sudadera para Hombre  Ne al 45.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VR8GEonIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VR8GEonIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VR8GEonIL._SL200_.jpg' ]
 comments: true
 category: ofertas

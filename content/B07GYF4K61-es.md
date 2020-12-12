@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.30 % en Tablet Android Desbloqueado teléfono 3G '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PZamnxdJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PZamnxdJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PZamnxdJL._SL200_.jpg' ]
 comments: true
 category: ofertas

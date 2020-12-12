@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Sk8-hi Reissue DX  Zapatillas para  al 71.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41URUMk6dUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41URUMk6dUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41URUMk6dUL._SL200_.jpg' ]
 comments: true
 category: ofertas

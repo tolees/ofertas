@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.18 % en Cortefiel 6947670  Bikini para Mujer  Sa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UVkM9sRtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UVkM9sRtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UVkM9sRtL._SL200_.jpg' ]
 comments: true
 category: ofertas

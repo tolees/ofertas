@@ -3,6 +3,7 @@ layout: post
 title: 'KENNETH COLE Bueller Botines Mujer  Negr al 85.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aVjkyVMhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aVjkyVMhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aVjkyVMhL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Cámara de Caza Cámara de Vigilancia Cool al 54.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61jvs6vDlZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61jvs6vDlZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61jvs6vDlZL._SL200_.jpg' ]
 comments: true
 category: ofertas

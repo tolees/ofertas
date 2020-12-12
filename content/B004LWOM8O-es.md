@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.10 % en Edding 4500-19 - Caja de 10 marcadores t'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31biU4bh1RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31biU4bh1RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31biU4bh1RL._SL200_.jpg' ]
 comments: true
 category: ofertas

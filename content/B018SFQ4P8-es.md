@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 86.53 % en Love in Paradise Vestido Ique Antracita '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JQ9AugFQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JQ9AugFQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JQ9AugFQL._SL200_.jpg' ]
 comments: true
 category: ofertas

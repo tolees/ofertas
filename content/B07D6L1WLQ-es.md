@@ -3,6 +3,7 @@ layout: post
 title: 'Funda iPhone 6/6s  con [2X Protector de  al 47.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pg0rpB0ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pg0rpB0ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pg0rpB0ML._SL200_.jpg' ]
 comments: true
 category: ofertas

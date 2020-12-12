@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES Pckaysa Slip Top Noos Camiseta si al 65.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dSDes1AJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dSDes1AJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dSDes1AJL._SL200_.jpg' ]
 comments: true
 category: ofertas

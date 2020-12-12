@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.13 % en Selene Sujetador Push-Up Raquel Gris ES '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PTbktjVnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PTbktjVnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PTbktjVnL._SL200_.jpg' ]
 comments: true
 category: ofertas

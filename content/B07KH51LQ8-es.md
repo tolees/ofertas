@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.32 % en Under Armour UA GL Foundation SS T Camis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LVPPn8tGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LVPPn8tGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LVPPn8tGL._SL200_.jpg' ]
 comments: true
 category: ofertas

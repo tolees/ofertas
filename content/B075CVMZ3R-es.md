@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Furniture 247 - Silla de comedor  blanco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ytz0ehbZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ytz0ehbZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ytz0ehbZL._SL200_.jpg' ]
 comments: true
 category: ofertas

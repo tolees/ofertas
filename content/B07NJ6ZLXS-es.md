@@ -3,6 +3,7 @@ layout: post
 title: 'Mujer Traje de Baño Conjunto Bikini de L al 54.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Oreoz5F1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Oreoz5F1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Oreoz5F1L._SL200_.jpg' ]
 comments: true
 category: ofertas

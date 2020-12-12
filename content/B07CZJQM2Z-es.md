@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.01 % en Salomon X Ultra 3 Prime W  Zapatillas de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41maGhfmFnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41maGhfmFnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41maGhfmFnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.48 % en Miquel Rius Miquelrius-16919 Mochila Tri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Hs5QY%2BuUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Hs5QY%2BuUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Hs5QY%2BuUL._SL200_.jpg' ]
 comments: true
 category: ofertas

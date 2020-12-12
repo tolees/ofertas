@@ -3,6 +3,7 @@ layout: post
 title: 'Sony DSX-A212UI - Receptor Multimedia de al 33.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411XJ%2BIZMUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411XJ%2BIZMUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411XJ%2BIZMUL._SL200_.jpg' ]
 comments: true
 category: ofertas

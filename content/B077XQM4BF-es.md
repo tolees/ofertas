@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.53 % en Under Armour Armour Fleece Jogger Pantal'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r6MBRToAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r6MBRToAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r6MBRToAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.69 % en Marco Tozzi 25217  Botas Militar para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TC0DB4TDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TC0DB4TDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TC0DB4TDL._SL200_.jpg' ]
 comments: true
 category: ofertas

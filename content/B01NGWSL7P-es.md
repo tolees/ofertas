@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Ua W Micro G Press Tr  Zapa al 62.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sokT5iQ5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sokT5iQ5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sokT5iQ5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Fuleadture Funda iPhone X  Slim Líquido  al 56.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qFK2IEKoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qFK2IEKoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qFK2IEKoL._SL200_.jpg' ]
 comments: true
 category: ofertas

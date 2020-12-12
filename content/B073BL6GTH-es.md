@@ -3,6 +3,7 @@ layout: post
 title: 'LTB Jeans ZOHEKE Coat  Chaqueta para Muj al 82.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YST5BQdNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YST5BQdNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YST5BQdNL._SL200_.jpg' ]
 comments: true
 category: ofertas

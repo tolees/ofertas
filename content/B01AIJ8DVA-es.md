@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.66 % en UGG Bailey Button II Che  Botas de Nieve'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415hgbCCwtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415hgbCCwtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415hgbCCwtL._SL200_.jpg' ]
 comments: true
 category: ofertas

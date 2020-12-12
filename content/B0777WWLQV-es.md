@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.38 % en Under Armour UA W Squad 2  Zapatillas de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YrLFWGYoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YrLFWGYoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YrLFWGYoL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Predator 19.3 TF J  Botas de fútb al 54.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Nxpun70FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Nxpun70FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Nxpun70FL._SL200_.jpg' ]
 comments: true
 category: ofertas

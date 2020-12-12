@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.61 % en Casio Reloj Analógico para Hombre de Cua'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BybeBNw4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BybeBNw4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BybeBNw4L._SL200_.jpg' ]
 comments: true
 category: ofertas

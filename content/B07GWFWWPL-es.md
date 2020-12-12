@@ -3,6 +3,7 @@ layout: post
 title: 'DAMIGRAM 24 Bolsillos Carpetas Plastico  al 86.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WHXL88rvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WHXL88rvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WHXL88rvL._SL200_.jpg' ]
 comments: true
 category: ofertas

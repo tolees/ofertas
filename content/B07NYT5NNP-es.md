@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.91 % en San Ignacio Pixel Pro Cooper Set de 3 sa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y8d3gGgFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51y8d3gGgFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y8d3gGgFL._SL200_.jpg' ]
 comments: true
 category: ofertas

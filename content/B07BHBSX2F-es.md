@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Kipling - Ness  Carteras Mujer  Varios c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nBJX78ZYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nBJX78ZYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nBJX78ZYL._SL200_.jpg' ]
 comments: true
 category: ofertas

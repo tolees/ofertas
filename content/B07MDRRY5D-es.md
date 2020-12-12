@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.51 % en YAOHU Albume Fotos  Cuero Adhesivas Álbu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GcY3v4dVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GcY3v4dVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GcY3v4dVL._SL200_.jpg' ]
 comments: true
 category: ofertas

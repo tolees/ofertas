@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 18195-0055  Polo para Hombre  Azu al 40.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y4uaWQrBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y4uaWQrBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y4uaWQrBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Liza PL701101 Chaqueta Punto  al 72.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A2puqFKNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A2puqFKNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A2puqFKNL._SL200_.jpg' ]
 comments: true
 category: ofertas

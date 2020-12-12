@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 5DS Oxford AOP Jersey  Hombr al 53.48 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

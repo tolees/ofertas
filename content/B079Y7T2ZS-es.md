@@ -3,6 +3,7 @@ layout: post
 title: 'Sacacorchos Eléctrico Recargable Abridor al 62.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51p8MtDWbgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51p8MtDWbgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51p8MtDWbgL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Burton All Day Long Gorro  Hombre  Verde al 53.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DkgpeoMDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DkgpeoMDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DkgpeoMDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Nk Brsla L Duff Gym Bag  Unisex adu al 50.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fyHog4kxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fyHog4kxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fyHog4kxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.2.J.Ap.T.Studs Print Jerse al 60.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mFdMQPIHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mFdMQPIHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mFdMQPIHL._SL200_.jpg' ]
 comments: true
 category: ofertas

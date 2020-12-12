@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Air Zoom Vomero 14  Zapatillas de R al 40.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZafCXXivL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZafCXXivL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZafCXXivL._SL200_.jpg' ]
 comments: true
 category: ofertas

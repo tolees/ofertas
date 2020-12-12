@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.91 % en Skechers Go Run 600-Zeeton  Zapatillas p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415p0eW3iLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415p0eW3iLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415p0eW3iLL._SL200_.jpg' ]
 comments: true
 category: ofertas

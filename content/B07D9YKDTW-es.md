@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Suede Classic Shearling  Zapatillas al 77.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41US86oogfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41US86oogfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41US86oogfL._SL200_.jpg' ]
 comments: true
 category: ofertas

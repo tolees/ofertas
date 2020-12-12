@@ -3,6 +3,7 @@ layout: post
 title: 'Xbox One - Pack Consola S 1 TB Halo Wars al 34.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wf6w10XcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wf6w10XcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wf6w10XcL._SL200_.jpg' ]
 comments: true
 category: ofertas

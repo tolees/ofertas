@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.92 % en FreeQuent Nero-JA  Chaqueta de Traje par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413x27dQIVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413x27dQIVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413x27dQIVL._SL200_.jpg' ]
 comments: true
 category: ofertas

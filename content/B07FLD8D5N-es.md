@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry 34th St Hood  suéter Hombre  Gr al 72.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-WDEKmd2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-WDEKmd2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-WDEKmd2L._SL200_.jpg' ]
 comments: true
 category: ofertas

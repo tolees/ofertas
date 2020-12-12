@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 574v2  Zapatillas para Mujer al 31.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NMsNrVkOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NMsNrVkOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NMsNrVkOL._SL200_.jpg' ]
 comments: true
 category: ofertas

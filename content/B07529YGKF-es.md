@@ -3,6 +3,7 @@ layout: post
 title: 'Kepmem Memoria USB 2.0 DE 32 GB Forma Co al 26.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o8I6PhLdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o8I6PhLdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o8I6PhLdL._SL200_.jpg' ]
 comments: true
 category: ofertas

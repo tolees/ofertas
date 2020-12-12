@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans TJM Circle Graphic tee Camis al 31.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o6KC1Z3-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o6KC1Z3-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o6KC1Z3-L._SL200_.jpg' ]
 comments: true
 category: ofertas

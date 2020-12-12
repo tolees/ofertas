@@ -3,6 +3,7 @@ layout: post
 title: 'OxyLED Luces de cadena de hadas 120LED 1 al 79.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ETuYuijiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ETuYuijiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ETuYuijiL._SL200_.jpg' ]
 comments: true
 category: ofertas

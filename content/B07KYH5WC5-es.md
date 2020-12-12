@@ -3,6 +3,7 @@ layout: post
 title: 'E-liquidos  E Liquido Vaper Sin Nicotina al 51.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Dq9whnAoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Dq9whnAoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Dq9whnAoL._SL200_.jpg' ]
 comments: true
 category: ofertas

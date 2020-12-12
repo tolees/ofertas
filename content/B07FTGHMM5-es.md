@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.74 % en Lee Scarlett  Vaqueros Skinny para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dk31qc-mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dk31qc-mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dk31qc-mL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.72 % en Swarovski Collar Luckily Evil Eye  Blanc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BToEEC0NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BToEEC0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BToEEC0NL._SL200_.jpg' ]
 comments: true
 category: ofertas

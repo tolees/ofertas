@@ -3,6 +3,7 @@ layout: post
 title: 'Bahco 4128-JT-H - Serrucho Poda 28 Cm +  al 25.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MIjBZyR-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MIjBZyR-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MIjBZyR-L._SL200_.jpg' ]
 comments: true
 category: ofertas

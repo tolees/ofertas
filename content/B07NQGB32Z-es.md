@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.24 % en Montse Interiors Juego de sábanas Estamp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v0Euq54XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v0Euq54XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v0Euq54XL._SL200_.jpg' ]
 comments: true
 category: ofertas

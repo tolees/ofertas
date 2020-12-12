@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.53 % en Reebok Royal Glide LX  Zapatillas de Dep'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31US1fiWtCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31US1fiWtCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31US1fiWtCL._SL200_.jpg' ]
 comments: true
 category: ofertas

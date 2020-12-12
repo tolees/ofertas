@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.05 % en AEG EWA7800 Hervidor 2400 W  1.7 litros '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ldIX25gVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ldIX25gVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ldIX25gVL._SL200_.jpg' ]
 comments: true
 category: ofertas

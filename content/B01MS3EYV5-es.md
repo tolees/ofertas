@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.87 % en Astan Hogar Arrocera Multifunción 1 2 li'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315n4-Ne6SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315n4-Ne6SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315n4-Ne6SL._SL200_.jpg' ]
 comments: true
 category: ofertas

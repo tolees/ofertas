@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.09 % en Charles Wilson Sudadera con Capucha Peso'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fXkvHMD4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fXkvHMD4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fXkvHMD4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.89 % en Quiksilver SMALLEVERYDAYED M BKPK SGRH M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uQuTB9qsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uQuTB9qsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uQuTB9qsL._SL200_.jpg' ]
 comments: true
 category: ofertas

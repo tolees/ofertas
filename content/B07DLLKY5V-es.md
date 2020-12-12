@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.75 % en Springfield 2.BS.Oi18 AOP Estrella Camis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Yiu8lewYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Yiu8lewYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Yiu8lewYL._SL200_.jpg' ]
 comments: true
 category: ofertas

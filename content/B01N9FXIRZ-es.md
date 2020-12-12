@@ -3,6 +3,7 @@ layout: post
 title: 'Justice League Batmóvil con lanzamisiles al 53.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FKNnLOZSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FKNnLOZSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FKNnLOZSL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Medisana WL 450 45105  Despertador con L al 81.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UPA5EZPLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UPA5EZPLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UPA5EZPLL._SL200_.jpg' ]
 comments: true
 category: ofertas

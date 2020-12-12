@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.01 % en Envasadora al Vacío  ACRATO Sellador al '
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

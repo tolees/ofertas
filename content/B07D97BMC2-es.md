@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48429  Botines para Mujer  Negro  Bl al 73.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RewmSm9zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RewmSm9zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RewmSm9zL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.81 % en Clarks Lafley Rosen  Sandalias de Talón '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gSsUnTDyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gSsUnTDyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gSsUnTDyL._SL200_.jpg' ]
 comments: true
 category: ofertas

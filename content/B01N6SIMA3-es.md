@@ -3,6 +3,7 @@ layout: post
 title: 'GB Eye LTD  Wonder Woman  Corriendo  Pri al 42.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AGwxaamGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AGwxaamGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AGwxaamGL._SL200_.jpg' ]
 comments: true
 category: ofertas

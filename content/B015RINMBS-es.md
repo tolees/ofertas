@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.67 % en Mueble TV de 2 Puertas en Color Roble co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UqoKLxzhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UqoKLxzhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UqoKLxzhL._SL200_.jpg' ]
 comments: true
 category: ofertas

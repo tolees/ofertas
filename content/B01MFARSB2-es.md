@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.98 % en Redford Nizza  Camisa Hombre  Azul  Blau'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BPBUxSpQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BPBUxSpQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BPBUxSpQL._SL200_.jpg' ]
 comments: true
 category: ofertas

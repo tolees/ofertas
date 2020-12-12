@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 078cc2b009  Pantalones Hom al 57.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MncO-y9mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MncO-y9mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MncO-y9mL._SL200_.jpg' ]
 comments: true
 category: ofertas

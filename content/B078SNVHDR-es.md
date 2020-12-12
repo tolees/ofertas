@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.85 % en GreatCool Soporte Móvil Coche Triple Taz'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514-6aHwJ0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514-6aHwJ0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514-6aHwJ0L._SL200_.jpg' ]
 comments: true
 category: ofertas

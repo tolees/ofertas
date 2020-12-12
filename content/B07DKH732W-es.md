@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling - Trix  Monederos Mujer  Verde   al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tVJ7x4K-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tVJ7x4K-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tVJ7x4K-L._SL200_.jpg' ]
 comments: true
 category: ofertas

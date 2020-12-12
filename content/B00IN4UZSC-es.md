@@ -3,6 +3,7 @@ layout: post
 title: 'Jako Active - Chaqueta deportiva para ho al 56.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EA295v7JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EA295v7JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EA295v7JL._SL200_.jpg' ]
 comments: true
 category: ofertas

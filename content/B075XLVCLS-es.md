@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en New Balance Summit KOM  Zapatillas de Ru'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lriTpJ9lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lriTpJ9lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lriTpJ9lL._SL200_.jpg' ]
 comments: true
 category: ofertas

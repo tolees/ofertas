@@ -3,6 +3,7 @@ layout: post
 title: 'Kensington K72339EU - Ratón  USB  Con ca al 66.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41if3fha1yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41if3fha1yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41if3fha1yL._SL200_.jpg' ]
 comments: true
 category: ofertas

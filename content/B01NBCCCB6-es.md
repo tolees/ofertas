@@ -3,6 +3,7 @@ layout: post
 title: 'Sensilis Skin Delight Tratamiento Facial al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XaxPQuSfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XaxPQuSfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XaxPQuSfL._SL200_.jpg' ]
 comments: true
 category: ofertas

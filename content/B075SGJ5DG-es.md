@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 92517 Camiseta  Gris  Grey   al 70.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412%2Bzw6W9eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412%2Bzw6W9eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412%2Bzw6W9eL._SL200_.jpg' ]
 comments: true
 category: ofertas

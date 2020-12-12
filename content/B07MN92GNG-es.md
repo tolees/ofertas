@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.07 % en MTNG 84212  Zapatillas para Hombre   Cow'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dZV5DOaTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dZV5DOaTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dZV5DOaTL._SL200_.jpg' ]
 comments: true
 category: ofertas

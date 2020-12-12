@@ -3,6 +3,7 @@ layout: post
 title: 'D-Link DHP-P601AV – Kit Powerline AV2 PL al 43.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b-2imxgRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b-2imxgRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b-2imxgRL._SL200_.jpg' ]
 comments: true
 category: ofertas

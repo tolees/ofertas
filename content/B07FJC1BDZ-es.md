@@ -3,6 +3,7 @@ layout: post
 title: 'blue seven Damen-Langarmshirt Von mit Fr al 65.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QBCuMucSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QBCuMucSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QBCuMucSL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Puma Vikky v2 Zapatillas Mujer  Azu al 25.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414wjU%2B-4gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414wjU%2B-4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414wjU%2B-4gL._SL200_.jpg' ]
 comments: true
 category: ofertas

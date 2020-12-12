@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.81 % en Joma Combi - Pantalón Deportivo para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31N9oFB9P2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31N9oFB9P2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31N9oFB9P2L._SL200_.jpg' ]
 comments: true
 category: ofertas

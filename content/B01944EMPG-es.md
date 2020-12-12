@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.70 % en New Balance 490v4  Zapatillas Deportivas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Trtrr50tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Trtrr50tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Trtrr50tL._SL200_.jpg' ]
 comments: true
 category: ofertas

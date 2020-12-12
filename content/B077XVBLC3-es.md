@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Sujetador Deportivo para Mu al 49.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J0DRQWrfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J0DRQWrfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J0DRQWrfL._SL200_.jpg' ]
 comments: true
 category: ofertas

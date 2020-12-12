@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Amplica  Zapatillas de Entrenamien al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VIC3scRdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VIC3scRdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VIC3scRdL._SL200_.jpg' ]
 comments: true
 category: ofertas

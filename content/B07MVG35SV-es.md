@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.85 % en Mandolina de Cocina Multiusos con Espira'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tMwRkcVAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tMwRkcVAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tMwRkcVAL._SL200_.jpg' ]
 comments: true
 category: ofertas

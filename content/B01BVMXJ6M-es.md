@@ -3,6 +3,7 @@ layout: post
 title: 'Shunga Kit Tickle Me  Color Rosa/Negro - al 29.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AbZ3IVGWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AbZ3IVGWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AbZ3IVGWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Vs Set  Zapatillas de Deporte par al 31.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ZctiE6cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-ZctiE6cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ZctiE6cL._SL200_.jpg' ]
 comments: true
 category: ofertas

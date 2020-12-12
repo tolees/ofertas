@@ -3,6 +3,7 @@ layout: post
 title: 'hummel HMLMATEO Hoodies  Hombre  Gris  G al 64.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CK9YcsK9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CK9YcsK9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CK9YcsK9L._SL200_.jpg' ]
 comments: true
 category: ofertas

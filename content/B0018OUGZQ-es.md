@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.18 % en deAO Mesita Cajón de Arena y Agua con Ac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y%2B3YdvwLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y%2B3YdvwLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y%2B3YdvwLL._SL200_.jpg' ]
 comments: true
 category: ofertas

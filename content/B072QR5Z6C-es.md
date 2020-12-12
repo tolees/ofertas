@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Campus  Zapatillas para Hombre  R al 62.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4171du4vjWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4171du4vjWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4171du4vjWL._SL200_.jpg' ]
 comments: true
 category: ofertas

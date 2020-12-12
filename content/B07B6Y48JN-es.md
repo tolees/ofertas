@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fresh Foam Arishi  Zapatilla al 61.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Q0ciT294L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Q0ciT294L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Q0ciT294L._SL200_.jpg' ]
 comments: true
 category: ofertas

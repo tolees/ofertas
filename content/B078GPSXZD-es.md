@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.38 % en HUGO Men Eynold  Camisa Hombre  Blanco  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417dxXjOoHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417dxXjOoHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417dxXjOoHL._SL200_.jpg' ]
 comments: true
 category: ofertas

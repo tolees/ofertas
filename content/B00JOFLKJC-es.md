@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.42 % en Festina F16759/2 - Reloj de cuarzo para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t1MZ9NEmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t1MZ9NEmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t1MZ9NEmL._SL200_.jpg' ]
 comments: true
 category: ofertas

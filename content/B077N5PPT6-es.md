@@ -3,6 +3,7 @@ layout: post
 title: 'POLO NOX NILY BLANCO al 76.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PHYmMbdmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PHYmMbdmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PHYmMbdmL._SL200_.jpg' ]
 comments: true
 category: ofertas

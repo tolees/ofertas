@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.52 % en Hurley Supersuede Koko Beachrider Bañado'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

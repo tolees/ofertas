@@ -3,6 +3,7 @@ layout: post
 title: 'Kingston SSDNow UV400 - Disco Duro sólid al 27.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f%2BEc7OenL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f%2BEc7OenL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f%2BEc7OenL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.90 % en DKNY 0Dy4675  Monturas de Gafas para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3123Cn4aHHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3123Cn4aHHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3123Cn4aHHL._SL200_.jpg' ]
 comments: true
 category: ofertas

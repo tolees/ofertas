@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.11 % en WORX WX372.9 - Taladro Percutor 20V S/ba'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511z0DbAVPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511z0DbAVPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511z0DbAVPL._SL200_.jpg' ]
 comments: true
 category: ofertas

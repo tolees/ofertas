@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.99 % en Only onlULTIMATE RG SK Zip Soft Black A '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YmHBe1RzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YmHBe1RzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YmHBe1RzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.39 % en APC Instruments Mini Jb 200 Psi Pk - Ins'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-vcwGXnTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-vcwGXnTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-vcwGXnTL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.37 % en NewOne AR260 60W Negro Receptor Multimed'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CnlNNqvCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CnlNNqvCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CnlNNqvCL._SL200_.jpg' ]
 comments: true
 category: ofertas

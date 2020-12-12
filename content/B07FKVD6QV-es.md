@@ -3,6 +3,7 @@ layout: post
 title: 'Cobertor Invierno para Piscina Desmontab al 43.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F97UIvG2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F97UIvG2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F97UIvG2L._SL200_.jpg' ]
 comments: true
 category: ofertas

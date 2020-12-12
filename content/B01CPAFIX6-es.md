@@ -3,6 +3,7 @@ layout: post
 title: 'Divina Providencia Vestido Astrid Coral  al 87.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31M7x-epcAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31M7x-epcAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31M7x-epcAL._SL200_.jpg' ]
 comments: true
 category: ofertas

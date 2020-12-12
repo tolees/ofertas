@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 88.28 % en NAOKO Vestido At5 Negro/Blanco S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41My0t9BtML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41My0t9BtML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41My0t9BtML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'WUXIAN Xuduo Cargador iPhone 1M- 3 Pack  al 66.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JGqxymekL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JGqxymekL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JGqxymekL._SL200_.jpg' ]
 comments: true
 category: ofertas

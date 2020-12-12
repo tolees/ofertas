@@ -3,6 +3,7 @@ layout: post
 title: 'Vectry Vestidos De Fiesta para Bodas Tal al 74.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312B58N8dgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312B58N8dgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312B58N8dgL._SL200_.jpg' ]
 comments: true
 category: ofertas

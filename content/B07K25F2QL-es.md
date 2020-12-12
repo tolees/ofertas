@@ -3,6 +3,7 @@ layout: post
 title: 'Bovon Transmisor FM Bluetooth  Bluetooth al 29.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kps%2BDlmUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kps%2BDlmUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kps%2BDlmUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.26 % en Silverline 749248 Hinca postes 670 x 170'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GqeOMiRpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GqeOMiRpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GqeOMiRpL._SL200_.jpg' ]
 comments: true
 category: ofertas

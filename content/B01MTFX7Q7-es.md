@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.07 % en Comodynes Gotas Faciales Autobronceadora'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SiWE-W47L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SiWE-W47L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SiWE-W47L._SL200_.jpg' ]
 comments: true
 category: ofertas

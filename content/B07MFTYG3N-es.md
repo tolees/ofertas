@@ -3,6 +3,7 @@ layout: post
 title: 'TiooDre 10 UNIDS DIY Acrílico Etiqueta d al 65.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xuZASvngL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xuZASvngL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xuZASvngL._SL200_.jpg' ]
 comments: true
 category: ofertas

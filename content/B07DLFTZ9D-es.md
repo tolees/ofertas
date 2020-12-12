@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 5Ba Funnel Henley C S Azul S al 49.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mFDrF3urL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mFDrF3urL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mFDrF3urL._SL200_.jpg' ]
 comments: true
 category: ofertas

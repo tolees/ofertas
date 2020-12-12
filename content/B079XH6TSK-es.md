@@ -3,6 +3,7 @@ layout: post
 title: 'Westinghouse One-Light Indoor Pendant Lá al 58.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313fGe40imL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313fGe40imL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313fGe40imL._SL200_.jpg' ]
 comments: true
 category: ofertas

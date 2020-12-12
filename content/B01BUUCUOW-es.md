@@ -3,6 +3,7 @@ layout: post
 title: 'Muse M-172BT Radio Reloj Bluetooth/NFC al 56.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2ByNHMcvbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2ByNHMcvbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2ByNHMcvbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 2.T.Ap. Piedras Colores Bima al 61.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410yzQS-ayL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410yzQS-ayL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410yzQS-ayL._SL200_.jpg' ]
 comments: true
 category: ofertas

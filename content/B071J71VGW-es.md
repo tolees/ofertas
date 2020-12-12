@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour 1312478-001  Calcetines Par al 51.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X8P88ARVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X8P88ARVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X8P88ARVL._SL200_.jpg' ]
 comments: true
 category: ofertas

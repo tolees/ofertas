@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.97 % en BLACK+DECKER CS1835-QS - Motosierra eléc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZioMLqncL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZioMLqncL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZioMLqncL._SL200_.jpg' ]
 comments: true
 category: ofertas

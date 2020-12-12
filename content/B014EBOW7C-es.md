@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.17 % en Salomon Trail 20 Backpack  Unisex Adulto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xRRRAS2JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xRRRAS2JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xRRRAS2JL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.79 % en Bosch 2 608 653 065 - Hoja de sierra sab'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aNVrj6zKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aNVrj6zKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aNVrj6zKL._SL200_.jpg' ]
 comments: true
 category: ofertas

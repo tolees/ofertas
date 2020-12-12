@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.56 % en Dim Slip Generous Classique X2 Braguita '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z3ZPmKPZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z3ZPmKPZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z3ZPmKPZL._SL200_.jpg' ]
 comments: true
 category: ofertas

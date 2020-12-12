@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Zen Sudadera con capucha  Azu al 51.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iKBH1ghkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iKBH1ghkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iKBH1ghkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Royal Ultra  Zapatillas para Homb al 49.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418VmesQEaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418VmesQEaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418VmesQEaL._SL200_.jpg' ]
 comments: true
 category: ofertas

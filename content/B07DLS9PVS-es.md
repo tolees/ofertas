@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6.J.Ap.T.Allover Stars Jerse al 66.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416WanH8V4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416WanH8V4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416WanH8V4L._SL200_.jpg' ]
 comments: true
 category: ofertas

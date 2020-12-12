@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Camisa Manga Corta Camisa Ca al 47.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j2uMLsZUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j2uMLsZUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j2uMLsZUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'UliX Sele Auriculares On-Ear Cable Trenz al 54.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511zcT9XXCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511zcT9XXCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511zcT9XXCL._SL200_.jpg' ]
 comments: true
 category: ofertas

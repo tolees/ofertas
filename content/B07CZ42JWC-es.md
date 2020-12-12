@@ -3,6 +3,7 @@ layout: post
 title: 'Puma 365 Ignite Fuse 2  Zapatillas de Fú al 74.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41js51pyRNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41js51pyRNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41js51pyRNL._SL200_.jpg' ]
 comments: true
 category: ofertas

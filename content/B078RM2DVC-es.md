@@ -3,6 +3,7 @@ layout: post
 title: 'Lenovo Yoga 920-13IKB - Ordenador portát al 33.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4160p%2BMpsgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4160p%2BMpsgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4160p%2BMpsgL._SL200_.jpg' ]
 comments: true
 category: ofertas

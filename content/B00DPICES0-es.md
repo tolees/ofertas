@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.34 % en Bed Head by TIGI - Oh Bee Hive Matte - C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bWyMP5h7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bWyMP5h7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bWyMP5h7L._SL200_.jpg' ]
 comments: true
 category: ofertas

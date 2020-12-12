@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Sport Sj2903 Sudadera con Capuch al 44.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qYOaIPMaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qYOaIPMaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qYOaIPMaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Shiseido 61260 - Crema  30 ml al 65.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qADhd0jTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qADhd0jTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qADhd0jTL._SL200_.jpg' ]
 comments: true
 category: ofertas

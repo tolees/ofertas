@@ -3,6 +3,7 @@ layout: post
 title: 'ZEROVIDA Respaldo Masaje Shiatsu 3D Masa al 69.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qj9eWrvnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qj9eWrvnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qj9eWrvnL._SL200_.jpg' ]
 comments: true
 category: ofertas

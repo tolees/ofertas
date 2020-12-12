@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.09 % en Brooks Qw-k V3  Zapatillas de Running Un'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31441kVJ%2BJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31441kVJ%2BJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31441kVJ%2BJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.42 % en Vero Moda Vmblumi Balloon LS Open Cardig'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m4y3AqEgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m4y3AqEgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m4y3AqEgL._SL200_.jpg' ]
 comments: true
 category: ofertas

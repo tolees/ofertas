@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.88 % en Eferri 0JV5901  Shopper para Mujer  Plat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413e2xuStRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413e2xuStRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413e2xuStRL._SL200_.jpg' ]
 comments: true
 category: ofertas

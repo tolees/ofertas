@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Copa 17.3 Fg  Zapatillas de Fútbo al 58.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417t2PNtpDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417t2PNtpDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417t2PNtpDL._SL200_.jpg' ]
 comments: true
 category: ofertas

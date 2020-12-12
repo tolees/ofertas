@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel J-coreli Jacket Chaqueta  Negro   al 51.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tbMKXSMRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tbMKXSMRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tbMKXSMRL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers On-The-go Glide-Success  Zapati al 50.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zOd2ZtuDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zOd2ZtuDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zOd2ZtuDL._SL200_.jpg' ]
 comments: true
 category: ofertas

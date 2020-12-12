@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.40 % en Havaianas PARATY/M UZ 22D 50  Gafas de S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4132a495TvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4132a495TvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4132a495TvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.10 % en Camomila Intea Té Verde & Menta Mascaril'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GXJ067L%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GXJ067L%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GXJ067L%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

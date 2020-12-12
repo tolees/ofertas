@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.01 % en Luvion - 20 - Set de Termómetros Digital'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wdq0Y6VeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wdq0Y6VeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wdq0Y6VeL._SL200_.jpg' ]
 comments: true
 category: ofertas

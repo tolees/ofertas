@@ -3,6 +3,7 @@ layout: post
 title: 'DoreenBow - Perchero para Abrigos en la  al 99.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NBQHl1WfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NBQHl1WfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NBQHl1WfL._SL200_.jpg' ]
 comments: true
 category: ofertas

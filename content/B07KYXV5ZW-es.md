@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.98 % en Springfield Frq.T.MD.All Over Flores Cam'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

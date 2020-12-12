@@ -3,6 +3,7 @@ layout: post
 title: 'Mazinger Z - Box 7 [Blu-ray] al 49.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/619%2Bp7O7dZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/619%2Bp7O7dZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/619%2Bp7O7dZL._SL200_.jpg' ]
 comments: true
 category: ofertas

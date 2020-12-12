@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.33 % en Natrol Biotin 10000mcg Fast Dissolve Sta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417F0BJLAEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417F0BJLAEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417F0BJLAEL._SL200_.jpg' ]
 comments: true
 category: ofertas

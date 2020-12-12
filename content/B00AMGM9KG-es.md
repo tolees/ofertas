@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 89.52 % en Banana Moon - Bañador de Manga Corta par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419fQGBGeHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419fQGBGeHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419fQGBGeHL._SL200_.jpg' ]
 comments: true
 category: ofertas

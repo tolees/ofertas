@@ -3,6 +3,7 @@ layout: post
 title: 'Timex Reloj de Pulsera TW2R64400 al 27.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZBpiDmqdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZBpiDmqdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZBpiDmqdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.17 % en Bergner Q1932 Bolsa Almuerzo  Tela  Rojo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OaR7A09WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OaR7A09WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OaR7A09WL._SL200_.jpg' ]
 comments: true
 category: ofertas

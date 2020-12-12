@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Sloane Pantalones  Marrón  To al 61.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AlFVSd-FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AlFVSd-FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AlFVSd-FL._SL200_.jpg' ]
 comments: true
 category: ofertas

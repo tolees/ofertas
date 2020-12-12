@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.73 % en Only & Sons Onssato 5 Multi Clr Knit Noo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kRGR8oXCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kRGR8oXCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kRGR8oXCL._SL200_.jpg' ]
 comments: true
 category: ofertas

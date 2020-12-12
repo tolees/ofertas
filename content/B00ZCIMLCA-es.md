@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.77 % en Tumi Trolley para portátiles  Schwarz Gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RhKKtjiJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RhKKtjiJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RhKKtjiJL._SL200_.jpg' ]
 comments: true
 category: ofertas

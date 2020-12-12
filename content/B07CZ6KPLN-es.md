@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Bronson Slim Chino  Pantalon  al 63.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dWUg-3QfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dWUg-3QfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dWUg-3QfL._SL200_.jpg' ]
 comments: true
 category: ofertas

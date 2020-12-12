@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.86 % en s.Oliver 21704543391  Americana para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JXuaaRgGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JXuaaRgGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JXuaaRgGL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'D-Link DAP-1325 - Repetidor Amplificador al 31.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H6cJYZi1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31H6cJYZi1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31H6cJYZi1L._SL200_.jpg' ]
 comments: true
 category: ofertas

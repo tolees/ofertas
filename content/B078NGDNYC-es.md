@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.37 % en Calvin Klein Stitch Detail Belt 3.0cm Ci'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PcoHrlf4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PcoHrlf4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PcoHrlf4L._SL200_.jpg' ]
 comments: true
 category: ofertas

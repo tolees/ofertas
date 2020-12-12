@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling CLAS SEOUL Mochila escolar  45 c al 54.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41alXDXo57L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41alXDXo57L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41alXDXo57L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.48 % en Yamaha PSR-S670 - Teclado  color negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XvwoaYrsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XvwoaYrsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XvwoaYrsL._SL200_.jpg' ]
 comments: true
 category: ofertas

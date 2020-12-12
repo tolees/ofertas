@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.00 % en Camper Andratx  Zapatillas Altas para Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TSiNsl9UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TSiNsl9UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TSiNsl9UL._SL200_.jpg' ]
 comments: true
 category: ofertas

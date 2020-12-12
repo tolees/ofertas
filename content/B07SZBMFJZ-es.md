@@ -3,6 +3,7 @@ layout: post
 title: 'Aibrou Lenceria Mujer Sexy Camisón Conju al 46.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FOQs2iAbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FOQs2iAbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FOQs2iAbL._SL200_.jpg' ]
 comments: true
 category: ofertas

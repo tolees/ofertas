@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Charged Escape 2  Zapatilla al 60.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XkHu6YUQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XkHu6YUQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XkHu6YUQL._SL200_.jpg' ]
 comments: true
 category: ofertas

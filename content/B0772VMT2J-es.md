@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.77 % en Columbia Silver Ridge II Shorts  Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O3HSJv4hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31O3HSJv4hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O3HSJv4hL._SL200_.jpg' ]
 comments: true
 category: ofertas

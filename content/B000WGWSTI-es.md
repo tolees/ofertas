@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 93.18 % en Faber Castell  - lapiz hexagonal bicolor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o0816%2BLuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o0816%2BLuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o0816%2BLuL._SL200_.jpg' ]
 comments: true
 category: ofertas

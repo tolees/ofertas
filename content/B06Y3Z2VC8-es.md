@@ -3,6 +3,7 @@ layout: post
 title: 'FUNKID Xiaomi Mi Band 2 Pulsera Correa p al 48.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A3GJ0oQLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A3GJ0oQLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A3GJ0oQLL._SL200_.jpg' ]
 comments: true
 category: ofertas

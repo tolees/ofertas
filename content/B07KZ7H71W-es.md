@@ -3,6 +3,7 @@ layout: post
 title: 'DC Apparel Circle Star T-Shirt  Hombre   al 55.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iLf8bEXzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iLf8bEXzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iLf8bEXzL._SL200_.jpg' ]
 comments: true
 category: ofertas

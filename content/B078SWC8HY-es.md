@@ -3,6 +3,7 @@ layout: post
 title: 'Women’secret Pijama Largo Pijama de una  al 56.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u8ke9dOSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u8ke9dOSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u8ke9dOSL._SL200_.jpg' ]
 comments: true
 category: ofertas

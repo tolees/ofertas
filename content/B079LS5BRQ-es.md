@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.04 % en Lenovo Ideacentre AIO 910-27ISH - Ordena'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415N54WjZML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415N54WjZML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415N54WjZML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.64 % en Grease 1  4K UHD + BD  [Blu-ray]'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sNihWxNnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sNihWxNnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sNihWxNnL._SL200_.jpg' ]
 comments: true
 category: ofertas

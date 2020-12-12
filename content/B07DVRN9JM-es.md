@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Nitrate 2.0  Zapatillas para Ni al 45.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410YPR3-rtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410YPR3-rtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410YPR3-rtL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.42 % en Carrera Junior CARRERINO 21 UZ 807  Gafa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qpa-Fbf6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qpa-Fbf6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qpa-Fbf6L._SL200_.jpg' ]
 comments: true
 category: ofertas

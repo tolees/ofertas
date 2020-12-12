@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Slingride 2  Zapatillas de  al 64.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4190USrkZTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4190USrkZTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4190USrkZTL._SL200_.jpg' ]
 comments: true
 category: ofertas

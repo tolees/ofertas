@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Nimbus 21 1011a257-001  Zapati al 32.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NRR9-hBlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NRR9-hBlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NRR9-hBlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jordaneel Shirt SS  Camisa  al 70.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ezv92d8xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ezv92d8xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ezv92d8xL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.05 % en Under Armour Run True Heatgear Tight Leg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FX-uQ0UNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FX-uQ0UNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FX-uQ0UNL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'CALLAGHAN - 14200-45 al 36.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41roOOY0izL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41roOOY0izL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41roOOY0izL._SL200_.jpg' ]
 comments: true
 category: ofertas

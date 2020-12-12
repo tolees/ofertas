@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2750-COTJSTRAP Classic  Zapatill al 58.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T66HJ6E9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T66HJ6E9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T66HJ6E9L._SL200_.jpg' ]
 comments: true
 category: ofertas

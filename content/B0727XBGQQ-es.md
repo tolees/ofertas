@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Jax High  Botas Desert para Hombr al 67.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CKCu6rSXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CKCu6rSXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CKCu6rSXL._SL200_.jpg' ]
 comments: true
 category: ofertas

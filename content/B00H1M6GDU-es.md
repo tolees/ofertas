@@ -3,6 +3,7 @@ layout: post
 title: 'Edge Entertainment - 5 pepinos  Juego de al 59.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dFwy2eEoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dFwy2eEoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dFwy2eEoL._SL200_.jpg' ]
 comments: true
 category: ofertas

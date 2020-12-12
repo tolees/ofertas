@@ -3,6 +3,7 @@ layout: post
 title: 'Uten Calentador de Cerámica Portátil Cal al 64.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MGMchcx%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MGMchcx%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MGMchcx%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

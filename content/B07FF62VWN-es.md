@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.41 % en Quiksilver Aker Sudadera con Capucha  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p8tbAWJ-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p8tbAWJ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p8tbAWJ-L._SL200_.jpg' ]
 comments: true
 category: ofertas

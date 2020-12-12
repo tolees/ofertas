@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Auriculares con micrófono  S al 55.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qGuGTK7-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qGuGTK7-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qGuGTK7-L._SL200_.jpg' ]
 comments: true
 category: ofertas

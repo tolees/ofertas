@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.65 % en JACK & JONES Jortippi Sweat Hood  Capuch'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SdZc5EmPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SdZc5EmPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SdZc5EmPL._SL200_.jpg' ]
 comments: true
 category: ofertas

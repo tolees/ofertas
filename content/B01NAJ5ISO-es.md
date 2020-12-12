@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.27 % en Helly Hansen W Crew Hooded Midlayer Chaq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413ERaQIIML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413ERaQIIML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413ERaQIIML._SL200_.jpg' ]
 comments: true
 category: ofertas

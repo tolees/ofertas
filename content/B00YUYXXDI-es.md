@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.60 % en LE CREUSET Cocotte  Azul Caribe  26 cm'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41igb%2BfWbxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41igb%2BfWbxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41igb%2BfWbxL._SL200_.jpg' ]
 comments: true
 category: ofertas

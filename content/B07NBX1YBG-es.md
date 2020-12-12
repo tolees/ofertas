@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcosneak Light Jacket Chaqu al 33.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lY8ZmpPDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lY8ZmpPDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lY8ZmpPDL._SL200_.jpg' ]
 comments: true
 category: ofertas

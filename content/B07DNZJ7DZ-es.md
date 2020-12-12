@@ -3,6 +3,7 @@ layout: post
 title: 'Aster Vi-brador con Función de Ca-lefacc al 65.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416PyJOxxWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416PyJOxxWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416PyJOxxWL._SL200_.jpg' ]
 comments: true
 category: ofertas

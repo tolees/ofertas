@@ -3,6 +3,7 @@ layout: post
 title: 'Biback Biback - Juego de 6 recipientes m al 71.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51U0tmg1fWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51U0tmg1fWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51U0tmg1fWL._SL200_.jpg' ]
 comments: true
 category: ofertas

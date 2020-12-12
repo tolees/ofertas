@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Air MAX Infuriate 2 Mid Aa7066-001  al 25.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-zfBNT9UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-zfBNT9UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-zfBNT9UL._SL200_.jpg' ]
 comments: true
 category: ofertas

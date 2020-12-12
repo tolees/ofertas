@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.00 % en FIND Zapatos T-bar de Tacón Mujer  Plate'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31f0YIZml5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31f0YIZml5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31f0YIZml5L._SL200_.jpg' ]
 comments: true
 category: ofertas

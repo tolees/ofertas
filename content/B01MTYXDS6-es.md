@@ -3,6 +3,7 @@ layout: post
 title: 'find. Vestido Corto con Estampado de Ray al 59.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iXFIobiVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iXFIobiVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iXFIobiVL._SL200_.jpg' ]
 comments: true
 category: ofertas

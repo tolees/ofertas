@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Silver Ridge III - Pantalones C al 71.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61mydmt4PhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61mydmt4PhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61mydmt4PhL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas DU9597 Mallas  Mujer  Negro/Blanc al 44.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x38xWp-dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31x38xWp-dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x38xWp-dL._SL200_.jpg' ]
 comments: true
 category: ofertas

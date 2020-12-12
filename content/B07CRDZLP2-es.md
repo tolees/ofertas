@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.83 % en Pepe Jeans West Sir  Camiseta para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31d1FeulqeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31d1FeulqeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31d1FeulqeL._SL200_.jpg' ]
 comments: true
 category: ofertas

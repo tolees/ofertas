@@ -3,6 +3,7 @@ layout: post
 title: 'Gratlin - Sujetador Lactancia Premamá Al al 45.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qhyn9VwfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qhyn9VwfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qhyn9VwfL._SL200_.jpg' ]
 comments: true
 category: ofertas

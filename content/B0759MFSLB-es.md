@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.79 % en Clarks Triactive Knit  Zapatillas Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BceADN7qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BceADN7qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BceADN7qL._SL200_.jpg' ]
 comments: true
 category: ofertas

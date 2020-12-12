@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.96 % en Lenovo Ideapad 320-15AST - Ordenador Por'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GTFK13jyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GTFK13jyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GTFK13jyL._SL200_.jpg' ]
 comments: true
 category: ofertas

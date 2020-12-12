@@ -3,6 +3,7 @@ layout: post
 title: 'Cullmann XCU outdoor DayPack 400+ - Moch al 26.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oK2o8tImL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oK2o8tImL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oK2o8tImL._SL200_.jpg' ]
 comments: true
 category: ofertas

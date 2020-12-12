@@ -3,6 +3,7 @@ layout: post
 title: 'Organic Shop Exfoliante Corporal Estimul al 30.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QYnrSAb6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QYnrSAb6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QYnrSAb6L._SL200_.jpg' ]
 comments: true
 category: ofertas

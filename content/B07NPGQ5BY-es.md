@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.17 % en YI 4k Cámara de acción Full HD 12MP WiFi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319WuUK85qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319WuUK85qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319WuUK85qL._SL200_.jpg' ]
 comments: true
 category: ofertas

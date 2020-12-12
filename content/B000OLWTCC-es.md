@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.77 % en Trixie Saco Suave Jasira  25x27x45 cm  N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O117OrbAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O117OrbAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O117OrbAL._SL200_.jpg' ]
 comments: true
 category: ofertas

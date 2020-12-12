@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.25 % en Puma Uprise Color Shift  Zapatillas Unis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OMjHjledL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OMjHjledL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OMjHjledL._SL200_.jpg' ]
 comments: true
 category: ofertas

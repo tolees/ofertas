@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Pico 4  PSV   Zapatillas de Tenis U al 36.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AXQGeQjBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AXQGeQjBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AXQGeQjBL._SL200_.jpg' ]
 comments: true
 category: ofertas

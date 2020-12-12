@@ -3,6 +3,7 @@ layout: post
 title: 'fozela Soundbar Bluetooth  estéreo inalá al 71.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RG6GQ9-KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RG6GQ9-KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RG6GQ9-KL._SL200_.jpg' ]
 comments: true
 category: ofertas

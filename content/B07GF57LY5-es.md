@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.63 % en Levi s Type 3 Chaqueta Vaquera  Azul  Ma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zmowXDK-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zmowXDK-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zmowXDK-L._SL200_.jpg' ]
 comments: true
 category: ofertas

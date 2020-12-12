@@ -3,6 +3,7 @@ layout: post
 title: 'Blend  Pantalones para Hombre  Negro  Bl al 54.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FR6w4WfEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FR6w4WfEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FR6w4WfEL._SL200_.jpg' ]
 comments: true
 category: ofertas

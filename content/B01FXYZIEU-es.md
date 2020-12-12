@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hiliger O1285XLEY 7R  Botas Chelse al 62.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fERUt4UuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fERUt4UuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fERUt4UuL._SL200_.jpg' ]
 comments: true
 category: ofertas

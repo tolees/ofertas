@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.07 % en Hoover - Steamjet Handy SSNH 1000 - Vapo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319qDmhgNXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319qDmhgNXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319qDmhgNXL._SL200_.jpg' ]
 comments: true
 category: ofertas

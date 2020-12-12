@@ -3,6 +3,7 @@ layout: post
 title: 'Maison & White Manteles de pizarra natur al 42.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9rlADKIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9rlADKIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9rlADKIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.90 % en Transformers 3   Blu-Ray 4K Ultra HD + B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FK8Btd%2B0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FK8Btd%2B0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FK8Btd%2B0L._SL200_.jpg' ]
 comments: true
 category: ofertas

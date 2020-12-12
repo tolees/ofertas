@@ -3,6 +3,7 @@ layout: post
 title: 'Linterna LED  Cofuture Literna de Mano 4 al 66.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41InPjyIcBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41InPjyIcBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41InPjyIcBL._SL200_.jpg' ]
 comments: true
 category: ofertas

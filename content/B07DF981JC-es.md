@@ -3,6 +3,7 @@ layout: post
 title: 'TEENO Sierra circular  hoja de Ø185mm x  al 63.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ieno-awYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ieno-awYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ieno-awYL._SL200_.jpg' ]
 comments: true
 category: ofertas

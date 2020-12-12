@@ -3,6 +3,7 @@ layout: post
 title: 'AJOXEL Afilador Cuchillos Profesional  3 al 66.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NDuXXwsrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NDuXXwsrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NDuXXwsrL._SL200_.jpg' ]
 comments: true
 category: ofertas

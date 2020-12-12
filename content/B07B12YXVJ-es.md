@@ -3,6 +3,7 @@ layout: post
 title: 'Desperados Cerveza - 4 Packs de 6 Botell al 27.25 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B07B12YXVJ.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B07B12YXVJ.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B07B12YXVJ.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

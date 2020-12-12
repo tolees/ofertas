@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 91.59 % en Lindbergh Men s Waistcoat For Suit  Chaq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eELoUFVLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eELoUFVLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eELoUFVLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Corsair SP140 LED Ventilador de PC  140  al 46.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410d4HXZ0uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410d4HXZ0uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410d4HXZ0uL._SL200_.jpg' ]
 comments: true
 category: ofertas

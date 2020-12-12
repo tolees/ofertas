@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Crisp BSC SS Camiseta Manga Corta al 53.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TbXOuDL-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TbXOuDL-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TbXOuDL-L._SL200_.jpg' ]
 comments: true
 category: ofertas

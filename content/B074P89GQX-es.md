@@ -3,6 +3,7 @@ layout: post
 title: 'Neutrogena ciudad escudo SPF 25 hidratac al 49.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4165mFdwylL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4165mFdwylL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4165mFdwylL._SL200_.jpg' ]
 comments: true
 category: ofertas

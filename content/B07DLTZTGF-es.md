@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6.T.Ap. Plumas C.Alto Chaque al 75.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PWu5pRi6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PWu5pRi6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PWu5pRi6L._SL200_.jpg' ]
 comments: true
 category: ofertas

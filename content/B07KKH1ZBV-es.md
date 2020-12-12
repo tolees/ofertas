@@ -3,6 +3,7 @@ layout: post
 title: 'ydkj AV Varita Mágica Cargador USB Clási al 82.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310U6Ny-yGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310U6Ny-yGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310U6Ny-yGL._SL200_.jpg' ]
 comments: true
 category: ofertas

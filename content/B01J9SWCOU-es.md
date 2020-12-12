@@ -3,6 +3,7 @@ layout: post
 title: 'HÄRVIST  Helsinki - Abrigo de manga larg al 83.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JQDHgvOuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JQDHgvOuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JQDHgvOuL._SL200_.jpg' ]
 comments: true
 category: ofertas

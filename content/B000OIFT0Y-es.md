@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.98 % en Intenso 4111156 - DVD+R  16x  4.7 GB'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D8iqY3NsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D8iqY3NsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D8iqY3NsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcomax tee SS Crewneck Cami al 33.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ApnyR99jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ApnyR99jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ApnyR99jL._SL200_.jpg' ]
 comments: true
 category: ofertas

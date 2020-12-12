@@ -3,6 +3,7 @@ layout: post
 title: 'Bollé Rocket Plus Máscaras  Unisex niños al 35.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311HkCYFG2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311HkCYFG2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311HkCYFG2L._SL200_.jpg' ]
 comments: true
 category: ofertas

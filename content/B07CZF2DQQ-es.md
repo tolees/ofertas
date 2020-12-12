@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.63 % en Salomon XA Pro 3D CSWP K  Zapatillas de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51L-AOdej2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51L-AOdej2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51L-AOdej2L._SL200_.jpg' ]
 comments: true
 category: ofertas

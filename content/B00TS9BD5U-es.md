@@ -3,6 +3,7 @@ layout: post
 title: 'Samyang F1112109101 - Objetivo fotográfi al 56.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eiN4FGGfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eiN4FGGfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eiN4FGGfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Galaxy J7 2017 - Smartphone Libr al 41.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FTbN%2BhmQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FTbN%2BhmQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FTbN%2BhmQL._SL200_.jpg' ]
 comments: true
 category: ofertas

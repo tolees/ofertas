@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Wool Jersey Duffle  Abrig al 74.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fK4uJeDvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fK4uJeDvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fK4uJeDvL._SL200_.jpg' ]
 comments: true
 category: ofertas

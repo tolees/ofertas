@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.53 % en Sabrinas Manchester  Bailarinas con Punt'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qvFz7CTnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qvFz7CTnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qvFz7CTnL._SL200_.jpg' ]
 comments: true
 category: ofertas

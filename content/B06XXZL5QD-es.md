@@ -3,6 +3,7 @@ layout: post
 title: 'Women s Bounce Control Wirefree High Imp al 37.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B-BVaIr6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B-BVaIr6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B-BVaIr6L._SL200_.jpg' ]
 comments: true
 category: ofertas

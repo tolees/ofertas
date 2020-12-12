@@ -3,6 +3,7 @@ layout: post
 title: 'American Tourister Summer Voyager Uprigh al 33.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318xq36joSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318xq36joSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318xq36joSL._SL200_.jpg' ]
 comments: true
 category: ofertas

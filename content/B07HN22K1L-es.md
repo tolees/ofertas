@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.23 % en SUPERSUN para Correa Apple Watch 42mm Cu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nfdCumZFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nfdCumZFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nfdCumZFL._SL200_.jpg' ]
 comments: true
 category: ofertas

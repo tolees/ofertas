@@ -3,6 +3,7 @@ layout: post
 title: 'Happy Girls Basic Jersey Leggings  Marfi al 29.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hgVORg75L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hgVORg75L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hgVORg75L._SL200_.jpg' ]
 comments: true
 category: ofertas

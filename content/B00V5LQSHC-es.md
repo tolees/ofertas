@@ -3,6 +3,7 @@ layout: post
 title: 'Kempa - Emotion L/S  Color Rojo  Talla L al 49.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eG7ZTQtXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eG7ZTQtXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eG7ZTQtXL._SL200_.jpg' ]
 comments: true
 category: ofertas

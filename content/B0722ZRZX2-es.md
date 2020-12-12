@@ -3,6 +3,7 @@ layout: post
 title: 'Puma One 17.4 IT  Zapatillas de Fútbol p al 46.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SKQb9BO8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SKQb9BO8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SKQb9BO8L._SL200_.jpg' ]
 comments: true
 category: ofertas

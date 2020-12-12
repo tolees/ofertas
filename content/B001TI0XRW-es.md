@@ -3,6 +3,7 @@ layout: post
 title: 'Kong JU03156 Pelota Air Grande - 2 Unida al 42.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518WLo1evWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518WLo1evWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518WLo1evWL._SL200_.jpg' ]
 comments: true
 category: ofertas

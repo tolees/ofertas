@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett Cropped  Jeans Mujer  Negro al 49.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317XO7K-VCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317XO7K-VCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317XO7K-VCL._SL200_.jpg' ]
 comments: true
 category: ofertas

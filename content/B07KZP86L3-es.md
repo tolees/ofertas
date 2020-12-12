@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.02 % en Organizadores de Viaje para Maletas  6 S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZHqBGUAZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZHqBGUAZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZHqBGUAZL._SL200_.jpg' ]
 comments: true
 category: ofertas

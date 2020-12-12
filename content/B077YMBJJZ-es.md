@@ -3,6 +3,7 @@ layout: post
 title: 'Sylvie Flirty Swimwear Babett  Parte de  al 84.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cu7C1%2BooL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cu7C1%2BooL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cu7C1%2BooL._SL200_.jpg' ]
 comments: true
 category: ofertas

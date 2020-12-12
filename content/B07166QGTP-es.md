@@ -3,6 +3,7 @@ layout: post
 title: 'Woxter Stinger Station Rx Black - Silla  al 27.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tDehQbdpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tDehQbdpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tDehQbdpL._SL200_.jpg' ]
 comments: true
 category: ofertas

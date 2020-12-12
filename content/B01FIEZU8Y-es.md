@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.03 % en Funko Vinyl: A Clockwork Orange: Alex Ta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Guj8CjnCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Guj8CjnCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Guj8CjnCL._SL200_.jpg' ]
 comments: true
 category: ofertas

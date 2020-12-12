@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.95 % en Pepe Jeans Duetone Bolso Bandolera  25 c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qQl9Zc19L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qQl9Zc19L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qQl9Zc19L._SL200_.jpg' ]
 comments: true
 category: ofertas

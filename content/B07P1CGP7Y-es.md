@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Tous MOCHILA KAOS UNIQUE'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

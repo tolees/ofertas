@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.01 % en Jurassic World 2 El Reino Caido  BD 3D +'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Zt-pjn5oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Zt-pjn5oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Zt-pjn5oL._SL200_.jpg' ]
 comments: true
 category: ofertas

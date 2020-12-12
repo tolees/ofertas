@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.79 % en Pedro del Hierro Vestido Azul Tinta ES 4'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312kLbJW7PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312kLbJW7PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312kLbJW7PL._SL200_.jpg' ]
 comments: true
 category: ofertas

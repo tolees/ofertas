@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.92 % en Sparco 00975NRVD Silla de Despacho  Negr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vFMKA33GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vFMKA33GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vFMKA33GL._SL200_.jpg' ]
 comments: true
 category: ofertas

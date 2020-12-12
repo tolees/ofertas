@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.86 % en DDR3 4 GB 1600MHZ GOODRAM 512X8 CL11 SR'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AOGHuxxjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AOGHuxxjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AOGHuxxjL._SL200_.jpg' ]
 comments: true
 category: ofertas

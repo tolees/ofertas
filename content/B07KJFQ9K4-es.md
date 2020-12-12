@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino - Borsa Canvas E Pebble Pu al 42.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DKIIzROBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DKIIzROBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DKIIzROBL._SL200_.jpg' ]
 comments: true
 category: ofertas

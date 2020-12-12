@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Tach Trunk 3 Pack Bañador  Ne al 40.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iwftfJJZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iwftfJJZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iwftfJJZL._SL200_.jpg' ]
 comments: true
 category: ofertas

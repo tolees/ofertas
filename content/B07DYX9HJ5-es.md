@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.53 % en Columbia Quantum Voyage II Hooded Jacket'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wLffsUokL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wLffsUokL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wLffsUokL._SL200_.jpg' ]
 comments: true
 category: ofertas

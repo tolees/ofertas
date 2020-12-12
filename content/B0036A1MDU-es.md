@@ -3,6 +3,7 @@ layout: post
 title: 'Amor Mista Condones Color Fruta - 12 Uni al 50.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CjBuDSxAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CjBuDSxAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CjBuDSxAL._SL200_.jpg' ]
 comments: true
 category: ofertas

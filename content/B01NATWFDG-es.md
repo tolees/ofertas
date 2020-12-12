@@ -3,6 +3,7 @@ layout: post
 title: 'RED WAGON Bfa001amz02001170210  Sandalia al 59.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rX5P4nr4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rX5P4nr4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rX5P4nr4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.85 % en Escala de peso de precisión para suelo i'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xcuf-83uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xcuf-83uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xcuf-83uL._SL200_.jpg' ]
 comments: true
 category: ofertas

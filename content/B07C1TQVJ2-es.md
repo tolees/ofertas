@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjipaul Jjflake AKM 542 Asp al 42.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cs%2BBvhB7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cs%2BBvhB7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cs%2BBvhB7L._SL200_.jpg' ]
 comments: true
 category: ofertas

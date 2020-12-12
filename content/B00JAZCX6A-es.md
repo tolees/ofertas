@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.73 % en Lacor 69314 - Máquina para cubitos de hi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514LGCH608L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514LGCH608L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514LGCH608L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Gliss Long & Sublime Acondicionador para al 37.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4102p3w12qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4102p3w12qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4102p3w12qL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG Intruder Boy Sssp 22  Conjunto al 59.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wD-4mnd3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wD-4mnd3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wD-4mnd3L._SL200_.jpg' ]
 comments: true
 category: ofertas

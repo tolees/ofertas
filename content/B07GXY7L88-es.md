@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.41 % en adidas Nemeziz Tango 18.4 IN J  Zapatill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SX6FjzxiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SX6FjzxiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SX6FjzxiL._SL200_.jpg' ]
 comments: true
 category: ofertas

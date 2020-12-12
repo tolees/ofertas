@@ -3,6 +3,7 @@ layout: post
 title: 'Sedeta® 1PSC frente + 1PCS atrás silla d al 65.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61NGLukQUUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61NGLukQUUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61NGLukQUUL._SL200_.jpg' ]
 comments: true
 category: ofertas

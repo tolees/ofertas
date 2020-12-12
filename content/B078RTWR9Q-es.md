@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.20 % en Nike Revolution 4 EU  Zapatillas de Runn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dNOzpKWoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dNOzpKWoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dNOzpKWoL._SL200_.jpg' ]
 comments: true
 category: ofertas

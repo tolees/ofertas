@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.06 % en Energy Music Box 5  Bluetooth  10 W  Man'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UqxQt9ZWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UqxQt9ZWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UqxQt9ZWL._SL200_.jpg' ]
 comments: true
 category: ofertas

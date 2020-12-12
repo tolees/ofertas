@@ -3,6 +3,7 @@ layout: post
 title: 'Minnie Mouse Bolso Bajo con Asas Minnie  al 49.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418qtBiTMIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418qtBiTMIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418qtBiTMIL._SL200_.jpg' ]
 comments: true
 category: ofertas

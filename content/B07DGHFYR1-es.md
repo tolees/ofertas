@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Player Se  Zapatillas de Skateb al 66.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418XsIOQ0kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418XsIOQ0kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418XsIOQ0kL._SL200_.jpg' ]
 comments: true
 category: ofertas

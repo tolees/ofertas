@@ -3,6 +3,7 @@ layout: post
 title: 'Woxter Stinger Laptop Cooler Vacuum - Ba al 27.87 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

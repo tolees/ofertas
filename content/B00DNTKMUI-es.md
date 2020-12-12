@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.59 % en Mike Ellis New York M2969ASM/3 - Reloj d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41knI%2BoB4bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41knI%2BoB4bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41knI%2BoB4bL._SL200_.jpg' ]
 comments: true
 category: ofertas

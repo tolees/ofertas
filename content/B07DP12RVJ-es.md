@@ -3,6 +3,7 @@ layout: post
 title: 'Eastpak Station + Bolsa de Viaje  62 cm  al 44.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TLjtMhYgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TLjtMhYgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TLjtMhYgL._SL200_.jpg' ]
 comments: true
 category: ofertas

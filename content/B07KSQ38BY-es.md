@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.83 % en Columbia Mujer Chaqueta impermeable  Tim'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JDWdjXZgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JDWdjXZgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JDWdjXZgL._SL200_.jpg' ]
 comments: true
 category: ofertas

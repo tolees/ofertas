@@ -3,6 +3,7 @@ layout: post
 title: 'Luces solares de jardín al aire libre  l al 60.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B9xitgVGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B9xitgVGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B9xitgVGL._SL200_.jpg' ]
 comments: true
 category: ofertas

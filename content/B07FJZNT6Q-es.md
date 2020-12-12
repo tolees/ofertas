@@ -3,6 +3,7 @@ layout: post
 title: 'Eono Essentials - Bañador para niña de u al 49.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/213Nu5NxTjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/213Nu5NxTjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/213Nu5NxTjL._SL200_.jpg' ]
 comments: true
 category: ofertas

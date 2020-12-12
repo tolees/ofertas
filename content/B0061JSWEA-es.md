@@ -3,6 +3,7 @@ layout: post
 title: 'Philips AVENT SCF258/02 - Disco térmico  al 26.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IPTpdErJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IPTpdErJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IPTpdErJL._SL200_.jpg' ]
 comments: true
 category: ofertas

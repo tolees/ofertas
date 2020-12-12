@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.02 % en NACATIN Gafas de Esquí 4 en 1  100% UV40'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mSg8N0NnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mSg8N0NnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mSg8N0NnL._SL200_.jpg' ]
 comments: true
 category: ofertas

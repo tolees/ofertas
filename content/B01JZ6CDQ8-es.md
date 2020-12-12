@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.50 % en TOM TAILOR Sommerkleid elegant summer dr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316gMn8Ew9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316gMn8Ew9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316gMn8Ew9L._SL200_.jpg' ]
 comments: true
 category: ofertas

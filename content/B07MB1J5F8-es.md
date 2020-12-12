@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.88 % en GRIFEMA G11503 - PORTO Grifo de lavabo e'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sMOhrec5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sMOhrec5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sMOhrec5L._SL200_.jpg' ]
 comments: true
 category: ofertas

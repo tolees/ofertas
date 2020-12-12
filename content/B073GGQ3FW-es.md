@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Performance 14813  Zapatillas D al 52.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t2Z2p3zsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t2Z2p3zsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t2Z2p3zsL._SL200_.jpg' ]
 comments: true
 category: ofertas

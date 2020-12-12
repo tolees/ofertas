@@ -3,6 +3,7 @@ layout: post
 title: 'Minions  GRU Mi Villano Favorito MC-33-M al 44.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MYJcpkwWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MYJcpkwWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MYJcpkwWL._SL200_.jpg' ]
 comments: true
 category: ofertas

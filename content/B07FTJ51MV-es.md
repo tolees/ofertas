@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Jr Superfly 6 Academy GS IC  Zapati al 31.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YTH4xRktL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YTH4xRktL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YTH4xRktL._SL200_.jpg' ]
 comments: true
 category: ofertas

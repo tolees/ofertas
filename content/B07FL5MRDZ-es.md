@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.15 % en Superdry SD Hooded Microfibre Boxy Snor '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X0EaAVSXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X0EaAVSXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X0EaAVSXL._SL200_.jpg' ]
 comments: true
 category: ofertas

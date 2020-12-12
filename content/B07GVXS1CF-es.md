@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jortom Jacket Org  Chaqueta al 73.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oCgmhOcZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oCgmhOcZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oCgmhOcZL._SL200_.jpg' ]
 comments: true
 category: ofertas

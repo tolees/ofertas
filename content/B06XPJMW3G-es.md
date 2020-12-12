@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.75 % en Delaviuda Turrón Ron con Pasas - 5 Paque'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GlFpwxaCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GlFpwxaCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GlFpwxaCL._SL200_.jpg' ]
 comments: true
 category: ofertas

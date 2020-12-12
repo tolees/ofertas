@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlmila Lacy L/s Long Pullover Knt  al 55.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qsDkEIU4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qsDkEIU4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qsDkEIU4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Habitdesign 0T6663BO - Mueble de salón M al 33.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NXxUuBhNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NXxUuBhNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NXxUuBhNL._SL200_.jpg' ]
 comments: true
 category: ofertas

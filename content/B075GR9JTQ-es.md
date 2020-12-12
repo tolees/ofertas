@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.85 % en Only Onlsally S/s Top Jrs  Camiseta Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JAIVuULtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JAIVuULtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JAIVuULtL._SL200_.jpg' ]
 comments: true
 category: ofertas

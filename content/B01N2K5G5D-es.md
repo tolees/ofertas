@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Arrow C  Zapatillas para Mujer  N al 69.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZRXkL%2BifL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZRXkL%2BifL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZRXkL%2BifL._SL200_.jpg' ]
 comments: true
 category: ofertas

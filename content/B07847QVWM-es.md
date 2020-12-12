@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Suede Classic+  Zapatillas Unisex A al 73.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418LISEkZBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418LISEkZBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418LISEkZBL._SL200_.jpg' ]
 comments: true
 category: ofertas

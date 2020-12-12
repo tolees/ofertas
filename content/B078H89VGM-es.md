@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 1413945  Jersey para Hombre  al 74.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cx5ZdvkLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cx5ZdvkLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cx5ZdvkLL._SL200_.jpg' ]
 comments: true
 category: ofertas

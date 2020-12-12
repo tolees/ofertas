@@ -3,6 +3,7 @@ layout: post
 title: 'Crosstour 4K Cámara Deportiva WiFi 16MP  al 34.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pgKfr2CXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pgKfr2CXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pgKfr2CXL._SL200_.jpg' ]
 comments: true
 category: ofertas

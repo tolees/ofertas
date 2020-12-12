@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.26 % en Cherry Pitter  Cherry Stoner Tool  Remov'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jRIM5-GRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jRIM5-GRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jRIM5-GRL._SL200_.jpg' ]
 comments: true
 category: ofertas

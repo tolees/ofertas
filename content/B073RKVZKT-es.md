@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Element V  Zapatillas de Entrenam al 53.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H3jpk9SSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H3jpk9SSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H3jpk9SSL._SL200_.jpg' ]
 comments: true
 category: ofertas

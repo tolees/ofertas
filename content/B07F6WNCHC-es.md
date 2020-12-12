@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Mochila Ligera para Senderismo o al 44.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31a9Dg-T7qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31a9Dg-T7qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31a9Dg-T7qL._SL200_.jpg' ]
 comments: true
 category: ofertas

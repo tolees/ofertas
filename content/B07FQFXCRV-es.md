@@ -3,6 +3,7 @@ layout: post
 title: 'find. Merino Wool Mix Turtle Neck suéter al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412Ym%2BahWEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412Ym%2BahWEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412Ym%2BahWEL._SL200_.jpg' ]
 comments: true
 category: ofertas

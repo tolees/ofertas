@@ -3,6 +3,7 @@ layout: post
 title: 'oodji Ultra Hombre Pantalones Chinos de  al 50.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vB%2BocqGxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vB%2BocqGxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vB%2BocqGxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Square Star tee-Shirt  Hombre   al 51.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ViFMLvXIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ViFMLvXIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ViFMLvXIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.52 % en G-STAR RAW 3301 Deconstructed 1/2  Panta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413m7mJEJ3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413m7mJEJ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413m7mJEJ3L._SL200_.jpg' ]
 comments: true
 category: ofertas

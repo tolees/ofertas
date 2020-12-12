@@ -3,6 +3,7 @@ layout: post
 title: 'Aingoo Silla de Oficina de Malla Silla d al 37.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X4nxpUsuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X4nxpUsuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X4nxpUsuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Mom Short Pantalones Cortos  Marfil  al 43.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TucTaR3eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TucTaR3eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TucTaR3eL._SL200_.jpg' ]
 comments: true
 category: ofertas

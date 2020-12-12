@@ -3,6 +3,7 @@ layout: post
 title: 'S. Oliver Damen-Anillo 925 de plata chap al 83.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315mzNWj9dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315mzNWj9dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315mzNWj9dL._SL200_.jpg' ]
 comments: true
 category: ofertas

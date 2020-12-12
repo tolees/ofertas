@@ -3,6 +3,7 @@ layout: post
 title: 'Thermaltake Toughpower iRGB 80 Plus Tita al 34.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BzybATIFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BzybATIFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BzybATIFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Racquette  17 Leather  Zapatillas p al 58.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ngbl4y-NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ngbl4y-NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ngbl4y-NL._SL200_.jpg' ]
 comments: true
 category: ofertas

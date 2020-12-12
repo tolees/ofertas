@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.23 % en Soporte de Carga para Apple Watch  Muell'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41efnEIgM6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41efnEIgM6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41efnEIgM6L._SL200_.jpg' ]
 comments: true
 category: ofertas

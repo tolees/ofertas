@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.88 % en Tesa Assa Abloy 20304Rhn Cerradura De Em'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ekxuhUxiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ekxuhUxiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ekxuhUxiL._SL200_.jpg' ]
 comments: true
 category: ofertas

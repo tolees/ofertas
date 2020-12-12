@@ -3,6 +3,7 @@ layout: post
 title: 'Eastpak Talky Riñonera  23 cm  2 L  Azul al 37.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vgjGv4%2BkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vgjGv4%2BkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vgjGv4%2BkL._SL200_.jpg' ]
 comments: true
 category: ofertas

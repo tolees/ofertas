@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.96 % en Vila Clothes Vidisa L/s Cowlneck Knit To'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h9QtCvU0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h9QtCvU0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h9QtCvU0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Winner Camisetas Caballero  Hombre  al 29.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oDgdp33OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oDgdp33OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oDgdp33OL._SL200_.jpg' ]
 comments: true
 category: ofertas

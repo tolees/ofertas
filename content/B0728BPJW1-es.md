@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.35 % en Under Armour UA HG Arm Shorty Metallic W'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414YY6%2BEL3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414YY6%2BEL3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414YY6%2BEL3L._SL200_.jpg' ]
 comments: true
 category: ofertas

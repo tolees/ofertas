@@ -3,6 +3,7 @@ layout: post
 title: 'Redken Blonde Idol Base Breaker Cool Acl al 26.52 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

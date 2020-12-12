@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Seven J Jacket  Hombre  Ebo al 42.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A9pOLaJxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A9pOLaJxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A9pOLaJxL._SL200_.jpg' ]
 comments: true
 category: ofertas

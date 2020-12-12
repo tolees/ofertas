@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.92 % en Metaltex SKY -Estante organizador apilab'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sh-hsc3eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sh-hsc3eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sh-hsc3eL._SL200_.jpg' ]
 comments: true
 category: ofertas

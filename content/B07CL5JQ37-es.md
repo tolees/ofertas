@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling Alvar S  Bolsa bandolera para Mu al 39.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sXxbckVcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sXxbckVcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sXxbckVcL._SL200_.jpg' ]
 comments: true
 category: ofertas

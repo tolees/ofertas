@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel C5BCB Chino Tailored PPT Panta al 64.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31idIxAOR5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31idIxAOR5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31idIxAOR5L._SL200_.jpg' ]
 comments: true
 category: ofertas

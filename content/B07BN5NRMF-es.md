@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.24 % en MSI GS63 Stealth 8RE-012XES - Ordenador '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PdUMwL6rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PdUMwL6rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PdUMwL6rL._SL200_.jpg' ]
 comments: true
 category: ofertas

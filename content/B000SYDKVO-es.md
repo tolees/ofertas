@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.89 % en PAPSTAR 18199 Pure - Tenedores de Madera'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414q5CIM9YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414q5CIM9YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414q5CIM9YL._SL200_.jpg' ]
 comments: true
 category: ofertas

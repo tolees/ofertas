@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.45 % en Cressi Agua Short  Aletas de Snorkeling '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fvDZy%2BE5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fvDZy%2BE5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fvDZy%2BE5L._SL200_.jpg' ]
 comments: true
 category: ofertas

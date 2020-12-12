@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange Mujer J10 Super Skinny C al 71.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eN4kM801L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eN4kM801L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eN4kM801L._SL200_.jpg' ]
 comments: true
 category: ofertas

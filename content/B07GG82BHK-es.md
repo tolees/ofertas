@@ -3,6 +3,7 @@ layout: post
 title: 'Laura Vita - 2591  Bolsos maletín Mujer  al 75.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511tvbBlNGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511tvbBlNGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511tvbBlNGL._SL200_.jpg' ]
 comments: true
 category: ofertas

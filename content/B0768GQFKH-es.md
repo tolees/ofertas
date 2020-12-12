@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.39 % en Springfield 6882749  Falda para Mujer  N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TxifFmnbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TxifFmnbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TxifFmnbL._SL200_.jpg' ]
 comments: true
 category: ofertas

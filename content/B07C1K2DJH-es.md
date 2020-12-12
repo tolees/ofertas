@@ -3,6 +3,7 @@ layout: post
 title: 'PRODG Samoa-Carpeta Anillas al 61.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61OSQ3IoetL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61OSQ3IoetL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61OSQ3IoetL._SL200_.jpg' ]
 comments: true
 category: ofertas

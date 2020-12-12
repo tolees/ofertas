@@ -3,6 +3,7 @@ layout: post
 title: 'Microsoft Surface Pro - Tablet de 12.3"  al 27.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21tCBH25oSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21tCBH25oSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21tCBH25oSL._SL200_.jpg' ]
 comments: true
 category: ofertas

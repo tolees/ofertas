@@ -3,6 +3,7 @@ layout: post
 title: 'COMFAST Repetidor de red WiFi CF-WR302S  al 55.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QyAsg5ZHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QyAsg5ZHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QyAsg5ZHL._SL200_.jpg' ]
 comments: true
 category: ofertas

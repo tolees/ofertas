@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.21 % en New Balance Fuel Core 5000  Zapatillas d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VNa-Y0WaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VNa-Y0WaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VNa-Y0WaL._SL200_.jpg' ]
 comments: true
 category: ofertas

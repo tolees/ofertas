@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.14 % en Perixx PERIDUO-712 Mini Pack de Teclado '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bbxqqT%2BVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bbxqqT%2BVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bbxqqT%2BVL._SL200_.jpg' ]
 comments: true
 category: ofertas

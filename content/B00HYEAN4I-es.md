@@ -3,6 +3,7 @@ layout: post
 title: 'Makita DKP180Z - Cepillo Makita al 43.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gv00%2BhiDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gv00%2BhiDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gv00%2BhiDL._SL200_.jpg' ]
 comments: true
 category: ofertas

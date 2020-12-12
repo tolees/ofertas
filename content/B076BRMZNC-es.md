@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlnatalia L/s Ruffle Pullover CC K al 70.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c%2BVau-YTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c%2BVau-YTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c%2BVau-YTL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Berberana Carta Oro Reserva D.O Rioja Vi al 43.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311Q4v3n3lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311Q4v3n3lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311Q4v3n3lL._SL200_.jpg' ]
 comments: true
 category: ofertas

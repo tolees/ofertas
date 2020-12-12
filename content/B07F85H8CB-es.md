@@ -3,6 +3,7 @@ layout: post
 title: 'LED Bombillas para Coche Faros Delantero al 52.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l-5oOt0cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l-5oOt0cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l-5oOt0cL._SL200_.jpg' ]
 comments: true
 category: ofertas

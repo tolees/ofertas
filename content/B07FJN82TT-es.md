@@ -3,6 +3,7 @@ layout: post
 title: 'ENKEEO Cámara de Caza 20MP  1080P Trailc al 30.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-2pksPDhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-2pksPDhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-2pksPDhL._SL200_.jpg' ]
 comments: true
 category: ofertas

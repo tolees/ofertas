@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Scoop de Living Series - Altavoz al 37.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f-vKoMc9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f-vKoMc9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f-vKoMc9L._SL200_.jpg' ]
 comments: true
 category: ofertas

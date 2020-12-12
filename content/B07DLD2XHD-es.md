@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.27 % en Springfield 7.T.Ap.Blusón Manga Campana '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RPboNh0-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RPboNh0-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RPboNh0-L._SL200_.jpg' ]
 comments: true
 category: ofertas

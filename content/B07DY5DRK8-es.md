@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Favorite Tapered Slouch Pan al 67.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P6GeF4ZSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P6GeF4ZSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P6GeF4ZSL._SL200_.jpg' ]
 comments: true
 category: ofertas

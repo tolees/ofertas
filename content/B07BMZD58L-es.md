@@ -3,6 +3,7 @@ layout: post
 title: 'deAO Submarino Militar Tiburón Transport al 31.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u4Z1HOL8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u4Z1HOL8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u4Z1HOL8L._SL200_.jpg' ]
 comments: true
 category: ofertas

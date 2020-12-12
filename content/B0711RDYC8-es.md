@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi 26213  Botas para Mujer  Azu al 74.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4155qsH9xiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4155qsH9xiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4155qsH9xiL._SL200_.jpg' ]
 comments: true
 category: ofertas

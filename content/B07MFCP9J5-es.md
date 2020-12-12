@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.17 % en Louviva Masajeador  10 Modos de Frecuenc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UNWv0B2UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UNWv0B2UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UNWv0B2UL._SL200_.jpg' ]
 comments: true
 category: ofertas

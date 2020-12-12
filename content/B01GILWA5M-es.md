@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.88 % en Calvin Klein underwear Demi  Sujetador P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JD%2BtjNpPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JD%2BtjNpPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JD%2BtjNpPL._SL200_.jpg' ]
 comments: true
 category: ofertas

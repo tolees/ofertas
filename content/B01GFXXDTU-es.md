@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Donna Euxo  Mocasines para Mujer  M al 68.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pq0BKHCnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pq0BKHCnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pq0BKHCnL._SL200_.jpg' ]
 comments: true
 category: ofertas

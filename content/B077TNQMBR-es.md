@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Ka247V1I  Zapatillas Unisex  al 70.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JvzOMGM8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JvzOMGM8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JvzOMGM8L._SL200_.jpg' ]
 comments: true
 category: ofertas

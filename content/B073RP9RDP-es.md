@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen KOS SS POLO  Polo para Homb al 72.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BWK4q2gLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BWK4q2gLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BWK4q2gLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.01 % en Under Armour The Original 6   Jock Boxer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PpvLo5z5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PpvLo5z5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PpvLo5z5L._SL200_.jpg' ]
 comments: true
 category: ofertas

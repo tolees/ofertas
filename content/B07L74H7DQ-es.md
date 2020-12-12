@@ -3,6 +3,7 @@ layout: post
 title: 'Fantasyworld Taza de los Aviones de los  al 59.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EULGpplOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EULGpplOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EULGpplOL._SL200_.jpg' ]
 comments: true
 category: ofertas

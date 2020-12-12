@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.93 % en Reebok Trainfusion Nine 3.0  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NGUVib8fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NGUVib8fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NGUVib8fL._SL200_.jpg' ]
 comments: true
 category: ofertas

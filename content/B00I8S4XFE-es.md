@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.69 % en Smiffys Disfraz de malicia zombi  con ve'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41soXGV0jbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41soXGV0jbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41soXGV0jbL._SL200_.jpg' ]
 comments: true
 category: ofertas

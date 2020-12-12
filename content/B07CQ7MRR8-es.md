@@ -3,6 +3,7 @@ layout: post
 title: 'StarVie PMEDL18 Paletero de Pádel  Unise al 53.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311HHgj0rkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311HHgj0rkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311HHgj0rkL._SL200_.jpg' ]
 comments: true
 category: ofertas

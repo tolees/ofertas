@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Hypervenom 3 Academy DF FG  Zapatil al 55.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jdzUfZ2uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jdzUfZ2uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jdzUfZ2uL._SL200_.jpg' ]
 comments: true
 category: ofertas

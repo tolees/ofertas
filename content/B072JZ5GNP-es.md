@@ -3,6 +3,7 @@ layout: post
 title: 'TRESemmé Mascarilla Liso Keratina  300 m al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IqOpW9umL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IqOpW9umL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IqOpW9umL._SL200_.jpg' ]
 comments: true
 category: ofertas

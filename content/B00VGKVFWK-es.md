@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.98 % en Blend Cirrus  Vaqueros para Hombre  Midd'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410n7FX%2BCiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410n7FX%2BCiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410n7FX%2BCiL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.73 % en YUNTAB K98 Tablet de 9.6 pulgadas   3G  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QR%2BHv%2BP8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QR%2BHv%2BP8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QR%2BHv%2BP8L._SL200_.jpg' ]
 comments: true
 category: ofertas

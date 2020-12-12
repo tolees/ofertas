@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.71 % en Tommy Hilfiger Baseball Collar Slim Polo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yFAZycGEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yFAZycGEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yFAZycGEL._SL200_.jpg' ]
 comments: true
 category: ofertas

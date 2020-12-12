@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Cabrini Cove  Botas de Nieve para al 75.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jZ2fvbafL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jZ2fvbafL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jZ2fvbafL._SL200_.jpg' ]
 comments: true
 category: ofertas

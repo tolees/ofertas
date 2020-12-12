@@ -3,6 +3,7 @@ layout: post
 title: 'Triumph Light Lovely Day WHP Sujetador d al 70.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413DELCjpeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413DELCjpeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413DELCjpeL._SL200_.jpg' ]
 comments: true
 category: ofertas

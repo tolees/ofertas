@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmjenny Capsl Ancle Dress Att  al 39.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AkHaLDkrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AkHaLDkrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AkHaLDkrL._SL200_.jpg' ]
 comments: true
 category: ofertas

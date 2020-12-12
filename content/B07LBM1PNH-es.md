@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans TJM Essential Box Logo tee C al 29.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g2hobeiML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g2hobeiML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g2hobeiML._SL200_.jpg' ]
 comments: true
 category: ofertas

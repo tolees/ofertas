@@ -3,6 +3,7 @@ layout: post
 title: 'Otterbox Defender - Funda de Protección  al 51.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YXKpm2YDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YXKpm2YDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YXKpm2YDL._SL200_.jpg' ]
 comments: true
 category: ofertas

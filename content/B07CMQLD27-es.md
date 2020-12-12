@@ -3,6 +3,7 @@ layout: post
 title: 'Android TV Box-T10 Max Android box Amlog al 66.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41prgvLyh6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41prgvLyh6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41prgvLyh6L._SL200_.jpg' ]
 comments: true
 category: ofertas

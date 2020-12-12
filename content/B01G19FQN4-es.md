@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.98 % en Cooko Olécranon Aerador de Vino  Vino Po'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ExH2X1ijL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ExH2X1ijL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ExH2X1ijL._SL200_.jpg' ]
 comments: true
 category: ofertas

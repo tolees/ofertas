@@ -3,6 +3,7 @@ layout: post
 title: 'Miami Beach Swimwear Rosa  Bikini Mujer  al 60.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aFpwypyiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aFpwypyiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aFpwypyiL._SL200_.jpg' ]
 comments: true
 category: ofertas

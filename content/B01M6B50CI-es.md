@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.45 % en adidas Gr Tee B Y Camiseta Real Madrid F'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411bKDoBMDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411bKDoBMDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411bKDoBMDL._SL200_.jpg' ]
 comments: true
 category: ofertas

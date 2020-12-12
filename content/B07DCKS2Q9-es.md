@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.68 % en Silicone Skins for PS4 controller - Anti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-fnsAdyBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-fnsAdyBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-fnsAdyBL._SL200_.jpg' ]
 comments: true
 category: ofertas

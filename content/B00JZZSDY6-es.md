@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.99 % en Bartolucci PFMILL00001000047 - Luna Mult'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tQJftGOsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tQJftGOsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tQJftGOsL._SL200_.jpg' ]
 comments: true
 category: ofertas

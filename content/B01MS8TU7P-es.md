@@ -3,6 +3,7 @@ layout: post
 title: 'Edge Entertainment The Others - Equipo B al 59.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N7MvPZWTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51N7MvPZWTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N7MvPZWTL._SL200_.jpg' ]
 comments: true
 category: ofertas

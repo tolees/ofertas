@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.G.MD.Bandas Contraste Pant al 65.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xiYnCMpcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xiYnCMpcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xiYnCMpcL._SL200_.jpg' ]
 comments: true
 category: ofertas

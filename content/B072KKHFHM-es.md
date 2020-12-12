@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.25 % en Mario + Rabbids Kingdom Battle - Nintend'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51opXH7GRIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51opXH7GRIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51opXH7GRIL._SL200_.jpg' ]
 comments: true
 category: ofertas

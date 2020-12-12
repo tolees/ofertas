@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.70 % en Revlon Orofluido Super Shine Light Spray'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kmNjCXURL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kmNjCXURL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kmNjCXURL._SL200_.jpg' ]
 comments: true
 category: ofertas

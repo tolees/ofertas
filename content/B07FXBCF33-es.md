@@ -3,6 +3,7 @@ layout: post
 title: 'Nebulizador Comprimido - Nebulizador con al 42.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KFByRluwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KFByRluwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KFByRluwL._SL200_.jpg' ]
 comments: true
 category: ofertas

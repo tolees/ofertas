@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.61 % en Kerastase 57816 - Cuidado capilar  300 m'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NGAVk4gFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NGAVk4gFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NGAVk4gFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.14 % en Superdry Tyler  Vaqueros Slim para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z6KIl0KRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31z6KIl0KRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z6KIl0KRL._SL200_.jpg' ]
 comments: true
 category: ofertas

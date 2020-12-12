@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.81 % en Tufo 022 Cinta Adhesiva para Tubulares d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Sla3YrB9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Sla3YrB9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Sla3YrB9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'ONLY NOS Onlanna L/s Pullover Knt suéter al 70.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PP%2BuRaN-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PP%2BuRaN-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PP%2BuRaN-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.38 % en Hugo Boss 1513085 - Reloj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pYUCFn0OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pYUCFn0OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pYUCFn0OL._SL200_.jpg' ]
 comments: true
 category: ofertas

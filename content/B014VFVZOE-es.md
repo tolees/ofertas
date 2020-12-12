@@ -3,6 +3,7 @@ layout: post
 title: 'ClarksButleigh Edge - Derby Hombre  Colo al 72.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41byJ8TnnkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41byJ8TnnkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41byJ8TnnkL._SL200_.jpg' ]
 comments: true
 category: ofertas

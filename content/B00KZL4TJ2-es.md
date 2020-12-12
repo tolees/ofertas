@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.94 % en Silicon Power Blaze B20 - Memoria USB 3.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31N0y258aYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31N0y258aYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31N0y258aYL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.37 % en Protector de Tacón Alto  URAQT Tacos par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YG3XYf4JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YG3XYf4JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YG3XYf4JL._SL200_.jpg' ]
 comments: true
 category: ofertas

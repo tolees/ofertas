@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Pandora Abalorios Mujer plata - 797050EN'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31R-qMOPW7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31R-qMOPW7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31R-qMOPW7L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.21 % en Burberry  Perfume sólido - 150 ml.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZEaqIphyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZEaqIphyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZEaqIphyL._SL200_.jpg' ]
 comments: true
 category: ofertas

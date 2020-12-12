@@ -3,6 +3,7 @@ layout: post
 title: 'find. Jersey de Cachemir para Mujer  Ros al 66.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UB53QomxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UB53QomxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UB53QomxL._SL200_.jpg' ]
 comments: true
 category: ofertas

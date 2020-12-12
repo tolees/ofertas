@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.58 % en Luanvi Gama Mallas largas  Mujer  Azul M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NBvfVL3AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NBvfVL3AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NBvfVL3AL._SL200_.jpg' ]
 comments: true
 category: ofertas

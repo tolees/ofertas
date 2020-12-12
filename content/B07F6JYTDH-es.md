@@ -3,6 +3,7 @@ layout: post
 title: 'Ballistix Sport AT BLS2K16G4D26BFST - Me al 29.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V%2Bs-WtCJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V%2Bs-WtCJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V%2Bs-WtCJL._SL200_.jpg' ]
 comments: true
 category: ofertas

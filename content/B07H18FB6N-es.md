@@ -3,6 +3,7 @@ layout: post
 title: 'Gant 3-Pack Trunk Seasonal Solid  Bóxer  al 46.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nl-hqvyUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nl-hqvyUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nl-hqvyUL._SL200_.jpg' ]
 comments: true
 category: ofertas

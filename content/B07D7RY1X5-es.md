@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel 00SJ2Y  Camiseta para Hombre   Ne al 71.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H2CWIhrtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H2CWIhrtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H2CWIhrtL._SL200_.jpg' ]
 comments: true
 category: ofertas

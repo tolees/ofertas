@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.75 % en CRZ YOGA Sujetador Deportivo Yoga para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uzRhwqf2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uzRhwqf2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uzRhwqf2L._SL200_.jpg' ]
 comments: true
 category: ofertas

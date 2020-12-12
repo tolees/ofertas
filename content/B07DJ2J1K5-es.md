@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.98 % en New Balance Ml373lbf  Zapatillas para Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RGfss7TcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RGfss7TcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RGfss7TcL._SL200_.jpg' ]
 comments: true
 category: ofertas

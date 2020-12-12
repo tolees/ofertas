@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.20 % en Pepe Jeans Checks Bañador de natación   '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dXg%2B2HZZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dXg%2B2HZZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dXg%2B2HZZL._SL200_.jpg' ]
 comments: true
 category: ofertas

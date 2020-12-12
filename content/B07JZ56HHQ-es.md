@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.89 % en UniqueMe [6 Paquetes] Protector de Panta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519uvsRzpoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519uvsRzpoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519uvsRzpoL._SL200_.jpg' ]
 comments: true
 category: ofertas

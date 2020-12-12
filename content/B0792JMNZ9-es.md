@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.99 % en Geox J Hadriel Girl E  Botas Altas para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gmy1ZB9sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gmy1ZB9sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gmy1ZB9sL._SL200_.jpg' ]
 comments: true
 category: ofertas

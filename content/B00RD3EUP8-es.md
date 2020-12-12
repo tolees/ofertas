@@ -3,6 +3,7 @@ layout: post
 title: 'Kick-Ass 2 [Blu-ray] al 35.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61P598XORML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61P598XORML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61P598XORML._SL200_.jpg' ]
 comments: true
 category: ofertas

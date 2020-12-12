@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.88 % en Pour Moi? Hot Spots Underwired Tankini  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PCHL3FTCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PCHL3FTCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PCHL3FTCL._SL200_.jpg' ]
 comments: true
 category: ofertas

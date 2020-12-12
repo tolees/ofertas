@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.10 % en Adidas Eezay Flip Flop  Zapatos de Playa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zit7FzbZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zit7FzbZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zit7FzbZL._SL200_.jpg' ]
 comments: true
 category: ofertas

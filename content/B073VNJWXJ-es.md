@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES - Pcrolly Bag  Bolsos bandolera M al 47.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dSLHEenZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dSLHEenZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dSLHEenZL._SL200_.jpg' ]
 comments: true
 category: ofertas

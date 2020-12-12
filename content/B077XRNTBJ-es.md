@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Tech Pant Pantalones  niña  al 63.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TyGibb-CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TyGibb-CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TyGibb-CL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.55 % en GAH-Alberts - Enrejado  Verde  1250 mm /'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sCQx27CWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sCQx27CWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sCQx27CWL._SL200_.jpg' ]
 comments: true
 category: ofertas

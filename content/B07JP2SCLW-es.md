@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.29 % en Protector de almohada Impermeables 65x65'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VRyJ52%2BnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VRyJ52%2BnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VRyJ52%2BnL._SL200_.jpg' ]
 comments: true
 category: ofertas

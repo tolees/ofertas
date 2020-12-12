@@ -3,6 +3,7 @@ layout: post
 title: 'deAO Camión de Construcción RC Profesion al 50.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QuXro6ZwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QuXro6ZwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QuXro6ZwL._SL200_.jpg' ]
 comments: true
 category: ofertas

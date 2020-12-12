@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.83 % en XYZprinting 3F20AXEU00D da Vinci 2.0A 3D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ar3%2BZvV8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ar3%2BZvV8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ar3%2BZvV8L._SL200_.jpg' ]
 comments: true
 category: ofertas

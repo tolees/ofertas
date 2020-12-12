@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Big Logo SS Camiseta  Ho al 30.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h1ypMTT8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31h1ypMTT8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h1ypMTT8L._SL200_.jpg' ]
 comments: true
 category: ofertas

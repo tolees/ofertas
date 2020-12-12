@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.97 % en Tesa Assa Abloy  DC135-EV1  Cierrapuerta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sNwUccPxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sNwUccPxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sNwUccPxL._SL200_.jpg' ]
 comments: true
 category: ofertas

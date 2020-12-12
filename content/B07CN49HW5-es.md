@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Classic  Zuecos Unisex Adulto  Dor al 40.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i7SSXyVNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31i7SSXyVNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i7SSXyVNL._SL200_.jpg' ]
 comments: true
 category: ofertas

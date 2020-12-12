@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.91 % en New Balance 697  Zapatillas de Running p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iW-awdOAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iW-awdOAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iW-awdOAL._SL200_.jpg' ]
 comments: true
 category: ofertas

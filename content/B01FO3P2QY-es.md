@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.17 % en Rowenta Soft Sensation EP5720F0 - Depila'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dm4l4gz3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dm4l4gz3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dm4l4gz3L._SL200_.jpg' ]
 comments: true
 category: ofertas

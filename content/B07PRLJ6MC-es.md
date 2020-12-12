@@ -3,6 +3,7 @@ layout: post
 title: 'KAILH Gafas de Natación  Antiniebla Gafa al 44.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iQUfDigQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iQUfDigQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iQUfDigQL._SL200_.jpg' ]
 comments: true
 category: ofertas

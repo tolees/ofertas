@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Pixlette Jeans  Negro  Black  al 77.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uUgksOm6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uUgksOm6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uUgksOm6L._SL200_.jpg' ]
 comments: true
 category: ofertas

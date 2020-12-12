@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Pantalones de Vestir para Hombre Ne al 51.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415ig-RGtwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415ig-RGtwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415ig-RGtwL._SL200_.jpg' ]
 comments: true
 category: ofertas

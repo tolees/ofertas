@@ -3,6 +3,7 @@ layout: post
 title: 'Berg Outdoor FIGO Power Stretch Fleece J al 74.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DHPmLD6SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DHPmLD6SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DHPmLD6SL._SL200_.jpg' ]
 comments: true
 category: ofertas

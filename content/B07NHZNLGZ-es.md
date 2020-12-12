@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcobooster tee SS Crew Neck al 44.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C2sVDXIZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C2sVDXIZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C2sVDXIZL._SL200_.jpg' ]
 comments: true
 category: ofertas

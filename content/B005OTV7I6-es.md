@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.66 % en Pump Worx Bomba Erótica - 1 unidad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e0iH3OH2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e0iH3OH2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e0iH3OH2L._SL200_.jpg' ]
 comments: true
 category: ofertas

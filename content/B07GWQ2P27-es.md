@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.03 % en L-RUN Hombres Zapatos de Senderismo Zapa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nm0OsRffL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nm0OsRffL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nm0OsRffL._SL200_.jpg' ]
 comments: true
 category: ofertas

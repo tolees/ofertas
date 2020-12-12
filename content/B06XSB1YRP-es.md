@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Mt590V3  Zapatillas de Depor al 44.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jBIbDENIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jBIbDENIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jBIbDENIL._SL200_.jpg' ]
 comments: true
 category: ofertas

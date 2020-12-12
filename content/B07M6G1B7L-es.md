@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.09 % en adidas Ultimate 365 Climacool Solid Polo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N1O45QhFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41N1O45QhFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N1O45QhFL._SL200_.jpg' ]
 comments: true
 category: ofertas

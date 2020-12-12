@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.T.Ap.Blazer Circular Chaqu al 70.63 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

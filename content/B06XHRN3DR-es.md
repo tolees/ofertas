@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.89 % en Elena de Ávalor IMC Toys 291041 - Electr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S4jTxltRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S4jTxltRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S4jTxltRL._SL200_.jpg' ]
 comments: true
 category: ofertas

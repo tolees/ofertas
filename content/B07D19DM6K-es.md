@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED HOMME Slhslim-buffaloiver Navy  al 84.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A3cMP-sxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A3cMP-sxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A3cMP-sxL._SL200_.jpg' ]
 comments: true
 category: ofertas

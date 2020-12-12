@@ -3,6 +3,7 @@ layout: post
 title: 'Godmorn Tostadora 2 Rebanadas  Ranuras d al 45.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gIQRlKrGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gIQRlKrGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gIQRlKrGL._SL200_.jpg' ]
 comments: true
 category: ofertas

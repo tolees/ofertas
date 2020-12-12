@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiglenn Jjcharlie Am 736 L al 79.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SLDvoMwCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SLDvoMwCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SLDvoMwCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Izas Point Pantalones  Hombre  Negro  Bl al 45.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41drhtY2uiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41drhtY2uiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41drhtY2uiL._SL200_.jpg' ]
 comments: true
 category: ofertas

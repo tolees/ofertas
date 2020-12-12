@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Alpha Inf Craft  Botas pa al 42.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wR-GYA19L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wR-GYA19L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wR-GYA19L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.44 % en Nautica Track JKT W Piping  Sudadera Dep'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41msuxKO0oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41msuxKO0oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41msuxKO0oL._SL200_.jpg' ]
 comments: true
 category: ofertas

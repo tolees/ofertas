@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Fujitrabuco 5  Zapatillas de C al 67.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Av7u7TmKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Av7u7TmKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Av7u7TmKL._SL200_.jpg' ]
 comments: true
 category: ofertas

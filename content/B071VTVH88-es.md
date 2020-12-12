@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.23 % en Merrell All Out Blaze Aero Sport Zapatil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qAH3m0KnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qAH3m0KnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qAH3m0KnL._SL200_.jpg' ]
 comments: true
 category: ofertas

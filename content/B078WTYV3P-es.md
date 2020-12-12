@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.02 % en Quiksilver Molokai Lava Division  Chancl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rEBRlTxDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rEBRlTxDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rEBRlTxDL._SL200_.jpg' ]
 comments: true
 category: ofertas

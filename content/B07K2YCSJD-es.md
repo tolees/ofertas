@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.05 % en Longruner Arduino Mega 2560 Board Module'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LZSBzBHbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LZSBzBHbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LZSBzBHbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lässig Schwimmshirt Mix and Match Short  al 77.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CCljq1kNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CCljq1kNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CCljq1kNL._SL200_.jpg' ]
 comments: true
 category: ofertas

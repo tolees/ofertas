@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.44 % en Contigo Swish - Botella de Agua  Color V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BDBmmTu5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BDBmmTu5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BDBmmTu5L._SL200_.jpg' ]
 comments: true
 category: ofertas

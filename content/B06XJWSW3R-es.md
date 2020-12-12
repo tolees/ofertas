@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.05 % en Pepe Jeans Finsbury  Vaqueros para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sLqvJ93zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sLqvJ93zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sLqvJ93zL._SL200_.jpg' ]
 comments: true
 category: ofertas

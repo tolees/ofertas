@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual TS_calonge  Camisa Manga Larga  al 60.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tHPnkXjaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tHPnkXjaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tHPnkXjaL._SL200_.jpg' ]
 comments: true
 category: ofertas

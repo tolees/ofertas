@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Bermuda Button Falda  Verde  Li al 52.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dhYEzPEkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dhYEzPEkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dhYEzPEkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Canvas Belt  Cinturón para Homb al 75.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b7fTV4IEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b7fTV4IEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b7fTV4IEL._SL200_.jpg' ]
 comments: true
 category: ofertas

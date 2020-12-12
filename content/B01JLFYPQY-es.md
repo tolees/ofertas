@@ -3,6 +3,7 @@ layout: post
 title: 'Aicok Batidora de Mano de Varilla Eléctr al 65.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iV2FQYVKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iV2FQYVKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iV2FQYVKL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepa Loves Dots Cardigan Black  Negro  3 al 71.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410Yckb0O3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410Yckb0O3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410Yckb0O3L._SL200_.jpg' ]
 comments: true
 category: ofertas

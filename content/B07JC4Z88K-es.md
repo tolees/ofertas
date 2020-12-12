@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.01 % en ELEGIANT Auriculares Gaming  Cascos Gami'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ifYP2wTBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ifYP2wTBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ifYP2wTBL._SL200_.jpg' ]
 comments: true
 category: ofertas

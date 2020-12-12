@@ -3,6 +3,7 @@ layout: post
 title: 'LARNMERN Zapatos de Seguridad con Punta  al 29.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yv5iAmBoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yv5iAmBoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yv5iAmBoL._SL200_.jpg' ]
 comments: true
 category: ofertas

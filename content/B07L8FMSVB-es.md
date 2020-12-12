@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.98 % en OPPO RX17 Neo  Smartphone Libre  6 4"  4'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UWOKK8AfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UWOKK8AfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UWOKK8AfL._SL200_.jpg' ]
 comments: true
 category: ofertas

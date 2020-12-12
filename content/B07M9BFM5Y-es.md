@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.62 % en MTNG Attitude 82600 - Zapatillas para Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ouaddm7FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ouaddm7FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ouaddm7FL._SL200_.jpg' ]
 comments: true
 category: ofertas

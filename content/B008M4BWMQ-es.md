@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.28 % en Clontarf Trinity Irish Whiskey  1 x 0.6 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412LyoAUX0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412LyoAUX0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412LyoAUX0L._SL200_.jpg' ]
 comments: true
 category: ofertas

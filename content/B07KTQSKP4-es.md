@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Reloj de Pulsera 2011014 al 44.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51G6I5JkSLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51G6I5JkSLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51G6I5JkSLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.78 % en Seidensticker Slim Langarm Mit Kent Krag'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EBTxW7DCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EBTxW7DCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EBTxW7DCL._SL200_.jpg' ]
 comments: true
 category: ofertas

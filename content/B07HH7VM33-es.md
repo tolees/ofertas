@@ -3,6 +3,7 @@ layout: post
 title: 'Awenia Zapatero de 5 Estantes Estable Es al 36.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M1pZNUKnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M1pZNUKnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M1pZNUKnL._SL200_.jpg' ]
 comments: true
 category: ofertas

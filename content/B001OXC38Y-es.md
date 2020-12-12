@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.30 % en STANLEY 0-65-492 - Juego de 6 destornill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5143y0tLvBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5143y0tLvBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5143y0tLvBL._SL200_.jpg' ]
 comments: true
 category: ofertas

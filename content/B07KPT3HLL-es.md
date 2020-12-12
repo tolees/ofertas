@@ -3,6 +3,7 @@ layout: post
 title: '3 unidades de dispensador de tubo de pas al 44.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZiY56aB5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZiY56aB5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZiY56aB5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.68 % en Diyife Caja Fuerte Para Llaves  [Versión'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rZs0-lhbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rZs0-lhbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rZs0-lhbL._SL200_.jpg' ]
 comments: true
 category: ofertas

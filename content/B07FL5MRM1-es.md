@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Windcheater  Chaqueta Deportiva al 67.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BoWDQeuwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BoWDQeuwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BoWDQeuwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.74 % en Calvin Klein - Ckj Logo Pop Cardholder  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WkCIuLlPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WkCIuLlPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WkCIuLlPL._SL200_.jpg' ]
 comments: true
 category: ofertas

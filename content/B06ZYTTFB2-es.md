@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Linden Cinturón  Negro  R Black 5 al 62.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vCCljtGjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vCCljtGjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vCCljtGjL._SL200_.jpg' ]
 comments: true
 category: ofertas

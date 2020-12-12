@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.05 % en Chicco Humi Ambient - Humidificador de v'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jdeoSx7GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jdeoSx7GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jdeoSx7GL._SL200_.jpg' ]
 comments: true
 category: ofertas

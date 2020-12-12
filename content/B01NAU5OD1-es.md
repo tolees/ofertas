@@ -3,6 +3,7 @@ layout: post
 title: 'Linterna LED Resistente al Agua con 6 Ac al 34.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kVzB76bNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kVzB76bNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kVzB76bNL._SL200_.jpg' ]
 comments: true
 category: ofertas

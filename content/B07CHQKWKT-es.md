@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Zaster Chaqueta  Verde  Dark Green  al 46.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bCcAz8AcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bCcAz8AcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bCcAz8AcL._SL200_.jpg' ]
 comments: true
 category: ofertas

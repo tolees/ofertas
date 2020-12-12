@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Arrow Moon GTX  Botas de Nieve pa al 81.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KUQW7ol-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KUQW7ol-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KUQW7ol-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.24 % en oodji Ultra Hombre Camiseta Recta con Es'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hqot8PALL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hqot8PALL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hqot8PALL._SL200_.jpg' ]
 comments: true
 category: ofertas

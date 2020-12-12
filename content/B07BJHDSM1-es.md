@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Mujer Midge Saddle Mid Waist  al 80.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41giFDekO5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41giFDekO5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41giFDekO5L._SL200_.jpg' ]
 comments: true
 category: ofertas

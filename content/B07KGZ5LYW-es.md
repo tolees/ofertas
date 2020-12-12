@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.89 % en Burton Portal Chaquetas  Hombre  True Bl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bEyueAjbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bEyueAjbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bEyueAjbL._SL200_.jpg' ]
 comments: true
 category: ofertas

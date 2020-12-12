@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Adventure 2.0 Cupsole  Botas  al 46.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kz9EMAW2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kz9EMAW2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kz9EMAW2L._SL200_.jpg' ]
 comments: true
 category: ofertas

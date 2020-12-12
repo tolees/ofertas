@@ -3,6 +3,7 @@ layout: post
 title: 'Munich Mundial U  Zapatillas de Deporte  al 42.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n98LN4r2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n98LN4r2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n98LN4r2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.10 % en Vero Moda Vmylda LS Boxy Blouse  suéter '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UMU72VZgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UMU72VZgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UMU72VZgL._SL200_.jpg' ]
 comments: true
 category: ofertas

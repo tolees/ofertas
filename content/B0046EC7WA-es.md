@@ -3,6 +3,7 @@ layout: post
 title: 'Vans V76 Skinny  Vaqueros para hombre  N al 47.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Mv-scePKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Mv-scePKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Mv-scePKL._SL200_.jpg' ]
 comments: true
 category: ofertas

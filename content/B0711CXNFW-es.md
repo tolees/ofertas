@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.51 % en Quiksilver Mission Printed Youth Jk Chaq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NkRArJfML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NkRArJfML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NkRArJfML._SL200_.jpg' ]
 comments: true
 category: ofertas

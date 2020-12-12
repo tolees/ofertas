@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.90 % en URCERI Pistola de aire caliente  decapad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lj4U5SVfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Lj4U5SVfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lj4U5SVfL._SL200_.jpg' ]
 comments: true
 category: ofertas

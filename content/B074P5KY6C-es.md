@@ -3,6 +3,7 @@ layout: post
 title: 'Ni No Kuni II: El Renacer De Un Reino -  al 53.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sJvwzj4%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sJvwzj4%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sJvwzj4%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

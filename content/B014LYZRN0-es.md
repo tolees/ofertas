@@ -3,6 +3,7 @@ layout: post
 title: 'Lixada Lámpara de Techo Araña con 8 Braz al 44.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BtatxvmYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BtatxvmYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BtatxvmYL._SL200_.jpg' ]
 comments: true
 category: ofertas

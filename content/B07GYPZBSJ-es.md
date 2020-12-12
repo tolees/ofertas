@@ -3,6 +3,7 @@ layout: post
 title: 'BESTEEL Plata 925 Pendientes para Hombre al 75.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EMbKSl82L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EMbKSl82L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EMbKSl82L._SL200_.jpg' ]
 comments: true
 category: ofertas

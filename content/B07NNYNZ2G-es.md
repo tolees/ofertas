@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.10 % en Sony Xperia XZ2  color verde + Marvel s '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MiySMbDmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MiySMbDmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MiySMbDmL._SL200_.jpg' ]
 comments: true
 category: ofertas

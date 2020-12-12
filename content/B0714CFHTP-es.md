@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.03 % en MTNG Flash  Botas Mujer  Rosa  Terciopel'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-ghmAVMXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-ghmAVMXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-ghmAVMXL._SL200_.jpg' ]
 comments: true
 category: ofertas

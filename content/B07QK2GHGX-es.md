@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.70 % en New Look Jane Twill Falda  Negro  Black '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BJHgaIfoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BJHgaIfoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BJHgaIfoL._SL200_.jpg' ]
 comments: true
 category: ofertas

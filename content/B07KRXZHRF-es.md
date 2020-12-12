@@ -3,6 +3,7 @@ layout: post
 title: 'VERSACE JEANS COUTURE Lady Shorts Pantal al 57.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W2E02xamL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W2E02xamL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W2E02xamL._SL200_.jpg' ]
 comments: true
 category: ofertas

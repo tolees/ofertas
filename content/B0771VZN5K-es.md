@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Silver Ridge II Camisa de Sende al 34.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OMXkzYpzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OMXkzYpzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OMXkzYpzL._SL200_.jpg' ]
 comments: true
 category: ofertas

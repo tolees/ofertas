@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Powder Lite Chaqueta térmica pa al 43.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tBK0suJ7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tBK0suJ7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tBK0suJ7L._SL200_.jpg' ]
 comments: true
 category: ofertas

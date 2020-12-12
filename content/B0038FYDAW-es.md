@@ -3,6 +3,7 @@ layout: post
 title: 'HP SD412EE - Paquete de 2 cartuchos para al 30.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RtsSFV-CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RtsSFV-CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RtsSFV-CL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Game 7  Zapatillas de Tenis pa al 53.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31d0faHn3YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31d0faHn3YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31d0faHn3YL._SL200_.jpg' ]
 comments: true
 category: ofertas

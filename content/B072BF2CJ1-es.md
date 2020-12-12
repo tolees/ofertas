@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.24 % en Corpore Superfoods Bio Corpore Superfood'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512xxOF4uKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512xxOF4uKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512xxOF4uKL._SL200_.jpg' ]
 comments: true
 category: ofertas

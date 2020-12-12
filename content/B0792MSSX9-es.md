@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.19 % en Safta Bolsa De Deporte Benetton Boy Ofic'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mg%2BjSyjPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mg%2BjSyjPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mg%2BjSyjPL._SL200_.jpg' ]
 comments: true
 category: ofertas

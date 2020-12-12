@@ -3,6 +3,7 @@ layout: post
 title: 'Bagotte Palo Selfie Tripode  Bluetooth P al 26.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415f3na0OmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415f3na0OmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415f3na0OmL._SL200_.jpg' ]
 comments: true
 category: ofertas

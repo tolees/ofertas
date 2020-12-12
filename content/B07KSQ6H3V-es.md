@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Mujer Camiseta  Firwood Camp Te al 53.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r05C65rKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r05C65rKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r05C65rKL._SL200_.jpg' ]
 comments: true
 category: ofertas

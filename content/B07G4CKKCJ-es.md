@@ -3,6 +3,7 @@ layout: post
 title: 'SALOMON XA 2-Pack 2 Pares de Calcetines  al 35.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i78i6E2UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31i78i6E2UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i78i6E2UL._SL200_.jpg' ]
 comments: true
 category: ofertas

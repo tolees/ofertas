@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.03 % en DC Shoes Worker 20.5" Pantalones Cortos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BN%2BCiULlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BN%2BCiULlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BN%2BCiULlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'PUBG 1.0 - Playerunknown s Battlegrounds al 73.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516QmrGEjnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516QmrGEjnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516QmrGEjnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.18 % en Triumph Darling Spotlight WHP Sujetador '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tM%2BRBjxmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tM%2BRBjxmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tM%2BRBjxmL._SL200_.jpg' ]
 comments: true
 category: ofertas

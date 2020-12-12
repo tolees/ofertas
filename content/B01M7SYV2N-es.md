@@ -3,6 +3,7 @@ layout: post
 title: 'DECORA 0252041 Juego 8 Piezas Decoración al 53.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dzdyfeJ6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dzdyfeJ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dzdyfeJ6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.75 % en NBA 2K19 - Xbox One [Importación frances'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tk00lw29L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tk00lw29L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tk00lw29L._SL200_.jpg' ]
 comments: true
 category: ofertas

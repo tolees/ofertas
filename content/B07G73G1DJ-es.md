@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.01 % en InnooCare 300ml Aroma Difusor Ultrasónic'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510sAKs-ZAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510sAKs-ZAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510sAKs-ZAL._SL200_.jpg' ]
 comments: true
 category: ofertas

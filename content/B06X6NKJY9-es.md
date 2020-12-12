@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.02 % en Hotmarzz Chanclas de Verano Mujer Sandal'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HGazRRiiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HGazRRiiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HGazRRiiL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.45 % en Quiksilver Mission Chaqueta de Nieve  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TxhIVK-nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TxhIVK-nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TxhIVK-nL._SL200_.jpg' ]
 comments: true
 category: ofertas

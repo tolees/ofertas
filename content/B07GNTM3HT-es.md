@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers On-The-go 600-Flawless  Sandali al 36.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LIaB8y3TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LIaB8y3TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LIaB8y3TL._SL200_.jpg' ]
 comments: true
 category: ofertas

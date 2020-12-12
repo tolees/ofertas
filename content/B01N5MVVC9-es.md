@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.01 % en Puma Cross The Line Singlet Top  Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R7nW3oxhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R7nW3oxhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R7nW3oxhL._SL200_.jpg' ]
 comments: true
 category: ofertas

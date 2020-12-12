@@ -3,6 +3,7 @@ layout: post
 title: 'Dove Loción Aguacate - 3 Paquetes de 400 al 74.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311EFa9stNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311EFa9stNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311EFa9stNL._SL200_.jpg' ]
 comments: true
 category: ofertas

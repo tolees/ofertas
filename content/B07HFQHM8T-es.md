@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.69 % en JACK & JONES Jactropicana Trunks 3 Pack '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hKbkWFaYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hKbkWFaYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hKbkWFaYL._SL200_.jpg' ]
 comments: true
 category: ofertas

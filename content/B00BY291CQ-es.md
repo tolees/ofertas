@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.65 % en Casio Reloj Digital para Unisex de Cuarz'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416hUTf7%2BsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416hUTf7%2BsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416hUTf7%2BsL._SL200_.jpg' ]
 comments: true
 category: ofertas

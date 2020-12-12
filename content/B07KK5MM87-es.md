@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.04 % en IMITOR Calcetines de Senderismo para Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oUXkRaPcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oUXkRaPcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oUXkRaPcL._SL200_.jpg' ]
 comments: true
 category: ofertas

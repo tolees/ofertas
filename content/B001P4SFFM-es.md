@@ -3,6 +3,7 @@ layout: post
 title: 'Calvados Père Magloire Fine 70Cl al 32.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FY5qZa4pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FY5qZa4pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FY5qZa4pL._SL200_.jpg' ]
 comments: true
 category: ofertas

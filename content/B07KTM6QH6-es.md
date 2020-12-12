@@ -3,6 +3,7 @@ layout: post
 title: 'Versace Jeans Couture Shoes  Zapatillas  al 60.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417X6zru%2BXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417X6zru%2BXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417X6zru%2BXL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.98 % en JACK & JONES Jcochallenge Polo SS Noos  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LSk5CCi4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LSk5CCi4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LSk5CCi4L._SL200_.jpg' ]
 comments: true
 category: ofertas

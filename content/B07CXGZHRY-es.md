@@ -3,6 +3,7 @@ layout: post
 title: 'INLIFE Repetidor de Red WiFi Extensor Am al 27.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41929AhcE-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41929AhcE-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41929AhcE-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.34 % en Quiksilver - Short de Felpa - Hombre - M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414Tczmj8-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414Tczmj8-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414Tczmj8-L._SL200_.jpg' ]
 comments: true
 category: ofertas

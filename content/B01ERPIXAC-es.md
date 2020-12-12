@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Tropical Falda  Mujer  Verde  L al 54.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Lgikz2H1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Lgikz2H1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Lgikz2H1L._SL200_.jpg' ]
 comments: true
 category: ofertas

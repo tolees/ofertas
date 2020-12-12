@@ -3,6 +3,7 @@ layout: post
 title: 'Super Lucky s Tale - Edición Estándar al 51.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51F7yM2VRTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51F7yM2VRTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51F7yM2VRTL._SL200_.jpg' ]
 comments: true
 category: ofertas

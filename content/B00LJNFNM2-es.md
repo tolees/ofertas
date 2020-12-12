@@ -3,6 +3,7 @@ layout: post
 title: 'JBM 50816 Gato hidráulico Carretilla Esp al 55.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WclRMNslL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WclRMNslL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WclRMNslL._SL200_.jpg' ]
 comments: true
 category: ofertas

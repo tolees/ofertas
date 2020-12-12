@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.96 % en Desigual Bols_caliope Rotterdam Mujer Sh'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KetO3wDeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KetO3wDeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KetO3wDeL._SL200_.jpg' ]
 comments: true
 category: ofertas

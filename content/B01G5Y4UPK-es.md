@@ -3,6 +3,7 @@ layout: post
 title: 'Funko - POP! Vinilo Colección Rocks - Fi al 45.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h6nGXEJjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51h6nGXEJjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h6nGXEJjL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.02 % en PIECES Pcshape-up V361 MW Jeggings MB/No'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415tILE1E5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415tILE1E5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415tILE1E5L._SL200_.jpg' ]
 comments: true
 category: ofertas

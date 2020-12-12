@@ -3,6 +3,7 @@ layout: post
 title: 'INTEY- Alfombra Infantil Puzzle para Niñ al 26.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511gqvK0QCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511gqvK0QCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511gqvK0QCL._SL200_.jpg' ]
 comments: true
 category: ofertas

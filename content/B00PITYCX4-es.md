@@ -3,6 +3,7 @@ layout: post
 title: 'Vivere UHSDO8-20 - Hamaca con soporte in al 41.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i-vlg%2B0GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i-vlg%2B0GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i-vlg%2B0GL._SL200_.jpg' ]
 comments: true
 category: ofertas

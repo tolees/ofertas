@@ -3,6 +3,7 @@ layout: post
 title: 'iPad 9 7"" con Wi-Fi 128GB Apple - Gris  al 29.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517YQ6zgGtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517YQ6zgGtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517YQ6zgGtL._SL200_.jpg' ]
 comments: true
 category: ofertas

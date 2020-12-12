@@ -3,6 +3,7 @@ layout: post
 title: 'L Oréal Paris Rouge Signature 109 I Savo al 36.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-JxL8UvOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-JxL8UvOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-JxL8UvOL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.87 % en Casio Reloj de pulsera DBC-32D-1AES'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Dq7wt5-LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Dq7wt5-LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Dq7wt5-LL._SL200_.jpg' ]
 comments: true
 category: ofertas

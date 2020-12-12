@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.61 % en Sony Xperia Ear Duo – Auricular inalámbr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417NRWotqRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417NRWotqRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417NRWotqRL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'San Ignacio PK330IT Set de Tres sartenes al 63.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Fz%2BwXMlRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Fz%2BwXMlRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Fz%2BwXMlRL._SL200_.jpg' ]
 comments: true
 category: ofertas

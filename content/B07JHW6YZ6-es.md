@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Modern Sports Graphic tee Camiseta  al 43.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BWQ8twwzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BWQ8twwzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BWQ8twwzL._SL200_.jpg' ]
 comments: true
 category: ofertas

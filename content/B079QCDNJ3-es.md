@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 048cc1f024 Blusa   Light B al 70.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eNxoXh-nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eNxoXh-nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eNxoXh-nL._SL200_.jpg' ]
 comments: true
 category: ofertas

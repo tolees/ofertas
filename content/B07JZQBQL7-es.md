@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Predator 19.3 FG J  Zapatillas de al 35.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31J-njMMiXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31J-njMMiXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31J-njMMiXL._SL200_.jpg' ]
 comments: true
 category: ofertas

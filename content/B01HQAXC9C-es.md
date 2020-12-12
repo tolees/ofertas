@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Crocband II Slide U  Chanclas Unis al 41.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZlFq7CUnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZlFq7CUnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZlFq7CUnL._SL200_.jpg' ]
 comments: true
 category: ofertas

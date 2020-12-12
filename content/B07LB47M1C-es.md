@@ -3,6 +3,7 @@ layout: post
 title: 'Termostato con WiFi  FLOUREON Termostato al 45.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q-hQ3jhkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q-hQ3jhkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q-hQ3jhkL._SL200_.jpg' ]
 comments: true
 category: ofertas

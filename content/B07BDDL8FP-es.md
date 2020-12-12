@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.12 % en Hunletai Cable Recarga USB Tipo C  Gold '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BMpBDbEhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BMpBDbEhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BMpBDbEhL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Flannery 6incanteen Escape  B al 54.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hSojAu2qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hSojAu2qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hSojAu2qL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.67 % en BOSS Kapowe suéter  Azul  Dark Blue 404 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411zzg-bglL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411zzg-bglL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411zzg-bglL._SL200_.jpg' ]
 comments: true
 category: ofertas

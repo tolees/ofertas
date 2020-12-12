@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Inteligente  Elec.BGS Bluetooth Pa al 26.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cxib3vHBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cxib3vHBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cxib3vHBL._SL200_.jpg' ]
 comments: true
 category: ofertas

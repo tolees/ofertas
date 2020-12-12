@@ -3,6 +3,7 @@ layout: post
 title: 'Tuc Tuc Prenda Volantes FÁBULA  Camiseta al 60.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5141PlGbbrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5141PlGbbrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5141PlGbbrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Westinghouse Everett Ventilador de Techo al 45.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y-BCVtCsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Y-BCVtCsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y-BCVtCsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Uprise Mesh  Zapatillas Unisex Adul al 74.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418wr5JUjjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418wr5JUjjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418wr5JUjjL._SL200_.jpg' ]
 comments: true
 category: ofertas

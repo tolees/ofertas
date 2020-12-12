@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Solar Lt Trainer M  Zapatillas de al 49.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LTvzirHiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LTvzirHiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LTvzirHiL._SL200_.jpg' ]
 comments: true
 category: ofertas

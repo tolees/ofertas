@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2750-FABRICLAMEFLOWERW  Zapatill al 54.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412-ym8F4eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412-ym8F4eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412-ym8F4eL._SL200_.jpg' ]
 comments: true
 category: ofertas

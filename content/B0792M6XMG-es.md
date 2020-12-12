@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.35 % en Medion Akoya E2029 F - Ordenador de sobr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RW-HvCFkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RW-HvCFkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RW-HvCFkL._SL200_.jpg' ]
 comments: true
 category: ofertas

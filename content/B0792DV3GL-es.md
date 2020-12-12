@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.73 % en Geox D Thymar E  Zapatillas para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GI%2BJQce4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GI%2BJQce4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GI%2BJQce4L._SL200_.jpg' ]
 comments: true
 category: ofertas

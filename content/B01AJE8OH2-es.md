@@ -3,6 +3,7 @@ layout: post
 title: 'Campingaz 2000026173 - Soldador al 30.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j6XmiiYCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31j6XmiiYCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j6XmiiYCL._SL200_.jpg' ]
 comments: true
 category: ofertas

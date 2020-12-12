@@ -3,6 +3,7 @@ layout: post
 title: 'Kingston DataTraveler microDuo - Memoria al 60.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O-3-NDb1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31O-3-NDb1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O-3-NDb1L._SL200_.jpg' ]
 comments: true
 category: ofertas

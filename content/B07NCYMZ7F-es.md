@@ -3,6 +3,7 @@ layout: post
 title: 'MyWave Batidora amasadora de 1000W  Bol  al 27.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31T95MiD9IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31T95MiD9IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31T95MiD9IL._SL200_.jpg' ]
 comments: true
 category: ofertas

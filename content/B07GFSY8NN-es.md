@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.01 % en Lexar lsd64gcb1eu633 Professional Class '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-pLww9S2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-pLww9S2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-pLww9S2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.61 % en Helly Hansen Hp Atlantic Fz Hoodie  Suda'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BxOS1I8dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BxOS1I8dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BxOS1I8dL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Casual Tyger  Camiseta Hombre  Azul al 66.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BxUfra0vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BxUfra0vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BxUfra0vL._SL200_.jpg' ]
 comments: true
 category: ofertas

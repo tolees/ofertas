@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.19 % en Maybelline New York Barra de Labios Supe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/211JCdrrxiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/211JCdrrxiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/211JCdrrxiL._SL200_.jpg' ]
 comments: true
 category: ofertas

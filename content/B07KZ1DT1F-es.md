@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.95 % en Springfield 490 Fotographic Camara 90 Ca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WcdXk1D3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WcdXk1D3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WcdXk1D3L._SL200_.jpg' ]
 comments: true
 category: ofertas

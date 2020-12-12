@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.93 % en Tuc Tuc Niña Kimono - Cuna de viaje  col'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417h2o4NC1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417h2o4NC1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417h2o4NC1L._SL200_.jpg' ]
 comments: true
 category: ofertas

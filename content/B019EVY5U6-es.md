@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.45 % en Mobicool W38  - Nevera termoeléctrica po'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415RVVYJiYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415RVVYJiYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415RVVYJiYL._SL200_.jpg' ]
 comments: true
 category: ofertas

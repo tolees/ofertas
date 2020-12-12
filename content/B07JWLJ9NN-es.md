@@ -3,6 +3,7 @@ layout: post
 title: 'Zzaini Suave Piel de Cordero Sherpa Mant al 41.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512giWpg-TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512giWpg-TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512giWpg-TL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.87 % en Asics Gel-movimentum 1192a002-001  Zapat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p7c2dKgSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p7c2dKgSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p7c2dKgSL._SL200_.jpg' ]
 comments: true
 category: ofertas

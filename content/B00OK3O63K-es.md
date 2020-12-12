@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.00 % en Beter Pur Pedicur - Quitadurezas con dep'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qDIPu%2BRiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qDIPu%2BRiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qDIPu%2BRiL._SL200_.jpg' ]
 comments: true
 category: ofertas

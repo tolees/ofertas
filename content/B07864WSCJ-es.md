@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Pwrrun 2in1 7 Pantalones  Hombre  G al 63.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GGCRXvATL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GGCRXvATL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GGCRXvATL._SL200_.jpg' ]
 comments: true
 category: ofertas

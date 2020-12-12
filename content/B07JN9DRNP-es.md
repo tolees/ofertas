@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Mujer Lynn Mid Skinny Wmn New al 61.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Fe70OooqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Fe70OooqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Fe70OooqL._SL200_.jpg' ]
 comments: true
 category: ofertas

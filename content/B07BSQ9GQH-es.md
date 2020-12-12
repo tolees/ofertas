@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Sweater  Sudadera Mujer  Blanco   al 63.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sm%2BixErdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sm%2BixErdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sm%2BixErdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Milford Quilted Jack Tim  Cha al 52.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qg4u2SbeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qg4u2SbeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qg4u2SbeL._SL200_.jpg' ]
 comments: true
 category: ofertas

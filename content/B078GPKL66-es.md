@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.70 % en Skechers You Define-Allegra  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410EHXHP3QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410EHXHP3QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410EHXHP3QL._SL200_.jpg' ]
 comments: true
 category: ofertas

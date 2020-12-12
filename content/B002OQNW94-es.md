@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.45 % en Small Foot Company 4155 - Dosel [Importa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310dQocdulL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310dQocdulL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310dQocdulL._SL200_.jpg' ]
 comments: true
 category: ofertas

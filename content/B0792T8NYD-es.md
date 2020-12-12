@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U New Pluges E  Zapatos de Cordones al 64.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qeXq%2BuDFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qeXq%2BuDFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qeXq%2BuDFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.03 % en Puma Breaker Leather  Zapatillas Unisex '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UxEmBQnFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UxEmBQnFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UxEmBQnFL._SL200_.jpg' ]
 comments: true
 category: ofertas

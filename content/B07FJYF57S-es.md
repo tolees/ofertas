@@ -3,6 +3,7 @@ layout: post
 title: 'Ipanema Charm Vi Sand Fem  Sandalias con al 25.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pZ19qzhIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pZ19qzhIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pZ19qzhIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.56 % en MSV ESTANTERIA BAJO Lavabo con 1 Barra T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TqSnBt0vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TqSnBt0vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TqSnBt0vL._SL200_.jpg' ]
 comments: true
 category: ofertas

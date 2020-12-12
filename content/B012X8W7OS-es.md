@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.79 % en Alverlamp LPRO1041_C - Proyector led 10w'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ipwEpjZcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ipwEpjZcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ipwEpjZcL._SL200_.jpg' ]
 comments: true
 category: ofertas

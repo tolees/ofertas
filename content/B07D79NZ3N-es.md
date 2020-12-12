@@ -3,6 +3,7 @@ layout: post
 title: 'KOSETI • Cartera de Piel para Hombre. Ma al 37.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414z3VOnYZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414z3VOnYZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414z3VOnYZL._SL200_.jpg' ]
 comments: true
 category: ofertas

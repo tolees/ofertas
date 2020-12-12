@@ -3,6 +3,7 @@ layout: post
 title: 'Arrancador de Coche Portatil 6000mAh 400 al 42.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hTaZW65uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hTaZW65uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hTaZW65uL._SL200_.jpg' ]
 comments: true
 category: ofertas

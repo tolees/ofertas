@@ -3,6 +3,7 @@ layout: post
 title: 'MERAKI Vestido de Tirantes Slim Fit Muje al 28.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CSkGMWP%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CSkGMWP%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CSkGMWP%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

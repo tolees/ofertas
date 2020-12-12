@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.53 % en Geox D Deynna E  Zapatillas para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r%2BpK%2B3FEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r%2BpK%2B3FEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r%2BpK%2B3FEL._SL200_.jpg' ]
 comments: true
 category: ofertas

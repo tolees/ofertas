@@ -3,6 +3,7 @@ layout: post
 title: 'GANT Solid Pique SS Rugger  Polo para Ho al 44.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej0%2BYN78L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej0%2BYN78L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ej0%2BYN78L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Creative Labs Live! CAM IP SmartHD - Cám al 57.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31q2ttKFZvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31q2ttKFZvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31q2ttKFZvL._SL200_.jpg' ]
 comments: true
 category: ofertas

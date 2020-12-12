@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.95 % en Karlie 44100 Northmate Green Mini  29 x '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wknq2JdrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wknq2JdrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wknq2JdrL._SL200_.jpg' ]
 comments: true
 category: ofertas

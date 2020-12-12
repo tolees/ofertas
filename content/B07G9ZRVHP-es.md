@@ -3,6 +3,7 @@ layout: post
 title: 'Garmin Vivosmart 4 Pulsera de Actividad  al 41.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WORNdSj6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WORNdSj6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WORNdSj6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Munich Continental V2  Zapatillas de Dep al 28.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JnUnKbqyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JnUnKbqyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JnUnKbqyL._SL200_.jpg' ]
 comments: true
 category: ofertas

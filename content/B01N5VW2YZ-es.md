@@ -3,6 +3,7 @@ layout: post
 title: 'Pedro del Hierro P-5-BC-B Pima Cotton Ta al 77.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qbrrN5GhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qbrrN5GhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qbrrN5GhL._SL200_.jpg' ]
 comments: true
 category: ofertas

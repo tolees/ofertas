@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Bluetooth 5.0  Mini Casco Co al 44.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yEpFTh26L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yEpFTh26L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yEpFTh26L._SL200_.jpg' ]
 comments: true
 category: ofertas

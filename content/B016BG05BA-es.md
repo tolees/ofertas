@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.13 % en Maclaren Techno XT Silla de paseo - lige'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KRADyjxaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KRADyjxaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KRADyjxaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Revell Lamborghini Police Juguetes a Con al 34.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cNky7v3iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cNky7v3iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cNky7v3iL._SL200_.jpg' ]
 comments: true
 category: ofertas

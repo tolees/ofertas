@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.12 % en Police 14543JSB/13M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JYCULe9gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JYCULe9gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JYCULe9gL._SL200_.jpg' ]
 comments: true
 category: ofertas

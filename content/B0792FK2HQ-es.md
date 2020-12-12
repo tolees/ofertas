@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Kaula D  Mocasines para Mujer   B al 61.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415auV1MaHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415auV1MaHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415auV1MaHL._SL200_.jpg' ]
 comments: true
 category: ofertas

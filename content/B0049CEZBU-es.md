@@ -3,6 +3,7 @@ layout: post
 title: 'Bering Ceramic - Reloj analógico de caba al 60.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o2zYzBVkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31o2zYzBVkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o2zYzBVkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Recovery Sleepwear Short Ro al 46.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BjwaZsNJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BjwaZsNJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BjwaZsNJL._SL200_.jpg' ]
 comments: true
 category: ofertas

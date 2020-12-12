@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.19 % en Puma Vikky Stacked SD  Zapatillas para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31frtri9eqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31frtri9eqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31frtri9eqL._SL200_.jpg' ]
 comments: true
 category: ofertas

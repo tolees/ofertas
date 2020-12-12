@@ -3,6 +3,7 @@ layout: post
 title: '2Dark: Limited Edition al 77.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5136DBcwG9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5136DBcwG9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5136DBcwG9L._SL200_.jpg' ]
 comments: true
 category: ofertas

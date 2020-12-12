@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.79 % en Pastas Gallo - Lasaña Huevo Paquete 290 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D73O5%2BBWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51D73O5%2BBWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D73O5%2BBWL._SL200_.jpg' ]
 comments: true
 category: ofertas

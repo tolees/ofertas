@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.32 % en Quiksilver Everyday Shorts  Hombre  Cadm'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vWb84aohL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vWb84aohL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vWb84aohL._SL200_.jpg' ]
 comments: true
 category: ofertas

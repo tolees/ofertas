@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.53 % en ONLY NOS onlSILVERY S/S V Neck Lurex Top'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w15Ymc8QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w15Ymc8QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w15Ymc8QL._SL200_.jpg' ]
 comments: true
 category: ofertas

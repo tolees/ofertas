@@ -3,6 +3,7 @@ layout: post
 title: 'L Oréal Expert Professionnel Liss Unlimi al 41.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21IoqEgfg4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21IoqEgfg4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21IoqEgfg4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Zime suéter  Azul  Open Blue 489    al 50.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zUgWcILaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zUgWcILaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zUgWcILaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.35 % en El Ganso Cuello Club Classic Fit Motivo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RwaB6jR8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RwaB6jR8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RwaB6jR8L._SL200_.jpg' ]
 comments: true
 category: ofertas

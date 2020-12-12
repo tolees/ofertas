@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.08 % en Levi s Oversized Crewneck suéter  Verde '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZOJIqvONL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZOJIqvONL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZOJIqvONL._SL200_.jpg' ]
 comments: true
 category: ofertas

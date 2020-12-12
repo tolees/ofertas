@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.87 % en Relaxdays Soporte Monitor Portátil para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IRJntj%2BcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IRJntj%2BcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IRJntj%2BcL._SL200_.jpg' ]
 comments: true
 category: ofertas

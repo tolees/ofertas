@@ -3,6 +3,7 @@ layout: post
 title: 'Mike Ellis New York M3096/1 - Reloj de P al 81.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fmWglGJ9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fmWglGJ9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fmWglGJ9L._SL200_.jpg' ]
 comments: true
 category: ofertas

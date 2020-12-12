@@ -3,6 +3,7 @@ layout: post
 title: 'Flydo Traje de Cosplay del Traje de Cosp al 40.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MPnG0wvBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MPnG0wvBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MPnG0wvBL._SL200_.jpg' ]
 comments: true
 category: ofertas

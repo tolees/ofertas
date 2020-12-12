@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s kids Short Sleeves Batwin T-Shirt al 32.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CWG%2Bz0jpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CWG%2Bz0jpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CWG%2Bz0jpL._SL200_.jpg' ]
 comments: true
 category: ofertas

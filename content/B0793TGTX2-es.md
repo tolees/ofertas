@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.20 % en HAPY deportes al aire libre camara Acces'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51V1qcPHbeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51V1qcPHbeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51V1qcPHbeL._SL200_.jpg' ]
 comments: true
 category: ofertas

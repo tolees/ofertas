@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.79 % en JACK & JONES Jcojonah Sweat Hood LS Noos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41at-WgIzVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41at-WgIzVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41at-WgIzVL._SL200_.jpg' ]
 comments: true
 category: ofertas

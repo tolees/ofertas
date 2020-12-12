@@ -3,6 +3,7 @@ layout: post
 title: 'AmazonBasics - Caja fuerte ignífuga  35  al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z2OXEwj1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z2OXEwj1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z2OXEwj1L._SL200_.jpg' ]
 comments: true
 category: ofertas

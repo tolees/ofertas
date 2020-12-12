@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel 00SJ3U  Camiseta para Hombre   Bl al 77.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4114kHJT4rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4114kHJT4rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4114kHJT4rL._SL200_.jpg' ]
 comments: true
 category: ofertas

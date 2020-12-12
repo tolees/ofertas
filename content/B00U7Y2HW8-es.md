@@ -3,6 +3,7 @@ layout: post
 title: 'Velbon Ultra Selfie al 68.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21fEsqz0tpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21fEsqz0tpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21fEsqz0tpL._SL200_.jpg' ]
 comments: true
 category: ofertas

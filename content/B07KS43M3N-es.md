@@ -3,6 +3,7 @@ layout: post
 title: 'Vintage Edisen Bombilla  4W （40W）LED Bom al 35.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BOeSuvm1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BOeSuvm1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BOeSuvm1L._SL200_.jpg' ]
 comments: true
 category: ofertas

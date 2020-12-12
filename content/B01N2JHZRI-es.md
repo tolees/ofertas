@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.61 % en Merrell Trail Crusher  Zapatillas de Run'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OqQRUH-8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OqQRUH-8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OqQRUH-8L._SL200_.jpg' ]
 comments: true
 category: ofertas

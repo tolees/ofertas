@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.29 % en adidas per Crew T 3Pp Socks  Hombre  Neg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hsc7%2BiSfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hsc7%2BiSfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hsc7%2BiSfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Inside 4SOGC10 Sudadera  Blanco  Small   al 53.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512DVbea9WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512DVbea9WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512DVbea9WL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Uten Barbacoa de Acero Inoxidable Parril al 40.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DsDIEZhoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DsDIEZhoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DsDIEZhoL._SL200_.jpg' ]
 comments: true
 category: ofertas

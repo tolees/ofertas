@@ -3,6 +3,7 @@ layout: post
 title: 'Nike 819303 Zapatillas  Mujer   Light Bo al 45.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TRfYQJ9qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TRfYQJ9qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TRfYQJ9qL._SL200_.jpg' ]
 comments: true
 category: ofertas

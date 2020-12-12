@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.85 % en Ginour Sierra Circular  1500W 4700RPM Co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y4Ns5%2BkAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51y4Ns5%2BkAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y4Ns5%2BkAL._SL200_.jpg' ]
 comments: true
 category: ofertas

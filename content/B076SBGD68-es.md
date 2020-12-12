@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.22 % en Unno DIM Basic AD005HF  Bóxer para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kQnUrQSjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kQnUrQSjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kQnUrQSjL._SL200_.jpg' ]
 comments: true
 category: ofertas

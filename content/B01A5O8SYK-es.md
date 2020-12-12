@@ -3,6 +3,7 @@ layout: post
 title: 'Marvel Camiseta Manga Corta Core Logo Bl al 55.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UEYvOUgcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UEYvOUgcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UEYvOUgcL._SL200_.jpg' ]
 comments: true
 category: ofertas

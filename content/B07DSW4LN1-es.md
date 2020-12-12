@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.33 % en L Oréal Paris Máscara de Pestañas Unlimi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318Uey7xdjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318Uey7xdjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318Uey7xdjL._SL200_.jpg' ]
 comments: true
 category: ofertas

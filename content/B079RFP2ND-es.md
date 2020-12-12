@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.06 % en Pepe Jeans London Foster Itaka  Zapatill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uu5m7EWjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uu5m7EWjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uu5m7EWjL._SL200_.jpg' ]
 comments: true
 category: ofertas

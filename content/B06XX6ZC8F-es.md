@@ -3,6 +3,7 @@ layout: post
 title: 'BDBA 17SS414  Chaqueta Vaquera para Muje al 67.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KN2%2BPe1DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KN2%2BPe1DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KN2%2BPe1DL._SL200_.jpg' ]
 comments: true
 category: ofertas

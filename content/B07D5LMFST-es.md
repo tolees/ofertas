@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.38 % en Adidas Aerobounce 2 M  Zapatillas de Ent'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41glki0Sb%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41glki0Sb%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41glki0Sb%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

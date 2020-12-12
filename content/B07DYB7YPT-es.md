@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy Sandy II  Zapatos de Playa y Piscin al 50.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318LydxdrSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318LydxdrSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318LydxdrSL._SL200_.jpg' ]
 comments: true
 category: ofertas

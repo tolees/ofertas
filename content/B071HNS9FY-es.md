@@ -3,6 +3,7 @@ layout: post
 title: 'adidas ESS 3S Ttop Tri Camiseta  Negro/B al 34.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JMo4DXkqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JMo4DXkqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JMo4DXkqL._SL200_.jpg' ]
 comments: true
 category: ofertas

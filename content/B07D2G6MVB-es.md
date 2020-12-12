@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.60 % en Levi s 6353 Original Fit Vaqueros  Gris '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RN69puwdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RN69puwdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RN69puwdL._SL200_.jpg' ]
 comments: true
 category: ofertas

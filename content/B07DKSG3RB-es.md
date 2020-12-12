@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fresh Foam 1080v9  Zapatilla al 58.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FvW5Z7e2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FvW5Z7e2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FvW5Z7e2L._SL200_.jpg' ]
 comments: true
 category: ofertas

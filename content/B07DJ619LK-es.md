@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fresh Foam Hierro v4  Zapati al 45.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TKEWx7OiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TKEWx7OiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TKEWx7OiL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Colon Detergente Vanish Whites 60 dosis al 31.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nFkkVXdRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nFkkVXdRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nFkkVXdRL._SL200_.jpg' ]
 comments: true
 category: ofertas

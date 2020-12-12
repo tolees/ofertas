@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.18 % en Girly HandBags - Cartera de mano de Mate'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R-pHJnKPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51R-pHJnKPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51R-pHJnKPL._SL200_.jpg' ]
 comments: true
 category: ofertas

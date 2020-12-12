@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.80 % en New Balance 715v3  Zapatillas Deportivas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HMx4oHu%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HMx4oHu%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HMx4oHu%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

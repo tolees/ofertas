@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.24 % en Levi s 501 Original Vaqueros  Negro  Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nN4CKVpBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nN4CKVpBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nN4CKVpBL._SL200_.jpg' ]
 comments: true
 category: ofertas

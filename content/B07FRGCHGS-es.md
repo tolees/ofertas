@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Jhnp51j Vaqueros Hombre Ajustado al 70.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bSaoOsEfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bSaoOsEfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bSaoOsEfL._SL200_.jpg' ]
 comments: true
 category: ofertas

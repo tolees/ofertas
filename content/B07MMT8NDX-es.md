@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.05 % en CAMPER Runner Four  Zapatillas para Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QWyoRe3zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QWyoRe3zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QWyoRe3zL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 5620 3d Zip Knee Skinny  Vaqu al 72.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F66wvA7mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F66wvA7mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F66wvA7mL._SL200_.jpg' ]
 comments: true
 category: ofertas

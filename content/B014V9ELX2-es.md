@@ -3,6 +3,7 @@ layout: post
 title: 'Memoria RAM G.Skill RipJaws Series 5  16 al 55.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MZggC8RnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MZggC8RnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MZggC8RnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Protect Home Cebo Antihormigas Granulado al 48.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JM76dU27L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JM76dU27L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JM76dU27L._SL200_.jpg' ]
 comments: true
 category: ofertas

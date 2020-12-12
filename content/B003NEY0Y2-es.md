@@ -3,6 +3,7 @@ layout: post
 title: 'Odlo L/S Turtle Neck Active Originals W  al 51.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VTE3KP4KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VTE3KP4KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VTE3KP4KL._SL200_.jpg' ]
 comments: true
 category: ofertas

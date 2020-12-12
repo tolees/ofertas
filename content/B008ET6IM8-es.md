@@ -3,6 +3,7 @@ layout: post
 title: 'Roca A5A3C09C00  Grifo de Cocina con Cañ al 27.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g%2BCRiEGzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31g%2BCRiEGzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g%2BCRiEGzL._SL200_.jpg' ]
 comments: true
 category: ofertas

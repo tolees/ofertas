@@ -3,6 +3,7 @@ layout: post
 title: 'Pilot V ball 0 5 - Blíster de bolígrafos al 67.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HJ-zTpueL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HJ-zTpueL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HJ-zTpueL._SL200_.jpg' ]
 comments: true
 category: ofertas

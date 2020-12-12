@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.10 % en Trudi - Mini Pegaso de Peluche  Color Ve'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WolQK0d2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WolQK0d2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WolQK0d2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.07 % en Burton Prospect Guantes De Snowboard  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519XlEpPtGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519XlEpPtGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519XlEpPtGL._SL200_.jpg' ]
 comments: true
 category: ofertas

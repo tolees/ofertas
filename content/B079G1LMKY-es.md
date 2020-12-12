@@ -3,6 +3,7 @@ layout: post
 title: 'Vanage Tumbona de Jardín  Terraza y Balc al 30.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i1zbGa5pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51i1zbGa5pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i1zbGa5pL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Ml574  Zapatillas para Hombr al 31.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uo4s2uz0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uo4s2uz0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uo4s2uz0L._SL200_.jpg' ]
 comments: true
 category: ofertas

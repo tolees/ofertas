@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 7Wh-Acolchada Rib  Chaqueta  al 54.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MiZbOt4bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MiZbOt4bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MiZbOt4bL._SL200_.jpg' ]
 comments: true
 category: ofertas

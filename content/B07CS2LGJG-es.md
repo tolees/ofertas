@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en Cepillo Dientes Eléctrico Recargable Imp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419MXCAW7oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419MXCAW7oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419MXCAW7oL._SL200_.jpg' ]
 comments: true
 category: ofertas

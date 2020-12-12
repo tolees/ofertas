@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Chino Slim Microprint  Panta al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j67VvCkUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31j67VvCkUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j67VvCkUL._SL200_.jpg' ]
 comments: true
 category: ofertas

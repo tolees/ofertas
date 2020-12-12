@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon XA Short  Mujer  Negro  S al 34.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OsTm4ngtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OsTm4ngtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OsTm4ngtL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pala de padel Royal Padel M27 Carbon Ama al 51.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AHMciHU8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AHMciHU8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AHMciHU8L._SL200_.jpg' ]
 comments: true
 category: ofertas

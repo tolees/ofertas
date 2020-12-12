@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.05 % en The North Face M Resolve Jacket Chaqueta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E-e12NtrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E-e12NtrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E-e12NtrL._SL200_.jpg' ]
 comments: true
 category: ofertas

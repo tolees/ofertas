@@ -3,6 +3,7 @@ layout: post
 title: 'Luz de Llama  ARINO Luces Jardin Solares al 26.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ydg1mxj0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ydg1mxj0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ydg1mxj0L._SL200_.jpg' ]
 comments: true
 category: ofertas

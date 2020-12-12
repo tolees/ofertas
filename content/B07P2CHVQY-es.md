@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en ENKEEO Corrector de Postura para Espalda'
 date: 
 thumbnailImage: 'None._SL200_'
+image: 'None._SL200_'
 images: [ 'None._SL200_' ]
 comments: true
 category: ofertas

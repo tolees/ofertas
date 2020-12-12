@@ -3,6 +3,7 @@ layout: post
 title: 'Drift DR75 - Silla de gaming de piel sin al 44.34 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

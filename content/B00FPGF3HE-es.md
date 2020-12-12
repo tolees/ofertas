@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.03 % en JACK & JONES Sense Trunks Core Noos 1-2-'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y82wgvVvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y82wgvVvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y82wgvVvL._SL200_.jpg' ]
 comments: true
 category: ofertas

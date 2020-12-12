@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Freesail Clog Women  Zuecos para M al 40.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21%2Bo92TSHuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21%2Bo92TSHuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21%2Bo92TSHuL._SL200_.jpg' ]
 comments: true
 category: ofertas

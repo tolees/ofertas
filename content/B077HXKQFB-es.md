@@ -3,6 +3,7 @@ layout: post
 title: 'Granberg 110.0160-S- Guantes de bambú pa al 38.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31a1kGQy%2BsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31a1kGQy%2BsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31a1kGQy%2BsL._SL200_.jpg' ]
 comments: true
 category: ofertas

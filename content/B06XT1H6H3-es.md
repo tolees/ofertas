@@ -3,6 +3,7 @@ layout: post
 title: 'FIND DC1930L vaqueros mujer  Negro  Blac al 32.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415uJtyhybL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415uJtyhybL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415uJtyhybL._SL200_.jpg' ]
 comments: true
 category: ofertas

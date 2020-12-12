@@ -3,6 +3,7 @@ layout: post
 title: 'Canon EF 16-35mm f/2.8L III USM - Objeti al 32.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I5aFslhKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51I5aFslhKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I5aFslhKL._SL200_.jpg' ]
 comments: true
 category: ofertas

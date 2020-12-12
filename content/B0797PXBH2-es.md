@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Liga Sideline Poly Core Jacket  Niñ al 53.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qgu9%2BnS1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qgu9%2BnS1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qgu9%2BnS1L._SL200_.jpg' ]
 comments: true
 category: ofertas

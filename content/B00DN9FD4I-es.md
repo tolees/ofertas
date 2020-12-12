@@ -3,6 +3,7 @@ layout: post
 title: 'ESI Relaxerbe Complemento Alimenticio -  al 38.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f4e-UZLHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51f4e-UZLHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f4e-UZLHL._SL200_.jpg' ]
 comments: true
 category: ofertas

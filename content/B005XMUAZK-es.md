@@ -3,6 +3,7 @@ layout: post
 title: 'Dim Estructurado Sujetador  Blanco  100C al 43.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Et5DSp%2BCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Et5DSp%2BCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Et5DSp%2BCL._SL200_.jpg' ]
 comments: true
 category: ofertas

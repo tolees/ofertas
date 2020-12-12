@@ -3,6 +3,7 @@ layout: post
 title: 'Beper 40.808A/BK Body Trainer Báscula de al 51.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fvQK9YskL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fvQK9YskL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fvQK9YskL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit Kids RM1023509  Camiseta para Niñ al 61.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DO01ddSGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DO01ddSGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DO01ddSGL._SL200_.jpg' ]
 comments: true
 category: ofertas

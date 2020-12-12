@@ -3,6 +3,7 @@ layout: post
 title: 'CHRONOSTAR Reloj Multiesfera para Hombre al 68.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419fsj9J6hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419fsj9J6hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419fsj9J6hL._SL200_.jpg' ]
 comments: true
 category: ofertas

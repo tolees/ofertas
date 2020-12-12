@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.40 % en U-Breast Aparato de Electroestimulación '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418UE5zgHmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418UE5zgHmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418UE5zgHmL._SL200_.jpg' ]
 comments: true
 category: ofertas

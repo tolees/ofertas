@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Applique Cut & Sew 08 S/s tee C al 51.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gmLYlkfEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gmLYlkfEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gmLYlkfEL._SL200_.jpg' ]
 comments: true
 category: ofertas

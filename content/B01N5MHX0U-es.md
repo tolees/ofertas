@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Ferrari 0830395 FXX - Reloj de pulsera p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GABwx7rgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GABwx7rgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GABwx7rgL._SL200_.jpg' ]
 comments: true
 category: ofertas

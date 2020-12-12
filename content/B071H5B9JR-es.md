@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED HOMME Shdonevictor Shirt LS Noo al 50.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ry8MY%2BHlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ry8MY%2BHlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ry8MY%2BHlL._SL200_.jpg' ]
 comments: true
 category: ofertas

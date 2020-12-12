@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW ARC 3D Mid Skinny Wmn Vaquero al 46.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P7PYRYPxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P7PYRYPxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P7PYRYPxL._SL200_.jpg' ]
 comments: true
 category: ofertas

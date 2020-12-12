@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Elbas 2 Polo  Verde  New Olive al 46.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eTDFCaHzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eTDFCaHzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eTDFCaHzL._SL200_.jpg' ]
 comments: true
 category: ofertas

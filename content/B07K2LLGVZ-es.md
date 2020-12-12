@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.40 % en Love Moschino Logo and Glitter Heart_Sho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lmd7NUxeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Lmd7NUxeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lmd7NUxeL._SL200_.jpg' ]
 comments: true
 category: ofertas

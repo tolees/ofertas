@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s kids Nm15027  Sudadera Niños  Gri al 57.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eGtJYAvcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eGtJYAvcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eGtJYAvcL._SL200_.jpg' ]
 comments: true
 category: ofertas

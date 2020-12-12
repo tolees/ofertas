@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.64 % en TY Zinger - juguetes de peluche  Marrón '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nMvyZQpmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nMvyZQpmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nMvyZQpmL._SL200_.jpg' ]
 comments: true
 category: ofertas

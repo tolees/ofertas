@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.87 % en 3 Pommes Sweat Shirt  Sudadera Niños  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t5auBDrBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51t5auBDrBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t5auBDrBL._SL200_.jpg' ]
 comments: true
 category: ofertas

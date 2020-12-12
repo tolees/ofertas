@@ -3,6 +3,7 @@ layout: post
 title: 'Kingston SDS/128GB - Tarjeta de Memoria  al 67.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z5X6rCbJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z5X6rCbJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z5X6rCbJL._SL200_.jpg' ]
 comments: true
 category: ofertas

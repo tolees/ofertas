@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 037eo1b001  Pantalones al 82.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lLgmVeVmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lLgmVeVmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lLgmVeVmL._SL200_.jpg' ]
 comments: true
 category: ofertas

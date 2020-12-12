@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley Triblaze 18 Bañador  Hombre  Negr al 58.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tW-tNDGPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tW-tNDGPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tW-tNDGPL._SL200_.jpg' ]
 comments: true
 category: ofertas

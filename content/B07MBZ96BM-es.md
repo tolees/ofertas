@@ -3,6 +3,7 @@ layout: post
 title: 'MSI GT75 Titan 8SG-017ES - Ordenador por al 26.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Tj%2ByhqmtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Tj%2ByhqmtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Tj%2ByhqmtL._SL200_.jpg' ]
 comments: true
 category: ofertas

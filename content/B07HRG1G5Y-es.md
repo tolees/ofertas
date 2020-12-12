@@ -3,6 +3,7 @@ layout: post
 title: 'SunTop Lampara de Camping Linterna Solar al 31.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EXb7mJsPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EXb7mJsPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EXb7mJsPL._SL200_.jpg' ]
 comments: true
 category: ofertas

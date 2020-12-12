@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.89 % en Pokemon JCC 60 Cartas XY Evoluciones-Esp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61vhK3x6DlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61vhK3x6DlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61vhK3x6DlL._SL200_.jpg' ]
 comments: true
 category: ofertas

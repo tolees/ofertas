@@ -3,6 +3,7 @@ layout: post
 title: 'KitSound KSCUBBTBL - Altavoz portátil co al 66.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pqDNa9wxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pqDNa9wxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pqDNa9wxL._SL200_.jpg' ]
 comments: true
 category: ofertas

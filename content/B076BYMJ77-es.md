@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.81 % en MirthMe luz peso bebé carrito/cochecito/'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wVBEkNJDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wVBEkNJDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wVBEkNJDL._SL200_.jpg' ]
 comments: true
 category: ofertas

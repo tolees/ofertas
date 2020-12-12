@@ -3,6 +3,7 @@ layout: post
 title: 'TANBURO Cabezal de Ducha LED de temperat al 39.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HO7MIW5XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HO7MIW5XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HO7MIW5XL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.35 % en Victoria Mercedes Terciopelo  Bailarinas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418KQdd3DVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418KQdd3DVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418KQdd3DVL._SL200_.jpg' ]
 comments: true
 category: ofertas

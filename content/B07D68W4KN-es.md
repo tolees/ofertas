@@ -3,6 +3,7 @@ layout: post
 title: 'Delippo USB C Hub 4K HDMI 2 USB 3.0 Port al 54.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IaK0XbePL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IaK0XbePL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IaK0XbePL._SL200_.jpg' ]
 comments: true
 category: ofertas

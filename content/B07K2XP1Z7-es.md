@@ -3,6 +3,7 @@ layout: post
 title: 'HIP TEC Faro Trabajo Led 5"72W Super Bri al 40.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ybJ10s3PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ybJ10s3PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ybJ10s3PL._SL200_.jpg' ]
 comments: true
 category: ofertas

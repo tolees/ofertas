@@ -3,6 +3,7 @@ layout: post
 title: 'Spagnolo 154077747083  Pantalones para H al 60.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411YKuilTAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411YKuilTAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411YKuilTAL._SL200_.jpg' ]
 comments: true
 category: ofertas

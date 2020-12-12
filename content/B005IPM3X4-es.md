@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.57 % en Philips AT750/16 - Afeitadora de 3 cabez'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kn-mXftuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kn-mXftuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kn-mXftuL._SL200_.jpg' ]
 comments: true
 category: ofertas

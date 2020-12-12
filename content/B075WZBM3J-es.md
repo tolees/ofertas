@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.54 % en Carrera 4005/S 7F 807 65  Gafas de Sol p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C1DfFnN9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C1DfFnN9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C1DfFnN9L._SL200_.jpg' ]
 comments: true
 category: ofertas

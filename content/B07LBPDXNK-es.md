@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Sleep Short  18E  Pantalone al 46.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-MSejC%2BML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-MSejC%2BML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-MSejC%2BML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'AEG VL 5529 Ventilador portátil de Mesa  al 30.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-vtPuLijL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-vtPuLijL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-vtPuLijL._SL200_.jpg' ]
 comments: true
 category: ofertas

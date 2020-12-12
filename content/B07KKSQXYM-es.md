@@ -3,6 +3,7 @@ layout: post
 title: 'HUGO Eddison-w Camisa  Marrón  Medium Br al 70.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pvGERZ3uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pvGERZ3uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pvGERZ3uL._SL200_.jpg' ]
 comments: true
 category: ofertas

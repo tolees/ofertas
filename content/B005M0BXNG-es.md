@@ -3,6 +3,7 @@ layout: post
 title: 'Oliphante - Coyote  Juego de Mesa en esp al 32.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61dAXSSyrsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61dAXSSyrsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61dAXSSyrsL._SL200_.jpg' ]
 comments: true
 category: ofertas

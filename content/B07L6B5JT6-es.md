@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.71 % en Camara Vigilancia WiFi  YUNNDOO Cámara I'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OukXQyk6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OukXQyk6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OukXQyk6L._SL200_.jpg' ]
 comments: true
 category: ofertas

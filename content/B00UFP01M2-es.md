@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.00 % en Blend 703119 Vaqueros  Schwarz  Denim Bl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XQ0TcBTtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XQ0TcBTtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XQ0TcBTtL._SL200_.jpg' ]
 comments: true
 category: ofertas

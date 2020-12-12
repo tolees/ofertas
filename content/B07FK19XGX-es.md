@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Boxed Logo tee  Camiseta para Mujer  al 71.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DnRG1eYiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DnRG1eYiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DnRG1eYiL._SL200_.jpg' ]
 comments: true
 category: ofertas

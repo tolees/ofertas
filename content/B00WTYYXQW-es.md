@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.86 % en Recreus Filamento Elástico para Impresor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YOCftGX1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YOCftGX1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YOCftGX1L._SL200_.jpg' ]
 comments: true
 category: ofertas

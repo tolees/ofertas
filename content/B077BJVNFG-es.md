@@ -3,6 +3,7 @@ layout: post
 title: 'AURIQUE Leggings de Deporte Mujer  Negro al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rA%2B7KkepL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rA%2B7KkepL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rA%2B7KkepL._SL200_.jpg' ]
 comments: true
 category: ofertas

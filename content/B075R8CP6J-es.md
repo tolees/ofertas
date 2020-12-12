@@ -3,6 +3,7 @@ layout: post
 title: 'Mizuno Ezrun LX 2 Zapatillas de Running  al 74.69 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

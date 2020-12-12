@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Denton Chino Str Pima Ctn al 39.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SpWoG6w7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SpWoG6w7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SpWoG6w7L._SL200_.jpg' ]
 comments: true
 category: ofertas

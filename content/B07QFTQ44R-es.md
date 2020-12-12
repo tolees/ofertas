@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.29 % en Kit de Binoculares para Niños Kit de Exp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kJb-XNBXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kJb-XNBXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kJb-XNBXL._SL200_.jpg' ]
 comments: true
 category: ofertas

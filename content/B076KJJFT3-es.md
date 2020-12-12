@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 127cc1b047 Pantalones  Neg al 52.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i9Tf7tF5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31i9Tf7tF5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i9Tf7tF5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Galaxy J6+ - Smartphone de 6"  Q al 29.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mekAclqPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mekAclqPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mekAclqPL._SL200_.jpg' ]
 comments: true
 category: ofertas

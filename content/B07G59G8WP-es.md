@@ -3,6 +3,7 @@ layout: post
 title: 'CRZ YOGA Mujer 3/4 Malla Leggings Deport al 52.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XBp5%2BPGcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XBp5%2BPGcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XBp5%2BPGcL._SL200_.jpg' ]
 comments: true
 category: ofertas

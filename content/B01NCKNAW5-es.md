@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.36 % en Wilson Raqueta de tenis unisex  Para jue'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CuRtVa1dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CuRtVa1dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CuRtVa1dL._SL200_.jpg' ]
 comments: true
 category: ofertas

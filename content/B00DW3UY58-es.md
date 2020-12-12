@@ -3,6 +3,7 @@ layout: post
 title: 'SIK KIS Cubo De Basura 3 Lotus Blanco al 44.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oJ7JzAKxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oJ7JzAKxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oJ7JzAKxL._SL200_.jpg' ]
 comments: true
 category: ofertas

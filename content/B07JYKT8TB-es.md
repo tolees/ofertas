@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.74 % en adidas Deerupt Runner J  Zapatillas de G'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AzP09y85L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AzP09y85L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AzP09y85L._SL200_.jpg' ]
 comments: true
 category: ofertas

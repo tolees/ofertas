@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Trase V Se  Zapatillas de Skate al 58.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314oS4A79%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314oS4A79%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314oS4A79%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

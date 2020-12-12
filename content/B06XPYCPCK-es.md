@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.52 % en GORE BIKE WEAR Cubrepantalones largos  H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RfrX2l1OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RfrX2l1OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RfrX2l1OL._SL200_.jpg' ]
 comments: true
 category: ofertas

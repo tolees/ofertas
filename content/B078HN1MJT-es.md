@@ -3,6 +3,7 @@ layout: post
 title: 'Trussardi Jeans Running  Zapatillas de G al 36.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r8-OEvGML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r8-OEvGML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r8-OEvGML._SL200_.jpg' ]
 comments: true
 category: ofertas

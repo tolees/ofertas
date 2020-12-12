@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Geox J Kilwi Boy I  Zapatillas para Niño'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XZomTQNiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XZomTQNiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XZomTQNiL._SL200_.jpg' ]
 comments: true
 category: ofertas

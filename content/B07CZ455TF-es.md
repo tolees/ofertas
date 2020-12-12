@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.40 % en Asics California 78 Ex  Zapatillas de De'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rNl%2BS4YFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rNl%2BS4YFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rNl%2BS4YFL._SL200_.jpg' ]
 comments: true
 category: ofertas

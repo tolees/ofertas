@@ -3,6 +3,7 @@ layout: post
 title: 'Bombilla H7 LED - 1 par  AUTLEAD para Co al 48.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tb7wg24VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tb7wg24VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tb7wg24VL._SL200_.jpg' ]
 comments: true
 category: ofertas

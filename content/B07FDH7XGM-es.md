@@ -3,6 +3,7 @@ layout: post
 title: 'Noisy May Nmmace L/s High Low Top 2-Pack al 72.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ntEDGHIxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ntEDGHIxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ntEDGHIxL._SL200_.jpg' ]
 comments: true
 category: ofertas

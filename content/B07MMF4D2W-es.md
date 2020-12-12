@@ -3,6 +3,7 @@ layout: post
 title: 'Hackett Core Kensington Shorts Pantalone al 47.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419D1ikHOEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419D1ikHOEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419D1ikHOEL._SL200_.jpg' ]
 comments: true
 category: ofertas

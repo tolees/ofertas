@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.48 % en Napapijri Rainforest Winter  Chaqueta  A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KVrZaYVAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KVrZaYVAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KVrZaYVAL._SL200_.jpg' ]
 comments: true
 category: ofertas

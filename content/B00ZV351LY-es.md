@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.22 % en BERING Reloj Analógico para Unisex Adult'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RkpruJMoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RkpruJMoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RkpruJMoL._SL200_.jpg' ]
 comments: true
 category: ofertas

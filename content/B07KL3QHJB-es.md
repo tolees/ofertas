@@ -3,6 +3,7 @@ layout: post
 title: 'Nike M NK Dry ACDMY Hoodie PO Sweatshirt al 49.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aYp8sAy%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aYp8sAy%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aYp8sAy%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

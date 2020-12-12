@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.43 % en Dickies Curtis  Parka para Hombre  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B3n9GYdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B3n9GYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B3n9GYdL._SL200_.jpg' ]
 comments: true
 category: ofertas

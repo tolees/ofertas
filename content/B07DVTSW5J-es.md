@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.07 % en Levi s Modern Hm Hoodie Capucha  Azul  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WfH5%2BP6AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WfH5%2BP6AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WfH5%2BP6AL._SL200_.jpg' ]
 comments: true
 category: ofertas

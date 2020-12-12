@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.63 % en Bosch MCP3000N Exprimidor  25 W  envase '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xoM2wlwSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xoM2wlwSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xoM2wlwSL._SL200_.jpg' ]
 comments: true
 category: ofertas

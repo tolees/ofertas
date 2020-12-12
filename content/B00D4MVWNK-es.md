@@ -3,6 +3,7 @@ layout: post
 title: 'Bourjois Maxi Delight Polvos Bronceadore al 44.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414w1rk2NML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414w1rk2NML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414w1rk2NML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'HOM Ligne 50 Mini Briefs Braguita  Azul  al 45.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zMq0iJpyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zMq0iJpyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zMq0iJpyL._SL200_.jpg' ]
 comments: true
 category: ofertas

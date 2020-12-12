@@ -3,6 +3,7 @@ layout: post
 title: 'Escala de grasa de cuerpo de Bluetooth T al 68.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zi%2Bx6xCeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zi%2Bx6xCeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zi%2Bx6xCeL._SL200_.jpg' ]
 comments: true
 category: ofertas

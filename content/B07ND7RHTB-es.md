@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Rider Short Bañador  Azul  Jaded EU  al 53.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518kEf-7PcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518kEf-7PcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518kEf-7PcL._SL200_.jpg' ]
 comments: true
 category: ofertas

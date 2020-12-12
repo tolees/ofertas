@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Davis Square 6 Inch  Botas Cl al 38.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gX76t4GeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gX76t4GeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gX76t4GeL._SL200_.jpg' ]
 comments: true
 category: ofertas

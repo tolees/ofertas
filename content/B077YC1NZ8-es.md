@@ -3,6 +3,7 @@ layout: post
 title: 'Puma 516421 02 Pantalón  Mujer  Blanco   al 64.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BaJpchZEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BaJpchZEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BaJpchZEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Mr. Wonderful Chocolatinas"Razones Por L al 30.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PluxEhgTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PluxEhgTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PluxEhgTL._SL200_.jpg' ]
 comments: true
 category: ofertas

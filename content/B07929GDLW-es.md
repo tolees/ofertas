@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.54 % en adidas Farm tee Camiseta  Mujer   multco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aQ-1HidSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aQ-1HidSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aQ-1HidSL._SL200_.jpg' ]
 comments: true
 category: ofertas

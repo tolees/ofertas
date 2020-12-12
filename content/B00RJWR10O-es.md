@@ -3,6 +3,7 @@ layout: post
 title: 'Mandil de Soldador Premium de Cuero Prot al 55.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dVLKIAsFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dVLKIAsFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dVLKIAsFL._SL200_.jpg' ]
 comments: true
 category: ofertas

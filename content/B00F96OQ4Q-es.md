@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Carouse  Tanga para Mujer   al 30.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KSt1wSZ0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KSt1wSZ0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KSt1wSZ0L._SL200_.jpg' ]
 comments: true
 category: ofertas

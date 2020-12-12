@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.08 % en DC Comic Superman Logo Camiseta  Azul  R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LRcg%2BCNML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LRcg%2BCNML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LRcg%2BCNML._SL200_.jpg' ]
 comments: true
 category: ofertas

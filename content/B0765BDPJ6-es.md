@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.30 % en Libid Toys Anillo Vibrador con Forma de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QpIg4B8DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QpIg4B8DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QpIg4B8DL._SL200_.jpg' ]
 comments: true
 category: ofertas

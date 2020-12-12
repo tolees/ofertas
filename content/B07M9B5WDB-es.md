@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.10 % en The North Face Drew Peak Sudadera  Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z6u4kX24L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z6u4kX24L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z6u4kX24L._SL200_.jpg' ]
 comments: true
 category: ofertas

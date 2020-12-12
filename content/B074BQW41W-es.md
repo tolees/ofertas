@@ -3,6 +3,7 @@ layout: post
 title: 'Hombre s Zapatillas de Baloncesto Otoño  al 30.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PjCmWM%2B2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PjCmWM%2B2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PjCmWM%2B2L._SL200_.jpg' ]
 comments: true
 category: ofertas

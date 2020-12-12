@@ -3,6 +3,7 @@ layout: post
 title: 'Gant Cotton Cable Crew  suéter Niños  Ro al 55.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QTgrKQVqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QTgrKQVqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QTgrKQVqL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Cross - Vaqueros Skinny fit para Mujer   al 61.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B84t5PjfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B84t5PjfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B84t5PjfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'LOQI Museum Gustav Klimt The Fulfilment  al 46.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w6WQJmuQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51w6WQJmuQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w6WQJmuQL._SL200_.jpg' ]
 comments: true
 category: ofertas

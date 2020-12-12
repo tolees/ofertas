@@ -3,6 +3,7 @@ layout: post
 title: 'MyProtein Impact Whey Proteína de Suero  al 40.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4128YpH4BeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4128YpH4BeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4128YpH4BeL._SL200_.jpg' ]
 comments: true
 category: ofertas

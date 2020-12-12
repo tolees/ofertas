@@ -3,6 +3,7 @@ layout: post
 title: 'Mayoral 4462  Sudadera con Capucha para  al 68.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gf37OjcwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gf37OjcwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gf37OjcwL._SL200_.jpg' ]
 comments: true
 category: ofertas

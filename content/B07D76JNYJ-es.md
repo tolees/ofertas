@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 310 Shaping Super Skinny  Vaquero al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MVTMHJVjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MVTMHJVjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MVTMHJVjL._SL200_.jpg' ]
 comments: true
 category: ofertas

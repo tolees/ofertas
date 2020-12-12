@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.87 % en de cepillo seco Kit 4PCS Pretty See Exfo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-7vpvyF1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-7vpvyF1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-7vpvyF1L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.08 % en Asics Gel-Rocket 8  Zapatillas Deportiva'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k0jpOAgoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k0jpOAgoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k0jpOAgoL._SL200_.jpg' ]
 comments: true
 category: ofertas

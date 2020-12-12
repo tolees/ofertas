@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmhelen LS String Blouse  suét al 75.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HCbSxaz6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HCbSxaz6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HCbSxaz6L._SL200_.jpg' ]
 comments: true
 category: ofertas

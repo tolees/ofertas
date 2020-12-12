@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.53 % en Springfield 8550964  Polo para Hombre   '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q-BI9LS8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q-BI9LS8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q-BI9LS8L._SL200_.jpg' ]
 comments: true
 category: ofertas

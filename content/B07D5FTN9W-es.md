@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.34 % en San Ignacio Set Casual Batería de Cocina'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51senkVDetL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51senkVDetL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51senkVDetL._SL200_.jpg' ]
 comments: true
 category: ofertas

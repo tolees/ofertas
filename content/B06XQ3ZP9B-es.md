@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.26 % en Desigual Jers_pullover - Suéter para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418%2BY29proL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418%2BY29proL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418%2BY29proL._SL200_.jpg' ]
 comments: true
 category: ofertas

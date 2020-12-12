@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.44 % en Diesel 00SH0I  Camiseta para Hombre   Gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hmFrCgkiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hmFrCgkiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hmFrCgkiL._SL200_.jpg' ]
 comments: true
 category: ofertas

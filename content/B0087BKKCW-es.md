@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.46 % en Zeno Watch Basel 6221Q-a15 - Reloj analó'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518vnYRl4PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518vnYRl4PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518vnYRl4PL._SL200_.jpg' ]
 comments: true
 category: ofertas

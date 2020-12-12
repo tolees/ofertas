@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.73 % en Napapijri - Voyage 1  Bolsos bandolera U'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z6CyZyyML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z6CyZyyML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z6CyZyyML._SL200_.jpg' ]
 comments: true
 category: ofertas

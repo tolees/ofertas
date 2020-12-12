@@ -3,6 +3,7 @@ layout: post
 title: 'Schwarzkopf Gliss Champú Seco Anti-Grasa al 83.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UEuxaBU4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UEuxaBU4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UEuxaBU4L._SL200_.jpg' ]
 comments: true
 category: ofertas

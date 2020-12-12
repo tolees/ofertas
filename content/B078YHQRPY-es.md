@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.43 % en Menú Sanae Tabulé de Quinoa Vegetariano '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ogM8lBkVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ogM8lBkVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ogM8lBkVL._SL200_.jpg' ]
 comments: true
 category: ofertas

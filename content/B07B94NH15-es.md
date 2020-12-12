@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Atticus Lace  Zapatos de Cordones al 49.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nG9BunwuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nG9BunwuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nG9BunwuL._SL200_.jpg' ]
 comments: true
 category: ofertas

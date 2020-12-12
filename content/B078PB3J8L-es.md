@@ -3,6 +3,7 @@ layout: post
 title: 'Petaca de Acero Inoxidable para Whisky L al 48.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WCjqdEJrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WCjqdEJrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WCjqdEJrL._SL200_.jpg' ]
 comments: true
 category: ofertas

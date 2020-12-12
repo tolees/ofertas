@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok CMPLT 2 PX  Zapatillas de Deporte al 59.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41csi%2BTH17L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41csi%2BTH17L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41csi%2BTH17L._SL200_.jpg' ]
 comments: true
 category: ofertas

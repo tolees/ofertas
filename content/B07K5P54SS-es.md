@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.17 % en Glamorous Ladies Floral Party Dress  Ves'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410rB8VnGJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410rB8VnGJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410rB8VnGJL._SL200_.jpg' ]
 comments: true
 category: ofertas

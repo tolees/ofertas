@@ -3,6 +3,7 @@ layout: post
 title: 'hummel HMLMATEO Pants  Hombre  Negro  L al 61.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kadkLrtyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kadkLrtyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kadkLrtyL._SL200_.jpg' ]
 comments: true
 category: ofertas

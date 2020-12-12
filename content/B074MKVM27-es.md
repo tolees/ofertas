@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Urban Basic  Chanclas para Hom al 57.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZwxSmStmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZwxSmStmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZwxSmStmL._SL200_.jpg' ]
 comments: true
 category: ofertas

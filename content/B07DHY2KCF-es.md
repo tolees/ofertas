@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.02 % en United Colors of Benetton Leggings para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eRFFoOhCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eRFFoOhCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eRFFoOhCL._SL200_.jpg' ]
 comments: true
 category: ofertas

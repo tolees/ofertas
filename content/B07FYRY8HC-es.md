@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.40 % en Reebok Royal Comp CLN 2V  Zapatillas de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PyWGFrMDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PyWGFrMDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PyWGFrMDL._SL200_.jpg' ]
 comments: true
 category: ofertas

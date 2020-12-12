@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Rebel Up Basic T-Shirt  Hombre  Cot al 56.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eSO51RKEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eSO51RKEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eSO51RKEL._SL200_.jpg' ]
 comments: true
 category: ofertas

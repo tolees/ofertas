@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 490-Bomber Basica Chaqueta B al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VwR-BjG0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VwR-BjG0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VwR-BjG0L._SL200_.jpg' ]
 comments: true
 category: ofertas

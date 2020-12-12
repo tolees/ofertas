@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.15 % en Breville VCF050X - Cafetera de goteo con'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31T6M3r7fDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31T6M3r7fDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31T6M3r7fDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Disney New Wonder S Dory Mochila Infanti al 72.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KgOVZ2oBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KgOVZ2oBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KgOVZ2oBL._SL200_.jpg' ]
 comments: true
 category: ofertas

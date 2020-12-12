@@ -3,6 +3,7 @@ layout: post
 title: 'Addition concentré éclat auto-bronzant 1 al 51.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EKEMH%2BnpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EKEMH%2BnpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EKEMH%2BnpL._SL200_.jpg' ]
 comments: true
 category: ofertas

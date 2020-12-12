@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.71 % en Columbia Chaqueta Impermeable con Capuch'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414jEhGj3sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414jEhGj3sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414jEhGj3sL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.88 % en BSN True Mass Ganador en Polvo  Vainilla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dXysR4SFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dXysR4SFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dXysR4SFL._SL200_.jpg' ]
 comments: true
 category: ofertas

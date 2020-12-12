@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.01 % en U839 Mini Compact Orange 2.4 GHz 3D 6 Ax'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mM0B9zBIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mM0B9zBIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mM0B9zBIL._SL200_.jpg' ]
 comments: true
 category: ofertas

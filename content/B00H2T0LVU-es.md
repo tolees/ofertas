@@ -3,6 +3,7 @@ layout: post
 title: 'HEAD Basic Boxer 2P  Calzoncillos/Boxer  al 30.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RjRdjhi5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RjRdjhi5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RjRdjhi5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Logitech G640 - Alfombrillas de ratón Ga al 49.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LYQCNcVhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LYQCNcVhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LYQCNcVhL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.07 % en Love Moschino - Borsa Denim  Bolso de ma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GF5v1GucL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GF5v1GucL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GF5v1GucL._SL200_.jpg' ]
 comments: true
 category: ofertas

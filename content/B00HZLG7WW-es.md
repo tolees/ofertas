@@ -3,6 +3,7 @@ layout: post
 title: 'Bigben TW5GB - Altavoz tipo barra  color al 48.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412SzhyRvOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412SzhyRvOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412SzhyRvOL._SL200_.jpg' ]
 comments: true
 category: ofertas

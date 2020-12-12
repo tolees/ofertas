@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Wmns Air Zoom Vapor X HC  Zapatilla al 59.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yGbayk7QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yGbayk7QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yGbayk7QL._SL200_.jpg' ]
 comments: true
 category: ofertas

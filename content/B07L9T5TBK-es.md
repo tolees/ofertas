@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.90 % en PJ JP 1880 Jeans Chino Schlupfbundhose P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aUui94mcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aUui94mcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aUui94mcL._SL200_.jpg' ]
 comments: true
 category: ofertas

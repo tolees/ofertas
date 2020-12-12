@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.44 % en Brüder Mannesmann Werkzeuge M15350 - Cla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bEjKWxDcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bEjKWxDcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bEjKWxDcL._SL200_.jpg' ]
 comments: true
 category: ofertas

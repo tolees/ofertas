@@ -3,6 +3,7 @@ layout: post
 title: 'Acer SF314-51-51M - Ordenador Portátil d al 37.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a3pVme02L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51a3pVme02L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a3pVme02L._SL200_.jpg' ]
 comments: true
 category: ofertas

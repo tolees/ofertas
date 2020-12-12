@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.02 % en Sicario Blu-Ray + Uhd 4k [Blu-ray]'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Bg6cYL1VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Bg6cYL1VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Bg6cYL1VL._SL200_.jpg' ]
 comments: true
 category: ofertas

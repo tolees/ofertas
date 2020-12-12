@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Oak Crew Sudadera  Hombre  Azul   al 32.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GD5QVyggL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GD5QVyggL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GD5QVyggL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.06 % en Nike Air Zoom Pegasus 35  GS   Zapatilla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31l%2B7bA%2BoYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31l%2B7bA%2BoYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31l%2B7bA%2BoYL._SL200_.jpg' ]
 comments: true
 category: ofertas

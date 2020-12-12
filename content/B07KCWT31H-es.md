@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley Bloomer Photo PRM tee SS Camiseta al 60.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n%2BDXq-3%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n%2BDXq-3%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n%2BDXq-3%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

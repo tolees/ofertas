@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.11 % en Quiksilver Critical 17" Bañador  Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yvJB8L62L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yvJB8L62L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yvJB8L62L._SL200_.jpg' ]
 comments: true
 category: ofertas

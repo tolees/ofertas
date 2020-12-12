@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.07 % en s.Oliver 14.503.12.7601 - Blusa para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A9INAj0qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A9INAj0qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A9INAj0qL._SL200_.jpg' ]
 comments: true
 category: ofertas

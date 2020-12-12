@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Solas W Sport Dusty Coral al 74.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415auLAmbDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415auLAmbDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415auLAmbDL._SL200_.jpg' ]
 comments: true
 category: ofertas

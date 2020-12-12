@@ -3,6 +3,7 @@ layout: post
 title: 'Hoover - Khross KS50PET- Aspirador Trine al 37.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S14wKz1mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S14wKz1mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S14wKz1mL._SL200_.jpg' ]
 comments: true
 category: ofertas

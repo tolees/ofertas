@@ -3,6 +3,7 @@ layout: post
 title: 'Lenovo Yoga Book 1.44GHz 10.1" 1920 x 12 al 33.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41grAQv2nkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41grAQv2nkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41grAQv2nkL._SL200_.jpg' ]
 comments: true
 category: ofertas

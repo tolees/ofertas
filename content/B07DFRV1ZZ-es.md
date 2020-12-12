@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS+ Hoody FL Sweatshirt  Hombre  D al 51.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PXhq8gITL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PXhq8gITL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PXhq8gITL._SL200_.jpg' ]
 comments: true
 category: ofertas

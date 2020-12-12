@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Hidi Holly  Zapatillas para Mujer al 42.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4174o41RtWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4174o41RtWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4174o41RtWL._SL200_.jpg' ]
 comments: true
 category: ofertas

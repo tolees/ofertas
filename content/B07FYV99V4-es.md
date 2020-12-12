@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok CN4815  Zapatillas Infantil  Mult al 44.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zq2GYvmqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zq2GYvmqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zq2GYvmqL._SL200_.jpg' ]
 comments: true
 category: ofertas

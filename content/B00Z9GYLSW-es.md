@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.36 % en Bloomwin 10pcs Luz Foco LED Luz de Techo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WMRJqVGML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WMRJqVGML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WMRJqVGML._SL200_.jpg' ]
 comments: true
 category: ofertas

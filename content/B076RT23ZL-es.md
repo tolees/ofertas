@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.06 % en Under Armour Breathe Trainer  Zapatillas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MDcbpZ4sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MDcbpZ4sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MDcbpZ4sL._SL200_.jpg' ]
 comments: true
 category: ofertas

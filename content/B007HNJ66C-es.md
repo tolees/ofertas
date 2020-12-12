@@ -3,6 +3,7 @@ layout: post
 title: 'MAGLITE 85131000 Linterna LED Mini Pro   al 32.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313dkrhbGhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313dkrhbGhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313dkrhbGhL._SL200_.jpg' ]
 comments: true
 category: ofertas

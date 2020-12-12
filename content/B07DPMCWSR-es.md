@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Myria C  Zapatillas Altas para Mu al 75.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41daUQ5xJaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41daUQ5xJaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41daUQ5xJaL._SL200_.jpg' ]
 comments: true
 category: ofertas

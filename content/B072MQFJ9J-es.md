@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.26 % en Casals VDLI14M-2 - Taladro atornillador '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KC3t8PD5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KC3t8PD5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KC3t8PD5L._SL200_.jpg' ]
 comments: true
 category: ofertas

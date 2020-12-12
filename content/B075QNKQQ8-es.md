@@ -3,6 +3,7 @@ layout: post
 title: 'Juego de tablas de cortar 7 en 1 de made al 34.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eUY8Eof5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eUY8Eof5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eUY8Eof5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Bang  Zapatillas Unisex Niños  Neg al 61.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4119Ic7bbzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4119Ic7bbzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4119Ic7bbzL._SL200_.jpg' ]
 comments: true
 category: ofertas

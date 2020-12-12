@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.37 % en Adidas Duramo 7 W - Zapatillas de runnin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414-431OSWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414-431OSWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414-431OSWL._SL200_.jpg' ]
 comments: true
 category: ofertas

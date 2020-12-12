@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 420  Zapatillas Unisex Adult al 54.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315ma6k9w6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315ma6k9w6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315ma6k9w6L._SL200_.jpg' ]
 comments: true
 category: ofertas

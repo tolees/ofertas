@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.84 % en crocs 203998  Chanclas Mujer  Gris  Smok'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DDc2PAtqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DDc2PAtqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DDc2PAtqL._SL200_.jpg' ]
 comments: true
 category: ofertas

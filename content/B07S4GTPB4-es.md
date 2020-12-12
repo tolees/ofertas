@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.37 % en Tobetree MT988 - GPS coches  7" Navegado'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CKFLMPYDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CKFLMPYDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CKFLMPYDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Celio Afowis  Vaqueros Slim para Hombre  al 63.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TXRmsrbtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TXRmsrbtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TXRmsrbtL._SL200_.jpg' ]
 comments: true
 category: ofertas

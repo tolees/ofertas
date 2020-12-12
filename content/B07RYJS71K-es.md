@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.02 % en Bikini Mujer Push-up con Acolchado Bra T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RPNy2FiPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RPNy2FiPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RPNy2FiPL._SL200_.jpg' ]
 comments: true
 category: ofertas

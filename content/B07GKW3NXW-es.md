@@ -3,6 +3,7 @@ layout: post
 title: 'LANGRIA Juego de 4 Vasos de Whisky de Vi al 82.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bkpsv20QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bkpsv20QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bkpsv20QL._SL200_.jpg' ]
 comments: true
 category: ofertas

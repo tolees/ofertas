@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj - Swiss Military Hanowa - Para  -  al 70.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fmI0wvanL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fmI0wvanL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fmI0wvanL._SL200_.jpg' ]
 comments: true
 category: ofertas

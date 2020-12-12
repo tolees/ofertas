@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS+ Logo tee Dress Camiseta  Mujer al 33.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oyso19jeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oyso19jeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oyso19jeL._SL200_.jpg' ]
 comments: true
 category: ofertas

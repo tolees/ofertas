@@ -3,6 +3,7 @@ layout: post
 title: 'Dia De Patriotas Blu-Ray [Blu-ray] al 46.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N2%2B3TkhAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51N2%2B3TkhAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N2%2B3TkhAL._SL200_.jpg' ]
 comments: true
 category: ofertas

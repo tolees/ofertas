@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.33 % en Springfield 1512021  Camisa casual para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41po5jUnCHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41po5jUnCHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41po5jUnCHL._SL200_.jpg' ]
 comments: true
 category: ofertas

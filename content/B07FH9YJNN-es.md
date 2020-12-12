@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Union Wharf 2-Eye Oxford  Náu al 33.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411m4oUdfIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411m4oUdfIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411m4oUdfIL._SL200_.jpg' ]
 comments: true
 category: ofertas

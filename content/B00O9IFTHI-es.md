@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.12 % en Stahlwille 17 17 - Llave Combinada Con C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S9KtorNQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S9KtorNQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S9KtorNQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.39 % en Jamo S 8 ATM 100W Blanco Altavoz - Altav'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317t8EZw7-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317t8EZw7-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317t8EZw7-L._SL200_.jpg' ]
 comments: true
 category: ofertas

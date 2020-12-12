@@ -3,6 +3,7 @@ layout: post
 title: 'Iris & Lilly Tanga de Tira con Encaje Mu al 56.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mxCyozYdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mxCyozYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mxCyozYdL._SL200_.jpg' ]
 comments: true
 category: ofertas

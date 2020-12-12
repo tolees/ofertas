@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid- Cámara Mint 2 en 1  con tecnol al 54.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tJ5MJXtNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tJ5MJXtNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tJ5MJXtNL._SL200_.jpg' ]
 comments: true
 category: ofertas

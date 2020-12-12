@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.37 % en Sony MDR-ZX310B - Auriculares de diadema'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KaoBN9kzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KaoBN9kzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KaoBN9kzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.08 % en Tamaris 26714  Botas Militar para Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cyFpP48VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cyFpP48VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cyFpP48VL._SL200_.jpg' ]
 comments: true
 category: ofertas

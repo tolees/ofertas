@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.77 % en Samsung S-View - Funda para móvil Galaxy'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41grasWyPAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41grasWyPAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41grasWyPAL._SL200_.jpg' ]
 comments: true
 category: ofertas

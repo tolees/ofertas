@@ -3,6 +3,7 @@ layout: post
 title: 'Gardena Aspersor oscilante Polo Classic  al 32.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cFu8u1pqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cFu8u1pqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cFu8u1pqL._SL200_.jpg' ]
 comments: true
 category: ofertas

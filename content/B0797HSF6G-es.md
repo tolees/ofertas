@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Inner Limits Jacket Chaqueta Im al 71.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g-z1lf1ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g-z1lf1ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g-z1lf1ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

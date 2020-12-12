@@ -3,6 +3,7 @@ layout: post
 title: 'DDR3 4 GB 1333MHZ GOODRAM 512x8 CL9 SR al 33.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415G3nC%2BMGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415G3nC%2BMGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415G3nC%2BMGL._SL200_.jpg' ]
 comments: true
 category: ofertas

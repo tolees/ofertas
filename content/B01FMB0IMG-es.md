@@ -3,6 +3,7 @@ layout: post
 title: 'Lixada Lámpara Cuerda Vintage  E27 100 c al 48.97 % de descuento'
 date: 
 thumbnailImage: 'None._SL200_'
+image: 'None._SL200_'
 images: [ 'None._SL200_' ]
 comments: true
 category: ofertas

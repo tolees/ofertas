@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.51 % en GOZOO Star Wars T-Shirt Hombre Imperial '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vOTf%2B7olL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vOTf%2B7olL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vOTf%2B7olL._SL200_.jpg' ]
 comments: true
 category: ofertas

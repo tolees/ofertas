@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.11 % en Metal Max Xeno'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xo1f4HckL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xo1f4HckL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xo1f4HckL._SL200_.jpg' ]
 comments: true
 category: ofertas

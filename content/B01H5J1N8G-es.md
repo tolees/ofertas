@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.76 % en MochilaTucano Loop 15 6" Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rEGvn9oFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rEGvn9oFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rEGvn9oFL._SL200_.jpg' ]
 comments: true
 category: ofertas

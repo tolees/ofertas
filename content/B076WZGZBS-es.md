@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Graphic Po Hoodie-B  Capucha para al 48.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417AW5JLhsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417AW5JLhsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417AW5JLhsL._SL200_.jpg' ]
 comments: true
 category: ofertas

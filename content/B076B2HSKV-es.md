@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.86 % en Bébé Confort Axiss Silla infantil girato'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hV0P-zUrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hV0P-zUrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hV0P-zUrL._SL200_.jpg' ]
 comments: true
 category: ofertas

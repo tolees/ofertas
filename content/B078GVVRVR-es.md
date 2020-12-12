@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.34 % en Cressi Calibro + Corsica Packs de Snorke'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NwkaPHjqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NwkaPHjqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NwkaPHjqL._SL200_.jpg' ]
 comments: true
 category: ofertas

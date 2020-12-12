@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.01 % en JUNERAIN Smart Watch  Zeblaze Arch Plus '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31svSB3pkzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31svSB3pkzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31svSB3pkzL._SL200_.jpg' ]
 comments: true
 category: ofertas

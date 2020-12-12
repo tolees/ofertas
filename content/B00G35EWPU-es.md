@@ -3,6 +3,7 @@ layout: post
 title: 'Swiss Eye Drive - Gafas de deporte  tall al 29.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dsHMb9ljL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dsHMb9ljL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dsHMb9ljL._SL200_.jpg' ]
 comments: true
 category: ofertas

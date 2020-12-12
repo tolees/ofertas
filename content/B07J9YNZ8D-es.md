@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.40 % en Estrella de Castilla  Chorizo de Bellota'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B07J9YNZ8D.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B07J9YNZ8D.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B07J9YNZ8D.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

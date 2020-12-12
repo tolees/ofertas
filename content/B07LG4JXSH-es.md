@@ -3,6 +3,7 @@ layout: post
 title: 'X-TIGER Hombres Ropa Interior de Bicicle al 46.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mlt%2Bn6f%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mlt%2Bn6f%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mlt%2Bn6f%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

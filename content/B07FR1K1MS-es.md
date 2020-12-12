@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.53 % en Clarks Tri Spark  Zapatillas para Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IkrwQmVYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IkrwQmVYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IkrwQmVYL._SL200_.jpg' ]
 comments: true
 category: ofertas

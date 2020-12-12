@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.80 % en Brother MFC-9330CDW - Impresora multifun'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419AygRQZlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419AygRQZlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419AygRQZlL._SL200_.jpg' ]
 comments: true
 category: ofertas

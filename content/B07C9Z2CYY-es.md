@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.96 % en OCYCLONE Fundas Samsung Galaxy S9 Plus P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/619eE2gNyRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/619eE2gNyRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/619eE2gNyRL._SL200_.jpg' ]
 comments: true
 category: ofertas

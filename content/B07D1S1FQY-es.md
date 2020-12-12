@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.89 % en Armani Exchange 6zya06  Vestido Mujer  N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-oZ66jPBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-oZ66jPBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-oZ66jPBL._SL200_.jpg' ]
 comments: true
 category: ofertas

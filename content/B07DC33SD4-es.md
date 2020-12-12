@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Courtace Sport  Zapatilla al 54.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jTeGPLDFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jTeGPLDFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jTeGPLDFL._SL200_.jpg' ]
 comments: true
 category: ofertas

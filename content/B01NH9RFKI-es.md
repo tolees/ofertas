@@ -3,6 +3,7 @@ layout: post
 title: 'Fapil 10001 - Soporte escoba y recogedor al 25.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i6725UqKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i6725UqKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i6725UqKL._SL200_.jpg' ]
 comments: true
 category: ofertas

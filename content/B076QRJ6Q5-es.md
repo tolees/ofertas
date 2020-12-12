@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.51 % en Happy People Nest Swing '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gSW9UKh2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gSW9UKh2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gSW9UKh2L._SL200_.jpg' ]
 comments: true
 category: ofertas

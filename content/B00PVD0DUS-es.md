@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.24 % en D-Link DSR-1000AC'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AmcJaqKLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AmcJaqKLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AmcJaqKLL._SL200_.jpg' ]
 comments: true
 category: ofertas

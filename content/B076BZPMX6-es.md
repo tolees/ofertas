@@ -3,6 +3,7 @@ layout: post
 title: 'Divoom Air Beat 10 - Altavoz portatil  3 al 27.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fj6DnsDrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fj6DnsDrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fj6DnsDrL._SL200_.jpg' ]
 comments: true
 category: ofertas

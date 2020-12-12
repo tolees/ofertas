@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Prowl Wn s  Zapatillas Deportivas p al 52.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417iNoZ13FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417iNoZ13FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417iNoZ13FL._SL200_.jpg' ]
 comments: true
 category: ofertas

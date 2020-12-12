@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.02 % en Staedtler triplus fineliner en colores b'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kpkpc7ehL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kpkpc7ehL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kpkpc7ehL._SL200_.jpg' ]
 comments: true
 category: ofertas

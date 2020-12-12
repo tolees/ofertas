@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Belkin MIXIT F8M979btBLU - Batería exter'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ph%2Bd-eB6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ph%2Bd-eB6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ph%2Bd-eB6L._SL200_.jpg' ]
 comments: true
 category: ofertas

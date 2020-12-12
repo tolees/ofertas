@@ -3,6 +3,7 @@ layout: post
 title: 'Epson C13S051160  Cartucho de Tóner para al 53.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mqHpLRC0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mqHpLRC0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mqHpLRC0L._SL200_.jpg' ]
 comments: true
 category: ofertas

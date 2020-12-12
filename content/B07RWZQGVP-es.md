@@ -3,6 +3,7 @@ layout: post
 title: 'Enchufe Inteligente Mini Salida WiFi - V al 44.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Kzrlpe73L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Kzrlpe73L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Kzrlpe73L._SL200_.jpg' ]
 comments: true
 category: ofertas

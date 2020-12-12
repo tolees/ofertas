@@ -3,6 +3,7 @@ layout: post
 title: 'Abrelatas Manual - Morpilot Abrebotellas al 45.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OqsX8a5UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OqsX8a5UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OqsX8a5UL._SL200_.jpg' ]
 comments: true
 category: ofertas

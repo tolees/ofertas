@@ -3,6 +3,7 @@ layout: post
 title: 'Jana 23600  Zapatillas para Mujer  Gris  al 78.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n6b8to%2BpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n6b8to%2BpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n6b8to%2BpL._SL200_.jpg' ]
 comments: true
 category: ofertas

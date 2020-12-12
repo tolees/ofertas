@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Bugaboo Beanie Gorro  Unisex  A al 40.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516eTvYTUFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516eTvYTUFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516eTvYTUFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Receptor transmisor Bluetooth 5.0 Plus   al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51g5%2BphPgNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51g5%2BphPgNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51g5%2BphPgNL._SL200_.jpg' ]
 comments: true
 category: ofertas

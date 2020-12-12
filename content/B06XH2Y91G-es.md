@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.00 % en Devir Cartagena Juego de Mesa BGENA'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61z7yB%2BCEWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61z7yB%2BCEWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61z7yB%2BCEWL._SL200_.jpg' ]
 comments: true
 category: ofertas

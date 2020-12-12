@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers by Gerli 43ea301  Botas Militar  al 54.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kSJ0RfVqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kSJ0RfVqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kSJ0RfVqL._SL200_.jpg' ]
 comments: true
 category: ofertas

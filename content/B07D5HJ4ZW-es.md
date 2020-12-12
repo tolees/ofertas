@@ -3,6 +3,7 @@ layout: post
 title: 'LoveBoxxx - Conjunto BDSM Set Rojo - Cue al 33.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ynl6QK7oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ynl6QK7oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ynl6QK7oL._SL200_.jpg' ]
 comments: true
 category: ofertas

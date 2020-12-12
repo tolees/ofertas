@@ -3,6 +3,7 @@ layout: post
 title: 'TACKLIFE Encendedor - ELY07 220mAh Meche al 41.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Yu5dALiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418Yu5dALiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Yu5dALiL._SL200_.jpg' ]
 comments: true
 category: ofertas

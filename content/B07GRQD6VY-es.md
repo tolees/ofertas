@@ -3,6 +3,7 @@ layout: post
 title: 'SALOVES Ropa para Mascotas Perros Invier al 40.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h-IDpfBCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31h-IDpfBCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h-IDpfBCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Lightweight Calzoncillos Termicos al 47.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GejBphIyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GejBphIyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GejBphIyL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'OCDAY Syma Z3 Drone con Camara HD 720P W al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41727JaAZ0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41727JaAZ0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41727JaAZ0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'NAME IT Nithedra LS Dress F Nmt Vestido  al 55.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vie7jTDiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vie7jTDiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vie7jTDiL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 88.73 % en Esprit Tiny Check BLZ Chaqueta de Traje '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mMaZZEh7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mMaZZEh7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mMaZZEh7L._SL200_.jpg' ]
 comments: true
 category: ofertas

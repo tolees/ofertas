@@ -3,6 +3,7 @@ layout: post
 title: 'Gant D1 Archive Sweat Hoodie Capucha  Gr al 62.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419JLJfvb3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419JLJfvb3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419JLJfvb3L._SL200_.jpg' ]
 comments: true
 category: ofertas

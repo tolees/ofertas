@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 118eo1e025 Vestido  Ro al 84.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Wm%2BDUQnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416Wm%2BDUQnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Wm%2BDUQnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.50 % en Sony SE20 - Correa para Sony Smartwatch '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21EOD1bb2gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21EOD1bb2gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21EOD1bb2gL._SL200_.jpg' ]
 comments: true
 category: ofertas

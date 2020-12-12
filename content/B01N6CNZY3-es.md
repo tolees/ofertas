@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen W Pier 2 Pant Bib  Mujer  E al 48.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ufCKaNlFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ufCKaNlFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ufCKaNlFL._SL200_.jpg' ]
 comments: true
 category: ofertas

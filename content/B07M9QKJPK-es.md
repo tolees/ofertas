@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Graphic 41 T-shirt  Camiseta  al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C5-nAm32L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C5-nAm32L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C5-nAm32L._SL200_.jpg' ]
 comments: true
 category: ofertas

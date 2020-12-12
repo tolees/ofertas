@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.38 % en D-Link DIR-850L Wireless AC1200 Dual-Ban'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uoGSkUb5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uoGSkUb5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uoGSkUb5L._SL200_.jpg' ]
 comments: true
 category: ofertas

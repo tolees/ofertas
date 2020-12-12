@@ -3,6 +3,7 @@ layout: post
 title: 'Adelheid - Glücklich Umhängetasche  Shop al 54.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515zu2H4xDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515zu2H4xDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515zu2H4xDL._SL200_.jpg' ]
 comments: true
 category: ofertas

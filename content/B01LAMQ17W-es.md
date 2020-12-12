@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.30 % en POP! Vinilo - Disney: Beauty & The Beast'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517zVb%2BIRmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517zVb%2BIRmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517zVb%2BIRmL._SL200_.jpg' ]
 comments: true
 category: ofertas

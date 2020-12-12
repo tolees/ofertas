@@ -3,6 +3,7 @@ layout: post
 title: 'Saco/Cosy Toes Compatible con paseo Quin al 66.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414Nf9qqpsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414Nf9qqpsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414Nf9qqpsL._SL200_.jpg' ]
 comments: true
 category: ofertas

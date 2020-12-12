@@ -3,6 +3,7 @@ layout: post
 title: 'TEPSMIGO Funda Barbacoa Impermeable  Fun al 55.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419t77oWDzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419t77oWDzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419t77oWDzL._SL200_.jpg' ]
 comments: true
 category: ofertas

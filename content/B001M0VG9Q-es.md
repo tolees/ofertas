@@ -3,6 +3,7 @@ layout: post
 title: 'VICHY Desodorante Antitranspirante Roll- al 44.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SGKj%2BRfDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SGKj%2BRfDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SGKj%2BRfDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Childrens Rope Tow Kruser  Zapa al 53.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TtgKZzp4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TtgKZzp4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TtgKZzp4L._SL200_.jpg' ]
 comments: true
 category: ofertas

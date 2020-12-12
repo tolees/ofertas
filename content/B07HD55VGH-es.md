@@ -3,6 +3,7 @@ layout: post
 title: 'Utensilio de Cocina de Juguete Tostadora al 37.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N9dtbOPGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51N9dtbOPGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N9dtbOPGL._SL200_.jpg' ]
 comments: true
 category: ofertas

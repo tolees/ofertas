@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.31 % en Valira Termo para Sólidos de 1 L con 2 C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O5xInA82L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O5xInA82L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O5xInA82L._SL200_.jpg' ]
 comments: true
 category: ofertas

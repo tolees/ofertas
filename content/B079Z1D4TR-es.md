@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.65 % en BILLABONG Arcade Gorro  Hombre  Navy  U'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51laNP6VHHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51laNP6VHHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51laNP6VHHL._SL200_.jpg' ]
 comments: true
 category: ofertas

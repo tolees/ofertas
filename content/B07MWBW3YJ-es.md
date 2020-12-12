@@ -3,6 +3,7 @@ layout: post
 title: 'RICOO Banco de Armario Zapatería WM035-W al 51.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rxCgEA5lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rxCgEA5lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rxCgEA5lL._SL200_.jpg' ]
 comments: true
 category: ofertas

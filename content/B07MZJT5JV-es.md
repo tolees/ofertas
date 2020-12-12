@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.21 % en Superdry Vintage Logo Sequin Pop Entry C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zxfjZ5eIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zxfjZ5eIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zxfjZ5eIL._SL200_.jpg' ]
 comments: true
 category: ofertas

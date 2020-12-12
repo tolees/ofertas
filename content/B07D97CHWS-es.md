@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 55835  Botas Clasicas para Niños  Ne al 61.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J2PV7%2BVGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J2PV7%2BVGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J2PV7%2BVGL._SL200_.jpg' ]
 comments: true
 category: ofertas

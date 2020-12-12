@@ -3,6 +3,7 @@ layout: post
 title: 'Soporte de papel higiénico  WisFox Nuevo al 58.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416ds2GH4sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416ds2GH4sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416ds2GH4sL._SL200_.jpg' ]
 comments: true
 category: ofertas

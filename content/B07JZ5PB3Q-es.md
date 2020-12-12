@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.58 % en adidas Nemeziz 18.3 AG  Zapatillas de Fú'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DeLSoeHvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DeLSoeHvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DeLSoeHvL._SL200_.jpg' ]
 comments: true
 category: ofertas

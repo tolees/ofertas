@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Baseline Word Mark tee - Ca al 48.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312JDQfViWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312JDQfViWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312JDQfViWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Ultranatura Maceta de Fibra de Vidrio -  al 30.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Iuc-gN%2BIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Iuc-gN%2BIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Iuc-gN%2BIL._SL200_.jpg' ]
 comments: true
 category: ofertas

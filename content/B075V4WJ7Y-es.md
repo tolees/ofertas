@@ -3,6 +3,7 @@ layout: post
 title: 'Meidong 2110 Altavoz Bluetooth Inalámbri al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410VM46CCjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410VM46CCjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410VM46CCjL._SL200_.jpg' ]
 comments: true
 category: ofertas

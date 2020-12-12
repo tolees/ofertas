@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.42 % en Pepe Jeans London Collie Warm  Botas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41drq6z%2BDoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41drq6z%2BDoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41drq6z%2BDoL._SL200_.jpg' ]
 comments: true
 category: ofertas

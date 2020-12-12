@@ -3,6 +3,7 @@ layout: post
 title: 'Karen Millen Snake Print Collection Vest al 55.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-8bdonvnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-8bdonvnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-8bdonvnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'FIND 13641 vestido fiesta mujer  Rojo  R al 70.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rM948jpRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rM948jpRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rM948jpRL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.35 % en Los Pilares De La Tierra+Un Mundo Sin Fi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61xRe6elhFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61xRe6elhFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61xRe6elhFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Philips BTM1360 - Microcadena con Blueto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yTQjTMHmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yTQjTMHmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yTQjTMHmL._SL200_.jpg' ]
 comments: true
 category: ofertas

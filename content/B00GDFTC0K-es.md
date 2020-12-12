@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.57 % en Makita DF347DWE - Taladro Atornillador 1'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o2DyQO43L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51o2DyQO43L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51o2DyQO43L._SL200_.jpg' ]
 comments: true
 category: ofertas

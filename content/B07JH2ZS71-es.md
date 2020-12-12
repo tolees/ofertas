@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS+ Cut Off Tank Camiseta De Tiran al 30.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xnbCgMKDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xnbCgMKDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xnbCgMKDL._SL200_.jpg' ]
 comments: true
 category: ofertas

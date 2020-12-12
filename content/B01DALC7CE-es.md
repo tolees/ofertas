@@ -3,6 +3,7 @@ layout: post
 title: 'Izas Mijares Camiseta  Mujer  Rojo  XS al 33.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tb9RMH3jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tb9RMH3jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tb9RMH3jL._SL200_.jpg' ]
 comments: true
 category: ofertas

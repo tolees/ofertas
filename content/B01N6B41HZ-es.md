@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.57 % en Iris & Lilly BAL-009 camiseta tirantes m'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zPU1XE-0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zPU1XE-0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zPU1XE-0L._SL200_.jpg' ]
 comments: true
 category: ofertas

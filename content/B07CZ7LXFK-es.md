@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Sport Avance 318 1 SPM  Zapatill al 53.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TYjNcWA2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TYjNcWA2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TYjNcWA2L._SL200_.jpg' ]
 comments: true
 category: ofertas

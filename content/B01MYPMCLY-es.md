@@ -3,6 +3,7 @@ layout: post
 title: 'Lego Reloj Analógico para Unisex Niños d al 43.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zSU1S0loL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zSU1S0loL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zSU1S0loL._SL200_.jpg' ]
 comments: true
 category: ofertas

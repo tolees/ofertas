@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.02 % en Prensa Ajo - Acero Inoxidable Prensa de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ys6WtmnEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ys6WtmnEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ys6WtmnEL._SL200_.jpg' ]
 comments: true
 category: ofertas

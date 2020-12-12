@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.87 % en XTI 48396  Botines para Mujer  Morado Bu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k56WIy0QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k56WIy0QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k56WIy0QL._SL200_.jpg' ]
 comments: true
 category: ofertas

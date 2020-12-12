@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.62 % en Columbia Boubioz Hooded Full Zip Chaquet'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i6K68DCnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i6K68DCnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i6K68DCnL._SL200_.jpg' ]
 comments: true
 category: ofertas

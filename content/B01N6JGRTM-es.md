@@ -3,6 +3,7 @@ layout: post
 title: 'Bebe Confort 3220660266593 Carrito gemel al 45.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HzkoylzcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HzkoylzcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HzkoylzcL._SL200_.jpg' ]
 comments: true
 category: ofertas

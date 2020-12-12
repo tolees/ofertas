@@ -3,6 +3,7 @@ layout: post
 title: 'Coches de Juguetes Metalicos 16pcs Model al 39.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51etjdxz51L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51etjdxz51L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51etjdxz51L._SL200_.jpg' ]
 comments: true
 category: ofertas

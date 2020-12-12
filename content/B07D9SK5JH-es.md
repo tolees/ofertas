@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.50 % en adidas RUN70S  Zapatillas de Deporte par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CslmCCicL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CslmCCicL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CslmCCicL._SL200_.jpg' ]
 comments: true
 category: ofertas

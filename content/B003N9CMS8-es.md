@@ -3,6 +3,7 @@ layout: post
 title: 'Curver 182004 Contenedor para Pienso de  al 53.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wsSpsMZjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wsSpsMZjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wsSpsMZjL._SL200_.jpg' ]
 comments: true
 category: ofertas

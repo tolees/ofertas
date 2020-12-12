@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.05 % en Spin Master Air Hogs Hyper Drift Drone  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61GrEWseiPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61GrEWseiPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61GrEWseiPL._SL200_.jpg' ]
 comments: true
 category: ofertas

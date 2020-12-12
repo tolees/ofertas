@@ -3,6 +3,7 @@ layout: post
 title: 'Crazy Color Emerald Green Nº 53 Crema Co al 45.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JgT870MDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JgT870MDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JgT870MDL._SL200_.jpg' ]
 comments: true
 category: ofertas

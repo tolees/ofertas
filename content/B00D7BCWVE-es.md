@@ -3,6 +3,7 @@ layout: post
 title: 'Max Factor Colour Elixir Barra de Labios al 67.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21HEJcm7crL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21HEJcm7crL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21HEJcm7crL._SL200_.jpg' ]
 comments: true
 category: ofertas

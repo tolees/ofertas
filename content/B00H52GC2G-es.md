@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.77 % en Renberg Set de 15 Cuchillos con Tacoma d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K6%2BQHj-BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K6%2BQHj-BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K6%2BQHj-BL._SL200_.jpg' ]
 comments: true
 category: ofertas

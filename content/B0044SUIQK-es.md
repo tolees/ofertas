@@ -3,6 +3,7 @@ layout: post
 title: 'Morellato SRR01 - Eclipse - Collar de Mu al 64.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mG%2Bn9y0LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mG%2Bn9y0LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mG%2Bn9y0LL._SL200_.jpg' ]
 comments: true
 category: ofertas

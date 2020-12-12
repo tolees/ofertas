@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.25 % en Vans Camden Stripe  Zapatillas para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RNcRw38DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RNcRw38DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RNcRw38DL._SL200_.jpg' ]
 comments: true
 category: ofertas

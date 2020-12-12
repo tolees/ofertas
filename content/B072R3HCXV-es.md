@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.54 % en BOSS Brief Urban Bóxer  Blanco  White 10'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418mwVjHlQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418mwVjHlQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418mwVjHlQL._SL200_.jpg' ]
 comments: true
 category: ofertas

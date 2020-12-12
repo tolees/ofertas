@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Rider Jacket  Chaqueta vaquera Mujer al 67.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hgnUQFzgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hgnUQFzgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hgnUQFzgL._SL200_.jpg' ]
 comments: true
 category: ofertas

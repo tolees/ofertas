@@ -3,6 +3,7 @@ layout: post
 title: 'Cooler Master RSC00-AFBAG1-EU - Fuente d al 43.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-lHQN7AUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-lHQN7AUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-lHQN7AUL._SL200_.jpg' ]
 comments: true
 category: ofertas

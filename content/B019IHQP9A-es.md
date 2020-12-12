@@ -3,6 +3,7 @@ layout: post
 title: 'ReNu Multiplus Solución única - 360 ml al 42.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JK6zwXCPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JK6zwXCPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JK6zwXCPL._SL200_.jpg' ]
 comments: true
 category: ofertas

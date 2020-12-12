@@ -3,6 +3,7 @@ layout: post
 title: 'Wolfpack 4040050 Grifo Lavadora Doble Ro al 43.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F4LP0sI7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F4LP0sI7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F4LP0sI7L._SL200_.jpg' ]
 comments: true
 category: ofertas

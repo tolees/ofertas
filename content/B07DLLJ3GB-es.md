@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield INT.Real Down Teddy Abrigo   al 76.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E7UHufeUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E7UHufeUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E7UHufeUL._SL200_.jpg' ]
 comments: true
 category: ofertas

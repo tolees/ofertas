@@ -3,6 +3,7 @@ layout: post
 title: 'Puma One 3 LTH FG  Zapatillas de Fútbol  al 78.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f-0cfkeUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f-0cfkeUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f-0cfkeUL._SL200_.jpg' ]
 comments: true
 category: ofertas

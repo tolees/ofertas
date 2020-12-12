@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.26 % en Gant Chunky Cable Sweater  suéter para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ptdOHsJML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ptdOHsJML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ptdOHsJML._SL200_.jpg' ]
 comments: true
 category: ofertas

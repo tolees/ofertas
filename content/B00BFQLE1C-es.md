@@ -3,6 +3,7 @@ layout: post
 title: 'Bisk 00408 Deco Percha Doble  7 5 x 6 x  al 43.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E%2B%2Bjt74gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E%2B%2Bjt74gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E%2B%2Bjt74gL._SL200_.jpg' ]
 comments: true
 category: ofertas

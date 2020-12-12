@@ -3,6 +3,7 @@ layout: post
 title: 'EBY LC123 XL Cartuchos de Tinta para Imp al 56.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ty1FT9x8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ty1FT9x8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ty1FT9x8L._SL200_.jpg' ]
 comments: true
 category: ofertas

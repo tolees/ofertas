@@ -3,6 +3,7 @@ layout: post
 title: '2 en 1 Sacaleches Eléctrico Ruido Bajo E al 35.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41doA5E9DyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41doA5E9DyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41doA5E9DyL._SL200_.jpg' ]
 comments: true
 category: ofertas

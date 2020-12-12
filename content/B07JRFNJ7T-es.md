@@ -3,6 +3,7 @@ layout: post
 title: 'Atelier GARDEUR ZENE13 Pantalones  Beige al 87.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CrppA0X9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CrppA0X9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CrppA0X9L._SL200_.jpg' ]
 comments: true
 category: ofertas

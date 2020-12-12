@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES PREMIUM Jprstory Knit Crew  al 72.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZzKHSr6hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZzKHSr6hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZzKHSr6hL._SL200_.jpg' ]
 comments: true
 category: ofertas

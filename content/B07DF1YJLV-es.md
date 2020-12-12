@@ -3,6 +3,7 @@ layout: post
 title: 'Pop! Disney Mickey 90 Years - Figura de  al 48.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yhY-iXdVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yhY-iXdVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yhY-iXdVL._SL200_.jpg' ]
 comments: true
 category: ofertas

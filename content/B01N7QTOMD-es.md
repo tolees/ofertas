@@ -3,6 +3,7 @@ layout: post
 title: 'O  Neill Active Print 7/8 Leggings  Prim al 65.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MkBDs6rRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MkBDs6rRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MkBDs6rRL._SL200_.jpg' ]
 comments: true
 category: ofertas

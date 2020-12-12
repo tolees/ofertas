@@ -3,6 +3,7 @@ layout: post
 title: 'Prodigiosa: Las aventuras de Ladybug - F al 63.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51u2W82X-CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51u2W82X-CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51u2W82X-CL._SL200_.jpg' ]
 comments: true
 category: ofertas

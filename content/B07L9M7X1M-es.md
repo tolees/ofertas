@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.03 % en adidas W AOP HDY - Sudadera  Mujer  Rosa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dtSNPWtTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dtSNPWtTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dtSNPWtTL._SL200_.jpg' ]
 comments: true
 category: ofertas

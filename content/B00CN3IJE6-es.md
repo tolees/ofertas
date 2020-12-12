@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.02 % en Integral INMSDH32G10-40U1 - Tarjeta Micr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VgUucQDpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VgUucQDpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VgUucQDpL._SL200_.jpg' ]
 comments: true
 category: ofertas

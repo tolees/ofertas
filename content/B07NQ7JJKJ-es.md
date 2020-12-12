@@ -3,6 +3,7 @@ layout: post
 title: 'Feob Pulsera Actividad Inteligente  Relo al 67.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BXr3qV6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BXr3qV6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417%2BXr3qV6L._SL200_.jpg' ]
 comments: true
 category: ofertas

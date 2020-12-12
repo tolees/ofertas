@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.22 % en Intex 57505NP - Colchoneta Hinchable pos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QynFcPlAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QynFcPlAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QynFcPlAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.06 % en Nike Wmns Classic Cortez Leather  Zapati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vW%2BQ5k%2BkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vW%2BQ5k%2BkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vW%2BQ5k%2BkL._SL200_.jpg' ]
 comments: true
 category: ofertas

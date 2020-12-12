@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.01 % en Power Bank AKEEM Mejorar 24000mAh Cargad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uTayAAzAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uTayAAzAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uTayAAzAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.86 % en Guante Cepillo Manopla para Mascotas  Re'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZKIHuwXsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZKIHuwXsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZKIHuwXsL._SL200_.jpg' ]
 comments: true
 category: ofertas

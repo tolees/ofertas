@@ -3,6 +3,7 @@ layout: post
 title: 'Gant Cotton Piqué Dress  Vestido para Mu al 61.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31e1aLCP0OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31e1aLCP0OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31e1aLCP0OL._SL200_.jpg' ]
 comments: true
 category: ofertas

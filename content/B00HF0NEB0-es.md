@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.42 % en WMF Ceramill Natura Juego 2 molinillos  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516-l3oXySL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516-l3oXySL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516-l3oXySL._SL200_.jpg' ]
 comments: true
 category: ofertas

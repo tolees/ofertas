@@ -3,6 +3,7 @@ layout: post
 title: 'Bottari 13173 Cojines del Pedal para Coc al 46.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iBToCyfyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iBToCyfyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iBToCyfyL._SL200_.jpg' ]
 comments: true
 category: ofertas

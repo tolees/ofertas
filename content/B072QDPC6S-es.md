@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.67 % en RED WAGON Zapatillas Altas con Velcro pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-JEpy-8iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-JEpy-8iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-JEpy-8iL._SL200_.jpg' ]
 comments: true
 category: ofertas

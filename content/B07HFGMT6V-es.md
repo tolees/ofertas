@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Tommy Logo tee  Camiseta  al 30.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bVYz4JpEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bVYz4JpEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bVYz4JpEL._SL200_.jpg' ]
 comments: true
 category: ofertas

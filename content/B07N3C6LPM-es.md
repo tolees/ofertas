@@ -3,6 +3,7 @@ layout: post
 title: 'Munich Goal  Zapatillas Unisex Adulto    al 56.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RwQorCdhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RwQorCdhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RwQorCdhL._SL200_.jpg' ]
 comments: true
 category: ofertas

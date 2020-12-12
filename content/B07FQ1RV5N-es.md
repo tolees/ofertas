@@ -3,6 +3,7 @@ layout: post
 title: 'find. Cotton Roll Neck suéter Negro  Bla al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KhuZad0DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KhuZad0DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KhuZad0DL._SL200_.jpg' ]
 comments: true
 category: ofertas

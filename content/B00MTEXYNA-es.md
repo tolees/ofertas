@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.44 % en Beter 12005 Peine plastico'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21hTVMx0odL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21hTVMx0odL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21hTVMx0odL._SL200_.jpg' ]
 comments: true
 category: ofertas

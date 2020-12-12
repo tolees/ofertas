@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s kids Nn10227 11 Short Sleeve tee- al 49.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TnuFLW%2BFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TnuFLW%2BFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TnuFLW%2BFL._SL200_.jpg' ]
 comments: true
 category: ofertas

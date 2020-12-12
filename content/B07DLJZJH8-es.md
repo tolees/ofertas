@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.98 % en Springfield 5Ba Microestru Organico Gg12'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ot9RJByKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ot9RJByKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ot9RJByKL._SL200_.jpg' ]
 comments: true
 category: ofertas

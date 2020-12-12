@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.13 % en adidas Parma 16 SHO Sport Shorts  Niño  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AHk6Rk5tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AHk6Rk5tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AHk6Rk5tL._SL200_.jpg' ]
 comments: true
 category: ofertas

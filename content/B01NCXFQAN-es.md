@@ -3,6 +3,7 @@ layout: post
 title: 'Displayschutz BigBen Protection Kit [Imp al 89.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vRzm6m7OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vRzm6m7OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vRzm6m7OL._SL200_.jpg' ]
 comments: true
 category: ofertas

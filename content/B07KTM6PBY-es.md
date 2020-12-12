@@ -3,6 +3,7 @@ layout: post
 title: 'Versace Jeans Couture - Bag  Mujer  Negr al 48.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RFS4HVnnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RFS4HVnnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RFS4HVnnL._SL200_.jpg' ]
 comments: true
 category: ofertas

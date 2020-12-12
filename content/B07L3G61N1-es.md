@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.46 % en Tommy Hilfiger Corporate Stripe Beach Sa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416k3AAGJuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416k3AAGJuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416k3AAGJuL._SL200_.jpg' ]
 comments: true
 category: ofertas

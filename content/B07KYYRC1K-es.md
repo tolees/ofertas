@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield FR Contrast Binding Camiseta al 67.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UO98fOlWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UO98fOlWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UO98fOlWL._SL200_.jpg' ]
 comments: true
 category: ofertas

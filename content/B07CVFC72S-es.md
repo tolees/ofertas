@@ -3,6 +3,7 @@ layout: post
 title: 'Anni Home 3.0 MP WiFi Seguridad cámara S al 88.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419x1hkbtIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419x1hkbtIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419x1hkbtIL._SL200_.jpg' ]
 comments: true
 category: ofertas

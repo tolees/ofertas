@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fresh Foam Kaymin  Zapatilla al 62.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GlfyL63IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GlfyL63IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GlfyL63IL._SL200_.jpg' ]
 comments: true
 category: ofertas

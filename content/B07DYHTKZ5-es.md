@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.45 % en HP 15-da0064ns - Ordenador portátil de 1'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x4qqcGouL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x4qqcGouL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x4qqcGouL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 90.46 % en Juana Barranco Tesa Falda Casual  Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LJ3g2VYiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LJ3g2VYiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LJ3g2VYiL._SL200_.jpg' ]
 comments: true
 category: ofertas

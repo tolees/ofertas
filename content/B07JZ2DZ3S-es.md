@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.45 % en Kono mujeres Hobo bandolera estilo vinta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Xa5IMQDBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Xa5IMQDBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Xa5IMQDBL._SL200_.jpg' ]
 comments: true
 category: ofertas

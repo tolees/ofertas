@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Witcombe Rock  Botas para Mujer   al 81.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B8lKyr-ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B8lKyr-ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B8lKyr-ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Pro Spark 2018 Low  Zapatillas de al 29.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4180jkOaV5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4180jkOaV5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4180jkOaV5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.09 % en Dr. Martens 1460  Botas Militares Unisex'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iX82%2BRr4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iX82%2BRr4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iX82%2BRr4L._SL200_.jpg' ]
 comments: true
 category: ofertas

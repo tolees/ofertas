@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.75 % en Esprit 998ee1j800 Sudadera  Rojo  Cherry'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XoAVITTML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XoAVITTML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XoAVITTML._SL200_.jpg' ]
 comments: true
 category: ofertas

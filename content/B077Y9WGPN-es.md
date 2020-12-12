@@ -3,6 +3,7 @@ layout: post
 title: 'Ring Spotlight Cam Battery | Cámara de s al 26.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mgJzGYl1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mgJzGYl1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mgJzGYl1L._SL200_.jpg' ]
 comments: true
 category: ofertas

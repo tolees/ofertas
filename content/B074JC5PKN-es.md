@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star RAW Deline Aop  Zapatillas para H al 67.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BOIC2ls1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BOIC2ls1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BOIC2ls1L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES Pcamy Rmw Skirt Mbld&Black/Noos F al 45.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l%2BR5QEE8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l%2BR5QEE8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l%2BR5QEE8L._SL200_.jpg' ]
 comments: true
 category: ofertas

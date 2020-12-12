@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.89 % en ADIDAS Daily 2.0 Db0161  Zapatillas de D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bowo6SOjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bowo6SOjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bowo6SOjL._SL200_.jpg' ]
 comments: true
 category: ofertas

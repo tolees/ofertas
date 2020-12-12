@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.53 % en Armani Exchange J15 Straight Indaco Deni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wS1PqksdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wS1PqksdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wS1PqksdL._SL200_.jpg' ]
 comments: true
 category: ofertas

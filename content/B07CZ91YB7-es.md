@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.21 % en Puma Epic Flip V2  Chanclas Unisex Adult'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31l1ZDRlUWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31l1ZDRlUWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31l1ZDRlUWL._SL200_.jpg' ]
 comments: true
 category: ofertas

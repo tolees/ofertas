@@ -3,6 +3,7 @@ layout: post
 title: 'Lámpara de sal Himalaya  Relassy regulab al 75.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417uqhyLs8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417uqhyLs8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417uqhyLs8L._SL200_.jpg' ]
 comments: true
 category: ofertas

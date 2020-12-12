@@ -3,6 +3,7 @@ layout: post
 title: 'deAO Coche de Carreras RC 2DW Vehiculo d al 49.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fKHEofb8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fKHEofb8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fKHEofb8L._SL200_.jpg' ]
 comments: true
 category: ofertas

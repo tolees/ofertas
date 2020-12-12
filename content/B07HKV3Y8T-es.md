@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.20 % en Mayoral 3186  Polo para Niños  Negro  Ti'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 9In Cardigan Estructura  Jer al 59.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QnCsc30QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QnCsc30QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QnCsc30QL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma One 4 Syn SG  Zapatillas de Fútbol  al 71.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4122qeKXumL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4122qeKXumL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4122qeKXumL._SL200_.jpg' ]
 comments: true
 category: ofertas

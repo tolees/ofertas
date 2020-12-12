@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.03 % en Element Blazin Zip Hood Fleece  Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nFXzxwPJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nFXzxwPJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nFXzxwPJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.27 % en Rowenta Air Force Ultimate TN9310 - Cort'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51k4wB12kQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51k4wB12kQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51k4wB12kQL._SL200_.jpg' ]
 comments: true
 category: ofertas

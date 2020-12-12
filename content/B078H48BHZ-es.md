@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.23 % en ESPRIT Collection 038eo1e031  Vestido de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ROgCtzz6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ROgCtzz6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ROgCtzz6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 Slim Vaqueros  Azul  Lt  al 68.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312JINrV2ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312JINrV2ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312JINrV2ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

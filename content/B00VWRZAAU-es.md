@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.96 % en Viking ULTRA 2.0 Botas de Material Sinté'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MDg6N6tNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MDg6N6tNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MDg6N6tNL._SL200_.jpg' ]
 comments: true
 category: ofertas

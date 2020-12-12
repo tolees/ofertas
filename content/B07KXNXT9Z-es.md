@@ -3,6 +3,7 @@ layout: post
 title: 'SUPORE Forerunner 235 Correa Reemplazo S al 66.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fYEZHG7OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fYEZHG7OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fYEZHG7OL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcojans Sweat Zip Hood  Sud al 68.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CMaXU-ToL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CMaXU-ToL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CMaXU-ToL._SL200_.jpg' ]
 comments: true
 category: ofertas

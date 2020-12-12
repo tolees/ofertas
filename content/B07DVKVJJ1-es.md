@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Hoops Mid 2.0  Zapatos de Balonce al 32.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PJY9vQFlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PJY9vQFlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PJY9vQFlL._SL200_.jpg' ]
 comments: true
 category: ofertas

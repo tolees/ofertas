@@ -3,6 +3,7 @@ layout: post
 title: 'Rieker 71731  Botas para Mujer  Negro  S al 59.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LNkgMMRcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LNkgMMRcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LNkgMMRcL._SL200_.jpg' ]
 comments: true
 category: ofertas

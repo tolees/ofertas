@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.68 % en XTI 48441  Botas Altas para Mujer  Marró'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310XMldLXyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310XMldLXyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310XMldLXyL._SL200_.jpg' ]
 comments: true
 category: ofertas

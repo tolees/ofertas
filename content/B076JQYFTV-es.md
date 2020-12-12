@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Thommer L.30 Vaqueros Slim  Gris  al 51.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QIRWDVYlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QIRWDVYlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QIRWDVYlL._SL200_.jpg' ]
 comments: true
 category: ofertas

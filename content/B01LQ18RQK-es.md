@@ -3,6 +3,7 @@ layout: post
 title: 'Bodum - K1928-16COS - Chambord Set - Caf al 35.35 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

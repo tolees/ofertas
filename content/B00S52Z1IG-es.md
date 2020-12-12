@@ -3,6 +3,7 @@ layout: post
 title: 'Smartwares 10.014.68 Extintor-2kg de Pol al 45.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xeZetYjjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xeZetYjjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xeZetYjjL._SL200_.jpg' ]
 comments: true
 category: ofertas

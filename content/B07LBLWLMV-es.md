@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans TJM Essential Chino Short Ba al 56.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KckwkwheL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KckwkwheL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KckwkwheL._SL200_.jpg' ]
 comments: true
 category: ofertas

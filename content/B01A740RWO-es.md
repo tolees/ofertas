@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.51 % en Moleskine Lineage - Maletín fino en piel'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L9xSl92yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L9xSl92yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L9xSl92yL._SL200_.jpg' ]
 comments: true
 category: ofertas

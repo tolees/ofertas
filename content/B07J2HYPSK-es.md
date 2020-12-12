@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en adidas NMD_Racer PK  Zapatillas de Gimna'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cO6tq1QiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cO6tq1QiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cO6tq1QiL._SL200_.jpg' ]
 comments: true
 category: ofertas

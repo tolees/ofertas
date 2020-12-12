@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.43 % en JACK & JONES Jorhero tee SS Crew Neck  C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q0VHYInSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q0VHYInSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q0VHYInSL._SL200_.jpg' ]
 comments: true
 category: ofertas

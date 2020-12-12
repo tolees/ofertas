@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.22 % en SURKER 2089 Plancha de Pelo 45W Alisador'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wxAQvCXXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wxAQvCXXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wxAQvCXXL._SL200_.jpg' ]
 comments: true
 category: ofertas

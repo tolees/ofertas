@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.96 % en ICA  KNA20 Nano AquaLED Crystal 20 -  Ki'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JOTowmufL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JOTowmufL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JOTowmufL._SL200_.jpg' ]
 comments: true
 category: ofertas

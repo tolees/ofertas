@@ -3,6 +3,7 @@ layout: post
 title: 'Doc Johnson Xtend It Kit Funda para el P al 36.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ql-icUMDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ql-icUMDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ql-icUMDL._SL200_.jpg' ]
 comments: true
 category: ofertas

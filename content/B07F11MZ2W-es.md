@@ -3,6 +3,7 @@ layout: post
 title: 'Billabong Guardiant Tee SS  - Camiseta   al 42.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o3WjojZdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o3WjojZdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o3WjojZdL._SL200_.jpg' ]
 comments: true
 category: ofertas

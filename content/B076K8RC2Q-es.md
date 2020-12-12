@@ -3,6 +3,7 @@ layout: post
 title: 'STAR WARS 8 The Last Jedi-Captain Phasma al 59.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a-kfFZBRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51a-kfFZBRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a-kfFZBRL._SL200_.jpg' ]
 comments: true
 category: ofertas

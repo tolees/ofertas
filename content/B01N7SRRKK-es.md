@@ -3,6 +3,7 @@ layout: post
 title: 'Buscador de Ángulo Digital 400mm/16 inch al 36.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413wLaHdXcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413wLaHdXcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413wLaHdXcL._SL200_.jpg' ]
 comments: true
 category: ofertas

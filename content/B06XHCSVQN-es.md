@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.88 % en Helly Hansen Daybreaker 1/2 Zip Fleece  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419HPfH6hiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419HPfH6hiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419HPfH6hiL._SL200_.jpg' ]
 comments: true
 category: ofertas

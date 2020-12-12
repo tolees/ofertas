@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 047202  Botines para Mujer  Rojo  Bu al 74.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510tkpErRwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510tkpErRwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510tkpErRwL._SL200_.jpg' ]
 comments: true
 category: ofertas

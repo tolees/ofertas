@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.09 % en Clarks Rufus Edge Bl  Zapatos de Cordone'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WsM9MJS5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WsM9MJS5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WsM9MJS5L._SL200_.jpg' ]
 comments: true
 category: ofertas

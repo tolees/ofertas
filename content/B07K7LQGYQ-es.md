@@ -3,6 +3,7 @@ layout: post
 title: 'Nerf - Mega Bulldog  Hasbro E3057EU4  al 28.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q9oa7IXUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q9oa7IXUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q9oa7IXUL._SL200_.jpg' ]
 comments: true
 category: ofertas

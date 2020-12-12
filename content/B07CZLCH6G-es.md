@@ -3,6 +3,7 @@ layout: post
 title: 'Bamboo Cheese Board | Wood Serving Platt al 46.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fzRM9q0TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fzRM9q0TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fzRM9q0TL._SL200_.jpg' ]
 comments: true
 category: ofertas

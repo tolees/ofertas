@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.01 % en Triumph Triaction Wellness F  Sujetador '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ePOD8Wm5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ePOD8Wm5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ePOD8Wm5L._SL200_.jpg' ]
 comments: true
 category: ofertas

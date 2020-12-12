@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.99 % en Vibrador del punto de G de la vagina  10'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NU7gwelvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NU7gwelvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NU7gwelvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'DeWalt Hoja de Sierra de calar HCS  DT20 al 33.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B1wf1p%2BLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31B1wf1p%2BLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B1wf1p%2BLL._SL200_.jpg' ]
 comments: true
 category: ofertas

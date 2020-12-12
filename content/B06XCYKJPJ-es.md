@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.21 % en Pepe Jeans Saturn Pl201660 Vaqueros  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B6EN1fDeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B6EN1fDeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B6EN1fDeL._SL200_.jpg' ]
 comments: true
 category: ofertas

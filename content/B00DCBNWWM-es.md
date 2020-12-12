@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.01 % en Under Armour UA Performance Polo  Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VBI0XU7jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VBI0XU7jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VBI0XU7jL._SL200_.jpg' ]
 comments: true
 category: ofertas

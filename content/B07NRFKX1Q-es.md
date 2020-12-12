@@ -3,6 +3,7 @@ layout: post
 title: 'Gliss Long & Sublime Champú para Cabello al 47.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XOI4Px6AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XOI4Px6AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XOI4Px6AL._SL200_.jpg' ]
 comments: true
 category: ofertas

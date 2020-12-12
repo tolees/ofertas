@@ -3,6 +3,7 @@ layout: post
 title: 'GOLIATE Kit BDSM Completo Pareja Soft y  al 47.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MH3TKcOPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MH3TKcOPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MH3TKcOPL._SL200_.jpg' ]
 comments: true
 category: ofertas

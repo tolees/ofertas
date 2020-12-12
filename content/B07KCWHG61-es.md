@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley - Camiseta para hombre  Blanco  S al 62.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tC9DZvrgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tC9DZvrgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tC9DZvrgL._SL200_.jpg' ]
 comments: true
 category: ofertas

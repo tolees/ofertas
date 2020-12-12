@@ -3,6 +3,7 @@ layout: post
 title: 'Bolero gh551 pavimento estilo acero sill al 60.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31v72atVC2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31v72atVC2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31v72atVC2L._SL200_.jpg' ]
 comments: true
 category: ofertas

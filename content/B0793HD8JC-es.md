@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.81 % en HAPY La felicidad de la Caja reactivo C '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r6UbVWAJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51r6UbVWAJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r6UbVWAJL._SL200_.jpg' ]
 comments: true
 category: ofertas

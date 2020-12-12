@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Future Grip 19.4 Guantes De Portero al 25.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YWfBJh-RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YWfBJh-RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YWfBJh-RL._SL200_.jpg' ]
 comments: true
 category: ofertas

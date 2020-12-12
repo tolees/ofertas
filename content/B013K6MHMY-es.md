@@ -3,6 +3,7 @@ layout: post
 title: 'Bellybutton Pauline - Kleid 1/2 Arm  Ves al 90.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EYpQgUzNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EYpQgUzNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EYpQgUzNL._SL200_.jpg' ]
 comments: true
 category: ofertas

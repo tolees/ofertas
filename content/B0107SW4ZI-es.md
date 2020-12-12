@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.36 % en Joma - Chaqueta Capucha Crew Marino-Cele'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xBmXLCHuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xBmXLCHuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xBmXLCHuL._SL200_.jpg' ]
 comments: true
 category: ofertas

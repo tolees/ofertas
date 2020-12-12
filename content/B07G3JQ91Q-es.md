@@ -3,6 +3,7 @@ layout: post
 title: 'APC Instruments Luthier - Instrumento de al 75.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311WnLsu0IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311WnLsu0IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311WnLsu0IL._SL200_.jpg' ]
 comments: true
 category: ofertas

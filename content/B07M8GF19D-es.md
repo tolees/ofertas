@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG 84212  Zapatillas para Hombre  Azul al 55.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VryqePHqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VryqePHqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VryqePHqL._SL200_.jpg' ]
 comments: true
 category: ofertas

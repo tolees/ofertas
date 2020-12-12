@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.88 % en Levi s Maya Top Blusa  Azul  Super Dark '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BQxFzbkgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BQxFzbkgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BQxFzbkgL._SL200_.jpg' ]
 comments: true
 category: ofertas

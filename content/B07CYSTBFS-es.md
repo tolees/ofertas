@@ -3,6 +3,7 @@ layout: post
 title: 'Klarstein Brilliance Pro 43 • Microondas al 43.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pz75u9k0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pz75u9k0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pz75u9k0L._SL200_.jpg' ]
 comments: true
 category: ofertas

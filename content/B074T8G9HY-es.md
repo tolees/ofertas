@@ -3,6 +3,7 @@ layout: post
 title: '40L Mens impermeable al aire libre imper al 35.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RmYb8CviL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RmYb8CviL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RmYb8CviL._SL200_.jpg' ]
 comments: true
 category: ofertas

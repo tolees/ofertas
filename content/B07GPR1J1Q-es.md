@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.67 % en G-STAR RAW Rackam Rovic  Zapatillas para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vnM6RaE5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vnM6RaE5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vnM6RaE5L._SL200_.jpg' ]
 comments: true
 category: ofertas

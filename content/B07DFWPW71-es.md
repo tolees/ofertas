@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.37 % en Lenovo 120S-11IAP - Ordenador portátil 1'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4199kEXKbRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4199kEXKbRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4199kEXKbRL._SL200_.jpg' ]
 comments: true
 category: ofertas

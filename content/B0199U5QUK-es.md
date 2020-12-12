@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.78 % en Etnies Jefferson Mid  Zapatillas de Skat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C8ULuwPDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C8ULuwPDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C8ULuwPDL._SL200_.jpg' ]
 comments: true
 category: ofertas

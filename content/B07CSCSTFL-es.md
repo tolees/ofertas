@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Pascal  Camiseta para Hombre  al 51.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m%2BLjYHEtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m%2BLjYHEtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m%2BLjYHEtL._SL200_.jpg' ]
 comments: true
 category: ofertas

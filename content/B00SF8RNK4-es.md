@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.38 % en G-STAR RAW 3301 Low Waist Super Skinny V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Tbqw-OTBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Tbqw-OTBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Tbqw-OTBL._SL200_.jpg' ]
 comments: true
 category: ofertas

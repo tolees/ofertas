@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.22 % en Crocs Classic II Slide  Sandalias de Pun'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31T3VZ4khaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31T3VZ4khaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31T3VZ4khaL._SL200_.jpg' ]
 comments: true
 category: ofertas

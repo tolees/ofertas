@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.84 % en BOSCH Aspirateur a main EasyVac 12'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412T9hpZOQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412T9hpZOQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412T9hpZOQL._SL200_.jpg' ]
 comments: true
 category: ofertas

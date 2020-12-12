@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Th6386 Camiseta  Negro  Noir 031 al 47.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a3slOVdwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a3slOVdwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a3slOVdwL._SL200_.jpg' ]
 comments: true
 category: ofertas

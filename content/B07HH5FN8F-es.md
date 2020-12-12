@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Phase - Mochila de Deporte  Unisex  al 29.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FD7IYQ%2B0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FD7IYQ%2B0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FD7IYQ%2B0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.51 % en Dickies Slim Fit Straight - Pantalones p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RT-kg-TuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RT-kg-TuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RT-kg-TuL._SL200_.jpg' ]
 comments: true
 category: ofertas

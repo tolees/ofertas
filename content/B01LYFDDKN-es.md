@@ -3,6 +3,7 @@ layout: post
 title: 'Exclusivo vibrador"Conejito" para el pun al 33.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Oxwok1ZcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Oxwok1ZcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Oxwok1ZcL._SL200_.jpg' ]
 comments: true
 category: ofertas

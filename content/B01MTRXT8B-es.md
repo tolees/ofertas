@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.01 % en Under Armour UA Charged Bandit 3  Zapati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rx5%2B2jxjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rx5%2B2jxjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rx5%2B2jxjL._SL200_.jpg' ]
 comments: true
 category: ofertas

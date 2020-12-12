@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Mode XT Wns  Zapatillas de Deporte  al 58.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rgFl1W9oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rgFl1W9oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rgFl1W9oL._SL200_.jpg' ]
 comments: true
 category: ofertas

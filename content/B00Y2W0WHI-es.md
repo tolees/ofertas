@@ -3,6 +3,7 @@ layout: post
 title: 'Warner Bros. Interactive Spain  VG  Lego al 29.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WumDbytfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WumDbytfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WumDbytfL._SL200_.jpg' ]
 comments: true
 category: ofertas

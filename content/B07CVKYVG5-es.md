@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.94 % en Skechers Empire D lux-Burn Bright  Zapat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LnqpqEvRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LnqpqEvRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LnqpqEvRL._SL200_.jpg' ]
 comments: true
 category: ofertas

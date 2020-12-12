@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.39 % en Lenovo Ideapad 520S-14IKB - Ordenador po'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PRCX4q6oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PRCX4q6oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PRCX4q6oL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Urban Classics Block Swim Shorts Bañador al 30.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iSjupkHNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iSjupkHNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iSjupkHNL._SL200_.jpg' ]
 comments: true
 category: ofertas

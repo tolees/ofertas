@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Core18 Polo Shirt  Hombre  Power  al 36.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qTyC77XOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qTyC77XOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qTyC77XOL._SL200_.jpg' ]
 comments: true
 category: ofertas

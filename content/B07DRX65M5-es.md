@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Solar Boost W  Zapatillas de Runn al 27.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413yIme9aWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413yIme9aWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413yIme9aWL._SL200_.jpg' ]
 comments: true
 category: ofertas

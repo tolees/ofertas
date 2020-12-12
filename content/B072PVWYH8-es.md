@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Trase TX Se  Zapatillas para Mu al 76.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y95V2CwJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y95V2CwJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y95V2CwJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Check Vichy Melange B.S Cami al 67.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F8vufhufL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F8vufhufL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F8vufhufL._SL200_.jpg' ]
 comments: true
 category: ofertas

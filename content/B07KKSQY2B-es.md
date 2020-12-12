@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.40 % en HUGO Ero3-w Camisa  Azul  Dark Blue 405 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51997jRjg3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51997jRjg3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51997jRjg3L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.06 % en adidas Altasport Cf K  Zapatillas de Dep'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uG%2BVTAY9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uG%2BVTAY9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uG%2BVTAY9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.88 % en Levi s Original Hm Pullover Hoo Capucha '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410RSAOV%2B4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410RSAOV%2B4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410RSAOV%2B4L._SL200_.jpg' ]
 comments: true
 category: ofertas

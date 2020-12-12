@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.94 % en Crocs Creative Crocs Frozen Clog  Niñas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xlUDGwWgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xlUDGwWgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xlUDGwWgL._SL200_.jpg' ]
 comments: true
 category: ofertas

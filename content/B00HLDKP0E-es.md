@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.38 % en Schiesser - Lencería para Hombre  Talla '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bchQAwgPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bchQAwgPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bchQAwgPL._SL200_.jpg' ]
 comments: true
 category: ofertas

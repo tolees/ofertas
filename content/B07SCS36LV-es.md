@@ -3,6 +3,7 @@ layout: post
 title: 'KELME Polo Paseo 18/19 Hercules C.F al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/218VBHqR6-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/218VBHqR6-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/218VBHqR6-L._SL200_.jpg' ]
 comments: true
 category: ofertas

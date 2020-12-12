@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.Pa.Falda Midi Pencil Falda al 68.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A0i1osFaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31A0i1osFaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A0i1osFaL._SL200_.jpg' ]
 comments: true
 category: ofertas

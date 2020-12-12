@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Brent PL502821  Camiseta para al 51.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f6zJIt3UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f6zJIt3UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f6zJIt3UL._SL200_.jpg' ]
 comments: true
 category: ofertas

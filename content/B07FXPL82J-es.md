@@ -3,6 +3,7 @@ layout: post
 title: 'CHICTRY Vestidos de Princesa Tutú Disfra al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512tB53QdaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512tB53QdaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512tB53QdaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Youtubers Life  PS4 al 37.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pO0W%2BmiGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pO0W%2BmiGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pO0W%2BmiGL._SL200_.jpg' ]
 comments: true
 category: ofertas

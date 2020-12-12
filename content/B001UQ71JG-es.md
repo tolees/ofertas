@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.66 % en Ray-Ban 0RB3183  Gafas de sol  Negro  Ma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cbH9DXeHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cbH9DXeHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cbH9DXeHL._SL200_.jpg' ]
 comments: true
 category: ofertas

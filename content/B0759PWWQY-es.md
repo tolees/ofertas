@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.63 % en Clarks Kessell Craft  Zapatos de Cordone'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415kDZ8WhkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415kDZ8WhkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415kDZ8WhkL._SL200_.jpg' ]
 comments: true
 category: ofertas

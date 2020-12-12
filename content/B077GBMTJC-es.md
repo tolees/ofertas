@@ -3,6 +3,7 @@ layout: post
 title: 'RED WAGON Náuticos de Piel Niños  Marrón al 70.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cIc4U3ZXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cIc4U3ZXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cIc4U3ZXL._SL200_.jpg' ]
 comments: true
 category: ofertas

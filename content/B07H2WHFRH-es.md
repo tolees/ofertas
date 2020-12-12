@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.57 % en Lenovo ThinkVision S27i LED Display 68 6'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5147W4Uc0FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5147W4Uc0FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5147W4Uc0FL._SL200_.jpg' ]
 comments: true
 category: ofertas

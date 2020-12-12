@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.61 % en uhlsport Team Classic - Chaqueta para ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410EF1F57cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410EF1F57cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410EF1F57cL._SL200_.jpg' ]
 comments: true
 category: ofertas

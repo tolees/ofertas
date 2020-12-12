@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.95 % en Medela Swing Maxi - Sacaleches eléctrico'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413iyF9nbbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413iyF9nbbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413iyF9nbbL._SL200_.jpg' ]
 comments: true
 category: ofertas

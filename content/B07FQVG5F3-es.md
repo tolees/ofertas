@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.63 % en Clarks Step Isle Crew  Zapatos de Cordon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B1-Q5izYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B1-Q5izYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B1-Q5izYL._SL200_.jpg' ]
 comments: true
 category: ofertas

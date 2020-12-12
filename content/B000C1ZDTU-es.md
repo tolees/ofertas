@@ -3,6 +3,7 @@ layout: post
 title: 'Sarah Jessica Parker 1-24-19-02 - EDP Sp al 31.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jHDCeovXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jHDCeovXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jHDCeovXL._SL200_.jpg' ]
 comments: true
 category: ofertas

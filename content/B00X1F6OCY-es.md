@@ -3,6 +3,7 @@ layout: post
 title: 'Kaporal Ricky - Botas para Mujer  Color  al 63.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K20vULu-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K20vULu-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K20vULu-L._SL200_.jpg' ]
 comments: true
 category: ofertas

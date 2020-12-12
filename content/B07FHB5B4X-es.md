@@ -3,6 +3,7 @@ layout: post
 title: 'LLOYD Fynn  Botas Chelsea para Hombre  M al 71.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eb8X9wtjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eb8X9wtjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eb8X9wtjL._SL200_.jpg' ]
 comments: true
 category: ofertas

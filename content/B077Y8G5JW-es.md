@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.05 % en Asics Bl Sweat Crew  Sudadera para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LCejola3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LCejola3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LCejola3L._SL200_.jpg' ]
 comments: true
 category: ofertas

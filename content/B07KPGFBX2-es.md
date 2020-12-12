@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 86.15 % en REPLAY Wb9210.000.135 425 Falda  Negro  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bkJphLmeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bkJphLmeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bkJphLmeL._SL200_.jpg' ]
 comments: true
 category: ofertas

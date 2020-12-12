@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.30 % en LANGRIA Caja Joyero  Organizador para Al'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416RCCJykiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416RCCJykiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416RCCJykiL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.17 % en Puma Flourish Wn s  Zapatillas de Runnin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vutGv-Y6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vutGv-Y6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vutGv-Y6L._SL200_.jpg' ]
 comments: true
 category: ofertas

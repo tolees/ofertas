@@ -3,6 +3,7 @@ layout: post
 title: 'Taste of the Wild Canine Pacific Stream  al 58.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uvqdN69cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uvqdN69cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uvqdN69cL._SL200_.jpg' ]
 comments: true
 category: ofertas

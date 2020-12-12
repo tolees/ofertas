@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Side Street-tegu  Zapatillas pa al 54.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T4xK9lTZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T4xK9lTZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T4xK9lTZL._SL200_.jpg' ]
 comments: true
 category: ofertas

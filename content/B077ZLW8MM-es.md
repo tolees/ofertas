@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 028eo1k003  Camisa Man al 74.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N0uJKFUrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41N0uJKFUrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N0uJKFUrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.97 % en Crocs Crocband  Zuecos Unisex Adulto  Ma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VTWzjA4ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VTWzjA4ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VTWzjA4ML._SL200_.jpg' ]
 comments: true
 category: ofertas

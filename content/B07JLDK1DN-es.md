@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 86082  Bolso de Mano para Mujer  Ros al 65.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517D74ryUiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517D74ryUiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517D74ryUiL._SL200_.jpg' ]
 comments: true
 category: ofertas

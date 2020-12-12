@@ -3,6 +3,7 @@ layout: post
 title: 'Guess Freda Skirt  Falda para Mujer  Neg al 77.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GVcLZ1JVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVcLZ1JVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GVcLZ1JVL._SL200_.jpg' ]
 comments: true
 category: ofertas

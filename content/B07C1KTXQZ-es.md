@@ -3,6 +3,7 @@ layout: post
 title: 'RecoverPad 8pcs 50x100mm Profesional TEN al 35.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TbByepQ3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TbByepQ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TbByepQ3L._SL200_.jpg' ]
 comments: true
 category: ofertas

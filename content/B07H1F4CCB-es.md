@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.81 % en Máquina De Ruido Blanco Para Dormir  Máq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qiffav97L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Qiffav97L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Qiffav97L._SL200_.jpg' ]
 comments: true
 category: ofertas

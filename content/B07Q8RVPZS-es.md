@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.02 % en Mochila Infantil Kindergarten Guarderia '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qd0PBiFXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qd0PBiFXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qd0PBiFXL._SL200_.jpg' ]
 comments: true
 category: ofertas

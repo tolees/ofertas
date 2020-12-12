@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.17 % en Under Armour Rival Fleece Logo Hoodie Su'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3143WlWmBRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3143WlWmBRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3143WlWmBRL._SL200_.jpg' ]
 comments: true
 category: ofertas

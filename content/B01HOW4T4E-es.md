@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.51 % en BRAUN 159704 BRAUN ORAL-B GENIUS 8000S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416icy4r3CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416icy4r3CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416icy4r3CL._SL200_.jpg' ]
 comments: true
 category: ofertas

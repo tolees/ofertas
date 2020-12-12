@@ -3,6 +3,7 @@ layout: post
 title: 'Pinord Lluna Plena Chardonnay Vino Blanc al 59.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BnXFAekjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BnXFAekjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BnXFAekjL._SL200_.jpg' ]
 comments: true
 category: ofertas

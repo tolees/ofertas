@@ -3,6 +3,7 @@ layout: post
 title: 'Crucial CT204864BD160B - Memoria RAM de  al 29.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AZpj9vMsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AZpj9vMsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AZpj9vMsL._SL200_.jpg' ]
 comments: true
 category: ofertas

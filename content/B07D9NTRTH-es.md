@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Cosmic 2  Zapatillas de Trail Run al 44.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417DxbYlDJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417DxbYlDJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417DxbYlDJL._SL200_.jpg' ]
 comments: true
 category: ofertas

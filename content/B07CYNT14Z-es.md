@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.10 % en Pomada natural de llantén - 20ml  extrac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RgFO%2B-fbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RgFO%2B-fbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RgFO%2B-fbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.47 % en BOSS Orange 10195942 01  Camisa Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XtaIpxmbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XtaIpxmbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XtaIpxmbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.08 % en Pepaloves Aina Dress Print/Rust  Vestido'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XdnY0qa6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XdnY0qa6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XdnY0qa6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'AMASAVA Bolsa de maquillaje cosmético pa al 34.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VPD9%2BGDOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VPD9%2BGDOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VPD9%2BGDOL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.91 % en Puma Iconic Racer Back Bra 1P Ropa Inter'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c-WKNUcBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51c-WKNUcBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c-WKNUcBL._SL200_.jpg' ]
 comments: true
 category: ofertas

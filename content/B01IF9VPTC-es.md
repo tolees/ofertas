@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face M Glacier Delta 1/4 Zip J al 42.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w1ag5wLXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w1ag5wLXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w1ag5wLXL._SL200_.jpg' ]
 comments: true
 category: ofertas

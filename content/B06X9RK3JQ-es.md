@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.24 % en FIND Top sin Mangas para Mujer   Negro  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411kyUnm0%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411kyUnm0%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411kyUnm0%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.27 % en Cortefiel C1Bcc Canutillo Coolmax Pantal'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Mb2pOT7vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Mb2pOT7vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Mb2pOT7vL._SL200_.jpg' ]
 comments: true
 category: ofertas

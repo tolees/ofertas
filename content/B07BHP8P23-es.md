@@ -3,6 +3,7 @@ layout: post
 title: 'Topmo-plus 8W Lámpara de pared LED OSRAM al 58.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c7r84%2BxPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31c7r84%2BxPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c7r84%2BxPL._SL200_.jpg' ]
 comments: true
 category: ofertas

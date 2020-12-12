@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.92 % en Pepe Jeans New Brooke  Vaqueros para Muj'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

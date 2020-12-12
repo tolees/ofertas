@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.42 % en Synology ramec2133d dr4so NAS  16 GB'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413tc0iuPNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413tc0iuPNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413tc0iuPNL._SL200_.jpg' ]
 comments: true
 category: ofertas

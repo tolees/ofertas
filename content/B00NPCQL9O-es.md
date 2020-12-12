@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.13 % en Nike Volition EV0879 208 54 Gafas de Sol'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SaMvTUYNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SaMvTUYNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SaMvTUYNL._SL200_.jpg' ]
 comments: true
 category: ofertas

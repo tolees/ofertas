@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.49 % en Planchas para el Pelo  HQQNUO 2 in1 Plan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zJ6biFY7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zJ6biFY7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zJ6biFY7L._SL200_.jpg' ]
 comments: true
 category: ofertas

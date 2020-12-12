@@ -3,6 +3,7 @@ layout: post
 title: 'ZEP Caracas White Portafotos Múltiple  B al 34.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41of4wSfKAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41of4wSfKAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41of4wSfKAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.01 % en Estante de Almacenamiento para Garaje - '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Cp7v1KU2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Cp7v1KU2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Cp7v1KU2L._SL200_.jpg' ]
 comments: true
 category: ofertas

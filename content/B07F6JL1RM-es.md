@@ -3,6 +3,7 @@ layout: post
 title: 'Bollé Rocket Plus Máscaras  Niñas  Rosa  al 77.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xzBlIDvxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xzBlIDvxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xzBlIDvxL._SL200_.jpg' ]
 comments: true
 category: ofertas

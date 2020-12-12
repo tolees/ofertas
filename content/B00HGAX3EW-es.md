@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.47 % en Lolita Lempicka 41487 - Eau de perfume p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bg5chs4JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bg5chs4JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bg5chs4JL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Vanish Mid Bra Sujetador al 59.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HSgOZKlsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HSgOZKlsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HSgOZKlsL._SL200_.jpg' ]
 comments: true
 category: ofertas

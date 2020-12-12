@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG All Day LB 16 Bañador  Hombre  al 39.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U1Vb3f9YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U1Vb3f9YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U1Vb3f9YL._SL200_.jpg' ]
 comments: true
 category: ofertas

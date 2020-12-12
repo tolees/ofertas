@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.24 % en Juego de sábanas estampado Coches  SPEED'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VtcWL9UzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VtcWL9UzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VtcWL9UzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'MAMALICIOUS Mlaine L/s Jersey Top Mix  C al 63.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412Z2LPWhcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412Z2LPWhcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412Z2LPWhcL._SL200_.jpg' ]
 comments: true
 category: ofertas

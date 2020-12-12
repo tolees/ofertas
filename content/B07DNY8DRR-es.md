@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.25 % en Emporio Armani Underwear 9p523 Boxer  Gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G5YzOwfjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G5YzOwfjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G5YzOwfjL._SL200_.jpg' ]
 comments: true
 category: ofertas

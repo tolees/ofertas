@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.30 % en Under Armour W s UA Horizon Stc  Zapatos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zzHeauZlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zzHeauZlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zzHeauZlL._SL200_.jpg' ]
 comments: true
 category: ofertas

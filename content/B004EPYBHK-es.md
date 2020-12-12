@@ -3,6 +3,7 @@ layout: post
 title: 'Scitec 0728633103751  Fórmulas de Pre-En al 31.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GuPsnkmbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GuPsnkmbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GuPsnkmbL._SL200_.jpg' ]
 comments: true
 category: ofertas

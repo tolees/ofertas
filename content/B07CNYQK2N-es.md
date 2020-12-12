@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en iPad 9.7 2017/2018 Funda de teclado  Bes'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EEaZbxd2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EEaZbxd2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EEaZbxd2L._SL200_.jpg' ]
 comments: true
 category: ofertas

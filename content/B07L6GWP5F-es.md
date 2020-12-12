@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.60 % en Mardozon 13 Piezas Correas para Xiaomi M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O5anB7v5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51O5anB7v5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O5anB7v5L._SL200_.jpg' ]
 comments: true
 category: ofertas

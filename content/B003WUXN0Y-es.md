@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.38 % en Curver 189206 - Cesta de ropa Natural St'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yqZZLNCkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yqZZLNCkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yqZZLNCkL._SL200_.jpg' ]
 comments: true
 category: ofertas

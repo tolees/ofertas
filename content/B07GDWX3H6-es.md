@@ -3,6 +3,7 @@ layout: post
 title: 'RIP CURL Enigma PTD JKT Chaqueta  Hombre al 52.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BxkNjAIbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BxkNjAIbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BxkNjAIbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Casual Weave  Sudadera Hombre  Mora al 71.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y1D9WVHFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31y1D9WVHFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y1D9WVHFL._SL200_.jpg' ]
 comments: true
 category: ofertas

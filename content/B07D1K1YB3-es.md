@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.11 % en Under Armour UA Cinch Printed Tote Bolsa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q9Va8vbBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q9Va8vbBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q9Va8vbBL._SL200_.jpg' ]
 comments: true
 category: ofertas

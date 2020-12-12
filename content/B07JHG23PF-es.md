@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.49 % en Ultimate Ears WONDERBOOM -  Altavoz Blue'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Or6KA7iNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Or6KA7iNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Or6KA7iNL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung HW-M360/ZF - Barra de Sonido ina al 30.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/212eg94cyEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/212eg94cyEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/212eg94cyEL._SL200_.jpg' ]
 comments: true
 category: ofertas

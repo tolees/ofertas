@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel 2.T.M. Blusa Escote Pico - Blu al 83.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UsQ9JA3UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UsQ9JA3UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UsQ9JA3UL._SL200_.jpg' ]
 comments: true
 category: ofertas

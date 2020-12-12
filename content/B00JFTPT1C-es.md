@@ -3,6 +3,7 @@ layout: post
 title: 'Pioneer AVIC-F160 Fijo Negro navegador - al 34.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mzFLmSSAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mzFLmSSAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mzFLmSSAL._SL200_.jpg' ]
 comments: true
 category: ofertas

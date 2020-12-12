@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen W Crew Midlayer Jacket - Ch al 52.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EV39DiQsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EV39DiQsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EV39DiQsL._SL200_.jpg' ]
 comments: true
 category: ofertas

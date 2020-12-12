@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.01 % en Neutrogena - Cuidado Facial  - Mascara +'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TDRlt0Q5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TDRlt0Q5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TDRlt0Q5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Research tee-Shirt  Hombre  Bla al 54.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sODwxGc9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sODwxGc9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sODwxGc9L._SL200_.jpg' ]
 comments: true
 category: ofertas

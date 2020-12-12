@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.63 % en POP! Vinilo - Disney: NBX: Sally   Model'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Pvj5d5YQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Pvj5d5YQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Pvj5d5YQL._SL200_.jpg' ]
 comments: true
 category: ofertas

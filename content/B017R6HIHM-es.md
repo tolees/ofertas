@@ -3,6 +3,7 @@ layout: post
 title: 'Superga Cotu Classic  Zapatillas para ho al 58.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B57SvL7mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B57SvL7mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B57SvL7mL._SL200_.jpg' ]
 comments: true
 category: ofertas

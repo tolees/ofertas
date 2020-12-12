@@ -3,6 +3,7 @@ layout: post
 title: 'UCEC Capturadora de Video USB 2.0 Captur al 70.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LIhIDljfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LIhIDljfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LIhIDljfL._SL200_.jpg' ]
 comments: true
 category: ofertas

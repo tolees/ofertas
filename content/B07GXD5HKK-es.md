@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.38 % en Chicco Polly Magic Relax - Trona/hamaca '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wB8hVbnAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wB8hVbnAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wB8hVbnAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.30 % en New Look Hennie Flat  Vaqueros Slim para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LnTQ8xozL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LnTQ8xozL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LnTQ8xozL._SL200_.jpg' ]
 comments: true
 category: ofertas

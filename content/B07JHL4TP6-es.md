@@ -3,6 +3,7 @@ layout: post
 title: 'Puma 4Keeps Bra M Sujetador Deportivo  M al 50.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lFvgzBFcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lFvgzBFcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lFvgzBFcL._SL200_.jpg' ]
 comments: true
 category: ofertas

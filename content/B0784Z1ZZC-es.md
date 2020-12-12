@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Workout Plus  Zapatillas de Depor al 71.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w%2BLIwYdBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w%2BLIwYdBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w%2BLIwYdBL._SL200_.jpg' ]
 comments: true
 category: ofertas

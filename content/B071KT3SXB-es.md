@@ -3,6 +3,7 @@ layout: post
 title: 'Hombre Cortapelos Nariz y Orejas-USB Rec al 63.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d6b3Rhd5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d6b3Rhd5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d6b3Rhd5L._SL200_.jpg' ]
 comments: true
 category: ofertas

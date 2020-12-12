@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.43 % en BILLABONG All Night tee Camiseta  Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313pDWmMNIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313pDWmMNIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313pDWmMNIL._SL200_.jpg' ]
 comments: true
 category: ofertas

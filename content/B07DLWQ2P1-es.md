@@ -3,6 +3,7 @@ layout: post
 title: 'Linterna Led Alta Potencia  Linterna de  al 70.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AWXyyzpbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AWXyyzpbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AWXyyzpbL._SL200_.jpg' ]
 comments: true
 category: ofertas

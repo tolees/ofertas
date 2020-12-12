@@ -3,6 +3,7 @@ layout: post
 title: 'TZLong Músculo Abdominal tóner ABS Entre al 92.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KNTQk%2BznL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KNTQk%2BznL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KNTQk%2BznL._SL200_.jpg' ]
 comments: true
 category: ofertas

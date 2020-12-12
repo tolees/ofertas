@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Step Maro Sol  Zapatillas para Ho al 55.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f3HJNBg%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f3HJNBg%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f3HJNBg%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Leisa Brody  Sandalias de Talón A al 58.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X5d0YOhEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X5d0YOhEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X5d0YOhEL._SL200_.jpg' ]
 comments: true
 category: ofertas

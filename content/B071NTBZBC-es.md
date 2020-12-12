@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA W Speedform Intake 2  Za al 51.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-sNQgeStL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-sNQgeStL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-sNQgeStL._SL200_.jpg' ]
 comments: true
 category: ofertas

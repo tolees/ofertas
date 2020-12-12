@@ -3,6 +3,7 @@ layout: post
 title: 'Issey Miyake L Eau D Issey Homme Sport E al 51.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XA9R3KIvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XA9R3KIvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XA9R3KIvL._SL200_.jpg' ]
 comments: true
 category: ofertas

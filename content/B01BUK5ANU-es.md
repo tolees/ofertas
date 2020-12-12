@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.63 % en Paranoia Agent - Edición Coleccionista ['
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BFU6daRFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BFU6daRFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BFU6daRFL._SL200_.jpg' ]
 comments: true
 category: ofertas

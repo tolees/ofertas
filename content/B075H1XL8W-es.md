@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.77 % en LEGO Juniors - Spider-Man vs. Escorpión:'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61zHzofpRvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61zHzofpRvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61zHzofpRvL._SL200_.jpg' ]
 comments: true
 category: ofertas

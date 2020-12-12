@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Vikky Ribbon Bold  Zapatillas para  al 61.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zkLUza7tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zkLUza7tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zkLUza7tL._SL200_.jpg' ]
 comments: true
 category: ofertas

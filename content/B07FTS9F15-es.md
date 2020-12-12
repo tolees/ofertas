@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Morton Vaqueros Rectos  Azul  Spritz al 77.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SJ5vnns7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SJ5vnns7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SJ5vnns7L._SL200_.jpg' ]
 comments: true
 category: ofertas

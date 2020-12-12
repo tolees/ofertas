@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.52 % en BOSS Orange Tew  Camiseta Hombre  Azul  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sZ%2BnoZa8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sZ%2BnoZa8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sZ%2BnoZa8L._SL200_.jpg' ]
 comments: true
 category: ofertas

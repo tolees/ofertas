@@ -3,6 +3,7 @@ layout: post
 title: 'SachsenRad E-Racing Bike R5  Motor de 24 al 54.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bGvJOpx2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bGvJOpx2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bGvJOpx2L._SL200_.jpg' ]
 comments: true
 category: ofertas

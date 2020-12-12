@@ -3,6 +3,7 @@ layout: post
 title: 'wergem Moda Femenina Estampado Animal Ma al 26.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ibPKi6BGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ibPKi6BGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ibPKi6BGL._SL200_.jpg' ]
 comments: true
 category: ofertas

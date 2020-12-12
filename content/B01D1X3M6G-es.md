@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Carleta Lyon  Botines para Mujer  al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5160yxqn4XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5160yxqn4XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5160yxqn4XL._SL200_.jpg' ]
 comments: true
 category: ofertas

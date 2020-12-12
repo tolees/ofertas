@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.09 % en Skechers Flex Appeal 2.0-High Energy  Za'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oG7c4Pz3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oG7c4Pz3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oG7c4Pz3L._SL200_.jpg' ]
 comments: true
 category: ofertas

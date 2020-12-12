@@ -3,6 +3,7 @@ layout: post
 title: 'Ariston 3700497 Termo Eléctrico 1800 W   al 39.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312wDS295zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312wDS295zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312wDS295zL._SL200_.jpg' ]
 comments: true
 category: ofertas

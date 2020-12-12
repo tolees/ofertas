@@ -3,6 +3,7 @@ layout: post
 title: 'adidas BQ6515 Chaqueta  Hombre  Blanco/N al 28.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lx2pwQf8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lx2pwQf8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lx2pwQf8L._SL200_.jpg' ]
 comments: true
 category: ofertas

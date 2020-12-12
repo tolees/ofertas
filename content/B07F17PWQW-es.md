@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.62 % en Mustang 4095-602-301  Zapatillas Altas p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k4Qed1j3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k4Qed1j3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k4Qed1j3L._SL200_.jpg' ]
 comments: true
 category: ofertas

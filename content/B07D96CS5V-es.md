@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.39 % en XTI 55845  Zapatillas para Niños  Blanco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hbB7cN2LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hbB7cN2LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hbB7cN2LL._SL200_.jpg' ]
 comments: true
 category: ofertas

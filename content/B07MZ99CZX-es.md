@@ -3,6 +3,7 @@ layout: post
 title: 'AIJEESI TWS 5.0 Auriculares Bluetooth in al 66.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UBPJkM2hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UBPJkM2hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UBPJkM2hL._SL200_.jpg' ]
 comments: true
 category: ofertas

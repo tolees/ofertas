@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.26 % en Playshoes Raincoat Stars  Chaqueta Imper'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XI0JCFLvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XI0JCFLvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XI0JCFLvL._SL200_.jpg' ]
 comments: true
 category: ofertas

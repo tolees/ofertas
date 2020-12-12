@@ -3,6 +3,7 @@ layout: post
 title: 'Emporio Armani 211725  Calzoncillos para al 30.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YS2tAYM1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YS2tAYM1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YS2tAYM1L._SL200_.jpg' ]
 comments: true
 category: ofertas

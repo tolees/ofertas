@@ -3,6 +3,7 @@ layout: post
 title: 'ID Italian Design - Secador de Pelo Pequ al 71.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413zL-0GP-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413zL-0GP-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413zL-0GP-L._SL200_.jpg' ]
 comments: true
 category: ofertas

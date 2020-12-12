@@ -3,6 +3,7 @@ layout: post
 title: 'NewStar Estación de Trabajo Sentado y de al 28.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aoYVfmo%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aoYVfmo%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aoYVfmo%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

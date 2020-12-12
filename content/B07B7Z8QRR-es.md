@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 1500v4 Boa  Zapatillas de Ru al 71.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u3eebAq4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u3eebAq4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u3eebAq4L._SL200_.jpg' ]
 comments: true
 category: ofertas

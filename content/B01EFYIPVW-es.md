@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Sonicare For Kids HX6392/02 cepi al 26.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310-D4ZUD4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310-D4ZUD4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310-D4ZUD4L._SL200_.jpg' ]
 comments: true
 category: ofertas

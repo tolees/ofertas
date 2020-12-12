@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.52 % en COFIT Organizador Plegable de Maletero c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514KjWO7tzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514KjWO7tzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514KjWO7tzL._SL200_.jpg' ]
 comments: true
 category: ofertas

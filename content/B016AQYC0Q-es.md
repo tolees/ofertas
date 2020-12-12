@@ -3,6 +3,7 @@ layout: post
 title: 'Approx Gaming APPIP03P2P - Cámara IP P2P al 61.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZJPJ34MCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZJPJ34MCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZJPJ34MCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas X 18.4 in J  Botas de fútbol Unis al 41.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EVG1%2B1DzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EVG1%2B1DzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EVG1%2B1DzL._SL200_.jpg' ]
 comments: true
 category: ofertas

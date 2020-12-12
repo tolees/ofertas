@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.26 % en Lovable 9l076c Pijama   Verde 009   Medi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n6TmD71uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31n6TmD71uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n6TmD71uL._SL200_.jpg' ]
 comments: true
 category: ofertas

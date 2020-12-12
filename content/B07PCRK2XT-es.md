@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.38 % en Diesel D-bazer L.32 Trousers Vaqueros Ta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BOH5uxz3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BOH5uxz3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BOH5uxz3L._SL200_.jpg' ]
 comments: true
 category: ofertas

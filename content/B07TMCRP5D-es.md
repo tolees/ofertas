@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.01 % en Mini Aire Acondicionado Móvil  Climatiza'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DBp7w7XlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DBp7w7XlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DBp7w7XlL._SL200_.jpg' ]
 comments: true
 category: ofertas

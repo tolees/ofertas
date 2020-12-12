@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.14 % en ELINKUME G9 SMD 3014 Bombilla LED AC220V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515hZxkaW-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515hZxkaW-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515hZxkaW-L._SL200_.jpg' ]
 comments: true
 category: ofertas

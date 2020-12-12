@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 64783  Botines para Mujer  Marró al 58.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hh8BeZ2gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hh8BeZ2gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hh8BeZ2gL._SL200_.jpg' ]
 comments: true
 category: ofertas

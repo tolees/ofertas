@@ -3,6 +3,7 @@ layout: post
 title: 'ONLY onlTRUST L/S DRAPED PLAIN CARDIGAN  al 74.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Px3%2B66-lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Px3%2B66-lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Px3%2B66-lL._SL200_.jpg' ]
 comments: true
 category: ofertas

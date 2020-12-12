@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 88.15 % en Privacidad Shades cl-p02 de plástico Mod'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jkdd-7aHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jkdd-7aHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jkdd-7aHL._SL200_.jpg' ]
 comments: true
 category: ofertas

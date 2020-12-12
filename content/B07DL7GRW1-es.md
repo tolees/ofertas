@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.33 % en Springfield 5Ba C/Red Coderas Gg12 Jerse'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4150iHLqP5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4150iHLqP5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4150iHLqP5L._SL200_.jpg' ]
 comments: true
 category: ofertas

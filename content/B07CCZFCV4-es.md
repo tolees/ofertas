@@ -3,6 +3,7 @@ layout: post
 title: 'Afuaim Tenor Ukulele Mate Sapele Ukulele al 64.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512jIehFMoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512jIehFMoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512jIehFMoL._SL200_.jpg' ]
 comments: true
 category: ofertas

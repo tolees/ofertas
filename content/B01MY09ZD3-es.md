@@ -3,6 +3,7 @@ layout: post
 title: 'Perfumes Pack Noche y Día para Hombre. D al 25.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WmmAa4HUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WmmAa4HUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WmmAa4HUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.72 % en edc by Esprit 057cc1k014  Camiseta Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4121svJhLCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4121svJhLCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4121svJhLCL._SL200_.jpg' ]
 comments: true
 category: ofertas

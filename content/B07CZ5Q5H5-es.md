@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Ignite Ronin  Zapatillas de Entrena al 66.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2Bxq-7jKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2Bxq-7jKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j%2Bxq-7jKL._SL200_.jpg' ]
 comments: true
 category: ofertas

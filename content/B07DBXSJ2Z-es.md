@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.54 % en Puma Vikky v2 Studs  Zapatillas para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GsvrNfE2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GsvrNfE2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GsvrNfE2L._SL200_.jpg' ]
 comments: true
 category: ofertas

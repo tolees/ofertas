@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.00 % en NRS Healthcare M09733 - Calzador de medi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wpdkgtlJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wpdkgtlJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wpdkgtlJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Triumph Perfect Sensation W24  Sujetador al 55.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ScE3YgZ1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ScE3YgZ1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ScE3YgZ1L._SL200_.jpg' ]
 comments: true
 category: ofertas

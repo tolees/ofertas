@@ -3,6 +3,7 @@ layout: post
 title: 'Theo Klein-9577 Bosch Cafetera  Juguete  al 34.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NFCIrnibL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NFCIrnibL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NFCIrnibL._SL200_.jpg' ]
 comments: true
 category: ofertas

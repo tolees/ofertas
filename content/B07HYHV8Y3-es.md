@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.48 % en Pepe Jeans Stanley Wiser Pm201705  Vaque'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XYGuOyI2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XYGuOyI2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XYGuOyI2L._SL200_.jpg' ]
 comments: true
 category: ofertas

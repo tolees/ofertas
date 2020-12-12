@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling - Inami S  Monederos Mujer  Mult al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515mYU0fuFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515mYU0fuFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515mYU0fuFL._SL200_.jpg' ]
 comments: true
 category: ofertas

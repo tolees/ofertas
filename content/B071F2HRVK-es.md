@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Pf7839 Polo  Rosa  Flamant   Tal al 38.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iTq24s1YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iTq24s1YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iTq24s1YL._SL200_.jpg' ]
 comments: true
 category: ofertas

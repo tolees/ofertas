@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers by Gerli 35iz328  Botas Altas pa al 73.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dOFYqRFVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dOFYqRFVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dOFYqRFVL._SL200_.jpg' ]
 comments: true
 category: ofertas

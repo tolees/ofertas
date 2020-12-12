@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Cotton Trouser  Pantalones p al 67.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IcuMAPYXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IcuMAPYXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IcuMAPYXL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Panel LED apto para exterior  IP44   a e al 61.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314PwawIInL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314PwawIInL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314PwawIInL._SL200_.jpg' ]
 comments: true
 category: ofertas

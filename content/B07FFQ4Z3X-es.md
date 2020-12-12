@@ -3,6 +3,7 @@ layout: post
 title: 'Michael Kors MKT5046 - Smartwatch al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CHTvabs6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CHTvabs6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CHTvabs6L._SL200_.jpg' ]
 comments: true
 category: ofertas

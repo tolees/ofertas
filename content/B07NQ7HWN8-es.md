@@ -3,6 +3,7 @@ layout: post
 title: 'SIMYJOY para niños fanáticos DJ Marshmel al 46.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ipG%2BXEi2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ipG%2BXEi2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ipG%2BXEi2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.29 % en Shiseido 20388 - Crema hombre  125 ml'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w2nZrZUkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31w2nZrZUkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31w2nZrZUkL._SL200_.jpg' ]
 comments: true
 category: ofertas

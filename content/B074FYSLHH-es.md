@@ -3,6 +3,7 @@ layout: post
 title: 'find. Jersey de Punto para Mujer  Rosa   al 68.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414TeeNiqvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414TeeNiqvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414TeeNiqvL._SL200_.jpg' ]
 comments: true
 category: ofertas

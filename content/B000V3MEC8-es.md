@@ -3,6 +3,7 @@ layout: post
 title: 'Vichy - Purete Thermale - Limpiador faci al 50.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tY2vxGVsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tY2vxGVsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tY2vxGVsL._SL200_.jpg' ]
 comments: true
 category: ofertas

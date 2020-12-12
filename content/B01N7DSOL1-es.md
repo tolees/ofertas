@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.09 % en Asics Gel-FujiAttack 5  Zapatillas de Tr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C0TYrpz3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51C0TYrpz3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C0TYrpz3L._SL200_.jpg' ]
 comments: true
 category: ofertas

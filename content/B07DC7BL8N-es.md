@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Courtset Craft  Zapatilla al 73.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qNo5jNAYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qNo5jNAYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qNo5jNAYL._SL200_.jpg' ]
 comments: true
 category: ofertas

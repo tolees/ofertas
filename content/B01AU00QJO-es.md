@@ -3,6 +3,7 @@ layout: post
 title: 'Puella Magi Madoka Magica The Movie Rebe al 50.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61x8rT0qBQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61x8rT0qBQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61x8rT0qBQL._SL200_.jpg' ]
 comments: true
 category: ofertas

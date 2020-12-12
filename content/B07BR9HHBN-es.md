@@ -3,6 +3,7 @@ layout: post
 title: 'L Oreal Paris Colorista Hair Make Up Ros al 32.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nQuUEfUEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nQuUEfUEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nQuUEfUEL._SL200_.jpg' ]
 comments: true
 category: ofertas

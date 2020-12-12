@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Core-Run 3/4 Tight Pantalones  Homb al 45.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4189ejeQv6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4189ejeQv6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4189ejeQv6L._SL200_.jpg' ]
 comments: true
 category: ofertas

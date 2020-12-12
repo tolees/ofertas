@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.10 % en  Campagnolo WH15-BOCFR - Rue J  Bora Ult'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cm05cCA-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cm05cCA-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cm05cCA-L._SL200_.jpg' ]
 comments: true
 category: ofertas

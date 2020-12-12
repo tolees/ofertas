@@ -3,6 +3,7 @@ layout: post
 title: 'Sinner Gear - Dispositivo de Castidad Ur al 65.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ms0%2B-ZTmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ms0%2B-ZTmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ms0%2B-ZTmL._SL200_.jpg' ]
 comments: true
 category: ofertas

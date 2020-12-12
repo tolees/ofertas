@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.37 % en Under Armour HG Armour Graphic Legging L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318fSUY3UnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318fSUY3UnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318fSUY3UnL._SL200_.jpg' ]
 comments: true
 category: ofertas

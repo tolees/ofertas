@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen W Verglas Hooded Down Insul al 67.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QN6duLTEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QN6duLTEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QN6duLTEL._SL200_.jpg' ]
 comments: true
 category: ofertas

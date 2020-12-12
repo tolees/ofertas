@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.36 % en Pepe Jeans Soho  Vaqueros para Mujer  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hz8DLYZyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hz8DLYZyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hz8DLYZyL._SL200_.jpg' ]
 comments: true
 category: ofertas

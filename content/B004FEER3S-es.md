@@ -3,6 +3,7 @@ layout: post
 title: 'Intex - Bomba eléctrica enchufe 220-240v al 60.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Yqfm0RsUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Yqfm0RsUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Yqfm0RsUL._SL200_.jpg' ]
 comments: true
 category: ofertas

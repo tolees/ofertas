@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.01 % en IRIS & LILLY Kt103 bañadores  Rosa  Pink'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mwPWQZBnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mwPWQZBnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mwPWQZBnL._SL200_.jpg' ]
 comments: true
 category: ofertas

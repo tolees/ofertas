@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Glide 2.0 Ultra  Zapatillas par al 52.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rokoX-e9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rokoX-e9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rokoX-e9L._SL200_.jpg' ]
 comments: true
 category: ofertas

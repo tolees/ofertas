@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.73 % en Gioseppo BIODOLA  Alpargatas para Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zUpS-eR6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zUpS-eR6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zUpS-eR6L._SL200_.jpg' ]
 comments: true
 category: ofertas

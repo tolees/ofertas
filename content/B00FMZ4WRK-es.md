@@ -3,6 +3,7 @@ layout: post
 title: 'Beper RI.402 - Calientacamas eléctrico i al 29.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yrZa8N5XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yrZa8N5XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yrZa8N5XL._SL200_.jpg' ]
 comments: true
 category: ofertas

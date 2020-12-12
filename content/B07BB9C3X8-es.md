@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.05 % en XLS Detox - Ayuda a eliminar toxinas  al'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419CwiAuEcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419CwiAuEcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419CwiAuEcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Festival 2-Pack 1 Par de Calceti al 47.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ON4DDg%2BNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ON4DDg%2BNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ON4DDg%2BNL._SL200_.jpg' ]
 comments: true
 category: ofertas

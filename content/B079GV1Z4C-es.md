@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.17 % en Regatta Shaul Traje de baño  Niños  Oldg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41efOBAcVPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41efOBAcVPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41efOBAcVPL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.26 % en Invicta 23388 Pro Diver Reloj para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VTqi3Wc9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VTqi3Wc9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VTqi3Wc9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'OUSPT Luces Bicicleta Delantera y Traser al 73.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412LFQKRn3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412LFQKRn3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412LFQKRn3L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.00 % en LE COQ SPORTIF Courtset Craft Optical Wh'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lR9hrmxZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lR9hrmxZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lR9hrmxZL._SL200_.jpg' ]
 comments: true
 category: ofertas

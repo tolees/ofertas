@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Academy 16  Chándal para Hombre  Mu al 45.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Km1vG6LjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Km1vG6LjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Km1vG6LjL._SL200_.jpg' ]
 comments: true
 category: ofertas

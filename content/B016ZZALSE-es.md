@@ -3,6 +3,7 @@ layout: post
 title: 'Timezone GerritTZ 3385 Surfer Wash-Azul  al 45.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NGG3D3FlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NGG3D3FlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NGG3D3FlL._SL200_.jpg' ]
 comments: true
 category: ofertas

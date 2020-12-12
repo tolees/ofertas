@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 5622 Mid Skinny Wmn  Vaqueros al 82.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413g%2BEN7D8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413g%2BEN7D8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413g%2BEN7D8L._SL200_.jpg' ]
 comments: true
 category: ofertas

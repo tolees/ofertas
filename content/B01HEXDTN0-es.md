@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Tonik LE  Zapatillas para Hombr al 56.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E9IIDWB0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E9IIDWB0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E9IIDWB0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.98 % en Columbia Hombre Camiseta  Box Logo Bear '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mxl2nJ9xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mxl2nJ9xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mxl2nJ9xL._SL200_.jpg' ]
 comments: true
 category: ofertas

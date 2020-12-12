@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.30 % en BOSS Hombre Taber BC-p Vaqueros Tapered '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SFhTvVGcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SFhTvVGcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SFhTvVGcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.03 % en Lee SCARLETT ONE WASH - Vaqueros para mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3138vN8D5eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3138vN8D5eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3138vN8D5eL._SL200_.jpg' ]
 comments: true
 category: ofertas

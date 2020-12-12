@@ -3,6 +3,7 @@ layout: post
 title: 'SteelSeries Rival 310 - Ratón de Juego ó al 64.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zo8r88WGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zo8r88WGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zo8r88WGL._SL200_.jpg' ]
 comments: true
 category: ofertas

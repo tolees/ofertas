@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Real Madrid Third – Camiseta de f al 40.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GLNrU%2BZ6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GLNrU%2BZ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GLNrU%2BZ6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'ONLY onlIDAHO SPRING L/S BUTTON PULLOVER al 81.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cqYYx81aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cqYYx81aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cqYYx81aL._SL200_.jpg' ]
 comments: true
 category: ofertas

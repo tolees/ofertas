@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.32 % en Pandora Mujer Plata fina 925 oro plata'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hBJmmzPaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hBJmmzPaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hBJmmzPaL._SL200_.jpg' ]
 comments: true
 category: ofertas

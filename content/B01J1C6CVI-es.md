@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES PREMIUM JPRMARK KNIT CREW N al 85.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H8%2Bg0J11L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31H8%2Bg0J11L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31H8%2Bg0J11L._SL200_.jpg' ]
 comments: true
 category: ofertas

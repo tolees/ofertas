@@ -3,6 +3,7 @@ layout: post
 title: 'Excelvan USB Módulo de Huella Digital pa al 89.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510sBHAGdkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510sBHAGdkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510sBHAGdkL._SL200_.jpg' ]
 comments: true
 category: ofertas

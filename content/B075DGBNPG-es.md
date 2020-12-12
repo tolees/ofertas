@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.04 % en Burton Sadie Chaqueta  Mujer  Negro  Tru'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BOi6p9ivL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BOi6p9ivL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BOi6p9ivL._SL200_.jpg' ]
 comments: true
 category: ofertas

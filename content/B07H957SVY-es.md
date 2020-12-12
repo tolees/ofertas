@@ -3,6 +3,7 @@ layout: post
 title: 'Moviles Libres Baratos 4G V mobile A10   al 39.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J7HucVDiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J7HucVDiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J7HucVDiL._SL200_.jpg' ]
 comments: true
 category: ofertas

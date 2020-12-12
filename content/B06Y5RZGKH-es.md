@@ -3,6 +3,7 @@ layout: post
 title: 'Ralph Lauren 0Rl8155  Gafas de Sol para  al 77.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wAVTXnE5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wAVTXnE5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wAVTXnE5L._SL200_.jpg' ]
 comments: true
 category: ofertas

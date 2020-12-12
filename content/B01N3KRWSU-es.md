@@ -3,6 +3,7 @@ layout: post
 title: 'Fieltro adhesivo  protector de goma para al 56.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P314rQ0aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51P314rQ0aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P314rQ0aL._SL200_.jpg' ]
 comments: true
 category: ofertas

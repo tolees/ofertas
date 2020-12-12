@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.62 % en BenQ BL2405PT - Monitor Profesional de 2'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A1yDQO9KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A1yDQO9KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A1yDQO9KL._SL200_.jpg' ]
 comments: true
 category: ofertas

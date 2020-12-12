@@ -3,6 +3,7 @@ layout: post
 title: 'Calcetines de Compresión Medias de Compr al 42.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5101l5VV-IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5101l5VV-IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5101l5VV-IL._SL200_.jpg' ]
 comments: true
 category: ofertas

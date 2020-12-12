@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.83 % en Sony WHH900N - Auriculares de Diadema in'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WIm8KQMsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WIm8KQMsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WIm8KQMsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.37 % en Brabantia 100482 - Mesa de Planchar  135'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rSk4dQVcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rSk4dQVcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rSk4dQVcL._SL200_.jpg' ]
 comments: true
 category: ofertas

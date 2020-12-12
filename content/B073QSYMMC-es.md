@@ -3,6 +3,7 @@ layout: post
 title: 'Osram 810709 Bombilla LED E27  9 W  Blan al 79.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HC16BnNqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HC16BnNqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HC16BnNqL._SL200_.jpg' ]
 comments: true
 category: ofertas

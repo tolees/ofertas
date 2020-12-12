@@ -3,6 +3,7 @@ layout: post
 title: 'Grsta Botella de Agua para Deportes de A al 38.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gWQuluVML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gWQuluVML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gWQuluVML._SL200_.jpg' ]
 comments: true
 category: ofertas

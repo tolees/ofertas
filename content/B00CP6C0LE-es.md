@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.01 % en Grohe StartEdge - Grifo de baño visto Re'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SgZZ74sZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SgZZ74sZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SgZZ74sZL._SL200_.jpg' ]
 comments: true
 category: ofertas

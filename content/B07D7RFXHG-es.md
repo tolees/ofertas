@@ -3,6 +3,7 @@ layout: post
 title: 'Guess Abito Corto Samantha Dress  Vestid al 69.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315D64renPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315D64renPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315D64renPL._SL200_.jpg' ]
 comments: true
 category: ofertas

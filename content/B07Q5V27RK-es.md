@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.22 % en Adidas Predator 19.4 IN  Zapatillas de f'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nEo-Ltq7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nEo-Ltq7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nEo-Ltq7L._SL200_.jpg' ]
 comments: true
 category: ofertas

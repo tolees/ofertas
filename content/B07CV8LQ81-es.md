@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.89 % en NAME IT Nbmsofus Dnmclas 5083 Pant  Jean'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hb7TzUbVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hb7TzUbVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hb7TzUbVL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.08 % en Geox J Kalispera Girl F  Zapatillas Alta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MrzVsmMCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MrzVsmMCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MrzVsmMCL._SL200_.jpg' ]
 comments: true
 category: ofertas

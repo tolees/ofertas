@@ -3,6 +3,7 @@ layout: post
 title: 'Entrenamiento en Suspensión Anoopsyche E al 36.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412k5KxYKEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412k5KxYKEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412k5KxYKEL._SL200_.jpg' ]
 comments: true
 category: ofertas

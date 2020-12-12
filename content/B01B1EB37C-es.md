@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.97 % en Nike Jr Mercurial Vortex II TF  Zapatill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qeUGR-IfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qeUGR-IfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qeUGR-IfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.97 % en Clarks Tri Caitlin  Zapatillas para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z8uyF2a2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z8uyF2a2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z8uyF2a2L._SL200_.jpg' ]
 comments: true
 category: ofertas

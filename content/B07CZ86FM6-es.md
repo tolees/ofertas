@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.14 % en Under Armour UA Roland - Mochila  Unisex'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WiQK8ieTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WiQK8ieTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WiQK8ieTL._SL200_.jpg' ]
 comments: true
 category: ofertas

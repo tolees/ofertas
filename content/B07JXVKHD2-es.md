@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.69 % en DAM. DMX190GR. Correa De Silicona para A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YK3b2BSsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YK3b2BSsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YK3b2BSsL._SL200_.jpg' ]
 comments: true
 category: ofertas

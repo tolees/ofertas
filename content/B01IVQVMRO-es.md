@@ -3,6 +3,7 @@ layout: post
 title: 'One For All WM2251 - Soporte de pared pa al 52.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51q4Og%2Bs65L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51q4Og%2Bs65L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51q4Og%2Bs65L._SL200_.jpg' ]
 comments: true
 category: ofertas

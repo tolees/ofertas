@@ -3,6 +3,7 @@ layout: post
 title: 'SPC Smartee Pop - Smartwatch de 1.3"  IP al 40.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qBdWl7%2ByL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qBdWl7%2ByL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qBdWl7%2ByL._SL200_.jpg' ]
 comments: true
 category: ofertas

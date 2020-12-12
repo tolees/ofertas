@@ -3,6 +3,7 @@ layout: post
 title: 'POC POCito VPD Spine Vest Protecciones   al 74.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eZxVuqw9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eZxVuqw9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eZxVuqw9L._SL200_.jpg' ]
 comments: true
 category: ofertas

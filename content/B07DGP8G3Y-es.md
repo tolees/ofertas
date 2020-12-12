@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 88.21 % en MAMALICIOUS Mlina Down Jacket  Abrigo pr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VPfm48IxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VPfm48IxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VPfm48IxL._SL200_.jpg' ]
 comments: true
 category: ofertas

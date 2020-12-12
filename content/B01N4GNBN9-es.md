@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Fort14 Jsy Y P Camiseta Real Ovie al 30.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sYDYbq2VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sYDYbq2VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sYDYbq2VL._SL200_.jpg' ]
 comments: true
 category: ofertas

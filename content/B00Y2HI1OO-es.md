@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.10 % en Fellowes P-28S - Destructora trituradora'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GrKCDtx7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GrKCDtx7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GrKCDtx7L._SL200_.jpg' ]
 comments: true
 category: ofertas

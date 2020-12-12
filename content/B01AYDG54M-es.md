@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Borussia Dortmund Home Replica Shir al 48.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I1cj8e8WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51I1cj8e8WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I1cj8e8WL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'KingNew - Afilador de cuchillos para coc al 92.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dxMggbPcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dxMggbPcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dxMggbPcL._SL200_.jpg' ]
 comments: true
 category: ofertas

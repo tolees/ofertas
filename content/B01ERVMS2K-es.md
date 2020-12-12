@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.09 % en Joma Elite V  Pantalones Cortos  Unisex '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zLko3etNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zLko3etNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zLko3etNL._SL200_.jpg' ]
 comments: true
 category: ofertas

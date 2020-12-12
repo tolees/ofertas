@@ -3,6 +3,7 @@ layout: post
 title: 'Black+Decker 50002X7224 Set de Emergenci al 74.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VqcOoCPXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VqcOoCPXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VqcOoCPXL._SL200_.jpg' ]
 comments: true
 category: ofertas

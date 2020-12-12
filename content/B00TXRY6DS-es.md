@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.92 % en Olay Total Effects 7 en 1  Crema nocturn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hoLGNEYdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hoLGNEYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hoLGNEYdL._SL200_.jpg' ]
 comments: true
 category: ofertas

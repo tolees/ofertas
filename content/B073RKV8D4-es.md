@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas CF ADV Adapt  Zapatillas de Depor al 65.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jkpy%2BBjsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jkpy%2BBjsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jkpy%2BBjsL._SL200_.jpg' ]
 comments: true
 category: ofertas

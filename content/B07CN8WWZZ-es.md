@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.59 % en Crocs Classic  Zuecos Unisex Adulto  Bei'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gtw1hp6yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gtw1hp6yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gtw1hp6yL._SL200_.jpg' ]
 comments: true
 category: ofertas

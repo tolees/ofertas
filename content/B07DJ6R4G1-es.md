@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.76 % en Geox D Jaysen a  Zapatillas para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XwJD8GUlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XwJD8GUlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XwJD8GUlL._SL200_.jpg' ]
 comments: true
 category: ofertas

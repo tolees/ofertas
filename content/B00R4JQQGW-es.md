@@ -3,6 +3,7 @@ layout: post
 title: 'Roca A5A8125C00 A5A6125C00 Mezclador Mon al 29.57 % de descuento'
 date: 2020-12-11 22:38:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/21BsPoFx36L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21BsPoFx36L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21BsPoFx36L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -24,8 +25,8 @@ Está [Roca A5A8125C00 A5A6125C00 Mezclador Monomando Bide  Coleccion Victoria  
 
 Principales características:
 
-- Modelo victoria
 - Con enganche para cadenilla
+- Modelo victoria
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00R4JQQGW/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Dust Daddy Cepillo de Limpieza para Aspi al 58.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41usWY3EnZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41usWY3EnZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41usWY3EnZL._SL200_.jpg' ]
 comments: true
 category: ofertas

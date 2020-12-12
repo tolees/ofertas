@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.79 % en Kelme Precision Lnfs 18  Zapatillas de F'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41buAVY1GwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41buAVY1GwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41buAVY1GwL._SL200_.jpg' ]
 comments: true
 category: ofertas

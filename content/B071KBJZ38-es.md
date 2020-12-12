@@ -3,6 +3,7 @@ layout: post
 title: 'HP - Funda  Funda  43 9 cm  17.3"   360  al 36.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hCn0ZDADL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hCn0ZDADL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hCn0ZDADL._SL200_.jpg' ]
 comments: true
 category: ofertas

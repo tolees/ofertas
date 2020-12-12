@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.30 % en Tablero Magnético de Dibujo de Madera de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513WYeGeDuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513WYeGeDuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513WYeGeDuL._SL200_.jpg' ]
 comments: true
 category: ofertas

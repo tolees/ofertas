@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.72 % en Skechers Go Walk MAX-Effort  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UTqqI51qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UTqqI51qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UTqqI51qL._SL200_.jpg' ]
 comments: true
 category: ofertas

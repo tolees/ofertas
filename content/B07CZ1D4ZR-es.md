@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.55 % en Puma Smash V2 SD Jr  Zapatillas Unisex N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317Ea1IqYiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317Ea1IqYiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317Ea1IqYiL._SL200_.jpg' ]
 comments: true
 category: ofertas

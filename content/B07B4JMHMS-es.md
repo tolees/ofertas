@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley Lowrider Portside Bermudas  Mujer al 62.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c68ZRkiYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31c68ZRkiYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c68ZRkiYL._SL200_.jpg' ]
 comments: true
 category: ofertas

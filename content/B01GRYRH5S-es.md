@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.20 % en Geox D Myria A  Zapatillas Bajas para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C0ofYS4PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C0ofYS4PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C0ofYS4PL._SL200_.jpg' ]
 comments: true
 category: ofertas

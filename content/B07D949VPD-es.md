@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi Premio 25445-21  Botines par al 71.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-qnNXh08L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-qnNXh08L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-qnNXh08L._SL200_.jpg' ]
 comments: true
 category: ofertas

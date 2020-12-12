@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Ignite S/S Mono Camiseta  Hombre  B al 34.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HOEpd4dhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HOEpd4dhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HOEpd4dhL._SL200_.jpg' ]
 comments: true
 category: ofertas

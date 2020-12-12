@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Fundamentals Sports Bag S Bolsa Dep al 28.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uPrD0TcAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uPrD0TcAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uPrD0TcAL._SL200_.jpg' ]
 comments: true
 category: ofertas

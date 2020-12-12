@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.51 % en Puma - FS PUMA GAVETTO II Sala BL/AZ Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41shZCaTc6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41shZCaTc6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41shZCaTc6L._SL200_.jpg' ]
 comments: true
 category: ofertas

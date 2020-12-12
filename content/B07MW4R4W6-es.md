@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.00 % en Telefonos Moviles Libres  DOOGEE X10S Du'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ieMV-HvzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ieMV-HvzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ieMV-HvzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'FR·TEC -  Mando Pro Controller con cable al 48.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vlerLlh4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vlerLlh4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vlerLlh4L._SL200_.jpg' ]
 comments: true
 category: ofertas

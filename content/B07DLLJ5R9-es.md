@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.39 % en Burton Oak Full-Zip Sudadera  Hombre  Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T7t7bX0EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T7t7bX0EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T7t7bX0EL._SL200_.jpg' ]
 comments: true
 category: ofertas

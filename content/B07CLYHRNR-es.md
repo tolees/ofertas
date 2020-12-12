@@ -3,6 +3,7 @@ layout: post
 title: 'MSI B360-F Pro - Placa Base Pro Series   al 49.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Kmist7UdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Kmist7UdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Kmist7UdL._SL200_.jpg' ]
 comments: true
 category: ofertas

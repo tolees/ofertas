@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en Oria Conjunto de Destornilladores de Pre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uthPe8ODL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uthPe8ODL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uthPe8ODL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Elly  Vaqueros Slim  Mujer  Negro  B al 80.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PlFZ9JvcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PlFZ9JvcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PlFZ9JvcL._SL200_.jpg' ]
 comments: true
 category: ofertas

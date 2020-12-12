@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.36 % en Tatuo 12 Pulgada de Alto Fuego Artificia'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R9nO%2BYTuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51R9nO%2BYTuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51R9nO%2BYTuL._SL200_.jpg' ]
 comments: true
 category: ofertas

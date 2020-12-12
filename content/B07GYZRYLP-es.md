@@ -3,6 +3,7 @@ layout: post
 title: 'KONVINIT Guantes de Ciclismo  Guantes Pa al 52.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qZ-PMJbgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qZ-PMJbgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qZ-PMJbgL._SL200_.jpg' ]
 comments: true
 category: ofertas

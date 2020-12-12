@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.T.Daily.Ap.Pv19.Polo FK Bl al 54.10 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'ROYAL SLEEP Colchón viscoelástico 135x18 al 28.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CgQb3tBCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CgQb3tBCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CgQb3tBCL._SL200_.jpg' ]
 comments: true
 category: ofertas

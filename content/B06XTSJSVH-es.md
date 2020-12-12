@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.58 % en Spagnolo 194000247080  Jersey Para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AloPTCFhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AloPTCFhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AloPTCFhL._SL200_.jpg' ]
 comments: true
 category: ofertas

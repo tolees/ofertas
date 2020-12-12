@@ -3,6 +3,7 @@ layout: post
 title: 'Proficook SM 1094 - Batidora de mano sem al 68.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B5WUrxfkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B5WUrxfkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B5WUrxfkL._SL200_.jpg' ]
 comments: true
 category: ofertas

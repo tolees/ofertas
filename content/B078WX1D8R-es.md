@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.70 % en Reebok Act Enh Grip 32L Mochila  Unisex '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tjh0EdAXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tjh0EdAXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tjh0EdAXL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Celio Afower Vaqueros Straight  Blue Bla al 77.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PUpi774uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PUpi774uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PUpi774uL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Fairbanks 503  Botas Plisadas p al 56.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413fWQYV0zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413fWQYV0zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413fWQYV0zL._SL200_.jpg' ]
 comments: true
 category: ofertas

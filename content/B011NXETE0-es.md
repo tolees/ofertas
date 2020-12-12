@@ -3,6 +3,7 @@ layout: post
 title: 'BabyBjörn Balance soft - Hamaca  Gris Os al 25.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41usDkwg6zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41usDkwg6zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41usDkwg6zL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.00 % en Xnuoyo 17.3 Pulgadas Mochila de Portátil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XXP0fSK6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XXP0fSK6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XXP0fSK6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'lodi Elena-Gosr  Zapatos con Tacon y Cor al 40.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uJbY65YTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uJbY65YTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uJbY65YTL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Smartwares 10.014.72  BB6  Extintor-6kg  al 41.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zQbqfggtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zQbqfggtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zQbqfggtL._SL200_.jpg' ]
 comments: true
 category: ofertas

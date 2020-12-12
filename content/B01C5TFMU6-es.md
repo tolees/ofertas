@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.31 % en Urns UK Chelsea Design 72 cremación Ceni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FsTcp1FDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FsTcp1FDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FsTcp1FDL._SL200_.jpg' ]
 comments: true
 category: ofertas

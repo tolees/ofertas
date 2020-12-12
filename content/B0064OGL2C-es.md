@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.08 % en Swatch SURV100 - Reloj analógico de Cuar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31El5DnvabL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31El5DnvabL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31El5DnvabL._SL200_.jpg' ]
 comments: true
 category: ofertas

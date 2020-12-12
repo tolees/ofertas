@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Crossfade tee Camiseta  Niñ al 47.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HXJApkRKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HXJApkRKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HXJApkRKL._SL200_.jpg' ]
 comments: true
 category: ofertas

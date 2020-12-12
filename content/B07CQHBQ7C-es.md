@@ -3,6 +3,7 @@ layout: post
 title: 'STTLZMC Polo para Hombre de Manga Corta  al 72.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o%2B6m3YEUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31o%2B6m3YEUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o%2B6m3YEUL._SL200_.jpg' ]
 comments: true
 category: ofertas

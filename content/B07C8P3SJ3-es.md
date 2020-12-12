@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.09 % en Clarks Grandin Plain  Zapatos de Cordone'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3175hc%2BVNdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3175hc%2BVNdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3175hc%2BVNdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.01 % en Friday The 13th: The Game - Ultimate Sla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FCqjiSy8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FCqjiSy8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FCqjiSy8L._SL200_.jpg' ]
 comments: true
 category: ofertas

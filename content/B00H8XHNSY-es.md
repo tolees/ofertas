@@ -3,6 +3,7 @@ layout: post
 title: 'Softee Equipment 0002360 Balón Micro Cel al 28.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518O04zKiBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518O04zKiBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518O04zKiBL._SL200_.jpg' ]
 comments: true
 category: ofertas

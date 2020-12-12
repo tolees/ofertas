@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Gen  Vaqueros Rectos para Muj al 41.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-8Z66k9vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-8Z66k9vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-8Z66k9vL._SL200_.jpg' ]
 comments: true
 category: ofertas

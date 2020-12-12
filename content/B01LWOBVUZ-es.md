@@ -3,6 +3,7 @@ layout: post
 title: 'ZEP Montreaux Marco para apoyar  Madera  al 51.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517fvics7fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517fvics7fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517fvics7fL._SL200_.jpg' ]
 comments: true
 category: ofertas

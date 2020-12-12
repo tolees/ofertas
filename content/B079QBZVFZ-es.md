@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 048cc1k078 Camiseta   Ligh al 53.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Aj8WAW2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416Aj8WAW2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Aj8WAW2L._SL200_.jpg' ]
 comments: true
 category: ofertas

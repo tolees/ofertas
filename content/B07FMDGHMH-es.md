@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones NOS Jjimarco Jjcharles WW 2 al 71.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NRCV%2BWJcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NRCV%2BWJcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NRCV%2BWJcL._SL200_.jpg' ]
 comments: true
 category: ofertas

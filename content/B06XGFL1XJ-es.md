@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop!- Jack Sparrow Figura de Vinil al 40.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VmjaTPf6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VmjaTPf6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VmjaTPf6L._SL200_.jpg' ]
 comments: true
 category: ofertas

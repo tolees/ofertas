@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.84 % en Yep by Jonak Brunella - Zapatos para niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xRs1MA9hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xRs1MA9hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xRs1MA9hL._SL200_.jpg' ]
 comments: true
 category: ofertas

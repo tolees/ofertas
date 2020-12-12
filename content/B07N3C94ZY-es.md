@@ -3,6 +3,7 @@ layout: post
 title: 'Munich BARRU Sky  Zapatillas Unisex Adul al 44.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415mBQAWVDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415mBQAWVDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415mBQAWVDL._SL200_.jpg' ]
 comments: true
 category: ofertas

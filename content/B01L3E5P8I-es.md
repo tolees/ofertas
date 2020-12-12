@@ -3,6 +3,7 @@ layout: post
 title: 'Geographical Norway Wm683F  Chaleco para al 79.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517pHb-AXDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517pHb-AXDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517pHb-AXDL._SL200_.jpg' ]
 comments: true
 category: ofertas

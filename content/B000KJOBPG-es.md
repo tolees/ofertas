@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.33 % en Rotulador punta fina STABILO point 88 - '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dTOGFxCiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dTOGFxCiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dTOGFxCiL._SL200_.jpg' ]
 comments: true
 category: ofertas

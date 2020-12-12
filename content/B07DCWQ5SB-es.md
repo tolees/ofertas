@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.86 % en WMF 662866040 baric Sommelier Set  5 Pie'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eTKWw7XPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eTKWw7XPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eTKWw7XPL._SL200_.jpg' ]
 comments: true
 category: ofertas

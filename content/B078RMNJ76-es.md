@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Air Huarache Run  Zapatillas de Gim al 62.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412Z%2BSq-HDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412Z%2BSq-HDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412Z%2BSq-HDL._SL200_.jpg' ]
 comments: true
 category: ofertas

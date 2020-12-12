@@ -3,6 +3,7 @@ layout: post
 title: 'Cielo estrellado noche del proyector de  al 50.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jbeHWW6kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jbeHWW6kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jbeHWW6kL._SL200_.jpg' ]
 comments: true
 category: ofertas

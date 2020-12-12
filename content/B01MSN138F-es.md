@@ -3,6 +3,7 @@ layout: post
 title: 'STANLEY FMHT0-75438 - Mordaza FatMax boc al 45.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31m4npCwolL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31m4npCwolL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31m4npCwolL._SL200_.jpg' ]
 comments: true
 category: ofertas

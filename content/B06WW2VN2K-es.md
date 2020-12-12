@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 067cc1c009  Pantalones Cor al 46.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41suo9%2B0KhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41suo9%2B0KhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41suo9%2B0KhL._SL200_.jpg' ]
 comments: true
 category: ofertas

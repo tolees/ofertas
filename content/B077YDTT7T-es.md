@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en HIKARO Chaleco de Plumas con Capucha Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bKM%2B6dYcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bKM%2B6dYcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bKM%2B6dYcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.23 % en FIND Vestido Estampado con Cinturón Anud'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dmP%2B1E%2B3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dmP%2B1E%2B3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dmP%2B1E%2B3L._SL200_.jpg' ]
 comments: true
 category: ofertas

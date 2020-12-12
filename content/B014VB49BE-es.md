@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.20 % en Alcatel One Touch Go Play 5" SIM única 4'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RtWdotyjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RtWdotyjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RtWdotyjL._SL200_.jpg' ]
 comments: true
 category: ofertas

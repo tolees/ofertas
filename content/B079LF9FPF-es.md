@@ -3,6 +3,7 @@ layout: post
 title: 'CAMPER Runner Four  Zapatillas para Homb al 49.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DYoXAusWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DYoXAusWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DYoXAusWL._SL200_.jpg' ]
 comments: true
 category: ofertas

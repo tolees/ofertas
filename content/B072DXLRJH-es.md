@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.25 % en Burton Oak Full-Zip Sudadera  niños  Sha'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511v4qm4VPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511v4qm4VPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511v4qm4VPL._SL200_.jpg' ]
 comments: true
 category: ofertas

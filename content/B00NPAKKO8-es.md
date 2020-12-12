@@ -3,6 +3,7 @@ layout: post
 title: 'Fendi Brillengestelle FF 0048 D28/17-52- al 47.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CLngP8DFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CLngP8DFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CLngP8DFL._SL200_.jpg' ]
 comments: true
 category: ofertas

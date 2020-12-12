@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.18 % en EasyToys Fetish Collection - Tapón de co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BHbzNryL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BHbzNryL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BHbzNryL._SL200_.jpg' ]
 comments: true
 category: ofertas

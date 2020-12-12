@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.08 % en Billabong T Street Ss  Camiseta para Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z3Y635VML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z3Y635VML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z3Y635VML._SL200_.jpg' ]
 comments: true
 category: ofertas

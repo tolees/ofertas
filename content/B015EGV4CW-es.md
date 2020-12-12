@@ -3,6 +3,7 @@ layout: post
 title: 'Persol 0Po2422Sj 106156 49 Gafas de Sol  al 48.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tgK98F9eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tgK98F9eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tgK98F9eL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Kempa - Classic Shorts  Color Azul  Tall al 57.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413L7ZjEE9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413L7ZjEE9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413L7ZjEE9L._SL200_.jpg' ]
 comments: true
 category: ofertas

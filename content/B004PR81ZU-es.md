@@ -3,6 +3,7 @@ layout: post
 title: 'Makita HM0870C Martillo Demoledor Sds Ma al 37.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uK4JjPAmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uK4JjPAmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uK4JjPAmL._SL200_.jpg' ]
 comments: true
 category: ofertas

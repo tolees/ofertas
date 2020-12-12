@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.71 % en Love Moschino - Borsa Pu  Shoppers y bol'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Xl82b0U9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Xl82b0U9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Xl82b0U9L._SL200_.jpg' ]
 comments: true
 category: ofertas

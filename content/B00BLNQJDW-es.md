@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.08 % en Lancaster Suractif Volume Contorno Night'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zF%2Bnxcr2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zF%2Bnxcr2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zF%2Bnxcr2L._SL200_.jpg' ]
 comments: true
 category: ofertas

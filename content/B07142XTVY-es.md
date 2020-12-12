@@ -3,6 +3,7 @@ layout: post
 title: 'Inside 4SFC31& Camiseta  Negro  Medium   al 66.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HhKMBTxQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HhKMBTxQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HhKMBTxQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Josef Seibel Botines de Cordones Tanja S al 76.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mvnaRcpJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mvnaRcpJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mvnaRcpJL._SL200_.jpg' ]
 comments: true
 category: ofertas

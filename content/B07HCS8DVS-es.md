@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.08 % en Tommy Hilfiger - Th Business Mini Crosso'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Fz7WY4-YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fz7WY4-YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Fz7WY4-YL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.84 % en PUMA Modern Sports Leggings G Leggins  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VP8xTfFwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VP8xTfFwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VP8xTfFwL._SL200_.jpg' ]
 comments: true
 category: ofertas

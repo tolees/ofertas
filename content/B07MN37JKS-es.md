@@ -3,6 +3,7 @@ layout: post
 title: 'Masajeador de Cuello y Hombros  iFanze M al 82.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K1zTu9tCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K1zTu9tCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K1zTu9tCL._SL200_.jpg' ]
 comments: true
 category: ofertas

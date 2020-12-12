@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit Hombre 128ee2b024 Vaqueros Straig al 80.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414Fio4XZML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414Fio4XZML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414Fio4XZML._SL200_.jpg' ]
 comments: true
 category: ofertas

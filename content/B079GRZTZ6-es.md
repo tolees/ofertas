@@ -3,6 +3,7 @@ layout: post
 title: 'Pokemon JCC Colección Especial Raichu-GX al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WmP6TNTqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WmP6TNTqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WmP6TNTqL._SL200_.jpg' ]
 comments: true
 category: ofertas

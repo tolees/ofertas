@@ -3,6 +3,7 @@ layout: post
 title: 'SUNLU 3D Printer Filament ABS  1.75mm AB al 70.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515e9Rie5rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515e9Rie5rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515e9Rie5rL._SL200_.jpg' ]
 comments: true
 category: ofertas

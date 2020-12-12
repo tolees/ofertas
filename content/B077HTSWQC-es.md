@@ -3,6 +3,7 @@ layout: post
 title: 'E27 Lámpara Cuerda Vintage 1m Lámpara de al 46.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OcIGhzdwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OcIGhzdwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OcIGhzdwL._SL200_.jpg' ]
 comments: true
 category: ofertas

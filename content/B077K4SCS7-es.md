@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Jacksy  Vaqueros Skinny Mujer  Ne al 78.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tryaoyVDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tryaoyVDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tryaoyVDL._SL200_.jpg' ]
 comments: true
 category: ofertas

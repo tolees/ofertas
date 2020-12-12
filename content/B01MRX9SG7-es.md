@@ -3,6 +3,7 @@ layout: post
 title: 'KEXIN 4GB Memoria USB 2.0 Pendrive 4GB F al 49.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Brlf6a0pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Brlf6a0pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Brlf6a0pL._SL200_.jpg' ]
 comments: true
 category: ofertas

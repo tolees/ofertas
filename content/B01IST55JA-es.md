@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Daren Zip Fly  Jeans Hombre  Azul  C al 47.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gP6l6lYsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gP6l6lYsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gP6l6lYsL._SL200_.jpg' ]
 comments: true
 category: ofertas

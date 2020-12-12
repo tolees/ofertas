@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.22 % en Tamaris 23614  Zapatillas Mujer  Marrón '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sujjUuoUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sujjUuoUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sujjUuoUL._SL200_.jpg' ]
 comments: true
 category: ofertas

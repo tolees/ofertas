@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.14 % en Lacoste TH7618  Camiseta para Hombre  Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dtvPITJkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dtvPITJkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dtvPITJkL._SL200_.jpg' ]
 comments: true
 category: ofertas

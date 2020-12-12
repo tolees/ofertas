@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Omega X W Metallic Dusty  al 54.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U4Ew6r-8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U4Ew6r-8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U4Ew6r-8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Jr Sandal Kyle B  Sandalias Punta C al 54.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jd4jLYpqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jd4jLYpqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jd4jLYpqL._SL200_.jpg' ]
 comments: true
 category: ofertas

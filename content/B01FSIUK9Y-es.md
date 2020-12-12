@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 910v3  Zapatillas de Running al 72.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XteUsMQxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XteUsMQxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XteUsMQxL._SL200_.jpg' ]
 comments: true
 category: ofertas

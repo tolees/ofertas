@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Basic Crew Sudadera  Marfil  Black 0 al 75.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lvsctZ6YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lvsctZ6YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lvsctZ6YL._SL200_.jpg' ]
 comments: true
 category: ofertas

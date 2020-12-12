@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.32 % en Reef Voyage TX  Chanclas para Hombre   B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JSLE3ozIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JSLE3ozIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JSLE3ozIL._SL200_.jpg' ]
 comments: true
 category: ofertas

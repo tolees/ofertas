@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.38 % en Imixcity Hombre Bañadores de Natación Pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VxPEx%2BgpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VxPEx%2BgpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VxPEx%2BgpL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Color Copy CCA4200 - Paquete 250 hojas d al 53.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KUqbpsR-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KUqbpsR-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KUqbpsR-L._SL200_.jpg' ]
 comments: true
 category: ofertas

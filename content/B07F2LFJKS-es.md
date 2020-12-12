@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.72 % en DOACT Sleeping Pad para Acampar con Moch'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GFr5GP7tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GFr5GP7tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GFr5GP7tL._SL200_.jpg' ]
 comments: true
 category: ofertas

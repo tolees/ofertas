@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.82 % en Volcom Draw Lo Shoe  Zapatillas de Skate'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UVUZL5ZXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UVUZL5ZXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UVUZL5ZXL._SL200_.jpg' ]
 comments: true
 category: ofertas

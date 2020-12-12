@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.82 % en Tommy Hilfiger Kean Lthr Jkt  Chaqueta p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kQV5Bjb8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kQV5Bjb8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kQV5Bjb8L._SL200_.jpg' ]
 comments: true
 category: ofertas

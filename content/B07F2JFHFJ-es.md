@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.01 % en Levi s The Jacket Chaqueta Vaquera  Azul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sUTWV2McL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sUTWV2McL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sUTWV2McL._SL200_.jpg' ]
 comments: true
 category: ofertas

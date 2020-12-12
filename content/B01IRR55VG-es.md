@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Crew HH Classic LS SS Polo  al 49.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sGCNcwsGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sGCNcwsGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sGCNcwsGL._SL200_.jpg' ]
 comments: true
 category: ofertas

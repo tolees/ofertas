@@ -3,6 +3,7 @@ layout: post
 title: 'Extrbici G7 Mountain Bike 21 Speed Steel al 38.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o0CjLl0oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51o0CjLl0oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51o0CjLl0oL._SL200_.jpg' ]
 comments: true
 category: ofertas

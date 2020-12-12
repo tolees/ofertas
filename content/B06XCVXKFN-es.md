@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.63 % en Cortefiel 6717381  Vestido para Mujer  A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s3RNXHWOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s3RNXHWOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s3RNXHWOL._SL200_.jpg' ]
 comments: true
 category: ofertas

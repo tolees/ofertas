@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Men s Rocket 3 Basketball S al 26.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ke62FlwdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ke62FlwdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ke62FlwdL._SL200_.jpg' ]
 comments: true
 category: ofertas

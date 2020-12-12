@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.21 % en Puma ESS Pique Polo T-Shirt  Hombre  Gri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417lg84HSeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417lg84HSeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417lg84HSeL._SL200_.jpg' ]
 comments: true
 category: ofertas

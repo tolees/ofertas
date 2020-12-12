@@ -3,6 +3,7 @@ layout: post
 title: 'Kingston SDCE/64GB Tarjeta microSD High  al 43.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X4SAyxIwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31X4SAyxIwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X4SAyxIwL._SL200_.jpg' ]
 comments: true
 category: ofertas

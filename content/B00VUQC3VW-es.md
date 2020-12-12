@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.50 % en Kappa MILLA Footwear women - Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414YydBjUTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414YydBjUTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414YydBjUTL._SL200_.jpg' ]
 comments: true
 category: ofertas

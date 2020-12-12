@@ -3,6 +3,7 @@ layout: post
 title: 'Joma 100005.700 - Camiseta de equipación al 58.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sP-KbPN1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sP-KbPN1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sP-KbPN1L._SL200_.jpg' ]
 comments: true
 category: ofertas

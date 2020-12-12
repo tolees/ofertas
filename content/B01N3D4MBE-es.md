@@ -3,6 +3,7 @@ layout: post
 title: 'Caterpillar Chronicle  Botas Clasicas pa al 54.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GKm0hXOpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GKm0hXOpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GKm0hXOpL._SL200_.jpg' ]
 comments: true
 category: ofertas

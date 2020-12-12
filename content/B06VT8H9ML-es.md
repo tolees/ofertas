@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver 25204  Botas Militar para Mujer al 72.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WEHHX0zWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WEHHX0zWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WEHHX0zWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Sway  Zapatillas de Runn al 59.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31k4oJupnXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31k4oJupnXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31k4oJupnXL._SL200_.jpg' ]
 comments: true
 category: ofertas

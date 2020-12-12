@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.32 % en Mavi Adriana Vaqueros Skinny  Verde  Kha'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311iy4ZYQtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311iy4ZYQtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311iy4ZYQtL._SL200_.jpg' ]
 comments: true
 category: ofertas

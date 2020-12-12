@@ -3,6 +3,7 @@ layout: post
 title: 'Raid - Trampas Cebo contra Hormigas  Efe al 29.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D2LQjNyeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51D2LQjNyeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D2LQjNyeL._SL200_.jpg' ]
 comments: true
 category: ofertas

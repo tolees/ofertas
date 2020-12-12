@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.56 % en Uten Cortador Patata Espiral Twister Cor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KI0XLarhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KI0XLarhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KI0XLarhL._SL200_.jpg' ]
 comments: true
 category: ofertas

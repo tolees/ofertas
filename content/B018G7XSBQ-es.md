@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Advantage Clean Vs  Zapatillas pa al 32.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nY3fFw5DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nY3fFw5DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nY3fFw5DL._SL200_.jpg' ]
 comments: true
 category: ofertas

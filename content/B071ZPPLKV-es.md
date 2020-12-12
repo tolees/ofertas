@@ -3,6 +3,7 @@ layout: post
 title: 'Homgeek Picadoras de Carne 1200w Salchic al 58.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415yncYTxmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415yncYTxmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415yncYTxmL._SL200_.jpg' ]
 comments: true
 category: ofertas

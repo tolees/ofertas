@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.46 % en Marco Tozzi 23708  Zapatillas para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xm-bydw4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xm-bydw4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xm-bydw4L._SL200_.jpg' ]
 comments: true
 category: ofertas

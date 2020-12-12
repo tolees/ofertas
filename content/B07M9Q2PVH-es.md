@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.23 % en ieGeek 1080P Cámara de Vigilancia WiFi C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410GMsCVKDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410GMsCVKDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410GMsCVKDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'LIU JO Shoes Alexa-Running Scarlet  Zapa al 46.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yHwIV-%2B0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yHwIV-%2B0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yHwIV-%2B0L._SL200_.jpg' ]
 comments: true
 category: ofertas

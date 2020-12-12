@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste TH6709  Camiseta para Hombre  Az al 33.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o1-zNdmjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31o1-zNdmjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o1-zNdmjL._SL200_.jpg' ]
 comments: true
 category: ofertas

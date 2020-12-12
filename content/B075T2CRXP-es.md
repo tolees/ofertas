@@ -3,6 +3,7 @@ layout: post
 title: 'HOMFY Protector de Colchón Impermeable 1 al 25.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E1O47e7%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E1O47e7%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E1O47e7%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

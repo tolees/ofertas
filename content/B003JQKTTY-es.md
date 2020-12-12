@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.18 % en Nivea men - Extra soothing moisture  cre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kWdRn995L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kWdRn995L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kWdRn995L._SL200_.jpg' ]
 comments: true
 category: ofertas

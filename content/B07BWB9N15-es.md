@@ -3,6 +3,7 @@ layout: post
 title: 'ECHILUCK Escobilla para Inodoro y Cepill al 64.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OC24S4skL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31OC24S4skL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OC24S4skL._SL200_.jpg' ]
 comments: true
 category: ofertas

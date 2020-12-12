@@ -3,6 +3,7 @@ layout: post
 title: 'Canon Objetivo - 75-300mm f/4-5.6 III -  al 27.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cjbYuqYdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cjbYuqYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cjbYuqYdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.36 % en Basix Rubber Works Double Dong Purpura D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21lkfuYR48L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21lkfuYR48L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21lkfuYR48L._SL200_.jpg' ]
 comments: true
 category: ofertas

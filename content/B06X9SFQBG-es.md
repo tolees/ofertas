@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.78 % en find. Zapatillas de Deporte sin Cordones'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21-ACticejL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21-ACticejL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21-ACticejL._SL200_.jpg' ]
 comments: true
 category: ofertas

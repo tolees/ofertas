@@ -3,6 +3,7 @@ layout: post
 title: 'Bourjois Cc Cream CC Cream Tono 33 Rose  al 54.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iaYR58wkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iaYR58wkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iaYR58wkL._SL200_.jpg' ]
 comments: true
 category: ofertas

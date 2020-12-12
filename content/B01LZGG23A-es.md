@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.98 % en APPLE MMYJ2ZM/A - Funda Leather Case par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YUI7aL8TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YUI7aL8TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YUI7aL8TL._SL200_.jpg' ]
 comments: true
 category: ofertas

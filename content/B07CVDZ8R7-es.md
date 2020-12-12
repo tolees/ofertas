@@ -3,6 +3,7 @@ layout: post
 title: 'Camaras de Vigilancia Wifi Interior Miba al 28.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5140MwWB7ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5140MwWB7ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5140MwWB7ML._SL200_.jpg' ]
 comments: true
 category: ofertas

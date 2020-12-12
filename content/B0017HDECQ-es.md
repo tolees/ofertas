@@ -3,6 +3,7 @@ layout: post
 title: 'Tesa 57168-00000-05 - Torre de rollos de al 34.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pVr9N-rmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pVr9N-rmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pVr9N-rmL._SL200_.jpg' ]
 comments: true
 category: ofertas

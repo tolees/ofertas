@@ -3,6 +3,7 @@ layout: post
 title: 'Dalstrong Carnicería rompiendo Cimitar c al 77.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I4UIz2MHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I4UIz2MHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I4UIz2MHL._SL200_.jpg' ]
 comments: true
 category: ofertas

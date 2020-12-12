@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Nemeziz 17.4 TR  Zapatillas de Fú al 46.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RNBsOWbIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RNBsOWbIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RNBsOWbIL._SL200_.jpg' ]
 comments: true
 category: ofertas

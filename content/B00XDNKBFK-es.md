@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.85 % en Brandy - Terry Centenario  1 L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nSLBlZOlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nSLBlZOlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nSLBlZOlL._SL200_.jpg' ]
 comments: true
 category: ofertas

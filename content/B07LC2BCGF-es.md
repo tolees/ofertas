@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.59 % en READ Curren Reloj Impermeable para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BmhSo4JQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BmhSo4JQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BmhSo4JQL._SL200_.jpg' ]
 comments: true
 category: ofertas

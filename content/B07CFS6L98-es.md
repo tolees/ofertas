@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.44 % en Marco Tozzi 2-2-22417-31  Zapatos de Tac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412vFQLQr8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412vFQLQr8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412vFQLQr8L._SL200_.jpg' ]
 comments: true
 category: ofertas

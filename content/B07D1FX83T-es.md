@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED HOMME Slhslim-mylobill Grey TRS al 82.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aweINSCEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aweINSCEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aweINSCEL._SL200_.jpg' ]
 comments: true
 category: ofertas

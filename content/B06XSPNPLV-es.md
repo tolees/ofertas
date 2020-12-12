@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.26 % en Pepe Jeans BETTIES PL401250 Impermeable '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xe3NAoSWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xe3NAoSWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xe3NAoSWL._SL200_.jpg' ]
 comments: true
 category: ofertas

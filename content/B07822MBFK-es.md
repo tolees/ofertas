@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG Fifty50 LB 16 Bañador  Hombre  al 60.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nX5oN3b2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nX5oN3b2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nX5oN3b2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Aigostar Blueberry 30JDI - Batidora de v al 54.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5119rlPkcEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5119rlPkcEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5119rlPkcEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Bausch & Lomb - Soflens 59 Esféricas - L al 81.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f6UelEOBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51f6UelEOBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f6UelEOBL._SL200_.jpg' ]
 comments: true
 category: ofertas

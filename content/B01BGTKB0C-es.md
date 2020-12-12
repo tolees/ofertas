@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Revend Straight  Vaqueros par al 41.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IHjLA8rCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IHjLA8rCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IHjLA8rCL._SL200_.jpg' ]
 comments: true
 category: ofertas

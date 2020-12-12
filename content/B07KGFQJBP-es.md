@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Amiroy suéter  Verde  Open Green 34 al 75.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o%2B1DAO5HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o%2B1DAO5HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o%2B1DAO5HL._SL200_.jpg' ]
 comments: true
 category: ofertas

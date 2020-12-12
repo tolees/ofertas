@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.13 % en Master Plug Pro-XT de Metal L Carrete al'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515x8aRsMJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515x8aRsMJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515x8aRsMJL._SL200_.jpg' ]
 comments: true
 category: ofertas

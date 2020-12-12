@@ -3,6 +3,7 @@ layout: post
 title: 'Case Logic TS113 - Funda tipo sleeve par al 72.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l0X73XUPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l0X73XUPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l0X73XUPL._SL200_.jpg' ]
 comments: true
 category: ofertas

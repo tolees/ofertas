@@ -3,6 +3,7 @@ layout: post
 title: 'High Peak Kira 4 Tienda  Claro/Gris Oscu al 69.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D7F%2BZL%2B2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D7F%2BZL%2B2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D7F%2BZL%2B2L._SL200_.jpg' ]
 comments: true
 category: ofertas

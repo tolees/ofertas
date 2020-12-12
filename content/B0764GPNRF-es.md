@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Equipment TNF Mochila Jes al 34.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fGMvM2-pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fGMvM2-pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fGMvM2-pL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'RUICHENXI Memoria USB 1000GB Pendrive Fl al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UnPi4aySL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UnPi4aySL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UnPi4aySL._SL200_.jpg' ]
 comments: true
 category: ofertas

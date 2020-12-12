@@ -3,6 +3,7 @@ layout: post
 title: 'DKNY Intimates Sheers Cupped Strapless B al 56.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ev4eajr%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ev4eajr%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ev4eajr%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

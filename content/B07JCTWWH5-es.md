@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.18 % en melysEU Auriculares Inalámbricos Bluetoo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WdwQKupAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WdwQKupAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WdwQKupAL._SL200_.jpg' ]
 comments: true
 category: ofertas

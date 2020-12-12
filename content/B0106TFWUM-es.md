@@ -3,6 +3,7 @@ layout: post
 title: 'Fruit of the Loom Ss126m  Sudadera para  al 39.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rNTfgsbpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rNTfgsbpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rNTfgsbpL._SL200_.jpg' ]
 comments: true
 category: ofertas

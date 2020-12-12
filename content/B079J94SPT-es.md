@@ -3,6 +3,7 @@ layout: post
 title: 'Mr. Wonderful Taza Pastel I m Hotter Tha al 64.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V4l961H8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31V4l961H8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V4l961H8L._SL200_.jpg' ]
 comments: true
 category: ofertas

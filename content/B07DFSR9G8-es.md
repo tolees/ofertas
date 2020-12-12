@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.07 % en Puma 4Keeps Bra M Top  Mujer  Blanco  Wh'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KeWOXf1CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KeWOXf1CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KeWOXf1CL._SL200_.jpg' ]
 comments: true
 category: ofertas

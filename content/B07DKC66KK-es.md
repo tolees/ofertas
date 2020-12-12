@@ -3,6 +3,7 @@ layout: post
 title: 'Alcachofa de Ducha Música  con Altavoz I al 56.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o8C9KjlIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o8C9KjlIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o8C9KjlIL._SL200_.jpg' ]
 comments: true
 category: ofertas

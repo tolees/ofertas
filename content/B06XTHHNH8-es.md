@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Charing  Camiseta Hombre  Gri al 43.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PC4XLR0jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PC4XLR0jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PC4XLR0jL._SL200_.jpg' ]
 comments: true
 category: ofertas

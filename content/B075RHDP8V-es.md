@@ -3,6 +3,7 @@ layout: post
 title: 'GORE WEAR C3 Pantalón corto para hombre  al 55.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IbaU7bawL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IbaU7bawL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IbaU7bawL._SL200_.jpg' ]
 comments: true
 category: ofertas

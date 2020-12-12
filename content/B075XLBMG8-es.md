@@ -3,6 +3,7 @@ layout: post
 title: 'SEWOR lupa mecanismo japonés de cuarzo r al 66.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-oQywz95L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-oQywz95L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-oQywz95L._SL200_.jpg' ]
 comments: true
 category: ofertas

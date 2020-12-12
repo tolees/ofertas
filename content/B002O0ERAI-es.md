@@ -3,6 +3,7 @@ layout: post
 title: 'Coca-Cola - Refresco sabor cereza   1 Un al 36.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d2fxVkX9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d2fxVkX9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d2fxVkX9L._SL200_.jpg' ]
 comments: true
 category: ofertas

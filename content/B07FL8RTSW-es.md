@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.35 % en Superdry Echo Beach Cagoule  Chaqueta De'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k5DZHMiKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k5DZHMiKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k5DZHMiKL._SL200_.jpg' ]
 comments: true
 category: ofertas

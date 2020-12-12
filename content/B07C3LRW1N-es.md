@@ -3,6 +3,7 @@ layout: post
 title: 'Kingston SUV500MS/240G - Disco Duro sóli al 53.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kb63YEJnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kb63YEJnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kb63YEJnL._SL200_.jpg' ]
 comments: true
 category: ofertas

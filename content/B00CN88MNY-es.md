@@ -3,6 +3,7 @@ layout: post
 title: 'BB Colorete Nude Magique Blush de L Oréa al 59.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-fHMvj4JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-fHMvj4JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-fHMvj4JL._SL200_.jpg' ]
 comments: true
 category: ofertas

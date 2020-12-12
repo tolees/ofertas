@@ -3,6 +3,7 @@ layout: post
 title: 'Toyrific  22 piezas de la caja del siste al 45.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XvikbokPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XvikbokPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XvikbokPL._SL200_.jpg' ]
 comments: true
 category: ofertas

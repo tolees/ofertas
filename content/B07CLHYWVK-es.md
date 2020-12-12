@@ -3,6 +3,7 @@ layout: post
 title: 'Hawiton Bikini Sexy Mujer Push up Trajes al 47.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q3HD3%2BA2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q3HD3%2BA2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q3HD3%2BA2L._SL200_.jpg' ]
 comments: true
 category: ofertas

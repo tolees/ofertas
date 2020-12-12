@@ -3,6 +3,7 @@ layout: post
 title: 'Celio Feria  Camiseta Cuello Alto para H al 68.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410z-y4LfNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410z-y4LfNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410z-y4LfNL._SL200_.jpg' ]
 comments: true
 category: ofertas

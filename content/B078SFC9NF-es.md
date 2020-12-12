@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.10 % en Nike Wmns Revolution 4 EU  Zapatillas de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417m%2BtYay-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417m%2BtYay-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417m%2BtYay-L._SL200_.jpg' ]
 comments: true
 category: ofertas

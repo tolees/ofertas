@@ -3,6 +3,7 @@ layout: post
 title: 'ara - Florenz  cartera Mujer  Schwarz  1 al 74.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LIPxLnGyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LIPxLnGyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LIPxLnGyL._SL200_.jpg' ]
 comments: true
 category: ofertas

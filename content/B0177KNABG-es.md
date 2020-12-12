@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.12 % en adidas Adipure 360.3 M  Zapatillas de Ru'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OGLV8JazL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OGLV8JazL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OGLV8JazL._SL200_.jpg' ]
 comments: true
 category: ofertas

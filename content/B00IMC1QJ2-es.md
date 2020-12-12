@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.58 % en D-Link GO-SW-24G - Switch 24p Gigabit  E'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TiEG1sXrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TiEG1sXrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TiEG1sXrL._SL200_.jpg' ]
 comments: true
 category: ofertas

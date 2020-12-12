@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Skech-Flex 2.0  Zapatillas de D al 27.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b4E9bCzKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b4E9bCzKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b4E9bCzKL._SL200_.jpg' ]
 comments: true
 category: ofertas

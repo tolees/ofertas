@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.32 % en Tom Tailor T-Shirt Uni 1/1 Round-Neck  C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510YVlUVr%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510YVlUVr%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510YVlUVr%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

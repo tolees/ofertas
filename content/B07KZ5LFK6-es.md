@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.43 % en Cortefiel Gobi Chambray Print T-BD Camis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517DVEnMVaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517DVEnMVaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517DVEnMVaL._SL200_.jpg' ]
 comments: true
 category: ofertas

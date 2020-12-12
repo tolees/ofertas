@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.66 % en Crocs Fun Lab Lights Clog Kids  Zuecos U'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51et4feq0jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51et4feq0jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51et4feq0jL._SL200_.jpg' ]
 comments: true
 category: ofertas

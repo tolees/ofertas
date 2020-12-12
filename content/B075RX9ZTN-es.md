@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.79 % en GORE WEAR M Camiseta interior de hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mvAY4MzwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mvAY4MzwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mvAY4MzwL._SL200_.jpg' ]
 comments: true
 category: ofertas

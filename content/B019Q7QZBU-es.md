@@ -3,6 +3,7 @@ layout: post
 title: 'Ultratec CG2000/ 331400000267 Parrilla d al 25.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512-E2-w3VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512-E2-w3VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512-E2-w3VL._SL200_.jpg' ]
 comments: true
 category: ofertas

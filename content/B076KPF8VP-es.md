@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.35 % en ASUS GL702VM-BA309T - Ordenador Portátil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AbCS%2B-HQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AbCS%2B-HQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AbCS%2B-HQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.00 % en Lenovo Legion Y520-15IKBN - Ordenador po'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yIyFBsxUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yIyFBsxUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yIyFBsxUL._SL200_.jpg' ]
 comments: true
 category: ofertas

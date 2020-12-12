@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.54 % en Desigual Jers_gaea suéter  Negro 2000  X'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SBoxIX5yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SBoxIX5yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SBoxIX5yL._SL200_.jpg' ]
 comments: true
 category: ofertas

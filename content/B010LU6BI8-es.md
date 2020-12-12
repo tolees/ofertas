@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.02 % en Innoo Tech Guirnalda Luces 10M 100 LED B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AtjhDfUnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AtjhDfUnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AtjhDfUnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Go Vulc 2  Zapatillas Altas par al 70.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u5DcjYH0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31u5DcjYH0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u5DcjYH0L._SL200_.jpg' ]
 comments: true
 category: ofertas

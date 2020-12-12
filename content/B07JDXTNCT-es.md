@@ -3,6 +3,7 @@ layout: post
 title: 'FLOUREON – 10000 mAh Power Banco con Dua al 51.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n0e3sH34L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n0e3sH34L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n0e3sH34L._SL200_.jpg' ]
 comments: true
 category: ofertas

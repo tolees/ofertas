@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Vestido Ajustable para Mujer   Azul al 70.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HCy9CkUzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HCy9CkUzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HCy9CkUzL._SL200_.jpg' ]
 comments: true
 category: ofertas

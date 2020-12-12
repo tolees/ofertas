@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Bradsteet 3 Eye Sensorflex  M al 44.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bEiC6N3QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bEiC6N3QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bEiC6N3QL._SL200_.jpg' ]
 comments: true
 category: ofertas

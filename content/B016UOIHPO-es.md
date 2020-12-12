@@ -3,6 +3,7 @@ layout: post
 title: 'Trust Urban Ambus - Altavoz portátil con al 58.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419u5pVipzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419u5pVipzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419u5pVipzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED HOMME Slhslim-Leon 1452 L St Je al 68.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ls0wwp3zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ls0wwp3zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ls0wwp3zL._SL200_.jpg' ]
 comments: true
 category: ofertas

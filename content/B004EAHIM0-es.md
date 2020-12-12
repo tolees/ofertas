@@ -3,6 +3,7 @@ layout: post
 title: 'Shiseido Men  Crema diurna facial  piel  al 40.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQ9P3b%2BDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQ9P3b%2BDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZQ9P3b%2BDL._SL200_.jpg' ]
 comments: true
 category: ofertas

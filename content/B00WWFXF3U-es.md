@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.00 % en G-STAR 3301 Tapered - Vaqueros para homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41finADPTYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41finADPTYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41finADPTYL._SL200_.jpg' ]
 comments: true
 category: ofertas

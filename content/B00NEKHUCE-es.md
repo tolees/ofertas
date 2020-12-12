@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.62 % en Bosch Professional 06019E3001 Aspiradora'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KLfRenROL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KLfRenROL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KLfRenROL._SL200_.jpg' ]
 comments: true
 category: ofertas

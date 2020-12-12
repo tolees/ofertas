@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en Batidora de Mano  Aicok 4 en 1 Batidora '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ABL-OX5HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ABL-OX5HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ABL-OX5HL._SL200_.jpg' ]
 comments: true
 category: ofertas

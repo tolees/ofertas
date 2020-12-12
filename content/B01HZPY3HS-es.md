@@ -3,6 +3,7 @@ layout: post
 title: 'Urban Leather UR-13 Chaqueta de Caballer al 67.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zdsNJRQmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zdsNJRQmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zdsNJRQmL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en Samsung Galaxy J6 - Smartphone de 5.6"  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NE3aWr1OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NE3aWr1OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NE3aWr1OL._SL200_.jpg' ]
 comments: true
 category: ofertas

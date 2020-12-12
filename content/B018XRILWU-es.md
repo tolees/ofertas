@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.59 % en Columbia St. Anthony Women s Glove Guant'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f4QNk%2BioL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51f4QNk%2BioL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f4QNk%2BioL._SL200_.jpg' ]
 comments: true
 category: ofertas

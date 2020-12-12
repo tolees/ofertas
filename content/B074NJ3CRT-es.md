@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop!- Disney Figura de Vinilo Snow al 34.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zWad6nYWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zWad6nYWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zWad6nYWL._SL200_.jpg' ]
 comments: true
 category: ofertas

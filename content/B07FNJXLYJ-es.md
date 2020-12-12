@@ -3,6 +3,7 @@ layout: post
 title: 'AmazonBasics - Maleta rígida «hardside»  al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412E%2BXOnqUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412E%2BXOnqUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412E%2BXOnqUL._SL200_.jpg' ]
 comments: true
 category: ofertas

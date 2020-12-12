@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.89 % en The North Face Open Gate Light  Sudadera'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CtDxa05fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CtDxa05fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CtDxa05fL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'GORE WEAR M Manguitos unisex  Talla: M-L al 42.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Cg7WKd%2BRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cg7WKd%2BRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Cg7WKd%2BRL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jornico Shirt Org  Camisa p al 60.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51A-Gf1R5DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51A-Gf1R5DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51A-Gf1R5DL._SL200_.jpg' ]
 comments: true
 category: ofertas

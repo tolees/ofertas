@@ -3,6 +3,7 @@ layout: post
 title: 'Geographical Norway Chaqueta Negro ES 40 al 86.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KmCSrNlYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KmCSrNlYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KmCSrNlYL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.80 % en Mizuno Ezrun LX  Zapatillas para Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cV2I4-6rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cV2I4-6rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cV2I4-6rL._SL200_.jpg' ]
 comments: true
 category: ofertas

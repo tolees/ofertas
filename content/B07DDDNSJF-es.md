@@ -3,6 +3,7 @@ layout: post
 title: 'Mini Auricular Bluetooth  4.1 Auricular  al 70.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PGua7X7nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PGua7X7nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PGua7X7nL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'ELINKUME® LED cadena ligera con 20 bolas al 44.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wMUq%2B5ZaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wMUq%2B5ZaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wMUq%2B5ZaL._SL200_.jpg' ]
 comments: true
 category: ofertas

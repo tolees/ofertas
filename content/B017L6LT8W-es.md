@@ -3,6 +3,7 @@ layout: post
 title: 'Panter 447021700 - FRAGUA LINK S3 NEGRO  al 36.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HSd4Tl-8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HSd4Tl-8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HSd4Tl-8L._SL200_.jpg' ]
 comments: true
 category: ofertas

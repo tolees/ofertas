@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.51 % en perfk Reproductor de MP3 Altavoz Grabaci'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sGriRnrxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sGriRnrxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sGriRnrxL._SL200_.jpg' ]
 comments: true
 category: ofertas

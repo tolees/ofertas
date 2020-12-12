@@ -3,6 +3,7 @@ layout: post
 title: 'Anker Eufy by Anker - Robovac 11  T21023 al 34.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vKW5cyoYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vKW5cyoYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vKW5cyoYL._SL200_.jpg' ]
 comments: true
 category: ofertas

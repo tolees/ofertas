@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.15 % en Desigual Ginko 2000 Tops de Manga Larga '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zatb3zDcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zatb3zDcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zatb3zDcL._SL200_.jpg' ]
 comments: true
 category: ofertas

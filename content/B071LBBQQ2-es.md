@@ -3,6 +3,7 @@ layout: post
 title: 'Asics T7E3N4149  Zapatillas de Running p al 38.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513fVLlcxUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513fVLlcxUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513fVLlcxUL._SL200_.jpg' ]
 comments: true
 category: ofertas

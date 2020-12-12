@@ -3,6 +3,7 @@ layout: post
 title: 'Omiera Adroit Facial  Cuerpo  Bikini y P al 37.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315l7BL2jfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315l7BL2jfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315l7BL2jfL._SL200_.jpg' ]
 comments: true
 category: ofertas

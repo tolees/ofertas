@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.80 % en Verbatim Store  n  Go - Memoria USB de 6'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EaWXex9fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EaWXex9fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EaWXex9fL._SL200_.jpg' ]
 comments: true
 category: ofertas

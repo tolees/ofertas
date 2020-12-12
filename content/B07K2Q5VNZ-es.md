@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Baseball Striped Trousers  al 66.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DQqs4UqVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DQqs4UqVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DQqs4UqVL._SL200_.jpg' ]
 comments: true
 category: ofertas

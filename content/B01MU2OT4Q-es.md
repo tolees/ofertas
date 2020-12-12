@@ -3,6 +3,7 @@ layout: post
 title: 'Rieker 71730  Botas para Mujer  Gris  Ma al 72.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IbpX3VtDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IbpX3VtDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IbpX3VtDL._SL200_.jpg' ]
 comments: true
 category: ofertas

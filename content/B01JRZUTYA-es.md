@@ -3,6 +3,7 @@ layout: post
 title: 'Krups Lattespress QF Die Cast EA82FD - C al 51.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Dx6yEZBrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Dx6yEZBrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Dx6yEZBrL._SL200_.jpg' ]
 comments: true
 category: ofertas

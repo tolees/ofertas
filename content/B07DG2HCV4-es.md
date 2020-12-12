@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Amplified tee Camiseta  Hombre  Ver al 42.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vqWxI98HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vqWxI98HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vqWxI98HL._SL200_.jpg' ]
 comments: true
 category: ofertas

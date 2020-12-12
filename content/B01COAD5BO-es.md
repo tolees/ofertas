@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.53 % en Under Armour Fly by Capri Pantalones  Wo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZvQSbgpvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZvQSbgpvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZvQSbgpvL._SL200_.jpg' ]
 comments: true
 category: ofertas

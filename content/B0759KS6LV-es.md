@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.44 % en Clarks Step Verve Lo  Zapatillas para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SC66675sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SC66675sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SC66675sL._SL200_.jpg' ]
 comments: true
 category: ofertas

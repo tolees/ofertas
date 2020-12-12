@@ -3,6 +3,7 @@ layout: post
 title: 'BQ Aquaris V Plus - Smartphone de 5.5"   al 36.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l43bOSWpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l43bOSWpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l43bOSWpL._SL200_.jpg' ]
 comments: true
 category: ofertas

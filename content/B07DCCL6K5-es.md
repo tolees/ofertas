@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.22 % en Puma SHOKU Non-Knit BT  Zapatillas Unise'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WH-0xuLWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WH-0xuLWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WH-0xuLWL._SL200_.jpg' ]
 comments: true
 category: ofertas

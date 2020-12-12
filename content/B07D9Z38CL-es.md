@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.23 % en Puma Smash Platform Vt  Zapatillas para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412fyFQhRmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412fyFQhRmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412fyFQhRmL._SL200_.jpg' ]
 comments: true
 category: ofertas

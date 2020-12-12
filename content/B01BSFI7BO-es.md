@@ -3,6 +3,7 @@ layout: post
 title: 'Baul Moto Universal 35L con Llaves y Sop al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N0LZYX7gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51N0LZYX7gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N0LZYX7gL._SL200_.jpg' ]
 comments: true
 category: ofertas

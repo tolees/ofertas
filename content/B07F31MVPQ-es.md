@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Colorblock tee  Camiseta para Hombr al 28.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u5kE1zGcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31u5kE1zGcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u5kE1zGcL._SL200_.jpg' ]
 comments: true
 category: ofertas

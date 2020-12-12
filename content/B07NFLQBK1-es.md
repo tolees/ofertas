@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver Reloj Analógico para Mujer de C al 36.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gLsbad05L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gLsbad05L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gLsbad05L._SL200_.jpg' ]
 comments: true
 category: ofertas

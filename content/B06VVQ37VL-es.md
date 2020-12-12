@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Jack Bolso Bandolera  20 cm   al 27.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WxNGNxGxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WxNGNxGxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WxNGNxGxL._SL200_.jpg' ]
 comments: true
 category: ofertas

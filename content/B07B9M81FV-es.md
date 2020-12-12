@@ -3,6 +3,7 @@ layout: post
 title: 'Tous Shopping Teatime  Shopper para Muje al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iwyA3cmUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iwyA3cmUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iwyA3cmUL._SL200_.jpg' ]
 comments: true
 category: ofertas

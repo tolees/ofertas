@@ -3,6 +3,7 @@ layout: post
 title: 'Cámara IP  AFBEST 1080P Cámaras de segur al 57.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P4peEJXRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P4peEJXRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P4peEJXRL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.10 % en Calvin Klein - Beauty - Eau de parfum pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ifgdmIQhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ifgdmIQhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ifgdmIQhL._SL200_.jpg' ]
 comments: true
 category: ofertas

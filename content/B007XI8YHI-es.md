@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.52 % en Wrangler Arizona  Jeans  Hombre  Negro  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310Uc9mJTVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310Uc9mJTVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310Uc9mJTVL._SL200_.jpg' ]
 comments: true
 category: ofertas

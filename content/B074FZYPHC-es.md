@@ -3,6 +3,7 @@ layout: post
 title: 'Pendientes de mujer finos de 18 K en oro al 48.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419xd3tx5hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419xd3tx5hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419xd3tx5hL._SL200_.jpg' ]
 comments: true
 category: ofertas

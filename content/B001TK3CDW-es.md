@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Casio para Hombre AQW-101-1AVER al 35.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XZgr-gLGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XZgr-gLGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XZgr-gLGL._SL200_.jpg' ]
 comments: true
 category: ofertas

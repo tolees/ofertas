@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Adizero Tempo  Zapatillas de Runn al 48.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S0rIWhm-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51S0rIWhm-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S0rIWhm-L._SL200_.jpg' ]
 comments: true
 category: ofertas

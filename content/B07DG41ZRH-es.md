@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.50 % en Carpeta para documentos A4 1617 EU carpe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pN7-Z6zrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pN7-Z6zrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pN7-Z6zrL._SL200_.jpg' ]
 comments: true
 category: ofertas

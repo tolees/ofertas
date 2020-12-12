@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 99.96 % en Godagoda - Pulsera magnética con 2 poten'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61OvV5SINkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61OvV5SINkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61OvV5SINkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Trolls 2100001571 Mochila Infantil al 43.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41djFOw%2BVgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41djFOw%2BVgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41djFOw%2BVgL._SL200_.jpg' ]
 comments: true
 category: ofertas

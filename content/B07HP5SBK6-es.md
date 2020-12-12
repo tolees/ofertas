@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.32 % en Emma & Giovanni - Pullover - Top - Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vW1A04uIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vW1A04uIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vW1A04uIL._SL200_.jpg' ]
 comments: true
 category: ofertas

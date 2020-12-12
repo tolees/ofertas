@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.38 % en Ted Baker Rhaily  Sandalias de Punta Des'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uZk0bKQCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uZk0bKQCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uZk0bKQCL._SL200_.jpg' ]
 comments: true
 category: ofertas

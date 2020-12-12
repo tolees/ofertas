@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley Brush Set PRM tee SS Camisetas  H al 47.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411h1M8y8ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411h1M8y8ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411h1M8y8ML._SL200_.jpg' ]
 comments: true
 category: ofertas

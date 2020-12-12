@@ -3,6 +3,7 @@ layout: post
 title: 'Oflamn Bolsa de Viaje Bolsa Fin de Seman al 81.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cquWmh-wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cquWmh-wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cquWmh-wL._SL200_.jpg' ]
 comments: true
 category: ofertas

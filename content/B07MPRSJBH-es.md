@@ -3,6 +3,7 @@ layout: post
 title: 'BEISK Soporte Móvil Coche Magnético Sopo al 63.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tr3Dwpl6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tr3Dwpl6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tr3Dwpl6L._SL200_.jpg' ]
 comments: true
 category: ofertas

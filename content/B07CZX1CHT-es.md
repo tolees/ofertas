@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Trunk Structure Bóxer  Azul  Medium al 56.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yI%2BUzFStL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yI%2BUzFStL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yI%2BUzFStL._SL200_.jpg' ]
 comments: true
 category: ofertas

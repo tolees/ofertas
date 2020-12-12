@@ -3,6 +3,7 @@ layout: post
 title: 'LELO SMART Wand Mediano Vibrador de Cuer al 58.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kVtFh%2BRBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kVtFh%2BRBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kVtFh%2BRBL._SL200_.jpg' ]
 comments: true
 category: ofertas

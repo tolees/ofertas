@@ -3,6 +3,7 @@ layout: post
 title: 'Philips SHL3265BL/00 - Auriculares de di al 45.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BZpxByP7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BZpxByP7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BZpxByP7L._SL200_.jpg' ]
 comments: true
 category: ofertas

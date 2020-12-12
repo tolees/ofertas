@@ -3,6 +3,7 @@ layout: post
 title: 'morpilot Molinillo de Café Eléctrico  Mo al 29.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q7fzHFGCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q7fzHFGCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q7fzHFGCL._SL200_.jpg' ]
 comments: true
 category: ofertas

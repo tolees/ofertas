@@ -3,6 +3,7 @@ layout: post
 title: 'Alice s Garden - Pareja de 2 tumbonas de al 31.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yCqrPOPJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yCqrPOPJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yCqrPOPJL._SL200_.jpg' ]
 comments: true
 category: ofertas

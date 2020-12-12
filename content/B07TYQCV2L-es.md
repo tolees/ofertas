@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.76 % en Funko- Pop Marvel: Fantastic Four-The Th'
 date: 2020-12-11 22:14:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KXV3ufjnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KXV3ufjnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KXV3ufjnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -25,8 +26,8 @@ Tienes [Funko- Pop Marvel: Fantastic Four-The Thing Collectible Toy  Multicolor 
 Características principales:
 
 - Figure stands 9cm and comes in a window display box
-- From fantastic four, the thing, as a stylized pop vinyl from funko
 - Check out the other disney marvel figures from funko collect them all
+- From fantastic four, the thing, as a stylized pop vinyl from funko
 - Funko pop is the 2018 toy of the year and peoples choice award winner
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TYQCV2L/?tag=tolees-21)

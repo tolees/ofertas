@@ -3,6 +3,7 @@ layout: post
 title: 'RED WAGON Conjunto de Pijama de Pantalón al 69.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GRpQ9bXkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GRpQ9bXkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GRpQ9bXkL._SL200_.jpg' ]
 comments: true
 category: ofertas

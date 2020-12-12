@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.78 % en Laura Vita - 2613  Shoppers y bolsos de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518RTo7hCYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518RTo7hCYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518RTo7hCYL._SL200_.jpg' ]
 comments: true
 category: ofertas

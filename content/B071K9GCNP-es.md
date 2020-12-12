@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Obane Chaqueta  Azul  Dark Blue 404 al 75.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aSXlnhnqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aSXlnhnqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aSXlnhnqL._SL200_.jpg' ]
 comments: true
 category: ofertas

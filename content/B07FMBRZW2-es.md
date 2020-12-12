@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.15 % en Only Onlsantana L/s Block Pullover Knt  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418vJoQMZ-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418vJoQMZ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418vJoQMZ-L._SL200_.jpg' ]
 comments: true
 category: ofertas

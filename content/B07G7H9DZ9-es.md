@@ -3,6 +3,7 @@ layout: post
 title: 'adidas COURT70S  Zapatillas de Deporte p al 58.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pOzRqxe3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pOzRqxe3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pOzRqxe3L._SL200_.jpg' ]
 comments: true
 category: ofertas

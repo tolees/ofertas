@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.09 % en adidas Vs Coneo Qt  Zapatillas de Tenis '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mEDpeQPfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mEDpeQPfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mEDpeQPfL._SL200_.jpg' ]
 comments: true
 category: ofertas

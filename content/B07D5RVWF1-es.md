@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS Logo Pants  Mujer  Gris  Light  al 52.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mCpDw-OmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mCpDw-OmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mCpDw-OmL._SL200_.jpg' ]
 comments: true
 category: ofertas

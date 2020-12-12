@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.13 % en The North Face S/S Box tee Camiseta  Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bqLqNKgxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bqLqNKgxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bqLqNKgxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.14 % en Neutrogena Crema Anti-Edad Para Manos  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eEz25NqsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eEz25NqsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eEz25NqsL._SL200_.jpg' ]
 comments: true
 category: ofertas

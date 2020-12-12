@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.16 % en Colgante cromo con pantalla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BSjKyWXYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BSjKyWXYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BSjKyWXYL._SL200_.jpg' ]
 comments: true
 category: ofertas

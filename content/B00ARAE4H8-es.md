@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.70 % en BIC Velleda Pocket rotuladores de Pizarr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512MP4njeqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512MP4njeqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512MP4njeqL._SL200_.jpg' ]
 comments: true
 category: ofertas

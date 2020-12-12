@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.18 % en Papillon 8130101 Barbacoa yakama 53x32 c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QzxT%2BE7RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QzxT%2BE7RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QzxT%2BE7RL._SL200_.jpg' ]
 comments: true
 category: ofertas

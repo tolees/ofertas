@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.91 % en Columbia Cascade Pass Waterproof  Botas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419nRs-5zHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419nRs-5zHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419nRs-5zHL._SL200_.jpg' ]
 comments: true
 category: ofertas

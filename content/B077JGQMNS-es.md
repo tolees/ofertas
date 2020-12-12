@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Lidward Parka Chaqueta  Hombre  V al 50.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uhRAEdwEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uhRAEdwEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uhRAEdwEL._SL200_.jpg' ]
 comments: true
 category: ofertas

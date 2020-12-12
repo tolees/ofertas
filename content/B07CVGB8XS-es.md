@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.35 % en Skechers Go Walk 4-Privilege  Zapatillas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4176dm8JHzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4176dm8JHzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4176dm8JHzL._SL200_.jpg' ]
 comments: true
 category: ofertas

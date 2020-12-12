@@ -3,6 +3,7 @@ layout: post
 title: 'TECEVO S220 Wireless Bluetooth Speaker C al 54.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MPLV0xtFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MPLV0xtFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MPLV0xtFL._SL200_.jpg' ]
 comments: true
 category: ofertas

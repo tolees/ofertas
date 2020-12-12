@@ -3,6 +3,7 @@ layout: post
 title: 'Sauza - Tequila Silver  0.7 l al 51.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31N4VhNKbFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31N4VhNKbFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31N4VhNKbFL._SL200_.jpg' ]
 comments: true
 category: ofertas

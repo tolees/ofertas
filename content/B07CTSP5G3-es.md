@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.98 % en Puma Ignite Flash Evoknit Wn s  Zapatill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411jnkMOEfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411jnkMOEfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411jnkMOEfL._SL200_.jpg' ]
 comments: true
 category: ofertas

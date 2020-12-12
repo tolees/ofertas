@@ -3,6 +3,7 @@ layout: post
 title: 'Summer Infant Grow With Me - Barrera de  al 25.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WxzMt-vrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WxzMt-vrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WxzMt-vrL._SL200_.jpg' ]
 comments: true
 category: ofertas

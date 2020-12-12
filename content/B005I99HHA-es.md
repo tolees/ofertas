@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Classic Nylon  Zapatillas de Trai al 48.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vMCdL5GRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vMCdL5GRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vMCdL5GRL._SL200_.jpg' ]
 comments: true
 category: ofertas

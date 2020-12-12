@@ -3,6 +3,7 @@ layout: post
 title: 'NACATIN Pala Plegable Militar  15 en 1 M al 37.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZhPX9V76L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZhPX9V76L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZhPX9V76L._SL200_.jpg' ]
 comments: true
 category: ofertas

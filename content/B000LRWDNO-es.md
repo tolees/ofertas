@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.10 % en Small Foot Company 7998 - Móvil para Cun'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JGeyup3mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JGeyup3mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JGeyup3mL._SL200_.jpg' ]
 comments: true
 category: ofertas

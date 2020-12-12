@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Speed 500 Ignite - Zapatillas de ru al 68.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ku6KRFmHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ku6KRFmHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ku6KRFmHL._SL200_.jpg' ]
 comments: true
 category: ofertas

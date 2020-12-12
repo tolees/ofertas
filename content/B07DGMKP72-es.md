@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Heathrow Prestige  Zapatillas d al 61.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lV6k488AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lV6k488AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lV6k488AL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.29 % en Juegos de Bolos Exterior Interior Juego '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SVy%2BgaBhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SVy%2BgaBhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SVy%2BgaBhL._SL200_.jpg' ]
 comments: true
 category: ofertas

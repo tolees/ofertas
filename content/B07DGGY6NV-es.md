@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Heathrow TX Se  Zapatillas de S al 82.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZJa5uN2PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZJa5uN2PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZJa5uN2PL._SL200_.jpg' ]
 comments: true
 category: ofertas

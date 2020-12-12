@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en Sudadera Stranger Things TV Mejor Amiga '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qTqoFEIyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qTqoFEIyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qTqoFEIyL._SL200_.jpg' ]
 comments: true
 category: ofertas

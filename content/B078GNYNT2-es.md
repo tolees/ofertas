@@ -3,6 +3,7 @@ layout: post
 title: 'Trucco TT16AQ1  Jersey para Mujer   Blan al 40.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yeMhAfrLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yeMhAfrLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yeMhAfrLL._SL200_.jpg' ]
 comments: true
 category: ofertas

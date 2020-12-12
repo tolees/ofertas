@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.82 % en Only Onlyucca L/s Pullover Knt suéter   '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N2yA3x46L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51N2yA3x46L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N2yA3x46L._SL200_.jpg' ]
 comments: true
 category: ofertas

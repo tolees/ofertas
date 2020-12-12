@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.51 % en Shock Absorber Ultimate Run Bra Padded  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yLOOGX9mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yLOOGX9mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yLOOGX9mL._SL200_.jpg' ]
 comments: true
 category: ofertas

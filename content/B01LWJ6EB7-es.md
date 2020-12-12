@@ -3,6 +3,7 @@ layout: post
 title: 'Philips SHB4405BK/00 - Auriculares inála al 60.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TCeTKmp-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TCeTKmp-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TCeTKmp-L._SL200_.jpg' ]
 comments: true
 category: ofertas

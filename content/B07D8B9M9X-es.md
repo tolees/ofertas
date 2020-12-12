@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.06 % en Munich Massana Sky  Zapatillas Unisex Ad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WMC8FUPHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WMC8FUPHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WMC8FUPHL._SL200_.jpg' ]
 comments: true
 category: ofertas

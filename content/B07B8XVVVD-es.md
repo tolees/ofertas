@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.56 % en POWER GUIDANCE Bandas de Resistencia elá'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41weJ23AX5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41weJ23AX5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41weJ23AX5L._SL200_.jpg' ]
 comments: true
 category: ofertas

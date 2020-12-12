@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Bluetooth  KOOHO E1 Bluetoot al 66.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qn4Dg73DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qn4Dg73DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qn4Dg73DL._SL200_.jpg' ]
 comments: true
 category: ofertas

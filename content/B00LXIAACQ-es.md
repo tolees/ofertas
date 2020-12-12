@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.45 % en Calvin Klein Reloj Analógico para Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310iT0k60JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310iT0k60JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310iT0k60JL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.79 % en Soundance 12W Altavoz Bluetooth estéreo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61wSygaeFpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61wSygaeFpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61wSygaeFpL._SL200_.jpg' ]
 comments: true
 category: ofertas

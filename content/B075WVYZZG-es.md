@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.85 % en Akokie Coche de Carreras Flexible  Jugue'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AVg0iPPnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AVg0iPPnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AVg0iPPnL._SL200_.jpg' ]
 comments: true
 category: ofertas

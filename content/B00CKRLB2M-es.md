@@ -3,6 +3,7 @@ layout: post
 title: 'Milestone Camping Cama de campaña Plegab al 40.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CY%2Begs1ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CY%2Begs1ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CY%2Begs1ML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.95 % en Saco Portabebé Universal Interestacional'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P2NxTJ9WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P2NxTJ9WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P2NxTJ9WL._SL200_.jpg' ]
 comments: true
 category: ofertas

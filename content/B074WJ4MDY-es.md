@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en MERAKI Jersey de Algodón Hombre Cuello P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VV2G7hIqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VV2G7hIqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VV2G7hIqL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 410  Zapatillas para Mujer   al 53.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iy4C3sVJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iy4C3sVJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iy4C3sVJL._SL200_.jpg' ]
 comments: true
 category: ofertas

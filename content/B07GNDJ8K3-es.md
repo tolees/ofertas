@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.10 % en FunCee Auriculares Bluetooth 5.0 - imper'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mrGp5N5UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mrGp5N5UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mrGp5N5UL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Iris & Lilly Braguita Brasileña con Enca al 31.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512l0yfcBDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512l0yfcBDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512l0yfcBDL._SL200_.jpg' ]
 comments: true
 category: ofertas

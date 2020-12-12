@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Eastpak Buddy Bolso Bandolera  18 cm  0.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Wqelm8XJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Wqelm8XJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Wqelm8XJL._SL200_.jpg' ]
 comments: true
 category: ofertas

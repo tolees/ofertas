@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.67 % en Aspirador de Mano 【2018 New】Holife Aspir'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uxs7D0%2B1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uxs7D0%2B1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uxs7D0%2B1L._SL200_.jpg' ]
 comments: true
 category: ofertas

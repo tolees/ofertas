@@ -3,6 +3,7 @@ layout: post
 title: 'Michael Kors - Ava  Bolsos maletín Mujer al 42.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ibgHE6YbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ibgHE6YbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ibgHE6YbL._SL200_.jpg' ]
 comments: true
 category: ofertas

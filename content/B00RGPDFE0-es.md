@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.11 % en Sennheiser CX 3.00 - Auriculares in-Ear '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Ff18CPsUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21Ff18CPsUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Ff18CPsUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.40 % en Reebok DA1261 Junior Motion TR BP Mochil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HIZmh0VXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HIZmh0VXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HIZmh0VXL._SL200_.jpg' ]
 comments: true
 category: ofertas

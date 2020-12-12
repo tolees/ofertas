@@ -3,6 +3,7 @@ layout: post
 title: 'King Animal World 9in1 Puzzle Pack 12pie al 42.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mIMhAtBkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mIMhAtBkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mIMhAtBkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Roy Mochila Escolar 42 cm  22 al 43.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gklv7MO2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gklv7MO2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gklv7MO2L._SL200_.jpg' ]
 comments: true
 category: ofertas

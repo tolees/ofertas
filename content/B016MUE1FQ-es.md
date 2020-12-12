@@ -3,6 +3,7 @@ layout: post
 title: 'Ariete 5578 Centro DE Planchado STIROMAT al 27.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H1qoZF3qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51H1qoZF3qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H1qoZF3qL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.92 % en Skechers Uno  Zapatillas para Hombre  Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d917EyalL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d917EyalL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d917EyalL._SL200_.jpg' ]
 comments: true
 category: ofertas

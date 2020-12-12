@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.07 % en Pepe Jeans Dave JR PB300948  Blusa para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NZ5PS0mKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NZ5PS0mKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NZ5PS0mKL._SL200_.jpg' ]
 comments: true
 category: ofertas

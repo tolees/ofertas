@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Dyv Straight Deep R T Wmn S/s al 48.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dQDXuamML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dQDXuamML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dQDXuamML._SL200_.jpg' ]
 comments: true
 category: ofertas

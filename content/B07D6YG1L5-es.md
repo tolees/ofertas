@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Gazelle S&T  Zapatillas para Homb al 69.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mtXixdqPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mtXixdqPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mtXixdqPL._SL200_.jpg' ]
 comments: true
 category: ofertas

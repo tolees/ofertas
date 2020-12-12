@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Salomon Ellipse 2 LTR W  Zapatillas de S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e86PLGMFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51e86PLGMFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e86PLGMFL._SL200_.jpg' ]
 comments: true
 category: ofertas

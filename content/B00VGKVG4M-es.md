@@ -3,6 +3,7 @@ layout: post
 title: 'Blend Cirrus Vaqueros  Middle Blue 76201 al 53.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410n7FX%2BCiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410n7FX%2BCiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410n7FX%2BCiL._SL200_.jpg' ]
 comments: true
 category: ofertas

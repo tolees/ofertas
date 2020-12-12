@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.08 % en Puma One 4 Syn FG Jr  Zapatillas de Fútb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413z46iIcXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413z46iIcXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413z46iIcXL._SL200_.jpg' ]
 comments: true
 category: ofertas

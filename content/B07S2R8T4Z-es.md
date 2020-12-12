@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.35 % en URAQT Disfraces de Carnaval Lady Bug  Di'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NQeT86WmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NQeT86WmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NQeT86WmL._SL200_.jpg' ]
 comments: true
 category: ofertas

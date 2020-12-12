@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.59 % en Columbia Hombre Chaqueta impermeable  Fo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TQdC3bUbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TQdC3bUbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TQdC3bUbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.14 % en Papillon 8042830 Hamaca Sillon Colgante '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RSmlAYz9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RSmlAYz9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RSmlAYz9L._SL200_.jpg' ]
 comments: true
 category: ofertas

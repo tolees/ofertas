@@ -3,6 +3,7 @@ layout: post
 title: 'Xsories MTRP2 Bend  N  Twist - Trípode F al 50.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jcGFXsTiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jcGFXsTiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jcGFXsTiL._SL200_.jpg' ]
 comments: true
 category: ofertas

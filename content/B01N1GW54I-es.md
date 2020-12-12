@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Carson Runner Knit Eea  Zapatillas  al 65.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nEUpOfRtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nEUpOfRtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nEUpOfRtL._SL200_.jpg' ]
 comments: true
 category: ofertas

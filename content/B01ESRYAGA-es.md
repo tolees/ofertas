@@ -3,6 +3,7 @@ layout: post
 title: 'ENKEEO Juego de 5 Bandas Elásticas Resis al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dfe5l8vbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dfe5l8vbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dfe5l8vbL._SL200_.jpg' ]
 comments: true
 category: ofertas

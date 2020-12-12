@@ -3,6 +3,7 @@ layout: post
 title: 'Jana 8-8-25503-21  Botines para Mujer  M al 76.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VpZZUhYrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VpZZUhYrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VpZZUhYrL._SL200_.jpg' ]
 comments: true
 category: ofertas

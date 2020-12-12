@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.64 % en JACK & JONES Jjimike Jjicon Bl 785 Aw24 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413EmaDoFXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413EmaDoFXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413EmaDoFXL._SL200_.jpg' ]
 comments: true
 category: ofertas

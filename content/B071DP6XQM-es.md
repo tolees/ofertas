@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcowind Knit Crew Neck Noos al 46.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AvAVJt5uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AvAVJt5uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AvAVJt5uL._SL200_.jpg' ]
 comments: true
 category: ofertas

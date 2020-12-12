@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.87 % en Marco Tozzi 2-2-25109-28 519  Botas Cort'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v9VykED6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v9VykED6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v9VykED6L._SL200_.jpg' ]
 comments: true
 category: ofertas

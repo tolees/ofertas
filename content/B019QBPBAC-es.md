@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Linterna 717679916  0.3 W  Negro al 62.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IzMU9F0oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IzMU9F0oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IzMU9F0oL._SL200_.jpg' ]
 comments: true
 category: ofertas

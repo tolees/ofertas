@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 22436  Zapatos de Tacón para Muj al 71.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RxUwfi1VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RxUwfi1VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RxUwfi1VL._SL200_.jpg' ]
 comments: true
 category: ofertas

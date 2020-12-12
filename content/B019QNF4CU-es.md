@@ -3,6 +3,7 @@ layout: post
 title: 'Crema Hidratante Facial LUMIÈRE - Crema  al 42.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FVLm%2Bhd3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FVLm%2Bhd3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FVLm%2Bhd3L._SL200_.jpg' ]
 comments: true
 category: ofertas

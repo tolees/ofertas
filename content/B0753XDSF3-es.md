@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.03 % en The North Face S/S Camiseta Flex  Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EmZTrmkWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EmZTrmkWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EmZTrmkWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Flex Appeal 2.0-Insights  Zapat al 58.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512i1nXRS8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512i1nXRS8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512i1nXRS8L._SL200_.jpg' ]
 comments: true
 category: ofertas

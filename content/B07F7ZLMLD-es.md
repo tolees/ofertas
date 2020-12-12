@@ -3,6 +3,7 @@ layout: post
 title: 'Kivors 3G Tablet de 10.1 Pulgadas IPS HD al 44.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OlDx-k3zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OlDx-k3zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OlDx-k3zL._SL200_.jpg' ]
 comments: true
 category: ofertas

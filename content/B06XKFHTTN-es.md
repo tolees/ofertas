@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.84 % en BOSS Hugo 0888/S IR 0T8 Gafas de Sol  Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Us6KyLJKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Us6KyLJKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Us6KyLJKL._SL200_.jpg' ]
 comments: true
 category: ofertas

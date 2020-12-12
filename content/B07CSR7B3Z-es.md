@@ -3,6 +3,7 @@ layout: post
 title: ' Elzle Cargador Solar 25000mAh Cargador al 32.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w5lyj8axL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51w5lyj8axL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w5lyj8axL._SL200_.jpg' ]
 comments: true
 category: ofertas

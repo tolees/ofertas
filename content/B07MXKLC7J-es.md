@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Logo Hoodie  Hombre  Rojo  Bikin al 47.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D5AfCsB4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D5AfCsB4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D5AfCsB4L._SL200_.jpg' ]
 comments: true
 category: ofertas

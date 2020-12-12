@@ -3,6 +3,7 @@ layout: post
 title: 'The Evil Within al 28.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TcMTUJ0SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TcMTUJ0SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TcMTUJ0SL._SL200_.jpg' ]
 comments: true
 category: ofertas

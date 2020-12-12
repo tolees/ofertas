@@ -3,6 +3,7 @@ layout: post
 title: 'Sharon SachsenRad E-Racing Bike R6  Moto al 46.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SBZxdQZgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SBZxdQZgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SBZxdQZgL._SL200_.jpg' ]
 comments: true
 category: ofertas

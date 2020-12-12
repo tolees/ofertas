@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Vapor 12 Academy MG  Zapatillas de  al 55.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31M2p0OpeNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31M2p0OpeNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31M2p0OpeNL._SL200_.jpg' ]
 comments: true
 category: ofertas

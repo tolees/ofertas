@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas OI17 2040CVARIOS Pantal al 74.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DJ6tq3eCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DJ6tq3eCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DJ6tq3eCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Vest_Lincoln  Vestido Niñas   Navy 5000  al 50.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QDbbJUlOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QDbbJUlOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QDbbJUlOL._SL200_.jpg' ]
 comments: true
 category: ofertas

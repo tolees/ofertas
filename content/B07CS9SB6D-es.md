@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Gracy Sudadera  Marfil  Mouss al 76.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mmsUS4-%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mmsUS4-%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mmsUS4-%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

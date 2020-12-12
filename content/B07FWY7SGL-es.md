@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 108cc1f018 Blusa  Negro  B al 59.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zGT%2BVEBvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zGT%2BVEBvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zGT%2BVEBvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Ward Slip-on  Zapatillas Unisex Niñ al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417QOL5tcZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417QOL5tcZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417QOL5tcZL._SL200_.jpg' ]
 comments: true
 category: ofertas

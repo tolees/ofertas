@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.25 % en L Oréal Professionnel  Acondicionador de'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

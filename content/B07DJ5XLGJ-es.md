@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.78 % en United Colors of Benetton Sweater L/s su'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51E5bQY1TuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51E5bQY1TuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51E5bQY1TuL._SL200_.jpg' ]
 comments: true
 category: ofertas

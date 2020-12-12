@@ -3,6 +3,7 @@ layout: post
 title: 'Pedro del Hierro 3123065  Jersey Para Ho al 75.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513NbngqmzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513NbngqmzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513NbngqmzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3BA Basica Abierta Capucha 3 al 78.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4192-V%2BMxOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4192-V%2BMxOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4192-V%2BMxOL._SL200_.jpg' ]
 comments: true
 category: ofertas

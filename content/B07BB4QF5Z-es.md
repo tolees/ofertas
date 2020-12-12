@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Equipment TNF Mochila Bor al 49.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tSq2TfHEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tSq2TfHEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tSq2TfHEL._SL200_.jpg' ]
 comments: true
 category: ofertas

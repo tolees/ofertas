@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Serie 3000 HC3510/85 - Pack Cort al 34.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411d170CXlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411d170CXlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411d170CXlL._SL200_.jpg' ]
 comments: true
 category: ofertas

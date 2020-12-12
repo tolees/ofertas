@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Sudadera  agile hz mid  mezcla d al 34.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uPvzQHj8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uPvzQHj8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uPvzQHj8L._SL200_.jpg' ]
 comments: true
 category: ofertas

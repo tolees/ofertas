@@ -3,6 +3,7 @@ layout: post
 title: 'Raqueta badminton | Victor V-3100 | 93 g al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GZSzVxrxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GZSzVxrxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GZSzVxrxL._SL200_.jpg' ]
 comments: true
 category: ofertas

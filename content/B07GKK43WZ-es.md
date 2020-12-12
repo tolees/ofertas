@@ -3,6 +3,7 @@ layout: post
 title: 'M MEGAWHEELS Patinete electrico  6.5 Pul al 43.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kZ9xbwkXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kZ9xbwkXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kZ9xbwkXL._SL200_.jpg' ]
 comments: true
 category: ofertas

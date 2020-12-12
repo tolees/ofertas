@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.55 % en Desigual Vest_olaya  Vestido para Bebés '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51q-okvxC5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51q-okvxC5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51q-okvxC5L._SL200_.jpg' ]
 comments: true
 category: ofertas

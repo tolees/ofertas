@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.32 % en Columbia On The Trail Interchange Jacket'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wlCi6dkDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wlCi6dkDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wlCi6dkDL._SL200_.jpg' ]
 comments: true
 category: ofertas

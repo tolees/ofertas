@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.81 % en Crocs Swiftwater Sandal Men  Zapatos de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tS7GPOeyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tS7GPOeyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tS7GPOeyL._SL200_.jpg' ]
 comments: true
 category: ofertas

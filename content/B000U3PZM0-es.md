@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.74 % en Bahco 319 ARCO DE SIERRA PARA METALES'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EdnDDzbKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EdnDDzbKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EdnDDzbKL._SL200_.jpg' ]
 comments: true
 category: ofertas

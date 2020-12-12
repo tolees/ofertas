@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.67 % en Springfield 8232318  Chaqueta Deportiva '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OqUgK9NzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OqUgK9NzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OqUgK9NzL._SL200_.jpg' ]
 comments: true
 category: ofertas

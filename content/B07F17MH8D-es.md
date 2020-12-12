@@ -3,6 +3,7 @@ layout: post
 title: 'AmazonBasics - Bridas de nailon  varias  al 33.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JQXdYH%2BQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JQXdYH%2BQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JQXdYH%2BQL._SL200_.jpg' ]
 comments: true
 category: ofertas

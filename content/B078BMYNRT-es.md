@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.06 % en Superga 2790-ACOTW Linea UP and Down  Za'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OUXWe48OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OUXWe48OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OUXWe48OL._SL200_.jpg' ]
 comments: true
 category: ofertas

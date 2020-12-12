@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.73 % en Crocs Classic Lined Clog  Zuecos Unisex '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d2r7shH9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d2r7shH9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d2r7shH9L._SL200_.jpg' ]
 comments: true
 category: ofertas

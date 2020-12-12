@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.37 % en Art 1301 Grass White-Jeans/I Explore  Sa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yhEbowOgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yhEbowOgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yhEbowOgL._SL200_.jpg' ]
 comments: true
 category: ofertas

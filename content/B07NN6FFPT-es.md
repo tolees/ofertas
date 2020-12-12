@@ -3,6 +3,7 @@ layout: post
 title: 'Camara Acuatica Sumergible Full HD 1080P al 40.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lp85khjIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lp85khjIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lp85khjIL._SL200_.jpg' ]
 comments: true
 category: ofertas

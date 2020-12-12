@@ -3,6 +3,7 @@ layout: post
 title: 'Puzzles Educa - Capilla Sixtina  18000 p al 50.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61T1Z9IQFbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61T1Z9IQFbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61T1Z9IQFbL._SL200_.jpg' ]
 comments: true
 category: ofertas

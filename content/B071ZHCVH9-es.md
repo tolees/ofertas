@@ -3,6 +3,7 @@ layout: post
 title: 'SPC Sphere - Altavoces portátiles  6 W   al 36.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pf9H3YgzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pf9H3YgzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pf9H3YgzL._SL200_.jpg' ]
 comments: true
 category: ofertas

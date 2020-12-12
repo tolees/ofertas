@@ -3,6 +3,7 @@ layout: post
 title: 'INFINIKIT Haven Librero alto  Blanco  79 al 42.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NIyjGBtuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NIyjGBtuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NIyjGBtuL._SL200_.jpg' ]
 comments: true
 category: ofertas

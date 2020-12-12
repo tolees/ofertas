@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.33 % en Vans Otw Classic Camiseta  Gris  Heather'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31akaIdg2vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31akaIdg2vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31akaIdg2vL._SL200_.jpg' ]
 comments: true
 category: ofertas

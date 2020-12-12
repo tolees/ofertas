@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Reloj Análogo clásico para Mujer al 34.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PFgt%2Bu9VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PFgt%2Bu9VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PFgt%2Bu9VL._SL200_.jpg' ]
 comments: true
 category: ofertas

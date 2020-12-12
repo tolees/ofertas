@@ -3,6 +3,7 @@ layout: post
 title: 'find. Pantalón con Cintura de Fuelle par al 60.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ilNkLFtyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ilNkLFtyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ilNkLFtyL._SL200_.jpg' ]
 comments: true
 category: ofertas

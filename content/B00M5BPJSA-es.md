@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Air MAX Infuriate 2 Mid  Zapatos de al 65.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41McPRxkOlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41McPRxkOlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41McPRxkOlL._SL200_.jpg' ]
 comments: true
 category: ofertas

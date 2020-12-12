@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.70 % en Under Armour UA W Dash RN 2  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8TojjHaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8TojjHaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q8TojjHaL._SL200_.jpg' ]
 comments: true
 category: ofertas

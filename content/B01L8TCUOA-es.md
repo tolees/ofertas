@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.48 % en ibowin® 10.1 Pulgadas 1280x800 IPS Andro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vO4Aefc3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vO4Aefc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vO4Aefc3L._SL200_.jpg' ]
 comments: true
 category: ofertas

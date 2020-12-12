@@ -3,6 +3,7 @@ layout: post
 title: 'LANGRIA Manta Sirena de Cuerpo Entero co al 88.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jXy6px3PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jXy6px3PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jXy6px3PL._SL200_.jpg' ]
 comments: true
 category: ofertas

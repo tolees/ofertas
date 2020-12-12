@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Everyday Shorts  Hombre  High al 53.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31orZP8vMwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31orZP8vMwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31orZP8vMwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Hoidokly Adaptador a HDMI convertidor de al 48.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tn9T5E7VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tn9T5E7VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tn9T5E7VL._SL200_.jpg' ]
 comments: true
 category: ofertas

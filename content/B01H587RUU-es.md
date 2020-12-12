@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.16 % en Blend 20701422  Cárdigan para Hombre  Gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519-uqCSeiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519-uqCSeiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519-uqCSeiL._SL200_.jpg' ]
 comments: true
 category: ofertas

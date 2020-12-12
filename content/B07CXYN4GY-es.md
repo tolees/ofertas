@@ -3,6 +3,7 @@ layout: post
 title: 'Un Lugar Tranquilo  BD  [Blu-ray] al 52.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X9-WLijIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X9-WLijIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X9-WLijIL._SL200_.jpg' ]
 comments: true
 category: ofertas

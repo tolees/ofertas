@@ -3,6 +3,7 @@ layout: post
 title: 'Agatha Ruiz de la Prada 181938  Botines  al 66.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VjR6DBaOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VjR6DBaOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VjR6DBaOL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.59 % en 36 Rotuladores Pincel  Punta Suave Rotul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O%2Bc0AiYjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51O%2Bc0AiYjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O%2Bc0AiYjL._SL200_.jpg' ]
 comments: true
 category: ofertas

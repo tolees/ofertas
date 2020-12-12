@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.44 % en Millecroquette 20000 - Porcionadora de c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D72Lw3baL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D72Lw3baL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D72Lw3baL._SL200_.jpg' ]
 comments: true
 category: ofertas

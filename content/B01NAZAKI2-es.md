@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.00 % en Lee Luke - Vaqueros Hombre  Clean Black '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4145z6Bjl9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4145z6Bjl9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4145z6Bjl9L._SL200_.jpg' ]
 comments: true
 category: ofertas

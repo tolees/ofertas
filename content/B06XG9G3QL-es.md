@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.60 % en Scotch & Soda Ralston  Jeans Rectos para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wo66y2HBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wo66y2HBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wo66y2HBL._SL200_.jpg' ]
 comments: true
 category: ofertas

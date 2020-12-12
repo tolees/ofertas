@@ -3,6 +3,7 @@ layout: post
 title: 'Lucide 77468/01/36 - Lámpara de techo  m al 26.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31d3K0dg1PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31d3K0dg1PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31d3K0dg1PL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.46 % en Munich Massana  Zapatillas Unisex Adulto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BB9N1ObFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BB9N1ObFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BB9N1ObFL._SL200_.jpg' ]
 comments: true
 category: ofertas

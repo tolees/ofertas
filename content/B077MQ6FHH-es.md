@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Leadcat Suede  Zapatos de Playa y P al 47.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SCBicxs0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SCBicxs0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SCBicxs0L._SL200_.jpg' ]
 comments: true
 category: ofertas

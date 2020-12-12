@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.40 % en Sharp HT-SB140 2.0 - Barra de Sonido Cin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21YdpZpnDoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21YdpZpnDoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21YdpZpnDoL._SL200_.jpg' ]
 comments: true
 category: ofertas

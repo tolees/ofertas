@@ -3,6 +3,7 @@ layout: post
 title: 'David Jones - 5911-2  Bolsos totes Mujer al 55.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ji4sETREL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ji4sETREL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ji4sETREL._SL200_.jpg' ]
 comments: true
 category: ofertas

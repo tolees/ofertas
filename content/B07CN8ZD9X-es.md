@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.54 % en Crocs Crocband Flip U  Zapatos de Playa '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gXZLAbZaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gXZLAbZaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gXZLAbZaL._SL200_.jpg' ]
 comments: true
 category: ofertas

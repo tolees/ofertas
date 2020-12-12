@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.97 % en Bench BLBF0118-baño Mujer Negro  Black B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S-I3ANEcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S-I3ANEcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S-I3ANEcL._SL200_.jpg' ]
 comments: true
 category: ofertas

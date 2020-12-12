@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.29 % en Retro Estilo de los años 50  por la Noch'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BP588TRbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BP588TRbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BP588TRbL._SL200_.jpg' ]
 comments: true
 category: ofertas

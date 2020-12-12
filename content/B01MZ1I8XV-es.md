@@ -3,6 +3,7 @@ layout: post
 title: 'Activewear Camiseta Deportiva Mujer  Gri al 49.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g5A1TA0oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g5A1TA0oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g5A1TA0oL._SL200_.jpg' ]
 comments: true
 category: ofertas

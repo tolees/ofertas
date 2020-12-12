@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.59 % en JBL Clip 2 - Altavoz Bluetooth Portátil '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51K9JIfx0zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51K9JIfx0zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51K9JIfx0zL._SL200_.jpg' ]
 comments: true
 category: ofertas

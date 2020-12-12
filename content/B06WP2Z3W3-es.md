@@ -3,6 +3,7 @@ layout: post
 title: 'Liujo C16068T1710  Vestido para Mujer  N al 68.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4120uvz1CxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4120uvz1CxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4120uvz1CxL._SL200_.jpg' ]
 comments: true
 category: ofertas

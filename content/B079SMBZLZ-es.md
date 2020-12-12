@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual TS_Dalila  Camiseta para Mujer  al 35.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uXqTMdYNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uXqTMdYNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uXqTMdYNL._SL200_.jpg' ]
 comments: true
 category: ofertas

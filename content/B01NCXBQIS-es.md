@@ -3,6 +3,7 @@ layout: post
 title: 'LOVI Pride&Joy - Pack de 2 chupetes diná al 32.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gp7eyqFRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gp7eyqFRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gp7eyqFRL._SL200_.jpg' ]
 comments: true
 category: ofertas

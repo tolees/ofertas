@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield SDS Natural Strech  Camisa C al 74.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yEEXLeXEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yEEXLeXEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yEEXLeXEL._SL200_.jpg' ]
 comments: true
 category: ofertas

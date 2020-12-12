@@ -3,6 +3,7 @@ layout: post
 title: 'Masajeador de Cuero Cabelludo Eléctrico  al 51.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EUlelaEPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EUlelaEPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EUlelaEPL._SL200_.jpg' ]
 comments: true
 category: ofertas

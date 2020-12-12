@@ -3,6 +3,7 @@ layout: post
 title: 'Maitre 06 44 58440 60 - Cartera de cuero al 67.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419yzIeLe-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419yzIeLe-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419yzIeLe-L._SL200_.jpg' ]
 comments: true
 category: ofertas

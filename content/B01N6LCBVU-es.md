@@ -3,6 +3,7 @@ layout: post
 title: 'SOLIS Tomate Frito Estilo Casero Frasco  al 28.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FI18WJpAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FI18WJpAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FI18WJpAL._SL200_.jpg' ]
 comments: true
 category: ofertas

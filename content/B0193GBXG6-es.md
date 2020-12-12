@@ -3,6 +3,7 @@ layout: post
 title: 'SeedBox Seed Box SBCOAM-Aromáticas medit al 33.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qqhL6-YUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qqhL6-YUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qqhL6-YUL._SL200_.jpg' ]
 comments: true
 category: ofertas

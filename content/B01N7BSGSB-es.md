@@ -3,6 +3,7 @@ layout: post
 title: 'Dakine EQ Bag 31L Sporttasche  48 cm  Ro al 50.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DF8PhX3uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DF8PhX3uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DF8PhX3uL._SL200_.jpg' ]
 comments: true
 category: ofertas

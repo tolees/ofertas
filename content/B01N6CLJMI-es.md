@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Cash Short  Pantalones Cortos al 35.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L6M9wuDlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L6M9wuDlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L6M9wuDlL._SL200_.jpg' ]
 comments: true
 category: ofertas

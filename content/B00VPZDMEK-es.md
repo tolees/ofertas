@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.13 % en Puma Bodywear Stripe 15 - Bóxer para hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TL-eC4bFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TL-eC4bFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TL-eC4bFL._SL200_.jpg' ]
 comments: true
 category: ofertas

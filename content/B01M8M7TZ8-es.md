@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.06 % en Salomon Evasion 2 GTX  Zapatos de Sender'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wkNeXK8RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wkNeXK8RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wkNeXK8RL._SL200_.jpg' ]
 comments: true
 category: ofertas

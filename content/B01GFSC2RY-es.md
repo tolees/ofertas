@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.81 % en Diadora B.Elite  Sandalias con Plataform'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41az6mtNeZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41az6mtNeZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41az6mtNeZL._SL200_.jpg' ]
 comments: true
 category: ofertas

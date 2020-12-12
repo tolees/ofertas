@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.40 % en AX BOXING Chanclas Hombre Sandalias Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S7Mk4uURL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51S7Mk4uURL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S7Mk4uURL._SL200_.jpg' ]
 comments: true
 category: ofertas

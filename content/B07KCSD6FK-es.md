@@ -3,6 +3,7 @@ layout: post
 title: 'David Jones - Cm5003  Bolsos totes Mujer al 49.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fBaswOulL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fBaswOulL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fBaswOulL._SL200_.jpg' ]
 comments: true
 category: ofertas

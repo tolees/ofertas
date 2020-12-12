@@ -3,6 +3,7 @@ layout: post
 title: 'adidas REAL POWER CTRL LTD al 69.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VsqYfbc0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VsqYfbc0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VsqYfbc0L._SL200_.jpg' ]
 comments: true
 category: ofertas

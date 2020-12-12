@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en AURIQUE GTQ3_05 Mallas de Entrenamiento '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Feb0VcuZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Feb0VcuZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Feb0VcuZL._SL200_.jpg' ]
 comments: true
 category: ofertas

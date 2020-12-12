@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.01 % en KEEPOW 3 Pack Mopas para Vileda Turbo 2 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nNRLcZFnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nNRLcZFnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nNRLcZFnL._SL200_.jpg' ]
 comments: true
 category: ofertas

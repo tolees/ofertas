@@ -3,6 +3,7 @@ layout: post
 title: 'Giaride 12V 18V 7.5W Cargador Solar de 1 al 50.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R57yM2aWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R57yM2aWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R57yM2aWL._SL200_.jpg' ]
 comments: true
 category: ofertas

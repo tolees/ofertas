@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok G Elem Ft TS Conjunto Deportivo   al 67.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lIZ07le3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lIZ07le3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lIZ07le3L._SL200_.jpg' ]
 comments: true
 category: ofertas

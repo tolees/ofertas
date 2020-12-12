@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.T.Ap.Biker Antelina Col Ch al 65.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rPWWTrEdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rPWWTrEdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rPWWTrEdL._SL200_.jpg' ]
 comments: true
 category: ofertas

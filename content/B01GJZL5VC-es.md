@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.54 % en Synology DiskStation DS916+ Ethernet Esc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31k7y5whgRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31k7y5whgRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31k7y5whgRL._SL200_.jpg' ]
 comments: true
 category: ofertas

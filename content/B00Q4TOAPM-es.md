@@ -3,6 +3,7 @@ layout: post
 title: 'AmazonBasics FTD  Sábanas Ajustables  20 al 40.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ucN-SmBFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ucN-SmBFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ucN-SmBFL._SL200_.jpg' ]
 comments: true
 category: ofertas

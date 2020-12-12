@@ -3,6 +3,7 @@ layout: post
 title: 'COOLWAY Luly  Botines para Mujer  Negro  al 68.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3181cyV0euL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3181cyV0euL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3181cyV0euL._SL200_.jpg' ]
 comments: true
 category: ofertas

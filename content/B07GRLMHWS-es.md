@@ -3,6 +3,7 @@ layout: post
 title: 'Pejoye Reductor WC Plegable  Asiento Ino al 32.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413pFltVuML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413pFltVuML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413pFltVuML._SL200_.jpg' ]
 comments: true
 category: ofertas

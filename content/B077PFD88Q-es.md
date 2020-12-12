@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.73 % en Puma Leadcat EP Wns Q2  Zapatos de Playa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jQm016hoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jQm016hoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jQm016hoL._SL200_.jpg' ]
 comments: true
 category: ofertas

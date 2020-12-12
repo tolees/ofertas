@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy Feel Happy Petate Deportivo Mediano al 60.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LlC4r1XJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LlC4r1XJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LlC4r1XJL._SL200_.jpg' ]
 comments: true
 category: ofertas

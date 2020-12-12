@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.24 % en Moët & Chandon - Champagne Imperial - 75'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LmyA9FW4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LmyA9FW4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LmyA9FW4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'The Scottish Fine Soaps Coconut & Lime T al 44.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Za0Qs%2BxQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Za0Qs%2BxQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Za0Qs%2BxQL._SL200_.jpg' ]
 comments: true
 category: ofertas

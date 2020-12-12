@@ -3,6 +3,7 @@ layout: post
 title: 'Fluchos Richfield  Náuticos para Hombre  al 46.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lC1oGc5pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lC1oGc5pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lC1oGc5pL._SL200_.jpg' ]
 comments: true
 category: ofertas

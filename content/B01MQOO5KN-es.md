@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.28 % en Globe Castro LYT  Mocasines para Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ERvZ9bFoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ERvZ9bFoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ERvZ9bFoL._SL200_.jpg' ]
 comments: true
 category: ofertas

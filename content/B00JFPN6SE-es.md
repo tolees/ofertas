@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.21 % en NOX Blister 2 Ud Muñequera  Unisex Adult'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FrlXj622L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FrlXj622L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FrlXj622L._SL200_.jpg' ]
 comments: true
 category: ofertas

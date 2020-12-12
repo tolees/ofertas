@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.36 % en Apoyo de arco con cojín de gel desmontab'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415j6wSOLUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415j6wSOLUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415j6wSOLUL._SL200_.jpg' ]
 comments: true
 category: ofertas

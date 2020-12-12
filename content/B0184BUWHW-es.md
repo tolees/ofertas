@@ -3,6 +3,7 @@ layout: post
 title: 'Nixon Reloj Analógico para Unisex de Cua al 39.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ph9BVP66L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ph9BVP66L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ph9BVP66L._SL200_.jpg' ]
 comments: true
 category: ofertas

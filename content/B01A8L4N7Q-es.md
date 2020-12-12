@@ -3,6 +3,7 @@ layout: post
 title: 'Bestway Fast Set Piscina  150x38x75 cm al 35.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318r%2BmfhaIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318r%2BmfhaIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318r%2BmfhaIL._SL200_.jpg' ]
 comments: true
 category: ofertas

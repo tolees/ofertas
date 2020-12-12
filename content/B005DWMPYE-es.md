@@ -3,6 +3,7 @@ layout: post
 title: 'Philips MyHomeOffice Flexo E27  11 W  Bl al 39.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21gKgoOkqxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21gKgoOkqxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21gKgoOkqxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'FC Barcelona 611826672 2018 Bolso Bandol al 48.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uzP2PooHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uzP2PooHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uzP2PooHL._SL200_.jpg' ]
 comments: true
 category: ofertas

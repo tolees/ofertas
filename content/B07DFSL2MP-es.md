@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.88 % en adidas Real  Polo para Hombre  Hombre  C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L6VzyD0AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31L6VzyD0AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L6VzyD0AL._SL200_.jpg' ]
 comments: true
 category: ofertas

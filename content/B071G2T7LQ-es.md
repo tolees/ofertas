@@ -3,6 +3,7 @@ layout: post
 title: 'YUNTAB Videocámara W9 WiFi de Acción-12M al 56.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KgQNyLc2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KgQNyLc2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KgQNyLc2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Eferri 0JV5918  Bolso de mano para Mujer al 50.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iXTQW9V7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iXTQW9V7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iXTQW9V7L._SL200_.jpg' ]
 comments: true
 category: ofertas

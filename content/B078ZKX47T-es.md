@@ -3,6 +3,7 @@ layout: post
 title: 'Supra Graham CW  Zapatillas Altas para H al 77.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4157pP75FBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4157pP75FBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4157pP75FBL._SL200_.jpg' ]
 comments: true
 category: ofertas

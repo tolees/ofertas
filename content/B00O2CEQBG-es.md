@@ -3,6 +3,7 @@ layout: post
 title: 'POP! Vinilo - Game of Thrones: Jon Snow  al 45.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EpG-NvKNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EpG-NvKNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EpG-NvKNL._SL200_.jpg' ]
 comments: true
 category: ofertas

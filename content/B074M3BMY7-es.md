@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.66 % en Zapatillas de Deportivos de Running para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gXIq8ayPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gXIq8ayPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gXIq8ayPL._SL200_.jpg' ]
 comments: true
 category: ofertas

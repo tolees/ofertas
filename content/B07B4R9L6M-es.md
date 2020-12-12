@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star Loose Hooded Sw Wmn L/s  Sudadera al 50.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416KMXyH8jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416KMXyH8jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416KMXyH8jL._SL200_.jpg' ]
 comments: true
 category: ofertas

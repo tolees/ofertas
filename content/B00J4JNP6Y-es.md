@@ -3,6 +3,7 @@ layout: post
 title: 'Flower 20532 20532-Anti-hormigas granula al 33.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B5thWjkvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51B5thWjkvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B5thWjkvL._SL200_.jpg' ]
 comments: true
 category: ofertas

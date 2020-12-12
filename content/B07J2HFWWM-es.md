@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.06 % en EXCITE Delay Gel retardante para hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bPZMP9yOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bPZMP9yOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bPZMP9yOL._SL200_.jpg' ]
 comments: true
 category: ofertas

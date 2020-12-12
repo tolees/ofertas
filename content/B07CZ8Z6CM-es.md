@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.23 % en G-STAR RAW Core Super Slim Shirt L\\s  C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dcpnYWbeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dcpnYWbeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dcpnYWbeL._SL200_.jpg' ]
 comments: true
 category: ofertas

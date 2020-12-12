@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.98 % en Mayoral 621770  Petos para Niñas   Tejan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C5RI6pfGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C5RI6pfGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C5RI6pfGL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'find. Bomber Chaqueta para Mujer  Gris   al 65.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Qat1sPOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416Qat1sPOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Qat1sPOL._SL200_.jpg' ]
 comments: true
 category: ofertas

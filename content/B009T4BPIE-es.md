@@ -3,6 +3,7 @@ layout: post
 title: 'Botanic Ultra Premium Ginebra - 700 ml al 33.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r2U3i5E7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r2U3i5E7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r2U3i5E7L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Bikers-Curbed  Entrenadores par al 57.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GrLUrmBTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GrLUrmBTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GrLUrmBTL._SL200_.jpg' ]
 comments: true
 category: ofertas

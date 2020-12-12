@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.86 % en HP EliteBook 840 G5 - Ordenador Portátil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415GFM9brgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415GFM9brgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415GFM9brgL._SL200_.jpg' ]
 comments: true
 category: ofertas

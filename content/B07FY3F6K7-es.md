@@ -3,6 +3,7 @@ layout: post
 title: 'OtterBox Symmetry - Funda Anti caídas Fi al 42.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BanseglhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BanseglhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BanseglhL._SL200_.jpg' ]
 comments: true
 category: ofertas

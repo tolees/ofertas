@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.61 % en Women s Secret TF Black Dots PJ Conjunto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jmd-HEm7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jmd-HEm7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jmd-HEm7L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Goki-57849 Puzzles de Madera Encaje Círc al 26.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xDjY8te9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xDjY8te9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xDjY8te9L._SL200_.jpg' ]
 comments: true
 category: ofertas

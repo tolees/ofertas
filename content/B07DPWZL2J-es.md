@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.61 % en Burton Gameday Chaqueta de Snowboard  Ni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vpDWro4tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vpDWro4tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vpDWro4tL._SL200_.jpg' ]
 comments: true
 category: ofertas

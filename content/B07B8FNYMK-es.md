@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.01 % en Inteligente WiFi enchufe – hyleton Smart'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411uVN-g8FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411uVN-g8FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411uVN-g8FL._SL200_.jpg' ]
 comments: true
 category: ofertas

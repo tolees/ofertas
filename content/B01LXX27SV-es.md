@@ -3,6 +3,7 @@ layout: post
 title: 'Julius-K9 16IDC-BR-M IDC Power Harness   al 47.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U2x5Ytn5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U2x5Ytn5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U2x5Ytn5L._SL200_.jpg' ]
 comments: true
 category: ofertas

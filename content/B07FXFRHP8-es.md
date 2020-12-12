@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.77 % en Zapatos de Seguridad con Punta de Acero '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mm3W9GbXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mm3W9GbXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mm3W9GbXL._SL200_.jpg' ]
 comments: true
 category: ofertas

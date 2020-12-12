@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.35 % en CASUAL FRIDAY 500924  Camisa para Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YFcG6zSRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YFcG6zSRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YFcG6zSRL._SL200_.jpg' ]
 comments: true
 category: ofertas

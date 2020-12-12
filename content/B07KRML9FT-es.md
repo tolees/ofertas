@@ -3,6 +3,7 @@ layout: post
 title: 'Munich G-3 Jeans  Zapatillas de Deporte  al 46.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YHIvqqGFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YHIvqqGFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YHIvqqGFL._SL200_.jpg' ]
 comments: true
 category: ofertas

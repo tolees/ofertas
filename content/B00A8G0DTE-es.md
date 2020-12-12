@@ -3,6 +3,7 @@ layout: post
 title: '3Claveles 18 - Tijera de costura de 5.5" al 38.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3191YEpVhXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3191YEpVhXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3191YEpVhXL._SL200_.jpg' ]
 comments: true
 category: ofertas

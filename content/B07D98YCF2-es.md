@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48432  Botines para Mujer  Marrón Ca al 72.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410Px-0ff2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410Px-0ff2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410Px-0ff2L._SL200_.jpg' ]
 comments: true
 category: ofertas

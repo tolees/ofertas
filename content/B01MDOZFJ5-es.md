@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.04 % en L Oreal Paris Dermo Expertise Crema Cuid'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418LmDolTuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418LmDolTuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418LmDolTuL._SL200_.jpg' ]
 comments: true
 category: ofertas

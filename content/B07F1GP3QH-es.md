@@ -3,6 +3,7 @@ layout: post
 title: 'Mustang High Top Sneaker  Zapatillas Alt al 73.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OqFBf2g1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OqFBf2g1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OqFBf2g1L._SL200_.jpg' ]
 comments: true
 category: ofertas

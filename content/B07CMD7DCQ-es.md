@@ -3,6 +3,7 @@ layout: post
 title: 'Bluebags 0JV7005  Shopper para Mujer   G al 67.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lnxFOFcCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lnxFOFcCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lnxFOFcCL._SL200_.jpg' ]
 comments: true
 category: ofertas

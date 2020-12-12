@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.21 % en Armani Exchange Elegant Stretch Vestido '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UJsohWQaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UJsohWQaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UJsohWQaL._SL200_.jpg' ]
 comments: true
 category: ofertas

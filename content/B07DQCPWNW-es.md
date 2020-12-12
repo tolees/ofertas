@@ -3,6 +3,7 @@ layout: post
 title: 'Pokémon Let s Go Eevee! + Poké Ball Plus al 30.00 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B07DQCPWNW.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B07DQCPWNW.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B07DQCPWNW.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

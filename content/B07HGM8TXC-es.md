@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.05 % en Storm Racer ergonómico Gaming Chair Sill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414HU2LlKlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414HU2LlKlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414HU2LlKlL._SL200_.jpg' ]
 comments: true
 category: ofertas

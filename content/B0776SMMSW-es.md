@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans Hombre Original Jersey Camis al 31.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KTrRDfhkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KTrRDfhkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KTrRDfhkL._SL200_.jpg' ]
 comments: true
 category: ofertas

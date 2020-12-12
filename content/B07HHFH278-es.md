@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.33 % en IKOHS Batidora de Vaso Diseño Line BT-MO'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BUfzqzY6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BUfzqzY6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BUfzqzY6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.20 % en Trixie Malta para Gatos en Pasta "Inmuno'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F1np7-BiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F1np7-BiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F1np7-BiL._SL200_.jpg' ]
 comments: true
 category: ofertas

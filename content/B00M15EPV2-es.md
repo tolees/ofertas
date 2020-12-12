@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Adventure Seeker 2 Strap  San al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yWKOck%2BuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yWKOck%2BuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yWKOck%2BuL._SL200_.jpg' ]
 comments: true
 category: ofertas

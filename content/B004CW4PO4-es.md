@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.71 % en Elite Arion - Rodillo de ciclismo  color'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xOqi3-ibL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xOqi3-ibL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xOqi3-ibL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Batcombe Hall Derby - Zapatos de  al 70.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gfw%2BCp7qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gfw%2BCp7qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gfw%2BCp7qL._SL200_.jpg' ]
 comments: true
 category: ofertas

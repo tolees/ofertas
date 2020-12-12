@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.04 % en CASIO Reloj Digital para Hombre de Cuarz'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BrX7EzeWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BrX7EzeWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BrX7EzeWL._SL200_.jpg' ]
 comments: true
 category: ofertas

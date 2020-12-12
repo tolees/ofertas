@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face S/S Red Box tee Camiseta  al 44.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hjrO15ShL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hjrO15ShL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hjrO15ShL._SL200_.jpg' ]
 comments: true
 category: ofertas

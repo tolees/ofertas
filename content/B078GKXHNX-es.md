@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.97 % en BOSS Cattitude  Camisa para Hombre  Blan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YkvxFa8FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YkvxFa8FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YkvxFa8FL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.40 % en Gabor Shoes Comfort  Sandalias con Cuña '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A%2B2GDH74L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A%2B2GDH74L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A%2B2GDH74L._SL200_.jpg' ]
 comments: true
 category: ofertas

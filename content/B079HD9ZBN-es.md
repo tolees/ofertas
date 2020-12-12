@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlmarika L/s Playsuit Wvn  Mono Co al 70.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kXybKMRcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kXybKMRcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kXybKMRcL._SL200_.jpg' ]
 comments: true
 category: ofertas

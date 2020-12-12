@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.76 % en Gant O1.Corduroy Blazer  Chaqueta de Tra'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aPH3n0vOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aPH3n0vOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aPH3n0vOL._SL200_.jpg' ]
 comments: true
 category: ofertas

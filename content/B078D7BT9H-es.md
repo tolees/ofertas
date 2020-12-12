@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Adizero Accelerator  Zapatillas d al 55.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41srtP6FHuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41srtP6FHuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41srtP6FHuL._SL200_.jpg' ]
 comments: true
 category: ofertas

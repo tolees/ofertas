@@ -3,6 +3,7 @@ layout: post
 title: 'Garmin Fenix 5S - Reloj multideporte  co al 33.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rozrVf1IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rozrVf1IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rozrVf1IL._SL200_.jpg' ]
 comments: true
 category: ofertas

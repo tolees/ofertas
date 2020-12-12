@@ -3,6 +3,7 @@ layout: post
 title: 'VBIGER Poncho de punto de Las Mujeres El al 37.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i7BxMi5dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i7BxMi5dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i7BxMi5dL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.99 % en Columbia Cascades Explorer Pantalón Conv'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hBcm4eNeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hBcm4eNeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hBcm4eNeL._SL200_.jpg' ]
 comments: true
 category: ofertas

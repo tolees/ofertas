@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en G-STAR RAW Starkon R T S\s  Camiseta Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bC8rKF4JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bC8rKF4JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bC8rKF4JL._SL200_.jpg' ]
 comments: true
 category: ofertas

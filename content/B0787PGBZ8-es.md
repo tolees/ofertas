@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.04 % en Columbia Meadows Shorty Omni-Heat 3D  Bo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415lZ%2Bky2DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415lZ%2Bky2DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415lZ%2Bky2DL._SL200_.jpg' ]
 comments: true
 category: ofertas

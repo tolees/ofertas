@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda NOS Vmhot Seven NW Dnm Fold Sh al 29.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bHo6ALItL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bHo6ALItL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bHo6ALItL._SL200_.jpg' ]
 comments: true
 category: ofertas

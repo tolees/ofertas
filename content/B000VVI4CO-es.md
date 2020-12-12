@@ -3,6 +3,7 @@ layout: post
 title: 'Everlast 4454R - Venda elástica  Color R al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BfM8FIkoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BfM8FIkoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BfM8FIkoL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Reago Essential  Zapatillas de De al 61.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DSZOuBUnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DSZOuBUnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DSZOuBUnL._SL200_.jpg' ]
 comments: true
 category: ofertas

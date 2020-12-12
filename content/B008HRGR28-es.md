@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.95 % en Bosch 2608642530 Lame de scie circulaire'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bNwKW7VrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bNwKW7VrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bNwKW7VrL._SL200_.jpg' ]
 comments: true
 category: ofertas

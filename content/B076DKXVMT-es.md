@@ -3,6 +3,7 @@ layout: post
 title: 'Women secret 4652185  Sujetador Básico p al 53.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wOMXy8uXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wOMXy8uXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wOMXy8uXL._SL200_.jpg' ]
 comments: true
 category: ofertas

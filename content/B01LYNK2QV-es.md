@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.23 % en ESPRIT 106EE1K036  Camiseta de Manga Lar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y9hbslCzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y9hbslCzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y9hbslCzL._SL200_.jpg' ]
 comments: true
 category: ofertas

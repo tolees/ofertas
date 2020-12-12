@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.93 % en Hama Fine Art Fotos  50 páginas Negras  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XFrSSfbLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XFrSSfbLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XFrSSfbLL._SL200_.jpg' ]
 comments: true
 category: ofertas

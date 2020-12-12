@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger New Chiara Str Pq Polo Ss al 79.28 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

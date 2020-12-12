@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.88 % en ARBLOVE Faja Reductora Mujer Abdomen Ade'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Io8j2r8BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Io8j2r8BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Io8j2r8BL._SL200_.jpg' ]
 comments: true
 category: ofertas

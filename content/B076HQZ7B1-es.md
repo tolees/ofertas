@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.10 % en adidas Core 18 T Camiseta  Hombre  Blanc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zKkJnoZUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zKkJnoZUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zKkJnoZUL._SL200_.jpg' ]
 comments: true
 category: ofertas

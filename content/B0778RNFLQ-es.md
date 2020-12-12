@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Follow  Zapatillas Unisex Adulto   al 67.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411piUrrAVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411piUrrAVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411piUrrAVL._SL200_.jpg' ]
 comments: true
 category: ofertas

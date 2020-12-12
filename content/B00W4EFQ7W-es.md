@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Originals Trigenic Flex  Zapatill al 62.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rp2kKGMpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rp2kKGMpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rp2kKGMpL._SL200_.jpg' ]
 comments: true
 category: ofertas

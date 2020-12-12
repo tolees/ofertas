@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.59 % en dodocool 3 IN 1 Enfriador Portátil Espac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XOwHp1iIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XOwHp1iIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XOwHp1iIL._SL200_.jpg' ]
 comments: true
 category: ofertas

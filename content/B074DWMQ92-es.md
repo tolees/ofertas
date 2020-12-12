@@ -3,6 +3,7 @@ layout: post
 title: 'Versace 1969 Hombres Albornoz  Gris  Med al 85.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OlVR964GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OlVR964GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OlVR964GL._SL200_.jpg' ]
 comments: true
 category: ofertas

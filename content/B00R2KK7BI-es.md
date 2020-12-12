@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.15 % en Skechers Equalizer Persistent  Zapatilla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316ic0z4p0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316ic0z4p0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316ic0z4p0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS Logo Pants  Mujer  Dark Gray He al 50.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aDfNlQV1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aDfNlQV1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aDfNlQV1L._SL200_.jpg' ]
 comments: true
 category: ofertas

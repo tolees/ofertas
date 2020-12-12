@@ -3,6 +3,7 @@ layout: post
 title: 'Macson Pantalón Gris Oscuro ES 42 al 79.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CkLkk84-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CkLkk84-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CkLkk84-L._SL200_.jpg' ]
 comments: true
 category: ofertas

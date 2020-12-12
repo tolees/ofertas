@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans LIDA XL PG300783 Camisa  Azul al 81.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414ME9t9KeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414ME9t9KeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414ME9t9KeL._SL200_.jpg' ]
 comments: true
 category: ofertas

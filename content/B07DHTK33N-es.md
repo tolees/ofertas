@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy Juneau  Botas de Nieve para Mujer   al 77.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VxKdLKbgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VxKdLKbgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VxKdLKbgL._SL200_.jpg' ]
 comments: true
 category: ofertas

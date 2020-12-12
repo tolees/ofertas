@@ -3,6 +3,7 @@ layout: post
 title: 'LIGE Fitness Tracker IP67 reloj intelige al 73.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rL58mXxPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rL58mXxPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rL58mXxPL._SL200_.jpg' ]
 comments: true
 category: ofertas

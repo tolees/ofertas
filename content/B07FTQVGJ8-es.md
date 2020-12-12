@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.76 % en Pantofola d Oro Lugo Suede Uomo Low  Zap'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BslY%2BpHXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BslY%2BpHXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BslY%2BpHXL._SL200_.jpg' ]
 comments: true
 category: ofertas

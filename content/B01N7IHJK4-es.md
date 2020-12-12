@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.67 % en find. Funnel Neck Suéter para Mujer  Man'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416o0N6DzHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416o0N6DzHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416o0N6DzHL._SL200_.jpg' ]
 comments: true
 category: ofertas

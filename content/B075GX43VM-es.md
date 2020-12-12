@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Scene - Hombre SCE-2000-21 al 61.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xzvsIpRGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xzvsIpRGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xzvsIpRGL._SL200_.jpg' ]
 comments: true
 category: ofertas

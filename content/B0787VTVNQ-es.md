@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Solid SH SL Swimsuit  Hombre  Bri al 36.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417sgBR7yuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417sgBR7yuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417sgBR7yuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.16 % en Merrell - sandalias de Cuero mujer  Beig'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BllaRyEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BllaRyEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417%2BllaRyEL._SL200_.jpg' ]
 comments: true
 category: ofertas

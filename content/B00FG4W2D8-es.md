@@ -3,6 +3,7 @@ layout: post
 title: 'abril et nature bain shampoo Gold Liftin al 59.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EzBHEwCOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EzBHEwCOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EzBHEwCOL._SL200_.jpg' ]
 comments: true
 category: ofertas

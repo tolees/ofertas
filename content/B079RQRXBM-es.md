@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans EDES PM506073  Camiseta para  al 60.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jtDgbXUBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jtDgbXUBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jtDgbXUBL._SL200_.jpg' ]
 comments: true
 category: ofertas

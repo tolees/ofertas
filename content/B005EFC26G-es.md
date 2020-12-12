@@ -3,6 +3,7 @@ layout: post
 title: 'Máquina de cupcakes Tristar SA-1122 - Cu al 49.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kc3SivBJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kc3SivBJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kc3SivBJL._SL200_.jpg' ]
 comments: true
 category: ofertas

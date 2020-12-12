@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.45 % en oodji Ultra Hombre Camiseta Estampada de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HZY-v78mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HZY-v78mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HZY-v78mL._SL200_.jpg' ]
 comments: true
 category: ofertas

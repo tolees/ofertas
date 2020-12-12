@@ -3,6 +3,7 @@ layout: post
 title: 'Kit Depilacion Calentador de Cera Roll O al 25.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uRZ22DuhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uRZ22DuhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uRZ22DuhL._SL200_.jpg' ]
 comments: true
 category: ofertas

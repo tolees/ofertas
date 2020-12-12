@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.73 % en Pompeya  BD 3D + BD  [Blu-ray]'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-CUwmNrwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-CUwmNrwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-CUwmNrwL._SL200_.jpg' ]
 comments: true
 category: ofertas

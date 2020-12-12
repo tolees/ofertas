@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.88 % en Emporio Armani 523087 Gafas de sol  Top '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-lXTmlhAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-lXTmlhAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-lXTmlhAL._SL200_.jpg' ]
 comments: true
 category: ofertas

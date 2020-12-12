@@ -3,6 +3,7 @@ layout: post
 title: 'Leds-c4 borneo - Luminaria colgante vent al 42.38 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

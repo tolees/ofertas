@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.99 % en PIECES Pcgaia 2/4 Midi Lace Dress  Vesti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y-pSB3HEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y-pSB3HEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y-pSB3HEL._SL200_.jpg' ]
 comments: true
 category: ofertas

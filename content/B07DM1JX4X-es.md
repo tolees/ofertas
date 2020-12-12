@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.35 % en PIECES Pcfortuna LS Wool Knit Cardigan N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EXsDXj2-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EXsDXj2-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EXsDXj2-L._SL200_.jpg' ]
 comments: true
 category: ofertas

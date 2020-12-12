@@ -3,6 +3,7 @@ layout: post
 title: 'Leathario Bolso Hombro Bandolera 14 Pulg al 65.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412DV3dFpJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412DV3dFpJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412DV3dFpJL._SL200_.jpg' ]
 comments: true
 category: ofertas

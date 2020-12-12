@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Essential Nylon Runner  Z al 29.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cwqSHYeWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cwqSHYeWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cwqSHYeWL._SL200_.jpg' ]
 comments: true
 category: ofertas

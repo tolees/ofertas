@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.12 % en Joma DRIS.804.IN  Zapatillas de fútbol S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5181yhc%2BfwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5181yhc%2BfwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5181yhc%2BfwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.97 % en Quiksilver Classic Quadro Glide Camiseta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Llok06jWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Llok06jWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Llok06jWL._SL200_.jpg' ]
 comments: true
 category: ofertas

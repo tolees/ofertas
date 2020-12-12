@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Lake 22 Hooded Jacket Chaqueta  al 45.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414NC%2BAKUXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414NC%2BAKUXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414NC%2BAKUXL._SL200_.jpg' ]
 comments: true
 category: ofertas

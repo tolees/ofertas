@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.40 % en Clarks Step Allenasun  Zapatillas para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g8djS0uRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31g8djS0uRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g8djS0uRL._SL200_.jpg' ]
 comments: true
 category: ofertas

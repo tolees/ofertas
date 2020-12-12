@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.65 % en Clinique 56453 - Crema antiarrugas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sMxbOl4EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sMxbOl4EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sMxbOl4EL._SL200_.jpg' ]
 comments: true
 category: ofertas

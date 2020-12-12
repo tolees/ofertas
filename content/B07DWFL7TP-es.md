@@ -3,6 +3,7 @@ layout: post
 title: 'Lico Ron  Zapatillas para Hombre  Gris G al 70.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xy8ZvW45L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xy8ZvW45L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xy8ZvW45L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.64 % en Under Armour UA Speedform Amp 2.0  Zapat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hi9j5DIFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hi9j5DIFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hi9j5DIFL._SL200_.jpg' ]
 comments: true
 category: ofertas

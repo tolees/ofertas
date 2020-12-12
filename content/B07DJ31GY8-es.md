@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste La Piquee 119 1 Cfa  Zapatillas  al 33.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f3i%2BE5oyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f3i%2BE5oyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f3i%2BE5oyL._SL200_.jpg' ]
 comments: true
 category: ofertas

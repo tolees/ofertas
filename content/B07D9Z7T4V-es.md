@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.19 % en Mustang Schnür-Booty  Botas Clasicas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T-SAdxwqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T-SAdxwqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T-SAdxwqL._SL200_.jpg' ]
 comments: true
 category: ofertas

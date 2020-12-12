@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.70 % en oodji Ultra Hombre Camiseta de Algodón c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nIAG3PwrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nIAG3PwrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nIAG3PwrL._SL200_.jpg' ]
 comments: true
 category: ofertas

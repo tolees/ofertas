@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.19 % en Esprit Kids Long Sleeve tee-Shirt Camisa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gHewn9brL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gHewn9brL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gHewn9brL._SL200_.jpg' ]
 comments: true
 category: ofertas

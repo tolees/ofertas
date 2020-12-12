@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.83 % en Funko Pop!- Marvel Lockjaw Figura de Vin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c4ESCGU-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51c4ESCGU-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c4ESCGU-L._SL200_.jpg' ]
 comments: true
 category: ofertas

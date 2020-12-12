@@ -3,6 +3,7 @@ layout: post
 title: 'Vestido Corto de Mujer con Hombros Descu al 57.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vrz54C8hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vrz54C8hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vrz54C8hL._SL200_.jpg' ]
 comments: true
 category: ofertas

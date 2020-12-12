@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.39 % en PUTUO Mujer Calcetines Pilates Yoga Anti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61kZyYE4vKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61kZyYE4vKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61kZyYE4vKL._SL200_.jpg' ]
 comments: true
 category: ofertas

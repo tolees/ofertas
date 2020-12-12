@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.88 % en s.Oliver 26251-31  Botas de Nieve para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IbhkBUU0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IbhkBUU0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IbhkBUU0L._SL200_.jpg' ]
 comments: true
 category: ofertas

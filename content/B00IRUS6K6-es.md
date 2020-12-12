@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.55 % en Logitech Harmony 650 - Mando a distancia'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZImWuuXsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZImWuuXsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZImWuuXsL._SL200_.jpg' ]
 comments: true
 category: ofertas

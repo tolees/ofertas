@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.31 % en Columbia Camden Outdry Leather Chukka  B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BsWQBPmaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BsWQBPmaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BsWQBPmaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.43 % en Burton Kilo Mochilas  Unisex Adulto  Gra'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n-BIpUBQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n-BIpUBQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n-BIpUBQL._SL200_.jpg' ]
 comments: true
 category: ofertas

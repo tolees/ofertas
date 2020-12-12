@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.99 % en Puma Engine Jr  Zapatillas para Niños  N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UNgCML5yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UNgCML5yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UNgCML5yL._SL200_.jpg' ]
 comments: true
 category: ofertas

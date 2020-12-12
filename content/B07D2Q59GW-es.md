@@ -3,6 +3,7 @@ layout: post
 title: 'Gant O3. Lambswool Cable Poncho  Poncho  al 70.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NnfvtCJ2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NnfvtCJ2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NnfvtCJ2L._SL200_.jpg' ]
 comments: true
 category: ofertas

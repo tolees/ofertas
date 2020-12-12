@@ -3,6 +3,7 @@ layout: post
 title: 'Isfjord Ginebra - 700 ml al 37.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41inzQgf0zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41inzQgf0zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41inzQgf0zL._SL200_.jpg' ]
 comments: true
 category: ofertas

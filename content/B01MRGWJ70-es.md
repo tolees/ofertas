@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Evotouch Pro AG  Botas de fútbol pa al 89.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JF6aUdZcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JF6aUdZcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JF6aUdZcL._SL200_.jpg' ]
 comments: true
 category: ofertas

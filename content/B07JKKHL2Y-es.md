@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.73 % en Refresh 69769  Sandalias con Punta Cerra'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41slAoLB8pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41slAoLB8pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41slAoLB8pL._SL200_.jpg' ]
 comments: true
 category: ofertas

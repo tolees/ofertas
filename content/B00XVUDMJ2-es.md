@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers 37AO001-600383  Zapatillas para  al 55.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412030lFSzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412030lFSzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412030lFSzL._SL200_.jpg' ]
 comments: true
 category: ofertas

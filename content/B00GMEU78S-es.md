@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.78 % en Birkenstock Kids ROMA   BF-NUBUK 233073 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lh8mJIawL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Lh8mJIawL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lh8mJIawL._SL200_.jpg' ]
 comments: true
 category: ofertas

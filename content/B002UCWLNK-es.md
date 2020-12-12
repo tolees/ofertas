@@ -3,6 +3,7 @@ layout: post
 title: 'Kong JU03288 Squiggles - Juguete para Pe al 40.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GkCJbJ1sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GkCJbJ1sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GkCJbJ1sL._SL200_.jpg' ]
 comments: true
 category: ofertas

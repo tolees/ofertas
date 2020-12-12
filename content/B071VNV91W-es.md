@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.34 % en Asics Gel-Fujitrabuco 6  Zapatillas de G'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rMOnYt7dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rMOnYt7dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rMOnYt7dL._SL200_.jpg' ]
 comments: true
 category: ofertas

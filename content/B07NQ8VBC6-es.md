@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.72 % en Viala Cepillo de Limpieza Facial y Masaj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414Aim6IpyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414Aim6IpyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414Aim6IpyL._SL200_.jpg' ]
 comments: true
 category: ofertas

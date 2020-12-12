@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.24 % en GGMM Auriculares In-Ear  Sonido Estéreo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aquyRyYdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aquyRyYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aquyRyYdL._SL200_.jpg' ]
 comments: true
 category: ofertas

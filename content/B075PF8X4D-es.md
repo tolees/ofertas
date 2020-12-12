@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.13 % en Vans_Apparel Vans Clan  Camiseta para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BvSBnIddL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BvSBnIddL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BvSBnIddL._SL200_.jpg' ]
 comments: true
 category: ofertas

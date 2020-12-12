@@ -3,6 +3,7 @@ layout: post
 title: 'HUGO 50407566 - Cartera para hombre de C al 66.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51X6d56aUVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51X6d56aUVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51X6d56aUVL._SL200_.jpg' ]
 comments: true
 category: ofertas

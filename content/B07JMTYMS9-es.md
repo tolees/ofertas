@@ -3,6 +3,7 @@ layout: post
 title: 'Guess SS Cn tee  Camiseta de Tirantes pa al 39.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d2FaUh4aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d2FaUh4aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d2FaUh4aL._SL200_.jpg' ]
 comments: true
 category: ofertas

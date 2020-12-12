@@ -3,6 +3,7 @@ layout: post
 title: 'LANGRIA Silla de Oficina Giratoria con R al 27.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H22bFd1nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H22bFd1nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H22bFd1nL._SL200_.jpg' ]
 comments: true
 category: ofertas

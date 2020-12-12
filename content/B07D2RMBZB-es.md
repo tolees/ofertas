@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.95 % en Gant 2-Pack Trunk Flags CTN Str  Bañador'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R2BQCxU%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R2BQCxU%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R2BQCxU%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

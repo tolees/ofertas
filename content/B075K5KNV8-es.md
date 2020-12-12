@@ -3,6 +3,7 @@ layout: post
 title: 'TopDirect 4PCS 75 x 60 x 55mm bisagras d al 37.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rBWXHHPdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rBWXHHPdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rBWXHHPdL._SL200_.jpg' ]
 comments: true
 category: ofertas

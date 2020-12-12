@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Atwood Low Textile  Zapatillas para al 55.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oq18M5jpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oq18M5jpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oq18M5jpL._SL200_.jpg' ]
 comments: true
 category: ofertas

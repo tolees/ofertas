@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.78 % en Superdry Parachute Cargo Short Bañador  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oR%2BKWcwcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oR%2BKWcwcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oR%2BKWcwcL._SL200_.jpg' ]
 comments: true
 category: ofertas

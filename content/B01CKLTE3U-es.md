@@ -3,6 +3,7 @@ layout: post
 title: 'LG 34UM88C-P - Monitor UltraWide de 87 c al 31.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/217iQ7RgXzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/217iQ7RgXzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/217iQ7RgXzL._SL200_.jpg' ]
 comments: true
 category: ofertas

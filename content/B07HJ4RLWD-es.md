@@ -3,6 +3,7 @@ layout: post
 title: 'Cocoda Cortapelos Profesional Hombre  Re al 39.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pO8hPqssL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pO8hPqssL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pO8hPqssL._SL200_.jpg' ]
 comments: true
 category: ofertas

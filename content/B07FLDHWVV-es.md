@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Custom 1334 Hood  suéter para H al 76.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416dJy3asUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416dJy3asUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416dJy3asUL._SL200_.jpg' ]
 comments: true
 category: ofertas

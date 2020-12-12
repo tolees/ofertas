@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Large Bottle Belt 22OZ Cinturón de  al 28.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FlgYauCML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FlgYauCML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FlgYauCML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.47 % en Only Onlnew Skylar Fur Parka CC Otw Chaq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419oN7MxvWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419oN7MxvWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419oN7MxvWL._SL200_.jpg' ]
 comments: true
 category: ofertas

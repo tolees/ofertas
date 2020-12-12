@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.62 % en Esprit 087ee1k022 suéter  Verde  Bottle '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lSEF03IRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lSEF03IRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lSEF03IRL._SL200_.jpg' ]
 comments: true
 category: ofertas

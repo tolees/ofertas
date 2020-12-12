@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.84 % en JVC HA-EB75-A-E - Auriculares de clip  a'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MOH-oIedL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MOH-oIedL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MOH-oIedL._SL200_.jpg' ]
 comments: true
 category: ofertas

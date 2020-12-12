@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.25 % en L Oréal Paris Paleta de Labios Color Ric'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-xZVhsL4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-xZVhsL4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-xZVhsL4L._SL200_.jpg' ]
 comments: true
 category: ofertas

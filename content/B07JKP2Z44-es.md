@@ -3,6 +3,7 @@ layout: post
 title: 'Amoladora Eléctrica  Tacklife-RTD36AC He al 37.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAenhCy%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAenhCy%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BAenhCy%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

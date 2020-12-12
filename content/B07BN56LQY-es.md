@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.44 % en Vans Cerus Lite  Zapatillas para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ENX4AZHxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ENX4AZHxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ENX4AZHxL._SL200_.jpg' ]
 comments: true
 category: ofertas

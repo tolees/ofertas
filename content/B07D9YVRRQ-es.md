@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Mantra Fusefit Desert  Zapatillas d al 45.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xzcevGXjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xzcevGXjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xzcevGXjL._SL200_.jpg' ]
 comments: true
 category: ofertas

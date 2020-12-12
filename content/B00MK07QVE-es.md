@@ -3,6 +3,7 @@ layout: post
 title: 'GORE BIKE WEAR Pantalones Ciclismo Corto al 58.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bi%2B5BjItL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bi%2B5BjItL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bi%2B5BjItL._SL200_.jpg' ]
 comments: true
 category: ofertas

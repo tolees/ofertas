@@ -3,6 +3,7 @@ layout: post
 title: 'Nostalgic-Art 31112  de Harley Davidson  al 30.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jbkmxb%2BaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jbkmxb%2BaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jbkmxb%2BaL._SL200_.jpg' ]
 comments: true
 category: ofertas

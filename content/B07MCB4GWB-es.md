@@ -3,6 +3,7 @@ layout: post
 title: 'Funcl W1 Verdaderos Auriculares inalámbr al 35.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FHMC4YfYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FHMC4YfYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FHMC4YfYL._SL200_.jpg' ]
 comments: true
 category: ofertas

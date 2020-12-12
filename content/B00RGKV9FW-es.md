@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.49 % en Bomann VL 1139 S CB Ventilador de pie os'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y5--%2BktKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Y5--%2BktKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y5--%2BktKL._SL200_.jpg' ]
 comments: true
 category: ofertas

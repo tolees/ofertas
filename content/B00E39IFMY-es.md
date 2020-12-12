@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.94 % en BRA CAFETERA Elegance Colors Italiana  A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IyNyjOfOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IyNyjOfOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IyNyjOfOL._SL200_.jpg' ]
 comments: true
 category: ofertas

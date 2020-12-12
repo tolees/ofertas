@@ -3,6 +3,7 @@ layout: post
 title: 'EMNT Batería para iPhone 6s 2250 mAh  Re al 63.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418MdE9xHvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418MdE9xHvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418MdE9xHvL._SL200_.jpg' ]
 comments: true
 category: ofertas

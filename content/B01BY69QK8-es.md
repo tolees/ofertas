@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.95 % en E-Vitta PCS71109EVBP001002 - Mochila par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qb3WY6ltL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Qb3WY6ltL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Qb3WY6ltL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Star Wars - Casco de Stormtrooper para n al 50.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kT-gBycHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kT-gBycHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kT-gBycHL._SL200_.jpg' ]
 comments: true
 category: ofertas

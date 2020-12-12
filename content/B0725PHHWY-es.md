@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Marina  Botas Mujer  Negro  Antil N al 58.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419k6pZgnrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419k6pZgnrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419k6pZgnrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.94 % en Ubisoft - Rabbids Luigi Figura  8 Cm'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IegNcEX3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IegNcEX3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IegNcEX3L._SL200_.jpg' ]
 comments: true
 category: ofertas

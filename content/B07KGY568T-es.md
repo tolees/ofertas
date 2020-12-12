@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Oak Sudaderas  Hombre  Gray Heath al 49.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s5-NNHOiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51s5-NNHOiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s5-NNHOiL._SL200_.jpg' ]
 comments: true
 category: ofertas

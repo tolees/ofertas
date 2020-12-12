@@ -3,6 +3,7 @@ layout: post
 title: 'Petsure Cama para Perros Medianos y Gran al 99.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a2JLZXY7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a2JLZXY7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a2JLZXY7L._SL200_.jpg' ]
 comments: true
 category: ofertas

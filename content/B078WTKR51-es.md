@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 87.63 % en Pedro del Hierro Lazo  Vestido Túnica pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QbevZN7oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QbevZN7oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QbevZN7oL._SL200_.jpg' ]
 comments: true
 category: ofertas

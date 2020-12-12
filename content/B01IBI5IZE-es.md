@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.24 % en JACK & JONES Jjiglenn Jjfox Bl 655 50sps'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jDfHLraML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jDfHLraML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jDfHLraML._SL200_.jpg' ]
 comments: true
 category: ofertas

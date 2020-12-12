@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.78 % en Emporio Armani Underwear 111389 Pantalon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gkh6e2fNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gkh6e2fNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gkh6e2fNL._SL200_.jpg' ]
 comments: true
 category: ofertas

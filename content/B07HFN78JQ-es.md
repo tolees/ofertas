@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger T-Script Logo tee  Camise al 52.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eAv%2BeA3NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eAv%2BeA3NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eAv%2BeA3NL._SL200_.jpg' ]
 comments: true
 category: ofertas

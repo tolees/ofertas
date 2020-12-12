@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.28 % en Dockers by Gerli 42fz003-797100  Zapatil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j0JUmTY4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51j0JUmTY4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j0JUmTY4L._SL200_.jpg' ]
 comments: true
 category: ofertas

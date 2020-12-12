@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.85 % en Merrell Icepack Polar WP  Zapatillas de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BPupKjeYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BPupKjeYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BPupKjeYL._SL200_.jpg' ]
 comments: true
 category: ofertas

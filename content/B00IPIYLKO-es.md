@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.82 % en Bosch PSM 200 AES - Multilijadora  2 hoj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uFM68F4SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uFM68F4SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uFM68F4SL._SL200_.jpg' ]
 comments: true
 category: ofertas

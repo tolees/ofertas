@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.58 % en Pepe Jeans Bradley PM202056 Jeans Rectos'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

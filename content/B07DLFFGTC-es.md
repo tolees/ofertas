@@ -3,6 +3,7 @@ layout: post
 title: 'TRANVERZ S Equipaje de Mano  51 cm  42 L al 44.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31b8K5htziL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31b8K5htziL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31b8K5htziL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES Pcfrikka LS Wool Knit  suéter par al 74.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cO4JgmLNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cO4JgmLNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cO4JgmLNL._SL200_.jpg' ]
 comments: true
 category: ofertas

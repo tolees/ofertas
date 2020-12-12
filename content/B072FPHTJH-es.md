@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.36 % en Nike W Air Zoom Terra Kiger 4  Zapatilla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510p6yvFzjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510p6yvFzjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510p6yvFzjL._SL200_.jpg' ]
 comments: true
 category: ofertas

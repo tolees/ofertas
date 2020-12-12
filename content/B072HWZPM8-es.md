@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Play Up Capri-Twist Legging al 53.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BYE8b%2BlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BYE8b%2BlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BYE8b%2BlL._SL200_.jpg' ]
 comments: true
 category: ofertas

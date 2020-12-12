@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 097cc1g004 Chaqueta  Cream al 77.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51amsVJ-ZJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51amsVJ-ZJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51amsVJ-ZJL._SL200_.jpg' ]
 comments: true
 category: ofertas

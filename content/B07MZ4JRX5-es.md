@@ -3,6 +3,7 @@ layout: post
 title: 'Miraculous 10619 bañador Bebe  Rojo Roug al 38.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XoISQ3lYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XoISQ3lYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XoISQ3lYL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Snake Print Vestido Gris  Grey  al 63.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ik7xcFdeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ik7xcFdeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ik7xcFdeL._SL200_.jpg' ]
 comments: true
 category: ofertas

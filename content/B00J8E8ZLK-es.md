@@ -3,6 +3,7 @@ layout: post
 title: 'HyperX Fury - Memoria RAM de 8 GB  1600  al 48.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ENEdQByEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ENEdQByEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ENEdQByEL._SL200_.jpg' ]
 comments: true
 category: ofertas

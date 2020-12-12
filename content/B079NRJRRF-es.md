@@ -3,6 +3,7 @@ layout: post
 title: 'TACKLIFE Bomba Sumergible  Bombas de Agu al 74.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qf%2B3imaqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qf%2B3imaqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qf%2B3imaqL._SL200_.jpg' ]
 comments: true
 category: ofertas

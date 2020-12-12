@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.35 % en find. Abrigo Midi de Corte Recto en Tela'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31okwS0Lw0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31okwS0Lw0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31okwS0Lw0L._SL200_.jpg' ]
 comments: true
 category: ofertas

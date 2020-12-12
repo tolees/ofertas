@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Hombre Camiseta  Onchan Park Te al 44.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F0ZikMZhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F0ZikMZhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F0ZikMZhL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.00 % en G-STAR Defend - Vaqueros para hombre  Ac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NOVv3bhjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NOVv3bhjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NOVv3bhjL._SL200_.jpg' ]
 comments: true
 category: ofertas

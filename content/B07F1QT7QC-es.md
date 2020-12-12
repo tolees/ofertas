@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.83 % en Umi. Essentials - Protector de colchón a'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41niHYQrGkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41niHYQrGkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41niHYQrGkL._SL200_.jpg' ]
 comments: true
 category: ofertas

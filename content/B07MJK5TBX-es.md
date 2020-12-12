@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.78 % en Pablosky 462500 - Sandalias para Niñas  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WjcDeIoFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WjcDeIoFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WjcDeIoFL._SL200_.jpg' ]
 comments: true
 category: ofertas

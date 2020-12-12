@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.14 % en Blanqueamiento dental kit gel  iFanze Ki'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PqyS6in6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PqyS6in6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PqyS6in6L._SL200_.jpg' ]
 comments: true
 category: ofertas

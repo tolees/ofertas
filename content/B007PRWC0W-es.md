@@ -3,6 +3,7 @@ layout: post
 title: 'Orbegozo CT 23105 Ventilador de Techo  M al 31.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wjV3MquaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wjV3MquaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wjV3MquaL._SL200_.jpg' ]
 comments: true
 category: ofertas

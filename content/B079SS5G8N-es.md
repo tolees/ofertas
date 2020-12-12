@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual TS Dalila Camiseta de Manga 3/4 al 55.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uXqTMdYNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uXqTMdYNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uXqTMdYNL._SL200_.jpg' ]
 comments: true
 category: ofertas

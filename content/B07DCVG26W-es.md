@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.52 % en Reebok Speed Her TR  Zapatillas de Depor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pht1FVyKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pht1FVyKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pht1FVyKL._SL200_.jpg' ]
 comments: true
 category: ofertas

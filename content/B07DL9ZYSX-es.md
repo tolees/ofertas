@@ -3,6 +3,7 @@ layout: post
 title: 'Women s Secret Ca Llama PJ Conjuntos de  al 66.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g7c2-4pLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g7c2-4pLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g7c2-4pLL._SL200_.jpg' ]
 comments: true
 category: ofertas

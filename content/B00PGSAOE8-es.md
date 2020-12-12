@@ -3,6 +3,7 @@ layout: post
 title: 'L Oréal Paris Lápiz de Ojos Super Liner  al 67.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31W2yOnqI6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31W2yOnqI6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31W2yOnqI6L._SL200_.jpg' ]
 comments: true
 category: ofertas

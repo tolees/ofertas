@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.16 % en Mavi Adriana  Azul para Mujer   Blau Ove'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w5P-5JyYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w5P-5JyYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w5P-5JyYL._SL200_.jpg' ]
 comments: true
 category: ofertas

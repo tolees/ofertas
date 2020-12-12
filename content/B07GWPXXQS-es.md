@@ -3,6 +3,7 @@ layout: post
 title: 'Fullmosa Breeze Correa Cuero  8 Colores  al 57.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gT72dUFQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gT72dUFQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gT72dUFQL._SL200_.jpg' ]
 comments: true
 category: ofertas

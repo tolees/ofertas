@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Mattias B ABX A  Botas Chukka par al 77.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cqsBI9TVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cqsBI9TVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cqsBI9TVL._SL200_.jpg' ]
 comments: true
 category: ofertas

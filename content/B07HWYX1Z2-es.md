@@ -3,6 +3,7 @@ layout: post
 title: 'Leonhard Heyden Chicago Mochila para por al 27.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v89obqYuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v89obqYuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v89obqYuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange Magnetic Stripe Logo  Un al 48.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BGmUItm0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BGmUItm0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BGmUItm0L._SL200_.jpg' ]
 comments: true
 category: ofertas

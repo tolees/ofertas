@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.07 % en BOSS Hugo Boxer BM  Bóxer Hombre  Blanco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51E9-DzPbTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51E9-DzPbTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51E9-DzPbTL._SL200_.jpg' ]
 comments: true
 category: ofertas

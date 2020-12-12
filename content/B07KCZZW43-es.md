@@ -3,6 +3,7 @@ layout: post
 title: 'Energy Beat Box 2+ Lightcube Granite  Be al 44.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XaQbg59JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XaQbg59JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XaQbg59JL._SL200_.jpg' ]
 comments: true
 category: ofertas

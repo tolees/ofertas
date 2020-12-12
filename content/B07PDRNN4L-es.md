@@ -3,6 +3,7 @@ layout: post
 title: 'Laiwodun Bikini de Dos Piezas para Mujer al 35.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yx41DwfeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yx41DwfeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yx41DwfeL._SL200_.jpg' ]
 comments: true
 category: ofertas

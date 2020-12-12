@@ -3,6 +3,7 @@ layout: post
 title: 'Joma - Chaqueta Capucha Combi Amarillo F al 58.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lnDrHx6wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lnDrHx6wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lnDrHx6wL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.55 % en Auricular Bluetooth estéreo inalámbrico '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cp50wZIoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cp50wZIoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cp50wZIoL._SL200_.jpg' ]
 comments: true
 category: ofertas

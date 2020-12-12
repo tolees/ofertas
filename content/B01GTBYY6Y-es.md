@@ -3,6 +3,7 @@ layout: post
 title: 'DKNY Intimates Nightfall-Sheer Lace  Suj al 45.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NZ2l9Cf6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NZ2l9Cf6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NZ2l9Cf6L._SL200_.jpg' ]
 comments: true
 category: ofertas

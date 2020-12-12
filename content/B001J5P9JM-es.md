@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.33 % en Gardena 8141-20 Aspersor  Gris  Naranja '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NHm2yWm0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NHm2yWm0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NHm2yWm0L._SL200_.jpg' ]
 comments: true
 category: ofertas

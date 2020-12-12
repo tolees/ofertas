@@ -3,6 +3,7 @@ layout: post
 title: 'Pedros Jaula para Aves  60 cm al 33.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V5fF1V%2BwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V5fF1V%2BwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V5fF1V%2BwL._SL200_.jpg' ]
 comments: true
 category: ofertas

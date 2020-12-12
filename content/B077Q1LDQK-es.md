@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.69 % en Lotus Reloj Analógico para Mujer de Cuar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ou1aegZqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ou1aegZqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ou1aegZqL._SL200_.jpg' ]
 comments: true
 category: ofertas

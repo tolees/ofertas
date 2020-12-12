@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Solvi  Zapatillas de Running al 69.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NL8716S%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NL8716S%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NL8716S%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

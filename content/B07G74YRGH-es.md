@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.14 % en XLTOK Cargador Inalámbrico Rápido 10W  F'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZFgECcuCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZFgECcuCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZFgECcuCL._SL200_.jpg' ]
 comments: true
 category: ofertas

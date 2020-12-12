@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour AF Graphic Po Sudadera  Hom al 58.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c1sF%2BI9sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c1sF%2BI9sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c1sF%2BI9sL._SL200_.jpg' ]
 comments: true
 category: ofertas

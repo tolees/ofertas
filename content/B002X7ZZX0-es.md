@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.88 % en Pikolinos - Botas de cuero para hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dxw-l2VqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dxw-l2VqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dxw-l2VqL._SL200_.jpg' ]
 comments: true
 category: ofertas

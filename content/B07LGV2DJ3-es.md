@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.85 % en MaxTronic Coche RC 1/20 Proporción 2.4GH'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TJPDNPfDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TJPDNPfDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TJPDNPfDL._SL200_.jpg' ]
 comments: true
 category: ofertas

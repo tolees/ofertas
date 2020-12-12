@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop!- Stranger Things: 6" Demogorg al 39.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412l6RG2F%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412l6RG2F%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412l6RG2F%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.94 % en Levi s LEVIS FOOTWEAR AND ACCESSORIES Fr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312Lne4yemL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312Lne4yemL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312Lne4yemL._SL200_.jpg' ]
 comments: true
 category: ofertas

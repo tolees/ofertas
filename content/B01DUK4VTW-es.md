@@ -3,6 +3,7 @@ layout: post
 title: 'DC Super Hero Girls- Wonder Woman Disney al 75.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413-ttLN3jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413-ttLN3jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413-ttLN3jL._SL200_.jpg' ]
 comments: true
 category: ofertas

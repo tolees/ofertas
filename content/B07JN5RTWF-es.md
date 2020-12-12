@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.33 % en Lacoste Ramm102 - Bóxer Hombre  Pack de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o2bfSzPwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o2bfSzPwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o2bfSzPwL._SL200_.jpg' ]
 comments: true
 category: ofertas

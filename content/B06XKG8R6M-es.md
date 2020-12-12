@@ -3,6 +3,7 @@ layout: post
 title: 'Max Max & Co CO.330/S K2 08A 50 Gafas de al 71.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s15Lq7eLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s15Lq7eLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s15Lq7eLL._SL200_.jpg' ]
 comments: true
 category: ofertas

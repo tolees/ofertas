@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.24 % en Cressi Flash Swim Goggles Gafas de Natac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yiJZjHwcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yiJZjHwcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yiJZjHwcL._SL200_.jpg' ]
 comments: true
 category: ofertas

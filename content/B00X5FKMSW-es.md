@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Reloj Cronógrafo para Hombre de C al 29.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516dANFxgML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516dANFxgML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516dANFxgML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.54 % en Springfield 8232482 Parka  Verde  Green '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bUzcgmtFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bUzcgmtFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bUzcgmtFL._SL200_.jpg' ]
 comments: true
 category: ofertas

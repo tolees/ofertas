@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.39 % en Puma One 17.4 TT V Inf  Zapatillas de Fú'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qzaL87edL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qzaL87edL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qzaL87edL._SL200_.jpg' ]
 comments: true
 category: ofertas

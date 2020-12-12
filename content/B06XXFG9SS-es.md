@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.48 % en Philips OneBlade Set Recorte Facial - 80'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jIn%2B92IsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jIn%2B92IsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jIn%2B92IsL._SL200_.jpg' ]
 comments: true
 category: ofertas

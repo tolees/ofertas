@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.84 % en Under Armour Ua Bps Pursuit Zapatillas d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vI%2Bg6tx1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vI%2Bg6tx1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vI%2Bg6tx1L._SL200_.jpg' ]
 comments: true
 category: ofertas

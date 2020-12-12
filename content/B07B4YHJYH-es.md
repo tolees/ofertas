@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Keepsakes 2.0  Botas Efecto Arr al 64.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4122Hmtp3PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4122Hmtp3PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4122Hmtp3PL._SL200_.jpg' ]
 comments: true
 category: ofertas

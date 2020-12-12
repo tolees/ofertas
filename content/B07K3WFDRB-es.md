@@ -3,6 +3,7 @@ layout: post
 title: 'Taladro Atornillador bergwerk T005 3.8V  al 79.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ESM1lNzyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ESM1lNzyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ESM1lNzyL._SL200_.jpg' ]
 comments: true
 category: ofertas

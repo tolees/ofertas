@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.73 % en Nuk Classic Set de 2 chupetes para niño '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vne4FKmwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vne4FKmwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vne4FKmwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Adultos Pro 2.0 muñeca y Pulgar Ven al 28.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KcC0hDH9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KcC0hDH9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KcC0hDH9L._SL200_.jpg' ]
 comments: true
 category: ofertas

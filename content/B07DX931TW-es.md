@@ -3,6 +3,7 @@ layout: post
 title: '3 Pommes Dress  Vestido Bebé-Niñas  Marr al 58.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bvtm%2Bk-QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bvtm%2Bk-QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bvtm%2Bk-QL._SL200_.jpg' ]
 comments: true
 category: ofertas

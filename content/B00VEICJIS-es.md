@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Camper Pelotas 29164-065 Zapatos Planos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EJIQ-CxaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EJIQ-CxaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EJIQ-CxaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Enfield Coco  Botas Estilo Motero al 65.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eU7nr-k3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eU7nr-k3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eU7nr-k3L._SL200_.jpg' ]
 comments: true
 category: ofertas

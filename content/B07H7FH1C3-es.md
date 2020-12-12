@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.43 % en ELINKUME G9 LED Lámpara 4W Blanco cálido'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YdS3QuazL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YdS3QuazL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YdS3QuazL._SL200_.jpg' ]
 comments: true
 category: ofertas

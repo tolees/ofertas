@@ -3,6 +3,7 @@ layout: post
 title: 'Colgate Total Pro Gum Health cepillo de  al 82.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4188e6KijCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4188e6KijCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4188e6KijCL._SL200_.jpg' ]
 comments: true
 category: ofertas

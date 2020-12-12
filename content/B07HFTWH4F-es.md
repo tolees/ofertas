@@ -3,6 +3,7 @@ layout: post
 title: 'CAMEL CROWN Pantalones de Invierno para  al 44.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lARrUiv1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lARrUiv1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lARrUiv1L._SL200_.jpg' ]
 comments: true
 category: ofertas

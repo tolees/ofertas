@@ -3,6 +3,7 @@ layout: post
 title: 'Joma - Soft Shell Campus II Blanco para  al 73.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BeID6Q-PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BeID6Q-PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BeID6Q-PL._SL200_.jpg' ]
 comments: true
 category: ofertas

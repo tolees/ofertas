@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.35 % en Under Armour UA Tech Graphic Short Nov P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QSbFb-HJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QSbFb-HJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QSbFb-HJL._SL200_.jpg' ]
 comments: true
 category: ofertas

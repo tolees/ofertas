@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.99 % en Puma Ess No.1 Leggings W- Pantalón  muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sT6-k0NML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sT6-k0NML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sT6-k0NML._SL200_.jpg' ]
 comments: true
 category: ofertas

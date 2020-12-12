@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.73 % en Años 720P Cámara de vigilancia Bullet Ca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513GOzmOKpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513GOzmOKpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513GOzmOKpL._SL200_.jpg' ]
 comments: true
 category: ofertas

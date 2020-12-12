@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom para Hombre Chino Pant Maldito Mo al 53.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qVz8yI5sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qVz8yI5sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qVz8yI5sL._SL200_.jpg' ]
 comments: true
 category: ofertas

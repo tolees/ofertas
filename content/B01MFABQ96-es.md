@@ -3,6 +3,7 @@ layout: post
 title: 'oneConcept V-12 • Equipo estéreo • Minic al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419BUlhaVAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419BUlhaVAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419BUlhaVAL._SL200_.jpg' ]
 comments: true
 category: ofertas

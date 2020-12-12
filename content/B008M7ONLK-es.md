@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.48 % en Targus ACP71EUZA SuperSpeed estación de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RUsXNRgjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RUsXNRgjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RUsXNRgjL._SL200_.jpg' ]
 comments: true
 category: ofertas

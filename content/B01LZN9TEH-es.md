@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera Unisex adulto 5037/S XT UZ4 Gafa al 53.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fwFjkxY7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fwFjkxY7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fwFjkxY7L._SL200_.jpg' ]
 comments: true
 category: ofertas

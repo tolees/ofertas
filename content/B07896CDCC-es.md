@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.48 % en Asalvo 15723 - Andador de bebé  diseño d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pSmP90hoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pSmP90hoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pSmP90hoL._SL200_.jpg' ]
 comments: true
 category: ofertas

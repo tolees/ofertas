@@ -3,6 +3,7 @@ layout: post
 title: 'Draper 12400 - Guía para afilar  3-67 mm al 66.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZnyDSAshL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZnyDSAshL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZnyDSAshL._SL200_.jpg' ]
 comments: true
 category: ofertas

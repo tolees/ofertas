@@ -3,6 +3,7 @@ layout: post
 title: 'Hackett London Hackett  Polo para Hombre al 45.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zuf7dV1kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zuf7dV1kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zuf7dV1kL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Hansgrohe 26824400 Crometta 100 Vario du al 41.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BfvtL-IpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BfvtL-IpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BfvtL-IpL._SL200_.jpg' ]
 comments: true
 category: ofertas

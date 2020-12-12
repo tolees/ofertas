@@ -3,6 +3,7 @@ layout: post
 title: 'HYZH 6 L Contenedor de residuos con tapa al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qPhB5OQML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qPhB5OQML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qPhB5OQML._SL200_.jpg' ]
 comments: true
 category: ofertas

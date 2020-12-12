@@ -3,6 +3,7 @@ layout: post
 title: 'VIBOX FX-27 - Ordenador de sobremesa Gam al 46.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kNCX7pEwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kNCX7pEwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kNCX7pEwL._SL200_.jpg' ]
 comments: true
 category: ofertas

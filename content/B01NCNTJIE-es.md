@@ -3,6 +3,7 @@ layout: post
 title: 'Sloggi SLM 24/7 Hipster 2p  Pantalones C al 45.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q%2BK9%2BKDIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q%2BK9%2BKDIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q%2BK9%2BKDIL._SL200_.jpg' ]
 comments: true
 category: ofertas

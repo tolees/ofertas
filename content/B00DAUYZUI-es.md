@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.22 % en Paco Rabanne Invictus After Shave Balm 1'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y3f3KTG8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31y3f3KTG8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y3f3KTG8L._SL200_.jpg' ]
 comments: true
 category: ofertas

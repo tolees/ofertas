@@ -3,6 +3,7 @@ layout: post
 title: 'Denver SDQ-52004L - Smartphone Dual SIM  al 32.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41763QefH5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41763QefH5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41763QefH5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.46 % en Sony MDRXD150 - Auriculares de Diadema C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CRW9ZzbcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CRW9ZzbcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CRW9ZzbcL._SL200_.jpg' ]
 comments: true
 category: ofertas

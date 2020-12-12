@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.25 % en Garmin Vivofit 4 - Reloj  Fitness Rastre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SjNDgIAXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjNDgIAXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SjNDgIAXL._SL200_.jpg' ]
 comments: true
 category: ofertas

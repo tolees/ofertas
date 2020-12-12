@@ -3,6 +3,7 @@ layout: post
 title: 'Vila Clothes Vichassa L/s Knit Top-Noos  al 48.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mismsX2YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mismsX2YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mismsX2YL._SL200_.jpg' ]
 comments: true
 category: ofertas

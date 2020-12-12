@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas 107370 Vestido  Azul    al 56.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4110zOQixnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4110zOQixnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4110zOQixnL._SL200_.jpg' ]
 comments: true
 category: ofertas

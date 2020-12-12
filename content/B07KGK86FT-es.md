@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.04 % en Under Armour Tech Polo  Hombre  Gris  Gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1EIb4o8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1EIb4o8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y1EIb4o8L._SL200_.jpg' ]
 comments: true
 category: ofertas

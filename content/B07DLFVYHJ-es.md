@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield FR Ml Logo 1988 Sudadera  Ho al 46.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NFo7JxxpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NFo7JxxpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NFo7JxxpL._SL200_.jpg' ]
 comments: true
 category: ofertas

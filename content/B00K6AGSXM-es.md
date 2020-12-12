@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.69 % en James & Nicholson Children s - Sudadera '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316IHEIds5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316IHEIds5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316IHEIds5L._SL200_.jpg' ]
 comments: true
 category: ofertas

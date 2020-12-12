@@ -3,6 +3,7 @@ layout: post
 title: 'Orbegozo SV 2625 2625-Plancha de Vapor   al 48.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UNGr7ePgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UNGr7ePgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UNGr7ePgL._SL200_.jpg' ]
 comments: true
 category: ofertas

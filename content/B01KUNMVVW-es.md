@@ -3,6 +3,7 @@ layout: post
 title: 'Solac CE4493 - Cafetera Espresso 19 Bar  al 48.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sskUTtKQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sskUTtKQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sskUTtKQL._SL200_.jpg' ]
 comments: true
 category: ofertas

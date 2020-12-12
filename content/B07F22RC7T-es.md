@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.40 % en Timberland Tidelands Classic 2 Eye  Náut'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PkR9hjP1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PkR9hjP1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PkR9hjP1L._SL200_.jpg' ]
 comments: true
 category: ofertas

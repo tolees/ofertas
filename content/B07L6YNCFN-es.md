@@ -3,6 +3,7 @@ layout: post
 title: 'LIU JO Shoes Alexa-Running  Zapatillas p al 43.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qWpMBpggL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qWpMBpggL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qWpMBpggL._SL200_.jpg' ]
 comments: true
 category: ofertas

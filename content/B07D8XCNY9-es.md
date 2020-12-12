@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.01 % en Eono Essentials 6 Set Cubos de embalaje '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UpG9VbcaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UpG9VbcaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UpG9VbcaL._SL200_.jpg' ]
 comments: true
 category: ofertas

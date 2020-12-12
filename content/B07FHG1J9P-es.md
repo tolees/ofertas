@@ -3,6 +3,7 @@ layout: post
 title: 'Palladium Retro Lt SY U  Zapatillas Alta al 79.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wQQ-flg5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wQQ-flg5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wQQ-flg5L._SL200_.jpg' ]
 comments: true
 category: ofertas

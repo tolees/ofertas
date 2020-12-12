@@ -3,6 +3,7 @@ layout: post
 title: 'Nishci Mi Band 4 Watch  Xiaomi Band 4ta  al 27.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nNNgORuiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nNNgORuiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nNNgORuiL._SL200_.jpg' ]
 comments: true
 category: ofertas

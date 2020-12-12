@@ -3,6 +3,7 @@ layout: post
 title: 'Panasonic Eneloop Níquel Metal hidruro 7 al 52.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VCFy5ehIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VCFy5ehIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VCFy5ehIL._SL200_.jpg' ]
 comments: true
 category: ofertas

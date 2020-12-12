@@ -3,6 +3,7 @@ layout: post
 title: 'STAR WARS Figura de Base de Aventura Pla al 55.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zWveNICPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zWveNICPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zWveNICPL._SL200_.jpg' ]
 comments: true
 category: ofertas

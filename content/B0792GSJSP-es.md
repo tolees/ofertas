@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.78 % en Geox D Vivyanne Mid C  Botines para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317Zle4U0LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317Zle4U0LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317Zle4U0LL._SL200_.jpg' ]
 comments: true
 category: ofertas

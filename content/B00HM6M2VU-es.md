@@ -3,6 +3,7 @@ layout: post
 title: 'Skagen Reloj de Pulsera SKW2141 al 73.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qv3lGKYsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qv3lGKYsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qv3lGKYsL._SL200_.jpg' ]
 comments: true
 category: ofertas

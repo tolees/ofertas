@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.81 % en Springfield 5Wo-Harrington Moda  Chaquet'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413k4Cq3qHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413k4Cq3qHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413k4Cq3qHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SUPSOO Cascos Gaming  G820 Súper Cómodo  al 72.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WwncvAxXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WwncvAxXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WwncvAxXL._SL200_.jpg' ]
 comments: true
 category: ofertas

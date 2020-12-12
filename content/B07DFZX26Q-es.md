@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.47 % en Homyl Altavoz Estéreo Inalámbrico Portát'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410ztqtGNxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410ztqtGNxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410ztqtGNxL._SL200_.jpg' ]
 comments: true
 category: ofertas

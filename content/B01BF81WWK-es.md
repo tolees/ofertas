@@ -3,6 +3,7 @@ layout: post
 title: 'Berghoff 3700119 Sartén Red 20 cm al 46.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bkUFnm5eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bkUFnm5eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bkUFnm5eL._SL200_.jpg' ]
 comments: true
 category: ofertas

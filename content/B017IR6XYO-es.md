@@ -3,6 +3,7 @@ layout: post
 title: 'Tucano Svolta Large 15.6" Maletín Negro  al 67.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rfa05Z1yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rfa05Z1yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rfa05Z1yL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange J15 Straight Vaqueros  A al 48.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418S1UCk4AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418S1UCk4AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418S1UCk4AL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Mujer Pantalón de Senderismo  S al 48.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318iorz3F2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318iorz3F2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318iorz3F2L._SL200_.jpg' ]
 comments: true
 category: ofertas

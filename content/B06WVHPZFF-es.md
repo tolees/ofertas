@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.06 % en SideCar Ayuda-V17 Camiseta  Mujer   Esta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kf4TIvcrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kf4TIvcrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kf4TIvcrL._SL200_.jpg' ]
 comments: true
 category: ofertas

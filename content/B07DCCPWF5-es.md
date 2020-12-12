@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.65 % en Puma RS-150 Wn s  Zapatillas para Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w20GSOzLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31w20GSOzLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31w20GSOzLL._SL200_.jpg' ]
 comments: true
 category: ofertas

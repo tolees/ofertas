@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.50 % en Nike W Np Top Ss All Over Mesh  Camiseta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DZkC6vcwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DZkC6vcwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DZkC6vcwL._SL200_.jpg' ]
 comments: true
 category: ofertas

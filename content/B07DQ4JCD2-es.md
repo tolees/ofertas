@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Midweight Calzoncillos Térmicos   al 60.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414MJeASU%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414MJeASU%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414MJeASU%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

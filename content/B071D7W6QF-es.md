@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.99 % en Philips Hue Hue White Ambiance Milliskin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yhR%2BdV3CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yhR%2BdV3CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yhR%2BdV3CL._SL200_.jpg' ]
 comments: true
 category: ofertas

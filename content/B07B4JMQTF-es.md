@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley Shoreside 19 Bañador  Hombre  Azu al 46.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zOgl%2BfryL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zOgl%2BfryL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zOgl%2BfryL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.04 % en Clarks Un Globe Vibe  Zapatos de Cordone'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31a7BQHLwaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31a7BQHLwaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31a7BQHLwaL._SL200_.jpg' ]
 comments: true
 category: ofertas

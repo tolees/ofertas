@@ -3,6 +3,7 @@ layout: post
 title: 'Bichos  una aventura en miniatura [Blu-r al 59.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ejSMMx6UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ejSMMx6UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ejSMMx6UL._SL200_.jpg' ]
 comments: true
 category: ofertas

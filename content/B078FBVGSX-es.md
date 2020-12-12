@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.75 % en Adidas Duramo 8 Trainer M  Zapatillas de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IBV6X3AWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IBV6X3AWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IBV6X3AWL._SL200_.jpg' ]
 comments: true
 category: ofertas

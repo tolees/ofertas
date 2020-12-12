@@ -3,6 +3,7 @@ layout: post
 title: 'WYBAN E-Cigarette 80W 2200mAh Batería LC al 79.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YIsLgc5nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YIsLgc5nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YIsLgc5nL._SL200_.jpg' ]
 comments: true
 category: ofertas

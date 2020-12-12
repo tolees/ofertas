@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.32 % en Lee Relaxed Western Blusa  Marfil  Faded'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oHrZY0oWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oHrZY0oWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oHrZY0oWL._SL200_.jpg' ]
 comments: true
 category: ofertas

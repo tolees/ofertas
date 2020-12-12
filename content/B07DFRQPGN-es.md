@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Rebel Block FL cl Pants  Hombre  Pe al 58.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rUut4eERL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rUut4eERL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rUut4eERL._SL200_.jpg' ]
 comments: true
 category: ofertas

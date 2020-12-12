@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Candy PL401524 Chaqueta  Azul al 59.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OOl0hlNxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OOl0hlNxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OOl0hlNxL._SL200_.jpg' ]
 comments: true
 category: ofertas

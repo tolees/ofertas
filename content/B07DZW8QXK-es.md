@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.00 % en Levis Footwear and Accessories Dodge Spo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j0Yj84uOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j0Yj84uOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j0Yj84uOL._SL200_.jpg' ]
 comments: true
 category: ofertas

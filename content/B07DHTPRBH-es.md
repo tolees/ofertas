@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy Jetty Chaqueta  Mujer   Bright Blan al 53.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a2RiETDiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51a2RiETDiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a2RiETDiL._SL200_.jpg' ]
 comments: true
 category: ofertas

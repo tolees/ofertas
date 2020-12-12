@@ -3,6 +3,7 @@ layout: post
 title: 'Garmol 404TR2 PO C5 Carro de Compra 2 Ru al 41.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zctKjI8wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zctKjI8wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zctKjI8wL._SL200_.jpg' ]
 comments: true
 category: ofertas

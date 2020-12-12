@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.84 % en Gioseppo 46224-P  Botas Camperas para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dY3dLhOnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dY3dLhOnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dY3dLhOnL._SL200_.jpg' ]
 comments: true
 category: ofertas

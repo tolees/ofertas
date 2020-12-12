@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Evopower Grip 4.3 Guantes de Porter al 33.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y5ie1q9IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y5ie1q9IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y5ie1q9IL._SL200_.jpg' ]
 comments: true
 category: ofertas

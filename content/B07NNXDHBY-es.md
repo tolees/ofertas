@@ -3,6 +3,7 @@ layout: post
 title: 'Sony Xperia XZ2  color plata + Marvel s  al 35.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411i8PL6adL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411i8PL6adL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411i8PL6adL._SL200_.jpg' ]
 comments: true
 category: ofertas

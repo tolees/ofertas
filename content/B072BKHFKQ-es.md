@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.09 % en Inside 4SPLN27& Camiseta  Gris  Medium  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e-EljRrgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51e-EljRrgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e-EljRrgL._SL200_.jpg' ]
 comments: true
 category: ofertas

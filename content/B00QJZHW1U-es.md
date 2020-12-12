@@ -3,6 +3,7 @@ layout: post
 title: 'Post-It Super Sticky 6556SR - Pack de 6  al 26.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412GR5POgHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412GR5POgHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412GR5POgHL._SL200_.jpg' ]
 comments: true
 category: ofertas

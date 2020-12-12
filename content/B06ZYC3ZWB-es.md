@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.56 % en Gigabyte GV-RX580AORUS-4GD Radeon RX 580'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I2W8RMBlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I2W8RMBlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I2W8RMBlL._SL200_.jpg' ]
 comments: true
 category: ofertas

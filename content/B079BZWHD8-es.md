@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.36 % en Puma Vikky Platform Ribbon S  Zapatillas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hrqbrNqqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hrqbrNqqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hrqbrNqqL._SL200_.jpg' ]
 comments: true
 category: ofertas

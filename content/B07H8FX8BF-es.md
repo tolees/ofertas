@@ -3,6 +3,7 @@ layout: post
 title: 'Cámara IP WiFi  LXMIMI HD 1080P Cámara d al 75.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v5WEe50HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v5WEe50HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v5WEe50HL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.65 % en Puma 1/4 Zip Energy Hoodie Chaqueta Bord'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DOFLuMeRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DOFLuMeRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DOFLuMeRL._SL200_.jpg' ]
 comments: true
 category: ofertas

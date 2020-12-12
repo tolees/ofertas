@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.06 % en The North Face M Durango HD Chaqueta  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wHkrTSJVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wHkrTSJVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wHkrTSJVL._SL200_.jpg' ]
 comments: true
 category: ofertas

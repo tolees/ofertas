@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.10 % en Educa Borrás- Animalisto Haku  Oso Panda'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61NVPadxqIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61NVPadxqIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61NVPadxqIL._SL200_.jpg' ]
 comments: true
 category: ofertas

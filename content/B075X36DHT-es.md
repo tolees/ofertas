@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.39 % en Carrera 4005/S W3 003  Gafas de sol para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417el6mSN6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417el6mSN6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417el6mSN6L._SL200_.jpg' ]
 comments: true
 category: ofertas

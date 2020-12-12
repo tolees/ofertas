@@ -3,6 +3,7 @@ layout: post
 title: 'Wanachi Vibrador - 1 unidad al 32.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I7Ed5aN4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I7Ed5aN4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I7Ed5aN4L._SL200_.jpg' ]
 comments: true
 category: ofertas

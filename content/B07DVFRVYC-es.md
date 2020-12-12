@@ -3,6 +3,7 @@ layout: post
 title: 'AFBEST Aspirador de Mano Sin Cable  Aspi al 53.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SlxeMfR4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SlxeMfR4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SlxeMfR4L._SL200_.jpg' ]
 comments: true
 category: ofertas

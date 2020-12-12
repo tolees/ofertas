@@ -3,6 +3,7 @@ layout: post
 title: 'Surplus - Chaqueta de manga larga para h al 82.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T2lYRsG1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T2lYRsG1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T2lYRsG1L._SL200_.jpg' ]
 comments: true
 category: ofertas

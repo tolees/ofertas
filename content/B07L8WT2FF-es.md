@@ -3,6 +3,7 @@ layout: post
 title: 'TOPERSUN Lápiz de Color 72 Colores Regal al 74.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51akVW0%2BFIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51akVW0%2BFIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51akVW0%2BFIL._SL200_.jpg' ]
 comments: true
 category: ofertas

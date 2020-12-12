@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Active Interlock Chándal  Hombre  W al 45.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C7IwHX0qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31C7IwHX0qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C7IwHX0qL._SL200_.jpg' ]
 comments: true
 category: ofertas

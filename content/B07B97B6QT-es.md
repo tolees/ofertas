@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Vargo Plain  Zapatos de Cordones  al 35.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rY%2ByEsaML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rY%2ByEsaML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rY%2ByEsaML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.17 % en Catlike 180055 Casco de Ciclismo  Azul  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wt6nsAvTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wt6nsAvTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wt6nsAvTL._SL200_.jpg' ]
 comments: true
 category: ofertas

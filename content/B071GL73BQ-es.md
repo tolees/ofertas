@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.89 % en Mochila preescolar Octonautas Explorador'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h16jdSh%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51h16jdSh%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h16jdSh%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Zip Thru Ladies  Sudadera con al 40.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cLtg7%2BBlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cLtg7%2BBlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cLtg7%2BBlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.59 % en Pepe Jeans London Hyke W Camu  Botines p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412jQTLsoGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412jQTLsoGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412jQTLsoGL._SL200_.jpg' ]
 comments: true
 category: ofertas

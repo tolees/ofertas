@@ -3,6 +3,7 @@ layout: post
 title: 'S&R Mango Articulado Llaves de Carraca T al 30.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dN65mOzhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dN65mOzhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dN65mOzhL._SL200_.jpg' ]
 comments: true
 category: ofertas

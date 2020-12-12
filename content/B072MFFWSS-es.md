@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en FIND Zapatillas Grabado Reptil para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319j0b6xB%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319j0b6xB%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319j0b6xB%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

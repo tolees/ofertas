@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.09 % en FIND Pantalón Vaquero Skinny Hombre  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417DYs6DH0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417DYs6DH0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417DYs6DH0L._SL200_.jpg' ]
 comments: true
 category: ofertas

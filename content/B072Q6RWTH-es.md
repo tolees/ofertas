@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.07 % en Reebok Cloudride DMX 2.0  Zapatillas de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zM%2BQj-56L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zM%2BQj-56L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zM%2BQj-56L._SL200_.jpg' ]
 comments: true
 category: ofertas

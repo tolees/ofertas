@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Relapse Mascara  Hombre  Negro/Ve al 45.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VJd8770SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VJd8770SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VJd8770SL._SL200_.jpg' ]
 comments: true
 category: ofertas

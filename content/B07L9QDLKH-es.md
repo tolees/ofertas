@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf KENR136AD Vestido  Azul  Bleu Ma al 67.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YM8RTTNOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YM8RTTNOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YM8RTTNOL._SL200_.jpg' ]
 comments: true
 category: ofertas

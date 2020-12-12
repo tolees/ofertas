@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.82 % en OMRON BF212 - Báscula de baño digital co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IQfIZBReL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IQfIZBReL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IQfIZBReL._SL200_.jpg' ]
 comments: true
 category: ofertas

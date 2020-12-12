@@ -3,6 +3,7 @@ layout: post
 title: 'WisFox Ratón inalámbrico  2.4 G USB Rató al 39.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rTH-8J-9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rTH-8J-9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rTH-8J-9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.98 % en Homever Tabla de Cortar  Juego de Tablas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TlcYiTUVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TlcYiTUVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TlcYiTUVL._SL200_.jpg' ]
 comments: true
 category: ofertas

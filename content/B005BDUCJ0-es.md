@@ -3,6 +3,7 @@ layout: post
 title: 'Saucony Shadow Original Ripstop  Zapatil al 51.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AdTMTNl6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AdTMTNl6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AdTMTNl6L._SL200_.jpg' ]
 comments: true
 category: ofertas

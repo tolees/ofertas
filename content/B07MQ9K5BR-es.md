@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.89 % en adidas W AOP HDY Sudadera  Mujer  Negro/'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411wK5VkOzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411wK5VkOzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411wK5VkOzL._SL200_.jpg' ]
 comments: true
 category: ofertas

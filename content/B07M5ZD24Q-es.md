@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.99 % en G-STAR RAW D-STAQ 5-Pocket Skinny Colore'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HG71YfQ3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HG71YfQ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HG71YfQ3L._SL200_.jpg' ]
 comments: true
 category: ofertas

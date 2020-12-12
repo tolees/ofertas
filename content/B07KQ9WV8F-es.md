@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.58 % en adidas Essentials AOP Tights  1/1   Niña'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mXhRHdsPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mXhRHdsPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mXhRHdsPL._SL200_.jpg' ]
 comments: true
 category: ofertas

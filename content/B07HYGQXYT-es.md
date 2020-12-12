@@ -3,6 +3,7 @@ layout: post
 title: 'Bergner Q2921 Set 5pc batería de cocina  al 29.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qtcb1s6tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qtcb1s6tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qtcb1s6tL._SL200_.jpg' ]
 comments: true
 category: ofertas

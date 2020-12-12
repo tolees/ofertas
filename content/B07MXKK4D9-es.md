@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Coton Logo SS tee Camiseta  Homb al 47.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sR4nTtr3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sR4nTtr3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sR4nTtr3L._SL200_.jpg' ]
 comments: true
 category: ofertas

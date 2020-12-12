@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.68 % en Joma - Fleece Short  Color Royal  Talla '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v4p1-vNSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v4p1-vNSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v4p1-vNSL._SL200_.jpg' ]
 comments: true
 category: ofertas

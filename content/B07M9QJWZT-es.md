@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 High Waist Skinny Vaquer al 68.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vojGkk1EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vojGkk1EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vojGkk1EL._SL200_.jpg' ]
 comments: true
 category: ofertas

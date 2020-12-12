@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Supersoft Superskinny Vaquero S al 73.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311H3bbPpuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311H3bbPpuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311H3bbPpuL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Jhnt57d  Camiseta de Manga Larga al 65.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rJjmKyBWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rJjmKyBWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rJjmKyBWL._SL200_.jpg' ]
 comments: true
 category: ofertas

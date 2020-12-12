@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Star Sudadera  Hombre  Negro  B al 57.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317HnvK7cXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317HnvK7cXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317HnvK7cXL._SL200_.jpg' ]
 comments: true
 category: ofertas

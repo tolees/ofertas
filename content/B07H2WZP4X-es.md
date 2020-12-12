@@ -3,6 +3,7 @@ layout: post
 title: 'Milacolato Aretes de acero inoxidable mi al 55.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-rmM9unXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-rmM9unXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-rmM9unXL._SL200_.jpg' ]
 comments: true
 category: ofertas

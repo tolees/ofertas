@@ -3,6 +3,7 @@ layout: post
 title: 'Tous MOCHILA VERA JEANS al 40.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X8%2B-qK97L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X8%2B-qK97L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X8%2B-qK97L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Roadhawk FF 2  Zapatillas de Entre al 56.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W%2B-1gMRiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W%2B-1gMRiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W%2B-1gMRiL._SL200_.jpg' ]
 comments: true
 category: ofertas

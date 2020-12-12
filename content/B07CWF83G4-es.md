@@ -3,6 +3,7 @@ layout: post
 title: 'Loveusexy Soft Bullet rotaciš®n vibra-do al 72.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LwFB1B9KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LwFB1B9KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LwFB1B9KL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 88.56 % en Evans Extra Wide Tan Slip On  Mocasines '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eJXWpLlkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eJXWpLlkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eJXWpLlkL._SL200_.jpg' ]
 comments: true
 category: ofertas

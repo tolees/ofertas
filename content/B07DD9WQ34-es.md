@@ -3,6 +3,7 @@ layout: post
 title: 'Puma One Grip 1 Hybrid Pro Goalkeeper Gl al 40.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dhkdhLFqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dhkdhLFqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dhkdhLFqL._SL200_.jpg' ]
 comments: true
 category: ofertas

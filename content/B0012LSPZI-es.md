@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.92 % en Fellowes - Soporte metálico CPU  Grafito'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pkk6JvpfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pkk6JvpfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pkk6JvpfL._SL200_.jpg' ]
 comments: true
 category: ofertas

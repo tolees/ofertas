@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.59 % en Under Armour Storm Anorak Chaqueta  Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qrOHLOh%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qrOHLOh%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qrOHLOh%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

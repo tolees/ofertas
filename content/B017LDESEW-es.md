@@ -3,6 +3,7 @@ layout: post
 title: 'Panter 370101616 - TLALOC ANTIGRASA ALTA al 53.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o2nvLBzfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31o2nvLBzfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o2nvLBzfL._SL200_.jpg' ]
 comments: true
 category: ofertas

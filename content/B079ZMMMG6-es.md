@@ -3,6 +3,7 @@ layout: post
 title: 'HUGO Erriko Camisa  Blanco  Open White 1 al 69.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GO1MnMkUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GO1MnMkUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GO1MnMkUL._SL200_.jpg' ]
 comments: true
 category: ofertas

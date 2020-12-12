@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.18 % en TROTEC Anemómetro de tubo de Pitot TA400'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X9L3FUwgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X9L3FUwgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X9L3FUwgL._SL200_.jpg' ]
 comments: true
 category: ofertas

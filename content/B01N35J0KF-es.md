@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.66 % en XTI 030603  Bailarinas con Punta Cerrada'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kLR6DkNLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kLR6DkNLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kLR6DkNLL._SL200_.jpg' ]
 comments: true
 category: ofertas

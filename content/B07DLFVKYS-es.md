@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4Wo M/Ranglan Block Gg12 Jer al 71.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yemeMy2YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yemeMy2YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yemeMy2YL._SL200_.jpg' ]
 comments: true
 category: ofertas

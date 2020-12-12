@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.85 % en Clarks Dalia Leah  Zapatos de Tacón para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wQqCpDc8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wQqCpDc8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wQqCpDc8L._SL200_.jpg' ]
 comments: true
 category: ofertas

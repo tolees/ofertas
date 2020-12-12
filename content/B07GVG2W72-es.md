@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.56 % en Hoyxel - Abrebotellas eléctrico para Vin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gvi%2BP1tHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gvi%2BP1tHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gvi%2BP1tHL._SL200_.jpg' ]
 comments: true
 category: ofertas

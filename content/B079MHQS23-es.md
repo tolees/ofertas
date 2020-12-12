@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.08 % en Pepe Jeans 6042361 Trade Mochila Escolar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51G-TTwk%2BuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51G-TTwk%2BuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51G-TTwk%2BuL._SL200_.jpg' ]
 comments: true
 category: ofertas

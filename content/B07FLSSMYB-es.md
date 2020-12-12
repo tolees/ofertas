@@ -3,6 +3,7 @@ layout: post
 title: 'Pulsera Actividad  Reloj deportivo Intel al 99.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XE9NETKLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XE9NETKLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XE9NETKLL._SL200_.jpg' ]
 comments: true
 category: ofertas

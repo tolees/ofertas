@@ -3,6 +3,7 @@ layout: post
 title: 'Lámpara colgante Retro industriales  AC  al 50.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZxwBA-CzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZxwBA-CzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZxwBA-CzL._SL200_.jpg' ]
 comments: true
 category: ofertas

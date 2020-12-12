@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.95 % en ProfiCook PC-UMS 1085 Batidora de Vaso y'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vRSMua2CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vRSMua2CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vRSMua2CL._SL200_.jpg' ]
 comments: true
 category: ofertas

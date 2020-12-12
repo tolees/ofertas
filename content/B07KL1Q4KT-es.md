@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.67 % en Naf Naf Kenr8d Vestido  Rosa  Framboise '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-CU7awehL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-CU7awehL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-CU7awehL._SL200_.jpg' ]
 comments: true
 category: ofertas

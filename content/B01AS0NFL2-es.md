@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.75 % en The North Face M Premium Piquet Polo de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y%2B1aE4hkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y%2B1aE4hkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y%2B1aE4hkL._SL200_.jpg' ]
 comments: true
 category: ofertas

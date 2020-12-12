@@ -3,6 +3,7 @@ layout: post
 title: 'Dunlop Dee  Botas de Caucho Unisex  Verd al 42.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TyTrfq3IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TyTrfq3IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TyTrfq3IL._SL200_.jpg' ]
 comments: true
 category: ofertas

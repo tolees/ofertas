@@ -3,6 +3,7 @@ layout: post
 title: 'Bugatti J7605pr6n  Zapatillas para Mujer al 67.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l9H1v%2BGSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l9H1v%2BGSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l9H1v%2BGSL._SL200_.jpg' ]
 comments: true
 category: ofertas

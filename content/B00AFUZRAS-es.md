@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.06 % en Daewoo KOG-8A6K Microondas  23 litros  c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y19si-CyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y19si-CyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y19si-CyL._SL200_.jpg' ]
 comments: true
 category: ofertas

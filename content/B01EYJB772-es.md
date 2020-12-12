@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Bliss Mid Ii Tex  Botines Unisex N al 78.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rdMsbf1QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rdMsbf1QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rdMsbf1QL._SL200_.jpg' ]
 comments: true
 category: ofertas

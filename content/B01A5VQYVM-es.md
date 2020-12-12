@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.20 % en WORX WX479 Sierra de Calar Pendular  750'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MX8L18IHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MX8L18IHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MX8L18IHL._SL200_.jpg' ]
 comments: true
 category: ofertas

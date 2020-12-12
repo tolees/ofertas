@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.04 % en adidas Fit 1Pc Lin Bañador  Mujer  Azul '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4177IgxpyOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4177IgxpyOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4177IgxpyOL._SL200_.jpg' ]
 comments: true
 category: ofertas

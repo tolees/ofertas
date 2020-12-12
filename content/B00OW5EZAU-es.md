@@ -3,6 +3,7 @@ layout: post
 title: 'Safety 1st Soft Dreams Cuna de viaje com al 32.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412B28%2BlrLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412B28%2BlrLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412B28%2BlrLL._SL200_.jpg' ]
 comments: true
 category: ofertas

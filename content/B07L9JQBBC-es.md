@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Elbas 2 Polo  Morado  Orchid V al 58.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AqNvEVyuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AqNvEVyuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AqNvEVyuL._SL200_.jpg' ]
 comments: true
 category: ofertas

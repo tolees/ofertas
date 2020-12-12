@@ -3,6 +3,7 @@ layout: post
 title: 'Aingoo Nido de 3 mesas Mesa de centro de al 29.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V-JVs%2BXLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V-JVs%2BXLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V-JVs%2BXLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Súper Piedra De Afilar De Cuchillo 2 Lad al 49.82 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

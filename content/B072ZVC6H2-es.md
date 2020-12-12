@@ -3,6 +3,7 @@ layout: post
 title: 'Champion Shawl Collar Sweatshirt-Varsity al 77.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZAElWwFLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZAElWwFLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZAElWwFLL._SL200_.jpg' ]
 comments: true
 category: ofertas

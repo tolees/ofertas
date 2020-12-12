@@ -3,6 +3,7 @@ layout: post
 title: 'RED WAGON Zapatillas con Lazo Niñas  Gri al 62.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jE1Rtg8wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jE1Rtg8wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jE1Rtg8wL._SL200_.jpg' ]
 comments: true
 category: ofertas

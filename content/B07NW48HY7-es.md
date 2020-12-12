@@ -3,6 +3,7 @@ layout: post
 title: 'ELINKUME® Cubeta de Almacenamiento de Me al 55.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d0KtzUs5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51d0KtzUs5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d0KtzUs5L._SL200_.jpg' ]
 comments: true
 category: ofertas

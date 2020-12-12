@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.40 % en adidas EQT Support ADV  Zapatillas de Gi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v27zSvNML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v27zSvNML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v27zSvNML._SL200_.jpg' ]
 comments: true
 category: ofertas

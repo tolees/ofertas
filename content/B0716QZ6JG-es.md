@@ -3,6 +3,7 @@ layout: post
 title: 'Sigma 24600 Reloj de Actividad  Unisex A al 53.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x6uLtuIwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x6uLtuIwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x6uLtuIwL._SL200_.jpg' ]
 comments: true
 category: ofertas

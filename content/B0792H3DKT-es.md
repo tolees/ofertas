@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Geox D Sukie B  Zapatillas para Mujer   '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414MB6De6jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414MB6De6jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414MB6De6jL._SL200_.jpg' ]
 comments: true
 category: ofertas

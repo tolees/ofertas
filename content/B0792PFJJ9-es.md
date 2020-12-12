@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.58 % en HOMELODY Cromo Cascada Grifo de lavabo G'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FgxAOKiiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FgxAOKiiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FgxAOKiiL._SL200_.jpg' ]
 comments: true
 category: ofertas

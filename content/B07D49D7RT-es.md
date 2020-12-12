@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.77 % en Marco Tozzi 2-2-25216-21  Botas Militar '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41diX-3dlqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41diX-3dlqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41diX-3dlqL._SL200_.jpg' ]
 comments: true
 category: ofertas

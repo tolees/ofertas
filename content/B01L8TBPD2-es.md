@@ -3,6 +3,7 @@ layout: post
 title: 'ibowin® 10.1 Pulgada Funda de cuero para al 50.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cWE-Y05EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cWE-Y05EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cWE-Y05EL._SL200_.jpg' ]
 comments: true
 category: ofertas

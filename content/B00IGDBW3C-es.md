@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.26 % en Auna TBA-928 • Tocadiscos con Altavoz • '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bj-cIJLkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bj-cIJLkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bj-cIJLkL._SL200_.jpg' ]
 comments: true
 category: ofertas

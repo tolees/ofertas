@@ -3,6 +3,7 @@ layout: post
 title: 'Tefal Prima FV1251E0 - Plancha  Plancha  al 52.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tVdD7mX8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tVdD7mX8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tVdD7mX8L._SL200_.jpg' ]
 comments: true
 category: ofertas

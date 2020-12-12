@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.13 % en The North Face Base Camp Rain Shorty  Bo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CQYDcgI7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CQYDcgI7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CQYDcgI7L._SL200_.jpg' ]
 comments: true
 category: ofertas

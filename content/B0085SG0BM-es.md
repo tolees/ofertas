@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones Storm Sweat - Camiseta de m al 56.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ksXQ3hipL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ksXQ3hipL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ksXQ3hipL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch 2 608 641 188 - Hoja de sierra cir al 50.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513h0QIERzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513h0QIERzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513h0QIERzL._SL200_.jpg' ]
 comments: true
 category: ofertas

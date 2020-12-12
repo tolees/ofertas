@@ -3,6 +3,7 @@ layout: post
 title: 'Vila Clothes Vilimit Skirt  Falda para M al 47.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vyPwCww-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vyPwCww-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vyPwCww-L._SL200_.jpg' ]
 comments: true
 category: ofertas

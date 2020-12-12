@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 028ee1k043 Camisa Manga Larga  Na al 65.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y4lmYVu3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y4lmYVu3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y4lmYVu3L._SL200_.jpg' ]
 comments: true
 category: ofertas

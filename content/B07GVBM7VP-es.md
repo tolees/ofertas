@@ -3,6 +3,7 @@ layout: post
 title: 'MagiDeal Titular de Pelota de Tenis de B al 44.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Pi-S5o3rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Pi-S5o3rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Pi-S5o3rL._SL200_.jpg' ]
 comments: true
 category: ofertas

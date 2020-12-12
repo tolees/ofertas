@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.10 % en Jennyfer 00puna Abrigo  Beige  Camel 39.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QAVZwZYdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QAVZwZYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QAVZwZYdL._SL200_.jpg' ]
 comments: true
 category: ofertas

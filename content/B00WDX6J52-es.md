@@ -3,6 +3,7 @@ layout: post
 title: 'ICHI Coca DR-Vestido Mujer  Blau  China  al 34.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hJsa5FTtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hJsa5FTtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hJsa5FTtL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.82 % en Tommy Hilfiger Baby Preppy Coverall Gift'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s09SlHf-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51s09SlHf-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s09SlHf-L._SL200_.jpg' ]
 comments: true
 category: ofertas

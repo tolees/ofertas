@@ -3,6 +3,7 @@ layout: post
 title: 'Woxter 65 C - Alimentador de portátil  6 al 29.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31knqNRuQyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31knqNRuQyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31knqNRuQyL._SL200_.jpg' ]
 comments: true
 category: ofertas

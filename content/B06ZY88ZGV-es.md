@@ -3,6 +3,7 @@ layout: post
 title: 'Jocel JVAB030528 Ventilador nebulizador  al 45.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kk-PjTgGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kk-PjTgGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kk-PjTgGL._SL200_.jpg' ]
 comments: true
 category: ofertas

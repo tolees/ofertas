@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.98 % en Dove Dermaspa Loción Coporal Night - Pac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jRzPYiGrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jRzPYiGrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jRzPYiGrL._SL200_.jpg' ]
 comments: true
 category: ofertas

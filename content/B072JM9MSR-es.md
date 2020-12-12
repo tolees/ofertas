@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.56 % en iTrunk 23 en 1 Kit de Accesorios GoPro H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aClXNuIqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aClXNuIqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aClXNuIqL._SL200_.jpg' ]
 comments: true
 category: ofertas

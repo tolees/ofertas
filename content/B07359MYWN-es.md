@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.37 % en VERO MODA Vmleah Badge Ls Shirt  Blusa p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31E8M74nZ-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31E8M74nZ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31E8M74nZ-L._SL200_.jpg' ]
 comments: true
 category: ofertas

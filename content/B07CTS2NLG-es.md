@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.52 % en LiFashion LF Pulsera personalizada de id'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XVVxdmRvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XVVxdmRvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XVVxdmRvL._SL200_.jpg' ]
 comments: true
 category: ofertas

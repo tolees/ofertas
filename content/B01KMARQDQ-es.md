@@ -3,6 +3,7 @@ layout: post
 title: 'KFA2 GeForce GTX 1060 EXOC Tarjeta gráfi al 38.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bQlbtxWqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bQlbtxWqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bQlbtxWqL._SL200_.jpg' ]
 comments: true
 category: ofertas

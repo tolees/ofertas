@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.01 % en [50 piezas] Mini Pistola de Silicona TOQ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jwf3fRKXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jwf3fRKXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jwf3fRKXL._SL200_.jpg' ]
 comments: true
 category: ofertas

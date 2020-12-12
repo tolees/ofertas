@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Core R Knit L/s suéter  Gris  al 67.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v3y6sp9NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v3y6sp9NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v3y6sp9NL._SL200_.jpg' ]
 comments: true
 category: ofertas

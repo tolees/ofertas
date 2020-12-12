@@ -3,6 +3,7 @@ layout: post
 title: 'Approx APPC31V2-4 Puertos HDMI Splitter  al 28.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WqcWTunqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WqcWTunqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WqcWTunqL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Superga S002J20 Lamej - Zapatillas  Unis al 69.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51l9noAfdEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51l9noAfdEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51l9noAfdEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.33 % en Xiaomi Mi A1 - Smartphone   Dual-SIM  4G'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sSO9BDjIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sSO9BDjIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sSO9BDjIL._SL200_.jpg' ]
 comments: true
 category: ofertas

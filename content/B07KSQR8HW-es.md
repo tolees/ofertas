@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.97 % en Columbia Triple Canyon Pantalón Converti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sMnCf7UIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sMnCf7UIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sMnCf7UIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.36 % en Albrillo Luz Trasera para Bicicleta - Po'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515sfp4CyXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515sfp4CyXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515sfp4CyXL._SL200_.jpg' ]
 comments: true
 category: ofertas

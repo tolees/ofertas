@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Kensett Daphne  Botas para Mujer  al 72.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31buorRt43L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31buorRt43L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31buorRt43L._SL200_.jpg' ]
 comments: true
 category: ofertas

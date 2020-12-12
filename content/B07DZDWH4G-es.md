@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Canongate 2 Parka  Hombre  Negr al 46.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-q-Q1L81L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-q-Q1L81L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-q-Q1L81L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'iClever 4 USB Wall Charger al 85.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313h%2BSQJ0CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313h%2BSQJ0CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313h%2BSQJ0CL._SL200_.jpg' ]
 comments: true
 category: ofertas

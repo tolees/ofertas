@@ -3,6 +3,7 @@ layout: post
 title: 'Mpow Pulsera Actividad Inteligente  Podó al 37.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bq2bnl9fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bq2bnl9fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bq2bnl9fL._SL200_.jpg' ]
 comments: true
 category: ofertas

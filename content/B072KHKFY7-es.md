@@ -3,6 +3,7 @@ layout: post
 title: 'La Momia  2017  [Blu-ray] al 58.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fRMi9dRRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fRMi9dRRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fRMi9dRRL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.82 % en HP Pavilion 24xw - Full HD Matt - Monito'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AHleos1JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AHleos1JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AHleos1JL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'BRA Sartén para saltear  Negro  20 cm al 43.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MeDV72h5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MeDV72h5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MeDV72h5L._SL200_.jpg' ]
 comments: true
 category: ofertas

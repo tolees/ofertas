@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.29 % en Playmobil - Torre de Control y Aeropuert'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61LCZSe2-gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61LCZSe2-gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61LCZSe2-gL._SL200_.jpg' ]
 comments: true
 category: ofertas

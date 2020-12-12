@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.26 % en MAXTOP Zapatillas de Running Hombre Corr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cc9x2qvdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cc9x2qvdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cc9x2qvdL._SL200_.jpg' ]
 comments: true
 category: ofertas

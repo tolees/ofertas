@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.77 % en XTI 48152  Botas Clasicas para Hombre  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NiRisSNmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NiRisSNmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NiRisSNmL._SL200_.jpg' ]
 comments: true
 category: ofertas

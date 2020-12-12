@@ -3,6 +3,7 @@ layout: post
 title: 'AiHom Portarrollos para Papel Higiénico  al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312yuVE1WoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312yuVE1WoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312yuVE1WoL._SL200_.jpg' ]
 comments: true
 category: ofertas

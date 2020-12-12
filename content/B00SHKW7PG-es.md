@@ -3,6 +3,7 @@ layout: post
 title: 'Milan P1-Touch - Bolígrafos engomados de al 96.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410XH56En8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410XH56En8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410XH56En8L._SL200_.jpg' ]
 comments: true
 category: ofertas

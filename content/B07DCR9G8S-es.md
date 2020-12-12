@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.02 % en LOSMILE Mujer Bolso de Mano Lona Bolso d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e%2B%2B-L4zIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e%2B%2B-L4zIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e%2B%2B-L4zIL._SL200_.jpg' ]
 comments: true
 category: ofertas

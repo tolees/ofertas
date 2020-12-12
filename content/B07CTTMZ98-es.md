@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.54 % en HUGO Gionios_sz40 Cinturón  Marrón  Dark'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vxVrNe%2BVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vxVrNe%2BVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vxVrNe%2BVL._SL200_.jpg' ]
 comments: true
 category: ofertas

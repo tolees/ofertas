@@ -3,6 +3,7 @@ layout: post
 title: 'Lico Caribbean  Chanclas para Mujer  Azu al 49.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BiFplKuxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BiFplKuxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BiFplKuxL._SL200_.jpg' ]
 comments: true
 category: ofertas

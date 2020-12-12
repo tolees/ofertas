@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.54 % en Tuc Tuc Pichi Vaquero+Camiseta Punto NIÑ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515RL4ZDgQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515RL4ZDgQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515RL4ZDgQL._SL200_.jpg' ]
 comments: true
 category: ofertas

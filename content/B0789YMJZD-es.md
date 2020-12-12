@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.67 % en Nike Air Versitile III  Zapatos de Balon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L4aZB8svL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L4aZB8svL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L4aZB8svL._SL200_.jpg' ]
 comments: true
 category: ofertas

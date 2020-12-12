@@ -3,6 +3,7 @@ layout: post
 title: 'Wolfpack 15017118 Pantalón Trend Corto   al 36.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ufCi-Q5aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ufCi-Q5aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ufCi-Q5aL._SL200_.jpg' ]
 comments: true
 category: ofertas

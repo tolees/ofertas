@@ -3,6 +3,7 @@ layout: post
 title: 'Bollé Schuss Máscaras  Unisex Adulto  Ve al 77.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GGCu5qEfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GGCu5qEfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GGCu5qEfL._SL200_.jpg' ]
 comments: true
 category: ofertas

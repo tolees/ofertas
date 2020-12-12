@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.83 % en Levi s SS tee Camiseta   Colorblock Quie'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QPk1%2BXucL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QPk1%2BXucL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QPk1%2BXucL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.34 % en YUES M20 Auriculares Bluetooth 5.0  Mini'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eOjR3PCEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eOjR3PCEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eOjR3PCEL._SL200_.jpg' ]
 comments: true
 category: ofertas

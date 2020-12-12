@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Armour Capri Novelty Q2 Leg al 57.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31No35WviPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31No35WviPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31No35WviPL._SL200_.jpg' ]
 comments: true
 category: ofertas

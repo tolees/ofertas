@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Collection 57892  Botas Biker para  al 48.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vFgPW%2BDQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vFgPW%2BDQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vFgPW%2BDQL._SL200_.jpg' ]
 comments: true
 category: ofertas

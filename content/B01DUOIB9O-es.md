@@ -3,6 +3,7 @@ layout: post
 title: 'NK CÁMARA DE ACCIÓN 360º  1440P & 1080P  al 86.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y0JFpgLDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Y0JFpgLDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y0JFpgLDL._SL200_.jpg' ]
 comments: true
 category: ofertas

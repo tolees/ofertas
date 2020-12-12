@@ -3,6 +3,7 @@ layout: post
 title: 'Braun Face 832-s - Set de regalo con dep al 43.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515l1bNpa4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515l1bNpa4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515l1bNpa4L._SL200_.jpg' ]
 comments: true
 category: ofertas

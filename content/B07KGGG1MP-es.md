@@ -3,6 +3,7 @@ layout: post
 title: 'Buff Elytra Gorra Trucker  Niñas  Talla  al 45.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lbZy5o-hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lbZy5o-hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lbZy5o-hL._SL200_.jpg' ]
 comments: true
 category: ofertas

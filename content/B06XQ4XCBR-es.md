@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual TS_Magdalena  Camiseta para Muj al 28.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-WxU9lr-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-WxU9lr-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-WxU9lr-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.69 % en Ralph Lauren RALPH BY 0Ra5239 Gafas de s'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yfdNRNIwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yfdNRNIwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yfdNRNIwL._SL200_.jpg' ]
 comments: true
 category: ofertas

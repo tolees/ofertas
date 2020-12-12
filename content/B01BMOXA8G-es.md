@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.67 % en SENSILIS Skin Delight Peeling Negro Revi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uR8orDY5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uR8orDY5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uR8orDY5L._SL200_.jpg' ]
 comments: true
 category: ofertas

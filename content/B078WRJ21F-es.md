@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.58 % en Scotch & Soda Maison Crew Neck tee with '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L1r2nbU8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L1r2nbU8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L1r2nbU8L._SL200_.jpg' ]
 comments: true
 category: ofertas

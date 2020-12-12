@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Tennis Shoes Gel-Padel Pro 3 Sg Di al 63.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tqs8FieUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tqs8FieUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tqs8FieUL._SL200_.jpg' ]
 comments: true
 category: ofertas

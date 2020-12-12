@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Raid 8 Short Pantalón Co al 44.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412%2BbvTvM1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412%2BbvTvM1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412%2BbvTvM1L._SL200_.jpg' ]
 comments: true
 category: ofertas

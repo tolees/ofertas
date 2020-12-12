@@ -3,6 +3,7 @@ layout: post
 title: 'Ora Mira S1701 - Teléfono móvil Dual SIM al 38.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ElGnMmXxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ElGnMmXxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ElGnMmXxL._SL200_.jpg' ]
 comments: true
 category: ofertas

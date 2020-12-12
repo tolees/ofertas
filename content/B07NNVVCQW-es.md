@@ -3,6 +3,7 @@ layout: post
 title: 'Sony Xperia XZ2 Compact  color negro + M al 33.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uImHbO%2BUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uImHbO%2BUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uImHbO%2BUL._SL200_.jpg' ]
 comments: true
 category: ofertas

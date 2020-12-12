@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera Hombre 1007/S 9O 807 Gafas de so al 46.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bNVgySZ-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bNVgySZ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bNVgySZ-L._SL200_.jpg' ]
 comments: true
 category: ofertas

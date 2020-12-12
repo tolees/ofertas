@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.67 % en Eastpak The One Bolso Bandolera  21 cm  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IJkj1hg6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IJkj1hg6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IJkj1hg6L._SL200_.jpg' ]
 comments: true
 category: ofertas

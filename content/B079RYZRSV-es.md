@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J Xunday Boy H  Botas Chukka para N al 66.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xOw9N0oYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xOw9N0oYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xOw9N0oYL._SL200_.jpg' ]
 comments: true
 category: ofertas

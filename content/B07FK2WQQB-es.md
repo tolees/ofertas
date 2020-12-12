@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.32 % en Only Onlcadiz SL Choker Dress Wvn  Vesti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BCyds6I1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BCyds6I1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BCyds6I1L._SL200_.jpg' ]
 comments: true
 category: ofertas

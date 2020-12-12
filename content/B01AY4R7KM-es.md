@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.40 % en 13 Casa Dormis Diamante Juego para Funda'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z1Q-vNxZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z1Q-vNxZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z1Q-vNxZL._SL200_.jpg' ]
 comments: true
 category: ofertas

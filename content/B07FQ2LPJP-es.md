@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.79 % en The Conjuring - Halloween Blu-Ray [Blu-r'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P9S0ohE2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P9S0ohE2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P9S0ohE2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Geographical Norway WN060H  Chaqueta de  al 59.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IjvwH%2Bc9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IjvwH%2Bc9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IjvwH%2Bc9L._SL200_.jpg' ]
 comments: true
 category: ofertas

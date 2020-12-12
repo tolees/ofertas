@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.95 % en Wolfcraft 8725000 - Destornillador manua'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21I1vmABFUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21I1vmABFUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21I1vmABFUL._SL200_.jpg' ]
 comments: true
 category: ofertas

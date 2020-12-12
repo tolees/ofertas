@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.97 % en Casio MS-20NC-PK-S-EC - Calculadora bási'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fA-z%2BlYVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fA-z%2BlYVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fA-z%2BlYVL._SL200_.jpg' ]
 comments: true
 category: ofertas

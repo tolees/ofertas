@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.23 % en Havaianas Unisex adulto TRANCOSO/M LS TD'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314m%2BdPFN5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314m%2BdPFN5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314m%2BdPFN5L._SL200_.jpg' ]
 comments: true
 category: ofertas

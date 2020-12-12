@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Cinturón de running  250 ml  agi al 40.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d2Uy-7cuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d2Uy-7cuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d2Uy-7cuL._SL200_.jpg' ]
 comments: true
 category: ofertas

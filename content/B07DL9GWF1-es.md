@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Frq Stripes Block Gg12  Jers al 30.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SqUX0hoSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SqUX0hoSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SqUX0hoSL._SL200_.jpg' ]
 comments: true
 category: ofertas

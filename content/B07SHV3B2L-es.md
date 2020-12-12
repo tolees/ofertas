@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.33 % en HuaMore Chanclas Mujer Piscina  Resbalón'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ujb5I3bbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ujb5I3bbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ujb5I3bbL._SL200_.jpg' ]
 comments: true
 category: ofertas

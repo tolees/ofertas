@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.46 % en HIKARO Sudadera con Capucha Hombre  Rojo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BXg2cwDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BXg2cwDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BXg2cwDL._SL200_.jpg' ]
 comments: true
 category: ofertas

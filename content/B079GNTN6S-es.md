@@ -3,6 +3,7 @@ layout: post
 title: 'J.Rosée Pendientes  Plata de Ley 925 [La al 94.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Srlg-mMQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Srlg-mMQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Srlg-mMQL._SL200_.jpg' ]
 comments: true
 category: ofertas

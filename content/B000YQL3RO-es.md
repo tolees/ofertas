@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.70 % en Pippi Langstrumpf 44.3691.00 El caballo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LrzzTzW0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LrzzTzW0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LrzzTzW0L._SL200_.jpg' ]
 comments: true
 category: ofertas

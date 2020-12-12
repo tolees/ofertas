@@ -3,6 +3,7 @@ layout: post
 title: 'Farmatint Gel 4D Castaño Dorado. Tinte p al 38.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HUocJ%2BBIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HUocJ%2BBIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HUocJ%2BBIL._SL200_.jpg' ]
 comments: true
 category: ofertas

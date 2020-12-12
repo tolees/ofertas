@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.18 % en VERO MODA VMBETSIE 3/4 JACKET  Abrigo Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-etOO0LgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-etOO0LgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-etOO0LgL._SL200_.jpg' ]
 comments: true
 category: ofertas

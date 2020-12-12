@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Parma 16 SHO Sport Shorts  Hombre al 29.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UZS6LD7GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UZS6LD7GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UZS6LD7GL._SL200_.jpg' ]
 comments: true
 category: ofertas

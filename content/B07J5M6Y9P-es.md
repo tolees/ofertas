@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.90 % en Skechers Elite Flex-Clear Leaf  Zapatill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o6P%2BPVpKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31o6P%2BPVpKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o6P%2BPVpKL._SL200_.jpg' ]
 comments: true
 category: ofertas

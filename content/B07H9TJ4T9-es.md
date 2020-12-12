@@ -3,6 +3,7 @@ layout: post
 title: 'LUKO 12L eléctrico y portátil deshumidif al 33.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JF-Q5EfUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JF-Q5EfUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JF-Q5EfUL._SL200_.jpg' ]
 comments: true
 category: ofertas

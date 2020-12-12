@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.16 % en SAMSONITE Up Way Man Auto Open Paraguas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pupYK-xRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pupYK-xRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pupYK-xRL._SL200_.jpg' ]
 comments: true
 category: ofertas

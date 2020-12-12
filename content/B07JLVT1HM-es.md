@@ -3,6 +3,7 @@ layout: post
 title: 'DOOGEE X70 Móviles y Smartphones Libres  al 62.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rz9YYhREL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rz9YYhREL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rz9YYhREL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.85 % en Spiderman 5973 Camiseta  Negro Noir  6 a'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DjweqhU9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DjweqhU9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DjweqhU9L._SL200_.jpg' ]
 comments: true
 category: ofertas

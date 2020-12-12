@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.60 % en BEPER Mosquitera Interior  12 W  Blanco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4103QTA4-VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4103QTA4-VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4103QTA4-VL._SL200_.jpg' ]
 comments: true
 category: ofertas

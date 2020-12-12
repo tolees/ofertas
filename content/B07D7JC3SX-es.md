@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas 107430  Vestido para Mu al 71.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31p2wdDHPeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31p2wdDHPeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31p2wdDHPeL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Boy UA Official Tour Cap 2. al 46.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NJLkICY0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NJLkICY0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NJLkICY0L._SL200_.jpg' ]
 comments: true
 category: ofertas

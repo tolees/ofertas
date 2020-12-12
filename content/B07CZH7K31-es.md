@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.72 % en Philonext Volantes de bádminton  12 Piez'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LJ90b2BpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LJ90b2BpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LJ90b2BpL._SL200_.jpg' ]
 comments: true
 category: ofertas

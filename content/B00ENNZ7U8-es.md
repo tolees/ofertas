@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.51 % en Sony SF64U - Tarjeta SDXC de 64 GB  90 M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419E7wLT%2ByL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419E7wLT%2ByL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419E7wLT%2ByL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.01 % en Cámara de Vigilancia Cámara IP WiFi 1080'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t5%2BNN7TLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t5%2BNN7TLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t5%2BNN7TLL._SL200_.jpg' ]
 comments: true
 category: ofertas

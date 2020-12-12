@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Wool Peacoat - Abrigo Para Homb al 61.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PBUIl8gsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PBUIl8gsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PBUIl8gsL._SL200_.jpg' ]
 comments: true
 category: ofertas

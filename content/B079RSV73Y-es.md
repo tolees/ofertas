@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Oprah JR PG301085  Blusa para al 70.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51htLzPnGdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51htLzPnGdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51htLzPnGdL._SL200_.jpg' ]
 comments: true
 category: ofertas

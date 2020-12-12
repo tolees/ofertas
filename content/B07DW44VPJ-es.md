@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.41 % en DC Shoes Chelsea Plus Se  Zapatillas de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S4sV2pQrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S4sV2pQrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S4sV2pQrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.66 % en Severin MW 7868 Microondas con grill y c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41shVa3uUzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41shVa3uUzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41shVa3uUzL._SL200_.jpg' ]
 comments: true
 category: ofertas

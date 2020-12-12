@@ -3,6 +3,7 @@ layout: post
 title: 'Aigoss S4 Altavoz Bluetooth Portátil Ina al 78.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410ncCTVVfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410ncCTVVfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410ncCTVVfL._SL200_.jpg' ]
 comments: true
 category: ofertas

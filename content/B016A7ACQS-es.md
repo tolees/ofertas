@@ -3,6 +3,7 @@ layout: post
 title: 'Perfume 100ml Femme Fatale para Mujer en al 34.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vJ7koFg-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vJ7koFg-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vJ7koFg-L._SL200_.jpg' ]
 comments: true
 category: ofertas

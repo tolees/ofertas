@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Adizero Avanti  Zapatillas de Atl al 47.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZtW0vIHZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZtW0vIHZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZtW0vIHZL._SL200_.jpg' ]
 comments: true
 category: ofertas

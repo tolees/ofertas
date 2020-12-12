@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.71 % en Spagnolo PT Chino Basico Piping Gab. Ela'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3153kP8T78L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3153kP8T78L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3153kP8T78L._SL200_.jpg' ]
 comments: true
 category: ofertas

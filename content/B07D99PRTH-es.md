@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 30937  Botas Altas para Mujer  Negro al 61.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/216ibo3wxtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/216ibo3wxtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/216ibo3wxtL._SL200_.jpg' ]
 comments: true
 category: ofertas

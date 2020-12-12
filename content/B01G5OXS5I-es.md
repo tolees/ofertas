@@ -3,6 +3,7 @@ layout: post
 title: 'edc by ESPRIT 076CC1E035  vestido Mujer  al 82.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SnF5kEKjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SnF5kEKjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SnF5kEKjL._SL200_.jpg' ]
 comments: true
 category: ofertas

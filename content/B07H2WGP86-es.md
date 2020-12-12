@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Bra Pace Sujetador  Mujer  P al 39.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g2vrq6TlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g2vrq6TlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g2vrq6TlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lonsdale T-Shirt Trägerhemd Walkey - Cam al 41.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cHcscC6TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cHcscC6TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cHcscC6TL._SL200_.jpg' ]
 comments: true
 category: ofertas

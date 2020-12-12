@@ -3,6 +3,7 @@ layout: post
 title: 'Real madrid cf Bolsa Deporte Bolso de Vi al 25.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pYQgcNkkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pYQgcNkkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pYQgcNkkL._SL200_.jpg' ]
 comments: true
 category: ofertas

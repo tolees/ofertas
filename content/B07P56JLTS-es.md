@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 95.76 % en DoreenBow - Calefactor Adhesivo para Deb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vmt4EeKUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vmt4EeKUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vmt4EeKUL._SL200_.jpg' ]
 comments: true
 category: ofertas

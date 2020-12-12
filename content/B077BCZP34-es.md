@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.99 % en Skechers Ez Flex 3.0-Quick Escapade  Zap'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o8x%2Bk3kDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o8x%2Bk3kDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o8x%2Bk3kDL._SL200_.jpg' ]
 comments: true
 category: ofertas

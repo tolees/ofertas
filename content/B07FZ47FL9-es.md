@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.43 % en PIECES Pcamalie Smock LS Top Noos Blusa '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pHZ-CVL8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pHZ-CVL8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pHZ-CVL8L._SL200_.jpg' ]
 comments: true
 category: ofertas

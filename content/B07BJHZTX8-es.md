@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.44 % en G-STAR RAW Revend Skinny  Vaqueros Skinn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sh5A7HQPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sh5A7HQPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sh5A7HQPL._SL200_.jpg' ]
 comments: true
 category: ofertas

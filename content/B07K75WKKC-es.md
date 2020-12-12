@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s The Perfect Tee  Camiseta para Mu al 52.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JIQfwJ36L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JIQfwJ36L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JIQfwJ36L._SL200_.jpg' ]
 comments: true
 category: ofertas

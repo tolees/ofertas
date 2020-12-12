@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.24 % en Esprit 118ee1i001 suéter   Off White 2 1'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D%2B5vaRUHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D%2B5vaRUHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D%2B5vaRUHL._SL200_.jpg' ]
 comments: true
 category: ofertas

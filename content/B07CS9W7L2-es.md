@@ -3,6 +3,7 @@ layout: post
 title: 'Scott  Sudadera Hombre   Grey Marl 933  al 60.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I3xr0mArL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I3xr0mArL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I3xr0mArL._SL200_.jpg' ]
 comments: true
 category: ofertas

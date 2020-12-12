@@ -3,6 +3,7 @@ layout: post
 title: 'Casals C05107000 Sierra de calar 350W W  al 35.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I%2BE%2BIFpuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51I%2BE%2BIFpuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I%2BE%2BIFpuL._SL200_.jpg' ]
 comments: true
 category: ofertas

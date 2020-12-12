@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.57 % en Panama Jack Panama 03 Wool  Botas Clasic'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dIxuhg1YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dIxuhg1YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dIxuhg1YL._SL200_.jpg' ]
 comments: true
 category: ofertas

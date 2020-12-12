@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.46 % en JSDA Torno Para Uñas Eléctrico 25000 RPM'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414JgjFLH5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414JgjFLH5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414JgjFLH5L._SL200_.jpg' ]
 comments: true
 category: ofertas

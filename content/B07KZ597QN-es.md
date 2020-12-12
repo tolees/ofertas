@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcodustin tee SS Crew Neck  al 56.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NuZVOF3kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NuZVOF3kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NuZVOF3kL._SL200_.jpg' ]
 comments: true
 category: ofertas

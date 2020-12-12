@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.85 % en Nenuco Pack Agua de Colonia Infantil Beb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ThgiB42rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ThgiB42rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ThgiB42rL._SL200_.jpg' ]
 comments: true
 category: ofertas

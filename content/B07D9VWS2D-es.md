@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.79 % en Mustang Schnür-Stiefelette  Botas Clasic'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-xf-f7zrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-xf-f7zrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-xf-f7zrL._SL200_.jpg' ]
 comments: true
 category: ofertas

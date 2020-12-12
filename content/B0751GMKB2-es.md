@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.62 % en EXZACT Báscula Corporal Electrónica/Básc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ffd%2Br9EJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ffd%2Br9EJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ffd%2Br9EJL._SL200_.jpg' ]
 comments: true
 category: ofertas

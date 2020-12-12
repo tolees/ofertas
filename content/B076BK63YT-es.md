@@ -3,6 +3,7 @@ layout: post
 title: 'Moleskine DHP12DC2Y19 - Diario 12m de ed al 46.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Id2DCYUYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Id2DCYUYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Id2DCYUYL._SL200_.jpg' ]
 comments: true
 category: ofertas

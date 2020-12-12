@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.81 % en Wrangler Texas Original 5 Pocket Straigh'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qjNDzVxQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qjNDzVxQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qjNDzVxQL._SL200_.jpg' ]
 comments: true
 category: ofertas

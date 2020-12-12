@@ -3,6 +3,7 @@ layout: post
 title: 'HUGO Elisha01 Camisa  Rojo  Bright Red 6 al 69.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v8Xo%2BQxCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v8Xo%2BQxCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v8Xo%2BQxCL._SL200_.jpg' ]
 comments: true
 category: ofertas

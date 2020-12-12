@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.27 % en edc by Esprit 048cc2c015  Pantalones Cor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417NK-aDwaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417NK-aDwaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417NK-aDwaL._SL200_.jpg' ]
 comments: true
 category: ofertas

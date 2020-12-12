@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Flex Appeal 3.0-Finest Hour  Za al 57.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P1j%2BYXlYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P1j%2BYXlYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P1j%2BYXlYL._SL200_.jpg' ]
 comments: true
 category: ofertas

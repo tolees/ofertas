@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.68 % en Stanley S742-024 Candado Macizo blindado'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fChgGH-NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fChgGH-NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fChgGH-NL._SL200_.jpg' ]
 comments: true
 category: ofertas

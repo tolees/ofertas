@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel P-boxie Shorts Pantalones Cortos  al 30.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LciPAyXuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LciPAyXuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LciPAyXuL._SL200_.jpg' ]
 comments: true
 category: ofertas

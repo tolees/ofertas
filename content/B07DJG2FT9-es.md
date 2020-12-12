@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.72 % en Dockers by Gerli 41ce314  Zapatillas Alt'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CxMeoL1wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CxMeoL1wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CxMeoL1wL._SL200_.jpg' ]
 comments: true
 category: ofertas

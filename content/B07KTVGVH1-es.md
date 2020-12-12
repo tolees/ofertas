@@ -3,6 +3,7 @@ layout: post
 title: 'LIU JO Shoes Karlie 14-Sneaker Calf Leat al 54.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L80OeXqdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L80OeXqdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L80OeXqdL._SL200_.jpg' ]
 comments: true
 category: ofertas

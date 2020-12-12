@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Performance 55061  Zapatillas D al 54.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iNw9ZUr4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iNw9ZUr4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iNw9ZUr4L._SL200_.jpg' ]
 comments: true
 category: ofertas

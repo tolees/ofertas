@@ -3,6 +3,7 @@ layout: post
 title: 'Duracell 123 High Power - Pilas especial al 48.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lqaEA7OtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lqaEA7OtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lqaEA7OtL._SL200_.jpg' ]
 comments: true
 category: ofertas

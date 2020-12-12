@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.04 % en MarBlue Atlas Plus - Funda para Fire HD '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510wlfVKG1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510wlfVKG1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510wlfVKG1L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.02 % en Almohada de Viaje Inflable Morpilot Almo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FHNegF05L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FHNegF05L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FHNegF05L._SL200_.jpg' ]
 comments: true
 category: ofertas

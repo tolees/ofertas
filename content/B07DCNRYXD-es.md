@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Speed 300 Racer  Zapatillas de Runn al 74.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416n%2BFPdMHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416n%2BFPdMHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416n%2BFPdMHL._SL200_.jpg' ]
 comments: true
 category: ofertas

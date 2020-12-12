@@ -3,6 +3,7 @@ layout: post
 title: 'Cressi Rocker Gafas de Sol  Unisex Adult al 38.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dXRXUDBAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dXRXUDBAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dXRXUDBAL._SL200_.jpg' ]
 comments: true
 category: ofertas

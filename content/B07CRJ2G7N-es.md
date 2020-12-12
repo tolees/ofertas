@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Mack  Camiseta para Hombre    al 54.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QEir05OML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QEir05OML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QEir05OML._SL200_.jpg' ]
 comments: true
 category: ofertas

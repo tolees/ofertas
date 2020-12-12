@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.27 % en Nikon Coolpix W100 - Cámara Digital comp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4171chW8PpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4171chW8PpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4171chW8PpL._SL200_.jpg' ]
 comments: true
 category: ofertas

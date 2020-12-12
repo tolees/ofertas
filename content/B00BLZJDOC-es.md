@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.00 % en Keter Excellence Armario para Pared  Are'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fSNdkzNvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fSNdkzNvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fSNdkzNvL._SL200_.jpg' ]
 comments: true
 category: ofertas

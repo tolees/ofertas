@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual Shoes  Flip Flop_Tropical   Cha al 30.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519KPfy5J9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519KPfy5J9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519KPfy5J9L._SL200_.jpg' ]
 comments: true
 category: ofertas

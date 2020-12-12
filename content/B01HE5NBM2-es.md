@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Vs Pace  Zapatillas para Hombre   al 50.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41br2LCyqnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41br2LCyqnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41br2LCyqnL._SL200_.jpg' ]
 comments: true
 category: ofertas

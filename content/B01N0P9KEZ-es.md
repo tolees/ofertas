@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star Eyben Slim R T Wmn S/s  Camiseta  al 45.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SyCQ%2BZHVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SyCQ%2BZHVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SyCQ%2BZHVL._SL200_.jpg' ]
 comments: true
 category: ofertas

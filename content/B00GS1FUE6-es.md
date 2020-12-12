@@ -3,6 +3,7 @@ layout: post
 title: 'Bed Head by TIGI Champú Dumb Blonde 750  al 56.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PQYu5ZhHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PQYu5ZhHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PQYu5ZhHL._SL200_.jpg' ]
 comments: true
 category: ofertas

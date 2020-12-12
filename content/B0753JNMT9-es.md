@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.43 % en IRIS & LILLY BLIC002 sujetadores  Negro '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LB%2B19NaLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LB%2B19NaLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LB%2B19NaLL._SL200_.jpg' ]
 comments: true
 category: ofertas

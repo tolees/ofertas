@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.06 % en Baby Jogger City Mini GT - Silla de pase'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zO5TVJPfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zO5TVJPfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zO5TVJPfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Guess Pandora Top Blusa  Negro  Jet Blac al 31.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oNQ3bFLAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oNQ3bFLAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oNQ3bFLAL._SL200_.jpg' ]
 comments: true
 category: ofertas

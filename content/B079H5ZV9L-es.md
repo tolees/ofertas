@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.16 % en Caprice 25300  Botines para Mujer  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ef8nYyVLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ef8nYyVLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ef8nYyVLL._SL200_.jpg' ]
 comments: true
 category: ofertas

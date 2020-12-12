@@ -3,6 +3,7 @@ layout: post
 title: 'Jennyfer 00laba  Abrigo para Mujer  Gris al 60.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CMNU8fIJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CMNU8fIJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CMNU8fIJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.72 % en SELECTED HOMME Slhregcollect Shirt LS W '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gnNkj-PkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gnNkj-PkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gnNkj-PkL._SL200_.jpg' ]
 comments: true
 category: ofertas

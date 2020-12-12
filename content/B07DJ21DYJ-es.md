@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance CRT300  Zapatillas para Homb al 45.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlkP7JKPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlkP7JKPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlkP7JKPL._SL200_.jpg' ]
 comments: true
 category: ofertas

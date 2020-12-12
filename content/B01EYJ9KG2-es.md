@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.78 % en Kappa Forward Mid  Zapatillas Altas Unis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PE9AWG6EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PE9AWG6EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PE9AWG6EL._SL200_.jpg' ]
 comments: true
 category: ofertas

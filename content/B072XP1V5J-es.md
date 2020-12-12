@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.09 % en Vero Moda Vmbrilliant LS V-Neck Blouse B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yU%2Bx%2BXhCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yU%2Bx%2BXhCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yU%2Bx%2BXhCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 5622 Mid Waist Skinny Vaquero al 86.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UD7rwZVSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UD7rwZVSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UD7rwZVSL._SL200_.jpg' ]
 comments: true
 category: ofertas

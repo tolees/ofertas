@@ -3,6 +3,7 @@ layout: post
 title: 'HP Pavilion 590-p0633ng 3 5 GHz AMD Ryze al 37.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rWji-KHHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rWji-KHHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rWji-KHHL._SL200_.jpg' ]
 comments: true
 category: ofertas

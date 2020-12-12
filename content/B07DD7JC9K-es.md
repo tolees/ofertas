@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 64669  Botines para Mujer  Verde al 64.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FX-iUzr5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FX-iUzr5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FX-iUzr5L._SL200_.jpg' ]
 comments: true
 category: ofertas

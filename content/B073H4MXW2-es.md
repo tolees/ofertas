@@ -3,6 +3,7 @@ layout: post
 title: 'Inside 4SVES32&  Vestido Casual para Muj al 50.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hyi9VQz8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hyi9VQz8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hyi9VQz8L._SL200_.jpg' ]
 comments: true
 category: ofertas

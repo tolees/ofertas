@@ -3,6 +3,7 @@ layout: post
 title: 'Espumador/Batidor de Leche Eléctrico  Es al 75.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kOqt5fuKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kOqt5fuKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kOqt5fuKL._SL200_.jpg' ]
 comments: true
 category: ofertas

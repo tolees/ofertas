@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.88 % en Under Armour UA W Fuse Fst  Zapatillas d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XYIVQELcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XYIVQELcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XYIVQELcL._SL200_.jpg' ]
 comments: true
 category: ofertas

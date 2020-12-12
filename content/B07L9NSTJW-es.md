@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri K Elbas 2 Polo  Azul  BLU Mari al 52.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c6CdWwteL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31c6CdWwteL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c6CdWwteL._SL200_.jpg' ]
 comments: true
 category: ofertas

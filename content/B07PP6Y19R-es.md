@@ -3,6 +3,7 @@ layout: post
 title: 'Lavanda Aceites Esenciales de 10 ml  mas al 49.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WkBbeSaZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WkBbeSaZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WkBbeSaZL._SL200_.jpg' ]
 comments: true
 category: ofertas

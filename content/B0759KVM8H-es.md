@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Tri Caitlin  Zapatillas para Muje al 50.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lmuegG%2ByL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lmuegG%2ByL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lmuegG%2ByL._SL200_.jpg' ]
 comments: true
 category: ofertas

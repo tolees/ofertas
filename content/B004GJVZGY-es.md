@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban Rb3449  Gafas de Sol para Hombre al 33.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g6wqQhXGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31g6wqQhXGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g6wqQhXGL._SL200_.jpg' ]
 comments: true
 category: ofertas

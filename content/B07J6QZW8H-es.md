@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.82 % en Liu Jo - Tiberina  cartera Mujer  Negro '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BOuEbY4zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BOuEbY4zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BOuEbY4zL._SL200_.jpg' ]
 comments: true
 category: ofertas

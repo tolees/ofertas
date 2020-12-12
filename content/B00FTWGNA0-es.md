@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.00 % en Nike W NSW Air LGGNG Pants  Mujer  Night'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NK1aM6MTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NK1aM6MTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NK1aM6MTL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.89 % en Crocs Coast  Zuecos Unisex Adulto  Blanc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WF4oqHjvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WF4oqHjvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WF4oqHjvL._SL200_.jpg' ]
 comments: true
 category: ofertas

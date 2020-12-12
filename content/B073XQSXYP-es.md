@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel 00CG3J Slip  Hombre  Gris  Grey 0 al 53.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qyt-nyqvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qyt-nyqvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qyt-nyqvL._SL200_.jpg' ]
 comments: true
 category: ofertas

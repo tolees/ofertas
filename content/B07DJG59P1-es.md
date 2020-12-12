@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers by Gerli 41ms704  Botas Slouch U al 71.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VYIk0IF3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VYIk0IF3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VYIk0IF3L._SL200_.jpg' ]
 comments: true
 category: ofertas

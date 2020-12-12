@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.23 % en Pepe Jeans PM540411 - Vaqueros  con Mang'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LDncEv5tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LDncEv5tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LDncEv5tL._SL200_.jpg' ]
 comments: true
 category: ofertas

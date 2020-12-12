@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.82 % en Superdry Boardshort Pantalones Cortos  N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417YSjeWFcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417YSjeWFcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417YSjeWFcL._SL200_.jpg' ]
 comments: true
 category: ofertas

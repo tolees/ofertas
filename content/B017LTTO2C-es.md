@@ -3,6 +3,7 @@ layout: post
 title: 'Egamaster - Velcro orbital 6" diámetro 5 al 89.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a%2B8ZMtAML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51a%2B8ZMtAML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a%2B8ZMtAML._SL200_.jpg' ]
 comments: true
 category: ofertas

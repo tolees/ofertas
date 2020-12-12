@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.18 % en Levi s  ® Graphic Set-In Neck 2 Camiseta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uvTOeUJuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uvTOeUJuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uvTOeUJuL._SL200_.jpg' ]
 comments: true
 category: ofertas

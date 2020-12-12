@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.53 % en Altavoz Bluetooth Inálambrico  HAMSWAN A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413nnMba3gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413nnMba3gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413nnMba3gL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Bayliss  Bajos para Hombre  Rojo al 42.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411vpZQeHtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411vpZQeHtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411vpZQeHtL._SL200_.jpg' ]
 comments: true
 category: ofertas

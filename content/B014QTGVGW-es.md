@@ -3,6 +3,7 @@ layout: post
 title: 'Altavoces Bluetooth Inalámbricos WiFi So al 61.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BvnY9fmJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BvnY9fmJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BvnY9fmJL._SL200_.jpg' ]
 comments: true
 category: ofertas

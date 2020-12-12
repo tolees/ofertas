@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.22 % en adidas Copa Mundial  Zapatillas de Fútbo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BLvi%2BmLlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BLvi%2BmLlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BLvi%2BmLlL._SL200_.jpg' ]
 comments: true
 category: ofertas

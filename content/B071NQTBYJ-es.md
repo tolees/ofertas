@@ -3,6 +3,7 @@ layout: post
 title: 'CIVO Relojes Hombre con Lujo Correa de A al 90.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sImfx97nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sImfx97nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sImfx97nL._SL200_.jpg' ]
 comments: true
 category: ofertas

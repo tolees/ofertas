@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones NOS Jjiglenn Jjfox Am 795 5 al 71.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A7arBEHxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A7arBEHxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A7arBEHxL._SL200_.jpg' ]
 comments: true
 category: ofertas

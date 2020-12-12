@@ -3,6 +3,7 @@ layout: post
 title: 'ThunderX3 PLEXUS800 - Fuente de alimenta al 26.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rHGzB54gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rHGzB54gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rHGzB54gL._SL200_.jpg' ]
 comments: true
 category: ofertas

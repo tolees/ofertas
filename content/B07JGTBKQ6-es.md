@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange J17 Slim Vaqueros  Gris  al 60.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cX3THZNeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cX3THZNeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cX3THZNeL._SL200_.jpg' ]
 comments: true
 category: ofertas

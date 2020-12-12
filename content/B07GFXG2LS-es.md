@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.77 % en Taladro atornillador electrico inalambri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S%2BpGyiIZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51S%2BpGyiIZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S%2BpGyiIZL._SL200_.jpg' ]
 comments: true
 category: ofertas

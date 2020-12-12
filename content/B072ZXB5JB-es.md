@@ -3,6 +3,7 @@ layout: post
 title: 'Champion Crewneck T-Shirt-Institutionals al 29.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YK0GzJ-hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YK0GzJ-hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YK0GzJ-hL._SL200_.jpg' ]
 comments: true
 category: ofertas

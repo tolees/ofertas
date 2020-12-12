@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.01 % en SUNLU LCD Writing Tablet  9 Inch Electro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vq%2BCWIWlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vq%2BCWIWlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vq%2BCWIWlL._SL200_.jpg' ]
 comments: true
 category: ofertas

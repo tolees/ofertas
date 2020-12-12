@@ -3,6 +3,7 @@ layout: post
 title: 'Fila Orbit Zeppa Low Wmn 1010311-25y  Za al 31.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jev2E1stL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jev2E1stL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jev2E1stL._SL200_.jpg' ]
 comments: true
 category: ofertas

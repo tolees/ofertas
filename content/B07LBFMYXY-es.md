@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Giulian Camisa   Check C05   4 al 54.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UJV9RXIWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UJV9RXIWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UJV9RXIWL._SL200_.jpg' ]
 comments: true
 category: ofertas

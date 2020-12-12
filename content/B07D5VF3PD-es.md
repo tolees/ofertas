@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.37 % en Celio Hombre Jokrey15 Vaqueros Straight '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UMDMagy0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UMDMagy0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UMDMagy0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.54 % en Gant 3 Pack Trunk CTN STP  Bañador para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qNQuszvhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qNQuszvhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qNQuszvhL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Consolador enorme15.6 pulgadas 39.6    1 al 68.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u3EHSeo6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u3EHSeo6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u3EHSeo6L._SL200_.jpg' ]
 comments: true
 category: ofertas

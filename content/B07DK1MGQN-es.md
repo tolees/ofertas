@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 25258-31  Zapatillas Altas para  al 72.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417ZZKCPvJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417ZZKCPvJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417ZZKCPvJL._SL200_.jpg' ]
 comments: true
 category: ofertas

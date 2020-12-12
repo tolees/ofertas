@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung EP-PN920 Interior Blanco - Carga al 74.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OcblG6isL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OcblG6isL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OcblG6isL._SL200_.jpg' ]
 comments: true
 category: ofertas

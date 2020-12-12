@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.55 % en Hummel Hmlannieshirt Sudadera  Unisex ni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NscFlEaLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NscFlEaLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NscFlEaLL._SL200_.jpg' ]
 comments: true
 category: ofertas

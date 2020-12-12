@@ -3,6 +3,7 @@ layout: post
 title: 'H13 bombilla led establecen la cabeza LU al 91.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dYJKmoWHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dYJKmoWHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dYJKmoWHL._SL200_.jpg' ]
 comments: true
 category: ofertas

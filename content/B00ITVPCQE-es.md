@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.70 % en Salki 44200024 Com Gas 240050AN-Soldador'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OHvRnPH6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31OHvRnPH6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OHvRnPH6L._SL200_.jpg' ]
 comments: true
 category: ofertas

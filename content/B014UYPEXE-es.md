@@ -3,6 +3,7 @@ layout: post
 title: 'Corsair Vengeance LPX - Módulo de Memori al 51.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gm0U4MnKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gm0U4MnKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gm0U4MnKL._SL200_.jpg' ]
 comments: true
 category: ofertas

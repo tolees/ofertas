@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.76 % en Inside 5EPOC17 Polo  Hombre  Gris  X-Lar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wU2ImSMbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wU2ImSMbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wU2ImSMbL._SL200_.jpg' ]
 comments: true
 category: ofertas

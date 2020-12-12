@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.17 % en JACK & JONES Jcoscales Polo SS  Camiseta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YWwDbKJJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YWwDbKJJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YWwDbKJJL._SL200_.jpg' ]
 comments: true
 category: ofertas

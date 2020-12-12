@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.26 % en Dcasa - Cortina de baño original poliest'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417s9yobCYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417s9yobCYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417s9yobCYL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Marvel Iron Man Obey Camiseta  Negro Sch al 71.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ujLi8RS8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ujLi8RS8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ujLi8RS8L._SL200_.jpg' ]
 comments: true
 category: ofertas

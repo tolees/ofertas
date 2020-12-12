@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Charged 24/7 Low Exp  Za al 48.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4190cKGta4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4190cKGta4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4190cKGta4L._SL200_.jpg' ]
 comments: true
 category: ofertas

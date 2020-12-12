@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.23 % en Luz de lectura de clip  luz de libro LED'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oG3Q5Q1YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oG3Q5Q1YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oG3Q5Q1YL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Tuc Tuc Bird Tropic Chaqueta  Bebé-Niñas al 64.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-7GFtu-NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-7GFtu-NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-7GFtu-NL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.35 % en Suunto - Traverse - SS021844000 - Reloj '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j8LBubWAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j8LBubWAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j8LBubWAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Vedaxin Zapatillas de Deporte Respirable al 34.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kg97LH5XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kg97LH5XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kg97LH5XL._SL200_.jpg' ]
 comments: true
 category: ofertas

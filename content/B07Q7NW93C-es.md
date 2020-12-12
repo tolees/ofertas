@@ -3,6 +3,7 @@ layout: post
 title: 'Mujer Encaje Lencería Erótica Ropa Inter al 60.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RRkM-0c1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RRkM-0c1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RRkM-0c1L._SL200_.jpg' ]
 comments: true
 category: ofertas

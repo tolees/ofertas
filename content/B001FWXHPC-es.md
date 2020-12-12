@@ -3,6 +3,7 @@ layout: post
 title: 'Jil Sander Sport for Women Gel de ducha  al 59.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XBQLrodiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XBQLrodiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XBQLrodiL._SL200_.jpg' ]
 comments: true
 category: ofertas

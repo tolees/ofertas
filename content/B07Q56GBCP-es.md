@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.63 % en TOPERSUN 10PCS Bolsa de Lavanderia Bolsa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B7EUcWPxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51B7EUcWPxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B7EUcWPxL._SL200_.jpg' ]
 comments: true
 category: ofertas

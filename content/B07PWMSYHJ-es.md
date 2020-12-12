@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Cara Ditsy Vestido  Verde  Gree al 44.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PvJNiHpSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PvJNiHpSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PvJNiHpSL._SL200_.jpg' ]
 comments: true
 category: ofertas

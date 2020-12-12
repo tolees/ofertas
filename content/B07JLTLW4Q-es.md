@@ -3,6 +3,7 @@ layout: post
 title: 'COOAU Camara Deportiva 4K WiFi Impermeab al 64.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SB-FKSMfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SB-FKSMfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SB-FKSMfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en Ultrasport F-Bike 250 bicicleta estática'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413vSAfG01L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413vSAfG01L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413vSAfG01L._SL200_.jpg' ]
 comments: true
 category: ofertas

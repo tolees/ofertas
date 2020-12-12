@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.43 % en Abadía de San Quirce Vino tinto crianza '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314l%2BVTAmwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314l%2BVTAmwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314l%2BVTAmwL._SL200_.jpg' ]
 comments: true
 category: ofertas

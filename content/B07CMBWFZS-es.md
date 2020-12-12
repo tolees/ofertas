@@ -3,6 +3,7 @@ layout: post
 title: 'San Jamón Guerra de Pura Cepa Tinto Mecí al 55.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H-NX-4nFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H-NX-4nFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H-NX-4nFL._SL200_.jpg' ]
 comments: true
 category: ofertas

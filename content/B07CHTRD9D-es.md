@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Ustin  Chaqueta de Traje para Hombr al 66.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31clj9Z1zvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31clj9Z1zvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31clj9Z1zvL._SL200_.jpg' ]
 comments: true
 category: ofertas

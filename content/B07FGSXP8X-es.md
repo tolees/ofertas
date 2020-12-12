@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.69 % en Under Armour GL Foundation T - Camiseta '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e6GRrjUOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e6GRrjUOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e6GRrjUOL._SL200_.jpg' ]
 comments: true
 category: ofertas

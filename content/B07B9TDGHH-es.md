@@ -3,6 +3,7 @@ layout: post
 title: 'Merrell Bare Access Flex Shield  Zapatil al 72.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P7TDUo2mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P7TDUo2mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P7TDUo2mL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.83 % en Geox D Tahina 22  Zapatillas para Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412D88Wl8sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412D88Wl8sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412D88Wl8sL._SL200_.jpg' ]
 comments: true
 category: ofertas

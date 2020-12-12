@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia ELM Creek Polo elástico  Hombre al 41.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c%2BCuI8QzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31c%2BCuI8QzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c%2BCuI8QzL._SL200_.jpg' ]
 comments: true
 category: ofertas

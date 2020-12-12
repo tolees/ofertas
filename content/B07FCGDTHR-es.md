@@ -3,6 +3,7 @@ layout: post
 title: 'Aspirador ciclonico para hogar sin bolsa al 48.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h%2BtDLlwJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h%2BtDLlwJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h%2BtDLlwJL._SL200_.jpg' ]
 comments: true
 category: ofertas

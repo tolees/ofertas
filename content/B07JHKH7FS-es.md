@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jfwaustin Denim Stripe Navy al 61.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Pz%2BtYsg5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Pz%2BtYsg5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Pz%2BtYsg5L._SL200_.jpg' ]
 comments: true
 category: ofertas

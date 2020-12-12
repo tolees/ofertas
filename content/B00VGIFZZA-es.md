@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.12 % en King Cock Consolador - 200 gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21rGkghKaWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21rGkghKaWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21rGkghKaWL._SL200_.jpg' ]
 comments: true
 category: ofertas

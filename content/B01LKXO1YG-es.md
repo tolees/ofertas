@@ -3,6 +3,7 @@ layout: post
 title: 'Giro Switchblade Mips – Casco para bicic al 39.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YGuvoYOiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YGuvoYOiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YGuvoYOiL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 018ee1b009  Vaqueros Straight Muj al 66.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zhWnNDSYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zhWnNDSYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zhWnNDSYL._SL200_.jpg' ]
 comments: true
 category: ofertas

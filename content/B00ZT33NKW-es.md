@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.72 % en Gola Ama202  Zapatillas Deportivas para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414P9RYzdgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414P9RYzdgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414P9RYzdgL._SL200_.jpg' ]
 comments: true
 category: ofertas

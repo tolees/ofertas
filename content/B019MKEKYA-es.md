@@ -3,6 +3,7 @@ layout: post
 title: 'POP! Vinilo - Disney: Cinderella: Cinder al 43.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41amKcd7RNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41amKcd7RNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41amKcd7RNL._SL200_.jpg' ]
 comments: true
 category: ofertas

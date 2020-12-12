@@ -3,6 +3,7 @@ layout: post
 title: 'StarTech.com MST30C2HHPDU - Dock USB-C c al 41.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mZzt85U5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mZzt85U5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mZzt85U5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorberlin tee SS Crew Neck  al 55.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513l5Fhv8yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513l5Fhv8yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513l5Fhv8yL._SL200_.jpg' ]
 comments: true
 category: ofertas

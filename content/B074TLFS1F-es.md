@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.90 % en AmazonBasics - Balón medicinal  6 kg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/6108jjfwc3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/6108jjfwc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/6108jjfwc3L._SL200_.jpg' ]
 comments: true
 category: ofertas

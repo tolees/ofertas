@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.75 % en Skechers ON-The-GO  Zapatillas de Deport'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QsDKWcM-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QsDKWcM-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QsDKWcM-L._SL200_.jpg' ]
 comments: true
 category: ofertas

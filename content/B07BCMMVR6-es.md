@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Dove Roxana  Botas Chukka para Mu al 82.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kOyD9oaaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kOyD9oaaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kOyD9oaaL._SL200_.jpg' ]
 comments: true
 category: ofertas

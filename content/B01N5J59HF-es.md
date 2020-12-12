@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Cypher Run  Zapatillas de Ru al 69.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51okgusQjrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51okgusQjrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51okgusQjrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Michael Kors Cambria Mule  Zapatos de Bo al 53.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kv0V6ZePL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kv0V6ZePL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kv0V6ZePL._SL200_.jpg' ]
 comments: true
 category: ofertas

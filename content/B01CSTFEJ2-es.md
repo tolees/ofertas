@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.34 % en Joma 900248.700 - Camiseta para Mujer  C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xZB6xbqpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xZB6xbqpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xZB6xbqpL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Inside 5SFD13 Camiseta  Mujer  Blanco  M al 38.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RBKyn%2BQFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RBKyn%2BQFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RBKyn%2BQFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.17 % en Steelite FW80 Calzado de Protección  Col'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TkV8%2BHmZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TkV8%2BHmZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TkV8%2BHmZL._SL200_.jpg' ]
 comments: true
 category: ofertas

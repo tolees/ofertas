@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.46 % en Levi s Rectangular Buckle Belt - Cinturó'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xuCqyuoVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xuCqyuoVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xuCqyuoVL._SL200_.jpg' ]
 comments: true
 category: ofertas

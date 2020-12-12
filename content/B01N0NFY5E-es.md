@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.73 % en Puma 1948 Vulc  Zapatillas Unisex Adulto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410BSXrHDlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410BSXrHDlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410BSXrHDlL._SL200_.jpg' ]
 comments: true
 category: ofertas

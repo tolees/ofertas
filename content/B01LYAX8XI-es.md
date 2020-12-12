@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.04 % en BESTEK Cargador USB con 4 puertos 5V/6A '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-QR2CreeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-QR2CreeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-QR2CreeL._SL200_.jpg' ]
 comments: true
 category: ofertas

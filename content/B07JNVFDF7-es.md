@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jormetallica tee LS Crew Ne al 58.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GxWAur0nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GxWAur0nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GxWAur0nL._SL200_.jpg' ]
 comments: true
 category: ofertas

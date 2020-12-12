@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans Mujer SOFT JERSEY Camiseta M al 38.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sS0gJ3xdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sS0gJ3xdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sS0gJ3xdL._SL200_.jpg' ]
 comments: true
 category: ofertas

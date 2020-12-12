@@ -3,6 +3,7 @@ layout: post
 title: 'LIYSET HHB1772 - Hervidor de Agua Compac al 75.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MLtdwSDsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MLtdwSDsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MLtdwSDsL._SL200_.jpg' ]
 comments: true
 category: ofertas

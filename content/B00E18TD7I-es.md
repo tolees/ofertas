@@ -3,6 +3,7 @@ layout: post
 title: 'Baby Boum Softy Stary 92 - Saco  0-3 mes al 57.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514rRnGwJuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514rRnGwJuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514rRnGwJuL._SL200_.jpg' ]
 comments: true
 category: ofertas

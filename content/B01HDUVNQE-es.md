@@ -3,6 +3,7 @@ layout: post
 title: 'Ballistix Tactical BLT4C4G4D30AETA - Mem al 60.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dFTSgr0NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dFTSgr0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dFTSgr0NL._SL200_.jpg' ]
 comments: true
 category: ofertas

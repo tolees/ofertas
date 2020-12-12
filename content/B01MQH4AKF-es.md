@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 22144  Bailarinas para Mujer  Ne al 66.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BRc0IadBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BRc0IadBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BRc0IadBL._SL200_.jpg' ]
 comments: true
 category: ofertas

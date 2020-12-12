@@ -3,6 +3,7 @@ layout: post
 title: 'Geox B Kilwi C10  Zapatillas para Bebés  al 69.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412jhnyoA9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412jhnyoA9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412jhnyoA9L._SL200_.jpg' ]
 comments: true
 category: ofertas

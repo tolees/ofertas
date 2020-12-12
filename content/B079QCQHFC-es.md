@@ -3,6 +3,7 @@ layout: post
 title: 'Hackett London Light Wash CL Denim NS  V al 69.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nzK5RcaNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nzK5RcaNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nzK5RcaNL._SL200_.jpg' ]
 comments: true
 category: ofertas

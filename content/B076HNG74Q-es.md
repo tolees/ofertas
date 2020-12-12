@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.51 % en Palo Selfie Bluetooth con Control Remoto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tiN9EiX-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tiN9EiX-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tiN9EiX-L._SL200_.jpg' ]
 comments: true
 category: ofertas

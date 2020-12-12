@@ -3,6 +3,7 @@ layout: post
 title: 'TUOKING Camouflage  Zapatillas de Deport al 29.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w5c0Wm-gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51w5c0Wm-gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w5c0Wm-gL._SL200_.jpg' ]
 comments: true
 category: ofertas

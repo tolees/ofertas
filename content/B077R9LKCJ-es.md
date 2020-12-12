@@ -3,6 +3,7 @@ layout: post
 title: 'Cargador solar  vivostar 20000 mAh porta al 69.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413JTDFiuCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413JTDFiuCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413JTDFiuCL._SL200_.jpg' ]
 comments: true
 category: ofertas

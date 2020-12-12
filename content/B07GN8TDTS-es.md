@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.85 % en YaYuu Correa para Fitbit Versa Watch  Co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WrRHXyjBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WrRHXyjBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WrRHXyjBL._SL200_.jpg' ]
 comments: true
 category: ofertas

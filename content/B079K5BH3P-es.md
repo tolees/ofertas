@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.27 % en Lee Daren Zip Fly Vaqueros rectors Recto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SkBWzdh1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SkBWzdh1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SkBWzdh1L._SL200_.jpg' ]
 comments: true
 category: ofertas

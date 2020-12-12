@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans Mujer SATIN DETAIL TEE Camis al 49.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V7ss8BXfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V7ss8BXfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V7ss8BXfL._SL200_.jpg' ]
 comments: true
 category: ofertas

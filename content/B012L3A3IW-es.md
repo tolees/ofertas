@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.22 % en Dickies Curtis  Parka para Hombre  Verde'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xXqaiCmpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xXqaiCmpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xXqaiCmpL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.89 % en Puma Ignite Flash Evoknit SR Wn s  Zapat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kFvXgsbDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kFvXgsbDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kFvXgsbDL._SL200_.jpg' ]
 comments: true
 category: ofertas

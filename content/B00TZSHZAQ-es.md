@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.96 % en Colchón viscoelástico París 90X200  18 c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LMZwFhRJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LMZwFhRJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LMZwFhRJL._SL200_.jpg' ]
 comments: true
 category: ofertas

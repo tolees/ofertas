@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Deauville Inf Princess  B al 60.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iTOo8CTBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iTOo8CTBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iTOo8CTBL._SL200_.jpg' ]
 comments: true
 category: ofertas

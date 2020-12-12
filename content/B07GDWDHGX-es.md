@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Capucha  Blanco  CB Sportswear Ho al 50.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4128%2BtXi0wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4128%2BtXi0wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4128%2BtXi0wL._SL200_.jpg' ]
 comments: true
 category: ofertas

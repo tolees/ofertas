@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Cashed Vaqueros slim  Azul  B al 52.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yEFKsg9UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yEFKsg9UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yEFKsg9UL._SL200_.jpg' ]
 comments: true
 category: ofertas

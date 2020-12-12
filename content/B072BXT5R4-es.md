@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.32 % en Helly Hansen W Long Belfast Jacket  Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TGMDoECLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TGMDoECLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TGMDoECLL._SL200_.jpg' ]
 comments: true
 category: ofertas

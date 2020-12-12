@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.09 % en Mujer Albornoz de algodón S / M / L / XL'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IHfNxQ5ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IHfNxQ5ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IHfNxQ5ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

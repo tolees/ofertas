@@ -3,6 +3,7 @@ layout: post
 title: 'Nike M Breathe Academy SS Gx2 Camiseta   al 46.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qn1s31UHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qn1s31UHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qn1s31UHL._SL200_.jpg' ]
 comments: true
 category: ofertas

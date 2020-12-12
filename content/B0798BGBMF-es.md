@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.77 % en Kempa Core 2.0 Camiseta de Oberbekleidun'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K4Ep4bm8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K4Ep4bm8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K4Ep4bm8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.52 % en Azza GT 1 Full-Tower Negro - Caja de Ord'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m287vKjQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51m287vKjQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m287vKjQL._SL200_.jpg' ]
 comments: true
 category: ofertas

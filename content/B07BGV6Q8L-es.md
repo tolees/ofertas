@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.47 % en BOODUN Guantes de Gimnasia para Mujeres '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D8PrTMk4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51D8PrTMk4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D8PrTMk4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.78 % en XTI 35000  Zapatos con Tira de Tobillo p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d1tdO1auL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d1tdO1auL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d1tdO1auL._SL200_.jpg' ]
 comments: true
 category: ofertas

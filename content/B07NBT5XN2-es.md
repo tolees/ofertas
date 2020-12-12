@@ -3,6 +3,7 @@ layout: post
 title: 'CRXOOX 2-Pack Cristal Vidrio Templado pa al 57.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z5K-k-LDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z5K-k-LDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z5K-k-LDL._SL200_.jpg' ]
 comments: true
 category: ofertas

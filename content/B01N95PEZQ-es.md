@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.85 % en Puma Evopower Vigor 3 FG  Botas de fútbo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lZbID8V7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lZbID8V7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lZbID8V7L._SL200_.jpg' ]
 comments: true
 category: ofertas

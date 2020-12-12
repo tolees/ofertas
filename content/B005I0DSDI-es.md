@@ -3,6 +3,7 @@ layout: post
 title: 'Tuscany Silver 8.45.2985 - Cadena con co al 89.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414m2Zsh-mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414m2Zsh-mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414m2Zsh-mL._SL200_.jpg' ]
 comments: true
 category: ofertas

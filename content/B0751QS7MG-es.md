@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fresh Foam Cruz Decon  Zapat al 69.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514x0zdEYpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514x0zdEYpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514x0zdEYpL._SL200_.jpg' ]
 comments: true
 category: ofertas

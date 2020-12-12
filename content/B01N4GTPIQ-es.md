@@ -3,6 +3,7 @@ layout: post
 title: 'find. FP00947.2.1 vestido fiesta mujer   al 57.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4101KC4QsLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4101KC4QsLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4101KC4QsLL._SL200_.jpg' ]
 comments: true
 category: ofertas

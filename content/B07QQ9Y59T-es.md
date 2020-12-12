@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en Ffipke Mini Vigilancia Cámara Oculta Gra'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411gIaK39KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411gIaK39KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411gIaK39KL._SL200_.jpg' ]
 comments: true
 category: ofertas

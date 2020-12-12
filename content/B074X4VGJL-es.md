@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.87 % en Prozis Oatmeal - Avena Integral  1250g  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mwS5So0dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mwS5So0dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mwS5So0dL._SL200_.jpg' ]
 comments: true
 category: ofertas

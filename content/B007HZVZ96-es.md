@@ -3,6 +3,7 @@ layout: post
 title: 'Aha 101421 - Estuche para portátiles de  al 85.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hyqEiECWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hyqEiECWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hyqEiECWL._SL200_.jpg' ]
 comments: true
 category: ofertas

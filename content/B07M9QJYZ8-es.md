@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.43 % en G-STAR RAW Graphic 51 Slim T-Shirt Camis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YCNFKL3eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YCNFKL3eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YCNFKL3eL._SL200_.jpg' ]
 comments: true
 category: ofertas

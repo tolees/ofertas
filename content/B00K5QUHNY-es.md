@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Regular Fit Straight Leg Vaquer al 42.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UByBmOboL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UByBmOboL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UByBmOboL._SL200_.jpg' ]
 comments: true
 category: ofertas

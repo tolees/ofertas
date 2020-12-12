@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.03 % en Volcom Halfer BSC SS Camiseta  Hombre  B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a2qM6w32L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a2qM6w32L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a2qM6w32L._SL200_.jpg' ]
 comments: true
 category: ofertas

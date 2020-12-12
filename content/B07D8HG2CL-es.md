@@ -3,6 +3,7 @@ layout: post
 title: 'HOMCOM Silla de Masaje Plegable Portátil al 61.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I%2BI%2BwD%2BSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I%2BI%2BwD%2BSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I%2BI%2BwD%2BSL._SL200_.jpg' ]
 comments: true
 category: ofertas

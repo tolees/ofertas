@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.47 % en Under Armour Run True Heatgear Tight Pan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419vj6r-I1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419vj6r-I1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419vj6r-I1L._SL200_.jpg' ]
 comments: true
 category: ofertas

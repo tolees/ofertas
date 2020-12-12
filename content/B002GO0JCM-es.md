@@ -3,6 +3,7 @@ layout: post
 title: 'Nike 3Ppk Value Pack 3 Calcetines para h al 44.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419VkvmmcYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419VkvmmcYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419VkvmmcYL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.51 % en Elbe RC-005-SO - Mando a Distancia de su'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jzWqerpnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jzWqerpnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jzWqerpnL._SL200_.jpg' ]
 comments: true
 category: ofertas

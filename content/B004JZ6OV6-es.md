@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Yoda figura de vinilo  colección d al 45.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hgh54YrkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hgh54YrkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hgh54YrkL._SL200_.jpg' ]
 comments: true
 category: ofertas

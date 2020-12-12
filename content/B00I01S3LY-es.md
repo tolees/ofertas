@@ -3,6 +3,7 @@ layout: post
 title: 'Handevision Ibelux - Objetivo para Sony  al 65.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZA6z39zYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZA6z39zYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZA6z39zYL._SL200_.jpg' ]
 comments: true
 category: ofertas

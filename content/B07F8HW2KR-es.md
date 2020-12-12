@@ -3,6 +3,7 @@ layout: post
 title: 'NACATIN Lámpara de Fuego Solar  1 unidad al 63.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GIFEAYf-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GIFEAYf-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GIFEAYf-L._SL200_.jpg' ]
 comments: true
 category: ofertas

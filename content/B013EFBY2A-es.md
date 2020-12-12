@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.42 % en BQ C000067 - Phablet fnac 2 de 5"  LTE  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41durdMIE%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41durdMIE%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41durdMIE%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 490 Raya Emplazada Gg7 Jerse al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sAHrW8eZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sAHrW8eZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sAHrW8eZL._SL200_.jpg' ]
 comments: true
 category: ofertas

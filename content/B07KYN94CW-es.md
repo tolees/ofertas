@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.T.Daily.Grafica Amapolas C al 64.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4139UNp4RCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4139UNp4RCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4139UNp4RCL._SL200_.jpg' ]
 comments: true
 category: ofertas

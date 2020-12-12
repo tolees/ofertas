@@ -3,6 +3,7 @@ layout: post
 title: 'Yale  124R100DHP  Cerradura de Sobrepone al 49.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pMqHzzJAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pMqHzzJAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pMqHzzJAL._SL200_.jpg' ]
 comments: true
 category: ofertas

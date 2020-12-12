@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.96 % en Skechers Vaso  Zapatillas para Mujer  Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lbg%2Bngu8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lbg%2Bngu8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lbg%2Bngu8L._SL200_.jpg' ]
 comments: true
 category: ofertas

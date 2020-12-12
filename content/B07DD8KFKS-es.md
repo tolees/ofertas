@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.66 % en Samsung Galaxy A6+ SM-A605F 15 2 cm  6" '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31al146LZeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31al146LZeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31al146LZeL._SL200_.jpg' ]
 comments: true
 category: ofertas

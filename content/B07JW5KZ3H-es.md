@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.42 % en Vero Moda Vmlisa 7/8 Top Box Blusa  Azul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q%2B8CtcpWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q%2B8CtcpWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q%2B8CtcpWL._SL200_.jpg' ]
 comments: true
 category: ofertas

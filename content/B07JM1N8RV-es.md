@@ -3,6 +3,7 @@ layout: post
 title: 'Harry Potter Hogwarts Express 9 3/4 Bols al 26.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mm3pT8HlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mm3pT8HlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mm3pT8HlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.87 % en TONZE Construcciones Infantiles Rompecab'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vzaBOgtkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vzaBOgtkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vzaBOgtkL._SL200_.jpg' ]
 comments: true
 category: ofertas

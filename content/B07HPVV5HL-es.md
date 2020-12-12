@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.18 % en New Look Chicago Parka  Gris  Light Grey'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vYrQ9CxbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vYrQ9CxbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vYrQ9CxbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance X-90  Zapatillas para Hombre al 63.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316rk6XgDIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316rk6XgDIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316rk6XgDIL._SL200_.jpg' ]
 comments: true
 category: ofertas

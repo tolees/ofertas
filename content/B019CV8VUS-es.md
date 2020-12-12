@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.48 % en New Balance Vazee Urge  Zapatillas de Ru'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w7qE3yYGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w7qE3yYGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w7qE3yYGL._SL200_.jpg' ]
 comments: true
 category: ofertas

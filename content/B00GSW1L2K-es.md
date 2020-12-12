@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.66 % en Simogas Cuchillo Santoku 18 cm CUT-02  A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21YZE3CH7hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21YZE3CH7hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21YZE3CH7hL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Monitores 349X7FJEW/00 - Monitor al 27.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bMAltebXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bMAltebXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bMAltebXL._SL200_.jpg' ]
 comments: true
 category: ofertas

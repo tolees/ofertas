@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.89 % en JACK & JONES Jacmix Solid Trunks Noos Bó'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m%2BaLrWHOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m%2BaLrWHOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m%2BaLrWHOL._SL200_.jpg' ]
 comments: true
 category: ofertas

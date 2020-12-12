@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Dry Academy 18 Football Trkst Chand al 71.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tX-AHuEeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tX-AHuEeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tX-AHuEeL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.78 % en Diesel Loverdose Eau de Parfum - 50 ml'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412uwkPclUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412uwkPclUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412uwkPclUL._SL200_.jpg' ]
 comments: true
 category: ofertas

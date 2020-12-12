@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.93 % en Black Crevice Abrigo Corto Verde ES 38  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41itOr1FPYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41itOr1FPYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41itOr1FPYL._SL200_.jpg' ]
 comments: true
 category: ofertas

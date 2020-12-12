@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.62 % en Philips Senseo Original XL HD6555/22 Caf'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tCcdHg0HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tCcdHg0HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tCcdHg0HL._SL200_.jpg' ]
 comments: true
 category: ofertas

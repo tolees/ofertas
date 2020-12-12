@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS Logo tee Camiseta  Hombre  Amar al 41.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lck5gT-CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lck5gT-CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lck5gT-CL._SL200_.jpg' ]
 comments: true
 category: ofertas

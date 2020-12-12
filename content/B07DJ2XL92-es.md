@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Renan H  Zapatillas para Hombre  Be al 39.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t9NaoFBFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t9NaoFBFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t9NaoFBFL._SL200_.jpg' ]
 comments: true
 category: ofertas

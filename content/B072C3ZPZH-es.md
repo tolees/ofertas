@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.36 % en Dolores Promesas OI17 1054GRIS Sudadera '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M4gi2XZhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M4gi2XZhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M4gi2XZhL._SL200_.jpg' ]
 comments: true
 category: ofertas

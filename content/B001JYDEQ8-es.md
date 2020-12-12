@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.35 % en Vibram FiveFingers KSO  Zapatillas de Cr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419FmnsRkvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419FmnsRkvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419FmnsRkvL._SL200_.jpg' ]
 comments: true
 category: ofertas

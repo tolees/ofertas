@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Mattias B  Botas para Hombre  Mar al 38.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r43tXoz9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r43tXoz9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r43tXoz9L._SL200_.jpg' ]
 comments: true
 category: ofertas

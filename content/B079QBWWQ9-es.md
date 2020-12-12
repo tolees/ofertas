@@ -3,6 +3,7 @@ layout: post
 title: 'Echoming 2 Pcs 3014 144SMD H7 LED DRL Bo al 27.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uugUvjIiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uugUvjIiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uugUvjIiL._SL200_.jpg' ]
 comments: true
 category: ofertas

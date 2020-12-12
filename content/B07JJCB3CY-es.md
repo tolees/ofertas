@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange J13-Slim Vaqueros Slim   al 50.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XLM27ChvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XLM27ChvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XLM27ChvL._SL200_.jpg' ]
 comments: true
 category: ofertas

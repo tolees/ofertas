@@ -3,6 +3,7 @@ layout: post
 title: 'Scalpers Rules tee  Camiseta para Hombre al 37.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rp%2B%2B3lAAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rp%2B%2B3lAAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rp%2B%2B3lAAL._SL200_.jpg' ]
 comments: true
 category: ofertas

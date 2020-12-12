@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance KJ570V1Y  Zapatillas de Runn al 47.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31b1JwrxmjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31b1JwrxmjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31b1JwrxmjL._SL200_.jpg' ]
 comments: true
 category: ofertas

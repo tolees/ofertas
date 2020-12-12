@@ -3,6 +3,7 @@ layout: post
 title: 'Gloss - caja de baño  caja de regalo par al 27.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C5jtH8uyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51C5jtH8uyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C5jtH8uyL._SL200_.jpg' ]
 comments: true
 category: ofertas

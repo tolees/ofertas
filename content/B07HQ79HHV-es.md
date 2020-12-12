@@ -3,6 +3,7 @@ layout: post
 title: 'TOPsic Garmin Vivosmart HR Correa  Acces al 79.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O04g%2BhxXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O04g%2BhxXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O04g%2BhxXL._SL200_.jpg' ]
 comments: true
 category: ofertas

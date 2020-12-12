@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.97 % en BESTEK Soporte Tablet Coche Universal pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HT9WbqCML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HT9WbqCML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HT9WbqCML._SL200_.jpg' ]
 comments: true
 category: ofertas

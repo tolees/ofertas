@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung EVO - Tarjeta de Memoria microSD al 64.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bSwUg8E-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bSwUg8E-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bSwUg8E-L._SL200_.jpg' ]
 comments: true
 category: ofertas

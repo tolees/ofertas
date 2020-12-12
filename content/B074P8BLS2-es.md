@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.66 % en Scalpers Fancy Linen  Camisa Casual Para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l1cXNC2tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l1cXNC2tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l1cXNC2tL._SL200_.jpg' ]
 comments: true
 category: ofertas

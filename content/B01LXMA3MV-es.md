@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 25122  Botines para Mujer  Negro al 77.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d7sX36ynL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d7sX36ynL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d7sX36ynL._SL200_.jpg' ]
 comments: true
 category: ofertas

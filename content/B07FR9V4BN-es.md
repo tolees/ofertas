@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Bright Deja  Mules para Mujer  Gr al 62.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gHCH9UngL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gHCH9UngL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gHCH9UngL._SL200_.jpg' ]
 comments: true
 category: ofertas

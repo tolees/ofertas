@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Ask SPR tee LS Camiseta   Azul Cl al 70.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BZgvZfdRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BZgvZfdRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BZgvZfdRL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.94 % en Calvin Klein Low Rise Trunk 3PK Bóxer  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UwI1CTcLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UwI1CTcLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UwI1CTcLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Cookmii Batidora Amasadora Repostería  A al 30.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513So%2Bu7tnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513So%2Bu7tnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513So%2Bu7tnL._SL200_.jpg' ]
 comments: true
 category: ofertas

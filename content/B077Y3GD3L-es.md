@@ -3,6 +3,7 @@ layout: post
 title: 'Inside 5SFD20 Camiseta  Mujer  Verde  X- al 77.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iHz%2BfaocL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iHz%2BfaocL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iHz%2BfaocL._SL200_.jpg' ]
 comments: true
 category: ofertas

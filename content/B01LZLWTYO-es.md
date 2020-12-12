@@ -3,6 +3,7 @@ layout: post
 title: 'edc by ESPRIT 116CC1I013  suéter Mujer   al 72.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b49cUQGDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51b49cUQGDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b49cUQGDL._SL200_.jpg' ]
 comments: true
 category: ofertas

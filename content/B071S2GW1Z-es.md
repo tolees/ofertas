@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf NOBORE Jersey  Negro  Noir 625   al 42.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BWqUxm4hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BWqUxm4hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BWqUxm4hL._SL200_.jpg' ]
 comments: true
 category: ofertas

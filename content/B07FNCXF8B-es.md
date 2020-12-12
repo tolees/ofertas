@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.35 % en Luz Nocturna Infantil  ACDE Lámpara Noct'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XkvSiYnpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XkvSiYnpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XkvSiYnpL._SL200_.jpg' ]
 comments: true
 category: ofertas

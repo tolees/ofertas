@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Go Run 600-Sunrise  Sandalias d al 45.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314An4qWDCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314An4qWDCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314An4qWDCL._SL200_.jpg' ]
 comments: true
 category: ofertas

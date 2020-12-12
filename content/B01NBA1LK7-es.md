@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.86 % en New Balance Flash  Zapatillas Deportivas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5128aXr2YpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5128aXr2YpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5128aXr2YpL._SL200_.jpg' ]
 comments: true
 category: ofertas

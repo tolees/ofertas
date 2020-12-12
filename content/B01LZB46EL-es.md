@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 106cc1j007 Sudadera  Gris  al 74.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4179O3ChUbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4179O3ChUbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4179O3ChUbL._SL200_.jpg' ]
 comments: true
 category: ofertas

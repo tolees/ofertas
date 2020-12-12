@@ -3,6 +3,7 @@ layout: post
 title: 'Biffi Salsa con Champiňones y Ceps - 6 d al 52.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rctpqz4jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rctpqz4jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rctpqz4jL._SL200_.jpg' ]
 comments: true
 category: ofertas

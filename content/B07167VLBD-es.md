@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.43 % en Prada Candy Gloss Agua de Colonia - 30 m'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51U385hlW%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51U385hlW%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51U385hlW%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

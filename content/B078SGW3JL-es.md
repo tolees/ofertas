@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.57 % en G-STAR RAW D-STAQ 5-pkt Tapered  Vaquero'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410LT6NsWdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410LT6NsWdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410LT6NsWdL._SL200_.jpg' ]
 comments: true
 category: ofertas

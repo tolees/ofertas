@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.36 % en XTI 35030  Zapatos de tacón con Punta Ce'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jATMF6hKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jATMF6hKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jATMF6hKL._SL200_.jpg' ]
 comments: true
 category: ofertas

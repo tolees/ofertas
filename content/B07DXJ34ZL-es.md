@@ -3,6 +3,7 @@ layout: post
 title: '3 Pommes Trousers 3M23003  Pantalones pa al 57.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JL5xQqi7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JL5xQqi7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JL5xQqi7L._SL200_.jpg' ]
 comments: true
 category: ofertas

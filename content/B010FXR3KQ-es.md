@@ -3,6 +3,7 @@ layout: post
 title: 'Joma - Chaqueta Mujer Capucha Crew Marin al 38.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hiXSTsPPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hiXSTsPPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hiXSTsPPL._SL200_.jpg' ]
 comments: true
 category: ofertas

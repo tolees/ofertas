@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.19 % en Only Onlpeyton AW Short Fur Jacket CC Ot'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F5LYPWNAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F5LYPWNAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F5LYPWNAL._SL200_.jpg' ]
 comments: true
 category: ofertas

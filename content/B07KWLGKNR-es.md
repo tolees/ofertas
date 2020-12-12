@@ -3,6 +3,7 @@ layout: post
 title: 'United Colors of Benetton Trousers Panta al 45.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317f0ST0FQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317f0ST0FQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317f0ST0FQL._SL200_.jpg' ]
 comments: true
 category: ofertas

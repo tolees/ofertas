@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.80 % en Gricol Gancho de Pared Percha de Baño Pe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w9urEyKVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w9urEyKVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w9urEyKVL._SL200_.jpg' ]
 comments: true
 category: ofertas

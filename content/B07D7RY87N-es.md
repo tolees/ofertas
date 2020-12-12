@@ -3,6 +3,7 @@ layout: post
 title: 'Gioseppo 46702-P  Zapatillas para Niñas  al 71.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mv6-JBHQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mv6-JBHQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mv6-JBHQL._SL200_.jpg' ]
 comments: true
 category: ofertas

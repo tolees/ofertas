@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.22 % en ReebokClassic Leather - Zapatillas de Ru'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410QV1-W7wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410QV1-W7wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410QV1-W7wL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.92 % en Geox J Kommodor B  Zapatillas para Niños'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AfdXY3t%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AfdXY3t%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AfdXY3t%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

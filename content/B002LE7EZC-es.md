@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.82 % en Panama Jack Panama 03 Wool  Náuticos par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pIXvj3kUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pIXvj3kUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pIXvj3kUL._SL200_.jpg' ]
 comments: true
 category: ofertas

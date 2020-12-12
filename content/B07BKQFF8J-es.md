@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.79 % en DlandHome 80 * 40 cm Ajustable Mesa de O'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VCxN5pEpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VCxN5pEpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VCxN5pEpL._SL200_.jpg' ]
 comments: true
 category: ofertas

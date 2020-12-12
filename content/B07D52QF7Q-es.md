@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.61 % en Hoomtaook cajita de repisas para ducha  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XQ8ChjdxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XQ8ChjdxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XQ8ChjdxL._SL200_.jpg' ]
 comments: true
 category: ofertas

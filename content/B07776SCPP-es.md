@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.55 % en Tommy Jeans Hombre Essential  Polo Manga'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ebPRovsqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ebPRovsqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ebPRovsqL._SL200_.jpg' ]
 comments: true
 category: ofertas

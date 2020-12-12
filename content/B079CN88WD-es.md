@@ -3,6 +3,7 @@ layout: post
 title: 'NIMAXI marco de fotos para bebé para hue al 37.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wUzDjAmCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wUzDjAmCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wUzDjAmCL._SL200_.jpg' ]
 comments: true
 category: ofertas

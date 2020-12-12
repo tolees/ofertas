@@ -3,6 +3,7 @@ layout: post
 title: 'L Oréal Paris Rouge Signature 110 I Dese al 36.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bo0IMI%2B5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bo0IMI%2B5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bo0IMI%2B5L._SL200_.jpg' ]
 comments: true
 category: ofertas

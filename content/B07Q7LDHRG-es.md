@@ -3,6 +3,7 @@ layout: post
 title: 'L OR BARISTA Doble Ristretto - Intensida al 34.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51X9Si2XGXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51X9Si2XGXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51X9Si2XGXL._SL200_.jpg' ]
 comments: true
 category: ofertas

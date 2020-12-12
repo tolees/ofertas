@@ -3,6 +3,7 @@ layout: post
 title: 'Diadora X Run Light 2  Zapatillas de Run al 49.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QXav8UMVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QXav8UMVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QXav8UMVL._SL200_.jpg' ]
 comments: true
 category: ofertas

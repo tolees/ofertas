@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour London Big Logo SS T Camise al 47.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415kv-dd6mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415kv-dd6mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415kv-dd6mL._SL200_.jpg' ]
 comments: true
 category: ofertas

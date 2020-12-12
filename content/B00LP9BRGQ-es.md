@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.12 % en Elizabeth Arden 59915 - Loción anti-impe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BbmaYeGKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BbmaYeGKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BbmaYeGKL._SL200_.jpg' ]
 comments: true
 category: ofertas

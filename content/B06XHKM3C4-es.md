@@ -3,6 +3,7 @@ layout: post
 title: 'Luanvi Olimpia Chaqueta de Chándal  Homb al 40.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FUu2VATjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FUu2VATjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FUu2VATjL._SL200_.jpg' ]
 comments: true
 category: ofertas

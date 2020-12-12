@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.45 % en Tommy Hilfiger Straight Denton Chino Gmd'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31M3kYd9B%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31M3kYd9B%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31M3kYd9B%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

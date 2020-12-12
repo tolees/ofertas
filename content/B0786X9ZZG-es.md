@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.52 % en Adidas Campus  Zapatillas de Deporte par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3vE1YepL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3vE1YepL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q3vE1YepL._SL200_.jpg' ]
 comments: true
 category: ofertas

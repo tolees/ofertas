@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.07 % en Lacoste Rey Sport 119 2 Cfa  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vTe82PhqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vTe82PhqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vTe82PhqL._SL200_.jpg' ]
 comments: true
 category: ofertas

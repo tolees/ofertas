@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 96.14 % en Ogquaton Premium Popular Plástico Artifi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bgUJ7RpKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bgUJ7RpKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bgUJ7RpKL._SL200_.jpg' ]
 comments: true
 category: ofertas

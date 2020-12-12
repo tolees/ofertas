@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.87 % en Reloj MASERATI - Hombre R8873618001'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510BbqI1DZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510BbqI1DZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510BbqI1DZL._SL200_.jpg' ]
 comments: true
 category: ofertas

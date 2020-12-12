@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch 0.603.973.302 Atornillador  Taladr al 33.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UJlf%2BhQGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UJlf%2BhQGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UJlf%2BhQGL._SL200_.jpg' ]
 comments: true
 category: ofertas

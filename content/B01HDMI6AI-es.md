@@ -3,6 +3,7 @@ layout: post
 title: 'POLO CLUB Camisa Hombre Gentle Taylor Az al 82.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EG9lg1qtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EG9lg1qtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EG9lg1qtL._SL200_.jpg' ]
 comments: true
 category: ofertas

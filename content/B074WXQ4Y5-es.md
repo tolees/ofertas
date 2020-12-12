@@ -3,6 +3,7 @@ layout: post
 title: 'Hem & Seam Pantalón de Traje Ajustado Ho al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mXz2Hb8XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mXz2Hb8XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mXz2Hb8XL._SL200_.jpg' ]
 comments: true
 category: ofertas

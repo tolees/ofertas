@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.98 % en Tuscany Silver Cadena con Colgante de Pl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ybfoUgYuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ybfoUgYuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ybfoUgYuL._SL200_.jpg' ]
 comments: true
 category: ofertas

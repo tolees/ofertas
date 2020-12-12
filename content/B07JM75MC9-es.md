@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Sprint Trekker Mid  Botas Chu al 33.18 % de descuento'
 date: 2020-12-11 21:50:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31h62DF15lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31h62DF15lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31h62DF15lL._SL200_.jpg' ]
 comments: true
 category: ofertas

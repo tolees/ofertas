@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Eqt Support Adv  Zapatillas para  al 55.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XRV7KU5JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XRV7KU5JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XRV7KU5JL._SL200_.jpg' ]
 comments: true
 category: ofertas

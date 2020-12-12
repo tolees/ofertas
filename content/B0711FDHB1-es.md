@@ -3,6 +3,7 @@ layout: post
 title: 'NIVEA MEN Black & White Invisible Active al 31.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mJZvflbmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mJZvflbmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mJZvflbmL._SL200_.jpg' ]
 comments: true
 category: ofertas

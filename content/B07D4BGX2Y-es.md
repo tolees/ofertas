@@ -3,6 +3,7 @@ layout: post
 title: 'Yizhet Chaleco Reflectante  Chaleco de S al 39.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D7zysCS3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D7zysCS3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D7zysCS3L._SL200_.jpg' ]
 comments: true
 category: ofertas

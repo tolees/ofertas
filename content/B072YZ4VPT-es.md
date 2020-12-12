@@ -3,6 +3,7 @@ layout: post
 title: 'Marvel- Funko Pop Thor: Ragnarok Figura  al 33.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qm%2BRyQkfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qm%2BRyQkfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qm%2BRyQkfL._SL200_.jpg' ]
 comments: true
 category: ofertas

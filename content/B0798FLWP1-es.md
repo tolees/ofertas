@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Strett Slip On  Zapatillas si al 65.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aSBns-NkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aSBns-NkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aSBns-NkL._SL200_.jpg' ]
 comments: true
 category: ofertas

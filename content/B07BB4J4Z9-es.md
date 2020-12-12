@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en The North Face T93L6M Camiseta De Manga '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PkX%2BnvYiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PkX%2BnvYiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PkX%2BnvYiL._SL200_.jpg' ]
 comments: true
 category: ofertas

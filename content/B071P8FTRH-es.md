@@ -3,6 +3,7 @@ layout: post
 title: 'Aigostar Mint 31JHJ – Centro de planchad al 33.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cnuy3NnfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cnuy3NnfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cnuy3NnfL._SL200_.jpg' ]
 comments: true
 category: ofertas

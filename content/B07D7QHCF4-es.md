@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.08 % en Guess M83i21j1300 Camiseta de Manga Larg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Q9fhYFuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419Q9fhYFuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Q9fhYFuL._SL200_.jpg' ]
 comments: true
 category: ofertas

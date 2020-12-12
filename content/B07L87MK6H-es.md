@@ -3,6 +3,7 @@ layout: post
 title: 'UMIDIGI One Pro - Smartphone Libre  5 9  al 26.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BQQn4DnPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BQQn4DnPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BQQn4DnPL._SL200_.jpg' ]
 comments: true
 category: ofertas

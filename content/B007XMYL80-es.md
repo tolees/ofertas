@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.90 % en Havaianas Brasil Logo  Chanclas Al Dedo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413TKU04TmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413TKU04TmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413TKU04TmL._SL200_.jpg' ]
 comments: true
 category: ofertas

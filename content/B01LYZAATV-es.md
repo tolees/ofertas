@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 106EO1E003 - Regular F al 79.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bO-Iw-eUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bO-Iw-eUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bO-Iw-eUL._SL200_.jpg' ]
 comments: true
 category: ofertas

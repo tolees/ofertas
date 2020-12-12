@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Cresticle Gorra  Hombre  Azul  Mi al 70.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51l6p3GUMJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51l6p3GUMJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51l6p3GUMJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.66 % en PUTUO Hombre Calcetines de Deporte  Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YXMhgsUoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YXMhgsUoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YXMhgsUoL._SL200_.jpg' ]
 comments: true
 category: ofertas

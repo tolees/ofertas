@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.32 % en Taurus BAPI 800 Plus INOX Batidora con p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kogNizyeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kogNizyeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kogNizyeL._SL200_.jpg' ]
 comments: true
 category: ofertas

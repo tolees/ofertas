@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.44 % en L Óreal Mythic Oil Mascarilla Cabello No'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w4KyoyLkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w4KyoyLkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w4KyoyLkL._SL200_.jpg' ]
 comments: true
 category: ofertas

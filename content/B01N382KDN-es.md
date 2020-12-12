@@ -3,6 +3,7 @@ layout: post
 title: 'Abanderado Termal Termaltech Boxer  Blan al 57.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NGBia9umL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NGBia9umL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NGBia9umL._SL200_.jpg' ]
 comments: true
 category: ofertas

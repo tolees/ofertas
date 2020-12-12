@@ -3,6 +3,7 @@ layout: post
 title: 'find. Sudadera con Mensaje Mujer  Rosa   al 60.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lPlT4tHtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lPlT4tHtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lPlT4tHtL._SL200_.jpg' ]
 comments: true
 category: ofertas

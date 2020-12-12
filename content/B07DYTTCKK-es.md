@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia 1562212_S Conjunto de Nieve con al 52.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k2e4Hh77L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k2e4Hh77L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k2e4Hh77L._SL200_.jpg' ]
 comments: true
 category: ofertas

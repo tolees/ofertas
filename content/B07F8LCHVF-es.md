@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.86 % en IntimaTe WM Heart Silla Escritorio  Sill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uDNliYHgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uDNliYHgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uDNliYHgL._SL200_.jpg' ]
 comments: true
 category: ofertas

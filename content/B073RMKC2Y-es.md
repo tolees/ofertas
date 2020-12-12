@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.71 % en Reebok Princess EB  Zapatillas de Deport'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h5vI%2B%2BhFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h5vI%2B%2BhFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h5vI%2B%2BhFL._SL200_.jpg' ]
 comments: true
 category: ofertas

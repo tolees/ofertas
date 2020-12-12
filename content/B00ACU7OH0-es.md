@@ -3,6 +3,7 @@ layout: post
 title: 'LogiLink AU0029 - Adaptador USB 2.0  Mic al 41.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21zy36gEkPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21zy36gEkPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21zy36gEkPL._SL200_.jpg' ]
 comments: true
 category: ofertas

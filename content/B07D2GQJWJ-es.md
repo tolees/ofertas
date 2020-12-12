@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.13 % en Loovara 2en1 masaje y Gel lubricante  25'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tk%2BCwk3IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tk%2BCwk3IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tk%2BCwk3IL._SL200_.jpg' ]
 comments: true
 category: ofertas

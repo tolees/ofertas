@@ -3,6 +3,7 @@ layout: post
 title: 'AmazonBasics - Limpiacristales para coch al 40.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Vc-EkrbQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vc-EkrbQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Vc-EkrbQL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Filmore Decon  Zapatillas para Muje al 31.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318V8Yn8fQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318V8Yn8fQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318V8Yn8fQL._SL200_.jpg' ]
 comments: true
 category: ofertas

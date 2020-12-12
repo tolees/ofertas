@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Rider Short Pantalones Cortos  Marfi al 61.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EFaN9UHgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EFaN9UHgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EFaN9UHgL._SL200_.jpg' ]
 comments: true
 category: ofertas

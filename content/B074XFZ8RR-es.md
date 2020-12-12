@@ -3,6 +3,7 @@ layout: post
 title: 'HUGO Geid_sz35 Cinturón  Marrón  Dark Br al 57.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tauzHU1VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tauzHU1VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tauzHU1VL._SL200_.jpg' ]
 comments: true
 category: ofertas

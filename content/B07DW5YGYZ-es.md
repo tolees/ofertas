@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.28 % en Hummel Hml Audrey Top  Unisex niños  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3198szAjTEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3198szAjTEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3198szAjTEL._SL200_.jpg' ]
 comments: true
 category: ofertas

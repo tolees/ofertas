@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.38 % en Skechers Go Walk Joy-Hero  Zapatillas pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NuA6AWOuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NuA6AWOuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NuA6AWOuL._SL200_.jpg' ]
 comments: true
 category: ofertas

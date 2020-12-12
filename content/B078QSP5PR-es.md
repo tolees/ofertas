@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Arctic Swirl - Chaqueta d al 48.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JljdL0xSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JljdL0xSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JljdL0xSL._SL200_.jpg' ]
 comments: true
 category: ofertas

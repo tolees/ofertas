@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 85961  Shopper para Mujer  Rosa  Nud al 52.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dvYABDsLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dvYABDsLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dvYABDsLL._SL200_.jpg' ]
 comments: true
 category: ofertas

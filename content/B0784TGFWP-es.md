@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Pwrshape Forever-Logo  Sujetador De al 41.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3159Y9Mq1WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3159Y9Mq1WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3159Y9Mq1WL._SL200_.jpg' ]
 comments: true
 category: ofertas

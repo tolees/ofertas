@@ -3,6 +3,7 @@ layout: post
 title: 'AiHom 7 Piezas Gancho de Pared Autoadhes al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317M6rc7WgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317M6rc7WgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317M6rc7WgL._SL200_.jpg' ]
 comments: true
 category: ofertas

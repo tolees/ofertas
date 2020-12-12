@@ -3,6 +3,7 @@ layout: post
 title: 'Racing Gaming Silla de Escritorio Ordena al 45.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417GR7DwG9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417GR7DwG9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417GR7DwG9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.69 % en Reebok Classic Leather Zapatillas  Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f2bs6z8iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f2bs6z8iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f2bs6z8iL._SL200_.jpg' ]
 comments: true
 category: ofertas

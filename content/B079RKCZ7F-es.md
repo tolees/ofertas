@@ -3,6 +3,7 @@ layout: post
 title: 'The Essential One - Bebé Ropa de Cama de al 50.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41odveipJKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41odveipJKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41odveipJKL._SL200_.jpg' ]
 comments: true
 category: ofertas

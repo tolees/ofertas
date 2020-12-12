@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Swiftwater Wave M  Zapatos de Agua al 30.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdltYrS-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdltYrS-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZdltYrS-L._SL200_.jpg' ]
 comments: true
 category: ofertas

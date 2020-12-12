@@ -3,6 +3,7 @@ layout: post
 title: 'Sony Micro Vault R-Series - Memoria USB  al 79.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cS5DJ1MAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cS5DJ1MAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cS5DJ1MAL._SL200_.jpg' ]
 comments: true
 category: ofertas

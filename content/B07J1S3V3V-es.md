@@ -3,6 +3,7 @@ layout: post
 title: 'Uller Gravity Black Blizzard Mascaras de al 50.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bM5tWGh2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bM5tWGh2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bM5tWGh2L._SL200_.jpg' ]
 comments: true
 category: ofertas

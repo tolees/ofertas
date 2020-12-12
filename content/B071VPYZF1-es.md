@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.99 % en JACK & JONES VINTAGE Jjvcunion Knit Crew'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41shDzDceLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41shDzDceLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41shDzDceLL._SL200_.jpg' ]
 comments: true
 category: ofertas

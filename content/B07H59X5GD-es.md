@@ -3,6 +3,7 @@ layout: post
 title: 'iPosible Funda Batería para iPhone 6/6S/ al 73.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hJuTeLPWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hJuTeLPWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hJuTeLPWL._SL200_.jpg' ]
 comments: true
 category: ofertas

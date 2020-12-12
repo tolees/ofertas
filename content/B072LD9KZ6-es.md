@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.29 % en Neosens S062 Restored Skin  Botines para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dmLkkFlFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dmLkkFlFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dmLkkFlFL._SL200_.jpg' ]
 comments: true
 category: ofertas

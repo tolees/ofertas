@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Joreris Hood STS Capucha  A al 70.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SQ3YXFfZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SQ3YXFfZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SQ3YXFfZL._SL200_.jpg' ]
 comments: true
 category: ofertas

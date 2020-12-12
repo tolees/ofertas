@@ -3,6 +3,7 @@ layout: post
 title: 'Bugatti 411333304100  Botas para Mujer   al 73.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lWNtFyQBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lWNtFyQBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lWNtFyQBL._SL200_.jpg' ]
 comments: true
 category: ofertas

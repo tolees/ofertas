@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.21 % en adidas Yung-96  Zapatillas de Gimnasia p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kH4ZiRRhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kH4ZiRRhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kH4ZiRRhL._SL200_.jpg' ]
 comments: true
 category: ofertas

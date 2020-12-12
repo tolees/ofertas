@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 490 C/Block Gg12 Jersey   Ga al 61.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ie2vZl1zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ie2vZl1zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ie2vZl1zL._SL200_.jpg' ]
 comments: true
 category: ofertas

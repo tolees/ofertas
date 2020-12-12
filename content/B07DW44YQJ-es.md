@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.52 % en DC Shoes Net  Zapatillas de Skateboard p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uo-%2BApp6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uo-%2BApp6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uo-%2BApp6L._SL200_.jpg' ]
 comments: true
 category: ofertas

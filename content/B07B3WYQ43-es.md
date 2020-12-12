@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiglenn Jjoriginal NZ 005  al 61.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T8u2Z-VqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T8u2Z-VqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T8u2Z-VqL._SL200_.jpg' ]
 comments: true
 category: ofertas

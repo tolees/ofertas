@@ -3,6 +3,7 @@ layout: post
 title: 'Morgan 191-msisa.n Camiseta de Manga Lar al 34.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OiKkIWWiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OiKkIWWiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OiKkIWWiL._SL200_.jpg' ]
 comments: true
 category: ofertas

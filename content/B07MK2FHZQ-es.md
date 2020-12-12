@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.62 % en G-STAR RAW 3301 Deconstructed Skinny Vaq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-mTuLCf0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-mTuLCf0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-mTuLCf0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.10 % en BOSS Trunk 3P CO/EL Bóxer   Open Miscell'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-448c5jVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-448c5jVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-448c5jVL._SL200_.jpg' ]
 comments: true
 category: ofertas

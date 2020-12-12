@@ -3,6 +3,7 @@ layout: post
 title: 'VonHaus Radiador de Aceite 2000 W – 3 Aj al 99.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LwxuC7v2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LwxuC7v2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LwxuC7v2L._SL200_.jpg' ]
 comments: true
 category: ofertas

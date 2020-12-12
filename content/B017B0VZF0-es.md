@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Underwear Shorty  lencerí al 54.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4191tq%2BByTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4191tq%2BByTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4191tq%2BByTL._SL200_.jpg' ]
 comments: true
 category: ofertas

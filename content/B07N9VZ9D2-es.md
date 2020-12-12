@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.04 % en Diesel S-nori Shirt Camisa  Azul  Peacoa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e58wtOvbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51e58wtOvbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e58wtOvbL._SL200_.jpg' ]
 comments: true
 category: ofertas

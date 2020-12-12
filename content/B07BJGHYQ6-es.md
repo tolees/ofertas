@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Otw Pullover Fleece Capucha  Azul   al 67.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ukCKCe%2BNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ukCKCe%2BNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ukCKCe%2BNL._SL200_.jpg' ]
 comments: true
 category: ofertas

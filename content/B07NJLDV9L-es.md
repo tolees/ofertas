@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Lattice Tea 6146329 Mono Corto  al 48.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nveVEgdiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nveVEgdiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nveVEgdiL._SL200_.jpg' ]
 comments: true
 category: ofertas

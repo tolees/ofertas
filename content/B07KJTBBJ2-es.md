@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.12 % en Quiksilver Everyday Top  Hombre  Medieva'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416NXUjFJIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416NXUjFJIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416NXUjFJIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.29 % en Crocs Classic Slipper U  Zapatillas de E'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CeOcP5zlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CeOcP5zlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CeOcP5zlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Miniland Pack-2-Go Hermifresh - Hermétic al 49.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p4UAx8INL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p4UAx8INL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p4UAx8INL._SL200_.jpg' ]
 comments: true
 category: ofertas

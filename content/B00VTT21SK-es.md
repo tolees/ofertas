@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.89 % en ISABELLA ROMA Canotta  Top para Mujer  C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kpCgJs4rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kpCgJs4rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kpCgJs4rL._SL200_.jpg' ]
 comments: true
 category: ofertas

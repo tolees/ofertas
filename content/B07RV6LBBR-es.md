@@ -3,6 +3,7 @@ layout: post
 title: 'Axe - Pack de 6 desodorantes para hombre al 59.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-Z-XyykBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-Z-XyykBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-Z-XyykBL._SL200_.jpg' ]
 comments: true
 category: ofertas

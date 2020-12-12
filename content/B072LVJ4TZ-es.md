@@ -3,6 +3,7 @@ layout: post
 title: 'Cosatto Supa Dupa Sis y Bro 5 doble coch al 47.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZLHoc0gNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZLHoc0gNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZLHoc0gNL._SL200_.jpg' ]
 comments: true
 category: ofertas

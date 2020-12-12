@@ -3,6 +3,7 @@ layout: post
 title: 'Bahco 361-18 Llave Tubo Stillson 18  45. al 60.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4116FCth7NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4116FCth7NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4116FCth7NL._SL200_.jpg' ]
 comments: true
 category: ofertas

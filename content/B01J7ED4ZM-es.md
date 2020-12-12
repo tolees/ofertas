@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.88 % en Rieker M1354  Mocasines para Mujer  Dora'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yC-%2Bv0f4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yC-%2Bv0f4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yC-%2Bv0f4L._SL200_.jpg' ]
 comments: true
 category: ofertas

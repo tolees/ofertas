@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.37 % en Tommy Hilfiger Shiny Camo Rain Boot  Bot'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d-qzoPUsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d-qzoPUsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d-qzoPUsL._SL200_.jpg' ]
 comments: true
 category: ofertas

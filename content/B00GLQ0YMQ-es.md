@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.99 % en Genius SW HF5.1 4800 Conjunto de Altavoc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3T0zojaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3T0zojaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q3T0zojaL._SL200_.jpg' ]
 comments: true
 category: ofertas

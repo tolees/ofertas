@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Apollo  Zapatillas Unisex Adulto   al 43.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ixwara2zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ixwara2zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ixwara2zL._SL200_.jpg' ]
 comments: true
 category: ofertas

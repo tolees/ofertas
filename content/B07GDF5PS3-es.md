@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.91 % en HOMIEE Tensiómetros de Muñeca  Detección'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510Ea6NHH2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510Ea6NHH2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510Ea6NHH2L._SL200_.jpg' ]
 comments: true
 category: ofertas

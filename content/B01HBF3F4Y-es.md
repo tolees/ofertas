@@ -3,6 +3,7 @@ layout: post
 title: 'AUKEY Mini Powerbank 5000mAh  Bateria Ex al 27.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lfwumyMWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lfwumyMWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lfwumyMWL._SL200_.jpg' ]
 comments: true
 category: ofertas

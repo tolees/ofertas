@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.91 % en Salomon Speedcross 4  Zapatillas de Trai'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nT64LeBtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nT64LeBtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nT64LeBtL._SL200_.jpg' ]
 comments: true
 category: ofertas

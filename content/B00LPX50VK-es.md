@@ -3,6 +3,7 @@ layout: post
 title: 'Ogio Lifestyle 2015 Outlaw 15 Orange Moc al 58.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E8cYaxwhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E8cYaxwhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E8cYaxwhL._SL200_.jpg' ]
 comments: true
 category: ofertas

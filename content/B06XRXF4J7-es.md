@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 067ee1k035 Camiseta   Red 630   S al 59.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j73DI2wmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51j73DI2wmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j73DI2wmL._SL200_.jpg' ]
 comments: true
 category: ofertas

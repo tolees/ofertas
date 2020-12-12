@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.78 % en Kempa Core - Camiseta para Mujer Azul Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413UGMYUDWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413UGMYUDWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413UGMYUDWL._SL200_.jpg' ]
 comments: true
 category: ofertas

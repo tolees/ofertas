@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.53 % en JACK & JONES Jfwabbott PU  Botas Chelsea'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-oEeJjfqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-oEeJjfqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-oEeJjfqL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Vs Advantage  Zapatillas de Depor al 39.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418CUaEX1kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418CUaEX1kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418CUaEX1kL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.33 % en Revell- R.M.S. Titanic Escala 1/1200-Rev'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ntobDZCYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ntobDZCYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ntobDZCYL._SL200_.jpg' ]
 comments: true
 category: ofertas

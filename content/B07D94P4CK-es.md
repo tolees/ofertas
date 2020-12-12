@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.68 % en Marco Tozzi Cool Club 46204-21  Botas de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v8ng2tu0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v8ng2tu0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v8ng2tu0L._SL200_.jpg' ]
 comments: true
 category: ofertas

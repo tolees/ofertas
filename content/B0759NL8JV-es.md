@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Komuter Walk  Zapatos de Cordones al 47.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41atSh4tEyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41atSh4tEyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41atSh4tEyL._SL200_.jpg' ]
 comments: true
 category: ofertas

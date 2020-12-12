@@ -3,6 +3,7 @@ layout: post
 title: 'Cargador para Pilas Recargables con Pant al 59.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51L7bbPPrlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51L7bbPPrlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51L7bbPPrlL._SL200_.jpg' ]
 comments: true
 category: ofertas

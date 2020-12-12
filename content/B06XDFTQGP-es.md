@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.03 % en Garnier Skin Active - Pure Active Sensit'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413zE-UWRdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413zE-UWRdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413zE-UWRdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.19 % en Magic Wand Massager  Silicona Masajeador'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qgSNZ2qLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qgSNZ2qLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qgSNZ2qLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Bluetooth Inalámbricos 5.0   al 42.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RFWD6%2BwsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RFWD6%2BwsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RFWD6%2BwsL._SL200_.jpg' ]
 comments: true
 category: ofertas

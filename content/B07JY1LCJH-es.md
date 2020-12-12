@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcotour Shirt LS Worker Cam al 69.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41550i4kcML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41550i4kcML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41550i4kcML._SL200_.jpg' ]
 comments: true
 category: ofertas

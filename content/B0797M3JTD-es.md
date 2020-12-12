@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Speed 600 Ignite 3  Zapatillas de E al 61.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tgPGVFfrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tgPGVFfrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tgPGVFfrL._SL200_.jpg' ]
 comments: true
 category: ofertas

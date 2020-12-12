@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Plus Size 311 Pl Shaping Skinny V al 60.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XNpI4g4OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XNpI4g4OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XNpI4g4OL._SL200_.jpg' ]
 comments: true
 category: ofertas

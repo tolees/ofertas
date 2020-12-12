@@ -3,6 +3,7 @@ layout: post
 title: 'ALLPOWERS 2 Piezas 2.5W 5V/500mAh Mini E al 35.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qv%2BuFn6JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Qv%2BuFn6JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Qv%2BuFn6JL._SL200_.jpg' ]
 comments: true
 category: ofertas

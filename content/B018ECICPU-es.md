@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.29 % en Jacques Lemans Reloj Analógico para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-8njv6sJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-8njv6sJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-8njv6sJL._SL200_.jpg' ]
 comments: true
 category: ofertas

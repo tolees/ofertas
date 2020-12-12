@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Women  s Saturday Trail Pantalo al 40.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T4YwJQNVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T4YwJQNVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T4YwJQNVL._SL200_.jpg' ]
 comments: true
 category: ofertas

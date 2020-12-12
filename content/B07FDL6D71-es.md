@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.18 % en Superdry Orange Label Vntge Emb S/S tee '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hHqtPKCrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hHqtPKCrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hHqtPKCrL._SL200_.jpg' ]
 comments: true
 category: ofertas

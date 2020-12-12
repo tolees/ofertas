@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Sweatshirts Sudadera  Verd al 70.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412fczusWIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412fczusWIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412fczusWIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.30 % en Nike Air Vapor Adavantage Carpet  Zapati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iW-FBF1PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iW-FBF1PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iW-FBF1PL._SL200_.jpg' ]
 comments: true
 category: ofertas

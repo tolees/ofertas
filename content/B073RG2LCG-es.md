@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.99 % en adidas Aerobounce St W  Zapatillas de Ru'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51foUmz0LTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51foUmz0LTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51foUmz0LTL._SL200_.jpg' ]
 comments: true
 category: ofertas

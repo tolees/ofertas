@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.41 % en Leotec LESW11K Smartwatch  Negro'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

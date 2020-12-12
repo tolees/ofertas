@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.01 % en Only Onlrelax Dnm Jeans Rim13350 Vaquero'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xcC7iUAAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xcC7iUAAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xcC7iUAAL._SL200_.jpg' ]
 comments: true
 category: ofertas

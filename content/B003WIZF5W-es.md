@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Kids Lifestyle Quarters 3P - Calcet al 25.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u2%2BNembBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u2%2BNembBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u2%2BNembBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.32 % en Sony SF32M - Tarjeta de memoria SD de 32'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zBuPUy2tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zBuPUy2tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zBuPUy2tL._SL200_.jpg' ]
 comments: true
 category: ofertas

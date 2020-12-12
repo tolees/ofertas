@@ -3,6 +3,7 @@ layout: post
 title: 'Todeco - Barra de Barbilla  Barra de Tra al 28.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EbjgaYxSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EbjgaYxSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EbjgaYxSL._SL200_.jpg' ]
 comments: true
 category: ofertas

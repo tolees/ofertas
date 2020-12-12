@@ -3,6 +3,7 @@ layout: post
 title: 'HUGO Durned-u5 Sudadera  Rosa  Light/Pas al 33.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n49-FRpsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31n49-FRpsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n49-FRpsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjejeans Sweat Hood Noos  C al 36.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SQe4aU%2BML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SQe4aU%2BML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SQe4aU%2BML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Y Box S/S tee Camiseta  N al 33.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lvpDO1vrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lvpDO1vrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lvpDO1vrL._SL200_.jpg' ]
 comments: true
 category: ofertas

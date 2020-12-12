@@ -3,6 +3,7 @@ layout: post
 title: 'Maquina Cortar Pelo Afeitadora Corporal  al 57.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fchxSSpFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fchxSSpFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fchxSSpFL._SL200_.jpg' ]
 comments: true
 category: ofertas

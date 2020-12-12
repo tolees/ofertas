@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.15 % en Onforu 18W LED Lámpara de Techo  CRI 90 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xE1hSFA3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xE1hSFA3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xE1hSFA3L._SL200_.jpg' ]
 comments: true
 category: ofertas

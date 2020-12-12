@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers 35XE205 - Botas de Combate de Cu al 70.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pf%2Bh97YqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pf%2Bh97YqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pf%2Bh97YqL._SL200_.jpg' ]
 comments: true
 category: ofertas

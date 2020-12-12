@@ -3,6 +3,7 @@ layout: post
 title: 'Victoria Inglesa Lona 6613  Zapatillas d al 66.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B0z-ZfVIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B0z-ZfVIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B0z-ZfVIL._SL200_.jpg' ]
 comments: true
 category: ofertas

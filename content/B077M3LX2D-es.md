@@ -3,6 +3,7 @@ layout: post
 title: 'Curren hombres reloj de cuarzo analógico al 65.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SBbh72PUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SBbh72PUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SBbh72PUL._SL200_.jpg' ]
 comments: true
 category: ofertas

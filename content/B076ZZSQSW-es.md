@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Cadulor R T S/s Camiseta   Gr al 43.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pJ1%2BmBtwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pJ1%2BmBtwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pJ1%2BmBtwL._SL200_.jpg' ]
 comments: true
 category: ofertas

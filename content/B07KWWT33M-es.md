@@ -3,6 +3,7 @@ layout: post
 title: 'Victure Reproductor MP3 Bluetooth 4.1 16 al 28.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EYbKEEKdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EYbKEEKdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EYbKEEKdL._SL200_.jpg' ]
 comments: true
 category: ofertas

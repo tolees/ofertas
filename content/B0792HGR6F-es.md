@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.34 % en Geox D Asheely B  Botas Estilo Motero pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oLQhTBbML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oLQhTBbML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oLQhTBbML._SL200_.jpg' ]
 comments: true
 category: ofertas

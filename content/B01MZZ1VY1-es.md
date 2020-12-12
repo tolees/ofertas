@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.63 % en ELEGOO Pantalla Táctil TFT LCD 480x320 d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iDkcvhDUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iDkcvhDUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iDkcvhDUL._SL200_.jpg' ]
 comments: true
 category: ofertas

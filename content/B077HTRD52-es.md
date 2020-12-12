@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.17 % en Real Madrid 5382362 RM GOL Mochila Tipo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k9xkWWjGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k9xkWWjGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k9xkWWjGL._SL200_.jpg' ]
 comments: true
 category: ofertas

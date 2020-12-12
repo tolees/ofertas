@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face M C Camiseta de Cuello Re al 38.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U7blX4jbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U7blX4jbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U7blX4jbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.20 % en JOOMFEEN USB Tipo C Cargador de Coche Qu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YlrGU3iQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YlrGU3iQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YlrGU3iQL._SL200_.jpg' ]
 comments: true
 category: ofertas

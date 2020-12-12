@@ -3,6 +3,7 @@ layout: post
 title: 'Matrix 60933 - Mascarilla capilar  150 m al 51.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HNlEQUhaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HNlEQUhaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HNlEQUhaL._SL200_.jpg' ]
 comments: true
 category: ofertas

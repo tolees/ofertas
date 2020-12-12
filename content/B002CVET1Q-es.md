@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.78 % en Festina Reloj de Pulsera FP1002.07'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L72IeUf6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31L72IeUf6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L72IeUf6L._SL200_.jpg' ]
 comments: true
 category: ofertas

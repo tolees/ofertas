@@ -3,6 +3,7 @@ layout: post
 title: 'Kelme Precision  Botas de fútbol para Ho al 47.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412qPMt65ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412qPMt65ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412qPMt65ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

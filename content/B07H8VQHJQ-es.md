@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.60 % en CUBOT P20 Smartphone 4G Móviles Libres A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NdhQBJ6AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NdhQBJ6AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NdhQBJ6AL._SL200_.jpg' ]
 comments: true
 category: ofertas

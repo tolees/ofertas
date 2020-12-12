@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.25 % en Cortefiel Americana Lino en Tailored Fit'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41657f6l-YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41657f6l-YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41657f6l-YL._SL200_.jpg' ]
 comments: true
 category: ofertas

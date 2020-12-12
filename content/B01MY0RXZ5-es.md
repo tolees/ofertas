@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.08 % en Camomila Intea Champú 250 ml y champú re'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X1NY6mxLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X1NY6mxLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X1NY6mxLL._SL200_.jpg' ]
 comments: true
 category: ofertas

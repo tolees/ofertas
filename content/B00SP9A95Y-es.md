@@ -3,6 +3,7 @@ layout: post
 title: 'Corona SV 2-TH - Pala cuadrada mango mul al 55.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MNiKy%2BN-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MNiKy%2BN-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MNiKy%2BN-L._SL200_.jpg' ]
 comments: true
 category: ofertas

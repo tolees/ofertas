@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.97 % en YuamMei 1 par  2 Piezas  Guantes de micr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Oah0YSYeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Oah0YSYeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Oah0YSYeL._SL200_.jpg' ]
 comments: true
 category: ofertas

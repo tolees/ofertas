@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas 107385 Vestido  Marrón  al 55.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y6W6bvxgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y6W6bvxgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y6W6bvxgL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.50 % en Delaviuda  Turrón - 3 de 270 gr.  Total '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41go3-wdvTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41go3-wdvTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41go3-wdvTL._SL200_.jpg' ]
 comments: true
 category: ofertas

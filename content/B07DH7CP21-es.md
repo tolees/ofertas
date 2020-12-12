@@ -3,6 +3,7 @@ layout: post
 title: 'Nero Giardini Camo Colorado Asfalt  Moca al 48.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AIer2BJmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AIer2BJmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AIer2BJmL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Dohiker Mochila para niños Anti-perdido  al 34.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wzwDiX4WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wzwDiX4WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wzwDiX4WL._SL200_.jpg' ]
 comments: true
 category: ofertas

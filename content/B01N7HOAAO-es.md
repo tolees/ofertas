@@ -3,6 +3,7 @@ layout: post
 title: 'Skean Breathe-Easy  Mary Jane para Niñas al 64.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412-0bsQo2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412-0bsQo2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412-0bsQo2L._SL200_.jpg' ]
 comments: true
 category: ofertas

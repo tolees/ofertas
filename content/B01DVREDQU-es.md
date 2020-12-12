@@ -3,6 +3,7 @@ layout: post
 title: 'Sway Vibes Dispositivo de Masaje Terapéu al 86.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BzmodjDVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BzmodjDVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BzmodjDVL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 2.T.Ap.Pv19.Flor Print Camis al 57.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51clv62oYjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51clv62oYjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51clv62oYjL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling - New Shopper S  Bolsos totes Mu al 52.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uknO-o48L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uknO-o48L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uknO-o48L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorantwon Sweat Hood  Capuc al 63.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DFuiUOpSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DFuiUOpSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DFuiUOpSL._SL200_.jpg' ]
 comments: true
 category: ofertas

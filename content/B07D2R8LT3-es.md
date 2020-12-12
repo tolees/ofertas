@@ -3,6 +3,7 @@ layout: post
 title: 'Gant Lambswool Crew Top  Tank Mujer  Azu al 47.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fJs32nH8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fJs32nH8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fJs32nH8L._SL200_.jpg' ]
 comments: true
 category: ofertas

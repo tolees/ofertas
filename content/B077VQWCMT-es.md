@@ -3,6 +3,7 @@ layout: post
 title: 'adidas VL Court 2.0  Zapatillas de Skate al 51.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419DpusBINL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419DpusBINL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419DpusBINL._SL200_.jpg' ]
 comments: true
 category: ofertas

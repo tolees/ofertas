@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Tanya Camiseta de Manga Larga  Niño al 73.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kd18OOBpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kd18OOBpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kd18OOBpL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.77 % en Golden Organic Gelatina Vegetal Ecológic'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sto6XjONL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Sto6XjONL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sto6XjONL._SL200_.jpg' ]
 comments: true
 category: ofertas

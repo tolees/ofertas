@@ -3,6 +3,7 @@ layout: post
 title: 'bugatti 311420103500  Zapatos de Cordone al 65.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312KcC5vTdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312KcC5vTdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312KcC5vTdL._SL200_.jpg' ]
 comments: true
 category: ofertas

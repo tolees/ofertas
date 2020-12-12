@@ -3,6 +3,7 @@ layout: post
 title: 'Mr.Wonderful WOA03620 Set de 2 Llaveros  al 38.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410rr7UDr2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410rr7UDr2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410rr7UDr2L._SL200_.jpg' ]
 comments: true
 category: ofertas

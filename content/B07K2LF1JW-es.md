@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Superstar  Zapatillas de Gimnasia al 43.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RWjQWaJvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RWjQWaJvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RWjQWaJvL._SL200_.jpg' ]
 comments: true
 category: ofertas

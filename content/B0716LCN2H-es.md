@@ -3,6 +3,7 @@ layout: post
 title: 'Disney Juego de 2 botellas de agua Micke al 49.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41odGz3PSyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41odGz3PSyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41odGz3PSyL._SL200_.jpg' ]
 comments: true
 category: ofertas

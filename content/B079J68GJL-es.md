@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.08 % en Asics Patriot 10  Zapatillas de Running '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K9HU1tChL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K9HU1tChL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K9HU1tChL._SL200_.jpg' ]
 comments: true
 category: ofertas

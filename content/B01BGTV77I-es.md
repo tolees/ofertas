@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.42 % en G Star Midge Saddle Mid Straight Wmn  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AKNyzgCwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AKNyzgCwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AKNyzgCwL._SL200_.jpg' ]
 comments: true
 category: ofertas

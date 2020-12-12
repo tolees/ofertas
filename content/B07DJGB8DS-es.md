@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.62 % en Dockers by Gerli 42mo006  Zapatillas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MAQzZE%2BBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MAQzZE%2BBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MAQzZE%2BBL._SL200_.jpg' ]
 comments: true
 category: ofertas

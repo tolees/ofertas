@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.28 % en Flair Original Paper Mate - Juego de rot'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gkmhJLVYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gkmhJLVYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gkmhJLVYL._SL200_.jpg' ]
 comments: true
 category: ofertas

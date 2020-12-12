@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.18 % en Remington PG6070 Vacuum 5 en 1 - Cortape'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41imS7zyoIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41imS7zyoIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41imS7zyoIL._SL200_.jpg' ]
 comments: true
 category: ofertas

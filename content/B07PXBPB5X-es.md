@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.08 % en Charles Wilson Paquete 4 Camisetas Cuell'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y3FcA7KvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31y3FcA7KvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y3FcA7KvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Bolso Bandolera  Coofit Bolsos Mujer y H al 41.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-FeYdPqKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-FeYdPqKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-FeYdPqKL._SL200_.jpg' ]
 comments: true
 category: ofertas

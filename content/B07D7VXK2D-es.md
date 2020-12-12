@@ -3,6 +3,7 @@ layout: post
 title: 'THE G-LAB - KEYZ-Iridium - Teclado Gamin al 40.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mr3GwwD3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mr3GwwD3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mr3GwwD3L._SL200_.jpg' ]
 comments: true
 category: ofertas

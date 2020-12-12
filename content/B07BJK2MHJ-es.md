@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.22 % en HyperX FURY - Módulo de memoria  16 GB  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zSPopFsRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zSPopFsRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zSPopFsRL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.35 % en JVC GZ-R435 - Videocámara de memoria  pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516i3MNiyAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516i3MNiyAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516i3MNiyAL._SL200_.jpg' ]
 comments: true
 category: ofertas

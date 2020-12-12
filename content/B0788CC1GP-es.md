@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.64 % en Crocs Crocband LodgePoint Boot  Botas de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yC9KLjBaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yC9KLjBaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yC9KLjBaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.47 % en Mannesmann - M12862 - Fresadora de ranur'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41saR65ZxTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41saR65ZxTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41saR65ZxTL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Revlon  Accesorio de coloración - 250 ml al 61.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MPI9eX9SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MPI9eX9SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MPI9eX9SL._SL200_.jpg' ]
 comments: true
 category: ofertas

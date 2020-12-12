@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Jr Federico M  Zapatos de Cordones  al 30.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ttp4pYvvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ttp4pYvvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ttp4pYvvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s - The L Pack Full Side Logo  Homb al 59.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X9eNw9XIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31X9eNw9XIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X9eNw9XIL._SL200_.jpg' ]
 comments: true
 category: ofertas

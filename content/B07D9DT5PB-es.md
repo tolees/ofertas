@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.90 % en XTI 48398  Botines para Mujer  Negro  Bl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ta%2BEUSSML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ta%2BEUSSML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ta%2BEUSSML._SL200_.jpg' ]
 comments: true
 category: ofertas

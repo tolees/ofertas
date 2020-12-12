@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi Premio 2-2-25388-31  Botines al 77.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mvtOzchPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mvtOzchPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mvtOzchPL._SL200_.jpg' ]
 comments: true
 category: ofertas

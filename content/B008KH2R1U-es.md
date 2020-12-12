@@ -3,6 +3,7 @@ layout: post
 title: 'Biotherm Pure-Fect Skin Gel Hidratante - al 25.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-v1%2BoGTzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-v1%2BoGTzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-v1%2BoGTzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Dorothy Perkins Maternity Brushed Wrap D al 54.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ES6jUgQGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ES6jUgQGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ES6jUgQGL._SL200_.jpg' ]
 comments: true
 category: ofertas

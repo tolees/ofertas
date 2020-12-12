@@ -3,6 +3,7 @@ layout: post
 title: 'Tom Tailor 8599903  Botines para Mujer   al 73.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-GhcYxcrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-GhcYxcrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-GhcYxcrL._SL200_.jpg' ]
 comments: true
 category: ofertas

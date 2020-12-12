@@ -3,6 +3,7 @@ layout: post
 title: 'Roswheel 3 in 1 Alforjas Bicicleta Sillí al 34.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4127bW1R6RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4127bW1R6RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4127bW1R6RL._SL200_.jpg' ]
 comments: true
 category: ofertas

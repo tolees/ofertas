@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein 4040 - After shave  125 ml al 56.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21buWo0nEsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21buWo0nEsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21buWo0nEsL._SL200_.jpg' ]
 comments: true
 category: ofertas

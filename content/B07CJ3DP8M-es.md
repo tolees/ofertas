@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.50 % en Only Onldarling L/s Top Jrs  suéter Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A1MTAnU-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A1MTAnU-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A1MTAnU-L._SL200_.jpg' ]
 comments: true
 category: ofertas

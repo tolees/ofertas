@@ -3,6 +3,7 @@ layout: post
 title: 'find. Zapatos Tacón Bajo Mujer  Amarillo al 66.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o8urrGS%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31o8urrGS%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o8urrGS%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

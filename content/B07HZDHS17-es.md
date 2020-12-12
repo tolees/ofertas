@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.55 % en Glamorous Print Dress  Vestido para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PDbMlBAjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PDbMlBAjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PDbMlBAjL._SL200_.jpg' ]
 comments: true
 category: ofertas

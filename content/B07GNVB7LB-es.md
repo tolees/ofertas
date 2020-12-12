@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorflock Sweat Crew Neck  S al 75.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412gk3ipx0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412gk3ipx0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412gk3ipx0L._SL200_.jpg' ]
 comments: true
 category: ofertas

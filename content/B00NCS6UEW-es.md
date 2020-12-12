@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.46 % en Polar Loop 90052236 - Pulsera de activid'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-W4oaQ6hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-W4oaQ6hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-W4oaQ6hL._SL200_.jpg' ]
 comments: true
 category: ofertas

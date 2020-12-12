@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.96 % en Solo Capri Abito A Tubino con Volant Ves'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tuQ9MiTnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tuQ9MiTnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tuQ9MiTnL._SL200_.jpg' ]
 comments: true
 category: ofertas

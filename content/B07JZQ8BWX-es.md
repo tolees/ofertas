@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.25 % en adidas Predator 19.4 Fxg Zapatillas de F'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413zVAWOMqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413zVAWOMqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413zVAWOMqL._SL200_.jpg' ]
 comments: true
 category: ofertas

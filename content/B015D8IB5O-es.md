@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Techfit Base - Camiseta de manga  al 31.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MDhmtZdnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MDhmtZdnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MDhmtZdnL._SL200_.jpg' ]
 comments: true
 category: ofertas

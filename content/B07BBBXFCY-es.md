@@ -3,6 +3,7 @@ layout: post
 title: 'Shining Resonance Refrain - Draconic Lau al 40.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61xJD7cNFGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61xJD7cNFGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61xJD7cNFGL._SL200_.jpg' ]
 comments: true
 category: ofertas

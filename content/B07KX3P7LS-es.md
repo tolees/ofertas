@@ -3,6 +3,7 @@ layout: post
 title: 'Cámara IP WiFi  Hi-tech Cámara de Vigila al 50.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HYmkjdj-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HYmkjdj-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HYmkjdj-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Superstar Cm8073  Zapatillas de D al 43.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oJ905kNqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oJ905kNqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oJ905kNqL._SL200_.jpg' ]
 comments: true
 category: ofertas

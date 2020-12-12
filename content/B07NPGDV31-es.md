@@ -3,6 +3,7 @@ layout: post
 title: 'Scalpers Basic Polo  Rojo  Burgundy 1803 al 30.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tSFcg4TSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tSFcg4TSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tSFcg4TSL._SL200_.jpg' ]
 comments: true
 category: ofertas

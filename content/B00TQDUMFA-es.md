@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.44 % en Nike SX7284 Socks  Unisex Adulto  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QFb5yBISL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QFb5yBISL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QFb5yBISL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en Nike Ebernon Low  Zapatos de Baloncesto '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Q65X05kjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Q65X05kjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Q65X05kjL._SL200_.jpg' ]
 comments: true
 category: ofertas

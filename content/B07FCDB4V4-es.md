@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.42 % en Auriculares Inalámbricos In-Ear  Estuche'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21P3D3ixabL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21P3D3ixabL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21P3D3ixabL._SL200_.jpg' ]
 comments: true
 category: ofertas

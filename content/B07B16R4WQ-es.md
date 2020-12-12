@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.59 % en NESTLÉ Papilla 8 Cereales con Cacao - Al'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2ByOH6nFgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2ByOH6nFgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2ByOH6nFgL._SL200_.jpg' ]
 comments: true
 category: ofertas

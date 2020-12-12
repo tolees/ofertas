@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Free Rn 2018  Zapatillas de Running al 39.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ic5XsySpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ic5XsySpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ic5XsySpL._SL200_.jpg' ]
 comments: true
 category: ofertas

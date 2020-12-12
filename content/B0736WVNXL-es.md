@@ -3,6 +3,7 @@ layout: post
 title: 'VERO MODA Vmtrack Expedition 3/4  Parka  al 47.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41npJwb6w-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41npJwb6w-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41npJwb6w-L._SL200_.jpg' ]
 comments: true
 category: ofertas

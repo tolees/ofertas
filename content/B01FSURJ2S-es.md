@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.90 % en Trespass Nuko Bolsa Nevera  Unisex Adult'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517VaBZKI0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517VaBZKI0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517VaBZKI0L._SL200_.jpg' ]
 comments: true
 category: ofertas

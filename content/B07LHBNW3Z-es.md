@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Reaxion Amp Camiseta de C al 38.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej7ImK1aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej7ImK1aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ej7ImK1aL._SL200_.jpg' ]
 comments: true
 category: ofertas

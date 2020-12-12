@@ -3,6 +3,7 @@ layout: post
 title: 'El Santuario  BD 3D  [Blu-ray] al 37.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BwyZVLrCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BwyZVLrCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BwyZVLrCL._SL200_.jpg' ]
 comments: true
 category: ofertas

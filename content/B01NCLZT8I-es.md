@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.33 % en Wilson  Raqueta de tenis para jóvenes  R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IquTVn-CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IquTVn-CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IquTVn-CL._SL200_.jpg' ]
 comments: true
 category: ofertas

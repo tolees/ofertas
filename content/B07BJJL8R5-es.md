@@ -3,6 +3,7 @@ layout: post
 title: 'HyperX FURY Red 8GB DDR4 3200 MHz 8GB DD al 50.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CSFRF4GGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CSFRF4GGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CSFRF4GGL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.85 % en Rochas Mademoiselle Rochas Perfume - 50 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IWF5OKrDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IWF5OKrDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IWF5OKrDL._SL200_.jpg' ]
 comments: true
 category: ofertas

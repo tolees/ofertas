@@ -3,6 +3,7 @@ layout: post
 title: 'HUGO Eurin  Camisa Hombre  Negro  Black  al 77.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31e%2Bxb5TVmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31e%2Bxb5TVmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31e%2Bxb5TVmL._SL200_.jpg' ]
 comments: true
 category: ofertas

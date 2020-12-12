@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.84 % en devolo dLAN 550+ WiFi - Extensión Powerl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ox1uRSTqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ox1uRSTqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ox1uRSTqL._SL200_.jpg' ]
 comments: true
 category: ofertas

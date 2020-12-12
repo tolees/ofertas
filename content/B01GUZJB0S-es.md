@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Stan Smith  Zapatillas Unisex Niñ al 34.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BiFl2KYTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BiFl2KYTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BiFl2KYTL._SL200_.jpg' ]
 comments: true
 category: ofertas

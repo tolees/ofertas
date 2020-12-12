@@ -3,6 +3,7 @@ layout: post
 title: 'Lower East Le232 Camisa  Blanco  Weiß/Sc al 47.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sdG8omPBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sdG8omPBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sdG8omPBL._SL200_.jpg' ]
 comments: true
 category: ofertas

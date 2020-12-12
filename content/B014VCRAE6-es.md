@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Men s Original Series 6” Bo al 25.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518TzJnoypL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518TzJnoypL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518TzJnoypL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.01 % en Burton Moxie Pantalones Cortos  Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DPJ62ATtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DPJ62ATtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DPJ62ATtL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'ORICO USB3.0 4 Puerto Mini Superspeed Tr al 31.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RKJZ09MEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RKJZ09MEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RKJZ09MEL._SL200_.jpg' ]
 comments: true
 category: ofertas

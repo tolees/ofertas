@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.79 % en Volcom Iconic Zip Sudadera  Hombre  marr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MF9M0MKVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MF9M0MKVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MF9M0MKVL._SL200_.jpg' ]
 comments: true
 category: ofertas

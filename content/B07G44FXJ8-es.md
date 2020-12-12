@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Cosy Pants  Pantalones de Pijama Ho al 75.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dck6O6b3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dck6O6b3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dck6O6b3L._SL200_.jpg' ]
 comments: true
 category: ofertas

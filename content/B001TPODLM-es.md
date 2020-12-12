@@ -3,6 +3,7 @@ layout: post
 title: 'Einhell BT-GG 200P - Pistola de pegament al 59.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CqH7O9c6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CqH7O9c6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CqH7O9c6L._SL200_.jpg' ]
 comments: true
 category: ofertas

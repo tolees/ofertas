@@ -3,6 +3,7 @@ layout: post
 title: 'Batidora de mano de acero inoxidable par al 83.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cj%2Bacl5AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cj%2Bacl5AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cj%2Bacl5AL._SL200_.jpg' ]
 comments: true
 category: ofertas

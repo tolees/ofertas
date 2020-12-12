@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.85 % en Birkenstock Madrid Birko-Flor  Mules par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pye6KGMUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pye6KGMUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pye6KGMUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.35 % en Nerf - no Figura Rival Kronos Deadpool  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aekOTtKlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aekOTtKlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aekOTtKlL._SL200_.jpg' ]
 comments: true
 category: ofertas

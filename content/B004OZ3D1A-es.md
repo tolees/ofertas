@@ -3,6 +3,7 @@ layout: post
 title: 'Silverline 126056 - Camilla para trabajo al 33.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lT4wS2SpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lT4wS2SpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lT4wS2SpL._SL200_.jpg' ]
 comments: true
 category: ofertas

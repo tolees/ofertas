@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.76 % en HP Envy Urban - Maletín para portátil de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MLt4BXRDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MLt4BXRDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MLt4BXRDL._SL200_.jpg' ]
 comments: true
 category: ofertas

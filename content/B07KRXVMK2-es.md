@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 94.10 % en Ommani Calefactor  Cerámica Calefactor P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b67yz0pHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51b67yz0pHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b67yz0pHL._SL200_.jpg' ]
 comments: true
 category: ofertas

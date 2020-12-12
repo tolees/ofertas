@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.88 % en Emporio Armani 0EA4077  Gafas de Sol Uni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BAYC-ZWWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BAYC-ZWWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BAYC-ZWWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Limpiador de Vapor de Mano  Limpiador de al 31.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ObCWGmEtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ObCWGmEtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ObCWGmEtL._SL200_.jpg' ]
 comments: true
 category: ofertas

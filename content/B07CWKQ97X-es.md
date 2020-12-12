@@ -3,6 +3,7 @@ layout: post
 title: 'EasyAcc Ventilador Personal Portátil USB al 66.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318H9TCrbWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318H9TCrbWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318H9TCrbWL._SL200_.jpg' ]
 comments: true
 category: ofertas

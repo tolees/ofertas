@@ -3,6 +3,7 @@ layout: post
 title: 'Chicco Balloon 2017 - Hamaca de 0 a 18 k al 29.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NKgA7Ls8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NKgA7Ls8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NKgA7Ls8L._SL200_.jpg' ]
 comments: true
 category: ofertas

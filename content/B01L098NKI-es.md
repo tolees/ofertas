@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 88.87 % en DKNY Intimates Nightfall-Sheer Lace  Suj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dpT7Xvn1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dpT7Xvn1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dpT7Xvn1L._SL200_.jpg' ]
 comments: true
 category: ofertas

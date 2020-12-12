@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Graphic Set-in Neck  Camiseta par al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gp%2BVdbgAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gp%2BVdbgAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gp%2BVdbgAL._SL200_.jpg' ]
 comments: true
 category: ofertas

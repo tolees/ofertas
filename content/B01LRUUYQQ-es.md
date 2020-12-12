@@ -3,6 +3,7 @@ layout: post
 title: 'Hauck Sun Plus - Disney silla de paseo c al 35.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U4j%2B-rfTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U4j%2B-rfTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U4j%2B-rfTL._SL200_.jpg' ]
 comments: true
 category: ofertas

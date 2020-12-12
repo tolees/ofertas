@@ -3,6 +3,7 @@ layout: post
 title: 'La Toja Hidrotermal Crema de Afeitar Cla al 34.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CkZHG6QVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CkZHG6QVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CkZHG6QVL._SL200_.jpg' ]
 comments: true
 category: ofertas

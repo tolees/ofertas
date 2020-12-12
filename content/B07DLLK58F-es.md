@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 8.T.Ap. Plumas BS con Gross  al 40.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ILm4sZpSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ILm4sZpSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ILm4sZpSL._SL200_.jpg' ]
 comments: true
 category: ofertas

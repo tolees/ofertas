@@ -3,6 +3,7 @@ layout: post
 title: 'Divina Providencia Jersey Estrellas Jers al 67.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I3HuBeJjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I3HuBeJjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I3HuBeJjL._SL200_.jpg' ]
 comments: true
 category: ofertas

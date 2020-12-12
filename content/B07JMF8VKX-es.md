@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.53 % en Nike Court Suede  Zapatillas de Gimnasia'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A5C%2Bbkx2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A5C%2Bbkx2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A5C%2Bbkx2L._SL200_.jpg' ]
 comments: true
 category: ofertas

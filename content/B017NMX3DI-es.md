@@ -3,6 +3,7 @@ layout: post
 title: 'Netgear RN31842E-100NES - Dispositivo de al 66.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cTrEkc82L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cTrEkc82L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cTrEkc82L._SL200_.jpg' ]
 comments: true
 category: ofertas

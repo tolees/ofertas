@@ -3,6 +3,7 @@ layout: post
 title: 'DC Aquaman™ Figura de acción Mera 30cm   al 37.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kw1GXPpCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kw1GXPpCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kw1GXPpCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.03 % en Hot Chenxi reloj de cuarzo los hombres d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b4wiV3bFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51b4wiV3bFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b4wiV3bFL._SL200_.jpg' ]
 comments: true
 category: ofertas

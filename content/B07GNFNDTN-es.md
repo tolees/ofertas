@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcomarko Polo SS  Hombre  M al 32.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RE1Z7Z3mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RE1Z7Z3mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RE1Z7Z3mL._SL200_.jpg' ]
 comments: true
 category: ofertas

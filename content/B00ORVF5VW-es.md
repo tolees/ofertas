@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Combi - Malla larga para mujer  col al 35.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P4SGJIk2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31P4SGJIk2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31P4SGJIk2L._SL200_.jpg' ]
 comments: true
 category: ofertas

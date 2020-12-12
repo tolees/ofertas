@@ -3,6 +3,7 @@ layout: post
 title: 'NEUMA Soporte de micrófono profesional c al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413T5w-9YvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413T5w-9YvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413T5w-9YvL._SL200_.jpg' ]
 comments: true
 category: ofertas

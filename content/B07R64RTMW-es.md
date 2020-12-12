@@ -3,6 +3,7 @@ layout: post
 title: 'Micrófono Karaoke Bluetooth Fede con 2 A al 48.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51K6kM7%2BLTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51K6kM7%2BLTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51K6kM7%2BLTL._SL200_.jpg' ]
 comments: true
 category: ofertas

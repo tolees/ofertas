@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.67 % en Aicok Sandwichera Grill 4-Serving  Panin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5112pP--e7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5112pP--e7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5112pP--e7L._SL200_.jpg' ]
 comments: true
 category: ofertas

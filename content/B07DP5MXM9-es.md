@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.25 % en adidas VL Court 2.0  Zapatillas de Depor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f0BzAD-HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f0BzAD-HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f0BzAD-HL._SL200_.jpg' ]
 comments: true
 category: ofertas

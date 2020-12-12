@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.04 % en Skechers Skyline-Woodmist  Zapatillas pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FpP9A3BwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FpP9A3BwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FpP9A3BwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Destornillador Eléctrico  DEKO inalámbri al 27.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Y2ykXQ7dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Y2ykXQ7dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Y2ykXQ7dL._SL200_.jpg' ]
 comments: true
 category: ofertas

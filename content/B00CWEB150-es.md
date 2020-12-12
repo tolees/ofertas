@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.51 % en Orbegozo BF 0140 Ventilador Box Fan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41skstG%2B0JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41skstG%2B0JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41skstG%2B0JL._SL200_.jpg' ]
 comments: true
 category: ofertas

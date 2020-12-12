@@ -3,6 +3,7 @@ layout: post
 title: 'Portacepillos De Dientes Pared Con Vento al 47.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i%2BH8XX0DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i%2BH8XX0DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i%2BH8XX0DL._SL200_.jpg' ]
 comments: true
 category: ofertas

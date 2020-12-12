@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48398  Botines para Mujer  Marrón Ta al 72.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WBOrkWE3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WBOrkWE3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WBOrkWE3L._SL200_.jpg' ]
 comments: true
 category: ofertas

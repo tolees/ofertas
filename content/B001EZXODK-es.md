@@ -3,6 +3,7 @@ layout: post
 title: 'Vans  Zapatillas Altas Unisex Adulto  Ne al 37.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qplQqm19L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qplQqm19L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qplQqm19L._SL200_.jpg' ]
 comments: true
 category: ofertas

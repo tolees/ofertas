@@ -3,6 +3,7 @@ layout: post
 title: 'Casio - Calculadora de bolsillo  10 dígi al 25.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PRv8GPGIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PRv8GPGIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PRv8GPGIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban 0rb3583n 9035v0 58 Gafas de sol  al 61.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WRFCRhl9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WRFCRhl9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WRFCRhl9L._SL200_.jpg' ]
 comments: true
 category: ofertas

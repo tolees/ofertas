@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban Clubmaster - Gafas de sol para h al 45.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319FJN9QX1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319FJN9QX1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319FJN9QX1L._SL200_.jpg' ]
 comments: true
 category: ofertas

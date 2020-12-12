@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.90 % en VERO MODA VMTENNA 3/4 OPEN CARDIGAN  cha'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518QfD4dOrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518QfD4dOrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518QfD4dOrL._SL200_.jpg' ]
 comments: true
 category: ofertas

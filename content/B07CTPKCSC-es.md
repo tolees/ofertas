@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Ripple NM PRNT  Zapatillas  al 61.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vQ2ezU%2B3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vQ2ezU%2B3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vQ2ezU%2B3L._SL200_.jpg' ]
 comments: true
 category: ofertas

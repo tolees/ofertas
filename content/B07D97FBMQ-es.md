@@ -3,6 +3,7 @@ layout: post
 title: 'Motorola Moto E5 - Smartphone de 5.7"  C al 33.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411NegxW7SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411NegxW7SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411NegxW7SL._SL200_.jpg' ]
 comments: true
 category: ofertas

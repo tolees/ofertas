@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Royal Prime  Zapatillas de Deport al 30.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZsVgf4FgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZsVgf4FgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZsVgf4FgL._SL200_.jpg' ]
 comments: true
 category: ofertas

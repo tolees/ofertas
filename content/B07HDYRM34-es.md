@@ -3,6 +3,7 @@ layout: post
 title: 'Minghuo Quitapelusas Eléctrico Lint Remo al 36.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bul0IKN-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bul0IKN-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bul0IKN-L._SL200_.jpg' ]
 comments: true
 category: ofertas

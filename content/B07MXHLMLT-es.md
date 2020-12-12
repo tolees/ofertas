@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Essential JKT Jacket  Hombre  Az al 43.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WF20fH6OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WF20fH6OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WF20fH6OL._SL200_.jpg' ]
 comments: true
 category: ofertas

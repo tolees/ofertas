@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon XA Pro 3D  Zapatillas de Trail R al 36.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hz-SYiwIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hz-SYiwIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hz-SYiwIL._SL200_.jpg' ]
 comments: true
 category: ofertas

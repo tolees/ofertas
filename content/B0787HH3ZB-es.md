@@ -3,6 +3,7 @@ layout: post
 title: 'Huerto Urbano - Seed Box Picante - Batll al 50.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JawC%2B%2Bx1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JawC%2B%2Bx1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JawC%2B%2Bx1L._SL200_.jpg' ]
 comments: true
 category: ofertas

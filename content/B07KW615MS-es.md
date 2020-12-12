@@ -3,6 +3,7 @@ layout: post
 title: 'Blackview BV9500 Pro - Móvil Resistentes al 41.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RANyNA84L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RANyNA84L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RANyNA84L._SL200_.jpg' ]
 comments: true
 category: ofertas

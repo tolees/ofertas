@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.27 % en Dickie Toys 3154001 - Buggy Woody Radioc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517qBxl%2B5-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517qBxl%2B5-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517qBxl%2B5-L._SL200_.jpg' ]
 comments: true
 category: ofertas

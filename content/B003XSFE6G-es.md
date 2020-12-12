@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.49 % en Karlie 1031299 Transportín de Nylon Smar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kxeCuxrGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kxeCuxrGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kxeCuxrGL._SL200_.jpg' ]
 comments: true
 category: ofertas

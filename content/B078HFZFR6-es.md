@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.04 % en Springfield Blazer Flor Hombro Chaqueta '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MrNhMGOXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MrNhMGOXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MrNhMGOXL._SL200_.jpg' ]
 comments: true
 category: ofertas

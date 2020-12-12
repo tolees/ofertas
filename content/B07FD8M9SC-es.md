@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.84 % en Skip Ultimate Triple Poder Máxima Eficac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416IL%2BQ3LOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416IL%2BQ3LOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416IL%2BQ3LOL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.02 % en Aceite Esencial Lavanda  Anjou Aceites E'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gxfT5fyQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gxfT5fyQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gxfT5fyQL._SL200_.jpg' ]
 comments: true
 category: ofertas

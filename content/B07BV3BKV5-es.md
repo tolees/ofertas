@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.08 % en Nike Downshifter 8  Zapatillas de Deport'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416XBJUAc0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416XBJUAc0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416XBJUAc0L._SL200_.jpg' ]
 comments: true
 category: ofertas

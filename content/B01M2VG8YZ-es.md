@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D THYMAR B  Zapatillas para Mujer   al 75.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JZmXENQlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JZmXENQlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JZmXENQlL._SL200_.jpg' ]
 comments: true
 category: ofertas

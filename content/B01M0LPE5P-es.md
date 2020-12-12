@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.33 % en Brennenstuhl 1153100100 Bases  230 V  Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tzMMEuXsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tzMMEuXsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tzMMEuXsL._SL200_.jpg' ]
 comments: true
 category: ofertas

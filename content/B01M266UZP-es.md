@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.02 % en Devir Tragedy Looper: Regreso a la trage'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61sFpr3hV4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61sFpr3hV4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61sFpr3hV4L._SL200_.jpg' ]
 comments: true
 category: ofertas

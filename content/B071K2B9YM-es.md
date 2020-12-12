@@ -3,6 +3,7 @@ layout: post
 title: 'find. Pantalones Regular Fit Hombre Gris al 67.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31t25g5kmIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31t25g5kmIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31t25g5kmIL._SL200_.jpg' ]
 comments: true
 category: ofertas

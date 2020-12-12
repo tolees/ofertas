@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Ignite Flash Evoknit  Zapatillas de al 58.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ak6mu-q9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ak6mu-q9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ak6mu-q9L._SL200_.jpg' ]
 comments: true
 category: ofertas

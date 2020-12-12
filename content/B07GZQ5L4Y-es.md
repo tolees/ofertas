@@ -3,6 +3,7 @@ layout: post
 title: 'Pintura Cara Niños Pinturas al Agua Bell al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s6IThWe-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s6IThWe-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s6IThWe-L._SL200_.jpg' ]
 comments: true
 category: ofertas

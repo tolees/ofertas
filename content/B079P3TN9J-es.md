@@ -3,6 +3,7 @@ layout: post
 title: 'S&R Rasqueta Vitroceramica limpia Crista al 56.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XYW3o8C3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XYW3o8C3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XYW3o8C3L._SL200_.jpg' ]
 comments: true
 category: ofertas

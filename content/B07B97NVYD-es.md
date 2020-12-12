@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Un Voyageplain  Zapatos de Cordon al 52.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31q9Fp15rYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31q9Fp15rYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31q9Fp15rYL._SL200_.jpg' ]
 comments: true
 category: ofertas

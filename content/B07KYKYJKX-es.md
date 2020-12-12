@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.Pc.Ap.Pv19. Plumeti Camise al 43.03 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

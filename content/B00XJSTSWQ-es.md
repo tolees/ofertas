@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.17 % en Olay Regenerist Crema De Día Regenerador'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514p9h4AN6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514p9h4AN6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514p9h4AN6L._SL200_.jpg' ]
 comments: true
 category: ofertas

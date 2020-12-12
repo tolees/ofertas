@@ -3,6 +3,7 @@ layout: post
 title: 'Panama Jack Panama 03 Igloo  Botas Milit al 48.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UXoxQtaoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UXoxQtaoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UXoxQtaoL._SL200_.jpg' ]
 comments: true
 category: ofertas

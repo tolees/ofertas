@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.91 % en Burton 2018 Neceser de Viaje  24 cm  1 l'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RpRPzHaOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RpRPzHaOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RpRPzHaOL._SL200_.jpg' ]
 comments: true
 category: ofertas

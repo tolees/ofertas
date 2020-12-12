@@ -3,6 +3,7 @@ layout: post
 title: 'Smilodox Slim Fit Jacket Chaqueta  Gris  al 73.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GT2xxArPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GT2xxArPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GT2xxArPL._SL200_.jpg' ]
 comments: true
 category: ofertas

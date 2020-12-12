@@ -3,6 +3,7 @@ layout: post
 title: 'Philips SoniCare Healthy White HX6711/02 al 26.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dGwGhMRZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dGwGhMRZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dGwGhMRZL._SL200_.jpg' ]
 comments: true
 category: ofertas

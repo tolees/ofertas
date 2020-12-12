@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.89 % en Jana 8-8-25303-21  Botines para Mujer  G'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H2sKd0GeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H2sKd0GeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H2sKd0GeL._SL200_.jpg' ]
 comments: true
 category: ofertas

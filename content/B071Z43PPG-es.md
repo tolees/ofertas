@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en Asics Gel-Zaraca 5 PS  Zapatillas de Gim'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H2DFS-luL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51H2DFS-luL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H2DFS-luL._SL200_.jpg' ]
 comments: true
 category: ofertas

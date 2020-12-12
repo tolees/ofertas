@@ -3,6 +3,7 @@ layout: post
 title: 'Half Moon Bay z888010 Harry Potter 3D Ca al 68.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DoTOx5SWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DoTOx5SWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DoTOx5SWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Pallet  Cinturón Hombre  Beige al 74.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t%2BQHnr6uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51t%2BQHnr6uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t%2BQHnr6uL._SL200_.jpg' ]
 comments: true
 category: ofertas

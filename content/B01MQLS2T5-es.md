@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Vazee Prism V2  Zapatillas d al 58.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tuSB-RAVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tuSB-RAVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tuSB-RAVL._SL200_.jpg' ]
 comments: true
 category: ofertas

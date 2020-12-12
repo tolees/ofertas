@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.11 % en Reef_Apparel Reef Classic Crew Sta  Capu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tFTF67E2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tFTF67E2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tFTF67E2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.76 % en Sourcingmap a14061700ux0055 Cerradura pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nQya4LvsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nQya4LvsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nQya4LvsL._SL200_.jpg' ]
 comments: true
 category: ofertas

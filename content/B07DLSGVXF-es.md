@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.Pa. Detalle Cintas Esco Ca al 29.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315vh5onKvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315vh5onKvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315vh5onKvL._SL200_.jpg' ]
 comments: true
 category: ofertas

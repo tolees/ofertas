@@ -3,6 +3,7 @@ layout: post
 title: 'Disney Minnie 5595 Camiseta  Rojo Rouge  al 37.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51emwuJuTvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51emwuJuTvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51emwuJuTvL._SL200_.jpg' ]
 comments: true
 category: ofertas

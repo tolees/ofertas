@@ -3,6 +3,7 @@ layout: post
 title: 'AEG PW 5644 FA - Báscula de análisis cor al 45.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31szdmZeIBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31szdmZeIBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31szdmZeIBL._SL200_.jpg' ]
 comments: true
 category: ofertas

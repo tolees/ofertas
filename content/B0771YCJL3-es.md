@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.41 % en Ça [4K Ultra HD] [Francia] [Blu-ray]'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xlUm1ijJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xlUm1ijJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xlUm1ijJL._SL200_.jpg' ]
 comments: true
 category: ofertas

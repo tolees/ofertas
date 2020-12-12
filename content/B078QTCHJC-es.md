@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.95 % en The North Face Kids TNF Sudaderas  Niñas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Pt-1UJS-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Pt-1UJS-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Pt-1UJS-L._SL200_.jpg' ]
 comments: true
 category: ofertas

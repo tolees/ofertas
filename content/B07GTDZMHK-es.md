@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger TH Sneaker Box 4P  Calcet al 68.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W3j7eInML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W3j7eInML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W3j7eInML._SL200_.jpg' ]
 comments: true
 category: ofertas

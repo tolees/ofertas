@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Evostripe Warm T-Shirt  Hombre  Sod al 58.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h12e-lVML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31h12e-lVML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h12e-lVML._SL200_.jpg' ]
 comments: true
 category: ofertas

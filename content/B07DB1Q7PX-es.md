@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.65 % en Puma Suede Classic Wn s  Zapatillas para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AWn8hrBUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AWn8hrBUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AWn8hrBUL._SL200_.jpg' ]
 comments: true
 category: ofertas

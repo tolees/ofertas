@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.71 % en Wrangler Kabel Buckle Brown  Cinturón pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NcmZ1cfBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NcmZ1cfBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NcmZ1cfBL._SL200_.jpg' ]
 comments: true
 category: ofertas

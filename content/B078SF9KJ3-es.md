@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.73 % en Esprit 038ee2b028  Vaqueros Slim Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nP2yAkB5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nP2yAkB5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nP2yAkB5L._SL200_.jpg' ]
 comments: true
 category: ofertas

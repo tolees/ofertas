@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.26 % en Only Onlnova Solid Vis Wide Sleeve Top W'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bA6BNhQKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bA6BNhQKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bA6BNhQKL._SL200_.jpg' ]
 comments: true
 category: ofertas

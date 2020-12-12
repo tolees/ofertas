@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.05 % en KangaROOS K-Vulca 5054 S  Zapatillas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kALWPoHsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kALWPoHsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kALWPoHsL._SL200_.jpg' ]
 comments: true
 category: ofertas

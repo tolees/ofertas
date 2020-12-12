@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 574 Core Plus  Zapatillas pa al 30.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Il20-veL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417Il20-veL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Il20-veL._SL200_.jpg' ]
 comments: true
 category: ofertas

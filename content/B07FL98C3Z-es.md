@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.53 % en Superdry Worldwide Tickettype Splat tee '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UX9FBCI6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UX9FBCI6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UX9FBCI6L._SL200_.jpg' ]
 comments: true
 category: ofertas

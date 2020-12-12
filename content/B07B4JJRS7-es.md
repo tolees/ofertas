@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.62 % en Timberland Bradstreet Perf Plain Toe Oxf'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BaW2UsKEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BaW2UsKEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BaW2UsKEL._SL200_.jpg' ]
 comments: true
 category: ofertas

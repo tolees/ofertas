@@ -3,6 +3,7 @@ layout: post
 title: 'ONLY 15118626  Chaqueta Punto Para Mujer al 70.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t2-CxPdyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t2-CxPdyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t2-CxPdyL._SL200_.jpg' ]
 comments: true
 category: ofertas

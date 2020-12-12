@@ -3,6 +3,7 @@ layout: post
 title: 'Only onlFIRST LS Pocket Shirt Noos WVN   al 37.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-WsDg6peL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-WsDg6peL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-WsDg6peL._SL200_.jpg' ]
 comments: true
 category: ofertas

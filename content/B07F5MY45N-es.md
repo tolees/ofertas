@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.20 % en JACK & JONES Jaccolorfull Small Stripe T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dhFEdxiIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dhFEdxiIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dhFEdxiIL._SL200_.jpg' ]
 comments: true
 category: ofertas

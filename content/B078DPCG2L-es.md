@@ -3,6 +3,7 @@ layout: post
 title: 'O Neill PM Back Logo Pantalones Cortos D al 45.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iO7bw%2Bm2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iO7bw%2Bm2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iO7bw%2Bm2L._SL200_.jpg' ]
 comments: true
 category: ofertas

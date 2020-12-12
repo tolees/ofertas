@@ -3,6 +3,7 @@ layout: post
 title: 'The Rolling Stone EST 1962 Group Camiset al 33.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oIF3v1QoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oIF3v1QoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oIF3v1QoL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.08 % en Only Onlsally Long Nylon Functional Coat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TPrTxfIwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TPrTxfIwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TPrTxfIwL._SL200_.jpg' ]
 comments: true
 category: ofertas

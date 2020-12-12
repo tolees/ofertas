@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.87 % en IBILI 707700 - Set 4 Molde Empanadillas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31msVXydm9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31msVXydm9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31msVXydm9L._SL200_.jpg' ]
 comments: true
 category: ofertas

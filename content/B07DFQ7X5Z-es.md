@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 574S  Zapatillas para Hombre al 67.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zezFLz5tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zezFLz5tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zezFLz5tL._SL200_.jpg' ]
 comments: true
 category: ofertas

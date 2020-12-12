@@ -3,6 +3,7 @@ layout: post
 title: 'Fitness Mad Neo - Set de 2 Mancuernas /  al 47.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4197WpSnqeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4197WpSnqeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4197WpSnqeL._SL200_.jpg' ]
 comments: true
 category: ofertas

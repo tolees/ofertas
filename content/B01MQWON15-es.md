@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste L1212  Polo Para Hombre  Azul  O al 35.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mpFhXZtWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mpFhXZtWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mpFhXZtWL._SL200_.jpg' ]
 comments: true
 category: ofertas

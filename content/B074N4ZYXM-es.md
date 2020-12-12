@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.19 % en ammoon Electric Silent Violin Tamaño Com'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dBF7Rmp9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dBF7Rmp9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dBF7Rmp9L._SL200_.jpg' ]
 comments: true
 category: ofertas

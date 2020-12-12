@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.00 % en Penn State-Opoly'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dxbxtF%2BwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dxbxtF%2BwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dxbxtF%2BwL._SL200_.jpg' ]
 comments: true
 category: ofertas

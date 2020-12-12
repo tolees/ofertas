@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.96 % en CAMRY Báscula de Baño Digital de Alta Me'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lwX9xnqsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lwX9xnqsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lwX9xnqsL._SL200_.jpg' ]
 comments: true
 category: ofertas

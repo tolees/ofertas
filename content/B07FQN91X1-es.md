@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.30 % en Hurley M One & Only Volley 17  BAÑADORES'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C6c1cZAGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31C6c1cZAGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C6c1cZAGL._SL200_.jpg' ]
 comments: true
 category: ofertas

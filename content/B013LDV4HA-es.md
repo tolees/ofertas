@@ -3,6 +3,7 @@ layout: post
 title: 'Case Logic Lodo - Funda para portátil de al 76.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ki6ie2jyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ki6ie2jyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ki6ie2jyL._SL200_.jpg' ]
 comments: true
 category: ofertas

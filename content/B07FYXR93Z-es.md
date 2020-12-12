@@ -3,6 +3,7 @@ layout: post
 title: 'Supra Vaider  Zapatillas Altas para Homb al 85.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41odHdyTaSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41odHdyTaSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41odHdyTaSL._SL200_.jpg' ]
 comments: true
 category: ofertas

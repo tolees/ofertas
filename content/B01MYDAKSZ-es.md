@@ -3,6 +3,7 @@ layout: post
 title: 'Finether-Minibicicleta para el Entrenami al 70.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N7vReI9jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41N7vReI9jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N7vReI9jL._SL200_.jpg' ]
 comments: true
 category: ofertas

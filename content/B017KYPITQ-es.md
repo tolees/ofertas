@@ -3,6 +3,7 @@ layout: post
 title: 'Egamaster - Llave fija/o golpe 1.3/16" c al 84.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21oES8aA20L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21oES8aA20L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21oES8aA20L._SL200_.jpg' ]
 comments: true
 category: ofertas

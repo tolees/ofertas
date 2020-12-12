@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.46 % en Joma Elite V Camiseta  Unisex Adulto  Ro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wTDFyBqEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wTDFyBqEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wTDFyBqEL._SL200_.jpg' ]
 comments: true
 category: ofertas

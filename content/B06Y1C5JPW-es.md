@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.57 % en Geox D Emsley A  Botas Estilo Motero par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZqKYkuZgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZqKYkuZgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZqKYkuZgL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.68 % en iLifeSmart Radio Despertador Digital Rel'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YGBG6roQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YGBG6roQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YGBG6roQL._SL200_.jpg' ]
 comments: true
 category: ofertas

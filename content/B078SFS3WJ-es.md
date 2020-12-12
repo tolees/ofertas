@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.13 % en Gola Comet  Zapatillas para Hombre  Gris'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4160wUm3QCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4160wUm3QCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4160wUm3QCL._SL200_.jpg' ]
 comments: true
 category: ofertas

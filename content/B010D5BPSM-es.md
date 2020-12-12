@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.01 % en T400 Jewelers Plata de ley 925 Cubo Form'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d51WRXM4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d51WRXM4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d51WRXM4L._SL200_.jpg' ]
 comments: true
 category: ofertas

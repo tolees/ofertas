@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onllurex Short O-Neck Swt  suéter M al 69.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TgHGODOwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TgHGODOwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TgHGODOwL._SL200_.jpg' ]
 comments: true
 category: ofertas

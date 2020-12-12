@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.35 % en Tufo Extreme Líquido Antipinchazos  Unis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F5kQhqwiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F5kQhqwiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F5kQhqwiL._SL200_.jpg' ]
 comments: true
 category: ofertas

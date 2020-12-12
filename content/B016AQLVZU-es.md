@@ -3,6 +3,7 @@ layout: post
 title: 'Approx APPNBBUNDLE4 - Mochila para portá al 41.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ln5uF17FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ln5uF17FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ln5uF17FL._SL200_.jpg' ]
 comments: true
 category: ofertas

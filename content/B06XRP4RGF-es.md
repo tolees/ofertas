@@ -3,6 +3,7 @@ layout: post
 title: 'deAO Fuerzas Armadas Unidad de Defensa M al 31.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S572-xuvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51S572-xuvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S572-xuvL._SL200_.jpg' ]
 comments: true
 category: ofertas

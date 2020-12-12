@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.92 % en Knorr Las Rústicas Potaje de Lentejas co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5150ROBUm6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5150ROBUm6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5150ROBUm6L._SL200_.jpg' ]
 comments: true
 category: ofertas

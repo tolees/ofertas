@@ -3,6 +3,7 @@ layout: post
 title: 'Westworld - Stagione 01  3 4K Ultra Hd+3 al 26.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ALqpFjKtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ALqpFjKtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ALqpFjKtL._SL200_.jpg' ]
 comments: true
 category: ofertas

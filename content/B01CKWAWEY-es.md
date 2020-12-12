@@ -3,6 +3,7 @@ layout: post
 title: 'Gilind para mujer para hombre Negro de m al 42.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UYAZxvzzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UYAZxvzzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UYAZxvzzL._SL200_.jpg' ]
 comments: true
 category: ofertas

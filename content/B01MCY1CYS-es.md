@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Soft Cup Speed Vaso Flexible de  al 30.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fSpp9C4jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fSpp9C4jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fSpp9C4jL._SL200_.jpg' ]
 comments: true
 category: ofertas

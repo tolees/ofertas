@@ -3,6 +3,7 @@ layout: post
 title: 'Fantasy Flight Games Juego de Tronos - I al 26.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zAHAj7qUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zAHAj7qUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zAHAj7qUL._SL200_.jpg' ]
 comments: true
 category: ofertas

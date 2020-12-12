@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Active Woven Short 9` Chándal  Homb al 59.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JmQJkDQgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JmQJkDQgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JmQJkDQgL._SL200_.jpg' ]
 comments: true
 category: ofertas

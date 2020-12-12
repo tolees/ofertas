@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.55 % en Adidas Terrex Agravic Speed  Zapatillas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BE%2BtPXnnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BE%2BtPXnnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BE%2BtPXnnL._SL200_.jpg' ]
 comments: true
 category: ofertas

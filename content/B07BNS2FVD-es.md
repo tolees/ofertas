@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.43 % en edc by Esprit 098cc1g004  Abrigo para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wovCn8guL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wovCn8guL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wovCn8guL._SL200_.jpg' ]
 comments: true
 category: ofertas

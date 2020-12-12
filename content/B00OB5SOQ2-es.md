@@ -3,6 +3,7 @@ layout: post
 title: 'Scotch CAT-810 - Dispensador de cinta ad al 27.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mYm7OjTxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mYm7OjTxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mYm7OjTxL._SL200_.jpg' ]
 comments: true
 category: ofertas

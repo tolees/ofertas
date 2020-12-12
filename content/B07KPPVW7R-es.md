@@ -3,6 +3,7 @@ layout: post
 title: 'Gant Contrast Collar SS Pique  Polo para al 45.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RKGJ5K3AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RKGJ5K3AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RKGJ5K3AL._SL200_.jpg' ]
 comments: true
 category: ofertas

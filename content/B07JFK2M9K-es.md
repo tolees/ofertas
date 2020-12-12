@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.33 % en Puma Axis Plus SD  Zapatillas de Deporte'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313QZ-ERaeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313QZ-ERaeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313QZ-ERaeL._SL200_.jpg' ]
 comments: true
 category: ofertas

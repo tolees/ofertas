@@ -3,6 +3,7 @@ layout: post
 title: 'VonHaus Calefactor Convector 2000 W – 3  al 99.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vD1HbAewL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vD1HbAewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vD1HbAewL._SL200_.jpg' ]
 comments: true
 category: ofertas

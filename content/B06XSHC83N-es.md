@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Hugo Boss Orange para Hombre 15500 al 49.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JKyf0FJJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JKyf0FJJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JKyf0FJJL._SL200_.jpg' ]
 comments: true
 category: ofertas

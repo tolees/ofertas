@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.41 % en Vero Moda Vmanais Faux Shearling Short J'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415bj31-RzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415bj31-RzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415bj31-RzL._SL200_.jpg' ]
 comments: true
 category: ofertas

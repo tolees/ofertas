@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.91 % en Levi s - Constructed Basics Mini Crossbo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Tzdf3HqoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Tzdf3HqoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Tzdf3HqoL._SL200_.jpg' ]
 comments: true
 category: ofertas

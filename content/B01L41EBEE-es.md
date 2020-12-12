@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.17 % en Havaianas Origine Iii  Alpargatas para U'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41owewqdpiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41owewqdpiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41owewqdpiL._SL200_.jpg' ]
 comments: true
 category: ofertas

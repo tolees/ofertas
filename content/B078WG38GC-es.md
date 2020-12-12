@@ -3,6 +3,7 @@ layout: post
 title: 'Ultrasport Advanced Chaqueta Lorma para  al 76.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QATLkpvzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QATLkpvzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QATLkpvzL._SL200_.jpg' ]
 comments: true
 category: ofertas

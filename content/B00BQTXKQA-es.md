@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.40 % en Wenko Adria Cesta  Polipropileno  Negro '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gGKIeT5YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gGKIeT5YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gGKIeT5YL._SL200_.jpg' ]
 comments: true
 category: ofertas

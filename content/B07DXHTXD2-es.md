@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.91 % en Only & Sons Onsloom Grey Jog PK 1444 Noo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QEqk1MTOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QEqk1MTOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QEqk1MTOL._SL200_.jpg' ]
 comments: true
 category: ofertas

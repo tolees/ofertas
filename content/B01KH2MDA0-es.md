@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.64 % en Fitbit Flex 2 - Brazalete para Fitbit Fl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PRv2P892L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PRv2P892L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PRv2P892L._SL200_.jpg' ]
 comments: true
 category: ofertas

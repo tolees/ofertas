@@ -3,6 +3,7 @@ layout: post
 title: 'Maclaren Ace Silla de paseo - super lige al 66.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vtAKUzElL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vtAKUzElL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vtAKUzElL._SL200_.jpg' ]
 comments: true
 category: ofertas

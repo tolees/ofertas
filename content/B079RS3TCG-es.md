@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Leicester  Suéter para Hombre al 72.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41air3xge8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41air3xge8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41air3xge8L._SL200_.jpg' ]
 comments: true
 category: ofertas

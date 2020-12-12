@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.54 % en Quiksilver Crucial Battle Pantalón Corto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41er-LBDGbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41er-LBDGbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41er-LBDGbL._SL200_.jpg' ]
 comments: true
 category: ofertas

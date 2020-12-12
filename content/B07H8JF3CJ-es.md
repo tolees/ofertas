@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en Renberg Pk1180 Set 12 Mugs  Multicolor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QdFG12ZdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QdFG12ZdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QdFG12ZdL._SL200_.jpg' ]
 comments: true
 category: ofertas

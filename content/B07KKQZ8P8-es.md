@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Classic Backpack 3 Stripes  Unise al 39.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BULVaZQ9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BULVaZQ9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BULVaZQ9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Mexx  Agua de colonia para hombres - 150 al 38.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OWOVXIxKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OWOVXIxKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OWOVXIxKL._SL200_.jpg' ]
 comments: true
 category: ofertas

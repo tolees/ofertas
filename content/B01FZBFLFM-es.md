@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 26240  Zapatillas Altas para Muj al 78.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kN9YkJqTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kN9YkJqTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kN9YkJqTL._SL200_.jpg' ]
 comments: true
 category: ofertas

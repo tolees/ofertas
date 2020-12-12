@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino - Borsa Pu  Bolso de mano  al 55.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zhSj1QBUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zhSj1QBUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zhSj1QBUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Mochila Portátil Hombre 17.3 Pulgadas Im al 71.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-qXC8kBuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-qXC8kBuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-qXC8kBuL._SL200_.jpg' ]
 comments: true
 category: ofertas

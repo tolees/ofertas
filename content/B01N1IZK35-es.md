@@ -3,6 +3,7 @@ layout: post
 title: 'Steve Madden Edition  Zapatos de tacón c al 73.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BVjPm9XoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BVjPm9XoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BVjPm9XoL._SL200_.jpg' ]
 comments: true
 category: ofertas

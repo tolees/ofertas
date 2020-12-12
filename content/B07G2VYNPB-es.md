@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.48 % en Diesel K-Over suéter  Negro  Black 900  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZKFtNmhsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZKFtNmhsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZKFtNmhsL._SL200_.jpg' ]
 comments: true
 category: ofertas

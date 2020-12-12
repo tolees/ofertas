@@ -3,6 +3,7 @@ layout: post
 title: 'Karl Lagerfeld 42738 - Eau de toilette p al 57.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m8bLNDDuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m8bLNDDuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m8bLNDDuL._SL200_.jpg' ]
 comments: true
 category: ofertas

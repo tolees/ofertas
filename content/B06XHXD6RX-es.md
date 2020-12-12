@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.07 % en Diesel DL0239-01A-52 Gafas de Sol  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C0uQgZQuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31C0uQgZQuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C0uQgZQuL._SL200_.jpg' ]
 comments: true
 category: ofertas

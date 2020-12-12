@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS 2p As Logo CC Calcetines  Verde  Br al 63.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w-4Qc8hgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w-4Qc8hgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w-4Qc8hgL._SL200_.jpg' ]
 comments: true
 category: ofertas

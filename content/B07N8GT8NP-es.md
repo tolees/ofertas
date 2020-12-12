@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2288-Vcotw  Sandalias con Punta  al 55.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oL7rnVVUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oL7rnVVUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oL7rnVVUL._SL200_.jpg' ]
 comments: true
 category: ofertas

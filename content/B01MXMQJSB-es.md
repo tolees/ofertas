@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Amphibian Plus  Zapatillas de al 35.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S8V96slBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S8V96slBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S8V96slBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.90 % en Rowenta Expertise TN3400F0 Barbero Exper'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31J45l7dPyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31J45l7dPyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31J45l7dPyL._SL200_.jpg' ]
 comments: true
 category: ofertas

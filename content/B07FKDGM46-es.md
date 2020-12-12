@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Base Camp Duffel Bolsa de al 31.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z-zExjsKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z-zExjsKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z-zExjsKL._SL200_.jpg' ]
 comments: true
 category: ofertas

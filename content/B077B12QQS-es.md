@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Rodeo PM303159  Camisa para H al 65.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ydefmsyhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ydefmsyhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ydefmsyhL._SL200_.jpg' ]
 comments: true
 category: ofertas

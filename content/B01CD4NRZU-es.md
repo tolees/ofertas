@@ -3,6 +3,7 @@ layout: post
 title: 'Marckonfort Cabezal Partido tapizado Lyo al 47.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BlDlMe4nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BlDlMe4nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BlDlMe4nL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.68 % en Alitoo Auriculares Bluetooth de Diadema '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d3ChWXzhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d3ChWXzhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d3ChWXzhL._SL200_.jpg' ]
 comments: true
 category: ofertas

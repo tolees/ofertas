@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.96 % en Lámpara colgante de techo  1M Vintage Cu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qbsDD5duL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qbsDD5duL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qbsDD5duL._SL200_.jpg' ]
 comments: true
 category: ofertas

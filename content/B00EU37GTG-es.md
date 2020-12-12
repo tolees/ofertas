@@ -3,6 +3,7 @@ layout: post
 title: 'Tuscany Silver 8.55.2199 - Pendientes de al 65.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313jFaNjz7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313jFaNjz7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313jFaNjz7L._SL200_.jpg' ]
 comments: true
 category: ofertas

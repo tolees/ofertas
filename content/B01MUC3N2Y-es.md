@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.36 % en Honor 6x - Smartphone libre de 5.5"  lec'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QXAECwonL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QXAECwonL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QXAECwonL._SL200_.jpg' ]
 comments: true
 category: ofertas

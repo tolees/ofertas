@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.10 % en Puma All Eyes On Me 3/4 Tight Mallas  Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416-1MiZ28L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416-1MiZ28L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416-1MiZ28L._SL200_.jpg' ]
 comments: true
 category: ofertas

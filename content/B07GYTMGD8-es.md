@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.01 % en LOVORDS Collar Mujer Grabado Plata de Le'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419%2BxsjA-7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419%2BxsjA-7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419%2BxsjA-7L._SL200_.jpg' ]
 comments: true
 category: ofertas

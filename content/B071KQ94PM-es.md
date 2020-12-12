@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.00 % en Lacoste Sport Lt Spirit 317 2  Entrenado'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418jUD49EmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418jUD49EmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418jUD49EmL._SL200_.jpg' ]
 comments: true
 category: ofertas

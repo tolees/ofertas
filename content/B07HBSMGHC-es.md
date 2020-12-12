@@ -3,6 +3,7 @@ layout: post
 title: 'Onforu 4x 20W RGB LED Foco de Colores  P al 60.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QmKRWP4pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QmKRWP4pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QmKRWP4pL._SL200_.jpg' ]
 comments: true
 category: ofertas

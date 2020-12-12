@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel S-GIM-Hood-a Sweat-Shirt Capucha  al 43.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310S7j-wEPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310S7j-wEPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310S7j-wEPL._SL200_.jpg' ]
 comments: true
 category: ofertas

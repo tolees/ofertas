@@ -3,6 +3,7 @@ layout: post
 title: 'Nike SB Delta Force Vulc  Zapatillas de  al 47.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HGT-GiK9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HGT-GiK9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HGT-GiK9L._SL200_.jpg' ]
 comments: true
 category: ofertas

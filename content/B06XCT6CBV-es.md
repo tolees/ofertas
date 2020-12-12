@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.99 % en Burton Vida Pantalón de Snowboard  Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mmPS8PXcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mmPS8PXcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mmPS8PXcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en ROBOTIME Laser Cut Puzzle de Madera | Ki'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sP-w1ZxTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sP-w1ZxTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sP-w1ZxTL._SL200_.jpg' ]
 comments: true
 category: ofertas

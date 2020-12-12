@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon- Solimo -  Galletas Petit B al 32.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AOjWEz11L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AOjWEz11L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AOjWEz11L._SL200_.jpg' ]
 comments: true
 category: ofertas

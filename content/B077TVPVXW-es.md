@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Cm9609  Zapatillas de Gimnasia pa al 70.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aJF0gSL4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aJF0gSL4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aJF0gSL4L._SL200_.jpg' ]
 comments: true
 category: ofertas

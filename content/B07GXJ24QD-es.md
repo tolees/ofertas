@@ -3,6 +3,7 @@ layout: post
 title: 'Blusa de manga larga de moda blusa de la al 69.32 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

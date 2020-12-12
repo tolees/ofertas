@@ -3,6 +3,7 @@ layout: post
 title: 'Panthera casco de moto modulable Hybrid  al 38.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NCVJ5xSKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NCVJ5xSKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NCVJ5xSKL._SL200_.jpg' ]
 comments: true
 category: ofertas

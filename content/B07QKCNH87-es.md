@@ -3,6 +3,7 @@ layout: post
 title: 'Almohada de espuma de memoria INTEY  75  al 47.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vypGpoxiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vypGpoxiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vypGpoxiL._SL200_.jpg' ]
 comments: true
 category: ofertas

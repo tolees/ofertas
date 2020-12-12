@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Women’ s Speedcross 4 - Zapatill al 38.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T80zuO3sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T80zuO3sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T80zuO3sL._SL200_.jpg' ]
 comments: true
 category: ofertas

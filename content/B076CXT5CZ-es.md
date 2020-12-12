@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.57 % en MSI GS63VR 7RG-084XES - Ordenador portát'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-W5a5WZpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-W5a5WZpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-W5a5WZpL._SL200_.jpg' ]
 comments: true
 category: ofertas

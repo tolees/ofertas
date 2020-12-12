@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.76 % en COO Funda con Teclado iPad 9.7  Cubierta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vexmhyoNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vexmhyoNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vexmhyoNL._SL200_.jpg' ]
 comments: true
 category: ofertas

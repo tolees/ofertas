@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Union Wharf 2-Eye Oxford  Moc al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VjBKKo9hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VjBKKo9hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VjBKKo9hL._SL200_.jpg' ]
 comments: true
 category: ofertas

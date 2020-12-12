@@ -3,6 +3,7 @@ layout: post
 title: 'VTech- Simulador de conducción  Puesta a al 50.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gmpeANFHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gmpeANFHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gmpeANFHL._SL200_.jpg' ]
 comments: true
 category: ofertas

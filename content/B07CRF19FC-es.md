@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Zoe PL211255 Pantalones    De al 80.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tbV490y5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tbV490y5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tbV490y5L._SL200_.jpg' ]
 comments: true
 category: ofertas

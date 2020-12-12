@@ -3,6 +3,7 @@ layout: post
 title: 'ApolloStar Mujer Pendientes de Chapado e al 87.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zmyB%2BqEhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zmyB%2BqEhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zmyB%2BqEhL._SL200_.jpg' ]
 comments: true
 category: ofertas

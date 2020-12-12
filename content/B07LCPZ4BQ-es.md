@@ -3,6 +3,7 @@ layout: post
 title: 'PANAMA JACK Gunter  Zapatillas Altas par al 72.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u4UU7yO0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31u4UU7yO0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u4UU7yO0L._SL200_.jpg' ]
 comments: true
 category: ofertas

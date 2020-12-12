@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Adizero Defiant Bounce W  Zapatil al 51.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bmyL-1pUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bmyL-1pUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bmyL-1pUL._SL200_.jpg' ]
 comments: true
 category: ofertas

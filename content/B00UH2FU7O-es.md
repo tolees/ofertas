@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Timberland Seabury Classic 2 Eye  Náutic'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BcED0LpeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BcED0LpeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BcED0LpeL._SL200_.jpg' ]
 comments: true
 category: ofertas

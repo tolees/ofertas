@@ -3,6 +3,7 @@ layout: post
 title: 'Beper VE.610R Color Rojo mosquitera eléc al 46.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cguvAyyxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cguvAyyxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cguvAyyxL._SL200_.jpg' ]
 comments: true
 category: ofertas

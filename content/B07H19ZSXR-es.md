@@ -3,6 +3,7 @@ layout: post
 title: 'E.INFINITY Set de Pendientes y Collar de al 89.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jo5Qxm-WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jo5Qxm-WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jo5Qxm-WL._SL200_.jpg' ]
 comments: true
 category: ofertas

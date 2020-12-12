@@ -3,6 +3,7 @@ layout: post
 title: 'Stanley 269264 - Juego de llaves métrica al 30.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mfi2I42NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mfi2I42NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mfi2I42NL._SL200_.jpg' ]
 comments: true
 category: ofertas

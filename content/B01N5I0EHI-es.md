@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.00 % en Superdry Hombre Cork Colour Pop Sandalia'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a9Bcx615L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a9Bcx615L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a9Bcx615L._SL200_.jpg' ]
 comments: true
 category: ofertas

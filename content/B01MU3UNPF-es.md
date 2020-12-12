@@ -3,6 +3,7 @@ layout: post
 title: 'Béaba 913414 - Set de 4 cucharas ergonóm al 47.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41whzmz6-LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41whzmz6-LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41whzmz6-LL._SL200_.jpg' ]
 comments: true
 category: ofertas

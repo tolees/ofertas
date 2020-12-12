@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.83 % en Garden pic-Nic - Cubo Basura con Tapa 50'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z0eabP25L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z0eabP25L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z0eabP25L._SL200_.jpg' ]
 comments: true
 category: ofertas

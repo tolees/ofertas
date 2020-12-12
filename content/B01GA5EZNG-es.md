@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.20 % en VERO MODA VMNORA LS HIGHNECK TOP SWT V  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RHCYXnPUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RHCYXnPUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RHCYXnPUL._SL200_.jpg' ]
 comments: true
 category: ofertas

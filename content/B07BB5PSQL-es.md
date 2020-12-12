@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.40 % en The North Face Y 1/4 Zip Forro Polar Gla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FiP%2BtwV1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FiP%2BtwV1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FiP%2BtwV1L._SL200_.jpg' ]
 comments: true
 category: ofertas

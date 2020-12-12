@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.48 % en Corsair Force Series LS - Unidad de Esta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ejqq4uqEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ejqq4uqEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ejqq4uqEL._SL200_.jpg' ]
 comments: true
 category: ofertas

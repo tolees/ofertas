@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.18 % en Springfield Jeans Slim Grey Pantalones  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410Rx5eKEHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410Rx5eKEHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410Rx5eKEHL._SL200_.jpg' ]
 comments: true
 category: ofertas

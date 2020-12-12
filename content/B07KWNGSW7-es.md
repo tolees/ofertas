@@ -3,6 +3,7 @@ layout: post
 title: 'Netis Extensor de WiFi 150Mbps Repetidor al 50.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B5MN0kKzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B5MN0kKzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B5MN0kKzL._SL200_.jpg' ]
 comments: true
 category: ofertas

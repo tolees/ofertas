@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.47 % en Nike Court Royale Suede  Zapatillas de G'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418XTzmEIZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418XTzmEIZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418XTzmEIZL._SL200_.jpg' ]
 comments: true
 category: ofertas

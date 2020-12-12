@@ -3,6 +3,7 @@ layout: post
 title: 'Arcos 604400 - Sacacorchos  caja  al 29.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kZdPnH6BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kZdPnH6BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kZdPnH6BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Champion IV M/C Camiseta Equipamien al 51.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410oOyE5v8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410oOyE5v8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410oOyE5v8L._SL200_.jpg' ]
 comments: true
 category: ofertas

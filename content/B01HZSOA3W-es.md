@@ -3,6 +3,7 @@ layout: post
 title: 'Perry Ellis Camisa Hombre Azul/Turquesa  al 66.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S53YEIQ4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51S53YEIQ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S53YEIQ4L._SL200_.jpg' ]
 comments: true
 category: ofertas

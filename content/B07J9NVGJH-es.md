@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Tanjun Se  Zapatillas de Entrenamie al 46.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iZx2MgZJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iZx2MgZJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iZx2MgZJL._SL200_.jpg' ]
 comments: true
 category: ofertas

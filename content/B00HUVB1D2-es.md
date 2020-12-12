@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.94 % en Lego Despertador con luz Infantil con Fi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tii9iO8AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tii9iO8AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tii9iO8AL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Masters 119 3 SMA  Zapatillas pa al 44.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tEgzYPfhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tEgzYPfhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tEgzYPfhL._SL200_.jpg' ]
 comments: true
 category: ofertas

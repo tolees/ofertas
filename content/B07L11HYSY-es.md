@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.24 % en Ultra Delgado Negro Reloj Unisexo  Moda '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d5wmSfUQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51d5wmSfUQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d5wmSfUQL._SL200_.jpg' ]
 comments: true
 category: ofertas

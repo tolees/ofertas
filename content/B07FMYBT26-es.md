@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.69 % en Eono Essentials Mochila con cordón Liger'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kIr%2BqmO3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kIr%2BqmO3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kIr%2BqmO3L._SL200_.jpg' ]
 comments: true
 category: ofertas

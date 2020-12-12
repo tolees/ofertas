@@ -3,6 +3,7 @@ layout: post
 title: 'McHaus Negra Silla Gaming Pro ergonómica al 44.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x9tBcQmyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x9tBcQmyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x9tBcQmyL._SL200_.jpg' ]
 comments: true
 category: ofertas

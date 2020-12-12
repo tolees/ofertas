@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face S/S Peak tee Camiseta de  al 53.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414Yp3m-JgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414Yp3m-JgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414Yp3m-JgL._SL200_.jpg' ]
 comments: true
 category: ofertas

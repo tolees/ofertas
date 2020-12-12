@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onljuliana L/s Pullover Knt  suéter al 68.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LS5x%2BUNsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LS5x%2BUNsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LS5x%2BUNsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.98 % en REPLAY Luz  Vaqueros Skinny Mujer  Azul '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qI9VEd6pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qI9VEd6pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qI9VEd6pL._SL200_.jpg' ]
 comments: true
 category: ofertas

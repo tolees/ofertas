@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Wallmu Relaxed R T S/s  Camis al 58.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6j7zUQdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6j7zUQdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y6j7zUQdL._SL200_.jpg' ]
 comments: true
 category: ofertas

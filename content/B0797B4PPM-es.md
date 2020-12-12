@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.44 % en Sony Xperia XA2 DS - Smartphone de 5.2" '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ah3842rkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ah3842rkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ah3842rkL._SL200_.jpg' ]
 comments: true
 category: ofertas

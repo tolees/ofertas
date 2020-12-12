@@ -3,6 +3,7 @@ layout: post
 title: 'Fly London - Dipi614fly  Bolsos maletín  al 40.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419SbrDeXcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419SbrDeXcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419SbrDeXcL._SL200_.jpg' ]
 comments: true
 category: ofertas

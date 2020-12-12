@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.63 % en boboli 444170 Vestido  Negro  Pizarra   '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sOVWxAgnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sOVWxAgnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sOVWxAgnL._SL200_.jpg' ]
 comments: true
 category: ofertas

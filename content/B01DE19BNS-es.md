@@ -3,6 +3,7 @@ layout: post
 title: 'LG PW1500G - Proyector portátil  WXGA  L al 50.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21LPV8yLvlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21LPV8yLvlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21LPV8yLvlL._SL200_.jpg' ]
 comments: true
 category: ofertas

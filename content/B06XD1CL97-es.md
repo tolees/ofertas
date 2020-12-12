@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel Pantalone BLU Navy W33 al 48.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mQEASM8sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mQEASM8sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mQEASM8sL._SL200_.jpg' ]
 comments: true
 category: ofertas

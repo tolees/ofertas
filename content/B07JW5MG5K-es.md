@@ -3,6 +3,7 @@ layout: post
 title: 'GNEDIAE para Hombre Botas de Senderismo  al 55.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518PvAkg17L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518PvAkg17L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518PvAkg17L._SL200_.jpg' ]
 comments: true
 category: ofertas

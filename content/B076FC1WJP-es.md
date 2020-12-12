@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES - Pcroberta Shopper  Mujer  Rot   al 64.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VgF6U8aCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VgF6U8aCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VgF6U8aCL._SL200_.jpg' ]
 comments: true
 category: ofertas

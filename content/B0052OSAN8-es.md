@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.12 % en Diesel Münzbörse 00X696PR425T8013 Monede'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21clIUt575L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21clIUt575L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21clIUt575L._SL200_.jpg' ]
 comments: true
 category: ofertas

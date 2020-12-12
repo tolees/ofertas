@@ -3,6 +3,7 @@ layout: post
 title: 'Urban Classics Hooded Puffer Jacket  Cha al 55.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G2fkKD0gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G2fkKD0gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G2fkKD0gL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.60 % en SEEDIQ® LED 24W Lámpara de Techo Plafón '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417CO6osudL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417CO6osudL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417CO6osudL._SL200_.jpg' ]
 comments: true
 category: ofertas

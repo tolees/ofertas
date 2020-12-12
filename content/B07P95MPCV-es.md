@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.03 % en BOBLOV Mini Cámara 1080P Full HD con Gra'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KcSG9gliL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KcSG9gliL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KcSG9gliL._SL200_.jpg' ]
 comments: true
 category: ofertas

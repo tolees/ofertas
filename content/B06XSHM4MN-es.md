@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 067ee1f038  Blusa Mujer  Rosa  Pa al 57.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uslHgTISL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uslHgTISL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uslHgTISL._SL200_.jpg' ]
 comments: true
 category: ofertas

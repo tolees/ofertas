@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Heritage Pants Pantalones de Deport al 33.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PrZ-8qcuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PrZ-8qcuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PrZ-8qcuL._SL200_.jpg' ]
 comments: true
 category: ofertas

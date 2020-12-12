@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.55 % en Gocco Blusa Flores  Niñas   Rosa Viejo P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CT2HYL81L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CT2HYL81L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CT2HYL81L._SL200_.jpg' ]
 comments: true
 category: ofertas

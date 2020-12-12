@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.75 % en Under Armour Rival Fitted Full Zip Sudad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JSygBqZuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JSygBqZuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JSygBqZuL._SL200_.jpg' ]
 comments: true
 category: ofertas

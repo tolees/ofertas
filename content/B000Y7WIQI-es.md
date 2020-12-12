@@ -3,6 +3,7 @@ layout: post
 title: 'La Roche-Posay Kerium  Champú  125 ml al 30.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vsqb8aGDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vsqb8aGDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vsqb8aGDL._SL200_.jpg' ]
 comments: true
 category: ofertas

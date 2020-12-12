@@ -3,6 +3,7 @@ layout: post
 title: 'Dove Go Fresh granada Antitranspirante D al 39.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41atwfgMbVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41atwfgMbVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41atwfgMbVL._SL200_.jpg' ]
 comments: true
 category: ofertas

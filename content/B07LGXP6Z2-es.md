@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.00 % en The North Face Flex II S/S Camiseta de M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Vj4KTCq0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vj4KTCq0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Vj4KTCq0L._SL200_.jpg' ]
 comments: true
 category: ofertas

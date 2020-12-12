@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 87.74 % en Astrapahl Pd8002ap  Vestido para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BcwYWljJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BcwYWljJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BcwYWljJL._SL200_.jpg' ]
 comments: true
 category: ofertas

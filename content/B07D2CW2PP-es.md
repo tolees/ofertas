@@ -3,6 +3,7 @@ layout: post
 title: 'Portabebé Asiento de Cadera Cintura de T al 75.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eTd90yzML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eTd90yzML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eTd90yzML._SL200_.jpg' ]
 comments: true
 category: ofertas

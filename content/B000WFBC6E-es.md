@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.64 % en Mondaine A990.CLOCK.16SBB Reloj de pared'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51l5EBs2yPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51l5EBs2yPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51l5EBs2yPL._SL200_.jpg' ]
 comments: true
 category: ofertas

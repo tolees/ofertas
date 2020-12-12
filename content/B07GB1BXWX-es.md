@@ -3,6 +3,7 @@ layout: post
 title: '【2019】 Blackview A30 2GB RAM 16GB Dual S al 42.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e3NnmAHyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e3NnmAHyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e3NnmAHyL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Astroride Run Fire  Zapatillas de al 63.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hvVAz2HnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hvVAz2HnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hvVAz2HnL._SL200_.jpg' ]
 comments: true
 category: ofertas

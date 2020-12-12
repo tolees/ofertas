@@ -3,6 +3,7 @@ layout: post
 title: 'Panama Jack Panama 03  Botines para Muje al 48.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b5njl9TvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b5njl9TvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b5njl9TvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.48 % en Cable USB C  KEXIN Cable USB Tipo C a US'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NpFqZr0NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NpFqZr0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NpFqZr0NL._SL200_.jpg' ]
 comments: true
 category: ofertas

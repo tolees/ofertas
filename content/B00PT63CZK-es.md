@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.38 % en PURE VERINO MAN Eau De Toilette 150ML'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XAFUCH0EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XAFUCH0EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XAFUCH0EL._SL200_.jpg' ]
 comments: true
 category: ofertas

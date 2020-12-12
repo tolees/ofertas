@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.75 % en Juego de Herramientas  TECCPO Kit de Her'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511%2BMRAVy2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511%2BMRAVy2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511%2BMRAVy2L._SL200_.jpg' ]
 comments: true
 category: ofertas

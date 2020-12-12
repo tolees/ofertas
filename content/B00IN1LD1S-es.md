@@ -3,6 +3,7 @@ layout: post
 title: 'Bestway 8320539 Bomba para vaciar Piscin al 28.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o85L0F-7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31o85L0F-7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o85L0F-7L._SL200_.jpg' ]
 comments: true
 category: ofertas

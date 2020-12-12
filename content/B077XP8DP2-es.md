@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.84 % en Under Armour UA Pantalón Corto  Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412SxWAbpGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412SxWAbpGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412SxWAbpGL._SL200_.jpg' ]
 comments: true
 category: ofertas

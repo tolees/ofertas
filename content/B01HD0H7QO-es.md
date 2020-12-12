@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers by Gerli 39ti001-142  Botines pa al 54.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BQX5k-D3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BQX5k-D3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BQX5k-D3L._SL200_.jpg' ]
 comments: true
 category: ofertas

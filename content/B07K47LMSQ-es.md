@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.03 % en Formulaone Baby Children s Caps Baby Cot'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fySjS9TKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fySjS9TKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fySjS9TKL._SL200_.jpg' ]
 comments: true
 category: ofertas

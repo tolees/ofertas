@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.84 % en Silverline 399017 - Llaves combinadas co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jF8eX5U2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jF8eX5U2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jF8eX5U2L._SL200_.jpg' ]
 comments: true
 category: ofertas

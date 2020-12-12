@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.82 % en Braun Silk-épil 9 SkinSpa 9-941V - Depil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XqecfL8wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XqecfL8wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XqecfL8wL._SL200_.jpg' ]
 comments: true
 category: ofertas

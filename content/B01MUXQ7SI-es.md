@@ -3,6 +3,7 @@ layout: post
 title: 'Sparco 00975NRAZ Silla de Despacho  Negr al 42.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RUzrBYZBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RUzrBYZBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RUzrBYZBL._SL200_.jpg' ]
 comments: true
 category: ofertas

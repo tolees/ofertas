@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2730-NAPPALEAU  Zapatillas para  al 73.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sArCOdLfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sArCOdLfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sArCOdLfL._SL200_.jpg' ]
 comments: true
 category: ofertas

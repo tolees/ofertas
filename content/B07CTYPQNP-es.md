@@ -3,6 +3,7 @@ layout: post
 title: 'Conguitos Deportivo Luces Velcro  Zapato al 61.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510gPg%2By7DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510gPg%2By7DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510gPg%2By7DL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Buster  Vaqueros Straight para Ho al 70.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412IbPYaC-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412IbPYaC-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412IbPYaC-L._SL200_.jpg' ]
 comments: true
 category: ofertas

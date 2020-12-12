@@ -3,6 +3,7 @@ layout: post
 title: 'Puma 365 FF 3 CT  Zapatillas de Fútbol p al 62.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eRYVsSR4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eRYVsSR4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eRYVsSR4L._SL200_.jpg' ]
 comments: true
 category: ofertas

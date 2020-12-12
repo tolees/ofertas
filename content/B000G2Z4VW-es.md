@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.82 % en Van Allen Eclipse Pro Oficial Diana  Uni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51G-dwxReLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51G-dwxReLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51G-dwxReLL._SL200_.jpg' ]
 comments: true
 category: ofertas

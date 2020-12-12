@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Jersey de Crochet con Hombros al Ai al 70.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jxKBSdAHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jxKBSdAHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jxKBSdAHL._SL200_.jpg' ]
 comments: true
 category: ofertas

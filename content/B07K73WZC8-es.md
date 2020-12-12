@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s SS Set-in Sunset Pocket Camiseta  al 66.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G0KZTSN1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G0KZTSN1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G0KZTSN1L._SL200_.jpg' ]
 comments: true
 category: ofertas

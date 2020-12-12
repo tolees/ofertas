@@ -3,6 +3,7 @@ layout: post
 title: 'Beoplay H5 - Auriculares inalámbricos In al 32.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BGKBO9QjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BGKBO9QjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BGKBO9QjL._SL200_.jpg' ]
 comments: true
 category: ofertas

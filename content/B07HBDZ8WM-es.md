@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.94 % en Disney Minnie Mouse Minnie Mouse Flower '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uvElmATaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uvElmATaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uvElmATaL._SL200_.jpg' ]
 comments: true
 category: ofertas

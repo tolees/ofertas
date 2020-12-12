@@ -3,6 +3,7 @@ layout: post
 title: 'Bourne Legacy  4K Ultra HD + Blu-Ray  [B al 37.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KsUzhKn9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KsUzhKn9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KsUzhKn9L._SL200_.jpg' ]
 comments: true
 category: ofertas

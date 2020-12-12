@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Fleece 1/4 Zip  Sudadera ho al 51.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417D%2BRWFiVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417D%2BRWFiVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417D%2BRWFiVL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlbilla L/s Cardigan Jrs  Chaqueta al 76.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41krOtwFp0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41krOtwFp0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41krOtwFp0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Goodyear GOD4012 Llave de Rueda de Cruz  al 31.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21BPQv6AFwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21BPQv6AFwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21BPQv6AFwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Peak to Point Pantalón de Sende al 50.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lb5ggMXnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lb5ggMXnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lb5ggMXnL._SL200_.jpg' ]
 comments: true
 category: ofertas

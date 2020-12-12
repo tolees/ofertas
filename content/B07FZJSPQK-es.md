@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Tiro19 PES Jkt Sport Jacket  Homb al 42.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q45FVyZ2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q45FVyZ2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q45FVyZ2L._SL200_.jpg' ]
 comments: true
 category: ofertas

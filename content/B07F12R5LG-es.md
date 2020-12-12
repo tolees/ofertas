@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.16 % en BILLABONG Essential Crew Jersey  Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410zIBO0vrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410zIBO0vrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410zIBO0vrL._SL200_.jpg' ]
 comments: true
 category: ofertas

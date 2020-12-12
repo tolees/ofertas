@@ -3,6 +3,7 @@ layout: post
 title: 'Silicon Power SP960GBSS3S55S25 - Disco D al 53.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dGlDY9MwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dGlDY9MwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dGlDY9MwL._SL200_.jpg' ]
 comments: true
 category: ofertas

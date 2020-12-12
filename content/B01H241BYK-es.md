@@ -3,6 +3,7 @@ layout: post
 title: 'Organic Shop Soufflé Corporal Nutritivo  al 28.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T7-NMXAvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51T7-NMXAvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T7-NMXAvL._SL200_.jpg' ]
 comments: true
 category: ofertas

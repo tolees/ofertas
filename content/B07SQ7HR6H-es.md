@@ -3,6 +3,7 @@ layout: post
 title: 'WOTEK Natación Tapones para los oídos  2 al 25.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UKPOhkWIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UKPOhkWIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UKPOhkWIL._SL200_.jpg' ]
 comments: true
 category: ofertas

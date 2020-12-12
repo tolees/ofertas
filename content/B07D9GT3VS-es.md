@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Nemeziz 18.3 FG J  Zapatillas de  al 64.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r9b2H8KoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r9b2H8KoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r9b2H8KoL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Supra Titanium  Zapatillas para Hombre   al 71.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417c4cCb4IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417c4cCb4IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417c4cCb4IL._SL200_.jpg' ]
 comments: true
 category: ofertas

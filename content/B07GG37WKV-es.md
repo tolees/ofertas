@@ -3,6 +3,7 @@ layout: post
 title: 'Laura Vita - 2637  Bolsos mochila Mujer  al 66.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510kNB-FkRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510kNB-FkRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510kNB-FkRL._SL200_.jpg' ]
 comments: true
 category: ofertas

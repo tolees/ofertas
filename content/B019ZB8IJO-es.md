@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.36 % en Saturnia 8096555 8096555-Plato macetas  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DnLCc2KtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DnLCc2KtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DnLCc2KtL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.73 % en MTNG Attitude 69432  Zapatillas para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412MKgc9fuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412MKgc9fuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412MKgc9fuL._SL200_.jpg' ]
 comments: true
 category: ofertas

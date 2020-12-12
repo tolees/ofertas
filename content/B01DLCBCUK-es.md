@@ -3,6 +3,7 @@ layout: post
 title: 'Nike 833258-002  Zapatillas de Deporte p al 63.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cuXXY-9jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cuXXY-9jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cuXXY-9jL._SL200_.jpg' ]
 comments: true
 category: ofertas

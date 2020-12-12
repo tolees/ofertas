@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Play Up Short 2.0 Pantalón  al 43.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RECdYUj9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RECdYUj9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RECdYUj9L._SL200_.jpg' ]
 comments: true
 category: ofertas

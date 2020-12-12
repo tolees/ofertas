@@ -3,6 +3,7 @@ layout: post
 title: 'Brother QL700 - Impresora de etiquetas p al 47.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21RcOZD%2BwcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21RcOZD%2BwcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21RcOZD%2BwcL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fresh Foam Vongo v3  Zapatil al 60.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sc%2BtRv2lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Sc%2BtRv2lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sc%2BtRv2lL._SL200_.jpg' ]
 comments: true
 category: ofertas

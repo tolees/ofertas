@@ -3,6 +3,7 @@ layout: post
 title: 'Merrell Avalaunch Tough  Zapatillas de R al 69.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m3%2BntiFDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m3%2BntiFDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m3%2BntiFDL._SL200_.jpg' ]
 comments: true
 category: ofertas

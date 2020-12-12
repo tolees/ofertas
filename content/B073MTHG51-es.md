@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlsway L/s Pullover Knt Noos  suét al 65.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411N7mrHuGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411N7mrHuGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411N7mrHuGL._SL200_.jpg' ]
 comments: true
 category: ofertas

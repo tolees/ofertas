@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.99 % en Swarovski Brazalete Crystaldust  Gris  A'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

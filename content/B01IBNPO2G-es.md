@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.14 % en Billow Technology XS360PROR - Cámara de '
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

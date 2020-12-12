@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.31 % en VIBOX Vision 2S - Ordenador para Gaming '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hywJPiKEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hywJPiKEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hywJPiKEL._SL200_.jpg' ]
 comments: true
 category: ofertas

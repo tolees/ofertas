@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.77 % en Tom Tailor 5881902  Botas Clasicas para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fJTukyEoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fJTukyEoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fJTukyEoL._SL200_.jpg' ]
 comments: true
 category: ofertas

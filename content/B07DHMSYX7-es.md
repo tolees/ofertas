@@ -3,6 +3,7 @@ layout: post
 title: 'SUPORE Correa para Garmin Fenix 5X  Suav al 80.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4188nwk%2B5NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4188nwk%2B5NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4188nwk%2B5NL._SL200_.jpg' ]
 comments: true
 category: ofertas

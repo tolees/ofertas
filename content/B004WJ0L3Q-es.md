@@ -3,6 +3,7 @@ layout: post
 title: 'Furminator Herramienta de muda para gato al 25.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l43V5YpeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l43V5YpeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l43V5YpeL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Chaqueta repelente al agua para al 55.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TBi1xa0mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TBi1xa0mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TBi1xa0mL._SL200_.jpg' ]
 comments: true
 category: ofertas

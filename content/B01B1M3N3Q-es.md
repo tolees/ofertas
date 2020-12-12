@@ -3,6 +3,7 @@ layout: post
 title: 'WMF Ambiente-Cubertería  66 Piezas  12 c al 57.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oTcTtdSHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oTcTtdSHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oTcTtdSHL._SL200_.jpg' ]
 comments: true
 category: ofertas

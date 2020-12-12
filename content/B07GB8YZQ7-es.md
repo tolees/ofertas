@@ -3,6 +3,7 @@ layout: post
 title: 'Casio Reloj Analógico para Hombre de Cua al 29.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ABaJZZawL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ABaJZZawL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ABaJZZawL._SL200_.jpg' ]
 comments: true
 category: ofertas

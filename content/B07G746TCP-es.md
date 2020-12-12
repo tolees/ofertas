@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.03 % en BOSS Athleisure Titanium_Runn_act2  Zapa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BBOUv2-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BBOUv2-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417%2BBOUv2-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.47 % en Springfield 4.Fq.Camisa Cuadros Lace Blu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IM53RyneL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IM53RyneL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IM53RyneL._SL200_.jpg' ]
 comments: true
 category: ofertas

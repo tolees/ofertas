@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia ATS Trail Lf92  Zapatillas De D al 72.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wFRGM-7EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wFRGM-7EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wFRGM-7EL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SaintderG® Fundas para sillas Pack de 4  al 27.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n392PyEVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n392PyEVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n392PyEVL._SL200_.jpg' ]
 comments: true
 category: ofertas

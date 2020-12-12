@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlnew Maye Flare L/s Pullover CC K al 69.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418phYVFYCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418phYVFYCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418phYVFYCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J Artach Boy A  Zapatillas para Niñ al 58.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u8u8dMS2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u8u8dMS2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u8u8dMS2L._SL200_.jpg' ]
 comments: true
 category: ofertas

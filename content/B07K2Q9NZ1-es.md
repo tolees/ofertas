@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S-0MVcvgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S-0MVcvgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S-0MVcvgL._SL200_.jpg' ]
 comments: true
 category: ofertas

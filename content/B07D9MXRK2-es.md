@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.55 % en Adidas Climacool CW  Zapatillas de Entre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oqBSKI%2B%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oqBSKI%2B%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oqBSKI%2B%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

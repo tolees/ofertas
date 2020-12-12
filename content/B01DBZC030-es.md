@@ -3,6 +3,7 @@ layout: post
 title: 'Izas Rud Camisa  Hombre  Arena  XL al 47.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KDPoVcQDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KDPoVcQDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KDPoVcQDL._SL200_.jpg' ]
 comments: true
 category: ofertas

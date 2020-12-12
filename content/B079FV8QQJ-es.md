@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.25 % en Bugatti 3.11625E+11  Botas Clasicas para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o46s5Z6SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31o46s5Z6SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o46s5Z6SL._SL200_.jpg' ]
 comments: true
 category: ofertas

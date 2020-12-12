@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.35 % en s.Oliver 24400-31  Zapatos de Tacón para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519nHkH4XpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519nHkH4XpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519nHkH4XpL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Nalgene 2078-2027 - Bidón con boca estre al 37.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ui3PvzICL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ui3PvzICL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ui3PvzICL._SL200_.jpg' ]
 comments: true
 category: ofertas

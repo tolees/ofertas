@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Cross The Line Pants  Hombre  Azul  al 68.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wM1vCOYXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wM1vCOYXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wM1vCOYXL._SL200_.jpg' ]
 comments: true
 category: ofertas

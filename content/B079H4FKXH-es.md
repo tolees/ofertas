@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Garibaldi V3 Slip-on  Botas al 58.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vjIfI6SiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vjIfI6SiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vjIfI6SiL._SL200_.jpg' ]
 comments: true
 category: ofertas

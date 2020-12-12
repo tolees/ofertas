@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.50 % en Garnier Skin Active Tónico Suave Essenti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411acNyQKtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411acNyQKtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411acNyQKtL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.04 % en Tommy Jeans Hombre Original suéter Manga'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BMy8Ip-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BMy8Ip-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BMy8Ip-L._SL200_.jpg' ]
 comments: true
 category: ofertas

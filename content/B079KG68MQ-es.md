@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.48 % en G-STAR RAW Rackam Wallabee  Botas Clasic'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fCSKF3KgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fCSKF3KgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fCSKF3KgL._SL200_.jpg' ]
 comments: true
 category: ofertas

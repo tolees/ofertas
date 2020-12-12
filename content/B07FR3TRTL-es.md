@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Tri Chloe  Sandalias de Talón Abi al 61.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3123FLOSl9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3123FLOSl9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3123FLOSl9L._SL200_.jpg' ]
 comments: true
 category: ofertas

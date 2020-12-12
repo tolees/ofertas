@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.54 % en Lacoste 2010842 - Reloj analógico de pul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R2Ydyi6VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51R2Ydyi6VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51R2Ydyi6VL._SL200_.jpg' ]
 comments: true
 category: ofertas

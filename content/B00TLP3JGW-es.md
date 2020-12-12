@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.53 % en Puma Short Crew 3 pares  Calcetines unis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-yQDjsLYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-yQDjsLYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-yQDjsLYL._SL200_.jpg' ]
 comments: true
 category: ofertas

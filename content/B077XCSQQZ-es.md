@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Shop AOP tee Camiseta  Naranja  al 42.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514GlXk7fpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514GlXk7fpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514GlXk7fpL._SL200_.jpg' ]
 comments: true
 category: ofertas

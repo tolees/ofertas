@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.48 % en JACK & JONES Jcopossible tee SS Crew Nec'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SDd-0akdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SDd-0akdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SDd-0akdL._SL200_.jpg' ]
 comments: true
 category: ofertas

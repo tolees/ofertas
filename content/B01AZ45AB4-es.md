@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Court Royale Suede Zapatillas de te al 59.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Og0UCsrML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Og0UCsrML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Og0UCsrML._SL200_.jpg' ]
 comments: true
 category: ofertas

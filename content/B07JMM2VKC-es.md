@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.05 % en XTI 49012  Zapatillas para Mujer  Rosa N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-whTOz-FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-whTOz-FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-whTOz-FL._SL200_.jpg' ]
 comments: true
 category: ofertas

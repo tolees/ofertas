@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.58 % en Apple iPad Pro  10 5 pulgadas y 256GB co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dPPpBLVTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dPPpBLVTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dPPpBLVTL._SL200_.jpg' ]
 comments: true
 category: ofertas

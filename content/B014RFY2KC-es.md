@@ -3,6 +3,7 @@ layout: post
 title: 'Harry Potter Jumbo - Edición Metálica [B al 25.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MPBC5-k3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MPBC5-k3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MPBC5-k3L._SL200_.jpg' ]
 comments: true
 category: ofertas

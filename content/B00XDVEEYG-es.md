@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.16 % en Iberia Tinte Amarillo para Ropa - 70 gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WejahGEGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WejahGEGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WejahGEGL._SL200_.jpg' ]
 comments: true
 category: ofertas

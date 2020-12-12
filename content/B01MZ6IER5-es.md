@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.03 % en DAKINE de Split Roller ecuación 100L bol'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418-LIF0SkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418-LIF0SkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418-LIF0SkL._SL200_.jpg' ]
 comments: true
 category: ofertas

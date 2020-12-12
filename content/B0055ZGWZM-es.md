@@ -3,6 +3,7 @@ layout: post
 title: 'Orbegozo PB 2228 Bascula de baño electró al 50.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qid%2BOFo8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qid%2BOFo8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qid%2BOFo8L._SL200_.jpg' ]
 comments: true
 category: ofertas

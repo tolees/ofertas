@@ -3,6 +3,7 @@ layout: post
 title: 'Amazon Essentials Ae1811734 Polos Hombre al 29.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ShYMiXKKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ShYMiXKKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ShYMiXKKL._SL200_.jpg' ]
 comments: true
 category: ofertas

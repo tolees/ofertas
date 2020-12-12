@@ -3,6 +3,7 @@ layout: post
 title: 'Gucci GG0064SK Gafas de sol  Black-Grey  al 60.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Kcsl9joaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Kcsl9joaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Kcsl9joaL._SL200_.jpg' ]
 comments: true
 category: ofertas

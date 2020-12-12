@@ -3,6 +3,7 @@ layout: post
 title: 'Pandora Charms con cierre Mujer plata -  al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o6f5DTBML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o6f5DTBML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o6f5DTBML._SL200_.jpg' ]
 comments: true
 category: ofertas

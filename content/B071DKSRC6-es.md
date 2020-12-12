@@ -3,6 +3,7 @@ layout: post
 title: 'Activewear Top Deportivo Mujer   Azul  A al 66.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ahfkT%2BVXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ahfkT%2BVXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ahfkT%2BVXL._SL200_.jpg' ]
 comments: true
 category: ofertas

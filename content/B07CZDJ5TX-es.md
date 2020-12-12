@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.44 % en Nike Tanjun Racer  Zapatillas para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415lF6kn8LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415lF6kn8LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415lF6kn8LL._SL200_.jpg' ]
 comments: true
 category: ofertas

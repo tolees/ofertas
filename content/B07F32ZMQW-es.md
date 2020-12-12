@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.10 % en Salomon XA Short  Mujer  Negro  XL'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OsTm4ngtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OsTm4ngtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OsTm4ngtL._SL200_.jpg' ]
 comments: true
 category: ofertas

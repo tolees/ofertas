@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.84 % en Sony Xperia XA1 - Smartphone con Pantall'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SOfLixzPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SOfLixzPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SOfLixzPL._SL200_.jpg' ]
 comments: true
 category: ofertas

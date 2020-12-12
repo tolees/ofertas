@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Bluetooth inalámbrico in-ear al 75.40 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

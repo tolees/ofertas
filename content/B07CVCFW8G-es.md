@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.16 % en Under Armour Showstopper 2.0  Zapatillas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oSIgjXgnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oSIgjXgnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oSIgjXgnL._SL200_.jpg' ]
 comments: true
 category: ofertas

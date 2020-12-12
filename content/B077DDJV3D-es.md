@@ -3,6 +3,7 @@ layout: post
 title: 'Wonderlamp W-A000016 Portalámparas Colga al 29.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31p2aEumAUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31p2aEumAUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31p2aEumAUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'HENMI Crayones para niños pequeños  cray al 41.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pIVqDWjbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pIVqDWjbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pIVqDWjbL._SL200_.jpg' ]
 comments: true
 category: ofertas

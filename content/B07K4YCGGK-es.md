@@ -3,6 +3,7 @@ layout: post
 title: 'Antony Morato Maglia Girocollo A Righe J al 47.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-jv4L-NmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-jv4L-NmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-jv4L-NmL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Prevail  Zapatillas Unisex Adulto   al 63.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xKCA08yVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xKCA08yVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xKCA08yVL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Portwest 2085 - Pantalones Wakefield  co al 62.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414GgD2urkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414GgD2urkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414GgD2urkL._SL200_.jpg' ]
 comments: true
 category: ofertas

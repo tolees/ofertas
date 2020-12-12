@@ -3,6 +3,7 @@ layout: post
 title: 'Anni 1080P IP cámara Sistema  WiFi 2.0MP al 90.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZnZuu3azL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZnZuu3azL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZnZuu3azL._SL200_.jpg' ]
 comments: true
 category: ofertas

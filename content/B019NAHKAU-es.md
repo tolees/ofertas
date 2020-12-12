@@ -3,6 +3,7 @@ layout: post
 title: 'Ansell 92-220/8.5-9 VersaTouch Nitrilo g al 63.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tGgbgN-mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tGgbgN-mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tGgbgN-mL._SL200_.jpg' ]
 comments: true
 category: ofertas

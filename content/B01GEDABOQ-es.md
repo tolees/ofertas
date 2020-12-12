@@ -3,6 +3,7 @@ layout: post
 title: 'Black Crevice Abrigo Corto Taupe ES 46   al 85.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gu8majJAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gu8majJAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gu8majJAL._SL200_.jpg' ]
 comments: true
 category: ofertas

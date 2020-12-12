@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Stone Stack Jfit Gorra  Hombre  G al 67.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BTuu9VVCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BTuu9VVCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BTuu9VVCL._SL200_.jpg' ]
 comments: true
 category: ofertas

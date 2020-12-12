@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.27 % en Esky® ES-KF02 Localizador Inalámbrico de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412jUmodVSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412jUmodVSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412jUmodVSL._SL200_.jpg' ]
 comments: true
 category: ofertas

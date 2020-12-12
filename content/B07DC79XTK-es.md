@@ -3,6 +3,7 @@ layout: post
 title: 'LE COQ SPORTIF Carcans Sport Dress Blue  al 26.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TU73M2qwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TU73M2qwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TU73M2qwL._SL200_.jpg' ]
 comments: true
 category: ofertas

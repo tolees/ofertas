@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.02 % en Calcetines deportivos de alto rendimient'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319bqOPY-SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319bqOPY-SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319bqOPY-SL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.62 % en Acer RC271U 27" Wide Quad HD IPS Negro  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VhcJ9K59L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VhcJ9K59L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VhcJ9K59L._SL200_.jpg' ]
 comments: true
 category: ofertas

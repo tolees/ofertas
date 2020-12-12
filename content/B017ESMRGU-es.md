@@ -3,6 +3,7 @@ layout: post
 title: 'Kiwi Saint Tropez Sujetador de Bikini Tr al 93.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S1IqXykdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S1IqXykdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S1IqXykdL._SL200_.jpg' ]
 comments: true
 category: ofertas

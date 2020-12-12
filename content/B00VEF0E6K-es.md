@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.24 % en JVC HA-SR225-R-E - Auriculares de diadem'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iIP7ZdnkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iIP7ZdnkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iIP7ZdnkL._SL200_.jpg' ]
 comments: true
 category: ofertas

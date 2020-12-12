@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.91 % en Puma Jaab XT Men s  Zapatillas de Deport'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lc4ZCCpOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Lc4ZCCpOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lc4ZCCpOL._SL200_.jpg' ]
 comments: true
 category: ofertas

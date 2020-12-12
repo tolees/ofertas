@@ -3,6 +3,7 @@ layout: post
 title: 'SMILODOX - Sandalias para Hombre  Color  al 71.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wYyxhC9sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wYyxhC9sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wYyxhC9sL._SL200_.jpg' ]
 comments: true
 category: ofertas

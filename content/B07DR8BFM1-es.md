@@ -3,6 +3,7 @@ layout: post
 title: 'Cortabordes  28V TECCPO 4.0Ah Cortaborde al 55.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414AM7GTX4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414AM7GTX4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414AM7GTX4L._SL200_.jpg' ]
 comments: true
 category: ofertas

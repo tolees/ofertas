@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.47 % en Philips myLiving Cypress - Lámpara colga'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UzWj1-6aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UzWj1-6aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UzWj1-6aL._SL200_.jpg' ]
 comments: true
 category: ofertas

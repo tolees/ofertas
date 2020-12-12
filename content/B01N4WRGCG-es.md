@@ -3,6 +3,7 @@ layout: post
 title: 'Bolsa de deporte grande de alta calidad  al 59.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417HWN5GD%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417HWN5GD%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417HWN5GD%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

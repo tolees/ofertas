@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en The North Face T0CMH9 Chaqueta Stratos  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-r4je24RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-r4je24RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-r4je24RL._SL200_.jpg' ]
 comments: true
 category: ofertas

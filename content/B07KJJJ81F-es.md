@@ -3,6 +3,7 @@ layout: post
 title: 'NGS WILDJAM - Altavoz portátil USB/SD/Bl al 31.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41injuL2llL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41injuL2llL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41injuL2llL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Arsenal FC Fan Cat tee Camiseta  Ho al 60.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jm3iRqm1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jm3iRqm1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jm3iRqm1L._SL200_.jpg' ]
 comments: true
 category: ofertas

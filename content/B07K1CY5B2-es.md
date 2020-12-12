@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.50 % en adidas Estro 19 JSY T-Shirt  Hombre  Sol'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BK1rvJWfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BK1rvJWfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BK1rvJWfL._SL200_.jpg' ]
 comments: true
 category: ofertas

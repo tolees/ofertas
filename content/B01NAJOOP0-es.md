@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Irvington LTR Chukka WP  Botas  al 71.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o9XhFpMLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o9XhFpMLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o9XhFpMLL._SL200_.jpg' ]
 comments: true
 category: ofertas

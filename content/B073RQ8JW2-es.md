@@ -3,6 +3,7 @@ layout: post
 title: 'RIP CURL Mirage Medina Edge 20" Boardsh  al 46.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510u9KElXtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510u9KElXtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510u9KElXtL._SL200_.jpg' ]
 comments: true
 category: ofertas

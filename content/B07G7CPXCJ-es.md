@@ -3,6 +3,7 @@ layout: post
 title: 'Moussel Gel y jabón - 2 de 3 piezas - To al 47.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GVdmdx19L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVdmdx19L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GVdmdx19L._SL200_.jpg' ]
 comments: true
 category: ofertas

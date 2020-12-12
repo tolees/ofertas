@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.54 % en Pepe Jeans Bona PL401253  Chaqueta para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dLwdEp4yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dLwdEp4yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dLwdEp4yL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Guess - Jade  Bolsos bandolera Mujer  Ro al 48.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BIFQvGCRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BIFQvGCRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BIFQvGCRL._SL200_.jpg' ]
 comments: true
 category: ofertas

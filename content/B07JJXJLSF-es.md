@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 83189  Shopper para Mujer   Beig al 62.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mANNTsOuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mANNTsOuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mANNTsOuL._SL200_.jpg' ]
 comments: true
 category: ofertas

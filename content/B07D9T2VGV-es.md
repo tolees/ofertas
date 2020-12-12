@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.00 % en Levi s Graphic Po Hoodie-B Capucha  Gris'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D2%2B6harZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D2%2B6harZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D2%2B6harZL._SL200_.jpg' ]
 comments: true
 category: ofertas

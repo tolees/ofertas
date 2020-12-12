@@ -3,6 +3,7 @@ layout: post
 title: 'oodji Ultra Mujer Camiseta de Algodón co al 42.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wW5GBgG%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wW5GBgG%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wW5GBgG%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

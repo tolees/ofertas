@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.76 % en EVGA GeForce GTX 1070 FTW2 Gaming  8 GB '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51roWIpUsCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51roWIpUsCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51roWIpUsCL._SL200_.jpg' ]
 comments: true
 category: ofertas

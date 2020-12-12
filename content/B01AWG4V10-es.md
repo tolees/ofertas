@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.96 % en LG 27MP38VQ-B - Monitor para PC IPS/LED '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4146RRd0jEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4146RRd0jEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4146RRd0jEL._SL200_.jpg' ]
 comments: true
 category: ofertas

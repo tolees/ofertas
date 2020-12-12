@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.33 % en VERO MODA 10182070  Jersey Para Mujer  N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kgo54fgvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kgo54fgvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kgo54fgvL._SL200_.jpg' ]
 comments: true
 category: ofertas

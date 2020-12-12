@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel C6K Print Punto-Cruz S-Ca Cami al 40.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411Ncp-gmZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411Ncp-gmZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411Ncp-gmZL._SL200_.jpg' ]
 comments: true
 category: ofertas

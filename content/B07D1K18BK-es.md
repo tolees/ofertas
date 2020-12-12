@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Game 6  Zapatillas de Tenis pa al 62.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414VXC19t8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414VXC19t8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414VXC19t8L._SL200_.jpg' ]
 comments: true
 category: ofertas

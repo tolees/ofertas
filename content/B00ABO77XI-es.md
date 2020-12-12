@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch Professional - Taladro percutor a  al 46.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X0ODpVeCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X0ODpVeCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X0ODpVeCL._SL200_.jpg' ]
 comments: true
 category: ofertas

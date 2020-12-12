@@ -3,6 +3,7 @@ layout: post
 title: 'Fred Perry M6000  Polo para Hombre al 41.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lIAfhqq2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lIAfhqq2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lIAfhqq2L._SL200_.jpg' ]
 comments: true
 category: ofertas

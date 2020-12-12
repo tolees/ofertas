@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.89 % en Padi Home Minibatidora  Rápido y Sano Mi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418eBONXPCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418eBONXPCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418eBONXPCL._SL200_.jpg' ]
 comments: true
 category: ofertas

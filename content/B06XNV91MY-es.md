@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Bali II Polo  Hombre  Rojo  S al 25.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JtIacpTiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JtIacpTiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JtIacpTiL._SL200_.jpg' ]
 comments: true
 category: ofertas

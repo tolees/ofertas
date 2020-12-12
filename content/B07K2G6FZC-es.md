@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.74 % en Blend Shorts  Pantalones cortos para Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kI1GgYiUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kI1GgYiUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kI1GgYiUL._SL200_.jpg' ]
 comments: true
 category: ofertas

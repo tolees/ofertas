@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.49 % en ALCATEL 3L Smartphone Quad Core 1.28 GHz'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hnzWf7nlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hnzWf7nlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hnzWf7nlL._SL200_.jpg' ]
 comments: true
 category: ofertas

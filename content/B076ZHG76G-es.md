@@ -3,6 +3,7 @@ layout: post
 title: 'LANGRIA Almohada Cervical con Capucha 6- al 80.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z2ndvOrnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z2ndvOrnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z2ndvOrnL._SL200_.jpg' ]
 comments: true
 category: ofertas

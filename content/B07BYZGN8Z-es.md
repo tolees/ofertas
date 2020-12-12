@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.73 % en Hackett London HKT 1 Rugby  Polo para Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zhGzVgqlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zhGzVgqlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zhGzVgqlL._SL200_.jpg' ]
 comments: true
 category: ofertas

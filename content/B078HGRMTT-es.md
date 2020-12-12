@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.81 % en Nike Ebernon Low Prem Zapatos de Balonce'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413gzuz4O7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413gzuz4O7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413gzuz4O7L._SL200_.jpg' ]
 comments: true
 category: ofertas

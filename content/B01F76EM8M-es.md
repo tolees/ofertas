@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver 25344  Botines para Mujer  Negr al 82.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AWkDR4t9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AWkDR4t9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AWkDR4t9L._SL200_.jpg' ]
 comments: true
 category: ofertas

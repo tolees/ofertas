@@ -3,6 +3,7 @@ layout: post
 title: 'Collar Mujer Plata de Ley 925 Brillante  al 77.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZPtQPldfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZPtQPldfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZPtQPldfL._SL200_.jpg' ]
 comments: true
 category: ofertas

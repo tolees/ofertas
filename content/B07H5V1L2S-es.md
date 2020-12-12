@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.10 % en G-STAR RAW 5620 Elwood Custom Mid Waist '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SeYH0KmeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SeYH0KmeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SeYH0KmeL._SL200_.jpg' ]
 comments: true
 category: ofertas

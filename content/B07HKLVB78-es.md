@@ -3,6 +3,7 @@ layout: post
 title: 'Mayoral 4440-30-4 Sudadera con Capucha   al 67.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bMp5toSDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bMp5toSDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bMp5toSDL._SL200_.jpg' ]
 comments: true
 category: ofertas

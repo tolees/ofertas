@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi 25024  Botas para Mujer  Gri al 29.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tG1yX%2BB6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tG1yX%2BB6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tG1yX%2BB6L._SL200_.jpg' ]
 comments: true
 category: ofertas

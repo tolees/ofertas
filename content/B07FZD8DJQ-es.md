@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.66 % en RIP CURL Puffer Pocket Jacket Chaqueta  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ShuKcp6WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ShuKcp6WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ShuKcp6WL._SL200_.jpg' ]
 comments: true
 category: ofertas

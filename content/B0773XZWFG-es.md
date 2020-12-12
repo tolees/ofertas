@@ -3,6 +3,7 @@ layout: post
 title: 'adidas NMD_R1 STLT PK  Zapatillas para H al 58.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KlymZaDIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KlymZaDIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KlymZaDIL._SL200_.jpg' ]
 comments: true
 category: ofertas

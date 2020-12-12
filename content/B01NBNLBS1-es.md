@@ -3,6 +3,7 @@ layout: post
 title: 'RED WAGON Vestido de Manga Corta con Par al 59.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XoXDW67ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XoXDW67ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XoXDW67ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

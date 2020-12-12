@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Top  Chanclas para Unisex Adul al 42.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41upc30LcwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41upc30LcwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41upc30LcwL._SL200_.jpg' ]
 comments: true
 category: ofertas

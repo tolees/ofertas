@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.52 % en Lacoste Straightset BL 1 CAM NVY  Zapati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XPw6nPLLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XPw6nPLLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XPw6nPLLL._SL200_.jpg' ]
 comments: true
 category: ofertas

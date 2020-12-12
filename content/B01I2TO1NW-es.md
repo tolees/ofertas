@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 996EO1E900  vestido Mu al 90.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RMmF8NFiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RMmF8NFiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RMmF8NFiL._SL200_.jpg' ]
 comments: true
 category: ofertas

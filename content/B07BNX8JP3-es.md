@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.04 % en Columbia Peakfreak Venture Low Suede WP '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415KOK5GAYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415KOK5GAYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415KOK5GAYL._SL200_.jpg' ]
 comments: true
 category: ofertas

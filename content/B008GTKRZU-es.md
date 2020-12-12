@@ -3,6 +3,7 @@ layout: post
 title: 'Kärcher Manguera espiral basic  2.645-17 al 34.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414a2GNhH7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414a2GNhH7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414a2GNhH7L._SL200_.jpg' ]
 comments: true
 category: ofertas

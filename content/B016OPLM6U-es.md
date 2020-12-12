@@ -3,6 +3,7 @@ layout: post
 title: 'Jimmy Choo Cora/S 6P J33 56  Gafas de So al 73.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KJY2ZaOnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KJY2ZaOnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KJY2ZaOnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.30 % en Superdry Vintage Logo Fade Mid Weight T '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BZH68CWhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BZH68CWhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BZH68CWhL._SL200_.jpg' ]
 comments: true
 category: ofertas

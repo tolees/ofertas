@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.01 % en Nike Pantheos  Zapatillas de Gimnasia pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YhBxwQ3oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YhBxwQ3oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YhBxwQ3oL._SL200_.jpg' ]
 comments: true
 category: ofertas

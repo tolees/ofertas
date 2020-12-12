@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.15 % en Trust Gaming GXT 340 - Auriculares gamin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bm487cqbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bm487cqbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bm487cqbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Reversible Webbing Belt Cin al 50.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tgx92ZhsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tgx92ZhsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tgx92ZhsL._SL200_.jpg' ]
 comments: true
 category: ofertas

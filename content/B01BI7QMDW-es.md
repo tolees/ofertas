@@ -3,6 +3,7 @@ layout: post
 title: 'Lisciani – 53384 – Juegos Educatifs – la al 62.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61%2BHWvbPLOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61%2BHWvbPLOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61%2BHWvbPLOL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.53 % en DeWalt DCL040-XJ Linterna Cabeza rotativ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yRQ93SVuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yRQ93SVuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yRQ93SVuL._SL200_.jpg' ]
 comments: true
 category: ofertas

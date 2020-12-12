@@ -3,6 +3,7 @@ layout: post
 title: 'Cala para Look con tornillos Look Keo-Gr al 27.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cAj9JNaVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cAj9JNaVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cAj9JNaVL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA W Blur  Zapatillas de En al 68.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416TOToS2zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416TOToS2zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416TOToS2zL._SL200_.jpg' ]
 comments: true
 category: ofertas

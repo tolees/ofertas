@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.05 % en Love Moschino Casual Dresses Vestido  Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YsGum5T6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YsGum5T6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YsGum5T6L._SL200_.jpg' ]
 comments: true
 category: ofertas

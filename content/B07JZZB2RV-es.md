@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.58 % en Schneider Electric sc5imt23212 multímetr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JUyEh%2Bg4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JUyEh%2Bg4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JUyEh%2Bg4L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Fontee Medallas  24Pcs Ganadores Medalla al 33.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bqu1rFY0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bqu1rFY0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bqu1rFY0L._SL200_.jpg' ]
 comments: true
 category: ofertas

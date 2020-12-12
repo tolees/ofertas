@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.83 % en The North Face Easy Camiseta  Hombre  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AO5RGjIeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AO5RGjIeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AO5RGjIeL._SL200_.jpg' ]
 comments: true
 category: ofertas

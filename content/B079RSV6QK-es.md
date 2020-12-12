@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Suna Suéter  Negro  Black 999 al 79.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416XJVZ1fkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416XJVZ1fkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416XJVZ1fkL._SL200_.jpg' ]
 comments: true
 category: ofertas

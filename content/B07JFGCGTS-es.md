@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Tj3290 Camiseta  Marfil  Farine  al 44.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y8mGm4RDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Y8mGm4RDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y8mGm4RDL._SL200_.jpg' ]
 comments: true
 category: ofertas

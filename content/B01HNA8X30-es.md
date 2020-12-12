@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.99 % en Road Rage'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512d%2BcJ0jrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512d%2BcJ0jrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512d%2BcJ0jrL._SL200_.jpg' ]
 comments: true
 category: ofertas

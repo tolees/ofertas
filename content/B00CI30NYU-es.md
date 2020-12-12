@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.22 % en NANOCABLE 10.32.1002-OEM - Cable de tele'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z3MEqBFvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z3MEqBFvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Z3MEqBFvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Cashed Jeans  Azul  Denim GL6 al 65.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j2tdtzYUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j2tdtzYUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j2tdtzYUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'MP3 BENJIE 16GB 2.4" Reproductor de MP3  al 49.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XkOqAZdfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XkOqAZdfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XkOqAZdfL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 108ee2f004  Camisa Hombre  Azul   al 66.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D09j1I1gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D09j1I1gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D09j1I1gL._SL200_.jpg' ]
 comments: true
 category: ofertas

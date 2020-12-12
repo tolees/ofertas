@@ -3,6 +3,7 @@ layout: post
 title: 'find. Camisa de Rayas con Hombros al Air al 66.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w0uMmuoDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w0uMmuoDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w0uMmuoDL._SL200_.jpg' ]
 comments: true
 category: ofertas

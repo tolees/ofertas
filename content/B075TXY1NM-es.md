@@ -3,6 +3,7 @@ layout: post
 title: 'Silver HT 93036 - Cable impresora USB ti al 62.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Fkxi-RQ7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Fkxi-RQ7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Fkxi-RQ7L._SL200_.jpg' ]
 comments: true
 category: ofertas

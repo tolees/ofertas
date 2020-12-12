@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.21 % en L Oréal Professionnel  Laca - 150 ml.'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VH1a0J5xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VH1a0J5xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VH1a0J5xL._SL200_.jpg' ]
 comments: true
 category: ofertas

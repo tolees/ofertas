@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Adela  Zapatillas para Mujer  Azul  al 55.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bNF9iT4tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bNF9iT4tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bNF9iT4tL._SL200_.jpg' ]
 comments: true
 category: ofertas

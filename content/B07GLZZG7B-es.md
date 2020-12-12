@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Mock Horn Scuba  Falda para Muj al 62.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UkNhQvNFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UkNhQvNFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UkNhQvNFL._SL200_.jpg' ]
 comments: true
 category: ofertas

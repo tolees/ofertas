@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Olaia Neceser de Viaje  22 cm al 35.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51K2nkTUaTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51K2nkTUaTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51K2nkTUaTL._SL200_.jpg' ]
 comments: true
 category: ofertas

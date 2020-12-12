@@ -3,6 +3,7 @@ layout: post
 title: 'Disney Mickey 4809  Pijama para Niños  A al 32.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bCTYhYB0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bCTYhYB0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bCTYhYB0L._SL200_.jpg' ]
 comments: true
 category: ofertas

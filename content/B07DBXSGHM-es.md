@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Vikky Ribbon Jr  Zapatillas para Ni al 65.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i-aF9uCUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31i-aF9uCUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i-aF9uCUL._SL200_.jpg' ]
 comments: true
 category: ofertas

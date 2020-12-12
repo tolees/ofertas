@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Trim Lined 5545424  Parka para  al 78.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ClcqUr5UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ClcqUr5UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ClcqUr5UL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.74 % en Sanicat Hygiene + Arena Absorbente - 10L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31G5Kh9ZMRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31G5Kh9ZMRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31G5Kh9ZMRL._SL200_.jpg' ]
 comments: true
 category: ofertas

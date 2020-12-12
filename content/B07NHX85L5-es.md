@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcomason tee SS Crew Neck W al 25.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lDvGtx3qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lDvGtx3qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lDvGtx3qL._SL200_.jpg' ]
 comments: true
 category: ofertas

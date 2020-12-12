@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Crisis High  Zapatillas de Skat al 60.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LqMEpRVVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LqMEpRVVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LqMEpRVVL._SL200_.jpg' ]
 comments: true
 category: ofertas

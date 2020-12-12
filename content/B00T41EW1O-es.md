@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.53 % en Bandai Star Wars 1/12 C-3po [ Japan Impo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413QsOUqUmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413QsOUqUmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413QsOUqUmL._SL200_.jpg' ]
 comments: true
 category: ofertas

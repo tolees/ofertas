@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.25 % en Clarks Tilden Cap  Zapatos de Cordones D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vHUfytVQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vHUfytVQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vHUfytVQL._SL200_.jpg' ]
 comments: true
 category: ofertas

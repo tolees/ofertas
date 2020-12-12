@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.15 % en s.Oliver in Velouroptik  Chaqueta para N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z1D6dXa4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z1D6dXa4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z1D6dXa4L._SL200_.jpg' ]
 comments: true
 category: ofertas

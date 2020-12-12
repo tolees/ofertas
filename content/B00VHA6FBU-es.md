@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Dickies TW357  Sudadera con Capucha para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AMBZclwFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AMBZclwFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AMBZclwFL._SL200_.jpg' ]
 comments: true
 category: ofertas

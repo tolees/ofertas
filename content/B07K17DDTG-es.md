@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.40 % en adidas Fortarun X CF K  Zapatillas de Ru'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4123DxXJKZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4123DxXJKZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4123DxXJKZL._SL200_.jpg' ]
 comments: true
 category: ofertas

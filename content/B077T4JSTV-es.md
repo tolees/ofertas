@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.54 % en Mesa de ping-pong de IFOYO de 1 8 m  4 p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MIrQUAE6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MIrQUAE6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MIrQUAE6L._SL200_.jpg' ]
 comments: true
 category: ofertas

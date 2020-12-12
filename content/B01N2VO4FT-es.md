@@ -3,6 +3,7 @@ layout: post
 title: 'GUESS M64b29w80v0  Pantalones para Hombr al 71.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z202JBuTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z202JBuTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Z202JBuTL._SL200_.jpg' ]
 comments: true
 category: ofertas

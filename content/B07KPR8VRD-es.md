@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.37 % en DC Apparel Square Star Sweat Fleece Top '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410ANOiECbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410ANOiECbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410ANOiECbL._SL200_.jpg' ]
 comments: true
 category: ofertas

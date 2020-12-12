@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Nemeziz 18.4 FxG J  Zapatillas de al 62.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B6T1RSCOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31B6T1RSCOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B6T1RSCOL._SL200_.jpg' ]
 comments: true
 category: ofertas

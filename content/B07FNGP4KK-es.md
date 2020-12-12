@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjestructure Knit Crew Neck al 48.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D5dX7UuDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31D5dX7UuDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D5dX7UuDL._SL200_.jpg' ]
 comments: true
 category: ofertas

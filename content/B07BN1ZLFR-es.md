@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Asher V Toddler  Zapatillas para Be al 62.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iodKTrgKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iodKTrgKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iodKTrgKL._SL200_.jpg' ]
 comments: true
 category: ofertas

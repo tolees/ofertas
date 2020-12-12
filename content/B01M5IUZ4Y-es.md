@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 6024/S JB TJD 99  Gafas de  al 69.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31madZSxIsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31madZSxIsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31madZSxIsL._SL200_.jpg' ]
 comments: true
 category: ofertas

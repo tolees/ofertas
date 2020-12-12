@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Sadie Stripe Blusa  Blanco  Whi al 64.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mNH8pyflL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mNH8pyflL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mNH8pyflL._SL200_.jpg' ]
 comments: true
 category: ofertas

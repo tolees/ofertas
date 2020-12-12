@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.56 % en Daniel Wellington - Reloj analógico para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h-FrsXTML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h-FrsXTML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h-FrsXTML._SL200_.jpg' ]
 comments: true
 category: ofertas

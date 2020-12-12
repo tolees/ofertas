@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.40 % en Lee Logo tee  Camiseta Hombre  Marfil  B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415d3hHAX%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415d3hHAX%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415d3hHAX%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

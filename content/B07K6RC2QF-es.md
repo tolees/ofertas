@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en Huevo vibrador con mando a distancia Oh!'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RjmvZXpiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RjmvZXpiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RjmvZXpiL._SL200_.jpg' ]
 comments: true
 category: ofertas

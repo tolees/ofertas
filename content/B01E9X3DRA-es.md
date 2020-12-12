@@ -3,6 +3,7 @@ layout: post
 title: 'OUTAD 500ml Botella Térmica en Acero Ino al 66.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TdoczqPCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TdoczqPCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TdoczqPCL._SL200_.jpg' ]
 comments: true
 category: ofertas

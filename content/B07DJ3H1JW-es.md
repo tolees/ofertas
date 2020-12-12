@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Nebula 4 X 4 B ABX a  Botas Chukk al 66.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iBPEAsGcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iBPEAsGcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iBPEAsGcL._SL200_.jpg' ]
 comments: true
 category: ofertas

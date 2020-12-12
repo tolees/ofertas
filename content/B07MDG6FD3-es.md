@@ -3,6 +3,7 @@ layout: post
 title: 'MYEUSSN - Biombo para Separar Espacios   al 34.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ocq3I0MaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ocq3I0MaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ocq3I0MaL._SL200_.jpg' ]
 comments: true
 category: ofertas

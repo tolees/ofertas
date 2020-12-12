@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Trace Fern  Botas Slouch para Muj al 77.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qN22ZxAwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qN22ZxAwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qN22ZxAwL._SL200_.jpg' ]
 comments: true
 category: ofertas

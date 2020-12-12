@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.56 % en Gant TG. Logo Full Zip Hoodie  Vestido N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LbGDQjWWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LbGDQjWWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LbGDQjWWL._SL200_.jpg' ]
 comments: true
 category: ofertas

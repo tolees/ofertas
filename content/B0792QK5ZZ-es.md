@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Adizero Prime SP  Zapatillas de A al 76.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Eu0Hy9VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417Eu0Hy9VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Eu0Hy9VL._SL200_.jpg' ]
 comments: true
 category: ofertas

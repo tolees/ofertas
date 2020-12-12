@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.32 % en Lancôme Hydra Zen Neurocalm Yeux Contorn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31R9w4E-HYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31R9w4E-HYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31R9w4E-HYL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Autopmall - Localizador GPS Solar para M al 28.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LAmeDMUxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LAmeDMUxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LAmeDMUxL._SL200_.jpg' ]
 comments: true
 category: ofertas

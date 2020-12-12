@@ -3,6 +3,7 @@ layout: post
 title: 'Prisma Natural Colagen Plus Daily - 300  al 31.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dbBtSiz6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dbBtSiz6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dbBtSiz6L._SL200_.jpg' ]
 comments: true
 category: ofertas

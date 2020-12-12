@@ -3,6 +3,7 @@ layout: post
 title: 'Seac RAA Long EVO Camiseta para Snorkeli al 34.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iz90M3SBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iz90M3SBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iz90M3SBL._SL200_.jpg' ]
 comments: true
 category: ofertas

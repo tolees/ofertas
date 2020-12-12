@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.81 % en Chapuis MO325N Driza de poliéster - 200 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61zKZrure5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61zKZrure5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61zKZrure5L._SL200_.jpg' ]
 comments: true
 category: ofertas

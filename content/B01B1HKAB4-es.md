@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.97 % en USAG U00920119 - Juego de 5 Destornillad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BJhJhVlHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BJhJhVlHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BJhJhVlHL._SL200_.jpg' ]
 comments: true
 category: ofertas

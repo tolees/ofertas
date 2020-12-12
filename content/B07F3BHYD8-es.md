@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.10 % en Michael Kors Addie Lace Up  Zapatillas A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G7uShPaOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G7uShPaOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G7uShPaOL._SL200_.jpg' ]
 comments: true
 category: ofertas

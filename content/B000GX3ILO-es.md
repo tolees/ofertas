@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.03 % en Invicta 8942 Pro Diver Reloj para Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jb6IffO%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jb6IffO%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jb6IffO%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

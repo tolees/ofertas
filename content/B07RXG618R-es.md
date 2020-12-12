@@ -3,6 +3,7 @@ layout: post
 title: 'Guirnalda de luces exterior e interior d al 36.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lyz3OnMgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lyz3OnMgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lyz3OnMgL._SL200_.jpg' ]
 comments: true
 category: ofertas

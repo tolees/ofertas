@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.22 % en Vulkan Tensión Dinámica Faja Lumbar Lige'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tYTNbq6ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tYTNbq6ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tYTNbq6ML._SL200_.jpg' ]
 comments: true
 category: ofertas

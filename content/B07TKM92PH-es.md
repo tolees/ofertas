@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 99.89 % en [ 2019 Prime Day ]Vestido Playa Largo Ve'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bgjfgulvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bgjfgulvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bgjfgulvL._SL200_.jpg' ]
 comments: true
 category: ofertas

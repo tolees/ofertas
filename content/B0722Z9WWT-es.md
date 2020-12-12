@@ -3,6 +3,7 @@ layout: post
 title: 'Asics T718N  Zapatillas Hombre  Negro  B al 59.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417ROwWE%2BHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417ROwWE%2BHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417ROwWE%2BHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'TOM TAILOR Denim 35550120071  Chaqueta P al 63.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416R9tbWDyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416R9tbWDyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416R9tbWDyL._SL200_.jpg' ]
 comments: true
 category: ofertas

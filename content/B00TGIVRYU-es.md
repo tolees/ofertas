@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.90 % en Samsung MZ-M5E1T0BW 850 EVO mSATA 1TB - '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B7QxHEgHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51B7QxHEgHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B7QxHEgHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'AEVOBAS Batidoras de Mano 1000W  5 en 1  al 47.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AdGFYS%2BrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AdGFYS%2BrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AdGFYS%2BrL._SL200_.jpg' ]
 comments: true
 category: ofertas

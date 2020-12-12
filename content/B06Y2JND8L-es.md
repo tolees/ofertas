@@ -3,6 +3,7 @@ layout: post
 title: 'Police Sonnenbrille SPL160M Gafas de Sol al 45.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Bk0bBa4QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Bk0bBa4QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Bk0bBa4QL._SL200_.jpg' ]
 comments: true
 category: ofertas

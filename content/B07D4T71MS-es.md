@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Nanook  Zapatillas Altas Unisex Ni al 74.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fTIa3bScL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fTIa3bScL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fTIa3bScL._SL200_.jpg' ]
 comments: true
 category: ofertas

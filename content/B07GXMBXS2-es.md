@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.02 % en Cortapelos Vello Nariz y Oreja - 3 en 1 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SxVhtHE%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SxVhtHE%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SxVhtHE%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

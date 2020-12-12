@@ -3,6 +3,7 @@ layout: post
 title: 'Lelo Picobong Remoji Diver Egg Vibrador  al 65.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Go7-vuh1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Go7-vuh1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Go7-vuh1L._SL200_.jpg' ]
 comments: true
 category: ofertas

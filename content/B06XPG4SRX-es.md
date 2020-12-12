@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Sonicare Diamond Clean HX8491/03 al 43.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hitgkRV5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hitgkRV5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hitgkRV5L._SL200_.jpg' ]
 comments: true
 category: ofertas

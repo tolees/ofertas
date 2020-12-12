@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.82 % en Puma Originals Daypack Mochilla  Unisex '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FgYDUAGoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FgYDUAGoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FgYDUAGoL._SL200_.jpg' ]
 comments: true
 category: ofertas

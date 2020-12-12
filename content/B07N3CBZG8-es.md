@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.31 % en Munich NOU  Zapatillas Unisex Adulto   N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hEsLE2eiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hEsLE2eiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hEsLE2eiL._SL200_.jpg' ]
 comments: true
 category: ofertas

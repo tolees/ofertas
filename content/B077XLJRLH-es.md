@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit - 028ea1o047  Carteras de mano Mu al 67.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31befs9%2BrsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31befs9%2BrsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31befs9%2BrsL._SL200_.jpg' ]
 comments: true
 category: ofertas

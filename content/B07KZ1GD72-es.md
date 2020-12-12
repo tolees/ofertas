@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 2.T.Ap.Pv19.Cuello Bajo L Ca al 70.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nBZ%2BQrZ7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nBZ%2BQrZ7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nBZ%2BQrZ7L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.46 % en Vero Moda Vmasta Milo SS Suki Dress  Ves'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KfXX2UWKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KfXX2UWKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KfXX2UWKL._SL200_.jpg' ]
 comments: true
 category: ofertas

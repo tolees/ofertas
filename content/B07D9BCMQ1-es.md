@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger 2p LR Trunk  Bóxer Hombre al 58.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FFEaFJ7RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FFEaFJ7RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FFEaFJ7RL._SL200_.jpg' ]
 comments: true
 category: ofertas

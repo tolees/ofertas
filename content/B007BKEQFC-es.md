@@ -3,6 +3,7 @@ layout: post
 title: 'Vanguard BBH-100 - Rótula de bola de ale al 34.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JmlaxO8cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JmlaxO8cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JmlaxO8cL._SL200_.jpg' ]
 comments: true
 category: ofertas

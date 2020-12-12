@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.87 % en Tommy Hilfiger Th Round Belt 3.0  Cintur'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YOmdWtiuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YOmdWtiuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YOmdWtiuL._SL200_.jpg' ]
 comments: true
 category: ofertas

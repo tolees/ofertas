@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling ART M Bolsa de tela y playa  58  al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VhzWK1c8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VhzWK1c8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VhzWK1c8L._SL200_.jpg' ]
 comments: true
 category: ofertas

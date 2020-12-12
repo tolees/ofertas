@@ -3,6 +3,7 @@ layout: post
 title: 'DeWalt DCF880M2-QW Llave Impacto XR 18V  al 28.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nlnuC%2BavL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nlnuC%2BavL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nlnuC%2BavL._SL200_.jpg' ]
 comments: true
 category: ofertas

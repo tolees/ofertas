@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.23 % en Geox J Kalispera B  Zapatillas Altas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tO5f1dciL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tO5f1dciL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tO5f1dciL._SL200_.jpg' ]
 comments: true
 category: ofertas

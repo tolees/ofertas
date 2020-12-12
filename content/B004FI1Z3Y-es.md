@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Casio - Mujer W-214H-4A al 54.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Yq3Ag53LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Yq3Ag53LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Yq3Ag53LL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Triple Canyon Camisa de Manga C al 41.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HNJ55warL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HNJ55warL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HNJ55warL._SL200_.jpg' ]
 comments: true
 category: ofertas

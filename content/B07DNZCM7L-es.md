@@ -3,6 +3,7 @@ layout: post
 title: 'Eastpak TRANVERZ L Equipaje de Mano  79  al 41.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Pd8qyHwhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Pd8qyHwhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Pd8qyHwhL._SL200_.jpg' ]
 comments: true
 category: ofertas

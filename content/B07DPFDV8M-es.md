@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.29 % en Love Moschino - Borsa Pebble Grain Pu  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518SPL1JfFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518SPL1JfFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518SPL1JfFL._SL200_.jpg' ]
 comments: true
 category: ofertas

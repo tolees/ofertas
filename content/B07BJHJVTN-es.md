@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 Deconstructed Skinny Jea al 71.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413rTLy5IAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413rTLy5IAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413rTLy5IAL._SL200_.jpg' ]
 comments: true
 category: ofertas

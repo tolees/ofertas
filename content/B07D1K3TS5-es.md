@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Hypergel-sai  Zapatillas de Entren al 57.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412lLnPtylL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412lLnPtylL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412lLnPtylL._SL200_.jpg' ]
 comments: true
 category: ofertas

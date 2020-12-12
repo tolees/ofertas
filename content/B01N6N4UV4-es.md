@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.64 % en Reebok Cl Nylon Slim Hv  Sneakers para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rt14sUxjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rt14sUxjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rt14sUxjL._SL200_.jpg' ]
 comments: true
 category: ofertas

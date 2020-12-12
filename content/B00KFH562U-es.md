@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett Jeans Vaqueros  Grau  Chrom al 36.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MDAB7SKzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MDAB7SKzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MDAB7SKzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.T.Ap.Pv19.Bimat Plumas Cam al 40.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HNQ9GVVSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HNQ9GVVSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HNQ9GVVSL._SL200_.jpg' ]
 comments: true
 category: ofertas

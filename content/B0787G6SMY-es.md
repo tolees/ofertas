@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans London Gery Liberty  Zapatill al 58.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413-fQ22VfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413-fQ22VfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413-fQ22VfL._SL200_.jpg' ]
 comments: true
 category: ofertas

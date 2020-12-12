@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.96 % en Burton Barnstorm Pantalón de Snowboard  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PqhQDQk4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PqhQDQk4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PqhQDQk4L._SL200_.jpg' ]
 comments: true
 category: ofertas

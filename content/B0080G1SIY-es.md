@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.98 % en Azzaro Azzaro Pour Homme L Eau Eau de To'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wfiqZPNmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wfiqZPNmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wfiqZPNmL._SL200_.jpg' ]
 comments: true
 category: ofertas

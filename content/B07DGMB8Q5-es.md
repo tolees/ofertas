@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Evan Hi Winter  Zapatillas de S al 72.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416ubLoZITL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416ubLoZITL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416ubLoZITL._SL200_.jpg' ]
 comments: true
 category: ofertas

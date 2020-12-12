@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.07 % en New Look Ss19 Colour Disco  6108079  Vaq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KcIoRXNfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KcIoRXNfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KcIoRXNfL._SL200_.jpg' ]
 comments: true
 category: ofertas

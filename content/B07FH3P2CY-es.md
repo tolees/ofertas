@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.19 % en Levis Footwear and Accessories Vernon Sp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bWGpPF8SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bWGpPF8SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bWGpPF8SL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Boss Boxer Brief 24 Logo  Hombre  Azul   al 57.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q9b5GzU9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q9b5GzU9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q9b5GzU9L._SL200_.jpg' ]
 comments: true
 category: ofertas

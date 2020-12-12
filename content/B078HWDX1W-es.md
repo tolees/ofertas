@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 038cc1e014  Vestido Mujer  al 79.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416TaB2GiGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416TaB2GiGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416TaB2GiGL._SL200_.jpg' ]
 comments: true
 category: ofertas

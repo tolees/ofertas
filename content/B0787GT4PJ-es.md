@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans London Portobello Print S  Za al 74.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GOks6S1kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GOks6S1kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GOks6S1kL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 99.38 % en ENKEEO Patinete Plegable Scooter Kick co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wsYN%2BNx8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wsYN%2BNx8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wsYN%2BNx8L._SL200_.jpg' ]
 comments: true
 category: ofertas

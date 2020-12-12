@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.12 % en Creative Labs Muvo 2c - Altavoz portátil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Iq8IjbswL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Iq8IjbswL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Iq8IjbswL._SL200_.jpg' ]
 comments: true
 category: ofertas

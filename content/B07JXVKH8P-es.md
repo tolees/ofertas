@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.28 % en DAM Q19 - Brazalete Inteligente Bluetoot'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qYeqhpr1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qYeqhpr1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qYeqhpr1L._SL200_.jpg' ]
 comments: true
 category: ofertas

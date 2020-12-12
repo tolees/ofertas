@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.78 % en Hackett Rinse Wash Nwbg Reg  Pantalones '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YczG6Ej7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YczG6Ej7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YczG6Ej7L._SL200_.jpg' ]
 comments: true
 category: ofertas

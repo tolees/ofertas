@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.36 % en Geox J Alonisso Boy B  Zapatillas para N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l6BeXJ5sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l6BeXJ5sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l6BeXJ5sL._SL200_.jpg' ]
 comments: true
 category: ofertas

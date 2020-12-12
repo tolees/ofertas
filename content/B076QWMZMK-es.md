@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Rapid  Zapatillas de Run al 45.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417B13agXUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417B13agXUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417B13agXUL._SL200_.jpg' ]
 comments: true
 category: ofertas

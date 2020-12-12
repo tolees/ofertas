@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.G.M.Trench Antelina Chaque al 34.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NUS0agf3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NUS0agf3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NUS0agf3L._SL200_.jpg' ]
 comments: true
 category: ofertas

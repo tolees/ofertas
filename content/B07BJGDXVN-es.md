@@ -3,6 +3,7 @@ layout: post
 title: 'Timotei Champú Coco Y Aloe Vera - 4 Paqu al 33.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xM-uRd6cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xM-uRd6cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xM-uRd6cL._SL200_.jpg' ]
 comments: true
 category: ofertas

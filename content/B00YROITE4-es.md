@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Performance No-Show Thin 3PP  Cal al 30.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mb9jtKvcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Mb9jtKvcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Mb9jtKvcL._SL200_.jpg' ]
 comments: true
 category: ofertas

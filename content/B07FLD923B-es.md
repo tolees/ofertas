@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.08 % en Superdry Arctic Hooded Pop Zip Windchea '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414nTTm-MUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414nTTm-MUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414nTTm-MUL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Team Issue Wordmark SS C al 30.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zI--6Lu5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zI--6Lu5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zI--6Lu5L._SL200_.jpg' ]
 comments: true
 category: ofertas

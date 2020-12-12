@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.69 % en Only Onlbette Logo LS Swt Sudadera  Negr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ndbPBQ7TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ndbPBQ7TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ndbPBQ7TL._SL200_.jpg' ]
 comments: true
 category: ofertas

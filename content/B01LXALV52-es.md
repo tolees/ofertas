@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 26393  Botines para Mujer  Marró al 79.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uBlZMyJ2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uBlZMyJ2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uBlZMyJ2L._SL200_.jpg' ]
 comments: true
 category: ofertas

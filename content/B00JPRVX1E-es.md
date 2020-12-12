@@ -3,6 +3,7 @@ layout: post
 title: 'Schwarzkopf Bc Color Freeze - Acondicion al 38.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3164OGEwa7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3164OGEwa7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3164OGEwa7L._SL200_.jpg' ]
 comments: true
 category: ofertas

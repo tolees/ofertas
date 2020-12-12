@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.13 % en Paquete de 6 posavasos con soporte de me'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21mLa7inTdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21mLa7inTdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21mLa7inTdL._SL200_.jpg' ]
 comments: true
 category: ofertas

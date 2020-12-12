@@ -3,6 +3,7 @@ layout: post
 title: 'SHANA 73885 Jersey  Gris Perla    Tamaño al 53.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GdrbBfQxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GdrbBfQxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GdrbBfQxL._SL200_.jpg' ]
 comments: true
 category: ofertas

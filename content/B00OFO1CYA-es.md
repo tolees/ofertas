@@ -3,6 +3,7 @@ layout: post
 title: 'Taurus Wax-Care - Depiladora  color blan al 70.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cb3YcoSlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cb3YcoSlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cb3YcoSlL._SL200_.jpg' ]
 comments: true
 category: ofertas

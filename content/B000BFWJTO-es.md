@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.80 % en Cross Tech3+ - Bolígrafo multi-funcional'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21C7QBSeOUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21C7QBSeOUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21C7QBSeOUL._SL200_.jpg' ]
 comments: true
 category: ofertas

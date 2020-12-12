@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.75 % en TALIUS Xentinel - Caja Gaming ATX - USB '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PbBNZ%2B3kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PbBNZ%2B3kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PbBNZ%2B3kL._SL200_.jpg' ]
 comments: true
 category: ofertas

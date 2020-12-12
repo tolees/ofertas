@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.50 % en Excelvan Q6 1800 lúmenes 4   LED Mini po'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BnS1XO1CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BnS1XO1CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BnS1XO1CL._SL200_.jpg' ]
 comments: true
 category: ofertas

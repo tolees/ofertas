@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.55 % en EZVIZ Mini Plus 1080P FHD IP Cámara de S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nJ4r6%2B47L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nJ4r6%2B47L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nJ4r6%2B47L._SL200_.jpg' ]
 comments: true
 category: ofertas

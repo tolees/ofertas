@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.04 % en Puma Liga Training Jacket Chaqueta de En'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JJ3BD9oYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JJ3BD9oYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JJ3BD9oYL._SL200_.jpg' ]
 comments: true
 category: ofertas

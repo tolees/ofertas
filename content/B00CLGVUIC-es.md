@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.33 % en Leman Speed.WOOD125 Disco para Cortar Ma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kjDW22YfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kjDW22YfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kjDW22YfL._SL200_.jpg' ]
 comments: true
 category: ofertas

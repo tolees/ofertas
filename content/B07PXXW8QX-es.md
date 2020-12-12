@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.78 % en COMIFORT – Estantes Pared Juego de 3 Est'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WYjXXn2LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WYjXXn2LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WYjXXn2LL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'AFAITH Impermeable Selfie palo de aleaci al 26.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21qNd2he1%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21qNd2he1%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21qNd2he1%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

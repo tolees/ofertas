@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.17 % en Superga 2095- SUEU  Zapatillas de deport'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410QuVjxw0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410QuVjxw0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410QuVjxw0L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.24 % en CMP 3T51847 - Prenda  color gris  talla '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sfUoKaFtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sfUoKaFtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sfUoKaFtL._SL200_.jpg' ]
 comments: true
 category: ofertas

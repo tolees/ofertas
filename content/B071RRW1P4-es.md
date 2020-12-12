@@ -3,6 +3,7 @@ layout: post
 title: 'WENGER Reloj Analogico para Unisex de Cu al 72.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UVB1wI%2B1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UVB1wI%2B1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UVB1wI%2B1L._SL200_.jpg' ]
 comments: true
 category: ofertas

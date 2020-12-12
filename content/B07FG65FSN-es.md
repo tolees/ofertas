@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.53 % en Lacoste L1212  Polo Para Hombre  Morado '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416mGtHAvwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416mGtHAvwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416mGtHAvwL._SL200_.jpg' ]
 comments: true
 category: ofertas

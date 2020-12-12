@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6883672  Falda Para Mujer  M al 53.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OAw67YONL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OAw67YONL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OAw67YONL._SL200_.jpg' ]
 comments: true
 category: ofertas

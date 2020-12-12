@@ -3,6 +3,7 @@ layout: post
 title: 'Puma IGNITE XT v2 - Zapatillas de deport al 62.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4139bXE6i1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4139bXE6i1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4139bXE6i1L._SL200_.jpg' ]
 comments: true
 category: ofertas

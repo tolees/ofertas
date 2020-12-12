@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.64 % en Esprit 028ee1k043 Camisa Manga Larga  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-vtHzF46L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-vtHzF46L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-vtHzF46L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Android TV Box 8.1  2019 Newest Android  al 48.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QA6OHKCSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QA6OHKCSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QA6OHKCSL._SL200_.jpg' ]
 comments: true
 category: ofertas

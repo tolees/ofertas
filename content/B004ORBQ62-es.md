@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.16 % en Oki  Impresora Matricial Ml-3320eco  9 A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ay1TuxlaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ay1TuxlaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ay1TuxlaL._SL200_.jpg' ]
 comments: true
 category: ofertas

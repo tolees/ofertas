@@ -3,6 +3,7 @@ layout: post
 title: 'Versace Dylan Blue Eau de Toilette 200 m al 50.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oozy9yJsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oozy9yJsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oozy9yJsL._SL200_.jpg' ]
 comments: true
 category: ofertas

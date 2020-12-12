@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.03 % en Kingston SSD Now UV400 - Disco duro sóli'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f%2BEc7OenL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f%2BEc7OenL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f%2BEc7OenL._SL200_.jpg' ]
 comments: true
 category: ofertas

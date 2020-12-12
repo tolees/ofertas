@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.30 % en shenkey Chaleco de señal de giro LED  Ch'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P0LYJj92L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P0LYJj92L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P0LYJj92L._SL200_.jpg' ]
 comments: true
 category: ofertas

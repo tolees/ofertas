@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.80 % en JACK & JONES Jacthomas Trunks Noos Bóxer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519xVNPdO6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519xVNPdO6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519xVNPdO6L._SL200_.jpg' ]
 comments: true
 category: ofertas

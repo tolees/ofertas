@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.51 % en Almohada para Rodilla  Almohada Ortopédi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41haP8O3RBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41haP8O3RBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41haP8O3RBL._SL200_.jpg' ]
 comments: true
 category: ofertas

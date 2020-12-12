@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 69724  Sandalias con Plataforma  al 57.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jw2UxwctL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jw2UxwctL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jw2UxwctL._SL200_.jpg' ]
 comments: true
 category: ofertas

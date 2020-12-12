@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.79 % en Skechers On-The-go Glide-Effusive  Zapat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cOn4RHjRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cOn4RHjRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cOn4RHjRL._SL200_.jpg' ]
 comments: true
 category: ofertas

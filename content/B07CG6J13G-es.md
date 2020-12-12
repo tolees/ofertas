@@ -3,6 +3,7 @@ layout: post
 title: 'cfmour Cubo de Mágico  3x3x3 Fibra de Ca al 28.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xfyjU-30L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xfyjU-30L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xfyjU-30L._SL200_.jpg' ]
 comments: true
 category: ofertas

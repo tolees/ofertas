@@ -3,6 +3,7 @@ layout: post
 title: 'Sharp R843INW - Microondas  3 en 1  900  al 28.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418OAa8v5qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418OAa8v5qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418OAa8v5qL._SL200_.jpg' ]
 comments: true
 category: ofertas

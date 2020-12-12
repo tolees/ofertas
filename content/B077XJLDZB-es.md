@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Premium Equipment tee Camiseta  al 45.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tMeoZK9YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tMeoZK9YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tMeoZK9YL._SL200_.jpg' ]
 comments: true
 category: ofertas

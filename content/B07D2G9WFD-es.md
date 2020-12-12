@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.17 % en Levi s 502 Regular Taper Vaqueros Tapere'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N0zxAjGIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41N0zxAjGIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N0zxAjGIL._SL200_.jpg' ]
 comments: true
 category: ofertas

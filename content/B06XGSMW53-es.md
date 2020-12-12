@@ -3,6 +3,7 @@ layout: post
 title: '16 Piezas Cuadrados Espejos de Pared  DI al 60.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PLnbZEVTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PLnbZEVTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PLnbZEVTL._SL200_.jpg' ]
 comments: true
 category: ofertas

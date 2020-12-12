@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.74 % en NAIXUES Pulsera Actividad Impermeable IP'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414RGZMJ2QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414RGZMJ2QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414RGZMJ2QL._SL200_.jpg' ]
 comments: true
 category: ofertas

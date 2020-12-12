@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.77 % en Gloss - caja de maquillaje  caja de rega'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Sl2ZOCdnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Sl2ZOCdnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Sl2ZOCdnL._SL200_.jpg' ]
 comments: true
 category: ofertas

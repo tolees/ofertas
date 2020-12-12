@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Core Tommy Slim Polo  Gri al 51.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419goRu4qeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419goRu4qeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419goRu4qeL._SL200_.jpg' ]
 comments: true
 category: ofertas

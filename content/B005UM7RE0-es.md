@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.03 % en Schwarzkopf Professional Silhouette Espu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u9yQ%2BaBzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31u9yQ%2BaBzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u9yQ%2BaBzL._SL200_.jpg' ]
 comments: true
 category: ofertas

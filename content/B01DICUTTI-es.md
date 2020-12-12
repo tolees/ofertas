@@ -3,6 +3,7 @@ layout: post
 title: 'Decleor Aroma Svelt Firming Body Crema C al 33.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414-NrnhXHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414-NrnhXHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414-NrnhXHL._SL200_.jpg' ]
 comments: true
 category: ofertas

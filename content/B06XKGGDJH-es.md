@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.88 % en TESmart 5x1 Conmutador HDMI 5 en 1 Salid'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JwRaRaqyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JwRaRaqyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JwRaRaqyL._SL200_.jpg' ]
 comments: true
 category: ofertas

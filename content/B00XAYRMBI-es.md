@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.86 % en Polaroid PLD 8009/N JY UJO  Gafas de sol'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317Hke0mvGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317Hke0mvGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317Hke0mvGL._SL200_.jpg' ]
 comments: true
 category: ofertas

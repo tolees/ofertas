@@ -3,6 +3,7 @@ layout: post
 title: 'David Jones - Cm5038  Bolsos de mano Muj al 68.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lwuMUVg8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lwuMUVg8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lwuMUVg8L._SL200_.jpg' ]
 comments: true
 category: ofertas

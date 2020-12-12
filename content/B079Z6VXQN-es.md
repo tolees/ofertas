@@ -3,6 +3,7 @@ layout: post
 title: 'Chicco 09006469000000-030  Camiseta Unis al 72.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CVuxmlvlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CVuxmlvlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CVuxmlvlL._SL200_.jpg' ]
 comments: true
 category: ofertas

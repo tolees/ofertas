@@ -3,6 +3,7 @@ layout: post
 title: 'Sony MDR-AS700BT - Auriculares de Contor al 27.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AEDYkvORL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AEDYkvORL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AEDYkvORL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.59 % en Asics Gel-Cumulus 19 Lite-Show  Zapatill'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sYywPLJQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sYywPLJQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sYywPLJQL._SL200_.jpg' ]
 comments: true
 category: ofertas

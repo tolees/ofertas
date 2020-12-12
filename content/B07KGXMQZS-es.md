@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Friston Camisetas  Hombre  Pelica al 41.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sSnxBW%2BxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sSnxBW%2BxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sSnxBW%2BxL._SL200_.jpg' ]
 comments: true
 category: ofertas

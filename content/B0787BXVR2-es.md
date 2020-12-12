@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.89 % en Televisor Full HD de 32" Smart TV Serie '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tFal%2Bze9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tFal%2Bze9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tFal%2Bze9L._SL200_.jpg' ]
 comments: true
 category: ofertas

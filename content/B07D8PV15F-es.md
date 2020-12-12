@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.91 % en Pegatinas antideslizantes Adhesivos de b'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hRqoK3B2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hRqoK3B2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hRqoK3B2L._SL200_.jpg' ]
 comments: true
 category: ofertas

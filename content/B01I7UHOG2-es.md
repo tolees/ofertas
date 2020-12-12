@@ -3,6 +3,7 @@ layout: post
 title: 'Dermacol Maquillahe de Larga Duración co al 41.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TdGiDrsyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TdGiDrsyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TdGiDrsyL._SL200_.jpg' ]
 comments: true
 category: ofertas

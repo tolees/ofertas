@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.79 % en adidas X_PLR C  Zapatillas de Gimnasia U'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CkIbpnk6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CkIbpnk6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CkIbpnk6L._SL200_.jpg' ]
 comments: true
 category: ofertas

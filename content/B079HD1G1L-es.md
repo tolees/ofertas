@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.62 % en Little Dutch-LD4628 Doudou  Color Rosa  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-99HyWGUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-99HyWGUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-99HyWGUL._SL200_.jpg' ]
 comments: true
 category: ofertas

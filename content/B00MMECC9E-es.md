@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.31 % en Ultrasport Cama elástica de jardín Jumpe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ovFW2nXcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ovFW2nXcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ovFW2nXcL._SL200_.jpg' ]
 comments: true
 category: ofertas

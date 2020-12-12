@@ -3,6 +3,7 @@ layout: post
 title: 'Dickies Original 874  Pantalones para Ho al 42.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hTLWu5VLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hTLWu5VLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hTLWu5VLL._SL200_.jpg' ]
 comments: true
 category: ofertas

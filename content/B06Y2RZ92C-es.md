@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D New Virna H  Botas Chelsea para M al 70.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411MmHrw8jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411MmHrw8jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411MmHrw8jL._SL200_.jpg' ]
 comments: true
 category: ofertas

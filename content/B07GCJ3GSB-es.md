@@ -3,6 +3,7 @@ layout: post
 title: 'Glamorous Ladies Dress Vestido Fiesta Mu al 67.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zFBCuOkRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zFBCuOkRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zFBCuOkRL._SL200_.jpg' ]
 comments: true
 category: ofertas

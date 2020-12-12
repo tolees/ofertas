@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.76 % en Geox Jr Sofia H  Botas para Niñas  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BE08Rd87L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BE08Rd87L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BE08Rd87L._SL200_.jpg' ]
 comments: true
 category: ofertas

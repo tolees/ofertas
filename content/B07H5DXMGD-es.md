@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.24 % en Tijeras Podar  Tijeras de jardín Kits Ti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417hj75qenL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417hj75qenL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417hj75qenL._SL200_.jpg' ]
 comments: true
 category: ofertas

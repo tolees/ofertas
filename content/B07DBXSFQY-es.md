@@ -3,6 +3,7 @@ layout: post
 title: 'Puma RS-0 Tracks  Zapatillas Unisex Adul al 58.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kWafqPzFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kWafqPzFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kWafqPzFL._SL200_.jpg' ]
 comments: true
 category: ofertas

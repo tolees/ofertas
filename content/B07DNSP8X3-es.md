@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.59 % en adidas ESS Allcap Oh H Sudadera  Negro  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NNAufNlwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NNAufNlwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NNAufNlwL._SL200_.jpg' ]
 comments: true
 category: ofertas

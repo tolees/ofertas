@@ -3,6 +3,7 @@ layout: post
 title: 'Spaas Vela Cilindro 60/150 Verde Aqua al 76.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YJU1riflL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YJU1riflL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YJU1riflL._SL200_.jpg' ]
 comments: true
 category: ofertas

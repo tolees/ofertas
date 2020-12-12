@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Lake 22 Down Jacket Chaqueta  H al 55.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DLCSGca7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DLCSGca7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DLCSGca7L._SL200_.jpg' ]
 comments: true
 category: ofertas

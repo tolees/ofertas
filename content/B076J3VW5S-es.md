@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.69 % en Cabeza de Ducha para Luz Ducha  Cnasa Al'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511D5HCaWJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511D5HCaWJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511D5HCaWJL._SL200_.jpg' ]
 comments: true
 category: ofertas

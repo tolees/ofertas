@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.02 % en Double Retractable Washing Line 26M  2 x'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qfOf0OEqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qfOf0OEqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qfOf0OEqL._SL200_.jpg' ]
 comments: true
 category: ofertas

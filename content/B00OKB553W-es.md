@@ -3,6 +3,7 @@ layout: post
 title: 'CHUWI Hi 9 Air - Tablet de 10.1" 2K  4G  al 32.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IkDdXx%2B5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IkDdXx%2B5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IkDdXx%2B5L._SL200_.jpg' ]
 comments: true
 category: ofertas

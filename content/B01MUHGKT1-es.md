@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Dream Silicone Cover  Funda para al 46.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21XWL1bcMvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21XWL1bcMvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21XWL1bcMvL._SL200_.jpg' ]
 comments: true
 category: ofertas

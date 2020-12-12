@@ -3,6 +3,7 @@ layout: post
 title: 'Desires Lola Hybrid Vaqueros Slim  Mujer al 82.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Uc%2By4xWNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Uc%2By4xWNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Uc%2By4xWNL._SL200_.jpg' ]
 comments: true
 category: ofertas

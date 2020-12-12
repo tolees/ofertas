@@ -3,6 +3,7 @@ layout: post
 title: 'VAUDE Tecowash II Accesorio  Unisex Adul al 52.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ogy7drDwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ogy7drDwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ogy7drDwL._SL200_.jpg' ]
 comments: true
 category: ofertas

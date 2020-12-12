@@ -3,6 +3,7 @@ layout: post
 title: 'Hatley TSJWIBE245 - Camiseta de Manga Co al 55.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q0IlwukfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q0IlwukfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q0IlwukfL._SL200_.jpg' ]
 comments: true
 category: ofertas

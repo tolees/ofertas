@@ -3,6 +3,7 @@ layout: post
 title: 'AICOOK Envasadora de Vacio  4 en 1 Envas al 27.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rAAzoUTkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rAAzoUTkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rAAzoUTkL._SL200_.jpg' ]
 comments: true
 category: ofertas

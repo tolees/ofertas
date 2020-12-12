@@ -3,6 +3,7 @@ layout: post
 title: 'BEPER Cafetera Tradicional CA.011  3 Taz al 33.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41swwQ-VngL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41swwQ-VngL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41swwQ-VngL._SL200_.jpg' ]
 comments: true
 category: ofertas

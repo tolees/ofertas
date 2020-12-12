@@ -3,6 +3,7 @@ layout: post
 title: 'AKRACING AK-K6014-BW - Silla  Negro  Col al 48.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GY6dAGqnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GY6dAGqnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GY6dAGqnL._SL200_.jpg' ]
 comments: true
 category: ofertas

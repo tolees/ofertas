@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban RB 3548n Gafas de sol  Gold  48  al 47.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21oF22JiWxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21oF22JiWxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21oF22JiWxL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.30 % en Audio-Technica AT-LP120USBCBK tocadisco '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iA%2Bjkav1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iA%2Bjkav1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iA%2Bjkav1L._SL200_.jpg' ]
 comments: true
 category: ofertas

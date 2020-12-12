@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en GORE WEAR C3 Peto 3/4 de ciclismo con ba'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fhZyUM7hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fhZyUM7hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fhZyUM7hL._SL200_.jpg' ]
 comments: true
 category: ofertas

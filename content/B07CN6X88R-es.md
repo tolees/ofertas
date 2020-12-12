@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Folten-Orego  Botas Chelsea par al 29.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aclcTi7aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aclcTi7aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aclcTi7aL._SL200_.jpg' ]
 comments: true
 category: ofertas

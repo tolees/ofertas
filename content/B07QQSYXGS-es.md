@@ -3,6 +3,7 @@ layout: post
 title: 'SLIMBELLE Mujer Camiseta de Tirantes con al 52.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LVJezjnRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LVJezjnRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LVJezjnRL._SL200_.jpg' ]
 comments: true
 category: ofertas

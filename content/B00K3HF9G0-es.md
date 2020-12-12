@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.01 % en Trust Gaming XL Endurance GXT 330 - Auri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hf71iKtfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hf71iKtfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hf71iKtfL._SL200_.jpg' ]
 comments: true
 category: ofertas

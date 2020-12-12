@@ -3,6 +3,7 @@ layout: post
 title: 'ACEPC AK3V Mini PC RAM 4GB ROM 32GB Apol al 80.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jUawYQZnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jUawYQZnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jUawYQZnL._SL200_.jpg' ]
 comments: true
 category: ofertas

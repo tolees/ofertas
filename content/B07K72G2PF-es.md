@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.86 % en Asics Gel-Cumulus 20 le  Zapatillas de R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412ePNqD7UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412ePNqD7UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412ePNqD7UL._SL200_.jpg' ]
 comments: true
 category: ofertas

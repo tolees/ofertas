@@ -3,6 +3,7 @@ layout: post
 title: 'Bollé Millenium Cascos  Unisex Adulto  A al 57.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410mpLBAM%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410mpLBAM%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410mpLBAM%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

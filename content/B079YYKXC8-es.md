@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.49 % en AmazonBasics - Bolsa de deporte  Mediano'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rHC8DgmwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rHC8DgmwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rHC8DgmwL._SL200_.jpg' ]
 comments: true
 category: ofertas

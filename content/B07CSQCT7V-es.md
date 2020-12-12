@@ -3,6 +3,7 @@ layout: post
 title: 'Syming Mochila Senderismo con Cubierta D al 59.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FpqwFL-9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FpqwFL-9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FpqwFL-9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.36 % en Solac WV3700 Ecogenic Limpiacristales'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JVEFUF%2B9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JVEFUF%2B9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JVEFUF%2B9L._SL200_.jpg' ]
 comments: true
 category: ofertas

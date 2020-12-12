@@ -3,6 +3,7 @@ layout: post
 title: 'Only Blusa Azul Oscuro ES 40  DE 38  al 78.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YiUOSYs6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YiUOSYs6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YiUOSYs6L._SL200_.jpg' ]
 comments: true
 category: ofertas

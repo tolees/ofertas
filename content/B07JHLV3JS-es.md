@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Brendon-seldor  Zapatillas para al 59.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tM6X-xRgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tM6X-xRgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tM6X-xRgL._SL200_.jpg' ]
 comments: true
 category: ofertas

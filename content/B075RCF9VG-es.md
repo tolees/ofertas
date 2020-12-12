@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.95 % en Desigual Biki_Eve  Parte de Arriba Bikin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EQ47TUYrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EQ47TUYrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EQ47TUYrL._SL200_.jpg' ]
 comments: true
 category: ofertas

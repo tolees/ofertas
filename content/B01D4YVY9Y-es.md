@@ -3,6 +3,7 @@ layout: post
 title: 'Orbegozo 16717 Ventilador de pie SERIE O al 33.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h-MB5PQHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31h-MB5PQHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h-MB5PQHL._SL200_.jpg' ]
 comments: true
 category: ofertas

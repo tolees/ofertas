@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.32 % en EarnShaw Beaufort Reloj de Hombre automá'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Uf4zWUD7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Uf4zWUD7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Uf4zWUD7L._SL200_.jpg' ]
 comments: true
 category: ofertas

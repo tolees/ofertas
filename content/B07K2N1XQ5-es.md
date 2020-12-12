@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.03 % en adidas Galaxy 4  Zapatillas de Deporte p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DRa9GU7kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DRa9GU7kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DRa9GU7kL._SL200_.jpg' ]
 comments: true
 category: ofertas

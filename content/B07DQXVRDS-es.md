@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Attitude 69394  Zapatillas para Muj al 28.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415IC2r2sLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415IC2r2sLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415IC2r2sLL._SL200_.jpg' ]
 comments: true
 category: ofertas

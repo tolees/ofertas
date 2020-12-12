@@ -3,6 +3,7 @@ layout: post
 title: 'Ubisoft Spain - Assassin’s Creed Odyssey al 53.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ervHvIg1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ervHvIg1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ervHvIg1L._SL200_.jpg' ]
 comments: true
 category: ofertas

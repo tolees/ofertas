@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Tenex  Botas Slouch para Mujer  M al 66.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IbR57o13L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IbR57o13L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IbR57o13L._SL200_.jpg' ]
 comments: true
 category: ofertas

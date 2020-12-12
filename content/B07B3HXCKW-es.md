@@ -3,6 +3,7 @@ layout: post
 title: 'Berg Outdoor Satpura Chaqueta Técnica  H al 52.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RrbUX8kiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RrbUX8kiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RrbUX8kiL._SL200_.jpg' ]
 comments: true
 category: ofertas

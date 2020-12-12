@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Trucker Jacket  Chaqueta Vaquera  al 36.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RZNtmMhHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RZNtmMhHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RZNtmMhHL._SL200_.jpg' ]
 comments: true
 category: ofertas

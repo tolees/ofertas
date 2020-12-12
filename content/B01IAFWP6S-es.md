@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Ua Classic Slip-on  Zapatillas para al 75.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XwO29J5iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XwO29J5iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XwO29J5iL._SL200_.jpg' ]
 comments: true
 category: ofertas

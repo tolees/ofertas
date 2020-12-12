@@ -3,6 +3,7 @@ layout: post
 title: 'Estilo Hollywood Luces de Espejo de Toca al 72.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FHJ-TqGOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FHJ-TqGOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FHJ-TqGOL._SL200_.jpg' ]
 comments: true
 category: ofertas

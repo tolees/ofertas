@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.55 % en ALDO Wicardowia  Zapatillas para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dwIeZd9AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dwIeZd9AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dwIeZd9AL._SL200_.jpg' ]
 comments: true
 category: ofertas

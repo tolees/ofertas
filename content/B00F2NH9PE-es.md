@@ -3,6 +3,7 @@ layout: post
 title: 'Bellota 3589-50 Tijera de poda Ligera vi al 26.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YJ09as0NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YJ09as0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YJ09as0NL._SL200_.jpg' ]
 comments: true
 category: ofertas

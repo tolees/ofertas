@@ -3,6 +3,7 @@ layout: post
 title: 'Tommee Tippee Explora - Platos de 3 comp al 69.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IR60bdX9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IR60bdX9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IR60bdX9L._SL200_.jpg' ]
 comments: true
 category: ofertas

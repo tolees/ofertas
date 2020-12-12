@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.36 % en Skin Doctors Skinactive 14 - Crema de no'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O8h8BijfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O8h8BijfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O8h8BijfL._SL200_.jpg' ]
 comments: true
 category: ofertas

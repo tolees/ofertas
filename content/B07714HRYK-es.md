@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Rovic 3D Tapered  Pantalones  al 41.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EFAKmLKWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EFAKmLKWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EFAKmLKWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.43 % en ONLY Onlleeona Aw Canvas Parka Jacket Cc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UrHoqW94L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UrHoqW94L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UrHoqW94L._SL200_.jpg' ]
 comments: true
 category: ofertas

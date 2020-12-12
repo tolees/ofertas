@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.34 % en Burton Oak Full-Zip Sudadera  Hombre  Mo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eu8XJMN6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eu8XJMN6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eu8XJMN6L._SL200_.jpg' ]
 comments: true
 category: ofertas

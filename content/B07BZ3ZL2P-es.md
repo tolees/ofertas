@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.82 % en Hilfiger Denim Tommy Jeans Light Textile'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q9jZgwrWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q9jZgwrWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q9jZgwrWL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.65 % en Mizuno Synchro MX Running Shoes - Zapati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511fdWRbBtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511fdWRbBtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511fdWRbBtL._SL200_.jpg' ]
 comments: true
 category: ofertas

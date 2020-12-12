@@ -3,6 +3,7 @@ layout: post
 title: 'Shiseido Future Solution SPF20 Crema de  al 71.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sDGX5UkGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sDGX5UkGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sDGX5UkGL._SL200_.jpg' ]
 comments: true
 category: ofertas

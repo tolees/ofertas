@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.20 % en Pepe Jeans Dion  Camiseta para Hombre  A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s44GrdWjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s44GrdWjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s44GrdWjL._SL200_.jpg' ]
 comments: true
 category: ofertas

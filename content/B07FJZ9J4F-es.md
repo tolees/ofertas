@@ -3,6 +3,7 @@ layout: post
 title: 'HP 25 X Monitor de Gaming 24.5 pollci  F al 33.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pIhHPAPlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pIhHPAPlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pIhHPAPlL._SL200_.jpg' ]
 comments: true
 category: ofertas

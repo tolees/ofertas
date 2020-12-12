@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.96 % en Hurley M DRI-FIT Breathe 19  Bermudas  H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kVZWVN9NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kVZWVN9NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kVZWVN9NL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Nike w Gym Tote  Bolsa de ningún Tipo  C al 33.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PDSP8C9sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PDSP8C9sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PDSP8C9sL._SL200_.jpg' ]
 comments: true
 category: ofertas

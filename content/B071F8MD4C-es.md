@@ -3,6 +3,7 @@ layout: post
 title: 'Hangsun Almohadilla Eléctrica de tacto s al 30.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zGSh8UIJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zGSh8UIJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zGSh8UIJL._SL200_.jpg' ]
 comments: true
 category: ofertas

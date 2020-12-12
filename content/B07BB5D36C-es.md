@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.54 % en The North Face T0A8AZ Chaqueta Quest  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qFvizf1iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qFvizf1iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qFvizf1iL._SL200_.jpg' ]
 comments: true
 category: ofertas

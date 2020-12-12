@@ -3,6 +3,7 @@ layout: post
 title: 'Cybex Gold - Cochecito Balios S con sill al 37.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D8Uz4okKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D8Uz4okKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D8Uz4okKL._SL200_.jpg' ]
 comments: true
 category: ofertas

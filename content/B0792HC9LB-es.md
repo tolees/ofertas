@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Geox J Djrock Girl A  Zapatillas sin Cor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aqJEEUx2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aqJEEUx2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aqJEEUx2L._SL200_.jpg' ]
 comments: true
 category: ofertas

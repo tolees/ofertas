@@ -3,6 +3,7 @@ layout: post
 title: 'Happy Home Lodis Juego Nórdico para Cama al 73.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414nxOaez6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414nxOaez6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414nxOaez6L._SL200_.jpg' ]
 comments: true
 category: ofertas

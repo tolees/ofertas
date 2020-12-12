@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Pico 4 Zapatillas para niño  32 EU  al 34.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RgR%2BMCwAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RgR%2BMCwAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RgR%2BMCwAL._SL200_.jpg' ]
 comments: true
 category: ofertas

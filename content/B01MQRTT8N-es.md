@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.91 % en Pepe Jeans Track Short  Pantalones Corto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LJ-j8uj8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LJ-j8uj8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LJ-j8uj8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SONGMICS Hamaca Ultraligera con Mosquite al 36.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vFxgj8lnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vFxgj8lnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vFxgj8lnL._SL200_.jpg' ]
 comments: true
 category: ofertas

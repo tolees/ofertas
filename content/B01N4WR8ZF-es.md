@@ -3,6 +3,7 @@ layout: post
 title: 'CAMPER Neuman  Botas Desert para Hombre  al 50.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XXWwYP7ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XXWwYP7ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XXWwYP7ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

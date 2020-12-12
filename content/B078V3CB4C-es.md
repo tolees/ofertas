@@ -3,6 +3,7 @@ layout: post
 title: 'FLOUREON Apple MacBook A1322 10.95V 6100 al 64.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Sm754huGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Sm754huGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Sm754huGL._SL200_.jpg' ]
 comments: true
 category: ofertas

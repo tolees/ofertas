@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.26 % en G-STAR RAW Rovulc HB Low  Zapatillas par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ec2b2LLlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ec2b2LLlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ec2b2LLlL._SL200_.jpg' ]
 comments: true
 category: ofertas

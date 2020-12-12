@@ -3,6 +3,7 @@ layout: post
 title: 'Paco Rabanne Lady Million Eau de Toilett al 57.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414rLpv74QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414rLpv74QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414rLpv74QL._SL200_.jpg' ]
 comments: true
 category: ofertas

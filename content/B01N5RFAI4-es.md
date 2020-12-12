@@ -3,6 +3,7 @@ layout: post
 title: 'CHOETECH Cable USB C a DisplayPort 4K@60 al 36.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dGYRSN9DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dGYRSN9DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dGYRSN9DL._SL200_.jpg' ]
 comments: true
 category: ofertas

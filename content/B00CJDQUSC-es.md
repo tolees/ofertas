@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.91 % en BlackDecker A7102 - Kit de accesorios'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RZQC76uyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RZQC76uyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RZQC76uyL._SL200_.jpg' ]
 comments: true
 category: ofertas

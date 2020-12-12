@@ -3,6 +3,7 @@ layout: post
 title: 'Schneider Electric A9K17625 Interruptor  al 48.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lKk78zF-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lKk78zF-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lKk78zF-L._SL200_.jpg' ]
 comments: true
 category: ofertas

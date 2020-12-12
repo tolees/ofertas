@@ -3,6 +3,7 @@ layout: post
 title: 'Final Fantasy XII HD: The Zodiac Age  Ed al 41.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P%2BoqFu5FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51P%2BoqFu5FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P%2BoqFu5FL._SL200_.jpg' ]
 comments: true
 category: ofertas

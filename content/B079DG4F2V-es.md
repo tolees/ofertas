@@ -3,6 +3,7 @@ layout: post
 title: 'Globe Motley Mid  Zapatillas de Deporte  al 65.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S%2BrReNq6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S%2BrReNq6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S%2BrReNq6L._SL200_.jpg' ]
 comments: true
 category: ofertas

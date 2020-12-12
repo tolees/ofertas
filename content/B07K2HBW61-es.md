@@ -3,6 +3,7 @@ layout: post
 title: 'hummel Actus Ml Infant  Zapatillas para  al 55.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eqj3i402L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eqj3i402L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eqj3i402L._SL200_.jpg' ]
 comments: true
 category: ofertas

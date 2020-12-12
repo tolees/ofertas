@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.77 % en Bergner Nature Set de 11 Cuchillos  Tije'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ptE7rH8bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ptE7rH8bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ptE7rH8bL._SL200_.jpg' ]
 comments: true
 category: ofertas

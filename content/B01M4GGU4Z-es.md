@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.30 % en [Pack de 4] Neutrex Transpirex Pistola 6'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LqCTZ9BYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LqCTZ9BYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LqCTZ9BYL._SL200_.jpg' ]
 comments: true
 category: ofertas

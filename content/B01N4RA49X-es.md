@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.97 % en Educa Borrás- Dibujos Animados y cómic P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61EMWssywyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61EMWssywyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61EMWssywyL._SL200_.jpg' ]
 comments: true
 category: ofertas

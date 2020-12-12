@@ -3,6 +3,7 @@ layout: post
 title: 'Las Mulas Cabernet Sauvignon  Vino Tinto al 56.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J0p8%2BsiSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J0p8%2BsiSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J0p8%2BsiSL._SL200_.jpg' ]
 comments: true
 category: ofertas

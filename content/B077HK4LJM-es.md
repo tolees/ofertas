@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.06 % en NHEIMA Faja Reductora Hombre Adelgazante'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iLi2DduVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iLi2DduVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iLi2DduVL._SL200_.jpg' ]
 comments: true
 category: ofertas

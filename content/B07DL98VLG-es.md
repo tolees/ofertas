@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.93 % en Springfield 6Fo-Denim Truckier Borr W Ch'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AsecDgR3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AsecDgR3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AsecDgR3L._SL200_.jpg' ]
 comments: true
 category: ofertas

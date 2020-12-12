@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.00 % en Geox D Tahina C  Zapatillas para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418lhIpzMZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418lhIpzMZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418lhIpzMZL._SL200_.jpg' ]
 comments: true
 category: ofertas

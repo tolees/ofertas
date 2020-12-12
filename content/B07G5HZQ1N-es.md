@@ -3,6 +3,7 @@ layout: post
 title: 'Eono Essentials - Humidor de viaje para  al 47.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SF5b84ZiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SF5b84ZiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SF5b84ZiL._SL200_.jpg' ]
 comments: true
 category: ofertas

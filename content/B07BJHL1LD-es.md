@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Halgen Core Hooded Sw L/s  Ca al 57.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LTezVOwpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LTezVOwpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LTezVOwpL._SL200_.jpg' ]
 comments: true
 category: ofertas

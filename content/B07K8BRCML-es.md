@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.58 % en Luz Nocturna Infantil  Cocoda Proyector '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RYYDX3mcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RYYDX3mcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RYYDX3mcL._SL200_.jpg' ]
 comments: true
 category: ofertas

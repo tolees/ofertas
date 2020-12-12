@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.59 % en Crocs Freesail Chelsea Boot  Botas de Ag'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H428xzBjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H428xzBjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H428xzBjL._SL200_.jpg' ]
 comments: true
 category: ofertas

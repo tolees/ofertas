@@ -3,6 +3,7 @@ layout: post
 title: 'Samsonite Sideways Laptop Sleeve 15.6" B al 58.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fazu09C4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fazu09C4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fazu09C4L._SL200_.jpg' ]
 comments: true
 category: ofertas

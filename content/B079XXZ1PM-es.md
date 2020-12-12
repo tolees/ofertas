@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Liga Training Jersey T-Shirt  Hombr al 56.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z5ix6m9zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31z5ix6m9zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z5ix6m9zL._SL200_.jpg' ]
 comments: true
 category: ofertas

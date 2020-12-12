@@ -3,6 +3,7 @@ layout: post
 title: 'adidas D2m Tank 3s Camiseta sin Mangas   al 36.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KKKLLuFOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KKKLLuFOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KKKLLuFOL._SL200_.jpg' ]
 comments: true
 category: ofertas

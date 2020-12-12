@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.60 % en G-Star RAW Core Strap  Sandalias de Taló'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C9Ag4QkjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C9Ag4QkjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C9Ag4QkjL._SL200_.jpg' ]
 comments: true
 category: ofertas

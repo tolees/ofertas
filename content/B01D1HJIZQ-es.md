@@ -3,6 +3,7 @@ layout: post
 title: 'Samsonite  X Blade 3.0 -  Spinner  Negro al 28.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zYDxNE8zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zYDxNE8zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zYDxNE8zL._SL200_.jpg' ]
 comments: true
 category: ofertas

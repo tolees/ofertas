@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Blossite Army High Waist Skin al 58.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x9peay8gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31x9peay8gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x9peay8gL._SL200_.jpg' ]
 comments: true
 category: ofertas

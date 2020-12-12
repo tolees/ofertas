@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Seylise Mid A  Zapatos de Tacón p al 76.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DpFapax%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DpFapax%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DpFapax%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

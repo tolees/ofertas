@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.88 % en Hush Puppies Charity Catelyn  Botas para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EC4dc2qvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EC4dc2qvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EC4dc2qvL._SL200_.jpg' ]
 comments: true
 category: ofertas

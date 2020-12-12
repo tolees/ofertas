@@ -3,6 +3,7 @@ layout: post
 title: 'Joseph Joseph - Nest   Juego de Tuppers/ al 34.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410-1qicACL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410-1qicACL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410-1qicACL._SL200_.jpg' ]
 comments: true
 category: ofertas

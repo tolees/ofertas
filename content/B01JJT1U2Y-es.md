@@ -3,6 +3,7 @@ layout: post
 title: 'SALOMON Pearl Casco de esquí y Snowboard al 27.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yjgxr2rzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yjgxr2rzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yjgxr2rzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Jhnr91d Vestido   Noir/Ecru Z267 al 43.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EG6PxUIzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EG6PxUIzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EG6PxUIzL._SL200_.jpg' ]
 comments: true
 category: ofertas

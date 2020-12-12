@@ -3,6 +3,7 @@ layout: post
 title: 'St. Germain Licores - 700 ml al 54.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319e7Hx00vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319e7Hx00vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319e7Hx00vL._SL200_.jpg' ]
 comments: true
 category: ofertas

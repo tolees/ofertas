@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban JUNIOR 0Rj9540S Gafas de sol  Gu al 50.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pTnxWcDmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pTnxWcDmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pTnxWcDmL._SL200_.jpg' ]
 comments: true
 category: ofertas

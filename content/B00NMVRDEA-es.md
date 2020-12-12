@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.49 % en Nike Ebernon Mid  Zapatos de Baloncesto '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rWvi-l8PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rWvi-l8PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rWvi-l8PL._SL200_.jpg' ]
 comments: true
 category: ofertas

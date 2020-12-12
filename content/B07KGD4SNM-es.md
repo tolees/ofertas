@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Trilo_sz35 Cinturón  Negro  Black 4 al 55.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bKx4VUjPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bKx4VUjPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bKx4VUjPL._SL200_.jpg' ]
 comments: true
 category: ofertas

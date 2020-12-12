@@ -3,6 +3,7 @@ layout: post
 title: 'MSI B360I Gaming Pro AC - Placa Base Per al 94.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mTZCNaC0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mTZCNaC0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mTZCNaC0L._SL200_.jpg' ]
 comments: true
 category: ofertas

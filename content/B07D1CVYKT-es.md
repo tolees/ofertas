@@ -3,6 +3,7 @@ layout: post
 title: 'Medion Akoya P62006 - Ordenador de sobre al 33.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D8GcUIJ2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51D8GcUIJ2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D8GcUIJ2L._SL200_.jpg' ]
 comments: true
 category: ofertas

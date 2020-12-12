@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Spike  Vaqueros para Hombre   al 25.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Go8e78zzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Go8e78zzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Go8e78zzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Leitan A  Mocasines para Hombre   al 62.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X3BQt98TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31X3BQt98TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X3BQt98TL._SL200_.jpg' ]
 comments: true
 category: ofertas

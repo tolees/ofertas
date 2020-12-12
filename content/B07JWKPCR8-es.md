@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.85 % en Lacoste Mh7092 Bañador  Rojo  Salvia/Ibe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4189C0-BtrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4189C0-BtrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4189C0-BtrL._SL200_.jpg' ]
 comments: true
 category: ofertas

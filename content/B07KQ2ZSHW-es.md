@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.00 % en 2.7 Pulgadas de Pantalla de rotación Ful'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lFVOmAqkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lFVOmAqkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lFVOmAqkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Only & Sons Onstarp Chino 7066 PK Noos   al 50.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3159vs-z3ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3159vs-z3ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3159vs-z3ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Super 23 Hawaii Entry tee Camis al 47.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310Kqq34utL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310Kqq34utL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310Kqq34utL._SL200_.jpg' ]
 comments: true
 category: ofertas

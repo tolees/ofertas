@@ -3,6 +3,7 @@ layout: post
 title: 'Star Wars The Force Mochila Preescolar   al 67.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514bq-og0lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514bq-og0lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514bq-og0lL._SL200_.jpg' ]
 comments: true
 category: ofertas

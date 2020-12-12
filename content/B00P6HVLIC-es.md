@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.51 % en Scitec Nutrition Top Shape quemador de g'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VaaKYSmhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VaaKYSmhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VaaKYSmhL._SL200_.jpg' ]
 comments: true
 category: ofertas

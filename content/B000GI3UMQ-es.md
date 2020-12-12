@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.44 % en BaByliss 667E Look Bi-Tension - Cepillo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cKIzifezL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cKIzifezL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cKIzifezL._SL200_.jpg' ]
 comments: true
 category: ofertas

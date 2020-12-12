@@ -3,6 +3,7 @@ layout: post
 title: 'Ar K1Pp040B4Bb01 - Kit 5 Estant.Bricol 4 al 41.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vdUj6clJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vdUj6clJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vdUj6clJL._SL200_.jpg' ]
 comments: true
 category: ofertas

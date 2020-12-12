@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.90 % en Gioseppo Zapatillas para Hombre  Azul  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GwsL1BWYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GwsL1BWYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GwsL1BWYL._SL200_.jpg' ]
 comments: true
 category: ofertas

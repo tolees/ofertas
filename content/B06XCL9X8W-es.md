@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Orabella Anna  Botas para Mujer   al 76.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dlTCyhp6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dlTCyhp6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dlTCyhp6L._SL200_.jpg' ]
 comments: true
 category: ofertas

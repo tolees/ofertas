@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Bikini String  Tanga para M al 30.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419eR8V6d%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419eR8V6d%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419eR8V6d%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

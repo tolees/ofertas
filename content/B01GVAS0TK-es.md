@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Duramo 7  Zapatillas de Running p al 58.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4157LElE0zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4157LElE0zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4157LElE0zL._SL200_.jpg' ]
 comments: true
 category: ofertas

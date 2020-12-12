@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 24317  Mocasines para Mujer  Roj al 82.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u4vo0YKvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u4vo0YKvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u4vo0YKvL._SL200_.jpg' ]
 comments: true
 category: ofertas

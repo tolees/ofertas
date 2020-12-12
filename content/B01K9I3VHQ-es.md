@@ -3,6 +3,7 @@ layout: post
 title: 'Bemis 7250TP000 Ashford Asiento para ino al 70.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YJ1xW3ChL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YJ1xW3ChL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YJ1xW3ChL._SL200_.jpg' ]
 comments: true
 category: ofertas

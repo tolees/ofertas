@@ -3,6 +3,7 @@ layout: post
 title: 'Hama 040080 - Mando universal para aire  al 38.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tSQPIOcgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tSQPIOcgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tSQPIOcgL._SL200_.jpg' ]
 comments: true
 category: ofertas

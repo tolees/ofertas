@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Larston Pantalones  Azul  Navy  al 84.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LVn5KIrnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LVn5KIrnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LVn5KIrnL._SL200_.jpg' ]
 comments: true
 category: ofertas

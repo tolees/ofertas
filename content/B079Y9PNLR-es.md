@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver 5-5-25233-21  Botas Militar par al 71.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410OZdRQg0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410OZdRQg0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410OZdRQg0L._SL200_.jpg' ]
 comments: true
 category: ofertas

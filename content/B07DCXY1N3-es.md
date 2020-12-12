@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Drst Ask SPR LG Sujetador Deporti al 45.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LtbbV2lAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LtbbV2lAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LtbbV2lAL._SL200_.jpg' ]
 comments: true
 category: ofertas

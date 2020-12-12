@@ -3,6 +3,7 @@ layout: post
 title: 'Rock Off 07897 - Taza  diseño U2 War al 71.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61yUdZajIUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61yUdZajIUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61yUdZajIUL._SL200_.jpg' ]
 comments: true
 category: ofertas

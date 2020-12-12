@@ -3,6 +3,7 @@ layout: post
 title: 'Badabulle B001005 - Bebé station azul-gr al 61.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319r%2BYuUpZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319r%2BYuUpZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319r%2BYuUpZL._SL200_.jpg' ]
 comments: true
 category: ofertas

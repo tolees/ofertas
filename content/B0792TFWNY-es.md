@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.60 % en Geox D Kenly Mid A  Botas Chelsea para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A6e6JGMzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A6e6JGMzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A6e6JGMzL._SL200_.jpg' ]
 comments: true
 category: ofertas

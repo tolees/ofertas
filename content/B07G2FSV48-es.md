@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.24 % en AiRunTech Cintura Fanny Pack Riñoneras D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rXXAkqBcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rXXAkqBcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rXXAkqBcL._SL200_.jpg' ]
 comments: true
 category: ofertas

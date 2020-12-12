@@ -3,6 +3,7 @@ layout: post
 title: 'US Marshall Dougga - Zapatos para mujer  al 71.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CzfD6Ri%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CzfD6Ri%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CzfD6Ri%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

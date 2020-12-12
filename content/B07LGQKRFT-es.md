@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Notch Double Layer 6115635  Ves al 41.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sByWHq5EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sByWHq5EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sByWHq5EL._SL200_.jpg' ]
 comments: true
 category: ofertas

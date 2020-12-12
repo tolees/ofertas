@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.98 % en Ghost In The Shell 2 Innocence [Blu-ray]'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WJBd5HTqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WJBd5HTqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WJBd5HTqL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.99 % en Lotus Reloj Multiesfera para Niños de Cu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d9FIZyjhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51d9FIZyjhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d9FIZyjhL._SL200_.jpg' ]
 comments: true
 category: ofertas

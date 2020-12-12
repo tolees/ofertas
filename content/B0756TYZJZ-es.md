@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.01 % en GGMM 10W Altavoces Portatiles Bluetooth '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61Dxce9WWeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61Dxce9WWeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61Dxce9WWeL._SL200_.jpg' ]
 comments: true
 category: ofertas

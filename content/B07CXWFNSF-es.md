@@ -3,6 +3,7 @@ layout: post
 title: 'Power Bank 24000mAh Cargador Móvil Portá al 25.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414tHBtQYpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414tHBtQYpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414tHBtQYpL._SL200_.jpg' ]
 comments: true
 category: ofertas

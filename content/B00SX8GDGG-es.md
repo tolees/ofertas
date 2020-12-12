@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Duramo Slide  Zapatos de Playa y  al 40.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X3Y0GoXIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31X3Y0GoXIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X3Y0GoXIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Yamaha mcr-n570d sistema Audio al 30.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416KoJhU0NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416KoJhU0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416KoJhU0NL._SL200_.jpg' ]
 comments: true
 category: ofertas

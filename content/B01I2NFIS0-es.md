@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.01 % en Dressystar Vestidos Coctel Corto Vintage'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UU2fZ%2BCcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UU2fZ%2BCcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UU2fZ%2BCcL._SL200_.jpg' ]
 comments: true
 category: ofertas

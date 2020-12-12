@@ -3,6 +3,7 @@ layout: post
 title: 'Emporio Armani Underwear 111339  Pijama  al 49.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jaCmgIxlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jaCmgIxlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jaCmgIxlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.97 % en IRIS & LILLY Top Bikini con Forma de Tri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CYU%2BwuL7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CYU%2BwuL7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CYU%2BwuL7L._SL200_.jpg' ]
 comments: true
 category: ofertas

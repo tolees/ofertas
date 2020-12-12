@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.67 % en Turtle Wax FG7821 Green Line Limpia Salp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417yrGpjF3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417yrGpjF3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417yrGpjF3L._SL200_.jpg' ]
 comments: true
 category: ofertas

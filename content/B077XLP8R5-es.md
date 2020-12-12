@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.01 % en Under Armour Rival Fleece Po Hoodie Part'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tH%2BwH8CYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tH%2BwH8CYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tH%2BwH8CYL._SL200_.jpg' ]
 comments: true
 category: ofertas

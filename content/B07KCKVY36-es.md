@@ -3,6 +3,7 @@ layout: post
 title: 'David Jones - 5948-4  Bolsos de mano Muj al 45.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lmu-t9P2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Lmu-t9P2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lmu-t9P2L._SL200_.jpg' ]
 comments: true
 category: ofertas

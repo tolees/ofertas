@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.87 % en Philips SHQ1405BL/00 - Auriculares con m'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DgILqYz5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DgILqYz5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DgILqYz5L._SL200_.jpg' ]
 comments: true
 category: ofertas

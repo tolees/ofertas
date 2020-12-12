@@ -3,6 +3,7 @@ layout: post
 title: 'Beyonce Midnight Heat Agua de Perfume -  al 28.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V6qd6GctL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31V6qd6GctL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V6qd6GctL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Basket Platform Perf Gum  Zapatilla al 77.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415wCFsKlzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415wCFsKlzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415wCFsKlzL._SL200_.jpg' ]
 comments: true
 category: ofertas

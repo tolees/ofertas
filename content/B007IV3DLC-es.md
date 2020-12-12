@@ -3,6 +3,7 @@ layout: post
 title: 'Siemens TS22Extrem - Centro Planchado al 49.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419-wtXja3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419-wtXja3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419-wtXja3L._SL200_.jpg' ]
 comments: true
 category: ofertas

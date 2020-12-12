@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.75 % en Only Onlsui Reg Slim ANK Dnm Jeans Rea44'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZiigG6U%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZiigG6U%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZiigG6U%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

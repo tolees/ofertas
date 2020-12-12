@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.04 % en Besrey 2 en 1 Carritos con capazo Revers'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZIGWeAucL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZIGWeAucL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZIGWeAucL._SL200_.jpg' ]
 comments: true
 category: ofertas

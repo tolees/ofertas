@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.82 % en HP DeskJet 2632 AiO 4800 x 1200DPI Inyec'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IfWmjiGPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IfWmjiGPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IfWmjiGPL._SL200_.jpg' ]
 comments: true
 category: ofertas

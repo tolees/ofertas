@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.20 % en Uhlsport Center Basic II Pantalones Cort'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dPCKZX88L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dPCKZX88L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dPCKZX88L._SL200_.jpg' ]
 comments: true
 category: ofertas

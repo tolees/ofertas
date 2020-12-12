@@ -3,6 +3,7 @@ layout: post
 title: 'Mocasines Negros Planos para Mujer Invie al 44.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4128GF3cvZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4128GF3cvZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4128GF3cvZL._SL200_.jpg' ]
 comments: true
 category: ofertas

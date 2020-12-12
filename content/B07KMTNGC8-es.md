@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.22 % en Volcom IMPRINTZ Crew Sudadera  Hombre  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m4Je8S6gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51m4Je8S6gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m4Je8S6gL._SL200_.jpg' ]
 comments: true
 category: ofertas

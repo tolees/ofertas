@@ -3,6 +3,7 @@ layout: post
 title: 'MyGica Geniatech DVB-T2/T USB sintonizad al 25.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oBbQtWdWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oBbQtWdWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oBbQtWdWL._SL200_.jpg' ]
 comments: true
 category: ofertas

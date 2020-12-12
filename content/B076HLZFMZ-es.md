@@ -3,6 +3,7 @@ layout: post
 title: 'Oflamn Mochilas Portátil 14 Pulgadas - M al 41.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4114IlGia1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4114IlGia1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4114IlGia1L._SL200_.jpg' ]
 comments: true
 category: ofertas

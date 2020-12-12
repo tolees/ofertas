@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Tami  Parka para Mujer  Azul  al 60.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CxL%2BhDUjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CxL%2BhDUjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CxL%2BhDUjL._SL200_.jpg' ]
 comments: true
 category: ofertas

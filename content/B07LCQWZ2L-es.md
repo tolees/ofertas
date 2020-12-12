@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.68 % en Talkabout 460008-96071 Blusa   White-Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gmqYO86zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gmqYO86zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gmqYO86zL._SL200_.jpg' ]
 comments: true
 category: ofertas

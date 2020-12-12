@@ -3,6 +3,7 @@ layout: post
 title: 'Black+Decker BC20BD Cargador 20 Arrancad al 38.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jT3gFapDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jT3gFapDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jT3gFapDL._SL200_.jpg' ]
 comments: true
 category: ofertas

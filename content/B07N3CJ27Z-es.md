@@ -3,6 +3,7 @@ layout: post
 title: 'Munich G-3 Kid VCO Glow 970  Zapatillas  al 52.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zq0AEwJFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zq0AEwJFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zq0AEwJFL._SL200_.jpg' ]
 comments: true
 category: ofertas

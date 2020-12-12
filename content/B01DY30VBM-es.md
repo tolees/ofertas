@@ -3,6 +3,7 @@ layout: post
 title: 'GIPLAM 21 x 26 x 42 cm Surtido de Juguet al 63.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EvMMzOn9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EvMMzOn9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EvMMzOn9L._SL200_.jpg' ]
 comments: true
 category: ofertas

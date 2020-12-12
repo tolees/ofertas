@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.28 % en DC Shoes Star Zip-Up Hoodie  Niños  Gree'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZDEcEvaPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZDEcEvaPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZDEcEvaPL._SL200_.jpg' ]
 comments: true
 category: ofertas

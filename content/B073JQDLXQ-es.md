@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Jesery de Pico para Hombre  Azul  N al 36.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4173wrNTcgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4173wrNTcgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4173wrNTcgL._SL200_.jpg' ]
 comments: true
 category: ofertas

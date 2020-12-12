@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.49 % en New Balance MRZHLL1  Zapatillas Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sWkSvTW3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sWkSvTW3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sWkSvTW3L._SL200_.jpg' ]
 comments: true
 category: ofertas

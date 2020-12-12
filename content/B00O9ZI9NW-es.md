@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.84 % en Cómo Conocí A Vuestra Madre - Temporadas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/6178h6E8aYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/6178h6E8aYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/6178h6E8aYL._SL200_.jpg' ]
 comments: true
 category: ofertas

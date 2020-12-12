@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.99 % en Les Tropéziennes par M. Belarbi Ceylan  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AxuRo13TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AxuRo13TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AxuRo13TL._SL200_.jpg' ]
 comments: true
 category: ofertas

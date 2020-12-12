@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 097ee1k024  Camiseta Mujer  Rojo  al 57.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mx2srjBWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Mx2srjBWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Mx2srjBWL._SL200_.jpg' ]
 comments: true
 category: ofertas

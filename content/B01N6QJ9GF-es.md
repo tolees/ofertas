@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas PV17 2047 Pantalones  M al 48.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BLugFdftL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BLugFdftL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BLugFdftL._SL200_.jpg' ]
 comments: true
 category: ofertas

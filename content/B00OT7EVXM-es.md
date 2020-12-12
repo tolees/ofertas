@@ -3,6 +3,7 @@ layout: post
 title: 'Jata MZ586 AMASADORA  250 W  1 Liter  0  al 28.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412r3Zoz48L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412r3Zoz48L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412r3Zoz48L._SL200_.jpg' ]
 comments: true
 category: ofertas

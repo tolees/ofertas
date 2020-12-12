@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.76 % en Lee Scarlett Vaqueros Skinny  Azul  Blue'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tgr-KeIQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tgr-KeIQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tgr-KeIQL._SL200_.jpg' ]
 comments: true
 category: ofertas

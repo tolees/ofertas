@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino - Borsa Intreccio Pu  Bols al 33.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B626dVFxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51B626dVFxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B626dVFxL._SL200_.jpg' ]
 comments: true
 category: ofertas

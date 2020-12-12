@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.39 % en NEWCHEF Batería de Cocina de Aluminio Fu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AHFGm2MGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AHFGm2MGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AHFGm2MGL._SL200_.jpg' ]
 comments: true
 category: ofertas

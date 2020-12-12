@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Commit TR X NM  Zapatill al 26.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41277XVdd3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41277XVdd3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41277XVdd3L._SL200_.jpg' ]
 comments: true
 category: ofertas

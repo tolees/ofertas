@@ -3,6 +3,7 @@ layout: post
 title: 'Bluebags Anabela Mano  Bolsa de tela y d al 35.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61CW4T3p-AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61CW4T3p-AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61CW4T3p-AL._SL200_.jpg' ]
 comments: true
 category: ofertas

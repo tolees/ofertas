@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Vargo Mid Zapatos de cordones der al 41.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H8lMd1-QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31H8lMd1-QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31H8lMd1-QL._SL200_.jpg' ]
 comments: true
 category: ofertas

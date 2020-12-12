@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.56 % en Schwarzkopf Professional BC Excellium Pl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VEe4KHAmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VEe4KHAmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VEe4KHAmL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Ivitta suéter  Blanco  Open White 1 al 61.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312Twv8flPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312Twv8flPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312Twv8flPL._SL200_.jpg' ]
 comments: true
 category: ofertas

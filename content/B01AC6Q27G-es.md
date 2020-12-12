@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Park VI Camiseta de Manga Corta par al 45.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419EEY6VKJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419EEY6VKJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419EEY6VKJL._SL200_.jpg' ]
 comments: true
 category: ofertas

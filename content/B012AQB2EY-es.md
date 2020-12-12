@@ -3,6 +3,7 @@ layout: post
 title: 'Money Maze: Laberinto de Dinero para un  al 30.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ho7cH62xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ho7cH62xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ho7cH62xL._SL200_.jpg' ]
 comments: true
 category: ofertas

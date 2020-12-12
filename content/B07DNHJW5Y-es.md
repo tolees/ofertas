@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.87 % en Adidas Lite Racer CLN  Zapatillas de Run'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WjNKY8V7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WjNKY8V7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WjNKY8V7L._SL200_.jpg' ]
 comments: true
 category: ofertas

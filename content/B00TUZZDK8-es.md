@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star 3301 Loose - Pantalones Vaqueros  al 52.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QsS4kTGyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QsS4kTGyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QsS4kTGyL._SL200_.jpg' ]
 comments: true
 category: ofertas

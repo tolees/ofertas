@@ -3,6 +3,7 @@ layout: post
 title: 'Fantasy X-Tensions Correa de penes Extre al 44.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JNrcYtfJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JNrcYtfJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JNrcYtfJL._SL200_.jpg' ]
 comments: true
 category: ofertas

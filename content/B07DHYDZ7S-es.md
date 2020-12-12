@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Sideline 119 1 CMA  Zapatillas p al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Guq5t2P6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Guq5t2P6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Guq5t2P6L._SL200_.jpg' ]
 comments: true
 category: ofertas

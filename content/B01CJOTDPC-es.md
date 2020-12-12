@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Serie 2000 HD8652/51 - Cafetera  al 43.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SlkSPZttL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SlkSPZttL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SlkSPZttL._SL200_.jpg' ]
 comments: true
 category: ofertas

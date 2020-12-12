@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.40 % en Puma Pacer Next SB WTR  Zapatillas Altas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rgEdZnjjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rgEdZnjjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rgEdZnjjL._SL200_.jpg' ]
 comments: true
 category: ofertas

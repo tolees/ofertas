@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Strappy Pinny 6143129  Vestido  al 60.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RuIdNko9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RuIdNko9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RuIdNko9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES - 17086718  Bolso Mujer  Beige  N al 71.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oRGb8Gq2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oRGb8Gq2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oRGb8Gq2L._SL200_.jpg' ]
 comments: true
 category: ofertas

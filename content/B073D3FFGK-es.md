@@ -3,6 +3,7 @@ layout: post
 title: 'Canon EOS 200D - Cámara Digital Réflex d al 35.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51z%2BW9b7CML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51z%2BW9b7CML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51z%2BW9b7CML._SL200_.jpg' ]
 comments: true
 category: ofertas

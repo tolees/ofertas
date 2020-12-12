@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Kickoff  Zapatillas para Niñas  Ro al 62.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416qDemDCIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416qDemDCIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416qDemDCIL._SL200_.jpg' ]
 comments: true
 category: ofertas

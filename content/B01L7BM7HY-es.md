@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.82 % en Star Wars: El Despertar De La Fuerza  Bl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NIwIj3gRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NIwIj3gRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NIwIj3gRL._SL200_.jpg' ]
 comments: true
 category: ofertas

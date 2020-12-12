@@ -3,6 +3,7 @@ layout: post
 title: 'Tiffosi Renly Pantalones Cortos  Mujer   al 69.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tNoXQwVtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tNoXQwVtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tNoXQwVtL._SL200_.jpg' ]
 comments: true
 category: ofertas

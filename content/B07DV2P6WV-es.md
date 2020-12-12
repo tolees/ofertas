@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.30 % en Quiksilver Everyday Sherpa Sudadera con '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B7%2BTUwbvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B7%2BTUwbvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B7%2BTUwbvL._SL200_.jpg' ]
 comments: true
 category: ofertas

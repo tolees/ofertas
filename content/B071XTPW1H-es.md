@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.17 % en ASUS ROG-STRIX-RX570-4G-GA Radeon RX 570'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ckoipENFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ckoipENFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ckoipENFL._SL200_.jpg' ]
 comments: true
 category: ofertas

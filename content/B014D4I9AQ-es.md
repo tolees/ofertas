@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.52 % en Infant - Gimnasio musical Fisher-Price  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SCl5YKqcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SCl5YKqcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SCl5YKqcL._SL200_.jpg' ]
 comments: true
 category: ofertas

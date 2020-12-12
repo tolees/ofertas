@@ -3,6 +3,7 @@ layout: post
 title: 'Greencut MNA100 - Enrollador automático  al 59.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mb63MEbaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mb63MEbaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mb63MEbaL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'VILA CLOTHES VILOVABLE L/S KNIT TOP  sué al 60.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Gjd7CASNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Gjd7CASNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Gjd7CASNL._SL200_.jpg' ]
 comments: true
 category: ofertas

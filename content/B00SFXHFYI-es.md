@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.91 % en Garmin Fēnix 3 Zafiro - Reloj multidepor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wVRLfQ3ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wVRLfQ3ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wVRLfQ3ML._SL200_.jpg' ]
 comments: true
 category: ofertas

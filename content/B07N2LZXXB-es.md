@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.56 % en Moviles Libres Baratos 4G V Mobile J7 5 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zkzRC8r%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zkzRC8r%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zkzRC8r%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

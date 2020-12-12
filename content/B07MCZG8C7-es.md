@@ -3,6 +3,7 @@ layout: post
 title: 'VSADEY 2 pcs Cepillo de Pelo de Madera C al 46.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NobVkdHPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NobVkdHPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NobVkdHPL._SL200_.jpg' ]
 comments: true
 category: ofertas

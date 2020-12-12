@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.51 % en Calvin Klein L/S Sweatshirt Sudadera  Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y4PnlfsOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Y4PnlfsOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y4PnlfsOL._SL200_.jpg' ]
 comments: true
 category: ofertas

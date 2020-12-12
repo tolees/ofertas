@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.16 % en Geox D Porthya B  Mocasines para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KhSJTOI5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KhSJTOI5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KhSJTOI5L._SL200_.jpg' ]
 comments: true
 category: ofertas

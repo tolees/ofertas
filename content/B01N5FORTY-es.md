@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.23 % en FIND ER1944 camisetas mujer fiesta   Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418spFWOphL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418spFWOphL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418spFWOphL._SL200_.jpg' ]
 comments: true
 category: ofertas

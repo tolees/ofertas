@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Londonrain GTX  Botas para Mujer  al 69.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4171p2XfpgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4171p2XfpgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4171p2XfpgL._SL200_.jpg' ]
 comments: true
 category: ofertas

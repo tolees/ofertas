@@ -3,6 +3,7 @@ layout: post
 title: 'Trust GXT 247 - Base de Carga Doble para al 44.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UaRWIu92L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UaRWIu92L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UaRWIu92L._SL200_.jpg' ]
 comments: true
 category: ofertas

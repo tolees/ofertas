@@ -3,6 +3,7 @@ layout: post
 title: 'KS Tools 515.3102 - Pistola remachadora  al 88.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vTtFdDkbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vTtFdDkbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vTtFdDkbL._SL200_.jpg' ]
 comments: true
 category: ofertas

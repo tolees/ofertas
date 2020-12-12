@@ -3,6 +3,7 @@ layout: post
 title: 'Swimgo Triton I bañador de competición f al 75.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WJUDyZG6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WJUDyZG6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WJUDyZG6L._SL200_.jpg' ]
 comments: true
 category: ofertas

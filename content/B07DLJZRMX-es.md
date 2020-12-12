@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield DS Structrure Strech  Camisa al 67.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LeITSj4dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LeITSj4dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LeITSj4dL._SL200_.jpg' ]
 comments: true
 category: ofertas

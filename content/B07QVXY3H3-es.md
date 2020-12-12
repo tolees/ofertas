@@ -3,6 +3,7 @@ layout: post
 title: 'KASTEWILL Telansic Máscara De Buceo  180 al 33.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j0-aAw6OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j0-aAw6OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j0-aAw6OL._SL200_.jpg' ]
 comments: true
 category: ofertas

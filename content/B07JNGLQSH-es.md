@@ -3,6 +3,7 @@ layout: post
 title: 'UKSoku Mini Proyector Portátil 2800 Lúme al 66.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sY2oTKBfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sY2oTKBfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sY2oTKBfL._SL200_.jpg' ]
 comments: true
 category: ofertas

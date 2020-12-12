@@ -3,6 +3,7 @@ layout: post
 title: 'adidas NMD_R2  Zapatillas para Mujer  Gr al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9f1Q4YFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9f1Q4YFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9f1Q4YFL._SL200_.jpg' ]
 comments: true
 category: ofertas

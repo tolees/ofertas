@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Jr  Magistax  Ola  II  TF  Botas de al 38.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n4Ktldb8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n4Ktldb8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n4Ktldb8L._SL200_.jpg' ]
 comments: true
 category: ofertas

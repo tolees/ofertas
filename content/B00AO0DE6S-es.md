@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.91 % en Alpino - Kit de Modelado Magic Dough 8 x'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515E5k1JIQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515E5k1JIQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515E5k1JIQL._SL200_.jpg' ]
 comments: true
 category: ofertas

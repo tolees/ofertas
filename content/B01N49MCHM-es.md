@@ -3,6 +3,7 @@ layout: post
 title: 'Keeeper Bañera Ergonómica con Tapón Funn al 46.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C-rVfn5VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31C-rVfn5VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C-rVfn5VL._SL200_.jpg' ]
 comments: true
 category: ofertas

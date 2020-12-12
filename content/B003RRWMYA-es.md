@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.52 % en Mannesmann - M10930 - Tenaza rusa 10"'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316fPhlzaEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316fPhlzaEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316fPhlzaEL._SL200_.jpg' ]
 comments: true
 category: ofertas

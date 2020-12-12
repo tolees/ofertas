@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.19 % en Melissa & Doug Cupcake Chef s Kitchen-Pi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eGj%2BWMS2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eGj%2BWMS2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eGj%2BWMS2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'FORIZEN Pistolas de Agua para Niños Adul al 34.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/6100Cs2myzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/6100Cs2myzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/6100Cs2myzL._SL200_.jpg' ]
 comments: true
 category: ofertas

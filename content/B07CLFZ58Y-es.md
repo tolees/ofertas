@@ -3,6 +3,7 @@ layout: post
 title: 'Panama Jack 03 Wool  Botas Clasicas para al 36.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dIxuhg1YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dIxuhg1YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dIxuhg1YL._SL200_.jpg' ]
 comments: true
 category: ofertas

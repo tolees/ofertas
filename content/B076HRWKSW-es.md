@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas CORE18 JSY Y T-Shirt  Unisex niño al 39.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n60ReEbhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31n60ReEbhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n60ReEbhL._SL200_.jpg' ]
 comments: true
 category: ofertas

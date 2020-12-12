@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmeva Abby 3/4 Trenchcoat Noos al 40.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410l8dyPX%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410l8dyPX%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410l8dyPX%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

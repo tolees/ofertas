@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.57 % en Intex 64122 - Colchón hinchable Dura-Bea'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xY2p-I3cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xY2p-I3cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xY2p-I3cL._SL200_.jpg' ]
 comments: true
 category: ofertas

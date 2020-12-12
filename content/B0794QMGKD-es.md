@@ -3,6 +3,7 @@ layout: post
 title: 'Bolsas Vacio Ropa 6 Unidades  3*Grandes  al 41.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xPaeFJ%2BQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xPaeFJ%2BQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xPaeFJ%2BQL._SL200_.jpg' ]
 comments: true
 category: ofertas

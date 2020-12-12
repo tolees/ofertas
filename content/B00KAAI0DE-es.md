@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.48 % en Stedman Apparel Classic/ST2000-Camiseta '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wbBoBAjbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wbBoBAjbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wbBoBAjbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Apple Mac Pro - Ordenador  Xeon E5 de se al 31.68 % de descuento'
 date: 
 thumbnailImage: 'None._SL200_'
+image: 'None._SL200_'
 images: [ 'None._SL200_' ]
 comments: true
 category: ofertas

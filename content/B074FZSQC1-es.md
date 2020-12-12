@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.47 % en GB Pockit Gold Colección 2016 - Silla de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l0Xk%2BMiML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l0Xk%2BMiML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l0Xk%2BMiML._SL200_.jpg' ]
 comments: true
 category: ofertas

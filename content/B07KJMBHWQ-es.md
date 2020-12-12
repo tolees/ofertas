@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Jafable Chaqueta   Medium Beige 267 al 60.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zDDP7G8cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zDDP7G8cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zDDP7G8cL._SL200_.jpg' ]
 comments: true
 category: ofertas

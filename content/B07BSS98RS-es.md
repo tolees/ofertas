@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.15 % en Salomon Brigade Casco de esquí y Snowboa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dZYZ5oRsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dZYZ5oRsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dZYZ5oRsL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver - Sandalias - Hombre - EU 46  al 61.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j1HuO-7eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31j1HuO-7eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j1HuO-7eL._SL200_.jpg' ]
 comments: true
 category: ofertas

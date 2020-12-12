@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.58 % en Puma St Trainer Evo Sd Zapatillas de run'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WXfy0GAeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WXfy0GAeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WXfy0GAeL._SL200_.jpg' ]
 comments: true
 category: ofertas

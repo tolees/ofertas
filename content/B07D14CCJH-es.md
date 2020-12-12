@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.36 % en Relojes Hombre Reloj para Hombre Acero I'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IqTOYOyHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IqTOYOyHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IqTOYOyHL._SL200_.jpg' ]
 comments: true
 category: ofertas

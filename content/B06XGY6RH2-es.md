@@ -3,6 +3,7 @@ layout: post
 title: 'Pioneer SE-CH5T-S - Auriculares Tipo bot al 53.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uWDHDKe7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uWDHDKe7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uWDHDKe7L._SL200_.jpg' ]
 comments: true
 category: ofertas

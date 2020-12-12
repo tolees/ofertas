@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Bronson Service Straight Tape al 87.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xZhZRQJxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xZhZRQJxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xZhZRQJxL._SL200_.jpg' ]
 comments: true
 category: ofertas

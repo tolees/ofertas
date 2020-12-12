@@ -3,6 +3,7 @@ layout: post
 title: '5BILLION Anillos de Gimnasia de Madera-A al 53.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gv9aBYEVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gv9aBYEVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gv9aBYEVL._SL200_.jpg' ]
 comments: true
 category: ofertas

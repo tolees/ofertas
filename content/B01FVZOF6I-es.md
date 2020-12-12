@@ -3,6 +3,7 @@ layout: post
 title: 'SURETTI Sport Gafas de Sol  Negro  One S al 61.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XvhmofNVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XvhmofNVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XvhmofNVL._SL200_.jpg' ]
 comments: true
 category: ofertas

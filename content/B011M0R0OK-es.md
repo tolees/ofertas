@@ -3,6 +3,7 @@ layout: post
 title: 'Kotobukiya  1:6 Scale   The Flash   Artf al 34.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZX%2B1D7qwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZX%2B1D7qwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZX%2B1D7qwL._SL200_.jpg' ]
 comments: true
 category: ofertas

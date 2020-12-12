@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Frq.Falda Lisa Botones Falda al 74.06 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

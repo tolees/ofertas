@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual TS_Nisa  Camiseta para Mujer    al 70.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wzPAibjZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wzPAibjZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wzPAibjZL._SL200_.jpg' ]
 comments: true
 category: ofertas

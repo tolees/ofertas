@@ -3,6 +3,7 @@ layout: post
 title: 'SUMGOTT Aspirador sin Cable 9000Pa Aspir al 58.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iGQyX914L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iGQyX914L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iGQyX914L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Breach Chaqueta de Snowboard  Hom al 64.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r7s4Kq4jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r7s4Kq4jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r7s4Kq4jL._SL200_.jpg' ]
 comments: true
 category: ofertas

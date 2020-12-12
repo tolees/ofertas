@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48289  Zapatillas Altas para Mujer   al 55.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sILbxIpYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sILbxIpYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sILbxIpYL._SL200_.jpg' ]
 comments: true
 category: ofertas

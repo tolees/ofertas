@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.81 % en DeWalt DPSB2IN1-XJ 2en1: Clavadora Brad '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419hmMWKXRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419hmMWKXRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419hmMWKXRL._SL200_.jpg' ]
 comments: true
 category: ofertas

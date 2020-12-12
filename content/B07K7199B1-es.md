@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Modern Polo  Azul  LS Hm Patch Dr al 45.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n4rV%2BwMDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n4rV%2BwMDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n4rV%2BwMDL._SL200_.jpg' ]
 comments: true
 category: ofertas

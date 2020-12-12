@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.93 % en VPCOK Limpiacristales Limpiador de Venta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410t3kE8y-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410t3kE8y-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410t3kE8y-L._SL200_.jpg' ]
 comments: true
 category: ofertas

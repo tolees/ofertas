@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.39 % en BLACK+DECKER CS3652LC-QW - Atornillador '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i8Y6AU82L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i8Y6AU82L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i8Y6AU82L._SL200_.jpg' ]
 comments: true
 category: ofertas

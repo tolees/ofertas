@@ -3,6 +3,7 @@ layout: post
 title: 'VAUDE Me Strathcona Pro Pantalón  Hombre al 45.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cLiX7TFhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cLiX7TFhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cLiX7TFhL._SL200_.jpg' ]
 comments: true
 category: ofertas

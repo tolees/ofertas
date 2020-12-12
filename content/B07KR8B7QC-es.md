@@ -3,6 +3,7 @@ layout: post
 title: 'ZMNT Batería para iPhone 6 2250 mAh  Ree al 57.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jJ1ZEPJlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jJ1ZEPJlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jJ1ZEPJlL._SL200_.jpg' ]
 comments: true
 category: ofertas

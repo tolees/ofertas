@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.74 % en RIP CURL Surf Co. Hooded Zip Through Fle'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BBvjc5VxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BBvjc5VxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BBvjc5VxL._SL200_.jpg' ]
 comments: true
 category: ofertas

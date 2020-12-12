@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.94 % en ToyZe 6 Piece Pirata Set Juguetes de are'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mg7iUnIiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mg7iUnIiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mg7iUnIiL._SL200_.jpg' ]
 comments: true
 category: ofertas

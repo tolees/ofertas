@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmjakuri 3/4 Pleated Top D2-2  al 49.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411H4c8DbyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411H4c8DbyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411H4c8DbyL._SL200_.jpg' ]
 comments: true
 category: ofertas

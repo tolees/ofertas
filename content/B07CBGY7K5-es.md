@@ -3,6 +3,7 @@ layout: post
 title: 'Blue Bird A1400 Programador de Grifo par al 43.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X3msUkMqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X3msUkMqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X3msUkMqL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Ace 16.1 FG J  Botas de fútbol pa al 81.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414uDg6SJSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414uDg6SJSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414uDg6SJSL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.17 % en Laiwodun Skin Shoes descalzo acuático Aq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wAk7feMkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wAk7feMkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wAk7feMkL._SL200_.jpg' ]
 comments: true
 category: ofertas

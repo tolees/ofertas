@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit Accessoires - 029ca1o007   al 68.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416B0mvt1QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416B0mvt1QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416B0mvt1QL._SL200_.jpg' ]
 comments: true
 category: ofertas

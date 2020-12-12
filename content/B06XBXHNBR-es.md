@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.52 % en mymahdi 8 GB Reproductor de MP3 portátil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XNn35JV7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XNn35JV7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XNn35JV7L._SL200_.jpg' ]
 comments: true
 category: ofertas

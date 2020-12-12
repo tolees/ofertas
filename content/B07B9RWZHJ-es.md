@@ -3,6 +3,7 @@ layout: post
 title: 'Noisy May Nmelse L/s O-Neck Top Noos  Ca al 47.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UjKtHoEdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UjKtHoEdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UjKtHoEdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.53 % en Astor Perfect Stay Fabulous Matte Barra '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XtBt9uKLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XtBt9uKLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XtBt9uKLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puig  Agua fresca - 125 ml. al 88.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BmLw3%2BusL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BmLw3%2BusL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BmLw3%2BusL._SL200_.jpg' ]
 comments: true
 category: ofertas

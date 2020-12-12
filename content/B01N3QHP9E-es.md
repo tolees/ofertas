@@ -3,6 +3,7 @@ layout: post
 title: 'BIC Intensity - Pack de 8 rotuladores de al 71.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51njw551acL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51njw551acL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51njw551acL._SL200_.jpg' ]
 comments: true
 category: ofertas

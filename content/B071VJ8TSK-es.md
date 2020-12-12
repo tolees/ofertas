@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger J1285ill 4c  Botas Chukka al 84.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411a1n5Z53L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411a1n5Z53L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411a1n5Z53L._SL200_.jpg' ]
 comments: true
 category: ofertas

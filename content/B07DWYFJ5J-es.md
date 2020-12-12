@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.08 % en OurLeeme universal antideslizante Volant'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/619Bb6cPNDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/619Bb6cPNDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/619Bb6cPNDL._SL200_.jpg' ]
 comments: true
 category: ofertas

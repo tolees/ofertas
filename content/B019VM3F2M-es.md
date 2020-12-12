@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.50 % en Fitbit Blaze Reloj Inteligente para Acti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bhw%2BHx%2BCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bhw%2BHx%2BCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bhw%2BHx%2BCL._SL200_.jpg' ]
 comments: true
 category: ofertas

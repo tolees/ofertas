@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.55 % en BILLABONG Tribong OG 17 Bañador  Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nbVjG7yAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nbVjG7yAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nbVjG7yAL._SL200_.jpg' ]
 comments: true
 category: ofertas

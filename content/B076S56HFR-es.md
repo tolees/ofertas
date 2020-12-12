@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.62 % en Under Armour UA Torch  Zapatos de Balonc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eDxzhXuKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eDxzhXuKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eDxzhXuKL._SL200_.jpg' ]
 comments: true
 category: ofertas

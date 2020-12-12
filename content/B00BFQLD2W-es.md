@@ -3,6 +3,7 @@ layout: post
 title: 'Bisk 00407 Deco Vaso ceramico con soport al 61.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fmuFxaxML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fmuFxaxML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fmuFxaxML._SL200_.jpg' ]
 comments: true
 category: ofertas

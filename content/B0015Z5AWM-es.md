@@ -3,6 +3,7 @@ layout: post
 title: 'WMF Perfect - Set con Olla Rápida  Diáme al 32.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xK5N3ZaRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xK5N3ZaRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xK5N3ZaRL._SL200_.jpg' ]
 comments: true
 category: ofertas

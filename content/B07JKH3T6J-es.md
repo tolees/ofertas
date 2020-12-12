@@ -3,6 +3,7 @@ layout: post
 title: 'Seven for all Mankind International SAGL al 88.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x6irmdbFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x6irmdbFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x6irmdbFL._SL200_.jpg' ]
 comments: true
 category: ofertas

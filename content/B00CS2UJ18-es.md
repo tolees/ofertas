@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch PWS 750-115 -  Amoladora  750 W  e al 42.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NUbflzepL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NUbflzepL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NUbflzepL._SL200_.jpg' ]
 comments: true
 category: ofertas

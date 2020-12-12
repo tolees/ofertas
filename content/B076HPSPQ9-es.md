@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Core18 PES Jkt Chaqueta  Hombre   al 38.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XV6U%2BsMjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XV6U%2BsMjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XV6U%2BsMjL._SL200_.jpg' ]
 comments: true
 category: ofertas

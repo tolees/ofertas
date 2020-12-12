@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Jhnh30d Abrigo   Fantaisie 1756  al 72.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zlP-4z6OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zlP-4z6OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zlP-4z6OL._SL200_.jpg' ]
 comments: true
 category: ofertas

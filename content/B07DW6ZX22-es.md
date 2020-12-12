@@ -3,6 +3,7 @@ layout: post
 title: 'Hummel Court Trophy Poly S/S Jersey  Muj al 61.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G6qMnFCFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G6qMnFCFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G6qMnFCFL._SL200_.jpg' ]
 comments: true
 category: ofertas

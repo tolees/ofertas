@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.61 % en Puma Placed Logo - Pack de 2 bóxers para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Lqd6K6mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416Lqd6K6mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Lqd6K6mL._SL200_.jpg' ]
 comments: true
 category: ofertas

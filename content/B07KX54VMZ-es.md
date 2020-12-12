@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 029eo1g014 Abrigo  Azu al 67.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312fcp3IIXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312fcp3IIXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312fcp3IIXL._SL200_.jpg' ]
 comments: true
 category: ofertas

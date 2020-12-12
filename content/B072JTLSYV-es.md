@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.19 % en HyperX Predator 32GB 3600MHz DDR4 Kit mó'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kAJb53O5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kAJb53O5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kAJb53O5L._SL200_.jpg' ]
 comments: true
 category: ofertas

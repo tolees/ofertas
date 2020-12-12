@@ -3,6 +3,7 @@ layout: post
 title: 'Princess 202045 Easy Fill Exprimidor Len al 44.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L5kwS9nZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L5kwS9nZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L5kwS9nZL._SL200_.jpg' ]
 comments: true
 category: ofertas

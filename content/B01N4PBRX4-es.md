@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.13 % en Reloj FOSSIL - Hombre FS5325'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qrLG7lj5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qrLG7lj5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qrLG7lj5L._SL200_.jpg' ]
 comments: true
 category: ofertas

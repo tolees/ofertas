@@ -3,6 +3,7 @@ layout: post
 title: 'Apple Silicone Case - Bolsa iPad Mini 4  al 49.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zb%2BCVF-jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zb%2BCVF-jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zb%2BCVF-jL._SL200_.jpg' ]
 comments: true
 category: ofertas

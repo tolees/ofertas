@@ -3,6 +3,7 @@ layout: post
 title: 'Honeywell ZPFL1 - Detector gas al 55.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311mVEcFRBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311mVEcFRBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311mVEcFRBL._SL200_.jpg' ]
 comments: true
 category: ofertas

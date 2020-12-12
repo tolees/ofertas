@@ -3,6 +3,7 @@ layout: post
 title: 'AGM Caja de Luz de Cine Lightbox DIY Cin al 44.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yqiWqZxaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yqiWqZxaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yqiWqZxaL._SL200_.jpg' ]
 comments: true
 category: ofertas

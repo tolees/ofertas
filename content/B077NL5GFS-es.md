@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Rider Jeans Vaqueros Slim  Azul  Kic al 70.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kpxb%2B1G9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kpxb%2B1G9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kpxb%2B1G9L._SL200_.jpg' ]
 comments: true
 category: ofertas

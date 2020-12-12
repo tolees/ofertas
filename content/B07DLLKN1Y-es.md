@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Abrigo Franq Paño  Negro 1   al 59.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410C7Tj%2BOTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410C7Tj%2BOTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410C7Tj%2BOTL._SL200_.jpg' ]
 comments: true
 category: ofertas

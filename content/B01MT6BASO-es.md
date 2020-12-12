@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Scuderia Ferrari para Hombre 08303 al 40.00 % de descuento'
 date: 2020-12-11 21:16:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+J2Uj2MUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+J2Uj2MUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+J2Uj2MUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -24,14 +25,14 @@ Está [Reloj Scuderia Ferrari para Hombre 0830387  Negro  Rojo/Negro ](https://w
 
 Principales características:
 
+- Cierre: hebilla
+- Sumergible en agua hasta 50 m/5 atm
 - Forma del producto: redondo
-- Visualización análogico clásico
 - Correa de piel negra
-- Movimiento de cuarzo cronógrafo
+- Visualización análogico clásico
 - Cristal mineral duradero contra arañazos
 - Caja de acero negro con revestimiento iónico
-- Sumergible en agua hasta 50 m/5 atm
-- Cierre: hebilla
+- Movimiento de cuarzo cronógrafo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MT6BASO/?tag=tolees-21)
 

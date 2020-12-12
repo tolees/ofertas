@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Tiempo Legend VII AG-Pro  Botas de  al 37.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bcbQM23UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bcbQM23UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bcbQM23UL._SL200_.jpg' ]
 comments: true
 category: ofertas

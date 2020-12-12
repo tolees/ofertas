@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.40 % en DKNY Intimates Basic Tights medias  Marr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21FAtTZ0iHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21FAtTZ0iHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21FAtTZ0iHL._SL200_.jpg' ]
 comments: true
 category: ofertas

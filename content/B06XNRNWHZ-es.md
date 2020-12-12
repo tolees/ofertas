@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.49 % en GoPro Karma - Dron con HERO5  12.1 MP  4'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NQuP7xnpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NQuP7xnpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NQuP7xnpL._SL200_.jpg' ]
 comments: true
 category: ofertas

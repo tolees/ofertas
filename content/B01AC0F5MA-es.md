@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.29 % en Nike YTH Park II Knit Short NB Pantalón '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n09SzjjDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51n09SzjjDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n09SzjjDL._SL200_.jpg' ]
 comments: true
 category: ofertas

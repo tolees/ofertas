@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.02 % en Deporte v4.1 de Bluetooth Auricular Casc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T4Ec54nzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T4Ec54nzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T4Ec54nzL._SL200_.jpg' ]
 comments: true
 category: ofertas

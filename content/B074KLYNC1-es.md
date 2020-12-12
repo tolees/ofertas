@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.46 % en Gigabyte AO-K107W516-ES-002 - Ordenador '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ck%2BPIss2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ck%2BPIss2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ck%2BPIss2L._SL200_.jpg' ]
 comments: true
 category: ofertas

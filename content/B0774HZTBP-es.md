@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.40 % en Esnow 120 pedazos de aceite de madera de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lP26xu06L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lP26xu06L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lP26xu06L._SL200_.jpg' ]
 comments: true
 category: ofertas

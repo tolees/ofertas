@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas 107338  Jersey para Muj al 58.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R7nQD7F9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R7nQD7F9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R7nQD7F9L._SL200_.jpg' ]
 comments: true
 category: ofertas

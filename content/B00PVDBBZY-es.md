@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.42 % en D-Link DPE-301GI Fast Ethernet Gigabit E'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F5cL8YbaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F5cL8YbaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F5cL8YbaL._SL200_.jpg' ]
 comments: true
 category: ofertas

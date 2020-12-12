@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Annya High A  Zapatos de Tacón pa al 77.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310pPGun2jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310pPGun2jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310pPGun2jL._SL200_.jpg' ]
 comments: true
 category: ofertas

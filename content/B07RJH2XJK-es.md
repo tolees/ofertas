@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.01 % en Redmi Airdots Auriculares  TWS Bluetooth'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zax3AL4vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zax3AL4vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zax3AL4vL._SL200_.jpg' ]
 comments: true
 category: ofertas

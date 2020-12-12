@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.68 % en SERENGETI 8214 Gafas  Unisex Adulto  Gri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ah8SJDa0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ah8SJDa0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ah8SJDa0L._SL200_.jpg' ]
 comments: true
 category: ofertas

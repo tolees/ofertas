@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Triple Canyon Youth Pantalón La al 54.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317S5RAjAlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317S5RAjAlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317S5RAjAlL._SL200_.jpg' ]
 comments: true
 category: ofertas

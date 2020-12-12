@@ -3,6 +3,7 @@ layout: post
 title: 'AEG RA 5587 - Radiador de aceite  1500 W al 69.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q487YlnaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q487YlnaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q487YlnaL._SL200_.jpg' ]
 comments: true
 category: ofertas

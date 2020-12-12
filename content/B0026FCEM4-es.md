@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.90 % en WMF Profi Plus Espátula para Crepe  Acer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bfuZ%2BwboL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bfuZ%2BwboL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bfuZ%2BwboL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange 6zya52  Vestido de Fiest al 61.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c1ds5NCdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31c1ds5NCdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c1ds5NCdL._SL200_.jpg' ]
 comments: true
 category: ofertas

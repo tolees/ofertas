@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.66 % en Trucco TT03CG1  Blusa para Mujer  Blanco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41108W7DhCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41108W7DhCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41108W7DhCL._SL200_.jpg' ]
 comments: true
 category: ofertas

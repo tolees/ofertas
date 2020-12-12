@@ -3,6 +3,7 @@ layout: post
 title: 'Monix Quick - Set de Dos ollas a presión al 48.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-V2JVvZ6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-V2JVvZ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-V2JVvZ6L._SL200_.jpg' ]
 comments: true
 category: ofertas

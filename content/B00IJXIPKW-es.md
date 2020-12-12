@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.19 % en Silva Schneider DA-400 Deshidratador de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H17WnFQmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51H17WnFQmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H17WnFQmL._SL200_.jpg' ]
 comments: true
 category: ofertas

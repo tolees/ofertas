@@ -3,6 +3,7 @@ layout: post
 title: 'Orbegozo BP 5005 Calor Halógeno  1200 W al 33.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514fe2lLkOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514fe2lLkOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514fe2lLkOL._SL200_.jpg' ]
 comments: true
 category: ofertas

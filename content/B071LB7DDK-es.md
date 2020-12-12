@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.04 % en Izas Florenz Chaqueta de Pluma con Capuc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ef-8meHsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ef-8meHsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ef-8meHsL._SL200_.jpg' ]
 comments: true
 category: ofertas

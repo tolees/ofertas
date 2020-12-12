@@ -3,6 +3,7 @@ layout: post
 title: 'Trapa  Chocolate en Polvo - 350 gr al 48.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41juH-qlwOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41juH-qlwOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41juH-qlwOL._SL200_.jpg' ]
 comments: true
 category: ofertas

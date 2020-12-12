@@ -3,6 +3,7 @@ layout: post
 title: 'Scotch & Soda AMS Blauw 3-Pack Allover P al 39.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pkBZ6%2B62L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pkBZ6%2B62L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pkBZ6%2B62L._SL200_.jpg' ]
 comments: true
 category: ofertas

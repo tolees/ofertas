@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi 25308  Botas para Mujer  Roj al 53.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UT3qbkZ8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UT3qbkZ8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UT3qbkZ8L._SL200_.jpg' ]
 comments: true
 category: ofertas

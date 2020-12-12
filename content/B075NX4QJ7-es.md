@@ -3,6 +3,7 @@ layout: post
 title: 'PDP - Pixel Pals Street Fighter Bison al 33.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418GvnIR71L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418GvnIR71L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418GvnIR71L._SL200_.jpg' ]
 comments: true
 category: ofertas

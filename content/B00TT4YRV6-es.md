@@ -3,6 +3,7 @@ layout: post
 title: 'Bahco 1031-4 - Formon Bahco 4 Mm al 62.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JEAYTIPzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JEAYTIPzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JEAYTIPzL._SL200_.jpg' ]
 comments: true
 category: ofertas

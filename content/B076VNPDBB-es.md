@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 Graft Shirt L/s  Camisa  al 64.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nGPEor9nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nGPEor9nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nGPEor9nL._SL200_.jpg' ]
 comments: true
 category: ofertas

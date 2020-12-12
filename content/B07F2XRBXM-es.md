@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.98 % en adidas Yung-1  Zapatillas de Deporte par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Fsw%2Bw3U5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Fsw%2Bw3U5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Fsw%2Bw3U5L._SL200_.jpg' ]
 comments: true
 category: ofertas

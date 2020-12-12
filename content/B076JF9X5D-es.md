@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.60 % en Salomon Cinturón unisex de running  Cint'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ystCioF8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ystCioF8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ystCioF8L._SL200_.jpg' ]
 comments: true
 category: ofertas

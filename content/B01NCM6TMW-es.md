@@ -3,6 +3,7 @@ layout: post
 title: 'a40grados Sport & Style Caramelo Basic C al 66.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jkmyFhhEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jkmyFhhEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jkmyFhhEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.40 % en Skechers Track  Zapatillas de Entrenamie'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rN7c1GbHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rN7c1GbHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rN7c1GbHL._SL200_.jpg' ]
 comments: true
 category: ofertas

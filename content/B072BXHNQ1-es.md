@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Tech Graphic SS tee Cami al 56.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P3o0kYlBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P3o0kYlBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P3o0kYlBL._SL200_.jpg' ]
 comments: true
 category: ofertas

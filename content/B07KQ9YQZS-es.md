@@ -3,6 +3,7 @@ layout: post
 title: 'Eachy Compatible con Cristal Templado pa al 62.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qarLG4d8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qarLG4d8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qarLG4d8L._SL200_.jpg' ]
 comments: true
 category: ofertas

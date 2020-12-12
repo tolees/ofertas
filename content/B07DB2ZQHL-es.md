@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.98 % en adidas Predator 18.3 AG J  Botas de fútb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gSoD2t-pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gSoD2t-pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gSoD2t-pL._SL200_.jpg' ]
 comments: true
 category: ofertas

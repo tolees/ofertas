@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.62 % en Energy Sistem MAX 2+ - Smartphone de 5.5'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418qWDuA-RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418qWDuA-RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418qWDuA-RL._SL200_.jpg' ]
 comments: true
 category: ofertas

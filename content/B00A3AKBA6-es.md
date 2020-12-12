@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.73 % en Henkel siliconi Selladores y pistolas 15'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rGk-hpHpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rGk-hpHpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rGk-hpHpL._SL200_.jpg' ]
 comments: true
 category: ofertas

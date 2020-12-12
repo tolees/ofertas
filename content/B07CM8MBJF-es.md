@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.27 % en Trust Quro - Puntero láser inalámbrico V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MJ4-MPxPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MJ4-MPxPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MJ4-MPxPL._SL200_.jpg' ]
 comments: true
 category: ofertas

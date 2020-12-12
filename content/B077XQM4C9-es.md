@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.38 % en Under Armour Rival Fleece Short Pantalon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wYYklBXFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wYYklBXFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wYYklBXFL._SL200_.jpg' ]
 comments: true
 category: ofertas

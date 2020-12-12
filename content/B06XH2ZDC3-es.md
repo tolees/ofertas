@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 1023/S OZ 202 Gafas de Sol  al 48.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B-dz-heBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B-dz-heBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B-dz-heBL._SL200_.jpg' ]
 comments: true
 category: ofertas

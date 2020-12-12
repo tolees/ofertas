@@ -3,6 +3,7 @@ layout: post
 title: 'GoPetee Piscina para Perros Mascotas Ple al 27.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51emgC7Lv6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51emgC7Lv6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51emgC7Lv6L._SL200_.jpg' ]
 comments: true
 category: ofertas

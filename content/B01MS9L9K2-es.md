@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.26 % en TP-Link LB130 Bombilla WiFi inteligente '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tKYRBv%2B3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tKYRBv%2B3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tKYRBv%2B3L._SL200_.jpg' ]
 comments: true
 category: ofertas

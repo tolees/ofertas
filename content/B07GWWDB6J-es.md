@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Crew  suéter para Hombre  Rojo  al 66.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WbTNf1POL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WbTNf1POL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WbTNf1POL._SL200_.jpg' ]
 comments: true
 category: ofertas

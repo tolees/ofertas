@@ -3,6 +3,7 @@ layout: post
 title: 'Aigostar - Bombilla LED A5 C37  E27  7 W al 35.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uRuS2feCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uRuS2feCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uRuS2feCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.60 % en KS Tools 515.1980 Pistola de limpieza po'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ai%2BiAr3ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ai%2BiAr3ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ai%2BiAr3ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

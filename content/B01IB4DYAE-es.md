@@ -3,6 +3,7 @@ layout: post
 title: 'Bonita Platzierter Druck  3/4-Arm  Blusa al 66.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HFc--RszL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HFc--RszL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HFc--RszL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.81 % en The North Face Light Drew Peak Sudadera '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319oco7QPiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319oco7QPiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319oco7QPiL._SL200_.jpg' ]
 comments: true
 category: ofertas

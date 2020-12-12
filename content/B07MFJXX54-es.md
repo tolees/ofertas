@@ -3,6 +3,7 @@ layout: post
 title: 'Masajeador Louviva 12 Modos Color Rojo y al 26.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KHmv-13ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KHmv-13ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KHmv-13ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Sony SELP28135G - Objetivo para videocám al 25.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413t3rFPITL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413t3rFPITL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413t3rFPITL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.23 % en Navidul  Paleta de bellota ibérica  5 - '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mgLRsjsKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mgLRsjsKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mgLRsjsKL._SL200_.jpg' ]
 comments: true
 category: ofertas

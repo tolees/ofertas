@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.80 % en find. Vaqueros Ajustados para Hombre  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X6SXL0zOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X6SXL0zOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X6SXL0zOL._SL200_.jpg' ]
 comments: true
 category: ofertas

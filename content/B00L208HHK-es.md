@@ -3,6 +3,7 @@ layout: post
 title: 'Ted Baker London Rockall - Auriculares d al 78.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ACuU%2BcVUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ACuU%2BcVUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ACuU%2BcVUL._SL200_.jpg' ]
 comments: true
 category: ofertas

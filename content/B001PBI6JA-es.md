@@ -3,6 +3,7 @@ layout: post
 title: 'NIKE - Zapatillas de deporte Air Force 1 al 28.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ukf9pvLVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ukf9pvLVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ukf9pvLVL._SL200_.jpg' ]
 comments: true
 category: ofertas

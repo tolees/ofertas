@@ -3,6 +3,7 @@ layout: post
 title: 'JYDMIX Hub USB C  Tipo C Adaptador con U al 38.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516ZiGeeQJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516ZiGeeQJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516ZiGeeQJL._SL200_.jpg' ]
 comments: true
 category: ofertas

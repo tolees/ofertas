@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Ua Strive 7  Zapatillas Dep al 49.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PkC26uO9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PkC26uO9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PkC26uO9L._SL200_.jpg' ]
 comments: true
 category: ofertas

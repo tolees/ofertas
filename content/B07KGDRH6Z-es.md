@@ -3,6 +3,7 @@ layout: post
 title: '7.5W Cargador Inalámbrico Rápida para iP al 44.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KtMZtvoeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KtMZtvoeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KtMZtvoeL._SL200_.jpg' ]
 comments: true
 category: ofertas

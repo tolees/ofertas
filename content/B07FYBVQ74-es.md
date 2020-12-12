@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.81 % en Wrangler LS 1pkt Shirt Camisa  Azul  Nav'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417M5y1gOLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417M5y1gOLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417M5y1gOLL._SL200_.jpg' ]
 comments: true
 category: ofertas

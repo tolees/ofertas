@@ -3,6 +3,7 @@ layout: post
 title: 'Marantz Professional MPM-2000U - Micrófo al 33.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ts9JHXK1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ts9JHXK1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ts9JHXK1L._SL200_.jpg' ]
 comments: true
 category: ofertas

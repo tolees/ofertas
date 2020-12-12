@@ -3,6 +3,7 @@ layout: post
 title: 'El Ron Prohibido 12 Years Old Solera Ble al 63.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418AABIwx1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418AABIwx1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418AABIwx1L._SL200_.jpg' ]
 comments: true
 category: ofertas

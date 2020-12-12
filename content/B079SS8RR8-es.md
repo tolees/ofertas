@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual Jers_paty suéter    Negro 2000  al 57.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eOY07ED9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eOY07ED9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eOY07ED9L._SL200_.jpg' ]
 comments: true
 category: ofertas

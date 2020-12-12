@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.17 % en Helly Hansen Kos Polo  Hombre  Navy  XL'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Nkp4SJOAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Nkp4SJOAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Nkp4SJOAL._SL200_.jpg' ]
 comments: true
 category: ofertas

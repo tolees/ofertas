@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Speedlux 3.0  Zapatillas de Runni al 43.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BJRMi5qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BJRMi5qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BJRMi5qL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'DIM D01Q9  Calzoncillos para Hombre  Mul al 56.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N11RExCPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51N11RExCPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N11RExCPL._SL200_.jpg' ]
 comments: true
 category: ofertas

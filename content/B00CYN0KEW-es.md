@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.72 % en Ultrasport Mikrofaser-Team-Shorts Mike P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V9TlfVfWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V9TlfVfWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V9TlfVfWL._SL200_.jpg' ]
 comments: true
 category: ofertas

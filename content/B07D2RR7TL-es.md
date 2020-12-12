@@ -3,6 +3,7 @@ layout: post
 title: 'Gant O1. Heather Oxford Gingham Reg BD   al 54.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RhU2IhOVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RhU2IhOVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RhU2IhOVL._SL200_.jpg' ]
 comments: true
 category: ofertas

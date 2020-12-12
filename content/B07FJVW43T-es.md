@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Deline II  Zapatillas para Mu al 42.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313oAQHYKmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313oAQHYKmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313oAQHYKmL._SL200_.jpg' ]
 comments: true
 category: ofertas

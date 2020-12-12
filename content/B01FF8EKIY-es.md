@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.04 % en JACK & JONES Jjiliam Jjoriginal Am 010 L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v5wMrr%2BZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v5wMrr%2BZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v5wMrr%2BZL._SL200_.jpg' ]
 comments: true
 category: ofertas

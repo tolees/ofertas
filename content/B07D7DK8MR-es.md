@@ -3,6 +3,7 @@ layout: post
 title: 'DANISH ENDURANCE Bandas Elásticas de Res al 64.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yEQKeCRCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yEQKeCRCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yEQKeCRCL._SL200_.jpg' ]
 comments: true
 category: ofertas

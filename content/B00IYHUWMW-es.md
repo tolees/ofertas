@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.23 % en Weider Whey Coffee - 908 gr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51poUt-8uoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51poUt-8uoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51poUt-8uoL._SL200_.jpg' ]
 comments: true
 category: ofertas

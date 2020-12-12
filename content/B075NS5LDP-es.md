@@ -3,6 +3,7 @@ layout: post
 title: 'Gore Wear C5 Pantalón Corto Tirantes  Mu al 40.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Osf6uxML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419Osf6uxML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Osf6uxML._SL200_.jpg' ]
 comments: true
 category: ofertas

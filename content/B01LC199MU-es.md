@@ -3,6 +3,7 @@ layout: post
 title: 'Feel Good Art Cute ilustrativos diseño e al 44.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m-kV91w5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m-kV91w5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m-kV91w5L._SL200_.jpg' ]
 comments: true
 category: ofertas

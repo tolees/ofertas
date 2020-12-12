@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Warley B  Zapatillas para Hombre  al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w0v1O-v7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31w0v1O-v7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31w0v1O-v7L._SL200_.jpg' ]
 comments: true
 category: ofertas

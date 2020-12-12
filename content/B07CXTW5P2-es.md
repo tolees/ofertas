@@ -3,6 +3,7 @@ layout: post
 title: 'KEDRON Cargador Móvil Portátil Batería E al 29.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4190zdM0oTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4190zdM0oTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4190zdM0oTL._SL200_.jpg' ]
 comments: true
 category: ofertas

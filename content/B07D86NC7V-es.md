@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fresh Foam Cruz v2 Sock  Zap al 68.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fHVt8mP7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fHVt8mP7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fHVt8mP7L._SL200_.jpg' ]
 comments: true
 category: ofertas

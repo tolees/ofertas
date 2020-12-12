@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.21 % en Kronus Unisex konuslight-9 6 Piezas Lint'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3152nAdoXzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3152nAdoXzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3152nAdoXzL._SL200_.jpg' ]
 comments: true
 category: ofertas

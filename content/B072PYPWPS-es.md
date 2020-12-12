@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.45 % en Asics Aaron  Zapatillas para Hombre  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aY9cWOMbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aY9cWOMbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aY9cWOMbL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Casals C05109000 Sierra circular 1200 W  al 38.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517hVUsU%2BzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517hVUsU%2BzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517hVUsU%2BzL._SL200_.jpg' ]
 comments: true
 category: ofertas

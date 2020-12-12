@@ -3,6 +3,7 @@ layout: post
 title: 'Juego de Bondage de cuero rosa 7pcs Jueg al 40.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BC0eCXEQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BC0eCXEQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BC0eCXEQL._SL200_.jpg' ]
 comments: true
 category: ofertas

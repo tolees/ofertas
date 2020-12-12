@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.25 % en Mochila cordón KAUKKO Bolsa deportiva un'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JZWOn3SBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JZWOn3SBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JZWOn3SBL._SL200_.jpg' ]
 comments: true
 category: ofertas

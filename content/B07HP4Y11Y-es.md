@@ -3,6 +3,7 @@ layout: post
 title: 'Caja de Luz de cine con 160 Letras  Núme al 25.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v23G7sfVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51v23G7sfVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v23G7sfVL._SL200_.jpg' ]
 comments: true
 category: ofertas

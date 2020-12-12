@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.44 % en Newskill Thanatos Switch Red - Teclado m'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fGt-nKubL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fGt-nKubL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fGt-nKubL._SL200_.jpg' ]
 comments: true
 category: ofertas

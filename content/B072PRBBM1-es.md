@@ -3,6 +3,7 @@ layout: post
 title: 'RED WAGON Mono Corto Cruzado para Niñas  al 59.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s9SnPxmWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51s9SnPxmWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s9SnPxmWL._SL200_.jpg' ]
 comments: true
 category: ofertas

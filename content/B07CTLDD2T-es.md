@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.11 % en Under Armour UA GS Suspend  Zapatillas d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FiDhOOpzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FiDhOOpzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FiDhOOpzL._SL200_.jpg' ]
 comments: true
 category: ofertas

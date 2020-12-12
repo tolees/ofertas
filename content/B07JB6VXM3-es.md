@@ -3,6 +3,7 @@ layout: post
 title: 'BLOOMWIN Bombillas de Vela LED E14 3W Re al 69.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sXR%2Bh%2BfdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sXR%2Bh%2BfdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sXR%2Bh%2BfdL._SL200_.jpg' ]
 comments: true
 category: ofertas

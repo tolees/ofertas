@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.62 % en Festina Reloj Análogo clásico para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s92jcNywL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s92jcNywL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s92jcNywL._SL200_.jpg' ]
 comments: true
 category: ofertas

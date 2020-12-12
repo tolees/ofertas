@@ -3,6 +3,7 @@ layout: post
 title: 'Mars Gaming MHBC - Auriculares del FC Ba al 65.91 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

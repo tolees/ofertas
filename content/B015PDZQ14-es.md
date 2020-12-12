@@ -3,6 +3,7 @@ layout: post
 title: 'Marmot - Pro Tour Pants  Color Negro  Ta al 52.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315o7xEqVgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315o7xEqVgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315o7xEqVgL._SL200_.jpg' ]
 comments: true
 category: ofertas

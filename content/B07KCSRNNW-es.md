@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Tess.Jacquard NATU+PU  bol al 40.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TFtnpNGXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TFtnpNGXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TFtnpNGXL._SL200_.jpg' ]
 comments: true
 category: ofertas

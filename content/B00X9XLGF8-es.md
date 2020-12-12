@@ -3,6 +3,7 @@ layout: post
 title: 'Maybelline New York 2en1 Eye Make Up Des al 44.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TdqmlnNaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TdqmlnNaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TdqmlnNaL._SL200_.jpg' ]
 comments: true
 category: ofertas

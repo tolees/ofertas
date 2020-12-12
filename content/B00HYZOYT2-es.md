@@ -3,6 +3,7 @@ layout: post
 title: 'Keter -  Conjunto de terraza o balcón Rí al 25.08 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

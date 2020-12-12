@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.09 % en Lee Pocket tee Camisa  Blanco  White Can'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KN94ZXc2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KN94ZXc2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KN94ZXc2L._SL200_.jpg' ]
 comments: true
 category: ofertas

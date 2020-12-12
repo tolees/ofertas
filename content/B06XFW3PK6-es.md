@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.74 % en Dr. Martens Corvid S1p  Zapatos de Segur'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rpFibw9CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rpFibw9CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rpFibw9CL._SL200_.jpg' ]
 comments: true
 category: ofertas

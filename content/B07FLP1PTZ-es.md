@@ -3,6 +3,7 @@ layout: post
 title: 'Nike SB Check Suede  GS   Zapatillas de  al 47.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YCb8WYqFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YCb8WYqFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YCb8WYqFL._SL200_.jpg' ]
 comments: true
 category: ofertas

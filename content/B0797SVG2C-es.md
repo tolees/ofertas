@@ -3,6 +3,7 @@ layout: post
 title: 'MURENKING MK36C Batidoras Amasadoras 100 al 43.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qtbryvUQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qtbryvUQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qtbryvUQL._SL200_.jpg' ]
 comments: true
 category: ofertas

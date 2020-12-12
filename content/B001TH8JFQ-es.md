@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.92 % en Wenko Jabonera  Acero Inoxidable  11 5 x'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zF1VadDwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zF1VadDwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zF1VadDwL._SL200_.jpg' ]
 comments: true
 category: ofertas

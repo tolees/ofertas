@@ -3,6 +3,7 @@ layout: post
 title: 'Blend  20702635 - Camisa de Manga Corta  al 77.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416WEPiHhJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416WEPiHhJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416WEPiHhJL._SL200_.jpg' ]
 comments: true
 category: ofertas

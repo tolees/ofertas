@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual Capri Tonal Geo 5189 Mallas y B al 56.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31suF2gyBKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31suF2gyBKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31suF2gyBKL._SL200_.jpg' ]
 comments: true
 category: ofertas

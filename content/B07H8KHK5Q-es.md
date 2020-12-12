@@ -3,6 +3,7 @@ layout: post
 title: 'Renberg Pk1178 Set Hogar Cocina 6 Mugs Y al 42.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ecavO0KUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ecavO0KUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ecavO0KUL._SL200_.jpg' ]
 comments: true
 category: ofertas

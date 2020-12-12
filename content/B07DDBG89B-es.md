@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.33 % en Refresh 64665  Botines para Mujer  Marró'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o5P2eFljL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o5P2eFljL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o5P2eFljL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.19 % en Vans Sk8-hi  Zapatillas Altas para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NqwUdi5nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NqwUdi5nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NqwUdi5nL._SL200_.jpg' ]
 comments: true
 category: ofertas

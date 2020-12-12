@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Moto Stretch S2 Pantalones  Gr al 50.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312VxM-ndgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312VxM-ndgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312VxM-ndgL._SL200_.jpg' ]
 comments: true
 category: ofertas

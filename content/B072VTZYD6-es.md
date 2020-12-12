@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.17 % en Swarovski Pendientes Circle  medianos  b'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gB4%2BAc%2B3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gB4%2BAc%2B3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gB4%2BAc%2B3L._SL200_.jpg' ]
 comments: true
 category: ofertas

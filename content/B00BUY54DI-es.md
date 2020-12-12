@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.42 % en POP! Vinilo - Movies: Alien'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41movcrL9ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41movcrL9ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41movcrL9ML._SL200_.jpg' ]
 comments: true
 category: ofertas

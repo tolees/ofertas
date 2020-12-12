@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.99 % en V per vendetta + Sucker punch [Italia] ['
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BeO1uq-8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BeO1uq-8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BeO1uq-8L._SL200_.jpg' ]
 comments: true
 category: ofertas

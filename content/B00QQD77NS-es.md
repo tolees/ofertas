@@ -3,6 +3,7 @@ layout: post
 title: 'VILA CLOTHES VIMASK BLAZER  Chaqueta de  al 77.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P2bzPqsvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P2bzPqsvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P2bzPqsvL._SL200_.jpg' ]
 comments: true
 category: ofertas

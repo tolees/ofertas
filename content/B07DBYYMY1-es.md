@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Puma Vikky v2 Zapatillas Mujer  Gri al 42.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jnYyyGPWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jnYyyGPWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jnYyyGPWL._SL200_.jpg' ]
 comments: true
 category: ofertas

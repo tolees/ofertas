@@ -3,6 +3,7 @@ layout: post
 title: 'Braun BG 5010 Afeitadora Corporal para H al 34.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TRqG%2B2VYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TRqG%2B2VYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TRqG%2B2VYL._SL200_.jpg' ]
 comments: true
 category: ofertas

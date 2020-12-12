@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Torch Low  Zapatos de Ba al 37.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HOt%2Bmr87L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HOt%2Bmr87L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HOt%2Bmr87L._SL200_.jpg' ]
 comments: true
 category: ofertas

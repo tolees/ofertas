@@ -3,6 +3,7 @@ layout: post
 title: 'recargables eléctrica batería Guantes ca al 63.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c5S71jzSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51c5S71jzSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c5S71jzSL._SL200_.jpg' ]
 comments: true
 category: ofertas

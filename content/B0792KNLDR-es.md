@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.47 % en Quiksilver - Chaqueta Softshell Impermea'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519TWTZ%2BLzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519TWTZ%2BLzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519TWTZ%2BLzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en G-Star Raw 3301 Straight Jeans  Vaqueros'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qwjHHw-9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qwjHHw-9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qwjHHw-9L._SL200_.jpg' ]
 comments: true
 category: ofertas

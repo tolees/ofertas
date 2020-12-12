@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.21 % en D-Link DGS-1016D/E - Switch 16 puertos G'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O3owJvUcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O3owJvUcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O3owJvUcL._SL200_.jpg' ]
 comments: true
 category: ofertas

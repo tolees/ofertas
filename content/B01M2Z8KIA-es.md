@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Batman equipaje  color rosso 14.4cm al 52.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qosb9w8NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qosb9w8NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qosb9w8NL._SL200_.jpg' ]
 comments: true
 category: ofertas

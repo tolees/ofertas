@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.08 % en Volcom Sngl STN DIV Crew Sudadera  Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fZ2sIjEKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fZ2sIjEKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fZ2sIjEKL._SL200_.jpg' ]
 comments: true
 category: ofertas

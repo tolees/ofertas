@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.73 % en Alien: Covenant - Blu-Ray  4K  Ultra HD '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JeavWdpHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JeavWdpHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JeavWdpHL._SL200_.jpg' ]
 comments: true
 category: ofertas

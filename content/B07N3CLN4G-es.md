@@ -3,6 +3,7 @@ layout: post
 title: 'Munich Dash Kid  Zapatillas de Deporte U al 57.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lZodSrLbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lZodSrLbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lZodSrLbL._SL200_.jpg' ]
 comments: true
 category: ofertas

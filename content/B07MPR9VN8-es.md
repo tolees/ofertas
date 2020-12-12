@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.76 % en Jagermeister Jagermeister Licor 35º - 10'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TlDu0aMrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TlDu0aMrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TlDu0aMrL._SL200_.jpg' ]
 comments: true
 category: ofertas

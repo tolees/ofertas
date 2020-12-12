@@ -3,6 +3,7 @@ layout: post
 title: 'IMC Toys - Play Set Tsum Tsum  171534  al 59.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iV8BHX35L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iV8BHX35L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iV8BHX35L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Buff Nera Trucker Gorra  Mujer  Naranja  al 49.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ilAXfKYML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ilAXfKYML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ilAXfKYML._SL200_.jpg' ]
 comments: true
 category: ofertas

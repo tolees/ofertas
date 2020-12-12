@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.39 % en Salomon XA Lite GTX  Zapatillas de Trail'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5136RF93nrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5136RF93nrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5136RF93nrL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES Pcfive Delly B156 MW Skn Des JNS  al 68.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419AJT%2Bx4RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419AJT%2Bx4RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419AJT%2Bx4RL._SL200_.jpg' ]
 comments: true
 category: ofertas

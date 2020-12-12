@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.00 % en find. Falda Vaquera Suave con Cordón par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p5ulPjJ5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p5ulPjJ5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p5ulPjJ5L._SL200_.jpg' ]
 comments: true
 category: ofertas

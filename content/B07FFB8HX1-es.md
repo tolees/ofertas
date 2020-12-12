@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlmaye 3/4 V-Neck Dress CC Knt  Ve al 60.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41edAUwmO8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41edAUwmO8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41edAUwmO8L._SL200_.jpg' ]
 comments: true
 category: ofertas

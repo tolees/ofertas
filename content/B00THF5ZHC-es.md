@@ -3,6 +3,7 @@ layout: post
 title: 'Schwarzkopf Professional Silhouette Colo al 57.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310lh5xsirL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310lh5xsirL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310lh5xsirL._SL200_.jpg' ]
 comments: true
 category: ofertas

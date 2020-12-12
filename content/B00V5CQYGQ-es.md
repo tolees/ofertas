@@ -3,6 +3,7 @@ layout: post
 title: 'Bioderma  Autobronceador corporal - 40 m al 62.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qbeDdw4iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qbeDdw4iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qbeDdw4iL._SL200_.jpg' ]
 comments: true
 category: ofertas

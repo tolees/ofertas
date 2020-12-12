@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel 3.T.M.Camisero Denim Bord  Muj al 69.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LSq%2BRd07L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LSq%2BRd07L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LSq%2BRd07L._SL200_.jpg' ]
 comments: true
 category: ofertas

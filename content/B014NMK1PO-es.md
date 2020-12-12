@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.11 % en Pepe Jeans Jeanius  Vaqueros relaxed par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AcrJPVs8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AcrJPVs8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AcrJPVs8L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Kensington K72424WW - Ratón inalámbrico  al 44.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J6orUKx5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J6orUKx5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J6orUKx5L._SL200_.jpg' ]
 comments: true
 category: ofertas

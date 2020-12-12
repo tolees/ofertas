@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 504 Regular Straight Fit  Vaquero al 62.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L20x8ONuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L20x8ONuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L20x8ONuL._SL200_.jpg' ]
 comments: true
 category: ofertas

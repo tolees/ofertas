@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.44 % en ZADIG&VOLTAIRE Robe Vestido   Bleu Blanc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o91gw2wKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o91gw2wKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o91gw2wKL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Probios Compota de Piña y Jengibre - Paq al 56.74 % de descuento'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B075FYFZ2T.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+image: 'http://images.amazon.com/images/P/B075FYFZ2T.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B075FYFZ2T.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.67 % en Springfield 6883680 Falda  Mujer  Rojo  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vuF1t%2BKrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vuF1t%2BKrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vuF1t%2BKrL._SL200_.jpg' ]
 comments: true
 category: ofertas

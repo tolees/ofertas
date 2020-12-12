@@ -3,6 +3,7 @@ layout: post
 title: 'Benq BL2381T Pantalla para PC 57 1 cm  2 al 33.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U4jqePzwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U4jqePzwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U4jqePzwL._SL200_.jpg' ]
 comments: true
 category: ofertas

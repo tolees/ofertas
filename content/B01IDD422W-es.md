@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.93 % en Dragon Quest VII: Fragmentos De Un Pasad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/617luK8N%2BgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/617luK8N%2BgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/617luK8N%2BgL._SL200_.jpg' ]
 comments: true
 category: ofertas

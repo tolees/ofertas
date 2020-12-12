@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Logo tee Plus Size Camiseta  Gris  S al 60.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4135HalYbQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4135HalYbQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4135HalYbQL._SL200_.jpg' ]
 comments: true
 category: ofertas

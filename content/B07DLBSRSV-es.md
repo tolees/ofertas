@@ -3,6 +3,7 @@ layout: post
 title: 'Element Cornell Classic ZH Fleece  Hombr al 43.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413beiJgBLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413beiJgBLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413beiJgBLL._SL200_.jpg' ]
 comments: true
 category: ofertas

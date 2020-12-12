@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley Eyes ON The Horizon PRM tee SS Ca al 43.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EB%2B%2BG35ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EB%2B%2BG35ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EB%2B%2BG35ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

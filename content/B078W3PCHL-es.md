@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.07 % en Vans Era 59  Zapatillas Unisex Adulto  V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DcFOmjrOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DcFOmjrOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DcFOmjrOL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.57 % en Bqeel Z83V Mini PC soporte Windows 10 Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lrvhmt%2BmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Lrvhmt%2BmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lrvhmt%2BmL._SL200_.jpg' ]
 comments: true
 category: ofertas

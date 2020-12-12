@@ -3,6 +3,7 @@ layout: post
 title: 'Vila Clothes Vimaddie Bomber Jacket-Noos al 72.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6wyY5F4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6wyY5F4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y6wyY5F4L._SL200_.jpg' ]
 comments: true
 category: ofertas

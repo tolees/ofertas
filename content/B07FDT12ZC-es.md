@@ -3,6 +3,7 @@ layout: post
 title: 'Lico Recent Indoor Kids V  Zapatillas de al 62.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A6y6oUk-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A6y6oUk-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A6y6oUk-L._SL200_.jpg' ]
 comments: true
 category: ofertas

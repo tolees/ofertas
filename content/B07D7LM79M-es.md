@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.50 % en Guess M83p00j1300  Polo para Hombre  Roj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NQP5Kj39L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NQP5Kj39L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NQP5Kj39L._SL200_.jpg' ]
 comments: true
 category: ofertas

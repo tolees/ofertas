@@ -3,6 +3,7 @@ layout: post
 title: 'Guzack Termómetro Digital de Cocina  Pro al 44.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w3uEIGtKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51w3uEIGtKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w3uEIGtKL._SL200_.jpg' ]
 comments: true
 category: ofertas

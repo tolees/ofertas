@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.90 % en Optimum Nutrition Opti-Women Standard - '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RdgNZ6%2BuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RdgNZ6%2BuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RdgNZ6%2BuL._SL200_.jpg' ]
 comments: true
 category: ofertas

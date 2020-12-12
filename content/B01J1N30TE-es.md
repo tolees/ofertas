@@ -3,6 +3,7 @@ layout: post
 title: 'Seagate Backup Plus Portable Slim - Disc al 39.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oj79hpJUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oj79hpJUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oj79hpJUL._SL200_.jpg' ]
 comments: true
 category: ofertas

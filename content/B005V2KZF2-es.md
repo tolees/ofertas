@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.49 % en Nike Wmns Tanjun Racer  Zapatillas de Ru'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GDrw64ZKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GDrw64ZKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GDrw64ZKL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Soporte para sartén 5 niveles Organizado al 40.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pB2FpI3GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pB2FpI3GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pB2FpI3GL._SL200_.jpg' ]
 comments: true
 category: ofertas

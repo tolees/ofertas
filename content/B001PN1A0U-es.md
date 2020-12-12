@@ -3,6 +3,7 @@ layout: post
 title: 'Maped - Juego de sacapuntas de 1 orifici al 57.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nFjh0q6cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nFjh0q6cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nFjh0q6cL._SL200_.jpg' ]
 comments: true
 category: ofertas

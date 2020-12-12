@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.38 % en Iluminación Bombilla LED de la casa del '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VWYeL6-vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VWYeL6-vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VWYeL6-vL._SL200_.jpg' ]
 comments: true
 category: ofertas

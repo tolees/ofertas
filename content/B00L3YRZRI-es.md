@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.19 % en Grès Lumière Rose Eau de Parfum - 100 ml'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dMJss%2BiFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dMJss%2BiFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dMJss%2BiFL._SL200_.jpg' ]
 comments: true
 category: ofertas

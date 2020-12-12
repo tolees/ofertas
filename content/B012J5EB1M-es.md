@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.05 % en Nike 844752  Zapatillas de Deporte para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bCDuYtW5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bCDuYtW5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bCDuYtW5L._SL200_.jpg' ]
 comments: true
 category: ofertas

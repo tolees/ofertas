@@ -3,6 +3,7 @@ layout: post
 title: 'Casio Reloj de Pulsera W-734-2AVEF al 57.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WJdsVhxGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WJdsVhxGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WJdsVhxGL._SL200_.jpg' ]
 comments: true
 category: ofertas

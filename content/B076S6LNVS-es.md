@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Camisa Cuadros Camisa Casual al 71.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BQsQ6RevL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BQsQ6RevL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BQsQ6RevL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.13 % en Springfield 3 Pack Basicos Bóxer   Gama '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WMZB6mawL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WMZB6mawL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WMZB6mawL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Elves - Aira y la canción del dragó al 26.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/616zTzpaejL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/616zTzpaejL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/616zTzpaejL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.38 % en Puma Smash Wns v2 L  Zapatillas para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RAvmHrrJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RAvmHrrJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RAvmHrrJL._SL200_.jpg' ]
 comments: true
 category: ofertas

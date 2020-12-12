@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.72 % en Quiksilver In Drop out Camiseta  Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OGze2cI2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OGze2cI2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OGze2cI2L._SL200_.jpg' ]
 comments: true
 category: ofertas

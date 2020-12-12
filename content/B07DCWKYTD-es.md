@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger 3p Boxer Brief  Rosa  Gre al 45.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m9guGBHbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m9guGBHbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m9guGBHbL._SL200_.jpg' ]
 comments: true
 category: ofertas

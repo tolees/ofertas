@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi Premio 23724  Zapatos de Cor al 82.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O4ZqnA9VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O4ZqnA9VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O4ZqnA9VL._SL200_.jpg' ]
 comments: true
 category: ofertas

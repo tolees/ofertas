@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Elodie Chaqueta de Snowboard  Niñ al 62.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519HHo6ROnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519HHo6ROnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519HHo6ROnL._SL200_.jpg' ]
 comments: true
 category: ofertas

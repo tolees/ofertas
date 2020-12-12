@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Estate Snow Pant  Hombre  Fla al 52.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3hRiIoRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3hRiIoRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q3hRiIoRL._SL200_.jpg' ]
 comments: true
 category: ofertas

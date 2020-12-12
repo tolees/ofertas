@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.75 % en Red Tape Albany  Botas Chelsea para Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J5Sr3Y6ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J5Sr3Y6ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J5Sr3Y6ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.46 % en Homcom Rodillo Magnético de Ciclismo Rod'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bya0bQBJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bya0bQBJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bya0bQBJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Pulse 9  Zapatillas de Running al 35.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t3pZ0hKNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51t3pZ0hKNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t3pZ0hKNL._SL200_.jpg' ]
 comments: true
 category: ofertas

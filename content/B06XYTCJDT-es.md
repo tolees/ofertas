@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.20 % en Levi s The Perfect camiseta sin mangas p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iKuFxoZVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iKuFxoZVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iKuFxoZVL._SL200_.jpg' ]
 comments: true
 category: ofertas

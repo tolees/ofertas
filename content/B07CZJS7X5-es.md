@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Mk1 LS Graphic Camiseta de  al 46.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414KYcHCjXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414KYcHCjXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414KYcHCjXL._SL200_.jpg' ]
 comments: true
 category: ofertas

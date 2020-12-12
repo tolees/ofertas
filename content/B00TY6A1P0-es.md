@@ -3,6 +3,7 @@ layout: post
 title: 'HyperX Fury HX421C14FBK2/8 - Memoria RAM al 27.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dIGpq6FsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dIGpq6FsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dIGpq6FsL._SL200_.jpg' ]
 comments: true
 category: ofertas

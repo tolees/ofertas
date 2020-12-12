@@ -3,6 +3,7 @@ layout: post
 title: 'Bed Head by TIGI Cera Mate 57 g al 60.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MT%2BjeB-EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MT%2BjeB-EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MT%2BjeB-EL._SL200_.jpg' ]
 comments: true
 category: ofertas

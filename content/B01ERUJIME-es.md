@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Tennis 80 Short  Pantalones Cortos  al 57.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yTMvM92jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yTMvM92jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yTMvM92jL._SL200_.jpg' ]
 comments: true
 category: ofertas

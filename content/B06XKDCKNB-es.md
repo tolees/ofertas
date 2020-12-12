@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.87 % en Alcatel A3 - Smartphone Pantalla de 5"  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YlfFBKs5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YlfFBKs5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YlfFBKs5L._SL200_.jpg' ]
 comments: true
 category: ofertas

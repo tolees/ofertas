@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.64 % en MicroConnect IC-1621-P-1/BL - Cable de R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Bi-mWDnCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Bi-mWDnCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Bi-mWDnCL._SL200_.jpg' ]
 comments: true
 category: ofertas

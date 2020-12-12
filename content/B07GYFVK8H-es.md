@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.72 % en bugatti 311450604000  Mocasines para Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nChbWXRlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nChbWXRlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nChbWXRlL._SL200_.jpg' ]
 comments: true
 category: ofertas

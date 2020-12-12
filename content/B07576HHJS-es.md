@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Parka Larga Capucha Pluma Wa al 65.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fMN-R7ZVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fMN-R7ZVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fMN-R7ZVL._SL200_.jpg' ]
 comments: true
 category: ofertas

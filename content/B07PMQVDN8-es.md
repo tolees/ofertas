@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.02 % en RIP CURL Retro Haze 16   Bañador  Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KmhOzXlML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KmhOzXlML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KmhOzXlML._SL200_.jpg' ]
 comments: true
 category: ofertas

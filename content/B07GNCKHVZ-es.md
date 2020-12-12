@@ -3,6 +3,7 @@ layout: post
 title: 'LifeWheel - Calcetines cortos - para hom al 49.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4145R6ecVYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4145R6ecVYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4145R6ecVYL._SL200_.jpg' ]
 comments: true
 category: ofertas

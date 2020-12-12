@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlnew Bridget Rib 7/8 Pullover Knt al 76.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yx8u-BoVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yx8u-BoVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yx8u-BoVL._SL200_.jpg' ]
 comments: true
 category: ofertas

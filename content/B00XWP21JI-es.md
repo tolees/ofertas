@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Nike NIKE MD RUNNER 2 Zapatillas de runn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dxP2kHo4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dxP2kHo4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dxP2kHo4L._SL200_.jpg' ]
 comments: true
 category: ofertas

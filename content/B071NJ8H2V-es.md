@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.25 % en Tommy Hilfiger Poppy Small Tote  Bolso T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bh25ibo5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bh25ibo5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bh25ibo5L._SL200_.jpg' ]
 comments: true
 category: ofertas

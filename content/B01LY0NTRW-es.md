@@ -3,6 +3,7 @@ layout: post
 title: 'Schott NYC TR RANGER 70  Pantalones Para al 81.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ff1%2ByJT1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ff1%2ByJT1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ff1%2ByJT1L._SL200_.jpg' ]
 comments: true
 category: ofertas

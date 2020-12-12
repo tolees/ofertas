@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.85 % en Angerella Traje de baño Monokinis Vintag'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Trn42zbRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Trn42zbRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Trn42zbRL._SL200_.jpg' ]
 comments: true
 category: ofertas

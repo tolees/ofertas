@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.55 % en Crocs Crocband Sandal Kids  Sandalias Un'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AGH3%2B3kRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AGH3%2B3kRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AGH3%2B3kRL._SL200_.jpg' ]
 comments: true
 category: ofertas

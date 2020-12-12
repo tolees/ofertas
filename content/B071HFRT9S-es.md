@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers by Gerli 41ch304  Botas Estilo M al 55.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B%2BZr3FSAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B%2BZr3FSAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B%2BZr3FSAL._SL200_.jpg' ]
 comments: true
 category: ofertas

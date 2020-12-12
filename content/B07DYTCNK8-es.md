@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.15 % en Nike G NP Tank Top  Niñas  White/ Black '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21yz1ROz7CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21yz1ROz7CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21yz1ROz7CL._SL200_.jpg' ]
 comments: true
 category: ofertas

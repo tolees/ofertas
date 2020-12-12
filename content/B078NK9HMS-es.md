@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.46 % en Radio para coche MP3  LESHP Reproductor '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C%2BwLbwtpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C%2BwLbwtpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C%2BwLbwtpL._SL200_.jpg' ]
 comments: true
 category: ofertas

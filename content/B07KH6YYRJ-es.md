@@ -3,6 +3,7 @@ layout: post
 title: 'Bolsa Manillar Bici Impermeable Bolsa Tu al 34.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5159%2BHGWOSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5159%2BHGWOSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5159%2BHGWOSL._SL200_.jpg' ]
 comments: true
 category: ofertas

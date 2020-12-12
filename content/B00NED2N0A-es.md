@@ -3,6 +3,7 @@ layout: post
 title: 'JVC HA-ETX30-A-E - Auriculares deportivo al 53.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4172o58Ln5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4172o58Ln5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4172o58Ln5L._SL200_.jpg' ]
 comments: true
 category: ofertas

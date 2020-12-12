@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Aaron  Zapatillas para Hombre  Neg al 50.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31swigog5HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31swigog5HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31swigog5HL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.96 % en APC Surge Arrest Essential - PM1W-GR - P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311ElYX%2BstL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311ElYX%2BstL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311ElYX%2BstL._SL200_.jpg' ]
 comments: true
 category: ofertas

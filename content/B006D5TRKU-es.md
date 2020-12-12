@@ -3,6 +3,7 @@ layout: post
 title: 'James & Nicholson Sweatshirt Round Heavy al 81.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516Mqi2b%2BAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516Mqi2b%2BAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516Mqi2b%2BAL._SL200_.jpg' ]
 comments: true
 category: ofertas

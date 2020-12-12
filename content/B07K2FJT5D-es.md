@@ -3,6 +3,7 @@ layout: post
 title: 'hummel Diamant Glitter Jr  Zapatillas pa al 55.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rm9vu-zCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rm9vu-zCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rm9vu-zCL._SL200_.jpg' ]
 comments: true
 category: ofertas

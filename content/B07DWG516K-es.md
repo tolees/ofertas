@@ -3,6 +3,7 @@ layout: post
 title: 'Call It Spring EU - Giran  Bolsos bandol al 62.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411wm54-MJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411wm54-MJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411wm54-MJL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Adam Tie Dye Falda  Negro  Blac al 43.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rs3B7p7YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rs3B7p7YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rs3B7p7YL._SL200_.jpg' ]
 comments: true
 category: ofertas

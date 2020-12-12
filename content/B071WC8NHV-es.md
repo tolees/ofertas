@@ -3,6 +3,7 @@ layout: post
 title: 'adidas B39265  Zapatillas Mujer  Azul  A al 68.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tJvJF4fnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tJvJF4fnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tJvJF4fnL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Bestway 58036 Cobertor Invierno para Pis al 27.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rv4Ai7T1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rv4Ai7T1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rv4Ai7T1L._SL200_.jpg' ]
 comments: true
 category: ofertas

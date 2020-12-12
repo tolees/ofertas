@@ -3,6 +3,7 @@ layout: post
 title: 'Sony Xperia XZ1 13 2 cm  5.2"  4 GB 64 G al 52.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F2O4gKjqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F2O4gKjqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F2O4gKjqL._SL200_.jpg' ]
 comments: true
 category: ofertas

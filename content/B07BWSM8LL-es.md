@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.35 % en Eferri 0JV5917  Shopper para Mujer  Marr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NM1fqs9XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NM1fqs9XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NM1fqs9XL._SL200_.jpg' ]
 comments: true
 category: ofertas

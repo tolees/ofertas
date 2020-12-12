@@ -3,6 +3,7 @@ layout: post
 title: 'SUIT Camisa Hombre Azul 44 cm  17.5"  al 81.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Nl6d7DzPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Nl6d7DzPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Nl6d7DzPL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas PW Tennis Hu  Zapatillas de Depor al 70.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31R84sSim0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31R84sSim0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31R84sSim0L._SL200_.jpg' ]
 comments: true
 category: ofertas

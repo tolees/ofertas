@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.00 % en Lotus Reloj Analógico para Hombre de Cua'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4135cXiCavL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4135cXiCavL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4135cXiCavL._SL200_.jpg' ]
 comments: true
 category: ofertas

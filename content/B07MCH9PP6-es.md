@@ -3,6 +3,7 @@ layout: post
 title: 'DAMIGRAM Alcachofa de ducha  Alta Presio al 86.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/611allzfWNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/611allzfWNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/611allzfWNL._SL200_.jpg' ]
 comments: true
 category: ofertas

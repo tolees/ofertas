@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.33 % en Columbia Hombre Chaqueta impermeable  Po'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417clifV4qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417clifV4qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417clifV4qL._SL200_.jpg' ]
 comments: true
 category: ofertas

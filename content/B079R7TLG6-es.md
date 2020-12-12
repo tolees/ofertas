@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley Supersuede Koko Beachrider Bañado al 59.95 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

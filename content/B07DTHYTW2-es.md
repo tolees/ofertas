@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.35 % en Hanes Aq0060n Camiseta de Tirantes  06r '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CT%2B1cgyGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CT%2B1cgyGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CT%2B1cgyGL._SL200_.jpg' ]
 comments: true
 category: ofertas

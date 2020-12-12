@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Thrills Zehentrenner  Chanclas pa al 63.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Uz1Ug884L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Uz1Ug884L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Uz1Ug884L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'PIECES Pcdonni Shorts Noos Pantalones Co al 64.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ds6dRE5%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ds6dRE5%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ds6dRE5%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

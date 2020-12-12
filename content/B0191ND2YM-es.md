@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 390v2  Zapatillas de Running al 45.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41atud-5CgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41atud-5CgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41atud-5CgL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Funko- btvs Figura Rock Candy Buffy  209 al 57.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GEmyPex4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GEmyPex4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GEmyPex4L._SL200_.jpg' ]
 comments: true
 category: ofertas

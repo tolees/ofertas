@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Daren Zip  Vaqueros para Hombre  Azu al 46.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OHp73tk%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OHp73tk%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OHp73tk%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

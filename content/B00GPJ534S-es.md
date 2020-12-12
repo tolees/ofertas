@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.01 % en Samsonite ColorShield 15.6" - Funda  Fun'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lcu9mpQlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lcu9mpQlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lcu9mpQlL._SL200_.jpg' ]
 comments: true
 category: ofertas

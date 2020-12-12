@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.12 % en Ovonni Irrigador dental portátil  3 Modo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iiTx-VBXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iiTx-VBXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iiTx-VBXL._SL200_.jpg' ]
 comments: true
 category: ofertas

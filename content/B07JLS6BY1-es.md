@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 32032  Zapatos con Tira de Tobillo p al 49.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yaZ5a%2BGSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yaZ5a%2BGSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yaZ5a%2BGSL._SL200_.jpg' ]
 comments: true
 category: ofertas

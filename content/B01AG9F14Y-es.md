@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.31 % en Ballistix Sport LT BLS4C8G4D240FSC/BLS4K'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bPPbZrkGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bPPbZrkGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bPPbZrkGL._SL200_.jpg' ]
 comments: true
 category: ofertas

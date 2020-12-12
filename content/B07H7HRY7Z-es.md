@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.00 % en Desigual Girl Knit T-Shirt Short Sleeve '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411Pn89ROeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411Pn89ROeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411Pn89ROeL._SL200_.jpg' ]
 comments: true
 category: ofertas

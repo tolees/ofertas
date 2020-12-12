@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.12 % en Dickies Smithfield  Abrigo Impermeable p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FIn6DmpUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FIn6DmpUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FIn6DmpUL._SL200_.jpg' ]
 comments: true
 category: ofertas

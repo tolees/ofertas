@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop!- The Walking Dead Richard Fig al 65.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vhD6KTt7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vhD6KTt7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vhD6KTt7L._SL200_.jpg' ]
 comments: true
 category: ofertas

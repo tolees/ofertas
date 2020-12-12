@@ -3,6 +3,7 @@ layout: post
 title: 'Sharp DR-450 BK  - Radio Digital Dab/Dab al 52.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PyrYEUQNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PyrYEUQNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PyrYEUQNL._SL200_.jpg' ]
 comments: true
 category: ofertas

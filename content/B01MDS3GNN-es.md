@@ -3,6 +3,7 @@ layout: post
 title: 'KEXIN 32GB Memoria USB 2.0 Pendrive 32GB al 50.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZLGDx-m3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZLGDx-m3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZLGDx-m3L._SL200_.jpg' ]
 comments: true
 category: ofertas

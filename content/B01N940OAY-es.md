@@ -3,6 +3,7 @@ layout: post
 title: 'Pata Negra Apasionado D.O Jumilla Vino T al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OL9asCpsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OL9asCpsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OL9asCpsL._SL200_.jpg' ]
 comments: true
 category: ofertas

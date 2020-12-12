@@ -3,6 +3,7 @@ layout: post
 title: 'Thumbs Up 1002200 videoconsola portátil  al 39.94 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

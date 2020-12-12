@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.81 % en Citizen Reloj de Pulsera Q894J204Y'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512ENITGHZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512ENITGHZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512ENITGHZL._SL200_.jpg' ]
 comments: true
 category: ofertas

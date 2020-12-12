@@ -3,6 +3,7 @@ layout: post
 title: 'SYROKAN Sujetador Deportivo de Alto Impa al 42.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Prh4ydb1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Prh4ydb1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Prh4ydb1L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: '2018 Joven Hombre Mujer Niño Niña Reloj  al 33.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vp9S%2BEWgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vp9S%2BEWgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vp9S%2BEWgL._SL200_.jpg' ]
 comments: true
 category: ofertas

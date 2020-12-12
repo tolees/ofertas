@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.67 % en Reloj SEKONDA - Mujer 2398.27'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bpiTXJwoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bpiTXJwoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bpiTXJwoL._SL200_.jpg' ]
 comments: true
 category: ofertas

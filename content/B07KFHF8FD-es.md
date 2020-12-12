@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.45 % en Esprit Kids T-Shirt LS Camisa Manga Larg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bn6a7mnaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bn6a7mnaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bn6a7mnaL._SL200_.jpg' ]
 comments: true
 category: ofertas

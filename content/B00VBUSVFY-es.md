@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.87 % en Tecnifibre Raqueta Squash CARBOFLEX S 12'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rg1WJAbQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rg1WJAbQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rg1WJAbQL._SL200_.jpg' ]
 comments: true
 category: ofertas

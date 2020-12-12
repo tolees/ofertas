@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES PREMIUM Jprthomas Knit Crew al 76.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H8mACmm2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H8mACmm2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H8mACmm2L._SL200_.jpg' ]
 comments: true
 category: ofertas

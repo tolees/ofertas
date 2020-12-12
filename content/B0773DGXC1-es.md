@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.28 % en Henpone Funda Samsung Galaxy Note 8 Fund'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510hKw6-PtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510hKw6-PtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510hKw6-PtL._SL200_.jpg' ]
 comments: true
 category: ofertas

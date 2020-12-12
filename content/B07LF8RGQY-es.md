@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.46 % en Levi s Slim 2Pk Crewneck 1 Camiseta  Two'
 date: 2020-12-11 21:30:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/21yoLBSikAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21yoLBSikAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21yoLBSikAL._SL200_.jpg' ]
 comments: true
 category: ofertas

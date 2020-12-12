@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 64408  Zapatillas sin Cordones p al 59.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511QS1RwO0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511QS1RwO0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511QS1RwO0L._SL200_.jpg' ]
 comments: true
 category: ofertas

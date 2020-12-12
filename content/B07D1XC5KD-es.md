@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange 6zyh18  Blusa para Mujer al 66.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4154Xpef12L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4154Xpef12L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4154Xpef12L._SL200_.jpg' ]
 comments: true
 category: ofertas

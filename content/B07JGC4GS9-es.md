@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Pf3960 Polo  Azul Encrier-Farine al 50.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dZQ-YLjiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dZQ-YLjiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dZQ-YLjiL._SL200_.jpg' ]
 comments: true
 category: ofertas

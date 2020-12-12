@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.16 % en Fitfiu - BELI100  Bicicleta elíptica est'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rpiF9GLJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rpiF9GLJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rpiF9GLJL._SL200_.jpg' ]
 comments: true
 category: ofertas

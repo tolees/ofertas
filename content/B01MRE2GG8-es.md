@@ -3,6 +3,7 @@ layout: post
 title: 'Pawise Troley para Transporte  37 x 27 x al 51.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419z5SFEXzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419z5SFEXzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419z5SFEXzL._SL200_.jpg' ]
 comments: true
 category: ofertas

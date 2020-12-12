@@ -3,6 +3,7 @@ layout: post
 title: 'Levis Footwear and Accessories Malibu Be al 39.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oNB0dzI2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oNB0dzI2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oNB0dzI2L._SL200_.jpg' ]
 comments: true
 category: ofertas

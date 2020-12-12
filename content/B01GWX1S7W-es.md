@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.01 % en Geox U NEW Damon a  Mocasines para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nuat4paML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nuat4paML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nuat4paML._SL200_.jpg' ]
 comments: true
 category: ofertas

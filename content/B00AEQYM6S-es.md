@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.20 % en Wagner'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H03h5MSeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51H03h5MSeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H03h5MSeL._SL200_.jpg' ]
 comments: true
 category: ofertas

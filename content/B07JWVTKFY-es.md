@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA ftblNXT Adjustable Cap Gorra  Sin g al 39.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CAnM7qZmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CAnM7qZmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CAnM7qZmL._SL200_.jpg' ]
 comments: true
 category: ofertas

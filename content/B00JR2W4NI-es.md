@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.89 % en Harry Potter Friends  Camiseta para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ycc6Z1DhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ycc6Z1DhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ycc6Z1DhL._SL200_.jpg' ]
 comments: true
 category: ofertas

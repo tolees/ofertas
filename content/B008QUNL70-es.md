@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.97 % en Tucano BDR15-B - Maletín para portátil d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qhppdx8bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qhppdx8bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qhppdx8bL._SL200_.jpg' ]
 comments: true
 category: ofertas

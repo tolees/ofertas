@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlmesa AOP Wide Sleeve Top Wvn  Bl al 58.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510%2BFXewARL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510%2BFXewARL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510%2BFXewARL._SL200_.jpg' ]
 comments: true
 category: ofertas

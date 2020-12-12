@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.00 % en ICHI CIVAZ DR - Vestido para Mujer  Colo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UKguUeYIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UKguUeYIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UKguUeYIL._SL200_.jpg' ]
 comments: true
 category: ofertas

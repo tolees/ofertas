@@ -3,6 +3,7 @@ layout: post
 title: 'Oleein Calzoncillos Ropa Interior Ciclis al 61.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b-YJZGfWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51b-YJZGfWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b-YJZGfWL._SL200_.jpg' ]
 comments: true
 category: ofertas

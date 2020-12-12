@@ -3,6 +3,7 @@ layout: post
 title: 'Hummel Aerocharge HB 200 2.0 Jr  Zapatil al 61.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416nKtNzqNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416nKtNzqNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416nKtNzqNL._SL200_.jpg' ]
 comments: true
 category: ofertas

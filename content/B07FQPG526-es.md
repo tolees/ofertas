@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley M One & Only 2.0 21  BAÑADORES  H al 56.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o8AAkpSBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31o8AAkpSBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o8AAkpSBL._SL200_.jpg' ]
 comments: true
 category: ofertas

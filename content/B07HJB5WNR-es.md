@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.57 % en Tommy Hilfiger Straight Denton 5pkt Gmd '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PghhfQ9gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PghhfQ9gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PghhfQ9gL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Tostadora  Tostadora 2 Rebanadas de Acer al 27.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415BHCxU%2BSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415BHCxU%2BSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415BHCxU%2BSL._SL200_.jpg' ]
 comments: true
 category: ofertas

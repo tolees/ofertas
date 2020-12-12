@@ -3,6 +3,7 @@ layout: post
 title: 'Double Agent 87404 Sudadera  Gris  Azul  al 75.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BbJOx-rUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BbJOx-rUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BbJOx-rUL._SL200_.jpg' ]
 comments: true
 category: ofertas

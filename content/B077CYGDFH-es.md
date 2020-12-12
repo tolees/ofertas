@@ -3,6 +3,7 @@ layout: post
 title: 'Speedo Equipment Mesh Bag Mochila  Unise al 52.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GS50R7%2BwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GS50R7%2BwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GS50R7%2BwL._SL200_.jpg' ]
 comments: true
 category: ofertas

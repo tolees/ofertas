@@ -3,6 +3,7 @@ layout: post
 title: 'DGC GmbH DVD-P 905 - Reproductor de DVD  al 48.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rjA2EW82L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rjA2EW82L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rjA2EW82L._SL200_.jpg' ]
 comments: true
 category: ofertas

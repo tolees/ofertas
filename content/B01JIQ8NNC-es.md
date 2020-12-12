@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.83 % en Samsung Galaxy Tab S2 - Tableta de 8" Fu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GvtCVNZ1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GvtCVNZ1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GvtCVNZ1L._SL200_.jpg' ]
 comments: true
 category: ofertas

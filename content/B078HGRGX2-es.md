@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 1503391  Camisa Casual para  al 40.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CQDZ1dwaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CQDZ1dwaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CQDZ1dwaL._SL200_.jpg' ]
 comments: true
 category: ofertas

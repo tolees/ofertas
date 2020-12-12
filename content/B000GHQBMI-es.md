@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.47 % en Umbra 330210-505 - Soporte para cocina'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bee7IKK3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bee7IKK3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bee7IKK3L._SL200_.jpg' ]
 comments: true
 category: ofertas

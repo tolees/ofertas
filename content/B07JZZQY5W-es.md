@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.05 % en Adidas Nemeziz Messi 18.4 FxG J  Zapatil'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HyWIkD8WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HyWIkD8WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HyWIkD8WL._SL200_.jpg' ]
 comments: true
 category: ofertas

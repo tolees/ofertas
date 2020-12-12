@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 047cc1k002  Camiseta Mujer al 34.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sWdCHuF4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sWdCHuF4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sWdCHuF4L._SL200_.jpg' ]
 comments: true
 category: ofertas

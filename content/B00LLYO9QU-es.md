@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.79 % en Urban Classics Chaqueta Burdeos M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510U46ThCDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510U46ThCDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510U46ThCDL._SL200_.jpg' ]
 comments: true
 category: ofertas

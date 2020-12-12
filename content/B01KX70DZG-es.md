@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban Junior 0Rb4273 Gafas de Sol  Shi al 58.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cC4tVzSNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cC4tVzSNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cC4tVzSNL._SL200_.jpg' ]
 comments: true
 category: ofertas

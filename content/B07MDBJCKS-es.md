@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Lynn Mid-Waist Skinny Vaquero al 75.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4117GXujBGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4117GXujBGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4117GXujBGL._SL200_.jpg' ]
 comments: true
 category: ofertas

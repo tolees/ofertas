@@ -3,6 +3,7 @@ layout: post
 title: 'Nespresso EN270.SAE Cafetera  1150-1260  al 60.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlqlHaQzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlqlHaQzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlqlHaQzL._SL200_.jpg' ]
 comments: true
 category: ofertas

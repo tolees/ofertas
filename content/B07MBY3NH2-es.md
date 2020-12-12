@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.13 % en Ritapreaty - Tapón para botellas de vino'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Vvqujb0xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Vvqujb0xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Vvqujb0xL._SL200_.jpg' ]
 comments: true
 category: ofertas

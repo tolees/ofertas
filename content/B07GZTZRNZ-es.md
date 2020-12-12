@@ -3,6 +3,7 @@ layout: post
 title: 'Fly London Inat422fly  Zapatos con Tacon al 70.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4195O6KSDPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4195O6KSDPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4195O6KSDPL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.84 % en Buff 108723  Cinta de Pelo Unisex Adulto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X4bs6xEjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31X4bs6xEjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X4bs6xEjL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Altavoz Bluetooth Portatiles  20W Multif al 75.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dgETqKBML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dgETqKBML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dgETqKBML._SL200_.jpg' ]
 comments: true
 category: ofertas

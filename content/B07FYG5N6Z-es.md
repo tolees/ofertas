@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.04 % en Michael Kors - Mott  Carteras de mano Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rrFuYuEKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rrFuYuEKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rrFuYuEKL._SL200_.jpg' ]
 comments: true
 category: ofertas

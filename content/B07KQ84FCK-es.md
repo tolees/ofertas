@@ -3,6 +3,7 @@ layout: post
 title: 'MINGWEN Universal Kit de Reparación de N al 54.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412wfbJFrSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412wfbJFrSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412wfbJFrSL._SL200_.jpg' ]
 comments: true
 category: ofertas

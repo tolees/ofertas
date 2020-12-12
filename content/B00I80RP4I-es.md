@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.57 % en Enchanted Forest'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61doqbqgF3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61doqbqgF3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61doqbqgF3L._SL200_.jpg' ]
 comments: true
 category: ofertas

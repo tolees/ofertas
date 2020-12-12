@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorgiant tee SS Crew Neck C al 60.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413Cu%2BdtjYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413Cu%2BdtjYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413Cu%2BdtjYL._SL200_.jpg' ]
 comments: true
 category: ofertas

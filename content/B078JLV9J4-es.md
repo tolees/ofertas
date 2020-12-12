@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban Junior 0rb4340 601/4o 50 Gafas d al 38.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E3I8x4AdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E3I8x4AdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E3I8x4AdL._SL200_.jpg' ]
 comments: true
 category: ofertas

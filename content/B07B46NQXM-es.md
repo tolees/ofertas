@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED HOMME Slhnewseason SS Polo W No al 59.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G870GHVdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G870GHVdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G870GHVdL._SL200_.jpg' ]
 comments: true
 category: ofertas

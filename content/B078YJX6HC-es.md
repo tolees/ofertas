@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.52 % en CNASA 24 bolsillos Ampliación carpeta de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sGNYTKlKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sGNYTKlKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sGNYTKlKL._SL200_.jpg' ]
 comments: true
 category: ofertas

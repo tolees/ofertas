@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Mxvadov1  Zapatillas Deporti al 67.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EVhBIi3KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EVhBIi3KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EVhBIi3KL._SL200_.jpg' ]
 comments: true
 category: ofertas

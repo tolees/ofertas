@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.90 % en VAUDE Biwak I.2 Saco de Vivac  Unisex Ad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KBE7x16lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KBE7x16lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KBE7x16lL._SL200_.jpg' ]
 comments: true
 category: ofertas

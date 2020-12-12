@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Magnetico Select FG Jr  Bot al 79.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B4kfuKN8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B4kfuKN8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B4kfuKN8L._SL200_.jpg' ]
 comments: true
 category: ofertas

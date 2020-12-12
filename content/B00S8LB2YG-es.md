@@ -3,6 +3,7 @@ layout: post
 title: 'ASICS Gel-Dedicate 4 - Zapatillas de Dep al 27.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nY6YkSX-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nY6YkSX-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nY6YkSX-L._SL200_.jpg' ]
 comments: true
 category: ofertas

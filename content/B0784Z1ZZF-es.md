@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok AHARY Runner  Zapatillas de Trail al 48.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I7zhR8cDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I7zhR8cDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I7zhR8cDL._SL200_.jpg' ]
 comments: true
 category: ofertas

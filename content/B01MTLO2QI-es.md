@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.49 % en Brandit 9153-Pantalones Cortos de baño p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CcKpajR8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CcKpajR8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CcKpajR8L._SL200_.jpg' ]
 comments: true
 category: ofertas

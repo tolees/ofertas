@@ -3,6 +3,7 @@ layout: post
 title: 'E-YOOSO Teclado y Mouse Inalámbricos con al 83.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417FWJn-XHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417FWJn-XHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417FWJn-XHL._SL200_.jpg' ]
 comments: true
 category: ofertas

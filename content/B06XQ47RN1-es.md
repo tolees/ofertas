@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.23 % en Desigual Vest_Nadia Vestido  Azul  Blue '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416TZTvG1RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416TZTvG1RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416TZTvG1RL._SL200_.jpg' ]
 comments: true
 category: ofertas

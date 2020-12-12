@@ -3,6 +3,7 @@ layout: post
 title: 'HyperX Predator DDR4 - Memoria RAM de 8  al 60.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FEncaI12L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FEncaI12L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FEncaI12L._SL200_.jpg' ]
 comments: true
 category: ofertas

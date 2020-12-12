@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.63 % en Springfield 6Lc NASA Logo Grande Camiset'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x7d6PN3eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x7d6PN3eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x7d6PN3eL._SL200_.jpg' ]
 comments: true
 category: ofertas

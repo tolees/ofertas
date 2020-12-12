@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.41 % en Kappa Bright Mid Fur Kids  Botas Clasica'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TMFo0JEvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TMFo0JEvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TMFo0JEvL._SL200_.jpg' ]
 comments: true
 category: ofertas

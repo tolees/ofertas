@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorgo Knit Hood  Capucha pa al 50.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B1zwz6vNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51B1zwz6vNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B1zwz6vNL._SL200_.jpg' ]
 comments: true
 category: ofertas

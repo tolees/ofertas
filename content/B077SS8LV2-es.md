@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.48 % en adidas VL Court 2.0  Zapatillas de Skate'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qZ7nClXUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qZ7nClXUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qZ7nClXUL._SL200_.jpg' ]
 comments: true
 category: ofertas

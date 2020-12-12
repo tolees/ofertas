@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.46 % en DAKINE Split Roller Eq Maleta  Unisex Ad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZL0ZMNddL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZL0ZMNddL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZL0ZMNddL._SL200_.jpg' ]
 comments: true
 category: ofertas

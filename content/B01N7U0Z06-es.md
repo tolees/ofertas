@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers On-The-go City 3  Zapatillas de al 36.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O-MhqLMFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O-MhqLMFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O-MhqLMFL._SL200_.jpg' ]
 comments: true
 category: ofertas

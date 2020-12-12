@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.83 % en Tom Tailor Casual 1007964 Chaqueta  Azul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OQWBXZTUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OQWBXZTUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OQWBXZTUL._SL200_.jpg' ]
 comments: true
 category: ofertas

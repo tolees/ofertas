@@ -3,6 +3,7 @@ layout: post
 title: 'Star Wars 210000925 Mochila Infantil al 71.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519oQNde0dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519oQNde0dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519oQNde0dL._SL200_.jpg' ]
 comments: true
 category: ofertas

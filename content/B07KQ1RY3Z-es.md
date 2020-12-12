@@ -3,6 +3,7 @@ layout: post
 title: 'DC Apparel Rebel Fleece Top  Hombre  Bla al 55.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LzKTgJbnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LzKTgJbnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LzKTgJbnL._SL200_.jpg' ]
 comments: true
 category: ofertas

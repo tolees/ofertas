@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.10 % en Munich Mundial 2.0  Zapatillas de Deport'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vjsvF-zLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vjsvF-zLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vjsvF-zLL._SL200_.jpg' ]
 comments: true
 category: ofertas

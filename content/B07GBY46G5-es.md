@@ -3,6 +3,7 @@ layout: post
 title: 'Spaas Vela Cilindro rústico 50/80 Amaril al 76.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31T8330e3-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31T8330e3-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31T8330e3-L._SL200_.jpg' ]
 comments: true
 category: ofertas

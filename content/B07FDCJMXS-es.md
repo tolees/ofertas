@@ -3,6 +3,7 @@ layout: post
 title: 'Guess Tamara  Botas Altas para Mujer  Ne al 80.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e9y3cG8UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e9y3cG8UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e9y3cG8UL._SL200_.jpg' ]
 comments: true
 category: ofertas

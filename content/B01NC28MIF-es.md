@@ -3,6 +3,7 @@ layout: post
 title: 'find. Top sin Mangas con Volante para Mu al 70.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BNU0XTl-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BNU0XTl-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BNU0XTl-L._SL200_.jpg' ]
 comments: true
 category: ofertas

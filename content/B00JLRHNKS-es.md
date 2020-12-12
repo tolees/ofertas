@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.72 % en Luminarc Pure Box Active - Recipiente he'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oZMXv2H2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oZMXv2H2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oZMXv2H2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Anbass-Azul Hombre Azul  Blue Den al 48.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ACruZ79zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ACruZ79zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ACruZ79zL._SL200_.jpg' ]
 comments: true
 category: ofertas

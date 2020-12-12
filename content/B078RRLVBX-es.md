@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.05 % en Nike Dualtone Racer PRM  Zapatillas de R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ek3ACqvdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ek3ACqvdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ek3ACqvdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'MSI B360 Gaming Pro Carbon - Placa Base  al 93.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51arjncwMJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51arjncwMJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51arjncwMJL._SL200_.jpg' ]
 comments: true
 category: ofertas

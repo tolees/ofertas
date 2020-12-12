@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.07 % en Braun FaceSpa 851 - Sistema 3 en 1 de de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bTtpl7-PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bTtpl7-PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bTtpl7-PL._SL200_.jpg' ]
 comments: true
 category: ofertas

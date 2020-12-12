@@ -3,6 +3,7 @@ layout: post
 title: 'Merisny Mini Proyector Portatil  2400 Lú al 58.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LJLpRJyyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LJLpRJyyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LJLpRJyyL._SL200_.jpg' ]
 comments: true
 category: ofertas

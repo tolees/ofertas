@@ -3,6 +3,7 @@ layout: post
 title: 'Mars Gaming MAM0 - Ratón gaming para PC  al 42.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YLAhw2sPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YLAhw2sPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YLAhw2sPL._SL200_.jpg' ]
 comments: true
 category: ofertas

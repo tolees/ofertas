@@ -3,6 +3,7 @@ layout: post
 title: 'oodji Ultra Mujer Camiseta Básica de Alg al 41.54 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

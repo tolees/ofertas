@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.11 % en Adidas Forest Grove J  Zapatillas de Gim'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EcZqEMDuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EcZqEMDuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EcZqEMDuL._SL200_.jpg' ]
 comments: true
 category: ofertas

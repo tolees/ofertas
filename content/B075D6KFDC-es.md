@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.02 % en Funda para parrilla y barbacoa GEEKHOM 2'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416n-eG484L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416n-eG484L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416n-eG484L._SL200_.jpg' ]
 comments: true
 category: ofertas

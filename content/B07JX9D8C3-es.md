@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.20 % en Refresh 69837  Zapatos de tacón con Punt'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gtLQFRXPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gtLQFRXPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gtLQFRXPL._SL200_.jpg' ]
 comments: true
 category: ofertas

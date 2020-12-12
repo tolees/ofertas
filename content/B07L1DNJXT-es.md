@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES PREMIUM Jprtactical Field J al 74.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41INUJ8PcYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41INUJ8PcYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41INUJ8PcYL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.62 % en San Ignacio Pk1175 Set Hogar Cocina Bate'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51enFUw9o1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51enFUw9o1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51enFUw9o1L._SL200_.jpg' ]
 comments: true
 category: ofertas

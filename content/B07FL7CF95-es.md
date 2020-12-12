@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Rookie Hawk Parka  Mujer   Verd al 66.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v-kt6qIyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v-kt6qIyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v-kt6qIyL._SL200_.jpg' ]
 comments: true
 category: ofertas

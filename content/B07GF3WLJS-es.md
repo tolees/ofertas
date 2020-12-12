@@ -3,6 +3,7 @@ layout: post
 title: 'Festina Reloj de Pulsera F20370/6 al 27.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TTvl7WfDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TTvl7WfDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TTvl7WfDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Maison & White Espejo de aumento de maqu al 35.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41chrLt4dGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41chrLt4dGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41chrLt4dGL._SL200_.jpg' ]
 comments: true
 category: ofertas

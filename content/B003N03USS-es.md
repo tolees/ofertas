@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.22 % en Casio Reloj Digital para Unisex de Autom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ti4IX8%2B4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ti4IX8%2B4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ti4IX8%2B4L._SL200_.jpg' ]
 comments: true
 category: ofertas

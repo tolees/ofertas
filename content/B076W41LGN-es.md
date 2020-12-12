@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.36 % en Cadena de Plata de Ley 925  modelo singa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410yyMcn29L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410yyMcn29L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410yyMcn29L._SL200_.jpg' ]
 comments: true
 category: ofertas

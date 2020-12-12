@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.73 % en LOQI POP bolsa de asa de bolsa de viaje '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rseJAZc3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rseJAZc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rseJAZc3L._SL200_.jpg' ]
 comments: true
 category: ofertas

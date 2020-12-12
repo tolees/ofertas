@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.23 % en HP OfficeJet Pro 8725 AiO - Impresora mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rSVSgI2sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rSVSgI2sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rSVSgI2sL._SL200_.jpg' ]
 comments: true
 category: ofertas

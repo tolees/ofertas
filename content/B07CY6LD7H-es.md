@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Court Royale AC  Zapatillas para Mu al 52.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Yc2iMEBhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Yc2iMEBhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Yc2iMEBhL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.02 % en United Colors of Benetton Trousers  Pant'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZsFa59iWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZsFa59iWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZsFa59iWL._SL200_.jpg' ]
 comments: true
 category: ofertas

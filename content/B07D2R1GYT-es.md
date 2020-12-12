@@ -3,6 +3,7 @@ layout: post
 title: 'Mizuno Wave Rider 22 Jr  Zapatillas de R al 61.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ABJYhHVXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ABJYhHVXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ABJYhHVXL._SL200_.jpg' ]
 comments: true
 category: ofertas

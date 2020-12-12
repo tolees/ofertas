@@ -3,6 +3,7 @@ layout: post
 title: 'Pantalla proyector Joyhero Pantalla de P al 32.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eWs5z7AkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eWs5z7AkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eWs5z7AkL._SL200_.jpg' ]
 comments: true
 category: ofertas

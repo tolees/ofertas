@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.29 % en Rowenta Access Steam Minute DR8095D1 - C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41myY11vZ2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41myY11vZ2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41myY11vZ2L._SL200_.jpg' ]
 comments: true
 category: ofertas

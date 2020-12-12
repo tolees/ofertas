@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel 3906132  Americana Hombre para al 75.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZfSzxH2mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZfSzxH2mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZfSzxH2mL._SL200_.jpg' ]
 comments: true
 category: ofertas

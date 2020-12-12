@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.36 % en YISEVEN Mangas de Brazo Deportes Unisexo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iwt0mvzRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iwt0mvzRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iwt0mvzRL._SL200_.jpg' ]
 comments: true
 category: ofertas

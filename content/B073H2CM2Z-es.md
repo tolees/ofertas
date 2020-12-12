@@ -3,6 +3,7 @@ layout: post
 title: 'Hush Puppies Baubie Felise  Botas Estilo al 84.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410zdLp86IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410zdLp86IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410zdLp86IL._SL200_.jpg' ]
 comments: true
 category: ofertas

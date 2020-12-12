@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en G-STAR RAW Shelo T-Shirt Camiseta  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HEE1o9RBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HEE1o9RBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HEE1o9RBL._SL200_.jpg' ]
 comments: true
 category: ofertas

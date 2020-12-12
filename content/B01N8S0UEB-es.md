@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.75 % en Helly Hansen Marstrand Polo  Hombre  Roj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gRFRD612L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gRFRD612L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gRFRD612L._SL200_.jpg' ]
 comments: true
 category: ofertas

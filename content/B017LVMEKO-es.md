@@ -3,6 +3,7 @@ layout: post
 title: 'EnGenius EnStationAC - Punto de Acceso   al 46.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316QmPhP22L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316QmPhP22L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316QmPhP22L._SL200_.jpg' ]
 comments: true
 category: ofertas

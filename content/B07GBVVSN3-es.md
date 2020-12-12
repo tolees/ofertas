@@ -3,6 +3,7 @@ layout: post
 title: '40W LED Color Blanco de pared Arriba Aba al 81.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/2177NBN3u-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/2177NBN3u-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/2177NBN3u-L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Mad Catz - Auricular Tritton Kunai Mobil al 68.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wOede6k9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wOede6k9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wOede6k9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.07 % en JACK & JONES PREMIUM Jprcomfort Shirt L/'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UmbRUqXBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UmbRUqXBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UmbRUqXBL._SL200_.jpg' ]
 comments: true
 category: ofertas

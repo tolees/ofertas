@@ -3,6 +3,7 @@ layout: post
 title: 'Timex TW4B09400 - Reloj de pulsera para  al 35.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fxzH2EXRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fxzH2EXRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fxzH2EXRL._SL200_.jpg' ]
 comments: true
 category: ofertas

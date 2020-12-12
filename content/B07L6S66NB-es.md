@@ -3,6 +3,7 @@ layout: post
 title: 'LIU JO Shoes Patty 02-Sandal Metallic Le al 56.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AkMIMfcML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AkMIMfcML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AkMIMfcML._SL200_.jpg' ]
 comments: true
 category: ofertas

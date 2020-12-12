@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Trainfusion Nine 2.0  Zapatillas  al 47.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ub-6I6srL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ub-6I6srL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ub-6I6srL._SL200_.jpg' ]
 comments: true
 category: ofertas

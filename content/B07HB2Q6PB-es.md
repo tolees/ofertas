@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.55 % en Bombilla Inteligente Wifi LED  Avatar Co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hv4QubABL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hv4QubABL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hv4QubABL._SL200_.jpg' ]
 comments: true
 category: ofertas

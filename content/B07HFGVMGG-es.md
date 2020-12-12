@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Fine Structured Button Mo al 70.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x6zDF59yL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x6zDF59yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x6zDF59yL._SL200_.jpg' ]
 comments: true
 category: ofertas

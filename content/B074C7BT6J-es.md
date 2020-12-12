@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.97 % en Hackett London Denim  Vaqueros Slim para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-3uwm90QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-3uwm90QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-3uwm90QL._SL200_.jpg' ]
 comments: true
 category: ofertas

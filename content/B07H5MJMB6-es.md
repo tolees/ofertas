@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.94 % en Rocket Dog Jumpin  Zapatillas para Mujer'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

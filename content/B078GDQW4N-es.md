@@ -3,6 +3,7 @@ layout: post
 title: 'SADES SA 810 de 3 5 mm de sonido envolve al 69.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DI8bMZLnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DI8bMZLnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DI8bMZLnL._SL200_.jpg' ]
 comments: true
 category: ofertas

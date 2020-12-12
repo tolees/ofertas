@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.28 % en Disney - Puzzle  96 Piezas  diseño Clock'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61-cxqGaEBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61-cxqGaEBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61-cxqGaEBL._SL200_.jpg' ]
 comments: true
 category: ofertas

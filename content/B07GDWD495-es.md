@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s SS Colorblock tee Camiseta   Colo al 46.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NEkWftJcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NEkWftJcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NEkWftJcL._SL200_.jpg' ]
 comments: true
 category: ofertas

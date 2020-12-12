@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans London Tom-Cut Med Boot  Bota al 51.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LLTMjjj3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LLTMjjj3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LLTMjjj3L._SL200_.jpg' ]
 comments: true
 category: ofertas

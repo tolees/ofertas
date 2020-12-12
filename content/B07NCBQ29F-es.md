@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.20 % en Pepe Jeans Anabella Vestido  Azul  Denim'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HHkVyzvcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HHkVyzvcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HHkVyzvcL._SL200_.jpg' ]
 comments: true
 category: ofertas

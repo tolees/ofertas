@@ -3,6 +3,7 @@ layout: post
 title: 'Faro Barcelona Ibiza 33288 - Ventilador  al 59.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31d%2BjEVnnlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31d%2BjEVnnlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31d%2BjEVnnlL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.00 % en Depiladora de Luz Pulsada 3 en 1 Profesi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lK6JFPaKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lK6JFPaKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lK6JFPaKL._SL200_.jpg' ]
 comments: true
 category: ofertas

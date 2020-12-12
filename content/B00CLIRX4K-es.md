@@ -3,6 +3,7 @@ layout: post
 title: 'Maxxis TB96740100 Cubiertas de Bicicleta al 60.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ttv%2B9XwtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ttv%2B9XwtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ttv%2B9XwtL._SL200_.jpg' ]
 comments: true
 category: ofertas

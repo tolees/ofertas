@@ -3,6 +3,7 @@ layout: post
 title: 'Cochecito Plegable Mascotas 75x45x97cm P al 54.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h%2BSR-iw9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51h%2BSR-iw9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h%2BSR-iw9L._SL200_.jpg' ]
 comments: true
 category: ofertas

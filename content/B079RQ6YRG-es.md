@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Edna Suéter  Negro  Black 999 al 58.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bnWF2Tn8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bnWF2Tn8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bnWF2Tn8L._SL200_.jpg' ]
 comments: true
 category: ofertas

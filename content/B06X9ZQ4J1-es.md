@@ -3,6 +3,7 @@ layout: post
 title: 'Love & Child LC218M 2017 Mochila Escolar al 70.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BYsrgMX9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BYsrgMX9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BYsrgMX9L._SL200_.jpg' ]
 comments: true
 category: ofertas

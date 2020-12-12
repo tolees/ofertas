@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Pro Spark 2018  Zapatos de Balonc al 27.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hBDI3J5LL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hBDI3J5LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hBDI3J5LL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers On-The-Go 400-Tropical  Sandali al 30.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y-jaN2CuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y-jaN2CuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y-jaN2CuL._SL200_.jpg' ]
 comments: true
 category: ofertas

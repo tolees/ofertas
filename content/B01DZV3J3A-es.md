@@ -3,6 +3,7 @@ layout: post
 title: 'MOLLY BRACKEN T144H16-Vestido Mujer Gris al 66.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S-5AXR3aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S-5AXR3aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S-5AXR3aL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.00 % en Nike Air Zoom Cage 3 HC  Zapatillas para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4189UkgwtwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4189UkgwtwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4189UkgwtwL._SL200_.jpg' ]
 comments: true
 category: ofertas

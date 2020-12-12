@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.33 % en Reebok Royal Techque T LX  Zapatillas de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eaCFvNLVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eaCFvNLVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eaCFvNLVL._SL200_.jpg' ]
 comments: true
 category: ofertas

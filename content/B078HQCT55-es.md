@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Wmns EBERNON Low  Zapatos de Balonc al 46.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n7z7dox9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31n7z7dox9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n7z7dox9L._SL200_.jpg' ]
 comments: true
 category: ofertas

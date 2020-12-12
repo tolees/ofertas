@@ -3,6 +3,7 @@ layout: post
 title: 'Rimmel London Oh My Gloss Tint Brillo de al 25.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kJpzhFyoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kJpzhFyoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kJpzhFyoL._SL200_.jpg' ]
 comments: true
 category: ofertas

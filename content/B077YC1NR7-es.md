@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Athleisure Togn 1  Camiseta Hombre  al 63.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gei4Qz7OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gei4Qz7OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gei4Qz7OL._SL200_.jpg' ]
 comments: true
 category: ofertas

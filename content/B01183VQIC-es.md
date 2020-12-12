@@ -3,6 +3,7 @@ layout: post
 title: 'Master Series Temblor Inalámbrico Recarg al 75.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WKBwm1kxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WKBwm1kxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WKBwm1kxL._SL200_.jpg' ]
 comments: true
 category: ofertas

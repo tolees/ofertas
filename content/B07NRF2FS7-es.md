@@ -3,6 +3,7 @@ layout: post
 title: 'Nordic Blonde de Schwarzkopf - Tono L1 A al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cjv7O6laL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cjv7O6laL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cjv7O6laL._SL200_.jpg' ]
 comments: true
 category: ofertas

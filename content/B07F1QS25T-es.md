@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.05 % en Columbia Sombrero trenzado unisex  Bella'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417CwiAkBlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417CwiAkBlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417CwiAkBlL._SL200_.jpg' ]
 comments: true
 category: ofertas

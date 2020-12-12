@@ -3,6 +3,7 @@ layout: post
 title: 'Licht-experiencia exteriores CX120113 al 55.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318YwZKW6-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318YwZKW6-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318YwZKW6-L._SL200_.jpg' ]
 comments: true
 category: ofertas

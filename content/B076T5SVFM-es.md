@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.09 % en Skechers Go Walk 4  Zapatillas para Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BSpNd-qwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BSpNd-qwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BSpNd-qwL._SL200_.jpg' ]
 comments: true
 category: ofertas

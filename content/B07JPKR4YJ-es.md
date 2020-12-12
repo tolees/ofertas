@@ -3,6 +3,7 @@ layout: post
 title: 'SPECIAL MAGIC - Camisa Deportiva - para  al 56.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jK16DgJ-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jK16DgJ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jK16DgJ-L._SL200_.jpg' ]
 comments: true
 category: ofertas

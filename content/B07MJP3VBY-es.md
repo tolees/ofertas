@@ -3,6 +3,7 @@ layout: post
 title: 'Cascos Gaming para PS4 - Macrout Cascos  al 82.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WlMwici%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WlMwici%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WlMwici%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Space Junkies al 57.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Xc8SBjViL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Xc8SBjViL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Xc8SBjViL._SL200_.jpg' ]
 comments: true
 category: ofertas

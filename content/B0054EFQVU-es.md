@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.73 % en Bausch & Lomb  PureVision 2 - Lentes de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Urk8AdeaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Urk8AdeaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Urk8AdeaL._SL200_.jpg' ]
 comments: true
 category: ofertas

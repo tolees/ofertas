@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Classics T7 Track Jacket  Hombre  B al 47.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cxOXyoK2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cxOXyoK2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cxOXyoK2L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Beurer IPL-6500 - Depiladora de luz puls al 55.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HS2T0Y2DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HS2T0Y2DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HS2T0Y2DL._SL200_.jpg' ]
 comments: true
 category: ofertas

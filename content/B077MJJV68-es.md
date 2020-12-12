@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Smash v2 SD V Inf  Zapatillas Unise al 44.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PFshQ1lAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PFshQ1lAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PFshQ1lAL._SL200_.jpg' ]
 comments: true
 category: ofertas

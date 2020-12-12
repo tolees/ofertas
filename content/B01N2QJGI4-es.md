@@ -3,6 +3,7 @@ layout: post
 title: 'Neosens  S082 Restored Skin Brancello  Z al 71.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LX0BYItSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LX0BYItSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LX0BYItSL._SL200_.jpg' ]
 comments: true
 category: ofertas

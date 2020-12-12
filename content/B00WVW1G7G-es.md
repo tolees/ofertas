@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers 35FN701  Botas Militar Infantil  al 73.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S-GCOG8SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S-GCOG8SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S-GCOG8SL._SL200_.jpg' ]
 comments: true
 category: ofertas

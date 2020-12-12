@@ -3,6 +3,7 @@ layout: post
 title: 'Nike M NSW HE WR JKT HD Jacket  Hombre   al 50.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BWvflNeoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BWvflNeoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BWvflNeoL._SL200_.jpg' ]
 comments: true
 category: ofertas

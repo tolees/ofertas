@@ -3,6 +3,7 @@ layout: post
 title: 'Qixuan Vestido a Media Pierna con Abertu al 60.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xpzSiBPyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xpzSiBPyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xpzSiBPyL._SL200_.jpg' ]
 comments: true
 category: ofertas

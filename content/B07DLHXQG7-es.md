@@ -3,6 +3,7 @@ layout: post
 title: 'Champion 6pk Sneaker Socken Chaussettes  al 29.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315hmUZr3JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315hmUZr3JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315hmUZr3JL._SL200_.jpg' ]
 comments: true
 category: ofertas

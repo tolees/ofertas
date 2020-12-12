@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.05 % en Dockers by Gerli 39or009  Zapatillas Alt'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tdhJ7g6zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tdhJ7g6zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tdhJ7g6zL._SL200_.jpg' ]
 comments: true
 category: ofertas

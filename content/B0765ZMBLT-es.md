@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.62 % en Only Onlrosetta 7/8 Pullover Knt  suéter'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ZtV1l83L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411ZtV1l83L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ZtV1l83L._SL200_.jpg' ]
 comments: true
 category: ofertas

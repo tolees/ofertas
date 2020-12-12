@@ -3,6 +3,7 @@ layout: post
 title: 'Tokidoki 10 Function Silicone Estimulado al 72.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412MNDciW0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412MNDciW0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412MNDciW0L._SL200_.jpg' ]
 comments: true
 category: ofertas

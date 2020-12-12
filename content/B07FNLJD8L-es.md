@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.06 % en JACK & JONES Jjitim Jjoriginal Jos 220 N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SF9acirKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SF9acirKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SF9acirKL._SL200_.jpg' ]
 comments: true
 category: ofertas

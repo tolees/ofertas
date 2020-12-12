@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.83 % en etnies Scout  Zapatillas de Skateboardin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FKClF8YxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FKClF8YxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FKClF8YxL._SL200_.jpg' ]
 comments: true
 category: ofertas

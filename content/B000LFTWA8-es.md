@@ -3,6 +3,7 @@ layout: post
 title: 'Silverline 675088 Ventosa doble 70 kg al 46.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4104-1jJbdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4104-1jJbdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4104-1jJbdL._SL200_.jpg' ]
 comments: true
 category: ofertas

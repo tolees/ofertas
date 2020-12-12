@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star Bronson Pleated Relaxed Tapered C al 83.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wu5lQ06EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wu5lQ06EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wu5lQ06EL._SL200_.jpg' ]
 comments: true
 category: ofertas

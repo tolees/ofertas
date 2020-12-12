@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.19 % en Jata Tostador Tt331 750W  750 W  0 Decib'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X9IzwDONL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X9IzwDONL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X9IzwDONL._SL200_.jpg' ]
 comments: true
 category: ofertas

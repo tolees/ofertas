@@ -3,6 +3,7 @@ layout: post
 title: 'Béaba 915020 - Hamaca bebe regulable en  al 35.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mfLn%2BOUeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mfLn%2BOUeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mfLn%2BOUeL._SL200_.jpg' ]
 comments: true
 category: ofertas

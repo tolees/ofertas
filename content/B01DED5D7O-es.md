@@ -3,6 +3,7 @@ layout: post
 title: 'Reef Twinpin  Sandalias para Hombre   Kh al 58.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F2orNIX8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F2orNIX8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F2orNIX8L._SL200_.jpg' ]
 comments: true
 category: ofertas

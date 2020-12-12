@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.94 % en Wrangler Contrast Polo  Hombre  Rosa  Ch'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416fva-t37L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416fva-t37L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416fva-t37L._SL200_.jpg' ]
 comments: true
 category: ofertas

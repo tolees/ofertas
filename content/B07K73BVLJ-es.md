@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Resolution 7 Clay  Zapatillas  al 68.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i0QVF6k7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i0QVF6k7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i0QVF6k7L._SL200_.jpg' ]
 comments: true
 category: ofertas

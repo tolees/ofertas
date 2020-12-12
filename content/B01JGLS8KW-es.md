@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.26 % en IMEX EL ZORRO 54030 Navaja palles  Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/210eV64GAZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/210eV64GAZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/210eV64GAZL._SL200_.jpg' ]
 comments: true
 category: ofertas

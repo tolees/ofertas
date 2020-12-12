@@ -3,6 +3,7 @@ layout: post
 title: 'GORE WEAR M Gorra unisex GORE-TEX   Tall al 25.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TsOiY2UbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TsOiY2UbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TsOiY2UbL._SL200_.jpg' ]
 comments: true
 category: ofertas

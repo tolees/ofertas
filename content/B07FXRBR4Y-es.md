@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Asher V Toddler Unisex  Zapatillas  al 59.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I7ucHQunL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I7ucHQunL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I7ucHQunL._SL200_.jpg' ]
 comments: true
 category: ofertas

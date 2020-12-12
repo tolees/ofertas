@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.88 % en iTrunk Alfombrilla Banera Alfombra de Ba'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G1uuX0eyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G1uuX0eyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G1uuX0eyL._SL200_.jpg' ]
 comments: true
 category: ofertas

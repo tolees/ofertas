@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.53 % en HP H2800 - Auriculares de diadema abiert'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rJ7hHU1gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rJ7hHU1gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rJ7hHU1gL._SL200_.jpg' ]
 comments: true
 category: ofertas

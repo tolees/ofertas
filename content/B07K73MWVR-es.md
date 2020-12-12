@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Graphic B Sudadera  Gris  Add Cre al 47.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pdyhk%2BmrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pdyhk%2BmrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pdyhk%2BmrL._SL200_.jpg' ]
 comments: true
 category: ofertas

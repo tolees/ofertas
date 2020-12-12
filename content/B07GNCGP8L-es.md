@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.85 % en Excelvan Cafetera Espresso 1.25L  15 Bar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i8jIyR4PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i8jIyR4PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i8jIyR4PL._SL200_.jpg' ]
 comments: true
 category: ofertas

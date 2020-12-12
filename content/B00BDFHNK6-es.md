@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.17 % en D-Link DHP-W311AV - Kit PLC WiFi N300 Ex'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318FxwpgNRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318FxwpgNRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318FxwpgNRL._SL200_.jpg' ]
 comments: true
 category: ofertas

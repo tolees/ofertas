@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.95 % en Guaiboshi Luces Solares Impermeable LED '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lOEYOOMVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lOEYOOMVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lOEYOOMVL._SL200_.jpg' ]
 comments: true
 category: ofertas

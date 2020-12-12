@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.55 % en 3M Privacy Filter For ThinkPad X250 Seri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3158e8CpqkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3158e8CpqkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3158e8CpqkL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SYROKAN - Sujetador Deportivo de Sin Aro al 42.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410ZSZt%2BsYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410ZSZt%2BsYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410ZSZt%2BsYL._SL200_.jpg' ]
 comments: true
 category: ofertas

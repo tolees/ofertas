@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Collection 51091  Sandalia con Puls al 39.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L6H17g%2B9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31L6H17g%2B9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L6H17g%2B9L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Ben Sherman Original Hoodie Jersey  Blau al 69.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z4wPrf8NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z4wPrf8NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z4wPrf8NL._SL200_.jpg' ]
 comments: true
 category: ofertas

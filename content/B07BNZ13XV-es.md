@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Canyon Point Mid Waterproof  Za al 39.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z%2BXtCekEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z%2BXtCekEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z%2BXtCekEL._SL200_.jpg' ]
 comments: true
 category: ofertas

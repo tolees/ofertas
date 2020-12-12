@@ -3,6 +3,7 @@ layout: post
 title: 'JewelryWe Reloj de Cuarzo para Hombre Mu al 75.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qUNBARhHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qUNBARhHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qUNBARhHL._SL200_.jpg' ]
 comments: true
 category: ofertas

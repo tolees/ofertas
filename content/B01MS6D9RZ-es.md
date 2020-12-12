@@ -3,6 +3,7 @@ layout: post
 title: 'Asvert Conjunto Ciclismo Hombre Primaver al 30.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gE4RN4mFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gE4RN4mFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gE4RN4mFL._SL200_.jpg' ]
 comments: true
 category: ofertas

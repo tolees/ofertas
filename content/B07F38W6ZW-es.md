@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.25 % en Uten Mini Máquina de Coser Portátil manu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzEXlMeUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzEXlMeUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzEXlMeUL._SL200_.jpg' ]
 comments: true
 category: ofertas

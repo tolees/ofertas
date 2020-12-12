@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.03 % en Elechomes EB601 Espejo de Maquillaje Aju'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z9oxypT7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z9oxypT7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z9oxypT7L._SL200_.jpg' ]
 comments: true
 category: ofertas

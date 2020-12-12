@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.30 % en Bella Aurora M7 Crema de Manos Anti-Manc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HRTgTDaqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HRTgTDaqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HRTgTDaqL._SL200_.jpg' ]
 comments: true
 category: ofertas

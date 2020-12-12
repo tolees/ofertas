@@ -3,6 +3,7 @@ layout: post
 title: 'Regatta - Chaqueta de Forro Polar con Me al 67.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eMWla%2BTVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eMWla%2BTVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eMWla%2BTVL._SL200_.jpg' ]
 comments: true
 category: ofertas

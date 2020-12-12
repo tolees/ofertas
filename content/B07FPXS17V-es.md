@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.78 % en JACK & JONES Jorxmaspocket tee SS Crew N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VknlkP5JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VknlkP5JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VknlkP5JL._SL200_.jpg' ]
 comments: true
 category: ofertas

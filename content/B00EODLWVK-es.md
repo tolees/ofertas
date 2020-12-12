@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.22 % en Beurer LB-88 Humificador de aire 280 W  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414De1Y-dfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414De1Y-dfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414De1Y-dfL._SL200_.jpg' ]
 comments: true
 category: ofertas

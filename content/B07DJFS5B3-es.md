@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.45 % en Dockers by Gerli 35cp324  Botines para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R2BS8VoJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R2BS8VoJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R2BS8VoJL._SL200_.jpg' ]
 comments: true
 category: ofertas

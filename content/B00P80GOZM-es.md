@@ -3,6 +3,7 @@ layout: post
 title: 'Bvlgari man extreme Eau De Toilette vapo al 56.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i2vJFeolL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31i2vJFeolL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i2vJFeolL._SL200_.jpg' ]
 comments: true
 category: ofertas

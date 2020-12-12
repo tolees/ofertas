@@ -3,6 +3,7 @@ layout: post
 title: 'Polar H10 - Sensor de Frecuencia cardíac al 42.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EJr5rxj3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EJr5rxj3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EJr5rxj3L._SL200_.jpg' ]
 comments: true
 category: ofertas

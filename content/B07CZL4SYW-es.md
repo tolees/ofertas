@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Explorateur Classic3181cai  Zapa al 42.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k2rgVN84L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k2rgVN84L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k2rgVN84L._SL200_.jpg' ]
 comments: true
 category: ofertas

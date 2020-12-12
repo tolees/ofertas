@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.64 % en Puma Speed 100 R Ignite Wn  Zapatillas d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tM6w6o%2BGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tM6w6o%2BGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tM6w6o%2BGL._SL200_.jpg' ]
 comments: true
 category: ofertas

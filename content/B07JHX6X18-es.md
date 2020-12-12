@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Active Logo tee Camiseta  Mujer  Ne al 36.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412kVAbGwdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412kVAbGwdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412kVAbGwdL._SL200_.jpg' ]
 comments: true
 category: ofertas

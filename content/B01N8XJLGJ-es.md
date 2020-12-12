@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.05 % en Umbro Freedom Chaqueta  Hombre  Rojo  XL'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J1Eh6cV5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J1Eh6cV5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J1Eh6cV5L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.36 % en JIM HALO Gafas de Sol Polarizadas Fit Ov'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YKEIXBZHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YKEIXBZHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YKEIXBZHL._SL200_.jpg' ]
 comments: true
 category: ofertas

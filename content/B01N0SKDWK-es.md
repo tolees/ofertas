@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Zero Rules Polo con Protección  al 46.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41orMS0Kl-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41orMS0Kl-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41orMS0Kl-L._SL200_.jpg' ]
 comments: true
 category: ofertas

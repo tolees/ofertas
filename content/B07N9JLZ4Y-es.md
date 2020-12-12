@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Niko Camiseta  Blanco  Optic  al 48.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xSOdsotFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xSOdsotFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xSOdsotFL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Tsugi Apex Evoknit  Zapatillas Unis al 71.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G-pYq9rlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G-pYq9rlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G-pYq9rlL._SL200_.jpg' ]
 comments: true
 category: ofertas

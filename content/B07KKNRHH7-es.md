@@ -3,6 +3,7 @@ layout: post
 title: 'Nike W NSW HRTG Short FLC Shorts  Mujer  al 39.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412PQctqDuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412PQctqDuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412PQctqDuL._SL200_.jpg' ]
 comments: true
 category: ofertas

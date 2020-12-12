@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.06 % en Staedtler Mars Lumograph 100 G20. Pack d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e%2Bpd9cNKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51e%2Bpd9cNKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e%2Bpd9cNKL._SL200_.jpg' ]
 comments: true
 category: ofertas

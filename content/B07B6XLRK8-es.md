@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.79 % en New Balance 480  Zapatillas de Running p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-p%2BVN3aZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-p%2BVN3aZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-p%2BVN3aZL._SL200_.jpg' ]
 comments: true
 category: ofertas

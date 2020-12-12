@@ -3,6 +3,7 @@ layout: post
 title: 'Dainese-CARBON D1 LONG LADY Guantes  Neg al 52.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1ZyBH4xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1ZyBH4xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y1ZyBH4xL._SL200_.jpg' ]
 comments: true
 category: ofertas

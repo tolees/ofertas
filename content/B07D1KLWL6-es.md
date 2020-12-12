@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Fuzetora Twist  Zapatillas de Entr al 65.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VlJn4as7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VlJn4as7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VlJn4as7L._SL200_.jpg' ]
 comments: true
 category: ofertas

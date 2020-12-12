@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Simon  Suéter para Hombre  Az al 60.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U4oZ89iRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U4oZ89iRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U4oZ89iRL._SL200_.jpg' ]
 comments: true
 category: ofertas

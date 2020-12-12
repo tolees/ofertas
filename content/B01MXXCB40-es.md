@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmsally S/s Top Box D2-3 Camis al 63.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513lo37H26L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513lo37H26L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513lo37H26L._SL200_.jpg' ]
 comments: true
 category: ofertas

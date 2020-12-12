@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Sudadera con Print Mujer  Azul  N al 63.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413wkFKC9bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413wkFKC9bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413wkFKC9bL._SL200_.jpg' ]
 comments: true
 category: ofertas

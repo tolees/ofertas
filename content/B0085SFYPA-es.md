@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones Jones - Camiseta de manga c al 50.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4126DttVXTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4126DttVXTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4126DttVXTL._SL200_.jpg' ]
 comments: true
 category: ofertas

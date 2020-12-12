@@ -3,6 +3,7 @@ layout: post
 title: 'Osprey Raptor 10 Men s Hydration Pack wi al 43.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413ni1MHieL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413ni1MHieL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413ni1MHieL._SL200_.jpg' ]
 comments: true
 category: ofertas

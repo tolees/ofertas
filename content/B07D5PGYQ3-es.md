@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.91 % en Monster Hunter Generations Ultimate [Imp'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rMAO2O52L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rMAO2O52L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rMAO2O52L._SL200_.jpg' ]
 comments: true
 category: ofertas

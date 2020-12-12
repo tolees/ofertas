@@ -3,6 +3,7 @@ layout: post
 title: 'PDP - Mando Blanco Licenciado Nueva  Xbo al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41npEE1g3oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41npEE1g3oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41npEE1g3oL._SL200_.jpg' ]
 comments: true
 category: ofertas

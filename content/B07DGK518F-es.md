@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.56 % en State Of Mind'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513afORAlzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513afORAlzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513afORAlzL._SL200_.jpg' ]
 comments: true
 category: ofertas

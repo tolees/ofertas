@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Royal Cl Jogger 2  Zapatillas de  al 32.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VeuU8lwFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VeuU8lwFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VeuU8lwFL._SL200_.jpg' ]
 comments: true
 category: ofertas

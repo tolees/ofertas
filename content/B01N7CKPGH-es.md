@@ -3,6 +3,7 @@ layout: post
 title: 'Patrulla Canina - Copy Machine  Simba 94 al 70.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gXygHySPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gXygHySPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gXygHySPL._SL200_.jpg' ]
 comments: true
 category: ofertas

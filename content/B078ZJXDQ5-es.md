@@ -3,6 +3,7 @@ layout: post
 title: 'Dr. Martens Vincent HK  Botas Clasicas p al 65.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AftMRXEPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AftMRXEPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AftMRXEPL._SL200_.jpg' ]
 comments: true
 category: ofertas

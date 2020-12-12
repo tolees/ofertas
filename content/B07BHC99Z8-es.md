@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.11 % en COOLWAY CHERBLU  Zapatos de Cordones Oxf'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Xg3fWQCAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Xg3fWQCAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Xg3fWQCAL._SL200_.jpg' ]
 comments: true
 category: ofertas

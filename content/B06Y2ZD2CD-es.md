@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Pulsera de Cuarzo Deportivo Analóg al 69.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m0LWC93DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51m0LWC93DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m0LWC93DL._SL200_.jpg' ]
 comments: true
 category: ofertas

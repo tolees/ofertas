@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 55886  Botines para Niñas  Marrón Ta al 74.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BlyDfs3NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BlyDfs3NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BlyDfs3NL._SL200_.jpg' ]
 comments: true
 category: ofertas

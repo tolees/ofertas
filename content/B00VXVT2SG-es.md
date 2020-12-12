@@ -3,6 +3,7 @@ layout: post
 title: 'Fendi FF 0086/S 3U HK5  Gafas de sol par al 44.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VBNFFBaML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VBNFFBaML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VBNFFBaML._SL200_.jpg' ]
 comments: true
 category: ofertas

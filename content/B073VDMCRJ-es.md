@@ -3,6 +3,7 @@ layout: post
 title: 'PROSTEEL - Collar de Hombre de Acero Ino al 60.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HlW1oj3pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HlW1oj3pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HlW1oj3pL._SL200_.jpg' ]
 comments: true
 category: ofertas

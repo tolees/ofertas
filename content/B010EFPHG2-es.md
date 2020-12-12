@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.97 % en INTEX 64424 - Colchón Hinchable  152 x 2'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QRyOeQqSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QRyOeQqSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QRyOeQqSL._SL200_.jpg' ]
 comments: true
 category: ofertas

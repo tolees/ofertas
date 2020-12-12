@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 30956  Zapatos de tacón con Punta Ce al 63.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B1YLHuywL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31B1YLHuywL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B1YLHuywL._SL200_.jpg' ]
 comments: true
 category: ofertas

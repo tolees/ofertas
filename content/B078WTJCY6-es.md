@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.92 % en Cortefiel 9163905  Camiseta para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lY-TAHESL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lY-TAHESL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lY-TAHESL._SL200_.jpg' ]
 comments: true
 category: ofertas

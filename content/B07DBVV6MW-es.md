@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Speed 600 FUSEFIT Wn s  Zapatillas  al 81.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q7opqgsvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q7opqgsvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q7opqgsvL._SL200_.jpg' ]
 comments: true
 category: ofertas

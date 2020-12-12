@@ -3,6 +3,7 @@ layout: post
 title: 'Sony MHC-V41D - Sistema Audio  Bluetooth al 28.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ljwiACVtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ljwiACVtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ljwiACVtL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.63 % en Asics T718N  Zapatillas Hombre  Gris  Mi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411Q9Dc5T6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411Q9Dc5T6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411Q9Dc5T6L._SL200_.jpg' ]
 comments: true
 category: ofertas

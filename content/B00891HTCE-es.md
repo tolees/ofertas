@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.00 % en Under Armour Pantalónes cortos para Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DM54FVjcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DM54FVjcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DM54FVjcL._SL200_.jpg' ]
 comments: true
 category: ofertas

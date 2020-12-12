@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.29 % en Volcom Smithington Ii  Botines De Cordon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9ufvpxDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9ufvpxDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B9ufvpxDL._SL200_.jpg' ]
 comments: true
 category: ofertas

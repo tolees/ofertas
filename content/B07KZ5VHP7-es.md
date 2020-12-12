@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel C0Cb Oxford Liso TBD Camisa Ca al 60.32 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

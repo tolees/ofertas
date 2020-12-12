@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Altarun K  Zapatillas de Running  al 36.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yTXrCzUaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yTXrCzUaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yTXrCzUaL._SL200_.jpg' ]
 comments: true
 category: ofertas

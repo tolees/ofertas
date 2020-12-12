@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.17 % en Joma - Chaqueta Terra Royal-Blanco Woman'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jEmOlDIDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jEmOlDIDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jEmOlDIDL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.51 % en Taurus 955100 Afeitadora Quita Pelusas  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318aNTJVa-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318aNTJVa-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318aNTJVa-L._SL200_.jpg' ]
 comments: true
 category: ofertas

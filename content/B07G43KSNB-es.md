@@ -3,6 +3,7 @@ layout: post
 title: 'HOMIEE Funda Protectora para 13-13.3 Pul al 65.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518LhqeX7dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518LhqeX7dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518LhqeX7dL._SL200_.jpg' ]
 comments: true
 category: ofertas

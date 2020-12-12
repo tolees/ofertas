@@ -3,6 +3,7 @@ layout: post
 title: 'Bed Head by TIGI Máscara Reenergize Urba al 46.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YVrnCLfkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YVrnCLfkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YVrnCLfkL._SL200_.jpg' ]
 comments: true
 category: ofertas

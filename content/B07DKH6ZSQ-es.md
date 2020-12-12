@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling - Gabbie S  Bolsos bandolera Muj al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411GRSdPcRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411GRSdPcRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411GRSdPcRL._SL200_.jpg' ]
 comments: true
 category: ofertas

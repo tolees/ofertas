@@ -3,6 +3,7 @@ layout: post
 title: 'Vbiger Mochila Senderismo 65L+5L Viajes  al 35.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F9m9po%2B2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F9m9po%2B2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F9m9po%2B2L._SL200_.jpg' ]
 comments: true
 category: ofertas

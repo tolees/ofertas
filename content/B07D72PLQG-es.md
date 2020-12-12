@@ -3,6 +3,7 @@ layout: post
 title: 'Versace Jeans Lady Dress  Vestido para M al 51.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u%2BWOVb6nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u%2BWOVb6nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u%2BWOVb6nL._SL200_.jpg' ]
 comments: true
 category: ofertas

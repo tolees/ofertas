@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Fithex Tr  Zapatillas de Deporte  al 42.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mup41xLBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mup41xLBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mup41xLBL._SL200_.jpg' ]
 comments: true
 category: ofertas

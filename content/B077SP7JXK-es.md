@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.04 % en adidas Galaxy 4 m  Zapatillas de Entrena'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BoIzX9VhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BoIzX9VhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BoIzX9VhL._SL200_.jpg' ]
 comments: true
 category: ofertas

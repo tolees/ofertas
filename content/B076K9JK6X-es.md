@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares PS4  SADES R5 Xbox One Mic G al 74.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lz8c0IjwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lz8c0IjwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lz8c0IjwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Drift Cat 5 Core  Zapatillas Unisex al 64.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a2oA8A--L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a2oA8A--L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a2oA8A--L._SL200_.jpg' ]
 comments: true
 category: ofertas

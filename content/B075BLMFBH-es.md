@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.89 % en Calvin Klein - Urban Small Crossbody  Bo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411Xfim4utL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411Xfim4utL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411Xfim4utL._SL200_.jpg' ]
 comments: true
 category: ofertas

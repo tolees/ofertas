@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.26 % en Brennenstuhl Eco-Line regleta de enchufe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313Rg%2Bn5QkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313Rg%2Bn5QkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313Rg%2Bn5QkL._SL200_.jpg' ]
 comments: true
 category: ofertas

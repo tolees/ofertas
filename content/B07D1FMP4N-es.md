@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.76 % en Reebok Royal Complete CLN  Zapatillas de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hD12swewL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hD12swewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hD12swewL._SL200_.jpg' ]
 comments: true
 category: ofertas

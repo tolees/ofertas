@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger 3p Lr Trunk  Bóxer Shorts al 34.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BijLhpZxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BijLhpZxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BijLhpZxL._SL200_.jpg' ]
 comments: true
 category: ofertas

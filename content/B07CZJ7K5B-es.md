@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Hombre Korpaz Slim Granddad T al 39.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YJV2qlI9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YJV2qlI9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YJV2qlI9L._SL200_.jpg' ]
 comments: true
 category: ofertas

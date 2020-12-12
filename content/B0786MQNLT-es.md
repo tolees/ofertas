@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.23 % en Adidas Energy Boost W  Zapatillas de Tra'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mr5xGDzLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mr5xGDzLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mr5xGDzLL._SL200_.jpg' ]
 comments: true
 category: ofertas

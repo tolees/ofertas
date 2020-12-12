@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.63 % en Karmin G3 Salon Pro - Rizador de pelo/ca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hx4vV8bLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hx4vV8bLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hx4vV8bLL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.27 % en Crazy Color Peacook Blue Nº 45 Crema Col'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s0eigJ-YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s0eigJ-YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s0eigJ-YL._SL200_.jpg' ]
 comments: true
 category: ofertas

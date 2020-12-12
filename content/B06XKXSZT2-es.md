@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual Fal_PILI  Falda Mujer  Negro  N al 85.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JQ0wNBkHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JQ0wNBkHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JQ0wNBkHL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Galaxy Tab S2 8.0 - Tablet libre al 30.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XBe9-%2BKvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XBe9-%2BKvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XBe9-%2BKvL._SL200_.jpg' ]
 comments: true
 category: ofertas

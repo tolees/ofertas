@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.77 % en G-STAR RAW Lynn D-mid Super Skinny Wmn -'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UlT1CLiRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UlT1CLiRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UlT1CLiRL._SL200_.jpg' ]
 comments: true
 category: ofertas

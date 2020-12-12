@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.50 % en Springfield 5.T.MD.Falda Denim BOT Ci  F'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bqW12I0hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bqW12I0hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bqW12I0hL._SL200_.jpg' ]
 comments: true
 category: ofertas

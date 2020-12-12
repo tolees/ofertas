@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Training AOP Leggings  Niñas  Rojo  al 62.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5103gNIPURL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5103gNIPURL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5103gNIPURL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.90 % en Luz Trasera para Bicicleta  OUTERDO 2 ti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xFN4NUZaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xFN4NUZaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xFN4NUZaL._SL200_.jpg' ]
 comments: true
 category: ofertas

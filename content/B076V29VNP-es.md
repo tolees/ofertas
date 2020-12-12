@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.22 % en ThunderX3 TM55 - Ratón Gaming mecánico P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OFQG%2BpaIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OFQG%2BpaIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OFQG%2BpaIL._SL200_.jpg' ]
 comments: true
 category: ofertas

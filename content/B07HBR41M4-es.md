@@ -3,6 +3,7 @@ layout: post
 title: 'VBIGER Mujer Chenille Bufanda Caliente d al 57.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oNoMMvPXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oNoMMvPXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oNoMMvPXL._SL200_.jpg' ]
 comments: true
 category: ofertas

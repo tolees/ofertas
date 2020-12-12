@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.02 % en Philonext Pack de 2 leggings para mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vXTV0qG3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vXTV0qG3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vXTV0qG3L._SL200_.jpg' ]
 comments: true
 category: ofertas

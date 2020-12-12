@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.81 % en edc by Esprit 088cc1e003  Vestido Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NmsHlHUxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NmsHlHUxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NmsHlHUxL._SL200_.jpg' ]
 comments: true
 category: ofertas

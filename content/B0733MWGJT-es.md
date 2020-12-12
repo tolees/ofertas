@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Afc Home Camiseta de Fútbol  niños  al 81.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pJoFtdP7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pJoFtdP7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pJoFtdP7L._SL200_.jpg' ]
 comments: true
 category: ofertas

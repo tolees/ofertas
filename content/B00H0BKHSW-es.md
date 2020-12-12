@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.79 % en Joseph&Joseph JJ360 Nido Conjunto de Alm'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D5YyGZMYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41D5YyGZMYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D5YyGZMYL._SL200_.jpg' ]
 comments: true
 category: ofertas

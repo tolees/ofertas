@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Bóxer Básico Hombre  Pack de 5  Bla al 36.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c8u1xxEJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51c8u1xxEJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c8u1xxEJL._SL200_.jpg' ]
 comments: true
 category: ofertas

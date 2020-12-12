@@ -3,6 +3,7 @@ layout: post
 title: 'Pioneer Betty-Bermuda Mujer Blau  Dark B al 89.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z2i4woRhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z2i4woRhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z2i4woRhL._SL200_.jpg' ]
 comments: true
 category: ofertas

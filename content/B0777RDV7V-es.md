@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjicody Jjspencer WW White  al 66.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311Igi0rVJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311Igi0rVJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311Igi0rVJL._SL200_.jpg' ]
 comments: true
 category: ofertas

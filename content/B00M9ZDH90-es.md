@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.27 % en Casio Reloj de Pulsera GA-400-1AER'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o-FZw6rlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51o-FZw6rlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51o-FZw6rlL._SL200_.jpg' ]
 comments: true
 category: ofertas

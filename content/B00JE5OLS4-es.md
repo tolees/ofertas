@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.97 % en Sony MicroVault X 3.0 - Memoria USB de 6'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ueudh1JoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ueudh1JoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ueudh1JoL._SL200_.jpg' ]
 comments: true
 category: ofertas

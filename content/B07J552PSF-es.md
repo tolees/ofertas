@@ -3,6 +3,7 @@ layout: post
 title: 'KEXIN 8GB Memoria USB 2.0 Pendrive 8GB F al 40.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XCi3zQHDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XCi3zQHDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XCi3zQHDL._SL200_.jpg' ]
 comments: true
 category: ofertas

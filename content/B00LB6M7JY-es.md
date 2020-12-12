@@ -3,6 +3,7 @@ layout: post
 title: 'Kärcher 2.643-143.0 Boquilla de espuma F al 29.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wru4zaGtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wru4zaGtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wru4zaGtL._SL200_.jpg' ]
 comments: true
 category: ofertas

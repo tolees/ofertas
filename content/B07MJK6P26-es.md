@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.06 % en Pablosky Sandalias con Punta Abierta par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B4X%2BCI1KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B4X%2BCI1KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B4X%2BCI1KL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Drip&Fresh Rollo de tubería Blanca con T al 27.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HbJJ95xoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HbJJ95xoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HbJJ95xoL._SL200_.jpg' ]
 comments: true
 category: ofertas

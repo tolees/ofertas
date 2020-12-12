@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.87 % en Levi s kids Nn17004 Waistcoat Sudadera  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yluJC-lKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yluJC-lKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yluJC-lKL._SL200_.jpg' ]
 comments: true
 category: ofertas

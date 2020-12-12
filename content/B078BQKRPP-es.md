@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.06 % en Brooks Glycerin 16  Zapatillas de Runnin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EcrlckjeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EcrlckjeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EcrlckjeL._SL200_.jpg' ]
 comments: true
 category: ofertas

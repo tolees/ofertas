@@ -3,6 +3,7 @@ layout: post
 title: 'Garmin Vívosmart HR+ - Pulsera de activi al 44.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vi%2BoTCoJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vi%2BoTCoJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vi%2BoTCoJL._SL200_.jpg' ]
 comments: true
 category: ofertas

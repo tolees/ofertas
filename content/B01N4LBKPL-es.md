@@ -3,6 +3,7 @@ layout: post
 title: 'KRISP 6607-CORBLK-18  Vestido Corto Pati al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517SRFq1-hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517SRFq1-hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517SRFq1-hL._SL200_.jpg' ]
 comments: true
 category: ofertas

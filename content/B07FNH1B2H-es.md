@@ -3,6 +3,7 @@ layout: post
 title: 'Huawei P Smart Plus - Smartphone de 6.3" al 33.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iTZgz1apL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iTZgz1apL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iTZgz1apL._SL200_.jpg' ]
 comments: true
 category: ofertas

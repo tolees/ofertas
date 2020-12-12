@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.55 % en Versa 20711000 Maniqui costura con Luz C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QcHIL1%2BbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QcHIL1%2BbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QcHIL1%2BbL._SL200_.jpg' ]
 comments: true
 category: ofertas

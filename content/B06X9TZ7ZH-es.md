@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Vestido Elegante Drapeado sin Manga al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tEMtx9bhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tEMtx9bhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tEMtx9bhL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.08 % en New Balance Zapatillas Vazee Rush V2 Neg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C8VYi0W-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C8VYi0W-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C8VYi0W-L._SL200_.jpg' ]
 comments: true
 category: ofertas

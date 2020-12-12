@@ -3,6 +3,7 @@ layout: post
 title: 'Uhlsport 1006749010001 Brazalete de Capi al 30.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i%2BQ7Je18L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51i%2BQ7Je18L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i%2BQ7Je18L._SL200_.jpg' ]
 comments: true
 category: ofertas

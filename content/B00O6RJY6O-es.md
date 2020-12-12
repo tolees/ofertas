@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.68 % en Skins for PS3 PlayStation 3 Controller D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WC3oeVsHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WC3oeVsHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WC3oeVsHL._SL200_.jpg' ]
 comments: true
 category: ofertas

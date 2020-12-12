@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.17 % en Medion Akoya E23401 - Ordenador All-in-O'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XpxLSJJXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XpxLSJJXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XpxLSJJXL._SL200_.jpg' ]
 comments: true
 category: ofertas

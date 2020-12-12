@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Smash V2 L Zapatillas Unisex adulto al 40.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415AKZ%2BFmQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415AKZ%2BFmQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415AKZ%2BFmQL._SL200_.jpg' ]
 comments: true
 category: ofertas

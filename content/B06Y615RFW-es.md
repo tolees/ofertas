@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.79 % en Skagen Smartwatch Analogico para Unisex '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MgwDDMgrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MgwDDMgrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MgwDDMgrL._SL200_.jpg' ]
 comments: true
 category: ofertas

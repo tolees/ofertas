@@ -3,6 +3,7 @@ layout: post
 title: 'Qshare - Platos de silicona para bebé  u al 65.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hbuafkL%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hbuafkL%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hbuafkL%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

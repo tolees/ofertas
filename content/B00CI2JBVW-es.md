@@ -3,6 +3,7 @@ layout: post
 title: 'NANOCABLE 10.01.0401 - Cable USB 2.0 a M al 26.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lxVUkg-1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lxVUkg-1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lxVUkg-1L._SL200_.jpg' ]
 comments: true
 category: ofertas

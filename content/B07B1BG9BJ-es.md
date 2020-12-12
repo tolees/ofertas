@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Athleisure tee 13  Camiseta Hombre  al 61.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SLiW%2B4y9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SLiW%2B4y9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SLiW%2B4y9L._SL200_.jpg' ]
 comments: true
 category: ofertas

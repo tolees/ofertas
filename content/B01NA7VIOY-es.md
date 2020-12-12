@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Noosa Ff  Zapatillas de running Mu al 83.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510Zp0mewZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510Zp0mewZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510Zp0mewZL._SL200_.jpg' ]
 comments: true
 category: ofertas

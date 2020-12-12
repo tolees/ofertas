@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.99 % en Panasonic SC-SB1 - Barra de Sonido compa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21GAyMNDc6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21GAyMNDc6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21GAyMNDc6L._SL200_.jpg' ]
 comments: true
 category: ofertas

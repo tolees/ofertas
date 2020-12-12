@@ -3,6 +3,7 @@ layout: post
 title: 'K-Swiss Aeronaut  Zapatillas para Hombre al 59.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416FsIxptvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416FsIxptvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416FsIxptvL._SL200_.jpg' ]
 comments: true
 category: ofertas

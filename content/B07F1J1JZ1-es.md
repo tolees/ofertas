@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG All Day 10K Boy Chaqueta  Niño al 57.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4184FONTewL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4184FONTewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4184FONTewL._SL200_.jpg' ]
 comments: true
 category: ofertas

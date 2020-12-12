@@ -3,6 +3,7 @@ layout: post
 title: 'Seidensticker Modern Langarm Mit Kent Kr al 78.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417ZkSs19dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417ZkSs19dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417ZkSs19dL._SL200_.jpg' ]
 comments: true
 category: ofertas

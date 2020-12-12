@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans London Hyke W Snow  Botas de  al 60.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bl7nxxC2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bl7nxxC2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bl7nxxC2L._SL200_.jpg' ]
 comments: true
 category: ofertas

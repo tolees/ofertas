@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.98 % en Draper 12544 - Juego de alicates  mango '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YPpK-BwXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YPpK-BwXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YPpK-BwXL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.06 % en G-STAR RAW Tairi T-Shirt Camiseta  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fM62VKImL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fM62VKImL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fM62VKImL._SL200_.jpg' ]
 comments: true
 category: ofertas

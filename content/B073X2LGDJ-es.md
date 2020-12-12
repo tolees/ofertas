@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.91 % en Vila Clothes Viflary L/s Turtleneck Knit'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AKBagFJDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AKBagFJDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AKBagFJDL._SL200_.jpg' ]
 comments: true
 category: ofertas

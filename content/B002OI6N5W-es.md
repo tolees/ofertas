@@ -3,6 +3,7 @@ layout: post
 title: 'Brennenstuhl 1508100 - Distribuidor con  al 39.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tx0dR6SoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tx0dR6SoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tx0dR6SoL._SL200_.jpg' ]
 comments: true
 category: ofertas

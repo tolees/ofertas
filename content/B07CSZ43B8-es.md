@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Rise XT Fuse 2 Wn s  Zapatillas de  al 79.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PtXqICjbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PtXqICjbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PtXqICjbL._SL200_.jpg' ]
 comments: true
 category: ofertas

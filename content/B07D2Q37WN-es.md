@@ -3,6 +3,7 @@ layout: post
 title: 'Gant O1. The Quilted City Jacket Chaquet al 53.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yCYsLP36L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yCYsLP36L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yCYsLP36L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 89.52 % en Colchón Viscografeno Imperial Deluxe 30c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-7DvolR6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-7DvolR6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-7DvolR6L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 95.58 % en MXIN Cepillo de Dientes eléctrico 3 Cabe'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jx7TLYFtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jx7TLYFtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jx7TLYFtL._SL200_.jpg' ]
 comments: true
 category: ofertas

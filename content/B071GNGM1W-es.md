@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.66 % en adidas Tubular Shadow J  Zapatillas de D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aHApAVaKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aHApAVaKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aHApAVaKL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.56 % en Antony Morato MMSS00131-FA400007-7047  C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i0G29NkNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i0G29NkNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i0G29NkNL._SL200_.jpg' ]
 comments: true
 category: ofertas

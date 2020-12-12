@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok 3D Fusion TR  Zapatillas de Depor al 58.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tC%2Bd%2BhYJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tC%2Bd%2BhYJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tC%2Bd%2BhYJL._SL200_.jpg' ]
 comments: true
 category: ofertas

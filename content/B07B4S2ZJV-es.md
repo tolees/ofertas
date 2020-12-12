@@ -3,6 +3,7 @@ layout: post
 title: '[2018 recién actualizado USB Gaming Head al 56.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510lbuBjEUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510lbuBjEUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510lbuBjEUL._SL200_.jpg' ]
 comments: true
 category: ofertas

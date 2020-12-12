@@ -3,6 +3,7 @@ layout: post
 title: 'Remington XR1330 HyperFlex - Afeitadora  al 76.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Ec4jzrpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417Ec4jzrpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Ec4jzrpL._SL200_.jpg' ]
 comments: true
 category: ofertas

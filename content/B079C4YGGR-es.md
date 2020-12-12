@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjecontrast Stripe Polo SS  al 49.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B5Q2L9JCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B5Q2L9JCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B5Q2L9JCL._SL200_.jpg' ]
 comments: true
 category: ofertas

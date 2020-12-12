@@ -3,6 +3,7 @@ layout: post
 title: 'MERAKI Vestido Maxi Slim Fit de Algodón  al 51.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S%2BJZD1jjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S%2BJZD1jjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S%2BJZD1jjL._SL200_.jpg' ]
 comments: true
 category: ofertas

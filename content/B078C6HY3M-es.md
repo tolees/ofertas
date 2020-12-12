@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.92 % en adidas Duramo 8 w  Zapatillas de Running'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fz3mLvDzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fz3mLvDzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fz3mLvDzL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Teléfono móvil con Tapa para Personas Ma al 34.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418uGWk1EHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418uGWk1EHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418uGWk1EHL._SL200_.jpg' ]
 comments: true
 category: ofertas

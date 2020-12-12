@@ -3,6 +3,7 @@ layout: post
 title: 'Telémetro láser portátil  Meterk 60m min al 48.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hC1Px65JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hC1Px65JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hC1Px65JL._SL200_.jpg' ]
 comments: true
 category: ofertas

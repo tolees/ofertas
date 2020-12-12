@@ -3,6 +3,7 @@ layout: post
 title: 'Amzdeal 1500 M Deshumidificador Portátil al 65.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b894z7PLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b894z7PLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b894z7PLL._SL200_.jpg' ]
 comments: true
 category: ofertas

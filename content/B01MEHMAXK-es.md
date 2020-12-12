@@ -3,6 +3,7 @@ layout: post
 title: 'Graham & Brown - Papel pintado kids at H al 41.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a%2B1UZgCLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51a%2B1UZgCLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a%2B1UZgCLL._SL200_.jpg' ]
 comments: true
 category: ofertas

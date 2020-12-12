@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.81 % en The North Face M Hedgehog Hike GTX  Zapa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k-ONkZQTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k-ONkZQTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k-ONkZQTL._SL200_.jpg' ]
 comments: true
 category: ofertas

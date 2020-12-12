@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.62 % en Joma - Top Elite v Gris para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Me2nW5xpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Me2nW5xpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Me2nW5xpL._SL200_.jpg' ]
 comments: true
 category: ofertas

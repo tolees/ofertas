@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Powerlift 4  Zapatillas de Deport al 55.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ShlF51FWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ShlF51FWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ShlF51FWL._SL200_.jpg' ]
 comments: true
 category: ofertas

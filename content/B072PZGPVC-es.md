@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.83 % en Osram Luminaria LED  15 W  Blanco cálido'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319WpYhs%2B-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319WpYhs%2B-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319WpYhs%2B-L._SL200_.jpg' ]
 comments: true
 category: ofertas

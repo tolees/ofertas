@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.11 % en KBAYBO Control Remoto Aroma Difusor de A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ilx4KqEqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ilx4KqEqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ilx4KqEqL._SL200_.jpg' ]
 comments: true
 category: ofertas

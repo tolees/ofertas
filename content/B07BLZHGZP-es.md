@@ -3,6 +3,7 @@ layout: post
 title: 'Full Montaña Redonda de metal  5 de pelu al 37.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61NYCKWfnKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61NYCKWfnKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61NYCKWfnKL._SL200_.jpg' ]
 comments: true
 category: ofertas

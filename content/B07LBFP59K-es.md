@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.95 % en Love Moschino Sabotd. Capri15 Nastro  Sa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-nt93oiML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-nt93oiML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-nt93oiML._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Cressi Rondinella Aletas  Unisex  Turque al 54.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zr5zEfTjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zr5zEfTjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zr5zEfTjL._SL200_.jpg' ]
 comments: true
 category: ofertas

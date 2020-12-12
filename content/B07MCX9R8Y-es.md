@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.02 % en WOSTOO Luz Trasera para Bicicleta Recarg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b-857waoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51b-857waoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b-857waoL._SL200_.jpg' ]
 comments: true
 category: ofertas

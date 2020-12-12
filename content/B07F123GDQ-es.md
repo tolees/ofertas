@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Down Barstow Puffer  Chaqueta par al 60.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cFj6FzF9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cFj6FzF9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cFj6FzF9L._SL200_.jpg' ]
 comments: true
 category: ofertas

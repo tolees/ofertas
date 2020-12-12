@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.35 % en Mayoral 4300  Jersey para Niños   Rojo 3'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WDJoW9hIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WDJoW9hIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WDJoW9hIL._SL200_.jpg' ]
 comments: true
 category: ofertas

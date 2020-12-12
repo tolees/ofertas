@@ -3,6 +3,7 @@ layout: post
 title: 'Zapatillas Puma RS-X Toys Negro Hombre 4 al 33.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k1kiEAj8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k1kiEAj8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k1kiEAj8L._SL200_.jpg' ]
 comments: true
 category: ofertas

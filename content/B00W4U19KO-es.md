@@ -3,6 +3,7 @@ layout: post
 title: 'Axara H15 18632  Falda para Mujer  Negro al 91.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yTuEczEgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yTuEczEgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yTuEczEgL._SL200_.jpg' ]
 comments: true
 category: ofertas

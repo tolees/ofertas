@@ -3,6 +3,7 @@ layout: post
 title: 'Dometic Coolfreeze CDF 18 - Nevera de co al 33.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qmqI4ArSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qmqI4ArSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qmqI4ArSL._SL200_.jpg' ]
 comments: true
 category: ofertas

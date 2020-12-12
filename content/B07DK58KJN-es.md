@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Jr Sandal Roxanne B  Sandalias Punt al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411oU2idAuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411oU2idAuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411oU2idAuL._SL200_.jpg' ]
 comments: true
 category: ofertas

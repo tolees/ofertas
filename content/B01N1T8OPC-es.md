@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Kickoff  Zapatillas de Deporte Int al 42.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414UxOo7GBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414UxOo7GBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414UxOo7GBL._SL200_.jpg' ]
 comments: true
 category: ofertas

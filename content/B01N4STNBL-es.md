@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Logo Camiseta de Cuello R al 33.14 % de descuento'
 date: 2020-12-11 22:59:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/419WHxiryRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419WHxiryRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419WHxiryRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -26,8 +27,8 @@ Características:
 
 - Logo de Tommy Hilfiger en la parte delantera
 - Logo bordado en la manga
-- Camiseta de corte clásico óptima para el tiempo libre
 - Cinta distintiva en el interior del cuello
+- Camiseta de corte clásico óptima para el tiempo libre
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4STNBL/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fresh Faom Cruz v2 Hygge Pac al 71.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QeCMX-aRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QeCMX-aRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QeCMX-aRL._SL200_.jpg' ]
 comments: true
 category: ofertas

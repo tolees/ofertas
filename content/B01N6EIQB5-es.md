@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.05 % en Barbie Clínica de Mascotas  94 x 40 cm M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51W35FA2fJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51W35FA2fJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51W35FA2fJL._SL200_.jpg' ]
 comments: true
 category: ofertas

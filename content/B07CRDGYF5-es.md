@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.89 % en Puma Defy Wn s  Zapatillas de Deporte pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bx2y1OwxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bx2y1OwxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bx2y1OwxL._SL200_.jpg' ]
 comments: true
 category: ofertas

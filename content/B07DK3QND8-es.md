@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.15 % en Geox Jr Sandal Roxanne B  Sandalias Punt'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lLbah7FpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lLbah7FpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lLbah7FpL._SL200_.jpg' ]
 comments: true
 category: ofertas

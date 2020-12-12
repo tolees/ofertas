@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.60 % en Skoye - Tapón de Inodoro de Alta Presión'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GwKZ9IJNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GwKZ9IJNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GwKZ9IJNL._SL200_.jpg' ]
 comments: true
 category: ofertas

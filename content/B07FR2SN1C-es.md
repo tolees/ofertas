@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Jhnr79d Vestido  Negro  Noir 625 al 46.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ehx0tha4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ehx0tha4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ehx0tha4L._SL200_.jpg' ]
 comments: true
 category: ofertas

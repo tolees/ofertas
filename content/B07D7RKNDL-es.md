@@ -3,6 +3,7 @@ layout: post
 title: 'adidas X 18.3 AG  Botas de fútbol para H al 60.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NOFKWgOTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NOFKWgOTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NOFKWgOTL._SL200_.jpg' ]
 comments: true
 category: ofertas

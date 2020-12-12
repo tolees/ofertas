@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY M3661 .000.22450v  Polo Hombre  A al 67.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411NWyUc0fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411NWyUc0fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411NWyUc0fL._SL200_.jpg' ]
 comments: true
 category: ofertas

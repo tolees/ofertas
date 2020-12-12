@@ -3,6 +3,7 @@ layout: post
 title: 'ORICO - 2.5 Pulgadas USB 3.0 Caja Disco  al 50.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h5f64YhtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h5f64YhtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h5f64YhtL._SL200_.jpg' ]
 comments: true
 category: ofertas

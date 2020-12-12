@@ -3,6 +3,7 @@ layout: post
 title: 'BLACK+DECKER BDCT12N-XJ - Grapadora clav al 31.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c3KpUb54L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c3KpUb54L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c3KpUb54L._SL200_.jpg' ]
 comments: true
 category: ofertas

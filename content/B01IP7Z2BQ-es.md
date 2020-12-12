@@ -3,6 +3,7 @@ layout: post
 title: 'Benetton 2KN553395  Chaqueta Mujer  Verd al 76.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tn0X2zJfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tn0X2zJfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tn0X2zJfL._SL200_.jpg' ]
 comments: true
 category: ofertas

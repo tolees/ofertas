@@ -3,6 +3,7 @@ layout: post
 title: 'Medisana PSD 40461  Báscula de Baño de E al 38.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oCrD8kQtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oCrD8kQtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oCrD8kQtL._SL200_.jpg' ]
 comments: true
 category: ofertas

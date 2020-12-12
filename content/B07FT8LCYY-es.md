@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.68 % en Luces de Proyector de Navidad  Luz de Pr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ctUAX6WQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ctUAX6WQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ctUAX6WQL._SL200_.jpg' ]
 comments: true
 category: ofertas

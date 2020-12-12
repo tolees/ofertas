@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.10 % en LEGO DUPLO Cars - Cafetería de FLO  1084'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51l%2BxNSTUaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51l%2BxNSTUaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51l%2BxNSTUaL._SL200_.jpg' ]
 comments: true
 category: ofertas

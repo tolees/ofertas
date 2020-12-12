@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.34 % en Pepe Jeans Fami Jr  Suéter para Niñas  N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LHhEC3wEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LHhEC3wEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LHhEC3wEL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 501 Vaqueros Tapered  Azul  Noten al 71.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r9nWkDUAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r9nWkDUAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r9nWkDUAL._SL200_.jpg' ]
 comments: true
 category: ofertas

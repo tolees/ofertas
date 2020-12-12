@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Logo  Camiseta para Hombre  Gris  al 61.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413F8fB7iFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413F8fB7iFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413F8fB7iFL._SL200_.jpg' ]
 comments: true
 category: ofertas

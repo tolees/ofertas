@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.73 % en SHIMANO Alivio RDM4000SGS - Cambio 9v.Sh'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416JOHgv8HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416JOHgv8HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416JOHgv8HL._SL200_.jpg' ]
 comments: true
 category: ofertas

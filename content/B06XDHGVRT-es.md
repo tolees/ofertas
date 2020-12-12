@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.02 % en Premium Cepillo de Barba y Peine de Barb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61NlIPR7llL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61NlIPR7llL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61NlIPR7llL._SL200_.jpg' ]
 comments: true
 category: ofertas

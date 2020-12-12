@@ -3,6 +3,7 @@ layout: post
 title: 'LOMOS Mesita de Noche de Madera Odin en  al 36.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wt4dqa%2BSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wt4dqa%2BSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wt4dqa%2BSL._SL200_.jpg' ]
 comments: true
 category: ofertas

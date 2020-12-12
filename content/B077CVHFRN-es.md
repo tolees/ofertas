@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel S-Happy Low  Zapatillas para Homb al 66.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ac9Hf5r7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ac9Hf5r7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ac9Hf5r7L._SL200_.jpg' ]
 comments: true
 category: ofertas

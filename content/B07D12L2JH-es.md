@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.23 % en Cubitera Hielo  Ice Genie  Ice Cube Make'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vfBWaJ8JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vfBWaJ8JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vfBWaJ8JL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Juego de bolos Skittles Juego de bolos p al 59.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EYUizn%2BpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EYUizn%2BpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EYUizn%2BpL._SL200_.jpg' ]
 comments: true
 category: ofertas

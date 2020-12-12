@@ -3,6 +3,7 @@ layout: post
 title: 'Jimmy Choo Mask/S M3 138  Gafas de Sol p al 73.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313KJPHCDqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313KJPHCDqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313KJPHCDqL._SL200_.jpg' ]
 comments: true
 category: ofertas

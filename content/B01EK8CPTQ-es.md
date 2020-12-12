@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.02 % en Trust 21999- Teclado Multimedia con Lect'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E8DsIt-wL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E8DsIt-wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E8DsIt-wL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Topmo-plus 12w lámpara de pared LED impe al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314L9O5IgNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314L9O5IgNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314L9O5IgNL._SL200_.jpg' ]
 comments: true
 category: ofertas

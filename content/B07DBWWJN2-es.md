@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.20 % en Puma Insurge Mesh  Zapatillas de Deporte'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CJMK7FbIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CJMK7FbIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CJMK7FbIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 25700  Botas para Mujer  Verde   al 76.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J0icaLgYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J0icaLgYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J0icaLgYL._SL200_.jpg' ]
 comments: true
 category: ofertas

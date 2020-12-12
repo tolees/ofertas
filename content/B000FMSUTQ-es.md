@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.02 % en Severin 3667 - Báscula de Cocina'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lr0R8CLoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lr0R8CLoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lr0R8CLoL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.74 % en HUGO Dandy_MOCC_SD  Mocasines para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414-FKYr6CL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414-FKYr6CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414-FKYr6CL._SL200_.jpg' ]
 comments: true
 category: ofertas

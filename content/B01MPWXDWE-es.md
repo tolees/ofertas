@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjitim Jjoriginal Jj 520 Li al 57.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419z9RFlPZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419z9RFlPZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419z9RFlPZL._SL200_.jpg' ]
 comments: true
 category: ofertas

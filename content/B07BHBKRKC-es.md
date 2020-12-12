@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling - City Pack Mini  Mochilas Mujer al 40.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518z4GuBOkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518z4GuBOkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518z4GuBOkL._SL200_.jpg' ]
 comments: true
 category: ofertas

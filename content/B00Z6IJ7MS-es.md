@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch PSB 1800 LI-2 - Taladro de percusi al 35.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510QDo0dKkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510QDo0dKkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510QDo0dKkL._SL200_.jpg' ]
 comments: true
 category: ofertas

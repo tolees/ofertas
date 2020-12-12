@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6833527 Pantalones  Mujer    al 44.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XBoztq5FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XBoztq5FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XBoztq5FL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.31 % en Royal Canin C-08982 S.N. Shih Tzu 24 - 1'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AC6TgxynL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AC6TgxynL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AC6TgxynL._SL200_.jpg' ]
 comments: true
 category: ofertas

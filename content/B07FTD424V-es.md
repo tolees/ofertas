@@ -3,6 +3,7 @@ layout: post
 title: 'Limpiador de poros  quita poros nariz  l al 58.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412jkeffmiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412jkeffmiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412jkeffmiL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Ultrasport AB Roller Aparato de abdomina al 30.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416LRp-uesL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416LRp-uesL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416LRp-uesL._SL200_.jpg' ]
 comments: true
 category: ofertas

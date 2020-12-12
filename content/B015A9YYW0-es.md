@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.71 % en Mad Catz F.R.E.Q. TE Binaural Diadema Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yj-3E44rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yj-3E44rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yj-3E44rL._SL200_.jpg' ]
 comments: true
 category: ofertas

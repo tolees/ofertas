@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.39 % en Kawasaki Country Washed  Zapatillas Unis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PwdmaaHnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PwdmaaHnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PwdmaaHnL._SL200_.jpg' ]
 comments: true
 category: ofertas

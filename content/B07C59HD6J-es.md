@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.69 % en Pepe Jeans Sloane Pantalones    Deep Sea'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fFfH8KcAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fFfH8KcAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fFfH8KcAL._SL200_.jpg' ]
 comments: true
 category: ofertas

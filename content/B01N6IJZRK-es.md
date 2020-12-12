@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch EasyImpact 12 - Taladro atornillad al 42.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wZVcHMGPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wZVcHMGPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wZVcHMGPL._SL200_.jpg' ]
 comments: true
 category: ofertas

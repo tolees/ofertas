@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.90 % en Blend Twister - Vaqueros para hombre  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AyHMLnAEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AyHMLnAEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AyHMLnAEL._SL200_.jpg' ]
 comments: true
 category: ofertas

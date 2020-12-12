@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.42 % en Amazon Essentials 2-Pack Active Tank Fas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dC1yRksgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dC1yRksgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dC1yRksgL._SL200_.jpg' ]
 comments: true
 category: ofertas

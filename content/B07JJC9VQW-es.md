@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange Colour Block suéter  Azu al 46.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BgVyzthBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BgVyzthBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BgVyzthBL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Avengers PK1059 2018 Mochila Infantil  2 al 50.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61GWjAL4nxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61GWjAL4nxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61GWjAL4nxL._SL200_.jpg' ]
 comments: true
 category: ofertas

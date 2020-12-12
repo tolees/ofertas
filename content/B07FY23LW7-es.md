@@ -3,6 +3,7 @@ layout: post
 title: 'TP-Link TL-SG116 Gigabit Ethernet de 16  al 26.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CiFTy2mXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CiFTy2mXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CiFTy2mXL._SL200_.jpg' ]
 comments: true
 category: ofertas

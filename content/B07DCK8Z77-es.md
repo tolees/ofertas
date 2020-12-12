@@ -3,6 +3,7 @@ layout: post
 title: 'DADYPET Toallas de Baño para Mascotas  T al 66.68 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414Cr0LQF-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414Cr0LQF-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414Cr0LQF-L._SL200_.jpg' ]
 comments: true
 category: ofertas

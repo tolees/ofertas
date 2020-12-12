@@ -3,6 +3,7 @@ layout: post
 title: 'Belkin F8M967btWHT - Kit de carga para v al 44.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LY7ZO%2B33L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LY7ZO%2B33L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LY7ZO%2B33L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.80 % en Asics Gel-Lyte  Zapatillas de Running pa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I%2B6DfbraL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I%2B6DfbraL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I%2B6DfbraL._SL200_.jpg' ]
 comments: true
 category: ofertas

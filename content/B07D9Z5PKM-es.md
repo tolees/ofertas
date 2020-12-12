@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.00 % en Puma Ignite Limitless Sr-71 Crafted  Zap'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W8zTc0W-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W8zTc0W-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W8zTc0W-L._SL200_.jpg' ]
 comments: true
 category: ofertas

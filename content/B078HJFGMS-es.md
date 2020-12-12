@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.82 % en Springfield 1553593  Pantalones Para Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i5BiV7GaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i5BiV7GaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i5BiV7GaL._SL200_.jpg' ]
 comments: true
 category: ofertas

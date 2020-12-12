@@ -3,6 +3,7 @@ layout: post
 title: 'Mexx Women Jacket  Chaqueta para Mujer   al 76.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FiDsV2nIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FiDsV2nIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FiDsV2nIL._SL200_.jpg' ]
 comments: true
 category: ofertas

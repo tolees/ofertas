@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera Unisex adulto 5034/S 70 KKL Gafa al 54.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-4sbNKUXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-4sbNKUXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-4sbNKUXL._SL200_.jpg' ]
 comments: true
 category: ofertas

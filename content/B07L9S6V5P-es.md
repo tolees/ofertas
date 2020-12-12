@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.78 % en Napapijri Acalmar W 1 BLU Marine Chaquet'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nG9u8snoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nG9u8snoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nG9u8snoL._SL200_.jpg' ]
 comments: true
 category: ofertas

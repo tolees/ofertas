@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.58 % en Pepe Jeans Izzo  Camiseta Hombre   Off W'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Lf2-wm76L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Lf2-wm76L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Lf2-wm76L._SL200_.jpg' ]
 comments: true
 category: ofertas

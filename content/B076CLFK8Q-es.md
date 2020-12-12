@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.85 % en Chicco Trío Sprint - Sistema de paseo y '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51giHcH5gdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51giHcH5gdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51giHcH5gdL._SL200_.jpg' ]
 comments: true
 category: ofertas

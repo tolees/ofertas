@@ -3,6 +3,7 @@ layout: post
 title: 'Jata 530 - Báscula electrónica  meteo  o al 36.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413TlR5JbML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413TlR5JbML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413TlR5JbML._SL200_.jpg' ]
 comments: true
 category: ofertas

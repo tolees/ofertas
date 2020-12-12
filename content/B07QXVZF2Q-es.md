@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.24 % en YUECHAO Esterilla Acampada Camping con A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519P9rIcCbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519P9rIcCbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519P9rIcCbL._SL200_.jpg' ]
 comments: true
 category: ofertas

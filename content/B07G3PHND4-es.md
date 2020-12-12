@@ -3,6 +3,7 @@ layout: post
 title: 'Dorothy Perkins Aubree  Zapatos de tacón al 62.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NUzkjbwUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NUzkjbwUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NUzkjbwUL._SL200_.jpg' ]
 comments: true
 category: ofertas

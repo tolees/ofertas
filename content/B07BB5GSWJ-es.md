@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.96 % en The North Face T0A8MU Sudadera  Mujer  B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D-IDjLLvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31D-IDjLLvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D-IDjLLvL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual - Bols_dark Amber Loverty  Bols al 27.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515Q95B250L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515Q95B250L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515Q95B250L._SL200_.jpg' ]
 comments: true
 category: ofertas

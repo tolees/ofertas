@@ -3,6 +3,7 @@ layout: post
 title: 'VIALMAN Colcha  Gris  Cama 90 : 180 CM X al 27.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61Gf5XyTraL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61Gf5XyTraL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61Gf5XyTraL._SL200_.jpg' ]
 comments: true
 category: ofertas

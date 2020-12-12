@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlnova Fur Long Parka Otw  Gris  P al 74.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v8HkZRq5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v8HkZRq5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v8HkZRq5L._SL200_.jpg' ]
 comments: true
 category: ofertas

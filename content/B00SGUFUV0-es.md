@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.86 % en Reebok EX-O-FIT High Zapatillas altas  H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rf50R%2BXCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rf50R%2BXCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rf50R%2BXCL._SL200_.jpg' ]
 comments: true
 category: ofertas

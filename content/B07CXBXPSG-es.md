@@ -3,6 +3,7 @@ layout: post
 title: 'Warmies® MINIS Einhorn: Lavendel-Füllung al 28.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aH9I-hTLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aH9I-hTLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aH9I-hTLL._SL200_.jpg' ]
 comments: true
 category: ofertas

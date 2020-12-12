@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.27 % en Joma Nobel Pantalón de equipación  Blanc'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

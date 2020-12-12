@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.92 % en Fotima FTF-160 - Kit estudio flash  2 x '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aV32L0eIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aV32L0eIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aV32L0eIL._SL200_.jpg' ]
 comments: true
 category: ofertas

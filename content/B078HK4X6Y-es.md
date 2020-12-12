@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6813720 Blusa  Mujer   Gama  al 49.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cRokEVyXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cRokEVyXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cRokEVyXL._SL200_.jpg' ]
 comments: true
 category: ofertas

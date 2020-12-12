@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Evotouch 3 LTH AG  Botas de fútbol  al 54.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R9qNWBbdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R9qNWBbdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R9qNWBbdL._SL200_.jpg' ]
 comments: true
 category: ofertas

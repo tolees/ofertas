@@ -3,6 +3,7 @@ layout: post
 title: 'Ex Machina - Edición Horizontal [Blu-ray al 27.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KzfPuxPLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KzfPuxPLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KzfPuxPLL._SL200_.jpg' ]
 comments: true
 category: ofertas

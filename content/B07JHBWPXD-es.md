@@ -3,6 +3,7 @@ layout: post
 title: 'Lifewit Porta Alimentos Niños Bolsa Térm al 58.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510xA8ADSAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510xA8ADSAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510xA8ADSAL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Crew II Chaqueta  Hombre  Marino/Ro al 36.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G1gqLF5IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G1gqLF5IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G1gqLF5IL._SL200_.jpg' ]
 comments: true
 category: ofertas

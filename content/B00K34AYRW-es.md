@@ -3,6 +3,7 @@ layout: post
 title: 'Redken Blonde Idol Personalized Intensiv al 43.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AO04OuhCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AO04OuhCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AO04OuhCL._SL200_.jpg' ]
 comments: true
 category: ofertas

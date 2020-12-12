@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.59 % en Vanilla Moon Beth - Sandalias de Vestir '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QzbrVq%2BsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QzbrVq%2BsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QzbrVq%2BsL._SL200_.jpg' ]
 comments: true
 category: ofertas

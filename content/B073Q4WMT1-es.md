@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.26 % en Real Madrid Alfombrilla para Ratón - Pro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yTbCSgQKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yTbCSgQKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yTbCSgQKL._SL200_.jpg' ]
 comments: true
 category: ofertas

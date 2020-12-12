@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED HOMME Slhbrove Wool Coat B Noos al 56.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y5o4lLepL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Y5o4lLepL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y5o4lLepL._SL200_.jpg' ]
 comments: true
 category: ofertas

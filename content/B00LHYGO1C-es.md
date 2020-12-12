@@ -3,6 +3,7 @@ layout: post
 title: 'CEPSA 512564188 Lubricante Sintético par al 27.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LYwKMEVOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LYwKMEVOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LYwKMEVOL._SL200_.jpg' ]
 comments: true
 category: ofertas

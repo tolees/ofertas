@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual Shoes  Canvas   Zapatillas para al 34.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wLWI-%2BpRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wLWI-%2BpRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wLWI-%2BpRL._SL200_.jpg' ]
 comments: true
 category: ofertas

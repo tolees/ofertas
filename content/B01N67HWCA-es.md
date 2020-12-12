@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Toundra Pro CSWP W  Botas de Sen al 71.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bTDtp4vvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bTDtp4vvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bTDtp4vvL._SL200_.jpg' ]
 comments: true
 category: ofertas

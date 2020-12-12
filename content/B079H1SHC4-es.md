@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.58 % en Panama Jack Panama 03 Wool  Botines para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jttFh9b1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jttFh9b1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jttFh9b1L._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.07 % en Clarks Un Haven Strap  Bailarinas para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lhbGia7gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lhbGia7gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lhbGia7gL._SL200_.jpg' ]
 comments: true
 category: ofertas

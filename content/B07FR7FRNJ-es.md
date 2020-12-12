@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Botanic Ivy  Sandalia con Pulsera al 50.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r90SVgzGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51r90SVgzGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r90SVgzGL._SL200_.jpg' ]
 comments: true
 category: ofertas

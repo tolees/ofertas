@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.40 % en Casals C01241000 Atornillador a batería '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I7zg1vhXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51I7zg1vhXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I7zg1vhXL._SL200_.jpg' ]
 comments: true
 category: ofertas

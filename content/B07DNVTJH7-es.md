@@ -3,6 +3,7 @@ layout: post
 title: 'Soft doble par Vibrador Punto G silicona al 35.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BlbO-QYGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BlbO-QYGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BlbO-QYGL._SL200_.jpg' ]
 comments: true
 category: ofertas

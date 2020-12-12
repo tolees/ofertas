@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.43 % en Fitness Tracker IP67 Impermeable Pulsera'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fFzyw7lWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fFzyw7lWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fFzyw7lWL._SL200_.jpg' ]
 comments: true
 category: ofertas

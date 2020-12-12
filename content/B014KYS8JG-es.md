@@ -3,6 +3,7 @@ layout: post
 title: 'Atelier GARDEUR Zuri  Pantalones para Mu al 87.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vyFwQVPGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vyFwQVPGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vyFwQVPGL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.52 % en Philips myLiving Dyna Foco LED  iluminac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jJLf1wjXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jJLf1wjXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jJLf1wjXL._SL200_.jpg' ]
 comments: true
 category: ofertas

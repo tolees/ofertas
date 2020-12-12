@@ -3,6 +3,7 @@ layout: post
 title: 'Timezone EduardoTZ - Vaqueros para hombr al 45.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413UJNZ0qjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413UJNZ0qjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413UJNZ0qjL._SL200_.jpg' ]
 comments: true
 category: ofertas

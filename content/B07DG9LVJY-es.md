@@ -3,6 +3,7 @@ layout: post
 title: 'ENKEEO Cámara de Caza 12MP  1080P HD Tra al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sTxsB21%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sTxsB21%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sTxsB21%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas

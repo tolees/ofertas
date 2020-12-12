@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.95 % en DC Shoes Pure Elastic  Zapatillas de Ska'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BUR0OX84L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BUR0OX84L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BUR0OX84L._SL200_.jpg' ]
 comments: true
 category: ofertas

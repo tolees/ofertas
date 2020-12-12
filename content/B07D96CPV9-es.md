@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 30952  Botines para Mujer  Morado Bu al 61.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zIy3SlUfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zIy3SlUfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zIy3SlUfL._SL200_.jpg' ]
 comments: true
 category: ofertas

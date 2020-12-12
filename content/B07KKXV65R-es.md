@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.83 % en Burton Underhill Sudaderas  Hombre  True'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LEC9KqvOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LEC9KqvOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LEC9KqvOL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Umbro Freedom Chaqueta  Hombre  Negro  L al 32.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415scPFT2UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415scPFT2UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415scPFT2UL._SL200_.jpg' ]
 comments: true
 category: ofertas

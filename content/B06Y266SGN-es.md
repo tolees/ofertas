@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J744FA00077  Zapatos de Cordones Un al 78.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tRlyB%2Br7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tRlyB%2Br7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tRlyB%2Br7L._SL200_.jpg' ]
 comments: true
 category: ofertas

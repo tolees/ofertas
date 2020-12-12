@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.99 % en LEGO Friends - Estación de esquí: Telesi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61s-M4AvfKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61s-M4AvfKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61s-M4AvfKL._SL200_.jpg' ]
 comments: true
 category: ofertas

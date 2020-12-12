@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 89.84 % en SUNWH Reloj para hombre  ultrafino  mini'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hmOR-OlfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hmOR-OlfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hmOR-OlfL._SL200_.jpg' ]
 comments: true
 category: ofertas

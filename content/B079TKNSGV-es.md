@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onllexi L/s O-Neck Box Swt  Sudader al 79.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y-4ZHugKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y-4ZHugKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y-4ZHugKL._SL200_.jpg' ]
 comments: true
 category: ofertas

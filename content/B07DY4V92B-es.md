@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Trans Alpsâ„¢ F.k.t.â„¢ II  Zap al 43.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41564mLerrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41564mLerrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41564mLerrL._SL200_.jpg' ]
 comments: true
 category: ofertas

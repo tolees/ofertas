@@ -3,6 +3,7 @@ layout: post
 title: 'Fleshjack Masturbadores Él - 1 unidad al 42.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410rxvilF1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410rxvilF1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410rxvilF1L._SL200_.jpg' ]
 comments: true
 category: ofertas

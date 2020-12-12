@@ -3,6 +3,7 @@ layout: post
 title: 'Rowenta Smart Force Extreme RR7157WH - R al 41.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g2EotguIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g2EotguIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g2EotguIL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.28 % en Nike Heritage Gmsk  Mochila Unisex Adult'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cM7cU%2BzFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cM7cU%2BzFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cM7cU%2BzFL._SL200_.jpg' ]
 comments: true
 category: ofertas

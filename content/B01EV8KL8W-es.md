@@ -3,6 +3,7 @@ layout: post
 title: 'Ventilador de techo Sulión 075660 modelo al 37.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ogn5jLL9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ogn5jLL9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ogn5jLL9L._SL200_.jpg' ]
 comments: true
 category: ofertas

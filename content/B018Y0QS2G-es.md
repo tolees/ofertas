@@ -3,6 +3,7 @@ layout: post
 title: 'VAUDE Detergente Nikwax Tech Wash TX Dir al 48.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HseP6wvuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HseP6wvuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HseP6wvuL._SL200_.jpg' ]
 comments: true
 category: ofertas

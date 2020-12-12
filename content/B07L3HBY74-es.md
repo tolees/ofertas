@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.57 % en Tommy Hilfiger tee Camiseta  Blanco  Bri'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31id7ZJ6%2B9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31id7ZJ6%2B9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31id7ZJ6%2B9L._SL200_.jpg' ]
 comments: true
 category: ofertas

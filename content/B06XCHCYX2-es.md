@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Zapato de Ante estilo Wallabee Homb al 39.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CEz7-Dw0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CEz7-Dw0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CEz7-Dw0L._SL200_.jpg' ]
 comments: true
 category: ofertas

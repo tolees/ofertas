@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.68 % en Vibrador de Control Remoto Inalámbrico 1'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WViqkn3UL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WViqkn3UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WViqkn3UL._SL200_.jpg' ]
 comments: true
 category: ofertas

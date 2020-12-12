@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.78 % en 3 en 1 Sillita Trona Mecedora Balancin B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xziex7-ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xziex7-ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xziex7-ZL._SL200_.jpg' ]
 comments: true
 category: ofertas

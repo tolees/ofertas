@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.96 % en Bull padel Vertex Limited - Pack de Pala'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SkbabVCoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SkbabVCoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SkbabVCoL._SL200_.jpg' ]
 comments: true
 category: ofertas

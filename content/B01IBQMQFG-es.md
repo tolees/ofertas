@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch Ingletadora PCM 8 SD con función d al 59.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aeOad86kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aeOad86kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aeOad86kL._SL200_.jpg' ]
 comments: true
 category: ofertas

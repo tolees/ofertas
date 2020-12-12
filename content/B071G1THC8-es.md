@@ -3,6 +3,7 @@ layout: post
 title: 'Multipack de 4 tarrinas de 150g clásicos al 28.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vsJFKXgLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vsJFKXgLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vsJFKXgLL._SL200_.jpg' ]
 comments: true
 category: ofertas

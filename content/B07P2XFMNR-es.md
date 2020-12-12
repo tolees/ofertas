@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.45 % en PARTU HEPA Purificador de aire con espon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oetsHrZyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oetsHrZyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oetsHrZyL._SL200_.jpg' ]
 comments: true
 category: ofertas

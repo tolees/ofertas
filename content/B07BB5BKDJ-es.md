@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en The North Face T0AHJY Sudadera Drew Peak'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318%2BU6Jxo2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318%2BU6Jxo2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318%2BU6Jxo2L._SL200_.jpg' ]
 comments: true
 category: ofertas

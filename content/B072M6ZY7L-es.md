@@ -3,6 +3,7 @@ layout: post
 title: 'Merrell Moab 2 Vent  Zapatillas de Sende al 25.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q3vmV82tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q3vmV82tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Q3vmV82tL._SL200_.jpg' ]
 comments: true
 category: ofertas

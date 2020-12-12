@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Street - Pantalón para Mujer  Color al 48.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cqvUdLEXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cqvUdLEXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cqvUdLEXL._SL200_.jpg' ]
 comments: true
 category: ofertas

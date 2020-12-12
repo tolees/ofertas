@@ -3,6 +3,7 @@ layout: post
 title: 'Ropa Interior Mujer Lencería Sexy Ropa E al 56.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NzUJKbGTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NzUJKbGTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NzUJKbGTL._SL200_.jpg' ]
 comments: true
 category: ofertas

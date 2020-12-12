@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Y Jkt Chaqueta Infantil S al 67.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410fhI05e3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410fhI05e3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410fhI05e3L._SL200_.jpg' ]
 comments: true
 category: ofertas

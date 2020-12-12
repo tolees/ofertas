@@ -3,6 +3,7 @@ layout: post
 title: 'Safta Funda F.C. Barcelona 17/18 Oficial al 61.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DJXGK3wuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DJXGK3wuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DJXGK3wuL._SL200_.jpg' ]
 comments: true
 category: ofertas

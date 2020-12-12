@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.64 % en Beachball Set XL  2 Raquetas de Madera  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ny-fFy6gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ny-fFy6gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ny-fFy6gL._SL200_.jpg' ]
 comments: true
 category: ofertas

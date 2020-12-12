@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA W Squad  Zapatillas Depo al 60.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VH%2BsJ7P5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VH%2BsJ7P5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VH%2BsJ7P5L._SL200_.jpg' ]
 comments: true
 category: ofertas

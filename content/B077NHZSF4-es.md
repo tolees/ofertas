@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.57 % en Lee Slim Rider Chaqueta Vaquera  Azul  F'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c7lmNUw9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51c7lmNUw9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c7lmNUw9L._SL200_.jpg' ]
 comments: true
 category: ofertas

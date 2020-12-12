@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Nobel Pantalón de equipación  Burde al 40.40 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas

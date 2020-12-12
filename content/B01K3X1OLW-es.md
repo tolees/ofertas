@@ -3,6 +3,7 @@ layout: post
 title: 'Danish Design Reloj Analogico para Unise al 66.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yXPN34-KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yXPN34-KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yXPN34-KL._SL200_.jpg' ]
 comments: true
 category: ofertas

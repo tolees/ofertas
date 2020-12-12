@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjitim Jjoriginal Am 781 50 al 30.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTzeUveML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTzeUveML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTzeUveML._SL200_.jpg' ]
 comments: true
 category: ofertas

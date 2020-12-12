@@ -3,6 +3,7 @@ layout: post
 title: 'Fossil pendientes acero inoxidable-- --J al 30.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IwXDDe%2BOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IwXDDe%2BOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IwXDDe%2BOL._SL200_.jpg' ]
 comments: true
 category: ofertas

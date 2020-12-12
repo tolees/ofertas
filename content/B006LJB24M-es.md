@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.21 % en Okiedog 24212 Samurai - Bolso para pañal'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lx390L78L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Lx390L78L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lx390L78L._SL200_.jpg' ]
 comments: true
 category: ofertas

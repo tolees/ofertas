@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas VL Court 2.0  Zapatillas para Muj al 54.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DsbX7jLgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DsbX7jLgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DsbX7jLgL._SL200_.jpg' ]
 comments: true
 category: ofertas

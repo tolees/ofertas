@@ -3,6 +3,7 @@ layout: post
 title: 'Maria Mare 66329 - Zapatos de Vestir par al 82.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rOUkgfSLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rOUkgfSLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rOUkgfSLL._SL200_.jpg' ]
 comments: true
 category: ofertas

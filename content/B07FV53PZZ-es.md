@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.00 % en Monix Resistent Plus Batería De Cocina D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o5JCQJEKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51o5JCQJEKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51o5JCQJEKL._SL200_.jpg' ]
 comments: true
 category: ofertas

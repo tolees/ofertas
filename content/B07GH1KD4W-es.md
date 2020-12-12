@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.11 % en Skechers Bounder  Zapatillas para Hombre'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zz9VKtX2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zz9VKtX2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zz9VKtX2L._SL200_.jpg' ]
 comments: true
 category: ofertas

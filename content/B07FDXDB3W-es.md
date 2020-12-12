@@ -3,6 +3,7 @@ layout: post
 title: 'BLAVOR Cargador Solar Móvil 10000mAh Bat al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oKK0y8icL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oKK0y8icL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oKK0y8icL._SL200_.jpg' ]
 comments: true
 category: ofertas

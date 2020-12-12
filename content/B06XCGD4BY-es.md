@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Varby Top  Cargadores clásicos pa al 66.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DVyJe40RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DVyJe40RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DVyJe40RL._SL200_.jpg' ]
 comments: true
 category: ofertas

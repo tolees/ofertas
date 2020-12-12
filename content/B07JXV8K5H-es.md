@@ -3,6 +3,7 @@ layout: post
 title: 'Guess LS Cn Jaguars Swtr  Jersey para Ho al 58.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UAF5aP4jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UAF5aP4jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UAF5aP4jL._SL200_.jpg' ]
 comments: true
 category: ofertas

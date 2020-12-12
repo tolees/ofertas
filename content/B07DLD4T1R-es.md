@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.35 % en Springfield 4.2.Gym.MD. Daily Joya Sudad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dJLhPiGKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dJLhPiGKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dJLhPiGKL._SL200_.jpg' ]
 comments: true
 category: ofertas

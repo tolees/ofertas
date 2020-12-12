@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.48 % en Collar para adiestramiento canino on mod'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zEruJMmdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zEruJMmdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zEruJMmdL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcojam tee SS Crew Neck Cam al 76.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cvX9Y3-QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cvX9Y3-QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cvX9Y3-QL._SL200_.jpg' ]
 comments: true
 category: ofertas

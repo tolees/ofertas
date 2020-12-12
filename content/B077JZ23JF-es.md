@@ -3,6 +3,7 @@ layout: post
 title: 'MagiDeal Carillón de Viento de Cobre Est al 44.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514LJvbiwCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514LJvbiwCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514LJvbiwCL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.78 % en Pikolinos Roma W1r  Zapatos de Cordones '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZikfA%2BrIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZikfA%2BrIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZikfA%2BrIL._SL200_.jpg' ]
 comments: true
 category: ofertas

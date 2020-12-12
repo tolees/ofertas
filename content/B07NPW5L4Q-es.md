@@ -3,6 +3,7 @@ layout: post
 title: 'auna TC-386 • Equipo de música Tocadisco al 26.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KzTEpp5TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KzTEpp5TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KzTEpp5TL._SL200_.jpg' ]
 comments: true
 category: ofertas

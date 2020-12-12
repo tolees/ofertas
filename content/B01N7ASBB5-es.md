@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmelizabeth LS Cold Shoulder B al 84.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VRC5hZSeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VRC5hZSeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VRC5hZSeL._SL200_.jpg' ]
 comments: true
 category: ofertas

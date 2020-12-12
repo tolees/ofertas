@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.27 % en Soradoo 10pcs Juego de señuelos de pesca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51To1rvyfeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51To1rvyfeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51To1rvyfeL._SL200_.jpg' ]
 comments: true
 category: ofertas

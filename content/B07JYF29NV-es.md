@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.01 % en esonmus Bolsa de Almuerzo con Aislamient'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PET7ee-XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PET7ee-XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PET7ee-XL._SL200_.jpg' ]
 comments: true
 category: ofertas

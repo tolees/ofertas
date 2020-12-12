@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Uprise Knit  Zapatillas Unisex Adul al 59.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414g9UDAwpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414g9UDAwpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414g9UDAwpL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'HyperX Predator HX430C15PB3K2/16 - Kit d al 58.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sGwRIvgVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sGwRIvgVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sGwRIvgVL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Medisana FTN 76120  Termómetro por Infra al 55.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aNwkEtqdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aNwkEtqdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aNwkEtqdL._SL200_.jpg' ]
 comments: true
 category: ofertas

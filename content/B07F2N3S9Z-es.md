@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.85 % en Puma Axis  Zapatillas Unisex Adulto  Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i9WeGIT3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31i9WeGIT3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i9WeGIT3L._SL200_.jpg' ]
 comments: true
 category: ofertas

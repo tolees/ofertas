@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.09 % en Lee Pique Polo  Camiseta Hombre  Marfil '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YcCvaRrRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YcCvaRrRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YcCvaRrRL._SL200_.jpg' ]
 comments: true
 category: ofertas

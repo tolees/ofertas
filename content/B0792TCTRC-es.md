@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.63 % en Geox U Kapsian D  Botas Clasicas para Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YXAvtmvEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YXAvtmvEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YXAvtmvEL._SL200_.jpg' ]
 comments: true
 category: ofertas

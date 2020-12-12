@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.92 % en Medisana BW 333 51075 Monitor de Presión'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s9mZep88L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s9mZep88L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s9mZep88L._SL200_.jpg' ]
 comments: true
 category: ofertas

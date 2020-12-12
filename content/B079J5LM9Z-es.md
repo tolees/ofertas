@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.00 % en Festina Reloj de Pulsera F20347/2'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P4DV2Z7FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P4DV2Z7FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P4DV2Z7FL._SL200_.jpg' ]
 comments: true
 category: ofertas

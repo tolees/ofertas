@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.74 % en Hilfiger Denim Tommy Jeans Moulded Beach'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CNY3t57qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CNY3t57qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CNY3t57qL._SL200_.jpg' ]
 comments: true
 category: ofertas

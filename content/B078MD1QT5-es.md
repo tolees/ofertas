@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en Pan/Tilt FREDI WiFi Cámara IP/Cámara de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VGrjqWZRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VGrjqWZRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VGrjqWZRL._SL200_.jpg' ]
 comments: true
 category: ofertas

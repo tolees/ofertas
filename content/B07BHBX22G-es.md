@@ -3,6 +3,7 @@ layout: post
 title: 'Oflamn Mochila para Mochila portátil Bol al 78.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kCl89qylL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kCl89qylL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kCl89qylL._SL200_.jpg' ]
 comments: true
 category: ofertas

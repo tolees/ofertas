@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.02 % en Columbia Woodburn Plus II  Botas de Send'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U9S-25c9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U9S-25c9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U9S-25c9L._SL200_.jpg' ]
 comments: true
 category: ofertas

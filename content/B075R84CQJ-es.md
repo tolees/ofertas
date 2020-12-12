@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.47 % en New Balance 490  Zapatillas de Running p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QSGobPCjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QSGobPCjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QSGobPCjL._SL200_.jpg' ]
 comments: true
 category: ofertas

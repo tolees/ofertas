@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.71 % en Trucco TT15AP1 Camiseta  Mujer  Verde  V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LnfFCMIxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LnfFCMIxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LnfFCMIxL._SL200_.jpg' ]
 comments: true
 category: ofertas

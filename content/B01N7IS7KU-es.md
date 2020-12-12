@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.37 % en The North Face Chaqueta Quest  Hombre  U'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zJX6PpdgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zJX6PpdgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zJX6PpdgL._SL200_.jpg' ]
 comments: true
 category: ofertas

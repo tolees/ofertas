@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.01 % en Cascos Bluetooth Inalámbrico  Macrourt A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ENCNu4RBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ENCNu4RBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ENCNu4RBL._SL200_.jpg' ]
 comments: true
 category: ofertas

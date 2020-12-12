@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.04 % en Skechers Beverlee-High Tea  Sandalias de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411m7AHDqyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411m7AHDqyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411m7AHDqyL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.86 % en Burton Brighton Camisetas  Hombre  Tando'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410Ep1jToVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410Ep1jToVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410Ep1jToVL._SL200_.jpg' ]
 comments: true
 category: ofertas

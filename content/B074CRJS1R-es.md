@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.11 % en Volcom Frickin SNT Dry 21" Shorts  Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eBhTs40zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eBhTs40zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eBhTs40zL._SL200_.jpg' ]
 comments: true
 category: ofertas

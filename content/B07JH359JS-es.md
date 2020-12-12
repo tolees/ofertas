@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.97 % en PUMA ESS Sweat Pants TR G Pantalones  Ni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31URcAmY0GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31URcAmY0GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31URcAmY0GL._SL200_.jpg' ]
 comments: true
 category: ofertas

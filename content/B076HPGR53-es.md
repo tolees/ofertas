@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.55 % en adidas CORE18 SW Top Sweatshirt  Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pUGISh5iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pUGISh5iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pUGISh5iL._SL200_.jpg' ]
 comments: true
 category: ofertas

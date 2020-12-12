@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.08 % en Pepe Jeans Koko Glam  Zapatillas para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oiv5rwbnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oiv5rwbnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oiv5rwbnL._SL200_.jpg' ]
 comments: true
 category: ofertas

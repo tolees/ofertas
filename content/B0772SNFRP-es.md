@@ -3,6 +3,7 @@ layout: post
 title: 'Attack On Titan 2  XBOX ONE al 65.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61QZ8BtmBsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61QZ8BtmBsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61QZ8BtmBsL._SL200_.jpg' ]
 comments: true
 category: ofertas

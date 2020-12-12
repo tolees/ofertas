@@ -3,6 +3,7 @@ layout: post
 title: 'Balon FC Barcelona Camuflaje Azul al 50.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xtW9v8IoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xtW9v8IoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xtW9v8IoL._SL200_.jpg' ]
 comments: true
 category: ofertas

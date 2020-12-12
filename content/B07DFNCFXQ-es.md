@@ -3,6 +3,7 @@ layout: post
 title: 'Puma A.C.E. SS tee T-Shirt  Hombre  Negr al 60.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31msWw4fNtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31msWw4fNtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31msWw4fNtL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.31 % en Alcachofa Para Ducha   Marsoul ducha 7 L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MDcDZrY5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MDcDZrY5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MDcDZrY5L._SL200_.jpg' ]
 comments: true
 category: ofertas

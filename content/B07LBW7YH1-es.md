@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.37 % en Calvin Klein Hip Brief Slip  Azul  Prov '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hr%2ByakXYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hr%2ByakXYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hr%2ByakXYL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'SKS  racor Vp/Vs inflador reversible  Un al 40.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41No4X9CHnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41No4X9CHnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41No4X9CHnL._SL200_.jpg' ]
 comments: true
 category: ofertas

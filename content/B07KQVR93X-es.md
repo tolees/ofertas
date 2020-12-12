@@ -3,6 +3,7 @@ layout: post
 title: 'Cuchillo de cocina profesional Ruicer Cu al 67.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jX1BFVZWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jX1BFVZWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jX1BFVZWL._SL200_.jpg' ]
 comments: true
 category: ofertas

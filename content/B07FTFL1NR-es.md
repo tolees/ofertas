@@ -3,6 +3,7 @@ layout: post
 title: 'Phyles Tapas elásticas de Silicona  6 Pa al 47.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513AtD8Y37L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513AtD8Y37L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513AtD8Y37L._SL200_.jpg' ]
 comments: true
 category: ofertas

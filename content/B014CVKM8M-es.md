@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Anbass  Vaqueros Slim para Hombre al 78.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jO0ShHxRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jO0ShHxRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jO0ShHxRL._SL200_.jpg' ]
 comments: true
 category: ofertas

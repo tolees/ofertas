@@ -3,6 +3,7 @@ layout: post
 title: 'NACATIN Skateboard Completo para Adultos al 29.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DV%2B8CYgwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DV%2B8CYgwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DV%2B8CYgwL._SL200_.jpg' ]
 comments: true
 category: ofertas

@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Kiwi  Bolso de mano para Mujer  Bla al 55.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EGYDc5F0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EGYDc5F0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EGYDc5F0L._SL200_.jpg' ]
 comments: true
 category: ofertas

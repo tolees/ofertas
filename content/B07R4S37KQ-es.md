@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.01 % en Smartwatch con Pulsómetro Reloj Intelige'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Nhk1jpRHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Nhk1jpRHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Nhk1jpRHL._SL200_.jpg' ]
 comments: true
 category: ofertas

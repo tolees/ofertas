@@ -3,6 +3,7 @@ layout: post
 title: '1 par de proteína de colágeno Mascarilla al 28.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XkVOUKDkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XkVOUKDkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XkVOUKDkL._SL200_.jpg' ]
 comments: true
 category: ofertas

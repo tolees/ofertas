@@ -3,6 +3,7 @@ layout: post
 title: 'Emporio Armani Underwear 9p729 Bóxer  Az al 46.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gN0n%2Bn-qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gN0n%2Bn-qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gN0n%2Bn-qL._SL200_.jpg' ]
 comments: true
 category: ofertas
