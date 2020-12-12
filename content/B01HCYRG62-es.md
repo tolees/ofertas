@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.04 % en JACK & JONES JACLICHFIELD TRUNKS 3 PACK '
-date: 2020-12-11 09:11:34
+date: 2020-12-12 18:11:15
 image: 'https://m.media-amazon.com/images/I/41QaUfiaRtL._SL200_.jpg'
 comments: true
 category: ofertas

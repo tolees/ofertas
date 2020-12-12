@@ -24,10 +24,10 @@ Está [Zacro 49 en 1 Kits Limpieza Cámara Reflex Profesional para Cámaras Réf
 
 ℹ️:
 
-- Caja de almacenamiento: Fácil de transportar, almacenamiento conveniente
+- 49 en 1 kits limpieza:Soplador de aire* 1,2 en 1 Cepillo de lente*1,Cepillo*1, Cepillo de lentes*1, Trapo*5, Papeles de lente*20, Palo de limpiar*4, Toallitas de lentes*4, Detergente*1, Paños de limpieza de lente*5, Pinzas*1, Caja Transparente*1, Bastoncillo*5, Guantes antiestáticos*1, Caja Negra*1,Instrucción*1.
 - Solución de limpieza: Puede rociar una pequeña cantidad de líquido de limpieza sobre la superficie del paño de limpieza para limpiar las piezas que deben limpiarse, como la cámara, la lente y la pantalla.
 - Cepillo de limpieza: Limpiar fácilmente la brecha de la lente y el polvo en el espejo UV.
-- 49 en 1 kits limpieza:Soplador de aire* 1,2 en 1 Cepillo de lente*1,Cepillo*1, Cepillo de lentes*1, Trapo*5, Papeles de lente*20, Palo de limpiar*4, Toallitas de lentes*4, Detergente*1, Paños de limpieza de lente*5, Pinzas*1, Caja Transparente*1, Bastoncillo*5, Guantes antiestáticos*1, Caja Negra*1,Instrucción*1.
 - Guantes antiestáticos: Guantes largos de 25 cm para evitar que el polvo salga durante la limpieza
+- Caja de almacenamiento: Fácil de transportar, almacenamiento conveniente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RSTLWLT/?tag=tolees-21)

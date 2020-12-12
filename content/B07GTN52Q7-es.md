@@ -24,8 +24,8 @@ Tienes [SPC Radio FM Jetty Pantalla LCD](https://www.amazon.es/dp/B07GTN52Q7/?ta
 
 ℹ️:
 
-- Función despertador (radio / tonos)
-- Antena telescópica de alta sensibilidad
 - Almacena 50 emisoras
+- Antena telescópica de alta sensibilidad
+- Función despertador (radio / tonos)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GTN52Q7/?tag=tolees-21)

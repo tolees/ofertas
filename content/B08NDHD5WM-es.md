@@ -24,10 +24,10 @@ Está [P Prettyia Flash USB2.0 de Dibujos Animados para Lápiz de Memoria para P
 
 ℹ️:
 
-- . Admite una gran cantidad de dispositivos USB en un segundo, teclado, mouse, disco en U, línea de datos, lector de tarjetas, impresora, etc.
-- . Portátil, lindo, plug & play.
 - . Tamaño: 45.9 * 34.3 * 22.5
+- . Admite una gran cantidad de dispositivos USB en un segundo, teclado, mouse, disco en U, línea de datos, lector de tarjetas, impresora, etc.
 - . Aplicación: almacene archivos de copia de seguridad, películas, música, imágenes, software, documentos, etc.
+- . Portátil, lindo, plug & play.
 - . Compatible con Windows XP / Vista / 7/10, Mac OS X
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08NDHD5WM/?tag=tolees-21)

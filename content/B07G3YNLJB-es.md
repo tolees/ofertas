@@ -25,9 +25,9 @@ Está [Crucial BX500 240 GB CT240BX500SSD1 Unidad interna de estado sólido  has
 ℹ️:
 
 - Un 300% veces más rápido que un disco duro normal
-- Lecturas/escrituras secuenciales hasta 540/500 MB/s en todos los tipos de archivo
 - Arranque más rápido; cargue archi vos más rápido; mejore la capacidad de respuesta general del sistema
-- Mejora la vida útil de la batería porque es 45 veces más eficiente en términos energéticos que un disco duro convencional
 - Micron 3D NAND - innovador mundial de tecnología de almacenamiento y memoria durante 40 años
+- Lecturas/escrituras secuenciales hasta 540/500 MB/s en todos los tipos de archivo
+- Mejora la vida útil de la batería porque es 45 veces más eficiente en términos energéticos que un disco duro convencional
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07G3YNLJB/?tag=tolees-21)

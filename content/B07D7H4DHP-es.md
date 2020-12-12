@@ -24,11 +24,11 @@ Tienes [Cife- Trinca la Pasta  Multicolor  41695 ](https://www.amazon.es/dp/B07D
 
 ℹ️:
 
-- Trinca la pasta es el juego más divertido para los pequeños de la casa; si eres el más rápido, conseguirás todos los billetes
 - Diviértete con trinca la pasta; lanza los billetes al cielo y sé el primero en recoger un millón de dólares
+- Trinca la pasta es el juego más divertido para los pequeños de la casa; si eres el más rápido, conseguirás todos los billetes
 - Ten mucho cuidado: hay billetes que doblan o triplican tu cantidad, pero también los hay que restan dinero
-- Recuerda: puedes intentar coger todos los billetes que puedas o ir a por el billete dorado y conseguir una victoria instantánea
 - Juega en familia o con amigos; diviértete en las fiestas tratando de ser el primero en conseguir un millón de euros
+- Recuerda: puedes intentar coger todos los billetes que puedas o ir a por el billete dorado y conseguir una victoria instantánea
 - Cuidado con la lluvia de dinero. En cuanto el billete toque el suelo, ya no vale
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D7H4DHP/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Cynosa Lite - Teclado Gaming Esenc al 44.74 % de descuento'
-date: 2020-12-11 07:56:47
+date: 2020-12-12 18:38:37
 image: 'https://m.media-amazon.com/images/I/41kSO3pwjJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,12 +22,12 @@ Ahora mismo tienes [Razer Cynosa Lite - Teclado Gaming Esencial con iluminación
 
 [![Razer Cynosa Lite - Teclado Gaming Esenc](https://m.media-amazon.com/images/I/41kSO3pwjJL._SL200_.jpg)](https://www.amazon.es/dp/B07Z5M6D5Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Compatible con Razer Synapse para una configuración óptima
 - Diseño duradero y resistente a las salpicaduras para una seguridad adecuada
-- Teclas totalmente programables con grabación simultánea de macros
 - Teclas optimas para juegos con tacto almohadillada
+- Teclas totalmente programables con grabación simultánea de macros
+- Compatible con Razer Synapse para una configuración óptima
 - Zona de iluminación con tecnología Razer Chroma con 16,8 millones de colores
 
 [Visítala!!!](https://www.amazon.es/dp/B07Z5M6D5Z/?tag=tolees-21)

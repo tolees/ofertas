@@ -24,10 +24,10 @@ Tienes [INJUSA – Quad Kawasaki ATV de 12V Licenciado con Marcha Atrás y Freno
 
 ℹ️:
 
-- Alcanza una velocidad máxima de 6 km/h y la batería y el cargador están incluidos
-- Quad Kawasaki de 12V con licencia oficial de marca, recomendado a niños a partir de 2 años
 - Incluye cambio de marchas, acelerador en pie y ruedas de plástico con bandas de goma
+- Alcanza una velocidad máxima de 6 km/h y la batería y el cargador están incluidos
 - Altura de manillar: 56.5 cm, altura de asiento: 37 cm (desde el suelo)
+- Quad Kawasaki de 12V con licencia oficial de marca, recomendado a niños a partir de 2 años
 - Se fabrica en España y cumple con las normativas de seguridad requeridas por la UE
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06X6MZZ99/?tag=tolees-21)
