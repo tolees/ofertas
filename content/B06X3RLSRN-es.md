@@ -24,10 +24,10 @@ Tienes [Chicco- Mesa de Juegos  34.5 x 34.5 x 37.5 cm  7653000040 ](https://www.
 
 ℹ️:
 
-- Patas extraíbles para jugar en el suelo
-- Actividades manuales y objetos encajables
 - Bilingüe inglés y español
-- 4 zonas de juego: pizarra magnética, música, jardinería y cocina
 - Con canciones y botones interactivos
+- Actividades manuales y objetos encajables
+- 4 zonas de juego: pizarra magnética, música, jardinería y cocina
+- Patas extraíbles para jugar en el suelo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06X3RLSRN/?tag=tolees-21)

@@ -24,9 +24,9 @@ Tienes [Skechers Moreno-Ederson  Zapatillas Hombre  Azul  NVY Black Canvas   40.
 
 ℹ️:
 
-- Low-Top
 - MORENO EDERSON
 - canvas
+- Low-Top
 - Mens
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GPQQ2WY/?tag=tolees-21)

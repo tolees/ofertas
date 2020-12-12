@@ -24,11 +24,11 @@ Tienes [Pikolin Home - Edredón/Relleno nórdico hipoalergénico de fibra Aloe V
 
 ℹ️:
 
-- Fácil mantenimiento: lavable en lavadora y secable en secadora a temperatura baja
-- Ecolofil Feather Touch; Fibras que aportan un tacto semejante a la pluma, congran capacidad de recuperación y fácil mantenimiento
 - Hipoalergénico -la microfibra ayuda a disminuir los síntomas de alergia
 - Con tratamiento Aloe Vera para que las personas de piel sensible puedan usarlo con y sin funda
-- Para habitaciones con temperaturas medias
 - Este relleno nórdico es totalmente transpirable
+- Fácil mantenimiento: lavable en lavadora y secable en secadora a temperatura baja
+- Ecolofil Feather Touch; Fibras que aportan un tacto semejante a la pluma, congran capacidad de recuperación y fácil mantenimiento
+- Para habitaciones con temperaturas medias
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B009VWFDVE/?tag=tolees-21)

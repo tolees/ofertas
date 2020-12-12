@@ -24,9 +24,9 @@ Está [Xiaomi - Juego de Cargador Inalámbrico de Alta Velocidad  20 W](https://
 
 ℹ️:
 
-- Tipo de producto: cargador inalámbrico de 20 W
 - Se puede utilizar para cargar teléfonos, tabletas y power bank
-- Carga segura con la detección de objetos extraños
 - Carga de 10 W para teléfonos que usan Qi EPP y carga de 5 W para teléfonos IPhone, Samsung y Huawei
+- Carga segura con la detección de objetos extraños
+- Tipo de producto: cargador inalámbrico de 20 W
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RMZ5KJ1/?tag=tolees-21)
