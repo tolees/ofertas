@@ -28,10 +28,10 @@ Está [Clarks Un Costa Lace  Zapatillas  Marrón  British Tan Lea British Tan Le
 
 Principales características:
 
-- Plantilla: piel lisa.
-- Nota sobre las tallas: tallaje adecuado.
-- Ocasión: informal.
 - Exterior: piel lisa y textil.
+- Ocasión: informal.
+- Nota sobre las tallas: tallaje adecuado.
+- Plantilla: piel lisa.
 - Material interior: piel lisa y textil.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TQVWR6T/?tag=tolees-21)

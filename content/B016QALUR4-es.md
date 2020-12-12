@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Homb
 
 Características:
 
-- Cordón elástico en la cintura.
 - El tejido Climalite elimina el sudor de la piel.
+- Cordón elástico en la cintura.
 - Marca Adidas
 
 [Visítala!!!](https://www.amazon.es/dp/B016QALUR4/?tag=tolees-21)
