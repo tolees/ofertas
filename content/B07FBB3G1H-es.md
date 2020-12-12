@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas 3Mc  Zapatillas de Skateboard Unisex Adulto  Negro  C
 
 Características:
 
-- adulto
 - Negro
+- adulto
 
 [Visítala!!!](https://www.amazon.es/dp/B07FBB3G1H/?tag=tolees-21)
 
