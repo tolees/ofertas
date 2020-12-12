@@ -28,8 +28,8 @@ Ahora mismo tienes [DKNY Be Delicious Fresh Blossom - Agua de perfume spray  100
 
 Características:
 
-- Productos de belleza y el cuidado personal
 - Tipo de producto: Agua de perfume
+- Productos de belleza y el cuidado personal
 - Marca: Donna Karan
 
 [Visítala!!!](https://www.amazon.es/dp/B0036FTF5M/?tag=tolees-21)

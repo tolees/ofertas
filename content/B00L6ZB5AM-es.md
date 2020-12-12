@@ -29,11 +29,11 @@ Ahora mismo tienes [Duracell Ultra 9V  Pila Alcalina  Paquete de 1  1 5 Voltios 
 Características:
 
 - SEGURIDAD: el cierre superior de nylon ayuda a evitar fugas y protege los dispositivos cotidianos como detectores de humo
+- Rendimiento de longevidad comparado con la duración promedio mínima en el ensayo de cámara digitalde 2015 por la CEI para pilas 9V, los resultados pueden variar según el dispositivo o su método de uso
 - POTENCIA Y LONGEVIDAD: las pilas Duracell Ultra 9V proporcionan energía confiable y duradera para alimentar todos sus dispositivos con hasta un 100% más de energía
+- Todos conocen la resistencia del conejito Duracell, descubre lo optimo de Duracell con la gama Ultra
 - DURABILIDAD: la tecnología Duralock mantiene durante 5 años toda la energía de las pilas Duracell sin utilizar y en su embalaje , en condiciones normales de almacenamiento
 - Fabricado en Bélgica, disponible en tamaños AA, AAA, C, D, 4.5V y 9V
-- Todos conocen la resistencia del conejito Duracell, descubre lo optimo de Duracell con la gama Ultra
-- Rendimiento de longevidad comparado con la duración promedio mínima en el ensayo de cámara digitalde 2015 por la CEI para pilas 9V, los resultados pueden variar según el dispositivo o su método de uso
 
 [Visítala!!!](https://www.amazon.es/dp/B00L6ZB5AM/?tag=tolees-21)
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [Durex Preservativos Sensitivo Contacto Total - 12 Condones  
 
 Características:
 
-- PERÍMETRO AJUSTADO: Anchura nominal de 52 mm
-- PRESERVATIVOS SUPER FINOS: GROSOR súper fino para una mayor sensibilidad y sensación de contacto total
 - FORMA RECTA: Preservativos de forma recta con ajuste Sensi-Fit y depósito
 - CONDONES LUBRICADOS: Lubricación de silicona, para una experiencia más suave
 - LÁTEX DE CAUCHO NATURAL Y TRANSPARENTES: Los preservativos Sensitivos de Durex son transparentes y de látex de caucho natural
+- PERÍMETRO AJUSTADO: Anchura nominal de 52 mm
+- PRESERVATIVOS SUPER FINOS: GROSOR súper fino para una mayor sensibilidad y sensación de contacto total
 
 [Visítala!!!](https://www.amazon.es/dp/B00KPGXC2W/?tag=tolees-21)
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [KHOMO Funda para iPad de 9 7 Pulgadas  2017 y 2018  con Sopo
 
 Características:
 
-- Diseño de bajo perfil y alta protección para obtener la máxima comodidad al viajar. Todos los botónes y puertos son accesibles sin necesidad de remover la carcasa.
-- Funda compuesta por dos partes no separables: Smart Cover delantero estilo Origami con Multiposición Horizontal y Vertical e interior de micro fibra + Carcasa trasera con bordes de silicona y Soporte Apple Pencil
 - Carcasa trasera diseñada para Apple iPad 9.7 2018, 2017, Air 1 - Compatible únicamente con los siguientes modelos: A1893 A1954 A1822 A1823 A1474 A1475 A1477
-- Dale un look único a tu iPad 9.7 con esta fantástica funda, escoge el color que más te guste!
+- Funda compuesta por dos partes no separables: Smart Cover delantero estilo Origami con Multiposición Horizontal y Vertical e interior de micro fibra + Carcasa trasera con bordes de silicona y Soporte Apple Pencil
+- Diseño de bajo perfil y alta protección para obtener la máxima comodidad al viajar. Todos los botónes y puertos son accesibles sin necesidad de remover la carcasa.
 - Marca Registrada KHOMO - Diseñada en Estados Unidos
+- Dale un look único a tu iPad 9.7 con esta fantástica funda, escoge el color que más te guste!
 
 [Visítala!!!](https://www.amazon.es/dp/B07D6S1ZK3/?tag=tolees-21)
 

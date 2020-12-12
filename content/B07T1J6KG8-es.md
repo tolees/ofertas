@@ -28,11 +28,11 @@ Está [Moleskine - Bolsa de viaje plegable y plegable en práctica bolsa  color 
 
 Principales características:
 
-- El tamaño adecuado para la mejor versidad; una bolsa diseñada para proteger tus dispositivos electrónicos, como ordenadores y tabletas, o tu cartera y sketchbook
-- Cuatro colores diferentes para inspirarte en tus aventuras: gris pastel, rosa pastel, verde pastel y azul pastel. Elige tu favorito.
-- Material ligero y resistente, cremallera con logotipo de Moleskine. Tamaño: 16 x 18 x 4 cm.
 - Versátil y lavable, cada bolsa de color se pliega y se pliega dentro de su práctica bolsa para no ocupar espacio.
 - Práctico y funcional para guardar todos los recuerdos del día; diseño elegante y ligero óptimo para tus desplazamientos.
+- El tamaño adecuado para la mejor versidad; una bolsa diseñada para proteger tus dispositivos electrónicos, como ordenadores y tabletas, o tu cartera y sketchbook
+- Material ligero y resistente, cremallera con logotipo de Moleskine. Tamaño: 16 x 18 x 4 cm.
+- Cuatro colores diferentes para inspirarte en tus aventuras: gris pastel, rosa pastel, verde pastel y azul pastel. Elige tu favorito.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07T1J6KG8/?tag=tolees-21)
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [Grupo Erik Editores Poster Marvel Comics Classic Covers](htt
 
 Características:
 
-- Diseño con licencia 100% oficial 
-- Se envía enrollado
 - Impreso en papel cauché de 150 gr 
+- Se envía enrollado
+- Diseño con licencia 100% oficial 
 
 [Visítala!!!](https://www.amazon.es/dp/B00MFKE71Q/?tag=tolees-21)
 

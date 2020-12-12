@@ -28,11 +28,11 @@ Ahora mismo tienes [Inter Link Simply Vitrina de madera MDF y vidrio  Negro  80 
 
 Características:
 
+- Vitrina adecuada para depositar pequeños objetos de colección
+- Dimensiones: 80 x 9,5 x 60 cm
 - Los paneles de cristal transparente ofrecen una protección óptima contra el polvo y la suciedad
 - Material: Madera MDF y vidrio
 - 7 niveles con 4 tabletas ajustables en altura
-- Dimensiones: 80 x 9,5 x 60 cm
-- Vitrina adecuada para depositar pequeños objetos de colección
 
 [Visítala!!!](https://www.amazon.es/dp/B002PHLZJQ/?tag=tolees-21)
 

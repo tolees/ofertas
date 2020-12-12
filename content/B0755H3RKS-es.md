@@ -29,10 +29,10 @@ Ahora mismo tienes [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa
 Características:
 
 - Material de la correa: Acero inoxidable; Resistente al agua: 5 ATM; Movimiento: Tres agujas
-- Se presenta en caja de regalo Michael Kors
 - Michael Kors
-- Analog
 - Grosor de la caja: 7 mm; Tamaño de la caja: 38 mm; Ancho de la correa: 14 mm; Circunferencia de la correa: 175 +/-5 mm
+- Se presenta en caja de regalo Michael Kors
+- Analog
 
 [Visítala!!!](https://www.amazon.es/dp/B0755H3RKS/?tag=tolees-21)
 

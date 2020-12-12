@@ -30,9 +30,9 @@ Principales características:
 
 - Correa de silicona rosa y diseño impreso
 - 5 ATM de resistencia al agua
+- Tres manecillas
 - Grosor de la caja de 9,85 mm
 - Esfera rosa
-- Tres manecillas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07G4FV8SH/?tag=tolees-21)
 

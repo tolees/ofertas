@@ -28,11 +28,11 @@ Ahora mismo tienes [Rii RK100+ Novedoso Teclado USB Retroiluminado Colores Rainb
 
 Características:
 
-- ★ Compatible con Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP. PC, ordenadores portátiles, Google Android TV Box, HTPC, IPTV, Smart TV, Mac IOS Raspberry Pi.
-- ★ Teclado estándar completo de 105 teclas con 11 teclas especiales diseñadas para funciones multimedia. Tamaño: 43 x 13.6 x 2.6 cm
-- ★ Tacto semimecánico profesional. Similar al tacto que se siente al usar un teclado mecánico, con todas las ventajas del mismo de rapidez de escritura y comodidad. Ideal para juegos y trabajos de oficina.
-- ★Para juegos
 - ★ Teclado profesional con retroiluminación Rainbow de 5 colores.
+- ★Para juegos
+- ★ Teclado estándar completo de 105 teclas con 11 teclas especiales diseñadas para funciones multimedia. Tamaño: 43 x 13.6 x 2.6 cm
+- ★ Compatible con Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP. PC, ordenadores portátiles, Google Android TV Box, HTPC, IPTV, Smart TV, Mac IOS Raspberry Pi.
+- ★ Tacto semimecánico profesional. Similar al tacto que se siente al usar un teclado mecánico, con todas las ventajas del mismo de rapidez de escritura y comodidad. Ideal para juegos y trabajos de oficina.
 
 [Visítala!!!](https://www.amazon.es/dp/B01NALU1NQ/?tag=tolees-21)
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [Prismáticos compactos para Adultos  10x42 Prismáticos Prof
 
 Características:
 
-- Amplia aplicación - Prismáticos con correa para el cuello y bolsa de transporte, su mejor opción para observación de aves, safari, camping, observación de estrellas, viajes, conciertos, exploración al aire libre, observación de juegos deportivos.
 - Prismáticos profesionales - 10 aumentos, 42 mm de diámetro de objetivo grande, prismáticos de alta potencia que presentan imágenes de alta calidad, claras, claras y auténticas.
 - Amplio campo de visión - prismáticos compactos para adultos, que se extienden a más de 1000 yardas y pueden alcanzar el ancho del campo visual de 305 pies, atrapar el paisaje remoto y los animales fácilmente despejados.
-- Lente óptica HD - lente de recubrimiento FMC, prisma de techo BAK4 brinda imágenes particularmente estables mediante la refracción óptima de la luz para que su objetivo sea más brillante y claro, le ofrece una excelente experiencia.
 - Diseño compacto y duradero - una armadura de goma duradera y una protección de ajuste hermético lo hace utilizable para resistir las condiciones climáticas más duras. Diseño compacto de prismáticos, práctico y portátil para todos lados.
+- Amplia aplicación - Prismáticos con correa para el cuello y bolsa de transporte, su mejor opción para observación de aves, safari, camping, observación de estrellas, viajes, conciertos, exploración al aire libre, observación de juegos deportivos.
+- Lente óptica HD - lente de recubrimiento FMC, prisma de techo BAK4 brinda imágenes particularmente estables mediante la refracción óptima de la luz para que su objetivo sea más brillante y claro, le ofrece una excelente experiencia.
 
 [Visítala!!!](https://www.amazon.es/dp/B07HQNJ7FK/?tag=tolees-21)
 

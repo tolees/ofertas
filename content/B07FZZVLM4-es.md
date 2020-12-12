@@ -29,9 +29,9 @@ Ahora mismo tienes [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa
 Características:
 
 - Cronógrafo de cuarzo
-- Esfera gris cepillada con efecto de rayo de sol
-- Correa gris de piel con estampado de cocodrilo
 - 5 ATM de resistencia al agua
+- Correa gris de piel con estampado de cocodrilo
+- Esfera gris cepillada con efecto de rayo de sol
 - Grosor de la caja de 12,00 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B07FZZVLM4/?tag=tolees-21)

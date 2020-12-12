@@ -28,11 +28,11 @@ Está [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Ino
 
 Principales características:
 
-- 3 ATM de resistencia al agua
-- Grosor de la caja de 10,7mm
 - Pulsera de acero inoxidable y caqui
 - Cronógrafo de cuarzo
+- Grosor de la caja de 10,7mm
 - Esfera gris cepillada con efecto de rayo de sol
+- 3 ATM de resistencia al agua
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07G4SXW2P/?tag=tolees-21)
 

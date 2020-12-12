@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling - Fundamental Nc  Mochilas Mujer al 60.41 % de descuento'
-date: 2020-12-11 13:17:46
+date: 2020-12-12 13:18:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CyoO3IieL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41CyoO3IieL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CyoO3IieL._SL200_.jpg' ]
@@ -28,8 +28,8 @@ Está [Kipling - Fundamental Nc  Mochilas Mujer  Negro  Lively Black   16.5x42x4
 
 Principales características:
 
-- Material exterior: Sintético
 - Cierre: Cordón
+- Material exterior: Sintético
 - Composición: Sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BH9T87T/?tag=tolees-21)

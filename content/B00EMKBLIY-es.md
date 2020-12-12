@@ -28,8 +28,8 @@ Tienes [deAO Cocinita de Juguete Mi Little Chef con 30 Accesorios Incluidos  Col
 
 Características principales:
 
-- Juego de imitación: perfecto para actividades recreativas y desarrollo de la imaginación.
 - Edad recomendada: A partir de 3 años (debido a piezas pequeñas) Ver imágenes para más detalle.
+- Juego de imitación: perfecto para actividades recreativas y desarrollo de la imaginación.
 - Fácil de montar y colocar. Robusta, estable. Materiales seguros, NO Tóxicos.
 - Medidas:
 52cm x72cm x 26cm por favor revise medidas antes de comprar

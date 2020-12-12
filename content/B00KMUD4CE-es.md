@@ -28,11 +28,11 @@ Está [Dolce Gusto Piccolo EDG100 Cafetera de cápsulas  1460 W  0.6 litros  ace
 
 Principales características:
 
-- Recoge gotas ajustable con tapa de acero inoxidable para cualquier tipo de taza o vaso
-- 15 bares de presión automática regulable
-- Depósito de agua extraíble (0.6 litros)
 - Sistema thermoblock que permite un calentamiento muy rápido
+- Recoge gotas ajustable con tapa de acero inoxidable para cualquier tipo de taza o vaso
+- Depósito de agua extraíble (0.6 litros)
 - Palanca mecánica para regular la temperatura del agua
+- 15 bares de presión automática regulable
 - Sistema de seguridad: sin el porta cápsulas no cae agua
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00KMUD4CE/?tag=tolees-21)

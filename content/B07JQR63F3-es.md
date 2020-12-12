@@ -28,11 +28,11 @@ Está [Funko Stranger Things Pop XXL Demogorgon  Multicolor  Talla Única  8.896
 
 Principales características:
 
-- Funko pop xxl
 - Licencia oficial
-- Caja ilustrada con ventana
+- Funko pop xxl
 - Stranger things
 - Nº 722
+- Caja ilustrada con ventana
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JQR63F3/?tag=tolees-21)
 

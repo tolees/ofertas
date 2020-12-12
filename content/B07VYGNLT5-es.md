@@ -28,11 +28,11 @@ Tienes [FITTOO Mallas Leggings Mujer Pantalones Deportivos oga Alta Cintura Elá
 
 Características principales:
 
-- 82% Poliéster, 18% Elastano
-- El tejido elástico en 4 direcciones ofrece una mayor libertad de movimiento en todas las direcciones
-- Perfecto para el uso diario, yoga, fitness, crossfit y cualquier tipo de deporte.
 - El tejido super suave, texturizado y de corte libre proporciona una cobertura y comodidad ininterrumpidas
+- Perfecto para el uso diario, yoga, fitness, crossfit y cualquier tipo de deporte.
 - Sujeción especial de costura para evitar puntos de presión y restregado.
+- El tejido elástico en 4 direcciones ofrece una mayor libertad de movimiento en todas las direcciones
+- 82% Poliéster, 18% Elastano
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VYGNLT5/?tag=tolees-21)
 

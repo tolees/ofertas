@@ -28,11 +28,11 @@ Ahora mismo tienes [FILA Disruptor  Zapatillas para Mujer  White  38 EU](https:/
 
 Características:
 
-- 1010302-1FG
-- Fila
-- Disruptor Low Wmn
-- Zapatillas
 - Mujer
+- Zapatillas
+- Disruptor Low Wmn
+- Fila
+- 1010302-1FG
 
 [Visítala!!!](https://www.amazon.es/dp/B078WQ6L8F/?tag=tolees-21)
 

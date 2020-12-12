@@ -28,12 +28,12 @@ Ahora mismo tienes [Bresser JUNIOR 40x-1024x Microscopio Set  negro  plata](http
 
 Características:
 
-- Ocular USB para conectar a PC
-- Componentes incluidos: Aumento: 40x - 1024x 2 oculares (10x y 16x) 3 objetivos (4x, 10x, 40x) color: plata/negro Accesorios: Lote de extras para comenzar en el microscopía Incluido software: Si
 - Oculares: 10x,16x
-- Lentes: 4x,10x,40x
+- Componentes incluidos: Aumento: 40x - 1024x 2 oculares (10x y 16x) 3 objetivos (4x, 10x, 40x) color: plata/negro Accesorios: Lote de extras para comenzar en el microscopía Incluido software: Si
+- Ocular USB para conectar a PC
 - Incluido: microscopio, pack de accesorios, ocular USB (cámara) cable
 - Aumento: 40x-1024x
+- Lentes: 4x,10x,40x
 
 [Visítala!!!](https://www.amazon.es/dp/B001UJE4XY/?tag=tolees-21)
 

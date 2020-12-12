@@ -28,9 +28,9 @@ Está [JACK & JONES JACHUEY TRUNKS 5 PACK NOOS Bóxer  Negro  Black Detail   X-L
 
 Principales características:
 
+- Paquete Triple
 - Estiramiento
 - Conjunto De Calzoncillos Boxer
-- Paquete Triple
 - Pretina Ancha
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07G2MC7QH/?tag=tolees-21)

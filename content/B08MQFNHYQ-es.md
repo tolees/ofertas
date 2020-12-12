@@ -29,8 +29,8 @@ Ahora mismo tienes [Geographical Norway Chaqueta de hombre BOKER AZUL MARINO tal
 Características:
 
 - pelo destomtable
-- Chaqueta de hombre
 - Capucha
+- Chaqueta de hombre
 
 [Visítala!!!](https://www.amazon.es/dp/B08MQFNHYQ/?tag=tolees-21)
 

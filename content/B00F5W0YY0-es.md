@@ -28,11 +28,11 @@ Ahora mismo tienes [Versa Galán de Noche 100 x 20 x 40 cm](https://www.amazon.e
 
 Características:
 
-- Dispone de colgador ideal para chaquetas, camisas, americanas. Además tiene un colgador para pantalones, corbatas, etc.
 - Muy estable.Peso: 3,7kg
-- Medidas Galán:100x20x40 cm
 - Montaje fácil y rápido
 - Material - Acero
+- Dispone de colgador ideal para chaquetas, camisas, americanas. Además tiene un colgador para pantalones, corbatas, etc.
+- Medidas Galán:100x20x40 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B00F5W0YY0/?tag=tolees-21)
 

@@ -29,8 +29,8 @@ Ahora mismo tienes [Invicta Reloj Analógico para Mujer de Cuarzo con Correa en 
 Características:
 
 - 2 años de garantía Invicta
-- Este modelo es parte de la colección Invicta Angel
 - Resistencia a la presión de agua de 10 bares. Tipo de Corona: empujar.
+- Este modelo es parte de la colección Invicta Angel
 - El Invicta 14397 tiene una caja de acier inoxydable de 38 milímetros con una esfera oro
 - Este modelo funciona con un movimiento de Cuarzo preciso
 

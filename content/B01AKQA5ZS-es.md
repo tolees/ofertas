@@ -28,12 +28,12 @@ Tienes [SJCam SJ5000X Elite  versión española  - Videocámara deportiva  WiFi 
 
 Características principales:
 
-- Lector de tarjetas micro SD incorporado
 - Chipset: Novatek NTK96660
 - Lente: Sony IMX078 sensor, Objetivo gran angular con ángulo de visión ajustable de 170ºA+ a 70ºA+ a 12.4MP
+- Sumergible hasta 30 metros de profundidad
 - Resolución de video: 4k (3840 x 2160) 2K (2560 x 1440)/30fps, 1080P (1920 x 1080)/ 60fps y 30fps, 720P (1280 x 720)/120, 60 y 30fps
 - Packaging e instrucciones en castellano
-- Sumergible hasta 30 metros de profundidad
+- Lector de tarjetas micro SD incorporado
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01AKQA5ZS/?tag=tolees-21)
 

@@ -29,10 +29,10 @@ Ahora mismo tienes [NOFFA Colchón Topper Viscoelástico 90X190  de Espuma con M
 Características:
 
 - ( 4 ) Espuma viscoelástica colchón topper toma alrededor de 4-48 horas para recuperar su forma original.
-- ( 3 ) Multifunción: colchoncillo viscoelástico per adultos, niños.
+- ( 5 ) Sobrecolchón Suave Tamaño-90 *190 * 5CM
 - ( 2 ) Confortable experiencia de dormir - colchón topper de Espuma de soporte de alta densidad, perfectamente compatible con una experiencia de sueño sin peso.
 - ( 1 ) Memory Foam: cubrecolchón de espuma con memoria relaje al cuerpo para un sueño saludable.
-- ( 5 ) Sobrecolchón Suave Tamaño-90 *190 * 5CM
+- ( 3 ) Multifunción: colchoncillo viscoelástico per adultos, niños.
 
 [Visítala!!!](https://www.amazon.es/dp/B071FJTHTT/?tag=tolees-21)
 

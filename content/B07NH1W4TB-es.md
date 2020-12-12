@@ -29,10 +29,10 @@ Tienes [Barbie Casa Malibu  casa de muñecas de dos pisos plegable con muebles y
 Características principales:
 
 - Regalo óptimo para niñas y niños de más de 3 años
-- La casa de muñecas malibu de barbie es plegable para llevarla a cualquier sitio
-- La casa malibu de barbie tiene 2 plantas y 6 habitaciones (algunas habitaciones se transforman)
-- Al girar una pared, deslizar el tocador o bajar el techo de la casa de barbie, surgen espacios
 - Esta divertida casa de barbie tiene un montón de accesorios, perfecta para niñas y niños de 3 a 9 años
+- Al girar una pared, deslizar el tocador o bajar el techo de la casa de barbie, surgen espacios
+- La casa malibu de barbie tiene 2 plantas y 6 habitaciones (algunas habitaciones se transforman)
+- La casa de muñecas malibu de barbie es plegable para llevarla a cualquier sitio
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NH1W4TB/?tag=tolees-21)
 

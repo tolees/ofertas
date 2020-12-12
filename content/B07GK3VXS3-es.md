@@ -28,11 +28,11 @@ Está [OMRON HeatTens - Máquina TENS con Calor Calmante para Aliviar el Dolor A
 
 Principales características:
 
-- Ejerce un doble tratamiento que consta de calor para relajar los músculos y aliviar el dolor, mientras que la tecnología TENS utiliza impulsos eléctricos para estimular los mecanismos del cuerpo
-- Adecuado para las zonas del cuerpo donde suele haber más dolores: espalda, hombros, articulaciones, piernas, brazos y pies
-- Simplifica el tratamiento para aliviar el dolor con programas predefinidos para distintas zonas del cuerpo; puedes personalizar los niveles de calor e intensidad de TENS para el tratamiento
-- TENS es una tecnología clínicamente probada que utilizan los fisioterapeutas y especialistas en dolor; ayuda a bloquear la transmisión del dolor y mejorar la circulación sanguínea
 - OMRON HeatTens es un producto sanitario certificado de uso doméstico que alivia el dolor: una alternativa segura y sin medicación para calmar el dolor
+- Adecuado para las zonas del cuerpo donde suele haber más dolores: espalda, hombros, articulaciones, piernas, brazos y pies
+- Ejerce un doble tratamiento que consta de calor para relajar los músculos y aliviar el dolor, mientras que la tecnología TENS utiliza impulsos eléctricos para estimular los mecanismos del cuerpo
+- TENS es una tecnología clínicamente probada que utilizan los fisioterapeutas y especialistas en dolor; ayuda a bloquear la transmisión del dolor y mejorar la circulación sanguínea
+- Simplifica el tratamiento para aliviar el dolor con programas predefinidos para distintas zonas del cuerpo; puedes personalizar los niveles de calor e intensidad de TENS para el tratamiento
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GK3VXS3/?tag=tolees-21)
 

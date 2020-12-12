@@ -30,8 +30,8 @@ Características principales:
 
 - Tubo telescópico para llegar a todos los rincones; cepillo integrado para limpiar superficies frágiles y zonas difíciles; boquilla para ranuras 2 en 1, cepillo para parquet y cepillo para tapicerías
 - Esta aspiradora con tecnología ciclónica y Air Booster garantiza un óptimo rendimiento de succión sobre cualquier superficie
-- Depósito de suciedad de 2.5 l adecuado para limpiar grandes espacios y cable XXL para una máxima libertad de movimiento gracias a sus 6.2 m y su radio de alcance de 8.8 m
 - Rendimiento de limpieza y poder de aspiración con su motor y cabezal de eficiencia pone al alcance de tu mano una capacidad de aspiración adecuada, con un deslizamiento para una limpieza fácil
+- Depósito de suciedad de 2.5 l adecuado para limpiar grandes espacios y cable XXL para una máxima libertad de movimiento gracias a sus 6.2 m y su radio de alcance de 8.8 m
 - Aspirador sin bolsa ciclónico, resultados con menor consumo de energía y nivel de silencio a solo 65dba; accesorios incluidos: boquilla para ranuras 2en1, cepillo para parquet, tapicerías y turbobrush
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084BHMPMP/?tag=tolees-21)

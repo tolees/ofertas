@@ -28,9 +28,9 @@ Está [Halloween EDT 100 ml](https://www.amazon.es/dp/B000C1Z6NS/?tag=tolees-21)
 
 Principales características:
 
-- Notas de salida: Violetas, lima verde de Cozumel, banana de Bokhol.
-- Notas de corazón: Magnolias de Casablanca, violetas de Arezzo, mugquet de Camarga, tuberosa de Yunnan, pimienta rosa de Aruba.
 - Notas de fondo: Sándalo de Misora,incienso de Djouba, mirra de Tana y vainilla de Madagascar.
+- Notas de corazón: Magnolias de Casablanca, violetas de Arezzo, mugquet de Camarga, tuberosa de Yunnan, pimienta rosa de Aruba.
+- Notas de salida: Violetas, lima verde de Cozumel, banana de Bokhol.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000C1Z6NS/?tag=tolees-21)
 

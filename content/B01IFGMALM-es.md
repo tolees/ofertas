@@ -28,10 +28,10 @@ Está [Neutrogena Crema De Manos Rápida Absorción - 2 Unidades x 75 ml.](https
 
 Principales características:
 
-- La fórmula contiene glicerina que nutre, repara y protege
-- La dimeticona proporciona una absorción inmediata
-- La vaselina contenida hidrata y suaviza
 - Nutre, protege y repara manos secas y estropeadas
+- La vaselina contenida hidrata y suaviza
+- La dimeticona proporciona una absorción inmediata
+- La fórmula contiene glicerina que nutre, repara y protege
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01IFGMALM/?tag=tolees-21)
 

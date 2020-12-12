@@ -28,9 +28,9 @@ Tienes [Dolce & Gabbana Pour Homme Perfume Hombre - 200 ml](https://www.amazon.e
 
 Características principales:
 
+- Nota de corazón: aromático y sorprendente, de lavanda, salvia y estragón
 - Nota de fondo: amaderado con sándalo, cedro y el componente masculino se lo ofrece el tabaco y el iris
 - Nota de salida: fresca y cítrica compuesta por bergamota, mandarina y naranja
-- Nota de corazón: aromático y sorprendente, de lavanda, salvia y estragón
 - Fragancia: aromática fougère
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TIOK1K8/?tag=tolees-21)

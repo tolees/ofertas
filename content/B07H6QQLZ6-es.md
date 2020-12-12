@@ -30,8 +30,8 @@ Principales características:
 
 - Esfera Blanca
 - 3 ATM de resistencia al agua
-- Grosor de la caja de 8, 0 mm; Diámetro de la caja: 40 mm
 - Correa marrón claro de piel lisa
+- Grosor de la caja de 8, 0 mm; Diámetro de la caja: 40 mm
 - Movimiento de cuarzo de tres manecillas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07H6QQLZ6/?tag=tolees-21)

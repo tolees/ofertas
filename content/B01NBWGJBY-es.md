@@ -28,11 +28,11 @@ Está [Injustice 2 - Standard Edition](https://www.amazon.es/dp/B01NBWGJBY/?tag=
 
 Principales características:
 
-- Los combates tendrán lugar en diferentes entornos, más grandes y evolucionados, de icónicas localizaciones como Metropolis, Gotham o Atlantis
-- DLC para jugar como Darkseid incluido
-- Injustice 2 continúa con la historia de Injustice: Gods Among Us mientras Batman y sus aliados trabajan para restablecer el orden de la sociedad mientras se enfrentan a todos aquellos que quieren restaurar el régimen de Superman
-- Los jugadores disfrutarán del mayor reparto de personajes de DC jamás visto en un juego de lucha, desde clásicos como Batman, Superman, Supergirl y Aquaman, hasta nuevos villanos como Atrocitus y Gorilla Grodd
 - En medio de todo este caos, surgirá una nueva amenaza que pondrá a la Tierra en peligro
+- Los combates tendrán lugar en diferentes entornos, más grandes y evolucionados, de icónicas localizaciones como Metropolis, Gotham o Atlantis
+- Los jugadores disfrutarán del mayor reparto de personajes de DC jamás visto en un juego de lucha, desde clásicos como Batman, Superman, Supergirl y Aquaman, hasta nuevos villanos como Atrocitus y Gorilla Grodd
+- Injustice 2 continúa con la historia de Injustice: Gods Among Us mientras Batman y sus aliados trabajan para restablecer el orden de la sociedad mientras se enfrentan a todos aquellos que quieren restaurar el régimen de Superman
+- DLC para jugar como Darkseid incluido
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NBWGJBY/?tag=tolees-21)
 

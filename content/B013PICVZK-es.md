@@ -29,13 +29,13 @@ Está [Hugo BOSS Reloj con mecanismo de cuarzo para hombre 1513279  cronógrafo 
 Principales características:
 
 - Caja de acero inoxidable
-- Color del dial: negro
-- Movimiento de cronógrafo de cuarzo de 2 esferas (minutos y 24 horas)
-- Sumergible hasta 5 atmósferas o 50 metros
-- Correa de piel
-- Forma del producto: redondo
 - Color de la correa: negro
+- Movimiento de cronógrafo de cuarzo de 2 esferas (minutos y 24 horas)
 - Cierre de hebilla
+- Color del dial: negro
+- Correa de piel
+- Sumergible hasta 5 atmósferas o 50 metros
+- Forma del producto: redondo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B013PICVZK/?tag=tolees-21)
 

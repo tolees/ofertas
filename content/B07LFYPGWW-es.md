@@ -29,10 +29,10 @@ Está [Geox J SPACECLUB Girl B  Zapatillas Niños  Gris Dk Grey C9002  31 EU](ht
 Principales características:
 
 - Forma del tacón: plano.
-- Ancho de zapato: normal.
 - Material exterior: piel sintética / PU.
-- Suela: piel sintética / PU.
+- Ancho de zapato: normal.
 - Material interior: malla.
+- Suela: piel sintética / PU.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFYPGWW/?tag=tolees-21)
 

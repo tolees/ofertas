@@ -28,9 +28,9 @@ Tienes [Rimmel London Magnifeyes Palette Blush Edition Paleta de Sombras Tono 2 
 
 Características principales:
 
-- Todo en uno, sombra de ojos, delineador y iluminador
 - Color intenso para todos los tonos de piel
 - Perfecto para esculpir, sombrear y definir
+- Todo en uno, sombra de ojos, delineador y iluminador
 - Aplicador duo para crear múltiples looks para un acabado preciso
 - 12 sombras complementarias perfectas para hacer contouring
 

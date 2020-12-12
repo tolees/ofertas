@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.83 % en Superga 2750 COTU Classic  Zapatillas Un'
-date: 2020-12-10 10:12:04
+date: 2020-12-12 13:17:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg' ]
@@ -28,6 +28,10 @@ Tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Blanco 901  39 EU](
 
 Características principales:
 
+- Suela de goma vulcanizada
+- Algodón totalmente transpirable
+- Pestaña superga en el lado y el talón
+- Ojales en relieve Superga
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B001EP5S0C/?tag=tolees-21)
 

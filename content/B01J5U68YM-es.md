@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Rider Jeans Vaqueros  Blue Surrender  28W / 32L para Hom
 
 Características:
 
-- Estilo 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Estilo 5 bolsillos
 - Vaqueros para hombre
 
 [Visítala!!!](https://www.amazon.es/dp/B01J5U68YM/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Pop Movies: IT: Chapter 1- 10" Pennywise w/ Boat](https://www.amazon.es/d
 
 Principales características:
 
-- El artículo es adecuado para todos los fanáticos de la película It
 - Figura de colección de la marca Funko
-- El producto se envía en una caja ilustrada con ventana
 - Recomendado para niños a partir de 3 años
+- El artículo es adecuado para todos los fanáticos de la película It
+- El producto se envía en una caja ilustrada con ventana
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RSGHCCV/?tag=tolees-21)
 

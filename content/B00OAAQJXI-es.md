@@ -30,8 +30,8 @@ Características principales:
 
 - Mas rápida: puede cocinar hasta 3 veces mas rápido
 - Mas ecológica: puede ahorrar hasta 70% de energía
-- Colores disponibles: rojo y verde
 - Mas sana: cocina preservando mas vitaminas, minerales y sabores
+- Colores disponibles: rojo y verde
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OAAQJXI/?tag=tolees-21)
 

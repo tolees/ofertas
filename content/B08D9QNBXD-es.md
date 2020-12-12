@@ -28,11 +28,11 @@ Ahora mismo tienes [SANTER LABS Riñonera Deportiva  Riñonera Running Mujer- Ho
 
 Características:
 
-- 100% PROTECT: RESISTENTE AL SUDOR Y SALPICADURAS DE AGUA: El material elástico tiene una película impermeable en el interior para que el sudor no penetre. Además, la cremallera repelente al agua protege contra la lluvia y las salpicaduras de agua. (No apto para sumergir en agua).
-- 100% SEGURA Y VISIBLE POR LA NOCHE: Riñonera super segura con líneas reflectantes nocturnas, que garantiza su seguridad y visibilidad cuando se pasea o practica running por la noche.
 - ELEGANTE, LIGERA Y SEGURA PARA ACTIVIDADES AIRE LIBRE: Con un diseño elegante y actual, las riñoneras deportivas Santer Labs son adecuadas para todo tipo de actividades y deportes al aire libre como pasear, correr, ciclismo, practicar senderismo, montar a caballo, escalar montañas, etc. En esta riñonera deportiva, sus cosas son seguras y convenientes
-- MÁXIMA CAPACIDAD CON CINTURÓN ELASTICO AJUSTABLE: Hay un orificio para el cable de los auriculares, gran capacidad para carteras, llaves, tarjetas, dinero. Cinturón de nylon es suave y elástico , muy seguro, se puede ajustar dentro de 72-106cm. Adecuado para la mayoría de los tamaños de cintura, y no se desliza con el movimiento de la marcha.
+- 100% SEGURA Y VISIBLE POR LA NOCHE: Riñonera super segura con líneas reflectantes nocturnas, que garantiza su seguridad y visibilidad cuando se pasea o practica running por la noche.
 - 100% TRANSPIRABLE. Las riñoneras deportivas Santer Labs están fabricadas con nylon y lycra de alta calidad , haciendo productos ligeros, transpirables e impermeables. Gran calidad de los materiales que proporcionan larga vida útil. No se desliza del cuerpo con el movimiento. Utilizamos cremalleras de máxima calidad para una durabilidad óptima.
+- 100% PROTECT: RESISTENTE AL SUDOR Y SALPICADURAS DE AGUA: El material elástico tiene una película impermeable en el interior para que el sudor no penetre. Además, la cremallera repelente al agua protege contra la lluvia y las salpicaduras de agua. (No apto para sumergir en agua).
+- MÁXIMA CAPACIDAD CON CINTURÓN ELASTICO AJUSTABLE: Hay un orificio para el cable de los auriculares, gran capacidad para carteras, llaves, tarjetas, dinero. Cinturón de nylon es suave y elástico , muy seguro, se puede ajustar dentro de 72-106cm. Adecuado para la mayoría de los tamaños de cintura, y no se desliza con el movimiento de la marcha.
 
 [Visítala!!!](https://www.amazon.es/dp/B08D9QNBXD/?tag=tolees-21)
 

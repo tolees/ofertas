@@ -28,13 +28,13 @@ Está [Duracell - Cargador de pilas en 45 minutos  1 unidad](https://www.amazon.
 
 Principales características:
 
-- Múltiple protección para garantizar una carga segura de tus baterías
-- El cargador Duracell Hi-Speed Charger necesita 45 minutos para cargar 2 pilas AA (aprox 85% de la carga completa con las pilas Duracell 1300mAh. Aprox 75% de la carga completa con las pilas Duracell 750mAh AAA)
 - Viene con 2 pilas recargables tipo AA y 2 tipo AAA de Duracell incluidas en el embalaje
-- Desconexión automática: después de realizar la carga completa de las pilas, el cargador se apaga de forma automática para impedir el sobrecalentamiento
-- El cargador de pilas Hi-Speed viene con una garantía de Duracell de 10 años
 - Pilas recargadas en 45 minutos* (Aprox 85% de la carga completa con las pilas Duracell 1300mAh AA. Aprox 75% de la carga completa con las pilas Duracell 780mAh)
 - Carga tanto las pilas AA como las AAA
+- El cargador Duracell Hi-Speed Charger necesita 45 minutos para cargar 2 pilas AA (aprox 85% de la carga completa con las pilas Duracell 1300mAh. Aprox 75% de la carga completa con las pilas Duracell 750mAh AAA)
+- Desconexión automática: después de realizar la carga completa de las pilas, el cargador se apaga de forma automática para impedir el sobrecalentamiento
+- Múltiple protección para garantizar una carga segura de tus baterías
+- El cargador de pilas Hi-Speed viene con una garantía de Duracell de 10 años
 
 [Ver la oferta!!](https://www.amazon.es/dp/B008TYX7Z4/?tag=tolees-21)
 

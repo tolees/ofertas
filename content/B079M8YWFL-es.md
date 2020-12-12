@@ -28,9 +28,9 @@ Tienes [Hasbro Gaming - Juego infantil Cara Splash  Hasbro E2762175 ](https://ww
 
 Características principales:
 
-- Gana el primer jugador que consiga 25 puntos
-- Los jugadores suman puntos cada vez que no reciben nata montada en la cara
 - Cara Splash el sencillo juego de mucha diversión y risas
+- Los jugadores suman puntos cada vez que no reciben nata montada en la cara
+- Gana el primer jugador que consiga 25 puntos
 - Juega con el modo de Reacción en Cadena conectando varios juegos (cada juego se vende por separado)
 - El brazo lanzador puede saltar en cualquier momento
 

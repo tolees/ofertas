@@ -28,9 +28,9 @@ Tienes [L Oréal Paris Men Expert Hydra Power  Gel Hidratante Refrescante - 50 m
 
 Características principales:
 
-- Gel hidratante refrescante que nutre y calma el rostro en profundidad
 - Textura agua-gel fresca que se transforma en agua en el momento de la aplicación y se absorbe de manera inmediata
 - Fórmula enriquecida con agua de montaña francesa y ácido hialurónico para reforzar la resistencia de la piel y prevenir su deshidratación a lo largo del día
+- Gel hidratante refrescante que nutre y calma el rostro en profundidad
 - Protege la piel de la sensación de tensión y tirantez, para un acabado cómodo e hidratado
 - Como resultado, un cuidado intenso y profundo de la piel, que se mantiene confortable e hidratada 48 horas
 

@@ -29,10 +29,10 @@ Ahora mismo tienes [A Plague Tale: Innocence](https://www.amazon.es/dp/B07NC1MQD
 Características:
 
 - Una oscura aventura en tercera persona ambientada en una Francia afectada por la plaga
-- Guía a los huérfanos Amicia y Hugo a lo largo de aldeas medievales mientras evitas enemigos mortales, tanto humanos como ratas
 - Mantén a los pequeños huérfanos a salvo evitando los enormes enjambres de ratas, aunque engañarlas puede que te dé un sangriento aliado en tu viaje
-- Únete a otros huérfanos para escapar de la Inquisición y destapar el misterio de la plaga que asola la Francia medieval
 - La oscuridad es tu aliada y enemiga, te esconderá de la Inquisición, pero te expondrá a las ratas
+- Guía a los huérfanos Amicia y Hugo a lo largo de aldeas medievales mientras evitas enemigos mortales, tanto humanos como ratas
+- Únete a otros huérfanos para escapar de la Inquisición y destapar el misterio de la plaga que asola la Francia medieval
 
 [Visítala!!!](https://www.amazon.es/dp/B07NC1MQDD/?tag=tolees-21)
 

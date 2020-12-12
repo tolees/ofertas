@@ -30,8 +30,8 @@ Características principales:
 
 - Montaje en pared
 - 10 marcaciones directas
-- Función mute y rellamada
 - No requiere enchufe
+- Función mute y rellamada
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B006NX3GYA/?tag=tolees-21)
 

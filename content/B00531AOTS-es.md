@@ -28,11 +28,11 @@ Tienes [Bosch Professional GSA 1100 E - Sierra sable  1100 W  230 mm  en maletí
 
 Características principales:
 
-- Incluye: GSA 1100 E, 1 hoja de sierra sable S 2345 X para madera, 1 hoja de sierra sable S 123 XF para metal, maletín (2610956923)
 - La GSA 1100 E ofrece una visibilidad óptima en cualquier situación de trabajo
-- Mejor visibilidad de la pieza de trabajo gracias a los LED integrados
-- Gancho metálico para colgar la sierra durante las pausas de trabajo
+- Incluye: GSA 1100 E, 1 hoja de sierra sable S 2345 X para madera, 1 hoja de sierra sable S 123 XF para metal, maletín (2610956923)
 - Avance de corte más rápido gracias al potente motor de 1100 W
+- Gancho metálico para colgar la sierra durante las pausas de trabajo
+- Mejor visibilidad de la pieza de trabajo gracias a los LED integrados
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00531AOTS/?tag=tolees-21)
 

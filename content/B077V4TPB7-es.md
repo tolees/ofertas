@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Alvar  Bolso bandolera para Muje al 56.14 % de descuento'
-date: 2020-12-11 13:17:57
+date: 2020-12-12 13:18:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jNsa0uiNL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41jNsa0uiNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jNsa0uiNL._SL200_.jpg' ]

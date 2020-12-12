@@ -28,12 +28,12 @@ Ahora mismo tienes [PUMA Smash Wns V2 L  Zapatillas Mujer  Blanco White White  3
 
 Características:
 
+- Material de la suela: Goma
+- Cierre: Cordones
 - Tipo de tacón: Plano
 - Material exterior: Cuero
 - Composición: Leder
-- Cierre: Cordones
 - Revestimiento: Sintético
-- Material de la suela: Goma
 
 [Visítala!!!](https://www.amazon.es/dp/B077MJJM3W/?tag=tolees-21)
 

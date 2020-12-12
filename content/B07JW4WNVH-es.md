@@ -29,9 +29,9 @@ Ahora mismo tienes [Huawei Mate 20 - Pack de funda y smartphone de 6.53"  Octa-C
 Características:
 
 - Huawei Kirin 980, el más potente con el doble de IA
+- Supercharge (30 min: 60%) y batería más de un día con 4000 mAh
 - Triple cámara Leica con IA y triple angular
 - Triple seguridad: Desbloqueo con huella y desbloqueo facial
-- Supercharge (30 min: 60%) y batería más de un día con 4000 mAh
 
 [Visítala!!!](https://www.amazon.es/dp/B07JW4WNVH/?tag=tolees-21)
 

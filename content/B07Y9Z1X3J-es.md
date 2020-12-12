@@ -28,10 +28,10 @@ Ahora mismo tienes [Pistola de Pintura  Meterk 400w Pistola de Pulverización Pi
 
 Características:
 
-- ▲Cable de alimentación de 2M y almohadilla de espuma: una almohadilla de espuma trasera con resistencia al polvo y la humedad puede extender la vida útil del motor.
-- ▲Amplia gama de usos: las pistolas de pintura le permiten rociar diferentes materiales con un mínimo esfuerzo. Esto los convierte en una buena alternativa al rodillo de pintura convencional: para pintar mesas, sillas, bicicletas, persianas, cercas, juguetes de madera, modelos, etc.
 - ▲3 patrones de pulverización y 3 tamaños de boquilla: 3 patrones de pulverización diferentes (horizontal, vertical y redondo) ajustables a 3 tamaños de boquilla (Φ1.3 / 1.8 / 2.6mm).
 - ▲El ajuste doble del flujo de pulverización con la tecnología HVLP, el asa extraíble con perilla de válvula ajustable, regula el flujo de tinta para una aplicación precisa del recubrimiento para lograr un recubrimiento uniforme, sin marcas de pincel. La pistola pulverizadora de alta capacidad utiliza aire del compresor para agregar más color a la superficie objetivo, reduciendo el consumo de material y la contaminación del aire.
+- ▲Amplia gama de usos: las pistolas de pintura le permiten rociar diferentes materiales con un mínimo esfuerzo. Esto los convierte en una buena alternativa al rodillo de pintura convencional: para pintar mesas, sillas, bicicletas, persianas, cercas, juguetes de madera, modelos, etc.
+- ▲Cable de alimentación de 2M y almohadilla de espuma: una almohadilla de espuma trasera con resistencia al polvo y la humedad puede extender la vida útil del motor.
 - ▲Volumen de suministro de la pistola pulverizadora, contenedor de pintura de 800 ml, embudo, aguja de limpieza, cepillo de limpieza, 4 boquillas de pulverización, manual del usuario, tarjeta de garantía
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y9Z1X3J/?tag=tolees-21)

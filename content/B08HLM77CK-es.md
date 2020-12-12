@@ -28,10 +28,10 @@ Está [#NA Forma de búho 304 Infusor de Hoja de té de Acero Inoxidable Colador
 
 Principales características:
 
-- Diseño en forma de búho que es lindo.
 - Un gran ayudante para hacer té.
 - Se puede llenar con té, granos de café, condimentos para sopas y muchas otras cosas.
 - Práctico y lo usará durante mucho tiempo.
+- Diseño en forma de búho que es lindo.
 - 100 nuevo y de alta calidad.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08HLM77CK/?tag=tolees-21)

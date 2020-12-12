@@ -28,13 +28,13 @@ Ahora mismo tienes [Duracell Pilas de botón de litio 2032 de 3 V  paquete de 4 
 
 Características:
 
-- TECNOLOGIA BABY SECURE: Incorpora una capa con forma de anilla y sabor amargo en la parte posterior de la pila para disuadir a niños y bebés de ingerir el producto
 - Pilas Duracell de botón de litio 2032 para uso en llaves con sensor magnético, pequeños mandos a distancia, básculas, elementos vestibles, sensores, glocómetros y termómetros digitales, pulsómetros
-- Hasta 10 años en almacenamiento
-- Las pilas Duracell de botón de litio están disponibles en estos tamaños 1220, 1616, 1620, 1632, 2016, 2025, 2032, 2430 y 2450
 - Las pilas Duracell de botón de litio 2032 utilizan litio de gran pureza
+- Hasta 10 años en almacenamiento
 - Las pilas Duracell de botón de litio 2032, hasta un 50% más de potencia
 - respecto a la duración media mínima de la prueba estándar de potencia de servicio de la IEC para pilas de botón 2032, 2025 y 2016 de litio, los resultados pueden variar según el dispositivo y los patrones de uso
+- TECNOLOGIA BABY SECURE: Incorpora una capa con forma de anilla y sabor amargo en la parte posterior de la pila para disuadir a niños y bebés de ingerir el producto
+- Las pilas Duracell de botón de litio están disponibles en estos tamaños 1220, 1616, 1620, 1632, 2016, 2025, 2032, 2430 y 2450
 
 [Visítala!!!](https://www.amazon.es/dp/B01CG0TO76/?tag=tolees-21)
 

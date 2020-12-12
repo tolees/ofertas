@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Invicta 9204 Pro Diver Reloj Unisex acer al 67.79 % de descuento'
-date: 2020-11-30 12:47:31
+date: 2020-12-12 13:28:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pZ1hWBGGL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41pZ1hWBGGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pZ1hWBGGL._SL200_.jpg' ]
@@ -28,6 +28,11 @@ Ahora mismo tienes [Invicta 9204 Pro Diver Reloj Unisex acero inoxidable Cuarzo 
 
 Características:
 
+- Este modelo funciona con un movimiento de Cuarzo preciso
+- Este modelo es parte de la colección Invicta Pro Diver
+- Resistencia a la presión de agua de 20 bares. Tipo de Corona: empujar.
+- 2 años de garantía Invicta
+- El Invicta 9204 tiene una caja de acier inoxydable de 37 milímetros con una esfera azul
 
 [Visítala!!!](https://www.amazon.es/dp/B000GX8WAG/?tag=tolees-21)
 

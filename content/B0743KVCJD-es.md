@@ -28,11 +28,11 @@ Ahora mismo tienes [Philips Barbero MG7770/15 Recortador de barba y pelo  óptim
 
 Características:
 
-- Accessories: metal trimmer, body razor, hair clipper, precision razor, precision trimmer and nose and ear trimmer
-- Combs - Two shading combs, one adjustable beard comb (3-7mm), two short beard combs (1-2mm), four hair combs (4-9-12-16mm), two body combs (3-5mm)
 - Up to five hours of battery life with two hours of charging, quick charge
 - 18 in 1 Waterproof Beard, Hair & Body Kit
+- Accessories: metal trimmer, body razor, hair clipper, precision razor, precision trimmer and nose and ear trimmer
 - Travel case
+- Combs - Two shading combs, one adjustable beard comb (3-7mm), two short beard combs (1-2mm), four hair combs (4-9-12-16mm), two body combs (3-5mm)
 
 [Visítala!!!](https://www.amazon.es/dp/B0743KVCJD/?tag=tolees-21)
 

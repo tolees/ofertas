@@ -30,8 +30,8 @@ Características:
 
 - Con luz para poder ver la hora a oscuras
 - Con luz para poder ver la hora a oscuras
-- Set de regalo de muñeca de trapo y reloj despertador
 - Producto Oficial Gorjuss
+- Set de regalo de muñeca de trapo y reloj despertador
 
 [Visítala!!!](https://www.amazon.es/dp/B07BK92G5L/?tag=tolees-21)
 

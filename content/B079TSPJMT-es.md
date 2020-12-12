@@ -28,11 +28,11 @@ Está [Honor View 10 - Smartphone de 5.99"  4 G  6 GB de RAM  128 GB de ROM  EMU
 
 Principales características:
 
-- Función de carga rápida y Android 8.0
-- Dual cámara principal de 16 MP + 20 MP, cámara frontal 13 MP
-- Pantalla FHD + de 15.21 cm (5.99 pulgadas)
 - 128 GB de memoria interna ampliable mediante microSD para 256 GB y memoria RAM de 6 GB
+- Pantalla FHD + de 15.21 cm (5.99 pulgadas)
 - Contenido del envío: Honor View 10, cargador, cable de datos y carga USB, instrucciones de inicio rápido, auriculares, tarjetas SIM de aguja, protector de pantalla, carcasa
+- Dual cámara principal de 16 MP + 20 MP, cámara frontal 13 MP
+- Función de carga rápida y Android 8.0
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079TSPJMT/?tag=tolees-21)
 

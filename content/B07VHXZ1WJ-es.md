@@ -29,10 +29,10 @@ Ahora mismo tienes [Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en
 Características:
 
 - Caja redonda de acero inoxidable transparente con esfera en color plateado
-- Caja de 51 mm, correa de 26 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica de cronógrafo
+- Correa de poliuretano transparente
 - Se presenta en caja de regalo Diesel
 - Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
-- Correa de poliuretano transparente
+- Caja de 51 mm, correa de 26 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica de cronógrafo
 
 [Visítala!!!](https://www.amazon.es/dp/B07VHXZ1WJ/?tag=tolees-21)
 

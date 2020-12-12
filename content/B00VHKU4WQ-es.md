@@ -28,9 +28,9 @@ Está [King Cock Dildo Realista - 1 unidad](https://www.amazon.es/dp/B00VHKU4WQ/
 
 Principales características:
 
-- Longitud insertable: 6.75" (170 mm)
 - Dildo: PVC
 - Circunferencia de artículos: 5.25"
+- Longitud insertable: 6.75" (170 mm)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00VHKU4WQ/?tag=tolees-21)
 

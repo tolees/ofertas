@@ -28,10 +28,10 @@ Ahora mismo tienes [Joma Miami Bermuda Deporte de Tenis  Hombre  Blanco  2XS](ht
 
 Características:
 
-- Pantalón corto con bolsillos
 - Cintura elástica con cordón
-- Hecho 100 % de poliéster
+- Pantalón corto con bolsillos
 - Tiene un ajuste óptimo
+- Hecho 100 % de poliéster
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y32LCGK/?tag=tolees-21)
 

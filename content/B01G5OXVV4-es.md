@@ -28,8 +28,8 @@ Está [Clementoni - La Excavadora habladora  55130.9 ](https://www.amazon.es/dp/
 
 Principales características:
 
-- Canta dos canciones divertidas y 3 famosas rimas
 - La luz roja de arriba se enciende
+- Canta dos canciones divertidas y 3 famosas rimas
 - Multifunción 2 en 1: una excavadora que habla con muchas actividades mecánicas y un centro electrónico de actividades
 - La pala frontal se mueve mecánicamente de arriba hacia abajo
 

@@ -28,9 +28,9 @@ Está [Funko Pop!- 5864 Vinyl: Harry Potter: 6" Rubeus Hagrid  Multicolor](https
 
 Principales características:
 
-- 6" rubeus hagrid
-- Funko pop
 - Harry potter
+- Funko pop
+- 6" rubeus hagrid
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00TQ7BEUS/?tag=tolees-21)
 

@@ -29,11 +29,11 @@ Tienes [Geox D TOPAZIO A  Zapatillas Mujer  Naranja  Orange/DK Orange C2T7L   36
 Características principales:
 
 - Cierre: Cordones
-- Tipo de tacón: Plano
 - Material exterior: Sintético
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Material de la suela: Sintético
 - Revestimiento: Tela
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SY17GB9/?tag=tolees-21)
 

@@ -28,9 +28,9 @@ Está [Colgate Triple Acción Extra Fresh  Pasta de Dientes  blanqueador y fresc
 
 Principales características:
 
-- Elimina las manchas de la superficie
-- Protección anticaries probada
 - Pasta de dientes con una banda refrescante para una sensación extra de frescura
+- Protección anticaries probada
+- Elimina las manchas de la superficie
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KXZZ6NY/?tag=tolees-21)
 

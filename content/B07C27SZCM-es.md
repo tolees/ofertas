@@ -28,8 +28,8 @@ Está [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange D
 
 Principales características:
 
-- Para mayor comodidad, los puños de punto elásticos también garantizan la estabilidad de la forma de este conjunto de moda. Se adapta perfectamente a look de negocios y a conjuntos informales y te protege siempre contra el frío.
 - Este jersey atemporal convence por su diseño inteligente. Puedes elegir entre diferentes colores y un cuello redondo o en V. El suave punto fino de algodón es agradable de llevar.
+- Para mayor comodidad, los puños de punto elásticos también garantizan la estabilidad de la forma de este conjunto de moda. Se adapta perfectamente a look de negocios y a conjuntos informales y te protege siempre contra el frío.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C27SZCM/?tag=tolees-21)
 

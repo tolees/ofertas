@@ -28,9 +28,9 @@ Tienes [Catit Juguete Interactivo Tumbler Bee](https://www.amazon.es/dp/B075TCVC
 
 Características principales:
 
-- Producto para gatos
-- Catit Play Tumbler Bee Juguete Interactivo
 - Catit Juguete Interactivo Tumbler Bee
+- Catit Play Tumbler Bee Juguete Interactivo
+- Producto para gatos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075TCVCFX/?tag=tolees-21)
 

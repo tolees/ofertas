@@ -28,12 +28,12 @@ Tienes [Beurer BS89 - Espejo maquillaje con luz  color plata](https://www.amazon
 
 Características principales:
 
-- 3 intensidades de luz
-- Alta calidad, acabados cromados: fácil de fijar en pared
 - 1 cara vista con aumento (x5)
+- funciona con pilas AA 1,5 V
+- Alta calidad, acabados cromados: fácil de fijar en pared
+- 3 intensidades de luz
 - Luz LED brillante con 36 LED y 400 Lux
 - Espejo de pared
-- funciona con pilas AA 1,5 V
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00NABLZGE/?tag=tolees-21)
 
