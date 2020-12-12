@@ -2,33 +2,27 @@
 layout: post
 title: 'perfk 18650 Recargable Batería de Litio  al 37.55 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yvyiXFahL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31yvyiXFahL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yvyiXFahL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07H11ZYZ8-es'
-description:
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01
 comparePrice: 4.82 EUR
-inStock: true
 prodname: 'perfk 18650 Recargable Batería de Litio Cargador  Adecuado para Batería de Mini Ventilador Linterna'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H11ZYZ8/?tag=tolees-21'
 descuento: '37.55'
-titulo: 'perfk 18650 Recargable Batería de Litio '
 ---
 
 Ahora mismo tienes [perfk 18650 Recargable Batería de Litio Cargador  Adecuado para Batería de Mini Ventilador Linterna](https://www.amazon.es/dp/B07H11ZYZ8/?tag=tolees-21) a 3.01 EUR (original: 4.82 EUR) (37.55 %  de descuento) en el siguiente enlace!
 
 [![perfk 18650 Recargable Batería de Litio ](https://images-eu.ssl-images-amazon.com/images/I/31yvyiXFahL._SL200_.jpg)](https://www.amazon.es/dp/B07H11ZYZ8/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H11ZYZ8/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

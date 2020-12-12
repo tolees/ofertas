@@ -2,35 +2,27 @@
 layout: post
 title: 'Clarks Un Maui Lace  Zapatillas para Muj al 49.98 % de descuento'
 date: 2020-11-08 12:33:26
-thumbnailImage: 'https://m.media-amazon.com/images/I/41Qc5eCwH2L._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41Qc5eCwH2L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41Qc5eCwH2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KM2RG22-es'
-description:
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99
 comparePrice: 99.95 EUR
-inStock: true
 prodname: 'Clarks Un Maui Lace  Zapatillas para Mujer  Negro  Black Leather Black Leather   39.5 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KM2RG22/?tag=tolees-21'
 descuento: '49.98'
-titulo: 'Clarks Un Maui Lace  Zapatillas para Muj'
 ---
 
 Está [Clarks Un Maui Lace  Zapatillas para Mujer  Negro  Black Leather Black Leather   39.5 EU](https://www.amazon.es/dp/B07KM2RG22/?tag=tolees-21) con 49.98 de descuento por 49.99 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Clarks Un Maui Lace  Zapatillas para Muj](https://m.media-amazon.com/images/I/41Qc5eCwH2L._SL200_.jpg)](https://www.amazon.es/dp/B07KM2RG22/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KM2RG22/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

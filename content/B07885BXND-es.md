@@ -2,35 +2,27 @@
 layout: post
 title: 'Tommy Hilfiger Sujetador Estilo Bralette al 50.00 % de descuento'
 date: 2020-12-03 08:19:11
-thumbnailImage: 'https://m.media-amazon.com/images/I/41I+5F930dL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41I+5F930dL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41I+5F930dL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07885BXND-es'
-description:
 actualPrice: 18.45 EUR
 currency: EUR
 price: 18.45
 comparePrice: 36.9 EUR
-inStock: true
 prodname: 'Tommy Hilfiger Sujetador Estilo Bralette  Azul  Navy Blazer 416   Large  Talla del Fabricante: LG  para Mujer'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07885BXND/?tag=tolees-21'
 descuento: '50.00'
-titulo: 'Tommy Hilfiger Sujetador Estilo Bralette'
 ---
 
 Está [Tommy Hilfiger Sujetador Estilo Bralette  Azul  Navy Blazer 416   Large  Talla del Fabricante: LG  para Mujer](https://www.amazon.es/dp/B07885BXND/?tag=tolees-21) con 50.00 de descuento por 18.45 EUR (original: 36.9 EUR) en el siguiente enlace!
 
 [![Tommy Hilfiger Sujetador Estilo Bralette](https://m.media-amazon.com/images/I/41I+5F930dL._SL200_.jpg)](https://www.amazon.es/dp/B07885BXND/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07885BXND/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

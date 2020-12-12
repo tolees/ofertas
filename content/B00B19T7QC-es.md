@@ -2,33 +2,27 @@
 layout: post
 title: 'ASUS VG248QE Serie VG248 - Monitor Gamin al 35.84 % de descuento'
 date: 2020-11-16 10:30:51
-thumbnailImage: 'https://m.media-amazon.com/images/I/51xWAdXoM1L._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51xWAdXoM1L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51xWAdXoM1L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B00B19T7QC-es'
-description:
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0
 comparePrice: 279.0 EUR
-inStock: true
 prodname: 'ASUS VG248QE Serie VG248 - Monitor Gaming de 24" Full-HD  1920x1080  144 Hz  1 ms  350 cd/m²  Free-Sync  HDMI x2  DisplayPort  D-Sub Flicker-Free  Panel TN  altavoces  base ergonómica  color Negro'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B19T7QC/?tag=tolees-21'
 descuento: '35.84'
-titulo: 'ASUS VG248QE Serie VG248 - Monitor Gamin'
 ---
 
 Ahora mismo tienes [ASUS VG248QE Serie VG248 - Monitor Gaming de 24" Full-HD  1920x1080  144 Hz  1 ms  350 cd/m²  Free-Sync  HDMI x2  DisplayPort  D-Sub Flicker-Free  Panel TN  altavoces  base ergonómica  color Negro](https://www.amazon.es/dp/B00B19T7QC/?tag=tolees-21) a 179.0 EUR (original: 279.0 EUR) (35.84 %  de descuento) en el siguiente enlace!
 
 [![ASUS VG248QE Serie VG248 - Monitor Gamin](https://m.media-amazon.com/images/I/51xWAdXoM1L._SL200_.jpg)](https://www.amazon.es/dp/B00B19T7QC/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00B19T7QC/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -2,33 +2,27 @@
 layout: post
 title: 'Lee Brooklyn Straight Jeans  Azul  Mid S al 28.01 % de descuento'
 date: 2020-10-13 09:23:24
-thumbnailImage: 'https://m.media-amazon.com/images/I/41gCeYs1wDL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41gCeYs1wDL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41gCeYs1wDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B0071IN9PW-es'
-description:
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99
 comparePrice: 75.0 EUR
-inStock: true
 prodname: 'Lee Brooklyn Straight Jeans  Azul  Mid Stonewash   34W / 30L para Hombre'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0071IN9PW/?tag=tolees-21'
 descuento: '28.01'
-titulo: 'Lee Brooklyn Straight Jeans  Azul  Mid S'
 ---
 
 Ahora mismo tienes [Lee Brooklyn Straight Jeans  Azul  Mid Stonewash   34W / 30L para Hombre](https://www.amazon.es/dp/B0071IN9PW/?tag=tolees-21) a 53.99 EUR (original: 75.0 EUR) (28.01 %  de descuento) en el siguiente enlace!
 
 [![Lee Brooklyn Straight Jeans  Azul  Mid S](https://m.media-amazon.com/images/I/41gCeYs1wDL._SL200_.jpg)](https://www.amazon.es/dp/B0071IN9PW/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0071IN9PW/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

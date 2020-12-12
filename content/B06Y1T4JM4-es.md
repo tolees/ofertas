@@ -2,35 +2,27 @@
 layout: post
 title: 'Descuento del 49.10 % en Bresser Optics Classic 60/900 EQ Refract'
 date: 2020-11-25 23:43:03
-thumbnailImage: 'https://m.media-amazon.com/images/I/41rKaXvC8mL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41rKaXvC8mL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41rKaXvC8mL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1T4JM4-es'
-description:
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0
 comparePrice: 125.74 EUR
-inStock: true
 prodname: 'Bresser Optics Classic 60/900 EQ Refractor 338x Negro  Blanco - Telescopio  6 5 kg  Metal  Aluminio '
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y1T4JM4/?tag=tolees-21'
 descuento: '49.10'
-titulo: 'Bresser Optics Classic 60/900 EQ Refract'
 ---
 
 Tienes [Bresser Optics Classic 60/900 EQ Refractor 338x Negro  Blanco - Telescopio  6 5 kg  Metal  Aluminio ](https://www.amazon.es/dp/B06Y1T4JM4/?tag=tolees-21) con un 49.10 % de descuento con precio de oferta de 64.0 EUR (original: 125.74 EUR) en el siguiente enlace!
 
 [![Bresser Optics Classic 60/900 EQ Refract](https://m.media-amazon.com/images/I/41rKaXvC8mL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1T4JM4/?tag=tolees-21)
 
-Características principales:
+ℹ️:
 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y1T4JM4/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

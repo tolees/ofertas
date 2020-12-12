@@ -2,33 +2,27 @@
 layout: post
 title: 'Columbia Camden Chukka  Botas Casual par al 48.70 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FrVDaO0nL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51FrVDaO0nL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FrVDaO0nL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B0772ZBJM1-es'
-description:
 actualPrice: 66.68 EUR
 currency: EUR
 price: 66.68
 comparePrice: 129.99 EUR
-inStock: true
 prodname: 'Columbia Camden Chukka  Botas Casual para Hombre  Verde  Nori Grey   46 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0772ZBJM1/?tag=tolees-21'
 descuento: '48.70'
-titulo: 'Columbia Camden Chukka  Botas Casual par'
 ---
 
 Ahora mismo tienes [Columbia Camden Chukka  Botas Casual para Hombre  Verde  Nori Grey   46 EU](https://www.amazon.es/dp/B0772ZBJM1/?tag=tolees-21) a 66.68 EUR (original: 129.99 EUR) (48.70 %  de descuento) en el siguiente enlace!
 
 [![Columbia Camden Chukka  Botas Casual par](https://images-eu.ssl-images-amazon.com/images/I/51FrVDaO0nL._SL200_.jpg)](https://www.amazon.es/dp/B0772ZBJM1/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0772ZBJM1/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

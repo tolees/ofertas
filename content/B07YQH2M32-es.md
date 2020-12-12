@@ -2,33 +2,27 @@
 layout: post
 title: 'Pop! Games: Cyberpunk 2077- Johnny Silve al 31.03 % de descuento'
 date: 2020-10-28 11:32:27
-thumbnailImage: 'https://m.media-amazon.com/images/I/41jh-QzSh1L._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41jh-QzSh1L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41jh-QzSh1L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07YQH2M32-es'
-description:
 actualPrice: 12.38 EUR
 currency: EUR
 price: 12.38
 comparePrice: 17.95 EUR
-inStock: true
 prodname: 'Pop! Games: Cyberpunk 2077- Johnny Silverhand 2'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07YQH2M32/?tag=tolees-21'
 descuento: '31.03'
-titulo: 'Pop! Games: Cyberpunk 2077- Johnny Silve'
 ---
 
 Ahora mismo tienes [Pop! Games: Cyberpunk 2077- Johnny Silverhand 2](https://www.amazon.es/dp/B07YQH2M32/?tag=tolees-21) a 12.38 EUR (original: 17.95 EUR) (31.03 %  de descuento) en el siguiente enlace!
 
 [![Pop! Games: Cyberpunk 2077- Johnny Silve](https://m.media-amazon.com/images/I/41jh-QzSh1L._SL200_.jpg)](https://www.amazon.es/dp/B07YQH2M32/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07YQH2M32/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

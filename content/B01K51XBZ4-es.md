@@ -2,33 +2,27 @@
 layout: post
 title: 'Science4you - la ciencia del agua - jugu al 36.69 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61q4YqiVaIL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61q4YqiVaIL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61q4YqiVaIL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B01K51XBZ4-es'
-description:
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49
 comparePrice: 14.99 EUR
-inStock: true
 prodname: 'Science4you - la ciencia del agua - juguete científico y educativo'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01K51XBZ4/?tag=tolees-21'
 descuento: '36.69'
-titulo: 'Science4you - la ciencia del agua - jugu'
 ---
 
 Ahora mismo tienes [Science4you - la ciencia del agua - juguete científico y educativo](https://www.amazon.es/dp/B01K51XBZ4/?tag=tolees-21) a 9.49 EUR (original: 14.99 EUR) (36.69 %  de descuento) en el siguiente enlace!
 
 [![Science4you - la ciencia del agua - jugu](https://images-eu.ssl-images-amazon.com/images/I/61q4YqiVaIL._SL200_.jpg)](https://www.amazon.es/dp/B01K51XBZ4/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01K51XBZ4/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

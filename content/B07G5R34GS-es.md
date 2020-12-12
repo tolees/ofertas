@@ -2,35 +2,27 @@
 layout: post
 title: 'Vernee Thor Móviles Libres  Android 7.0  al 33.08 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hENWok%2BcL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hENWok%2BcL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hENWok%2BcL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07G5R34GS-es'
-description:
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99
 comparePrice: 129.99 EUR
-inStock: true
 prodname: 'Vernee Thor Móviles Libres  Android 7.0  Pantalla HD de 5 Pulgadas  2800mAh  3GB RAM+16GB ROM  Desbloqueo de Huellas  Cámara Dual 13MP+5MP  SIM Dual  Smartphone 4G Ligero y Fino  Gris '
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G5R34GS/?tag=tolees-21'
 descuento: '33.08'
-titulo: 'Vernee Thor Móviles Libres  Android 7.0 '
 ---
 
 Está [Vernee Thor Móviles Libres  Android 7.0  Pantalla HD de 5 Pulgadas  2800mAh  3GB RAM+16GB ROM  Desbloqueo de Huellas  Cámara Dual 13MP+5MP  SIM Dual  Smartphone 4G Ligero y Fino  Gris ](https://www.amazon.es/dp/B07G5R34GS/?tag=tolees-21) con 33.08 de descuento por 86.99 EUR (original: 129.99 EUR) en el siguiente enlace!
 
 [![Vernee Thor Móviles Libres  Android 7.0 ](https://images-eu.ssl-images-amazon.com/images/I/51hENWok%2BcL._SL200_.jpg)](https://www.amazon.es/dp/B07G5R34GS/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07G5R34GS/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

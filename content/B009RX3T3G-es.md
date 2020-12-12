@@ -2,35 +2,27 @@
 layout: post
 title: 'Descuento del 50.00 % en Phytorelax Crema de Ducha y Baño Shea Bu'
 date: 2020-10-16 17:11:00
-thumbnailImage: 'https://m.media-amazon.com/images/I/41c0iWNAUVL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41c0iWNAUVL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41c0iWNAUVL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B009RX3T3G-es'
-description:
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95
 comparePrice: 7.9 EUR
-inStock: true
 prodname: 'Phytorelax Crema de Ducha y Baño Shea Butter 500.0 ml'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009RX3T3G/?tag=tolees-21'
 descuento: '50.00'
-titulo: 'Phytorelax Crema de Ducha y Baño Shea Bu'
 ---
 
 Tienes [Phytorelax Crema de Ducha y Baño Shea Butter 500.0 ml](https://www.amazon.es/dp/B009RX3T3G/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 3.95 EUR (original: 7.9 EUR) en el siguiente enlace!
 
 [![Phytorelax Crema de Ducha y Baño Shea Bu](https://m.media-amazon.com/images/I/41c0iWNAUVL._SL200_.jpg)](https://www.amazon.es/dp/B009RX3T3G/?tag=tolees-21)
 
-Características principales:
+ℹ️:
 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B009RX3T3G/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

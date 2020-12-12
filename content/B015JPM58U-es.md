@@ -2,35 +2,27 @@
 layout: post
 title: 'Compo 1721612011 Composter 2 Kg  32x18.3 al 30.00 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yabfFYRhL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51yabfFYRhL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yabfFYRhL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B015JPM58U-es'
-description:
 actualPrice: 7.21 EUR
 currency: EUR
 price: 7.21
 comparePrice: 10.3 EUR
-inStock: true
 prodname: 'Compo 1721612011 Composter 2 Kg  32x18.399999999999999x7.65 cm'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015JPM58U/?tag=tolees-21'
 descuento: '30.00'
-titulo: 'Compo 1721612011 Composter 2 Kg  32x18.3'
 ---
 
 Está [Compo 1721612011 Composter 2 Kg  32x18.399999999999999x7.65 cm](https://www.amazon.es/dp/B015JPM58U/?tag=tolees-21) con 30.00 de descuento por 7.21 EUR (original: 10.3 EUR) en el siguiente enlace!
 
 [![Compo 1721612011 Composter 2 Kg  32x18.3](https://images-eu.ssl-images-amazon.com/images/I/51yabfFYRhL._SL200_.jpg)](https://www.amazon.es/dp/B015JPM58U/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B015JPM58U/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -2,33 +2,27 @@
 layout: post
 title: 'adidas Runfalcon  Zapatillas de Running  al 28.03 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RYlkKIUdL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RYlkKIUdL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RYlkKIUdL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07K2MF83D-es'
-description:
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95
 comparePrice: 49.95 EUR
-inStock: true
 prodname: 'adidas Runfalcon  Zapatillas de Running para Hombre  Core Black G28970  45 1/3 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2MF83D/?tag=tolees-21'
 descuento: '28.03'
-titulo: 'adidas Runfalcon  Zapatillas de Running '
 ---
 
 Ahora mismo tienes [adidas Runfalcon  Zapatillas de Running para Hombre  Core Black G28970  45 1/3 EU](https://www.amazon.es/dp/B07K2MF83D/?tag=tolees-21) a 35.95 EUR (original: 49.95 EUR) (28.03 %  de descuento) en el siguiente enlace!
 
 [![adidas Runfalcon  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/41RYlkKIUdL._SL200_.jpg)](https://www.amazon.es/dp/B07K2MF83D/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K2MF83D/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

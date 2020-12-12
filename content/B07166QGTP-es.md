@@ -2,33 +2,27 @@
 layout: post
 title: 'Woxter Stinger Station Rx Black - Silla  al 27.24 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tDehQbdpL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tDehQbdpL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tDehQbdpL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07166QGTP-es'
-description:
 actualPrice: 144.79 EUR
 currency: EUR
 price: 144.79
 comparePrice: 199 EUR
-inStock: true
 prodname: 'Woxter Stinger Station Rx Black - Silla Gaming  Eje de acero Levantamiento  Gas Pistón clase 4  reposapiés extensible apoyabrazos ergonómicos inclinación hasta 170º ruedas silenciosas antiarañazos'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07166QGTP/?tag=tolees-21'
 descuento: '27.24'
-titulo: 'Woxter Stinger Station Rx Black - Silla '
 ---
 
 Ahora mismo tienes [Woxter Stinger Station Rx Black - Silla Gaming  Eje de acero Levantamiento  Gas Pistón clase 4  reposapiés extensible apoyabrazos ergonómicos inclinación hasta 170º ruedas silenciosas antiarañazos](https://www.amazon.es/dp/B07166QGTP/?tag=tolees-21) a 144.79 EUR (original: 199 EUR) (27.24 %  de descuento) en el siguiente enlace!
 
 [![Woxter Stinger Station Rx Black - Silla ](https://images-eu.ssl-images-amazon.com/images/I/41tDehQbdpL._SL200_.jpg)](https://www.amazon.es/dp/B07166QGTP/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07166QGTP/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

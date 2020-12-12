@@ -2,35 +2,27 @@
 layout: post
 title: 'Vans Ward Suede/Canvas  Zapatillas Unise al 37.67 % de descuento'
 date: 2020-11-26 08:16:16
-thumbnailImage: 'https://m.media-amazon.com/images/I/412q4uv27tL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/412q4uv27tL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/412q4uv27tL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B01N76UL5O-es'
-description:
 actualPrice: 28.05 EUR
 currency: EUR
 price: 28.05
 comparePrice: 45.0 EUR
-inStock: true
 prodname: 'Vans Ward Suede/Canvas  Zapatillas Unisex Niños  Negro   Suede/Canvas  Black/White Iju  29 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N76UL5O/?tag=tolees-21'
 descuento: '37.67'
-titulo: 'Vans Ward Suede/Canvas  Zapatillas Unise'
 ---
 
 Está [Vans Ward Suede/Canvas  Zapatillas Unisex Niños  Negro   Suede/Canvas  Black/White Iju  29 EU](https://www.amazon.es/dp/B01N76UL5O/?tag=tolees-21) con 37.67 de descuento por 28.05 EUR (original: 45.0 EUR) en el siguiente enlace!
 
 [![Vans Ward Suede/Canvas  Zapatillas Unise](https://m.media-amazon.com/images/I/412q4uv27tL._SL200_.jpg)](https://www.amazon.es/dp/B01N76UL5O/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N76UL5O/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

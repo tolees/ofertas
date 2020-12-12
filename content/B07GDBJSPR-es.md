@@ -2,35 +2,27 @@
 layout: post
 title: 'EKKONG Explosion Box Scrapbook Creative  al 27.38 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LDRlZKqAL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51LDRlZKqAL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LDRlZKqAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07GDBJSPR-es'
-description:
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79
 comparePrice: 18.99 EUR
-inStock: true
 prodname: 'EKKONG Explosion Box Scrapbook Creative DIY Photo Album de Accesorios para cumpleaños Aniversario Boda San Valentín Día de la Madre Navidad  Negro '
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GDBJSPR/?tag=tolees-21'
 descuento: '27.38'
-titulo: 'EKKONG Explosion Box Scrapbook Creative '
 ---
 
 Está [EKKONG Explosion Box Scrapbook Creative DIY Photo Album de Accesorios para cumpleaños Aniversario Boda San Valentín Día de la Madre Navidad  Negro ](https://www.amazon.es/dp/B07GDBJSPR/?tag=tolees-21) con 27.38 de descuento por 13.79 EUR (original: 18.99 EUR) en el siguiente enlace!
 
 [![EKKONG Explosion Box Scrapbook Creative ](https://images-eu.ssl-images-amazon.com/images/I/51LDRlZKqAL._SL200_.jpg)](https://www.amazon.es/dp/B07GDBJSPR/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GDBJSPR/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

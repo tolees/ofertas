@@ -2,35 +2,27 @@
 layout: post
 title: 'The North Face Litewave Fastpack Gore-Te al 30.70 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nP2yJoquL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nP2yJoquL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nP2yJoquL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07BB42QP6-es'
-description:
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97
 comparePrice: 86.54 EUR
-inStock: true
 prodname: 'The North Face Litewave Fastpack Gore-Tex  Zapatillas de Senderismo para Mujer  Gris  Phantom Grey/Blue Stone 5ut   38 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB42QP6/?tag=tolees-21'
 descuento: '30.70'
-titulo: 'The North Face Litewave Fastpack Gore-Te'
 ---
 
 Está [The North Face Litewave Fastpack Gore-Tex  Zapatillas de Senderismo para Mujer  Gris  Phantom Grey/Blue Stone 5ut   38 EU](https://www.amazon.es/dp/B07BB42QP6/?tag=tolees-21) con 30.70 de descuento por 59.97 EUR (original: 86.54 EUR) en el siguiente enlace!
 
 [![The North Face Litewave Fastpack Gore-Te](https://images-eu.ssl-images-amazon.com/images/I/41nP2yJoquL._SL200_.jpg)](https://www.amazon.es/dp/B07BB42QP6/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BB42QP6/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

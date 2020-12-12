@@ -2,35 +2,27 @@
 layout: post
 title: 'Trials of Mana al 50.19 % de descuento'
 date: 2020-11-23 17:14:47
-thumbnailImage: 'https://m.media-amazon.com/images/I/51pjWNfQ-TL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51pjWNfQ-TL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51pjWNfQ-TL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07XLVL3NZ-es'
-description:
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9
 comparePrice: 49.99 EUR
-inStock: true
 prodname: 'Trials of Mana'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07XLVL3NZ/?tag=tolees-21'
 descuento: '50.19'
-titulo: 'Trials of Mana'
 ---
 
 Está [Trials of Mana](https://www.amazon.es/dp/B07XLVL3NZ/?tag=tolees-21) con 50.19 de descuento por 24.9 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Trials of Mana](https://m.media-amazon.com/images/I/51pjWNfQ-TL._SL200_.jpg)](https://www.amazon.es/dp/B07XLVL3NZ/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XLVL3NZ/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

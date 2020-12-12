@@ -2,35 +2,27 @@
 layout: post
 title: 'Descuento del 57.74 % en Crash Bandicoot N.Sane Trilogy'
 date: 2020-12-08 12:53:22
-thumbnailImage: 'https://m.media-amazon.com/images/I/61iAOU-b4VL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/61iAOU-b4VL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/61iAOU-b4VL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07BB9G17C-es'
-description:
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9
 comparePrice: 39.99 EUR
-inStock: true
 prodname: 'Crash Bandicoot N.Sane Trilogy'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB9G17C/?tag=tolees-21'
 descuento: '57.74'
-titulo: 'Crash Bandicoot N.Sane Trilogy'
 ---
 
 Tienes [Crash Bandicoot N.Sane Trilogy](https://www.amazon.es/dp/B07BB9G17C/?tag=tolees-21) con un 57.74 % de descuento con precio de oferta de 16.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Crash Bandicoot N.Sane Trilogy](https://m.media-amazon.com/images/I/61iAOU-b4VL._SL200_.jpg)](https://www.amazon.es/dp/B07BB9G17C/?tag=tolees-21)
 
-Características principales:
+ℹ️:
 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BB9G17C/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

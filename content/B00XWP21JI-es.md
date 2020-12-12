@@ -2,35 +2,27 @@
 layout: post
 title: 'Descuento del 40.00 % en Nike NIKE MD RUNNER 2 Zapatillas de runn'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dxP2kHo4L._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dxP2kHo4L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dxP2kHo4L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B00XWP21JI-es'
-description:
 actualPrice: 39 EUR
 currency: EUR
 price: 39
 comparePrice: 65 EUR
-inStock: true
 prodname: 'Nike NIKE MD RUNNER 2 Zapatillas de running Hombre  Gris/Negro/Blanco  Wolf Grey/Black-White   46 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XWP21JI/?tag=tolees-21'
 descuento: '40.00'
-titulo: 'Nike NIKE MD RUNNER 2 Zapatillas de runn'
 ---
 
 Tienes [Nike NIKE MD RUNNER 2 Zapatillas de running Hombre  Gris/Negro/Blanco  Wolf Grey/Black-White   46 EU](https://www.amazon.es/dp/B00XWP21JI/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 39 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![Nike NIKE MD RUNNER 2 Zapatillas de runn](https://images-eu.ssl-images-amazon.com/images/I/41dxP2kHo4L._SL200_.jpg)](https://www.amazon.es/dp/B00XWP21JI/?tag=tolees-21)
 
-Características principales:
+ℹ️:
 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XWP21JI/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

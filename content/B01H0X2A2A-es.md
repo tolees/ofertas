@@ -2,33 +2,27 @@
 layout: post
 title: 'South Park: Retaguardia En Peligro - Sta al 35.02 % de descuento'
 date: 2020-11-01 12:02:15
-thumbnailImage: 'https://m.media-amazon.com/images/I/51ah2WWNZaL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51ah2WWNZaL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51ah2WWNZaL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B01H0X2A2A-es'
-description:
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99
 comparePrice: 19.99 EUR
-inStock: true
 prodname: 'South Park: Retaguardia En Peligro - Standard Edition'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H0X2A2A/?tag=tolees-21'
 descuento: '35.02'
-titulo: 'South Park: Retaguardia En Peligro - Sta'
 ---
 
 Ahora mismo tienes [South Park: Retaguardia En Peligro - Standard Edition](https://www.amazon.es/dp/B01H0X2A2A/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!
 
 [![South Park: Retaguardia En Peligro - Sta](https://m.media-amazon.com/images/I/51ah2WWNZaL._SL200_.jpg)](https://www.amazon.es/dp/B01H0X2A2A/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01H0X2A2A/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

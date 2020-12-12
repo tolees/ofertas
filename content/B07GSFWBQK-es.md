@@ -2,35 +2,27 @@
 layout: post
 title: 'NIVEA Leche Limpiadora Suave  para Piel  al 47.61 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F%2BGkikenL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31F%2BGkikenL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F%2BGkikenL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07GSFWBQK-es'
-description:
 actualPrice: 16.63 EUR
 currency: EUR
 price: 16.63
 comparePrice: 31.74 EUR
-inStock: true
 prodname: 'NIVEA Leche Limpiadora Suave  para Piel Seca y Sensible - 200 ml - 6 unidades'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GSFWBQK/?tag=tolees-21'
 descuento: '47.61'
-titulo: 'NIVEA Leche Limpiadora Suave  para Piel '
 ---
 
 Está [NIVEA Leche Limpiadora Suave  para Piel Seca y Sensible - 200 ml - 6 unidades](https://www.amazon.es/dp/B07GSFWBQK/?tag=tolees-21) con 47.61 de descuento por 16.63 EUR (original: 31.74 EUR) en el siguiente enlace!
 
 [![NIVEA Leche Limpiadora Suave  para Piel ](https://images-eu.ssl-images-amazon.com/images/I/31F%2BGkikenL._SL200_.jpg)](https://www.amazon.es/dp/B07GSFWBQK/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GSFWBQK/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

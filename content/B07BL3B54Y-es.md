@@ -2,35 +2,27 @@
 layout: post
 title: 'New Balance Fuel Core 5000  Zapatillas d al 71.38 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41edqnwrulL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41edqnwrulL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41edqnwrulL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07BL3B54Y-es'
-description:
 actualPrice: 25.76 EUR
 currency: EUR
 price: 25.76
 comparePrice: 90 EUR
-inStock: true
 prodname: 'New Balance Fuel Core 5000  Zapatillas de Running para Mujer  Negro  Black/Voltage Violet Bv   40.5 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL3B54Y/?tag=tolees-21'
 descuento: '71.38'
-titulo: 'New Balance Fuel Core 5000  Zapatillas d'
 ---
 
 Está [New Balance Fuel Core 5000  Zapatillas de Running para Mujer  Negro  Black/Voltage Violet Bv   40.5 EU](https://www.amazon.es/dp/B07BL3B54Y/?tag=tolees-21) con 71.38 de descuento por 25.76 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![New Balance Fuel Core 5000  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41edqnwrulL._SL200_.jpg)](https://www.amazon.es/dp/B07BL3B54Y/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BL3B54Y/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

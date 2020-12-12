@@ -2,35 +2,27 @@
 layout: post
 title: 'Batman: La Broma Asesina [Blu-ray] al 42.14 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HYQDrcAGL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HYQDrcAGL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HYQDrcAGL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B01HQVVDLU-es'
-description:
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69
 comparePrice: 13.29 EUR
-inStock: true
 prodname: 'Batman: La Broma Asesina [Blu-ray]'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HQVVDLU/?tag=tolees-21'
 descuento: '42.14'
-titulo: 'Batman: La Broma Asesina [Blu-ray]'
 ---
 
 Está [Batman: La Broma Asesina [Blu-ray]](https://www.amazon.es/dp/B01HQVVDLU/?tag=tolees-21) con 42.14 de descuento por 7.69 EUR (original: 13.29 EUR) en el siguiente enlace!
 
 [![Batman: La Broma Asesina [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51HYQDrcAGL._SL200_.jpg)](https://www.amazon.es/dp/B01HQVVDLU/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01HQVVDLU/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

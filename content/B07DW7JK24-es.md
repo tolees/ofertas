@@ -2,33 +2,27 @@
 layout: post
 title: 'E27 Bombilla Vintage Retro 4W Equivalent al 35.31 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mlyCHuOgL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mlyCHuOgL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mlyCHuOgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07DW7JK24-es'
-description:
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99
 comparePrice: 16.99 EUR
-inStock: true
 prodname: 'E27 Bombilla Vintage Retro 4W Equivalente a 40W Regulable Bombilla LED Filamento G45 Blanco Frío 6000K 4 Unidades'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DW7JK24/?tag=tolees-21'
 descuento: '35.31'
-titulo: 'E27 Bombilla Vintage Retro 4W Equivalent'
 ---
 
 Ahora mismo tienes [E27 Bombilla Vintage Retro 4W Equivalente a 40W Regulable Bombilla LED Filamento G45 Blanco Frío 6000K 4 Unidades](https://www.amazon.es/dp/B07DW7JK24/?tag=tolees-21) a 10.99 EUR (original: 16.99 EUR) (35.31 %  de descuento) en el siguiente enlace!
 
 [![E27 Bombilla Vintage Retro 4W Equivalent](https://images-eu.ssl-images-amazon.com/images/I/41mlyCHuOgL._SL200_.jpg)](https://www.amazon.es/dp/B07DW7JK24/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DW7JK24/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

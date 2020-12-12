@@ -2,35 +2,27 @@
 layout: post
 title: 'Descuento del 28.58 % en Última Android 7.1 TV Box- TICTID AX9 MA'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oFTM5As0L._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oFTM5As0L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oFTM5As0L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07GJ8PS84-es'
-description:
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99
 comparePrice: 69.99 EUR
-inStock: true
 prodname: 'Última Android 7.1 TV Box- TICTID AX9 MAX TV Box con Mini Teclado inalámbirco con touchpad 2GB/16GB EMMC Quad-Core 64-bit Cortex-A53 2.4G WiFi/ H.265 DLNA /4K Smart TV Box'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJ8PS84/?tag=tolees-21'
 descuento: '28.58'
-titulo: 'Última Android 7.1 TV Box- TICTID AX9 MA'
 ---
 
 Tienes [Última Android 7.1 TV Box- TICTID AX9 MAX TV Box con Mini Teclado inalámbirco con touchpad 2GB/16GB EMMC Quad-Core 64-bit Cortex-A53 2.4G WiFi/ H.265 DLNA /4K Smart TV Box](https://www.amazon.es/dp/B07GJ8PS84/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Última Android 7.1 TV Box- TICTID AX9 MA](https://images-eu.ssl-images-amazon.com/images/I/41oFTM5As0L._SL200_.jpg)](https://www.amazon.es/dp/B07GJ8PS84/?tag=tolees-21)
 
-Características principales:
+ℹ️:
 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GJ8PS84/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

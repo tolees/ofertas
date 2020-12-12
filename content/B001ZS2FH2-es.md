@@ -2,33 +2,27 @@
 layout: post
 title: 'Mennekes 101200040 Clavijas Inversoras d al 32.17 % de descuento'
 date: 2020-11-02 15:27:27
-thumbnailImage: 'https://m.media-amazon.com/images/I/413sUYyFKwL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/413sUYyFKwL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/413sUYyFKwL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B001ZS2FH2-es'
-description:
 actualPrice: 25.94 EUR
 currency: EUR
 price: 25.94
 comparePrice: 38.24 EUR
-inStock: true
 prodname: 'Mennekes 101200040 Clavijas Inversoras de Fase  Tomas de Corriente CEE  400 V  50-60 Hz  16 A  4 Polos  IP 44  Rojo'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001ZS2FH2/?tag=tolees-21'
 descuento: '32.17'
-titulo: 'Mennekes 101200040 Clavijas Inversoras d'
 ---
 
 Ahora mismo tienes [Mennekes 101200040 Clavijas Inversoras de Fase  Tomas de Corriente CEE  400 V  50-60 Hz  16 A  4 Polos  IP 44  Rojo](https://www.amazon.es/dp/B001ZS2FH2/?tag=tolees-21) a 25.94 EUR (original: 38.24 EUR) (32.17 %  de descuento) en el siguiente enlace!
 
 [![Mennekes 101200040 Clavijas Inversoras d](https://m.media-amazon.com/images/I/413sUYyFKwL._SL200_.jpg)](https://www.amazon.es/dp/B001ZS2FH2/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B001ZS2FH2/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

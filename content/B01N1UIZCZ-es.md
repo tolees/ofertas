@@ -2,33 +2,27 @@
 layout: post
 title: 'adidas CF Lite Racer  Zapatillas para Ho al 49.99 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419uPPAwobL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419uPPAwobL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419uPPAwobL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B01N1UIZCZ-es'
-description:
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48
 comparePrice: 64.95 EUR
-inStock: true
 prodname: 'adidas CF Lite Racer  Zapatillas para Hombre  Blanco Footwear White/Clear Onix 0  44 2/3 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1UIZCZ/?tag=tolees-21'
 descuento: '49.99'
-titulo: 'adidas CF Lite Racer  Zapatillas para Ho'
 ---
 
 Ahora mismo tienes [adidas CF Lite Racer  Zapatillas para Hombre  Blanco Footwear White/Clear Onix 0  44 2/3 EU](https://www.amazon.es/dp/B01N1UIZCZ/?tag=tolees-21) a 32.48 EUR (original: 64.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
 [![adidas CF Lite Racer  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/419uPPAwobL._SL200_.jpg)](https://www.amazon.es/dp/B01N1UIZCZ/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N1UIZCZ/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

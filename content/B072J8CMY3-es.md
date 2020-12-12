@@ -2,33 +2,27 @@
 layout: post
 title: 'Bombilla LED Esférica Casquillo E27  12W al 50.22 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dUS9wDUDL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dUS9wDUDL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dUS9wDUDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B072J8CMY3-es'
-description:
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19
 comparePrice: 22.48 EUR
-inStock: true
 prodname: 'Bombilla LED Esférica Casquillo E27  12W  Equivalente a 100W  Luz Blanca 6000K  960 Lúmenes  no Regulable  Pack de 4 Unidades'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072J8CMY3/?tag=tolees-21'
 descuento: '50.22'
-titulo: 'Bombilla LED Esférica Casquillo E27  12W'
 ---
 
 Ahora mismo tienes [Bombilla LED Esférica Casquillo E27  12W  Equivalente a 100W  Luz Blanca 6000K  960 Lúmenes  no Regulable  Pack de 4 Unidades](https://www.amazon.es/dp/B072J8CMY3/?tag=tolees-21) a 11.19 EUR (original: 22.48 EUR) (50.22 %  de descuento) en el siguiente enlace!
 
 [![Bombilla LED Esférica Casquillo E27  12W](https://images-eu.ssl-images-amazon.com/images/I/31dUS9wDUDL._SL200_.jpg)](https://www.amazon.es/dp/B072J8CMY3/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072J8CMY3/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

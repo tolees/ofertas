@@ -2,33 +2,27 @@
 layout: post
 title: 'DeWalt Hoja de Sierra de calar HCS  DT20 al 33.80 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B1wf1p%2BLL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31B1wf1p%2BLL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B1wf1p%2BLL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B000Y8RY6Q-es'
-description:
 actualPrice: 6.62 EUR
 currency: EUR
 price: 6.62
 comparePrice: 10 EUR
-inStock: true
 prodname: 'DeWalt Hoja de Sierra de calar HCS  DT2074-QZ  Negro  Gris'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000Y8RY6Q/?tag=tolees-21'
 descuento: '33.80'
-titulo: 'DeWalt Hoja de Sierra de calar HCS  DT20'
 ---
 
 Ahora mismo tienes [DeWalt Hoja de Sierra de calar HCS  DT2074-QZ  Negro  Gris](https://www.amazon.es/dp/B000Y8RY6Q/?tag=tolees-21) a 6.62 EUR (original: 10 EUR) (33.80 %  de descuento) en el siguiente enlace!
 
 [![DeWalt Hoja de Sierra de calar HCS  DT20](https://images-eu.ssl-images-amazon.com/images/I/31B1wf1p%2BLL._SL200_.jpg)](https://www.amazon.es/dp/B000Y8RY6Q/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000Y8RY6Q/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -2,33 +2,27 @@
 layout: post
 title: 'NANOCABLE 10.01.2100 - Cable 3A USB 2.0  al 35.11 % de descuento'
 date: 2020-12-10 11:15:43
-thumbnailImage: 'https://m.media-amazon.com/images/I/41cgB2D4lUL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41cgB2D4lUL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41cgB2D4lUL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07373KKQB-es'
-description:
 actualPrice: 2.92 EUR
 currency: EUR
 price: 2.92
 comparePrice: 4.5 EUR
-inStock: true
 prodname: 'NANOCABLE 10.01.2100 - Cable 3A USB 2.0 a USB-C  Uso Principal moviles  Tablets  portatiles  etc. hasta 3 Amperios de Carga  Tipo C/M-A/M  Macho-Macho Negro  0.5 MTS'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07373KKQB/?tag=tolees-21'
 descuento: '35.11'
-titulo: 'NANOCABLE 10.01.2100 - Cable 3A USB 2.0 '
 ---
 
 Ahora mismo tienes [NANOCABLE 10.01.2100 - Cable 3A USB 2.0 a USB-C  Uso Principal moviles  Tablets  portatiles  etc. hasta 3 Amperios de Carga  Tipo C/M-A/M  Macho-Macho Negro  0.5 MTS](https://www.amazon.es/dp/B07373KKQB/?tag=tolees-21) a 2.92 EUR (original: 4.5 EUR) (35.11 %  de descuento) en el siguiente enlace!
 
 [![NANOCABLE 10.01.2100 - Cable 3A USB 2.0 ](https://m.media-amazon.com/images/I/41cgB2D4lUL._SL200_.jpg)](https://www.amazon.es/dp/B07373KKQB/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07373KKQB/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

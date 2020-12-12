@@ -2,33 +2,27 @@
 layout: post
 title: 'Scribblenauts Showdown al 39.88 % de descuento'
 date: 2020-12-04 09:15:05
-thumbnailImage: 'https://m.media-amazon.com/images/I/51uzDDiYUaL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51uzDDiYUaL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51uzDDiYUaL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B0794MCD6P-es'
-description:
 actualPrice: 14.85 EUR
 currency: EUR
 price: 14.85
 comparePrice: 24.7 EUR
-inStock: true
 prodname: 'Scribblenauts Showdown'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0794MCD6P/?tag=tolees-21'
 descuento: '39.88'
-titulo: 'Scribblenauts Showdown'
 ---
 
 Ahora mismo tienes [Scribblenauts Showdown](https://www.amazon.es/dp/B0794MCD6P/?tag=tolees-21) a 14.85 EUR (original: 24.7 EUR) (39.88 %  de descuento) en el siguiente enlace!
 
 [![Scribblenauts Showdown](https://m.media-amazon.com/images/I/51uzDDiYUaL._SL200_.jpg)](https://www.amazon.es/dp/B0794MCD6P/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0794MCD6P/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

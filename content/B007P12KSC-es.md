@@ -2,35 +2,27 @@
 layout: post
 title: 'Moulin Rouge [Blu-ray] al 59.18 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510qnUXWzQL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/510qnUXWzQL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510qnUXWzQL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B007P12KSC-es'
-description:
 actualPrice: 5 EUR
 currency: EUR
 price: 5
 comparePrice: 12.25 EUR
-inStock: true
 prodname: 'Moulin Rouge [Blu-ray]'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007P12KSC/?tag=tolees-21'
 descuento: '59.18'
-titulo: 'Moulin Rouge [Blu-ray]'
 ---
 
 Está [Moulin Rouge [Blu-ray]](https://www.amazon.es/dp/B007P12KSC/?tag=tolees-21) con 59.18 de descuento por 5 EUR (original: 12.25 EUR) en el siguiente enlace!
 
 [![Moulin Rouge [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/510qnUXWzQL._SL200_.jpg)](https://www.amazon.es/dp/B007P12KSC/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B007P12KSC/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

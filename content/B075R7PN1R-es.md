@@ -2,33 +2,27 @@
 layout: post
 title: 'New Balance Fuel Core Sonic v2  Zapatill al 58.16 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lCj-3OfkL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lCj-3OfkL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lCj-3OfkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B075R7PN1R-es'
-description:
 actualPrice: 54.39 EUR
 currency: EUR
 price: 54.39
 comparePrice: 130 EUR
-inStock: true
 prodname: 'New Balance Fuel Core Sonic v2  Zapatillas de Running para Mujer  Naranja  Dragonfly/White Dg2   41 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R7PN1R/?tag=tolees-21'
 descuento: '58.16'
-titulo: 'New Balance Fuel Core Sonic v2  Zapatill'
 ---
 
 Ahora mismo tienes [New Balance Fuel Core Sonic v2  Zapatillas de Running para Mujer  Naranja  Dragonfly/White Dg2   41 EU](https://www.amazon.es/dp/B075R7PN1R/?tag=tolees-21) a 54.39 EUR (original: 130 EUR) (58.16 %  de descuento) en el siguiente enlace!
 
 [![New Balance Fuel Core Sonic v2  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41lCj-3OfkL._SL200_.jpg)](https://www.amazon.es/dp/B075R7PN1R/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075R7PN1R/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -2,35 +2,27 @@
 layout: post
 title: 'Kärcher 1.324-000.0 K4 Full Control - Hi al 36.49 % de descuento'
 date: 2020-11-25 18:12:36
-thumbnailImage: 'https://m.media-amazon.com/images/I/41offGYrihL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41offGYrihL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41offGYrihL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B0185UN2PG-es'
-description:
 actualPrice: 158.75 EUR
 currency: EUR
 price: 158.75
 comparePrice: 249.95 EUR
-inStock: true
 prodname: 'Kärcher 1.324-000.0 K4 Full Control - Hidrolimpiadora de Alta Presión para Exteriores 130 bar  1800 W  420 L/h'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0185UN2PG/?tag=tolees-21'
 descuento: '36.49'
-titulo: 'Kärcher 1.324-000.0 K4 Full Control - Hi'
 ---
 
 Está [Kärcher 1.324-000.0 K4 Full Control - Hidrolimpiadora de Alta Presión para Exteriores 130 bar  1800 W  420 L/h](https://www.amazon.es/dp/B0185UN2PG/?tag=tolees-21) con 36.49 de descuento por 158.75 EUR (original: 249.95 EUR) en el siguiente enlace!
 
 [![Kärcher 1.324-000.0 K4 Full Control - Hi](https://m.media-amazon.com/images/I/41offGYrihL._SL200_.jpg)](https://www.amazon.es/dp/B0185UN2PG/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0185UN2PG/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

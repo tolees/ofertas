@@ -2,33 +2,27 @@
 layout: post
 title: 'The North Face W Litewave Fastpack II  Z al 50.00 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wnh0vOKjL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wnh0vOKjL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wnh0vOKjL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07N38KM2K-es'
-description:
 actualPrice: 45 EUR
 currency: EUR
 price: 45
 comparePrice: 90 EUR
-inStock: true
 prodname: 'The North Face W Litewave Fastpack II  Zapatillas de Senderismo para Mujer  Gris  Ebony Grey/Atomic Pink C3c   37.5 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N38KM2K/?tag=tolees-21'
 descuento: '50.00'
-titulo: 'The North Face W Litewave Fastpack II  Z'
 ---
 
 Ahora mismo tienes [The North Face W Litewave Fastpack II  Zapatillas de Senderismo para Mujer  Gris  Ebony Grey/Atomic Pink C3c   37.5 EU](https://www.amazon.es/dp/B07N38KM2K/?tag=tolees-21) a 45 EUR (original: 90 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![The North Face W Litewave Fastpack II  Z](https://images-eu.ssl-images-amazon.com/images/I/41Wnh0vOKjL._SL200_.jpg)](https://www.amazon.es/dp/B07N38KM2K/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N38KM2K/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

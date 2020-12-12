@@ -2,33 +2,27 @@
 layout: post
 title: 'H13 bombilla led establecen la cabeza LU al 91.74 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dYJKmoWHL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dYJKmoWHL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dYJKmoWHL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07DR1BKKQ-es'
-description:
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
 comparePrice: 120.99 EUR
-inStock: true
 prodname: 'H13 bombilla led establecen la cabeza LUXEON 50W 8000LM w/chip led integrado a amber y blanco  3000K/6500K  puede ajustar el [1 año de garantía ; caja de 2]'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DR1BKKQ/?tag=tolees-21'
 descuento: '91.74'
-titulo: 'H13 bombilla led establecen la cabeza LU'
 ---
 
 Ahora mismo tienes [H13 bombilla led establecen la cabeza LUXEON 50W 8000LM w/chip led integrado a amber y blanco  3000K/6500K  puede ajustar el [1 año de garantía ; caja de 2]](https://www.amazon.es/dp/B07DR1BKKQ/?tag=tolees-21) a 9.99 EUR (original: 120.99 EUR) (91.74 %  de descuento) en el siguiente enlace!
 
 [![H13 bombilla led establecen la cabeza LU](https://images-eu.ssl-images-amazon.com/images/I/51dYJKmoWHL._SL200_.jpg)](https://www.amazon.es/dp/B07DR1BKKQ/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DR1BKKQ/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

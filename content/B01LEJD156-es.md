@@ -2,35 +2,27 @@
 layout: post
 title: 'POP! Vinilo - Games: Street Fighter: Bal al 50.23 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mz2DiUspL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mz2DiUspL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mz2DiUspL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B01LEJD156-es'
-description:
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46
 comparePrice: 14.99 EUR
-inStock: true
 prodname: 'POP! Vinilo - Games: Street Fighter: Balrog'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LEJD156/?tag=tolees-21'
 descuento: '50.23'
-titulo: 'POP! Vinilo - Games: Street Fighter: Bal'
 ---
 
 Está [POP! Vinilo - Games: Street Fighter: Balrog](https://www.amazon.es/dp/B01LEJD156/?tag=tolees-21) con 50.23 de descuento por 7.46 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![POP! Vinilo - Games: Street Fighter: Bal](https://images-eu.ssl-images-amazon.com/images/I/51mz2DiUspL._SL200_.jpg)](https://www.amazon.es/dp/B01LEJD156/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LEJD156/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

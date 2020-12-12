@@ -2,35 +2,27 @@
 layout: post
 title: 'JACK & JONES Jjspider Canvas Sneaker Lig al 50.61 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EjTOIjIFL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EjTOIjIFL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EjTOIjIFL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B071V6V2SS-es'
-description:
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75
 comparePrice: 39.99 EUR
-inStock: true
 prodname: 'JACK & JONES Jjspider Canvas Sneaker Light Blue Denim  Zapatillas para Hombre  Azul  44 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071V6V2SS/?tag=tolees-21'
 descuento: '50.61'
-titulo: 'JACK & JONES Jjspider Canvas Sneaker Lig'
 ---
 
 Está [JACK & JONES Jjspider Canvas Sneaker Light Blue Denim  Zapatillas para Hombre  Azul  44 EU](https://www.amazon.es/dp/B071V6V2SS/?tag=tolees-21) con 50.61 de descuento por 19.75 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![JACK & JONES Jjspider Canvas Sneaker Lig](https://images-eu.ssl-images-amazon.com/images/I/41EjTOIjIFL._SL200_.jpg)](https://www.amazon.es/dp/B071V6V2SS/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071V6V2SS/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
